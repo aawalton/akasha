@@ -13,7 +13,7 @@ import {
 
 const MS_PER_MINUTE = 60_000
 
-const SEAT = "amy-alan-handler"
+const SEAT = "alan"
 
 async function settle(): Promise<void> {
   await new Promise((resolve) => setTimeout(resolve, 0))
