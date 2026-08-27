@@ -1,6 +1,6 @@
 export const tool = {
   summary: "List the quarantined documents nothing cites, one path per line",
-  repos: ["instructions"],
+  repos: ["akasha"],
 } as const
 
 import { readFileSync } from "node:fs"
@@ -16,8 +16,8 @@ const HELP = `bun tools/unreached.ts — the quarantined documents nothing cites
 Prints nothing but paths: sorted, root-relative, one per line, on stdout. No header,
 no count, no summary, no colour. It is meant to be the left-hand side of a pipe.
 
-  bun ~/repos/instructions/tools/unreached.ts | wc -l
-  bun ~/repos/instructions/tools/unreached.ts --reached | xargs -n1 echo ingest:
+  bun ~/repos/akasha/tools/unreached.ts | wc -l
+  bun ~/repos/akasha/tools/unreached.ts --reached | xargs -n1 echo ingest:
 
 The split it found goes to stderr, where a pipe never sees it.
 
@@ -45,7 +45,7 @@ here. Retiring on this alone is retiring on evidence rather than on a conclusion
 is a judgment this cannot make for you.
 
 Usage:
-  bun ~/repos/instructions/tools/unreached.ts [--reached]
+  bun ~/repos/akasha/tools/unreached.ts [--reached]
 
 Flags:
   --reached  List the complement instead: the quarantined documents something cites.

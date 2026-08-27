@@ -1,6 +1,6 @@
 export const tool = {
   summary: "Publish every code-repository module this repository reaches",
-  repos: ["instructions"],
+  repos: ["akasha"],
 } as const
 
 import { codeReaches, type Reach } from "./lib/code-reaches.ts"
@@ -13,8 +13,8 @@ what this repository's TypeScript hands to \`codeModule\`, \`codeModuleSync\` an
 \`runCodeCommand\` on this run, so a reach added appears without anybody remembering to add
 it, and one removed goes the same way.
 
-  bun ~/repos/instructions/tools/reaches.ts --json
-  bun ~/repos/instructions/tools/reaches.ts | head
+  bun ~/repos/akasha/tools/reaches.ts --json
+  bun ~/repos/akasha/tools/reaches.ts | head
 
 A REF IS NEVER RESOLVED HERE. This repository has no checkout of the code repository being
 judged, and a pod's is not at \`~/code\`. Each ref is published as written, with the \`path\`
@@ -70,7 +70,7 @@ that publishing one would refuse a consumer's whole run. The count below says ho
 than inferred.
 
 Usage:
-  bun ~/repos/instructions/tools/reaches.ts [--json]
+  bun ~/repos/akasha/tools/reaches.ts [--json]
 
 Flags:
   --json  One JSON object on stdout: \`scanned\`, \`reaches\` and \`ambiguous\` (each \`ref\`,
