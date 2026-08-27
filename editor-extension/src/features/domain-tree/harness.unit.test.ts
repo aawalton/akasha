@@ -6,7 +6,7 @@
 /**
  * What this extension will and will not accept from the harness verb.
  *
- * The boundary is the point: `ops akasha champions --tree --json` is another area's command,
+ * The boundary is the point: `ops domain champions --tree --json` is another area's command,
  * changed by seats that never open this file. What these assert is that a changed shape
  * arrives here as a stated error rather than as a tree built out of `undefined`.
  */
