@@ -29,3 +29,9 @@ A formula chooses between values with a case, and with nothing else.
 Every case ends with an `otherwise` row.
 
 A case works out only the value of the row whose test passed.
+
+A formula names a computed property exactly as it names a stored one.
+
+A formula gives no value a name of its own.
+
+A cycle among a page type's formulas is refused when the page type is checked.
