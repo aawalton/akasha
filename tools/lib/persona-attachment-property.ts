@@ -2,17 +2,10 @@ import { readFileSync } from "node:fs"
 import { join } from "node:path"
 import { parseFrontmatter } from "../../page/frontmatter.ts"
 import { placeDirOf } from "../../page/page-types.ts"
-
-function instructionsRoot(): string {
-  const named = process.env.INSTRUCTIONS_ROOT
-  if (named !== undefined && named !== "") return named
-  const home = process.env.HOME ?? ""
-  return join(home, "repos", "instructions")
-}
+import { akashaRoot } from "../../repo/roots/roots.ts"
 
 function personaDir(): string {
-  const root = instructionsRoot()
-  return join(root, placeDirOf("persona"))
+  return join(akashaRoot(), placeDirOf("persona"))
 }
 
 export function personaAttachment(slug: string, key: string): string | undefined {

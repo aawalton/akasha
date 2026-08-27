@@ -1,6 +1,7 @@
 
 import { existsSync } from "node:fs"
 import { join } from "node:path"
+import { akashaRoot } from "../../repo/roots/roots.ts"
 import { shape } from "./shape.ts"
 
 const LOG = "[spawn-agents]"
@@ -54,37 +55,22 @@ async function composed(): Promise<{ out: string } | { reason: string }> {
   }
 }
 
-const ENV_VALUE = shape.string().optional()
-
 interface InstructionsAnswer {
   readonly stdout: string
   readonly stderr: string
   readonly code: number
 }
 
-function instructionsRoot(): string | null {
-  const override = ENV_VALUE.parse(process.env.INSTRUCTIONS_ROOT)
-  if (override !== undefined && override !== "") return override
-  const home = ENV_VALUE.parse(process.env.HOME)
-  return home === undefined || home === "" ? null : join(home, "instructions")
-}
-
 function commandPath(verb: string): string {
-  return join(instructionsRoot() ?? "", "tools", `${verb}.ts`)
+  return join(akashaRoot(), "tools", `${verb}.ts`)
 }
 
 async function runInstructions(verb: string, ceilingMs: number): Promise<InstructionsAnswer> {
-  const root = instructionsRoot()
-  if (root === null)
-    throw new Error(
-      `${verb}: no instructions root, so no command there can be run. ` +
-        "Set INSTRUCTIONS_ROOT, or make $HOME/repos/instructions a checkout."
-    )
-
+  const root = akashaRoot()
   if (!existsSync(root))
     throw new Error(
-      `${verb}: the instructions root ${root} is not there, so no command under it ` +
-        "can be run. Nothing is wrong with bun. Set INSTRUCTIONS_ROOT to a checkout."
+      `${verb}: the akasha root ${root} is not there, so no command under it ` +
+        "can be run. Nothing is wrong with bun. Set AKASHA_ROOT to a checkout."
     )
 
   const proc = Bun.spawn({

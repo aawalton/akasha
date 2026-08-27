@@ -7,6 +7,7 @@ import {
 } from "./tmux-launch-recipe.ts"
 import { SEAT_MODE_HEADLESS } from "./seat-modes.ts"
 import { resolve } from "node:path"
+import { akashaRoot } from "../../repo/roots/roots.ts"
 
 const TMUX_CALL_CEILING_MS = 10_000
 
@@ -34,14 +35,10 @@ export interface TmuxCall {
   readonly err: string
 }
 
-export function instructionsRoot(): string {
-  const stated = process.env.INSTRUCTIONS_ROOT
-  if (stated !== undefined && stated !== "") return stated
-  return `${process.env.HOME ?? "/home/walton"}/repos/instructions`
-}
+export { akashaRoot }
 
 export function seatStartDir(): string {
-  return resolve(instructionsRoot(), "..")
+  return resolve(akashaRoot(), "..")
 }
 
 export function buildSupervisorCmd(root: string, opts: LaunchSeatOpts): readonly string[] {
@@ -137,7 +134,7 @@ export async function launchSeatUnderTmux(opts: LaunchSeatOpts): Promise<LaunchS
   }
 
   const scopeUnit = (await serverIsUp()) ? null : `tmux-seat-${name}-${Date.now()}`
-  const cmd = buildSupervisorCmd(instructionsRoot(), opts)
+  const cmd = buildSupervisorCmd(akashaRoot(), opts)
   const launch = buildLaunchCmd(buildNewSessionArgs(opts, cmd), scopeUnit)
 
   const started = await runBounded(launch)
