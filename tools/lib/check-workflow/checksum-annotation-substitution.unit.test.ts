@@ -7,12 +7,12 @@ import {
 } from "./checksum-annotation-substitution.ts"
 
 const PACKAGE_ROOTS = [
-  "packages/infra/example",
-  "packages/infra/elsewhere",
-  "packages/infra/lib",
-  "packages/infra/seaweedfs",
-  "packages/infra/k8s",
-  "packages/infra/checks",
+  "infra/example",
+  "infra/elsewhere",
+  "infra/lib",
+  "infra/seaweedfs",
+  "infra/k8s",
+  "infra/cluster-checks",
 ] as const
 
 function scan(files: readonly ChecksumAnnotationScanFile[]) {
@@ -21,7 +21,7 @@ function scan(files: readonly ChecksumAnnotationScanFile[]) {
 
 function synth(key: string, value = "placeholder"): ChecksumAnnotationScanFile {
   return {
-    path: "packages/infra/example/k8s/synth.ts",
+    path: "infra/example/k8s/synth.ts",
     content: `export function deploymentYaml(): string {
   return toYaml({
     spec: { template: { metadata: { annotations: { "${key}": "${value}" } } } },
@@ -31,7 +31,7 @@ function synth(key: string, value = "placeholder"): ChecksumAnnotationScanFile {
   }
 }
 
-function sedStep(key: string, path = "packages/infra/example/src/foundation.workflow.ts") {
+function sedStep(key: string, path = "infra/example/src/foundation.workflow.ts") {
   return {
     path,
     content: `const applyDeployment = step({
@@ -50,7 +50,7 @@ describe("scanChecksumAnnotationSubstitution — clean when the idiom is complet
 
   test("a sed in a .sh file counts as a substitution site", () => {
     const shell: ChecksumAnnotationScanFile = {
-      path: "packages/infra/example/lib/deploy-functions.sh",
+      path: "infra/example/lib/deploy-functions.sh",
       content: `apply_tunnel_config() {
   local config_hash
   config_hash=$(md5sum "$configmap" | cut -d' ' -f1)
@@ -65,14 +65,14 @@ describe("scanChecksumAnnotationSubstitution — clean when the idiom is complet
     expect(
       scan([
         synth("checksum/s3-config"),
-        sedStep("checksum/s3-config", "packages/infra/example/deep/nested/foundation.workflow.ts"),
+        sedStep("checksum/s3-config", "infra/example/deep/nested/foundation.workflow.ts"),
       ])
     ).toEqual([])
   })
 
   test("a non-literal value is not a constant, so it needs no substitution", () => {
     const computed: ChecksumAnnotationScanFile = {
-      path: "packages/infra/example/k8s/synth.ts",
+      path: "infra/example/k8s/synth.ts",
       content:
         'const a = { annotations: { "checksum/config": configHash } }\n' +
         'const b = { annotations: { "checksum/other": `${configHash}` } }\n',
@@ -87,14 +87,14 @@ describe("scanChecksumAnnotationSubstitution — pairing is scoped to the emitte
     expect(
       scan([
         synth("checksum/config"),
-        sedStep("checksum/config", "packages/infra/elsewhere/src/foundation.workflow.ts"),
+        sedStep("checksum/config", "infra/elsewhere/src/foundation.workflow.ts"),
       ]).map((v) => v.key)
     ).toEqual(["checksum/config"])
   })
 
   test("the @infra/lib legacy shell seds cannot hold the gate green on their own", () => {
     const legacyShell: ChecksumAnnotationScanFile = {
-      path: "packages/infra/lib/deploy-functions.sh",
+      path: "infra/lib/deploy-functions.sh",
       content:
         '  sed "s|checksum/config:.*|checksum/config: \\"${config_hash}\\"|" "$deployment" | kubectl apply -n infra -f -\n',
     }
@@ -105,17 +105,17 @@ describe("scanChecksumAnnotationSubstitution — pairing is scoped to the emitte
 
   test("the nearest package wins, so a nested package does not borrow its parent's sed", () => {
     const nestedEmit: ChecksumAnnotationScanFile = {
-      path: "packages/infra/k8s/synth/synth.ts",
+      path: "infra/example/vendor/inner/k8s/synth.ts",
       content: '{ annotations: { "checksum/config": "placeholder" } }\n',
     }
     const parentSed = sedStep(
       "checksum/config",
-      "packages/infra/k8s/src/grafana/foundation.workflow.ts"
+      "infra/example/src/grafana/foundation.workflow.ts"
     )
     expect(
       scanChecksumAnnotationSubstitution(
         [nestedEmit, parentSed],
-        [...PACKAGE_ROOTS, "packages/infra/k8s/synth"]
+        [...PACKAGE_ROOTS, "infra/example/vendor/inner"]
       ).map((v) => v.key)
     ).toEqual(["checksum/config"])
   })
@@ -124,14 +124,14 @@ describe("scanChecksumAnnotationSubstitution — pairing is scoped to the emitte
 describe("scanChecksumAnnotationSubstitution — one substitution site per emit", () => {
   function service(name: string, key = "checksum/config"): ChecksumAnnotationScanFile {
     return {
-      path: `packages/infra/k8s/src/${name}/synth.ts`,
+      path: `infra/k8s/src/${name}/synth.ts`,
       content: `const d = { annotations: { "${key}": "placeholder" } }\n`,
     }
   }
 
   function serviceSed(name: string, key = "checksum/config"): ChecksumAnnotationScanFile {
     return {
-      path: `packages/infra/k8s/src/${name}/foundation.workflow.ts`,
+      path: `infra/k8s/src/${name}/foundation.workflow.ts`,
       content: `const s = step({
   commands: () => [
     'sed "s|${key}:.*|${key}: \\\\"\${HASH}\\\\"|" gen/d.yaml | kubectl apply -f -',
@@ -162,7 +162,7 @@ describe("scanChecksumAnnotationSubstitution — one substitution site per emit"
       serviceSed("cloudflared"),
       serviceSed("grafana"),
     ])
-    expect(v.map((x) => x.file)).toEqual(["packages/infra/k8s/src/buildkit/synth.ts"])
+    expect(v.map((x) => x.file)).toEqual(["infra/k8s/src/buildkit/synth.ts"])
   })
 
   test("two services losing their seds red together, both named", () => {
@@ -173,8 +173,8 @@ describe("scanChecksumAnnotationSubstitution — one substitution site per emit"
       serviceSed("cloudflared"),
     ])
     expect(v.map((x) => x.file)).toEqual([
-      "packages/infra/k8s/src/buildkit/synth.ts",
-      "packages/infra/k8s/src/grafana/synth.ts",
+      "infra/k8s/src/buildkit/synth.ts",
+      "infra/k8s/src/grafana/synth.ts",
     ])
   })
 
@@ -197,22 +197,22 @@ describe("scanChecksumAnnotationSubstitution — one substitution site per emit"
 
   test("two workloads whose seds share one file each need their own line", () => {
     const emits: ChecksumAnnotationScanFile = {
-      path: "packages/infra/loki/k8s/synth.ts",
+      path: "infra/loki-service/k8s/synth.ts",
       content:
         '{ annotations: { "checksum/config": "placeholder" } }\n' +
         '{ annotations: { "checksum/config": "placeholder" } }\n',
     }
     const oneSed: ChecksumAnnotationScanFile = {
-      path: "packages/infra/loki/foundation.workflow.ts",
+      path: "infra/loki-service/foundation.workflow.ts",
       content: '  sed "s|checksum/config:.*|checksum/config: x|" a.yaml\n',
     }
     const twoSeds: ChecksumAnnotationScanFile = {
-      path: "packages/infra/loki/foundation.workflow.ts",
+      path: "infra/loki-service/foundation.workflow.ts",
       content:
         '  sed "s|checksum/config:.*|checksum/config: x|" a.yaml\n' +
         '  sed "s|checksum/config:.*|checksum/config: x|" b.yaml\n',
     }
-    const roots = [...PACKAGE_ROOTS, "packages/infra/loki"]
+    const roots = [...PACKAGE_ROOTS, "infra/loki-service"]
     expect(scanChecksumAnnotationSubstitution([emits, oneSed], roots)).toHaveLength(1)
     expect(scanChecksumAnnotationSubstitution([emits, twoSeds], roots)).toEqual([])
   })
@@ -231,14 +231,14 @@ describe("scanChecksumAnnotationSubstitution — fires on a constant annotation"
   test("flags the seaweedfs defect: an emit with no sed anywhere", () => {
     const v = scan([
       {
-        path: "packages/infra/seaweedfs/k8s/synth-deployments.ts",
+        path: "infra/seaweedfs/k8s/synth-deployments.ts",
         content: `const d = {
   template: { metadata: { annotations: { "checksum/s3-config": "placeholder" } } },
 }
 `,
       },
       {
-        path: "packages/infra/seaweedfs/src/foundation.workflow.ts",
+        path: "infra/seaweedfs/src/foundation.workflow.ts",
         content: `const s = step({
   commands: () => ["kubectl apply --server-side -n seaweedfs -f gen/s3-gateway.generated.yaml"],
 })
@@ -248,7 +248,7 @@ describe("scanChecksumAnnotationSubstitution — fires on a constant annotation"
     expect(v).toHaveLength(1)
     expect(v[0]?.kind).toBe("checksum-annotation-unsubstituted")
     expect(v[0]?.key).toBe("checksum/s3-config")
-    expect(v[0]?.file).toBe("packages/infra/seaweedfs/k8s/synth-deployments.ts")
+    expect(v[0]?.file).toBe("infra/seaweedfs/k8s/synth-deployments.ts")
     expect(v[0]?.line).toBe(2)
   })
 
@@ -270,7 +270,7 @@ describe("scanChecksumAnnotationSubstitution — fires on a constant annotation"
   test("each unsubstituted emit is reported separately", () => {
     const v = scan([
       {
-        path: "packages/infra/example/k8s/synth.ts",
+        path: "infra/example/k8s/synth.ts",
         content:
           '{ annotations: { "checksum/config": "placeholder" } }\n' +
           '{ annotations: { "checksum/other": "placeholder" } }\n',
@@ -283,7 +283,7 @@ describe("scanChecksumAnnotationSubstitution — fires on a constant annotation"
 describe("scanChecksumAnnotationSubstitution — prose never counts", () => {
   test("the real electric doc comment describing its sed does not satisfy the key", () => {
     const docComment: ChecksumAnnotationScanFile = {
-      path: "packages/infra/k8s/src/electric/synth.ts",
+      path: "infra/k8s/src/electric/synth.ts",
       content: `/**
  * Pod-template annotation \`checksum/electric-secrets: bootstrap\` is a
  * sentinel the foundation workflow rewrites at apply time
@@ -298,11 +298,11 @@ const d = { annotations: { "checksum/electric-secrets": "bootstrap" } }
 
   test("a commented-out sed line does not satisfy the key, in .ts or in .sh", () => {
     const tsComment: ChecksumAnnotationScanFile = {
-      path: "packages/infra/example/src/foundation.workflow.ts",
+      path: "infra/example/src/foundation.workflow.ts",
       content: '// sed "s|checksum/config:.*|checksum/config: \\"$HASH\\"|" deployment.yaml\n',
     }
     const shComment: ChecksumAnnotationScanFile = {
-      path: "packages/infra/example/lib/deploy-functions.sh",
+      path: "infra/example/lib/deploy-functions.sh",
       content: '  # sed "s|checksum/config:.*|checksum/config: \\"$hash\\"|" "$deployment"\n',
     }
     for (const commented of [tsComment, shComment]) {
@@ -312,7 +312,7 @@ const d = { annotations: { "checksum/electric-secrets": "bootstrap" } }
 
   test("markdown is never scanned — a doc describing the sed satisfies nothing", () => {
     const doc: ChecksumAnnotationScanFile = {
-      path: "packages/infra/example/docs/k8s-deployment-patterns.md",
+      path: "infra/example/docs/k8s-deployment-patterns.md",
       content: 'sed -i "s|checksum/config: .*|checksum/config: \\"$HASH\\"|" deployment.yaml\n',
     }
     expect(scan([synth("checksum/config"), doc])).toHaveLength(1)
@@ -320,7 +320,7 @@ const d = { annotations: { "checksum/electric-secrets": "bootstrap" } }
 
   test("a test file is neither an emit site nor a substitution site", () => {
     const testFile: ChecksumAnnotationScanFile = {
-      path: "packages/infra/example/k8s/synth-deployments.unit.test.ts",
+      path: "infra/example/k8s/synth-deployments.unit.test.ts",
       content: `test("stamps the sentinel", () => {
   expect(yaml()).toContain('"checksum/config": "placeholder"')
   expect(cmds()).toContain('sed "s|checksum/config:.*|checksum/config: x|"')
@@ -345,7 +345,7 @@ const SED = 'sed "s|checksum/config:.*|checksum/config: x|"'
 
   test("blanking comments preserves line numbers of later emits", () => {
     const withHeader: ChecksumAnnotationScanFile = {
-      path: "packages/infra/example/k8s/synth.ts",
+      path: "infra/example/k8s/synth.ts",
       content: `/**
  * A block comment
  * spanning several lines.
