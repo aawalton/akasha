@@ -27,7 +27,6 @@ export interface Classified {
   readonly stopStderr?: string
   readonly seatCommand?: "present" | "refusing"
   readonly sorted?: { readonly role?: string; readonly domain?: string } | "refusing"
-  readonly skillDirs?: readonly string[]
   readonly personaSlugs?: readonly string[]
   readonly roleSlugs?: readonly string[]
   readonly domainSlugs?: readonly string[]
@@ -51,12 +50,6 @@ export async function runSn(
   const home = await mkdtemp(join(SCRATCH_ROOT, "sn-front-"))
   const akasha = join(home, "repos", "akasha")
   try {
-    for (const dir of classified.skillDirs ?? []) {
-      await mkdir(join(akasha, "skills", dir), { recursive: true })
-      await Bun.write(join(akasha, "skills", dir, "SKILL.md"), "# document\n")
-      await mkdir(join(akasha, "dirty", "skills", dir), { recursive: true })
-      await Bun.write(join(akasha, "dirty", "skills", dir, "SKILL.md"), "# document\n")
-    }
     for (const [type, slugs] of [
       ["persona", classified.personaSlugs ?? []],
       ["role", classified.roleSlugs ?? []],
