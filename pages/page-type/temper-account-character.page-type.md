@@ -5,7 +5,6 @@ id: 019dbae0-6528-7747-bc83-3b6189178589
 extends-slug: page
 files: akasha:**/*.temper-account-character.md
 body-shape-slug: empty
-named-for: "{eso-character-id}"
 owner-slug: account-page
 slug: temper-account-character
 plural-slug: temper-account-characters
