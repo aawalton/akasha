@@ -2,7 +2,7 @@
 page-type-slug: page-type
 title: "Persona appearance"
 id: 01a00112-5b1c-7000-97bf-47b7ae04097e
-extends-slug: domain
+extends-slug: page
 files: akasha:**/*.persona-appearance.md
 body-shape-slug: persona-appearance
 slug: persona-appearance
