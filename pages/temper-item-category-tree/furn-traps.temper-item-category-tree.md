@@ -1,5 +1,6 @@
 ---
 id: a171efdd-195d-5897-ad61-f4dc8dfff5dd
+slug: furn-traps
 page-type-slug: temper-item-category-tree
 title: Traps
 key: furn-traps

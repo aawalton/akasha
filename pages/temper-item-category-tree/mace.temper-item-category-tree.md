@@ -1,5 +1,6 @@
 ---
 id: a9d53512-ccab-5212-9952-8757635f1b1a
+slug: mace
 page-type-slug: temper-item-category-tree
 title: Mace
 key: mace

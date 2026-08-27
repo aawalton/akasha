@@ -1,5 +1,6 @@
 ---
 id: 09266832-8c10-59b0-bc8b-aed514333fd6
+slug: furn-remains
 page-type-slug: temper-item-category-tree
 title: Remains
 key: furn-remains

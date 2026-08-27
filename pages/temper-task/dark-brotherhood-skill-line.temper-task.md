@@ -1,6 +1,7 @@
 ---
 page-type-slug: temper-task
 id: 019db533-f381-75f7-aafa-ced3b56c5229
+slug: dark-brotherhood-skill-line
 title: Dark Brotherhood Skill Line
 account: 9ba554f7-cb18-48bb-a709-ec935a895ca7
 character: yvlon-byres

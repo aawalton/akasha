@@ -1,5 +1,6 @@
 ---
 id: 2b7e9a1a-72cf-59b4-a88f-f362de1145c5
+slug: siege-graveyard
 page-type-slug: temper-item-category-tree
 title: Graveyard
 key: siege-graveyard

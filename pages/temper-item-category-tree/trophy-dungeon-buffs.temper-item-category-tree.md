@@ -1,5 +1,6 @@
 ---
 id: da016f4e-1550-5e70-a566-2354ca4ce133
+slug: trophy-dungeon-buffs
 page-type-slug: temper-item-category-tree
 title: Dungeon Buff Ingredients
 key: trophy-dungeon-buffs

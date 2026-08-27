@@ -1,5 +1,6 @@
 ---
 id: aff41a9b-278c-591c-bafa-d51eb66de6d0
+slug: scrolls
 page-type-slug: temper-item-category-tree
 title: Scrolls
 key: scrolls

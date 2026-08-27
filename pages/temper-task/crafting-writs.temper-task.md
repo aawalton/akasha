@@ -1,6 +1,7 @@
 ---
 page-type-slug: temper-task
 id: 019db533-f381-761a-affb-ba493b613e2e
+slug: crafting-writs
 title: Crafting Writs
 account: 9ba554f7-cb18-48bb-a709-ec935a895ca7
 scope: all_characters

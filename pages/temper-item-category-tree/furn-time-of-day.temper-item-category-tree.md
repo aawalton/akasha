@@ -1,5 +1,6 @@
 ---
 id: cbabbb86-53d9-563a-9023-ad9313f2a833
+slug: furn-time-of-day
 page-type-slug: temper-item-category-tree
 title: Time of Day Control
 key: furn-time-of-day

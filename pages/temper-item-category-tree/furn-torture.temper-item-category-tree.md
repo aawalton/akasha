@@ -1,5 +1,6 @@
 ---
 id: e4301b61-bd86-5f5c-b873-803de9c92323
+slug: furn-torture
 page-type-slug: temper-item-category-tree
 title: Torture
 key: furn-torture

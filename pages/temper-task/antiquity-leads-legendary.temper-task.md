@@ -1,5 +1,6 @@
 ---
 id: 019db533-f381-7525-a49a-ec655c3426c7
+slug: antiquity-leads-legendary
 page-type-slug: temper-task
 title: "Antiquity Leads Legendary"
 account: 9ba554f7-cb18-48bb-a709-ec935a895ca7

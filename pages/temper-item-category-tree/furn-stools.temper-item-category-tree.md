@@ -1,5 +1,6 @@
 ---
 id: 4b2c4185-42d9-5dbc-ae8b-8f8fb723301b
+slug: furn-stools
 page-type-slug: temper-item-category-tree
 title: Stools
 key: furn-stools

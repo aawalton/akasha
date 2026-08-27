@@ -1,5 +1,6 @@
 ---
 id: eb8b05b1-7e8a-57b3-a401-58af9e0d9198
+slug: furn-laundry
 page-type-slug: temper-item-category-tree
 title: Laundry
 key: furn-laundry

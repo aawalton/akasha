@@ -1,5 +1,6 @@
 ---
 id: d6afccbb-2955-5a02-98a0-5d9b87ef5737
+slug: furn-pottery
 page-type-slug: temper-item-category-tree
 title: Pottery
 key: furn-pottery

@@ -1,5 +1,6 @@
 ---
 id: a51d3a87-ab35-5091-a940-e9c7d9493d41
+slug: furnishing-recipes
 page-type-slug: temper-item-category-tree
 title: Furnishing Recipes
 key: furnishing-recipes

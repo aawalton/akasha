@@ -1,5 +1,6 @@
 ---
 id: 5b5bb7ce-d204-534b-862a-3346bfe8cf97
+slug: furn-tapestries
 page-type-slug: temper-item-category-tree
 title: Tapestries
 key: furn-tapestries

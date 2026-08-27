@@ -1,5 +1,6 @@
 ---
 id: 869b1a40-aa97-5757-8968-de1e4cfd2422
+slug: medium-arm-cops
 page-type-slug: temper-item-category-tree
 title: Arm Cops
 key: medium-arm-cops

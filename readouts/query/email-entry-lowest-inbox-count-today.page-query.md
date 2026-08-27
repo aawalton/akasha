@@ -1,6 +1,7 @@
 ---
 page-type-slug: page-query
 id: 3ad3c210-c625-55b3-8ac3-c4b673bb4619
+slug: email-entry-lowest-inbox-count-today
 title: "Email entry lowest inbox count today"
 page-type: email-entry
 where:

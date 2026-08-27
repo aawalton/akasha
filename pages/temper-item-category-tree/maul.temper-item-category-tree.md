@@ -1,5 +1,6 @@
 ---
 id: 2cf56015-bc6c-52dc-9009-632417743c1f
+slug: maul
 page-type-slug: temper-item-category-tree
 title: Maul
 key: maul

@@ -1,5 +1,6 @@
 ---
 id: f63a95fe-e212-5d75-b3e2-581e6e7ff8eb
+slug: furn-instruments
 page-type-slug: temper-item-category-tree
 title: Instruments
 key: furn-instruments

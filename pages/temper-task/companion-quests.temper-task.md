@@ -1,5 +1,6 @@
 ---
 id: 019e0394-18d8-7034-bda0-e7cc372eb80d
+slug: companion-quests
 page-type-slug: temper-task
 title: "Companion Quests"
 icon: "file-text"

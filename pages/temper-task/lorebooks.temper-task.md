@@ -1,6 +1,7 @@
 ---
 page-type-slug: temper-task
 id: 019e2215-efc0-78bd-8676-b89e52598dd4
+slug: lorebooks
 title: Lorebooks
 icon: file-text
 account: 9ba554f7-cb18-48bb-a709-ec935a895ca7

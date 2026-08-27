@@ -1,5 +1,6 @@
 ---
 id: 8d9a089e-100a-5a44-a4fa-6973f115ab2c
+slug: furn-indriks
 page-type-slug: temper-item-category-tree
 title: Indriks
 key: furn-indriks

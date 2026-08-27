@@ -1,5 +1,6 @@
 ---
 id: 7c22eb22-77a6-51b8-a115-a3279b8bdd5d
+slug: medium-boots
 page-type-slug: temper-item-category-tree
 title: Boots
 key: medium-boots

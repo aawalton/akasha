@@ -1,5 +1,6 @@
 ---
 id: b507d469-5c9b-5be4-a894-29abafee6283
+slug: furn-miscellaneous
 page-type-slug: temper-item-category-tree
 title: Miscellaneous
 key: furn-miscellaneous

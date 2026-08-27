@@ -1,5 +1,6 @@
 ---
 id: c8ee90b9-3574-5282-a953-cfc589986839
+slug: upgrade-fragments
 page-type-slug: temper-item-category-tree
 title: Upgrade Fragments
 key: upgrade-fragments

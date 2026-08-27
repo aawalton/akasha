@@ -1,5 +1,6 @@
 ---
 id: 458159e3-af5b-5390-811a-4c1e31422a58
+slug: furn-paintings
 page-type-slug: temper-item-category-tree
 title: Paintings
 key: furn-paintings

@@ -1,5 +1,6 @@
 ---
 id: 81c945ff-d5ce-5c09-a6e9-b0548f53fed1
+slug: reagent-herbs
 page-type-slug: temper-item-category-tree
 title: Herbs
 key: reagent-herbs

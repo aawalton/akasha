@@ -1,5 +1,6 @@
 ---
 id: 019e8de6-ad2f-7cb0-90aa-4e45f07aec54
+slug: folium-discognitum-skill-points
 page-type-slug: temper-task
 title: "Folium Discognitum Skill Points"
 icon: "file-text"

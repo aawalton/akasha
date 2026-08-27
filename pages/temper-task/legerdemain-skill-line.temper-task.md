@@ -1,6 +1,7 @@
 ---
 page-type-slug: temper-task
 id: 019db533-f381-75a0-8217-44d59f3c01b9
+slug: legerdemain-skill-line
 title: Legerdemain Skill Line
 account: 9ba554f7-cb18-48bb-a709-ec935a895ca7
 character: yvlon-byres

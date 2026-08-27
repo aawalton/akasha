@@ -1,6 +1,7 @@
 ---
 page-type-slug: temper-task
 id: 019db533-f381-755a-8ee3-42d80e807395
+slug: undaunted-skill-line
 title: Undaunted Skill Line
 account: 9ba554f7-cb18-48bb-a709-ec935a895ca7
 character: shaestrel

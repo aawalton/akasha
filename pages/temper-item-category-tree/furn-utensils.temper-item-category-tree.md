@@ -1,5 +1,6 @@
 ---
 id: 4686240a-bf36-5c8c-a1ca-73113469c063
+slug: furn-utensils
 page-type-slug: temper-item-category-tree
 title: Utensils
 key: furn-utensils

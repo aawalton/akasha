@@ -1,5 +1,6 @@
 ---
 id: b1f2c076-4162-5186-a6ba-f7d2cd77920c
+slug: claude-accounts-next-seven-day-back
 page-type-slug: page-query
 title: "Claude accounts next seven day back"
 page-type: claude-account

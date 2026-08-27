@@ -1,5 +1,6 @@
 ---
 id: 8c8eade5-7324-5b6f-81d9-f4dde950b29e
+slug: furn-training-dummies
 page-type-slug: temper-item-category-tree
 title: Training Dummies
 key: furn-training-dummies

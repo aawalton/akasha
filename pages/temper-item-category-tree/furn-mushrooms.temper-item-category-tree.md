@@ -1,5 +1,6 @@
 ---
 id: cffa0a42-4036-5968-9906-529db477dcc7
+slug: furn-mushrooms
 page-type-slug: temper-item-category-tree
 title: Mushrooms
 key: furn-mushrooms

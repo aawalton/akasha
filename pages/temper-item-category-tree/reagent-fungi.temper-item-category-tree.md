@@ -1,5 +1,6 @@
 ---
 id: 6c6162ca-a10a-52e4-ac92-cc7172429370
+slug: reagent-fungi
 page-type-slug: temper-item-category-tree
 title: Fungi
 key: reagent-fungi

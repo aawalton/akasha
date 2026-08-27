@@ -1,5 +1,6 @@
 ---
 id: ce8bdbec-bd55-513d-badb-a3e5292c6b2b
+slug: furn-recovery
 page-type-slug: temper-item-category-tree
 title: Recovery
 key: furn-recovery

@@ -1,5 +1,6 @@
 ---
 id: 13d0f5bf-7c36-55f2-bb38-dbf011cbcd91
+slug: medium-guards
 page-type-slug: temper-item-category-tree
 title: Guards
 key: medium-guards

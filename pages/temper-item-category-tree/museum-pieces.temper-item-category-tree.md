@@ -1,5 +1,6 @@
 ---
 id: 390cbb16-e963-5900-91e3-e230f2bacd02
+slug: museum-pieces
 page-type-slug: temper-item-category-tree
 title: Museum Pieces
 key: museum-pieces

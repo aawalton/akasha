@@ -1,6 +1,7 @@
 ---
 page-type-slug: temper-task
 id: 019e6eb9-14ae-747b-a209-26f7966ab741
+slug: companion-rapport
 title: Companion Rapport
 icon: file-text
 account: 9ba554f7-cb18-48bb-a709-ec935a895ca7

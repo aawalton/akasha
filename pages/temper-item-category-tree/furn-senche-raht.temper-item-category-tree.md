@@ -1,5 +1,6 @@
 ---
 id: 00432887-db49-5e3b-9a35-677471d761cd
+slug: furn-senche-raht
 page-type-slug: temper-item-category-tree
 title: Senche-Raht
 key: furn-senche-raht

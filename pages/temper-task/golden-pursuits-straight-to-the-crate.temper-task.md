@@ -1,5 +1,6 @@
 ---
 id: 019fc2a9-cc9f-77d1-8d92-3d4c8bf09b6c
+slug: golden-pursuits-straight-to-the-crate
 page-type-slug: temper-task
 title: "Golden Pursuits — Straight to the Crate"
 icon: "file-text"

@@ -1,5 +1,6 @@
 ---
 id: 620f3f23-d357-5d5c-a691-147da1087b47
+slug: furn-sofas-couches
 page-type-slug: temper-item-category-tree
 title: Sofas and Couches
 key: furn-sofas-couches

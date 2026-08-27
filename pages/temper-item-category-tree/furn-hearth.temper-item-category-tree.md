@@ -1,5 +1,6 @@
 ---
 id: bc4b27ff-a3da-5405-847f-5c8ca605df32
+slug: furn-hearth
 page-type-slug: temper-item-category-tree
 title: Hearth
 key: furn-hearth

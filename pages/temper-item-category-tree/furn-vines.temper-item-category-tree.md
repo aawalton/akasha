@@ -1,5 +1,6 @@
 ---
 id: b03da750-0ab9-5efd-ba00-b161c17f283d
+slug: furn-vines
 page-type-slug: temper-item-category-tree
 title: Vines
 key: furn-vines

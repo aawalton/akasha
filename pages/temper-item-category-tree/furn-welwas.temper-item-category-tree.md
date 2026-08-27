@@ -1,5 +1,6 @@
 ---
 id: c932c745-567f-5c64-85ee-43ba0fab212b
+slug: furn-welwas
 page-type-slug: temper-item-category-tree
 title: Welwas
 key: furn-welwas

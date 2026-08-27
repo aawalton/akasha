@@ -1,5 +1,6 @@
 ---
 id: b1379334-7ca6-5345-90ad-2672a393f30f
+slug: siege-monster
 page-type-slug: temper-item-category-tree
 title: Monster
 key: siege-monster

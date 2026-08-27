@@ -1,5 +1,6 @@
 ---
 id: efa254e1-a662-531e-8a83-f6c9ac910dfd
+slug: furn-exotic
 page-type-slug: temper-item-category-tree
 title: Exotic
 key: furn-exotic

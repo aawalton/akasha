@@ -1,5 +1,6 @@
 ---
 id: 019db533-f381-75b1-ae47-75a551046ec2
+slug: infinite-archive-weekly-leaderboard
 page-type-slug: temper-task
 title: "Infinite Archive Weekly Leaderboard"
 account: 9ba554f7-cb18-48bb-a709-ec935a895ca7

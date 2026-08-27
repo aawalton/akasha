@@ -1,5 +1,6 @@
 ---
 id: 1d0a3c79-6c1f-5964-905c-a0e0004d1dbe
+slug: furn-general
 page-type-slug: temper-item-category-tree
 title: General
 key: furn-general

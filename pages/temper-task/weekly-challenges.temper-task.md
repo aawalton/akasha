@@ -1,5 +1,6 @@
 ---
 id: 019f9420-7fe5-7a60-8791-99f0d72cd040
+slug: weekly-challenges
 page-type-slug: temper-task
 title: "Weekly Challenges"
 icon: "file-text"

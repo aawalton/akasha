@@ -1,5 +1,6 @@
 ---
 id: 019db533-f381-758e-8b24-0a120b8857e8
+slug: manage-guild-sales
 page-type-slug: temper-task
 title: "Manage Guild Sales"
 account: 9ba554f7-cb18-48bb-a709-ec935a895ca7

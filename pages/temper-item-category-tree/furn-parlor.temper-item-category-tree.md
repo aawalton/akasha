@@ -1,5 +1,6 @@
 ---
 id: a9dde76a-3cd3-5d11-9297-f44213e601e8
+slug: furn-parlor
 page-type-slug: temper-item-category-tree
 title: Parlor
 key: furn-parlor

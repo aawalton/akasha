@@ -1,5 +1,6 @@
 ---
 id: 8281ae0a-5c18-578c-8b71-2d9b129e2865
+slug: furn-thrones
 page-type-slug: temper-item-category-tree
 title: Thrones
 key: furn-thrones

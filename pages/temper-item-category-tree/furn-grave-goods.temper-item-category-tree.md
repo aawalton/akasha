@@ -1,5 +1,6 @@
 ---
 id: 39b94feb-8b35-57d5-9045-ea6fb7cc48a7
+slug: furn-grave-goods
 page-type-slug: temper-item-category-tree
 title: Grave Goods
 key: furn-grave-goods

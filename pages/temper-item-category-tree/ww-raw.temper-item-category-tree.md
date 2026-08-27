@@ -1,5 +1,6 @@
 ---
 id: 14047c23-5603-57ec-a0d8-7ede12bf247b
+slug: ww-raw
 page-type-slug: temper-item-category-tree
 title: Raw Materials
 key: ww-raw

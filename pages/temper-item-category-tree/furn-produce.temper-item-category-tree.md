@@ -1,5 +1,6 @@
 ---
 id: ff37e041-3e07-5aee-adb5-c2fecb74853c
+slug: furn-produce
 page-type-slug: temper-item-category-tree
 title: Produce
 key: furn-produce

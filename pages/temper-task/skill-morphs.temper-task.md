@@ -1,6 +1,7 @@
 ---
 page-type-slug: temper-task
 id: 019db533-f381-756b-b84a-3e607b6d82ee
+slug: skill-morphs
 title: Skill Morphs
 account: 9ba554f7-cb18-48bb-a709-ec935a895ca7
 character: lyonette-du-marquin

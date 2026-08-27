@@ -1,5 +1,6 @@
 ---
 id: 257d9e00-b49a-57bb-8e67-140d258f72c1
+slug: restoration-staff
 page-type-slug: temper-item-category-tree
 title: Restoration Staff
 key: restoration-staff

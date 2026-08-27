@@ -1,5 +1,6 @@
 ---
 id: 86d9e183-505c-5715-8ea5-19ce70fef289
+slug: furn-materials
 page-type-slug: temper-item-category-tree
 title: Materials
 key: furn-materials

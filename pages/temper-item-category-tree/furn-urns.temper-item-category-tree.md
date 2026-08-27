@@ -1,5 +1,6 @@
 ---
 id: 403c0130-bce2-53b4-81dd-10ddebae217b
+slug: furn-urns
 page-type-slug: temper-item-category-tree
 title: Urns
 key: furn-urns

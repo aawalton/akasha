@@ -1,5 +1,6 @@
 ---
 id: 9666a243-bfde-5fab-bafd-540d128858f0
+slug: furn-inventory-pets
 page-type-slug: temper-item-category-tree
 title: Inventory
 key: furn-inventory-pets

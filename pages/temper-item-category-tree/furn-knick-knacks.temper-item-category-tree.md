@@ -1,5 +1,6 @@
 ---
 id: 47ebef32-19f6-58bb-a8c0-321ae9442331
+slug: furn-knick-knacks
 page-type-slug: temper-item-category-tree
 title: Knick-Knacks
 key: furn-knick-knacks

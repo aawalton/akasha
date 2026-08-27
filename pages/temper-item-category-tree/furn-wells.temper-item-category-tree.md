@@ -1,5 +1,6 @@
 ---
 id: 94df613d-03d0-5425-945f-f388313a8311
+slug: furn-wells
 page-type-slug: temper-item-category-tree
 title: Wells
 key: furn-wells

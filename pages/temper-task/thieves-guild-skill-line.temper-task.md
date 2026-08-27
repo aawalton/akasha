@@ -1,6 +1,7 @@
 ---
 page-type-slug: temper-task
 id: 019db533-f381-7548-8695-31e6f53f865d
+slug: thieves-guild-skill-line
 title: Thieves Guild Skill Line
 account: 9ba554f7-cb18-48bb-a709-ec935a895ca7
 character: ceria-springwater

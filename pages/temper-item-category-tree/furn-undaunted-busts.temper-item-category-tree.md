@@ -1,5 +1,6 @@
 ---
 id: cdb2335d-f518-5679-a47f-eaf7625662b9
+slug: furn-undaunted-busts
 page-type-slug: temper-item-category-tree
 title: Undaunted Busts
 key: furn-undaunted-busts

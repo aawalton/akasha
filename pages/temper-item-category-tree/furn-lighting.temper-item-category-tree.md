@@ -1,5 +1,6 @@
 ---
 id: b34837f9-80a4-50f3-b436-d1bdd506f278
+slug: furn-lighting
 page-type-slug: temper-item-category-tree
 title: Lighting
 key: furn-lighting

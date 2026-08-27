@@ -1,5 +1,6 @@
 ---
 id: 93a6f4b4-4ccf-59d1-b5ae-85f609d9b662
+slug: script-focus
 page-type-slug: temper-item-category-tree
 title: Focus
 key: script-focus

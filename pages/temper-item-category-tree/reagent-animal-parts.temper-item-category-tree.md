@@ -1,5 +1,6 @@
 ---
 id: d503f03a-9fb0-5d55-9c8b-b0b816337f41
+slug: reagent-animal-parts
 page-type-slug: temper-item-category-tree
 title: Animal Parts
 key: reagent-animal-parts

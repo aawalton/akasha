@@ -1,5 +1,6 @@
 ---
 id: 2bbb5a8f-fe66-506a-be39-a0e7102632f9
+slug: furn-meats-cheeses
 page-type-slug: temper-item-category-tree
 title: Meats and Cheeses
 key: furn-meats-cheeses

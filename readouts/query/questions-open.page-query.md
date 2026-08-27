@@ -1,5 +1,6 @@
 ---
 id: a1ca8a48-e73f-5943-a109-ddf7cad58b40
+slug: questions-open
 page-type-slug: page-query
 title: "Questions open"
 page-type: question

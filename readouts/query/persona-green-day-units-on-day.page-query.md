@@ -1,5 +1,6 @@
 ---
 id: 38051b3c-718b-5032-9cdc-97542999b039
+slug: persona-green-day-units-on-day
 page-type-slug: page-query
 title: "Persona green day units on day"
 page-type: persona-day

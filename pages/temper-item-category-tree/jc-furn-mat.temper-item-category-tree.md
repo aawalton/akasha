@@ -1,5 +1,6 @@
 ---
 id: 305e8300-4c2f-53a5-9b63-cf6ed6e753c4
+slug: jc-furn-mat
 page-type-slug: temper-item-category-tree
 title: Furnishing Materials
 key: jc-furn-mat

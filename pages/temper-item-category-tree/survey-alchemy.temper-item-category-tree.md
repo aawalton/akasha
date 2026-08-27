@@ -1,5 +1,6 @@
 ---
 id: a0ab6bab-87bc-5cfd-bf76-34af66f27ad5
+slug: survey-alchemy
 page-type-slug: temper-item-category-tree
 title: Alchemy
 key: survey-alchemy

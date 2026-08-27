@@ -1,5 +1,6 @@
 ---
 id: 1b503a23-4f08-5ced-91c2-ae900e3ffb34
+slug: potion-solvents
 page-type-slug: temper-item-category-tree
 title: Potion Solvents
 key: potion-solvents

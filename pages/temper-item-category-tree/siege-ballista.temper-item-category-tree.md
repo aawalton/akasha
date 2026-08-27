@@ -1,5 +1,6 @@
 ---
 id: dc3376ff-a77a-5da8-a747-b5333d227c20
+slug: siege-ballista
 page-type-slug: temper-item-category-tree
 title: Ballista
 key: siege-ballista

@@ -1,5 +1,6 @@
 ---
 id: 18488828-f86c-5816-9c92-df7e330726e9
+slug: recipe-fragments
 page-type-slug: temper-item-category-tree
 title: Recipe Fragments
 key: recipe-fragments

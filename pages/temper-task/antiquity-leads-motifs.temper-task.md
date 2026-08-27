@@ -1,6 +1,7 @@
 ---
 page-type-slug: temper-task
 id: 019db533-f381-7514-8ad7-fedbef9c1ee0
+slug: antiquity-leads-motifs
 title: Antiquity Leads Motifs
 account: 9ba554f7-cb18-48bb-a709-ec935a895ca7
 character: erin-solstice

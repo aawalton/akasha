@@ -1,5 +1,6 @@
 ---
 id: 48357a7a-609a-5a38-ab37-d1c2152f5345
+slug: monster-trophies
 page-type-slug: temper-item-category-tree
 title: Monster Trophies
 key: monster-trophies

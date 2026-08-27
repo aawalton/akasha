@@ -1,5 +1,6 @@
 ---
 id: 3fa6a589-5cf3-54ea-9355-5e12e9273e44
+slug: furn-supplies
 page-type-slug: temper-item-category-tree
 title: Supplies
 key: furn-supplies

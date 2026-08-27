@@ -1,5 +1,6 @@
 ---
 id: 1b381abd-8308-58b8-aaa9-942026c6e9dc
+slug: furn-mirrors
 page-type-slug: temper-item-category-tree
 title: Mirrors
 key: furn-mirrors

@@ -1,5 +1,6 @@
 ---
 id: 019db533-f381-7537-ae93-c60ca6656758
+slug: vateshran-hollows-weekly-leaderboard
 page-type-slug: temper-task
 title: "Vateshran Hollows Weekly Leaderboard"
 account: 9ba554f7-cb18-48bb-a709-ec935a895ca7

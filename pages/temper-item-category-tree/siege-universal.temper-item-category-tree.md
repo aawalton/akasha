@@ -1,5 +1,6 @@
 ---
 id: b92424db-2af0-532f-9e22-2ee0f57d1d4a
+slug: siege-universal
 page-type-slug: temper-item-category-tree
 title: Universal
 key: siege-universal

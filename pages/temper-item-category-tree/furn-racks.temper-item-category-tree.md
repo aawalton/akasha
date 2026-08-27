@@ -1,5 +1,6 @@
 ---
 id: a3f6b26f-dfee-575c-af17-7a4a2221abf5
+slug: furn-racks
 page-type-slug: temper-item-category-tree
 title: Racks
 key: furn-racks

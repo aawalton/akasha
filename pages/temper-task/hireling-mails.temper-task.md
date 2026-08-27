@@ -1,6 +1,7 @@
 ---
 page-type-slug: temper-task
 id: 019db533-f381-75d4-901d-3a5d3de946dd
+slug: hireling-mails
 title: Hireling Mails
 account: 9ba554f7-cb18-48bb-a709-ec935a895ca7
 character: erin-solstice

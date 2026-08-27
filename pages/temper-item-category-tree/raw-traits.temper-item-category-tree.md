@@ -1,5 +1,6 @@
 ---
 id: e8b2f290-66fd-5d09-b7dd-68e5292399fe
+slug: raw-traits
 page-type-slug: temper-item-category-tree
 title: Raw Traits
 key: raw-traits

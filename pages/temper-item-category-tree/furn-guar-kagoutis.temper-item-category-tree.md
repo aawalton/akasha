@@ -1,5 +1,6 @@
 ---
 id: eb78b625-914a-54cc-a9fc-577532875c57
+slug: furn-guar-kagoutis
 page-type-slug: temper-item-category-tree
 title: Guar & Kagoutis
 key: furn-guar-kagoutis

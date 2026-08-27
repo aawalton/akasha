@@ -1,5 +1,6 @@
 ---
 id: 019db533-f381-75c3-9780-5890e62c0c88
+slug: dragonguard-daily-quests
 page-type-slug: temper-task
 title: "Dragonguard Daily Quests"
 account: 9ba554f7-cb18-48bb-a709-ec935a895ca7

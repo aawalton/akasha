@@ -1,5 +1,6 @@
 ---
 id: 392989f8-8bdb-5196-848c-c3d84830b8c8
+slug: medium-jack
 page-type-slug: temper-item-category-tree
 title: Jack
 key: medium-jack

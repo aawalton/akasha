@@ -1,5 +1,6 @@
 ---
 id: 5788d8fd-b740-5bea-ad71-585470c9998a
+slug: heavy-pauldrons
 page-type-slug: temper-item-category-tree
 title: Pauldrons
 key: heavy-pauldrons

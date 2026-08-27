@@ -1,5 +1,6 @@
 ---
 id: 019eacc6-8a95-7996-a9e7-68db48fa97fc
+slug: active-quests
 page-type-slug: temper-task
 title: "Active Quests"
 icon: "file-text"
