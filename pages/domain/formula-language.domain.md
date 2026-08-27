@@ -6,6 +6,7 @@ slug: formula-language
 domain-parent-slug: domain/page-property-computed
 required-reading-slugs:
   - list/formula-values
+  - list/formula-functions
   - domain/formula-absent-value
   - domain/language-power
   - domain/language-syntax
@@ -36,3 +37,5 @@ A formula names a computed property exactly as it names a stored one.
 A formula gives no value a name of its own.
 
 A cycle among a page type's formulas is refused when the page type is checked.
+
+A formula joins text by writing references into a text literal, and in no other way.
