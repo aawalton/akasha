@@ -2,7 +2,7 @@
 import { afterEach, beforeEach, describe, expect, test } from "bun:test"
 import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { tmpdir } from "node:os"
-import { CLAIMED, type Fixture, fileKeyDeclared, fixture } from "./fixture.ts"
+import { CLAIMED, type Fixture, fileKeyDeclared, fixture, installRepos } from "./fixture.ts"
 
 const HOOK = `${import.meta.dir}/../hooks/block-unread-writes.ts`
 const AGENT = "agent-one"
@@ -12,6 +12,7 @@ let code = ""
 
 beforeEach(() => {
   at = fixture()
+  installRepos(at.root)
   fileKeyDeclared(at)
   code = mkdtempSync(`${tmpdir()}/hooktest-code-`)
   mkdirSync(`${code}/.git`, { recursive: true })

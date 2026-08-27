@@ -3,7 +3,7 @@ import { afterEach, beforeEach, describe, expect, test } from "bun:test"
 import { existsSync, readFileSync } from "node:fs"
 import { readingsOf } from "../lib/read-record.ts"
 import { canonicalize } from "../../repo/path/path"
-import { type Fixture, fixture } from "./fixture.ts"
+import { type Fixture, fixture, installRepos } from "./fixture.ts"
 import { plantSeat } from "./seat-fixture.ts"
 
 const COMMAND = `${import.meta.dir}/../compose-boot.ts`
@@ -13,6 +13,7 @@ let at: Fixture
 
 beforeEach(() => {
   at = fixture()
+  installRepos(at.root)
   at.put("pages/domain/global.domain.md", "---\nslug: global\ndomain-parent-slug: global\nrequired-reading-slugs:\n  - widget\n---\n\n# Definition\n\n- **Global** — the domain every other sits inside.\n")
   at.put("pages/domain/widget.md", "---\nslug: widget\ndomain-parent-slug: global\n---\n\n# Definition\n\n- **Widget** — the term the manifest names.\n\n# Design\n\nWhat was decided about a widget.\n")
 })

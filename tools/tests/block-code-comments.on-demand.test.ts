@@ -1,7 +1,7 @@
 import { afterEach, beforeEach, describe, expect, test } from "bun:test"
 import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { tmpdir } from "node:os"
-import { type Fixture, fixture, installPages } from "./fixture.ts"
+import { type Fixture, fixture, installPages, installRepos } from "./fixture.ts"
 
 const HOOK = `${import.meta.dir}/../hooks/block-code-comments.ts`
 
@@ -13,6 +13,7 @@ let code = ""
 
 beforeEach(() => {
   at = fixture()
+  installRepos(at.root)
   installPages(at.root, [
     "pages/domain/code-comment.domain.md",
     "pages/list/code-comment-forms.list.md",
