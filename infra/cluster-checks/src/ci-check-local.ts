@@ -7,7 +7,7 @@ import {
   localStatusForCheckExit,
 } from "./lib/local-check-verdict"
 import { getRepoRoot } from "./lib/repo-root"
-import { routedCheckArgv } from "./lib/run-check-routing"
+import { routedCheckArgv } from "../../../tools/lib/check-workflow/run-check-routing.ts"
 import { emitVerdict } from "../../../tools/lib/verdict-channel"
 
 const ROOT = getRepoRoot()

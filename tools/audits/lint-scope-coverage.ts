@@ -8,7 +8,7 @@ import {
   biomePositiveExtensions,
   parseBiomeIncludes,
 } from "../../infra/cluster-checks/src/lib/biome-lint-scope.ts"
-import { STATIC_CHECKS } from "../../infra/cluster-checks/src/lib/check-configs.ts"
+import { STATIC_CHECKS } from "../lib/check-workflow/check-configs.ts"
 import { repoFilesAt } from "../lib/repo-files-at.ts"
 import { CSS_FILE_NODE_TYPE } from "../lib/graph/producers/file/css-file/types.ts"
 import { DOCKERFILE_FILE_NODE_TYPE } from "../lib/graph/producers/file/dockerfile-file/types.ts"

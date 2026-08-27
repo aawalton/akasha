@@ -3,8 +3,8 @@ import { remediationHint, repoDoc } from "./remediation-doc.ts"
 
 describe("repoDoc", () => {
   test("passes a path under a declared directory through unchanged", () => {
-    expect(String(repoDoc("infra/cluster-checks/src/lib/remediation-doc.ts"))).toBe(
-      "infra/cluster-checks/src/lib/remediation-doc.ts"
+    expect(String(repoDoc("tools/lib/check-workflow/remediation-doc.ts"))).toBe(
+      "tools/lib/check-workflow/remediation-doc.ts"
     )
   })
 

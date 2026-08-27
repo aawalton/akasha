@@ -22,7 +22,7 @@ import { exitOnResult } from "../../../../tools/lib/check-workflow/violation-rep
 
 const PREFIX = "[population-read-swallow]"
 
-const REMEDIATION_DOC = repoDoc("infra/cluster-checks/src/lib/population.ts")
+const REMEDIATION_DOC = repoDoc("tools/lib/check-workflow/population.ts")
 
 function isExcluded(rel: string): boolean {
   return /\.(test|spec)\.tsx?$/.test(rel)

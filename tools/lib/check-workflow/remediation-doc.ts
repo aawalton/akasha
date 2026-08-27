@@ -10,6 +10,7 @@ type RepoDocPath =
   | `docs/${string}`
   | `infra/${string}`
   | `scripts/${string}`
+  | `tools/${string}`
 
 type NotMarkdown<S extends string> = S extends `${string}.md` ? never : S
 
