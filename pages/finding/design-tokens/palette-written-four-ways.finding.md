@@ -15,10 +15,10 @@ copy as its canonical.
 # Evidence
 
 The instructions repository states each colour once, as hex, at
-`pages/colour/<name>.md`: blue `#2c5a9d`, yellow `#b87b11`, orange `#be5a0a`,
+`pages/color/<name>.color.md`: blue `#2c5a9d`, yellow `#b87b11`, orange `#be5a0a`,
 purple `#7c4ca3`, green `#2d8c57`, red `#a51c32`.
 
-Converting `packages/shared/design/system/src/styles/tokens.css` from oklch to
+Converting `shared/design-system/src/styles/tokens.css` from oklch to
 sRGB gives those six back exactly, with no rounding disagreement in any channel:
 `--green: oklch(0.57 0.12 155)` is `#2d8c57`, `--blue: oklch(0.47 0.12 258)` is
 `#2c5a9d`, and so on for all six. It is the same palette in another notation
@@ -41,7 +41,7 @@ rather than left to be found.
 it. Three are byte-identical over all 60 lines; the fourth differs in one
 `stroke-width`.
 
-The allowlist at `checks/src/lib/color-literal-grants.ts` grants each site its
+The allowlist at `infra/cluster-checks/src/lib/color-literal-grants.ts` grants each site its
 literal by path, so the count of grants is a count of copies. A gate reporting
 no violation reports that every copy is one somebody allowed, not that there
 are few.

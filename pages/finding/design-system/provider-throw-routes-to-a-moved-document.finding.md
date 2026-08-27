@@ -14,7 +14,7 @@ Two thrown errors in `@shared/design-layout` send a developer to a document that
 
 Measured 2026-08-08 at `~/code` on `main`, while ingesting `dirty/code/packages-alanwalton-web-app-awen-claude.md`.
 
-The throws. `packages/shared/design/layout/src/router-context.tsx:69` and `:128`, each the second argument to the missing-provider error. Both name the path AND a section: `§ Router/Link seam`. Two more citations of the same document sit in comments at `router-context.tsx:49` and `index.ts:36`.
+The throws. `shared/design-layout/src/router-context.tsx:31` and `:78`, each the second argument to the missing-provider error. Both name the path AND a section: `§ Router/Link seam`. Two more citations of the same document sit in comments at `router-context.tsx:49` and `index.ts:36`.
 
 The target is gone from the repo. `git ls-files "packages/shared/design/layout/CLAUDE.md"` prints nothing (exit 0 on no match, so I read the output rather than the code), `ls` on the path reports no such file, and `git check-ignore -v` exits 1 — not ignored, absent.
 

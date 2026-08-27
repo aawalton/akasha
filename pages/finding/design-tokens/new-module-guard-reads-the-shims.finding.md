@@ -10,9 +10,9 @@ slug: new-module-guard-reads-the-shims
 `check-design-tokens` still holds every colour it reads against `tokens.css`, and it passes, so
 the fourteen values that moved into `akasha/design-tokens/` on 2026-08-26 are watched. Its guard
 against a colour module it does *not* read is a separate mechanism, and that one was left behind
-by the move: it enumerates `packages/shared/design/tokens/src` in the code repository, a directory
+by the move: it enumerates `shared/design-tokens/src`, a directory
 which now holds three re-export shims and no numbers. A colour module added to
-`akasha/design-tokens/` with no shim beside it falls outside that enumeration, and nothing refuses.
+`design-tokens/` with no shim beside it falls outside that enumeration, and nothing refuses.
 
 `pages/domain/check.domain.md` carries "Derive a check's reach wherever a new member can arrive,
 never from a list in the check". After the move, a new member can arrive in a directory this check
@@ -35,7 +35,7 @@ the directory did not.
 
 ## The parity half passes, and was run
 
-    bun packages/infra/checks/src/checks/check-design-tokens.ts --repo-root ~/repos/code
+    WORKSPACE=~/repos/akasha bun infra/cluster-checks/src/checks/check-design-tokens.ts
 
 answers `Every design-token colour is declared on both sides and every tuple matches its oklch()
 source. [over 14 of 14 color tokens] [read under: /var/home/walton/repos/code/packages/shared/design/tokens/src]`
@@ -44,7 +44,7 @@ It loads `@shared/design-tokens/surface`, `/semantic` and `/text` through `codeM
 (`check-design-tokens.ts` lines 129-135). Those specifiers resolve to the shims, and the shims
 re-export akasha, so the values compared are akasha's. The mirror is guarded.
 
-Independently: converting `packages/shared/design/system/src/styles/tokens.css` from oklch to sRGB
+Independently: converting `shared/design-system/src/styles/tokens.css` from oklch to sRGB
 reproduces all fourteen akasha tuples to the last digit — `oklch(0.57 0.12 155)` gives
 `[0.1761, 0.5476, 0.3416]`, which is `GREEN`. The akasha files are a derived mirror of the
 stylesheet, carrying no generated-file header and no path saying so, so by
@@ -52,7 +52,7 @@ stylesheet, carrying no generated-file header and no path saying so, so by
 
 ## The reach half, read from the source
 
-`check-design-tokens.ts` line 26 sets `TOKENS_SRC_REL = "packages/shared/design/tokens/src"`.
+`check-design-tokens.ts` line 28 sets `TOKENS_SRC_REL = "shared/design-tokens/src"`.
 Line 112 calls `unreadTokenModules(`${repoRoot}/${TOKENS_SRC_REL}`)`, which lists the `.ts` files in
 that directory and returns those not in `READ_MODULES` (line 28: `surface.ts`, `semantic.ts`,
 `text.ts`). Lines 116-123 turn a non-empty result into a tool error whose text is "@shared/design-tokens

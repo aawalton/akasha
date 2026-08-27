@@ -12,9 +12,9 @@ The Layout Ownership rule is sited far narrower than the claim it makes. The che
 
 # Evidence
 
-Raised by a review-instructions seat on `domains/folders/design-system.md`, which did not move the rule: siting it on `code-repo` would put a JSX rule in front of every backend seat at boot, and the alternative — a new domain over `**/*.tsx` — is define-domain-structure work rather than a line-level repair.
+Raised by a review-instructions seat on `pages/domain/design-system.domain.md`, which did not move the rule: siting it on `code-repo` would put a JSX rule in front of every backend seat at boot, and the alternative — a new domain over `**/*.tsx` — is define-domain-structure work rather than a line-level repair.
 
-I measured the counts myself in the code repo with `git ls-files`. Outside the area: 725 `.tsx` files, matching the reviewer exactly. Inside `packages/shared/design/`: I count 162 where the reviewer reported 168, a difference I did not chase down and which does not move the ratio.
+I measured the counts myself in the code repo with `git ls-files`. Outside the area: 725 `.tsx` files, matching the reviewer exactly. Inside `shared/design*/`: I count 162 where the reviewer reported 168, a difference I did not chase down and which does not move the ratio.
 
 The reviewer verified in the live code, rather than from the note in `dirty/`, that `check-component-layout.ts` exists and is registered as `component-layout` in `check-configs-component.ts`. I did not re-run that.
 
