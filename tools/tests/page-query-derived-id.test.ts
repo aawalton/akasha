@@ -8,23 +8,23 @@ const page = (lines: readonly string[]): string => `---\n${lines.join("\n")}\n--
 
 const STATED = "019ffc7b-4548-7003-bb59-10d047bdc78c"
 
-const BARE = "akasha:pages/token/bare.md"
-const ALSO_BARE = "akasha:pages/token/also-bare.md"
-const STATES_ONE = "akasha:pages/token/stated.md"
+const BARE = "akasha:pages/token/bare.token.md"
+const ALSO_BARE = "akasha:pages/token/also-bare.token.md"
+const STATES_ONE = "akasha:pages/token/stated.token.md"
 
 const DERIVED: Readonly<Record<string, string>> = {
-  [BARE]: "7cd59bbc-f20e-5c5b-ab47-8a26a1558c73",
-  [ALSO_BARE]: "fcf079e2-67a1-5f9f-b9c2-45ae97794a1d",
-  [STATES_ONE]: "d1508ff2-4810-5fb6-ae61-ce260246e0ac",
+  [BARE]: "ee70b17a-ae4d-590a-9818-9a001ded21e7",
+  [ALSO_BARE]: "4b924347-cbb3-578e-bb03-54901be7c984",
+  [STATES_ONE]: "9cc90e0c-8d2d-5fbb-b8e1-25f61ce62616",
 }
 
 const FILES: Readonly<Record<string, string>> = {
   "pages/page-type/token.page-type.md": page(["extends-slug: none"]),
   "pages/page-property-definition/token-id.page-property-definition.md": page(["defined-on-slug: token", "key: id", "type: uuid"]),
   "pages/page-property-definition/token-title.page-property-definition.md": page(["defined-on-slug: token", "key: title", "type: text"]),
-  "pages/token/bare.md": page(["title: Bare"]),
-  "pages/token/also-bare.md": page(["title: Also bare"]),
-  "pages/token/stated.md": page([`id: ${STATED}`, "title: Stated"]),
+  "pages/token/bare.token.md": page(["title: Bare"]),
+  "pages/token/also-bare.token.md": page(["title: Also bare"]),
+  "pages/token/stated.token.md": page([`id: ${STATED}`, "title: Stated"]),
 }
 
 const root = mkdtempSync(join("/var/tmp", "page-query-derived-id-"))
@@ -88,7 +88,7 @@ describe("a page query narrowing on `id`", () => {
   })
 
   it("finds a page by the last eight of the uuid its path names", () => {
-    const got = endingIn("a1558c73")
+    const got = endingIn("1ded21e7")
     expect(got.n).toBe(1)
     expect(got.rows[0]?.at).toBe(BARE)
   })
@@ -104,7 +104,7 @@ describe("a page query narrowing on `id`", () => {
   })
 
   it("reads the ending as the end, so text standing elsewhere in an id does not match", () => {
-    expect(endingIn("7cd59bbc").n).toBe(0)
+    expect(endingIn("ee70b17a").n).toBe(0)
   })
 
   it("leaves `id` out of a query that never names it", () => {
