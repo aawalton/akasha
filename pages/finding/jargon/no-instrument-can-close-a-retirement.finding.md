@@ -25,4 +25,6 @@ RUN TONIGHT, after three sweeps landed: the tool reports 29 retired words "still
 
 A THIRD BLINDNESS, found verifying #18075: ripgrep skips dot-directories, so every `rg` measurement over a tree is blind to `.config` and below. Two live sites hid there through a whole sweep and its verification; `git grep` over tracked paths is not fooled. Separately `rg -E` is `--encoding`, not extended-regex, and fails to stderr, so a suppressed stderr reads as clean.
 
+WHERE THIS STANDS ON 2026-08-27. `tools/retired-words.ts` is gone and nothing replaced it: no tracked TypeScript file reads the retirement vocabulary, and no `ops` command counts its sites. Retired words are `pages/barred-meaning/*.barred-meaning.md` now, 62 of them, and the claim's title is truer than when it was filed — there is no instrument at all, rather than two that disagree. The third blindness survives verbatim: `rg -E` is still `--encoding`, which this run hit as `error parsing flag -E: grep config error: unknown encoding`.
+
 WHAT I DID NOT MEASURE. I attempted no sense-classifying count across both repos, so I cannot say how much of the twenty-nine is genuinely swept. I did not check whether each figure came from the tool or by hand; some were delegate reports recorded as fact, a different fault.
