@@ -1,6 +1,8 @@
 
 import { modelGatewayEntrypoint } from "./model-gateway-tree-version.ts"
 import { pidAliveOrRefuse } from "./pid-signal.ts"
+import { pidsListeningOn, portIsHeld } from "./port-listener-pid.ts"
+import { readProcEnvVar } from "./proc-environ.ts"
 import { type OAuthProxyState, readProxyState } from "./seat-proxy-state.ts"
 import { readAdoptedClaudeProxyPort } from "./supervisor-adopted-claude-port.ts"
 import { supervisorSocketPath } from "./supervisor-log-path.ts"
@@ -93,8 +95,41 @@ export async function spawnOrAdoptOAuthProxy(
     console.log(
       `[supervisor] oauth-proxy state stale/missing — binding fresh proxy to adopted Claude's port ${requiredPort}`
     )
+    await freePortForAdoptedClaude(requiredPort, agentId)
   }
   return await spawnFreshProxy(args, requiredPort)
+}
+
+/**
+ * Clear whoever is holding the port an adopted Claude is already pointed at.
+ *
+ * ADOPTED CLAUDE CANNOT BE RE-POINTED, so this one port is the only one a fresh proxy may bind. A
+ * proxy orphaned by a supervisor that died without stopping it goes on holding that port, the bind
+ * fails for as long as it lives, and the new supervisor dies during boot leaving the terminal dead.
+ * The recorded state cannot say who to stop, because reaching this point is what it means for that
+ * state to be missing.
+ *
+ * ONLY THIS SEAT'S OWN PROXY IS STOPPED. A holder belonging to another agent is reported and left
+ * running: taking it down would break a seat that is working, and one port two live seats both
+ * need is a conflict this is in no position to settle.
+ */
+async function freePortForAdoptedClaude(port: number, agentId: string): Promise<undefined> {
+  for (const holder of pidsListeningOn(port)) {
+    const owner = readProcEnvVar(holder, "OAUTH_PROXY_AGENT_ID")
+    if (owner !== agentId) {
+      console.error(
+        `[supervisor] port ${port} is held by pid ${holder}, which belongs to ` +
+          `${owner ?? "no agent"} rather than ${agentId} — leaving it running`
+      )
+      continue
+    }
+    console.log(
+      `[supervisor] stopping this seat's orphaned oauth-proxy (pid ${holder}) to free port ${port}`
+    )
+    stopByPid(holder)
+  }
+  if (await waitForPortFree(port, STALE_PROXY_SHUTDOWN_BUDGET_MS)) return
+  console.error(`[supervisor] port ${port} is still held after ${STALE_PROXY_SHUTDOWN_BUDGET_MS}ms`)
 }
 
 export async function respawnOAuthProxy(
@@ -156,8 +191,15 @@ async function waitForPidGone(pid: number, budgetMs: number): Promise<boolean> {
   return !pidAliveOrRefuse(pid)
 }
 
+async function waitForPortFree(port: number, budgetMs: number): Promise<boolean> {
+  const deadline = Date.now() + budgetMs
+  while (Date.now() < deadline) {
+    if (!portIsHeld(port)) return true
+    await sleep(POLL_INTERVAL_MS)
+  }
+  return !portIsHeld(port)
+}
+
 function sleep(ms: number): Promise<void> {
   return new Promise((resolve) => setTimeout(resolve, ms))
 }
-
-
