@@ -1,0 +1,191 @@
+---
+id: 57bc5f3f-6c09-5af6-99db-df82b2465d80
+page-type-slug: story-chapter-royal-road
+title: "Chapter 11: Fortune Favors the Bold"
+slug: 0011-chapter-11-fortune-favors-the-bold
+partOf: phoenix-ascension-cultivation-litrpg
+position: 11
+ownLength: 2438
+unit: words
+publishedAt: 2025-08-20
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2532250/chapter-11-fortune-favors-the-bold"
+royalRoadId: "2532250"
+---
+
+The Spirit Beast's flesh wasn't particularly easy to tear into, but it was far more delicious than anything I've eaten thus far. I couldn't tell if it was because of its higher level and freshness, or because it got cooked from the outside in. That didn't matter, though.
+
+What surprised me the most was the size of my stomach, as no matter how big the beast was, I almost never felt full. The rate at which my body absorbs nutrients far outclassed any humans I knew of, even those who followed certain Daos, like the Gluttony Dao.
+
+Hm, Dao? What's that?
+
+That term suddenly popped into my mind as I thought about all the advantages the body of a Phoenix had. Dao, it felt like that was an important term, but somehow I've forgotten what it meant.
+
+The fact that I only remembered information in segments was annoying, as it left me with more questions than answers. How was I supposed to know what a Dao was? That almost made me lose my appetite, key words, almost.
+
+After throwing that issue to the back of my mind, I went back to eating the thing with even more vigour than before. There didn't seem to be any danger in the area, and I was grateful for that. However, that did put another question in my mind.
+
+Why were these ones lurking around then?
+
+That was also something I couldn't care less about, as weak Spirit Beasts had low senses and intelligence. It must not have known that a Phoenix had moved in and intruded on our territory. Too bad for it. Were it any other Phoenix Chick, they'd stay put in the nest, content to rely on their mother.
+
+Not me, though. I couldn't afford to rely on anyone.
+
+The only true strength is the strength one achieves through hard work; Strength that they earn; Strength that doesn't disappear, that isn't temporary. True strength is personal strength, and that's what I strive to get. Similarly to System, over-reliance on external factors will only lead to disaster.
+
+I couldn't help but wonder where such thoughts had come from, and a feeling of sorrow crept up inside me as they echoed inside my head. However, I decided not to think about it anymore.
+
+If you are depressed, you are living in the past.
+
+If you are anxious, you are living in the future.
+
+If you are at peace, you are living in the present.
+
+Let go of the past, don't think about the future, and become strong in the present. That's what I should strive to do, and deal with whatever consequences might come later. With enough strength, no one will be able to step over me, not a random vulture, not a stupid snake, and certainly not a weak panther.
+
+As thoughts flooded my mind, I had noticed that I long since finished the panther's flesh and innards, leaving only the brain and core to be absorbed. I quickly took care of those two, splitting their skulls in two with my Iron Claws and enjoying the slightly bitter taste.
+
+I can’t believe I ate two whole panthers… I might be a Glutton.
+
+After, all that was left were the cores. They were dark, bigger than a baby's fists, and shining with a luscious glow. I grabbed the one from the male and didn't hesitate to place my head against it, and the question asking me if I wanted to absorb it appeared once again. I agreed without hesitation.
+
+[Beast Core absorbed with 20% efficiency.]
+
+[Qi +35]
+
+Well, that’s awful. Qi is good, great even… but I really wanted the skill. I had one more chance — The female core was fresh and ready to be absorbed.
+
+[Would you like to absorb the Unspotted Panther Core?]
+
+Yes!
+
+[Beast Core absorbed with 90% efficiency.]
+
+[Skill: Stealth(Lesser)[Novice] has been acquired through absorption.]
+
+[Qi +55]
+
+I felt my heart skip a beat after reading that message. Not only did I gain a skill, but my Qi pool also increased again! Excitement filled my body, causing my feathers to shake slightly as I jumped. Stealth was exactly what I wanted. I'm glad I somehow got exactly what I wanted from the mother panther...
+
+[...]
+
+[Convenient, isn't it?]
+
+Well, it wasn't much of a loss. Stepping down from its almost empty carcass, I made my way toward a shadowy place and sat down after turning the grass into a soft cushion. After fighting and eating like a glutton, I had to rest for a little while.
+
+Luckily, that gave me a little bit of time to check what the Stealth skill did and also see how my stats had changed after levelling up. First, though, I really wanted to check the skill.
+
+"Show me information about Stealth." I chirped, and somehow System understood me each time without fail.
+
+[Stealth[Lesser](../../../../phoenix-ascension-cultivation-litrpg/royal-road/phoenix-ascension-cultivation-litrpg/chapters/Novice)]
+
+[Every dark corner becomes your comfort place, and you blend with the shadows as if you were one of them. The only thing stopping you from achieving true invisibility is light, but that can change. Efficiency is based on Perception and Intelligence.]
+
+After pondering over what System said, I began to understand things better. Skills are affected by stats, and stats are affected by levels and other factors. I had gained a point in Strength after absorbing the Golden Core, but didn't pay a lot of attention to it. System really was a strange force, one that I didn't want to pry too much into for the moment.
+
+The fact that I earned Stealth was more than reason to celebrate, honestly, as I didn't have to risk my safety sneaking around other Spirit Beasts. That was also a little disappointing, though, as it was basically handed to me on a silver platter. I began fearing that my over-reliance on the System would one day be my downfall.
+
+I wasn't sure what to think of it. If it were an external tool, why would it help me so much, but if it was tied to me, then could it be considered my own strength even though it wasn't part of me? Or was it?
+
+The question was too complex for the amount of energy it required to ponder, and I decided that the best course of action would be to start cultivation. However, even though I had the knowledge of cultivation techniques existing, I couldn't remember any of them, regardless of how much I struggled to.
+
+Every time I tried, a skull-splitting headache would course through my head, and I had the feeling that if I tried to force it, nothing good would come of it.
+
+I felt that I was lucky enough to get stronger by eating, unlike other beings who needed to consciously channel Qi in their bodies. This new area seemed to be even better for cultivating though, as Qi passively mixed within my flesh, bone, and blood, strengthening me with each new breath.
+
+The Qi I would absorb from sitting around and breathing would be far from enough, though, and pales in comparison to the strength I gain by consuming other beasts.
+
+No matter where I end up, it'll always be a dog-eat-dog world.
+
+That thought resonated with me even more as I stared at the carcass of the panther I devoured, chuckling at the irony of the literal meaning, except I wasn't a dog. Regardless of that, I decided it was time to take a look at my details, as I was curious to know how much I improved in the past few days.
+
+Details
+
+[Name: Fa Xiaolan]
+
+[Race: Phoenix]
+
+[Class: Phoenix Chick]
+
+[Level: 4]
+
+[Hit Points: 470]
+
+[Equipped Titles: None]
+
+[Bloodlines: Phoenix]
+
+[Qi: 355]
+
+Stats
+
+[Strength: 41]
+
+[Dexterity: 33]
+
+[Perception: 47]
+
+[Charisma: 70]
+
+[Intelligence: 48]
+
+[Skill Points: 10]
+
+This time, strange floating boxes appeared before me as the System read my mind. I didn't mind it when I wasn't in danger, as it made everything more convenient and saved me from using energy.
+
+I noticed that all my stats have increased after gaining another level, and by a substantial amount, too. I didn't feel any different, though, and I wouldn't know what they did until I tested it for myself. Strength was easy enough, but the rest were harder to decipher. My intelligence increased by a few points, but I didn't feel any smarter, and I doubted dexterity would help much when I didn't even have hands, whatever that meant.
+
+As much as I wanted to bombard System with questions, though, I couldn't. Even if the forest seemed peaceful, I would have no guarantee of what could happen once night fell. However, I had too much energy just to sit around, so I decided to venture deeper into the forest.
+
+Activating stealth, I used the shadows to my advantage and ran through them as if they were part of me. The freedom felt amazing, as did the slight breeze blowing against my feathers and fluff. I didn't account for one thing, though, that being that I didn't have any sort of eye enchantment, so I saw about as well as a half deaf bat.
+
+Luckily for me, though, I had some idea of how to use Qi to see around me. It wasn't easy, and the effective radius was less than a few inches, but I knew that the more I used that technique, the better it would get.
+
+I stopped, took a look at the sky through the trees' dense crown, and noticed that the sun was about to set. Not intending to find out what sort of Spirit Beasts lurked during the night, I decided to cut my trip short and head back toward the nest.
+
+In that very moment, a dozen or so hissing sounds took me by surprise. Snakes, no, serpents, not unlike the one I killed a few days ago, surrounded me from all sides.
+
+“You all…” I said, but before I could get another word in, they all rushed toward me, fangs primed and tails whipping.
+
+“Ants that dare try to shake the heavens!” I defended against their charge with a large burst of Nirvanic Flames and Phoenix Fire, burning the ground, grass, and the serpents in one single blow.
+
+“With the wave of my wing, I, Fa Xiaolan, reduced this trash to ashes!”
+
+[You have slain Jade Serpent Scout Lvl. 2] x 5
+
+[You have slain Jade Serpent Lvl 3] x 4
+
+[You have slain Jade Serpent Guard Lvl. 5] x 3
+
+[XP Acquired] x 12
+
+"Pieces of trash that have eyes but cannot see Mt. Tai!" I yelled and started walking away, already knowing they won’t even have a core. Even if they did, it wasn’t worth the effort.
+
+However, just as I turned around, a certain... something got my attention. I wasn't exactly sure what it was; A smell, an aroma? It was rich, though, very rich, and very alluring. It promised me strength, and something inside me screamed at me to go get it before it's too late.
+
+Fortune favors the bold.
+
+I thought, sprinting in the direction of the presence, doing my best to avoid colliding with anything. I failed, of course, as I hit low branches, stumbled on roots, and ran through bushes. Minor setbacks, though, as the feeling of desire within me grew stronger with each passing second. I could feel it getting closer, but I also erred on the side of caution.
+
+Soon, a faint, blue glow, akin to a luminescent flower, greeted my eyes, accompanied by the infatuating smell of nectar. However, another aroma accompanied it; it reeked of danger. Of Spirit Beasts, far stronger than the panther. Part of me wanted to return, to make a sprint toward the safety of the nest. However, I suppressed it. Running away would only lead to losing opportunities.
+
+I made myself as small as possible, sticking close to the ground and carefully stepping on soft grass, careful not to make any unwanted noise. As I drew closer, the aroma urged me to hurry up, but I held back my foolish instincts this time around and approached cautiously.
+
+I wasn't sure what would happen if I got discovered, but I didn't want to find out. The plants around me began changing. As I advanced toward the source of the calling, their leaves turned from their pale green to a pale blue, and the Qi in the area grew richer and richer with every step. Soon, flowers as bright as the light of a torch began surrounding me, and I cursed my luck as my stealth had greatly diminished.
+
+I pressed on, though, moving through the shadowy parts and hoping that I was inconspicuous enough. The sound of flowing water greeted my ears as I drew close enough, as did the number of glowing plants. I felt my eyes widen as I took a quick peek at what exactly drew me so desperately.
+
+Before me stood a lake larger than my former nest by a few levels and probably five times as deep. Its surface shone with a pale blue light, stronger and brighter than that of the moon. Huge amounts of Qi leaked out from within, filling the air with mist.
+
+Its influence on the environment was clear, as even the most basic of plants became low-tier treasures. I almost wanted to pluck and eat some, but I didn't want to risk losing the tree over the fruit. However, life was never easy, as I noticed a few large, panther-like beasts lounging around. They were greedily absorbing the Qi into their flesh, passively strengthening their bodies while doing nothing!
+
+With such large amounts of Qi filling the area, I wouldn't need to bother hunting anything for a fair amount of time. As I circled the lake, I counted a total of five Spirit Beasts, each stronger than the other, and definitely stronger than me.
+
+The lake called to me, though, and I made a great effort not to sprint and bathe inside it. If they caught me, it didn't matter that I was a Phoenix; I would surely get eaten in one gulp by them.
+
+On the opposite edge of where I stood, a larger Spirit Beast lounged casually on a rather comfortable-looking rock, yawning lazily as the faint rays of sunlight kissed its ash colored body.
+
+I took another, uncalculated step and accidentally stepped on a clump of dried leaves, conveniently bundled together right below my claws.
+
+Motherfuck-
+
+They rustled for a second, and by the time I lifted my foot, all five of the panther-like Spirit Beasts turned their heads, looking toward my general direction on full alert.

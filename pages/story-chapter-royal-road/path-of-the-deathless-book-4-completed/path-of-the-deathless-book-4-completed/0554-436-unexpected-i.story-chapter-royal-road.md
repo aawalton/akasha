@@ -1,0 +1,289 @@
+---
+id: 95d7caca-f17a-5bd4-8bb2-a16ea2cacbf1
+page-type-slug: story-chapter-royal-road
+title: "436 Unexpected [I]"
+slug: 0554-436-unexpected-i
+partOf: path-of-the-deathless-book-4-completed
+position: 554
+ownLength: 6110
+unit: words
+publishedAt: 2026-08-19
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3835524/436-unexpected-i"
+royalRoadId: "3835524"
+---
+
+There is something deviant about the creature’s nature.
+
+The Child has gazed across worlds to see them, and Prophetesses have whispered tales to us of the Endhounds, world-slaying beasts of the apocalypse, monsters that drive entire civilizations to extinction and hollow dimensions.
+
+Yet this one… It is not non-murderous, but it is odd. We must continue watching and nourishing it, for it remains placated by our offerings. If nothing else, that is to our benefit. Still, how strange a habit for a beast of the end to develop.
+
+Perhaps it is because whose soul was imprinted upon it…
+
+—The Pale to Lord Scorn
+
+436
+
+Unexpected [I]
+
+“Meat and veggies, yum-yum-yum! Meat and veggies, yum-yum-yum! Who's the chef? I'm the chef! Who's the chef? I'm the chef! Me, me, me, me, me, me, me, me!”
+
+Projecting the scenes from Adam's mind, Uva's Dreaming Storm wove a most unbelievable sight into existence. The Tarrasque was indeed right there, being presented with Adam's evangelizing temple. But it wasn't trying to destroy it—or anything, for that matter.
+
+Instead, it seemed hyper-focused on a colossal, pitch-black thing it was holding in one hand. It was shaped like a flat bowl, and inside tumbled countless objects and people.
+
+The Tarrasque then shook the bowl violently, and massive boulders tumbled alongside trees, countless dismembered humanoids of various races, horses, pigs, goats, cows, and more, all searing and burning in a lake’s worth of boiling oil. They flipped and jumped within the massive thing that Shiv now recognized as a frying pan, and all the while, the Tarrasque continued gleefully singing its nonsensical song.
+
+A crushing silence swept over the meeting room. Slowly, one after another, all heads turned toward Shiv and then swiveled back toward the Tarrasque.
+
+“Ah, fuck me,” Shiv groaned. “You gotta be kidding me. And this is really what you're seeing right now, Adam? You're not bullshitting?”
+
+“I'm afraid not,” Adam replied. “The Dimensionalists of the Pale transitioned my temple into the Tarrasque's enclosure a few minutes ago. It grabbed the temple and pressed it into the oil, but when it refused to sear or deform in any way, it simply chucked it aside with something of a grunt of dismay.”
+
+Uva played those memories back, the scene rewinding as the temple's perspective went from an aerial bird's-eye view to something submerged in cooking oil. The Tarrasque held the temple beneath two massive claws, loudly grumbling as it pulled the temple in and out, dipping it like it was some kind of divine pot sticker.
+
+“Useless, not food at all!” With that final frustrated declaration, the Tarrasque cast the temple up into the air, and it tumbled through its dimensional prison until it came to a stop where the scene began. The Tarrasque continued cooking on, utterly indifferent to the presence of the temple, or perhaps it had already forgotten about it.
+
+“As our skills veer closer to beasthood, so too does the beast veer closer to our likeness,” the Harbinger declared, not missing the chance to say something it thought to be profound. The skill's words inspired a memory inside Shiv's mind. Even when they were fighting the Tarrasque, it behaved strangely at times. It looked like him and spoke like him, and it did loudly declare that it was a chef at one point.
+
+Kind of like he did during his fugue state while he struggled against the orc skill 811 had infected him with…
+
+Just then, a tremor rippled a long strand of lightning, and it reached Uva. She stood and looked toward Shiv. “The Councilwoman has arrived ahead of schedule.”
+
+“That's… fine,” Shiv managed, shaking off his stupor. “Actually, I think I want to get her opinion on this too. That thing doesn't really look violent to any of you guys, does it? Looks like it's just kind of obsessed with frying things.”
+
+Roland turned his head away and dared not say anything. It was hard to reconcile the monster that brought ruin to Blackedge and nearly tore the town asunder with the singing titan portrayed in Adam's perspective.
+
+***
+
+“When I called for an Honor Guard, I expected a diplomatic escort. A proper reception with a formal introduction to your Gate, rather than just you dragging me across—” Veronica’s words and complaints were cut off as she entered the room. All heads turned towards her, but her eyes were locked on the storm-shaped scenes unfolding at the center of the chamber. It took quite a sight to silence Veronica Chandler, but a singing and cooking Tarrasque that utterly ignored a divine temple beside it was sufficient. “What is this?”
+
+“They put Adam's temple inside its enclosed dimensional enclosure,” Shiv explained. “It kind of just attempted to fry the temple like it was food, and when that didn't work, it chucked it aside. As far as we can tell, it's throwing everything it gets its hands on into its frying pan and—”
+
+And then the Tarrasque interrupted his explanation by lifting the entire pan and dumping the contents down its own throat, grease, boulders, trees, people, and animals all. Its body shuddered as it swallowed gulp after gulp. When that was done, it let out a roar of absolute displeasure and began smacking itself in the head with a crude, crystalline spatula that it produced out of seemingly nowhere, appearing to be made from the same substance as its adaptive shell.
+
+"Stupid! Stupid! Bad! Incompetent! Fucking dumb! Dumbshit!" The words it howled sounded almost like what Georges might have said to Shiv once, who felt his insides plunge ever further down a long and precipitous chasm.
+
+Then the Tarrasque turned its head toward the sky, or at least the direction where the sky was supposed to be, and it bellowed, "More food! More ingredients! More! More! More oil!" It began hammering its utensils against the edge of its pot with every blow, deforming the metal as it threw its calamitous tantrums.
+
+After a moment, a gap formed in the ceiling of the dimensional enclosure that held the Tarrasque. In this, Shiv realized something else: The Endhound had no interest in escaping; it was just demanding additional supplies from the Jotun.
+
+From the hole, there came a deluge of materials. Among random pieces of debris and vegetation, Shiv saw beings of all races, including automata, both dead and alive. The Jotun were clearly sacrificing thousands of their slaves and even some of their own to placate the Tarrasque. In return, it remained placid and docile, cheering instead of raging against its cage. If anything, this place was less a prison and more a sanctuary for it to focus on its true passions, that being the culinary arts.
+
+Shiv produced a series of noises, neither fully human nor fully coherent, but still expressing the fullness of how he felt. As Udraal had made him from the mental structure of a Tarrasque, it seemed that, by Sullain's hand, part of his own nature had been imprinted upon the undying Tarrasque as well.
+
+“This is...” Veronica's sharp eyebrows creased as she searched for the appropriate words, but she found none. Her silence was broken as she briefly made eye contact with Roland—and it was only then that the Starhawk and the Songbringer took note of each other as well. Rather than erupting into an argument, as Ascendants might, the surrealism of the sight before them reigned paramount as everyone continued digesting the Tarrasque's actions.
+
+In the live feed, it continued mutilating the very art of cooking itself. Shiv cringed at its every action.
+
+It had been made with himself as a template, but it lacked all of his skill, all of his understanding. In fact, it seemed to be trying to figure out how to cook from first principles alone. Everything was tossed in without order, without heating up the pan first. It casually scooped up all the people and plant stuff that were thrown in. Trees and bodies alike were smashed and smeared into the frying pan, and then the Tarrasque lifted its head once more, shouting a single word: "Oil." It lifted the pan over its head, and on cue, a massive flood of scalding hot grease spilled down like a waterfall, filling the massive pan in seconds.
+
+A chorus of horrific screams followed, granted vivid detail as Adam turned his Immolating Omniscience upon the insides of the pan. There were still survivors among the slaves, but there wouldn't be for long. Those who weren't boiled to death drowned or were crushed as the mass of objects tumbled back and forth inside the pan.
+
+The Tarrasque's actions were atrocious, indeed, but there was something inherently comical and unnatural about how it proceeded. It took the sting out of things. It made everything feel as if it was just a mockery.
+
+And while Shiv and the others looked on within the meeting room, another instance of him conveyed what he saw to the only true expert on Endhounds he knew.
+
+***
+
+“Doing what now? What the hell do you mean it's cooking? It's not trying to break out?”
+
+“Nope.” Shiv cast his memories over to Produveral, and the man examined the scenes over and over again in vivid detail. Shiv found himself pleased that he'd left a body in the Outsider Observation Post. Produveral was still trying to push him into gathering his companions and making a trip over to Chorus, but with everything that was happening, Shiv always had an excuse to push that back.
+
+With this, he had something that might just be able to lure out more aid from Produveral, or at least give them another extension on top of all the ones already provided. “Has this ever happened before?” he asked.
+
+“Which part? Someone imprinting an existing Pathbearer's soul on a Tarrasque? If so, yeah, a Tarrasque takes on traits usually from designated Farwalkers to give it an edge in instinctive intelligence and seed it with an inclination towards certain skills. But Tarrasques shouldn't be able to develop Social or Crafting Skills. It's just not possible. The shape of their souls shouldn't allow for that—they should be pure violence.”
+
+The Farwalker now sounded more disturbed than ever before. And something about that pleased Shiv—being able to bother a Myth was definitely worth an achievement, right? A Feat? A few levels?
+
+A beat passed.
+
+Nothing.
+
+Well, I had to try, System.
+
+“Well, since my mind was originally designed after a Tarrasque's before my soul got imprinted on the one Sullain bought from the Realmrunner, I think you got a special circumstance on your hands. This thing is definitely trying to cook, and it's definitely behaving like how I might behave if I was a monster.”
+
+Produveral let out a breath, but with his exhale he let out a measure of strength and drew in a debt of fatigue. “Oh, Goddamnit. God damn it. Every other day with you, every other day, something insane happens. Chorus is gonna… Actually, no, I have no clue how they'll react to this.”
+
+“Hey, don't blame me, man. I'm not the one who made the Tarrasque. That guy's dead, so if you wanna complain to the next best guy, that would be Udraal. He is the one who might have a guess on why all this is happening.”
+
+Shiv suddenly snapped his fingers, pretending as if he'd just remembered something important. “By the way, now that you mention Chorus, I trust that this is a good enough excuse to make you guys take the Tarrasque back, yes? Because if you won't, I've got the perfect place for it, one you might not like. Since it's pretty much a person now, it's gonna need a job to become a proper productive member of society, and I know just the woman who would be delighted by a jumbo-sized and extra enthusiastic chef. I need to give her a gift as an apology for the mess I caused last time anyway.”
+
+Shiv's words were less like language and more akin to incantations of torture on Produveral’s ears. He grasped his head and began to groan. “Fuuuck… Why did I take this assignment? Why the fuck did I take this assignment? Fuck!”
+
+“So, what's it gonna be, John?”
+
+“Just give me a second, you little shit. Let me enjoy this migraine before the decision-making starts.”
+
+***
+
+“Yeah, so the Farwalkers have no idea why it's doing this either,” Shiv declared to the rest of the room back in Farnest. “I guess that makes this Tarrasque real special. Like me.”
+
+“And more ways than one,” Munny commented. He squinted at the creature as hard as he could, but rather than fear or confusion, his eyes held a hint of curiosity and consideration. “Say, if that thing can be taught to cook or behave—”
+
+“I strongly recommend against trying to domesticate an Endhound,” the Culturist cut in. “The result is usually quite apocalyptic for the civilization that makes the attempt.”
+
+“You don't talk to me,” Munny spat, hands tightening until his knuckles turned white. “You don't look at me. You don't say anything to me. The only thing between us is the thing that's going to come at the end. I'm putting up with you now for the sake of what the kid is offering, but you are nothing, and you will stay nothing around me.” The Ranger's words were cold and true, and Shiv positioned himself a few steps closer to Munny so that he could intervene and stop the man's draw in case he went for his iron.
+
+Thankfully, Munny kept himself under control, albeit barely. His hate for the Culturist was true and real—that fire would not be doused any time soon, but there was a measure of inspiration that could be gained from Munny's words as well. A thought, near-mad, but nethertheless enticing, caught flame inside Shiv as he raised his voice to let everyone else know what he was thinking.
+
+“You know, Culturist, maybe he's got a point. A Tarrasque shouldn't be able to gain Crafting or Social skills. This one's singing, it's cooking, it's thinking. It's not trying to break out and destroy everything.” Shiv sucked in a breath. “I think I want to talk to it.”
+
+“Of course you do,” Adam said flatly, not even remotely surprised.
+
+Uva frowned slightly, but then her frown died, and she considered the possibilities that might follow. If Shiv sent himself across using the temporal anchor, he might expose himself to the Pale and cause immediate retaliation. More likely, though, that wouldn't be the case. After all, trying to intervene and sending forces into the Tarrasque enclosure would likely see them cast in the pot as well. This was a unique opportunity. Shiv could deploy himself and speak directly to the Tarrasque, get a proper measure of its nature, unmolested by outside influences.
+
+Veronica also realized that possibility, and instead of raising her voice in rebuttal, she studied Shiv for a moment, then regarded the Tarrasque again thereafter.
+
+“I'm being serious. Think about it. They can't easily move the Tarrasque because it really wants to cook right now. It keeps demanding more ingredients, and if someone were to distract it from what it's doing, my guess is it's going to react violently. But if I go in, I try to let it cook me for a little bit, or give it some pointers. Maybe I can talk to it and see how intelligent it really is.”
+
+“That might cause them to teleport the temple elsewhere,” Veronica noted.
+
+“I'll leave an anchor inside the Tarrasque enclosure. Maybe they put up temporal wards there, but since we already know its general position, it's not going to be able to stop us. We can find where it is again using Adam's Awareness, and then I can close in again and again with my Unique skill or something.”
+
+“The Tarrasque's Magical Resistance is too thick for my immolation to take hold, but I did ignite his frying pan and quite a few of his ingredients,” Adam said.
+
+The final words were spoken distastefully, but the point was made—they knew where the Tarrasque was now, and there was no hiding its position anymore, no easy way to transport it either.
+
+In accepting Adam's Evangelizing Temple, the Pale had swallowed a most poisoned pill indeed, one even more poisoned than they or even Shiv's group themselves could have realized.
+
+“Alright, that about settles it,” Shiv grunted. “I’m going to take a trip across and say hi to my soul-son—”
+
+“Never call it that again,” Uva hissed.
+
+“—and see if I can charm this vile, nasty creature or something through our shared love for cooking or… Well, if nothing worse, we can just attack it or something. We know where it is now. That's a big problem solved in any case. Any objections?”
+
+Shiv looked across the room and realized almost everyone was still stuck in the processing phase. He shrugged. “Well, this might take a few deaths. Let's give this a go, eh?”
+
+A loud wheeze left Roland. “I feel the urge to say no. I don't know why. I don't have a good reason.” He drew in a long breath through his nose and let it out as a tired breath. "Mind yourself, Deathless. And if you find yourself in any actual danger, just abandon that body and—”
+
+Before he finished, Shiv's Harbinger skipped across time, bringing his physical vessel over to where his anchor remained festooned. In an instant, he transpositioned himself from Farnest at the bottom of Gate Piety to the depths of the Pale and the dimensional enclosure housing an apocalyptic beast.
+
+The moment he arrived, the Tarrasque froze and turned, and the plane itself responded. Shiv could feel a seeping coldness pass through the dimensional walls. He could feel a presence try to infest him, but it rattled and recoiled, his Shapeless Tides too dense to be pierced.
+
+The Tarrasque, meanwhile, reached out in a staggering blur, though with his myriad skills allowing for his Inertial Overdrive to be stacked countless times over, its speed was not quite as incomprehensible to Shiv as in their prior meeting. He jolted back, his tides spiking up at an angle as he shot just beyond the Tarrasque's reach. It smacked the temple aside, sending it spinning. That blow would have been enough to leave a chasm in a mountain range, but for Adam's temple, force and violence became impossibilities.
+
+“Hey, hey, calm down!” Shiv called out, holding his own frying pan high. The orichalcum edges glinted red-gold in the dimness of the dimensional cage, and the Tarrasque, tearing back to take another swing, froze as it realized what he was holding. The Tarrasque raised its pan and roared. Where its face was like a slightly more frog-like and bestial version of Shiv's own, with one red eye and one white, its voice sounded like a series of landslides smashing into each other, tectonic plates grinding and shifting.
+
+“Cooking! Cooking!”
+
+Shiv felt his heart pound ever faster, but a feeling of peace and resolve took hold inside of him. Something intuitive hinted that he was on the right path, that this might be the most optimal way to resolve this problem. "Yeah," he replied, "cooking! You've been doing a lot of cooking recently, huh?"
+
+Shiv looked toward the frying pan and suppressed a grimace. The contents inside had gone silent.
+
+The Tarrasque slammed all of its limbs down upon the floor, and with every impact, the dimensional mana that constituted its enclosure shuddered and rippled, straining to keep it contained. It seemed to have evolved further as well. Shiv could feel a grinding presence press against his mana fields. His Harbinger resisted, though it felt like a ceaseless rain of needles was constantly chiseling at its surface. The only reason why he didn't suffer more damage himself was because of his Shapeless Tides, standing as blade against blade, grinding back against the Tarrasque's ambient null magic aura.
+
+“And you like cooking too, don't you?” Shiv shouted, feeling like he was talking to a child.
+
+A disturbance pulsed through the dimensional cage, and a small gap formed to his far right, promptly unleashing a salvo of projectiles, both magical and not, that crashed into him in rapid succession. Shiv remained unmoved.
+
+Within the enclosure now were two beasts of the end, two juggernauts. When it came to Toughness, his skill was likely superior to the Tarrasque's altogether. Shiv's shell turned scarred and then immune as the artillery and arrows broke against him, barely adding any weight to him compared to the Tarrasque. The ones who fired at him now were wanting.
+
+He stole force from the blows as well, fueling his Shapeless Tides with additional vectors and using that to brush aside the magical attacks without suffering any net losses. Through it all, he never turned his gaze away from the Tarrasque, for he cared nothing about the Frost Giants themselves. The Endhound was the real target, something he'd sworn to resolve a long time ago, and right now, it seemed that he might stay true to the promise he'd made to his friends back in the irradiated ruins of the fallen city of old.
+
+A solution without violence would be the happiest of endings, if only because it spited the System more than anything else.
+
+“Well, listen, if you want to talk about cooking, I—”
+
+The Tarrasque surprised Shiv by suddenly leaping up into the air and snatching him out of the air. It precisely closed the tips of two colossal, building-sized claws around him and tried to squeeze, but though it struggled and grunted, straining itself, Shiv managed to hold its claws apart by pushing back with all his might. To his surprise, he was stronger than the Tarrasque. At least for now. Contending with its colossal strength was costing him tide after tide, though. He decided to stop battling against it and simply let himself be gripped for a while. He wouldn't suffer any real harm, anyhow. As he shifted his arms aside, surrendering his flesh to the Tarrasque's ministrations, its index and thumb claws pinned him in place.
+
+It felt like being trapped between two colliding planets, and in an instant, Shiv found himself utterly immobilized. His scar-forged shell hardened to such an extent that he rapidly approached the precipice of being too heavy to move under his own strength.
+
+And that had an effect on the Tarrasque as well. In an instant, it went from being able to pinch him to letting out a surprised bark of frustration as the tiny gnat it held suddenly gained the weight of a rival mountain. Shiv slipped out between its fingers and impacted the base of the dimensional enclosure, tearing a small gap in the mana he rested upon. His Shapeless Tides were like blades sliding across his body, and with every circulation, he ripped into the static mana.
+
+Undeterred, the Tarrasque reached down to scoop him up. It held him in the palm of one hand and then had to use another to support him. It chucked its spatula aside and grunted with every step, carrying Shiv over to its pan while its face exhibited naked confusion. Granted this moment of peace and spared the constant barrage of projectiles, Shiv took a moment to observe the Tarrasque, and just then, a light fell over both of them. Adam's dawn lit both the Deathless with divine awareness—and Shiv struggled not to cringe as he was reminded how closely the Tarrasque resembled him.
+
+“Cooking!” the Tarrasque cheered again, suddenly forgetting how heavy Shiv was. It tried to chuck Shiv into its frying pan, but it didn't use enough force, and he plopped out of its hand once more. This time, however, instead of allowing him to fall all the way down, it caught him inside its gravitational field, and Shiv went from being a mountain to utterly weightless in a moment.
+
+That's when Shiv realized something. The Tarrasque likely wasn't that weak. Instead, its strength worked by unbalancing and shifting the gravity fields of those things around it. It was effectively a walking singularity, capable of rooting itself in place or moving all things around it. Shiv then was a self-propelling object—and in that, he was perfectly suited to contend and struggle against the Tarrasque, though he wasn't an absolute counter either.
+
+You've been building this fight up for a while, haven't you, System? Giving each of us specific skills so that we could struggle against each other and make this thing another big and ugly brawl.
+
+Shiv scoffed at his true enemy as he glided weightlessly in the air, bouncing up and down before he was dropped into the pan. He plunged like a dagger, and the moment he struck the black metal, it deformed, dipping and dolloping under his weight. Rocks, shredded plantstuff and pulped bodies crashed over him as he was submerged in the scalding hot oil.
+
+The Tarrasque tried to shake the pan as it once did. Its underside promptly ruptured and Shiv fell right out, causing the contents of the pan to spill out and over Shiv.
+
+“No! Pan broke!” the Tarrasque crooned with dismay, and it radiated with genuine sadness. Using his Harbinger, Shiv looked upon the Tarrasque's core, and there, he saw it: a tiny pinprick of empathy and emotion. It was small, the emotions it manifested crude and simple, but it was experiencing emotions nonetheless. It suffered grief, felt loss, and struggled with thoughts beyond destruction and war all the same. Its mind spiraled as it forgot Shiv for a moment, holding up its prized pan and staring through the hole in the middle.
+
+“Yeah, that happens sometimes!” Shiv shouted, trying to keep his tone casual despite the need to raise his voice. “Gotta be careful what you throw inside your pan and also what you're cooking. Some things don't go together."
+
+His words were interrupted as the Tarrasque roared again, its voice deafening, vibrating the very particles in the air as a chain of devastating explosions followed. The Tarrasque struck, bringing its frying pan down upon Shiv, but that wasn't the only attack that came. Instead, it ejected a wave of magical nullification toward him, ever bright in a spiral of shifting colors and attunements. Shiv's eyes narrowed. He mustered his Shapeless Tides, but instead of striking back against the nullification, he side-stepped it entirely by diving Backstage.
+
+Both the frying pan and the magical nullification wave missed him. Everything became vague expressions of mana and vitality, and behind Shiv, both the Red Rider's Hand and the girl that didn't exist stared on, enjoying the havoc as one might a theater play.
+
+“So, how's it going between you and your bastard?” The Arrow that never was smirked at Shiv; he sneered right back.
+
+“Working on it—it's like dealing with someone who keeps breaking stuff, and the solution to it is breaking more stuff. There's something of a person budding there. It has a bit more thought than just smashing everything, but I need to get through to it. Need to keep talking to it.”
+
+“Well, good luck,” the girl replied nonchalantly, leaning backward in the air like she was reclining on a couch. “I think you can pull it off. Maybe. Possibly. Who knows? You've already won half the battle by filling it with your weirdness. By the way, before you go on thinking that you're beating the System right now, that dog frog turtle with your face glued onto it developing the cooking skill is a natural outcome of mana accumulation as well. The System recognizes that, just like the System recognizes most of you. The only thing the System hasn't fully understood is whatever that weird mist that my brother keeps spilling out is.”
+
+Shiv considered what she was saying and felt the enthusiasm inside him dim a little bit. “I guess, but even still, not needing to fight another giant monster at the end of everything is not bad.”
+
+“Well, you know, the other thing is, who's the actual giant monster in that enclosure?”
+
+“It. Definitely it.”
+
+The girl rested her chin on a palm and frowned. “Really? Between the two of you, it's more fragile, and it doesn't have nearly as many tricks up its sleeve. Frankly, you're probably the bigger bomb there. It's not really a criticism; it's just an observation and all that. Anyhow, keep having fun with the poor kid you abandoned—see if you can finally teach it how to properly cook a meal or something. That'll be a big hoot.”
+
+Shiv considered firing a biting remark back, but then he hesitated as he realized she was right. I was considering teaching it how to cook before. That was more of a spiteful dig against the System back then—wishful thinking. But maybe, just maybe, I might be able to make this work. Finally get a second chef for my kitchen, or move it to the Fairwoods to distract Evanescia. Not a bad idea…
+
+The girl rolled her eyes. “It would be for anyone but you.”
+
+Shiv surfaced once again, leaping back into the fray with a new wind behind his back. The Tarrasque let out a huff of pure surprise as he reemerged with a burst of vitality, manifesting on the other side of the pan, undamaged in mana or flesh.
+
+“Anyway, as I was saying, you can't just throw everything you want into a frying pan. You gotta consider your materials first and then cook things properly, in order.”
+
+His sudden return and the effects of Continuity Error left the Tarrasque befuddled for a while longer, and Shiv decided to make use of that confusion so that he could explain things to the Tarrasque. He shed his Scar-forged shell, ejecting the damage inflicted upon him, which utterly crumpled and obliterated the frying pan—but it also set Shiv free. He then flicked himself a few seconds into the future, where his Toughness was restored, and he rematerialized, sitting atop the Tarrasque's head as he cleared his throat.
+
+“The first thing is, they gave you a really, really shitty pan. You need cast iron for normal meals, but if you're going to cook something harder and rougher, then they need to bring you something like orichalcum. You know what orichalcum is, right?” He dangled his Last Morsel in front of its face with a rope of tissue. “This isn't exactly orichalcum. It's made out of narrativium. I think that's what I'm made out of too. Narrativium, though, isn't actually a natural material, or at least that's what the Farwalkers have been telling me. Anyway, you want to use this if you're going to cook something like me. You don't want to break any more pans, right?”
+
+The Tarrasque tried to reach him. Its massive hand shot toward the center of its head, but then he leapt across time once more, blinking a few hundred meters away, directly parallel with its face. He arrived just in time to see the Tarrasque's palm collide against the center of its skull, and the shock waves that followed would have flattened a house kilometers away. He took the buffeted wave of force as a boon instead, absorbing the impact and fueling himself with more Shapeless Tides.
+
+He held up his Last Morsel once again, and the Tarrasque's eyes scythed from the Deathless to the Legendary weapon he held. Distracted from impending violence and charmed by the cooking utensil, the Undying Tarrasque barked a single word: "Pan!"
+
+“That's right. Good pan matters. Good facility matters here. Let me show you something.” And then he summoned his scintillating flame as the Nihilist combusted it into existence beside him. Instead of blasting the Tarrasque, he began frying the remains of the Tarrasque's pan, and the colossal monster struggled between two impulses.
+
+There was continued confusion, its mind thin with thought but still imbued with thought, indeed spiraling as it tried to figure out what he was doing. The rest of its instincts were predatory and destructive. It still wanted to kill, of course. In its base nature, it was its first inclination, but Shiv was an enigma, for he wouldn't break, not materially nor magically. The Tarrasque was too simple to realize it needed to focus on shattering his mana fields one after another and bursting his temporal shell to kill him.
+
+“Now, I might be able to give you a frying pan made out of orichalcum.” As Shiv continued talking, he sculpted and fried everything the Tarrasque had been using earlier, turning the ruined remnants of the frying pan and the slurry that had leaked out from it into well-cooked chunks of edible food. “But I think you already have something that's better than that.”
+
+He pointed at its discarded spatula, clearly shape-shifted and made from the substance of its adaptive shell. The Tarrasque frowned, trying to process what he was saying. "Not a pan," it said. “Not a pan.”
+
+“No. The spatula isn't a pan. You're right, it's not. But you can make a pan from the same stuff you made the spatula from, right? You make a pan from a spatula."
+
+The Tarrasque's eyes darted about, and Shiv realized this thing had even worse attention problems than he did. Holy shit, I didn't think that was even possible.
+
+“Spatula pan? Spatula-shaped pan?”
+
+It's also a lot dumber than I am. Wait… Maybe this was how Georges felt when he first tried teaching me how to cook too.
+
+“No, no, not spatula pan! I'll explain that later. Here, eat, eat, eat.” Shiv decided that he was just going to use simple words now. “Eat, eat,” he continued, pointing at the fried chunks of cast meal and biomechanical slurry.
+
+The Tarrasque clearly understood what “eat” meant and, slowly and tentatively, with heavy, ponderous steps, it staggered over to the food splattered at Shiv's feet and began loudly and joyfully scooping the Nihilist-fried strips of material into its mouth. There wasn't even any hesitation in the action, no consideration that he might be trying to poison it. Instead, it just ate and ate and ate until there was nothing left. Its jaws were wide enough to swallow a small town, and it didn't swallow once before shoving everything in. Along with how rapidly it was chewing, and the happy, near-pig-like noises it made as it chewed, Shiv felt like he was gaining a measure of control over the Tarrasque.
+
+When the Tarrasque swallowed after a few seconds, its lips began to twitch and slowly curve upward. “Tastes good.”
+
+The first time the Tarrasque grinned at Shiv, it wasn't a malicious grin born of a monster that wanted to break his world. It wasn't a hateful grin from a titan that had been struck by insects it loathed. Instead, it was an interested, fascinated, and yearning grin, like a child who expected a parent to deliver more food into its mouth. "Eat, eat!" it said, and slammed its hands and legs up and down. "Flavor, flavor, flavor! Not shit, not shit!"
+
+“I guess the easiest way to reach a monster’s heart is through its stomach.” Shiv chuckled. Hm. A bit like how I charmed Uva.
+
+A mental nudge metaphorically smacked him upside the head as a certain someone found great offense in his comparison. “I am going to hurt you, Deathless.”
+
+“Ah, fuck,” Shiv hissed in alarm. “Uva—sweetheart, you know I didn’t mean it like—”
+
+A psionic shroud went up on her end and blocked his reply. He sighed. Well, I’m going to have to cook her something nice as an apology later. Something better than this slab-stuff I made for this guy.
+
+“MORE! MORE!” the Tarrasque shrieked at Shiv, clearly enchanted by its latest meal. Its voice slammed into him like an explosion, and Shiv flinched as a faint platinum bruise was painted on his form.
+
+“Okay… okay. Let’s see what else I can fry for you…” And then he glanced at his own mana, and he hummed with interest. “Well, I was willing to let you eat me anyway. Let’s see how you like the taste of deep-fried Biomancy.”
+
+Harbinger of the Tripartite Ruin 385 > 387
+
+***
+
+Back in the Farnest meeting room, Morgan Munny took in the gawking faces of Legends around him and snapped his fingers in the direction of that overly tall Abyss-dweller the boy had called Still Water. “Hey, Spider-thing.”
+
+“Weaveress,” the pale elf with the strange Psychomancy skill chided with narrowed eyes.
+
+“Yeah. That. You guys got some kinda alcohol? Cause it feels wrong somehow, watching this sober.”

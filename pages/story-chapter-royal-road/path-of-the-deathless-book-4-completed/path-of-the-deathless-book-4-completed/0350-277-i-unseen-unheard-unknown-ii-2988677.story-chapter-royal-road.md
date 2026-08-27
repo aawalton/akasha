@@ -1,0 +1,157 @@
+---
+id: a3494885-dc3d-58df-8b3d-fdc981f75b6f
+page-type-slug: story-chapter-royal-road
+title: "277 (I) Unseen, Unheard, Unknown [II]"
+slug: 0350-277-i-unseen-unheard-unknown-ii-2988677
+partOf: path-of-the-deathless-book-4-completed
+position: 350
+ownLength: 3451
+unit: words
+publishedAt: 2026-01-28
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2988677/277-i-unseen-unheard-unknown-ii"
+royalRoadId: "2988677"
+---
+
+No.
+
+No more of this.
+
+Harlock, I've put up with your grudge for long enough. Give up. You are not catching him. I don't care how much he offended you by slipping past your notice, walking into our outpost, slitting the throats of all our Shadows, doing it again seventeen more times, and butchering practically every forward scout we had in the border fortresses. I warned you before. You didn't listen. I warned all of you, and you pretended not to hear me. Well, here is the consequence.
+
+I have told you that he is temporarily on the outs with his own faction, that the Necrotechs and him are not fully aligned. We should exploit that without dragging ourselves into the conflict. And the way to do so is by agreeing to a non-execution order on his son. Yes, we can destroy a few of his vessels, but we will not hunt him down and kill him.
+
+But it seems like some of you just couldn't resist. And now here we are, down two Avatars and twenty-one thousand Master-Tier Pathbearers. It's not like you don't know who he is and what he can do. It's not like you didn't encounter him before I did. That you didn't know him before your Ascension. What, you think just because you're gods now that he's not a threat?
+
+I shouldn't be giving you this lecture. Frankly, I don't know what's wrong with you. All of you have been more reckless and stupid and short-sighted recently. Is something wrong? Are you lacking worship? Have we experienced some kind of mana contamination that I don't know about?
+
+We know that Valor Thann is over a thousand years old. You wouldn't know how many other people are one thousand years old on Integrated Earth. A few Legendary monsters who live away from everyone else and kill everything that comes near them. Being a Legend is one thing. Living past even just three hundred years as an active martial Pathbearer? That's unthinkable. That's madness. And that is what he has done.
+
+We have a unique chance right now—for us to negotiate somewhat of a limited truce. And that's what we're going to do.
+
+Harlock, you're going to avoid him. No ifs, buts, or maybes—you will avoid him. Where he is, your shadow is nowhere to appear. We are done fighting Valor Thann. I am done losing the lives of my subjects, and we will shape up and be the gods and Avatars that we are meant to be.
+
+Broken Moon. Starhawk. You already caused enough problems. And now it seems like the rest of you are just determined to make us lose this war. Now, I'm going to take a personal trip down to the Abyss, and I will speak to Valor personally. None of you come with me. Absolutely none. You've done enough. Now, let me fix this so we can get the rest of this miserable conflict resolved.
+
+-Legend-Councilwoman Veronica Chandler
+
+277 (I)
+
+Unseen, Unheard, Unknown [II]
+
+Shiv didn't know what made the Index pop like a rotten melon. He also didn't care the moment it burst apart. He saw a flash of coiling fibers that were wisp-thin, and they collapsed into a single point at the core of the titanic Fingerling. It was little more than a dot at first, but he saw it: the Hatchling. It wore Uva's face, and its body was a mockery of the Composer’s people, a nightmarish fusion between a Weaveress and an Umbral.
+
+More than that, it was constantly vibrating, tremoring with doubt and deception. Shiv's Skill screamed at him. Jessica called out to him, pointing at the form of the Hatchling. But then his eyes fell on the small face pointing out from the creature's right shoulder. A face that belonged to Uva. She was sunken and worn, slowly being drained away, melding into the horrific creature as if she were something to consume.
+
+He wouldn't accept that. He seized the Psychomantic strand used to penetrate his mind and pulled as he soared forward. The Hatchling was ripped through the still-crumbling ruins of the Index. It let out a screech of agony. Shiv barreled shoulder-first into its chitinous chest. A crack sounded, a crack that resonated with his Magical Resistance.
+
+Shiv felt his Shapeless Tides press against an unnatural spell, something that distorted time, that commanded him to still. He activated his Temporal Shell as well and felt something grind against him, hovering over his Chronomancy field like a layer of frost. He realized it was the Chronomancy Skill that he'd cut out of Uva all those weeks ago, the first time the Eldest had tried to manifest a Hatchling inside of her, and now it was back.
+
+"Godsdamn piece of shit," Shiv snarled, clenching up with the Hatchling.
+
+He drew its face in close, ignoring how its palp-fractals tore through his armor, sinking and grinding against his chest. A slight pinch of pain flared right above his sternum, but that didn't matter. He wasn't going to let this creature go. Not after what it had done. Vitae exploded out from him; streams of red slammed against the monster's exterior, pressing and grinding as he tried to reach into its soul. It seemed to possess a level of Magical Resistance as well, but it was stripped of the Starhawk's power.
+
+The Hatchling embraced him in turn, its spider-like legs closing around him, Psychomantic strands erupting between the silken fabric lining its unnatural wings. Uva's usurped mana field tore across Shiv like a storm of razor wire. They glided upon his body and found no purchase in his flesh nor mind. It cost him a fifth of his Overflow Tides to resist the Psychomancy, but his Bifurcated Processing proved its worth in mithril. For every Tide he spent, another pulsed out from his chest, rushing forth across his body as tidal waves upon a shoreline.
+
+His grip on the Last Morsel tightened, but he didn't lash out. He couldn't risk killing Uva. The Hatchling and her shared a body, shared a soul, even. He could feel it with his Vitae.
+
+Shiv adjusted. He snapped the Hatchling's head down in a sudden spike of force, and as it tumbled, he caught it in a guillotine, pointing its face downward, away from him. Its strands were still lashing out, but it was briefly stunned, startled by his sudden burst of violence. He kept its right side open, kept a close eye on how Uva was doing. Most of her neck had vanished by now. Growing lengths of chitin and golden frost were creeping up the bottom of her chin.
+
+"Uva!" Shiv snarled, wrestling his rage and worry into control. "Just hold on. I'm gonna—"
+
+"Do whatever you need quickly, and get out," she whispered hoarsely. Her expression was one of grim acceptance and resolute defiance. "I burned everything. I used all of myself. I gave all. I have no regrets. You're here. I saw you. I am not afraid. I am not… afraid."
+
+Her words made his heart thunder faster, stronger; made the frustration inside him burn hotter. And then, to make matters worse, Jessica came, blade drawn high, preparing to hew the Hatchling in twain down the middle.
+
+"No, godsdammit, Jessica!" Shiv drew the Hatchling away, took the blow on his shoulder. He grunted as his shoulder suffered a slight fracture.
+
+Despite this, so cultivated was his Toughness that Jessica’s strike bounced off instead of cleaving through.
+
+She stared incredulously. "Godsdamn yourself, kid, what are you doing? This fucking thing's trying to kill us!"
+
+Shiv was about to explain things when the Culturist suddenly manifested into existence behind Jessica. One moment, he didn't exist at all. The next, he simply popped out like he emerged from nothing at all. Shiv wondered if that was the orc's Stealth Skill. If it was, he had no idea how it worked or how to counter it. There was no hint of the Culturist at all. Not a single one. Jessica was just as shocked as Shiv was. She spun, her instincts commanding her to swing her blade back in an arcing scythe.
+
+Shiv watched as the orc dodged backward. He left an afterimage of himself, one that slowed Jessica's cut—enough that Shiv could follow the slash's full path rather than only seeing a blur.
+
+"Peace, Giantsbane," the Culturist said, holding his hands out. Only the lower half of his face could be seen, and his lips were curved in that slightly mocking smirk that almost never left his face. "Peace! I'm not here to ambush you. Even though your Awareness is downright abysmal for a martial Legend."
+
+"Where the hells did you come from, orc?" Jessica asked, pointing her blade right in his face. It extended and came to rest right underneath his chin. With a slight push, she would skewer the Culturist's throat. Yet he clasped both hands behind his back, showing no hint of fear nor concern for his own life.
+
+"I'm here," the Culturist said, looking down at Rusty with a faint sneer before returning his gaze to Jessica, "to tell you that you are not to kill the Hatchling. That she is to be preserved. There is an arrangement, an arrangement between Headmaster Hymn and me. It is inappropriate for you to gain a potential apprentice and for him to lose one, is it not?"
+
+"The hells are you even talking about?" Jessica asked, growing more confused by the second.
+
+The Culturist gestured toward the thrashing creature's right shoulder before his hand suddenly snapped out in a thrusting fist. A kinetic projection exploded out from his arm like a missile and struck something hidden. It burst apart, spraying into three separate pieces. A Fingerling shaped like a thumb came apart in a rain of blackened gore over two hundred meters away from Shiv, and the faintest static of Dimensionality clung to its form, mingling with its lifeblood as it died.
+
+Shiv hadn't noticed that one either. Neither had Jessica, for that matter.
+
+"As I was saying," the Culturist said, ignoring the fact that he managed to strike down a threat that neither of the other two Legends perceived. "Look at the Hatchling's right shoulder for your answer."
+
+Jessica did, but she moved herself to the Hatchling's right side, placing the Eldritch creature between her and the Culturist as an additional layer of cover. The Giantsbane went still with surprise as she beheld Uva for the first time. "Okay, I get it now. Really fucked up, and I feel kinda bad for her. But what the hells are we supposed to do for her? Because I don't have any in-field Head Surgery Skills."
+
+"What is yours will be mine. All will be mine!" The Hatchling snarled these words as its wings flared out. Blinding colors erupted outward, beams of Eldritch mana cleaved and slashed through the air, but Shiv simply tightened his grip, and the Hatchling began to choke, began to flinch and twist. His Overflow Tides were bearing down on it now, and he pressed the mana back. With every bit of eldritch color it channeled, he pushed harder. He drove the magical hues back, forming a bottleneck against its Eldritch Skill using his Shapeless Tides.
+
+"Alright, Eldest," Shiv said. "Time for you to sit in the cold for a while. Uva, sorry. This might hurt a little."
+
+"Do what you…" She was too weak, unable to even finish those words. “Fuck…”
+
+What? I think that’s the first time I heard her curse, Shiv thought.
+
+Sage of the Enkindled Heart: Let us blame Rose Van Erren for this update to her lexicon.
+
+What’s a lexicon?
+
+A Glimpse of Perspective: Get me free of this ignoramus of a host.
+
+Shiv shook his thoughts aside, hardened his will, and called out to his hidden army. "Golems, out!"
+
+And just then, over two hundred Vitae Golems exploded out from his dimensional cape, spilling into the clearing. As he hadn't issued any additional orders regarding their flight pattern or formations, they emerged clustered together, hovering passively in the air.
+
+Jessica flinched away as she saw just how many of them there were. "Holy shit, you really made a lot of those things. And that's all from your soul? That's all it takes? This is some bullshit. I know so many Golemancers across the Republic who'd piss blood out of envy if they knew about this."
+
+Shiv ignored her and pointed at five of his golems. "Freeze her mana, keep it frozen. But do not kill her." He jabbed at them using his own Psychomancy to define their exact duties so that there would be no confusion.
+
+The Vitae golems responded immediately. They clustered around the Hatchling like a swarm of bees overrunning a wasp. The golems wrapped their red-white hands around the Hatchling's spider-like wings. Rival Cryomancy Skills warred against one another. The golems unleashed Andra's Skill, spreading swaths of blackened frost. Everything they touched hardened. Yet the Hatchling wasn't done. It radiated bursts of time-stilling coldness, and Shiv expended even more of his Tides keeping it at bay. Despite all the Eldritch Skill Evolutions the Eldest had inflicted upon Uva, her overall Skills remained the same. She was someone that excelled in subverting her adversaries, in ambushing them asymmetrically, gathering information, and wearing them down.
+
+But the Hatchling didn't have space, time, or opportunity to exploit. Shiv, comparatively, was a juggernaut. He was at his best up close in wars of attrition or devastation. And right now, with it in his grasp, unable to move, constantly being clenched and squeezed by his surging vectors, it was clear which of them would be the victor.
+
+It struggled fruitlessly, lashing at him and his golems blindly, using its Psychomancy. Directing Aberrant Fractals out from the portals that lined its wings. Shiv was prepared to see a few cuts, but Jessica swatted the geometric monstrosities aside, sweeping them out of the world as Rusty devoured their forms. The sword let out a groan of disgust. Shiv found himself briefly worried for the blade, but he kept his focus on Uva. The sooner the blackened frost completely solidified around the Hatchling, the faster they could escape from here, the faster they could—
+
+It was then that Shiv noticed something. A single, solitary strand of Psychomancy, coiling out, stretching further, reaching. Reaching for one of the distant orcs some four hundred meters away.
+
+Now the Hatchling exploited Shiv's deficiencies and took advantage of his weakest Skills. This was a mistake in Awareness. Its tantrum earlier, its struggles, everything had been a diversion. It was planning to seize the mind of an orc—end the struggle and extract itself that way.
+
+A spear of Psychomancy extended from Shiv as he groped blindly for another golem. He would order his Vitae construct to freeze that single strand to make sure that the Hatchling couldn't break through a weaker orc's mind and dive into their body that way. But it was unnecessary, for something split the mana strand in half. It cut clean through, and the Hatchling let out a cry of pure pain. The kind of pain one expressed when suffering severe mana strain.
+
+Once more, Shiv found himself clueless. He didn't know why the mana strand was cut or who performed the act.
+
+He looked at the Culturist, but the orc simply held up a single finger, placing it before his lips before shushing. "All will be revealed when the master decides to reveal it."
+
+The orc was being deliberately cryptic, but Shiv didn't have time to banter.
+
+"No, no, won't. Can't let you take me. It's not, was not my fate. This is not the Path. How can this be? This won't, this won't!"
+
+The Hatchling raged, and it was a true rage, a genuine rage that made it spasm, that made it writhe in fury. He could see the blackened flames at its core fill, and he decided not to give it another chance to escape. He unleashed a plume of Enkindled Flames from his eyes, inflaming the Hatchling's already fraying concentration. Its wings spasmed and twitched and then went entirely still as a layer of midnight frost finally claimed its due. The golems ejected the last of their power, vanishing in faint puffs of white, red, and then nothing thereafter. But they were spent. And spent well.
+
+The Hatchling couldn't move. Uva's face was frozen solid, barely visible beneath the layer of pitch-black rime, and the Hatchling itself could only twitch its palps helplessly, unable to escape. Only after it was completely frozen did Shiv back away. He took in his handiwork and swallowed. He could see the portals for the first time, clearly. Saw instances of Uva writhing and struggling beneath those colors. It was like there were hundreds of her, drowning constantly, trapped with horrific creatures. He couldn't see them in full vivid detail due to the ice. But he could feel them; he could hear them screaming. She was trapped, and the damned Eldest had done this to her.
+
+"You piece of godsdamn shit," Shiv snarled. "I'm going to cut you out of her soul. I'm going to rip you in felling half, you fucking..."
+
+Whatever else he had to say was cut off as a massive droning sound made his skull fracture. It was so loud, so devastating, that it was like being hit by a mana bomb. Shiv was launched backward fifty meters before he stilled himself. Jessica tumbled by, growing in size as she resisted the attack. The Culturist, meanwhile, remained rooted in place. But now he had his arms folded. Bits of his owl-like attire were ripped and tattered, though it seemed to quickly mend itself.
+
+Shiv clutched the Hatchling's body close to his chest, and as the sound finally died down, looked up and let out a grunt of annoyance as he glared at the titanic abomination that was still approaching them. "Hey Stranger, I was in the middle of something. Can you piss off for a while until I finish dealing with this?"
+
+The Eldritch God said nothing, but the Deathless could feel the atmosphere grow even hotter with anger, with hatred. The Stranger despised him. Him specifically. Him more than everyone else here. And Shiv didn't really question why. He'd come in, ruined the Stranger's attempt to claim Uva as a meat sack to wear and to consume Blackedge. Probably steal Starhawk's Perch too or something. Pair that with Shiv's Causal Scargiver Skill, and practically every fingerling he ruined stayed ruined.
+
+And for that, Shiv got the reward of facing the Stranger's biggest, ugliest offspring. That clasped palms thing was drawing near, and Shiv felt his intestines climb up to his throat as he watched how it absorbed the unnatural jungle. Entire trees, each tall enough to pierce through the clouds back on earth, sank into its body, feeding it with more mass, more size. It grew larger with every passing second, sprouting new interlocked fingers. The twin palms pressing against each other left a gap between, a massive chasm that became three large irises glaring at Shiv.
+
+With every passing second, he felt a pressure building against him. A pressure that was followed by another burst of noise, deafening and concussive. The world rumbled, and the air broke apart. It was like an airburst mortar striking his body. But this time Shiv was prepared. His Tides counteracted the coming whirlwind, and he endured. He held firm just like the Culturist did. His Pillar of Orichalcum glowed ever brighter, but even so, it was a war against the unnatural aura emitted by the adversary.
+
+The damn thing was already larger than the Undying Tarrasque, and it was still growing. With every passing second, it developed more eyes in its core, and they sparkled into being like constellations. Golden sparks in a distant, undulating sky. But the fabric there made Shiv nauseous. Things tore, things ripped open, and brief glimpses of teeth glided over the eyes, bladed enamel flowing over the hateful orbs that stared at him.
+
+And true to what Jessica said earlier, he felt a pang of pain surge up the channel of his ass.
+
+Sage of the Enkindled Heart: Shiv, I know what you're thinking. You're imagining if you die enough, you might be able to bring that thing down.
+
+Gardener of Doubt: This is an unlikely thing. You will die horribly repeatedly and be reduced to a gibbering ruin over and over again. You will spend thousands of years here fighting that thing before you ever get strong enough to wound it even slightly.
+
+Despite this, Shiv still wanted to go a round.

@@ -1,0 +1,167 @@
+---
+id: ddd96387-febd-56ec-926d-9c3af0938c30
+page-type-slug: story-chapter-royal-road
+title: "Chapter 84: Cultivating"
+slug: 0084-chapter-84-cultivating
+partOf: phoenix-ascension-cultivation-litrpg
+position: 84
+ownLength: 1741
+unit: words
+publishedAt: 2026-02-04
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3013303/chapter-84-cultivating"
+royalRoadId: "3013303"
+---
+
+I left my clothes somewhere nearby and turned back into my original form. Having wings and talons again felt really good. I’d gotten tired of the human arms and legs, as well as the inability to fly.
+
+Taking to the skies, I headed straight toward my cave, where all my belongings were. Since that stupid guy went and turned himself into a demon that would die in a few hours, I had no choice but to start cultivating and get rid of the Demonic Qi in my body.
+
+Not that it was a bad thing, but I was expecting to do that process in a single go and break through into the Foundation Establishment as well.
+
+It was too bad, though, since that was a lengthy process. For the moment, I only had enough time to get rid of the Demonic Qi.
+
+At the very least, I would be able to use my Active Skills again without much issue.
+
+When I arrived at my cave, I checked that nothing had invaded it while I was gone. My divine sense didn’t detect anything, but I couldn’t fully trust it, so I flew around for a little while, using my actual eyes to check for any signs.
+
+After making sure that nothing was out of the ordinary, I entered and saw that the place where I’d hidden my cores and bag of holding was untouched. That was good, since I still didn’t know what System wanted me to do with the cores.
+
+But whatever it was, it should be important. Especially so since it never cheated me, and even though I caused a scene, the Appraisal function I got was really helpful.
+
+[Small Bag of Holding]
+
+[Ice Crow Golden Core]
+
+[Vermillion Bird Golden Core]
+
+Well, about as useful as me using my eyes, but in certain situations, like before, it was useful. Though anyone with high enough senses could detect that the one evil-looking guy in the crowd was a Demonic Cultivator.
+
+Anyway, that was besides the point.
+
+I sat down and took a deep breath, focusing on my dantian. It’d gotten crowded lately, with Yo Na’s child sleeping there alongside Mother, the little lightning dragon walking on the lake, and the Demonic Qi floating above.
+
+I was surprised I even had that much space, but I supposed they weren’t all material things. Only the child and Mother were taking actual physical space, so I bet I could stuff a few more things in there if I wanted to.
+
+But that wasn’t my goal today. It was finally time to get rid of the Demonic Qi that’s been pestering me for a while, then figure out what to do about the child.
+
+I started chanting the Ghost Qi Technique out loud, since it would have been a shame not to use its condensing feature to shove even more Qi into my dantian, and at the same time, internally chanted the Divine Lightning Construction technique to transform the acquired Qi into Lightning Qi.
+
+It was a weird and unconventional process, but it did the trick, and I would ditch the Ghost Qi Technique soon anyway.
+
+As my Qi stirred, so did the Demonic Qi. It wanted to take advantage of the temporary instability in my dantian while I absorbed Qi to attack, but with the Lightning Dragon, its chances were low.
+
+Even though I didn’t even cultivate the technique to its first layer, I could still fight against the Demonic Qi just fine; it was only a matter of time.
+
+My Qi Lake stirred as well, and the dragon took some of my Qi to make itself bigger and more dangerous, which I didn’t mind.
+
+And then, it began feasting. It attacked the cloud of Demonic Qi and took a large bite, then made a swallowing motion, as if it’d actually eaten it before it got refined and absorbed into the lake.
+
+It wasn’t a complicated process, and with the lightning at my beck and call, there wasn’t any danger anymore. All I had to do was refine the absorbed Qi using the Ghost Qi Technique and let the dragon do its thing.
+
+However, since Shu Wao Tu only had a few hours left, I had to hurry the process along. Following the technique’s teaching, I weaved a few hand… wing signs and duplicated the dragon until I had about five of them.
+
+That was the maximum amount of dragons I could create with my current understanding of the technique, and I was pleasantly surprised to see that I’d gotten some notifications.
+
+[Lightning Affinity Acquired]
+
+[Achievement: Three of Many! Unlocked.]
+
+[Skill: Lightning Dragon(Novice) has been acquired.]
+
+I couldn’t say I was expecting those, and I was only questioning why it took me so long to unlock them.
+
+Either way, I wasn’t complaining.
+
+With five dragons attacking the cloud of Demonic Qi, it only took a little over an hour for the entire thing to get completely absorbed by me. During that time, I also condensed any overflowing Qi into the lake, and its surface started to look like a block of ice. It’d gotten to the point where even I was feeling cold, despite my constitution, and when I spread my wings I could see that the ghositifcation had spread. I could control that, to some extent, but it was really hard to hide how transparent and glowy they were.
+
+When the dragons finished attacking the last bit of Demonic Qi, a wave of relief washed over me, and I would have sighed if something unexpected hadn’t happened.
+
+The Yin Qi from the lake began overflowing and seeping into Mother’s egg, which made me panic.
+
+I quickly used every technique I could think of to stop it from engulfing the egg, and it worked to some extent, but I had to keep chanting in order to hold it back. The quickest solution to that problem would be expelling the extra Qi, which I would have done in a heartbeat if something even crazier hadn’t happened.
+
+The forehead of Yo Na’s child glowed with a faint light, and the excess Yin Qi rushed toward it while disappearing inside his body. That shocked me, but I didn’t consider it an issue since it seemed very deliberate.
+
+However, I could not have prepared for not one, but two of my dragons to get dragged toward his forehead as well, disappearing into nothingness.
+
+The little thing yawned and licked its lips before turning the other way.
+
+Aren’t you supposed to be asleep? Just who the hell is your father, kid?
+
+I didn’t mind him absorbing some of my dragons if it meant that he could keep the Yin Qi at bay. I seriously needed to figure out a way to use it without wasting it. Aside from that, though, there were no further complications.
+
+After the cultivation session finished, I slowly opened my eyes, and the world became that little bit clearer.
+
+[Divine Lightning Construction Technique integrated with the host successfully.]
+
+[Due to completing the first layer of the Divine Lightning Construction Technique, you have obtained the following:]
+
+[Foot techniques; Sword techniques]
+
+[+2 Strength; +10 Perception; +300 Qi]
+
+[The Qi has been halved due to an unknown factor.]
+
+I didn’t have to guess what that unknown factor was, but I decided that absorbing some of my Qi was better than having to throw it away.
+
+I did a quick check of my stats and noticed that both my Strength and Perception were equal, which was a little funny.
+
+Stats
+
+[Strength: 358]
+
+[Dexterity: 315]
+
+[Perception: 358]
+
+[Charisma: 277]
+
+[Intelligence: 320]
+
+[Skill Points: 15]
+
+They were also my two highest stats, and I was eager to test out just how strong I was. I could also immediately see a drastic improvement in my senses. The textures of the rocksweres just that tiny bit clearer, and I could see farther away through the opening of the cave.
+
+The quality of the air around me was also easier to gauge, as was the amount of Qi and its quality.
+
+All in all, there seemed to be a qualitative increase in all of my senses thanks to perception. I hadn’t noticed if the case was similar for strength, but if I had to guess, there were some thresholds that drastically improved the potency of the stat.
+
+However, the one thing I really cared about was the fact that I could now circulate Qi freely within my body, without the risk of the Demonic Qi attacking me. Which meant that I could once again use all my Active Skills, and the most important one…
+
+“Nirvanic Flames.”
+
+A flame appeared in front of me, so warm and so beautiful that I almost teared up just by looking at it. My old friend, the flame that followed me through lifetimes, the flame that I acquired after a lot of hardship, the flame integrated with my soul and my very being.
+
+The Flame of Nirvana.
+
+It flickered in front of me as if it missed me as well, and I would hug it if I could. It was unfortunate that it wasn’t a physical flame, but its warmth reachedme regardless. I missed it dearly.
+
+After that, I tested my other Active Skills, like Side Step, Dragon Flames, Myriad Qi Needle, and finally, the lesser version of Stealth and Shadow Cloak.
+
+However, something strange happened when I activated Stealth.
+
+It ranked up.
+
+[Skill: Stealth[Lesser](../../../../phoenix-ascension-cultivation-litrpg/royal-road/phoenix-ascension-cultivation-litrpg/chapters/Master) has evolved to Stealth(Novice)]
+
+[Skill: Stealth(Novice) has ranked up Stealth(Beginner)]
+
+[Skill: Stealth(Beginner) has ranked  up to Stealth(Interemdiate)]
+
+[Achievement: First time’s special. Acquired]
+
+[Achievement: Who’s that skill? Acquired]
+
+[Achievement: Three of a kind! Acquired]
+
+What the fuck just happened?
+
+I immediately went on full alert, ignoring the notifications, and looked around me, but saw nothing. However, that couldn’t be possible. Stealth wouldn’t rank up and evolve all by itself just because I activated it.
+
+I immediately spread out my divine sense, and while I didn’t discover anything initially, after focusing on certain parts of the cave, I discovered that someone was hiding in the darkness. Their stealth skill was even better than mine, or my perception was too low.
+
+However, it seemed that the combination of Shadow Cloak and Stealth made me invisible to their eyes as well, hence the rapid advancement.
+
+“Ah, looks like I’ve been found.” A voice echoed from the corner that I was staring at, and a person slowly materialised as they walked forward.
+
+“So this is where my children died.”

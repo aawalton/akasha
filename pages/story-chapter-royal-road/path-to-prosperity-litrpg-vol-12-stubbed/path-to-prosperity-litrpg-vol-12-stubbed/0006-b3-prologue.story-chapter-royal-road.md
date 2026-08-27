@@ -1,0 +1,43 @@
+---
+id: e38fbcca-4ed0-56ea-ac18-0bd0936ba89e
+page-type-slug: story-chapter-royal-road
+title: "B3 Prologue"
+slug: 0006-b3-prologue
+partOf: path-to-prosperity-litrpg-vol-12-stubbed
+position: 6
+ownLength: 379
+unit: words
+ownProgress: 379
+publishedAt: 2024-11-01
+link: "https://www.royalroad.com/fiction/89323/path-to-prosperity-litrpg-vol-12-stubbed/chapter/1878719/b3-prologue"
+royalRoadId: "1878719"
+markedReadAt: "2026-06-29T21:36:29.176Z"
+---
+
+The fabric of the Seven Hells tremored violently. Lava lakes and magma seas erupted in euphoria while the demons trembled violently in fear.
+
+The shadows of the past swirled around a massive obsidian throne in the center of a dark, gloomy palace that grew from the ground one day. It occupied an entire mountain and swallowed everything in its path as it grew tirelessly.
+
+“Soon… Soon, I will be ready,” An icy voice filled the throne hall, devouring the heat in the room. The temperature dropped instantly, creating a cacophony of cracking noises as the searing hot mana in the air was altered at once.
+
+The shadows swirling around the obsidian throne changed. They shifted, gathered, and compressed until the frame of a tall creature was unraveled. The creature’s body fluctuated wildly, but it occupied the throne’s entire space.
+
+Its eyes were red, almost crimson, and glowed dangerously as it looked at the Demons entering the palace like mindless puppets. The creature’s pitch-black skin stretched with every move and exuded black mist as its shape destabilized with every move, but it smiled nonetheless.
+
+“Feed me your sin!” The creature thundered, a wave of demonic energy filling the air. The mindless demons were flung through the air and pulled toward the massive creature. They regained consciousness and started trembling and screaming at the top of their lungs, but the creature wasn’t having any of this.
+
+Black mist burst out from all over his body. It shot toward the screaming demons and entered their bodies, which were sucked dry until all that was left of the demons was a husk of their former self.
+
+The demons, drained until only their bones and skin were left, were thrown aside and replaced by other victims.
+
+“It’s not enough,” The creature growled in displeasure, “I need more!”
+
+No. What the creature needed wasn’t more of the same food. It needed better food. More nutritious food.
+
+It had to feed on the greatest sinners. The most glutonous creatures it discovered in the thousands of years it had lived.
+
+It had to feed on humans to regain its full power as the ruler of one of the seven hells!
+
+“Release the beasts!” The Devil thundered to a creature hiding within the shadows,
+
+“Our time has come!”

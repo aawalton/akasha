@@ -1,0 +1,241 @@
+---
+id: bd67508b-79fe-56fa-bccc-01afc37bca6f
+page-type-slug: story-chapter-royal-road
+title: "309 To Break a Curse [VI]"
+slug: 0406-309-to-break-a-curse-vi-3130845
+partOf: path-of-the-deathless-book-4-completed
+position: 406
+ownLength: 4894
+unit: words
+publishedAt: 2026-03-08
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3130845/309-to-break-a-curse-vi"
+royalRoadId: "3130845"
+---
+
+There are some problems you are not ready to face. There are some adversaries you are not ready to fight. There are some questions you do not know enough to answer. It is a mark of wisdom and a Pathbearer who will continue to survive through the ardors and miseries of life to recognize this and adjust accordingly.
+
+Though one can find enjoyment and even actualization in throwing themselves against seemingly unconquerable problems, it does not always result in proper gains. Beyond the risk of death, there is also stagnation. Strain is an important aspect of gaining levels. But novelty and difficulty weigh heavily in that equation as well. You will gain a rainfall of reward initially, but soon things will trickle to a near halt. Because you are wrestling with your own ineptitude instead of your active deficiencies.
+
+Realize the levels you gain are steps to a final summit. You must achieve triumph to earn that eventual windfall. Failing to meet that point means that you are doing something wrong, or something wrong is being done to you. So you must change your approach. Or you must understand that this is a matter which requires patience. Certain tasks in trials are not things that last days or even weeks, but expand to months, years, or even centuries, depending on the grandness of their scale.
+
+In saying this, I'm not telling you to surrender and stop, but rather let yourself recover. Recovery, in general, is something that too many Pathbearers let fall by the wayside. You must recover. Until you are fully restored and ready to make a proper new attempt, you are simply whittling yourself down to the bone, and bone does not get stronger. Bone hardens, and it is muscles that strengthen. Only in concert and after concentrated conditioning with one's mind-body connection will you even begin to gain the meagerest increases in strength.
+
+Ultimately, do not let your determination betray your adaptability. You will need to apply both correctly and in the exact right situations if you want to thrive.
+
+—Valor Thann
+
+309
+
+To Break a Curse [VI]
+
+Inertial Overdrive 228 > 267
+
+Pillar of Orichalcum 299 > 352
+
+The Creeping Void 148 > 170
+
+Leviathan of the Shapeless Tides 510 > 512
+
+Phase Frame 53 > 88
+
+Whip Proficiency 29 > 43
+
+This Severed Shadow of Blood and Bladed Soul 169 > 182
+
+Non-Sequitur 139 > 166
+
+Return to Sender 110 > 144
+
+Eldritch Physiology 21 > 51
+
+968 times.
+
+17 hours.
+
+855 combat-based deaths.
+
+100 cognitive collapses followed by summary euthanasia at Valor’s hands.
+
+Thirteen entrapments in an unstable time loop.
+
+One very, very frustrated Deathless.
+
+In the end, the closest Shiv came to finding Merrielmel's brother and that mysterious cavern which emitted anti-System radiation was during his first attempt. From the second onwards, the Stranger's garden changed. Rather than being a wide-open expanse of twisted branches and colossal trees, it shredded apart, resembling more a briar patch with interconnected nettles, spawn points for lesser Fingerlings, and active camouflage for the Supplicant.
+
+Being ambushed by the kilometers-wide monstrosity was quite the experience. All it took was a single mistake for Shiv to die, and he made hundreds of “single mistakes” in a row.
+
+At first, he focused on speed, trying to accelerate through the Stranger's dimension before any of the Fingerlings could intercept him. He died like a mosquito flying into an Aeromantic shock trap. The moment he entered the Garden, the Stranger noticed him. His mana signature was too unique, and he had no ability to hide it. The dimension promptly shifted around him, with the environment proving as great an adversary as any of the Fingerlings. It rapidly began to shuttle his destination around, and soon, Shiv found it far beyond reach. Far enough that even at his constantly climbing velocity, it was going to be more of an expedition than a mad dash.
+
+The presence of the Supplicant, even if it was clearly weakened from whatever Valor and the Educator had done to it, made any attempts at an expedition impossible. Every time it struck Shiv, he disintegrated outright, no matter how much he enhanced his Pillar of Orichalcum. During his twelfth attempt, he managed a Phase Frame, dodging the initial attack. However, his skill didn't remain active for long enough to spare him from another death. He re-materialized while still inside the Supplicant, and with that, he was assimilated. Every bit of his body was dragged into the flesh of the overwhelming Fingerling. Shiv's cutting aura opened a slight gash within it and nothing more. The sheer amount of density infused within the monstrosity was too much for him to hew through its tissues.
+
+Obliteration followed.
+
+And though the Supplicant was already a calamity in the flesh, its magical power was a whole realm above. It cast a shadow upon the world, and the way it pulled at time was the same way mass worked with gravity. The fabric of existence folded and tore, drawn toward the Supplicant as it flexed its power. Time burned around it like the corona of a hateful sun. Its Chronomancy field was so wide that if it were to appear on Integrated Earth, even the entirety of Lost Angeles would be little more than a dot inside it.
+
+His corresponding field was like an eggshell compared to the Supplicant's. When the Supplicant struck, it broke. Then the burden was laid upon his Shapeless Tides.
+
+His Legendary skill allowed him to swim and struggle against a maelstrom for a while. The first time, he managed to survive two minutes against the tides of wrenching retro-continuity, and that was only possible because he had been amassing overflow tides in preparation for the struggle. But the dedication of his Bifurcated Processing meant he couldn't trigger his Eldritch Physiology skill prematurely. The moment his Shapeless Tides faltered, he died, torn asunder in an instant.
+
+He tried dodging. He tried increasing his Toughness at the same time. He even tried going out of context, but he performed the act too late. Shiv's sundering was instantaneous and complete. Clawed hands shaped from tarnished gold drew pieces of Shiv away. The pain was dissonant. He didn't truly feel the hurt during his disassembly, only after. He came apart more like unscrewed components, his arms and legs plucked off and drawn somewhere else.
+
+Before he died, he saw them reappear where he was a few seconds ago, the path of his chronology scattered with bits extracted from his body.
+
+Shiv did his best to avoid the Supplicant in his subsequent raids. This was how he discovered its mastery over his chronology was on another level. Masking his position using his Creeping Void and skipping from place to place with Non-Sequitur, he managed to slip back into the Stranger's Garden. From there, he encountered two separate issues: the Divination matrix Merrielmel had given him to track his brother was going wild. The violet mana painted a chaotic path, twisting and bending, unable to settle on a stable route. The Stranger was constantly shuffling the geography of his dimension. That effectively made every raid different. Shiv couldn't just leave a temporal echo and blink back in place before crossing into the cavern.
+
+The second problem brought Shiv back to the Supplicant. The moment he returned to context, it struck. And it didn't even need direct contact to finish him. When the Supplicant's Chronomancy field overlapped with the place Shiv had been, it could snatch him across time and space.
+
+Death followed.
+
+He exploited his Non-Sequitur skill to its fullest extent in the following raids. Though it helped with his survivability, allowing him to travel unmolested by the Supplicant and undetected by the Stranger, the entire dimension remained on high alert. The Divination matrix also didn't work when Shiv was out of context. Something about how he could submerge himself beneath the flesh of existence caused the mechanism’s mana to flare and spasm uncontrollably before imploding. That made finding Merrielmel's brother all but impossible. On top of that, the dense Eldritch Thicket hid the Supplicant's exact position, so Shiv couldn't even try to do something with the oversized bastard.
+
+His greatest attempt came three seconds short of a minute. Incensed by boldness and frustration, Shiv switched tactics. He brought his Severed Shadow to bear in place of his physical body. As soon as he crossed over into the Outside, the Stranger roared his name again. Shiv had no idea how he detected him. Maybe he could sense his vitality. Maybe his Vitae signature was simply that aberrant. Either way, he couldn’t slip through the Garden unnoticed, not even as a revenant. The sheer weight of the Eldritch God's anger was enough to alchemize Shiv's impatience into caution. His Severed Shadow's knife-shaped hand cleaved a path in space and swapped places with his physical body.
+
+He died again.
+
+But meat was expendable.
+
+A soul was far harder to replace.
+
+"You're still at this?" Adam asked. He landed atop the Court Leviathan and sat down next to Shiv, who was on his back, staring up at the death-soaked sky of the Tutorial. With the storm gone, a tapestry of crimson rashes stretched out above them, flames flashing behind a blanket of ominous and sickly clouds.
+
+"Still at it," Shiv grunted in response. "Came close the first time, ate shit all the others. Turned my attention to killing the Fingerlings now. I go through all the little ones like butter. Well, littler. Killing a Pinkie is like stepping on a bug. I can't count all the Recollectors I've cut apart by now. They're just a blur of severed floating fingers in my mind. The Indexes take a bit more effort. When I'm trying to saw through their mana fields, that is. They're pretty shit at fighting once you get up close."
+
+"I'll have to take your word for that. I think I'll stick to my usual strategy of killing my enemies from over the horizon." Despite the sarcasm, Shiv detected a hint of envy in Adam's voice. "So, what are you stuck on? Is it the dimension itself? Are you getting lost?"
+
+"No, it's not that. Well, not entirely. It's complicated. The main problem is that there's just one big Fingerling, a thing that seems to be two hands steepled together. Felling piece of shit’s bigger than Sullain's Tarrasque. Unreasonably fast too. Might be one of the fastest things I've fought. It's a weird kind of fast too. It's not like it's moving; it's like the world is folding around it. Everything is wrong when it comes to the Outsiders. Up is down, and left is right. If it hits me dead on, it kills me. Maybe I could take a hit if I spent an entire day building up my Toughness, but I think that might just burn out my Bifurcated Processing. The worst thing about it isn't its strength, though. The worst thing is how it can kill me by reaching into my past. If it comes across somewhere I've been, it can just pull me back along that track and rip me apart using its Chronomancy—and its fucking field is way wider than all of Lost Angeles."
+
+Adam hummed. "So why don't you try to avoid it?"
+
+"I can't even tell where it is. The Stranger's place turned into a dense nest of brambles and other shit, and now I can't see through it. Everything has a bit of organic stuff, so using my Atlas just gives me a headache because the entire world lights up."
+
+"Can you try tracking its vitality? If it's that powerful, it must feel like a small sun near you."
+
+"I have to use my Severed Shadow for that,” Shiv replied. “My physical body can't really sense vitality anymore. Hells, I can barely use my Vitaemancy unless I'm holding a knife. I managed to nick the Supplicant a few times, but it feels like I'm just breaking skin. Its mana is so dense that it's like trying to drive a knife through a brick wall. At least I'm still hurting the damn thing. Then there's the Stranger himself. His mana is even worse. Not even scratching that one."
+
+"Stealth? Evasion?"
+
+"Tried both. The former, well… My Revenant form gets detected immediately. The Stranger can sense me. Non-Sequitur brings its own problems: When I use that skill, the divination matrix breaks. It doesn't stop working for a moment; it completely breaks. I think it's something to do with my Vitae. Might be driving the System insane and giving the device the full hit of that madness. And if I don't have the Divination matrix…"
+
+"You can't track Merrielmel’s brother,” Adam concluded. “Yes, I do see how that's quite a pain."
+
+"His brother is also inside a cave of some kind. That cave is now being shuffled about the Stranger's Garden. On top of that, it's giving off radiation—same kind of radiation we suffered walking into the old city. It's an area dead to the System."
+
+"Really?” Adam asked, frowning. “But how? Why would the Stranger allow such a place to exist within his realm?"
+
+Shiv shrugged. "He might not know it's there. He might be hiding something inside. Or there's some other bullshit going on. Maybe Merrielmel's brother installed it. The good thing here is that he might still be alive. Might. If you asked me a day ago, I would have told you he was likely somewhere south of dead. Now I'm not so sure anymore. I spoke with the Enchanter earlier. Apparently, he has no idea either. He doubts his brother created that cave—says he has no idea what kind of radiation suppresses the System. Up until I told him, he didn't even think it was an actual thing. Gardener of Doubt told me he was being honest, so it's probably something else. He's also trying to rebuild his Divination matrix so it can work with my Vitae."
+
+"And how's that going?" Adam asked.
+
+"He ran out of matrices. That’s mainly why I stopped."
+
+"Not because you died, what, a few hundred times?"
+
+Shiv looked up and pretended to count on his fingers for a few moments. "I think I'm a few tries short of a thousand."
+
+"A thousand deaths, a thousand—Shiv. It hasn't been that long. Have you just been throwing yourself at the Outside over and over again?"
+
+"Yup, and before you ask how many levels I got, a whole bunch early on, but it pretty much tapered off later. I got ten or so levels for most of my martial skills across my first five raids. I got around ten again for the next fifty, then things started slowing after that, even though I kept dying. Took maybe three hundred more before I got another ten, and then I found myself back in the single digits. The struggle's still high, but the uniqueness is gone, and I'm not really making that much progress."
+
+Somehow, he felt Adam's smile before the Gate Lord even laughed. "Oh, finally. You can be a person as well! I didn't think you had it in you. I thought I was never gonna see the day, with how you're the System's golden child."
+
+Shiv flopped onto his side to better look at Adam. "The hells are you talking about?"
+
+"You're bottlenecked, Shiv. You're experiencing a bottleneck. You're exerting a lot of effort, but you're not growing because you can't go that little bit beyond or that massive bit beyond. Now, rather than conditioning or strengthening yourself through intense struggle, you're just eroding your body and mind."
+
+Shiv sat up and looked his friend dead in the eye. "I'm not getting eroded. I'm not tired. I'm going to keep going as soon as Merrielmel's ready. And I'll keep going again, and again, and again, and again, and again, until the Stranger's will breaks. Until every cut I make on him finally gets deep enough that I'm digging through flesh, and then I start chipping away at bone. Until finally, I begin carving away his soul. It might not happen today. It might not happen tomorrow. It might not happen for a hundred days or a hundred years, but someday I'll castrate his very soul. After that, I think I'll feel good for a while, maybe cook something nice. Then it'll be on to my next challenge."
+
+Adam rolled his eyes. "Your willingness to suffer unspeakable amounts of anguish and misery for personal return does not answer the question of whether this is a practical way of doing things. You can continue throwing yourself at the Outside while you have spare time. But with Merrielmel indisposed, why not take a break? To deal with some other problems. You're still planning to go back to the academy, aren't you? And you told me earlier you wanted to pay the Fairwoods a visit. We have a Bread-Knight to return, don't we? And you have a Curse you want to resolve, right?"
+
+With every subsequent question, Shiv felt his resolve softening a bit. He did have a great many things to do. And ultimately, the Outside wasn't going anywhere. If Merrielmel's brother was in that cave, living or dead, then he was likely preserved. "I guess I kind of got a little bit obsessed over this whole Outside thing," he muttered.
+
+"Tunnel vision is a common habit to develop when one runs into a significant impediment. You're not special in this regard, either. Where you might differ is the fact that you aren't disheartened at all, and you simply want to keep fighting. You might be able to fight for the rest of time. But it's just not a good use of your time. Or anyone else's."
+
+"Yeah, you're probably right." Shiv nodded, and then he jumped to his feet. "Alright, I think it's time for me to get some of my shit in order. I'm gonna go talk to Toasty, then maybe resurrect a few additional bodies to send into the capital and the Fairwoods."
+
+"Didn't you say that you couldn't control more than two bodies? That even three was a sensory overload that was too high a burden on your mind?"
+
+"Yeah, but Uva figured out how to control multiple bodies at once."
+
+"What? How?" Adam squinted as he tried to read the expression on Shiv's face. "Okay, never mind. I don't want to know anymore."
+
+Shiv sneered. "I wasn’t going to tell you anyway."
+
+Though silence came thereafter, it was awkward rather than blessed.
+
+"I'm going to get back to handling matters at my Gate now," Adam declared.
+
+"I'm gonna have a talk with Toasty and see if I can wring out an extra reward for delivering his ass back to the Summer Court. Should probably ask Uva if she wants to help me with that. Actually, you got any idea where she is?"
+
+Adam hooked a thumb over his shoulder, in the direction of the currently dormant gateway connected to Piety. "She's back in the Gate, speaking with her Sisters or being harassed by Hymn. They talked a bit about her developing an Eldritch Physiology skill. From what I overheard, she didn't give him an exact yes, but… Let's just say that your new capabilities and her desire not to be left behind are likely going to push her to develop the same skill under Hymn. And though he is a loathsome degenerate—"
+
+"On the surface," Shiv replied. "Maybe a bit on the inside as well. But most of that's just an act. I think he might be the most powerful Pathbearer in the Gate."
+
+Adam frowned. "He’s wary of Valor."
+
+"Everyone is. Shit, the only person who managed to notice Valor—even in his passive state—was your father. Hymn’s playing his own game. He might be associated with the Neath, but he also knows Veronica. He knows enough about Udraal, has contacts in the Abyss, has history with the Culturist, and he's a godsdamned Seeker.”
+
+Shiv huffed. “If you ask me, everything he does is to keep us off balance and unsuspecting. And that's my main issue with him. I've no idea what he actually wants or what he's really playing at besides trying to bring down the Stranger. If he claimed to be the wisest or most experienced Seeker, I'd trust him about that. If he claimed that he could teach Uva how to master and use her new eldritch skills better than anyone else, I think I'd still believe him. But ultimately, that doesn't matter because I don't believe he has our best interests in mind. And so we have to keep an eye on him—but we also can’t waste him. Because the felling shit’s actually been pretty useful so far."
+
+Adam didn't seem entirely convinced by Shiv's suspicion. "I don't disagree, Shiv, but you can say the same thing about the Culturist and most other High-Tier Pathbearers we associate with. Hells, you're being mentored by Jessica Bloody Hawgrave, who is still itching to murder my father. The Educator has sulked off somewhere, and she's overtly working with Udraal. By this point, we're not just keeping our enemies closer; it's hard to tell who our actual enemies are anymore."
+
+"Depending on the situation, anybody,” Shiv grunted. “Other times it might be everybody. But with our situation changing all the time, it’s hard to tell."
+
+"We're using everyone, and everyone's using us."
+
+"Something like that. Anyway, I'm going to do what you suggested and get everything set up with Uva’s help. A little more balance might be exactly what I need. I don't think I'll be getting that balance unless I can start cooking using my own two hands again." Shiv exhaled and centered himself. "We have time now. I don't need to rush through this fight anymore." His lip twitched, and then it turned into a broad smile. Not only did he have time, but he could also choose to avoid being goaded by the System.
+
+Shiv dragged himself up into the air using his Shapeless Tides. He bounced in place as if he were hanging from an invisible string and slowly drifted toward the gateway. They would need to find Merrielmel first, and have the mana frequency tuned back to Gate Piety, but after that, Integration was their oyster. So long as they knew the mana frequency to another gateway or found a place of mana instability in another dimension, they could bridge the gap. And that got Shiv thinking about even more possibilities.
+
+"Hey Adam, about your Gate Quest, I'm assuming you don't just want to fill those numbers with my orcs?"
+
+An expression of pure disgust spread across Adam's face. "What impressive insight you possess, oh Deathless. No, I absolutely don't want the citizenry of my sanctuary to consist of psychotic monsters."
+
+"They have the numbers," Shiv noted.
+
+"I don't want their numbers. They're liable to eat the rest of the people inside my Gate. Who bloody knows what kind of twisted skills they'll give us?” Adam shuddered. “Do you know what Second-Person Perspective does, Shiv? It lets me leer at people over their shoulder. Or from the front. Even the sides. I think the only reason I got that skill is that too many people came in at once, and I was trying to keep track of all of them. And being the funny, clever bastard that it is, the System decided to gift me something that was perfectly invasive of everybody's privacy. If my Gate's filled with nothing but orcs, I'll get something like Amplified Exsanguination."
+
+Shiv blinked. "That sounds awesome, actually. Is that an actual skill?"
+
+"Of course you would bloody think that. And no, it's not a skill, it's a Biomancy spell. One of the few I know and suffered before. It makes any injury you have worsen dramatically."
+
+"I should learn that." Shiv shook his head as he got back on topic. "Anyway, I agree with you about the orcs. You don't want them to be our citizens because, well, like what you said before, they'll torture, kill, and eat everyone just to piss me off. But what we can do now that we have a Slipgate—and we can access practically any other gateway in Integration—is recruitment."
+
+"Recruitment?" Adam echoed, squinting.
+
+"Yeah, recruitment. There are a lot of people who need help. There are a lot of people in bad shape. Probably towns and cities falling all over the place. Not to mention all the slaves the First Blood and Compact are keeping. I think it'd be fun for me to raid them, and it'd be good for the Gate and you to take all those people in."
+
+Adam's eyes fell as he considered Shiv's suggestions. "That's not a bad idea, but we're going to have to do this strategically. We're going to find experts and reliable people first. Though freeing slaves is an ethical and rewarding thing to do, most often slaves don't exactly have the right skills to make a Gate prosperous, and the logistical load we'll be taking on will spike significantly as well. Consider how much you needed to eat, sleep, drink, and rest before you had a Path."
+
+A faint pulse of horror swept through Shiv. "Oh, shit, you're right. So maybe we change our approach a bit. We find mercenary companies or towns trying to fight off invasions or something. We do it like Blackedge, we save them in their time of need and have them settle here. I’ll probably go see some Lone Star mercs before they leave, cause I think we need some people who are good at handling the orcs."
+
+Adam smiled. "I like that idea. If you're going to talk to them, I'll come with you. Since we're hosting the grayskins here, it would also be wise to get an advisor, or at least some military presence from Lone Star within our Gate. Maybe even a consulate down the line. Still dangerous for treating the conditions of a cold war within this Gate. But since we already have enemies placed beside enemies here, we can serve as the fulcrum between them and keep the peace."
+
+"Alright, sounds like a plan. Get some of that handled. After the excursion into the Fairwoods, I'll also get back to school. Classes should start up again by the time I'm done with that. Besides that, I think there’s more than one way to break the Curse, and if I can, I’m going after all of them. One’s gotta eventually work, and even if I can’t find an indirect solution…" Shiv developed a feral smile.
+
+"Shiv, I know that expression on your face. And I don't like it. What are you planning? You know what? I don't even know if I want to hear this."
+
+"I've got expendable bodies now, Adam. You want to know what that means? That means one thing I can do now is throw myself at Maiden and the Ascendants over and over again, if only out of spite."
+
+Adam's left eye began to twitch. "Are you serious?"
+
+"Hells yeah, I’m serious!" Shiv barked a laugh. "Actually, you've inspired me, Adam. I've been throwing myself at the brick wall that is the Outside that I didn't realize I could do the same thing to the Ascendants and especially the Inquisition. You know what? Here's my new plan—"
+
+"I don't like this new plan, Shiv."
+
+"Huh? You haven't even heard it yet. Anyway, first I'm gonna try to fix the Curse by going to the Fairwoods and making a deal with a fairy. We're gonna turn in Toasty anyway because we don't want him around. Then, if that doesn't work out easily or I get stuck any time, I'm going to move on to helping Irons with that investigation of his."
+
+"Shiv…" Adam moaned.
+
+"Don't worry, I'm not going to smash up the capital. I'm just going to ambush some of those Inquisitors and go take a closer look at the orphanages. If I lose the physical body, I lose the physical body. No big loss. And someone's got to know something, right? So I'm just going to start capturing the impostors and taking them places so I can interrogate them. Actually, I can even play dead and see where they bring me. Have them cut my head off, and then they'll just stay there headless. Yeah, the possibilities are endless!"
+
+Shiv began bellowing with glorious laughter, while across from him, Adam wilted like a flower that could inspire a deranged poet.
+
+"You got great ideas, Adam. Great ideas!"
+
+"I'm so sorry, everyone. I'm so, so sorry," Adam whispered.
+
+Within Shiv, the darkness of his bottleneck lifted, and new possibilities dawned in the glowing horizon. It wasn't that he wasn't determined enough. It was that he wasn't determined enough in the right direction. He would have the rest of time to throw himself endlessly at the Outside. But for now, there were people that he could hurt reliably, adversaries he could break. An Ascendant he needed to bully. An Inquisition he wanted to ruin.
+
+A Curse he was going to lift. One way or another.
+
+If he had wanted to get happy living, it might cost a good few lives. But he had a feeling that he would enjoy dying more than some of his enemies would enjoy killing him.

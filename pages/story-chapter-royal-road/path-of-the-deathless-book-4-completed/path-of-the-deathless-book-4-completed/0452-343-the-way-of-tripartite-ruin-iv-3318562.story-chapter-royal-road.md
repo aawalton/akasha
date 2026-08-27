@@ -1,0 +1,253 @@
+---
+id: 54c83803-7d14-5025-973c-282f87c4baf9
+page-type-slug: story-chapter-royal-road
+title: "343 The Way of Tripartite Ruin [IV]"
+slug: 0452-343-the-way-of-tripartite-ruin-iv-3318562
+partOf: path-of-the-deathless-book-4-completed
+position: 452
+ownLength: 4978
+unit: words
+publishedAt: 2026-04-25
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3318562/343-the-way-of-tripartite-ruin-iv"
+royalRoadId: "3318562"
+---
+
+And though we are born in disparate pieces to our true self, we live under the heel and in the embrace and upon the palm of time. Time is the foundation of all things. Without time, there is not. There is no relativity, there is no path to stride: no past to look upon, no future to expect and arrive at.
+
+And so I tell you now, time is the foundation, for without stable ground to bear the immensity of your tripartite whole, you will find yourself rootless, weightless, adrift without anchoring purpose.
+
+“Time and.”
+
+The words never finished. Effort? Enlightenment? Understanding? Truth? Love? Sorrow? Grief? Death?
+
+Time and what? Many of my disciples ask me this question of why I said "time" and nothing further. I asked myself the same thing years ago, moments before the forging of my soul.
+
+“Time and.”
+
+“Time and.”
+
+There is no following word. Everything can be the answer, but time is the cauldron within which you boil.
+
+Time is the path. Time is the fire. Time is the penultimate cocoon to your metamorphosis, for the louts who waste time will find themselves charred and disfigured, while the ones who seek to hone their perfect will themselves forged anew.
+
+Time and time alone will see you become.
+
+And so, as Pathbearers, how can we not become avatars to time?
+
+—Legend-Philosopher Melaia Kelhaus
+
+343
+
+The Way of Tripartite Ruin [IV]
+
+Neither Sage nor Shiv experienced any more moments of pre-fusion synchronicity, but that feeling of quaking condensation within his soul was unmistakable. The sensation was uncanny, as was the situation at hand. No other skill fusion ever announced itself to Shiv before the fact, but a chain of narrative magnetism formed between Sage and other skills within Shiv.
+
+Something about the skill felt like it was inevitable—fated to arrive. Shiv wasn’t sure it was the System’s doing this time, not with how right it felt. He understood why Sage spoke of wholeness; there was a building presence of completion. But so distracted was he by that forthcoming Skill Fusion that an already ongoing Skill Evolution had gone unnoticed.
+
+Until now.
+
+Skill Evolution: Bifurcated Processing (Adept) > Legion of Self (Master)
+
+Legion of Self (Master) 102
+
+A sensation of liquid lightning began to course through Shiv's mind. His thoughts grew clearer, faster, smoother. There were no more interruptions between one thought and another. Everything was connected. Everything flowed in parallel. Perfect synchronicity.
+
+The girl said something, but her voice became muffled, sounding like she was underwater. Suddenly, an electrical lane formed before Shiv. It was a tunnel shaped to fit the contours of his body and his body alone. Its walls were lined by the faintest mind-static, and he realized he could pull and push on the tunnel to reel it in or cast it out. As he progressed down that electric pathway, his person split. The future snapped toward him, second by second, but by his sides were ghosts born of his evolved synapses. Coiling strands of neuro-electricity connected Shiv to his other selves. He looked to his left and right, and he saw them. They were as a legion, an entire battle line born from his image.
+
+Each one was a crackling ghost, fissures of lightning painting the details across their bodies. As Shiv looked upon them, so too did they return his gaze. And when their eyes met, he felt something wrench at his mind.
+
+“Okay, this is something else,” Shiv breathed. He spoke those words first, but an overwhelming feeling of déjà vu took hold of him as his memories echoed. He heard himself repeat the same line over and over again, and he saw his synaptic ghosts mutter the same phrase. However, his mind didn't feel like a hydra. He didn't split along several different paths of consciousness. He couldn't do what Uva did. She was stacked, many instances of her working in tandem. Shiv still felt like one person—was one person.
+
+So, if that's the case, what changed with this evolution? he wondered. Bifurcated Processing allowed me to use my subconsciousness. It could perform tasks for me. What does Legion of Self even mean?
+
+He let intuition guide him toward his desired answer. Instead of overthinking, Shiv experimented. He pulled the mind tunnel back. The connection between him and the legion of synaptic ghosts that flanked him grew stronger. Time didn't dilate so much as it was compressed, and Shiv felt a pressure clench in his mind, but he handled the weight far better than before. Where a few complex tasks taxed his Bifurcated Processing skill to the very limit and began to cook his brain matter from within, Legion of Self made its supremacy known in an instant.
+
+Shiv pulled his tunnel as close as he could bring it, and it came to a halt directly in front of him. What once extended far into the horizon was transmuted into width. The tunnel went from being vertical to horizontal, and Shiv looked to his left and right again to find his synaptic clones transformed. Contained within the flattened cognitive pathway, their bodies were wreathed in storms of cognition, and the pulsating currents that carried the course of his thoughts were near solid in texture. More than that, Shiv realized he could move to either of his sides. With a thought, he shifted right. His body snapped into the place of a synaptic shadow, and suddenly he saw his original self as a pure shadow devoid of electricity—an absence amidst the legion. His former self looked right and left, and the moment repeated over and over again. Shiv realized that time was cycling. No, not time, but his perception of it.
+
+There was a pressure building inside his mind, a grinding sensation that squeezed at his very consciousness. The weight was growing stronger with every passing second, but Shiv's mind felt like it was made from adamantine. He could endure for a while longer, though not much. He didn't know exactly how long he could endure. And so he set about discovering his new limits, along with all the possibilities allowed by this new skill.
+
+His first test was simple. He threw a punch. His right arm shot forward, delivering a straight jab. His Shapeless Tides coursed along his fist in a rush of devastating power. And then, a second after, everything repeated. Shiv felt himself repeat the punch, unable to change the action. At the same time, his head looked left and right as his cognitive shadow merged with his current self. A gale of excitement swept through Shiv. Does this mean I can deliver multiple punches in the same instance of time?
+
+Shiv shifted lanes once more. He assumed the place of another synaptic clone and tried to deliver the same punch. But this time he couldn't—the moment he tried, a cognitive shadow materialized over him, preventing him from overlapping similar actions. Shiv tried dodging to his left, and to his delight, he realized he could, but his Shapeless Tides were paltry, and he only shifted a scant few centimeters. Why can't I move? After a few seconds of thinking, the obvious answer arrived. Of course I can't move easily; I spent everything on that punch.
+
+Using this skill was going to require some foresight.
+
+Okay, so I can't defy reality and punch someone multiple times in the same second. Wait, is this even a second? How fast am I going right now? Agh, I'm gonna need an hourglass to figure that out specifically. Let's try something else. I might not be able to punch with my body—wait, I think I can. I just need to change the nature of my biology.
+
+Once more, he shifted lanes. His Aegis of Assimilation was awakened. Twelve mana hydra heads uncoiled from his body, and he sent the first one surging forward. It slithered up to a hundred meters before he shifted lanes once more. He sent forth a second head, and then a third, fourth, and continued up until the twelfth. With every subsequent action and transition, Shiv felt the burden on his mind grow. It no longer felt like he was being crushed, however. It was like a storm was building in the core of his consciousness.
+
+A mist was beginning to build upon his thoughts, but its obfuscation was still thin. I can keep going, Shiv realized. I can keep doing more.
+
+Biomancy had once been his mainstay in combat, and even then, he used it more as an additional bludgeoning tool rather than a magical art to wield.
+
+For this, he decided to incorporate a few of his old spells. It had been some time since he cast Laceration and the stomach plague he'd bestowed upon Confriga’s soldiers. A series of crimson slashes lit the sides of his hydra heads, accompanied by plumes of spraying sickness that leaped free from the field. Every time Shiv got close to being overwhelmed, he switched lanes and started casting anew, unburdened by all he had done before.
+
+Legion of Self allowed him a surge of action unlike ever before, and he was slowly grasping the beauty of this evolution in exquisite detail. His mind wasn't dividing. Instead, it allowed him to slot and perform a series of actions within a preset period. Aside from a bit of growing brain fog, there didn't seem to be any penalties either.
+
+But there has to be, he thought. Maybe my physiology's strong enough, and this evolution finally put my mind on an equal level. Maybe the fog will last a while. But something tells me there's a bigger catch. That feeling of a storm building inside me… It's not going to be a bit of confusion. It's gonna be more than that. I know it is.
+
+Despite his paranoia, whatever price he had to pay didn't come due. At least not yet. And so, Shiv continued casting—using all his mana fields at the same time.
+
+Shiv had fought using a mix of magical skills before, but the way he wielded his fields was subsequent: He did one thing with his Biomancy and then unleashed a small flicker of flame or a pulse of Psychomancy thereafter. He never wielded them in sync. But now, ignoring the strain of his ruptured Psychomancy field, he managed a telepathic call while also unleashing a thin gout of fire, followed by two sprays of pressurized water and a marble-sized sphere of spatial magic that promptly collapsed on itself due to his lack of training in the field of Portomancy.
+
+The fires of jubilation were truly lit inside Shiv now. He was, effectively, an entire magi formation unto himself. Maybe he didn't have as much mana as a hundred Pathbearers of the same Tier working in concert, but he could match them in terms of brain power—overwhelm them by using all his fields in tandem.
+
+And that got him thinking a little bit more. Wait, I'm more than a magi formation. I can be my own formation. I can create new bodies for myself, resurrect physical forms. I can be my own army.
+
+The thrill within became a roaring inferno. Even as a Low Legend, Shiv's true potential was capped in so many ways. He couldn't think fast enough; he lacked proper training, tactics, and expertise. He didn’t know enough about magic or other technical disciplines, either. Where his Physicality, Toughness, and Psychology felt like foundational skills, Legion of Self and his other auxiliary capabilities made him exponentially greater.
+
+This skill was something else altogether. If he could keep this up indefinitely, the skill was far too good to be just Master-Tier. There had to be some kind of catch with how much it let him do. There just had to. And he needed to find that limit while he was safe here, Backstage.
+
+So Shiv resurrected himself. He forged one physical body from his Severed Shadow, followed by another and another after that. Each separation used the vitality stored within his Revenant form—each one became a new branch to his soul. However, as Shiv tried to defy death this final time, he found himself unable to. His soul felt brittle. His Vitae felt stretched to the limit, unable to part itself anymore.
+
+In the end, he managed to create six bodies Backstage—six, along with two more: one back at the capital and another within the Tutorial. So that brings me up to eight bodies. Eight bodies? Wait a minute.
+
+He pulled up his skill status and found what he was looking for immediately.
+
+Feats [5/8]
+
+Huh? That can't be a coincidence. Did Continuity Error and Legion of Self do this? Something told him that there was a reason why his resurrections were hard-capped to his Feat capacity. But that was a question for an Animancer like Valor. Godsdammit. I miss my golems. Having complete clones of myself is pretty useful, but being able to throw two hundred expendable bodies at an unstoppable problem was pretty nice. Would be nice right now…
+
+The mists choking his consciousness became an oppressive weight, like the atmospheric pressure before a thunderstorm. All of his bodies added a great deal of strain to his mind, and focus became a difficult thing. He kept losing track of his own thoughts; complicated ideas and processes became like water running between his fingers. He wouldn't be able to cast a spell right now, not without cheating. Out of curiosity, Shiv tried to call upon the Composer's Blessing, but there was simply an uncanny hollowness where her Song of Vigilance once sounded.
+
+Maybe because I'm Backstage? She probably can't remember I exist either. That's fine. I can find a cruder use for these bodies.
+
+His six physical forms all shifted at once. He activated Eldritch Physiology, and they became death-shaped. Flesh and skin peeled away, becoming whip-capes behind their backs. Bones erupted outward, with cutting ripples lining digits and elbows, knees, and ribs. As Shiv shifted mental lanes once more, he found himself able to inhabit each of the bodies. However, his earlier lack of foresight came back to haunt him once more.
+
+His six physical forms had only a scant few vectors they could spend. He'd already used everything for his first punch and didn't keep any overflow tides in reserve. All of his skill-based resources were shared between his bodies, and so he couldn't waste them. Or I have to give my other selves Animated Skill Infusions. I'm going to have to do that if I want my physical bodies to do magic.
+
+His skin capes whipped and lashed about. His recursive biology shifted and cleaved, projecting waves of cutting aura through the air. Shiv didn't need a clear head to guide a whip or slit a throat. Though he couldn't quite be a literal one-man army, settling for being a one-man Pathbearer team was plenty good.
+
+I'd like to see the Culturist or Jessica counter this. Shiv cackled internally. And Roland. Oh, Master Roland Arrow. When I get out of this place and we meet again, I'm going to have to offer you my apologies—our duel is going to be something else.
+
+He continued transforming his physical body, growing branching limbs that were edged with crimson cutting intent. He cleaved and slashed until his vessels became gardens that shredded, that ripped, that tore all around them. And Shiv took it to the very limit. He became near thoughtless toward the end, lost his sense of time, but he still shifted lanes every time it got too much, and he squeezed out a few moments more.
+
+He didn't know how many transitions he made, how many synaptic ghosts he mantled. If he had to guess, it was probably somewhere close to a hundred and twenty, or maybe more than that. It was hard to remember anything now, hard to think.
+
+His mind wasn't trapped in a downpour or a storm anymore. It was an ocean, and the core of his consciousness was sinking to the bottom like a stone. But there was no pain to this skill anymore. There was only a numb bliss—the feeling of spending oneself to the very edge and knowing there was little to nothing left.
+
+When he finally stopped, all his cognitive shadows merged into one. His many cells were reforged. This instance of time, where he lived and repeated over and over in tandem with all the other instances he experienced in parallel, was fused back together. All of his many lanes crashed into one, and the future extended onward, further and further, reeling far and out until the tunnel widened, until the present became the present once more and natural time resumed its flow.
+
+Or so Shiv thought.
+
+A blanket of weighted confusion lingered over his consciousness. Shiv lost his train of thought.
+
+He stared at nothing.
+
+He thought of nothing.
+
+It felt good to do nothing.
+
+He was faintly aware of someone calling out to him, trying to rouse him, but he wasn't fully there. Not enough of him was present to respond. He remained in that pacified fugue for a few moments.
+
+And then finally, in what felt like no time at all, he returned to himself, crawling out from the depths of his mind to see a panicked-looking blonde girl his age scream in his face.
+
+Legion of Self 102 > 106
+
+“—iv! Shiv! Shiv! Holy fuck, Shiv! Wake up! Fucking wake up already! If we die because of this, I'm gonna kill you!”
+
+Shiv's physical bodies blinked. His Severed Shadow reeled back. Every version of him groaned in tandem. Without using Legion of Self, controlling six bodies was still far too much.
+
+“Give… me a second,” Shiv rasped. He called upon his synaptic clones once more. They appeared by his sides, and that tunnel which represented how long his parallel actions would last came into shape. As he shortened the period, the girl who didn't exist grew muffled once more. Shiv grimaced and extended the tunnel again—kept lengthening the period until her words became coherent once more.
+
+“—the fuck just happened? Are you insane? What were you doing?” The girl's voice was choked with worry and confusion, and her azure eyes were wide.
+
+“Testing a new skill evolution,” Shiv answered, confused why she was overreacting so much. “A pretty damn good one at that. Sage's pre-Skill Fusion thing distracted me from a very active Skill Evolution happening inside me. My Bifurcated Processing evolved. It's called Legion of Self now. I got these lanes and synaptic clones, and I can like… jump over to them. Uh, let me show you…”
+
+The Deathless tried to demonstrate his new skill to the girl, but he couldn't. He couldn't cross over. The synaptic connection between him and his parallel instances was too weak. There wasn't enough compression, either. His brow furrowed. “Hm. I think the tunnel needs to be flattened before I can cross over.”
+
+That did explain a few things—namely, why he didn't feel any strain anymore while the synaptic tunnel was active.
+
+“Is that why you started blasting magic everywhere, and also why six different bodies suddenly blasted out of you and started slashing and whipping and everything?” the girl asked. “Can you make more bodies?”
+
+“Tried to. Can't. Seems to be a hard cap to how many Feat slots I can have. Actually, why are you asking me this? Shouldn't you know everything about me?”
+
+The girl looked at him like he was stupid, but there was also more than a hint of anger in her expression. “I'm not omniscient, Shiv. Being backstage just lets me peek, and now that we're backstage and you're doing all that weird shit in front of me, I can't even do that.”
+
+Seeing her so overwhelmed filled Shiv with a dose of pride. “One hell of a skill evolution, huh?”
+
+“Yeah, with a hell of a downside too,” the girl ground out. “You've been brain-dead for the past five fucking hours! I've been screaming, calling, waving in front of you. Your three skill stooges went missing. I was back to being alone out here. Back to being alone.” There was a slight quaver in her voice, and the girl hugged herself as she turned away from Shiv. “I'm used to being alone. But I'm even more used to not existing, and with you here right in front of me and just not responding… It just feels like a new form of pointless purgatory.”
+
+Shiv's first impulse was to apologize to her. Even if she wasn't real, the expression on her face and her body language screamed of trauma born of isolation. But then the crux of what she said hit him like a hammer blow across the jaw.
+
+“Wait, past five hours? I've been like this for five felling hours?” His sudden realization obliterated the remaining cobwebs lining his mind.
+
+“Yeah, I've been screaming at you for the entire time. Mainly because you've been burning vitality. With all the bodies you resurrected, you have… I don't know, maybe a few minutes left.” Her lips pressed together tightly, and her fingers dug into her arms. “This almost went really fucking badly, Shiv.”
+
+For the third time, Shiv cursed his lacking foresight. In his defense, though, he could never have seen this coming. But that's never an excuse, is it? Dying from ignorance is no different than dying with understanding. The outcome’s the same. He sucked in a breath. Damn, I came close this time.
+
+“Well, I guess I have an answer to why this is a Master-Tier Skill and what its costs are,” Shiv muttered. “Still an incredible skill, but I can't afford blanking out for five hours every time I get into a fight.”
+
+“I think it lasted five hours because you did so many things at once,” the girl replied. “You were controlling six bodies, casting a bunch of spells, attacking using all those bodies, punching with your main body, and I don't know—a lot of stuff. Maybe try something simpler? Maybe have all seven of your bodies throw a bunch of punches or something?”
+
+Shiv hesitated. “What if I end up brain-dead again?”
+
+“I…” The girl winced.
+
+“I think you're probably right. I think my mind going blank is cognitive overload from too much complex stuff at once. But what if the cost is five hours of thoughtlessness every time, regardless? I don't have an hour Backstage left.”
+
+“No,” the girl replied quietly. “No, you don't. If you stay here past the point where Longinus’ mana gets used up, you’ll go out like a candle for good. And then it’s bye-bye Shiv, and bye-bye me.”
+
+Shiv winced again. “Okay, so the solution should be pretty simple, then. We need to surface back into context, dodge another attack, and then…” He trailed off as he realized he had six other bodies to control. Once more, he tried to think ahead. He thought back to his experiments earlier.
+
+“I can't do anything that contradicts an already performed action,” Shiv said to himself. He followed that thought to its logical conclusion. “Which means I can't just dodge and slip out of reality while my other bodies are still doing things. I'm not seeing into the future. I'm reliving a present series of events over and over again. At least my gut tells me I can't.”
+
+And he had six physical bodies. Six he had to control all at the same time. He suspected that, should he try to dodge out of context upon being hit by one of Longinus' attacks, a cognitive shadow would form over him, preventing him from completing the action. He might be able to render the Wanderer’s assault acausal under most circumstances, but Shiv was still self-referential. “Which means I can't contradict myself,” Shiv concluded.
+
+Skill Gained: Metaphysics (Adept)
+
+Metaphysics (Adept) 1
+
+“Huh?” The girl gawked. “Shiv… what the fuck are you talking about?”
+
+“Logic,” he murmured. “Logical outcomes. Rules derived from… Shit, what did Adam call it? F-first principles. I exist in relation to myself, so even though I can render someone’s attack on me non-canon, I can’t make my own actions counter to what actually happened…”
+
+She stared at him like he was an insane person.
+
+“He’s right. I think.” Sage rubbed his bulging brain matter in thought, suddenly hovering right next to Shiv again. “We will need to proceed with caution, Shiv. You’re going to have to cross over with your other bodies and use them in a live-fire situation.”
+
+“I know,” Shiv said. “I’m going to shrink my synaptic tunnel to full compression. It only works for a single instance of time.” Thinking about the exact mechanics for Legion of Self was starting to give Shiv a headache.
+
+“Get used to it,” Sage said without any sympathy. “You want to be more than a dumb brute? Well, here it is. You have to think things through. You have to be patient, not only in terms of combat but also in understanding.”
+
+Shiv nodded resolutely. “Right, so here's what I'm going to do: I'm going to compress time as much as I can when I cross over. I'm going to destroy all my physical bodies within the span of a second, regardless of if Longinus is there or not. Then I'm going to try to see if I can intercept or bait out one of his attacks using my Severed Shadow. If all that fails, then maybe I should leave a temporal anchor somewhere. Something for a final retreat.”
+
+But Longinus had found his Revenant form with little difficulty last time. If he went thoughtless for even just a few minutes, then his enslavement or true death was practically guaranteed.
+
+“All actions have risks,” Sage declared. “All actions have consequences. But there comes a point where you have done all the thinking you can, and hesitation offers nothing but building dread.” The Skill shaped in his image faced Shiv down. “There is something you aren't considering, or at least you're not considering it on the surface of your mind. Evanescia wants this. She has not turned back the pages and reset this loop this entire time. She has been watching our fight. She has been enjoying it every time you return from context.”
+
+“You think she will intervene on our behalf?” Shiv asked. “If shit goes sideways?”
+
+“I don't know for sure, of course, but she seems to be invested in our struggle. We haven't read many stories, but we know enough that there should be three acts, right? Characters usually experience a darkest hour or some major setback before returning to try one last time. At least that's what I remember. I don't think we can count on her to save us, but I do think we can expect something like that since we're in a dimension shaped from stories.” Sage pushed his spectacles up. “Regardless, you’re about to start running out of vitality.”
+
+As if on cue, Shiv felt his body start dissolving. The last of Longinus' divine mana was spent, and now the Deathless, divided among seven controllable vessels, began burning his own life to keep himself in existence. And he wouldn't last for more than a few seconds with that. He scoffed. “Well. So much for patience.”
+
+“No. Patience will see you perfected.” Sage’s voice reverberated as a golden shroud formed over his representation, before it shattered like glass a heartbeat later. “Do not act blindly. This skill gives you time. Think. Strategize. Perform every action with scope in mind and toward higher purpose. We cannot afford thoughtlessness when facing a god in combat, and we cannot afford foolishness if we ever want to escape the Fairwoods.”
+
+With that exchange, there was no more to be said—not between Shiv and his Psychology skill, at least.
+
+“So, into the fray once more, huh?” The girl looked beyond the veil of integration, and Shiv followed her gaze. He couldn't see Longinus, but the god was out there somewhere.
+
+“Not done ruining his sauce perimeter,” Shiv replied. “I think I'm gonna slam all my bodies into as many rivers as I can. Blow them apart into trenches and mix them together before I let go.”
+
+“Sounds like a plan,” the girl breathed. “And… I hope it isn’t five hours.”
+
+“Yeah,” Shiv grunted. “Me too. Guess we’re about to find out, huh?”
+
+She nodded. “Don’t get enslaved by that fucking creep.”
+
+“Not planning on it. I’ll play this careful. I’ll do this right.”
+
+“Patience,” she said.
+
+“Yeah. Patience.”
+
+The cruel hand of nonexistence was cleaving through his vitality and dimming his form. Where Longinus’ power had lasted Shiv for hours, he had but moments left, relying on his own heartblood.
+
+Up and into it again, Shiv thought, hardening his resolve. Here we go again. Wait. Before we begin…
+
+He started spreading his physical bodies out just as he crossed through the existential membrane between the Backstage and Integration. The Severed Shadow of Heart and Bladed Soul cleaved through the boundary first. All his physical bodies followed across the rupture thereafter. They all crossed over at different places, spread far enough apart that he wouldn’t be—
+
+The skies above went bright with incandescence. Shiv turned to look up and felt his stomach drop. Spanning from one edge of the horizon to the other, a warhost of a few ten thousand golden riders scattered the blackened clouds above, streaking through the air at over thrice the speed Shiv moved with a hundred stacks of his inertial sheath. Their forms had changed—they looked sleeker than before, thin centaurs with plumes of fire behind them. Just how many skill transformations does this fucking asshole have?
+
+Well, if Longinus wanted to play games, Shiv was going to oblige him. The Deathless activated Legion of Self in full, and time flattened down to a single, relivable instance.

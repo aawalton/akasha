@@ -1,0 +1,147 @@
+---
+id: 6ff64251-41be-5885-8c0e-6fcde5ff807f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 64: Failure"
+slug: 0064-chapter-64-failure
+partOf: phoenix-ascension-cultivation-litrpg
+position: 64
+ownLength: 2169
+unit: words
+publishedAt: 2025-12-20
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2865687/chapter-64-failure"
+royalRoadId: "2865687"
+---
+
+What happened? Why did they explode?
+
+Many questions appeared in my mind, but the thing I was most worried about was the stinky dregs sticking to the surface of the cauldron, to my walls, and most importantly, to me!
+
+My beautiful orange and yellow plumage had been desecrated with this ugly, sticky, and smelly substance. I decided that the first thing I needed to do was clean the place and myself.
+
+I used the Phoenix Fire to burn the dregs completely, only leaving the traces on my feathers to inspect them later. After cleaning the cauldron and the cave, I flew out and headed toward the nearest river.
+
+Before actually washing myself, though— I was already overdue for that— I picked up the dregs and placed them on a leaf for later inspection. After that was done, I jumped into the icy cold morning water, shivered, and enjoyed a small amount of relaxation before hopping out.
+
+I lit up a fire on the shore and started inspecting the dregs. Giving them a closer look, I deduced that the medicinal properties were fine. There were no issues when they mixed, and even these dregs could be said to have had a decent effect to some extent.
+
+So the materials and the process were fine, yet they still ended up in failure. Why? That was something I had to think about more deeply. It was then that I caught a rustling noise a short distance away.
+
+My stomach was basically begging me to get something to eat, and I was planning to do just that! It looked like prey had all but delivered itself to me as well, so of course, I was going to take it up on that offer.
+
+I snuck through the bushes and saw what caused the noise— A tall, deer-like creature, different from the one that bothered me the other day. This one had sharp antlers and a taller, yet leaner frame. One thing that stood out the most was that it had a large, pointed,y and dangerous-looking horn right in the middle of its head.
+
+I wasn’t sure how much fat it had, but it didn’t look like it tasted all that good. But food was food, and I wasn’t going to give up on a free meal.
+
+Following it through the shadows, I was careful not to make much noise, and the little I did make was because I had no choice.
+
+I was waiting for the right moment to strike, and just as it turned out, it was right then. The deer had bent down to eat a greener patch of grass. Perhaps the sun had hit it more than the rest, and that was why it was interested in it.
+
+Nevertheless, before it could enjoy its food, I sliced its neck clean off and began feasting.
+
+[You have slain Rhino Deer Lvl 12]
+
+[XP Acquired]
+
+Due to its size and level, it had a lot of Qi stored within its flesh. Thanks to that, it gave me enough energy to fill up my stomach and a little bit on my Overeater skill. Unfortunately, the core gave me nothing after I absorbed it.
+
+It wasn’t uncommon, as it had happened before, I was pretty sure, but it was still disappointing.
+
+After eating my fill, I returned to the riverside and inspected the dregs once again. And once again, I constated that nothing was wrong with the materials or the refinement process. Then again, considering I burned away most of the other dregs, perhaps the little left on my feathers wasn’t the problematic part.
+
+I regretted burning away everything without inspecting it first…
+
+Wait, burning?
+
+And just then, I remembered something crucial, something that I’d completely forgotten about. The wisp of flame.
+
+I’d left it inside the cauldron, thinking that it wouldn’t make much of a difference, but of course it did. In that moment, I felt shame and disappointment in myself for forgetting such an important detail. The internal temperature inside the cauldron had been offset by a few degrees, which caused the harmonious fusing of the ingredients to fail.
+
+And I’d only left it inside because it was easier for me. As the saying goes, ‘If you fear bitterness, you won’t taste sweetness, and I’d gone straight for the sweetness, only to end up tasting bitterness. How ironic.
+
+With that epiphany, I flew back toward my cave and prepared the area for another refinement. On my way, I could not help but gather some branches and twigs I found good for a nest, and placed them all the way back. They would be great building foundations for a new home.
+
+With everything ready, I prepared myself mentally, removing all distracting thoughts, and began refining.
+
+The process went as smoothly as before, or even better, as I’d gotten used to the refinement process again. This time around, I didn’t use any wisp of flame inside the cauldron, which made things a little difficult, considering I didn’t have qi.
+
+Instead of pushing the ingredients together internally, I had to use the external flame to do so. The mental toll from the amount of concentration I had to do was much, much more than before, but it was worth it in the end.
+
+After a few grueling hours, the pills entered the final step once again, fusing into a large ball of energy that then split itself into six smaller balls.
+
+The lid flew open— under my own accord that time around— and out came the six round, pure white, shining pills.
+
+I held them with my wings and looked at them for a good while, inspecting them while at the same time admiring them.
+
+They were definitely at least Middle Grade Meridian Awakening Pills, which would be very effective at helping a child like that little girl to open up her meridians.
+
+I wanted to store them in something, but I had… nothing. With no way to access the bag of holding and no jade bottle to put the pills in, I was a little stuck. I could hold at most two with each of my feet, which meant that two would have to be left behind…
+
+That wasn’t the worst-case scenario, so I did just that. The little girl only needed one, after all. The other three I could sell and make some nice immediate profit— Money I would need for anything else until I got my hands on the profits from the feather.
+
+With that in mind, I hid them in the back of the cave, next to the two Golden Cores, then flew out toward the town.
+
+It was night by the time I’d finished the refinement, which worked well for me, as the fewer people who noticed me, the better.
+
+After grabbing the clothes from the tree,e sneaking over the wall, I took on the form of the woman from before. She was beautiful, well, I was beautiful, actually. I wasn’t entirely sure where I’d gotten the inspiration, but wow. I bet that’s how I looked in my past life.
+
+Anyway, I headed over to the house of the siblings, holding the pills in my sleeves.
+
+***
+
+That damned thing is here again.
+
+The man who once dressed as a monk thought, clenching his fists. He glared at the woman with orange hair who entered the house of the siblings he’d targeted. The man had watched over them for the past few days, and he was sure that Shu Wao Tu would eat the pills pretty soon.
+
+However, he hadn’t expected a random monster to mess up his plans by helping out the siblings. He wasn’t sure what she was doing, but her mere presence had put off his plans.
+
+After they ate the pills and cultivated the technique, their dantians should have started producing Demonic Qi. I made it so that they would have a slow effect, slowly demonising them over the course of months. To think that I, Shang Ling Zi, would suffer at the hands of that thing.
+
+Shang Ling Zi didn’t know that the same monster he was watching with loathing was the same one that had destroyed his plans with the two foundations establishment cultivators. He had only seen the aftermath, as by the time he got to the scene, it was far too late.
+
+Last time, the demonification process was instant, but that caused them to lose their sanity. The experiment was both a success and a failure, but that wouldn’t be enough to satiate Master. I need results.
+
+He thought, biting off his nails, which instantly grew back. To say that he was anxious would be an understatement. It wasn’t because he had a time limit, but because he needed to observe the siblings over a long period of time, which required his full concentration.
+
+Only once they were sure to take on the demonic doctrine would he allow himself some respite, going after other demonic seedlings.
+
+However, the red-haired woman shapeshifter had put a rock in his path, which meant that he needed to eliminate her. But he didn’t know how to go about it.
+
+The most optimal way would be to assassinate her, but the information he had on her was far too little. He’d tried following her, but once she left the village, her presence disappeared completely.
+
+What a tricky opponent. My only advantage is that she doesn’t know about my existence…
+
+Shang Ling Zi pondered over his options and decided that the best way was to wait and observe. Sooner or later, that wretched thing would have to slip up, and that’s when he would strike.
+
+***
+
+“Miss Immortal, so this pill will help me awaken my meridians?” Shu Xu Ning asked me, as if she couldn’t believe her ears.
+
+I shook my head, as I’d already told her that two times already. “Just sit down as I’ve shown you.”
+
+She nodded and climbed up on the bed, her big brother making space for her as well. I was pretty sure they changed the bed sheets and blanket, as they were of a different color, which pleased me. Sitting in such filth for extended periods of time could not be good for your health.
+
+But once she became a cultivator, mortal illnesses would be unable to damage her anymore. That was the reason her brother was holding up so well, too. As he once was a cultivator, his body had ascended past the realm of the mortals, even if his Qi had dissipated and he couldn’t use any techniques anymore.
+
+He looked at the pill in his sister’s hands with a mixture of awe and jealousy, though hidden deep within his eyes,s I noticed a bit of suspicion. If it was directed toward me, I couldn’t say for sure.
+
+Either way, once his sister became a cultivator and broke through into at least the third stage of Qi Condensation, she would be able to help him expel the foreign Qi that invaded his body.
+
+After that, well… we shall see. I planned to make the ciao guy, or whatever his name was, return the pill after the big brother here gave him a good ass-kicking, but I was worried that he’d already sold or used the pill.
+
+For that reason, I planned on infiltrating their clan as soon as business here was finished. I had to think of a good identity,y though. I couldn’t go as my ‘real’ self, so fabricating some sort of important personality would be for the best.
+
+With the help of the Myriad Market, I was pretty sure such a thing would be possible. All I needed was their word or some sort of identity token, and I could figure it out from there.
+
+But to return to more important matters…
+
+Shu Xu Ning sat cross-legged on the bed, right next to her brother. She looked at him with a wide, excited smile. It was true, I supposed, that unlocking her meridians was a large event for a child. If she were of a proper clan, then her parents would have arranged an entire ceremony, with food, drink,s and festivities, as well as gifts.
+
+I was sure that her brother had received such a thing.
+
+However, she wouldn’t be so lucky. The only ceremony she would have would be her brother’s congratulations, and the only gift… well… I did prepare something for her. But that would be something for later.
+
+“Alright, get ready,  I said, and she took a deep breath, closing her eyes. The pill was between her fingers, and as she reached to place it in her mouth, I stopped her. “Remember, be calm, and don’t panic. There may be some pain, but that’s because I modified the pill to draw out as much potential as possible.”
+
+She nodded, but her brother looked a little concerned after hearing me say that. However, it was too late for him to question anything.
+
+Shu Xu Ning placed the pill between her lips, then swallowed it.

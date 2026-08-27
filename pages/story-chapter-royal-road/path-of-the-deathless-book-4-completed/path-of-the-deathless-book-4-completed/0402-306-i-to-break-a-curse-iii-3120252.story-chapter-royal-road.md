@@ -1,0 +1,241 @@
+---
+id: f1c09191-c524-5ae9-8e54-9fa539f0e7a3
+page-type-slug: story-chapter-royal-road
+title: "306 (I) To Break a Curse [III]"
+slug: 0402-306-i-to-break-a-curse-iii-3120252
+partOf: path-of-the-deathless-book-4-completed
+position: 402
+ownLength: 4541
+unit: words
+publishedAt: 2026-03-05
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3120252/306-i-to-break-a-curse-iii"
+royalRoadId: "3120252"
+---
+
+It is important not to mistake Eldritch Physiology as a Shapeshifting Skill. Though it also causes your flesh and shape to change, and dramatically so, there are several benefits to Eldritch Physiology that Shapeshifting can never match. For one, you no longer have to adhere to any common biological rules. It's sort of an un-biology, like everything that has to do with the Eldritch. Rules and limitations are stripped away; in exchange, you gain new requirements to use these powers.
+
+The best way to understand Eldritch Biomass is that you are now a colony of self-moving, decentralized flesh. You do not need to adhere to any evolutionary laws, nor such annoying logistics as 'vital organs' and whatnot. To put things simply: so long as one single part of you remains, the rest of you will still function at peak capacity.
+
+The only real, true problem you face here is how fast you burn through your own biomass. Trying to change back will be... How should I put this? An exercise in advanced suicide if you aren't a very, very skilled Biomancer. You don't just go from converting all your cells into a unified and decentralized system of aberrant particles back to normal. And herein you face the greatest issue of the skill: it is not Shapeshifting. You don't fit in any ecosystem, and you must constantly consume or find a means to gain more organic biomass. Because eventually, due to the sheer instability inherent in your new biological architecture, you will burn through all of yourself and find yourself spent until nothing remains.
+
+As such, it is important not to be overly enthused about gaining the Eldritch Physiology skill. As with all things that are tainted by the Outside, it offers tremendous benefits and allows you to ignore a great many natural limits, but you will accrue a dire debt that will come due if you cannot pay the price.
+
+But, if you have something like Advanced Regeneration or another body-replacing skill, then do have fun. You have effectively nullified the costs. Now reap the rewards, and consider how else you can scam the Outsiders for your own benefit.
+
+—Turn and Face the Strange(r) by Hades Hymn
+
+306 (I) To Break a Curse [III]
+
+Gate Piety
+
+Category 3
+
+Skills
+
+The Dawn Unites 6 (Unique)
+
+Second-Person Perspective 2 (Master)
+
+Biomes
+
+Autumnal Forest (Common - Active)
+
+Freshwater Aquatic (Common - Active)
+
+Umbral Wilderness (Common - Inactive)
+
+Saltwater Aquatic (Common - Inactive)
+
+[Undefined] Grassland (Common - Inactive)
+
+[Undefined] Desert (Common - Inactive)
+
+[Undefined] Tundra (Common - Inactive)
+
+Districts
+
+Surfacer Way
+
+Bunker Point
+
+Shiv’s Kitchen Hellpit
+
+Gateways
+
+Tutorial
+
+Earth (Abyss)
+
+Earth (Surface)
+
+Gate Quest: Increase Gate Piety’s population to 500,000 (Currently at 29,441), construct 10 districts, gain 5 Gate-based Skills (Master-Tier Minimum), and advance the gate to Category 4 within 90 days.
+
+Rewards: Grants the Gate Lord a Master-Tier Elemental Dimension Biome they can select; grants 2 selectable Heroic-Tier Skill Evolutions; grants a unique piece of Heroic-Tier Equipment based on the Gate Lord’s Path
+
+Penalty: A soul-withering mana storm will be created from Gate Piety’s unique mana. Dimensional mana frequencies for each of Gate Piety's gateways will become scrambled, and the entrances and exits will lead to indeterminate locations at random.
+
+Quest: Fend off the joint Vulteg, Compact, First Blood, and Jotun Invasion.
+
+Rewards: +200 levels for a selected Skill, +50 levels for 3 selected Skills
+
+Penalty: I’M GONNA DO THINGS TO YOUR ASS THAT YOU WOULDN'T BELIEVE, ARROW! I’M COMING FOR YOU, YOU FUCKING BOW-FUCK!
+
+A long whistle of suffering squealed out from Adam's throat. Shiv and Uva's eyes widened in disbelief and sympathy. She reached out to brush Adam's back while Shiv read through everything one more time. “I thought you said you had one Quest to deal with.”
+
+"I had one Quest to deal with," Adam said through clenched teeth. "Now, the System just gave me another. Originally, there was only the Gate Quest. It seems that I've gained a personal Quest for myself. Neither of you two got that either, did you?"
+
+Shiv double-checked his own notifications and found them blissfully blank.
+
+"No," Uva breathed, confirming an absence on her end as well. "But why? This is our Gate as well. Any invasion that comes will force us into action."
+
+A cold realization passed through Shiv. “Maybe not. The System… I think it's trying to pull us apart. This isn't technically our Gate. We can leave at any time. The Order can retreat to Weave. I can simply throw my hands up and flee across into the Tutorial or go adventuring across the world. But Adam, he can't leave. At least not permanently or as things are now. This is the last refuge for Blackedge. This is the only stable territory that he and his family still have. Our extended leave after we were captured by the Ascendants was bad enough, but things are much more critical now. As Gate Lord, he can't abandon this place. Not without paying a brutal cost.”
+
+"The System wants us to flee?" Uva asked. "I find that hard to believe. Every time before, it yearned to push us further into bloodshed and violence. Why change tactics now?"
+
+"I don't think it's exactly expecting or wanting us to flee. I don't think the System works like that. But I do think it's trying to create a more focused kind of strife between us." Shiv’s face tightened into a hateful sneer. "If we choose to stay, fight, and help Adam, then that's fine too. The System gets its regular dose of war. But if any of us have second thoughts and we decide to turn away, or we break our companionship right now for personal or selfish reasons, then that might be cause for further conflict between us down the line, especially if that's the reason for Gate Piety's fall."
+
+"Those are my thoughts as well," Adam agreed grimly. "I can see it. Along the grand storyline of our lives, our parents' lives, the lives of people around us, there is always a pivotal event, a deviation of choice between two individuals that once were allies or even family. The System is constantly sowing seeds, and this is one. I have to stay here. I have to protect my people. I have to develop this Gate. But you two are not so beholden. You two have other options, and I can't force either of you to stay."
+
+As Adam spoke, however, a chain of thoughts passed through Shiv. He realized something. The situation was infinitely more insidious than Adam probably suspected.
+
+"I don't think so, Adam," Shiv said. "I think it's even blacker than you can imagine. You don't need to stay here. You don't need to be the Gate Lord. You don't need to hold in place the seeds that are being sown here. They're not tied to your honor; they're tied to the survival of everyone else. You can try gathering Blackedge's survivors and abandoning the Gate. But I think that will just create a new Quest. One where more forces across the Abyss will try to hunt you down. You can also abandon everyone and just decide to flee. But that means there will be Quests given to people who are left behind here, likely to your father, your mother, people you care about, people you used to fight alongside, to see you cut down for this betrayal."
+
+Twin expressions of horror blossomed between Adam and Uva. For the former, it showed nakedly on his face. For the latter, it resided deep in her eyes and expressed itself in the way she looked away.
+
+And Shiv realized something. He felt a certain insight into the System's ways now. For an entity that controlled conflict, that could create specific conditions across the world, nudging people into clashing with one another, incentivizing them to betray or to fight, forming bonds and breaking them over and over again, all through offerings of power, of treasure, of greater personal benefit at the cost of communal devastation, its opportunities to manufacture conflict were quite literally endless.
+
+This right here wasn't a fixed point, but rather a sandbox. The things it could do to force Adam to fight were limitless. Shiv might decide to ignore the System, but he had advantages that no other Pathbearer possessed. Death was not his end. Now he had separate bodies. He could flee in any direction he chose. He could stay hidden from so many. But ultimately, he couldn't change his personality. He couldn't alter his character on a whim. This wasn't just a targeted attack on Adam. It was an attempt to leash him once more.
+
+And Shiv despised it.
+
+"It wins and feeds no matter what we do," Shiv concluded. "We can fight, and we can build up this Gate. It has no problem giving us that power. I don't think it even hates us to any degree. It's trying to resolve me in one way or another. It's trying to control me, to control all of us, to keep us contained and caged. I don't think it wants us to die specifically, but it wants us to be predictable. It wants us to play along like… like…"
+
+"Characters from a story," Adam finished for Shiv.
+
+"Yeah, exactly. So if we ignore one plotline, it will just create another. With all the people here and everyone that we've wronged, everyone we've helped, its options are endless."
+
+The three fell into a trance of momentary silence, each working through the information they learned their own way. Above, the mana core grew ever brighter, and its resplendence lent greater light to Adam's Shattered Star, which now danced in broken pieces over his head. Below came the noise of industry and creation.
+
+Stone rose, the ground cracked, metal sheared through the soil, rising into the air, and pieces were joined in resounding notes that played to the blows of spell and hammer. Gate Piety was being built up, bathed in light. But where it was bright at present, its future was a sea of endless darkness, and Adam was bestowed ever greater loads of burden to chart the path of his new home, to avert the cliffs of damnation and cleave along the narrow crevices of prosperity.
+
+"Well, we're not leaving you," Uva said resolutely. "And honestly, none of this is an actual surprise. The System hungers for us like it does for few others."
+
+"And we also have the Slipgate," Shiv said. "We can use that to take the initiative. Maybe we can end some of these Quests before they begin. I don't know if that's even possible, but we can try. The First Blood, the Jotun, Compact, the Vultegs… We were likely going to have to deal with them at one point or another. I think I'm gonna try to do something. I'll go deal with them early. See if I can't shit in the System's breakfast a little. You should keep building up here. Focus on getting the rewards from that Gate Quest. We were planning on establishing an impenetrable, eternal fortress anyway, right?"
+
+Adam didn't reply. His eyes were on the houses being built near Starhawk's Perch. The castle itself had been restored, at least to some extent. There were patchworks of metal and concrete poured over its many open wounds, and a colossal tarp fluttered in the wind, draped over its missing wing. In many ways, the Perch was a mirror to the people of Blackedge. They survived, barely, now held together by stitches and plugs. The tenements that surrounded the castle finished that story. Each one was a reinforced slab of metal and stone. None of them had any decor.
+
+All of them seemed like small bunkers, modeled in imitation of the blockade that was fused over the Tutorial Gateway. And it seemed like this was just what the survivors of Blackedge wanted. The buildings were packed tight with life signatures, with bodies organic and not. Few of them dared to venture out. Shiv didn't want to imagine how much terror was coursing through them during the entire siege. How much exhaustion, and now how much trauma, they needed to endure. All of them were scarred. All of them would carry ghosts for as long as they existed. And the worst thing was how they would inevitably become ghosts that haunted Adam in turn.
+
+The Gate Lord sighed. “I'm starting to think that the worst thing about being on fire is how easily you set those around you ablaze.”
+
+Adam was likely thinking about the same thing Shiv was: no way out. Not for any of them. Not for those around them. The System's favor would see them eaten. And so long as they remained in proximity to Shiv, Adam, or Uva, there would be war in their future. Maybe the best thing to do was release them, scatter them back across the Republic. “This isn't truly Blackedge anymore,” Adam muttered, casting his gaze toward the Perch and the buildings where the survivors were being housed. “These people didn't ask to be part of this war.”
+
+Shiv grunted in disapproval. “They didn't, but they're alive, and I can see Veronica using them to draw you or your father out. The Inquisition will definitely go after them anyway. There are no good choices here. It's not because of you. It's just because they're alive. They didn't catch your flame. They caught your father's. They caught that of the struggle between the Ascendants. Shit, we didn’t even start the fire. It’s probably been burning since the world started turning. Before us, there was another war. Can’t imagine perfect when perfect is war.”
+
+That roused something in Adam, but there was still a hint of apprehension behind his gaze. "If there is no choice but strength, then we must see them prepared. We must see them hardened. It's the only freedom they will ever get to experience in their lives as well." The Gate Lord turned, facing Shiv with his uncertainty laid bare. "I know you're going to help me, and I can't thank you enough. But I want to speak with them. I want to face them."
+
+"And you want me to go with you, but you're not certain how they feel about me, and how I feel about them."
+
+"That’s about right."
+
+A thin smirk born of indifferent pride spread across Shiv’s lips. There was a time where he would have rejected Adam's request, where he would have done anything despite the people of Blackedge. He'd already saved them, even after years of being ostracized, even after so long being hated. He'd done his duty and he was free now to be whoever he wanted to be, to walk beneath the sky his own man.
+
+But this was being his own man. He was ignoring the hate the System was trying to teach him, the hate the world seemed so determined to hold on to. Jessica and Roland. Starhawk and his friends, and now us… So many pointless judges. “Yeah, I'm not doing that. I am letting this stuff go. I'll go down there and talk to them. I can't guarantee how they'll react to me, but you won't have a problem the other way around. I can't say I ever liked them, but everything in the past is just a thing in the past. They aren’t who they were yesterday. And I’m definitely not that miserable street rat anymore either.”
+
+Adam's relief made him look years younger, made him look like the same boy who just returned fresh from the academy with his fiancé by his side, prepared for marriage, ready to celebrate the Festival of the Eclipse. "You know, I've been thinking of establishing a proper Memorial Day for all those who perished during the siege. And, well, I think it would be a better day if there were proper food. As Gate Lord, I think I'm allowed to be the one who selects the Head Chef for this ceremony. Much like my father did for the Eclipse."
+
+Shiv's grin took on a smug quality.
+
+"As such, I would like to request the help of the second-best Manifold Orc Meatball chef in Integration."
+
+Shiv’s grin took on the quality of a collapsing building. It crumbled even faster when Uva drew a desperate hand up to hide her quirked, snorting laugh. "You know, sometimes I really forget how much of an asshole you can be,” Shiv ground out. “I don't even know if I want to accept this honor now."
+
+A vulpine smirk worked its way across Adam's scheming face. "Well, I would be heartbroken and offended, but I would be lying if I said I didn't have another option in mind. After all, I do know where to find the best Manifold Orc Meatball chef in Inte—"
+
+Sage of the Enkindled Heart: Adam is our battle-brother and friend. It is wrong to kill him. It is wrong to torture him. Even if it would feel extremely good to smash his face in right now.
+
+"Adam, if you do that, I will kill him, I will kill you, and then I will kill myself—I accept the honor of being Head Chef, and I will never forget what you just did to me.”
+
+"And thus the System successfully sows the seeds of enduring strife regardless," Uva commented, her voice dry as desert wind.
+
+***
+
+They came down from the sky to take a closer look at the living conditions for Blackedge's refugees. So far, things looked quite adequate. The structures were reinforced and additionally guarded by what looked to be earth and stone elementals. Furthermore, there were members from the Arachne Order stationed nearby, making sure that no harm would come to the refugees from any source. Up close, the temporary houses they resided in were long slabs filled with multiple families within every room. Said slab houses also had an underground component with tunnels connecting the different residences to each other—and safe rooms in between as well.
+
+The disconcerting thing was how certain safe rooms were filled with biological signatures. There were people hiding inside them, packed tight like sardines in a can. And they clung to each other. They remained there, unwilling to rise, unwilling to depart, unwilling to move.
+
+"The only safe place that remained in Blackedge was the underground," Uva said, noticing the same thing. "The people who managed to get into the cellars, who managed to descend into the castle's dungeons first avoided the worst of the attacks. The open sky, even guarded by wards, will forever be a vulnerability in their minds." But while the bulk of the refugees kept themselves sealed away, there was a group that dared to venture beyond. A few hundred people gathered beyond their current residences, and they lingered and sobbed as they stared at what looked like a long, black wall.
+
+“What’s that they’re looking at?” Shiv asked.
+
+Adam frowned. “I think…”
+
+“A memorial,” Uva answered.
+
+The memorial stood alone, an obsidian slab a few hundred meters away from the tenements and the Perch. Closer, Shiv could see that it looked to be something salvaged from a portion of the castle's walls, maybe even the floor. It was hard to tell, but judging from the cracked edges and the many names etched into its surface, Shiv suspected the memorial had been created while Blackedge was adrift in the Outside.
+
+Uva's subsequent hitched breath served as confirmation. "They salvaged it. I thought it had been lost with the rest of the destroyed wing."
+
+"At least some of it has been." Adam gestured at the upper corner of the slab. An entire section had been obliterated, and a trail of surface-eroding scratches made some of the names hard to discern. And on top of that, despite all the names that had been reported already, it wasn't nearly enough to account for all the casualties.
+
+Shiv didn't see Georges’ name there, for one.
+
+A solemn silence gripped the three, but in their quietude, there came a noise that pierced the air. It was a hitched noise, someone struggling to breathe, gasping between every breath. As Shiv listened, he realized someone was sobbing on the other side of the slab.
+
+"You should probably go talk to him," Adam said quietly. Shiv met the Gate Lord’s eyes in confusion. "He knows you better than me. It’s best that you speak with him."
+
+A beat of hesitation passed, but then Shiv descended onto the ground and rounded the monument. On the other side, standing in front of a large group of mourners, was a small, ragged-looking goblin who sported two wooden stumps in place of legs. He had three separate cigarettes clenched between his teeth, and he chipped away using hammer and nail, carving another name into what little space remained at the base of the monument. Though small of frame and starved of muscle, he made up for his lacking strength with frequency, swinging the hammer down upon the nail at a rapid pace. However, when Shiv's shadow fell over him, he drew his arm back and froze, his body radiating with fear. A sliver of power flowed out from the goblin into Shiv as a chain of dread formed between them. “N-nuh! No! D-don’t—“
+
+Shiv barely noticed all that. He was too busy fighting his own disbelief. He recognized this goblin. He knew him. Not well, but well enough. "Seymour?" Shiv gasped.
+
+His voice was like a splash of cold water. It broke Seymour out of his terrified trance. He looked up in an instant, and his bloodshot eyes widened as well. “Broken Moon… Shiv, is that really you?” The goblin chef dropped his tools, letting them bounce off the ground with resounding clinks before he rose and reached out with trembling fingers. As he touched Shiv's knee, he began to shake with disbelief and relief in equal measure. "Ascendants, you... Wow, you're so big. When did you turn into the size of a small building?"
+
+"Are you sure it isn't you who just got a whole lot smaller? Maybe you finally smoked too many cigarettes."
+
+A laugh of tearful incredulity escaped Seymour. "Hey, screw you," he said. "These ciggies were the only thing keeping me sane during all that. I… I can't believe it. I can't believe the others weren't wrong. I thought they'd gone insane when they said you came back and that you were a small giant now. Just like I thought they were insane when they said that the Tarrasque had your face, and that it was actually you trying to take revenge on us for treating you like trash."
+
+He blinked. "They said that?" He then looked at all the surrounding mourners and noticed how petrified they were before him. A growl of loathing almost slipped out from him. System damn you to every hell in Integration, Sullain.
+
+Of course, he was going to have to deal with this shit. The damn Tarrasque was made from his soul-stuff, and because of that, it looked like him. It was probably out there somewhere up North, ruining his reputation even more.
+
+Shiv smiled reassuringly, not letting the displeasure show on his face, lest he scare anyone. "Yeah, no, I'm not actually the Tarrasque, Seymour. I'm just a little bit bigger than before, that's all."
+
+Seymour spat his cigarettes out in a spray of ash and embers. "Little my ass. Your forearm is thicker than my entire torso!"
+
+"About that, when's the last time you ate, Seymour? You look like a bag of skin holding together a mess of fish bones."
+
+"I..." The goblin trailed off, trying to recall the last time he had a meal. "It doesn't matter. I'm fine right now. The smokes help with the appetite, you know how it is. I'll get something later. I'll get something once I'm done with uh… you know…"
+
+Stormclouds of lingering grief returned, shrouding the brief moment of joy between the two. "You hear about Georges?" Seymour asked, his voice thin and frail.
+
+Shiv nodded; he didn't say anything; he didn't want to say anything.
+
+"I tried to go see him before the end, but it didn't work out. Too dangerous. You know, he was always kind of a prick to me, and he yelled a lot. But… uh…" Seymour swallowed and bowed his head. Loss was a weight upon the mind, and it bent one's spine, and it broke one's soul. Seymour was still here, but Seymour was more fragile than ever. He had always been the sensitive sort. The fact of his survival left Shiv astonished.
+
+"I think I’m gonna miss him anyway," Seymour squeaked. "I’m gonna miss so many of them…"
+
+"I know," Shiv whispered. "Me too."
+
+"It feels bad to say out loud, but it really feels like I shouldn't be here, you know?" Seymour said. "So many of the people defending us died. Master Pathbearers. I'm not powerful. I'm not brave. I'm not any of those things. Somehow I'm still here. Doesn't make any sense, does it? It really doesn't…"
+
+Sage of the Enkindled Heart: The guilt of a survivor is strong. Stronger than any logic. Don’t engage with it logically. Agree, but build him up. Sympathize. Don’t judge. He has to find his own way out.
+
+I know. Shiv reached out and patted Seymour's back. He realized the goblin was right. He could wrap his hand around Seymour's torso with ease. The Deathless adapted. He decided to use his index finger and thumb to slightly pinch Seymour's shoulder instead. "I also think about that all the time. The System wants us to die. The world doesn't give a shit. But at the same time, I'm glad I'm still here. And I'm glad you're still here too."
+
+A cough left the goblin, and slowly he took an awkward step before exploding into motion and wrapping his arms around Shiv's leg. He mumbled something, and then began inelegantly weeping. Shiv gently patted Seymour with a single finger. It was like brushing the back of a kitten. One that smoked and cried a bit too much.
+
+Looking over his shoulder, he saw how Adam stared on appreciatively and proudly. The expressions on the mourners' faces were also changing. A few of them regarded Shiv in a new light, and with the way he acted and all he did to save the town, perhaps he wasn't damned by his past or the Vicar’s pet.
+
+As such, Sage of the Enkindled Heart chuckled like a scheming mastermind.
+
+Sage of the Enkindled Heart: And so our reputational rehabilitation begins.
+
+Shiv frowned. What does that even mean? Actually, why do you know a bunch of words I don't?
+
+Sage of the Enkindled Heart: You do know the words, but only subconsciously, since you failed to internalize them. But a part of us has to be smarter than the other parts.
+
+I'm getting tired of being insulted by my own skills, Shiv pouted. You should think twice before shit-talking me, Enkindled Heart. I got a lot of other skills I could be focusing on.
+
+Sage of the Enkindled Heart: And none of them will be half as kind as I am.
+
+…Fuck.

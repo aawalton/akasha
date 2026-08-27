@@ -1,0 +1,221 @@
+---
+id: ce76ef33-996a-5c5e-aa4d-80c1c9e16baa
+page-type-slug: story-chapter-royal-road
+title: "301 (I) The Sky-Swallowing Carp [IV]"
+slug: 0394-301-i-the-sky-swallowing-carp-iv-3092496
+partOf: path-of-the-deathless-book-4-completed
+position: 394
+ownLength: 4024
+unit: words
+publishedAt: 2026-02-25
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3092496/301-i-the-sky-swallowing-carp-iv"
+royalRoadId: "3092496"
+---
+
+Dear Journal,
+
+my time with Shiv has inflicted indelible harm on my sanity and sense of morality. The absurd has become routine. The horrible and despicable are now commonplace, and the macabre? Practically mundane. The tragic fact of the matter is that I cannot even blame Shiv for all these happenings. He is often just as much a victim as I am. The System thrusts these situations upon us, and it laughs; it seethes at us, watches us struggle and dance, trapped in a jar with other horrid insects.
+
+And though he is a lightning rod for conflict, Shiv is also a welcome source of solace in the worst of times. I don't know how to describe it; perhaps a lifetime of horror and alienation has hardened his psychology so much that most of these events barely faze him, and his regenerative mind allows him to recover from most of these nightmares without any lingering consequence. I envy that, and I use him as my fortress sometimes. There are moments where I feel like I'm teetering on the brink, and he intervenes. Shiv cares.
+
+Sometimes he's clumsy, rough, or even brutal, but he cares. And I think that is what I've learned to treasure most in this world: people who genuinely care. We are all inevitably flawed in our own ways, and flaws have facets. At times, a sort of hardness against the terrors of the world makes one a terrible companion in polite society. But at war, hardness is needed. A willingness to drink in the poisons of the world, to drink in the poisons of strife, and emerge unshaken, unsickened—that is a habit I still must cultivate.
+
+But regardless of what happens, I am confident in one thing: that he will do whatever it takes to keep me safe and to fight for me, and I the same for him.
+
+I must also confess to a building fear and envy. He's grown powerful. He's advancing and evolving at a rate I don't know if I can keep up with. The thought of being left behind, of being far weaker than him... It disturbs me. Not like it did before, but perhaps someday he might not need my assistance. Perhaps someday I will be a liability or vulnerability, and I don't think I can accept that. I don't. I refuse. So I must improve, whatever the means. I can't let him face all this on his own, either.
+
+Our responsibilities to each other are more than mere protection.
+
+He's been lonely for most of his life. And that, in part, is the fault of my family.
+
+After everything that has happened, I have been thinking about the future. And the past. I've been thinking about the choices the System compels us to make; about my father, the Ascendants, Jessica Hawgrave, Valor, his son—all of them. It seems like the System unites family against family; brother against brother, sister against sister. Those who care about each other turned to hated foes in the end.
+
+No one can hurt deeper than those you let into your heart. Love and hate aren’t so far apart. And so, I’m afraid of the future, more than anything else. Because I know what may well be coming. Shiv might have declared his indifference in defiance of the System's cruel ways, but the world doesn't care. Integration continues as it always has. It will try to drive us against one another down the line. Me against him, most certainly. But Uva and everyone else we've fought alongside as well. No one gets to stay an ally down the annals of history.
+
+Trying to escape from the palm of strife is like attempting to sever oneself from time. Struggle though I might, grow stronger though I will, I'm beginning to feel this malaise—that it's all hopeless, that it's all for nothing.
+
+But then, in those darkest of moments, I remember I'm fighting alongside a man who won't stay dead. Despite the System’s wants, we still remain, and it might be him that chokes the System first.
+
+Perhaps it might be his will that stands triumphantly defiant above the inexorable commands of our belligerent existence.
+
+The beautiful thing about becoming so adapted to the absurd: you start believing, and then striving, for things you once thought impossible.
+
+-Adam Arrow’s Personal Journal
+
+301 (I)
+
+The Sky-Swallowing Carp [IV]
+
+"I can't believe we're actually doing this." Adam gagged. "I can't believe you're actually going to cook and eat these things. You've lost it, Shiv. You've finally lost it."
+
+Shiv just laughed. "Oh, come on, Adam. Remember the first time I cooked for you? How much doubt you had? Why is that doubt still there? You know you're going to like this. You know this is going to be fun."
+
+"I dispute that last part," Adam muttered under his breath. "And how many courses are you planning to make? There are enough bodies in this freezer to... How many orcs did you kill?"
+
+"A couple hundred, but most of them got incinerated by Candles. These are the ones we managed to salvage."
+
+Within the freezer lay dozens of warped corpses, as neatly stacked on top of each other as had been possible. Disembodied limbs were pressed against the back, optimized for compact storage. Spare limbs and other organs that had been secured were placed inside containers and gathered in stacks on the other side of the freezer. All in all, Shiv had to say that Gone was pretty good at transporting and arranging things. He was doubly impressed with the freezer the orcs had helped install. It had fifty square meters of space he could use, and there were active spatial and Cryomancy spells snaking their way along the walls.
+
+Uva made an awkward and almost inscrutable gesture. Shiv realized she didn't want to bring up his new cooking disability, and for good reason. It did make him feel sad, but his countermeasure against that offered more than enough amusement to blunt the pain of what he had lost.
+
+Shiv answered her by pulling out his Enchained Heart of Lifegiving. The organ glowed bright as the crystalline thread lining its exterior burned, and a billowing ebb of vitality rippled out, bathing the room in the faintest red.
+
+"What is that?" Uva asked.
+
+"That is our solution," Shiv declared, and just then, shadows started moving in the red. Shadows that loomed and hovered over them, the ghostly remnants of slain orcs that were now being funneled toward the unmoving corpses. Worse yet, a few of the shadows looked uncannily similar to certain corpses.
+
+"We come, Insul. We return as you have bid, and we're here to do exactly what we promised: turn ourselves into living ingredients." The orcs laughed in unison, clearly gleeful about the idea of possessing their flesh as participants in the preparation of Orcish culinary delights. “This is going to be a first for many of us, so do your weirdest! We insist.”
+
+Uva's face turned utterly blank as she realized what Shiv intended to do. Adam, meanwhile, couldn't stop his jaw from sliding open.
+
+"This..." Adam swallowed. "Normally, I would say this is beyond the pale, that it's grotesque and… But they are Orcs."
+
+Shiv smiled triumphantly and clapped his friend on the back. "That's the spirit, Adam. Besides, they would have totally found this funny when they were alive too. Everyone wins. That’s how life should be, isn't it?"
+
+"Are we just… going to ignore how you just euthanized your accidental clone?" Adam asked with a slight frown on his face.
+
+Shiv didn't respond.
+
+Uva ran a hand through her hair, which she'd cut short again after it grew out during her stay in the Outside. "Adam, sometimes… bad things happen. It is important that we list them and do not repeat these mistakes, but also that we don't linger on them. Besides, the clone’s body has already been assimilated. In a way, this is just… flesh returning to flesh."
+
+"Would you be coming up with this justification for anyone else except him?" Adam asked sharply.
+
+She considered that for a moment. "Probably not. Unless it’s you. But if you did something like this, I would be deeply worried and try to find you help."
+
+"But he gets a pass?" Adam emphasized.
+
+"That's how we work, Adam,” Shiv answered on her behalf. “You do the righteous and noble thing and then worry about not being good enough. I generally try to do good. And then sometimes bad things happen. And Sister Uva here… always does what the mission requires."
+
+"I feel outnumbered," Adam whispered, mostly to himself.
+
+Shiv grinned apologetically. "Don't worry, we'll all be working together. Think of cooking some Orcs as… team building. Something we can all do together that isn’t murder or active violence. We could all use a moment away from that. Actually, why did you guys come over?"
+
+Both Adam and Uva hesitated as they shared a look. The Umbral took on an expression that Shiv couldn't read for a moment. But after a while, he noted how her scar-lined lips were pressed together and how she was averting her gaze from him. She was feeling a bit shy. From that, he came to a flattering conclusion: she came seeking him for personal and intimate reasons. Adam, meanwhile, was all too easy to read. His voice sounded more agitated than normal, and his emotional core was filled with vibrating waves of anxiety. That likely meant he came seeking Shiv’s counsel about something related to the Gate, the refugees, or, most likely, his own family.
+
+"Alright, I get it. We can talk about whatever Adam has going on. Adam, if you want to do it privately, we can use your Commander's Foresight so no one else hears us. Uva, we can spend a little time together in a bit, somewhere away from everyone else."
+
+Her eyes widened dramatically. "How did you—" Her Psychomantic strands curled around her, searching for any breaches—any points where Shiv might have intruded.
+
+"Sometimes, an extremely advanced Psychology skill becomes a pathway to insights that others might consider… unnatural," Adam explained. "And then other times Shiv acts like a complete felling moron, so it can’t be that reliable."
+
+Shiv sneered hard at Adam in response to that. "So, you come here about the Gate itself, the refugees you now have to care for, or something to do with your family?"
+
+Something wilted behind Adam's eyes. "T-the last.”
+
+"Never doubt my Enkindled Heart again, Adam." Shiv grinned, smug and satisfied. Uva covered her mouth to hide a snort of laughter and spare Adam’s feelings. "Now. Let’s get to cutting these orcs apart."
+
+Adam remained still for a beat, then drew his shimmering rapier. “Fine. Nothing they wouldn’t do to us for fun, right?"
+
+"That’s the spirit. Orcs always have it coming. Just picture them eating your mother and father and everyone else from Blackedge. Not like they'd shy away from it if they got the chance.”
+
+“And the worst thing is that you aren’t lying,” Adam moaned.
+
+***
+
+Between Adam's clones and Uva's Aberrant Fractals, most of the orcs were shorn down to the bone and disassembled at blistering speeds. Despite Shiv technically being a whole Tier superior to both his companions, he lacked the logistical efficiency possessed by the other two. Uva’s mind worked many times faster than his, and Adam's clones could do things without micromanagement.
+
+It was another reminder that “superior skill and power” were situational concepts. Sometimes, even a Legend could be outdone by a mere Adept—especially in relation to specific environments or expertise. Shiv suspected that no matter how powerful he got, no matter how much effort he devoted to his overall skill progression, there would be parts of himself inferior to Adam and Uva. He might never have the former’s awareness or be able to match Uva’s cognitive endurance and processing power.
+
+But on the other hand, he walked a Path they could never parallel. Not even if they wanted to.
+
+After all the orc meat was neatly diced into a proper pile, Shiv used his Biomancy field to carry them all back to the kitchen, where the others were waiting. As he stepped into the brightly lit room, a horrible, rank smell assaulted his nose. Shiv gagged, and Adam almost blacked out, stumbling mid-step, and required Uva to catch him so that he wouldn't fall over.
+
+Placed atop an active viewing station were three cans of beans. On the sides of the tins, Shiv saw large peppers sporting a wicked smile and holding a blade in each hand. The image emblazoned on the cans swore to “sting your tongue until you spat it back out.” Paprika-colored steam rose from the open lids, and the smell got worse with every passing second.
+
+Next to the station stood Jessica. In her right hand was Rusty—shrunk down to the size of a kitchen knife. As the trio cautiously approached, she grinned and pointed it at them. “Greetings, kids. I am your chef. Your meals await.”
+
+"What in the names of the Ascendants’ even is that?" Adam gasped, pinching his nose as he struggled not to tear up.
+
+"This is the special stuff I brought with me during my campaigns. I forgot I had a few still left over." Jessica chuckled evilly. "Forget about Jacobson’s, kid. This is Pepper John’s Hyper-Spice. The guy who made this killed himself a few years ago after he went out of business, so they're really rare, and you better savor them. It's not every day that you manage to acquire a relic from the past."
+
+"And how did this man go out of business?" Uva deadpanned, hiding her disgust better than the two she was standing beside.
+
+"No one bought his rations anymore for some reason. Wasn't selling. I was practically his only customer toward the end. Poor guy. Felt bad. I was one of the few people who showed up to his funeral too. It was pretty hard watching his wife and kid stand over his casket. They tried to keep the business going for a while, but eventually ended up selling what they had left to Silverclaw’s Seagrass." Toward the end, Jessica's countenance turned into one of genuine disgust.
+
+However, a single name she uttered hit Shiv like a whip crack across the back. "S-Silverclaw?" he stammered.
+
+"Some kind of Awakened crab or whatever. One of those rebel types. Fights for the dignity of sea creatures everywhere. He's a staunch vegetarian, martial pacifist, and all that stuff. And apparently…" She leaned in to whisper in his ear, "He's got a thing for human males. Likes ravishing them. Sounds like some kind of weird rumor a guy would make up after a little too much alcohol and with a little too much interest in zoophilia, but you never—”
+
+Shiv’s mind rejected this line of dialogue. He chose to redirect the conversation’s trajectory. "You know something, Jessica? I don't want to think about Silverclaw right now. Let's try the beans."
+
+That statement, more than anything else he'd ever done, made Adam's eyes widen and bulge. "You're genuinely going to try that, Shiv? It smells like... like literal death! If I had to put vileness in a can, it would be that."
+
+"Hey!" Jessica snapped, genuinely offended. "It doesn't smell great, but it fills you up good, alright? Once, I ate this while I was an Adept, and I stayed up for a month. Didn't need to eat or drink anything the whole time either. Trust me, it packs a real kick. Just try not to breathe in while you eat."
+
+"Shiv, please, you don't need to do this," Adam begged.
+
+"You really don't. It smells bad," Gone called out from the other side of the kitchen. She had a patch of duct tape over her nose slits. Nearby, Candles lay face down, his limbs splayed out in different directions. The Pyromancer was utterly out of it. Sitting cross-legged on top of him and staring warily at Jessica's “cooking” was Five. He had constructed a strange metallic mask using his machinery-shaping skill, and with every breath, Shiv could hear air filters activating.
+
+It was only then that he realized someone was missing. "Hey, where's Valor?"
+
+"I've been here the entire time," Valor said, a step to Shiv’s right. Shiv nearly jumped out of his skin. Adam dashed back, letting out a panicked yelp—and slammed into Uva. Instead of being knocked off her feet, her body folded in awkward directions, turning into something like a slingshot before she snapped Adam back in place.
+
+"Broken Moon, Valor!” Adam hissed. “You didn’t need to sneak up on me!"
+
+"I wasn't trying to sneak up on any of you," Valor replied with the faintest hint of pride. "You were simply not paying attention. And so you failed to notice me."
+
+Adam wanted to argue, but decided that apologizing to Uva took precedence. “Uva, I—”
+
+“It’s fine, Adam,” Uva cooed. “Why else should I bend in strange and unnatural ways other than to keep you from slamming into random walls?”
+
+"You should try Legend Hawgrave’s cooking," Valor encouraged. "I don't think the taste of the beans is so bad. It might be peculiar, but I find it is quite similar to..." The ancient Pathbearer stopped to consider a proper description for the canned meal, waving a hand around. "I think it's a bit like a durian."
+
+Shiv eyed the cans. "A durian, huh?" But his thoughts veered to a violent halt as the greater implications behind Valor's words presented themselves. "Wait, you tasted it? You ate it? You can eat now?"
+
+Valor smiled. "I have my torso back, and though my Biomancy isn't at its previous peak, I can still emulate a stomach and especially a tongue long enough for me to gain appreciation of how something tastes."
+
+Twin emotions clashed inside Shiv. He was overjoyed and offended at the same time.
+
+"You could have waited, Valor! I could have fed you first! Your first meal after forty years didn't need to be… this stuff."
+
+"Hey, stop insulting my beans," Jessica said. She seemed genuinely disheartened by this point, and Shiv was almost starting to feel bad.
+
+"It's really quite fine," Valor said. "I was surprised at Jessica's ability to, eh, get Candles to heat up a few of her rations. Really, you should try it. The smell is bad, but the taste is, well, I wouldn't say divine, but more than passable for a soldier."
+
+"And besides, you made a promise to me. We had a competition, and you lost." Jessica waved her kitchen knife at Shiv threateningly. "So, are you going to be honorable and do the right thing, or are you gonna chicken out because the beans give off a bit of a weird smell?"
+
+Shiv's gaze once again snapped to the cans. “A bit of a weird smell” was certainly putting it lightly. It was moreso what he expected a special kind of hell to smell like. For the briefest of moments, Shiv considered fleeing. He could stop time, reverse time, revert himself to where he was outside, and just run. Or he could use his Severed Shadow to flee without anyone noticing. Afterward, he could have his physical body commit suicide or something. It wouldn't be able to track him that way.
+
+Actually, let's test something, Shiv thought to himself. He created a temporal shell around his Severed Shadow, and immediately it jolted three seconds backward in time to where his physical body had been. A thrill coursed through Shiv. His physical body and his Severed Shadow were technically the same entity. That meant all his positions across time were interchangeable. He could flee if he wanted to. He really could.
+
+But Shiv didn't. After all, a promise was a promise. And how bad could a can of beans be?
+
+"Alright…" Shiv sighed. He took a final step forward and stared down, where he saw the black-red beans glaring back at him. They looked a bit like angry little decapitated heads. He didn't even know why he thought they were angry, just that there was an aura of menace to them. Must be overthinking this. "Jessica, if this thing tastes as bad as it smells, I'm killing myself."
+
+She waved him off dismissively. "Please, kid, you commit more suicides in a day than someone picks their nose. If you want to make me feel bad, you're gonna have to try a little harder than that."
+
+Shiv scoffed, picked up the can of beans in the middle, and, without any more hesitation, poured it down his throat. He heard Adam breathe in sharply. He felt everyone's eyes narrow in on him.
+
+And the flavor was…
+
+The taste was…
+
+Shiv swallowed hard. The food went down into his stomach like a tombstone plunging into a body of water.
+
+"So, how is it?" Jessica asked, leaning forward.
+
+Shiv didn’t give her a verbal reply. Instead, he tried calling his Last Morsel to hand, only to realize it was stuck with his Severed Shadow. Shiv grunted in annoyance and had his Revenant form deliver the frying pan to him using tendrils of Vitae. The frying pan slipped in through the doors and was dropped on the grill before Shiv. Everyone looked on, wondering what he was about to do.
+
+Just as Shiv prepared to behead himself to annoy Jessica, something made him hesitate. There was a gleaming crimson glow that radiated out from the bladed rim of the Morsel. It was the color of vitality infused in the edge. And within that color came a rippling presence, a cutting presence. Intuitively, Shiv realized that his new soul power now extended to anything that could be used like a knife. Shiv released the Last Morsel. At the same time, he guided his Severed Shadow back into the room and had it solidify. As it strode past a confused-looking Adam and Uva, Shiv wasted no time. He used his physical body to reach inside his dimensional cape and pull out the gift he'd received from Georges on the day of the eclipse—Halspur’s Perfect-Edged Chef’s Knife.
+
+The same vital glow ignited along the edge of the blade, and that confirmed his instinctive realization.
+
+"Huh," Shiv said. "I was planning to cut my own head off to be dramatic, but, uh. This is more interesting. Looks like anything I can use as a knife gets coated in my Vitae. It also gains my cutting aura too."
+
+"Shit, really?" Jessica tilted her head. "You know what? I'm not even offended. Cut your head off. I want to see if you can do it. You're pretty damn tough, so if I were you–"
+
+Shiv didn't need any instructions on how to conduct a proper suicide. He immediately dragged his knife along his neck, but instead of the naked metal kissing his skin, it was the cutting aura that washed through him. The cutting projection split his Heroic-Tier Toughness apart like a scalpel passing through butter. Shiv's material durability offered no resistance at all. The only difficulty that he felt along the cut was when he hacked through his physical body's Aegis of Assimilation. A detonation of pain filled his mind, and Shiv nearly doubled over, but through the mana strain, he remained focused, too entranced by the things he was discovering.
+
+Everyone else seemed to notice too. His cutting presence bounced and bent as it greeted an opposing mana field. But even so, the Heroic magical skill he infused in his physical body was only bone before iron blade. In the end, his head toppled free of his body with a spray of blood. The cut that remained was so finely made that Shiv felt there was some artistry there.
+
+This Severed Shadow of Blood and Bladed Soul 164 > 165
+
+If someone could get a Suicide skill, I might just end up as the first Legend, Shiv thought semi-sarcastically.
+
+Comedy 10 > 11
+
+He chuckled dryly. Thanks, System. Great consolation prize.
+
+Skill Gained: Coping (Common) 1
+
+And it stopped being funny for Shiv. Fuck you.

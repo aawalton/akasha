@@ -1,0 +1,179 @@
+---
+id: 3f42914c-61ad-5a67-8738-5493044342da
+page-type-slug: story-chapter-royal-road
+title: "Chapter 19: Killing"
+slug: 0019-chapter-19-killing
+partOf: phoenix-ascension-cultivation-litrpg
+position: 19
+ownLength: 1882
+unit: words
+publishedAt: 2025-09-06
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2579525/chapter-19-killing"
+royalRoadId: "2579525"
+---
+
+I figured the way out after remembering the map the Nirvanic Flames created for me, though as time passed it began to fade away. It was still fresh enough for me to find the first entrance, and from there I’d already memorised the way back.
+
+However, I hadn’t expected to meet something that didn’t resemble a Spirit Beast on my way back.
+
+No, what I met was not one, but a group of cultivators. Seven of them, roaming the forest like they owned it! Three of them wore similar clothing and looked alike— they must be brothers and sisters— with the symbol of the flying sword stitched on their chest.
+
+The rest of them all wore a different colored robe, with a different symbol each. A blooming lotus flower, a shiny jade, a colorful Phoenix— the gall!— and a round pill.
+
+I hid within a bush, activating my Stealth skill and stalking them. When I first met those two cultivators, my Universal Language didn’t work well; however, it seemed to be doing much better now.
+
+“Why are we even roaming here anyway?” The man with the round pill symbol asked, his voice arrogant and annoyed. “There’s nothing in this part of the forest. All the good things are being snatched by the other sects.”
+
+“Quiet.” The flying sword man said, his sword-like eyebrows furrowing. “We were sent here by Elder Fo, if you don’t remember. One of our tokens had been activated some time ago, but there were no survivors to speak of. All of their Life Jades shattered.”
+
+“So a Spirit Beast activated it? Big deal!” the one wearing the lotus flower uniform, a woman, said.
+
+“Spirit Beasts can’t activate tokens.” The flying sword woman interjected, anger and annoyance obvious within her voice. However, there was also a hint of grief.
+
+“Little sister…” The other flying sword member said, patting her on the back. His expression had softened as he spoke. “We’ll get our revenge for Senior Brother Shen. That damned bird—”
+
+“The Phoenix, you mean?” The Phoenix symbol wearing man said, his scarlet hair almost burning my retinas.
+
+“The Phoenix…” The sword-shaped eyebrow man continued, “We’ll roast it alive for what it did.”
+
+Were they talking about Mother? Was that ‘Senior Brother Shen’ one of the people she killed all the way at my birth? What gall! After they murdered my siblings?
+
+Anger flowed through my veins like lava through a volcano, and it took everything I had in me not to jump out and fucking murder them. But I sat and listened, the murdering would come later, information was precious.
+
+“What can we even do?” The man wearing the pill symbol said. “Senior Brother Shen was at the late stage of Foundation Establishment and we’re barely in the middle stage of Qi Condensation. There is no way we can do anything about it. I don’t even know why the sect elders sent juniors to scout the area.”
+
+“They didn’t send anyone… they took off on their own after seeing the elder’s Life Jades shattering. Who would have expected to meet the Phoenix so far from its nest?” The guy wearing the Phoenix symbol explained, as it didn’t seem like anyone else knew about it.
+
+However, I didn’t know what pissed me off more. The way they talked about Mother or the fact that somehow, at least four different sects united to kill her.
+
+What is going on? Are they that desperate? It doesn’t seem like that demonic cultivator is giving them that many problems!
+
+“Shut it already and let’s keep movi—” The sword-shaped eyebrows guy began, but stopped and took a careful look around him.
+
+He noticed me.
+
+“Senior Brother what is—”
+
+I didn’t hesitate anymore. The moment they saw me was the moment I would get attacked.
+
+I had to take the lead.
+
+Since it looked like we were at the same level of cultivation, I decided to take my chances. Running wasn’t an option, not without flying, and I didn’t know what sort of techniques they had.
+
+It’s been a while since last I’ve killed.
+
+The sword-shaped eyebrow man’s pupils constricted as a ball of Nirvanic Flames flew straight at his head at a speed faster than he could react to. It made contact, instantly burning off his skin before he put it out with a wave of his hand.
+
+I jumped out of the bush, priming my Iron Claws with Nirvanic Flames and surrounding my body with Phoenix Fire. Blood spewed out of his neck for a moment before the wound cauterized, however the throat had already been severed.
+
+Within a few minutes, he would choke to death.
+
+I sped out of there, dodging a sword attack from the younger sister. The sorrow on her face couldn’t be described, but then again, neither could Mother’s grief.
+
+Without any movement skills, I decided that my best course of action would be to take advantage of the shock and jumped. Using both my talons and beak, I attacked her face, causing her to drop her sword in fear.
+
+I poured more Qi into my flames, and she caught fire as easily as dried hay. I didn’t care whether she lived or died for the moment, because a wave of sword Qi hit me on my right side.
+
+Luckily, I had Strengthened Constitution active, so the damage was minimal. I turned my head, glaring at the one who did it, the pill guy.
+
+With an angry screech, I weaved a few wing signs and turned the Nirvanic Flames and Phoenix Fire surrounding me into two serpents, which then grew claws. A snake without legs is just a snake, but a snake with claws was a Dragon.
+
+For people in the middle stage of Qi Condensation, they’re far too weak. Far too inexperienced.
+
+[You have slain Meng Bai, [Cultivator] Lvl 3]
+
+[XP Acquired]
+
+So his name was Meng Bai? Poor bastard, I guess.
+
+I shook my head, not letting that push away the fact their faction not only killed my siblings, but also threatened Mother.
+
+The two fire dragons, one made out of Nirvanic Flames and one made out of Phoenix Fire, kept the pill guy occupied.
+
+I turned toward the blooming lotus woman, but she had all but frozen in fear.
+
+“Weak!” I cried out and slashed her throat. She didn’t even flinch before dying. I hadn’t gotten any notifications yet, but I would make sure to check them when things settled down.
+
+My anger hadn’t settled. In fact, seeing just how pathetic they were made me even angrier.
+
+I looked toward the pill guy and saw that the two serpents had already taken care of him. With that, it should be all of the—
+
+“Phoenix.”
+
+Great.
+
+The last one, the one I’d forgotten about, and the bastard wearing the symbol of Mother, murmured under his breath.
+
+I sent a flying kick toward his jaw, knocking him unconscious.
+
+***
+
+Where am I…
+
+Lai Meng woke up with a skull-splitting headache. His arms and legs were tied with some sort of rope made out of grass, and if he tried hard enough, he bet he could easily break it.
+
+But he didn’t.
+
+Without knowing where he was he wouldn’t make any rash moves. He tried to remember what happened right before he fainted, and between the burning people and fountains of blood, he recalled.
+
+“Phoenix!” He yelled out, his voice echoing throughout the empty forest.
+
+“So you woke up.” A soft, faint and dainty voice echoed in his head, and when he turned to look at who or what spoke, his eyes almost fell out of his sockets.
+
+There, right in front of him stood a dog-sized bird with six bags of holding tied around its neck. He found the image comical, and he would have laughed were it not for the fact that it had killed all of his friends.
+
+Well, ‘friends’ was a big word, more like forced teamwork.
+
+In either case, they were gone, and it seemed like the Phoenix had claimed their spoils.
+
+“Phoenix…” He repeated again, stupified.
+
+“How long are you going to say that for?” The Phoenix asked, its voice clearly annoyed. It walked forward, its eyes staring right into Lai Meng’s soul. “Tell me what I want to know unless you want to be turned into ash.” Its tone turned solemn, and he could only nod.
+
+“Why were the six of you, weaklings, roaming around my forest?”
+
+“We— Lord Phoenix we—”
+
+“Speak clearly!”
+
+“Lord Phoenix, we didn’t know. We were just investigating our member’s mur— er… disappearance.”
+
+“That doesn’t answer my question. Why were you weaklings, specifically, roaming about?”
+
+“That— Because this part of the forest doesn’t really have any dangers. It’s mostly low level Spirit Beasts, so we were the ones sent. We don’t exactly have the manpower to spare.”
+
+Lai Meng spoke surprisingly calmly for someone held hostage. It must have been because the Phoenix’s appearance was quite cute and snuggly like, with puffy feathers and a tiny figure. Adding to that the large bags of holding she had no business having, and he barely held back his laughter.
+
+“Is something funny?”
+
+He turned solemn.
+
+“Answer my questions without any distractions, understood? If I don’t like what you’re saying, I will kill you. I may spare your life if you please me.”
+
+***
+
+[You have slain Lai Meng, [Cultivator] Lvl 3]
+
+[XP Acquired]
+
+“Useless trash.” I grumbled, walking away with seven bags of holding hung around my neck like I was some sort of cloth holder.
+
+That human didn’t have any valuable information. He did tell me that there is someone looking for Phoenixes, dead or alive, preferably alive. The rewards for hunting us are huge, but nobody knows who the actual requester is.
+
+They were actually just looking for remnants of the people that died around here, both those that wanted to kill Mother and the two fuckers that killed each other.
+
+It seemed like me sending a signal all the way back then also had something to do with it, as it alerted them. Though that's strange, I activated the token at our first nest. Or was it the guy that got killed by that woman that alerted them?
+
+Besides that, he blabbered about some sort of war, a sect coalition, righteous vs demonic, lots of bullcrap I didn’t care about. Mother might, though, so I’ll just tell her once I get back to the nest.
+
+When I got close to the nest, I killed a chicken, skinned it and ate it. Then I waited for the blood to dry and took out all the shinies and cores, creating a makeshift bag like I’d done before.
+
+I controlled my desire to check the bags of holding, and hid them away, as I didn’t know how to explain that one to Mother, then I climbed up.
+
+After all the stats and levels I’d gained it was much, much easier than compared to before.
+
+However, Mother wasn’t home, much to my disappointment, and I could only wait.
+
+Growl…
+
+Ah, I’d forgotten to eat more. I haven’t had anything substantial besides the tiny chicken I found around the nest, but I fought and used energy all day and night. It would probably be a good idea to go hunt until Mother returns.

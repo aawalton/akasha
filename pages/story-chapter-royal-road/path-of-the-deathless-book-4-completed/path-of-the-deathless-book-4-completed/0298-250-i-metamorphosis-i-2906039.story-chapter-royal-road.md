@@ -1,0 +1,127 @@
+---
+id: f9ed113a-6efe-582d-921e-88d1cffab053
+page-type-slug: story-chapter-royal-road
+title: "250 (I) Metamorphosis [I]"
+slug: 0298-250-i-metamorphosis-i-2906039
+partOf: path-of-the-deathless-book-4-completed
+position: 298
+ownLength: 2671
+unit: words
+publishedAt: 2026-01-02
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2906039/250-i-metamorphosis-i"
+royalRoadId: "2906039"
+---
+
+People want to be lied to. The thing is that you're trying to find the right lie. This goes for more than people. Animals can be tricked with Psychomancy as well. It's not that hard. Animals are even easier to trick because you know what they want. They have a series of assumptions in their mind that you can string together. You can give them a vision, the sensation that they are stalking their prey. They don't know that they're sinking their fangs into your neck, that you are struggling against them, trying to throw them off, that you dash them against a boulder, and they need to try again, and finally that you're going slack. Meanwhile, you've walked away and are nowhere near danger.
+
+This is the sublime beauty of liesmithing. Liesmithing is an art for all Psychomancers. However, few fully master its true potential because so many use their powers in a way a brute might, by forcibly tugging and deforming what another might remember or what another might cognitively perceive.
+
+This is not the efficient way of doing things. When you are a Psychomancer, your power is soft. Your power is suggestive, influential, more than it is destructive. But it is influencing the very foundations of every other entity that can think, that can dream, that can be.
+
+You can infuse your Psychomancy inside an awakened weapon. Make it think it cut you, and you dodged. It will confuse its functions. It will throw off its wielder.
+
+Everything is because we seem to think it is. We perceive the world. We judge things through our sensations. We imbibe the details that our minds tell us, and it is in these details that everyone can be betrayed. The greater the lie, the harder you must strain your Psychomancy. So make it a small lie, make it a million small lies, make every small lie within their expectations.
+
+Prey upon a narcissist's need to prevail, to dominate. Prey upon the doubtful and make them see shadows in every corner. Prey upon those who suspect you by giving them another reason, another trail to walk, to follow. Prey upon those who trust you by amplifying their resolve.
+
+Prey upon all these people, and know that it is because they wish to believe that you wield this power. Psychomancy is about the mind, but the mind is also tethered to faith. And every individual and monster wants to believe something of themselves. You just have to find out what.
+
+-Yearn for the Lie: A Treatise and Guide on Psychomancy
+
+250 (I)
+
+Metamorphosis [I]
+
+The scene played on, and Shiv realized they were moving closer, but the perspective they viewed the carnage through was bobbing, going up and down, and every now and then, it winked out. Shiv narrowed his eyes, trying to understand why, but the Headmaster explained the reason succinctly. "I’m tapping into one of the Stranger's many little parasites. A little thing I learned to do after the Stranger used me as a doorway to dump one too many of them across into our world. I very much didn’t appreciate that. Presently, I believe they’re trying to rip your so-called Blackedge apart."
+
+Shiv barely noted the "so-called" part and the Headmaster’s sardonic smile as the monsters zoomed in closer. The dense, eldritch jungle was teeming with Recollector-like creatures, each one of them bursting out from the massive trees, pushing free between furrows of parting sinews, ripping from large pustules that sprayed dust and strange color into the air rather than bleeding.
+
+They fell upon Blackedge as a swarm, trailing echoes of their past selves extended along chains of tarnished gold. One after another, they slammed against Uva's Psychomantic cocoon, tearing and wrenching away strings infused with divine power. Even so, other strands came to strike back. Other strands speared through the miniature Recollectors, ripping them asunder from within, igniting them with the Starhawk's divine might.
+
+The Outsiders were determined to render Blackedge unto ruin, but Sister Uva Mettabon was not there to accommodate them. They might be ripping through her protective shell; they might even eventually get to the remnants of the town within, but it would cost them, for slaying a Heroic-Tier Pathbearer infused with Divine power demanded a hefty price.
+
+A price that the Stranger seemed more than willing to pay.
+
+A voice filled the room, one that made Shiv's bones rattle, made his gums hurt. The Stranger issued commands to his pawns, but they weren't spoken in any tongue Shiv knew. They were pure intention, pure malice, pure hunger. A desire to possess, a desire to hollow and nest his essence within the Seeker, to use her as a channel for his eldritch might in realms claimed fully by the System.
+
+Breach the Psychomancer's hive, rend the human nest asunder. Find the Seeker, claim her, claim the Divine Fragments, claim the Starhawk, claim the Dreamtaker, feast and devour.
+
+"Get me across," Shiv snarled. "Get me across right now!" His heart was hammering like a war drum. He needed to be in this fight. He needed to help Uva, help Blackedge. Adam was no less agitated. He was shaping a Veilpiercer, trying desperately to reach over to the other realm. His eyes were glowing bright with Divination mana, but judging from the pure stress on his face, he couldn't get a read, couldn't find an angle for his shot.
+
+"Can't do that," Hymn said, wagging his index finger. "I don't have an easy way to physically breach the Outside from within the capital, not without all of the Ascendants noticing. And quite a few Legendary and Heroic Pathbearers too. Doing so anyway would end with me very dead and other Seekers performing their own Out-Walking rituals. If I open the Outside in my usual way, I will also open my mind and soul. Right now, we're tapped into the perspective of an Outsider. Now—"
+
+"I don't give a shit who we're tapped into," Shiv snarled. "I need you to get me across. She needs my help. She needs me now!"
+
+And though Sage of the Enkindled Heart allowed him to wield his anger and fury, he had more emotions than that. Fear and overwhelming anxiety were still beyond his capacity to control. Worse than both of those combined was helplessness. Helplessness to save someone he cared about. Helplessness as a town he'd done all he could to save was damned to destruction anyway. Not even at the hands of Sullain, simply because it was trapped in a place it shouldn't have been—driven there because the Ascendants and their Avatars were treacherous fools.
+
+Then came a loud and reverberating roar. A roar that resonated so deep inside Shiv it awoke a primal urge inside of him to fight, but the urge was different within Adam, within most of the other Pathbearers present. The Gate Lord flinched, and a look of utter terror crept over him. Gone blurred and appeared at the other end of the room. Dozens of Kura's time clones exploded out from her. Candles's fire briefly winked out, revealing a warped and charred body beneath. Five whimpered much as a dog would.
+
+The orcs, meanwhile, simply cheered, relishing in the coming of battle.
+
+From the perspective of whatever eldritch beast Hymn had hijacked, something plunged down through the blinking foliage above. For a moment, Shiv thought it was a falling tower or some kind of toppled pillar. A second later, he realized that was very much not the case. Human-made structures didn't have chasm-sized, sharp-fanged maws dotted with blinking eyes of baleful red lining their lengths.
+
+Lashing tentacles extended from the enormous entity, and Shiv saw that it dwarfed Blackedge by twice over. Instead of slamming full force into the town, however, it came to a brief halt, and it channeled a massive cone of Chronomancy downward. Time came to a halt within that cone. The Psychomancy cocoon rotting over Blackedge went still as the eldritch monstrosities continued to seethe. They splashed into that cone of gold and tore at the now-unmoving cocoon.
+
+They pried the strings open. They tunneled their way in. Bit by bit, more Psychomancy mana was ripped asunder, and flowing spills of incandescence filled the eldritch expanse. Shiv's knuckles were clenched so tightthat  one of his fingers popped out of its socket.
+
+"What is this?" Adam spat. He was glaring at the Headmaster now, and his bow was out. Trickling streams of water circulated around his body, but Hymn seemed almost bored.
+
+"Just give it a second. You'll see." Hymn chuckled. "She's pretty clever."
+
+Before Shiv could demand an explanation, the scene before them suddenly changed. Instead of standing witnesses to the final destruction of Blackedge, he found the eldritch nightmares ripping into each other. Massive beasts shaped from hands and eyes clenched and grappled, ripping away fingers from one another's bodies, lashing and hammering each other to bloody paste.
+
+Instead of tearing Blackedge asunder, they were ripping apart a colossal eldritch tree trunk. Black blood that quivered in shifting and regenerating motes filled the air. Meanwhile, that huge, colossal index finger that hovered above crashed into a nearby swarm of smaller monsters. Smaller monsters that promptly tunneled their way into its body and started ripping it apart from the inside out.
+
+And through it all, Shiv saw them, the faint strands of Psychomancy snaking about. They were hair-thin, and the incandescence infused with them was dim, but they were there, and they stung various eldritch beings, affecting their minds and twisting what they perceived. One such strand slowly detached from the creature that Shiv and the others gazed out from.
+
+Slowly, understanding blossomed inside Shiv. A laugh escaped from him as his tension dissolved, as his frustration turned to dust. "She twisted their minds? All this is her Psychomancy?"
+
+"She also surprised me the first time," Hymn said. "I was briefly peeking across from one of the Indexes, trying to figure out what's happening in my patron’s domain that's causing such a stir. Imagine my surprise when I find Roland Arrow’s half-destroyed town there, being ripped apart. Then, a few seconds later, I discover that the town isn't quite so destroyed, that everything that I beheld was merely a falsehood constructed and implanted in the very beast I viewed from. And then I find out that she did so over and over again to a countless number of the Stranger’s offspring.” Hymn nodded approvingly. "For someone to twist the mind of the eldritch means they are beginning to comprehend the eldritch. Which, in turn, means they are a Psychomancer possessed of exquisite understanding."
+
+Shiv's joy dimmed immediately. "She's beginning to understand the eldritch."
+
+Hymn smirked darkly. "You understand what that means, then? Has the Eldest tried to take her?"
+
+Shiv clenched his teeth.
+
+"I'll take that as a yes, then. Well, my guess is she's undergoing metamorphosis right now. She is somewhere in between. And if she's simultaneously the Starhawk's Avatar, a receptacle for the Dreamtaker, and also being transformed by the Eldest... They're trying to fight over whether she's reborn or something's born from her. But, at least for the time being, she is a very powerful Psychomancer with a special insight into the inhuman."
+
+"I told that fucking thing to stay away from her," Shiv growled under his breath.
+
+"What? I'm lost now. What is the Eldest?" Adam asked.
+
+"Some eldritch bullshit-thing that the other eldritch gods can't really detect. That thing was trying to creep up inside of her. Apparently, when it settles into you, it twists your skills into some kind of Eldritch version of themselves. Then, when enough time passes, either you are reborn as some partially altered abomination or you have one hatch from you."
+
+The Gate Lord sputtered with horror and disgust. "And you didn't think to tell me about this?"
+
+The Deathless grimaced. "Adam, I didn't want to give you any more nightmares. Also, I thought I'd dealt with it."
+
+Suddenly, Hymn was interested in this conversation as well. "Dealt with it, how?"
+
+"I reached into her soul, I pulled out what that thing was trying to grow inside her, and I broke it."
+
+"You broke a parasite of the Eldest.” Hymn stared at Shiv like he was lying.
+
+"Yeah, I had to get a little bit creative with my Chronomancy to even catch it, but it came apart and even gave me a Feat. Lets me leave wounds across time and causality.”
+
+"Causality," Hymn repeated. "You have the ability to make sure the injuries you inflict on acausal creatures remain intact."
+
+Shiv shrugged. "Something like that."
+
+"System, no wonder the Stranger despises you so much. You killed one of his Recollectors too, didn't you? He was screaming about that. Wouldn't stop screaming about that. Ruined my sleep for weeks."
+
+The Headmaster scoffed as if he were talking about the neighbor's dog that wouldn't stop barking. His words were compounded as a massive row of teeth fell upon the creature they were staring out from. The perspective grew skewed as a desperate struggle ensued. A piercing wail crept its way into his very marrow. His ears shuddered from the volume. And the eldritch beast whose perspective they assumed for the instant died wailing.
+
+The yawning gap that loomed where the fireplace used to be went dark, and for a few moments, that was all Shiv saw, nothing but a dark oblivion. He wondered if that was what death was like for the lesser eldritch creatures. Then Hymn waved his hands, and the scene changed once more.
+
+The shadows within the chasm shifted, and before they cleared, he heard a clicking noise. Thereafter, he found himself staring out at Blackedge, still intact, though badly damaged. Starhawk's Perch, however, was the nexus of a grand working. Magical symbols spilled out from the apex of the battered castle. Psychomanctic mana and eldritch colors were entwined together, dancing along the silken strands of Uva's magical field.
+
+A loud chirp vibrated through the room, and he realized he was rigged within a new eldritch beast, but not one of the Stranger's monsters. Instead, this was of the Dreamtaker, he knew, for it swam through the air accompanied by a school of other feathered, eel-like creatures. Their bodies were washed in shifting colors and flicking tongues, and they circled the airspace over Blackedge like a storm, with Starhawk’s Perch in its eye. They weren't alone, however. Other Eldritch beings littered the space as well. Beings that Shiv was familiar with. They resembled jagged fractals, aberrant geometries, and he knew they had been spawned from Uva. With every passing second, more of them slipped free from the silken strands of her Psychomancy as if it were a cleft leading into another world.
+
+Shiv wondered how she was getting so much madness to spawn such creatures. But then he looked down and saw the strands spreading out at the base of Starhawk's Perch as well. It slithered and coiled across all of Blackedge. It flowed through the still-standing structures and refugee encampments, and he saw the people down there, how their minds were connected to her Psychomancy, how she was draining something from them.
+
+The survivors of Blackedge were radiant with unnatural energies; their eyes glowed in shifting colors, but their skulls were aflame with incandescent mana. It seemed that they had found a way to protect the people from losing themselves to the madness. Or, perhaps, someone had devised some sort of strategy to prevent them from being swallowed by the unnatural nature of the Outside. Regardless, Shiv guessed that she was siphoning the madness away from the people and using it as a resource to construct a legion of her own.
+
+A tense breath tumbled out from Shiv’s nostrils as he beheld how some of the eldritch beings were rebuilding portions of the town. Despite everything arrayed against her, despite being hunted and lost in the Outside, Uva Mettabon appeared to be thriving.
+
+Shiv was damn proud of his girl.

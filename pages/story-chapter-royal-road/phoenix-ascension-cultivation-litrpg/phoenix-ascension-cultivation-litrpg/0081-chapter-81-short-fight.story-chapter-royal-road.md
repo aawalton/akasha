@@ -1,0 +1,139 @@
+---
+id: 4de41236-be4d-50e6-bbf0-aa70ec2ea8ae
+page-type-slug: story-chapter-royal-road
+title: "Chapter 81: Short fight"
+slug: 0081-chapter-81-short-fight
+partOf: phoenix-ascension-cultivation-litrpg
+position: 81
+ownLength: 2086
+unit: words
+publishedAt: 2026-01-28
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2988669/chapter-81-short-fight"
+royalRoadId: "2988669"
+---
+
+What the fuck?
+
+It didn’t take a genius to figure out that the demonic cultivator in the crowd was the man behind this incident. I didn’t know how System knew that, but I was eternally grateful for it.
+
+I didn’t hesitate anymore. Rules be damned, courtesy be damned, hiding be damned. Fuck that guy.
+
+I jumped off the ledge and, while still maintaining my human appearance, attacked.
+
+He wasn’t particularly isolated, so I didn’t attack at full strength, but just enough to make the others get away from him. Which they did after noticing the giant ball of flame that was me heading toward them.
+
+The demonic guy must have figured out that he was my target, as he didn’t dodge, but raised a hand to defend instead.
+
+To give him credit where credit was due, he did stop my initial attack, but he must not have expected my follow-up in the form of a fire breath. He dodged that one, and we were fully alone after the surrounding people figured out that we had some sort of feud.
+
+With the area clear, I could stretch my arms a little better. Unfortunately, it didn’t seem like being in human form gave me that much of an advantage. It handicapped me instead, since most of my skills could only be used with either wings or talons, which I had none of.
+
+I could raise the air temperature, but that would damage more than the demonic guy, and I wasn’t about to have a record of slaughtering people in broad daylight.
+
+Even though that was exactly what I was going to do.
+
+But he was a demonic cultivator, so that hardly counted. Not only was he a demonic cultivator, but he was the one who turned Shu Wao Tu astray and even gave the fatty an opportunity.
+
+The two hadn’t paused their fight either, and just from the level difference alone, it didn’t seem like Shu Wao Tu had much of an advantage, so I wanted to put an end to it before he died.
+
+Otherwise, my quest would fail, and all of my work would have been for nothing. At least I didn’t need to wait for that Body Cleansing pill anymore, since he used the fucking thing to become a demonic cultivator.
+
+Seriously, what was up with him? All he had to do was stay put and wait for his sister to fuck that guy up.
+
+Speaking of Shu Xu Ning, it seemed that she stopped crying and took out the core I’d given her. She must have figured that increasing her strength was vital in such a moment. I could not have been more proud of her, and Yo Na was protecting her against certain threats.
+
+With those two working together, I could focus on killing this fucking bastard. Then again, Yo Na could probably kill the guy with one hit, but she didn’t seem all that interested in helping me. It was surprising that she even took on the role of a guardian for Shu Xu Ning, but it was appreciated.
+
+Back to my fight, I stretched my arms a bit as I’d never used the human body to fight, and it was a strange feeling.
+
+The demonic guy, Shang Ling Zi, looked at me with some apprehension, but more than that, there was an intense feeling of anger in his eyes. No doubt he must have gotten mad that I messed up his plans more than once.
+
+If I could, I would have definitely created a Water Barrier to defend against his attacks, but considering that my Water Affinity was still in the negatives, that would be quite a difficult thing to achieve.
+
+However, I still had my own plans, but I needed to get him away from the bystanders. I figured that being able to burn him from the outside in using Burning Wind would be a good strategy.
+
+I couldn’t tell what level of cultivation he had from that one single interaction, though, so I had to gauge his strength before doing anything.
+
+For that end, I created enough fireballs to burn down an entire city and shot them all toward him. Creating them with Phoenix Fire while in human form felt weird, though, and I dearly miss being able to use Nirvanic Flames. They were definitely better for certain tasks, like melting the flesh off someone’s bones.
+
+Fuck these Demonic Cultivators… I will erase them from this earth for what they’d done to me and the people I cared about.
+
+With those thoughts, I didn’t even wait for the fireballs to land and used my mastery over flames to create an incinerating wall behind him. At the same time, I stepped forward using Ember Step, leaving a train of fire behind me while using Elemental Wave mid-step.
+
+Much to my delight, both of those skills finally levelled up to the Intermediate rank, which instantly increased their power and area coverage. It was about time as well, since it’s been so long since I acquired them.
+
+Even though he wasn’t expecting that combination of skills, the demonic cultivator didn’t wave and instead struck with a claw-like hand toward the place where I landed after using Ember Step.
+
+Phoenix Reflex helped by giving me enough information and reaction time to dodge by a hair’s breadth before sending a punch toward his face.
+
+At the same time that I attacked, the fireballs arrived, and he had to face them or my fist, and I wasn’t sure which one I would have preferred either.
+
+There was a third option, as it turned out. He surrounded his body with Demonic Qi and sent it outward in an explosion-like fashion, sending both me and all my fire attacks away. That worked just fine, as I borrowed the force of the explosion to go toward an empty area of the estate and pretended to get hurt by crashing into a building.
+
+I waited for the demonic cultivator to attack me again, which he did after a slight hesitation. That was exactly as I wanted, as I quietly activated Burning Wind right as he entered its range of attack.
+
+The temperature increased only slightly, but I was planning on making it burn really badly once we were in the heat of battle. He must not have noticed the small change, as he walked toward me, tapping his back of holding and pulling out a longsword.
+
+I considered that to be cheating a little, since I had no weapons, nor did I know how to use them besides making them explode. What did I need weapons for when my claws were sharper than many mortal materials?
+
+Too bad I had to keep up the pretense of being a human for the sake of the little girl and her big brother, and also because I didn’t want to get hunted down by everyone in the village.
+
+I kept lying in the rubble until he was only a few feet away from me, and that was when I struck.
+
+The temperature increased to hellish amounts almost instantly as the wind got fiercer, and I stood up, using Ember Step at the same time as Elemental Wave and weaving my hand to create two small fire dragons.
+
+Shang Ling Zi’s face turned from a calm, calculating, and ruthless expression to panic and shock. Unfortunately, I was still missing a finishing move since both Blade Wing and Flaming Talons were not something I could use at the moment.
+
+My fists would have to do then.
+
+The demonic cultivator, taken aback by the same combination of attacks, swung his sword towardmy landing spot. However, unlike before, Ember Step was one rank higher, so he missed me by just enough to allow me to grab his hand with my left, pull, and send him sprawling back with a punch.
+
+Clearly, he was not expecting that, which was rather stupid of him.
+
+Also, my fist hurts.
+
+Using my hands was far less pleasant than using my wings, even though it was only an illusory body; it was a damned good one.
+
+When the demonic cultivator fell back, the fire dragons were already upon him. They bit into him while wrapping and tightening around his body, though they only managed to restrain him for a second at best.
+
+He was far stronger than some fire constructs and easily dissipated them after a light struggle. However, he’d gotten hotter, and so had the temperature surrounding us. I had no issue standing in extreme heat, but any normal human, even with resistances, could not resist too much of my fire.
+
+Unless said human had a Master or better rank of Fire Resistance. That would be quite a funny coincidence, of course, and I would be in quite a lot of trouble, but clearly, that wasn’t the case.
+
+Still, that was just another reason why I needed more elements. Only being able to use the one would be inconvenient; the more opponents I met, unless of course, they were the Nirvanic Flames, but even they had limits.
+
+Back to the fight, though, Shang Ling Zi got up and considered me with caution. He no doubt already knew who I was, at least my human identity, though I didn’t know what he was expecting.
+
+Not being able to trade true blows against him was more than a little annoying, though. I increased the temperature and the speed of the wind. The pavement under our feet began to crack, and his clothes started emitting smoke as the thinnest strands began to curl.
+
+His hair did as well, which made him panic more than before, perhaps realising that the more he was in combat with me, the more he was at a disadvantage.
+
+Before he had any more time to think, I charged at him again, using a similar combination of skills, but instead of using Ember Step to leave a train below or around him, I only used it to get in his face, then opened my mouth wide and used Pyro Breath.
+
+The amount of hot flames shooting toward his face at a speed faster than he could react, paired with the stacked debuff of vulnerability to fire, made it so his eyebrow burned off almost instantly.
+
+His face, too, began melting in a horrible, vicious, and cruel display of violence. The outer skin burned first, revealing the flesh underneath. It didn’t fully burn, of course, but it was quite a sight to behold.
+
+Too bad I could not hold my breath for long in the human form, or I would have gone all the way to the bone.
+
+Regardless, though, that was enough to make him panic. He started screaming, but no voice came out. I wasn’t sure what I damaged— his lings, throat, tongue— or all of them, but he could not make much of a sound anymore.
+
+Afterwards, as much as I wanted to hold him down, he weaved a few hand signs with his free hand and turned into purple mist that disappeared with the wind.
+
+What a strange skill.
+
+I turned off all my fire-related skills afterwards, feeling a little sorry for the guy who would have to repair all the damage I did, and returned to the arena.
+
+The people there, Chiao Zhen included, looked at me with horrified expressions that I could only ignore. I would have done much worse if I hadn’t had to hold back.
+
+At the very least, the cultivator made way for me to jump into the arena. I could scarcely believe those two were still fighting after the commotion I made. Granted, it was a short commotion, but still.
+
+Feeling my presence, the fatty finally stopped and took a few steps back. He looked rather normal, despite the abundant Demonic Qi in his body. Besides his aura changing a little, nothing was exactly different.
+
+Shu Wao Tu, on the other hand, looked like a completely different person. Long white hair, sharp nails, a cold gaze in a pair of red eyes where his black eyes had once been. Whatever that demon did to him, it wasn’t something that could be easily reversed.
+
+I hurried toward him, my footsteps loud, even in my head.
+
+“Miss Imm-” He opened his mouth to speak, his expression more than a little nervous, but before he could say anything more, my right hand flew toward his face, and his head turned as the sound of the slap resounded in the arena.
+
+“You stupid child!”

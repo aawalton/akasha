@@ -1,0 +1,203 @@
+---
+id: be4d6e97-3f54-5b43-9493-fd5382cc38e0
+page-type-slug: story-chapter-royal-road
+title: "299 (II) The Sky-Swallowing Carp [II]"
+slug: 0392-299-ii-the-sky-swallowing-carp-ii-3085323
+partOf: path-of-the-deathless-book-4-completed
+position: 392
+ownLength: 3296
+unit: words
+publishedAt: 2026-02-23
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3085323/299-ii-the-sky-swallowing-carp-ii"
+royalRoadId: "3085323"
+---
+
+299 (II)
+
+The Sky-Swallowing Carp [II]
+
+When he spoke, Shiv heard his own voice echo within his mind. Nothing was stopping him from reaching into his own psyche and inflicting damage. Curiosity won over caution immediately as he decided to take a chance and discover if he could do harm to his own consciousness.
+
+First, though, Shiv let his Severed Shadow fade into its Revenant form. Only then did he shape a blade of Psychomancy and project it toward his physical body. The psionic attack splashed against his mind. He was braced, prepared to endure some measure of mental harm. It wouldn't leave him broken for good, but he knew the pain that came with psychological devastation. Yet as soon as the mind magic hit his physical form, it sank deep into his brain—and shattered.
+
+Instead of his physical body sustaining the damage, his Severed Shadow materialized once more, hardening in an instant as its Shapeless Tides came alive, repelling the Psychomantic jab. Shiv's Psychomancy was so weak that it didn't affect his tides at all. Like a flea dropped in an ocean. But even so, there was something special about this. Something wonderful. Shiv's physical body was not a weakness for mind mages to exploit. Though he could technically reach into his own mind, his consciousness was connected—a direct link between his Severed Shadow and his physical body existed. And so, it seemed like the Psychomancy crossed any boundaries between his two forms and struck at the source of his resurrections.
+
+Shiv looked at the hands of his Severed Shadow. He could see a suppressed aura restrained from slicing all that was around him, could see the tides rushing down each limb. Slowly, the colors were fading. He was leaving context once more.
+
+He stared at his opposite from both directions, slightly perturbed but more curious. “What even am I anymore?”
+
+“I wanna know too,” Jessica called out.
+
+Shiv's physical body turned, while his Severed Shadow raised its head. He saw Jessica standing there, holding a now shrunken Rusty as she tried to figure out what he'd just done. “Did you just attack yourself using mind magic? Felling why?”
+
+“Was trying to see if I could damage my mind by hitting my unprotected body.” Both of Shiv’s forms shrugged. “I wasn't going to break myself entirely. Just do a little jab, see if I lost a memory or something. It's not like there were two of me, so I just wanted to figure out if there was a vulnerability here.”
+
+“And so self-harm was your first resort?” Jessica's incredulity was growing by the second.
+
+Shiv nodded. “Yeah, it's convenient. I don't stay broken. Whatever kills me only makes me stronger.”
+
+“He is technically right,” Rusty said begrudgingly.
+
+Jessica let out a sigh. She moved to try to pinch the bridge of her nose, but her hand collided with the metal of her visor. “If anyone else said that, I'd call them crazy. Well, you're still crazy, but you're the System's special madman, so what the hell do I know?”
+
+“Yeah, I don't really care what the System wants or what it thinks of me. Just trying to figure out what I can do right now. That’s all.”
+
+“How fascinating!” Valor suddenly appeared beside Shiv.
+
+Both forms of Shiv flinched back. “Broken Moon—when did you get over here?”
+
+“When you were busy focusing on Legend Jessica,” Valor said honestly.
+
+“Yeah, well, you didn't need to use your Stealth Skill or anything,” Shiv replied. “I knew where you were. No reason to ambush me.”
+
+“I wasn't using my Stealth Skill, at least not actively. It simply caught you through a passive effect.”
+
+Shiv had the feeling that Valor was mocking him, but didn’t get the chance to confirm it as the ancient Pathbearer's attention returned to Shiv's physical body. He reached out, seizing his flesh-and-blood form by the arm. Shiv didn't resist him. He let Valor yank the limb up, examine it. Valor squeezed his wrist several times and even prodded him with a finger.
+
+“You can feel all that?” Valor asked.
+
+“Every bit of it. Everything about my natural body is the same as it was, except it doesn't have its mana fields anymore and most of my Vitae is missing.”
+
+A rush of Animantic mana washed out from Valor's hand, wreathing Shiv's biological body.
+
+“Valor, what are you doing?” Shiv asked, curious.
+
+“I noticed something about this earlier. Your physical body is empty of vitality. I thought I was mistaken earlier. Or that your new skill has taught you a means to hide your life force. But now…” Valor’s words trailed off as his spellcraft demanded his full concentration.
+
+Extending both hands, a series of shapes spilled out from him. They formed a constellation around Shiv, a complicated series of patterns interlocking and connecting to each other until his natural body was utterly covered, shrouded behind the shifting cocoon of brightest blue. Inside, it looked like bits of the world were snaking around him. He couldn't separate one magical shape from another, but it did look like separate films of oil gliding around each other. There was still some semblance of separation. More importantly, he felt the Animancy. It was hard, thick, but ultimately brittle, and something inside him instinctively yearned to cleave into this inferior mana. A vestigial hatred welled up inside Shiv. It didn't belong to him. It belonged to someone who had a hand in creating him.
+
+Just then, Shiv's Non-Sequitur skill activated as a brief vision flickered across his eyes.
+
+No words followed; it was as if he'd been transported and was seeing something through his own eyes. He saw an enshadowed world, and he saw Udraal, holding his hand high, channeling Animancy into a bright-blue gem. Above his creator was the flayed shape of a Tarrasque, held in place by sky-spanning chains that extended beyond the heavens. Its blood washed down in a continent-drowning deluge, but every drip of its corrupted ichor was directed by Udraal into said gem. And soon, a change took place. Festering, fetid blood, ripped free from the hateful body of the thrashing creature, was concentrated in a thing of pure soul magic. Suddenly, Udraal seemed to turn, and—
+
+With that, the vision broke, but Shiv's insights into his own creator and the nature of his Vitae had expanded by a magnitude.
+
+“It's an act of hate,” Shiv breathed out. “I'm created from an act of pure and calculated hate.”
+
+Valor stopped casting in an instant. The faint blue of Animancy faded, revealing Shiv's bare and physical form. “What do you mean? What happened?”
+
+“I got a vision,” Shiv said. “Non-Sequitur gave me a vision. It showed me what Udraal did to create Vitae, I think. He drained the blood out of a Tarrasque. He had it suspended somewhere. I think he was torturing it too. It looked like it was in pain. And he channeled that into an Animancy item, somehow.” Shiv paused. “I think—I think Udraal created Vitae deliberately to spite Animancy, to spite the System's concept of a soul, and he used the System's perfect monster to do it.”
+
+Valor turned aside and considered Shiv's words for a moment. “That does sound very much like him. Wait, let us try something.”
+
+Once more, Valor extended a hand. This time, he didn't shape any spells. Instead, he unleashed a direct stream of Animancy at Shiv's Severed Shadow. Something lurking inside the Deathless triggered. He'd never felt such loathing for Animancy before. But now, his Vitae was maturing; now that it had evolved to a certain point, there was a natural instinct inside him. No, not his instinct. It was the Tarrasque's instincts, distilled down to the very fabric of his soul and life force.
+
+Valor tilted his head. “Stop suppressing your cutting aura just a bit. I want to see if you can cleave into my vitality, if you can do harm to my mana field.”
+
+“I'm not sure about this, Valor,” Shiv said. Hurting himself was one thing, but risking someone else?
+
+“Relieve yourself of worry. We are doing something of great importance. I also saw how much effort it took for you to cut through the Culturist's mana fields earlier. You left a wound on his soul through your labors, but not a deep wound. Going off of that, this should not deal any lasting damage to me. I think.”
+
+“You guys want to know what I think?” Jessica asked. “I think you're both fucking crazy. And I think you're more insane than the kid is, Lich. At least he gives enough of a shit about the non-Deathless people around him.”
+
+But Valor's confidence far outweighed Jessica's gripes. He looked his pupil in the eyes. “Shiv, trust me.”
+
+And that was all it took to convince Shiv against his own better judgment. He stopped holding his cutting aura back. Ebbing slashes traveled through the air and split through the Animancy mana in an instant. Valor let out a sharp hiss and jerked back. Yet even that wasn't enough. Every bit of Animancy mana that Shiv's cutting aura touched was utterly shredded. The mana was savaged like wet tissue flung into a storm filled with flying shrapnel.
+
+Shiv reasserted control over his cutting aura in the next second. “Valor, you alright?” he called out, horrified that he might have hurt his oldest friend.
+
+“I’m fine,” Valor said, waving him off. “The sheer intensity of the strain simply caught me off guard, is all.” He studied Shiv's Severed Shadow once more. Valor’s body language grew inscrutable—perhaps he wasn’t sure if he wanted to draw closer to the Deathless or flee far away. “The three skills that fused together were your Golemancy, Knife Proficiency, and Vitamancy, yes?”
+
+“Yeah,” Shiv replied.
+
+“Did your Golemancy and Knife Proficiency Skills evolve to Heroic-Tier before fusing?”
+
+“Nope. Just Master-Tier. Both of them.”
+
+For three seconds, Valor was absolutely silent. Then he huffed. “I have no idea what this skill is, and the true ceiling of what it can do. So far, I am certain of a few things: you can slice through Legendary Toughness without any difficulty, and rip through magic and souls as if they are matter. This makes your true form devastating beyond measure—a danger to anything in Integration. Because of this, I suspect—no, I dare bet everything I have—that your Deepest Edge Skill Evolution wasn't a natural development, but a pre-planned thing seeded into your soul by Udraal.”
+
+That gave Shiv pause. “Really? It was a good skill, but it always felt like a pretty ordinary evolution to me.”
+
+Valor shook his head. “Deepest Edge allows your cuts to travel all the way through a physical entity—so its conceptual advancement merged with the shape of an animated vessel would grant you the ability to carve into a soul.” A vicious scoff escaped the lich. “Even your chosen name has become a thing of deliberate intent, or perhaps mockery. You are my son's blade. He intended to jam you into the System's guts to bleed it one way or another. I suspect he will be overjoyed to learn of this development, if he hasn't already somehow.”
+
+“Good for him; don’t give a shit. Let's figure out more of this skill evolution before he comes knocking again so I can maybe try castrating him next time instead.”
+
+“I doubt you will be able to strike at him directly or permanently, considering how many simulacra my son tends to use. Actually, there is another part to this skill that has captured me.” Valor gestured toward Shiv's physical body. “You are resurrecting versions of yourself. Can you make another body? Another physical body, I mean.”
+
+“Yeah, but it gets a little too much for my mind. I can't control all three at the same time. Hells, I can't even control two. Three just overloads me. My Bifurcated Processing isn't strong enough.”
+
+“Hmm.” Valor glided close to Shiv's organic form. “Interesting. Very, very interesting. It's like a perfectly preserved instance of yourself, but it's not a golem. Not like your Vitae golems at all. Can you still create one, actually?”
+
+“I don't think so,” Shiv said. “The way I used to create them just triggers a resurrection now. And I end up making a new physical body instead.”
+
+“Well, do it anyway. If it gets too hard for you to sustain your mind, then Legend Jessica here can put one of your bodies to death.”
+
+“And why am I doing the killing?” Jessica asked, both hands on her hips.
+
+“Because you are frustrated, and guilt-free murder will relieve you,” Valor replied.
+
+Jessica snorted. “I mean, hurting the kid’s guilt-free, anyway. He can't stay dead.”
+
+“Stay away from my ass, bitch,” Shiv said dryly. “You can do whatever else you want, but you stay away from my ass.”
+
+“What?” Jessica's expression shifted into a sneer. “Don't tell me you can still feel pain,” and slowly she began to shrink.
+
+Dormant terror returned to Shiv in a rushing wave. “You stay away from my ass!” He accelerated across the room, intercepting her path to his physical and very nude, very vulnerable cheeks in an instant. “You stay away! You can kill my body, but you won't do the Upcreek Special. Try me, and I'll ram my cutting aura into you until you’re even more height-challenged than you already are.”
+
+“Fine, fine,” Jessica said as if his worries were overblown. “No butt stuff. All you kids are real soft these days.”
+
+Sage of the Enkindled Heart: This cannot stand. We must bully her. Defend our honor!
+
+Shiv shrugged at her. “Yeah, we really are kind of soft. That's why I visit my grandmother every other week so that she can sing me a song where my ass is perfectly protected from nightmarish psycho-crones everywhere who want to make my hole wider.”
+
+Rusty gasped in pure offense. Jessica actually flinched as her body turned transparent and brittle. “You little—you motherfuck—I—piece of…”
+
+Sticks and Stones 82 > 83
+
+Valor sighed. “Ah. Legend Jessica. Don’t argue with Shiv. It’s bad for your emotional and psychological well-being.”
+
+The sputtering continued for a few seconds longer before Jessica let out something between a growl and a laugh. “You are really good at that, you know. The Culturist wasn't bullshitting. You are an emotional terrorist. You really are Veronica’s grandchild, you oversized fuck. I should have never told you shit.”
+
+“Yeah, you were probably thinking that even while you were telling me. But guess what? You're lonely, and frankly, I wanted to listen. Now, let's pretend you never told me about your therapy sessions, and I'll pretend that you didn't rip your way up my ass and leave me feeling an ache in the hole every time I run into someone I’m not sure I can beat.”
+
+“You know what, you piece of shit, you got yourself a deal.”
+
+Jessica extended her hand. Shiv sent his physical body over to shake it. He caught her peeking down several times but decided not to comment.
+
+You know, if the System was really a bastard, Uva would show up out of nowhere right now and walk in on this. But even after she finished the thought, no such thing happened. Because the System ultimately wanted one thing: blood. Drama was conflict too, but Uva was too coldly rational to assume anything untoward—especially with everyone else in the kitchen.
+
+“What’s this about your posterior and her?” Valor whispered to Shiv.
+
+“Yeah, so me and Legend Jessica here had a fight a couple days ago, and she showed me the Upcreek Special.”
+
+“The Upcreek Special?” Valor asked, still confused.
+
+“I turn myself really, really small and then I rip someone apart by cutting my way up their rectum,” Jessica said with a yawn.
+
+Valor actually shuddered. “I—I see.” He briefly patted Shiv on the shoulder as his physical body returned. “You have my pity, disciple.”
+
+“Thank you, Master. Be glad you don't have a real ass for someone to ruin. It fucking sucks.” Shiv shook his head. “Alright, body number three. Let's see it.”
+
+He triggered his resurrection immediately, and the overload came as expected. There were too many senses, too many inputs. There was too much all at once. He stopped being able to sort through everything, and so he focused, concentrating the totality of his awareness in one body: his Severed Shadow. As his new organic form spilled free and staggered forward, he felt it crash down on the ground just as his original physical body did.
+
+Two thuds followed just as Gone appeared in the doorway, body still crackling with golden lightning. She stared at the naked Shiv-ling on the ground and the Severed Shadow half-painted by fading vitality.
+
+“Is this a bad time?” Gone asked, slightly shy.
+
+Yeah, you can come in, Shiv managed telepathically, even though he was on the verge of slipping again. It was hard ignoring two bodies. He could still feel things from them, but if he concentrated hard enough, he could alleviate the overwhelming load pressing upon his mind.
+
+Gone awkwardly shuffled in and swiped at the air. She vibrated her hand so fast that the blood that coated her claws evaporated in an instant.
+
+Valor, meanwhile, examined both of Shiv's physical bodies. When he realized there were no differences, he asked him how much vitae it cost.
+
+“Half,” Shiv answered. “Every single time, always half.”
+
+“But why?” Valor mused. “It doesn't make any sense. A resurrection should cost you a considerable and fixed amount of Vitae, but it shouldn't be half every time. Wait. It shouldn't be half, unless you're actually…” Valor looked away from the physical bodies, and his corrosive eyes burned as he regarded the Severed Shadow once more. “Shiv, I have a new challenge for you. I want you to switch places with one of these bodies. I want you to do it using your cutting aura.”
+
+“Uh, yeah, sure,” Shiv said. “I can give it a try, but don’t expect anything incredible. I already got a lot weighing my mind down right now, and I doubt it’s as easy as just thinking—”
+
+The blade at Shiv’s core ignited, turning into a white-hot shape that filled the room with blinding illumination. At the same time, a pitch-black gap parted the chest of one of his downed physical bodies. The switch happened immediately. From within the blinding blade of Shiv’s Severed Shadow, a body dropped, bouncing off the floor. At the same time, his Revenant burst free from a massive slash that expanded across his physical body—and turned into the outlined edges of Shiv’s blade-shaped core, even as the organic vessel it manifested upon disappeared.
+
+The shift happened so easily, so smoothly, so instantaneously, both Jessica and Valor flinched with surprise.
+
+“Whoa,” Shiv gasped. He nearly lost himself to an overload of sensory information, but kept himself rooted in his Severed Shadow. “That was… a lot easier than I expected.”
+
+“Indeed,” Valor whispered. “Do you think you can—”
+
+Shiv did it again, swapping places with his other physical body. He appeared right next to Jessica, and she barely held her reflexes back, stopping herself from cutting him in half. He smirked. “Yep. Easy.”
+
+Valor let out a quiet chuckle. “Incredible. For this to require no spatial mana at all… The System must think you exist at multiple places at the same time.”
+
+“Impossible,” Rusty declared with utmost confidence.
+
+“Indeed, but clearly not after all,” Valor replied. “Very good. Now—something harder. You could implant a skill inside a golem before, Shiv. Let’s see if you can do the same for one of your resurrected bodies—or even extract a skill from them instead, if that fails. Let’s see how deep your edge truly goes.”

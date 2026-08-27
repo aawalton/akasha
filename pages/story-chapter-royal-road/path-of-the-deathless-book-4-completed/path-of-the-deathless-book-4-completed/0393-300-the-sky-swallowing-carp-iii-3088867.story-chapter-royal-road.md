@@ -1,0 +1,285 @@
+---
+id: 663018f7-e26d-544d-8cf8-80aa3abe4e0e
+page-type-slug: story-chapter-royal-road
+title: "300 The Sky-Swallowing Carp [III]"
+slug: 0393-300-the-sky-swallowing-carp-iii-3088867
+partOf: path-of-the-deathless-book-4-completed
+position: 393
+ownLength: 5605
+unit: words
+publishedAt: 2026-02-24
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3088867/300-the-sky-swallowing-carp-iii"
+royalRoadId: "3088867"
+---
+
+Far too many of my fellow Undying are blind, ego-driven fools when it comes to the utilization of their vessels. Too often, after they manage to split their soul into fragments, they bind them into forms that please their aesthetic desires or allow them to fulfill some manner of pride-driven fantasy. It's practically a pattern beyond parody by this point. Far too common. A new Undying will adopt a body that has none of their previous defects. It will be muscular to the extreme, bearing the most ridiculous of masculine traits, or the most alluring and exaggerated feminine traits, or some other expression of pure primal foolishness. We are meant to step beyond death, but also to step beyond our prior limitations. This means that you can use your new vessels for better functionality rather than this… limited indulgence of vanity.
+
+You can still choose to make yourself gorgeous. You can choose to gorge yourself on the delusion that others will find you wonderful and powerful, when they saw you as withered and wilted before. But this is just that, a delusion, and it matters little what others think besides. With the appropriate skills, you could have bent them to your will anyway. This is just you trying to avoid putting in work. And that will be your inevitable downfall.
+
+There is exactly one thing that a vessel should be for you: a specification that serves your objectives. This is why, if seduction and manipulation are your goal, you should have a vessel that appeals to the specific target’s eye, not yours. Aesthetics change. What I found spectacular and inspirational even a year before is not something I would even look at twice now. This must be tailored to the environment as well as the person.
+
+Something that so many other so-called great Pathbearers tend to forget is that even Legends can be fools. You know of whom I speak.
+
+Sullain, the serpent you've chosen to embody is a colossal waste of metal and has all the subtlety of a meteor impact. You are no warrior. You will never have the attitude of a warrior. Shaping yourself into a titanic monster will grant you fear and reverence from the unwashed and feeble, but if you are still addicted to yearning for their love even now, then I suggest you mourn yourself in advance, for your heart will slay you before a cunning foe ever truly outplays your mind.
+
+And on the topic of waste, your new vessels should be something else: replaceable. For to live is to war, and war, despite what many might think, is not about fighting. Not truly.
+
+War is about the combined resources you've accumulated over time being pitted against that which the System takes from you with every passing crisis. If every vessel you choose comes at an immense cost to you in terms of time and material, then it is a waste! A waste!
+
+And yes, I am chastising myself here. I was a damned fool to try to wear the animated bones of that Void Dragon—a fool! That plan took me years to enact, and I lost the vessel immediately, failing to capture that Mythic world. You are no better than the lustful dogs who cannot let go of their carnal urges among your lesser kin, Udraal! No better!
+
+-Udraal Thann’s Recovered Notes
+
+300
+
+The Sky-Swallowing Carp [III]
+
+Try though Shiv might, he could not make a Vitae golem—not like before. Every time he attempted to forge a construct, he triggered a new resurrection. By the time he had four bodies, even his deliberate focus was found wanting. Every bit of him was overloaded by a flood of new details. It was like wrangling a dozen more limbs and countless more senses. While his Severed Shadow was simply discombobulated, barely able to form words or respond to anyone speaking to him, his organic bodies started undergoing catastrophic collapses.
+
+The human brain controlled a great many processes; even a novice Biomancer like Shiv knew that. The first thing to fail was his heat regulation system. Shiv's natural bodies turned into furnaces, boiling from within. Their brains started cooking, and then their immune system failed, followed by general nervous collapse, causing their limbs to spasm out and their muscles to lock up. Eventually, his digestive tract and organs all ceased functioning one after another. Death came in quick succession, and wheezing rattles filled the room as four sets of lungs breathed out for the last time.
+
+It took Shiv some time to recompose himself, even after his four physical bodies perished. His mind was a turbulent sea. His thoughts were spread thin, and his psyche was stretched in all directions. He lacked the concentration to form a coherent thought and found himself hovering in a semi-aware delirium in which part of him was staring out through a narrow pinhole, realizing that he still existed but unable to do anything greater, unable to trigger the greater functions of his cognition.
+
+The world seemed grayer than ever before, the sounds around him more muted. He was drowning, drowning in himself, until he wasn't—until the seas of his consciousness finally stabilized. And with that, he was welcomed back to the world with the concerned voice of his mentor and a chain of notifications he had ignored for far too long.
+
+This Severed Shadow of Blood and Bladed Soul 159 > 164
+
+Bifurcated Processing 84 > 86
+
+Memorization 26 > 29
+
+Non-Sequitur 136 > 139
+
+Pillar of Orichalcum 287 > 292
+
+Vitality Drain 130 > 138
+
+Leviathan of the Shapeless Tides 508 > 509
+
+“Shiv? Are you alright? Shiv?” Valor stood right in front of Shiv, his emotional core filled with a dense, swirling substance—worry, as Shiv had come to know it.
+
+“I'm fine,” Shiv replied resolutely. He pushed himself to his feet with a flick of his wrists, shaking his head to clear out the last remnants of the haze in his mind. “Four bodies were just a bit too much. Must have stretched my mind apart briefly. And I didn't manage to create any Vitae golems, as you can see. Every time I tried, it was just another resurrection.”
+
+Valor hummed thoughtfully. “It is well. I expected something like this to occur. But we have a lot more things left to test. Start by resurrecting again if you have enough vitality.”
+
+Shiv almost replied that vitality wasn't a problem when he suddenly felt something different. Before, the cruel chill of nothingness was a piercing sensation, like a wind of winter washing through a faint and dying flame. Now his vitality felt like a fortress, a condensed nexus that was far too difficult to penetrate. It felt like he was losing bits of himself instead, his outer layer eroded by that creeping sensation of entropy while his insides burned hot.
+
+As Shiv triggered another resurrection, he felt like an onion being peeled down to half its original thickness. As a new body stepped free from his shadow's brightening blade, his awareness branched out in a novel direction as well. He was now two vessels governed by a single, overwhelmed mind.
+
+With the conclusion of this new resurrection, he also felt something else. The more solidified his Severed Shadow was, the faster he drank in the System's own vitality. His cutting aura was always slicing through the System's flesh, bleeding existence for all the life force that sustained it. If he stopped holding back altogether, Shiv was sure he could utterly unravel the fabric of Integration, at least in a certain patch of the world. From there, mana storms would follow, and general instability would cascade into cataclysms. That was its own benefit, but it also came with its own set of risks.
+
+Meanwhile, when he was but a Revenant, he was like a thorn lodged in the System’s skin. He remained close enough to the world that he still held a presence but could inflict no tangible harm—not without his mana fields.
+
+If he had to guess, it would take half a day for him to reach peak vitality again after spending so much of himself. However, if he decided to be vulgar and simply shred the System for its lifeblood, he might be able to cut that down significantly. Such was how he realized the magnifying benefits this new skill evolution provided Vitality Drain. It seemed like anything that had to do with vitality or Vitae had been changed or adjusted somewhat with the incredible spiritual transformation he had undergone.
+
+Even so, it's still better if I drain from people. I can't sap the System very fast. When I was cutting through the Culturist, it was like I was devouring him from within. If I can just cleave through more enemies, I'll be able to absorb their vitality and probably even carve their skills out of them. It just feels right. It feels proper for my cutting aura to rip into someone's soul and tear their inner legend apart.
+
+“Have you experienced another epiphany, Shiv?” Valor asked. “You've been silent for a while.”
+
+Behind the ancient Undying, Jessica and the other Pathbearers stood gathered, watching on with equal measures of fascination and wariness—except for Candles, who seemed only half awake as Five held him up by the neck.
+
+Shiv told Valor his theories and discoveries, and his mentor hummed with interest. “You are not only growing resilient against the cost that death might inflict upon you, but you also damage the System's stability. Very much my son's handiwork, indeed. Fine, then. If you cannot create golems as you could before, then let's do something else. Can you still transplant an Animantic skill infusion from one body to another?”
+
+“I don't know,” Shiv replied. “Let's find out.”
+
+He reached into himself—and immediately let out a psionic snarl of pain.
+
+Valor stepped forward in alarm. “Shiv, are you alright?”
+
+“I'm fine,” Shiv replied, holding back a rush of self-directed anger. “Just kinda forgot to suppress my cutting aura again. I ended up ripping into myself.”
+
+“Ah, I see,” Valor replied with a hint of relief. “Wait, check yourself. Has your soul sustained a wound?”
+
+To Shiv's surprise, he hadn't sustained any kind of injury whatsoever. But the pain had been real. His soul had suffered damage. He knew that agony well from how many necromantic attacks he suffered and survived. But it was like the substance of his soul had changed. He'd been more gaseous than before, vaporous. Constantly changing and transforming, circulating through himself rather than being a condensed membrane of some kind. Before, for his soul-stuff to bind and stay damaged, he'd had to cycle Vitae in and out of himself to transfer spiritual wounds to another being's body if he wanted an easy cure.
+
+That wasn't necessary anymore. He fully manifested his Severed Shadow and examined his solidified body in detail. There was nothing, no hint of indentation or even a scratch lining his scab-like torso. But he had lost just a bit of his vitality, chipped away by his own carelessness.
+
+Once more, Shiv delved into himself. He used his Bifurcated Processing and kept his cutting aura suppressed this time. As his Vitae mana moved and swirled, his body began to turn fluid. Blood-red rivers ran across his body toward the pristine whiteness that was the blade at his core. And there he fell into himself, groping blindly until he felt his various skills.
+
+His movements slowly grew still as he realized all his skills had changed.
+
+The general texture and sensations he got from sinking into them weren't so different from before, yet now it was like there was an additional layering stacked on top of them, a coating of sorts that made the skills feel elongated compared to before.
+
+“There’s like a… stack of something on top of my skills,” Shiv told Valor. “It makes the skills feel longer and bigger somehow. Like they're being deliberately extended. I don't know. It's just kind of a feeling I get.”
+
+“And your new skill, have you found it?”
+
+Shiv continued searching, but remembered that his new skill evolution incorporated his Vitaemancy. “No,” he finally replied. “I think it might be integrated into all my other skills, or it might be hidden. I couldn't find my Vitaemancy before either, so it's probably the same deal there.”
+
+Valor fell silent, and he waved a hand, summoning a series of Animantic rings. They materialized above Shiv's physical body, and they plunged, sweeping up and down several times before they slid back together, sliding into a strange series of patterns. Valor drew the Animantic spell back to himself and began shifting the pieces that he obtained from this magical scan. Shiv couldn't make out anything, despite being much better at recognizing spell shapes compared to a few weeks ago.
+
+Animancy looked like a nightmarish lore to learn. At the start, Shiv thought it was just a lot of faint blue mana being thrown around, but now he saw it: so many tiny micro-spells, so many diminutive shapes that were barely larger than grains. All of them were connected. All of them were tied to another spell by circuits and veins. If everything was a small expression of Valor's intent, Shiv had no idea how the ancient Pathbearer managed to cast the working at all. The sheer complexity was beyond overwhelming.
+
+For now, Shiv reminded himself. He thought back to when he first faced a mage, when the Adept-Tier high vampire casually obliterated him over and over again. Even the weakest of magics had seemed a wonder to Shiv back then. Impossible, unreachable. But he'd learned, he'd developed, and he'd grown. If all those micro-spells were just small steps he had to take, then he would enjoy that long walk.
+
+In fact, after all the high-intensity combat situations the System kept throwing at him, Shiv was looking forward to a longer walk, something that allowed him to sharpen a true skill across the span of ages.
+
+Valor raised a hand and rubbed at his goatee. “Strange, very strange. The Ritual of the Dichotomous Soul allows someone to part their skills into different vessels, but the soul is still technically shared. You are still bound to yourself, even when your many bodies wander afar. I thought that my son had done something similar with you, that this skill merely allows you to bypass the difficulties and risks of the ritual. But it seems like this is something else altogether. Your skills, they're not parted from you. Your Severed Shadow possesses all your abilities when it fully solidifies, yes?”
+
+“Yeah. Why?”
+
+“Because my Animancy has detected no skills within these physical bodies. They are a void; rather, they are like a distortion or an opening in existence. They shouldn't exist.”
+
+“They shouldn't exist?” Shiv replied, not fully comprehending the implications behind Valor's words.
+
+“They shouldn't,” the ancient Pathbearer insisted. “They are like gaps to something else, a wound left behind. Not really bodies spiritually, but exits, connections to you. If I were forced to choose something simple to compare them to, it would be… stab wounds.”
+
+Shiv finally managed to make things click together in his mind. He realized there was a reason why his physical bodies had that hollow gap at the bone lining their chests. He understood why his Severed Shadow possessed that pale blade when he switched places. He was thrusting across, and all these bodies were his instruments.
+
+“Maybe my revenant form isn't the Severed Shadow,” Shiv said. “Maybe the Severed Shadows are my actual bodies. Or at least my organic bodies.”
+
+“Use your Vitaemancy,” Valor commanded. “Reach into them. See if you can find any of your skills inside of them.”
+
+Shiv did just that. But as he tried to channel his vital mana at his physical form, it bent inward, splashing through his gleaming blade and merging from inside the organic body instead. That earned a gasp of delight from Shiv. Not only could he easily switch places, but he could access the soul of one of his physical forms, no matter where they were. He was always connected to them. Always. Because they were a part of him. A branch reaching out across existence, bound to his soul.
+
+The moment he spilled into his physical body, he felt his Vitae splash down from somewhere on top. It was hard to explain. It was like he was in a different dimension of his soul.
+
+And when his magic finally came to a rest, he realized he was pressing down atop the stacks lining his skills. And he gained intuitive guesses as to what these stacks were.
+
+“I think these physical bodies are the stacks,” Shiv said.
+
+To confirm his suspicions, he triggered another resurrection.
+
+Things got hard to manage now, but he could still function with two organic forms laden on top of his Severed Shadow. He had to focus, however; he used his Bifurcated Processing to gather his thoughts and to blunt all sensory inputs coming in from his superfluous bodies. Then he reached across into his other body and quickly discovered another stack placed upon his first. His skills were being built up. Something was weighing upon them, something extending forth from them. The skills themselves weren't changed, but they were being projected. They were being extended.
+
+But if that's the case, why don't my physical bodies have any magical skills? Why can't they possess any attuned mana?
+
+Shiv searched for the answer by seeking out one of his magical skills, and an explanation came quickly. The skill didn't have a stack that went upward. Instead, it seemed to have a flat cap that expanded horizontally, shrouding all his other skills. It, along with all his other magical skills, was stretched flat, wrapping over his unattuned skills like a protective layering.
+
+Shiv explained everything he discovered to Valor, who let out a breath.
+
+“I see. Of course your cutting aura is a danger to you. Your soul evolved, and when you didn't suppress it, you managed to tear into yourself. Without a series of spells quarantining it, or at least serving as insulation, your cutting aura would be projected inward as well, and you would shred yourself from within immediately. Constantly.”
+
+The very thought made Shiv quiver. Even accidentally directing some of his cutting aura inward came with a deep lance of pain. “So, does this mean my physical body can't do magic anymore?”
+
+“Have you tried implanting them with an Animated Skill Infusion skill yet?” Valor asked in response.
+
+Instead of replying, Shiv got to the task. His Vitae sank down to the very depths of his Biomancy, and from there he obtained a perfect copy of the spell. It cost him some of his vitality to shape it into a stable construct, but he brought it across and placed it within his first organic body. To his delight, he felt something harden on top of the Biomancy skill within his soul. A stack had formed, and just then, a complete mana hydra manifested around the first physical body. In his excitement, he inadvertently let the aegis surrounding his Severed Shadow clash against his physical body—the strain he sustained thereafter was doubled.
+
+A burst of red mana covered the room, and Shiv let out a hiss. "It's the same field," he replied. "At least it feels the same. It's like ramming my knuckles together. No, wait, it's weirder than that. It's like some kind of weird inversion portal that opened up. And I managed to punch my hand using the same hand. I don't know, Valor. The soul stuff is weird. Am I making any sense?”
+
+“Quite a bit, actually,” Valor answered. “All magic is born of your soul, and since your soul is still singular but your bodies are many, this is simply a projection. You are not dividing your mana. You are allowing it to cross over. But for all of your magical skills, you likely need to apply an infusion for them to exist within those bodies. There is no easy way for them to manifest naturally, especially with your magic protecting them from being ripped apart. Without the layering made possible by your attuned mana, I fear that your resurrected bodies would come out in pieces instead.”
+
+“But why does it work like that? Is it something to do with the attuned mana?”
+
+“That'd be my guess,” Jessica said, enraptured by all she'd seen. “Attuned mana can be just projected out from your body, but it also can be made into spells. It allows you to do things and change things. I've heard some people describe it as the ‘Living Mana’—things you can shape. Like having a limb compared to the organs that are our unattuned mana.”
+
+Valor smiled lightly at her offering of knowledge. “And though quite simplistic, Legend Hawgrave’s words ring true. Attuned magic is shaped by external laws, by our understanding of what it might be able to do relating to a certain element or concept. That makes its mana transformative, and thus grants it the ability to project a field. I think it is the collective fields that are keeping your cutting aura sheathed. A remarkable feat, especially since I believe it was adapted to be this way. It is like the System is rebuilding you with every evolution—its hand forced by Udraal’s machinations. This is quite an extreme modification for all your attuned skills to undergo.”
+
+As Valor spoke, Shiv's mind turned to other possibilities. If he could extract a piece of his magical skill and imbue that in his physical body to create a stack, then what would happen if he burst through the stack? Would that tear one of his physical bodies apart?
+
+Maybe, Shiv thought to himself. But right now, I have two stacks for most of my unattuned mana skills. Two stacks, two physical bodies. If I burst through the layering that separates all my skills from the stacks on top of them, then I probably will just end up absolutely destroying those bodies. But what if I cut along the stacks? What if I slip through, slice part of the magical field that forms the layering? Will that let me release one of my physical bodies?
+
+Shiv acted on impulse. He used his cutting aura and began making an incision, as if his soul were wielding a scalpel. The pain was deep and true, but not nearly unbearable. Slowly, he carved bits of his mana field away, slicing through the protective substance provided by his attuned skills. There was little difficulty ripping through his own being. Comparatively, punching through the Culturist felt like driving a blade through a plate of armor.
+
+The gap was likely the sheer number of Legendary Skills and accumulated levels; it took a skill 500 levels before it could undergo a Delve, and the Culturist had to have undergone at least six to eight Delves. Perhaps far more. Surviving just one had been an ordeal for Shiv. And that gave the Deathless all the perspective he needed. The sheer mana density difference between them was night and day. Shiv might have become a Legend, but he had only taken his first step into the realm of true monsters. And that wasn't even considering the realms above theirs, dimensions beyond Integrated Earth. There were countless Pathbearers in existence, other monsters, other creatures that loomed higher and higher still.
+
+And if the Incursion were to take place? No, he corrected himself. It wasn't a matter of if. It was a question of when. When the incursion happened, and Earth's Ambient Mana Threshold was raised to a whole new level, Shiv would likely find himself clashing with adversaries that stood a Tier above even the greatest Legends of Integrated Earth.
+
+A sudden jolt made Shiv shiver, and his Vitae flared bright. Something had been cut away from him. A weight had been relieved from his body. Then came that sudden surge of vitality. He had fully removed a set of stacks connected to his second physical body from himself. In an instant, he lost all connection with the body. It was as if death had suddenly taken that body from him, but it still stood before Shiv, even if he had severed it from his soul.
+
+As he observed the vacancy behind the body's eyes, other changes followed. The exiled body's muscles shriveled away, shrinking in an instant and dissolving until its form was utterly emaciated. The red-gold shimmer of orichalcum across its form faded as well, and the bones turned brittle, cracking under the weight of gravity. Then the head of the second body began to shrink, especially around the skull. It was like the brain inside was withering away, and the bone that encased it followed thereafter. In the end, what used to be another organic body for Shiv now resembled an emaciated, withered, and dying homunculus. It was barely larger than an infant, its arms and legs thin strips draped along the ground like shedded snakeskins.
+
+As if decrying the injustice of the separation, the body let out a pained cry and tried to say something, but its words were incoherent, for it barely retained the mental capabilities of speech. “S-Shivent! Shivent!”
+
+The sudden de-evolution of Shiv's second physical form caught everyone off guard.
+
+Valor stared, wordless.
+
+Jessica took a step back. Rusty was in her hands again, but her stance was off. She was too weirded out to commit to a cut while also too nervous to drop her guard.
+
+“Well, this is an unspeakably disturbing sight,” Five commented. The wolf-man's words were smooth and refined, but his emotional core couldn't be hidden from Shiv. It was dense with miasmic chaos. He was more anxious than anyone else in the room.
+
+Only two here were utterly calm. The blissful Candles, who had burned enough orcs that he didn't have a care about anything in the world, he simply giggled at the strange thing on the floor, behaving more like a milk-drunk infant than a coherent person. The second was Gone. She studied the ruined body that had once been a Shiv and regarded it with little more than morbid curiosity. Through it all, she said nothing. She was prepared to run but was mostly enchanted by the strange happenings unfolding before her. Shiv had the feeling that she might be thinking about poking the horrific homunculus with a claw, but was barely restraining herself from acting on the invasive thought.
+
+“Shiv,” Valor said softly. “What did you do?”
+
+The Deathless swallowed. “I tried to cut a series of stacks away from me. Thought those stacks were connected to the second body I resurrected.” He paused as he listened to the brutally withered body moan in pain and misery.
+
+“Shvv, Shvvv,” the body repeated. It sounded like it was trying to say its own name, his name, but it didn't quite recall how it went.
+
+“Yeah, so, I guess I kind of succeeded. I separated the body from my soul. I think I got a refund of vitality, but all the skills that were connected to it? Yeah, it lost all those skills.”
+
+“I…” Valor's voice trailed off as the withered Shiv began to sob and gurgle. “I must admit, this feels deeply wrong and twisted.”
+
+“Yeah, I'm kind of regretting this,” Shiv said. “I expected the body to just die, not turn into… whatever this is.”
+
+“I think you created a clone in an extremely awkward and roundabout way,” Valor offered. “I didn't think it would be relevant for our experimentation, but the System does not appreciate clones very much. It does not allow them to retain any skills from the original. And so, all that you have accumulated is…”
+
+“Guhrr… Kill… me…”
+
+The clone's despairing whimpers silenced everyone once more.
+
+“Kid,” Jessica breathed. “I'm not going to lie, this is the kind of shit I would run into in a Republic-run Rubix Well. You just pulled a Maiden.”
+
+Those words filled Shiv with unbearable shame. “Fuuuuck…”
+
+“Yeah, fuuuuck is right,” Jessica said. She made a nonchalant popping noise with her lips. “Alright, go finish it off.”
+
+“What do you mean, finish it off?” Shiv asked, petrified.
+
+“I mean, finish it off. Kill it. Put it out of its misery. You already gave the poor bastard a soul abortion. Cut its head off or stop its heart or something. Step on it.”
+
+“It is… for the best, Shiv,” Valor said. At least he sounded like he felt a bit bad for Shiv. “Sometimes, terrible things happen during our journey toward enlightenment.”
+
+Jessica snorted with amusement. “Huh. Type of shit Maiden says too.”
+
+“And it is the duty of a just and proper Pathbearer to resolve their mistakes,” Valor added with haste.
+
+“Shit. Godsdammit. Alright. Let’s…” Wincing internally, Shiv extended one of his mana hydra’s heads and took hold of his clone. “Okay, okay. Hey, little guy… uh… pain's gonna go away in just a bit.”
+
+Sage of the Enkindled Heart: I got nothing. This is extremely dark. Why do things like this keep happening?
+
+A Glimpse of Perspective: Please, I beg thee, just get to the cooking.
+
+Somehow, the clone managed to muster up enough strength to turn its bloodshot and hateful eyes on Shiv. “Fuuu—Fuuugg… youuuu…”
+
+“Yeah, okay, I deserve that. I deserve that. Sorry. Sorry.” There was something deeply disturbing about murdering himself. Well, it wasn't himself anymore, really. It was a clone. He couldn't have known this was going to happen. Shiv didn't want to do this. It was just… Well, he still had to take responsibility. “Sorry,” Shiv squeaked out a final time, and then he halted the clone's heart. It shuddered and finally let out a blissful exhalation before it stopped straining. Its already ruined body stopped functioning a moment after.
+
+“Holy shit!” Shiv said, using his remaining physical body. He felt slightly nauseous. All that was—
+
+“Can someone explain to me what's happening here?”
+
+A lightning bolt of alarm cleaved through Shiv as he suddenly noticed Uva standing in the doorway. She stood almost two heads taller than Jessica, even from a few steps back, and so she saw everything: Shiv’s physical and very nude body; the shriveled corpse nearby; the silhouetted Severed Shadow; Valor, Jessica, Five, Gone, and Candles.
+
+Uva held a slightly confused expression and reached up to pinch her cheek. After a few seconds, she frowned. “Well, this doesn't feel like a dream, though I might have had a few that went in this direction.”
+
+Shiv let out a nervous laugh. “Uva! I… The corpse is… We're doing research. I’m… I got a skill evolution!”
+
+Jessica sneered. “And he's using it to commit atrocities on his own exiled bodies. Shit, kid. I guess this makes you the first person to be an absentee parent to literally themselves in a weird fucked up way.”
+
+The responses that greeted Uva inspired her to change her expression several times over. At first, she seemed tired, then slightly resigned, and finally, a look of inspiration took hold.
+
+“Shiv,” Uva said, “do you know where we might be able to find some wine on this leviathan? I think we’ll need a bit of help to get through whatever horrors we’re about to witness. And partake in, I suppose.”
+
+“Oh, actually, yeah,” Shiv replied, walking over to her using his physical vessel. “I got a whole bunch of different vintages from this place called Monster Mystery Meat back at the Capitol. Long story there too. It—”
+
+Uva held up a single hand, stopping Shiv from going on any further, as she pointed down using one of her Psychomantic strands. “I've been trying to ignore this as well, but why are you naked?”
+
+“My resurrections don't provide clothing anymore,” Shiv said with a sigh. “My armor’s bound to my shadow.”
+
+“Your shadow?” she said slowly, not understanding.
+
+Shiv made his Severed Shadow solidify, and Uva's eyes twitched as she took in his newest evolution.
+
+“Ah,” she breathed. That was all she said for a moment. “You know what? You can catch me up on the details while we get some wine.”
+
+Shiv found her request most agreeable and prepared to lead her toward where the wine cellar was embedded within Courtney.
+
+He barely managed a single step before a dimensional rift opened up before him, and Adam came speeding across. “Uva, Shiv, I need to speak… to…”
+
+Adam trailed off, his words slurring into incoherence as he did a double take at the naked Deathless standing before him.
+
+Behind, Uva let out a tired scoff. “Whatever is happening here is likely sillier and more confusing than you can imagine. So it seems to me thus far.”
+
+Adam's mouth opened and closed several times. He made eye contact with Jessica, then Valor, then Gone, then saw the shriveled creature on the floor. The Gate Lord reached up and pinched himself too, and he did it so hard that blood welled up between his fingers. “I swear I've had a few nightmares that started this way.”
+
+“Alright, let’s all stop talking until after we get some felling booze,” Jessica suggested. “In fact, let’s give this godsdamned soul-magic shitshow a rest and make some food instead. I’ll go get my beans ready, kid. You go fry some of those dead orcs—”
+
+“What?” Adam’s eyes grew even wider. “Fry what?”
+
+Everyone ignored him, though a disturbed look overtook Uva as well.
+
+“I like that suggestion,” Shiv said. “I like it quite a lot.”
+
+“What are we cooking?” Adam asked. “Shiv? Shiv?”

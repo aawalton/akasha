@@ -1,0 +1,189 @@
+---
+id: ee7b0256-d8de-5b41-b15a-cbf07ccb4678
+page-type-slug: story-chapter-royal-road
+title: "256 (II) Extraction [III]"
+slug: 0311-256-ii-extraction-iii-2924786
+partOf: path-of-the-deathless-book-4-completed
+position: 311
+ownLength: 3078
+unit: words
+publishedAt: 2026-01-08
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2924786/256-ii-extraction-iii"
+royalRoadId: "2924786"
+---
+
+256 (II)
+
+Extraction [III]
+
+"Well, now that all of you have had a moment to be reacquainted and Udraal’s given someone crippling depression, let's talk about business," Hymn said, clapping his hands together. He gestured toward Uva. "This one doesn't have that much time left. Perhaps I can help prolong her condition, but the Eldest is still a god, and their will will not be denied."
+
+"Metamorphosis has already occurred, only waiting for it to happen," the Eldest hissed from inside Uva.
+
+"And as you can see, their understanding of time is rather deviant. But I have never known the Eldest to be wrong, only to be confused."
+
+"Should have had you; cheated me; cheated all of us."
+
+"Yes, I did," Hymn concurred, the Legend’s voice alight with pride, his heterochromatic eyes burning like twin stars in a distant, dark sky. "And maybe with a little bit more know-how, some recommendations from a friend of mine, a bit of luck, and this one here," Hymn pointed at Shiv, "we'll see you cheated once again. But before that, we still have the problem of getting to the Outside in time. Uva here has one and a half weeks left, give or take. But let's just chalk it up to one, because she's probably going to need to undergo another Skill Evolution, thus ceding even more power to the Eldest as the Stranger closes in on Blackedge."
+
+Shiv's eyes widened at that. "A week? How the hells are we going to get this slipgate working in that time? I don't even know if the testing phase for the damn thing will be done by then." He folded his arms and glared at Hymn. "I'm guessing you have a solution to this, and I'm not going to like it."
+
+"Well, I wouldn't be so certain about that. The plan's audacious and a little bit risky, but I think we have a way in. We have several ways in, actually, and several ways it could all come apart for you. Lots of points for failure in the near future. So much pressure…” The Headmaster yawned, embodying how much he didn’t care about everything that was happening.
+
+"For me," Shiv said dryly. "I'm guessing you don't really have any skin in the game."
+
+"No, I'm simply doing all the important steps of preparing the operation for you, setting up the groundwork, all the important bits."
+
+"Alright, so out with it," Adam snapped. "What's going to let us reach the Outside before we run out of time?"
+
+"Time," Hymn said cryptically. Everyone stared at the Headmaster. "Time is what we need. Time is in short supply? The solution is simple: We simply obtain more time for ourselves. We find a place that has ample time."
+
+"I don't know if you're trying to get me to gain the Riddle-Solving Skill," Shiv began, "but this is testing my Sage of the Enkindled Heart’s ability to resist annoyance, Hymn."
+
+The Headmaster almost looked disappointed. "Use that thing between your ears for once, Deathless. Think about what I'm saying. Please, please just think…”
+
+Shiv shared a look with Adam, and the Gate Lord shrugged. He didn't seem to have a clue either.
+
+"Time?" Shiv muttered to himself. "What are you talking about? Time? Running out of time is what we're..." He paused. Time wasn't just a concept. It wasn't just something happening to him. It was a type of magic. It was a lore he had control over. Shiv had Chronomancy.
+
+The Deathless suddenly straightened. "Time. Are you saying that we're going to use Chronomancy to buy ourselves enough time to get to the Outside? How is that even going to work? We managed to break out of the Rubix Well with a Legendary-Tier Chronomancer. Hells, we had TWO Legendary-Tier Chronomancers with us! And they couldn't exactly accelerate the process, either."
+
+Hymn nodded. "Correct. We need far, far more mana than even a Legend can provide. In fact, we need an expansive environment that operates in a slowed pace of time compared to conventional reality, or a sort of loop-based pace of time that allows a single day to feel like several."
+
+And it was Uva who got it first. "You want them to access a gate that has a temporal skill attached to its mana core."
+
+"What, like the time barrier within the Rubix Well?" Shiv asked.
+
+"Not quite so," Hymn said, "but rather a dedicated research facility that's meant to allow our finest minds to test their experiments at an accelerated pace, giving the Republic a major edge in terms of development and research. Of course, these gates are artificial, for why would nature or the System develop a gate that simply loops or has delayed time in most circumstances? When has anything ever been so convenient? And not only are they artificial, but they're also highly experimental, extremely guarded, and currently under the watchful eye of a specific Ascendant."
+
+Shiv immediately knew who. He felt it in his bones. "Felling Maiden?" he sighed.
+
+Hymn grinned. "Oh? What gave it away?"
+
+Shiv sneered. "The System never misses out on a chance to piss down my throat. Great, so your plan to deal with our time constraint is having us raid and capture one of Maiden's special gates."
+
+"Oh, but that's where you're wrong, Deathless." The Headmaster's grin was positively vicious now, and his eyes blazed with an avaricious gleam. "You don't need to raid anything, because the slipgate is a self-solving problem. You can't reach the Outside stably within two weeks, but I think with a bit of help and some encouragement, along with some more resources provided to your coliseum, you might be able to tap into any other gate within our dimension—within most dimensions. You simply need to know where it is so you can obtain a dimensional frequency for the slipgate to pair another Gateway with. Then, you’ll be able to step right in through a much more accessible gate.”
+
+And suddenly the depths of Hymn’s genius revealed themselves. "We don't even need to conduct a raid," Adam breathed. "We just need a connection, and then we can access the temporal gate from the gate on top of us."
+
+"Exactly," Hymn said. "And in a few days, the central quadrant of the campus will be closed down for maintenance. Funny how these things work out sometimes."
+
+It was remarkable how fast the Headmaster could go from a slob and an annoyance to someone Shiv genuinely appreciated in so short a time.
+
+"However, even with the slipgate, this won't be any kind of milk run. You'll be facing Maiden the Genius's various creations, golems, and reforged automata of such incredible and dangerous design that she's chosen to trap them inside her Temporal Labs. And that's not to mention the more esoteric experiments she's holding down there, and the fact that wherever the Genius operates, an Avatar of the Deadly can likely be found as well."
+
+"Which means we're about to go up against the Ascendants again," Adam sighed.
+
+Instead of feeling overwhelmed, a feral delight ignited inside Shiv. Maiden owed him a blood debt, and he would come to collect from her at one point or another. Better sooner than later, he thought to himself.
+
+"How much information do you have on these artificial Chronomancy gates?" Adam asked.
+
+"Ah, and here's the disappointing part: not nearly enough," Hymn admitted. "We have a few locations marked as where some of these gates might potentially be. Activating and accessing them will also require a bit of effort on all our parts. But it shouldn't be that hard. After all, you are already versed in ambushing and kidnapping Inquisition members, aren't you?"
+
+"So you knew about what I did to the DeGrailles too, huh?" Shiv said. "Is that why you were staring at me?"
+
+"I was staring at you because I was astonished by your sheer brazenness." Hymn hesitated and frowned before he opened his mouth again. "Look, be honest with me: Are you a serial killer? Have you gone around murdering people in the dark? Because that's what serial killers do. They return to the scenes of their crime and relish in the responses of the crowd as they witness the horrors committed."
+
+"I didn't relish shit," Shiv said. "I was just making sure that that matter was settled. The Hero-Inquisitor and his piece of shit middle son got a lot of people killed. I didn't have the patience or the taste to wait for him to strike again, so I decided to solve that problem immediately. Something you should have done."
+
+"I shouldn't have done anything," Hymn replied. "I am the Headmaster of the academy, and the Inquisition supersedes my authority. It would have caused quite the stir if I murdered one of the Inquisition's high-ranking members. That would have gotten me a conversation with Veronica, or worse, her grandmother. And I do so hate dealing with Kathereine. The sex is often excruciating."
+
+Shiv used his considerable willpower to ignore the implications behind the man's words. "So, you used me to do that. Great. Perfect. Glad to be of help."
+
+Hymn squinted at him. "Don't mouth off to me, boy. I let you on the campus. I pretended and played along with your paper-thin charade. Do you have any idea how fast you would have been discovered if it weren't for me or Chandler covering up all your misadventures? Do you think nobody notices the counter-Chronomancy wards being triggered over and over again?"
+
+Shiv tried not to cringe. "I was doing it to keep your students safe."
+
+"Yes, from all the prison lunatics you unleashed upon the capital. What heroism. In fact, the urge to protect and serve has come over me. I shall go down the street breaking every leg I see, and then I will heal the broken legs thereafter. By this Deathless logic, I will become the most noble man in all the Republic."
+
+"Alright, fine. Shit, I get the point," Shiv said, holding up both hands in rhetorical surrender. "So, we can use the Slipgate to access one of Maiden's temporal labs. But we need to find the lab first, and we need to know its mana frequency. Then we need to get inside the lab and secure it. We also need to fend off Maiden and Daughter if it comes to that. Does that about sum it up?"
+
+"Yes, but you're also missing the part where you activate the slipgate, connect to the Tutorial, and have to fight the Culturist first. There is no reason why you should be doing this alone and unsupported."
+
+Shiv nodded casually. "Right, of course. Only need to beat up an orc Legend along the way. It’s no big deal. Just another thing to fit in my schedule." He paused as he stared Hymn down. "Speaking of which, how well do you know the Culturist?"
+
+"Enough that he keeps trying to kill me and regards me as a nemesis, much to my chagrin."
+
+"Oh, great. So, uh, got any advice?"
+
+"On what?"
+
+Shiv scowled at him. The Headmaster was being deliberately obtuse. "How to kick the orc's ass?"
+
+"Oh, quite simple, really. First, I need you to be both a Legendary Diviner. And a Psychomancer. And a Seeker. Eldritch skills will come in very handy against a rival Seeker. On top of that, how good are your social skills?"
+
+"I got a Heroic-Tier Psychology-Berserk fusion," Shiv said honestly.
+
+A cutting remark was about to leave Hymn's mind, but then the Headmaster did a double-take. "What? Really?"
+
+"Yup."
+
+"Then why don't you bloody use it more?"
+
+"Would you believe me if I said I was using it right now to stop myself from raging out and destroying half the city?"
+
+"Ah, fantastic. I see. So, you're using a Heroic-Tier skill as a dam to hold back your Legendary rage issues."
+
+"They're not rage issues," Shiv said flatly. "I'm justifiably pissed about a lot of things. My normal way of dealing with it doesn't work anymore, thanks to Maiden. Every day that I've spent in the Capitol has been a nightmare, a struggle filled with bullshit. I've had to deal with my cover 'impregnating' no less than two different girls—"
+
+Uva squinted at him as he said that.
+
+"—a fire burning down a dorm and some conspiracy to murder a Hero-Inquisitor’s bastard daughter. Then, as I try to go down and volunteer as a commis for some extra credit, I have to stop a fairy wearing toast armor from murdering every person in the restaurant. Then I get back, and I end up going to a hospital for my first 301 shift. While I'm there, I run into a Legendary-Tier vampire, who just so happens to..."
+
+Shiv stopped himself and stared at Uva.
+
+She stared back. "What? What is it, Shiv? Her body vibrated as the doubt inside of her spilled out.
+
+"Yeah, right, that. Shit. I'll tell you in a minute." Shiv sighed. "Anyway, while I'm in the hospital, I get jumped by the Giantsbane, who climbs up my ass and shreds it apart from the inside."
+
+And now Uva’s mouth fell open. “She did what? Seriously?”
+
+"Yes, it seemed quite painful," Hymn commented.
+
+Shiv just glared at him. "Painful? Fuck you. You don’t know pain. And now I'm over here dealing with this shit. So, if you would please, just please give me the slightest hint on how to handle the orc. I would be unimaginably grateful. I'll make you a dish of your favorite food once I manage to figure out how to break Maiden's Curse."
+
+"It's not like I'm trying to withhold information," Hymn said. "It's that the Culturist constantly shifts. He gets bored every now and again, so he kills himself and starts over. The skills he collects and the so-called build he achieves are always different. I managed to beat him one time. That doesn't mean it will work the same way. My advice will not effectively work twice, either. He's a very learned orc, very strategic. If you wish to face him intellectually, I will have to advise against it. You don't have the capacity, and I don't think you will have the capacity for another century at least. Probably much longer."
+
+"So, what, you just want me to rush in and brawl with him?”
+
+"I would recommend that you be surprising. How? I don't know. You need to surprise me and him both. You most definitely don't have nearly as much combat experience as he does. Since you performed miserably against the Giantsbane—"
+
+"She went up my ass. Also, she can turn into the size of a fly but hits like a godsdamned giant. Also, I was trying not to hurt the patients."
+
+“Ah. Excuses. The Culturist’s only weakness.” Hymn chuckled dryly. Shiv gave him a single-finger salute."This is likely going to be an extremely painful affair for you. But on the bright side, you can't die. And you don't really need to win, ultimately. You just need to prove fascinating enough for him and stop him from breaking you." The Headmaster eyed the Deathless. "Frankly, you don't even need to fight him alone, though I suggest against involving anyone else. He will not have any issue murdering your friends or loved ones just to agitate you. In fact, if you can drag Udraal into this now, I recommend it.”
+
+“We can’t get to Udraal,” Adam said.
+
+Shiv was about to say something, but suddenly a dastardly scheme took shape in his head—a scheme of deep revenge. So far, having his enemies deal with each other was becoming a very consistent strategy for him, and he saw no reason to stop now.
+
+"Shiv, why are you smiling like that?" Adam asked, slightly worried.
+
+"Tell you after," Shiv replied.
+
+Hymn promptly ruined Shiv's surprise by throwing his head back in a laugh. "Oh, well, that might work," he said. "Quite the devious scheme of retribution, intending to lure the Giantsbane over into the Tutorial and have her fight the Culturist on your behalf."
+
+Shiv sneered at the elf. "I don't want her to fight him on my behalf. I just want her to be the ugly surprise. And if everything goes south, maybe I get to knock her off as a problem."
+
+"I wouldn't be so sure about that, boy,” Hymn said. “Jessica Hawgrave is a hardy Legend that has survived a great many things. This might go the opposite way of how you think. She and quite a few orcs have history as well, you know.”
+
+"Yeah, well, I’ll figure out how viable this plan is soon. I'm probably going to have a conversation with her before we do this, though, as the Deathless. There are a few things I want to clear up with her before we get bloody."
+
+"Shiv, you can't possibly be thinking about going out to meet her as yourself," Adam said, eyes wide.
+
+"I’ll have an escape strategy. I know where she's staying right now. She should know exactly what happened to Heather before everything goes down. In fact, I want to find out more about her grandson as well. I..." Shiv smacked his lips uncomfortably. "That concerns you too, Uva. I'm gonna have to tell you something that you might not enjoy hearing."
+
+"What?"
+
+"It's got to do with your mother and the one who killed her. I think we found him. And I think he’s Jessica Hawgrave’s grandson." Shiv breathed in deep before he got to the next part. “Alsoyourmommight’vehadavampirelover.”
+
+The entire right side of Uva’s body twitched. “What.”
+
+There was no avoiding this, and Shiv was a “rip the blade out and deal with the pain kind of guy.” “His name is Tulveg. He’s a Legend that was exiled from the First Blood. We ran into him trying to assassinate the guy who killed your mom. I got a vision that confirms Tulveg knew her. And was probably in a relationship with her. He was there right after she died. He’s… with us. If you want to talk with him.”
+
+Uva said nothing. She just stared. Her mind grew unnaturally silent. Adam shook his head at Shiv and facepalmed. After a few seconds of unresponsiveness, Hymn walked over and waved his hand in front of her face. “Sister Uva? Are you well?”
+
+“I…” Uva swallowed. “I…”
+
+Shiv winced. “Sorry. Too much at once?”
+
+“Just give me a moment. Just a moment.”

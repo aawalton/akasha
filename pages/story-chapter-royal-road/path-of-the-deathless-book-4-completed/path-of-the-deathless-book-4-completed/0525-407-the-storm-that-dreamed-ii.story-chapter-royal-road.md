@@ -1,0 +1,167 @@
+---
+id: e147f7c0-bfdf-5b40-b38d-dd9e7443f951
+page-type-slug: story-chapter-royal-road
+title: "407 The Storm that Dreamed [II]"
+slug: 0525-407-the-storm-that-dreamed-ii
+partOf: path-of-the-deathless-book-4-completed
+position: 525
+ownLength: 4959
+unit: words
+publishedAt: 2026-07-16
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3685683/407-the-storm-that-dreamed-ii"
+royalRoadId: "3685683"
+---
+
+The nobility and degeneracy of gods are sourced from our virtues and shame. Divinity, after all, is manifested through worship, and worship is an expression of history and culture—the merger that results is named mythology. There are no gods that exist in a vacuum. The Challenger is not a blind evil manifested by the System's will to punish us and to further its desire for ceaseless war.
+
+The System is not to blame. We are to blame. The System is here to further advancement. And more than strife, it rewards growth. It desires the extreme. It wants us to break through thresholds and ceilings, to become powers unto ourselves, powers of grotesque magnitudes that cause individuals to mutilate their environments.
+
+Consider a goblin—the most common race across Integration—with over twelve thousand subspecies, yet all known to be subterranean by instinct and desire, capable of surviving off the most minimal amount of resources and sustenance, and needing only to feed from moss to function for days, if not weeks. Furthermore, their reproduction, their strong communal urge, their written and oral histories, along with their instinctive drive to delve into the physical sciences, are universal aspects of them. What isn't universal is the gods. They are bound to goblins, which are neither good nor evil; few races are; unless specifically designed, they will show a spectrum of behavior. The environments we were birthed from are not tested based on ethics or moral virtue, but rather simply scarcity. The System is uninterested or unburdened by such limits, yet we are constrained from the top down by a ceiling. That ceiling exists in the form of gods in our face, turned back upon us by the weaponization and enforcement of belief.
+
+To this end, it is best to see the gods as a fail-safe, a means of protection for the masses to stand against the tyranny of the individual. For the System, it rewards the individual in ways that are vulgar and extreme, making a single person capable of killing worlds and massacring entire nations. If not for the fact that from a nation can a god be birthed, and at the god's will, even a Legend or Myth be cut down with comparative ease.
+
+Yet gods do not seem to be wardens, for their authority and value are far more expansive than that of an executioner of powerful mortals. They seem to occupy a role as pillars in reality, expressions of specific concepts, attunements that aren't for the individual but are for the world. Attunements without fixed laws, yet rooted in a specific expression: war, peace, prosperity, fertility, knowledge, invention, broad and narrow, so many things that are connected to so many skills, bound to the gods. One must wonder what interplay the System has with its most potent extensions. For that is what the gods are: extensions of the System's will. No one else is so favored. No one else is imbued with such extreme power. Gods are not limited like mortals. They can reach the very ceilings of mana capacity for whatever dimension they dwell within. Since they fill all realities, what then is their purpose? Since we are all bound to grow and level, what then is a god for if not driven by the same drive?
+
+And so we return to the idea of the ceiling. We return to the idea of a blockade. We return to the idea that perhaps it is not the system that seeks to constrain us, but rather we who seek to free it ourselves, pouring the collective manner, the collective levels that are connected to an entire civilization, into a single entity, a manifest will born of a common gestalt. To see that some measure of prosperity endures, to see a pillar beyond the individual Divinity, is that which we aspire to: a legend greater than the one, the legend of all.
+
+And if such is true, if gods are the great shadows we collectively cast upon this cave wall we call Integration, then it is best we keep our actions in mind for the deeds of the individual. Chip away and build or deform culture. The gods that are born from us are born of trauma or born of joy or all the things in between.
+
+With that, I posit this: The tyrants of individualism are responsible for the birth of tyrants from the collective. One does not exist without the shadow cast by the other.
+
+Gods are the idea of total dominance itself given form—A place beyond the reach of any levels or evolutions.
+
+A final salvation from the will of one.
+
+—The Shadow and the Highest, Author Unknown
+
+407
+
+The Storm that Dreamed [II]
+
+A few thousand limbs of branching lightning slashed up into the sky from all of Weave’s surviving spires. The world was riven by veins of translucence, and they left imprints of kaleidoscopic energy in the aftermath, staining reality with colors from the Outside. But though Uva's new Legendary Skill gave her more power than ever before, and even if she'd bested a most bestial version of Shiv, a god empowering the body of her Eldritch-possessed self was another enemy entirely.
+
+Uva's Lurking Noostorm ascended, crashing into the sky as if an inverted calamity seeking to scour the clouds from the heavens.
+
+But the Hatchling possessed all of Uva's abilities, and then some. In an instant, a counter-cast descended. A rival storm rained down upon Uva's converging lightning and tore clean through her bolts like a splitting blade that severed lesser lengths of steel. Incandescence infused the Hatchling's lightning bolts—incandescence empowered by the Starhawk, quivering with the Domains of Retribution and Justice.
+
+A spike of agony struck the base of Uva’s skull. Her mana field had been hewn down to the quick; the considerable ocean of mind magic she harvested from all her pawns was spent—and before she could generate any new storms, the Hatchling struck first. Her glowing lightning, empowered by Divinity, speared through Uva's batteries, stealing them away from her in an instant. Uva's reflex triggered, and by the barest of instances, she severed herself from those compromised minds before the Hatchling could reach across and tear Uva’s ego asunder from within.
+
+This exchange immediately set the tone for this final encounter: power was not going to be Uva's ally here. Whatever might she could accrue, a god would always dwarf her, and right now, seeing the Hatchling blessed by the Starhawk, she knew that she needed to find some way to outthink or surprise her adversary, because there was no other path to victory.
+
+But Uva's intuition was never her strong suit. She wasn't the kind to come up with a brilliant plan in the most dire of circumstances. Instead, she relied on preparation and intelligence, thinking things out beforehand or with a buffer. And that was what she tried to buy herself: a buffer. She drew in what remaining minds she had, harvesting the mental essence to create a dense storm around Passage. She accepted her pawns were lost and knew the Hatchling would turn the remnants of the city against her in the next few seconds.
+
+But it was only through creating a protective storm around Passage that Uva survived a few seconds more at all. Another lance of incandescent lightning fell. It cleaved clean through the outer shell of the storms, but Uva managed to create layers of protection, fusing crystalline stalagmites around her, imbued with the power to stop time. Even that barely served as a barricade against the Starhawk's might.
+
+In combat, though, barely was often the difference between life and death. Uva dodged the bolt of lightning by the barest of margins, sparing herself an undue death—or worse—by bending her body along an impossible geometry. Her flesh folded into the contours of the walls as the lightning cast by the Hatchling ripped through the room she was in. The bolt was wider than some buildings, and its edge barely brushed against Uva. Again, barely. It didn't come close enough, and she lived to survive another second—granting her another moment to think, to desperately plan.
+
+The many layers of Uva's consciousness chattered to one another, forming a one-Umbral war council as she tried to plan her way out of this oncoming demise.
+
+The Delve shouldn't be like this. There's something wrong with this Encounter. We can sense the Hatchling. It still has the stench of the Eldest. It feels like it's alive, like it's come to claim us once more. We can't let that happen. We can't let it take us again. We won't.
+
+But what can we do? We know the Starhawk's power firsthand. There is nothing we have that can match the might of a god. There is no power we can possess, even as a Legend, to stand against him for long.
+
+We can still delay. We aren't without options. We aren't without skills. Remember the weaknesses of Psychomancy. Our power right now still affects minds, and the more complicated a mind is, the more alien it is, the harder it is to push through.
+
+We should release what's left of our Terrorspawn. Use them as a protective shell. They'll be seized soon enough, and it will feed the Hatchling more power. We are simply giving her a greater advantage eventually, but it will give us a bit more time, just a bit more time to think, to plan. That's what we need right now. No amount of power will match the Starhawk—
+
+And then there was another presence in her mind, brushing against her like oil over water for the briefest of heartbeats. Uva’s mind wailed with horror, worried that the Hatchling might have breached her defenses without her noticing—but then Hymn spoke, and her terror was abated.
+
+“Remember this: Delves are not impossible. There is no way you're damned to defeat right now. It can be done, even if it's difficult, but you need to find a way. I can feel that thing's presence. It's a part of you, but it just detached from your soul… I'm going to leave for a moment to see if I can restrain it from the outside. I don't know how the System did this, but it gave the Eldest another chance.” Hymn let out a snarl of genuine outrage. “I've stolen a glance from its perspective. The System just gave them a Quest, an opportunity to take you again if they manage to capture your mind—but they can't stop you from resetting the Delve. So, as wrong as this sounds, I think it's time for you to steal a page from your boyfriend's playbook.”
+
+Uva immediately realized what he was telling her to do, and she didn't hesitate—frankly, she should have thought about this from the start. Instead of trying to dodge again, she drew a swarm of fractured spiderlings from a place across from her abnormal Physicality and shaped them into a shortsword.
+
+A mind-shaking scream of unparalleled fury and desperate need filled the entirety of the Delve. “No! You won't escape from me! You won't get away from me! I won't let you! You will become mine! I will be as you, as you are me. We will be one. We will be one. You will not escape my will—we will be merged, and I will exist in truth. I will be made whole. I will not be silenced inside of you anymore. I will not—”
+
+Uva's reply came in the form of a suicide. She drove her blade deep into her body, and her Viper's Kiss skill activated, causing the shortsword to spring forth, displacing her geometric flesh and splitting her down the middle. Her body was cleaved apart, and death followed. With that, the conditions of her defeat were fulfilled, a half-second before another bolt of divinely charged lightning came for her. It barely touched her, and she felt that overwhelming force brush her mind, but before the Hatchling got a chance to do anything to Uva's consciousness, everything blinked, and she was back at Encounter One once more.
+
+“My Delve, my soul, my choice,” Uva spat at the empty air, unsure if the Eldest could hear her. Something told her they could. Something made her feel their seething rage boiling deep within her soul, seeping over into this Delve, into her skill.
+
+Why the System was aiding the Hatchling so vulgarly, Uva didn't understand. The only person she could have consulted was currently missing. Hymn wasn't in the Delve with her anymore. Instead, he was on the other side, and she could feel faint pressure sinking deep into her soul, but what he was doing exactly and if he was having any success was beyond her. Inside the Delve, her physical body was numb and distant, like a dream across from a dream, with the sensations befalling her true form displaced by magnitudes and dilated time.
+
+For now, she needed to start again and figure things out. But she knew what was waiting for her this time. More importantly, she had options. Maybe she could avoid triggering that special encounter. Maybe she should just wait the time out when fighting Shiv, but she also didn't want to; that didn't seem like Legendary behavior to her. More importantly, she felt an urge take hold. It wasn't a logical, rational urge, but rather an emotional, cold need to see the indignities visited upon her by the Hatchling returned.
+
+She didn't want to simply perform to the specifications of a Quest. She wanted to exceed the System's demands. She wanted to humiliate it by debasing its chosen champion, by seizing the Hatchling's body and ruining the Eldest's hope of finding a compliant host.
+
+“Fine, then, System, be vulgar. Tilt the table. Stack the deck. Weigh the die. Place yourself against me. I will make you regret this. I will taint you with scorn and shame and disgrace.” She looked up, staring at the metallic roof of the anchor she'd been returned to. Spell shapes swirled around her, feeding this place with power as Uva's mind was overcome by an unnatural calm.
+
+The duration of this Delve was no longer her main concern. She had two objectives: to see Adam return to whole health of mind, soul, and flesh, and to see the Hatchling devastated and the Eldest traumatized.
+
+She knew the Eldest was an Eldritch god without peer, predating most others as progenitor to their like. Their death was unlikely, even if she managed to destroy this Avatar connected to them, but she could traumatize the Eldest. She could leave them scarred, and she would. By the time she finished with the Hatchling, even if the System offered them infinite rewards, unlimited power, Mythic Skill after Mythic Skill, they would turn away. They would never want to see or face Uva Mettabon in open battle for as long as there was time and reality left to endure.
+
+But if she wanted to do that, she needed to make a few calculated choices. The most important of which was deciding what her Legendary Skill Evolution was going to attain. For every skill she possessed, so too did the Hatchling. In a contest of direct power, she was always fated to lose, because the Hatchling was further blessed by the Starhawk, and she had nothing that was capable of—
+
+“No, wait, stop. That isn't quite right.” Harkness interceded, calling for Uva to focus. “Remember what it took for everyone to steal back your soul. You weren't only infested by the Eldest. A good portion of the Stranger was also within you. That was the only reason why the Eldest's metamorphosis didn't overwhelm you. And right now, the System has granted a direct reward to one Eldritch God but not the other. Quite curious, isn’t it?”
+
+That was actually something worth considering. “The Stranger should still be incapable of noticing the Eldest. Perhaps the System rewarded the Eldest because they were the first to successfully breach my soul and take hold of me. Perhaps it thinks that the struggle between me and the Hatchling was undone, that someone else intervened and stole my battle away from me. Perhaps a rematch is what the System wants.”
+
+A low note of derision escaped from Harkness. “Perhaps, perhaps, perhaps, always perhaps. Now is not the time to think about maybes or possibles; now is the time to test, strategize, and find out. You still have control here. Don't let this thing rattle you, girl. You reset the Delve you started back to your first encounter. The Hatchling does not have the advantage you do; it simply has overwhelming power, but it cannot decide when or how it engages with you. If you are not ready, then simply reset the Delve. From our previous engagement, we know a few things: The Starhawk will be with it. Its power will be perfectly symmetrical to yours, but its behavior isn't. Remember, it came for you blindly, wildly, no strategy at all. It's desperate to take hold of you. I would dare say that it's more savage and bestial than even that immortal mastiff you call a lover.”
+
+Though Uva held Harkness in little regard in terms of character and dignity, the Owl's advice when it came to combat and tactical situations was begrudgingly of value. And at this moment, she wanted Uva to win. For whatever reason, she despised the Eldest as much as Uva did.
+
+“Not for whatever reason, because they are the epitome of a noble,” Harkness spat. “Someone else bled for them. Someone else spent their blood upon an altar, and the benefits were rewarded to them through no struggle of their own. They are a god because of what exactly? They were born before everything else, and so it has the right to feed off of the successes and struggles of their children, and unsuspecting Seekers? Now, I despise you because you are my enemy, because you trapped me here, but it is a natural, pure kind of hate. I find myself reviled by the Eldest because they are more disease than individual, a creature of the lowest design. What the System was thinking when it allowed the survival of such a wretch I will never understand.”
+
+A low, bitter laugh escaped Uva as she came to comprehend Harkness better than ever before. “Good to know we share some common ground along the lines of mutual hate. So then what is your advice? How should we approach this?”
+
+“First, you need to—”
+
+Hymn reappeared in a burst of faint blue and cut Harkness off. “Alright, news is mostly bad, one bit of good. First, I can't get the Hatchling out of the Delve. The Eldest seems to have concentrated it entirely within here, which makes me suspect that whatever skill you're going to evolve in the end is going to be further boosted by the Hatchling's essence. But the little bit of sunshine here is that it's bottled deep at the very bottom layer of the Delve, and it can't get out, so the only time it can come to face you is when you descend to the Fifth Encounter. That means we’ll have ample time to prepare and potentially strategize. I suggest you start by changing your skill into something that demands more expertise and creativity rather than raw power.”
+
+“Wait, I was going to say that, you bastard!” Harkness cried out.
+
+“I also have a slightly more dubious but potentially interesting suggestion for you to consider,” Hymn continued. “Now, I want you to hear me very, very carefully. Understand that I'm not trying to trap or betray you. Understand that I wouldn't come up with this idea unless I found it very interesting and that I didn't think it might be to your advantage. Now, your Eldritch metamorphosis was mixed. A part of you is of the Stranger; the other part is the Hatchling.”
+
+Harkness seethed with pure offense at this point. “I was going to suggest this as well! Hymn! Stop stealing knowledge from my mind!”
+
+“And with the Stranger so compromised and closer to humanity than ever before, I suspect something else is at play,” Hymn said, ignoring her. “I suspect the Stranger no longer counts as a full Outsider, or at least has drifted far enough that he can actually perceive his progenitor. Well, he might be able to. I think it's time we test that theory somehow.”
+
+“And how are we supposed to test this theory?” Uva said, quirking a single eyebrow. “And you are right. It's very suspicious that you're proposing this plan.”
+
+“I'm not compromised, if that's what you're asking. Nor do I intend for you to be swallowed by the Stranger. We have the Stranger blackmailed. It doesn't want to act against us, thanks to what your boyfriend did. Now, I think we might be able to leverage something more out of it, and I might be able to get something out of its labor as well.” Hymn’s expression resembled that of a starving fox. “I might not be able to break a god, but we may be able to make a servant of a half-Eldritch Divinity nonetheless. And that might balance the scales, a Divinity in your corner against a Divinity in the Hatchling's. I suspect the System might even be pushing us in this direction. It knows I'm here to advise after all.”
+
+“Even if I'm foolish or desperate enough to agree to such a mad plan, how would it work? Shall I just call out to the Stranger, beseech him to bestow me his gaze as a favor?” Uva really didn’t like the idea. Even if the Stranger was decaying, even if he was veering away from the Outside, he was still outside of her control. Despite his arrangement with Shiv, he wasn't a whole person, and her existence was at stake. That was a lot to bid on a possibility, and Hymn couldn't see that. He was still blinded by a chance at further retribution—even if it wasn't complete retribution.
+
+“You don't need to do anything. I could potentially call upon the Stranger through the Fingerling bound to you. I can wake its Eldritch essence and communicate with the progenitor it was spawned from. I can serve as the bridge if need be.”
+
+Despite her misgivings, Uva didn't reject the plan outright. She didn't want the Stranger to merge with her. She definitely didn't want to become an avatar to an eldritch god, no matter how partial. But it was as the Headmaster said earlier. She needed to be more flexible. She needed to open her mind to new possibilities, be creative, and that had her thinking up other schemes.
+
+“You say that the System has concentrated the Hatchling's essence within my legendary Delve,” Uva said.
+
+“That's the way it appears.”
+
+Uva hesitated before she proposed her following idea. “Instead of summoning the Stranger's presence, can you pour the Fingerling into the Delve as well, fuse it with the existing Eldritch matter, or however the Hatchling is manifesting itself here? See both essences commingled, and when the Fifth Encounter begins, only then do you call the Stranger through its lesser offspring.”
+
+Hymn thought about that for a second, and a peculiar look came over his face, as if he hadn't considered this. “It might work. It might. Again, this is a unique situation, but as with you three, unique situations are relatively common in your life. Maybe, but we'll have to be careful and prepared and make a fast attempt. I'm assuming you want to confuse and make the Hatchling struggle against itself to force an ongoing metamorphosis upon it, the same way it forced one upon you?”
+
+“That is the direction of my hope,” Uva admitted. “If the Stranger truly is departing from the Outside, then that means he has enough categorized skills, normal skills, untainted by the Eldritch. If so, then that can be possessed by the Hatchling and the Eldest it's connected to. The Stranger can bear my burden, or perhaps the Stranger can use his power against his parent and spare me from this contest. If nothing else, I will leave the Eldest confounded, trying to overcome another presence within its mind and soul—distracting it from claiming mine.”
+
+As Uva finished describing her desired strategy, Hymn smirked and nodded. “That's one part reckless, one part devious, and one part I don't know what the fuck might happen. Which makes it exactly the kind of plan I like. A little pre-psychological warfare before the mind magic. But this has me thinking about something else myself: There is a third source of eldritch influence flowing through you right now. It's the greatest source. The Dreamtaker’s dimension and skill leftovers have been bestowed upon you. I wonder what might come of throwing that in the mix as well. It can't hurt… Well, it might hurt. It might destroy your soul, so be ready to kill yourself and reset the Delve.”
+
+“Every day I am compelled to be more like Shiv,” Uva muttered with a sigh. “I suspect this is part of the System's plan as well, giving me a twisted insight into how he operates, probably so I can be used against him down the line.” A disgruntled breath slipped out of her. “I can't tell who I'm being built to counter anymore: him or Adam.”
+
+“Maybe both,” Hymn mused. “If you want me to place my bid right now, I'd say the System is making all three of you capable of threatening one another. It just depends on the circumstance. And if the fires of your favor continue to spread, that's going to be all of us as well.” He fell silent as he considered telling her something else. Something personal. “Uva, across the time I spent with you in this Delve, I've gained ten levels.” At first, she failed to process the significance of that claim. Then he elaborated, and everything clicked into place. “I haven't gained ten levels in a month for over fifty years—for it to happen across a single afternoon is beyond absurd. It is the changing of a paradigm. We are spiraling out of control, and the System is no longer catching up internally anymore. I do not think we are going to be suited for our current ambient mana threshold for much longer, so whatever Incursion follows is going to be extreme.”
+
+Neither of them said anything to the other, not even when the notification for the First Encounter returned.
+
+“Anyhow.” Hymn cleared his throat. “Before we consider our terrible future, let's get done with our terrible present, and before invoking the Stranger or what remains of the Dreamtaker, let's see if we can make that skill of yours evolve along a desired path.”
+
+“And how am I supposed to do that?”
+
+“Quite simple: You implore the System inside this Delve. You think about what you created within the minds of your victims, that replica city, and see if that is legend enough for you to get a skill that allows you to imprint your mind over matter. If not, we can try again and again and again. If nothing else, it will make the contest between you and the Hatchling less determined by raw power alone.”
+
+“If nothing else,” Uva muttered. She cleared her mind and cast those specifications toward the System, begging for an evolution that would see Adam delivered from his fate and see her powers changed for something more constructive, for something weaker, for something esoteric. Yet, though she knew this was necessary and she accepted the fact she wasn't keeping her storms, she still lamented losing her prior skill. It felt so suitable for her. It flowed naturally to the will of her mind. Though she couldn't use it to overcome the Hatchling, it still seemed like there were many mysteries she hadn't unlocked, nuances to the skill she hadn't learned.
+
+It was with that pure lament, with the special condition she locked inside this Delve, and with that specified request to evolve toward another specific Eldritch skill that the System did something peculiar. The System altered something inside Uva. She felt it immediately, and as parts of her mind burst apart in a newfound surge of mind mana, a new storm erupted out from her, swelling through the anchor as the lightning that she once possessed was further imbued with something else.
+
+The kaleidoscopic essence it contained cracked apart, and rather than simply leaving an imprint on the world, it created a bottled reality within reality, an expression of Uva's mind held together beneath falling rain and crashing lightning. It created an umbrella where her mind expanded. A metaphysical projection of her thoughts trapped in the bottle of her yet present storm.
+
+And then the oddest change of all followed as Uva felt something tap her on the shoulder. She spun in fright. Her eyes grew wide with disbelief, and as Uva finished her turn, she found a translucent replication of Harkness standing in front of her, her body fueled by lashing blasts of lightning and a constant downpour of magical rain.
+
+The rogue Owl and the Seeker she had been bound to stared at each other, and once more Harkness squeezed Uva on the shoulder. She felt it. It felt like an actual person placing pressure upon her. But it also felt like a layer of her mind was constantly being broadcast into reality, flung forth and made manifest by a literal storm externalized from a higher expression of mind magic.
+
+Initiating Encounter (1/5)
+
+Adjusting Legendary Skill…
+
+Applying Unique-Skill modifier unlocked through special encounter
+
+Applying Partial Skill Evolution: The Dreaming Storm

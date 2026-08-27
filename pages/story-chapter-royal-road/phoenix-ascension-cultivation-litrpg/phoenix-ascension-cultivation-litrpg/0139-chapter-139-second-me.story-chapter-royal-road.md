@@ -1,0 +1,147 @@
+---
+id: 7d3ce67a-c672-5b75-b489-496f5399f421
+page-type-slug: story-chapter-royal-road
+title: "Chapter 139: Second Me"
+slug: 0139-chapter-139-second-me
+partOf: phoenix-ascension-cultivation-litrpg
+position: 139
+ownLength: 2118
+unit: words
+publishedAt: 2026-06-14
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3538964/chapter-139-second-me"
+royalRoadId: "3538964"
+---
+
+The Black Turtle’s plan was ambitious, but I was willing to try. Over the course of the next few days… I’d already lost track of how much time had actually passed, I fed all the Spirit Beasts in the enclosmenet the meat I’d collected from the large beasts I’d killed.
+
+They ate it happily, then rested for extended periods of time. Just as the turtle said, there was a qualitative difference in their aura. I wasn’t exactly sure what he’d said to them, but they regarded me with a sort of strange reverence now.
+
+Their eyes shone with respect, and their heads bowed whenever I passed. Some of them looked like they wanted to speak, but I wasn’t sure they could. There was a difference between which beasts learned the way of the human language and which didn’t.
+
+I wasn’t sure what, though. Yo Na couldn’t speak either, but maybe she’d gotten the skill by now. Last I checked she was travelling together with the siblings and Xing Ya Chen. Maybe that would allow her to speak. It would be funny if she still meowd after all that time.
+
+But either way, I kept meditating.
+
+That didn’t last long though, as the door opened and in came the little menace. I let out a sigh and took flight. Butler Mo was with her, of course, and I knew very well what role I had to play. It wasn’t something I was proud of, but it had to be done.
+
+Flying back into my cage, I waited.
+
+They arrived shortly after, the girl looking a little bored. Obviously, she would not be excited at the prospect of coming in to see the Spirit Beasts people have given her, and that she keeps in absolutely miserable conditions.
+
+I held back my anger. She was a child, she could not know better. I didn’t think she could be reformed, but at least I wasn’t about to hate a child.
+
+“She’s looking at you, Young Miss.” Butler Mo said, pointing at me. I was indeed looking at her.
+
+The little girl’s face lit up in that moment, and she began staring at me. Butler Mo smiled, though it was clearly fake. He swished his sleeve and took out bird food. “See, I managed to get her to be docile.”
+
+His outstretched hand was filled with common grains, and I was of a mind to bite him, but I decided otherwise. Instead, I quite literally ate from his palm, and hated every moment of it. “Right, see?”
+
+“Woow!” The little girl gasped and ran toward me. I stopped eating and fluttered my wings, putting on the best act of a scared bird that I could.
+
+“Now there Young Miss. She’s a chick, just like you. Don’t do anything sudden, or she’ll get scared.” Butler Mo explained, though I wasn’t sure the girl understood that at all. I wasn’t expecting her to.
+
+To my surprise, she did stop advancing and took a step back. “Let’s keep her in the cage for now, and when she gets used to you, we can let her out.”
+
+“Realy?!”
+
+Butler Mo nodded and grabbed the top of my cage. His arm shook a little when he lifted it, and it required him putting some Qi into it to actually do that.
+
+I wasn’t that fat, was I?
+
+Either way, the first step of my plan was getting fulfilled. If he hadn’t taken me out, I would have found another way.  There were plenty of possibilities.
+
+We walked through the door, the turtle’s voice wishing me good luck echoing in my mind. I nodded toward him and prepared myself for the next stage of the mission, gathering intel.
+
+Being able to contact Meng Mao whenever I needed was definitely convenient as well. We could scheme behind their back with them being one the wiser. After all, how could anyone expect a supposed vermilion bird to have a technique that allowed her to talk with people outside.
+
+Not even Butler Mo was ready for that.
+
+Once past the door, we entered the mansion proper. I wasn’t sure what to expect, but it inside was just as big as the outside. I didn’t dare peek with my Divine Sense still, but at the very least I could use my eyes that time.
+
+There were many intricate decorations carved out of jade, ranging from pots to vases, statues of dragons, and other mythical beasts, as well as chandeliers and rain bells that served zero purpose. And that was only the hallway.
+
+The deeper we went, the more the Guo’s family extravagant lifestyle and wealth was put on display. I was wondering if I had more wealth than them, but that was clearly impossible. They were a huge clan who had to take care of many people and had many businesses.
+
+I had a lot of money, yes, but definitely not enough to rival a clan. Then again, they were a small clan. I really should ask about it. Not that I cared or anything, I was merely curious, of course.
+
+We took a sudden turn and walked up a flight of stairs before finally entering a rather large room. There was already a cage hanger ready, and Butler Mo put me on there. After that, he took his leave.
+
+He must have known I was not going to do anything rash, but that was still an incredible amount of trust. Or rather, if I even thought about doing anything, I would get found out immediately. That would not be a problem, as I was not going to do anything to the spoiled brat.
+
+I was a Spirit Beast, not a monster.
+
+However, I did have other plans. For the moment I would stay put though. I couldn’t afford a misstep.
+
+Seeing that it was still early in the day, I settled and closed my eyes, planning to meditate and reflect upon the runes inside the other room.
+
+However, an intense gaze stoped me from focusing. My eyes blinked open and I found myself staring at the young brat, who was looking at me with eyes full of curiosity.
+
+I tried my best to ignore her, but it was really hard to. Her gaze was intense, and I couldn’t tell why she was doing that. What was she waiting for? I wasn’t going to talk or do anything.
+
+We ended up staring at each other for a bit, and after boredom started to grab me, I rolled my eyes internally and put my talons out. I gripped the edge of the cage, making sure to act like I couldn’t go that much farther past it.
+
+The girl’s eyes widened, and she walked forward, observing. She didn’t do much more than that though. I took my talon back and preened my feathers for a while, then pretended I was going to sleep.
+
+When I closed my eyes, I felt the girl’s gaze linger for a few seconds more before she left. I finally had some peace.
+
+I recreated the runes inside my head and tried to simulate how they would act. It was a basic technique but one needed great comprehension of runes to be able to pull it off perfectly. Naturally, I had no issues, except for those that I didn’t understand. Using this technique I could gather a slow understanding of everything though.
+
+Before I knew it, evening came. I wasn’t sure where the girl had gone for the day, but when she came back she’d ‘woken me up’. To apologise for that, she’d held her hand out with a bunch of seeds.
+
+I could not help but chuckle internally at that. I nevertheless reached out and she put her hand through the cage, but dropped the seeds in fear when I tried eating them.
+
+It was rather funny.
+
+Did I misunderstand this brat?
+
+I couldn’t be sure. Maybe she was just stupid instead of malicious.
+
+She’d gone to bed shortly after, and I monitored her pulse and breathing to make sure she truly fell asleep.
+
+Once that happened, I started praciticng something else.
+
+[Perfect Disguise]
+
+[Completely changes the user’s aura, appearance and many other aspects based on user’s preferences. This skill is severely limited by user’s mental prowess, imagination, will and charisma stat. The skill has a limited duration based on user’s charisma. This skill can only be seen through by beings more powerful than the user ]
+
+Despite what the skill said, I had an inkling that it did more than that. What sort of disguise skill was only limited to the user? Well, many were, but I didn’t believe this was one of them. There had to be a reason as to why it cost me forty skill points.
+
+And I was going to find out.
+
+I grabbed one of the seed grains and focused my energy on it. I wanted to turn it from its oval, round and yellowish appearance to black. I wasn’t sure how long it would take, or if it was possible, but it said that the skill was limited by my mental prowess, imagination, will and charisma. I didn’t lack either of those, so I could theoretically go beyond whatever limits they put in place.
+
+If there were any to begin with.
+
+And so, the process of turning a yellow grain into a black grain began.
+
+The entire night passed, and I wasn’t able to as much as change one part of it, but I wasn’t discouraged. I knew that it was going to work out. When the girl left, I spent some time trying to do the same thing again, but I remained unsuccessful.
+
+Tired, I decided to take a nap.
+
+When I woke up, it was still day. The thought of staring at a seed grain again was haunting, so I opted to try and break the runes again. Once I figured out how, I could tell the turtle, and all hell would break loose.
+
+According to his plan, then the Spirit Beasts should grow strong enough after eating almost all the food I had, to the point where the cage would not be a hindrance. Those too weak, like the white tiger, would receive help. Once the walls fell, it was up to them to get away as swiftly as possible. Unfortunately I didn’t really have a way for them to teleport out.
+
+A routine began slowly after. The girl had taken an interest to me initially, but after seeing that I was not bothering with her, she sort of gave up on trying to interact. Well, I had to keep up my role as a caged bird. If I did anything too extra she’d figure it out.
+
+She was smart, I would give her that, but she was still a child after all.
+
+As for my progress… It was rough. At the beginning at least. Simply infusing Qi and will into the grain wasn’t enough, I had to put intent. At least, that’s what I assumed. After a few tries, I’d finally noticed a change.
+
+A small part of the small grain had turned from yellow to a faint brown. It wasn’t a lot, but it was progress. It showed that my theory was working!
+
+Now that I knew that it was possible, I was even more hyped to try it out! My mission was clearer than even. Except, I couldn’t really do what I wanted to do when the little girl was here. The good thing was that she would not be there often, besides the nights when she’d just go to sleep straight away.
+
+The person I had to be careful of was Butler Mo, though. I hadn’t seen him the past few days, and I hadn’t sensed his presence. I did keep a small amount of Divine Sense active at all times, but considering his strength, it wouldn’t be that hard for him to hide from me.
+
+Except he didn’t know I could cultivate, which gave me another edge. I had more Qi and better techniques than most Spirit Beasts at my current level, and my body was far sturdier.
+
+Soon enough, during one of the more quieter nights, the yellow seed in front of me turned completely black. Before I could celebrate, a notification I was dearly waiting for appeared.
+
+[Skill: Perfect Disguise(Expert) has ranked up Perfect Disguise(Master!)]
+
+Immediately, I felt my control over the skill become more proficient, and even my current disguise had improved significantly. I turned toward another seed, and turned it black almost instantly.
+
+Undoing the skill on both of them, they both returned to their original color. Seeing that, I was excited to start experimenting.
+
+And afterwards? Make a second me!

@@ -1,0 +1,167 @@
+---
+id: f1b6918a-30d9-5e30-b90c-a00ee4c686fc
+page-type-slug: story-chapter-royal-road
+title: "437 Unexpected [II]"
+slug: 0555-437-unexpected-ii
+partOf: path-of-the-deathless-book-4-completed
+position: 555
+ownLength: 4760
+unit: words
+publishedAt: 2026-08-20
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3839746/437-unexpected-ii"
+royalRoadId: "3839746"
+---
+
+The first thing you need to consider when it comes to feeding your monster is its diet. Now, I'm cheating in this exercise because a Tarrasque eats damn near everything, and almost nothing gets it sick. Almost nothing. You're going to find out about what makes a Tarrasque spill and go berserk by the end of this chapter. They're pretty happy eaters. They'll eat anything: stones, shit, people, trees, mountains. They'll drink up entire lakes. They're pretty ravenous, but they do have a very, very sensitive tongue and olfactory system that allows them to track people but also gives them a finer appreciation of layered and subtle flavoring that most people miss.
+
+Now, when you're thinking about layered flavoring, you need to consider how they go together and in what sequence they trigger. If you have something extremely salty, for instance, having a tang of sweetness might be nice for some people, but let me tell you, the Tarrasque hates it. It despises the sheer heaviness of the sweet because it drowns out the salt that comes before. That isn't universal for all monsters, but rather something you need to consider when it comes to their personalities.
+
+Now, the basilisks I have usually like things that are a little bit plainer. It's the substance and texture that do things for them. Smooth things are best, especially eggs. They aren't really built for chewing, so avoid hard things, but also especially spicy food.
+
+A Tarrasque, on the other hand, more than appreciates spices.
+
+A Court Leviathan can grow tongues and olfactory sensors; however, being a mostly lobotomized creature, it doesn't have specific preferences of its own, and that takes part of the joy out of cooking.
+
+Anyway, the entire point of this is that you can train yourself by cooking for monsters. They're not cruel like people can be. They're usually very honest, and they teach you to zero in and focus on delivering a culinary experience. Start playing, build up. Don't just go for the most extreme condiments.
+
+—Draft of “How to Feed Your Monster” by the Deathless
+
+437
+
+Unexpected [II]
+
+“Another? You want another? Do you?”
+
+“Yes, yes, yes, want another!” The Tarrasque was seated on its hind legs now, loudly clapping its humanoid hands together to create shockwaves in an expression of unbridled joy. Its forehands sprouting out from its shoulders clapped first; its forelegs followed thereafter like twin trunks of crystallized tissue ringing in cataclysmic impacts. Anyone without High-Tier Toughness would have gone deaf or, more likely, been turned to bloodied mist in an instant.
+
+Back in Farnest, in the Farwalker observation post hidden in the Stranger's Garden, and doubtlessly wherever the Pale resided, strange, uncanny, and above all, unbelievable scenes were being taken in by various Pathbearers with rapt attention. They all watched as the Deathless tamed the world-cleansing creature grown from his own soul-stuff using something they shared. Yet that thing wasn't a skill or an urge toward violence, but simply love for an art.
+
+A little hate went a long way, but sometimes, a measure of love bridged impossible gaps.
+
+Though the Tarrasque's love for cooking was simple and instinctive, it was pure, and Shiv managed to lead it along by feeding it slices of his mana fields. Right now, Shiv was burning away chunks from his Aegis of Assimilation in the form of fried scales pried off the mana hydra, giving the Tarrasque a taste of raw Biomancy. With how fast Shiv's Aegis regenerated from mana strain, he could provide piece after piece as he continued explaining basic things about cooking.
+
+The Tarrasque wasn't really listening, of course, but the noises he made and certain words he said appealed to it greatly. If he had to gauge its intelligence level, it was like an extremely obsessed toddler fixated on a specific thing. The words that caught its attention were spatula, frying pan, taste, food, and eat. Anything else was more like background noise or, in worst cases, the buzzing of an annoying fly. He tried to talk it into speaking back to him at the start, but it replied with a loud rumble of dissatisfaction and nearly defaulted to violence again. So he continued speaking to it on its level, as one might a child who desired the fires of a kitchen, and it was in the purity of that desire that Shiv felt a rush of enthusiasm and happiness, unlike anything else he'd experienced in quite some time, returning to himself as well. For joy begat joy, even if that joy came from the most strange of sources, even if that joy was somewhat sourced in atrocity.
+
+He hadn't forgotten the slaves sacrificed to the Tarrasque, but it wasn't like he could judge the beast. It wasn't a full person, at least not yet. It only offered the very narrowest hint of emotions, and before it could gain a measure of higher thought and morality, what point was there in casting it as a creature of sin? It didn't even ignite much in the presence of Adam's evangelizing temple. Shiv could see it simmering slightly now, but Adam's Heroism was either too weak to properly infect it without him being here in person, or his Domain saw the Tarrasque as more akin to a natural disaster than a true sinner.
+
+Whatever the case, he found himself appreciative of the Tarrasque's company, for it listened and ate without any apprehension. It had no complaints about ingredients or specific requests to deform or ruin a meal—like that idiot who asked for a set of vegetarian beef ribs three days ago.
+
+That demand nearly gave Shiv an aneurysm.
+
+Such a thing never came from the Tarrasque. It was simply happy to savor and sample.
+
+The few times the Jotun tried to intrude on the scene, they were rebuffed by the Tarrasque's constant clapping. When mages strong enough to weather the blasts appeared, they attacked Shiv with stronger spells than before—clearly cast in concert to overwhelm his Shapeless Tides. He countered this by staying close to the Tarrasque, which usually caused them to hesitate. After all, if they struck the Endhound, it would soon become their problem as well, and between him and the Tarrasque, he could easily see this place ripped open and the Endhound set free upon the land.
+
+Not that Shiv was interested in doing that, but the Pale didn't know his intentions. In actuality, he wanted to lure it away somehow, and he was actively scheming on how he could make that possible.
+
+But at some point, his schemes came to a halt as a simpler solution arrived. While he was negotiating and entertaining the Tarrasque with food, he might as well negotiate with the one in charge and see if he could get them to relinquish it into Shiv's charge. After all, the Jotun were trying to get rid of the Tarrasque as soon as possible, and with his presence, the transfer over to Lord Scorn was now impossible; the invasion they desired was already ruined.
+
+Through his merciful acquisition, they might still be granted a measure of peace. And thus, as Shiv continued cooking chunks of his mana while trying to explain how the Tarrasque could make a stronger pan by assembling pieces from its shell, he quickly sent his Harbinger over to snatch another one of his bodies before bringing it across into the enclosure as well. The sudden manifestation of a new vessel briefly confused the Tarrasque, but Shiv waved his Last Morsel before it could act up. Immediately, the Tarrasque lost interest in the second Deathless and was lured toward the nihilist's flame lighting the Last Morsel's glowing edges instead.
+
+“Hey, Pale, Shattered Court, whatever you guys call yourselves, I wanna talk business. Specifically, you giving me the Tarrasque.” He made his intentions known immediately, and the Harbinger solidified around him as he felt a flow state come into play. It was more than just cooking. It was him playing his schemes, using his skills not to destroy but to control. And with how apprehensive his enemies were to strike at him again, he knew that he possessed the initiative.
+
+Time to see if he could prevent an invasion before the bloodshed properly began.
+
+A few seconds after he finished his declaration, a small gap opened in the dimensional enclosure, and Shiv's primary negotiating vessel drifted out, slipping through the crack to face a series of cylindrical wards layered on the outside. There was nowhere for him to escape to, and he could feel the oppressive presence of temporal stalling mana. If he tried to jump, he would shred his Harbinger apart.
+
+That was just as well. He shifted the Harbinger to another one of his bodies, surrendering that vessel to loss. Even if they trapped that version of him, he would simply jump Backstage and deny them their prize. He had plenty of bodies to spare, and just losing one was a trifling thing.
+
+Shiv embraced the light and suffered the cold willingly. He held his arms out and faced his enemies, prepared to be struck down at any moment. When nothing came, he raised his voice to speak, their hesitation becoming his moment of initiative. “I think I should start this by thanking all of you. I wasn't sure what to do with my Tarrasque, but here you are, giving it a nice place. You even kept it happy. You really did me a service here.”
+
+Before him was a swirling canvas of bone-chilling white. The Pale was the breath of harshest winter, but it didn't dare encroach upon him—even as he exposed himself, even as he stood alone, unguarded and surrounded by enemies. He still sensed his adversaries; between his Atlas and his ability to sense vitality, he saw through the layered wards and the blank, cold canvas to glimpse a constellation of life-force, some spots brighter than others but all of them Pathbearers, all of them assembling, with more teleporting in every passing second to further seal him within this hastily made quarantine.
+
+A few thousand unseen Jotunn became ten thousand and then more in a scant few heartbeats. Then there was the flare of incandescence: Three presences ignited amidst the frost, pressing against Shiv as waves of pressure washed over him and an ambient field of divine mana crashed upon his Magical Resistance, sparking off his armored soul. The three Divinities drew closer, but they still lingered behind the wards. Part of that flattered him.
+
+He, too, was a walking calamity, much like the Tarrasque spawned from his essence. The biggest difference between them, however, was how reasonable he could be. And how his words might prove a greater threat than his might.
+
+“Let me guess. The Crone, the Child, and the Warrior have come to greet me.” Shiv did a bow, and he tried to keep his mockery out of it. He succeeded. Mostly. The frost ahead of him thinned just enough for him to see through, and at first they appeared in the vagueness of their contours. Instead of being three standing apart, the trio of gods was fused into a single body—an individual colossus that was stacked over itself. The Child then was at its center, a malformed fetus with its head too large for its body, its flesh caked and meshed into the torso of the Warrior.
+
+The Child of the Shattered Moon was hollow of eyes, yet sported a scar at the center of its head. From that wound gleamed a gem of violet radiance, an expression of Divination further fueled by divinity.
+
+It looked upon him, and Shiv felt the faintest tinge of fear fester in its stare, for the air around him was stained with motes and furrows of dreaded nothingness. Shiv furthered the effects of his intimidation and stealth by activating his Dread-Tainted Feat and granting them insight into what a far weaker version of him was capable of.
+
+From that, the darkness around him grew, and Shiv let fly his plague flies as well. Twin capes spilled out of him, one of plague and flesh, the other of darkness and dread. He stood a counterpoint to the resplendence of the Jotun gods, for if they were divinity, then he was something sunken, something baser.
+
+But the gods of the Jotun were a tripartite thing, and though the Child was afraid, the Warrior stood a bulwark. He reminded Shiv of the Endbreaker in certain ways. His beard was constructed in stalagmites of pointed frost, and his face was more scar than skin, ridged with dull blue chasms and crevices, while his body was covered in bones derived from fallen foes and his shoulders were adorned with furs harvested from colossal beasts.
+
+The weapon the Warrior bore was a masterpiece of exquisite detail and blinding aesthetic. It was more than a wicked maul on one end and a ridged battle-axe head on the other. Its flat surface was inscribed in lines of vivid detail, tracing more than just spell patterns; there were artistic illustrations of the Jotun struggling alongside the cold, the triangulations gliding with the substance of the Pale, surging and circulating, as entwined with their history as it was nested inside their Pathbearers. In this, Shiv didn't see something that presented itself as a parasite, but more like a symbiotic guide—a kin race for an entire species.
+
+And then, crowned above the Warrior and the Child, was the Crone, the eldest of the three, sprouting from the back of the Warrior. At first, Shiv imagined her as a cancer, but as the seconds went on, he understood he was viewing her symbolism wrong.
+
+Cancers developed when cells went immortal. They refused to die and spread into surrounding tissues—a sort of plague of life collapsing the harmony of the greater architecture. The Crone was not that. She was not misshapen, though she did look grotesque; but there was a naturalistic disgust she inspired. Her head was shrunken compared to the Child, and her body was barely there when measured against the scarred mass of the Warrior, but her nature was defined by two things.
+
+The first was the Pale itself—it bit into her, grew out from her in a risen crown defined by spikes of pale rim and fragments harvested from the fallen moon of her now absorbed homeworld. Then, there was the placenta that spread out from her desiccated torso—a sign that she was literally spending all her biomass and vigor and giving it unto the Warrior and the Child. But with the way her sinew-thin limbs clung tight to the Warrior’s neck and caressed the Child’s cheek, it was clear that this was not a thing of pain on her part or great loss, but a willing sacrifice.
+
+The act of a great mother giving life to everyone that followed.
+
+Aesthetics and symbolism were critical parts of a god, more so than individual Pathbearers who could choose how to equip themselves or could change their style and attire on a whim. It seemed that the divinities were shaped and remained shaped in specific forms that were governed by their Scripture and nature.
+
+Adam was still a Demigod, but even he suffered certain fates. His eye was not returned, though it never affected his Awareness or left him impaired. The deprivation of one of his organs was presented as a significant, even canonical, event in his lore, and so his physical manifestation responded in kind. More than just the missing eye, however, it was his nature as a Changeling. He transformed, a mirror of those he worshipped, becoming orc-like, then robotic, and back to humanoid depending on the presence of people he was in and the shift in mindset he assumed.
+
+The Child, the Warrior, and the Crone, then, further along in their Divinity, were even more constrained, but that constraint also revealed certain things to Shiv: it hinted at what Domain they possessed, what personalities each might have, and how to approach them.
+
+They loomed a kilometer away, a towering presence standing as if a great tree, but still a paltry thing compared to the Tarrasque. Judging from the faintness of their Divinity, Shiv felt more certain about one of his prior theories. The Republic liked keeping the beasts up North and gave them a reliable foreign enemy to shape their citizenry with fear and focus their ire outward. Nothing was more unifying than an invader, after all.
+
+He suspected the trio he beheld was only a partial vessel of the full divine power possessed by their gods, but even so, he suspected that the pantheon of the Shattered Moon was far lesser than that of the Ascendancy and might just be closer in terms of power to the Composer. Such a thing would make sense as well—they'd lost the last Incursion, their world was ruined, and they were confined to the North of Integrated Earth.
+
+If they truly possessed a means to resist and overcome their rivals—namely the Yellowstone Republic—then they would have. And right now, with their innermost territory invaded by the Deathless, what reason would they have to keep power in reserve if power needed to be projected?
+
+Sometimes aesthetics were more than symbolism. Sometimes aesthetics hinted at scarcity and necessity.
+
+“This is an act of war, Deathless,” the Court of the Shattered Moon’s gods spoke as one. The Warrior was the loudest, his voice a thundering baritone, the Child highest as the alto, and the Crone spoke through the wailing of a passing wind. She communicated in tandem with the Pale; her power, her magic, her knowledge, and Domain were lent to the essence of that which resided in all Frost Giants and painted the land whiter than the snow itself.
+
+In that, the trio was actually a quadruple. Yet, the closeness in cooperation between the Crone and the Pale had Shiv guessing some of the Republic's intelligence. This wasn't the behavior of a civilization that had been infiltrated. This was the behavior of comfort and thoughtlessness that came after living and accepting another entity as a practical, critical extension of yourself for eons.
+
+The Pale could still be a parasite or a memetic deceiver, but Shiv felt his intuition solidify and suspected that he'd been sold another bill of lies from the Republic. Or maybe Veronica's agents didn't know nearly as much as they presented. After all, considering the bestiary and everything they said about the Abyss below, information was a premium in the Republic, and deception was second nature. The control of symbolism and stories was to shape faith itself.
+
+“Is it?” Shiv said, not even playing at nonchalance. “Then what’s trying to move a Tarrasque across dimensions to unleash it on a neutral Gate?”
+
+The winds howled louder; the air grew even colder. “Neutral? What a jest. What a debased lie.”
+
+“But it isn’t,” Shiv shot back immediately. “Let's not bullshit each other here. You have Social Skills, and so do I. I'm not lying to you. If you're going to accuse me of being the Republic's lapdog or something stupid like that, I want you to know something: I haven't killed any of your children in my Gate. I haven't even killed one of your Legendary Prophetesses—though I was well within my rights to do so. I had her at my mercy, and I let her live. Your people are inside my gate as guests, and I've upheld the laws of hospitality.” Shiv paused as he remembered the Male Pregnancy incident. “Mostly. The only reason why I'm here and the only reason why a bunch of your people are dead and I am standing with the Republic is that you have my Tarrasque and you were planning to give it over to Lord Scorn for some cockamamie attempt at a preemptive strike.”
+
+Writing 29 > 32
+
+Yes! Thank you, Snapshot! I’m going to memorize more words from the dictionary!
+
+“And a preemptive strike didn't even work, no?” Shiv looked behind and glanced at the dimensional barriers separating one of his vessels from the other. Behind—within that magical enclosure, his other self was now mixing and meshing different slabs of cooked mana fields. He even sacrificed a sprinkle of Chronomancy and Psychomancy from his Harbinger, though it hurt him to do so. It pleased the Tarrasque to no end, and the creature was almost entirely pacified. Shiv suspected he could keep it in this state for as long as the food kept coming.
+
+The Pale and its gods kept to their silence as he spoke on, declaring things from his perspective. “Let’s not even get into the philosophies and the worldviews between us: the Tarrasque won’t work. Even if I let you shuttle it over to Lord Scorn’s dimension, it won’t work. Because it’s tainted by me. And you probably had a feeling about that for a while, didn’t you? Maybe that’s why you were trying to hand it over: so some other god could try and handle it for you. Well, I got bad news for you: Lord Scorn’s kind of a fucking moron. Giving the Tarrasque to him will probably just end with us unleashing it on his world—which would make this the third slight we performed against him. But let’s say we all do nothing. Let’s say I let you drop this inside my Gate. You wanna know what’s going to follow? Because I can tell you. I have an entire district dedicated to cooking. I feed thousands of people a day. Humans, elves, goblins, dragons, orcs…”
+
+“Your enchantment over the beast will not last,” the Child sang in denial. “Its nature is—”
+
+“It’s my nature too,” Shiv countered. “What do you think my mind is based off of? Why do you think I can shrug so many things off? Things that would have driven other people insane? How much conflict can a single mortal take before they lose their mind?” He gave the Pale a moment to think on that. “It’s part of the reason why I kind of get the Tarrasque. The larger reason, though, is because my soul is imprinted on it. It’s more like me than I’m like it. So, yeah, I guess you can get it to smash some things, but it’s already pre-shaped by my legend. Tarrasques shouldn't develop non-martial skills. But it did. And this thing’s motivations are simple: it wants to eat, and it wants to cook. So, your weapon isn’t that good of a weapon anymore. Which, again, is why we should just cut through this bullshit, and settle things.”
+
+“Settle things,” the Warrior grumbled, clenching his colossal halberd tighter.
+
+“Yeah. Give the Tarrasque to me, and I’ll consider all this a service on your part. I’ll even invite one of your representatives into the Gate Piety council. You can have a place there. There doesn’t need to be war between us. There doesn’t need to be anything. You acted the way you did before out of fear? Fine. I get that. I’m afraid of the Republic too. I know what the Ascendants can do. But I’m not them. And I’m not their dog, though I have to play fetch so they don’t do to me what they inflicted on you.”
+
+The faintest of fractures spread across not only the gods of the Shattered Moon but the Pale's side. Everyone felt the weight of Shiv's Harbinger, and he couldn't hide his smirk of triumph, for he felt their vulnerability. His theory was confirmed. The Republic had their heel on the North, and he dug into that pain.
+
+But then he pulled away before he gouged them too deep.
+
+This body of his was sequestered away from sight—only Uva likely knew what was unfolding right now, but she likely blocked this from her psionic broadcast in the chamber. Veronica was playing her games, and he could play with his.
+
+Besides, if he did things right, then everyone would come out of this happy anyway—or at least mutually unsatisfied.
+
+“There’s no easy way out of this,” Shiv said. “Not for you and not for me. But we can make things easier for each other. We can both choose when we want to play fetch and with whom. You don't want the Republic to break you, and I don’t want to be broken by the Republic either. But if it’s a choice between you and them, I’m going to choose them. It’s simple. But. I have a say in this. I come back with each death, so let me lay out what’s going to happen if you stay your current path, yeah? You try to drop the Tarrasque on us—you refuse to return it to me—and things are going to get worse and stay that way for you.”
+
+He snorted. “And it isn’t a threat. I’m going to do that because you are committed to being an enemy. I can’t have that. Now. To convince you to do something else, I’m going to spend life after life ruining things for you. I will launch body after body to damage your walls and set your homes on fire; I’ll do it willingly with joy because you’re slavers—let’s not play with subtext here; I despise your kind. I despise the fact that you’re all degenerates. But I can live with you. For now. And you can live with me. For now. We can mutually coexist in dissatisfaction if you don’t give me a reason to come for you.”
+
+“And you think this honesty serves you,” the Crone drawled, the winter winds surrounding him speeding up.
+
+“I know it does—I can fucking feel the pull I have on you. But it doesn’t matter because it’s true. You can lie to yourself, but you can’t lie to the world or the System. The next Incursion is coming too anyway. And you’re here in this world now. You stay this course, and I want you to think real hard about what’s going to be the case in a year. Just imagine. Do you think you can reliably finish me off in a year? Never mind that: do you think that you can survive a year if I convince the Republic to march against you?”
+
+The Pale stopped singing its whistling song. The gods were utterly still. They were considering his words, trying to think of a counter.
+
+He didn’t give them a chance to think themselves into extinction. “There isn’t a good way out of this, guys. This isn’t a theoretical problem: you got two bowls of shit in front of you, and one’s less filled with shit. Time to choose. You’re going to have to deal with the Southerners, but you don’t need to keep dealing with these specific Southerners and Gate Piety. We have enough problems ourselves. And though we can’t deal with all our problems, I can be a fatal issue for you. And no, before you ask if I’m just going to throw the Tarrasque back at you, I could have done that just now. Between me and it, we could have ripped the dimensional mana open and declared an invasion. Maybe if you concentrate your power, you can kill it and me—but we’ll resurrect, and then the Republic will move in to smash through your walls.”
+
+Well, they probably won’t because they want you around, but I don’t need you to know that, Shiv thought to himself.
+
+Scheming Bastard 44 > 47
+
+“So, here’s the deal I have for you: you get representation in Gate Piety as well as our ensured neutrality, with caveats, obviously. Hells, I will even cook for you guys—if it keeps the peace. However, I’m collecting the Vicar’s mistake. You will give the Tarrasque back to me. Because it belongs to me, and it’s never been yours. This isn’t a threat, but a service; a felling bargain. If you say yes, you remove two apocalypses from the table, and make both of them into potential allies. Fragile, tentative allies, but allies still. And before you ask if you can trust me, the answer is yes and no. We all have our interests, but along some lines, we have the same interests, and we can run those rails for as long as we can. So. Choose. Decide. And make this easy for all of us. I’m begging you right now: don’t fuck yourself. You already suffered one Endhound. Don’t turn me into another for you.”
+
+Gardener of Doubt 82 > 85
+
+These Words of Truth and Adoration 98 > 102 (Skill Evolution Reached)

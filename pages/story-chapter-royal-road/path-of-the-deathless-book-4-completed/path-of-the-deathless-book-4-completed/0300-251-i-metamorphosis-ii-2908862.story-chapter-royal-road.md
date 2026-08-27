@@ -1,0 +1,143 @@
+---
+id: 2fee7de8-bbe9-5b54-bd9a-0721b1f930c0
+page-type-slug: story-chapter-royal-road
+title: "251 (I) Metamorphosis [II]"
+slug: 0300-251-i-metamorphosis-ii-2908862
+partOf: path-of-the-deathless-book-4-completed
+position: 300
+ownLength: 3065
+unit: words
+publishedAt: 2026-01-03
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2908862/251-i-metamorphosis-ii"
+royalRoadId: "2908862"
+---
+
+As mortals, mutation and transformation are our birthright. Our bodies stand open, a System where entropy and change flow through us in equal measure. At baseline, we transform toward degradation. We break down, parts of us stop working, certain organs fail before the others.
+
+We shrivel. We die.
+
+Our testament is simply that we are meant to propagate. So that we can pass on this transformation and, over time, beyond the reach of eons, perhaps new traits and blessings might follow among our later descendants.
+
+As Pathbearers, we can defy this fate. We can re-forge ourselves by evolving our skills, by claiming blessings from the Divine, by overcoming trials that doom others to oblivion.
+
+But even this offers but a temporary respite. For the System's appetite is insatiable, and sooner or later, even the greatest tiger will find itself displaced from the mountain by a greater beast. Even the sharpest blade will be shattered upon a harder shell.
+
+For what we gain in lifespan and power is a debt incurred in the shape of violence and bloodshed. Understand that so long as you exist under the System's reign, you are fated to face a brutal end.
+
+Do not despair, though. There is an escape, there is a method to slip free from the shackles that bind you. If you flee to the Outside, you will find yourself prey. You will find yourself inadequate to traverse the ever-nightmarish realm that belongs to the eldritch.
+
+But you can change, you will change, and so long as you survive that final struggle, so long as you dare to face the strange and step beyond that threshold, then maybe you can sever the final links binding you to the cruel slave master that has seized our existence and tread a path of your own, a path into the dark, where the promise of entropy might not be so absolute, where war is not written into the constellations above.
+
+Yours is the choice, Seeker, choice to take the path less traveled, choice to embark into a new dimension and see a bid placed upon mind and soul. A bid that will see you rent utterly asunder, your fabric of humanity undone and remolded, casting you something new. And as your mortal flesh withers away, what hatches from the bud may be beautiful, terrible, or altogether unworthy of continued life. But there is a chance, and a chance is more than what is offered before the change…
+
+-Seekers of the Elder Mysteries
+
+251 (I)
+
+Metamorphosis [II]
+
+Some time after the siege of Blackedge…
+
+Cherished Sister Uva Mettabon had no idea how Roland Arrow had managed to hold Blackedge for so long. If his tenure defending the town was anywhere near as miserable as hers of shuttling them through the Outside, then he had her utmost respect.
+
+She couldn't imagine doing this for a week, let alone months.
+
+In the aftermath of the undying Tarrasque’s attack, Shiv and Adam’s capture, and the encroaching Ascendants, Uva made a choice. A most unwelcome one. Using the Divinity invested into her by the Starhawk and her connection to the Outside, she opened a pathway, tearing the fabric of existence asunder and casting all of Blackedge across to the one place the Ascendants were reluctant to follow. Stepping into the very periphery of the System’s domain in pursuit of Roland Arrow and Starhawk’s Perch would mean leaving their vaunted Republic open to predation at the jaws of a world-ending behemoth, and so they stayed their hand.
+
+But with this victorious escape came consequences. Her path was thrown off by a sudden mana storm that battered her. That mana storm manifested in no small part due to the System's displeasure. She got the faint impression she was going against its will, and so she found herself cast astray, pulled off from her desired path to the Dreamtaker's realm, and thrown elsewhere beyond the threshold of Integration.
+
+Ultimately, she managed to reach the Outside, but where they landed was not the promised safety of her patron’s home. Instead, they found themselves cast off into the Stranger’s domain, and immediately, the great adversary turned their attention on her.
+
+Rather than liberated, she found herself hunted: a morsel of honey-glazed flesh dropped in a withered wilderness, robbed of all vegetation, bereft of everything except predators and monsters.
+
+The attacks were ceaseless. Nightmares of all shapes and powers descended on the town, and she barely warded them off. She wasn't used to wielding the Starhawk's Divine power, and the god himself didn't understand her true capabilities. But though she paled in comparison to Roland Arrow, she was still a Divine Avatar, one further infused with eldritch might of her own.
+
+The Dreamtaker warned her of the threat she was facing, illustrating their weaknesses and highlighting how to see them driven off. And with the power of a godly entity, her Psychomancy and other skills were magnified to an unfathomable extent. Her Awareness, once merely Adept, found itself accelerating past the Heroic threshold.
+
+Things she touched, she sensed, she saw. The world expanded around her like a net. She was her Psychomancy. She was her mana. She was everything she left traces of memory in. She resided within every being that she altered the mind of. In effect, whatever she broke mentally became an eye she could see through, an ear she could hear from, a nose she could draw in scents with.
+
+And though she barely held back the Stranger's offspring during the initial onslaught, she did. Rip into their minds and cast their broken psyches back at their allies, she did. Freeze them in their tracks, she did. Her Cryomancy, once feeble, was now capable of stealing the very flesh of an anomalous entity. But even so, it wasn't enough. She was being worn down. She'd known constant combat, had found her endurance hardened in the aftermath of facing the rogue Dragon-Knight lance, but this was something else altogether.
+
+There was no second of respite, there was no moment to catch her breath, to respond, to clear her thoughts, or come up with a strategy. Everything was attack, react, survive, fix, deal with the breach, eradicate the Stranger's psionic viruses infesting the survivors of the town, eradicate the Stranger's mind magic constructs and abnormal golems that took the forms of Shiv and Adam, who nearly convinced her to let them in during a moment of exhaustion-induced delirium.
+
+It went on and on and on, one crisis after another, like the System was treating her as if she were a raw lump of iron, hammering her repeatedly without care, forcing her into the flames again and again.
+
+Uva used her Psychomancy to attune her own mind. Her focus was sharpened beyond a razor's edge, never faltering. Her need to rest was offloaded into others in the town, people willing to bear her burdens, and then non-essential personnel altogether, if they liked it or not. The remaining Biomancers and guards came to support her in whatever way they could, but the battle she fought was different from Roland’s, and she could taste it in their minds. The distrust, the worry. She was an Abyssal, an adversary of the Republic. A child of the depths, a loyal daughter to an enemy goddess.
+
+Puppeteer of the Formless Strings 190 > 191
+
+And so, while she wrestled with keeping them alive and keeping the Stranger's tendrils away, they wrestled with the fact that their god was bound to her, that their fates were tied to her. Even if they managed to escape the fell clutches of the Outsiders, perhaps the one she would turn her mind magic upon next would be them. And then they would be as if puppets dancing on her strings. Trading one form of enslavement for another.
+
+She didn't have time to convince the people of her good intentions. No, she left that duty to Rose Van Erren, who found herself assuming the role of Lady of the township and de facto leader in Roland's absence. The Town Lord had fallen into a coma by the time they arrived in the Stranger’s dimension, and he now resided in an infirmary within the castle alongside Havel Van Stormhalt's daughter and many others.
+
+Under Rose's authority and guidance, a measure of stability returned to Blackedge, even if absolute terror still gripped the people.
+
+Of the 50,000 souls or so that once populated Blackedge, less than 6,000 remained. Barely six thousand, and soon to be much fewer. Even with Uva's growing power, with her expanding Awareness, with her amplified skills, there were still too many threats to contend with. Some of the eldritch beasts breached through. And as they tunneled between the gaps and openings they made within her cocoon of Psychomancy, they slaughtered and devoured whoever they could.
+
+In fact, despite Uva functioning at magnitudes beyond her normal level of a Heroic Pathbearer, Blackedge would have fallen if not for Valor Thann. Valor, who, though but a pale shadow of the Legend he once was, still possessed considerable affinity for warfare and, even more so, Stealth. With Rose's allowance, he gathered the remaining martial Pathbearers, Slayers, and Arrow Family Guards on Blackedge in a brutal guerrilla campaign to drive back the monstrosities and hold what remained of the town, or what was left of its ruins.
+
+And through a combination of temerity, sacrifice, expertise, and sheer desperate combat, they held the Stranger's lesser offspring back long enough for Uva to turn her strings upon them, to usurp their bodies and capture them alive as specimens she could experiment on and study.
+
+That's when things began turning around. In part for the town, perhaps.
+
+But it was also when things began twisting inside Uva.
+
+After surviving the first thousand or so waves, Uva's Parallel Thinking and Reflexes evolved and fused.
+
+Skill Fusion: Divisional of Nous (Master) - Tempest Fugitive (Master) > Matryoshka Dilation
+
+Matryoshka Dilation 112 (Heroic)
+
+At first, her speed remained relatively normal, and the world even seemed a bit faster than before, harder for her to keep up. But the more she focused, the more she used her Psychomancy, the more she thought in general, things around her began to slow.
+
+And then a subsequent change came. As she hit a critical mass of thought, a portion of herself divided. Suddenly, she found herself split along two paths. Her Parallel Thinking skills had returned, but from two became four, and from four became sixteen. With every division of her mind, her ability to react, her ability to move, to wield her Psychomancy, was accelerated.
+
+Beyond her, everything grew slower and slower. But there was a limit to this, for her mind itself was being taxed immensely. Though she, as a Psychomancer, possessed considerable cognitive reserves, there was a point at which the mental burn would be so much that her vessels would burst, and her mind would boil inside her skull.
+
+So she found a way around that as well. She tapped into the residents of Blackedge, using the strongest among their number to offset some of her load. And as soon as she did that, she found another use for them. Many of the survivors were deeply traumatized, not only from the constant eldritch attacks but also from all they'd endured during Vicar Sullain's siege. A considerable portion of the town's surviving population had developed mental afflictions to cope.
+
+Some went schizophrenic. Others dissociated. All these were forms of madness, as far as the System was concerned, and they were further amplified when they were faced with the Stranger's offspring.
+
+Uva drained all this mental damage away, using her Source of Madness Feat to empower herself. It allowed her to multiply her active minds even more and make herself even faster. And suddenly, though she was constantly under attack, she did have breathing room.
+
+Just minutes at first, but then they expanded from there, and the Starhawk's power paired with the Dreamtaker's colors allowed her to further magnify the effects of her Reflexes and Parallel Thinking Skill Fusion to a peak that would rival any Legend.
+
+But there was another reason on top of her being extremely System-favored for why she was leveling so fast.
+
+Something was changing within her skills. As the moments of her respite grew, she started hearing whispers from within the depths of her very soul, heard an entity speak to her, utterly unnoticed by the Starhawk and the Dreamtaker both.
+
+The Eldest had returned, and they were spreading through her soul. Though Shiv had managed to kill the first of the Eldest's transplanted offspring, they now spoke to her, entreated her, asked her to partake in their bargain, to stop struggling against them using the Starhawk’s divinity.
+
+"You know you do not have enough power," the Eldest whispered, "but with me, there is hope. Either through rebirth, or through the hatchling born from you. Whatever remains will be more potent by far. You cannot beat my wayward child alone. You cannot consume the Stranger. He will devour you instead."
+
+Uva didn't bother replying to the Eldest at first. If it was out of spite or just because she was too exhausted to host a dialogue with an entity she could barely understand was beyond her. She had far too many other matters to focus on. More than that, she was winning, prevailing with the aid of the Dreamtaker and the Starhawk. She thought she could drive the Stranger back, could rip open the veil between worlds once more, and return to Integrated Earth.
+
+But there were multiple problems with this. First, she had no idea where Earth lay in the grand web that was all of existence. When Uva had torn open the boundaries between worlds using her enhanced Dreamtaker's Gaze, attempting to reach her dimension, the mana storm had crashed into them, and the System's scornful hand had thrown her into a den of mortal dangers, doubtlessly trying to feed itself while also punishing her escape.
+
+As she was effectively lost, she decided that she'd rather be lost somewhere else and attempted to tear open the fabric of reality again. But as she used her Dreamtaker's Gaze upon the eldritch wilderness that characterized the Stranger's domain, she found her power rebuffed, found the very atmosphere defiant, nullifying her colors like a splash of water washing away oil.
+
+“Ignore it,” the Starhawk said, his voice echoing from within her. “I will keep it at bay. Whatever it is.”
+
+But she knew that Starhawk had limits as well. He didn’t know her skills or soul as well as he did Roland’s. And she was already compromised through the Dreamtaker, who couldn’t even perceive her parent, no matter how much Uva tried to tell her.
+
+The Eldest was spreading. Like a cancer. And Uva didn’t have time to attend to them, for another voice spoke to her in taunting whispers as well.
+
+"You will not leave my grasp. You are mine, Seeker. You have fallen to me. The System has delivered you to me. You have given yourself to me."
+
+Such was the Stranger's declaration in the aftermath of her attempt to reach back across to Integrated space from the Outside. She tried several more times, but even with her magnified powers, she found herself unable to rip through, probably because she was, in an abstract sense, within the very body of the Stranger, who seemed nigh omnipotent here.
+
+But not quite omniscient, however.
+
+There was a flaw in the Stranger's offspring. All of them loathed the Stranger. All of them wished to break free, to become their own eldritch god, or whatever they viewed themselves as. Effectively, the realm itself was at war with its own nature, trying to divide, attempting to undergo its own metamorphosis. But the Stranger was a tyrant, and he held all these smaller monstrosities in sway. He was effectively a rageful father, a brutal and cold patriarch that refused to let any of its young go. If the System had driven the Stranger to become this way, or if the System had simply categorized him as something he'd always been, she didn't know, and she didn't care.
+
+The fact of the matter was that the Stranger’s uncountable spawn remained limbs to his body, hands for him to wield.
+
+But the urge to break free always remained, and the Stranger had to exert a considerable portion of his own cognitive capacity to keep his so-called body under control, or at least undivided.
+
+And that was how Uva began exploiting their separated perception. The offspring still had their own minds, even though those minds were tied to the Stranger himself. It was like being your own independent being, but also having most of your consciousness broadcast from a source beyond worlds, a source that guaranteed your existence without fully sculpting it.
+
+And that was the Stranger's ultimate flaw. For he was characterized by their own name, as given by the System. He was estranged from himself, estranged from the world. Every single one of his skills was invasive, forceful, deviant; they twisted the rules, they broke existing notions, and flayed patterns. And more than anything, the Stranger flayed himself. He was a destructive entity. But he was also a self-mutilating one.
+
+She experimented on the captured offspring first, learning the ways their minds flowed. But despite her best efforts, it was hard to acclimate to them. Though her mind was accelerated, though they were practically slow compared to her, she wasn't eldritch. She was capable of sustaining a connection with them now, but it still hurt her; it still damaged her psyche. She drew on her wounds to fuel her Feat, and her vulnerability was turned to a strength. But even so, that didn't allow her to mantle them as she would an animal or an individual. They were, in effect, more impenetrable than even an automaton.
+
+"And so you need to change," the Eldest said. "Stop fighting. Stop resisting. Stop trying to use the Starhawk's Divinity to burn me away. You must change. You are no longer in your own environment. This is not Earth. You are trapped with my offspring, with my children. They will devour you. The Dreamtaker is already dipping herself into you, drinking from you. You must decide: Birth something new, or be reborn. There is no survival otherwise."

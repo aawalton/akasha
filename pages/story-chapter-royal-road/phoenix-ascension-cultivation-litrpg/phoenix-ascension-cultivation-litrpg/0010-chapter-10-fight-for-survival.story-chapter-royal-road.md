@@ -1,0 +1,265 @@
+---
+id: 08a4261f-2c07-5561-b243-fb98641f0d9d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 10: Fight for Survival"
+slug: 0010-chapter-10-fight-for-survival
+partOf: phoenix-ascension-cultivation-litrpg
+position: 10
+ownLength: 3520
+unit: words
+publishedAt: 2025-08-19
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2530765/chapter-10-fight-for-survival"
+royalRoadId: "2530765"
+---
+
+"Where hasss he gone?” Lord Ssseverus sstood upon hisss sstone throne, hisss tail swaying from left to right like a pendulum. Bessside him were two other sssnakes, a male and a female, both bearing hisss featuresss.
+
+“Younger brother hasss gone out again?” the male asssked, hisss gaze disstant.
+
+“He hasss. That lazy, good-for-nothing…” Lord Ssseverus sssnarled, though hisss tone was tinged with love. “He’sss barely level three… I don’t underssstand why he’sss sso daring.”
+
+“Father, could hisss sssystem have a defect?” the female sss’d, her voice dripping with worry.
+
+Lord Ssseverus lashed hisss tail, hisss ssscales rasping a disstinct note againssst the hard rock. “That’sss imposssible. The sssystem isss perfect— flawlessss— beyond our comprehension. To ssspeak sssuch thing isss blasssphemy againssst the very heavensss.”
+
+“My apologiesss, Father!” The female sserpent bowed her head low.
+
+“Hmph… You’re both sso closse to evolving. Asss elder brother and sssissster, you ssshould be an example to the little one. Once he ssseesss you ssshed your old ssscales, he’ll definitely ssstrive to improve.”
+
+“Definitely, definitely. Lord Father isss right!” Both agreed, their headsss nodding in perfect sssync. “Younger brother hasss jusst hatched and isss ssstubborn. Growing without our mother’sss protection mussst be hard. We had her guidance… but now that she’sss gone, it’sss hard on all of usss,” the female ssaid, lowering her head.
+
+“Don’t worry, children. I— your father— will protect you.”
+
+“Your Lordssship!” A ssshout rang from outssside, and a sserpent with a sstick wrapped around hisss tail russshed in, alongssside another holding sssomething orange in their mouth— a feather.
+
+“What isss it? What’sss ssso urgent that you dare to russsh into my abode?!”
+
+“Your Lordssship, thisss— we—”
+
+“Ssspit it out already!”
+
+“Lord Ssecond Prince… isss dead.”
+
+“What?!” All three hissed at onssce, blood ssurging through their tailsss asss they fixed the two guardsss with blood-ssshot eyesss.
+
+“We found hisss corpssse… It wass so far away, at least a few dozen miles from here. Heavensss— the sssight wasss violent. Hisss body wasss opened, hisss core extracted… and it looksss like sssomeone took a bite out of him!”
+
+“He… what… how?! Who?!” Lord Ssseverusss’ss voice tightened, urgency coiling within every word. “Who wasss it?!”
+
+“We don’t know,” the guard with the sstick ssaid, nudging the other forward. “We found many of thessse at the ssscene. The killer mussst have left a trail— they got poisoned after ea… eating.” Hisss tongue flicked in dissgust at the word, but he forced it out.
+
+The ssecond guard dropped the feather, and asss it touched the sstone, Lord Ssseverusss ordered in a cold, venom-laced voice:
+
+“Find them… and bring me their corpssse.”
+
+***
+
+I didn't consider whether or not I was strong enough to wander through the forest alone. That wouldn't stop me from leaving the safety of the nest and walking around. I've stayed put for the past few days and was growing restless.
+
+I cultivated during the night— getting ever so close to the second stage of Qi Condensation— and ran around in circles until exhaustion during the day. I'd also been eating whatever animal Mother brought, and absorbing their cores, if they had any.
+
+However, it seemed that either my luck was rotten to the core, or I just couldn't get any other skills from absorbing their Beast Core— even if I did manage to get a few stat points, it's hardly enough!
+
+It was quite annoying, as my skills had saved me from death multiple times by then, and not being able to add any to my arsenal put a bad taste in my mouth. After learning Mother's schedule— where she would leave when the sun was at its highest and come back when it set— I decided that it was time for a solo adventure.
+
+My stomach growled, and my body practically screamed at me to do something more active. I was sure that Mother wouldn't mind, or even know, as long as I came back in one piece.
+
+Going down was easy enough, as there were a lot of branches and bushes to stop my fall. I would have to figure out how to actually climb up, but I didn't consider that an issue.
+
+After indirectly ingesting the snake's heart and absorbing its Beast Core, I had a long and peaceful sleep.
+
+As usual, when I woke up, I had grown and felt my wings get easier to use. The feathers on them were stronger, no longer as puffy as before, and I could actually get some lift if I tried hard enough. Soon, flight would be within my set of skills.
+
+The Poison Resistance also gave me more confidence; however, I didn't want to try levelling it up in the slightest. If my understanding of System is right, then bringing the skills up a level would require me to actually use them. That wasn't something I wanted to do with the Poison Resistance skill.
+
+I simply have to be more careful.
+
+So far, the little amount of Qi at my dispolas did the job. Even though most of it wasn’t usable by the Ghost Qi Technique. That was another reason most people chose not to cultivate such an evil technique.
+
+That also meant the Spirit Beasts in this area would be far weaker than before. However, that didn't bother me that much. I decided I would hunt and kill, and grow stronger regardless of who or what stands before me.
+
+I snuck through the bushes, hiding to the best of my ability within the grass and shadows. From afar, I resembled a tiny dot that wasn't exactly out of place amongst the different types of plants.
+
+I wish I had Mother's stealth skill...
+
+Obtaining a stealth skill would have been a great asset, considering my current circumstances. However there didn't seem to be any information about stealth in my scattered memories, and there wasn't anything I could do about it.
+
+Ah, System!
+
+[How may I be of use?]
+
+Are there any stealth skills I can buy? Or are there any other ways to obtain stealth skills?
+
+My communication was once again made with thought, though I had almost forgotten about System besides the odd times it asked me whether or not I wanted to absorb a core. The few times I did it, Mother seemed surprised, but didn't say anything about it. Or she did, and I couldn't understand her. The language barrier between us was really starting to get on my nerves, not to mention I couldn't even understand anyone else!
+
+[There are several ways you can use to obtain a skill.]
+
+[The first one is to buy it outright. That requires knowledge of the skill existing.]
+
+[The second one is to obtain it via absorption. The chance of obtaining a skill is low and often random. Certain things can increase the chance of that happening.]
+
+[The third one is to earn it via completing tasks or performing actions related to it.]
+
+Earn it via completing tasks?
+
+In that moment I remembered the Evasion skill I earned as soon as I hatched, after having to run away from the vulture. I didn't know what it was at that moment, but I was sure that I survived that encounter because of it.
+
+Does that mean I do not need to buy stealth, and simply earn it?
+
+I asked myself, but the ever so helpful System chimed in as usual.
+
+[Yes.]
+
+That was good to know. However I had already snuck around for a while and still haven't earned it.
+
+Could you tell me the conditions to earn a certain skill?
+
+[That information is classified.]
+
+Well, at least it stopped sounding so robotic. Somehow, it began sounding more human as more time passed. I once again felt flabbergasted by System, and shuddered at the thought of its creator.
+
+To think it can evolve alongside me... or can it?
+
+I decided not to spend too much time thinking about it, as it was useless. However the fact that it refused to tell me meant that I had to find out for myself.
+
+Since sneaking around like this didn't give me the skill, does that mean that I need to sneak around other people, or rather, beasts?
+
+That was the only logical conclusion I could really come to. I didn't mind it, though, as I've never run away from a challenge. If I could learn skills by practicing them, then I will do it! Whatever those Skill Points were, they were really important, and I wasn't about to waste them on easily acquirable skills.
+
+With that thought in mind, I kept walking around the forest, streaking through the shadows like a trained predator. The grass rustled as I moved, and my legs, although a little longer, still didn't help me too much. One thing I knew for certain was that the forest was surprisingly empty.
+
+I hadn't seen a single Spirit Beast ever since I left the nest, and the sun was already mid way through the afternoon. If I couldn't find anything to kill or eat, this whole journey would have been a waste.
+
+However, my head snapped toward the right as soon as I thought about that. The sound of rustling bushes and cracking branches echoing in my ears. I lowered myself, becoming as small as possible, and even slowed down my breathing to be less conspicuous.
+
+It didn't sound like a chicken, not from the weight of its footsteps as it bent the grass. Far from it, in fact. I heard it sniff the air, a low growl escaping its throat as it neared my position.
+
+Has it found me?
+
+I wasn't sure, but I didn't plan on moving. My chest flared up as I began chanting the mantra for the Nirvanic Flames, and toggled on my Iron Claws. My muscles tensed up and the sound of my racing heart almost drowned out all other noises around me.
+
+The thing looked to be some sort of feline, with pitch black fur and sharp eyes. It had two large horns protruding out of its forehead, and its large and solid paws were decorated with sharp claws. Holding my breath, I squinted for better vision just as the creature's bright yellow eyes locked onto my position.
+
+It had no time to react as I sprung from my hiding spot like a snake, Nirvanic Flames surrounding me and shooting toward the beast with the speed of an arrow. My talons were aimed at its throat— which I in turn also covered in flames— just for good measure.
+
+All of that happened in the time it took for a spark to fly off a piece of flint, and by the time the beast took a step back, it was far too late. My fire hit it squarely in the face, burning off its whiskers and damaging its eyes, while my talons etched themselves deep into its throat.
+
+A muffled gargle escaped its mouth, and just as I thought I had won, it shook me off and threw me a few meters away. I stopped after hitting a tree, the lower part of its trunk shaking as I struggled to get back to my feet.
+
+“You… are courting death!”
+
+I watched as the beast clawed away at the fire trying to burn its ebony fur, however even with the wrong incantation and no hand signs, my Nirvanic Flames would not be so easy to put out.
+
+That didn't worry me in the slightest. No, what worried me was the fact that I used my strongest attacks and the thing barely flinched. Looking down at my claws, I noticed its searing blood evaporating underneath my fire.
+
+If it could bleed, it could die, and I definitely planned on doing that.
+
+I didn't wait for the flames to be put out, as I dashed toward it, ignoring the pain coursing through my muscles. I could endure it, at least until the fight was over. The adrenaline kept me aware and alert, and I hastily began making hand signs with my stubby wings.
+
+The Qi stored within my flesh would be enough to fight like this for a couple minutes, and I had hoped that was all the time I would need to kill it. With a quick push of my legs, I jumped toward the beast, my strengthened talons aimed straight toward its eyes. If I wanted to win, I had to fight dirty.
+
+Unlike what I expected, though, the beast slashed with its own claws at me. Preparing for the impact, I increased the intensity of the flames surrounding my body, the heat emanating off of them bending the air around me.
+
+That seemed to have made it hesitate for a moment, as the paw barely missed me, getting hit by the forearm instead. Of course, that must have still hurt like hell, as the surrounding fur in a small area was burnt to a crisp in a matter of seconds.
+
+I waved my wings again as I shot to the side, and sent three small wisps of fire toward it. They surrounded and followed the beast like a portable prison, and after another set of hand signs, thin, fiery walls made out of orangey yellow flames trapped the beast in a triangular shape.
+
+That was the best I could muster given my limited cultivation, Qi resources and Nirvanic Flames control. However, even if the walls wouldn't hurt it too much, they would still frighten it enough to make grave mistakes.
+
+A Spirit Beast was driven by instinct, and most normal beasts' first instinct when they touched fire was to run away. However it was surrounded by it, following its every move. Escape was not an option.
+
+It stopped, glaring at me through the wall of flames, and I smirked internally, knowing it would fall into my trap. When a Spirit Beast panicked, or its life was threatened, it would throw all caution to the wind. They would attack without much thought behind their moves, wasting their energy and Qi in a haphazard attempt to escape.
+
+Such tactics worked against normal Spirit Beasts or low ranked cultivators, however they definitely won't work against me.
+
+It let out an earth-shaking roar, making my insides shake with terror, and prepared to pounce. I quickly got a hold of myself and waited for it to attack. As soon as it jumped, I launched myself upward, leaving behind a large fireball that detonated as soon as the thing landed on it.
+
+The explosion shook the air, and the thing's cries were cut short as its throat was burnt to nothingness. I knew in that moment that I won, regardless of how strong it was, or how good of an instinct it had.
+
+Its frantic squirming echoed in my ears. I watched its steadily weakening rolls against the grass in a feeble attempt to put out the fire, and listened to the gargling sound of blood rising up its throat alongside its muffled voice. It was a sight for sore eyes, as the orangey tang of the fire burned away its fur and charred its skin.
+
+“With the wave of my wing, I, Fa Xiaolan, reduced this cat to ashes!”
+
+[You have slain [Unspotted Panther] Level 8]
+
+[XP Acquired]
+
+[You have Leveled Up]
+
+[Phoenix Chick Level 3 has become Phoenix Chick Level 4.]
+
+[Skill Points Acquired]
+
+It took a few minutes for it to die, and its death was nothing less than a painful torment that gave me a small bit of sadistic satisfaction. However, the thing I wanted to do more than anything was eat its flesh and collect its core. I was hungry, famished even, and the power such a beast would give me was far too appealing to just throw away.
+
+Making my way toward it, I scanned the area, making sure there was nobody around. Just to err on the side of caution, I picked an inconspicuous spot and waited. Five minutes, ten minutes, fifteen, half an hour... and then— something moved.
+
+Two smaller, yet similar-looking panthers walked out, wailing upon noticing the corpse of the bigger one. Soon after, another one jumped out from the bushes, hurrying out and making calming sounds.
+
+A family?
+
+How awful, it seemed like I killed their dad… and it also seemed like the mother had locked onto my position. She vanished from my sight, causing my heart to skip a beat.
+
+It only took me a second to hear a sudden rustle next to my ear, then another for the air to split as her paw came crashing down on me. The mother’s frightening speed made it so she almost turned me into a diced phoenix.
+
+Luckily, I reacted fast enough and dodged, then made some distance between us. However, when I turned to look at her, she’d vanished again.
+
+So she has a stealth skill! I want it! I want it! No, I need it!
+
+It didn’t look like I would be able to get away either way, as the mother seemed keen on killing me, and I doubted I could outrun a panther.
+
+Especially an invisible panther!
+
+The only way I could tell where she walked was from the sound and the slight denting of the ground— and even that was hard to spot in the darkness.
+
+However, I had my own method of defense!
+
+Without thinking about it much, I lit myself on fire using the Nirvanic Flames. A small five-foot area around me both burned and got illuminated, and it just so happened that the mother panther was within that area.
+
+She let out a shrill scream, closing her eyes in agony, and that’s when I took my chance.
+
+Swiping with my Iron Claws and pecking at her with my Peck skill— even though it was just a normal action— I quickly made her bleed. It seemed like I even took an eye out, as it bled while she ran away.
+
+You’re giving me that stealth skill whether you want to or not!
+
+I didn’t chase, though. I decided to wait. An angry mother would never turn away and run… I knew that much.
+
+Crunch.
+
+I turned to see the panther jump at me, its stealth nullified by my intense flames. I didn’t have much time to dodge, though, and the only thing I could do was raise my legs in defense.
+
+After activating Strengthened Constitution, I had some extra force to push away its mouth, though there wasn’t much I could do about the claws.
+
+“Now you’re really courting death!” I yelled as the flames surrounding me flared to life. They burnt away at her fur, reddening her skin before disintegrating it into a pile of ash. She didn’t seem keen on letting me go, though, and the crazed look in her eye told me that she wasn’t thinking straight.
+
+However, whether or not she wasn’t thinking straight, it wasn't my problem, because if I relented, I would be their dinner!
+
+I clenched my claws, digging into her flesh and bone, the seeping blood instantly evaporating.
+
+“Let go of me!”
+
+My screams had no effect, though. Part of me didn’t want to kill her, but I saw that she’d lost herself. For one reason or another, seeing her mate die turned her into… whatever this was.
+
+“I’m sorry. Your sacrifice won’t be in vain.” I activated the Phoenix Fire as well, and with the two flames in such close proximity, she didn’t stand much of a chance. Not long after, she perished, her corpse almost crushing me if I hadn’t dodged.
+
+[You have slain [Unspotted Panther] Lvl 5.]
+
+[XP Acquired]
+
+I heaved, catching my breath and reducing the fire surrounding me to a minimum.
+
+It was then that I noticed the two cubs looking at me, their expressions filled with terror.
+
+“SCRAM!” I yelled, flaring up both fires, an explosion of orange, yellow, and red, casting a looming shadow over them. They rushed away, disappearing into the forest.
+
+Turning to look at their mother, I closed my eyes and turned off all of my skills. “I’m sorry.”
+
+I felt regretful; I never intended to separate a family, but both parents tried to kill me. If you’re ready to kill, then you should expect others to want to kill you as well.
+
+Despite how much I struggled, though, they were both weak.
+
+That much was to be expected, though. It looked like even in such a Qi-dense area, those stronger beasts didn't dare linger around the nest of a Phoenix. Of course, that was just my speculation, but it seemed plausible enough.
+
+Without standing on ceremony, I walked toward the corpse. It hadn't moved at all during the time I waited, except for the occasional muscle spasm. I was surprised the tendons were still intact for it to be able to do that, but I didn't care too much.
+
+If they were that strong, I'm sure the beast was even stronger. It was Level 8 after all. The amount of XP it gave me was good, I supposed, as it gave me a level, and I decided to check the changes to my stats after eating it.

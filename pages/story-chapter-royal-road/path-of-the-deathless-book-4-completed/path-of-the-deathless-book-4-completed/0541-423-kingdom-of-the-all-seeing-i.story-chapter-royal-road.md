@@ -1,0 +1,251 @@
+---
+id: 3a5cfe9a-303f-5d8e-81e0-e22f05268ace
+page-type-slug: story-chapter-royal-road
+title: "423 Kingdom of the All-Seeing [I]"
+slug: 0541-423-kingdom-of-the-all-seeing-i
+partOf: path-of-the-deathless-book-4-completed
+position: 541
+ownLength: 4772
+unit: words
+publishedAt: 2026-08-04
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3769658/423-kingdom-of-the-all-seeing-i"
+royalRoadId: "3769658"
+---
+
+You will not remember these words, little god-to-be. Not right now. But they will return to you in your moment of greatest struggle.
+
+I see a forking path before you. One side leads to destruction. You break. You shatter beneath the pain and obsession of the Crown I have placed upon your brow.
+
+The other side, now, that's the interesting one. It has been many an eon since I found a god that could contend against me. So many of them, old and new, desperate cowards all. They think themselves wise, avoiding strife. They think themselves clever, playing shadowy games against me, as if I cannot play the same games, as if I do not wage war across all theaters and in all spectrums.
+
+But you are not war. You are defiance of war. More, you are anathema to war, and I wish to know why. I wish to know where your path leads so that I may dash myself upon you and, through this bastardized Hegelian dialectic between us, see who is greater: that which defies the natural order of our reality, or its embodiment.
+
+Be your own anvil; serve as your own altar. Perform an act of worship to your own spirit.
+
+Defy me! Defy! Defy! And rise! I offer you your first true prayer. I will be your first and only worshiper in the time preceding your rise to apotheosis.
+
+I hereby pray to you, Adam Arrow: Defy me, and become a god worth facing!
+
+—The Challenger to Adam Arrow
+
+423
+
+Kingdom of the All-Seeing [I]
+
+In the beginning, or the middle, or perhaps somewhere near the end, there was blood. That metallic taste. The bite of that crushing tang.
+
+Blood, hot and wet, pulled his senses back from the brink, from the chaotic vortex that ruled over him.
+
+Blood filled Adam's mouth.
+
+Blood ran down his throat.
+
+Blood painted his face.
+
+Blood stained his eye.
+
+Blood coated his hands.
+
+Blood was what he was.
+
+Blood flowed through him.
+
+Blood became him.
+
+Blood, pain, and a measure of recognition slithered through Adam; a memory hardened inside of him, crystallizing like an aspect of the past becoming an anchor for his consciousness amidst that miasma of pain. There was no respite, no escape from that howling urge inside of him, but it was dull for now, reduced. He had slaked the thirst, that itch, and as it went dormant, he realized how he understood what he had done.
+
+He looked down upon the remnants of his mother. He only recognized her by the upper left bit of her face that remained, her eye, staring lifelessly at and through him.
+
+Everything else of her was currently working its way through his guts.
+
+Adam slowly reached up, and he grabbed at his lips to pull out something stuck between his teeth. He raised the strand of crimson hair in front of his eye, and it fell from his fingers in the same heartbeat. Adam gagged. Adam vomited, and he spewed that dark, warm sickness all over the corpse of the woman who spawned him. A putrid mess of blood and half-digested tissue splattered down upon Rose’s half-eaten corpse as Adam woke from a feverish nightmare to descend into one he could comprehend.
+
+The worst thing about sanity was understanding. In madness, you were lost; in madness, there was ignorance. An unknowing unconsciousness spared you the true weight of reality. In awareness, draped in enlightenment, you had to face the vileness of your own deeds.
+
+He shuddered and spat, sour, coppery rivers pouring out from his mouth until only strands of pale-red spittle swayed from his lips. When his stomach was empty and his tears were dry, he finally mustered his resolve and rose on shaking legs. As he finally staggered away from his mother's body, he stepped in something soft and wet. He slipped, only managing to halt his collapse by manifesting his wings, and he rose upward. Inverted pyramids cast the world around him alight, and he saw what had been all around him from the beginning: more red, more blood!
+
+The stains! The stench! Everywhere! All of this place, a world of blood! All that blood upon him!
+
+Corpses rose high and higher in stacked mounds. Adam recognized their faces. They were part of his family guard, his guests, the local nobility, the people who served his household.
+
+And as he beheld their still-fresh mutilations, he remembered inflicting them. He remembered ripping into them with nails and teeth, and older, grander memories came back as well. Those crystallized moments from his distant past, those battles between him, Shiv and Uva, his friends, his companions in war and bloodshed—life bound by strife, ignited by the System's favor.
+
+Of all those memories, one stood above all others.
+
+Near the void, far above the world, he raised his bow, and he let fly a thing of light and truth. The System gave his arrow a blessing, a power to smite and lay low a foe most vile, and his judgement struck that Tarrasque with the face of his friend, banishing its life essence to make it fall down to the earth.
+
+It didn't die, not truly. Its vitality reignited in the next heartbeat, and then it came again, and again, and again.
+
+He remembered, he remembered—nothing at all.
+
+But that memory, that scar, remained imprinted upon his mind. He recalled enough to regain a measure of control.
+
+He was inside his body again. He wore himself as he wore his perfect armor to that battle against the monster.
+
+Adam Arrow was.
+
+But what was he? Even if he was sane again, for now, would it last? Why was he here? Why was he on the lawn behind his castle? Why were there floral drapings mounted upon the metal arches? Why was he dressed in all-white formal wear, with the Starhawk emblem emblazoned upon him? This was to be his groom's dress. He was to be wed in this outfit.
+
+He turned left. There was little left of Isabella's body, only a leg, gnawed off halfway down the thigh. As he stared, a feeling of mania and rising disbelief trembled inside of him, echoing in tandem with the ever-plunging weight at the base of his stomach.
+
+How could he have done this? Even in the throes of utter insanity, how could he have succumbed to cannibalism of all things? This had to be an illusion. It had to be a deception. It had to be. Otherwise—
+
+A wave of faintest blue swept over him. His body dissolved. Adam Arrow was unmade. His very essence scattered as his soul commingled with another. It was more than a disintegration. It was the welding of him into Integration. There was no separation between him and the System anymore. Threads blended together. He ceased to be, at least for a passing, merciful moment.
+
+Encounter failed
+
+Resetting Delve…
+
+Adjusting Partial Legendary Skill Evolution
+
+Initiating Encounter (1/5)
+
+Encounter 1 Objective: Find and eliminate the Animancy bomb before it is primed and destroys Starhawk’s Perch.
+
+Adam returned, his eye wide with disbelief. As the notification faded, he found his reflection in the mirror looking back at him. His one eye was bright azure, blazing with the incandescence of Divinity, yet bloodshot and spent of energy. The empty pit that was his right socket leaked flickers of that same light, like a boiling pond of liquid flame. His body was withered. He was so worn he barely recognized the man in the mirror. The man whose skin felt wrong, like the flesh on his bones wasn't his. This was him, but there were so many things, so many things—
+
+“No… No, no, no, no, no,” Adam gasped, raising his voice in an attempt to drown out the sounds and sensations. He willed himself to ignore the Black-Hunger, the rising itch, that compulsion to rip, tear, and kill. He ignored it for as long as he could, and he governed his mind. He mustered what focus he could and tried to get a handle on the situation.
+
+Maybe he was still insane, but he doubted it. Things were too coherent, and by now, he knew what madness was. There was too much consistency now. His thoughts strung together without a dream-like quality to them. He was inside his bedroom, standing before his mirror, dressed and prepared to be married to his academy sweetheart, but there was too much missing here and there.
+
+Something else wriggled its way into his mind. That notification just now—that was of a Delve Quest. He was Delving. What skill was he Delving, though? What skill had he reached Legendary-Tier in? How was that possible? Had his mind been infiltrated by a Psychomancer? Was this all an illusion?
+
+“One step in front of another, Adam. One step at a time,” he muttered to himself. “If it is an illusion, then we need to spot the incongruities. Remember your training? Remember what you know about magic? Remember… I… Why can't I remember?”
+
+He shook his head hard, crimson hair whipping about. He refused to give in to that rising mania. If he was to be deceived, then he would start with the Grand Deception and unravel it bit by bit. For now, he needed to ground himself in this reality.
+
+A knock sounded at his door, but Adam ignored it. A sense of purpose filled him. If this was truly a Delve Quest, then nothing except the objective mattered. He was to prevent the destruction of Blackedge, and if the horrors he experienced in that prior instance were actually true instead of another bout of psychosis, that meant people here were expendable. People. His mother. Isabella. He'd…
+
+Adam slapped himself hard. He let out a breath. His ear was ringing. “No, I didn't. I didn't. It's just… This isn't real. This isn't real… Or it is. Or it is.”
+
+Another knock sounded at his door, but Adam was already making his way there. He swung it open. There was Rose, holding her arms open, preparing to embrace her son.
+
+“Finally!” she said, a light hint of exasperation in her tone. “I thought you were going to take all day in the—Adam?”
+
+He slipped past her, looking to his left and right. The corridors leading into his hallway were filled with guests and guards, the air heavy with floral scents, flower petals drifting through the wind. Adam instinctively knew an Aeromancer was guiding the flavors and petals through the hallways deliberately to set the atmosphere for festivities to come.
+
+“Adam, Adam, what's wrong? Adam, talk to me, godsdammit!”
+
+But he continued ignoring his mother, or at least the simulacrum of her. She had been back before. She was back now. But she had been dead before he devoured her? But she had also been alive before that. She was…
+
+Adam shook himself. He could still feel the heat of her blood dripping down his chin. But she had returned. That meant this was a Delve. That meant everything here was a falsehood.
+
+He wasn't a cannibal. He wasn't. This was just a test. But what a disgusting test it was. With everything he'd suffered, this place might as well be an incarnation of hell.
+
+As Rose continued trying to speak with him, Adam cast his Awareness outward. Yet as it departed from his flesh, he could feel the itch rise. A nagging sensation overtook his mind, becoming a thunderclap of a headache, and it promised only to subside if he turned on his heel, took a step forward, placed his thumbs against the softness of Rose's eyes, and pressed until his nails dug through the warm, soft furrows of her brain.
+
+He fought that urge. He defied it. If only out of pure spite, if only because that was who he wanted to be, he defied it, and he focused on the task at hand. There was someone planning to destroy Blackedge, and he couldn't allow that, not even in a dream.
+
+Blackedge... Something had happened to his home. He knew not what, but he knew he had failed somehow. He couldn't protect it then, but he would protect it now, even if this was an illusion. He would succeed, even if it was a lie.
+
+His Awareness exploded through the halls of the Perch as he tried to find any hint of the impending attack. Soon, he departed from the castle and began sweeping down from the highest steps of Blackedge, going over the artisan and merchant quarters, passing through the Slayers Guild, and then crossing over the residential clusters. There were far too many people in the town, but their actions were automated, artificial. There was a repetitive quality to the way they spoke and moved, and there was a dullness behind their gazes, like they were being puppeteered by an unseen presence.
+
+There was too much for him to sift through, but—
+
+A spasm went through his mind. He remembered the faint blue that struck him: the blast of an Animancy Bomb. It had hit him from behind and slightly to his left.
+
+He had been at the edge of town, but still, he had a general direction. He could follow that. But where would someone hide a bomb of that caliber? And how could he discover it in whatever time he had?
+
+Another memory came back to him unbidden: another skill he once possessed, or still possessed. Adam reached out, and his body came aglow with violet light. But infused in that mana was a flicker of incandescence, pushing his power further and causing a cloud of crushing mist to swell out. Rose tried to say something to him, but she was trapped in a stasis of absolute peace, or something more. As the mist washed over Adam, the itch inside of him went quiet as well, and he felt something else: a fear in his subconsciousness. His animal mind thrashed as something inimical to the concept of violence took hold. Adam felt a measure of peace that couldn't be broken, and the System guided him towards that which he sought.
+
+In his mind's eye, he knew what an Animancy core looked like. He had faced one before, bright, faint blue, and all-consuming. He used it to kill something. A Jealousy, perhaps? No, that was someone else. He slew an… Outsider. Yes. That was right.
+
+As he held onto that thought, threads of bright violet pulled his perception downward, down into the castle's basement, until his Awareness followed. His senses ripped back into Starhawk's Perch, crashed through the floor, and settled at the very depths of the dungeon. It was there that he found himself staring at nothing in particular. There seemed to be an empty patch of space, nothingness.
+
+Yet the violet mana he wielded clearly painted something there: Adam needed to descend, or he needed to strike at that point, perhaps. What did he use to strike at things?
+
+And then it came to him, beyond his memory, engraved upon his very soul, practically the symbol of who he was and the namesake of his family. Still standing just outside his bedroom, it manifested in his hand. It combusted in a flash of divine fire, and the Spellstring—a gift from one he couldn't recall, a promise, and his long-time weapon—rested easily between his fingers.
+
+What followed was pure reflex. He drew one of the bow’s many strings back. Rose cried out, asking him what he was doing, but then Adam shaped his arrow of pure flame, an arrow of Heroism, an arrow of Tyranny, and he fired it out not through matter, but existence itself.
+
+The shard ripped straight down and impacted that patch of nothing, and it turned out that patch of nothing wasn't quite so nothing after all. His arrow struck the edge of something unseen, and a quivering blackness spilled out from a fractured point, marring the surface of reality. The fracture expanded, and soon the blackness was accompanied by scintillating motes of darkness. Dimensionality. Adam had burst someone's spatial barrier, and through the chasm, he caught sight of his enemy: an orc wearing a star-speckled hood, wielding a hovering constellation of gleaming daggers.
+
+Whisper. The name greeted Adam, yet it came from nowhere.
+
+His moment of hesitation broke as he fired three more arrows in quick succession, each one brighter and more devastating than the last. They smashed through the protective shell, and the orc tried to deflect them using a swarm of flying knives, but it proved to be futile as the Paragon’s shards tore through them like a streaking meteor would evaporate a flock of seagulls.
+
+Adam felt every impact he bestowed upon the orc as if he was slamming into Whisper’s soul with his own. Then something inside the orc burst wide open. It was like there was a locked door there, a sealed entrance. Rather than tearing the grayskin's flesh wide open or combusting him from within using the divine flames of the arrow, Adam found himself sheathed inside his enemy, puncturing deep into his soul and banishing the darkness there. At once, Adam became the lord of another person's being, and Whisper went rigid before falling to his knees. That act of domination, that breach of Whisper’s mana and the overcoming of his skills, was a symbol, an aspect of worship.
+
+In the depths of the Gate Lord's mind, he felt the itch lessen. He felt the Crown of the Anti-Savior wane, and he felt a rush of power like never before. A rush of power that caused the cloud of peace and domination to explode out from him, swallowing the base of the castle and ripping through the midsection of Blackedge entirely.
+
+Then the voice came. That hated voice. That loathsome voice. That voice that drove Adam to the brink of rage-born madness. The voice of the one who condemned him to such suffering.
+
+“Praise be the Young God of Peace-to-be! Praise be he who defies war, he who spits in the eye of strife! Praise be, for he has done what I desire! He has made me a happy orc!”
+
+As the Challenger sang his praises, Adam felt his jaw crack and his teeth rattle. He remembered now. More and more memories came back. More and more of his mind crystallized with clarity.
+
+This was the voice of the Challenger. The Challenger had embedded him with that cursed crown, and he only remembered what that crown was just now. Before, it was like mist. He was surrounded by that knowing. It was there, but he couldn't recall why he knew or how it found itself nested inside him.
+
+Now he did. Now he found himself in control once more. Even in the depths of this Delve, even trapped, he knew the face of his enemy, and the enemy showed his face, as if to taunt Adam.
+
+Next to Whisper, covered by the concealing shroud until now, was a massive cylinder containing a pulsing sphere of the faintest blue. This Animancy bomb was smaller than that which Adam knew, but it bathed the surroundings of the dungeon in that soft blue glow all the same. And it was that glow that revealed the towering figure approaching him, that battle-scarred shape of the God of Strife.
+
+The Challenger was clapping. His left hand was brilliant and flaming, afire with the power of strife, and dull-gray below, as the skin of his kind was. His right hand was two hands fused into one, gleaming bright gold—a gold that Adam remembered as well. Something struck him from the past. This was the Starhawk's arm. It had been ripped away from the Ascendant of Justice, and now the orc wore it, had transplanted it upon himself in the place of his missing limb. That was mockery, that was praise, that was the nature of the Challenger.
+
+And this was the shape of Adam's enemy. Unable to resist, Adam manifested from Whisper and took aim using his bow. He'd crossed over hundreds of meters, crashing down through matter to embed himself inside Whisper’s spirit. As the orc doubled over, struggling to regain his bearings, Adam tried to take a shot at the Challenger. Yet he felt himself collapse as a thunderous explosion of absolute, searing agony ripped through the center of his skull. So much agony that it dissipated the mists of dominating peace.
+
+Adam fell to his knees beside his newly-claimed orc, and the Challenger chuckled, yet there was no derision in his voice. He was proud, and the metaphysical weight of his pride pressed down on Adam, grinding him into the floor, stone cracking, metal bending.
+
+“I knew my prayers to you were not wasted, Paragon. I knew that you would choose the second path.”
+
+The Challenger marched forward, his footsteps like war drums, his presence foul, the stench of war, the presence of war, the very expression of war unchained. But as it stained Whisper, as it filled that gap, it couldn't reach into the Paragon.
+
+Of the two Divinities in the room, one was impossibly greater than the other. Yet Divinity was a quality all its own, and though greater, the Challenger could never hope to dominate Adam. He could only strike him down, and that was not what Strife desired. That was not enough for the God of War.
+
+Against all odds, through the pain, through the returning madness, Adam somehow lifted his head and raised his eye. Something had changed inside of him. Where his mind was the weakest part of him and shattered when he overstrained himself, there was someone strengthening him, someone ensuring his memories remained intact as he crawled his way back to partial consciousness. But though he was anathema to war, he was not beyond hate. With his single azure eye, he glared upon the Challenger. He seethed and raged, and no longer then was he kneeling. No longer was he groveling. He rose, even though there was the weight of a mountain upon him, even though crashing tides of a higher Divinity commanded him to heel.
+
+Adam rose, and a dense veil of protective mist shrouded him. A dense veil that had once burned the severed hand of the Challenger. If he could only reach the orc god, he could flay his skin using that which war couldn't survive. Despite all that defiance and that impossible strength Adam found inside himself, he couldn't move. It was all he could do to stand. That was the extent of his strength.
+
+And it wasn't enough. It couldn't be enough.
+
+“Move,” Adam snarled at himself. He bled from his eye and the empty socket beside it, from his nose, from his mouth. From every orifice he bled—and his leg twitched forward by a centimeter.
+
+The Challenger's eyes widened, and his clapping began anew.
+
+“Come! Come! Push yourself more, Paragon! Let's see how close you get.”
+
+Another centimeter, and Adam's eye suddenly rolled back. His skull felt like it was going to implode from within. The pain was beyond his ability to describe. The madness was sweeping through him, threatening to collapse his mind. But then, as he fell forward, something caught him.
+
+There were two hands resting against him. A stolen hand. The Starhawk’s.
+
+“There is no shame in collapsing, especially not in the face of a superior threat. But just because there's no shame…” The Starhawk's conjoined hand reared back and then plunged into Adam, not turning intangible, but simply breaching his flesh amid an eruption of blood and clutching his lower ribs. With a sudden wrench, the bones snapped, and a piercing shriek exploded out of the Paragon. The pain had begun anew. The pain as he was lifted into the air by the insides of his flesh, as he felt the Challenger ruffle through his organs, breaking him, remaking him, but keeping him alive.
+
+He kicked. He tried to push himself free from the orc god's grasp, but to no avail. For all the power invested in his spirit, for his Divinity, he was not a greater god. Though he could deny the influence of the Challenger's Domain, he was not capable of matching him materially.
+
+“...There are always consequences for failure, justified or not, reasonable or not. Reality is not a friend to us. It simply wants us to fight and struggle, to suffer and die, and to do it over and over again.” The Challenger lifted his head and glared at the System on Adam's behalf. “Would you like to hear a truth from me?”
+
+“Fuck… you,” Adam snarled, stealing a phrase from someone he cherished.
+
+The Challenger just hummed a fatherly laugh and shook his head. He continued talking regardless, still rummaging through Adam's flesh. “I pity you. I pity the fate bestowed upon you. I pity this world that scorned you for your struggle. I pity you, but what good does that? I'm glad you have risen, though. I'm glad you still defy.”
+
+With a sudden swipe of his hands, he wrenched his limb free from Adam's chest and allowed the Paragon to collapse into a heap. Adam coughed and wheezed. The blood came back, the blood that defined him, the blood that pulled him back to consciousness. Blood spilled out from his mouth, pouring forth in a tide, but never once did his piercing eye turn away from the Challenger. Never once did he stop pouring his hate into the orc.
+
+“That's right. That's the look I want from you. That's the only way you should be. I look forward to this. Delve well, gain a skill of skills. I give you my favor. I give you this legend. I give you my capitulation, so that the System can fling you to the furthest reaches that legend can provide. In return, I wish to see you again sooner, later, forever. You and that Deathless of yours. I feel slighted, I feel honored, and I wait with bated breath. Match my Divinity as he matches my power. I beg of you, I pray to you. Praise be, O Tyrant God of Peace and Heroism.”
+
+And with that offering made, the Challenger bowed to Adam in a display of genuine, utmost respect, as something concentrated and congealed inside the Paragon's soul. It was not a blessing, but rather a recognition on the part of his ontological opposite, christened and engraved by the System.
+
+The Challenger dissolved like he had never been, but his presence remained imprinted on Adam, and the pain inside his skull, though ever-present, dulled without someone to provoke it to its fullest potential. Slowly, Adam rose to his feet, and to his disbelief, or just waking from another moment of mania, he found the wounds inflicted upon him banished. His entrails were no longer swaying out from him, his ribs not powder. He was whole of flesh, and Whisper was gone as well. A notification appeared in his eye, and the sudden shift in requirements caught him by surprise.
+
+Encounter Completed (1/5)
+
+Initiating Encounter (2/5)
+
+Encounter 2 Objective: Contain the Vicar’s plague before it spreads through Blackedge; eliminate all the infected.
+
+Adam went dry of words. This Delve was reaching for cruelty after cruelty, forcing him to suffer and then rending him apart by making him kill his own subjects—his own people. Had that been how he went insane before, because the System forced him to devour those he loved to simply get through these encounters? No, no, that was something else. This... He had to do this. He knew that. Otherwise, there was no way ahead. There was no way out. He needed to get out. He needed to return. He needed to finish this fight with the Challenger. He needed to...
+
+He felt so alone.
+
+“Shiv… Uva…” Adam's voice was thin and weak.
+
+Nothing answered him in the darkness of the dungeon.
+
+He knew they weren't here. This was a Delve. He was trapped inside his own soul until he finally completed the metamorphosis for his Legendary Skill. But though he knew that, he was spent, spent of mind, spent of spirit, and he couldn't keep pushing. The itch was already coming back, and though the Challenger was gone, Adam had used up so much of himself to defy, defy, defy. The Paragon curled into a ball, because divine or not, it hurt.
+
+It hurt, it hurt, and it hurt.
+
+It hurt, and he didn’t want to be alone right now.
+
+There just wasn’t—
+
+“Get. Up. You. Wretch. I will not have your mewing weakness shame your inherited Divinity. Get. Up.”

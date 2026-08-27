@@ -1,0 +1,137 @@
+---
+id: 39d69cab-b08e-5643-97cf-a0c84f89610a
+page-type-slug: story-chapter-royal-road
+title: "310 (II) To Break a Curse [VII]"
+slug: 0408-310-ii-to-break-a-curse-vii-3141564
+partOf: path-of-the-deathless-book-4-completed
+position: 408
+ownLength: 2565
+unit: words
+publishedAt: 2026-03-11
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3141564/310-ii-to-break-a-curse-vii"
+royalRoadId: "3141564"
+---
+
+310 (II)
+
+To Break a Curse [VII]
+
+Shiv looked over at that exact moment as his Severed Shadow glided into the room, unbeknownst to almost everyone present. "Two places actually. I want to get set up in the Capital. And I wanna go take a walk in the Fairwoods. I'll find a way to break Maiden's Curse. I’m going to be a proper cook again. I’m done letting her stain my art with blood and filth. I need that out of the way to deal with the Gourmet and properly start up a kitchen."
+
+"Well, I’ve heard worse motivations," Hymn muttered to himself. "But I must tell you, though I dabble in the weird and unnatural, I have little urge provoking the ire of the Fairest of the System’s children."
+
+Shiv sneered. "Afraid?"
+
+"Like one might be of a kidney stone," Hymn said dryly. "You’ve dealt with one of their ilk. They're not creatures that bend to raw power, but an understanding of narrative tension. I might be assuming, but do tell, are you an avid reader?"
+
+"Do menus count?"
+
+"No. Stories."
+
+Shiv considered it. "Well, I hung out in the town library a lot, but I never really read any book from start to finish. Always got bored after a few pages."
+
+"Then, you’re inevitably going to be more of a pawn than a player when you enter the land of tales." Hymn shrugged. "Normally, I would describe that as a deeply miserable experience that one only gets to enjoy once before dying a horrible death or being enslaved for the rest of eternity. But with you, well… You have a nigh-limitless quantity of expendable rooks in yourself."
+
+A look of surprise came over Hymn as those words left his mouth. "I think I see an opportunity here, actually. One we can all exploit."
+
+"Who is 'we'?" Shiv and Uva asked at the same time.
+
+"Well, the Neath has sponsored a few runs into the Fairwoods for Narrative-Tier treasures and rewards."
+
+"Was Monster Mystery Mea—"
+
+"Yes," Hymn declared.
+
+Shiv sighed. "I should have seen this shit coming. Alright. Well, I’m going to start by delivering a certain Bread-Knight back to Princess Plum Blossom of the Summer Court."
+
+"What are these names?" Ikki muttered.
+
+Hymn smiled down at her. "The Fae present themselves more as characters than people, dear. And though some of them get ideas about living life as mortals sometimes, all of them are bound to the System in a sort of Ouroboros of eternal conflict."
+
+"What's an Ouroboros?"
+
+"Think of a snake eating itself while continuously growing, basically a sort of self-consuming infinity. The Courts undergo a cyclic season in which they all strive to achieve dominance over one another. At the end of each season, when one ending has been achieved, and one Court stands triumphant over all others, they begin the next cycle as the Hegemon while all other Courts conspire to bring them down."
+
+Ikki still looked confused. "But how does that work? If one of them wins, won't they just keep winning?"
+
+The Headmaster smirked. "No one keeps winning forever. Since the Fairwoods have come into existence, every Court has tasted glorious victory and suckled on the teat of bitter defeat many times over. There is a perpetual balance of power between the four. When one rises, the other three align. But the courts of Summer and Winter are most in opposition, even when they are forced to cooperate, while Spring and Autumn are called the 'Courts of Change,' as they are usually seen as a transitional court between Summer and Winter. This means they hold less dominance but also serve the important role of kingmaker, allowing them to… I'm speaking beyond my expertise now.” Hymn gestured at Shiv. “Best for the Deathless to experience these delectable miseries on his own."
+
+Shiv grunted. "So, how much can I expect to die, going into the Fairwoods?"
+
+"Substantially more than your worst expectations. You will not catch me anywhere near that place, even as a Legend. Entering the Fairwoods is like returning to the status of an Initiate at random intervals. All our skills, all our Blessings, all our power mean nothing in the face of a Questing Knight of one of the Courts in need of a proper peril to best." A cold and hollow smile spread across Hymn’s face. "And when that moment arrives, there will just so happen to be a village that stands in our way, and the people there will find a way for you to terrorize them. Should you fall into that trap, you will die to the Questing Knight's blade. Toughness be damned. Speed be damned. Strength be damned. Proficiency be damned. For once you slot yourself into a role in this grand narrative that is the Fairwoods, there is no turning back."
+
+Shiv turned quiet as he took all of that in, but rather than feeling disheartened, he was even more excited about venturing into the Fairwoods. It felt like the right combination of thrill, challenge, and risk. A small part of him missed being weak, in a strange sort of way. Not nearly all of it, of course, but he missed that vulnerability that kept him sharp during his descents into Lost Angeles. Shiv also wanted to know what it felt like to play a role—to better understand how the hand of the System operated.
+
+He had a feeling that delivering Toasty back to the Court of Summer was going to be an adventure in and of itself. And that he was going to have many, many opportunities to prove or shame himself in that strange and mysterious world. Unlike anyone else, Shiv could try again and again and again until he got what he wanted, from whatever Court he could.
+
+He wasn't going to do that alone either. Uva would be attached to the bodies he sent into the Fairwoods. If he gave the Realmrunner’s Keyhole to one of those expendable bodies, Adam could be called in at any time as well. This effectively kept all three of them in the same fight but also spared the other two any major risks.
+
+We got possibilities here, Shiv thought to himself. Lots and lots of possibilities.
+
+"You know what, Hymn, that little speech of yours has got my blood going.” He stepped past Hymn and leaned against the table with a grin. “Uva, you want to meet a fairy? Actually, do you want to meet two?"
+
+"Oh, oh, oh!" Ikki began waving her hands. "I want to meet a fairy—gah!"
+
+The young Umbral's cries of glee broke off into a shocked cry as Shiv's Severed Shadow suddenly materialized. Its body hardened in a gathering of Vitae. Crimson mists coalesced together, and its scab-like form manifested in full. It reached into the dimensional cape flowing behind its back and pulled free a cage of cold iron, gleaming in the cafeteria's cold lights. Behind the bars, the once Anointed Knight knelt, sharpening his baguette sword.
+
+Slowly, and all too dramatically, Toasty lifted his head and scanned all the onlookers with a haughty sneer on his young, grass-green face. "You seek to parade me like some kind of animal amongst your people, Deathless? Is this your idea of decency? After using me as a literal shield against those vile creatures of the Unclaimed Realms?"
+
+A crushing silence gripped the cafeteria. All the Umbrals and Weaveresses had risen out of their chairs and were either hastily walking out or slowly gathering roughly behind Shiv. Some wanted to take a better look at his Severed Shadow, utterly indifferent to the fairy, but a few others who seemed to grasp the significance of the strange creature within the cage walked closer, drawn to its presence.
+
+Shiv snorted. "Not really the plan, Toasty. Guess what? You're going to be going home soon. Back to Princess Plum Blossom. Just like I promised."
+
+The Bread-Knight stopped sharpening his sword in an instant. Slowly, he raised his head. But while he tried to cling to a stoic expression, Shiv could see the emotional core at the Bread Knight's heart and saw the faint twitches on his face. "There is no trick here? You speak truth?"
+
+"Cullywier," Shiv called aloud. The inhumanly gaunt and tall fairy suddenly appeared beside him with nothing more than a whistling wind announcing his arrival. Some of the onlookers flinched, taken aback by the anomalous entrance of the second fae. "Tell this one that I'm not lying. Also, I'd like a little bit of a briefing with regard to your home. I'm going to be taking a trip there soon."
+
+Cullywier tilted down to eye level like a tree bending before gale-force winds as he regarded Shiv with curiosity, his arm-length ears bent backward. "You risk yourself, Deathless. The Fairwoods are not a place to—"
+
+"Yeah, yeah, I know. I already got that speech. But I'll be honest, I'm kinda looking forward to discovering what your kind can do to me that hasn't been done already. My mind's been broken, my body's been mutilated beyond anything I could describe. My soul's been burned, torn up, even mashed together. If you think of something worse than that off the top of your head, you let me know so I can have something to look forward to."
+
+"Bah!” Toasty scoffed disdainfully. “Don't ask the traitorous abomination. I know more of the Fairwoods than he ever will. He is a deviant. A strayer from the way. A Patternist of choice, but not soul." The Bread-Knight rose from his seated position and raised his sculpted nose at everyone staring at him. "There are Curses you can experience in the Woods, the likes of which you cannot even imagine. Curses that might leave you locked in cages of winding time, where you experience an everlasting present over and over until you finally learn the right lesson. Curses that might see you trapped in the blackest of seas, unable to find your way out until you discover what is being hidden on that Island of Islands, at the Place of Moonlight's Resting. Not to speak of the burden of the Gifted Child, in which you will find yourself weighed with the life of one young, vulnerable child. Only by accepting and ultimately loving them can you free yourself. But once you do, they will unravel, and you, Patternist, will find yourself ruined in spirit. Are these the torments you seek, Deathless? Does this quicken the blood?"
+
+"Some of that sounds kinda cool. The rest of it, though…" Shiv winced. "That bit about being forced to raise a kid I don't want and then losing them seems pointlessly cruel."
+
+"There is a lesson to everything," Toasty declared. "A lesson to be learned. And with a lesson, there comes a cost. Nothing is given freely. But it is hard to say what tales you might find yourself embroiled in. It is better to be wounded but a part of the story than a spectator, than someone who will never grace the stage."
+
+"Nothing ventured, nothing gained," Shiv agreed. "Alright then, let's start making some moves. Uva, you want to wear a few of me?"
+
+"I thought you would never ask," she replied as she rose from her seat.
+
+Ikki shifted slightly toward Shiv. "Can I have one?" she whispered.
+
+Shiv grinned. "You know what, Ikki? I'll see what I can do. But first I think Hymn and I here need to take a trip back to the capital. Marcus has to get back to school before the unexpected break ends. And I got some people to question. Uva, once we cross back over into the academy, I’ll ask you to move another one of my bodies, along with Toasty here, into the Fairwoods. Let's see just how many birds we can kill with a single, constantly returning stone."
+
+The threads of her Psychomancy reached out and settled against his Severed Shadow. "Whenever you’re ready, then."
+
+***
+
+"Irons, I gotta talk to you."
+
+The low, hushed voice woke Harry from his light slumber. He exploded up from his bed like a spring and called his bound mace to his hand. Instinct took hold. Panic never arrived. Years of warfare and combat had honed Irons into a warrior among warriors. His combination flowed like water. The first hit struck the intruder's chest. The following two swings flicked upward, hitting them in the temple, then across the jaw, then behind the ears. The fourth blow came as Irons pivoted to deliver a brutal blow meant to shatter the back of his adversary's knee.
+
+Every swing was infused with enough White Might to rupture steel walls, to crack Master-tier Toughness. Every swing bounced off without inflicting any harm. It was like he was trying to smash through an orichalcum bulwark. Harry’s heartbeat thundered in his skull. He shifted back two strides for distance, knocking his bed frame askance with an ear-splitting groan. Floorboards broke. Harry called his armor into shape around his body. It flowed around him in mercury rivers before hardening into a nondescript shell of plating.
+
+Across from him, the invader stood still as a statue. They hadn't tried to attack. They hadn't done anything at all. And said they were just looking at him like they knew him, like—
+
+"Shiv," Harry muttered. His wary mind stilled, and his bleary eyes cleared. He recognized the silhouette of the boy. Few people possessed such a physique. "What the hells are you doing here? I tried looking for—"
+
+"We made it out of the Capital.” The boy lifted his hands. “Back to see about finding that missing student problem of yours now. I was thinking about just doing this alone, but figured you might have a better idea about how to go about this more strategically. Adam’s advice, really. Since I managed to get my other body set up in the dorms early, I decided to take a little stroll and wait in the alley to see if any Inquisitors would show up near one of those marked orphanages. Let's just say I got really lucky and he got really unlucky."
+
+Shiv chuckled. Harry struggled to catch up with everything that was happening. “What? How did you even get inside? The wards—"
+
+"Oh, I squeezed myself into your home through the water pipes. Bit of a snug fit and didn't feel so comfortable, but I managed it." Shiv chuckled as his entire head suddenly sank into his chest before it emerged from his chest and then settled back on his neck after a full rotation.
+
+Harry stared. His mouth was getting dry.
+
+"Anyway,” Shiv said after a few seconds of awkward silence. “Let's have a chat with Master-Inquisitor Hastings. And when I say 'let's,' I mean you. Because he mostly just screams and pisses himself when I show up now. I think I traumatized him a little bit too much."
+
+Harry’s mouth opened and closed several times in quick succession. A resigned sigh escaped him. "Let me go get a cup of water first."
+
+"Here," Shiv said. He held up a pre-filled cup of water. "Figured you might want this."
+
+Harry stared into the water, still and placid. "Were you holding that when I was hitting you?"
+
+"Yup. Almost spilled a bit of it. Almost."
+
+Suddenly, Harry wondered just how useful he was going to be for this investigation.

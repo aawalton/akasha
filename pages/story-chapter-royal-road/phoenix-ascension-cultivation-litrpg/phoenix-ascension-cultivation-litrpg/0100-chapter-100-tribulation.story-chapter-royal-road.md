@@ -1,0 +1,259 @@
+---
+id: 00398d53-1ed3-5c7c-9d63-f1402912bf15
+page-type-slug: story-chapter-royal-road
+title: "Chapter 100: Tribulation"
+slug: 0100-chapter-100-tribulation
+partOf: phoenix-ascension-cultivation-litrpg
+position: 100
+ownLength: 2420
+unit: words
+publishedAt: 2026-03-14
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3152632/chapter-100-tribulation"
+royalRoadId: "3152632"
+---
+
+Well that’s not good.
+
+I didn’t want to get him to the point where he was willing to break into a new realm just to defeat me but… It seems I went too far.
+
+Originally, I wanted to kill them, intimidate Chiao Zhen— I think I did great on that front if you ask me— and get away. But now it seems that I’ve created yet another problem.
+
+Had I known the guy was at the Peak Stage of Foundation Establishment, maybe I would have done things a little differently. Well, it was too late for regrets now, but the only issue was that, unless I was far stronger than he was, stopping the process would be more than a little difficult.
+
+Doing a quick check of my basic stats, I considered a plan of action.
+
+[Hit Points: 6010/8139]
+
+[Qi: 10231/13350]
+
+I didn’t use that much Qi in the fight, but none of my Active Skills required such an exorbitant amount of Qi, until they ranked up, that is.
+
+When I killed the three of them, my Myriad Qi Needle ranked up, as did Strengthened Constituion, Heaven’s Protection, Side Step, alongside some other passive skills like Poison Resistance, Dragonbone Tempering, and even Evasion.
+
+As for my health, they mostly depleted from the poison, at least until my skill ranked up to the point where it could resist it.
+
+It was a really potent poison, shaving off more than two thousand health, although maybe I should not have inhaled so much of it.
+
+That was only a secondary problem, though. I was expecting to sweep the floor with all of them, which I did, for the most part. Everyone else was weak or probably wasn’t expecting me to act so fast.
+
+The first one I killed didn’t yield me a level, but after I killed the other three I finally leveled up. They were only about level twenty or so, thus not giving me that much experience. But hey, levels were levels.
+
+The final boss was a different story altogether though.
+
+[Teng Yu, Cultivator Level 27/???/30]
+
+It was fluctuating between his original level and a higher level, and not only that… But I couldn’t help but take a look at my Nemesis tab.
+
+I had quite a few of them already.
+
+Besides the Nascent Soul Bastard and his co-cospirators, as well as the two panther cubs that seemed to be alive still, there were a few new additions to the rooster.
+
+[Name: Chiao Zhen]
+
+[Affiliation: Hu Village Chiao Clan]
+
+[Age: ???]
+
+[Titles: ???]
+
+[Lvl: 25]
+
+[Cultivation: Foundation Establishment 6th Layer]
+
+[Enmity Level: Subservient]
+
+[Relationship: Hatred]
+
+[Status: Alive]
+
+[Name: Chiao Gu]
+
+[Affiliation: Hu Village Chiao Clan/Demonic Nascent Lord Faction]
+
+[Age: 21]
+
+[Titles: ???]
+
+[Lvl: 17]
+
+[Cultivation: Qi Condensation Seventh Layer]
+
+[Enmity Level: Deep]
+
+[Relationship: Vengeful]
+
+[Status: Alive]
+
+[Name: Shang Ling Zi]
+
+[Affiliation: Demonic Nascent Lord Faction]
+
+[Age: 54]
+
+[Titles:???]
+
+[Lvl: 20]
+
+[Cultivation: Foundation Establishment Fourth Layer]
+
+[Enmity Level: Sworn Enemies]
+
+[Relationship: Vengeful Adversary]
+
+[Status: Alive]
+
+[Name: Teng Yu]
+
+[Affiliation: Seven Shadows Assassination Organisation]
+
+[Age: 55]
+
+[Titles: ???]
+
+[Lvl: 29??30??]
+
+[Cultivation: Foundation ??? Core Formation]
+
+[Enmity Level: Sworn Enemies]
+
+[Relationship: Deep]
+
+[Status: Alive]
+
+Neither of them were any surprise, and part of me couldn’t wait to see what would happen once he was dealth with. Teng Yu’s changing level and cultivation stage were worrying, tough.
+
+The clouds gathering above the estate weren’t a good sign either.
+
+Tribulation clouds were, contrary to their names, meant to help the cultivator by providing the necessary life energy to successfully create a core. It didn’t happen often in the lower stages of cultivation, but once you began forming your Golden Core, things began to change.
+
+Core Formation was the first step.
+
+One other quirk of tribulation clouds was that they didn’t allow anyone else, unless they were far stronger than the cultivator going through the tribulation, to intervene— for better or for worse.
+
+What to do…
+
+Well, I could try and get Meng Mao to help me deal with this problem, but that was the last thing I wanted to do.
+
+I could let him breakthrough and take advantage of his new core to at least seriously injure him. Though, being in the Qi Condensation Realm, even at a so called ‘Peak’, meant that a Core Formation cultivator was far, far above me.
+
+I dared to take him on when he was at Foundation Establishment because I had certain advantages, but now…
+
+Well, I could either take the bull by the horns, as they say, and endure the lightning, or I could test the water by attacking it and seeing just how far the heavens would go to protect such a piece of shit.
+
+Who was I kidding, the heavens would definitely protect such a piece of shit.
+
+As I was standing there, thinking of how I could deal with the guy… a sudden thought struck me. Nodding to myself for my brilliant genius, I called upon a lightning dragon, one that usually swam around my dantian, and summoned it outside.
+
+It was a small little thing, though that was by design, since I didn’t want it to be too noticeable. Sending a thought, I let it fly away and approached Teng Yu.
+
+Looking at him, it seemed that he was straining a little. The scales and the poison didn’t make him any prettier in my eyes, but I had to admit it was a pretty good defensive skill.
+
+Part of me wondered what would happen if I ate him, but that could be done after he failed his breakthrough.
+
+There was a chance he wouldn’t fail it, of course. Thinking of that, I channeled my thoughts into the lightning dragon and made a few more appear, for good measure. They stealthily circled the man as the clouds above rumbled, and I could sense that the first bolt of tribulation lightning was going to appear.
+
+I knew because my feathers began feeling weird, and I had to take a few steps back to avoid getting burnt to a crisp.
+
+I had to admit, I was a little eager to watch the process, and maybe I would have done so under different circumstances. The fact Teng Yu chose to breakthrough all so he could kill me easier was infuriating though.
+
+He didn’t have to, he was strong enough to take me on. This just added unnecessary trouble on my side.
+
+Though I would have totally killed him eventually. It didn’t matter if his soul was much stronger than the rest, since the Myriad Qi Needle was only one of many skills I had.
+
+Granted, most of the other skills relied on me being in my original, superior form, but I still had the less obvious ones, and my Nirvanic Flames. I hadn’t used them because I didn’t want to make the obvious relation between Shu Lao and Fa Xiaolan.
+
+Chiao Zhen had seen me use my fire after all, and while he was stupid, he wasn’t that stupid.
+
+Aside from that, there were the two elemental dragons and the weak water skill I had.
+
+But now that it had come to this, I might as well make the best use of the situation.
+
+Without knowing how much the Tribulation Lightning would hurt, though, I had my hesitations.
+
+Speaking of-
+
+The first bolt of lightning fell down upon Teng Yu, striking him directly with enough force to crack the ground beneath him. However, the bolt was filled with a potent aura of life, one that healed whatever small injuries I dealt to him.
+
+It had quite the opposite effect on me, though. Even the small shocks spreading around the area had enough potent energy to shave off a few hundred points of my health.
+
+Thankfully, my lightning dragons had a better time enduring the damage, since they were made of the stuff.
+
+Tribulation Lightning was different from natural lightning though, and that was why I didn’t immediately attack. I was collecting data and allowed my little pets to get used to the feeling of bathing in the stuff.
+
+As for me, I was going to take in the feeling. It wasn’t all the time that one could be exposed to such potent lightning.
+
+I felt Teng Yu’s stare through the invisible layer of protection that the tribulation created, and oh was he angry.
+
+I didn’t mean to get him to rage so much, it just felt like something Shu Lao would do, so I did it. One would think I would have gotten an ‘Actor’ skill by now, but I supposed that was too much to ask for.
+
+My plan was simple, but had a low chance of success. If I learned enough about the Tribulation Lightning that I could invade the space without triggering its ire, then I could get my dragons to stop the bolts from ever reaching Teng Yu, and therefore make him fail his breakthrough.
+
+As a result, he would be greatly weakened and ripe for the picking.
+
+In the case that I failed to do any of that, my best option was to run, and ask either Meng Mao or Yo Na to help deal with the guy.
+
+Of course, I preferred the first case, where I could get the full benefits, plus the corpse, plus whatever he had in that bag of holding.
+
+Unfortunately, for the moment, I could only wait. Wait for my dragons to get used to the lightning and absorb some of its effects.
+
+I wasn’t sure what to expect afterward, butI knew for sure I didn’t want him to successfully breakthrough.
+
+Looking toward Chiao Zhen, I noticed that he’d bene sitting on the ground, unmoving, almost foaming at the mouth. That was a funny sight. At least my goal of scaring the shit out of him worked well.
+
+But now on to dealing with the growing problem in front of me.
+
+Eat my darling dragons… eat.
+
+***
+
+Meng Mao watched the spectacle from above, his presence undetectable. He wasn’t sure why he liked watching the little bird so much, but she was interesting. Aside from being a Phoenix Chick with enough sapience to not only speak and understand human tongue, she was also a big trickster and a… violent person.
+
+All of those features made it so Meng Mao was even more interested in her, and also feared what she could become. As long as he remained within her graces, he figured he should be fine.
+
+Not that his plans changed. He didn’t want more from the little thing than to fetch something for him, and after that he was happy to accommodate her. Meng Mao wasn’t a monster, not when it came to benefits, at least.
+
+He knew when to back down and when to advance, and also knew that the bird didn’t like him much. That didn’t matter though, as the scene before him was the best chance to befriend her.
+
+A cultivator that was far stronger, hell-bent on killing her? Who else would be the best tool to help him sow some benefits.
+
+Once someone broke through into a new cultivation stage, they would be weakened for a time until they got used to the changes their body went through. That wasn’t an universal case, and something told Meng Mao that the guy breaking through would not have such a debuff.
+
+That wasn’t an issue though since he would still be five whole layers above him. The only thing that worried him would be the little bird being able to deal with the man by herself. From what he could tell, she was planning on training the lightning dragons created by the Divine Lightning Construction Technique to bear and blend with the Tribulation Lightning.
+
+It was something he hadn’t thought of before, as the mere thought of trying to go against the Heavens was something that hadn’t even crossed his mind. However, Spirit Beasts were different.
+
+Truth be told, he dreaded the day the little bird would advance her cultivation into the next stage, bcause the Heavens didn’t pity those that defied it. And a cultivating Spirit Beast was something They would never accept.
+
+But that was something for later. He could tell that while she was on the cusp of breaking through, she was waiting.
+
+Waiting to gather materials I bet… Hmm… that’s one thing I could provide. But what would a Phoenix need?
+
+He would figure that out later.
+
+What mattered most was the current situation. While he didn’t know how long the break through process would take, he had enough time to wait.
+
+So he did, and observed the Phoenix.
+
+At first, she merely used her dragons to absorb some of the Tribulation Lightning, and after half an hour of that, they started going in and out of the zone, flying far above so they could catch the bolts ahead of time.
+
+That didn’t work, not well anyway, but the lightning dragons slowly took on the aura of Tribulation, and that wasn’t something Meng Mao thought possible.
+
+Next, after another half hour passed, the dragons had a brief multi-colored tint. After absorbing so much Tribulation Energy, their nature had changed slightly.
+
+Each time the Phoenix intercepted another bolt, Meng Mao’s heart skipped a beat. She was playing a very dangerous game that would cost her a life if she wasn’t careful.
+
+Time and again, she’d done something that Meng Mao found foolish, yet that worked.
+
+As time passed, her dragons absorbed more and more Tribulation aura, until, finally, they entered the tribulation area itself. The Heavens had been successfully fooled, and the place where no one but the one undergoing the tribulation was supposed to be allowed in had been breached.
+
+That alone was something that was hard to believe considering her cultivation level. It had been done before, but not like that, and the consequences were unimaginable.
+
+He’d heard a tale of someone getting chased by Seven-Colored Lightning filled to the brim with Death Qi for three weeks before he escaped. And that was only because he killed the son of his enemy while breaking through into the Foundation Establishment Stage.
+
+All that to say, what the Phoenix was doing was incredibly reckless.
+
+However, nothing prepared Meng Mao for what she would do next.
+
+After approaching the man, she held out a hand, but quickly flinched back after the clouds above churned with even more vigor than before. She scratched her chin, then commanded one of the dragons to come out of the tribulation area and… Shocked herself.
+
+Now what the fuck?

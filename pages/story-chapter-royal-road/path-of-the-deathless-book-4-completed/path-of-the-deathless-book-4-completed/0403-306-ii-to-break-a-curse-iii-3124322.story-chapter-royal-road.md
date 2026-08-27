@@ -1,0 +1,177 @@
+---
+id: 1f547a4a-3e5f-5872-89f6-d793304df464
+page-type-slug: story-chapter-royal-road
+title: "306 (II) To Break a Curse [III]"
+slug: 0403-306-ii-to-break-a-curse-iii-3124322
+partOf: path-of-the-deathless-book-4-completed
+position: 403
+ownLength: 3377
+unit: words
+publishedAt: 2026-03-06
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3124322/306-ii-to-break-a-curse-iii"
+royalRoadId: "3124322"
+---
+
+306 (II)
+
+To Break a Curse [III]
+
+Awkwardly, Seymour pulled away from Shiv and wiped his eyes. "Sorry. Didn't really mean to... to break down that way. But you know how I am."
+
+"Yeah," Shiv replied. He found himself staring at Seymour's peg legs. "Hey, listen, Seymour. Take those off. I think I can give you back your legs."
+
+"What? These?" Seymour looked at the wooden stumps sticking out from under him. "How? Wait, don't tell me you got some kind of Healing skill."
+
+"Just trust me," Shiv said.
+
+There was an overwhelming reluctance in Seymour's movements as he sat on the ground and detached his artificial legs. Part of him still seemed to believe that this was too good to be true. That Shiv was about to pull the rug out from under him, so to speak. But as the Deathless swiped his mana hydra through Seymour, and a flash of Biomancy followed, his little legs returned, and even the three talons on the ends of his feet were restored to prime condition.
+
+Seymour tensed, then leaned forward. He squinted at his feet with unusual intensity, as if worrying they might disappear at any moment. "I—you brought 'em back! You brought my legs back!" Seymour responded as he always did when things got too intense for him. He reached into one of his pouches and pulled out three new cigarettes. Shiv lit those with a flick of his Pyromancy, and thus Seymour found his disbelief doubled. "Magic. You can do magic now. Wait, that's Biomancy and Pyromancy. Just how many magic Lores do you have?"
+
+A near-arrogant smirk flickered across Shiv’s face. "Let's just say that my growth is more than merely physical."
+
+Susurrations of disbelief spread through the mourners. They'd witnessed Shiv's feat, and soon rumors would likely spread. Rumors about his magnanimity and also his magical prowess. The moment Shiv noticed that, his latent political instincts kicked in. He could place a nice little capstone on top of the cake he was making, layer it with a fine, creamy dose of sugar to further cement his reformation in the eyes of the survivors. "Hey Seymour, listen, I don't know if you're employed right now or if you're even interested, but I'm going to try starting a new kitchen in Georges’ memory. If you know anyone else from The Swan-Eating Toad that's still alive, I’d want them to join as well. I'm just starting out, but the restaurant’s called the Sky-Swallowing Carp. I'd be more than glad to welcome you aboard."
+
+And the emotional hits just kept coming for Seymour. He took a step back and tried not to break down again. "Seriously? You still want me? I mean, you saw how I was at the Swan-Eating Toad. Georges practically chewed my head off every day. I went into the back alley to cry at least twice every day."
+
+Shiv nodded. "Yeah, and I also remember you coming back in and doing the same thing the next day. So, I don't care if you cry. I'm just glad that you're there, and I know I can rely on you. No matter how bad things get, how many ciggies you smoke, and how many liters of water you end up squeezing out of those eyes. I’ll give you some time to think—"
+
+"Yes!" Seymour interrupted, hugging Shiv’s leg once more. "Yeah, I’ll take it. I’ll take anything by this point."
+
+A genuine smile spread across Shiv's face in response. "Well, I look forward to working with you again. I hope you don't mind the promotion."
+
+"Promotion?" Seymour's eyes fluttered. He looked like he was on the verge of passing out.
+
+"Yeah, right now you're practically the only person I know around here who has any experience or skill in cooking at all. So, uh, congratulations. Pick your station when you come aboard, because we got our work cut out for us."
+
+"Yeah, yeah," Seymour breathed excitedly. He stumbled away from Shiv, favoring his right leg more than the left. He tumbled over once, but then regained his balance a second later, and began sprinting for one of the slab tenements. "I'll just… I need to get my stuff together! I need to get my stuff together!" Halfway through his run, he froze and turned on his heels. "Wait! Where do I find you?"
+
+"I'll come find you," Shiv said instead. He winced internally as he realized he forgot to elaborate on how the Sky-Swallowing Carp was still in the Tutorial, and that the so-called restaurant, which was actually a Court Leviathan, was currently being staffed by a small army of orcs. Well, if he survived Georges, he can survive them. Hopefully. I just need to keep an eye out for him.
+
+As Seymour sprinted away, Adam came to stand beside Shiv. "Well, that was much more touching than I expected. But, it occurs to me that—"
+
+"—the Sky-Swallowing Carp is filled with orcs? Yeah. I know."
+
+Adam fell quiet for a moment. "And now that scene seems much less touching to me. Poor little bastard.”
+
+***
+
+"You absolute piece of fucking shit! You godsdamn cocksucker! Get the hells out of my fucking home!"
+
+The trio flinched. Uva less so than Adam and Shiv. Rose's angry shrieks echoed out through the savaged walls of Starhawk’s Perch. Four Arrow Family Guards stood like marble statues outside the makeshift doors leading into the main hall. Where once the portal leading within the castle was guarded by twin ornately carved sections of wood further boosted by protective wards, all the damage the Perch had sustained had seen it lost and replaced by two sheets of meter-thick steel. But as the resurrected Lady of the Town continued raging, Shiv doubted even ten meters of titanium could contain her outrage.
+
+"You got any idea who she's yelling at?" Shiv narrowed his eyes and scanned the life signatures within the castle. He picked out Rose and Roland, but everyone else was hard to distinguish at a glance. Additionally, his Severed Shadow was still aboard the Court Leviathan, so he couldn't just slip through the walls and take a look at what was inside.
+
+"It’s the Headmaster." Adam scowled. "What’s he doing there?"
+
+"Looking for me, I suspect," Uva murmured. "And the Starhawk besides. He likely wants to strike at the Stranger while he is weakened and wants our support."
+
+Uva's theory was proven correct as the front entrance was flung open. A furious Rose Van Erren drove Hymn out with a series of punts to his ass and shoves against his back. He strolled on as if being assailed by a summer breeze, departing of his own accord rather than another’s will. He was about to say something to Rose when he noticed Uva and Shiv coming his way. "Ah, never mind. Your presence is no longer required, Initiate Van Erren. I’ll talk to them directly."
+
+"The fuck you will!" Rose wrapped her arms around Hymn’s legs and found herself dragged forward. Roland came running out from the main hall with a tired look on his face as he came to his wife’s aid.
+
+"Deathless, Sister," Hymn greeted, "I hope that your three days of non-rest and general debauchery have been as pleasant to you as they were traumatizing to that poor Umbral scout whom I spoke to over dinner yesterday."
+
+Shiv closed his eyes and shut his heart away from embarrassment. "Not exactly something I want to talk with you about, Hymn. And stop being a godsdamned creep. If you want to talk, just come to us."
+
+Hymn snorted. "I would have, but you two were indisposed for the past few days. And despite my indifference towards most social norms, I don't think you would have been particularly receptive to my presence. Especially with you already having a crowd between the two of you."
+
+"No more talk." Uva’s words were calm, but her glare was laced with pure venom.
+
+Hymn threw up his hands in mock surrender. "Of course, of course, I don't mean to prod. We've all done some things that are exotic and exploratory, but that's not what I'm here for. That’s… Lady Van Erren, can you please stop stabbing my taint with the knife? You’re giving me an erection in front of the Deathless and his partner, and I don’t really appreciate it."
+
+The lower portion of the tall elf’s dark robes flapped to and fro as Rose assaulted him like a rabid animal drunk off a Berserker potion. Her aggression, though futile, was unending, and she continued kicking and snarling at him even as Roland and Adam pulled her away. “You leave them the fuck alone, Hymn!”
+
+The Headmaster adjusted his belt and took a step so his body was pointed away from Shiv. The Deathless knew why, and he didn't want to think about it any further. "Anyhow," the Headmaster continued, reveling in his Shame Immunity Skill, "I'm here to speak with both of you about the Stranger. We are likely due another walk into his Garden for the sake of Merrielmel’s dear missing brother, as you've promised, and also to take advantage of the Stranger’s miserable state to further the development of necessary skills."
+
+“No,” Uva immediately snapped.
+
+"I told you!" Rose cried from behind, still trying to get at the Headmaster. "I told you that was going to be her answer! And it’s my answer too! You’re not sending her back to that… that fucking nightmare! We barely escaped!"
+
+"And you wouldn’t have, if not for me." Hymn smirked coldly, running a hand over his short, square beard. "But the truth, that she knows yet might still deny, is that there is no way out of this nightmare unless she can claim it for her own. You have allowed the Outside to infest you, to fester inside you and change you, to make you into something more beautiful. But it also gives them a stake in your soul. Now two Outsider Gods yearn to inflict their retribution on you. Make no mistake, they will not forgive what we have done to them, and they will never let go of what you have taken unrightfully. The power you stole is only yours to keep if you always stay a step ahead, to dive into the deep waters but refuse to drown. There is no other way out. You know this, Sister."
+
+Shiv waited for Uva to say something in retort, but all she offered was a tired glare. Hymn regarded her with a faint smirk at first, but slowly, his expression flattened. Then, without warning, he turned to Shiv. "Let's start with someone who's always ready, then. I want to talk about that Eldritch Physiology skill resting dormant inside you. And I want you to use it. Not only for your sake, but Sister Uva’s, mine, and poor Merrielmel. And now, since your bodies are easily expendable and replaceable, perhaps you might be my current prime candidate instead."
+
+Hymn raised an arm and bade it to contort and twist in impossible ways, as if in demonstration. "So, what about it, Deathless? Are you interested in shedding the weaknesses of mortal flesh? About ignoring the rules of biology entirely?"
+
+As questionable a character as Hymn was, Shiv did want to know what Eldritch Physiology did. It was certainly something he'd disregarded after acquiring it. And Merrielmel’s brother needed to be recovered at some point.
+
+“Shiv,” Uva said. “You’re actually considering this?”
+
+“I'm curious about the skill,” he answered. “And I don’t want you to end up back there. Especially if you don’t want to go. Especially if you’re going to be at risk.”
+
+“She’s always going to be at ri–hmnphhh.” Hymn’s voice was cut off as Shiv wrapped his hand around the Legend-Headmaster’s head. A hot breath of annoyance flowed across Shiv’s palm, but Hymn didn’t resist otherwise. Whatever could be said against the Legend-Headmaster, few other Pathbearers were more self-assured. He let other people do things to him because he just didn’t care, not because he couldn’t stop them—and there was something uniquely unnerving about that.
+
+“I…” Uva swallowed. She was hard to read, but Shiv was a leech for fear, and he could taste a river’s worth of horror spilling out from her. “I know he isn’t lying. But I need more time. More time. More time. More time.” She repeated those words, lost in her own mind, caught in a trance.
+
+“Okay,” Shiv said simply, pulling her in close with his free arm and planting a gentle kiss on the top of her head. The embrace let her know she wasn’t alone, but it didn’t solve the root of the problem. “I know. When you’re ready.” He released Hymn and pointed a finger in the man’s face. “And only when she’s ready.”
+
+“You are arrogant to assume she might get such a luxury,” the Headmaster replied with a slight scowl, brushing white locks out of his face.
+
+“She will. Because I’m here. Because there are people who will fight for her. The Stranger and Eldest want a piece of her? Well, they’re going to lose even more of themselves if they’re suicidal enough to try.”
+
+“Hm.” Hymn pressed his lips together and looked aside. “I think someone gave me that speech once too. The ‘I’ll protect you’ speech. I think I loved her. I think I believed her.” He smacked his lips together, adding to the nonchalance of his demeanor. “She died screaming. That’s what I remember the most about her.”
+
+“How many times did she die, though?” Shiv asked. “Just once?”
+
+Rather than being offended, Hymn actually smirked. “Cheeky, but accurate. I suppose your situation is a bit different. And… you can avoid certain bills the rest of us have to pay. The Eldritch Physiology Skill will go quite well with you, I think. Quite well, indeed.”
+
+“Hymn,” Roland called out. The Town Lord of Blackedge wasn’t armed or armored, but that could change in an instant. He wore a bright orange tunic and still looked more frail than not, but some color was returning to his skin, and a hint of strength was filling his muscles once more as well. His eyes were doing something strange, however. He kept looking askance at nothing in particular next to Hymn—like he was twitching for whatever reason. “Whatever you’re planning to do, it’s not happening here. Not in this Gate, not with my people, and not with either of them if they want no part of it.”
+
+But while Roland’s words held a promise of iron and wrath, Hymn was a free man. Free of worry. Free of fear. He didn’t bother facing Roland; his eyes remained locked with Shiv’s, and shared understanding began to build between the two.
+
+“You’re planning to build up a new district around the Tutorial bunker, aren’t you?” Hymn asked. “Let the people and scum of the Neath mingle with your orcs.”
+
+Shiv almost sneered. “They’re my orcs in the same way the Dragon Brokers own you. But yeah. Containment’s the idea. Can you blame me?”
+
+“I would be annoyed if you placed us near easy prey,” Hymn answered. “But do understand that people seek to deliver themselves unto destruction. And there will be many that ruin themselves despite your attempts to preserve and protect them. People betray themselves, learn the wrong lessons, and fail to gain the strength necessary to spare themselves from the System’s will. No matter how powerful you get, Deathless, you cannot rule over fate.”
+
+Now Shiv did sneer. “Give me a little time and a few more deaths. See what Skill Evolution might pop up down the line.”
+
+“Ignorance and arrogance look good on a man who won’t suffer their consequences,” Hymn muttered. “But I won’t lie: I look forward to what might come of you as well. Now. Since the entire Arrow family might try to kill me if I conduct my lecture in this dimension, I think we should head over to where we have ample subjects—ones we’re not afraid to kill or harm. And while we’re at that, we should get Enchanter Merrielmel to set up the Slipgate again. If nothing else, I do need to be back on campus before something truly wrong occurs in my academy. And that would be bad for your education as well, wouldn’t it, Marcus?”
+
+Shiv knew Hymn’s game. The Headmaster wanted someone to cross back over into the Stranger's Garden for a personal reason. Merrielmel’s brother was just an excuse, as was the academy.
+
+Somehow, I can’t quite shake the feeling that I’m getting pulled into a grudge between a man and an Eldritch God he despises—and wishes to break free from. But Hymn also wasn’t wrong. The Outsiders were going to remain a problem until they were resolved for good. And Shiv had a reference for what that looked like: Valor. The Stranger feared Valor Thann, had refused to trespass into Integrated Earth because of him for a long time. That was the endpoint Shiv wanted to reach—at least. And so Valor was the person Shiv wanted by his side before—
+
+“Legend Hymn,” Valor said, appearing right beside him. The Headmaster actually flinched slightly. Everyone else practically jumped out of their own skin. “It is extremely inappropriate and insulting for one Legend to impress their will upon another’s disciples without formal consultation.”
+
+Think of the lich, and he will appear, Shiv’s mind churned with disbelief.
+
+“I’m really disturbed by how easily you can do that,” Hymn whispered. “Sneaking up on that poor, blind girl, Hawgrave, is one thing.”
+
+“You are a poor, blind boy to me.” Valor chuckled. “Also, deaf, lacking a nose, unable to feel, and delayed of understanding. I’ve been standing next to you all this entire time.”
+
+“Well, now I understand why the Culturist wore your torso,” Hymn said.
+
+“Do not make excuses, Legend-Headmaster. I was not actively using my skill. You simply didn’t bother looking in the right place. In fact, only one person did.”
+
+Roland, Shiv realized. I can’t believe this. He wasn’t having eye problems earlier. He noticed Valor. Few things revealed a Pathbearer’s true capabilities more than when they clashed skills with another. For Roland to be aware of Valor—even in the Legend’s passive state—was staggering. Master-Tier my ass.
+
+“I apologize,” Hymn said, with no hint of meaning the words. “I sought out Roland—”
+
+“You sought out Roland because he is wounded and weak at present. He also has people to care for. Ones who have suffered immensely already. You were trying to press him and his wife into helping you convince Sister Uva to cross over again for your own desires.”
+
+Hymn pressed his lips together. “How long were you standing next to me?”
+
+“Since last night.”
+
+“Well, that’s absolutely horrifying,” Hymn muttered flatly. Mute though his words were, Shiv saw a faint trail distort the air, sliding from the Headmaster into Valor. “I guess some of us truly do live up to our Legend.”
+
+“I am nowhere close to living up to my Legend,” Valor replied calmly. “The man I was would not have engaged you in casual conversation for this slight. Understand that.” Valor finished with Hymn as a lord might conclude a meeting with a peasant. His eyes went from dim pinpricks of Necromancy to glowing pools of warmth as he turned to the trio. “Shiv. Are you truly interested in understanding the Eldritch Skill you have gained, or were you simply playing along earlier to see her guarded?”
+
+“Both,” Shiv replied.
+
+“I thought so,” Valor said. “Hymn. With us. You will apologize for your impropriety through education. If an excursion into the Outside follows, it will be at his choice, and at my allowance. Is that understood?”
+
+And though Hades Hymn was a Legend as well, he made no attempt to defy Valor’s will. “I think I find your terms most agreeable.”
+
+“Good. Because I do not think I have the capacity to truly harm you. The Culturist, on the other hand…”
+
+The owl-cowled orc appeared to Hymn’s left, and the Headmaster deflated fully. “Were you at least using your Stealth Skill to actively hide him?”
+
+The Culturist smiled joyfully. “Yes.”
+
+And at that, he vibrated.
+
+Gardener of Doubt 71 > 72

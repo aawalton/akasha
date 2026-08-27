@@ -1,0 +1,161 @@
+---
+id: a845560a-6bc1-5353-8769-f63e655bfdc2
+page-type-slug: story-chapter-royal-road
+title: "Phoenix Chapter 150 - Hallucination Disk"
+slug: 0150-phoenix-chapter-150-hallucination-disk
+partOf: phoenix-ascension-cultivation-litrpg
+position: 150
+ownLength: 2141
+unit: words
+publishedAt: 2026-07-13
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3672714/phoenix-chapter-150-hallucination-disk"
+royalRoadId: "3672714"
+---
+
+From the hidden part of the sect, where Divine Sense could not pass through, came two people. One old, though well-built and clearly powerful man, with white hair and a stubby beard. He was wearing a black hanfu with the symbol of the Reaper Sect embroided and behind him with a bowed head, a young man with black hair and green robes.
+
+I was rather surprised to see them walk out like that, though I could infere that the old man was important and that the young man was somehow related to him.
+
+It was hard to say what level of cultivation that grandpa was at, though. His aura was stronger than Meng Mao’s, so possibly late stage Core Formation or Golden Core.
+
+I didn’t believe there was anyone around here that had reached the Nascent Soul stage, though it was possible nonetheless. So far, only the Nascent Soul Old Bastard and his clique have shown to have that sort of strength, and I needed to acquire it to get rid of them from the face of this planet.
+
+Everyone froze when they’d entered, and silence descended upon the area as the pair made their way forward.
+
+They shortly arrived at the center of the arena, which had been emptied, and the young man came down, joining his fellow members.
+
+After a moment, the old man looked around and nodded to himself, though it was clear he didn’t think much about the people present.
+
+He waved his sleeve and opened his mouth, his voice booming out and drowning the silence.
+
+“Welcome everyone to my Reaper Sect. It is an honor for my sect to host this year’s competition, and have prepared the best conditions for our guests!” He sounded like a middle-aged man with a somewhat hoarse voice, so he was either young with some sort of defect or old and the ways of the immortal cultivation have started to have an effect on him.
+
+Either way, he was some sort of authority figure, since he’d come out to talk on behalf of the sect. Could be an elder or the patriarch himself, it was hard to say without more context.
+
+“That’s Peng Long, the patriarch of the Reaper Sect.” Meng Mao informed me via Divine Sense, which confirmed my suspicions right away.
+
+At least he knew when to give me important information, which I could appreciate.
+
+“I am glad to see so many of you have brought your talents to this tournament, and I wish all of them the best of luck. As we all know, the Four Corner Secret Realm is an important asset for all our sects. This year, as same every other year, if anyone that does not belong to one of the sects attains great rewards, invitations to join the sect will be given out. The choice is yours to refuse or not, but know that you would have value.” He spoke, looking toward everyone and no one in particular.
+
+There was some sort of apathy in his gaze that I was sure everyone could detect.
+
+Well, I supposed it made sense. You would much rather have your own people participate and win instead of some random no-body. Whatever agreement these sects came to when discussing how to share the secret realm was probably inconvenient for all of them, which was good for all of the, and most likely prevented war.
+
+“Considering the amount of people present here, the tournament will take place over a few days, maybe even a week depending on how fast the matches end. Please proceed to the various stands to sign up and we will create a bracket for everyone.”
+
+With that said, he turned around and left, his body turning ghastly before his presence disappeared as well.
+
+It seemed to me that many of these cultivators liked to make flashy exits, but at the very least he didn’t turn into sand.
+
+I turned my attention toward a couple of stalls that weren’t there before, and followed Meng Mao to stay in line.
+
+Out of all the strange things I’ve seen ever since entering this world, something like this definetely had to take the cake.
+
+Lining up to sign up for a tournament…
+
+Everyone did that as quickly as they could, and thankfully the only thing they cared about was the backer. Since Meng Mao was, well, he was known, there weren’t any questions asked.
+
+Though I was sure that those who cared even slightly about Meng Mao would have loved to know more about me as well.
+
+Thankfully, there weren’t many people like that.
+
+After that was over, we were being told to wait until they finished creating the brackets. Thankfully, there was a pair number of people, though that was probably already by design.
+
+While we waited, Meng Mao walked around and showed me some of the more important people and sects.
+
+There were the obvious big five, of course, who more or less hoddled together. I didn’t know what they were talking about, and neither did I care.
+
+However, the more we strayed away from the big guys, the more people Meng Mao seemed to know. Large-sized clans were not as friendly with him, but everyone else, he seemed to be familliar with.
+
+He showed me members of a certain Tail Viper clan and some from a River Drowning clan. He knew most of the important figures of both, and many other clans, though I couldn’t pay attention to all of them.
+
+I went with the flow and followed a routine. If it was any other young cultivator, then this sort of opportunity of networking with so many important people was rare, but I didn’t really care about that.
+
+While we were walking around, I’d noticed that the young man the patriarch was with didn’t really interact with anyone. He stood in his own corner, meditating, probably thinking that since he was so strong and important, thent his entire competition was a waste of time, and that he should be allowed passage without having to fight those weaker than him.
+
+Probably, at least.
+
+I didn’t care as long as I qualified, which meant that I only had to enter the top twelve.
+
+Still, I couldn’t help but ask Meng Mao-
+
+“Since you only need to enter the top twelve to qualify, is there any incentive to getting a higher spot?”
+
+“Oh, yes. I almost forgot. The position you end up with determines the order of entry. The first one to enter will naturally be the first winner of the competition, and the second will have to enter one hour after.”
+
+“One hour? Why the wait?”
+
+“It’s because the sects want to get an advantage wherever they can, and also because the Four Corner Sword Realm needs to save up energy, so an influx of people all at once would become a problem.
+
+“Don’t worry though, this only affects the first stage. Every stage after, everyone will be equal. At least that’s how it’s always been reocorded, this time it could be different, since the tirals are always different.”
+
+“I see. Well then I better get that first spot.”
+
+“Ha… Yeah, that’d be optimal, though it may bring a lot of attention upon you, and therefore, upon me.”
+
+“Isn’t that a good thing? Don’t you want to elevate the prestige of your clan and city?”“Too much fame can be detrimental as well. Try not to overdo it.”
+
+“I see.”
+
+He did speak with reason, I wasn’t anybody special, not yet at least. I supposed second place would work too, as I didn’t even know the extent of the prizes within the realm.
+
+I would much rather prefer anything that could give me a succesful breakthrough into the Foundation Establishment realm.
+
+With the inscriptions done, though, and the patriarch having left, there was nothing else to do except wait. I’d already met anyone that Meng Mao wanted to visit, and I also counted how many contestants there were.
+
+If I saw right, there were, including me, about thirty six disciples. A very high number and three times as many as are allowed to enter into the secret realm.
+
+I was wondering how we were going to get dwindled before the true matches even began, though I didn’t have to wait for long.
+
+A few minutes later, one elder phased through the Divine Sense wall and cleared his throat.
+
+Everyone’s attention immediatley fell upon him. His aura was less significant than that of the patriarch, but that was to be expected. That didn’t mean he was weak though.
+
+If I had to measure, he was just a little bit stronger than Guo Lu Poo, but cultivation level was only one part of the greater whole.
+
+Either way, I wasn’t going to fight him, so I’d listened.
+
+“It brings me great joy to see so many of you joining us in today’s tournament. I have seen new faces and old ones alike, and I am glad to see that everyone has at least someone worthy of bringing to this tournament.
+
+“As you all know, though, we cannot do so much fighting and be ready for the opening of the Secret Realm in time, so there will be two trials for every disciple.
+
+“The first one is a mental fortitude test.” As he said that, a large group of disciples walked in, each carrying several similar looking disks engraved with runes and each with a talisman in the middle.
+
+"These disks will be used to attack the mental of the contestants. Please do not be alarmed though, since it has been created specifically for this test, thus there will be no adverse effects if one failed. The only negative thing that will happen is a temporary mental fatigue, but they will be just fine after a few minutes of rest.”
+
+“Now, I will ask every contestant to walk forward and state your name. You will be given a bracelet to track your identity, and it will be the only one given. Do not lose it.” The elder said in a stern voice, his voice echoing thorough the entire area.
+
+He wasn’t mad or anything of the like, but it was definetely more of a guiding voice, unlike the patriarch who was clearly trying to be imposing.
+
+We did as we were asked and walked forward toward the arena, where another disciple was waiting with a hand full of bracelets.
+
+“Jiang Chi.” Said the first disciple, one man dressed in the robes of the Heaven Cloud Sect. He looked young, maybe early twenties, and had the aura of a proper cultivator. However, there was something missing from him…
+
+“Jiang Ji.” The second disciple walked up, her voice soft and ethereal. She was also from the Heaven Cloud Sect and looked suspiciously similar to the one from before. Given that their surnames were also similar, putting two and two togehter wasn’t difficult.
+
+They were twins. I could feel the other’s missing potenial on her. There must be some sort of link bonding them together, a technique only meant for twins.
+
+That was interesting, I was wondering how they could do in individual matches.
+
+The next few disciples did the same thing as the rest, with the patriarch’s relative presenting himself as Peng Li.
+
+There were two interesting people, Lian Shu and Qi Rian, who looked at me after I gave out my name. I’d only found out about their names after, of course.
+
+We were instructed to enter the arena, and then sat down an equal distance apart. At that time, the disciples presented the disks in front of us then we had to wait for the old man to speak again.
+
+Soon after the final disciple sat down and had his disk, the old man spoke.
+
+“Now that everyone has a disk in front of them, the next steps are very simple. Just touch the talisman with ur finger and imbue a small amount of Qi into them.
+
+Afterward, the process is in your own hands, wether you succeed or not depends on you. I will explain more after this trial finishes.”
+
+With that, he picked a nice spot somewhere at the top of the arena stands and waited.
+
+Many of the disciples already placed their finger on top of the talisman, and injected Qi into it. There were a few, like me, who stared at the thing with discerning eyes. It was an easy mechanism that I could break without much difficulty, but that would probably disqualify me.
+
+It was complex, though, and any disicple my age would not be able to decipher it unless they were some insanely talented genius.
+
+As a result, I’d pretended to keep doing some guesswork, then placed my finger on the talisman, and injected Qi into it.
+
+Soon as I did that, the entire world turned black.

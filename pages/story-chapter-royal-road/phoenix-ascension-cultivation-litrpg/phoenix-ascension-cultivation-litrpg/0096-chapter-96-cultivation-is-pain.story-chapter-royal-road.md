@@ -1,0 +1,211 @@
+---
+id: 5fd67dfb-4b6b-5ada-bc4f-6d624ef13331
+page-type-slug: story-chapter-royal-road
+title: "Chapter 96: Cultivation is Pain"
+slug: 0096-chapter-96-cultivation-is-pain
+partOf: phoenix-ascension-cultivation-litrpg
+position: 96
+ownLength: 2132
+unit: words
+publishedAt: 2026-03-04
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3117304/chapter-96-cultivation-is-pain"
+royalRoadId: "3117304"
+---
+
+Hmm?
+
+I wasn’t actually expecting for it to change its name due to me, but I wasn’g going to complain. Giving it a quick look, I noticed that its plain pattern had changed to something more fitting. There were hints of realistic-looking fire all over it, but they were so faint that they were hard to see if one didn’t focus enough.
+
+I quickly inspected it again to see if anything changed.
+
+Much to my delight, it did.
+
+[Tunic of the Lone Phoenix - Epic]
+
+[A tunic crafted and worn by a certain cultivator on his path to glory. Legends say that he used the set until the day he ascended to Godhood, and remnants of his Divine Essence sprinkled onto his clothes. A Phoenix used its essence to re-awaken the slumbering tunic.]
+
+It remained just as vague, but now it had my race on it. Great. I suppose the only way to truly figure out what it did was, well, wear it. That would be an issue, though, right? Unless it had the same properties as the robe I gave Yo Na?
+
+It didn’t say, so I couldn’t be sure. Either way… I was in human form, so I putting it on was the best way to go about it. I doubted I could use it when I was in my original form anyway.
+
+I did just that.
+
+I figured that it didn’t matter whether or not I was already wearing something. I didn’t want to have to undress an entire hanfu just to put on a tunic; it was just disingenuous.
+
+The moment I put it on, the tunic tightened by itself around my upper body, and it felt very comfortable to wear. More than that, though, an immense surge of strength coursed through my body.
+
+It felt amazing, and I wanted to get up and punch something just to relieve myself of this pent-up feeling of sudden violence. I didn’t, though, since I was a lady and all.
+
+Taking a deep breath, I tried to calm down and took the time to open my stat sheet. If anything changed, then it would be reflected there.
+
+Stats
+
+[Strength: 358 + (100)]
+
+[Dexterity: 315 + (0)]
+
+[Perception: 358 + (0)]
+
+[Charisma: 277 + (0)]
+
+[Intelligence: 320 + (0)]
+
+[Skill Points: 45]
+
+Change? Yep, big change.
+
+All my stats now have an additional number next to them. I figured it was because I was wearing something now, and the one change I was most interested in was the strength. Plus one hundred.
+
+No wonder I felt like punching something, I’d gained almost one-third of my total strength just by putting it on! That was absolutely insane.
+
+“Xing Ya Chen!” I turned to him, my expression probably looking crazier than I intended it to. “Are there more pieces where this one came from?”
+
+“No… not that I’m aware of. This was the only one we found, and, again, it’s useless. Or, it was useless. I don’t know what you did do it.”
+
+“Right, I forgot. It doesn’t matter what I did do it, but what matters is that you will not say anything about it to anyone, right?” I gave him a flattering smile, and the boy nodded his head, confirming that he would keep his mouth shut.
+
+“Good.”
+
+With that confirmed, I figured that I had to start a treasure hunt at some point.
+
+[Quest]
+
+[Collect and bind all the pieces from The Lone Cultivator Set using the hints.]
+
+[Reward: Unknown]
+
+Great, now it was a quest. I wasn’t sure what hints it was talking about, but I was intending on doing that anyway, so it worked out in my favor.
+
+Now that I had the pills and the new item, I decided that it was time to cultivate. It would be a messy and stinky process, though.
+
+“Could I get a private room where I can have peace and quiet?” I asked, though I supposed the question sounded more hurtful than I wanted it to be. “I want to cultivate.” I clarified, and the group’s expressions relaxed quite a bit.
+
+“Of course you can.”
+
+“Great. I want you to buy anything a Qi Condensation cultivator may need… Actually, those two Qi Condensation cultivators may need. Also, any soil that can be used for Foundation Establishment would work as well. Put it all on my tab.”
+
+“Alright. I’ll see to that then.” Xing Ya Chen replied without a moment’s hesitation, and I could not be more grateful.
+
+After I was escorted to another, smaller and isolated room, to the point that I could choose wether or not I wanted to see the auction below, it was time to raise my strength.
+
+I took out all the pills I had at my disposal.
+
+A handful of Qi Condensation Pills, one Marrow Cleansing Pill, the Affinity Resetting Pill, and Body Reconstructing Pill. Those, and a few Beast Cores I hadn’t looked at yet.
+
+The Qi Condensation Pills would help raise the Qi inside my dantian, as would the Beast Cores, hopefully. The Body Reconstructing Pill would make my body better suited for cultivation, though I wasn’t sure how that would work on a Spirit Beast such as myself.
+
+With the Marrow Cleaning Pill, I would be able to clean out all the impurities from my body from all the pills and other things I ingested, and the Beast Cores would hopefully give me a lot of bonuses.
+
+To start it all off, I began with the Affinity Resetting Pill, though. It was a pill I’d never used in my past life, so I didn’t know for sure how it worked, but there’s always a first to anything.
+
+I just hoped I wouldn’t end up resetting my Fire Affinity; that would be a shame.
+
+Without standing on ceremony, I grabbed the pill and placed it between my lips, and it eventually made its way into my true stomach.
+
+There wasn’t any immediate effect, but when I started meditating, the ingredients within began to stir, and much to my delight, I got an innate sense of what to do. Without hesitation, I thought about resetting the Water Affinity and…
+
+[Water Affinity successfully reset to zero.]
+
+That was less ceremonious than I thought, actually, but oh well. I was far too excited to care!
+
+Water Shot!
+
+I extended my arm and activated the skill, and the Qi in my body stirred as a ball of water appeared in front of me, then shot toward a wall.
+
+Yes! Fuck Yes! I finally used water!
+
+I would have jumped in happiness if I weren’t in such an embarrassing form. I could scarcely believe it.
+
+I was pretty sure the damage the skill actually did was negligible, but what did I care? I now had three elements I could use!
+
+Water Barrier!
+
+A thin layer of water appeared around and surrounded me. The effect it gave was trippy, and when I poked my finger through it… It burst, and all the water fell, dampening me as a result.
+
+Damn… I didn’t want to take a shower!
+
+Not that it mattered much. A single thought, and all the water evaporated off my body without a hitch.
+
+Now that I verified that the two water-based skills in my list worked as intended, it was time to actually cultivate.
+
+Well, before that, I wanted to check what sort of cores Xing Ya Chen brought me.
+
+[Jade Serpent Core]
+
+“Ew,” I said outloud, but a core was a core.
+
+[Iron Tiger Core]
+
+[Killer Rabbit Core]
+
+[Hell Dog Core]
+
+Those were the biggest ones; the rest seemed to be around the same size or smaller. It was easy to tell that none belonged to any particularly strong beast, so I didn’t have any high hopes.
+
+I absorbed all of them, and a decent amount of energy escaped from them, entering my body. No small amount of Qi also appeared in my dantian, which pleased me greatly.
+
+[Spirit Beast Cores successfully absorbed with an average of 65% Efficiency!]
+
+[+17 Strength; +13 Dexterity; +20 Perception; +8 Charisma; +6 Intelligence; +350 Qi]
+
+Compared to the absolute ocean of strength the tunic gave me, the seventeen points were chump change in comparison. However, they were permanent, whereas the tunic disappeared the moment I took it off.
+
+All in all, I was really happy with my haul from the cores, especially with the amount of Qi they gave.
+
+[Qi: 6379]
+
+Checking the amount of Qi I had, I couldn’t help but smile. It wasn’t a lot, but compared to the few hundred I had when I first started cultivating, it was a massive improvement.
+
+With all of those done, I could truly start cultivating. I decided that the first pill to eat was the Body Reconstructing Pill. It was the most obvious one, since all the other pills would be more effective afterwards.
+
+In retrospect, I should have waited until after eating that one to absorb the cores. It was too late for regrets now, though. I grabbed the pill and placed it between my lips, and it melted on my tongue before even sliding down my throat.
+
+The energies within the pill dissipated inside my body, and my heart skipped a beat as I thought that it would be ineffective.
+
+My fears were unfounded, though.
+
+The energies finally found what they were looking for— that being, Meridians— and got to work on my Phoenix body.
+
+What that pill was supposed to do was re-shape the body to have the best structure possible for the cultivator. It wasn’t a magical pill that could rebuild the skeleton, meridians, and muscles, but just a simple ‘Why not?’ pill that one could ingest.
+
+That was the case for humans, at least.
+
+As for me…
+
+The process was exceptionally brutal, as at first the pill tried to do what it was supposed to do for a human before figuring out that nothing worked. It didn’t think about it, but it did have an instinctual way of doing things.
+
+After figuring out that it couldn’t do what it was meant to do, it settled on doing the next best thing.
+
+My body was in pain as the pill forced me to sit upright, feeling all of it in my original body. The form created by Perfect Disguise had not faded, but it wasn’t really affected.
+
+The energies infused themselves into my bones, muscles, and even meridians, reshaping them to be better conduits of Qi. The unpleasant process lasted for enough time for me to start wishing it ended already, and I’d already begun to curse myself for not concocting a better pill.
+
+Eventually, the process stopped, and I felt invigorated, if not a little sore. My high vitality meant that I recovered quickly, but I would never forget to double check who the pills were designed for first.
+
+With that out of the way, the Marrow Cleansing Pill was pretty straightforward: Clean the body, especially the marrow, of all impurities. Impurities were bad Qi or even dregs that remained in the body after cultivating, eating, ingesting Qi, etc What that pill did was push them all out through the pores and seven orifices.
+
+It wasn’t any different for humans or beasts, and the end result was the same. The room stank as black goo oozed out of my pores, more than I was willing to admit, actually.
+
+After using the Water Barrier to wash off all of that, I burned the impurities using my Nirvanic Flames, leaving absolutely nothing behind, not even smoke.
+
+And now that the appetizers had been eaten, it was time for the main course.
+
+I grabbed the Qi Condensation Pills, counting about half a dozen, and decided that the best way to speed up the cultivation process for what I wanted to do that night was…
+
+To eat all of them at the same time.
+
+It was a bad decision, as it turned out, as the sudden influx of Qi threatened to destroy my meridians, bones, flesh, and everything else.
+
+Too much!
+
+I quickly got into a meditative position and started using both cultivation techniques, frantically chanting and circulating the Qi, dropping it into my dantian.
+
+The process was painful, difficult, and outright torture!
+
+Luckily, I had enough willpower to bear through the pain, and much to my delight, I’d gotten into a cycle where I could barely contain the energies.
+
+The Ghost Qi Technique proved incredibly useful at containing the Qi, though, as each time the lake threatened to fill, I condensed it, turning it into a solid-mist strange mix that always made more space for more Qi to enter.
+
+Eventually, the lake began to expand so it could hold more Qi, and I felt the barrier holding the energies back begin to weaken.
+
+My dantian was about to expand!

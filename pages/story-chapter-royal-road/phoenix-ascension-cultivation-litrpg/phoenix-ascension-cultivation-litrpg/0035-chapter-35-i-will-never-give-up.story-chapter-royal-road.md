@@ -1,0 +1,189 @@
+---
+id: 56e918b4-0da3-5a6c-8d64-d27cd3f1f9d3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 35: I will never give up!"
+slug: 0035-chapter-35-i-will-never-give-up
+partOf: phoenix-ascension-cultivation-litrpg
+position: 35
+ownLength: 2200
+unit: words
+publishedAt: 2025-10-13
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2674326/chapter-35-i-will-never-give-up"
+royalRoadId: "2674326"
+---
+
+“I, Fa Xiaolan, will never give up!” I murmured as I awoke, my body jolting with a sudden burst of strength. My weakening consciousness blazed back to life as the events of the dream replayed over and over again in my mind.
+
+Was that my past life? That dream? It sure seemed like it… I could only speculate, but thanks to it I managed to stay alive.
+
+That’s right, I will never give up. So what if I’m at the brink of death? I won’t stop fighting until I gave my last breath!
+
+Having said that, I assessed my condition. My injuries became so severe I couldn’t feel half of my body, and it took an enormous amount of strength to even open my eyes.
+
+The Demonic Qi spread from my wing to my upper body, and it wouldn’t be long before it reached my dantian. I had to stop it before that happened, but I had no strength, aside from my willpower.
+
+However what good would that to in this situation?
+
+I took slow, careful breaths and chanelled my Qi. It had recovered some while I was unconscious, but only one third. That was far from enough.
+
+My natural regeneration worked to the best of its abilities. I had no stamina, and even lifting my wing proved to be a herculean task.
+
+Looking at my skills, there was nothing that could help me regenerate my health and Qi. Of course, I wasn’t expecting a miracle, especially not regarding Qi, since it wasn’t exactly something that most Spirit Beasts had an abundance of.
+
+System, you don’t happen to have any healing skills for me, do you? I asked, hoping that it would be able to get me out of this predicament.
+
+[Analyzing…]
+
+[The only healing skills available cost more than your current Skill Points]
+
+[Bloodline Skills tied to healing would be unlocked upon evolving into a healing-type Phoenix.]
+
+Great…
+
+I coughed weakly and struggled to move my head toward the sky. The forest was beautiful, with the sunlight scattering through the dense canopies. Were it not for them, I would have ended up as a meat paste on the ground, Strengthened Constiution and all.
+
+Just as my consciousness began to fade, the voice of a man resounded in my ears.
+
+“Did you notice, there aren’t any more snakes popping up.” His remark made me smirk, and I would have chuckled if I could.
+
+Of course there aren’t.
+
+A female voice sighed, her tone sounding quite disappointed. “Such a shame, I got so many anti poison pills too. I can’t even demand a refund.”
+
+“Yeah, those snakes were the biggest danger in this Kong Lin forest, and also the most valuable assets. We could have made our money back if we hunted two dozen of them and brought them back.”
+
+“Madam Po said she’d buy the meat from us, since her grandson is a chef who knows how to avoid the poisonous areas. Otherwise their meat is quite delicious. That’s what she told me, at least.”
+
+The man let out an audible groan. “Such a shame, it’s not like we can fight anything else here. We might as well go back to the village.”
+
+“But the pills…”
+
+“We’ll send them to some fool who hasn’t heard that the snakes have disappeared and make some money back at least.”
+
+“That’s so evil…” She said, though there wasn’t any hint of guilt in her voice.
+
+Dog eat dog, even youngings barely in their Qi Condensation stage have such thoughts. What a shame you met me.
+
+Since the heavens sent me such a lifeline, there was no way I would throw it away. I mustered two needles, the Qi expenditure making the Demonic Qi invade my body even faster, and waited for them to pass beneath my tree.
+
+A minute later, they appeared, and fell in that same instant.
+
+Ignoring the kill notification, I took a deep breath and looked down, then forced myself to fall.
+
+Luckily, I fell on top of the girl, her still warm flesh attenuating my fall. I scanned the area with my Divine Sense and found the man’s bag of holding. Without hesitation, I slapped with whatever limb closest to it and looked inside.
+
+Green pills, red pills, white pills, purple pills and… pink pills? Food and… wow, a rope. It looked quite fancy, but I didn’t know what he intended to use it for. He had a strange scroll as well, but nothing I could read. Besides that, he didn’t have any spirit stones.
+
+I couldn’t believe I was longing for spirit stones, of all things. The amount of Qi I got from that tiny sliver was nothing, but even that would help me in such a situation. The girl didn’t even have a bag of holding, so there was nothing to search for.
+
+Nothing that could be done about it, though. I took out the pills and inspected them. My Divine Sense fell over them, and whilst the green one was a poison cleansing pill, and the white one was some sort of Qi-infused pill.
+
+The purple pills were some sort of poison, as their miasma was enough to stir up the memories of that damned snake. A single whiff made me nauseous.
+
+What are these people using to make poison? I think the smell alone could kill a small animal.
+
+I didn’t want to know what the pink one did, so I threw it away.
+
+The effects of the red ones were a bit more mysterious.
+
+I could tell that it was meant to help with regeneration, but it was of such poor quality it almost looked like poison.
+
+However, it was better than nothing.
+
+Gulp
+
+I forced the green, white and red pills into my throat, my wings and claws barely listening to me, but after pushing the Pain Tolerance skill to its limit, I managed.
+
+They melted inside my mouth, and the amount of Qi in my dantian grew. It was a sorry amount, but enough to help in fighting against the Demonic Qi, who seemed to have no end in sight.
+
+However, my HP was going up, slowly but surely. I’m not sure what the poison pill did, but if it helped counter attack all the toxins within the pills, it was welcomed… unless it had toxins as well.
+
+Argh, I couldn’t think about that many things anymore, I didn’t have enough mental power for that. I forced myself to swallow the rest of the pills, and got to my feet with a lot of pain. I kept the poison pills close to my, tucked under my wings, just in case I would need them.
+
+I looked back at the two, whose lives had been sacrificed for my survival, and lit their corpses on fire. At least that way the Spirit Beasts wouldn’t eat them. I definitely wasn’t about to. Humans had little to offer in terms of nutrients and energy, and I also found the prospect disgusting.
+
+I was a human once, after all. As for the scroll and poison pills, I took them with me. As much as I hated the thought, they may come in handy.
+
+After walking for a few miles, I took cover under the base of a tree and looked inwardly. The Demonic Qi had seeped into my dantian, but the natural protection it had stopped it from advancing further.
+
+The sea churned as it fought back, but that only slowed the Demonic Qi’s invasion, not halting it.
+
+I tried using my Qi, but the moment I did so, the Demonic Qi advanced by a non-neglibile amount.
+
+Sighing, I leaned back and waited for my health to regenerate. It seemd that due to the demonic Qi, I was locked in a forever ‘Combat’ state.
+
+But the moment my health rengerated back up to fifteen percent, it started going faster. That had to be an untold effect of my evolution or Dragonbone Tempering skill. I was curious to know what rank it was at, but I didn’t have the mental faculty to have so much text flooding my vision.
+
+I was still wounded and hurt, I couldn’t afford any distractions, even if this forest could be considered weak, I didn’t even have fifty percent of my true combat power left.
+
+Fucking demons… Ugh, how could they be in such an insignificant place, and from humans, none the less? Who did this? Argh these humans, they can’t even take care of a measly demonic cultivator?!?
+
+I had to keep my rage in check, but I couldn’t forget about them. I could feel my dragons were still alive, my connection to them not quite yet broken. I didn’t know if either of the demons had died, but I had to check.
+
+After my health regenerated to a comfortable amount, I stood up and made my way toward the lake.
+
+I clawed on a nearby tree, climbing up then jumping from branch to branch with expert dexterity. If I were a human with no body cultivation, the Demoni Qi in my dantian would have crippled me. But I was a Phoenix first, cultivator second.
+
+So what if I couldn’t use Qi? The strength of a Phoenix was not to be taken lightly. And I still had my Bloodline Skills, which didn’t consume any Qi. They did use my stamina, which was somehow tied to my HP, but I’ve steadily been recovering it as I advanced.
+
+I didn’t dare activate any of the Active Skills, as those used Qi. That also meant I was locked out of the Nirvanic Flames for a while. That fact alone meant those demons deserved death by a thousand cuts.
+
+As I approached the lake, I heard sounds of fighting. My two dragons were locked in combat with the Copper Demon, but the other one had been sliced cleanly in two by his comrade.
+
+He wasn’t moving… not a lot anyway. I wasn’t sure if that meant he was dying, was dead, or that something else was going to happen. I decided to hide and observe.
+
+My dragons had enough Qi to last for a few more minutes, but only one of them required Qi. I commanded the Nirvanic Flames dragon to merge with the Phoenix Fire dragon, thus becoming one single, stronger and more stable entity.
+
+The certainty of the Phoenix Fire combined with the short-lived power of the Nirvanic Flames would surely kill the demon.
+
+Or not.
+
+Somehow, even with the combined strength of the two dragons, I couldn’t do much damage to the copper-skinned demon. His defense and offense were too high, and he seemed to have lost all reason and sanity after his friend died.
+
+At his own hands nonetheless.
+
+Well, I assumed he died.
+
+Seeing that, I didn’t know what to do. Not only did I not gain anything by fighting them, but I would also unleash a demon upon the forest if I didn’t do anything about it.
+
+That would mean disturbing the peace, and cultivators would investigate.
+
+People disappearing wasn’t such a big deal, and cultivators getting killed while saerching for treasure was a nattural occurrence, but a demon wreaking havoc? That would surely attract their attention. I didnt want that.
+
+Not to mention that those two mentioned something about a village, meaning there were mortals and cultivators living nearby.
+
+There was only one thing that I could do, but I wasn’t sure of my success.
+
+However, what other choice did I have?
+
+I jumped down and approached the fat demon, and commanded the dragons to wrap around him. They were so weak now that they wouldn’t be able to hold him down for long, however I only needed a second.
+
+Just one second.
+
+I used Ember Step and rushed in front of him before he even knew I was there, and jumped up, perching on my flame dragons. With hesitation and disgust, I flicked my wings, and threw the poison pills inside his mouth.
+
+The five or so pills melted as they made their way down his throat, and in that same moment he escaped from the clutch of the dragons.
+
+I got sent flying backward, and I couldn’t stop myself despite digging into the earth. All I managed to do was slow down some before I inevitably collide with a tree.
+
+Gah—
+
+I coughed out a mouthful of blood and watched the demon. At first, he charged toward me, forgetting he had a perfectly fine whip in his hands, then he stumbled and got back up, blood oozing out of his seven orifices.
+
+I struggled to get up, and his speed had increased twofold upon seeing that. Deep inside I knew I couldn’t run in time, even with Ember Step. That didn’t stop me from trying, though.
+
+However, his fist descended upon me before I could activate the skill, and then just as softly fell around me, barely missing me as the demon’s eyes rolled backward.
+
+The poison was very effective, it seemed.
+
+[You have slain Li Manfeng, Lesser Demon Lvl 6.]
+
+[XP Acquired]
+
+[You have Leveled Up]
+
+[Elemental Phoenix Lvl 12 has become Elemental Phoenix Lvl 13]
+
+[Bloodline Skill: Paralyzing Screech has been acquired.]
+
+[Skill Points Acquired]

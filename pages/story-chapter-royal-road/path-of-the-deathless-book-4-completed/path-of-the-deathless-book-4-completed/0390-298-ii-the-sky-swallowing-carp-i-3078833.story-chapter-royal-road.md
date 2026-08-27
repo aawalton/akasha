@@ -1,0 +1,183 @@
+---
+id: 276916bb-3734-5335-aef0-a6bab1fea4a0
+page-type-slug: story-chapter-royal-road
+title: "298 (II) The Sky-Swallowing Carp [I]"
+slug: 0390-298-ii-the-sky-swallowing-carp-i-3078833
+partOf: path-of-the-deathless-book-4-completed
+position: 390
+ownLength: 3561
+unit: words
+publishedAt: 2026-02-21
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3078833/298-ii-the-sky-swallowing-carp-i"
+royalRoadId: "3078833"
+---
+
+298 (II)
+
+The Sky-Swallowing Carp [I]
+
+Shiv threw his genitals past the Culturist’s head as hard as he could. The orc’s mouth fell open as the ruined penis zipped through the air fast enough to release a sonic boom.
+
+The pain was pretty bad—a six out of ten. Manageable, but not something he’d ever do if he had a better strategy available. Shiv watched as his privates exploded into the distance. It was probably going to hit some unfortunate orc Hero based on the trajectory it was on right now. Shiv hoped they could dodge or block or something, but it really wasn’t his problem anymore.
+
+The Culturist was.
+
+His jaw remained dropped, and he seemed truly distracted this time. Shiv capitalized on this distraction in two steps. He launched his physical body at the Culturist with a tug on his collective tides. He ripped through the air and nearly smashed into the orc, but despite being surprised, the Culturist was still a Legend. A Legend that had spent more lifetimes in combat than Shiv had spent weeks being alive. As such, he shrugged off his shock and wrapped a massive hand around Shiv’s face, stopping him dead.
+
+Shiv was towering in size from all the fear-chains connecting him to orcs across the coliseum, but he was still a full head shorter and what felt like a near-ton lighter than the Culturist. Shiv wrestled against the Culturist with every bit of his Legendary Physicality, and found himself matched by the orc’s equally tremendous strength—then overcome by pure technique.
+
+The Culturist struck Shiv in the chest with a palm strike from his free hand. A thunderclap went off inside Shiv. He died nigh instantly as everything that was matter inside him was reduced to slurry. The Culturist opened his mouth to spit some kind of quip or compliment—
+
+But was interrupted by the second phase of Shiv’s dastardly plan.
+
+Now that Shiv was technically a strange ghost golem that shit out human bodies on a whim, he used his organic form the same way he exploited his Vitae Golems: as expendable decoys. His Severed Shadow had dimmed slightly while the Culturist was distracted by his severed penis, and the body he'd just used took up most of the orc's attention. Just as the Culturist obliterated everything inside Shiv with that palm strike, his evolved Revenant solidified. Its cutting aura tore through the corpse without any resistance at all—slicing into the Culturist’s outstretched hand.
+
+For the first time, Shiv tasted the Legendary orc's blood, and his cut went further than that. It glided deeper than the orc's flesh, deeper than his bone, sinking all the way to a place beyond the material, into the magical. Shiv's blade cleaved against the orc's collective mana fields. It felt like he was dragging a rusted cleaver through week-old beef. Even so, he was inflicting damage, biting ever deeper, as he tasted the Culturist's vitality. A rush of warmth, warmth sweeter than all the warmth he'd tasted before, rushed into Shiv, ignited his Severed Shadow. His Revenant form lit up like a gem channeling the full concentrated power of a sun.
+
+Then his hewing aura carved against something essential, something hard and precious at the very base of the Culturist's soul. Shiv knew what it was like to strike his Vitae against a skill. But so did the Culturist, for that matter.
+
+The Legendary orc vanished so suddenly, Shiv thought he'd teleported. But when no Dimensionality mana stained the air, he understood his enemy was just that fast, or had some kind of Evasion Skill. Before that thought could even settle in Shiv's mind, a barrage of magical attacks came striking at him from all directions. They pierced down from the clouds above, carried by bolts of lightning. Crackling forks filled with enchained spells speared against Shiv. They detonated all at once, and the world turned white as a concentrated sphere of condensed destruction swallowed Shiv. It wasn't a massive blast, little more than a few meters in diameter, but it was unmatched in potency. It was ruin made manifest. There wasn't any chance for Shiv to respond. The spells came too quickly for him to parry. Too fast for him to dodge. Too fast for him even to perceive. And he tried to think of a response until it was far too late and he was trapped inside that boiling cauldron of destructive mana. Even so, he wasn't helpless. His cutting aura tore into the hostile mana and severed entire chains in an instant.
+
+But the Culturist kept casting more—unleashing streams of magic that never seemed to end.
+
+Most of Shiv’s vitality was destroyed. Everything he'd just gained was lost in a catastrophic instant. And he found himself burnt down. Down to less than a tenth of his former life force. And then he lost even more until he finally faded enough from existence that the attacks could no longer touch him. With this Skill Evolution, Shiv had regained the greatest blessing his Revenant form had: immunity. His Severed Shadow turned to vapor and, with a bit more time, the vapors lost all their color. In the end, it was nothing more than a silhouette. Nothing more than a faint geist drifting through the world. Present in form but not in substance.
+
+A part of this evolution also resembled his Non-Sequitur skill in some aspects. Both of them were about severing himself from the world, about being an island unto himself, away from the System's influence, isolated and unreachable by all others.
+
+Shiv ruminated on that epiphany. A crashing wave of vitality splashed down, refueling everything he'd lost. The other spells had ceased. The Culturist was no longer trying to destroy him. This seemed like an apology or an attempt to keep him alive as he realized he was solidifying against his will once more. He could only respond one way to an influx of vitality: drink it in. And when he drank, his body ignited. His spirit hardened. He calcified. He turned tangible. And he realized that was what the Culturist was counting on.
+
+Shiv wasn't the only one testing the capabilities and limits of his new skill. He triggered Non-Sequitur for the first time and burst free from a shroud of hardening vitality, immediately noticing the difference between the decoy he left behind and his actual Severed Shadow. The decoy was jagged along the edges, vaguely humanoid in shape in all aspects, except it was devoid of that wound down the middle. Instead, there was only a slight gorge there, a shallow depression that seemed like someone had carved out a portion of a Vitae golem's chest.
+
+Meanwhile, the pale and empty blade still resided at Shiv’s center.
+
+The Culturist appeared without forewarning. He backhanded Shiv's decoy, shattered it, and then disappeared once more as he forgot Shiv's existence and reacted to the blip in his perception with caution. Shiv bled vitality—and found himself alone. The Legendary orc was gone, and stayed absent in the moments that followed. Unlike almost everyone else Shiv had fought, the Culturist held one thing sacrosanct above all else: disengagement. He broke contact the moment a fight was done and stayed hidden. As the chill of a final end rushed into Shiv, he tried to do something he'd never tried before—he resurrected his physical form while parted from reality. Another body slipped free from him. The cost to his Vitae was the same as before: exactly half of his lifeforce, even while it was being sapped away.
+
+A new, bare body emerged from the slash splitting the core of Shiv’s shadow. Though the Deathless was burning his vitality down to the wick, he still had his Enchained Heart of Lifegiving, and so he decided to push the boundaries. He tried resurrecting a second physical body to go with his first.
+
+And to his disbelief, he succeeded.
+
+Another set of senses crashed down on his already overloaded mind. Shiv found himself controlling three separate bodies at the same time. Unable to process everything at once, he emerged from his Outside Context state in a splash of white-red mana—and both his physical bodies promptly fell over in boneless heaps, their bare asses pointed toward the sky. It was already hard processing all the sights and sounds from three different sources. Controlling all three at the same time was beyond impossible for Shiv at present. His Bifurcated Processing would need to undergo another evolution before he could even think about that.
+
+But this was good. This represented opportunity. He barely had any vitality left, and his Severed Shadow glowed so faintly that a rough wind might blow the candle of his existence out for good. Once more, the newly resurrected body had taken exactly half his possessed essence. It never seemed like his total vitality, just half every time. Shiv wondered why that was. It didn’t make sense from a resource perspective. It wasn’t like his first body seemed that much stronger or potent. They were both the same. His physical bodies were also devoid of vitality on top of everything. So then why—
+
+Both of his bodies disintegrated as the Culturist reappeared in a burst of crushing pressure. First came the splash of dimensional static. The orc teleported, but from his portal came a crushing wave of force like no other. Immense gravity bore down on both of Shiv’s bodies—enough to grind baseline orichalcum to dust. Shiv let out a ragged snarl as he felt both of his new bodies break and rip. His bones shattered. His skin tore. Yet, his Toughness remained a thing of bestial myth. Shiv was hard to kill, if nothing else, and the Culturist’s magics were made to work for that final end.
+
+Pillar of Orichalcum 283 > 287
+
+The orc emerged from the portal thereafter and walked through the crushing waves without any burden. He ignored both of Shiv’s bodies and glared directly at his Shadow.
+
+“I was experimenting with those bodies,” Shiv grumbled. “You couldn’t have waited?”
+
+The Culturist held up his right hand. Only his thumb and index finger remained. The rest had been cut clean through at an angle. But Shiv knew that the Culturist had lost more than just flesh. His mana was seeping out from him in dense spills of color, and his vitality oozed out from his mutilated soul somewhere deep within. “You cut a level out of my Aeromancy,” he declared.
+
+“Did I, now?” Shiv laughed, feeling more pleased with this new Skill Fusion than even before. “I knew I managed to bleed you someplace deep, but a full level? Was it a Legendary Skill?”
+
+“Thankfully not,” the Culturist replied, frowning at his mangled hand. “If it were, I shudder to imagine the consequences of such inflicted damage. You have dealt me a brutal injury, Insul. The lesson you sought to teach has been received most deeply. I apologize for playing with you like prey and over-indulging in my itch.”
+
+“Don’t worry about it. Actually, if you can keep doing me a favor, stay that way. It’s harder to cut you open when you aren’t being… Uh, what’s the word… Hu–hubri—”
+
+“Hubristic,” the Culturist finished for him.
+
+“That. Adam uses it sometimes.”
+
+“I fear I cannot grant that request, my Insul,” the Culturist said. “This is quite the cost. But also a most worthwhile lesson to learn. If we are to fight now, I will treat you with the full gravity you deserve. Especially with this new skill you have attained.” The Legendary orc’s eyes burned bright with the power of Divination. He tried reading Shiv’s nature, but looked away—and seemed frustrated rather than pleased. “Beyond even my gaze. Or perhaps the System itself doesn’t want to see. Very well. Another blessing of vitality for this new shape you possess. I promise not to end you, Deathless.” Then the orc’s expression shifted. “But you do understand that I must discover the depths of pain you can now endure. And how to break this novelty you’ve become.”
+
+The orc’s voice grew low and heavy with promised violence. Shiv’s instincts screamed with alarm.
+
+Sage of the Enkindled Heart: He was playing with you slowly. Battering and brutalizing you like a cat might a mouse. But you’ve woken something in him. He sees you as an actual adversary worth dominating. He’s going to drive you to the brink if he can. Brace. It’s time we get away and—
+
+A gleaming warhammer that boiled the air with radiating vitality appeared in the Culturist’s hands. It crackled with thunder, and its rune-like script blinded Shiv with the overwhelming deluge of mana gushing out. An intrusive thought forced its way to the forefront of Shiv’s mind as the Culturist blasted him with a beam of concentrated lifeforce, forcing his Severed Shadow to solidify. I’ve seen those carvings before. Veronica’s table, and her door—
+
+Shiv’s Shadow scattered into dissolving shrapnel as he felt his head burst asunder. He couldn’t even perceive how the Culturist was hitting him. He lashed back, blind and wild. His cutting aura sent slashes stroking gaps deep into the sand. The full potency of his advanced Knife Proficiency was unleashed by his aggression and intent. The world was disemboweled, showering him with a rush of vitality from the System itself.
+
+Warning: Legendary-Tier anomaly detected! Mana rupture imminent!
+
+“No, enough with that.” The Culturist’s telepathic command slammed into Shiv like it had the weight of a crumbling mountain behind it. Uva’s Psychomancy felt like a feather compared to this. Shiv’s Shapeless Tides barely endured. Most of his vectors vanished, preserving his mind, but before he could cultivate more overflow tides to replace what had been lost, another psionic command struck him like a hammerblow across the temple. “Stop.”
+
+Shiv didn’t want to, but the Culturist’s words savaged the corridors of his mind and—
+
+Another explosion of static mana appeared right in front of Shiv. A rift of Dimensionality opened in the world—and Shiv felt it. There was something kindred about cuts and slashes, about things that hewed, carved, stabbed, and cleaved. The resounding squeal of magic bouncing off Inertium filled Shiv’s hearing, and he found the diminutive form of the Giantsbane standing before him, helmet on and visor down. Rusty’s tip was coated with a trickle of blood. Two meters away from her, the Culturist shifted back, clutching a shallow wound stroked right under his left rib. He traced the blood weeping from his side with his right thumb and raised it to his mouth to suckle on its taste.
+
+“Ah.” The Culturist sighed, his lips drawing back in a wide and glorious grin. “Giantsbane. This is not your fight.”
+
+“I don’t give a shit about orc rules or whatever this bullshit is,” Jessica replied flatly. “You’re done. He licked you good, and you licked him back. Cool off.”
+
+The Culturist cocked his head, and he looked more monstrous than ever before. “Come now. I am not rageful. I am simply—”
+
+“I know what you are,” she cut him off. “You got that junkie gleam in your eyes, and I know what it looks like when some degenerate is itching to get their fix from someone else’s hurt. You both were having fun before, but you’re not holding your own leash anymore. You’re fucking done.”
+
+“Why?” the orc breathed. His eyes drifted away from Shiv, and his irises burned a piercing yellow as he fixated on Jessica instead. “Because you told me?”
+
+“Because if we get down with each other, it’s gonna be to the death. Like you would have taken it with him.”
+
+“I wouldn’t have—”
+
+“You’re a junkie fuck chasing pain,” Jessica barked. “You don’t choose, the need inside you does. You would’ve snuffed him out for good if the impulse took you. Don’t bullshit me, and don’t bullshit yourself. You wanna do the orc cruelty thing, fine. But if you lose, I’m going to use you as a whetstone for Rusty.”
+
+“Why must your threats be so enticing?” The Culturist licked his lips. He took a step forward.
+
+Only for Valor to suddenly appear beside him—and casually jab an ordinary metal dagger right under the orc’s carotid. The blade bent. The Culturist suffered no harm. He whipped an elbow out—faster than Shiv could follow. But Valor dodged it somehow. He wasn’t nearly as fast as the Culturist, even with the return of his torso. It was the gap between a Low Hero and a Legend. So how could he even…
+
+He knew it was coming, Shiv realized. He knew what attack the Culturist was going to perfect, from what angle, and at what time in advance. Holy shit…
+
+Valor Thann’s great restoration wasn’t the reclamation of his Legendary Stealth. It was the remembrance of who he was, the things he’d done, and the enemies he'd faced across his many centuries of life. He was now a Legend among Legends trapped within the body of a diminished Hero.
+
+“Dead,” Valor declared casually. He lightly whacked the Culturist under his chin, like a man chastising a naughty pet. The Culturist just blinked. His eyes were wild and unfocused, jumping between Jessica and his true nemesis. It was like he struggled with what he wanted to do—who to attack first. “Sloppy and distracted,” Valor continued. “How did you let this happen?”
+
+“I—”
+
+“How did you let me strike you so easily? Are you deaf? Are you blind? Or are you simply incompetent? Let me tell you what I am: ashamed. Do you think I will recognize you as my nemesis if you act like this? Do you think some new Unique Skill should provoke you toward such obsession?” Valor turned away from the Legendary orc without fear. It was like he knew he wouldn’t be struck down from behind. “Compose yourself, Culturist. You already fed on cruelty when you killed him the first few times. Now, you are being a glutton. Leave and attend to yourself. Spare me your sight until you have regained the dignity of an individual rather than one of the Challenger’s pretend monsters.”
+
+A grand but subtle struggle played across the Culturist’s expression. Shiv could practically taste the orc’s palpable urge to murder and maim, but he was also humiliated. By Valor Thann, no less. And the lich’s words held so much weight that shame defeated bloodlust—a thing unthinkable for most orcs. Forcing himself to calm, he bowed slightly to Valor, and then vanished in a blink, leaving only the faintest afterimage in his wake.
+
+Shiv huffed. Godsdamned, he’s fast.
+
+Boos sounded from all corners of the coliseum. The other orcs jeered and mocked the Culturist for his failure.
+
+“Tribal!”
+
+“Tribal!”
+
+“Tribal!”
+
+Such was the slur they bestowed upon the Culturist. Such was their scorn that they compared one of their own kind to a term used to describe a human. But no curses rained down on Valor or Jessica. What Shiv received was closer to fear and admiration. Despite everything, Shiv felt a little bad for the Culturist. He couldn’t help it. There was something here that echoed with his own past. Shiv had been a pariah on Blackedge. That hadn't truly changed, even to this day.
+
+The Culturist was a stranger among the other orcs. This act of chosen virtue was closer to an admission of metaphysical weakness as seen by his kindred, and this would cost him both dignity and respect. But the Culturist didn’t think highly of his own blood or his god. Instead, he placed Valor’s regard at the highest. And that said something to Shiv. That said a lot.
+
+“You alright, kid?” Jessica asked. “You’re not dying there, are you? Your, uh, ghost-form is kind of fading.”
+
+“Oh, it does that when I’m not using it to interact with the world that much,” Shiv replied. “Here. Give me a—”
+
+Jessica dodged backward as a dismembered penis ripped right past her from the direction of the stands. “Yeah, maybe let’s do this back aboard your Court Leviathan.”
+
+“Might be wise,” Shiv agreed.
+
+“I caught his cock!” another orc shouted. “My turn to throw it next!”
+
+“No, you won’t,” Valor snapped, leveling his dagger in the direction of the voice.
+
+“Maybe not,” the orc agreed. “Sorry, Stiller!”
+
+“Damnable creatures,” Valor muttered. He studied Shiv, and a powerful sigh escaped him. “You never cease to surprise me, Shiv. But sometimes, I do wonder what goes through your head.”
+
+“I was just trying to be unpredictable.”
+
+Jessica snorted. “And ripping your own balls off was your first resort?”
+
+“I mean… It worked, right? He didn’t see that shit coming at all.”
+
+Somehow, he got the impression the Giantsbane was glaring at him from behind her helmet.
+
+“His words do hold logic, Jessica,” Rusty said. “Perhaps we should remember this move so you can replicate its effectiveness in the future. You will need to visit that strange elf who offers that potion, however. You currently lack the equipment to achieve the Deathless’s inherent potential.”
+
+“Hey, Rusty?”
+
+“Yes?”
+
+“Shut the fuck up.”
+
+Sensing his opportunity to be a bit of a shit, Shiv dove in. “Hey, I can resurrect a new body at will, so if you need a small donation of dicks—”
+
+Jessica tried slapping Shiv, but her hand passed through him without doing anything. “You shut the fuck up too,” she spat.
+
+Comedy 1 > 8

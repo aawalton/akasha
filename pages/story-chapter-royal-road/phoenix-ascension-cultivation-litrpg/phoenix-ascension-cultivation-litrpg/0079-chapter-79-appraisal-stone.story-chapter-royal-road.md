@@ -1,0 +1,257 @@
+---
+id: 69d3e206-651b-5929-8dd7-943c69de5475
+page-type-slug: story-chapter-royal-road
+title: "Chapter 79: Appraisal Stone"
+slug: 0079-chapter-79-appraisal-stone
+partOf: phoenix-ascension-cultivation-litrpg
+position: 79
+ownLength: 2221
+unit: words
+publishedAt: 2026-01-24
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2975816/chapter-79-appraisal-stone"
+royalRoadId: "2975816"
+---
+
+I didn’t pay much attention to the bids as they happened. Once I heard the name of the item, I lost all interest. Between trash-grade pills and weapons, with the odd antiquity item here and there, nothing stood out.
+
+That’s how the first days of any auction were, until the big guys came in to buy the good stuff. I was more or less doing the same, and only showed up on the first day because I wanted to get an update.
+
+However, the unexpected boon was that Shu Xu Ning could take part in her first auction, so she could broaden her horizons. Of course, to me, it was all a waste of time, but I decided to stay for her sake.
+
+But considering the fight would take place soon, I wanted her to have the best chance she could.
+
+Even if that meant handing over a precious Beast Core. But, considering that I could get it once, then I could get it again, or acquire an even better one. My heart did not bleed that much over it, especially with what the rewards would be for finishing the quest.
+
+Besides being able to finally read without actually putting in the effort, the mystery pills were also something I wanted to look at, even if they could just as easily turn out to be trash.
+
+That being said, it would have been nice if there were a way to get the Lightning affinity faster. I was sure I could acquire it through the cultivation technique, but getting more affinity for it would be even better.
+
+The same went for the water affinity. The two together could make for a deadly combo, and fire and lightning went really well together. All in all, I wanted to get as many elements as possible.
+
+And that thought led me to look at Xing Ya Chen.
+
+He must have felt my gaze, as he turned and asked. “How may I be of assistance?”
+
+“Tell me about the most important elemental artifacts.”
+
+“I… am not sure I understand.”
+
+I sighed and brought a hand to my face, feigning exasperation. “I want you to tell me about all element-related objects, treasures and Spirit Beasts that you know of in the area.”
+
+“Ah, I see. In the area… well, there aren’t that many, really. None in this village or the next one over. However… on the entire continent, I know of a few Spirit Beasts.”
+
+“Speak.”
+
+“There is the Fire Empress in the east-most side. She resides in the ash of the volcano located on top of Mount Heng. No one knows for sure what sort of Spirit Beast it is, but its mastery over fire beats many dragons and Phoenixes.”
+
+Oh? Then maybe I should pay her a visit. Could her Fire Affinity be even higher than mine? I would be doubly interested in fighting her just to test that out.
+
+Seeing that I didn’t say anything, Xing Ya Chen continued. “In the west, there is a water dragon. It took over the Turbulent Sea a few decades ago, and is said to master the waves with such mastery that it became their lord.
+
+“To the North, there is an Ice Crow that evolved past its normal limitation, reaching the status of a transcendent Spirit Beast. It is said that it took human form, but no one has seen it in a few centuries. Legends say it rests within the Eternal Ice Mountain, but no one can get close enough to confirm.”
+
+“And why is that?”
+
+“Well, the Eternal Ice Mountain is a frozen wasteland. Nothing can live there. Even Nascent Soul and Soul Transformation Experts dare to go there. As for cultivators of the higher realm… if there were any on the continent, then there must be a reason that they hadn’t bothered the Ice Crow.”
+
+I nodded. Considering the way he spoke of all those Spirit Beasts, they must be at a level that defies logic, and my current self. I found that to be quite a shame, since I desperately wanted to absorb their elements.
+
+The more the merrier, as they say, but it didn’t seem possible at the moment. Regardless, having the information could never hurt.
+
+“What about the South?”
+
+“The south… there is a Spirit Beast that specialises in the earth element. However, getting to it and even finding it would be impossible. The Spirit Beast in question is an Earth Worm that evolved to the level of a Worm Emperor. It rules over the entire Southern Hemisphere, and the clans that live there worship it. Information about it is scarce and expensive, so no one knows anything for sure.”
+
+“I see, and what about objects? Something I could possibly get my hands on?”
+
+Those four elements were a good starting point, or rather, a goal. Considering just how insane their strength was, it would take me a while to hunt them. But I will hunt them and acquire their cores.
+
+It was then that four System panels appeared in front of me, and I looked at them with a little shock.
+
+[Name: Fire Empress]
+
+[Affiliation: Mount Heng Volcano]
+
+[Age: ???]
+
+[Titles: ???]
+
+[Lvl: ???]
+
+[Cultivation: ???]
+
+[Enmity Level: ???]
+
+[Relationship: ???]
+
+[Status: ???]
+
+[Name: Transcendent Ice Crow]
+
+[Affiliation: Eternal Ice Mountain]
+
+[Age: ???]
+
+[Titles: ???]
+
+[Lvl: ???]
+
+[Cultivation: ???]
+
+[Enmity Level: ???]
+
+[Relationship: ???]
+
+[Status: ???]
+
+[Name: Water Dragon]
+
+[Affiliation: Turbulent Sea]
+
+[Age: ???]
+
+[Titles: ???]
+
+[Lvl: ???]
+
+[Cultivation: ???]
+
+[Enmity Level: ???]
+
+[Relationship: ???]
+
+[Status: ???]
+
+[Name: Worm Emperor]
+
+[Affiliation: Southern Hemisphere]
+
+[Age: ???]
+
+[Titles: ???]
+
+[Lvl: ???]
+
+[Cultivation: ???]
+
+[Enmity Level: ???]
+
+[Relationship: ???]
+
+[Status: ???]
+
+It seemed like the Nemesis System automatically created a tab for those four the moment I decided they were my targets. I wasn’t aware that it worked both ways, but it wasn’t all that useful, besides helping me remember information. Sadly, I didn’t have any information that needed remembering, so for the moment it was mostly useless.
+
+“As for items, objects and treasures… There are a lot.” Xing Ya Chen’s voice awoke me from my daze. “The most common ones are Spirit Beast Cores. Depending on their grade, quality, and elemental affinity, they can drastically increase proficiency. Good cores are few and far between, but even basic cores can do the job.
+
+“Treasures are a little different. There are elixirs that can help with that, or long-lost artefacts that can increase proficiency just by meditating near them. There are also specially designed zones that serve much of the same purpose, but are available to the public at large. If you could tell me which element you would like to improve upon, maybe I could help narrow down the options?”
+
+After thinking for a moment, I decided that there was no harm in telling him. “I want to improve upon my water and lightning  elements.”
+
+“Water? Hmm… There are quite a few things around here that could help with that. Besides the Spirit Beasts dwelling in the river, cultivators can sometimes find crystals extremely rich in water, but they are very rare.”
+
+When he said that, I gave Yo Na a side-eye, and she looked away with what must have been embarrassment. Considering she had a cave filled to the brim with them, it was with good reason.
+
+“As for lightning, I have heard rumors of one thing that could help with increasing proficiency, besides getting struck by lightning, of course. I have heard rumors that the daughter of a prominent entrepreneur in Golden Arch City likes to collect exotic and rare Spirit Beasts and treasures. She has a large collection, but the thing that would interest you is the Thunder Essence from a Qilin.
+
+“Don’t ask me how, but her father managed to procure a horn tip from a recently slain Qilin, and offered it to her for her tenth birthday. She’s placed it in her collection ever since, and treasures it the most. Chances of getting your hands on it are slim to none, since something like that can’t be easily bought, but… You asked.”
+
+I wasn’t sure if he was maliciously complaining or simply complaining, but that was good information. However, considering the scale of Golden Arch City, I had no intention of going there.
+
+Not to mention, getting inside whatever vault she kept that thing in would be troublesome.
+
+If the opportunity arose… though… I would not say no.
+
+“Thank you. It seems like I won’t get my lightning proficiency up anytime soon, then.” I said, but it was half a lie. I had the cultivation technique, which I planned to use to refine the Demonic Qi and break through into the Foundation Establishment stage.
+
+“Not unless you got struck by lightning, haha.” He joked in pasing but… that didn’t sound like  a bad idea.
+
+“Miss Immortal!” Shu Xu Ning tugged at my sleeve and pointed at the stage, where an ornamental sword was being displayed. It looked to be quite low-grade, but I could detect a trace of Qi, so it must be at least half-decent in the low-grade rankings.
+
+It seemed that most people agreed, as they were bidding for it.
+
+“Fifty Spirit Stones!”
+
+“One hundred Spirit Stones!”
+
+“Two hundred Spirit Stones!”
+
+The bids kept increasing, although I could not understand why.
+
+“What about it?”
+
+“Er…” Shy Xu Ning’s face turned red, her panicked expression looking quite cute.
+
+“Do you want it?”
+
+She nodded frantically, her face barely recognisable from how red it had gotten. “Alright then.”
+
+I stood up and walked toward the edge of the lounge, leaning on the small window, and yelled. “Five hundred Spirit Stones!”
+
+“Five hundred?!”
+
+“Not again, is she crazy?”
+
+“Too much, too much!”
+
+“VIP’s sure are loaded, huh?”
+
+Such comments filled the room, but I ignored them. If Shu Xu Ning wanted something, I would provide it for her. The Myriad Market could just take the funds from the price of the pills or the feather for all I cared. I’d gotten what I wanted, and all I needed was the pill, then I could leave and never interact with them again… Unless I needed more money.In which case the best and most responsible thing to do would be to open up that account anyway, just in case.
+
+Anywho, nobody else bid for the sword, so I got it.
+
+“Thank you Miss Immortal!”Shu Xu Ning jumped with joy, forgetting that she was sitting next to me. I caught myself smiling at the little girl’s excitement, then promptly turned cold once again.
+
+I hope Xing Ya Chen didn’t see that… I glanced at Yo Na. She definitely did.
+
+Thankfully, she couldn’t speak.
+
+Anyway, I stopped paying attention to the auction once again. If there was any item of value, it would not come out today.
+
+However, Shu Xu Ning got balsier and balsier with her requests. After the sword, she wanted gloves, then armor, then pills. I bought each and every item she wanted, since I said I would do so.
+
+Soon, they arrived in the lounge, and she was in the ninth heaven.
+
+[Miss…]
+
+Naturally, the first item she tried out was the sword. Turns out the faint Qi I felt was lightning attuned, which complemented her natural affinity toward the element. The gloves were basic sparring gloves, but the armor was made out of fine leather.
+
+[Xi-Xiaolan…]
+
+And of course, when she wore them, she looked extremely cute. The armor was a little oversized, but I was sure I could get someone to fix it up for her. On the other hand, the sword fit her quite nnicely It was just the right size, and as she grew up it would only continue fitting her.
+
+[Hello…]
+
+When she put Qi into the sword, it lit up with a little lightning, but nothing more. Even if the sword was good, it was far too trashy for her. Since she had such talent for cultivation, it would be a shame if she had to use those things.
+
+[Fa Xiaolan, you-]
+
+I could speak with Xing Ya Chen to set up a few upgrades for her down the road that she could earn at different cultivation levels. That was assuming she would stick around after defeating the fatty.
+
+I was sure she and her brother wouldn’t, but it was still something to consider. After all, once I left, who was to guide her? I didn’t know of a qualified cultivator, but I couldn’t take her with me either.
+
+In that case, I could find someone or have the market find someone. Shu Wao Tu would probably not accept handouts though, and once he could cultivate again, I was sure that he would train hard enough to burn the Chiao clan down.
+
+I believed he could do that, especially with Shu-
+
+[Stop ignoring me!]
+
+“Fuck what do you want?!” I yelled out without thinking, scaring all three people who were with me in the room.
+
+I ignored them.
+
+[Buy the next item!]
+
+What next item?!
+
+[The one that’s on stage right now, buy it before someone else does!]
+
+Why?
+
+[Just do it!]
+
+Fine, fine! Damn it, I was having some serious thoughts.
+
+I stood up and walked furiously toward the ledge, and gave a price nobody else could match, just so System could stop annoying me for the moment.
+
+One thousand Spirit Stones.

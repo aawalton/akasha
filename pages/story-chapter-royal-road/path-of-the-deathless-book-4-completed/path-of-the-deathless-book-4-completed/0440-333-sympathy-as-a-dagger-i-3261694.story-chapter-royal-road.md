@@ -1,0 +1,229 @@
+---
+id: e54d737d-d1e7-59d8-ba1d-cc8bc4de5312
+page-type-slug: story-chapter-royal-road
+title: "333 Sympathy as a Dagger [I]"
+slug: 0440-333-sympathy-as-a-dagger-i-3261694
+partOf: path-of-the-deathless-book-4-completed
+position: 440
+ownLength: 5684
+unit: words
+publishedAt: 2026-04-11
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3261694/333-sympathy-as-a-dagger-i"
+royalRoadId: "3261694"
+---
+
+“Thann, I... It’s… barely been a week. I’ve been reunited with my son for less than a week, and you’re saying he’s lost somewhere again? In the Fairwoods, of all places? Why didn’t he tell me he was bound for that miserable place…”
+
+“He likely did not wish to worry you. You had a great many burdens residing upon your shoulders: your recovery, the Starhawk's desire to reach the Deep Abyss, the great funerary rites you had to perform for all those lost during the siege.”
+
+“And keeping me unaware was supposed to help me? My stress has doubled, no, tripled! It's beyond control now, since my only living child is lost in a realm of madness and nonsense!”
+
+“Whimsical.”
+
+“What?”
+
+“I would rather describe the Fairwoods as a whimsical place. Madness and nonsense are more the purview of the Outside. There are many rules that govern the Fairwoods, they are simply not the rules we are familiar with, instead being more like venturing through the pages of a storybook. Regardless, I think you should have more faith in Adam and his companions. They have already survived a great many trials. Trials that would have tested even the greatest Pathbearers.”
+
+“Trials they shouldn't be enduring in the first place! This is supposed to be our responsibility. We were supposed to look after them, and you were supposed to—”
+
+“Our wants are nothing before the System's needs. I have shadowed Adam, Uva, and Shiv as closely as I could, eradicated dangers I knew they could not have overcome on their own, but there is always something that we cannot anticipate. You suffer, Roland, because you yearn for a perfection that simply cannot be. I know it is an impossible thing to ask, but you cannot hold on so tightly. It will not serve you; it will not serve Adam. After a point, they must be allowed to defy and thrive of their own accord. You will not always be here. You weren't always here, and I myself was broken. And they made it through regardless.”
+
+“Well, I am here now, and I am done with this waiting. I am done with all other things until I can find a way to reach my son. I have failed as a Town Lord. I have embarrassed my God, my faith, and my nation as an Avatar and a representative of the Yellowstone Republic. I will not fail as husband and father. Not this time.”
+
+“…I think I spoke those words to my son near-verbatim the day I lost my beloved. Come with me then, Roland. We will find a way into the Fairwoods. We will recover the young ones. But I tell you this now: You will fight through whatever reactionary emotions you have. Because what you want is not what will manifest. Your power only decides so much. The rest of existence will have its say.”
+
+—Roland Arrow and Valor Thann
+
+333
+
+Sympathy as a Dagger [I]
+
+By the time Uva and her little convoy reached the Bell-Hold, things had dissolved into despair-induced chaos. The gnomes there clutched themselves. Those possessed of any morality at all were clawing at themselves, slamming their heads against walls, while some were huddled into balls on the ground, muttering incantations of forgiveness and regret. This left most deterrents unmanned and the parapets in disparate disarray. No spotters were functional. The few who were psychotic enough or simply calloused of heart to not be impacted by Uva's injections of empathic pain managed to keep their sanity. But though appeals to emotion were not a blade that could touch them, they were still overwhelmed by material means. They struggled to resist, to re-establish a chain of command, to figure out what to do, and to understand why all their comrades were engulfed by a fugue of sorrow-ridden madness.
+
+They didn't get to wonder for long.
+
+Living shrapnel, shaped from eldritch geometries, melted smooth gaps through the walls without any sign of heat. They merged and slipped from finger-wide wounds in the walls before blossoming as messy, buzzsaw-like constellations. The insides of the Bell-Hold turned into an impromptu slaughterhouse. Those who didn't succumb to the weight of their misdeeds were judged differently. Their armor was shredded, their flesh was parted, and their insides were given as decorations to the ground.
+
+A good contingent of the armored ogres shared a fate with the calloused gnomes. The brutes that enjoyed their atrocities or simply were too stupid to understand what they did was wrong were given quick deaths: thin slices along the neck, heads rolling from bodies. The ones who could still be reached through empathy or simple manipulation were spared. For now. They were gathered in the courtyard of the Bell-Hold, made to lower the drawbridge across the moat that was filled with nightmarish, horse-sized centipedes. Their postures belied their shame; they held their clubs low, and their heads hung like pendulums on their necks.
+
+It wasn't so much that the ogres saw the slaves whose feelings Uva had forced into them as equals, but more that their fear of being eaten aligned with the ogres' fear of being cannibalized.
+
+“It seems like there is a universal fault point between beings capable of thought, even beings as dull and stupid as these ogres.” Harkness huffed in dry condescension. “The slightest similarity recognized between us and another can see our minds spiraling, conjuring up all sorts of delusions. ‘What if they're like me? What if they suffer as I suffer? What if I'm not so special?’”
+
+“You aren't,” Uva confirmed, cutting her psionic passenger down to size. “If you were, our positions would be reversed at the very least.”
+
+“Looks like somethin's happenin’ inside da Hold,” Squinty muttered. He lived up to his name as he narrowed his one good eye, trying to figure out what was happening within the small subterranean fortress. He stood at the front of the group while Uva trailed close behind him. She hadn't assumed an out-and-open leadership role yet, choosing to further manipulate him by sending faint impulses into his mind.
+
+He should bring the prisoners back. He should let them out of the cages. It was awfully cramped in there, and Squinty didn't much like cramped spaces either. Fresh food should have fresh space to stretch their legs out in. And maybe it was best to stop thinking of them as food. They don't look so delicious. Some of them were downright bony, and bony things don't deserve to be eaten by a smart, clever, and tasteful ogre such as Squinty.
+
+Certain thoughts didn't register in the ogre's mind. He had a hard time understanding specific emotions too, but through trial and error, Uva managed to create a suggestive leash to drag him along and use him as her ignorant agent. It was easier than directly controlling his mind, anyway.
+
+The rest of the prisoners lurked a few meters behind her. They were still gripped by fear, and some of them had recently emptied their almost barren stomachs in reaction to what Squinty had done to Fingers. The pulped corpse of the murdered ogre was left for the bugs and vermin on the spiral path behind them. The cage-carrying ogre had said something about wanting to secure Fingers' body, if only to repurpose it as food. After three failed attempts, Uva managed to appeal to the carrier's laziness and thus put an end to that pointless struggle.
+
+A mess of faint, folding lines scintillated above—twelve Aberrant Fractals forming an aerial perimeter below the ceiling of the dim cavern and around the stone fortress that was the Bell-Hold, serving the role of overwatch. Each one held an instance of Uva’s consciousness, and they watched the surroundings for her, making sure that no unexpected guests would chance upon the little revolution she was brewing. Studying the whole surroundings using her summons, she saw an enormous tunnel that ran even deeper underground. The width of the manufactured chasm was great enough that it could swallow a small city. And, always announced by a cacophony of chiming bells as loud as a crumbling mountain, that entire space would be filled by a colossal creature that served as a wandering nation in its own right: the Deepdiver, the Gnomish Council's greatest war beast and last refuge from the Fey Courts.
+
+As Uva and the rest of the prisoners were led across the drawbridge, she directed Squinty to gather up the other ogres while she psionically compelled the surviving gnomes to assemble in the courtyard. Her influence proved uncanny. Gnomes who had been trying to bash their heads open against the walls, or had been whimpering as inconsolable piles on the ground, suddenly shot up as they discovered new purposes. It wasn't mind control, not fully, but it still felt wrong.
+
+Though she might not have been bending them directly with her will anymore, she was exploiting them emotionally and psychologically. But in her defense, this was something they chose to do. Uva didn't plant the seeds of their shame. She simply watered them.
+
+“All of you, stay here. I will be back with the others.” That was all she said to her fellow prisoners as she entered the hold proper. She heard a few of them call out to her, asking her what was happening, if she was a mage, but she ignored them. It would be easier to explain everything to everyone at the same time rather than repeating herself over and over again. Or at least that was how she justified things to herself. Ultimately, she didn't like giving speeches, motivating people, or trying to manage the logistics of an army. She possessed these capabilities, of course, but she was no Adam—and strange as it was to realize, she was no Shiv when it came to interacting with people. Her brute would have probably been able to talk the ogres into killing each other without the need for any Psychomancy at all.
+
+Uva, on her part, found people too emotional and irrational for her tastes. Such was why she was a good Psychomancer. She viewed people at a distance. She could pick apart their emotions and still understand them analytically. She just didn’t empathize with them in most cases.
+
+What waited for her in the bowels of the Hold was not most cases.
+
+Uva had liberated slaves and prisoners of war before. There was a difference between the two, with the latter usually kept in a mostly clean place if possible, and eventually ransomed back to their people. As such, there was an incentive to keep prisoners in reasonable shape. Not everyone adhered to such rules, especially the First Blood, but overall, as a prisoner of war of some worth, especially if you were a high-tier Pathbearer, you could expect to be spared the grisliest of fates and even receive medical treatment along with a decent meal sometimes.
+
+The same couldn't be said for slaves.
+
+Slaves had no one to go back to. Slaves were a resource like cattle, or rather, less. They were to be used, spent, trained for specific tasks if needed, and then discarded. Fighting the First Blood had taught Uva much about slavery. How to maximize the number of people you could cram into a filthy pen. Which slave would better serve as a laborer, a maid, or just as an easy source of sustenance, since they weren’t good for anything else. There was even a vile art to how they separated their slaves and pitted them against each other.
+
+It happened early on, with certain slaves given a more favored status. A vampire would bite them on the back of the neck, thereby marking them, deeming them a thrall. From there, they would be given weapons and armour and tasked with managing the other slaves. Such a duty was beneath the First Blood, after all, even the Thin Bloods of the newest generations.
+
+All that experience made Uva a secondhand veteran in the art. Which was why she found slavery within the Fairwoods completely nonsensical.
+
+Not the fact that there was slavery at all, but rather how they did it. The first thing about encountering slaves in the Abyss was the smell. You would smell a hundred people packed into a squalid cell barely large enough for a family of five and with no access to toilets, water, or medication from further away than just about anything else.
+
+You could smell the vomit, the sweat, wounds filled with decay and maggots, the very sickness in the air, the fetid stench of rot coming from those who'd been too late for. All that foulness came together as a cocktail of pure disgust, a sensation burned into her memory that she attributed to the First Blood more than anyone else.
+
+But here, as she descended the long stairs into the slave pens, the air remained cold and devoid of flavor. If anything, she would describe the taste as barren, beside a slight stench of iron.
+
+And that was a deliberate choice. It had to be. Slaves always reeked.
+
+The absurdity continued as she beheld the slaves themselves. Most of them were packed inside iron cages that slotted into the walls of the dungeon.
+
+Expensive iron cages, filling an expansive dungeon. One that was a bit too well-lit, with spectacular ventilation, a high ceiling, and people hanging from dangling iron maidens, of all things. The sound of pained moans accompanied the dripping of blood, but no urine or feces. The captives here sobbed, grimaced, and kept their eyes down. Their faces were marred by hardship. Their eyes were sunken and hollow. They wore dirty rags. All that fit.
+
+But none of those rags smelled. Furthermore, there were never more than eight prisoners inside a single cage, and they'd each been given a particularly large bowl of slop—far more than what would have been granted to an unclaimed blood bag.
+
+The sheer dissonance made Uva's brow crease. She wasn't an avid reader of fiction, but even she could taste an author's heavy hand pressing on the world around her.
+
+The Usurper-Narrator wanted blood, despair, and misery, but never disgust. All that bodily waste and foulness that existed in reality made people seem too much like cattle instead of people with their own stories, perhaps, or it just didn't fit the aesthetic Evanescia desired.
+
+“Please, please…” A miserable, aged man peered out at Uva from between metal bars. He reached for her. His fingers were skeletally thin, and his nails were caked with filth, but again, it wasn't the right kind of filth. It looked like he'd been digging in the dirt, but there was no dirt in this dungeon. There was dust, perhaps, but nothing to dig in. It just didn’t fit. His damn teeth were too white and intact as well, and his eyes were two different colors. In any other place, she would have had questions about this specific prisoner, if he'd made a deal with the wardens or was a spy left among the enslaved to serve as a watchguard.
+
+Not here, though. Not in the Fairwoods.
+
+And because she was in the Fairwoods, that inspired her to do something else. She wasn't sure if it would work, but she would never know if she didn't try.
+
+“I have a criticism,” Uva said casually.
+
+Silence. At first.
+
+Some of the slaves looked at her in confusion, but she ignored them, sweeping her eyes across every single misbegotten soul in the cages. She tried to guess which of them housed her soul, but she couldn’t tell. Not for the first time, she wished for Adam’s Awareness.
+
+Nothing for it. “This isn't how slaves are supposed to be,” Uva continued. “You've made them too neat and tidy to uphold my immersion. There are problems with your story.”
+
+The shift in the atmosphere was immediate. Though Uva saw nothing, she felt it, a concentration of unseen mana, like a ripple cast by a distant leviathan washing around her, passing through the realm. There came a sudden flicker as a silhouetted outline folded over the old man reaching out for her. His expression went slack for a beat, and then a new look took hold, one that was bordering on the verge of annoyance, but mostly seemed fascinated.
+
+“If this is a new strategy you've spent all your time developing to lure me out and hunt me down, then consider me extremely irritated, but also utterly amused. And to think I considered your personality too flat to be interesting compared to the other two. You're quickly outstripping them as the central object of my fascination. I would consider you a wonderful character study, Uva Mettabon. Such subtle and quiet growth.”
+
+Uva had to keep her lip from twitching. Speaking with Evanescia was a dehumanizing experience. Though she was never unpleasant in the usual sense, her regard for those she spoke to as something less than human was subconsciously offensive, perhaps because of how it seemed ingrained in her as common sense. Worse, it wasn't an easy arrogance to exploit either.
+
+“I really don't care what you think of me,” Uva hissed. “But I have some feedback for you regardless, something that can enhance both our experiences.” She gestured at the prison around her. “They're too clean, and they're too clean in a specific way. There's blood, yes. But no piss. No feces. No rot. Not even sweat. They're neat victims. Slaves are never neat, and they are almost never presentable until after they leave their pens.”
+
+“I see you're speaking from experience, of course. You've had multiple engagements with the First Blood. What a sordid affair.” The Usurper-Narrator actually shuddered, and something about her body language spoke of honesty rather than mockery. “I must apologize. The First Blood, though they make for unique and rather loathsome villains, are a little too strong of taste, at least in my opinion. Call me romantic, but I like stories rich in meaning and themes, with the darker details left to subtext, if that.”
+
+Uva was speechless for a second. A very Shiv-like laugh of genuine disbelief escaped her. “You are genuinely that ridiculous, aren't you? You don't want them to be that filthy because it offends your sensibilities.”
+
+“Not my sensibilities, my tastes,” Evanescia corrected. “A story needs to appeal to the reader, you see. I've seen some very foul and deeply disturbing stories play out when I allowed them to, and though there are times where I do yearn to explore the macabre again, I fear it all too often devolves into splatter and other sorts of absurdity. It's just shock value with little substance.”
+
+“Shock value.” Uva's voice was thin with derision. She regarded the slaves present and gathered her thoughts. “And what is this? Some kind of artistic exploration of suffering and the woes of being a slave? No. That, the gore, the blood, the smell, that is what it truly means to be crammed into a narrow space by people who don't care about you, who don't regard you as a person. It is proper expression, one you're avoiding. I thought you were interested in stories. Now I see you're just a picky reader—someone who won't go outside their preferred genre.”
+
+Cold Reader 88 > 90
+
+Evanescia coughed and looked down. The old man she was controlling ran an absentminded finger up and down the metal bar in front of him. “I want to be mad at you right now, but I suspect a part of me deserved that.”
+
+Uva was about to respond, but then the Usurper-Narrator suddenly threw herself at the bars of her cage. “Yes, I am a picky reader!” she moaned in lament. “I was more open to exploration at the start, but I yearn for comfort now. It's been a hard few million seasons, and after so long, Silence's Watchtower is finally mostly intact, thanks to you and your fellow favored. I want to celebrate and enjoy you all as characters, not push you through nightmares.”
+
+The Seeker sucked in a breath. “You don't think this is nightmarish enough? Being a prisoner trapped in your book. Seized by your will whenever you desire, used as a vessel to hurt my own friend.”
+
+Evanescia rolled the old man’s eyes. “Well, that's a right hypocritical thing for you to be offended by. Isn't your power all about stealing someone else's control and wielding them as a weapon? Let's not lie to ourselves. You hear the screams of your victims when you trap them with your magic. I'm not so different, and I daresay our morals are mostly aligned.”
+
+Uva just glared. She didn't even need words to verbalize her disagreement.
+
+“We are,” Evanescia reiterated. “We only insert ourselves into someone else's mind or over someone else's soul when we need to push things back on track. We're not hurting them mentally or spiritually for pleasure. I got very little enjoyment from self-inserting myself into you. Adam and that orc of his caught me by surprise. Impressive, but also very disconcerting. On top of that, I only used you as much as I needed to. I didn't make you torture his mind. I had him disabled; I pulled his consciousness apart, yes, but I could have made it far worse. You have done far worse in the past. Neither of us desires cruelty; we want outcomes. And to be honest, you are the more domineering author between us. I released you the moment I could.” The old man crossed his arms and looked down his nose at the Umbral glaring at him from outside his cage. “The same cannot be said for you.”
+
+“I do not have an entire dimension of people trapped as slaves and used as characters for my amusement!” Uva hissed.
+
+“Well, that's just because you're not as powerful as I am. If you had my power, if your Psychomancy was truly that grand, you can't tell me you wouldn't have subjugated the Court of the First Blood in its entirety, and you wouldn't have destroyed them either. You would have disbanded all the slaves, emancipated them, and welcomed them into the Composer’s embrace. You would have secured the vampires' territory and further brought glory to your people. And you would have punished the Bloodsuckers. After they were resolved at least physically, you would have taken what was theirs for your own because you are a pragmatist, or at least that's what you tell yourself. You do not exploit your repurposing of necessary materials, delicate, sparse resources, for there are three other Faiths you must contend with, with at least one of them being as much of a threat as the Court.”
+
+“The First Blood have done enough to deserve such a fate a thousand times over!” Uva snarled.
+
+Evanescia held up her hands. “And I don't disagree. It's part of what makes you such a compelling character. Watching you decide to take a more gentle approach with the ogres and the gnomes and the prisoners has been a wonderful thing. I really enjoy this bit of character development. Truly!” Evanescia's voice was rife with warmth. “There's a reason why I picked this specific story for you: It's historical. It has a lot of cultural connotations for you, and I think it can be even cathartic. What I didn't expect was for you to take on a more pacifistic edge, at least when it comes to how you use your Psychomancy. I suspect it will make things harder, but a hero with a code is a wonderful thing to see.”
+
+“I am a Hero in Skill-Tier alone,” Uva replied coolly. “I have little interest in pretending to be a saintess. And what I do now comes from what you have done to me. Without your self-insertion, I wouldn't have had the personalized perspective to understand.”
+
+The Usurper-Narrator grinned, the old man's teeth still pearly-white. “Well, I'm flattered to hear that I gave you such enlightenment.”
+
+“This wasn't a compliment, Evanescia. And as for your other point, the main difference between us is that I don't keep people prisoners out of amusement or for my own pleasure. If my enemy is beaten, I will simply harvest the information from their mind and move on. I do things for duty.”
+
+Yet, as Uva said those words, an ill sensation began welling inside of her.
+
+The slave-trading bureaucrats of Compact had to die. The First Blood needed to be punished. The Dragon-Knights were formidable adversaries. I can't hold anything back if I want to survive.
+
+In her mental space, Harkness waved her hand in a spiral motion, bidding her to get to the “but.”
+
+But some of the things I did to them… They were about more than just duty. It was… about power. Having power over someone feels good. And even when I was connected to their emotions, I didn't need to regard them as a person, because a person to me is… powerful. Or someone I care about.
+
+Before her, Evanescia shrugged. “I don't think your argument is very good, and I fundamentally disagree with the premise. The Fairwoods aren't a prison. You are not slaves. Not really. You are being kept alive in these loops, and you are being granted the adventures of lifetimes without the threat of permanent death. Among you, only the Deathless was granted that privilege before, but now, thanks to my ability to reset the narrative any time I so desire, you can try again and again. You can spend eons discovering who you are or all you could be and doing things you couldn't have ever imagined yourself doing!” The Usurper-Narrator’s voice grew more and more animated as she spoke, and the old man stood up and pressed his face between the bars as he grinned broadly at Uva.
+
+“You're not here as a slave. You're here because I like you. You're here because I treasure you. I treasure practically everyone, even the Wanderer, and I would love to keep you all here, in the ever-expanding expanse that is the Fairwoods, for all of eternity as the Watchtower's beacon spreads wider and consumes every bit of Integration. Can you imagine that? A grand and never-ending story! Everyone learning new things about themselves and everyone else! An eternal adventure!”
+
+“Do you even care if we want that?” Uva whispered. “What choice do we have in the matter?”
+
+Evanescia scoffed, like listening to a child try to formulate an argument but lacking the mental faculties to do so. “You didn't have any choice about being born. You didn't have any choice about what the System threw at you. I guess maybe there's a bit of tyranny involved here, but if I have to be a tyrant to preserve my favorite characters, then so be it. I'll do that. I'm just letting you know right now, I'm not going to insert myself when you're having an intimate moment with your lover. It would be weird, with how well we've come to know each other." The Usurper-Narrator grimaced, as if the very thought was beneath her. “But I might watch. I want to watch, actually. I love to see how people form relationships. I love to see how everyone comes to love or hate or just coexist with everyone else. This place, it is a wonder, and it is my given duty to be the best warden I can be for it. And it is my pleasure to be as well.”
+
+“You truly think you're doing the right thing for all of us,” Uva muttered, taking in all Evanescia was telling Uva about herself.
+
+Evanescia nodded. “I am, beyond a doubt. Without me, you will be forever stuck in the System's nihilistic, pointless, strife-ruled world. Strife is still here, but that comes second to a good story. Tension. Narrative tension. That is what defines this place. There's a lot more expression of narrative and tension than just people trying to kill each other, especially when those deaths are not permanent and the seasons will simply start over again.”
+
+“So, what is your end goal? To see everyone and everything utterly consumed by your Fairwoods? Everyone to be a character in your story? For you to be the greatest author of all reality?”
+
+Evanescia clicked her tongue. She shook her head disapprovingly. “It's like you're not listening sometimes. You're really, really sharp about a few things, and then you miss a bunch of others. I am the Usurper-Narrator, not the Usurper-Author. I don't really decide how these stories go. I simply prime them. I put people in place, and I give them a sort of notion of a goal, and after that, everything they do is up to them. You are the characters, but you are also the authors of your own stories in my book, and the pages are performed as an interplay between all your actions. I'm just here to keep the plot on rails, so to speak.”
+
+A flash of insight followed. She views herself as a gardener of some kind, then. No, as an architect. She builds boundaries for her story because, true to her earlier words, she is a picky reader but still wants enough variety that the characters themselves can surprise her.
+
+The Seeker fought the urge to sigh. I hate that I'm thinking this, but I almost miss the Stranger’s Garden. At least he's just greedy and evil. And the other Outsiders are simple in their own right.
+
+And within her being, she felt something rouse. Behind her eyes, in the Dreamtaker's dimension, there was a thrum of eldritch magics. Yet, as she reached out for her first Eldritch patron, she got no response. The Dreamtaker had been unreasonably quiet for far too long. Ever since Uva's sojourn through the Stranger's Garden and the metamorphosis she underwent, the Dreamtaker had been in a stupor, communicating with Uva in transmissions of nonsense and flickering images before fading. With everything that had been going on, she didn't have any interest in investigating the Dreamtaker’s condition. But something was happening now. A feeling of foreboding began to build within Uva, and with it came a series of notifications.
+
+The change spreads…
+
+The Narrative Flames leak…
+
+But even in tales do the characters dream…
+
+And where one flame spreads, another will catch within…
+
+Well, that's wonderfully ominous, System. I do thank you for this useful information, Uva thought dryly.
+
+“Were you truly serious about the authenticity of the slaves?” Evanescia suddenly asked. There was a hint of insecurity in her question.
+
+“Of course. It was bad enough that I wondered if there were actually slaves at all in the first place. Clean teeth. Odorless rags. They struck me as prisoners of war initially, and then I wondered if they were simply pretending to be slaves. If you're trying to sell this to me as a story, then you need to fit my context, not just yours.”
+
+And Uva stumbled upon a new approach. The way the Usurper-Narrator viewed and wanted to shape the world was weird, but not incomprehensible. She needed to be approached like an insecure author, despite what she said about being a reader.
+
+“You might be the Narrator, and you might think of me as a character in your story, but I'm also a reader,” Uva continued. “I have to participate, and I have to see what the others are doing as well, don't I? You won't want me to be taken out of the narrative by a feeling of dissonance, would you?”
+
+A long silence dragged on right after. The old man lowered his head. “No, no, I wouldn't. I… can't believe it. I really was selfish, wasn't I? I wasn't thinking about your experience that much at all. I was just trying to appeal to that feeling of triumph and heroism. The themes. They got a hold of me. But it’s all in the details… Missed that. Again. She would be ashamed of me. Ah. I would like to apologize. You’re right. I was just… You know how it feels when you put a lot of work into something, and then it's just not enough?”
+
+Uva nodded. “Yes. And if you are truly sorry, would you consider reuniting me with the others?”
+
+The Usurper-Narrator let out a pitched laugh. “Yeah, no, not in Act One. Way too early, and I also know what you're doing. But what I can do is I can reset the loop and—”
+
+“No, no,” Uva cut her off. “Just pay more attention to the details. Remember, this story isn't just for you alone. Don't be selfish. The rest of us can become readers too. The book is better enjoyed with company than alone. Wouldn't you agree?”
+
+For once, Uva followed her gut rather than her mind when speaking with the potential enemy, and it worked. It was a strange, natural insight she felt when it came to Evanescia, and that left her feeling more than a bit displeased.
+
+“Yeah,” Evanescia said quietly. “Another reader to be… Not many people put it to me that way, you know? Thanks, Uva. Can I call you Uva?”
+
+An interesting bit of politeness compared to how she imprinted herself over my soul. “I care little what you refer to me as,” she replied flatly.
+
+“Oh. Still the cool Operative. I like it. Don’t worry. We’ll get to Uva yet.” Evanescia giggled. “And, well, I don’t need to reset the entire loop to enhance your experience, so… You’re welcome.”
+
+“Wait, what are you—”
+
+The world fluttered. Two pages crashed backward, and Uva suddenly found herself walking down the stairs into the dungeon. This time, the right smells were added. All of them. All at the same time. She barely caught herself by the wall while she coughed and gagged as what felt like a lungful of shit and piss worked its way down her throat.
+
+“Yes… that’s the wonderful authenticity I was looking for. Great suggestion, Uva. So fucking smart of you. What a Shiv-thing to do…”

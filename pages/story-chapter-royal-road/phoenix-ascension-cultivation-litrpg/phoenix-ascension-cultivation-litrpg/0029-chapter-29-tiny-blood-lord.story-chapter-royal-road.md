@@ -1,0 +1,279 @@
+---
+id: daad3a76-6dfc-56b0-878d-c7508e921164
+page-type-slug: story-chapter-royal-road
+title: "Chapter 29: Tiny Blood Lord"
+slug: 0029-chapter-29-tiny-blood-lord
+partOf: phoenix-ascension-cultivation-litrpg
+position: 29
+ownLength: 2137
+unit: words
+publishedAt: 2025-09-29
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2638913/chapter-29-tiny-blood-lord"
+royalRoadId: "2638913"
+---
+
+Well, those were a lot more notifications than I’d expected. It took me a good few minutes to go through all of them on top of understanding them all. In the order that system fed them to me…
+
+My evolution was, of course, a success. My class had changed altogether, and I could only assume some of my stats have changed. Actually…
+
+Can you show me the stat description for the new class?
+
+[Of course. ^_^]
+
+[Elemental Phoenix]
+
+[+20 Strength; +15 Dexterity; +20 Perception; +50 Charisma; +30 Intelligence]
+
+Going off of that information, I’d gained ten stat points in strength and perception, five in dexterity, twenty in intelligence and a whole thirty more charisma. Great… even more charisma.
+
+If I had a skill that scaled off of Charisma I bet I could kill someone just from looking at them.
+
+The thought was funny- not that it hadn’t happened before, but that was more out of fear. Would a fear-inducing stare be considered some sort of charisma? That was a question I had to get to the bottom of.
+
+Aside from that and my physical changes, the thing that intrigued me the most was the notification about the Beast Core. I hadn’t expected to get one, seeing as I didn’t have one when I was born, but the stupid jade serpent price had. He was only level three!
+
+Someone clearly played favorites to snakes…
+
+Putting aside those useless thoughts, I closed my eyes and took a deep breath, focusing inward. The Beast Core of the other beasts I’d killed had always been next to the heart, so naturally that’s where I looked.
+
+However, I couldn’t feel anything there.
+
+Strange.
+
+I decided to look in my dantian, and lo and behold… It was floating on top of my Qi Sea. It was almost golden in color, with tiny embers of fire dancing on its surface. The color changed every so often, but didn’t stray far from the orange tinge.
+
+A Beast Core…
+
+I’d never experienced having one before. Looking at it felt a little strange, and knowing that it had somehow become more ethereal than it already would have been, left me deep in thought.
+
+This was the beginning of a Spirit Beast’s journey. Once their beast core formed, they would gain even more amazing abilities than before. Maybe that was the reason I’d gotten four bloodline skills after evolving.
+
+The way Spirit Beasts worked was still foreign to me… but being one- Well, it wasn’t so bad.
+
+I really wanted to figure out how this Beast Core worked, but I still had a lot of things I’ve yet to actually check. Achievements to claim, skills to inspect!
+
+Speaking of skills. I figured out that my next element would be water, however… why didn’t I consider I’d have close to zero affinity with water? Well, I expected ZERO not NEGATIVE ONE HUNDRED AND FIFTY. Not to mention it says it’s a percentile? How does that even work?
+
+[Elemental Affinity showcases how familiar and compatible you are with an element. For example, your affinity with fire would be something like five hundred percent… and it keeps increasing.]
+
+Why did you pause?
+
+[I didn’t.]
+
+[Moving on—]
+
+Hey!
+
+[Moving on! The percentage means how much of that element you understand, and also how efficient the techniques of that element would be. However, unlike… normal percentages, having one hundred percent affinity with the element doesn’t necessarily mean you’ve fully understood or even mastered it.]
+
+Isn’t that… needlessly confusing?
+
+[N-No…]
+
+I didn’t know whether to laugh or cry. This situation made me feel a little helpless, but at least the explanation made some semblance of sense.
+
+Now… How do I check my elemental affinities?
+
+[Elemental Affinity]
+
+[Fire: 500%]
+
+[Water: -150%]
+
+I guess that’s how…
+
+Seeing my Fire Affinity at five hundred percent filled me with pride. After all, neither of my main fire skills had advanced to the maximum mastery rank. If any of them ever reach that point— which they will — I wouldn’t expect anything short of amazing to happen.
+
+With that being said, I had four more bloodline skills to inspect. Four- free- skills!
+
+My feathers stood on end just thinking about it. All the skill points I didn’t have to spend, not to mention they’re Bloodline Skills!
+
+I didn’t use Phoenix Fire as much as Nirvanic Flames, but that didn’t mean Bloodline Skills should be thrown away!
+
+Without hesitating, I opened the Bloodline Skills window and began reading the skill descriptions.
+
+[Skill: Phoenix Fire(Intermediate)]
+
+[The instinctual fire of any Phoenix, the strongest most versatile fire in all of the Tianxu Continent is at your beck and call. As a bloodline skill, it will continuously grow and evolve alongside you. The strength of the skill depends on your INT, STR and target resistance.]
+
+[Skill: Phoenix Reflex(Novice)]
+
+[Some people say that the Phoenix had a sixth sense. Those people weren’t wrong. While a bloodline skill, this passive skill allows you to get a better sense of your environment, detect dangers and sense invisible opponents, amongst other things. The strength of this skill depends on your INT, and PER, as well as the enemy’s stats. This skill can evolve.]
+
+Heavens! An evolving Bloodline Skill! This is… and it’s so good! What the hell?!
+
+I couldn’t believe my eyes. A skill that gave me a sixth… or seventh sense. A skill that complimented my Divine Sense and my experience as a cultivator— a skill that would give me a higher chance at survival.
+
+For free!
+
+Completely for free!
+
+I jumped up and flapped my wings instinctively as happiness coursed through my veins. If the first skill was that good, then I couldn’t imagine the rest!
+
+[Skill: Ember Step(Novice)]
+
+[Take a single step for a distance that scales with the skill mastery. Upon arriving at the target destination, create a path of fire that burns everything it touches. The damage of the fire depends on your INT and Fire Affinity, as well as Phoenix Fire mastery. The effects may be nullified or lessened by target resistance.]
+
+Huh-
+
+I was speechless for a moment. Wasn’t this a similar dodging skill I’ve read in the shop? Except, it’s way better? It definitely had other scaling options and Fire Affinity wasn’t even mentioned in that shop skill.
+
+Oh, so this is how it must feel to be rich. I couldn’t believe I had to skimp out on skill points when I could get these for free just by evolving… Oh~ How awful a life cultivators have, when Spirit Beasts don’t need to struggle and vie for resources to advance.
+
+Wait-
+
+Those panthers-
+
+They were lounging around all day, leeching Qi, and they didn’t even give me one skill?
+
+“Motherfucke-”
+
+Flames of anger escaped my body, lighting the nest ablaze. By the time I’d noticed them, it was too late.
+
+“Little Flame, keep it down or go to sleep!” Mother warned sternly while still half asleep, tucking her wings in tighter and placing her head in between for more comfort.
+
+“Sorry…” I whispered and took a deep breath, calming down and extinguishing the flames at the same time.
+
+It was hard to tone down my excitement. So many strong skills given out… maybe I should pursue evolution more…
+
+[Skill: Elemental Wave(Novice)]
+
+[Create a torrent of elemental waves with you as the center. Deals damage to any target hit by the wave gets afflicted with a debuff and weakens them to the used element. The strength and duration of the debuff depends on the skill mastery, your INT and target resistance.]
+
+I expected it to do something else due to its name, but inflicting a weakness on the enemy… Does that mean they’re more vulnerable to the element?
+
+[Yes.]
+
+What if they were already vulnerable?
+
+[It’s multiplicative.]
+
+What?
+
+[It… they become more vulnerable by a certain amount.]
+
+Ah! So what happens if I use this skill multiple times in a row?
+
+[...]
+
+[They become more vulnerable. But there’s a threshold you can’t break past without using other or stronger skills.]
+
+Right… What is the threshold?
+
+[It depends on the skill.]
+
+What?! Why doesn’t it say so in the description then?! Are you scared of numbers?! How am I supposed to know otherwise?
+
+[...]
+
+[You could experiment.]
+
+[Are you becoming more bird brained?]
+
+Your mother!
+
+[Skill: Precise Flame Control(Novice)]
+
+[A skill that grants the user even finer control over flames. The flames most compatible are the innate flames of a Phoenix, and the farther away you go from that source, the less effective this skill is. The skill allows the user to modify the shape, substance, density, heat and a variety of other properties of the fire they control. This skill has no scaling. Versatility depends on skill mastery.]
+
+Well, I didn’t know what to make of this one. It promoted using Phoenix Fire more often, but didn’t discourage from using other types of fire. However, I didn’t see what it gave me that I couldn’t do before.
+
+The only way to find out would be to experiment…
+
+Somehow I could tell System was getting pretty smug.
+
+***
+
+After the excitement of the skills had faded, it was finally time to look at the other notifications.  Besides the ones telling me what random cultivator I killed, the leveling up and skill rank up— which I was really impressed by —the only thing left were the three achievements.
+
+Achievements
+
+[First Blood (Rewards Claimed)]
+
+[I found it on the ground! (Rewards Claimed)
+
+[I am a Spirit Beast! (Rewards Claimed)
+
+[De-Evolve (Rewards Claimed)]
+
+[Tiny Lord Slayer (Rewards Claimed)]
+
+[Species Destroyer (Rewards Claimed)]
+
+[First Time? (Rewards Unclaimed)
+
+[Bloodthirsty (Rewards Unclaimed)]
+
+[Cultivator's Bane (Rewards Unclaimed)]
+
+[Ruthless (Rewards Unclaimed)]
+
+The last three sounded and looked interesting. And… very violent. I didn’t know I would gain such a reputation just by defending myself…
+
+Oh well.
+
+Claim!
+
+[Achievement: First Time? has been claimed.]
+
+[No possible rewards]
+
+[Achievement: Bloodthirsty has been claimed.]
+
+[+5 Strength; +5 Dexterity; +5 Perception; -5 Charisma]
+
+[Title: Tiny Blood Lord has been awarded.]
+
+[Achievement: Cultivator's Bane has been claimed.]
+
+[+7 Strength; +7 Dexterity; +7 Perception]
+
+[Achievement: Ruthless has been claimed.]
+
+[+1 Strength; +5 Dexterity; +5 Perception; -5 Charisma]
+
+A title? Forget the stats, what does that title do?
+
+[Titles are selectable and wearable social statues that you can activate and deactivate at will. Once a title is equipped, you cannot remove or change it for twenty four hours.]
+
+[Each title has a different effect and are as rare as Phoenix feathers and Qilin horns.]
+
+How rare are Phoenix feathers, really.
+
+[I admit that was the wrong metaphor to use.]
+
+So then, do I just call out… titles?
+
+[Titles]
+
+[Tiny Blood Lord]
+
+[Granted after murdering humans in quick succession. The number of humans killed must exceed a dozen, or must be done within an extremely short amount of time. This title can evolve into [Blood Lord]; [Large Blood Lord]; [Murderous Blood Lord] and [Asura Blood Lord]]
+
+[Effects: When the title is equipped, it emits a murderous aura that can only be felt by humans. The higher the amount of humans killed, the stronger the aura. Human cultivation rank and level have an effect on the intensity and growth.]
+
+[When the murderous aura is being emitted, the wearer gains 25% more damage to humanoids and also takes 10% less damage from humanoids.]
+
+[+20 Strength; +10 Dexterity; +5 Perception]
+
+Eh… I get rewarded for killing humans? That’s awesome! But equipping it right now might not be the best idea… Well, I bet Mother has it as well. Then again she must also have other, more amazing titles.
+
+Thinking about Mother, I turned to look at her sleeping figure. The beautiful feathers decorating her body danced with a dim light, though the warmth she exuded invited me to join in.
+
+[Equip Title?]
+
+Eh, might as well. If I were to meet any humans I’ll have a slight edge over them. And the stats were very nice to have.
+
+Yes!
+
+[Title: Tiny Blood Lord equipped.]
+
+“Aaah~” I yawned, exhausted and content with all that I’ve gained. The only things left to do was consolidate my foundation, get familiar with all the new skills and get stronger.
+
+For the moment though, I waddled over to her and snuck in between her wing and her body, the soothing embrace making me relax. I’d forgotten the last time I had such a nice feeling of safety, and I wanted to protect it no matter what.
+
+Mother sensed me tucking in with her and made some more space for me. I’d grown a little since my evolution, so the small nest she made for us to sleep in had gotten a little cramped.
+
+I let out a satisfied coo and closed my eyes, getting ready to fall asleep.
+
+It was then that I heard the familiar buzzing sound; one that never arrived without bad news.

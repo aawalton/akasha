@@ -1,0 +1,211 @@
+---
+id: d63c9995-6f03-522f-9d42-27916365ffc9
+page-type-slug: story-chapter-royal-road
+title: "418 Balance [II]"
+slug: 0536-418-balance-ii
+partOf: path-of-the-deathless-book-4-completed
+position: 536
+ownLength: 5146
+unit: words
+publishedAt: 2026-07-29
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3742850/418-balance-ii"
+royalRoadId: "3742850"
+---
+
+“You’re going to have to fight alongside someone you don’t like at some point. It’s inevitable.”
+
+You've likely heard the cliché before. You won't like everyone, and not everyone will like you. But I'm going to go beyond the cliché because life isn't just a platitude or a statement. Life is complicated, and war is complicated beyond that. When you fight next to someone, it doesn't matter if you like them or not; it matters if you can trust them and if you can rely on them. There's always a spectrum of “how much.” There are people you know you can trust with your life in combat that you wouldn't let near one of your loved ones.
+
+And if you cannot be sure if you can trust or rely on them, then no, you don’t need to fight next to them, because they might be a knife in your back rather than a blade at your side.
+
+Weird as it might sound, and love her as much as I do, my wife is one of these people. I can't imagine being without her on the battlefield or in my day-to-day, but there’s no world where I let her come with me if I'm heading into the capital to deal with some noble acquaintances. I know their habits, and I know hers. Only blood will come of that—and going outlaw when you have a family is an uglier thing than the stories might portray.
+
+Trust and reliability aren’t binaries. They are conditional. You read about Whisper before—the orc assassin who was part of our band. You know how that ended. But I gotta tell you again that we all cared for Whisper. We really did. And we thought he cared for us the same way. Sure, he was a monster, but we thought he was our monster. He saved a lot of us, and was just accommodating no matter what the requests were.
+
+But that changed in a flash on that farm. It didn’t last. And the same applies to people.
+
+Some people you can’t fight alongside because they are, as nice as I can make it sound, sacks of shit. I’ve fought with Young Lords and Ladies who spent lives like coins for nothing in return. They usually died under mysterious circumstances. I fought alongside the agents of the Southern Gods and awakened monsters from the north. That usually went a bit better than with Whisper, but it was clear they didn’t think of me and mine as people.
+
+Morale isn’t some invisible magical thing; it’s a very real currency that suffers or gains in combat, and if you and those around you don’t have that common bond or trust, and you’re not willing to die fighting for each other, then you’re going to break, and you’re going to lose. That’s the way it is. So, if you want to be a campaigner, you gotta vet those next to you if you can. Because if you don’t, it’s your life that gets used up.
+
+—Memoirs of a Master-Tier War Mage
+
+VII-64Balance (II)
+
+Combat had a way of stripping a person down to reveal the bones of their truest self. It was hard to mask one’s character in the heat of the struggle; the skills on display whispered hints of one’s legend. Even without knowing every detail about another, it was easy enough to glimpse who they were and predict how they would act and react.
+
+Everything was on full display as Havel Van Stormhalt fought alongside Shiv, and watching the older man parry and strike filled him with a most unexpected emotion: the bitterness of abject disappointment.
+
+But Stormhalt wasn't a disappointment because he was a Master-Tier Pathbearer. Power didn't even come into the equation. He was an abject disappointment, paradoxically, because he was a truly competent Pathbearer. Shiv would go so far as to even call the man an ideal soldier.
+
+What Stormhalt lacked in personal power, he made up for using experience and coordination. There was no jockeying for dominance when he fought. He didn't bark orders at Shiv or command him like an underling. Even though his feelings were rotten with misery and rioting at the thought of fighting alongside the Deathless, he mastered himself. He forced himself forward, and he stood in front of Shiv, playing the role of a Vanguard while letting the Deathless fight as his second. It wasn't a play of superiority; rather, it was simply the best position Havel could occupy.
+
+His shield possessed a skill that placed down barriers of lingering force, wide enough to guard entire regiments from oncoming fire. When he swung his mace, pockets of pressure and explosive gusts of wind swept out, and he wielded his weapon in concert with his magic, buffeting and harassing rather than trying to smite Jessica directly. For he knew she was far beyond his reach as a Master, and so he left the matters of direct engagement to Shiv.
+
+The City Lord was a veteran of combat; that much was obvious. He didn't waste time on trivialities such as trying to figure out who between Shiv and him was in charge. He simply barked out what he was trying to do as quickly and clearly as possible and allowed Shiv to adapt around him. It was in those displays of tactical acumen and strategic maturity that Shiv learned to value and scorn Havel Van Stormhalt.
+
+Scorn because there was a special kind of tragedy in witnessing someone capable of extreme virtue in one aspect retaining the festering sickness of personal depravity in another.
+
+As Jessica came forth, she struck, stabbed, and stroked with leisurely strikes. Her new greatblade glowed bright with nullifying enchantments, reducing her might, and quelling the cleaving sword projections that painted chasms across the span of horizons. Still in her casual attire, the Giantsbane kept her attacks slow and gradual, yet never slowed her momentum. The nicks and cuts she left on the translucent bulwark projected by Havel’s shield healed fast, hinting at a powerful self-mending enchantment. Of course, if Jessica so desired, she could cleave it and the man behind it in half with little effort.
+
+But Stormhalt fought on, unashamedly, and, more importantly, he sought to make use of himself in whatever manner he could provide. He directed bolts of lightning from the head of his mace, and the strands of electricity broke into two lanes in an attempt to blind Jessica's eyes. Her arm curved up, and she shifted her stance ever so slightly. With no struggle at all, she deflected those bolts as if they were solid objects, causing them to ricochet off into the distance as she briefly flickered next to Stormhalt via the full expression of her Parry Skill.
+
+But she didn't strike him down, for that wasn't the point of the exercise. Instead, she let the moment pass and returned to where she once was, wading forth in pretense of how a monster might fight. Stormhalt shaped condensed spheres of wind, launching them forth in detonating blasts to obscure and drive Jessica back. An additional wall of dense, shifting air reduced the shape of the Giantsbane to a mirage, but failed to move her whatsoever.
+
+But such was expected on the part of Stormhalt, and he did something else at the same time. Something that surprised Shiv, who mostly watched as a passive observer for now, trying to get a gauge of the City Lord's baseline abilities. An air-sculpted clone of Shiv, made in exact replication of his body's dimensions, even sporting his posture and movement habits, charged into the fray.
+
+An Aeromantic illusion, Shiv understood. That was a feat and a half: the amount of control it took to create and puppeteer an air-made construct was already substantial, but to see it designed to mirror Shiv so closely despite how little the man had seen him fight betrayed an artist's attention to detail. Once more, it reaffirmed Shiv's own lack of balance, the experience that typically accompanied a gradual gain in power and skills.
+
+Stormhalt was but a Master-Tier Pathbearer, but he expressed the higher capabilities of his skills. Meanwhile, Shiv breezed past Master-Tier Biomancy within weeks and continued using his Heroic-Tier magics as little more than additional limbs to bludgeon or tear. And there was a rank injustice between them, where one was destined to achieve higher power at a pace the other couldn't hope to match, while the lesser was a greater warrior in truth, brought low by the innumerable flaws of his individual character and bottlenecks of physical growth.
+
+“Opening! Take it!” Stormhalt shouted.
+
+To Shiv's credit, he was already in motion—had been since his Aeromantic clone was summoned forth. Though Stormhalt was superior when it came to general mastery, Shiv was beyond battle-hardened. The sheer concentration of strife and conflict had honed his instincts and carved him bare of hesitation. He knew what the City Lord was trying to do and cooperated without fail.
+
+He stayed close to his clone at first, for if there was too much distance, then Jessica could easily distinguish which one was the decoy. The first one, obviously. Always the first one. It was only as he came within a meter that he shifted his position. Jessica struck so fast that Shiv barely caught it, and that meant Stormhalt didn't perceive the blow at all. A wave of rippling force cleaved clean through the many-layered defenses Stormhalt had put up, and his shield sparked and parted along the middle—barely spared from a full bifurcation.
+
+But Shiv had been waiting for her strike. He timed her cut with an attack of his own, launching himself a half-second back along his personal timeline to effectively flicker back to where he'd been a blink before, avoiding the aftershock of her strike, and then brought all the damage his body had accrued in his past into the present. A cataclysmic explosion of platinum scars detonated out from Shiv, cleaving gaps through the training grounds, shredding the floor, and launching Stormhalt off his feet. Even the remaining fortifications of kinetic reinforcement could only crumble beneath the weight of the Onus.
+
+Against almost any other opponent, the sheer apocalyptic destructiveness Shiv flung off himself like patches of dead skin would have been enough, if not to kill them, then to break their concentration.
+
+But Jessica Hawgrave was a Legend above Legends in her own right, and what followed was a defensive display that left Shiv laughing in awe.
+
+She performed nothing but masterstrokes, starting with her first parry—the blow deflecting a colossal blade of platinum resplendence that gashed the ground and ceiling alike open. Dimensional mana spilled into the air as the entire chamber shuddered and groaned. The instability grew worse as the scar she'd nudged aside crashed into a chain of following cuts and saw the barrage tangled in clashing impacts that sent Shiv’s ejected Onus slicing in all directions. The wounds he tried to return got in their own way, and Jessica stepped through the chaos with ease, swatting aside the few other attacks she couldn’t avoid as she ducked behind another building-sized scar of blinding platinum—and vanished.
+
+Shiv reacted off pure instinct. He didn’t know where she was coming from, but he remembered the first place she'd stabbed him last time. Jessica had a habit of spiking her size to obtain a force and reach advantage before pushing in and shrinking down so she could work Shiv’s insides. Her size-changing ability allowed her to enjoy the benefits of being the taller and shorter fighter at the same time, and dealing with it was damned annoying in general, mainly because she always went for the most awkward spots to block.
+
+Shiv snapped his dagger in front of his left armpit, and he felt a resounding impact as the edge of his adamantine blade cracked—but he kept his dagger moving as he caught the next hit coming for his left carotid and then a half-sword meant to geld him if he weren't unbreakable. As the third hit connected, Shiv felt his knife shatter. Without hesitation, he dropped it and tried to grapple with Jessica, whom he only glimpsed as a blur dancing through the chaotic winds still swirling about.
+
+He clutched nothing but air as she shrank a meter in height faster than he could perceive. But before she could capitalize on his mistake, he launched himself back across his timeline using his Harbinger, her blade passing through empty space.
+
+“Good!” Jessica praised as Shiv reappeared where he'd stood a moment before. She strolled toward him as she yawned, rolling her sword in her left hand. “Caught me doing the predictable there. Predictability kills. Remember that.”
+
+“Eh, I probably would’ve still been graced with a few holes instead of a victory without Havel here masking me.” Shiv looked over his shoulder as he noticed Havel was still trying to rise from being flung away what felt like a heartbeat ago to Shiv. Never mind Legend, the speed differential between a Hero and a Master was already obscene. “You good, Master Stormhalt?”
+
+“Stop talking and focus,” Havel snapped, his agitation born more from offense at Shiv’s unseriousness rather than his personal animosity. Shiv accepted the rebuke without rebuttal and took the position of Vanguard now. Jessica halted her advance in the meantime as she gave the Master among them time to reorient and compose himself. “Shift strategies. I will obscure—”
+
+But the moment Stormhalt tried to play the mastermind, he made himself a target. Jessica slashed out, knowing Stormhalt was an easy victim—but could still dramatically increase Shiv’s threat profile. Unfortunately, Shiv knew the same thing and reappeared in front of Stormhalt in a second time-skip. Anticipating the strike allowed him to drain the force out of Jessica’s blow, and so he gained no scars and reaped a wealth of Shapeless Tides in turn.
+
+Leviathan of the Shapeless Tides 564 > 567
+
+Inertial Overdrive 381 > 383
+
+Stormhalt staggered back, surprised twice over by the sheer speed of Jessica’s attack and Shiv's sudden repositioning. “Talk telepathically from now on,” Shiv said, conveying his message through a burst of mana ejected from his Harbinger. “Your Magical Resistance is not gonna matter with her, and I need to speak with you anyway.”
+
+Again, Havel listened without protest and tried to reply—
+
+But Jessica was on them again, and Shiv could only guard and react. The Giantsbane tore across the room in a surge of terrifying speed as the wheels of fire beneath her heels exploded into existence for a half-second. Shiv's eyes widened as, instead of aiming for him directly, she leaped over him in a bound of momentum. The edge of Jessica’s practice sword flashed white, and the air stilled. A cutting projection was coming. Shiv's reflexes struggled to match hers, but she was holding back enough for him to better cover Storm—
+
+Only for Jessica to dash again in a fiery burst that placed her inside his guard. It was there that he lost track of her altogether in a storm of flowing steel. Jessica interchanged cuts and bashes, using her pommel and blade in equal measure. Such was her simple solution to Shiv’s adaptive indestructibility. It took her less than a microsecond to coat his Scarforged Shell in countless brilliant scars, and though Shiv wasn’t weighed down in that instant, it slowed him substantially enough for her to roll under his lashing arm and snatch Stormhalt.
+
+By the time Shiv turned to find where she was, he found her standing over the downed City Lord with a broken blade pressed against his neck. A half-second later, broken bits of adamantine rained down from above and bounced off Shiv’s platinum exoskeleton. “Really? You’re going to juke me three times?”
+
+She shrugged. “Hey, it’s not my fault you kept getting faked out. You’re a pretty twitchy kid, you know that? You gotta learn which cut's actually real, and which one’s meant to screw with your head.” A low groan came from Stormhalt as he pawed blindly for his mace and shield—both items wrenched out of his grasp when he was taken. “Relax, Havel. You’re dead. I killed you. This spar's over; try again next time.”
+
+“I thank you… for the lesson,” Havel choked out begrudgingly.
+
+“They’re all feints and stabs,” Shiv muttered with annoyance. “The ones that make me flinch just end up being the former, and then when you see an opening, it turns into the latter.”
+
+“Yep,” Jessica chirped with pride. “And you were doing so well for… well, a couple of seconds there. But then you let your new buddy get killed. Real shameful. What will his family say to you at the funeral? Anyway, reset, or do you want this to run a few minutes to an hour longer so I can finish your beating?”
+
+“Reset,” Shiv grunted. “I got better odds with him fighting beside me anyway.”
+
+Stormhalt stilled, and then lifted his gaze with surprise.
+
+“Poor fool does not know this moment is partially engineered,” the Harbinger said with a laugh. “Jessica can see what you are doing. Battle builds camaraderie, and even if there is no shared love, you can find common ground in common struggle. He is simply too drowned in his emotions to notice the forced artificiality of this moment. Or perhaps he desires it unconsciously himself.”
+
+The Giantsbane released her prey and pulled Stormhalt back to his feet by the scruff of his neck like a kitten. While she did that, Shiv set off to grab the Master's missing weapons. When they came back together, she looked over the two of them and sniffled. “Alright. Shiv, most of that shitshow at the end was on you. You can’t leave a Master open against an enemy Hero or Legend. Bad trade. And right after you exploited me being predictable, you let me make you predictable right back. Lesson’s not sinking in all the way.”
+
+“Trying to figure out how to reliably ward you off,” Shiv said. “Frankly, you could have thrown me off at any time with your dashing. And I don’t think I’m good enough to fend you off and keep Stormhalt alive without doing the tumor-pocket.”
+
+“Tumor… pocket?” Stormhalt repeated.
+
+“No, no tumor pocket,” Jessica rebuffed. “You won’t always be able to take advantage of how Deathless you are. And I don’t think Master Stormhalt is good with being shoved inside you.”
+
+“Inside him…” Stormhalt’s expression grew utterly horrified and increasingly lost.
+
+“She’s making it sound sexual on purpose,” Shiv snapped. “It’s not like that. Jessica’s the one more likely to put you up her ass; I’ll just open myself up and wrap you in a protective cocoon of tumors and stuff while my ribs and organs hug you.”
+
+A series of incomprehensible twitches played across the man’s face. “Are you… mocking me?”
+
+“No,” Shiv and Jessica replied at the same time.
+
+“It’s just reliable,” Shiv said. “And besides the pain and a little dizziness from the blood loss, it’s pretty good for the guy inside me. It’s worked before; it’s how I managed to finish my Toughness Delve.”
+
+Shiv smiled reassuringly. Stormhalt looked like he was about to gag.
+
+“Yeah, so, no tumor pocket,” Jessica repeated. “Figure out how to keep him safe the sane person way.”
+
+“But sane people are victims, Jessica,” Shiv complained.
+
+“I know; but being a victim is how you learn how to fight better.”
+
+“You’re just saying that because you like beating my ass,” Shiv shot back.
+
+“Yeah, but it’s also true.” She waved her practice sword in his direction. “Look. Your defense gets too static because you’re worried about what I’m going to do. And frankly, you do better defensively when you’re alone because you don’t keep worrying about what I’m going to do to the guy next to you. That gives me the initiative and makes you predictable. Defense isn’t you being hard enough and eating slashes for another guy; defense is keeping the attacker outside your guard—making a barrier between their hits and your person. That can be distance or stealth or evasion or whatever. When you just react and parry, that’s not defending; that’s desperation. And it makes you predictable. That’s how I opened you up like a tin can at the end.”
+
+“So, instead of you being my puzzle defensively, you want me to be a puzzle for you?” Shiv asked.
+
+“Yeah, something like that. Or just really inconvenient. Look. The big issue right now is that you’re an unbreakable wall, but still too simple. Simple is for striking. Warfare is not simple. Warfare is complicated. And if you’re going to contend with me blade to blade, well, I can make you competent, but I don’t know if I have the skills to make you my match in a duel even if we had a century or two. Some things are beyond theory and instruction. And there are decades of experience you’re simply missing right now.”
+
+“But not him, though,” Shiv said, looking away from Jessica. He narrowed his eyes at Stormhalt and regarded the man with a smirk. “Any suggestions from that experienced mind of yours, Havel?”
+
+“Address me properly,” Stormhalt rasped, recovering slightly from the barrage of madness he'd just suffered.
+
+“Sure. Any suggestions, Master Stormhalt?”
+
+The City Lord looked between Shiv and Jessica as he fell into contemplation. The moment was broken as Jessica yawned and started walking away from them. “Anyway, you boys can have a moment to recover and think. Shiv, you were due a break to begin with; Master-Inquisitor Stormhalt, figure out how to best use the Deathless—consider that the Councilwoman’s orders or whatever you need to be motivated. I’m going to give one of the juniors over there some pointers.”
+
+An explosion of snaking fear-chains flooded into Jessica from across the room. The watching Inquisitors heard her and tried to flee, only for her to close in a flaming dash once more. “Oh, fuck, oh shit!” Shiv heard one of them scream.
+
+“Alright!” Jessica barked. “Defensive drills time. You guys defend. Gotta get your Toughnesses up; that Tarrasque hits like a bastard, you know. Can’t die from the first glancing blow.” There was no lull between the point where her words ended and the sound of the flat of a blade smacking flesh began, followed by screaming and pleading. “Shiv, get that Biomancy of yours ready. Won’t hurt them too bad. Just welts, bruises, contusions, concussions, broken bones.”
+
+He gave her a thumbs-up and went back to looking at Stormhalt. The poor man was wincing as Jessica disciplined the other Inquisitors assigned to the mission, his heart filling with sympathy and lament. “I forgot how traumatizing she is.”
+
+Shiv blinked. “She is?”
+
+Stormhalt gave Shiv a look that questioned his intellect—but that look broke apart as he remembered who he was talking to. “When her methods are applied to actual people, yes. Quite so.”
+
+“Shit. Glad I’m not an actual person then,” Shiv quipped, swatting the insult aside. “Well, Master-Inquisitor Actual Person, you got a plan for how you want to make our next ass-beating less severe?” The City Lord wanted to speak, but withheld his first words as he regarded Shiv with wariness. “Oh, come on, I’m not going to hurt you. You know that by now.”
+
+“I doubt I truly know anything by this point,” Stormhalt said darkly.
+
+“Yeah, maybe not politically, but going off that, Veronica wouldn’t have stopped me even if I wanted to literally eat you and your entire family. Let’s get the ugliness out of the way here: I’m more valuable in her eyes, and that’s the way it is. Noble Houses are protected when it’s a civilian they’re dealing with. But the real value is power. You know that, even if it bothers you.” Shiv leaned over to greet Stormhalt up close at eye-level. “But I’m not interested in torturing you. Not anymore than I had to. I want you here because I fought you while you were the Endbreaker’s Avatar, and I think you’re going to come in useful again.”
+
+“What is your game?” Stormhalt asked. “What are you playing at?”
+
+“Not your suffering,” Shiv answered honestly. “Not sadism or brutality or revenge. I think I’m getting out of that. No. I just want to solve some problems before they become bigger problems. Settle some issues before they get out of control down the line. Thing is, even though I don’t think much of you as a person, Master Stormhalt, I still have a use for you as a Pathbearer, and there’s a lot more good you provide alive instead of dead.”
+
+Stormhalt’s gaze went cold. “You seek to chain me to your will as a slave, then?”
+
+Shiv scoffed. “Eugh. No. Slavery is degenerate. For your legend. For your culture. For your virtue. You really going to make someone else struggle for you? Have them take those levels while abusing them? For what?” He laughed. “I was Pathless just a few months ago. I was so envious of Adepts. I thought they were gods. I would have given anything for their power and status.”
+
+“And now you have gone far beyond,” Stormhalt concluded grimly. “And so you realize that you are above your lessers. That I am not even worth shaming—not a slave, but just a thing to be used.”
+
+“What a poor, wounded creature.” The Harbinger broke into a fit of saddened laughter. “He is defined by nothing but an original trauma. He never feels like he is enough, and everything he does is posturing and desperation to make up for how weak he feels before more gifted Pathbearers. He is no different from the martials we broke in the kitchens—our assassins who viewed their own worth as warriors and battle and nothing beyond. Georges would have despised him.”
+
+Shiv glared at Stormhalt in turn, and let his eyes fill with enkindled flames. The City Lord took a step back in fear—but refused to flee, for what right warrior gave his back to death? “Don’t talk about yourself that way. You’re a piece of shit, Stormhalt. Someone I loved died because of you. You were going to spend the lives of your people to hurt another citizen of the Republic. You betrayed your own ethics and virtues over and over again because that hole in your heart won't stop bleeding. But you don’t get to debase yourself in front of me. I gave you respect; I called you by your title. You are rightfully a Master. So don’t use me as a puppet to call yourself a thing because you feel weak.”
+
+Stormhalt damn near cracked in half from his words. Black fire spilled out of him—a flood of darkness pouring out from his diseased psyche. The City Lord’s expression turned to stone while everything within his mind and core filled with anguish.
+
+“Cry if you want. Feel bad. Be sad. Hate the System. Hate the world. Hate me. I don’t care.” Shiv shook his head. “I can still see you. I can always see you. You can hide yourself in aesthetics and performance. I know what’s tearing through you, and I don’t care that much. But you will live up to that one part of yourself that’s good.” The Deathless planted a single finger on Stormhalt’s chest, and the impact sent a single tear falling from the man’s right eye—much to his horror. “You’re a good soldier. Good warrior. Maybe you’re not gifted, but you know what? Fuck them. Fuck the prodigies, fuck the monsters; they’re all pathetic in their own ways. Even me. Even Roland. The worst mistake someone can make is thinking any relief or actualization comes from power alone.”
+
+The City Lord forced himself to breathe in and out to maintain his composure, but inside, he was on the verge of shattering—his confusion as to why Shiv was defending him from himself and the pressure the Deathless inflicted drove him to a point of near psychosis.
+
+“You should have focused on honoring yourself,” Shiv said. “You should have given yourself what you always needed. The culture of the Republic is diseased. This entire world is sick. We’re born in it. We suffer from it. But we don’t need to choose to inherit the sickness.” He dragged his finger up and placed it against Stormhalt’s forehead. “Use this. Be your own slave first. Be your own master for once instead of letting your heart abuse you. When you get a bit of that shit sorted and packed up, come find me. All the time you need. Jessica can wait. She will wait.”
+
+“The Tarrasque,” Stormhalt choked out.
+
+“Is just another problem I’m going to solve,” Shiv answered flippantly. “Like you. But I’m not going to kill it. Like I’m not going to kill you. The System’s going to need to try harder to make me. I see its chains, and think I’m going to pull myself on my own leash instead. For once in your miserable life, you should do the same.”
+
+With that seed planted, Shiv simply walked past Stormhalt, where he once would have shouldered him aside, and decided to contemplate how to improve his defenses alone. But before that, a final hit of inspiration came to him, and he looked over his shoulder to finish hurting Havel the right way. “Roland never mentioned you much, if you were wondering. He hates you now, but I don’t think he gave that much of a shit about you before—not in the way you hated him. And I’m going to tell you right now: I’m not Roland, but he and I are going to be the same here. Rivals need to be respectable, and though you hurt Roland bad, that’s because he ignored you. That’s from scheming and playing the game. Again, I’m not Roland. Not in terms of skill yet. Not in terms of nature. But there’s no game to play with me. There is no way you match or beat me, Stormhalt. You find peace in your own worth, or you suffer my shadow until you break. Two roads. Choose the first.”
+
+By the time Shiv was done, Stormhalt was shivering and hyperventilating again—and he was close to the edge. So close. But not yet over.
+
+“And now we see what arises from the ruins of his personality,” the Harbinger declared. “What a terrible fate to be Havel Van Stormhalt.”
+
+Yeah. Shiv sympathized. But fate alone wasn't a good enough excuse to become a degenerated version of who one was. If our wills are true at all, if we can choose, then that’s an evil too. An evil done against ourselves. A Pathbearer should be more responsible than that.
+
+With that declaration, the substance of Shiv’s Pyromancy grew a magnitude hotter.
+
+Nihilism Be My Hearth, My Banquet 137 > 151

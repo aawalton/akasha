@@ -1,0 +1,281 @@
+---
+id: 4dbcd44c-7180-50a4-a7e7-d84c6760cbd4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 56: Heading into the VIllage"
+slug: 0056-chapter-56-heading-into-the-village
+partOf: phoenix-ascension-cultivation-litrpg
+position: 56
+ownLength: 3819
+unit: words
+publishedAt: 2025-12-01
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2810172/chapter-56-heading-into-the-village"
+royalRoadId: "2810172"
+---
+
+After bathing, I planned on testing out my skills. Since I could use them, and since I had so many of them, I wanted to increase my proficiency. Even though certain skills were ranked as ‘Intermediate’ or ‘Master’, I felt like I lacked a deeper connection with them.
+
+I was not as intimate with them as I was with my Nirvanic Flames, which I missed dearly. However, I had little choice in the matter. Once the little girl translated the technique for me, I could start practicing and refining my body with lightning. During that process, I could also work at grinding away the Demonic Qi invading my dantian.
+
+Once that was over, I would be back at one hundred percent power… and maybe have a chance against a Core Formation cultivator. The sharp sword hanging over my head had not been forgotten.
+
+Luckily for me, that uncle of theirs didn’t seem that interested in me and would be hunting me in passing, probably. That gave me no excuse to slack off, though. Even if I were just an ant, I would become strong enough to at least bite his leg off!
+
+Once my feathers were dry, I flew to an emptier part of the forest, one where there were few trees. I had no intention of starting a forest fire, and even less so around that Yo Na’s fella territory.
+
+I eventually found the perfect spot, and I wasn’t sure if it should be concerning that a rather large space was devoid of trees. It definitely looked like someone’s abandoned training ground, perhaps a cultivator, or someone who had nothing better to do? Who knew? It was mine now.
+
+First, I took into account all the Bloodline Skills I had.
+
+Phoenix Fire was my highest-ranked skill out of all of them, and also the one that refused to rank up the most. It seemed that the gap between Expert and Master was bigger than I thought.
+
+In comparison, Stealth, who was at the Master rank, was only categorized as (Lesser), but it was the first skill that I’d gotten to that rank. I didn’t get an achievement for that, by the way!
+
+[…]
+
+Giving me the silent treatment, I see.
+
+Anyway, if I had to guess, the (Lesser) trait made it so it was easier to rank up. I would expect that once the maximum amount of proficiency was reached, then it would upgrade from (Lesser) to normal, or something like that. Similarly to how Poison Resistance upgraded to (Greater). Although the circumstances between the two were vastly different.
+
+After Phoenix Fire came Phoenix Reflex, Ember Step, and Elemental Wave, who were all at the Beginner Rank. Then, Precise Flame Control at intermediate, and everything else was Novice.
+
+Currently, I am more interested in upgrading all the skills that were at the Novice rank, though doing so without a target to hunt would be difficult. Just like how Stealth didn’t give me much, if any, proficiency while not hiding from something, I didn’t think the other skills would rank up just by me using them.
+
+Or perhaps they did, and I was very wrong. Novice meant a total beginner, so maybe if I familiarized myself with them enough, they would rank up to Beginner at the very least.
+
+It was worth a try, and try I did.
+
+First, Paralyzing Screech. Screaming around like a crazy bird wasn’t the most fun thing I could do with my free time, but it wasn’t the worst either.
+
+The first time I used it, I could tell that my screech wasn’t perfect, but it did the job. I didn’t have many occasions to properly use it since I’d gained it, though. But now I had the time to really explore it.
+
+I’d never realized just how annoying my own bird voice sounded. It was sharp, a little thorny, and even more than that, it was very… cute.
+
+Cute wasn’t a word I would use to describe myself often, but in this body, I had no choice but to accept, I was incredibly cute. From the fluffy feathers to the round body, to the tiny beak and the squeaky voice, everything about me was cute.
+
+If I had to guess, that high charisma stat had something to do with it. Or maybe that stat was because of my appearance? Would it lower once I grew up more or evolved into something scarier? Only time could tell.
+
+After screaming for what felt like an eternity, my throat began to hurt. I could tell that the limit of this skill had been reached. Even with my abundant energy reserves, I could not use them without pause, and the more I used them, the less the effect. It looked like the power of the skill was reliant on how well my voice sounded as well.
+
+However, something good did come out of that yelling session.
+
+[Paralyzing Screech]
+
+[Let out a screech that paralyzes anyone who hears it. Afflict the target with the [Paralysis] status effect. The effectiveness of the attack depends on the user’s INT, vocal power, and the target’s resistances.]
+
+After going from the Novice rank to the Beginner rank, the skill description was updated based on my findings. That was really good, especially considering the fact that I could forget the tiny details.
+
+With that done, it was time for a little period of rest. I flew up on top of a tree and took a deep breath and noticed that… there were no other birds around.
+
+Well, there were, actually, just not flying. They all lay sprawling with their backs on the ground, unable to move or even budge their eyelids. Next to them were other animals, such as boars, deer, insects, and even some larger Spirit Beasts.
+
+I didn’t do that, did I?
+
+But of course, I did. After yelling like a maniac while actively using the skill, it would have been weird if there were no victims.
+
+Well, either victims or… food. It would be a shame if I left those Spirit Beasts rich with Qi and other nutrients just lying around, right?
+
+I jumped down and picked three of the biggest ones and killed them with a clean swing of Blade Wing.
+
+Sorry, but a girl’s gotta eat. They weren’t even that high level, only about ten to thirteen, so the XP they gave was minuscule. I had to say, the way XP was calculated was downright awful.
+
+I killed so many snakes and didn’t even get one single level, but after killing their higher-ups, I got so many. Even if the XP required to level up was exponential, wasn’t this too much?
+
+Anyway, after eating as much of their meat as I could, I went back to the clearing and began training. I left the rest of their carcass for the other beasts, as once paralysis wore off, they could have at least something to eat.
+
+Speaking of Blade Wing, I could not help but wonder just how sharp it was. Sure, it cut off a guy’s head in one swing, but that was just a weakling. His body was not even being reinforced with Qi, or if it was, it was very poorly done.
+
+Although I doubted that a tree or a rock would be any better targets. Just to prove that, I swung my wing casually. But as it turned out, it didn’t pierce all the way through the trunk. Instead, it went as far as one third of the way through.
+
+Hmm?
+
+I pulled my wing back and hit it again with a lot more strength. That time around, the trunk got sliced through, but I used a lot more energy.
+
+So, the amount of strength is related to how much energy I use? If that’s the case, then does the same thing apply to sharpness?
+
+Walking up to a tree, I activated the skill, but controlled the amount of energy used. It was hard at first, but after doing it around five times, I managed to somehow manage the energy expenditure.
+
+With the lowest amount, I could barely make a cut through the tree. I didn’t use much strength, if any at all, but simply cut like one would cut vegetables with a knife.
+
+At a more moderate amount of energy used, the feathers seemed much sharper and deadlier, and when used to cut with, I could make a cut a few inches deep inside the bark.
+
+When I tried using as much energy as possible, I felt that at some point I could not put in any more. That must be the hard energy limit that the skill has. Therefore, with the maximum amount of energy that I could put into the skill, my feathers became so sharp that even I was scared of getting cut.
+
+However, as I sliced, I noticed that it kept using up my energy to replenish its sharpness. That wasn’t something that happened with the other two experiments, and I found it interesting.
+
+That meant that when I use Wing Blade at its maximum potential, the energy cost would be way higher. But the results spoke for themselves.
+
+‘Thud.’The tree fell with a muffled thud, hitting the trees in the vicinity, breaking branches, and crushing bushes. Its base had been cleanly sliced through, and I only used the minimum amount of strength necessary. Truly, this skill was simply too strong.
+
+[Skill: [Blade Wing] has reached the [Beginner] Rank!]
+
+Oho?
+
+So, it was as I guessed, once I gained some understanding of the skill, then it would rank up regardless of the usage? Was there a hard limit to how much I could do that? There had to be, otherwise I could have evolved all of my skills by sitting down and meditating.
+
+But that was too boring!
+
+Fighting and killing, and hunting were much more enjoyable activities. However, I didn’t know what I was or was not allowed to fight and kill in this forest. Food to sustain myself would be understandable, but I couldn’t have a repeat of the snake incident.
+
+Well, until I could let loose, I had to get stronger. Before, I wanted strength so I could be free, but now, I need strength. Mother wasn’t here to protect me anymore, and I somehow managed to make an enemy out of a Core Formation cultivator who knew where I was and who I was.
+
+I had to raise my level and cultivation level, and also my Beast Core. It was so quiet and useless that I’d almost forgotten about it. The thing was still floating around in my dantian, sleeping.
+
+It was covered almost entirely with fire, but a tiny part of it was blue in color.
+
+The fire was obviously my Fire Affinity, so the blue color must be my Water Affinity, which was still in the negatives. The water serpent had given me a marginal increase after absorbing its core; however, it was far from enough.
+
+I needed to either find a large number of cores or some other way to gain more water affinity. Not being able to use one of the second elements I was given was quite a bummer.
+
+Usually, cultivators could only use one or two elements at the start, with others being learnable along their journey. The most talented cultivators, those blessed by the heavens, could use as many as nine elements without any issue, while the trashiest of the trash could not even use one.
+
+I was once such trash in my past life. From what I could remember, I was a mortal with no spirit root, no meridians, no dantian… nothing. However, I could not remember what made me want to cultivate, or how far I’d gotten. Not completely.
+
+My hazy memories resurfaced every so often, revealing themselves to me as I got stronger. Eventually, I would remember everything. Who would I be then? Fa Xiaolan, Little Flame, or someone else entirely?
+
+Argh, those things were too complicated and annoying to think about. Who cared anyway? I was me, and me was me, and the present me was in danger!
+
+Stronger, stronger, gotta get stronger, or else the Core Formation sword will fall and sever my neck!
+
+Alright, alright, focus. Focus!!!
+
+My fire skills, most notably Pyro Breath and Burning Wind, were extremely strong, especially the latter. However, the area it covered and the damage it did were too much. Just from what happened to that that Su… Xu girl, it was obvious that unrelated parties would easily get caught up in the fight.
+
+And I didn’t want that, definitely, definitely didn’t want that. What if I bothered some scary monster that could kill me with one snort? That was too scary!
+
+So I had to find a way to make it so Burning Wind only had an effect over an area I chose, and also manage the temperature and strength of the wind.
+
+Using the same method that I did with Blade Wing, and after a lot of trial and error, I managed to reduce the size of the area of effect to as little as a small house, like a hut on top of a mountain, and controlled the speed of the wind to the point where… a rock was torn to shreds.
+
+Yeah, if you asked me, that was more of a wind elemental type of skill than fire, but who was I to complain?
+
+The temperature was a little trickier, as judging how much energy was required to raise or lower it was not easy. Eventually, I managed, but even at the lowest temperature, plants would still wilt and die within a minute.
+
+At the highest temperature… they exploded.
+
+As for how many plants died in the process of my experiments? Well, one only needed to look around and notice that the surrounding area looked as if a drought had passed by.
+
+It was definitely not my fault, though. Nothing to do with me, definitely. Maybe some other crazy Phoenix came around to destroy the forest for fun. Me? Blameless!
+
+Anyway, after using it for so long, Burning Wind had also reached the Beginner rank. As for Pyro Breath, I played around with it and managed to control the length and force of the fire, but it didn’t rank up.
+
+It was quite a shame, but I could not have epiphanies in all skills.
+
+As for Flaming Talons… I used it so much in my fights, yet it was still stuck at the Novice rank. That had to be a mistake of sorts, or maybe it was extremely close to ranking up? Who could say?
+
+It was time to head back home, though. On the way to the cave, I picked up another wandering Spirit Beast and killed it, as I would need dinner and breakfast at the very least.
+
+As I walked inside and lit up the place, I realized that it looked a little… depressing. Besides some feathers, bones, the bag of holding, and the two cores, I had nothing.
+
+This place definitely needed a nest!
+
+I left the beast carcass somewhere inside and went out looking for twigs and other materials I could use for an impromptu nest. Soon, the cave filled up with some really nice materials such as branches full of leaves, twigs I found on the ground, some tiny river rocks, a bit of clay, and even some shiny crystals from the side of the mountain.
+
+A nest soon materialized under my expert talons, and though it was tiny, it was mine. The cave finally felt somewhat like a home. It wasn’t the best of homes, but it was mine, and that’s all that mattered.
+
+Happy with my new sleeping place, I broke off the fatty leg of the Spirit Beast and began munching on it. I also lit up a fire nearby, but not too close, and soon after finishing my meal, sleep took me.
+
+When I woke up in the morning, I felt very refreshed. The word looked a little brighter, and the sounds were just a little bit crispier. It was the start of a good day.
+
+It was also the day I was to meet that little girl, who would hopefully teach me how to read. It was embarrassing to admit, but I was basically a newborn anyway, so it was alright! Once I learned the words, I could decipher the techniques on my own and gain some more skills, or even better, cultivation techniques.
+
+This Divine Lightning Construction wasn’t bad, but it was unsuitable for my current body. It didn’t require any Lightning Affinity and would even give you some, but you still needed some sort of affinity with the element.
+
+I would be brute forcing it, in a way. Not that it was a bad thing, I desperately needed it in order to cleanse my body of the Demonic Qi. Since lightning could do that, there was no way I would not make the best use of it.
+
+I wasn’t planning on buying the Holy Affinity or finding a random priest, so this was heaven-sent.
+
+Eyeing the Spirit Beast corpse, I devoured it in its entirety, gaining some Overeater reserves. I picked up the technique in my beak and rushed over to the meeting place.
+
+When I took to the skies, I could have sworn it was a little bit more difficult to fly, but I could only blame that on the morning sluggishness. I wasn’t sure if the girl would be there already, well, it would be weirder if she was, given the time.
+
+Much to my surprise, she was, though she didn’t look well. I descended in front of her, dropped the scroll, and waited for her to speak.
+
+Imagine my surprise when she kowtowed at my feet, bashing her forehead against the ground while crying.
+
+“Child, what’s gotten into you? Get up!” I yelled, but she refused to lift her head from the ground.
+
+“Miss Fire Bird… I… I…” The little girl choked on her tears, and she told me what had happened during the few days I hadn’t seen her. All while trying not to keep crying even more.
+
+Apparently, she rushed to her big brother with the pill, hoping to help him get better. But just as she was trying to convince him that the pill was from a good source, her cousin, Chiao Gu, stole it from his hands.
+
+She wanted to know what happened to it, so she followed after them for two days. The little girl admitted that she wasn’t a good stalker, but at the very least, she had gathered enough info to be assured that he wouldn’t immediately eat the pill. As for how long that will last, she didn’t know.
+
+Naturally, she came to me for help. Since it was our promised meeting day and all. Her big brother wasn’t doing so well and seemed to have gotten even sicker since meeting their cousin, Chiao Gu.
+
+Now that was an issue. Although I didn’t know them, I did give the girl the pill, and getting it stolen from her was equal to disrespecting me. And such a crime was punishable by death.
+
+I wouldn’t go around killing the children, though, but giving them the scare of their lives would not be too bad. The only issue was my feathers… and talons, and beak, and stature… Actually, the issue was that I was not human.
+
+Going around in human villages wasn’t exactly something I wanted to do. However, since the girl was in a predicament, again, I wanted to help her get out of it. If for nothing else, but for my consciousness.
+
+[Quest]
+
+[Get Chiao Gu to return the pill, save Shu Xu’s big brother, and help heal him.]
+
+[Rewards: 5 Medium Spirit Stones; Reading Skill; 2 Mystery Pills;]
+
+[Bonus rewards based on completion percentage are awardable.]
+
+Oho?
+
+With the System giving me a new quest and with such beautiful rewards to boot, it was hard to reject. Now I had even more reason to help the little girl. Though the requirements were a little bit… extreme? Way more than I intended to do anyway.
+
+However, I was already sold. Even if the spirit stones would not give me that much Qi, they were precious materials that I could use. As for the rest of the rewards… they were definitely something I wanted!
+
+Leaving aside the mystery pills, the reading skill alone would be more than worth it! After all, being taught and already knowing were two different things. But going inside the village would be just a little more difficult than I would like. Unless the System had something for me…?
+
+Hey System.
+
+[Yes?]
+
+Do you perhaps have a skill that doesn’t use Qi and allows me to disguise myself?
+
+[Searching shop…]
+
+[Skills that meet the criteria have been found.]
+
+[Ghost Illusion]
+
+[Transforms the user’s body into a ghost. The shape of the ghost and the duration of the skill depend on the user’s INT. To use this skill, comprehension of the Ghost Path is required.]
+
+[Cost: 20 Skill Points]
+
+Huh… twenty skill points? And for what! This is a scam, a scam I’m telling you!
+
+[It’s so costly because it’s classified as an advanced skill.]
+
+Huh? Since when were skills classified?
+
+[Since the System Update.]
+
+Why did you not tell me about it?!
+
+[I never got the chance, TwT. You don’t talk to me anymore.]
+
+What? Aren’t you supposed to be reading my thoughts and starting the conversation? That’s how we’ve always done it.
+
+[… I was instructed to stop doing that.]
+
+Huh?
+
+“Miss Fire Bird… Please, help my big brother…”
+
+The little girl’s voice broke me from talking with System. Either way, I quickly understood that skills would be a little on the expensive side. I didn’t want to spend my precious points, after all, System mentioned something about using them to evolve skills, I think.
+
+[I did.]
+
+Thank you for the confirmation.
+
+Therefore, I would like to save them until I get an opportunity to evolve a skill. Preferably, Phoenix Fire.  Since it was my main source of damage, evolving it would help me greatly. Then again, it may evolve alongside my evolution, who knew?
+
+I had to get there first.
+
+“Alright, alright, stop crying. I will help you and your big brother.” I said with a magnanimous voice, puffing up my chest.
+
+The little girl’s eyes sparkled, and she stopped crying after hearing my intentions. However, the how of how to get into the village and teach those punks a lesson was the most pressing question.
+
+Unless… That ghost technique gave me an idea.
+
+“Are you ready to give them a good show?” I grinned from ear to ear… or at least I thought I did. Judging by the girl’s reaction, I had little to no facial expression.
+
+Sigh… being a bird is really difficult.

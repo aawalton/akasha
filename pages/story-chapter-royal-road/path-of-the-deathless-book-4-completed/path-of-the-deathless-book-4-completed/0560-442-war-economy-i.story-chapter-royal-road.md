@@ -1,0 +1,213 @@
+---
+id: b19ee1cf-9358-5394-9164-0bef65aac991
+page-type-slug: story-chapter-royal-road
+title: "442 War Economy [I]"
+slug: 0560-442-war-economy-i
+partOf: path-of-the-deathless-book-4-completed
+position: 560
+ownLength: 5573
+unit: words
+publishedAt: 2026-08-26
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3868565/442-war-economy-i"
+royalRoadId: "3868565"
+---
+
+If I had to describe war in the most honest way I could, I'd say it's a game of resources, logistics, superiority, and bad choices performed by a group of people. Some of whom are deaf, some of whom are blind, some of whom don't have limbs, can't walk right, or don't speak well—all of whom are godsdamn morons.
+
+That's how it feels sometimes, for both you and your enemies. You can't believe how stupid you are. You wonder how you're still alive after every engagement. Then you see what your enemies are doing, and you wonder how it's even possible that they're even dumber than you. But that's not stupidity, actually. That's just the chaos talking, chaos and lack of context. There's too much happening all the time, too much for everyone to know about, so you have to get everyone on the same page to do a specific set of highly complicated operations that might go wrong at any point with any person. That then could lead to a cascade across the entire battlefield. The more difficult and strategically operated the war, the more likely it is you get caught in the mire of stupidity that comes with failure.
+
+However, every now and then, every once in a blue moon, there is a moment where everything comes together in a perfect concert, and you feel like you're in a company of Legends.
+
+These moments usually arise, in my experience, not because everything's perfect, but because your enemies are in perfect disarray for you to take relative advantage. Everything on your end doesn't need to go off just right, because everything on their end is already experiencing a cascade of collapses. The easiest way to induce this cascade is with what I colloquially like to call the Gloved Hammer method.
+
+Now, the big, fancy, high-minded Diviners who write books on stratagems and tactics likely call the Gloved Hammer method something else and each pretend they invented it, but fundamentally, it works the same every single time. You need a large, expendable force. It doesn't need to be overwhelmingly large, but if you can summon a few hundred easily disposable dimensionals that you can place between every battle, you have manpower to spare.
+
+But you're not just throwing them out like chaff. No, they are supposed to be a dynamic, mobile meat shield for the real threat: the hammer. With every blow the gloved hammer takes, a bit more of the glove gets peeled away, and a bit more of the hammer inside gets exposed. The entire point of the glove is not to blunt the attack on the enemy. The glove is its own problem, and that quantity has a quality of its own. When your few hundred dimensionals smash into the enemy lines or start harassing their fortifications, emplacements, or wards, they have to respond.
+
+But when they choose to respond to your chaff and expose themselves, betray their strategies, or reveal their positions, then the hammer reveals itself and swings down. The hammer is usually a team of High-Tier Pathbearers who come in and shatter the enemy where they're weakest, before pulling out under the cover of expendable dimensionals. They do this again and again, and they head into and out of the fray with a reliable layer of insulation so they don’t burn themselves with every engagement.
+
+It’s the embodiment of System-based warfare. You have the cheap, easily replaceable weakest sustaining your strongest while bringing in a layered problem for your enemies. Two extremes to induce some of the worst disharmony on the adversary.
+
+But that is if you have the expendable resources. And if you have the superior Pathbearers.
+
+It’s not impossible to win if you don’t have any of the above, but then we’re going to have to rely on the dubious tool that is “intelligence,” and the thing about being smart: you can’t plan for everything.
+
+Sometimes, things just go wrong. Sometimes, the world just hates you and makes you pay a price in blood. And let me tell you, blood isn’t an easy trade when it comes from you and yours…
+
+—Memoirs of a Master-Tier War Mage
+
+442
+
+War Economy [I]
+
+Quest: Fend off the joint Vulteg, Compact, First Blood, and orc invasion.
+
+Success: +200 levels for a select skill; +50 levels for 3 selected skills
+
+Failure: The Challenger himself breaches Gate Piety and merges it into the Tutorial after claiming the mana core.
+
+A divine dawn ignited, tearing through the fabric of darkness. An immolating awareness spilled down from the heights of the Umbral Wilderness to sear and mark the vulnerable and exposed. Below its wrathful gaze, twin armies clashed against each other, monsters greeting monsters as nightmares born from dreams and beasts forged of ruinous biomass embraced one another in a grand slaughter without end.
+
+Then came the explosive hail, artillery whistling from afar before screaming on impact, detonating with payloads of magic and metal, shrapnel shredding the vulnerable and staggering the hardy. The munitions were unleashed as diverse salvos from hundreds of kilometers away. The Terminal Opus, a siege crawler of Lone Star, embroidered the battle with a grand yet unseen sight. Coiling worlds of streaming darkness shrouded its presence, mingling its massive shape amidst shadows of dread.
+
+With every salvo, it repositioned, teleporting, sometimes directly maneuvering others. Its massive bulk vanished in pulses of dimensional magic or leaped across the expanse of unsteady terrain, dancing over soft, loamy soil and jagged, uneven stone. There was never a lull to its part in the orchestra—the beats in between the staccato roar of guns were occupied by the grumbling of gears and the cycling of new ammunition. And in the rare cases where its true position was uncovered by enemy scouts, bolts of psionic lightning rained down, creating defensive bulwarks while spawning Psychomantic architecture for it to flee across bridges formed from the clay of memory, overriding the rigidity of the material.
+
+The very same psionic lightning also carried tactical-strategic updates across the battlefield to all active Pathbearers—ensuring Gate Piety’s continued informational dominance.
+
+Thousands of Terrorspawn spilled out from Pious territories, galloping across Geomantically bridged valley divides to smash themselves upon the defensive emplacements of their enemies. Most of them would be wasted, expendable monsters spent to cushion the loss of actual lives that they were. While they acted as reliable fodder, they provided cover and distraction for actual combat teams in the field. Elite squads numbering six to twelve maneuvered in tandem with the terrorspawn onslaughts, engaging only when there was an opening to exploit or when there was an enemy elite to eliminate.
+
+As Roland proclaimed, war at its highest level was more related to economics than tactics and strategy. It was about everything you had against everything your enemies had: resources in terms of equipment, food, logistical pipelines that could be built and severed, positioning, High-Tier skills, and information. All these fields of wealth were complex and intermingled, but also existed in their own silos. When pitted against one another, you needed to exploit the incongruities and complexities in your enemies' economy while protecting your own to ensure localized dominance. Effectively, a defeat in concentrated detail was the best way to preserve your own assets while bleeding your enemy of theirs. To this end, Gate Piety had an instrument that existed beyond economy. For the economy was determined by scarcity, but the lives of the Deathless were beyond abundance.
+
+With thirteen True-Clone vessels at his command, along with a contingent of lesser Vitaeforged golems serving as auxiliaries, Shiv was prepared, combat-ready, and unmatched when it came to fighting a war of attrition. Though the enemy attacked overwhelmingly—the blood horrors, Vultegs, and Compact dregs numbering in the hundreds of thousands with every charge—they couldn't keep their offensives up for long. The cheap and renewable chaff couldn't push alone once the elites were ground down with every failed push.
+
+Ultimately, just having numerical and resource superiority wasn’t enough when limited by the bottleneck of operational output.
+
+“Tempo, tempo, tempo,” Roland would mutter as he viewed the battle from afar.
+
+“Tempo, tempo, tempo,” Adam echoed, still in his father’s shadow—but only for now.
+
+Even so, the gift of abundance wasn't to be wasted. Simply launching himself into the fray would do nothing for Shiv and his allies, and every time he was struck down and the lull of absence followed, others had to die instead. Others who didn't come back. Thus, the Deathless went from a reckless, suicidal bomb to a calculated, suicidal surgeon—a dagger plunging between the gaps in the enemy's metaphorical armor, cracking through the vulnerabilities of their front line, or targeting the elites fleeing into the back in a one-way trip after Adam marked them with his Glare of Immolating Omniscience.
+
+And such was the mission today: headhunting a rival Legend of the First Blood—a Second-Generation Elder who had outflanked Gate Piety’s forces with her own team of elite Shadows, only to find herself ambushed by Valor and Roland upon slipping through the gateway. The rest of her team didn’t survive, but she made it out unscathed. And then she did it again—and again; and a third time thereafter. With her most recent attempt, she came within seconds of unleashing a Legendary plague on the Gate—only to shift into an escape when Uva started forging a Psychomantic cage to trap her.
+
+For a third time, she slipped death by centimeters—yet not without cost in this final attempt. Her Magical Resistance crumbled as the collective mental mana of an entire Gate brushed her body, bursting her armor, and depriving her of an arm and a dimensional compass. But the physical harm she suffered was the lesser wound, for Adam's Omniscience spilled down upon her, igniting her soul, and from then she was branded. From then on, she was no longer the enemy's asset, but their vulnerability. Everyone who was immolated by that glaring Omniscience became an extension of Adam's senses.
+
+No longer was she able to operate as an assassin. Instead, she was eternally cursed with the light, eternally cursed to feed the enemy information. They kept her alive, as a Legend was impossible to replace, but a strategic leak was unacceptable for their conquest. So she found herself merged with the rest of the Burned Ones—enemy elites who were touched by Adam's Omniscience, who were no longer capable of taking on leadership positions and now found themselves in the fighting line alongside the lesser Heroes and Masters, their worth in battle going from operational to crudely tactical at best.
+
+“Ten seconds to deployment,” Sooth whispered, her mind brushing Shiv’s. Her Psychology was like a desert wind: dry and harsh, the gales of her thoughts carrying grains of erosive sand. Yet beneath the pain on the surface was a promising chill and a yearning for something beyond the horizon, beyond the desert. There was a hope there, a hope that resonated from her. Brighter than any dawn, truer than any sunrise, a hope that was altogether absent in someone like Morgan Munny. “Decoy munitions chambered. Prepare for launch, Deathless. And spread your expendables out—we won’t be able to jam their Diviners for long.”
+
+“It’ll be enough,” Shiv said. “One crack. One weakness. That’s all it will take. Same as always before.”
+
+“The same, but always different too,” Sooth replied. “Conserve yourself: not many grays spotted for this offensive—the real bastards are conserving themselves for the actual fight.”
+
+“Skipping out on appetizers again, huh?” Shiv scoffed. “Starting to feel like they don’t enjoy my cooking. Guess the Culturist was right about the rest of his kind: you can be educated but still miss out on culture. Well. More flavor for the rest.”
+
+A dry laugh left the Lone Star Diviner. “Just remember to take your cock out of your mouth before we fire you out. Wouldn’t want you to chip a tooth on your indestructible bits.”
+
+“Teeth are indestructible too,” Shiv grunted. “But I’ll take your suggestion into consideration.”
+
+“Everyone loves a humble fucking Legend,” Sooth drawled with a snicker. A psychic klaxon went off across their forces. A distant cheer accompanied a surge in morale, for they knew what was about to follow. “Five. Four. Three. Two. One… Go get some scalps, Deathless.”
+
+Then, Shiv’s part in the war began once more. He entered the fray to the dreaded accompaniment of cannon fire, the percussive blasts thundering like a cascading drum. At three hundred meters long, displacing 150,000 tons of mass, with 3,000 active Rangers aboard manning 108 mithril-barreled Colt-blessed Type-46 cannons loaded with mixed payloads, and nearly three thousand Browning-repeaters, a central jump-chamber, and twelve cast-nexuses aside, the Terminal Opus was something between a walking battleship sporting biomechanical legs and a wandering fortress with a Category-3 mana core all its own.
+
+Painted pitch black to blend better with the dark and clad in adamantine, the Terminal Opus had the aesthetic appearance of a battlefield colossus—yet, its main benefits were range, Dimensionality, and zone control. It existed as an unavoidable problem in a battle, because its arsenal reached across dimensions and horizons—with its falling shells possessed and imbued with impossible accuracy by each automaton Ranger slotted into a firing station. As such, nothing but Heroes and Legends of Stealth could close in on the Terminal Opus. And even then, the outcome there was usually death, for the darkness blanketing Gate Piety was enslaved to the infamous Deathless.
+
+And the danger of said Deathless was made exponential via the siege crawler.
+
+War was a study in economy—but the value of specific assets had a multiplicative and exponential effect on one another when operating in concert. Shiv was a Legend; he was Unique; death fueled him with greater power with every return. None of that mattered if he faced the enemy alone. It was a simple problem of arithmetic: when Shiv had a hundred Shapeless Tides gliding across his body, he could survive an average of five minutes while being bombarded by forty or so Heroic Magi if he didn’t use his Physicality for anything else.
+
+The thing was, the Heroic Magi filling the invaders’ ranks numbered a thousand times more than forty at all times. Then, their collective potency was force-multiplied by their Diviners and Scouts who tracked and designated Shiv—by their Vanguards, Riders, and chaff who spent themselves keeping him pinned and overwhelmed. The side that held the superior metric always ate their lesser with no other factors in play.
+
+But there were always other factors in play.
+
+Factors like counter-intelligence and decoys; like other Legends aside from Shiv, and other lesser Pathbearers. And then there was he himself again, able to exist in multiple places at the same time, and capable of slipping out of context for a few moments to gain an absolute advantage, as well as forging a small army from the substance of his soul to apply even greater pressure on the battlefield.
+
+He was carried off along with the salvo in more ways than one, in more bodies than one. The few hundred shells fired in the first five seconds carried in them twenty Vitaeforged golems as disposable decoys and four True-Clones masked among the following barrages. All of them were stained with his soulstuff, and so the enemy Diviners would suffer the vaguest of truths.
+
+The Deathless is on the battlefield, the System might whisper to them. He descends among the shells.
+
+Then would come the vision, but since his golems were molded from his legend and there were thirteen bodies in total, what they received was less intelligence and more chaos. And with that came an impossible dilemma.
+
+The battle in the Umbral Wilderness stretched on for ten thousand kilometers. Everything in the proximity of Gate Piety’s Abyssal gateway, once Compact territory, had been rebuilt by Uva’s Dreaming Storm. The forest was gone for as far as the eye could see. The great ravine a few kilometers away that once separated Compact and First Blood territory, the one Shiv, Uva, Adam, Ikki and other companions had once fled through while riding on the Jealousy, had been filled up weeks ago. Around the gateway itself, Psychosomatic walls and trenches went up in layers, but worse yet were the ever-regenerating fortifications that kept erupting up along the front. Uva’s Legendary-Unique Skill gave Gate Piety an undisputed advantage when it came to battlefield control and geography—for there was nothing material she couldn’t usurp with her mind.
+
+“First salvo on approach!” John Gunhead called out to Shiv. He felt the Ranger adjust the projectile trajectories of the shells, jerking up and left erratically as bolts of lightning carrying payloads of Geomancy detonated as flak. Though Gunhead was just a Hero, his Artillery Shepherd Skill was a ridiculous boon to possess amidst carnage, as not a single piece of shrapnel was allowed to graze the impending barrage. “Fucking amateur hour up here. Grayskins would have never let that shit through—grav-nets would've been cast in layers.”
+
+“Don’t think they have that option with us,” Shiv grunted with a chuckle of amusement, watching the battlefield from on high through Adam’s perspective.
+
+***
+
+Near the cavern ceiling of the local Umbral Wilderness, Adam Arrow glared down at the unfolding battle. His Immolating Omniscience cleaved across the horizon, incinerating thousands of dimensionals, golems, blood horrors, and lesser Pathbearers with each second—but their lives were worthless. Instead, he sought to designate the Burned Ones to help alleviate Shiv’s navigational impairments.
+
+The divine light he inflicted upon the night cast twin struggling armies as dancing shadows.
+
+Every offensive came in waves and took weeks to recover. On this third and newest offensive, the enemy fielded an estimated twenty-five million combatants and maybe a tenth of that in logistics. Gate Piety worked in the inverse, and for good reason. The Court of the First Blood and the Vultegs were mass-based forces that used similar strategies—the Gloved Hammer. The weaker Vultegs and blood horrors were mixed together and flung forward with little regard for their lives. They were simply meant to overrun or overwhelm.
+
+The Compact of Babel, meanwhile, was too damaged and demoralized to join the battle proper, as Piety had struck them in a pre-invasion of their own before they ever had a chance to enter the fray. The “alliance” against Piety began this travesty without coordination, without cooperation, with every side rushing to claim Gate Piety for their own. As though they were united when it came to capturing the Gate, they were divided in all other aspects. During this period, the invaders were not allies. Not nearly. Instead, it was more accurate to describe them as a commiseration, for they refused to move in tandem with each other, instead assembling their own forces in desperate pushes to reach and claim the offending gate before their rival-allies did.
+
+This proved to be a calamitous mistake.
+
+The first to pay in blood was Compact, for they had the wealth, they had the manpower, and they had the contracts, both literal and metaphysical, to summon forth unending armies of dimensionals and demons, calling enslaved populations from other worlds long conquered and bound by the will of the Lords of Law and stranger creatures still, plied and persuaded through offerings of esoteric magic and more degenerate gifts in supplement.
+
+Lord Belalu’s fifth son, a young and glorious Hero who dubbed himself the Griffin of the Golden Blade, had this force fashioned in his image. He had their armor bedecked in layered enamels of gilded brightness and forced them to assume the name Belalu's Gilded, in honor of his father, in competition against his brother. As above, so below; the microcosm of man was represented, reflecting the macrocosm of his nation against their allies as well.
+
+Microcosm and macrocosm suffered a blow at once, then, when before Belalu's Gilded could even march forth—a force eight hundred thousand strong, made up of all races and Tiers, sourced from many of the dimensions they'd conquered and compelled onto the battlefield—they were struck by a brutal offensive and invaded themselves.
+
+Gate Piety had cast the first stone, and that stone's name was Shiv. A Necromantic arrow followed that stone, detonating him within their dimensional staging grounds with the same payload Adam and Shiv had used to send a divine entity in the form of the Educator running, back when Piety was still called Theborn and under Lesser Marshal Confriga’s rule.
+
+In a flash of flame and ruin, Belalu’s Gilded, once eight hundred thousand strong, were reduced down to two thousand Heroes and a scant few Legends. The Masters were left with charred corpses and partly salvageable equipment. The rest joined the ash in the air and the dust draped across the ground. And like everything Shiv did, he never just hit someone once. A chain of Vitae explosions tore across Compact’s nearest territories, targeting critical supply depots and dimensional strongholds.
+
+The mass casualties sustained shifted their battle strategy from an ostentatious march of victory to a desperate, passive slog where they drew back their other central forces and started stationing their High-Tier Pathbearers among slaves and other non-combatants to stop Gate Piety from executing the same strategy. Unbeknownst to them, this was Roland's desired outcome, for Compact might have been rich in resources and connections, but they lacked a proper unifying mythology for their people, and when they started sustaining pain of their own, they immediately took on a shield of unethicality to preserve their own lives. A shield that they continued maintaining for well over two months as the others fought on.
+
+Gate Piety struck them time and again, reminding them to stay passive, to stay out, inflaming their loss aversion to the extreme.
+
+A similar pre-emptive offensive was carried out against all the other invaders as well—but those had all learned their lesson from prior engagements. The First Blood and the Vultegs conscripted elite Diviners for a single duty: to monitor Shiv's position at all times. When he approached, they would scramble their magi to drive him back. Costly though this strategy was, it kept them from being struck down from the first moment.
+
+And that left the orcs—who were still absent on the battlefield, even now.
+
+Even a full month after the Challenger’s unwilling fast came to a close.
+
+“Is it arrogance or education that compels them to stay their hand?” Adam asked his first faithful.
+
+The Culturist tilted his head and considered the question. “Sport, I would say. Sport and preparation. The Challenger is in no hurry—and this Quest comes second to the Holy War he has declared. A new Orchestra must be formed to solve Gate Piety, and that needs a High Maestro as well. Though my former kindred are not discouraged by death, they do not seek to reincarnate until they have squeezed every drop of thrill and sustenance from the battle.” A shrieking chorus of artillery signaled Shiv’s approach to the frontlines. The shells zipped across the air in an instant, slipping through the burst flak without a single interception. A grin split the Culturist’s brutish face, displaying his full wealth of sharp fangs. “Rangers are remarkable soldiers, are they not?”
+
+On this, Adam did not disagree. The Terminal Opus alone had proved invaluable in the offensives prior, and he had little doubt it would cement its worth in mithril once more this day. But if the Rangers were strategic silver, Uva was operational gold. Her Terrorspawn were the lesser assets in play, though the thousands of eldritch monsters that constantly spilled out of Gate Piety’s Skein of Hollow Dreams Skill blunted the overwhelming odds Adam's forces found themselves faced with. It wasn’t just their constant supply either—though the blood horrors could smash through certain Terrorspawn with sheer weight, they mostly just died when they ran into a creature born from a fear of heights or got lost in an eldritch pit that digested them.
+
+This divided the focus of the invaders’ magi even more—and that was already a problem since they needed to solve the supreme problem of Legend Uva Mettabon herself. In the early days of battle, they tried to tear through her storm directly—as even if she was a Legendary-Unique Psychomancer, the collective power of their magi overshadowed her presence alone.
+
+This assumption resulted in a series of mass casualty events as the enemy magi ended up tainting their own mana fields with Outsider corruption, which caused their spells to fizzle and their wards to collapse. A butchery followed, as without any functioning magi, Shiv entered the fray as the other half to Uva’s supreme problem—with the two of them forming a singular dilemma.
+
+If the invaders wanted to assault Gate Piety, they needed to overcome the Dreaming Storm that kept reshaping the battlefield—as it was doing right now. With Uva's thoughts, cities rose from nowhere, turning open-field charges into desperate close-quarter affairs. Though shattering the structures was easy, more often than not, Vanguards would find themselves charging down psychic bridges and placed within killboxes—or worse, directly in front of Shiv or, not much preferably, Sir Marikos. And if enemy magic wished to tear her magics down, they needed to partially rupture their own fields afterward to stop themselves from being consumed by an eldritch infection and the swarm of fractured spiderlings it carried.
+
+But if they focused purely on her to push the offense, then they would be shattered defensively, for they needed magic to put the Deathless down. There had been one attempt to eliminate him via a team of Low Legends assembled from the finest pure Martials among the First Blood, Compact, and the Vultegs.
+
+To their credit, they managed to overburden Shiv’s Onus of the Scarforged Unbreakable enough that he was left rooted in place. The cost was eight dead Low Legends and the final collapse of their first offensive as the rest of Gate Piety’s elites pushed forward in an uncontested rampage that was only held back when an entire Court of Second-Generation Elder vampires allowed Lord Scorn to use one of them as an Avatar, as all seven million Vultegs of the second wave had perished in battle.
+
+With that, things began to change. The First Blood and the Vultegs drew closer—cutting Compact out of the arrangement entirely for their impotence while restructuring their own battle plans. Instead of fighting like a numerically superior force willing to rely on raw attrition, they were forced to conduct strategy—and named a central Field Marshal to guide the conflict: the mysterious Legend-Assassin Maria Corcusa of the First Blood—Second-Generation Elder of Bloodline Ophereus.
+
+For two weeks, nothing happened. For two weeks, there was relative peace as the invading alliance threw up dimensional barriers to delay Adam’s Omniscience while recouping their forces. Then, in the third week, a series of assassinations shredded Gate Piety’s scouts as a new offensive took form in two parts.
+
+Instead of rushing Gate Piety en masse from the First Blood territories, they sacrificed thousands of Masters and Heroes to give their chaff a chance to close in. The first wave of Masters and Heroes were not Vanguards, but dedicated infiltration teams—their deaths came fast, yet not fast enough. Adam found himself taxed of time as he turned his gaze away from the frontline to burn the hidden out of the dark while the rest of Piety did the same. But it was also a massacre in two parts, as Gate Piety’s lesser Pathbearers and dimensionals were the first ones hit before their attackers joined them in death.
+
+New volunteers recruited from across Yellowstone took the worst of the losses—being too lax when it came to their personal security on patrol. Observation posts went dark across the frontline. Border wards were disassembled by the intruders; a series of bombs nearly went off within the Gate; and a particularly bold Thief got within ten meters of Adam—before he combusted before the presence of his Domain of Heroism. Chaos unfolded across Gate Piety; their strategy had been turned against them. And while that chaos was active, the true hammer fell while Uva was locking down the Gate.
+
+The second wave came from all sides as the blood horrors were teleported forth in an attempted encirclement—which promptly failed as they were too thin in the north and were breached in seconds when the local Dragon-Knight garrison rode out. From there, Gate Piety began teleporting their own orc renegades across the backline, resulting in a counter-encirclement of the enemy along the north and western sectors.
+
+And now, they were once again responding to another grand offensive—except this time, the frontline was uncomfortably close as Uva was unable to focus on holding their first three lines of defenses. As such, the fighting was happening right on the borders of Gate Piety, with the invaders driving the unsupported Terrorspawn back—causing the near-gateway turrets to come alive and spit arcing flame and acid for the first time.
+
+“We’re too top-heavy, aren’t we?” Adam asked the Culturist. That felt like a question his father might ask—and with Roland’s absence and the near catastrophe that followed it, the younger Arrow couldn’t help but cringe. This would have never transpired under Roland. It had barely been a few days into his Delve, and the Gate was intruded upon half a dozen times over. For all Adam’s Omniscience, he wasn’t omnipresent. And though his first reaction was always to blame himself for coming short of perfection, he couldn’t afford to play prideful games while his home was at stake. “We need more Mid-Tiers. A lot more. A lot more that aren’t orcs. I’m tired of doing loyalty purges. We need mass, Culturist. A collection of Legends is power, but not true mass. We have no core.”
+
+“Building a reliable middle class takes time,” the Culturist noted.
+
+“Time we do not have,” Adam growled, gesturing at the battlefield.
+
+The Culturist smacked his lips. “I disagree. The enemy surprised us indeed—but only because they thought recklessness to be their ally instead of ours. Even if they reached the gateway, that wouldn’t be the end, but more of a start, for then they would have to contend with the mana core directly, and the Ascendants besides.”
+
+“And Gate Piety would be humiliated. Our mythology as an impregnable city would turn to dust, and—”
+
+“Then you will learn how short people’s memories are—and the worth of propaganda thereafter.” But before the Culturist could elaborate, a thunderous impact interrupted their conversation. The incandescent mists of the Divinity lurking within Adam and surrounding them froze a beam of corrosive mana projected at them from kilometers away. With a flick of his fingers, the Culturist disassembled the offending Necromancy. “Hm. Necrotech spell. A hired Sell-Skill, I suspect.”
+
+Adam glared in the direction of the spell, but he stayed the course and scythed his Immolating Omniscience across the battlefield. Flashes of sickly green magic blinked over the horizon as more attacks came. All of them jerked to unnatural stillness within the fifty meters occupied by Adam’s Zone of Absolute Dominion. “Fools.”
+
+“No.” The Culturist sighed. “Just ignorant. After all, Necromancy withers almost anything. Just let them struggle against the absoluteness of your Divinity so they don’t turn their magic on someone they can actually hurt.”
+
+At that, a series of inertial discharges disintegrated tens of thousands of Pathbearers. The complex weave of spell patterns amongst the enemy suddenly twisted away from wrestling against the Yellowstone-loaned Poly-Magi formations to desperately trying to eliminate the Deathless before he collapsed their offensive all by himself.
+
+“Shiv,” Adam said, a faint smirk spreading across his face. “Do you know what I’m seeing from up here?”
+
+Across their mental link, the Deathless moved forward—all twenty-four of his bodies—as he splattered through the blood horrors and Adepts like a hurricane might rip through a city of brittle glass and rotted wood. “Too many survivors?” Shiv asked innocently.
+
+Adam barked a laugh. “Remarkable! You got it in one! Now change that. And bring me the head of their Burned Ones. The fact they still have any Legends at all offends me.”
+
+“Yes, Demisaint Asshole! Your words! My will! Mass death and horrific violence for peace!” Being the prick he was, Shiv threw a unified salute across all his bodies to mock Adam as he set about doing just that.
+
+“Bastard,” Adam grunted, though a chuckle escaped him.
+
+“Children. Focus.” Such were Uva’s only remarks—but they were all that was needed. The banter had gone on long enough. Now was the time for blood and trauma to flow in the direction of the enemy; today was the day that the third offensive on Gate Piety savored a miserable death at the hands of an Endhound in human flesh.
+
+The Culturist and Paragon watched as an eruption of plagueflies and darkness crashed over the invaders, and a once desperate stalemate began tilting toward another genocide. Screams of despair and acts of desperation exploded across the battlefield as the march on Gate Piety turned into a series of last stands against He Who Rises From Ash Eternal.
+
+“Our Deathless is turning into quite the little apocalypse, isn’t he?” the Culturist mused.
+
+“Quite,” Adam agreed as he shaped a Shard of Exalted Flame along his Spellstring to start picking off the distracted magi. “Now, let’s see if we can finally push his Legion of Self to the next tier and remove that ‘little’ in front of apocalypse.”
+
+My Mind Shaped By Total War 201 > 202

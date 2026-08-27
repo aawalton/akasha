@@ -1,0 +1,183 @@
+---
+id: 0e9111ed-5860-5ecb-a7db-b6087547cca0
+page-type-slug: story-chapter-royal-road
+title: "314 (II) To Break a Curse [XI]"
+slug: 0413-314-ii-to-break-a-curse-xi-3159587
+partOf: path-of-the-deathless-book-4-completed
+position: 413
+ownLength: 3444
+unit: words
+publishedAt: 2026-03-16
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3159587/314-ii-to-break-a-curse-xi"
+royalRoadId: "3159587"
+---
+
+314 (II)
+
+To Break a Curse [XI]
+
+As if the world was working in cohort with the Deathless, another section of the roof above broke free and shattered itself upon his head—and the boy didn't flinch at all.
+
+Veronica couldn’t help it. The psychotic boy’s sheer audacity made her snort and break into a slight smirk. Ridiculous. Utterly stupid. And yet, what an entertaining, arrogant madman you are. Exactly the kind of Pathbearer the System loves. But unfortunately for you, I cannot abide by such disrespect in my own home.
+
+The Councilwoman opened her mouth to cut her prodigal descendant down to size with a verbal jab. She was promptly interrupted as another stupid child decided to enter the fray.
+
+“YOU DARE INVADE THIS SACRED PLACE!” Gilman Stormhalt roared. The Adept-Tier idiot leaped over a bannister and a small mound of debris. He gave a warbling battle-cry as he blasted free from the protective shadows. His hammer was raised high over his head, and it glowed radiantly, like a gem harnessed from pure starlight. The air around it combusted in a ball of flame, and he brought the full weight of his might and Pyromancy down upon the Deathless.
+
+The scene played out like a moment from an epic, of a noble hero serving the light of the Ascendants striking down a beast born of unliving darkness. And such was how Gilman likely saw himself: as an avenging paladin upholding the honor of his people and his gods.
+
+It would have been such a glorious moment if the end mirrored the stories as well.
+
+Too bad the System cared little for heroism. No, this wasn't a story about epics or ability. This was a story about monsters and the people who strive to prey upon them.
+
+This was a tale of blood and strife.
+
+To Gilman's further credit, his hammer burst apart like glass against Shiv's skull instead of flying out of his hands. A blast of fire engulfed Shiv's face, but when it faded to steam, he remained unharmed, frowning down at the little Adept he found beside him. “Really?” he asked.
+
+The young Stormhalt’s eyes widened only for a moment before he continued his full-hearted assault. He struck out with fists and knees, somehow thinking that they would do more damage where his hammer was broken. He channeled beams of Pyromancy with every blow, but they diffracted against Shiv without even charring his bones. “You will fall, Abyssal cur! I will die before I let you—”
+
+A resounding snap followed as Gilman's right fist connected with Shiv's armored skull. The Stormhalt took a few steps back and tried to hide the fact that he was in great pain. It didn’t quite work.
+
+Shiv leaned in and seemed to squint at Gilman's damaged hand. “Think you fractured your middle knuckle. One of the bones is floating.”
+
+“Silence!” Gilman cried. He threw a looping left hook, and another crack resounded through the quiet forum.
+
+“Yeah, that was your left wrist,” Shiv continued, sounding sympathetic.
+
+Gilman's cheeks were puffed and inflamed. Part of it was embarrassment. Most of it was agony. “I will bring you down for the glory of the Republic!”
+
+Well, poor Gilman’s death came sooner than I expected, Veronica thought with a wince. There would be little left of Gilman to bury in a few moments. The only reason why the Stormhalt boy had survived this long was that he'd confused Shiv by being even more aggressively suicidal than he was. That novelty had worn off. Now the inevitable would follow.
+
+“What even are you? An Adept?” Shiv looked Gilman up and down as the latter began flinging elbows and knees. “Hey, knock that shit off.” He reached down and casually plucked Gilman off the ground.
+
+“Unhand me, you brute!” Gilman cried, flailing around.
+
+Shiv didn't. Veronica expected Gilman's head to be crushed into paste, but instead, the Deathless continued studying his victim-to-be. He seemed to find Gilman fascinating. Or maybe he was just considering what horrific tortures he could inflict. Gilman wasn't a small boy. He was almost two meters in height and possessed of an ox-like stature. Next to Shiv, however, he was practically a toddler—as were most individuals.
+
+But though he looked like a skeletal monster, he surprised Veronica yet again by dropping Gilman without harming him. “Ah, get outta here. I’m not here for you.” Shiv’s pale-white irises snapped back to where Veronica sat. “I’m here to speak with her.”
+
+***
+
+“What?” the Adept choked. The bones in both his arms were like a broken mess of splinters. That's what happens with better Physicality than Toughness and little control, Shiv chided internally. The black-haired dipshit tried to make fists, but he couldn't even close his fingers anymore.
+
+“You heard me,” Shiv repeated. "I'm not here for you. I'm here to raise a few problems with the Councilwoman.”
+
+The man's nostrils flared, and he tried not to sniffle from all the pain he was holding back. He adopted a facade of rage-filled bravado instead. “How dare you? I am Young Lord Adept Gilman Stormhalt—”
+
+Shiv snorted as he kept an eye on the others in the room. There were around two hundred life signs present. He was only concerned about less than a dozen of them. Two of the attendants were High Heroes, from what he could tell. He was surprised to see that only one of the Council members, aside from Veronica and the unshaven man next to her, the one that had given his soul a nasty flu in the Rubix Well, seemed to be a Legend. Their Biomancy field had an odd texture and projected an incredibly potent weight, but he wasn't entirely sure. Still, all of them were leaking some measure of divine mana, so they were to be watched out for.
+
+“Stormhalt,” Shiv repeated after a beat. He shook his head in amusement. “Yeah. Figures. Look, I don't give a shit if you're a Stormhalt. I'm done killing Adepts if I can help it, though, so you can leave if you want.”
+
+Gilman clenched his teeth and roused his spirits against fear. It seemed that he was determined to walk the path of a "hero.” He stood his ground instead of retreating behind Harlock's skirt, desperate to earn an unneeded death at the hand of someone who didn't even want to kill him. “I will not dishonor my house, and I will never dishonor the Republic. If you wish for me to retreat—”
+
+“Gilman, I'm gonna kick you in the nuts now, alright?” Shiv's right foot shot out before Gilman could give a measured response. His Shapeless Tides modulated his strength. Even so, he was a Legend tapping the testicles of an Adept, and the latter's Physicality and Toughness were both wanting. To Shiv's credit, he didn't kick Gilman in half. To his further credit, Gilman didn't even die. However, he still struck a little bit too hard. Enough that both of the spherical organs broke free from where they were once situated and blasted out from Gilman's body and pants.
+
+"AGH!” a bystander cried out. Spitting and coughing ensued. “My mouth was open! It felling got in my mouth!"
+
+The fate of the other testicle made itself known as a wet, squelching sound was followed by someone crashing to the ground.
+
+Gilman went cross-eyed. His lips quivered. His arms shook. He looked like he was experiencing a euphoric vision, a revelation bestowed upon him by the System. Slowly, his legs crashed together, and he descended to the ground on his knees, clutching at something that was no longer there. “You, you, you monster!” he managed to spit out between heaving gasps.
+
+“Sorry, man. Was really just trying to take the fight out of you.” Shiv wasn't lying. He genuinely felt bad. It was supposed to be a destabilizing blow, not a crippling one. “Look, just go see a Biomancer. They should be able to un-eunuch you.”
+
+“You have made an enemy for the rest of your life, so swears a son of House Stormhalt!”
+
+Shiv just shrugged. “Sure. I'd really recommend seeing that Biomancer if you ever want to give your house another one of those, but you do you. Anyway, Veronica. Get your ass down here. I got something to say to you.”
+
+He watched the darkness around him. The tendrils of black reared back like the heads of incensed snakes, but there was an apprehension to them as well. Cutting into Harlock's body had felt more difficult than cleaving through the Supplicant, even if Harlock’s darkness was more viscous. But unlike the Supplicant, the Ascendants were far less reckless, far less primal. They feared losing aspects of themselves, and with him capable of chipping away at their magic and soulstuff, Shiv presented a danger greater than even his current Tier.
+
+“You finally bothered to open the letter, then, I assume?” Veronica’s voice echoed from his left. Every syllable she spoke felt like an adamantine fist driven into his chest.
+
+Shiv leaned into the blows to keep his balance. “Yeah, frankly, I got caught up by all kinds of other shit I had to deal with first. You weren't exactly far up the list of important issues.”
+
+Veronica hummed, refusing to take the bait. “I hope you didn't open it in a highly populated area.”
+
+“Well, you can take those hopes back, because a lot of people died from your words.”
+
+Veronica placed her chin in one hand, elbow resting on the table before her. “People or orcs?”
+
+Shiv considered his reply. “Well, I'm a people, so at least one people died. The rest were orcs. But that’s not the main thing. Main thing is that I need you to knock this shit off.”
+
+Comedy 13 > 16
+
+A pause followed, one that was pregnant with incredulity. A pained noise escaped Veronica. The kind one would make when they were processing an unreasonable request. “You want me to do… what?”
+
+“You know, call your dogs off. Tell them to move away from Gate Piety. For their safety too. Wouldn't want them to run into any wild orcs, would we?”
+
+The Councilwoman wheezed. “You came here, exposing yourself to everyone, risking capture—no, all but ensuring your capture or execution, to threaten me? To make demands that you have no capability of forcing?”
+
+Biological signatures began to mass in the space above Shiv. The building pressure in the air betrayed just how many people were being teleported in. The Prismatic Guard was responding. The only reason why they hadn't cast a spell on him or taken a shot yet—
+
+A dimensional ballista bolt smashed into the back of Shiv's head and broke through the front of his jaw. He casually ripped the projectile out and tossed it aside before flicking a cut across the Grudge-Tether. The satisfying sensation of sundered metal and split flesh greeted Shiv; he found himself rewarded with a level for resolving the distraction.
+
+This Severed Shadow of Blood and Bladed Soul 191 > 192
+
+He returned to the conversation like nothing had happened. “Anyway,” Shiv said as soon as he reconstructed his jaw. “Tell them to piss off, or I'm gonna try dealing with them the other way. And I don't really want to deal with them the other way. Frankly, I don't really want to kill anyone anymore. Not if I can help it. Don’t really want to play the System's games. Only want to cook right now.”
+
+“Boy,” Veronica began with an agitated sigh. “If you're going to talk to me or taunt me, do it seriously. I'm not here to be your plaything.”
+
+“I am being serious.”
+
+“No, you're not. I know you're not because you've butchered well over twenty people today alone. Killing our Inquisitors, murdering matrons at an orphanage, and the children—”
+
+“Hey, that matron splattered herself trying to kill me. The Inquisitors aren’t people. And The kids are alive. Actually, that's one of the things I came to talk with you about—I’m keeping those kids. Meanwhile, Fuck you. Fuck your Inquisitors too, for a start. I know about you bastards sacrificing the orphans to let Daughter do System-knows-what, so you better let them go—and let the ones you have caged for whatever fucked up ritual go too. If you don't, I'm going to keep coming for your Inquisition anyway. I haven't exactly been killing those guys for fun. They had it coming.”
+
+“Oh, please. Is that how you justify your actions to yourself? By making all your enemies seem evil?”
+
+Anger was practically a muscle to Shiv by this point, and it was flexing hard. His body cracked and grew another half-meter, and his mind cleared as rationality took hold. “I'm not justifying anything. That's just what you are. You're using people like things. You are using orphans like things to feed a degenerate Ascendant that's broken.”
+
+“Blasphemy!” a cry came from behind Shiv. He grew eyes on his skin-whip and saw a ball of lightning tumbling toward him. Shiv stabbed the tip of his whip into the sphere, knocking it back and returning it to sender. But the Aeromancy spell was caught by Harlock's shadows and held in place. A dozen more magical attacks came from all directions. Sharpened pieces of earth, beams of light, bolts of stormfire, and icicles infused with gravity came to claim his life from around and above. Shiv's skin-whip coiled around his body, parrying each one in quick succession. Mixed in were arrows, bolts, boomerangs, and more. He flung those back as well. His Inertial Overdrive thundered around his body in delight. Fed from all the excess energy he'd been building up, anything below Heroic Reflexes moved like it was traveling through mud.
+
+Return to Sender 156 > 158
+
+The attacks didn't stop. Instead, they became a constant hailstorm coming from all directions. Shiv extended another Bifurcated Processing tendril and ignored how his body was burning itself away. This body wasn't meant to last. It was here to have a conversation. And that’s what he focused on instead of all the people trying to kill him.
+
+“You know I'm right, Chandler. You know this is wrong, you know it's all pointless. You know that Daughter is more like a rabid animal than an actual god. You don't need her; frankly, death might be a mercy for her.” Shiv filled his voice with power. Every word he spoke was like a pressure bomb going off in the air. The kneeling Gilman was blasted back into Harlock’s roiling darkness. The onslaught continued. Bits of Shiv were chipped away. More of him turned to ash, burned by the cognitive cost of sustaining an active defense. A black spear erupted from his chest and vanished before he could grab it.
+
+“The will of the Ascendants is beyond you, Deathless,” the Councilwoman responded. “They are not yours to judge, and their fates are not yours to decide. The same cannot be said the other way around. You made a mistake coming here. Powerful and resilient as you are, you have done nothing but return yourself to our hands.”
+
+Shiv tried to reply, but an invisible slash took his head off. He responded by creating a vertical mouth down his torso and continuing the conversation anyway. “No, I'm just here to have a conversation. When I'm done with this conversation, I'm gonna kill myself and leave. And I really don't think there's much you can do to stop me.”
+
+Eldritch Physiology 65 > 68
+
+Veronica let out a scoff. “I fear you need to improve your Memorization skill. We don't need to whittle down your body or mind when we can go directly for your soul.”
+
+This disappointed Shiv. He knew what was coming. “Really? The soul-flu knife again? Look, if you haven't noticed, I'm not actually breaking anything or killing anyone. I seriously came here to talk things out so you can stop being a boil on Adam's ass.”
+
+“Then you should have written to me privately, like a cultured Pathbearer, rather than a bull charging into a slaughterhouse.”
+
+***
+
+Harlock's embrace tightened around Anthony. The shadows danced, hiding him from sight, sound, and all other forms of detection. He was sequestered from the world, and the blackness was densest around his upright hand, shrouding a short dagger of faint, supple blue.
+
+The House Representatives around him cried out in strain as they shaped a barrage of new spells. Every second, a beam, missile, or blast of some kind would sail out to strike the Deathless. They were chucking pebbles at a mountain. The Prismatic Guard, meanwhile, couldn't unleash their most potent spells, for they risked collateral damage. If the Deathless acted with the faintest modicum of foresight, Anthony would have assumed this to be a strategy on the boy's part, a means to protect himself from true danger. But he was a reckless animal—a disappointment in all regards. He was blessed with a Path beyond all the Paths, but like so many promising children, he betrayed himself with his foolishness.
+
+And now an old man was going to open the throat of one far too young.
+
+Worst thing about being heedless is that every day, every atrocity, every ugly moment becomes a cycle. Repeats. A strange feeling pulled at him. Anthony wondered if Veronica ever had these thoughts.
+
+Slipping between twin automata who were unleashing streams of concentrated frost, Anthony twirled his blade and felt the presence of his god draw nearer.
+
+“Stride forth, my Avatar. He will never see you. I will ensure it. Put an end to the Beyonder's mistake. He needs to be taught the folly of his ways. And if you can, finish the boy for good. You are due a proper reward.”
+
+The old Councilman just chuckled. He'd known Harlock since the beginning, even before the degradation. The Midnight of yesteryear would have never suggested something so underhanded, but now he was nothing if not a creature of lies, subterfuge, and schemes. But he also saw lies, subterfuge, and schemes in every corner, within the hearts of every person. He yearned to overfeed himself on control—to make sure his Avatar was the strongest as well.
+
+But Anthony wasn't a withered creature. Anthony had played this game for far too long, and he had failed. He had failed to create the utopia he yearned for. He had failed to stop his position from being usurped by a certain foolish girl. He had failed to even save his own pride. But he had also been spared. The only reason why he was still alive after all these years, among all the different councils he'd been on, was because of her. She wasn't a sentimental creature, but she did hold something in her heart for him. And Anthony felt much the same about the girl.
+
+They weren't people, not really, not anymore. Even without divine degradation. But with each other, they were as close to being human as they could remember. Old histories, old memories, old stories, old songs, long forgotten by the children of the present age, lost even to their Ascendants, pitiable creatures who couldn’t even hold onto themselves.
+
+Anthony wondered if they were going to look back on this day in ten years, fifty years, a century. He wondered if they would still recall the Deathless. He wondered if he could. He'd killed so many boys. Most of them he regretted killing. Few of them he remembered the faces of. Maybe this boy would stand out amongst that sea of corpses. But Anthony suspected he would blend in with the crowd somewhere down the road.
+
+He didn't look quite unique enough to earn his own spot.
+
+The air around the old Councilman hardened. His Reflexes ignited, spreading through his veins and infusing his muscles with a force beyond force. A path manifested before him, a lane that he would accelerate along—faster than pretty much anyone on Integrated Earth else could react. His Legendary Reflexes took time to charge up, but after a few seconds with a target acquired, there was no one quicker than he was.
+
+His soul-mutilating blade grew bright with mana and high with song.
+
+But just before he plunged forward, a sudden chill licked the back of his neck. Anthony spun and slashed backward without thinking, faster than speed, smoother than wind.
+
+He cut nothing.
+
+But the feeling was still there. His nape was wet. And there had been a presence, a mana signature, one he'd almost forgo—
+
+“If you try to drag that blade across the neck of my disciple, then expect me to visit a fate far more unkind upon you, boy.”

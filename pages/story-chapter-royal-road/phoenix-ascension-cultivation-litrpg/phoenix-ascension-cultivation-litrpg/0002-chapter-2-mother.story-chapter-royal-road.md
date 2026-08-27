@@ -1,0 +1,173 @@
+---
+id: f95f7d06-1dbb-50d5-a5e0-25214a11c852
+page-type-slug: story-chapter-royal-road
+title: "Chapter 2: Mother"
+slug: 0002-chapter-2-mother
+partOf: phoenix-ascension-cultivation-litrpg
+position: 2
+ownLength: 2508
+unit: words
+publishedAt: 2025-08-17
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2525619/chapter-2-mother"
+royalRoadId: "2525619"
+---
+
+The Spirit Beast that captured me turned as well, its loud screech sending a shiver through my body. The humans stopped, shock and wonder on their faces.
+
+They all wore a different uniform, each with a different symbol plastered on their right chest. A belt strapped over their waist showcased a different number in the center, and the colors differed, albeit only slightly.
+
+They didn’t look strong, though all of them floated, or rather, flew in the air, as well as the thing that captured me.
+
+Their eyes shone with greed more intense than the vulture’s, and my senses told me that their strength far surpassed it as well.
+
+However, as the one that grabbed me rose in the air, the smiles on their faces disappeared altogether, and their eyes widened with fear. Before I could register what happened, a powerful stream of fire descended upon them.
+
+They tried to run away, but something impeded them from teleporting, and the fire far outsped them. The sound of shattering glass echoed through the air, as necklaces and jewelry on their body disappeared into nothingness one after another.
+
+However, when they had nothing left, their flesh began to melt, and their clothes turned to ash.
+
+At that moment, the unmistakable smell of death surrounded me. Such a thing was hard to fake, and even if someone managed to recreate it, there would be differences from the real thing. I’d killed my fair share of humans, beasts, demons, and gods, so I was very familiar with death aura.
+
+I’d realised then that this wasn’t a mere illusion, but reality.
+
+One of them, a man dressed in black and white, didn’t sustain any injuries in his final moments; instead the air rippled and he disappeared into nothingness, much like the other objects.
+
+Did he use a secret technique to teleport? An artifact? I wonder what their level of cultivation was.
+
+Those thoughts distracted me from the fact that I was still trapped by the giant Spirit Beast that had grabbed me, and though its attacks were scary, I couldn’t just sit still and become its prey.
+
+“HEY, PUT ME DOWN YOU STUPID THING! DO YOU EVEN KNOW WHO I AM?!” I yelled, hoping to get through to it.
+
+I wasn't even sure we spoke the same language, but it was worth a try. The ground disappeared beneath me, the lush green forest becoming nothing more than a small patch of color covered in fog as we passed over the clouds.
+
+The creature’s sharp talons gripped around my small body, almost like a cage. I couldn’t move at all, as even turning my head proved to be a challenge, though it didn’t hurt so much as it inconvenienced me.
+
+“Hey! I said pu—” However, whatever cry I wanted to leave my body got cut short. The strong wind took away my view, making it so I couldn't even squint my eyes, remaining unable to see where we were going or what grabbed me.
+
+Their wings generated a great amount of wind as well, a clear sign that they weren’t part of any ordinary-sized beast. My best guess was that it was a bird or dragon of sorts, and the fact that it didn’t kill me on the spot meant that it most likely had babies to feed.
+
+Great… just what I needed…
+
+I thought, reflecting on how I could escape once it put me down. Burning down the nest with my Nirvanic Flames would be difficult, given that they aren’t strong. Even if I did manage to do that, I doubted that the parent would let me go without putting up a fight.
+
+I need to find a way to escape before I become food. Again.
+
+However, any and all plans that I could come up with ended with me dead. Even as a Phoenix, I doubted that I could survive a fall from so high up. It was quite clear I couldn’t fly just yet, as any sort of feathers I had were shorter than my previous pinky fingers had been.
+
+The creature’s flapping began to cease as we descended into a glide, and so I was finally able to see. Though there wasn’t much to see in the sky besides multi-colored clouds. The sunlight scattered upon them, creating a purplish orange painting that stretched way beyond the horizon.
+
+In the middle of the painting stood a series of impressive, tall, jagged rocks, each one sharper than the other, except for one.
+
+It was much shorter than the rest, with a much wider tip, on top of which was what I could only assume to be a nest. From the looks of it, the rock got sliced in two, or the top ripped off, so that the parent could build a large nest on top of it.
+
+It seems like the creature dragging me here used one of those peaks as its nest. That's pretty smart.
+
+However, admiring the ingenuity did me no good, as I would soon become food for whatever baby creatures that thing had. How ironic, babies eating babies….
+
+The thought was a little weird, but it was undeniable that I was indeed a baby animal as well. It seemed that my parents didn’t care that much about taking care of me, seeing as I hatched in a jungle.
+
+The nest soon became clearer as we approached at startling speeds; however, much to my surprise, there were no babies in sight. Two egg-shaped objects poked out of the nest, though the tops of their shells had holes in them.
+
+As we neared, I noticed faint traces of blood littering the nearby stone, with even more of it painting the golden-brown nest with a crimson color. What happened here? Can it be that something attacked the nest?
+
+I had no answers to my questions, at least not at the moment; however, the closer we got, the more I noticed the aura of cultivators.
+
+Some parts of me already knew what had happened, but that only made me ask even more questions.
+
+Why is it still bringing me here then? Does it want a little grief snack?!
+
+We finally reached the nest, inside of which were small pools of blood that let off an iron-like stench, which lingered in the air. Some human parts littered the area as well.
+
+Heads, arms, legs, some organs… The fight that had taken place there was one hundred percent more brutal than the one I had with the vulture.
+
+I could already tell the corpses were beginning to rot, which meant that the fight had taken place at least one day ago.
+
+It seems that it didn’t come out on top, though.
+
+I thought as we floated over the eggs, their large size and thick white shell reminding me of my own.
+
+Could it be…
+
+The creature lowered me to the ground with as much care as it could, its iron-tight grip releasing me onto the dirty, yet soft mixture of hay, clay, and leaves. As I got up, its shadow danced a few circles around me before it began to land.
+
+My head was still spinning from the lack of oxygen and fast movement, creating a certain type of nausea I wished I never had to experience again. That was, if there was another again for me.
+
+Struggling to stand up, I shook my head, a shiver running down my spine, making my fluff stand on end. A loud, yet somewhat calming screech landed in my ears, and as I looked up to gaze at the source, my eyes widened.
+
+Nothing could have prepared me for the majestic being that covered my entire vision. It descended onto the nest, each flap of its wings sending a faint wave of warmth slithering through my fluff.
+
+It was almost like it was the living embodiment of fire, and I could feel its strength even though it held no malice against me.
+
+Its feathers glowed with an incredible brilliance; their amber hue, mixed with some sort of scarlet gold, gave the illusion of a living fire dancing within its plumage.
+
+The purplish gold drew a beautiful, stark contrast with the bird, completing the painting I saw the first time I laid my eyes upon the sky.
+
+Each flap of its wing radiated grace, each and every feather exuding a royal aura that made one want to bow in worship.
+
+However, that aura gave me another feeling, one of closeness, and another of desire; One that I couldn’t even remember feeling before.
+
+Its wings tucked close to its body while landing, the entire foundation of the nest shaking as its thin legs sank into the uneven clay.
+
+They were the same talons that had carried me there. Compared to my chicken-like drumsticks, they were much more elegant. Not only that, but its shape, as enormous and majestic as it was, seemed much thinner from up close.
+
+As I looked up at it, our gazes locked mid-air. Its eyes, decorated with a streak of black, almost like makeup, gleamed like molten amber, burning with an incinerating sense of power and ruthlessness.
+
+However, deep within its glittering eyes, I could see a hint of kindness, and perhaps other emotions I couldn’t quite get.
+
+It let out another powerful screech, its sharp, elegant voice echoing against the vastness of the sky. I didn’t quite understand what it said, but I could feel something linking us, something that was… warm. It eyed the blood puddle and the human remains, sneering at the sight.
+
+It lifted its wing and a spark appeared at the top of its feather. It evolved into a torrent of fire that swept past the impurities within its nest. I watched in awe as everything that wasn’t part of it disappeared without a trace, not even the ashes or smell remaining.
+
+Such exquisite control of fire, and what a powerful one at that…. So, this is the majestic Phoenix…
+
+As I recalled its name, another slight headache washed through my mind, though it didn’t last for long, and it wasn’t as strong as before. At least it wasn’t strong enough for me to writhe in pain. Something deep inside of me hated the mere sight of the Phoenix, though.
+
+However, I had a feeling that if I tried to recall why another skull-splitting headache would befall me— that was the last thing I wanted at that moment. I couldn’t show weakness.
+
+Somehow, I believed I was much stronger than it in the past. As for how strong exactly I couldn't remember.
+
+The Phoenix’s own fire was much weaker in quality than my Nirvanic Flames, but the sheer quantity and strength far outclassed mine. It was like comparing a firefly’s light to the moon's shimmering brightness.
+
+For now…
+
+I was already making new plans upon seeing that I wouldn’t be food.
+
+If it wanted to eat me, I would already be dead. There are no chicks here either, well… besides me.
+
+That was when it dawned on me. The warm feeling I felt toward it, the kindness within its eyes as it looked at me, and the way it carried me with such care spoke enough of its actual nature.
+
+Could it be…
+
+It had to be— there couldn’t be any denying it. The box thing said that my class was ‘Phoenix Chick’, and before me stood a living Phoenix.
+
+This Phoenix was my mother…
+
+I pulled my gaze away, turning one hundred eighty degrees and looking at the two large eggs I saw when I landed. The way cracks covered their surface looked anything but natural. Countless marks covered their surface, way more than the ones my egg had from that damned vulture. That and the blood told me more than I needed to know.
+
+Humans attacked the nest and forcefully broke open their shells, stealing them. Somehow, I was placed in a safer spot, or I was hit and fell, my landing creating a small dent in the ground. It seems that Phoenix eggs are extremely sturdy, for them not to crack from such a high fall. Yet… somehow these humans did it.
+
+I turned my gaze toward the Phoenix, its features becoming increasingly mother-like. The outline around her eyes made them look much smaller, and stood out at the same time, and the feathers around her tail were longer, circling upward.
+
+A ruby-like shape at the end of the curls shone with a vibrant orange hue, and even the way she bore herself reminded me of some fancy court ladies. I think I hated them, which may also add to the pre-added hatred of the Phoenix I had.
+
+The fact that I couldn’t remember why I even hated something bothered me to a great extent, but I was sure that the box thing had all the answers I wanted, and more. I just needed to get to the bottom of it. However, I couldn’t trust the Phoenix, even if she was my mother. The origins of the box were still foreign, and if anybody coveted it, I would be in quite the trouble in my current form.
+
+Though I wasn’t exactly sure what I was going to do. I was stuck in a nest who knows how many miles above the ground.
+
+Trying to cultivate Qi would be the first and best thing I could do. I’m not sure what the difference between Phoenixes and humans is in terms of cultivation, but I refuse to risk being powerless.
+
+Despite my thoughts, it seemed that my mother had other plans. She broke me out of my trance with a light bump on the head, pushing me toward the eggs.
+
+Afterwards she used her legs to break off a few pieces of the shell of my former siblings, broke them into even smaller pieces, then dropped them at my feet.
+
+She looked at me as if waiting for something, continuing to break the shells apart. I could tell that she was hesitant to do it. Losing two children to humans and almost having one killed must not be treating her well
+
+My stomach growled in response to the massive amounts of shell bits piling up before me. As much as the thought of eating eggshells disgusted me, it seemed that I had no choice.
+
+I tried picking a few pieces up with my wings, but that worked about as well as I expected. Even though doing the hand signs worked with a certain degree of success, I had no hands or fingers to speak of. The realization of not being human fully dawned on me at that moment.
+
+What am I supposed to do? I don’t want to live as a bird forever…
+
+At that moment, the weird, strange text appeared in front of me once again, just as unprompted as before, except that this time my heart skipped a beat. I turned away, unsure if she could see it, and if she couldn't, I didn't want her to think me crazy.
+
+[Would you like to learn about evolution?]

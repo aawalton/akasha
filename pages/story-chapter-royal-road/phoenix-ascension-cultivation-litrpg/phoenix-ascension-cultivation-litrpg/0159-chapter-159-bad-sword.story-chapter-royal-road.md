@@ -1,0 +1,221 @@
+---
+id: f4a43313-2788-5a26-bee3-edb109d1fb77
+page-type-slug: story-chapter-royal-road
+title: "Chapter 159: BAD SWORD"
+slug: 0159-chapter-159-bad-sword
+partOf: phoenix-ascension-cultivation-litrpg
+position: 159
+ownLength: 2141
+unit: words
+publishedAt: 2026-08-05
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3774385/chapter-159-bad-sword"
+royalRoadId: "3774385"
+---
+
+The lightning became a sea, turning the sky dark, as storm clouds appeared out of nowhere. The once clear and beautiful sky had suddenly turned into a chaotic sea of lightning, with thunder echoing like gongs.
+
+Nobody at the bottom of the peak knew what was going on, but they’d all assumed it had something to do with Fa Xiaolan, since that was where she was staying.
+
+She was also using the Divine Lightning Transformation technique, so it wasn’t unreasonable to believe that she had a breakthrough.
+
+However…
+
+Isn’t this a little too much?
+
+Peng Long thought as he looked toward the place where the woman was training, her spiritual Qi filling the area and making it hard for him to look through.
+
+Despite his higher cultivation, the lightning she’d summoned didn’t belong to someone of her level. She was playing with fire, as far as he was concerned. It was worse that Meng Mao had not bothered to do anything, and instead watched without seeming the least bit concerned.
+
+Peng Long had no idea why a character such as him had decided to get involved with the bigger dogs, niece or not. He’d detected that something was fishy since the moment he’d heard that the weasel had somehow gotten a spot in the tournament.
+
+There were many ways to do that, and with enough favors, it wouldn’t be difficult, but the fact that he was interested was suspicious.
+
+Either he was scheming something, or his niece was more than met the eye. And now, he had the answer.
+
+That woman is strange…
+
+He’d told himself that since the first time he’d seen her, but now it was confirmed. Whilst he couldn’t pinpoint the exact source of the lightning, the fact that something like that was happening meant that it was very precious, yet she didn’t care at all about flaunting it.
+
+Peng Long had decided that he would need to pay more attention to her and search for her true origins.
+
+He didn’t believe for a second that Meng Mao cared that much about a long-lost niece; in fact, he wouldn’t care about his own direct blood either.
+
+Whilst Peng Long was thinking about all those things, and more, the other disciples kept watching the spectacle with awe. They weren’t sure of what was going on, but many assumed it must have been some sort of tribulation.
+
+“Is that girl getting punished?” Lian Shu asked Qi Rian, nudging his sleeve.
+
+The former shook his head. “No, that’s not Heavenly Tribulation. She’s just training her element.”
+
+“Isn’t that a little bit violent. Also, that lightning… isn’t it a little familiar?”
+
+“Yes.” Qi Rian nodded, clutching his fist, lightning covering his subtly scale-covered skin. “It’s the lightning of my kin.”
+
+“What? How- is she… you know, like us?”
+
+“No, I don’t think she’s a Spirit Beast. But she’d gotten her hand on a horn.” His voice was filled with some malice right then, but it quickly disappeared, and he’d returned to normal. He wasn’t going to give himself away just yet.
+
+His gaze switched from Fa Xiaolan to Meng Mao, who was watching everything expressionlessly.
+
+Just who are you?
+
+Right as people started to get used to the constant thunder and the electrifying atmosphere, a strong boom shook the entire outer sect, and many more clouds appeared above the peak Fa Xiaolan was training on.
+
+Lightning poured down like rain, and since not even Peng Long could peer inside for long, nobody knew what was happening.
+
+However, many gazes turned toward Meng Mao, whose face was calm as the picture of an extremely calm ocean.
+
+Inwardly, though, his heart was bleeding, and nerves were wrecked, turned into fine powder and blown away.
+
+His pupils trembled as he looked at his ‘niece’, and if he could, he would shed a tear or two.
+
+Just what are you doing?
+
+◈◈◈
+
+What are you doing?!
+
+I yelled helplessly in my mind as the sword absorbed more and more lightning from the horn. There was so much around me I was afraid some of my hair would get burnt, but then I remembered I had feathers, and those would definitely get burnt!
+
+I tried controlling the sword, but the moment I’d tried to refine it, it bounced my will right off. Now nothing was standing between it and wringing the horn dry.
+
+But I needed it!
+
+I kept trying to refine it, to force my will into it, or do something to force it to stop. But I couldn’t. It was as free as a bird, and I was pretty sure it wanted to run away as well.
+
+However, due to our previous connection, it couldn’t, so now it was like a parasite hanging off my waist!
+
+I grit my teeth and did my best to keep the situation at a level, so it wouldn’t escalate anymore.
+
+Unfortunately… Heaven was not merciful. The moment the Qilin horn’s will awoke and realised what was happening, it began shutting off the supply.
+
+It couldn’t fully do that, but it was to the point where it was much trickier to absorb.
+
+When that happened, I thought that I would be fine, but of course, that wasn’t the case!
+
+When it saw that the amount of lightning was diminishing, the sword sent out a powerful bolt of lightning toward the sky, which, thankfully, only summoned nautral lighting.
+
+If Heavenly Tribulation were to fall on me and get angered by the sword…
+
+I didn’t want to think about what would happen then, but it was hard not to.
+
+However, that little amount of spiritual Qi wouldn’t be enough for the greedy thing! Instead of being thankful, it kept aggravating it to the point where, instead of rain falling, it was lightning. The worst part was that, not only was it everywhere, it also hurt!
+
+The good part was that I was gaining stupid amounts of Lightning Affinity and my resistance-related skills were also gaining experience.
+
+So in a way… Was I being helped? This rain of lightning also allowed me to understand some parts of the Divine Lightning Transformation technique better, but that didn’t mean I agreed with how the sword did things…
+
+Even if they were profitable!
+
+At the very least, the horn still had some juice in it. I’d decided that it was better off with me, so when there was enough lightning to distract it, I snagged the horn and put it within my storage bag.
+
+The sword noticed but didn’t care, as it now had a large amount of lightning to absorb.
+
+That was the best time to refine it; unfortunately, though, my strongest element, fire, would not be the best thing to use considering the circumstances.
+
+I didn’t want everybody knowing that I could use more than one element, especially not anything related to fire. It was already enough that my past mistakes had started catching up with me, so I would rather not deal with even more issues momentarily.
+
+But then, what other choice did I have regarding the sealing of the sword? Should I just increase my Lightning Affinity further and then attempt to seal it?
+
+What would happen if its affinity was higher than mine?
+
+With those newfound fears, I took out the Qilin horn and placed it in my dantian, deciding that it was just as good a time as any to increase my affinity.
+
+At first, I wanted to wring it dry, but since I’d figured out it had a will, maybe I could make use of it as an eternal lightning source inside my dantian.
+
+The technique was simple, but the requirement was steep: the object needed to have a will.
+
+Of course, something like that was rare, but not that rare. I did get lucky with this one, though.
+
+In my dantian, the will looked around for a moment before noticing the Little Emperor sleeping soundly near the Qi Lake.
+
+When it saw it, alongside my lightning dragons, whatever intention it had of escaping vanished completely.
+
+It had looked like the will really wanted to get away from the might of the little beast, although it was dormant.
+
+Once again I could not help but ask myself just what sort of beast Yo Na had birthed. Not to mention that after eating all my treasures, it looked like he had grown.
+
+Yet, despite his brief periods of wakefulness, it seemed that he would not be able to truly wake up. I was beginning to question ifYoo Na’s elixir recipe would do him any good, but that was our only lead.
+
+Once that was done, he could go away from my dantian and live with his mother!
+
+For the moment, I was thankful his mere presence was enough to stop the horn from doing anything else.
+
+Using my will, I surrounded the horn and, after a little bit of push, the thing surrendered. I was a little surprised, but considering everything it’s been through so far… Maybe I was the least evil it could choose.
+
+Once it was under my control, I could freely tell it how much or how little Lightning Qi to leak for me to absorb. The way for it to recover that lost Qi would be to absorb my own Qi and turn it into pure Lightning Qi.
+
+That was a mouthful, but it was a self-sufficient cycle of production with some losses.
+
+I could also see how much lightning it had left, and currently it was halfway full.
+
+I’d also checked my Lightning Affinity percentage just to see how far that half could get me.
+
+The sword outside was growing restless, and it kept summoning more and more lightning to make up for the Qilin horn disappearing.
+
+Elemental Affinity
+
+[Fire: 518%]
+
+[Water: 15%]
+
+[Lightning: 70%]
+
+Well, seventy percent from what was previously forty-five percent was pretty good. An increase of twenty-five percent just from absorbing the lightning from the sky and whatever I could get from the Qilin horn.
+
+Now, though, the true fun was about to begin. Commanding the horn to give me its lightning, I could feel my affinity fill up rapidly.
+
+It took a moment for me to absorb everything, but there were very few overall losses. Since it was now in my dantian, I could absorb the lightning directly and have it contribute to my affinity directly.
+
+At the same time, I also practiced the Divine Lightning Transformation technique and used the outside lightning to gain further insight into it.
+
+And just like that, time passed. I wasn’t sure how much, but considering the crowd had not moved for a short while, maybe an incense stick’s worth of time at most.
+
+The horn emptied quicker than I thought, but at the same time, it was natural. The sword and I have pretty much traumatised the poor thing, but now that it is safely refined within my dantian, I would have an infinite amount of good quality lightning to constantly increase my affinity.
+
+Speaking of the sword… It kept causing trouble, and I had no way of stopping it… for now.
+
+Elemental Affinity
+
+[Fire: 518%]
+
+[Water: 15%]
+
+[Lightning: 99%]
+
+Hm… Ninety-nine percent… really?
+
+Elemental Affinity
+
+[Fire: 518%]
+
+[Water: 15%]
+
+[Lightning: 100%]
+
+Ah, one hundred percent, there we go!
+
+Now that it had reached a good threshold, I was feeling more confident in pulling back the sword. Not subduing it, just pulling it back.
+
+For some reason, whoever had created and used this sword was an asshole. Why would they give such an awful and domineering personality? Just how domineering were they?
+
+And the worst part was that I could not even use my own presence as a Phoenix because I would get found out rather quickly. The only thing I could do was fight fire with fire… or lightning with lightning.
+
+Whatever it was, I had to take the sword back in my dantian and seal it before it went crazier.
+
+I should have known it would do this!
+
+Damned sword!
+
+I wrapped my will with Lightning Qi and sent it wrapping around the sword. At the same time, I used a technique to seal away its presence to the best of my abilities.
+
+It was working, as the sword must have gotten its fill and stopped fighting back.
+
+Still, that didn’t mean that it was submitting to me, but just that it didn’t want to fight anymore.
+
+What an awful sword…
+
+After an incense stick’s worth of time fighting… I managed to get it back in my dantian; a lot of it was thanks to the new affinity percentage, as my lightning was far stronger than before.
+
+I wiped a sweat off my brow as I was done, and let out a sigh.
+
+The dark clouds faded, and down in the arena… Mei Ba Do seemed to have clinched the victory.

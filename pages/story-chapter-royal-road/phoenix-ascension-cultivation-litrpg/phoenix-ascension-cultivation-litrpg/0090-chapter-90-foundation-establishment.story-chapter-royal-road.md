@@ -1,0 +1,203 @@
+---
+id: d9ceb144-2c36-5a65-a3e0-7af7d721f0c4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 90: Foundation Establishment"
+slug: 0090-chapter-90-foundation-establishment
+partOf: phoenix-ascension-cultivation-litrpg
+position: 90
+ownLength: 2670
+unit: words
+publishedAt: 2026-02-18
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3068912/chapter-90-foundation-establishment"
+royalRoadId: "3068912"
+---
+
+I had the feeling that a sneeze was coming up, but it didn’t come to pass. I was sneezing way too often these past few days, and I knew it wasn’t because I’d gotten sick.
+
+And it definitely wasn’t because of all the empty plates in front of me. There was a stack of them, alongside a few glasses and even more empty bottles of wine. I ate every last thing that I could eat on the menu and… It wasn’t as good as Spirit Beast Meat.
+
+I would have preferred an entire water serpent or a fire boar, anything along those lines. Was it because I was a Spirit Beast myself? It wasn’t something I could easily conclude.
+
+However the wine wasn’t half bad after the fifth bottle, and even though I made sure not to get all the way drunk, I still got a little tipsy.
+
+Shang Hue on the other hand was… Well, she was sleeping, her face all red and drool coming off her mouth.
+
+I didn’t know who she was, but she gave a sort of card to the waiters when they brought us the food. It was dark in color with purple edges, and the waiter looked very shocked upon receiving it.
+
+I raised an eyebrow but she didn’t explain what that card was. She probably assumed that I knew, which of course, I didn’t.
+
+My issue was that now I had a drunken woman with me and no idea what to do with her. It wasn’t like I knew where she lived, and I doubted anyone else knew. I tried budging her, but she wouldn’t wake up.
+
+Does she not know how to expel the alcohol from her body…
+
+I shook my head and stood up, a waiter rushing to check  up on us. He looked at me for more than I was comfortable with, then at Shang Hue.
+
+“Is there any inn or something of the like around?”
+
+He shook his head. “At this hour none of them are open.”
+
+I let out a heavy sigh. “Is there any place I could… deposit her?”
+
+“Not really, I’m afraid.”
+
+Damn, why did I have to order so much alcohol.
+
+“Alright well… Thanks.”
+
+I smiled wryly and threw her over my shoulder. “Did you get the payement?”
+
+“Oh?” The waiter stared at me, again, but quickly re-focused and nodded. “Yes, yes we have. Here’s the card.”
+
+“Thank you.”
+
+I left the restaurant and the Myriad Market itself, getting a few stares that I ignored. But I really didn’t know what to do with Shang Hue. I couldn’t carry her around with me and I was also busy.
+
+Ah!
+
+But of course, there was one place I could drop her off at. I spread my Divine Sense and quickly located the Qi point I left on Shu Xu Ning, and headed in that direction.
+
+The building they were staying in seemed to be a hotel of sorts, and the front door was locked. However, after a quick investigation, I located the exact room they rented out and jumped out of the window.
+
+There was a bit of roof nearby, so that helped with my balance.
+
+I knocked on the glass a few times, and finally someone got up and rushed to the window. Shu Wao Tu opened, and his eyes widened upon seeing me.
+
+With no time, or desire to explain, I threw the woman in his arms, but that was a bad idea, since he fell on the floor and now she was laying on top of him.
+
+Ah well…
+
+“Tell her that I’m sorry and that I couldn’t find any other place… And here-” I threw her card over to him, then left after saying a quick ‘Thanks’.
+
+With that done, and praying that they would not fight in the morning, or whenever she woke up, I went on through the city and decided that I was better off just heading to the Myriad Market, even though it was annoying.
+
+I still had the three Mid-Grade Spirit Stones, so hopefully they would be enough to buy the information I wanted.
+
+Entering an alleyway and quickly switching to the appearance of a random woman, I made my way back to the Myriad Market.
+
+The place was busy despite the late hour, except that the usual stores were closed. The pill pavilion, the clothing store, and all other daily convenience or cultivation places had long ceased their business for the day.
+
+There were some late-night bars and restaurants, of course, but nothing that would be particularly useful to me.
+
+Unless, of course, I went to a brothel and asked for information about the seed there, which would have probably netted me absolutely nothing. Well, nothing and some food, to be honest.
+
+I made my way through the large building and finally reached the Information Pavilion, and it was as unwelcoming as always. After a short wait, I was shown to the familiar white room with the chair, and not long after I got seated, a voice, different from the one before, spoke.
+
+“What are you seeking?”
+
+“I want to know how expensive information about the Foundation Establishment stage would be.” My voice sounded a little rough, as I had a cold. I didn’t want anyone to recognise me, so I played it safe and changed everything I could.
+
+After a brief pause, the voice said. “That information costs fifty Low-Grade Spirit Stones.”
+
+At least it’s cheap…
+
+“And do you know anything about something called a ‘Foundational Seed’?”
+
+Another pause, and the voice spoke again. “We do. That information costs one and a half Mid-Grade Spirit Stones.”
+
+Wow… That’s expensive, isn’t it?
+
+Of course, expensive for most people, but not for me, who’d sold a Phoenix feather and refined some of the most important pills in the cultivation world to such a high degree. Regardless, expensive was expensive.
+
+“I would like to buy the complete information for both.”
+
+There was no response then, but after a short time, a small section of the wall opened in a drawer-like fashion. I walked up and deposited two Mid-Grade Spirit Stones inside. After the drawer disappeared, another section of the wall opened, and within were two Jade Slips.
+
+I picked them both up and was about to sit down on the chair, but the voice spoke before I could take a step.
+
+“Now that you have your information, please leave.”
+
+Rude…
+
+The difference in attitude between how they treated Fa Xiaolan and me was clear. Now I had to go read outside? How annoying.
+
+Regardless, I did as they asked me, depositing the two Jade Slips in my bag of holding and leaving the premises. I didn’t want to stand in the middle of the hallways, so I decided to head toward a bar and get a drink while I was there.
+
+Perhaps the taste of wine in this world had begun growing on me.
+
+I walked into the first one, turning a few heads that quickly looked away after the bell chime stopped. That only made me feel a little self-conscious. Besides the fact that most of the people there were men and women, whose levels were in the high tens and low twenties, I was also the only non-human in the crowd.
+
+They didn’t know that, of course, but it was a funny thought.
+
+Contrary to what I expected, the place didn’t reek of alcohol, only smelled like it. The conversations were, likewise, not as loud as I thought.
+
+There were quite a few empty spots, so I picked a corner and sat down, to which a waitress immediately rushed to get my order. I hadn’t even gotten the chance to look at the menu, but seeing that most of the wine bottles were as cheap as two Spirit Stones, and the most expensive one was a staggering fifty.
+
+I suppose the people attending this place would have the funds for it, huh?
+
+I’ve yet to go to a bar for the common people, or a store for that matter, just to see what sort of prices should be expected. There was no way two Spirit Stones for one bottle of wine was the norm.
+
+Either way, I ordered one bottle that was about twenty Spirit Stones. Not too cheap, but not too expensive either.
+
+After the waitress left, I finally had some sort of peace, and sneakily pulled out the first Jade Slip. It was the one that detailed everything I needed to know about Foundation Establishment.
+
+I wanted to know if there were any perks I wasn’t aware of, since this world was not exactly one to one to where I’d come from. Besides, any bit of information was that much more preparation I had for when the moment came.
+
+Sending my senses and Qi into it, I began going through the information. I wasn’t expecting just how much information there would be, though.
+
+Even with the senses of a cultivator, it took me a few minutes to read through everything. That was in contrast to the file on Meng Mao, which only took a few seconds.
+
+<<Foundation Establishment is one of the most important steps in the journey of a cultivator. After Qi Condensation, where you began by building the base of your cultivation by filling the dantian with Qi and strengthening your body, Foundation Establishment is where the journey actually begins.
+
+<<In lesser regions, where Qi was poor and the conditions were harsh, they would only have a handful of Foundation Establishment cultivators. In contrast, even a small sect would have about a hundred or so.
+
+<<The importance of a Foundation Establishment Cultivator is thus understood by the simple fact that there are fewer of them, and they are harder to raise. Once the dantian of a Qi Condensation cultivator was full, and their technique reached the appropriate progression, then they were ready to attempt a breakthrough.
+
+<The prerequisites are simple: A completed dantian, a technique that guides the cultivators through the steps, and a large amount of Qi. The latter could be supplemented by Foundation Establishment pills.
+
+<On the topic of pills…>>
+
+The Jade Slip went on and on, going into tangents, then into tangents from those tangents before returning to the main point. All of that information was interesting, but not something I hadn’t already known.
+
+However, that changed after the author finished describing the process of the breakthrough, and went into what Foundation Establishment actually meant.
+
+<<A true Foundation Establishment Cultivator would have an empty dantian. After the breakthrough, their dantian size would explode in volume, and the normal conclusion was that it needed to be filled with something.
+
+<<A cultivator could store items, or even living beings, such as plants and Spirit Beasts, and that was a good use of the space, but what was most important was making great use of it.
+
+<<The Qi Lake would serve as an actual lake, very rarely even producing a Spirit Stone. However, leaving them as is would be a great waste. What cultivators have learned is that they could, well, cultivate their dantian.
+
+<<The dantian of a Foundation Establishment cultivator can be used for more than raising plants and generating the occasional Spirit Stone. There are certain objects that can drastically increase the efficacy of cultivation and allow the cultivator to better raise their elemental proficiency.
+
+<<Plants, rocks, crystals, metals. All of those and many more can help toward building the foundation.
+
+<<Whereas Qi Condensation cultivators measured their progress by the amount of Qi in their dantian, Foundation Establishment cultivators measure their progress by the fullness of the dantian.
+
+<<While these two things sound similar, they are not. Qi still plays a very important role, but what matters most is the purity of the Qi, and not the quantity. In addition, elemental Qi is crucial to any cultivator, especially those who specialise in certain elements.
+
+<<Fire Qi, Water Qi, Earth Qi, Air Qi, Metal Qi, Light Qi, Dark Qi. Those are the fundamental elements of nature, and seven of the many Great Daos. For many, these would be their foundational elements. Not all of them, of course, but one or two of them. As a result, most cultivators would want…>>
+
+The author kept talking about the elements and whatnot, but the summary was: You can put whatever you want in your dantian, as long as they meet a few criteria. One, they had to feed on Qi, and then transform that Qi into their elemental Qi, thus creating a relationship between cultivator and object. For example, a fire cultivator would want to have fire-based plants, or crystals or whatever else.
+
+That much made sense to me. I’d never done that before in my past life. Foundation Establishment was merely a stepping stone. The concepts were similar, but whereas we progressed through Foundation Establishment by absorbing the Qi, here they produced it.
+
+Which was a far more efficient method than standing in the middle of a raging volcano trying not to get burnt by the lava while absorbing the poisonous fire Qi. I wish I’d thought of that before.
+
+Similar to Qi Condensation, Foundation Establishment was divided into nine layers, which were also divided into three sub-layers, with each increasing the dantian size and other benefits I already knew about.
+
+And of course, with the increased amount of Qi came more precise control, but that was all mostly personal experience and skill level. The Jade Slip also talked about certain things that were specifically created by the heavens, or by the hands of man, to help with progressing in the Foundation Establishment stage, and there were also combinations that could help in that regard as well.
+
+They didn’t go in-depth on them, saying that if they had the good fortune of finding or acquiring one such thing, then they should be capable enough to figure it out.
+
+And I found that to be rather rude, and if I had the author next to me I would have slapped them good.
+
+But they weren’t, so I could only drown my annoyance in alcohol.
+
+The waitress had not returned with my wine, yet, though. I pulled my senses away from the Jade Slip and looked around, seeing her happily chat away with some other customers.
+
+Did she forget?
+
+I clicked my tongue and rose to my feet, ready to go over and scold her, but I was stopped by a waiter who rushed over to my table before I could even take a step. He did have the bottle of wine I ordered, and I sat down as he set it on the table.
+
+“Sorry for the wait Miss, you were just so focused I was afraid of disrupting you.”
+
+He said, taking off the cork and pouring me a glass. I took a better look at the man— Mid twenties, shaven, short hair and dull eyebrows. He didn’t look like someone fit to be a cultivator, but I could see that he was at least level fifteen. From what I could deduce, that put him at the beginning of Foundation Establishment. That made him my perfect target. I still had eighty Low-Grade Spirit Stones after buying the wine, which made me poorer than I thought, but whatever.
+
+“What’s your salary?” I asked, and he looked a little flabbergasted. “How much to buy one hour of your time?” I rectified, and he seemed to have understood, though probably got the wrong impression.
+
+“I just want to ask you a few questions.”
+
+“Aboute twenty five Spirit Stones, oh, Low-Grade Spirit Stones. I could check with my manager, it’ll be quick.”
+
+He left, but when someone else came to my table, it wasn’t exactly him that I saw. Well, he wasn’t alone, but came accompanied by a middle-aged woman with long hair and more wrinkles than I would have expected a cultivator to have.
+
+“Are you the lass tryna steal my boy away?” She said, the mild aura of a Core Formation was emanating off her.

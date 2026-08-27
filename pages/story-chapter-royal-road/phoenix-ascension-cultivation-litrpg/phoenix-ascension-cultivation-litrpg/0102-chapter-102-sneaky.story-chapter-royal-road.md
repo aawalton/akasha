@@ -1,0 +1,267 @@
+---
+id: a41b2f2c-bada-5515-8e5a-a66fbe4aaf03
+page-type-slug: story-chapter-royal-road
+title: "Chapter 102: Sneaky"
+slug: 0102-chapter-102-sneaky
+partOf: phoenix-ascension-cultivation-litrpg
+position: 102
+ownLength: 2697
+unit: words
+publishedAt: 2026-03-18
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3166859/chapter-102-sneaky"
+royalRoadId: "3166859"
+---
+
+What happened?
+
+My Lightning Dragon disappeared, but nothing out of the ordinary happened. I could not sense anything, but I couldn’t go check either.
+
+Because there was a cloud chasing me. An angry cloud filled with Tribulation Lightning
+
+If my resistance wasn’t so high, I would have been probably turned to ash by now… Would I rebirth then? That wasn’t something I wanted to immediately explore.
+
+There had to be a way to get rid of the cloud, but more importantly I wanted to check up on Teng Yu, and figure out what happened. Unfortunately, it didn’t look like that was something I could immediately do.
+
+Damned cloud, fuck off!
+
+I wanted to yell at it, but last time I did so it got angry and zapped me. I circled back and rose upon the estate wall, right on the edge of the Tribulation zone, and saw that my dragon had truly disappeared.
+
+And along with it, so did the stored Tribulation Energy.
+
+Damn it!
+
+If the clouds didn’t change, then someone had destroyed it.
+
+Was it Chiao Zhen? I looked around for him, but he was hiding behind another wall, watching the scene with shaking legs.
+
+As if.
+
+Since it wasn’t him, then that Teng Yu must have had some hidden help. Were there more assassins hiding. But then, why didn’t they do anything against him?
+
+There were just too many variables I wasn’t aware of.
+
+However, with the two ticking explosions, one above me and the other breaking through into Core Formation, I really didn’t see what I could do.
+
+I had no other skills that could easily deal with Tribulation Lightning, and I doubted I could acquire any.
+
+The time I had to create another dragon that could successfully fool the tribulation was short, too short. I could feel Teng Yu’s aura stablising, and his level began to stabilise. That meant that he was about to finish breaking through and forming his core.
+
+It wouldn’t have been the worst scenario if I wasn’t at the Qi Condensation Stage… Or maybe if I wasn’t stuck in this stupid human form with no claws or wings.
+
+Fuck it.
+
+I decided, getting angry.
+
+Unfortunately, as much as I wanted to, I could not just simply throw caution to the wind and hoped it all worked out. No, I needed something… more.
+
+If I had a way to make it so any outsider looking in wouldn’t be able to see what happened, or maybe some way to conceal my true form while being in it…
+
+System… please…
+
+[Understood.]
+
+[Searching database…]
+
+The search took longer than usual, and the cloud took advantage of the tiny amount of time I took to look at the text. Before I knew it, another bolt of lighting shot toward me at ridiculous speeds, and I only managed a Side Step.
+
+As a result, the aftershock was a little bit harsher than I would have liked, but I survived.
+
+[Found skills matching your criteria.]
+
+Great, show them to me!
+
+I Ember Step’d away and ran outside of the range of the estate, that way the tribulation would give me a little more peace.
+
+[Skill Shop]
+
+[Shroud]
+
+Cast a dark shroud in a radius around the that others with low perception cannot see through.
+
+Cost: 30 Skill Points
+
+[Self-Shroud]
+
+Wrap yourself with a short-range, yet powerful shroud that few people can see through and track. Combining this skill with other stealth skills increases its effectiveness.
+
+Cost: 40 Skill Points
+
+[Mirror Image]
+
+Create a mirror image of yourself that acts, looks and feels like your current appearance, but can’t do any damage and breaks on the first hit.
+
+Cost: 35 Skill Points
+
+[Visual Impairement]
+
+Target someone to temporarily blind them.
+
+Cost: 20 Skill Points
+
+While there weren’t that many skills, and the ones that were given were rather bland, there was only one right option for the situation.
+
+I reluctantly purchased Self-Shroud, and lost another forty Skill Points. I could only hope that the future levels will be more generous with giving them out.
+
+Without waiting on ceremony, I activated it, and instantly noticed that a dark foam surrounded me. It was like thick fog that obscured vision, though after an initial moment of blindness, mine returned to normal.
+
+The cooldown of the skill wasn’t long, and the Qi cost was pretty negligible, so I activated Shadow Cloak and Stealth as well.
+
+Almost immediately, Self-Shroud ranked up, which meant that it was working as intended. Though it happened too fast, so whoever was watching me must have a strong cultivation.
+
+Or maybe it was because of the Tribulation? It was hard to tell, but one thing I knew for certain was that the little cloud above me became less aggressive, as if it’d lost its target.
+
+Perfect. Now all I need to do is wait… and change out of this form.
+
+After rushing toward Chiao Zhen’s side and knocking him out, just for safe measure, I turned into my original form and stored the clothes away.
+
+The tunic, somehow, remained equipped, becoming a… smaller version of itself that somehow wrapped around my Phoenix self perfectly.
+
+It was uncanny.
+
+Either way, I was now safe under my shroud, and stealth skills, and I had to say, using my actual body felt much, much better. I could now use all Bloodline Skills better, and the rest of the Active Skills that required parts the human form did not have.
+
+And so all I had to do was wait, and hope that he would not be in his peak condition.
+
+As it turned out, I didn’t need to wait long. The tribulation clouds got angrier and angrier, and after losing sight of me, the small one also disappeared.
+
+Finally, they churned violently and a larger, four-colored bolt appeared. It was filled with life energy, and I was extremely jealous.
+
+If only my dragon didn’t get broken…
+
+That whole thing could have been mine, but it was too late to express regrets now. I needed to survive.
+
+When the bolt struck Teng Yu, I’d half hoped that would do him in, but of course I wouldn’t be so lucky. A newly awakened Core Formation cultivator was not as strong as one that had time to get used to their power, so I still had some sort of advantage.
+
+A few minutes later, the cloud dispersed, as did the protection it provided. Teng Yu’s eyes flew open as he looked around, his teeth clattering together from anger.
+
+“SHOW YOURSELF!”
+
+He yelled, but I had no intention of doing so. Not immediately, anyway. I had the perfect attack, and as long as I could escape his senses then I would get a huge advantage.
+
+Laying low, I made sure all of my stealth skills were active and circled around behind him. He stood up and quickly scanned the area, but still, it didn’t seem like he’d detected me.
+
+Nevertheless, I stood still, only approaching when he seemed pre occupied.
+
+Teng Yu did a few hand signs, and a rather powerful wave of Qi swept over the entire area. Thankfully, they washed right over me, not detecting anything.
+
+I primed my talons by activating Iron Claws and Strengthened Constituion, making my attacks sharper and more powerfu. Soon, I was within mere feet of him, and just as soon as I attacked, I also let out a Paralyzing Screech.
+
+My talons lit up with Nirvanic Flames as I struck, thinking that he was caught unawares.
+
+However, despite my screech, Teng Yu turned around with a crazy look in his eyes, and struck down at me with a sword that appeared out of nowhere.
+
+“Did you really think you could sneak up behind an assassin?!”
+
+It was far too late for me to renounce on my attack, so I pushed forth. Sparks flew as my talons and his sword met, but I took an Ember Step between his legs just as some sort of strange attack flew toward me.
+
+I wasn’t sure what it was, but my Phoenix Reflex told me it was bad news. Upon closer inspections, it looked like a tiny viper, its fangs dripping with venoms.
+
+Figures…
+
+Activating Elemental Wave just as the fire from the Ember Step gushed up, I applied the vulnerability to fire in full. While I was at it, I also activated Burning Wind at maximum strength, and quickly checked my notifications.
+
+[Skill: Iron Claws(Intermediate) has ranked up to Iron Claws(Expert)]
+
+[Skill: Flaming Talons(Beginner) has ranked up to Flaming Talons(Intermediate)]
+
+[Skill: Burning Wind(Beginner) has ranked up to Burning Wind(Intermediate)]
+
+[Skill: Ember Step(Intermediate) has ranked up to Ember Step(Expert)]
+
+[Skill: Elemental Wave(Intermediate) has ranked up to Elemental Wave(Expert)]
+
+[Skill: Paralyzing Screech(Beginner) has ranked up to Paralzying Screech(Intermediate)]
+
+[Skill: Phoenix Reflex(Beginner) has ranked up to Phoenix Reflex(Intermediate)]
+
+A lot of the skills I neglected before had ranked up, no doubt because I was facing an opponent far stronger than I. I didn’t know if it was necessarily a good thing, but I appreciated the help.
+
+Sadly, Assassination didn’t rank up, since it failed. I still didn’t know how he noticed me, but I supposed his bag of holding would tell me as much.
+
+Without hesitation, I took to the skies, away from any of his skills, and blended in with the darkness. It felt like a good idea to also rain down a Pyro Breath on him, but I first wanted to see how he reaced to Burning Wind.
+
+Not really good, it seemed. He was looking around for me frantically, but since I was in the sky and so far away, with three stealth-type skills on hiding me, it wouldn’t be that easy to find me.
+
+Teng Yu’s face was dampened with sweat, and it seemed like he’d gotten better after no doubt acquiring some sort of fire resistance. However, I was done playing around.
+
+I summoned two large fire dragons made out of Nirvanic Flames, completely switching out my attacks.
+
+I tried being stealthy, only using lightning, but the truth was I wasn’t that proficient yet. On top of that, it seemed that he wasn’t doing that well himself, in terms of cultivation.
+
+It was unstable, and going into a fight as soon as you broke through a new stage was reckless and arrogant.
+
+He didn’t have a choice in the matter though.
+
+My two dragons attacked him fiercely, like two famished predators, and I circled on top of him, trying to find an opening for a quick and easy attack.
+
+It would soond find me, too. The two dragons coiled around him, doing their best to suffocate him while burning away his clothes and skin.
+
+The gruesome sight slowed down though as he probably gained more and more resistances, but I wasn’t about to let him build up enough of it.
+
+When I noticed that he looked particularly vulnerable, I swooped down on him and activated Tail Whip and Blade Wing for a double decapitation attempt.
+
+However, as soon as I got within range, his expression changed as an immensely powerful and oppressive aura swept out from him.
+
+My dragons got destroyed in the blink of an eye, though the damage to his skin remained. He raised his sword, shooting a purple Qi wave toward me that my instincts screamed at me to dodge.
+
+I manuevered out of the way, with the Qi briefly grazing my feathers. They immediately started rotting and fell off, thankfully the poison not having spread further.
+
+It became quite obvious that the new Teng Yu would be a tricky oponnet, but he was clearly sloppy. I needed to get rid of him before he got used to his core. The only question was how.
+
+The shroud and my overall stealth skills worked just fine, so I could hide and fly up if necessary. The sky had already darkened quite a bit, so I would be effectively invisible.
+
+His tracking skill was too good, though. Once I was within a certain radius of him, he could easily detect me.
+
+As I flew up, I made sure to leave another Elemental Wave on the ground, and disappeared into the sky. Just as I deduced, he lost track of me, at least I thought he did. The only immediate issue was that I had no way of approaching him to use my best skills.
+
+Too bad the needles don't work…
+
+He was particularly resilient against my needles, and a single rank up would not change that. Though, that was only because his mental defenses were raised. His soul was strong, but it could be eaten away.
+
+The only problem was that he could keep regenerating his defenses. Although he was already quite angry, so maybe if I poked the bear a little bit more.
+
+“Your friends were so weak.” I said, mimicking Shu Lao’s voice using a partial Perfect Disguise. My voice echoed through the estate, and he looked up in the direction I was at.
+
+“At least you can put up a nice fight, I’ll give you that.” His expression changed, as he frowned, and it was easy to tell that even more anger was bubbling up inside him.
+
+I activated the Myriad Qi Needle skill, summoning about a dozen of them and noislessly sent them out toward it. It was a good, simple, untraceable and silent skill, but the conditions of using it were rather annoying.
+
+The target’s soul had to be weak so it could penetrate easily, yet that was only applicable if they didn’t have technique to defend their mind. Sadly, most cultivator would do that passively wether they knew it or not, so it didn’t really work out in my favor.
+
+It was perfect against mindless Spirit Beasts, but even they had a strong soul and defense after a certain level.
+
+In retrospect, it wasn’t that good of a skill. But it was my best option at the moment.
+
+“Had I known they would have died so quick, I would have played with them like I am with you.”
+
+“Shut up you piece of shit!” Teng Yu yelled, raising his sword at the sky. He clearly didn’t know where I was, which made it even better.
+
+“All I needed to do was hit them a few times with my technique. I didn’t even try. It was quite laughable that you morons tried killing MY blood.”
+
+Teng Yu’s grip tightened on the hilt of his sword, which in turn shone with a bright purple light.
+
+“That skill again?” I chuckled. “It won’d do anything.”
+
+He didn’t reply, but weaved a one handed hand sign and created a small domain around himself. It was transparent and almost invisible, and before I knew it, the domain surrounded me as well.
+
+“I got you now you flying bastard! Get off your sword!”
+
+Hah, as if.
+
+I could feel his Qi detecting me, or rather, detecting where I wasn’t. I should have guessed that it was something like that. If your enemy is not visible to the senses, then you only need look for where there was nothing.
+
+That only worked for a while, though, as people weren’t idiots. Such a simple trick could be easily countered by another simple trick.
+
+I couldn’t pull it off at the moment, though, since I lacked the proper techniques. Any stealth user worth their shit would be able to fix such a weakness.
+
+Oh well, it wasn’t like I was trying to be stealthy. All I wanted was to remain hidden, and that worked just fine.
+
+What he was seeing right now was nothing more than a black shadow flying around in the sky, hence why he assumed I was flying on a sword.
+
+Little did he know I was a Phoenix.
+
+My needles circled him, trying to eat away at the hand with which he was holding the sword. A lot of them disappeared upon contact, which I had to replace, but they weren’t even making a dent. It would be a long process before I could weaken his defenses.
+
+Remembering my skills, and giving them a quick look, I devised a plan of attack.
+
+It was about time to end this in a very explosive display.

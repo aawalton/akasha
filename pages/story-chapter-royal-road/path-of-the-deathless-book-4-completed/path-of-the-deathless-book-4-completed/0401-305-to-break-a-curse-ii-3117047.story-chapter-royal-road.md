@@ -1,0 +1,295 @@
+---
+id: c168cfdb-225f-54c3-8e22-ec92c56efffb
+page-type-slug: story-chapter-royal-road
+title: "305 To Break a Curse [II]"
+slug: 0401-305-to-break-a-curse-ii-3117047
+partOf: path-of-the-deathless-book-4-completed
+position: 401
+ownLength: 5458
+unit: words
+publishedAt: 2026-03-04
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3117047/305-to-break-a-curse-ii"
+royalRoadId: "3117047"
+---
+
+—[HYPERWAVE ENCRYPTION LOADED]—
+
+To: Cortex Prime
+
+We detected an incongruous mana signature. It entered the Stranger’s Garden at 2344. They entered through the Theta-374943-244 Mana Condensation Zone by creating a dimensional bridge between worlds via unknown means. As such, we suspect an infected entity on Integrated Earth has gained the knowledge to diffuse, stabilize, and tap into mana frequencies across Integration. The dangers and implications of this achievement speak for themselves.
+
+That, however, is not the most alarming piece of information. Per our report a few days prior, the “Deathless” invaded the Stranger's Garden through another condensation zone along with an army of orcs. Also spotted with him was the Giantsbane, Legend of the Yellowstone Republic. Though the information and details recorded by our probes were limited due to the extreme velocities at which the aforementioned subjects were moving, we are certain that the Republic and the Challenger are working together in some capacity. For what reason, or to what end, remains unknown. However, we suspect that a full invasion of the Outside might be imminent, specifically of the Stranger's Realm. Furthermore, the displaced town of Blackedge has been recovered by the orcs. This might be a capture-and-contain operation conducted between the Tutorial and the Yellowstone Republic.
+
+Why the Ascendants would be so willing for the Orc God to claim one of their Phylacteries is also unknown, but we strongly suspect that the Starhawk now lies in the hands of the Challenger. Perhaps this is a means to suppress any dissent. Other possibilities indicate that this might be an offering to secure an army of orc warriors in anticipation of the coming adversaries that will soon spill across their northern and southern borders.
+
+Addendum: The Deathless has also emitted specific mana particles that present a 99% match to the Undying Tarrasque. As such, we believe that these two entities either share a creator, or that one spawned the other. Though we do not have hard evidence to support this theory, we do suspect that the Deathless and the Undying Tarrasque might be results of Transcendent-Contractor Udraal Thann’s experiments.
+
+If this is confirmed to be the case, Lovecraft Station strongly suggests the Contractor be called in for in-depth questioning.
+
+Finally, we ask permission to further observe the damage done to the Stranger's Garden and the Outsider God itself. It has sustained significant damage trying to engage with the foe, and that which has afflicted it seems retrocausal. Effectively, it has suffered damage in its past and present and is now unable to break out of a traumatic loop. This indicates that it has suffered at the hands of someone it faced before and lost to. The Pathbearers that have inflicted such a defeat on the Stranger number few—with the most likely candidate being Valor Thann himself.
+
+Though our last update indicates Valor Thann still lay in scattered pieces thanks to Transcendent-Contractor Udraal Thann, we would like to request an elevation to Combat Alertness Orange and the formal mobilization of Strike Group Innsmouth for the ensured security of Lovecraft Station…
+
+—Transmission from Lovecraft Station to Cortex
+
+305
+
+To Break a Curse [II]
+
+It was a good thing for a man to learn about his body, but a man could also learn too much about his body. And a man could also learn too much of his body when that body was being used by someone else to do things to them.
+
+Pillar of Orichalcum 292 > 295
+
+A Glimpse of Perspective 73 > 75
+
+A Glimpse of Perspective: What torment, what glory. She is a monster… A monster in the shape of a moon-skinned maiden…
+
+Shiv's consciousness tilted between the misery of post-traumatic stress and the bliss of post-coital release. It was the best of experiences. It was the worst of experiences. It was an experience that he would likely suffer again and enjoy at times, but also find himself on the verge of a mental breakdown when the pain got too much after a vital part of him tore open.
+
+A man truly could learn too much about his own body, but it was only in learning too much that he discovered the limits of his mind and the true endurance of his psychology. Through this blackest, most exotic, most depraved experience, Shiv came to a thrilling and agonized conclusion: if his flesh was iron, then his mind was adamantine. But if someone rammed a fist of iron hard enough into a cleft of adamantine, then the being of adamantine would still release shrieks of pain loud enough to reduce a hundred meters of woodland into splinters and dust.
+
+A hearty chuckle escaped Uva. A snaking tendril of pleasure-pain climbed along Shiv's spine, coiling in place until it settled in the base of his mind. No more! one part of him cried. I need more! another part of him called out. And thus a man could learn that when his body felt both blissfully euphoric and absolutely ruined, he could love and hate the same thing, and fear and adore the same person.
+
+Uva clung to his arm while her legs dragged behind, sliding across the dirt, unable to function even now. She tried taking a step every now and again, but it was like her lower body wouldn't cooperate. Shiv, meanwhile, favored his right leg more than his left, and the left leg simply wouldn't respond. It was likely a psychological wound that had physical manifestations. They were both crippled, both quiet, and both lost in their own minds. The psychic link between them had been cut, not only to give them a respite from all the time they spent sharing a mind, but also to let them process what happened individually. And there was a lot to process.
+
+"That was a lot more rewarding and strenuous than I imagined,” Shiv rasped. “And I imagined quite a bit."
+
+Uva's laugh was a thing of scalding warmth that trailed off into a series of hyena-like giggles.
+
+Shiv didn't need to be in her mind to know what she was thinking. She was looking forward to the next time, and that made him swallow and also sweat at the same time. I gotta study more Biomancy, figure out how to move my flesh around without ripping it open…
+
+"Quite," she agreed. "And I'm sure you'll be able to do it. Especially with all the motivation I instilled in you this time." She pulled herself up along his arm and breathed out, letting the heat of her breath tickle his ear. Shiv clenched his fist, doing all he could to keep one foot in front of the other to avoid toppling over and landing on top of her as he had earlier. "You know, a few times I thought you were going to call for a break. Or use the word."
+
+"I did come close a few times," Shiv admitted without shame.
+
+"So why didn't you?" she prodded.
+
+"Well, the first time I blacked out before I could say anything, and most of the times after that, it just hurt too much for me to form words. Then it felt too good. Guess there's a metaphor there about life or something. That might be why my Philosophy skill leveled."
+
+"Really? Mine too. Seems we both experienced some… revelations."
+
+"Maybe me more than you," Shiv replied with a shudder.
+
+She grinned like a fox staring down a lone, little chicken in its coop. "Definitely you more than me."
+
+A shared sigh escaped the both of them as they made eye contact. Then what followed was a shared series of giggles until neither could stand and had to use the woods near the gateway to Piety to find their bearings once more and recover the ability of locomotion.
+
+It took them a good while longer to reach it. As they slipped out from the treeline, they began walking along the Grand Obsidian Thoroughfare, as Shiv had learned the road was called, once filled with Cave Biters and slaver caravans. Now it was abandoned, the route severed from Compact control as Gate Theborn was no more. As the lovers grew closer to their home, however, flashing lights, a crushing pressure, and the shapes of spells flickering by overhead drew their attention.
+
+Shiv squinted as he saw a chain of Biomancy spells. They were all interconnected, seeming like scars snaking their way through the air. Yet there was also a substance of Psychomancy leaking out from the center of the scar, and a trace of gold that glittered like dust behind. Immediately, he knew who had likely cast this spell: Tulveg.
+
+And Uva wasn't far behind when she came to the same conclusion. A quiet but most ragged groan escaped her. She didn't want to face her mother's former paramour, and she most certainly didn't want to deal with any of the stress waiting for her back in the Gate. But some things were hard to avoid, and couldn't be avoided forever.
+
+"You wanna hide inside my mind?" Shiv offered. "You don't need to deal with him if you don't want to."
+
+All hints of bliss and mirth bled out from her expression. Shiv didn't much like seeing that. "No. No, we continue on. And I will resolve the matters between us when I'm ready. He will respect that."
+
+"I had a talk with him about that," Shiv said. "Hopefully, my words sank in. How do you feel about him?"
+
+She sighed. "Being honest, I try not to think about him, and I often actively make myself forget his existence. I don't like the fact that he knew my mother. I don't like the fact that he's probably not lying. I don't like the very real possibility that my mother has had interactions with him. I just have a hard time believing a relationship existed between them." The muscles on her face tightened, and she looked like an Umbral undergoing brutal constipation. "Mainly because he's a vampire. Mainly because he belongs to the Great Adversary. The ones that enchained us. The ones that abused us. They were always the enemy. But he seems to agree with me. He seems to hate his own kind more than I do, even. With that, I have to consider the very real possibility that my mother might have been playing along to have him defect or… or… or…"
+
+"Or they were actually a thing," Shiv said, risking Uva's ire.
+
+Her body sagged, her mood wilted. Rather than burn with outrage, she withered with discomfort. "Prejudice is hard to overcome, shameful as it is to admit."
+
+He reached over and ran a hand through her short hair. "Well, I think you're doing a good job. You managed to get over your feelings about the Surfacers pretty quickly."
+
+"How very clever of you to flatter yourself while pretending to flatter me," Uva muttered while fixing him with squinted eyes. He noted how she didn't shoo his hand away, though.
+
+"Hey, it's not really a lie, is—What the hells is that?" Shiv's jaw fell slightly agape as they got close to the kilometer-high arch of the gateway. Uva was about to ask what had disturbed him so, but then she saw the same thing, and her response mirrored his as well.
+
+Surrounding the gateway was a massive ring. It was not a ring made of hardened materials such as glass, concrete, or any kind of metal. It was a ring that was shaped by a specific lore of magic—Biomancy. And it was a particularly grotesque display of Biomancy, because said massive ring, wide enough to encircle the gargantuan archway, was made of writhing flesh. Writhing flesh that constantly regenerated. That seemed to lack any tumors. That was made from a specific kind of stock: vampires.
+
+"Godsdamn it, Helix," Shiv grunted to himself. "I let you go have fun, and this is what you do."
+
+Before them was a horizon that was being reshaped for war and a lasting siege. Multiple trench lines extended in layered rows. Between them were enormous Geomantic emplacements, slats of stone lined with gleaming steel that radiated a brownish mana. Shiv's eyes narrowed. He didn't know much about Geomancy, but he could feel the murderous intent in the air. The emplacements didn't have any obvious keyholes, didn't sport any glowing orbs or elemental constructs at their tops, but he knew they were meant for one thing: violence. Each one was fifty meters tall, a dense construct of material and magic. He suspected that at any moment, they either might explode, launching the metal held by the stone out in waves of slicing death, or do something else. Something altogether disgusting. Something only conjurable by the mind of an orc.
+
+There were also faint, gleaming chains that connected these emplacements to each other. And in the rear row of emplacements, right before the archway, the chains curled upward to the height of the gateway, and there found themselves bound tight around the flesh of the wailing First Blood Vampires.
+
+Only after Shiv took in all that did he notice the near-invisible air dimensionals gliding through the air, and the even grander orbs of blinking fire that hovered just beneath the sky-like heights of the cave that contained the Umbral Wilderness. The orcs had done a great deal of work preparing for any vampiric assaults, and they were clearly planning a disgusting surprise of their own if the First Blood was to approach.
+
+Shiv's Atlas of the Flesh Scryer revealed about a thousand orcs manning the trenches. Most of them were focused on digging, and they were going in a new direction now, down rather than wide. They had formed a sigil-like pattern around the gateway, and they seemed to be creating tunnels that connected each line to each, one emplacement to another.
+
+"Do you have any idea what your monsters are doing?" Uva asked with a slight huff.
+
+A snort of disbelief slipped out from Shiv. "My monsters?"
+
+"Yes, your monsters," Uva insisted. "They listen to you. They're here because you struck a deal with them. That makes them your monsters."
+
+"Oh, I'm sorry. Maybe I should have just let you summon a million of the Dreamtaker’s kids. I think that would have gone much better."
+
+Uva rolled her eyes. "Stop being petulant and go find out what they're doing. I don’t want reinforcements from the Order to suffer any surprises or unnecessary nightmares. Composer knows being assigned to this Gate has already been a hellish enough experience."
+
+It took little effort to locate Helix. The orc Biomancer stood right in front of the gateway, his body lit by the brightness of the static Dimensionality mana. Beside him, however, was Tulveg. The vampire had undergone a change of attire. Instead of his noble-like ensemble that left his chest exposed, he now wore a flowing coat made from pitch-black leather. It was like a dark reflection of Helix. Almost a parody. Shiv wondered what was happening between them because both the orc and the vampire had their arms folded as they were staring down, outraged and disgusted, at Adam. The Gate Lord gestured animatedly at the nightmare ring hovering over his gateway, and even from far away, Shiv could hear his cries saying, "What were you thinking? Gods, the smell! I think I'm going to throw up."
+
+"Poor felling Adam," Shiv sighed.
+
+"Ever does he suffer," Uva agreed. She clapped him on the back. "Let’s go save him."
+
+As they crossed over the many trenches, the orcs digging down below whistled at their Insul. Their voices echoed forth from the deep delves of darkness, and they gave a common cheer: "Three whoops for the second-best Manifold Orc Meatball Chef in all Integration!"
+
+The orcs whooped. Shiv's blood turned into boiling tar as he struggled not to kill all of them. "You know what? I don't even mean this sarcastically anymore. You should have summoned the Outsiders. I regret these pieces of shit already."
+
+Once they got within twenty meters of the gateway, the mocking cheers of the Orcs were overwhelmed by another noise: that of the groaning, suffering First Blood members fused together in a ring-shaped cake of misery. Uva immediately began coughing as the foul smell of spilling organs and bodily fluids filled the air.
+
+"And why are they all alive? If you're going to do this, then why didn't you just kill them? Why did you have to keep them alive?" Adam struggled not to scream every syllable at the twosome standing before him. He briefly flicked a glance at the newly arriving Shiv and Uva, but rather than seeming relieved, he just shook his head as if exasperated by their presence.
+
+"It's for the fear-factor," Tulveg said.
+
+"It's for our morale," Helix continued.
+
+"It's to ensure we have an endless resource of blood and flesh to power the spell."
+
+"It's also because this is what the First Blooded vermin deserve."
+
+Tulveg nodded at Helix’s words with such vigor that Shiv feared his head might come off. The Legendary vampire shot the orc beside him a warm and prideful look. "Exactly," he said. "It's more than they deserve. If we had the time, we would do this right, and we would bring them to the brink of agony and beyond. They would be shattered, utterly dissolved of any sense of self for their sacrilege of the Blessed Blood."
+
+Helix paused dramatically before adding anything right after, doing all he could to fan the flames of Adam’s annoyance. "You see, Tulveg understands, and he understands so well. So why can't you, Gate Lord? What is so hard for you to comprehend?"
+
+"Alright, guys, what the hells is going on here?" Shiv said, landing just a few steps away from the group. He gave Adam a broad smile. "Morning."
+
+Somehow, the expression on Adam's face reminded Shiv of spoiled milk. "...Morning? You two have been gone for three bloody days!"
+
+Shiv's mind went blank. "What?"
+
+"Three days!" Adam said even louder. "You were gone for three days. For three days, you two have been missing!"
+
+"That… can't be right," Uva muttered. She looked around, trying to get confirmation from the other two. Helix took off his spectacles and rubbed them using his silken long coat. Tulveg simply didn't respond, seeming almost embarrassed on her behalf.
+
+"Three days," Adam continued. "No, I'm not lying. No, I'm not trying to fool you or anything. It's been three days."
+
+"Then why didn't you come and find us?" Shiv snapped.
+
+A trembling, disingenuous smile cracked open on Adam's face. "Oh, Sister Ikki volunteered and went off into the wilderness. And what an adventure she experienced."
+
+"Oh, Composer, kill me now," Uva prayed.
+
+Unease churned in the pit of Shiv's stomach. "She's still out there?"
+
+"No, she ran away screaming when she found you yesterday."
+
+The worst part of this was that Shiv distinctly remembered hearing someone screaming oddly, at some point. And unfortunately, Uva did too.
+
+Comedy 10 > 13
+
+Shiv gulped. "Oh shit, so that was what all that screaming was near the end."
+
+Uva looked ill, and it wasn’t because of the flesh ring above—though that didn’t help either. "I thought that was you," she said.
+
+"Well, I thought it was you.” He frowned. “Wait, why did you think it was me? I don't scream like that at all."
+
+"That’s untrue. Remember when you insisted we didn't need to lubricate? Remember how loud you shouted then? How the trees around us exploded?"
+
+"Uva!" Shiv hissed. "Not in the present company."
+
+Said present company showed a variety of responses. Helix seemed impressed. Tulveg was trying not to look at his former lover’s daughter. Meanwhile, Adam's gaze was vacant and distant at once. He was here in flesh, but not in mind.
+
+"Adam," Shiv said worriedly, "you alright, man?"
+
+The Gate Lord sobered immediately. "Ah, yes. I've developed a new ability thanks to my Psychology Skill Evolution. It allows me to dissociate from myself at will. Anyhow, you two are vile. Whatever you did, Ikki refused to even elaborate on it when she got back. She went straight to drinking hard liquor until she passed out. Ikki usually doesn't drink liquor at all, according to some members of your team."
+
+"She doesn't," Uva confirmed, somehow both emotionless and still horrified. She clasped her fingers together and looked upward. "Composer, take me now. I am ready for the Stillfrost."
+
+Sage of the Enkindled Heart: This line of dialogue only leads to further sorrow. I suggest that you distract Adam and everyone else by refocusing his annoyance on the atrocity hovering above us.
+
+As if Integration had a sense of comedic timing, a bit of intestines spilled down on the ground a few meters to their left and splattered apart. A jet of red mist sprayed toward Uva, but Shiv took a step and intercepted the gore on her behalf.
+
+Shiv said through gritted teeth, "What the hells is happening here? What's up with this ring?"
+
+"This,” Helix intoned, raising his hand dramatically to point at the gore ring, “is the Torus of Unceasing Suffering. A construct that I have created through my vaunted mastery and Tulveg’s great power. It is not a thing either of us could have done alone, but now both of us stand proud of this child of vengeance, this engine of hate that we have shaped to ruin and defile the spirits of the First Blood."
+
+"Kill us… Please, just kill us…"
+
+Shiv ignored the pain cries echoing down from above. Instead, his attention zeroed in on the Legendary vampire and the Heroic orc. "Why does it seem like you two are actually friends now?"
+
+Tulveg and Helix shared a look.
+
+"Friends?" Tulveg said. "No such thing. We are simply motivated by a common duty, a common ideal, if you will."
+
+"Our partnership is not based on an absurd notion of mutual acquaintanceship and commonly-shared experiences filled with warmth and wonder." Helix wriggled his potato nose as if friendship were a mound of shit he could smell. "Besides, how can I be friends with someone who thinks so little of Biomancy that they never bothered properly studying it in depth? No, this is a unified front. We are partners in this matter. His power, my wisdom. Together, the Torus of Unceasing Suffering has created scouts built from blood, from mind, and from time. If you have observed, you will have seen flickering spells leaving the Torus, gliding out in the distance, and expanding in all directions."
+
+Helix gestured outward dramatically, and Shiv followed his hands, noticing the many glittering paths lingering behind, painting the air with a sense of wonder that originated at a source of unspeakable evil. "Those spells are charged with a single duty: To seek out any vampires, even across the ravine, to bombard them until their flesh shatters, until their minds break, and then to take them and see them fused in place. Sealed by a cage of time for more following spells to obliterate them forevermore."
+
+"That's three separate things at least, Orc," Uva noted. "You’ve neglected your Math Skill."
+
+"It's a figure of speech!" Helix seethed.
+
+"No, you're just wrong," Uva rejected.
+
+Helix’s nostrils flared. He bent over to better whine directly in Uva’s face. "I’m not wrong! I’m just—you have no idea what my Biomancy—Insul! Stop it! Stop your mate from mocking me! And stop shaking! Don’t laugh at me!"
+
+"I'm trying," Shiv choked out. His body shook as heavy spasms worked their way through him. His mouth was forced closed, because if it fell open a slight centimeter more, he would likely break out in loud guffaws. "You just make it too easy, Helix. You might just be the most bullyable creature in Integration. Anyway, move the flesh ring somewhere else. We're gonna have people coming over. I don't need to traumatize them any more than you guys already will."
+
+"And where do you expect us to move this, Deathless?" Helix asked, stomping his feet. He planted both hands on his hips. But despite his immense size, he resembled a schoolgirl throwing a tantrum against her father rather than a gray-skinned brute that liked to feast on the misery of his enemies.
+
+As such, Shiv played the part of frustrated father. "I don't know, Helix. You made it. You're gonna put it somewhere else. And I'm telling you this right now, when we come out of this Gateway again, I don't want to see it no more. I don't want to smell it. I just want it gone. I want it to be the First Blood's problem, not ours. Right now, it's more of our problem than theirs. Change that."
+
+Shiv took a step forward and planted his finger against Helix's chest, as if trying to deliver a threat. However, he also took that opportunity to send a telepathic message to the orc. “Just move it across the ravine. Blast the godsdamn vampire bastards for all I care. Also, it looks pretty cool. You need to show me how it’s made later.”
+
+Helix played along, drawing his lips back in an animalistic snarl of frustration. "Oh, Insul, you never let us do anything fun."
+
+A telepathic response left the orc leader, conveying his actual message. “You are a wise and mighty Pathbearer, Deathless, and I am glad to have met you.”
+
+Finishing the interaction, Shiv hooked an arm around Uva's, dramatically shouldered Helix aside, and walked on. He also placed a hand behind Adam's back and slowly pushed him back toward the gateway. "They'll deal with this. Don’t worry about it."
+
+"Wait!" Tulveg cried aloud. He took a step forward and awkwardly shuffled in front of Uva. She, meanwhile, seemed to want no part of this. "I believe we need to talk, Mettabon. About many things, and your mother especially."
+
+"Oh, for fuck's sake," Shiv breathed. "Why is everyone around me so godsdamn emotionally incompetent and socially blind?"
+
+Cold and still were the only words that could be used to describe Uva's facial expression and body language. A block of ice had nothing on her. "We will have that conversation when I decide I am ready, Vampire. Not before."
+
+But Tulveg was a vampire on the verge of bursting. His face contorted in anguish. "My words were true. Everything I tried to tell you earlier was true. There are no lies. I—"
+
+Shiv intervened, grasping the Vampire by his shoulders and slowly pulling him back.
+
+"Listen, Tulveg, has anyone told you that you are absolutely shit at reading other people's moods?"
+
+The Legend blinked, suddenly taken aback by Shiv's honesty.
+
+"I… didn’t know," Tulveg said, looking down.
+
+"Well, you are," Shiv continued. "And look, this is a really awkward conversation. You're right, we do need to deal with it at some time. Fuck it, I'll even help you talk to each other. I’ll probably have to, considering that one of you can't understand when the other just wants to be left alone. Now, we can do this right, or you can risk losing your only connection you still have to someone you cared about because you couldn't control yourself. And you don’t want that."
+
+"I don't," Tulveg said quietly, his agitation melting into near despair.
+
+"I know it's hard, and I'll help you. Both of you," Shiv reiterated. "I will be there when you two need to do this, if that's what you want. But right now, we all need to give each other some space. Tulveg, if you have problems, you come talk to me first. Alright?"
+
+Tulveg nodded, but the way he looked and acted told Shiv he was on the verge of considering something immensely unwise.
+
+Helix cleared his throat and gestured for Shiv to leave. "Tulveg," the orc called out, "I will need your help to see the relocation of our Torus. So that the Deathless and his feeble friends are not so burdened by the sight of magnificence."
+
+Tulveg shot Uva a final glance. He reminded Shiv of an abandoned puppy. One that had blood-red eyes, snow-white skin, veins that pooled coarse with dark blood underneath his complexion, and hair that matched the color of deepest midnight. "Very… well, Helix…"
+
+Tulveg and Helix went in one direction, while Shiv, Uva, and Adam marched in another. Uva immediately took the lead, intent on entering the Gate as soon as she could. Shiv didn't blame her, but he meant what he'd said earlier. There were things they all needed to deal with. As Shiv took the rear of the group, he turned back one final time and saw Tulveg and Helix talking at length, but not about the Torus hovering above.
+
+"Am I really so socially and psychologically blind?" Tulveg inquired, his hurt feelings leaking through.
+
+"Yes," Helix responded without any care or concern, "but that is fine. Emotions and Psychology are tertiary skills. You have Biomancy, my dear colleague, and that, is the most important skill a person can have."
+
+Tulveg’s head dropped ever lower, and Helix scoffed. "But if you want to learn how to read someone and understand what their feelings are, then perhaps I might be able to show you a few things."
+
+Shiv snorted with near laughter. Not friends, my ass. Guess beating the shit out of the First Blood works wonders for relationships. Try not to give him the Bully-Bait skill, Helix.
+
+With that, he stepped through the static portal and appeared inside Gate Piety once more.
+
+Waves of pressure washed over the Deathless. He anticipated the sight of the looming Asshole Tower, which now belonged to Adam once more, as well as Starhawk's Perch, which was now placed in front of said Asshole Tower. What he saw at the moment of his emergence, however, was a city in the process of transformation.
+
+The mana core floating in the sky flared brighter than ever before, and everything was drenched in its azure radiance. There was a series of rivers running across the entirety of the Gate now. They flowed to a steady, calming rhythm, and Shiv could see that they passed through the water processing plant. He guessed Adam had fixed whatever was wrong there while he and Uva were on their sabbatical. Unfinished channels and aqueducts were being built near the large river running across the center of the Gate. Shiv wasn't sure why the river was there, but Adam didn't do anything without purpose.
+
+The structural skeletons of numerous additional structures were rising within the confines of new district grids as well. Shiv had personally helped draw out and move the materials for one of these districts a few days ago, but now the building process was truly underway. Already, he could see several concrete longhouses toward the Gate center. Using his Atlas, he realized that most of Blackedge's surviving population was being housed there, near the Perch.
+
+Then there were the changes happening near the surface gateway, opposite to where Uva, Adam, and he stood. The districts there had been redone. The separation between the refugees on the topside and the mercenary holding compound on the bottom was no more. Instead, the mercenary compound seemed to have been expanded, and the stable structures within the refugee district had been moved down. What stood now was a unified district, not a holding facility for prisoners, nor a temporary encampment for the needy and desperate. Everyone had housing there, and it was built in an outward circle with more and more scattered tenements and smaller streets, the structures dotting the exterior making it look like a small city center that scattered off into a peripheral suburb.
+
+Shiv, Uva, and Adam soon found themselves hovering beneath the mana core, and the Gate Lord’s face was a mask of focus.
+
+"Well, you guys have done a lot of remodeling while we were gone," Shiv said.
+
+"We haven't even begun the actual construction effort," Adam replied. "But that's not all. During your absence, did you receive a Quest?"
+
+"A Quest?" Shiv looked through his notifications, and he saw Uva doing the same as her eyes flicked about. When she shook her head, he said, "Nope, no Quest for us."
+
+"Then it's only me." Adam fell silent. "The System has offered me a reward, but I can't quite figure out why."
+
+"What do you mean? What does it want you to do?"
+
+Adam pointed down, and Shiv found himself looking at the river once more. "It wants me to do more than build. It wants me to create a proper city. And it’s offering quite the reward for me to see it done. But… that’s not all. The Gate… It has a questionable new skill. Uva. Link us. Better if I just show the both of you."

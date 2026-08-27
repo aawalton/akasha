@@ -1,0 +1,115 @@
+---
+id: e940b0d0-7d71-5def-8010-60daa83e3a1e
+page-type-slug: story-chapter-royal-road
+title: "277 (II) Unseen, Unheard, Unknown [II] [Book 5 End]"
+slug: 0351-277-ii-unseen-unheard-unknown-ii-book-5-end-2989399
+partOf: path-of-the-deathless-book-4-completed
+position: 351
+ownLength: 2461
+unit: words
+publishedAt: 2026-01-28
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2989399/277-ii-unseen-unheard-unknown-ii-book-5-end"
+royalRoadId: "2989399"
+---
+
+277 (II)
+
+Unseen, Unheard, Unknown [II]
+
+He wasn't the kind to run away. Frankly, the worse the odds, the uglier the fight, the more his blood climbed, rising to a predatory thrill. Shiv really, really hated this Eldritch bullshit. He hated practically all the Outsiders except for the Dreamtaker, who, so far, was more of a disappointment than anything. She didn't make anything worse, but she also wasn't aware of the Eldest—and wasn't any help right now.
+
+"You will not leave this place, Undying Thing. You will be bound to me forever, eternally. Your torment will be eternal, beyond eternal. A thing, a universal constant, a law writ into the very bones of existence. I will swallow the System, and I will bury you deep in its marrow. All that is a part of me will hear you scream. As you did at The Burn."
+
+The Stranger's words came as an omnipresent storm, and Shiv felt the hairs on his body rise just as a grinding weight passed over him. Several of his bones popped and cracked, even through the pillar’s protection.
+
+"Do you feel the urge, Deathless?" the Culturist asked, his eyes still locked on the approaching Fingerling. "Do you feel that want for violence, that drive to throw yourself into an impossible fight, just to see if you can win, if only to spite your adversary?"
+
+Shiv replied with a muted snarl, despising the orc's insight.
+
+The Culturist hummed. "Don't be so offended. I feel the same urge. And yet it is an urge and an itch we both must resist. It's time for you to leave. See to the safe extraction of your home and the transfer of its people across the Tutorial. I suspect it will not be enough for Young Lord Arrow to dissuade the others of my kind from violence and torturous depravity. Both you and the Giantsbane will be needed."
+
+It was only then that Shiv looked past the orc into the distance. He saw a formation of gray bodies swirling around Starhawk's Perch. The castle rose in the air, projecting a beam of propulsion from a single crystalline pillar still embedded in its bottom. Wrapped around its armored exterior was the Court Leviathan. It shrouded Starhawk's Perch using its own body, adding additional cover and serving as space for the refugees that remained of the town's population.
+
+The rest of Blackedge, however, was abandoned, little more than waste. It was a massive plate with pieces of crystal jutting out from the bottom. The space where Starhawk's Perch was missing, the castle uprooted entirely, and surrounding it were only desolate ruins.
+
+Shiv watched as, without fanfare, what was once the fortress town of Blackedge suddenly descended, like a rock dropped from the sky. After a few moments, the disk disappeared into the dense thicket of this distant, hostile realm, into the Stranger's fell embrace.
+
+The last memory Shiv would ever have of his hometown was its desolate, lifeless ruin plunging into the darkness. He wondered just how many bodies were still buried in the rubble, how much history had been forsaken in that instant.
+
+As Starhawk's Perch accelerated toward the dimensional rift, a flaring blaze of incandescence erupted from its underside, and it plunged through the static darkness, parting itself from the Stranger's realm once and for all.
+
+The survivors had escaped.
+
+"It matters not where they go," the Stranger declared. "I will see them returned. They will be drawn back when they hear your screams echo, when they are purged of hope."
+
+The colossal Fingerling finally accelerated. It zoomed forward, moving at a speed that made the air quiver, made the fabric of reality crease and tear.
+
+It seemed that the Stranger no longer had any eyes for Blackedge. No, all his hatred, all his frustration, and the faintest wisp of fear connecting Shiv to his approaching enemy revealed that he was his prime target now. Not ideal, but he'd expected something like this. And so he unleashed the rest of his countermeasures.
+
+"Golems," Shiv called out, his voice echoing far. "Freeze that big son of a bitch."
+
+And that's all he needed to say. Every single one of his remaining Vitae Golems tore through the air, accelerating toward the looming threat. Some of them were rent asunder by the crushing aura, bodies deforming, red and white mana spewing out into the air. But they pressed forward; their Pillars of Orichalcum gleamed bright, preserving them, perhaps just long enough for them to conclude their task.
+
+But as they drew closer, Shiv felt his mouth open slightly as the first of his golems was crushed, pulverized into powder, and then even less by the sheer presence of his adversary. The Culturist hadn't been lying. They needed to get gone.
+
+"Okay, my ribs are really starting to hurt. Time for us to get out of here. Let's get out of here. You guys want to get out of here? Guys? Hello?" Jessica actually seemed worried, and she demonstrated that by opening a dimensional portal with a sweep of her blade.
+
+As soon as the cleft between spaces opened, Shiv found himself staring at the back of Starhawk's Perch. Its long, narrow spire zooming by, and then its crystalline pillar serving as its propulsion driver a moment later.
+
+Through it, Jessica dove across, pulling Shiv along by the wrist, but the Culturist lingered behind. His arms were folded, and there was a look of sublime pleasure on his face, as if he were someone in a theater waiting for a grand show to start.
+
+"The hells are you waiting for?" Shiv called out.
+
+"Just a moment. We will be with you shortly." The orc turned his head. "Don't worry about us. Just go. There is no need for you to stay anymore. The matter will soon be handled."
+
+Despite everything, Shiv wanted to go back for the orc. And he would have if Jessica didn't hiss and drag him off.
+
+"Hey, if he wants to die, let him die. He'll just come back anyway. Besides, it solves part of your problem, doesn't it? Isn't he infesting the soul of your friend or something?"
+
+The Culturist was, and Jessica's words were also true, but something told him the orc didn't intend to fight. He was passive. He was spectating. He was waiting for someone else to do something.
+
+But what was he waiting for, and how exactly were they going to stop the largest of the Stranger’s abominations?
+
+These thoughts remained rooted deep in Shiv's head even as he boarded the bridge of his Court Leviathan, slipping out alongside all the other survivors and the retreating orcs…
+
+***
+
+The Stranger despised the inner flame, this sting of its heart, the sting of its inner organs. He hated the fact that he was aware of the sting, these emotions, these things he felt: anger, resentment, frustration. The inability to focus. The inability to simply be. He was a thing being torn in two directions: forced into individualism, ripped away from being the representation of a realm, ripped away from simply existing in blissful perfection. He hated. He couldn't help but hate. And now he needed to soothe his hatred by reaching through that gap they'd made in his dimension and dragging his victims back so he could finish them off over and over again—especially the aberrant thing, the System's undying child, that insult, that mockery, that unceasing pattern.
+
+And so the Stranger chose to make himself vulnerable. He condensed the bulk of his consciousness, his spirit, the thickest and most concentrated manifestation of his Skill, within its Supplicant. The Fingerling, rivaling a small celestial body in scale, carried a sizable portion of the Stranger's own spiritual energy. Not all of it, not nearly, but enough that if that was broken, if the Supplicant was to be harmed on a level deeper than the false flesh it called matter, then the Stranger himself would be marred, ruined in both self-understanding and plainer ontology. The entire dimension would bear the same injuries, and though the Stranger hated being an individual, he couldn't help but fear non-existence or mutilation of the mind. Just as much as any mere beast or person, he was losing the struggle. The struggle against Integration, against the System’s horrid embrace. He was losing his grip on the Outside, on that unfettered existence, and he knew that it was already too late, perhaps since that first day he felt the System touch his soul, and he could never go back.
+
+And so there was only one path: Forward! Forward! And upon the ruined bones of his adversaries.
+
+The Deathless thing's paltry soul-slaves shattered before the Supplicant's approach. Its sheer magical presence unmade them, its field crushed the world, ground everything unto dust, as roiling waves of decay and entropy bled forth. The Stranger sought a disassembly, a separation of molecules and mana, of everything from its component parts, until finally, flayed and parted, of everything they were, he would seep in between the gaps, and he would wear that ruin as a mantle or a crown.
+
+A mania born of recklessness, desperation, and spite came over the Stranger. He decided he didn't care. He would go over to the other side. He would suffer the winnowing touch of flowing time, of the present that moved too slowly, of the past that simply ceased to be. He would travel to Integrated Earth or whatever dimension the Deathless fled to. He would do to them as they did to him, and he would show them—even if it cost the Stranger in self-power, in bits of soul-stuff—that there were consequences, that some things would need to be suffered—
+
+The vast Supplicant jolted to an unnatural halt. Instead of slamming into something like a force field or being slowed by a spell that stilled time, the inexorable entity simply stopped moving, as if it had arrived at the end of the world. As if nothing could move, or there was no more space to travel beyond a certain point. The Stranger found himself confused on top of enraged, and beside that slight terror that the Deathless stole from it. Why couldn't its offspring move? This was the Stranger’s realm. Everything here was known to him. Everything here was his to control, his to—
+
+And then the Stranger shuddered as two figures appeared before it. Two figures and a thin charcoal line that marked a border, like a sketch on a page—if reality was said page.
+
+The first individual was a false woman. She wore robes of blackness, but her body was comprised of magic, and her core festered with stolen incandescence. Divine flame, usurped and fueled into a near-mortal vessel, transformed, yet not fully, not properly, siphoning that power from another source, an Ascendant. One that the Stranger himself couldn't remember. But that wasn't the foe the Stranger feared.
+
+No, the other made the Eldritch God quiver. The other made him flinch back. Memories—no, past moments, rendered eternal, forever and ever playing on, marking themselves among the Stranger's Skills—echoed through him. From the depths of his being, from that great Delve at the core of his soul.
+
+He recognized him. Of course he recognized him. He couldn't not recognize him. Not after everything he'd done since he was last here.
+
+He looked as he did before, bearing the facade of a man. His face was thin. Those hairs that clung to his chin were few and narrow. But his eyes glowed a corrosive green, and his dark skin gleamed as if kissed by moonlight. He regarded the Supplicant, and the Stranger by extension, with an unimpressed stare.
+
+And through the Stranger's chaotic maelstrom of emotions, he realized why. He hadn't known he was here. He couldn't have known, just like last time. He Who Halts Eternity struck the Stranger at will. He struck the Stranger's fingerlings. He trespassed in and out of this dimension and was never seized, was never caught. He even lived here. He probably still had facilities and sanctuaries hidden deep in the Stranger's very own marrow, in his branches, in his forest, beneath his eyes. The Stranger couldn't find him, had no chance to find him. He didn't understand why; it just was. To be unknown to the unknowable was a near-impossible feat. But Valor Thann succeeded, and Valor Thann greeted one of his older adversaries for the first time in years.
+
+"Hello, Stranger. It is my displeasure to see you again. It is my greater displeasure to be here. But the System cares little for what we want, it seems. Wouldn't you agree?"
+
+And though Eldritch, though supposedly a god, the Stranger was forced by the System to endure more emotions: shame, humiliation, and terror.
+
+"You are broken. You were broken. You were scattered. You should have been destroyed at the gate. My Recollector should have broken you. Should have!"
+
+"And yet, here I am, and here you are, halted within your own realm, facing someone you should have never crossed. I warned you, Stranger. I warned you not to reach back over into Integrated Earth. I warned you, but you never listened. And so I must ask you, did you forget what I told you? Did you forget my warning? Did you forget who I am?"
+
+The Stranger hadn't forgotten, but he refused to bend. There was only so much humiliation he could bear. He tried pushing forward. He couldn't. That sketch, that bit of charcoal, was immutable, undeniable. A rival will, a rival law, a rival god.
+
+"You have not," Valor continued. "I can tell by your actions. You are simply a poor, petulant child, ruined by the System. Even now, I can hear it in you. Your emotions boiling you away. Ruining and rotting your divinity, your unknowable otherness, until you are something like me. You can understand how I feel. You can empathize… Oh, you poor, pitiful creature.
+
+Valor chuckled darkly. "Soon you won't be able to hold on to all this power. Soon all your Fingerlings will be their own creatures, will be their own monsters, and you... merely a powerful individual. Soon you won't even be a god... no, the very incarnation of an entire dimension... an entire reality. Merely another person or beast for the System to play with. Stripped down so far."
+
+The man known as Valor Thann broke into full, bitter laughter—and the Stranger’s soul trembled in terror. "Such a horrible thing. But I know just as you empathize with me, just as you know how to fear me, I share the same feelings with you. I know a few things about loss. And perhaps with recent epiphanies gained, I might teach you a few things more."

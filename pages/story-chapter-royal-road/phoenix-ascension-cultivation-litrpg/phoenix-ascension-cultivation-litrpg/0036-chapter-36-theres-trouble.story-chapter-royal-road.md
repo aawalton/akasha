@@ -1,0 +1,349 @@
+---
+id: cf4ba4bb-e69c-5c43-91c6-3c59c1b0c7ef
+page-type-slug: story-chapter-royal-road
+title: "Chapter 36: There's trouble!"
+slug: 0036-chapter-36-theres-trouble
+partOf: phoenix-ascension-cultivation-litrpg
+position: 36
+ownLength: 3332
+unit: words
+publishedAt: 2025-10-15
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2679637/chapter-36-theres-trouble"
+royalRoadId: "2679637"
+---
+
+The disgust I felt at having used poison could hardly be described in words. Poison pills; skills; powders; I hated all of them. I could hardly believe I did that myself, but between dying, letting the forest be destroyed, and not using it at all, I knew what to choose.
+
+The level up notificaiton did make me feel a little better, though. I decided to sit down and rest, allowing my suddenly plummeted HP to recover.
+
+However standing so close to the corpse of a giant demon, even a lesser one, filled me with unease. Not to mention the Demonic Qi threatening to destroy my cultivation base and kill me.
+
+Effectively, I was crippled until I found a cure.
+
+Damned Holy Affinity. What even was that? Since when were the heavens holy? We had curses and buddhists, now we have holy, bah! The heavens sure like to boast.
+
+Despite saying all that, I sighed. I had no way to get Holy Affinity and cure myself, so my only option would be a buddhist or priest of some sort. The only issue was that, even the kindest of humans would go through moments of weakness.
+
+Even if I wasn’t grown, I was still a Phoenix. Any chance of me meeting a human and surviving were low.
+
+So that leaves me with the worst option, slowly pushing out the Demonic Qi. That would be extremely time-consuming and difficult, with a high chance of failure. Failure here meant death.
+
+I just had to go and pick a fight with those two.
+
+I couldn’t help but reprimand myself. And for what? Even if they were at the foundation establishment stage, they didn’t look all that wealthy. The only reason I did was to stop them from spreading news about the forest, but now it didn’t seem as worth it.
+
+While the thought of leaving our territory pained me, it seemed like a better idea.
+
+Didn’t Mother want us to leave toward Father’s territory? Sigh, so in the end this was pointless.
+
+A wry chuckle left my mouth, and I shook my head with some difficulty. How could I have forgotten such a detail? Maybe System was right, perhaps I was turning into a bird brain.
+
+After half an hour, I stood up and poked at the big guy. Dead.
+
+I grabbed at his waist and yoinked the bag of holding, then walked toward the other guy and did the same. The two halves looked quite ominous, but he was dead for sure.
+
+With two bags of holding around my neck, I took a look around the destruction. The turtle’s corpse was gone, the lake was gone, and a tiny forest fire had started.
+
+I didn’t have the energy to put it out, but it would extinguish sooner or later.
+
+I tried flying, but my wings weren’t quite ready for that yet. I wasn’t sure if they would be ready until I could expel the Demonic Qi. The most amount of it was in my wing after all.
+
+All I could do was walk in shame toward the lake where I’d left the little koi fish. I couldn’t show up in front of Mother in such a state, after all.
+
+The journey there took me a lot longer than I would like to admit. Without being able to fly, my tiny legs could only take me so far.
+
+Along the way I hunted for food, eating whatever I could to recuperate my energy and storing away the rest into the bags of holding.
+
+And so, two days passed.
+
+On the third day, I’d finally arrived at the lake, and the little koi fish looked excited to see me.
+
+“Lord Fire Bird, oh Lord Fire Bird, I thought you’ve gone and abandoned me.” It said before jumping out of the lake.
+
+I quickly shoved it back in and sat down, heaving a sigh of relief. “I went back to your lake to confirm something, and it nearly cost me my life.”
+
+“Your life?” She shook her head. “Lord Fire Bird how could that be. Surely the turtle wasn’t that strong.”
+
+“Turtle?” I chuckled bitterly. “The turtle was long dead by the time I got there. But I went and picked a fight with some meddlesome humans and well…” I pointed toward my wing.
+
+“Lord Fire Bird, that’s awful. How could that be? I have never seen humans in the days I lived there.”
+
+“Bad luck I suppose. They discovered the shiny rocks at the bottom and took them, then I fought them for it. Turns out they had some sort of demonic techniques and well… yeah.” I wasn’t sure I wanted to tell it the whole story. The little fish did pledge allegiance to me and everything.
+
+I had to look like a good master, or teacher at least!
+
+“It’s just a scratch; I’ll be fine.”
+
+“If Lord Fire Bird says so.” However she took a look at my wounds. Some hadn’t fully healed, especially where the Demonic Qi had infiltrated my flesh. Old wounds refused to heal, and they hurt quite a bit when I moved about.
+
+“Lord Fire Bird, if I may?”
+
+“Hmm?” I hummed and approached the little fish. I didn’t kno-w what she wanted to do, but it wasn’t like she could do anything to me anyway.
+
+However, I couldn’t have expected her to splash me with water. Not water from the lake, but water from inside her body. “What are you doing?!” My anger flared, but soon subsidised upon feeling a warmth on my wing.
+
+I spread it with a bit of discomfort and noticed that the minor wounds were beginign to heal. Well, at least those that were barely touched by the Demonic Qi. It wasn’t a lot, but the fact that she could do that was amazing.
+
+“Little fish, what is this?”
+
+“Reporting to Lord Fire Bird, I believe my water can heal.”
+
+“Huh? What evolution did you pick?”
+
+“Evolution?” She looked at me with a questioning expression. “What is evolution?”
+
+Right… she probably hasn’t reached level 10. Shit, then can a koi fish heal people? No, there must be more to this tiny fish than I first thought.
+
+“Never mind that. Are you using a skill, like your bubble shot or is that just something you’ve always been able to do?”
+
+“Er… I think it’s a skill? I couldn’t always do it, but I didn’t need to do anything to activate it.”
+
+A passive skill that heals wounds with water? Now that’s something…
+
+“I see. That’s quite an amazing power. I would reccomend you keep it hidden until you grow stronger.”
+
+She nodded, then looked at the two bags of holding around my neck. “What are those?”
+
+“Oh?” I took them off and placed them on the ground, ign-oring the dried blood. “They’re bags of holding. Those two had one each and they must have some pretty awesome treasure. Unfortunately I can’t open them right now.”
+
+“Master, can I try?”
+
+“Hmm? Sure.”
+
+Hearing that, the little koi fish jumped out of the water, landing next to the bags. “How do I do it?”
+
+Do you even have Qi? Are you a cultivating fish? I wouldn’t be surprised if she had some Qi. I bet those panthers had a lot of Qi leeching off of the Qi Lake.
+
+“You put your hand, er, flap on the bag and send Qi into it. Then the contents of the bag should appear in your mind.”
+
+“Qi? What’s that, can I eat it?”
+
+“You— Is food all you can think about?”
+
+“Forgive me Lord Fire Bird, but I have been starving these past few days… There are no insects or other type of food here, just me. I fear I may become the food…”
+
+I let out a defeated sigh. How could a koi fish get to level five and gain such a large amount of spirituality by itself? These spring cyrstals or whatever they’re called must be awesome.
+
+“I’ll get you food after we check the contents of the bags, alright?”
+
+“Yay! I’ll do my best Lord Fire Bird, ma’am!”
+
+She then touched a bag with her flap and sent Qi into it without needing my instructions. She really was a talented disciple.
+
+“Wowww Lord Fire Bird, there’s so many things. What are those round things? Oh!!! There’s food, there’s food in here!!”
+
+“Alright, alright, calm down. Imagine yourself taking everything out and sprawling them on the ground. Not in the lake, alright?”
+
+“Yes ma’am!’
+
+A few moments of deep concentration later, all of the contents in inside the bag appeared in front of the little fish and around me. I scanned them carefully, seeing if there was anything of interest.
+
+Pills of all sorts, scrolls, spirit stones, spare clothes, food, water… besides survival essentials and basic cultivator on an outing items, there was also a token with the man’s name on it.
+
+It must be some sort of identification that was completely useless to me. I was neither human nor a man.
+
+He had a few blue crystals, no doubt the ones he took from the lake, but nothing else that really stood out. No weapons or armor or anything of the sort.
+
+There was a strange scroll amongst them, though, and it reeked of demonic energy. I didn’t even want to touch it.
+
+“Ptiu—” A strange sound made me turn my neck toward the little fish, who’d taken a bite out of the food the cultivators brought. “Lord Fire Bird, this doesn’t taste good at all. It must be broken.”
+
+I looked at the food she tried— pork jerky and vegetables. Of course it didn’t taste good, how could such inferior food compare to the nutrients provided by a fatty wild boar or bear? It couldn’t that much was for sure.
+
+“Hurry up and do the same for the other one.”
+
+She nodded and took out all the items from the second bag. More of the same, nothing that stood out besides another demonic scroll.
+
+They were either very stupid or the true nature of the scroll was hidden. The skinny one said something about the color of the pills being different, so they were definitely scammed.
+
+I went over and grabbed the blue crystals, giving them a good look and confirming they were indeed the same one I got from the first Qi Lake I encountered.
+
+They were tiny, much smaller than the one I’d found the first time around. They were also less potent from what I could feel. Not that I could take out the other one to compare, it was in the bag of holding I hid away.
+
+Which I couldn’t use anymore in fear of the Demonic Qi spreading further into my dantian. I didn’t know how I would operate going forward, but I better get some more Bloodline Skills.
+
+Speaking of… I did get one when I levelled up. That had never happened before, so at least the future was looking bright in that regard. I could try it out soon, as I was planning on going to hunt to feed both myself and the little koi fish. Sustenance was important, after all.
+
+“Well I got what I wanted. You can put these back in the bags.”
+
+“Eh? Put them back… but Lord Fire Bird… how do I do that?”
+
+Sigh…
+
+***
+
+[Paralyzing Screech]
+
+[Let out a screech that paralyzes anyone that hears it. Afflict the target with the [Paralysis] status effect. The efectivess of the attack depends on user’s INT, and the target’s resistances.]
+
+[Paralysis]
+
+[A status effect applicable from a number of sources. Once the status effect is applied on a target, the target cannot move or use any skills during the duration of the status effect. Duration and effect depends on the target’s resistances.]
+
+Well that was interesting to say the least.
+
+So if I screamed loud enough, my target would become vulnerable to my attacks. That was not bad, granted I didn’t have any allies around, unless I could somehow make it not hit my allies.
+
+Well, since I was on a solo hunting mission, there shouldn’t be any issues, and I could safely use the skill. It was a shame I could not use Qi for the time being, but there was a silver lining in my situation. I would be forced to rely on the bloodline skills I couldn’t, and my Phoenix Fire is at quite a high level.
+
+Actually, I didn’t check the notifications after the battle and rushed straight toward the lake. By the time I thought to, they had expired.
+
+Well, it was time for my favorite— fill my vision with text— technique!
+
+System, show me the skills!
+
+Active Skills
+
+[Peck: Beginner]
+
+[Nirvanic Flames: Expert]
+
+[Iron Claws: Intermediate]
+
+[Strengthened Constituion: Intermediate]
+
+[Stealth[Lesser]: Intermediate]
+
+[Tail Whip: Intermediate]
+
+[Lord's Call: Novice]
+
+[Side Step: Expert]
+
+[Myriad Qi Needle: Beginner]
+
+[Shadow Cloak: Beginner]
+
+[Heaven's Protection: Beginner]
+
+[Dragon Flames: Intermediate]
+
+Passive Skills
+
+[Evasion: Expert]
+
+[Poison Resistance[Greater]: Novice]
+
+[Dragonbone Tempering: Intermediate]
+
+[Pain Tolerance: Expert]
+
+[Water Breathing: Novice]
+
+Bloodline Skills
+
+[Phoenix Fire: Expert]
+
+[Phoenix Reflex: Beginner]
+
+[Ember Step: Beginner]
+
+[Elemental Wave: Beginner]
+
+[Precise Flame Control: Beginner]
+
+[Paralyzing Screech: Novice]
+
+Oho! It looks like most of my skills went up a rank! All of my  Active Skills besides Lord’s call ranked up, and so did the Dragonbone Tempering skill. Come to think of it, it was pretty amazing that I survived being hurled while under the influence of the Demonic Qi.
+
+That skill most likely saved my life, though I couldn’t tell what it did. System’s description was too vague. Perhaps later when it evolves I will get a clearer picture.
+
+My Bloodline Skills also went up a rank, which was awesome. Well, they ought to have after how much I’ve used them. I wonder what will happen when one of them reaches the Master rank. Oh, I needed to train so much more. Level up, gain skills, evolve!
+
+Growl…
+
+Not on an empty stomach!
+
+***
+
+I found my first victim: A giant bear-like beast. Besides its gigantic paws, it looked like any other bear I’d seen before. It reminded me of a tiny version of the bear mother brought me to eat some time ago.
+
+It didn’t taste all that good, but what could you do?
+
+Eager to test my Paralyzing Screech, I snuck up behind it— without the stealth skills— and screeched.
+
+Before it could even registered what happened, its body froze, and I carefully walked in front of it. The bear couldn’t move as much as a finger, and the only way for me to know it wasn’t a statue was by the fact that its bloodshot eyes managed to follow my every move.
+
+Awesome… It didn’t even take that much effort.
+
+“Forgive me, but a bird and a fish need to eat.”
+
+I jumped and slashed across its throat, blood sprouting like a fountain as it died while still paraylized.
+
+[You have slan [Brawler Bear] Level 11]
+
+[XP Acquired]
+
+Once the job was done, I didn’t consider the fact that carrying the bear without  Strengthened Constituion or being able to fly would be a problem. I’d gotten so used to being able to well, use them, that I’d neglected that.
+
+So the only thing I could do was eat my fill and dig for the important parts to feed to the fish. Even then, I could only carry so much.
+
+After pecking at it for a while, I took out the belly fat, core and brain, then ate as much as I could before rushing back to the lake.
+
+Carrying all of those hings in my beak was a herculean task to say the least, but I managed.
+
+“Lord Fire Bird, you’re back!” The little fish called to me from within her lake, all the items the cultivators had safely stored away in the storage bags. “What did you bring me?”
+
+I didn’t reply, but instead threw the meat, brain and core inside her lake. She immediately started breaking the meat into bite sized pieces, eating them as she did so. The scene was a little funny, but also interesting.
+
+A koi fish of all things gained sentience, somehow levelled up to at least five and has become my subordinate. Fate was a funny thing, but also very flimsy.
+
+While I was deep in thought, the little koi fish’s voice sounded in my ears. “Lord Fire Bird, what is this round thing?”
+
+“That’s a core. Push it against your head and absorb it. It’s a beast core, but it should still give you some good stats.”
+
+“Eh? Is that so? Alright, I’ll do as Lord Fire Bird says then.”
+
+And so she did. The little koi fish dove to the bottom of the lake and absorbed the core, turning into a useless gray stone.
+
+“Well, what did you get?”
+
+“Uh… it says I got one strength. Is that good?”
+
+“Mhm, that’s… well, that’s not bad.” I said, squinting. A single stat point? That was strange, no XP and no Qi either. That wasn’t something I was accustomed to. Sure, there were times when the cores gave me more or less, but never only one stat point.
+
+Could it have something to do with me being a Phoenix?
+
+I wouldn’t know the answer to that question unless I asked Mother.
+
+Wait… Mother!
+
+I’d completely forgotten, I’ve been gone for more than four days. If she wasn’t worried sick she would be turning the forest over trying to find me!
+
+Jumping to my feet, I instructed the little koi fish to keep the bags in the lake and also told her to grab one of the blue crystals and to place them within. If she was hungry, she could eat what the cultivators had, but I would come back soon to fed her.
+
+“If I don’t return in three days go back to the river and fend for yourself. I’ll come look for you. If something does happen and I don’t return, let us meet again if fate allows it.”
+
+“Lord Fire Bird, what are you saying?!” However I didn’t rest to answer. While I wished I could take the sky, all I could do was run as fast as my tiny legs could take me and hurry toward the nest.
+
+I had a bad feeling.
+
+A really, really bad feeling.
+
+The way to the nest was way longer than I thought. Not being able to fly was a huge inconvenience. However, what other choice did I have?
+
+The terrain changed fast in front of me, turning into a blur thanks to my high stats. Whilst I was tiny, I was at least fast, strong and agile. Pair that with Phoenix Reflexes, and I moved through the forest better than any feline ever would be able to.
+
+When I left for the nest, the sun was midway through the sky, when I arrived at our tree, it was already beginning to set.
+
+I hastily climbed up the way I did so many weeks back, clawing my way toward the safety of Mother’s feathers.
+
+However, she wasn’t there. The nest had no signs of being used in the past few days. She definitely went out searching for me.
+
+Mother, please be safe.
+
+I could only pray and hope, but the bad feeling taking root deep inside my gut bloomed into a thorny vine that wrapped around my heart.
+
+I waited. The sun set, then it rose, and then it set again.
+
+I couldn’t sleep, I couldn’t eat or drink. Mother hadn’t returned yet.
+
+When the sun rose on the second day, I heard the wild flapping of the wings, and looked toward the horizon.
+
+I didn’t need to squint to see that it was Mother, hurrying toward the nest.
+
+The happiness in my heart got extinguished as soon as it appeared, because behind her chased half a dozen cultivators.
+
+I looked at the ground and saw another two dozen, and Mother’s sharp, panicked screech echoed inside my mind.
+
+“Little Flame, there’s trouble, run!”

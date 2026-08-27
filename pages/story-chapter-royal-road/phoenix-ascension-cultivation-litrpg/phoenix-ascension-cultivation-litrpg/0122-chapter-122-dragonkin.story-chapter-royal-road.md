@@ -1,0 +1,169 @@
+---
+id: dd473eee-94b4-56cf-b60f-7d06401562d0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 122: Dragonkin"
+slug: 0122-chapter-122-dragonkin
+partOf: phoenix-ascension-cultivation-litrpg
+position: 122
+ownLength: 2017
+unit: words
+publishedAt: 2026-05-04
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3355440/chapter-122-dragonkin"
+royalRoadId: "3355440"
+---
+
+The man flew down without a sound, as it didn’t seem like he was affected by wind. Or maybe, he didn’t affect the wind. Either way, not even the dust rose as he impacted the ground.
+
+I wasn’t sure what sort of laws he’d studied, but for a Foundation Establishment cultivator to make such progress was rather outstanding. I would say, I was rather impressed by that, and his cultivation was rather well contained as well.
+
+Putting aside the surprisingly logical yet annoyingly boring scenario, I could tell that he would be a fun opponent.
+
+He looked around, his gaze locking onto the Moon Bloom for a moment before letting out a sigh. “I came here for the money, honestly. Fighting a bird wasn’t on my list of tasks for today.”
+
+If he only wanted money… Well, could I just bribe him then? No, I didn’t have any actual money, only  credit. That sucked, and I still didn’t feel like talking. Honestly screeching was way funnier than using words, and far more effective.
+
+Then again, I wasn’t even sure if Meng Mao would stick to his promise of paying out the bounty. I was sure he was watching right about now, and if he was even slightly sane, he would also question himself.
+
+The man turned to me after staring at the blooming flower for a second, and smiled. “I can tell you’re strong, so why don’t we do something else? Watching you wipe the floor with these guys was boring, as neither of them ever went for anything strong. It looked to me like they weren’t even trying, or maybe you’re just that strong?”
+
+It was a question directed as himself as much as it was at me, and I wasn’t going to answer, so he would have to find out.
+
+Although it looked like he was already planning on doing that, to be honest.
+
+“Well then, shall we get started?” He placed a hand over his hilt and the other on his hip, looking at me with a curious gaze.
+
+The feeling I got from that man was unlike any other. He didn’t hesitate to kill, even in such a meaningless contest, which meant that he really didn’t give a fuck about these people’s backings.
+
+That could also mean two or so things. Either he knew their identities and deemed them to be worthless, or his identity was so high he didn’t have to give a shit. Judging by his appearance and attire, I was willing to bet toward the former.
+
+Although his hanfu looked normal at first glance, a closer inspection would reveal that it was made with incredibly expensive materials, and, although impractical, there was some gold at the base of his hilt.
+
+Not that gold was particularly expensive, as jade and other such stones were far more precious and useful.
+
+That wasn’t the point though, and I eventually had to stop rambling, as the man was staring at me.
+
+I let out a screech in agreement, though didn’t immediately attack. People ussualy used the same rules, but something told me the guy that was willing to kill wouldn’t be satisfied with just that.
+
+“How do you want to decide the winner? First to die?”
+
+I screeched with disapproval. I really didn’t want to bother killing more people for a flower.
+
+“Then the first to draw blood?”
+
+That one was a better option. I screeched, agreeing, and got ready for a fight.
+
+“Alright then. It will be quick. I really need that money.” He said with a self-confident smile, then gripped the hilt of his sword.
+
+The moment he did so, some technique seemed to have activated, but it didn’t look like it was a sword skill. I could feel the Qi in the area gather around his body, but not getting absorbed.
+
+There were plenty of techniques that did that, but the most common ones were self-boosting ones that made one faster, stronger, more agile, and all of the above. I also used self-boosting skills, but my control of Qi was so refined that I could use the one in my dantian without issues.
+
+There were no drawbacks to either method, though, so one could go wild.
+
+I activated Strengthened Constitution, cast Heaven’s Protection, and I would have liked to start a small instance of burning wind. Unfortunately, that could possibly kill the very flower I was fighting for.
+
+Instead, I opted to use my body, as that would make for a better challenge. Plus, there was one skill I’d never used yet.
+
+Seeing that the man had yet to act, I took the first step, and disappeared.
+
+Re-appearing right in front of him, I used the brand new Mad Charge skill, and, well, charged at him.
+
+He didn’t expect that, his face reflecting his surprise.
+
+Unfortunately, there was something I hadn’t calculated either.
+
+My body wasn’t made to charge with.
+
+Our bodies collided, my head and its mid-section, and while I did do some damage, I also took some in kind. The momentary dizziness was rather strange, but I quickly recovered and used Side Step to dodge an incredibly fast sword strike.
+
+The place where I once stood exploded, raising dust. IT wasn’t enough for our vision to be blocked, and it wasn’t like dust could block Divine Sense, so the man threw another sword strike right where I landed.
+
+Heaven’s Protection shattered, allowing me to step back and recover. The cooldown wouldn’t allow me to cast it again for a hot minute, time in which I had to dodge better.
+
+Thanfkully, Side Step had no such weakness, so I used it again to clear the gap between us and struck at his legs with Iron Claws.
+
+Some notifications popped up, which I ignored, but a powerful feeling coursed through my legs as the skill activated.
+
+Steel met steel, and I could tell that Iron Claws had ranked up, but wasn’t it at Master rank already?
+
+Did it evolve?
+
+Unfortunately, I had no time to think about that, as we pushed each other back. The strength behind his blow was genuine, and he was no joke. For a Foundation Establishment cultivator to push me back like so, he was really strong.
+
+So what if I wasn’t at Foundation Establishment yet? I was a Phoenix god damn it!
+
+Even though I really wasn’t acting like one at the moment.
+
+Anyway, I kept attacking, lunging forward with another Side Step, then swiping at his stomach with Blade Wing. He sucked his belly in, making me only cut his robe.
+
+A frown appeared on his face at that, but it quickly disappeared. Rich boy could afford other clothes.
+
+I decided to chain the failed attack with a jump and a Peck, which met the mark somewhere below his neck. However, instead of the flesh I was expecting to taste, my entire head vibrated as I hit a barrier of sorts.
+
+Without much time to think, I flapped my wings and flew high, barely dodging a sword strike.
+
+The man raised his eyebrows and pulled out another sword from his spatial storage, jumping on top of it and following me in the sky.
+
+We didn’t immediately jump at each other’s throats, but instead hovered. Well, he hovered, I still had to flap my wings to remain mid-air.
+
+He gave me a more scrutinious look, and smiled as he tested the sharpness of his blade by prickling his finger with it.
+
+“You’re not bad for a Spirit Beast. Since I don’t know your name, and it doesn’t look like you can speak, I’ll just name you Orange Bird.”
+
+I screeched in dissatisfaction, but he ignored it.
+
+“My name is Lu Fu. I do not belong to anyone, or anything. I am by my lonesome, unfortunately, and I have a goal. It is not revenge, nor is it some self-righteous mission. No, my goal is simple. I want to become the best swordsman the world has ever seen.”
+
+Well, that was a rather nice speech, I supposed. How could I tell him that he’d already fucked up his sword path though? The best sword cultivators didn’t use Qi, but another, scarcer resource.
+
+Some called it intent, so me called it will, I call it bullshit, because I never managed to use it.
+
+That aside, he was promising,  and had a powerful will. Was he a little bit lunatic, talking like that to a bird? Sure. Was he an asshole for calling me ‘Orange Bird’? Definetely.
+
+But oh well. Maybe I would give him a hint toward the right path?
+
+Speaking of paths, what the fuck happened to my Iron Claws?
+
+[Skill: Iron Claws(Master) has reached the pinnacle of mastery.]
+
+Gee… thanks. Wasn’t it already at fucking Master, though?
+
+[The skill had reached initial master when your mastery of it broke past the eighty percent threshold, now it is at one hundred percent.]
+
+So… what now?
+
+[Nothing, unless you find a way to evolve it. As a reminder, certain skills evolve automatically, certain ones don’t ever evolve, certain ones require an amount of Skill Points, and some others need to meet some special condition.]
+
+So where does this skill fall in all of that?
+
+System stoped responding after I asked it that, rather rude of it. But I got the gist of what was happening, and while it was awesome, I really didn’t like it. I supposed I had to discover a way to evolve Iron Claws, but man was that not fun.
+
+I must have lost myself in my head again as I caught Lu Fu staring at me strangely. Giving my head a good shake, I soared to the sky and let out a screech, announcing my attack.
+
+I was planning on doig an Aerial Dive, pairing it with redirection in case anything happened. However, my plans got thwarted as the man charged toward me, which should have been good, if not for the immense amount of Qi gathering around him.
+
+With that new development, I decided not to risk it, and used Aerial Redirection to dodge out of the way. Stopping on the ground, I turned back and saw Lu Fu follow me with a maniecal expression.
+
+Raising his word, he used an attack smilar to the guy from before. However, his Qi was sharper, more concentrated and far less wild. It was like comparing a normal sword to one that had been sharpened one hundred times.
+
+That also mean I couldn’t tank it like I did before, so I opted to Side Step instead. However, the seemingly telegprahed attack was rather flexible, as the Sword Qi followed me even after I moved away, which mean that I would either have to take the hit or…
+
+A quick Ember Step put me right in front of the descending cultitvator, Heaven’s Protection broke and rankedup, giving me one moment of safety before the attack would definetely make me bleed.
+
+However, I grabbed that one moment, and activated Blade Wing, swiping at his neck. If he didn’t stop the skil to dodge, he might die.
+
+Not to anybody’s surprise, he stopped it just in time for me to survive, and fell back. Clicking his tongue, Lu Fu stared at me with curiosity.
+
+He must have realised something.
+
+Whatever it was, it didn’t matter. The moon was almost in the center of the sky, it was time to end it before the Moon Bloom bloomed.
+
+With a loud screech, I covered myself with Qi and fire, then took to the skies. I was planning on ending it quick.
+
+Lu Fu seemed to have had the same plan as me, as he let more and more QI gather around him.
+
+With a small huff, he flew onto his sword and followed me to the sky. SOmething changed when he stopped, though, and a savage, primordial sort of aura emanated from his body.
+
+I fely my eyes narrow as I watched his light olive skin get covered in dark scales that didn’t at all compliment his tone.
+
+I also realised why he gave me such a strange feeling.He was dargonkin.

@@ -1,0 +1,353 @@
+---
+id: 551404a1-6c35-5089-ad4d-bb94b00e77a1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 99: Executing the plan"
+slug: 0099-chapter-99-executing-the-plan
+partOf: phoenix-ascension-cultivation-litrpg
+position: 99
+ownLength: 4385
+unit: words
+publishedAt: 2026-03-11
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3141918/chapter-99-executing-the-plan"
+royalRoadId: "3141918"
+---
+
+Chiao Zhen sat in his seat, tapping his fingers against the arm rests. A lot has happened over the past few days, and very little in his favor.
+
+That damned Shu Lao…
+
+It all began with him. If he hadn’t returned from the dead, then Chiao Zhen would have been able to sell that pill, make enough money to leave the Hu Village behind, and start a business in the big city.
+
+But no, he’d been blackmailed and basically forced into staging a tournament, and he hoped that his useless son would win against a crippled Shu Wao Tu and the girl who could barely be considered a cultivator.
+
+If only he knew how useless Chiao Gu actually was.
+
+Not only had he lost, but he lost after interacting with a demonic cultivator. Thankfully, not m any people noticed that there was something strange about him, but Chiao Zhen did, even if not immediately.
+
+He didn’t know what to do, but knew that Shu Wao Tu had gone through a similar change, judging by his appearance and sudden increase in cultivation level. Nevermind the fact he could cultivate in the first place.
+
+After calming down and processing the loss of a generational fortune, there were a few things he did. First, he paid a visit to his stupid son, and found out that a Demonic Cultivator had paid him a visit and enticed him with sweet nothing.
+
+Chiao Zhen knew it was far too late to save his useless son, but he also didn’t want to kill him. After giving him a good beating, he locked him up in the clan dungeon, wanting to find a cure for him sooner or later.
+
+That was, if whatever the Demonic Cultivator did to him was even reversible.
+
+After making sure his reputation couldn’t be damaged further, he investigated the woman that appeared at the tournament. He had never seen her before and it was obvious that she wasn’t related to the Shu siblings.
+
+Yet, she was helping them, which made little to no sense to him. When he looked into her background through the usual means, he could not find anything. Most people didn’t even know she existed.
+
+The Myriad Market also refused to sell any sort of information on her, which made him back out and decide that it was better not to mess with people like her.
+
+However, one small issue was that the Golden Arch City branch of the Myriad Market was extremely unhappy with his breach of contract, and decided that  they needed to be compensated for their time.
+
+The sum they put out was exorbitant, however Chiao Zhen figured that turning in one Demonic Cultivator could cover the cost.
+
+Nobody liked them, and everyone wanted them dead. However, he couldn’t give up his son, so the next obvious solution was capturing, or killing, Shu Wao Tu.
+
+That also killed two birds with one stone, quite literally and figuratively, as his sister would get killed as well, and uproot the poisonous plant before it could bear fruit.
+
+Chiao Zhen knew damn well that if they were allowed to grow, the two would seek revenge on him and his clan, and that was the last thing he needed on his plate.
+
+Therefore, he sent out a notice through the black market, but even after waiting for a day, no one had wanted to take on the request.
+
+Apparently killing children was too far even for assassins.
+
+It was only when he increased the reward by a large amount that a group of assassins replied, and hurried to the small Hu Village as soon as possible.
+
+From then on, Chiao Zhen thought all of his problems would be solved. He would use the reward money to pay back the Myriad Market and a portion of the assassin’s payment, his son would eventually get cured, and all would return to normal.
+
+And if that woman and Shu Lao wanted trouble with him? So what? They could not kill him so brazenly. There were rules in place, and the City Lord was on his side already. Would he need to ‘donate’ more money to the city? Sure, but his life was worth more than some Spirit Stones.
+
+However, he could have never expected Shang Hue to be there with the siblings. She killed  four assasins, and now he was indebted to the organisation he hired.
+
+Chiao Zhen would have to pay them back eventually, both for the fact that they lost four assassins, and that he hadn’t given them enough information. He found that it wasn’t fair, but what could he do?
+
+Run away? Commit suicide?
+
+Impossible.
+
+Even now he could feel it. The gaze of the Peak Foundation Establishment Realm expert watching him from atop his roofs. He stood unmoving, and the other four assassins accompanied him, patrolling, watching.
+
+If he tried to do anything risky, he would be locked down before he knew it, and possibly even killed. His safest choice was to wait and think about the future.
+
+Those Shu clan bastards… Their assets were worth a lot, but not enough to justify all the effort I’d spent on wilting down their strength. Whoever sold me that information deserves to die a thousand deaths.
+
+Chiao Zhen lamented about the fact that he’d made an entire clan disappear both for their wealth, and most importantly, for the secrets they hid.
+
+He didn’t know what sort of secrets, but he was told that it could be found within their estate, and that he would know once he saw it.
+
+So he plotted for the better part of a decade, stealing away their trade partners at a loss, forcing the clan head to ‘disappear’ using the decree of the City Lord, driving the mother to suicide via extreme means, and assimilating their assets.
+
+Ten years.
+
+It took him so long, and all for what? He didn’t find any treasure or secret, just material things that he sold off or absorbed into his assets.
+
+Now he didn’t regret that decision, but he regretted listening to his stupid son.
+
+If he could turn back time, he would have killed those damned children immediately instead of letting Chiao Gu toy with them.
+
+But it was too late, and he could only regret, plan and wait.
+
+Just as he thought about the best way to deal with Shu Lao, something changed, and everybody could feel it. There was a presence now, one that made him shudder.
+
+Just what is this…
+
+He rushed outside, his actions not at all unusual in the eyes of the assassins, as he too felt the presence that suddenly entered the estate.
+
+The man watched from the top of his roof as a man that didn’t look to be older than twenty five walked in, hands clasped behind his back and a smile creasing his thin lips.
+
+The leader of the assassin organisation, Teng Yu, didn’t know why, but he felt a faint feeling of danger coming from the man. Like a sleeping dragon pretending to be a tiger.
+
+“S-S-S-Shu Lao! What are you doing here?” Chiao Zhen pointed at the man, fear oozing through his voice. Teng Yu raised an eyebrow, but decided to watch for the moment.
+
+“Ah, but I’m sure you know.” Shu Lao replied, that smile never leaving his face. “I’d heard of what happened to my nephews, and I was quite interested in paying you a visit.”
+
+“Shu Wao Tu and Shu Xu Ning? What happened to them?”
+
+“Oh…” Shu Lao chuckled coldly. “Don’t play the fool, Chiao Zhen. You should have known that you should not have played with me.”
+
+“I don’t know what you’re talking about.” Chiao Zhen replied, though his voice gave away his nerves.
+
+“No, no, now. Did you already forget what happened the last time we met?”
+
+“Hmph!” The fat man scoffed. “You’re not a Nascent Soul cultivator, stop bulshitting me.”
+
+“Oh? And how do you know that?”
+
+“Because if you were,” Chiao Zhen smiled in a feeble attempt to look more threatening. “Then you would have killed me and be done with it, instead of setting up a tournament.”
+
+“Is that so?” Shu Lao’s smiled remained, though the temperature dropped significantly as his words left his mouth.
+
+“You got me.” He said with a chuckle, then stared down at the trembling fatty. “Do you want to fight, then?”
+
+In that moment, for whatever reason, Chiao Zhen felt his strength diminish by a not so subtle amount. His knees buckled, and in that moment, despite being at the Middle Stage of Foundation Establishment, he knew that he would not survive against the man before him.
+
+Sensing Shu Lao’s fighting intent, Teng Yu hopped down from the roof, the other four assassins following suit and circling the man.
+
+He quickly looked around at the new arrivals, the smile on his lips widening. “So these are the bastards who tried to kill my newphew and niece?”
+
+Hearing that, Teng Yu felt disgusted with himself. Had he really needed to take this job? No, but the money was far too enticing for this organisation to stand idly by.
+
+They were one of the strongest in the area, but in such an insignificant part of the continent, that wasn’t saying much.
+
+He was their main strength, as their leader. A Peak Foundation Establishment Expert was an overlord around there, but nothing much in the bigger cities. Even Golden Arch City had a few like him.
+
+That wasn’t to say he was weak, but that int he grand scheme of things he wasn’t worth a damn. He wanted to change that, he wanted to become stronger, he wanted to move past Hu Village, Golden Arch City, and this province of the empire.
+
+And to do that he needed power, funds and people.
+
+He had neither of those at the moment. His dream was of creating the biggest, most dangerous and most respected assassin organisation. Feared thorough the entire empire, with enough money to build a city.
+
+Teng Yu could still do it, but he needed to recruit more people, and to avoid taking stupid jobs like that one.
+
+Despite the sense of danger Shu Lao gave him, he could tell that the man wasn’t that strong. He didn’t have the distinct aura of a Foundation Establishment Cultivator, and even if he could hide it, it would require him to be far stronger than Teng Yu.
+
+Which could not be the case, as Chiao Zhen said, why bother himself with those petty tricks if he had the strength to take what he wanted?
+
+As a result, Teng Yu didn’t fear him, and neither did his brothers. They were all at least in the Early Stage of Foundation Establishment, so he was confident they could take on that man, even if his aura was a little off.
+
+He didn’t answer the man, but instead needed to decide what to do about him. Their faces were covered, so there was no-
+
+“Teng Yu, was it?” The man looked at him, shocking Teng Yu to his very core.
+
+How?
+
+“Feng Ye, Guang Ju, Guang Jie— are the two of you siblings?— and Huo Li. Did I get you all right?”
+
+“You- How?”
+
+All of their identities were kept a secret, especially his, Teng Yu made sure of that. He’d left his past behind, hid his identity, his face and even cultivation arts. He made sure that his true name didn’t exist anymore, yet that man…
+
+He can’t be left alive. Damn it, and I’ll have to kill Chiao Zhen as well. Fuck, I’ll steal what I can and get out of here.
+
+Teng Yu cursed the day he accepted that assasination request.
+
+He was the first to attack, his sword imbued with Poison Qi. That was Teng Yu’s most proudest achievement thus far. In order to use the technique, he had to concoct the poison himself before being able to replicate its effects with Qi.
+
+He had to understand how it worked, how it spread thorough the body, how it affected the blood, brain and everything else. For that, Teng Yu became an alchemist and shed his morals. No smal amount of people died for his experiments, and an even bigger amount after he’d successfully developed it.
+
+“Ugh, poison.” Shu Lao’s expression changed for the first time since appearing in the estate, and he looked disgusted at seeing Teng Yu’s life achievement.
+
+“You dare?!” He shouted and used a movement skill to disappear. However, it didn’t feel right. Somehow, he felt slower, weaker, less perceptive.
+
+What did he do?
+
+It was obvious that the man had done something, but it was hard to figure out what. Teng Yu hadn’t detected anything.
+
+“How boring.” Shu Lao said and slapped his bag of holding, a sword imbued with lightning appearing in his hand.
+
+“What?!” Chiao Zhen exclaimed, clearly shocked.
+
+However, Teng Yu could not afford to pay the man any attention. The moment that sword came out he knew he had to take things seriously.
+
+Imbuing his body with Qi, he raised his speed, strength and durability while weaving a one handed sign and opening his mouth.
+
+A purple mist escaped his throat, surrounding him and the area he was in. Teng Yu wasn’t afraid of poisoning his fellow members, as he’d trained them all to gain an immunity to all of his poisons.
+
+If Chiao Zhen died, well, he couldn’t care less about him.
+
+That poison he spat out was also a poison he was very proud of. He’d gotten it from studying Jade Serpents, and even killing one that evovled a few times, using its core as the base. It took him a lot of pain to get an immunity, but he also gained an inherent understanding of how poisons work.
+
+He had a lot to thank that Jade Serpent for.
+
+When the poison reached the man, he was hoping that it was all it would take to kill him. There weren’t many people that could survive that mist, as it seeped in the bloodstream through the pores.
+
+Unless one had excellent control over their body, completely avoiding it was impossible.
+
+However, Teng Yu’s expression froze even as he advanced, as the man… laughed.
+
+“How laughable.” He said, taking in a deep breath. “This  is what you call poison?” Shu Lao shook his head and swung his sword, parrying all four arrows coming from the archers.
+
+Whilst all of them were archers, they were assassins first and foremost. However, taking out targets from a distance was much better than braving them in close combat.
+
+However, if need be, their skills with the dagger didn’t pale in comparison to the bow.
+
+Yet, that man had dodged all of their strikes with a swingle swing of his sword. It was so fast, it was difficult even for Teng Yu to follow.
+
+Just as he was within striking distance, and swung his sword at the mysterious man, he disappeared, and Teng Yu struck thin air.
+
+“Watch out!” He yelled at the man closest to him, Feng Ye, after noticing a lightning trail heading off in his direction.
+
+Before he could register what he’d said, Feng Ye’s head flew off his neck, hitting the ground with a squelching thud. His lifeless body spasmed as blood gushed out from the wound, refusing to fall due to the energy rushing through his body.
+
+“How boring… And I even got my tunic dirty. I just bought it, y’know?”
+
+“Feng… Feng Ye…” Teng Yu whispered his name breathlessly.
+
+Finding out your brothers died was one thing, seeing their corpses was something else, but watching them die was another thing all together. His heart clenched in pain, and a slight tinge of red appeared around his pupils.
+
+Feng Ye died before he could even fight back, and he was sure that the other three will follow closely behind if he didn’t do anything.
+
+Taking a deep breath, he got serious.
+
+Movement Technique of the Maleffic Viper… Sword Technique of the Primal Butcher… He thought as Qi circulated thorought his body, and he disappeared into a blur just as Shu Lao had.
+
+His eyes followed the trail of lighting, and his sword swung to intercept the man’s. He blocked it just before it could cut Guang Ju’s head off. Sparks flew between the two blades as lightning crackled, but luckily the hilt protected him from the energy.
+
+“Just what do you think you’re doing?!”
+
+“Testing my strength. It’s been a while since I’ve had a good spar. I have to say-” Shu Lao said, and suddenly gained more strength than before as he swung the sword, pushing Teng Yu off him. “This is a little disappointing. I’d expected more from people daring to attempt to kill my blood.”
+
+“Don’t get ahead of yourself.” Teng Yu said, fully taking that Shu Lao man serious. Before, he didn’t think he was that strong, but maybe he had a special technique to hide his cultivation level.
+
+Either way, he could not afford to not take him seriously anymore.
+
+Teng Yu placed himself between Shu Lao and and the rest of his members. Those three were all he had left, save for some fletchlings that weren’t allowed to come.
+
+The message was clear, Teng Yu had to die first before they were allowed to.
+
+The other two also understood that, and, after seeing Feng Ye die so easily, got behind their leader and readied their bows. Could they do anything? They weren’t sure, but they would try.
+
+They trusted Teng Yu to protect them, and so he would.
+
+“Hm? I guess we’ll do it this way as well. But just so you know, I hate poison.”
+
+And then, without any other warning or sound, he disappeared. Teng Yu used his Qi to sense the man’s position and raised his blade to defend against his first strike.
+
+Before he knew it, the man reatreated and a second strike was upon him.  A thrust, a jab, a slash and a strike— a flury of attacks descended upon him like a storm. He blocked as many as he could, some getting through his defense and grazing his armor.
+
+He gulped and sent a huge Qi Wave in front of him, momentarily pushing the man away, giving him enough time to activate another technique.
+
+Teng Yu bit his thumb and smeared the blood across his palm, where a strange symbol was drawn. It lit up with a purple light, and from it spread a scale-like armor that covered his entire body in less time than it takes a spark to fly off a piece of flint.
+
+Right as the scale armor covered him, Shu Lao’s sword was once again upon him. With the armor, Teng Yu became stronger and more confident, though that feeling of weakness was still upon him.
+
+Just what sort of technique does this guy have?
+
+The weakness wasn’t too great, but it was still annoying. If he couldn’t fight at full strength, then any and all mistakes could cost him his life.
+
+Wanting to end the fight fast, Teng Yu called upon another technique he’d learned in his fifty years of life, one that he’d almost died for. Not that the others were any different.
+
+Taking one step back, he disappeared momentarily, and in that time, dropped his sword and  punched himself in the chest. The blood he spat out didn’t fall to the ground, but instead touched his scales, making them light up with a purple and red light.
+
+Shu Lao’s sword was aimed at his chest, however Teng Yu didn’t move. Instead, as the light  spread all thorough his body, he laughed sinisterly.
+
+Suddenly, his hand moved faster than lightning and grabbed the blade. The lightning had no effect on him, as his hand had, at one point, completely scaly, completed with claw-like fingers.
+
+Transformation of the Maleffic Viper.
+
+It was a technique that granted him the power of its creator for a short amount of time. After using it, he would be greatly weakened until his body recovered.
+
+The only time he’d used it was against an Early Stage Core Formation Cultivator while he was in the Middle Stage of Foundation Establishment. It was a close fight, and he would have definitely died had he not used the technique.
+
+The cost was great, though.
+
+However, he didn’t care at that point. He only had three functioning members left and he had to get rid of that man it was too late.
+
+His claws took on a purple glow as he coated them with true poison. If the man could not be killed by his normal poison, then the poison of the Maleffic Viper should do the trick. At least, that’s what he thought after seeing its effects.
+
+When he finally managed to graze the skin of the Core Formation Cultivator, the poison quickly took effect and rotted the man’s skin, organs, flesh and bones while he was still alive. Teng Yu could never forget such a gruesome sight, and even he was terrified of it.
+
+“Interesting.” Shu Lao said after considering the man. “Not bad. You might actually prove a challenge.” He chuckled and stood still, waiting for Teng Yu to attack.
+
+Letting out an angry growl, Teng Yu’s back arched, his legs coiling before kicking up dust as he rushed the man.
+
+Claws forward, he aimed for the man’s neck.
+
+His attack was met by a sword, though the impact of the blow made Shu Lao take a few steps back. He coughed and retreated, blocking yet another blow from Teng Yu before counter attacking with his own.
+
+Despite that, whenever Ten Yu struck at the man, it felt like he was fighting against a mountain. Even if he pushed him back, his claws and arms vibrated each time they struck metal.
+
+Just who is this fucker?!
+
+Letting out an angry roar, he once again used Qi and pushed his body to its limits. His strength increased by leaps and bounds.
+
+Taking a step back, he disappeared from sight, though dust kicked up wherever he stepped.
+
+Shu Lao’s neck craned upwards, smiling as he watched the giant man’s figure strike down on him. He raised his sword and looked the man in his reptilian eyes calmly.
+
+Fool!
+
+Teng Yu smiled and added weight to his body, making his fall that much more dangerous.
+
+However, just as his fists almost made contact with the man, something in front of him shattered, sending out shards of Qi in all directions.
+
+A barrier?!
+
+He gasped, but didn’t relent. So what if the guy had a barrier? Teng Yu would break as many as he had to if that meant he could kill the man.
+
+However, just as he prapared to strike again, something swished past his ears, and he looked back to see his members stagger, losing the grip on their bows.
+
+“Their souls are a little bit weaker than I imagined.” The man commented, ignoring Teng Yu’s lack of attention. “I thought humans had much stronger souls, but you can’t even be compared to a small panther.”
+
+“What?”
+
+“Nothing, ignore me.” Shu Lao smiled and struck at Teng Yu with his sword. That time he had no weapon, but he didn’t need one. He grabbed for the sword, but before he knew it, his hand reached for empty air, as the sword disappeared.
+
+Instead, what met him instead was Shu Lao’s palm, which landed squarely on his chest.
+
+With his Maleffic Viper transformation, scales, and Qi strengthening his body, not to mention the basic defense of his Foundation Establishment Body, Teng Yu had full confidence that even if Shu Lao was stronger than he seemed, he wouldn’t be able to damage him.
+
+If he could tell his self from five seconds ago how stupid that thought process was, he would have.
+
+When the palm hit his chest, Teng Yu flew backward, unable to resist the immense strength Shu Lao’s hand had. If he had to compare it to something, it would be a boulder rolling down a hill.
+
+He landed on his back, and swiftly rolled in order to dodge whatever Shu Lao would throw at him.
+
+However, nothing happened.
+
+Teng Yu turned to attack Shu Lao once again, but it was then that a sound coming from behind grabbed his attention.
+
+Sending his sense out, he saw his members fall to the ground, all form of consciousness disappearing from their bodies.
+
+“GUANG JIU, GUANG JE, HUO LO! HOW?!” He yelled, then roared toward the heavens as his Qi confirmed that the three people he had left had died, and the worst part was that he didn’t even know how.
+
+“That took a little bit more effort than I excpected.” Shu Lao stretched, looking at Teng Yu. “Sorry, but I didn’t want to have to deal with a stray arrow coming for my knee.” He smiled, he laughed even, the mocking expression in his eyes angering Teng Yu even more than before.
+
+“You!” He growled, a tear forming in the corner of his eye. “YOU!!!!!” His words, if he had any left, got replaced by such an intense rage that he could only yell. The white of his eyes turned redder than before, and when he looked at Shu Lao, the only thing he wanted to do was completely destroy him, to tear him apart, to refine his soul.
+
+“AAARGH! GOOD, GOOD, GOOD! I, TENG YU, PROMISE THAT YOU WILL RUE THIS DAY, AND YOU WILL PAY!” He yelled out, rage turning his voice coarse.
+
+And, much to his surprise, Shu Lao… yawned.
+
+“FUCK!” Teng Yu howled, spitting out a mouhtful of blood from the anger.
+
+Without any further hesitation, he slapped his bag of holding and took out a pill. It was small, orange, and smooth.
+
+“Oh? Is that…”
+
+But before Shu Lao could even finish that sentence, Teng Yu shoved the pill down his throat and swallowed it.
+
+In that very same moment, his aura changed completely, and Qi gathered toward him as if there was a void that needed to be filled. He greedily absorbed all of it, and the Qi in the surroundings became disturbed.
+
+Then, clouds gathered above the Chiao estate, and the process of breaking through into the Core Formation stage began.

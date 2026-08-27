@@ -1,0 +1,149 @@
+---
+id: dbc101b7-8987-5d53-aa7b-c20a7484594f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 132 - Four Corner Sword Realm"
+slug: 0132-chapter-132-four-corner-sword-realm
+partOf: phoenix-ascension-cultivation-litrpg
+position: 132
+ownLength: 1827
+unit: words
+publishedAt: 2026-05-27
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3455165/chapter-132-four-corner-sword-realm"
+royalRoadId: "3455165"
+---
+
+[You have slain Blacksoil Tuneller, Lvl 34]
+
+[XP Acquired]
+
+[You have Leveled Up!]
+
+[Elemental Phoenix Heir Lvl 31 has become Elemental Phoenix Heir Lvl 32]
+
+With the experience gained, it was about time for me to leave. I would have never been able to kill that thing so switfly had that Mo Yinfei guy not invaded its Spiritual Sea.
+
+Moreover, if I’d been late in my attack by even one moment, I would not have been able to skewer it with the Myriad Qi Needles. They were the most effective attack in that very moment.
+
+As for why I’d decided to land on top of it? The reason was simple, it was a lot of meat.
+
+I knew that I’d already eaten quite a lot, but a Spirit Beast of such caliber was bound to give me a lot of Qi. The progress I would be able to make toward my dormant core would be huge. Unfortunately, I didn’t have time to pull out a piece of clothing in time.
+
+I didn’t really care either, since I had to knock the two of them out anyway. Mo Yinfei more or less fainted when I’d killed the Spirit Beast he’d just enslaved, and Ba Dabai was staring at me like a bumpkin in a store.
+
+I rolled my eyes and used the leftover needles to knock him off his feet. It wouldn’t cripple him forever, but would make the next part easier.
+
+Without a skill to actually put him to sleep, I stepped down and knocked him out with a solid hit to the back of his neck, infusing Qi into the strike. That knocked him out seamlessly.
+
+With that done, I had to figure out a way to carry the large corpse with me. I… didn’t have enough space in my bag of holding, and my dantian… Well it could work. I was just worried the Little Emperor would steal it, but on second thought it would have been much more difficult for it.
+
+Unfortunately, there was no way for me to carry it in my dantian either. There just wasn’t enough space, and it wasn’t made for storing things anyway. While I could, it wasn’t recommended. Most cultivators at the Qi Condensation stage could not even store a grain of sand until the later stages.
+
+Even later, doing what I was doing wasn’t really common and it was mildly dangerous. People kept their dantians free for the most part, only using it to refine weapons or other treasures.
+
+What I was doing was a little unorthodox… But it worked, so it didn’t really matter.
+
+The issue at hand persisted though… I doubted I had enough strength to carry the giant thing while flying and it would not be all that inconspicuous.
+
+It was a bit of a dilemma now…
+
+Maybe the best thing to do was leave it here or move it somewhere and get a better bag from the Myriad Market. Ah, maybe I should have thought this through a little-
+
+“What are you doing?” A familiar voice echoed in my head as I was debating how to proceed. Looking up, I saw Meng Mao flying down with a questioning look in his eyes. “And why are you naked?”
+
+I didn’t reply, it was unnecessary. Though after a little bit of pondering I decided that maybe a little bit of an explanation would be required. “I stole their mole and didn’t have time to put a change of clothes before transforming.”
+
+“Didn’t have time or didn’t think to?”
+
+“... Both.”
+
+Meng Mao sighed, “How were you planning on moving this thing? Unless you were going to eat it all right here.”
+
+“I was thinking on how to, but I realised I didn’t have enough space.”
+
+“So…?”
+
+“More bags of holding, hack it into pieces, easier to store.”
+
+“Right, and what would you do with it until then? Can you even move it?”
+
+“Maybe.”
+
+“And these two?” Meng Mao pointed at the pair lying on the ground.
+
+“They wanted to enslave it, I took avantage. Besides that, I have no idea who they are.”
+
+“Did they see you?”
+
+“One of them did.” I nodded toward Da Badai. “But I don’t think he saw my face.”
+
+“I… see.” Meng Mao rubbed his temples. “It’s fine. They’re not anybody important, but you should have been more careful.”
+
+“You said there wouldn’t be anyone in this part of the forest. They looked weak so I assumed they would die, but they got lucky with this mole. They’re really good at restraining techniques.”
+
+Taking a look at their badge, Meng Mao saw the symbol of the crane on their chest. “They’re part of a minor clan here. The Sky Crane Clan focuses on enslaving beasts and using them for combat. They’re not bad, but far from powerful.
+
+“A powerful beast requires a powerful cultivator to control it, so the cultivator’s strength must come before the beast. The Sky Crane Clan uses the same principles, but their power comes from the spirit. They are weak in every other aspect, and must compensate with the beast. It’s a strange circle, and they are not weak, but their path is flawed.”
+
+After a moment of silence, Meng Mao sighed. “I’ll take care of this. You should go back for now, that man has set a date. We will talk more once you return.”
+
+“Very well,” I said and undid my transformation, then flew back to the mansion. Entering back was easy, since there were no guards on Meng Mao’s side of the mansion, and I went straight into my room.
+
+I was more than satifised with what I’d eaten so far, and there were some things I needed to do as well.
+
+First, make a mental note of all the skills I should focus on ranking up. Nirvanic Flames, Phoenix Fire and all the other fire-related skills are a must. They would be my strongest fighting power for a long while.
+
+Besides those, I had my stealth skills and my other elemental skills. The water-based ones in particular have been neglected, but I also didn’t have a good way to train them up. At this level, using any new skills against an evenly matched opponent would mock them and put me in danger.
+
+But it was something necessary, since I had a theory I wanted to test out.
+
+Besides those skills, self-enhancing ones were also on the priority list, though those also required me to be into fights. Dragonbone Tempering in particular seemed to be rather stubborn in that regard. It required me getting beat up though for it to level  up.
+
+Maybe Meng Mao could help me, but I wasn’t abou to believe there was a good way to ask him to hit me without a thoroguh explanation.
+
+Or maybe he would hit me without an explanation, though he really doesn’t seem to be that kind of guy.
+
+Anyway, my priorities were all over the place. The most important thing I could do was meditate and focus on training the Divine Lightning Construction Technique up to a higher level. As it was, I was pretty sure that Shu Wao Tu had cultivated it to a higher realm.
+
+Focusing on the sutra and the proper way to conduct the Qi, I lost myself while waiting for Meng Mao. My skin prickled with the power of lightning and I could feel the affinity increasing ever so slightly.
+
+The only issue currently was storage. I had nowhere to put all that lightning Qi, and I wasn’t sure my core would accept it. I did manage to convince my flesh to integrate with it, but there was some loss. A Phoenix’s body simply wasn’t made for a Lightning Constitution.
+
+Still, it was a good exercise, and thanks to Split Focus, I could both cultivate and think about other matters.
+
+Some time passed before I heard a knock at my door, and I opened my eyes to a prickling that quickly faded.
+
+“Enter.”
+
+I knew that it was Meng Mao without needing to check, but I did anyway.
+
+“I managed to get the mole in a few bags of holding, but I wasn’t sure what to do with the two. I ended up leaving them at the entrance, and well, it’s up to you to deal with the mess you’ve created.” He said, going directly to the subject.
+
+“I took a chunk to pay back the one you ate earlier, but the rest will be given to you later. For now I will need to explain the mission.”
+
+He entered and closed the door, then sat down on the bed. “So the man you will spy on is called Guo Lu Poo. His grand daughter’s name is Guo Hua. She has a habit of collecting rare treasures and Spirit Beasts.
+
+“I’m sure you’ve already heard of a few things she has, but I can tell you that you have no idea just how much wealth that little girl. It’s not enough to get the attention of the sects, but her belongings alone can compare to a clan.
+
+“Well, I guess I forgot to mention it but their family has a large stake in the trading business of the city, even having a partnership with the Myriad Market. As you can surely tell, the fact that I am the one controlling what’s going in instead of the City Lord doesn’t sit well with Guo Lu Poo. I take a decent cut from his profits.
+
+“He’s recently figured out that I’ve had some… underhanded deals, nothing akin to slavery of course, but some blackmarket deals. I need to know what he knows exactly, remove the evidence, and also find some way to reverse the scales.
+
+“That’s where you come in. Your job is simple, but a little bit tricky. Collect as much information as you can and give me evidence of any dirt you may find on him. It’s not complicated in theory but we never know what may happen.
+
+“After that all you need to do is escape and then we can wash each other’s debts off. Sounds good?”
+
+I nodded, since I already knew most of what he wanted me to do. The only thing that’s changed were the reasons, and I didn’t really care about them as long as they weren’t too morally corrupt.
+
+“Sounds easy enough.”
+
+“Wonderful. The birthday will be in three days and will last three days. I wasn’t sure of the date because that old man likes to do everything extra. Her actual birthday is on the last day but yeah, being rich gives you reason to spend money I suppose. And your identity will be that of a Vermillion Bird, since saying you’re a Phoenix would be too much.”
+
+I nodded again.
+
+“Well then,” he stood up and got ready to leave, but I stopped him.
+
+“I have a question.”
+
+“Sure, what is it?”
+
+“What is the Four Corner Sword Realm?”

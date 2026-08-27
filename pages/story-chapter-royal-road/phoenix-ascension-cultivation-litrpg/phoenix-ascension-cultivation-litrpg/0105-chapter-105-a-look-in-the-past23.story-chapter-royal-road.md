@@ -1,0 +1,161 @@
+---
+id: 1899d34a-1f47-50c2-9d26-ecec2c10f0d8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 105: A look in the past(2/3)"
+slug: 0105-chapter-105-a-look-in-the-past23
+partOf: phoenix-ascension-cultivation-litrpg
+position: 105
+ownLength: 1974
+unit: words
+publishedAt: 2026-03-25
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3193697/chapter-105-a-look-in-the-past23"
+royalRoadId: "3193697"
+---
+
+She was devastated for the longest time, but couldn’t fall into depression. She had two children to take care of after all. She had to keep them alive.
+
+However, she didn’t want her children to become cultivators, as selfish as that was. If their father had talent for cultivation, then so would they. The village rejoiced, while she grieved the memory.
+
+Why risk your life like so? She thought as she cooked, watching her children play through the window. They were smacking sticks together, pretending they were swords. She sighed.
+
+It was difficult, but she knew she had no choice in the matter. Her children were their own people, she knew that much.
+
+So what if she changed their diapers, fed them her milk, cooked their daily meals and bought their clothes?
+
+No matter how much she tried, rumors of their father spread, and when they reached their ears, she knew it would be hard to convince them not to follow in his footsteps.
+
+Fa Chen was unruly, but Fa Hue followed whatever her brother did. They were like two peas in a pod, and she could only make sure they would remain as safe as possible while they were under her wing.
+
+A tear fell down her cheeks as she thought about them, about what they’d face once they started cultivating, and wether or not they would leave her to become stronger.
+
+She was scared, but she could only brave her thoughts, and face reality.
+
+And soon, the time for the ceremony arrived.
+
+It was a little delayed, as it was most years that it happened. The ceremy wasn’t a yearly occurrence, there weren’t enough children for that, but once every five years was the norm.
+
+It was just a public display. Those that could cultivate wouldnt have waited for their fifteenth or sixteenth birthday, but would start as soon as they were twelve. However, since they hadn’t been officially initiated, they’d play along.
+
+Between the seven children of age in the village, only three were twelve. Her children, and another boy with blonde hair and blue eyes. He was also the son of a foreigner, but he’d come into the village more than ten years ago, when he was nothing more than a child himself.
+
+Now, he was a strong cultivator. Despite his strength, he still looked up to her husband. He often stuck around when the man was training, picking up whatever he could, until her husband took him under his wing and taught him some sword techniques.
+
+Eventually, he passed those sword techniques to his son, though they had no Qi behind them. He was sure that his son could cultivate, but he didn’t want to push it.
+
+And now, with the ceremony, the village would see the birth of three new cultivators.
+
+The woman went with her children against her wishes, every villager encouraging her and praising her. She smiled outside, holding her head head high and back straight, but inside, she scorned.
+
+None of them helped her raise her children, not even the old ladies. Money was never tight, as the village head made sure she and her children were well fed, but it was all for the interest of the village.
+
+If today they found out that they couldn’t cultivate, that they had no Spirit Roots, then she would no doubt be seeing worse treatment.
+
+But of course, that wasn’t going to happen. She knew, because she could tell that her children had what it took to become cultivators.
+
+The ceremony went as she expected it to. When the children that had already cultivation to the first layer of Qi Condensation passed and had their Spirit Roots revealed, everyone cheered.
+
+Out of the five that were older than twelve, only two could cultivate though. Still, with the addition of the three twelve year olds, the village would have five new cultivators.
+
+When the blonde-haired boy passed, it was revealed that he had an Earth Spirit Root of the Middle Grade, which was very good for their small village.
+
+Since Spirit Roots were categorised based on the five elements, from Low Grade to Top Grade, a Middle Grade, single element Spirit Root was excellent.
+
+Next came her children, and she watched with a racing heart. Deep down, she’d hoped that she’d sensed wrong, but after spending so much time with a cultivator, the truth was hard to deny.
+
+They took the aptitude test, and, as everyone expected, they had the ability to cultivate.
+
+Not only that, they had incredible talent.
+
+Fa Chen had a Top Grade Metal Spirit Root and Fa Hue had a Top Grade, rare, Healing Spirit Root.
+
+There were Spirit Roots outside of the five elements, such as Light, Lightning, Seven-Colors and Plant, or Vegetation. Out of them all, though, a Healing Spirit Root was the rarest and most sought after.
+
+The woman fell to her knees, tears dripping down her cheeks. Everyone around patted her on the back, congratulating her, hiding their jealousy behind honeyed words.
+
+But she… She wanted none of it. She wanted her children to be wastes, to be cripples, to be unable to cultivate.
+
+Why… why… why?! Damn you, Heavens! All of you be damned!
+
+Her inner voice didn’t escape her lips, but the tears, anguish, fear and anger did. She clenched her teeth and dug her nails into her palm.
+
+“Fa Xiaolan, what’s wrong?” An elderly voice sounded out, which made her raise her head.
+
+It was the old village head, who was at the third layer of Qi Condensation. A useless good for nothing that will without a doubt take her children away for training.
+
+“I’m just… happy.” She lied, hiding her bloody palms. “I couldn’t dream of a better fate for my children.”
+
+***
+
+Time passed, and Fa Xiaolan knew that soon her children would have to go toward the small academy in the village, so they could learn the way of cultivation. With their talent, any sect would want them, where they could be safe, at least.
+
+But the village wouldn’t want that, it wouldn’t be profitable for them. If another Spirit Beast attacked, would sect children be there to protect them? Of course not.
+
+So they were sent and hidden away in the underground academy. The children weren’t allowed to see their parents or leave for a long time, only occasionally on special holidays. Fa Xiaolan regretted that her children could cultivate.
+
+Twelve years she’d grown them, made sure they were safe, fed them and clothed them… And now she would not see them again for a long time.
+
+A pot was boiling over the fireplace, as she was cooking some soup for lunch. She used the best ingredients she had, and would continue to do so until they had to leave.
+
+“Mommy, mommy, look!” Fa Chen ran inside the house with a beautiful rose that he’d plucked from who knew where.
+
+Fa Xiaolan bent down and held it between her fingers, giving it a regretful gaze as she witnessed its beauty.
+
+“Mommy, why are you sad?”
+
+She sighed and took a vase, putting the flower inside and filling it with water. “Now that you’ve taken it from the ground, it will slowly die and wither. Its beauty will only last for a moment, and then it will die.”
+
+Fa Chen’s smile froze, and it changed from child-like happiness to a frown. “Should I not have grabbed it?”
+
+A palm fell on his head and ruffled his hair. “No, this flower’s fate was to die… But it will make me happy each time I look at it, remembering that it was my son that gave it to me.”
+
+Fa Chen’s smile returned somewhat, and Fa Xiaolan grabbed him into a gentle hug. “Go fetch your sister, it’s almost lunch time.”
+
+“Mmm!”
+
+He ran out the door, and Fa Xiaolan looked at him with a regretful expression. She placed the vase on the table, and returned to watch over the soup.
+
+***
+
+On one particular sunny morning, the five children from the ceremony gathered in the center, their parents watching over them with proud smiles. The two older ones had already gone to the academy before, but for the three young ones, it would be their first time.
+
+Fa Xiaolan could hardly bear to watch her children go, but she had no choice. One way or another, they would have to go, and she would rather suffer silently, putting on an act of happiness, than condemning her children to suffering or regret.
+
+She gave them one last hug, gave them a bag with supplies, and watched them leave toward the academy. A place she’d never stepped in, and never would.
+
+***
+
+Fa Xiaolan was sitting on her bed that evening, not doing anything besides living. If it wasn’t for her desire to see her children again, she would not even be eating. Each time she looked out the window, she could see their shadows playing, laughing, crying.
+
+She missd them dearly.
+
+An older lady knocked on her door some days ago and gave her a yarn and some crocheting tools, then showed her the basics. They were sitting on a table, untouched since, but she figured that she might as well take on that hobby.
+
+Whenever her children came back, she could give them a scarf or a sweater to wear and to remember her by. It would also be something that could keep her thoughts occupied.
+
+The feeling of waiting for them to return, and hoping for them to be safe, was the same as the one when her husband left all those years ago. She knew that she had no reason to fear for the safety of her children, yet she could not help but worry.
+
+So time passed, and the pile of clothes she made kept growing. First it was a scarf, then a crudely made sweater, then gloves, then more scarfs and more sweaters. Fa Xiaolan had forgotten about the passing of time, and her skin had become pale, very pale.
+
+She went out every so often, to get food and ingredients and more materials, but nothing else besides that.
+
+The villagers had gotten worried, and some of the kinder women visited her without any success in lifting her mood.
+
+However, it was finally time. Winter had arrived after months and months, and it was time for the week long holiday where they thanked the Heavens for allowing them to live another day.
+
+She found it was all bullshit, but it allowed her to see her children again, and she could not be more thankful for that.
+
+It’s been far too long.
+
+When the day arrived, she was dressed well, put on makeup, and ate a lot the days before so she looked healthy. The children, both younger and older, returned home, their parents grabbing them int tight hugs.
+
+She waited.
+
+There weren’t that many children to begin with, so she knew it wouldn’t be a long wait. After what felt like hours, though, she saw them.
+
+Saw her children, Fa Chan and Fa Hue. The stars in her eyes, the reason she kept on living, and she waited eagerly, trying to hold back tears, trying to hold back her grief and longing. Finally, when they rushed toward her with wide smiles and open arms, she could not hold it in anymore and fell to her knees.
+
+She grabbed them into a tight hug as tears flowed down like rivers, however, she was only hugging their chests. Looking up, she noticed that the children that could fit into her arms just months before had grown, grown so much, and she didn’t see any of it.
+
+“Mom, we’re back.” Fa Chen and Fa Hue said at the same time, and Fa Xiaolan smiled weakly.
+
+“Welcome back.” She said, her voice cracking and breaking.

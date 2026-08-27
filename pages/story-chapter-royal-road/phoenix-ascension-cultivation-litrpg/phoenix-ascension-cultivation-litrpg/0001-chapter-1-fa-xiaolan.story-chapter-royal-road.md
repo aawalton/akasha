@@ -1,0 +1,347 @@
+---
+id: 822b606b-384c-56aa-ac94-9570d7a55c6b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1: Fa Xiaolan"
+slug: 0001-chapter-1-fa-xiaolan
+partOf: phoenix-ascension-cultivation-litrpg
+position: 1
+ownLength: 3946
+unit: words
+publishedAt: 2025-08-17
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2525467/chapter-1-fa-xiaolan"
+royalRoadId: "2525467"
+---
+
+“Ah, for heaven’s sake.” I couldn’t help but curse upon finding myself in such a dark, damp, and uncomfortable place. Whatever it was that imprisoned me was way too foolish.
+
+As if these walls could hold me for long.
+
+I couldn’t feel Qi in my body, so they must have put some sort of Qi-sealing formation in the area. Even so, they must have been very stupid, as even if I couldn’t use my Nirvanic Flames, my physical body was tougher and stronger than that of the Jade Emperor’s Azure Dragon.
+
+Upon mentioning that name, a light headache crossed through me, but it faded away rather quickly.
+
+Did my mind weaken after being imprisoned? Damned bastards, whoever dared do this will pay!
+
+I felt around for the wall— which was rather close to me— and kicked. A solid hit connected with the slippery walls, then again, as a satisfying crack landed in my ears.
+
+Once I get out, I’ll make sure you pay the price, grr...
+
+Another kick and the first piece fell off; cracks spread all around its surface, and I basked in the sunlight kissing my body. The warmth gave me a sense of comfort, as the natural energy of heaven and earth seeped into me. Feeling my strength return, I prepared to give my captors a good thrashing.
+
+“You’ll regret ever trying to imprison me, Fa Xiaolan! Your ashes will serve as fertilizer for my spiritual garden; you damned green hat-wearing dimwits!” My screams echoed against the faltering walls, each hit getting closer to a breaking point.
+
+Something felt weird, though, and I couldn’t quite place my finger on what.
+
+One last kick, and the dark grey material of the prison walls collapsed. A larger piece fell off, and I met it soon enough; it shattered under my weight but attenuated my fall.
+
+“Ouch,” An involuntary grunt left my body as I fell face-first on the ground, a light layer of dust covering my… feathers? I almost couldn’t believe my eyes. Looking down at my body, it immediately became clear that I was a bird of sorts.
+
+Light yellow and orange feathers decorated my round body, though calling them feathers would be an exaggeration. They were more like the sturdy fluff that would become feathers.
+
+“A hanging prison and a strange illusion technique? Whoever captured me isn’t ordinary, that much is for sure.”
+
+Looking down at my body, I felt somewhat weird. It sure was strange to be a bird. My feet had turned into talons, the upper thighs covered in a thick layer of puff as well, which made me doubt my agility.
+
+That surprised me.
+
+Why was it surprising? What could surprise me, the great Fa Xiaolan? A simple illusion spell or formation would not be anywhere near enough to entrap me.
+
+I took a deep breath, feeling the air and the surrounding Qi. There had to be some sort of hint as to what had happened to me.
+
+However—
+
+Where is this? This doesn’t feel like one of the Greater Realms…
+
+Yet, as those thoughts crossed my mind, a skull-splitting headache fell upon me. I instinctively gripped my head, somewhat fearing that it would explode from the pressure. My heart raced, thumping against my chest as blood rushed through my veins.
+
+I stumbled backward, searching for something to lean on, my balance wavering with each passing second. The world around me spun as if I were drunk. Luckily for me, that didn’t last too long, and as the pain began fading away, something else made me think that I was hallucinating.
+
+[Complete Soul Integration Failed…]
+
+[Host is too weak.]
+
+Huh? You dare? Who’s too weak?!
+
+My eyes widened as a string of words appeared in my field of view, following me everywhere I looked with perfect accuracy. Strange-looking characters, glowing with an ethereal light.
+
+I had never seen them before in my life, yet somehow, I understood them. I tried touching them with the little stumps I now called hands, but my feathers passed right through them.
+
+What sort of curse is this?
+
+To my dismay, I didn’t have any time to study it more, as a sudden, muffled thump followed by a crunch landed in my ears. I turned with caution, my heart racing and a pit forming in my stomach. The sight that greeted me made my fluff stand on end. A creature at least dozens of times larger and stronger than me, glared from above.
+
+Why would such a puny beast be stronger than me? What gives? A bug like this is stronger than me, Fa Xiaolan? Whoever created this array must be insane. Just wait until I get my hands on you; when I’m done, not even your mother will recognize you.
+
+I cursed inwardly, completely ignoring the fact that I had somehow been captured and placed inside the array. Revenge would come later though. I didn’t know what the creature before me wanted, and I didn’t know what would happen if I died by accident.
+
+Its jet-black feathers contrasted against the green foliage and dirty rocks, though it mixed well with the shadowy forest I found myself in. White stripes covered its back and face, and its sharp eyes locked onto my small body. It had a neck about twice the length of its body, at the end of which was a sharp beak drooling with hunger.
+
+Its large talons stepped upon what I had assumed to be my prison, crunching it under its weight. Now it was clear that it was an egg. It stood in a small, almost artificial dent in the terrain. The white shell was dirtied with mud, leaves, and other stains I couldn’t describe. On top of that, scratches and impact marks littered the outer shell.
+
+Behind the beast was a dark, flattened, and raised patch of grass, almost like a nest. The sight of that made anger course through my veins and it took everything I had not to lose my sh— feathers.
+
+Were you waiting for me to come out?
+
+Its back feathers were thick and long, also covered in white stripes, lacking any sort of elegance. Compared to my own, it looked like a beggar that didn’t belong to the Beggar Sect— at least they had some style.
+
+I didn’t have much time to think about it, as its terrific screech shook the air, showcasing its hundreds of small, razor-sharp teeth.
+
+My legs took off by themselves before I even registered the danger. However, I tripped as soon as I began, completely unused to my new set of limbs. I hurried to get up, the creature’s wings flapping like a windstorm behind me.
+
+Gotta run, gotta run! I picked myself up and hurried into the depths of the forest.
+
+The sound of muffled cracking told me that it had somehow gotten stuck in a branch or a bush, but I didn’t dare waste even a second.
+
+Of course, such a large bird cannot maneuver through the forest with the dexterity of a small animal. Thank the celestial stars I’m small enough to slip through… or curse them, if I end up easier to squash.
+
+Despite my chubby body, the speed I could achieve surprised me, yet I knew I wasn’t fast enough to run away from an adult Spirit Beast. But I had to try and take advantage of my size and its clumsiness.
+
+My eyes flew from one corner to the next as I ran, hoping to find a spot that might protect me from the Spirit Beast's attacks. A hollow trunk, a boulder, or a cave, something, anything!
+
+Luckily, the place I was in was a forest, with trees whose crowns all but blocked most of the sunlight.
+
+There must be a hollow trunk somewhere!
+
+I hoped, at the very least, and eyed some bushes not too far away. If the array creator wanted to play, I would play. At least until I found a way to escape his trap and get my revenge. Like a shadow, I took advantage of my size and hid within the dense foliage.
+
+The tall grass and bushes wouldn’t provide me with a lot of protection, but I suspected it would be enough for a quick repositioning. I tried sneaking through, slowing down to avoid detection, hoping that the beast would lose interest.
+
+Just as that thought crossed my mind, the small layer of protection I had was ripped apart, the shadow of the beast looming high above me.
+
+Oh, for heaven's sake!
+
+I cursed, dodging the creature’s large talon by ducking and jumping with a surprising amount of force, then took off in another sprint. The bizarre string of text appeared in front of me once again, but I couldn’t pay any attention to it or its message.
+
+[Skill: Evasion(Novice) has been acquired.]
+
+The tips of my feathers burned with fury and I wanted to do nothing more than turn around and turn it into raven food. Anger coursed through my veins at the thought of such a pathetic animal chasing me.
+
+Running for my life while trying to escape a large predator in such a small body was exhausting though, and I could feel my energy reserves depleting. Yet, despite its attempts at grabbing me, I managed to avoid its attacks by a hair’s breadth.
+
+However, how long would that last?
+
+I need to find a place to hide and get my bearings, or I’ll become bird food!
+
+That sparked even more anger in me, combined with a side of humiliation and a tinge of defiance.
+
+It seemed that luck was on my side, as I used my keen senses and spotted a large tree with a small hole inside its trunk. I wasn’t sure if I could reach it, but at that moment, it was my best chance of survival.
+
+As I approached, the sudden rustling of branches and grass made me halt in my footsteps as the beast swooped at me once again. I crouched, making it miss me, if only by a little.
+
+But it now stood between me and the hiding place.
+
+The Spirit Beast glared at me, its tiny eyes shining with hunger and greed.
+
+I stared back, my feathers standing on their ends as I yelled in anger. “You’re courting death!”
+
+The beast screeched, then launched off its talons and spun toward me with its tail, now sharp as a blade, threatening to cut off my neck.
+
+I wasn’t sure I could evade it that time. I stared at it, the world moving in slow motion as its large feathers almost severed my head.
+
+Just as it was about to, I instinctively moved with a familiar dexterity. I snuck below the tail and through its talons as their sharp edges scraped off a little bit of my fluff.
+
+“I’ll make you die a dog’s death!” I screamed, channeling Qi through my wings, trying to summon my Nirvanic Flames. I felt some resistance, but pushed more, and my muscles contracting until I finally managed to send out a flaming projectile.
+
+They weren’t my Nirvanic Flames though. In comparison to them, what I’d just conjured was a tiny spark compared to a dragon’s breath. However, that didn’t mean it wouldn’t burn, and the Spirit Beast dodged my attack, creating some distance between us.
+
+It didn’t look at me with only hunger and greed, but now also apprehension.
+
+I took advantage of its confusion and turned toward the tree.
+
+My small, yet sharp talons gripped onto the trunk as I jumped, climbing vertically for a few steps before jumping into the hole. The small entrance made it so my body fit through, though barely. Compared to its opening, it was deep and hollow.
+
+Nuts, worms, fleshy remains of small animals, and other disgusting things filled the hollow trunk. I gave the worm another glance, my stomach growling slightly.
+
+No! Don’t you dare think about it!
+
+I wasn’t sure what sort of creature made its nest inside, but I was grateful it wasn’t home.
+
+Even if it were, I would have burned it to a crisp.
+
+An anguished, sharp screech echoed through the cramped walls, alongside a violent thud that shook the entire tree. Scratching and grappling entered my ears, alongside the flapping of wings, and the little sunlight sneaking through the entrance got blocked off by the beast.
+
+Its stinky breath filled the small space, enough that it would have made me choke were it not for anger and adrenaline coursing through my veins.
+
+As I had guessed, it couldn’t reach inside. Its talons and beak were far too big. I could see part of its talons penetrating inside, scraping away at the rotten wood. It couldn’t do much except stare inside and scratch at the hole to make it big enough.
+
+My idea of hiding would only last a couple of minutes; however, those few minutes gave me ample time to plan and figure something out. Starting with the strange text.
+
+If it can’t make the hole big enough, I’m sure it will try to knock the tree down. Hopefully dying in the process…
+
+Of course, such thoughts were mere dreams, as what sort of Spirit Beast that lived long enough to grow to maturity would be dumb enough to do that. No, I wasn’t betting on that.
+
+I was betting on three things. One, given that I was a small bird, whoever was my parent would come and rescue me. However, the chance of that happening was low, if not zero, as if somebody had indeed trapped me, I doubted they would give me any sort of help.
+
+The second thing I bet on was another predator sensing the commotion and fighting the Spirit Beast.
+
+The chance of that happening was much larger, but the thing I was betting on the most was…
+
+Nirvanic Flames.
+
+I thought, raising my wing. I felt them still fueling me. Something told me that no matter what body I inhabited, the flames would follow me through eternity.
+
+However, when nothing happened, I began to doubt my senses.
+
+This can’t be! My… My flames!
+
+My wings trembled, and my puff stood on end as shock coursed through me. Even though I could remember very little, I knew for a fact that such a thing shouldn’t be possible. It was then that the strange text surprised me again.
+
+[Skill ‘Nirvanic Flames’ is purchasable]
+
+[Cost: 5 Skill Points]
+
+[Current Skill Points: 5]
+
+[Would you like to purchase the skill ‘Nirvanic Flames’?]
+
+The text’s soft light didn’t light up the surroundings in the slightest; however, I cared little for that at that moment.
+
+Yes!
+
+I yelled inwardly, unsure of what any of that meant; however, I got the gist that I would be able to use my flames once again.
+
+[Purchase Complete]
+
+[Skill Points Remaining: 0]
+
+[Skill: Nirvanic Flames(Novice) has been acquired]
+
+I didn’t care to think about what any of that meant. As soon as the text disappeared, I felt the dormant power inside me burn to life once again. It felt like meeting with an old friend, and the anger coursing through my veins at the humiliation brought upon by the beast fully erupted inside me.
+
+You damned pathetic wretch! I’ll burn you to cinders!
+
+I jumped up and performed a series of hand signs, instinct and experience driving my every move. They looked weird, seeing as my fingers had turned to feathers, and they didn’t even look like hand signs, more like a haptic movement of fluff, but I sensed Qi flowing through nonetheless.
+
+I could tell that the efficiency wasn’t even at thirty percent of what it should be. A silent sigh left my body, though, grateful that I still had my old friend. At the peak of my leap, a tiny orange flame flared before me. It pulsed with life as it grew larger, its heat burning off the edges of the hole. It didn’t affect me, but I hoped that the Spirit Beast would enjoy its taste.
+
+The thing screeched, and I smirked.
+
+With a sharp thrust, it vanished down the beast’s gaping maw before the creature could even recoil, then bloomed. A muffled explosion filled my ears as fire rushed down its throat, licking out from its nostrils.
+
+It fell, hitting the ground with a loud thump as it thrashed in the tall grass. Somehow, I knew that just one flame wouldn’t be enough, not at my current power. I wasn’t sure if I had any cultivation at all, and the Qi flowing through my body was but a literal drop in what had been formerly a majestic ocean.
+
+I’ll find the bastard who did this to me and burn their tongue before torturing them for a thousand years. I’ll use their flesh as food for the ravens, their bones as knife sharpeners, and marrow as aphrodisiacs! I’ll make sure every nerve of their body remains intact, so they can feel pain even as nothing more than a headless corpse!
+
+The Spirit Beast’s yelps awoke me, anger flaring up inside my body as I watched the wretched creature struggle to endure such weak flames. I weaved another set of hand signs, a kindling spark manifested inches away from me.
+
+It was a flickering flame at first, its weak yellow glow looking like a firefly compared to the moon. Yet, the more Qi I fed it, the larger it grew. The yellow hue changed to a violent orange color that lit up the shadowy forest, the flame almost dancing in my palm as it reflected upon my beady eyes.
+
+I hope you suffer even as your soul disappears from the cycle of reincarnation.
+
+[Warning! Qi Dangerously Low!]
+
+The sudden warning startled me; however, after checking my reserves, I was able to confirm that what the text said was true. I turned toward the creature with a disdainful glare, and an intense catharsis filled my body as I sent the living fire toward it.
+
+The air became denser, melting wherever the flame passed, and the grass shriveled up into a string of dried hay before the fire even touched it.
+
+I couldn’t feel the heat, as they were my own flames, but I was sure the Spirit Beast would, and the suffering they would cause it would be just as enjoyable as its screams.
+
+A wretched howl blessed my ears as the thing that had chased me right after I gained consciousness burned to a crisp before my very eyes. Its black feathers instantly burned, charring away to nothingness, revealing its red skin, which melted off its bones into a cloud of black smoke.
+
+Blood bubbled into a puddle, wherein its guts and whatever else couldn’t instantly burn away boiled into a red meat soup. It howled all the same, though its pathetic screams slowly died down.
+
+It let out one final, unwilling and defiant roar as its throat disintegrated, creating a haunting howl that echoed through the quiet forest.
+
+Its yellow eyes popped within their sockets with a muffled bang, becoming nothing more than two gooey pool that soon turned to ash under the heat.
+
+Serves you right, be thankful for this light punishment. To think anyone would dare chase me, the great—
+
+My monologue was interrupted by the strange text which suddenly appeared in front of me, showing unfamiliar numbers and names. At the same time, I felt a surge of Qi flow through me, replenishing my reserves, and alongside it, I felt my strength augment by a marginal amount.
+
+[You have slain [Striped Black Vulture] Lvl 5]
+
+[XP Acquired]
+
+[You have Leveled Up]
+
+[Phoenix Chick Lvl 1 has become Phoenix Chick Lvl 2.]
+
+[Skill Points Acquired]
+
+[Achievement: First Blood - Unlocked]
+
+Hm? Phoenix, what now?
+
+I questioned, finally deciding that ignoring the weird text was a bad idea.
+
+It can control my Nirvanic Flames, after all.
+
+That mere thought disgusted me, but not as much as I would have guessed.
+
+I still don’t know who I am, or where this is… Maybe this thing knows?
+
+“Hey!” I tried saying, however, the only thing escaping my mouth was sharp screeches.
+
+“Hey, can you understand me?” I tried communicating again, though it seemed like the thing had no desire to talk. It understood my thoughts, but that didn’t stop me from yelling at it.
+
+“HEY YOU STUPID PIECE OF DOG SHIT, ARE YOU GOING TO TELL ME WHAT’S GOING ON HERE OR NOT?!” Of course, they didn’t sound like anything more than the wild chirps of a small chick. I guess that’s what I was, as that’s what it called me. A ‘Phoenix Chick’.
+
+I retreated into the small hole I had decided to adopt as a home for the time being, planning to get to the bottom of this. Alright, no more speaking out loud.
+
+The text followed my vision, making it a little hard to see, though there wasn’t much to see in the first place. What is XP? I asked, thinking that it would give me information about things it had already told me.
+
+[XP is the numerical value necessary for leveling up. It can be gained via doing a variety of tasks, the most popular of which is killing other beings.]
+
+Great, I thought. Killing is easy enough, but what do levels do?
+
+My question didn’t go unanswered, thankfully, as the strange string of text changed once again.
+
+[Levels dictate how strong someone is. They can be used as a general gauge of power and to decide what sort of skills are purchasable or not. Your stats are directly influenced by levels, amongst other factors.]
+
+Stats?
+
+As soon as I finished my thought, the text disappeared, replaced instead by a series of strange, transparent, flat, orange, box-like images that floated in front of me.
+
+Details
+
+[Name: Fa Xiaolan]
+
+[Race: Phoenix]
+
+[Class: Phoenix Chick]
+
+[Level: 2]
+
+[Hit Points: 250]
+
+[Equipped Titles: None]
+
+[Bloodlines: Phoenix]
+
+[Qi: 30]
+
+Stats
+
+[Strength: 22]
+
+[Dexterity: 10]
+
+[Perception: 18]
+
+[Charisma: 60]
+
+[Intelligence: 20]
+
+[Skill Points: 5]
+
+What the hell? It was the only thing that came to mind. Suddenly, I felt naked. No, more than naked. This was inconceivable!
+
+How can anyone measure someone with such accurate detail? This is beyond belief… If only I had this back then. Maybe whoever trapped me here is worth soul-searching after all.
+
+Shock coursed through some part of me, and another part of me felt like gloating after noticing just how high the ‘Charisma’ stat was. However, that died down fast after realizing how useless it would be in real combat. What am I going to do? Charm my enemies to death like those fucking foxes?! Screw that!
+
+However, I didn’t have much time to think about what the boxes were saying, as the tree shuddered violently, sending me hurtling, scraping against the rough inner bark.
+
+What the hell?!
+
+Before I could have another thought, a sharp crack split the air, followed by another series of snaps that came in one after the other. A sickening, terrifying groan rolled through the wood as the tree split apart beneath me, sending me hurling through the open air.
+
+I couldn’t even gasp before another shadow engulfed me once more, and this time, its large claws wrapped around my small body like the sharp blade of a sword.
+
+A screech sounded through the air, followed by an indistinct language, and something shuddered around me. Ripples spread a few inches away from me, shaking in an uneven pattern.
+
+I could tell what it was from the first glance— a barrier. But why? Why would a beast that’s captured me use a barrier to protect me?
+
+Then I turned my head and saw them.
+
+Cultivators.

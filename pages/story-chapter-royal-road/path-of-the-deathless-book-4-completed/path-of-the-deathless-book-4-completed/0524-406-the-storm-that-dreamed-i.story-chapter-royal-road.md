@@ -1,0 +1,235 @@
+---
+id: b3bc7e85-daef-5aa6-bb98-6f093b81f2dd
+page-type-slug: story-chapter-royal-road
+title: "406 The Storm that Dreamed [I]"
+slug: 0524-406-the-storm-that-dreamed-i
+partOf: path-of-the-deathless-book-4-completed
+position: 524
+ownLength: 5154
+unit: words
+publishedAt: 2026-07-15
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3681542/406-the-storm-that-dreamed-i"
+royalRoadId: "3681542"
+---
+
+Distract. Divert. Delay. Disengage
+
+These are the key principles to apply when facing a singular adversary a Tier or multiple above your own.
+
+Along with the four D starting words above, we're adding two more: distance and detection. Let this cold reality sink into your bones. No matter what we teach you in this course, no matter what skills you have, if a High-Tier Pathbearer engages you on their terms while you are unprepared, you are dead. Short of divine intervention or the System's favor smiling upon you in the most vulgar of ways, you are dead. There is nothing you can do if a Master or, Composer forbid, Heroic Vanguard closes with you.
+
+Make peace and die knowing you gave yourself in honor of Her name, and that she will play an ode to you in memory of your distinguished service.
+
+But if you manage to avoid such misfortune and fight as a part of a greater unit, then you might find yourself spared from death even if your enemy is many times your superior.
+
+Distraction is the most effective means of survival. The pure Martial Pathbearers you face will be the most easily distracted. After all, though they possess tremendous speed, physical destructiveness, and natural durability, they are often lacking in Awareness, which will allow illusions and other sensory-confusing and environment-altering magics to affect them with great severity. A well-placed blast can send your enemy scurrying to uncover what caused the explosion and give you ample time to teleport out of the danger zone.
+
+This leads into diversion. A diversion is always essential for a Pathbearer who, with high enough Reflexes, can sort through the initial confusion and catch up to you in an instant. As such, it is important that they find themselves facing an actual problem, or what they believe to be an actual problem, for as long as they can be occupied. In some instances, a diversion can be created even without a distraction. Your enemy can know exactly where you are and possess every means of slaying you, but if you break a dam and cause a raging torrent of water to wash toward the rest of their undefended allies, then they will need to make a cruel calculus of their own.
+
+Make dilemmas for your enemies and buy yourself life.
+
+This then blends into delay. The more complex you can make your problems or dilemmas, the longer they’ll remain out of action.
+
+And this will give you the time you need to reach the final outcome: disengage. This is why your Jump Magi must be protected. They are your team's lifeline. If you're caught out of position or you need to evacuate immediately, they are your means of escaping the direst of perils. In the case where there are no Jump Magi or they have been put out of commission, you can disengage through other means, though you will need exponentially more luck and wit the more supportive elements you remove from your arsenal. You will need to do anything you can to get beyond the enemy's own awareness and back to our protected lines.
+
+But know that this, in turn, is the most ideal circumstance, and you will rarely encounter this in the field. Every action you perform will be paid for and rewarded in exchange for lives. You must spend lives to give more time. You must spend lives to save lives, and sometimes saving lives will result in you spending them down the line. The ultimate fact, the cold, bitter math, is that an Adept is prey for those above them, and even a well-coordinated team will not often be able to stand against a lone enemy Master.
+
+So, when you embark, prepare every time to be as protected as you can be, and remember that the only reason our nation itself stays protected is thanks to Her Lady Arachnae’s power, and the spending of our blood.
+
+And both are choked by the brutality of scarcity.
+
+—Methods of Disengagement (Combat Course for Novice Sisters of the Arachnae Order)
+
+406
+
+The Storm that Dreamed [I]
+
+Shiv didn't fight like a person, not even when his mind was intact. He fell like a natural disaster, slamming himself into his enemies like a storm of force and magic—raw brutality, refusing to stop even as his body was shredded apart and death closed in to claim him.
+
+Even before his meteoric rise to Master-Tier, there was something bestial in the way he fought, a relentlessness that couldn’t be trained. She'd witnessed it firsthand shortly after meeting him, when he saved her from the rogue Raven—and then proceeded to butcher the man during a chaotic fall through Weave.
+
+And now, here in this Delve, he was severed from both rationality and logic, commanded to rage free across Weave at the behest of the city in his most unnatural form.
+
+A sea of Shapeless Tides spiked straight down, and Shiv's monstrous form plunged like a blade cast forth from the heavens. A blade sheathed in rolling avalanches of blood, ruptured organs, and rolling rubble. Shiv became ruin in motion as he slammed down into the first spires beneath the Composer’s great cocoon. The eldritch devastation that clad Shiv drank in the carnage he caused as he hammered an entire tower into dust, absorbing the damage and injuries he inflicted on infrastructure and individuals as his Garden grew.
+
+An immediate toll was reaped. 542 minds blinked out of Uva's Noostorm network. As part of the physical city was destroyed, a portion of its mental replica simply ceased to be. The minds supplying those core memories were lost and slain. Sections across the mentally-constructed city went dark, vacant voids usurping the place of objects and people.
+
+“Strike back, you fool. Strike back!”
+
+Harkness' bleating was unnecessary; Uva was already mid-retaliation. She drew on all her reserves as she began her counterattack. Bolts of Psychomantic lightning impacted Shiv from all across the city, and she noted how the Garden's size worked against it. Though it stood 300 meters tall and moved like a meteor, Uva's Multi-Tasking and Reflexes Skill Fusion was faster than Shiv’s Inertial Overdrive, and mana always struck faster than matter as a rule.
+
+As a result, just under ten thousand psionic storms converged upon the avatar of annihilation, and it had no chance to evade any of them.
+
+Translucent bolts struck Shiv in an unceasing chain, and the magical blasts that followed ripped through Weave like thunderclaps. At the same time, she commanded all her Terrorspawn and spiderlings to sally forth and assume defensive positions to guard the territory and people she had captured. Although her spiders heeded her command as a hive heeding its queen, the Terrorspawn ignored her orders, seeking only to attack the oncoming threat and derive fear from his flesh so more of their like could be birthed.
+
+Where Uva's spiderlings created layered geometric fortifications to delay Shiv’s onslaught, the Terrorspawn wasted themselves by launching their bodies through the air or galloping across crumbling bridges into the jaws of destruction itself.
+
+“No! Hold position!” Uva snarled telepathically. But though the Terrorspawn arose from her power, they didn't bow to her will—not until she drowned them in their own subconsciousness, much like she did to Weave's actual defenders.
+
+She didn't react quickly enough.
+
+Shiv barreled through the sea of lightning crashing over him. His acceleration became extreme, the inertial sheath coating his massive form thundering with delight as his speed only climbed. He moved and, with air friction alone, set the atmosphere aflame, leaving a stream of explosions in his wake. The world shook. The city was cleaved asunder, and twelve cubic kilometers of architecture vanished beneath fire and force.
+
+While waves of natural flame rolled off his body like riptides displaced by a surfacing leviathan, an aegis of scintillating fire ripped free from his body, sweeping forth in all directions like interconnected, arc-shaped tsunamis ripping through magic and matter alike.
+
+Half of Uva's Terrorspawn were wiped from existence in a fraction of a second. Thousands of captured minds were lost as their component bodies disintegrated. The only reason the destruction didn't spread further was thanks to her fractured spiderlings. The way they parted geometry and caused space to distort and bend shunted cascading tides of destruction between buildings, slashing through interconnected bridges but sparing the bulk of the spires beyond the city center.
+
+If only for a few more moments.
+
+Shiv continued to move. He rampaged and raged, throwing himself at the geometric fortifications, and though her fractured spiderlings were capable of tearing through mundane matter, when Shiv slammed into them, she knew his form to be unbreakable.
+
+Before her fractured spiderlings were sundered, they suffered the kiss of his scintillating flame. His Unique Pyromancy seared Uva's flesh, for each spiderling bound to her—a part of her. She bit back a hiss of pure pain as pieces of her skin burned and blistered, toppling free from her body in cooked slices—the kind sawed free from the flesh of a well-glazed boar. But that distant, searing pain didn't last long. For when he smashed into them, the spiderlings shattered outright, dissolving into glittering pieces beneath his immensity.
+
+He was a soaring landslide, an earthquake that shook the atmosphere instead of just the earth, an inferno unleashed, and there was nothing stopping him. He was inexorable, implacable, indestructible. In the ten seconds that followed, he painted a chasm of devastation across Weave, splitting the city in two. The psionic replica of the city superimposed over the physical suffered even greater harm. Entire portions went missing. The northeastern section vanished. The west blinked out, leaving panes of glass anchored to empty air where entire spires once stood.
+
+The number of minds and psionic storms she controlled went from 10,000 to a little over half that number. And if she didn't come up with a way to keep him at bay, that number was going to be halved again and again, until there were no more minds under her sway, until he finally turned his focus on Passage to see this simulation brought back to the start.
+
+Uva gritted her teeth and strained her stacked consciousnesses. Her Reflexes fired; her Multitasking allowed countless instances of herself to think. A dozen Uvas were given the task of succumbing to blind panic and utter despair. The rest of them worked to discover a strategy or solution to put the Deathless down.
+
+There was no surviving five minutes against Shiv. That objective was a lie. He would keep coming. And as a loud strum of hostile melodies radiated out of the Composer's cocoon, painting the entirety of the captured city in a resonant web, there was no place for Uva to hide, nowhere she could go. Shiv knew where she was, and he was coming for her, but before that, he would see the city torn down to its foundations, before he finally visited that initial stronghold she'd captured, if only as a lesson in her impotence on the part of the Delve.
+
+Their trio had long since noticed what the System was doing. Adam's developments made him a perfect counter for Shiv, but the Paragon remained uniquely vulnerable to Uva even now. Meanwhile, even this incomplete version of Shiv, lacking any of his predatory cunning, psychological insight, or a whole slew of Unique and lethal skills, was still too much for Uva herself.
+
+A defiant aspect of Uva’s personality cut through that pall of impending despair with a decisive snarl. “No! Stop that! There will be no more defeatist thoughts. He's not an ideal adversary for us, but we can delay him. We can beat him. But we must act instead of reacting. It's the same thing with Adam. If we wait, he will bury us beneath his power, and Shiv is even worse. The longer we give him, the more his strength and speed and fire will grow.”
+
+“But what are we supposed to do?” Her lead mind shot back. “The Delve stripped him of his mind, so there's nothing for us to destroy. He's currently berserking—and as if his indestructibility wasn't bad enough, his size is growing as well, since the Garden absorbs everything he destroys and everyone he harms. We don't possess nearly enough direct force skills to overwhelm him; whatever the limits to his Toughness are.”
+
+“We don't focus on attacking him physically; it would be a bad idea, even if he didn't have Legendary Toughness. The Garden of Wounds and Broken Things absorbs damage, and unless we're capable of literally removing pieces of the Garden from time itself like the Stranger—Wait. Time…”
+
+An idea resonated through all the Uvas.
+
+Shiv slammed straight down to the very base of the city, and an earthquake reverberated throughout the entirety of the dimension. Kilometers-high spires began to rattle and swing, their foundations, crafted by the Composer’s own hands though they were, uprooting as Shiv cracked the floor below, breaking through the bedrock and stabbing his Tides into the artificial tectonic plates even deeper below to unbalance the city on a literally fundamental level.
+
+“Our solution is magic,” Uva's minds declared as one. “His Magical Resistance, his Grappling Proficiency, his Physicality—they're all a shared resource. The more tides he spends striking and damaging the city, the less he has to protect himself. We need to concentrate what remains of our Noostorm—but instead of trying to grind him down with a rain of bolts, we should use our storms as shields. We should bathe every section in the city in cages of mind mana. The spiderlings are not proper barricades, but formations of frozen time might be.”
+
+“That's right; there you go, girl.” Hymn nodded in appreciation. “Solve the problems one after another. But a helpful hint: It's not useless to attack him physically. His indestructibility isn't without penalty. If you manage to damage him enough somehow, he'll get weighed down. He'll slow, and a bit of speed might be the difference between reaching the final encounter or starting over.”
+
+The Headmaster's words also reminded Uva of another thing: Even though this Shiv didn't have any mind strike, there was still a rippling epicenter of translucent magic within the depths of the Garden. There was still a small seed from which the rest of the eldritch mass sprawled forth. She remembered how Shiv manifested the Garden back in the Fairwoods—his body needed to be broken. He had to sustain damage, and if that primordial vessel was completely destroyed, the rest of the Garden would cease to be.
+
+“Which means if we can get past his invincibility and strike deep enough with overwhelming firepower, we can defeat him. We can slay him. Success is unlikely, but we have multiple paths to victory now. We just need to find a way to walk one to the end.”
+
+She started with the simplest solution: her magical superiority. Even the most complete version of Shiv was her inferior when it came to magic. Though his scintillating flame, which cooked other mana types, served as another layer of protection for Shiv, he wielded his Unique Pyromancy reactively, blindly, casting it in all directions and spending it as fast as it combusted—and it combusted fast.
+
+Mana derived from philosophy… You're utterly ridiculous, Shiv. Uva rolled her eyes. I'm just glad the System decided against giving you your Harbinger—or your ability to go backstage. Or at least I hope you don't have those skills right now.
+
+Another sphere of fire exploded out from him, and Uva stymied the coming conflagration with interlaced chains of psionic lightning, like catching a falling fruit with a woven basket. As his flames burned through material and magic alike, it wasted itself, searing chunks away from her mind magic. A nibble of strain began to grow at the center of her skull, but it was better than seeing more of her skin peeled away in bits and chunks. More importantly, Uva was beyond being a mere Psychomancer now.
+
+She pulled her spiderlings back and used them as conduits for another magic. Icicles infused with tarnished time fell, and the barrage became an unceasing hail, impacting Shiv and detonating wide, dropping columns of golden frost upon the raging monster.
+
+From below the city, there came a horrific groan, sounding as stone sliding across metal supports. Entire districts began to tilt, but the quake to end all quakes failed to start in full as Shiv was forced to respond instead of being able to rip the fault lines of the city wide open.
+
+Indeed, his Shapeless Tides were taxed by Uva's hailstorm of time-halting magic. Where his Magical Resistance withstood that barrage, his Physicality paid the price. She felt a tremor of weakness vibrate through the city where before he was casually capable of tearing through kilometers of stone, blasting things aside with casual sweeps and shrugs. She'd seen his tides seep through the cracks he made, burrowing deeper into the earth like an ocean offering rivers of essence.
+
+But that left him deprived—and vulnerable. The vectors lining his body thinned, and when her attacks came, when she flicked her lightning into the fray, taxing him some more, what few tides protected him were shown for the first time. As Shiv's weakness was exposed, he was forced to withdraw the tides he'd sunk into the ground to ensure his own protection.
+
+An explosive roar left him. The air vibrated from the sheer volume of his enraged lungs. Uva ignored him. She continued attacking, pouring her magic down upon him, costing him more of the moving vectors that represented his Magical Resistance, inflicting harm and making this a battle of attrition—something that favored Shiv in most situations, but not here, not now, and not against her.
+
+Not with an entire city to use as a mana battery.
+
+For the first time, the tides of battle shifted. Shiv was now at a disadvantage. His scintillating flames were put out as slabs of ice crashed down upon him—one avalanche greeting another. Tendrils made from lacerations erupted out from his body, and he tried to use them as whips to cleave buildings in twain. But they too were imbued with his Shapeless Tides. As Uva called down a rain of psionic lightning to course along the outsides of her remaining spires, the tendrils crashed uselessly against her mana, as offensive Magical Resistance rebounded from forking branches of Psychomancy of the same Tier.
+
+In a normal struggle of endurance, she would lose. Just about anyone would lose. Shiv would always come back, but when it came to matching mana fields and grinding magic against magic, well, Uva had an entire city to draw from. This pale mockery of Shiv wasn't even capable of conserving his own flame.
+
+“We have him. Keep focused. Do not stop casting. Do not stop. If we give him a single opening, he will break through. He will—”
+
+Uva's inner monologue was interrupted by a deafening rumble that shook her true form—even though she was dozens of kilometers away from ground zero. Far below, Shiv discharged his inertial sheath, and all the speed he'd been building up was released as pure kinetic energy. The world went white. The air around the colossal Garden ionized. Plasma ate through the city like soup. There was nothing magical about it. It was simply destruction expressed by an oversupply of energy.
+
+Another fraction of Weave was lost. Ten cubic kilometers of urban development were rendered empty. No debris fell from the sky in the aftermath. No ash rained down either. This destruction was pure and complete. And at the center of that glass crater was a now 500-meter-tall titan with a thousand whips bleeding and flicking about, seeking new prey to spear.
+
+He was then promptly blasted by storms of psionic magic and cascading tides of falling sleet.
+
+Uva had lost another thousand minds when his inertial overdrive discharged, but her assets were spread across the city and, more importantly, Shiv lost most of his speed as his Reflexes Skill had been reset to its weakest state. Bursting his inertial sheath was a foolish thing to do in the situation, but when you were going berserk, rational thoughts were hard to come by.
+
+Yet, even as Uva's magics tore into him, ripping through his remaining might and bringing him closer to the brink, Shiv didn't focus on burning the city as a truly mindless monster might. Instead, as he summoned a spark of scintillating fire, he ignited the air around him and his body shifted—huge chasms formed across his eldritch visage, with each resembling a set of teeth.
+
+Uva immediately realized what Shiv was about to do. She tried to pull her lightning back, but some of her mana was already burned, and that which was cooked fell into his open maws like a bounty of meat. The monstrous incarnation of Shiv chewed with delight, savoring Uva's magic and gaining new boosts in the process.
+
+A shell of translucence exploded out from Shiv in the aftermath—an aegis of Psychomantic mana. It didn't seem particularly thick to Uva, and she suspected she could crack it wide open with a few bolts of lightning. But it would buy Shiv time. Time to build up his fire and fry more of her Psychomancy. Time to generate new tides to replace that which he'd lost. Time to move closer toward Passage, which she noted he was already doing—his body suddenly possessed of a clarity it didn't have before.
+
+It was almost like he wasn't even in a berserk state anymore.
+
+“That's likely because he's not,” Hymn answered, his left eye blazing bright with Divination mana. “Not right now, anyway. He'll likely regress back to mindlessness soon if he doesn't eat another one of your bolts, but swallowing some of your mana has given him more than just a protective field of Psychomancy; he probably has a measure of intelligence again as well.”
+
+“That silly, silly man keeps getting the silliest of skills,” Uva growled with exasperation.
+
+Hymn nodded slowly. “The good news is, he might be able to cook pieces of himself and feed them to you. You'll be able to be as indestructible as he is for a time, or so I suspect.”
+
+“Cannibalizing my lover's flesh isn't exactly an enticing thought, Hymn.”
+
+“Why, I thought you were the adopted daughter of a spider goddess? Cannibalism should be right up your alley.”
+
+“Spider-like. Spider-like! She has aspects of a wasp as well. And the consumption of weavers has been outlawed for many decades!”
+
+The Headmaster frowned at her, appearing to know she was deliberately omitting specific bits of information. “It was outlawed not because of some grand triumph of social rights for the lesser male counterparts of the Honored Mothers which govern your kind, but because the plague was becoming too contagious and feral packs were ripping through the city’s underbelly.”
+
+“Allegedly,” Uva ground out.
+
+“Girl, come on, you can fool some other Seeker, but not me. And I'm not actually judging. The Republic's done far worse. It's just that you can stand to be a bit less of a hypocrite sometimes.”
+
+Back in the fray, where her attention deserved to be, Shiv adapted his strategy, and Uva countered once more as well. He sent his fire forth, trying to burn her mana. She met him magic to magic, expecting him to charge forth and feed his Garden. But instead of swallowing chunks of deep-fried magic, he also got a mouthful of spiderlings which crept down his throat. They were further followed by the remaining Terrorspawn she commanded. Paltry in number and without a survival instinct to speak or, she didn't expect them to survive, but they would wreak havoc inside Shiv's eldritch stomach—however his Garden digested things.
+
+As she used her spiderlings to tear through his insides, painting scratches along the wounds and broken things constituting his Outsider form, the parts that she damaged hardened into a silvery shell that quickly grew immune to her geometric attacks. But Uva wasn't a one-trick pony. She began casting new spells from her spiderlings, lashing the Deathless from within. She possessed her own psionic lightning as well, and furthermore, the icicles of temporal frost she unleashed went unburned by his flame.
+
+A minute and a half passed by. She still had halfway to go before achieving a technical victory. But Uva was incensed now. She tasted vulnerability in blood, and she sought to feast upon true victory once more rather than merely surviving.
+
+After all, she was to be a Legend too, and though she was more than a little fond of Shiv, there was always a question in the back of her mind—an urge to discover and experiment. She wanted to know if she could beat him, and how consistently at that. There was no true harm in it. They were all Pathbearers, and right now, she felt more aligned with her Path than ever before.
+
+Understand, adapt, and resolve, Operative.
+
+While the words echoed in her mind, Uva attacked Shiv from within and without. She made him spend his magic defensively, burning away her psionic storms—but found himself denied any new meals as her reserve spiderlings ripped through the chunks before they could fall into his mouths. The saboteurs she'd smuggled inside him broke as Shiv shifted his eldritch architecture and ground them down to nothing. But though it hurt to lose some spiderlings, they were regrowable through trauma, and she would always have more of them.
+
+Shiv, meanwhile, was running out of overflow vectors and not generating new tides fast enough.
+
+He picked up a bit more speed by the third minute, his inertial membrane active again, roaring with vivacity, but Uva countered his approach in advance by casting her body across the city to one of the far-flung spires still standing. No longer was she in Passage, and by the time Shiv realized where she was, it was already too late. She was too far, and he was too spent.
+
+She could win by just waiting things out. But where was the fun in that?
+
+“Sorry, Shiv, but the System wanted you to be my victim this time,” Uva mused to herself. “I'll make it up to you later. We can have ourselves a proper spar.” She paused, and smirked. “More than one. For now, I need you to be the one that fries.”
+
+And as she finished that apology, she drew upon all her remaining might, gathered the storms she had left under sway, and fused all that mana together into a single, trembling bolt high in the sky. A thousand strands of lightning collapsed together, slamming piece after piece to become a single colossal spear of translucence. It rattled in the air, raging silently, displacing thoughts across the city. Within it was not only all her own energy, but what remained of Weave's psionic replica. Most of the mentally simulated city was lost, but there was still enough leftover that driving it down into Shiv felt right.
+
+He'd ruined her recreation, and she would use her broken art piece to finish him. There was something poetic about that, and she suspected that would feed into her legend more than anything else in the Delve so far.
+
+Instead of casting the spell as she usually did—with a concentrated exertion of thought—she reached out, spreading her hands across the city as she gripped the lightning, wielding it like a blade in reverse grip.
+
+As Shiv turned, as he came hurtling toward her, his form a climbing comet, thoughtless, mindless, shedding what remained of his psionic shell, she brought her lightning bolt of lightning bolts down, driving it into his form and bursting the last of his tides apart in a blast of warring mana.
+
+Hail followed the lightning. Droplets of golden frost that impacted Shiv from all sides. Uva launched lances of ice into his exposed form; his body wrenched itself apart as sections were frozen in time, wounds displaced, unable to move with the rest of his destruction-shaped physiology.
+
+If Uva desired it, she could have caged him in a dense slab of time-enclosed frost, kept him as a display item and let the time run out, but again, she wanted to win, and so her time magic was focused. The stasis she inflicted captured Shiv's original form exactly. The chunk that tore away was also that which held his original body and was severed from that central cortex—that source from which his Eldritch Physiology sprang forth. The rest of his Garden twitched and spasmed like a human body undergoing seizures, struggling to re-establish contact with its mind.
+
+But tragically, that moment would never come. Her spiderlings, the twelve that remained, converged on his body and waited for the frost to clear. There were no Terrorspawn left. Now she only had three thousand minds fueling her with memory, storm, and mana.
+
+But it didn't matter. She'd prevailed. And as her golden-tinged ice broke apart, evaporating beneath the final rush of tides that was birthed from Shiv's core, she speared down into him. She glided through his protective shell and—
+
+Found his original body as indestructible as the rest of him.
+
+Uva's lip twitched. “Never mind,” an instance of her mind declared. “We don't have a good solution for killing him. We're going to need to invest in some other kind of magic later, something directly destructive. Freeze him again. Let the time pass.”
+
+An annoyed huff escaped Uva as she blasted Shiv with ice once more before he could reconnect to his Garden.
+
+And just as well, for she was over the four-minute mark now, and the seconds ticked down to—
+
+Shiv blinked out of existence. A notification followed.
+
+Encounter Complete (4/5)
+
+Special Encounter Objective Accomplished—Applying Special Delve Evolutionary Encounter
+
+The words Uva saw left her speechless and paranoid. “Hymn?”
+
+“I know. I see it too.” The Headmaster reappeared next to her. “The problem is that I've never encountered or even heard of this before. I have no idea—”
+
+Initiating Encounter (5/5)
+
+Special Encounter Engaged
+
+Encounter 5 Objectives: Defeat the Divinely empowered Hatchling—choose what you wish to become, as your choice has been stolen from you before.
+
+No sound came. No obvious wave of pressure washed over Uva. But she still felt something, and as she looked up, what she found looming over her was another figure, the true source of the incandescence she'd been feeling.
+
+Yet it wasn't the Composer that stood ready to greet Uva in battle, but the Starhawk, now bound to the Hatchling, prepared to lend his Divinity to the vile spawn of the Eldest that once stole Uva’s soul.
+
+“Seeker!” the Hatchling screamed. “You were meant to be mine. You will be mine yet. We will be joined, and I will be born in truth!”
+
+“Ah.” Uva sighed. “I suppose I should have seen this coming.”

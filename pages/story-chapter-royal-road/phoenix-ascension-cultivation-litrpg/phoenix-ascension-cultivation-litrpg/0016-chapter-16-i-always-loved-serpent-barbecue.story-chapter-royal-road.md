@@ -1,0 +1,209 @@
+---
+id: 60d4df75-7d04-5f5a-a18e-4d0f552a57f6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 16: I always loved serpent barbecue"
+slug: 0016-chapter-16-i-always-loved-serpent-barbecue
+partOf: phoenix-ascension-cultivation-litrpg
+position: 16
+ownLength: 2249
+unit: words
+publishedAt: 2025-08-30
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2559807/chapter-16-i-always-loved-serpent-barbecue"
+royalRoadId: "2559807"
+---
+
+I didn’t hesitate to conjure a ball of Nirvanic Flames, which I then placed at the mouth of the entrance. After it settled, I controlled it to spread throughout the nest. Due to my link to it, I could get a rough map of the den, filling it out as the fire spread.
+
+It wasn’t small by any margin, and it stretched farther than I could ever have imagined. From here, if we considered this the centerpoint, it spread about thirty miles in each direction.
+
+As the fire spread, it didn’t take long for the first kill notifications to appear.
+
+[You have slain [Jade Serpent] Lvl. 1] x 2
+
+[You have slain [Jade Serpent Hatchling] Lvl. 0] x 1
+
+[You have slain [Jade Serpent Guard] Lvl. 3] x 2
+
+[XP Acquired] x 5
+
+At this rate, leveling up won’t be an issue in the slightest. Heck, I might even level up a few times! I didn’t know how much the level difference mattered when gaining XP, but it didn’t matter, as long as I killed enough of these fuckers!
+
+I wanted their entire species to get eradicated from this forest, then from the continent, planet and universe. They dare poison me after I kill and eat them fair and square? What rubbish! They’ll suffer eternally in the cycle of reincarnation until there are none of them left.
+
+[You have slain [Jade Serpent Hatchling] Lvl. 0] x 12
+
+[You have slain [Jade Serpent Hatchling] Lvl. 2] x 1
+
+[You have slain [Jade Serpent] Lvl. 3] x 2
+
+[XP Acquired] x 15
+
+By now they have to have been alerted, and I felt some of them escaping my grasp through other entrances and exits. However, that didn’t matter. I will come back, I will look for them, I will find them and I will eradicate them.
+
+Keeping note of where this entrance was located, I swiftly moved toward the others, which were spread out not that far away from each other. Finding them was easy, as Nirvanic Flames erupted out of them like a volcano, acting as beacons in the night.
+
+More and more notifications of low-level beast killing popped in my view, but I brushed them aside, tuning them out. Unless there was a level up notification, I didn’t care. Their eggs and newborns could burn in the depths of hell for all I cared.
+
+I was determined to fish out the escapees, though. They’d popped out of their nest— at least those lucky enough to be close to it and know of the danger— but didn’t know they’d leapt straight into my claws.
+
+With a quick swipe of my Iron Claws and a rush of Nirvanic Flames, I took down half a dozen snakes, ignored the kill notifications, then rushed to the other entrances.
+
+I repeated that process as many times as it took. Although most of them were very low level, and I was now one hundred percent sure that affected how much XP they were giving me.
+
+You level up faster by killing things higher level and slower by masscaring small fry. Got it.
+
+That meant I had to find one of the strongest snakes, and kill them without a second thought, before hunting the rest of its species. That way I would have an easier time with the bonus stats.
+
+I stopped in my tracks and looked toward a corner far into the distance, a metaphorical smile creasing my beak.
+
+***
+
+Lord Ssseverus hadn’t expected to get sssummoned for an emergency meeting in the middle of the night, yet there he wasss. Besssides him sstood hisss daughter, Sssonia, hisss ssson, Sservus, next to which wasss an empty sseat. After them were the membersss of hisss council.
+
+“My lord!” A rather jaded Jade Sserpent ssmacked hisss tail on the ground, hisss once vibrant green ssscales sshowing their age. “There isss an isssue all throughout the foressst. Sssome pyromaniac isss burning down our nessstss and killing our people. I beg of you to do sssomething!”
+
+“How isss that posssible? We have guardsss ssstationed at every entrance and formationsss to ssstop enemy attacksss from reaching far into the tunnelsss.” Lord Ssseverusss asssked, hisss tone calm, yet worried.
+
+“We don’t know, My Lord. Everything their fire touchesss, regardlesss of defensesss, getsss burnt to ashesss. I essstimate we’ve losst hundredsss by now, and are losssing dozensss more every minute.”
+
+Lord Ssseverusss’s exsspression changed to one of concern, and he sslithered toward what looked to be an opening in a wall. He looked out of it, at a larger area where sserpentsss— hisss kin—ssslithered around, living the bessst life they could afford.
+
+“Where have the attacksss ssstarted?”
+
+“Sssection S, My Lord.”
+
+“What?!” The sserpent whipped back. “The lowessst level area, with all our hatchlingsss and eggsss?”
+
+“That isss right.”
+
+“What are we ssstill doing here, then? We need to hurry! Gather everyone level ten and above, fassst!”
+
+“Yesss, my lord!” The jaded Jade Sserpent ssignaled hisss obedience by bringing the tip of hisss tail to hisss head, then sslithered away in a hurry.
+
+However, before he could disssappear within the complicated tunnel sssystem, a gigantic fire engulfed the large entrance, ssspreading through the sssurrounding tunnelsss.
+
+Lord Ssseverusss sslithered out of the room-like burrow as well, watching with dessspair as the place he called home—the place he ruled—wasss burning to ashesss.
+
+A familiar yet not sso familiar sssound of a sssingle ‘ssstep’ echoed behind him, and he turned with a relieved, yet nonethelesss worried exsspression.
+
+“Sssnape!” he cried out as the figure of an old Jade Sserpent holding a cane between hisss tail, which he usssed to drag hisss half-limping body forward, appeared in hisss view. The sserpent had grey ssscales at the bottom of itss chin, looking almossst like a gray beard that fit hisss dissscolored ssscales.
+
+“Are you ssstill ussing that cane, even after you evolved?”
+
+He nodded. “It bringsss me sssome comfort.”
+
+“Hah,” Lord Sseverus chuckled. “Issn’t your dexterity in the high fiftiess already? What do you need a cane for?”
+
+“My Lord,” the old sserpent groaned in a hoarsse voice, “We musst sstay on topic.” He looked at the fire, which had ssstopped jusst before entering the large nessst area. “It ssseemsss the enemy isss ssstrong, to be able to do ssso much dessstruction with what isss at a glance a sssimple fire.”
+
+Lord Ssseverusss nodded. “Indeed. I am consscerned, but the ssstrongesst membersss of our race are here, and thiss place hasss no ordinary protection formation.”
+
+“You’re right. We can only hope that’ll be enough to deter them. We can alwaysss make more hatchlingsss, asss long asss we—”
+
+The old sserpent’ss ssspeech halted as hisss eyesss widened, and he looked up. Where he once knew to be a ceiling that blocked out the outssside world, a hole as big asss the entire room had begun to take form.
+
+“It’sss a demon!”
+
+“A fire demon, your lordssship, we have to hurry!”
+
+“Sssilence!” Lord Ssseverusss yelled, hisss eyesss filled with disssbelief.
+
+He couldn’t underssstand how sssuch a thing wasss posssible, asss they had reinforced the den wallsss and ceiling ssseveral timesss over, usssing Qi and even their own vitality to make ssure no predator could get through.
+
+Between tunnelsss that only they could sslither through and an abundant amount of reinforcementsss, their bassse should have been almosst imposssible to infiltrate.
+
+Yet there he sstood, watching asss the protection of hisss entire ssspeciesss got dug away like sssand on a beach. The clawsss that lifted the ssoil didn’t ssseem that big, but the ssstrength they exercisssed made him ssshudder.
+
+“Get up, up! Go and defend the den before we all die, you foolsss!” he commanded the nearby ssoldiersss, whossse level should be in the mid tensss. Hisss own level wasss only in the mid tensss asss well, but by right asss a mutated ssspecimen and bloodline, he wasss their ruler.
+
+The ssoldiersss didn’t hesssitate to rush through the parts where the fire wasss weakessst, sslithering their way to the sssurface asss the clawed demon kept digging and digging, until clear sssunlight broke inssside the nessst.
+
+“Thisss—”
+
+Lord Ssseverusss gasssped upon ssseeing a golden-colored chicken ssscrape away at hisss home with her bare clawsss.
+
+***
+
+I couldn’t believe how easy it was for me to find their main nest. Above the surface, it looked ordinary, with no entrances or exits within a few miles. However, who would have ever guessed that there was an entire society of snakes only a dozen feet below everyone’s feet?
+
+If it wasn’t for my Nirvanic Flames giving me a mental map of the underground, I would have never found it. Now that I did, though, it was time to unleash my wrath.
+
+I won’t rest until I've annihilated all generations of their species, and even their chickens and dogs if these damned serpents had any. They dared poison me, the great Fa Xiolan, after I’d killed them? Fucking poisoners, always having a trick up their sleeve.
+
+No more, this forest shall be cleansed of their race!
+
+I dug where the Nirvanic Flames had stopped for one reason or another. They had to have some sort of array formation or protection barrier that stopped attacks from penetrating inside their main nest area. However, if my fire couldn’t pass through, then I’d just have to kill them myself.
+
+After checking my Qi reserves, and deducing that I had more than enough for a prolonged fight, I activated my Iron Claws, and got to digging.
+
+There was some resistance at first, as if the soil had been reinforced, much like the first entrance I found. However I quickly overcame that by adding a little more Qi in my legs.
+
+As I dug, I began catching glimpses of the interior. A surprising amount of societal marks for a bunch of poisonous snakes— building attempts, organised ranks, hierarchy— all they were missing was trade and commerce.
+
+However I couldn’t care less.
+
+I kept digging until I could see them all, looking up at me with shock and bewilderment.
+
+Bet you didn’t expect someone to find your base of operations, huh?
+
+I gloated internally, noticing four of them slithering away, bearing the heat of the fire to climb to the surface. They were fast, very fast.
+
+Finally, worthy opponents.
+
+I stopped, and waited, my chest held high and gaze sharp. They showed up a minute later from an entrance a few miles south, and stood before me after half that time.
+
+Their green scales shimmered brightly despite the darkness, and they looked to be much stronger than the weaklings I’d fought back near the nest.
+
+“Who are you, demon?” One of them asked, which surprised me, as besides mother, no other Spirit Beast had spoken to me.
+
+But more than that, did he just call me a demon? The gall!
+
+“Your mother is a demon, your dog is a demon, your entire family is a demon!” I spat back, flapping my wings in anger.
+
+They all looked at each other with a strange expression, then sort of shrugged their non-existent shoulders, and charged at me.
+
+That’s what I’m talking about!
+
+Filled with the desire for battle, I imbued my claws with Nirvanic Flames, turning on Strengthened Constitution as well, for good measure.
+
+The first one that charged at me was the unlucky one to test my power at full strength. As he charged at me, his fangs glowing with a green, poisonous light and his scales shimmered even brighter than before, I swiped my claw at its head.
+
+While there was some initial resistance, it quickly faded under my flames, and its skull got severed into three equal pieces before it could even use its attack.
+
+[You have slain [Jade Serpent Guard] Lvl. 13]
+
+[XP Acquired]
+
+Level 13? The ones I killed before didn’t even reach level six, but these guys here are level 13?? Oh I’m so going to have a feast!
+
+Despite the huge difference in level, I doubted either of them had any cultivation. While they could barely use their innate skills such as poisoning and hardening their scales, I had access to Qi.
+
+I figured out rather quickly that my Phoenix Fire was an innate ability, one that came with the bloodline, and it didn’t use a lot of Qi. If a human infant had it, they could use it as well without having reached the first stage of Qi Condensation.
+
+However, they would burn themselves to death.
+
+In comparison, a Phoenix’s body was far, far stronger, even as a chick. However, my Nirvanic Flames were hundreds of times stronger than my Phoenix Fire, even though they were at the same level.
+
+And so, that could only mean one thing: even against opponents with a higher level than me, I would win, simply because I could use and control Qi.
+
+“Sssu Jin!” One of his brethren cried out, anger and grief appearing in his eyes. “You damned demon, I’ll kill you and avenge-”
+
+I couldn’t take more of their shit. Considering the fact that they outlevelled me, I was expecting a level up notification pretty soon.
+
+[You have slain [Jade Serpent Guard] Lvl. 13] x 3
+
+[XP Acquired] x 3
+
+[You have Leveled Up]
+
+[Phoenix Chick Lvl 5 Phoenix Chick lvl 6.]
+
+[Skill Points Acquired]
+
+Finally!
+
+I took a quick look at the situation below. They didn’t notice the guards they’d sent had perished yet, so I decided to quickly open the shop.
+
+“System show me the shop.”
+
+It was finally time to buy that Dragonbone Tempering skill.

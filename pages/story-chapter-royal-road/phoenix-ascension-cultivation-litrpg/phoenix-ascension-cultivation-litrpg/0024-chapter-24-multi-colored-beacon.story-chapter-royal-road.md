@@ -1,0 +1,381 @@
+---
+id: c063b200-473a-51e0-972f-066aeea0f98c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 24: Multi-Colored Beacon"
+slug: 0024-chapter-24-multi-colored-beacon
+partOf: phoenix-ascension-cultivation-litrpg
+position: 24
+ownLength: 4251
+unit: words
+publishedAt: 2025-09-17
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2608302/chapter-24-multi-colored-beacon"
+royalRoadId: "2608302"
+---
+
+Bai Di Wei wasn’t a man that liked to go out. He’d much rather preferred staying inside and cultivating toward immortality for a thousand years.
+
+Yet, there he was, in the middle of the worthless Kong Lin forest, named after the fact that it had nothing of value. Weak Spirit Beasts and ordinary plants grew within, but beside that, there was nothing else.
+
+However, because some children disappeared there some time ago, he was forced to wander around looking for already eaten corpses. “If they’re stupid and got themselves killed, how am I at fault?” He couldn’t help but frown and complain.
+
+He was, after all, an early stage Foundation Establishment cultivator, an inner disciple of the Sky-Splitting Sword Sect; the sect ranked first amongst the Five Great Sects of Qing Mountain.
+
+Whilst he wasn’t strong enough to be an elder, he was an inner disciple, and a talented one at that. After all, reaching Foundation Establishment before the age of thirty was an accomplishment.
+
+He would be an elder in the future, a leading figure. Though most times he wasn’t sure if he wanted that. An elder meant having to go fight, and there were too many wars in the Tianxu continent at the moment.
+
+Besides the Heavenly Demon that appeared in the north— who had luckily calmed down after massacring every righteous sect— there were the Forgotten Ruins in the south and Spirit Beast King in the east.
+
+By comparison, the west was relatively peaceful, only having to fight against the Tiny Demon Feng Hua and the Scarlet Demon Beast, Rong Ren.
+
+Yet, due to circumstances, he had to leave his cave abode and join a scouting party!
+
+Of course, he wasn’t heartless. He regretted seeing members of his sect perish. His fellow disciple, Sheng Huawei, a rising star in the sect, had perished while on a scouting trip for the so-called ‘Phoenix Nest’.
+
+They did find that Phoenix, as the core disciple of the Phoenix Ascension Sect, of all people, managed to get away with only a missing arm. Besides that, the Life Jades of the Core Formation elders, the ones that were sent to actually look for and hunt the Phoenix, all shattered. They didn’t know that, of course, so they could only meet their end.
+
+However, they still needed to try and find their bodies, if there were any left. And all of this had started because a certain someone wanted the Phoenix’s essence.
+
+Bai Da Wei sighed inwardly, thinking about how stupid people dying in this forest was. There weren’t any strong Spirit Beasts!
+
+However, due to the forest’s low danger, a lot of younger disciples used it to gain combat experience, but it seemed that something strong had moved in.
+
+It couldn’t be the Phoenix, as the place they’d found it was far away from here, in the most dangerous forest in the area.
+
+The sect didn’t consider the danger to be higher than the late stage of Qi Condensation, so he was sent in, alongside a few others from different sects, to find it and eliminate it.
+
+Nothing prepared Bai Di Wei for what he would see as soon as he walked through some thick foliage.
+
+In the middle of a glowing lake, floating a few feet above the surface, a bird-like Spirit Beast hovered in a fetal position. Its yellow feathers shone with the shimmer of molten gold, and the fire surrounding its body danced and flickered like a shadow.
+
+Its wings, although fiery-gold, phased in and out of reality, as if they belonged to a ghost. A deep chill ran across his spine, and not only because of the sense of danger he got from the Spirit Beast, but because of the freezing Qi emanating from it.
+
+The ground below his legs had frozen solid, pinning him in place, and from the frozen leaves behind him he heard a rustle.
+
+“Oh? If it isn’t fellow Daoist Bai Di Wei.” A middle aged man greeted, his beard shaped like a cone. The smile he wore on his face froze upon seeing the Spirit Beast, though.
+
+“Fellow Daoist Ling Shen…” Bai Di Wei struggled to speak, his weak voice barely escaping his shivering throat.
+
+Ling Shen turned to leave, every atom in his body warning him of danger. However, he soon found himself in the same situation.
+
+Unable to move, he tried to circulate Qi, however his expression froze upon seeing that the Qi in his dantian had frozen solid.
+
+He, a middle stage Foundation Establishment expert, could not circulate his Qi.
+
+“Brother Bai Di Wei… what— what is this?”
+
+Bai Di Wei could only shake his head, as he wasn’t in any better of a position than Ling Shen.
+
+“Hey, what’s going on there?” Another voice resounded from outside the area of effect of the freezing Qi.
+
+Both Bai Di Wei and Ling Shen wanted to scream, to tell them to get away and bring reinforcements, however neither their throats nor souls were willing to listen.
+
+The group of six people rushed in, having sensed something wrong, and their faces froze in shock upon seeing the Spirit Beast, whose aura had begun to turn the air itself into ice particles.
+
+“Is that a Spirit Beast?”
+
+“Heavens, how could this be?”
+
+“This shouldn’t be possible. Is— Is it evolving?!”
+
+“What is this Yin Qi, I think it’s freezing my soul…”
+
+“Fellow Daoists, I can’t move. My feet— I lost them. I can’t feel them!”
+
+“I can’t feel my arm.”
+
+“I can’t feel my stomach, my dantian, Qi! I can’t circulate my Qi.”
+
+“Such a thing… sound the alarm—”
+
+“Fellow Daoists, fight back!” A man said as he slapped his bag of holding, a small orange bead appearing in his hand. He sent it out, and as it pulsated with a warm light, the ice in the area began to melt.
+
+“The Vermillion Bird’s Golden Core!”
+
+“Fellow Daoist Hei Tu, you saved us!”
+
+The crowd cheered as the feeling in their bodies and control over their Qi returned. Bai Da Wei didn’t hesitate to reinforce his body with Qi, taking out a sword from his bag of holding and jumping on top of it.
+
+“Fellow Daoists, I’ll go on ahead and alert the Sect Elders.”
+
+“Bai Da Wei, you—”
+
+However, before Ling Shen could finish his sentence, a shiver ran down his spine. He watched Bai Da Wei’s body go limp, falling at the same time as his sword.
+
+“This—”
+
+“What killed him?”
+
+“I couldn’t see anything, he just died!”
+
+“Gah—” Another cultivator from the group that arrived the last fell, his face still frozen in shock from seeing Bai Da Wei die.
+
+Invisible Qi attacks that damage the spirit?! The man named Hei Tu thought, then yelled “Raise your defenses, now!” The man that pulled out the Golden Core yelled, and sparks flew from his sides as whatever attack had threatened to take his life failed.
+
+Two of them dying was already shameful. They were Foundation Establishment experts at the end of the day. As long as they were prepared, unless the enemy was far above them in cultivation, they could not die so easily.
+
+“As long as the Vermillion Core is with us, we have a chance of winning. Kill the Spirit Beast!”
+
+“Kill it!”
+
+“Kill it!”
+
+And just then, the aura around the Spirit Beast turned even icier, and a multi-colored light shone out of its body, creating a spectacular cacophony of colors that seemed to freeze and melt with every passing second.
+
+***
+
+[Cultivation Increased! Qi Condensation VI has become Qi Condensation VII!]
+
+I didn’t know what level of cultivation those two had, but the rest of the group didn’t seem to be as weak as the others from earlier. I spotted a few that had the symbol of the flying sword, notably the one I killed as he literally flew away on a sword.
+
+There were some pill symbols and blooming lotus symbols, as well as one that belonged to the shining jade faction. I saw one that belonged to the multi-colored Phoenix.
+
+I would bet my feathers they’re foaming from their mouths upon seeing me.
+
+I couldn’t move much, not with all the pain coursing through my body and having to focus on the mantra for the Ghost Qi Technique, but I could still cast a limited amount of skills.
+
+Amongst them being the Myriad Qi Needle. It had ranked up, which meant I could now control eighteen needles. Such a skill was too good, though the amount of concentration it took me was far more than I could exert at the moment.
+
+I’d hoped to kill them all at once, though it turned out to be a mere dream. Cultivators weren’t weak after all, and if they were strong enough to possess the core of a Vermillion Bird, then they weren’t simple either.
+
+Just for safety’s sake, I activated Heaven’s Protection, and waited. I wanted to see what they could do to me.
+
+I didn’t know how much time had passed since I started the evolution and cultivating process, but that didn’t matter either. Mother would give me a good scolding as soon as I got back to the nest, though.
+
+Looking at the cultivators with my Divine Sense, I saw the fear and panic in their eyes vanish, replaced instead by greed. Some of them must have realised that I was a Phoenix, and as they talked, each and every one of them took out a weapon.
+
+Spears, axes, swords, daggers, in all shapes and sizes, got infused with Qi. They glowed with an interesting light, each having a different sort of shine to them.
+
+The man in front, the one that had pulled out the Vermillion Core, as they called it, took out a thin, sharp and scary looking sword. The aura it gave off was greater than the cultivator itself.
+
+A treasure!
+
+I frowned inwardly, and already thought of how to take care of them before my evolution finished.
+
+Using Qi needles to exhaust them would draw too much mental strength, however surrounding the lake area with Nirvanic Flames would keep them away until they figured out how to put them out.
+
+With my rapid advancements and strong foundation, maintaining the wall of flames wasn’t an issue. But I didn’t do it yet. I waited for one of them to approach.
+
+Why aren’t they calling for reinforcements, they were pretty keen on doing that earlier.
+
+I asked myself, but I knew why.
+
+Greed.
+
+A lone, powerless Phoenix undergoing evolution? It was like taking candy from a child in their mind. It didn’t matter if some of them died, as long as they were more and stronger, they would split the profits of having hunted me.
+
+Ignorant and arrogant.
+
+I decided to let them play their game, though. I felt that the evolution process was reaching its end anyway.
+
+Regretfully, I won’t be able to break into the eighth layer of Qi Condensation due to these bastards interrupting me.
+
+They all deserve death!
+
+Finally, they made a move.
+
+Hand signs were weaved, pills were consumed, and weapons were brandished. They all charged at me like a bull seeing red.
+
+As they stepped into the Qi lake— which looked rather solid on the surface— their feet sunk. Slowly, but they did.
+
+The lake had become viscous instead of solid after I’d absorbed so much of its Qi, and their weight also made it harder for them to move.
+
+However, while I didn’t expect them to be so foolish, they made my job easier.
+
+With the little control I had over Yin Qi, I willed the lake to freeze.
+
+They halted their steps, unable to move, and stared at me with shock. The Vermillion Core pulsated behind them, however it only managed to warm up the environmental Qi. As for unfreezing the lake? Hehe, it would take more power than that.
+
+Just as I’d thought that, one of them infused their weapon with fire, and smashed down on the ice. The surface of the lake cracked, and it shattered, leaving behind potent fire remnants.
+
+I couldn’t freeze the lake again.
+
+However, a cold smile creased my beak. I was wondering how to light the lake on fire while not able to move my wings, and they had delivered the solution to me.
+
+While it wouldn’t be as strong, the Nirvanic Flames were the lords of fire, and as long as said fire didn’t already have an owner, I could make use of it.
+
+From the flame remnants the cultivator left behind, I created a large flame that made the air unbreathable. From within my Divine Sense, I watched them cover their mouths and brave the Nirvanic Flames.
+
+They had all escaped, and I earned myself some precious time for my evolution to finish. I doubted I could kill them in my state with their defenses raised, but once I evolved…
+
+Hehehe.
+
+I chuckled upon thinking about all the bags of holding and precious treasures I would loot from their bodies. I hadn’t yet checked the ones I’d already grabbed due to the lack of time and Mother being around more often.
+
+However I took care of them, I would definitely check everything I’d grabbed.
+
+And for that to happen, I needed to take care of the pests coveting… well… me. I didn’t know how to feel about that. Mother was right, these humans were truly foolish. They knew they had little chance of killing me, let alone capturing me, yet they tried anyway.
+
+I was suddenly reminded by a quote spoken by someone of important character once. ‘Birds die for food, men die for wealth.’
+
+It was hard to believe at first, but I couldn’t deny it upon seeing the truth before me.
+
+With the wall of flames already created, all I had to do was keep feeding it with Qi and it would continue to protect me. Pairing that with Heaven’s Protection, I should be safe.
+
+At least, that’s what I thought before the man that pulled out the Vermillion Core pulled out another core, its color the complete opposite of the former.
+
+“I-I-Ice Crow Golden Core? Brother Hei Tu…” One of the cultivators that were in said ‘Brother Hei Tu’s’ group exclaimed, clearly unprepared for the massive amount of wealth the man displayed.
+
+I caught the tiniest bit of greed shining in his eyes, something that Hei Tu guy had not seen.
+
+I chuckled inwardly. Surely he didn’t plan on attacking a fellow alliance member after ‘dealing’ with me? Perhaps he was planning on injuring them.
+
+Either way though, none of his plans would come to fruition.
+
+The Ice Crow Golden Core shot toward me, passing through the wall of flames as if it wasn’t even there, then they began to dim and extinguish as its frigid aura suppressed them.
+
+Interesting. No doubt that will help me advance with the Ghost Qi Technique… an ice elemental Golden Core. Heheh, to think they would deliver so many treasures to me.
+
+I didn’t care much about their means of trying to extinguish the fire, as I simply sent even more Qi into it, causing it to come back to life. The Ice Crow Golden Core did a good job at keeping the wall down, however that Hei Tu guy clearly wasn’t an ice type cultivator, and so controlling it would have diminishing returns.
+
+Therefore, I could somewhat match the core’s output even in my evolution state.
+
+“Fellow Daoist Hei Tu—”
+
+“Silence.” He said, looking at me with a complicated expression. “We should retreat and inform the sect elders. This thing is too strange.”
+
+Oh? Someone with some common sense. I chuckled coldly.
+
+It was too late.
+
+As the agonising pain in my body began to fade, I could tell that my evolution had come to an end. I managed to sit awake through all of that, and cultivate at the same time.
+
+I’d only reached the seventh layer of Qi Condensation, but that was enough for me to deal with these guys.
+
+I stretched my wings and straightened my back, revelling in the feeling of my new body. The aching and soreness gradually faded away, and a beautiful seven colored light enveloped my body as the evolution process was finishing up.
+
+My feathers glowed with an iridescent light, and I began floating toward the sky without willing to. I didn’t float too high, but high enough to see the expressions of the cultivators below turn to panic.
+
+Some looked like they wanted to escape, some like they wanted to fight, but without question, they all looked at me with incredible greed. Even that Hei Tu fellow, who seemed so cool-headed a moment ago.
+
+You all may be at a higher cultivation level than me… but I doubt any of you are above Level 5, and I don’t think you fools even know what an ‘Evolution’ is. Let me show you then…
+
+As that thought appeared in my mind, the multi-colored light flooded my vision. I heard some attacks bounce off my protective layers, but I didn’t pay them any mind. System said there would be a certain amount of protection during the evolution process, and I guessed it was strongest when it was on the verge of being done.
+
+The seven colors kept getting brighter and brighter, and with my current height, I doubted anyone with eyes would not have noticed me. That meant that both Mother and the sect elders these guys talked about would soon be upon me.
+
+I wasn’t sure I wanted to deal with all that headache.
+
+Finally, the colors subdued, and using my Divine Sense, I saw all of them converge into a single feather on my now long and beautiful tail. That feather turned from its previous orange tint to a dim light blue color.
+
+I couldn’t help but feel some amount of disappointment upon seeing that.
+
+I hope my tail won’t look like a rainbow…
+
+A moment after that happened, the protection I’d gained from evolving faded.
+
+[Congratulations, Fa Xiaolan!]
+
+[You have evolved from [Phoenix Chick] to [Elemental Phoenix]. Though you are still a chick, you’ve climbed up the hierarchy!]
+
+[Please check out the new perks—]
+
+Later, I can’t read all that right now!
+
+[...]
+
+[Fair Point.]
+
+Not a moment after I dismissed System, a dozen or so sword Qi slashes, spear thrusts, whip… whips and other attacks flew toward me.
+
+I dodged all of them within inches without using Side Step, then soared toward the sky. My new body felt fresh, powerful, filled with vigor, and yet a little unfamiliar. I guessed it took a bit of time to get used to.
+
+Ironic that both times I ‘hatched’ I had to fight for my life. I didn’t mind, as a sharp blade wasn’t forged in honey and dew.
+
+I let out an inhuman screech, my voice echoing throughout the entire forest, scaring off whatever little birds and weak Spirit Beasts were left in the vicinity.
+
+The humans looked up at me with a mix of fear and determination, though I couldn’t tell if they wanted to fight or run away.
+
+Either way, I gave them no choice but to do the former.
+
+I dove toward them, stretching my wings and summoning my Myriad Qi Needles. However, I soon found out that controlling eighteen of them was more difficult than I’d anticipated.
+
+So ranking up the skill doesn’t give me immediate mastery… that makes sense.
+
+I gave up on six of them and stuck to the twelve I’d already mastered, I couldn’t afford to experiment against cultivators an entire major realm above me.
+
+With my claws primed, beak at the ready and flames surrounding my body, I dove at the most dangerous of them all, Hei Tu.
+
+He clearly hadn’t expected the sudden attack, as he could only raise his weapon in defense at the last second.
+
+My needless bounced off his barrier and disappeared into nothingness right before my talons connected with it. Cracks appeared on its surface, and it shattered shortly after my flames seeped through them.
+
+Hei Tu slashed with his sword, the Qi surrounding it shooting toward me at point blank distance. My Heaven’s Protection shattered, and both of us took a step back.
+
+However I wasn’t allowed a break as a spear attack threatened to pierce my heart. Sparks flew off as I stopped with my talons, and I sensed a fire attack coming my way.
+
+I didn’t know whether to laugh or cry. Did that fool really use a fire attack… against a Phoenix?
+
+His attack had no effect on me, and if I wasn’t locked in combat with the Hei Tu guy, I would have actually laughed in his face. However, they weren’t the only cultivators present.
+
+One of them weaved a set of hand signs, and a formation appeared above us, then slammed into me with the weight of a hundred elephants.
+
+I struggled to resist, but in the end collided with the ground.
+
+A suppression formation… hah!
+
+I found myself quite amazed at the fact they’d thought to bring a formation master along. Though this flimsy thing could hardly be called a formation…
+
+A formation required preparation, this one done in haste was nothing more than a toy!
+
+I flared my Phoenix Fire and the pressure lifted immediately, as the formation shattered in less than a moment. I side stepped and waved my wings, forming a series of hand signs that summoned my Nirvanic Flames into a purer, more powerful form.
+
+With both fires ablaze, I willed them into being flame Dragons once again, and sent them at the group.
+
+[Skill: Flame Dragons(Novice) has been created.]
+
+Oh? That’s new!
+
+As soon as that skill got added to my set, the control I had over both Dragons increased, as did the mental capacity necessary to control them.
+
+To think there was such a thing!
+
+As panic rose amongst the cultivators, I took to the skies once again, weaving through the attacks of those that didn’t have to deal with my Dragons, and willed another twelve needles into existence.
+
+I sent them toward the defenseless Hei Tu, but given the constant bombardment of sword Qi, spear Qi and other attacks I couldn’t discern, only about half of them made it to him.
+
+However, he must have expected them, as I caught him… rotating his sword and creating a swirling vortex that ate my needles.
+
+Ok, what the fuck is that skill?
+
+I didn’t have too much time to observe as the man using the spear began circulating a large amount of Qi into it.
+
+He created a projection far larger and sharper than the actual spear, and stabbed toward me with pinpoint accuracy. I dodged it by a hair’s breadth, but the attack caught me on the tip of my wing.
+
+I plummeted through the air, and saw Hei Tu’s sword slash toward me with a similar attack. I cursed inwardly and activated Heaven’s Protection, which absorbed some of the damage, but still allowed the sword phantom to slash at my chest.
+
+I tumbled backward like a kite with its string cut, breaking bushes and saplings in my wake.
+
+A tree stopped me, and I spit out a mouthful of blood, then quickly Side Stepped, dodging an actual spear flying straight at my head. Taking advantage of the darkness, I slipped into Stealth and Shadow Cloak, becoming almost invisible to the chasing group.
+
+“Fuck, where did it go?”
+
+“Be careful, it has a stealth technique!”
+
+“I can’t detect it, fuck! How advanced is that technique?"
+
+“Group together, stay vigilant!”
+
+Hei Tu gave orders while the others followed, their eyes scanning around the shadowy forest. I held my breath and waited a little for my injuries to heal. I hadn’t lost that much HP, but the injury to my wing would prove fatal in combat.
+
+The man himself was quite vigilant, his eyes glowing with a strange light. He must be trying to break through my skills with some kind of special technique.
+
+As if it’s going to be that easy!
+
+I inspected the cultivators. They all looked to be on guard, scanning the environment, each with their own different technique. However, my skill turned out to be far above their paygrade.
+
+They must have already put their defenses up, my needles won’t be able to do anything… unless— I gulped, remembering the skill description of the Myriad Qi Needles.
+
+‘Can be imbued with elemental affinity.’
+
+I summoned twelve of them and focused my Nirvanic Flames. They slowly turned into a bright yellow-orange right before my eyes. I could feel tiny amounts of Nirvanic aura seeping out of them, which brought a smile to my face.
+
+The easy part was done… next.
+
+I targeted one of the weaker ones, the man who used the ‘formation’ on me. He didn’t look like anything special, wearing a dark blue robe with the symbol of the pill sect on his chest.
+
+However, he also threw pills and provided some sort of supporting role. His usefulness would show in a drawn out battle, something I wanted to avoid.
+
+My evolution signaled my location, and the best case scenario would be nobody seeing it, but how could anyone ignore a multi-colored light shining in the middle of a forest? That was basically the sign of a treasure being born.
+
+Without hesitating further, I watched the man’s movement, calculating his position before and after reacting to my needles and… attacked!

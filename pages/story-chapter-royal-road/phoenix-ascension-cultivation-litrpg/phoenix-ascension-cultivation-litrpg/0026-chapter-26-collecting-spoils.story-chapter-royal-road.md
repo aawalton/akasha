@@ -1,0 +1,145 @@
+---
+id: c78462f7-9c60-51fa-8303-42cd2d338a7d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 26: Collecting Spoils"
+slug: 0026-chapter-26-collecting-spoils
+partOf: phoenix-ascension-cultivation-litrpg
+position: 26
+ownLength: 1945
+unit: words
+publishedAt: 2025-09-22
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2620993/chapter-26-collecting-spoils"
+royalRoadId: "2620993"
+---
+
+Somewhere in a forest far away…
+
+Life jade slip after jade slip shattered, the sound of their cracking and breaking filling the otherwise quiet room. The tiny fragments fell into an already existing pile, which in turn was surrounded by a dozen or so elders.
+
+Some elders wore different robes, while some shared identical garments. However all of them, both men and women, wore a badge with the symbol of their sect on their chest.
+
+Three flying sword elders sat at the right-most part of the room. Two were middle aged men, with short trimmed beards and flowing black hair. One was already old, his once long locks of hair traded for an equally long white beard.
+
+They closed their eyes and shook their heads as they looked at the growing pile.
+
+“Yet another one perished in that place.” One of them finally broke the solemn silence. “Just what is going on?”
+
+“So many talents died… is someone plotting against our Sky-Splitting Sword Sect? For so many to die in the Kong Lin forest…”
+
+“Hmph, you think you’re the only one affected?” An old woman from the opposite corner scoffed, the wrinkles on her face showcasing her age. She wore the symbol of the shining jade sect. “My poor direct disciple, Hei Tu, died looking for a supposed Qi Condensation Spirit Beast. He was in the middle stage of Foundation Establishment! You’re telling me a Qi Condensation animal killed him?!”
+
+Her coarse, pained voice filled the room, a tear almost forming at the edge of her eye before she suppressed it. “Clearly what we’re dealing with is much, much stronger than that!”
+
+“Quiet.” A man sitting in the middle said, his voice not too loud or overbearing.  However his words were like a command, as everyone present didn’t even dare exhale.
+
+“The Sky-Splitting Sword Sect’s Bai Di Wei and Long Shen. My Phoenix Ascension Sect Ling Sha and Ling Shen. The Reverend Pill Sect’s Mao Wei. The Bloomist Orcheda Flower’s Hei Ming, and the Eternal Jade’s Sect Hei Tu Yang and Li Fang Zhen.”
+
+“All of them were early to mid stage Foundation Establishment cultivators, and they all died within minutes of each other. We didn’t even get a distress signal, meaning that they must have been heavily suppressed. We aren’t dealing with the usual enemy. What sort of faction would dare offend all of the Five Great Sects at once?”
+
+“What elder Mi is saying makes sense.” One of the cultivators from his right side said, the symbol of the pill obvious on his chest. “However, the Kong Lin Forest is filled with weak Spirit Beasts, and there is nothing worth fighting for. If someone was so malicious as to kill our young sect members not once, but twice, then they must have some sort of enmity with us.”
+
+The other elders broke into a hum, whispering amongst themselves. The man surnamed Mi, a man wearing the symbol of the Phoenix Ascension Sect, remained silent, pondering over the other man’s words.
+
+“We assumed it to be a Spirit Beast at first because at the time we also thought nobody would be foolish enough to offend us all, but twice in a row isn’t a coincidence anymore.” An elder from the left added after talking it over with his fellow sect members.”
+
+“If it’s not an enemy faction and it is indeed a Spirit Beast, then we would need to send a team in the late stage of Foundation Establishment or even early stage Core Formation.”
+
+“No.” Another elder interjected. “Even if it’s an enemy faction we have to send Core Formation experts. Or we should go ourselves. This situation is too strange.”
+
+“Mhm.” Elder Mi nodded, heaving a deep sigh. “I will send some stronger scouts to figure out what sort of enemy we are dealing with. Once that happens, I will act personally.” He clenched his fists, a vein popping on his wrinkled hand. The aura of a middle stage Nascent Soul cultivator emanating out of him. “Nobody kills Ling Mi Hua’s grandchildren!”
+
+***
+
+“With the wave of my wing, I, Fa Xiaolan, reduced these trash to ashes!”
+
+I shook my feathers and wanted to take a look at the piling notifications. However, before that I decided to collect all the bags of holding these guys had and hide them away.
+
+Yet, before I could even get close to the nearest corpse, Mother’s screech echoed from the sky, and the winds from her landing pushed it away.
+
+“Little Flame, you disappear for three days and I find you here… Heavens, what are you doing?!” She said, and I wasn’t sure if she was mad or not. I turned to face her, my head lowered.
+
+“Ha!” She gasped upon seeing me and took two quick steps, arriving before me. “Little Flame… did you evolve?” Mother asked while raising my face with her beak.
+
+“I did, Mother.”
+
+“Heavens! So quick… This— but how?!”
+
+That was the question I didn’t want to answer. Telling her that I evolved was fine, telling her which evolution I chose was also fine. Telling her that I killed a bunch of Spirit Beasts to snatch away their Qi lake? Also fine.
+
+However once she went there and figured it’s not as full as it should be, there would be more questions to be answered.
+
+But what other choice did I have?
+
+I didn’t skip a beat in telling her the short story, and the more she listened, the more excited she seemed to get. She’d made a horrified expression upon hearing that I decided to undergo conscious evolution, and worried that it might leave a permanent mental scar on me.
+
+That was a funny thought to say the least.
+
+When she asked me why I didn’t wait, I lied, saying that I’d gotten too excited and the process had already started, so I had no choice but to endure the pain so I could defend myself.
+
+Mother agreed in the end that it was a good idea, and thankfully she didn’t ask too many questions about what happened to the Qi lake.
+
+“Little Flame, that was very dangerous. However…” She let out a soft sigh. “I can’t blame you. I was excited the first time I evolved as well. I’m not sure about your choice of evolution, but it’s very versatile.”
+
+“As for that needle skill of yours… Hah.” She let out a dry chuckle but didn’t say anything else. I only found that a little bit eerie but didn’t ask more. Whatever it was that she meant, I would find out soon enough.
+
+More importantly, I had to find a way to get back to the Qi lake and collect the two cores. The Ice Crow one was still on Hei Tu’s body, but the Vermillion Bird must be idling around there.
+
+“Let Mother heal you, come here.” She coo’d softly, and only then did I remember my wing had been wounded, not to mention the intense pain in my muscles and the light headache I’d gotten from overuse of the needles.
+
+I did as told and approached her, and I expected a tiny touch and then it would be done.
+
+The last thing I expected was for her to wrap her wings around me and grab me into a tight hug.
+
+“Little Flame, oh Little Flame. Do you have any idea how much you’ve worried Mother? Gone for three days, then I see a rainbow light and then I rush over here only to see that you’ve fought and killed what, five cultivators? Little Flame, you’re going to make this old Mother of yours suffer so much.”
+
+“Mother, you’re not that old…” Her feathers muffled my voice, but it was still loud enough, as she chuckled.
+
+“Oh Little Flame, Mother is several centuries old and has already gone through several rebirths. Believe it or not, this Mother of yours is really old.”
+
+Several rebirths?
+
+I couldn’t help but be shocked. Didn’t that mean she died several times? I knew what rebirths meant, as I remembered going through a few myself, though those scenes are very hazy.
+
+After her warm aura finished healing me, I took a step back and looked up at Mother with a different light.
+
+“Hehe, your Mother is really strong. Little Flame, did you know that us Phoenixes get stronger with each rebirth? It’s a sort of risky evolution that happens when the system decides the time is ripe.”
+
+Oh so System decides that in this world? I never questioned it…
+
+“It takes a lot of resources to undergo rebirth though, and you’re not fully matured yet. So don’t you go ahead and die, do you understand?!”
+
+I nodded and glanced around me, then lowered my head and asked with a meek tone, “Mother, would it be alright if I stayed here a little longer?”
+
+She seemed lost in thought for a moment, then looked at the sun, which was only mid way through the sky, then nodded. “If you don’t come back by sundown, I will test your new elemental affinity in the nearby lake.”
+
+I gulped, but was grateful. She took off in a gust of wind, and I finally had the time to collect the goodies.
+
+After finding that flying sword cultivator’s corpse as well, I returned to the location of the Qi lake and collected the last bag of holding, as well as the Vermillion Core.
+
+Placing them all into a neat pile, I walked over to the five beasts I killed and extracted their cores. I didn’t eat them, despite my protesting stomach, because after three days their flesh had already begun to rot.
+
+All but the Ashen Heavy Pawed Black Panther. As a strong and evolved Spirit Beast, its flesh was naturally more durable. To top it all off, it’s been soaking in the Qi from the lake for who knows how much time?
+
+Soaking in so much Qi and losing to a Phoenix Chick? That should be considered a crime. May Yanluo Wang give it a just punishment.
+
+After dragging the heavy corpse toward my pile, I walked toward the lake. Its total amount of water had decreased by at least fifty percent, which meant I still had half of it to help in breaking through to Foundation Establishment.
+
+I had to prepare myself well for that moment, though, as it was very important. Going as far as finding another cultivation technique off these guys’ corpses would not be enough. Using the Ghost Qi Technique to break into the Foundation Establishment stage would make my eyes fall out, according to the myths.
+
+I dearly didn’t want that to happen. Getting rid of the Ghost Qi Technique would work best for me.
+
+Thankfully, these cultivators didn’t place a seal on their bags of holding, so all of their items were mine to take!
+
+With an excited frenzy, I stepped away from the lake and took off, flying toward the place where I’d hidden the other storage bags, and rushed back to the Qi lake.
+
+Taking a quick inventory, I had:
+
+One Vermillion Bird Golden Core, one Ice Crow Golden Core, seven bags of holding plus the eight I’d just collected, for a total of fifteen storage bags!
+
+Upon seeing that number, I couldn’t help but be excited. After all, these cultivators belonged to sects, so they naturally couldn’t be poor. Unlike little ol’ me.
+
+I also had the four cores from the Heavy Pawed Black Panthers, as well as their ashen colored leader. Five Cores!
+
+I felt like I was swimming in wealth, and I hadn’t even checked my notifications yet!
+
+It was finally time to collect my spoils!

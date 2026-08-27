@@ -1,0 +1,231 @@
+---
+id: ddf5fb65-c598-58bb-a58d-8235fde0ba30
+page-type-slug: story-chapter-royal-road
+title: "320 Curse 3: Double-Subversion"
+slug: 0425-320-curse-3-double-subversion-3201372
+partOf: path-of-the-deathless-book-4-completed
+position: 425
+ownLength: 4912
+unit: words
+publishedAt: 2026-03-27
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3201372/320-curse-3-double-subversion"
+royalRoadId: "3201372"
+---
+
+Words fail to describe how much I loathe most time loops. I can stomach a few variations that allow me to retain my levels and progress, but the nature of a dimension-wide loop rarely allows for that. When the history of an entire dimension gets reset, it usually requires an extreme effort on the part of the Pathbearer to retain any memory of the events they lived through—and the struggle to keep your soul and skills unedited by the System is a gargantuan struggle even for a Transcendent Pathbearer.
+
+The easiest way around the problem is gaining a Domain and becoming Divine, but that comes with its own problems. You’re functionally exiled from most worlds, require an Avatar or a catalyst to channel your presence, and eventually, you will cease to exist if there is no more faith fueling your functionality. I’ve killed a great many lesser gods with ease just by obliterating all their followers. It’s frankly laughable watching a god wink out of existence because you turned everyone on their homeworld to ash via a meager Mythic-Tier Pyromancy Spell. It’s certainly not a form of immortality I desire.
+
+But there are exemptions. Especially if the System wants the loop to end—and most times, the System does want loops to cease. Because having all strife suffer the fate of retro-continuity and be made into false-history means that the mana generated from all that struggle is rendered nonexistent. A deeply tragic outcome for the System. Pair that with the fact that the magical lore of time technically shouldn’t be able to turn time backward, and the matter gets even more damaging and complicated for existence.
+
+The closest I’ve personally ever come to true madness was trapping myself in a loop with an advanced Chronomancy Skill I was testing, forgetting I was in a loop due to the nature of said loop, and then suffering 1 million years of excess memories when I finally managed to break out. I didn’t even manage to retain that many levels in the aftermath, and I was forced to forget so many things so as not to be reduced to the state of a drooling vegetable.
+
+No. I desire control over all aspects of existence and also myself.
+
+Amorality is not the goal. Mere agelessness and an eternal delay are not a solution. It’s just a slower form of decay…
+
+There are other kinds of loops, however… Instead of going back, you can simply accelerate the pace around you faster. It doesn’t necessarily have to purely be a factor of time. A narrative loop can technically be formed. A series of fixed events that you can mostly control, placed within a dimension of accelerated Chronomancy…
+
+Hm… I think I’ve just been inspired.
+
+—Udraal Thann
+
+320
+
+Curse 3: Double-Subversion
+
+As the light faded, so did the cold. The chill in the air drew away from Shiv and Adam as it tumbled forward in a swirling haze of mist that shrouded the throne. Harkness' silhouette remained in place, unchanging.
+
+Shiv expected her body to transform, for some kind of horrific monstrosity to burst out from her—because that was the kind of life he led. Confriga had turned into the Recollector. The people at Monster Mystery Meat had burst apart in sprays of gore as the bread inside of them tore free. Harkness turning into a monster wouldn't be a surprise. It would just be another bloody moment in Shiv’s life.
+
+With that in mind, he advanced on her, striding toward the veil of winter without fear in his heart.
+
+“Shiv…” Adam called out warily.
+
+“Just watch my back,” Shiv said. “I think I'm going to finish hacking Harkness' head from her body before she turns into whatever the hells she's going to become.”
+
+A low rumble of laughter greeted him. Instead of Harkness transforming, a hazy shape loomed over her, rising tall as a parent would over their child. “What an imagination you have, Deathless. Or perhaps it is just the life you have led. One does not burn so brightly with the System's favor if they are not embroiled in blood and battles nigh-constantly.”
+
+The voice was low and feminine, refined yet dangerous. Violent jolts of electricity ran up Shiv's spine. His Skills screamed out at him. Sage of the Enkindled Heart responded with worried agitation, unsure why it felt that way. Gardener of Doubt caused the shadow standing over Harkness to start vibrating violently. And A Glimpse of Perspective began whimpering and repeating a phrase inside Shiv's mind:
+
+Longer than you think. Longer, longer, longer, longer than you think. Longer than you can possibly imagine.
+
+And without warning, a vision took him. A vision of a cobbled path extending before him, disappearing into the horizon. Before he knew it, Shiv found himself walking forward, passing through forests and fields, but never leaving the road. And so he walked. He walked for a minute, for an hour, for a day, for a month, for a year. The sun fell, replaced by the moon's pale watch, and the lands around him withered and died. He kept walking, and soon enough, the sun rose again, and with it, nature sprang to life. But as he kept walking, the trees lost their leaves once again, and before he knew it, flakes of snow fell from the sky and covered the world in a blanket of death. After a time, the cold was banished by the dawn of a new day, and life returned to claim its throne.
+
+And so it went.
+
+The stars spun like a great wheel above, the seasons came and went, and through it all, Shiv walked.
+
+For ten years. A hundred. A thousand.
+
+He walked and walked, but the road had no end. It just kept going and going and going. There was no choice but to travel down that endless, narrow road. There was no way back, no sides to turn to, and most of all, no end in sight.
+
+This road—he knew it. He knew it by now. He'd walked it a million times. The stones and the grass and the trees might be different, but he knew the road, and it never changed.
+
+He'd been walking in a circle. But there was no stopping. He had to walk forward, forward forever and forever and—
+
+A Glimpse of Perspective 76 > 79
+
+A burst of activity from his Non-Sequitur Skill snapped him free of the vision. Shiv gasped and shook his head. He saw the shadow stepping beyond Harkness, approaching him in turn. The Deathless clenched his frying pan tightly, preparing for whatever battle against whatever monstrosity was to come.
+
+Yet through the frozen haze emerged a woman. No, not a woman. Something elven, or even more primordial than that. She resembled Cullywier; her body was too thin, her limbs too long, her eyes too dark and round. Her features too delicate, yet pristine and perfect. The greatest difference was that her body was covered entirely in feathers, colored like the dark depths of a frozen lake, and a pair of avian wings drooped behind her back and became as if a cape billowing in her wake. It was like looking at a parody of humanity. She had an expression that taunted him, that mocked him like he was the alien. Like he was wrong.
+
+Atop her head was the crown once worn by Harkness, and in an instant, the cold mists that once formed an armored shell around the former Aviary operative became a flowing dress for the strange Fae.
+
+“Guessing you were the one that's been whispering stuff to us,” Shiv muttered. “The one who didn't let me stop time. The one that broke Adam's Commander's Foresight as well. I… couldn't really focus on the voice. Till now.”
+
+The Fae maiden smiled. Something in that expression made Shiv want to cleave her in half or flee from her as far and fast as he could. “No, I just spoke to you. The System here stopped you from doing all that. You can, of course, revert your personal history, but the Fairwoods are built differently from your world. Father Time does not appreciate violations of a direct nature. You are fortunate that you arrived at the moment of the Moon's triumph. If the Summer Court were still here, Father Time would have visited you directly and visited great pains upon your person for violating the laws of chronology.”
+
+“Lucky me,” Shiv replied, trying not to shiver from the uncanny way her low voice trailed across his senses, like something in the firmament was shifting at her will. “Now, to get to the point, who the hells are you? The Winter Queen? We set you free by kicking Harkness’ ass, is that it?”
+
+“I am the one who has been waiting for you. I am the one who allowed Lady Eileen Harkness to assume this throne and play the role of Queen. I am the one who guided her to this victory in anticipation of your arrival. I am the one who is going to give you everything you want, as you are the one who is going to give me everything I want.”
+
+And as she spoke, Shiv saw her teeth were pointed and rowed like a shark's. They were those of a predator, hiding behind the lips of a creature delicate and soft.
+
+But the Deathless had teeth of his own. They ran as the rim of his frying pan. And they could be called on to erupt from his body in an instant if he shifted his physiology to a more eldritch nature. Every blade pierced deeper than matter when it came to him, and Shiv had no intentions of folding or bending to another's machinations.
+
+“So, what? You're going to take away all the Curses burning inside me? Is that it?”
+
+“Of course I will.” The Fae smiled and placed her hands together. “You deserve a reward for completing your Quest, do you not? You have stopped Eileen Harkness from fixing the Broken Watchtower. You are owed a boon from the Court of Winter, especially since you ensured my salvation as well. Ah, but here I am, speaking to you so informally. Let me make this invitation proper. Let me grant you the Blessing I gave Harkness when she was brought before me in months prior. First, a cleansing.”
+
+The Queen of the Winter Court stepped forward, taller than Shiv, but far, far thinner. She slowly strolled around him, circling his person, but he forced himself to stand still.
+
+“I will help you boil away those impurities, those Curses staining your soul. I have just the thing. I need you clean regardless.”
+
+She sounded positively giddy as a concentration of incandescent frost flooded into Shiv. The suddenness of the magical intrusion took him by surprise, and the way the magic dissolved into the exterior of his Vitae rather than sinking to the depths of his soul caught his attention. Shiv briefly thought the spell of the Mother of Moons had failed, but then he felt a series of substances break against him. It was like dead skin being scrubbed off his soul, peeled away as a new, healthy layer took its place—and all it cost was the slightest bit of Vitae in the process.
+
+Curse Lost: Favored Archenemy - Your Nemesis will always be able to sense your presence, regardless of guise or appearance. Your Nemesis will always have a sense for where you are. Regardless of dimension, world, distance, or time, you are marked for an eternal war.
+
+Curse Lost: Hands of the Bloodied - Anything you craft and create will be stained with blood and degrade at an increased pace.
+
+Curse Lost: Golembane - All artificial constructs will view you as a hostile entity.
+
+Curse Lost: Meta-Dyscalculia - All numbers you see will be scrambled; math will be your enemy.
+
+Curse Lost: Touch of Rust - All metals and materials erode, tarnish, and break down when you touch them at an alarming pace.
+
+Curse Lost: Withering of the Usurper Queen - You are no longer laden with the sorrow of coldness and finality.
+
+Curse Lost: The Gaze of the Usurper Queen - The eyes of the Usurper Queen are no longer upon you.
+
+Blessing Gained: Plot-Armored Protagonist - The Fairwoods favor you, O hero of legends…
+
+The Challenger has been alerted to these changes.
+
+Maiden the Genius has been alerted to these changes.
+
+Daughter the Deadly has been alerted to these changes.
+
+And as she extracted all his Curses and infused him with her Blessing, the Winter Queen stopped vibrating. It was like she'd been lying every second before just by existing, but now, when she spoke those words, when she promised to relieve him of his Curses, she was being honest.
+
+She had been speaking the complete truth only in the past few sentences, and never at any other point.
+
+A razor-thin layer of ice broke apart around Shiv’s body. It was like he was being hatched from a cocoon, reborn clean of taint. Vaguely, Shiv felt the other gods who'd tarnished his soul reaching for him, trying to reassert their powers, but they were far and separated from this place.
+
+In a faraway realm, the Challenger roared. Maiden scowled. Daughter shrieked. But the Queen of the Winter Court just smiled serenely, gentle like a mother gazing proudly upon her child.
+
+As the last pieces of winter’s touch peeled from his person, Shiv let out a disbelieving breath. Relief overtook him, but there was also an awkward feeling that rose with it—a sense that it had been all too easy despite everything he suffered. Like this was more an anti-climax than a moment of triumph.
+
+It kind of is, Shiv realized. A literal Queen of the Fae is intervening on my behalf against the Ascendants and other gods. I’m not getting free because I figured something out or defeated an enemy. I was literally brought just where I needed to go, stomped the shit out of Harkness, set the Queen free, and got what I deserved.
+
+And if the remaining unfailed Quest he still had wasn’t lying, he was going to get more rewards than just a purification of Curses.
+
+Quest: Stop the Usurper Queen from reassembling the Broken Watchtower.
+
+Reward: Evolves Chronomancy Skill to Legendary-Tier; grants a secondary Chronomancy Skill at Adept-Tier
+
+Failure: Cedes complete authority over Seasonal Resets to the will of the Usurper Queen.
+
+Shiv waited. But the reward notification never appeared. Huh?
+
+“Shiv,” Adam called out from behind. “Are you… Are you cured? Are your Curses gone? Is that what she just did?”
+
+“Yeah,” Shiv replied. A soft laugh slipped out of him as he stared at his hands. He felt… lighter—unburdened by the will of hateful gods. But he also noticed something else: Divine mana poured upon him by the Winter Queen didn’t need to settle at his very core to achieve its effect. Instead, it was applied like a cream upon the outer layer of his soul—almost like skin care.
+
+Does that mean that Curses are like a barrier or a threshold lining my soul, and not rooted somewhere at the core? Like… some kind of crust or filter that affects how my actions take shape in the world?
+
+Magical Theory 8 > 12
+
+A rush of levels flooded into his Magical Theory Skill, confirming his thoughts. The power of the gods wasn’t altering the fabric of his being, but rather coated him with their personal mana. He was effectively caged by an imperceptible crust. That’s why he couldn’t cut out the Curses. They were never truly inside him, and the way they tainted him was more like an alchemical lining compromising how he interfaced with the world rather than who he fundamentally was.
+
+“Yeah,” Shiv repeated. “I’m clean. No more Curses. They're gone. All of them. Even the Challenger's.”
+
+As he spoke, he realized the same boon was being granted to Adam as well, and the Winter Court’s incandescence bled over into Shiv’s mind, where Uva resided, clearing her of the Usurper Queen’s—
+
+A savage, rattling sensation thundered within Shiv’s soul. His Non-Sequitur Skill throbbed like an appendix on the verge of bursting, desperate to reveal something to Shiv—desperate to trigger. It couldn’t. Shiv caught the Winter Queen as she squinted. Another, subtler rush of coldness passed through him and dulled the skill before it could go off. And immediately she started shaking before him, like every cell of her existence held a lie within.
+
+Gardener of Doubt: Something is wrong. Beyond wrong with her. She cannot be trusted. She is deception incarnate. She is a walking falsehood. Turn away! Turn away! Turn away!
+
+And at the same time, a cry of alarm came across Uva’s telepathic links.
+
+“Shiv!” Valor’s tense voice hissed within him, carried through Uva's Psychomancy. “You need to get away from her. Get Adam and get away. This isn't the Mother of Moons Cullywier knows. She's not the Queen of the Winter—”
+
+“Please don't interrupt, Legend Valor. It is very rude.”
+
+A rush of incandescent coldness swept through Shiv, and suddenly, he felt the psychokinetic strands connecting him to Uva, Valor, and everyone else freeze solid. They were still there, but nothing traveled across; nothing at all. Before he could react, the strange Fae gestured once more and, using the ambient mists, she ripped Uva out from Harkness’ broken mind before tossing the Umbral over to Shiv casually.
+
+A moment later, his mind struggled to perceive what was happening as the very world around them grew gnarled and faded like pages from an old book. There was a distance building inside Shiv, like he was peering out from himself, like a bystander—a reader peering at words describing what he was doing rather than a person guiding their own actions, with their own agency.
+
+A Narrator of the Fairwoods has declared a final climax to this tale.
+
+Beginning Epilogue…
+
+Uva let out a surprised gasp as the curled fingers of steaming cold carried her through the air. She was partially shifted. The eldritch nature of her form was more exaggerated than ever before, and as Shiv caught her, her psychokinetic tendrils flicked about. They struck the Fae, yet they did nothing, bouncing off her body like there was a threshold she couldn't pass through.
+
+“There, all of you are together now. The three who burn, all gathered as one before the queen they freed. What a wonderful story.” She clicked her tongue, and her face fell in disappointment. “Just a shame we're missing all the important bits leading up to this emancipation. Now it just seems like you were written in by the hand of the author as a desperate final measure to achieve a happy ending where none should have been possible.”
+
+An arrow wreathed in Chronomancy erupted out from beside her head. It came within a centimeter of piercing her skull, but it froze in place, as did Adam, as the cold fused around him. Shiv tried to move, and the coldness scraped him as well, wrapped him in its loving embrace, and held him still.
+
+Reality stopped moving. The confines of existence were narrowed until he was simply trapped, trapped in a cage sculpted in the shape of his body. That same fate befell Uva as well. The prison crept across the throne room, extended across the lands, and surged to encompass all reality.
+
+No actions can be performed while the Narration is ongoing.
+
+Before them, the Queen of Winter radiated with lunar brilliance. “Don't worry. I cannot hurt you right now. It is time for exposition. I wish to talk with you. I wish for you to know what I desire. I wish for things to be made plain. Because I am lonely, and Harkness was a terrible conversationalist.” She turned, directing a disdainful stare at the slack-faced vegetable slumped upon her throne. “She has served her purpose in drawing you here. Now I have all I need.”
+
+Evanescia, the Usurper-Narrator of the Fairwoods, has marked you as an offering to the Broken Watchtower.
+
+Evanescia, the Usurper-Narrator of the Fairwoods, has marked Uva Mettabon as an offering to the Broken Watchtower.
+
+Evanescia, the Usurper-Narrator of the Fairwoods, has marked Adam Arrow as an offering to the Broken Watchtower.
+
+Each notification struck Shiv like a hammer blow over the head. He tried to move, but the distance between him and his body and mind was vast. It was like the innermost aspect of his consciousness had been extracted entirely—displaced and exiled. He and his friends, for a moment, became sketches on a page; color bled away from their persons, and they blended into the backdrop. Each stood before the throne and the true Usurper Queen who looked down upon them; however, she suffered none of these effects. The gnarled-looking textures of withered paper never touched her. She remained a full person, colorful and radiant, vivid with detail. She continued speaking while everyone else had to listen.
+
+“To begin, I would like to explain a few things.” Evanescia descended from her dais and ran a taloned hand along Shiv and Uva’s faces. Shiv tried to go Non-Sequitur, tried to swap his physical body with his Severed Shadow, but neither was allowed.
+
+He was pinned beneath the weight of an entire dimension. However, something inside him trembled. He could still move bits of his soul. He could still struggle, and he tried to trigger his Non-Sequitur again and again. Desperate to break free, desperate to squeeze out from the cage fused to the shape of his body.
+
+“By now, you might have understood that I am not the true Mother of Moons, sovereign of the Winter Court. Not usually, anyhow. I usurped the true queen’s position before your old enemy arrived. Originally, I just wanted to find what amusement I could via court politics and general warfare. It had been a little while. But when a group of former bandits brought a little bird from Integrated Earth's New Albion to me, why, the flowers of possibility began to bloom in my mind. And after I finished extracting what pleasure I could from her through conversation and a spot of torture, I delved into her memories and, to my elation, found something wonderful glowing just over the horizon.”
+
+Evanescia’s form began to change. With every step, her form began to shift. Her queenly regalia faded, just like winter mist dissipating with the coming of spring. The moon hovering above her crown combusted into a ball of flame and then became a swirling raindrop of ink that spilled over her and reshaped her entire body.
+
+What Shiv beheld then, when the downpour of ink dripped away, was the most… nondescript woman he could ever describe. Every time he tried to focus on her, the details slid away from his mind. It was like water running down a slope, dripping away from his reach. He couldn't hold on to any of the details. Ultimately, she was blank-faced, vague of attire, shadowy of contour, perfectly able to assume any role, put on any garb, and slip away in a crowd without being noticed.
+
+He focused on the blank canvas that was her face. There was nothing there, nothing but space for everything: any kind of eyes, any type of nose, any sort of lips, any set of ears. The shape of her skull was constantly in flux as well. This one was a shape-shifter of the highest order. It wasn't just her physical body that felt fluid; it was everything, every single aspect of her. That's why Gardener of Doubt showed her to be vibrating so violently: It sensed a liar of liars before him, but lacked the words to describe the lie at first.
+
+“I have need of you, Deathless. All three of you. Perhaps you and the Archer more than the Operative, but all three. More specifically, I need the strife inside you. I need the flames that empower you—that only continue to burn hotter. Do you know that just one of you has enough fire within to rival a full season of warring between the Courts? It’s really quite something. You should be proud. I’m looking forward to scouring your memories and learning all about your histories. The battles you were in must have been things of legend.”
+
+Evanescia sighed wistfully. “But I suspect I’ve seen it all before. Too much. I’ve consumed Patternists whose very breath has wiped away worlds, men, women, and more who have stolen the fire from stars. I have drunk the life out of fools who have slaughtered entire dimensions clean of life. Grand as your battles must have been, I think they have you beat.”
+
+The indescribable shape of Evanescia stepped before Shiv, though there were no eyes in her face for him to meet. “But though they were powerful, they died. There was an end. But you, Deathless, you have no end—or are not meant to. Udraal's masterpiece. Just like the Broken Watchtower and I are his mother’s. Some part of this feels so fated… There is a reason why you stumbled so blindly and ignorantly into my story, into my world. The System loves to apply its magnetism. Even with a few degrees of separation between.”
+
+Once more, Shiv activated Non-Sequitur. Once more, he bounced off the prison constructed around him. His soul ached with strain, but he felt something in the faintest crack, the slightest rip. The moment he sensed that, he tried using his skill. Any skill. His eyes flashed as he managed to analyze his enemy—and an explosion of indescribable pain tore through his mind in return. If not for his stasis, he would have dropped to the ground and writhed like a dying insect.
+
+“Again, please don’t interrupt,” Evanescia quipped, “it is quite rude. Though you are impressive—incredible, even, for a babe so absurdly young. Legend already. Low Legend. With at least one Skill that defies the System’s will. It takes something like that to tear at my epilogue.” She frowned. Something within her emotional core shook. Evanescia was debating with herself about something. “I am going to reward you for trying. How about that? I do like a good hero, and I think you’re going to make a great and exciting one. Someone who will entertain me for at least… oh, a million years before I have your Path changed to something else. I think I might give your Path a go after, Unique as it is. But you are not the only one. Just like there are no Deathlesses beside you, there are no Narrators beside me. Not in all the Fairwoods. Not in all the Fae-ruled dimensions across Integration. Only me. And the reason you cannot perceive me is simple—I am everyone. Or at least I can be. Look upon me and see no distinguishing details. That’s the blessing and curse of the Self-Insertion Skill. Here. Let me show you how it works.”
+
+Evanescia walked away from him and toward Uva. Shiv’s insides exploded with rage. He flung his Non-Sequitur against the cramped narrative holding him still. Something tore around him. The faintest hints of color spread across Shiv’s midsection. Evanescia noticed, but ignored it as he failed to break free. However, Shiv’s Non-Sequitur began to leak out of him. His Vitae spilled free in droplets—he wasn’t truly trapped anymore. There was a crack. He could squeeze through—he could escape!
+
+Come on! Come on!
+
+Non-Sequitur 167 > 179
+
+This Severed Shadow of Blood and Bladed Soul 192 > 202
+
+His emotions did a violent flip as his Unique Skill reached a threshold for Evolution, but acquired none.
+
+The Usurper Queen came to a stop before Uva and hummed. “Interesting. Burning just like the other two. Even more intensely, sometimes. Just a shame you’re filled with that unconverted filth. The System hasn’t fully Integrated parts of you yet. It will take some time to distill the Outsider magics away from the virus-gods infecting you. Until then, I think I’m going to use you as… Ah, so many little minds there. Good, good. I have need of a better surveillance network anyway. Divination is just so reactive.” She patted Uva on the head like a pet, but then stepped away from her. “I’ll give you some time. I look forward to wearing your Path personally more than anything else. You have an aesthetic I enjoy. We just need to carve away those changes into something more… floral. Perhaps a butterfly rather than a spider? Yes, that will work.”
+
+And then she was next to Adam again. “But you are a wonder. What an interesting little skill you have. How did you manage to create a stable channel to project your soul and skills? Usually, an opening like this is more than fatal—to die without a soul means the System isn’t able to recycle you at all. Even the legend is lost. Even the legend that he was spawned from was great—he had the potential of being even greater. But I suspect it was due to your flame that—”
+
+Her words turned to a ragged shout of pain as the Last Morsel struck her, parting the edge of her tightening contours before she could fully close over Adam.
+
+“Just shut the fuck up!” Shiv snarled as he cleaved into the newest sack of bullshit he had to deal with. “Just shut the fuck up and DIE!”

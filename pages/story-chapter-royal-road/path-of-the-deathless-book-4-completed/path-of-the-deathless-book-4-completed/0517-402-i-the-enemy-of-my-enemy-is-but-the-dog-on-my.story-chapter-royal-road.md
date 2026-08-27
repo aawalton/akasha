@@ -1,0 +1,211 @@
+---
+id: 93e04f45-72cc-55c0-954d-244d28bbbce7
+page-type-slug: story-chapter-royal-road
+title: "402 (I) “The Enemy of My Enemy is but the Dog on My Leash” [II]"
+slug: 0517-402-i-the-enemy-of-my-enemy-is-but-the-dog-on-my
+partOf: path-of-the-deathless-book-4-completed
+position: 517
+ownLength: 5987
+unit: words
+publishedAt: 2026-07-08
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3650809/402-i-the-enemy-of-my-enemy-is-but-the-dog-on"
+royalRoadId: "3650809"
+---
+
+Yet, as I have reached this point, I must ask you to temper yourself, unreasonable as this request might be. Noromo Dogborn, Bastard Saint of Wandering Blades and God of Righteous Deceivers, stumbled and uttered a statement without thought, but you do not possess such luxury. You are no god by birth, for all that entails, good and ill.
+
+And do not consider being mortal a weakness. For though you might lack much in power, though you might not be able to stand as a pole of the System. What you possess is the ability to strive towards enlightenment, and such a gift is beyond the gods. One must suffer and strain and learn and admit their own mistakes to grow and to encapsulate the fullness of knowledge, the endless fullness that never ceases to come. With a god, possessed of absolute qualities, granted absolute dominion over those they see as their inferiors, what true enlightenment can follow?
+
+And it is connected to this that you must face the fact that sometimes, in the pursuit of virtue and in enlightenment, you must forsake your own revenge for grander goals still. These words are not to persuade you toward the hubris of blind pacifism. Far from it. We live in a world that is ontologically opposed to the peaceful. Pacifism in and of itself might still be a noble pursuit—but understand you have chosen martyrdom when you walk such a path, and often hollow martyrdom is that.
+
+What I do speak of is a grander purpose. What serves you? What compels you? What is worth doing in the grand tapestry of your life?
+
+The fires of revenge might burn hot. You might find yourself enticed and seized by the desperate opportunity to strike down the object of your hate. In this moment, if you are truly to be a philosopher, if you are truly to be a self-moving soul capable of mounting both mind and heart, you must understand when to stay your hand and when to strike. It is more than feeling; it is more than logic; it is the connection of both in accordance with the world around you.
+
+And so I implore you to think; to master your mind; to govern your heart so you might chart the path of highest truth.
+
+And understand that there will be mistakes. Understand that there will be flaws in your enlightenment. Understand that there will be times when you misstep or decide wrongly. This is not the shattering of your foundations, but the reinforcing. The shattering comes when you choose the same mistake over and over. The fall is not depravity. To fall is not shame. To fall is enlightenment in and of itself. It is the development of virtue in progress. To fall and to return. That is the truest expression of tested wisdom, and in these moments, you must face yourself and consider: Are you living up to the true potential of your wisdom? Are you doing what is right rather than what will see you satisfied?
+
+Life is more than pleasure. Pleasure, joy, sadness, hatred: all are emotions. All are fickle. All are governed by that which flows within the juices of your mind and, further, by the impulses bestowed upon you at the behest of the world and the whims of the system.
+
+There is something higher still. There is something greater still. What is the true foundation of your philosophy? Discover this answer. Make sure your supports and pillars stand hot. Thaw, stretch them beyond the heavens, and if they fall, build them anew and see prior mistakes undone.
+
+For the difference between a self-moving soul and a dog on the leash is that one is so easily swayed by motion, impulse, and incentive. The other seeks to manufacture their own meaning in this grand world riven by conflict.
+
+And so, before any other can enslave you, first you must enslave yourself to see each to your truest emancipation…
+
+—Legend-Philosopher Melaia Kelhaus
+
+402 (I)
+
+“The Enemy of My Enemy is but the Dog on My Leash” [II]
+
+The fear of the Stranger spilled through the Supplicant in molten floods and infused Shiv with ever more power.
+
+With the meagerest of gestures, by exerting its power over time itself, the Supplicant could see Shiv torn apart, especially this body of his, deprived of attuned skills and bereft of Magical Resistance. Yet the Supplicant made no move to act; it held itself at bay, even though Shiv could feel the enmity emanating from it. It felt akin to a Pathless reluctant to smash a wasp between their hands, lest it manage to sting them before perishing and causing a fatal allergic reaction. The Supplicant had tried earlier to pull every single one of Shiv's vessels from across time, yet only managed to grasp the string for one among the ensemble; the Severed Shadow that was left unprotected.
+
+And even if one of Shiv's bodies were to be destroyed, the others would slip Backstage, and a true dance between an unnatural god and this tiny, stubborn immortal would begin in full.
+
+Then there was simply the risk of facing the Red Rider's Hand and the Challenger’s Blessing again. Even now, one among those great and colossal fingers capable of sinking cities, of cracking continental plates, and of enshadowing towns, remained shattered and maimed.
+
+Shiv could see a mess of broken fragments jutting out from the mangled digit. Its upper half was reduced to less than tatters, and the injuries were coated in a dense layer of gleaming vitality that sang odes to the glory of war.
+
+The Supplicant had been touched by the will of destruction, a will that expressed one of the System's purest desires. And so, beneath that will, the Stranger, who long dreamed of returning to his false omnipotence prior to his self-awareness, now suffered the full burden of permanent damage.
+
+But despite the ruination of that digit, the rest of the Avatar’s flesh remained unscarred. The Chronomancy emanating from its being created a veil of tarnished gold, a sphere of time wider than a nation, all to take hold of a single entity, like a fly encased in amber.
+
+“Make this stop. Make this stop. Will spare you. Will give you peace… if you give me peace.” Rather than only sounding from the Supplicant, the Stranger's voice emanated from all corners of his dimension, wracked with emotional exhaustion.
+
+The surprise within Shiv gave way to a dark schadenfreude as he realized the Eldritch God was succumbing toward humanity at an alarming rate. “Constant strife and struggle are not that fun when it's happening in your front yard, huh? I get it; normally, I’d even sympathize, but you see, I remember you and yours trying to hatch freaks from my mind, flesh, and soul. And I haven't let go of that grudge yet.”
+
+“Would have changed you. Would have claimed you. Would have worn you.” A glistening shimmer caught Shiv's attention, and he peered beyond the Supplicant. A great core loomed in the distance, bright and polished, clearer than ever before. The Stranger's emotions were getting easier to read, and within his empathetic nucleus rained a downpour of lament and frustration.
+
+The damn Outsider didn't feel bad for his actions as much as he was developing the ability to feel self-pity, which was still far from any semblance of morality. He despised Shiv for not surrendering himself to his power, and he despised himself for not claiming Shiv. The Stranger ultimately remained still too close to a monster to be fully human, still too deprived of conventional morals and emotions to fully grasp what he was doing.
+
+In months prior, especially after the battle against the Recollector, Shiv would have reveled at such a sight, would have taunted the Stranger and tried to deepen his pain, but Shiv at present was imbued with higher insight, with finer means of manipulating both thought and emotion.
+
+And with this power, the analogy between him and the Supplicant collapsed. He wasn't merely a wasp; he was a nail fired from a gun, seeking to strike a brittle surface. The Stranger's Avatars, every single one of his Fingerlings, everything that was stained with its emotions and imbalanced from its thoughts, were shaped from a foundation of compromised glass.
+
+All Shiv had to do, if he wanted to inflict another measure of harm, was strike the Supplicant and pry at the Stranger’s psychological wounds through it, but he didn't. Instead, he soothed. He confused. And he sought to find an adequate leash for it. “But you know what? I understand you. Feel the same way. Don't get me wrong, I still despise you. I'd like to rip into you and leave you gored and bloody. But I can't do that to you. Not easily, anyway. And whatever you do to this body of mine is just going to amount to nothing, because I'll be back over and over again—and you'll never have your peace.”
+
+“No! Give me peace! Give me, or I will…” The Supplicant's remaining fingers curled in fury, its body and manner tensed and crashed down as a turbulent sea commanded to rage at the will of an anguished god.
+
+But before the tantrum could truly become apocalyptic, Shiv's Harbinger shifted over, leaping across time and vessels to manifest over his physical shell. The titanic fingers forming his cage flinched back; the eyes dotting their lengths as loathsome constellations squinted and flared bright, prepared to shred Shiv from time itself for his impending transgression. Yet, instead of lashing out with fist or spell—or even attempting an escape—the Harbinger came bearing a conveyance of understanding with an emission of Psychomancy.
+
+“Hey Stranger, I want you to listen. That's not a threat; that's just what's going to happen in the future. You see all this? All this is because you made a mistake. You, not me.” Shiv adopted a casual demeanor for his words were honest, and he had an idea about how to bend the Outsider God to his will. “You came after me. You kept coming after me. You kept trying to fight me. And now, unfortunately, some of my favor’s spilled over to you. In three months, I went from being Pathless to Legend. Now, I got a little bit of help from a Feat, but thanks to all this favor, I level unnaturally fast even without making use of it now, and so do the people who spent too much time around me, especially the ones who fought and survived by my side.”
+
+“Haven’t… Not by your side! Lies… Deception!” But the Stranger's voice was straying from mere anger now and veering toward delusion.
+
+“Nope, sorry. It's not a lie. That's just the way it is. We fought each other. Now, most of my enemies don't survive battles with me. I killed them. I killed your Recollector. I killed Longinus. But you, well, you're different. You're far too powerful for one—I don't know if I can reliably kill you, even if I keep trying for a century. I barely understand how you work. But I do think I could take a good swing at you using my new hand, if you understand what I'm saying. But I don't want to because I don't see the point.” Shiv regarded the trembling fingers of the Supplicant and scoffed. “How many levels have you gained since we fought? Actually, you know what? There's no need to answer. I can tell you gained some new skills too. Maybe you even evolved in some way. With every bit of power the System bestows upon you, it's also sculpting you, forcing you to resemble a certain shape.”
+
+Shiv let the Stranger’s discomfort drag before he asked the following question. “You got a Path now, don't you? It's made you stronger in some ways, but it's also bottlenecked you in others. Things you could do before without even thinking are lost to you now. And what do you get to keep? Those eyes. Your control over time. I remember when your Recollector was breaking temporal laws left and right. You can still do that. Don't think anyone else managed that trick on me. Don't think the past and the present are the same for anyone else.”
+
+At that, Shiv crossed his arms. “But here's what I do wonder: how long are you going to be able to keep doing that? Because sooner or later, the System's going to define your Chronomancy, and then you're gonna get a Skill Evolution. Maybe a really good one, yeah, but that'll be that. You'll just be a High-Tier Chronomancer. Maybe the System will even slap a Domain of Time on you. But is that the same as being time itself? Is that the same as being memory and history?”
+
+Not a single invective left Shiv's lips during that entire monologue, but the faintest cracks began to spread, starting from the Supplicant, but spreading through this dimension itself as if it was a broken pane of glass.
+
+“Won't-can't be controlled, won't be changed. I don't want to change.”
+
+“It's too late,” Shiv replied, shaking his head. “My fire’s eating you up. You've already changed, and it's not gonna stop. The fact that we can have a conversation like this. The fact that I can understand you better than I understood you at the start? That shouldn't be the case. You were terrifying once. The first time I fought your Recollector, you were something that didn't need to bend to the System's laws. You were beyond logic; there was no sense to you. You did things because you wanted to do them, because you were the things. You were a concept, a concept that’s, un—un—what’s the word, uh, unfettered. But it's just not the same now. And it's gonna get worse if we keep fighting. Actually, it's gonna get worse in general, because now that you're burning with favor, there are going to be fights coming for you no matter what.”
+
+“No… no…” The Stranger's emotions plunged away from rage, away from delusion, toward the valley of darkest grief.
+
+“Yes. You stop being an outsider. You become just another god. And soon, well, it's like you died. Nothing’s left of you. Nothing of who you are. Now you're just a story told by the System. And that's a hell of a thing, right? All that power, but none of it yours. You have been re-sculpted by a higher will.” Shiv couldn't help it. It was horrifying, but it was also immensely demented. “It's like being eaten by something, and then being birthed by it. You remember who you were, but you can't be that person anymore. For an Outsider that views the past and its present as the same thing, that suffers wounds dealt to it across time because its memory holds onto those scars, I can only imagine the trauma—”
+
+“Stop…”
+
+“I can only imagine the pain…”
+
+“I said STOP!” the Stranger screeched, causing the entire Garden to tremble. And Shiv did. He respected the Stranger's request instead of pushing, because if he pressed any more, the Eldritch God would break. Something soft in its emotions would succumb, and it would seek to relieve itself of tension and outrage the only way he knew how. “Don't want this. Don't want to be the System's slave. Don't want to be this animal. Don't want to be another's animal. I am. I was. I am. I was. I was totality. I was everything. And now… And now…”
+
+“And now you're just a figment of a greater power's imagination.” Shiv nodded. “Again, I get it. I hate the system almost as much as you do. Right now, my hate for it is cold and true—and I know my real enemy. Let's get a few things clear here, Stranger. I hate you, and if I could kill you, I would. If I could hurt you, I would, but I'm not going to try to destroy you when a greater enemy still is placing its boot on both our necks. I'm not going to be someone else's dog on a leash. And with how you're willing to bribe me, with how desperate you feel, I think you don't want to be a dog either. So, where does that leave us?”
+
+The Stranger said nothing, for he had nothing to say. His emotions boiled over his mind, and darkness swelled across this realm, a painful darkness, a darkness that resembled a ravenous fire enkindled from the fumes of trauma.
+
+“I'm happy things turned out this way,” Shiv continued. “I'm serious about that too. When I came over, I expected to be fighting you. I expected to die over and over again trying to distract you from retaliating. Instead, you catch me first, and you try to bargain with me. Since you did that, I think there's something we can do to hurt our mutual enemy. The best thing we can do right now is not serve the System's will. You don't want us to come in here and muck up your place? Sure. That can be arranged. I don't want to fight you because I don't want to risk the people I care about, and you don't want to keep making contact with us and devolve further.”
+
+“Will leave me alone…” The Stranger's voice was tinged with miserable suspicion, but the faintest echo of hope. It still scorned Shiv, despised his nature, hated his presence, and it waited for him to strike. It was prepared for him to break his word and resume hostilities at any moment, but he didn't, and so it kept waiting. Trust was not inherent to its nature. Trust was far from its heart, but trust was what it needed to understand if any kind of peace or diplomacy was to take shape between the Stranger's garden and Gate Piety.
+
+“Yeah, sure, I'll leave you alone, but I can't say for certain if the other Outsider gods will. They see you changing too. The System is reducing you all, and I guarantee you, even if I don't fight you, someone else will come. I'm willing to offer something more than leaving you alone. I'm willing to take the fights on your behalf. Because I want the levels, because I want the other Outsiders to know that they need to stay away from this territory, and ultimately I want you to be our sentinel against any other weird threat that we can't quite understand. Oh, and on top of that, I want you to let some of the crystal branches and weird Outsiders born of our Gate’s mana core spread for a while until we find somewhere else to move it.”
+
+A supernova of pure anger went off inside the Stranger’s emotional core, and a continental avalanche of black flames washed over Shiv. The Eldritch God wasn't just immense in physical or magical size; the feelings he suffered were overwhelming and devastating, far too potent for even a core of its size. “No! No! No! My Garden! My body! I see you now—Trap! Deceiver! Abomination! Won't let you do this. Won't let you shackle me instead.”
+
+The Supplicant's curved fingers reared back, exposing patches of the garden once more. Shiv realized that every single eye dotting every branch across every square centimeter of space was looking at him, all prepared to unleash their powers at once to see his complete annihilation from the timeline.
+
+But that was a lesser revelation. He understood something else about this Stranger—why he seemed so chaotic and diminished, how the loss of his once imposing and dreadful majesty had come about so quickly.
+
+“You've gained a Social Skill, haven't you?” Shiv asked calmly.
+
+The Supplicant stiffened. Its countless eyes twitched. Shiv smirked.
+
+Deductive Reasoning 35 > 39
+
+“Oh, you poor, oversized bastard. All your life, you thought yourself to be reality. There was no one to be social with, because you don't get social with yourself, but then I came along, and suddenly things weren't the same anymore. Suddenly, the System decided to brand you with this curse called consciousness. It's really wearing you down, isn't it? You can't even think properly because you keep getting drowned by emotions you've never felt before. Emotions you don't understand, that keep growing stronger and stronger. You're a god, an unspeakably powerful thing, and so the System decided that the Social Skill you were worthy of also had to be immensely powerful. But it's too much for you. It's like giving an infant a Legendary-Tier Physicality Skill but no Toughness to go with it. All the power, none of the skill, all the consequence. Damn, we're more alike than I thought.”
+
+Those words of mocking sympathy struck the Stranger deep. He wasn't just a fractured pane of glass now. He was a bottle at the moment of striking the ground. Just a scant heartbeat away from shattering. All Shiv needed to do was strike once. One tap with a casual blow, and parts would break and stay broken. The Stranger’s perception of himself, his worldview, his understanding of his own ego, his own existence, had been irrevocably mutilated already at the will of the System.
+
+But Shiv stayed his hand. He wasn't here to trade punches. He was here to pacify a volatile and dangerous god by whatever means necessary and make sure he didn't break their mana core while it was spreading uncontrollably.
+
+There was a path now, a clear path where a measure of peace or at least non-violence could continue between Gate Piety and the Stranger's Garden. If that could be established, if the Stranger could be subjected to persuasion, then Shiv wouldn't just gain a reprieve but would establish one of his first and most dominant victories over the System itself.
+
+“You're brittle right now,” Shiv whispered telepathically, using truth as a weapon once more. “If I wanted to hurt you, I'd just hit you. You know you’d stay broken. You're not like what you were before.”
+
+The Stranger tensed once more. Every single eye under his dominion gleamed bright. And then came an influx of fear, a massive, explosive influx that drove Shiv’s Intimidation Skill closer to the edge.
+
+Shape of Monstrosity 194 > 199
+
+“But I'm not going to hit you. I'm going to show you over and over again that I can be a controllable anomaly, that I can be a reliable monster, because I'm better than the monsters that we know and are used to, rather than the monsters or enemies we don't. We're going to be facing a great many we don't. I'm going to give you a choice right now. You look at me. I'm staying my hand, even if the System is giving me every reason to fight, even though it weakened you. It's trying to entice me, and you need to show me that you can control yourself, that you can do what's right for you, not for me. If you fight me, you understand that there's no way out of this; it's just going to get worse. Your situation might already be terminal. The question is how fast you want to decay. How fast, and if there’s any chance of someone fixing you at all.”
+
+An ominous, weary silence followed. The Stranger said nothing, but Shiv could feel the tension building inside the dimension—could feel how unwilling its master was to yield to another's will. But now he had no choice. Either he played into the System's hand, or he found himself subservient to Shiv's schemes. There was no third option, and with how unbalanced he was by his own emotions, by his own ruinous psychology, he wasn't capable of coming up with any third options—not in this state.
+
+“We're not going to be allies,” Shiv continued. “I'm not gonna bullshit you on how peace is certain between us or whatnot. When you get an angle, I expect you to try and come for me. When I get an angle, I'll try to come for you. But right now, whatever angle we have, it's not real. It's a System forcing it, and this isn't beneficial for either of us. So we can either give each other death right now, or we can choose life for ourselves and we find out where that goes. I've made my choice. You can kill me now, and I'll be back to feed you some more levels and to drag you down further beneath the System’s rule. Or we can swallow our shared hate to avoid greater misery.”
+
+With that, Shiv's own words ran dry, and he waited for the Stranger to enact his verdict.
+
+The silence that followed was anything but calm. It was like being inside a cauldron as the water boiled. Shiv suddenly felt a pang of empathy for all the poor lobsters he'd cast into those scalding pots. Georges claimed the crustaceans felt no pain, that their ends were sudden and their ignorance kept them from true torment, but now, in this realm, faced with this creature beyond human experience, past the threshold of human intellect, Shiv wondered if Georges had been full of shit.
+
+It was easy to imagine something as being hollow of emotions and utterly devoid of consciousness when you didn't understand it, when it didn't resemble you. So much of the human experience was just that, an experience, and it became a cage for most people. They never looked beyond it; they thought the cage was the world, but the world is the world, and your perception is but a narrow lane. Missing so much, so many details, slipping between your fingers, depriving you of true knowledge.
+
+The Stranger was the same way. He didn't understand people, not until now, not until these Social Skills fashioned a pseudo-humanity that saw him lesser than he ever was.
+
+The scintillating flame within Shiv sparked with new vigor. His bound field of time and mind mana flared and hardened, gaining newfound resilience. Both the Harbinger and the Nihilist spoke to Shiv as one. “And so you glimpse a common truth, an ugly reality understood by philosophers and Psychomancers alike. Your perception is not the world. What you feel as the world brushes you, as the world responds to you, is not the world. Your mind is simply an engine of internal impulse receiving a flood of external data. In that comes a dreadful proposition: What if all this is but a lie? What if this is an illusion? If not, then what if this is a layered illusion with every mind broadcasting its own reality, whose reality then is ultimate and true? The tyranny of subjectivity deprives us of so much, and only the meager commonalities we possess sometimes fail to be enough.”
+
+Nihilism Be My Hearth, My Banquet 127 > 135
+
+Harbinger of Tripartite Ruin 338 > 347
+
+“Enough,” the Stranger finally declared, echoing Shiv's Skills. The Deathless lifted his head, prepared for anything to follow. “I've had enough. Heard enough… seen enough. See you… See what you want now. See it… See that future’s ghost. See where all will fall.”
+
+The Supplicant's leftmost pinky twitched. Shiv nearly flung himself back in time to avoid whatever blow might fall. But when the sphere of tarnished time didn't implode or strike him in any way, he stayed. He waited, and the Stranger spoke once more. “I do this. I do this to spite the System. I will not bend to your will. I decide because I decide, not because of you, abomination.”
+
+Shiv sneered. “Feeling's mutual, you oversized sack of eyes.”
+
+But actually you are doing this because of me, Shiv thought. Not my fault your heart’s so frail.
+
+He kept those words to himself, though. No need to tip the scales back the other way when things were already moving in his favor, but another epiphany came to him unbidden, one that troubled him further. It seemed that all Pathbearers and gods even couldn't escape the trauma of their legend. For every battle you survived, scars lingered. In that, Shiv grasped why his mind held major aspects akin to a Tarrasque.
+
+By the time most Pathbearers who gained Pre-Legendary Skills descended into their first Delve, they were so rich with conflict and story that lesser Pathbearers would have shattered a hundred times over. But a Delve was more than a capstone evolution for a skill. It was also the encapsulation of all the trauma a Pathbearer had survived. It was the culmination of all their regrets, all they'd failed, generated into a simulation to be overcome before the Pathbearer achieved their full advancement.
+
+But defeating your own shadow and prevailing against pre-existing traumas wasn't the same thing as truly healing. And that was the problem: few people truly healed. For every year a favored Pathbearer survived, they sustained more wounds. Most were like Adam, who was still broken, who went into his Delve broken.
+
+Oh, gods… And I don't stay broken. And I didn't realize… I never thought of it that way.
+
+No one was untouched by trauma, but Shiv walked away from it. He didn't even scar; he shed those wounds, the toughness of his mind and flesh now perfect mirrors of one another.
+
+“Need things from you: assurances. Your invasive garden. Keep it around your gateway. Perimeter equal to size of your Gate. No further than that. Won't let you infest my inner core. This, or no arrangement.” The Stranger had calmed now. There was still agitation in his voice, but he had a measure of control and was negotiating with Shiv with a measure of hardness.
+
+The battle was practically won, but Shiv answered—made sure to see things through. “I'll try and see it concentrated near the gateway if I can. If anything expands too far, you have my permission to prune those branches. In fact, the Terrorspawn that spill over deeper into your realm can be hunted and removed by your Fingerlings—I won't treat that as a hostile action, and neither will anyone else from my Gate. We're going to try and move our spill somewhere else so that we don't need to annoy you too much longer, but I'm not going to make any promises I can't keep about when or if we'll even be successful.”
+
+“Another thing,” the Stranger suddenly grumbled. “Leave one of your selves here. Any body aside from the one that has the hand.”
+
+This request gave Shiv a moment's pause, but it didn't leave him stymied for long. If the Stranger was planning something underhanded, Shiv would see it coming. The Eldritch God's core was a naked window of emotion, and the substance that splashed and churned within hid nothing from his eyes. “Fine. You get to have one body. But I got a counter request for you as well. You're going to attend my coalition back in the Gate. You want one of me to represent myself and my Gate here? Well, I want something of yours to be in my Gate, representing you as well.”
+
+A sound broke out of the Stranger, which was no noise a human could make, and sounded like a thunderclap yet trilled off into a trill. “Can't exist within Integration properly, not without an anchored body.”
+
+“You have Hymn.”
+
+“Bastard servant! Mongrel slave! Not an anchor, a thief—a hound that slipped his kennel.”
+
+“Yeah, he feels the same way about you, but he can still hear you, so if you have something to say, you can speak through him as well, or maybe you can shout in his direction. See what happens. Whatever the case, you want my representation; well, I want yours as well. This is diplomacy. We don't need to like each other, but we do need to have a clear line of dialogue, if only to tell each other what we want and when the peace is done.”
+
+And then Shiv had noticed something. A shudder went through the Stranger. His core flickered with budding anxiety. Something just happened. Something the Stranger tried to hide.
+
+Shiv figured it out immediately. “Another level, huh? For a Social Skill too.”
+
+“Stop it. Stop seeing me. You don't see. I see!” The Stranger's hiss was as furious as it was ragged.
+
+“Fine, I don't see,” Shiv played along, and then he noticed something in the Stranger's Garden: a small core, possessed of its own emotions, connected to a tiny swirling cloud of intellect. There was a third form here, a third being watching, observing. Shiv wondered then if he was being studied by whatever had captured his other body.
+
+But then his logic took hold and asserted itself. No, it can't be that. If someone captured my body, the wise thing to do is examine it. And the Stranger doesn't strike me as the inviting type. But for another group to be operating inside this dimension, they must be on good terms with the Stranger, which I don't see being possible, or they must be hidden somehow. There's only one person I know who understands how to hide here. Hello, Hymn. I'll talk with you later.
+
+For now, Shiv resolved matters with the Stranger. “I'll keep my body here for now. You think on what I said. I'm not going to push you yet, but unless you can come up with a better idea, I want you in the Gate as well. And before you suggest that I be your anchor, I got another thing coming for you. You couldn't take root in me before, and even if you could, are you really willing to risk yourself inside me? And aren't you afraid I might twist your words to my benefit back in my Gate? Best for you to represent yourself in some way—look out for your own interest. Just a thought. This thing's double-edged too. If talking to me and struggling with your emotions is giving you a few levels, then I got another bit of bad news: dealing with more people is going to feed you new skills with even more levels. Everything has a price now. You want to think about that.”
+
+“Don't want to, don't want to…” The Stranger’s words were genuine, and his frustration was deep, but Shiv simply shook his head and turned away. He remained within the Supplicant's grasp, and there, like a fly frozen in amber as the metaphor went before, he contented himself, establishing a new zone of peace right outside the front door. The swelling roar of triumph swept through him as he realized he had prevailed. He had prevailed and slain strife before it could ignite.
+
+Diplomacy was a difficult weapon to wield, but when one had a grasp of their enemy, mastering the opposition from within offered a feeling of victory unlike any other.
+
+First Evanescia and then the Stranger, Shiv mused. People are puzzles; people are chaotic, but people are damn interesting. System, I hope you're getting a good hard look at me, because I'm a hells of a lot more than just a violent brute now.
+
+And as if offering concession and incentive to further practice his way of fighting without fighting at all, a new reward arrived for Shiv—one worthy of his forking tongue.
+
+Feat Gained: Inland Embassy (Legendary) - You have shaken monsters and rendered doubt upon gods with nothing more than your words. Within your persuasion is a seed for peace or the fuel for war, but whatever you do, whatever you say, whoever you face, you know that to subvert another's will is to win a battle before it even begins. When you shake someone's heart and mind, you will leave a portion of yourself within them, and you will be able to talk to them regardless of their location, so long as they are capable of dialogue.

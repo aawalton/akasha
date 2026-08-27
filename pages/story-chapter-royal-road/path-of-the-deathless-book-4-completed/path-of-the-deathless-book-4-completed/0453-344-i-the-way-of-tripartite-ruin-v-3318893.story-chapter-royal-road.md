@@ -1,0 +1,169 @@
+---
+id: 5ab6779f-a536-5920-b7e0-4a3425f835e0
+page-type-slug: story-chapter-royal-road
+title: "344 (I) The Way of Tripartite Ruin [V]"
+slug: 0453-344-i-the-way-of-tripartite-ruin-v-3318893
+partOf: path-of-the-deathless-book-4-completed
+position: 453
+ownLength: 3184
+unit: words
+publishedAt: 2026-04-25
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3318893/344-i-the-way-of-tripartite-ruin-v"
+royalRoadId: "3318893"
+---
+
+I guess all that hard thinking finally paid off. My brains done did an evolution, they did. All the hours I spent in Legend-Librarian Yearnault’s libarium playing through those scenarios did my thinking some good. Really can’t thank Librarian Yearnault enough. Did all she could to make life easier for a big old lug like me. Still don't have wings, and the skies are far, so she done and went and had some railed ladders made for the shelves. Real sturdy ladders at that. You know if they take my heavy body.
+
+She said it was no big deal, that they were going to put this in eventually anyway. I was… What did she say? Ah, the final push to make it happen. But I know she said that to make me feel better. It was also awfully nice of her to take time out of her day to teach me how to read those complicated words and all that math and philosophy and history and logic. All that book stuff was still pretty hard for me, but at least I'm literate now. At least I understand my traditions.
+
+I mean, what kind of Dragon-Knight would I be if I didn't know to read my vows and what they meant and all that? It'd be too embarrassing. I've got to thank my Lance too—all my new brothers and sisters. I spent a lot of time reading what they did, telling me about things I should have known, things I couldn't get on my own. I wouldn't have gotten here without them. I wouldn't have gotten very far without all the blessings I've gotten in this life.
+
+I’m a real lucky hydra.
+
+It turns out books can be pretty interesting too. These books are magical books at that. When I open them up, it brings me (or maybe my mind) to a special place. And when my brothers and sisters read it with me, well, they follow me over, and we're transported to these ancient battles that happened, right? We get to re-live them—fight them again! Now, I'm plenty good at jousting and swinging a sword, but Master Marikos said I need to be more tactically minded, so he had me controlling groups of people. Commanding people. I don't like sending people to fight for me. Feels wrong, especially when they're so small. I should be the one fighting for them. Why else did I grow so big, ha?
+
+Worst part is watchin’ them die in the mud. I know it’s just a book and in the past, but these war games, these people… they still feel real to me.
+
+Since I wasn't allowed to fight for them, I got real good at commanding them. I started using all 12 of my heads at the same time and started making myself think faster, but even when I tried, it wasn't enough. There were still too many things happening. I just wasn't that smart. Still not that smart.
+
+I watched them die over and over again. I watched my lines get overrun. I watched the towns and forts and cities I was supposed to hold get taken, and I saw what the consequence was. Bad things come with defeat. Things worse than death. Death is like a big deep nap is all. But letting the bad have at the ones you’re supposed to protect is nothin’ kind for my big ol’ heart.
+
+And it happened before too many times. I can't let it happen now. So I got better at thinking. I got faster. Might still be simple. Might be as clever as a block of stone, but if you give a stone long enough, it can figure out things too. The System saw fit to reward me for my efforts. I got a real special skill, I did. It's called Legion of Self—lets all twelve of my heads do the thinking and then some. Gives me all the time in the world, so I use it to scan the terrain, to study everything, to plan actions, and figure things out.
+
+Real useful skill in a fight too. Before, I was just swinging all my heads at the same time. Now it's like I can fight someone twelve on one—let me thrash Sir Razzag in a spar real bad it did. It's a real good skill, and I'm real thankful the System let me have it, but if I use it a bit too much, I get sleepy. One time, I ended up sleeping with my eyes open for 12 hours after thinking too long with all my heads.
+
+But I managed to figure out a way around it. You don't want to think too long, too hard. You want to think fast, in bursts. Give your head little time to recover, and you can keep going all day.
+
+In the end, it’s like what Yearnault always says: gotta pace yourself. A mind’s like a tummy too—gotta give it time to digest your thought-food.
+
+—The Wanderin’s of Tall Ben
+
+344 (I)
+
+The Way of Tripartite Ruin [V]
+
+Discovering that Legion of Self didn’t require five hours of thoughtlessness with each use filled Shiv with relief. Such a penalty levied upon him during this encounter would have seen him claimed by Longinus for sure.
+
+His seven selves flew across the land with a hundred meters of distance between each of them, curving in parallel with the rivers of sauce below. While his physical forms spiked down in unison, each one expending a paltry amount of Shapeless Tides, his Revenant broke away from the group to grant his truest self the safety of distance and a vantage point to observe the battle from afar.
+
+The Wanderer struck without hesitation. His divine visage was scattered once more, contained within thousands of galloping riders who burned like descending embers—each one scintillated, combusting with incandescent mana in an asynchronous pattern. Needles of concentrated emotion exploded from their spear tips, painting lines of festering magic that reached down from the sky. The air over the dimension of the Boiling Toad was drowned beneath an illimitable number of godly waterfalls, and Shiv felt the crushing weight of Longinus' passion long before any of the threads greeted the ground.
+
+Each of the Ascendant’s riders was already far faster than Shiv's physical vessels, but the magical and emotional attack arrived in a nigh-instant.
+
+And so Shiv adapted. Where he lacked speed, he had the advantage of perspective. He could see exactly where the attacks were coming from, their origins, and their paths. The positions of his multiple bodies granted him much-needed foresight and perspective. His ability to inhabit all six of his physical forms at the same time, meanwhile, granted him a stay of execution—if only barely.
+
+The overwhelming density of Longinus' onslaught made dodging a near impossibility. Shiv had scarcely any time to consider his actions at all before the wall of attacks descended. And so he transitioned into a horizontal instance of time, assuming the place of one of his synaptic clones. The moment played again; Longinus’s empathetic tide was upon Shiv once more. He had less than a half-second to think with each transition, but each shift bought him time. Enough to plan and respond instead of just reacting.
+
+His Inertial Overdrive made his Reflexes quick enough to notice the attack, but not nearly fast enough to maneuver. Since none of his physical forms possessed Chronomancy, he couldn't reposition himself otherwise. For a moment, he considered shifting his Severed Shadow with one of his bodies to extract them, but his material shells numbered six, and to his dismay, he realized he wasn’t even swift enough to swap places.
+
+His options grew fewer; a pulsating pressure built at the core of his skull. Two hourglasses were filling with sand. He faced Longinus' wrath on one hand, or an impending incapacitation from using his new skill on the other—or so he assumed. Shiv's objectives became twofold: right now, he needed to survive the initial barrage, but the greater challenge was dodging a spell to use as fuel to sustain him Backstage if he was going to end up comatose.
+
+Eldritch Physiology became the answer for his immediate survival. He altered his material bodies, melding his flesh into long crescents edged with cutting vitality. He kept his eyes and ears on the flat sides of the blade. Though he couldn't see clearly, he still had his Severed Shadow to help angle his deflection. The riders’ threads impacted his physical forms, and a cacophonous crescendo rattled the world in the clash that followed.
+
+Where Shiv's Toughness had been found wanting, and his Shapeless Tides barely allowed him to hold the Wanderer at bay, his Cutting Aura, along with Return to Sender, allowed him to strike at the vector of Longinus' many threads. He pushed back, reflecting the emotional cascade. The God of Travelers let out a bellow of pure fury. He said something, but his voice was distorted.
+
+Shiv didn't need to hear the words to know what his enemy felt. The rawness of Longinus' frustration was palpable, like a sweltering heat choking the air. That filled Shiv with inspiration. Before Longinus could adapt, Shiv's bladed forms tilted on their sides and unleashed a gush of Enkindled Flames. So true was Shiv's anger that his flames seemed near solid in intensity; they rose like geysers, consuming the descending riders before they could crash into Shiv's many forms.
+
+This follow-up inadvertently saved him, for Longinus' threads were only part of his offensive; the cavalry themselves would have driven their lances through Shiv's Magical Resistance and sundered him of mind, heart, and soul.
+
+Now they were held at bay, and the counterforce from Shiv's resistance sent his bodies plunging downward. He struck the rivers of flowing flavor, hammering pockets into the soil of the Boiling Toad.
+
+Taking the time to ruin each sauce carefully and deliberately would be ideal, but Shiv had no intention of making this a battle of attrition. He discharged his inertial sheath with the force of a high-yield mana bomb each, raising the damage to the landscape by an order of magnitude. Massive gouges were ripped through the land, and the flowing currents of sauce were flung up into the sky, splashing over the charging forms that made up Longinus' totality. The sauce perimeter had sustained additional damage, but the Boiling Toad was a vast space.
+
+This kitchen dimension would take some time to tear down. Good thing Shiv could be patient.
+
+Alright, I survived the first hit, he thought. Here comes the harder part: baiting an attack that I can dodge at the last moment.
+
+But before he could consider how best to taunt Longinus, he noticed something: a series of faint threads connecting his physical forms to the many riders above. Threads forged of fear. Dread-Tainted had marked Longinus. Shiv had shown the god that he was not untouchable, and with every scratch he bestowed upon the Wanderer's soul, that fear had grown truer.
+
+Shiv's heart thundered with a want for violence. He wanted to seize those fear chains, rip the god out of the sky, and batter him down into the dirt. But Shiv's rage bestowed upon him a rationality he didn’t otherwise possess.
+
+I need to hit and move. I can't stay in one place for more than a second. I can't let Longinus strike my bodies either. They're all connected to one soul. I can't risk my Legion of Self skill getting damaged.
+
+He shifted cognitive lanes once more. At the same time, he rebuffed Longinus' charge; just as he struck the ground, he guided his six skin-whips toward their fatal goal. Each of his physical bodies cleaved into one another, and his cutting aura hewed deep and true. He felt glances of pain flick across his soul. The agony was deep, but letting Longinus pierce him would result in a wound far deeper.
+
+As he transitioned to another synaptic clone, he realized his physical bodies couldn't perform another reaction. A shadowy veil consumed them when he tried to get them to act. They simply didn't have enough Reflexes left—and neither did his Severed Shadow, for that matter. He had discovered another limitation to his new Skill Evolution: his Reflexes skill remained a bottleneck when pushed to the extreme. Minor adjustments could still be made; spells could be cast. Beyond that, however, he could give no more.
+
+He needed to let time progress.
+
+Shiv let the tunnel extend ahead of him, sliding forward into the future as he once traveled across countless parallel presents. A ticklish sensation flooded his mind. He was still far from cognitive overload, more than capable of complex thought or actions, but the limits of his Reflexes made themselves known once more. Though Shiv barely allowed time to progress, Longinus unleashed another flood of spells and lances. Such was the separation between Pathbearer and god. The latter seemed to have no limit to their endurance, to how much mana they could unleash, or how much strain they could endure.
+
+Shiv's foresight was rewarded. A microsecond after he cut his physical bodies down, Longinus' following attack drowned an entire section of the horizon in divine fire. So many threads ran down from the sky that Shiv couldn't separate one string from another. Following them were riders that plunged through the soil, intangible to all things yet leaving blazing trails of hateful flame and lingering lust in their wake. Just looking upon it filled Shiv with an illicit desire to surrender—a desire that was burned away by his Sage, working to preserve his sanity from within.
+
+If I hadn't decided to cut myself down earlier, I would have been overrun in an instant. Can't get greedy right now. Never get greedy. Just as relief filled his core, Shiv was struck by another epiphany: he now had something to dodge.
+
+His actions surged. He cultivated as many Shapeless Tides as he could. At the same time, he performed another resurrection, halving his already scant vitality to create a living decoy. Longinus' skill curved through the ground, creating a woven nest of incandescence around Shiv. Every single thread arced toward his physical body, running him through until he was a pincushion. But before Longinus could infuse him with that empathic venom, Shiv's Severed Shadow materialized along the path of the threads, overlapping with his physical form.
+
+It dodged. His physical body dodged. Veins born of divine mana were contaminated, consumed by Shiv's Vitae, and an entire stretch of the world flashed bright red—the color of life force unchained—as that entire attack was rendered a Continuity Error.
+
+A flood of vitality gushed into Shiv. He felt like an ocean of heat once more. The Backstage wasn't so cold anymore. He hesitated for a heartbeat, worried about what might happen when he dropped his Legion of Self skill, but there was nothing left to do. He had survived and stolen enough divine mana to last him a good few hours at least. If nothing else, he wouldn't vanish from reality if he went dormant for five hours.
+
+Before that, however, a chain of notifications appeared before his eyes:
+
+Sage of the Enkindled Heart: 195 > 197
+
+Inertial Overdrive: 311 > 318
+
+Leviathan of the Shapeless Tides: 535 > 538
+
+This Severed Shadow of Blood and Bladed Soul: 227 > 234
+
+Continuity Error: 209 > 214
+
+Tactics: 9 > 13
+
+Legion of Self: 106 > 109
+
+Eldritch Physiology: 95 > 101 [Skill Evolution Reached]
+
+Something inside Shiv hatched.
+
+A part deep inside him changed. Something inverse to his flesh, connected to his biology, yet ever so aberrant and distant.
+
+Far, far away, apart from both this place on the other side of the curtain and Integration itself, in the distant reaches of the Outside, something stirred.
+
+And Shiv felt it bleed into him as he bled into it.
+
+An Outsider has been born to you!
+
+You have become a Progenitor to a nascent Eldritch Entity!
+
+Shiv’s mind reeled in horrified disbelief. Huh? What? No. No, no, no, no, no, System. Don't give me that shit. I don't want to become a father to one of those Outsider fucks!
+
+The [Garden of Wounds and Broken Things] has manifested.
+
+The Garden of Wounds and Broken Things has been bound to you.
+
+The Garden of Wounds and Broken Things has manifested as a dimension unto you.
+
+Skill Evolution: Eldritch Physiology (Master) > Garden of Wounds and Broken Things (Unique)
+
+Garden of Wounds and Broken Things (Unique) 101
+
+Shit, shit, shit, what the fuck does that even mean?
+
+If Shiv didn’t want to drop Legion of Self before, he definitely didn't want to now. But he couldn't undo a Skill Evolution, even if it was potentially one he didn't want. It was also a Unique Skill now, so Evanescia turning the pages back likely wouldn't revert it either.
+
+Outsider bullshit always gave Shiv a migraine. He definitely didn't want to be connected to that. He didn't want to become a progenitor to one of those abominations. His apprehension was bad enough that he found himself considering extreme measures—namely, crossing back into reality and calling out to Evanescia to see if she could somehow reverse the evolution after all.
+
+He didn’t, but the fact he considered it at all illustrated the heights of his desperation.
+
+Sage of the Enkindled Heart: Drop Legion of Self. Let time resume. Deal with this. There’s nothing else you can do.
+
+"I can try to perform surgery on myself," Shiv muttered. "See if I can cut it out of me."
+
+Sage of the Enkindled Heart: It’s a Unique skill. It is a part of you now. Blended into your Vitae itself. There is nothing to remove. There is no soul-surgery to perform. It’s done. Deal with it.
+
+Sage’s voice overlapped with itself again.
+
+Sage of the Enkindled Heart: Face what happened. Let your worries pass through you, but don’t let them decide what you do.
+
+Shiv really, really wanted to throw a tantrum. But the System wouldn’t give a shit, and there were other things he needed to resolve—a god he needed to grind down. Oh, godsdammit. Alright. Let’s see how nasty this skill is… and if I go into a five-hour waking coma.
+
+Shiv allowed the pace of time to resume. Legion of Self deactivated. His mind filled with static. It was like a bubble burst at the core of his head, but aside from a second or two of confusion, he shook off the cobwebs clinging to his thoughts with little difficulty. At least, that was how it felt. His five hours of thoughtlessness didn't feel that long, either.
+
+“How long was I gone?” Shiv asked, shaking his head. “Girl?”
+
+She was there beside him, but she wasn't looking at him. Nor was she looking across the curtain into Integration. Instead, she was staring blankly at the vast canvas of nothingness all around them—or at least, what used to be a vast canvas of nothingness.
+
+Shiv frowned as he turned. “Girl, what are you even looking—BROKEN MOON, WHAT THE F—”

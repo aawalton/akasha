@@ -1,0 +1,39 @@
+---
+id: e1d68fd5-708d-5186-8de4-4f0f0f34940d
+page-type-slug: story-chapter-royal-road
+title: "B2 Prologue"
+slug: 0005-b2-prologue
+partOf: path-to-prosperity-litrpg-vol-12-stubbed
+position: 5
+ownLength: 433
+unit: words
+ownProgress: 433
+publishedAt: 2024-08-12
+link: "https://www.royalroad.com/fiction/89323/path-to-prosperity-litrpg-vol-12-stubbed/chapter/1754762/b2-prologue"
+royalRoadId: "1754762"
+markedReadAt: "2026-06-29T21:36:27.243Z"
+---
+
+“Why now?” A tired voice resounded through a large, cobbled hall.
+
+Four pillars, polished and engraved with various rune enchantments, carried the ceiling and perfectly isolated the hall. No sound escaped the active runic enchantments. The hall was a safe ground, a meeting place where no harm could be caused. Yet, nobody in the room felt safe and sound. The men and women seated around the heavy darkwood round table studied the documents spread out before them while eying the map of the kingdom every few seconds.
+
+Everyone could sense their impatience and frustration. It was an inappropriate sight for the strongest men and women of the kingdom, but no one seated around the heavy round table pointed it out. They were too tired to care about their misconduct.
+
+“Are you talking about the bandits ransacking entire villages before disappearing into thin air, the discovery of multiple rooted Infernal Lairs, the sightings of more mutated demons than in the last two hundred years, or the Monster Rampages?” A hoarse yet vigorous voice escaped the lips of the oldest man seated around the round table.
+
+The other men and women glanced in the old man’s direction. He was no longer an official member of the round table after his son was crowned but attended most meetings nonetheless. Unfortunately, his voice – the voice of the Old King – was too straightforward. Like always.
+
+“I am, father,” The Old King’s son, Phillip Kain of the Kainesh Kingdom, looked up, his azure-blue eyes flashing in anger, “Why is everything happening now? The timing is…odd.”
+
+“The seven hells probably prepared everything they needed for years. The cults are resurfacing, and more humans are falling victim to their empty promises. I don’t know about the bands of bandits, but I’m sure one of the Demon Kings is behind this,” One of the middle-aged women said, her fist crashing down on the heavy table.
+
+The members of the round table sighed deeply. It had been more than a decade since the demons initiated a large-scale attack. Since that day, they had been silent, almost like the ancient prophecy had been true.
+
+A few men and women glanced at the King but remained silent. The royal family had suffered enough. There was no need to tear open old wounds after so many years.
+
+King Phillip sighed deeply again but seemed to have accepted his fate. His expression turned steel, and his presence intensified.
+
+The King was not allowed to show his weak side. He had a kingdom to protect.
+
+“How is the Imperial training faring? Can we accelerate their training?”

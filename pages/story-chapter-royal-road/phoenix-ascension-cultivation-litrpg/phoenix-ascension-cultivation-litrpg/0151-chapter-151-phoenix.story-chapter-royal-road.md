@@ -1,0 +1,213 @@
+---
+id: 2ba2723e-22c9-5796-b4a2-2b9a19f7056c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 151: Phoenix"
+slug: 0151-chapter-151-phoenix
+partOf: phoenix-ascension-cultivation-litrpg
+position: 151
+ownLength: 2506
+unit: words
+publishedAt: 2026-07-15
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3682089/chapter-151-phoenix"
+royalRoadId: "3682089"
+---
+
+Peng Li sat down in the arena surrounded by some disciples he didn’t know the identities of. He knew everyone from the five sects at the top of the river branches, which was everyone that mattered in his opinion. Everyone else were just turd in the wind.
+
+He knew that wasn’t the best mentality to have, but he’s been proven right again and again. Even when he was unable to properly use his Qi, he could take care of most disciples, wether it was in his own sect or somewhere, with ease.
+
+Now that he’s reached the peak of Qi Condensation, he was confident that he could defeat them faster, and with more efficiency than before.
+
+He still wasn’t used to all the power flowing through his body, however besides needing to train, there were no other side effects because of the technique of the Reaper Sect.
+
+Unlike others that would have suffered from disastrious consequeneces if they were to get a sudden influx of such massive amounts of Qi, he could handle it just fine, with a few limits.
+
+Many other people that have trained this technique, though, if they hadn’t died in the process and managed to succeed at the last step, still died because of this.
+
+As a result, the elders had to keep a close eye on the few that had been deemed worthy to pratice the technique. Peng Li was no different, but his natural talent and personal guidance from the patriarch made it so he had a much better time with the after effects.
+
+Now, though, he had to sit through a stupid trial on top of having to fight people that he knew he was much stronger than. The entire thing was boring, but it had to be done.
+
+The sect had already broken tradition by giving him an additional spot, and nobody had said anything yet, not that he’d heard of anyway. He was sure that his grandfather had to pay out a lot of bibes and to seek out a few favors.
+
+Still, now that he had the ability to contest, he would definetely get first place and absorb the most important treasure in the Four Corner Sword Realm, one that not many knew about: A Spirit Vein.
+
+He knew that it would be incredibly useful for his Foundation Establishment dantian, but it would be incredibly hard to acquire, so he had to be quick and efficient.
+
+He couldn’t wait, but he’d controlled himself and did as his grandfather instructed.
+
+When it was time for the disciples to go through the mental fortitude trial, he’d taken some time to look at the disks, though he couldn’t understand anything.
+
+Part of him wished he’d read some sort of rune-related scrolls, but he didn’t have that much time between cultivating his strength and enjoying his youth.
+
+Still, now that he was stronger, he was definetely going to take some leisure time and read up on miscelanious things.
+
+After all, his grandfather warned him than in this large world, being proficient at only one thing was as good as being dead. It didn’t matter if he didn’t know how to concoct every pill, but it was important that he could recognise the medicinal plants and their effects.
+
+He took a deep breath and placed his finger on the talisman, then injected Qi into it.
+
+Almost immediately, his world turned to black, and then, he didn’t know who he was anymore. There was a period of silence before his brain registered sensation anymore, and the salty aroma of the sea invaded his nostrils.
+
+Opening his eyes, the bright blue sky welcomed him, with the sun kissing his skin. Seagulls laughed and cried as they looked for food, and he, Peng Li, was not himself anymore.
+
+His black hair turned golden, his yellow eyes green, and his attire was that of a sailor.
+
+His cultivation had similarly disappeared, and when he stood up, he found himself in a port.
+
+Massive hunks of metal floated on top of the ocean, and he knew that it wasn’t Qi that made them do so.
+
+He didn’t even know what ‘Qi’ was.
+
+He didn’t remember his life as a cultivator anymore.
+
+Now, he was merely a sailor boy, who had to leave for his first ever voyage out into the sea.
+
+◈◈◈
+
+I didn’t expect much from the talisman, but I had to say, I was surprised. When I’d first imbued my Qi into it, it veiled part of my soul, as to forget myself.
+
+Obviously, I didn’t let it do that. Whilst I still couldn’t read the runes, breaking their effects was easy. Not to mention my mental prowess far outweighed even the old monsters in the sects.
+
+If I’d wanted to, I could have won instantly, but that would bring too much attention on myself.
+
+Instead, I’d decided to let it continue whatever it was that it wanted to do.
+
+Much to my surprise, instead of making a new reality, or using something from this life, it used something from my previous life, back when I merely started my cultivation.
+
+I still remembered it, clear as day. Quite frankly, I didn’t need the illusion to bring me back to this moment, though I prebebly never would have if it weren’t for it.
+
+I wasn’t exactly fond of this memory.
+
+I decided to let it play out and see what the illusion disk did. Was it going to be altered, or maybe it could read my mind exactly?
+
+It was a slow walk through the caves of the sect I’d once belonged to. My hair was still dark back then, only turning a bright shade of red when I’d pushed my cultivation to its limit.
+
+I had no choice but to do so for this opportunity, even if I had to take some amount of damage. Long Chen’s power was no joke, and if I hadn’t used some of my important essence, then I would have lost.
+
+Sadly, that wasn’t something I could just replenish. Once it was used, it was gone.
+
+It was for that rason that Fairy Xiulang was currently very angry, and also very concerned for me. But winning the tournament was the most important thing for me at that moment, not just because I wanted to show everyone that I was strong, but also because of a secret I wasn’t privy to until I’d wone.
+
+Fairy Xiulang had promised me to aid me in my mission, but I had to prove my worth. Ultimately, I did do that, but at a small cost.
+
+Now, we were walking through the depths of the caverns underneath the Ethereal Phoenix sect.
+
+Those caverns where the place where many secrets were hidden, and only a few notable figures were ever allowed to enter. However, the place we were going to was a place where even those figures had no right to know about.
+
+“Why did you do that?” Fairy Xiulang, whose real name was Huang Xiulang, asked with concern.
+
+I’d smiled inwardly, though I kept the act going, as I was supposed to. Somehow, I still remembered everything I did back then down to my facial expression.
+
+My emotions were vastly different though, but since it was just a memory, nothing should matter.
+
+Then again, those disk arrays were pretty complicated…
+
+“I did that so I could bring prestige to the sect.” I said plainly, just as I’d done back then.
+
+Huang Xiulang and I had a pretty complicated relationship. On one hand, she was the leader of the sect I was in, and also the woman that had secretly brought me in.
+
+On the other, I’d saved her life back when I was just a Foundation Establishment newbie, and she’d given me an invitation after she recovered.
+
+Once I’d reached the Core Formation Stage, I was free to enter her sect and cultivate.
+
+I took the opportunity and cultivated as I made my way toward the other end of the country, killing powerful beasts and dealing with meddlesome cultivators in the process.
+
+When I joined, I could tell that I was far outclassed by my peers. I was… old, compared to them. They’d already had incredible cultivation achievements, compared to me. When I was their age, I was still taking care of…
+
+“That was stupid! How could you burn your life essence just to win a tournament?!” Her scolding brought me out of my thoughts.
+
+“It’s not just a tournament, matriarch.”
+
+“It is just a tournament. We would have had another chance next year.”
+
+“Next year, when they will be stronger, and us, weaker. The cycle would have repeated itself, the sect needed this break.”
+
+“And what about you? How will you think you will be able to participate in the next trial with your body in such condition?”
+
+“I’d manage.” I shrugged it off. That version of me had gone through worse, and would do anything to get an opportunity to become stronger, even if it meant doing damage to my body.
+
+I was rather stupid back then, but I was also desperate.
+
+“Fa Xiaolan!” Huang Xiulang flared up when she’d seen my nonchalant attitude, another thing I was doing wrong back then. It was only later that I’d learned that it was better to mirror those around you in temperament, otherwise you ended up with a scary and angry sect leader.
+
+The temperature of the cave rose drastically for a moment, time in which I’d sweat and began breathing heavily from the pressure.
+
+The sect leader calmed herself down, though even just that fraction of her power scared me at the time.
+
+To think there was a time where I was scared of anyone…
+
+And now I returned to being a little midget who can’t fend properly for herself, oh how cruel the world is.
+
+“My apologies, sect leader.”
+
+She let out an exasperated sigh. “You fought well, but you didn’t have to- Well, you shouldn’t have had.”
+
+“The only way for me to get stronger is to push myself.”
+
+“You’ll push yourself off a cliff and die!” Huang Xiulang shook her head. “I admire your goal, and as foolish as it is, I am rooting for you. Part of me wishes I could have that sort of drive, but what you’re doing is… suicidal.”
+
+“It was suicidal to begin with anyway.”
+
+“True.” She smiled and led me faster down the caverns, where the temperature was begining to increase. Past me at the time thought if we were going to the heart of a volcano, or were going to meet some sort of lava monster. The walls had began turning red as well, and the only way to keep walking without getting burned was to protect your feet with Qi.
+
+Eventually, even that wasn’t enough and the sect leader just decided to protect me herself.
+
+The winding corridors made it very easy for one to get lost if they didn’t know the layout of the place, even with perfect memory. Now, I could recall it with perfect accuracy, but back then I wasn’t focused.
+
+Eventually, as I’d traveled and basically lived in these caverns, I could recall them like the back of my mind.
+
+But that was far later.
+
+For the moment, this would be the first time I would be travelling down there, and it would be decades before I would return.
+
+Soon, we were in front of a large stone door. With a few hand signs, the sect leader opened it, and the two of us walked in.
+
+Back then, I could have never expected what was hiding so deep inside the earth. A powerful Fire Qi lake, or a pit of lava infused with a lot of energy, or even a Vermillion Bird at the extreme ends of my imagination.
+
+But even my imagination couldn’t predict that hundreds of li below the sect, there was an actual Phoenix, bathing in flames.
+
+It was grand, majestic. Their feathers were an orange-red hue like molten lava, fire flowing down in a cascade.
+
+That sight of a giant Phoenix bathing in fire was what made me so jealous of them. Their beauty, their power, their strength…
+
+But yet, why was it underground, instead of flying high in the sky? Even such a majestic creature was confined. I didn’t know everything that had gone down back then, but I still found it somewhat pitiful.
+
+We walked forward, Huang Xiulang’s demeanor changing. Suddenly, she was just like me, a mere nobody before greater powers.
+
+That was also the day I’d realised that the heavens were always bigger, and that no matter how strong you were, there was someone stronger.
+
+The sect leader was someone who could destroy the entire continent without much thought, and even she had to be respectful to the beast before us.
+
+“I greet the Protector Beast.” She said, cupping her palms and bowing.
+
+I did the same, showing the proper amount of respect.
+
+When I’d first seen that Phoenix, their mere presence frightened me, their aura, if unleashed, able to kill me like I was nothing.
+
+That was how strong that Spirit Beast was.
+
+And, in retrospective, still was.
+
+That creature was stronger than Mother. The Illusion Disk captured its likeness very well, and could make it less ethereal. My memories would have never realised just how impressive the Protector Beast of the Ethereal Phoenix Sect was.
+
+“Huang Xiulang, my disciple. Why did you bring this one to me?”
+
+“Master!” Fairy Xiulang said with renewd passion. “This little one has brought you a close friend.”
+
+“Close friend?” The Phoenix asked, looking toward me. Its large, beady eyes able to see through my soul. Her expression turned strange after inspecting me though, which went against my memories.
+
+Under normal circumstances, it would have looked at me with scrutiny and Xiulang would have to beg her to give me a chance to recover my lost essence. In the process, I would have gained its approval and gifted me with a small amount of a Phoenix Bloodline.
+
+But now…
+
+The Pheonix spread its wings and let out a screech, its powerful Qi flowing through the cavern and creating a wall of flames around me.
+
+Huang Xiulang had no time to talk as I was separated from her, and the Phoenix now took up most of my field of view.
+
+I knew it was an illusion, so I wasn’t really scared, but at the same time I couldn’t help but feel some amount of pressure from the giant Spirit Beast before me.
+
+There was no anger in its pressure, but the probing continued, and I was unable to do anything.
+
+Finally, after what felt like an eternity, the Phoenix pulled away and spoke.
+
+“I don’t know what to make of you. You’re clearly a human, but I sense a Phoenix in you. You’re weak, but also not. There is strength and there is more. Your reaction also doesn’t match those of someone of your current caliber. Humor me for a moment, who are you?”

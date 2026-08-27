@@ -1,0 +1,205 @@
+---
+id: feebd80b-27ee-5dd1-9caf-c8f4fa423827
+page-type-slug: story-chapter-royal-road
+title: "Chapter 86: Reborn Anew"
+slug: 0086-chapter-86-reborn-anew
+partOf: phoenix-ascension-cultivation-litrpg
+position: 86
+ownLength: 2416
+unit: words
+publishedAt: 2026-02-09
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3031267/chapter-86-reborn-anew"
+royalRoadId: "3031267"
+---
+
+Shu Wao Tu lay on the bed for an hour or two afterward, which was understandable. Not only had the poor guy gotten slapped almost to death, had his Qi drained, but also had his meridians shattered again, they had been reformed just a few hours prior.
+
+Needless to say, that day was the worst day in Shu Wao Tu’s life, but he did do that to himself, so I couldn’t be blamed.
+
+Shu Xu Ning looked after him while Yo Na and I went outside. Neither of us had any healing pills or elixirs on us. I could have easily gone and bought some, but I felt like he needed this lesson to be ingrained deep inside his head. That way, he would not do stupid shit like that ever again.
+
+At least, I hoped so.
+
+I used to break to tell Yo Na about what happened when I cultivated, and much to my surprise, she didn’t seem all that shocked. She could not talk to me with words, though, as she still could only meow, but her expression told me not to worry about it.
+
+And if she said that, then I wouldn’t.
+
+We still had some time before the big idiot woke up from his pain-induced coma, so I talked to her about the plan going forward.
+
+“Once I get the reading skill, I will be able to get all the things needed for the refinement of the elixir, and will only need the flower to finish it.”
+
+“Meow.” She said, affirming. “Meow… meow?”
+
+“Right, don't worry about the money, I have plenty.”
+
+“Meow.”
+
+“But… should I take him out or keep him in when I administer the medicine?”
+
+“Meow.”
+
+“Inside, right. What does the medicine do anyway?”
+
+“Meow.”
+
+“Yes, I know you told me, but could you go into detail?”
+
+“M-N…neow.”
+
+“Enlightening.” I rolled my eyes and decided that I would figure it out once I saw the full list of ingredients.
+
+We went back inside, and I used the kitchen table to make a list of the inventory in my bag of holding.
+
+Besides the two golden cores, I had a bunch of scrolls, the function of which I didn’t know. I also had a map, and as it turned out, I did have some pills.
+
+I grabbed the ones that Appraisal identified as healing pills and handed them to Shu Xu Ning, telling her to feed them to her brother. I wasn’t that heartless, after all. She thanked me quite aggressively, and I had to put up a little fight to get her to stop.
+
+Aside from the miscellaneous pills, scrolls, maps and vials, I also had the blue crystals from the Qi Lake.
+
+[Spirit Source Crystal]
+
+They were not the same Water Crystals that Yo Na had, but instead other types of crystals that, from what I could guess, turned normal water into Qi-Infused water. They were quite rare, even back in my world, and were the source of wealth for many sects.
+
+I didn’t have that many of them, but I had enough to make them jealous, which I reveled in. As for what I could do with them… Well, that remained to be seen.
+
+Putting them away, I sorted the items based on how useful they were, ranging from useful: pills, elixirs, scrolls, etc., to useless: ropes, alcohol and other stuff I had no intention of dealing with. However, I couldn’t just leave them inside the house, so I put them back in the bag.
+
+The only things left were the cauldron and the leftover ingredients, which I also stored away. I had no spirit stones to speak of, since I’d used them all when I could scarcely circulate Qi.
+
+However, after remembering a thing or two, I figured out that there was something missing, and based on my previous experience, I knew damn well where it was.
+
+Peering back into the bag of holding, I pushed my senses past all the items and looked into the deepest depths of the confined space, and found the thing trying to hide in the space.
+
+The small green bean thing that I stole from Hei Tu’s corpse way back then. I didn’t know what it was used for, and I still didn’t, but at the very least now had a name for it.
+
+[Foundational Seed]
+
+That was all, but it was better than nothing. The name told me a lot, and nothing at the same time. But who was to say I could not pay someone else to give me information about it? The only issue was that I truly had no Spirit Stones on me and no items of value anymore.
+
+Will I need to borrow from Xing Ya Chen…
+
+That was something I could leave for later. I stored the seed back into the bag and walked into the bedroom, where Shu Wao Tu was beginning to wake up.
+
+When he saw me, he flinched and ran all the way into the back of his room, pushing his back against the wall. “Stay away from me you psychotic woman!”
+
+“Psychotic- Why you…” I raised my hand to slap him, but lowered it after seeing Shu Xu’er’s expression. She was right, the boy had suffered enough abuse, and he more than repented for what he’d done.
+
+Especially considering his demonification wasn’t complete and he was just a ‘Demonic Cultivator’ and not a ‘Demonified Human’. Either way, it was finally time for my long and arduous task of finishing this quest to come to an end.
+
+It'd better come to an end.
+
+“Kid, stop acting like I killed your family and come here. Shu Xu’er, give me the pill.” I grabbed him by the collar, since he wouldn’t comply otherwise. The little girl gave me the pill she’d been safekeeping, and after confirming that it was what it was supposed to be, I took a deep breath.
+
+“Shu Wao Tu, the pain you felt before, multiply it tenfold. That is how bad this will feel.” I had to give the kid a fair warning. If shattering your meridians hurt, then he had not experienced how it felt to rebuild them.
+
+I had, and I still get shivers each time I think about it.
+
+That wasn’t something I was particularly fond of remembering, though. “Are you ready?”
+
+He dropped the kid act and his expression turned resolute. After he nodded, I handed him the pill, and he placed it between his lips.
+
+I climbed into the bed behind him and prepared to help guide the energy of the pill. It would not be an easy process, and if my memory didn’t fail me then… Shu Wao Tu would not enjoy it either.
+
+“Li Hua, could you guard us?”
+
+Yo Na nodded and became more vigilant, while the little girl stared at us with worry. I gave her a smile and assured her that everything would be fine. “It won’t take long, close your eyes and meditate, alright?”
+
+She nodded and sat down in a corner and gave us one last look before she closed her eyes.
+
+“Let’s begin.”
+
+***
+
+Meng Mao sat on a building not too far away from the Shu siblings’ residence. He didn’t mean to listen to the Phoenix and the panther’s chat, but he did, and he grew more curious.
+
+So she wants to refine a pill using the flower that will bloom in a few days?
+
+He found the entire thing even more interesting, and in his shock he’d almost forgotten that it was the Phoenix that refined the Meridian Awakening pills that the stupid alchemist was sent to inspect.
+
+He didn’t know what to expect when he put the two and two together, but it wasn’t a cultivating Phoenix with talents in alchemy, the ability to use two techniques at the same time, who befriended the local Spirit Beast Lord, could transform into a human; and was smart enough to figure out his identity.
+
+Truly, if he could somehow befriend her, then the lives of his two sons were a low price. Even if she asked for half the city, as long as he could use her for his benefit, it would be worth it.
+
+Just those pills alone could put most of the nobles in Golden Arch City to shame, not to mention the Phoenix feather and whatever else she had hidden in that bag of holding.
+
+As he thought about how their next interaction would go, he heard a sudden scream coming from the house. It didn’t belong to either of the women, nor the little girl, since it was too grave, so it could only be the boy who turned to the Demonic Path.
+
+Truly, he could not understand why anyone would do such a stupid thing. Even for wealth and power, anyone with half a brain cell knew not to collude with the demons. Yet, there that boy was.
+
+Truthfully, he should have reported both of them to the authorities, but he found the situation amusing, and neither of them were threats, thus he decided to let them be. He had a feeling the one inside the house would not remain on the Demonic Path for long, and as for the fatty… He didn’t really care.
+
+He was incompetent as it was, him having some extra strength didn’t pose an issue.
+
+However-
+
+Another scream interrupted his train of thought, and he could only shake his head. Whatever that Phoenix was doing to the boy was akin to an exorcism, from what he could tell.
+
+It wouldn’t be the first time he’d witnessed such an attempt, but most didn’t end well.
+
+Either way, that wasn’t his business.
+
+He was curious about one thing though— The Phoenix’s actual strength.
+
+Since you want to snatch the flower from the cultivators waiting for it… Then I hope you won’t blame me for spicing things up a little.
+
+Meng Mao smiled sinisterly to himself, but even that moment was interrupted by the boy’s shrill screams.
+
+“You’re going to alert everyone to what’s happening here.” He sighed and did a few hand signs, creating a sound-isolating barrier around the broken-down house.
+
+Finally, silence.
+
+***
+
+The procedure to repair his meridians was simple, but lengthy, and very painful. I was not expecting him to scream so much, though. I began feeling bad for anyone who passed by, let alone Yo Na and Shu Xu Ning who could hardly focus on cultivating.
+
+The pill was extremely effective, though. It first began by spreading thorough his body in the places where his meridians should have been, with the highest mass concentrating on his now twice-shattered meridians.
+
+I used my Qi and senses to check that everything was in place, then sent a signal toward the pill, telling it that it should continue on to the next step. It could have done that just fine by itself, but it would have taken a little bit longer.
+
+If the first part of the process felt like a chilly water washing down his body, though, then the next part felt like countless needles prickling his skin.
+
+Comparing it to what I did to create my own meridians, it wasn’t too dissimilar. Except I was more resilient, at least mentally, and could go at my own pace adapted for my new body.
+
+Shu Wao Tu, on the other hand, had to rely on a pill that generalised meridians. As a result, his physical and spiritual construction would need to be changed to adapt to those generalised meridians, and there was nothing I could do about it.
+
+However, I would take that over being a cripple, and I was sure he was thinking the same. I could also understand why he felt the need to scream, as otherwise he would have probably exploded from the inside out.
+
+Still, that didn’t change the fact that it was obnoxious. I would give him a pass, though, since he was just a kid. A stupid kid, but I digress.
+
+After the path was formed, and the meridians had a place to actually form, well, that was when the actual true pain arrived.
+
+I almost wanted to cover his mouth, but I opted to let him be. If I could, I would have splashed him with cold water, as he was basically burning.
+
+But after an hour of screaming, he got tired and he started to grit his teeth and endure. It reminded me of my first meridian reconstruction, and as much as I didn’t want to remember, it was a very formative experience.
+
+I could only hope he’d learn something from such a hectic day.
+
+Thankfully, after another hour passed, the pill had more or less done its job. His new meridians were now in place, and all that was left was to create the shell for the dantian. The cultivator needed to help in that regard, since a dantian was a personal representation of themselves.
+
+“Use whichever technique you wish and start forming your dantian.” I reminded him vocally, and also sent a wave of warm Qi all through his body. That served to calm him down and as a reminder that we hadn’t done yet.
+
+He managed to let out an affirmative grunt, and much to my delight, he picked the Divinge Lightning Construction technique. If his sister was such a prodigy with the element, then it wouldn’t surprise me if he was as well.
+
+However, that would remain to be seen until he actually started cultivating.
+
+For now, he moved his Qi through the meridian points as the technique described, chanting the mantra and absorbing Qi from the environment. I also aided him by purifying my Qi using my own lightning and letting him have it.
+
+It wasn’t much help, but I’d hoped it was just enough for him not need to struggle a lot.
+
+Half an hour later, the process had finished. Both he and I were soaked with sweat, and I was willing to bet Yo Na’s ears were still hurting.
+
+I let out a sigh of relief, though, when I saw the long-awaited notification.
+
+[Quest Completed]
+
+[Get Chiao Gu to return the pill, save Shu Xu’s big brother, and help heal him.]
+
+[5 Mid-Grade Spirit Stones have been deposited to user’s inventory.]
+
+[The Reading Skill has been acquired.]
+
+[2 pills have been deposited in the user’s inventory.]
+
+[For Excellent Completion Progression, bonus rewards have been deposited to user’s inventory.]
+
+[For Excellent Completion Progression, the user has been awarded thirty Skill Points.]

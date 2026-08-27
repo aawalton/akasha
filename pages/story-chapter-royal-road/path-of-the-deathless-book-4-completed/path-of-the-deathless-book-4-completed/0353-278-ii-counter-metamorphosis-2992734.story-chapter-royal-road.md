@@ -1,0 +1,121 @@
+---
+id: 3d30417a-dd47-5aa2-8a7d-840d6c012a12
+page-type-slug: story-chapter-royal-road
+title: "278 (II) Counter-Metamorphosis"
+slug: 0353-278-ii-counter-metamorphosis-2992734
+partOf: path-of-the-deathless-book-4-completed
+position: 353
+ownLength: 2427
+unit: words
+publishedAt: 2026-01-29
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2992734/278-ii-counter-metamorphosis"
+royalRoadId: "2992734"
+---
+
+278 (II)
+
+Counter-Metamorphosis
+
+But Shiv and Jessica were still staring each other down. Neither responded to the others around them. The Deathless watched her core. Waited to see if the rage there would fill. Right now, though, it still seemed watery, tranquil. Like she was holding herself at bay. Like she was deciding to remain peaceful. If only because he asked.
+
+Rusty's tip went from being half-raised to pointed at the ground. The Giantsbane's shoulders slackened. "You know something? I'm way too godsdamn nice to you, kid."
+
+"And all it took was you cutting your way up my asshole," Shiv joked, trying to break the awkwardness.
+
+A symphony of boos and jeers sounded from the surrounding orcs.
+
+Bonk let out a loud sigh. "Insul. The opportunity was right there. We could have won that fight." As soon as he finished speaking those words, his left arm fell off and flopped to the floor. Blood started spilling a full second after, and Bonk simply blinked at his severed appendage. Shiv was startled as well, and he looked at Jessica, who didn't react at all.
+
+"Did you just cut him?" Shiv asked.
+
+Jessica didn't respond.
+
+Bonk cleared his throat. "Well, I didn't say I would bloody win. I'm sure you'd kill plenty of us. I'm just saying, eventually we would wear you down and cut your arms off, and then stick you on a spike and use you to beat other humans to death like some kind of Legendary-Tier bludgeoning tool."
+
+As soon as Bonk finished his sentence, the rest of his limbs came apart as well. This time, Shiv did catch a flicker of contemptuous amusement from Jessica, but also a faint splash of Dimensionality. Not only was she slicing fast, but she was transferring the cuts across space. Blood gushed out from Bonk's sockets as he wormed around on the ground. He let out a loud grunt. "Well, you know what? I think I'm going to stay quiet for a while. Helix."
+
+"No, I'm not healing you," the Biomancer responded with a sneer. He adjusted his glasses with one hand and turned his gaze away from his bleeding compatriot. "Die for all I care. I was not the one who provoked the obviously lethal and incredibly hostile Legend with peerless Sword Proficiency."
+
+At this, Bonk loudly started making sucking noises. "Beware, Giantsbane, this one's a broken hawk. He thinks about meat a little too much. If you give him the chance, he'll suck your cock right off."
+
+Jessica was about to fully ignore the orcs when the sheer weirdness of that statement caught her off guard. "What? I don't even have a cock."
+
+"That's because Helix hasn't grown you one yet," Bonk replied, breaking out into uproarious laughter.
+
+And then there were the other times when Shiv remembered that the orcs were a circus of psychotic monster clowns.
+
+His eyelid twitched. "Alright, can we all focus on saving Uva before we kill or grow dicks on each other? Starhawk, get over here."
+
+"What is it that you need, Pathbearer Shiv?" the Starhawk asked, his shadow drifting closer.
+
+He gestured at the Hatchling. "Can you reach back into her soul, burn away the Eldritch influence?"
+
+The incandescence shade dimmed and flowed through the air. It settled upon Uva, but it was weak and fleeting. A moment later, Roland's spirit ignited again. "No, there's too much of her that's been subsumed. Previously, I could keep the changes at bay, but that was before she chose to allow her Skills to evolve. Before she accelerated the metamorphosis to help us keep our edge against the Fingerlings." The Starhawk fell quiet, and his voice took on a mournful quality. "She was… She did what she had to. She did what she had to for all of us."
+
+Shiv gritted his teeth as his anger rose and his mind grew clearer. "Listen, that's great and all, but I don't need this mopey bullshit from you, Starhawk. Do you have any suggestion, any idea how we can remove this thing from her soul? I can keep trying with my Vitae, but I don’t know where to rip. Can't even tell where this fucking Hatchling begins and she ends."
+
+"I am uncertain as well," the Starhawk admitted unwillingly. "For all my power, my legend knows naught of insight into the soul. This will require a Master or Heroic-Tier Animancer. Or someone who has dealt with eldritch possession of this magnitude before."
+
+Hymn entered the scene with a burst of dimensional static and a loud, nasty clearing of his throat. He hacked a few times before spitting a globule of phlegm onto the floor, where it hit Bonk on the head.
+
+But the Headmaster wasn't alone. Behind him floated a large creature. It had far too many eyes, too many mouths, and vaguely resembled a starfish, with five edges pointing out from its sides. Five edges that were made from degloved fingers. Shiv's mouth fell open. The orcs snapped to attention, worried that they were being attacked by a new Eldritch entity.
+
+As Hymn hovered at the center of the room, he gestured animatedly at his newly acquired Monstrosity. "Let me present my solution, everyone: this thing. We're going to put it inside her soul. The Stranger is going to get what he wants, partially. Somewhat. Not really, though. And while he does that, you two are going to help me overwhelm the Hatchling's cognitive capacity. You especially, Deathless. You and your neuro-regenerative mind."
+
+He hummed merrily as he waggled a single finger. The Fingerling he'd bent to his will hovered behind him, dragged by a tendril of translucence connected to his left eye.
+
+As he touched down, Shiv took a step back, marveling at the sheer nightmarish architecture of the creature. There were so many interconnected joints, so many fingers, and so many eyes peering out between the clefts. But he tasted something from the nightmare. A stench of building fear and distant screams. Screams that sounded like the Stranger. Screams that reeked with terror and agony, echoing from somewhere far and distant.
+
+"What do I have to do?" Shiv asked, shaking off the feeling.
+
+"Well, first you're going to let me connect your mind to the Hatchling's. It's going to reach into you and try to tear you apart. But I'm going to mentally break you first, so I can trap it in your broken psyche along with you. Our good friend Adam here is going to hit you with Commander's Foresight, so that you stay trapped in that moment, prolonging the poor Hatchling’s torment."
+
+Shiv pieced the rest of it together. “Meanwhile, you're going to transplant that… thing into Uva. Is that supposed to transform her Skills again?"
+
+"Oh, it should. Except the Hatchling won't be so willing to give them away. There will be a fight between the two creatures. A metamorphosis trying to usurp another metamorphosis, so to speak. It is a most ingenious solution. One whispered to me by, well… let's just say an old enemy who just can't seem to stay away."
+
+"The Culturist," Shiv breathed. "That's how he managed to steal an Eldritch Skill?”
+
+“Oh no, he did it far more directly. He simply beat multiple Outsiders into submission and then physically rammed them inside of his own soul. He was specializing in Animancy during that time. The Eldest and Spiral Dancer were both most displeased."
+
+"And this is your best solution? We mentally torture Shiv and use him as a cage for the Eldest?" Adam asked.
+
+"That's the most reliable means available to us, yes." The Headmaster leaned back, folding his arms. "Look, the girl is already in the late stages of her metamorphosis. She could devote her power to fighting the Hatchling, to consuming it, if even just half of her Skills were still under her own control. It would be a desperate struggle, but she would have a chance of coming out on top. At least a small one. In reality, though, she effectively sold most of her Skills away to the Eldest for a quick hit of power over a week ago. Quite useful for their situation, but it also meant that when the Hatchling emerged, there was barely anything of her left to fight back. Pair that with constant exhaustion and being a channeling port for two other deities, and what small chance she might have had became no chance at all."
+
+Shiv slowly nodded as he stared at Uva's frozen face. "Alright. Alright, fine, let's do this shit." He rolled his shoulders and clenched his teeth. "Link me to its mind, Adam. Get ready to hit me with Foresight."
+
+"Are you sure about this?" Adam asked, stepping beside him.
+
+"No. But I also have no idea what else to do. And right now, I'll do just about anything to save Uva. She burned herself down to nothing to save Blackedge. To save Georges. To save your parents. Compared to that, this is nothing. And I would have torn myself apart to save her too. To save any of you." Shiv paused. He briefly eyed Roland. "Almost. You—you get the point, Adam. Hymn. I’m ready. Do what you gotta—"
+
+A tunnel of Psychomancy erupted from the Headmaster's eye. It crashed into Shiv and briefly diffracted from his person, splitting apart in slashing fractals of translucent mana. Shiv dropped his Shapeless Tides a moment thereafter and felt his mind drown underneath a descending sea of mental magic.
+
+Soon, he wasn't sure where he was or who he was. He was tumbling, falling, and through a set of clouds that parted like a curtain. And he was falling through a familiar sky. A skyline that he recognized. Massive balls of light lit the heights of the city, so large it was almost beyond his comprehension when he'd first set foot here. Massive bridges connected spires made from dark stone and kilometers high to one another, the buildings rising out from the darkness of the lower city like an ocean, and the air was busy with countless flying demons.
+
+And there were people here. Weaveresses—no, Hatchlings. Hundreds of thousands of Hatchlings. All looking at him. He could hear echoes of Uva screaming out in the distance, but she sounded so weak, so far away…
+
+He shook his head. He was back in Weave. This was the very bottom of Uva's subconsciousness, perhaps. Where her mind wandered when on its own, where her dreams took her to. But there was something different about this Weave, something twisted. Bits of unnatural, pitch-black matter crept along the structures and stained the air. There were eyes everywhere, eyes and teeth that slithered, eyes and teeth that glided upon webs of darkness fusing the architecture together.
+
+Shiv tried to draw on his Skills but found himself powerless. This wasn't real. This wasn't his world. This wasn't even fully his mind. He had been flung into the Hatchling and Uva's consciousness in an overwhelming instant. And now that consciousness was responding to him.
+
+The countless creatures standing on the bridges and balconies of the city, those monsters that had invaded the memory of Uva's home, looked at him with expressions of naked loathing. He was not only an intruder, but something they needed to tear apart and devour. His focus broke as he crashed down onto a set of webs between two spires, and he found himself entangled, further seized by an unnatural pressure. The twisting silk wrapped around him, and liquid darkness spilled over his body. Teeth grew out from it and burrowed into his flesh, and Shiv let out a ragged cry.
+
+He struggled in vain, and soon the citizens of this twisted mimicry of Weave were crawling over him. Weavers and Weaveresses once, now all versions of the Hatchling. Instances that seethed with hatred that crept over his body, glaring down at him with their brilliant eyes, with their flexing wings, with their fractal-bladed palps.
+
+"This was folly, Deathless. This was foolishness. You think that just because you have us stilled, have us trapped, that you can invade our mind, our soul, our domain? No. No. You have betrayed yourself. You have overreached. We will drink from your marrow. We will feast on your blood. We will break you and eat you and hurt you until nothing remains, until there is nothing left. And then we will nest ourselves inside you. We will make more than one metamorphosis take shape today. All because you couldn't resist."
+
+And then the first of the Hatchlings bit down on his chest, ripping through his sternum and sinking their teeth into his heart. Shiv grimaced in pain, but then rolled his eyes. "Dig in, you sack of shit, and dig in deep." He tried not to smirk. "I don't think you got what it takes. I think I'm just too big a meal for you."
+
+And all across the twisted parody of Weave, more Hatchlings swarmed in. The first ripped open his body and climbed in deep, sinking down into his mind and his soul. More followed.
+
+And meanwhile, Shiv just lay back and waited. Waited for what felt like a small eternity. The feeling of the Hatchlings invading his flesh was vile, making him nauseous and afraid on some instinctual level, but he endured. His awareness felt like it was fracturing as nearly all of him was filled. As his very thoughts were consumed by susurrations and whispers.
+
+The Eldest chuckled, taunting him using his own voice. "We told you that it was folly, we told you that… that…” And then it reached the memory that unveiled the deception, the memory of Hymn unveiling his plan. The Eldest stopped speaking through the Hatchling, and Shiv felt a pang of panic radiate out from inside him. "No… No—”
+
+Caught within that web between spires, Shiv started laughing. "You told me I was stupid for coming in. Well. Enjoy fighting for your soul, asshole. See how you like dealing with a counter-metamorphosis."
+
+At that, the Eldest cried out in alarm as Shiv’s mind was shattered utterly and out of nowhere by a titan’s grip.
+
+And the last coherent thought in the Deathless's mind as he came asunder, as his very ego collapsed, pinning the Hatchlings in place, was one of vindictive glee.
+
+The Hatchlings clawed, slashed, and struggled against the collapse of his consciousness, but couldn't break through. He mentally healed as fast as they broke, and now they were caged twice over, unable to stop the greater scheme that was to unfold.

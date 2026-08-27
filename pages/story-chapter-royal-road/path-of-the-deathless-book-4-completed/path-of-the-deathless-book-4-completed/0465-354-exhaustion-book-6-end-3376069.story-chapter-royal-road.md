@@ -1,0 +1,239 @@
+---
+id: 75f07cf7-8b32-504b-88db-218f930fdd15
+page-type-slug: story-chapter-royal-road
+title: "354 Exhaustion [Book 6 End]"
+slug: 0465-354-exhaustion-book-6-end-3376069
+partOf: path-of-the-deathless-book-4-completed
+position: 465
+ownLength: 5375
+unit: words
+publishedAt: 2026-05-09
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3376069/354-exhaustion-book-6-end"
+royalRoadId: "3376069"
+---
+
+I have reason to suspect that if the System is a singular higher power and possesses sapience of any kind, then it must be a psychomorphic entity capable of attuning itself to the thoughts and emotions of all peoples in existence at once. Why else does the System communicate with us in such a comprehensible way? Why else are things delivered in cultural context, with references to things that have happened in our lifetime?
+
+Its use of language has changed over the generations as well. My mother was 900 years old when she died. 900 to the day when she was finally consumed by the festering Neuroleeches that bled over from Bvluream-Hakklur. Throughout that time, the System continued communicating with her in New Latin—a twice-dead language I still haven't mastered. On this principle alone, communication between my mother and me should have been difficult. Yet the System chooses to make that easier between us, translating close to all spoken languages in Integration. Some say it's to facilitate more strife, but what facilitates strife more than misunderstanding and confusion? After all, it is harder to strike down someone you have sympathy for.
+
+If the cruel barbarian in your city walls holds up his arms, and you understand that he is screaming for the embrace of his parents, you are less likely to kill him than if his words were only warbling gibberish to your ears. In the latter case, the alienation would remain ideal.
+
+And so I come to another heretical conclusion: The System does not desire strife above all things.
+
+It desires conflict, yes, but it desires conflict as a means to sculpt people, to shape them and empower them. If there is one thing that the System has never failed to do, it is to evolve people and make us all stronger. And strength requires overcoming an adequate amount of resistance to be incentivized.
+
+There is so much more the System could do if all it wanted was to engender strife. Instead, it seems to want us to grow through whatever means possible.
+
+I think people blame the world too often for their own desires. Furthermore, I think our desires affect the System the same way it affects us. It empowers us, and so we ravenously yearn for more power, for more evolutions, and to hold more influence. When two people are fighting in an environment of scarcity, inevitably war will follow. The System is not facilitating anything that most organisms don't engage in at baseline.
+
+If anything, the peoples of Integrated Earth and all dimensions otherwise are likely provoking it to greater levels of violence.
+
+This leads to another aspect of my research. Statistically, Pathbearers possessing Legendary Social Skills outlive their peers who walk Martial Paths by three to nine times over, depending on which region of the world they live in. I have interviewed many of these socially-attuned Pathbearers, and I have met with a number who have traveled across dimensions, who confirmed the above statistic remains at least roughly true everywhere. I even know people who walk the Path of the Pacifist.
+
+Based on this, I pose two questions:
+
+How can any of this be if the System only desires bloodshed? How can something that wants war and only war be so considerate to us?
+
+If you believe that the System only desires violence for violence’s sake, there is no satisfying answer.
+
+Instead, one could come to the conclusion that the System is designed to provoke our deepest avarices above all.
+
+There are still so many unanswered questions, and all we have for them are theories bereft of proper data. I need to find a place where I can observe the same scenes or scenarios playing over and over again. I need a reliable control and experimental zone. I need an expansive laboratory in which experiments can be perfectly controlled down to every minute variable.
+
+And so my attention turns to the Fairwoods. For if the System truly desires eternal war, then why are the Fae preserved without question?
+
+Why has the System allowed only this species to side-step a permanent end through the enforcement of a seasonal loop?
+
+—Lost Research Notes of Silence Valeros, Usurper-Author, Legend-Horologist, Heretic-Progenitor of Line Gehenna of the First Blood
+
+354
+
+Exhaustion
+
+Longinus' hoof fell fast, but the Culturist struck first.
+
+Shiv expected true death to take him, but the orc Legend intervened in the last breath before his Delve drew him in. Moving faster than most entities in Integration could ever hope to track, the Culturist broke free from Shiv, leapt out of Adam in a burst of azure incandescence, and materialized in time to catch Longinus's falling hoof with an outstretched palm.
+
+A resounding shockwave shook the world. The Culturist seized the Wanderer’s equine leg with a practiced familiarity and wrenched the stomp off course. Longinus’ blazing hoof pierced through the metal beside Shiv's head, sinking clean through and causing Longinus to stumble off balance.
+
+The Wanderer cried out in fury and alarm, but his voice turned to a choked gasp of pain and something else as the Culturist fell upon him in a storm of strikes. He didn't bother contending against the god's strength. There was no question who was superior, even for a True Legend such as the Culturist. But a warrior wasn't made by strength alone. Without technique, even a powerhouse was a wasteful engine.
+
+As Adam’s pre-Legendary Awareness flooded Longinus’s senses, the Ascendant’s movements became erratic and confused. His lance thrust and stabbed—but he struck ghosts and shadows; he struck gaps and slashed through legions of fairy knights riding toward the battle.
+
+He struck everywhere but where Shiv or the Culturist were.
+
+This was when Shiv lost track of the Culturist entirely. He became as if flowing wind. Every blow he delivered made his body flicker and vanish, like he was teleporting in place, materializing over and over again to deliver a series of strikes. Longinus swung his lance blindly, but every blow was anticipated. His weapon kissed naught but air, pierced nothing, not even the faintest afterimage left by the orc.
+
+“Stay still, you mother—” Longinus’ curse never finished, for the Culturist materialized behind the centaur and delivered a series of taps and palm strikes along the curve of the Wanderer's spine. Grunts and twinges escaped Longinus, but before the Culturist could deliver what seemed to be a final blow, the orc's eyes went wide, and he staggered three steps away. His foot struck the ground heavily, ringing like distant thunder, before he crashed down on his knees, and his head sank low.
+
+His assault came to such an unceremonious and sudden end that even Longinus was taken off guard. Clutching his head, he stared at the orc's back and then regarded his own body in confusion. “That hurt for a bit, but the rest of that stuff... What're you trying to do? You fucking tickling me? Where'd you come from, you orc cunt? I—”
+
+A choked moan of misery escaped Longinus. His hands began to spasm and shake. The fingers clutching his lance grew weak, and his body started twisting. His joints bent and were misaligned in an instant, as if his own muscles were trying to pull him apart.
+
+Barely clinging to the borders of consciousness, Shiv saw the orc's lips curve upward in a final smile before his eyes went bright with gleaming light. A fortress-like halo formed over his head, shrouding his mind in a protective shell. “Finish… him.” With that, the Culturist descended into his Delve, entering a coma-like trance to pit his mind against whatever his new Legendary skill would throw at him.
+
+A loud crackle pulled Shiv's attention back to Longinus. Longinus, who no longer had any control over his motor functions. Longinus, whose arm was swinging left and right, whose lance sent chips of shredded Vitae scattering in the air, bits of Vitae that once belonged to Shiv. Shiv's heart had a hollow chasm. A third of his torso was missing; a third of his Harbinger had been tunneled through as well. Anyone else would be dead for good.
+
+Shiv wasn't anyone else.
+
+Shiv was the Deathless, and even though most of him was at the point where he wanted to accept death as an end to his pain, he endured out of desperation, rage, and an all-consuming urge to find out how a god died.
+
+“W-what the fuck did you do to me? What the FUUUCK!” Longinus’s mind was already in pieces, and those pieces were swept up in a moving maelstrom that was Adam's Haunting Omniscience. It was telling how bad the skill affected him, even though he was able to weather it for the first few seconds. He tried to grasp at his head—and somehow missed. “Where am I? What the… No, not—too much. It's all too much… everything. Stop it! STOP IT!”
+
+He grasped blindly, trying to find where Uva's mana string was, but failed and kept flailing about. He reared his hooves back, prepared to gallop, but the exertion caused his body to turn grotesque. Pulsating growths swelled out from his body and burst. Incandescence sprayed free along with blood. Longinus howled and shrieked, and the moment his legs came down, both of his front limbs suddenly snapped to the sides, twisting out of their sockets as his body continued defying him in a nightmarish set of contortions.
+
+“Holy shit,” Shiv gasped, watching Longinus twitch and thrash on the ground. He shot a disbelieving look at the Culturist, who seemed so peaceful as he Delved. In fact, cherry blossoms were spilling out from the orc, passing into reality as bright pink petals raining free from his inner dimension. “What in the Broken Moon did that horse teach you?” Shiv muttered.
+
+He got no reply, and with the Delve underway, he had no idea if the Culturist could still hear him. However, the orc's face seemed to brighten, and the smile that remained there only grew greater.
+
+“I'll kill you! I'm gonna kill you good. I'm gonna fuck you raw and bloody! I'M GONNA FUCK YOU ‘TILL YOU LOOOOOVE ME!” Longinus' screams were incoherent and mad. His mind was crumbling. His heart was consuming him. The blackened flames of his emotion were spreading across every portion of his body, exploding free from all his wounds. He was barely better physically. There were so many wounds on his body that he resembled a cut of mangled meat an amateur butcher had spent a few hours bludgeoning with a blunt knife. His soul was in pieces, and he was bleeding divine mana like one would spill blood from a slit throat.
+
+Shiv tried to rise. He barely managed to move his head. His Leviathan of the Shapeless Tides was currently broken, the skill damaged to the extreme. The same went for his Harbinger and practically every skill he had aside from his Uniques and Writing. Right now, even though he had more hate in his heart for Longinus than anyone else in all Integration, he didn't think he would be able to force a Skill Evolution so that he could pen the most offensive letter possible and deliver that final coup de grâce to the god’s shattered ego.
+
+“Alright…” Shiv wheezed. “Shit. Garden…”
+
+He initiated another resurrection. This he could do, though the process felt like purest agony. Pushing a physical body out from his Severed Shadow usually came with no pain. This time, it was like he was ripping a series of burning, twisting, coiled daggers out from him, one after another.
+
+But if there was anything Shiv could handle, it was torture.
+
+With a final flex of exertion, his physical body slipped free from his Severed Shadow, but it was as mutilated as his Revenant form was. Entire swaths of skin were missing. His flesh was bruised and split down to the bone. The white of his insides was showing, and even his orichalcum-hard flesh had been punctured so many times that his blood poured like water from all his wounds, pooling at his feet.
+
+But this was just what he needed. He needed his physical body to suffer damage so that the Garden of Wounds and Broken Things could come forth. Drawing upon the Garden, the mess of rubble and lacerations erupted out from his physical form's many injuries like plants sprouting out of soil. Shiv's mind drifted then. He was hurt badly, hurt everywhere. His thoughts swam; his consciousness was like an overturned boat, and he only managed to come up for air every once in a while. He lost track of what he was doing, who he was, what anything was.
+
+"Shiv. Courage. The work is not done. Finish this." The Harbinger's wheezing whisper pulled him back to focus—just in time for him to see most of the Garden recede back into his broken physical body.
+
+“Godsdammit,” Shiv whimpered. He mantled his will once more and called the Garden forth again. This time it sprawled out in a tide of ruinous substance, and that tide smashed into Longinus, flung the god away, and sent him sprawling on his back. His legs were twisting and kicking. Every now and again, Longinus would draw on his mana to levitate himself, but then another portion of his flesh would burst and bleed, and he would smash back into the ground. He was healing rapidly, his divine power allowing him some form of regeneration, but whatever the Culturist had done had compromised him not just physically but spiritually.
+
+I need him to teach me his anti-horse technique…
+
+But that was a project for a later date. Instead, Shiv's apocalyptic exoskeleton rose high, diminutive compared to its first manifestation, but building meter by meter with every passing moment. The Deathless took the opportunity to slam a fist down on Longinus. The Garden of Wounds and Broken Things didn't move using Shapeless Tides. That was its saving grace right now.
+
+Longinus was hammered flat. The metal surface of the grill district they'd somehow found themselves on again was compressed beneath the Garden's fist—and the damage he dealt melted into him, further empowering his titanic armor.
+
+“Stop!” Longinus bellowed. “Stop it! Stop hurting!” He thrust out with his lance forward, and even without the ability to aim, he cleaved the garden's arm in half.
+
+It didn't matter. The Garden was destruction, and destruction would only see it fed.
+
+With another swing, Shiv swatted Longinus across the ground, and he tumbled, landing right between Shiv's Revenant and the Culturist. The Deathless’ battered mind only realized post-hoc that he'd made a mistake launching Longinus so close to him, but then the thought escaped him like all the blood seeping free from his physical body, and he forgot what he'd even been trying to do.
+
+“Kill you… Fuck you… Fuck me…” Longinus wept as he spoke, and his face was pressed against the ground. His once handsome, chiseled features now resembled a shattered vase, with both eyes swollen shut, ears missing, and lips ripped away to expose two rows of broken teeth. But even on the cusp of destruction, a god he remained. Slowly, he forced himself to rise, levitating himself using his power. His lance began glowing, became a thing of purity once more. The places and people he'd seen before cycled through him—became a balm for his broken body. Longinus started healing, not only in flesh, but also in mind.
+
+“The hells you will…” Shiv coughed. He guided his Garden back over, but then a series of spells slammed down upon it from above, crushing it beneath the weight of pure gravity. Without Shapeless Tides, nothing allowed it to resist the Dynamancy spell that kept it pinned.
+
+Looking up, Shiv saw a vanguard of Bread-Knights coming right at him, and at their head a certain anointed that he'd humiliated not so long ago. “Fuck… me… Now, now you're going to bite me in the ass?” But just as a feeling of exasperated despair took hold inside of him, Shiv realized he wasn't out of options just yet. His skills were damaged. He could barely move, but there was a tether connecting him to Longinus.
+
+The Shape of Monstrosity was fractured, badly damaged inside Shiv, but the fear chain was still there, translucent and cracked though it was. It would hurt like hell to pull on it, but Longinus was right next to him, less than three meters away. Shiv didn't need to pull the god; he just needed to drag himself closer to him.
+
+And after that, he would learn just how badly damaged his Vitality Drain skill truly was.
+
+“Come on,” the Deathless snarled. He forced his fingers to work, even as his hand shook like it wasn't attached to his arm at all, but something possessed by a hateful spirit. “Come on!” But he was crippled in body and soul, and the slightest movements became miracles in and of themselves. There was no way he could close his hand, even if he managed to touch the fear chain. There was no way he could pull himself toward Longinus under his own power.
+
+“Not alone.”
+
+Adam's voice was infused with cataclysmic power. His mind, meanwhile, was reeling; his sanity stretched to its very limits as he too suffered beneath the weight of his Haunting Omniscience. But while he and Longinus shared a malady, their Domains drew upon a different source of power. To struggle even in the face of futility and hopelessness in defense of those helpless and meek was an act of virtue.
+
+It was an act of Heroism.
+
+Nestled inside Shiv, Adam was a party to these virtues. That flame which existed inside him, that divine force which now empowered his evolved Path, came to a roaring blaze as he closed his hand, and Shiv, though broken, managed to do the same.
+
+“Drain him dry!” Such was Adam's edict. Such was his will, his law. It was not a command. It was a manifestation destined to follow, and though Shiv regarded most gods as one might an infestation of cockroaches hidden in their walls, in Adam, he found a Divinity he might just be willing to answer.
+
+The Deathless was broken of soul, body, and mind. But he still had a heart. His hand closed around the chain. Adam, scattered of cognition and on the verge of losing himself altogether, burned on a flame of highest glory, empowering those who struggled to be righteous.
+
+Alone, they were in pieces, but together they were just barely enough to be a full Pathbearer. Shiv pulled, and though it felt like he was dragging a mountain up a muddy slope, he kept pulling. He kept being the pillar he always was, and Adam kept his pillar standing. He pulled, and he drew himself closer to Longinus. He scraped along the metal ground, dragging his vitality-shaped carcass in bursts of motion, and finally, barely, desperately pressed the tip of a clawed hand against Longinus' twitching body.
+
+Shiv's cutting aura remained. He pierced Longinus's flesh. He drove his finger in as far as it would go, and he ripped and tore, cleaving through divine mana and sinking into the supple softness of that which lay within.
+
+The animated travelogue vanished from Longinus' lance in an instant. He threw his head back and let out a blood-curdling howl that pierced the air and nearly deafened Shiv. That provoked him to start pulling instead of pushing. He tore Longinus' life force from him, and the act itself nearly unmade Shiv. His Vitality Drain skill was like a dismembered limb, hanging on by a single sinew—and he was using it to bludgeon Longinus.
+
+A question followed: Would the Deathless drink the god dry, or would he shatter first?
+
+Rivers of vitality crashed into Shiv, and well over half of what he absorbed spilled out from his shredded body. It was like drinking while you had a gaping hole in your throat. It was hell. But Shiv had lived through all kinds of hell before, and they failed to break him then.
+
+Longinus suffered from an inverse problem: he was a god imbued with incredible stores of mana, with skills that defied the limits of any mortal. He should have been able to turn around and swat Shiv a final time to end the Deathless for good. He should have, but he couldn't. A day of skirmishes had ground him down until his mind, body, and heart were little more than rubble. His meridians had been obliterated by the Culturist's final attack, and now his body was constantly deforming, fighting him as hard as it could.
+
+“Stop. Stop. Please stop. Stop draining me. I don't want to. I don't want to not exist. I don't want to go into the dark. I don't want to stop exploring. I'm still hungry. I still want to be here. I still want to live. I want to live. I want to escape. I want to ride the plains again. I want to see. I want to see the tundra. I want to see. I want to see my Republic. I want to go home. I want to see the Abyss. I don't want to die!”
+
+And the Wanderer lost himself to hysterics, begging and pleading. For a god, he became a pitiful wretch. For a warrior, he revealed himself to be a coward before the final end. But the man buried deep inside, who'd surfaced just long enough to give Shiv a chance to regain his bearings, breathed a telepathic whisper over to the Deathless: "Thank… you…”
+
+Shiv was swelling with life force, but all that life force was cycling through him wrong. His Vitality Drain skill was devastated, and the Vitae that comprised him wasn't forming properly. Sections of his body turned to clustered clumps, while other portions of him melted back to raw life force, slipping away from his grasp before they could be calcified as part of his soul. Yet slowly but surely, his skills were mending. He was healing internally. He could feel the shards of his being snap back together, and he might—just might—outlast Longinus.
+
+But while he might have, Adam's already overstressed mind chose that moment to snap like a tenuous thread from the overpowering pull of his Awareness. The divine fires within Shiv sputtered and threatened to go out. Adam screamed and did everything he could to enter a meditative trance, not unlike the one the Culturist was currently in. But he was unpracticed, unrefined, and the closest thing he could pursue was a restful slumber.
+
+Even that came hard, however, with the fight still ongoing.
+
+“Shiv… I…” Whatever else Adam wanted to say didn't make it. The Paragon's mind went blank as he had to process too much, too much, and ever more, regardless of his screaming mind.
+
+Without Adam’s divine empowerment, Shiv's Harbinger began to fracture and fray, and it rested precipitously at the very edge of destruction, pulling Shiv down with it. The strength he was imbued with, blessed by Adam's Domain, vanished as well, and Shiv found himself unable to even lift or twitch a finger now, let alone drain the life force of a god.
+
+The flow of vitality was cut off in an instant. Shiv's finger remained lodged inside Longinus' body, but even though he tried, he couldn't push himself any deeper, and nor could he wrench his hand free.
+
+If Shiv was a puppet, then most of his strings had just been cut, leaving only one, just one, dangling him on the verge between life and death.
+
+For a moment, he just existed. His mind sinking into a miserable fugue as he tried to recover from everything he suffered. Longinus was not so different. His mind was reeling as well. Adam was being pulled apart. Longinus, though stronger, wasn't a god that prided himself on Awareness. Nor did his Multi-Tasking seem so impressive. He was being overstrained as well, and with every other whimper, he kept Shiv ironically grounded, preventing him from slipping away entirely.
+
+“We really fucked each other up pretty bad, huh?” The question left the Wanderer with a measure of amused warmth, like they were two friends sparring rather than a depraved, demented parody of a god and a man that had been trying to kill him for almost two days.
+
+“Just… give me a second,” Shiv managed. His vision blurred. His mind spun. It was hard to remain present. “I’ll finish you off… in just a second.” Faintly, he heard what sounded like spells detonating in the air and fighting and clashing. He wasn't sure what was happening. Or if it was happening at all.
+
+Longinus chuckled hoarsely. “You know, I do not quite think you fucking will. You're done. Not enough after all. All that struggling, all that fighting. Came close, so close. But not close enough.” Longinus' words were equal parts despair, disappointment, and a taunt. Part of him wanted to die. That truest part of him, hidden so deep, had spilled over into the greater aspects of his godhood, but the greater aspects of godhood were still what they were: monstrous, depraved, hateful. And the being that spoke to Shiv now was of an ill alloy. “I think… I think it’s going to be me that gives you your peace instead of the other way around.”
+
+Shiv tried to move. He really, really tried. He tried to call on his—he couldn’t even remember what skills he had.
+
+Why?
+
+Hadn’t he given enough? Hadn’t he pushed hard enough? All those evolutions and levels and deaths, just to end here? No. Nonono. Getgetupgetthefuckup!
+
+His self-directed anger and panicked screeching were worthless without a functioning skill to fuel.
+
+His heart almost emptied out when Longinus got up first, when Longinus' limbs snapped back in place, and his body stopped becoming a grotesque bag of bursting meat. The Ascendant was so spent he couldn't even lift up his lance, but he could drop his hoof down a final time. He could finish this as he'd tried to earlier, a man stomping on an insect that had stung him one too many times.
+
+“You know something?” Longinus’ voice was equal parts exhaustion and vicious mirth. He tried to smile, but the disfigured state of his face made anything aside from sobbing tears of searing blood impossible. “I—”
+
+And before any divine monologue could follow, a constellation fell from the heavens. A shifting constellation of many parts.
+
+Shiv blinked, or at least he would have, had he still been staring out from his physical body. Why did the constellation look so familiar? Why did he think he recognized it?
+
+He got his answer as the constellation slammed down upon Longinus' body, shredding into him, cleaving him as vicious, fractal-like geometries carved deep wounds into his weakened form. Longinus' words died, and a child-like cry left him. He folded over, his torso slumping. This was more than what he could take as well.
+
+Where Shiv, Adam, the Culturist, and Longinus were spent, there was still one more party to this battle, one more member on the Deathless's team.
+
+She had been struck once by Longinus, but after her ordeal in the Outside, a few damaged skills weren't going to be enough to put her down.
+
+Longinus swung his arm back weakly, as if a man trying to ward off a swarm of angry wasps. Behind him, through ash and mist formed from the haze of war, came twin glowing eyes that shifted in color. Twin glowing eyes attached to a mind with so many threads that it became the epicenter of a psionic web. Uva staggered forward, her face a mask of exhaustion and cold fury. One hand was on her midsection, the spot where Longinus had impaled her frozen shut not only by frost, but time as well. Eyes sprouted free along her arms, and as her insect-limbed wings dragged on the ground behind her, more spinning fractals launched forward, piercing Longinus over and over again.
+
+"Get… away from him," she seethed psionically. And she cast that thought forth with every thread of Psychomancy she had left. Thousands of strings bore down upon Longinus like a rainstorm of serpents. The Wanderer, engulfed by pain and desperate to survive, swung his lance blindly in Uva's direction.
+
+His weapon became an absence, and a crescent vacuum cleaved across the world toward where Uva was, but before it could cleave into the Seeker, she disappeared. She tied herself to one of her fractals, wove her mind around it before dropping down from above, and she drove a blade of shifting fractal deep into the back of the tattered god.
+
+The moment she landed, dozens of Bread-Knights fell from above as well. They were assailed not only by her psionic threads but also by Longinus' dimensionals. They were fighting Princess Plum Blossom's guard, battling in the air above. Massive spells were unleashed, and a chaotic brawl took shape as friend fell upon friend in a frenzy of violence with no coherent reason or rhyme to its flow.
+
+Though Shiv's Harbinger was a breath away from breaking, it still allowed him to see into people's empathic cores. Uva's core made him shudder, not only with delight, but also with a measure of unease. She drove her fractal blade in and out, slicing and stabbing, working her way toward Longinus's core. The centaur weakly tried to buck her off, but she had a singular purpose, and that was reflected in her emotions. There was no rage in her, only pure hate. It wasn't a hot kind of hate. It didn't give off a flame or fester like torpid water. She went empty. Her personhood was replaced with the singular want of Longinus' death.
+
+And nothing stopped her from stabbing and carving, until Longinus grazed her with a sudden backhand—which tore her head clean off her body.
+
+Shiv's insides plunged. He wanted to scream. He wanted to throw himself at Longinus, but then his mind reeled as Uva continued stabbing, like nothing happened at all. A second later, a new head was stitched into shape. Little versions of her that resembled spiders but wove threads of psychomancy recreated her skull from the inside like a lattice. It was then that Shiv realized she was using her Eldritch Physiology skill too—that this was a trick from his book.
+
+He remembered beheading himself to obtain a measure of peace, and now she was doing the same thing.
+
+Yes, Shiv cheered voicelessly. Get him… Felling… finish him, sweetheart!
+
+In that moment, there wasn’t a single soul in existence he loved more than her.
+
+Her finishing blow came even before her head grew back, because half her body was now a mess of swirling eyes crashing toward the center of a vortex. As they all opened, they projected waves of Outsider magic directly into Longinus' wounds, flooding his insides. His incandescence was tainted by the eldritch. Serpents, feathered tongues, and more wrenched and writhed, gripped him, pulled him apart from within. Longinus screamed and struggled while another portion of him laughed with euphoric relief.
+
+“NO, PLEASE, NO!”
+
+“Finally! So long! Fucking finally!”
+
+The Seeker ignored both voices as her head came back into form, and a final rush of her gaze filled Longinus from within.
+
+His incandescence sputtered and was contaminated in its entirety. And then, something happened. An eye opened up inside Longinus, followed by hands, followed by feathered tongues that wrapped around his body, that pulled him apart, that began tasting and chewing and suckling at him. The god screamed in terror as part of his Domain was infested. His heavenly realm was breached and tainted by a hostile power that was once aberrant, but by now as much of a god as he.
+
+Or would be, when it woke from the divine husk it chose as a cocoon.
+
+“Bwuh? What’s this, Little Dreamer?” The Dreamtaker yawned in a most human-like fashion, and her voice sounded more like Uva than ever before. “What flavors, what fears, what power… Hm. This is a comfortable warmth. I think I'm going to start my second nap right here.”
+
+Attention: The Dreamtaker has found a host.
+
+(Eldritch Evolution Reached)

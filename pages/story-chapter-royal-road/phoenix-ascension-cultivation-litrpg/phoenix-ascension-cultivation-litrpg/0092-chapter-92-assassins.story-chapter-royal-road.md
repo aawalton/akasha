@@ -1,0 +1,179 @@
+---
+id: 620dec3f-c9f5-5c09-b5de-3ffe5e445a77
+page-type-slug: story-chapter-royal-road
+title: "Chapter 92: Assassins"
+slug: 0092-chapter-92-assassins
+partOf: phoenix-ascension-cultivation-litrpg
+position: 92
+ownLength: 2637
+unit: words
+publishedAt: 2026-02-23
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3085404/chapter-92-assassins"
+royalRoadId: "3085404"
+---
+
+It took her a few minutes to finally leave me alone. Apparently, accusing her of wanting to try human inventions was too much, and instead of retorting to violence, she silenced me by not allowing me to move.
+
+It was a shitty move, but a move I understood. Nevertheless, it’d been noted that I should not challenge her likes or dislikes for humans.
+
+After she moved her heavy ass off of me, I picked a corner and sat down, more than annoyed at her mistreatment of me. Seriously, I thought we had something…
+
+Jokes aside, I focused fully on reading the second Jade Slip. I’d gotten an idea of what the Foundational Seed was after listening to the manager, but I still had to confirm its uses.
+
+Infusing some Qi into the Jade Slip, I sent my senses in and began reading. There wasn’t as much information as the one on the Foundation Establishment slip, but it was more concrete and thorough.
+
+What money gets you, I guess.
+
+There wasn’t any blabbering, tangents, or anecdotes, and the information seemed more believable.
+
+<<The Foundational Seed is a rare Foundational Treasure that can be found in certain sects and Legacy Zones. Their origin is unknown, but once someone has planted and successfully grown a tree using this seed, then it will create another, which can be replanted or given out.
+
+<<The Foundational Tree, as it came to be called, only matures when the cultivator has reached the Soul Transformation stage, and that is when a seed will sprout. It is, therefore, very valuable and only a few exist in the world.
+
+<<As for the nature of the seed itself, its main characteristic is its Neutral Qi. This tree will purify already existing Qi and turn it into pure Neutral Qi, but more than that, this tree can purify foreign, poisonous, and Demonic Qi, as well as many other types of harmful Qi. That Qi will then be turned into good Qi that the cultivator can use for themselves.
+
+<<The Foundational Tree has three stages of growth. The first is the seedling or sprout stage, which takes place between the first and third layers of Foundation Establishment. During that time, the seed will sprout, grow, and become a tiny tree.
+
+<<The second is the sapling stage, which takes place between the fourth and sixth layers of Foundation Establishment. The tree will continue to grow in height and thickness, spreading its roots all throughout the dantian, and especially around the Qi Lake.
+
+<<The third stage is the maturity stage, which takes place between the seventh and ninth layers of Foundation Establishment. The tree will continue growing until it reaches the maximum volume allowed by the dantian. Each tree is different, since each dantian is different. Once the cultivator reaches the ninth layer, the tree will stop growing, but it will continue maturing.
+
+<<It will do so by spreading its crown and eventually covering the entire dantian with its roots and leaves. Once that happens, it has reached the stage of ‘Heaven and Earth’. The Foundational Tree has become both, and its trunk connects the two.
+
+<<At that point, the Foundational Seed will be born at the top of the crown.
+
+<<The unique characteristic of this Foundational Tree, compared to other Foundational Treasure Trees, is that it can easily adapt to any new type of Qi introduced into the dantian. It can create different branches for different elements or Qi Types, even the least favorable ones, if the cultivator decides to cultivate the darker or more demonic paths.
+
+<<In order to assure the perfect environment for the Foundational Tree to develop properly and better, certain things can be done. First is assuring that the dantian has no foreign elements at the moment of planting. Second, introducing proper soil into the Qi Lake, preferably soil that can absorb Qi. Third, creating an artificial day and night cycle using Beast Cores or artefacts.>>
+
+Well, isn’t that awfully convenient?
+
+I was of half a mind to ask System about it, but then decided otherwise. It was definitely intentional.
+
+How it had known something like this would happen, though, was beyond me. I decided to stop questioning System’s origins long ago.
+
+The Jade Slip then detailed how one would go about simulating the day and night cycle, and where I could acquire some soil. It required two cores or the aftereffects of opposite Yin and Yang, which I already had. Their shape didn’t matter, and anything could be used for that purpose. Beast Cores, Swords, Bows— Anything that could hold enough energy and was of the correct alignment.
+
+Then, while in the process of breaking through, place the two objects in the expanding dantian and connect them together with Qi. After a certain amount of time, they would each go in opposite directions and take up their roles.
+
+Due to their influence, a dome would be created over the upperside of the dantian, thus creating an artificial sky.
+
+The process was quite magical in nature, but the dantian itself seemed to understand what it should be doing. I’d never heard of such a thing, and not even the information in the Jade Slip could say for sure what the cause was.
+
+The soil was divided into a few ranks as well, namely Mortal, Earth, and Heaven, much to what I was used to, with one rank in between; Mortal-Earth and Earth-Heaven, which definitely was not confusing at all.
+
+Depending on the quality and type, the soil could cost anywhere from ten Mid-Grade Spirit Stones per jin to as high as one Top-Grade Spirit Stone per jin. The soil itself also had different elemental affinities, mostly earth, but the most expensive ones were neutral, which was what worked best with the Foundational Tree.
+
+I wasn’t aware that there were so many layers to Foundation Establishment, but it was one of the most important steps in a cultivator’s journey. If anything, this seemed more fun than the boring use we had of it.
+
+Now that I understood what the almost sentient thing in my bag of holding was, I’d already formulated a plan on how to best make use of it. It required the Myriad Market, of course, and a lot of resources.
+
+I could break into Foundation Establishment at any time, then plant the seed and provide the soil; that wasn’t an issue. My biggest problem was the funds required. Despite the fact that I had quite a lot of money, that didn’t mean that it would never end.
+
+At the same time, I could just refine a lot more pills and sell them, but that would be a last resort, since I didn’t want to bother with the complications of selling them.
+
+With the plan devised, it was time to start cultivating.
+
+I needed to get the Divine Lightning Construction technique to an adequate level before progressing to Foundation Establishment.
+
+Under normal circumstances, using a new technique meant giving up the entire cultivation progress and starting from scratch, but considering the opposing element and meager amount of progress I’d made with the Ghost Qi Cultivation Technique, it wasn’t as much of an issue for me.
+
+I could just refine the already existing Qi in Lightning, or leave it as is. What mattered most was using the technique as it should be used. Since it basically guaranteed a Lightning Body, I needed to be thorough.
+
+If I had to guess, Shu Xu Ning, and perhaps Shu Wao Tu as well, had an innate Lightning Constitution, which encompassed the Soul, Body, and Spirit. Therefore, this technique was incredibly useful to them, and more than that, there was a chance that their bodies would upgrade to a better rank.
+
+That was a matter that they would need to figure out though.
+
+As for me… I had to circulate Qi in the right meridians and acupoints, letting it linger and even allowing it to burn me if necessary. That was while chanting the manthra and devoting myself wholly to the cultivation process.
+
+Because of that, I asked Yo Na to look over me and wake me up after a few hours. I still had to go and see what Shang Hue was doing after all, and buy a few more things for the siblings.
+
+I would not be surprised if the Chiao Clan had already sent someone to take care of them, which is why I told them to rent a room at an inn.
+
+***
+
+Earlier that day…
+
+“Big Brother, how could you bring a woman into our room while I’m still here?” Shu Xu Ning yelled at Shu Wao Tu, who was sitting on the bed while the mysterious woman that appeared while she was sleeping stood next to the window.
+
+Her breath reeked of alcohol and her beautiful face was flushed red. Shu Xu Ning doubted that a woman as pretty as her would willingly commit such atrocious acts with her brother, so she knew there was something fishy going on.
+
+That did not mean that she didn’t like giving her brother shit.
+
+“Xu’er, I’m telling you, it was that psychotic woman who brought her here through the window!”
+
+“Stop calling her that! And why would Miss Immortal do such a thing?”
+
+“How am I supposed to know? You knew as well as I do that cultivators of her caliber are eccentric. Just, stop accusing me of such things, alright?” Shu Wao Tu was mostly at his wits' end when dealing with his little sister.
+
+Too many things had happened in the past few days, mainly due to him, but he still wanted to rest at least for a night. He felt that he was lucky, due to the fact that such a rich and powerful person took interest in them, but also unlucky because one thing led to another and he ended up getting slapped and bullied.
+
+Now, even his little sister was bullying him. It was already hard to accept that she had such talent for cultivating, and he’d lost all the progress he’d made beforehand, starting from zero. That also meant that Shu Xu Ning was now the more powerful of the two, even if she hadn’t mastered strength yet.
+
+And now an unknown woman had first slept on him after the woman dropped her on his head, then when Shu Xu Ning woke up after his many pleas, he got accused of many bad things and had no way to explain himself.
+
+The woman in question was also  just leaning on the window wall, acting as if she wasn’t concerned. In all fairness, Shu Wao Tu didn’t even know if she was present in the room with them.
+
+One thing he knew for sure was that she was a very important person, judging by the fact that that psychotic woman dropped that card next to him. One could infer it belonged to the beautiful woman, and when his jaw almost dropped.
+
+That was a Black Membership Card belonging to the Myriad Market. That meant that the woman, or her family, had a net worth of at least Ten Thousand Mid-Grade Spirit Stones.
+
+To Shu Wao Tu, that was an enormous amount of money, but to the Myriad Market, that was only the starter echelon.
+
+As far as he knew, the rankings for the memberships were Black, Purple, Blue, Yellow, Orange, Red and White. Black was the lowest, where the qualifying bracket was one hundred Top-Grade Spirit Stones, incrementing by a hundred for the next two tiers, so Purple and Blue would be two hundred and three hundred Top-Grade Spirit Stones respectively.
+
+After those two, Yellow and Orange would each increase by five hundred. so they would be eight hundred and one thousand and three hundred respectively. As for Red and White, there was no increase, but a fixed number.
+
+Red was two thousand Top-Grade Spirit Stones, and White was five thousand Top-Grade Spirit Stones.
+
+That was an exorbitant amount of health, equating to about fifty million Low-Grade Spirit Stones/
+
+Shu Wao Tu didn’t even know what a million of anything looked like, let alone fifty. It was such an absurd number he couldn’t even think of it as anything besides insurmountable.
+
+“Big brother!”
+
+“Yes, Xu’er?”
+
+“Did you listen to what I’ve said to you?”
+
+“I-” However, Shu Wao Tu cut himself off as he jumped to his feet and immediately grabbed his sister. With one quick movement, he threw her and himself to the ground, just in time for a large spear to pierce through the window and embed itself into the opposite wall.
+
+Cold air invaded their room, making their chills even worse.
+
+“What-”
+
+“Stay quiet.” He whispered, crawling over to the window and pressing his ear against the wall. His heart thumped against his chest, barely allowing him to hear the whispers and the footsteps outside.
+
+Looking up, he saw that the woman was still half-asleep, or perhaps fully sleeping and only instinct was keeping her upright. Whatever the case, he’d put her out of his mind as a potential aid.
+
+He wasn’t a genius, but it wasn’t hard to guess that Chiao Zhen had hired assassins to get rid of them before they became a larger problem.
+
+How did they find us?
+
+Shu Wao Tu had taken every precaution possible. He knew that the psychotic woman had sent them away because of that very reason, and he’d lie low until hellfire. He wasn’t a master of stealth, but he’d guessed that after turning a few corners and rushing through a few alleys, as well as changing clothes and moving through the night crowds, they would not have been discovered.
+
+He knew that the woman had a way to find them, that much was clear, but she had interacted closely with them and had time to set up a way to locate them, but neither Chiao Zhen nor Chiao Gu had the time or opportunity to do so.
+
+So their positions were given away by a random mistake or he’d been played the fool and did everything for nothing.
+
+If he could use his Divine Sense properly, he had no doubt that he could have detected at least some hints of pursuit, but currently he wasn’t even at the first stage of Qi Condensation. Doing anything so extravagant would be difficult.
+
+Either way, there was no time for him to think about how the assassins found them, what mattered is that they did, and he could not wait around for someone to save him and his sister.
+
+They’re coming.
+
+His panicked mind instantly calmed down when the footsteps of whoever was sent to kill them landed on the small balcony next to the window, and he saw that his sister went and hid behind the bed.
+
+Unless they entered and turned, they wouldn’t see him either, but they would find the woman standing there without moving almost immediately.
+
+When he heard a small breath of effort and felt the wall move slightly, he knew that one of them had climbed on the broken window. One swift kick later, and it opened wide, smashing against the woman.
+
+She didn’t react much, but some sort of conscious glint shone in her eyes.
+
+Shu Wao Tu watched with despair as the assassins stepped foot inside, turning to look at the woman.
+
+He couldn’t see his face or what he looked like at all, since he was covered in black clothes from head to toe, face included.
+
+The man looked surprised upon seeing her, but didn’t hesitate to pull out a dagger from his booth and attack her.
+
+The blade shone under the moonlight, but just as it was about to pierce through the woman’s neck, the sound of air getting caught echoed in the room, and the man’s head fell with a loud thump.

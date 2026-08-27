@@ -1,0 +1,279 @@
+---
+id: 1c0349bf-2461-5435-9c0a-28bc69acf1cd
+page-type-slug: story-chapter-royal-road
+title: "297 Path of the Chefless [IV]"
+slug: 0388-297-path-of-the-chefless-iv-3072251
+partOf: path-of-the-deathless-book-4-completed
+position: 388
+ownLength: 6522
+unit: words
+publishedAt: 2026-02-19
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3072251/297-path-of-the-chefless-iv"
+royalRoadId: "3072251"
+---
+
+Though most Golemancy Skill Evolutions are focused on alleviating the logistical burden of creating a golem, certain Pathbearers who experience heavy combat alongside a single golem that they have poured their lifeblood and intellectual efforts into optimizing will gain more synergistic and combat-oriented Skill Evolutions. A few of these might be known to you thanks to the Titanwalker Knights that stand as the guardians of our borders.
+
+It takes a very specific Golemancy skill evolution to become a Titanwalker Knight, along with years of martial and intellectual distinction. This specific Golemancy Skill Evolution, however, is the rarest requirement of all, and Pathbearers have dedicated their entire lifetimes and failed to achieve it, for that is how rare and difficult it is to attain. The Soulbound Puppet allows the Pathbearer to blend and synchronize their mind and mana with their golem. Effectively, this gives you the ability to project and wield your golem as if it were a set of armor, but it also allows you to channel a percentage of your golem’s capabilities through yourself as well.
+
+This is what grants a Titanwalker Knight their prodigious strength and immense toughness, because they take on their golem skills as well, and their golems learn to fight and move in perfect sync with their user. But understand this inflicts immense strain on the user's mind, and so they dedicate themselves to a single golem. Additionally, every bit of damage unleashed upon the golem also comes with dire consequences. When a Titanwalker golem loses an arm, its user shares a similar fate.
+
+For when someone invests a portion of their mind and soul in a golem, then they inherit both the triumphs and the dire consequences of defeat…
+
+—The Paths of Ascension
+
+297
+
+Path of the Chefless (IV)
+
+Golemancy 49 > 50 (Skill Evolution Imminent)
+
+Deepest Edge 90 > 96
+
+Strider of the Unbending Path 181 > 183
+
+The Creeping Void 147 > 148
+
+Bifurcated Processing 82 > 84
+
+Return to Sender 105 > 108
+
+Inertial Overdrive 223 > 236
+
+Pillar of Orichalcum 280 > 283
+
+Aegis of Assimilation 134 > 140
+
+Atlas of the Flesh Scrierer 117 > 120
+
+Shape of Monstrosity 152 > 155
+
+Pyromancy 24 > 33
+
+As Gone reappeared before Shiv, she dropped severed tracheas at his feet and sniffled with a slight hint of nausea. "Plan worked, but I think I'm going to need a breathing mask or something next time. Smelled really bad. Also, I threw up inside your big corpse. Would say I’m sorry, but that wouldn’t be honest."
+
+Shiv just laughed. Planting a foot on the face of a dead orc Vanguard, he wrenched his Last Morsel free from the grayskin’s chest and swept the blood away using his mana hydra. It had taken quite a bit of skirmishing, but they'd done it: They'd turned the fight around against the five hundred orc Heroes and won.
+
+Approximately half an hour ago, things were looking pretty dire for Shiv and his allies. Now, the arena grounds were being slowly refilled from the crater they'd been turned into by Candles through the effort of dozens of Geomancers in the audience. At the center of the coliseum, being slowly lifted up by the rising sand like a pedestal, lay Candles, who slumbered in blissful triumph, his near-skeletal form spent of mana, reduced to dim embers. While the Pyromancer giggled between snores, Shiv and Gone finished off the last of the stragglers.
+
+To the orcs' credit, they fought to the last. Their joyous spirits undiminished by grievous wounds and unexpected defeat, the orcs went to their deaths with the same glee they exhibited while hunting Shiv and the other former prisoners. All was fair in war and bloodshed, and all was beautiful because of war and bloodshed. Didn't matter if they won, didn't matter if they lost. This would be a fight they would remember. And when they started again in their next life, they would have something to talk about. And something to look forward to. Shiv had a feeling these orcs would be coming back to him real soon—and with the System's favor imparted upon them through this battle, he suspected they'd be growing pretty quickly as well.
+
+With a fight against the five hundred done, Shiv began collecting some of the few more intact corpses. He needed ample donations of orc meat for what he intended to do after, and there was luckily enough left for Shiv to experiment with in his kitchen later. Moreover, he also reaped a plentiful number of orcish echoes; he would be able to task the slain orcs with cooking themselves after he infused the remnants of their egos into their own remains.
+
+It occurred to Shiv that this might seem a strangely twisted thing to do, but these were orcs, and already the echoes were chuckling, telling him how funny it might be if he ordered them to participate in a post-mortem meal prep involving their own bodies.
+
+Skill Gained: Comedy (Initiate) 1
+
+The orcs in the stands chattered and cheered, amusing themselves during this intermission. As Shiv collected the bodies he needed, the audience stitched together massive banners commemorating this battle. Upon a kilometer-long canvas of midnight-black silk, Shiv saw detailed representations of himself, Gone, and Candles standing atop a small hill of orc corpses. Five was included too, but his depiction was more comedic, seeming like a wolf from a children's picture book that sported a massive lump on his head and a series of bruises all over his body, while having an X for each eye.
+
+At present, Five was still chained to a long, upraised post held by an orc in the stands, but he looked more bored than tortured despite his many leaking wounds. "Deathless, Deathless," Five called out. "If you're done with all the corpse scavenging, could you perhaps put in a word with your orcs and have them let me down?"
+
+Shiv ignored him for now. He was likely going to ignore Five for a moment longer. Maybe a moment that lasted anywhere from a few minutes to a few hours. Maybe he would let the orcs show the Aviary agent around. That might cure the poor coward’s urge to abandon his party in the middle of a fight.
+
+"Is it an apology you desire?" Five shouted from high above. "If so, I am truly sorry, but you should have known better when you forced me into this endeavor as the only Hero among a group of Legends! Even ignoring this, I told you while we were escaping from the prison that I remain inclined toward diplomacy and intellectual pursuits rather than combat, and this remains true."
+
+"Maybe we should just let the orcs keep him," Gone commented. She spat on the ground. "Trust the orcs more than I trust someone who kneels before the Stolen Throne. This fight was just for fun. Think if there was something in it for him, he would show just how much of a warrior he is. Think he has a lot more hidden in his fur than he's decided to reveal—pretending to be weaker and more vulnerable than he actually is."
+
+Shiv got the same feeling, but ultimately wasn't sure. He agreed that Five probably had a lot more capabilities, but something told him the wolf-man wasn't lying when it came to how helpless he was in a direct fight. But that was just the thing. Life was so rarely a direct fight, and someone skilled in subterfuge and espionage could cause a lot more societal and structural damage under the right circumstances than some brute waiting around breaking things and butchering people.
+
+But there was a reason why Shiv kept Five close. He owed Shiv his life. Shiv didn't think that fact did anything to change his true loyalties, but it did make him more reliable in certain ways, especially since he was lacking the Stolen Throne's favor, having retained some minimal contact with Aviary while in prison but being considered a burned asset overall. He had ultimately not given up his cell, judging from what Cripple had said, so he'd likely try to establish himself as some kind of direct liaison to New Albion, and at the same time, reassert his dignity as a spy. That would make him a defensive measure against the other Ravens and Owls, who might take a more subversive and threatening approach to Gate Piety’s existence.
+
+Better the spy I know than all the spies I can't see, Shiv thought to himself.
+
+Scheming Bastard 4 > 7
+
+"Nah," Shiv replied after a few seconds, drawing out the tension. "We're keeping him. He can show me how good he is in the kitchen if he wants to redeem himself. If he fails there too, maybe then I'll consider letting the orcs eat him."
+
+As if they had been preparing for this statement, a group of orcs around the pole holding Five up in the air put on aprons and produced condiments from unseen places. They then filled their hands with gleaming utensils, sporks, and knives raised high.
+
+"Well, wasn’t that amusing?" The Culturist’s voice cut through the murmurs of the massive orc crowds. He projected his words with a bit of telepathic enhancement, and upon hearing his question, the others fell quiet immediately, their attention turning to the best among them, waiting for another brutal bout to begin. It was uncanny how fast the atmosphere changed, how quickly the other orcs responded. The makeshift coliseum was vast and wide, and the stands rose more like the city blocks climbing up the side of a sloped mountain rather than simply stacked steps that could be climbed with a few meager steps. Hundreds of thousands of orcs glowed bright in every direction, their biology emanating with life force and biological mana.
+
+Shiv had been so focused on the 500 Heroes he was fighting earlier that he failed to fully absorb just how many people were here to witness this fight. Despite that, he felt more excited than tense. This wasn't like Blackedge, where too many eyes lingering on him meant an impending beating or at least a bottle thrown his way. Messed up though they were, the orcs liked him just the way he was, and cheered and booed him in equal measure, devoid of any rancor. In that respect, an orc was the ideal customer. He was intellectually engaged and personally fascinated, lacking that inherent tribal animosity which lurked inside certain humans and other Earth-based races.
+
+A single orc might cheer your name and then curse you in the next second for the simple reason of you making a mistake or wielding a magical lore they didn't quite respect. But they also didn't linger in this state. When the moment passed, it was gone and done. They didn't have the urge to support any teams or to overly mythologize someone they liked. At the end of all things, orcs viewed themselves as Pathbearers and players in the System's scam game, and so they only saw the highest elevation of themselves. That meant all the world was an inevitable enemy. That meant there were no friends, no teams, no "we", only "I".
+
+And that meant they admired Shiv and the Culturist as fighters of might and potential adversaries.
+
+They're studying me, Shiv realized, trying to figure out how to put me down next time. Learning from the mistakes their fellows made, and learning from the mistakes I've made. Heh. Think I'm going to be in for a lot more sparring and general warfare in the future.
+
+"So, have you had your fun, then, Deathless?" the Culturist asked. His voice alone rang out across the vastness of the Coliseum. He didn't shout his words; it simply felt like the winds obeyed him. Like the sound itself was his thrall. Shiv got the feeling the orc had some kind of vibrational skill, judging from how the air shivered around him.
+
+Probably going to experience what kind of damage that voice can do first-hand in a couple of seconds, Shiv thought to himself. But in the meantime…
+
+"I thought you were supposed to be the fun part!” Shiv shouted toward the Culturist. “Don’t tell me you’re backing out now!" He kept his talk quippy and playful, but deep inside, he had every intention of ruining the Culturist if he could. The bastard still infested the depths of Adam's soul, and if Shiv had any chance of resolving that, he would take it, even if Adam wanted to handle it himself.
+
+"Oh, he's not afraid of you, Culturist. You gotta fight him now!" Bonk's interjection was followed by a resounding bellow of laughter. Shiv squinted, and he found the orc on the very edge of his perception, standing at the apex of the highest stand. He was holding some kind of magical device to project his voice all the way down, which he raised in salute. "Oi, Insul! I see you're down one killer. You need someone to fill in for the little puppy?"
+
+Bonk’s offer was so earnest that Shiv nearly considered it. He knew the loincloth-wearing orc was always up for a good scrap, and he had a pretty good idea of how Bonk fought. However, he remained a mere Adept at present, not someone worth wasting against the Culturist. Frankly, Shiv doubted his own odds against the Culturist, even with Gone backing him up. Candles was effectively out of the fight, having spent everything he had to incinerate most of the orcs.
+
+"Maybe next time, Bonk!" Shiv shouted back. "Right now, I think I want to do something real personal with the Culturist. Just him, me, a few golems, and Gone here."
+
+"My, you're involving a great many people in this grudge match of ours," the Culturist said smoothly. A hint of wry amusement twinkled behind his eyes. He wasn't worried, wasn't offended. He was looking forward to this. "Perhaps you should call out to your lover and your friend. See them included in this little brawl of ours. You're not the only one I seek to train. It is a selfish thing to do, hoarding all this experience for your own pleasure. Or maybe that's not it. Maybe you're afraid to risk them, afraid I might take them from you permanently. And I cannot blame you. The shadow of the loss you suffered recently leaks out from the corner of your eyes."
+
+Sage of the Enkindled Heart: He's been holding the Itch at bay, but it's getting the better of him again. Look at his face. He knows what's coming. He knows what you'll say. He knows that you can strike at his pride and his philosophical vulnerabilities deeper than he can tear at your open wounds. But he can't help it, and that just makes everything worse.
+
+And so Shiv knew what to do as well. He knew how to hurt him most of all.
+
+Shiv allowed that reflexive recoil of anger to pass through him, let it fade to sadness, and let it turn to nothing in the end. Through it all, though, he simply grinned at the Culturist, saying nothing, letting time pass. A tension formed between them. It was a tension that gnawed at the Culturist. That weighed upon him.
+
+The other orcs didn't realize what was going on at first. But one after another, those who presumably possessed greater Psychology Skills started to laugh. Words were exchanged. Whispers speaking of how Shiv had led the Culturist into a most embarrassing trap. But that wasn't the truth. The truth was that the Culturist just couldn't help it. The orcs as a whole couldn't help it. The Itch compelled them to betray themselves. Cruelty was not a power. It was not a privilege. It was ultimately an addiction. And when someone else mastered your addiction, they could shame you.
+
+And Shiv did just that by saying nothing, by keeping to his sacred and defiant silence. He could snap back. He could insult the orc. He could prod at how the Culturist couldn't resist his dark urge. But Shiv didn't, because he was above the need for cruelty. He was a real person, one who could offer grace and mercy not because it was in his nature, but rather to shape it into an insult, striking the Culturist at his fragile foundations.
+
+"What's happening?" Gone asked. She looked between Shiv and the Legend orc and realized that something was unfolding.
+
+The Culturist wasn't smiling anymore. His lip was nearly a straight line, one that barely hid his true displeasure. The emotional core in his chest, lacking any of Jessica's immovable tranquility, filled first with flame and then what seemed to be sand swirling about as if a storm of grit and misery.
+
+"I've decided to be the bigger Pathbearer," Shiv explained, standing with his arms crossed. "Meanwhile, he can't decide much of anything at all. It's a real shame."
+
+Serving as a wonderful bookend to Shiv's declaration, the Culturist's body turned brittle and bright. Flesh and attire turned to glass. And instead of continuing this war of words, the Culturist leapt down from the stand, descending fast but landing as if a weightless feather, with both fists clenched. He bore no weapons, but strode forth with intent. A crackle of lightning danced across Gone, but the Culturist came to a stop a few hundred meters away. He lowered his head in a disgraced bow.
+
+"You are right. I can't help it,” he declared. “I confess to be your lesser by far in this war of hearts and egos. You may be a titan of combat, Deathless, but I believe you chose the wrong skill to turn Legendary. Someday, should you survive that long, your Psychology will be the undoing of far more adversaries. That a few words from you would prove as poisonous as the greatest of venoms, as treacherous as a lover turned foe. But until that point comes, until you can unmake my psyche with a phrase sharpened at the altar of your beautifully hateful mind, you know what must follow. You know that I must indulge. And better you than your friend. I seek to refine him, but he would not survive the depths of pain I will inflict upon you."
+
+Sage of the Enkindled Heart 145 > 147
+
+Rhetoric 19 > 23
+
+Sticks and Stones 77 > 81
+
+Slowly, Shiv’s sarcastic smirk went from prideful glee to a vicious expression of bared teeth. "Well, damn, Culturist, you took those words right out of my mouth. The part about the depths of pain, I mean. But you might be confused about who's going to be tearing into who, no? Considering you're looking awfully fragile right now."
+
+The Culturist looked up and met Shiv's eyes. "Indeed. Even with my Toughness, I think a proper strike from you now would see me crack and shatter. To die at your hand, after this display, my humiliation would be complete, and my destruction would leave me unraveled and a pariah among my kin." The Culturist tutted, as if trying to admonish himself. But his words were subtly mocking. He didn't think Shiv had the ability to prevail in a direct battle, as he had in their psychological bout. "Well, come then, Deathless. Seize the moment before I regain my composure. Before your Sticks and Stones lose their bite. Free your friend from my wrathful grasp. Amuse the Challenger, as you are so desperate to do."
+
+"Fuck the Challenger," Shiv said. "I'm doing this for me."
+
+With that, Shiv extended a Bifurcated Processing tendril, creating another Bullet Golem. Infused with Leviathan of the Shapeless Tides and blessed with Pillar of Orichalcum, the golem rose high behind Shiv and prepared to charge toward the vulnerable Culturist. Golem, go up into the sky, wait for when his guard falls, and then smash him flat till his shards mingle with the sands.
+
+Writing 14 > 15
+
+The Vitae golem heeded Shiv's word without any protest. It twisted away from the Culturist and shot up high in the air, rising like a javelin painted red-gold, growing brighter with every passing second.
+
+"Gone, I'm gonna play the vanguard. You skirmish. Tear him apart when he's busy with me, when he doesn't see you coming. Don't let him catch you."
+
+The goblin didn't say anything. She just flexed her claws and allowed golden lightning to course through her.
+
+Acknowledging their approach, the Culturist held out both arms and beckoned them to approach.
+
+"Not gonna arm yourself?" Shiv asked.
+
+"There is no need," the Culturist replied. "In fact, I think that it would be inappropriate for me. I wish to teach you a lesson. The first lesson that I seek to impart is a most useful one for you. The way of the Open Hand."
+
+The orc shifted away from his sarcastic embrace and adopted a fighting posture that had his rear hand drawn close beside his face in a high guard, while his leading jab was left partially open with fingers extended, ready to snap out at any moment to seize an unprotected limb or pierce a vulnerable eye.
+
+Shiv, meanwhile, thought himself above such flourishes. He stormed forward, one foot in front of another, and cracked his knuckles. He had a simple plan for the Culturist: pick him up and smash him down against the sands until even he couldn't tell where orc ended and sands began.
+
+Would that plan work? Shiv heavily doubted it. But he had other things for the Culturist to worry about. That's why he declared his intentions out loud. He wanted to make the orc think, distract him before the fight even began. And when the Culturist inevitably pulled something out of his ass that Shiv couldn't anticipate, he would use his Non-Sequitur to out-cheat the Legendary orc before this could become anything more than a beating.
+
+Something compelled him to look up before the fight began, and he saw Jessica and Valor staring down from just below the clouds. Well, Giantsbane, here's me thinking in twos.
+
+***
+
+"Fucking finally!" Jessica let out a breath of triumphant vindication. It seemed her teaching hadn't gone to waste after all. The damn boy could listen. And what a gift that was. “You're thinking in twos, kid. Now just keep it up. Come up with more plans on top of more plans. Just keep stacking them. You'll lose track, but so will your enemy."
+
+"Is that how you deal with your adversaries, Legend Hawgrave?" Valor asked.
+
+"Huh? Ah, nah. Usually, I try thinking in twos at the start, but then the strategy stuff gets really hard as the fight gets going and I end up just cutting them down because I'm a better swordswoman, or they turn out to be shittier than I expected, or I get lucky. A whole lot of different things happen, actually. Fighting's messy."
+
+Valor considered her. "And you pretend to be a simpler and weaker woman than you actually are. It is not a sin to take pride in one's own mental prowess."
+
+"No, but pretending to be dumber does throw the arrogant nobles off and makes killing them easier."
+
+"Ah. I understand."
+
+A tower of red-gold shot up through the clouds in the distance, interrupting their conversation. The Vitae Golem was about two kilometers away from them, and Jessica observed the construct with a dubious look. "It's not a bad idea, announcing all that out loud,” she noted. “It gets the Culturist paranoid, keeps him distracted a little bit. Pair that with the goblin, and he might have to make a few ugly choices. But something tells me the orc has this under control, that the kid needs to be much more unexpected if he wants to actually land a hit."
+
+Twin dancing flames flickered behind Valor's mana-formed eyes. "You know what Shiv is going to actually do, then?"
+
+Jessica snorted. "He's going to do what he always does when he needs to screw someone over. That weird technique where he can hop in and out of your consciousness. You forget him for a while when he does that, and then he comes back in, smashing into you or something. It's a pretty nasty skill to have. And once he gets powerful enough, it's probably going to be an absolute nightmare to deal with. But I think the orc's got enough Toughness to take a beating and a half. Besides that, he's probably going to make the first move. Expect this to go uglier than the kid anticipates."
+
+"I concur. What do you think the Culturist will do?"
+
+Jessica squinted at the Legendary orc and observed his myriad mana fields. The bastard had every magical lore Jessica knew and then a few she didn't. Guessing what kind of spell he might cast was beyond her. She knew enough about magical theory from all the mages she'd killed, but she wasn't a dedicated mage herself. Dimensionality was known to her intuitively, mainly due to her bond with Rusty, but her education when it came to the fine art of blowing people up using the elements was somewhat limited.
+
+Besides magic, the Culturist definitely had any number of strange and rare skills to unleash, even Unique Skills, considering what had happened to Adam. But then she saw that slight bend of light curving around the orc, and she realized she faced an adversary who'd done this to her before as well. Light was a treacherous thing. Most human Pathbearers were vision-dependent, and even if you lost your sight temporarily, that was usually enough to destabilize your capability and leave you vulnerable. And if you were vulnerable while up against another Legend for more than a half second, that was certain death.
+
+"The damn orc's probably gonna blast the kid with some kind of optical blindness spell. Then he's gonna hit him or something."
+
+"Now, now, Legend Jessica, take your own advice. Think in twos. You're being too simplistic when it comes to the Culturist. He is going to blind Shiv. Of that I am sure. But he's also going to do far more than that.”
+
+“Huh? Well, you know the orc better than I do. How about you tell me what he's going to do?"
+
+The lich didn't respond, but his pupils grew small, became twin pinpricks of dark green. "Watch," Valor said. "Watch and observe. It will make your life easier when you intervene."
+
+"Intervene?" Jessica said, not sure what Valor meant. But then came a brilliant flash that speared at even her eyes. Jessica let out a hiss of pain, and Rusty, to her surprise, barked a metallic groan as well. Before her vision cleared, she heard the unmistakable sound of a body tearing apart.
+
+***
+
+Shiv got within fifty meters of the Culturist before everything went to shit. The Legendary orc cast the spell so quickly that Shiv barely noticed, and then saw nothing at all as the shape detonated outward, consuming the world in a blinding canvas of white. Shiv realized he was blind in less than a quarter second. All the battles he'd been through had hardened him, honed his instincts to a razor-sharp edge. He didn't hesitate, reacting immediately by going Non-Sequitur. Shiv burst out from his body and found the blindness only temporary.
+
+The whiteness faded. The Culturist remained where he had been, but in his grasp was Gone. Her head was folded back at a disgusting angle, and she was utterly still. Shiv couldn't see any life force inside of her. His mind went blank. He continued reacting.
+
+The first of his mana hydra’s heads lashed out, sweeping over the goblin as Shiv went for the Culturist personally. His Last Morsel came cleaving up at an angle, Shiv trying to take the Culturist's head off in a single blow. But the moment his Biomancy field swept over Gone, Shiv realized the depths of his mistake. He felt nothing. No hint of flesh. No bone, no tissue, not even blood. Gone wasn't there. It was an illusion. Shiv discovered that far too late as he emerged from his Non-Sequitur state. His Last Morsel swept through the Culturist's head but passed without inflicting any damage, leaving only a faint distortion in the smirking decoy of the Legendary orc.
+
+And then there came a sound just a few meters behind him. He saw a glowing replica of himself, forged from veins of optical illusions. Gone was there, trapped within those glowing tendrils, now unraveling from Shiv’s illusory twin. Her body crashed and thundered with Chronomantic lightning, but she couldn't break free. She was bound in place, captured by the Culturist’s trap.
+
+The very same kind of trap ensnared Shiv as he was swallowed by a burst of light. What he thought had been Gone’s corpse unraveled in a blinding spill of colors and wrapped around Shiv.
+
+Unlike Gone, however, Shiv broke the strings of light with the flex of his might. His Magical Resistance worked in tandem with his Physicality as he burst free from his colorful cage—only to find himself face-to-face with the Culturist, who stepped out from seemingly nowhere, emerging from the folds of a mirage.
+
+The orc's hands exploded into a blur of afterimages so fast Shiv couldn't even perceive them. He jabbed and poked Shiv all over his body, striking at his temple, between the eyes, down his chin, along his throat, across the torso, under his armpit, practically everywhere. None of the blows hurt. In fact, they left a strange throbbing sensation that wasn't altogether unpleasant. Vibrations of uncanny static pulsed across Shiv's insides. He tried to take a swing at the Culturist, but his arms wouldn't obey him. It felt like his muscles had turned to jelly and his arm bones into little more than soup. Contrarily, his legs went rigid, and every single muscle along his lower body cramped like never before.
+
+As Shiv stood spasming, the Culturist placed a gentle palm upon his chest. "The hells did you do to me?" Shiv growled.
+
+In response, the orc patted his chest once—and then he walked away as if his enemy was already beaten. Shiv's eyes widened. Was the bastard trying to mock him? Shiv struck at the orc using his Biomancy field. Where his body wouldn't respond to his commands, his mana was still his to direct.
+
+Each of his hydra’s heads struck the Culturist—but inflicted no harm. Slowly, Shiv watched as the glass-like state encasing the Legendary orc's flesh faded, allowing his true Toughness to return. Weathering a brutal series of impacts from Shiv's Aegis like it was a pleasant summer rain, the orc simply chuckled as he strolled towards Gone.
+
+"Hey! Hey, come back, you piece of shit!" Shiv called out. There was something building inside of him, however. There was a growing agony, a straining pressure that he couldn't describe. "Come back!" Shiv gagged. Something was wrong.
+
+"Oh, don't worry, Deathless. I am not trying to insult you by walking away from our bout. It is simply that the fight has ended. You are already dead."
+
+"What?" Shiv gasped, and that was the last thing he managed to say in that life as his body caught up to what had been done to it. As his arm twisted and bent. As his torso swelled along odd patches, growing large and bulbous. As his veins writhed and bent, inflating free from his skin. As his skull parted and his brain tissue expanded like a balloon.
+
+And all at once, the pressure grew to be too much. Shiv's heart was the first to detonate. It had swollen to three times the original size, and when it went off, it went off with the power of a bomb, his brain and other organs following suit.
+
+Shiv's body tore itself apart in a cataclysmic explosion. His armor exploded apart, and a small crater of gore formed upon the sands beneath where his feet used to be. A formless mass of Vitae that served as his post-mortem self splashed down into the puddle of blood. Not a few strides away, the Culturist fell into a crouch and whipped out his hands once more, unleashing a barrage of snapping strikes into Gone’s tiny body. Rather than blasting apart into a spray of gore, her body stiffened, and then she went limp. Her eyes were still open, still darting about, but it seemed like she was a prisoner inside of her own flesh.
+
+The Culturist turned then and struck his fighting posture once more. "For a martial artist, unarmed combat is the finest thing. It is the most fundamental thing. It is the thing that all other martial arts and Weapon Proficiencies are built upon. We have our natural limbs, and with these limbs alone, greater geniuses than all of us here combined created kinetic art."
+
+Interrupting the orc's words, Shiv's Vitae golem chose that moment to slam down from on high, smashing into the Culturist with an earth-shattering impact. The tower sank deep into the ground, sheathing itself through the sand for hundreds of meters in a second and throwing up a massive cloud of dust.
+
+Shiv stared at where the last few dozen meters of the Pillar of Orichalcum stuck out. For a few heartbeats, nothing happened.
+
+And then a sickening sound echoed through the world. It was the sound of bursting metal; it was the sound of detonating Vitae. And then the entirety of the pillar came apart in two halves, splitting clean in two to reveal the Culturist standing on a patch of sand with his back straight and a single Index finger raised high, the Vitae golem impaled upon his fist, a gaping hole through its chest.
+
+Shiv's mind struggled to process what he was seeing, but it didn't take him long to make sense of what had just happened. The collective force of the Culturist’s being had become a concentrated needle, hollowing a safe path for himself through the entirety of the tower with a single thrust of an upraised finger.
+
+As the last of the Pillar of Orichalcum dissipated and the golem dissolved into motes of vitality upon the Culturist’s hand, he once more resumed his fighting posture and continued his monologue from where he left off, "Though your Grappling is technically Legendary, you have done yourself a disservice, Deathless. You should never have let that skill fuse with your Physicality and your Magical Resistance. Now you are merely a brute with an intuitive understanding of leverage. Though this might grant you insight into how you may execute takedowns, or apply proper leverage to break bones or strangle one of your adversaries unconscious, this is not nearly the precipice of one's martial capabilities. Martial arts are the true expression of a sapient being’s fighting skill, and you have deprived yourself of such true pleasures. But just as well. Easy pleasures make for weaker Pathbearers. You do not need the System to gift you such a skill. You can learn the fundamentals on your own, and you can learn through facing a proper adversary who has walked the Open-Handed Paths, who has experienced the truth of martial enlightenment."
+
+With that, the Culturist broke from his posture and made a gesture at the mess of Vitae that was Shiv. "And just as well, for though you are a Legend, you do not fight nearly well enough to be considered one. Where is your Footwork skill? Where is your Anticipation? Where is your ability to resist pressure point techniques? Without these things, you will be but a worm trying to fight an eagle against anyone with a measure of skill."
+
+Shiv's mind twitched. The Culturist had many flaws. He was an orc that struggled against his nature, that loathed his cruel instincts, but always failed to overcome them. He was an orc that loved the sound of his own voice, who monologued endlessly and relentlessly, who tried to endear himself to Shiv and Adam, but also was open about how much he wanted to hurt them at times.
+
+In spite of all that, Shiv had to admit the orc’s ability to make someone explode by poking them a whole godsdamn lot was pretty fucking awesome. Awesome enough that Shiv wanted to learn—or at least die so many times the orc couldn't do it to him anymore.
+
+Shiv had already been motivated to fight on Adam's behalf. But now he was downright excited. Drawing in an influx of vitality from his Enchained Heart, Shiv resurrected, emerging from his Vitae and staring the Culturist down. Yet before he could say anything, another pressure built inside Shiv. Pressure Point, the Deathless thought. The orc's Pressure Point skill had truly become transcendent, affecting him the moment he returned to life. But then the notifications loaded. Shiv had resurrected far too fast this time, and didn't even get to review his gains while dead.
+
+Then suddenly, Shiv's excitement turned two-fold.
+
+"What's that on your face? Is that glee? Anticipation? No. I know that look. You've gained a Skill Evolution." The orc smiled and brushed at a non-existent beard. He was playing with Shiv, but also playing with himself. Shiv suspected that whoever the orc trained under to learn these skills had such a habit, and the Culturist was imitating them to pay homage.
+
+"Yeah," Shiv breathed. "I got a Skill Evolution. You giving me a second? I want to see what this can do."
+
+"By all means," the Culturist said politely, gesturing with an upward-facing palm. "But after this moment, you owe me pain, and you owe me every bit of fight you still have inside you."
+
+The Legendary orc casually lashed out with a few punches and kicks, each one faster than Shiv could follow. Each one projected invisible blasts of pressure across the sand, painting a symmetrical pattern. Then the Culturist finished his kata, facing away from Shiv and thrusting a gentle palm into the distance.
+
+That gentle palm unleashed a shockwave that caused a stretch of what a strange flicker of Non-Sequitur told him to be approximately five hundred kilometers of space to vanish into nothingness. A good few hundred thousand orcs were vaporized as a good third of the coliseum was wiped out of existence. All solid matter was disintegrated before it could remember to become debris, and only the howling of wind as air flooded back in to fill what the Culturist had displaced told of what had just transpired.
+
+The winds calmed. Cheers erupted from all sides.
+
+Shiv would have gawked at all that if he hadn't been so busy taking in the fusion happening between his skills, a fusion that wrenched at Shiv’s Vitae—causing it to stretch free from his body, commanding it to extend, to sink into the other skills, mutating them from within…
+
+Deepest Edge 96 > 101 (Skill Evolution Reached)
+
+Golemancy 50 > 52 (Skill Evolution Reached)
+
+Vitaemancy 145 > 150 (Acceptable Skill Fusion Detected)
+
+Skill Fusion: Deepest Edge (Adept) - Golemancy (Adept) - Vitaemancy (Unique) > This Severed Shadow of Blood and Bladed Soul (Unique)

@@ -1,0 +1,251 @@
+---
+id: 8ac8145f-d4e2-50f5-b4e1-be7be6bd035d
+page-type-slug: story-chapter-royal-road
+title: "402 (II) “The Enemy of My Enemy is but the Dog on My Leash” [II]"
+slug: 0518-402-ii-the-enemy-of-my-enemy-is-but-the-dog-on-my
+partOf: path-of-the-deathless-book-4-completed
+position: 518
+ownLength: 4480
+unit: words
+publishedAt: 2026-07-09
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3654754/402-ii-the-enemy-of-my-enemy-is-but-the-dog-on"
+royalRoadId: "3654754"
+---
+
+402 (II)
+
+“The Enemy of My Enemy is but the Dog on My Leash” [II]
+
+Slowly, a vicious smile spread across Shiv's face. Oh, the things I'm going to do with you…
+
+Before his revelry could rise to absurd heights, his other body within the Garden woke with a start. Light flared into his eyes, and Shiv shifted the bulk of his Legion of Self to focus on his resuscitated vessel.
+
+The air was cold and stale, like everything had been scrubbed out of the atmosphere safe for its base components. There was a strange acidic taste that clung to Shiv's tongue and burned at his nostrils. His flesh remained unharmed, but his body was dressed in a gown and caught in a shimmering field; he tried to move, but his muscles wouldn't obey him. He tried to blink, yet his eyelids never fell. Something had a hold over him, something rooted deep in his mind, something had compromised him from the brain outward.
+
+Though Shiv was present in spirit, he was no longer in control of this body.
+
+Despite this, he wasn't without choice. He could see something in the light, a faint gleam facing him, and as the brightness dimmed, Shiv realized he was inside a cylindrical room surrounded by a wide, curving panel of glass. He stared at himself, his expression stiff and unnatural, his facial muscles caught in a sort of unwilling rigor mortis. But he saw more than the material. Behind those panes of glass were emotional cores and shrouded clouds of thought. There were twelve of them in total, and they were all observing him, their bodies faint with near-camouflaged vitality and completely hidden biological signatures. They were there, and he could see them, just not as clearly as they observed him.
+
+“Restoring subjects' faculties, relinquishing control over facial biomechanics.”
+
+A soft voice intoned in the chamber, reminding Shiv of his brief stay in the Rubix Well. A flash of discomfort tore through his nervous system, and Shiv felt his jaw cramp, but then he realized he could move it again, and his tongue wiggled. His eyes blinked. His ears clicked as they were finally allowed to twitch and relax after being held in stiffness for far too long. Shiv yawned. His skull cracked in several places, and he rolled his neck, but the rest of his body wouldn't obey his commands. Whatever they'd used to paralyze him was surgical. Only his head had been returned to his control.
+
+But that was a mistake. For Shiv had regained use of his tongue, and now, after his most recent foray into the realm of diplomacy, he yearned to discover what he could do with words alone.
+
+“I'd thank you for letting me have a restful nap, but I'd be lying. I don't appreciate being knocked out simply for snooping around, but I guess I understand. I'd have protective measures too—and my means are likely not as gentle as yours.” Shiv blinked as he watched the empathic cores behind the glass. Most of them were thickening with curiosity, but all held a dense veneer of paranoia and understanding. They were examining him, and they knew what he was. He could tell that from the sheer emotional resonance that radiated from them.
+
+Seconds passed as they said nothing, but then there came a slight click and a hiss behind him. Shiv tried to turn, but his neck didn't bend all the way. He then attempted to grow a set of new eyes on the back of his head and realized this body lacked the skill to do so. I really need to start infusing more skills into my physical vessels—I've got enough vitality to spare now…
+
+Soft footsteps provoked Shiv's attention. He could tell the person approaching was light and took long strides. In the next moment, a man dressed in a long, white coat greeted Shiv. The tesselating fabric of the said coat resembled Inertium on some level, yet it wasn't metal or stone-like, but closer to cloth. On his left breast was an emblem—a depiction of three ravens poking their heads out from the right hollow socket of a skull hanging from a tree.
+
+But then Shiv saw his interrogator's face, and he did a double-take. “Merrielmel? No, you’re—”
+
+“Dustin,” the man said, giving Shiv a polite nod. Though he had a full head of blonde hair, he too was an elf, high of cheekbones, pointed of ears, bright of eyes. However, the left side of his face was infected with gleaming yellow eyes that seemed listless and paralyzed, much like Shiv was earlier. Merrielmel's brother had been infested by the Stranger, but it seemed like that infestation had been suppressed in some way. Now he was across from Shiv, greeting him like a roommate rather than an Inquisitor. “But I appreciate the recognition in your eyes more than you can think. My brother, he never stopped looking for me, did he?”
+
+“Never,” Shiv said. “I… Well, this is throwing me for a loop. I didn't expect you to be alive.”
+
+“I shouldn't be, and if not because of pure fortune, I wouldn't be. Pure fortune and the goodness of others.” Dustin Merrielmel smiled gently. “Just a shame they aren’t so gentle when it comes to their bedside manner.”
+
+“They?”
+
+The eldritch-touched elf regarded Shiv. “You're already acquainted with one of their number—in fact, he is on his way here right now with another of your vessels.”
+
+It took Shiv a few moments to put the details together. “Farwalkers? This place is a Farwalker base?”
+
+“An outpost, an observatory to monitor the movements and the expansion of the Stranger's dimension. It's been here for the past 5,000 years—as have multiple of its attending intelligencers.”
+
+Shiv's mouth fell open slightly. “5,000?”
+
+“Quite a length of time, isn't it? But things change quickly as well, especially when someone who bears more of the System's favor than entire worlds crosses over into the outside to spread their flame.”
+
+From that answer spawned countless questions, the first among which concerned the fate of Blackedge. “Wait, if they were here this entire time, then why didn't they intervene? Why didn't they help save Blackedge?”
+
+Instead of offering a satisfactory reply or filling Shiv with sour doubt, Dustin shrugged. “I do not have the clearance to ask such a question, and neither does anyone else in this outpost. I do know where the request for direct intervention was proposed, and an order of continued non-interference was dispatched from Chorus.”
+
+“They were told to let the town die?”
+
+“They were told to stand by and observe—and usually there is a good reason for such a thing.”
+
+Shiv bit his tongue before he said anything that would ruin relations. Uva had nearly died. Georges did die, so many people died. But they could have been saved. The Farwalkers could have saved them. And they chose not to. Why?
+
+The rage burning inside Shiv cleared his mind and made him think in detail. He considered his next move and hid his emotions well. He didn't react, but he let the anger simmer in the backdrop. “Second question and a third. Why haven't they let you return to Yellowstone? Also, what's with knocking me out when I came in?”
+
+“Because I remain infested by the Stranger's influence, and they still haven't found a way to detach the invasive metaphysics of temporal voyeurism from my flesh and soul.” Dustin sighed. “And without the technology here, the Stranger will awaken in full inside me. He will spread through me, and he will turn me into something little more than a puppet, but something that he can use to spread his influence across Earth. As for your unconsciousness, that is the neural dampener meant to disable you for the jaunt that follows.”
+
+“Jaunt?”
+
+“If measured by sheer distance, the Outside lurks far, far, far beyond the System's full reach and is otherwise untouched by structured matter. To arrive here and set up operations required another means of hyper-light travel. However, the mechanisms of the jaunt are… inimical toward an individual's consciousness. To put it simply, the journey feels longer than you might expect. Much, much longer.”
+
+“Alright, say I believe that: Why am I still held in this field here?”
+
+“To make sure your response upon first waking isn't violent and to ensure you are contained and properly interred before—”
+
+Shiv dodged Backstage. All his bodies plunged across. His compromised body suddenly grew full functionality as he found Dustin flinching back, startled by Shiv's sudden disappearance. The chamber filled with a spreading field of rippling force.
+
+“You know something, Shiv?” the girl asked from beside him, standing on a floating piece of rubble with her arms crossed. “You get involved in some of the weirdest shit.”
+
+He nodded. “Yep. So, what's your take on this?”
+
+“On what? You talking down to the Stranger, or are you finding Merrielmel’s brother and him giving you the ‘just following orders’ excuse for the Farwalkers?”
+
+“All of it.”
+
+She scoffed. “Well, first off, it's fucked up how good you are at harassing things that can squish you dead in a second, but you managed to bully an Eldritch God into compliance, so great for you. Really living up to that Chandler name. But as for Merrielmel’s brother and the Farwalkers? I don't know—to be fucking honest, this is really out of my depth. He doesn't seem to be lying, but they're pretty suspicious. More importantly, they want to see you tagged and placed in a box or controlled somehow. They're clearly worried about you—and even if they are bad people, I think they might be scared people. Scared people can justify some pretty horrible things.”
+
+Shiv grunted in agreement. “Alright, I'm gonna head back across to see what I can make of this, and if I can bring Dustin home. If not, at least I can tell his brother that he's alive. That'll be something.”
+
+“Good luck,” the girl chirped. “Oh, and while you're at it, do remember to tell Dad that the Stranger situation is settled. You know, in case he decides to mount an impromptu rescue operation for you and destroy all that hard work you just did.”
+
+“Right, thanks for the reminder.”
+
+“No problem. Actually, a bit of a problem, same as last time: Come visit me more! The fucking rubble garden is giving me the creeps. I swear, it keeps smacking me in the back of the head when I'm not looking.”
+
+Shiv turned and glared at the sprawling fields of wounds and rubble. Somehow, they seemed utterly innocent, and the Red Rider's Hand at their peak just waved at him innocuously. “Behave, assholes.”
+
+With that, he went across once more, passing the dense threshold between the Backstage and context. As soon as Shiv returned, he felt a crushing wave wash over him. It slipped into his body, passing through his Toughness, into his sinews, and then deeper still. It didn't compromise him immediately—it took a second to assert itself, but when it did, all of Shiv's skills went dormant at once, and his body went slack a moment thereafter. The power they exerted was magical. More importantly, it was likely Animancy. It compromised him from the soul outward, and that told Shiv he absolutely had to see his Magical Resistance applied to every single body he dispatched.
+
+“Sorry, sorry,” Shiv said, wincing as a shrill klaxon sounded inside the chamber. Dustin stared at him in wide-eyed disbelief, his fists bunching up in the quivering fabric of his coat. “Wasn't trying to escape. I just wanted to test something.”
+
+The alarms lasted five seconds longer before everything suddenly cut out, including the field of force. Shiv found himself able to move his entire body, and as he rolled his shoulders and stretched his muscles loose, he gave Dustin an apologetic look and swept the unseen Farwalkers studying him behind the mirror. “Won't do that again! Sorry! I just wanted to see if I could. Curiosity fucks the cat, and all.”
+
+Dustin frowned. “Doesn't it kill?”
+
+“Curiosity’s horny sometimes, I guess,” Shiv replied dryly. “Anyway, you don't need to worry about anything from me. In fact, I got some stuff to talk with you guys about, and if you want to ask me a few things—”
+
+“It's more than that,” Dustin cut him off. He kept swallowing while trying to re-rail the conversation. “It has to do with your two associates, the comrades you escaped the Fairwoods alongside.”
+
+In an instant, Shiv's levity evaporated. He remembered what Produveral said to him—vaguely, anyway. “Right. All of us need to take a trip toward Chorus, huh?”
+
+“That is the new objective, yes. I strongly recommend that you comply.”
+
+Shiv really didn't want to risk Uva or Adam. And as it happened, he also had the perfect excuse to delay. “Yeah, so I might consider complying if I could, but both of my comrades are currently in a Delve—and frankly, I'm trying to help them right now as I'm talking to you. Until they wake back up, I don't think they're going to be in any condition to head anywhere.”
+
+“That's alright; Chorus is patient. We can wait.” The new voice sounded from behind Shiv, and he turned to see the armored and shrouded form of Produveral standing at an open doorway. “Also, charming the Stranger—developing a Unique-Legendary Toughness skill? What the fuck’s wrong with you? Can't you keep a low profile longer than a week?”
+
+“I tried, Duv,” Shiv said mournfully. “I really, really did.”
+
+The Farwalker just stared. “The worst thing about this is that I absolutely believe you. But Chorus? They’re shitting tungsten rods. Not just about you, but about how that Umbral’s going the other way from the System and getting closer to the Outside, and how an imprint of a Fallen Heaven ended up inside your friend somehow.”
+
+“What the hell’s a Fallen Heaven?” Shiv asked, scowling.
+
+Produveral’s shoulders sagged. “That’s… a little complicated.”
+
+“Complicated's fine. I got plenty of time. I'm not going anywhere; not with this body anyway.”
+
+“You know what?” Produveral asked. “Sure. So, imagine instead of having a skill, you have a sort of law imbued inside of you. A law that you can use to replace an aspect of reality…”
+
+***
+
+While Produveral began a long and arduous dissertation filled with words about ontology and metaphysics, the body Shiv had left to guard the surface gateway turned and updated Roland about everything that was happening in real time.
+
+Both the Starhawk and his Avatar were rendered utterly speechless, and as Maia arrived on the scene, she found herself gawking as well, unable to process Shiv’s ridiculous boast. “You did what?” she asked. “You made peace with whom?”
+
+“Yeah, the Stranger's not gonna attack us for now,” Shiv said. “We still need to keep a guard posted in case he proves to be a backstabbing piece of shit, and I'm not putting him beyond that. From what I can tell, he's pretty tired of the fighting, and he doesn't want to gain any more levels. So for now, we don't need to worry about getting invaded by the fingerlings.”
+
+A laugh of pure disbelief slipped out of Roland.
+
+“Madness, absolute madness.” The Starhawk broke from his speechlessness and held Shiv in new—and higher—regard. “To think such a thing was possible at all… No, I was a fool for underestimating you. And you are more than her shadow. You are nearly equal in terms of persuasion when she was of the same age.”
+
+“Kathereine or Veronica?” Shiv sighed.
+
+“The Songbringer,” the Starhawk said. “And this would be a feat worthy of her legend.” And with that admission, a darkness followed, staining the god's heart with regret and animosity.
+
+Shiv scowled. “Hey Starhawk, I can see you. I know what you're thinking and feeling. Don't insult me. I might be like her, but I'm not her.”
+
+“So you say.” The Starhawk flickered, too deep in his own memories to accept Shiv’s claim. “But there was a time she would have made the same claim. There was a time she was as noble as you—no, nobler.”
+
+“And again, the lesson returns to us,” the Harbinger whispered inside Shiv. “You shed your traumas and grow greater, but the others do not leave their burdens behind. They get stronger, but the mountain on their back grows heavier. You travel, you climb, and you reach a new summit. They hold summits over themselves, and they are weighed down because of it.”
+
+Despite the fear and doubt lingering within the Starhawk, Shiv was willing to let matters die.
+
+But he wasn't alone in this conversation. “Starhawk, do not dishonor Legend Shiv this way,” Roland intoned, speaking on Shiv’s behalf. “He deserves more than the discourtesy of being compared to her.”
+
+And Shiv's surprise was doubled as the Educator joined in, in his defense as well. “Far more. You are decayed too, Matthew, for you have forgotten her nature—she wasn't some pure and noble soul at the start, though she was capable of purity and nobility. No, for every measure of goodness within her there was a measure of avarice and domination. She talked people into bending to her will for the sheer pleasure of doing so. She talked people into breaking their relationships, into sacrificing their love for brief moments of pleasure that she derived and then left them aside, scorned and unwanted.”
+
+Shiv stared at the Educator, his eyes wide—his heart was genuinely touched.
+
+And then Maia went about ruining it. “She is also nowhere near as daft and dense as he. Though he is a savant in certain ways, I fear that his genius is far more narrow, and his various expressions of stupidity, far more broad.”
+
+“Thanks for keeping me humble, Maia,” Shiv said dryly. “Also, thanks for leaping to the Gate’s defense.”
+
+“Oh, do shut up, boy. I need to repaint my borders to see the Young Lord protected—I simply trusted that you and Lord Arrow would see the more trifling matters resolved.”
+
+The Starhawk's posture grew laden with awkwardness, and he turned away from Shiv as he mumbled an apology. “Forgive me, Deathless. My past has its teeth deep in me. I fight shadows, but not the shape of my true foe.”
+
+Shiv waved him off—and struggled to hide how affected he was. He didn't expect Roland Arrow to defend him, even if their relationship was on the mend, sort of. Maia, though, was something else entirely. She was still prickly, but her defense was genuine as well, and she seemed more appreciative of him than Kathereine.
+
+“Ah, away with the miseries of the past!” Marikos billowed nearby, holding his mace high in triumph. “And raise your voice in praise of the Deathless! Mighty of flesh, mighty of magic, mighty of heart and peace! Give praise!” Somehow, his scales and armor looked as pristine as ever, unblemished, unscratched, not even smeared.
+
+His constant outpouring of support was appreciated, though. “Give praise,” Shiv agreed with a chuckle.
+
+His laughter faded as a clench of pressure drew his attention. Hymn teleported beside him, the Headmaster’s expression a mask of disappointment, but also trepidation.
+
+Shiv grinned. “Oh, hi, Hymn. Glad you got back so soon. I was planning to speak with you earlier.”
+
+The elf’s face remained cool as stone, and his eyes gleamed with an inscrutable glow. “Why?”
+
+“Why what?”
+
+“Don’t play stupid with me,” Hymn spat. “That facade no longer works, and I am in no mood to indulge it now.”
+
+“Oh, sorry to hear that. Well, I'm in no mood to treat you like a kid. You know why I did it. You know why I enacted peace. You heard what I said? Now you came back for one reason and one reason alone, because you hate the Stranger and you have your trauma and you want your revenge.”
+
+Then Shiv looked down at Hymn’s core and tutted. “Shame that the monster which ruined your life and made you the way you are has got a terminal condition—it's turning into an individual. The thing you dreamed of killing? Yeah, it's probably going to be long dead before you ever get to killing it. But cutting all the way to the core of this bullshit, you're not looking for any of that. You're looking for an excuse to start a fight or get some kind of satisfaction, but this is life, and satisfaction isn't guaranteed. Revenge isn't guaranteed. You played at indifference before, but you clung to that a bit too hard. I see you now. I see how bad you wanted to hurt him. I see how bad you wanted me to break him so you could join in—and do what exactly? Fight a pointless war and struggle against him in this moment where we need peace? No, and you wouldn't have found satisfaction anyway. Again, the thing that hurt you isn't itself anymore. And whatever relief you're looking for is never going to come. You got to deal with that. I can only talk to you, but I can't give you any kind of resolution.”
+
+As Shiv spoke, Hymn swallowed, seeming more emotionally compromised than ever before. His eyes leaked not with tears, but with enkindled flames, and his hands clenched and unclenched like a man struggling between the urge to perform an extremely unwise act of violence or to simply collapse as an adrenaline dump hit him in full force. Faint cracks formed across Hymn's body, but something deeper took shape inside of him.
+
+Shiv felt a figment of himself take root inside the Headmaster. And so he tested his new feat. He spoke to him without even moving his mouth.
+
+“I'm sorry, Hymn. I'm not trying to tear you down or hurt you or anything, but you're as obvious as the Stranger right now. That's the way you acted before: the indifference, the nonchalance. Yeah, I think that's you too, but this, this is too close. This is cutting you open, and you're bleeding in front of everyone. Get out of here. Don't be here right now. You're not ready for this kind of suffering. Most things bounce off of you. This hasn't. This is sinking in deep like a chisel. Get out of here.”
+
+As he spoke to him through the Inland Embassy, the Headmaster's expression broke, and a look of pure dread overcame him—the emotion almost strong enough to push Shiv's skill over the edge.
+
+“Hey, Hymn, can you be less scared? I want to fuse that one with Stea—”
+
+Hymn reached out in a blur and seized Shiv by the throat. He froze as an arrow was pointed against his temple, manifested in a microsecond by Roland—and further empowered by the Starhawk.
+
+The Educator and Marikos weren't idle either. The dragon drew close, his flames igniting, his growl shaking the world. Maia meanwhile held her brush up and frowned, waiting to see if Hymn would give her a reason to paint a new masterpiece.
+
+“How did you get into my mind?” Hymn asked, his eyes burning with intensity, his flesh crawling with eldritch matter.
+
+“Not your mind, Hymn,” Shiv said, tapping the man’s chest casually. “Your mind's powerful. But something else is broken inside of you, and when I found that gap, I built an embassy there. You want to talk about this? I'll be with you later, anytime you want, whenever you're ready. But right now, I think you should go take a walk… and maybe enjoy a pot sticker.”
+
+And thus the previous dynamic shifted entirely. Hymn, who was once inscrutable, carefree, and utterly incomprehensible to Shiv, was now an open book: He was indifferent to most things, but made so by pure trauma, careless and crass as rejection against other authorities, but ultimately a man ruined by a higher power—a man ruined by the Stranger—who was beginning to realize that his revenge, whatever great story of retribution he'd told himself he was the lead of, would never come true.
+
+He didn't release Shiv's throat as he retreated. Instead, he simply teleported, vanishing in a burst of static.
+
+A testament to Roland's sheer Awareness, he somehow managed to track Hymn, shifting his bow in the direction of the Perch without any delay.
+
+“Leave him be,” Shiv said. “He wasn't gonna hurt me. But he might just hurt himself or something right now. So keep an eye on him in case he does something silly like that.”
+
+“How did you–”
+
+“The Harbinger’s a pretty vicious skill. I'm beginning to see why it's restricted. I'm beginning to see in detail. No one comes out of life unscathed, and if a skill is specifically meant to tear into your leftover scars—”
+
+A heart-shaking wail cut Shiv off. “THE BABY’S HEAD! I FEEL IT! I FEEL IT PROLAPSING OUT MY ORGANS.”
+
+Shiv cringed and realized the crisis was actually far from over. “Right, you guys just pretend I said something profound. Let's deal with the male pregnancy problem.”
+
+“I trust you all have this; I return to my higher tasks.” Maia teleported, abandoning the rest of them.
+
+“Fucking chickenshit,” Shiv muttered. “Alright, Roland, Marikos, you ready to help a bunch of men deliver some babies?”
+
+“No,” Roland answered with a scowl, sounding and looking far too much like Adam.
+
+“Indeed!” Marikos shouted with vigor. “I will see these infants pushed out of them healthy and hale and—eh, friend Shiv, may you tell me why are men giving birth?”
+
+“Because of an orc,” Shiv grumbled. “One we need to find and—”
+
+Roland shifted his bow a few degrees and loosed an arrow imbued with Dimensionality and Pyromancy. A second passed, and then he nodded. “Done.”
+
+Now, it was Shiv’s turn to be dumbstruck. “Done? Just like that?”
+
+“Oh, yes, he was hiding in the water filtration plant, which tells me that he likely managed to induce these pregnancies by altering the properties of the water in the Gate, which also means that we likely want to avoid drinking it for a while. It seems that he gained some kind of skill that allowed him to blend with the fluid, but he made a mistake; the temperature of the reservoir he hid within didn't match the others. I boiled the water reservoir clean—and dealt a bit of soul damage as well. I don’t think he’ll be returning fully intact for a while.”
+
+Shiv's jaw fell open wider. “Roland, that might be the most Adam-sounding thing—he pulled this shit back in Weave; he—he found serial killers and stuff.”
+
+“No, Shiv.” Roland smirked. “That’s not me being like my boy, that’s my boy getting it from me.”
+
+“Holy shit…”
+
+“What is there to say, Deathless,” Roland hummed. “You have your tongue, but we Arrows still have our vision, our hearing, our touch, smell, and more.”

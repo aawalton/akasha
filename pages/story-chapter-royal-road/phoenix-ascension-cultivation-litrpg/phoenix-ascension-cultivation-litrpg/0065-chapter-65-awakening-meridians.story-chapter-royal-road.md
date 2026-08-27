@@ -1,0 +1,169 @@
+---
+id: 98122601-2513-5f56-8f0b-b7cf84b5cf44
+page-type-slug: story-chapter-royal-road
+title: "Chapter 65: Awakening Meridians"
+slug: 0065-chapter-65-awakening-meridians
+partOf: phoenix-ascension-cultivation-litrpg
+position: 65
+ownLength: 2249
+unit: words
+publishedAt: 2025-12-22
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2871521/chapter-65-awakening-meridians"
+royalRoadId: "2871521"
+---
+
+The pill melted right as it made contact with her tongue, and she flinched slightly. I wasn’t sure of the taste, but the feeling of having something solid transform into nothing in a few seconds was never pleasant the first time around.
+
+Soon, her expression turned calm, and for a few minutes, nothing happened. I could feel the changes within her body, though, through the faint amounts of Qi that the pill forced her to absorb.
+
+The silence was loud inside her tiny body, as the dormant potential inside awakened, clashing against her untrained body. But she was resilient, I knew she could endure it, and if something went wrong, I was there to keep her safe.
+
+However, no such thing happened. The only issue was when her calm turned into a frown, because the pain of her potential unlocking was greater than anything she must have experienced before.
+
+Shu Xu Ning’s face reddened right before my eyes, as energy tried to escape her body as heat. That was fine, everything was under control, still.
+
+“Endure, this is only the beginning.” Were the only words I could say to comfort her. She nodded, and took a deep breath.
+
+Minutes passed, and the pain increased as her meridians formed, then expanded and contracted rapidly. She was strong, though I could give her that. She didn’ t cry out in pain once, which was more than I could say for other children I’d helped in my past life.
+
+Her will was strong, far stronger than a child her age had any right to be. Not because she was born special, but because of the circumstances.
+
+My heart ached a little when I thought about her fate, her brother’s and her clan’s. I didn’t know the whole story, but had things been different, she would have been a small, yet insignificant child living out her life.
+
+Getting married, raising kids, grandkids, enjoying all the time she could with her family.
+
+But that would never come to be. Fate robbed her of that.
+
+In my daydreaming, I hadn’t even noticed that the process had finished. Cold sweat poured down her face, drenching her body. When she opened her eyes, she wasn’t the same naive girl anymore. Deep within her pupils lay the light of a strong will, of someone who would not be shackled by her destiny— a cultivator.
+
+After catching her breath she jumped out of the bed and lay on the floor, kowtowing. “Shu Xu Ning thanks Miss Immortal for her benevolence. “I have no parents and no clan, and no master to speak of. I will not kowtow to heaven, so I will kowtow to you. ” She said, then kowtowe three times, each time with her forehead planted on the ground right between her palms.
+
+I nodded, though it wasn’t necessary. I wasn’t planning on taking in any disciples. “Raise, child.”
+
+She stood up and cupped her fists. The experience of awakening her meridians must have caused a change in her mindset. Perhaps after feeling the energy of heaven and earth she realised some things, as for what, I couldn’t say for sure.
+
+Everyone had their own epiphanies. “Let’s go get you cleaned and changed, then I will help you practice that cultivation technique.”
+
+As I said that, I could not help but ask myself… Why am I going to such lengths for these children?
+
+***
+
+A woman lay still inside a tiny bamboo house. Her dark hair sprawled over the floor, and bandages covered her body. Some were bloody, some were fresh, and some needed changing. Her chest heaved slowly, and despite her wounds, she wasn’t hurt.
+
+Her pupils trembled as her eyes slowly opened, a weak luster shining in the woman’s black pupils. She didn’t make a sound, and didn't try to get up either. Her body hurt too much to do anything but move her eyes and lips.
+
+“Why are you going to such lengths for someone like me?” Her hoarse voice was directed at a man sitting cross-legged on the porch. Next to him was a kettle with boiling water and a cup of tea.
+
+He didn’t reply immediately, but instead took his time, watching the wind blow through the bamboo shoots growing outside the house.
+
+Finally, after what felt like an eternity to the woman, he simply said “Why do anything?”
+
+That answer wasn’t exactly satisfying to the woman, but she knew it was all she could get from him. Her eyes moved from his back to the ceiling, one that she was very familiar with.
+
+Her old clothes were placed in a corner, waiting to be washed, while a new set was waiting for her by her head.
+
+“You’re almost ready.” The man said after having taken a sip from his tea. He felt it was bitter, but he did like it bitter, so it wasn’t bad. “Your body has almost grown strong enough to be able to handle the awakening of meridians. Well… rather than awakening, it would be more like… creating them.”
+
+He didn’t explain the process in detail, he didn’t have to. The woman knew almost everything about the technique, and how, because of her talent— which was non-existent— she had to go through this painful process.
+
+“You’ve been saying that for a few weeks.”
+
+“It’s to make you push harder. But I mean it this time. After you heal, we can begin. I will start refining the pills for you.”
+
+She nodded, but didn’t say anything else. The intense pain spreading all throughout her body made it a little hard to breathe, let alone speak.
+
+Not to mention, the only reason she was in that state was because the man taking care of her had forced her to the point of exhaustion. He said it was the only way to harden her body enough to begin the process of creating meridians.
+
+It wasn’t something one could simply do. The usual mortal without any talent would remain that way for the rest of their lives. However this man had taken her as her apprentice after taking pity on her, but she needed to be able to cultivate.
+
+Therefore, they began this process of training her body. At first it was simple, run a lot and punch a lot, but then it became run a lot more, do more intense physical exercises, until it turned into getting beaten half to death by the man’s wooden sword. She cursed him everyday for that, but knew that it was in her best interest to remain quiet.
+
+In truth, she was excited. As a mortal, she had never dreamt of being able to cultivate after it was found out that she had no talent. No, she was happy living a simple life though, waiting for her husband to return home from work and raising their kids. She was looking forward to becoming a grandmother as well.
+
+But fate didn’t allow her such happiness.
+
+She closed her eyes, deciding to stop thinking about such depressing things, and focused on her breathing instead. It was a simple technique the man had taught her to relieve a bit of the pain. Breath in, hold, breathe out, hold.  She wasn’t sure why it worked, but it did, and that’s all that mattered.
+
+After an incense stick’s worth of time had passed, she stood up and grabbed a gourd. Her throat was dry and her body screamed for hydration. She didn’t hesitate to do it all in one go, then stared at the man who had walked toward a single bamboo shoot some time earlier.
+
+He was staring at it quite intently. It was something he did often, but the woman didn’t know why.
+
+After putting on a new change of clothes, she approached him as silently as she could, but not because she didn’t want to be detected. Nothing in a large area could escape that man’s awareness.
+
+No, she just felt like being silent.
+
+“Fa Xiaolan, did you know that bamboo grows really fast?”
+
+The woman nodded.
+
+“But do you know why?”
+
+She shook her head.
+
+“It’s because it wants to reach the sun, and it grows in dense forests where sunlight is scarce. So in order to reach the nutrients it needs to grow and thrive, it grows high and fast.”
+
+Fa Xiaolan nodded, a glimpse of understanding shining in her pupils. The man then grabbed his sword and swung it at the single bamboo shot, cutting it and making it fall with a violent thud. “But just as it grows fast, it gets cut fast. It’s weak to the sword, and strong to the hand, but in the end it still falls.”
+
+The woman didn’t say anything, but she understood what the man wanted to say. ‘Keep your head down and stay humble. Hide your strength so you do not get cut down.’
+
+She wasn’t sure why he was saying that, as she wasn’t much of anything. If he thought she would have an incredible talent after using the technique he created, she found it was an impractical joke. She truly did find it difficult to believe that she was anything special, which was why she didn’t understand why the man had taken her in.
+
+But the truth was that she wanted the power, no, she needed it.
+
+“Go meditate and focus on your breathing. I will begin preparations.”
+
+“Yes, master.”
+
+“I told you not to call me that. Now go.”
+
+The woman nodded and entered the house, taking a place on a mat, and closed her eyes as she sat cross-legged.
+
+A few days later, the time to awaken her meridians had arrived. Her master had prepared a medicinal bath for her on top of the pills. She took a whiff of the aroma, and the smell always made her want to throw up. It was nasty.
+
+“That’s the good stuff, you know? The worse a medicine tastes, the more effective it is.”
+
+She didn’t believe that, but she also wasn’t about to rebuke her master.
+
+Without hesitation, she took off her clothes and entered the bath, immersing herself in the hot medicine-filled water. “Use the breathing technique I taught you and focus on opening your skin.” Her master said, and she did as instructed.
+
+Almost immediately, a strange force entered her body. She was unfamiliar with the feeling, but not with the force. It was, after all, something her master used quite often— Qi.
+
+However she had never had any Qi inside her body before, so the feeling was foreign to her.
+
+“Get used to it, that energy is going to be flowing through you everyday from now on.”
+
+Silence prevailed for a while as the woman’s chest heaved. It started to get painful, and her breathing had begun to turn irregular. Her skin was burning, as if an entire colony of ants were walking and biting her at the same time.
+
+The woman’s once pale skin turned bright red, and her expression transformed into a frown. When it looked like she was about to give up, the man pulled out a pearly white pill and placed it in the woman’s mouth.
+
+“Don’t swallow, allow it to take its natural effect.”
+
+Fa Xiaolan nodded and allowed the pill to melt inside her mouth. A shudder ran down her spine at the strange sensation, but she endured the desire to throw up.
+
+It was only after five minutes had passed that cold sweat began pouring down her forehead. Her arms, legs and torso began spasming as something grew inside them. She knew very well what they were.
+
+The foundation of any cultivator, their first requirement toward starting their path to immortality— Meridians.
+
+At first they were sole, not connected to anything, and smaller than the strands of her hair. But as time passed they grew longer and longer, until they all connected in a harmonious manner.
+
+If she was hurting before, then after they connected, she was beginning to burn from the inside out. It took all her strength not to cry out in pain, and even then she could only suppress it down to groans.
+
+The feeling of having her flesh pushed outward to make space for a brand new organ wasn’t something she wanted to get used to. Unsure of how long it would take for the meridians to fully form, though, she could only endure, barely holding back tears.
+
+However, the pain didn’t last long.
+
+After an incense stick worth of time’s passed, the meridians became ethereal, and her pressurised flesh returned to normal, healing and becoming stronger due to the new organs in her body.
+
+In that moment, she felt as if the heavens and earth were whispering their secrets to her. She didn’t know what that meant, but some things that were unclear to her had started to make sense.
+
+Of course, she was still clueless about a ton of other things, but she now knew one thing for sure.
+
+As her eyes opened, she looked at her master. “So that’s what it was.”
+
+He nodded, smiling. “Indeed. I’m glad you understood it so quickly.”
+
+“It was the only thing I understood, really.”
+
+And the thing she realised was that her dantian, unlike most other cultivators, had already been formed. More than that, it contained a small world. It was tiny, tinier than a rock, and it was nothing to brag about… but it was something that very few people had.
+
+Her master called it a True World Dantian.

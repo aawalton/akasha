@@ -1,0 +1,183 @@
+---
+id: e4a1cf74-a0c6-5fae-b97a-61cbd8fac2ae
+page-type-slug: story-chapter-royal-road
+title: "Chapter 70: Threatening"
+slug: 0070-chapter-70-threatening
+partOf: phoenix-ascension-cultivation-litrpg
+position: 70
+ownLength: 2453
+unit: words
+publishedAt: 2026-01-04
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2909638/chapter-70-threatening"
+royalRoadId: "2909638"
+---
+
+Life sure is good. Chiao Zhen thought as he took a swing from the wine. It was really good wine, in his opinion, and he didn’t care how much it cost. He would be rich, after all.
+
+That good-for-nothing son of his finally did something good, and his ‘investment’ paid off big time. The pill that he brought home from those two Shu siblings would sell for a lot of money at the auction, and not just any auction.
+
+The yearly auction that would take place in a few days in this Hu village of his was nothing compared to the big auction in Golden Arc City, and that was exactly where his pill would be sold. Tomorrow, he would set off for the city, and the day after, he would be richer than he ever dreamed of being.
+
+Compared to the Hu village, Golden Arch City was enormous. Chiao Zhen once dreamed of living there, until life slapped him in the face and made him call it daddy. His wealth was nothing when pitted against the giants in that city, and he had no special trade that could get him in.
+
+Even after annexing the formerly wealthy Shu family, it was still not enough, even though his capital had more than doubled due to that. Unless he found a way to acquire a special, unique trade or amass a huge fortune all at once, then he had no way of achieving his dream.
+
+But who would have thought that a cripple and his sister would be such goldmines? His son, Chiao Gu, had managed to snatch away a pill, an heirloom of sorts, before the idiot could use it. He didn’t think much of it at first, but wanted to get it appraised anyway.
+
+After all, one could never know what sort of hidden treasure it could be.
+
+His surprise was immense when his clan’s alchemists, useless as they were, confirmed that the pill had immense value. However, they didn’t know how valuable it was exactly, since they were merely at the early core formation realm, but Chiao Zhen knew how to get it properly appraised.
+
+After pulling some strings, a renowned alchemist from the Myriad Market came and said that it was a pill at the level of the Soul Transformation level. Meaning that only someone in that realm could even dream of having a chance at refining it.
+
+And it stood between his fingertips.
+
+Chiao Zhen had a bit of a headache when thinking about it, and didn’t know how to hide it away faster. Thankfully, the alchemist wasn’t too greedy. He said that he would get him a spot in the auction in Golden Arch City for a small fee, which Chiao Zhen accepted.
+
+Lo and behold, a few days later, Chiao Zhen had an official invitation to the auction, signed by the Myriad Market manager of the Golden Arch City branch.
+
+Needless to say, the man was really happy.
+
+Thus, he decided that he had to celebrate, no matter the cost. He hired the best courtesans to dance and entertain him, and they brought the best wine along with them.
+
+So he celebrated, alone.
+
+“Brother Chiao, I see you’ve got yourself quite the feast here, mind if I sit down?” The voice of a man startled Chiao Zhen, his heart skipping a beat as he raised his head. Through his blurry vision, he saw a middle-aged man with a face he almost recognised.
+
+“Shu… Ming?!” He explained, fear sipping through his voice.
+
+“Almost, almost.” The man chuckled as he approached. The closer they got, the easier Chiao Zhen could see him. At first, he was scared he’d seen a ghost, but in actuality, he didn’t. The man before him had short hair, a short trimmed beard, brown eyes, and a face that pissed him off.
+
+But it wasn’t the man he thought he was; there were differences, both in bearing and appearance, though subtle.
+
+“Who are you?”
+
+“Why, you don’t recognise me? I guess you wouldn’t, you’ve never seen me, have you?” The man replied to a question with another question, but that made Chiao Zhen think.
+
+A coincidence that a random man looked like his biggest enemy was far too convenient. No, they had to be related somehow, and even though he didn’t know the man, he could guess his identity.
+
+“Shu Lao?” He blurted out a name he never thought he would. “I thought you died… no, you did die!”
+
+The man chuckled and sat down opposite Chiao Zhen, grabbing the wine and pouring himself a cup. “Did I? Then why am I here?”
+
+“Impossible!” Chiao Zhen spat, now sure that the man before him was a ghost.
+
+“Very possible, my dear friend.”
+
+“What do you want? Have you come for revenge?”
+
+The man then clicked his tongue and shook his head. “Not at all. Whatever happened, happened; it’s not my place to seek revenge for the Shu family. When I… ‘died’, I washed my hands off the clan.” Hearing that, Chiao Zhen’s nerves calmed down a little. However, Shu Lao’s next words sent his heart racing. “But I am here on a matter regarding Shu Wao Tu and his little sister.”
+
+Chiao Zhen gulped, but remained firm. He had long since noticed that his two guards had been knocked down, and he would not be able to call for more without provoking the ghost in front of him. At that moment, he cursed himself for not hiring more people despite having more land.
+
+“What about them?”
+
+“I believe your son… Ci- Chiao Gu took something that belonged to them, yes?”
+
+Chiao Zhen’s heart raced, and he was of a mind to attack the man. He could not detect his power, but he himself was a Middle Stage Foundation Establishment Realm expert, so he had some measure of confidence in himself.
+
+But he didn’t.
+
+“I don’t think he did, why? What do you care about it?”
+
+“Well, it just so happened that the pill was mine. It was a gift I gave him after hearing of his plight, as a second chance of sorts.”
+
+“Why did you not keep it for yourself, then?”
+
+Shu Lao chuckled. “What use do I have for it? Not to mention, I can make more if I wish to. No, but as his uncle, I felt I had some sort of duty to help him.”
+
+“You-”
+
+“Now, Chiao Zhen, we can do this the easy way, or the hard way, which one do you prefer?”
+
+Chiao Zhen remained silent, calculating his odds. If that Shu Lao could make such a pill, that meant that he was already in Soul Transformation, a realm so far above him that he could not even see him if he looked up.
+
+However, he could be lying. He had to make sure that what Shu Lao said was true before making any decisions.
+
+“You must be wondering if I’m lying.” Shu Lao chuckled again, which started to give Chiao Zhen a small headache each time he heard it. It sounded way too feminine.
+
+However, he had no time to think about that, as Shu Lao conjured a flame in his palm. It looked ordinary by any means; however, the aura it gave off… It was a flame that contained such immense profundities that Chiao Zhen could not even look at it without his eyes hurting.
+
+Not to mention that the moment it appeared, the temperature in the room rose sharply, making it so that both he and the women he was with were sweating.
+
+But above all, that flame contained the aura of a Nascent Soul cultivator.
+
+Chiao Zhen had gotten the urge to kneel down and prostrate, but he resisted it, unlike the two women by his side, who kowtowed and trembled in fear.
+
+Truly, it was hard to resist that aura as a mere mortal. Shu Lao was holding back, for they didn’t immediately die upon sensing his aura.
+
+“I hope that’s enough proof.” He said, flicking his wrist and extinguishing the flame.
+
+Unbeknownst to him, Chiao Zhen had been holding his breath and found himself releasing it after the fact.
+
+“Chiao Zhen, I have an easy way for you. I know you still have the pill, so you can give it back to your son, and your son can return it to its rightful owner, simple, right?”
+
+“I…”
+
+“Now don’t be so hasty to refuse. You’ve seen my strength, haven’t you? If I so wished, I could burn your entire estate to the ground tonight, and only ashes would be left tomorrow morning. So, which one will it be?”
+
+“Shu Lao… I— I can’t give it away.” He said, honestly, pulling out the contract from his robes.
+
+Handing it over to Shu Lao, he let the man read it carefully, while explaining briefly. “I signed it away with the Myriad Market. If I just give it away, it will bring me trouble, equal to you destroying my estate. The only… way out would be for me to lose it…”
+
+“Then hand it over to me, and we can say it got stolen, easy, right?” Shu Lao handed the document back with a smile, and his easygoing reply bothered Chiao Zhen more than he thought it should have.
+
+“I… that would still be difficult. The only way for me to have a plausible excuse was if I lost it officially, in a fight or trade.”
+
+“A fight, you say? So if I beat you to a pulp right now, it would be official?”
+
+“No!” Chiao Zhen yelled, waving his hands. “It would need official paperwork and witnesses.”
+
+Shu Lao rolled his eyes, then stood up.
+
+“Fine then, we will have a duel.”
+
+“We-we?!”
+
+“No, you fool. Since the younger generation is involved, we can let them duke it out. Since Shu Wao Tu is out of commission, Shu Xu Ning will fight against Chiao Gu, and when he loses, Chiao Gu will give the pill back to Shu Wao Tu.”
+
+When he loses, not if. Chiao Zhen took note of those words, but there was little he could do. Such an arrangement could be understood by the Myriad Market, and even though he’d have to pay a fine, it paled in comparison to the penalty he’d have incurred if he didn’t have a reason.
+
+And between having his estate go bankrupt or up in flames, he preferred paying a fine.
+
+“A-alright.” He said, and the man named Shu Lao stood up and left, that wretched smile never leaving his lips.
+
+Chiao Zhen looked at his departing figure, grabbed the wine jug, and made a motion as if to throw it. However, he decided against it and gently placed it on the table.
+
+“Go back.” He instructed the two women, and they stood up, bowed, and left. The hours had already been paid, but he couldn’t enjoy them anymore.
+
+He should have known better than to think that such a precious pill would randomly fall from the sky, and in the hands of an orphan, no less. The truth was, he’d been a fool, and now he would have to pay for his actions.
+
+Chiao Zhen took a swing from the wine jug, then some more, until the wine fell on his shirt and pants, and only then was he satisfied. He knew that he didn’t have much time, and his good-for-nothing son’s cultivation was worthless.
+
+Thankfully, Shu Xu Ning was not a cultivator, and if she were, she could not have advanced fast, so Chiao Gu’s victory was assured. But he would make sure he won, because the consequences would be hard to bear otherwise.
+
+***
+
+“Phew…” I let out a relieved sigh as I left the estate. Talking to that guy took a lot of mental effort on my part, and I was far too old for these tricks. Using the Perfect Disguise skill took a lot of effort on my part, and much to my delight, it had ranked up from Beginner to Intermediate during that exchange.
+
+That was what gave me the crazy idea of faking being a Nascent Soul cultivator. I knew what the aura was supposed to feel like, so naturally, I could replicate it rather well. As a result, my plan went without a hitch, almost. But a duel was just as good.
+
+The only issue was the three-rank gap between Shu Xu Ning and Chiao Gu. However, given her advancement speed, that gap would close fairly soon.
+
+Even if it didn’t, if she reached at least the second stage of Qi Condensation, then she could wipe the floor with the guy— with my training, of course.
+
+But I could finally see an end to this quest. I didn’t know how I could deal with it, but thankfully, the pill had not gone away yet.
+
+After this business finished, and I got the reading skill, I could read the recipe Yo Na had, then break through and steal the flower, refine the pill, and be done with it.
+
+A bad premonition was swelling up in my gut, and I didn’t want to stay in this area more than I had to. The Qi quality was excellent, but danger lurked everywhere, and I had no intention of dealing with more of it.
+
+Not to mention that the more I stayed here, the higher the chances of the Core Formation guy chasing me were.
+
+What I needed next were Spirit Stones, so I could absorb them and increase my cultivation, and also buy a detoxifying pill for Shu Wao Tu. If he died, then the quest requirement of ‘save him’ would go unfulfilled, which would suck.
+
+So in conclusion, I had a lot to do, and honestly, I just wanted to cultivate.
+
+But the rewards were amazing, and they would aid me in my cultivation, so I might as well.
+
+The night was still young, and I was tired, but also hungry, so I left the village and wandered about until it was safe to change back into my preferred form. The clothes? Why of course I wore the same ones as I did when I was a woman. Who cared if they looked weird on me? Nascent soul experts were eccentric anyway.
+
+***
+
+“A trip to Hu Village?” A man with long black hair and a shaven face asked as he played with a spirit stone between his fingers. “Sure, I had some business there anyway. The compensation had better be worth it, as I would not have left the city at such a critical juncture otherwise. My nephews? What about them, if they sought death, then they deserved it; however, I still have to save face, don’t I?”

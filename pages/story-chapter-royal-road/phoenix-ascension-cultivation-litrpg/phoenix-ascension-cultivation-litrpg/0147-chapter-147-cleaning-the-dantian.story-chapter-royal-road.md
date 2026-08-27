@@ -1,0 +1,235 @@
+---
+id: 1ac13410-3f44-5524-94e9-811baa4f614c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 147: Cleaning the Dantian"
+slug: 0147-chapter-147-cleaning-the-dantian
+partOf: phoenix-ascension-cultivation-litrpg
+position: 147
+ownLength: 2554
+unit: words
+publishedAt: 2026-07-05
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3634978/chapter-147-cleaning-the-dantian"
+royalRoadId: "3634978"
+---
+
+I was not expecting him to want me to start so soon. Well, he was mostly joking when he’d told me to start right there and then, but it was close. Thankfully, I’d told him that I was tired, and he allowed me one day of rest.
+
+What an asshole.
+
+I was given a room, at the very least, and the three Spirit Beasts followed me. They looked far less shaken than before, so at the very least that was working itself out.
+
+I was planning on asking what’d gotten them so shaken, but it was either the fact that I could cultivate, or the Spirit Beast titled ‘Little Emperor’ sleeping in my dantian.
+
+Or maybe the Phoenix egg? Or the giant lake? My dantian had quite a lot of things in it and well, I would need to sort it out at some point.
+
+One of the most important things I wanted to do was check out my great haul from the treasure room. I didn’t think there would be anything that I’d needed for Yo Na’s elixir, but if there were, I would be happy to have them.
+
+I hadn’t really looked at what I'd snatched, or how many things I’d snatched. I wasn’t going to look at all of them either.
+
+I could scan my entire bag of holding and dantian rather quick though, so that wasn’t an issue either.
+
+Finally sat down somewhere comfortable, I decided that I should hold up on that and discuss what had happened with the three Spirit Beasts that have been largely silent.
+
+Even the white tiger and the small red bird were more or less not saying anything, though that wasn’t out of the norm for them. They weren’t exactly… bright.
+
+But the black turtle had been quiet ever since I’d taken him out of my dantian.
+
+“So uh… What’s got you all shook up?”
+
+They turned to look at me, eyelids blinking rapidly. It was a long moment before the black turtle said anything, and even then, it was in a very rough voice, and a fearfult one.
+
+“What is that, in… inside you?” He finally asked, and the question was expected, if not a little strange.
+
+“Which do you mean?”
+
+“The… the sleeping one.” The black turtle gulped, fear visible in his eyes.
+
+“Why?”
+
+“His presence… it… it was… powerful. It made me want to prostate, and I’d felt like if I didn’t… I would die. These two were even worse off. The bird straight up fainted.”
+
+“Oh… He is the son of a friend… I am not sure who his father is, but considering who my friend is, well, he wouldn’t be any normal Spirit Beast either.” I said that, but Yo Na was definetely just a normal Spirit Beast that was very, very strong.
+
+“And the egg was my Mother, in case you wanted to ask.”
+
+“Your… Mother?”
+
+“Yeah, long story, doesn’t really matter. But don’t worry, neither would hurt you. Not that I was going to put you all back in there. It’s barely got enough space as is.”
+
+“Right…” The turtle nodded. “Please don’t, that place is truly horrifying.”
+
+The other two nodded, agreeing.
+
+“I see you have no questions about me having that space.” I’d asked a probing question, wanting to see how they would react.
+
+“Well… At this point, how could I be surprised? A Spirit Beast that can cultivate, why not?”
+
+“Well, I’m glad we got that out of the way. I have a few things that need to be tended to, so you can do whatevr you want while I work on that.”
+
+“Sure…” The black turtle replied, and I’d turned around, going inside my dantian and bag of holding.
+
+There were many things in there, I had to do some sort of Spring Cleaning at some point. Especially before breaking into Foundation Establishment. I was not exactly sure of what would happen if they were there… Wait, what would happen to Mother and Yo Na’s son?
+
+All very good questions, and all I had no answers to.
+
+Something to figure out in the future, I supposed.
+
+While I was thinking that, Split Focus helped me sort the items I’d obtained into a few categories. Weapons, plants, alchemy, materials, and shit I have no idea about.
+
+Weapons? A lot of them. Neither of them were special in any sort of way, besides having some elemental affinities or other effects I wasn’t really interested in.
+
+What did I need a weaponf or? I had talons!
+
+I did put away a nicer sword though. The rest of the things, I was going to sell or give away to someone. I wasn’t really interested in them.
+
+The alchemy ingredients were rather nice, and I was going to keep all of them. I could not identify what they were, not with the skill, but my alchemical knowledge was still vaster than the seas, so I could tell what they were used for.
+
+Many of the materials were also things one needed to craft powerful equipement, so I’d decided to keep them, since many could be used in alchemy as well.
+
+Now, the most interesting part was the very thing I’d gone in there to steal in the first place.
+
+The Qilin Horn.
+
+Its energy could be felt thorough the dantian, and I could tell that the Little emperor was interested in them, but I could not give it to him, no matter how much he begged in his cute sleep.
+
+The horn was mine, and I could not wait to see just what sort of benefits I would get from it.
+
+And I did have to wait, as I wanted to maximise my potential by cultivating the lighting technique to its fullest potential.
+
+But the horn wasn’t the only rare Spirit Beast material in there. They didn’t have any Phoenix feathers, fortunately, but they did have some fangs from a snake of sorts, that were still dripping with venom.
+
+Digusting.
+
+Aside from those pieces of trash, there were feathers from other birds, and claws and talons from what looked to be powerful predators. I could not point out all of their names exactly, but they were all rather valuable. I had no use for most of them currently though.
+
+But maybe in the future I would find a complicated recipee that required a specific brewing method as well as materials and ingredients that were not only rare and hard to get, but also incredibly annoying to collect.
+
+Yeah, it was Yo Na’s recipee that gave me a lot of trouble.
+
+I’d looked through the things I’d snagged again, and saw a few things that were helpfull. I’ve put them aside for the moment, but they weren’t exaclty things I could use until I’d broken through into Foundation Establishment.
+
+I also wanted to figure out what sort of soil I would need. My seed didn’t require anythingf specific, but I ‘d still like the best of the best if I could help it.
+
+Now that everything was in order, I’d gotten out of my dantian and blinked a few times. I was beginning to feel rather sleepy, all things considered.
+
+Giving the three Spirit Beast companions a look, I’d noticed that they were already fast asleep. I followed suit shortly after, my body tired and mostly dead from all that mental work.
+
+The next morning was rather awkward, as Meng Mao was sitting right outside my door. He was probably very excited for me to put pressure on his children, but did he have to come as soon as the sun came out?
+
+I’d woken up and preened my feathers, letting him wait. I could not look uncout even if I was meeting children.
+
+Appearances mattered.
+
+After finally getting ready, I’d opened the door and gave him a bored glare. He didn’t seem to mind and walked ahead, probably wishing for me to follow. I’d shrugged and did so.
+
+He brought me to a large room with a few couchons on the floor, and a large stage with a courtain hiding what was behind with some incredible efficiency.
+
+“So… is this where I will put pressure on them?”
+
+“Precisely, please go easy on them at first.”
+
+“And my cores?”
+
+“I have about two hundred ready, with many more being purchaed. I do have to do it discretely, so forgive me if it takes a bit of time.”:
+
+“That’s fine.” I’d said nonchlantly, but two hundred cores was… a lot. I don’t think I’ve ever had that many cores, itw as just an incredibly large number.
+
+And if they were from the Foundation Establishment tier or better… Hehehehe.
+
+I was going to be a very rich bird! Very powerful bird even!
+
+“I can see you’re pretty happy about those.” Meng Mao chuckled.
+
+“Shut up.”
+
+“Alright, alright. Anyway, you will not actually show yourelves to my children and nephews, and nieces, but will stand behind that curtain. It is protected from Divine Sense, so even if they had any, they would not be able to see you.”
+
+“I see, you said a few children, now we’re extending to the entire family line?”
+
+“Do you want the cores or not?”
+
+“You drive a hard bargain.” I said, and spread my wings, flying over to the other side and behind the curtain. Much to my surprise, he’d given me a nice couchoned seat to sit on. I appracited that.
+
+I took my place and waited, for my cores or for the children to arrive. Tthe former was much more preferable to me, but either was fine.
+
+Soon, I’d heard the screaming of children enter the hall, and there weren’t ‘a few’ but two dozen.
+
+Two dozen little children running around and ready to cultivate.
+
+Well, they weren’t all that little. Their ages ranged from nine to twelve from what I could see, which was just about the age range when the body was prepared for cultivation.
+
+I could not help but notice a few even younger ones though, which was a little weird. Meng Mao was probably experimenting with something.
+
+In that case I would definetely have to go easy on them. I didn’t want to hurt them by accident.
+
+Meng Mao quieted them down with a clearing of the throat, and they all took their seats. More seats appeared out of nowhere, as if Meng Mao wanted to pull a prank on me.
+
+I’d internally rolled my eyes. Either way, I was going to get my core, so I was happy.
+
+When everything went quiet, Meng Mao began presenting me.
+
+“I have invited a friend over, to help you all cultivate. She will be here for the next two weeks, and will train your resilience. What matters most in this exercise is that you resist her pressure, but the dififcult will keep increasing regardless.
+
+“I can only hope that all of you will have a wonderful experience, and don’t worry, she will go easy on you.”
+
+None of the kids replied, but I could sense their excitement. It was quite ltierally flooding the room.
+
+“Without any more delays, please do your best.” Meng Mao said, his face looking over them with real, geniune care and love.
+
+Ah what the fuck…
+
+I could not not help a guy like that. Damned kids.
+
+When he finished his sentence, I’d unleashed about a third of a percen of my pressure. It was a pure, Phoenix pressure that would force many lesser Spirit Beasts to bow and worship.
+
+These kids were humans though, so all they faced was an innate instinct to run away in fear.
+
+Those that had cultivation began circulating their base, whilse those that didn’t merely endured. I’d adjusted the pressure based on the youngest ones, and kept it steady.
+
+I wasn’t sure how long it would take for me to have to increase it, but I didn’t mind.
+
+I could use Split Focus, which hasn’t ranked up yet for some reason, and do other things on the side. Such as sorting my skills, or cultivating my Beast Core. I definetely needed to get it to as high a rank as I could. I needed the strength to fight and destroy any enemy that came my way.
+
+I was tired of close calls, and of being weak. Not to mention I had no idea what would wait for me in that secret realm. The stronger I was, the better.
+
+And that went double for all the ways I could improve my cultivation in. Not only did I need to max out my actual cultivation, but also the technique. If I didn’t, advancing past my current rank would be hard.
+
+And I would need to figure out a way to get the Divine Lightning Construction Technique to the Nascent Soul realm, or I would need to find another one, which was quite a drag.
+
+Where, there were a few scrolls within the treasures I’d stollen, but I didn’t bother reading them. Maybe one of them had a super powerful technique I was not aware of, and if I did cultivate it I would become the stronger cultivator in all of the worlds…
+
+As if! Such nice things don’t happen to anyone.
+
+I’d stopped paying attention to the outside world, as Split Focus helped me keep the amoutn of pressure in check, but I did notice Meng Mao walking in and waving his hand, leaving a pile of cores on the floor.
+
+I was rather happy about that. I could tell from their feeling that they were all at least at the late stage of Qi Conendsation, but none were past Foundation Establishment.
+
+That was fine, since all I needed was the Qi from them.
+
+I did just realise that I would potentially get a lot of skills I wouldn’t need from them.
+
+Which meant that I could sell them.
+
+Which meant that I could get more Skill Points.
+
+Which meant that I could merge more skills and clear up my list.
+
+Who would have thought all I needed to achieve my goals was a healthy amount of cores and money?
+
+Was there anything money couldn’t solve?
+
+Probably not.
+
+And with these on hand, I started absorbing them. Not one by one, but not all at once. I wanted to enjoy the process as much as possible and also figure out what the best method to advance my core was.
+
+It was currenlt yat the fourth stage of the Kindled rank, which meant something, I supposed. I couldn’t tell if it had something to do with the fact I was a Phoenix, or if everybody else also ahd the same thing.
+
+But what mattered the most was focusing on how the core evolved based on how much I’d absorbed.
+
+The first fice cores netted me about two hundred Qi, which was on the rather low side, but I didn’t mind. No skills, though.
+
+All of that Qi wanted to go into my dantian, but it was full, so I’d guided it toward my core instead.
+
+It absorbed all it could, but it couldn’t take a lot at once. The rest of the Qi wasn’t wasted though, as it went to reinforce my flesh, feathers, bones and everything else.
+
+With that more or less done, I was starting a very exciting journey: Sitting down and cultivating.

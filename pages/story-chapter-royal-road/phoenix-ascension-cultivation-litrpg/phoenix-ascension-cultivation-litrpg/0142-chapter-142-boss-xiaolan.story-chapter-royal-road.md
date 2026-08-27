@@ -1,0 +1,173 @@
+---
+id: 587e12e1-c85a-5ac4-b1c8-4bbc926f23fb
+page-type-slug: story-chapter-royal-road
+title: "Chapter 142: Boss Xiaolan"
+slug: 0142-chapter-142-boss-xiaolan
+partOf: phoenix-ascension-cultivation-litrpg
+position: 142
+ownLength: 2206
+unit: words
+publishedAt: 2026-06-23
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3581339/chapter-142-boss-xiaolan"
+royalRoadId: "3581339"
+---
+
+Staring at the large image of a dragon in the sky, my beak was ajar. I was not willing to believe that Meng Mao knew a dragon, dragonkin or any variations of a dragon, but I was also unable to deny the very facts before my senses.
+
+There was a dragon in the sky, right above the big man’s mansion.
+
+Wasn’t this distraction a little too much?
+
+I wasn’t sure how it was even possible for something like that to happen. It was, at the end of the day, just a small feud between two rivals. Why would a dragon of all things join the fray?
+
+My only good, working theory was that Meng Mao’s friend had some sort of connection with the dragons. That was, of course, very unprobable.
+
+Seeing that not only the elders, Butler Mo, and most of the guards, but also Guo Lu Poo himself got out of the building, I could only assume that what they were sening was the real deal.
+
+But then, why did they yell something about an uncle? I was incredibly confused. This was all too much, in too short a period of time. Just what in the world did Meng Mao unleash?
+
+I was really tempted to go outside and see for myeslf, but I held back. This was the opportunity Meng Mao created for me, and my own distraction would start soon.
+
+Though by now it was a little difficult to compare the two. My small destruction paled in comparison to a mythical beast appearing in the sky.
+
+With the little girl distracted, as in, she wasn’t in the room, and few people were in the manor for that matter, I went out. I’d still used my stealth skills, but there was nobody who could detect me, or even pose a threat to me, left in the manor.
+
+Still, I played it safe. You never knew if a janitor was a secret expert.
+
+Making my way toward Guo Lu Poo’s office, I made sure there was nobody guarding it, and walked in front of the door. I had to stop there, since I’d detected a bunch of formations earlier. Thankfully, they weren’t all that complicated.
+
+Especially not when compared to the ones in the other room. After a few minutes of contemplating, I used my wing to draw a symbol, and sent it flying toward the door.
+
+The mechanism opened without a sound, and the door swung open without a hitch. I walked in, not detecting any trap with my Divine Sense, and scanned the room.
+
+It looked like a normal, average office. There was a long desk with documents piled on top, with ink and brush, and two comfortable chairs on each end. Surrounding the table were shelves stacked with books, many of which were sealed with runes.
+
+On top of that, there were many scrolls just littering the floor. None of them seemed important, so I skimmed their titles and moved on.
+
+There were many plants in that office as well, but they were all regular, normal ones. Bonsai trees and bushes, as well as flowers. I hadn’t taken Guo Lu Poo for a man with delicate taste, but here I was.
+
+Now that I was truly in his office, I wanted to hurry up and find what I was looking for. However, looking through so many documents was going to be a pain. Even using my Divine Sense, there were far too many books that required breaking a seal to acces even the title. Overall, it was going to be a very painful ordeal, that much was for sure.
+
+◈◈◈
+
+Outside Guo Lu Poo’s residence, Meng Mao stared with awe at the dragon screaming from the sky. It was nothing but an illusion, he knew that much, but the mere image made him take in a sharp breath.
+
+He’d never met a dragon before, and if the person he’d been talking to for so long was a dragon, or dragonkin, then he was happy that he’d always been polite.
+
+He watched from the peak of a certain tower belonging to the Myriad Market. He could not have missed such a spectacle for all the money in his safe. However, he was expecting an explosion, some sort of simulated attack, not a full on brawl.
+
+And his client had called Guo Lu Poo ‘uncle’. Now, he doubted that they were actually related by blood, and the way he’d said it sounded extremely deragotary. Still, he was curious, as everyone probably was, what he’d meant by uncle.
+
+I suppose we are going to find out, then.
+
+By that point, he wasn’t sure what he’d gotten himself into. If his client was that powerful, then why did they request that he get a Qilin horn? Could they not have just gotten it themselves?
+
+With that sort of strenght, it was pretty probable that they could. But now the little Phoenix was going to do that for them. The entire situation was strange.
+
+At first, he’d thought he was merely doingh a business deal, but it became obvious now that he’d been used for something else.
+
+The client did not want to purchase a Qilin horn, they wanted to know where they could get one. That meant that they either had no idea that the Guo clan possesed one, or knew, and wanted to make sure?
+
+There were too many variables and he didn’t even have one percent of the story. For the moment, all he could do was watch.
+
+When every powerful being from the Guo clan came out, he knew that he’d won. All that needed to happen was for the Phoenix to go ahead and steal the horn and the records, and whatever else she wanted.
+
+He had trust in her, despite their differences. There was a karmic bond between them, and she had an inkling to help people. He didn’t know why, but he’d seen what she’d done for the twins, and was confident it wasn’t just a fluke.
+
+Plus, she was very intersted in the Four Corner Sword Realm, and he had means to get one spot for her.
+
+If she did as she was told, then he was happy to oblige. Now that everything was in place, he kept watching.
+
+“Guo Lu Poo, you’ve shown yourself!” The dragon in the sky roared, its figure barely moving as the clouds churned with thunder.
+
+The man in question was stunned as he looked up, and it was hard to believe that a dragon was adressing him by name.
+
+“Senior, if I may ask… Who are you? What did my clan do to wrong you?”
+
+“You… don’t even know that little!” The dragon lashed out, its tongue wiping like that of a snake’s. “You puny human, who dared visit The North!”
+
+When the dragon mentioned ‘The North’, everyone knew that it wasn’t referring to an actual north, but a secret organisation. Little was known about them, but they were hiding, or rather, had headquarters in a place buried in snow. Their name was something given by the public, as they themselves had only made a few appearances.
+
+Was this client a member of The North? Does that mean there are more like them? More… powerful Spirit Beasts?
+
+The thought was terrifiyng. If so many of them gathered togehter, who knew what they could unleash? Howeer, all laws of nature prohibited that. There was a reason many powerful Spirit Beasts were dominating regions. The Qi was scarce, and the most important resource of all.
+
+But maybe the dragon was their leader?
+
+Meng Mao regretted not being able to ask these things, as if he did, he’d feared that he would die. He was powerful, sure, but that was amongst humans.
+
+“Senior, please, enlighten this unworthy one!” Guo Lu Poo cupped his fists toward the sky, begging for an answer.
+
+The dragon studied him intently, and while it was hard to say what was on its expression, it didn’t seem happy.
+
+“If you truly have no idea, then let me enlgithen you before you… die.” Its growling voice boomed, making the air shudder. It was difficult to believe just how powerful that dragon was. Meng Mao could not detect a single flaw in its appearance, and the enormous amounts of Qi exuding off of its body would have suffocated him had he been closer.
+
+He could not imagine how the poeple directly below it must have felt.
+
+It was really hard to measure just how powerful that dragon was.
+
+“The North… But Senior, that-”
+
+“What? Did you think we would forget the humiliation you brought upon us? The pain and suffering you’ve caused us that day?!”
+
+“But Senior I- I have no idea what you’re talking about. This, this… Surely, you must be confusing us with someone else.”
+
+“Hmph!” The dragon snorted. “As if someone as old and wise as me would forget a stupid face like yours.”
+
+“W-What?” Guo Lu Poo’s face dropped, his facade completely disappearing. He was purely flabbergasted now. Meng Mao knew that someone like Meng Mao could go find The North if he’d wanted to, but doing anything to them? What a joke.
+
+“It was you, I know that for sure.” The dragon’s ancient voice boomed, exuding sageness. “And now you shall pay!” It yelled, thunder booming as the clouds dispersed.
+
+“But I’d never even gone to-”
+
+“Silence! Puny human, you dare speak back to this uncle? Kowtow one hundred times and I may forgive your insolence by leaving your corpse intact!”
+
+Guo Lu Poo was stunned, but under the dragon’s immensely powerful aura, he did as he was told. He kowtowed in the air toward the dragon. Each bow took a decent amount of time, so doing that one hundred times took long enough for even Meng Mao to get bored.
+
+At first, it was cathartic, but now it was nothing but a repeating image. The movement was the same each time as well, since he was a cultivator, so the spectacle had been sort of removed from the entire thing.
+
+Still, Guo Lu Poo didn’t stop, and did the hundred kowtos under everyone’s gazes. His servants, and people of the city, saw him lose his dignity. Who could blame him though, when a literaly dragon was telling him to do that?
+
+Would I have done the same? Probably. Fuck face, my life is more important. Meng Mao chuckled darkly to himself, hoping to never have to be in a similar situation.
+
+Still, he had to admit, it was rather funny.
+
+“Good, good, good!” Now that you’ve kowtowed, do you recognise your mistake?”
+
+“Senior, I-”
+
+“Hmph!” The dragon snorted, sending Qi straight toward the man. “I see you still don’t know, so let me give you a reminder of what happened that day.” After saying that, the dragon raised its claw and bore it down on Guo Lu Poo. The speed was so great that Meng Mao could not follow.
+
+All he saw was the raising of the claw, and the next second, it bore right through his rival. Regretably, it didn’t kill, but judging by the expression on Guo Lu Poo’s face, it was rathe rpowerful.
+
+Again, Meng Mao would never wish to be in the same sitaution as his enemy. For that purpose he’d prayed for the well-being of the big man, just in case karma would come to sow what it’d reaped.
+
+◈◈◈
+
+Where is that damned thing?
+
+I searched through every nook and cranny, undoing seal after seal and throwing scroll after book, book after scroll and so on and so forth. All I’d found were boring actual estate properties, a bunch of numbers and maths, but notihing incriminatory. Well, I wasn’t even sure what I was looking for to begin with, but it has to have been something well-hidden and well guarded.
+
+Of course it wouldn’t be in any of the shelves, but it was worth checking.
+
+As I did, I’d noticed that the comottion outside had gotten even grander than before, and I was really interested, but I was a bird with a mission.
+
+A noble mission, even— theft.
+
+To that end, I never ceased looking for that damned book Meng Mao wanted. And, with enough luck, I would find it too.
+
+Just as I began searching the other end of the office, something else took my attention. A great explosion sounded from the side of the building where the little girl’s pet room was, and I knew that the turtle and the others have broken through.
+
+I didn’t hestiate to contact him, and he’d accepted almost immediately."
+
+“Boss Xiaolan, we’ve sucesffuly used your technique to destory the runes holding the wall strong. Thank you to Boss Xiaolan for her tips!” He yelled, this time around, and I could tell it was said aloud.
+
+By the fact that my mind was reeling.
+
+Quiet man, why are you yelling?!
+
+“Boss Xiaolan has graced us with her knowledge, and has allowed us to break free. We are eternally grateful to Boss Xiaolan!”
+
+At that, an enormous roar sounded out in my mind, and I swore I was just about to faint, and not because of the sound, but because of the words.
+
+“Hail Boss Xiaolan!”

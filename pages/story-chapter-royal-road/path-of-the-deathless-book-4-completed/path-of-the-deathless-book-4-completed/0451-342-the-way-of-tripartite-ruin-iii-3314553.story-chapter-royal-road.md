@@ -1,0 +1,253 @@
+---
+id: 877f80a9-0949-592e-a605-45f212f340f8
+page-type-slug: story-chapter-royal-road
+title: "342 The Way of Tripartite Ruin [III]"
+slug: 0451-342-the-way-of-tripartite-ruin-iii-3314553
+partOf: path-of-the-deathless-book-4-completed
+position: 451
+ownLength: 5240
+unit: words
+publishedAt: 2026-04-24
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3314553/342-the-way-of-tripartite-ruin-iii"
+royalRoadId: "3314553"
+---
+
+We begin our lives in pieces. The fragments that become who we are are accumulated through experiences and triumphs, and eroded by failure and wrong lessons learned. Such is why the instruction of a child's virtue, the development of their mind in logic and empathy, and a regimen to perfect their physique must come together so that they can form the alloy of their idealized self.
+
+To be anything less is to disgrace this gift of life you were given.
+
+The same can be applied to how we seek to perfect our craft of war: beyond weapons, above weapons. We have our hands, our understanding, and our tongues to strike and break that which lies within, and our might to rend and ruin the whole without. But as said before: All things are of a final wholeness. So why cannot a word deliver a physical blow? Why cannot a style of violence be conveyed through rhetoric or base sophistry? Why cannot hypocrisy be identified and struck like an opening in someone's guard? And why cannot fists and feet carry the intent of enlightened understanding or compel shame in the shameless to unleash blows of emotional weight deeper than material harm?
+
+They can, and they will, but only after you forge yourself into a proper whole, capable of bearing the burdens and blessings of the Final Way.
+
+To reach this pinnacle, you must possess a style of expression, a style in kinesiology. The movement of violence, violence expressed by your body. You must understand the weakness and flaws of the mind, for consciousness is a theater of battle all to itself, and those who wield themselves poorly shall be wielded by their enemy in return.
+
+Finally, one must possess the strength to fling forth their mind, their spirit, their strength and will. The Final Way is expressed through a myriad of patterns. It is an entombment, a craft, an art to this war.
+
+At our foundation, we were meant to struggle and strive, and so we must have a vessel that strides beyond the limits of what this world has anchored us in. That mortal shell, that feeble flesh which rots and decays, is insufficient. The way you fight now must be of a purification, a higher order, a Platonic form.
+
+Above mind, beyond strength, reforged of spirit, where the wound of words matches the wounds of bodies.
+
+Perhaps you do not understand now. Perhaps the true meaning behind the Final Way is to be more than what a few words can convey. I tell you, seek perfection. Achieve dominance in the domains of the mind. Become a Psychic. Become a Gnostic of the Heart, a Psychologist who can strike and mend that which breaks within, and become a practitioner of any of the Martial Ways, and walk these paths in tandem until all three merge into one.
+
+Once your spiritual forging completes, then you will understand. But then you are not at the end. You are at the beginning. And so, you may turn the following pages and continue your journey everlasting.
+
+—Legend-Philosopher Melaia Kelhaus
+
+342
+
+The Way of Tripartite Ruin [III]
+
+Skill Evolution: Whip Proficiency (Initiate) > The Snake Entombed of Lightning and Thunder (Adept)
+
+The Snake Entombed of Lightning and Thunder (Adept) 52
+
+A sensation of coiling storms throbbed inside Shiv. It begged him to seize a whip so that its hunger for momentum and damage could be converted to speed, length, and devastation. But he was in no hurry to test out this new skill.
+
+His most recent death had served multiple purposes. The first was understanding Longinus better. The Wanderer possessed a downright lethal skill. With little more than a gesture, the space before him would simply be erased. It wasn't even a disintegration; it was a vacuum overriding matter.
+
+Longinus's attacks seemed to scorn the very concept of physical durability. Between that, his incredible speed, and his ability to vanish from the premises while leaving a ghostly imprint of himself present to continue serving as a conduit for his attacks, the Wanderer was a predator of Vanguards. It didn't matter how tough you were. It didn't matter how strong you were. You couldn't strike him. You could not outpace him, and he, with the slightest gesticulation alone, would see you unmade.
+
+But Shiv wasn't a Vanguard. He was so much more. Where brute force and direct attrition could not be his ally, skirmishing and psychological warfare were to become his edges against the Ascendant.
+
+Shiv watched as the featureless form of Longinus raged and raved on the other side of the curtain. He swung his lance about, a fluid oscillation of divine mana, painting glossy trails behind Integration’s translucent screen. Once more, Shiv was beyond context, banished from Longinus' memories.
+
+Forced to contend with an unknowable foe over an extended period of time, the god’s sanity was beginning to crack. Shiv saw the emotional fractures lining his core, saw the festering haze that was beginning to build at the edges.
+
+Sage of the Enkindled Heart materialized beside Shiv. His arms were folded; his glasses glinted bright. Much like Shiv, he was thinking. “Press him. Press him even harder. We need to fan the flames of his every suspicion, make him think that Evanescia is the one preying upon him, or the Princess has decided to use him for a spot of amusement, maybe matched him up against another hallowed cook. Send his anxieties and doubts in all directions; rip his heart apart.”
+
+“Keep ruining his dishes,” Gardener of Doubt whispered. “He has a great many meals being made. See them all made unserviceable. And while he is distracted and raging, break the foundations of his kitchen. Cut and shred the power sources of the convection plates far below.”
+
+A fourth Shiv entered the conversation, his tone laden with strain. “He is already unstable,” A Glimpse of Perspective declared. “I imbibed his philosophies, and he is a fractured thing of two minds. Longinus seems devoid of a proper ego, or fractured of it. He is driven by lust and hunger and an urge to swallow every novel flavor he can find, but he has also been tainted by Georges and has tainted Georges in turn. Even deeper still, I feel a presence that is broken, but still there, only buried far too deep. He, and potentially all the other Ascendants, have been misshapen by their Divinity to be predisposed toward madness for what they have done to themselves.”
+
+“On top of that, you got to keep changing the game,” the girl who didn't exist interjected. “If this is going to be a physical fight, then you need to give yourself a psychological edge. That Whip Proficiency Evolution is just a start. You need to fuse as many things as you can with Sage of the Enkindled Heart. Right now, your Eldritch Physiology, Chronomancy, Sticks and Stones, and Sage are all on the brink. I have no idea if they can come together or what might come of that, but you have an opportunity now. A really good one. Push that opportunity over the edge. Push as many skills over the edge at once as possible. Always keep him off balance, and hurt him in as many ways as you possibly fucking can.”
+
+The false girl's voice centered Shiv. The struggle ahead was clear. He knew what he had to do and how he needed to do it. And he needed to walk the edge. There was going to be pain ahead if he wanted to level quickly. He was going to have to risk parts of his soul breaking, skills fracturing, mind crumbling, and he needed to take his time—learn Longinus's habits and thoughts in order to see him broken in full.
+
+So Shiv performed another resurrection. A new body slipped free from his Severed Shadow. The cost in vitality he paid to continue existing in this space of nothingness doubled as well, but he expected that. He wasn't going to stay Backstage for long. There were dishes to ruin, facilities to break, taunts to deliver, and deaths to experience.
+
+Killing a god required dedication. Thankfully, Shiv was in his element. The Chef Unwavering was not a martial skill in any capacity, but even it loathed Longinus. Even though it was inflamed by Shiv's endless rage, this kitchen, Georges, the things that Longinus had done... He had defiled more than people; he'd used Georges’ body to defile the very notion of cooking itself.
+
+Commis were not slaves. Chefs were meant to express and to indulge in an exploration of sustenance and taste—and they were meant to do this for all people instead of one lustful, miserable, wretched glutton.
+
+Shiv let the scintillating glow of his Cooking Skill guide him. Where the shine concentrated was what he needed to break first. Though the world on the other side of the curtain still appeared like it was molded from blandest clay, Shiv had spent most of his life in a kitchen. He knew what he was looking at, even when their shapes were absurd or their sizes exaggerated. He knew exactly what mistakes to make and what mechanisms to break for everything to spiral out of control.
+
+“I’m afraid Princess Plum Blossom's not going to be getting anything from The Boiling Toad for a while,” Shiv said, glaring Longinus down. The Wanderer raged on, lashing his lance to and fro, swinging and cleaving gaps across the landscape and striking nothing. His body was starting to crack and dissolve, and he faded into a patch of faint Divinity before Shiv left. He snorted. “See you real soon, you piece of shit.”
+
+***
+
+Shiv's long campaign of culinary sabotage became multi-pronged. His physical form was used as a sacrificial decoy while he surveyed the lands. His goal was a simple one: to target and destroy as many main dishes as he could. However, his primary target was the sauté station. For when the sauces were compromised, when the condiments were infested, when the foundational flavoring had been festered by disease, every meal that could come from them would be contaminated by a single source of original debasement.
+
+Depending on the preferences of a Head Chef and the facilities the establishment could afford, a kitchen had anything from five to eight stations, and the Boiling Toad was composed of seven. The main difference here was one of size and extremes. It wasn't just a kitchen; it was like a fortress kingdom meant to feed a woman the size of a country, and so everything needed to be more. The chefs needed to be more. The stations were districts instead, entire stretches of land that had to be measured by kilometers, forming their own biomes and sprawls in the process.
+
+The heart of the Boiling Toad was the Grill Station. It was where Shiv had begun his brawl with Longinus in earnest. When viewed from above, it resembled a vast metallic plane that stretched for two dozen kilometers across. Rents, gashes, and tightly wound metallic knots left over from the earlier battles were not the only blemishes within the territory. The commis shanties existed to service the grill's specific needs. It felt wrong to call the existing architecture residences. They were built on stilts and stacked one over the other, messes of scrap metal fused together and reinforced with Geomantic mana. Furthermore, the only way the chef-slaves could traverse the land was either through their own aerial traversal skills or to call upon a stone dimensional to carry them as they worked upon bowls of moving ceramic. Each slum had about one hundred to one hundred and twenty people, and practically everyone present was skilled at cooking in some variety.
+
+Shiv managed to further distinguish between the groups, as some were dedicated to excavating and peeling skyscraper-like rib bones, already being lathered in sweet and sticky sauce. Then there were the others in the distance, who worked with stone dimensionals as they piloted bladed platforms that carved gaps between a mountain range-sized steak. And then there were the flippers, a swarm of Dynamancy dimensionals who wielded the power of gravity to manipulate the weight of the colossal meat slabs that served as layered landmasses in the area. The work was constant; the shifts rotated, pushing the slave-chefs to their limit. But while a part of Shiv wanted to drop everything else and free the captive commis, he knew it would be for nothing before Longinus was defeated.
+
+Past the Grill Station came the inner perimeter of the kitchen’s core. The Boiling Toad’s sauté station was a series of separated and rushing rivers. Shiv saw familiar assortments of sauces: Béchamel, Velouté, Espagnole, Sauce Tomate, Hollandaise. But then there were eleven other sauces. Shiv had a vague guess as to what two out of the eleven were. One was thick and green—a vegetable starch concentrate that Georges once described as being popular in the far east of Earth. The other was Biomantically mixed monster blood; a cocktail favored by warriors and alchemists alike.
+
+Most kitchens didn't have a steady supply of monster blood, so usually it was only specially applied when a Pathbearer had the ingredients on hand and for offer.
+
+The remainder of the unknown sauces just got weirder from there. Shiv was pretty sure he saw some flowing eyes glaring up at the world, eyes that resembled the Stranger’s. And then there were the twisting, winding hands, bending in the air like geometry was breaking down.
+
+Outsider sauce. Can't imagine that tasting very good, but then again, Plum Blossom has the stomach to end all other stomachs…
+
+Past the rivers were splotches that formed hot springs, ponds, lakes, and basins. They were filled with vinaigrettes, oil and vinegar emulsions, relishes and salsas, balsamic liquids and wines, blended fruit and vegetable purees. There were hundreds of slaves working here too, but they were guided by water dimensionals who wove these many substances into massive canisters. The enslaved chefs here were also far more robust in Physicality.
+
+Which probably means the commis back at the grill have some kind of heat immunity. Just how many people does Longinus have working under him? Doesn't matter. They're not going to be his people for much longer, and all those rivers aren't going to be clean for much longer either.
+
+“Twenty seconds,” the girl who didn't exist declared when he returned Backstage. “You're going to start running out of vitality real fast.”
+
+Shiv's physical body was ready, prepared to plunge down. He hadn't triggered his Eldritch Physiology yet, and that was mainly because he wanted to infest the sauces with a non-reductive body, but that might not be possible for the Outsider-sauce river. I'll deal with that one last.
+
+“Ten seconds,” Adam's non-existent sister said. “Oh, and try to bait Longinus to hit you with something nasty this time. Keeps you Backstage longer.”
+
+“Got it,” Shiv said. “See you soon?”
+
+“Yup, yup.” The girl slapped his back to send him off. “Go shit in his sauce, Legend-Terrorist Shiv.”
+
+Shiv slipped back into context. His Severed Shadow peeled away first, and his physical body was pulled along in his wake. It was a connection between his selves. It was stronger than gravity, realer than matter; when he descended as his Severed Shadow, all his other forms plunged down with him. No matter how far apart they were, it felt like they were still close beside, yet even so, he couldn't find any of his other bodies scattered across Integrated Earth. Whatever wards Evanescia used to line the limits of her dimension obscured and contained even Shiv’s Unique Skill.
+
+But it couldn’t keep any of his bodies within the Fairwoods apart. And that might just allow him to perform some stranger strategies in the near future.
+
+Shapeless Tides ran down his torso like a waterfall and hammered against his feet. Shiv's physical body spiked down while his Revenant form glided away, making for the various basins and ponds beyond. Immediately, the world around him shuddered. The divine mana that suffused this place shook and brightened. Once more, Longinus remembered his existence—and the full fire of his rage ignited.
+
+But the Deathless ignored the Ascendant’s inevitable coming. Instead, he cultivated as many tides as he could—not only within his physical body, but for his Severed Shadow as well. The first of Longinus' lances tore through the air, seeking to cut Shiv low. It was a lone thread of incandescence at first, but it unzipped a patch of space behind it. From a dimensional chasm of roiling static came a new army of dimensionals. These, however, were unlike the previous: each one was a knight that was fused with their mounts from the waist down. They bore divine polearms and surged through the air as a tide, and each of them had a flicker of the Wanderer's essence deep within.
+
+It appeared that Longinus had a summoning skill too.
+
+Can't wait to find out what kind of pain this brings, Shiv thought to himself sarcastically.
+
+His bifurcated processing was driven to the limit. One thread of thought guided the Revenant toward the basin, and the many heads of his mana hydra untangled, reaching out across the horizon to ruin the biological structures within the fluids, if there were any. If not, he could always resurrect a new body after his current one was destroyed and infest that in the flowing waters. A red-gold tower, meanwhile, erupted from his physical body. Even though his Toughness couldn't protect him for long if these riders were capable of striking with the same vacuum blows as Longinus, every second mattered, for he intended to make sure each of the rivers bled over into each other. And that was just what Shiv did. He slammed down hard, his physical form utterly enwreathed by his striped vectors, and though his might wasn’t enough to contend with a god, a Legend he remained.
+
+The moment he struck, the channel simply ceased to be. Shiv's physical form became a meteor, one that hammered a deep wound into the soil and utterly evaporated most of the sauces he came in contact with. The only one that didn't disintegrate was the Outsider substance, just as he'd expected.
+
+The Deathless sensed a spike of baleful hate, and the eyes that lined the surface of the water all snapped to him. He was prepared. He activated his recursive biology just in time for the first of the riders to descend upon him, just in time for lashing and branching hands to erupt out from the Outsider sauce, just in time for all the attacks to consume him, to strike and bury him from all sides.
+
+Though they didn't showcase the full capabilities of their maker, the riders tore through his Pillar of Orichalcum as they made contact. Even so, his Heroic-Tier Toughness was a remarkable thing. Divinely infused lance tips strained and struggled as the riders pushed their steed-like forms hard to drive their weapons all the way through. A dozen gaps tore open across Shiv's body. Each wound would have been fatal for someone of mortal make. But for one who could shift their flesh from mundane meat into the mold born of madness, these wounds were but deformations.
+
+For now.
+
+Shiv could feel Longinus' power buried deep inside each of the lances. Furthermore, streams of grasping hands clawed at him, tried to wrench his body apart, but he simply shifted around each of his wounds.
+
+The skin cape that served as his ever-present whip struck out. He guided it using his Bifurcated Processing, burning away his body in the process. This was a suicide run for his physical form. He didn't intend to keep it, and so he went all out, spending flesh like candle wax.
+
+His new Skill Evolution made its power known immediately. The whip felt natural to him, even more so than before. Connected to him by Eldritch Physiology, it had been a limb prior, but now it was something else. The Snake Entombed of Lightning and Thunder allowed his eldritch whip to grow longer with every second, to get faster, to bear ever-increasing momentum. It even felt like he was getting heavier.
+
+It struck the first of the lances piercing his Pillar. Thanks to his Legendary Physicality and the expenditure of practically all his remaining overflow tides, he managed to drive one of the riders off course. The lance skipped along the curved edge of Shiv's Pillar, leaving a long gash by the side. A searing ache flicked across Shiv, but the pain was a dull and distant one, rendered absent altogether after a second. He created a new thread to guide his whip—ordered his subconscious to deflect and parry as much as it could.
+
+The whip obliged.
+
+Every second it spent moving caused it to grow longer, and every impact that followed invested a surge of force for the next blow. Rather than skipping off the bodies of the incandescent riders, it ricocheted between them, caused them to flinch and jerk as Shiv wrapped them in a corded net. They were bundled tight in his skin, and he could feel them cutting. It would be a long time until they carved their way out.
+
+So Shiv stole the initiative. He detached his skin whip on them and left them coated in a bundle of his discarded flesh.
+
+Never gets old.
+
+Scheming Bastard 14 > 15
+
+Eldritch Physiology 92 > 93
+
+Then came more riders from the dimensional gulf Longinus had created, and with them came a lance as radiant as it was colossal. It looked four hundred meters in length, and it was needle-thin at the tip while it bore a near-tangible weight conveyed by its glow alone.
+
+Can’t wait to drag that big thing with me Backstage, Shiv thought to himself. Probably don’t want to get killed by that, though. Looks big enough that it would probably break my soul for good.
+
+“I'm getting REALLY tired of you popping in and out of my kitchen like a craven fucking rat!” Longinus' voice bellowed forth from each of his riders.
+
+The fight continued while the lance was held in reserve, and Shiv noted how slow the enemies all were compared to the god's true form.
+
+Sage of the Enkindled Heart: So why is he using this skill against you? Why hasn't he simply obliterated you with that gesture he could perform earlier?
+
+Don't know, but I suspect it has something to do with how messed up their emotional cores look to be. Each of the riders had a misted core. Just as each of their souls held a flicker of Longinus' Divinity, they also seemed to have gained a parceled portion of his total rage. The Wanderer was far too angry to be playing with Shiv. This the latter knew, so for him to be using an army of summoned cavalry rather than simply carving Shiv apart himself meant one thing: Longinus's skills were likely changing.
+
+Sage of the Enkindled Heart: More than that, he likely can't control the changes either. His skills are determined by his emotional state. That was why we noticed his Divinity shifting earlier. He was undergoing a skill change.
+
+A Glimpse of Perspective triggered immediately thereafter. In a half-second, Shiv saw an artistic rendition of the Wanderer emerge behind the looming tower-sized lance. It was the visage of a man who wore a fissured mask that was forged from his own likeness. Outside, upon the many-faced, broken mask were varying expressions: a sneer, a scowl, a stare of depraved lust, and a grin of ravenous, expectant hunger. Between the cracks, however, the Wanderer just looked lost. Like he was trying to find a way out of a labyrinth, but couldn't. Then, like a kaleidoscope, the pieces swirled about and reassembled themselves as a new face calcified over Longinus' true mien.
+
+This one had its teeth clenched tight, but gazed down from the heavens above. This one was as imperious as it was furious.
+
+A Glimpse of Perspective 83 > 86
+
+A Glimpse of Perspective: Twist his heart, and you will bend his fa—
+
+The half-second ended. The illusion broke. A swell of divine mana hammered against Shiv as one of the riders pressed against him went off like a newborn star. Where the rider vanished, the massive lance appeared, and it pierced through Shiv's Toughness without any struggle whatsoever. His Pillar functioned as a bulwark against the scattered fragments of Longinus's might, but when a concentrated attack met him, the outcome was inevitable.
+
+Yet even as the colossal weapon was driven into Shiv's physical vessel, a second surprise unfolded immediately after the first. It didn't impact him with the force of a ballista. It didn't feel like a crumbling mountain bearing down on him. It was weightless. In fact, it felt harmless. And it slipped through his ruined defenses, leaving a brief ache but nothing more.
+
+It turned fluid within him, drenching him in Longinus' emotions. Shiv found himself drowning in a miasmic whirlpool of anger, but deeper down, past that dark and festering emotion, there was something else: a brilliant, bright, supple glory, a final and redemptive love.
+
+Shiv’s vectors were boiled away by the immense field of mana he was drowning in. The titanic lance unraveled in a spilling sea that painted the air and drenched the Boiling Toad in a dense brilliance.
+
+Within a god’s embrace, Shiv learned what it meant to suffocate, and where Kathereine’s Social Skills were bewitching, Longinus’ was a strangling love; the kind with no boundary between abuse and passion.
+
+Sage of the Enkindled Heart: Do not let him breach your mind and—
+
+The Sage's voice cut out as a groan of near surrender slipped free from Shiv's mouth. He was wrong. Longinus wasn't weaker. He wasn't scattered. He was just different. The cavalry here was not meant to be physical adversaries. They were meant to ride people down and then infuse their victims with Longinus's infectious ardor.
+
+“Just give in,” the god whispered. Shiv could feel a breath glide over his soul, like a hard, hot exhalation on the nape of his neck. It was disturbing and delightful at the same time. It was the promise of a father Shiv never had, of someone who cared truly, completely, eternally. It was someone who would be strong enough to protect him from this miserable world, from all the pain he suffered and endured, from all the horrors that waited ahead.
+
+There was no guarantee he could escape from the Fairwoods. There was no guarantee he would ever find Adam or Uva again. He wasn't powerful enough to overcome Evanescia. He had been burned by the Watchtower. Maybe together they would—
+
+“No!” Shiv snarled. A translucent bubble formed around him before popping. An explosion of strain-induced agony consumed Shiv’s skull, and the pains served twin purposes: drawing Shiv back to his senses while also silencing Longinus long enough for a breath of sanity. In that split second, Shiv's feeble Psychomancy was the tipping point between utter enslavement and desperate freedom.
+
+He refused to risk his Severed Shadow—refused to even try evading the heart-drowning waters he was trapped in. Shiv wielded his Eldritch Physiology and sharpened the edge of his whip. A gleaming edge of crimson ignited. One that cleaved clean through Shiv in his entirety. His soul rattled and tore. The pain was intense; letting Longinus enchain him was going to be worse. When he was almost split in half, Shiv allowed his baseline biology to return. With that, he pulled at himself in two directions, his Shapeless Tides surging inverse to each other. With a final wrench, as Shiv released his Pillar, saving himself via a bisecting suicide.
+
+The last thing he heard before this death was Longinus’ howl of absolute outrage.
+
+Psychomancy 39 > 44
+
+Eldritch Physiology 93 > 95
+
+A Glimpse of Perspective 86 > 89
+
+Bifurcated Processing 100 > 102 [Skill Evolution Reached]
+
+Inertial Overdrive 307 > 311
+
+Leviathan of the Shapeless Tides 532 > 535
+
+Sage of the Enkindled Heart 191 > 195
+
+Pillar of Orichaclum 395 > 399
+
+Each notification accompanied a swell of power. All of them went ignored as Shiv continued contaminating the various bodies of sauces around him; his Revenant form had gone unnoticed thus far. His physical body barely lasted two seconds.
+
+Fucking hells, that was close, he thought to himself, his soul doing the equivalent of panting. Just how many different skill transformations does Longinus have? The question was an unnerving one—something Shiv wasn’t intent on finding out firsthand. New rules. Physical bodies need to be expended within one second. We can’t be—
+
+Continuity Error trembled.
+
+From the far side of his soul, he heard the voice of a girl that didn’t exist scream in panic. Look out! Longinus is—just dodge! NOW!
+
+Shiv didn’t think; he just reacted—barely in time.
+
+A beam of concentrated shame and condemnation splashed into the back of his Severed Shadow. It was a river of emotion made of a mad god’s rampant emotions and turned magical by attunement to divine mana. It should have been enough to drive Shiv insane from sheer emotional trauma alone.
+
+It was also something Shiv could dodge as a length of divine mana wide and long enough to part a small city was counter-infested by a vibrant redness. Shiv didn’t miss how his pollution of Longinus’ Divinity mirrored the festering bio-taint Shiv left within the various sauces in the area. What was it that Adam said that one time? As above, so below.
+
+And below Shiv dropped once more, with enough divine mana to sustain himself for many hours. Maybe even a day.
+
+“Well, that was quite a haul,” the girl said, grinning wryly. “But he would have gotten you without me.”
+
+“That… was close,” Shiv rasped, taking a moment to catch his breath. “I think I’m going to need better Reflexes… And something for emotional resilience. And Magical Resistance.”
+
+The girl smirked at him. “Everything, really. You’re fighting a god, Shiv. That’s an ugly fucking match-up, even for a Legend.”
+
+“Valor managed.”
+
+“You’re not Valor.”
+
+“Yet,” Shiv replied.
+
+She inclined her head, acknowledging the point. “Yet. So. What would Valor do?”
+
+“What I’m doing right now?”
+
+She frowned. “Maybe. But he wouldn’t leave his ass out to be stabbed. Maybe no more letting Longinus kill you, how about that? He’s learning too. He’s probably going to do whatever he can to break your mind and heart instead of your body now. So. If you’re going to fuck some shit up, do it fast and jump back across. You have the vitality to burn again. Doesn’t mean you can afford to make a mistake. No sloppiness, Deathless.”
+
+He gave a mocking salute. “No sloppiness, ma'am.”
+
+And then he felt something resonate from within him. Things within him vibrated in sync with each other, and a strange, deep, and distant-seeming whisper sounded in agreement. “No sloppiness.”
+
+The girl blinked. “The hells was that?”
+
+Sage suddenly appeared to Shiv's right. “No idea, but if I had to guess… It might have something to do with a forthcoming Skill Fusion.” He looked at his hands, and the faintest glints of light and color appeared, briefly enough that Shiv could have sworn it was an illusion. “It feels… It feels like I’m coming together. Pieces that always belonged.”

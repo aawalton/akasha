@@ -1,0 +1,251 @@
+---
+id: 3de9592b-6d24-5957-94e3-e48a53821f28
+page-type-slug: story-chapter-royal-road
+title: "369 A Coalition Against the End [I]"
+slug: 0484-369-a-coalition-against-the-end-i-3470994
+partOf: path-of-the-deathless-book-4-completed
+position: 484
+ownLength: 5283
+unit: words
+publishedAt: 2026-05-30
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3470994/369-a-coalition-against-the-end-i"
+royalRoadId: "3470994"
+---
+
+Hate is a beautiful thing. No emotion more reliable. It keeps on boiling away in the pit of your stomach even after all the other feelings go dull. And that's what you need when you're fighting a long war.
+
+Or at least what feels like a long war. I don't know, 150 years ain't nothing, but compared to some of these greater skins we're fighting, just a blink of an eye, really. Through it all, hate’s been my friend, my shield, my fuel.
+
+I hate the orcs. I hate 'em pure, and I hate 'em hot, like lit napalm. I've hated them since before I could walk, when they breached my farm-fort and skinned my folks like we did our cattle for a gag. I learned to hate them twice as much as I went through my Deputization—and found out I wasn't special. Practically every other little shit in the grades had lost something, and they all burned like me.
+
+The hate stuck with me when I finally finished my initiation and earned my Star. That hate got me good and wed when I found someone who hated as much as I do. And that hate kept burning even when the spark of love went out and my love went dead. It burned hotter when one of them got their hand on my youngest and sent what was left of her back to me as a pair of shoes with a little note attached.
+
+“Leather, because you should never forget about your parents, Hank.”
+
+Them orc fucks know I hate. And they welcome it. They love me for it. But hate makes me good at math. Berserk makes me run the numbers faster. And when I’m there, the artillery never stops falling so long as there are shells to spend.
+
+I’m fine with hate. I love hate. And I will keep hating until I am good and dead or there are no grayskins left to kill. And that’s what I need all you kids to do—hate. Because you ain’t gonna find nothing else more reliable in this life than hate.
+
+Feed that fire.
+
+Breathe in the ash.
+
+And send that shit back.
+
+Whatever it takes. Whatever it costs. Hate will make it possible.
+
+—Master Hank Iddlestein, Scout-Shadow of the Hu-Stone 4th Artillery Regiment
+
+369
+
+A Coalition Against the End [I]
+
+Morgan Munny was on his sixtieth cigarette, and it wasn’t even noon yet. He'd long since run dry of all the good stuff. He should have saved a bit more of the cigars for the end of the season. Now he was wasting time sucking the sparks out of the twerp sticks the soft fort-folk called smokes around Fortress-City Hidalgo. Not his fault it took Heroic-Tier lungs just a breath to gulp that stuff down; they needed more kick for this stuff anyhow—barely enough nicotine to give a buzz.
+
+And he wanted the buzz. He really, really did, ‘cause for the first time in a long, long time, the orcs were doing something that left his skin prickling with tension.
+
+Standing within the command core of the Terminal Opus—his Magnum-Class mobile Siege-Crawler—Morgan glared out at the crooked needle sticking out from the earth some half dozen kilometers in front of him.
+
+For leading to the greatest Gate connected to Integrated Earth, the Tutorial Megagate archway really was an ugly piece of garbage. It was slanted like it'd been built on unpaid overtime, about eight times taller than it was wide, with its peak at slightly over two kilometers above ground, and made entirely from pieces of rebar and other rusted pieces of metal haphazardly melted together.
+
+The gateway was dormant, a blank sheet of black static, as it had been almost permanently for the past few weeks.
+
+But still, Morgan watched. And waited. And listened. He used every single one of the hundred and eight Awareness-boosting enchantments imbued into the crawler to spy on the orcs, and then he went a little further, taking a chance and casting out his personal Sensory-Anchors around the insides of the Gate. Well, the districts closest to the Lone Star gateway, anyway. The Breaker’s personal dimension had the volume of a medium-sized planet, and mapping out every nook and cranny of it would take centuries, even without the legions of orcs inside itching to rip you limb from limb.
+
+But looking around was all he could do. He'd done it day in and day out for the last three months, and every day, that pit in his stomach got a little deeper, and his skin wanted to rip off his meat just a bit more.
+
+The part of him that hurt the most was his scalp. Especially along the right, where the long scar took a trip all the way to the back. Morgan got close to finishing things with the Culturist that one time; the fucking orc got closer.
+
+The other Rangers found him half-scalped and impaled on a ruined cannon-barrel at the end of that season. They thought he was dead until he started coughing up blood. That had been thirteen years ago. Thirteen years, like all the years before, like all the years after, and in each of those years, Morgan and the rest of Lone Star held and bombed, and the damned orcs kept on coming, always and forever.
+
+Every summer, the Culturist sent his Orchestra out. Every summer, Morgan was there to punish any grayskin who had the gall to leave their warded trenches.
+
+And every year, things got a little harder. More farm-forts, cities, and Gates were breached and butchered. More places were mined barren of metal for artillery. More kids and families broke their oaths and fled up north to leash themselves as bitch-dogs to the Yellowstone Yellowbellies, and yet more fine Rangers died.
+
+Morgan remained, and with every year, it felt like the only things that stayed the same were him, his Crawler, and the fucking orcs that just never stopped coming.
+
+But something had changed this season. Something was happening.
+
+He glared out at the orcs, and saw their trenches quiet and empty. His Scouts and Diviners reported only the barest of skeleton crews manning their lines. The worst of the threats were mainly orc Shadows, Thieves, and Assassins getting into that annual groove of sabotage in the lead up to the big war to come.
+
+But the Concerts never formed. The sieges never came. The orcs never began their push, never called upon that big-nasty storm to shroud their forces with lightning and thunder in prelude to the coming shock and awe. A few days ago, all the orcs had suddenly fallen over and started screaming, but nobody had approached. Wouldn't have been the first time they pulled a trick like that.
+
+It felt wrong. It was wrong. Orcs didn’t get demoralized. They didn’t give up on anything. Not when death was just a chance for them to try again and do better. Not when there was so much easy misery to feed on during the war. And the orcs they captured refused to spill. All he knew was that there was a new Vaketh-Insul on Earth, some Yellowstone bastard, of all Pathbearers the Challenger could have picked from. But no matter how good that new Nemesis Commander was, his presence wouldn't translate into the orcs disappearing from their front entirely.
+
+“So where the fuck are they?” Morgan asked, both to himself and his Ranger-Lance. “Where the fuck is he?”
+
+Because if there was one Pathbearer Morgan could count on, it was the Culturist. But he wasn’t here this summer either. It was like the entire invasion had been called off as a joke. Or an attempt at psychological warfare.
+
+Yet it didn’t feel like that either. Sure, the grays had delayed their sieges before, but they'd never cancelled them. Morgan knew how the orcs thought—had learned their ways from one of them. They might be smart and cruel shits, but that didn’t mean they were perfect. They still needed to feed their itch, and even during calmer invasions, there were plenty of orcs to make up a good few concerts.
+
+Orcs were hyper-individualists, but even they fit clichés, so even if some of them decided they wanted to attack somewhere else, that didn’t mean the trenches would be entirely empty around their main gateway. No. For so many of them to go missing all at once meant the orcs were performing some kind of collective action—and it sent a rush of coldness through Morgan’s blood to consider just what kind of horrific nightmare-shit could capture the attention of so many grays that they abandoned an entire theater of war.
+
+And so Morgan and his five most trusted Rangers found themselves ruminating on the same questions over and over. Where were the orcs? Where was the Culturist? Where was the war?
+
+A metallic whir came from beside him. “Hey, top, you think this might have something to do with what's been happening recently up north?”
+
+Morgan acknowledged his second with a slight tilt of his head. The chrome silhouette of John Gunhead’s namesake glinted in the near-dark ambience of the crawler’s central information center. The Divination mana leaking from the crystal lattice lining the room cast the humanoid bot in an eerie, ethereal glow that just made the atmosphere darker. “The thing with the Republic. The thing about the Deathless—the Tarrasque. We watched those Scarlander Scouts slip by the border some weeks back. They’re staging up along Diego. Probably preparing for a war of their own. You think the orcs decided to switch up places and join in on another war? Undying Tarrasque’s a hell of a scalp to take.”
+
+“Some might've," Morgan grunted. “But all of ‘em? At once? No. There's many that are drunk on the trenches. They wouldn't leave us be for just that. Something bigger than that’s happening.”
+
+“What’s bigger than a Tarrasque?” Hero-Shadow Mosquito asked. Morgan didn't even bother trying to make eye contact. He had a hard time telling where she was at all. Her voice came from everywhere, and her inhuman flesh and that Umbramancy she'd managed to get during a jaunt into the Fairwoods had her as one with the dark. “Those beasts end worlds.”
+
+“Nothing new to orcs,” Morgan replied. “They’ve killed plenty of worlds themselves. The Tarrasque’s not enough to lure all of them. There's only one to fight, and it’s not something you dominate either way. It’s something you kill as fast as you godsdamn can with as many people as you can possibly round up—and then you keep hitting it even after so that the pieces don’t get a chance to come back to life.” But he couldn’t shake something Gunhead said earlier. “This Insul, though. I bought some information on him through the Neath. Apparently, the guy’s more than Vaketh-Insul; he's also the System's most wanted. Fucker has a Hidden World Quest on his ass, asking everyone that sees the guy to kill him.”
+
+A series of tired scoffs and snorts followed. The massive six-shooter that was Gunhead’s face spun with displeasure. “Of fucking course. Never enough bullshit.”
+
+Morgan drew in another breath but tasted no nicotine. Another cigarette smoked down to the butt. “But I'll tell you this: unless he actually beat the Challenger himself in an arm-wrestling match, I don’t see every orc on the Southern Front leaving. Certainly not the Culturist.”
+
+And of that, he was sure. Because for every Summer up till this one, there had been a war, there had been the Culturist, and there had been a near-hopeless struggle to survive. That kind of thing didn’t just stop. Things didn’t just get better. Not for Lone Star. Not for the Rangers. That just wasn’t the way of things; it wasn’t something Morgan could imagine, anyway.
+
+Warning: Unknown mana signature detected.
+
+The words were cast straight into Morgan’s mind through the Terminal Opus. “Sooth!” he barked.
+
+“Already gazing.” The dedicated mage of the Ranger-Lance lit up as her ritual scars flared with the red glow of vitality before turning a deep violet. Her hollow eye sockets lit up, and the Many-Eyed-Sun tattooed upon the back of her bald, deep-brown head began to glow. Everyone else took to their stations. Gunhead stomped toward the back of the information center and slotted himself into the primary firing emplacement—lending his power over projectiles to the ordnance to come.
+
+Deep within the belly of the Opus, the bio-mechanical beast droned as logistical automata personnel shifted belts of mana-tipped shells into the fifty emplacements sticking out from the mobile fortress’s back.
+
+“Opus. Contact incoming. Stations.” Morgan cast out three thoughts in a quick salvo and nothing more. The mana crystals entombed right above them would magnify his magic to the crew. They knew what to do, had known for over one hundred and fifty years. And by this point, the Terminal Opus had a memory of its own with all the Awakened items that made up its architecture. Entire sections of the Crawler practically ran themselves—needed only maintenance and support to function.
+
+Strings of mind magic connected to Morgan. The Psychomancer cells aboard the Opus connected him to the Sector Chiefs, Rider-Leads, Marksmen-Elites, Artillery silos, and Magi corps.
+
+“One target—southeast—135 by 188.”
+
+“Analyze in progress—Target incoming fast!”
+
+“Amplifying wards—full spectrum.”
+
+A series of concussive impacts rattled Morgan. The dimensional wards were boosted first—because the orcs found it real funny when a Hero-Dimensionalist breached someone’s protections and directly teleported everyone out from inside a structure into a slaughter-pit. Then came the force, Biomancy, temperature, Awareness, and Chronomancy wards.
+
+The Terminal Opus lived up to its name. All these magical protections had been gathered over the span of years, accumulated after each near-destruction to ensure the Opus wouldn’t be dragged toward the same end twice. And from death it rose each time, larger, thicker plating, better exhaust vents, bigger cannons, better crew. For the orcs were masters of destruction, and Morgan learned well—and applied that knowledge properly.
+
+“Analysis complete,” Sooth announced from her seat to his right. “That's not an orc, Sir.”
+
+Morgan suddenly went still. “Scarlander?” It could be—the fucking orcs weren’t above using mercenaries, and the blood-slaves down south weren’t much into existential solidarity since they were already owned. They fought alongside the grays plenty of times, and Morgan had killed plenty of them for that mistake. And worse, before he gave them that mercy.
+
+Torture didn’t do shit to an orc. Starving them of violence worked to an extent. But people? Elves, humans, rodents, goblins, automata? Yeah, they didn’t much like pain. If this really was a mercenary, Morgan was gonna have some questions for them.
+
+“Roland Arrow.” Sooth’s words caused Morgan’s thoughts to pop like a bubble. The blinded seer gazed right at Morgan, her sockets glowing ever-brighter with mana. “It’s Town Lord Roland Arrow.”
+
+Of all the names Morgan expected to hear, this wasn’t one. What he expected even less than that was a shot to come from Roland Arrow.
+
+It passed through the wards protecting the crawler, gliding past the Dimensionality, and ignoring the other shields arrayed against an attack. It was a needle-shaped arrow spinning an extended cord of violet mana behind it, connecting Roland to his own projectile. Morgan was the only one who reacted in time. His Reflexes fired. Time slowed. The Hero-Ranger drew his sidearm just as the Divination arrow broke itself apart against the final set of inner wards protecting the information center. But before Morgan could fire back or order a retaliation, a burst of telepathy slipped into the room.
+
+“Hero-Ranger Munny, I beg your permission to let me land aboard your Crawler. I believe you might be wondering where your orc problem has gone. If so, I believe I have answers. And then some.”
+
+Morgan’s orichalcum revolver was already drenched in trembling power and Dimensionality before he finally registered what had been said. He struggled not to shoot Roland regardless. The Starhawk’s favorite son was still an arrogant shit even now. Bastard hadn't changed at all. Still a godsdamn show-off, and still an absolute monster. That arrow didn't even trigger any alarms. Master-Tier, my ass.
+
+“Huh. Well, I guess it is the Roland Arrow,” Gunhead grunted. “Say, top, we gonna let him on? Because… I don’t know.”
+
+“I do,” Morgan growled. He spat his cig-butt on the floor and ground it to dust under his heel. “Really wished I didn’t use up all my good smokes. Roland fucking Arrow. This’ll be grand. Can’t wait to see what kind of bullshit he brought to my doorstep this time.”
+
+***
+
+“Roland Arrow.” Morgan laughed. “In the flesh and down south. What happened? Your little civil crusade went a little far? Your great noble Council is kicking you out of the party, and you're looking for asylum? Or maybe you’re finally here to take me up on that offer, eh? A proper war for a proper Pathbearer with proper bastards to kill?”
+
+The sheer dryness of the summer heat was alleviated by the passing breeze atop the Opus. He'd gathered a sizable welcoming committee to greet Roland on the deployment deck. That long extendable ramp used to evacuate wounded or dispatch special Ranger-Lances was now used as an unofficial meet-and-greet spot between the crew of the Terminal Opus and the deadliest son of a bitch to ever pick up a bow.
+
+The contrast between the two sides couldn't have been more severe. Roland was alone, and the Rangers were many, not to mention how he was one of the shortest people present. Roland was a walking anachronism, while the Rangers still held on to some level of pre-System industry thanks to the bulk of their citizens being automata. Roland stood in the light, unafraid, his cape akin to the burning wings of a hawk, and his armor glorious and grand with the aesthetic of his god decorating every bit of his mail and plate, and his golden locks flowing in the wind. Most of the Rangers remained a half-step in the dark. Even their vanguards held up deployable shields and hid behind them. Distance was their friend, obfuscation their defense against unseen orc snipers.
+
+Everyone present was a child of war, but it was clear who was used to standing in the open, supported by a Divinity and an overwhelming force, and who spent their lives fighting an overwhelming force.
+
+And where Morgan’s perpetual scowl was augmented by a squint, that shit Roland had the gall to smile at him. Fucking northerner doesn't even have his helmet on.
+
+“Hero-Ranger Morgan. I trust that you're having a better season than usual right now.” Roland’s words were colloquial, but Morgan noted how the Starhawk's son ignored the questions and replied with one of his own. There was also the tiredness in his gaze.
+
+“Let's cut the bullshit, Roland. You said you know why the orcs are missing. You tell me what's going on right now, and actually, before that, you tell me what you want. I know your type, and I know your kind; you northerners don't just show up offering to help for nothing. Start by naming your price so I can spit in your face, and then we can actually start talking.”
+
+The false smile Roland wore faded somewhat, but his determination emerged, and his eyes gleamed in anticipation of words to come. “Then, if you were listening to what I said earlier, you would understand I am not here to beg for your aid. I am not here to fool or purchase anything from you. I am here to offer you something worth every Fortress-City you have making up the outer line.”
+
+“This guy's spittin' wind,” Gunhead spat. His cylinders clicked with frustration as he revolved his skull. “I can smell a snake oil merchant from the way they sound.”
+
+“You can smell sounds?” Sooth deadpanned.
+
+“You can't? Damn, must be rough, being a fleshy.”
+
+Sooth’s retort was cut off, and the banter was put down like a wounded horse as Morgan glared over his shoulder at his comrades. “I'm listening, Roland. But that's a mighty big boast you just made there, and Lone Star don't appreciate empty boasts.”
+
+“Have you ever known my words to be hollow, Ranger?”
+
+Morgan didn’t reply—which amounted to his equivalent of a yes. He'd never considered Roland a good friend, and they weren't exactly well-known to each other. But that one season Roland and his crew came down, a hell of a lot of orcs died, and he was barely more than an Adept then, just a Low Master. Of course, Morgan knew better: Low Masters didn’t take the fight to the orc trenches and kill twelve separate enemy Heroes at once while raiding an orc torture camp during a rescue run.
+
+“Let me be direct then. I have the Culturist.” Roland's casual admission struck the gathered Rangers like an artillery shell. The effect was immediate. Gunhead took a step back, and his skull rattled violently as his cylinder spun. The others tensed, shared looks. But they were Lone Star, and Lone Star didn't betray themselves so easily. They kept their words to themselves, and they kept their guns and eyes locked on the northerner.
+
+On his part, Morgan didn't know Roland's words to be hollow, but again, he didn't know Roland well in general, and people changed all the time. The man who stood before him could be running some kind of con. And Morgan knew enough about the Republic to anticipate a dust-up coming between their Ascendants. “That's a hell of a claim, Town Lord. You got any proof?”
+
+“Yes.” With a casual gesture, he cast a spatial spell—and manifested the unmistakable form of the Culturist from a pocket of static mana.
+
+A second prior, Morgan still had a handle on his stoicism. Now, even he folded. The Hero-Ranger squinted hard at his old enemy. He pushed his Awareness skill to the very limit, cast several anchors of perception over the Culturist's downed form. He examined every centimeter of the orc's body, every bit of mana spilling out from him. But Morgan already knew. That gray-white feather cowl itself was unmistakable, the emanations of magic familiar—an owl-like visage that was seared into the Ranger's nightmares.
+
+“It's him,” Sooth confirmed unnecessarily. Her breath was coming fast, and her skin gleamed with the sudden rush of cold perspiration. The other Rangers broke around her as well. Finally, words slipped out, words of disbelief, utterances of faith given unto The Colt and The Will. “By the thunderin’ guns of heaven high, it’s him,” Sooth said again.
+
+Morgan had no words at all. Before, his paranoia was high. Now his mind and heart were in disarray, and he stared at Roland. He stared at the man like he was a bomb about to go off in his living room, a monster that had emerged from beneath his bed while he was a brat, a creature riven in strips of human flesh whispering sweet nothings from the shadows to lure the Rangers down a dark and twisted path.
+
+The Culturist couldn't have been beaten, not so easily. He couldn't have allowed himself to be incapacitated and captured by a northerner, of all things. Even if that northerner was death incarnate when given a bow, the Culturist was something else. He was a thing of horror and myth.
+
+“How?” Morgan said. That was the only real thing he wanted to know.
+
+“It's a long story, but he entered a Delve while protecting my son.”
+
+Morgan did a double-take. Then a triple-take. “Everything you say is getting me more and more twisted, Roland. What do you mean he entered a Delve while protecting your son?”
+
+“Exactly that. My son was burdened by a Skill Evolution that was beyond his capacity to endure, and the Culturist stepped in, took on that burden on my son's behalf, and found himself stressed enough to evolve a new Legendary skill of all things.”
+
+Every subsequent revelation fanned a new whirlwind inside Morgan's chest. He'd dreamed of this, spent years whispering to the nothing, to The Colt and The Will.
+
+While he was in the dark, while he was trapped in the camps, while he was fighting the orcs, while the screams of those he stood alongside echoed upon tides of midnight wind during days most bleak. The endless sieges had worn him down. He was a candle spent from both ends. If there was only one thing that still kept the spark inside of him lit, it was the urge to finally see the war through. Even if it killed him, even if it brought his life to an end. He wanted to see the conquests broken, and he wanted to see the Culturist put down, if even just once.
+
+And here the Maestro of the Lone Star Orchestra was, in a trance, a blissful expression on his face, like he hadn't…
+
+The Culturist was here. He was vulnerable, undefended, and he'd somehow been taken by the Starhawk's Avatar. Things were at once too good and too infuriating. Morgan found himself torn between two desires: to walk over and empty every orichalcum bullet he had into the orc's skull, and to ask Roland just how the hell he'd managed to pull this off, because it was Lone Star's duty. It was Lone Star's right. It was Lone Star's blood the orcs had taken.
+
+Now, somehow, some northern spawn—some blissful, protected noble shit from the softlands—had the Slaughterer of Sattengada in his grasp.
+
+“Do you doubt my words now?” Roland asked. When no one raised their voices in protest, he waved his hand again, and the Culturist disappeared, teleported, or moved into some kind of spatial pocket.
+
+Morgan nearly drew on the Town Lord for that action. “Bring him back—hand him over.”
+
+But though the Ranger’s voice held a dangerous edge, Roland just shook his head. “I have far more to offer than just the Culturist, and the situation with him is more complicated than you can imagine. The itch has been burned out of him.”
+
+Morgan’s jaw was getting tired of falling open. The jaws of the others around him weren't. Well, those who had jaws, anyway.
+
+Gunhead cocked himself in agitation. “Bullshit. He has to be bullshitting. He has to. Burned out the itch? An orc without the itch is like a human without a skeleton.”
+
+“Yet it is true. Yet it has been done. Yet my son has enabled the impossible. There is a reason the Culturist helped save him, and that's because he severed the Culturist from the Challenger's control.” Roland let the implications of that sink in. “And after he did that, we managed to sever the Challenger's right arm.”
+
+Morgan was just staring now.
+
+And somehow, Roland still wasn't done. “The orcs have been devastating your home, attacking your cities, butchering your people for year after year, decade after decade. I'm going to ask you a simple question, Hero-Ranger, and I can already see the answer burning in each of your eyes: would you like to invade the Tutorial for once? Would you like to fight the enemy on their doorstep? Would you like to force them to come meet you on your terms instead of theirs?”
+
+“What do you want?” Morgan asked, voice low. Try as he might, he couldn't accept this, couldn't believe a turn of fate so fine. The System was never gentle. The System was never kind. The System only took, and the only thing you could do was take back. “What do you want from us? Spit it out. Tell me straight. Because if you're not lying, and I pray for your sake that you ain't lying right now, I want you to tell me. Tell me if this has to do with you waging war on your Republic, with you needing someone to fight for you, to help you sack your own home. Tell me if this is a scheme on the part of you and the Starhawk. Tell me. Because I don't care. So long as you give me the Culturist, so long as your words are true and you can actually hurt the orc bastards long-term, I'll march the Opus up to the gates of your capital right now.”
+
+Roland didn't smile, at least. “I want you to come to Gate Piety. I want you and the highest representatives of Lone Star as part of a new council. There is someone who wants to meet you, and I think we can all be of great service to each other—for the enemy of my enemy deserves a better turn.”
+
+“Piety?” Morgan repeated. “Where the hell’s that?”
+
+“Near Old Santabar and Lost Angeles. It used to be called Gate Theborn.”
+
+Morgan recognized that name immediately. Compact of Babel and Ruin-Forged territory.
+
+“Some of our Expeditionaries should be stationed there, no?” Gunhead asked.
+
+“They are,” Roland answered for Morgan. “And they are still there. Some of them, anyway. They will be able to give you an accounting of things as well. We want you there because there is another Gate directly connected to the Tutorial present, and the orcs themselves will be there. As will the Deathless.”
+
+“Deathless,” Morgan breathed. So, that fucker is behind this. “What’s his deal in all this?”
+
+“He's the one who took the Challenger’s right arm,” Roland answered. “The Challenger has been mutilated, and now he nurses his wounds. If you would like to see the limb, you know where to find us.”
+
+With the message delivered, Roland’s cape roared afire, and he rose into the air once more, preparing to take flight. Several guns were raised in response, but Morgan waved for them to lower their weapons—because even if there was a deception in all this, trying to fight Roland Arrow head-on promised only an ugly end. “You know we’re going to need reassurances. Hu-Stone is—”
+
+“Welcome to attend,” Roland interrupted. “Morgan, I came specifically to inform you because you are owed a debt. But you are not the only ones we want in the Gate. There will be many others gathered from both the surface and the Abyss. Even from other dimensions. You asked me if there is a scheme against the Republic? I will not lie, but I will also say things are greater than that. It is a scheme against all potential enemies of Gate Piety, and Lone Star has been chosen to be a party in what is to come.”
+
+“And what is coming?” Morgan asked.
+
+“The Incursion,” Roland answered. “And countless other anticipated and unknown crises. I know your people have felt abandoned for all your time—used by the Auroral Council as a blockage against the orcs. But things can change. And if you want to see your proud star shine, and spare yourself of loneliness, then a new common front awaits you at Gate Piety: a coalition against the end. Against all ends.”
+
+Morgan stared as he found himself grappling with all the information he'd been given, but while he struggled to balance himself, Roland shot high into the air, punching through the sky like a rising comet—moving at the speed of a High Hero.
+
+“Wait, isn’t he supposed to be a Master?” Gunhead asked. “Does Master-Tier mean something different up north? And… what the fuck was all that, top? Challenger got his arm cut off? That’s… that’s just… He’s a god.”
+
+“And that was the Culturist,” Morgan rasped. “And that was Roland Arrow. So…. Dammit. I need the good stuff. Sooth. Get the Scouts back aboard, and chart us a route back to Hu-Stone. I think Command’s about to stain some of their nice leathers.”

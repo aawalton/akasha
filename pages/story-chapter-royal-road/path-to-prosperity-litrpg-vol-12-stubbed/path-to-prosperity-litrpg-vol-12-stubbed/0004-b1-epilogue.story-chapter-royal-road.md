@@ -1,0 +1,59 @@
+---
+id: 3b200cc9-fca3-5ded-972f-a040110c98de
+page-type-slug: story-chapter-royal-road
+title: "B1 Epilogue"
+slug: 0004-b1-epilogue
+partOf: path-to-prosperity-litrpg-vol-12-stubbed
+position: 4
+ownLength: 593
+unit: words
+ownProgress: 593
+publishedAt: 2024-08-11
+link: "https://www.royalroad.com/fiction/89323/path-to-prosperity-litrpg-vol-12-stubbed/chapter/1753488/b1-epilogue"
+royalRoadId: "1753488"
+markedReadAt: "2026-06-29T21:36:25.398Z"
+---
+
+The Reeze family’s carriage came to a halt before the Wintermoon estate.
+
+“This is massive,” Percy gasped, twisting his neck to intake the ginormous size of the Wintermoon estate.
+
+Training grounds and tents that might as well be considered proper buildings were constructed all around the Wintermoon estate, but Percy’s attention remained on the main building. He only diverted his focus when the coachman nudged him with his elbow. He gestured to a group of young men and women approaching the carriage with a lofty gait.
+
+“Be careful here. If possible, stay as quiet as I am,” He said with a sad smile, “I know you’re a powerful Ego, and you might not like to hear this, but you weren’t chosen for this year’s Imperials training. Don’t take it too hard if the instructors won’t accept you. They’re just doing their job. Try to avoid the nobles around Melissa. They influenced her a lot in the past. She was not always like this. I think you know what I mean.”
+
+Percy didn’t answer, but that wasn’t needed. He focused on the young nobles instead. They approached the carriage and embraced Melissa tightly after she approached them. The young nobles chatted comfortably, and it wasn’t long until two noblewomen linked their arms with Lady Reeze. Melissa was pulled away from the carriage, unable to talk to the Glacia Knight Captain or her other subordinates.
+
+Her head flicked back to Ulfhar, who bowed politely.
+
+“Melissa is a role model for many nobles. She mastered a portion of her Ego already and acquired a seat at the top of the Imperial's training.”
+
+Percy nodded again.
+
+Obviously, she will be the core of attention. She is not only powerful and will grow much stronger but also a future Duchess and more beautiful than most. Nobody sane would anger her…yet here I am.
+
+The corners of his lips curled upward, and he looked around to study the other members of the Imperials' training. He found a handful of nobles and a bunch of commonbirth Egos. Differentiating them was simple. The young nobles were seated near their high-quality tents, wore the most expensive accessories and clothes, and acted haughty, almost like the world revolved around them.
+
+In the meantime, the commonbirth Egos acted differently. Some were confident, but most were still uncertain about their spot among so many nobles. They felt out of place and behaved like that.
+
+Nonetheless, everyone radiated power. Nobody felt weak, no matter where Percy looked.
+
+Percy burst into a vibrant smile at that thought. That was his life now. So many things had changed in the last few months, but he was surrounded by the most powerful Gifted Ones of the kingdom’s youngest generation. The future Imperials.
+
+This is perfection!
+
+**
+
+A strong gust passed through the canopy, caressing the moon tree branches and shrubs throughout the densely grown forest. A reverberating crunch shook the pleasant silence hanging in the air.
+
+A pained groan and squishy noises followed the crunches until they also subdued.
+
+Blood sprawled everywhere at the origin of the crunches and pained groans. Shreds of skin and chunks of flesh embellished the grotesque sight of an unmoving body.
+
+A young man, mere remains indicating that he had once been human, leaned against a tree. He had been cut open, his chest ripped apart, and his eyeballs carved out.
+
+He was dead, and the perpetrator was out there, eying the Wintermoon estate from the embrace of darkness.
+
+A resounding giggle, eerie and filled with darkness, escaped its lips.
+
+May the hunt begin.

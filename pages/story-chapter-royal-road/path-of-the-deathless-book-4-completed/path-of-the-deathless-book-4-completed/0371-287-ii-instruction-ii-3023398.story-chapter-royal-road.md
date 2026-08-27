@@ -1,0 +1,113 @@
+---
+id: 2ab0ded9-7cf3-55d9-8e99-87b0da7711b0
+page-type-slug: story-chapter-royal-road
+title: "287 (II) Instruction [II]"
+slug: 0371-287-ii-instruction-ii-3023398
+partOf: path-of-the-deathless-book-4-completed
+position: 371
+ownLength: 2663
+unit: words
+publishedAt: 2026-02-07
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3023398/287-ii-instruction-ii"
+royalRoadId: "3023398"
+---
+
+287 (II)
+
+Instruction [II]
+
+"Huh? Why?" Shiv's attention turned to the slaves huddled down below. "If we broke the First Blood army, then—"
+
+“Ah-ah-ah-ah-ah!” Jessica cut him off, standing up and wagging a finger in his face. “Get this in your thick head, alright? This is something between a city and a logistics hub, not a military base, and that wasn't a proper army. Just a localized attachment. I can't claim to know too much about how the vampires operate. Spent most of the Abyss War getting the shit kicked out of me by those dumb dragon bastards—and then learned to miss those dumb dragon bastards when I ended up getting routed to fight the Necrofreaks instead. But I did have a few run-ins with the vampires. Attrition and chaff is how they operate. They dumped a bunch of Masters and a couple Heroes on us, but the really powerful ones? The High Heroes?"
+
+Jessica hooked a thumb behind her at the distant spires. "They ran off the moment things started looking bad. Just letting us take root here isn't an option, so my guess is that they're mustering an actual response force to try to retake the city right now. That, or they'll just bomb it flat and kill everyone in it. It's not that big of a city, and aside from being a positionally important outpost, losing it won't hurt that much."
+
+"Why shouldn't we just keep going?" Shiv asked. "You and me, we can keep hitting them. And also, double or nothing, right? We'll see how many fortresses and cities we can each take and—"
+
+Jessica immediately doubled over, guffawing loudly. She folded her arms and started to glare at him. "You're a precious kid. I'm guessing you haven't had a chance to take one of Irons’ lessons yet. Well, let me do that snot-nosed brat a favor and give you a bit of pre-education. What we did just now was allowed by sheer overwhelming power, surprise, and more than a little suicidal aggression on your part. They were shit-scared and too focused on you to properly protect themselves from me. All of their Dimensionalists and Biomancers, along with what few Chronomancers they had, used up all their magical energies trying to hold you still. By the time I got there, they weren't that hard to overstrain. Then, they couldn't protect the city. They couldn't maintain their wards. They couldn't do a whole lot of things. Killing mages up close is real easy. But killing mages who know that you're coming and have spells prepared for you? Well, that's not so good. But you probably figured that out when a bunch of Master-Tiers put you down like a bad habit."
+
+"Still think we should keep pushing it,” Shiv retorted, crossing his arms as well. “The more we break, the more we strike at them, the more time they'll have to spend recovering and fixing. It'll make them think twice about coming after Piety again."
+
+"And how do you know that? Or are you just assuming? Do you know how the First Blood thinks? How they operate? You should have brought that nerdy Biomancer of yours. He's got a special kind of hatred for the vampires. He'd know what they'll do."
+
+"But do you?" Shiv asked in turn.
+
+"Yeah. As I said, attrition and chaff. They'll send in an actual force soon. We just bloodied their nose. Previously, they were trying to expand outward in a moment of instability on Compact's side. Besides the half-hearted attempt on your little Gate, this area was just a place they wanted to hold. A geopolitical point of interest. Now that you're presenting an actual danger, however, they're going to be diverting some actual resources here. Some actual Pathbearers that distinguish themselves. And before you go off about how you killed a few Heroes, yeah, losing Heroes, even Low Heroes, is expensive and bad, but note how we didn't run into any Legends here. Not even a Low Legend. And most of their High Heroes ran. If I had to guess, we were dealing with a bunch of fourth-generation Elders at most."
+
+"And what does that mean?" Shiv asked.
+
+"Means you're still a generation down from facing a vampire that actually deserves to be feared. If we stay, however, we're probably going to run into those, and probably a hells of a lot more than one. To stop you from wasting any more time, I'll answer a few other questions in quick succession. We're not going to be able to beat a proper army. We might be Legends, but the bloodsuckers aren't like your short-staffed spider buddies; they got a good number of Legends as well, and with the amount of damage we caused, there won't be any doubt on their end about what our Tiers are. One of the worst responsibilities of being a Legend with a proper job is getting called or summoned at a really bad time to deal with some other Legend, but it sucks for both parties involved. And it won't just be them. It'll be them supported by an endless tide of mages who are boosting them, bombing us, and even more chaff that drowns us in sheer weight of numbers. I think we'll make a good showing of ourselves. I think we'll kill plenty. But I think our deaths or capture will make any damage we do irrelevant."
+
+As Jessica went through her elaborations, Shiv caught sight of a glimmer above him. There were red signatures flying through the air. They were invisible. He couldn't see them, not even with his armor's sensory and Awareness-boosting enchantments. But his Atlas highlighted them. There were five in total; they flew in a tightly packed formation, and Shiv felt his Non-Sequitur skill trigger. A very brief vision flashed before his eyes, and he found himself staring down at himself from another being's perspective. They were monitoring him, watching him, and he got the faint impression that they were communicating with someone else about him.
+
+Non-Sequitur 132 > 133
+
+Shiv's stomach tightened. He didn't like it, but Jessica was probably right. If they kept pushing, they would be able to do a great amount of harm. More vampires would die. More cities might burn. But they would get bogged down at some point. And after that, well…
+
+He'd come out of here to ward off the First Blood’s assault on Piety. He'd more than done that, and gained quite a few levels from this excursion as well. Now he was just being greedy.
+
+"You see something?" Jessica asked, realizing that he was distracted.
+
+"Yeah," Shiv replied. "Also got a vision. I think we're being monitored. You're right. Vampires are keeping an eye on us. Might keep tracking us all the way back to Gate Piety. Maybe we should cut them out of the air first."
+
+The Giantsbane huffed but shook her head. "Nah. Let them stare. They don't really matter. Their Diviners will be hard at work anyway; killing a few scouts isn't going to make a difference. I suppose the good news for your orcs is that they'll be getting a war soon, a proper one with the First Blood, after what we did today." She chuckled darkly. "Gotta say, kid, you're a godsdamn fight magnet. I thought I was a sucker for trouble, but we can't seem to go more than a few hours without getting into another bloody scuffle."
+
+"Told you, System really, really likes me."
+
+"Oh, I think it more than likes you. I think the System's using you to deal with some of its problems. But that's enough of that. Rusty."
+
+Jessica jumped off her sword's handguard, and the blade shrank in an instant, going from a kilometer-high tower to the length of a short sword. She swiped upward, and a gap opened in the fabric of space. She then accelerated across, the wheels under her feet leaving burning trails, and Shiv cast a final look at the vampiric scouts, the huddled slaves, and the fleeing citizens of Ur-Abathur before he followed thereafter.
+
+I'll be back, Shiv thought to himself. I'll be back, and I'll get all these people out. I'll see the First Blood pulled out by the root.
+
+But as that vow passed through him, Shiv wondered if the System was working its will through his actions as well. Had the First Blood done something to offend it? Did the System want him to purge them? He felt unsettled by these thoughts. He didn't want to be someone's instrument. He wanted to be his own man, his own Pathbearer, and—
+
+The flat side of Rusty smacked dead-on into Shiv's face as soon as he emerged from the portal. It didn't hurt, but it surprised him, and he swatted the blade aside a moment too late before stumbling back.
+
+"What the hells was that?" Shiv cried out. He and Jessica were standing right in front of the Abyssal gateway leading back through to Gate Piety, with fire still lingering where he'd crushed the nearest vampiric forces with his Momentum Core.
+
+Jessica let out a girlish laugh. "That's me making sure you pay attention at all times. And there's one big problem you have: You don't. You got that hyperactive attention thing. It makes your focus jump from one shiny thing to another, one loud noise to another. Don't worry, though, it's not that bad of a detriment. I know because I have that too. And I'm not easy to surprise."
+
+"Alright, wise slayer of giants. What's your secret?" Shiv asked. His sarcasm was only skin deep. He was genuinely interested in knowing how she ticked.
+
+"It's simple," she replied. "You use whatever Mental Skill you have, supplement your martial skills with that, and you constantly remind yourself to stay alert and to trust no one. Especially real short girls with real big swords."
+
+"Right, got it." Shiv grimaced and made his helmet close over his head again. Just another thing to tax his Bifurcated Processing with. He'd be burning his brain down to nothing more than a few times. At least that would increase the Skill’s level as well. Letting out a breath, he began walking toward the gateway when he barely avoided another swipe from Jessica. He ducked his head this time, anticipating the blow, and tried to lash out at her using his Cancer Flail. It whipped free from his hand, snapping through the air with a sonic boom. At the same time, he launched himself at her, rearing back with his Last Morsel.
+
+"There you go, didn't fool you twice." Jessica's laugh was melodic, and it reached a new level of intensity as she parried his whip and blinked across time and space to arrive just a stride away from him. Shiv had anticipated this. That was why he was preparing to swing his Last Morsel. The frying pan came down, but the Giantsbane dodged, and she accelerated into him with a burst of fire beneath her feet. A deafening impact cracked against his armor; his chest split open, and a series of cuts swept across his body, leaving scratches on his quickly-manifested Pillar of Orichalcum and flesh.
+
+"So, here's something I'm gonna need you to start working on," Jessica said, landing on her feet before him as he entered a defensive posture, just in case she wasn't done. "Right now, you think in ones." She held up her index finger. "One skill, one attack, one idea. Sometimes your instincts take over, and you surprise yourself, and whoever it is you're fighting. But things aren't usually decided in a single step if you're fighting anyone worth a damn."
+
+She raised another finger. "So I need you to start thinking in twos. Two skills. A first skill that's meant to do something. A second skill that's meant to support it. Or a first skill that fails, followed by a second that makes use of an opening created by the first. Your idea between the flail and the frying pan? Yeah, that had potential, but you didn't have a good follow-up. My dodge was a second layer of defensiveness. I parried and got in close, I dodged and got away."
+
+Shiv rolled his shoulders. He loosened up some more. Perhaps they weren't done for the day. He might not be killing any more vampires, but there was a much more interesting foe at hand now. "Right, I'll try to do that. You know, my dodge isn't even at Adept yet."
+
+She batted her eyelashes at him. "So, how are we going to change that?"
+
+"I think I’m going to try to dodge, and I think you're going to cut me down a few times. I might be interested in working on my parries too."
+
+"And what's in it for me? I mean, I've already beat you in that little kill-off of ours. Now I'm giving you tactical and strategic training, and you're getting rewarded with a sparring session on top of the beans? I don't know. Feels like I'm the one that lost today, not you."
+
+Sage of the Enkindled Heart: We already have a way to convince her: Roland Arrow.
+
+"No, I'm pretty sure you're still winning," Shiv said. "Whatever it is you teach me, I'll be using against Roland. He and I, we have a little fight arranged, like you said earlier. Think about it. Representing you to Roland. And then, afterward, you can humiliate Roland again whenever you two have to see your thing through."
+
+A loud groan escaped the Giantsbane, and she stomped her foot like a petulant child. "I know what you're doing," she said, waving the tip of her sword at him. "I'm not stupid. Don't treat me like I'm stupid. Don't like that."
+
+"I'm not," Shiv said, "I'm being honest. Come on, don't tell me you want to miss out on this opportunity? Just imagine: Roland Arrow, surprised as I parry one of his shots, and then I blink right in front of him before putting his head in the dirt. Think about his legs kicking up in the air. Hmm?"
+
+And Jessica did. Shiv could read that in her body language. She was imagining Roland's humiliation quite thoroughly. "Yeah, and while he's kicking up in the air, you might be able to use that Deepest Edge skill of yours to open his asshole up. Do your own version of the Up-Creek Special."
+
+"Or maybe I'm just gonna beat the shit out of him normally," Shiv said, trying not to shudder from the traumatic memories.
+
+"Oh, no, the Up-Creek Special is essential, kid. That is an art that breaks all Pathbearers, and Gods willing..." She grasped her sword with both hands and suddenly adopted a serious attitude. "I'm going to teach that skill to you—how to defend against it, and how to use it. Of course, we're going to start with defend first. Parry or dodge, you call it.”
+
+Shiv's eyes widened in fear, and he took an instinctive step back while clenching his ass. “Wait, shit, wait! Look, we can spar normally or—"
+
+"En garde," the Giantsbane declared, and then she blinked behind Shiv. It was pure instinct that spared him another miserable core memory. But where he avoided getting run through rectally, half of his right ass cheek was still cleaved away in the attempt to dodge.
+
+"Ow! Fuck!" Shiv snarled. "Really? Really? What is it with you and attacking people's asses?"
+
+"It's simple: If you can't stop someone from cutting their way up your ass, you can't stop them from cutting their way down your eyes, your throat, your ears or any other option." Jessica began to shrink, and Shiv's heartbeat began to accelerate. "You gotta stay focused, kid, and you gotta keep track of your enemy. Now, keep dodging. This time, don't let me take your left cheek. I’m hankering to apply some symmetry…"
+
+The fun sparring session suddenly didn’t seem so fun anymore.

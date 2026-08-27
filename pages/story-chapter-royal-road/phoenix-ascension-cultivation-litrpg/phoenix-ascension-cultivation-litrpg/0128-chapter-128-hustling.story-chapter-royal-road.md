@@ -1,0 +1,169 @@
+---
+id: e3fd714a-1593-5f03-97d6-71563f05cdd8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 128: Hustling"
+slug: 0128-chapter-128-hustling
+partOf: phoenix-ascension-cultivation-litrpg
+position: 128
+ownLength: 2104
+unit: words
+publishedAt: 2026-05-18
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3414930/chapter-128-hustling"
+royalRoadId: "3414930"
+---
+
+“Achoo!” I sneezed just as I woke up. Someone must have been talking about me behind my back! That mattered little though, because I was the one sleeping in a luxurious mansion, in a comfy bed, all for myself.
+
+Upon moving, I noticed that my Overeater reserves had somewhat diminished, though it wasn’t that obvious. I was still fat, or fluffy, and yet, I was hungry.
+
+Hopping off the bed, I walked over to the door. I was momentarily contemplating wether or not I wanted to become a human and walk around, or just go about as a bird.
+
+The decision was very hard… NOT!
+
+Using both Stealth and Self-Shroud, I made opened the door and made my way through the corridors. There wasn’t anyone situated in front of the door, so the first step outside was quick. Next, using my nose, err, beak, I sniffed for food. It was early in the morning, so there had to be someone making breakfast.
+
+…Maybe.
+
+I didn’t see a clan or anything of the sort around. There was only his building in the courtyard, and now that I thought about it, there was nobody inside the mansion.
+
+With a quick swipe of my Divine Sense, I did detect a few maids, the two twin butlers walking about and making sure everything was proper, and some other… odd people.
+
+Meng Mao wasn’t anywhere in my sense, which meant he was hiding himself, or I simply couldn’t sense him. Though given my Qi control, the former was the most likely option. Anyway, that didn’t matter.
+
+Wether or not he knew about what I was doing was secondary to my desire to acquire some food. He didn’t tell me not to go out, and I could sneak out just fine, but I would rather not.
+
+Me, a small Qi Condenstion bird with a core titled ‘Dormant’, could not possibly sneak past everyone. I would rather be under Meng Mao’s ward for the moment.
+
+So that meant that I had to replace the forest with his mansion, and I would make him regret not giving me proper food!
+
+Hehehe…
+
+With my superior senses, I immediately detected the kitchen. Much to my delight, food was being prepared. However, getting there was another story all together.
+
+It was situated in the far corner of the mansion, and I was detecting no less than five possible menaces in the way.
+
+How did I know they were menaces? Well, because they were children! If any of them spotted me, I would be dead meat. Why? Because they were toddles.
+
+With that in mind, I stuck to the shadows and made my way down the stairs. I had no intention of dodging the Core Formation butlers, since I couldn’t anyway.
+
+When I passed them by, they gave me a ‘what the fuck’ look, but that was about it. Meng Mao probably told them to not bother and keep on going as if I wasn’t there. That worked out fine for me, actually.
+
+After the stairs came a long hallway, which I stelthily traversed, and after a few more turns, my goal was within reach. I could already smell all the food the cooks were making.
+
+Was it good food?
+
+By the smell of it, actually, yeah! It wasn’t like the rest of the human food I ate in the Myriad Market. It did taste good, but wasn’t anywhere as good as Spirit Beast meat. However, whatever these people were cooking…
+
+Oops, some drool fell on the floor.
+
+I quickly Side Stepped forward and almost hit the wall, but didn’t. Upon reaching it, I made sure no one was within sight and entered the kitchen. A chef almost stepped on my tail, but I quickly grabbed it, causing a small gust of wind.
+
+He stopped, looked around, but didn’t see anything out of the ordinary. Stealth was truly amazing.
+
+After that close encounter, I became more careful, and with the accuracy of a praying mantis, I detected my prey.
+
+I wasn’t sure what it was, but it was a meat of sorts. Naturally, I didn’t care if it was cooked or not. I simply wished to feast.
+
+And feast I would. When the cook seasoning the meat was distracted for a moment, I swooped in and Peck’d at it, grabbing it in one fell swoop.
+
+Landing, I ate the entire thing in a few large gulps. I didn’t even know if I’d chewed or not. Most likely not, I wasn’t sure if I’d chewed at all before.
+
+Anyway, with that prey defeated, I took my time to savor the taste.
+
+Salty, very salty, and a bit spicy. I couldn’t help but wonder who it was for. Probably Meng Mao, not that he needed to eat.
+
+The thing that surprised me most was how rich it was in Qi. I couldn’t absorb more of it in my dantian, but I found something out.
+
+My core could still absorb a lot of it, and for some reason this piece of meat was every efficient at delivering Qi to my core.
+
+Normally, only a few of the cores I absorbed would feed my core, and even then, that was rare. Meat had almost never given me any Qi.
+
+Yet now…
+
+My instincts and gluttony activated. Was there more?
+
+I spread my senses and… Well… to my disappointment, no, there wasn’t. It was sad, but something I could understand.
+
+The poor chef’s face fell upon seeing that the meat had been snatched from right under her nose.
+
+However, seeing that I’d successfully caught watI wanted, it was time to disappear. I ran out the kitchen door and into the hallways.
+
+Right as I turned a corner, though, I see a person. Stopping before looking up, I hugged the wall in hopes of making myself as little as possible.
+
+“What are you doing?” It was Meng Mao’s voice, and as I looked up, I saw his amused expression.
+
+“I am… hunting.” I said, though that was as bad as an excuse as I could offer. Why did I have to explain myself to him anyway?
+
+He looked toward the kitchen. “Hunting, I see. Well, I was going to come look for you anyway, so this is a good opportunity. We need to discuss our plan of action. Follow me.”
+
+It wasn’t even a request, just a straight up order. The man had some gall, I’d give him that. I did have no other choice but to follow, though, since I did need the information in order to perform the heist.
+
+Without further ado, I followed him upstairs, not undoing my stealth. It was good practice. Much to my dismay, there was yet another set of stairs.
+
+Thankfully, I could fly.
+
+I dashed straight into his office the moment the door opened, and it looked… normal. I was expecting something more grim, or, bizarre, but no, it was normal. He had low desk whereupon ink, paper, scrolls and many books were stacked from top to bottom. Why was a cultivator of his caliber using brush and paper?
+
+There were also many, many books in a few bookshelves, and many jade ornaments. Many jade ornament. Dragons, phoenixes, rocs, snakes, and any and all types of animals were present on his shelf.
+
+He cleared his throat as he made his way behind his desk and sat down cross legged. I followed suit, kind of, and sat opposite him, tucking my legs in.
+
+“So, the place I want you to rob is someone that wants me out of the city. He’s old enough and powerful enough to do that, and I have an idea of how he wants to do it. However, there is nothing concrete. I have no evidence so to speak.
+
+“I want you to infiltrate his home, which I will facilitate, and get as much information about him as possible. I need to know what he’s got on me, and I also need to know how I can best blackmail him.”
+
+Great… What did I get myself into…
+
+I sighed and kept on listening.
+
+His plan was relatively simple. Since the man’s daughter would celebrate her birthday soon, or he would celebrate her birthday, and would throw a big party, Meng Mao decided to use me  as a gift to her.
+
+She liked collecting rare and vbaluable materials, pets and other things, as long as they were either shiny or pretty. Given his wealth, the man, whose name was Piao Hu, would give anything to his daughter.
+
+And that was where I came in. Since I was a really pretty bird— his words not mine— then I would make the perfect gift for her. I didn’t like being referred to as such, but it was all for the greater good…
+
+My greater good.
+
+Once I was out of the ‘new and amazing’ side, which could take an indefinite amount of time, then I would be free to move about. If the daughter really liked me, she could carry me around, allowing me to spy on them even better.
+
+I had to say Meng Mao was a shrewd one, but I did have to wonder. What would he have done had I not killed his his sons?
+
+He would have probably found another way to take down his rival. That  was fine for me, I didn’t really care. All I wanted was the horn… And any other valuable plant I could get my talons on.
+
+Heheh…
+
+Of course, Meng Mao didn’t need to know any of that.
+
+There was only one small issue, though. What was I going to do until the birthday arrived? I had places to be, dirt to find, Spirit Stones to claim, cores to absorb and a core to upgrade!
+
+As a Spirit Beast, I was ashamed to say that I’ve been neglecting my Beast Core, and that had to change.  I wanted to at least get past the ‘Dormant’ stage and actually use it!
+
+Meng Mao must have read my thoughts on my bird facial expression, as he smiled.
+
+“I know a good place in the forest for you to stretch your wings. Almost obody goes there because the Spirit Beasts are too strong. Those that do go, though, wouldn’t pay attention to you. Phoenixes are rare, and most hadn’t even had the chance to see a picture of one. However, you should still be careful. You should use that technique of yours to change into another bird-like Spirit Beast or something, it would be much better.”
+
+That suggestion offended me more than I thought it would have. Me? Change into another Spirit Beast? Never! I was fine with changing into a human for practical purposes, but changing species? Out of the question!
+
+I glared at him, and he got the gist of it. Shrugging, he said “Your funeral,” and dropped the subject.
+
+“Anyway, the entire forest behind this house is free range, with few people and many Spirit Beasts. Their population is controlled, of course, but you should be fine. It’s not yet time for us to cull them.”
+
+I nodded my head and stood up, stretching my wings. Since I wasn’t needed anymore, I was going to hunt.
+
+Just as I was turning to leave, Meng Mao’s voice echoed in my head, scratching my brain. “That piece of meat you stole cost one Top Grade Spirit Stone by the way.”
+
+***
+
+“You did it.” A man in his late years said with a blooming slime. His long, white hair was well-kept and let loose around his shoulders, while the stubble of a beard was too short to properly grasp. He wore a black hanfu decorated with nothing in particular, and sat atop the highest seat in an almost empty room.
+
+There was one one other person, kneeling. A young man with black hair, green robes, and bright yellow eyes.
+
+“Yes, grandfather.” He said proudly, circulating some of his pure Qi.
+
+“Good. I knew I did well in choosing you. Now we must prepare.” Just as he said that, he swished his sleeve and  took out a wooden box. The old man threw it toward his grandson, who caught it with a faint smirk.
+
+“The Four Corner Sword realm will open in no time at all, and we must get you to the peak of your power before then. Obtaining the Spiritual Qi provided as the greatest reward would be a huge step in your cultivation.”
+
+The young man cupped his fists as he accepted the gift, and bowed low. “Thank you, grandfather.”
+
+The old man nodded. “Go now, Peng Li. You must make our sect proud.”

@@ -1,0 +1,279 @@
+---
+id: d4304deb-53d1-503c-8618-bb4533caf814
+page-type-slug: story-chapter-royal-road
+title: "Chapter 133: Blade of the Elements"
+slug: 0133-chapter-133-blade-of-the-elements
+partOf: phoenix-ascension-cultivation-litrpg
+position: 133
+ownLength: 3279
+unit: words
+publishedAt: 2026-05-30
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3470899/chapter-133-blade-of-the-elements"
+royalRoadId: "3470899"
+---
+
+“The Four Corner Sword Realm?”
+
+“That’s what they were talking about, why they wanted to enslave the mole. They said they wanted to earn a spot to enter it. So what is it?”
+
+“Pfft.” Meng Mao snickered but quickly composed himself. “The Four Corner Sword Realm isn’t a place for people like them to enter. I will tell you what it is though.
+
+“Nobody knows when, but a sword from a powerful cultivator beyond our world landed upstream. Legends say that it was there before civilisation even formed, or that it is the reason we even have such rich Spiritual Qi in the area.
+
+“When people tried to claim it for themselves, they all failed. Its strength was so vast that a single attack could kill a Nascent Soul Cultivator in body and soul. We aren’t sure if something like that actually happened, but none dared test it afterwards.
+
+“However, at some point, a beam of light stretched from the sword into the sky, and when people went to inspect what happened, they were met with something strange.
+
+“The sword turned itself into a secret realm, filled with dangers and rewards. We speculcate that the sword spirit, after millenia of inactivity, was beginning to search for a new owner. However, even after so much time has passed since then, nobody has claimed it yet.
+
+“Regardless of that, the sword spirit keeps opening the realm at the same time every year, and the requirements to enter are quite reasonable. One must be below Foundation Establishment and have a bone age of less than twenty. One can only enter once, so if you don’t get any opportunities you can only blame yourself. There are also only twelve allocated spots.
+
+“Sadly, each sect gets two spots by default, so that only leaves us with two spots to give. I haven’t bothered to compete for it, and the City Lord’s son usually gets the spot when they’re of age. This year should be the case.
+
+“Don’t get me wrong, they still have to earn it, but given all the resources they get, them not earning a spot would be shameful. So realistically that only leaves one spot up for grabs, and the competition is fierce each year.”
+
+Only one spot?
+
+I remained silent, but pondering. If the realm was so good then whatever was in there could be useful for me, not to mention that maybe I could find something for Yo Na’s elixir as well…
+
+“Is there anything else?”
+
+Men Mao shrugged. “Nothing, unless you want to participate?” He gave me a questioning look.
+
+“I’d be interested.”
+
+“Then you’ll know more once the mission is over.”
+
+With that, he left me alone, and I went back to meditaitng. I only had three days to level as much as possible, and if I were to go mass-hunting, I needed better storage.
+
+***
+
+The next day I changed back into the human form using Perfect Disguise, putting on a dark orange hanfu and tying my hair in a nice braid, then headed toward the Myriad Market. I wasn’t sure how much money I’d gotten from selling the pills, but it should be enough for me to get a bigger bag of holding.
+
+My current one was good, but not enough.
+
+When I entered, the lobby looked incredibly similar to the one back in the Hu Village, and it made sense. They wanted everyone to have the same customer experience regardless of where they were.
+
+Without knowing exactly where I should go, I headed toward the clerk’s desk. A woman sat behind it, looking bored rather than busy. Most customers probably didn’t bother to ask for help since all the shops were manned by different people.
+
+“Hello Miss, how may I be of assistance to you today?” Her face beamed when she saw me approach, and I did notice I turned a few heads when making my way through the city. That damned charisma stat made me stand out too much.
+
+“I would like to know how I could cash in my auction winnings? I’ve sold a few things in another city but had to leave before the auction finished.”
+
+“Sure, we just need your Qi Wave and we will check your available balance.” The clerk said, pulling out box with a crystal sticking out of it. “Just send your Qi into the crystal and we will automatically detect your identity.”
+
+“Right.” I did as told and injected my Qi into it, and after a few seconds, the machine refused to take any more. I stopped then, and waited.
+
+After a few seconds, the clerk opened up a scroll and took the crystal, then inserted it into the scroll. And then a moment later, her face went pale with shock.
+
+“This-”
+
+“Is there an issue?”
+
+She turned to me, pupils trembling, face in disbelief. “I-” After a moment, the woman cleared her throat. “Would you like to withdraw your balance, Miss…?”
+
+“Well I would like to know how much there is.”
+
+“Two… Two hundred and seventy Top Grade Spirit Stones.” She spoke, her voice shaking. Was two hundred and seventy that much? Surely she’d seen clients with fatter accounts before.
+
+“Hm, not bad.” I said more to myself than to her, since that meant that the pills have sold for a little bit above average. That was a good sign, and that meant I could get many things I needed. On top of that, they probably deducted the money I’d already spent
+
+“Miss, if you want to withdraw I’m afraid we don’t have enough hard cash-”
+
+“No need. I have a list of things I need to get.” I took out the recipe and almost handed it to her before realising that it may have been a bad idea. “Do you have something I can write on?”
+
+“O-of course! And my name is Jing Liu, but you can simply call me Liu!”
+
+Ah, so she’s getting a commission from this? Interesting.
+
+I wasn’t aware clerks could get commission but I supposed if she went around to get my things then she deserved something.
+
+Before I could finish my thoughts she handed me a brush, some ink and paper, then saw me to a table.
+
+I shrugged and wrote down everything I wanted.
+
+First of all, the ingredients and materials from Yo Na’s recipe, since they were probably one of the most annoying things to get, then I wrote down any pieces from the Lone Cultivator set, since I wanted to see what having more pieces would do.
+
+Besides that, though, there wasn’t much I needed. Well, I did need some Foundation Establishment Pills, so I put an order for a few bottles as well.
+
+“In addition to those, I also want to take a look at any soils you may have to break through. I am in need of some.” I said while handing her the paper, not specifically stating that I needed them for myself.
+
+The clerk nodded and gave the list a quick look over, then frowned. “Miss, some of these-”
+
+“Get what you can and I’ll figure out the rest. I also want to take a look at the available weapons.”
+
+“Uh, erm, yes ma’am!”
+
+I stood up and followed her. The first place we went to was a rather big shop with cultivation resources filling every shelf. There were pills, materials, elixirs, herbs and Spirit Beast parts for almost all cultivators. No qillin horns, sadly, but there was a saying about those.
+
+We went further back and there was no shop manager in sight. Then again, the place was rather large. There were some decorations, such as golden statues and flower pots hanging from the ceiling, but overall it looked normal.
+
+It was only when we entered an even larger, somehow uglier area that was badly lit. There were more than a dozen display cases, each holding a mound of dirt protected by glass, and a plaque with text in front.
+
+It was obviously the dirt one needed to break past Qi Condensation, and there were many varieties of it. I still had the Coarse Dirt, but in comparison to what was being displayed here, it looked like a beggar’s dirt.
+
+<<Finesoil. Soil found at the bottom of the sea, ground and refined by powerful cultivators with the Earth primary element. Will increase the affinity toward the element and provide a powerful foundation.>>
+
+<<Crimson Soil. Soil found in the most dangerous area on the continent — The Eternal Battlefield. Blood soaked it to the point where it’s turned orange, and it exudes a pungent smell. Shows great results to cultivators who’ve accepted their love for battle.”
+
+Why the hell would they have something like this here?!
+
+We browsed through the rest of the soils, my Divine Sense sending me all the information written on the plaques in less than a second. There wasn’t anything I was really interested in, but there was one that could work for my purposes.
+
+<<Yin and Yang Soil. Soil created by the great Yin and Yang sect, used for the cultivation of two complementary laws. This soil had been treated by the element of Fire and Water for a hundred years, and will provide ample benefits to a user of those elements.>>
+
+Besides the Yin and Yang Soil, there wasn’t anything that really attracted my attention. Sadly, it looked like they didn’t have what I was looking for.
+
+What I wanted was something stronger, neutral and most importantly, of high quality. I needed something to complement the seed I had, and for my plan to create a mini eco-system inside my dantian.
+
+“Is this the only shop that sells soil?”
+
+The clerk shook her head. “No, but they have the largest variety. Most other shops only sell what is commonly found in the area.”
+
+“I’d like to take a look at the others anyway, then we can browse the weapons.”
+
+“Understood, Miss.”
+
+Unfortunately, the other stores either had soil that wasn’t up to my standards or soils that affected my foundation too heavily. For some reason or another, there were very few neutral-type soils an those that did exist were simply bad.
+
+Would I have a better chance at getting something good if I went out by myself?
+
+Probably not. As a Qi Condensation chickling with a barely ranked up core, getting anything worthwhile would be difficult.
+
+“I apologise for not being able to help you with that matter, Miss.”
+
+“Don’t worry about it. It wasn’t meant to be.”
+
+As I followed her toward the weapon’s area, she’d asked me something I wasn’t expecting. “Are you perhaps going to participate in the Four Corner Sword Realm competition?”
+
+“Me?” I broke out laughing. “No, I’m far past that.” I said, driving point the home that the soil wasn’t for me. Flaunting my wealth would lead to trouble, and if people thought or knew that I wasn’t even at the Foundation Establishment stage, then it would be bad.
+
+Not that I believed Meng Mao wouldn’t be able to hide me well, but I really didn’t want to be bothered by anyone.
+
+“I see.” The clerk said, sounding half disappointed and half relieved. “I heard many people broke into the Foundation Establishment stage inside that realm, I’ve never been, but I heard rumors that it’s a big land of opportunity.”
+
+Land of opportunity, hmm?
+
+It was obvious, but now I was even more curious. Maybe it would be worthwhile for me to participate, since I did qualify, technically.
+
+Moving past that subject, we entered a very large and very luxurious weapon’s shop. It was deocrated with golden dragons and red carpets, the interior being built it ouf a dark wood that stood out against the shiny luster of the items on display.
+
+There were all sorts of weapons, from short and long swords to halberds, sabers, cimitars and spears. Shields and armor were also there, but rarer, since not many people wore those. Giving each and every one of them a quick glance with Appraisal, it became evident that while the weapons were good, none were good.
+
+I was looking for something that was similar to my ‘Tunic of the Lone Phoenix’, something unique that I could possibly modify.
+
+Unfortunately, none of these items were special in that regard. The weapons were good, useful, even, and it was true that I was struggling to get killing blows in while in my human form. If I were to participate in that secret realm, then I would probably have to be in my human form ninety percent of the time.
+
+In my past life I used to use a sword most of the time, and it has served me well for my entire life, up until I died anyway.
+
+I’d contemplated changing my weapon, but a sword was always reliable.
+
+Walking over to where they held the swords— and they held a lot of them— I’d almost failed to notice a person getting closer to us.
+
+It was a middle-aged man of average appearance, though his eyes were like those of a heavenly snake oil seller.
+
+“What can I help you with, Miss?”
+
+“We were looking for a sword.” I said before the clerk could step in. “Something that can be infused with many elements preferably.” I wanted to try out all of my possibilities, so a multi elemental sword seemed like the only logical step.
+
+“Ah, that one is quite rare. Not many would go for such an item. Might I ask why?”
+
+“You may not.” I said coldly, and the smile on his face disappeared for a moment, though it came back right away.
+
+“Very well, we have a few selections for that. And I do mean a few.”
+
+We made our way toward the center of the room and stopped right in the middle, where a rather large and very ornate sword sat atop a pedestal. Its entire body, hilt included, was white, except for the guard where it had a rainbow-like pattern all across it.
+
+Subtle.
+
+“This is the-”
+
+“No, I don’t like it.” I said, immediately tossing it aside after appraising it. It was named ‘Jousting Rainbow’, and while I couldn’t tell what its main function was, it wasn’t practical.
+
+The shop keeper seemed offended, but I couldn’t care less.
+
+We moved on to the next one, and then the next, each one more bizarre then the previous one. Why were elemental swords so hard to find? I was of a mind to slap whoever crafted these.
+
+However, we kept going, and we went through another three before the shopkeeper just gave up. “That was all the elemental swords I had. If none of these are to your liking then no other shop will offer you something better.”
+
+I frowned, his passive aggressive tone annoying me. If it were the old me, I would have slapped him back to meet his ancestors, but I was a brand new bird, so I controlled my temper.
+
+I gave the store a quick once-over with my Divine Sense, since Appraisal would give me a headache if I’d used it for every single sword in the store.
+
+I stopped quick upon spotting something in the far corner of the shop, its luster hidden by dust and shadows. Making my way there followed by the clerk and the shopkeeper, I gave the weapon a quick appraisal.
+
+[Blade of the Elements]
+
+[A weapon forged by the ancients, people who are rumored to have been on the continent far before any other sentient race. Their relics have survived the test of time to the present era, and some say they hold powers beyond modern knowledge.]
+
+Of course, there was nothing written on the plaque, not that it had any. The sword seemed to have been forgotten by anyone except time.
+
+“What of this sword?” I asked, hoping to get a straight answer. The shopkeeper, however, shook his head.
+
+“I haven’t seen it before, it doesn’t look like s something I would put on display. I did buy the shop from someone else a few decades ago and never bothered to clean it up.”
+
+“I see.”
+
+It was a shame. The sword looked no different than a normal mortal one, and time left its mark with traces of rust and chipped bits. However,, its name, description and appearance called to me.
+
+“I’ll take it.”
+
+“What? But-”
+
+“I will buy this sword.”
+
+***
+
+I walked out of the Myriad Market with a bag of holding containing part of the Yo Na’s required ingredients and materials. Only the most common or basic ones though, and it seemed like I would need to buy information for the rest of them.
+
+That was fine, since I got the money for it. Besides asking Jing Liu to be on the lookout for any of the Lone Cultivator pieces, I’d also withdrawn ten pieces of Top Grade Spirit Stones. That should be enough to last me a while.
+
+Moreover, my best purchase so far had to be the sword.
+
+Finding a remote corner, I pulled it out and inspected it. It was as basic as they got, and the rust had eaten away any inscription that could help me discern its functions. The only information I had was what the appraisal skill gave me, and it didn’t change even after I picked it up.
+
+However, there was something behind the rust. I infused Qi into the sword, and almost immediately regretted it.
+
+The sword began eating, no, devouring my Qi, greedily absorbing it like a thirsty man finding an oasis. Mere seconds after I began the process, half of my Qi reserves were gone! If things kept going, I would not be able to feed the greedy weapon!
+
+Just what sort of monster created you?!
+
+I tried to cut the connection between the sword and I, but it refused to let go.
+
+Left with no other choice, I quickly pulled out one spirit stone and absorbed its energy. I hadn’t even began to properly refine the Qi that the sword took it.
+
+Sweat poured down my forehead as spirit stone after spirit stone got eaten by the sword. I might as well have been feeding a famished Spirit Beast!
+
+Thankfully, it only took six Top Grade Spirit Stones and all of my Qi reserves to calm down its hunger, but I knew that it was only a temporary thing.
+
+I fell to the ground, catching my breath.
+
+After a minute or so passed, I gave the sword a quick look, and was shocked to see that something had changed on its surface.
+
+Thick within the rust, a line had appeared, and the blade itself seemed to have regained some color.
+
+Just what did I get my hands on?
+
+Before I could properly process that, though, I heard footsteps and cries, their words fueling me with anger.
+
+“I think she went this way!”
+
+“Let’s go catch her, apparently she’s loaded! We can rob her then ask for ramsom from her clan or sect.”
+
+“Idiot, with the amount of money she apparently has she’s a small sect by herself.”
+
+“Don’t be a fool and shut up, she may hear us.”
+
+“Hehe, she was pretty too, we could have some fun.”
+
+“No… What’s wrong with you?”
+
+“Remind me to never recruit you for anything again…”
+
+There were both woman’s and men’s voices, but their subjects ranged from infuriating to disgusting.
+
+Standing up, I smiled to myself and looked at the sword.
+
+Time to see what good my Qi did for you, eh?
+
+For a second I swore I could feel excitement coming off of it, but surely it must have been my imagination.

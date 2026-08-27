@@ -1,0 +1,287 @@
+---
+id: bc8ac529-e849-50c9-a6bd-757389f69720
+page-type-slug: story-chapter-royal-road
+title: "Chapter 114: Heist"
+slug: 0114-chapter-114-heist
+partOf: phoenix-ascension-cultivation-litrpg
+position: 114
+ownLength: 3710
+unit: words
+publishedAt: 2026-04-15
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3278846/chapter-114-heist"
+royalRoadId: "3278846"
+---
+
+Shu Wao Tu woke up in the middle of the night, cold sweat drenching his back. His heart raced as he looked around, but he couldn’t see anything. It was too dark, and for that moment he’d forgotten he had Qi and a smidge of Divine Sense.
+
+He didn’t even know if he was dead or alive for that matter. Shu Wao Tu could scarcely recall what happened in the very last moments before he fell unconscious. However, the painful feeling in his heart reminded him, scattered memories flooding back in like a tsunami.
+
+“Xu’er.” He whispered, wincing, his voice broken and body hurting everywhere. His skin prickled as if thousands of ants were walking and biting into him. However, he didn’t care.
+
+Tears flowed uncontrollably, Shu Wao Tu’s weak body shaking. He clenched his fists, nails digging into flesh and dripping blood.
+
+“Xu’er…” He repeated, unable to raise his voice more than that. He watched his sister get flung into their old house, walls and ceiling collapsion onto her frail body. There was no way she survived that, it just wasn’t possible.
+
+Even as a cultivator, with Demonic Qi and such serious wounds-
+
+“She’s alive, boy.” A foreign voice echoed in the room, which made instantly circulate Qi through his meridians. He was glad to find that they weren’t broken again, but even after recalling that he could somewhat sense people, he couldn’t locate the man that spoke.
+
+However, he sensed the faintest presence next to him, one that he knew well. But it was weak, oh so weak, and he couldn’t help but let out a soft gasp after finding out that his sister was indeed alive.
+
+His dear little sister.
+
+He couldn’t move much, or he would have immediately jumped to hug her. But knowing that she was alive was all that mattered.
+
+The next thing was dealing with the mysterious man.
+
+“Did you save us?”
+
+“I did, but not out of the kindness of my own heart.”
+
+Shu Wao Tu frowned. “What do you want us to do?”
+
+“You two? Nothing, but your caretaker has two debts she needs to repay me now.”
+
+“What do you mean?”
+
+“Details that don’t concern either of you. Saving you hasn’t been easy though. The amount of damage your sister took was manageable but you… Well you almost got crippled again.” The man chuckled, but the information sent shivers down Shu Wao Tu’s spine.”
+
+Seeing that he hadn’t said anything, the man continued. “What you did there was impressive, and reckless. You got yourself a Lightning Spirit, congratulations!” The voice was joyous, but Shu Wao Tu knew that something else was coming.
+
+“Unfortunately, you’re far too weak, and you called one that’s far too strong. After helping with that last attack, it tried to devour your energy and be on its merry way. Luckily, I was there to put a stop to its plans. Take a look inside your dantian.”
+
+Shu Wao Tu did just that after a moment of hesitation, and what he saw was frankly quite shocking.
+
+On top of his Qi Lake was a creature made entirely out of lightning, its shape resembling neither animal or man. He didn’t know what to make of it, but he could sense that it wasn’t something someone like him had any business seeing.
+
+The sheer pressure on his dantial walls alone spoke to its strength, as they were on the cusp of breaking. He didn’t even know how the creature was staying still, or why.
+
+“I put eighteen seals on it.” The man spoke again, and Shu Wao Tu raised his head to look in the direction of the voice. “They will hold, so don’t worry. Each time you increase your cultivation base you can remove one seal.”
+
+After a brief pause of silence, the man cleared his throat. “No more than one though, or your body might not be able to handle it. Also, the less seals, the more power the Lighting Spirit will have. You need to control it.” The man emphasised that last sentence, though Shu Wao Tu didn’t fully understand what he meant.
+
+Regardless, he nodded. Fighting through the pain, he forced his body to kneel toward the voice. “I thank you for saving my sister’s and I’s lives. This debt will not be forgotten and-”
+
+“Yeah, yeah. Don’t worry about it kid. I saved you because I wanted to, and because your caretaker will need to give me more favors. It’s a win-win really.”
+
+“Caretaker? You mean Miss Xiaolan?”
+
+The man chuckled. “Yes, Miss Xiaolan. She has a certain set of skills I need of her. Also, catch this.”
+
+Shu Wao Tu sharpened his senses and noticed a small thing flying toward him. He caught it, and noticed that it was a token tied with a golden band. The symbol on its surface glowed with light blue light, crackling as if with lightning.
+
+He sensed an incredible power emanating from it, but wasn’t quite sure what to make of it. Why had that man given him a token?
+
+“That’s something I don’t need, but you will probably find very beneficial. It’s a token of entry to the Lighting division of the True Elemental Sect. It’s located… far from here. It’s a sect greater than the five in the area, and with much, much more history. I highly suggest you go there to cultivate.”
+
+After saying that, the man went silent, leaving Shu Wao Tu alone to think. The boy didn’t quite know what to make of it yet, but he greatly appreciated the help.
+
+“Thank you for your help.” He cupped his hands in gratitude, unaware that the man had already left the building.
+
+***
+
+I'd chosen my prey, and it was none of the Spirit Beasts I saw initially. Instead of going and killing the first thing I saw, I considered scouting the area furhter.
+
+A little bit deepr inside, there was a Qi Lake, which was a very pleasant surprised. It reminded me of the first one I'd stolen from the Ashen Panthers. Back then, it gave me the boost I needed to advance my cultivation by leaps and bounds.
+
+Unfortunately, I literally couldn't absorb any more Qi. I'd reached a bottle neck, and until I found the soil I needed, then I would remain at the Peak of Qi Condensation.
+
+I was rather strong though, and with the title, I had no doubt that I could match early to mid stage Foundation Establishment Cultivators.
+
+Anyway, the target I chose was a mammal that that swam around the Qi Lake. It was clearly the overlord of the area, and its level reflected that.
+
+[Molten Otter, Lvl 43]
+
+It was the highest level beast I saw, and in all fairness, it probably matched Yo Na in terms of stats. That was a scary thought, as I still remembered being completely terrified of her, and now I was aiming to hunt a beast around her level.
+
+Oh, how time passed.
+
+Of course, I didn't believe I could take Yo Na on. She was simply too monstruous for her level. This otter, though, didn't seem that scary.
+
+Considering its fire nature, though, maybe it wouldn't be my best opponent.
+
+At the same time, it did swim around a lot, so maybe it had water affinity as well.
+
+No, it most likely had.
+
+However, I had something it didn't. Lightning.
+
+Not that I believe it would be a full counter, but it should definetely give me a better fighting chance.
+
+I didn't immediately attack, though. I had to be careful and carefully decide the best moment to strike.
+
+Studying the otter, I noticed a few things. First of all, it was wounded. A deep gnash that seemed to still be healing ran across its stomach. No doubt it had fought not long ago, and the wound was still fresh.
+
+That gave me a good chance of winning it quickly.
+
+Besides that, it really liked sitting in the water, and very rarely walked on land. The only moment it did was when it went out to gather some food.
+
+It seemed that, for what it was worth, it liked eating fruits, berries, and the like. Based on its fangs and sharp teeth, though, it definetly wasn't an herbivore.
+
+When it was out of the water, I could see more things within the Qi Lake. Most notably of which were all the nut shells it left and swam around in. There were also leaves and some shinier rocks, but nothing that caught my attention.
+
+However, one thing that was really interesting was the stone at the bottom of the lake. It was one of those I had, a Spirit Spring Source or something like that. If I could get my talons on it, I could probably use it for my Foundation Establishment dantian.
+
+However, I would never be able to outswim an otter. Maybe if I lured it away?
+
+The foraging expeditions only lasted for ten minutes at most, though. When it went out, its body sort of fused with the foliage around, as if it had activated a stealth skill.
+
+For something named 'Molten', it sure didn't shine at all. I was expecting it to be made out of lava or something based on its name, but it was only a normal looking otter.
+
+Well, it was large, and its fur was scarlet, but besides that, it looked normal. When it came back again, it jumped into the water and began eating the fruits it'd gathered.
+
+Observing for a while more, and checking that there was nothing else in the surroundings with my Divine Sense, I picked a good time to attack.
+
+It was when the otter left the lake, and just before it entered stealth. I strengthened my body with Strengthened Constitution, activated all my stealth skills, and turned on Burning Wind at the same time.
+
+Heaven’s Protection protected me from any stray or surprise attacks, at least I hoped it would, and I also summoned two dozen Myriad Qi Needles. I was going all out, betting that the Assassination skill will do some work as well.
+
+Letting out a Paralyzing Screech, I also summoned two Lighting Dragons, all to ensure a strong opening move in the fight to come.
+
+I didnt’ believe my attacks as a level twenty six would do a lot, but considering that I was a Phoenix and that most of these skill were above Intermediate, then they should pack a punch regardless.
+
+Not to mention that the otter had not expected to be attacked.
+
+The beast got paralyzed for less than a second, but that was all my Myriad Needles needed to connect with it. The ones that went for the head could scarcely penetrate its mental defenses. Not that I was expecting much, since against beings with a high spirit those needles were useless.
+
+Still, they served as a good distraction for the true attacks to arrive, and some of the needles did manage to hit other parts of its body, like the legs and arms.
+
+Soon, my Lighting Dragons were upon it, biting and scratching before wrapping themselves around and giving it small bursts of paralysis.
+
+Then, it was my turn to arrive. Wrapping my talons in Nirvanic Flames and sending out a pulse of Elemental Wave, I rushed down using Aerial Redirection.
+
+Finally, my talons connected with the otter’s flesh and… slipped. There was no cut, no wound, no impact. My talons slipped off its body and I ended up falling to the ground, rolling a few times before managing to catch myself.
+
+All effects of stealth disappeared as well after I attacked, so the otter could see me and probably attack me. I couldn’t believe I didn’t manage to do even a little damage.
+
+However, while I was expecting an attack to come my way, nothing actually happened. Not immediately, anyway. The otter was still restrained by my dragons, but didn’t seem all that bothered by it.
+
+Burning Wind was still active tho, and the plants in the area began drying up and dying. The water on the otter’s fur also dried up completely, yet it was somehow still luscious.
+
+Perhaps the fact that thing also had the fire element made it so it wasn’t all that bothered by the extreme temperatures.
+
+Still, I now found myself in the weird situation where the person I attacked didn’t react in the slightest. It seemed more bothered by the paralysis from the dragons, though that quickly proved to not be such a large issue, as it turned around and regarded me.
+
+Its red eyes stared at me, and it seemed to have realised what had happened, and its expression grew angry.
+
+“A mere bird dares to attempt harm upon me?” It cried out, breaking free of the constriction of the dragons.
+
+Well, it was good that it could talk, but I wasn’t there to negotiate. I was there in an attempt to kill it, and I clearly failed. Maybe it didn’t even detect the attack, and it thought that a rock grazed past him or something.
+
+Either way, it was time for me to leave, that much was for sure. I spread my wings and took to the sky, but before I could escape, something hot and sticky wrapped around my feet.
+
+Getting dragged back down, I tried to fight the pull, but the otter was too strong, and I was quickly nearing it.
+
+Looking behind, the thing that was dragging me was a lasso made out of molten rock, and something that looked like a powerful attack was charging inside the otter’s mouth. If that thing hit me, I would not be dead, but I would not be uninjured either.
+
+Activating Blade Wing, I gave up on flying temporarily, and tried cutting at the lasso. My attempts were about as painful as they were futile. The lava it was made from was far too sturdy for me to quickly cut it.
+
+That only gave me one option, and that was to manuever around the attack once the otter shot it. With that in mind, I activated my Divine Sense to its utmost and relied on Phoenix Reflex to help me dodge.
+
+Right as the otter shot the attack, all my senses of danger flared. Its speed was so high that I barely had enough time to dodge, but I managed by getting closer to the otter, thus getting less resistance on the lasso, and using Aerial Redirection to bend at an awkward angle.
+
+After dodging the attack by a feather’s length, I quickly thought about what I could use to get rid of the lasso, and the only thing that came to mind was Iron Claws.
+
+Sure, they were talons, whatever.
+
+Turning them on, I swiped at the lasso, and that did some damage, but not enough. The otter was charging up another attack, but considering how long it took for it to be ready, I decided to take advantage of it.
+
+If its fur was too slippery to attack, then its face surely shouldn’t be, right?
+
+Considering the length of the lava lasso, I flew up just enough for it not to tug on me, then dove down. Letting out a Paralyzing Screech, the otter’s attack got interrupted for a fraction of a second. It wasn’t enough to make it stop, but it bought me some extra time.
+
+With Iron Claws still active, I attacked its face without mercy. My talons pierced through its nose, cutting a small gash across it, but it healed quickly. Upon landing, I used Ember Step, creating a wall of fire very close to it.
+
+While I knew that wouldn’t do much, obscuring its vision was also a bonus. I used the time it was blind and still charging the shot to send a series of rapid Blade Wings at the lasso.
+
+“How dare you attack my face?” It yelled out, but I really couldn’t care less.
+
+However, no matter how much damage I did do it, the thing would heal fast. Basically, I was just wasting energy.
+
+I just had to go and pick a fight with a level forty three…
+
+It was too late to regret, I got cocky, and seeing just how I couldn’t do any damage to it, I knew that I’d picked the wrong target.
+
+Of course it would be dangerous if it lived alone in a goddamn Qi Lake.
+
+Resisting the urge to curse myself, I struggled to get rid of the-
+
+The otter’s shot came straight toward me and I just barely managed to dodge it with a Side Step thanks to Phoenix Reflex warning me. However, the lasso was too short, and the skill got me further than I wanted it to.
+
+As a result, my leg was now in unimaginable pain.
+
+Luckily, it wasn’t broken, or I would have been crippled for a good while, and that wasn’t the kind of thing I needed with a huge battle on the horizon.
+
+Still, I was in a rather tight spot.
+
+“Since you want to play hard, I’ll show you what real fire looks like.”
+
+Ha, you want to show a goddamn Phoenix what real fire looks like, why you-
+
+After seeing thats its energy ball attack didn’t work, the otter grabbed the chain and dragged me toward it. I wasn’t sure what it planned to do with me, but I didn’t want to find out.
+
+Probably something that had to do with its fangs, yeah. Which was weird considering-
+
+My train of consciousness got cut upon seeing a rather potent fire attack come out of its mouth.
+
+As a result that only made me want to escape more, but I’ve used up all my cutting techniques, so what else could I do?
+
+Nothing than what all birds are good at, of course.
+
+Peck!
+
+It wasn’t the best skill I had, but left with no other option I could only eat my problems away.
+
+Peck!
+
+As it turned out, that was a rather good option, as the moment my beak touched the lasso, the potent fire energy practically got swallowed by me.
+
+Peck!
+
+[Skill:Peck(Begginer) has ranked up to Peck(Intermediate)]
+
+I knew I was a gluton, but wasn’t this a little too much…
+
+After absorbing most of the Fire Qi from the closest part of the lasso, I flicked my leg and the thing broke off as it was made of dirt. That was a good thing, as another one shot at me right after.
+
+Thankfully, both Phoenix Reflex and my Divine Sense warned me of the danger, and I used Side Step to dodge.
+
+I now had the perfect opportunity to escape, but I felt a little indignant. Was I willing to leave after getting humiliated like that? No, no I wasn’t.
+
+Taking advantage of the fact that the otter was clearly underestimating me, I quickly came up with a plan to steal right from under its nose.
+
+Opening my wings wide in a taunting fashion, I focused Qi into my legs and shot to the sky, using Aerial Redirection to dodge yet another lasso.
+
+[Skill: Aerial Redirection(Novice) has ranked up to Aerial Redirection(Beginner)]
+
+That was a nice surprise, and it would definitely help me in the very near future, as another lasso came my way. It was much faster than before, but I managed to pull through by a literal feather’s width.
+
+Now that I was somewhat up, I could leave, but I wasn’t willing. Instead, I activated all my stealth skills and dove down into the forest. Shrouded in no less than three stealth skills, I blended in with the shadows.
+
+With my Divine Sense I saw the otter angrily look around, then growling and rushing toward the forest. That was exactly what I wanted.
+
+Still, I didn’t want it to be too close to its lake, but I doubted it would go too far away. If I wasn’t in constant reach, it would probably give up at some point.
+
+So to keep it interested, I would sometimes pop out of stealth, have it try a lasso or two at me, then run away and slip back into stealth. It was a fun game, until it wasn’t.
+
+The otter’s presence amplified tenfold, as did its speed and deadliness. It wasn’t throwing things at me anymore, it was barelling through the bushes of the forest at extreme speeds.
+
+I gulped and took to the skies as the slippery thing climbed on top of the tree I was on, quickly chasing after me. Deciding that it was time to go all out, I flew forward as much as I could while making sure it was still chasing.
+
+After making some good distance from the Qi Lake, I decided that it was time to put my plan into action.
+
+I lowered myself into the forest and slipped into stealth, disappearing from all senses. After letting the otter run past me, I took the skies while hidden, and headed straight back.
+
+I knew that the otter would catch on to the trick fast, so I flapped my wings as fast as I could.
+
+The way back was much faster, and the otter’s Qi Lake soon appeared within my vision. Heading there, I located where the crystal was, and dove down.
+
+The water was hot, very, very hot, but I was rather good at handling hot things. One of the issues when diving inside that I didn’t consider was the density of the water, since it felt more likew lavan than water.
+
+It even stuck to my feathers, which was rather annoying. I could see why the otter’s furwas so slippery now, if it wasn’t, then it wouldn’t be able to swim comfortably, and would be in my current situation.
+
+I rushed down as fast as I could and got my claws on the rock. The moment I did so, I transferred it into my bag of holding without any issue, and started my way back up.
+
+It was really annoying, but I was glad that the otter hadn’t-
+
+Just as I was about to speak too early, the universe decided to prove me wrong, as the damned thing was currently rushing toward the lake at an incredible speed.

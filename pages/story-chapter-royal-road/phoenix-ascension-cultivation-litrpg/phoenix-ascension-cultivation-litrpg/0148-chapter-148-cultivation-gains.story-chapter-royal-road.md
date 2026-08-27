@@ -1,0 +1,167 @@
+---
+id: 4fce2f08-e8aa-5238-8524-74dfc7df2718
+page-type-slug: story-chapter-royal-road
+title: "Chapter 148: Cultivation Gains"
+slug: 0148-chapter-148-cultivation-gains
+partOf: phoenix-ascension-cultivation-litrpg
+position: 148
+ownLength: 1631
+unit: words
+publishedAt: 2026-07-08
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3649918/chapter-148-cultivation-gains"
+royalRoadId: "3649918"
+---
+
+[Congratulations! Kindled Core VI has become Kindled Core VII!]
+
+I’d managed to get my core all the way to the seventh rank in a week. It was not for lack of resources, though, but because the core could not take a large quanity of Qi all at once.
+
+However, I was thankful that the Qi could enter into my body and make me stronger phisically. Those changes were rather well reflected in my stats as well, which made a leap after I’d stopped focusing all my Qi into cultivating.
+
+Stats
+
+[Strength: 1772 + (100)]
+
+[Dexterity: 1299 + (0)]
+
+[Perception: 1049 + (0)]
+
+[Charisma: 773 + (0)]
+
+[Intelligence: 857 + (0)]
+
+[Skill Points: 143]
+
+I hadn’t even noticed all of those stats basically leaping in amount. I definetely felt a lot stronger, but seeing the numbers themselves was rather… strange. I mean, those were just insane numbers, maybe?
+
+I had no refference point, since I was basically the only Spirit Beast that could cultivate.
+
+I did wonder just how many stats would a high leveled Spirit Beast have, or how was that even decided?
+
+Those were all things that I had no access to, unfortunately.
+
+Though, through enough trial and error I believed I could figure it out, I just didn’t have the time, or the will, to do so.
+
+And I did get quite a few Skill Points as well. I’d gotten many, many skills, none of which were useful to me, so I’d sold them all.
+
+I finally didn’t feel like a poor person anymore.
+
+However, I was basically cheating, since I’d consumed about five hundred cores by now. If I were to hunt for all of them myself, I would have probably gone crazy. Not to mention the quality would not have been as good, since those were Foundation Establishment level cores.
+
+I did, however, want to test my strength. My wings were beginning to get sore.
+
+However, far too little time had passed since I’d escaped the Guo mansion, and I didn’t want to get hunted by an existence such as Bulter Mo, or worse, the big man.
+
+As a result, the best thing to do was… stay inside and cultivate.
+
+I was still helping those children, at promised. Much to my surprise, I could raise the amount of pressure by another third of a percent by the third day, and by the end of the week, they could handle one full percent.
+
+All of the kids, even the younger ones that had no cultivation, seemed to be on about the same level, if we were to measure how much pressure they could handle at least.
+
+That was pretty good, and I saw what sort of results my applying pressure on them had. In the future, if they were to meet an existence weaker than me, then their hearts would be steeled. Or would they be?
+
+I suddenly had an interesting thought I would need to talk to Meng Mao with.
+
+Now, besides that, they were also having an easier time cultivating. Whenever they started getting used t my pressure, their cultivation speed would basically sky rocket. It was honestly rather impressive.
+
+However, that didn’t mean it was a good thing. Meng Mao knew and told them to stop and consolidate even I fthey could advance, which was an advice I’d approved of.
+
+On my end, besides training my core, I’d also reflected upon the Divine Lightning Construction technique.
+
+I was thinking, could I not collect many elemental techniques and create the ultimate cultivation technique?
+
+It did seem like an interesting approach, and would definetely fit the path I’d chosen.
+
+But for the moment I had to train with it.
+
+Whenever the children were on a break or away for the day, I was cultivating that technique. My cultivation level had reached its peak, but the technique was lagging a little behind. As a result, I was feeling a little incomplete.
+
+But the good thing was that with this much Qi, and the presence of the Qilin Horn in my dantian, I could comprehemd the technique much better than before.
+
+With each subsequent stage, my Lightning Affinity had also increased, though not by an awful lot. Still, it was better than nothing.
+
+At the end of the first week, Meng Mao h ad given me some good news. He’d secured me a spot to compete for a spot to enter the Four Corner Sword Realm.
+
+It was a little convoluted, but it was how things ussualy he went. He didn’t tell me how much it’d cost him, but knowing Meng Mao, there was some exroquery at play.
+
+Still, with the spot secured, all I had to do was focus and get stronger.
+
+Over the course of the next week I’d done just that. Using cores to boost my own, and eventually bringing the Divinge Lightning Construction technique to its peak.
+
+As for my core, I’d gotten it to the ninth rank as well, however no matter what I did, it would not accept any more Qi.
+
+As a result, I had about two hundred high quality cores left over.
+
+My body felt much stronger than before, though. There was so much Qi flowing through my flesh that I’d felt like I could just smash through the rune-protected walls of the room where all the Spirit Beasts were placed.
+
+As for the children, they were far more talented than I’d thought. Their cultivation has advanced rapidly, and their ability to resists my pressure has increased by leaps and bounds.
+
+I’d gone from the the less than one percent to two percent in the span of a week, but that seemed to be their limit.
+
+Still, that was not bad considering my bloodline. In the future, they would have no issues standing up against weaker Spirit Beasts.
+
+Soon, it was time for us to part. I’d done everything I wanted and was ready to take on that secret realm, and maybe even conquer it.
+
+I had high hopes for the prizes inside, though maybe I should have done some research beforehand.
+
+“Thank you.” Meng Mao bowed to me at a slight angle when I’d met him in his office, ready to talk about what would happen in the future.
+
+I wasn’t expecting that though.
+
+“It’s a small matter.”
+
+“Now that I’ve paid my debts to you, I don’t think we’ll meet again in the future.”
+
+“Well, I hope we do.”
+
+“Of course.” I rolled my eyes internally. “But unless you break past your current limits, I don’t think that’s going to be possible.”
+
+He blinked slowly, but a luster of understanding shone in his eyes. “I see. I guess I’ll have to catch up to you.”
+
+“Indeed.”
+
+“Then until then, let me explain how the tournament and secret realm work. I know you’ve probably heard this and that about it, but I’ll give you a coherent breakdown.”
+
+“While I cannot give you a detailed breakdown of everything happening inside the realm, since it is ever changing, I can tell you that, besdies the requirements, it will be brutal. Not only will the contestants be the best of the best, nurtured by their families or sects, but they would also be desparate.
+
+“The Four Corner Sword Realm is the most sought-after realm in the entire continent, between all clans and sects. The rewards are numerous, and there is also a ranking board for the best performing contenstants of the milennia.
+
+“The top three spots have remained unchanged for as long as the board has existed, those names being Long Lao, Xichi Xinghue and Mira.
+
+“Very little is known about them anymore, but judging by their achivements, they were impressive figures of their time.
+
+“The top ten to four spots have changed hands a couple of times, none of which belonged to our little city though. We are right in the middle of ‘Not strong enough to be recognised’ and ‘Important enough to be protected.’ It’s quite a sad existence, really.”
+
+“What are you trying to achieve by telling me this sob story?”
+
+“Oh, nothing. But if you were to get a good ranking on that board our little Golden Arch City might get a small recognition boost and allow us to get a chance to become something greater.”
+
+Once again, I’d rolled my eyes. “I don’t belong to this city and anything I do is independentent of it.”
+
+“You say that, but you are signing up as my long lost niece.”
+
+“I… guess you have a point.”
+
+“Right? So I have one small request… Try not to kill anyone.”
+
+“Why do you think I would immediately jump to killing someone?”
+
+Meng Mao gave me a look that seemed to say ‘Are you really asking me that?’ which was fair, but still, I was being accused of crimes I hadn’t even commited yet.
+
+Then again, I did kill his sons, and that assassin guy, and took part in the hopefuly death of that Chiao fatty.
+
+So in retrospect it was fair, but I was pretty sure he had more kills than me, in this life at least.
+
+Human kills, at least.
+
+“Alright, I’ll try not to murder anyone, but if someone provokes me I will not hesitate to fight back.”
+
+“I couldn’t ask for more.”
+
+He seemed rather happy about it. Was he that scared that I would do something to tarnish his reputation? Well to be fair, knowing my luck, I would, but by accident.
+
+“So where is this tournament being held? Is there anything else I should know?”
+
+“Well, besides the twelve maximum spots, the Foundation Establishment Limit and the time limit of one week for completion… No.”
+
+“As for where it is held, it changes every year, and this year we would need to travel to… The Reaper Sect.”

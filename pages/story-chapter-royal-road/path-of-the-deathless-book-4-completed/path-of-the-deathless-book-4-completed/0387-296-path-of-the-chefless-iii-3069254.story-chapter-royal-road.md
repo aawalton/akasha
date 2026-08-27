@@ -1,0 +1,233 @@
+---
+id: 727cb6cb-6fbd-542e-9d81-7d82f0820564
+page-type-slug: story-chapter-royal-road
+title: "296 Path of the Chefless [III]"
+slug: 0387-296-path-of-the-chefless-iii-3069254
+partOf: path-of-the-deathless-book-4-completed
+position: 387
+ownLength: 5636
+unit: words
+publishedAt: 2026-02-18
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3069254/296-path-of-the-chefless-iii"
+royalRoadId: "3069254"
+---
+
+Orcs taste best when they're stir-fried. Now, don't flip away from the page. This is not a joke. I mean this entirely seriously. Orcs are made of meat. They have a decent layer of fat. And that layer of fat has a bunch of other chemicals inside it that I don't really know the name of yet. But they have this wonderful, sweet, bitter layer of salt. It rests on your tongue, and, well, I think you can even use it as a special kind of grease or something. That's how thick it is. Actually, I think I can extract it from an orc and apply it to other meals. Might allow me to soak some of that orc taste into other things.
+
+Now, for those of you who think it's wrong to eat an orc because of moral, ethical, or dietary concerns, let me assure you, they're a different species from you (unless an orc is reading this, in which case, come over and say hello), and they have no problem with cannibalism. If you're worried about morally offending an orc, well, you can only do that by refusing to kill them. Trust me, I've discovered this the hardest way possible. They also find it really funny when you trick them into eating their own kind. Mostly.
+
+But that's just what you get from eating orcs at a baseline. If you have a decent cooking skill, you'll end up getting some other surprise alterations. As it turns out, eating expertly cooked orc meat makes you a lot more aggressive and also has the capability of blunting your emotional affect down to nothing, except for acts of cruelty and physical violence. Makes you a little bit more orc-like, to be honest.
+
+This might be good for certain soldiers or Pathbearers who are in the field, especially the ones who are a little bit kill-shy. For everyone else, though, I think that'll just turn them psychotic. But the emotional blunting effect can be countered by a balanced diet. If eating stir-fried orc meat on its own positions you for violence, then having an assortment of vegetables and mendules mellows someone out enough, usually, that they just end up in a clear-headed state.
+
+That's something I need to explore more: balanced diets. Frankly, people focus too much on the main course. It's not everything. A well-rounded set of meals is important for your body and mind. You gotta have more vegetables and meat. You have to have plenty of water. And you have to have all the right nutrition. Because that's what it takes to get to tranquility instead of psychopathy. Just a bit of balance.
+
+-Exotic Beasts and How to Cook Them by Shiv the Deathless of Blackedge
+
+296
+
+Path of the Chefless [III]
+
+The Sky My Lash 444 > 445
+
+Downpour, though he personally disagreed strongly with the assessment, was what the other orcs would call a “pathetic coward,” being unwilling to participate in what his brethren considered “festivities” and generally risk-averse, not stepping up to a fight unless everything was guaranteed to go his way. He also had what he liked to describe as an "adverse relationship" with pain. Ultimately, Downpour was an orc that liked to win—and would rather not suffer a torturous death if things went the other way.
+
+In his own mind, that didn't make him unworthy of respect. He was simply looking out for his own best interests, and he believed the fact that he consistently reached Heroic-Tier while so many of his fellows bottlenecked at Adept, dying over and over again in the most pointless of battles, to be proof enough of his mindset being the correct one.
+
+It was also why Downpour continued unleashing bolts of kilometers-sprawling lightning down upon the shifting, miasmic blackness where the Deathless hid. Even as the other orcs told him to stop, that he was creating too much dust and mana distortions in the area for them to properly sense if the Insul was even still alive, Downpour didn't.
+
+Every single one of the thousands of bolts that fell from where he hovered in the sky unleashed a blinding whiteness that seared Downpour's very retinas and resounded with individual thunderclaps that burst his eardrums almost faster than his Regeneration Skill could keep up. Just the side effects of his Aeromancy were hazardous to anyone in the vicinity, himself included, and could be outright debilitating without the ability to heal oneself.
+
+Downpour smirked at the cries and curses sounding from all around as his optical lenses reshaped themselves between blinks. Good thing he had that ability.
+
+Besides being so destructively potent that it damaged even its user, his lightning was also a concentrated skill. Every bit of damage he sought to deliver was concentrated on that patch of darkness, without spreading anywhere outside of his control. As such, his spells each struck like hammers flung down by a titan, shaking the coliseum and turning the sands to glass.
+
+With enough heat and force to evaporate a lake in seconds, Downpour tore a deep crater into the ground, impacting the spot where he knew the Insul to be over and over again until his pillar of red-gold matter finally shattered and vanished.
+
+But even still, Downpour kept going. For a full minute, in fact. He continued until the strain grew too much for even him to bear, until his arms spasmed violently and the smell of ozone was beginning to overpower his senses.
+
+When he stopped his casting and the deafening cacophony of thunder abruptly ceased, he took in his work with satisfaction. Everything below him appeared like a wrathful god from the old stories that the humans liked so much had laid waste to the world. The air cracked with static. Smoke and dust rose, blending with miasmic obfuscation on the ground. The Insul’s Creeping Void skill was a pitiful measure of protection. Of the 420 or so orc Heroes that remained, half of them had some form of Divination magic, and furthermore, the Awareness of most of them was Heroic as well.
+
+Even if they couldn't detect the Deathless, it didn't matter. They'd shaped a series of wards around the Creeping Void, creating a sort of encircled pit that was forged from Chronomancy, Dimensionality, and Geomancy. A looming wall of adamantine fused to glowing and static mana ensured the Deathless couldn't simply flee. A layer of gravity covered the top of the enormous pit, serving as a sort of lid in case anyone wanted to ascend. Said lid didn't prevent any spells from plunging down from on high, and so the orcs simply bombarded the Deathless with every spell they had.
+
+That didn't mean their strategy came with no casualties. The Insul had undergone a Skill Evolution of some sort in the middle of this fight, and he'd parried more than a few siege-tier spells right back at their casters. Downpour survived because he always followed this one rule: Let someone else cast the first spell.
+
+Letting someone else make the initial approach had never failed him in any of his lives. When the impatient and foolish died, the wise learned from their mistakes and reaped the final rewards.
+
+And now, coward or not, Downpour was on the verge of claiming a most delectable glory. The Insul was quite the monster to put down, and the orc Heroes who achieved such a feat would doubtless be held in higher regard by their peers. Such regard would translate to the only currency orcs cared about: experience, memory, and reputation. He would be among the elite few who managed to kill the Deathless in a direct confrontation. And he wasn't even Legendary-Tier yet.
+
+The Sky My Lash 445 > 446
+
+As Downpour's Heroic-Tier Aeromancy advanced another level, a smile crept across his face, and he finally let his arms sag. He blinked repeatedly, shaking his head. He'd come close to blacking out. He'd pushed himself hard and farther than he normally would have.
+
+As he tried to slow his breathing, something struck Downpour in the back of the head. He turned right and realized one of his fellow orc mages was glaring at him. Erosion-114 was the biggest sourpuss of an orc. A swirl of grains danced around the Geomancer's body and they vibrated with agitation. "What part of 'stop' don't you understand, Downpour? I need to spread my sand grains through the area. We need proper confirmation that he's actually dead."
+
+Downpour performed a dramatic flourish, spreading his arms out by his side as he concluded his courtesy. "Then, by all means. I was simply ensuring that there would be no body left to discover. We'll be digging out the strings of his vitality from the soil, I think."
+
+"Don't be so hopeful." The reverberating words of Prism 99997 came from the left of Downpour. Prism was more of a brawler-mage hybrid, preferring to dash in and out of battle, skirmishing instead of casting spells from afar. However, he supported the other dedicated mages in this encounter, for he was among the orcs that Downpour respected—Prism knew his limitations. He knew it would be stupid to fight someone like the Deathless head-on. That was a pleasure for someone like the Culturist or the Breaker to indulge. Clad in jagged plates that made up a glittering rainbow, Prism was a devastating but ultimately fragile orc. And that fragility had taught Prism his own lessons, mainly to never underestimate an enemy and to always be certain, always be wary.
+
+He was still a bit more willing to risk his life than Downpour, but they were more akin to one another than most other orcs were. Which is why Downpour listened when Prism spoke.
+
+"He stopped fighting back in the last five seconds," Prism said. "We could have overwhelmed him. We could have knocked him unconscious, but I don't think it's likely we did. The Psychological Shadow I've constructed of our Insul indicates that he is likely to continue fighting and maintain his aggression until he is utterly disabled. For him to stop counter-attacking, we must have gotten him a lucky strike and laid him low. Or more likely, he is planning something."
+
+"But what?" Downpour said sardonically, smacking his lips together. "I know. Let's send in the filthy Shadows and Vanguards. Let them handle this matter. We've already done the bulk of the work."
+
+The very instant he finished speaking those words, an arrow tore a strip of flesh free from his left cheek. The whistling projectile then proceeded to perform an impossible turn along the back of Downpour's neck before it gouged a deep wound in his right cheek, exposing his teeth on both sides. The arrow tore back off into the distance, toward where the Creeping Void was finally dissipating. There, a towering orc that carried a massive longbow in one hand and a wicked machete in the other called out to Downpour, "I heard you, you yellow-bellied bastard! When this is over, I'm gonna take your ears!"
+
+Downpour let out a belly laugh—and reacted in an instant as his Danger Sense screamed. He spun on his heel, calling down a dense column of lightning upon himself. It slammed against his body, shielding him from a wave of all-consuming flame. The gleeful shrieks of that maddened Pyromancer on the ground assailed Downpour’s ears. The flaming skeleton's limbs were coated in a dense layer of frost, but even with the desperate efforts put up by the orc Cryomancers, the ice was melting fast.
+
+To Downpour's greater displeasure, he found his lightning catching fire as well. A searing agony spread through the orc's mind, and he dismissed his mana to spare himself the misery. The bolt reeled back up in the sky, and the rust-red heavens above flashed once before going dark again. In the fraction of a second it took him to do that, the Pyromancer had cleared 400 meters of distance down in the arena, and was getting further by the second. He tumbled across the stands, a spinning ball of fire chased by a chain of plunging icicles that unleashed cascading tsunamis in their wake.
+
+"Come out!" Downpour cried out at the orc Cryomancers hovering 500 meters down and to the left of him. Pale white mana bled out from their bodies as they formed new spells every second, trying to contain the Pyromancer. "We're already dealing with the Deathless and that undersized wolverine of his. Hold up your end of the struggle!"
+
+The Cryomancers parted their focus just a bit to create a frosted representation of Downpour getting ripped in half from groin to head. That told Downpour they weren't truly putting their all into the struggle.
+
+"What a lamentable state of affairs," Downpour tutted. "Look at the stragglers we fight alongside, Prism. I fear we are the only ones that are putting in our fullest efforts."
+
+"Yeah, tell me about it."
+
+Downpour's frown intensified as he noted something was off about Prism. The other orc’s voice didn't reverberate that much anymore, and it sounded downright human. In fact, it sounded a bit like—
+
+The bones inside Downpour’s torso exploded apart in a series of sickening cracks. Something wet and hard erupted out from his chest, but there came no pain, for a numb, static feeling was already spreading through his sinews. Downpour's vision went dark for an uncertain length of time, and when it returned, he found himself lying at the edge of the arena, blood dribbling free from his tusks. He also found most of his ribcage and part of his spine dislodged from his chest, while the rest of his body was bent at an odd angle. It seemed like the skin and meat of his torso had gone one way, while the bones and organs inside of him had been shoved out the other, resulting in a prolapsed sack of inner biomatter swaying free from the gory chasm that ran from his chest to stomach.
+
+A pale, bone-coated gauntlet gripped the sack that contained Downpour’s innards. The orc's confusion lasted a second longer before he found himself hoisted in the air. It was then that he discovered Prism. What was left of his friend, anyway. The crystal-plated orc had been crushed and shredded to ambiguous pulp within the fractured remnants of his armor. Bits of Prism leaked out between the cracks. Erosion, meanwhile, lay in three vertical slices. The Geomancer had died with a confused look on his face.
+
+And then there was the Deathless. Who'd somehow slipped past all the Shadows and Vanguards, who'd somehow gotten to Downpour and the other orc magi. The Insul’s armor was broken and frayed, but actively regenerating before Downpour’s eyes. Half of the Insul’s torso was exposed, his musculature sporting slight burns and a map of bruises. Aside from that, however, he exhibited no other serious injuries.
+
+"How?" Downpour wanted to ask. But his lungs wouldn't cooperate, mainly because they were mashed into bloody sludge with the remainder of his removed organs. He had no idea how the Deathless had managed to escape. Did he have another stealth skill they didn't know about, or some other technique? The Insul’s body briefly flashed gold with Chronomancy, and he imprinted something on Downpour—just as he crushed the orc's spine.
+
+This time, the world went black for Downpour, and it stayed black. Even so, he didn't die. His Heroic-tier Regeneration Skill was still at work. And that was what the Deathless counted on.
+
+***
+
+Scheming Bastard 1 > 4
+
+Golemancy 45 > 47
+
+Vitaemancy 137 > 145
+
+Strider of the Unbending Path 178 > 181
+
+The Creeping Void 145 > 147
+
+Whip Proficiency 25 > 29
+
+Non-Sequitur 133 > 136
+
+Vitality Drain 124 > 130
+
+Deepest Edge 83 > 90
+
+Return to Sender 104 > 105
+
+Shiv's surprise breakthrough had been a performance of confusion and chaos.
+
+His mad plan to escape from the orcs' constant bombardments had him pulling out every remaining corpse and spare bone armor he'd stored within his cape. From there, he constructed a larger version of himself, something huge, something that could house multiple entities inside. It would also provide cushioning for said multiple entities. Such was how Shiv managed to hide both a Vitae Golem and Gone within the same Trojan corpse.
+
+He created the golem using his Bifurcated Processing. It was a logistical golem, possessed of only one skill: Pillar of Orichalcum. Its duty was simple: make the pillar as tough as possible and keep going until it was out of vitality or the orcs somehow managed to break the pillar. At the same time, Gone was tasked with pushing the decoy corpse around. As she did this, Shiv went Non-Sequitur, leaving his Vitae decoy within the decoy corpse—creating a sort of nesting doll of decoys in an attempt to overwhelm or simply blindside the orc Diviners.
+
+In the meantime, he fled, slipping through the wards and adamantine walls the orcs were forming around his distraction. He'd never stopped filling the air with Creeping Void. Ultimately, his concealment mattered more than true stealth, hiding his layered deception long enough for him to reach the most distant of the orc magi.
+
+From there, he started working his way back in. He managed to slay the first group of orcs without any of the others noticing. Though Deepest Edge was merely an Adept skill, the damage it inflicted was devastating when paired with The Last Morsel's orichalcum edges and Shiv’s Legendary Physicality. Two of the orc magi had more esoteric Toughness Skill fusions, their bodies turning to water and lightning respectively as they tried to reposition. However, Shiv's Shapeless Tides were built for countering and interacting with mana, and he came down on them like an avalanche. Seizing them close to his chest, he squeezed them to death as he broke their mana forms and then mangled their bodies thereafter.
+
+From there, he got to his next group, exploiting a rising wall of fire left over by Candles to hide his approach. By that point, the orcs stopped unleashing siege spells where Gone and his Vitae golem were hidden within the decoy corpse. He felt a bit of worry when he realized he couldn't see the red-gold tower of his golem anymore, but he suspected Gone was most likely fine. She was a Legend after all, and she was covered by so much corpse meat, bone, and expendable armor that she would only have to endure the most penetrative of mana types, such as Psychomancy.
+
+After another cadre of butchered orcish mages, Shiv found himself in the brutal present. The badly mutilated orc he'd just struck from the sky and then tossed served as his actual movement vector, his temporal echo imprinted on him. It was what would allow him to reposition and continue his attack on the other orc mages. And just when the other orcs realized something had gone terribly wrong and noticed him standing in their rear line, he flung the Aeromancer over the Cryomancers before accelerating toward another group of orc mages.
+
+The Cryomancers turned away from trying to resolve the problem that was Candles to face the Deathless that was all too close for their comfort. They almost completed a full siege spell when he appeared right next to them in a flash of flickering gold and descended upon them, whip, Biomancy, and Morsel tracing crimson death though the air.
+
+He became a blur of crimson, practically shredding the unprepared ice mages, dismemberment and decapitation occurring faster than most of his enemies could blink.
+
+As he stomped the last surviving orc ice mage's head into paste, Shiv absorbed a rush of vitality from his Enchained Heart and refueled the Vitae he spent. A crackle of static came from his right. Shiv dodged out of reflex, phasing through a beam of concentrated electricity. It carved a deep wound through the ground beneath him and curved up to split the stands. However, a series of wards formed in front of the orc spectators, and the siege spell splashed apart against the combined mana of a few hundred thousand other orcs. Collateral damage was a lesser worry when everyone in the audience was also an accomplished martial Pathbearer.
+
+Phase Frame 51 > 53
+
+Cracking his neck, Shiv turned to face the other magical attacks coming his way. He sought to return them to sender—a struggle made far more manageable as the spells came in staggered sequences. The orcs were unprepared for his repositioning. Furthermore, he saw a burst of golden lightning flash in the distance. Gone had broken free of the protective perimeter as well. The orcs were no longer pumping their mana into keeping his decoy caged. However, before the other spells could reach him, a sky-high tide of flame smashed into them and consumed their mana in a burst of all-devouring Pyromancy. Without the ice mages, Candles was free to wreak havoc, and he wanted to do only one thing.
+
+Candles shrieked. He rose high above the arena, trailing fire like a comet’s tail and bringing a source of pure light to this bleak and miserable place. "Burn!" he screamed, and he grew even brighter. For a moment, he didn't look skeletal anymore. His flesh returned, and at the center of the inferno, Shiv saw the shadow of an elf, before even that faded. It disintegrated. Candles became one with the flame, and he shone like a star on the verge of exploding. "Burn," he called one final time, “burn for me, baby!”
+
+And with a sound like a high-pitched scream and a devastating mana bomb going off, a flood of world-swallowing flame consumed the coliseum. Shiv braced and bade his tides to resist the ocean of fire spilling free from Candles just before it washed down over him, but to his surprise, it parted perfectly around him, leaving a small space around his person untouched.
+
+In the air, it was like an endless waterfall pouring out from the sun itself. The sphere around Candles was a cracked egg, and the mana it birthed was endless, only growing more with every passing instant. The flood spilled forth, vaporizing millions of tons of soil and excavating the floor of the coliseum deep enough to drop a mountain inside. Where the Pyromantic detonation scoured the earth clean of matter unimpeded below, it crashed against the colossal wards caging the arena on the sides and drilled up into the heavens like being directed out of a funnel.
+
+Throughout the confines of the arena, spiraling spell patterns turned into vortexes as the orc magi did all they could do to keep the flames at bay. Small pockets of sanctuary formed amidst the spreading conflagration. But not all the orcs were so fortunate or powerful enough to spare their own lives.
+
+Keeping himself afloat with his tides, Shiv watched in bewildered amazement as dozens of Heroic-Tier were simply dissolved in the wake of the flames. He could track them using his Atlas; their life signatures burned bright, their Toughness and Magical Resistance allowed them to endure for a few seconds, but ultimately, Candles' power overcame them. They vanished in motes of ash and ultimately left nothing in their wake. As he scanned his surroundings, he guessed a good 30% of the orc Heroes had been annihilated in an instant. That made the grin that had spread across his face falter ever so slightly. This one attack had been more potent than everything Shiv had thrown at the orcs over the course of the entire battle. Combined.
+
+If Candles had this much power…
+
+Was he just waiting for a real opening to unleash it all? Shiv wondered to himself. Or maybe he didn't have a chance earlier with all the orc mages trying to pin him down.
+
+Whatever the case, Candles flared bright, and he demanded that all the world burn with him.
+
+Shiv took a step forward, saw how the fire parted before him, and then charged forward into the inferno without fear. Shiv offered the Pyromancer a thumbs-up and kept going. Wherever he went, the way ahead cleared. Soon, he found himself picking off groups of orc mages as he burst into their warded sanctuaries, cutting their bubbles open with Morsel in hand and tides flaring.
+
+Now the fight was turning the other way around. And the weaknesses of the orcs were becoming more evident. Ironically, it was aggression that undid them. When the grayskins had the momentum, they were a nightmare to face. They coordinated intuitively with one another and seemed nearly impossible to plan for. They thrived on causing chaos and overwhelming their adversaries by unleashing an unceasing load of chaotic and even esoteric attacks.
+
+But when their momentum was halted, when the momentum worked against them, then the orcs broke down. They didn't have a command structure. They didn't care about one another the same way races of Earth did. Orcs abandoned the most vulnerable members of their group to their fates without hesitation, and generally defaulted to fighting alone.
+
+A battle that started as three Legends facing off against a few hundred Heroes was suddenly changed. Now, it wasn't a few hundred Heroes fighting Shiv at once. Now, it was him cutting them down in detail, engaging four to five of them every other second while they tried to turn things around and cut Candles from the sky.
+
+The Vanguards and Shadows did what they could, but caught out of place and without the support of their dedicated mages, they started dying en masse as well. With how fast their life signatures were vanishing, Shiv suspected that Candles was doing the same thing for Gone—creating tunnels in the fire she could rush down, allowing her to slaughter rows of orcs in quick succession.
+
+And over the roar of flames, Shiv could hear raucous cheering. The crowds loved the bloodletting. They loved the sudden twist of tension, and they loved him and his fellow prisoners. He could hear his name being chanted. He could see magic rising into the air. Spell patterns that twisted the light itself to show representations of what was actively happening in the arena. Shiv watched a visual illusion of himself rip the head off an orc Geomancer. He couldn't help but smile.
+
+This was the fight he'd chosen. It wasn't a meaningful fight. It didn't alter his faith or fate. It didn't need to happen. It was killing and fighting for pleasure and practice and without true consequence, but it was something he wanted. It was something the orcs wanted too. He thought back to what the Culturist had said. If the itch didn't have its hooks in their souls, or if they could only control it, would they be as vile as the Challenger had designed them to be? He'd seen them take interest and pride in things besides slaughter and torture, even experienced them bonding with others and building friendships firsthand, in the case of 811 and his anger over Shiv's murder of his vampire friend Isaiah before they entered Gate Theborn.
+
+The slightest adjustment would make them more than just monsters, would bring them closer to being individuals. And if that were to happen, if they could keep their love for the struggle and be stripped of that insatiable urge for cruelty, then how wonderful could they become?
+
+That was the question which churned through the Deathless's mind as he obliterated the face of another orc using the flat end of his Legendary frying pan.
+
+Maybe I should think about that later, Shiv thought to himself. Right now, let's finish this appetizer so I can get to the main course. The Culturist is still waiting…
+
+And given a moment to breathe, Shiv decided to try something else. He used his Bifurcated Processing to create another golem. This one he designated his Bullet Golem. Its duty was simple: to accelerate into his enemies and to crush them using sheer momentum and overwhelming durability.
+
+The golem received Leviathan of the Shapeless Tides and Pillar of Orichalcum before it emerged from Shiv, snapping free from his vital substance in a flash of white and red before quickly being joined by a brilliant golden shine as a pillar manifested around the golem.
+
+Go! Shiv telepathically instructed his golem. Smash into every orc you can see until they turn to paste!
+
+Psychomancy 33 > 34
+
+And it flew off, rushing ahead, twisting its body so that its Pillar of Orichalcum functioned as a plow. Candles created more gaps in the Grand Inferno to suit Shiv's mobile projectile, the Deathless created another, and another after that.
+
+And soon, orc mages found themselves splattering before the sudden emergence of orichalcum battering rams that burst through the flames, crashed through all wards, and ground flesh and bone into sand and glass like a pestle grinding away at the base of its mortar.
+
+Golemancy 47 > 49
+
+***
+
+"Wiiiild," Jessica muttered, clutching the sides of her head, "absolutely wild! You teach this kid any of this shit? Come on, you got to have coached him. You got to."
+
+The ancient lich to her left just laughed as he shook his head. They hovered in the sky slightly to the side of the arena, having moved slightly to avoid being singed, and they watched as the kid pulled one trick out of his ass after another.
+
+First was that overly complicated disappearing act. Jessica had to admit that overly complicated had probably been necessary in this case, since he was running up against a bunch of Heroic Diviners. Leaving a decoy, a golem, and one of his allies within that Trojan corpse was quite the idea, but it worked. The System did register part of him as being present. And all that confusing Vitae and mana probably fooled the Diviners—long enough to allow him to start skirmishing and turn the fight around.
+
+The way he butchered the Cryomancers, being a thing of chance or not, freed up Candles to unleash his own carnage. And then the Pyromancer surprised Jessica too, showing a flicker of who he likely was before the Rubix Well broke him. He was powerful, and he clearly had more than a little aptitude for meticulousness with how he kept his allies safe amidst his inferno.
+
+Then the kid unleashed a final gift on the orcs. He started using his golems in a creative way: He turned them into missiles. Pillar of Orichalcum, paired with his Shapeless Tides, allowed him to slam down on orcs using his ever-hardening projectiles. The Golems were economical too. They would run out of Vitae eventually, but they would keep smashing into the orcs for as long as they existed—and that was more firepower and endurance than a great many offensive spells offered.
+
+Valor hummed and shook his head. "The boy simply has a mind for deception and surprise. When he spends some time thinking, he can surprise a great many people, especially himself. Unfortunately, I think he still needs to practice that more."
+
+"Thinking?" Jessica asked.
+
+"Quite so."
+
+"Well, I'd say he thought this one through pretty good. He managed to figure it out. You've got to skirmish with the orcs. You've got to break their structure down and force them to fight for their own lives. Think after this, he'll probably have an easier time fighting them in the future. Till he runs into a competent Maestro, that is." And speaking of competent Maestros, Jessica's eyes fell on a particular orc waiting at the edge of the audience stands. The Culturist was easy to pick out from all the other gray-skinned monsters. He was larger than most, but not by much. What stood out most were the way he carried himself and his peculiar choice of outfit, the owl-like ensemble billowing in the air, making his presence moonlit and practically ghostly.
+
+“Speaking of competent Maestros,” she said, voicing her thoughts, “I hope our boy enjoys this moment, because after he finishes killing these orc heroes, I think he's going to start learning a real bitter lesson.”
+
+Valor regarded Jessica as if she'd said something wrong. "Bitter?"
+
+"Look, I'll pat his oversized ass right now and admit a few things: He's built for war, he's pretty clever when it comes down to figuring out how to screw people over to kill them in creative ways. But that's not going to be enough against the Culturist." She frowned as she tried to judge her own chances. "Shit, I don't know if I'm enough against the Culturist. He's got this overly humble attitude toward us, but looking at that damn orc makes my bones ache. If it were me, I'd try to pin him in place and force him into a head-on fight. But he strikes me as the type with plans within plans and more plans hidden up his ass—more skills than a hundred other Pathbearers combined."
+
+"Your assessment is quite accurate," Valor said, nodding faintly. "So, how do you think Shiv might be able to best him?"
+
+"Again, I don't think he can."
+
+Valor huffed. "Come now. Think like a swordsmaster who must see their disciples succeed against a hated foe. It is not about likelihood or percentages. It is about must. If he must cut down the Culturist, if he must fight for our honor and dignity, for our very lives, how would he prevail?"
+
+Jessica got to thinking. She folded her arms and studied the Culturist. Then, as the flames unleashed by Candles danced and a wave of light washed over the cowled orc Legend, she realized his eyes weren't on Shiv, but on her and Valor instead.
+
+And she got the feeling that she was being challenged.
+
+The Giantsbane sneered. It was a mistake to challenge Jessica Hawgrave.

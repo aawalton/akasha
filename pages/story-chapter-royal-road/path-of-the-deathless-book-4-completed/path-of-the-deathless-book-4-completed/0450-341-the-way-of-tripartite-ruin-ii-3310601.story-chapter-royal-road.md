@@ -1,0 +1,257 @@
+---
+id: e3f1f23f-3526-5519-b280-49b09d9c5d33
+page-type-slug: story-chapter-royal-road
+title: "341 The Way of Tripartite Ruin [II]"
+slug: 0450-341-the-way-of-tripartite-ruin-ii-3310601
+partOf: path-of-the-deathless-book-4-completed
+position: 450
+ownLength: 6233
+unit: words
+publishedAt: 2026-04-23
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3310601/341-the-way-of-tripartite-ruin-ii"
+royalRoadId: "3310601"
+---
+
+My world's ancients had something called the “Combined Arms Doctrine.” It predated the System and saw a collective sort of fighting between man, machine, armor, air, land, and sea standardized.
+
+From the Electric Archives, I managed to reconstruct quite a bit, and after years of careful translation, I managed to glean some insights into how people approached warfare before the System.
+
+It was really quite sublime. Every individual unit within the force functioned as a cell of sorts, a supplemental part to a grander orchestra. Armor, much like our vanguards, was meant to serve as the main push to strike and hold the enemy's attention, but aside from armor, there was infantry, scouts, anti-armor, and so much more. They spoke of things like fire and suppression, along with a great many acronyms I have yet to decipher. But from what I can currently tell, they are akin to white blood cells for the armor. They survey the terrain. They make sure others like them don't strike at the vulnerable armor. I see a similarity there between them and us. Our Vanguards, though powerful, often fall prey to Shadows and Assassins who are what they cannot see coming. These present the greatest dangers of all. What better counter, then, than a good archer with high Awareness, or even your own Shadows lingering behind the vanguard?
+
+But they didn't have mages at the time, no magic at all. Their technology was a miracle in and of itself. Their artillery could reach further than even most Master-Tiers, and their missiles and aerial capabilities were so great that they allowed them to slip past the bounds of Earth's atmosphere. Imagine such a feat before the time of the System. Imagine them spreading across worlds. No gods, no kings, no higher-appointed destiny made manifest. Just of their own volition.
+
+Isn't that quite something?
+
+By now, some of you might be wondering: what does this have to do with practicing atheism? What does this old history about the long-dead ancients of a backwater planet barely in touch with greater Integration offer you toward the slaying of a god?
+
+Gods are parochial. Most of them have only a few Domains, and few of them are so guided and versed in war that they cannot be surprised. Most of you know that a flawed Pathbearer is a vulnerable Pathbearer: A Legendary Vanguard who can crack cities will still be made a victim if their Social Skills are feeble and they find themselves faced with an emotional saboteur. The greatest Shadow, who can glide between places dark and light without ever being noticed, can just as easily be fried to a crisp when a mage unleashes a spell that boils all that is flesh within the continent.
+
+Deprived of their auxiliaries, stripped of a supporting force, a god's vanguard is still at the ceiling of a dimension's power, but that does not mean they are unbeatable. Far from it. You don't need to retreat when they approach. You simply need to know where they falter and strike them there. Strike again and again where the god's Domain cannot guard them, where the skills they have amassed over the years and the skills of their Avatars exist to falter.
+
+There is another word that I have seen multiple times in the Electric Archives. Another concept the ancients held so dear.
+
+A-symmetry. B-asymmetrical. Never face the god directly. Always, always tease them. Always, always exist on the borders of their capacity. Remain in their sight beyond their reach, and let them betray themselves.
+
+Remember always that a god is shackled by the concepts that form the pillars of their Divinity. That a God of War cannot stand to retreat without shattering themselves, that a God of Thieves cannot be presented with a bauble and not steal it, that a God of Wisdom abhors ignorance will do anything to stuff their mind with knowledge—even foul, fetid, festering knowledge born of the darkest pits of the Outside.
+
+A god is not armor without infantry support. A god can be infinitely more vulnerable. For a tank might be able to turn back on its treads, but a god cannot, not metaphysically. So, put them there, make them choose, make them suffer the shape of their own design.
+
+—Practicing Atheism — Second Edition, by Udraal Thann (Number one Best-Seller among the Godhunters of Chorus, the City of the Twelve Worlds)
+
+341
+
+The Way of Tripartite Ruin [II]
+
+“I'm not insane. I'm not insane. I'm not fucking crazy! I'm not insane.” Both Georges and Longinus muttered those words to themselves as they examined the horrors wrought upon the Pastry District. The dimensionals tasked with guarding the area had been torn to ribbons.
+
+They were the contingent of Pyro, Bio, and Aeromancy summoned by Longinus to serve as the guardians of the space. Each one was at least a match for a Master-Tier Pathbearer, and each one had been shredded clean through by what seemed to be a storm of shrapnel. Now, they lay in cleanly cut pieces, scattered across the land. Their desecration was made worse as most of the corpses had been sprinkled into the town-sized banana bread that was due for the Princess’ stomach.
+
+The closer examination revealed to Longinus a horrifying fact: The banana bread had been ruined even before this infusion of dead dimensionals.
+
+Someone had lodged festering tumors inside. Mounds of flesh that pulsated with teratomas and pus. The core of the battered bread was also stained and defiled by a smearing of darkest blood. None of the local slaves had gone missing, so it couldn't be from them. The Biomancy dimensionals lay dead. Most of their pieces formed the cohesive whole of the twelve that Longinus had called, so it couldn't be their doing either. What right-minded dimensional would ruin a meal by killing themselves in the process?
+
+No. There was a hidden adversary here, a saboteur from another kitchen. They were striking at Longinus, ruining his great works. They were trying to shame him before the Princess and make him lose standing, have the space taken from him. Or maybe it was Evanescia, having grown bored of inflicting him with the usual struggles and now seeking to drive him to the brink, as she did when darker appetites took hold of her. Or could it be Valor Thann, finally come to avenge the Ascendants’ desecration of the Great One?
+
+The problem with living centuries was that you had centuries to make enemies, and Longinus had a great many enemies, beyond the accounting of even his prodigious memory.
+
+And then there was the matter of the cuts. Scratches and shallow scars were painted across the body of Longinus' Avatar. Every time his guard was slightly dropped, every time his motion stabilized and he returned to a baseline state, something struck at him. Always just once: a quick sting that parted skin and muscle, exposing the sinew and inner flesh deeper within. Such were the wounds Georges suffered before his reformation via magical steam.
+
+But the wounds dealt to Longinus ran even deeper and were ever more alarming.
+
+So far, only the outer layer of his soul had been harmed, but the unseen enemy was chipping their way through. Every stroke was delivered over an existing entry, and they were licking layers away like a tongue getting to the core of a melting piece of candy.
+
+The slashes were physically powerful and spiritually surgical. Worst of all, they came from somewhere unknowable. Longinus tried to retaliate, attempted to bait out his adversary by leaving decoys. He wove magical illusions, projected slivers of his soul to serve as a parted vanguard, a sacrificial front line, so to speak, to lure out any avaricious enemy. It disturbed him to discover that his hidden hunter possessed a measure of patience and perspicacity. They were able to discern the falsehood he re-erected from his true self. Furthermore, they were willing to wait until he exposed himself once more, until his Avatar reappeared, or he lingered in one place for too long.
+
+Longinus tried to counter this through speed and maneuverability. He constantly stayed mobile, drifting through the air of the Boiling Toad. He was a galloping wanderer striding upon a blanket of blackened clouds, seeing through all with his divine gaze. But even with his God's-eye view, the enemy remained unknown beyond him. A bitter pit began to boil in his stomach, turning fear, loathing, hatred, and frustration into a concoction that strengthened his Toughness and fed his physical might.
+
+Once more, his soul began to transform. Skills parted, skills fused; his nature changed on a whim, in accordance with what he felt. The cortisol burning inside Georges was smelted into a source of momentum and power. If granted a target to charge down, Longinus would tear through them and cleave a clean chasm across the horizon, splitting mountain ranges and undefended cities alike. But there was no target, and this bestowal of power was wasted, for what he needed was Awareness. What he desired was an omniscience beyond what his current Awareness offered.
+
+He spun divining bands of violet silk, used it to engulf every bit of this pocket dimension he used as a kitchen. Though he tracked every dimensional he summoned, though he had every slave under his charge leashed, he remained in the dark regarding his enemy.
+
+And as the hours passed, things got worse. His enemy learned to predict his path, and they jousted with him from angles unseen, still unpredictable. They tore pieces out of his shoulder, drove tides of cutting intent under his armpit and against his joints. New gashes were chipped across his body; his pristine form was being debased. The marble statue he'd made of his form ruined, his divine mana defiled. His enemy gave him a penalty of pain and wrought forth a flood of anxious horror and agitation rather than a gush of vitality or blood.
+
+Though Longinus remained resilient, the shape of his inner self bolstered by all the worship that burned inside, by his countless Legendary skills residing exactly at the peak of the ambient mana threshold of Integrated Earth, where his true self was anchored, he remained impotent. That he couldn't call upon Mythic levels of power in his Skill output despite the local dimension theoretically allowing for it stung once again. His struggles seemed hopeless. He couldn't find his enemy. Every now and again, there would be times when a thrill would take hold, when a ravenous fury would rip through him, when he would drown in the exultation of battle and pursue something, thinking he was about to cut down someone. But then his mind would be winnowed. Something would rip through him—tear his near-term memory apart.
+
+Afterward, he would find himself staring at things like his banana bread mountain, ruined before completion, debased, and left as a lingering taunt.
+
+And so, an ache built inside Longinus, an ache of an epiphany deprived, of a realization stripped away after it was gained, and of a building feeling of hatred toward this unknown enemy, toward his own helplessness, toward the cage he remained trapped in after all these eons.
+
+“I'm not insane. I know I'm not insane. I know that the only person who can do this to me, the only person who has enough power and has the skills to do this to me, is another God. No, is an even bigger God.” He turned his gaze up toward the metaphorical sky, towards that blackened blanket which loomed above him. Toward the flames that danced along the edges of his realm, cast forth from the massive convection plates serving as the bedrock to his kitchen fortress.
+
+His handsome, chiseled shadow’s visage turned hateful, and he forced Georges to mirror his expression, for he didn't want to indulge in this spot of wrathful defiance alone. “Alright, what is it this time, you fucking bitch? What do you want from me now? Do you want me to perform? Do you want me to do a dance? Is this a new struggle you designed for me? A special arc for me to go through to learn the errors of my ways, that it's wrong for me to prey on those beneath me and fit your desired mold of hero. Is that it? Is that what you're fucking doing again? Is it?”
+
+Longinus felt his soul shifting about once more. The mana that composed him. The skills that defined him. They unraveled and they remingled. He was changing again. He was changing, and he stood at the very limits of his hatred. “Well, fuck you, cunt! Fuck you! Do you hear me? Fuck you and the pages you flip and the stories you read and whatever else you use to fill that miserable, fetching hole inside your chest! Fuck you! Hear me, and hear me good: Fuck you! I'm never gonna change. I don't care if you keep me here forever and ever. I'm Longinus. I am the Wanderer! I am bound to walk, to ride, to travel, to taste, and to indulge! That is who I am. That is the truth of my shape. Though you have this miserable, traumatized little shade, this speck of my wholeness trapped here, the rest of me still rides beyond you and your hollow world. The rest of me escaped from this miserable Avatar that you hold. You’ll never have the whole of me, you twisted fuck! NEVER!”
+
+Longinus raged, and Longinus raged in vain. Despite the dense fogs of thundering rage that clouded his mind, a deeper part of him knew she wouldn't respond. She never responded when he was in such an emotional state. She came to him only of her own accord, only wearing someone else's skin, wrapped around someone else's soul. Though he had fought her across a thousand loops, though he had lain with her, been truly intimate with her, it was never on his terms. He only found out in the aftermath or during, and the true salt sprinkled upon his wounded pride was the fact that he couldn't do anything about it.
+
+The Wanderer could bellow, the Wanderer could ride, the Wanderer could break out of this prison inside a prison, wear his Avatar, and leave the Summer Court. He could abandon his current duty as Chef to the Princess of the Harvest and simply stride toward whatever vista he desired. There were many horizons to seek in the Fairwoods.
+
+Too bad he'd run them all.
+
+Too bad he'd lived so many permutations that he could reliably predict the next hamlet, the next mountain hole, the next miserable graveyard, the next battlefield he was going to run across.
+
+He had lived too many of her stories. There were no more surprises left.
+
+Or so he'd thought. Until this loop. Until he started suffering spontaneous acts of sabotage, until he was dealt wound after wound from a fucking phantom enemy.
+
+The crushing impotence residing within him became twin-headed. He realized now that Evanescia was taunting him. This had to be her doing. There was no one else who could provoke, abuse, and torture him so. She wanted to remind him that this was his cage. One he couldn't escape, no matter how fast he went, no matter what skill allowed him to instantly transmute himself into the curve of the horizon, no matter how far he traveled, no matter what distance he accumulated, what gaps or paths he opened before himself.
+
+In Evanescia’s kingdom, Longinus the Wanderer was a god that didn't matter. He was a portion of himself that he would never get back. He would never return to the Yellowstone Republic, never see this instance of himself rejoined with his greater Divinity. He would never truly find and satisfy his dreams of lustful revenge upon his most unreachable captor.
+
+For a time, he succumbed to malaise. He played the roles she bestowed upon him. He stuck to the script, hoping that he could learn from her or at least gain some form of reprieve. And he did. He indulged in his twisted desires, ones that might have been too much for even Veronica to stomach. And Evanescia allowed it. She treated him like a case study, something to observe and take in as spectacle or delight. She allowed everything. And for a time, that satisfied her.
+
+But not anymore, apparently.
+
+She was changing the script again, dropping an unexpected twist obstacle in his path. She had done things like this before, made him face enemies he had no chance of defeating in direct combat, but Longinus remained a god. Even if his Avatar was damaged or destroyed, he could choose another, and he had worshippers even here. It was how she allowed this sliver of him to sustain itself, to keep burning thanks to the fuel derived from faith and worship.
+
+Though the challenges she bestowed upon him were great and potentially a magnitude beyond his skills, he always had options; he always had choices. He could always run, seek the horizon. He could always be what he was meant to be.
+
+But this place was his. The slaves, his. The dimension, his. The kitchen, his. His flesh, his. His avatar, his. His Divinity, especially his.
+
+And all of that had been struck and damaged and destroyed and insulted over and over again. This was a desecration, not of his ability or his potential or his power or his source of worship. No, something much worse—it was a campaign of terror meant to ravage his very pride.
+
+And what was Longinus the Wanderer without his pride? What was the Rider without ambition, a future to imagine, a flavor to compel him, a dream to seek?
+
+What was he without the greatness of his ego?
+
+“Is this just a punishment? Huh? Is that it? Are you just beating me down this time? Am I a side character to some other god's story? Are you just grinding me down so that you can see me lose once? So that you can provoke another reaction out of me? So that I can perform for you and give you a new set of emotions? Is that what you want? Huh? Tell me! Answer me! Answer me! Narrator! Evanescia! Speak to me, you fucking bitch! Say something! For System's sake, just give me a hand! Tell me what you want, and I'll even perform this time! Huh? How about that? You can fuck me directly! You don't even need to trick me anymore! Is that what you want? Just me? Or to let someone else ram their cock inside me for once?”
+
+A weak chuckle sounded in response to Longinus' tantrum. But it didn't come from on high or all around or beyond this vast book that defined the Fairwoods. The laugh came from within. The laugh came from Longinus himself, or at least from a part of him in which he'd invested himself. Gods needed mortal vessels. Gods needed channels to bestow their power upon the world. Georges had been that channel for Longinus—and quite the delicious channel at that.
+
+The Wanderer had mounted much more handsome Avatars before, stronger vessels, smarter vessels, older and younger vessels, vessels born to unique races, vessels of unique makes, vessels of monstrous origin, awakened and properly tamed. Longinus had planted the seed of his existence in a vast field of people, thousands at the minimum. Georges stood out not because he was altogether unique, not because his will was truly remarkable, not because his cooking was even that spectacular, though it was indeed a cut above most, and he was quite the workhorse.
+
+No. Longinus had chosen him because he was spiteful, and foolishly spiteful at the wrong moment. And even after all these loops, even after being trapped with Longinus for so long, that spite still endured when the Wanderer’s grip slackened.
+
+If anything, the underlying hatred the Avatar felt toward the god that wore him was even greater than before.
+
+That hate was expressed in the faint glints of loathing residing behind Georges' eyes. That hate had been there since the moment Longinus took him. And it truly was a thing done on a whim. The poor little Hero-Chef had had an apprentice, a young girl. She was adequate at cooking, Longinus supposed, but he wasn't interested in her for that. No, she had a nice crop of short red hair, and she had exactly the look he wanted that day, and so he presented himself. He was cordial enough at first, and then, well, he supposed he got a little bit excited, and she got a little too nervous, and things ended a bit more tragically than the Wanderer would have liked.
+
+But in his defense, she learned to love him for a time, just like all the others did. After enough infusions of love, everyone could be taught how to properly love Longinus.
+
+And then, one day, he wandered a bit too far, stayed gone a bit too long, and let his gaze drift away from his homestead back at the capital. And the poor, foolish girl and her even more foolish mentor decided to be audacious. They thought they could spirit her away from a god. Longinus had to give them some credit, though. They made it all the way to the border of the Republic, and they might have gotten even further beyond if one of Maiden's alloyed watchers hadn’t whispered of their escape to him.
+
+The moment he knew, the escape was over. With the first step, he crossed a few ten thousand kilometers and returned to his home in the Yellowstone Republic capital.
+
+When he indeed found his home empty, he stepped again, and that second step brought him before the escapees. The dark clouds above didn't herald his arrival, but they made the scene he found all the more tragic. There she was, the girl who scorned his love, still so set on offending his heart on that black and dreary day, her beautiful face full of loathing and fear. The bad weather had already upset his mood, and her rejection of his affection pushed him to do something unseemly.
+
+Today, he remembered little of her: not her name, not her skills, or her history. Just that she'd been a chef, that Georges had been her mentor, and that her head had popped in a most undignified way when he slammed his foot down on her.
+
+But Georges… The sound that escaped from the man just then was the very expression of heartbreak. And it was that rasp, that clutching of his chest, that falling to his knees, and the tumbling of tears that stilled Longinus' outstretched hand. He hadn't even cared that much about Georges before, but for him to feel so genuinely for that girl, and not even romantically at that? For him to come undone before a god, uncaring of his own fate? Well, Longinus' sour mood was properly tickled.
+
+And so began a new love affair for Longinus: because though he had all manner of Avatars, Georges was especially genuine. Especially in the way he looked up at Longinus, his legs soaked in the gore of his apprentice, his eyes gleaming with that same defiant hate.
+
+“Hm. You know what? I think you'll do.” Longinus had smiled down at the broken chef. “Maybe this day wasn't a complete loss.”
+
+And Georges spat at him.
+
+And Longinus just smiled.
+
+And he punished the man good and proper, in all the ways he knew.
+
+After a bit of training, Georges learned to stop screaming and sobbing and use the proper words: Yes, Wanderer. Does that please you, Wanderer? Is there anything else you would like from me, Wanderer?
+
+And when Longinus willed it, Georges learned to love. But there was always that little pit of disgust and trauma and apoplectic rage inside the man. So much poisonous, sickening emotion toward Longinus, and the Wanderer feasted on that. He let Georges keep a portion of himself, not enough to truly rebel, just enough to hold on to that misery so that he could be tamed over and over again.
+
+It mostly proved amusing, except for times like now. Times when Longinus got too distracted and let that leash slip. The Avatar grew distant from him, and the individual that Georges used to be returned. The endless depth of ridiculous loathing came back with him.
+
+“Is something funny about our current fucking predicament, Avatar?” Longinus seethed. “Because if you haven't noticed, you are suffering more than I am. You are marked deeper than I am by our assailant.”
+
+Georges' lip curled. It was a twitch of motion at first, but then a full scowl bloomed across his face. "Well… isn't that just a fucking shame, you cunt? To tell you the truth, I'm glad we're in here. I'm glad we're in this purgatory. I'm glad that you found someone you can't just force yourself on—that decided to force herself on you instead. I'm glad that we're just animals inside a cage. I'll happily spend a million more fucking lifetimes here suffering endlessly, getting abused like a fucking beaten dog, if it means you hurt with me. Because you deserve it. You deserve it more than anyone else in all Integration. And if I could, if your grip on me broke, I would worship her. I would fall to my knees and give everything of myself over to her, just so that she can make your life worse. I am glad we are slaves here, and I'm glad this hurts you. Because before, the thing that killed me the most, the thing that almost made me open my fucking wrists, was the possibility of you getting away with it forever.”
+
+“Well, wasn't that just a cute and furious little rant?” Longinus whispered. “I think I've given you too much space—and I think you've forgotten the relationship between us. Everything I've done for you, all the good I added to your life.”
+
+From within Georges came the supple, sweet nectar of baleful despair. It took everything that the Avatar had not to break down in tears of trauma. “I haven't forgotten… anything. What you did to me, what you did to everyone around me, I haven't forgotten. I'll never forget.”
+
+Despite everything, it was Longinus' turn to laugh. “Really? She's still that close to your mind?”
+
+Georges’ face shivered with impotent rage. Longinus considered seizing control and commanding this uppity slave to love him again, but he kind of wanted to see where this was going.
+
+“Always,” Georges breathed. “I can still feel her blood. I can still see her face. But you know the worst thing? The thing that broke me before anything you did to me was hearing her cry. She tried to hide it. When your love fades from us, everything else you did still remains. In her. And in me too.”
+
+“Well, I couldn’t be around her all the time to give her happiness,” Longinus replied casually. His golden shadow’s words caused Georges to shudder like someone had driven a blade into his chest. The Wanderer sneered down at his Avatar. “What’s up with that expression? I’m not going to give you love right now, if that’s what you want. No, I don't think I'm gonna be giving you love for quite some time after this little spat.”
+
+Elsewhere, far away, but all too close to Longinus, the trapped vestiges of the man he once was before the false god took hold cried out in self-disgust. What the fuck is wrong with me? Just let him go… Just let him go. He's suffered enough. You've done enough to him. The things you've done to him. The things I’ve done… I don’t know how to make this right…
+
+But though his true self went unheard, something returned to the fold, and it brought with it a resurgence of memories. Suddenly, Longinus could remember who he was hunting, why he was hunting him. The confusion that gripped him for so long lifted like a fog cleansed by the coming of dawn.
+
+A giant of a boy stood across from him. He appeared from nowhere. He didn't walk over. He didn't soar through the air. One moment he wasn't; the next he was, and he glared at Longinus with a darker hate than Georges' cassette could ever muster. Black flames leaked out from his eyes in a show of overflowing rage. The Wanderer knew who he was. This was the one who troubled him. This was the one he was hunting. This was the one who'd destroyed the banana bread, who butchered all his dimensionals, who engaged in this campaign of psychological torment.
+
+It wasn't Evanescia. It wasn't Valor Thann. It wasn't anyone else but a defiant little shit that despised Longinus for what he was doing to his mentor.
+
+“You… crawled back out of the pit you were hiding in, huh?” And the hate went two ways, for Longinus would never forgive someone who touched his things. Yet hate wasn't the only emotion Longinus felt toward the Deathless. There was also a begrudging fascination. That skill he possessed was beyond compare. The moment he vanished, all memory of his existence went with it. Furthermore, it was like he managed to flee from the confines of reality. Not a single trace of him remained. Otherwise, the Divination should have detected him. Longinus' constant scouring should have allowed the god to come across him, but nothing bore fruit.
+
+The Deathless simply stopped existing until he decided to reveal himself, of his own accord.
+
+“How do you keep doing that?” Longinus asked.
+
+“You keep asking that.” Though the boy's rage was boiling over, his voice was unnaturally calm. He should have been consumed by incomprehensible, foaming rage. But he spoke like someone commenting on the weather. “You ask that every single time we come face to face. And I never give you an answer. I don’t think I ever will.” The boy's very head was shifted into an expressive skull—his flesh was in that recursive state once more. Little shit had some Outsider shit inside him, which meant that he could do things with his biology that were altogether unnatural and disgusting. Like making a skull express a sneer somehow. “You like what I added to your banana bread?”
+
+“Not even a little.” Longinus sighed. “You know I’m going to do things to you for that, right? I’m going to hurt you in ways that—”
+
+“That’s what I told you last time,” Shiv cut him off. “Now you’re stealing my lines. You really are degenerated.”
+
+“And you must be soft in the head,” Longinus spat. “I’m a god, you simple fuck. You might be able to hide from me, but you know that there’s no point to this. You’re just chipping at me. It’s been hours. I’m barely scratched up. Nothing you do here is going to matter.” Inspiration came over the Wanderer. He knew just how to twist the knife. Forming a lance, he drove the weapon into his own divine manifestation mantled over his Avatar to spear the small man through the thigh. Georges didn’t have much in the way of pain tolerance, and his shrieks remained as pure and high as the first day. “And you can’t take him back from me.”
+
+But the Deathless didn’t respond to the provocation. Such was the most vexing thing about him. Longinus could taste the emotions that churned around him. Feelings tasted delicious, and this boy was predisposed toward an all-consuming frenzy that was more befitting a mindless monster than a person. Though the fires of ire burned hot inside the boy, he didn’t behave like a berserker. His glare got a few degrees colder, and his body swelled another half-meter in size all around.
+
+He’s over four meters tall now. That’s a hell of a lot of Berserk to be pumping through someone’s body. But why isn’t he just throwing himself at me? Just what kind of Berserk Skill Evolution does he have?
+
+“It doesn’t matter,” Shiv said. “Doesn’t matter what you do. Doesn’t matter how long it takes. None of it matters. Nothing you want matters. I've only been here for a few hours, but I’ve seen enough of you. I see your heart. It disgusts me. You disgust me. What I was going to do to you was sealed the moment we met. It doesn’t matter if it takes minutes, hours, days, or ages. I’m going to grind you down, Longinus. Because even if you are a mountain and I’m the wind, I will erode you until there’s nothing left.”
+
+“That’s a very cute speech. But you're misunderstanding something…” Longinus ripped the lance out of himself. He pointed the end at Shiv and prepared to launch himself forward. “It will only take me cracking your soul once for you to lose that funny little skill. And after that, you’re mine for good.”
+
+Shiv barked a laugh. “Yeah? You think so?” He held his arms out to the sides. “Give it your best shot. Your last two hits worked my Toughness and Eldritch Physiology something good. Took me the better part of seven hours to heal. But you know what, I think I can get used to this. Hating you. The pain. The skirmishing. This whole thing is feeling… educational. And though I would give anything in the world right now to butcher you right now, I think I want to make use of you in another way too. I think I want to milk you for all the deaths you can give me. Because when this is done, you’re going to be suffering from a monster of your own making.”
+
+The casualness of his words carried a weighted truth. But no one comes back from being dead. He’s either insane or he’s goading me to hit a decoy or something. Not like that will do anything for him.
+
+Longinus cracked his neck. “Cute speech, kid. If I manage to keep you intact enough, I look forward to squeezing every bit of conversation out of you. Seems like you’re quite the talker. You just need to be taught how to use that mouth better—and to know when to hold that tongue still when I want it to be, is all.”
+
+The Deathless didn’t respond to him. Instead, his eyes turned toward the Avatar bound within Longinus’s godly form. “Georges. You hang on for me. I’m—I’m sorry he did this to you. I’ll never forgive him. I’ll get you out. I’ll get you—”
+
+His final words never made it as Longinus performed a casual thrust. The Deathless didn’t disintegrate outright, but his upper body was torn to shreds while his left arm went tumbling over the concentric walls surrounding The Boiling Toad. “Tougher than you look. Good.” Longinus breathed in. “I like it when people can take some rough play.”
+
+Though his head was half gone, the boy just laughed. “You’re not rough. You’re just an annoying oversexed degenerate who stole godhood from a corpse.”
+
+Longinus was getting tired of the little shit’s lip. His divine mana burned bright—
+
+And that flowing cape of skin flapping behind the Deathless snaked out like a lashing whip and went for the Wanderer first—
+
+Only for Longinus to punch clean through and unmake the Deathless with his second blow.
+
+A hollow path formed before the Wanderer. The boy, the ground he stood upon, the center of the town-sized banana cake, the depot of baking ingredients right behind, and so much more turned into a kilometers-wide emptiness. Everything that existed in front of him was consumed by a perfect and instant wound.
+
+As a second passed thereafter, Longinus huffed out through his godly nostrils like a chuffed steed. “Tough, but not that—” Someone promptly struck a lashing blow across his eyes. “Agh! MOTHERFUCKER—”
+
+His explosive tantrum never came to be as he suddenly forgot who he was hunting. He was just… He'd just attacked someone. But they weren’t dead. And he didn’t know who they were. But they were here. And they were… And they were…
+
+Longinus stared at the massive tunnel he'd left at the center of his already ruined banana bread. “What… what the fuck am I even doing?! What is this?”
+
+***
+
+“Torture, you sick piece of shit,” Shiv growled, snarling his hate directly at Longinus’ featureless face from the other side of the curtain. “This is torture for you, and this is training for me.”
+
+And what a bounty of levels and an evolution did this slow vengeance bring.
+
+Whip Proficiency 48 > 52 (Skill Evolution Reached)
+
+Strider of the Unbending Path 190 > 196
+
+Inertial Overdrive 301 > 307
+
+Pillar of Orichalcum 388 > 395
+
+Sage of the Enkindled Heart 177 > 191
+
+Eldritch Physiology 87 > 92
+
+Vitality Drain 150 > 172
+
+Continuity Error 206 > 209
+
+This Severed Shadow of Blood and Bladed Soul 219 > 227
+
+The Creeping Void 177 > 181
+
+The first of many; Shiv was going to need to evolve a lot of skills if he wanted to sculpt the shape of a god into an effigy of pain.
+
+His cutting aura rippled with lethal vigor, and Shiv breathed in deeply. “Let’s get carving, then.”

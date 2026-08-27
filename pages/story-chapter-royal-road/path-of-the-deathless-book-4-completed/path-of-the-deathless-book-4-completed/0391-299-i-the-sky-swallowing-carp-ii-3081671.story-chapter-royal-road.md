@@ -1,0 +1,179 @@
+---
+id: 14efdfbd-f61c-5136-9dc0-7f2169850331
+page-type-slug: story-chapter-royal-road
+title: "299 (I) The Sky-Swallowing Carp [II]"
+slug: 0391-299-i-the-sky-swallowing-carp-ii-3081671
+partOf: path-of-the-deathless-book-4-completed
+position: 391
+ownLength: 3926
+unit: words
+publishedAt: 2026-02-22
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3081671/299-i-the-sky-swallowing-carp-ii"
+royalRoadId: "3081671"
+---
+
+I don’t get why everyone whines so much about being enslaved.
+
+“Wah, wah, wah, my freedom, wah!”
+
+Tell me something: What are you even doing with your freedom anyway? Are you doing anything interesting? Have you ever done anything worthwhile? Have you done anything at all that makes your life any more special than those of all the people who've been slaves across all of space and time?
+
+If your answer is no, then empirically, scientifically, and magically, you are no better than any other slave across Integration, of which there are more than stars in the sky. Therefore, getting enslaved isn't so bad, technically. Just look at it from a broad scale—it’ll feel better that way.
+
+Take it from me. After all, the category of slaves I sell the most is myself. My clones have no complaints at all thanks to the free lobotomies I provide them, and they serve my purposes perfectly. That's right. If you want a reliable, perfectly capable, fast-moving work mule of a slave—not to mention extremely good-looking and packed with all the special genitalia add-ons your lust may so desire—then come visit me wherever I'm at in this grand Integration we're all trapped in, and I'll be sure to sell you a special version of the Realmrunner on discount.
+
+Addendum: (The Simpleton-Sexmaster Slave-Clone model is in scarce supply, so make sure you get your bidding money ready.)
+
+Getting to the point of this chapter: clones. They're better than golems because the sheer amount of resources it takes to make a golem is stupid. If the System was more willing to let us mass-manufacture those things, yeah, maybe I could see the argument. But right now, it just seems like a bunch of Golemancers who can't let go of their inferiority. Too bad, suckers. You're losers. You’re fucking losers. Kill yourselves.
+
+With clones, all you need is a little bit of genetic material. From that, you can grow as many versions of whoever you like, as many times as you want. In fact, this allows you to modify for exact specifications. There's a reason why I use myself as a primary product line: I know myself. I know exactly how to abuse myself in the right way so I can break my own spirit and sell myself more easily.
+
+Now, let me tell you something—slave-wrecking is hard work. You gotta know the psyche in your slaves. Some of them, they don't break, no matter how roughly you treat them. You can't just be blindly cruel; otherwise, you're going to turn into one of those degenerates who spend so long torturing their slaves that they end up making no money. Torture is supposed to be fun. You don't want to be doing laborers' torture. Yeah, otherwise you just turn into one of those freaks from the Lowest Hells. And those guys make no money whatsoever! Don't let them fool you! Don't let all that brass and obsidian and fire fool you! They are poor, they are poor, they are poor!
+
+And there's nothing worse than being poor.
+
+On that note, my most economical guide to mass-producing your own slaves is to use yourself. If you understand yourself, you will understand how to sell yourself. Start simple. No modifications. At baseline, if you can find a way to consistently and reliably tame all those alternate versions of yourself and force them to train specific skills to your exact desires, then fine. After that, you can move on.
+
+Once you are in that area of expertise, you should think about diversifying. With your clone slave farm running at maximum capacity, that's the time you start experimenting. Use the weird freak clones that didn't turn out so well to test first. Don't let them go to waste! Their lives are worthless anyway, so you might as well squeeze a bit of value out of them. What you're going to learn is how to optimize skill-gaining. Now, if you want a professional pleasure slave, it’s pretty easy. Just make your pleasure slave line fuck each other endlessly. No need for anything beyond Adept-Tier Physicality and Toughness unless you’re selling to one of those kink-freaks. Some of them even like breakable merchandise, so keeping your slaves fragile is optimal.
+
+By now, you should get where I’m going with all of this, so just start experimenting yourself. Let me tell you, clones are good. They’re like training wheels and bread—someone always wants some, so treat them like the reliable and renewable resource they are.
+
+Alright? Good. Now get out there and make some coin! But you watch yourself—run up against my trade routes, and consider yourself opposition. Not any great idea, that.
+
+Might just end with you becoming another one of my special merch lines.
+
+—The Realmrunner
+
+299 (I)
+
+The Sky-Swallowing Carp [II]
+
+“So, what the hells even is this new Skill Evolution of yours?” Jessica asked, looking Shiv’s Severed Shadow up and down as they stood beneath the bioluminescent lights within Courtney's kitchen.
+
+“Honestly, I have no godsdamn clue,” Shiv replied. “So far, I think it's pretty felling awesome, though.”
+
+Even when bathed in the light of a bright setting, Shiv was barely more than a faint scar traced upon the flesh of existence, his presence paler than a ghost and quieter than a whisper.
+
+A series of heavy thumps sounded from the room next door. Shiv guessed that was Gone moving all the orc corpses into the freezer Shiv had extracted from Monster Mystery Meat before the restaurant’s unfortunate immolation. Five’s low groans of pain and Candles’ blissful sighs served as additional accompaniment. The wolf-man looked like he'd been standing outside while it rained hammers, face dented and black-gray fur covered in still-scabbing wounds that revealed patches of metal and circuitry underneath.
+
+Candles, meanwhile, was practically extinguished. He was little more than an ashen skeleton now, spewing faint embers into the air. His final move in the coliseum had left him utterly spent—and utterly pleasured. The exhalations he made were more fitting for someone that had experienced a different kind of climax than the one he enjoyed earlier. Maybe they were the same for Candles. He did seem to lack the organs necessary for any kind of fluid release as he was now.
+
+Despite this, the Pyromancer clung to the grill. It was like he knew his flames would be needed soon, or he simply felt a kindred spirit in an appliance that could be served by his immolating magic.
+
+Shiv stood at the center of the kitchen. With all the stations built around the walls, forming a perimeter of gleaming chrome, he had ample room to move around and maneuver without ever touching his precious appliances. He'd remained in his revenant form after his fight with the Culturist. Though he could control his cutting aura, it wasn't an easy thing. His natural state ebbed with slicing power, and anyone who got within a meter of him learned what it felt like to be sliced down to the soul. Pair this with how his cutting aura was projected in all directions at all times, unceasingly, and the fine floors that had been installed would be utterly ruined—and Shiv wasn't sure if he could survive such heartbreak.
+
+Valor and Jessica stood five meters away from Shiv, behind a layer of near-transparent wards. The outermost section of their mystical protections was made from Dimensionality, something that Rusty had cast to keep Shiv at a distance.
+
+Looking at it, Shiv wondered if he could tear through the mana using his cutting aura. Something told him he was more than capable of doing so, that he would utterly shred the static magics empowering the wards. But he didn't. Shiv waited. Shiv decided to be patient, even though he wanted to uncover all the mysteries and benefits behind his new skill.
+
+Valor loomed tall, his head almost touching the bioluminescent ceiling, and his eyes crackled with Necromantic energies as he gestured and shaped an additional layer of Animancy spells to go with the pre-existing dimensional wards. Shiv didn't know how he was using his death magic to supplement his Animancy, but Valor had commented on how Shiv's new capabilities were like a scalpel for the soul; a more intrusive branch of Animancy bolstered by a skill that was meant to cut and wound—the handiwork of Udraal, without doubt.
+
+Jessica, meanwhile, kept herself short and her arms folded. Her body language screamed of wariness; her armor stayed on and Rusty close at hand. She treated Shiv like he was a naked blade pointed in her direction, and frankly, she was right to. While the Culturist had torn through Shiv's physical bodies like they were wet tissue, his Severed Shadow had mutilated the Legendary orc in flesh and soul. He had taken the lower half of the Culturist's right hand and carved an entire level out of one of the orc’s skills.
+
+Shiv still wouldn't consider himself on an equal level to the Culturist or the Giantsbane, but he was more than capable of harming them now. He was even capable of slaying them if he engineered a moment of surprise.
+
+I almost had that godsdamn orc, Shiv thought to himself. Almost had him. If I just cut into his chest, I could have ripped him in half. I could have finished him off. I could have set Adam free…
+
+Resolve, rather than disappointment, filled Shiv thereafter. If the Culturist tried to use his metamorphosis to torture Shiv's friend, then he resolved he would find a way to carve at the orc again, to strip more of him away, to winnow his skills down until he was less than a cripple, his Legendary status a ruined tower that he would never reach again.
+
+Next time, I take more than a level, Shiv promised himself. And he was looking forward to driving his Shadow deep into the sweet warmth of an enemy’s soul like a knife. He yearned to know what it would feel like to split the metaphysical shape of a being until one became two, and nothing thereafter.
+
+“Remind me what that notification said again,” Valor said, his hands continuing to shape chains of faint blue mana. “The one that had to do with your Vitaemancy.”
+
+“Oh yeah, that. It hit level 150, and then it said ‘Acceptable Skill Fusion detected’. Like it was waiting for a specific Skill Fusion, or maybe a skill fusion it could latch onto. You ever hear about something like that, Valor?”
+
+“No,” the ancient lich admitted. “And that's why it unnerves me. There are specific points where a skill matures, where it absorbs enough mana, attuned or not, as it blossoms into a new evolution. You know that certain skills can skip a Tier if you are under enough strain or find yourself in desperate circumstances. We are all shaped by our legends, but there has never been a case where someone has managed to evolve a skill at level 150, nor 43, or 77, nor any other non-standard number. It is just not the point of maturity. It should be against every fundamental law of Animancy we know of.”
+
+Valor's dark hair billowed as he swiped diagonally downward to complete another spell. “The nature of a soul is still a great mystery, even to the greatest of Animancers on Integrated Earth. We have only treaded the surface of this lore’s vast ocean. Yet there are patterns we have observed, things we have regarded practically as law. The specific points of Skill Evolutions are just that—the System can accelerate you to a new Tier as a reward for a quest. It can empower you for grand feats and recognize your valor and struggles, offering you new skills or a deluge of levels. But nothing like this. Once more, I fear that your soul is beyond my understanding. I fear it might be beyond my understanding even if I were at the peak of my knowledge.”
+
+Flicking his fingers and dismissing his Animancy mana, Valor completed his work. The faint blue faded, vanishing like bruises on the surface of existence.
+
+“I must confess my son is a vexing monster. He impresses me with his knowledge, but he also offends me with how callously he has exploited those around him. Even so, that exploitation might have given him insights beyond me. I will do what I can, and I will continue trying to decipher the mysteries of your existence, Shiv, but I think I'm going to need to reclaim more of myself before I can truly be of help. And even then, I cannot promise anything. I am a master of Animancy, one of the best. My son, however, reminds me that there are giants beyond giants. I might have done too well teaching him.”
+
+“Don't worry about it, Valor.” Shiv tried waving his mentor off, but then realized he didn't really have any hands. Or rather, he did, but his hands were little more than a silhouette. The air waved, and he took the moment to truly observe himself right now. He was faint. The world was wrapped in a tint of lifeless gray. The surrounding sounds came as if he was underwater, and he sensed everyone's life force better than ever before. They burned, flames of vitality churning inside them, lighting them like bonfires in a vast and shadowed land.
+
+Shiv looked away from Valor and Jessica, and he saw all the orc Biomancers within Courtney. He could sort their vitalities out, and he could separate them easily from the Court Leviathan. It burned too, bright and hot, but dim compared to him—practically a dying campfire compared to Jessica. Every living thing burned with vitality. But Legends… Legends were raging stars reaching for the heavens, cleaving searing wounds into the substance of the world. They burned unlike anything else.
+
+They burned, they consumed, and they were.
+
+There was no way that Shiv could miss another Legend. Even if he was stripped of sight, he would be able to find them by the intensity of their heat alone.
+
+He was no different from the other Legends. His own vitality raged against reality. But it burned on a deeper level. It infused every bit of him, turning somewhere deep inside, somewhere beyond the reach of the System. His was a selfish soul—an enclosed soul. This outline that represented him, the faint silhouette that left distortions on the world, the only thing giving away his presence right now, was like a wrapping—a layering that prevented his vitality and soul-stuff from overlapping with Integration. Shiv could feel that separation, could feel a shroud protecting him. Only when he used his magic or tried to interact with something in the world, be it an object or person, would he truly manifest. With that, the blade that glinted at his core would grow brighter, and it would start tearing into the System's flesh. It would bleed the world of vitality. It would paint him, revealing his new scab-like shape while in his Severed Shadow form.
+
+If he had to describe himself in detail, he was a near-transparent phantom that only held color and presence when painted by a trailing mist of blood. His Vitae was soft, calcifying only when he willed it to. At his chest, the vertical partition grew brighter and deeper when he drew on his powers. If he wanted to surface fully, he could. At any time, he could rise into reality. At any time, he could cleave deeper into the flesh of the world. He could cut his weight out from his sanctuary beyond context and rejoin everyone else.
+
+At present, however, he kept to his silence for a moment longer and observed everyone. Right now, he thought himself a sheathed blade rather than a drawn one. He wasn't ripping through the System, through anyone's flesh, or anyone's soul.
+
+But this wasn't his only form. He could still resurrect. He could still create a physical body for himself, something he was more used to using. Then he would be a two-in-one Pathbearer. He would have two vessels he could control, and things would become overwhelming. But he would still be himself. There was no separation between the bodies in his mind. It was just more of a burden to handle.
+
+“Alright, you might not be getting anywhere with my Shadow, Valor, but maybe you should take a look at my physical body. The skill changed my material form too. I'm gonna start resurrecting now.”
+
+“Wait,” Valor called out. “Do it in your unsheathed state. Solidify first. I wish to observe every part of the process in the clearest detail possible.”
+
+That gave Shiv pause. “You sure?”
+
+“Shit, kid, I was going to ask the same question,” Jessica added, tilting her head to glare up at the looming Pathbearer beside her. “You sure he won’t end up cutting our souls in half or something, lich?”
+
+“Probably not,” Valor answered.
+
+“Probably?” Jessica snapped.
+
+Valor looked down and smiled slightly. “Hopefully?” he offered.
+
+“That’s even worse than probably, you felling shit!” Jessica hissed.
+
+“I have faith in Shiv. And if things go wrong, I’m sure he will feel bad. He is a kind boy. Somewhere. If he is not experiencing a euphoric battle rage or undergoing some other mental crisis. Those moments are more common than you might think.”
+
+“You—”
+
+Valor waved at Shiv, ignoring Jessica’s building outrage. “Shiv. You can proceed. I am ready.”
+
+“What about me, asshole?” Jessica spat.
+
+“You need not stay,” Valor replied. “If you wish to leave, no one will blame you.”
+
+The Giantsbane went silent. She pointed a finger up in Valor’s face. “If anything goes wrong, I’m going to add your skull as an accessory to Rusty’s hilt.”
+
+“The prospect of this aesthetic displeases me,” Rusty grumbled.
+
+Ignoring Jessica and her sword, Shiv heeded his mentor’s command and readied himself. “Maybe it's best for you guys to keep your distance. I think I can control my cutting aura, but just in case...”
+
+Valor and Jessica took a single step back, and then another. Then Jessica moved Rusty in front of her, holding the blade high and expanding it in width until it blocked both of them from Shiv’s sight.
+
+“You may proceed, Pathbearer Shiv.”
+
+Shiv thought he detected a hint of nervousness within Rusty's voice. And there, at the blade's core, he saw faint mist filling Rusty’s emotions. Shiv guessed the Legendary blade wasn't confident in his own ability to parry Shiv's new cutting aura.
+
+He resolved to keep himself well under control, not only for the sake and sanctity of his new kitchen, but also for those around him. Before he started, he looked over his shoulder and called out, “Five, grab Candles and go hide behind Jessica. Don't want to rip you guys apart either.”
+
+“Oh, now you show your concern for me,” Five said, his long and thin snout wrinkling as he stared at a wire extending from a broken claw, not even looking up at Shiv. “I would have greatly appreciated this while I was stuck on the pole.”
+
+“Five,” Shiv grunted, his voice dropping low.
+
+“Yes, imbecile,” the Aviary agent muttered, his breath light with sarcastic agreeableness. He theatrically cleared his throat. “Ahem. I, of course, meant to say whatever you say, Lord Deathless.”
+
+Despite the complaining, Five did as Shiv asked. He slipped his hands into a pair of gloves he produced from his black robe and dragged Candles away by the neck, who started muttering about how the next time would be “brighter and burnier.” As they vanished behind Rusty as well, Shiv fully materialized, beginning his resurrection process.
+
+Once more, Shiv tried to form a golem. Half of his vitality was sacrificed in an instant. The pale blade at his core flared bright, while the vital mana that hardened into scabs and became the plates of his spiritual body burned along the edges, creating a crimson corona. Everything around him was drowned in that vivacious, animated red. The blade that parted the center of Shiv grew brighter and whiter. This time, he realized it wasn't the vitality that his new body stepped free from, but rather than the blade itself. The blade was like a pathway. Not only an instrument to cut, but also a tunnel. A thing that carved an open chasm for something to emerge from his soul into the world beyond.
+
+The resurrection came to an end as his new body stumbled free. Immediately, he felt the cold floor beneath his soles. A slight breeze ran along his skin like tracing fingertips, and there was a scent of death nearby: residue left over from the orc corpses. Shiv's sensory load was doubled. He found himself piloting two different bodies at once. And it proved a gargantuan task. Thankfully, he could decide which form he focused on. He moved his Severed Shadow back and allowed it to return to a sheathed, Revenant state. The redness of vitality faded, its solidified form turned vaporous, and then all color bled away. Finally, it was only an outline.
+
+Without that faint shape of a transparent knife resting at his chest, without that faintest of glows, that glint of white, Shiv wouldn't even be able to tell that his Severed Shadow was waving right behind him.
+
+Comparatively, his flesh-and-blood body remained as it was before, yet some of the changes were evident. His Shapeless Tides remained black and white, devoid of magical Resistance. He could still cultivate more overflow vectors, but the striped lines that circulated around him were barren of any as well. All his magical fields remained tethered to his Shadow. It was like he had one body dedicated to physical and unattuned skills, while another had been turned into an engine dedicated toward spellcasting and magic.
+
+But that's not actually accurate, is it? Shiv thought to himself. He turned his physical body and had his Severed Shadow solidify once more. He faced himself, stared himself down from two varying perspectives. From his physical eyes, he beheld his Severed Shadow. It possessed every single skill he had, physical or not. It had Shapeless Tides dancing across its body too. It glinted red gold along its exterior, revealing its possession of the Pillar of Orichalcum. When his Severed Shadow was fully unsheathed, it was Shiv at the peak of his power. When he allowed it to fade and become a Revenant—
+
+“Oh, shit!” Shiv cried out in realization. “I could use my magic while I was a Revenant. You can probably do the same thing when you go back to being a silhouette, huh?”
+
+It struck Shiv then that he was talking to himself, literally. For anyone else, this would be a moment of psychosis. For him, it was just another day in his weird, skill-evolving life. The Severed Shadow pointed at Shiv with both hands. He pointed back.
+
+“Nice knife, Deathless,” Shiv said aloud via his physical form. He was talking about the literal pale blade lodged within his Severed Shadow's chest.
+
+Yours too, Deathless, his Severed Shadow replied telepathically. It, meanwhile, was pointing at the thing between his flesh and blood body's legs.
+
+Both of his selves threw their heads back thereafter, sharing a laugh.
+
+Comedy 8 > 10
+
+Shiv faintly caught a series of utterances from Jessica. She was asking if he was insane or something. But Valor's voice came loud and clear, “No, this is just how he is. He is easily distracted at times. And forgetful. You will get used to him.”

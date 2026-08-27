@@ -1,0 +1,187 @@
+---
+id: 99504574-ca61-5fd7-827d-944505ad9432
+page-type-slug: story-chapter-royal-road
+title: "Chapter 143: Thievery"
+slug: 0143-chapter-143-thievery
+partOf: phoenix-ascension-cultivation-litrpg
+position: 143
+ownLength: 2135
+unit: words
+publishedAt: 2026-06-23
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3581343/chapter-143-thievery"
+royalRoadId: "3581343"
+---
+
+I’d decided to ignore what they were saying, and also how the turtle had managed to control the telepathic communication in such a way that I could hear what was going on around him.
+
+It was for the better.
+
+Seeing that everything was as it should be, I thanked the turtle and ended the communication. I was feeling a little bad for Guo Lu Poo, but he sort of deserved it?
+
+I wasn’t really sure, to be completely honest. He was a businessman trying to compete, an to win. His only crime was being Meng Mao’s rival, and thus having to go against me.
+
+I was pretty great, after all.
+
+Now that the beasts were escaping and whatever Meng Mao’s friend was doing distracted Guo Lu Poo, I had more time to look for the record’s book.
+
+It was rather annoying that I was not able to find it anywhere, though. I looked on the table and in every bookshelf, and somehow I’d failed to find it. I’d read about things I didn’t want to read about, and the guy had some scrolls with some pretty… dangerous pictures.
+
+Nothing illegal, just very spicy. He was a man, after all, so I understood, but still.
+
+I was just about to decide that the madman had taken it with him, when I’d gotten the sudden urge to look under the desk.
+
+Lo and behold, what did I find propping up the table? An old book, that looked like nothing much than something he’d discarded.
+
+Yet, when I’d read its contents, it became abundantly clear what it was all about.
+
+Detailed within the thrown away book was evrything that was going on inside the mansion, and inside the Guo clan. It was his ledger, rather well hidden.
+
+Funnily enough, only the outside looked like shit, the inside was proper, neat and well-organised. The dates were going back as far as ten years ago, though I doubted this was the only one of its kind.
+
+The others must have been archived, but this was what Meng Mao wanted. After placing the ledger into my dantian, I left the office and went looking for the treasure room.
+
+I’d already located it some time ago, but it was well protected by many cultivators.
+
+Keyword, was.
+
+Now there were only two, although they had a decent cultivation level. However, they stood no chance against my stealth. I didn’t kill them, only knocked them out. I’d also fished in their pockets for some keys, but I wasn’t that lucky.
+
+I was guessing they kept the way to open the door in their spatial storage, which I could not access. Accessing a bound storage bag wasn’t easy. When people died, their mark disappeared, but as long as they were alive, the security would be rather tight.
+
+If anyone tried to open it and forced their way in, the bag or the space inside would collapse and destroy everything.
+
+That only left me with one, boring solution.
+
+I turned toward the door and began inspecting the runes.
+
+The door itself wasn’t anything special, really. It was made out of a regular dark wood, painted over with some preserving substance. However, it gave off an impressive aura due to all the runes inscribed upon it.
+
+They were familliar to me, but I still needed some time to break through them. Not to mention that the situation was similar to the ones in the jungle like area. There were some runes I did not know, so I had to study the place to figure out what they did.
+
+Thankfully, I had all the time in the world, almost. The only problem was the fact that I didn’t know if someone would come and check up on the important rooms.
+
+On the other, I’d gotten more proficient at understanding the runes of this world, so breaking them would be…
+
+A piece of cake.
+
+I thought just as I’d undone the runes, and the door all but opened by itself for me. I did not dare step right in though, and instead grabbed one of the unconcious guards and threw him in.
+
+Nothing happened, so I walked in, although with vigilance.
+
+And… Nothing happened either. Good, so far so good.
+
+When I spread my senses, I was a little bit shocked at what I’d seen. There were so many treasures, so, so many. There had to have been at least a hundred of them, and that was as far as I’d dared let my Divine Sens wander.
+
+The most important thing I was looking for was the Qilin Horn, of course, but I inspected many other precious things on before finding it.
+
+Each item was placed in a display case, which was of course under tight security, and they all had their names and history preseented on a plaque.
+
+I, of course, read them all in a matter of seconds, and nodded my head in approval. They were all rather good things, some rare, but none as rare as the Qilin Horn. I could feel its power coursing through the glass, which just showed how impressive it was.
+
+That was my main target, for me, and nobody else. Whoever Meng Mao hired help from would have to take it from my cold dead hands, and I had plenty of heat in me.
+
+Though if that dragon wanted it, I was willing to talk things over.
+
+I hurried on over to where the horn was, deciding that I would steal everything else after securing it.
+
+There were no traps on the way, and I’d checked a couple of times just to be sure. When I arrived in front of it, though, that’s when the problems arose.
+
+The runes on it were very complicated, with more than half that I’d never seen before in my life. Whoever it was that sealed the horn did a damned good job.
+
+I was beginning to worry a little, since I wasn’t sure how much time I had left. Based on the commotion outside, plenty, but it seemed that Guo Lu Poo was getting suspicious of something.
+
+Seeing him kowtow was pretty funny though, but if that dragon wanted to do something, it would have done so already. Anyone with half a brain cell would have realised that there was something fishy in the middle.
+
+And just as I began worrying about that… someone began walking in. Someone whose footsteps, even though hurried, I’d recognised.
+
+Butler Mo.
+
+He must have realised that something wrong was happening the moment the other Spirit Beasts escaped. I could not blame him, to be honest, but it was still something I would have rather not have happened.
+
+Seeing that time was tight, and that it was almost impossible to decipher the runes in time, I took a risk.
+
+Channeling pure, dense Qi into my wing, I sent it flying toward the cage. As expected, the runes did a proper job at stopping my attack, but that wasn’t going to halt me for long. Without waiting, I’d sent another and another.
+
+The effect was not as much as I would have wanted, but it was going to work just fine eventually.
+
+Wort case scenario, I was going to use some Nirvanic Flames and get it over with, in a rather stylish manner.
+
+Of course that was not something that would just happen, I had to take this seriously. Time was tight, as Bulter Mo was fast, and the hallways wasn’t that long.
+
+Using both wings, I created a ball of condensed Qi and sent it flying straight at the glass. It did some damange to the runes, but not enough to destroy them.
+
+The worst part was that they were also self-regenerating, so there was that.
+
+Angry, I actiavted Wing Blade and also infused Qi into them, then jumped and slashed at the protective enchantements.
+
+It took me two slashes, but it finally showed signs of damage. Next, I used Iron Claws and also a good old Peck to get rid of more and more enchantements. It seemed that physical attacks worked best against it. Whenever I’d infused them with Qi, they had a lesser effect, so I decided to give up on that route and smash my way through the defenses.
+
+And it worked!
+
+Not even five seconds later, the glass shattered, unleashing the full power fo the Qilin Horn.
+
+Its energy almost suffocated me, but I held strong. The lighting made the air itself tingle, and if it wasn’t for my meager amount of Lightning Affinity, I was sure I would have gotten paralysed almost instantly.
+
+Thankfully, I had a few protections against that.
+
+Without hesitating, and ignoring the pain, I touched the horn and sent it into my dantian.
+
+Now, I was worried that the Little Emperor would have himself a snack, so I knew that I didn’t have time to waste.
+
+However, my heart panged at the thought of having to leave so much treasure behind…
+
+Springing into action, I flew straight toward the closest container. Without looking at what it was, I attacked it fiercely, acting as if it had stolen my Qilin Horn.
+
+The glass broke, and I grabbed the item within, then moved to the next one.
+
+I continued that process and got more proficient at it, my immense physical strength playing a huge part in my ability to quickly release them. I’d also activated Strengthened Constituion, boosting my stats beyond what they were normally capable of.
+
+I went through a few of the cases in such a manner, and collected as many items as I could, without caring if they were good or bad. Or what they were,f or that matter.
+
+I kept taking and taking until Butler Mo’s footsteps stopped right in front of the door.
+
+“What are you-” He started, however I’d flown right past him before he could properly react. I was not about to find out what a cultivator of his level could do.
+
+I’d made my way through every hallway quickly and efficiently, having already memorised the layout of the place, and gotten out through one of the backdoors without any issues.
+
+With that done, it was time for me to tell Meng Mao that the mission was a success.
+
+◈◈◈
+
+Meng Mao was standing in the same spot, watching the spectacle with glee. He was getting worried that Guo Lu Poo would see through whatever the dragon was doing. In fact, he’d probably already seen through it.
+
+If Meng Mao did, then it was obvious that something else was happening, and that the dragon had no intention of attacking.
+
+The act was dragging on for too long.
+
+Meng Mao was surprised to find that an explosion ocurred on the far end of the mansion, and after focusing on there, he’d noticed several Spirit Beasts of different ranks running away toward the forest. There were many, many of them, some being carried by others.
+
+After observing the place, he’d realised that they came out from the little girl’s personal petting zoo, and immediatley knew that the Phoenix had something to do with it.
+
+Raising an eyebrow, he chuckled to himself. It was rather funny, and now he was curious what would happen.
+
+He did notice a few of the Spirit Beasts taking a different route, and he could not help but wonder why.
+
+A few moments after, he looked back toward the live spectacle and smiled to himself.
+
+It was always a good time seeing Guo Lu Poo suffering.
+
+He’d noticed that one of Guo Lu Poo’s servants had disappeared, and had gotten worried for the bird. It’d been a while since they’d spoken, and he wasn’t sure what was happening.
+
+"Guo Lu Poo, it was then that you showed up in The North, and attacked indiscrimantely!” The ‘dragon’ kept talking, spinning a story that everbody knew by now that it probably didn’t happen. Still, what were they to do? Its pressure was very much real.
+
+It was when Guo Lu Poo opened his mouth to fight back that something broke his focus. That same persistent feeling at the back of his neck appeared again, and he knew exactly what it meant.
+
+Yeah, what is it?
+
+“I got the goods.”
+
+Meng Mao smiled to himself, took a deep breath, and whistled.
+
+“And that is why, Guo Lu Poo, you must pay for your sins with your li-” The dragon spoke, however, when it’d heard the whistle, it stopped.
+
+“Actually, all is forgiven. You can go.” And it disappeared completely.
+
+Everyone watching, both from far away and close by, looked at the fading image of the dragon with awe and amusement, but most of all, shock.
+
+The silence was enough to hear a pin drop, and Guo Lu Poo’s face was as red as a tomato’s from anger.

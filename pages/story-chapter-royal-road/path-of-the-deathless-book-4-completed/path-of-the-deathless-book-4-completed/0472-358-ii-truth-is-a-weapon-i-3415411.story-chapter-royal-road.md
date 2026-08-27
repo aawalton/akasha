@@ -1,0 +1,117 @@
+---
+id: 01805f6e-2bf7-538d-8c31-1ba02fb7cd72
+page-type-slug: story-chapter-royal-road
+title: "358 (II) Truth is a Weapon [I]"
+slug: 0472-358-ii-truth-is-a-weapon-i-3415411
+partOf: path-of-the-deathless-book-4-completed
+position: 472
+ownLength: 2395
+unit: words
+publishedAt: 2026-05-18
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3415411/358-ii-truth-is-a-weapon-i"
+royalRoadId: "3415411"
+---
+
+358 (II)
+
+Truth is a Weapon [I]
+
+Shiv's Mythic Pathbearer problem wasn’t something he could resolve through brute force. He needed a more persuasive touch, and thus, a boost to his Rhetorical abilities was required. Gardener of Doubt could have been another option, but it was still a few levels short of an evolution, even with the twenty-level boost—and with the Farwalker capable of casually scanning even Uva’s surface thoughts, Shiv suspected outright lies might see him punished rather than prevail.
+
+A telepathic chuckle confirmed that for him. "Centauri needs to update your profile. 'Reckless, brutal, unrelenting' needs a 'conscientious when it comes down to it' addition." Produveral’s voice was dense with mirth, and the fact that he could read Shiv’s thoughts so casually bothered him more than a bit.
+
+“Is you being able to peek into the minds of Legends…” Shiv groaned as a spasm of pain tore through him. Just because he was getting his equipment and a few levels didn’t fix the ruins that Longinus left of his soul. “...something specific to you, or are all Myths like giants compared to Legends?”
+
+Produveral wiggled a hand noncommittally. “Yes. No. Depends. Mythic is complicated. Lots of things change when you get there. Your relationship with magic itself especially changes. I’m technically not a Psychomancer at all.” Produveral shrugged. “I don’t naturally have any mana fields. The Skill I constructed was a little different, a little more flexible, a little less powerful—”
+
+“Less powerful?” Uva muttered in disbelief.
+
+“...Than most of the other Farwalkers,” Produveral finished. Shiv had a hard time processing that. “Yeah. Normal. You’re young, and you don’t have context for a lot of this stuff. Hell, you don’t even have Omnimancy yet, so we can’t even begin talking about Systems Magicka with you. Even with you being an Apex-Category Favored, you still got a lot to learn too. It’ll take years for you to understand the basics, but think of it as figuring out how the frequencies and structures that make up magic itself function. I’m not reading your thoughts directly, but the mana you use is loud. Hers is even louder. Gotta get good at hiding and jamming that power if you want to stay subtle.”
+
+“An act they will not be able to perform so long as they remain bottled on a lower-saturation world like Earth,” Evanescia chimed. “Whereas the Fairwoods are limitless in what they offer.”
+
+“Except for a way out,” he sneered.
+
+Evanescia ignored him and continued delivering rewards to the triumphant trio.
+
+Select a Secondary Skill to Twin
+
+Shiv and Uva looked at each other. “Is this… what I think it is?” Shiv asked. "That wasn't part of this Quest. It was... part of the one we failed when we entered."
+
+“Indeed!” Evanescia almost squeaked with delight. “And if you could have somehow bested me and stopped my power, the System would have pried this bestowal from my grasp and given it to you itself.”
+
+Uva frowned in confusion.
+
+“Because secondary skills aren't usually a thing,” Produveral explained. Almost immediately, Shiv noticed a combustion of annoyance erupt within Evanescia's core. She didn't appreciate his presence and truly loathed him interjecting in her rightful exposition. “Most people should only have one skill for one concept. Because that’s the thing that defines them. That’s the way it is for almost everyone—even Myths and higher. Gods too. Otherwise, you’ll have a War God with such a layered Domain of War that he just ends up contradicting himself and breaking his own mythology. Advanced metaphysical suicide, basically. But the Usurper-Narrator here is special. Unique. Far as we can tell, Silence—”
+
+“Do not speak her name without proper address,” Evanescia growled. The flame inside her hardened into a dense ball of burning hatred. “Not in my presence. Not you.”
+
+At that, he actually hesitated. “Legend-Usurper-Progenitor Silence wanted to create some kind of oversoul for everyone’s existing soul and have the critical parts of a person backed up into that network for a sort of pseudo-immortality for everyone. She ended up figuring out how to do some pretty remarkable things for someone who was born on a Nascent-Integration world like Earth.”
+
+“Didn’t you claim to originate from here as well?” Uva asked.
+
+The Farwalker chuckled darkly. “Yeah. Well. Kinda. The Core lost their little war with us. The System got here at the ass-end of that brawl, and one of us got rewarded. My ancestors got jumped up a threshold, and the Rebel Sophs of Centauri went from being the slaves and bastards of the Orion Chain to the newest recruits for Chorus and the Farwalker Enclaves. What remained of your ancestors, meanwhile, got left with a single broken world after our foot vanished from the new chasm we made of their asshole, and their direct descendants decided to keep fighting the System, treating it like it’s our superweapon rather than accept the reality that they fought a shit fight for a shit cause and were regarded as a bunch of shits by an all-powerful alien entity that stole the spot of their Gaia.”
+
+Every exchange with the man spawned new questions—and heavier revelations Shiv didn’t fully grasp—when it came to Old Earth. “Okay. And this Gaia is?”
+
+“Ah. Long story. I’ll tell you all about it once I get you—”
+
+“He is bound nowhere with you, Farwalker,” Evanescia hissed. “He is to stay here to serve as my antagonist. The coming season has been determined, and I will not be denied my long-deserved tension.”
+
+Produveral’s gleaming optics shrank with derision. “You know, it would have been wiser on your creator’s part to disinclude sapience or at least emotions when it came to you. He’s got you compromised so bad, and you just can't help it. But all the power in Integration wouldn’t have spared you from that skill, with how lonely and desperate you are. Even I can taste the need for proper socialization in you, and my Social Skills are dogshit.”
+
+“I mean, I can see why,” Shiv said, interrupting Evanescia before she could snap back in anger. Three heads wheeled on him in surprise. Uva’s eyes were wide. Produveral had his head cocked, and there was a sliver of gratitude that parted Evanescia’s flames as he was seemingly coming to her defense. “I don’t mean this in a mean way, Produveral, but… I think you got this whole thing backwards. The personhood and emotions deal was probably a necessity when it came to her.”
+
+Instead of being offended, the man seemed curious. “Why?”
+
+“Because if she was just a dead, emotionless intellect, what’s the point of a story?”
+
+Produveral shook his head. “She’s a custodian tied to the Watchtower. Its power flows out from her—she’s like a built-in avatar.”
+
+Evanescia glowered at him, but Shiv ignored that. Instead, he found himself darkly amused; he might not even need to pit them against each other. Produveral was kind of a prick toward Evanescia. He wasn’t lying about how bad his Social Skills were, and she was already more than bothered by his intrusion into her dimension. “Yeah, sure. But that’s like, uh, the mechanics of the thing and not really the thing itself, you know. I think.” Shiv paused. “Look, I don’t know how she was made, or why, or a lot of stuff about Si—uh, Legend-Usurper-Progenitor Silence.”
+
+“You may call her Silence,” Evanescia said soothingly. “I give you that right.”
+
+The Farwalker shot her a look. Shiv sensed the judgment rippling off the Myth even without seeing his face.
+
+“Yeah. Silence. I don’t know much about this place—a lot less than both of you. But an archive isn’t a narrator. Neither is some kind of spell that repeats a bunch of stories or generates new, random storylines. I don’t think that works.”
+
+“And why not?” Produveral asked, following Shiv’s logic with a building interest. Shiv felt it as a growing pull between them. The magnetism there was still weak, but his Rhetoric Skill Evolution granted him a new dimension to his senses—a sense as to how much gravity his words were generating between him and the people he addressed.
+
+“Because the title Usurper-Narrator matters. And judging by what you told me about Silence making an oversoul, giving Evanescia a Unique Path that lets you have Secondary Skills by layering a soul or something, the part about her being a Narrator and experiencing the stories matters. The emotions matter because you need that for proper tension. You need that for the stories to have any weight at all. So, I don’t think the Watchtower is really the god and she just something that makes sure it runs. She and it might make a whole, but she’s the more important part. If anything, the Watchtower’s like… maybe a silo for her? Can’t say. But what I can say is that your naked dislike of her is probably getting in the way of you admitting or seeing that.”
+
+And the moment he finished his summation, Evanescia’s core flickered with a helping of joy over the dense anger that still burned, and the Farwalker radiated with a hint of greenish… was that the slime of embarrassment filling his insides?
+
+Shiv felt his Harbinger of Tripartite Ruin tremble. The skill triggering hurt, but Shiv swallowed it down—even as the sickly shame created a patch of glass over the chest of Produveral. No wonder this shit is a Restricted Skill. If you have any obvious mental or psychological issues at all, I can make you vulnerable.
+
+“Shit, sorry,” Shiv said honestly. “That is the way I see it, though. And I see why this skill is…”
+
+“Restricted?” Produveral sighed. “Yep. But fuck me, I guess. Had that coming.” He kept his head low and regarded Evanescia. “Doesn’t change some other facts: I don’t like a single tyrant deciding how people should live or the way they should experience their lives. I wasn’t there for the earliest period of the fighting, but I lived through the immersive sims. I remember what the Core did, and you aren’t so far from Gaia, Evanescia. Just putting it out there plainly.”
+
+The Farwalker’s blunt admission caused his empathic core to crash about in tumult with vulnerability, but it also balanced the chaos of his heart and mind, and caused the vitrification of his body to subside. The sickening shame also receded.
+
+“Whatever she was made for, she chose to be a slaver.”
+
+“I am no slaver. I am a guardian of tales—all tales!” Her fury returned. The animosity the Farwalker held toward her burned with new colors, but that didn’t change the fact that her perspective was different and altogether alien from most people. Evanescia was less person and more a conceptual avatar of someone perpetuating and reading as many stories as possible. She inserted herself and fed the flames of the Watchtower, but like a reader, she was still separated by degrees and couldn’t fully understand or empathize with those trapped between her pages.
+
+Not such a great thing for Produveral, considering she was a literal cultural trauma-symbol for him, but pretty good for Shiv as he realized Evanescia and Produveral were being pulled by his words—toward each other. They were getting distracted by each other; it wouldn’t be hard to drive them into an active conflict.
+
+"But we will not," the Harbinger said. "The destruction their battle will bring about will be nothing short of an apocalypse. We want them to be merely focused on each other. Long enough for us to find a way to create our own exit." Shiv agreed. He tried sensing his other bodies. The physical forms he had in the Tutorial and the capital were still there, and felt closer than ever… but there was still a dense blockage preventing him from shifting over. If Evanescia opened a dimensional gateway, it was still partially restricted.
+
+Which means she doesn’t intend to fully let us go, he guessed. So, that meant he needed to figure out how to use Produveral to breach Evanescia’s dimensional barricades first. So how do I go about that? Could do something with my Continuity Error. No one has been able to counter that skill. Maybe if I startle him enough, he might just pierce whatever’s keeping me from swapping places with one of my other bodies. But this is going to need some very delicate persuading. He needs to be the right kind of pissed at her—but he’s already predisposed to defy her out of spite.
+
+"Or out of necessity," the Harbinger said, holding back a cough of pain. "He does not understand our Continuity Error either. Ask him how he would help us leave. He wishes to extract us, does he not? To do so, he must breach Evanescia’s quarantine."
+
+“Besides, if one is to speak of slaves, let us not avoid the topic of what you intend to do with the Deathless,” Evanescia said, scanning Produveral up and down with derision. “Let us talk about how you bolt Surgical Animancy Bombs to Restricted Skills—which will most certainly be dear Shiv’s fate if you steal him away from this place. Your freedom is not a pure thing, Farwalker. I have seen it.”
+
+And when Produveral didn’t deny her immediately, Shiv’s mind briefly came to a halt. “Look, it’s… Things are a bit more complicated than that,” Produveral began with a grunt of discomfort. “And it’s not a guarantee you’ll need that treatment. Frankly, with how reasonable you are, I can see Chorus just performing a minor alteration on your skill.”
+
+Shiv’s insides screamed in absolute, violent protest at the thought. His words remained calm. “What the hells kind of alteration?”
+
+“A small installation of safeguards,” the Farwalker admitted. “So the Harbinger isn’t so…” He rubbed at his chest. “Uncontrollably dangerous anymore. We won’t break the skill, but we might need to… maybe set a boundary or install an alarm when you use it. With how you managed to affect me, you have to understand why it’s necessary. With the skill you got, you have to.”
+
+A Glimpse of Perspective: And if you value the lives of the meek and small, you can see why such an adjustment is to be made.
+
+A Glimpse of Perspective 91 > 94
+
+Shiv did understand. But understanding didn’t mean he accepted the logic, or what was to be done to him.

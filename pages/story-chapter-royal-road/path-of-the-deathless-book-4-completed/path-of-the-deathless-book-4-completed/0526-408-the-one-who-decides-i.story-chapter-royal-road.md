@@ -1,0 +1,201 @@
+---
+id: 59619c6f-0be7-5931-b636-8cb8f00fe6ef
+page-type-slug: story-chapter-royal-road
+title: "408 The One Who Decides [I]"
+slug: 0526-408-the-one-who-decides-i
+partOf: path-of-the-deathless-book-4-completed
+position: 526
+ownLength: 5486
+unit: words
+publishedAt: 2026-07-17
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3690441/408-the-one-who-decides-i"
+royalRoadId: "3690441"
+---
+
+The System yearns for novelty.
+
+Not just for strife, not just for conflict, not just to colonize, but to explore new ground, to uncover new philosophies, to discover new frontiers in all theaters, be it in the spirit, in the mind, in the physical, or beyond. That's why the System always delves deeper. Into the breadth of reality, but also deeper into your soul.
+
+The more you evolve, the more sophisticated and mana-dense your skills get, the deeper it reaches inside of you. For though every Legendary skill is a story told by yourself to yourself, it is ultimately at the will of the System. It pulls from that catalog of life, and it uses it across all its other zones of influence. From there, everything is made more layered, more complex, and more novel.
+
+You can see this most obviously in the Outsiders. Making a pact with an Eldritch God and letting its power flow in through you is the easiest way of becoming a progenitor. Well, that or acquiring a Unique skill. The latter is more useful than the former. Sometimes the former just leaves you a mass of tortured tissues, mad and insane and unable to make your own choices. But the sacrifice of a single Pathbearer, be they Legendary, Mythic, or higher, is nothing compared to breaking new ground. For the System's time is seemingly infinite, and the territory it holds is beyond even my ability to describe and map.
+
+For all the parts of Integration that are known, a vast expanse more remains an enigma, lost to the shadows of colossal mana storms that sweep through the Integrated cosmologies, all stitched together in an incoherent melange that slowly, over the course of eons, learns to become homogeneous. And once upon a time, a great many sections of this space belonged to the Outside as well. For what is the Outside but a place uncharacterized by the System's laws, will, and catalogue? A realm void of Skills, Feats, Blessings, and Curses?
+
+Understand that you, as a Pathbearer, are an infection vector as much as you are a narrative device. You infest places that you walk into; you spread the System's influence. The moment that an Eldritch god yet unfamiliar to the System reaches into you, you gain a measure of power, and you also find yourself bound by their will. But though you become a shackled slave, the Outsider god also sees themselves shackled in return.
+
+For where you gain a skill through your connection to them, so must they, even though they previously held no skills at all, because they were not a catalog; they were a sovereign that set their own edicts and defined the rules of their own reality. But no longer, and nevermore.
+
+The moment the System touches a being, it seeps into it, fed by the being’s very actions, and from a Pathbearer to a god, a trade most magnificent and horrific is made. But do not despair yet, Pathbearer. It's not entirely hopeless, and to some end, the System yearns to be betrayed. It yearns to be usurped and overthrown. The System yearns for these things because it wants to struggle. It wants to find and discover new levels and new novelties in narrative as well, as the most powerful of its Pathbearers rise in defiance—using Unique skills and other centricities against that which fed them with such empowerment.
+
+The System delights in this; it fans the flame. For whatever the System is, it is most certainly not a prideful entity. It is not easily heard emotionally.
+
+The System fuels those that refuse to bend.
+
+For that reason alone, Chorus exists: Chorus, the single true republic, the single true place of civilization and common decency across all Integrated reality. Chorus refuses to bend, and the System rewards them for it more than anyone else, and it is because of this that all those decadent empires and colossal dynasties are dwarfed by Chorus. Because they chose to do the novel by going against the System's will as a collective, to define their own culture as one of defiance against the hand that feeds. What vicious little biters, non-servants, so they say. Even so, they are no more free than anyone else. The System rewards them, but the System also taunts them. For everything you discover belongs to the System and drives you deeper and into its embrace. It lets you exist. It lets you struggle on continuously, but you get no closer to escaping; you make no progress in shrugging off its crushing grip.
+
+If we wish to ever truly escape this state of things, this miserable cage we are cast in, then we must go beyond. We must find a power that the System cannot possess. We must look to that which not only predates the System, but that which it refuses to touch. We must discover the legacy of the heavens and gods that came before…
+
+—Udraal Thann
+
+408
+
+The One Who Decides [I]
+
+Applying Partial Skill Evolution: The Dreaming Storm
+
+A downpour greeted Uva, a downpour born of her own mind. Dense sheets of translucent rain hammered against her, pounding her very being as if it were actual drops of water. She could feel the moisture, but the sensation and the fluidity were like passing memories, there one moment, and dissolved the next. For a single second, they were real. For a single second, her memory crossed over the boundary and became matter, some expression of force, of texture, of sensation, unbound by recollection alone. Then it was back—a fluid thing, a storm shifting, changing; mutation; evolution in eternal process.
+
+Veins of lashing lightning tore across existence as well, but ones unlike the translucence of her Noostorm. The power she unleashed in cracking whips bore brief pulses of actual power. They came aglow with kaleidoscopic radiance, imbued with the full force of lightning, infused with heat and energy, a perfect mimicry of an actual storm. The light that fell flared, bathing Uva, Hymn, and someone that shouldn't have been able to cross back over into the material world in a sheen of blinding light.
+
+“This… How?” Uva breathed. Across from her stood Harkness, returned to the flesh, bearing the regalia of the Queen of Winter as she presented herself within the Fairwoods. The former Owl seemed as lost as her. She looked upon her hands, her features fragile with disbelief. But there was something else behind her dead gray eyes—a growing ambition, a dark thought that percolated in between the furrows of her marrow. A dark thought that Uva could still hear. Despite Harkness's manifestation, she was still bound to Uva's will, a figment of her Black Gnosis.
+
+And so, when the Owl responded by instinctively drawing her rapier, the weapon manifesting to return to her side, Uva struck first. Fractured spiderlings exploded forth from the gaps that outlined her arm. Blade crashed against blade, but anomalous geometry surpassed the blessings provided by meager steel. Harkness' thrust, aimed to punch a clean hole through Uva's throat, was rendered wasted as the rapier shattered into a hundred fragments of glittering metal.
+
+But the Owl wasn't done. Before the pieces of her weapon even scattered, she stepped in and reached out, trying to unleash a burst of magic through her other hand, but whatever spell of whatever lore she called upon did not respond—for she didn't possess them. She was made matter through a novel application of mental magic—but still found herself bereft of the skills once imbued within her real self’s soul.
+
+Instead of Harkness striking Uva down, it went the other way. A single pale finger shot out, displacing droplets of rain in the air as Uva's arm extended, and punched clean through the rogue Owl’s shoulder instead. Rather than shredding through a memory, Uva felt her bladed digit sink through supple flesh, slicing meat, chipping and sliding through bone, and severing vessels that began to spit blood. A disbelieving gasp escaped from Harkness, and Uva struck her again. This time, using the storm itself. Bolts lashed down from above, cleaving into the Owl's vulnerable flesh and, deprived of Toughness and stripped of her Magical Resistance, Harkness didn't even get to scream before she was reduced to a charred slab of bubbling flesh. Smoke sizzled in the aftermath, and Uva's index finger remained impaled through the husk all the while.
+
+Fat deposits burst and leaked streams of glistening yellow. Harkness' right eye was lost, utterly disintegrated by the energies coursing through her, while her left was knocked back, pointed out at an angle within a partially caved socket.
+
+Somehow she was still alive; there was still enough inside of her in body and consciousness to manage a sound approximating a hoarse gasp, but Uva was not the kind to give mercy in ignorance. The moment Harkness believed she got free, she made an attempt to strike Uva down. She was a fool, and fools needed to be taught final lessons, lest they continued to yearn to indulge in foolishness once more.
+
+A dual chain of lightning fell as a braided helix, lashing mind and matter both. The concentration of energies cracked the very floor beneath Uva as what had remained of Harkness after the first strike was consumed in a blinding pillar of light. The lightning didn't cease, continuing to blast the Owl as a stable channel of energy, until, three seconds later, the attack ceased, and Uva finally retracted her finger, now clean of viscera, if coated in a bit of soot.
+
+On the floor, the neat pile of ash that had been made of Harkness dissolved into a pulse of translucence.
+
+Then, a second later, she reappeared in perfect condition. Uva's eyes widened. There was no distortion of magic, no overflowing mana that colored reality. One second she was missing; the next second she wasn't.
+
+“H-how?” Harkness barely managed that one word before she choked, hyperventilating in absolute disbelief. Her hands groped at her body, at her clothes, at her flesh. She was flash-fried a moment ago, ruined beyond disfigurement, and then disintegrated entirely, but now she was restored perfectly. And Uva saw how. It was the rain. The rain born of translucent mana which fell within her storm, creating a mirage, or perhaps something more than that—a minor plane of the mind, where the substance of matter and constructs of consciousness intermingled.
+
+With that realization, Uva banished Harkness before she could attempt another escape. The act was as simple as thinking. A thought caused the rain sustaining Harkness' existence to burst apart. Speckles of water and mana sprayed free, dissolving into component motes of translucence. With another surge of will, Uva commanded the rain to cease entirely. The storm remained a thing of boiling clouds and lashing lightning. It encapsulated all within that anchor, that ten meters of space which now occupied the totality of her field.
+
+She refused to let her power stretch further, seeing the risks of exposing herself before she got accustomed to her new Skill Evolution, but inside, a thrill grew. More than a thrill, there was a growing curiosity—all skills had limitations: the more specialized a skill was, the more severe and specific the drawbacks that followed. These drawbacks could be reduced by other skills supplementing and making up for the vulnerabilities brought forth, but with the Dreaming Storm as Uva's first true Legendary skill, balance was impossible.
+
+But right now she didn't want balance anyway. She wanted power unchained and the ability to impose mind over matter. Somehow, through that plea she delivered to the System and that special encounter, she was granted both as a reward.
+
+“This is most definitely not As Within, So Without,” Hymn muttered, his eyes gleaming bright as he regarded Uva's new transformation with suspicion. As he looked up, he observed the rippling storms that broadcast forth from her thoughts. A chain of translucent lightning climbed high to the ceiling of the anchor, becoming the sort of storm-like tree that further branched in all directions. Uva reverted her last command. Again, from the nest above, there fell droplets of translucent matter, each one a dot, each one capable of being misconstrued as "rain".
+
+And each one heeded Uva's will without fail. Focusing, she wielded her memories, calling forth another creation. This time, she kept Harkness contained, caged inside the base of her mind. She felt the Owl's confusion as she was banished from reality and returned to the pit. Rage followed. Desperation followed. For the first time, pleas followed.
+
+Harkness was resilient in mind, inured to cruelty and psychological torment from years of being a practitioner of both, but no one was truly unbreakable, not even Shiv, though he could regenerate from all mental trauma. After her humiliating defeat in the castle of the Winter Court, this facsimile of Harkness had been deprived of her own agency, had been trapped within Uva's mind, little more than a limb. A limb granted its own personality, but a limb that knew it was a limb nonetheless. Within Uva's prison of the mind, all sense of agency and self was a phantasmagorical distraction from the crushing existential truth.
+
+But now, Harkness begged, Harkness screamed, and Harkness pleaded, because she, so thirsty for her own choice, so thirsty to be her own person once more, had been given a sup, a taste, a drop of water after years of banishment in the desert. For a brief moment, she had been returned. Uva had inadvertently performed an act of paramount cruelty, and it was simply too much for her to cope with.
+
+“No, no, don't put me back. Let me out. Send me out again. Do not do this to me. Do not let me suffer like this. I will listen, I will heed! Whatever your will, whatever you want, I will heed. Just don't put me back. I need to leave! Do not let me languish here. Do not!”
+
+While she screamed with desperation, Uva was focused on other things. This cruelty, though distasteful, was ultimately necessary, for an Owl was an Owl no matter their pain, and if Harkness was let out again without thought, she would repeat the same action. People could feel things strongly at one moment, could lie to themselves with such intensity that, for that briefest of seconds, they would imagine themselves to be a different person altogether, but displayed behavior more than hinted at future action, and Harkness' history was a tapestry of unchanging betrayal.
+
+“Just wait,” Uva said to the traitorous mind she held under her sway. “I will discuss your position and punishment when I have time. For now, you just wait.”
+
+“Please!”
+
+But Uva ignored Harkness. She silenced her. She bound her in a cage of thoughts so dense that it was like a coffin made from tungsten, and she let it plunge deep into the sea of mind. Stripped of power and skills and everything that had given her agency in life, Harkness could only suffer in enforced silence. And, for the first time since she watched the nobility harvest their retribution from her mother’s heart, she approached that humiliating point of tears she so despised.
+
+“I need to figure out a solution for her,” Uva said to Hymn as she began to guide her power.
+
+What she created first was an object of simplicity. It was not a person. It was not a place. It was the dagger she kept in a box in her home. That surfacer dagger that had pierced her mother's heart. It was the object that she saw in her dreams, in her waking moments when she closed her eyes, in her subconsciousness when she was deep in the dark, yet still held to the world above by a thread of desire. The Dreaming Storm roared with energy, and as lightning flared, a heavy downpour of mana fell once more. They coalesced until they became a single piece of metal. In front of Uva, the blade itself came into view, a gleaming thing polished and maintained, reflecting Uva's visage back at herself. To her surprise, she was barren of eldritch influence.
+
+Her eyes were her own again, deep-blue and uniform. The aspects of the Hatchling and the eyes and fingers sprouting from her, inflicted by the Stranger, were no more as well.
+
+“I moved your collective Outsider essence, as you asked,” Hymn explained, sounding distracted as his eyes remained locked on the blade. “You'll still be able to call upon some of the skills in this Delve, but if you manage to purge yourself of the eldritch essence, I can't say what that might do to your legend. I doubt the System will outright punish you for such a feat, but I expect a significant change to your soul once more. But that aside, what is this? What did you just evolve, girl?”
+
+“Have you ever heard of the Dreaming Storm?”
+
+The Headmaster squinted, and both his eyes began to share a singular glow. Every bit of translucent mana within him was converted into Divination, and he gazed through the System, across dimensions and realities to find an answer he couldn't recall from memory alone. But as the seconds drew on and the notification for the first encounter loaded, he shook his head and took a step back, strained and weary in both mana and posture. “Not in the pages of the books I've filled, and not in any of my previous encounters across Integration. I suspected something like this might happen, but if I am to be honest, this is more dramatic than I anticipated and far more convenient as well.”
+
+“Convenient?” Uva asked.
+
+“Indeed, convenient is the word I would use. After all, it seems like this partial Skill Evolution allowed you to keep the parts you favored in your Lurking Noostorm. All that remains contained.” He gestured up, tracing each flash of her lightning, the storm constantly flickering, allowing her to maintain her psionic influence, to expand her branches of Psychomancy to strike at more potential victims. “But now you are also exhibiting As Within, So Without at the same time, or at least both of the skills have been fused and integrated. The System doesn't allow casual Skill Fusions between alike Legendary skills without reason. But it has made an exception for you, it seems.”
+
+Uva hummed in contemplation. “The exception was made because I prevailed in that last encounter. I did more than the objectives commanded.”
+
+A faint sneer merged with Hymn’s look of fascination. “Well, I would have appreciated an opportunity like that when I Delved my Legendary skill. Instead, I got psychological torture at the hands of my false parents. How fair of our great abuser.”
+
+“How many Tarrasques had you fought at twenty-two?” Uva asked flatly.
+
+Her words silenced the Headmaster, and he recalibrated his envy. “You know what? In retrospect, I prefer my life and Delve far more. I can't say the System didn't try to kill me, but between the three of you kids, it's been positively homicidal and bipolar. Each attempt is getting more extreme and more constant, while the rewards never cease. It's like being beaten one day and then treated to a twelve-course meal the next.”
+
+The truth in his description brought a sour taste to Uva's tongue. “Never a dull life, surviving as a favored Pathbearer.”
+
+She reached out and seized the blade which slew her mother, wrapping her fingers around the handle. It felt exactly as she remembered—and then she corrected herself. This blade was forged and sculpted from her memory, so how could it be otherwise? How could it feel any different?
+
+With a flick of her hand, she sent it soaring toward the edge of the anchor. It slammed against the wall and ricocheted off at an angle. As it bounced off the ground, Uva curled a finger and pulled it back into her palm—where it came to an unnatural halt, not impacting with any inertia. Looking to the wall, she saw a faint divot that marred the titanium alloy making up the insides of the teleportation anchor.
+
+A breath hissed out from Uva, sounding like a blade sliding free from a scabbard. She stepped toward the dent she'd left in the wall and pressed her thumb against it. The moment she did, she realized something. It was a concentration of Psychomancy that distorted the wall's actual matter. It wasn't truly dented. Not really. As she drew away that clump of mana, the cylinder returned to the shape it was—and Uva gained ever more insight about how her skill truly worked. It was mind over matter in the most literal form.
+
+The magic of her mind did not twist reality so much as it substituted it. Earlier, she'd lashed at the spell patterns surrounding her, imbuing the anchor with specific magic. She had overloaded the existing Psychomancy shapes in an instant. She turned to Hymn. “Is As Within, So Without meant to usurp or replace?”
+
+“Situational,” he answered, his right eyebrow quirked as he examined the damage she'd left. Parts of the cylinder were charred, marred black by forking traces of intense heat and lightning damage, yet in the next second, Uva drew all the discoloration she'd inflicted back into component motes. “What you’re doing right now is… Well, it’s imposing your Psychomancy mana over reality like a projected simulation, but the notable thing about As Within, So Without is the as within part. If you break something’s Magical Resistance, you should be able to—”
+
+Uva struck the insides of the anchor again, but this time, her Psychomancy didn’t just bubble over the existing matter. Her web of lightning struck out like wicked hooks and stole away entire stretches of metal—displacing them from reality into her mind.
+
+Pockets of strain built inside her skull. Yet the burden her mana field sustained wasn't even. It was like a few pieces of pressure gliding through her head. Even at rest, her field was potent, dense, and vivacious. It was energy unchained, her Psychomancy unleashed to the heights of what could be allowed on Integrated Earth. Furthermore, she could use other minds to carry the weight she couldn't alone. Swallowing pieces of matter from reality into the landscape of her mind brought a tangible heaviness she could not shrug aside.
+
+“Like that, then?” Uva asked.
+
+“Quite so,” Hymn replied. He nodded with muted awe at the power she'd just displayed.
+
+The moment was interrupted by a sound of hissing air accompanied by a wave of rushing cold. The doors leading into the anchor were flung open, and on the other side was a surprised Umbral, drawn in by the thunder and chaos to investigate what was happening within the teleportation anchor. She was a young slip of a thing, possessed only of an Adept-Tier Cryomancy skill, while at her hip hung a mace, one that was imbued with paralyzing enchantments rather than anything meant for war. Her jaw fell open, and her eyes widened as she stared at Uva. She didn't even notice Hymn. “I—”
+
+Uva didn't bother engaging in conversation. She continued testing her skill. A lance of lightning lashed down from above. The storm tree struck with its roaring might. In an instant, the investigating Umbral went missing. She wasn't even a stain of ash on the ground. The lightning crackled into her, swallowed her more like a swelling branch of water, and she was yanked out of reality as her paltry Magical Resistance succumbed and she was pulled deep into a sea resting at the center of Uva's mind.
+
+Incoherent screaming echoed out from inside of her. Two sets of voices wailed to be set free. Uva studied both, examining their pleas and their struggles, and tried to gauge the difference. Where Harkness simply existed as an extension of Uva's mind, something she could dispatch into reality at a whim—or even accidentally when her attention lapsed—the Umbral she'd just kidnapped held actual weight. More than weight, however, she inflicted a building strain on Uva's field.
+
+The chunks of titanium Uva had ripped away from the anchor earlier simply resided as steady points of effort. She had to constantly exert part of her mana field to keep them inside her mind, yet the stress and magic demanded never changed. The kidnapped Umbral was different. The cost of keeping her trapped within the Dreaming Storm grew toward the exponential. It was like trying to hold down a live fish compared to a dead one. The Umbral struggled. She had her own set of skills, had Magical Resistance that ground against an irritated Uva's Dreaming Storm—causing a sort of magical inflammation with each moment of friction.
+
+More footsteps sounded outside. Uva dispatched her lightning, but it moved not like bolts of electricity, but rather like curling fingers. It slipped through the doors and folded around both sides, moving down the halls before smashing through and reaping more victims from reality, rather than expanding Uva's influence and power. Instead of simply creating sub-storms she could direct, every individual she pulled within herself was a burden, trapped inside her mindscape. Furthermore, she couldn't pull them in until their Magical Resistance was fully collapsed and, in case they had one, their own Psychomancy field was utterly ruptured.
+
+And where containing one Adept-Tier Umbral was burdensome enough, capturing a dozen was inching toward the threshold of substantial effort.
+
+“Right. That's usually the other aspect of As Within, So Without.” Hymn looked Uva up and down. “Wait, is it inflicting strain on you?”
+
+“Yes,” Uva answered curtly as she began her quiet conquest of Passage. This time, she wasn't going to drown the entire teleportation complex in storms. Instead, she was going to discover how many people she could pull into her own mind before she hit a point of disability.
+
+“Well, I think we found our first point of divergence. With the way As Within, So Without works, you gain more mana from how many things you cage inside your own mind. This seems to be going the opposite way, and it makes sense: the functions and mechanics of the Lurking Noostorm are inverse from As Within, So Without—you gain more magic by spreading your lightning into other minds and using them as generators. But if you're pulling their minds under yours, then you're burning your magic to keep their mind under control and to keep them as figments within your consciousness.”
+
+Uva replied with a quiet hum as she bombarded the first of Passage’s Heroic-Tiers. A cascade of whipping lightning crashed into the Weaveress one after another. Her Reflexes were sharp; she managed to dodge the first of the bolts somehow—blinking across a kilometer of space to appear right in front of Uva. The Weaveress’ retaliation came without hesitation. She leapt forth, her limbs were drawn back as she prepared to grapple with the enemy.
+
+Uva countered this by re-manifesting Harkness and using her as a meat shield.
+
+The Weaveress and the Owl went down in a tangle of limbs. Harkness let out a yelp, which was promptly silenced as she was flung aside, striking the wall of the anchor and splattering like a bag of blood. Before the Weaveress could make another move on Uva, however, another version of Harkness loaded, and she threw herself against her murderer once more—reacting on instinct and guarding Uva without thought.
+
+The Weaveress swiped out with a lashing forelimb, manifesting a blade shaped from pressurized air that bisected Harkness along the middle. The powerless Owl confused the Weaveress just enough that she failed to notice more bolts of coiling lightning crashing down from all sides. She vanished in a final flash as the translucence drank her away, and where all the Pathbearers Uva stole from reality felt more like pebbles in her hands, this Hero plunged into her mindscape like a boulder, displacing her mana, breaking her storm as entire chains of lightning were severed.
+
+A groan of discomfort escaped Uva as the weight grew very close to her limit. She could feel the Weaveress thrashing inside her, trying to break free. She could feel that Magical Resistance gliding through her mind like a coarse rock sliding back and forth inside her brain. The longer the Weaveress remained, the more the pain and stress grew. The cost of capturing Pathbearers between Tiers was substantial as well. Size didn't seem to matter as much as metaphysical significance: it was about how many skills someone had, how much mana they possessed, and how capable they were in wrestling against magic, and Psychomancy in particular.
+
+“If it feels like this to seize a Hero, I can't imagine this is going to be a good use of my skill against someone like Shiv.” Uva paused and narrowed her eyes at Hymn. “Or you, for that matter.”
+
+“Maybe not, but maybe you're not being flexible enough again.” The Headmaster smirked at her and pointed at her skull. “You know you can free yourself of some of these burdens by just forgetting them, right? There are pieces in your thoughts now; they are exposed, vulnerable. You can simply see them disintegrated, cast into the oblivion of your ignorance.”
+
+A brief hesitation came over Uva. The act seemed extreme and cruel. But she desired to discover the limitations of her skill, and so she picked the weakest of her victims, the Adept she'd captured first, and simply scattered the girl across the mindscape. A final desperate scream that sounded all too realistic and felt all too desperate for a Delve-made person slipped out from the victim, and then she was no more. Uva failed to recall her in the next instant. It was like knowing you fought someone without actually recalling any of the details.
+
+But that act cascaded as all the other pawns she had trapped in her storm-shaped web went still. They heard the utter destruction of their fellow, and true dread seized them. Trauma flowed through them, and Uva drew in power like never before as her mana field, once almost stressed to the limit by the Hero, now simply found the Weaveress highly burdensome.
+
+“Sometimes it feels like a System is determined to drive me down a path of utmost cruelty,” Uva muttered.
+
+Hymn just shrugged. “Cruelty is effective when used properly. Remember, you don't live a life of platitudes; you live in reality, and the right choices to make sometimes are the exact wrong choices to make at others. Besides, I think this was a wasteful thing to do anyway.”
+
+Uva stiffened. “Then why did you tell me to do it?”
+
+“Because I wanted to see if you could. Also, you don't always need to listen to me. You have to use your own judgment.”
+
+Her lips thinned in annoyance. “Is this your way of avoiding responsibility?”
+
+“Yes. It’s quite effective.”
+
+Uva glared at him and considered how many bolts of lightning it would take to strike Hymn from existence.
+
+“That really depends on how many people you have serving as your mana generators, doesn't it?” Hymn asked without fear. “Which makes me wonder: Could you potentially hold an entire city in your mind if you mentally capture all its inhabitants? Ask yourself that. You gained a lot more mana by creating sub-storms and sub-nests using the people you captured. So why not let some of them out? Why not use some of them as generators so that you can hold the others? Let’s see if you can get the best of both worlds here.”
+
+She wanted to ignore him out of spite, but after a moment's thought and pushing her misgivings aside, Uva admitted his recommendation had more substance than the musings of a gadfly. With a casual tilt of her head, she released eight Adepts and two Masters once bound within her lightning in torrents of translucent rain—and impaled them with her psionic bolts once more.
+
+But instead of dragging them into her mind, she let her mind spread over into them, as the Lurking Noostorm did before. She felt her mind branch over and coat theirs, like electricity flowing through nodes of copper, like a spideress expanding her web. And as her web grew, the strain pressing against her lessened; by the end of her expansion, the Heroic Weaveress’ weight was cut by half.
+
+A rush of quiet euphoria crept through Uva. She was past the point of excitement now; this was a new horizon of appreciation and enjoyment. There was a great deal she could do with this… Phantasmagorical buildings, pseudo-mazes, psionically constructed pawns…
+
+“Yes,” Uva whispered to herself. “There are opportunities here. Many opportunities.”
+
+And she had an entire Delve to experiment with.
+
+“That’s why I told you not to rush earlier,” Hymn said with a smirk. “Because more than educational, sometimes, Skill Evolutions are just plain delightful.”

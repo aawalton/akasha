@@ -1,0 +1,151 @@
+---
+id: c2f707f9-4e57-5605-a504-21f9ac840efb
+page-type-slug: story-chapter-royal-road
+title: "Chapter 8: Eating and Growing"
+slug: 0008-chapter-8-eating-and-growing
+partOf: phoenix-ascension-cultivation-litrpg
+position: 8
+ownLength: 1720
+unit: words
+publishedAt: 2025-08-17
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2525678/chapter-8-eating-and-growing"
+royalRoadId: "2525678"
+---
+
+My cursing wouldn't solve my problems though. The poison flowed through my blood like mercury, and I couldn’t even cough. However, I knew what I had to do, as unpleasant as it was.
+
+A technique to disperse poison flooded my mind, and I couldn't help but wince at the idea. However, if that was what it took to survive, then it didn't matter.
+
+I forced my wings to rise, wrangling them around like two stubby pieces of meat in a meager attempt to imitate hand signs.
+
+The pain coursing through them almost made me want to accept the sweet release of death; however, the spite I felt inside me couldn’t be sated with just that.
+
+Once I manage to exterminate the poison, I will make sure that that thing’s race doesn’t get to reproduce again! I’ll annihilate them from the face of this earth even if it takes me a thousand years!
+
+With the newfound desire for revenge and the technique finished, I felt a powerful fire rise up within me. It burned horribly, its warmth quickly becoming a hellfire that covered my internal organs.
+
+However, I didn’t wince or cry in pain. I didn’t want to show such weakness even if I was on the brink of death. Carefully controlling the fire, I directed it toward my rapidly beating heart, as feeble and small as it was.
+
+If the poison wanted to kill me, it would need to pass through the heart several times. That gave me the opportunity to destroy it each time.
+
+There was no physical damage to my body from the fire, of course, and it would only destroy the impurities, but the pain was nevertheless real.
+
+However, my plan worked flawlessly.
+
+As the poison-infused blood passed through my heart, the fire burned it all to a crisp, becoming nothing more than useless dregs that then evaporated to nothingness.
+
+The process was painful, but I could feel energy coming back to me. With each passing second, the harrowing feeling of the poison corroding away at my very essence disappeared.
+
+After what felt like hours, the feeling completely disappeared, but I didn't feel safe turning off the fire, not yet.
+
+Health!
+
+[Hit Points: 130]
+
+[Hit Points: 120]
+
+[Hit Points: 115]
+
+[Hit Points: 110]
+
+[Status Effect: Poison[Lesser] has been dispelled.]
+
+I let out a heavy sigh of relief upon seeing the weird text's message. Not only because my life was saved, but also because I could finally turn off the fire still burning inside me. As I did, the world spun, and I couldn't find the strength to get up.
+
+This is bad. If something catches me, I'm done for!
+
+However, no matter how much I wanted to move, my body refused to let me. I wasn't sure why, but I could only guess that the shock from almost dying made me somewhat weak.
+
+I had a feeling that it was far from the first time I had danced with death, but something told me it's been a while since I've ever gotten so close to stepping over its toes.
+
+At least I'm not in any immediate danger.
+
+I glanced at my hitpoints, curious to know how they worked, but I didn't feel like reading any sort of lengthy text while I was as vulnerable as a sitting duck.
+
+[Hit points are equal to your health. If it goes to 0, you die. If your health is less than 50% of its maximum value, you will feel weakened.]
+
+[If your health is less than 30% of its maximum value, you will become even more weakened, and fatigue will start to seep in.]
+
+[If your health is below 10%, then most of your abilities will be severely limited.]
+
+[Certain factors, such as skills, bloodlines, races, or class, may affect this.]
+
+System didn't seem to care, as it bombarded my vision with a few lines of lengthy text. The information was useful, of course, but if it came at an inopportune time, it would have cost me my life.
+
+Disable thought-reading notifications when I am in danger.
+
+[Understood. I shall only respond to spoken commands when you're in danger.]
+
+Although System was a prick sometimes, at least it listened well. If I didn't know any better, I would have thought it was some sort of autonomous Treasure Spirit, but the thought of anyone creating such a powerful treasure filled me with dread. If it was that strong, just how much stronger would its owner be? Needless to say, I didn't want to find out, not yet, at least.
+
+"What's my current health percentage?" I asked, unable to do any sort of math at the moment.
+
+[Your current health percentage is 26.5%]
+
+No wonder I feel so exhausted...
+
+"Does my health regenerate?"
+
+[Your health currently regenerates at a rate of 5 points every 10 seconds while resting and 5 points every 20 seconds while doing any sort of activity.]
+
+"Am I resting right now?" I chirped, wanting to make sure.
+
+[No.]
+
+Well... that sucks. That means I have to wait for at least one minute to regenerate enough to be able to get up.
+
+I was sure that the fact that my Qi was low added to the fact that I couldn't move. Qi exhaustion was no joke, no matter what world I was in. If I ran out of Qi completely, not only would I be powerless, but it would be like losing a limb. Even more than that, it would make my body hunger for more and end up using my physical energy to make up for it.
+
+The fact that I used the Nirvanic Flames to remove the poison added to the exhaustion.
+
+Thankfully, my situation didn't look dire. Besides the snake, no other Spirit Beast approached me, and that gave me time to look around.
+
+The forest didn't change much between the time I almost died and my recovery period, but the sky did. Clouds littered its blue tapestry, and the scattered rays of sunlight kissed my feathers every so often. It felt good, at least in the moment, allowing me to forget the encounter with death I just had and calm my nerves down a little.
+
+I felt my Qi pool gradually fill back up as well, which was a good sign. It meant that I had Qi regeneration even while not actively practicing breathing techniques.
+
+A Phoenix's body is really wonderful... no wonder I felt such bitter jealousy rush through my body when I saw Mother...
+
+***
+
+Eventually, my health and Qi regenerated to the point where I could finally move properly again. The sun had shifted slightly, but not enough to worry me. I needed to get back to Mother so she could check up on me; however, the growling of my stomach had other plans.
+
+I couldn't even eat... I'm so hungry… These damned poison and venom users…
+
+If I came back empty-handed or with an empty stomach, Mother would definitely be disappointed. I wasn't sure if she would be more disappointed at me than I was at myself, though. After winning such a hard battle and gaining one level, one would think that it would be enough to make me happy, but two feelings inside me whispered that it wasn't enough.
+
+Sure, I may have defeated a tricky opponent with even cheaper tricks, but the inability to eat it drove me mad. I wanted to go back and see if it had anything non-poisonous or if it had a core. At least if it did, I could absorb it and hopefully not get poisoned.
+
+Considering its level, it shouldn't have, but I'll look anyway.
+
+Another growl in my stomach woke me up from my thoughts.
+
+Not right now though.
+
+I walked back toward where I had left the corpse with apprehension. I wasn't sure what sort of other predators lurked through the shadows of the trees, but I had to be ready at a moment's notice.
+
+My small body made its way through the thick foliage, with the grass being almost taller than me and the bushes acting as obstacles I would need to maneuver around, but I eventually reached the place where I had fought the snake, with only a few stomach growls to act as a reminder of my hunger.
+
+Just wait until I find something!
+
+Yet, right as that thought crossed my mind, a bush to my right rustled. I immediately jumped to the side, crouching and making myself small as I squinted.
+
+Some creature came to see what the fuss was about?
+
+My curiosity was soon answered by another quick rustle and flurry of feathers, as a large chicken-like Spirit Beast snuck out of the bushes.
+
+It looked... clueless, dumb even. I wasn't sure what sort of animal it was, as its height made it seem less like a chicken and more like a feathered baby tiger. The feathers covering its body were white with dark pigments, and its tail was even fluffier than my mother's, yet not as elegant. It had a short, yet sharp beak, and its eyes, although empty, were those of a predator's.
+
+I can't let my guard down.
+
+With that thought in mind, I held my breath. I wasn't sure if the thing's hearing was as good as a tiger's, but I wasn't willing to find out. It approached my position slowly, each step it took shaking my body like an earthquake. My head was filled with ways I could take it down, but the safest option was burning its head off with a quick, sharp attack.
+
+Of course, cutting off its neck would also be an option, but it was far riskier than I would have liked.
+
+I muttered the chant to cast a basic Nirvanic Flame in my head, and then, just as it was mere meters away from me, my wings spun into motion. As soon as I wiggled them around like some sort of stiff sticks, a weaker version of the spell I envisioned came to life between my feathers.
+
+Without hesitation, I sent it hurling toward the thing's head, hitting it squarely in the face. Its eyes widened in surprise, but before it had any time to react, any semblance of a visage burned away to crisp ashes.
+
+[You have slain [Spirit Tail Chicken] Lvl 2]
+
+[XP Acquired]

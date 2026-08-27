@@ -1,0 +1,331 @@
+---
+id: c0861a5a-13af-5f4f-9a4f-4486e6f0376c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 158: Greedy Sword"
+slug: 0158-chapter-158-greedy-sword
+partOf: phoenix-ascension-cultivation-litrpg
+position: 158
+ownLength: 3666
+unit: words
+publishedAt: 2026-08-04
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3770208/chapter-158-greedy-sword"
+royalRoadId: "3770208"
+---
+
+I couldn’t be sure if anything I would do would have any effect, but strengthening one’s meridians was always good. I’d heard of people doing so by using parts from Spirit Beasts, but I never did attempt that.
+
+Now I had the best conditions, since I was the Spirit Beast, and I had meridians.
+
+Although I didn’t really know how it would work, maybe it was something more akin to refinement, except I would be using my own body? Whatever it was, I would need to figure it out by myself.
+
+Although I wasn’t sure if I wanted to do it in public or not. The chances were nothing would happen, but on the off chance it did…
+
+“I’m going to recover somewhere else,” I said to Meng Mao loud enough for him to hear me. He merely nodded, and I left, heading toward a remote peak on the outer sect.
+
+People took notice, but none cared enough to stop me. It wasn’t anything forbidden anyway.
+
+Well, they didn’tforbide us, so it was fair game.
+
+Checking that there was nobody on the peak I’d chosen, and that nobody was following me, I sat down under a tree for shade and because it was comfortable.
+
+I was cross-legged, but I didn’t know what the next steps would be. Since the process required one to put pressure on their meridians, and even break them in a calculated manner, all to increase their width and to make them stronger.
+
+Originally, I’d created my meridians to be as strong and as wide as possible without thinking about the benefits of what using my own body to refine them further would be.
+
+But now that I had the idea, it was worth trying. It wasn’t like watching the fights of these juniors would be worth my time anyway. With that said, I took a deep breath and started trying out the cultivation process. Trying was the key word, as I could never truly bother myself with such techniques.
+
+But, well, I could now,w and I had nothing better to do. Not to mention I needed every advantage I could get. I was just a poor little Phoenix, after all.
+
+Jokes aside, how would one even put pressure on themselves?
+
+My body was already used to me, so putting internal pressure would require a bit of work. The first thing I tried was just unleashing my aura inside, but as expected, there was no result.
+
+Even forcing Qi in the will I used to create the aura did nothing; my meridians didn’t do as much as budge.
+
+Increasing the pressure didn’t do anything either. They were already used to me, so whatever else I wanted to do would be useless.
+
+But I hadn’t exactly used that many techniques, so maybe there was a way for me to use skills to put pressure on them?
+
+Besides Strengthened Constitution, though, I wasn’t sure if anything else was going to work. Even then, that skill only worked on my body.
+
+I was in a pinch…
+
+If internal pressure wouldn’t work, then the only better way was to use external pressure. Although, where could I get something powerful enough to refine my meridians with?
+
+I could use the sword, but it would probably get out of control, as I still had to refine it. I wasn’t even sure if it would accept me as its master anytime soon. It was a truly dangerous and powerful object.
+
+So the only other thing I could use… Was the Qilin Horn.
+
+Well,l it should wield interesting results, one way or another.
+
+Pulling it out, I could feel that it wasn’t willing to be manipulated. Despite the fact that it had been cut from its host, which was a child apparently, it still retained some of its will.
+
+Lightning danced on the surface, and every time I touched it, it would prick me. The only way for me to hold it was through the usage of Qi.
+
+It was hard to believe that something so powerful came from what could be considered a young member of the race.
+
+I was not as powerful, but maybe he was older?
+
+Either way, now that I’d gotten it out, the only thing that remained a mystery was how to use it.
+
+Under normal circumstances, I would need to refine it before making use of it, but maybe I could force it to aid me?
+
+Trick it?
+
+I didn’t know if it could be talked to, as the only thing remaining within was will.
+
+I sent my Qi into it alongside some of my own will just to probe it, but it didn’t seem like it was willing to listen.
+
+But then I had to find another way to get it to work for me. The only thing I could think of was to just straight up force it, so put some actual pressure on it.
+
+While I was weaker than its original owner, this was just a remnant piece. If it refused to cooperate with me, I could only wipe it away.
+
+Still, now that I thought about it, that Qilin guy was almost revering me; that meant that in their hierarchy, Phoenixes were far above, right?
+
+So why was this thing so rebellious?
+
+Alright, this was enough playing nice then. I was not going to stand for its arrogance any longer. So what if you were stronger? I’m a Phoenix!
+
+I flared my presence, sending powerful Qi into the horn and began fighting the remnant will inside. Might as well refine it now, better than never.
+
+After using it to temper my meridians, I would use it to increase my lightning affinity by absorbing it, and maybe use the leftover for materials later.
+
+With my pressure upon it, the horn finally started to realise that things weren’t going as it had wanted.
+
+When the horn felt my pressure fall upon it, its stubbornness flared as it fought back. Not only did it try to push me away, but it also used up some of its remaining energy to attack!
+
+How daring!
+
+I flared up my Qi and added some of the fire energy I had, which did not help at all. The horn kept on fighting despite my presence, and it was beginning to feel like I was getting disrespected.
+
+If that was how that young Qilin acted generally, no wonder he got his horn cut!
+
+I summoned a dragon made out of Nirvanic Flames and made it wrap around the horn; however, that only aggravated the will within the horn.
+
+I created two more dragons and made them help me fight. Having the will disperse its concentration between the four of us would weaken it greatly, which meant that I would be able to erase it much quicker.
+
+If my cultivation was higher, I would not have needed to fight so hard. I could only blame myself for being so weak.
+
+During this trip in the Four Corner Sword Realm, I was definitely going to break through, no matter what!
+
+Until then, though, I was going to struggle.
+
+The process of refinement somewhat started to pick up, but it wasn’t fast enough for the time limit I was in. At this rate, it would take me a good few weeks to refine it, let alone strengthening my meridians.
+
+I just didn’t have that kind of time.
+
+However, I did have one other idea, and that was fighting fire with fire. Except, it wasn’t fire; it was lightning.
+
+With that idea, I went ahead and called my dragons back, replacing them with lightning dragons.
+
+The moment I did that, there was a drastic change.
+
+The two lightning dragons I summoned were made of my own lightning, created using the technique, but also from the absorbed Heavenly Tribulation they ate.
+
+When the Qilin Horn sensed them, its presence immediately shrank back, hiding inside the horn like a child scared of its parents.
+
+I kinda tilted my head at that. It was natural that tribulation lightning was scary, but to this extent?
+
+When the dragons wrapped around the horn, it was like the will had vanished.
+
+Not only was there no fighting back anymore, but it was like there wasn’t any will present to begin with.
+
+That was eerily creepy, if I had to be honest.
+
+But at the very least, the horn was behaving now.
+
+I picked it up in my hands, and there were no more shocks. It was now as docile as a puppy. I smiled to myself and sent some of my will into it.
+
+There was no fighting back; the presence within the horn surrendered itself to me without any more trouble.
+
+Nodding to myself, I kept the dragons nearby and started the process of refining my meridians.
+
+I didn’t know exactly how, but I figured that using the horn’s will to put pressure on them was a good start.
+
+Without thinking too hard about it, I thought about what I wanted it to do, and the horn listened. Its presence soon filled my meridians, and I closed my eyes.
+
+My main focus at that moment was to feel the changes within and see how my meridians reacted.
+
+At first, nothing happened, but as the pressure increased, not only my meridians, but my muscles began to shake as well.
+
+The pressure from the Qilin horn was great, but manageable.
+
+Eventually, I’d commanded it to send some lightning inside, and the moment it did so, I felt it travel through my entire body. The shock made me involuntarily convulse, but besides that, there was no other discomfort.
+
+My meridians had gotten a little damaged, if I had to be honest, but besides that, everything else was fine. That was my goal anyway.
+
+Commanding it to stop, I had to figure out a way to heal them.
+
+But it seemed like that concern was unfounded, as my first experiment worked extremely well.
+
+As a Phoenix and a Spirit Beast, my vitality was incredibly high. As a result, the healing process was quick, and with just a little bit of Qi, my meridians healed almost instantly.
+
+Nodding to myself, I smiled and began the process of refining my meridians in full.
+
+The pressure from the horn made them weaker, and the lightning finished the job by destroying them. The pain I felt each time even a minor chunk got torn apart was great, but my Pain Tolerance skill was at the Expert rank, so I should be fine. Worst case scenario, it would just upgrade to Master.
+
+My meridians widened, and just like a muscle that got torn when training, they were stronger when they healed back.
+
+However, there was a certain threshold that was not possible to cross without the proper materials.
+
+Thankfully, I was far from reaching it.
+
+As my session went on, I noticed that the second preliminary fight had already started. It seemed like both of them were from the Reaper Sect, so the fight ought to have been interesting.
+
+Unfortunately, I was far too busy to pay any attention to it, and I would much rather just refine my meridians.
+
+The process was going well, very well. My meridians kept on breaking and healing; each time that happened, I made sure to widen them just a little bit more.
+
+It was far more forgiving a method than when I’d created them, as my body back then was weak and not as tolerant.
+
+Now, I could probably create a thousand meridians and feel nothing.
+
+That didn’t mean that I wasn’t feeling the pain from this, though. The lightning made my body convulse, and I gritted my teeth each time I broke off meridians, but the healing process felt nice, at least.
+
+Soon, my meridians had become at least two times as strong and just as wide. The amount of Qi I could channel through them had multiplied by an insane amount.
+
+Just as I was thinking that it was enough for the day, something inside my dantian began moving and screeching.
+
+It was the sword I’d sealed away for being so bloodthirsty, the Blade of the Elements.
+
+Oh?
+
+Since I had such a good refinement tool, and the sword was created to take in elements, I figured that it would also be a good moment to make some progress on it.
+
+And it was basically begging to be let out.
+
+After some consideration, I figured that I would be strong enough to suppress it, especially with the Qilin horn by my side.
+
+I didn’t hesitate and took it out. The moment I did so, all the lightning within the area got drawn toward it, and the sword began to greedily absorb everything.
+
+◈◈◈
+
+Mei Ba Do brandished his sword as Xing Po attacked. As disciples of the same sect, the two of them used more or less the same methods of attack.
+
+They’d both learned the common cultivation technique and weapon arts, but one chose the sword while the other chose the spear.
+
+In theory, the spear would always have an advantage over a sword; however, practical combat had more factors than just weapons.
+
+Qi amount, Qi control, materials, the holder’s will, and many more factors took part in the outcome of a battle.
+
+Even though Xing Po had the advantage for the moment, things could always turn. He’d been fighting like infantry for the most part, standing at a distance and trying to find an angle to stab Mei Ba Do with.
+
+The latter remained calm and still like a calm ocean. He waited, dodged, analyzed, and deflected when necessary. So far, neither of them had used any flashy techniques, but both of them would need to change soon.
+
+When Xing Po attacked once again, Qi flared from the base all the way to the tip of the spear, strengthening it.
+
+Instead of a simple thrust as he’d done before, he wobbled the spear in a circle, the tip’s effective range of attack increasing while also becoming unpredictable.
+
+With the amount of movement the spear was doing, it became almost phantom-like as Xing Po infused more Qi into it.
+
+Having seen that coming. Mei Ba Do smirked and stepped back. Xing Po’s eyes flashed with a cold light as his feet tensed and sprang immediately, his speed increasing by a great amount as he delivered his attack.
+
+Taken by surprise by the sudden offensive, Mei Ba Do got hit with the side of the spear, the corrosive Qi entering his body.
+
+He clicked his tongue and suppressed it the best he could, but once the Qi cultivated using the Reaper’s Sect technique entered one’s body, it was hard to get rid of, even for a practitioner.
+
+They were trained better against it, but if they weren’t strong enough, then it didn’t matter. Mei Ba Do was currently not strong enough to handle Xing Po’s corrosive Qi, as they were both at roughly the same level of strength.
+
+However, as long as he could hold on enough until he had a chance to deal a finishing blow, then it didn’t matter.
+
+He had a hard time getting close to Xing Po because of the range advantage, so he waited patiently for an opportunity.
+
+However, Xing Po wasn’t an idiot either; he knew how to take his time and, now that the Qi had penetrated Mei Ba Do’s flesh, it was only a matter of time until he would win.
+
+He stepped back and waited.
+
+Mei Ba Do clicked his tongue, seeing that, as he knew what it meant. Xing Po was happy to wait without doing anything. He would save up his Qi while Mei Ba Do would need to actively use it to suppress the foreign Qi.
+
+Anger coursed through his veins at the taunt and malice his sect had shown, but then again, he would not have done things any differently.
+
+He wasn’t like that monstrous woman from earlier, who could ignore the corrosive Qi.
+
+Even with it suppressed, he’d felt it spread throughout his entire system. From the flesh to the bone and into the meridians. If he didn’t finish the fight quickly, then he would surely end up dead.
+
+With that in mind, he gripped the hilt of his sword and advanced. His feet and figure turned into a blur as he activated the sect’s movement technique, Reaper Fog.
+
+It was a technique that made one’s body half-ethereal, to the point where you could manipulate the shape of your body. Paired with the Qi of the Reaper Sect, you could create an illusion of a walking fog.
+
+Neither of them could use it to its full potential just yet, although they knew it was possible to achieve a true fog-like state where even your enemies could not hit you with anything.
+
+One of their instructors had demonstrated it like so, and they’d been trying to get to that point ever since. All of them had.
+
+Even Li Li, who was pretty good at fighting, had not managed to replicate even a fraction of their instructor’s technique.
+
+It was simply too difficult.
+
+However, with enough practice, everyone could reach a decent level of mastery on the technique.
+
+As he dashed forward, he’d channeled Qi into this sword, using yet another technique of the sect. Reaper Scythe was one with a strange name, as it did not actually make ur weapon into the shape of a scythe, but merely lengthened it using Qi.
+
+The resulting length was not as sharp as the blade itself, not without some serious training, but it could penetrate and erode Qi defenses with ease. Once that happened, and the Qi entered the enemy’s body, then they were almost as good as dead.
+
+People who did not know that were taken by surprise and easily assassinated as their body rotted from within.
+
+It wasn’t true rotting though, more akin to rust eating away at metal instead of killing the vital organs.
+
+At their level, the outcome of death wasn’t guaranteed, as the body had a natural adverse effect to foreign Qi.
+
+But it would be good enough a distraction for an actual finishing blow.
+
+And finally, the last technique of the sect he activated was Reaper Step.
+
+Once activated, it would gift the user an incredible amount of speed for a short amount of time. It was more of a dash, since controlling it was extremely hard.
+
+He disappeared and appeared at Xing Po’s side, slashing as soon as he had control of his body.
+
+Xing Po expected that and used Reaper Step to move backward, barely dodging the ethereal blade by a hair’s width.
+
+However, Mei Ba Do was not giving up that easily. The moment Xing Po retreated, he thrust forward and stepped at the same time, activating Reaper Step before Xing Po could land.
+
+The latter’s eyes widened, and he quickly created a barrier of Qi, but the sword created with Reaper Scythe easily passed through and slashed right at Xing Po’s belly.
+
+Penetrating through, Xing Po’s face twisted into one of immense pain, but that only made him grip his spear tighter
+
+Activating his own version of Reaper Scythe, his spear immediately gained an immense amount of length as he poured all the Qi he could into it.
+
+Mei Ba Do stepped back, thinking he was safe, but that was when Xing Po smiled and threw the spear forward like a Javelin.
+
+Reacting was impossible, and raising a barrier did nothing. Mei Ba Do got pierced right into the stomach.
+
+With both of them suffering from the same effects, they would need to end the battle quickly.
+
+Xing Po had no weapon, so Mei Ba Do thought that he had an advantage; however, that couldn’t be further from the truth.
+
+Xing Po struggled to raise two fingers, then pointed them at the spear that was now only a few inches away from Mei Ba Do.
+
+His eyes widened as Xing Po’s spear trembled, then exploded in one half moment. All he could do was turn around, but it was too late.
+
+Broken bits of wood and metal, all filled with corrosive Qi, penetrated his body.
+
+He turned and looked angrily at Xing Po, who had a stupid smile on his face, blood seeping from the corner of his lips.
+
+Wounded so badly, and with Qi eating away at his entire body, Mei Ba Do had little he could do besides going in for a true blow.
+
+He didn’t want to kill Xing Po, but he didn’t want to lose either.
+
+Forcing himself to activate Reaper Fog, he ran forward, his speed pushed further by his Qi.
+
+However, the more he used, the less he had to fight the invading Qi with.
+
+It was clear to him that he would lose either way, so mhe ight as well try his best.
+
+Xing Po’s eyes narrowed, and he took a few rapid steps back, summoning a small Qi barrier around him.
+
+Now that he was infected with the corrosive Qi, it didn’t matter whether or not Reaper Scythe could reach him.
+
+Mei Ba Do was in a far worse state than he was, so what mattered to him in that moment was lasting longer.
+
+The moment the physical sword met his barrier, it shook, almost cracking, but he quickly reinforced it.
+
+The battle of attrition had now started, and he knew for sure that he was the one to win.
+
+Just as he was prematurely celebrating his victory, something drastic happened.
+
+Lightning crackled nearby, on top of an empty peak from the outer sect. It was made of multiple colors, and the pressure they felt from it was immense.
+
+The peak was fairly far away as well, so whoever it was that was channeling that was incredibly strong.
+
+Xing Po fell to his knees, as did Mei Ba Do, the fight between them taking a temporary pause as they watched the lightning light up the day sky.
+
+PLACE YOUR BETS

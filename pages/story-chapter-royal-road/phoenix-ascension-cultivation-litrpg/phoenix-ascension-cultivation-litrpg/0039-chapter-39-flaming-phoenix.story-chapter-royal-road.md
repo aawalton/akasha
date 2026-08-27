@@ -1,0 +1,229 @@
+---
+id: d1a299fd-edef-5451-be88-f02a43273d58
+page-type-slug: story-chapter-royal-road
+title: "Chapter 39: Flaming Phoenix"
+slug: 0039-chapter-39-flaming-phoenix
+partOf: phoenix-ascension-cultivation-litrpg
+position: 39
+ownLength: 2384
+unit: words
+publishedAt: 2025-10-22
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2697285/chapter-39-flaming-phoenix"
+royalRoadId: "2697285"
+---
+
+The sky’s shade had been replaced by a thick layer of flames. Mother’s fire had replaced the heavens as she rained destruction.
+
+With a flap of her wing, giant flaming tornadoes shot toward the flying cultivators at a speed faster than I could observe, and the heat seemed to have affected those that were on the ground as well.
+
+The weaker ones dropped to their knees, screaming in pain. With the seal broken, there was no need for anyone to act like they were supporting a formation, so that gave them some freedom.
+
+However, they were unlucky.
+
+In order for the formation to be kept stable, they had to keep close to Mother, even if she was flying. That meant that their proximity to her— which was once their advantage— now spelled their doom.
+
+Not only because Mother’s strength far outclassed them, but also because I was on the ground, and I was hungry.
+
+The quasi cultivator looked at the sky with a trembling gaze, and flew up to aid his superiors, leaving the foundation establishment cultivators to fend for themselves. That gave me a lucky break, as I didn’t feel like running away.
+
+Not that I could.
+
+Without Qi and stamina, I felt like a sitting duck. That would change soon enough though. My dragons were still holding back that one cultivator they trapped earlier, but would soon dissipate.
+
+Or not, last time they didn’t dissipate despite me being on death’s door. Something told me that they wouldn’t go away until I died if given the chance.
+
+Which was both a good and a bad thing, but that would remain to be seen in the future.
+
+I dashed toward the trapped cultivator and killed him without breaking a sweat. The mental damage from seeing a Phoenix unleash her fury, paired with the fact that the connection to the formation had been forcibly broken meant that his combat abilities had dropped way below what he should be able to exert.
+
+Commanding my dragons to defend me and ignoring the kill notificationI began feasting on the guy’s fresh corpse.
+
+Whoever you were, you made a great meal, thank you.
+
+That was a little rude, considering I didn’t bother with the notification that would display his name. Oh well, that’s what you get for trying to kill Mother!
+
+The other cultivators looked at me with shock and horror. I grabbed theguy’s bag of holding and tossed it around my neck, then attacked together with my dragons.
+
+Most of the foundation establishment cultivators were in the early stage, and I was an evolved Phoenix. The difference between us was like heaven and earth, and both the heavens and the earth were currently engulfed in flame.
+
+I killed the closest ones and gathered them together, stealing their bags— not that they needed them anymore, they were dead— and sat down to watch the show. Those still alive, that I couldn’t quite take care of, were too stunned to do anything besides gaze at the sky with horror.
+
+Screee!
+
+Speaking of, Mother used her paralysis skill and temporarily dazed the cultivators, then swooped like a crashing meteor.
+
+I broke the arm off a corpse and began munching on it. The overeater skill was hard at work, stocking the extra energy as reserves. I really hoped I wouldn’t get too fat though.
+
+Looking around, I couldn’t help but sigh. If I could use skills I’d use the needles to kill all of them for an easy level up. Too bad.
+
+In their current state, they were less than useless. A single needle would be able to take them down due to their low spirits and damaged mental state.
+
+But at least Mother was taking care of the higher ranked cultivators.
+
+She seemed to be targetting the quasi cultivator that chased me. Wanting to take care of the weaker ones first was a good strategy, but something told me she did it out of anger more than anything.
+
+The others took advantage of the situation and sent their weapons flying toward her, but nothing they did could penetrate past Mother’s defenses. Her skin and feathers were too tough, and the fire surrounding her made a barrier that would disrupt the flow of Qi.
+
+I knew that because the weapons started wobbling, and some simply fell until they were a certain radius away from Mother.
+
+That was a sign that they lost connection to their owner.
+
+Mother was seriously amazing.
+
+I couldn’t help but think that as I watched her fight. She looked gracious, dodging any attack that could damage her with perfect accuracy, then counter attacking with crazy viciousness. Talons, fire, wings an all other sorts of moves thratene to take the cultivator’s lives at any second.
+
+However, to give them credit, they were also very good at surviving. Granted, there were twelve of them, but still.
+
+The one in the lead was a very old man, judging by his hair color, but he retained some of his youth. He wasn’t hunched, on the contrary, his back was straight, and watched Mother with a sharp gaze.
+
+Despite the sudden development, he didn’t look the least bit distresse. Sure, he couldn’t expect a phoenix baby to disrupt the seal, but a man like him surely had other plans.
+
+I knew that.
+
+And if I knew that, Mother did too.
+
+Regretfully, there was little I could do in terms of helping Mother. Flight was impossible at the moment, using Qi was also impossible, and I doubted my attacks could do anything against them.
+
+However, twelve to one was really unfair.
+
+That insect Spirit Beast must have heard the commotion, why isn’t he helping?
+
+It was frustrating, being forced to watch and not being able to do anything.
+
+So stressing that I snacked even harder than before.
+
+I had full faith in Mother’s power. She was a Phoenix who was almost unscathed when sealed, what could they do against her at full power?
+
+It was a question that had an obvious answer.
+
+Mother’s entire body lit up with flames as she rose above them, and a wave of her wing sent large amounts of flames toward them.
+
+And by large, I mean large. That was enough fire to level a good area in the forest, and then some after all the trees burnt down. All of that flaming mass shooting toward the humans at rapid speeds.
+
+They waved their hands, and a barrier appeared moments before impact. It rippled as the fire hit it, then the flames surrounded the spherical defense, burning away at it.
+
+However, that was just a decoy. Once the fire surrounded them, Mother’s beak opened wide and a tiny spark appeared in front of her. It grew to the size of a rock in a matter of moments, and before I could blink, it ignited into a giant beam of fire.
+
+It was similar to the breath attack she used when I was born, except much, much more powerful.
+
+The fire pillar met the barrier, which shattered instantly upon contact. The surrounding flames got absorbed into it, becoming even stronger than before. All the cultivators scattered, some dodging teh beam by the breadth of their hair while others couldn’t manage.
+
+The hit didn’t outright killed them, but it broke their defenses, making them more vulnerable. The quasi cultivator was lucky enough to escape, but that awas also because he stood in the backline.
+
+What a coward.
+
+Then again, he wasn’t qualified to be next to those nascelt soul old monsters, yet he had no choice.
+
+Someone had to be cannon fodder.
+
+Though against Mother, they were all cannon fodder.
+
+She flapped her wings and disappeared, reappearing behind them with a trial of fire in tow. It looked like an evolveled version of Ember Step, seeing that she could use it mid air.
+
+Or could it have been a skill combination?
+
+Either way, it looked awesome, and the cultivators caught in its way definitely suffered.
+
+However, that wasn’t her attack, only the preparation,
+
+Mother then summoned a literal wave of flames, which she then threw at the twelve cultivators. Surrounded on all sides by fire, they had no choice but to try and break free of the encirclement.
+
+However, could it be that easy?
+
+They weaved a series of hand signs and summoned another barrier, but this one was far more resilient than the first one. The fire didn’t have any effect on it.
+
+But so what?
+
+Mother plummeted from the sky beak first, crashing into it with her massive body. The newly summoned barrier shattered just like the other one, leaving the cultivators vulnerable.
+
+She screeched and paralyzed them for a brief moment. That gave her enough time to create an array of swords made out of her beautiful flames, which shot toward the enemy as son as they appeared.
+
+The humans looked somewhat panicked upon seeing that attack, but the one in the lead took out a spherical object and crushed it.
+
+A blue barrier appeared before them, and steam rose from it as the fire swords crashed into it. That old man created a water barrier, of all things.
+
+It was true that water worked best against fire, however the prerequisite of that was that the fire would be weak and frail. With enough quantity and quality, even an ocean would bend to the will of the flames.
+
+Mother knew that, so she used even more fire to whittle away at the barrier. Large amounts of steam filled the air as the water barrier evaporated.
+
+Looking from below, I could see that the cultivators used that moment to disperse, each one flying in a different direction.
+
+In the blink of an eye, mother was surrounded, and they weaved a hand sign. A line connected them, creating a sort of formation diagram.
+
+The quasi cultivator seemed to be the leade for thisr, as he barked out something and the rest followed.
+
+The line connecting them thickened, and he weaed a series of complicated hang signs. So that was why he was fighting with them, he was the formation ‘expert’ I wanted to slap.
+
+He was a disgrace to every formation cultivator alive and dead.
+
+However, he did have some skill, as the diagram he created reduced the amount of flames Mother produced.
+
+A mere flame suppression formation?
+
+I thought that it was a little foolish. So what if Mother’s flames weren’t as effective, she was still stronger than them by a large amount. The only reason they were still alive was because they had the number’s advantage.
+
+They were aslo no doubt prepared to fight her, otherwise why would they bing so many cultivators and means to counter her attacks.
+
+Water barrier, sealing formation and flame suppression formation. All of those things were more or less meant to fight fire-based Spirit Beasts. In other words, Mother.
+
+She was the only one of such type around here as far as I knew, besides me of course.
+
+A forest wasn’t the best place to nurture a flame-type beast after all.
+
+Wait, then why did Mother lay her eggs here? This doesn’t add up.
+
+I’d never considered that before, but it was indeed a little strange.
+
+However I would get my answers after she finishes these humans off. Then we can feast on their corpses together.
+
+A scream from one of the cultivators awoke me from my thoughts. It was a man in his middle age. A bright orange feather was stuck to his mid-section, and if he weren’t a golden core expert, he would have died from such a blow.
+
+More importantly, that seemed to be one of Mother’s feathers.
+
+She can do that?
+
+I watched with a racing heart as she waved her wing, and each time she did a feather would shoot out of it like a dagger.
+
+Right, if her flames were being suppressed, just fucking stab them.
+
+Such a solution was simple, yet effective.
+
+The feather she’d just shot out was aimed at the Quasi Golden Core Cultivator Expert. However, it missed by a hair’s breadth.
+
+That was weird, how could Mother miss?
+
+Something was up with that man, how did he make mother miss? Was there something I couldn’t see?
+
+It was definitely possible, I wasn’t a powerhouse after all. My cultivation level could be considered to be that of a newbie with some experience. In the grand scheme of things, it didn’t amount to much.
+
+My level and stats were probably low as well.
+
+I could bet that their level was low as well, however they must be making up for it with their cultivation level.
+
+Too bad I didn’t know how levelling and things worked. It seemed weird to me that cultivators in the Foundation Establishment realm had such low levels, but I couldn’t know why without being given an explanation.
+
+Unfortunately, I never thought to ask.
+
+And just as I was beginning to fall into deep thoughts again, Mother’s screech made me focus my gaze.
+
+It sounded differently from her previous screech, and it sent shockwaves through the air instead of parayzying the enemy.
+
+The echoes alone made my head hurt, and the remaining weaklings began to scream and hold their heads in pain. The weaker ones’ heads exploded within moments, sending blood and gore everywhere, while the stronger ones simply bled from their ears, nose and mouths.
+
+Such a strong attack…
+
+Mother was simpyl too strong.
+
+And her attack didn’t stop there. Once the shockwaves destroyed the lines, her golden feathers caught on fire, melting into a orangey yellow flame that surrounded her body.
+
+In that moment, her feathers and flesh seemed to have disappeared, replaced instead by the purest forms of fire she could muster.
+
+The heavens lit up, the sky burning like a bonfire, and cracks began to appear. From those cracks came tiny sparks that floated down like snowflakes.
+
+One careless cultivator allowed the tiniest spark to land on his palm, and the moment the two touched, a huge explosion appeared.
+
+Dead!
+
+He died just like that, from a single touch of Mother’s attack!
+
+Next, her body started to grow, the flames expanding and keeping the loose shape of her figure. Once it towered over the forest, a sharp, aggressive and furious screech rang through the heavens and earth.

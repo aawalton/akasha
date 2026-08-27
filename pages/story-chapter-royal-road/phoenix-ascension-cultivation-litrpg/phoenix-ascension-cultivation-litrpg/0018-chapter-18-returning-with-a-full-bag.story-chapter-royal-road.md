@@ -1,0 +1,283 @@
+---
+id: 037fa049-291b-532f-aa47-a0523ecf31cd
+page-type-slug: story-chapter-royal-road
+title: "Chapter 18: Returning with a full bag"
+slug: 0018-chapter-18-returning-with-a-full-bag
+partOf: phoenix-ascension-cultivation-litrpg
+position: 18
+ownLength: 2564
+unit: words
+publishedAt: 2025-09-03
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2571064/chapter-18-returning-with-a-full-bag"
+royalRoadId: "2571064"
+---
+
+The few serpents that were left, the fancy looking one and the other two that looked somewhat like him, as well as a few guards, stared at me in shock. I hadn’t expected to meet a level twenty Spirit Beast, let alone kill him. His core, if it was still intact, would surely grant me a lot of Poison Resistance and XP.
+
+I turned to face then, my claws still burning with Nirvanic Flames. They jumped in place, fear coursing through their bodies. Before I could even take a step forward, the fancy looking one placed his head to the floor.
+
+“Oh Phoenix, please spare our worthlesss livesss. We promise to never bother you again.” As he spoke, the rest of them followed in kowtow. “We’ll even change our waysss… we promise. We will not use poison again…”
+
+Seeing them prostrate themselves like that made me feel a little bit of pity. I even considered letting them live, despite the fact that they would never change the way they were.
+
+Such were the laws of nature, one does not simply change their methods just because somebody else threatened them. In fact, they may do the opposite and double down.
+
+And that was only one of the reasons I hated poison users with so much passion.
+
+I made my way toward them, each step I took making them shudder. I used my Qi, not Spirit Beast Qi, but cultivator Qi— a Divine Sense of sorts— to analyze the serpent’s body.
+
+Most cultivators wouldn’t have been able to use Divine Sense while in the early stages of Qi Condensation, however I had greater reserves of Qi and even greater experience using it.
+
+And similarly, most cultivators wouldn’t fall into such an obvious trap. Would they really change their ways if I spared their lives? No. They would lay low, waiting for a chance to take revenge.
+
+I’ve had plenty of such encounters before, and my body, at least a phantom of it, still remembered them.
+
+I halted, frowning at the sight of half a dozen tails charged to the brim with Qi. Clearly they were preparing themselves to assault me the moment I got closer for an attack or anything else.
+
+Their kowtowing and begging was merely an act to fool me. I don’t know which was worse, that it would have worked were I just a simple Spirit Beast, or that they lacked a hint of sincerity?
+
+“I see how it is then.”
+
+I waved a few hand signs, splitting my Nirvanic Flames to attack each and everyone one of them while I jumped to dodge the first wave of poison attacks. I flapped my wings again to dodge the second wave and then used Phoenix Fire to propel myself toward the ground, dodging the third wave.
+
+At the same time I hit the ground, I sent a combination of both fires outward, scorching the vegetation.
+
+[You have slain [Jade Serpent Lord] Lvl 15]
+
+[You have slain [Jade Serpent Prince] Lvl 6]
+
+[You have slain [Jade Serpent Princess] Lvl 7]
+
+[You have slain [Jade Serpent Guard Lvl. 13] x 2
+
+[You have slain [Jade Serpent Guard Lvl. 15]
+
+[XP Acquired] x 6
+
+[You have Leveled Up]
+
+[Phoenix Chick Lvl 7 has become Phoenix Chick lvl 8.]
+
+[Skill Points Acquired]
+
+[Achievement: Tiny Lord Slayer - Unlocked]
+
+After taking care of them, I turned my attention toward the nest. There were still plenty of eggs, hatchlings and newborns down there, not to mention those that managed to escape.
+
+However, they were all small fry. More importantly, after such a long fight, I had to recover my strength.
+
+[That was unexpected.]
+
+What was?
+
+I hadn’t expected System to start chatting all of a sudden. I didn’t mind, as having a conversation partner wasn’t that bad. After picking a cooler spot to sit down, under the shade of a tree, I opened the system messages again.
+
+[I didn’t expect you to hate poison to this degree.]
+
+Hah, I chuckled coldly, remembering a certain Teng clan that refused to die.
+
+They’re all worthless, greedy, good for nothing cowards.
+
+[I wonder what triggered such an opinion. Must be something to do with your past life.]
+
+Past life… it never mentioned that before. But I guess it wouldn’t be hard to deduce what had happened.
+
+“I couldn’t tell ya either.” I chirped out loud, preening my feathers. “I guess the hate for poison is ingrained in my soul.”
+
+[It must be. By the way, they had something that might be of interest to you in the nest.]
+
+“Huh? Oh— Thanks, I guess.” I found the way System gave me advice to be very foreign. It talked in a more automated manner before, now it seemed almost… sentient. Sapient? Whatever the word was.
+
+I rested half an hour more, then got up and walked toward the hole I’d started to dig. The view inside was quite luxurious from a Spirit Beast point of view, and now that most of the serpents had fled, whatever barrier they had up weakened.
+
+After digging up a hole big enough for me to fit in, despite my fluffed up body, I jumped right on top of the barrier, crushing it with a good swipe of Iron Claws. Finding myself amongst a scorched serpent nest wasn’t on my bucket list, but System said they had something that interested me.
+
+Besides rat corpses and skeletons, I couldn’t see anything else. At least, not with my eyes.
+
+Activating my Divine Sense gave me a better view of the surroundings, though it was far from perfect due to my low cultivation level. The Nirvanic Flames gave me a better map than what I had right now.
+
+Despite that, I’d gotten enough information to figure out where the thing System talked about was. Down a hall in a small room, there were things other than rocks and animal remains, and that's exactly where I headed to.
+
+I couldn’t fit through their tunnels, of course, but making new doors was a piece of cake. In no time at all, I reached the room, and my eyes widened.
+
+Shiny…
+
+Gems of all shapes and sizes stood in a pile in the corner of the room. Red, blue, yellow, pink, they all sparkled with the intensity of a diamond.
+
+I never thought I’d find myself interested in shiny stones, but there I was, staring at them like a fool.
+
+Mother would like them for sure… our nest does need a bit of decoration. The dry yellow and dry green get a little boring.
+
+Once I’d had my fill of staring at the gems, I noticed a small bag laying nearby. It was more of a satchel than a bag, and it had a string to tie to one’s waist, or to open and close it. Either way, I made my way over to it and picked it up.
+
+“Now what’s this thing?” I murmured out loud, hoping that System would say something, but it remained silent.
+
+With a sigh, I placed it within my left talon and sent a wave of Divine Sense over it.
+
+This—
+
+No way…
+
+A storage bag?
+
+I couldn’t believe I’d found a storage bag in the nest of snakes, of all things.
+
+How did they get their slithery hands on this?
+
+It didn’t look like any storage bag I’d seen before, but upon probing it with my Divine Sense, it did indeed have a small amount of space. There was no mark on it or anything, neither spiritual nor physical. I could only assume it belonged to a poor cultivator who found himself or herself walking into a bunch of poisonous sons of bitches.
+
+Well, it worked out for me. I was worried about doing so many back and forths to collect all the cores. Now I could just place them all inside. I’m sure Mother would be happy… though she could wonder how I’d found it.
+
+I wouldn’t shy away from telling Mother I killed a bunch of bastards, but as to how I could open a storage bag…
+
+Could Spirit Beasts even open storage bags before? I don’t think we should be able to at my level…
+
+From what I could remember, in order to open a storage bag you had to have a cultivation base, not a strong body. Spirit Beasts could not use Qi outside of their bodies unless it was through a bloodline technique.
+
+Then, how could I use it and hide the fact that I have both types of cultivation from Mother? What a pain…
+
+I would have to figure it out later. For now, let’s grab all these shiny stones!
+
+***
+
+Figuring out how the bag worked wasn’t difficult, and I also grabbed a few papers and clothes they had lying about. Probably stolen from all the people they’ve killed. I couldn’t say I cared, as it was a dog eat dog world after all, but dying from these things must have been infuriating.
+
+After climbing back up, I made my way to the Jaded Jade Serpent and extracted its core. There was no way such a strong monster didn’t have a core. It looked similar to the other one I extracted from the first one I killed, just much duller and somewhat bigger.
+
+It had a few strange purple runes etched onto its surface, though I couldn’t read them at all.
+
+Do the cores have any ties to their strength? Surely. So then these runes must be what signifies their strength. Wait… this one was level twenty, does that mean it was evolved?
+
+System spoke about evolution when I first gained consciousness, but I had no idea what it meant. I had to ask later, since it said it’s available at level ten.
+
+Evolution…
+
+My heart tingled as I thought about it. I wonder what that entailed.
+
+Then again, I couldn’t tell if Spirit Beasts relied solely on levels or if they had actual cultivation stages in this world. But since levels seemed to be tied to strength, and judging by the fact I didn’t have a Spirit Beast cultivation stage, it was safe to assume that was the case.
+
+Then, did humans have both?
+
+I shoved those questions aside for the moment and placed the core within the storage bag, then I did the same with the rest of the corpses. Using my claws to dig through them had become second nature, and I almost didn’t miss my hands. Almost.
+
+For my total haul, only about a third of the guards had any cores, but the lord and his children each had one core. That surprised me, considering the fact they were so low level, but then again, the first one I killed also had a core.
+
+The Lord’s core was different from the rest. It was purple with a deep, dark tinge of red, with at least twice the amount of runes compared to the one from the Jaded Jade Serpent.
+
+I think System said something about that first one being a prince? Is that why it had a core at level 3? Interesting.
+
+After I got done collecting that, I focused on the dormant Nirvanic Flames I left inside and outside the nest, waking them to life. A string of notifications about me killing small fry flashed in my vision, but I ignored them.
+
+With the map of the entrances and exits in mind, I dashed toward the nearest one, finding a pair of serpents cowering inside a bush.
+
+Swipe, swipe.
+
+I took care of them, but neither had a core. I moved toward the next nearby entrance, scanned the area for runaway serpents, killed them if there were any, then moved on to the next.
+
+Repeating that a few dozen times, I found myself dirty with serpent blood. After cleaning myself with Phoenix Fire, I decided it would be a good idea to stop the Nirvanic Flames, even if they were dormant and didn’t use a lot of Qi.
+
+I got a few other notifications informing me some other poor bastards died from looking at my Nirvanic Flames for too long, and brushed it aside. I took a deep breath afterwards, and patted myself on the shoulder for a job well done.
+
+[Achievement: Species Destroyer - Unlocked]
+
+And it seemed I wasn’t the only one giving myself praise. For once the name of the achievement caught my eye, and I was really curious to know what it was about.
+
+“Achievements.” I chirped out loud, and the familiar screen appeared before me.
+
+Achievements
+
+[First Blood (Rewards Claimed)]
+
+[I found it on the ground! (Rewards Claimed)
+
+[I am a Spirit Beast! (Rewards Claimed)
+
+[De-Evolve (Rewards Unclaimed)]
+
+[Tiny Lord Slayer (Rewards Unclaimed)]
+
+[Species Destroyer (Rewards Unclaimed)]
+
+Claim achievements! Wait, before that, show me the details for the last one!
+
+[Achievement: Species Destroyer]
+
+[Kill enough of a species to drive it to extinction. Extinction means less than 0.5% of their total population remaining alive.]
+
+Huh, I hadn’t expected such a detailed and specific number, but I wasn’t one to complain.
+
+Alright, now claim!
+
+[Achievement: De-Evolve has been claimed.]
+
+[+100 Qi; +4 Strength]
+
+[Achievement: Tiny Lord Slayer has been claimed.]
+
+[+100 Qi; +5 Strength; +4 Intelligence]
+
+[Achievement: Species Destroyer has been claimed.]
+
+[+200 Qi; +2 Strength; +2 Dexterity; +2 Perception; +2 Charisma; +2 Intelligence]
+
+A sudden surge of power coursed through my body the moment I claimed those three achievements, and the world around me became clearer. At a glance, nothing changed, but if I stared at a blade of grass long enough I could see it from super up close.
+
+As far as I knew, such a thing should only be possible in the latter stages of Qi Condensation, yet here I stood at only the third stage. My dantian also had a moderate amount of Qi increased, the lake inside filling up little by little.
+
+System is amazing…
+
+[Why thank you. ^_^]
+
+Ignoring that, I really wanted to check out my profile. It’s been a long time since I've done it and I feel like the numbers will be amazing at the very least.
+
+“Profile.”
+
+Details
+
+[Name: Fa Xiaolan]
+
+[Race: Phoenix]
+
+[Class: Phoenix Chick]
+
+[Level: 8]
+
+[Hit Points: 1033]
+
+[Equipped Titles: None]
+
+[Bloodlines: Phoenix]
+
+[Cultivation: Qi Condensation III]
+
+[Qi: 1325]
+
+Stats
+
+[Strength: 92]
+
+[Dexterity: 66]
+
+[Perception: 87]
+
+[Charisma: 102]
+
+[Intelligence: 97]
+
+[Skill Points: 20]
+
+Sweet Buddha! Twenty whole skillpoints, and those stats, they’re almost in the hundreds? We’ll just ignore charisma for now… Is that normal? I really have to ask Mother about it! No wonder my attacks were so strong… I wonder how much that evolved Jaded Jade Serpent had.
+
+After gloating about my stats, I took a look at all the cores and shinies I gathered.
+
+One Jaded Jade Serpent Core, unusual but somewhat interesting. I didn’t dare absorb it yet, not without Mother checking it out first.
+
+One Jade Serpent Lord Core, very pretty and edible looking, even though I knew it was poisonous.
+
+Thirteen regular cores, all of which reminded me of that bastard of a prince.
+
+Storing them away to safety in the bag, I threw it around my neck and made my way toward the nest. I’d been out so long that the sun had already risen.
+
+All in all, I gained a lot of levels and skill points, and I would need to sort everything out once I got home.
+
+Where… was home, exactly?

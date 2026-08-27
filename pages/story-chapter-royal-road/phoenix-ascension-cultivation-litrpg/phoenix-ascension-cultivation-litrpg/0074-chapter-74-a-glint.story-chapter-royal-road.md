@@ -1,0 +1,205 @@
+---
+id: d7e030f2-9d7e-5ad6-a418-6351a0ef31af
+page-type-slug: story-chapter-royal-road
+title: "Chapter 74: A glint"
+slug: 0074-chapter-74-a-glint
+partOf: phoenix-ascension-cultivation-litrpg
+position: 74
+ownLength: 2770
+unit: words
+publishedAt: 2026-01-12
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2937317/chapter-74-a-glint"
+royalRoadId: "2937317"
+---
+
+Yo Na looked different but similar to the human form I decided to take. She was almost the spitting image of me, except for the fact that her hair was blacker than black, her eyes were green with a cat-luke pupil, and her chest was significantly smaller than mine.
+
+Not that that was anything to be proud of, obviously. I must have decided on such features unconsciously due to my previous life’s memories, but that didn’t mean I liked it! Well, I did, but that’s besides the point.
+
+Back to the subject at hand, Yo Na looked nice, and her hair was incredibly long. It was so long it almost touched the floor, which was a significant difference to me. However, the facial structure was eerily similar.
+
+“I didn’t know you liked me that much.” I quipped, and she flustered. Yo Na’s mouth opened, as if to say something, but instead of words, meows came out of her lips.
+
+“Me-meow, meow, meow!”
+
+I could barely hold in my laughter, but I managed.
+
+“Meow, meow meow! Meow…?”
+
+She seemed about as confused as I was, but talking as a Spirit Beast and talking as a human were two completely different things. Even though we understood each other, the human tongue was different from the animal tongue. Certain sounds and lip movements could only be made by humans.
+
+Hence why Yo Na was meowing instead of saying what she wanted to say.
+
+“Calm down, you’ll get the hang of it.”
+
+Perfect Disguise was indeed a powerful skill. What this skill could give was a quasi-human transformation, or any transformation, for that matter. Although it was imperfect and could be seen through by stronger beings.
+
+That mattered little in this backward place, I hoped, since there weren’t many people who were strong and had high perception. Of course, if someone just so happened to have a high perception stat, then there could be some trouble. But what were the odds of that?
+
+Anyway, there was one issue Yo Na had, besides not being able to talk, and that was the fact that she was naked. Thankfully, the skill did not actually turn us into humans, but the feelings we had were very similar. I did find that cold and hot were not a direct translation, as I had feathers and a naturally hot body, while Yo Na had thick fur, so the cold couldn’t get to us.
+
+But that didn’t change the fact that she was naked.
+
+“Don’t you have some clothes stashed in your treasury?”
+
+Upon hearing my question, her head instinctively turned toward the direction of her pile of treasures, and she headed toward it. I followed after, once again trying not to laugh at the sight of a woman crawling naked on all fours on the ground.
+
+She leapt like she would in her normal form, and while that worked fine, it looked hilarious.
+
+However, it didn’t take long for her to find some clothes that weren’t ripped and had no blood stains on them. It was very obviously a man’s hanfu, but she didn’t really care. I watched for a few minutes as she tried to put them on, failing, then looking at me with her eyes big and invisible ears drooped.
+
+“Me… meow?””
+
+I shook my head and helped her put on the clothes, though we wouldn’t need them for the moment. I was curious to see how she looked in them, though, so I humored her.
+
+After putting it on, it fit surprisingly nicely. They weren’t too tight or too loose, and their dark color somehow blended in well with her overall appearance. She almost looked like an assassin, though given her silent nature, she wouldn’t be far from one.
+
+“Alright, I think that’s enough fooling around. I want to evolve, and I’d just gotten a pretty nice evolution. I don’t know how long it will last, though… System?”
+
+[Depending on the chosen evolution, it could take anywhere from a few hours to a few days.]
+
+Figured…
+
+I didn’t know if that would be an issue. The appraiser would come in one day or so, and the auction would take time in two days. It only lasted for one week, but with all the excess money I would have, I wanted to see if there was something useful to me.
+
+Not to mention I still had to take care of that Shu boy’s poisoning… That fool, why did he have to go and use an unknown pill from a total stranger?!
+
+Well, since it does last for a week, even if it took me days to evolve, I could still participate, right?
+
+Thinking that, I made up my mind, and what better guardian to aid me than a level forty cat? She almost doubled my levels… no wonder she was strong. I wonder what sort of cultivation base would be required to fill that gap.
+
+Putting those thoughts aside, I looked at Yo Na with a big smile on my human face.
+
+“Meow…?”
+
+“It’s time for me to become an Heir.”
+
+***
+
+Where is she…? Xing Ya Chen thought as he walked toward the branch manager’s office. In his bag of holding were the five pills that Fa Xiaolan had given him, placed neatly inside a jade bottle for better preservation.
+
+He’d expected her to show up earlier, but two days had passed since, and there was no sign of her.
+
+Now, the appraiser from Golden Arch City appeared— Alchemist Hao— accompanied by one of the most powerful men around, Meng Mao. Why had Meng Mao agreed to be the alchemists’ bodyguard? Xing Ya Chen could only guess.
+
+Either way, he was terrified of meeting the man, as his reputation was less than benevolent. At the same time, he had no choice.
+
+Knocking on the door, he pushed it open. It felt heavier than it had any right to, and that was not because of its weight.
+
+He entered with his head lowered, his hands together, and advanced slowly.
+
+“Raise your head, Xing Ya Chen.” The branch manager said, smiling courteously and introducing the youngster. “This one here has the best reputation with the alchemist and has been given the responsibility to hold on to her pills. Would you bring them out?”
+
+Xing Ya Chen gulped, nodded, and tried not to look at Meng Mao. Instead, as he slapped his bag of holding, he glanced at the old man who would be receiving them.
+
+An elder who knows how many decades or centuries old, with a shaved head and long white beard. He was wearing a white hanfu, and there was a symbol of a pill on his chest. That symbol wasn’t the same one as the Reverend Pill Sect. No, the symbol the old man was wearing belonged to one of the most prestigious organisations on the entire Tianxu Continent— The Alchemist Organisation.
+
+A simple name that has as much, if not more, power than the patriarch of the Reverend Pill Sect. In their eyes, that sect was nothing but a phony imitiation who was not even qualified to luster their boots.
+
+And that old man belonged to that organisation. Of a lower branch, sure, but belonged to them nonetheless.
+
+“Show me what you have got here.” He said amiably, though there was a hint of annoyance in his voice. He was a busy man after all, and having to take a trip to such a backwater place for some low-tier pills bothered him to no end.
+
+He could be refining pills or perfecting recipes, but instead, he had to assess some worthless junk from an unknown alchemist.
+
+If they were as good as this branch manager said, why had he not heard of them? Just that fact alone was enough to rate the pills as worthless in his eyes.
+
+Xing Ya Chen respectfully handed over the jade bottle with the five precious pills and, unfortunately, caught a glimpse of Meng Mao on his way back to his spot.
+
+The man he feared— and for good reason— was a hulking six-foot-five-inch man with short black hair and a short trimmed beard. He had eyes as black as the abyss, and the single glance he caught in them made Xing Ya Chen shudder.
+
+It felt like he looked straight into the maw of a hungry bear.
+
+Even though he immediately averted his gaze, it had been too late. Thankfully, Meng Mao wouldn’t care for small characters such as himself, so he would be safe. The last thing he wanted was to garner the wrath of a Peak Core Formation expert.
+
+He let out an internal sigh and glanced at the alchemist.
+
+The old man held the bottle up to his eyes, trying to see something that Xing Ya Chen wasn’t aware of, and after a while, squinted, then frowned. He had not even opened the bottle yet and was frowning already.
+
+Xing Ya Chen would have gotten angry had Meng Mao not been there, or maybe not, considering he didn’t want to offend the branch manager or the alchemist. But what right had he to frown at Miss Fa Xiaolan’s pills?
+
+Once he opens the bottle, he’ll see her greatness. Xing Ya Chen thought and waited for that moment.
+
+He didn’t have to wait long, as not even thirty seconds later, the cork was released, and an intense medical fragrance filled the room.
+
+The branch manager’s smile widened, while the alchemist’s frown lessened a little.
+
+After taking a deep whiff of the air, his expression turned to slight shock, and he hurriedly took out one of the pills, coating his hand with Qi at the same time. If he somehow ruined the pill thanks to his dirty hands, not only Xing Ya Chen, but even the branch manager would get angry.
+
+The old man pulled the pill close to his nose, smelt it, then slapped his bag of holding and took out a small,  yet sharp-looking glass knife.
+
+Bringing it to the pill, he shaved off the most insignificant of outer layers and placed the pill back into the jade bottle. After sealing it with a wave of his hand, he took out an item that Xing Ya Chen was familiar with.
+
+It was called an ‘Appraiser’, a device shaped as two small rocks slapped together with a flat disk on top. It looked simple, but the amount of runes inscribed on every inch of the device was enough to turn a refiner master mad.
+
+It was an incredibly valuable object that only master alchemists had. It was used to detect the amount of impurities in a given pill, and it worked with shavings as well, if the pill was deemed precious enough.
+
+Clearly, Alchemist Hao had deemed it so; he would have wasted a perfectly good pill.
+
+So you have eyes and can see Mt. Tai, good, good, good. Xing Ya Chen thought as he imagined the expression the old man would make upon inspecting it further.  Despite that, Xing Ya Chen looked down at the alchemists who relied on a device to tell the quality of a pill. If they could not measure it with their knowledge, what good were they? Alchemist Organisation or not, in Xing Ya Chen’s eyes, that old man was just a phony.
+
+The alchemist dropped the shavings onto the appraiser after placing it on the table, and sent a trace of Qi into it. When the device lit up, countless swirls of Qi slithered out of it and pecked at the shavings, making them disappear grain by grain until there was nothing left except one tiny, black, and worthless piece.
+
+Upon seeing that, the alchemist’s face fell, then lit up, and finally his breathing began to race as he jumped to his feet, holding the jade bottle as if it were the most precious thing in the entire universe.
+
+Meng Mao’s pupils shrank slightly, but that was as much of a reaction as he would show.
+
+“Alchemist Hao, what is it?” The branch manager asked quite happily upon seeing the man’s reaction.
+
+“This…” Alchemist Hao realised that his reaction was too much for his status, so he quietly sat down and cleared his throat. “These are a set of very good pills. From my inspection and the appraiser’s tests, I concluded that the impurities left from refining were less than two percent.”
+
+Less than two percent?! That means…
+
+“However, as much as I would have liked to call them top-grade, I cannot. At most, they are peak middle-grade tier pills. As we all know, top-grade pills could scarcely be created by human hands, and even the heavens oppose them. If such a pill were to exist, then…” He didn’t continue his sentence, as everyone present knew what a top-grade pill meant.
+
+Only a few were refined, and even fewer existed to be sold and consumed. Such pills would not even be sold, and may even be kept as heirlooms.
+
+And if a pill exceeded the top-grade status— A pill that had absolutely no trace of impurities— then it would become a Heavenly Pill… and it was not worth mentioning them, as they truly didn’t exist.
+
+Xing Ya Chen’s breathing quickened as he realised that he had been holding something that many sects and even more immortals coveted.
+
+Peak Middle Grade Meridian Awakening Pills.
+
+Pills so valuable his lifetime salary would not be enough to cover one of them, let alone five.
+
+And the old man used a shaving to test them on his device?! What an alchemist, good for nothing!
+
+He was angry both because the old man used the device and because he shaved off a layer from the pill. Of course, Miss Fa Xiaolan’s pills were the best of the best; how dared the old man think otherwise? Now that the sole pill would be worse than the rest of them, meaning it would have to be sold separately at a lower price.
+
+Damn you! Xing Ya Chen glared, but quickly turned his look after the old man noticed his animosity.
+
+“Alchemist Hao, you mean to say…”
+
+“Yes, the prices of these pills would be… At least twenty top-grade spirit stones. Each.”
+
+“Each?”
+
+He nodded seriously. “Each.” Then, his demeanor changed slightly, and he avoided the branch manager’s gaze. “Except for the one I tested, but… I am willing to buy it for the market price. I will pay the twenty top-grade spirit stones for it.”
+
+The old branch manager considered it for a moment before slowly shaking his head. “It may go for more at the auction, I don’t want to risk losing money, especially not her money.”
+
+“Her money?” The alchemist asked. “The one who refined these pills is a woman?”
+
+“Yes… is there a problem with that?”
+
+“No, of course not.” He shook his head. “But if they were anybody famous, I’m just trying to narrow down the list. There aren’t many alchemists who could refine such high-quality pills around here.”
+
+The branch manager sighed. “If she were famous, believe me, I’d know. Truth is, she appeared out of nowhere and did an interesting transaction, then stuck around. I have sent someone to follow her, but they couldn’t. She shook them off their feet as soon as she left the village.”
+
+“Is that so? Interesting…” Alchemist Hao said, glancing at Meng Mao. The man immediately took the hint and addressed the branch manager.
+
+“If you don’t mind me asking, what was the interesting transaction you are talking about?”
+
+“That-” Sweat began dripping down his forehead upon hearing that question. That was sensitive information he could not simply give out to just anyone. “I’m afraid I cannot say.”
+
+Meng Mao smiled upon hearing that, the curl sending shivers down Xing Ya Chen’s spine. “Is that so? Was it not a Phoenix Feather?”
+
+The branch manager gasped, and Xing Ya Chen’s heart skipped a beat.
+
+That was the exact reason Meng Mao was terrifying. Not only because of his strength and standing, but also because of his social power and information network. He’d found out confidential information and played with someone as powerful as the branch manager, taking him for a fool.
+
+Alchemist Hao was shaken as well, and Xing Ya Chen could tell that he was perturbed. What was a Phoenix Feather after all, if not one of the most precious refining and crafting materials in existence?
+
+The branch manager didn’t respond, but silence was enough of an answer.
+
+“I am very interested in meeting this… alchemist.” A glint shone in Meng Mao’s abyss-like eyes, a glint that Xing Ya Chen knew could only spell trouble.

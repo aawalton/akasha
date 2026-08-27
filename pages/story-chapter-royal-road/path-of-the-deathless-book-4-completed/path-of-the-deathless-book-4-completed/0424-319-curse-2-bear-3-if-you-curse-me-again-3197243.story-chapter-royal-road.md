@@ -1,0 +1,249 @@
+---
+id: 22c83673-e27d-546a-bfbe-855590a0561f
+page-type-slug: story-chapter-royal-road
+title: "319 Curse 2 Bear 3: If You Curse Me Again"
+slug: 0424-319-curse-2-bear-3-if-you-curse-me-again-3197243
+partOf: path-of-the-deathless-book-4-completed
+position: 424
+ownLength: 6077
+unit: words
+publishedAt: 2026-03-26
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3197243/319-curse-2-bear-3-if-you-curse-me-again"
+royalRoadId: "3197243"
+---
+
+Chains of Metatension
+
+A binding item manufactured by Fae Smiths using a Skill of the same name. It can be created using any kind of material, so long as it is capable of restraining someone. The strength of the materials is then substituted by narrative tension. The chain's durability and tensile strength is inverse to how much tension is present. This effectively means that the chains are all but inescapable during periods of low tension.
+
+However, should the bound subject induce a state of heightened drama or a climax to the building tension, the chains will weaken and loosen substantially, giving the restrained individual a chance to break free or slip out. The strength of the chains drops dramatically depending on how intense the relief felt by the System is. (Pending specific measurements; insufficient data acquired by expeditionary forces)
+
+Even so, it is better to slip out than try to break free if your Physicality and Toughness are Sub-Hero.
+
+Should you gain this Skill, know that boredom is the best strategy to utilize it to its fullest potential. Tie your adversary up and leave them isolated while avoiding any dialogue between the restrained and others, including yourself. This ensures their continued bondage until the time you decide on their release.
+
+—Skills of the Fairest (Unfinished encyclopedia about the Fairwoods, started by Hero-Ranger Morgan Munny)
+
+319Curse 2 Bear 3: If You Curse Me Again
+
+Shiv’s shackles sang with joyous, jingling notes as they pulled hard on all his limbs.
+
+A cruel smile crept across Harkness' face as she anticipated a summary mutilation.
+
+What followed was a shattering.
+
+The Non-Sequitur Skill went off like a bomb inside Shiv, and a spike of tension speared into him from all angles. With that, his bindings weakened. The chains screamed and snapped like the shitty, rusted strings they were. Instead of his body being torn apart as he'd anticipated, it was the metal that gave way with ease. Shiv barely even felt a tug before they all broke. And with that, he fell headfirst against the ground, cracking the ice with his orichalcum skull.
+
+Absolute silence gripped the throne room. Shiv shrugged off the remaining chains and shot back to his feet. The Winter Court stared on, speechless, much like their flabbergasted queen. Harkness took it the worst of all. One moment, she was like a butcher anticipating a happy bit of bloodletting; the next, her mouth went from a monstrous sneer to a perfect “o.”
+
+Something told Shiv she hadn't seen this coming. “Hey, Harkness, I don't know how much you spent on those chains, but you should definitely request a refund.”
+
+“No, no, that doesn't make any sense… This is impossible. Enough narrative tension should have been retained to pull even a Hero apart…” Harkness’ incandescent irises narrowed to pinpricks. “How did they just… snap?”
+
+Somewhat amusing, watching her flail. Thinking that she reigns supreme—that she could have even dreamed of claiming that throne if not for my unrivalled boredom…
+
+Shiv ignored the strange whispers passing through his subconscious and committed to fucking with Harkness. “Yeah? Well, that’s clearly bullshit, because my Toughness is only Master-Tier. Those chains were just shit, Eileen. Should’ve done an inventory check.”
+
+His eyes ignited with Enkindled Flames, and he casually spewed a gush of hate straight into Harkness’ emotional core. She responded by throwing up a hand. Shiv sensed that familiar barrier materialize around her—its oscillating distortions capable of keeping even the Composer’s melody from striking her down. But Shiv wasn’t using a magical skill—it just looked that way on the surface—and he exploited that for all it was worth. Where once the misted sphere within Harkness’ chest swirled with confusion, it now combusted with fury. And to keep the deception going, he committed to the moment, playing with the confusion.
+
+“Ah, shit, why didn’t my Psycho-Pyromancy do anything?”
+
+Sage of the Enkindled Heart 166 > 167
+
+Gardener of Doubt 73 > 75
+
+“Fool!” Harkness scoffed. She whipped her shortsword high in the air in an arc, and a billowing wave of cold washed over Shiv. The mists condensed around Harkness, forming a flowing cape in her wake. All winter capitulated to her power, and within the building atmosphere of despair, an aching cold gathered at her back as the lunar glow above fueled the miniature moon hovering above her crown. “You couldn't have scratched me even before I took on the mantle of Queen. And breaking free of those chains was your misfortune. I would have plucked your limbs free from your body and watched you suffer; I would have kept you alive and restrained—but left your mind intact. Now I will have to bleed you personally, and after that, I will make powder of your ego.”
+
+Uva's Psychomancy strands wove even tighter around Shiv's mind, but he wasn't nearly as worried. Harkness was very powerful, but she wasn't a Legendary-Tier Psychomancer. She probably had more narrative skills hidden up her ass, but the former Owl getting surprised by the broken chains revealed something to Shiv: Harkness was not omnipotent, not even as the Usurper Queen of the Winter Court, and her comprehension of the rules the Fae and their Skills operated on was limited.
+
+Time to keep baiting her down the path of stupidity. Shiv stifled his grin. Harkness might technically be Legendary as well with her Parry Evolution, but she most definitely hadn’t performed her Delve yet, which meant she hadn't gotten the chance to fine-tune her skill like Shiv. That, and her amateurish arrogance and cruelty, made her far too predictable for someone who'd spent a good part of the last few months training against the orcs.
+
+Shiv yawned dramatically. “One thing I don’t miss is you permanently flapping those fat and ugly lips of yours to produce the same boasts and threats I could hear at the nearest bar just as well.”
+
+Harkness stiffened—and her right cheek turned to glass at the taunt. The hundreds of Winter Court Fae observing the scene let out a synchronized gasp. Their collective outrage and horror at his words infused Shiv with new inspiration. He began playing to the crowd, using them to incense Harkness’ anger and frustration. Her psychological fracture was obvious: pride was an easy hemorrhoid to pop, and he was going to burst the blood bubbles lining her ass-veins as roughly as he could. That would keep her off-balance—and hide the fact that Adam was currently in the process of turning to water.
+
+Looking around to regard the Fae, Shiv pointed at their Queen. “Let me tell you all something about Eileen here: she and I have history. Ugly history. She killed me a couple of times. I mean, she absolutely beat the shit out of me and put me down like a bad habit. But the thing is, right, I come back. I don't stay dead. And she got so distracted playing with me that she failed her actual mission—embarrassed her nation, her people, herself. Then pretended that was her plan to begin with.”
+
+“Oh, be silent, dog.” Harkness rolled down the dais with her blade raised high.
+
+Shiv's strategy was already working. Defense was nowhere near her mind. She was fully committed to making them suffer using that little toothpick in her hands. Unfortunately, her Legendary Skill was purely a defensive one. At least, that's what Shiv recalled, and now she was walking into a trap she didn’t see coming. A mistake that might just be her last.
+
+Shiv continued stomping down on her fragile ego. “You know, Eileen, I think any other Owl would've succeeded at Passage. Any other Owl but you. Maybe they wouldn't have been so good with a sword; maybe their Psychomancy would be weaker; maybe they wouldn't have dressed as nicely as you did. But they would have still succeeded, because unlike you, proper Aviary agents don't take their eyes off the prize. You call me mastiff. Well, I think I'm gonna give you a nickname too. How about Leech? Because you’re so desperate to suckle on my blood that you let everything else go.”
+
+Harkness’ left arm went transparent and brittle. She tried to hide how much she was seething, but failed. Shiv offered her a taunting smile and held out his arms. Sticks and Stones leveled thrice. At the same moment, the Usurper Queen exploded across the court with her shortsword aimed to pierce the Deathless’ heart.
+
+Sticks and Stones 93 > 96
+
+She vanished for an instant before emerging with a burst of cold wind at her back. Her Reflexes now seemed to be Low Heroic. Quite a bit of growth in a short period of time. But the way she moved paled in comparison to her overwhelmingness in Shiv’s memories. He couldn't keep track of her at all then. Even his Momentum Core Skill Evolution barely let him match her for a few seconds when it was topped out. Now, she was quick, but Shiv had fought and killed Pathbearers much quicker.
+
+And compared to Jessica, Harkness telegraphed her strike like a blind idiot toddler with a nerve disorder.
+
+Shiv didn’t even bother dodging. He called his Last Morsel to hand and parried her stab dead on. Her frozen blade greeted his Legendary pan in a thunderous clash that fissured the ground at their feet and sent shockwaves through the air that threw most of the Fae off their feet. The tip of her frozen blade snapped like the brittle needle it was. Shiv saw Harkness’ eyes widen in disbelief. But he wasn’t done. The timing of his parry had been perfect. Return to Sender was a wonderful counter against spells and projectiles, but Shiv was more than happy to get more chances to test it in close quarters.
+
+He pushed a rush of overflow vectors against her strike, and the force of her blow inverted immediately—dislocating her shoulder in the process. Before the snap even had a chance to echo, Shiv lashed out with his free hand and seized her by the head. Her still brittle cheek broke apart. Blood gushed out between Shiv's fingers as he lifted her up.
+
+Usurper Queen though she might be, Shiv was a head shy of an average orc at present, while the former Aviary operative hadn't grown since their last encounter, where she'd only been a bit taller than he. Her weight was a feather, and he slammed her down against the ground like he was flinging a pebble. Harkness’s bones broke so beautifully. She was probably still Master-Tier in terms of her Toughness, with her current royal regalia the only thing sparing her from being splattered. The frost that was building out from behind her in the form of a cape rushed back into her body, forming pale, bright armor of divine plate. That did nothing to stop her ribs from snapping inward.
+
+An explosion of ice magic detonated out from Harkness. Shiv Phase-Framed through the attack and stomped down, cracking her sternum in half and driving the mess of bone that had once been her ribs through the supple organs they were meant to guard. She tried to shape a spell with her free hand. Shiv obliterated the entire limb with a backswing before her mana field could gather. At the same time, the bladed rim of his Last Morsel carved a deep scar through Harkness’s fields.
+
+A roar of pain escaped Harkness. It turned to a gasping choke as the Deathless plunged knee-first down on her already brutalized torso. His Shapeless Tide speared him downward like a stake driven into soil. The impact sent brutal tremors through the throne room, causing the ground to fracture and pillars to crumble and fall amidst scurrying Fae. A geyser of vomit and blood erupted from Harkness' mouth. The same blood was used to paint the ice-bright floors as Shiv battered her face with his Last Morsel. The edges of his pan came close to separating her neck and body, but the divine mana bestowed upon her flared to full brilliance as every bit of Cryomancy within the entire throne room, and perhaps the castle beyond, was projected in an outward-facing beam.
+
+Shiv Phase-Framed through the attack once more.
+
+Phase Frame 88 > 90
+
+Harkness teleported the same moment Shiv blinked back into existence. The flood of divine ice she channeled left a massive chasm in the ceiling of the throne room, and more moonlight came spilling in. And it was into the moonlight that Harkness fled. She staggered toward the throne and collapsed upon her seat as the lunar glow restored the parts of her that had been destroyed. The faintest tendril of fear crept out from her and connected to Shiv. Her face had changed. No more arrogance, no more anticipatory cruelty. Just wide, disbelieving eyes and a mouth pressed so tightly together that her lips had gone pale and bloodless.
+
+Comparatively, Shiv was having the time of his life. “You know, getting knocked out and brought to your throne room might've been a blessing in disguise. Saved me the trouble of flying up here. Also, I gotta say that I appreciate the irony. Last time, divine intervention saved my ass. This time, the only reason why you're not an ugly smear beneath my palm is that armor you're wearing. Power that isn't even yours. You gotta tell me how you got that Divinity, because with how you are…” Shiv shook his head. “Well, I just don't see how an incomplete Legend could have overthrown the Queen of the Winter Court.”
+
+“You're not a Master-Tier at all.” Harkness swallowed as she fought to control her breathing. The frost armor around her grew denser, but her hand was still trembling. “But you can't be. How could you become a Legend? How could you become a full Legend before me?”
+
+“Helps that I stayed and finished my fights while you ran at the first sight of trouble. Of course, I died over and over and over again.” Shiv chuckled as he strolled back and forth. Things were going better than he expected, aside from the little tap on his head. Harkness didn't know about Uva hiding inside his mind. She'd lost track of Adam amidst all the carnage. Now she was terrified.
+
+Terrified, arrogant animals made mistakes, especially psychological ones. So long as Harkness remained in such a state, Shiv could provoke her, could guide her actions, could predict what she might do. “I died deaths like you won't believe, Harkness. I faced things you can't imagine. While you weaseled off into the Fairwoods and managed to steal that throne—if that's what happened at all—I was out there, giving the System what it wanted. And it guzzled down a whole lot of fucking strife because of me.”
+
+Shiv froze mid-step and sneered at Harkness. She probably has a bunch of narrative skills. Some she's considering using right now. But I want to see if I can provoke her into doing something different. How do you feel about a rematch, Uva? Because I want to see if we can finish this by taking her alive—finishing this fight and blue balling the System at the same time.
+
+“What delicious words you speak to me,” Uva growled.
+
+Shiv’s plan to make Harkness attack his mind was simple: play on her stunned arrogance. He hurt her, but that feeling of superiority was still there. Shiv just needed to give her a proper piece of bait to bite onto. That came in the form of a few well-placed words.
+
+“You know,” Shiv began, “that fight just now could have gone really differently if you bothered attacking my min—” He interrupted himself deliberately. His acting wasn't great, but Harkness was looking for anything to reassure herself. And she found it.
+
+The Usurper Queen's body language went from startled and uncertain to upright and reinvigorated. A wheezing laugh escaped from her, equal parts relief and venom. “Pride cometh before the fall. My father often said that to me, and I always thought he was a fool. Failures are our own doing. Pride has nothing to do with it, but now, with you, I can see that. Perhaps, above pride, we can place the concept of stupidity.”
+
+Shiv flinched back dramatically. “No, wait, Harkness!”
+
+Acting 21 > 25
+
+Gardener of Doubt 75 > 76
+
+She didn't wait. She also didn't use any of her narrative skills, eschewing them in favor of her Psychomancy. A flood of translucent mana, bound tight to her mind, came spearing out. It looked like it had undergone an evolution as well. However, the moment it washed into Shiv, two things happened: The first was that her Psychomancy bounced off of his Shapeless Tides. His Severed Shadow flared bright as the many vectors diverted her incoming attack. But then an eruption of strings and strands tore into Harkness's spell as Uva began her counteroffensive. It was like watching an owl get baited out of the dark, only to be ambushed by a massive spider lurking deeper in a nearby tree hovel.
+
+Uva's puppeteer strings were tightened while Harkness flailed, trying to withdraw her mind magic. It was too late. She'd already overextended, and now it was she who would be the victim, not anyone else.
+
+The beautiful thing about psychological flaws was that they had nothing to do with logic. One could understand they were arrogant and still fall victim to the same old mistakes. Behavior was a pattern to be broken, not an epiphany to be realized. And until the trauma of her hubris finally outweighed her urge to be proud, Harkness would always and forever be a puppet for Shiv to manipulate.
+
+He grinned. Thank the System for all that time I spent with the orcs.
+
+The Usurper Queen spasmed and shook upon her throne. A seizure tore through her, and her eyes rolled back up into her head. Strands of eldritch-infused colors coiled tighter, round and round the mind-mana Harkness had flung against Shiv. And within, he could hear a chorus of laughter slip free from Uva, her own vengeance at hand, while Harkness' horror climbed to new heights.
+
+Leaving Harkness where she lay, Shiv turned to see what Adam was up to, only to do a double-take. Everything behind him was blocked off by countless dimensional rifts. With every passing second, Adam's clones fired even more arrows and sealed off every avenue of attack.
+
+A single Adam walked up next to Shiv and snorted at Harkness’ incapacitated form. “So. Is she handled?”
+
+“She reached into my mind and ended up running into Uva,” Shiv answered.
+
+“Ah. And now I feel bad for her. But maybe we should just… shoot her in the head now. Just to be sure. My wall of layered dimensional passages will delay the minions, but not forever. And I don’t fancy another embarrassment at the hands of one of those wolves.”
+
+“Yeah,” Shiv grunted. “Might be right. Let’s just go and—”
+
+Without warning, the moon hovering above Harkness’ head exploded, enveloping everything in a massive blast of cold, blinding light.
+
+Finally.
+
+***
+
+Harkness found herself falling.
+
+The world blurred around her in a mess of broken sensations. Bits of sound and flashes of images passed her by, but they cut in and out, leaving the experience an incoherent mess. She was being reeled back somewhere. Her mind was as broken as her senses, and she felt her memories turn jumbled, like a jigsaw puzzle she couldn't fully complete. But even in the throes of incoherence, Harkness remembered one thing. She was a mage of the mind, and she could control the shape of her own consciousness better than any other. She turned her power inward and forced stability where there had been none.
+
+Pillars of order were erected from the first memories she could stabilize back during her past, during those chess games she had against her father—the ones she won and the ones she learned from. They rose high into the air like the pillars in the court of her mind, and slowly they lifted the debris back up into the sky, where they belonged, reconstructing the ceiling, giving shape to her mind once more. As the space around her stabilized, she found herself back within a spatially-webbed cavern. Glistening static sparked off of thin tendrils woven by Weaveress Dimensionalists. Countless tunnels led into a single vast cavern, at the center of which was a mana bomb waiting to go off.
+
+Harkness remembered this place. It was the crawlspace of Passage. It was the site of her most recent setback and ascension at once. The place where she faced the Deathless and his companions for the first time.
+
+Strewn across the ground were her comrades, slain, unmoving, their blood seeping between the spider silk. But while they were most certainly corpses, she could feel them staring at her from behind their bird-shaped masks. She could feel the judgment, the blame, the hate radiating out from them, as if they condemned her and solely her for leading them to their fatal fates.
+
+“It's not my fault, you fools.” Harkness scoffed, unfazed by the judgment of the dead. “We swore a creed to the stolen throne. We knew what was at stake. What was likely ahead. Death is a common consequence of this world, and you fell because you were not favored like I—because you were not as insightful, not as good at playing the game, not a master of yourself and a master of your enemies! I am not to blame. I am not.”
+
+“So says the woman trying to convince herself while pretending to converse with corpses.” A cold, husky laugh echoed from above. Harkness turned, and she saw her: the Umbral girl she had broken.
+
+A quiet scoff escaped from the Usurper Queen as she rolled her eyes. “Ah, so you survived. I suppose I should be impressed. I could've sworn you hemorrhaged and died. Such would have been a better fate than what I am about to visit upon you. I would have remembered you fondly, one so young, striving so hard, falling so valiantly. If only we were all so lucky. But here you are, back again, trying to seek retribution against a foe you couldn't hope to match before. Is that it? Is that why you are here, guarding the mind of your beloved surfacer?”
+
+The Umbral hopped down to face Harkness on level ground. The girl was still clad in that pathetic crystalline armor, and her Psychomancy, though advanced, was still scarcely more than Master-Tier. She had grown substantially, but she wasn't a match for Harkness, especially not with the Moon of Moons boosting her mystical capabilities.
+
+“No words for me? No taunts like your beloved?” Harkness growled.
+
+The Umbral stared through Harkness, like she wasn't even there, like she was less than an insect. Nothing more than a stain to be wiped, rather than a trial to be overcome. “Provocation and psychology are his hobbies, not mine. You might assume you hold a great space in my mind. Perhaps once before, but now you are but a shadow beneath shadows. While you but brushed the flames, I was consumed and continued burning, but never immolated. I simply transformed. And now my worries far exceed the likes of you. That is all I have to say. Cast your spells. Struggle, fight, die. I wish to be done with you.”
+
+Somehow, without even intending to, the Umbral's words provoked Harkness in a way the Deathless never could.
+
+The Usurper Queen struck with aggression and raw power. Her spell swung forth like a falling hammer, infused with her intent to shatter the Umbral in a single blow. But what the girl lacked in might, she made up for with flexibility. She dove under the attack, curling out of the way before striking the side of the hammer-blow to send it tumbling off course. Umbral then delivered her riposte. She struck out with a quick jab, followed by two others. The first was meant to distract. The second to breach. The third to bleed. Harkness twisted her mind aside, battered the second attack out of the way, and the third she barely managed to evade with all her experience.
+
+“Sloppy,” the Umbral taunted.
+
+“Hardly,” Harkness shot back. "I just didn't think you were worth the effort. Now you've proven otherwise. How unfortunate for you."
+
+She applied a bit more finesse this time. A spell formed above her head, and it coiled around itself, turning into a lashing spiral that projected waves of psycho-dichonetic energy. Everything within the cavern was torn asunder. The dimensional threads were frayed free. The memories that formed this mindscape were scattered, and as everything came apart, the Umbral was forced into evasive action. She had to jump from shard to shard while Harkness existed as an island unto herself. It was a reckless strategy, one that Harkness could overcome through sheer magical might alone. The constant battering of the destabilized mindscape infused both Psychomancers with strain. But a battle of attrition greatly favored Harkness.
+
+There was no amount of ducking, dodging, or clever tricks the girl could pull to delay her inevitable death. She had to go on the attack now, had to win soon. Otherwise, Harkness would come for her, and in this maelstrom, devour her whole. “The initiative is yours, girl. Make it count. Strike me down. I grant you this one chance.”
+
+But then the Umbral did something unexpected: She let the collapsing waves that made up this mindscape pull her away and vanished between the crashing tides of madness. Harkness found herself speechless. It was as if the girl had just thrown herself into the blaze, seeking to use the haze and fire to mask her approach, but also ensuring her own end.
+
+“Suicide is an interesting strategy. I don't think I've ever seen that before.” Though Harkness's words were dry, a part of her couldn't help but feel admiration for the girl. This would be something Harkness might do if she faced someone truly her better, though no such person existed. Harkness thought it best to spit hate and choose death rather than dishonor, if it really came down to it.
+
+However, respect mattered little for the outcome of this battle. Harkness held the edge in power and experience, and she knew what to look for, had used this strategy against rival Psychomancers before. The chaotic tsunamis of destabilized mind matter tumbled around her while she remained the single locus of stability within this plane of thought. But if the Umbral girl hadn't undergone a complete cognitive collapse, her presence would be as if a patch of stable water amidst a sea of turbulence.
+
+And in seconds, Harkness felt that patch of stability, knew where the attack was coming from.
+
+The Usurper Queen provoked the Umbral by exposing her flank. The attack came as expected, and Harkness parried as anticipated. But a proper defense was a layered thing. The bulk of her spell was shaped with the intent to defend. It exploded, knocking the Umbral aside. Within that spell was a smaller component, a single, arrow-shaped construct of translucent mana that zipped forward and tore a hole through the Umbral’s core. The fool girl's crystalline armor shattered into pieces, and her body followed thereafter, unraveling into a severed string of mana as her mind came undone.
+
+But Harkness wasn't finished. She seized the broken bits of her enemy and shaped the metaphorical sword that she used to hack and hew. The string representing the Umbral's consciousness was diced down to the finest chunks, and then they dissolved as Harkness chucked them back into the maelstrom beyond, condemning her to madness without hope of reprieve.
+
+As grains of translucent dust fled from Harkness's grasp, she let out a low chuckle and felt some tension subside. “This is the greatest compliment I can pay to you, girl. I decided not to toy with you this time. I gave you a proper and swift end. Few are competent enough to force my hand. Just a shame you'll never hear these words.”
+
+“The shame is that I let you cut me down at all. Even once.”
+
+Harkness stiffened. The voice came from behind her. She turned, unleashing a barrage of spells, and all of them were battered aside as the Umbral stood there, an unshaking presence, unwounded, unsevered, whole of mind.
+
+The Usurper Queen staggered back, reeling with disbelief. “No! I struck you down. I destroyed you. Every bit of your mind, every component. I cast you into the madness.”
+
+“That is correct,” the Umbral admitted with a scowl. She looked aside at the last bits of the translucent dust that made up one of her former incarnations. “You did strike me down. One of my stacks, anyway. Seems we're all repeating the same sin today: pride. My companions were too proud, striding into the Fairwoods with no preparation. You were too proud in thinking you had the upper hand. And I was too proud thinking that my experiences rendered yours nonexistent.”
+
+The Sister of the Order shook her head with dismay. “No more. I will resolve you properly with everything I have, and then I will take from you all that you know about Psychomancy—every technique, every strategy, every insight—until there is nothing left of you. And then I will harvest you for information about New Albion. You and your fellow bird.”
+
+And as the Umbral spoke, she began to change. Her crystalline armor broke away, dissolving into transparent shards. The body that emerged below was not one that belonged to a person. No, it was wonderful. It was beautiful. It was a nightmare transformed from a daydream. Broken shards formed a set of six wings behind the girl. Then came the Psychomancy strands that wove portals within them. Through those portals, Harkness gazed into another realm, another mind, where thousands of identical copies of the girl glared back at her. The Umbral's left hand turned to gold-tinged frost, and the Chrono-Cryomantic matter spread across her body, creating a husk that resembled a Weaveress' exoskeleton. But then her right arm changed as well. There were eyes there, so many eyes, leading down into her palm, which was a swirling mass: the heart of a whirlpool.
+
+And the greatest and most subtle change of all was in her eyes. They came aglow with color Harkness couldn't describe, and more eyes opened up along her forehead, eight in total, making her seem a mimicry of the arachnid mistresses she so served. Then came the fractals, which danced around her mouth, forming palps, but then she went beyond that. She spread her wings wide, and an emanation of color erupted as feathers bloomed, making her seem a preening peacock flourishing before a rival.
+
+While she unveiled her full metamorphosis, her body began to shift some more, her fingers turning into spider-like claws. The girl hummed to herself. “I suppose it's not so bad giving one's physiology over to the eldritch. A transformation can feel like liberation, but only if it is your choice. What about you? Was putting on that crown your choice? Did you manage to become Usurper Queen of your own will?”
+
+Harkness jolted as another voice came from her left, and through the crashing rapids of carnage emerged another version of the Umbral. “What is this? A trick of the mind?” Harkness breathed out. “Such a paltry spell could never—”
+
+But then she felt another patch of stability coming from behind her, and then another, and then another, until hundreds of monstrous Umbrals slipped free from the twisting maw of madness beyond. They flooded Harkness's sanctuary, invaded her island of stability. And then they started drawing the madness into themselves. Translucent strings highlighted by eldritch magics allowed them to drain the chaos into their bodies. The Umbrals grew bright and empowered. Rather than breaking under the madness, they digested it. They were empowered by it, and suddenly the girl's true nature revealed itself.
+
+She wasn't one mind. She was a massive webwork of minds, all of them connected by threads. And there were so, so many, all around. As the twisting tunnel of insanity vanished, Harkness realized she was completely surrounded—surrounded by a single person, split into so many. There were more of the Umbral around her than there had been stars in the sky. Harkness had thought this was a battle between equals, a duel between rival Psychomancers. How wrong she'd been.
+
+The Umbral was gone, dead, a facade. What wore her skin was something infinitely horrible, something meant to devour mind mages.
+
+For the first time in Harkness' life, her blood and mind went cold with absolute dread. She had no plans, she had no thoughts; she just wanted to run away, to escape. She pulled back with all her might, trying to recede her magic, draw it back into her own body, but she was gripped tight. Then she realized the strings connected to the Umbrals had formed a colossal nest. It wasn't just a web; it was a trap. It was a sphere, and Harkness was at the center of it.
+
+“As I said before,” the creatures spoke with one voice, as one mind, “you learn a great deal when you cast yourself into the flames. And I learned more than I have in my entire life during my tenure in the Stranger’s Garden.” A faint huff that bordered on the verge of a laugh escaped them. “For a time, I was trying to decide if I was traumatized, if I had been scarred by the experience. The truth was, I wanted to confirm something. I was wrestling with my fear. I was burdened with knowledge. I wanted to know if there was something wrong with me. Rather than having nightmares, I realized that I look back on my time there, the purpose, the learning, the metamorphosis. I despise what they've forced on me, but I think I love what I have become.”
+
+“What? What are you?” Harkness couldn’t keep the quiver out of her mind’s voice.
+
+And when the countless monsters smiled, it was the grin a fox might give a hare. “I am beyond words, beyond sanity. I cannot tell you what I am. I can only show you. Just a shame your sense of self won’t survive the process. Farewell, Lady Harkness. I’ll be sure to use your memories better than you did.”
+
+And all at once, they descended. Harkness wielded her power with desperation, with might, with every ounce of will she could muster.
+
+But what hope was there for an insect at the heart of a web woven by ten thousand spiders? Even a queen bee was certain to die. Even the greatest eagle would be overrun and boiled in venom.
+
+Harkness fought. Harkness struggled. Harkness suffered. Harkness screamed. She felt the creature pry her free, clamber down into her memories, crawl into her past. Into those moments. Those games she played with her father. Those years she spent training to become an Owl. Even those memories she'd repressed, forgotten. Of her mother's death. Of her father's execution. Of the role she played during the Rebellion.
+
+No, no, please no, no! Those are mine! You can't have them! You can't take them! You can't eat them! Those are mine! Though Harkness pleaded, a spideress had no concern for the urges of its prey, only hunger. Only need.
+
+And as pieces of her were swallowed whole and lost to her forever, Harkness wailed.
+
+***
+
+But both the spider and her prey failed to hear the laughter echoing beyond.
+
+On the outside, Shiv and Adam heard her voice louder and clearer than all the times before.
+
+It was the voice of the unseen narrator, the one that made herself known when they tried to change the pace of time. She spoke with heat and pleasure and a weariness beyond words. She spoke with hope and need, and with anticipation of what was to come.
+
+She spoke, and as she did, it felt like all existence spoke with her:
+
+Well, that was entertaining. What wonderful flames you are. What a wonderful trap within traps I have seen. Come closer, then, little Spideress, Undying Spawn, and Budding Dawn. Come closer, and greet me properly. The Watchtower needs a new heart.
+
+And with that, the pale, chilling radiance permeating the world vanished all at once.

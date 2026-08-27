@@ -1,0 +1,175 @@
+---
+id: 2a35327c-12bb-5bdd-9238-8e13220dcd4d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 6: Supra Ydelic Superior Technological and Extradimensional Medium"
+slug: 0006-chapter-6-supra-ydelic-superior-technological-and
+partOf: phoenix-ascension-cultivation-litrpg
+position: 6
+ownLength: 2702
+unit: words
+publishedAt: 2025-08-17
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2525658/chapter-6-supra-ydelic-superior-technological"
+royalRoadId: "2525658"
+---
+
+It took more than a moment to answer. For a second, I thought it would hit me with another ‘Information Locked’, but much to my surprise, it didn’t.
+
+[I am a Supra Ydelic Superior Technological and Extradimensional Medium UI. S.Y.S.T.E.M or System for short. Model number P90G123E94. My sole purpose is to help you traverse this world.]
+
+The answer it gave me was both vague and clear at the same time. Whatever words it said made little sense to me, but I understood that it was named System and that it was meant to help me.
+
+Were you even supposed to tell me that?
+
+I asked myself, of course, but I didn’t expect System to answer.
+
+[No.]
+
+That was a little more than creepy. As it turned out, System had a personality of its own, as robotic as it was. Its personality was a little much… did it have freedom? It reminded me of those weapons imbued with artificial spirits, except much less corporeal. I could live with that as an explanation for the moment.
+
+“Aaah~” An involuntary yawn escaped my beak, my eyelids trembling as my consciousness began to fade. The sweet embrace of sleep was calling for me, and I wasn’t sure how long I could resist it. Luckily, Mother noticed, and she rushed toward me, ignoring the brown tiger carcass and whatever she was doing to it.
+
+She sat down next to me, catching my falling body with her own, and I took a last look at the stars before drifting away into sleep. For some reason, they reminded me of a painful memory.
+
+***
+
+“Are you ready to give up, Fa Xiaolan?”
+
+I jumped awake, my heart racing with anxiety and my veins coursing with fury.
+
+You fucking bastard, I’ll never give up!
+
+These were my final thoughts before my eyes flew open, the blazing sun greeting me as it rose. It must have been late in the morning, considering just how elevated we were, so that meant I slept for quite a while.
+
+Looking around, I noticed Mother was already awake, once again meddling with the body of the brown tiger. I wasn’t quite sure what she was doing, as she pecked it and clawed at it without any rhyme or reason. It couldn’t be that the loss of chicks had made her crazy, right? I hoped that wasn’t the case.
+
+As I stood up, I noticed that the fluff covering my body had fallen off, littering the nest. In their place, small, stubby, and still in their nascent form, feathers began to form. The same could be said about my wings, which seemed to have grown by a fair amount as well. Not only that, as I walked closer to the carcass, I noticed that the paw and I were now of similar height.
+
+Did I grow overnight?
+
+The answer to that question was quite obvious. I definitely did. It was a shame there was no mirror or reflective surface for me to see what I truly looked like. Such vain things mattered little, though, as what mattered the most was getting stronger.
+
+Just as I thought that, my stomach began to growl, and the carcass of the tiger began looking more appetising as time passed. Surprisingly enough, it hadn’t decayed one bit, looking just as fresh as yesterday.
+
+Was this what she was doing? Preserving it? But what did scratching and pecking have to do with that?
+
+I didn’t question her techniques, and approached the beast with the intention to eat. She didn’t stop me, looking at my wobbly self as I walked closer to the entrance she previously made for me with an amused expression.
+
+She seemed happy, or at least less depressed than yesterday. For some unexplainable reason, that also brought some sort of warmth to my chest, but I couldn’t remember why.
+
+I snuck a glance behind me, her small, glittering eyes locking with mine. The love and care she had for me bombarded my very being, making me halt for a moment. I felt my eyes water, but I held back the feeling of sadness. I couldn’t allow anyone to see me cry, but… in a weird twist of fate… I wanted to.
+
+***
+
+After half an hour or so, I finally devoured the thing’s heart. The moment I bit into it, the warm, fresh blood flooded my throat. I could feel the energy it once had coursing through me. It tasted horrible, but I had gotten used to it. Complaining while being a weakling would only bring trouble.
+
+I devoured most of the tiger that day, excluding the skin and muscles, which were too hard for me to bite into. The brain was also left to the side, as no matter what I did, Mother couldn’t understand that I wanted to crack the thing’s skull open.
+
+Pecking at it was ineffective, and so was scratching it. I just didn’t have the strength required to damage such a powerful beast.
+
+If only I had some of my previous techniques…
+
+Techniques? Skills? Couldn’t I use… that one? Iron Claws or whatever?
+
+I had talons, so could they be considered claws? I wasn’t exactly sure how bird parts were defined, but since I had the skill, it was worth giving it a try.
+
+I didn’t have any better way to use it, so I decided to do an air kick. I climbed on top of its head and jumped high, then activated the skill when I was about to hit it.
+
+My claws shone with a silver light, and their weight increased by at least twofold. The moment I hit the thing’s skull they cut through it like a hot knife through butter. A small piece, about the width of my claw and maybe twice as long, landed next to me.
+
+Blood and other juices gushed out of the freshly opened skull, and I barely managed to avoid getting drenched by stepping backward, though small drops still landed on my fluff.
+
+Disgusting…
+
+I didn’t care much for it afterward, though, as I had other things that needed to be done. The opening I made wasn’t anywhere near big enough to be able to eat the brain, but it seemed that Mother had understood my intentions.
+
+She didn’t seem too surprised that I managed to cut through the thing’s thick skull, and she even seemed to be proud of what I did. As she neared the skull, she used her feet to open it further, effortlessly pulling the bone plates apart.
+
+I couldn’t help but compare my skill, which took intent and concentration, to her bodily strength.
+
+I have a long way to go before I can even get to the starting line…
+
+Finally, the brain was fully revealed, and it didn’t take me long to come to terms with the fact that I had to eat it.
+
+Every bit of nutrients matters.
+
+Steeling my nerves, I climbed on top and began pecking at the jelly-like thing, the act of using my beak almost becoming second-nature.
+
+After I was done with it, I felt a sudden surge of strength rush through my body. It was barely noticeable, and if I were any stronger, I would have brushed it off completely.
+
+There was no System message, which surprised me. I had expected a message to pop up saying I gained another skill or status point, but it looked like those weren’t given away so easily.
+
+However, I didn’t sit still despite having had my fill. I couldn’t. As soon as I felt ready, I began doing laps around the nest once again, pushing my small body to its limits before taking a break.
+
+The fact that I couldn’t sweat made it all the more difficult to train, and I wasn’t even sure running did anything. I couldn’t stand the thought of sitting around, doing nothing, though, and Mother noticed that as well.
+
+I decided to cultivate using the Ghost Qi Technique. It didn’t show up as a skill in my skill list, which didn’t bother me, but I found it interesting.
+
+Reaching the second stage of Qi Condensation would not be as easy as the first, though it would only take longer. For each stage of a realm, the Qi required to be considered in that stage increased. So if it took a well for me to reach the first stage, then the second stage would be three wells or even a small lake.
+
+I’d once again forgotten about Mother, or what she may think about my sudden silence. Perhaps she thought I fell asleep, or even went out by herself. I couldn’t be sure, but that didn’t matter. I had to hurry up and get stronger, and for that I needed Qi.
+
+Sadly, the amount of Qi I could absorb was severely limited by my non-existent Spirit Root, low-grade artificial meridians, and low-grade technique. The fact that the Qi I was absorbing also differed greatly from my base element, and that it was most effective during the night, also slowed down my growth.
+
+If I tried to cultivate during the day it would be a huge waste of time. I desperately needed a technique that used fiery or Yang Qi instead of frigid Yin Qi.
+
+***
+
+The next morning greeted me with the shadow of Mother looming over me. She nudged me with her beak, forcing me to stand on my stubby feet. Despite being a bird, I didn’t appreciate the extremely early morning call.
+
+As I looked up, I noticed that I had grown taller once again. Whereas before I could barely reach Mother’s knees, I was now able to comfortably touch her inner thighs. She didn’t question what I was doing, but moved away, allowing the sunlight to blast my still sensitive retinas.
+
+It wasn’t that early in the morning, huh…
+
+I swore I heard her chuckle, but she didn’t give me any time to get mad before picking me up by the head and throwing me on her back. After a gentle caress and a soft coo, she pointed me toward some of her sturdier feathers, but seeing as I had no hands or fingers to speak of, I could only dig my claws into them and hold on for dear life.
+
+She didn’t give me much warning before taking off, the rapid initial winds almost making me lose my grip. I disregarded both feather and flesh as my claws drew blood, but Mother didn’t mind too much, as she didn’t flinch nor screech.
+
+The sun rays shifted rapidly as we rose far above the clouds, beneath us remaining nothing but a multi-colored blanket of fluff. I wasn’t sure where we were going, but after getting used to the comfort of her back, I didn’t care. Seeing the world from above awakened something inside me, or rather, reinvigorated it.
+
+The feeling of flying through the clouds, freer than a bird without any restrictions or fear, filled my entire body with a magnificent thrill. I couldn’t remember the last time I felt like that, though my soul knew, and longed for it so dearly. I didn’t know until that moment, but I didn’t want to lose that feeling again.
+
+Flying would be a given for me, of course, seeing that I was a Phoenix; however, I wasn’t sure how long that would take. It definitely wouldn’t be as fast as Mother, though, and if I were too weak to even venture outside of the nest, there wasn’t any point to flying in the first place.
+
+As I was lost in thought, Mother began descending toward a forest. Its trees were tall with thick trunks and equally rich and lush crowns. They didn’t stop the sun from passing altogether, allowing the smaller plants on the ground to bask in the light.
+
+Mother landed in a rather large clearing, one that could accommodate her size, and it was clear that it wasn't her first time landing there. The grass around her bent as the wind created by her wings pushed it aside. After a quick few flaps, her feet were firmly planted on the ground, yet the grass remained bent.
+
+She grabbed me and gently lowered me to the ground, allowing the soft blades of grass to bother my yellowy fluff. Touching them felt weird initially, but they were pretty comfortable afterwards. I wasn’t exactly sure what we were doing in the forest, but I took a deep breath of fresh, chilly morning air as I walked around.
+
+My chubby legs were as agile as always, though there weren't a lot of things I had to dodge besides the odd rock and dent in the ground. I walked around, testing the waters. First, I circled Mother, and she watched me curiously, much like one would a baby who had just learned to walk.
+
+However, I didn’t walk around for long, as I began doing laps around her, trying to exhaust my tiny body, pushing it to its limits. As I did so I widened the distance between us, trying to see just how far I could go before being called back.
+
+That distance turned out to be quite large, as I had run into the forest far enough to not see her anymore, and she hadn’t yet grabbed me like before.
+
+Does this mean she wants me to explore?
+
+If that was the case, that meant that the area wasn’t too dangerous, and she could swoop in and save me at a moment’s notice. Of course, that didn’t make the experience any less interesting.
+
+Walking through the forest with a body the size of a bunny was a strange experience. Small boulders looked like a small hill, and the bushes were pretty difficult to pass through. Jumping over them was a solution, but my legs were far from strong enough to do that.
+
+The trees were so tall my neck hurt looking up too much at them, but I guessed that was just a general rule. Meanwhile, the blades of grass touched my underbelly, tickling me slightly in the process.
+
+I decided not to run too much and conserve my energy. It wasn’t hard to determine that Mother brought me out here because she saw how restless I was. Considering the fact that I could run away just fine and even kill a Spirit Beast right as I hatched, she must have thought that there wouldn’t be any danger for me.
+
+Of course, that didn’t mean I was safe. Spirit Beasts' behaviours were hard to guess, and their strength even harder to gauge. If it were any beast other than a vulture, one adept at travelling the forest, I would be dead and buried, or inside their belly.
+
+Knowing that, I threaded carefully through the grass, keeping in the shadow and trying not to make any sounds. However, I wasn’t the only one with that plan.
+
+I stopped and looked down, having stepped onto something more solid than a rock. A wooden thing was buried in the ground.
+
+After digging it out, I noticed that it was some kind of pendant. Wooden beads hung on either side of a wooden circle, in the middle of which stood the symbol of a flying sword.
+
+I tapped it with my beak, curious to see what it felt like, but I quickly let go of it as it started glowing. The fierce blue light lit up the area like a beacon, and then it flew outward, taking to the skies.
+
+Well, that was—
+
+I caught the most minuscule movement in the grass with the corner of my eye, and immediately turned around, getting ready to summon my Nirvanic Flames.
+
+The stalker noticed that I detected them and dropped all pretenses.
+
+As soon as it rose, the shadow it cast on my tiny body made me take a step backward.
+
+The Spirit Beast before me was a green snake, about as tall as Mother’s legs, and a body thicker than I was tall. To say I wasn’t scared would be a lie; however, to say that there wasn't a thrill coursing through my veins from the expectation of fighting would be an even bigger lie.
+
+Bring it on!

@@ -1,0 +1,265 @@
+---
+id: 4175bfb1-e739-5f0f-a42b-5a0bf0b38100
+page-type-slug: story-chapter-royal-road
+title: "415 Machinations"
+slug: 0533-415-machinations
+partOf: path-of-the-deathless-book-4-completed
+position: 533
+ownLength: 5299
+unit: words
+publishedAt: 2026-07-25
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3725208/415-machinations"
+royalRoadId: "3725208"
+---
+
+The Flamefavored comes.
+
+I sense him.
+
+I see him.
+
+His flame is spreading across the Summerlands—and for Winter he comes. The Shattered Moon he seeks to burn! The threads of our fate will be severed if he is to hold his fateless course.
+
+We cannot allow him to burn brighter. We cannot let him ascend further. We cannot let him bring us to the brink—the Endhound must be unleashed upon him. Deathless must devour Deathless and the fateless will deny the fateless.
+
+The Winter Eternal must fall; the moon must be reborn.
+
+Quench the flames.
+
+Quench the flames.
+
+Quench the flames, before he draws us into the jaws of the inferno.
+
+—Portent uttered by the Crone of the Shattered Moon
+
+415
+
+Machinations
+
+“If this was my doing, then it was done unwittingly,” the Culturist mused, indifferent to the rabid woman trying to drive her thumbs through his eyeballs. “The cause for this transformation eludes me; if the reason was rooted in my infestation of his skill, then it took effect without any mana fluctuation… which…”
+
+Shiv had to admit that there was something comical in the way the Legendary orc just hummed while Rose desperately tried to deprive him of his sight.
+
+The former Diviner's attempts at blinding the orc couldn't be considered pitiful either. She'd clearly gained a threshold of strength since her resurrection. She was ramming both thumbs into the softest tissues of the Culturist, with concussive bursts thundering through the air with every impact. A litany of slurs and curses accompanied her continued attempts at mutilation. While Roland gently and awkwardly tried to extract his wife from the Culturist's face, she clung on like some kind of demented wolverine, dosed to the veins on potent drugs and fueled with a fury possessed only by the mother of a hurt child.
+
+“Rose—Rose, please, this isn’t helping Adam!” Roland pleaded.
+
+“Yeah! Because the gray cunt isn’t fucking dead yet!” Her hands combusted to project twin cones of fire into the Culturist’s face, but the orc just kept frowning, more concerned about the mystery of Adam’s race-shift rather than Rose’s wrath. “Jessica! Fucking—get in here, you bitch! Help!”
+
+“Please don’t!” Roland shouted over her.
+
+A chain of melodic laughter rang out from Hymn as he took in the scene. “Reminds me of dinners with my extended family. Of course, my fourth aunt did manage to take my eyes from me consistently. Ah, bad times.”
+
+“Hey, guys, can you knock it the hells off?” Shiv growled. “We can fight with each other later. Right now, focus on—fuck!” He flinched, catching a fistful of enamel as a spray of broken teeth exploded out from Adam's open jaw. His new fangs and tusks punched clean through his gums, displacing all that existed before with such force that he practically fired his previous teeth like they were arrows.
+
+It wasn't just his dental state that was devolving. His underbite was growing larger—the bones breaking and then regrowing to accommodate his new biological structure. Adam's outer ears grew gray and sharper, and his eye sockets widened and drew back to accommodate his grotesquely swelling eyeballs. Every aspect of Adam was changing physically, and as Uva pointed out from behind, it seemed the transformation went beyond the biological.
+
+“H-his mind is responding,” Uva called out, but her voice carried more worry than desperate hope.
+
+Shiv realized why when he looked up. The Psychomantic projection sprouting out from Adam’s mind painted the ceiling in a dome-shaped expanse of memory, thought, emotions, and more. Within that chaotic miasma were pieces of Adam’s consciousness mixed in with his empathetic core—and where the dominant sensation sweeping through him was one of abject suffering, a new feeling slipped into place.
+
+It wasn't wrath or rage, but a desire, the platonic need for cruelty, pure sadism of the broadest variety and the purest form. That which defined Adam was usurped as his new nature took hold, and the other pieces of his mind began to swirl and move without being fired by Uva's psionic lightning.
+
+The mirrored changes between Adam's mind and body granted Shiv a guess as to why this transformation was happening. Before Adam's mind was broken and he was driven beyond the brink of insanity, his race had changed along with his Path. He had been a Changeling ever since being burned by the Watchtower; it was just that no one had known what that entailed. But now, with Uva reconstructing his mind bit by bit, perhaps a flicker of his consciousness was reaching out from the Delve. A flicker that was touched by the only sensory inputs the Crown of the Antisavior allowed him: pain, brutality, and violence.
+
+It seemed that, as the mind dreamed, the body thus followed: Adam shed his human guise to become what he thought himself to be. And since cruelty and the urge to inflict misery were the only defining traits left in his ego, tied to the sole branch of memory he still retained, what else then could he be, but an orc?
+
+Shiv conveyed this theory to Uva, and she then carried it across to everyone else in the room through a chain of psionic lightning. The bolts from her dreaming storm slithered through all active minds, and the Educator became the first to make her move. “Away from him—give me five meters of space at the least.”
+
+Jolted out of her murderous frenzy by all that was happening, Rose looked reluctant to obey—but Roland didn't give her a chance to make matters complicated. He kept her hooked with one arm and marched away, though he barely wanted to heed the Educator's request himself.
+
+Shiv was last to clear the zone, and he watched with curiosity as the Educator traced a set of charcoal borders around Adam's body, pinning him in place. “To keep him protected—and us as well.” Though she retained a casual edge to her voice, Shiv saw how her core quivered and knew what troubled her mind. She was worried about the fog that had burst through her borders before—the mists of divine peace that could sear the flesh of war.
+
+With the Paragon secured, she turned her interest to the psionic landscape extending up out of Adam's mind. She began to paint, using her brush to inject dappled pulses of color and definition into Adam's mind. The Dreaming Storm made everything mental physical through mana, and what became tangible could be altered through color and artistry. And so, the Educator committed herself to her task.
+
+Instead of drawing something with clear definition, like a place, or a person, or a scene attached to one of Adam's memories, the Educator stroked abstractions into the mindscape. From a chaotic horizon consumed by a vortex of translucent lightning came new patches of definition. The color of chrome seeped into the mana, swallowing the kaleidoscopic glow of the outside and forming strange circuits that connected place to place. The lightning flowed then, but not wildly like that which was caught within a storm. It circulated as if following the path set by copper wires, made manifest beneath the Educator's brush.
+
+As she continued her work, Shiv glimpsed other vague shapes that evoked thoughts of machinery. A few of her depictions came into view beneath the blurring whips of paint the Educator cast forth, and they resembled capacitors, coolant tanks, power cores, engines, thrusters, hydraulic pistons, and many more things Shiv couldn't name or had never seen before. And while her art altered Adam's mindscape, his flesh began to change once more.
+
+This time, however, the transformation was foretold when the biological architecture once rendered by Shiv's Aegis of Assimilation blinked out. Before his eyes, Adam's body began to not just mutate but outright shed its skin and the flesh beneath.
+
+The Paragon’s bones cracked open to reveal an expanding mass of cold steel beneath. His hair was forced out as thousands of strands of synthetic red replaced his crimson mane. Blood and viscera spilled away as layers of chrome unfurled themselves, connecting and layering over a new body being born. Wires subsumed arteries and veins while a power core flared to life where his heart once was, sending energy to the rest of his form. The general shape of Adam didn't change; even his face still remained much the same, so much so that it was still recognizable as the human he once was, but his skin was now a sculpted sheet of reflective metal, his brows replaced by a series of riveted bolts. His eyes glowed bright before they rippled and popped open to reveal optical implants that projected beams of azure light at the depths of his sockets.
+
+Everyone watched on with bated breath, speechless in awe or horror, as the human that had once become an orc now pivoted in an impossible direction, growing not into any other biological organism but an automaton of all things.
+
+“This is remarkable,” Maia breathed, seeming herself surprised by the results of her actions. “No, it should be near impossible. Even with a greater Blessing, the transmutation and conversion of flesh into metal to such an absolute extent is exceedingly rare…” She then turned to glare at the Starhawk—manifested, looming over Roland like a shadowy presence. “How? How did you do this? What relic did you bury inside this boy? What festering poison did you carve out of the Great One’s bones to implant into his soul?”
+
+The Starhawk gave her no answer, but a series of whirs and mechanical groans escaped Adam as the expression of his suffering took on an industrial quality.
+
+“Alright, I'm a little bit lost here. How did you just turn Adam into a bot?” Shiv’s question caused the Educator to point her brush upward, gesturing at the memories she'd painted into Adam's boiling psyche.
+
+“He doesn't change biologically. No, that's a byproduct. He changes metaphysically, mentally, and spiritually first. I painted what it was like to be an automaton. The mind of a machine is far different than a person, and the way they feel is dramatically separate as well. When I grounded his mental landscape with all those substances, he drew in all that detail, and so his mind and body followed suit. Even his soul followed suit in a sort of fashion. Your theory earlier was correct, and it tells us two things: one, that the Umbral is succeeding in rebuilding his consciousness, and we should stay the course even if it's difficult and tedious. The second is that Adam is no longer rooted in the flesh, first and foremost: he now contains a Divinity that allows him to reshape his own form through self-belief. Thus, Changeling. Not of being exchanged at birth, but having his nature altered by belief—faith.”
+
+“I did not know this would come of my actions,” the Starhawk began, his voice low and somber. “I acted with the intent to preserve Adam’s life—more, I did not foresee the state of the Changeling befalling his sister either. This was—”
+
+“This is your folly following us into the present!” the Educator snapped, barking her fury at her fellow Ascendant. “This was you tainting another with a power that should have never been ours! Unearned power! Undeserved Divinity! Someone else’s skill, encapsulating all we are. For all we know, a Changeling is what the Great One understands themselves to be, and with every shift Adam performs, he grows closer to waking They who should never be roused!”
+
+“It will not be so,” the Starhawk rebutted.
+
+“Why? How?” Maia’s voice was near-incomprehensible with apoplectic snarls. “Why will it not be so? Explain your scheme to me, O Starhawk the Just. Is it because it never manifested in him—because he didn’t have a cemented legend yet when you bound this relic and Divinity to him? If so, then we are avoiding the miserable fact that there was a reason why his sister was conceived inside the Great One’s reach—because it takes more than a mostly blank canvas to perform this act of metaphysical theft. Adam cannot just be clean enough for this to work; he must be synchronized from the start. You might be able to hide the other child because her tale begins within the Great One, but Adam? No, not nearly—he already had at least a year of history and legend before you bound this power to him. It’s not the same. Do not insult me, Matthew—it is not the same. And I will not let you tell me it is.”
+
+The Ascendant of Justice argued no more; instead, he kept to his pained silence, and Shiv tasted the weary tang that was born of bitterness, anger, and shame. “If I did nothing, he would have died. Everything would have been taken from Roland. Everything.”
+
+It was Maia’s first instinct to bite back and argue further, but she stopped herself as she looked upon Roland—and his wife besides. Her body was tense, and her hands remained clenched tight, but for all the loathing she felt toward her fellow false gods, the same acrimony didn’t extend to those who suffered under their schemes. “So he would have,” the Educator finally spat.
+
+“So Udraal wanted,” Shiv corrected, pressing the Educator. “You know who you were working with too, Maia. The Starhawk made the choice to do this to Adam, and that has had its own consequences, but let’s not bullshit ourselves here: if the Starhawk did commit a sin here, it was being desperate. Whatever was supposed to happen with Adam’s sister, I don’t know, but if you want me to dig through all the Starhawk’s wrongs, I wouldn’t put Adam on the list. I can’t. Not when someone else forced everything to happen.”
+
+Again, the Educator’s instinct was to spit some measure of spite and rebuff him. That first instinct proved to be a tired flame for this problem. She knew. There wasn’t much to say. “He was an ally of convenience. Our interests aligned, and I had—”
+
+“I’m not judging you in return,” Shiv cut her off, his voice calm. “This isn’t me turning blame around; it’s me saying that if we’re going to take shots at each other, we need to do it accurately and toward a proper purpose. You, the Starhawk, the Ascendants—you all have history, good and bad. I know that I can’t speak on that because that’s between all of you. But we have to be more than someone else’s bad choices, right? Just like we have to be more than someone else’s stolen skill.”
+
+Harbinger of the Tripartite Ruin 357 > 360
+
+Maia couldn’t bring herself to agree. A toxic, ever-present pride festered within her breast, and to bend her back in any way filled her with a reactive anguish that made Shiv think of someone who had been made to question their own memory or sanity far too many—
+
+Kathereine, Shiv realized. This probably wasn’t an original character flaw in her; it likely came about because Kathereine kept trying to hijack her sanity. Godsfuckingdammit.
+
+Deductive Reasoning 39 > 42
+
+“And for what it’s worth, I don’t blame you for being like this,” Shiv said, using his guess to signal sympathy and goodwill toward the Educator.
+
+“What?” she snapped.
+
+“Oh, no,” Hymn whispered in the background with a wince. “He has you. Run away, Educator. Flee for the sake of your heart.”
+
+Shiv shot Hymn a dirty look but kept going. “Felling Songbringer, am I right? Pretty fucked up to try and twist the mind of an artist when they need that to help them process their vision of reality.”
+
+Her eyes fractured, and black flames spilled out from the cracks. The Educator clutched at her face—which went another shade paler. “How…”
+
+“Longinus. Halsur. You. Probably all the other Ascendants.” Shiv shrugged. “Not a hard puzzle to piece together when it comes down to it. She tried it with me; she tries manipulation with everyone. And she probably took a good hard swing at you before you cut yourself off—which might be the best thing you could have done for yourself, to be honest. Would’ve been my choice in the same situation.”
+
+A new silence swept through the room as the Educator struggled to decide between fleeing in horror at being so unveiled by a mere child, or staying and risking the possibility that he actually wasn’t judging her at all.
+
+“If I was judging you, I would have just mocked you for it,” Shiv admitted. “I’m not that good of a guy, Maia. I’ve been a piece of shit just to hurt people before. No need to feel bad. Not about this.”
+
+Continuing his campaign of nonchalance, he clapped her on the back as he passed her and whispered his thanks for confirming his theory about Adam. She remained still as a post even seconds after.
+
+“Hymn,” Shiv called out, gesturing at the mental landscape above. “If the Educator can instill some kind of—whatever she’s doing with the emotions and thoughts, can that accelerate Adam’s reconstruction?”
+
+“Possibly?” Hymn said. “But as none of us are mind-healing specialists, expect—”
+
+“Trial run on Candles first,” Shiv suggested. “His mind is broken too. We know we’re on the right course because of what Maia just proved, but I think we need to see how the reconstruction looks in a less damaged mind and a progression map from Candles might give us something, right?”
+
+The Headmaster opened his mouth and then paused before continuing. “That’s… that’s a better idea than I expected.”
+
+Shiv slapped him over the back as well, knocking the wind out of the Headmaster in revenge for earlier. “I get those sometimes. Uva?”
+
+“Devoting a few stacks of consciousness to Candles right now,” she answered without hesitation.
+
+“This will still take a measure of time,” Valor mused. “For things as delicate as the mind and soul, we cannot rush.”
+
+“We don’t rush,” Shiv agreed. “Not for this. Not anymore. The System’s going to do what the System’s going to do, but we’ll handle the bullshit we don’t see coming better when we cut the branches off all the other problems that have been growing in the meantime. The Gate needs more security and resilience, and that buys Adam safety in return. We’re getting that with everything we survive and everyone we bring in. I think it’s time I get a little more offensive instead of hunkering down.”
+
+“Taking an aggressive stance right now might not be the wisest approach,” the Culturist interjected. “Especially when we stand perched on so many precarious edges, with countless more threats waiting below.”
+
+“That’s why I said ‘I,’ Culturist,” Shiv answered with a grin. “Gate Piety needs to remain guarded and get reinforced, but the Deathless doesn’t need to wait around. Some fights are coming our way, and some mutual enemies are looking to make a bigger mess of the shitshow we already find ourselves in. I intend to bring the problems to them first—while staying here at the same time. See if I can lead a bit of strife off proactively, if that makes sense.”
+
+“And you’re going to use the Republic to help you in some of those fights,” Roland said. A dubious expression lined his face in stress wrinkles, but his tenseness lightened as Shiv shook his head.
+
+“No. I don’t know who is using whom right now, but I can say this: playing a close-up game with Veronica and Yellowstone is better than trading hits right now—especially with what happened to Longinus. It’s ‘religious crusade’ or ‘play a measure of penance.’”
+
+“Indeed,” Hymn said. “Speaking of, I suppose you intend to ‘return’ the evolved Wanderer to her new worshippers.”
+
+That part made Shiv grimace. “Well, if we keep her here or she openly declares that she’s with us… There’s only one road that leads down, and even with everyone at the Gate right now, how do you think that’s going to go? Especially since I can’t really count on you and Jessica if the worst comes.” Both the Giantsbane and the Headmaster went still. “Oh, knock that shit off. Jessica, you’re still Republic loyal—you’ll beat me down right now if it comes down to it. I know, I don’t judge you. Hymn… you’re not the type to fight desperate struggles if you don’t get anything out of it. So. Yeah. Not ideal now, and likely not ideal down the line either. Not with the losses everyone’s going to have to take for nothing.”
+
+“For nothing?” Jessica asked.
+
+A casual laugh left Shiv. “Well, continuing with the whole honesty bit, if the Republic makes the choice to siege us, I’m doing the sensible thing and collapsing the mana core after moving everyone out the Abyss gateway. I’ll take my chance guarding a refugee convoy from the First Blood and Compact, and if that goes to shit, well, I’m not going to let you guys get to my Severed Shadow. And if you don’t get my Revenant, then I got another vision of the future, and no one is going to die happy in that one, if you get what I’m saying.” Shiv caught the answer within her core and grinned harder. “Good. You do. Veronica probably gets that as well—and is playing fuck-fuck games of her own. Can’t say I’ll beat her there immediately, but being up close and personal with her seems better than waiting for her to squeeze the Gate directly. Again, blurs the look of the Ascendancy schisming with the Dreamtaker popping out of Longinus and Cripple fully folding to be with—”
+
+Shiv paused as he frowned at the Starhawk. “Well, with me. Sorry, Matthew: this isn’t really a rebellion forming by your side either. Actually, I’ve been avoiding you for too long. We need to have a proper conversation about all those things you got at the bottom of the castle and what you’re hoping to see happen when you give everyone in the Republic their own little brand of Divinity.”
+
+Those words made the Starhawk’s discomfort grow by a magnitude, and the darkness that billowed out from him drenched part of his incandescence in tar-black fire.
+
+“And before you start defending your idea, no, I’m not judging you. I want to know what you’re doing so that we can avoid stabbing each other in the back and maybe skip straight to stabbing each other up front.” Shiv gave the Starhawk a pleasant nod afterward, as if he wasn’t threatening violence. “Hey, Roland.” The Town Lord blinked. “This isn’t between you and me. You can be there for the conversation, but you stay out of it. I want to hear what the Starhawk wants from him and him alone. And I have the right to this, because I’m dragging Integrated Earth toward an Incursion one way or another, and I’m the reason why everyone here’s burning with favor and getting flooded with levels. This is the best outcome: we need to deal with each other beforehand instead of letting things get worse over time. I’m not an Ascendant; I’m not interested in the Great One—or the fights the System’s planning to set up for me. So. We gotta think a bit ahead.”
+
+When Roland stayed dearly silent, Shiv cleared his throat. “Anyway, Starhawk: you find me when you’re ready. Jessica—capital’s calling you back; we got an Endhound to give back to the Farwalkers and not a lot of time to grab it, so time to give some orders, Giantsbane.”
+
+“I hate you so much right now,” Jessica whispered.
+
+“I’ll continue aiding in Adam’s reconstruction,” Uva said, declaring her priorities as well. “But we will start by seeing if we can stabilize Candles first. I will also part portions of focus to managing the guests coming into the Gate—”
+
+“Just let them all in,” Shiv said. Everyone gawked at him. “What? Come on, there’s no avoiding weird shit and assholes by this point. We deal with them. We house them away from the vulnerable, but frankly, if someone is going to do something stupid, they’re going to need to think carefully, because the collateral damage isn’t going to be affordable.”
+
+“But Adam—” Rose began.
+
+“They’re going to come for him regardless,” Shiv said. “His safety is going to be ensured by all of us—and then himself when he gets better, because he’s staying Gate Lord, and we need someone to start building up this Gate and using that mana core.”
+
+Roland looked away, and after a minute, his mind sparked with an epiphany. “Your strategy… It's exhaustion. You want to inflict constant attrition on all known threats—the same way the System exhausts us. You’re emulating it. You want to take advantage of your nature as favored to spread out the concentrations of strife through your expendable bodies.”
+
+Shiv scoffed. “Of course you’re the one to get it at a glance. Why bring it up? You got a better idea? Because if you do—”
+
+“Do it,” Roland cut Shiv off, his gaze resolute. His confidence in Shiv’s methods made the Culturist do a double-take. And in doing so, the orc betrayed a bit more of his nature—he was not the kind to willingly operate with aggression and start open conflicts when the tools of stealth and subterfuge could be used. “I’ll need more time to consider… But this will give us more time. And it costs us nothing. Do it. Go be the hammer. Go be the problem.”
+
+“Oh, I’m going to be more than that,” Shiv said. “Got a lot more than a few bodies now, so the Sky-Swallowing Carp’s going to be taking its maiden voyage over on the surface at the same time. No reason not to do it all, hm?”
+
+“No reason at all,” Valor agreed, entering the conversation himself. “But when you depart to seek the Tarrasque, I will accompany you. Legend Hawgrave, I request a space within your blade.”
+
+“What?” Shiv said, struck with surprise. “Doesn’t Adam need you for the Delve?”
+
+“Adam needs a whole mind to Delve,” Valor answered. “And right now, there is nothing I can do for him, as he lacks a complete enough sense of self to guide. No. My best purpose is served toward the defense of this Gate like you. It will also spare the Gate the shadows of my misdeeds as well.”
+
+Shiv remembered Marikos, and thought that Valor probably had a point there.
+
+Roland let out an awkward grunt. “I should—”
+
+“Stay right here,” Shiv finished for him. “The Republic will make a go for you if you leave, and you’re the reason why Pathbearers from all across the surface are coming to the Gate at all. Between you and the Perch, taking the Gate will go from difficult to impossible for most. Besides: it’s better if you’re here with your family. You, uh, deserve that and stuff because of everything that happened. Should get to enjoy that—even if Adam’s… You know what I’m saying.”
+
+The Deathless coughed. “So. I’ll go put out some fires by starting a few new ones of my own.”
+
+“I will remain in the Gate as well,” the Culturist said. “If the Dread Horizon will be the enforcement of order in the light, then I will stay close to the dark to see who comes to greet me.” He sniffled. “It will give the Paragon’s family a measure of peace as well.”
+
+With the way Rose kept glaring at the orc, it seemed like a more than rational choice.
+
+“Okay,” Shiv said. “So. One crisis over; new crisis in progress; and more crises from me to everyone who was going to come and trouble us before.” Then, a final thought crept into Shiv, and he eyed Roland once more. “Oh, and Town Lord, don’t think I forgot about our prior arrangement. Our fight’s delayed, not cancelled. After the Tarrasque and Adam, you and I are going to settle a few things for good.”
+
+“Handle the Tarrasque decisively, and I might consider accepting,” Roland replied with a measure of slight mirth. “Consider it your apology.”
+
+“My apology?”
+
+“You escaped from our scheduled duel by Delving. Quite the faux pas, Deathless.”
+
+Shiv just nodded at Roland as he wondered what faux pas meant.
+
+“A faux pas means social slight,” Rose offered.
+
+“Thanks,” Shiv said dryly. “But I see what you’re doing, Roland. You buy time however you want, because when Adam wakes back up, you better hide your ass from his all-seeing eyes, because the bruises I’ll leave there will be an image of me ripping you open from the cheeks up.”
+
+The air went from electric with excitement to rough and awkward in a narrow instant. “But… why would Adam focus so intently on his father’s rear?” the Culturist asked, confused.
+
+“Jessica,” Rusty grumbled. “Look upon your influence and despair.”
+
+“Hey, shut the fuck up, Rusty, that shit was all him,” Jessica hissed.
+
+“Too much, Shiv,” Uva chided flatly. “The banter has died; we are purely in the strange and disturbing territory now. If the System could take a level from you for what you did, it should.”
+
+The high the Deathless was riding plunged into the nadir, and the full weight of his words slammed into him in retrospect. Harbinger! Why didn’t you stop me from saying that?
+
+The mostly broken skill crackled with incoherent but most certainly unamused annoyance.
+
+Oh, right. Sorry.
+
+“Uh, anyway, I should go,” Shiv said. He promptly entered a half crouch as he tried to leap across time—and failed. Because the Harbinger was still cracked.
+
+Refusing to meet anyone's stare, he slowly stood back up and licked his lip. In the end, he waited for his Severed Shadow to go full Revenant as he slipped out of the walls toward his Court Leviathan, gathering his resolve to make himself forget the very end of that conversation the moment his Harbinger was back to avoid shattering from ever-building embarrassment.
+
+I was doing so well, until the part with Roland’s ass. Hmm… Need to cook. Take the edge off again. Constantly cook with this body—that’s right! I can have a body that never stops cooking! Happiness and peace. Balance. Good balance. That’s what I need now. Good balance. This was just a learning experience. I’ll look back on this and laugh. No one will remember this soon anyway. No one.
+
+Coping 39 > 44
+
+***
+
+A blast of telepathy rippled out from the surface gateway as it reactivated, sweeping on for kilometers—until it crossed even the curve of the horizon. The weakest of the thousands of gathered Pathbearers buckled as an overwhelming act of telepathy—projected forth by a High Heroic Psychomancer at the least—washed over their minds.
+
+“Attention, guests!” a low and dry feminine voice intoned. “The unexpected crisis afflicting Gate Piety has been resolved. Additionally, immigration processing is no longer necessary. All guests may proceed through the gateway at their leisure. However, it is strongly advised that all guests obtain their own means of hydration as the water processing station within the gate remains contaminated, though the perpetrator has been eliminated. The consumption of water within the Gate comes with a risk of unnatural pregnancy if you are biologically male. Keep this matter in mind. That is all.”
+
+Where once there was ceaseless noise and a growing unrest from all the Pathbearers forced to set up encampments and wait, what followed was only crushing silence.
+
+A similar silence consumed the insides of Hero Ranger Morgan Munny’s Terminal Opus.
+
+“Did… Did she just say pregnancy for males?” Sooth stammered next to him. “Do you think—”
+
+“Of course I think!” Morgan snarled, gritting his teeth so tight he chipped his upper incisor. “Male Pregnancy! They got him. They got the sonnabitch! Sooth! Cast the crew—get this Crawler moving.”
+
+“On it, boss.”
+
+“And find me Gunhead!”

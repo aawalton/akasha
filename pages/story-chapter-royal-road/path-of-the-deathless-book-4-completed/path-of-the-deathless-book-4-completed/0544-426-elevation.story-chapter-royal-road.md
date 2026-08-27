@@ -1,0 +1,195 @@
+---
+id: d74299e5-dbbc-5645-872f-86e7691cd5e2
+page-type-slug: story-chapter-royal-road
+title: "426 Elevation"
+slug: 0544-426-elevation
+partOf: path-of-the-deathless-book-4-completed
+position: 544
+ownLength: 5605
+unit: words
+publishedAt: 2026-08-07
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3783462/426-elevation"
+royalRoadId: "3783462"
+---
+
+The Great Sage was shoved into the Eight Trigrams Brazier, and the brazier was firmly covered. Laozi then directed the Daoist attendants guarding the brazier and the pages in charge of the fire to blow up a strong flame to reduce Monkey to ashes.
+
+Now, Monkey squeezed his body into the palace of Xun. Xun was the wind; where there was wind, there was no fire. But the wind whipped up the smoke, which reddened his eyes, giving them the title Fiery Eyes and Golden Pupils…
+
+—Journey to the West (Pre-System Text: Original writing attributed to Wu Cheng'en of the Ming Line; Translation into Anglish by Anthony C. Yu.)
+
+426
+
+Elevation
+
+Applying Legendary Skill Evolution: Flaming Heaven Be My Sight (Legendary)
+
+"This is not enough," Adam declared as he hovered beneath a rain of blinding rays. Eyes appearing grander than the sun, each scintillating with an azure brilliance brighter than the coming dawn on a clear day, wept those rays by the tens of thousands, and within that expanse of falling beams of light, his perception was absolute.
+
+It wasn't enough that Adam boiled himself in struggle and strife—through repetitive deaths and constant practice. The refinement dragged him closer to the skill he wanted, but it still wasn't enough, and he knew it wasn't enough. It failed to penetrate that all-consuming black, that festering shadow of dread that the orc Deathless wielded as his aegis.
+
+"Not enough, eh?" the false Shiv mused. There was no true rancor in his too-deep voice, though suppressed cruelty and unsatisfied bloodlust still festered. As much as he may have wanted to make a feast of gore of his friend, there was still a desire to aid Adam in equal measure, despite what the System had made him into.
+
+"What are you looking for then, Paragon? What do you want from me? Your gaze cannot pierce my darkness. This isn't a limitation of your Awareness, but of your courage. But hey, perhaps with just a few more tries, you might deaden your heart and find yourself immune to my powers entirely."
+
+Shrouded by light, little more than a shadow beneath the glare of his own glory, Adam shook his head. The movement was almost imperceptible, but his enemy still saw—and so Adam used that understanding to fan the flames of dissatisfaction within. His enemy could see him, but he couldn't see his enemy, not truly. He had to use his own absolute dominion to counter the Deathless, and that wasn't a good enough strategy. There would always be another threat hiding in the dark, and he couldn't be that boy in the hallway too terrified to venture into the black. In fact, the very presence of the black offended him, for he was meant to see and know, and not knowing was tantamount to betraying this evolution. If he was to be a Legend, he would not be a partial one. There would be no "good enough." He would not be held back by his own deficiencies of courage, of ignorance, of hesitation. He had to be more.
+
+"Maybe you need to focus on your meditative aspects more," the orc Shiv suggested. He tried to look up at Adam, but motion wasn't exactly an option when one was held in place by a hand as vast as a mountain and composed of coiling wisps of mist. There was no need for the palm to swat Shiv out of the sky; it made the open air act as unbreakable bedrock.
+
+Caught like a rat in a glue trap, the orc relaxed his body and tried several times to talk Adam into suicide, using his faux-Harbinger in an attempt to crack the Paragon, but to no avail. Where the real Shiv's words cut because they had purpose behind them, the orc was made less so, for he was rooted in the foundations of destruction and invective. The Harbinger was a strange skill that way. It wasn't just powerful; the user needed to be insightful as well, and truthful. It was the manufacturing of truth as an instrument of purest destruction that defined it, the ability to peer into people's hearts and rip open wounds they had left ignored and infected for far too long.
+
+But the Challenger-claimed Deathless wasn't Shiv. He didn't wield the truth. He wielded banalities of offense and casual observations of Adam's mental state.
+
+What the orc didn't understand was that the health of Adam's mind was irrelevant compared to what he wanted, no, needed to achieve.
+
+Yes, there was a cowardice inside him that offended his very being. Yes, he wanted to escape, he wanted to break free, he wanted to take revenge, and he despised the weakness that seized him. He despised that moment where the Challenger gripped him, forced the Crown upon him, and he despised that urge he fell to several times in this Delve—that urge that made him rip those he loved limb by limb, gouging, ripping, biting into their flesh, gorging himself upon their bodies like he was less even than a base animal.
+
+But that came second to this moment of actualization. The only thing that would truly shake Adam now was to fail this Delve.
+
+Short of one's body being slain in the real world, there was no way to truly fail a Delve, of course, but to Adam, to fail this Delve meant coming out incomplete. He could clear the Encounters by the skin of his teeth and attain an evolution, but if that evolution did not sear through the darkness of the Deathless and all darkness besides, it was no evolution he desired.
+
+"My father told me something once," Adam said, speaking to the hollow recreation of his closest friend. "He said that he pierced people using his gaze before he ever loosed an arrow. I am doing the same right now. Until you are pierced with my gaze, I do not have you. Until I can cut you down with my glare alone, I do not have you. Until this skill is greater than yours, and I know it is not Legendary, I do not have you. This is above courage. It is above my weakness. I need something that strides beyond me. I need something... something…”
+
+“Something divine,” the orc finished for him. He let out a soft sigh of appreciation, but it was also laced with a hint of derision. "You ask for too much. You are fragile, Adam. You seek the highest glory, and while that burden you carry inside you, that Divinity, is a wondrous thing, you're still just a boy. Barely over two decades old, while that thing inside you has probably been around for eons. You should accept your limitations. It will be kinder to yourself."
+
+A snarl slipped out of the Paragon as his rage nearly combusted. He gathered himself before he lost control again. That was the closest the orc had come to pulling him into a mindless rage, but there was a reason for that.
+
+"No, no," Adam said, shaking his head again and turning away from the Deathless. He needed to think. As the orc prattled on, he considered his path forward. Looking up, he gazed upon the representation of his new skill. His eyes had been implanted over the firmament. Like the last skill he had, it fused over the heavens, but unlike the limitations of the first option he was given, Kingdom of the All-Seeing, which spread based on sensation, he could control this. It was like a fleet of stars he could summon at any point, the eyes sailing out of him as the gleaming crown of incandescence resting on his brow projected a beam of azure brilliance upward.
+
+This skill was a second sky planted over the first. It was a heaven manifested in place of it. It was Adam's soul infusing and usurping the realm above to gaze upon all that was beneath him.
+
+And it wasn't enough.
+
+Adam beheld himself through thousands of gleaming eyes. He beheld Blackedge. His current focus, even unenhanced by a meditative state and the amplification of his Multitasking Skill, allowed him to contain all of Blackedge within his senses, but he could push it further than that. If he simply sank down into his subconsciousness, his eyes would expand, his heaven would swell, and soon it would sweep across the land, perhaps not as fast as his previous Legendary Skill, but fast enough still. Better yet, he could move his patch of heaven. He could project this massive fleet of eyes outward, and underneath, everything would be known and seen. It would travel and grow at the same time, granting the skill maneuverability and propagation.
+
+But it needed to be more.
+
+He had to be more.
+
+For all the benefits Flaming Heaven Be My Sight offered, how soon it allowed him to detect Whisper and discover the plague, and how it granted him an easy angle on the Vicar, it still couldn't peer through the Trespasser Shaped of Dread and Null, as the orc Deathless had graciously revealed it to be named to Adam.
+
+Since he'd refused Kingdom of the All-Seeing, the System had offered Adam twelve separate Legendary Skill Evolutions across what felt like weeks, each one more piercing than the last. One of them was the hyper-focused manifestation of his Awareness—a hovering star that painted everything illuminated by its light into Adam's knowing. But that couldn't pierce the darkness either, even when Adam flung the star directly into the darkness' embrace. It was a wasted skill, and Adam tasted true death that time as the Deathless jumped across existence with his Chronomancy to strike him down using the cutting presence lining the rim of his Last Morsel.
+
+As the Paragon hovered here now, contemplating his path ahead, a new presence materialized beside him.
+
+It emerged as a pulse of faint blue, blending in with the azure light of his Legendary Awareness. The intruder's form was unmistakable. He was an orc, but Adam refused to shape a Shard of Exalted Flame. For he recognized this one, and he realized what that aura of magic represented.
+
+It was an act of Animancy; someone waiting for him in the real world had entered his Delve.
+
+The Culturist stood in the air, hovering between the Deathless and Adam, three in the skies above Blackedge. The Culturist regarded Adam, trying to gauge how badly damaged the Paragon was. Once more, the itch inside Adam flared, but he crushed it down as he let part of his mind sink into a meditative trance. His eyes spread, each one opening and causing more to expand beside it. It was like a hexagonal grid that spread its lines to grow the greater network, until the firmament was completely consumed from horizon to horizon.
+
+"If your question is if I'm well, then the answer is no," Adam said with a pithy tone, "but I am sane enough for the task at hand. Whatever has happened on the outside, it's given my mind stability."
+
+He looked over his shoulder and regarded the Culturist. The orc stared upon him, and though his features were almost stoic, Adam caught a gleam in his eye and tasted the posture of his body language. There was a reverence there, an awe… And surprise. The Culturist had doubted him.
+
+"So you claim," the Legendary orc said. "And to answer the question you must have, it's Uva. She completed a Delve of her own, and she is currently working to rebuild your mind."
+
+An appreciative laugh escaped Adam, one rich with affection. "I should have guessed. So all three of us went under then? All around the same time?"
+
+The Culturist cocked his head and frowned. "I didn't tell you about the Deathless."
+
+"You don't need to. I could practically feel him Delving. It seems right. He's never out of pace with us. In fact, he's always ahead. Every time he advances, the System seems desperate to pull us along, and so it wrenches us—me with my Divinity, Uva with the Outside. It's like it's flinging us down the same path, the same trajectory, the same…" Adam trailed off as he regarded the false Deathless. "…ending."
+
+The Delve-made orc looked upon his greater and grinned. Somehow, the mists allowed for that, for there was nothing malicious in a simple expression. "The Prodigal Son, veering ever further, going from one father to... Well, we can't call this boy your father, can we?"
+
+"The Challenger was no father either," the Culturist replied smoothly. "He is simply a first weapon, rich in authority and nothing besides, creating an arsenal of lessers to feed his self-regard."
+
+"Is that the lie you're intent on telling yourself?" The Deathless smacked his gray lips in an act of faux pity. "Perhaps it's just you that's the problem. Tragic little Legend, unable to stride further. All orcs, unable to stride further. Maybe it's simply because you are all unworthy of being Mythic. You fail to grasp the greater meaning ahead, the necessary fortitude to survive that refashioning. But the Challenger did. Think now, Culturist: What has he stopped you from pursuing? What has he punished you for? In truth, he has been gentle for a God of Strife. He has not scarred you or tormented you any more than your fellow orcs have. He's permitted you everything, and you still failed. Perhaps it is not the first weapon that's lacking. Perhaps it is every weapon that followed. Do not cast fault where it does not lie."
+
+"Perhaps," the Culturist agreed, humming in near-acceptance, "or perhaps it is because our design is faulty at its core. We are born from violence, we are molded by violence, and so long as that is our purest foundation, we cannot step beyond. We have no capacity for true art, for there is no meaning besides destruction, besides feeding the itch inside of us. What great works have we produced of our own? Though we have the power, though we overshadow most of our victims in terms of skill and experience, living lifetime after lifetime, we are a meaningless people. We are weapons with no true target. What war is it that we supposedly fight? What goal do we strive toward? What greater philosophy do we espouse? Destruction is not a philosophy, and neither is war, not as the ends instead of the means. With the Challenger serving as its only embodiment, why does he need a second? Why should there be another orc to take that mantle? Maybe that is why we remain bottlenecked, and maybe that is why you are as well. Adam, why are you still here? How far along the Encounters are you?"
+
+"He is the fourth," the Paragon answered. "I have not gone further."
+
+"And why not?" the Culturist asked, glancing at the immobilized and helpless Deathless with a hint of confusion.
+
+"Because he can't see through the darkness that comes with me.” The false Shiv chuckled. “He can't see through the shroud of my Intimidation and Stealth, and he refuses that limitation. Despite the terror I inspire, despite my explanation that it's not his skill that's weak, but his heart that betrays him, he wishes to push his Awareness, his Multitasking, and Meditation to overcome that which he has failed fundamentally."
+
+When Adam kept his silence and didn't reject the Deathless' claim, the Culturist bowed his head in understanding and acceptance, and then began trying to formulate his own counsel. "The fact that his skill is half rooted in Intimidation—"
+
+Adam cut him off with a raised hand. "I know, and I'm going to purge myself of it."
+
+"Of fear?" the Culturist asked.
+
+"No. Of everything. If my Awareness is to be stopped by myself, then my Awareness must exist beyond myself. It's not enough. I am not enough, but the skill should be more than who I was. In this Delve, I can work. I can boil myself until I reach a point of purity." Adam could feel himself close to rambling. With the Culturist here, something awoke his itch, and he wanted to rip into unwilling flesh once more. It was all he could do to hold himself with dignity and enforce his mental clarity.
+
+"Or perhaps not," the Culturist said, his voice almost a whisper. He was on another track of thought, and rather than rejecting him instinctively as a festering wound inside Adam began to ache, Adam listened to the orc. Despite what he was, despite the fact that the Challenger had cast him here, the Culturist had been purged of the itch that Adam now suffered. And so, it was in recognition of that and looking beyond his prejudice that the Paragon touched upon the surface of wisdom.
+
+"It may be wise of you to seek this evolution, but perhaps the way you're going about it is wrong. You think of your fear of the dark, of your friend, of death, of all the things that make you hesitate, that make you feel weak, as weaknesses, as impurities—but maybe they never were." The Culturist paused as he organized his thoughts and contemplated what he wished to convey. "Through my Meditation Skill, I learned to control my emotions. I learned to overcome my mental anguish at what I was. I rewrote my existential suffering as a joy. In my Delve, I lived lifetimes. I twisted my mind until I managed to overcome the work that I was. I thought myself happy to be at work; I thought myself happy to be a man... I thought myself many things as I contemplated the shape of my own mentality and the place where I resided in existence. But above all, I think I realized something. Something finer. Experiences are only what we use them for. We refine ourselves based on them. Traumas consume us, and they define us. It's not simply the pain of the moment or the extreme circumstances that they are born from, but how they enslave us. Right now, what weakens you may be the fact that you are letting this enslave you rather than using this to feed your own will."
+
+Adam clenched his teeth as his skull began to boil from within. "I think I understand what you're talking about, but I already tried it. I tried accepting the terror. I tried using my Meditation Skill to dull the dread. I tried all these things, but I still can't see through it. It's still impenetrable."
+
+"Perhaps because you're still trying to fight it, rather than use it," the Culturist said.
+
+"Or maybe he should die a thousand more fucking times,” the Deathless orc said, speaking like it was a useful suggestion. “Who knows? Maybe after all those attempts, he'll finally grow bored enough of me that he'll just cut me down and move on before butchering his final, lesser self, take a damn skill, and be done with it." He spoke those words with such confidence that Adam felt certain of one thing: that final Encounter wouldn't be an Encounter at all. If there was one person Adam was certain about prevailing over, it was himself.
+
+"It's not that, and it's not him," Adam said, reaching for the real words buried deep down inside of him, trying to drag out his actual fear. "It's not the darkness. It's what he represents. It's what his skill hints at. It's more than the darkness that is... The darkness that we can see right now. It's the darkness of what I don't know, of the extent of my ignorance, of all the enemies to come, of all the new traumas I must face. Perhaps I will overcome them, but can I overcome them in time? Can I overcome them reliably, decisively, within the moment allowed to me before more people die, before my town is destroyed once more, and my friends end up dead at my feet?”
+
+Adam clenched his fists. "Look down!" he shouted. "Look down!" The itch inside him grew beyond inflamed, turning agonizing, begging him to scratch, begging him to approach the Culturist and hack him to pieces. "Look down, Culturist. Look down upon what I lost."
+
+As the Paragon bellowed those words, he felt something inside him turn fragile, turn brittle, and threaten to break. The Culturist didn't judge him, not like the Deathless, who sneered and laughed. Instead, the Culturist bowed his head in an act of sympathy—and the subtle, genuine nature of that act stood testament to the Culturist’s newfound freedom.
+
+"And I think the only truth here is not found in words of pity or mercy, but in a horrible, cruel, but ultimate acceptance that things can't be made right. So many things across our lives." The Culturist lifted his hands in a gesture of greater meaning. "Even now, without the Challenger's influence, his shadow upon me still remains. I killed and tortured those people, millions across the ages. The Challenger did not puppeteer me. I decided to do it. The itch is an ever-present impulse, an anchored obsession. When there's an obsession, it defines your thoughts and consumes you. But how much of that is an excuse? How much of that is a justification? Is simply the impulse enough to make us depraved? Perhaps the answer is yes. Yet I ultimately did decide to kill all those people. I butchered many who deserved it, but many more who did not. All of that was a decision of my own volition, and that, perhaps above all else, is my sin. It is sin that cannot be made right. The taking of a life is absolute. Everything that could have been, everything that was—no more. Or that's how it seems.”
+
+The Culturist gestured toward Adam. "You torture yourself, Paragon, but to what end? Do you think that there could have been another way? That there is another life in which you could live it all again and do the right thing and save Blackedge?" He wasn't taunting the Paragon, but he was judging. "I have had such thoughts before. If only I could have known the way things would play out, I would have prevailed. If only I'd known, I could have stopped myself in some way, used the wisdom that I gained across countless lifetimes to live it all better. But is that really true? Or will we just find ourselves faced with new mistakes down new paths? I think that is more likely. I think in the attempt to escape from our original fate, we will make a new one, and we will suffer the flaws of that new fate as well."
+
+Adam saw where the Culturist was going here, but the orc was making a mistake. He was speaking from his own experience. On a fundamental level, he despised his experiences, for they were inflicted upon him by the Challenger, by the System, by the state of the world. It was the state of the world that was his darkness. It was this oppressive reality that he sought to defy.
+
+"It's not just the past; it's the fated future," Adam countered. "It's more than everything I could possibly do. Yes, I could accept this, but it's not going to change anything either, because the System... Well, it's predictable. If nothing else, it is predictable."
+
+Adam laughed bitterly. "How can we say otherwise? It wants us to struggle. It's going to make us struggle. It's going to move us down a specific path. I see it now in him!" The Paragon pointed at the orc, his finger trembling in barely suppressed bloodlust. "It wants me to kill Shiv someday when we're both at the height of our power, or perhaps at the peak of our strife, before I reach a level where Shiv cannot follow, or more likely he circumvents the System ceiling itself. It will make me kill him. It will fuel everything with all our conflict and would do it over and over again. I can see it. I can't unsee it!"
+
+And Adam got to the point of it all. "I have to rise above it. I have to rise above these circumstances. I need to be more than—" He hesitated. "I need to be divine. I have to be divine. I see the shape of my world, and it is a world of power, but with no tether to responsibility. My father tried. He still believes it will all be worth it. But the good he's done, the consequences he's borne, they're not equal to the pain he's likely caused, not nearly. He is not malicious. He tries to be a righteous man. I cannot ever think otherwise of him in spirit. But he burned a city because the Starhawk ordered it of him. The Starhawk, the God of Justice, betraying the ideals of justice when he believed he had to. If a god, even a false one, could be made to do this, then what then waits for me down the line? What then? Because I know that my spirit as it is right now is not as strong as my father's, and it cannot contend with the Starhawk’s, not after all the experiences he's gone through, not after how much his resolve has calcified. It's pure hubris to think that I alone can rise beyond that, and that's why I need to do something right now to sever this skill, to elevate it beyond myself if it's at all possible. I must do that. I must. I must find it in myself to achieve something absolute if I am to… If I am to overthrow the system someday."
+
+And somehow, while he tried to avoid the lesser hubris, he spoke a greater utterance of absolute arrogance. How could he ever contend with the System?
+
+Integration was to the Starhawk what a universe was to a microbe!
+
+Adam wasn't even a microbe right now, not even close. But his ambition, his dream, his need, had gone that far and was scarred into him. It was more than a scar. This was no reality he wanted to live. He didn't want people to suffer in this world anymore.
+
+Because what came of all that agony? More power? Power toward what end?
+
+Adam's teeth clenched, and he cut through the air with his hand, gesturing at the world below. "Look around us, Culturist! Look around! It's enough to drive me to despair! My Republic is more lich than Valor or any other Undying will be. It is the ghost of national ideals—a false faith worn by a single Councilwoman governing and herding gods that have gone senile, that have tumbled away from the truth of their Domains, that have abandoned their previous ideals by the decay of legend and time. And then there are those around me, those who escaped the Republic's depraved prison, who are surviving battle after battle. But I see what lurks beyond the veil of Integration, and it's nothing at all, nothing but madness and incoherence. It is no better than this country, nothing for the common Pathbearer to live for. What is there to be found in this nation? What is there but a caste system of blind power? What nobility? We are sacrificing children to feed a god that is but one of them. We are blowing up Master-Tiers to butcher Adepts, and then Legends casually slaughter and maim just because it suits their convenience. What true faith can be constructed from this? What reality are we living under? This is a cauldron in which we're boiling away thousands of lives without true purpose. Our power is purposeless. Our skills, these evolutions, feed our pleasure, our actualization, but where do they lead? Where am I to go if not to the absolute peak to change things?"
+
+And with every act of defiance, with every moment, Adam invoked the absolute, where his desire became more than a feeling and cemented itself as a sensation, a force—a force that trembled within, a force that lit the palm he'd placed on the Deathless in an incandescent glow that infused his Divinity as he worshiped what he was or what he would become.
+
+Absolute. Absolute. Absolute.
+
+That Divinity leaked over into his Legendary skill as his subconscious leaked over into his active knowing. He made a wish.
+
+He prayed to the System, though it disgusted him to do so, but more importantly, he prayed to his own soul. “Untethered from my own weakness so that I can bear the burdens the System won't, so I can bear the burdens the world can't. If this reality needs a tyrant, then let that tyrant be a just one. Let that tyrant be a pillar of virtue. Let this world experience a heroic age unending.”
+
+Domain Worshiped: [Heroism/Tyranny]
+
+And as Adam spoke those words, it was as if he struck a pact with an unseen god above gods. His palm grew ever wider. His Zone of Absolute Dominion went from spanning the breadth of a mountain to expanding beyond the bend of the world. It spread across all of Lost Angeles, expanding from horizon to horizon and further as his own soul awoke in a new and desperate way. More than that, however, the incandescence inside of him exploded as well, ignited as it was roused to its fullest glory. His Divinity climbed, and that colored him ever more.
+
+Adam felt a separation, one that drove him deeper into another place beyond this reality, even beyond this Delve.
+
+For a moment he flickered into a realm of mist, a realm of peace, a realm of virtue, a realm bereft of suffering, death, and destruction. It was as close to Nirvana as he had ever felt.
+
+And then he was wrenched back.
+
+He'd dipped into that pond, that internalized Domain, that inner paradise which awaited, but his enlightenment, though brief, colored him. As a dragonfly might sink into a lake, it would be drenched in the waters thereafter.
+
+When he surfaced once more, rising from that inner realm into the confines of his soul, his Legendary skill had changed. The System's rules had been overwritten, for his skill wasn't merely a thing of mortal mana anymore. Instead, a dilution of Divinity had slipped across, and that elevation, that need to transcend, passed over as well.
+
+Adam's collection of gleaming eyes began to fuse. Instead of a spreading hexagonal grid, they became a single presence, one that was projected upward from his crown. It resembled a star that hovered above his brow, and a larger sun radiated from it, becoming an all-seeing, all-piercing gaze.
+
+While the name of his Legendary skill changed, so too did the light that fell. It wasn't azure anymore; it was gold, the gold of a hopeful morning, the gold of a sun on the precipice of going nova but never truly crossing over into that point of collapse. It was a sun that glared down upon all, that pierced into all.
+
+As Adam enjoyed its sublime brilliance, he felt it stain the Culturist, burn into his soul as if applying a searing brand to the orc's flesh. Rather than being sunburnt, the orc was marked and marred in soul, and Adam felt himself aware of the Culturist forever, always, absolutely. The same applied to the Deathless, who screamed, who shuddered, who finally felt the gaze of the Paragon without any possibility of escape.
+
+And it was then that Adam felt his skills separate from his soul entirely, as a section of his soul rose up and slipped beyond this realm into a Domain all his own. It hovered above. It was a star that loomed beyond him, and as he closed his eyes, he stared down through the star as it glowed brighter, as it swelled wider, as it burned without knowing an end. That burning gaze ignited the land, and where the fire spread, so did Adam's knowing.
+
+Applying Partial Skill Evolution: Glare of Immolating Omniscience (Legendary-Standalone)
+
+But it was more than the land that burned. It was Adam himself. As he fried his body, seeing everything he once knew was weakness now was just another variable to regard, something inside his skull began to melt and sear as it failed to contain his burgeoning Divinity. It was expelled from inside of him, rejected from the base of his membrane to form a withered, burned halo. As the glistening band of matter was seared by impossible emissions, Adam reached up. He acted without knowing, while also knowing on a level so deep and fundamental that it went beyond his mind. He seized the thing that had tormented him, the thing that refined him, the thing that drove him to such need—to dominate, to control, to seek the absolute.
+
+Adam seized the Crown of the Anti-Savior, and then he shattered it in a symbol of defiance against the heavens.
+
+Mythology was the thing that echoed the past, the present, the future to come. In that moment, he became the Lightbringer, fallen from the other angels; he mirrored the sage who equaled the heavens, who defied the notions of the kingdom above to establish one all his own.
+
+It was here and now that he cemented his mythology: to defy, to decide, to usurp.
+
+He had been stained by the mythology of another, painted by the legend of Shiv, through the man himself and the Deathless orc, and from that, his fate was sealed.
+
+But from here and from now, the chains of his fetters were going to be his to choose.

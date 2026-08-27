@@ -1,0 +1,185 @@
+---
+id: a0f2ede7-778f-5acf-acd7-10fbb5b9f55a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 71: Slaying the Bear"
+slug: 0071-chapter-71-slaying-the-bear
+partOf: phoenix-ascension-cultivation-litrpg
+position: 71
+ownLength: 2420
+unit: words
+publishedAt: 2026-01-05
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2915056/chapter-71-slaying-the-bear"
+royalRoadId: "2915056"
+---
+
+So it turned out that basic Spirit Beasts could barely satiate my apetite. The Tusky Fire Boars I’d been hunting have also not given me any more Fire Affinity, or stats, for that matter. It looked like there was a limit to how many benefits I could have from low-level beasts.
+
+But if I ate enough of them, it would still satisfy my hunger, so it wasn’t all bad. The only issue was that I could not get much stronger from eating them. But that wasn’t much of an issue, since all I had to do was hunt higher-level beasts, right?
+
+I did just that and went hunting for something. I wasn’t sure what, yet, but I lay low in a deeper part of the forest and waited patiently. As it turned out, my waiting was well worth it.
+
+A large bear-like Spirit Beast walked just past me without seeming to notice me. It looked rather strange for a bear, though, as it had two large and pointy horns, claws that oozed with power, and fur that shone under the sunlight much like metal would.
+
+It looked threatening and powerful, and seemed like an apex predator in the area.
+
+It was too bad that it had met me.
+
+I snuck from bush to bush and quietly flew on top of a tree, then waited for the right moment to strike.
+
+When it walked below me, I swooped down, using Blade Wing and Flaming Talons as support. I also relied on the Assassination passive to deal extra damage if the blow landed.
+
+Just as I was sure it would, though, when my talon was only an inch away from its neck, its hand flew toward me, grabbing me by the leg and throwing me away like a kite with its string cut.
+
+I recovered and landed on my feet, but the experience was embarrassing to say the least.
+
+“What is this?” The bear-like creature asked, its speech surprisingly coherent. Besides Yo Na and a few select other beasts, like that group of monkeys, I have not seen many others speak. “A little bird? Go home and munch on your seeds and worms while I’m feeling generous.”
+
+The thing seemed rather polite, and even benevolent. If I were in its place, I would not have been so merciful.
+
+However, I could not back down. Sentient or not, food was food. “This little bird is feeling quite hungry,” I said, and my stomach growled in tandem, as if to embarrass me. It had to be intentional, right?
+
+“Hm? A carnivorous bird, well, ain’t that something.” The bear seemed to understand, as he— well, I assumed it was a he— as he got into a fighting stance. “Very well then, since you’re courting death, I will deliver you to her. Don’t worry, I don’t let food go to waste.”
+
+“That is very generous of you.” I bowed slightly as the sheen of metal on my wings reflected the sunlight. There wasn’t any need for more words; it was kill or be killed, eat or be eaten.
+
+We moved at the same time, his speed being incredibly high despite his size. I allowed him to approach me, then used Elemental Wave in tandem with Ember Step to sneak in behind him, striking at his back with Flaming Talons.
+
+He didn’t get caught off-guard by the sudden fire spreading all around his feet, and kicked back with its stumpy legs exactly where my talon would land. However, I used his paw as leverage to jump and spun, cutting with my wings across his back.
+
+A deep gash appeared, as blood seeped through his fur, and he turned, taking a large step backward before looking at me with newfound fear.
+
+“I should have known you’re no ordinary bird. Fire… you must be one of the mythical Phoenixes then?”
+
+Mythical, meaning extremely rare. He must have been quite shocked upon realising, though if he was, his face didn’t show it.
+
+“Didn’t think I’d ever meet one this lifetime, I didn’t know your kind likes hanging out around these places.”
+
+I shrugged. “Circumstances have led me here. Enough talk now.” Then I attacked before I even finished my sentence. My dexterity stat had gotten quite high, so I could move faster and maneuver better than the ordinary Spirit Beast.
+
+Of course, I doubted I would be able to beat Yo Na in a straight fight, but that was only on the basis that I couldn’t use Qi. Something which would be put to an end really soon.
+
+The Demonic Qi didn’t allow me to absorb Qi wantonly, nor use it as I wished, but if worse came to worst, I could sacrifice a portion of my dantian to escape.
+
+I hoped that would not be necessary, though.
+
+As I was thinking, the bear let out a great roar and his fur, claws, and horns began to crackle with lightning.
+
+Great, another one. I thought to myself, remembering the panther that was guarding the Qi Lake, who also used lightning, and the two brothers, who… did as well. It seemed to be a recurring element, or perhaps a sign from the heavens.
+
+I had a mind to absorb whatever blow he dealt, but I snapped out of it. I didn’t know how strong the bear was exactly, and I didn’t feel like risking it just to get some minor boost. I had the technique, so I just needed to cultivate and be patient.
+
+But I couldn’t do that on an empty stomach.
+
+A ball of purple lightning crackled between the thing’s horns, and even more intense energy gathered on its paws. It looked like it was going all out.
+
+“I’m going all out! Prepare yourself!”
+
+What a true gentleman, telling their enemy to prepare themselves in the middle of a fight… How did he get to be so strong, again?
+
+Anyway, I was already ready to dodge it, but it seemed like I wasn’t the only one with a movement skill.
+
+The bear’s figure turned into a blur, then reappeared in front of me. Lightning sizzled behind him, and I could immediately tell that the skill was the same as my Ember Step, but scarier.
+
+His paws slammed down on me, and I managed to dodge by a hair’s breadth, though the aftershock reached me and temporarily paralyzed me.
+
+That wasn’t exactly ideal, as I could barely move.
+
+[Skill: Ligthning Resistance(Novice) Acquired.]
+
+[Skill: Paralysis Resistance has reached the [Beginner] Rank!]
+
+A new skill, and a rank up to boot? What is this guy’s thunder made of? It was a little surprising that I’d gotten two upgrades from a single attack, but it did hurt quite a lot, so it stood to reason that something like that would happen.
+
+I could already feel some movement returning to my body, and I didn’t hesitate to force out an Ember Step and dodge out of the way of the bear’s incoming foot. It left a deep crater in the place where I once stood, but it was engulfed in flames at the same time.
+
+He screamed in pain as the fire spread upwards, as his fur caught on fire. The bear put it out rather quickly, but that gave me enough time to take to the sky and send a Pyro Breath raining down on it.
+
+Looking up, his expression sank, and he quickly placed his front paws above his head to defend against my attack. Phoenix Fire shot down on it with incredible strength and heat, and the smell of charred fur began oozing off its body.
+
+However, that only lasted for about thirty seconds or so, as the effect of my fire decreased significantly.
+
+Damn, what goes around comes around, huh?
+
+It seemed like he had gained the Fire Resistance skill, or worse, it had ranked up. It made sense, since I did the same not even a minute ago, but it was still annoying. Fire was my primary way of attacking, and I quite liked it.
+
+But with such a tough opponent, it seemed that I had to get in closer and personal. At the same time, I was curious to see just how much that skill of his would help him against my arsenal of skills.
+
+Still in the sky, I activated Burning Wind and set it to an adequate temperature of the ninth layer of hell. The grass, trees, and other vegetation in the area immediately began to wilt and catch on fire. Rock shattered, sending small bits of shrapnel everywhere, and the bear started to look quite scared.
+
+Even with the Fire Resistance skill, some things are just too hard to resist. Since the wind I summoned increased the temperature, that must be another set of resistance altogether.
+
+Which I was sure he would quickly acquire, so I had to move fast.
+
+I swooped down with a Paralyzing Screech, activating Flaming Talons and Elemental Wave at the same time. With my talons aimed straight at its back, and the screech giving me an opening, my attack finally struck true.
+
+Sparks flew off as my talons met its metallic fur, but I refused to relent. It seemed that he had reinforced its nape, making it so it was harder to wound than his back.
+
+That was fine, as the moment he tried to reach for me, I kicked off its back and once again attacked with my wings. Sparks flew off once again, but that time around I’d made a small cut, which I took advantage of by shooting a quick jet of Pyro Breath straight toward the open wound.
+
+He screamed in pain, well, it was more like a roar. It didn’t seem like he had enough will to speak anymore. I wouldn’t either, if I were in his place.
+
+With a quick Ember Step, I arrived right in front of him, the unexpected angle catching the bear by surprise. However, the surprise wasn’t enough, as he ignored the pain and swung his claws at me.
+
+Having expected that, I dodge out of the way, but I’d failed to notice his paw aiming for my leg. Luckily, Phoenix Reflex saved me just in time, and I dodged the follow-up strike by a hair’s breadth.
+
+However, that didn’t seem to put a stop to his plans, as he roared toward the sky and… summoned lightning clouds. Almost immediately, water began falling from the sky, evaporating as soon as it made contact with my Burning Wind. However, that made it so the overall temperature dropped rather fast, even with the steam.
+
+That was because the steam evaporated and left the area as soon as it was formed, thus taking away all the heat.
+
+The logic pissed me off a little, but there was little I could do, as before I knew it, a lightning bolt made my feathers stand on end. I wanted to dodge out of the way, but the bear, in all his intelligence, decided to throw himself at me.
+
+That surprised me, and if it weren’t for my quick use of Ember Step, then the lightning bolt would have done more than ruffle my feathers.
+
+However, the moment it hit the ground, the charred earth flew everywhere at extreme speeds. One of them managed to hit me squarely in the chest, sending me flying backward and only stopping upon reaching the base of a burned tree.
+
+Blood spurted out of my beak, which was less than ladylike, and before I had time to recover, the bear used his movement skill and reached me, then slammed his foot down on my body. Needless to say… the damage was quite substantial.
+
+[Hit points:1257]
+
+That one combination of attacks took me down to thirty-five percent of my hit points. And I had a feeling that the lightning ball conjuring in his mouth would take me down to zero.
+
+I couldn’t allow that.
+
+I didn’t have many options when it came to using my Bloodline Skills, though, so I had little choice but to risk it.
+
+Calling upon my dantian, I hastily summoned six Myriad Qi Needles. The pain from forcefully using Qi made my entire body stiff, but it was much better than dying. At the same time, the Demonic Qi took advantage of the opportunity and annexed as much territory as it could before I figuratively closed the gates.
+
+I’ll get rid of you sooner or later…
+
+While I was thinking that, I sent the needles flying toward its leg. If only I could escape his grip, then I could finish him off. He already looked quite damaged from all the attacks I’ve sent upon him, and he must not be doing much better than me.
+
+The first three needless bounced off as if they didn’t exist, but the fourth one made a tiny hole through his mental protection, and then the other two completely severed his feeling in the leg.
+
+He stumbled forward, the sudden loss of balance making it so that when he shot the lightning ball, he missed me by a hair’s breadth. Literally, the lightning got absorbed by the ground next to me, but the aftermath still managed to hit me.
+
+Luckily, the Paralysis Resistance skill did its job, and I could finally attack.
+
+“Goodbye,” I said in his last moments as my Blade Wing slashed across his stomach. I channeled a good amount of Phoenix Fire into the wing as well, burning away and cutting through the fur like a hot knife through butter.
+
+The effect of Elemental Wave definitely helped, as it increased the power of my fire.
+
+Blood splurted out from his stomach all over me, and I cut off his neck as he collapsed on the ground.
+
+It was far from a clean victory, but it was a victory nonetheless. My breathing was ragged, and I could feel my heart racing inside my chest.
+
+That was intense.
+
+I did feel a little bad, since he was one of the few who could talk, and I chose to forget the bird and the deer. But in the end, it was a dog-eat-dog world, and this dog needed something bigger to eat.
+
+[You have slain [Lightning Horned Bear] Lvl 27]
+
+[XP Acquired]
+
+[Elemental Phoenix Lvl 19 has become Elemental Phoenix Lvl 20]
+
+[Skill Points Acquired]
+
+[Skill: Blade Wing has reached the [Intermediate] Rank!]
+
+[Skill: Pyro Breath has reached the [Beginner] Rank!]
+
+[Skill: Flaming Talons has reached the [Beginner] Rank!]
+
+[Elemental Phoenix Lvl 20 has become Elemental Phoenix Lvl 21]
+
+[New Evolutions Available]

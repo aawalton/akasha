@@ -1,0 +1,269 @@
+---
+id: d3d524ad-034a-578c-8f78-d841f5795324
+page-type-slug: story-chapter-royal-road
+title: "Chapter 27: Rewards and Surprises"
+slug: 0027-chapter-27-rewards-and-surprises
+partOf: phoenix-ascension-cultivation-litrpg
+position: 27
+ownLength: 2667
+unit: words
+publishedAt: 2025-09-24
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2626289/chapter-27-rewards-and-surprises"
+royalRoadId: "2626289"
+---
+
+I decided to keep the best for last and started with the four normal cores. I placed them all in front of me, just like I’d done with the Jade Serpent cores. Sadly, I didn’t get to see what sort of abilities they had, besides the— I think— mutated evolution of their leader.
+
+All I could do was hope I would get some good rewards.
+
+[Would you like to absorb the Heavy Pawed Black Panther Beast Core?] x4
+
+“Yes!”
+
+[Heavy Pawed Black Panther Beast Core absorbed with 33% efficiency.]
+
+[+50 Qi; +2 Strength; +5 Dexterity; +1 Perception]
+
+[Heavy Pawed Black Panther Beast Core absorbed with 45% efficiency.]
+
+[+55 Qi; +3 Strength; +6 Dexterity; +1 Perception]
+
+[Heavy Pawed Black Panther Beast Core absorbed with 60% efficiency.]
+
+[+60 Qi; +4 Strength; +7 Dexterity; +2 Perception]
+
+[Heavy Pawed Black Panther Beast Core absorbed with 33% efficiency.]
+
+[+35 Qi; +1 Strength; +2 Dexterity; +2 Perception]
+
+I couldn’t help but feel some measure of disappointment. However, even with those tiny increases in stats, I could feel myself get stronger, more invigorated, more alert. It was a wonderful feeling that one couldn’t get by simply cultivating.
+
+However, why was that last one so trash?
+
+I guess I’ll just have to hope for better from the evolved core…
+
+[Ashen Heavy Pawed Black Panther Beast Core absorbed with 95% efficiency.]
+
+[75 Qi; +6 Strength; +9 Dexterity; +4 Perception]
+
+[Skill: Pack Leader(Novice) has been acquired.]
+
+[Skill: Lightning Resistance(Novice) has been acquired.]
+
+Oh! That’s surprising. I think that’s the first time I’ve gotten two skills from a single core! Can I have the descriptions?
+
+[Skill: Pack Leader(Novice)]
+
+[The Pack Leader stands strong as the pillar of their [Team]. Their presence empowers their [Team], and their [Team]’s presence empowers them. The strength of the skill depends on your CHA, [Team]’s trust and skill level.]
+
+[Skill: Lightning Resistance(Novice)]
+
+[Grants the user a passive resistance to lightning. The duration of stuns, effectiveness and lethality of the lightning gets reduced based on the user’s STR and skill level.]
+
+Pack Leader seems like it will be useful if I ever bother getting followers. The Lightning Resistance on the other hand, will be great for avoiding more stunned ragdoll situations.
+
+Moving past those exciting gains, next to check were the storage bags. I ranked them based on the cultivator level and cultivation stage, and so I started with the Qi Condensation bags.
+
+The first one to be opened was, of course, the first one I’d found in the snake’s den. It was only right.
+
+I didn’t get a prompt asking if I wanted to open it, nor any sort of System reaction. What I did was inject some Qi into it while I slapped with my talons, and information about what was inside the bag appeared in my mind.
+
+The familiar feeling filled my body with a sort of nostalgia, and I took it in for a moment.
+
+Taking a look at the contents and space of the storage bag, though, I couldn’t help but feel disappointed.
+
+Not only was the bastard the snakes had killed dirt poor, the total space was only enough to fit a Jaded Jade Serpent, which was only slightly bigger than me.
+
+Its contents were equally sad, as the only shiny thing it had was a tiny chip of an amber colored rock. I took it out, hoping for it to be what I thought it was.
+
+And it was indeed!
+
+A Spirit Stone!
+
+The lowest grade, the worst type of almost used-up Spirit Stone! But it was a Spirit Stone! A small, yet shiny Spirit Stone!
+
+I didn’t hesitate for a single moment to absorb it.
+
+[+1 Qi]
+
+WHAT A SCAM!
+
+I stomped my talon on the bag and took out everything else it had within. A rotten pill that broke away into dust, a few meat jerky that were almost rotten, and a scroll.
+
+That was by far the most interesting thing it had within.
+
+Without hesitation, I picked it up in my beak and hopped to an emptier area, then… tried to open it. Who would have guessed that talons were not the best for intricate movement, such as opening a scroll?
+
+Definitely not me.
+
+The first try ended in a catastrophic failure, as my thick talon only brushed past its seal. The next attempt didn’t fare any better either, and it somewhat felt like pushing a boulder up a mountain as I did the same thing over and over again.
+
+Finally, after grabbing a thinner stick and holding it in place, I managed to open it.
+
+Not having hands and opposable thumbs sure was a rough life.
+
+However, with the scroll opened, I could finally take a look at its contents.
+
+It was torn in some spots and dirty in others, but overall it was in a pretty good state.
+
+Immediately, it became clear that it was a map, and not just any sort of map, but a map of the continent! I couldn’t read it, of course, but the characters used to write seemed familiar, yet foreign at the same time.
+
+Regardless of that, I still knew how to read a map. Somewhat…
+
+It took me more than I’d like to admit to figure out where I was, and that’s only because I flew to literally see the geography.
+
+After doing that, I saw that everything else was not an issue. Surrounding the forest I lived in were… more forests, surprisingly. They were divided by dotted lines, and some had symbols of warning.
+
+From what I could deduce, these symbols showed the degree of danger found within. And the forest I was currently in… had nothing. That meant that the monsters in this area were trash!
+
+And I was a monster in that area…
+
+I am not trash!
+
+***
+
+After reminding myself that the people who made this old map probably didn’t know that two Phoenixes were residing within, I felt better.
+
+The map was quite handy, and funnily enough, the farther away from here, the more dangerous the area. To the north, beyond a few forests, was a huge mountain range with symbols of what looked to be ‘instant death, do not go.’
+
+I wasn’t sure what sort of Spirit Beasts resided in that area, but I didn’t want to find out. Not yet, at least.
+
+The neighboring forest had a low degree of danger, and it surrounded my territory, but there were some spots marked with a higher degree of danger. Those were lakes, rivers, or what seemed to be large caves.
+
+Danger meant strong Spirit Beasts… strong Spirit Beasts meant more levels and more levels meant… I will get stronger! Not to mention all the treasures they would have hidden away.
+
+I definitely had to go to every one of these spots and rob them!
+
+Speaking of robbing…
+
+I put the map to the side, not bothering to close it, and returned to the bags of holding. The temptation of opening them all at once was too great, but I would hold back.
+
+Next, I took the six bags from the weak Qi Condensation cultivators and opened them one by one.
+
+This time around, the rewards were much better than the first bag.
+
+As I slapped the second bag of holding, so much information flowed inside my mind that I thought I was about to topple over and fall.
+
+It was quite a strange feeling, as that had never happened before. But I could only guess it would be normal, since even after evolving, I was still just a Phoenix chick, even if my class said otherwise.
+
+That feeling passed after a moment, as my mind and spirit adjusted to it, and I peered inside the bag of holding.
+
+This bag was a degree bigger than the previous one, being able to hold three Jade Serpents' worth of space. As expected, though, due to the small space, there were no weapons— not that I could use any— but there were a lot of pills.
+
+I couldn’t tell you what half of them were for, but they were there and I decided to try them out at my earliest convenience… On a rabbit or something.
+
+Besides that, there were a few sealed scrolls, most probably cultivation techniques, which I desperately desired.
+
+I didn’t want to risk losing my eyesight while cultivating the Ghost Qi Technique.
+
+However, the massive boon it gave toward condensing my foundation was immense, and I would argue it was worth the risk.
+
+However, I didn’t know what would happen once I did reach Foundation Establishment. Me emitting some frigid Qi and my feathers becoming partially ghost-like, I could endure, but being an eyeless Phoenix… not so much.
+
+However, I didn’t want to waste time looking through every technique, so I put them to the side and looked at what I could use immediately.
+
+And those things were… of course… Spirit Stones!
+
+Of which this guy had none of! Broke! Poor! Cheapskate! How can you not even have one low-grade spirit stone!
+
+I looked through the rest of the bags, and my total haul was… five… five low-grade spirit stones from six bags of holding! I didn’t even want to absorb them…
+
+But I did anyway.
+
+[+175 Qi]
+
+Only one hundred and seventy-five Qi from five low-grade spirit stones. Sure, they were mostly used up, and small, and chipped… but still. The amount of Qi I had far exceeded those low-grade spirit stones… just how weak were humans?
+
+Sigh…
+
+I counted my other spoils and found a bunch of pills I didn’t dare ingest, a few bottles of alcohol, a bunch of scrolls that looked much nicer than the map before, and some food rations. Aside from that, in one particularly big bag of holding was a small dagger.
+
+I took it out and brought it up for inspection. It was about the length of my leg, with a rather sharp blade and inscriptions flowing from the tip to the handle. I inserted some Qi into it, as that’s what I assumed those inscriptions were for.
+
+They lit up, and not even a moment later, flames engulfed its blade.
+
+Cool…
+
+Retracting my Qi, the fire extinguished, and the inscriptions dimmed.
+
+So it’s a treasure! Too bad using it would be inconvenient, but I’ll keep it in my stash. It’s a pretty nice thing to have and may come in handy someday…
+
+With those things accounted for, it was finally time for the Foundation Establishment bags of holding.
+
+I would lie if I said I wasn’t excited. Thinking about the pills, spirit stones, weapons, even…
+
+That Hei Tu guy had two golden cores from several beasts. I don’t know how he managed to get them, but he was clearly well off. There was no way he killed a Spirit Beast two realms above him, but someone else must have done so for him.
+
+If not that, then he must have purchased them from somewhere.
+
+[Fa Xiaolan.]
+
+The system called out to me, but I ignored it. There were treasures to look at, and I wouldn’t stop for anything… except Mother. If she came looking for me again, that would be an issue.
+
+I turned my attention to the first of eight bags. The first one belonged to the shameless guy who tried to run away on a flying sword. Hmph, what a fool!
+
+I’d killed him with my Qi needles, though I didn’t expect their effective range and speed to be so high. He wasn’t prepared for it, and was also weak, so it was an easy kill.
+
+However, the mental drain of the needles and the fact that the stronger somebody got, the more ineffective they would become worried me.
+
+Though that was a problem for future me.
+
+Slapping the bag of holding, my eyes widened in surprise upon seeing just how many treasures he had. The size of it was also ten whole Jade Serpents! That was equivalent to a very large boulder, enough to store hundreds of swords stacked on top of one another!
+
+Rich, rich, rich! Foundation Establishment Cultivators are loaded!
+
+I took out the Spirit Stones first and counted them. One… two… three… six.. nine… ten! He had ten whole— albeit low-grade— spirit stones! That guy was definitely rich, definitely.
+
+I decided to keep them for later use, though. Who knew when I would need a sudden replenishment of Spirit Stones?
+
+Though the fact that System didn’t prompt me for anything cultivation-related was really strange. Maybe Spirit Beasts weren’t meant to be able to do what I am doing, but even then, some of them would surely gain some sort of sapience, right?
+
+I threw the spirit stones into a pile and looked at the other things he had. Aside from pills, food, water, and scrolls that would take way too long for me to open, he had weapons, talismans, and some sort of armor.
+
+I couldn’t use any of those, not even the talismans, as slapping them on my body would be impractical. Without being able to grab them with my wings, and also not being able to put them on my body with my feet.
+
+So many things to use, yet no fingers to use them with.
+
+I assume the pills would give me a great boost to my cultivation and also help in a time of crisis.
+
+If any of them are poison pills, I’ll throw them onto their corpses just so they know what it feels like.
+
+[Miss Phoenix.]
+
+Huh? Must have been the wind.
+
+I giggled to myself and continued on my quest to loot the bags.
+
+Unfortunately, the rest of them weren’t as spacious as the first, with only about half the total storage, and they more or less held the same thing. Far fewer Spirit Stones, and a bunch of scrolls, pills, talismans, and other things silly human cultivators need to survive while on a sect mission.
+
+It was unfortunate for me, but the Spirit Stone pile didn’t grow as large as I would’ve liked, and I had about thirty low-grade spirit stones in total.
+
+Finally, I saved what I deemed best for last. ‘Brother’ Hei Tu’s bag of holding.
+
+And it didn’t disappoint.
+
+With a storage space roughly double that of the first foundation establishment cultivator's bag of holding, he also had the resources to fill it up.
+
+He not only had fifteen low-grade Spirit Stones, but also what seemed to be two middle-grade Spirit Stones!
+
+If the conversion rate was the same as I remembered, then one middle-grade Spirit Stone was the equivalent of a hundred low-grade Spirit Stones.
+
+This Hei Tu was incredibly rich!
+
+The middle-grade Spirit Stones looked more polished than the low-grade ones, taking on an orange-ish hue within the amber, and Qi visibly swirled within as I held them close to my eyes.
+
+I had to fight back the urge to absorb them on the spot. I didn’t know how they worked, as they did add Qi to my lake— er, it looked more like a sea now— inside the dantian. But there had to be a hard cap on how much you can increase it forcibly.
+
+Spirit Stones were usually used for transactions and Qi recovery, and very rarely in breakthroughs.
+
+Their effectiveness also diminished the more you used them to fill up an already full dantian, so there wasn’t much of a point in wasting them like that.
+
+After placing those large amounts of Spirit Stones into the pile, I sorted through the pills, weapons, and everything else I couldn’t use, looking for beast cores.
+
+However, no matter how much I searched… There was nothing! He only had the two golden cores and nothing else!
+
+“Broke bastard!”
+
+I spat on the ground and pulled my consciousness away. However, right before turning to the golden cores, something that had been hidden away grabbed my attention. From the depths of the bag of holding, what looked to be a seed did its best to hide away from my Divine Sense.
+
+“Oh?”

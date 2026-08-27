@@ -1,0 +1,205 @@
+---
+id: 751223a2-54f1-5430-9c84-558f3fcf1bd3
+page-type-slug: story-chapter-royal-road
+title: "399  The Right Tools [III]"
+slug: 0514-399-the-right-tools-iii
+partOf: path-of-the-deathless-book-4-completed
+position: 514
+ownLength: 4411
+unit: words
+publishedAt: 2026-07-04
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3632551/399-the-right-tools-iii"
+royalRoadId: "3632551"
+---
+
+Gate Piety is a complete madhouse. This is my final assessment after the near-month I have spent here. This is the only assessment the home office needs. New Albion is to, in my humble opinion, never, ever, ever attempt to seize or subvert this Gate.
+
+Words alone cannot describe how volatile this Gate is. Ever since I arrived here, it has undergone crisis after crisis, and I have drafted report after report, only to scrap them because the situation at hand grew a magnitude more severe before I could send them in.
+
+This is a Category 3 Gate. It should have fallen on the first day. It should have fallen when the Vulteg invasion occurred. It should have fallen when the Deathless decided to strike a pact with the Challenger and become Vaketh-Insul. It should have fallen during one of the many First Blood invasions. And it should have fallen a thousand other ways since then.
+
+But it hasn't. Against all odds, against logic and reason, it has not. Instead, it has only grown stronger, as have the people inside it. As of right now, I too have been contaminated by the Deathless. I have encountered more life-threatening situations in this brief period of my long life than entire decades of active operations prior.
+
+Somehow, Gate Piety is amassing a collective of Unique and Legendary pathbearers, while also proving to be an incubation spot for Eldritch gods. One of which, I am convinced, is evolving into an actual god, usurping Longinus the Wanderer's place in the Auroral Pantheon. I know I have raised this matter in a prior update, along with the Gate’s intentions to form a coalition against the inevitable Incursion that is approaching at a rapid pace due to the Deathless' constant escalatory growth.
+
+As of right now, I believe we should consider the date provided by the notification to be completely unreliable and prepare for the Incursion to arrive within the next year or less. The Deathless has completed another Delve and gained a Legendary Toughness skill, and apparently a Unique one at that. I cannot claim to understand this skill yet, but I do know that he completed his Delve in approximately eight hours. An alarming feat to say the least.
+
+And it is because of this that I must, for the interest of Throne and people, provide this plea. This desperate begging plea.
+
+We cannot recruit the Deathless. We can manipulate him, obviously. We can direct him. But he is never to be recruited for New Albion. He is a double-edged sword that cuts both ways in the extreme. The only reason why he hasn't severed himself from life entirely is that he is meant to die and come back.
+
+It is not a matter of training with him. It is not a matter of reconditioning. It is not a matter of control. There is no controlling a bomb. There is no controlling the wildfire that spreads and grows every time it goes off, becoming more and more powerful, more and more devastating. There is no controlling the Deathless. He is a calamity embodied. He is a cataclysm in the flesh. He can be reasonable; he can be personable; he can be talked to, but he will always bring destruction.
+
+It isn't even of his volition. The System doesn't seem to know what to do with him. It keeps trying to remove him. It keeps trying to challenge him with escalating levels of strife, but he does not die. With him here, with other likewise extremely favored Pathbearers around him, I fear the flame of the System's affection will only burn more intensely inside of him, and if we are to bring him to New Albion, it will see us all consumed.
+
+And understand this: Though you will gain the benefits of his favor, you must pay the debts as well. One mistake will see you made dead and him made stronger. New Albion cannot survive him indefinitely. The lifespan of Gate Piety might be precarious, but the Deathless is another question entirely.
+
+I—As I am drafting this update, both Uva Mettabon and Adam Arrow have begun their own Delves. Furthermore, the gate's mana core has been infested by Outsider mana. If no further message arrives within the next two days, Gate Piety has likely collapsed and everyone within, barring the Deathless, has died. If he is to be deprived of his close companions and community, then I beg of you, deploy all assets possible and eliminate the Deathless, no matter the cost. He will not simply consume New Albion; he will consume our entire world; he will consume everything. If not, stop now. I have no means of seeing him controlled. I have no strategies.
+
+Using maximum offensive field power is the only reliable solution I can imagine, and even then, that is predicated on us eliminating him before he exceeds our collective capability.
+
+Again, do not consider him an individual. He is not a man. He is simply a slow and patiently growing Tarrasque.
+
+—“Five of Spades” (Emergency reactivated Raven)
+
+399
+
+The Right Tools [III]
+
+Andra's Legendary Cryomancy cracked and then shattered in an instant. Her midnight frost succumbed, swallowed by Uva's corruptive magics and transformed into a conduit for the Outside to break free.
+
+Millions of tainted threads spread through the breaking columns of ice, devouring the crystallized mana instead of letting it descend as fallen hail. An explosion of fractured spiderlings tore through the air, flung into the distance like rain whipped toward the horizon by a hurricane. What followed was an even heavier impact; out of serving as a final dam, the Outsider magic she kept at bay erupted upward like a volcano finally bursting through its cap.
+
+Instead of two separate beams, a single column of Eldritch mana rushed upward and slammed into Shiv and Marikos both like an ascending fist seeking to punch through the heavens themselves. Both of them braced themselves as the flood came forth—twin juggernauts anticipating obscene turbulence.
+
+But even with might mustered and bodies tensed, they underestimated the sheer power of what they were forced to contend with. Shiv buckled immediately, launched back like a log carried away by a tsunami. Marikos held his position, but that was all he could do. Advancing grew impossible, and he howled with outrage and pain as his armor was pierced and his scales were flayed. The spiderlings betrayed their namesake and became as if a horde of locusts, shredding through Marikos as they started burrowing toward his organs.
+
+They attempted to do the same to Shiv—and experienced the inverse fate. They were glass daggers dashing themselves upon an adamantine wall. His Scarforged shell flared silver and platinum with every hit, but took no damage, for it had already adapted in opposition to cleaving trauma.
+
+Yet what both Shiv and Marikos failed to resist was the mana that crept through them. The former fought it off as much as he could using explosive bursts of his Nihilist; the scintillating flame lasted for a spark before it was overwhelmed and doused. Though a Unique skill capable of kindling itself from philosophy, it alone was not a match for an Eldritch dimension spilling over into reality.
+
+A sphere of blinding flame expanded out of Marikos, incinerating spiderlings and sparing him any further harm. Yet the Eldritch mana washing over him infested his magics, and soon new nightmares assailed him from all sides, erupting from within his body. The Dragon-Knight snarled as hands of absolute darkness exploded out from bleeding gashes lining his flesh. “Away! Out of me, vermin! Face me true, blade to blade, spell to spell! Face me if you have any honor!”
+
+Marikos' fury was pure and true. It was also incredibly stupid. Shiv looked on briefly, flabbergasted that he was genuinely attempting to shame an onslaught of nightmare creatures into adhering to the norms of combat.
+
+Angling his tides, Shiv tried to get to Marikos, battling against the riptide of unnatural magic. Caught dead within the current, Shiv could feel how the mana was bending. It wasn't shooting straight up into the air anymore. Instead, it was arcing, and the insides were made up of countless threads, so thin they were finer than hairs. He could describe the torrent as a flood no longer. It was more like ten million razor-sharp webs ripping through him, cleaving into him both magically and physically. While Shiv was materially indestructible, the weeks' worth of Shapeless Tides he'd accrued were down by forty percent. His Magical Resistance would succumb soon. After that, death was certain to follow not only for him but also for Marikos—
+
+Something slammed into Shiv from behind. It barely moved him physically, but it rattled all his skills and caused a sudden whiplash to go through his tides. He found himself unable to control his Physicality; his strength was pulled in all directions, vectors scattering as his body twisted. Shiv's shoulder and legs should have snapped out of their sockets; his neck should have been broken, but his Scarforged body refused to accept the damage. The sudden transition from a slashing form of trauma to contusions and muscle tears caused his shell to adapt, and once more the spiderlings came, burdening him with a surge of weight.
+
+But the spiderlings didn't last long either, and neither did the other horrors leaping out from the accelerating nest of Eldritch mana. A chain of arrows struck their targets, the first detonating around Shiv to create a zone of unstable mana. His mana fields went haywire at the same time as the Eldritch tide crashing into him; all forms of magic lost control, straining, rupturing, and collapsing on themselves. A series of explosions followed, ripping stable pockets in midair.
+
+Said pockets were chained together, expanding enough that they created a horizontal channel through the inverted waterfall of Outsider energy bound for the mana core.
+
+A rain of translucent arrows then cleared the spiderlings and other horrors of consciousness. They were not destroyed physically, but they fell like marionettes with their strings cut, tumbling lifelessly through the air. A reprieve followed, with both Shiv and Marikos unburdened by attackers and dimensional energies.
+
+In that instant, the top of the Last Morsel’s lid burst apart in a spray of black smoke, revealing the hastily cooked meal within. He didn’t bother studying the dish at all—just dumped it into his face in a desperate rush to consume whatever boosts it conferred. His helmet opened, and instead of plunging into his mouth, the food splashed into the manifested Vitae making up his Severed Shadow.
+
+Cook the Uncookable Activated
+
+Taintburner Obtained
+
+Your Nihilism Be My Hearth, My Banquet Skill has been boosted.
+
+You have developed temporary immunity to the She Who Taints the Heavens Feat.
+
+Another arrow hit Shiv, this one carrying a telepathic call dispatched by Roland: “Shiv, get yourself and the dragon out of there. The Eldritch mana is blasting through you. There's no point in holding your position anymore. Time to adapt.”
+
+Shiv was more than inclined to agree. In fact, Roland’s flexibility was a most commendable martial philosophy—more and more, Shiv saw being a creature defined solely by brute force to be a humiliating limitation. Why, compare Roland to Marikos, and while the latter was a proper Legend, the former is a truer Pathbearer—a more effective warrior. Such a thing—
+
+Shiv was jolted out of his sudden philosophical musing as his body exploded into a threaded nest of scintillating flames.
+
+A panicked growl exploded out of Marikos. “Friend Shiv! Endure! I will see the flames assailing you extinguished!” He then performed a series of desperate gestures in Shiv’s direction, trying to trace a series of Pyromantic spell shapes using his mace and shield—but failed every time as the mana burst apart as unstable bubbles. “What?” he bellowed. “What is this? Has the foulness of the Outside compromised even my Pyre?”
+
+It seemed that Marikos' emotions and intellect weren't the only things that were blinkered. His Awareness was also stunted, dramatically so. Or perhaps he was so deep in the throes of the struggle that he didn't notice Roland's arrow striking him, establishing a sphere of destabilization.
+
+Once more, the lamentable mindset governing his form lay itself bare. Truly, Sir-Legend Marikos was a tragedy in motion. This was not how a proper Legend was supposed to be.
+
+“Or maybe it is,” the Nihilist whispered, crackling within and around Shiv. The flames hissed closer than ever; they felt more like Shiv’s skin than a mana field he could conjure and kindle. Then, Shiv realized the skill was clinging to him. More than that, it was made up of snaking threads of shifting color—the kaleidoscopic resplendence representative of the Dreamtaker’s realm and Uva’s inherited power.
+
+The burning fibers anchored both the Nihilist and Shiv in the same body, and while all his other magical Skills unraveled to become misshapen creatures harvested from someone’s strangest nightmares, Shiv’s body and Pyromancy suffered the effects of Uva’s taint no longer.
+
+Wait, I didn’t include you in the meal I cooked earlier, Shiv thought. I scooped a chunk out of the ice to harvest Uva’s corruptive Feat—oh, felling hells, I forgot I left a chunk of Nihilism inside earlier. He had intended to eat and test the effects that came with cooking a portion of his Pyromancy mana, then left a slice of it inside his Last Morsel and cooked it again with this new meal. Broken Moon, I need to improve my Memorization.
+
+Inertial Overdrive 372 > 375
+
+“I’m fine!” Shiv shouted, projecting his voice at both Marikos and Roland. “I’m not burning: I’m temporarily immune to being tainted right now. I’m going to see if I can burn some more corruption away. Maybe swim up to the mana core and try to help there with my Severed Shadow. Moving my other in-Gate bodies up to deal with any Outsiders around the administrative buildings. Marikos! Need you to start smashing Outsiders instead of trying to block an ocean right now! Roland—come up with a better plan, because I’m just making shit up right now.”
+
+He didn’t wait for the others to respond. Instead, he pointed his Tides upward and flung himself at the mana core. It was as Roland said: the amount of mana coming his way was too much. He didn’t have nearly enough tides to hold all that back, so he was going to swim with it instead and see what he could do from the inside.
+
+For a half-second he tore through the air like an artillery shell, his inertial sheath thundering with building momentum. Then, his speed went exponential as the pillar of Eldritch mana blasted through him—and injected him straight into the mana core before he could react.
+
+***
+
+Roland would have commanded any other Pathbearer to fall back, would have fired a dimensional arrow and wrenched them off the field forcibly to save their life. The upswell of Outsider energy was an active anomaly. No one really knew what it did aside from Hymn, and even the Phoenix Academy Headmaster was scrambling to complete an emergency gambit rather than providing a certain solution.
+
+But Shiv wasn’t any other Pathbearer. Acts of suicidal fearlessness came with a reward of levels and evolutions rather than a final end or permanent injuries.
+
+Roland looked on, speechless, as Shiv's Severed Shadow vanished with a rising wave of colorful mana. Without Uva actively holding the dimensional energies back, the column erupting out of her grew to be a kilometer wide and traveled through the sky at dizzying speeds. Its increase in size ground into the platform holding up the surface district, bending and breaking structural supports.
+
+An entire city-grid began to tilt. Hundreds of voices rose in pitched screams. Roland gritted his teeth as he shifted his spare levels into his magical skills to fuse Dynamancy.
+
+“No! You focus on the Outsiders! I’ll hold the district up!” One of Shiv’s physical vessels blasted past Roland, lurching toward the horizon as a corona of wind and shimmering mana folded around him. He didn’t fly so much as he forced himself to fall faster along a certain vector via his Shapeless Tides—and such was the reason why Roland entrusted the task to him.
+
+A skill that offered some level of tactile telekinesis made a Pathbearer immensely useful when it came to holding massive objects together. The gravity control offered by Dynamancy still required an extraordinary amount of focus and attention to wield. If a spell failed to take into account one square centimeter of pressure, then a hole would be threaded through whatever you were trying to hold up, and its destruction would likely follow.
+
+Gazing down at the Gate using his God’s Eye View Awareness Skill, Roland was surprised to find Can Hu already on site and in position with a formation of volunteer Geomancers. The Penitent rose, soaring up into the air with a plume of thruster emissions trailing in its wake. Can Hu’s body gleamed like a polished blade even in that bleak and enshadowed light. It moved faster than ever before, and for a moment Roland’s gut tensed as he prepared for something in it to break.
+
+Yet, Can Hu didn’t. Its body endured—and performed.
+
+For all the Challenger had inflicted upon Adam, he lived up to his word when it came to restoring the Penitent. He reforged Can Hu from matter Roland—nor anyone else—had ever seen. Now, it was far closer to its old self, slowly beginning to add pieces and modules to its frame.
+
+Just as Shiv’s physical body arrived on scene, Can Hu slammed against the bottom of the district and sent a pulse of stabilizing Geomancy through the architecture. The anchored supports within the district quivered as an unseen power pulled them away from the danger zone—and then saw them melted down and reconstructed to accommodate the upper grid's new weight distribution.
+
+At the same time, Can Hu ejected a series of drones from its chassis. They expanded out in a wide net, each one projecting a beam to the other as they magnetized themselves to the underside of the district and fired their rockets—helping re-till the unbalanced platform. This bought enough time for Shiv to get in position and lend his prodigious strength to Can Hu’s efforts. At the same time, the Geomancers below cast crude formation spells in concert, hammering further reinforcement into the material structure holding the surface district in place.
+
+In less than a minute, the district went from being on the verge of collapsing to perfect stabilization.
+
+But I'm still going to see that district redesigned later, Roland thought to himself, shaking his head in disgust. Unless every citizen is naturally capable of flight, there's no reason to have aerial platforms. If the Gate’s mana is fully compromised or the platform simply collapses, everyone on there dies.
+
+But the time he had to gripe about the Vulteg's architectural choices was interrupted as a horde of disgusting monsters slipped free from the Eldritch column emitted by Uva. Roland felt his skin crawl as he glimpsed centipedes with hundreds of faces along their backs, each one screaming.
+
+He forged a psychokinetic arrow and fired once, twice, thrice, and then his hands blurred; his arms multiplied, going from a set to four, sixteen, and then more. His bow grew larger as well, its fiery string burning brighter and harder. Its residual divine mana was still active, even with the Starhawk absent.
+
+Before Marikos and any of the Descenders could react, Roland cut down the first wave of Terrorspawn, and then the next wave, and the wave after that. He saw them exactly, sensed them using his God's Eye View, and decided to serve as the first means of defense, with everyone else operating as emergency reserve to respond or plug up any breakthroughs.
+
+At the same time, Roland poured levels into his Golemancy and started firing unique arrows into the ground. Rather than striking Outsiders, columns rose, each one a totem spawning flying hawks forged of different magical skills. They fought without Roland's guidance, but they already knew what they were destined to do. He saw through them, thought a single command to strike down anything that came within their vicinity. As they sprouted like teeth from the earth, facing the Eldritch pillar that curved through the air, they bombarded the Outsiders with swarm after swarm, establishing an emergency perimeter against the incoming beasts.
+
+Thus far, the Terrorspawn fell like chaff. Though they were disturbing to look upon, they lacked Physicality, Toughness, and Magical Resistance, and their speed was only slightly greater than an Initiate's as well.
+
+But they had numbers, endless numbers, and they kept coming more and more. And as time ticked on, Roland felt their strength grow. It was a gradual thing, but some of them weren't outright obliterated upon the first hit. They had lingering bits of matter left over, splattering down on the ground if that was enough. These Terrorspawn were leveling as well—and then there were ones that weren't possessed of bodies but were sculpted from living concepts.
+
+This was why Roland targeted their mind. If they were molded from Uva, then they doubtlessly carried aspects of her Psychomancy within them—and almost nothing could function without a guiding intellect.
+
+Thus far, the situation was stable and contained, but the Eldritch column grew with every passing second, swelling wider by the centimeter, and ever more Terrorspawn came charging forth. Roland knew better than to underestimate numbers, for quantity had a quality all its own, and there was a point when even a Legend could be swallowed by an endless onslaught of fodder.
+
+“Master Arrow,” Hymn’s voice suddenly sounded in the back of Roland's head. “How is the situation on scene?”
+
+“Stable for now, but not ideal,” Roland replied. He winced as a mess of blood exploded out from the ground—animated, blood-sputtering eyes and mouth along its fluid pools, howling hate at the world as it tried to gush toward the Perch in the distance. It was promptly unmade as a building-sized arrow struck it, unleashing a flood of Pyromancy that scoured the area clean. Roland noted the shooter, a dragoness wielding a greatbow, and made a note to himself to offer her his thanks later.
+
+“Never mind, not entirely stable. The Terrorspawn are moving underground as well.” Roland sighed. “I should have anticipated that.”
+
+Hymn hummed in response, and then came a wall of Psychomancy that washed over Roland and everyone else in the area. “Worry not, I’ve shared the problem with the Descenders. They should be able to play whack-a-mole while we concern ourselves with solving the problem. Speaking of, is the Deathless inside the mana core or has my Awareness decided to play a trick on me again?”
+
+“He’s—” Roland blinked. “Play a trick on you? Again?”
+
+“Oh, yes. My Awareness Skill really doesn’t like me. It’s trying to unlatch from me even now. It deceives me sometimes, so please be honest so I can torture the Fingerling I have bound to the skill back into compliance. We really can’t afford any confusion right now.”
+
+“No,” Roland answered, though he was scarcely able to believe it himself. “He’s inside the mana core. He shouted something about trying to burn the taint after combusting.”
+
+“Combusting?”
+
+“Yes. He ate something from his frying pan—I think he’s temporarily transformed.”
+
+A brief lull followed as Hymn failed to process that information. “I dislike it when people act stranger than I. It gives me an inferiority complex. As such, I will be joining him in the mana core to direct the overflowing Eldritch mana through the surface gateway to alleviate my inadequacy.”
+
+And now it was Roland’s turn to feel his neurons misfire. “You’re going to what?”
+
+When Hymn didn’t reply, Roland realized Hymn was already gone, and that all the High-Tier Pathbearers in this Gate were insane. Everyone but Roland, Valor, and… Oh, gods, the Culturist was among the saner personalities present.
+
+Starhawk… I’m the straight man again. Roland sighed. I hate being the straight—
+
+“Roland.” Without forewarning, without hesitation, the Starhawk’s presence descended, manifesting behind Roland in a flash of flaming wings.
+
+The Dread Horizon’s body tensed—but he never stopped loosing his arrows. Years of combat taught him to be shocked and effective at the same time. “My lord. You return.”
+
+“I… do. I heard you, Roland. I heard you, but I… I couldn’t… I couldn’t face you. I couldn’t face myself. My Domain was damaged—I gave myself to violence. I couldn’t face myself.”
+
+“No,” Roland forced himself to say. The anger and grief inside him boiled, but Roland buried the pain deeper. “No time for that. Right now, I need you to help me save this Gate—and Uva.”
+
+The Starhawk went quiet as he took in the rising eruption of Outsider magic. “And how did this occur—” The Ascendant of Justice went quiet as another individual teleported next to Roland in a flash of incandescent mana. The Dreamtaker appeared with a regretful expression on her face and waved at the Starhawk and Roland. “L-Longinus?” Thaen choked.
+
+“FUCK NO!” The Dreamtaker screamed directly at the Starhawk, grabbing his incorporeal manifestation by the shoulders. “I mean—eh, no. Well. A bit. It’s hard to tell sometimes.” She opened and closed her hands a few times and sighed. “Having a body is very strange and interesting.” A faint smile blossomed on her face. “This meat can dream. It’s very wonderful. But also itchy all the time. And I have holes I don’t understand, and they spill sometimes when I get nervous-tense. Also, Uva is very mad at me because I did a fuck—so I need your help.”
+
+An uncharacteristic squeak or groan of mental anguish escaped the Starhawk, and whatever Roland’s misgivings toward his god, this he understood. “Later, my lord. We can face the fact of… her later. Right now—”
+
+A deafening crackle tore through the world, and the atmosphere grew dense with pressure.
+
+Warning: Gate Piety’s mana core is at risk of imminent mana overload.
+
+Warning: Gate Piety’s mana core has been contaminated by [unknown] mana
+
+Warning: Gate Piety is at risk of complete dimensional collapse.
+
+Then, a second crack followed, and the mana core began spraying jets of bright-red Vitae from the various fissures lining its surface.
+
+“Sometimes, it feels like we never escaped the Stranger’s Garden at all,” Roland deadpanned, existential exhaustion overtaking him.

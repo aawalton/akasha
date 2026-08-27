@@ -1,0 +1,199 @@
+---
+id: 513c2c36-9b78-505a-b5f5-5f9475c93dbe
+page-type-slug: story-chapter-royal-road
+title: "Chapter 93: How Interesting"
+slug: 0093-chapter-93-how-interesting
+partOf: phoenix-ascension-cultivation-litrpg
+position: 93
+ownLength: 2871
+unit: words
+publishedAt: 2026-02-25
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3092782/chapter-93-how-interesting"
+royalRoadId: "3092782"
+---
+
+Shu Wao Tu had seen death before that day. He saw his mother commit suicide before his very eyes and saw his relatives die trying to protect him from ‘bandits’. He killed Spirit Beasts, of course, but he’d never seen… death.
+
+It was painless, swift, without a trace and without any killing intent. It just was.
+
+There was no better way he could describe how the man fell, and how easily the woman swept away the blood coating her sword.
+
+She looked at the boy with a cold gaze, then she moved. Before Shu Wao Tu had known it, he was in her arms and getting carried away from the wall to the opposite side of the room.
+
+In almost that same breath, the place where he stood had gotten penetrated by half a dozen arrows.
+
+They are so brazen! He thought while being put down next to his sister, whose eyes were closed. That’s for the better.
+
+“Stay here.” The woman said clearly without any hint of sutter or drunkenness. It was as if she was faking her state before, or had sobered up instantly the moment death was clutching upon her.
+
+Either way, Shu Wao Tu could feel a distinct aura coming from her. She wasn’t a simple cultivator, and far beyond his realm. The aura the woman exuded was that of a Foundation Establishment cultivator, someone who could flick her finger and blow his head off.
+
+He couldn’t be sure of the assassins, but he believed that they should be about the same level. If Chiao Zhen hired men of such strength, then he was really desparate. Shu Wao Tu could understand, but why had he done it while inside the village?
+
+Was he unsure that the two of them would leave, or was he scared that they would travel with the psychotic woman? If that was his train of thought then it made sense, but to hire such overwhelming strength against two children?
+
+It was infuriating.
+
+He clenched his fists and peered over to the window, and his eyes widened.
+
+On the roof opposite their building were seven people, six with bows and daggers, and one with a large spear. They were watching inside the building, and the beautiful woman was staring them down with a death glare.
+
+“She better buy me some wine for this.” She whispered under her breath and vanished from Shu Wao Tu’s sight. The only things remaining were a few illusory butterflies that disappeared as he turned to look at the unfolding spectacle.
+
+A movement technique?
+
+It had to be, because such speed was hard to reach naturally. When he looked at the seven men again, sparks were flying, arrows were wooshing, and tiles broke off as they fought.
+
+***
+
+Shang Hue didn’t know why that woman dropped her off with two children, but she was interested to see what was going to happen, so she played along. Truthfully, it took her all she had not to burst out laughing when the little girl started scoling that boy, who was unlawfully crushed by her weight.
+
+She found it funny though, so she didn’t mind staying like that for a while. However, since the little girl woke up due to the commotion he caused, she decided to get up and just stay near the window.
+
+She figured that whatever those two were doing there wasn’t something that could be easily revealed.
+
+Shang Hue had sensed the presence of those assassins right after the woman left her there. Without knowing when they’d arrived, it would have been difficult to know if the woman revealed these children’s location or if they were waiting for the right moment to strike.
+
+Either way, she found the situation interesting.
+
+Interesting, that was her most favourite phrase ever since she was a child. There were a lot of interesting things, but the more she grew up, the less interesting things became. At some point she’d realised that the most interesting things were people.
+
+That’s why she went out into the Hu Village and didn’t do anything when the men assaulted her. She wanted to see what would happen. For that same reason, she invited the woman to the restaurant and flaunted her wealth.
+
+She hadn’t been disappointed, though. Even though the woman didn’t speak a lot, her actions were very interesting. Eating enough for ten people was not all that surprising, but drinking so much alcohol and not getting drunk was.
+
+Shang Hue, had, of course, gotten drunk— truly drunk— to see what was going to happen. She’d expected to be dropped off somewhere, or to sleep in the woman’s bed, or maybe something else that she could consider interesting.
+
+However, the last thing she’d expected was to be thrown on a kid who barely had the strength to breathe under her weight, who were in turn followed by eight assassins at the Foundation Establishment stage when they barely entered the Qi Condensation stage.
+
+Interesting. She thought while slicing off the neck of the man who tried to kill her just because she was standing there, and she also found the boy’s instincts to protect his sister interesting.
+
+He wasn’t strong, far from it in, in fact, but he reacted to the throw of someone more than an entire realm above him almost instantly. She could tell that he had talent.
+
+The little girl wasn’t without her strengths, but she’d yet to be tempered by the winds of the world. If that woman was guarding them, then there had to be a reason for it.
+
+She probably wasn’t expecting the commotion we made to lure the assassins right where they wanted to be, though, so I can’t fault her for that.
+
+Part of Shang Hue wondered what would have happened if she didn’t protect the two and let them die. How would the woman react? What sort of doom would fall upon the Hu Village?
+
+It was, of course, something that she wouldn’t allow to happen. She was not a monster. Children had no fault and sending assassins after them was the act of a coward. Shang Hue herself would castrate him or her and left them to suffer for the rest of their miserable lives if she could.
+
+But she was of the Sheng family, so she still had an image to uphold. Killing a few bugs, though? Easy.
+
+The first one was a Middle Stage Foundation Establishment cultivator, his speartip oozing with poison. She didn’t care, though.
+
+Shang Hue weaved a few hand signs and her figure disappeared into a blur. To give the man credit where credit was due, he took several steps back and barely dodged the sword strike aimed at his back.
+
+Before she could follow up, another half dozen arrows shot toward her, and she disappeared again as they hit nothing but empty air.
+
+The technique she was using was called ‘Wings of the Butterfly’, a movement set taught by learning the ‘Butterfly Sovereign’ cultivation technique. It was unique to her Shang clan, and few managed to master it as well as she did.
+
+However, whilst it had excellent mobility, it lacked in fatality at the early stages, so Shang Hue didn’t have any killing moves besides the basic sword mastery taught to her by her clan. That weakness of the technique was known and many tried to fix it, but no one ever managed to create something suitable.
+
+The technique’s killing powr came at the Golden Core Stage, but that was something so far away Shang Hue did not think about it. What mattered the most was taking care of those assassins and seeing what the woman would do next.
+
+Of  course, killing them was easier said than done. They were assassins after all, and even if the first one had been clueless enough to die unceremoniously, the rest would put on a serious fight.
+
+She used the movement technique again, each step she took leaving behind one to ten  butterflies that served to distract and create the illusion of vanishing.
+
+Shang Hue wove through the assassin, reaching the one at the furthermost back and tried something she was meaning to since she’d discovered it.
+
+A way to achieve killing power in the first realms of studying the Butterly Sovereign technique.
+
+A sword art.
+
+“Butterfly Sovereign first form, Shapeless Wings.” She whispered under her breath and spun the blade away from her, imbuing Qi into it as illusory butterflies formed on the tip. However, before she could actually cut someone with it, the butterflies exploded, blowing her away from the assassins.
+
+“Damn it!” She cursed and turned the sword back the right way, then used the basic hack and slash techniques she had accompanied by the movement technique. The closest archers had switched to their daggers, and dozens of blows had been traded in a short amount of time.
+
+The furthermost archers created even more distance, while the spear-wielder made strades to reach her as fast as possible.
+
+Shang Hue grew increasingly frustrated with the lack of killing power, but there was very little she could do about it. Many of her elders had tried, so what qualifications did she have to try and create something they couldn’t?
+
+That didn’t stop her from trying, still, but now wasn’t the time to experiment.
+
+The assassin closest to her had suffered the most injuries from the explosion, though they were minor. Shang Hue stepped back, briefly disappearing from sight, then reappeared in front of the wounded assassin and attempted to drive her sword through their stomach.
+
+That blow got deflected, though, however in that same instant Qi travelled up her sword and into the tip, then exploded into a beautiful show of flying pink butterflies.
+
+Shang Hue was unhramed, while the assassin’s arm had gotten anihilated from the intense force.
+
+Might as well use what I can. Shang Hue thought and stepped back, discarding her now destroyed sword and pulled out another one. She had quite a few of those, but didn’t like the idea of destroying money.
+
+Still, that put the assassin out of commission, more or less. She wouldn’t let them live, of course, but it was less pressure that she had to worry about.
+
+After kicking the shocked assassin off the roof, she moved on to the next one. However, the explosion trick would not work again. They’d seen the power of the explosion and were thus wary of it.
+
+Shang Hue didn’t mind that though, since she didn’t plan on blowing them up anymore. She was rich, but she couldn’t afford to explode so many swords before her father would ask questions.
+
+Instead, she fought the same way mortal men fought— Steel upon steel.
+
+She rushed toward the closest assassin, but they took a step back and suddenly, three others surrounded her from all sides. Shang Hue’s Divine Sense scanned the area, pinpointing their exact location without look at them directly, and attacked.
+
+Once again, she disappeared from sight and appeared in front of the first assassin she targeted. Their dagges were at the ready, deflecting her first two strikes. However, with both hands occupied with the one sword, they left themselves vulnerable to other types of attacks.
+
+Shang Hue’s hand shone with a pink light, and when she waved it, a simple Qi attack flew toward the assassin’s stomach. Panicking, they tried moving to the side while holding her sword at bay, however it wasn’t so easy.
+
+Shang Hue was about to kick them off the roof, but before she could evne raise her leg, the cold glint of no less than six daggers headed toward her back. Without any choice, she retargeted her leg and swiped a Qi infused kick toward the backstabbers.
+
+It had no power behind it, but the illusory butterflies and bright light was enough to confuse the assailants.
+
+What did have power, though, was the swish of her blade that struck at the assassin she’d attacked first. It missed any vital points, but they ended up in a similar situation to the first one.
+
+With one less hand and a quick kick to the side, they flew off the building, out of comission.
+
+Two down, five more to go.
+
+***
+
+It would have taken her less time to get rid of the assassins, but they were all skilled in their own right. They were all mostly proficient with bows, so after seeing that she could anihilate them in close combat, they took the best approach for them and made some distance.
+
+The only one who could take her on in close combat was the one wielding the spear, who was clearly a man judging by their build. He didn’t speak, but approached Shang Hue on the roof and readied his spear.
+
+With four bows pointed at her, she had to be careful of how she fought, and had to keep her Divine Sense sharp. That took a huge mental tol, and her limited Qi reserves also didn’t help in that regard.
+
+For the first time since the fight began, Shang Hue asked herself if she hadn’t gotten herself into more trouble than it was worth. But even she found the situation interesting.
+
+“Interesting.” She said as much, looking at she could only guess to be leader of the assassins. He didn’t reply, but looked at her with a questioning gaze. She didn’t elaborate, and attacked.
+
+The man saw the sword slash toward him right as she re-appeared in front of him. Scoffing, he raised his spear and stabbed at the blade, blocking it with the tip. Sparks flew as a large explosion of Qi made Shang Hue’s hair fly wildly about.
+
+She didn’t relent tho, but bit her lower lip as the man’s Qi turned oout to be fiercer and stronger than hers. If she stayed like that, there was a high chance that aa few arrows would find ther way inside her back, and that was the very last thing she wanted.
+
+Without any other choice, she used her movement technique and gave up on the attack. However, just as she began sliping away, the man pulled his spear back and thrusted.
+
+“Oh no you don’t!”
+
+A sharp spear Qi shot out from his weapon toward the direction that Shang Hue disappeared at. She wasn’t expecting the attack, considering her movement technique, so she could only raise a flimsy defense to deflect the attack.
+
+Much to her dismay, the spear Qi penetrated through her barrier like a hot knife thrrough butter, and the remainder of the energy passed through her shoulder, creating a tiny yet painful  hole right in the bone.
+
+She let out a painful yip and rolled on the roof, avoiding the volley of arrows rushing toward her like hungry vipers. Slapping her bag of holding, she took out a blood-red pill which she quickly ingested, and the wound on her shoulder began to visibly heal.
+
+She jumped to her feet and her sword shone with a brilliant pink-colored Qi, and after crouching and dodging another wave of arrows, she slashed horizontally, sending a large wave of Qi toward the man.
+
+Shang Hue was aware that it wouldn’t do much offensively, but the man didn’t know that. The color of the also hid her own movement technique, so she rushed toward the assassin alongside it.
+
+Invisible to the eye and to the Divine Sense, she was once again upon the man, who was busy raising defenses against the useless Qi Wave. He hadn’t noticed Shang Hue, and by the time he did, it was far too late.
+
+Her sword sung down, and he dodged a fatal strike by a hair’s breadth, raising his spear to block the incoming slash. Sparks flew as metal met metal, but even so, Shang Hue was pressing on the sword with all her strength and weight, while the man was forced to defend.
+
+Shang Hue’s Divine Sense informed her that more arrows had been shot, and he had less than a second to decide what she would do. Dodge, or continue attacking?
+
+She smirked, and chose the latter.
+
+“Butterfly Sovereign first form, Shapeless Wings.”
+
+“Huh? What? You-”
+
+Before the man could continue his sentence, the sword exploded in his face, and Shang Hue had angeled herself so the explosion would blow her away perfectly away from the arrows. One grazed her shoulder and the other embedded itself into her back, but besides that she’d avoided the brunt of the attack.
+
+The rest of the arrows thumped in a muffled kind of way as they hit whatever remained of the large assassin. If the explosion hadn’t killed him, the wounds would have, and if that wasn’t fast enough, then the arrows of his friends finished the job for her.
+
+She found it regretable, though, that she’d lost yet another sword. They weren’t the cheap kind, so her father would definetely be angry.
+
+When Shang Hue looked at the rest of the assassin, they’d already left, leaving behind the two wounded ones and the corpse of their leader. That worked out fine for her since she’d ran out of Qi with that last attack.
+
+But they didn’t know that.
+
+“How interesting.” She laughed as they disappeared from her

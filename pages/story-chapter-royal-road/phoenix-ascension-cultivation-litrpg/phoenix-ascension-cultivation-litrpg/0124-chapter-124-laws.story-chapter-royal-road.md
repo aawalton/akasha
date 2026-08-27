@@ -1,0 +1,303 @@
+---
+id: 67e5360c-d64e-5e8e-883e-41e63b42a965
+page-type-slug: story-chapter-royal-road
+title: "Chapter 124: Laws"
+slug: 0124-chapter-124-laws
+partOf: phoenix-ascension-cultivation-litrpg
+position: 124
+ownLength: 3268
+unit: words
+publishedAt: 2026-05-09
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3376123/chapter-124-laws"
+royalRoadId: "3376123"
+---
+
+Yo Na went toward the top of the mountain, noticing that the fight had finished. She was in her normal form, prowling and hiding in the shadows like a true assassin. Sniffing the air, she caught the scent of the bird, following it up to the point where the Moon Bloom bloomed.
+
+However, it stopped there. She couldn’t find it anymore, almost as if she’d disappeared.
+
+Or if someone hid her.
+
+Scoffing, Yo Na made her way down and into the cave that the bird had carved when arriving. She still didn’t know how that small thing had managed such a feat, but it was a rather cozy place, she had to admit.
+
+Unfortunately, she wasn’t there either.
+
+For a second, Yo Na panicked, but reminded herself that a Phoenix wouldn’t die so easily. However, since she wasn’t in her cave, where could she be?
+
+Making her way down the mountain, she rushed toward her own cave, making sure that nobody followd her.
+
+She went to steal my crystals, didn’t she?
+
+Yet, after arriving, she realised that wasn’t the case at all. Somehow, that greedy bird hadn’t come visit her and ask for the Water Crystals, even though that was the most expected thing she would do.
+
+So if she wasn’t at either of those caves, she had to be in town.
+
+Carefully making her way toward the Hu Village and changing into the human form using the stinky skill the Phoenix had made her buy, she approached. One positive thing was the robe that molded to fit her body, since she didn’t know how to change clothes.
+
+Last time, it was the bird that helped her, and any other time she would have been lost. If it weren’t for it, she would have walked around naked. She didn’t see any problem with that, since she didn’t wear anything usually.
+
+It was those human that made everything weird.
+
+Anyway, she walked into the village, noticing the unusually large crowd. Even during the other years at the same time, there was never such a crazy amount of people. They were almost overflowing.
+
+Yo Na was getting pushed around like a doll trying to make her way through the people and trying to hear what they were talking about. Unfortunately, even with her senes, it was really difficult to make out any proper words.
+
+However, the closer she go to the center of the craziness, the more she understood.
+
+So that little bird created something incredible and these people want it.
+
+That was the simplified, and very correct conclusion she’d come to. After confirming that, she didn’t care to stick around, she couldn’t.
+
+Yo Na left with shouts ringing in her sensitive ears. Something about thirty top grade spirit something or other, but she didn’t care.
+
+Deciding that she found out enough, she jumped on top of the walls and looked around for the human form of the bird. However, even after half an hour of looking at each and every person in the crowd, she couldn’t spot her.
+
+Her senses also told her the bird wasn’t there.
+
+At that point, a pang of anxiety grew in her heart. Her son was still inside the bird’s dantian, and even though she knew he’d be safe, she was still worried.
+
+Heavens were cruel, and she couldn’t even witness her son grow and hunt. He was forced to sit, sleep, sealed inside his own body while she tried to empower it.
+
+It was thanks to the Heavens that the bird arrived though. She knew that without the Phoenix, her cub would have died when the seal cracked. The power would have consumed and broken him.
+
+But even so, not knowing where she was and how to find her made Yo Na incredibly anxious. After birthing him, a very difficult birth if she could say so herself, she was deeply protective of him.
+
+Especially since the Spirit Beast she’d chosen left. She understood why, but dealing with their son’s condition was difficult.
+
+In her thoughts, she’d initially failed to notice someone, but after looking closer, she recognised them.
+
+The children the bird took care of and the girl that helped them, alongside the man that wanted to be her mate.
+
+Better than nothing.
+
+A lead was a lead.
+
+***
+
+Shu Wao Tu and his sister walked in the back while Xing Ya Chen and Shang Hue were at the front. The two of them were silent, and Shang Hue wasn’t much of a talker either.
+
+He still didn’t even know why she’d decided to join them, although he couldn’t say he complained. She was pretty, and strong, and pretty.
+
+As a result of the trio’s silence, it was Xing Ya Chen who talked the most out of all of them. Shu Wao Tu didn’t really listen to be honest, as he was preoccupied with other things, such as his newly discovered puberty.
+
+Shu Xu Ning remained quiet, as after recent events, she wasn’t sure what to do.
+
+Her brother had explained everything that happened after she nearly died, but one thing worried her. The man hadn’t mentioned what happened to Chiao Gu.
+
+After asking around with her brother, she’d found that the Chiao Clan had more or less collapsed. Their clan leader was still alive, but lost all of his assets, on top of his courtyard being destroyed.
+
+Shu Xu Ning didn’t know how to feel about that. On one hand, he was a bad man who drove their family to ruin, but on the other hand, it didn’t feel earned. The catharsis was fake. She felt good about the news, but regretted not being the one to make it happen.
+
+It was Miss Fire Immortal, and she knew it.
+
+Since she didn’t know what had happened to Chiao Gu, she was living with her eyes behind her back. When they thought they were rid of him, he appeared again to cause more pain to her big brother.
+
+If it weren’t for his strength, the two of them would have on the spot, and if it weren’t for the mysterious man that had ties with Miss Fire Immortal, then they would have died later anyway.
+
+There were just too many things that happened around her, and she didn’t like it. Miss Immortal fixed her brother’s meridians and helped her cultivator, she bought them nice stuff, and even destroyed the clan they despised for them.
+
+And what had Shu Xu Ning done? What had her big brother done?
+
+She was unwilling to remain a side character in her own life. When her big brother told her about the sect token, she decided that she would take fate into her own hands.
+
+She looked at them, her two small hands, and clenched them into a fist. A tang of pain coursed through her body from the action, but she didn’t care.
+
+Shu Xu Ning remembered that night vividly. She remembered how Chiao Gu had yanked her by the leg and belly, and remembered every bit of pain every action thereafter caused.
+
+She bit her lower lip.
+
+Whatever that man had given to help hear her had done everything it could, and she truly felt better than before. But one thing didn’t heal, and remained as scars.
+
+She inspected herself in a mirror when her brother wasn’t looking, and the shape of the chains marked her.
+
+They burnt her skin and flesh, imnbuing their shape into her very being. She knew that Demonic Qi had seeped into her body, but it was all gone thanks to that man. However, the scars remained.
+
+Numerous, large, violent marks decorated her body, reminding her of what happened. They didn’t go away, no matter how much she tried to do so.
+
+But at some point, she decided that she didn’t want them to go away.
+
+She would never forget that day thanks to them, and she would remembered the Demonc energy that corrupted the already cruel man. The energy that almost killed her and wounded her brother.
+
+The same energy she vowed to purge from this world.
+
+She hated it, hated Demonic Qi, hated Demonic Cultivators, hated everything that had to do with them.
+
+And most of all, she hated Chiao Gu.
+
+In the dark of the night, when she traced the marks with her fingers, when her brother was sleeping with a bomb ready to explode inside his dantian, she swore to herself that she would make the Demonic disappear.
+
+“Xu’er?” Her big brother’s voice awoke her from her thoughts, his concerned expression bringing a smile to her lips. She showed it to her brother, and hugged him as they walked.
+
+“Are you alright?”
+
+“I was just thinking about Miss Immortal.” She replied with a giddy voice. “I’m looking forward to meeting her again.”
+
+Yeah, she could wait heading to the sect if it meant seeing Miss Immortal again. She truly didn’t know how to thank her.
+
+Her brother patted her on the back, something that made her incredibly happy, and they continued walking. Sometime, she didn’t know, they’d already left the village, and were heading through the forest.
+
+Soon, however, they stopped and stared forward, all four of them not knowing what to say.
+
+***
+
+Well this is awkward…
+
+Yo Na was now staring at four people, who in turn stared at her. She wasn’t naked, she knew that for sure, so maybe they were just shocked at her sudden appearance? That must be it.
+
+The awkwardness came from the fact that she didn’t say anything, and neither did they. She would have loved to say something but all she could muster were weak house cat meows.
+
+She hadn’t learned to how to speak human, even though she could understand it.
+
+Doing the next best thing, she waved.
+
+The four others waved back, and Xing Ya Chen walked forward after realising that something stupid was afoot.
+
+“Hello, Miss Li Hua. I will make a bold assumption and say that you are also looking for Miss Xiaolan?”
+
+Yo Na nodded her head.
+
+“So then you don’t know where she is?”
+
+Yo Na shook her head.
+
+“Figured.” Xing Ya Chen clicked his tongue. “Then I suppose, if you want, you could come with us?”
+
+Yo Na tilted her head to the side.
+
+“We’re heading to Golden Arch City, since Miss Xiaolan would need to go there if she wants to collect her money. And even then that might not be enough between the five of us, but that’s our first lead.”
+
+Yo Na remained pensive for a minute, and was about to dismiss that claim. What would that stupid bird do in the big human city? Did she really need money?
+
+Just as she was about to leave, a strange, new text appeared in front of her.
+
+[Little Flame has invited you to join her Order.]
+
+[Accept?]
+
+She didn’t know what that was all about, but knew that the bird went by Little Flame, even though she wasn’t little at all, at least not horizontally.
+
+Yo Na accepted and the damn thing’s voice echoed in her mind way louder than she liked.
+
+“Hello? Hello, hello. Is this thing working?”
+
+Yo Na shook her head and hissed, unsure of where that voice came from. She looked around, but couldn’t hear anything.
+
+“Yo Na? Can you talk?”
+
+“Meow!” She said out loud, and looked at the humans watching her with embarrassment. Fearful of their now judging gazes, she ran away into the forest.
+
+“Meow! Meow!!!”
+
+Yep, that didn’t seem like an answer, since the bird dint’ reply.
+
+“You need to focus your thoughts not your voice.”
+
+Thoughts?
+
+“Yes, thoughts!”
+
+Ah, like this you mean.
+
+“Ye-”
+
+WHAT THE HELL IS THIS THING YOU STUPID BIRD? WHERE ARE YOU?!
+
+“Jeesh, no need to yell. This is just a skill I got and finally put to use. Where are you?”
+
+Right outside the village, I met with the two children, woman and man.
+
+“Oh really? That’s great! Well, I wasn’t expecting them to be together. Why is that?”
+
+They’re looking for you.
+
+“Huh? Why?”
+
+Hell if I know, so what’s this, how can I hear you, where are you?
+
+“It’s a skill that allows me to form a party with other beings. I’m not sure about the details myself, but you get boosts to your stats and some other things.”
+
+Huh? I’ve never heard of that.
+
+“Neither did I, but here we are. You can look at those later. I contacted you to tell you I will be heading out sooner than expected, and that your son is fine. I don’t know what will happen when I want to break through into the next realm, but I’ll let you know.”
+
+And are you headed to Golden Arch City?
+
+“Huh? How did you know?”
+
+Your friends told me.
+
+“Right… Yes, yes I am. I have business there, it’s more a forced thing. Anyway, I wouldn’t mind meeting them there once I finish my business, so you can join them and we can discuss the details later.”
+
+Well, that’s…
+
+Yo Na hesitated. She didn’t know if she wanted to do that. Truth be told, she was comfortable in the forest, where she was the leader. Leaving would mean losing that power.
+
+But her son was with the bird, and she wanted to be where her son was. Not to mention that, ever since meeting the plump thing, her life had become a little bit more interesting.
+
+Alright, I will follow them.
+
+“Awesome. Let them know I will be there.”
+
+With that, whatever connection the Phoenix had made with Yo Na disappeared, and she couldn’t speak to her anymore.
+
+After giving up, Yo Na let out a soft sigh and caught up with the group. They’d advanced some since she ran away into the forest, but not that far. Clearly, they weren’t in a hurry.
+
+When she returned, they greeted her with a wave, though the atmosphere was really awkward. She refused to remembered what had happened mere minutes ago, and decided to act like it did indeed never happen.
+
+With that sorted, she walked amongst them, silently saying that she will come with them to Golden Arch City.
+
+She would have said it outright, but she couldn’t speak, unless they could understand meows.
+
+Yo Na noted to herself that she should really learn to speak human. Regardless, that didn’t matter right then. The most important thing was seeing her son and making sure he would be alright under the care of that plump bird.
+
+And just like that, the five of them headed toward Golden Arch City, the voice of the forever talking Xing Ya Chen following them.
+
+***
+
+Ye Mo was a simple man, at least he liked to believe that. Currently, he stood in an old brothel in the Hu Village, sipping some bad alcohol he ordered at random. The taste was awful, and so were the women, but he didn’t care much about those.
+
+He had a mission, and he would accomplish it no matter what it took.
+
+When his Lord, Yan Shi, as the Lord liked to call himself, told him to hunt the Phoenix Chick, he wasn’t surprised. The man was obsessed with the things.
+
+He was harvesting their essence and doing experiments, all in an effort to come closer to reach their immortality. It was shallow, useless and so far, fruitless.
+
+What did a human need to learn the way Phoenixes used to live forever, when humans were already at the pinnacle. The only thing above them were the Heavens.
+
+However, while he questioned his Lord’s motives, he remained loyal. It’s been more than three hundred years since Yan Shi found Ye Mo abandoned at the edge of a village, and took him.
+
+The Lord raised him like a son, even though he may have not realised that. While Ye Mo had not learned anything from his Lord, aside from what it takes to sustain a clan at the size of the massive Soaring Eagle Clan, he did learn a lot from other people.
+
+One man that really influenced him was someone that was neither dead nor alive, or even man or woman for that matter. A specter whose form bordered on the physical, yet not.
+
+Ye Mo had met him when he was twenty three, and made friends with the man. He didn’t care that he was undead, or grotesque. The young Ye Mo saw value in learning from such an existence, and learn he did.
+
+For fifty years, he’d learned how to control Qi, how to cultivate, how to brew elixirs and concoct pills. Eventually, he learned how to harvest Death Qi.
+
+The Lord found out, and instead of punsihim him, offered him a post as his assassin. Ye Mo took the offer without heistaiton.
+
+More than two hundred years later, and more than a thousand assasinations later, he was now the most feared man in the clan, and possibly even the entirety of Heavenly Ginseng City. His Lord, Yan Shi, was first, of course.
+
+Thanks to all the assassinations he orchestrated, and the full support of his teacher, and unintentional father figure, Yan Shi, he’d collected a lot of Death Qi and also gained an incredible understanding of the Death Dao.
+
+It was complex, yet simple at the same time. Unlike Decay and Wither, Death was Death. It didn’t do anything besides Death, and in its most purest form, it didn’t exist. Pure Death was the abscence of everything, including Death itself.
+
+Ye Mo still hadn’t fully grasped the concept, but the more he used it, the stronger he got, the more understood, and the stronger he grew. It was an infinite cycle of positive reinforcement, and he had every intention to cultivate it to the fullest extent.
+
+“Sir, can I get you anything else?” A female voice brought him out of his recollection, and he raised his head to look at her. His face was barely visible through the hood of his cloak, and there was also a concealment technique activated at all times.
+
+As a result, the only thing the sexy yet not sexy waitress saw was a pair of black eyes that had no pupil or iris.
+
+The sight was creepy to say the least, and even though she didn’t flinch, she was clearly weirded out.
+
+Ye Mo shook his head and looked at the still not finished mug of shit wine. Even the piss his donkeys made tasted better than that.
+
+The waitress left, all too happy to not have to deal with the scary man. Ye Mo didn’t really care, as he had better things to take care of. For instance, tracking down a certain Phoenix who thought selling their feather to one of the biggest markets on the five continents was a good idea.
+
+A smile pursed his lips as he took it out to take a proper look at it, feeling the insufferably dense Life Qi emanating off of it. It wasn’t exactly life, per se. Unlike his Death was Death, without type, without element, without nature, this Life was full of Yang, full of earthliness and mortal understandings.
+
+As a result, while it was annoying to touch and look at, it wasn’t something that would hurt him. If the feather had come from an actual Life Phoenix or something similar, then he wouldn’t touch it with a ten li pole.
+
+Thankfully, the chick leaving it behind was foolish, young and inexperienced, so that didn’t really matter. However, he felt something deeply unnatural from it, something he could have never expected to sense on a feather from a literal infant.
+
+Laws.

@@ -1,0 +1,221 @@
+---
+id: 609d80f4-79d7-5307-8508-0490575c680e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 117: Death Qi"
+slug: 0117-chapter-117-death-qi
+partOf: phoenix-ascension-cultivation-litrpg
+position: 117
+ownLength: 2154
+unit: words
+publishedAt: 2026-04-22
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3306847/chapter-117-death-qi"
+royalRoadId: "3306847"
+---
+
+I didn't mind fighting with ignorant people, but I was in the middle of my bath, and now that guy wanted to fight me? Seriously just how small-
+
+"I will ask you again. What do you think you're doing in my territory."
+
+It wasn't his teritory, at least logically speaking. I didn't bother smelling every damn tree I passed by, but I didn't sense his aura anywhere. Did he just proclaim himself leader on a whim?
+
+"This isn't your territory, now let me wash before -"
+
+However, I couldn't even finish my sentence before he rudely cut me off.
+
+"It is my territory, and I advise you to leave before-"
+
+"Oh just shut up already." I flew out of the water and activated **Heaven's Protection and Strengthened Constitution, as well as Iron Claws and Flaming Talons.
+
+Closing the distance with an Ember Step and activating Elemental Wave for the extra damage, I jumped right at the badger's throat. He must not have been ready for such a sudden attack, as he didn't even try to defend.
+
+That, or he was just so sure of his defense. As a badger, he naturally must have had a tough skin, which, to be fair, it was.
+
+However, it wasn't anywhere near good enough to resists so many skilled claw and fire buffs.
+
+My talons pierced through his flesh, but didn't quite hit a vital spot. Unluckily, they also got stuck, which left me vulnerablef or a second.
+
+That second was all he needed to get his diry claws on my beautiful feathers. They hurt like hell as they piereced my flesh, but thankfully I had a healthy layer of Overeater fat, so it wasn't as bad as it could have been.
+
+His attack only served to enrage me further, and I did the only logical thing I could in that situation.
+
+Infusing my talons with Lightning Qi, I sent it raging through its body in the form of small dragons. They ravaged his flesh and fried him from the inside out.
+
+After a few moments, he began squriming and struggling, and let go of me. I also did my best to break free off of him, and after a few attempts, I managed.
+
+The lightning, however, did not stop frying his body. It wouldn't be to kill a Spirit Beast in their thirties, but damn was it satisfying to see that bully suffer.
+
+I mean, it wasn't my fault that he wouldn't even let me bathe, right?
+
+However, I wasn't content with just letting him struggle.  I didn't need yet another enemy that may or may not chase me down to the ends of the earth.
+
+So in order to kill him, I naturally summoned two flame dragons and two lightning dragons, all of which shot toward and coiled aroudn the still paralyzed badged.
+
+It must not have dealth with a lot of enemies that could use lightning, and with it coursing inside his body and not outside, well, the paralysis had to be even more effective
+
+With the dragons coiled around him, both constantly damaging him, he became immobile.
+
+Without standing on ceremony, I rushed toward toward him, talons primed, and unleashed a flury of attacks toward its neck. Blood gushed out of the already existing wood, with more dripping down.
+
+In the end, the sudden attack combined with the sudden paralysis and restraining by two pairs of elemental dragons was too much for him to handle.
+
+With one final Blade Wing, I took his life, and a series of sweet notifications appeared in my vision.
+
+[You have slain Green Horned Badge, Lvl 32]
+
+[XP Acquired]
+
+[Skill: Lightning Dragon(Beginner) has ranked up to Lightning Dragon(Intermediate)]
+
+[Skill:Lightning Proficiency(Beginner) has ranked up to Lightning Proficiency(Intermediate)]
+
+I was beginning to think those two would never rank up. I still had plenty of skills that needed to rank up, though.
+
+I didn't really pay attention to them, but with this new merge feature maybe it would be a good idea to get them all to a high rank before doing that? I was sure I had a lot of skills that could become one.
+
+But if I merged them and tried to evolved them, wouldn't I lose out on a potentially evolved skill?
+
+Ah, so many things to think about, and now, a badger to eat.
+
+The other Spirit Beasts surrounding us looking at me with fearful expressions. I wasn't going to kill them, or pick a fight with them, of course.
+
+But it seemed like they'd realised that I wasn't just a fire bird, as one of the few that could talk, a feline-like Spirit Beast, let out a shrill shriek.
+
+"It's a Phoenix!"
+
+"She killed the Greenhorn!"
+
+"Escape!"
+
+And that started the panic. All of them ran one way or the other in the opposite direction of where I was.
+
+I found that to be sort of rude, but I couldn't blame them. Most of them were low level, and I'd just killed something a few levels above me.
+
+Still, did that warrant them running away from me?
+
+I could only shrug.
+
+The badger was sitting right there, cooked to perfection in its own juices. It was also rather big, far bigger than me in many ways, so it would definetely make for a scrumptious meal.
+
+Without further, ado, I began digging in.
+
+It took a long time for me to finish eating it, but I did. After having my natural fill, Overeater started working as well, and after taking that last bite, something that delighted me dearly appeared in front of me.
+
+[Skill: Overeater(Beginner) has ranked up Overeater(Intermediate)]
+
+Ranking up that skill took a lot of eating and a lot of stuffing my face, but finally, I did it. Almost immediately, I felt my Overeater reserves get more spacious, meaning I could store much more energy. At the same time, my now very rotund and fluffy form slimmed down a little.
+
+It'd looked like the better the skill got, the less negative effects it had.
+
+After collecting the core and stuffing what remained of the corpse in my bag of holding, I headed back toward the lake, and finally took my bath.
+
+Cleaning all the blood and guts out of my feathers was a chore, but in the ened I managed, and my orange beauties never looked more pristine.
+
+With that done, I got out and dried myself up. No other Spirit Beast even came close to me, which was weird.
+
+Sure, I killed ONE guy, but that wouldn't mean nobody else wanted to dirnk water, right?
+
+I was a little offended, but forgive and forget was the best motto in some cases. Either way, I had no interest on lingering any longer.
+
+Experience wouldn't collect itself, and levels wouldn't appeard out of nowhere.
+
+Taking to the skies, I scouted the area for any potential prey.  Most of the Spirit Beasts in the immediate area were between level twenty and twenty five, with few of them ever passing that threshold.
+
+Would killing enough of these net me enough levels? Sure, but so would killing a few higher level Spirit Beasts.
+
+I just had to find them.
+
+Flying for a while longer and scanning the forest with that identification skill, I was a little disappointed to find how weak the average Spirit Beast in the forest was.
+
+There was also one other thing that I took note of. That skill used up a lot of mental energy. Well, it probably wouldn't have if I weren't looking at dozens upon dozens of different things at once.
+
+Still, I was sure I would be fine.
+
+When I was about to turn it off, something caught my attention. It was a Spirit Beast flying in the sky, and it seemed to have spotted me as well.
+
+[Death Grip Vulture, Lvl 35]
+
+Well, wasn't that a challenge.
+
+After we both saw each other, it was only a matter of time before we jumped at each other's throats.
+
+I was a little bit curious about what the death grip in its name meant, since it didn't have hands. Well, talons could grip too, I supposed.
+
+Anyway, the vulture let out a screech and flew straight toward me, its speed increasing drastically over time.
+
+It must have used a speed boosting skill or something like that.
+
+I screeched out of courtesy, turned off the identify skill, and shot toward the vulture as well. Unfortunately, I didn't have any speed boosting skills, but maybe I would acquire some after absorbing its core.
+
+The Death Grip Vulture opened with a talon attack, aiming to use its speed to its advantage.
+
+I activated Heaven's Protection and tanked the first hit, the attack pushing me back a little as the barrier shattered.
+
+It was then my turn to attack, and needless to say, I was not going to be gentle.
+
+Activating all two of my talon skills, and all the fire boosting skills, I attacked, manuevring with Aerial Redirection when the vulture dodged.
+
+My first tallon attack hit it in the stomach, cutting a gaping wound that let loose a lot of blood. The vulture, after seeing just how badly it had gotten wounded, let out an angry screech.
+
+A black aura appeared around it as it activated a skill, and a cold shiver ran down my spine.
+
+Taking a step back, I realised what the aura was. Death Qi.
+
+Something rare and very dangerous. It was incredibly corossive and ate away at the life force of other beings extremely fast.
+
+It'd been a while since I met that sort of energy in combat, as cultivating it was dangerous.
+
+But I supposed a Spirit Beast had no need to cultivate it, only use and understand it.
+
+Its talon were now extremely dangerous, and if they-
+
+The vulture attacked again, its speed exceeding what it was able to showcase before. I hastily used Aerial Redirection and bent my body at an awkward angle, barely dodging the talon itself.
+
+However, the lingering Qi still managed to hit my feathers. They quickly began to wither, and if I hadn’t broken them away, the Death Qi would have entered my body as well.
+
+Such a power was seriously scary…
+
+I flapped my wings and got away, watching the vulture with my Divine Sense. The vulture attacked again, but that time I was ready.
+
+Letting out a Paralyzing Screech, I made it freeze for a second. Taking advantage of that, I swooped in with Flaming Talons-Iron Claws combo, infusing them with Lightning Qi as well, it was sure to be a devastating blow.
+
+The vulture re-manuevered mid-air just as I was to hit him, but having expected that, I used Aerial Redirection and planted my claws deep inside its already damaged stomach.
+
+It clearly hadn’t expected such an attack, but quickly countered with a rapid attack filled with Death Qi. The vulture had no cultivation to speak of, but it seemed like it had no problem controlling such power.
+
+Interesting as that was, I couldn’t allow it to get too close to me. Flaring up my flames, I inufsed as much Fire Qi into them as possible, and pushed back the Death Qi. Against a normal Spirit Beasts, such attacks were effective, but against me, who knew how to use Qi properly, they were neigh useless unless it was a direct attack.
+
+However, I wasn’t going to try my luck. With a quick flap of my wings, I removed my talons from its body, causing deep internal bleeding and, well, general bleeding.
+
+It didn’t matter how good the vulture was at using Death Qi, it would still die.
+
+Letting out a shrill screech, I felt a wave of something wash over me, but whatever it was, wasn’t very effective.
+
+At my own turn, I also let out a Paralysing Screech, and froze it for a moment, and that’s all I needed.
+
+Chopping down with Blade Wing, its head fell off, and it died just like that.
+
+[You have slain Death Grip Vulture, Lvl 35]
+
+[XP Acquired]
+
+[You have Leveled Up!]
+
+[Elemental Phoenix Heir Level 27 has become Elemental Phoenix Heir Lvl 28]
+
+[Skill:Aerial Redirection(Beginner) has ranked up to Aerial Redirection(Intermediate)]
+
+[Skill: Blade Wing(Intermediate) has ranked up to Blade Wing(Expert)]
+
+[Skill: Paralysing Screech(Intermediate) has ranked up to Paralysing Screech(Expert)]
+
+[Skill: Iron Claws(Expert) has ranked up to Iron Claws(Master)]
+
+[Skill: Flaming Talons(Intermedaite) has ranked up to Flaming Talons(Expert)]
+
+[Achievement : Absolute Unit! Unlocked]
+
+Whew, that was a lot of ranks up, and damn did it feel good to get rewarded! And an achievement as well! I would have checked it then, but I wanted to get away to a safe spot first.
+
+I grabbed the corpse and stored it, then flew away before any other bird wanted to have a piece of me.
+
+With that done, and after the ample recovery from the level up, it was time for me to look for another victim.

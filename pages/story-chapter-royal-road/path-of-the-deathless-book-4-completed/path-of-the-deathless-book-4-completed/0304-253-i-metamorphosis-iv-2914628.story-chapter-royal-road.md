@@ -1,0 +1,147 @@
+---
+id: d09f13ed-b6bf-51a0-8a2d-1026fb51d60e
+page-type-slug: story-chapter-royal-road
+title: "253 (I) Metamorphosis [IV]"
+slug: 0304-253-i-metamorphosis-iv-2914628
+partOf: path-of-the-deathless-book-4-completed
+position: 304
+ownLength: 3459
+unit: words
+publishedAt: 2026-01-05
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2914628/253-i-metamorphosis-iv"
+royalRoadId: "2914628"
+---
+
+I briefly became a Seeker when I found myself delving into the nature of the Outside. I thought the eldritch could break the System's rules, and by technicality, they do in some ways. But they are slowly being colonized, and I fear there's no way they can stop the process. Not as long as they continue fighting and consuming each other.
+
+But judging by their natures, I don't think that's possible. Frankly, the eldritch gods are even more war-consumed than we are. Every single one seeks to spread across all existence; they cannot not spread; they have to expand. And the only thing that pushes them back is a rival god pressing against them or the System's patterns imposing a foreign will upon them, a foreign will that is slowly infecting them the same way they infect other realities. It is an interesting and ultimately ironic torment they suffer, for without the System, they likely wouldn't possess consciousness at all. And with consciousness, they have learned to loathe and fear the System in many ways.
+
+I do not blame the Seekers who think the Outside is a means of escape. It is. At least, it does allow one to delay the time until strife finally claims them. If you undergo metamorphosis at the hands of an eldritch being, you will transform. Of course, your mind will likely be flayed apart unless you are a highly capable Psychomancer, or your mental template was already aberrant to begin with. Aberrant, and also abnormally functional on top of that. When you are embraced by one of the eldritch gods and they transform you, your notions of past, present, and future will irrevocably change. Your very nature and the way you exist will change. The way you perceive the world will be twisted. Part of you might be lingering in a potential future, and you will always be wandering there, partially lost to yourself, as your present variant exists in a state of feverish delirium.
+
+This will give you a sort of limited omniscience about what might happen in the future. But since the future is undefined under the rules of the System, and our Chronomancy doesn't work the same way, the advantage it gives you is dubious in the best of times and potentially malign for your sanity in the worst. However, it doesn't mean it's useless. In fact, you can be quite dangerous to a Chronomancer simply due to the abnormal nature of your current existence. You might be able to strike them down before they can do anything because, technically, you extend past the present. You are not an entity moving along the current of time; rather, you occupy a string of time entirely. Very, very amusing.
+
+Your thoughts will change as well. They might fork in different ways. You might have two versions of yourself thinking at once: one is simply a beast, seeking out instinctual desires and reacting, and during those reactions, bursts of consciousness arrive, and you find yourself aware of things that even Divination cannot reveal. You will have to whisper them to yourself as if you are playing a game of telephone with your own broken cognitive template. Not that useful if you are trying to socialize and live an everyday life, but as predatory hunters that want to be immune to Psychomancers and feed on the minds of others, the Retro-Flayers find this quite useful.
+
+Ultimately, embracing metamorphosis gives you more options and puts you beyond the conventional laws of the System, but it does not sever you completely. More importantly, it breaks you. It breaks you in ways that might never be undone, at least by the hands of a normal individual.
+
+I, however, have reversed metamorphosis. It's quite the arduous effort and frankly not worth the time, but if someone has something useful to offer, they could contact me. And out of interest and the opportunity to show up one of the eldritch gods forever thinking they could seize my soul, I might just help you break free.
+
+Postscript: I don't care what you desire, Eldest. My will is higher than yours. You can keep the skill I've discarded. You can keep the vessel I no longer need. Metamorphose that and understand that you will never truly subsume me. I refuse you as I refuse the System, as I refuse all will but my own.
+
+-Udraal Thann’s Recovered Notes
+
+253 (I)
+
+Metamorphosis [IV]
+
+Metamorphosis was both bitter and sublime. The first skill Uva gave unto the Eldest was her Cryomancy, for that was the skill it wished to change first. The effect was as immediate as it was sublime. Her very understanding of the lore of ice changed. It had nothing to do with the excitation of temperature anymore, nothing to do with the removal of heat, with the solidification of water. No. Instead of Cryomancy as it was understood on Integrated Earth, she obtained something that belonged to the comprehension of stasis: the magical lore of the unchanging.
+
+Most eldritch creatures had a deviant understanding of time. The flow of chronology within the Outside was unnatural. Some of its inhabitants moved forward, while others twisted back. There were patches of wilderness that simply remained still at all points, at least until the Stranger willed it to be otherwise. And then there were areas with no present. There was simply a skip over into the future, if she were to describe it. Those patches she avoided altogether, for the severed bits of her Psychomancy left her strained and wounded at the spirit.
+
+But after her Cryomancy changed, that was no longer the case. Still, time was something she could move through. It was a state that she partially existed in, for the new lore had a single focus: to stop what was moving, to kill all excitation.
+
+Moment of the Shattered Stasis 88 (Heroic)
+
+But with this Skill Evolution, part of her body changed as well. The left side of her grew fragmented and came to be composed of crystalline fractals of gold. They broke free from her. They glided around her, satellites in orbit, and then they returned to her in an eternal cycle, a ballet of stasis. She could feel the time bleeding out from her as well. And with that, she found herself capable of venturing to the temporal absences within the Stranger's realm, for she now had a lore of perfect present that superseded the Stranger's absolute nothingness of time.
+
+She guided Blackedge to these clearings and used them as sanctuaries. For a time, the Stranger didn't notice her, and the first moments of respite were regained. Her bargaining with the Eldest was already paying off for the rest of Blackedge, at least.
+
+For Uva herself, things were decidedly different.
+
+"How long have I been here?"
+
+The madness spread through a single stack of Uva's consciousness. The rest of her existed along a linear current of time, but there was a price to pay. And if she were an entity that bore only a single mind, it would have seen her utterly undone, for stasis was unimaginable. This was not a metaphorical skill. It was not a lore that was free to use. Stasis meant that part of you needed to be locked in an eternal present, that this moment, this second, would drag on, feeling for an eternity, seeming for an eternity, at least for a part of you. And as it had exhibited its physical symptoms through her left arm, so too did it hold sway over her consciousness, for it was the mind that made magic manifest.
+
+In a splintered corner of her mind, after far too long had passed, a variant of her consciousness cried out, "Please, someone talk to me. Someone reply to me, please, please. So low. So cold. So alone…"
+
+But though the rest of her minds tried, though she was still multiplying her various selves, they couldn't reach across the threshold. The altered Cryomancy was a crystalline barrier, and they were just spectators to their own suffering.
+
+Anyone else would have found themselves undone. The madness flooding that single mind of hers, trapped in eternal solitude, would have seen them rotted to the very trunk of their collective consciousness. But Uva was not anyone. Uva fed upon her own madness. She used what should have crippled her as fuel to further amplify her Psychomancy. And she became more. She drew upon this most Shiv-like of circumstances and adapted, albeit painfully.
+
+"Seven or eight out of ten?" a stray strand of Uva’s mind asked the others, a sneer in her voice.
+
+"Eight," a few replied, mainly those who were a bit too close to the source. Others replied with sixes or none at all, too distracted by their own struggles to truly focus on how deep the isolation ruined them, how much she had to draw away from herself and rekindle her power rather than trauma.
+
+And from underneath the fragments of frozen stasis, a blackened limb reached out and touched the shell of Uva's interior, barely seen through the translucence of her skin, but Rose witnessed it regardless, and the Uva tasted the woman's fear.
+
+"Yes," Uva said, guessing her thoughts, "that is the Eldest, or whatever they're trying to change me into."
+
+Rose swallowed. "Does it hurt? Physically?"
+
+Uva cocked her head. "Physically, not at all. It's like a rogue organ, a bit like the heart, except it beats to its own tune. Existentially, it's miserable. It feeds on me. Mentally, it's excruciating but also a source of power. I cannot complain. It's to our benefit."
+
+"What about you, though?" the Lady of Blackedge asked, her voice gentle. "How the fuck you doing?"
+
+"I endure," Uva answered, "and I will learn to overcome, or I will be overcome. Such is the way of the System, even here, at the very periphery of its unfathomable reach. Such is what we have to suffer."
+
+"Fuck what we have to suffer, and fuck the System," Rose reiterated. "You deserve better."
+
+Uva smiled coldly at the older woman. "We only deserve what we can seize from the world's whims. And from the creatures that seek to feed on us."
+
+***
+
+At the same time, a cabal was forming in the corner of Uva's mind. As they hid within a clearing of halted time within the Stranger's realm, she concocted a plot with the Starhawk to wage a campaign of deception and confusion against all the eldritch entities, including the Eldest spreading through her.
+
+And, ironically, it relied on the insight that the Eldest's newly transformed skills offered her.
+
+"Are you certain this will work?" the Starhawk inquired. Though he was Divine, his voice was filled with uncertainty.
+
+The first of Uva's hidden consciousnesses scoffed. "No, we are not sure at all, but using the frozen time that we are now able to perceive from, we can begin to comprehend the temporally deviant nature of the Stranger's offspring."
+
+The second strand of her separated consciousness continued where the first left off: "Estrangement characterizes the Stranger's fingerlings. Every single one of them is separated from time to some extent. They leave trails of themselves in the past, and they don't think in the present. Instead, there are multiple layers to their minds. They're stacked together, but across time. Only as a collective whole are they anything approaching sapient; taken as an individual fragment across time or in the present, it only holds a small microcosm of thought. They are effectively disentangled components of an entire being. That's why we couldn't fully read them. That's why we can only alter their perceptions somewhat. That's why it hurt me so much to dive into the Recollector. Because I could only exist at one point, and they are stretched across several. Physically, it would be akin to your limbs getting wrenched out of their sockets all at once while your torso is held still."
+
+And a third conspiratorial stack to her consciousness finished her whole theory: "With the stasis I am capable of inflicting, with the version of myself that constantly suffers an eternal present, I can inflict damage upon the Fingerlings we have captured. We can freeze them. We can capture more. But more importantly, we can force every single one of their past instances to come to a halt, effectively meshing them back together. From there, we can start dissecting them. It's like stitching all of them back together, though, since it's not even remotely something their physiology is built for, it will likely drive more than a few of the fingerlings insane. But after we practice enough, we should be able to influence them even more. Perhaps even fool the Stranger himself."
+
+The plan was audacious; that, all Uvas agreed, but the Starhawk was willing to take any chance if she was. So it began: a multi-front war between Uva, the Stranger, the Eldest, and herself. Among the parties, the Dreamtaker remained the most ignorant, utterly consumed by the bliss of wielding her Seeker, sedated by the hidden presence of her parent.
+
+***
+
+Uva estimated it had been well over a month of real time they'd spent within the Stranger's wilderness, using the temporal clearings as temporary sanctuaries. However, she never lingered in one spot for long, and she even deliberately engaged some Fingerlings in direct combat just to keep them alert and paranoid. She also seeded their minds with more instances of Blackedge, forcing them to respond to every sighting as if it were real.
+
+The Stranger tried to counter her strategy by shifting his clearings, but he was always a step behind. She knew too well what he might do thanks to the Dreamtaker informing her of her sibling’s ways, and the Eldest allowed her to go places that she simply couldn't before.
+
+During this time, she also captured a great many of the Stranger's offspring, most of which were the Pinkies. The Pinkies were the most simplistic among the Stranger's spawn; they were barely more sapient than a hound or, more likely, the drone of a beehive. They resembled a mass of spreading fingers with a vertical slit of teeth in between. At their center was an eye born of abnormal Chronomancy that reverted time backward. The Pinkies also had an echo that lingered seconds into the past, and their main purpose was to capture individual people, to swallow them back in time and convert them into temporal fuel. They were also connected to Recollectors. In fact, without a Recollector present, the Pinkies were more feral than controlled.
+
+However, the Pinkies were also exceedingly vulnerable to her stasis skill. The moment she used it on them, past and present collided. Their retroactive echoes slammed into their current bodies, and both proved to be about as durable as glass bulbs impacting one another at extreme velocity. Unfortunately, those ones dissolved before she could get any use out of them.
+
+So she adjusted her strategy. Instead of using her stasis skill on them, she aligned them with a portion of herself trapped forever in the past, and that allowed her to get a glimpse into their minds. However, it wasn't a long glimpse, for even that frozen instant was like shoving a blade into someone's brain tissue, if said brain was made up of nerve endings. It took scant time for their minds to utterly fragment apart, unable to comprehend who she was now.
+
+Now she stood as the eldritch nightmare to her mundane victims.
+
+And gods was that satisfying.
+
+As good as that felt, though, it meant that she couldn't fully exploit them.
+
+She moved on to the Recollectors. Familiar with their kind as she was, thanks to the horrific and arduous battle against the one that had been contained within Gate Lord Confriga’s sword, she had a basis to work with. However, she also observed a few notable differences among the specimens she contained.
+
+The first was that they were all possessed of different skills, probably depending on what they had taken from hosts they managed to consume on Integrated Earth or elsewhere. The larger Recollectors were more powerful, had more extended echoes of themselves lingering in the past, the longest of which extended thirty seconds backward, far more than the Recollector she'd faced at Gate Theborn. But they all shared a similar aesthetic: massive, ten-fingered hands with a spiral of eyes drifting toward a vortex at the center of the palm.
+
+As Uva soon found out, they managed to last considerably longer when she hit them with her stasis magic. They remained frozen for an extended period, but it proved to be poison to them as well. With every passing second, another version of their past would crash forward, impacting the rest. They cracked and shattered, coming asunder like breaking icebergs rather than brittle glass.
+
+That gave her the opportunity to delve deeper into the Recollectors’ echoes. She climbed all the way back to their past, and there she made a discovery that nearly cost her her life and revealed the true depths of this place. Upon reaching the final echo of a Recollector, she found herself not faced with utter oblivion, but rather an eye, one so vast it dwarfed celestial bodies by orders of magnitude.
+
+Tens of thousands of spiraling irises, flowing in opposing directions as myriad-colored rivers of oil, made up its entire surface, but its strangeness ran far deeper. Its shape was non-Euclidean, with there being no one pupil; instead, every point of the eye was at once a source from which the concentric rivers expanded outward, allowing the entity to directly face every grain of existence at once while the rivers flowed over and through one another like an infinite mesh of fabric.
+
+Each of the uncountable pupils, too small to even make out within the encircling, clashing irises, channeled a beam of distorted Chronomancy outward. The rays of tarnished gold reminded Uva of those cast by the sun when they broke through clouds, something she herself had only borne witness to once, yet had left a striking impact on her.
+
+The rays cast by the celestial eye speared outward into the chaotic void in which it resided, each coalescing at differing distances, where they formed a Recollector or some other, distant spawn she couldn't recognize.
+
+That impossible, all-facing eye, she guessed, was the Stranger, the source, the one that constantly birthed these eldritch fingers into existence.
+
+It seemed that there was a running theme in the family of eldritch gods. They were all parasites to some capacity, and unwilling to let their children be autonomous. The Stranger, most of all, was estranged from all his young, but he watched them, he shaped them, and he poured his baleful essence and hate upon them like a panopticon. They simultaneously couldn't exist without him, and yet were formed by their father's very awareness.
+
+And just as she gazed beyond the abyss, the thing beyond the abyss gazed back.
+
+"Seeker, you come to me willingly."
+
+The Stranger's words tugged on Uva's strands, causing them to vibrate like a spider web. Darkness crept through her Psychomancy; her mind nearly shattered. It was her stillness that spared her. She had the still aspect of her consciousness slotted in, a thing already embroiled by unparalleled trauma. And the Stranger made the mistake of trying to break that portion of her, not knowing that he was simply ramming his fingers into parted glass. That mutilated, sad part of Uva broke some more, but there had been little more than fragments left of her to begin with. What difference did it make that she splintered even more?
+
+***
+
+After the rest of Uva retreated, wiser than before and more wary, the Stranger also adapted. Instead of shifting his clearings, he began to shrink them, making them all so small that they were little more than dots. And soon, speckled throughout his wilderness were points of unmoving stasis. Points that Blackedge couldn't reside in.
+
+Worse yet, the Stranger kept a closer eye on his lesser offspring, and as Uva reached into the various Pinkies, Recollectors, and Indexes, the moment she made any large alteration, they were sundered from the inside and made to come apart like shrapnel, damaging her layered consciousness and leaving Blackedge open to attack.
+
+And thus was how the town nearly fell. Unprepared for the Stranger’s shift in strategy, her strings of Psychomancy tumbled into disarray, and her cocoon came undone, opening the town up to the ravenous swarms of Outsiders waiting outside.
+
+By the time the survivors pushed them back, Uva reached a functional clearing, and she reshaped her cocoon, there were no more than 4,000 survivors left in Blackedge.

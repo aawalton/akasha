@@ -1,0 +1,149 @@
+---
+id: faa79938-b6eb-5e58-8eda-eef04eb6b152
+page-type-slug: story-chapter-royal-road
+title: "Chapter 72: Evolutions"
+slug: 0072-chapter-72-evolutions
+partOf: phoenix-ascension-cultivation-litrpg
+position: 72
+ownLength: 1953
+unit: words
+publishedAt: 2026-01-07
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2921335/chapter-72-evolutions"
+royalRoadId: "2921335"
+---
+
+Holy shit.
+
+I couldn’t help but curse in surprise upon seeing all the notifications. Most of the skills I used in the fight had ranked up, and I’d jumped from level nineteen all the way to level twenty-one.  Considering that guy’s level, it made sense. Honestly, it put up quite a good fight. That also meant I was due to receive even more Bloodline Skills!
+
+Strangely enough, they didn’t appear alongside the level-up notifications, but who cared? I would check them out later.
+
+For now, I had to collect my spoils of war and retreat back into my cave, which still didn’t have a nest. I kept saying I would get to that, but never actually did. At the same time, I didn’t know why I had a strong desire to have a nest. Either way, I wanted one.
+
+Anyway, before doing any of that, I grabbed the bear and dragged it away with some difficulty. I didn’t want to eat in the same place I killed it, as other predators may appear. Thankfully, I had enough strength to move a couple of dozen feet away, then began my feast.
+
+First, I began by opening up the stomach and feasting on the still-warm organs. They tasted very… strange, very tingly. It wasn’t a bad feeling, but it was not something I was used to. The food still went down well, nonetheless, and I continued doing that until there was nothing left, except for the core.
+
+I reached for it with my claws, and I should have guessed that the moment I touched it, I would get zapped. Unfortunately, I had to let go and think of other ways to grab it, as it would constantly shock me.
+
+At the same time…
+
+I reached toward it with my talons…
+
+Since it could help increase a lot of my skills passively, right? Both the Paralysis Resistance and Lightning Resistance would benefit from it, and I was sure that the Dragonbone Tempering was also constantly dealing with the damage inflicted upon me.
+
+Therefore, I touched it and grit my metaphorical teeth as I pulled it out. It was hard to move, as I got paralysed every half-second, and the lightning power was charring my flesh at an even faster rate.
+
+But I regenerated the health back faster than the small amount of damage it was doing, so I decided to keep it close to me for the moment. Maybe I could use it to convert some of the demonic Qi as well.
+
+Either way, I continued feasting on the corpse, and by the time I was done with it, the sun had visibly shifted. It was a big animal, and full of muscle, so the meat was chewy and not all that tasty, but it was filling.
+
+After eating the brain, I was of a mind to grab the fur and all, and put it in my cave. Then again, I didn’t have much I could do with bear fur, and it still needed to be cleaned.
+
+Just as I was about to leave it for nature to claim it, I remembered the siblings and how they weren’t all that rich momentarily. I debated whether or not they could sell the thing, and decided that it was a definite no.
+
+Even if they could carry it, which they couldn’t, not unless the little girl got stronger, faster, which wouldn’t surprise me at the rate that she was advancing, then it would have been hard. In that same breath, how were they supposed to justify having hunted and deskinned the thing?
+
+With all those thoughts in mind, I decided to just grab the fur and decide what to do with it later.
+
+Back in my cave, I was still holding the core close to me, debating whether or not to absorb it. Just as I was about to put it away, a notification surprised me.
+
+[Skill: Paralysis Resistance has reached the [Beginner] Rank!]
+
+I was waiting for that, because it proved that my pain wasn’t in vain. However, the other two skills I was expecting to rank up had not, which disappointed me. I suppose that such little amounts of stimulation did little to nothing.
+
+Oh well.
+
+I placed the fur down, tucking it in a corner, and sat down. The bare ground was really uncomfortable. I really missed Mother’s nest.
+
+Mother…
+
+I looked inside my dantian and saw Mother’s egg floating above my Qi Lake. It was peaceful, serene, and undisturbed, and I had some hope that I could see her again.
+
+But I wasn’t sure what would happen. She clearly forced her rebirth early to gain a burst of power in that last minute, yet the consequences for such a thing were unknown.
+
+I was pretty sure my so-called father knew, but I had to get to him first, and I doubted flying would get me to where he was. Not that I could not, but it would take too long. However, once I finished my business here, I would go and look for him.
+
+With a sigh, I opened System to see if there were other notifications that I missed or that it did not show. As I’d guessed, I gained two Bloodline Skills, and one of them was an unexpected… water elemental skill.
+
+[Water Barrier]
+
+[Creates a protective barrier around the user. The efficiency of this barrier depends on the user’s INT and Water Affinity.]
+
+Crap.
+
+My Water Affinity was still in the negatives, which meant the efficiency was also in the negatives, so the skill was completely useless, much to my disappointment.
+
+However, it was an easy fix that I could have fixed by absorbing more water crystals from the cave. Yet another reason to finish my business with Yo Na and the little girl. Once everything was over, I could wash my hands, err, wings, of them.
+
+Wait, now that I thought about it, didn’t I have a water skill already? I’d just leveled up, but the little girl took my mind off it, and I never checked it again.
+
+[Water Shot]
+
+[Shoots a water projectile from the user’s mouth in a target direction. The efficiency of the shot depends on the user’s INT and Water Affinity.]
+
+Yep, it was just as useless as the other. Wow… but that technique sounded really strange, wasn’t it just a basic fireball, but out of water, why did it have to come out of my mouth? Would I become a dragon once I mastered this skill or what?
+
+Putting aside the exciting, yet unusable water skills, I looked at the other one I’d received during my level-up. The second skill was far more interesting.
+
+[Fire Inferno]
+
+[Flap your wings to create one or multiple tornadoes that shoot off in front of the user. This skill can use any type of fire, but the best synergy is with Phoenix Fire. The speed of the tornadoes can be controlled by the user. The efficiency of the tornadoes depends on the user’s INT and Fire Affinity, as well as [Fire] Mastery.]
+
+It sounded far more fun to use and much more devastating than the water-based skills. I wished I had the little koi fish with me to help train my water skills, but I still couldn’t use them. I was hoping she had a way to help me increase that, but I doubted. She didn’t seem exactly… bright.
+
+Anyway, it was finally time to look at my available evolutions. That was by far the most exciting part of having reached the right level, and I could barely wait. I was putting it off because I was nervous, but… it was time.
+
+[Twin Elemental Phoenix]
+
+[This Phoenix has unlocked the power of two elements, which gives it a great advantage in combat. The Twin Core formed from he combination of two elements will make it so no further elements could be unlocked, but greatly increases the power of the other two elements. This evolution path unlocks the path of the [Dual Phoenix Lord].]
+
+Woah… I could already imagine my Fire Affinity skyrocketing, even though it was already absurdly high. Well, I liked the idea, but I would much rather keep the ability to unlock even more elements.
+
+[Deathtalon Phoenix]
+
+[A branch evolution of the Pyretalon Phoenix, this Phoenix has claimed multiple lives using only its body. As a result, it decided to give up its wings to—]
+
+Skip.
+
+[Again…?]
+
+Yes, I don’t want to give up my ability to fly.
+
+[Fine…]
+
+[Aquatic Phoenix]
+
+[After getting familiar with water, this Phoenix has developed the ability to swim and breathe underwater with the expert movement of a fish. These phoenixes can control water to their will while also being proficient with fire. Their feathers do not get wet, and fire can even burn underwater. This evolution path unlocks the path of the [Aquamarine Phoenix].]
+
+Not a bad idea, though not exactly what I was looking for. I didn’t feel like I would like to become a fish-bird hybrid pretty soon. Plus, with enough will, I could do that without the need for an evolution path. I already had the Water Breathing skill after all.
+
+[Phoenix Heir]
+
+[This Phoenix has unlocked part of its potential, which gives it the right to compete for the title of Phoenix Lord. This evolution sets the Phoenix on a path of bloodshed and ash, while receiving large bonuses to its stats. This evolution path unlocks the [Phoenix Sovereign] evolution.]
+
+What the- Hold on, this… seems really good, doesn’t it? A large boost to my stats means I would be even stronger, but ‘Heir’ means there are others competing against me, right? I am still too weak, so I don’t want to have to fight anyone for their position. In the off chance that I would be the only heir, though…
+
+[Primastic Phoenix]
+
+[After unlocking the water element, this Phoenix has figured out several other ways in which water can be used. This evolution unlocks the Light Element, alongside a few other perks that would increase combat and survival ability. This evolution unlocks the path of the [Mistborn Phoenix].]
+
+That sounded pretty cool, but I couldn’t say I was looking forward to getting it. Unlocking a new element I had no idea how to use on top of the two I already had seemed like a waste of an evolution, plus it didn’t give me anything else. Not to mention, my current Elemental Phoenix already allowed me to unlock other elements.
+
+I was waiting to see if there were other evolutions available, but it didn’t seem like that would be the case. That meant that I had to choose between the ones here. I was sort of expecting to get a ‘Lightning Phoenix’ evolution or something, but it doesn’t seem to be the case.
+
+With that settled, I could not help but wonder what would happen with my current evolution once I picked another one… System?
+
+[Upon the selection of another evolution, the previous evolution would be absorbed into the new, super evolution.]
+
+I see.
+
+That made sense, and I saw no reason to hesitate. The simple and most obvious choice out of them all was, of course—
+
+“Bird.” Yo Na’s panicked voice sounded in my ears, and when I focused on her, she was already standing in front of me, her large face almost pressed against mine. “Come, I need your help, now.”
+
+Her sudden request made me jump to my feet, and before I could even agree or disagree, she grabbed me in her mouth and ran off toward the outside.
+
+My evolution… I cried inwardly, but there was little I could do about it for the moment.
+
+Yo Na had snatched me away.

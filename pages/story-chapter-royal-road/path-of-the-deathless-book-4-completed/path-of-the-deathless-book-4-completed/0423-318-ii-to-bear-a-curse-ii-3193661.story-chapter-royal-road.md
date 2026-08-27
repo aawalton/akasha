@@ -1,0 +1,171 @@
+---
+id: 12da02e2-0dc9-54e0-8e93-2bfd18595074
+page-type-slug: story-chapter-royal-road
+title: "318 (II) To Bear a Curse [II]"
+slug: 0423-318-ii-to-bear-a-curse-ii-3193661
+partOf: path-of-the-deathless-book-4-completed
+position: 423
+ownLength: 3131
+unit: words
+publishedAt: 2026-03-25
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3193661/318-ii-to-bear-a-curse-ii"
+royalRoadId: "3193661"
+---
+
+318 (II)
+
+To Bear a Curse [II]
+
+“So, Shiv just fell over after one of the singing wolf-men struck him over the head and has been unresponsive since,” the Culturist surmised. The owl-hooded orc hummed as he continued spinning a veil of Dimensionality and Animancy out from his hand, bundling Shiv's unconscious Revenant in a dense web of magic. It was barely enough—and wouldn’t be enough for long. Shiv’s cutting aura was ripping through the mana, and when the Culturist ceased actively reinforcing his cage, he would soon burst free.
+
+“Yes,” Uva said. “Do you know what could have caused this? Or how to wake him up?”
+
+“No,” the Culturist replied immediately.
+
+“Nor I,” Valor followed.
+
+Uva barely avoided flinching. She closed her eyes and gritted her teeth in annoyance. “Were you here the whole time?”
+
+“No. I was speaking with the Educator about a certain Legend Hawgrave. Then, I had a discussion with Roland, and after that, I traded words with the Starhawk. I arrived just as things went… strange. I didn’t think his Revenant form could be knocked unconscious in the first place.”
+
+“He can still sustain cognitive damage while dead,” Uva said. “But a concussive knockout carrying over from one of his physical bodies? No. Never.”
+
+“The Fairwoods are the source of a great many stupid, absurd, but also extremely potent skills that most Patternist Pathbearers do not have the means to contend with.”
+
+Uva was getting really tired of people ambushing her. She turned to face Hades Hymn, who flickered into existence beside the Culturist without warning. His body glowed with a translucent, violet radiance, and Uva guessed he was casting some kind of Divination-Psychomancy spell to project his spirit across dimensions. She just didn’t know how he knew to appear and butt into this conversation in the first place.
+
+Looking at Uva, Hades wiggled his nose. “I know because it’s not hard to monitor you three with how much strife you give off. And also because the Culturist here just told me.”
+
+“I needed someone with greater expertise than I on this matter,” the orc explained without a hint of humiliation when Uva frowned at him. Which was the worst thing about him: humility. It made someone aware of their limitations, and far too often, an enemy who knew the right choices to make was outright more dangerous than a blind fool who was slightly more powerful.
+
+And that’s the separation between Harkness and the Culturist, Uva realized. He would have never gambled at passage as she did. And he would have definitely not let us live after gaining a Legendary Skill Evolution.
+
+“So,” Uva pressed. “Do we have any ideas on how to fix this?”
+
+“Well, if what Cullywier says is true—” Hymn began.
+
+“Was he tapped on the top of his head? Just once?” A new voice entered the fray. The Educator marched across the bridge of the Court Leviathan, with Jessica trailing behind her. The Giantsbane’s Inertium helmet was off, and she gave off a sour frequency of bitterness, humiliation, and uncertain rage, but it briefly went silent as she made eye contact with Uva.
+
+“Just once,” Uva confirmed. “I think there was also a chain of… flying frying pans fluttering around his head.”
+
+The Educator pressed both palms against her temples and rubbed them in a circular motion while muttering something under her breath. “Of course there were. I think our dear Deathless has fallen victim to A Tap on the Head; a Narrative Skill used by the more… amusing denizens of the Fairwoods.”
+
+“Why, Lost Ascendant, you have knowledge of the Fairest?” the Culturist said with surprise.
+
+“Not nearly as much as the Headmaster. Especially with the Brokers' pet fairy feeding him information. But still enough.” The Educator’s face scrunched up uncomfortably. “I once sought to find inspiration for some of my drawings within the Fairwoods after an encounter with one of their toon subspecies. The way they moved, the exaggeration, and the animated detail, it inspired me. But my interest proved to be a trap.”
+
+“Did one of them tap you on the head, Maia?” Jessica asked.
+
+“One of them tapped me on the head,” the Educator spoke bitterly. “And when I woke, I was bound with Tension Rope. Which, as the name implies, doesn’t break until a certain amount of narrative tension is reduced. They tried to use me as bait to lure out one of their enemies so they could swat him over the head as well. Because, in their words, ‘it is the prerogative of the dastardly to fish for doofus do-gooders in desperate need of a noggin’ bashin’.’”
+
+“I understood some of those words,” Uva said. “But how did you waken, after? Did it just take time?”
+
+“Perhaps, but I didn’t get to find out before they splashed a bucket of ice-cold water over my head.” The Educator grimaced. “Soaked my robes and ruined my brushes. I wish I could say I gained great satisfaction ruining them with my paintings, but the damned cretins don’t stay dead or ruined. Incapacitating a toonish Fae is easy. Trying to kill or harm them permanently doesn’t work because it goes against the rules of comedic effect. Damnable creatures.”
+
+“Culturist, spray the boy,” Hymn commanded. “See if it does anything.”
+
+The orc grunted and flicked a finger at Shiv’s comatose form. A jet of Hydrokinetic water splashed into the Revenant’s mana-wrapped face and soaked through the Divination-Dimensional strands.
+
+For a moment, nothing happened.
+
+Then, Shiv’s magically wrapped body jerked upright, and an explosion of crimson-tinged crescents cleaved out from him in all directions. More of the Court Leviathan was rent asunder. The Culturist somersaulted out of the way. Colorful illustrations sprayed free from the Educator’s brush as they formed a bulwark around the writhing Revenant—and were ripped apart in an instant. Uva hid behind her Awakened shield, who was now whimpering and praying. “Oh, Semper Paragon protect me from this hit! Don’t let me break, don’t let me die again! Please don’t let me die again…”
+
+Through it all, Shiv thrashed and struggled. With a final burst of tides, he tore free from the magical cocoon holding him, and he whipped his head around in confusion. “Where… where did the singing wolves go? Where did… Oh…” He looked down at the Vitae-formed hands of his Severed Shadow. “I’m back. Wait. How the hells did he knock out my Severed Shadow too?”
+
+“Fae Skill,” Hymn called from behind a wall of badly mutilated illustrations. Whatever they looked like before was of no consequence; the remainder now stood as mounds of dismembered paint slowly pooling into the open wounds lining the ground. “You got hit in the head, and the System decided it would be funny for you to pass out.”
+
+“What?” Shiv rasped. “But that’s… that’s just… that’s the dumbest thing I’ve ever heard. That barely makes any—oh, shit, Adam's still back there! Uva, link!”
+
+Her strings were already snaking through the air before he finished those words. Once more, they were connected, but this time she didn't tether herself completely to his ego. If they ran afoul of another unexpected Fae Skill, she wanted to have a degree of separation as protection. As Uva tried to reach out across his myriad bodies, she realized that all of them were unconscious. She couldn't wake any of them up. They were still there. She could prod at their minds, but they felt like opaque balls of lead—so unconscious they became dense and impenetrable.
+
+“Well, this is going to be inconvenient. We might need to splash the faces of your physical bodies one by one to wake them.”
+
+“Seriously? That's how it works? I'm in a coma until someone dumps a ton of water on me?”
+
+Hymn’s projection frowned. “Cullywier claims that your bodies can also eventually wake up on their own… when the System finds it amusing enough. Exact details elude even him. Narrative Skills are a… subjective art sometimes.”
+
+Shiv’s Severed Shadow slumped as if afflicted by a mood of great despair. Which he actually was, since the Usurper’s Curse was still burning inside his soul. Uva drained him of the rotting malaise and continued trying to push through to his physical body lost in the Fairwoods, but found it a hopeless endeavor entirely.
+
+“Shiv, I think we're going to need you to make another body. And find a new point of entry into the Fairwoods.”
+
+“There’s just suffering and bullshit waiting for me at every turn,” Shiv grumbled. He paused as a ticklish sensation passed through him. It started as a flicker amidst the bleak emotions pouring into him, and then combusted briefly with a flare of humor. “But getting dropped like that was… Well, it was kind of funny. It didn’t even hurt. And then I just fell over. Like I got my strings cut. Right on the damned wolf-guy. Squashed him flat. You think that killed him?”
+
+“If he is of the toon subspecies, almost certainly not,” the Educator said from the side. “He might be flatter than a sheet now, but physical violence will do little more than create those wretched textual sound effects which end up smashing into you while the damned Fae sports boulder-sized lumps on their heads but little in the way of true injuries.”
+
+“Then how do I kill them?” Shiv asked. “Am I going to have to cut their souls or something?”
+
+“Take the humor out of the situation,” Hymn interjected. “It starves them. It makes them shrivel. The less you play the straight man or go along with their antics, the weaker they become. Deprivation of comedy is like mercury poisoning for a toon, apparently. Also, Cullywier is baffled and slightly offended that you didn’t bother consulting him at length regarding the Fairwoods before entering.”
+
+“I was kinda hoping this would be a quick adventure. You know. Just in and out. Twenty minutes to a day.” Shiv shuffled awkwardly as his Severed Shadow settled back into its silhouetted state. “But I might’ve been a little too hopeful.”
+
+“Far too hopeful,” Valor concurred. “Now. If you cannot wake your other body, can you try swapping places with it instead?”
+
+The blade stored within Shiv's chest began to glow brightly. “Already trying to do that. Feels like I’m cutting through something pretty thick, though. Like there are iron bars around my body, and I’m using a plastic knife to saw through.”
+
+There is no blade so fierce that the ropes of tension can afford to be frayed by the triviality of violence. The fullness of your Unique Skill can not be denied, but it may take years yet for a maggot to eat its way through a book.Hymn frowned at Shiv's words. He looked askance from where he was and shook his head. “Cullywier says he has no idea why that might be.”“Well, I—” Shiv shuddered as a lashing chill swept across his face. Uva cringed in sync—and realized one of his physical bodies was being awakened. The barrier blocking her from accessing his unmoving form burst, and she slipped across without delay. “I have access to his body again. Extending Psychomancy threads.” She connected her mind to all others aboard the bridge, and began broadcasting what was happening with Shiv in the Fairwoods into their senses…
+
+***
+
+Shiv sputtered and gagged as his physical body woke minutes after his Severed Shadow did. A throbbing ache pounded in the back of his head, while his fingers and toes felt like they were stumps of pain, hardened by ice. His vision was veiled by a dense fog of confusion while everything around him was a dull drone of coldness and chaotic noise. He shook but found himself bound in rattling chains, swaying to and fro as his Shapeless Tides speared out in all directions, trying to rupture the chains holding him and tethering him to the ceiling. To no avail.
+
+He tried again—harder. He flexed with genuine strain. The metal didn’t even groan or scream. Shiv’s muscles bulged—and his Voidmantid armor further boosted his strength and tactical control. It didn’t matter. He was genuinely trapped.
+
+A haughty chuckle sounded from far below Shiv. “It’s quite the thing, isn’t it? The funny little fae, and their funny little ways. It’s all so ridiculous at face value. So much so that we cannot take them seriously. Until it is too late.”
+
+Shiv turned his head toward the voice, where he met the green crescents that were Harkness’ sneering eyes gazing up at him. She was not directly below him, but a hundred meters in front. He heard another splash of water, and Adam inhaled violently somewhere beside Shiv, as if he'd been abruptly woken from a blissful slumber.
+
+Harkness hummed. “I would mock you for being captured by those five, if they hadn’t taken me prisoner during my first foray here as well. I fled into the Fairwoods in desperation, seeking refuge, only to run afoul of five bandits. Wolves dressed in the garb of young maidens, seeking new prey to indulge their absurdist routine.”
+
+“Guessing you got a bit of a knock on the head too, huh?” Shiv asked. As he blinked, he realized there was nothing wrong with his Awareness. The reason he couldn’t hear was due to the mist coiling around him. It obscured his sight and muted all ambiance.
+
+He couldn’t even sense Adam with his Atlas through the fog. But Harkness was unaffected, despite being way further away. Probably because she controlled the veil. Which meant that she was likely the one holding it in place as well.
+
+“I can’t get through the cold mists either,” Uva whispered, paranoia taking hold. The Fairwoods had already taken them by surprise once, and with all the others tuned in, they were getting live feedback from Hymn and Cullywier regarding what they faced.
+
+“We should have probably done this shit to begin with,” Shiv grunted with annoyance. “Get a bunch of people to help us. But I was kind of hoping for a fun adventure for three, a quick Curse-breaking, or us just running away if everything went wrong.”
+
+“Can’t have a break,” Uva replied. “Of course, the System might have been setting up this punch for a while now.”
+
+“Seems like it. Felling Harkness. Couldn’t just do us a favor and let herself get eaten by a cave biter or something.”
+
+“Since when were we ever that lucky?”
+
+Shiv chuckled. “Dunno. Ask me after I feed her to a cave biter.”
+
+More of the mists drew back like a receding curtain, and Shiv found himself hanging from a distant ceiling, bound by dense links of raw iron. The chain that held him looked more suited for anchoring a ship, and as Shiv tried to break out using his Physicality, he ended up just wriggling like a worm on the end of a hook.
+
+Not ten meters away, Adam shared a similar fate. The chains were far too big for him, and most of his body was squeezed tight. He tried drawing in moisture and shifting into his Hydrokinetic form, but something was repressing his magic just as much as his physical might. “Shiv… is that… Is that you?”
+
+“Yep,” Shiv replied flatly. “So. That was kind of humiliating, wasn't it?”
+
+“Quite,” Adam agreed, so annoyed that he even began biting at his binds. “Ascendants be damned, this… Shiv. I’ll make you a promise if you do the same for me: We tell no one that a group of wolfmen that look like they belong in a children’s storybook managed to bring both of us down in a single move each.”
+
+Shiv winced. “Umm… I would totally agree to do that, but… Uh…” He didn’t want to betray Uva’s presence in his mind. That, and the fact that everyone else was watching.
+
+“Oh,” Adam breathed. The fight went out of him after that. “You know, it’s rather freeing, feeling like a pitiful fool. No need to worry about your reputation anymore.”
+
+“You really believe that?” Shiv asked.
+
+“Absolutely not, but Cognitive Therapy is telling me that sometimes delusion is an important medicine when it comes to not developing crushing depression.”
+
+Comedy 16 > 17
+
+Harkness chuckled darkly as the mists expanded across the entire room. She brushed a strand of hair behind her ear. It was unchanged, black with a single white stripe in front and reaching down to her shoulders. “A self-soothing Psychology Skill. Quite the apt skill for a Young Lord to develop. But I fear there is no comfort that will be enough for what is to come. The only mercy and relief you can find lie in me. And I do not feel particularly generous after what happened last time.”
+
+Slowly, the space around the two captured Pathbearers cleared, and they found themselves within a throneroom shaped from the palest, brightest ice. Chandeliers hung from high above, radiating with Cryomancy mana. Colossal pillars bore the weight of the cavernous chamber, and along the sides coiled top-hat-wearing serpents bearing dense, white fur, while on the ground laughed and sneered all manner of fae. Some of them were humanoids dressed like nobility, with frills and fluffy bits sticking out from their clothes. Others were armored guards, with the majority of their warriors being toons, while the more dignified of their race resembled the hyper-thin elves that were of a similar subspecies as Cullywier.
+
+Toasty was nowhere to be seen—and something told Shiv he likely wouldn’t be seeing him again any time soon.
+
+A twisting sensation made Shiv shudder. Both he and Adam were forced to turn as their chain shifted. A heavy sensation of cold, Divine mana flooded the chamber, warming Shiv’s very bones. It was a reprieve from the cold. One that didn’t last anywhere near long enough. The incandescence faded, revealing a great and towering throne that speared high up beyond the walls of the castle, up through the ceiling, puncturing through to bring down a crowning beam of moonlight upon the regent seated as Usurper Queen of the Winter Court.
+
+Upon the throne, on the dais of the Winter Court’s castlehold, sat Lady Eileen Harkness. Once of Aviary, now a fairy queen—always a pain in the ass.
+
+“Well, mastiff,” Harkness said, twirling a pale, frost-forged shortsword in her right hand while her long legs were crossed, “where did we leave off last time?”
+
+“You snapped all my limbs and ran away like a bitch,” Shiv answered.
+
+“Ah. Right. I incapacitated you and was forced into a retreat by the Composer. Correct. Well. Let’s get right back to that, shall we?”
+
+Harkness made a yanking gesture, and the chains holding Shiv glided across his arms and legs before jerking tight in four different directions.
+
+A sickening series of snaps ensued.

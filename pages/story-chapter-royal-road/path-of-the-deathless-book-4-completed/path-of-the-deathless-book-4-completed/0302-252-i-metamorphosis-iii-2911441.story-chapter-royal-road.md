@@ -1,0 +1,119 @@
+---
+id: e9f46d2a-cb08-54ec-b2c8-4e752d6898a0
+page-type-slug: story-chapter-royal-road
+title: "252 (I) Metamorphosis [III]"
+slug: 0302-252-i-metamorphosis-iii-2911441
+partOf: path-of-the-deathless-book-4-completed
+position: 302
+ownLength: 3065
+unit: words
+publishedAt: 2026-01-04
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2911441/252-i-metamorphosis-iii"
+royalRoadId: "2911441"
+---
+
+I know the author of Seeker of the Elder Mysteries. I've visited him a few times. He's currently fused into one of the great many-eyed trees within the Stranger's Domain. He often screams one of three things: that he can feel something growing inside of him; that he can't take much more of this and would like someone to put him out of his misery; or something incoherent, like his soul being fused together, and that he sees all, that he can feel all, that he is a Fingerling.
+
+The Stranger finds him quite amusing since he thought he was going to usurp the Stranger at some point by somehow hijacking the very mutations bestowed upon him by the Stranger as sort of a reverse-engineered skill fusion. I'm not fully sure what the man was considering at the time. You have to take into account that most Seekers are not mentally well.
+
+And for those of you who are offended, I'm not sorry. You're a Seeker, you're not mentally well. Mentally well people don't delve into the Outside. Delving into the Outside all but ensures that you aren't mentally well. I am especially not mentally well, after all I've experienced. I'm simply good at dealing with my problems. I wield them as weapons. That doesn't mean they don't exist. That doesn't mean that the eldritch entities on the other end won't constantly try to tap into my neuroses and horrific childhood memories to make me bend to their whims. But I don't let them do it, because I understand myself. I understand my flaws better than they do, and I learn to wield my own mind in defense of my mind.
+
+And that is the most important thing. You have to be good at being an ape; you have to be very good at being a human or whatever you are before you can undergo a metamorphosis.
+
+Too many Seekers devolve into base creatures that scream and writhe, going from individual to unawakened monster in an instant. That's because they're fleeing from their own humanity. They flee from themselves. They flee from their flaws.
+
+You cannot transform properly if you are fleeing from yourself. That hints at a lack of control. That hints at an unwillingness to master yourself.
+
+And if you wish to become a partially metamorphosed eldritch creature, you're going to be much more complicated than a person. You're going to be much more sophisticated, immensely harder to control than your own biology. Your mind is going to fork into the future and past. It's going to be layered in ways you cannot even fathom.
+
+You think that's going to make your life simpler? No, it's going to be much more difficult. You must master yourself first before you attempt to undergo any kind of eldritch transformation, ever! But despite the stress in my words, I'm sure most of you won't listen to me because it doesn't matter that my words are the truth and that I mean you well. You are here to flee. You are worried and hateful and damaged by the life you have lived, and you think that giving yourself to a power beyond the System is your salvation.
+
+No. The Outside is not your salvation. The Outside will likely eventually be twisted by the System because the System has eaten practically everything. What the Outside will do to you is give you the ability to affect the world in ways that don't seem to make much sense, but that's still limited to how you understand the world to be.
+
+Some say, 'Give in to the madness, let it guide you, let it take you.' But it's not madness that shapes the Outsiders. It's the simple fact that they don't even exist the same way we do, and you need to fully understand how you exist before you can step beyond that threshold.
+
+-Turn and Face the Strange(r) by Legend-Headmaster Hades Hymn
+
+252 (I)
+
+Metamorphosis [III]
+
+"I cannot extract the one plaguing you. Not as I am now," Valor declared. He made no attempt to hide the shame in his words. "I am sorry, Sister Uva. I wish I could provide you with a solution to your problem, but I can't. Your corruption runs too deep. My Animancy is insufficient. My memories of facing the Outsiders are fragmented as well. There is not nearly enough of me at this time to contend with such an adversary. And… I fear there might never have been enough of me to overcome an eldritch god to begin with. Legend or not, I was not Divine. There is a threshold to my power—rules the Outside might not abide by.”
+
+"No need for self-blame, Legend Valor." Most of Uva's forking consciousness remained at war, forming a denser and denser weave to her layered cocoon around Blackedge. No longer did the breaches happen so often. She learned that some of the Outsiders could only be carved with more intricate configurations in her Psychomantic spider web. However, there was a portion of her psyche that panicked, that suffered on her behalf. That fragment of her mind had been consumed by absolute terror ever since the Eldest made its corruption known.
+
+And there is another benefit to my Skill Evolution. A single instance of 'me' can continue to have the mental breakdown the rest of consciousness desperately needs, so I can continue to function overall. What joy; how effective. Uva’s lampooning was matched only by the sheer existential dread that constantly overflowed from inside of her.
+
+She remained cool on the surface, functional in operation, but there was a part of her that was howling, screaming, begging, crying for the Composer to save her—and her goddess heard every single word.
+
+The Composer weeps and laments: “Oh, child. My precious, Cherished child. If there was power enough in me, I would give it. If there was enlightenment enough inside me, I would offer it. But I cannot. I do not know how to cure what ails you. I can no more mend your soul than I can fix the plague eating through my weavers.”
+
+Her voice was tinged with sadness, and the Eldest latched onto the moment to speak: “Where some gods are entire, this one is but a growing splinter. Insufficient now. Perhaps insufficient for all time to follow. I can give more. I can make you more. I can—”
+
+“Silence!” Uva snarled psionically. Her telepathy shattered the minds of a few hundred Fingerlings, but did nothing to the nightmare staining the colors of her deeper soul.
+
+“So,” Rose began next to Uva, “explain this to me again, Starhawk, because I'm not getting it. Why can't you just burn out this weird horror thing that's nested inside her skill using your incredible power?”
+
+The study at the peak of Starhawk’s Perch was filled by what few remaining Biomancers, Psychomancers remained alive in Blackedge, as well as the only person here that had a functioning Animancy skill: Valor. Uva hadn't called for them herself; the Starhawk had reached out to Rose Van Erren and commanded her to summon a cadre of supporters.
+
+While this was happening, the Stranger was having one of his meltdowns and was loudly screaming for his children to see clearly, to find Blackedge, to find their way in, and to do what they were always supposed to do, which was to steal Uva's body, hollow out her mind, and use her as a proper soul sleeve for the eldritch god to wear for his pleasure.
+
+"Scouring her skills and mutilating her spirit are not the solutions to this problem." The Starhawk's voice reverberated through the room. A shadow of the deity was manifested, and he looked upon Uva with a posture of powerlessness that mirrored the Composer. "I suspect that the Eldest has arrived through your Dreamtaker's Gaze skill, because the Eldest exists in all other Outsiders. From there, they spread to her other powers. If I shatter her Dreamtaker's Gaze skill, then she will not be able to sustain me by her own might. If I break too many of her other compromised skills, then Blackedge is certain to fall. For she needs to be at peak capacity to face the constant encroachment of our adversaries."
+
+"My Psychomancy is the lodestone,” Uva said. “Without it, there is no defense of Blackedge. There is no protection. There is no hope. And it too is compromised now.”
+
+"It is changing," the Eldest corrected, whispering from the depths of her very soul. "You are blossoming, becoming more. This is not a dark thing; it just is. It is the path of metamorphosis, it is the path of ascension. You must go beyond if you wish to—"
+
+"I did not wish to!" Uva snapped, a snarl of anger escaping her. An uncharacteristic rage took hold of her body, and she teetered close to the brink of a frenzied state. "I did not wish to," she said, her anger cooling quickly, returning to its ice-cold state. Her focus asserted itself as she used her Psychomancy to infuse her mind with iron-clad control.
+
+"That is the great problem with you, Eldest," Uva seethed. "You did not ask. I did not get to decide. This was not my metamorphosis. This is yours. You imposed yourself upon me. You are trying to change me against my desires. You use words of sympathy and reason, but you don't fully understand them. Because you can't, just like I don't fully understand you. And now you are here, desperate for me to stop struggling, desperate for the Starhawk to pull away his power from defending my soul so that you can take the rest of me, so that I can be transformed into whatever twisted effigy you wish to make."
+
+Compounding her darkening mood were the mana storms sweeping through the Stranger's wilderness. The colossal trees veined with branching eyes were being consumed. Massive cataclysms of Aerokinetic lightning lashed at the realm, warring with the Eldritch, spreading further and further, tearing the very fabric of this place apart, reducing the places where Uva could hide. Yet it did nothing to stymie the Stranger's offspring, for they were forced into the storm, cast into oblivion, swallowed and rent apart by the fangs of the System, abandoned by their parent. They were used, without their consent, without the ability to decide for themselves.
+
+Blackedge was slowly running out of places to hide, and the Fingerings were closing in. But that might not be the town’s undoing; if Uva unraveled first, there would be no desperate last stand or escape. Only instant destruction. Only subsumption at the jaws of the Stranger, or the parent he could not perceive.
+
+And in the miserable depths of her heart, she found a kinship with the Fingerlings. For she was in the same position. Only her siege was happening from the inside. Only she didn't face a parent, but rather a hostile entity that couldn't understand why she didn't see it as a benefactor.
+
+"Okay, fine," the real Rose said, rubbing at her eyes. She was beset by exhaustion as well. She hadn’t slept for many days, a trifling thing for even an Adept Pathbearer, but Rose was still barely more than a Pathless, and Uva could still remember when her own Physicality and Toughness were trifling skills. "We can't do anything to her skills. We can't use any Animancy to lance the fucker like a boil. So, what can we do?"
+
+"For now," Uva replied quietly, "I will hold the Eldest’s influence at bay. I will try to find a way to escape first. If we can get back to Shiv, perhaps he will be able to pry it free. He managed it when I was only lightly infected, but that—"
+
+Uva suddenly cried out as something lashed at her from the inside. Something exploded outward in fragments and fractals. Her skill didn't shatter, but something bit deeper into it. And as she spasmed, as her Psychomancy almost winked out at once, she heard the Eldest deliver a declarative statement, more than words, more than intent. A law that was inscribed upon her very soul.
+
+"No. Change comes. Cannot wait. Will not be denied by the Deathless, by the anathema. Change comes, accept no more. Now is the time. Past, present, future aligned."
+
+Something soft, sour, and altogether yolk-like slid over Uva's tongue. The very sensation made her feel even more nauseous. And as she coughed, she realized she was vomiting, and she was being held up by the people who came in to assist her. Rose braced against her weight while Valor pulled her back to her feet.
+
+The Starhawk was calling out to her while the Dreamtaker remained confused, unsure why her vessel was so affected, but she also seemed to be suffering from an acute case of active dementia. The Dreamtaker couldn't perceive anything the Eldest did, no matter how many times it was described to her, and so everything happening to Uva seemed an enigma, an anomalous and incomprehensible mystery to the Dreamtaker. It was akin to suffering from the throes of schizophrenia. It was an ugly thing—to have a parent nested inside you, hiding within you, willing to reach out and pervert anything that you touched. It made every god in the Outside contagious to the Eldest's whims.
+
+"Kid—fuck! Kid! Uva?" Rose called out.
+
+Her hands were on Uva’s cheeks, and the Umbral responded deliriously, coughing hard to clear her throat. “It's like a ladder, a ladder made from teeth,” she hissed. “Everything up and down, everything up and down, hitting into the same pairs of jaws, the System on one end, the Eldest on the other, all of us just prey, trapped in between.”
+
+"Alright, kid, you are in ugly, ugly shape, let’s… Fuck me. Valor, Thaen, one of you dumbshits needs to come up with a way to help. We need to do felling something, motherfuckers! Come on! Aren’t you a Legend? A god? Come on!”
+
+But as she gripped Uva's left arm, part of the Umbral broke free, splitting away from her like glass. Rose let out a cry of surprise, and she stumbled, off-balance. However, rather than falling, Uva felt time flow slower around her, felt the world still. A part of her mana had been corrupted, had been woven into her being intractably, like a set of fibers.
+
+But then a roaring flame coursed through her, driving the influence of the Eldest back. She felt the corrupted skill shatter and reform. She felt bits of herself get flayed away. Her Cryomancy was damaged. Uva shuddered, barely able to enunciate her pain. It was only Valor's effort and Rose's help that she remained standing.
+
+For a moment, she teetered on the brink of oblivion. But she felt so many minds clinging to consciousness, still fighting, still warring against the Stranger's offspring, that she knew she couldn't. Even now, at the brink of agony, she couldn't. She had too many people to guard, too many responsibilities under her charge.
+
+And if she fell, she wouldn't be able to face Adam. Worse yet, she wouldn't be able to face herself. She was a Cherished Sister of Weave. And even if these weren't her people, they were still her duty. She was still devoted to the Composer's ways. And whatever flaws her goddess might have, mercy and nobility were not among them.
+
+When the pain finally faded and she regained control of her own body, she could hear the Starhawk speaking. "I had to break apart part of your skill, Sister Uva." The god sounded apologetic, but ultimately resolute. "They are still there. They are still deep within your Psychomancy, within a number of other skills. But they remain dormant for now."
+
+Uva found herself staring up at the ceiling. The roof above her was cracked and veined with damage. She could see the dense nest of translucent and incandescent mana that was threaded over the top of Starhawk's Perch.
+
+The rest of her mind continued working. Only this portion of her endured the brunt of the pain, suffered the consequences of mere unconsciousness. It was quite a considerable Heroic-Tier Skill to have.
+
+"It's also not enough." Another hallucination manifested beside her. It was a clone of herself, shaped to seem exactly like Uva, except in one specific way. The left side of her body was fracturing, shattering like fractals of ice. Chronomancy was infused within it. It was power that left everything in stasis, that froze more than just temperature.
+
+"Get out of me," Uva hissed. She bordered on the verge of delirium, but the anger inside her had hardened, like ice, hardened, and found itself utterly impotent.
+
+"The Eldest is speaking to you right now?" Valor asked. Uva didn't have time to reply to the Legendary Pathbearer. The Starhawk's power flowed through her once more, but this time it didn't banish the Eldest. This time, the hallucination stayed, and now Uva questioned if this delusion was born of her own mind, of her own mental state being driven to the very limit, or if it was truly the eldritch being making its final play for her soul.
+
+"It matters little. I am metastasizing. You have drawn on my power too much. Too much of you is bound to me. I will save you. I will see you reborn. To fight will see us destroyed. There is no other choice. There's no other way. I have to be. I have to be. I have to be."
+
+As the Eldest recited their words like a mantra, Uva realized that they might not be any freer than she. They had to spread. They were only conscious when they were within her. They were only real when they were bound to her skills. She considered that the Eldest might effectively be a primordial plague, traveling through the other Eldritch Gods.
+
+And now, they experienced a brief moment of the truth as they spread through her. There was an existential terror here, a coldness she'd never experienced before. To only be real in instances, in flickers, and then afterward to be merged with something else, what kind of life was that? And what would remain of her if she truly became one with it? What would remain of them? Would either of them still be at all?

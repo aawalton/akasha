@@ -1,0 +1,287 @@
+---
+id: ab8ec72f-7002-527c-9195-2f78ca5be38d
+page-type-slug: story-chapter-royal-road
+title: "370 A Coalition Against the End [II]"
+slug: 0485-370-a-coalition-against-the-end-ii-3480052
+partOf: path-of-the-deathless-book-4-completed
+position: 485
+ownLength: 5249
+unit: words
+publishedAt: 2026-06-01
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3480052/370-a-coalition-against-the-end-ii"
+royalRoadId: "3480052"
+---
+
+It is an utterly silly thing to allow hatred to dictate your life. It's not that I underestimate such an emotion. After all, I once was a mindless beast that feasted upon magic and brought devastation to all the unfortunate little creatures who dared intrude upon my mana storm as it swept through the most verdant and fertile parts of the land.
+
+Even today, I lament all the innumerable potential employees I lost due to my baser nature.
+
+Even when I was eventually captured by the sagacious Legend-Philosopher Su Wu Tian and placed in his pocket biosphere to celebrate his two hundred and seventy-fifth name day, I continued to be that hateful, ignorant monster that yearned for nothing but food and to break free and rejoin my mana storm in its pointless rampage across the countryside.
+
+But rather than treating me as a source of pure amusement, Su Wu Tian kept me well fed during my years of captivity. And when he noticed my intellect growing in tandem with my ire, he decided to educate me.
+
+It seemed a mad thing to do at the time. Though people knew monsters and certain inanimate objects could awaken, aiming to awaken a dragon you had leashed was akin to courting your own destruction—If you treated said dragon poorly, that was. Not quite so between me and him. He ensured that the quality of my life was quite good, and as I grew in self-awareness, I realized that though I was in a cage and though I was little more than a pet, this was a kinder fate to experience than to be cut down by the cruelties of nature. As my education developed and my wisdom and knowledge grew, whatever mindless hate I once felt toward my captor dissolved into a genuine curiosity and an endless voraciousness, not for flesh or mana, but for knowledge. You see, I found myself interested in him after a time, as much as he was interested in me.
+
+I was a thing of pride for him, for who else on Integrated Earth possessed a great dragon? Who else but the Legend-Philosopher who guarded the peace of High Harbor?
+
+He truly was one of a kind, for almost no one else viewed the world like he did, driven simply by the urge to exchange. With his morality altogether absent, his actions were dictated by a cost-benefit analysis of what might bring him the most profit or entertainment, and what might cause him the most harm or risk.
+
+By the time I mastered the classics, educated myself in math, science, history, and more, I delved deeper into the governing philosophies that inspired him and began asking him more and more questions, day in and day out.
+
+Anyhow, that's how I got my name. Wu Zhi. Know-Nothing, for you Westerners.
+
+Though Tian berated and complained about my incessant urge to learn, he also found himself delighted by my company, someone who understood him, and in time, someone who exceeded his knowledge and intellect.
+
+And when I finally grew greater than him in all aspects, when he was utterly at my mercy and I could casually leave my enclosure without him knowing, I did not kill him.
+
+For I had developed a different desire.
+
+Beyond wishing to understand my owner, beyond merely taking revenge, I wanted to own this man.
+
+Why?
+
+Because a Legendary Pathbearer in a world capped at the Legendary mana threshold is very, very valuable. Not to mention the personal satisfaction of mastering someone who once mastered you.
+
+There was also the fact that his philosophy wasn't so wrong. Even though he kept me in his sphere and treated me like an animal for longer than I would have liked, it was a better outcome than suffering the cruel indifference of the System as the animal I had indeed been. And so, when the time came to cast off my shackles and take hold of my own agency once more, I broke through his protections with ease and pierced into his mind. And then I made him an offer that I knew he would take.
+
+I made him choose to put on a leashed collar, one that I had specially forged for him in secret, an item that tethers him to me till this very day.
+
+It's a point of pride for me. After all, how many dragons on Integrated Earth possess a pet Legend?
+
+The point of this story, if you're somewhat dense, is that you should think. About what you can get. About what you're doing and what it brings you.
+
+Yes, revenge might feel nice, but the thing about feelings is they're fickle, fleeting, and change all the time. I still remember how I felt as a mindless beast: the purity of the hate, the overwhelming emotions. I have never felt that strongly since my awakening, and I don't miss it. Emotions are meant to empower you, to compel you, but if you choose to be a beast and nothing more than that, then the emotions will ride you. If you have any urge to be an individual and decide your own destiny, then you need to be the one who learns and knows.
+
+And you need to be economical with your mercy. For even old enemies can be made into the most valuable of employees.
+
+—Know-Nothing, Dragon-Broker of Information and Secrets
+
+370
+
+A Coalition Against the End [II]
+
+The dimensional mana coating the surface gateway changed as the Slipgate activated. Shiv, Hymn, Still Water, and a contingent of Arachnae Order Sisters waited, bathed in the portal’s ever-shifting glow. As the diffusers stabilized the mana and the spinning obelisk attuned the frequency of the gateway over to one in High Harbor, a new connection was forged, temporarily replacing the old.
+
+“I have to admit, the idea of letting the criminal underworld hold space inside the Gate doesn’t really hold appeal to me,” Still Water said, standing with all six of her arms crossed.
+
+“Well, they'll be living on top of the orcs if that makes you feel better,” Shiv replied.
+
+The Trapdoor Weaveress’ rightmost palp twitched on her face. “Doesn't, really. Orcs have a pretty good grasp of economics and corruption. Seems like this Neath runs off both of those things. There might not be a layer of insulation in this case, but rather a bit more fuel for the fire.”
+
+“Well, the Dragon-Brokers better be wise about what choices they make and what kind of people they send over. Otherwise, they might lose their spot here, and that'll see them cut off from a Unique Gate. Besides, I’m pretty sure they want to deal with me more than the orcs.”
+
+Still Water let out a chitter as the gateway began to stabilize. “And what makes you think that?”
+
+“Simple: I’m the easier game.” Shiv began counting on his fingers. “Less experienced. Less malicious. More gullible. Less everything compared to the Challenger. There’s no controlling an orc. Not really. You can bottle them or focus them, but eventually, if they lose interest, they’ll use you to scratch their itch. And from my brief meeting with these Dragon-Brokers, they're the type that never want to lose control.”
+
+“I hope you're right about all of this,” Still Water replied. “I get the idea: we're trying to draw a bunch of enemies in and use them as a standing force. A coalition of mutual animosity—the enemy of my enemy becomes my shield and all that. But there's another way to look at all this; a den of enemies is a mana bomb that's waiting to go off. All it takes is a spark, and with so much friction being built…”
+
+“Yeah, I know, and in almost any other situation, I'd agree with you. But I'm favored, Still Water. Really, really favored. It's only growing. The problems keep coming. This place is a bomb regardless of what we do. And there’s a war coming our way down the line. Wars. Better we do whatever we can to build up and gather as much support as possible. This gate has to become something more. There is no way to make it a fortress or a sanctuary with just a few High-Tier Pathbearers. We need an army. Even several armies. More than that, we need to make attacking us a mistake for everyone. Because, yeah, this might be a bomb, but the thing about bombs is that they come with collateral damage. And if you hurt enough people, you’re going to find yourself surrounded by enemies.”
+
+“It can work. It might work. But with all the unfiltered populations entering the Gate…” Still Water cut herself off. “You understand that I'm not a bureaucrat, right?”
+
+“Don't expect you to be,” Shiv answered. “I expect you to continue playing your usual role, and I think you need to have a major say in what we do. As for any paperwork or processing, well, Roland's got this disgusting skill that makes him a wonder in more ways than just combat. And we’ll build up there too. More than just mixing the factions inside our Gate, they’re also going to be bringing in pools of potential allies. That’s how Valor and Roland see it, anyway.”
+
+A final flash of mana signaled the stabilization of the dimensional frequency, and with that, Still Water also reined in her doubts. “Well. I guess it’s time for us to dance on the edge, huh?” She slammed the bottom of one of her fists against Shiv’s shoulder in a show of camaraderie. “See what I can do to keep this circus going.”
+
+Shiv grinned. “And I appreciate you all the more for it.”
+
+Their dialogue came to an end as something colossal began moving, displacing the ripples of static mana. The shade was so wide it had to squeeze through the mass of the gateway, and when it appeared, its body gave off a glow of golden glory along with a hefty wave of Chronomancy. However, the source of the time magic wasn't so resplendent; the first of the Dragon-Brokers came forth without fear, taking the vanguard of their procession.
+
+The sarcastically named Yellowbelly strode forward, and every step of his triggered a small earthquake upon the gate. Though he matched Marikos in size, it was more than his mass that caused the world to quiver. His very presence seemed to make the air tremble, and his immensity pressed down upon the space around him as if gravity had been increased ten times over.
+
+Dynamancy, Shiv guessed.
+
+While he endured the strain with ease, Still Water and the others had to plant their feet and struggle to stay upright. Meanwhile, Yellowbelly strode forward, more like a foppish noble than a feral dragon.
+
+The Dragon-Broker of problem-solving was dressed as Shiv remembered. Unlike the Dragon-Knights of the Descenders Union, his face was longer and thinner, and his twisting horns appeared more like antlers. In terms of clothing, he still wore that sleeveless, torn suit of joyous red which glistened beneath the azure light of Piety’s mana core. With the Dragon-Broker present and in the flesh, Shiv gleaned greater detail from his attire, mainly that his suit was held closed by a series of knots that ran along the dragon's right breast before curving down his navel. Yellowbelly had both hands clasped behind his back as his head twisted to and fro, examining everything within the Gate as if someone looking to buy an undervalued property.
+
+At the same time, Shiv squinted at the dragon's arms. They were ringed by a series of magical tattoos—which also projected solidified mana constructs that swirled along his limbs to fuel his crystalline knuckledusters. Yellowbelly possessed enchantments born of every magical lore Shiv could recognize and then some, and by the dragon’s posture and the lightness with which he moved, Shiv's instincts flared inside him.
+
+Yellowbelly was a formidable pugilist—one that Shiv’s gut told him might take more than a few deaths to bring down.
+
+Behind the first Dragon-Broker followed a long line of colossal automata, each of their number twenty meters tall, and transparent carriages within their torsos. They too were dressed in finery, but the tassels, capes, and hats they wore screamed expensive attendant rather than noble. More eye-catching than the bots were the treasures that glittered inside them. Most were filled to the brim with mithril coins and golden chests. A chorus of pleasing jingles sounded in sync with their every step.
+
+And they just kept coming and coming. Even as Yellowbelly got to the end of the bridge running from the Surface District to the gateway, more wealth-bearing automata followed, their number rising well over a hundred.
+
+“Deathless!” Yellowbelly’s greeting was at once a bellow, a laugh, and a snarl. He offered the slightest of bows and Shiv just snorted back. “It pleases me to see that you made it home. Again.” And all hints of joviality vanished from the dragon’s face as he scowled outright at Hymn. “With no thanks to our local representative or us, it appears. I do apologize for that—we should have ensured your trip to the Fairwoods was made properly pleasant and the like.”
+
+Shiv hovered to his right and stared at the yet-oncoming convoy of bots. “And I guess this is your apology? Bribing us?”
+
+“Bribing?” Yellowbelly choked, almost offended. “That’s not for you, Deathless. We don’t give away free money. Don’t take us for desperate fools. No. This is my expeditionary hoard. I will rest upon these riches within your gate—abject poverty gives me a scale condition. Though I have been known to forget a mound of mithril or ten in my haste to leave.”
+
+Yellowbelly grinned, and revealed a mouth filled with orichalcum teeth longer than Shiv was tall.
+
+That dental work probably costs more than all the treasures inside his bots. Shiv found himself on the border between disgust and amusement. “Scale condition. Really?”
+
+“It’s true! Would you like to see my apothecary’s note?”
+
+“You have an apothecary’s note for your made-up condition?”
+
+“The note would show you that my condition is indeed not made up.”
+
+The dragon and Deathless stared at each other. A second passed. The latter cracked first. It was barely a laugh, closer to a snort, but Yellowbelly’s grin grew wider. Then, came an invasive feeling—an urge to befriend the dragon assailed Shiv's heart. Tendrils of manufactured affection latched onto Shiv’s emotions—and were promptly shredded by the Harbinger. Even as a fractured shadow of itself, the pre-Legendary Skill was a monstrous thing.
+
+Yellowbelly’s laughter lost a measure of energy, and Shiv just shook his head. “You know something? You’re pretty amusing on your own, even without that Comedy-Silver Tongue Skill Fusion.”
+
+“Just Comedy.” Yellowbelly clicked his teeth together, the sound like an army’s worth of swords clashing. “That skill of yours. I know it.”
+
+“Harbinger.” Shiv nodded. “So. Behave, Broker. I’m not going to threaten you or have any pointless face-downs: I know what you are. You don’t fully understand what I am. But we’re letting you into this Gate. We’re giving you hospitality—even if we are suffering from abject poverty. I’m going to ask that you be a good guest so I can be a good host. I’d rather cook for you right now than do anything else.”
+
+And though Yellowbelly presented himself as the most provocative and combat-inclined of the Dragon-Brokers, an old monster didn’t keep their seat for long by way of foolishness alone.
+
+“He tastes a threat in us as well,” the Harbinger said, noting the Dragon-Broker’s core. “And we make him nervous.”
+
+Good. Nervous is better than arrogant.
+
+“Of course,” Yellowbelly declared. “But I must ask: What is on your menu? I see scarcely any facilities built beyond…” He squinted harder and noted something in the distance. “Is that a Court Leviathan? And a mess of basilisks.”
+
+“Oh, yeah. But I want to do something for everyone. You got any recommendations? We’re going to be inviting a lot of people into the Gate, so I’ll be starting a pretty big set list.”
+
+The Dragon-Broker tapped the underside of his jaw as he mumbled to himself in contemplation. “Potstickers.”
+
+“Potstickers?” Shiv echoed. That threw him for a bit of a loop. It had been some time since he made anything like that; Piety was sorely lacking in dough. That didn’t mean he couldn’t go on an ingredient run, though. “Yeah, I think I can do that. But what do you want inside the potstickers?”
+
+“Ah. Napa cabbage, fried cathead mushrooms from the fields outside High Harbor, garlic chives, and ground pork. And worry not about the ingredients. I see your intent to service us is genuine. The Dragon-Brokers and the Neath bestow our respect toward you for such willingness to host even during troubled times. We can further our end toward hospitality. How about that toward a most fruitful relationship?”
+
+“Toward hospitality,” Shiv agreed. “Now. You wanna park your hoard near Courtney and the Sky-Swallowing Carp?”
+
+“Courtney?”
+
+“The Court Leviathan.”
+
+“Ah. Quite the charming name. Yes. Yes, I will be pleased to further relations. Also, Deathless, tell me, what do you think of martial demonstrations?”
+
+Shiv quirked an eyebrow. “Martial demonstrations?”
+
+As if in demonstration, Yellowbelly made a fist and slammed it into an open palm, producing a gust of wind that almost knocked a few members of Shiv's entourage over. “The kind where the worthy and the capable are pitted against each other to show their skill for prizes in tournaments. There is quite a bit of unused space in this place, and I think the people here deserve some entertainment—and something to spend their hard-earned wealth on to make their lives better.”
+
+Shiv sneered. Wasting no time on making an economic foothold, huh? But in honesty, an area for different people to have mock fights and all that tickled Shiv’s fancy too. “You know what? We can talk about this when our first council is called to order.”
+
+“Bah. Just say yes, Deathless. I can see the gleam of strife burning in your eyes. Let yourself have some fun.”
+
+“No can do. Not my Gate. Not my rules. I’m just the cook and one of the many big sticks around here. You wanna build something, take it up with Still Water or Roland when he gets back.”
+
+“Lowering your own authority?” Yellowbelly pouted. “How unwise.”
+
+“I’d argue the opposite. I think it’ll be a messy fight between us if we go head-to-head like dumb animals; I think you’ll eat me alive in terms of actual policy negotiations and all that economy stuff I have no skills in. So. I’m going to do the smarter thing and not take the chance.”
+
+Skill Gained: Politics (Initiate) 1
+
+Barter 10 > 12
+
+Shiv’s words inflicted a new glow upon Yellowbelly’s empathetic core. The Dragon-Broker was surprised, and that brought a measure of budding respect. “The Harbinger is a magnificent skill indeed. It has done wonders for your temperament. I would say that the man I talked to in the Biscuit is altogether absent inside you.”
+
+“He’s still there,” Shiv said. “He’s just died, and during one of those resurrections, I crawled back instead of him.”
+
+“Ah. Well said. Well said. Now. I will gather the others and settle near your Leviathan as you requested. In the meantime…” The Dragon-Broker glared at Hymn again. “There are other people I wish to speak with, and potential loan options I must consider.”
+
+“Loan options?”
+
+“For your Gate. To resolve the poverty. I am deeply serious about the scale-condition.”
+
+Shiv scoffed. “Right.”
+
+***
+
+“How?” Veronica said, pinching the bridge of her nose. The headache inside her skull was becoming unbearable—on the verge of evolving into a full-blown migraine. It had been two days, and Longinus was still shrieking. His Avatars were now all but comatose from his pain, while his true faithful—the ones that didn’t suffer a psychological collapse—were severed from his divine touch. All attempts to join the Wanderer with a new Avatar ended in tragedy, the Pathbearers becoming hopeless sacrifices, sundered in mind and soul.
+
+Whatever affliction Longinus suffered was so bad that even her grandmother's attempts to coax him back to the waking world only ended up dealing her a painful blow in return.
+
+“He is a void,” Kathereine whispered to Veronica. “A divine husk. Only fragments remain of his mind, and they drift ever-further apart with every moment. There is no center to his self anymore: it is as if his very ego has been slain. How did that boy do this?”
+
+The answer and details Jessica offered granted no relief to the suffering Councilwoman.
+
+“Okay, look, I know it sounds pretty ridiculous, but that’s what happened.” Jessica had the gall to shrug. “For almost anyone else, I’d say they’re bullshitting. Except I was there when he took the Challenger’s arm off. And he definitely has Harbinger of Tripartite Ruin. I can’t be certain about what happened in the Fairwoods, but I do know that Longinus took a walk there some time back, and that there is some kind of weird goddess there. Maybe she held Longinus in place while the kid beat him until he was brain-dead.”
+
+The air that hissed out from Veronica’s nostrils was so heated it nearly manifested as steam. “I didn't ask you if his words were believable or if you think he did it, Legend-Inquisitor Hawgrave. I asked you how he did it. By this point, I no longer question his absurd accomplishments. But I want to know how he took the Challenger’s arm, and how he managed to cripple Longinus’ soul.”
+
+“Well, I would’ve told you that if I knew, and he would have told me if he knew. Probably.”
+
+Veronica glared at Jessica through the mirror. The dimensional spaces within Rusty shivered as the mana of her Nexus of All Paths reared back like a furious serpent facing a lesser brethren. “Legend Hawgrave. I did not let you stay with the boy and in that Gate for you to deliver no results. You are to keep him contained, controlled, and conditioned. You were to keep me updated. What happened is your failure more than anyone else’s.”
+
+“You fucking serious?” Jessica cried. “You’re putting this shit on me?”
+
+Veronica’s gaze grew ever-darker. “Yes. And you know I am right.” She channeled just a bit of her will into her words, and it struck Jessica as a light jab. The Giantsbane was a physical monster, and her armor made her a butcher of mages, but her heart was the same as it had been for all these years.
+
+It wouldn’t take much to sever Jessica Hawgrave’s frayed will to live entirely. Just like it wouldn’t take much to continue offering her sips of fantasy that kept her from solving herself. “Remember who you are talking to, Legend Hawgrave. Remember what I offer, and what I can leave you without.”
+
+The look on Jessica’s face was that of a starved, caged animal; she wanted to rip Veronica apart, but Veronica was also her only means of true sustenance. Vengeance was an impossibility when one’s target was also their only source of relief. Jessica swallowed hard and pressed her lips together. “I apologize, Councilwoman.”
+
+“You can apologize by—”
+
+“He wants you to attend,” Jessica quickly said. “The little council thing he’s trying to host down here. He wants you and the other Ascendants to be here. They’re calling it a Coalition of the End or something.”
+
+“They’re?”
+
+“Valor Thann’s involved.” Jessica hesitated. “So is Roland Arrow. Something… happened between him and the Starhawk. The Just fled back into his Domain after getting himself torn a new one in the battle with the Challenger, so I think it’s just Roland deciding what to do right now along with Valor, the Deathless, and a couple of others.”
+
+“I see.” Veronica frowned. There was no way she was going to attend in person, but having Jessica move her transpondence mirror around wouldn't be too hard. She also had a set of expendable Avatars; they were meant for moments like these, and if it was a trap to strike back against the Republic, then losing them would matter little. Her mind came to a brief stop here as she considered another chilling possibility: Could the boy have made a pact with one of the Strayed Ones?
+
+Roland had been spotted sailing over Lone Star but a few minutes ago by one of the Republic’s observers. Some over-zealous Master had tried to intercept him, and now a few hundred guard stations near Fortress-City Diego were silent.
+
+No. The boy is vicious and spiteful enough to do many things to damage the Republic, but the Southern Gods are consummate slavers. He would come to despise them more than us. Roland would never capitulate to that plan either. Rebellion aside, he still cares far too much for the Republic and its people; too much to see us all spent as cattle and offerings to uncaring gods sent to our world to treat as a playground.
+
+“Tell him to expect the local force to pay him a visit—and declare that there will be no attendance on the part of the Republic unless the local guards are allowed to garrison within his Gate.”
+
+“Yeah, so, they kind of saw that coming, and they already said yes.”
+
+Veronica leaned forward slightly. “Excuse me?”
+
+“The Prismatic Guard can come in at any time once the gateway resets.” Jessica scratched the back of her head. “They’re currently letting some people in from High Harbor.”
+
+“High Harb—” Veronica understood immediately. “Ah. The Brokers. Of course. Well, this was to be expected. I suspect Yellowbelly is already there, rubbing shoulders and starting brawls. You are not to address him. You are to stay away from him—and avoid him at all costs.”
+
+“What? Why?”
+
+“Because his fists are a facade for his Social Skills, Legend Hawgrave, and he will deliberately lose a fight to you and steal your heart in the process.” As much as Jessica’s vulnerability made her an ideal attack dog at times, the problem with dogs was that with the right training and treats, they would come to call anyone master.
+
+And now Jessica was doing the thing where she stared too long—something she did when she was imagining your murder.
+
+“This was not a suggestion, Legend Hawgrave,” Veronica clarified, voice low. “And your incompetence when it comes to constraining and serving as a guardrail for the Deathless has not been forgotten. I will see if I can ascertain the existence of this Usurper-Narrator, but in the meantime, you are to remain with the Deathless as much as you can, to keep him under your supervision at all times, and to inform me before he does something foolish, and not after. You are not on leave; you are here to make sure that the Republic has as many choices as possible when it comes to the problem of this living bomb.”
+
+As much as Jessica wanted to argue, as much as she loathed Veronica in times like these, the Councilwoman had always been good at balancing carrot and stick. “Yes, Councilwoman. But what about the North and South? Have there—”
+
+“As far as you are concerned, there is no north or south. There is no war. There will only be giants to kill when I send for you. Not before. Commit your focus to the Deathless. Make sure that he does not cause any further unnecessary chaos. I will address him personally and properly soon—and he will answer for what he has done to the Republic.” Veronica paused. “And send Roland Arrow my condolences for his son. Tell him that we are willing to offer full amnesty if he surrenders the Perch and all the stolen Phylacteries to us, and that I will do everything within my power—and the power of the Ascendants—to see his son mended.”
+
+“I’ll tell him that, but I don’t think he’s gonna listen,” Jessica muttered. “I think his faith in the Starhawk’s taken a blow. It had to after what the Challenger did, but… that doesn’t mean he’s just going to fold the other way now.”
+
+“I expect as much, but the offer matters. I would prefer to have Roland Arrow with us now and always. I would prefer to keep him, instead of killing him. The same reason I prefer you remain alive and well. My displeasure aside, your lives matter. You are Legends of the Republic. By now, you, more than the Ascendants, are the reasons why Yellowstone endures.” Veronica paused. “And tell the Deathless I wish to speak to him in private before any and all proceedings. There are things I wish to ask him directly, and things I need to prepare him for.”
+
+“Prepare him?”
+
+“Some of the other Ascendants will demand blood,” Veronica explained. “I expect my grandmother to frame his act as one of highest heresy, willing or not. But I have stopped her from declaring anything to anyone.”
+
+Because she’s as far gone as the rest of them, Veronica thought to herself. The revelation that a rogue Legend can somehow break a god would shatter the Republic into civil strife immediately—would cause more fissures among the Ascendants as they try to use him against each other. Yellowstone’s end would be at hand if they learn their gods are not only breakable, but undergoing a civil war.
+
+Kathereine should have known all that. There was a time such an obvious political fact wouldn’t have slipped her. But now, she was becoming a pointless seductress and deceiver—more a shadow of her greatest self with each passing day.
+
+Perhaps you finally know peace, now, Longinus, Veronica thought, remembering the man that was. Perhaps at his hands, however he did it, you went back to the grinning troubadour you once were instead of the depraved creature I've had to entertain.
+
+At some point, agelessness just meant another year of burdens, another day of watching everything you once believed in decay and splinter around you.
+
+Once upon a time, Longinus had taken a young Veronica into his arms and tossed her up and down. Once upon a time, he'd shown her places that made her jaw drop. Once, she'd called him uncle.
+
+Now, both the girl and the man were memories.
+
+More levels. More evolutions. But less ourselves.
+
+“Councilwoman?” Jessica asked.
+
+“Hm. Yes. I’m done with you now. You can go. Carry my message. And—”
+
+Jessica scowled. “Yeah, I got the point: I’ll cling to his ass and be a good little bitch.”
+
+“Your words,” Veronica said. “But you understand. Good. Now. Leave me. There are things I must finish.”
+
+There are wars I have to win. Now with one god fewer than before, and a new problem growing right in front of me. What are you scheming, Deathless? What plan churns in that dense little head of yours?
+
+As Jessica's reflection in the mirror disappeared, Veronica cast her gaze at an old notification.
+
+Hidden World Quest: Slay Tanner “Shiv” Lowe, the Deathless, before he fully comes into his power and drives your world beyond its current mana stability threshold.
+
+Success: Integrated Earth experiences an Ambient Mana Threshold Evolution. The Mythic Skill Tier becomes available to all Pathbearers within this Ambient Mana Zone; Evolve 10 Skills to Legendary-Tier.
+
+Failure: A specialized Incursion is triggered to destroy Integrated Earth in 2 years, 1 month, and 3 days.
+
+And how are you growing even faster than before?

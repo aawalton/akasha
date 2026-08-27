@@ -1,0 +1,207 @@
+---
+id: 82eb88fb-c071-5386-81d9-00b5ef088c5d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 54: Divine Lightning Construction"
+slug: 0054-chapter-54-divine-lightning-construction
+partOf: phoenix-ascension-cultivation-litrpg
+position: 54
+ownLength: 2443
+unit: words
+publishedAt: 2025-11-26
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2795775/chapter-54-divine-lightning-construction"
+royalRoadId: "2795775"
+---
+
+To begin with, we were still on the Tianxu continent. As for how far away we were, I had no idea. When I asked him about the forest I was in previously, he said he had heard of it, but wasn’t sure where to put it on a map.
+
+He did have a map, but it was only of the area, and it didn’t give me any information I didn’t already know, besides the names of each river branch and each major city.
+
+For instance, we were on top of the Blossoming Flower Mountain, named after the pink flower that blossoms on top of it every new moon.
+
+The Bai and Hu villages were relatively small villages in the area, but were nonetheless the overlords of the minor river branch. It was simply called, The Fifth Branch, due to it being the fifth branch of one of the main branches.
+
+It didn’t make a lot of sense to me, but I didn’t care enough to comment. From there, he spoke of the big cities, how the city lords were all powerful people at the peak of the Golden Core realm, and with the largest city in the area being rumored to have a Nascent Soul cultivator in seclusion.
+
+The names of the cities sounded as strange as the name of the rivers, but nevertheless, they were somewhat important.
+
+Golden Arch City was the city situated next to the First River, and also the overlord of the area. They didn’t rule over everyone per se, but they had the most strength. They were the ones with the Nascent Soul cultivator in seclusion. The City Lord’s name was Sheng Yi Yan, and he had a few children and a loving wife, allegedly.
+
+The city was named Golden Arch due to the golden arch the founder built, for some reason.
+
+The next city, situated next to the Second River, was Prosperity City, whose City Lord was named Peng Pi. It sounded funny when said aloud, but apparently he was a man to be feared, and also short of patience. Prosperity was the name it was given simply because the founder hoped for it to prosper.
+
+At least, that was the plan, and so far it seemed to have worked.
+
+The third out of the five major cities was named Emerald Grotto City, because it had a rich mine situated in its territory. If it wasn’t obvious, it was built next to the Third River. The City Lord was apparently someone who loved spending and collecting, and his only daughter also inherited that habit.
+
+From jewels, to minerals, to crystals, cultivation techniques and exotic animals, he collected everything he could. He also had the capital, so money wasn’t the issue.
+
+Out of all five cities, the fourth one had the most normal sounding name, being Martial City. Maybe, it wasn’t that normal, but at least it sounded better than the others. Their main focus was training their military, researching cultivation, and producing strong warriors capable of advancing from mortal to immortal.
+
+So far, they had a single immortal in their entire history, someone who broke past Nascent Soul and into Soul Formation. That could be considered to be half a step into the realm of  the Immortals, so it wasn’t that bad.
+
+Their city lord was surnamed Wu, and had a crazy muscular physique. Besides that and his love for martial arts, little is known about him.
+
+Finally, the fifth city, situated next to the Fifth River, was called Celestial Cloud City. That was because the first City Lord— a woman— wanted her city to be all white. To give her credit, even from afar I could tell it wasn’t a regular city, with white buildings, walls and roads everywhere. It was a little blinding.
+
+The current City Lord, a woman named Fei Wuxian, was looking for talents currently— people she could employ to create a sturdier white material— and painters to give some depth to the city’s flat look.
+
+The man and his friend, which was his blood-related brother, came from a branch of the Golden Arch City, wanting to make a name for themselves after finding an inheritance from a perished cultivator.
+
+The cultivator’s corpse only had two techniques: Shadow Cloak, a technique that shared the same name as my skill. It did exactly what the skill did, except it also granted the user a speed boost within the shadows.
+
+They used that technique to travel through the forest, ambushing beasts and going as far as kidnapping people to sell into slavery. Apparently that little girl wasn’t their first victim, and they didn’t plan on having her be the last.
+
+They had contacts in multiple villages that were willing to buy the ‘merchandise’ — as he called it— off their backs for a good price.
+
+I almost wanted to kill him at that very moment, but I held back. His day of reckoning would come.
+
+Not that I didn’t notice a strange object he kept glancing at from time to time. It looked like regular rock, but I was willing to bet that it was some sort of location sharing artifact. If he wanted his brother to come save him, that was fine by me. I was more than happy to wait and get rid of both of them at the same time.
+
+As for the second technique they found, it was called ‘Divine Lighting Construction’. He’d read it to me earlier, and it was a cultivation technique meant to transform the human body into a Lightning Body.
+
+That didn’t mean literally transforming into lightning, but making it so it had a high affinity with lightning. The cultivation technique also had a few offensive and defensive techniques within, which were pretty high grade for such a mortal-grade technique.
+
+It was definitely better than the Ghost Qi Technique, for sure.
+
+I understood what he said, and planned on checking the details with the girl. For the moment, I grabbed his spirit stones and put them aside, then walked out of the cave.
+
+I sat at the entrance, looking at the starlit sky. The chilly wind blew through my feathers, disturbing my tail which was peacefully resting on the cold soil.
+
+The forest was quiet.
+
+Then, I caught a glint with the corner of my eye, and my Phoenix Reflex kicked in, dodging the dagger coated with poison. It dug into the earth, the liquid dripping onto the grass. The once green vegetation wilted, turning yellow and losing all life.
+
+I turned back to see the man’s brother stare at me as he flew on a sword coated with lightning. It wasn’t bad for a mere Middle Stage Foundation Establishment child. However, if he wanted a fight in the air, he would not come out on top.
+
+As the clouds revealed the moon, I noticed that his clothes were tattered and bloody, clearly from the fight with the tiger. It turned out that he escaped, or came out on top.
+
+Either way, I was waiting for him.
+
+“Took you long enough.” I chuckled and took to the skies, ignoring his shocked gasp and angry roar. It didn’t take a genius to realise that his brother was bait, and also only took the average person a moment of reflection to put two and two together.
+
+For a moment or two, he was completely baffled. Yes, the tiny yellow bird could talk human language, get over it.
+
+“You’re the one who lured the tiger to us?!” He yelled as he pulled out another, fancier looking sword. Indeed, the man figured it out, but alas, it was too late.
+
+Even if he was at the Middle Stage of Foundation Establishment, so what? Killing him would be as easy as waving my hand. But I was a little interested in knowing what that artifact was. Did it have something to do with their inheritance, or simply something they had from their clan?
+
+I wasn’t sure if any of my questions would be answered, though. The brother didn’t really look like he wanted to talk, and seemed more interested in killing me. It was understandable, but I really wished him luck with that.
+
+“You’re the ones that kidnapped the girl. I heard everything, so don’t bother lying.”
+
+“You’re a fucking Spirit Beast, what do you care?”
+
+Well that question was meaner than he meant it to be, of course. Just because I was a Spirit Beast that meant I couldn’t care? The gall!
+
+This was one of the most reasonable discussions I’ve had with humans, to be honest. At least he didn’t immediately attack. Whether me talking or not made no difference, he was already my enemy, and he knew that well.
+
+Either he died or I died.
+
+Lightning wrapped around his sword as he weaved a one handed hand sign, and thunder boomed around him as his flesh sizzled.
+
+He attacked me right after finishing his sentence, which was a little rude, but I was curious to see how his lightning would affect me.
+
+Therefore, I didn’t dodge his incoming sword attack.
+
+The blade stabbed into my shoulder, but remained stuck a few inches in. It hurt like hell, and lightning rushed in through the wound, invading my dantian.
+
+As expected, the faint amount of lightning purified some of the Demonic Qi, but it was very little. However, that gave me hope.
+
+With my experiment done, I stared at his shocked expression and waved my wing. My feathers were so tough already, that they acted like very dull blades. Their sturdiness was supplemented by my strength though, so the man’s head separated from his body in quite an unceremonious way.
+
+“With the wave of my wing, I, Fa Xiaolan, turned this scum to ashes!”
+
+[You have slain Meng Bai, Cultivator Lvl 14]
+
+[XP Acquired]
+
+Sadly, that didn’t level me up. I was already level nineteen, so my next evolution would be soon. Although I found it quite sad to already have an evolution when I didn’t even make use of my current one. Besides the stats, I’d yet to actually use this damned water element!
+
+All because I was a Phoenix? Give me a break, why even make it an option?!
+
+Alright, calm down.
+
+I caught the man’s corpse, letting his head fall down. Quite frankly, I didn’t care for it, but he was a Foundation Establishment cultivator, and food was food. Something strange floated out from his corpse though, and it smelled quite foul.
+
+I had no idea what it was, but it disappeared afterward.
+
+With that, I went back into the cave, leaving his body near the entrance. I didn’t want his brother to go crazy. Though… his bag of holding was looking quite appetizing. I mean… if I could open it and find more secrets, that would be amazing…
+
+AND the brother did give me all the information I needed. I could spare him the sight of seeing his decapitated brother, as I didn’t want to waste more energy on carrying it.
+
+On the other hand, if I kept the brother alive, I would have food for another few days. And if I kept him fed he would become emergency food.
+
+Ah well, treasure was treasure.
+
+I grabbed Meng Bai’s bag of holding and hoped that his brother wouldn't notice it right away. He’d probably recognize the contents, so it didn’t matter anyway in retrospect.
+
+He stared at me in a daze. I left quite suddenly and came back carrying a bag of holding, so it must have been surprising. I then noticed the artifact that he used to share my location had shattered, so he must have already found out what happened to his brother.
+
+Well, now I can't use it, damn it!
+
+His eyes opened wide upon seeing the bag of holding in my beak, and they turned red as veins popped all over. Tears streamed down his face, which I found quite amusing.
+
+Were you crying when you sold those poor people? Did you cry when you heard their pleas, their screams and their defiance? Did you think about their parents, and how they must have felt waiting for their children to return in front of the gate? About their lonely figure as they sat there until the sun came down and the moon took its place?
+
+About their siblings, whom they loved dearly?
+
+You didn’t, all you thought about was your own skin, your own profits, your own benefits. Selfish and greedy, humans with no morals and scrupules, consider meeting me your karma.
+
+“You! What did you do?!” He yelled, as if it wasn’t obvious enough. I threw the bag of holding in front of him.
+
+“Open it.”
+
+“How dare you kill my brother?! You-!”
+
+“Open it.”
+
+“You chicken, once my father hears of this he won’t let you off!”
+
+Who the fuck was your father and why should I care?
+
+“Open it… before I open it.”
+
+“Fuck you! My father is the City Lord’s uncle! A Mighty Peak Core Formation Expert! Do you think I give a shit about you? Fuck your mother! Kill me if you dar-”
+
+‘Plop’
+
+His head fell off his neck with a muffled thud, a fountain of blood spraying out of the place where his head once stood. The corpse fell over too, dirtying the walls and floors.
+
+I shook my wing, doing my best to clean the blood off of it, but it looked like I had to take a trip to the river.
+
+The same foul smell emanated off his corpse once again, but I ignored it, mesmerized by the notification that appeared in front of me.
+
+[Skill: Wing Blade(Novice) has been acquired.]
+
+I’d gotten a new skill after such a long time. The level up skills didn’t count, of course, but I was worried this new skill would require Qi to use. Just to make sure, I checked the Bloodline Skills page.
+
+Bloodline Skills
+
+[Phoenix Fire: Expert]
+
+[Phoenix Reflex: Beginner]
+
+[Ember Step: Beginner]
+
+[Elemental Wave: Beginner]
+
+[Precise Flame Control: Intermediate]
+
+[Paralyzing Screech: Novice]
+
+[Burning Wind: Novice]
+
+[Flaming Talons: Novice]
+
+[Pyro Breath: Novice]
+
+[Wing Blade: Novice]
+
+As it turned out, it was a Bloodline Skill. I was quite joyous, as using Qi was still a little iffy to me. I had more spirit stones to absorb now, so I would have an easier time fighting against the Demonic Qi.
+
+After confirming the contents of the cultivation technique with the girl, I could start cultivating it and see if I could advance my cultivation.
+
+As I thought about all these things, another notification appeared in front of me.
+
+[An unknown entity has marked you as an enemy.]

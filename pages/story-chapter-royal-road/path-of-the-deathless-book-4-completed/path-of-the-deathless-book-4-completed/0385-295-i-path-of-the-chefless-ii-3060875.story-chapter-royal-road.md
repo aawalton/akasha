@@ -1,0 +1,189 @@
+---
+id: 8691515f-380b-58cd-a0ac-2683fdc516a9
+page-type-slug: story-chapter-royal-road
+title: "295 (I) Path of the Chefless [II]"
+slug: 0385-295-i-path-of-the-chefless-ii-3060875
+partOf: path-of-the-deathless-book-4-completed
+position: 385
+ownLength: 4987
+unit: words
+publishedAt: 2026-02-16
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3060875/295-i-path-of-the-chefless-ii"
+royalRoadId: "3060875"
+---
+
+Look around the kitchen. Look at the other chefs around you. You are only as good as the worst chef here. Kick that through your head. The worst chef here decides everything: when we get our meal done, how fast we get it done, how many fuck-ups we do along the way, and how well it tastes by the end. The worst chef here is our god. No one else. But why don't we just get rid of the worst chef here? Because on any given day, that could be anyone.
+
+Anyone can be the worst chef here. And depending on what dish we're making, that could change as well. At any moment, at any instant, because of any number of things, you could be the worst chef, I could be the worst chef, anyone can be the worst chef. But we are working together. There is a chef, but what matters is THE KITCHEN. How good we are is something that we have to do together. We pay for the worst of our mistakes TOGETHER. We celebrate our successes TOGETHER. People might be coming down to this kitchen TO LET ME COOK FOR THEM. They might be hunting for me BY NAME! They might want to taste MY FOOD BECAUSE I MADE IT! BUT I DON'T MAKE IT ALONE! YOU ARE ALL GEORGES.
+
+There is no me without you. Just like I don't do well when you perform poorly. So I'm going to tell you this one time, and you take this lesson to heart. Yeah?
+
+Stop fucking it up! STOP COOKING THE FUCKING CHICKEN LIKE SHIT! TASTE THIS! DOES THIS TASTE RIGHT! NO! IT’S FUCKING RAWWW! WE’RE ALL SHIT TODAY! ALL OF US!
+
+GODS FUCKING DAMMIT!
+
+-Georges Archambault to Shiv
+
+295 (I)
+
+Path of the Chefless [II]
+
+Most indulged in the pleasures and rejuvenation sleep brought; few gained it as a skill. That was because most people slept without purpose. They slept blissfully, carelessly, and without intent. Being harsh, they slept like animals, simply lying their heads down, closing their eyes, and letting unconsciousness take them. They didn't sleep with a part of their mind always active, waiting for an attack to come. They didn't sleep specifically to heal faster, to absorb all that they learned across the entire day.
+
+In this, the Giantsbane remained a solitary figure among the many Legends across Integrated Earth. Most Pathbearers possessed of High-Tier Physicality and Toughness barely required any sleep at all, and thus often chose to skip out on it entirely, especially if their mental processing had been enhanced in some way.
+
+Jessica, on the other hand, slept just as much as she did as a Pathless brat—eight hours exactly, no more, no less. In those eight hours, the wounds she sustained would dissolve like mist pulled apart by a passing gale, and she would dream in lucid detail if she so wished, going over everything she'd experienced, examining her flaws and figuring out how to better apply her abilities in the future.
+
+More importantly, sleep offered her a moment's respite from the world, from all the strain and stress. Sleep kept one sane. It helped one clear oneself of toxicity. Spiritual, physical, and mental.
+
+But Jessica's Sleeping Skill had evolved beyond providing merely that. There was always a portion of herself awake, and that portion kept watch, listened carefully for things happening around her. As such, when an explosion went off, she immediately snapped into full wakefulness. A rush of clarity passed through her being as she regained her consciousness in an instant. It was like putting on a coat, simply sliding one's arms through the sleeves.
+
+In one moment, the world was dark. She was drifting between places, dreaming of the life she used to have, of the most vexing boy she'd started to train. In the next, she returned to the world and found herself deep in her personal sanctum. Though she allowed herself to sleep in the captain's quarters of the Court Leviathan, she took additional measures to guarantee her own safety, just like every other time she was out on an expedition in uncertain territory. The orcs knew better than to test her now, especially after she'd made a few of them her victims. That didn't mean she was stupid or inexperienced enough to assume they were above subterfuge. If they got a chance, they would hurt her, their Insul’s retribution be damned. They simply couldn't help themselves.
+
+And so she retreated to the very depths of her blade, beyond that veil of static black mana, into a private little world that captured a pristine moment from her distant past. Around Jessica was a wonderful meadow. The ground tumbled away from her. Patches of rich, glistening brown mixed with puffs of rolling green. The grass was soft and supple, with dew hanging off its sides. The droplets scintillated like diamonds when christened by the light that slipped through the foliage. And all around Jessica, the world glittered.
+
+Behind her came the steady splashing of a waterfall. The sounds were meditative, meant to lull her into a quick sleep. The pond, which the plummeting stream of water fed, also served as Jessica's bathing place. Her Inertium armor lay scattered atop a wide blanket; the tessellated components shivered weakly, resisting even the faintest ambience of mana projected by Rusty.
+
+Once more, a blast came, and Jessica realized she knew exactly what kind of explosion it was. The reverberating blasts conjured another memory from her distant past. She recalled the dragon erupting from the ground, its body the color of steel, its scales wreathed by a membrane of vibrating energy—Inertial Overdrive. Shiv was fighting someone. He was discharging his speed—unleashing it in explosive bursts.
+
+"Rusty, we under attack?" Jessica yawned. Her instincts told her no, but it was best to be sure.
+
+"We are not," the blade replied, "but the orcs are finding sport in facing the Deathless."
+
+"Seriously? He's fighting again? I told him that he needs to take some time off. Damn idiot kid needs to spend a few hours reflecting on things instead of just throwing himself into another bloodbath."
+
+"He has spent approximately seven hours servicing the rest of the Gate. He returned earlier and remodeled the Court Leviathan."
+
+"What do you mean by remodeled?" Jessica asked.
+
+"It is becoming a kitchen," Rusty said flatly. “He seeks to use a colossal combat organism used by the First Blood as a traveling restaurant.”
+
+"A kitchen?" Jessica replied, trying to tell if Rusty was joking. The sword did that every now and again, though its humor was as dry as dead metal left in a desert.
+
+"That is what the Deathless told me when he came by to check how you were doing. He also intends to make a meal out of his orcs."
+
+Jessica nearly responded by gagging to that news, but she remembered that orcs made for pretty good jerky, if you left them over the fire long enough. And she had one of Shiv's own orcs to thank for that discovery. She was the one that ended up putting Whisper down for good initially, after he decided to pull his little stunt on that farmstead. She didn't really intend to roast and eat him, but the fight got desperate, and she did what she had to. After holding his head against an open campfire, she took a bite out of his throat to finish him off for good. The flavor was better than she expected, and the tastes were rough of texture, but more sour-sweet than she anticipated.
+
+Orcs tasted like something between pork and beef.
+
+Overall, not bad.
+
+"Alright, well, I think I can go for that at some point again," Jessica said, mostly to herself.
+
+Rusty let out a long groan. "Sometimes I forget your peculiarities too, Wielder."
+
+"We can't all be special and diet-free like you, Rusty. Even the littlest bitches gotta eat." Rubbing her eyes, Jessica stumbled over toward her blanket and started putting her armor back on. Nearby, an inanimate shape loomed. It was a statue that stood in front of the waterfall, just like they had all those years ago, letting Maia paint them as a family.
+
+Next to Jackie's statue stood two others, though they had been eroded by time. And then there was the shattered statue, splashed across the ground, lying in pieces, unmoving even after all this time. Jessica could have put it back together. Rusty could have removed the debris. Neither of them did anything. It didn't feel right. It would never feel right, not as long as her daughter remained dead. And so the statue would stay broken, and the pieces would remain where they were. And would likely be that way until the rest of time.
+
+It wasn't a healthy thing to do, Jessica knew that. Rusty tried to confront her one time, and that just made her say a few unkind things to her oldest friend. She regretted them, but she would never admit that. Rusty's greatest flaw was that he cared to serve her too much. He wanted to be the perfect sword, and if one was the perfect sword, they couldn't be the perfect friend at the same time. Being the former betrayed the potential of the latter.
+
+As Jessica examined the insides of her helmet, she licked her lips and faced the stone figure of her long-lost love. She clenched her jaw and tried not to focus on his facial details; they made him look too realistic. And she wanted to save those moments for when Veronica lulled her into those flights of fantasy. Here was just a taunt, a deprivation. She couldn't let it go, and so her soul and body staggered into a future she wanted no part of.
+
+"So… there's this new kid I'm dealing with. It's a real mess between him and me. He seems like a nice kid. System has it out for him." Jessica licked her lips and shrugged, pretending he was still here. In a way, he was. The silence that replied to her wasn't silence in her own mind. She'd been with him so long that her very thoughts could summon his ghost. "Started out trying to beat him into submission for the Inquisition, but, you know me; I picked the best time to start having second thoughts and start being a moral person. Like I was ever about that much."
+
+If Jackie were alive, he would be giving her that knowing smirk. He wouldn't say anything. He would simply wait for her to crack on her own.
+
+Jessica's lip trembled as she stared up at the statue. "Oh, screw you. I don't care about him. I really don't. He just doesn't get tired. He doesn't want to stop fighting. He's like a boulder-sized pit bull that wants to tear every little critter around him apart. But the way he does shit still makes me think of him as a puppy. And yeah, I guess I do feel bad for him. I guess he is kind of cutesy in that lost feral child kind of way, you know, like… Yeah, I know. Maybe I'm seeing too much of myself in him. But really, despite everything, he seems like a nice kid. Doesn't really hold grudges. I even did the Upcreek thing to him. Everyone else who's survived it has either been traumatized for life or currently has a death grudge against me. Not him, though, he just wants to learn. I think he wants to impress me."
+
+And by then, Jackie's amused gaze would turn piercing, and he would ask her that question, a question she didn't want to face. As always.
+
+"Look, I'm not really taking him on as a disciple. I'm just showing him a few things so that I can stop cringing at how he fights. He's raw, Jackie. Like, really, really raw. But he's got the spirit. He's not afraid of anything. And he just keeps slugging it out. Willing to learn, too, so he's got that going for him. I don't know if he has it in him to become a proper swordsman, but if you put a knife in his hands and if he spends a little bit more time grappling and keeps exploring that weird whip thing he has, I don't know. He's already kind of a monster. Not sure how much more of a monster I want to help make him. Might end up fighting down the line anyway."
+
+But wasn't that the case with practically everyone? Most of Jessica's friends, or the people she would even consider acquaintances, were people who managed to emerge more alive than dead after facing her in a battle. What was so different about the kid? That was what Jackie might ask. Why are you pretending that you haven't already decided to show him a few more things? He sounds like a bigger version of you. Except not nearly as attractive. Not as good at using a sword. Probably can cook something more than an omelet, though. And a can of beans.
+
+"Ah, godsdamn it." Jessica hissed at herself. "Forgot to cook him those beans. Still got to do that." Ashamed, she looked at Jackie and announced her departure the classic way. The way she did every time. "I always tell you this, and you're never there to hear it, but it should have been me. You were the real person. You would have done so much stuff for the Republic. You would have, I don't know, built that building you were talking about and redid all those cities. You would have gotten to be an architect and all that stuff… you know… I, uh…”
+
+She trailed off, her mouth drying up. "I'm just a fighter, you know? I wasn't right for being a mother or helping the world. I just wanted to fight stuff and kill stuff and tell the nobles that I'm better than they were. And I did that, and then there was nothing after. You were gone. Then I ran off north instead of spending any time with the kids, and when I came back, things weren't the same anymore. I just…” She swallowed and clenched her teeth. “Rusty, I want out. Now."
+
+He didn't even need to reply to her. She felt a slight pressure clench at her body from behind, where, between two towering trees, was a spot of darkness. Slowly, it expanded, opening into a full rift that turned into a crevice of static black mana. Jessica marched toward the rift, ignoring the sap bleeding from the trees, ignoring the sweetness of the taste, ignoring how her insides ached, bidding her to stay in this wonderful, perfect, crystallized instant.
+
+Like so many times before, she thought she would stop. She thought she would stay for good. Like so many times before, she disappointed herself. She walked through the rift and emerged from the flat of Rusty's blade. The world around her changed. There was no sweet flavor in the air, no musk of nature. Here was a thing of unnatural cleanliness, the air filled with chemicals and odors that were meant to suppress the internal offal and festering biomass of a Court Leviathan. The walls were smooth bone, and the bed provided to her was little more than a slab of white. There was no other furniture either. Shiv had apparently destroyed much of the captain's quarters when he secured the Court Leviathan. And then he did the Shiv thing of getting into one fight after another, and never really had the time to replace any of the furniture or add any style to the space.
+
+But the room felt a little bit more cramped than it used to be. Jessica squinted at the wall to her right. "He shrunk the captain's quarters for his remodeling, huh?"
+
+"That appears to be the case," Rusty declared, his voice rumbling behind her. Just then, another explosion sounded, and the entire Leviathan rattled violently under the turbulence. But Jessica heard something else rise: another roar, but not an explosion, but a synchronized union of voices calling out in praise of a bloody spectacle.
+
+"Well, seems like he's entertaining the orcs pretty good." Jessica reached out for Rusty, and her blade shrank itself down until it was more of an ordinary longsword than a massive slab of black, sparkling metal. She held Rusty before her eyes and stared through the flat of her blade. She couldn't quite scry like a Diviner, but Rusty had Legendary Dimensionality, which let him peer between spaces. It allowed her to ambush and scout to a limited degree. It also allowed her to be lazy. Instead of cutting open the fabric of space and moving, she could observe whatever Shiv was doing from within the captain's quarters.
+
+The static mana lining Rusty's core parted, and it was like she was observing the world through a horizontal slit–like a murder hole an archer might fire from within a castle. A scene took shape before her, as seen from above the Court Leviathan. Rusty liked giving her a bird's-eye view to start out. It allowed them to zoom in on specific places she specified, but also gave a proper overview, just in case they wanted to clear some fog of war.
+
+Immediately, she noticed a few things had been remodeled beyond the Court Leviathan as well. A colossal coliseum had been shaped by the orcish Geomancers, with enormous stands made from risen stone and sculpted earth holding thousands of hollering orcs. At the very center, upon golden sands, a brutal battle was taking place. But before her attention zeroed in on the battle itself, she realized the stands were mobile. When the fighting got too close to one side, the massive slabs holding the orcs up would move, gliding across the ground at an alarming pace to avoid any unnecessary collateral damage.
+
+The orcs might be psychopaths, but they were very proactive about ensuring their own safety. The way the coliseum was built also reminded her of something Jackie had done, how he ended up surfing several toppled buildings down a landslide to catch her before she drowned during one of their earlier campaigns. Hadn't been the same situation, really, but it was a memory she liked recalling either way.
+
+Another inertial discharge pulled her focus back to the sands. Dust and debris sprayed high into the air, obscuring everything. "Get us a little closer, Rusty," Jessica said. The spatial magic radiating from the sword grew denser, and they zoomed in slowly, descending as if carried by hawk's wings. Jessica strained her Awareness, and found herself surprised when she gained two levels in quick succession.
+
+Instinct of the Swordhearted 189 > 191
+
+It had been some time since she broke through that bottleneck. Her Awareness had never been good. Had always been her greatest deficiency, even back when she was an Adept, and even now it lagged far behind most of her other skills. She probably had the boy to thank for that. Some of his fire was catching on her.
+
+And speaking of the boy, he wasn't hard to find—especially with a few hundred orc magi trying to bombard him to death with Siege-tier spells from all sides. With how many spells were slicing through the air, Jessica guessed he was fighting half a thousand orcs at once—with a lot of them probably being Heroic-Tier, as it would indeed take an army of Heroes to shape two dozen entirely separate and interlinking siege spells every half second. They bombarded the kid with every kind of mana they had. A full spectrum of colors drowned the world around him. Shiv's Shapeless Tides would allow him to endure for a few seconds, but if he didn't change the conditions of this fight, he'd probably find himself dead much sooner than he did against the vampires, even with his experience from that fight.
+
+Jessica wasn't a dedicated mage herself, but she'd faced enough magic to guess what a spell could do at a glance. With every pattern she read, with every shape she took in, the scowl on her face grew. "Alright, come on, kid, get your ass out of there. They're going to boil you."
+
+The orcs didn't cast spells as the Republic's Polymagi did. They didn't work in concerts or formations. Each of them shaped spells individually, and then they perfectly blended them together anyway. This was something only experienced war mages could do. The slightest mistake would cause a mana collapse, and that would just result in a wasteful explosion and a lot of strain.
+
+But these orcs weren't making those mistakes. Instead, they were adding esoteric effects to every spell. They were blending in Dynamancy with Pyromancy, creating weighted fire that made the kid heavier, unleashing rain infused with golden waters, every droplet slamming against him, shredding his temporal shell. Then came the falling arrows, shaped from stone but charged with ferromagnetic material. And in an instant, the stones exploded, summoning an electrified hurricane that lashed and whipped bolts of lightning upon the kid’s back.
+
+And if that wasn't bad enough, the orc spells avoided their comrades, the Vanguards in the thick of things. But on top of that, those were also protected by shrouds of darkness. They only emerged when the kid was busy trying to parry a spell, and they drove their weapons into him, slamming wicked axes and heavy hammers against his body. But through it all, his Pillar of Orichalcum only grew brighter and rose higher.
+
+The orcs were probably going to cut him down at some point, but he was going to make them fight for it.
+
+"Should we intervene?" Rusty asked.
+
+Jessica shook her head. "Nah, they're just having fun. This is an exhibition fight for the orcs and for him. I'd say it's okay training, but—"
+
+Her words were cut off as a streak of gold ripped through where Shiv once stood. In an instant, he was gone. She'd lost track of him. An orc vanguard swung a wicked cleaver and struck nothing.
+
+Rusty adjusted. He reeled their point of perspective back up into the sky, giving Jessica a wider view of the entire arena once more, and she realized the kid wasn't actually fighting alone. When he reappeared on the other side of the arena, he did so flanked by that goblin, the one that had some kind of Chronomancy and Reflexes Skill Fusion. Gone. That was her name.
+
+"Kid's got company." Jessica almost caught herself smiling. Having allies was a good thing. Practicing with them was even better. The Giantsbane had half-expected to see Roland's kid there with him, but instead it was Shiv and the goblin. Then, not far away, a column of fire drilled up into the sky like a twister, and deafening laughter rang out thereafter. Laughter that sounded on the border of madness. Laughter that alternated between sobs of desperation and near-euphoric bliss.
+
+Rusty zoomed in on the center of that fire, and she saw the odd Pyromancer that accompanied Shiv's motley band. Jessica had kept her distance from that one. Not because he was a crazy person. She considered herself among their number, after all. But that one wasn't her brand of crazy. He felt more like someone she'd probably end up killing at some point. Probably after he'd burned down an orphanage or a warehouse filled with helpless kittens.
+
+Yet, as the conflagration erupting out of him climbed higher and grew denser, the coloration of his Pyromancy went from orange to white-hot. Everything around him began to disintegrate, the air started to combust, and the man at the inferno’s center seemed to regenerate. Bits of tissue and skin fused over charred flesh and bone, and briefly Jessica found herself staring at the vagueness of a person, but it seemed to only last for a second. The Pyromancer's focus snapped, and his body disintegrated once more, unable to maintain its restored state. The laughter came again thereafter, and he swept his hands out wildly and blindly. He had even less technique than Shiv. By far. Everything he did was raw and unfiltered. Every bit of power unleashed in billowing waves—no spells, just pure expression of destructive mana.
+
+But there was no way someone like that could have possibly reached Legendary-Tier. You needed some amount of control, some amount of skill, no matter how minimal. Even Shiv had learned to use his Biomancy in interesting ways rather quickly. The Pyromancer, then, was likely one of the Ascendants’ experiments, intentionally or unintentionally crippled from what he had been before. Jessica stopped herself before she could think too deeply about what her gods were doing to people in their prisons.
+
+"Hey Rusty, how wide's this arena?" Jessica asked.
+
+"Approximately four kilometers. However, that is variable depending on the orc Geomancers. They can move the stands at will, and at times it extends to five. Sometimes it shrinks down to three. Presently, we're at four and a half. The orcs that are closest to the fight are Masters and uninvolved Heroes. The Adepts are further behind."
+
+"Right, makes sense. Hey, what's that thing they have strapped up to that pole sticking out from the northern stands?"
+
+Rusty zoomed in, and Jessica realized she was looking at a badly beaten wolf in the shape of a human. His snout was pointing in the wrong direction, his legs were broken, with wires sticking out, and he was chained to the end of a fifty-meter-long rod, but despite that, he seemed more annoyed than miserable. "Hey, Rusty, isn't that the Aviary bastard?"
+
+"The Canis, yes. His name, or at least his official designation, is Five. It appears that the orcs captured him when he tried to escape the coliseum earlier. I can hear chatter and comments from the orcs beneath him. They are claiming he is a coward and a spoilsport, among other things."
+
+"Yeah, well, now he's joined the spectators as a mascot. Poor bastard."
+
+"Shall we intervene?" Rusty asked again.
+
+"Nah. not yet. Want to see how the kid does. Doesn't look like the orcs are trying to kill the wolf guy yet, either. And frankly, I'm not starting a fight in the Tutorial for some Aviary fuck."
+
+Jessica turned her gaze away from Shiv and his team to the orcs again. She was right; there were at least 500 orcs fighting the group. Some of them were breaking away from Shiv, unleashing waves of cascading ice to combat the spreading flames that spilled out from Candles.
+
+There were also static waves spreading through the other spells, allowing the crushing tides of ice to teleport through the fire to get closer and slam into the Pyromancer, who simply laughed even as the spells impacted him directly. Despite being flung off his feet like a ragdoll, he burned holes through the avalanches striking him, and landed mostly unharmed.
+
+He never stopped projecting fire through it all, like an ever-exploding mana bomb.
+
+But it was clear the orcs had more than one plan in play. A massive pit opened up beneath the Pyromancer, and he plunged down as every subsequent Cryomancy spell fell alongside him. They froze the top shut and, in an instant, cast a series of Chronomancy spells over the ice. A chain of patterns swirled about, and as the ice began to melt, a wave of fire slammed into the underside, sending a spotlight high into the war-scarred clouds that drifted through the sickly-red sky of the Tutorial. Time proved the Pyromancer's greatest impediment. For a few seconds, the ice would not move. It would not melt or break.
+
+And this left only the kid and the goblin fighting side-by-side. Jessica guessed this was their first time truly wargaming together, discounting their escape from the Rubix Well. So far, the situation wasn't ideal. Half the team was down, but at least the kid had someone to rely on. That was more than a great many Pathbearers had in their final moments.
+
+"Yeah, I don't know if he's going to be able to come out of this one, Rusty." Jessica grimaced. "The vampires were already pretty bad. They had distance, but at least there was a backline to break through. He could shatter their structure and collapse their army. Didn't take me much effort to do that. The orcs, though… You gotta skirmish with them. He can't move nearly fast enough to reach every orc in the arena, and judging from how all of them are sparkling a little bit, my guess is they all have some kind of dimensional spell on them."
+
+"They do," Rusty confirmed, "and those spells are tied to a few specific orc Dimensionalists. It allows the mages to reposition and the vanguards to be moved and redeployed as well."
+
+She nodded slowly. "If you want to beat an orc, you kind of have to be good at fighting monsters. Got to lure them out of their cave, get them out of their comfort zone, make them come to you…"
+
+"Jessica, Jessica, you're doing it again."
+
+The Giantsbane paused. "Shit, you're right. Godsdamnit." When she got into fights, sometimes she would explain shit to Rusty, pretending he wasn't just as experienced as her, someone she could give advice to. Someone like Shiv. She was reflexively trying to mentor him from all this distance.
+
+"If you wish to help him, we can simply do so. The orcs’ collective Dimensionality is a paltry thing for my power to breach."
+
+"Let's just wait a little bit longer," Jessica said, trying to fight down her embarrassment. "I want to see what else he does. And what else he does wrong, you know?"
+
+"I know that you're just delaying for time now," Rusty said with a sigh. "But very well. Would you like to watch directly?"

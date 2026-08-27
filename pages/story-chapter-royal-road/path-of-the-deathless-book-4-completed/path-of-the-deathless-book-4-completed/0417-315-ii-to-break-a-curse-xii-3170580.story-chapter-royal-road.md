@@ -1,0 +1,159 @@
+---
+id: 7444f2df-ab8c-5ea3-91ec-f80ded6f3bae
+page-type-slug: story-chapter-royal-road
+title: "315 (II) To Break a Curse [XII]"
+slug: 0417-315-ii-to-break-a-curse-xii-3170580
+partOf: path-of-the-deathless-book-4-completed
+position: 417
+ownLength: 3071
+unit: words
+publishedAt: 2026-03-19
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3170580/315-ii-to-break-a-curse-xii"
+royalRoadId: "3170580"
+---
+
+315 (II)
+
+To Break a Curse [XII]
+
+“Heard you wanted to talk to me,” Shiv said with a shit-eating grin on his face.
+
+Veronica glared back at the small army of people standing behind him, unamused. “Yes, to you, and only you specifically. But I see that you deliberately misread my instructions and brought a small mob with you into a private conversation. I find it disappointing how you mix moments of genuine wisdom with impudent foolishness.”
+
+“And I find the fact that I can't strangle you to death with my own two hands right now aggravating. I guess that's both of us on the disappointment wagon.”
+
+Rusty's depths were a cave of never-ending mysteries. There was a whole dimensional prison there, large enough to hold all of Blackedge multiple times over. There was a special experimental Gate made by Maiden, meant to test the boundaries of time. And now, there was a special chamber inside which a mirror could be found. Said mirror was special in that when a Pathbearer stared into its depths, they wouldn't see themselves in the reflection, but rather a certain Councilwoman at the head of the Yellowstone Republic.
+
+“Guessing you're speaking to us from one of your special offices,” Shiv asked. “The ones with the stone tables and doors that have those strange etchings on them.”
+
+“For some reason, I don't feel an inclination to be very forthcoming in answering your questions after you've ruined the accord between us.” Veronica clasped both hands behind her back as her dimensional dress billowed and she observed the ones in the room behind Shiv. She eyed the Culturist with naked disdain, but her expression changed when she studied Adam and Uva thereafter. Her gaze lingered longer than Shiv was comfortable on the Umbral, and he caught a brief smirk on her face before she banished it. She missed the Educator entirely—like the Forgotten Ascendant wasn’t there—and offered Jessica an annoyed glare before returning her attention to Shiv. “Additionally, a Commander from my Prismatic Guard has sent a complaint back to headquarters. The Marshal in charge of securing Gate Piety has gone missing. May we skip the bickering and have you reveal what you've done with him?”
+
+“Me? I didn't do anything,” Shiv replied. He enjoyed how hard Veronica squinted at him as she failed to sense any lies in his words. “But I could make some introductions if you want to meet the person who performed the disappearing act.”
+
+“Ah, so you have conducted hostile actions against my Prismatic Guard. Very naughty. I would be within my rights to—”
+
+“Hello, girl,” Valor said, manifesting right before the mirror without so much as a flicker or rustle of wind. “How is your grandmother? I would like to wish her ill.”
+
+The Councilwoman flinched. For the first time, the Deathless saw what she looked like when shocked. The two old Legends faced each other as the atmosphere in the chamber changed.
+
+Veronica was visibly tenser than before, and her emotional core was filling with a faint, dark mist. “You're whole again.”
+
+Valor pursed his lips. “Not quite, but close enough. Enough to trouble you and your false gods.” Valor studied his own hands as his false flesh turned transparent and revealed the skeletal digits beneath. A ripple of corrosive energy radiated out from him. “Getting back to the topic, don't worry about those taken. They aren't harmed. And they will remain so. Assuming we can finish this conversation in a dignified manner.”
+
+“Dignified,” Veronica breathed. Instead of continuing the conversation immediately, her eyes darted about. She was thinking about something. “So that's why Anthony never struck. And also why he's been sulking. Tell me, was the boy a distraction? What have you taken from us, old one? Who have you slain?”
+
+“Nothing and no one yet,” Valor answered honestly. He raised a hand and rubbed his goatee thoughtfully. “But such things can change with a shift in the winds. Like allegiances and personal loyalties. And I think we should discuss exactly that. I will not insult you and ask you directly about what game you seek to play and what you truly desire. We are not allies, this I know. What you intend to inflict upon the Great One is anathema to Shiv and me, and when the time comes, there will be a reckoning between us. But that time need not be so soon. And before that inevitable clash lie many enemies and obstacles we share.”
+
+“Such as your son,” Veronica jabbed.
+
+“Such is my son,” Valor agreed without any offense. “But he stands as merely one among a host of different dangers. You have faced Udraal before. He is not one to risk himself. Even losing an expendable vessel burdens him with frustration. I do not think we'll be facing him in the open at any point in the near future. Instead, we need to turn our attention to the North and the South. Primarily, so that Shiv can help you resolve your Undying Tarrasque problem.”
+
+“You assume the Republic, or I, want his aid at all.” Veronica held to a pretense of aloofness, but Shiv saw through her facade. “He has openly declared his intentions to protect the Tarrasque, to make sure no one can finish the monster off. That’s not in the Republic’s interests.”
+
+“But maybe it's in yours,” Shiv said, joining in on the conversation smoothly. "Now, unless you're the one to kill the Tarrasque, or you're one of the people who contributed the most, you won't be getting anything. And since you and the other Avatars nudged the Tarrasque southward instead of finishing it off, and it went missing for a good few weeks before popping up north, I don't think you're going to be getting anything at all. In fact, I think you'll be losing out if it dies soon. And all those delicious rewards will end up empowering people who are enemies of the Republic.”
+
+Veronica cocked her head. “But with you, everyone will be rendered unhappy, creating unified dissatisfaction in the outcome. Is that your pitch?”
+
+“My pitch is that the System created a World Quest to put down the Tarrasque, and I want to screw over the System whenever I can. Seems like the easiest way for me to do it.” Shiv smirked at Veronica. “And this will break Udraal's balls as well. He wants me to prove myself superior to the Tarrasque, mainly because the Tarrasque was created by Sullain as something of a bastardized copy of me. But I'm not playing along with his game any more than I'm playing along with the System's. I'm doing what I want right now, and that's all that matters.”
+
+“So you seek to position yourself as a true wild card.” Veronica looked away and began strolling across the room. Halfway across, she came to a halt and suddenly looked over her shoulder. “You want me to pull back the Prismatic Guard, yes? To stop the siege before it can actually begin.”
+
+“Honestly, I want you to take your dogs and get them to piss all the way off. I don't want to see any Prismatic Guard around the Gate, and frankly, not around Lost Angeles either.” Shiv pushed hard; he played an unreasonable game. He wanted to see how she would react.
+
+“We all dream of absurd things like Utopia, boy. But we know they're not likely to come true. I hold great sway over the Council and the Ascendants, but even I cannot withdraw the Prismatic Guard alone. If I did, I would be seen as mad at best and a traitor at worst. After that, I would be deposed within a week or a month at most. Then you would likely have to deal with my replacement. A dogmatic and easily controllable woman, if my grandmother's tastes are to be fulfilled.”
+
+“Then what the hells is the point of this conversation?” Shiv replied through gritted teeth. “What can you even offer? If we're inevitably going to get attacked, I'm just going to unleash the orcs right away. And not just on the Prismatic Guard, but on Flamecrown Castle specifically. You know I have the Slipgate. You know what it does. And you know what's going to follow.”
+
+Aggression bled out from Shiv like blood from an open wrist. Jessica took a step forward, incensed by his provocative words, but Veronica held up a hand, halting the swordswoman before any dispute could take shape on the other side of the mirror. “Shiv, when you bluff someone, it's important not to let them know where your limits lie. You wouldn't do this. You wouldn't do this because you're too conscientious. Vulgar and savage though you pretend to be, you're worried about the people. You're worried about collateral damage. You're worried that you won't be able to control the orcs. And you're right to worry. They cannot be controlled. They will inflict cruelty on the citizens of the Republic, if only to hurt and manipulate you. This is an empty threat. You wouldn't do this. Try again.”
+
+Valor inclined his head. “You're right. He wouldn't.” He said no more, letting Veronica come to her own conclusions.
+
+“I see,” Veronica muttered. “So you are the one I actually have to contend with in this dialogue.”
+
+Sage of the Enkindled Heart: She strikes at our pride again, making us feel inferior to Valor. An obvious attack, but still powerful because of her Rhetoric.
+
+“Hardly, dear girl, hardly.” Valor shook his head and turned away. He stepped past Shiv, halting only halfway across the chamber. When he turned, it was with a mocking deliberateness that echoed the Councilwoman’s earlier response. “It is not I who needs to be convinced, but rather the other way around. I am here to persuade you, and I think there is a bargain we can strike.”
+
+Veronica's expression darkened. She looked apprehensive about where this might lead, but also fascinated. “Go on.”
+
+Valor smiled. “You've been forced to intervene because of Shiv’s overt actions. Striking at the Inquisition begets reprisal. Otherwise, the entire structure breaks down. This I understand, but Gate Piety itself does not need to be punished, especially if they provide proper recompense.”
+
+“And what could a Category II Gate offer my Republic?” Veronica scoffed.
+
+“The Deathless, of course, surrendered back into your custody.” Valor answered with such smoothness that Shiv found himself nodding along.
+
+Until he fully processed those words. “Wait, what?”
+
+Every head in the room and beyond snapped to Valor. Veronica looked confused. Adam and Uva were speechless. Jessica muttered something about wanting to go back to sleep where she could “avoid some of this politicking bullshit.”
+
+Valor nodded, as if it were the most natural suggestion in the world. “The Deathless has murdered several members of the Inquisition; such is a grave crime. But the Deathless himself is a remarkably powerful Pathbearer, and he represents a unique opportunity for the Republic. If he is secured and made an asset rather than eliminated and taken from the board entirely, then perhaps he can make up for what he has deprived you of. What he will continue depriving you of…”
+
+Shiv struggled to understand what Valor was insinuating. “Wait, so, what’s going to happen to me?”
+
+“I share in the boy's confusion. Explain yourself.” Veronica's gaze was severe while Valor's posture remained lackadaisical.
+
+“Would it not be a sign of good faith if Gate Lord Adam Arrow surrendered the murderous Deathless into the Republic's custody for his vile actions?” Valor asked.
+
+“It could be regarded as such.” Veronica’s eyes were locked on the lich like a wolf facing a monster outside her den.
+
+Valor presented his open palms. “And on such a foundation, could he not negotiate the truth for the Republic to stay their hand, so long as his people do not commit to a pilgrimage toward the deepest depths of the Abyss?”
+
+Understanding struck Shiv like a lightning bolt. He realized the path Valor was blazing now. Veronica wasn’t far behind. “Quite so, Old One, quite so. But why would the esteemed and honorable Adam Arrow betray his dear friend in such a vile manner?”
+
+“Because the Deathless is losing control. His arrogance, brutality, and ambitions threaten the stability of Gate Piety, and his ties to the Challenger make him an enduring threat to everyone and everything around him. As such, Gate Lord Adam Arrow reached out to the Prismatic Guard to conduct a clandestine operation that saw the children of the Republic work together and subdue the Deathless. And finally, at the end of everything, despite the contentions between Gate Piety and the Republic proper, the rebellion is not total, for both sides can cooperate to overcome a greater evil.”
+
+Sage of the Enkindled Heart: We are an insect when it comes to schemes and manipulation before Valor. This is—
+
+“This can work.” The words escaped from Veronica almost unwillingly. She nodded slowly, her eyes jumping about. “This can work. I will need other assurances. Jessica will need to shadow the Starhawk's Avatar and make sure the Perch never gets anywhere near the Great One’s embrace, but as for the other details… Yes, we can do a great deal here.”
+
+“What's happening again?” Jessica asked, still lost.
+
+Shiv looked at her, almost disappointed. “The Republic's going to take one of my physical bodies as a prisoner. The people Valor just kidnapped are going to bring me back. They're going to pretend that they were part of an infiltration operation with Adam to capture me. The Prismatic Guard will secure me and then disperse from around the Surface Gateway.” Shiv stopped talking as he stared Veronica down. “Am I right so far?”
+
+“I can have the forces pulled back, but they will have to monitor the situation,” she replied non-committally.
+
+Shiv snorted. “You can stare at something from pretty far away with the right Awareness Skill.”
+
+“Wait, we're doing a fake betrayal imprisonment thing?” Jessica laughed. “This is so stupid. How’s anyone going to buy it?”
+
+“Because I'll literally be in Republic custody again,” Shiv said flatly. “It's not like I'm giving them a fake body. It's an actual body. It’s my actual body. Frankly, the only false part about this is our actual intentions. They’re not really imprisoning me, and Veronica can use me against the North and South openly as a weapon or something in the meantime. Meanwhile, I’ll keep my activities in the capital quieter or something.”
+
+“Those activities are to cease altogether,” Veronica snapped. "We cannot risk you being spotted in two places at once if we wish for this to work.”
+
+“Then I won’t be spotted,” Shiv replied.
+
+The Councilwoman rolled her eyes. “You are many things, boy, but subtle is not one of them. The odds of you remaining clandestine are—”
+
+“He will not be spotted.” Valor cut Veronica off. This time, she had no objections.
+
+“I see,” she said simply through gritted teeth. “Then I have another stipulation: no more deaths. No more slain Inquisitors. No negotiations on this point.”
+
+“Oh yes, the hell there will be,” Shiv deadpanned. There was no heat or fury in his voice, just a dull growl of hate. "Your bastards are doing shit to children. If I see them hurt an orphan, I’ll hurt them however I want. And I'm going to end Daughter however I can. I don't care if she's a god that's important to the Republic's safety. She's broken. The things she's doing to fucking children—you might be fine with that you hollow-hearted sack of shit, but I’m not. I’ll never be.”
+
+“Was being Cursed thrice over by Maiden not enough for you?” Veronica scoffed.
+
+“No,” Shiv grunted. “And I’ll deal with that soon enough.”
+
+“Right. Going to the Fairwoods to walk in the footsteps of your old mentor.” A cruel sneer spread across Veronica's face. “How has Georges been? It's been an age and a half since I tasted one of his delightful dishes. He lost his smile while learning what it meant to be a slave under Longinus, but I daresay his skills were honed to perfection. Something about watching his fellows be punished for every mistake he made, I think. Good thing you never met that version of him. I suspect you would have found him quite pathetic. I suppose there are small mercies in miserable deaths after all.”
+
+Shiv saw red. His vision narrowed into a long, dark tunnel. On the other end existed only one person, the icon of his everlasting loathing: Veronica Chandler. Grandmother by blood, and someday his victim-to-be. He would pull her apart. He would force lamentation after anguish from her lips, and he would break her for good.
+
+And leave her alive to suffer the aftermath.
+
+The nova of hot fury surging through Shiv cooled in an unnatural instant, alchemized into focus. He let out a monstrous noise, like a beast trying to chuckle when there was nothing to laugh about. “Thank you.”
+
+Those around Shiv shifted in confusion. Jessica stood stiffer than a pole, worried about what was certain to follow.
+
+“Why?” Veronica asked. Even she sounded wary.
+
+She was right to.
+
+She wasn’t the only one who held the song of cruelty close to their heart.
+
+“Thank you for throwing my dad away. For staying as far away from him as you could. Thank you for being little more than a shadow in his life. It's probably one of the wisest things you've done, because even if you tried, even if you gave all this Councilwoman bullshit up, you would've never been able to even pretend to be a mother. And remind me to shake Udraal’s hand for murdering the subhuman fuck you let finish inside you, because only another roach-in-human-skin sack of shit would play with you, and his death was almost certainly a boon for everyone else. So. If you ever, in your most delusional dreams, consider what could have been if you lived like an actual person: stop. You're not a person. You're not even a thing. You’re hardly any better than the demented gods you herd. Just a walking sack of shit obsessed with control that gained too many levels and didn’t die when it was supposed to.”
+
+The Councilwoman’s face remained impassive, but a small patch of her cheek turned glossy, bright, and transparent.
+
+Like glass.
+
+Sticks and Stones 83 > 88

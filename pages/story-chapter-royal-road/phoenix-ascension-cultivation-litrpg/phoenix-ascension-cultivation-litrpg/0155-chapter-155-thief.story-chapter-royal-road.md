@@ -1,0 +1,201 @@
+---
+id: fe9b8e14-434e-52f4-8320-a4621d7fe31b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 155: THIEF!!"
+slug: 0155-chapter-155-thief
+partOf: phoenix-ascension-cultivation-litrpg
+position: 155
+ownLength: 2318
+unit: words
+publishedAt: 2026-07-27
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3734398/chapter-155-thief"
+royalRoadId: "3734398"
+---
+
+When I saw what the Little Emperor was doing, I couldn’t say I wasn’t panicked. Part of me was also mad, because, well, it was consuming all my resources!
+
+By the time I could stop him, it was too late. He’d consumed the energy from all my plants, meat, and treasures, but at least he only went for those I’d gotten from the meal.
+
+Afterward, he went back to sleep like nothing ever happened.
+
+I was quite flabbergasted, to be honest. How could it rob like that so many times? In retrospect, it was probably my fault for putting treasures in front of his snout and expecting him not to touch them.
+
+From now on, I would put everything I could into my bag of holding. It was the only choice I had.
+
+I let out an internal sigh and turned my attention toward the food. Since everyone was being shameless about it now, I was going to be even more shameless.
+
+Whatever I touched, I immediately put into my bag of holding. I didn’t care if they looked at me weird; I didn’t have any more space to store the Qi, anywhere!
+
+I would have loved to see them say anything; they would be getting a piece of my mind!
+
+The two Spirit Beasts stared at me intently, then began being just as shameless. I liked the fact that they dropped pretenses rather quickly. If it wasn’t suspicious, I would have liked to talk to them about those two organisations. They should know something about those at the very least.
+
+When the woman from the Golden Claw sect, Fah Xing, saw our behaviour, she hesitated for a bit before nodding to her sect mates and starting to do much the same thing.
+
+The table was starting to empty.
+
+When the others then saw that all six of us were going crazy, they stopped hesitating altogether.
+
+Swallowing whatever they could and stashing away everything else, we made quick work of the treasures. Some more elegantly than others, but with just as little dignity.
+
+Everyone but Peng Li, of course. He hadn’t even bothered to touch the food to begin with.
+
+Instead, his gaze was firmly locked onto me, and if I were a normal girl, I would have started to be bashful. But I wasn’t, so stop staring at me, weirdo!
+
+Thankfully, nobody spoke; I couldn’t help but wonder why. Of course, that was sarcasm. Still, the atmosphere was the tiniest bit awkward. It didn’t matter, though; all of us stuffed our bags of holding with the treasures, some while eating.
+
+And then… it was empty, picked clean. I was pretty satisfied with my performance there.
+
+But now that there was nothing to eat… what were we to do?
+
+◈◈◈
+
+“Ahahaha, that niece of yours is quite something, Old Meng!” Peng Long laughed heartily, a cup of wine shaking lightly in his hand.
+
+The elders of the sects and clans were sitting together around a round table in a shuixie on top of a calm river.
+
+Vines crawled on the walls, protecting the wood from the sun, and a large decorative tree stood in the middle, peeking through the roof and creating a cool shade.
+
+The sound of the river was calming, and it accompanied the tea-drinking ceremony well. It was clear that Peng Long had thought about everything.
+
+Meng Mao was staring down at the table, not having picked any food or drink yet. He was surrounded by people more important than him, stronger than him, and with more influence than him.
+
+Before, he was a big fish in a small pond; now he was a big fish in an ocean, surrounded by sharks. He simply had no way to compete with them, and as a result, lost some of his confidence.
+
+However, he was still a powerful cultivator with a lot of social experience.
+
+When Peng Long addressed him directly, he looked up and smiled wryly.
+
+“She seems to have been raised by Spirit Beasts. I don’t know what my brother did to her, but… I have no words.”
+
+“Ah, that’s no issue, no issue at all.” Peng Long said and raised his cup. “Here, let us drink and be joyous. I was not expecting someone like that to show up. Mental prowess and strength like that are hard to come by.”
+
+“That is very true, Brother Mao.” Wu Tien said, raising a cup in Meng Mao’s honor. He’d dropped the cutesy name he’d used when they first met, and treated the latter with more respect.
+
+Not that he didn’t have respect for him before, but now Meng Mao had a bigger leverage. Having such a powerful ‘niece’ was bound to attract some attention.
+
+He wasn’t sure if he liked that or not, but decided that it was better to take advantage of his current position.
+
+Grabbing his glass, he raised it just a little lower than the previous two.
+
+“You are far too kind, Senior Wu.” He addressed Wu Tien, keeping his honorific. “And Master Peng Long, too. I had no hand in the upbringing of my niece; my only merit is bringing her here.”
+
+“Haha, Brother Mao, you’re far too humble.” Said Peng Long with a mouthful of wine. “I’m sure she’s picked up a thing or two from you.”
+
+There was a hidden meaning in the man’s words that both Meng Mao and Wu Tien grabbed onto. Of course the patriarch of the Reaper Sect knew some of Meng Mao’s character, but to think that he would so openly say that he was shameless…
+
+The nerve!
+
+Although he was right, Meng Mao smiled and took a sip. “Maybe we haven’t been together long, but it’s clear that she has some very good traits.”
+
+“Haha, Brother Mao is right.” Wu smiled and drank as well, while the Purple Monarch Butterfly rolled her eyes.
+
+She could not help but think that men were such simple creatures.
+
+Of course, she’d also taken note of Meng Mao’s niece, as had everyone else. She was freakishly strong and had impressive mental prowess. Purple Monarch Butterfly was feeling a little shameful due to her measure earlier.
+
+But without knowing that person’s true strength, it was difficult to conclude. Next time, she decided, she would just keep her mouth shut.
+
+Everyone else spoke amongst themselves while the other three chatted. The talk was about Fa Xiaolan, of course, but there were also discussions about how each of their disciples would rank. The elders from the clans didn’t speak at all, though.
+
+Perhaps they didn’t feel right sitting amongst sect elders. Purple Monarch Butterfly understood their sentiment, so she didn’t push them to speak either.
+
+She didn’t care about joining the conversation either. If she could, she would have loved to snatch Fa Xiaolan away, but seeing how interested the patriarch and Wu Tian were, she knew she had no choice.
+
+Wu Tia was a distinguished elder from the Golden Claw Sect, and three of his disciples qualified. It was obvious that he had a high chance of entering the secret realm.
+
+She’d also had three, but her sect’s power didn’t shine through duels. Although, in her eyes, Meng Mao’s niece wasn’t the type of girl to join someone as violent and brutal as the Golden Claw Sect.
+
+That was, if she had any interest in joining a sect at all. Ever since she’d first met her, Purple Monarch Butterfly noticed the complete disregard for anyone else that the girl held.
+
+She was acting as if everyone was below her and that she was merely playing.
+
+It wasn’t obvious, but she could tell. Amongst everyone present, only the patriarch could perhaps figure her out, but she was putting on a good act.
+
+Regardless, she could try to sway her toward their side, though she had a feeling it would be difficult.
+
+“So what technique is she cultivating?” Peng Long asked suddenly after he’d finished downing a cup of the wine.
+
+It wasn’t normal wine, but some sort of speciality made by the Reaper Sect. It wasn’t enough to get any of them drunk, though.
+
+“She’s using my technique, actually.” Meng Mao said, somewhat proud of himself. “She’s almost perfected it.”
+
+“Oh? That quick?”
+
+“Well, she’s been studying it. My brother had it, and she must have taught her. Reaching the peak of Qi Condensation with it is rather impressive.”
+
+“I see… So her primary element is lightning?” Wu Tian asked.
+
+Meng Mao almost choked on his wine, remembering just how technique-shooting-happy Fa Xioaolan was with her fire. He managed to keep himself composed regardless, but he’d realised he would need to tell her to only use lightning.
+
+“Yes.” He said after taking a deep chug. “She isn’t as proficient as me, but she’s rather skilled.”“I see… good to know.” Wu Tian chuckled to himself, and the others seemed to be taking notes as well.
+
+Meng Mao could only internally roll his eyes. Even if they knew that, he knew that the bird didn’t need lightning to defeat any of their disciples.
+
+She was a Phoenix, after all. Though her human form was severely limited and also illusory. While she could manifest some strength, it was far from what she could show in her original form.
+
+Still, Meng Mao didn’t believe it would be a challenge for her.
+
+After Peng Long took a final swing of his wine, he smashed the glass down on the table and sat up. “I think it’s time to show the disciples to their lodgings. There are also places reserved for you, of course.”
+
+The other finished their wine and sat up as well, then followed Peng Long, who moved toward the disciples.
+
+◈◈◈
+
+I saw the elders come out of the mist and stand up. Meng Mao was sitting right behind Peng Long, which was rather surprising. Wu Tian and Purple Monarch Butterfly were walking alongside him, and the rest, I didn’t really care about.
+
+“Everyone!” Peng Long’s voice echoed through the air. “I see that you all have enjoyed yourselves.” He laughed, which wasn’t something I would expect from someone with his attitude.
+
+“Now that we’ve feasted, it’s time to go toward the lodging we’ve prepared for you. If you would be so amiable as to follow me…”
+
+After he said that, Peng Li jumped forward and leapt out of the arena, landing right beside the patriarch.
+
+The rest of us weren’t so extra and just took the long way around.
+
+After we gathered, Peng Long turned and headed into the mists with the elders close behind, then us.
+
+When I’d passed through the wall, I felt a presence wash over my very being, like it was trying to figure me out.
+
+I raised my defenses without hesitating, just subtle enough that it wouldn’t be noticeable. Although my Perfect Disguise skill was already at the maximum rank and maximum mastery.
+
+I had to see about ranking it up, or if it was even worth spending my precious Skill Points on it.
+
+We passed through the barrier, and the feeling of being inspected disappeared. Still, I would rather they stopped checking everyone. If they had so little trust, why did they even agree to hosting the tournament in the first place?
+
+Rolling my eyes internally, I looked around and inspected the area.
+
+The inner part of the sect was impressive. That was not to say that this was the inner sect; it could just be a way to pass from the outer sect into the inner sect.
+
+There was a shuixie in the middle of a river, which looked really nice. Some signs of recent usage remained despite the cleaning crew doing their best.
+
+So that was where the elders decided to drink their… tea? Most likely alcohol though.
+
+It was a really quaint place regardless, and would be something I would have definitely constructed if I had a sect such as this.
+
+Maybe something I could add in my dantian…
+
+Hopefully the little emperor would not eat that as well.
+
+Following the patriarch, we made our way through the sect. The roads were paved, buildings were clean with some sort of eerie but nice design, and the entire ensemble gave off an imposing feeling.
+
+Looking closer, I saw that each building had some sort of defensive formation created below it, and together, they would form a giant, proper defensive formation that could stop a few attacks from the superpowers of the region.
+
+I was rather impressed by that, if I had to be honest. If anyone was stupid enough to attack this sect, they would be in for a hard time.
+
+At the same time, that was probably the case for everyone present.
+
+The patriarch walked us up toward a certain mountain peak that was deserted save for the servants waiting for us.
+
+“This is where you will be staying. I’ve temporarily divided the peak. On the right side will be the males, on the left will be the females.” Peng Long said, and that was about the extent of his speech.
+
+He simply left afterward with the elders following after him.
+
+I could not help but roll my eyes at the sight, though again, it was internal.
+
+Without a mind for anything else, I walked toward the left and picked up a vacant house. There was a servant inside, a young man in his late teens with the cultivation of a Qi Condensation disciple at the fourth rank.
+
+For his age, he wasn’t awful, but this was one of the largest sects in the area. Wasn’t awful wouldn’t cut it, unfortunately.
+
+He bowed and cupped his fists, though I didn’t pay him any attention. I wasn’t tired, but I didn’t really have it in me to talk to anyone, or do anything for that matter.
+
+I really just wanted to sleep. Unfortunately, just as I sat down… there was a knock at my door.

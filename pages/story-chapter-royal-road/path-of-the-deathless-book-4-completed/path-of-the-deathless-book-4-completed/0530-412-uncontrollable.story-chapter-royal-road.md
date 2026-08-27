@@ -1,0 +1,339 @@
+---
+id: 98766ff9-fe45-5c67-bf84-ed6f1ebeb538
+page-type-slug: story-chapter-royal-road
+title: "412 Uncontrollable"
+slug: 0530-412-uncontrollable
+partOf: path-of-the-deathless-book-4-completed
+position: 530
+ownLength: 6826
+unit: words
+publishedAt: 2026-07-22
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3711919/412-uncontrollable"
+royalRoadId: "3711919"
+---
+
+Power is not enough. I mean this for all forms of it. Power, when it comes to your individual assets, is the most raw expression of who you are, but it itself is very limited.
+
+Think of all the skills you can develop in a natural human lifetime. A hundred years is not a short while. You can be a Master in many skills, perhaps even a Hero in multiple, if you are truly gifted. In the rarest of cases, if you're a talent above talents, you might even become a legend within that century.
+
+Think of it this way, girl: You are a Legend in terms of Rhetoric. Your words move cities, shake mountains, topple civilizations from within. But we are not in the business of devastation; we are in the business of building, and a civilization is more than words. Though you can compel other people to heed your commands and drive them to perform acts they wouldn't otherwise, think about what you cannot do. Think about the economy that must run. Think about the buildings and walls that must be built to keep the people housed and fed and secure while keeping the beasts and nightmares beyond out.
+
+Think of all the things you don't possess: Biomancy, Psychomancy, all the skills you currently lack. Think of every blind spot you have and understand someone in the world is a Legend of that blind spot. Suddenly that image of you casually bending an entire civilization collapses because there are other people like you, and then there are far, far more unlike you. They all have a purpose to play, but more than that, they all have their own interests at hand.
+
+This is the true face of the world. Power is not everything, not nearly enough. Power is simply one facet of a grand calculation. Might does not make right. Might makes law, and laws are defied when they press against an individual's own desires. This is what foments rebellion. This is not about decency or tyranny; this is simply about pragmatism.
+
+How well are you able to manage the wants and desires of others? How well can you resolve problems without having them spiral out of control? It is the softest of strength; it is the most insidious of applications that allows you to secure your hold over an empire.
+
+And there is a term for this in the most ancient of texts: realpolitik. Politics beyond your personal emotions, beyond your philosophies, beyond anything high-minded. To face what the world actually is, to meet people where they're at and where you're at. To understand that what guides the small folk isn't so much the high-minded desires of the nobility who wish to build a statue or to evolve toward the next threshold, living thousands and thousands of years, planning in advance for that abyss of time. No, they simply want to be fed, they want to be secure, and they want to be protected from plagues, from beasts, from monsters, and above all from their fellows, because monsters are the simplest, rough form of danger.
+
+Politics eats people. Politics spends lives, and in this world we live in, politics is about the trade of currencies. All currencies—with trust being the most fickle and naive, yet also the most valuable.
+
+After all, if we cannot rely on each other in the darkest of times, in the coldest of winters, when we're besieged by proper enemies, then what foundation can a common front hold? A house divided is not a house at all, but merely an inevitable close-quarters engagement.
+
+—Councilman Anthony De Diego to Councilwoman Veronica Chandler
+
+412
+
+Uncontrollable
+
+“Is this because I beat you to Legendary-Tier Psychomancy?” Shiv asked, staring up at Uva's grand web of storms and mind-mana. He could feel her glare burning against his cheek. “No, I'm not being funny right now. This is really, really powerful. I wish I could have a skill like this. I'm just asking if spite had any reason to do with it.”
+
+“Not that much,” Uva replied, casting more threads of lightning out from her mind and weaving them tighter around the skies over Gate Piety. Heavy needles of translucence tore through matter and poured down upon the land. She was beginning to construct extensions to the city, temporary housing forged from her Psychomancy alone—if it could even be called Psychomancy anymore. As far as Shiv knew, Psychomancy was the lore of the mind, something that manipulated consciousness and memory.
+
+It shouldn’t be able to cross over into material reality.
+
+But she's more than a Psychomancer, just like I'm more than a brawler. The Outside left a deep influence inside of her—I guess the rules aren't so deeply embedded anymore.
+
+The scenes from her Delve played on, repeating over and over again, and Shiv studied her battle with his Delve clone in vivid detail. The other version of him was mindless, stripped of the great many skills he'd use regularly, but it also fought as he did in more ways than one. Raw aggression, never stopping, always trying to do something. But now he was beginning to recognize a flaw in the way he acted.
+
+Against Uva's Dreaming Storm, direct force would never be enough. Her power was capable of drawing more mana from captured minds, but beyond this, she could construct entire phantom cities from the matter of her memories. She could shape impossible landscapes and constantly rebuild everything that was destroyed. Her mana wasn't dense, but it was confusing, and she understood that memories were not bound by the same laws as matter. She could connect things in ways that physical reality couldn't match. Memories could be interlaced. Things could be hidden inside each other.
+
+A flash of insight cut through Shiv. He envisioned himself facing Uva on a battlefield, smashing through her web, but then being trapped within as she rebuilt what he broke, as she caged him in a dense maze that kept getting more complicated, that adapted to him constantly.
+
+“It took Legend Hymn's help for me to learn how best to counter you and Adam,” Uva said. Her words weren't spoken in comfort, but in pure honesty. “I suspect you learned a share of lessons in your Delve as well.”
+
+“Yeah, a few, but nothing like you. This changes a lot of things for you, not just for combat but…” Shiv chuckled. “I see why the System keeps throwing monster skills at me, though: if it gave me something this complex, I might be stuck in my Delve for months, if not years. I'm really impressed you managed to get out this fast.”
+
+“Flattery,” she muttered, lightly slapping him over the back of the head with a bolt of psionic lightning. It detonated against him and drove Ikki to yelp in fright. A small bolt was enough to extinguish an Adept’s mind. To him, it felt more like a nudge.
+
+He turned and gave her a wink. “Just a bit. But no, seriously, we can do a lot of stuff with this. Temporary architecture, active defenses. You can connect your mind to all the willing people here, and you can use them to build Piety even more.” A breath slipped out of him. “And that's just off the top of my head.”
+
+And despite all the emotional maturity Shiv had amassed, he couldn't quite shake that feeling of envy. Her Legendary skill was not only a thing of raw devastation but also creation, offering utility beyond destruction. And the skill suited her. It represented her. Uva was more than just a mindless mage casting raw explosions of uncontrolled mana. Though Adam was probably more tactically minded, she was the most calculated one of their group. And with her Psychomancy, she constantly worked to tilt the field to their advantage.
+
+Shiv enjoyed feeling like a force of nature, like he was unstoppable, unkillable, inevitable, but there was life beyond battle, and aside from cooking. Frankly, her new skill had Shiv asking another, more uncomfortable question: What can I offer the Gate beyond martial might and a steady flow of food?
+
+I can be more. Just like her. I should be more.
+
+“Is that envy I read behind your eyes, Deathless?” Uva asked with a hint of amusement. “Is it your turn to desire my increase in power now?”
+
+“If you can pout at me, I can pout at you,” Shiv grumbled. “Even if you look prettier when you pout and I look like a constipated bear trying to push out a kidney stone at the same time.”
+
+“Oh, I wouldn't describe you like that, dear brute. You are not nearly so hideous. I would liken you closer to a large and sad puppy.”
+
+A horrific series of gags escaped Ikki as she made a show of grabbing her own throat with both hands. “How about you guys exchange fluids somewhere else? And since Uva isn't ejaculating out of her eyes anymore, can we take this place down? The Geomancers probably needed to reinforce the surface district. I mean, you're done shooting Outsider juices out of your eyes, right, Sister Uva?”
+
+Both Uva and Shiv glared at her now.
+
+“What a horrible way to describe an eldritch skill,” Hymn commented off to the side. “I approve.”
+
+A vein of psionic lightning crashed down beside the Headmaster as Uva constructed a man-sized middle finger modeled after Shiv’s hand—one that she promptly slammed into Hymn without further comment. Even as the middle finger pressed him into the wall, he never changed expression or offered an apology.
+
+“Quite so, Ikki.” Uva let out a displeased growl. “And expect this refractory period to be permanent.”
+
+Ikki frowned. “If it's a permanent refractory period, doesn't that just make it some kind of eye dysfunction—”
+
+“Ikki, please stop talking,” Shiv said, mustering his considerable willpower to never imagine Uva’s eldritch gaze as that kind of emulsion.
+
+Ikki responded by miming zipping her lips, but the impish sneer remained on her face.
+
+The group departed from Uva's containment silo and reentered the Gate proper. With no more walls impeding his sight, Shiv took in the full majesty of Uva's skill as her Dreaming Storm swept through all of Gate Piety. Her lightning was already tethered to the ground, like coiled chains turning into lattices of glistening webwork—connected to willing generators in the forms of Sisters and Mothers of the Arachnae Order. The substance of their minds flowed back into Uva, and the magic fueling her storm was multiplied with every thought she harvested.
+
+Stacks of serried spires were being built up by the falling sediments of translucent rain to recognize the architecture as places he'd seen before; towers nested inside the expanse of Weave. All of them were placed side-by-side, equidistant from each other, with replicated bridges connecting them to one another, and their insides were vast enough to contain hundreds, if not thousands, of Pathbearers on a temporary basis.
+
+Even so, he could see the limitations of her power. This Legendary skill was an evolution beyond mere psionics, but Uva's memory and architectural skills were insufficient for her to truly sculpt novel buildings with her mind alone.
+
+“And you can create people too?” Shiv asked.
+
+“Not quite; I can strain myself and create psionic puppets, but they're less active than my spiderlings and Terrorspawn.” Demonstrably, a manifestation of Harkness appeared beside Shiv. His Last Morsel took her head off at the neck before she could even open her mouth. As soon as she was beheaded, a spray of blood filled the air, but then changed into component motes of mind mana as Harkness dissolved and then reloaded into reality with another onrush of falling rain.
+
+Uva and Harkness chuckled, indifferent to the beheading that had just occurred. “It seems that all the egos contained within my Black Gnosis can be made manifest. This power, this Dreaming Storm, and everything that falls under my rain, serves as a projection of the world inside my mind, and it builds over the world that is.”
+
+“Literally mind over matter,” Shiv mused. “Godsdamned monstrous.”
+
+Uva smirked again—and Harkness uncannily mirrored her expression. “I would agree with that; however, my power isn't without limits. I cannot rip pieces out of reality and hold them in my mind without paying a significant debt. Someone like you, for instance, is a miserable creature to contain within my mind. The higher your Tier, the more powerful your Psychomancy and Magical Resistance, the more it's like I'm forcing a raw hunk of iron into my brain matter.”
+
+“But if you have enough secondary minds and people supporting you, you might be able to manage it?” Shiv asked.
+
+“Theoretically. Practically, enemy Legends are to be killed immediately.” Uva tilted her head at Shiv and sighed. “If, System unwilling, or perhaps willing, we are ever forced to actually fight each other, I would strike you down, Shiv. I would strike you down with everything I have. Take this as flattery, my dear brute, but you're too much of a threat to be taken alive.”
+
+He just snorted. “You know what, sweetheart? The feeling's absolutely mutual. Shit, now I'm glad I Delved before you did. Fighting this version of you inside that hallway would have been absolute hell.”
+
+And it wasn't just the empty space Uva was building up using her Dreaming Storm. The Surface district was being reinforced. All the damage dealt to the buildings there was replaced by a layer of mind-mana serving as temporary repairs until an actual Geomancer could apply a permanent fix. The housing for the refugees, former slaves, and residents had also been expanded. The platform holding the surface district aloft was also being extended, and since the substance used to create the extension was made from mind mana, structural support was unnecessary. Uva was simply holding all that up herself.
+
+With every three bolts that fell, one remained rooted to the surface district, to the refugee quarter where the survivors of Blackedge remained. A sprout of mind mana flowed up from those anchors, surging back into the heavens and fueling the storm with even more strength. A cycle of construction, empowerment, and expansion took hold. Uva's Dreaming Storm was a communal power, a thing that could bestow the weakest with the choice to be part of something greater, to give themselves to someone stronger so that their mind could be used to protect their own lives and the lives of those they cared for.
+
+And that was what Shiv envied the most about her skill. It made other people matter. It made everyone matter. In a world that was ruled by the individual and shaped toward the winds of tyranny, she offered a measure of democracy and freedom that was ever rare and strangely functional.
+
+“But still subservient to her skills,” the Harbinger reminded. “The System did not bend to her desires; it simply allowed her legend to take shape. The representation of the weak and helpless are not offerings of mercy from above, but simply a byproduct of Uva’s continued actualization. They do not matter…”
+
+…But she does, Shiv finished.
+
+“In her storm, the will of the many is represented, so long as it falls under the will of a favored one.”
+
+A certain voice of nihilism let out a crackle of amusement. “Representation is, because she believes it to matter. Power can do a lot more than simply corrupt. Power reveals. Power builds. Power allows. Through virtue, perhaps a measure of imperfect utopia can be sought.”
+
+As they approached Starhawk's perch, Shiv saw colossal walls of the densest translucence surging up from the ground. They expanded, row after row, layer after layer, as the place where Adam languished was bestowed with greater protection than ever before.
+
+“Shiv,” Uva suddenly said, her blinks coming faster. Shiv realized she was processing multiple instances of thought at once. “I might need you to direct one of your bodies to the surface gateway. I have to finish processing the guests, and we need to reopen the path to the Republic so the representatives can continue arriving.”
+
+“Right. Shit. Actually, I need to wake the body I left with the Prismatic Guard. I'm due an actual meeting with Veronica and the rest of the Auroral assholes.”
+
+A slight frown tore through Uva’s features. The heavens above rumbled with displeasure as lightning fell in cascading chains. “I don't think that's wise. To greet the Auroral Council alone after what we did to Longinus—”
+
+“If I don't do anything, then Veronica is probably gonna force my hand,” Shiv cut in. “It's not going to take much for her to ruin this whole coalition thing for us if she orders the Prismatic Guard to form a blockade. I'm sure the other factions will try to fight them, but that's not what we need right now. I don't need them desperate. I need them stalled and delayed. We have too many problems, and I want some of my problems to be each other's problems. Besides, worst comes to worst, they kill that body.”
+
+“I disagree. If worst comes to worst, they take you alive, and they actually manage to breach the mind of one of your bodies. Then we have a greater problem at hand.”
+
+Shiv shrugged. “I'd be more worried about that if I didn't have the ability to dive Backstage anytime I want, and also you're here. If they managed to sneak into my thoughts, I expect you to kick their ass while they're inside my mind.”
+
+Uva hummed. “Outsourcing the actual work to the Umbral again. How very vampiric of you.”
+
+“Really? You’re hitting me with the race thing?” Shiv almost stuttered. Almost.
+
+“It’s good for your levels.”
+
+Racism 6 > 7
+
+“Don’t encourage her, you fuck!” Shiv spat at the System. “I’m not trying to be racist! That was all her! All of it! Why isn’t she gaining any levels? That doesn't even make any sense!”
+
+“Jocular prejudice is insufficient for an Adept-Tier Racist to level,” Uva answered casually.
+
+“Adept-Tier—wow.” Shiv blinked. “You’re only Adept-Tier? What the hells does it take to reach Master?”
+
+“Multiple pogroms,” Uva answered all too quickly.
+
+“Well, guess I’m never becoming a Master Racist,” Shiv muttered. It wasn’t even a matter of hatred; he just didn’t have the patience to organize something like that.
+
+She opened the path leading to the center Gate Piety with a casual wave. Web-made walls thundering with lightning and manned by clambering spiderlings and agitated Terrorspawn parted in an instant, creating a valley-like entrance toward the Starhawk’s personal phylactery.
+
+As they approached the castle, all banter vanished between them. A mutual worry took hold: a worry for Adam and what it would take to mend him.
+
+“Do you think you can fix him with your skill?” Shiv asked.
+
+“I'm uncertain. This isn't the exact skill I was supposed to obtain. As Within, So Without was my previous goal, but The Dreaming Storm occupies many of its capabilities. That being said, again, Shiv, I am no mind-mender. But here is what I expect to follow optimistically: I project my magic into Adam's mind. I create a representation of his mental landscape and try to rebuild his ego, or at least repair the worst of his damage so that he could finish the Delve and we can have a proper specialist continue his treatment.”
+
+“And cynically?”
+
+A beat of silence followed. The rain stopped. The lightning froze mid-flash, unnaturally, and they trembled like vibrating strings twitching with anxiety. “Cynically, there might be nothing I can do. He might be so broken, so fundamentally devastated by all his experiences, that little remains of our battle-brother.”
+
+The rational part of Shiv knew that to be a possible truth, even more than likely after everything Adam had suffered. But he refused to capitulate to rationality, not right now. Adam wasn't the kind to bend just because he suffered; he fought on more than anyone else. He fought through the pain.
+
+And so Shiv forced a grin on his face. “Yeah, those are the odds. My money's still on Adam. The hurt never put him down before. He's gonna get better. He's gonna keep fighting. We'll make him better. We will.”
+
+As he spoke, faint cracks developed along his flesh, causing trails of blood to seep out. He ignored the tearing he inflicted upon himself by ripping his mind in one direction and his heart in another. Though Uva noticed as well, she didn't comment. She understood, and more importantly, she was suffering the very same discord within. “In a dark way, I'm grateful I get to do this.”
+
+“Do what?” Shiv asked.
+
+“Serve a need. Discover my purpose. Be here with Adam and with you in the fray.” Despite all that was happening, Uva held her head high, and there was a lightness to her that wasn't there before. “I never really let myself imagine before. I never tried to think of myself as standing beyond my station. Everything I gained was simply the factor of fortune and of circumstance. I told myself that it was just a favor, that anyone else who decided to embark alongside you would have developed the same.”
+
+“Yeah, Uva, that’s absolute bullshit. The favor's there. I'm like you in that. You might have caught fire from me, but my bet is almost anyone else would be long dead by now. It was always you, me, and Adam. Been that way since we came out of Passage alive.”
+
+She breathed in deeply. “I know. I’ve known. It just took the Delve for me to stop denying it.”
+
+Shiv nodded in understanding. “Looks like we all lie to ourselves in our own little ways.”
+
+“Sometimes it’s needed,” Uva replied. “Sometimes, one lie lesser than the last is how we get closer to the truth.”
+
+“Yeah, I—” Shiv cringed as he found himself face-to-face with Veronica via one of his physical bodies. “Hey, Uva, if I seem distracted or suddenly have a seizure, that’s because Veronica might be about to talk me to death.”
+
+The forking streams of psychomancy descending from the Dreaming Storm curved with worry. “The Councilwoman? She’s with your other body?”
+
+“Oh, fuck,” Jessica mumbled from behind. “This isn’t gonna be good. Shiv, now’s the time for you to talk your ass off if you can, because if you don’t—”
+
+“I know,” Shiv replied. “But you know what? I’ve been looking forward to this, because there’s a question in the back of my mind.”
+
+A series of exasperated curses left Jessica before she pulled herself together. “And what’s that?”
+
+“Do you think I can psychologically harm Veronica enough to leave an Inland Embassy inside her?”
+
+“Oh, you stupid—Shiv, no!” Jessica practically begged.
+
+“This is not a wise path to pursue,” Rusty concurred.
+
+“Unwise,” Hymn noted casually. “Do it. I’ll find it funny, and the Brokers will find it informative.”
+
+The sound of a blade cutting through air was accompanied by a clench of pressure. Shiv didn’t even need to turn to know what had just happened: Jessica swung on Hymn, and he teleported.
+
+Shiv clicked his tongue. “Well, Jess, we got two votes against one, so looks like I’m giving this a go.”
+
+“Do I not constitute a vote?” Rusty asked.
+
+Shiv could have answered that, but down that path probably lay a discussion about personhood for Awakened weapons, and Shiv was wise enough not to get suckered into more Racism levels. “Oh, no, I forgot about you! Real sorry, Rusty. I’ll make it up to you next time.”
+
+“...I will remember this when Jessica next uses me to practice her ‘amateur colonoscopy.’”
+
+“Hey, listen, Rusty, I’m going to read the felling books! Get off my back.”
+
+***
+
+Back on Integrated Earth—or so he assumed—the body that Shiv had surrendered to the Prismatic Guard blinked and grunted with annoyance as he found himself chained in an orichalcum cell. “Felling really? This shit again? You know I can just break out of this, right?”
+
+But Veronica didn't participate in his banter. Instead, she was like a shadow in the room. The red-gold of orichalcum contrasted with the black static billowing out from her form. The only patch of white was her face, drawn out further by drapes of midnight black hair, and her expression was something more befitting of a marble statue than a woman of flesh and blood.
+
+A band of iron-thick tension built between paternal grandmother and inhuman grandson. She watched Shiv, and he let the quiet take him, as he did the very same in return.
+
+Her empathetic core was shrouded beneath dense clouds, their layering complex and more than just emotional tumult; she was actively masking what she was feeling. Trying to gauge her mind was even worse. The translucence rippling free from her ego came as storm-wrought seas, crashing waves rippling out from her as the immensity of her intellect and memory swept through the room like a nebula, barely able to be contained within her mortal form. Worst of all, Shiv caught two glints of incandescent pinpricks at the center of her eyes. The Songbringer was here, staring at him, waiting and watching through her Avatar.
+
+This wasn't just the Councilwoman alone—this was an entire godsdamned family reunion, one that might end with an attempted pruning of its tree.
+
+“Mind your words. Approach her not with disdain, not with flippancy. She is not someone to be toyed with. She cannot be distracted or easily enraged like all the others. Remember that she is your superior in social violence—and greater than you as a whole. So we must face her along the narrow skills where we can contend—”
+
+“I know what your Harbinger is likely saying,” Veronica noted, cutting his skill off. “It wants you to make this a psychological endeavor, for you to pick at and dig into me. Your idea is to traumatize me to some extent, then, to burden me with emotional anguish. Just enough for you to plant that Inland Embassy in my mind and eventually erode my will, finally talking me into succumbing to your childish charms.”
+
+Shiv smiled slightly. “You think I got charms?”
+
+“You absolutely do. I don't see any point in denying it. Your continued existence and evolutions have pushed you beyond being a physical instrument—and maybe the social aspect of yours is simply genetic, ingrained in our nature in some manner of ancestral memory we don't fully understand, one that is not compelled by Udraal. But maybe that's just my inherent arrogance talking. Maybe that's simply what I want to be true so that I can assume an aspect of supremacy over him. And claim ownership over some part of you.”
+
+“Well, that's pretty possessive of you, Granny.”
+
+“I am Councilwoman of the Yellowstone Republic. Possessiveness at times is less a flaw and more a necessity, for everything you don't claim will be taken by another and then used against you.” She sucked in a breath through her nostrils, and her expression lightened. But the tension in the room endured. “I see my mistake with your father. I severed him from my care. I let him be. I hoped he could live a life of peace—or at least experience a measure of tranquility before the System inevitably took him from this world.”
+
+That made Shiv frown. “Inevitably?”
+
+“He wasn't like you, Shiv. I watched him his entire life. I studied him. He had gifts, but his heart wanted something that the rest of him couldn't provide. He pushed himself to be a Vanguard, thinking that would give him what he wanted, that would fill the lack inside of him. It didn't. In the end, he died as someone else's pawn. It stunned me, and I realized I was wrong: even that distance didn't spare my pride its wound.”
+
+Shiv narrowed his eyes and realized where Veronica was going with this. “So if you could do it all again, you'd think the right thing to do would be to establish control. You think that it would have gone better if you actually took him in as a son, if you actually raised him. Even if he died, even if it hurt you more, you could have controlled him. You could have shaped his life.”
+
+“To some extent, but as it goes beyond that, I could have made him see his folly beforehand.” She paused, and something dangerous glowed in her gaze. “But that was him, and this is you. I can't do that with you. I can see it. I felt it from the first moment we met. Even before you became a Legend. One cannot leash a bomb.”
+
+Shiv hummed. “Is that how you see me now? A bomb? A nightmare that keeps going off over and over again?”
+
+“No, that is what you are,” Veronica replied. “That is not who you are. You have no choice but to be a bomb. The System has burned you too severely in its desperation to kill you. You should be dead so many times over, yet you come back again and again. The System escalates and concentrates all that strife upon you, and you level faster and faster, for the legend flooding into you is more than most will accrue across lifetimes. You are a bomb, an existential one, a civilizational one. I see now that keeping you away from my Republic was the best thing I could have done. The bargain we struck saved both of us—your father needed to be close, but you, there is no distance enough where I grow comfortable with you.”
+
+Shiv digested her words with growing discomfort. He'd expected some kind of chastisement or punishment for what he did to the Republic. He didn't expect to be thanked, and he didn't expect her to be so calm, so rational. With all his other enemies aside from the Challenger, there was a tipping point, a place where he could strike them and create deep psychological harm.
+
+He'd thought that place to be the Republic for Veronica. It should have been. But the way she faced her discomfort left her barren of fissures, with no cracks for him to tap into, with no weakness for him to leverage.
+
+Once more, the idea that she was more of a marble statue than a person returned. Yet it was her insides that were harder than the outsides. There was nothing he could find true purchase in. Nothing obvious he could strike at.
+
+And yet. He'd managed to bother her before when he said that she wasn't even a person. He recalled that. He could use that. He just needed the conversation to keep going. He just needed to understand her better. Everyone had a point where they fractured. Everyone could be undone by the right set of words.
+
+“Oh, I quite agree,” Veronica said, speaking directly to Shiv's thoughts. “Everyone does have a breaking point. Even I. Especially I. The longer you live, the more you survive, the more notches you develop in your history and your mind. The thing is, you can also reinforce those notches. You can transform your psychology. You can evolve yourself in more ways than one. The heart doesn't need to be brittle or weak. The heart can be anything it perceives itself to be.”
+
+She took a few steps closer to him, and Shiv rose. He went from kneeling to standing, and he loomed half a head taller than her now. But despite the separation in size, there was something impossibly strong about her, something that made his instincts hesitate. His battle-honed intuition recognized her as a pure predator of a kind, and there was no hint of prey at all in her heart or flesh.
+
+“I understand what you did to Longinus. I despise the fact you did it, mainly because it created such inconveniences for me. The Council demands reprisals. The other Ascendants want you to be struck down—hunted and butchered like the mongrel Tarrasque in human flesh you are.”
+
+“But you don't?” Shiv asked.
+
+“Of course not. Why would I ever want to indulge in such foolishness? I learn, unlike them. It is my only true gift, I suspect. Not speech, not my strength of will, not my stubbornness, not my intellect. No. I learn from I accept, and I accept you for what you are. You are a bomb, you are a fire, you are the very incarnation of strife itself. We can come for you, but if we don't keep you dead, if we don't expend our resources to the extreme to sever you from this world, then all we have done is fuel your flame and give you more growth. In that, you are a unique kind of bomb, a bomb that continuously goes off, harder and harder the more people try to stop it. Of course, I must bring you out later and put on a performance of rage and fury before the Council and offer something to the Republic. But I have no intentions of being foolish or wasteful.”
+
+She let out a near sigh. “I know why you did it. I considered performing such an action myself many times. Longinus was… troublesome in his later years. Even compared to the others. Alas, my plan was to render him an entirely catatonic and godly vegetable that Kathereine could pilot, rather than carving into his soul and murdering that original aspect of his humanity before letting an eldritch god hatch out of his corpse and contaminate the Great One. That part, we need to discuss a proper resolution to after the main course of this conversation is settled.”
+
+Shiv leaned back, and a light jingle went through his chains. “So, what’s the main course? Some kind of declaration of a truce? You want to re-negotiate our bargain from before?”
+
+“That is something you will do in desperation, not I. For now, I want you to know that I understand you, to some extent. Enough to know what you're trying to do. Enough to be able to tell you that it won't work.”
+
+She traced a spell in the air, and a series of clicks sounded. The chains binding Shiv to the wall unlatched themselves, and he felt his body go slack. He caught himself before he fell, and shook his head. “Well, if you were going to do that this entire time, I have no idea why you would—”
+
+“Shatter,” Veronica commanded.
+
+A shapeless power was carried through her voice. It was a power that could maul souls, that could obliterate flesh of Legend and shatter nations. Infused within Veronica’s word was a will beyond matter and magic.
+
+As it crashed against Shiv, it went off, filling the anchor with fire and ruin. The space dissolved in a sea of indescribable heat and light. Every Shapeless Tide circulating through that body of Shiv evaporated in an instant, but the physical harm she sought to inflict was rendered impotent as his Scarforged Shell calcified into shape.
+
+Not so long ago, she'd annihilated him down to the component molecules through words she wrote in the Sync-Letter.
+
+Now, as the fire and ruin receded, Shiv remained—sporting a silver shell of indestructibility.
+
+“Ah, the Scarforged Unbroken. Or some greater variant of such.” Veronica hummed with curious appreciation. Somehow, she remained entirely unblemished from the devastation she inflicted. “I see Jessica wasn’t boasting about your evolution at all.”
+
+But despite the physical invulnerability offered by his Legendary-Unique Toughness, there was another cost Shiv had to pay. Another cost he couldn’t pay with his Shapeless Tides stripped away. A low grunt of strain whistled out of Shiv as he tried to remain upright.
+
+Veronica noticed his struggle immediately. “What’s this? Are you actually hurt after all?”
+
+“No,” Shiv slurred, needing to use his tides to move his lips at all. It wasn't particularly subtle. “Just feeling a tad heavier than normal is all.”
+
+“Ah, yes, the Onus. Yours is weight, is it?” Veronica mused.
+
+Shiv wanted to nod, but couldn’t. He had his Harbinger do it for him instead. And that suggested to reply with a question of his own. “What’s yours?” Veronica didn’t answer. Shiv kept pushing. “Come on. I know you have some kind of invincibility like me. That silver glow is connected to Narrativium. So what did you get? Actually, how'd you get it? You don’t strike me as the type to let yourself get hurt.”
+
+“Your reading is wrong, Shiv: I am the type to never do my bleeding in public, for I see weakness culled in advance.”
+
+He caught her meaning. “You let someone bring you to the brink over and over again, huh? That’s a pretty me-thing to do.”
+
+“I commanded them to teach my flesh the most valuable lesson of all. But unlike you, I didn’t suffer my wounds out of indifference and inhumanity. I simply regarded the culling of physical weakness as a necessity. But enough of this. The fact you possess such Toughness is good. That means you have a chance to face what’s coming for you and perhaps even save that Gate of yours from destruction while also serving the needs of the Republic and providing a measure of recompense for what you have taken from us.”
+
+“Alright, Councilwoman, cut the shit.” Shiv sighed. “Just tell me what you want from me and stop prevaricating around.”
+
+“Just prevaricating,” she corrected. “No need for around.”
+
+“Huh? Really?”
+
+“Yes.”
+
+“Yeah, alright. Stop prevaricating and just tell me.”
+
+A beat passed as she studied him, and only when his impatience was provoked did she speak once more. “The Court of the Shattered Moon seeks to eliminate you and flank my Republic using the Undying Tarrasque.”
+
+“Felling perfect,” Shiv grumbled. “I think a few of the Frost Giants are already in the Gate. Do they got a way to smuggle that big bastard in somehow?”
+
+She shook her head. “From what my agents indicate, Sullain’s Tarrasque is nowhere near docile enough to be deployed in such a manner. It’s the reason why the Court cannot just unleash it on the Republic without care—it’s less a dog on a leash and more of an explosion that can be nudged very situationally. Like you. They currently have it trapped inside a dimensional prison. Albeit barely.”
+
+“So, they don’t want it to be anywhere near them when they cut it loose, because it’ll just decide to attack everything, including them. And if they can’t… can’t…” Shiv’s mind began to turn as he thought about how he would bring a Tarrasque into Gate Piety if it couldn’t just be dropped in casually. “The path of least resistance would be… from inside the Gate… The Slipgate. Merrielmel. That’s what they’re going for.”
+
+“That is… a possible choice,” Veronica replied. “But not actually the true path of least resistance.”
+
+“Then, what is it?” Shiv asked.
+
+“To strike an alliance with other forces that are already antagonistic toward you—allowing the Tarrasque to be transported across dimensions and nearby gateways. Reports indicate you destabilized vampiric territory a valley beyond. We’ve also received multiple enthusiastic offers toward a temporary military alliance from one Lord Scorn, in which the Republic and the Abyss both lay siege to Gate Piety from both sides. But as I waited, it seems the God of the Vultegs allowed his wrath to get the better of him, and he decided to strike an accord with the Shattered Moon instead.”
+
+Shiv sucked in a breath. “Great. These assholes are going to try and sabotage my Gate from the inside so they can herd that Tarrasque through the Abyssal gateway, aren’t they?”
+
+“That seems to be their desire,” Veronica replied. “With all the Legends and factions you are trying to amass, you might just be able to endure the siege… But why let there be a siege at all is the question I ask. Why not break the beast out the moment the Jotun try to transfer it between dimensions and collapse the invasion in on itself?”
+
+For the first time since their conversation began, Veronica bestowed a smile on Shiv—but not the doting smile of a grandmother. It was the vicious glee of a houndmaster about to send an expendable beast into a rigged dog fight. “And what better way to resolve the problem of one bomb than with another?”
+
+A bitter laugh escaped Shiv. “Okay. I get it now. They have their uncontrollable Tarrasque, and you have me.”
+
+“Oh, no, you’re both uncontrollable,” Veronica corrected. “The Jotun are determined to commit that mistake with the Tarrasque. I will not commit to the same flaw as you. I want your strife to be pointed as far away from my Republic as long as it can be. But in that time, if a few enemy civilizations are conveniently burned down in the process, then what else can I consider you aside from a useful apocalypse?”

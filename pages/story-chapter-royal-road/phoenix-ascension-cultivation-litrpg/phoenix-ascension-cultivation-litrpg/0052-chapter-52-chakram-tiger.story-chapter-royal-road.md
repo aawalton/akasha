@@ -1,0 +1,171 @@
+---
+id: b657e8ec-2f21-535c-b3a4-fe71dbb600d6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 52: Chakram Tiger"
+slug: 0052-chapter-52-chakram-tiger
+partOf: phoenix-ascension-cultivation-litrpg
+position: 52
+ownLength: 2198
+unit: words
+publishedAt: 2025-11-22
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2784554/chapter-52-chakram-tiger"
+royalRoadId: "2784554"
+---
+
+Were they planning to sell that little girl to that so called Bai village? Her, a girl no older than what, ten? How could such awful people be roaming around here? Where did they even come from?
+
+Just as they said, there were indeed two small villages around these parts. Well, they were small in comparison to the giant ones near the main river branches, but still. They were either Hu clansmen or Bai clansmen, right?
+
+Unless they were a third party that happened to stumble upon the fainted girl. Either way, I had to check.
+
+However, they were far and I had no way to use my stealth skills. The fact that they were roaming in this forest meant that they must have had some measure of strength.
+
+I had to gauge how strong they were before attacking. I won’t make the same mistake twice.
+
+If I could fly, that would be much better. I did manage to move my wings a little in the fight against the monkey, so maybe whatever happened after I fell unconscious made my wounds heal?
+
+Since the Demonic Qi was inside my body, its lingering aura had vanished. I hadn’t noticed before, I simply accepted my fate, but the only reason my wound didn’t heal beforehand was because the Demonic Qi was making it hard for that to happen.
+
+But now, it was inside my body, and I also levelled up so…
+
+Before I started my experiment, I placed the pill somewhere for safekeeping. I had no use for it, but maybe there was a way for me to trade for something with the humans. The little girl seemed like she was collecting something, so maybe I could help her out with that.
+
+After I made sure that it was safely hidden, I flapped my wings and much to my delight, took to the skies. It was a little awkward at first, as it felt like I hadn’t flown in ages. But I managed and soon went back to the level of flight proficiency I had before.
+
+Who would have thought that all it took for me to regain my power of flight was… to let the Demonic Qi invade my dantian… Yeah, it wasn’t the best of trades. But once I figure out a way to get Holy affinity, then I would spend all the skill points system wanted to tear from my wings and expel them.
+
+I really had to wonder if there was no other way to cleanse it though. I wanted as little to do with the Heavens as possible.
+
+Ah, I got lost in my thoughts again. Luckily the humans were really slow and also unaware. Their perception stat must be extremely low, as I could hear their conversation and track them from a mile or so away.
+
+Before that would not have been possible, hooray for stats!
+
+The girl looked unharmed, but still dehydrated. I should have splashed her with some water or something, but I didn’t think something like this would happen.
+
+After walking for a little bit more time, they sat down underneath a tree and took out some rations. From where I was, I could see that they were indeed heading toward the village. I couldn’t gauge the exact distance, but at their current pace they would reach it before sunset.
+
+One of them tied the girl’s arms and legs so she wouldn’t move once she eventually woke up, and I would have jumped down and bit off their necks right in that moment. But no, I wanted to be safe, and I had an idea on how to test their strength.
+
+I took advantage of their rest and scouted the area. There weren’t any birds around, or at least, any birds bigger than me, but there had to be some bear nests… Were they nests? Right, dens, they were dens.
+
+If not a bear, a tiger would do just fine. There were some caves around, but they seemed deserted, and those that weren’t really didn’t make me want to go in and check. I wanted to lure a beast to deal with the humans, but that didn’t mean I wanted to become their snack at the same time.
+
+Naturally, I had to pick something that was at most at the same level as me. Though if it was a fire elemental beast or water elemental beast, that would be for the best.
+
+After a while, I landed in front of a rather large cave. It was pretty tall and wide in size, but the aura that was sleeping within didn’t give me a sense of danger, so it was probably safe.
+
+Now, I had two ways of doing things. First, reason with them and explain the situation, and second… well it wasn’t as peaceful.
+
+The bones outside the nest had the lingering aura of weaker beasts. Though I couldn’t tell which ones exactly, they were many. From that I could gather that the Spirit Beast taking residence within this cave was not some fancy individual, so it was better to be on the safe side.
+
+If it didn’t want to talk, I would bolt out of there before things got too bad, and lure it toward the humans.
+
+With that, I stepped inside.
+
+The cave was dark, damp and cold. It wasn’t the sort of environment I would like to live in… even though that was exactly what I was doing.
+
+I had to get myself a nest as soon as possible!
+
+I couldn’t see much of anything. For some reason, System refused to give me some sort of skill to see in the dark. Or maybe it wasn’t something that could be freely given away?
+
+Regardless, System had been a little quiet recently. I should check up on it after I saved that girl and returned her to her village. The last thing I wanted was for her misery to be on my han- wings.
+
+When I walked a little deeper in, I could hear a loud, violent snoring. It didn’t last very long, as I stepped on a bone, crushing it.
+
+Whatever was sleeping inside woke up.
+
+“Hell-“
+
+Roarrrr!
+
+Well, there goes diplomacy, time to run!
+
+I bolted out of the cave faster than the thing could wake up, but waited outside for it to come out. As expected, it chased after me, and the light of the day revealed it to be a sort of black tiger with… a fucking chakram??
+
+That wasn’t something you saw every day. However it wasn’t all that big, and it wasn’t all that strong or fast. That must have been its first evolution.
+
+I wasn’t sure if it could talk. It definitely had Universal Language, but it may not be sentient enough to use it properly. Or it simply didn’t care.
+
+Either way, I took to the skies, flying just below the trees. I could fly above them, but then the tiger had no way of chasing me.
+
+Speaking of chasing, it was really good at it. Jumping from tree to tree, weaving through the branches and boosting its speed wherever it could. If I weren’t flying, it would have been really hard to get away from it.
+
+It was perfect.
+
+If the humans could kill it, then I had to find another way to save the girl. If the tiger killed the humans, I would need to keep the girl safe.
+
+Well, I could save her at any point during the start of the fight and the end, but I also wanted these bastards to die. If their first thought when seeing a collapsed tiny girl was to sell her into slavery, then they weren’t good people.
+
+Getting rid of them would be a benefit to the world.
+
+In my opinion, those people were more demonic than demons!
+
+I looked back to check that the tiger was still following me. It was, and it was getting angrier. Seriously dude, we could have talked this out. I had treasures, I could give you some in exchange for your help!
+
+“Do you really not want to talk?!” I yelled back, but yeah, the thing wasn’t understanding me.
+
+Wow, so much for Universal Language. What good is it if you’re stupid?
+
+Well, I was nearing the place where the humans were resting, so it was too late to stop and talk anyway. I heard them talk, and I also heard the little girl’s muffled screams. At some point they must have tied a cloth around her mouth, perhaps after she woke up and started crying.
+
+Fucking heartless bastards, I hope this tiger will have a good meal out of you.
+
+When I got close to their rest spot, I dashed forward faster than before, becoming a blur as I flew above their heads. They must have not noticed me, or they did, but the panic of seeing a tiger with a fucking chakram attached to its tail must have made them forget about me.
+
+They jumped to their feet and took them all of a second to want to start running away. Well, that told me everything I needed to know. These guys were weaklings!
+
+As for their exact level, I had no way to gauge them, not yet at least. Once they used a technique, everything would be revealed to me.
+
+Finally, they both used a movement technique. It boosted their speed by a considerate amount, but more than that, it made them slip into the shadows. At first glance, it was definitely a Middle Stage Foundation Establishment technique. I could still see them, of course. My perception stat was probably way higher than theirs.
+
+However it wasn’t a useless technique. It wasn’t powerful, but it made the tiger lose sight of them almost immediately.
+
+Oh no you don’t!
+
+I shot out a fireball toward the humans before the tiger would want to attack the girl. The light revealed their position, making their stealth useless.
+
+To give them credit, they didn’t question where the fire had come from, but pulled their swords out instead. They were ready to face the tiger.
+
+Of course, I would have some respect for them if they weren’t such scum of the earth.
+
+But with both the humans and the tiger about to try and kill each other off, the girl was mine for the taking.
+
+I jumped down in front of her, her eyes widening upon seeing me. I wasn’t sure if she was more scared of me or the men, but that didn’t matter.
+
+“Be quiet, I’m here to save you.”
+
+She looked way too shock for comfort for a moment, but then nodded and calmed herself down.
+
+The next step was figuring out a way to grab her without ripping her shoulders off. My talons were sharp and very much used for killing. Hmm, the humans did leave a bit of rope laying around, so maybe I could use that? But I had no way to tie a knot.
+
+Ah!
+
+I cut off the ropes binding the girl and grabbed the free rope with my beak, placing it in front of her.
+
+“Tie this to my legs, then around your hips. Make sure it’s tight. Really tight, ok?”
+
+She nodded wordlessly and did as I told her. In the distance, the sound of blades clashing with claws echoed through the forest.
+
+Despite their initial panic, they seemed to hold their ground against the tiger quite well. Well, it could have them. Maybe I’d return to grab their bags of holding, but I didn’t want to eat them.
+
+Why should I dirty my beak with these filth?
+
+As the little girl finished tying the knots, the sound of fighting intensified. The usuals clang of metal on metal was now accompanied by sounds of thunder and flashes of lightning.
+
+One of them must have cultivated some sort of lightning path, but I wondered if that was enough for them to kill the tiger.
+
+I was really curious, but I would rather keep the girl safe for the moment.
+
+“Go grab the girl, I’ll keep it occupied!”
+
+One of the men’s voice echoed in my ears, followed by a sudden rush of footsteps. The two must have remembered they had a girl they wanted to sell. They figured that splitting up and meeting later would be better than both of them trying to fight off the tiger.
+
+However that put a thorn in my place, as I had yet to take to the skies, and the man was fast.
+
+Just as I was about to start flying, he saw me, and let out a disgruntled yell. I turned to see him weave a series of hand signs, lightning crackling as his fingertips.
+
+“Lightning spear!” He yelled and my eyes widened as the bolt of lighting shot toward me. I wanted to avoid it, but if I did, then the strike would hit the girl. I had no choice but to take it in full force.
+
+The moment it hit me, the lighting paralysed my body for a second, but something else happened outside of my expectations.
+
+The Lightning Qi invaded my dantian, and fought against the Demonic Qi!

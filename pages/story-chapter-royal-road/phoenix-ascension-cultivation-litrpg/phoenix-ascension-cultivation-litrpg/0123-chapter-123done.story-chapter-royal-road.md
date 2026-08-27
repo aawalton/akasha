@@ -1,0 +1,277 @@
+---
+id: beaffcf0-4c02-5089-b565-b56afc560199
+page-type-slug: story-chapter-royal-road
+title: "Chapter 123:Done"
+slug: 0123-chapter-123done
+partOf: phoenix-ascension-cultivation-litrpg
+position: 123
+ownLength: 3204
+unit: words
+publishedAt: 2026-05-06
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3363863/chapter-123done"
+royalRoadId: "3363863"
+---
+
+Dragonkin, Wyvernkin, Phoenixkin.
+
+All Beastkins were a strange combination between man and Spirit Beast, and were extremely rare. The only way for them to appear was if two very powerful beings of different races interbred, the most common case being in human form.
+
+Since humans could not really transform into Spirit Beasts, and Spirit Beasts preferred taking human form to get closer to the laws of heaven, which had some merit, but it was overall bullshit.
+
+Spirit Beasts could reach immortality without needing to use a human guise, I’d seen it happen many times before.
+
+However, Beastkin had to struggle, as in the eventuality of birth, they would get more traits from the stronger parent. So if a human and a dragon had a baby, then it would either have stronger natural Qi affinity, or a far stronger body.
+
+There were rare cases were there was a balance, but that was extremely detrimental to their growth.
+
+That was so in my last life at least. I didn’t know if, with the system in place, it would still be the case.
+
+One thing was for certain though, Beastkin of any kind were looked down up by both humans and Spirit Beasts. They weren’t widely accepted in society and would often live in isolation with growing resentment.
+
+Some would just die, while others unleashed an incredible rampage that devastated clans and continents alike. It was quite a grizzly sight whenever that happened, really.
+
+“Hey, are you still there?” The Dragonkin asked me, and I gave my head a good shake before nodding.
+
+“Good.” Lu Fu said before dashing toward me, his sword emanating a dangerous kind of Qi. It was different from the one he’d used before, more primal, more alive.
+
+The feeling it gave me was one of a strange sort of link, and I was half tempted to stop holding anything back.
+
+At the same time, I was wondering how I could get my Qi to have the same kind of feeling to it. Right not it was a strange blend of Yin and Lightning Qi that was either pure or greatly infused. However, what I felt from the Beastkin was different, it felt right.
+
+He rushed me with his sword and I responded in kind by using my Iron Claws to defend. Sparks flew, and I actually got pushed back when we clashed. Surel, we were in mid-air, but that didn’t matter.
+
+The strength Lu Fu had was greater than before, and I couldn’t help but smile to myself.
+
+Putting more Qi into Strengthened Constitution, I fought back against the sword strike, pushing it to the side and attacking with a well-timed Peck.
+
+Unfortunately, he dodged that and attempted to grab my neck.
+
+On the other hand, I retracted my beak and let out a screech, summoning two Lighting Dragons. With that rather quick surprise attack, I was confident in my victory.
+
+However,  upon seeing them, Lu Fu smiled and allowed himself to get hit by them. Much to my surprise, nothing happened aside from him grinning like a maniac.
+
+Oh no way this fucker had a lightning based parent.
+
+It was obvious that my lightning-based attacks were useless, so I had to think of something else. I could obviously use my fire, but where was the fun in that?
+
+No, well, I wanted a challenge, and this man before me was just enough to not overwhelm me. In a way, we could say we were equal in strength.
+
+That was unless I decided to burn him to a crisp. That wasn’t something I was going to do unless the Moon Bloom was really threatening to die, though.
+
+I was confident enough in my skills, and-
+
+Lu Fu attacked again, infusing his sword with the lightning I just sent at him. The blade crackled as tiny strands of electricity danced on its surface, and the speed at which he struck with increased by several fold.
+
+It was honestly rather impressive, and I had to Side Step mid air to dodge it, and use Aerial Redirection to its fullest extent.
+
+When I got out of the danger zone, I swept at him with a Blade Wing, having sensed him with my Divine Sense. He must have expected such an attack, as he stopped short of my range and struck down right after.
+
+However, I Side Stepped right at the end of my cooldown and rammed into him using Mad Charge. The short distance seemed to have helped, as Lu Fu hadn’t expected my attack. Unfortunately, a head bash didn’t exactly draw blood, unless I so happened to hit my noggin in a sharp point of his clothes.
+
+Thankfully, that didn’t happen, but I did only manage to push him back. However, with a quick swipe of my claws, I just managed to scratch… his clothes.
+
+The guy fell back, and the only thing I managed to rip out was some cloth.
+
+Taking a quick peek at my resources, though, I hadn’t actually used much of them, if at all.
+
+Considering the small amount of Qi usage and rapid recovery of both stamina and Qi, I was pretty good in that regard unless I had to do something grand.
+
+And it did look I had to take this fight a little bit more seriously, since time was rapidly ticking down. The Moon Bloom was on the cusp of blooming, and if I didn't snatch it quick enough then getting another one would be a bother.
+
+It wasn't rare, but I'd need to look for and ask for it, which would draw more attention than I wanted to. A random Spirit Beast wanting a treasured plant wasn't that strange, and even if word got out of this fight,m most people wouldn't just assume I was a Phoenix.
+
+Just as I was thinkign that, it seemed that Lu Fu the Dragonkin had a similar thought process. He roared toward the sky and scales covered his face even more, removing any sing of his previous human face.
+
+The aura he let out had also been replaced by something extremely primal, one that didn't consider Qi or cultivators to be worhty of its regard. In fact, all and any trace of Qi that the man had previously had disappeared, transformed into whatever this energy was.
+
+I didn't know what that was, since my interactions with dragons in my previous life was minimal, but even I knew that they still used Qi. But what this guy had was something entirely of his own.
+
+He probably wouldn't have entertained me had I asked for an explanation, and he didn't give me any time to talk.
+
+His figure became a blur as it disappeared, the wind whistling as Lu Fu approached me. My Divine Sense barely caught up to him, and I'd realised in that moment that there were things even I couldn't understand after all this time.
+
+And the mere thought was incredibly exciting. I didn't think I knew everything, but I knew a lot. Even so, this situation stumped me. A mere Foundation Establishment cultivator should not have been able to tap into such power, Dragonkin or not.
+
+Yet, the living contradiction was there right before my eyes, and for the first time in this fight, I had to get serious.
+
+Strengthened Constituion and Heaven's Protection activated to the maximum at the same time, while dozens of Myriad Qi Needles surrounded me.
+
+Two Lightning Dragons flew out from behind me, roaring toward the sky. The Dragonkin didn't look like he appreciated that. Certainly, creating imitation of his kin would be mockery, but such was life.
+
+Apart from those skills, I also let out a Paralyising Screech meant to somewhat weaken his mental focus. At this stage, the skill didn't do anything worth mentioning.
+
+It was in desperate need of an upgrade or even an evolution, as did most of my skills if I had to be honest.
+
+Some I hadn't used a lot, some I used too much. It was a mess.
+
+Lu Fu was before me, sword raised to the sky and energy dancing on its surface. He swung down at an incredible speed, and if it werent for Phoenix Reflex, I would have lost right there and then.
+
+Thankfully, it allowed me to dodge by a hair's breadth, and opened up a counter attack opportunity. The two dragons constricfted themselves around Lu Fu, and the Myriad Qi Needless all shot toward his head.
+
+I knew it wouldn't do much, but if it could serve as the smallest amount of distraction, then it did its job.
+
+Looking up, the moon was already at its peak. The Moon Bloom would soon finish blooming, and a few moments later, it would die if unplucked.
+
+My next attack had to be the finishing blow.
+
+With Iron Claws primed, I took advantage of the slight paralysis from the Lightning Dragons and minor interruptions from his soul getting prickled by the needles.
+
+I aimed for his stomach, aiming to rip open his guts. When the stirke connected, I thought I'd won, but instead of the pleasant feeling of hot flesh melting under my talons, I was met instead of the clang of metal on metal.
+
+His scales spread all over his body.
+
+The defensive power of a dragon's scale was impressive. Even the best out of all the Spirit Beasts considered to be mythical in nature. They were powerful against both physical and Qi attacks.
+
+Most dragons had a weak soul, at least relative to their strength, which was pretty much the only thing keeping them from running amok. There were a lot of soul cultivators who could fight dragons, so there was a general consensus of 'don't fuck me, I don't fuck with you'.
+
+However, a Dragonkin, someone who had the soul of a human and the connection to Heaven to that of a human's...
+
+Such a weakness didn't exist. Instead, their own strenght would become the sword that cut them down. When someone with such rich Spirit Beast ancestry and power gets too strong, their body would be unable to keep up.
+
+At that point, the result would be a violent death, or an incredible ascension. As for which would happen to him, only fate could tell.
+
+At the moment, though, I was at a good disadvantage. A Phoenix' strongest suit was their fire and vital regeneration, and I decided not to use any fire. I had to make a split second decision though.
+
+Time was very quickly running out, and-
+
+Lu Fu channeled his energy and broke himself free from the grip of the dragons. Within moments, his blade would be upon me, would shed blood, and I would lose-
+
+Letting out a sigh, I focused Qi into my wings, Nirvanic Flames spreading from the tip of  my feathers inward. With half of my being covered in flames, I actiavted Blade Wing and struck toward his neck.
+
+A Paralyzing Screech accompanied my attack, and I watched as his sword came dangerously close to my neck. It was too late for him to stop the attack, and too late for me to dodge.
+
+Heaven's Protection was still activated, thankfully, and-
+
+He took a minor step back, my wings only grazing his chest, instead of the neck attack I had planned. Meanwhile, his blade broke my barrier, but I managed to block some of it with my wing.
+
+The force of the attack shot me away, and I used Aerial Redirection to get close to the flowr. I had to have it, and be done with it.
+
+When I landed, I'd gotten ready to react to Lu Fu's next attack, but what came next was totally unexpected.
+
+He was laughing.
+
+The Dragonkin's chuckle was creepy, hoarse and somewhat strained. No doubt that having so much strength  push against your chest would make it hard to breathe.
+
+But I wasn't really understanding why he was laughing, or why he stopped attacking.
+
+Even as blood flew down my wing, I couldn't see it.
+
+That was, until he tore off his shirt, and there, right in the middle of his chest, was a deep gnash wherefrom blood flowed like a river. Some of the wound had been cauterised, but not enough of it had been to stop the blood flow.
+
+His maniecal laughter transformed into something else, something deeper, scratchier,  more throaty. It faded away as did his scales, and the face of the crazy human greeted me once again.
+
+"You should come to the Tiger Spirit Alliance. I'm sure many of us will be happy to have you around."
+
+Tiger Spirit what now?
+
+Before I could ask anything else, he summoned his flying sword and left.
+
+I didn't wait any more to collect the Moon Bloom, and I put it into my dantian right away.
+
+It was now safely floating above the Qi Lake, and in retrospect, I really should have had more soil.
+
+After that whole thing ended, and the moon kept going, I stood up and let out a sigh.
+
+I'd done it, I'd done the thing, and yet, no reward was in sight.
+
+Well, there was something in sight...
+
+"Well done." Meng Mao popped out of nowhere and looked around at the destruction Lu Fu and I caused. It was minor, but still.
+
+"Whatever." I said nonchalantly and looked toward the horizon, mostly toward the Hu Village, who were still bidding for my pills. It was too bad I couldn't be there to witness all the money I would be making.
+
+"How much time do you need to sort everything out?" He finally got to the point.
+
+"One day at most. Tomorrow night we can set off."
+
+"Alright, see you then."
+
+"Before you go-" I called out just as he was about to vanish. "We both agree this whole thing was insane, right?"
+
+"Yep!"
+
+And with that, he once again faded into the shadows.
+
+As for me, I only wanted to take a nap.
+
+***
+
+At the auction, Shu Xu Ning and Shu Wao Tu looked through the crowd with hope. Fa Xiaolan had not given them any time to say their goodbyes, and they felt like they'd been discarded.
+
+Shoved away like unwanted furniture.
+
+Even though such a thing was impossible, after all she'd done for them. It was no exageration to say that she'd saved their lives. Still, they couldn't understand why she'd just disappeared.
+
+Part of them hoped that she would be there, but the more they looked around, the more they realised that it wasn't the case at all.
+
+She was probably already off doing other things, maybe saving other people. Shang Hue had also disappeared, as did the black haired woman that didn't speak.
+
+The only person left that they could ask about details was Xing Ya Chen, who was probably busy with the Myriad Market affair.
+
+That meant that they were lost, no, more than lost.
+
+However, if they couldn’t find Fa Xioalan, Shu Wao Tu and his little sister still had a path.
+
+When day broke on the night he woke up, Shu Wao Tu’s body had more or less healed to a point where he could function normally. He’d stashed away the token the man gave him, and took care of his sister.
+
+She woke up feeling great, even better than him. Her body had been fully healed, and even her cultivation may have gotten better. He didn’t know what that man had done for them, but their unnaturaly fast healing must have come at a cost.
+
+If not at their expense, then at his. But it was hard to tell. After that night where he couldn’t even see what he looked like, Shu Wao Tu had not met the man again. However, shortly after getting up, he found a note on a table.
+
+It was from the man, and though it didn’t say a lot in terms of quantity, it was immense in terms of quantity. He explained that Miss Xiaolan may not see them off, since she had something important to do and they would leave shortly after.
+
+That was about it, however one thing he did help them with was with the location of the True Elemental Sect. On the back of the note, or rather, the map was the note, so it really was the front of the note?
+
+On the other side of the note was a map, detailing how to get from where they were to the sect. As he’d said, it was far away.
+
+However, they could go there, slowly and steadily. Without any time limit, they did want to see Miss Xiaolan one last time.
+
+After talking it out with Shu Xu Ning, they decided to seek her out and truly express their gratitude.
+
+But since she wasn’t at the auction, they had no lead.
+
+In the end, they decided that they best grit their teeth and seek out Xing Ya Chen.
+
+They entered the Myriad Market, and much to their surprise, he was sitting there in the Heavenly Pill Pavillion, muttering to himself.
+
+When they walked in, he turned around and greeted them with a smile.
+
+"Ah, you two! I knew you'd come."
+
+"Huh? How?"
+
+"Well, I saw you outside, so that much was pretty obvious. You want to know what happened to Miss Xiaolan, right?"
+
+The two siblings nodded, the little girl more energetically than her brother.
+
+"Well, so do I. Since she hadn't shown herself today, then she has to show herself in Golden Arch City, right? To collect her money. So what else is there to do than go to Golden Arch City?"
+
+"You mean to say that you intend on making the long trip there?"
+
+"Sure am!" Xing Ya Chen smiled to Shu Wao Tu, the emotions within the shopkeeper's eyes hard to discern. "And I'm not going alone!"
+
+When he said that, Shang Hue popped out of the shadows, as if waiting for Xing Ya Chen to introduce her.
+
+"She will join us."
+
+"Us?" Shu Wao Tu asked.
+
+"Us, of course. We're all going to Golden Arch City."
+
+"And what makes you think we'll accept?"
+
+At his question, Xing Ya Chen raised an eyebrow, and the young man could only sigh.
+
+"Yeah, we were going to join you."
+
+"Great! I already packed everything we may need for four people, so don't worry. I also have plenty of funds, so everything should go smoothly."
+
+Well, I guess we’re doing this then.
+
+The four of them resigned themselves to Xing Ya Chen’s plans, since they had no better ideas anyway. However, before leaving, they wanted to wait out the auction, just in case she decided to show up.
+
+Walking outside, they went unnoticed, as the crowd was still focused on the auction. Fa Xiaolan’s pills had yet to come up, but they would appear very soon.
+
+With that in mind, they did a quick scan of the area, and didn’t notice her anywhere. At that point they had to resign themselves to their fate, and realise that she wouldn’t show up.
+
+They could only sigh and head toward Golden Arch City, hoping to find her there. Afterwards, if they couldn’t, they’d split up from the others and head toward True Elemental Sect.

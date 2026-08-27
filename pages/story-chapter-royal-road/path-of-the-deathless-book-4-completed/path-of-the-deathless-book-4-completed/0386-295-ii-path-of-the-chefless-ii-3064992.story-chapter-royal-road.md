@@ -1,0 +1,151 @@
+---
+id: 01568adf-a296-5c2e-9dbb-eb9ebb8cc082
+page-type-slug: story-chapter-royal-road
+title: "295 (II) Path of the Chefless [II]"
+slug: 0386-295-ii-path-of-the-chefless-ii-3064992
+partOf: path-of-the-deathless-book-4-completed
+position: 386
+ownLength: 2988
+unit: words
+publishedAt: 2026-02-17
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3064992/295-ii-path-of-the-chefless-ii"
+royalRoadId: "3064992"
+---
+
+295 (II)
+
+Path of the Chefless [II]
+
+Jessica hesitated. "Yeah. Yeah. I'm kinda tired of peeking."
+
+But before she could pull away from her blade, something emerged behind Shiv. It was an orc hidden by a swirl of dust and wind. He stepped through folds of a passing gust and held a dagger high. Jessica nearly instinctively cried out for the kid, but caught herself before her humiliation could be complete.
+
+However, her help proved unnecessary this time.
+
+As the orc plunged his blade down to pierce the base of Shiv's neck, he flickered. He was gone for less than half a second, blinking out of existence before returning. The orc missed—and was promptly hewn vertically in half by a swipe of Shiv's frying pan. The corpse of the bisected orc bounced across the sands, and a dozen other shadows emerged the same way, leaping forth to strike the boy down where the first had failed.
+
+The goblin tried to respond, but an orc trailing a cape of flowing gold barreled into her, seeking to sink a wicked blade covered in hissing toxins deep into her chest.
+
+Jessica leaned in reflexively. She didn't know what Shiv was about to do, how he was going to escape. Even if he could save himself and use that—
+
+"Motherfucker, I know that skill!" Jessica cried aloud. "That's a Dodge Skill. Phase Frame. That's what he used on me earlier! It wasn't his weird—oh, that oversized felling child tricked me! He used me to get a Skill Evolution!"
+
+And then he used the orcs to gain another.
+
+Jessica watched as Shiv responded to the ambush with a wave of his hand. To her surprise, a cancerous whip erupted from his armor. Once hidden, the disgusting tendril snaked around his body, intercepting every blade coated in shadow or poison poised to claim his life. A vector from his Shapeless Tides accelerated along the whip as well. The orc shadows found their blades sliding off point, and the tip of the cancer whip ended up slamming into the ribcage of the orc trying to slay Gone.
+
+Jessica's eyes widened. Though untrained, though raw, that was a feat of martial prowess. Deflecting a blow using Frictionless Vector was one thing, but turning a dozen blades from a group of Heroic-Tier orc Shadows aside via a whip? The Giantsbane found herself cheering along. "Oh, hells yeah! Kick their fucking asses, kid!"
+
+"And the inevitable comes to pass," Rusty said, though he didn’t sound all that sour about it.
+
+***
+
+Frictionless Vector 99 > 104 (Skill Evolution Reached)
+
+Skill Evolution: Frictionless Vector (Adept) > Return To Sender (Master)
+
+It was one part Bifurcated Processing and two parts Gone shouting a desperate warning that saved Shiv from the assassin's daggers. He dodged the first stab using Phase Frame out of pure reflex. By the time Shiv caught up to what was going on, he'd also cut the orc in half. That surprised even him. His instincts were so honed to violence now that he didn't even think when cutting someone down. He moved. Death followed. The fight went on.
+
+Then came eleven other orc Shadows. They emerged, throwing off cloaks of pure transparency, while their blades sizzled with foul-smelling poison. Even inhaling the smoke triggered Shiv's Plaguefueled skill. The orcs attacked from all angles, all sides, and were further supported by another barrage of incoming spells. Shiv barely had a chance to recover a few overflow tides after being caught out of position earlier. He would have been bombarded to death if not for Gone extracting him.
+
+Frankly, this entire battle would have gone terribly without her. Fucking Five tried to escape the first chance he got and then immediately got captured. Candles turned into more of an environmental hazard for everyone in the arena than a member of the team. And that left Shiv and Gone facing all the orcs on their own.
+
+The moment an orc Shadow tackled the goblin, his mind went into overdrive. Shiv activated his Bifurcated Processing and unmerged his cancer whip from his armor. It wound and twisted through the air, possessed by a mind of its own, guided by his subconscious and desperation. His vision darkened as he stressed his mind to the breaking point. It felt like he was hammering a burning spike into the base of his brain. But somehow, despite everything, he didn't black out. A series of impacts tremored against his whip and brought him back to his senses.
+
+Shiv's eyes widened as he realized the feat he'd just performed. The orcs were off balance. Their blades slid away from his Cancer Whip like skates gliding across ice. Frictionless Vector triggered ten times. A final impact came when the end of his whip shattered the ribcage of the Shadow trying to kill Gone.
+
+The offending orc was launched across the sands, coughing blood—and Gone was on him in an instant. She vanished as a bolt of golden lightning and struck the orc like a thunderous hammer cast down from the heavens, driving him a kilometer across the arena. When she finally came to a stop, steam was rising from her body, and the orc had been practically vaporized.
+
+But Shiv didn't have time to celebrate that minor triumph. Though two Shadows were slain, ten more threw their cloaks back on, vanishing before Shiv or Gone could do anything. He detonated his inertial sheath again and heard a few oofs and ahs, but ultimately failed to track or even truly hurt any of the orcs. Whatever enchantments their cloaks had, they scrambled his Atlas as well, made him see life signatures that flickered in and out of existence at random points.
+
+But he didn't have time to deal with his assassin problem, for the next salvo of siege spells descended at that moment, and Shiv didn't have enough Shapeless Tides left to take a bombardment head on.
+
+He cut the mental process telling his whip to protect him from harm and spare Gone from her brutal fate. Instead, he tried devoting even more strands of thought to generating overflow tides. Too bad it didn't work like that. His excess strands blended into the first, vanishing because they were the same task. Gathering overflow tides didn't demand any more mental capacity, and so his survival looked increasingly impossible.
+
+"Gone, get—" His words were cut off as the first of the spells hit him. This one looked like a descending hammer, shaped by living fire and further imbued with a crushing weight. He'd suffered the spell before. The air had combusted and grown impossibly heavy. And the more the flames burned, the denser the air became and the harder it was to stand. Shiv's Legendary Physicality meant he wasn't pinned in place, but even so, he had to spend tides resisting the Dynamancy and found himself slowed just enough that he couldn't avoid any of the other spells.
+
+Falling close behind the first siege spell was a series of other patterns, one of them glittering golden. Shiv suspected he would be dealing with that Chronomantic rainfall again. His Temporal Shell hadn't regenerated yet, so he wouldn't have the chance to revert himself backward in time and avoid what was to come.
+
+Shiv chuckled. His orcs were a nightmare to fight. They never stopped attacking. They never stopped creating more problems. They never stopped, and they weren't afraid of death either. Theirs was iron that suited his, and they would grind each other down until one side found pleasure and the other found enlightenment. But between the two was a trade of currency, and that was death.
+
+And thus, Shiv stepped forward. He clenched his left fist and threw a punch directly at the spell. He didn't know if he had any overflow tides left to resist the first. But everything that followed would shatter his Magical Resistance. He was sure of that. That didn't mean he had to accept it and just die clean, though. He could make it sloppy, messy, and drawn-out. And he would make sure Gone got away at least. That'd hopefully give her a chance to lap the arena and come back to pull his Vitae out of the field of fire.
+
+But Shiv's fatalism burst like a bubble as his knuckles collided with the spell. He expected it to explode against him. He expected his body to strain, his tides to evaporate—consumed in contest against the offensive mana. What he didn't expect was the Skill Evolution of his Frictionless Vector to trigger immediately.
+
+As he slammed dead on against the hostile magic, he sensed something else take shape. It was an inherent momentum moving toward him, a traveling force pointed directly against his fist, and rather than push against the magic itself, Shiv found himself able to work against the underlying force. It felt like he was bending an arrowhead the other way around. With a cry of effort and a flood of overflow tides rushing down his arm, Shiv swatted the spell directly back along its original trajectory.
+
+For the first time, Shiv's new Return to Sender skill triggered.
+
+And it was a beautiful thing to behold. The complicated pattern of interlocking shapes infused with Pyromancy and Dynamancy bearing down on him was wrenched back in an instant, almost like time was being rewound. It arced through the air and returned to the very place it came from. It was like the spell shapes were stuck to a fixed path, carts traveling on rails. The spell's speed didn't change, returning as fast as it arrived. But it did return to sender, detonating over the orc magi in a 400-meter-wide wall of fire infused with crushing gravity.
+
+Shiv was so awestruck by what he just achieved that he almost missed the next few spells coming to greet him.
+
+It was only Jessica’s deafening cry of "FOCUS, DUMBFUCK!" that rang out from high above which snapped him back to full concentration.
+
+Shiv crouched and then exploded off the ground, slamming shoulder-first into the next siege spell. He barely had any overflow tides left. What remained was used, twisting the spell back along its path. But it bent. It returned to sender as well, zipping along the trajectory and slipping through the following few spells as well. Shiv found himself reduced to using his innate tides, but even so, it was a better trade. Return To Sender consumed far fewer vectors compared to soaking the magical damage outright.
+
+He perfectly parried another spell with a backswing from his Last Morsel, and then he swatted another aside with an uppercut. To his delight, his overflow tides were returning. He was cultivating more vectors than he lost, and it seemed like he had a full counter against ranged attackers.
+
+Then, as he brought his frying pan down once more, he misjudged his timing, swinging a fraction of a second too early. He clipped the spell rather than striking it dead on, and the feeling was lost. The arrowhead he sensed within the spell vanished. It slammed into him as a flood of dimensional waters displaced the air around him. Shiv gritted his teeth as all the overflow tides he gathered were lost in an instant.
+
+Return To Sender was a remarkable skill, but it could still be failed by a user error. And needed perfect timing to activate. If Shiv was too soon or too late, there would be no arrowhead to push against. As he lashed blindly, trying to anticipate where the next spell was coming from, Shiv knew that it was too late. He'd lost the rhythm. He had lost track of where the magic was coming from, and any moment he would be struck—
+
+Something slammed into him from the right. But rather than being an enemy spell, it was Gone, carrying him across the arena once more. His Shapeless Tides rattled briefly, but then he stopped resisting. He let her pull him across the distance so they could reposition once again. Everything around him blurred. It was like he was travelling through a golden tunnel, translucent and blurry. He could vaguely see everything outside. As Gone travelled, it seemed like the world formed some kind of tube for her. Before Shiv could gain anything remotely close to an insight into her Chronomancy and Reflexes skill fusion, she came to an abrupt stop, and they emerged from her personal dimension of accelerated time.
+
+Lightning jumped across her golden quills, and she looked up at Shiv expectantly. She was breathing harder than before. The orcs had not given them a chance to rest, not since the fight started.
+
+"Got any ideas?" Gone asked quietly. "Also, nice Skill Evolution."
+
+"Thanks," Shiv said.
+
+Their brief repose was interrupted as Candles exploded up into the air. He soared high like an inverted meteor, but his body was coated in a dense layer of frost. Even so, he cackled with glee, spinning head over heels in the air as he released plumes of fire, plumes that came splashing down toward Gone and Shiv.
+
+"For fuck's sake, Candles." Shiv sighed, staring helplessly at the burning impediment he'd decided to hire for his kitchen.
+
+Gone didn't say anything. Instead, she reached over, grabbed Shiv by his pinky, and pulled them away once more. “So. Plan?”
+
+“Uh. Yeah. Listen, you ever hide in a corpse before?”
+
+The goblin looked at Shiv like he was disturbed.
+
+Shiv cringed and continued with his very macabre idea. “Well… Hear me out…”
+
+***
+
+Jessica stared down incredulously at the coliseum from where she hovered on her fire wheels just beneath the clouds. Crimson lightning flashed around her. Bodies and debris rained down, carrying the taint of newborn orcs festering within. She ignored all of that. Her left eye twitched, and then it was her right eye's turn. A wall of flame rose from the right side of the arena, but she didn't care. It didn't matter what the Pyromancer was doing. It didn't matter what the orcs were doing. The kid was absolute bullshit. She knew that he leveled fast from dying, but gaining two skill evolutions in the same day? And Return To Sender, no less? That was gross. She felt sick. What the hells was Udraal thinking when he made this kid? What was the System thinking when it rewarded him with this much power?
+
+"You've got to be bullshitting me," Jessica muttered to herself. She was half shaking in disbelief, half green with envy. But then she thought of how her Awareness skill had advanced twice just moments ago, and realized that this was likely what it meant to obtain the System's highest favor.
+
+The clouds above her rumbled with rolling thunder, but slowly, the sound transformed into a low, echoing chuckle.
+
+Jessica rolled her eyes. She knew what was coming. And she didn't want to deal with it.
+
+"You know, Giantsbane—" the Challenger began.
+
+Jessica held her sword to the side and magnified its size by a few orders of magnitude. Rusty grew from being twice the size of her body to a scale that dwarfed mountain ranges, and with a casual flick, she parted the clouds for a dozen leagues around her, silencing the thunder.
+
+"No, you fuck off. I told you to fuck off then. I'm going to tell you to fuck off now. I've got nothing to say to you. I will have nothing to say to you tomorrow. I'm not going to have anything to say to you the day after that. So stay the fuck away from me. That's all."
+
+To the Challenger's credit, he knew how to take a hint. The skies went quiet aside from more plunging near-corpses and screaming Pathbearers.
+
+Jessica turned her gaze back down and watched as the goblin came to a halt, golden lightning revealing both her and Shiv. She watched intently as a flood of darkness expanded out from the kid's body. Was he going to try stealth? Jessica cringed. The orcs definitely had Diviners with them. He wasn't going to be able to hide and all that. He suspected he wouldn't be able to hide even if there weren't any orc Diviners. He needed to be cleverer than that.
+
+Come on, kid, think a little bit more. Use that fat head of yours. Think! Don’t let these overgrown assholes fuck you over.
+
+"Just wait and watch. I think we haven't seen the fullness of his plan yet."
+
+The sudden intrusion of the other voice made Jessica uncharacteristically flinch and swing her sword in a wide arc. It stopped a finger's length away from Valor's neck.
+
+"Seriously, you love doing this shit, don't you?” Jessica hissed. “Popping up behind people out of nowhere.”
+
+The bastard lich had the audacity to chuckle. "It really is quite amusing. And your Awareness does need some improvement, Legend Hawgrave."
+
+"Yeah, well, here's a skill you can work on too: fucking off like the Challenger."
+
+"Now, now, Bearer," Valor replied amiably, "I am not here to start a fight. No, I am here to observe our pupil and his newest evolution."
+
+Jessica glared at Valor, but briefly turned to glance at Shiv. Then she froze. "Wait. The hells you mean our pupil?"
+
+"There's no need to deny how you feel and what you have already decided." Valor sighed. "As I said, your Awareness needs work. I've been behind you for quite a long time now. I heard you cheering and squealing like a young maiden receiving a letter from her beloved earlier. There is nothing you can do to deny that. Now, shush. Let us watch if he has any more surprises left for us. And himself, I think.”
+
+Jessica blinked. Her face turned red. Her lips pressed together. She looked away from Valor, trying to resist the crushing urge to drive Rusty up through the underside of her chin to bring an end to her shame.

@@ -1,0 +1,183 @@
+---
+id: 4b44d32e-b11b-57a4-a7ec-4fe7f27bdb43
+page-type-slug: story-chapter-royal-road
+title: "Chapter 141: A little too far."
+slug: 0141-chapter-141-a-little-too-far
+partOf: phoenix-ascension-cultivation-litrpg
+position: 141
+ownLength: 2410
+unit: words
+publishedAt: 2026-06-18
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3558688/chapter-141-a-little-too-far"
+royalRoadId: "3558688"
+---
+
+What the fuck did he just call me?
+
+Yo Na snapped the guy’s sword in half then used that very same paw to send a devastating blow against his skull. The man stood no chance against her strength, his head being crushed into a paste before he could utter another sound.
+
+The other paused upon seeing what happened to their comrade, fear and doubt drawn on their faces. With widened eyes, they made a split second decision, and all of them dropped their opponent and rushed toward Yo Na.
+
+She let out a fierce growl, her claws shinning with a dark light. One quick swipe and a giant claw mark split the air in front of her, sending cutting winds everywhere. Those quicker ones managed to dodge the main attack, but the unlucky cultivators close to her marks died before knowing what had hit them.
+
+However, she hadn’s stopped there. Channeling Qi in her human flesh, she sprang on her legs and dashed toward someone that had begun turning away. In less than one second, she was upon him, legs bleeding.
+
+Crushing his skull into her paw, she went toward the next, using the shadows created by the trees to become faster than the eye could follow.
+
+Xing Ya Chen and the rest looked at her with awe and fear, and could scarcely believe their eyes when another cultivator fell, their heads gone.
+
+If the others had doubts before, and still had intention of attacking, then now they were truly panicked. From the twenty five they started off with, only twelve remained. Half their forces dead in but a mere seconds.
+
+It didn’t take a genius to know they had no chance. Putting their weapons away, they ran, and disappeared into the forest.
+
+Yo Na didn’t follow them, she couldn’t. Reappearing back with the five of them, her claw hand disappeared, and her legs were bleeding profusely. Her actual body was wounded as well. Perfect Disguise put a strain on her body.
+
+She didn’t actually know why, wasn’t the technique supposed to be… illusionary?
+
+***
+
+I’d spied on Guo Lu Poo every night since I’d managed to change Perfect Disguise and create an illusion of myself. None of those did I detect someone discovering me, but I was suspecting they’d begun getting suspicious.
+
+I decided to stay still for a moment and ponder on what I’d discovered.
+
+First, that was indeed his office. I’d managed to catch a glimpse of him when someone opened the door. I was sitting far away, and saw his face clearly. There was a desk, many papers and writing instruments.
+
+That was definitely his office.
+
+I wasn’t sure if I was imagining it, but for a split second, when he raised his head, it felt like he’d caught a glimpse of me.
+
+After that incident, I’d just been following the door. He was sitting there all night, unfortunately. That man never once left his office in the time I’d seen him there.
+
+I raised the issue with Meng Mao, and he told me that he’d plan something. I wassuming he was talking about some sort of distraction.
+
+Seeing that, I thought it was a good idea to get things on my end finished as well.  During my nightly activities, I’d also found out where the treasure room was, though it was heavily guarded. Much better guarded than the office.
+
+I only wanted the Qilin Horn, and Butler Mo knew that. However, if what I’d planned on ended up happening, then we wouldnb’t have to worry about them.
+
+I spent daytime pondering the runes and formations inside the enclosure, and some nights spying. It quickly became a fruitless endeavor, but it was better I stand there in case something happened.
+
+And I did well to do that, as one night, Butler Mo rushed inside the big man’s office. Though, it wasn’t a run, more like a fast walk. My bubble hadn’t popped, so I wasn’t sure if he’d discovered me or not. For all I knew he didn’t need to use Divine Sense.
+
+He didn’t glance in my direction, though, and seemed rather pre occupied. If it was an act, it was a rather good one.
+
+The room had plenty of sound sealing formations unfortunately, and I wasn’t anywhere near strong enough to peer inside without getting caught.
+
+Butler Mo and Guo Lu Poo stayed inside for a long period of time, and the former only left when morning came. To my surprise, the big man followed shortly after, looking warily around.
+
+That was my chance to go inside, but I wasn’t going to. Meng Mao was already preparing something, and if whatever they were doing was a trap, then I’d better not fall into it.
+
+Though if they knew I was lurking, then why hadn’t they done anything about it yet? It wasn’t like I could truly fight against either of them, let alone the two together.
+
+Too many questions, and their behaviour was too strange. I could not make heads or tails of it.
+
+I returned and kept figuring out the runes. I was close to discovering what I was missing, and hopefully breaking the seal.
+
+After an intense session, I’d contacted Meng Mao once again, and he was more than happy to relay some news to me.
+
+“In two days, I will create a massive distraction for you. Guo Lu Poo will have to respond, and most of this security would need to come help as well.” He sounded way too excited.
+
+“What are you planning?”
+
+“Eh, should I really tell you? Let’s just say I managed to get help from a really important person. They’d come into my office some days ago to discuss business, and after telling them a vague idea of my plan, they’d divulged that they were really interested in an item from the little girl’s treasure.”
+
+I narrowed me eyes. “What item?”
+
+“Eh, just the Qilin horn. I told them I could get you to steal it for them. It’s really important and something they must have, and in exchange, well… I guess you’ll see.” With that, he cut communication, not waiting for me to confirm.
+
+I’d almost flared up in anger. Who did that guy thought he was, to order me around? Not to mention whoever that was wanted my prise, my treasure? Unacceptable, it was simply unacceptable. I would not, and could not, stand for this.
+
+I renewed my efforts into deciphering the runes. Tired as I was, I would show them that I didn’t need external help to accomplish my mission. I had less than two days to figure it out, plenty of time if you’d asked me.
+
+***
+
+Meng Mao’s smile widened upon remembering the interaction he’d had with his client.
+
+That person was a long term client of his business, well, several business, most of which weren’t legal. They were also important, both socially and in strength. It was to the point that he hadn’t dared look into their background. Hell, he didn’t even know if they were a man and a woman.
+
+All Meng Mao knew was that they were rich, important and incredibly powerful. Even more so that Guo Lu Poo. However, that person wasn’t interested in over turning the city or its power structure.
+
+They wanted information, mostly about the most current powerful humans, which Meng Mao was more than happy to provide. Besides that, things like booze, food and other such delicacies were something they were interested in.
+
+The main thing they bought every month and without fail were crystals. Many, many elemental crystals. Meng Mao knew they were used in many crafting recipes, both alchemical and in the weapon’s type, but beyond that, he wasn’t sure of any more complex uses for them.
+
+They were cheap and easy to acquire, but when bought in such immense quantities, well it was hard to turn down such an offer.
+
+More than that, there was something else that client would sometimes buy— Spirit Beasts.
+
+They weren’t illegal to sell, well, most of them anyway, so he was happy to provide. He would buy each and every one, regardless of their value or cost. What experiments the poor things were used for, he could only guess.
+
+For a moment, he’d had a dark thought. What if he were to sell the Phoenix?
+
+He immediately put it aside. That would be incredibly stupid of him to do. That wasn’t any sort of normal Spirit Beast, and he knew that.
+
+On that night, when the Phoenix had first contacted him with that skill, that client had arrived right after, and asked for something very specific— A Qilin horn. Now, that would be something Meng Mao would have no way of getting his hands on… Or he would not have, if the Phoenix was not currently infiltrating in the  one place in the area that had a Qilin horn.
+
+Meng Mao chuckled inwardly, thinking it was fate. The price the client was offering for the item was… much, much more than Meng Mao could have ever dreamed of. But then again, it was a Qilin Horn.
+
+How that bastard, Guo Lu Poo had gotten his rotten hands on it, he could not tell. What mattered though was that he would now be profiting off of it. He hadn’t promised anything initially, but after a few days have passed and the client returned for an answer, Meng Mao explained that he could get his hands on one, but that they needed a… distraction.
+
+The client immediately understood and said they’d take care of it, then left.
+
+Meng Mao was pleased with that, and immediately told the Phoenix as soon as she contacted him. However, he’d preferred to remain vague, since revealing too much to her may cause their plans to go into disarray.
+
+And now, all he he had to do was wait, and both money and his enemy’s secrets would fall onto his lap.
+
+What more could one want from life?
+
+***
+
+“Achoo-”
+
+Who is cursing me?! I didn’t even know birds could sneeze, but I’d already sneezed a few times to know it wasn’t normal. That also started the young miss, who was sitting in her bed, reading. It was one of the few instances that I’d seen her calm and actually working on herself.
+
+Of course I couldn’t guess what she was reading, but at least I was being left alone. My progress over the day was incredible. I’d foregone spying on the big man that night in favor of focusing all my time on pondering the runes.
+
+Finally, after an eternity, I’d finally realised what the missing link was. It was definetely a new type of writing runes I’d never encountered before, but given enough time, I managed to find a way to break it.
+
+And the solution was incredibly easy. It was so easy I’d almost found myself chuckling.
+
+I’d immediately contacted the Black Turtle, and he reported what was happening to me. He said most of the more powerful animals are ready to break out of their cages after finally digesting all that food. Those that could not would be broken out, and the very weak ones would be carried out.
+
+He did mention that he may have woven a narrative to make them a little more willing to cooperate, and that he’d spent the past few days giving them hope. He didn’t, however, explain to me what he’d actually done.
+
+It couldn’t be good. But that was something to find out after everything was over.
+
+All he needed was the method to break the seals.
+
+Do you know the principle of writing runes?
+
+“I do, but I am not an expert at it. And I can never quite do it as I’ve observed the humans did.”
+
+That’s fine, I figured out how to destroy the formation keeping you all sealed. It will require a lot of Qi, though.
+
+“Tell me.”
+
+I then explained the method by which to modify the runes. It was simple, and even someone who’d never written any runes could do it. And that was by design, as I wasn’t expecting Spirit Beasts to know how to break them in the first place.
+
+After explaining it a few times over, he’d understood, and planned to enact the plan the very next morning. All the pieces were in place for optimal chaos, and that will allow me to take everything I need.
+
+***
+
+The time arrived faster than I’d expected. When the rays of the sun peered through the window, I’d woken up and contacted the turtle. It was past their feeding time, so the maids should have already have left.
+
+He told me that everything was in place. He’d already broken out of the cage and had helped the little tiger and bird do the same. Afterwards, some of the strongest Spirit Beasts came out by themselves, and the rest were aided. They were in position.
+
+There was no point in waiting anymore, I’d decided, and just told them to start the process. It would take a while for the turtle to explain everything to them, but it should be simple and safe. They needed to be together in case something went wrong, that way they could share the backlash.
+
+By the time the morning ended, everyone should-
+
+A great explosion broke me out of my thoughts, and a wave of powerful Qi sent my mind reeling. Who the fuck?!
+
+Right as that happened, several strong presences blew out of the mansion, all raising to see what the disturbance was about. Amongst them was Guo Lu Poo.
+
+However, nothing else happened afterward. It was as if some freak experiment had gone wrong right next to the mansion, but… It couldn’t have been a coincidence. This was definetely Meng Mao’s doing.
+
+It was too early, had he known I was going to act ahead of time, or was he scared of spies?
+
+“Guo Lu Poo, come here and face your uncle!” A powerful voice sounded out right when I’d thought the dust was settling. It wasn’t distinct, but the aura made me think of the lighting technique I’d learned.
+
+Right then, clouds gathered above the manor, and I decided to spread out my Divine Sense and observe what was happening with my own eyes.
+
+My jaw almost fell, as up in the sky was the faint image of a dragon.
+
+Oy… Isn’t this a little too far?...

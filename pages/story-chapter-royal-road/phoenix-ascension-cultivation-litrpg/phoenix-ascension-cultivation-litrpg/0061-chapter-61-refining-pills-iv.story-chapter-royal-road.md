@@ -1,0 +1,345 @@
+---
+id: a2fe4aaa-85fd-5613-bbed-71c7b9e6a045
+page-type-slug: story-chapter-royal-road
+title: "Chapter 61: Refining Pills IV"
+slug: 0061-chapter-61-refining-pills-iv
+partOf: phoenix-ascension-cultivation-litrpg
+position: 61
+ownLength: 4252
+unit: words
+publishedAt: 2025-12-13
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2845599/chapter-61-refining-pills-iv"
+royalRoadId: "2845599"
+---
+
+[Skill: Perfect Disguise has reached the [Beginner] Rank!]
+
+The rank-up notification brought a smile to my face. After staying as still as I could while initiating a leaf, I finally gained enough proficiency for a rank up.
+
+I tried swaying by myself, without the use of the wind, and the skill didn’t immediately break. It was only after I’d done it three or five times that the disguise got undone. That meant that I had way more chances before getting exposed.
+
+I considered that it was finally about time for me to go to the Myriad Market. I didn’t know much about it, but I didn’t need to. However… I did need some clothes.
+
+I flew through the forest, looking for something the little girl could trade for a set of clothing. I didn’t need a lot, just a hanfu and some shoes. Perfect Disguise did not create clothes for me, unfortunately.
+
+It didn’t take me a lot of time to find what I was looking for— a Tusky Fire Boar. While they weren’t strong, boars usually sold for a decent amount of money due to their meat and hide. I was willing to bet its core would also fetch quite a good price.
+
+However, I had to make it look like the leftovers of a beast, so naturally, I dug in. I only opened up its belly and ate its innards, leaving the hide and the flesh mostly intact.
+
+With that, I picked it up and flew it to the outskirts of the city, then jumped into the village disguised as a dog and told the little girl where to find it. After about two hours, she came back with an orange hanfu and a pair of shoes.
+
+And nothing else.
+
+Whoever did business with her definitely scammed her, but that was to be expected. At least she brought what I was looking for.
+
+The hanfu looked and felt cheap, as did the shoes, but they were better than nothing. After disguising myself as a human, I put on the clothes, covering the feathers, and I took a good look at myself in the dirty mirror.
+
+I looked quite good, all things considered, especially my face and… the chest area. Definitely a beauty.
+
+“You two stay put, I will come back soon.” Hearing my own voice was weird; it sounded mature, but also very annoying. I much preferred my bird voice.
+
+Walking out, I felt the rays of the sun on my bare skin. It burned quite badly, but it wasn’t uncomfortable. I made my way out through the gate for once, which was an equally disturbing experience.
+
+This Perfect Disguise skill was way too good, even making the squeaking of the iron gate scratch my brain.
+
+Anyway, I took a good look around me, but the streets were a little empty. I wasn’t sure why, but I figured that once I walked out into the village, I would see some people.
+
+And it was just as I thought, the moment I turned a few corners, people were bustling as far as the eye could see. I’d never gone out into the village before, so this was a brand new sight for me.
+
+At a glance, I could tell the majority of them were mortals, with a few Qi Condensation cultivators strewn about. They wore patched, dirty clothes and each held a hoe, a fishing rod, a basket,t or something else that spoke of their trade.
+
+The Qi Condensation cultivators wore fancier clothes, though not that much better. None of them had a bag of holding, but they did have a sword at their waist.
+
+Amongst the cultivators, some of them were undoubtedly guards, judging by their armor.
+
+I walked in, blending through the crowd. Well, as much as a red-haired woman could blend in with a sea of people with dark hair. One too many gazes locked onto me, but it was more of a bewildered look than anything else.
+
+The cultivators made way as I unleashed as little of my cultivation base as I could, just to warn them not to approach me. In retrospect, I could have tried to make myself look more ordinary, but each time I tried to remove the feathers, I failed.
+
+So I decided that I might as well keep this beautiful red hair. I liked it, and cultivators oftentimes looked even more pompous, so whatever.
+
+I did have a problem; I wasn’t sure where the Myriad Market was. Deciding that the best course of action was to ask someone, I stopped in front of a shop.
+
+The man looked at me with a bizarre expression, then pointed at a large tower some distance away. He didn’t say anything else, and I almost felt embarrassed for not realizing sooner.
+
+I thanked him and walked off, moving toward the tower. The closer I got to it, the better the streets and buildings looked. After a certain corner, the dirt and rock path transformed into a nicely paved road, large enough for carriages to ride through.
+
+It was only then that I realised the village was sort of divided into two sides, and the little girl and her brother lived in what could only be considered the slums.
+
+I felt even sadder for them.
+
+That really made me question what ‘save him’ meant. Did the quest want me to save his life, save him from poverty, save him from… what? I wish it weren’t so vague about it.
+
+But I could help him do all of those by himself. I wasn’t about to solve all his problems, but giving him a hand should be enough.
+
+As I walked, my stomach began to growl. I hadn’t eaten anything in a few hours, and this skill used up a lot of energy. The smell of freshly roasted meat and steamed vegetables didn’t help either. Apparently, the form I took also changed what I was craving, and I was really craving some cooked food.
+
+However, I had no money, so how could I afford anything? Only after auctioning off the Phoenix feather could I eat anything… but I really wanted food right then.
+
+I still had my Overeater reserves, but would those really be enough? Who could tell… just a little taste wouldn’t hurt, right?
+
+“Uh, miss?” The growly voice of a man grabbed my attention, and apparently, I was staring at a grill.
+
+When did I make my way here?
+
+I asked myself, but the sizzling food on the grill said all that I needed to hear. However, why would I torture myself? I couldn’t buy it!
+
+“Ah- Sorry.” I quickly apologised and ran off, cursing myself for being such a glutton. However, I really wanted to have a taste…
+
+I sighed and hurried toward the Myriad Market. It was way taller than I originally believed, and I didn’t think it belonged to a shop of all things. Maybe the City Lord’s building or something similar, but not a shop…
+
+Ignoring the pangs of hunger, I marched onward, preparing my plan. Find their pill section, buy the ingredients, buy a cauldron, get some proper fire, and maybe ask for a refining cave. Worst-case scenario, I’d just do it in my cave.
+
+But the most important thing of all was to figure out how to auction off my feather. Or sell it, if the former wasn’t possible. Some way to get money would be preferable, then I could finish my quest quickly and be done with it.
+
+The less I had to do with humans, the better.
+
+As I made my way toward the Myryad shop, I failed to notice a figure creeping through the crowd before it was too late.
+
+He stopped me in my tracks, wearing a smug smile, and behind him stood two mid-stage Qi Condensation cultivators. He himself was in the early stage and wore a fancy set of clothing, with a decorative sword tied at his waist.
+
+His appearance was average at best, with muddy dark eyes and unshaved eyebrows. The only thing that stood out was his long hair tied in a ponytail, but even that looked dirty and dry.
+
+“Is that the Chiao Clan heir?”
+
+“Oh, poor woman…”
+
+“She’s going to have a hard time now.”
+
+“Pfsth, who told her to dye her hair?”
+
+The crowd murmured, but I ignored them. Whoever this Chiao guy was didn’t concern me. All I wanted was to get to that damned tower already!
+
+I tried walking past him, but he stood in front of me. I tried turning back, but he grabbed my shoulder. I shuddered, faint images replaying in my mind, their blurriness could not hide the emotions of fear and anger I felt, though.
+
+Almost by instinct, I grabbed his throat,d then clenched it, and used my strength stat to crush his hand bones before throwing him to the ground, much in the same way that Panther did to me back when I was tiny.
+
+I had no patience, but watching him lie on the ground told me that I may have overdone it. The guards were hesitant to approach me, so I just brushed past them and continued on my way.
+
+I didn’t need any pesky human to stand in my way, especially not one that was so rude.
+
+Finally, I reached the Myryad Shop despite my pangs of hunger. Thankfully, there wasn’t anyone bold or rude enough to bother me any further.
+
+A woman greeted me as I entered, and I inquired about the refinement section before admiring the interior.
+
+It was beautiful, pristine, and very expensive-looking. The air was much warmer inside, but not overly so, and the jades and crystals gave it a very deep feeling. This was definitely a premium store.
+
+She gave me all the information I needed. The Heavenly Refinement Pavilion was on the second floor, and so I climbed up the stairs and immediately saw it.
+
+It wasn’t hard to spot, since it had a sign with a pill in the middle of some characters. That reminded me that I still couldn’t read, and it was getting old.
+
+Finally, I walked in and saw a man with the aura of a Foundation Establishment cultivator snoozing off. It was empty, but there were a lot of pills on display, all sealed in fancy Jade Bottles. There were also ingredients and mini-cauldron replicas, which looked a little funny.
+
+I stood in front of the counter and muttered an “Excuse me?” as softly as I could, trying to make a nice first impression. The guy woke up, or at least, became aware of his surroundings. His eyes widened a little upon seeing me, but that much was to be expected, at least.
+
+***
+
+And that was how I ended up in the office of the Myriad Market manager.
+
+“Miss, my name is Fu Qiang. How may I address you?” His voice sounded a little forced, and the sweat on his forehead told me he was more anxious than me.
+
+I thought for a moment, never seriously having considered what I would do with this throwaway human identity. Shrugging, I said the first name that came to mind. It wouldn’t be a lie either.
+
+“You may call me Fa Xiaolan.”
+
+“Then, Miss Fa Xiaolan, how did you say you acquired that… feather?” Fu Qiang almost skirted naming the object in my possession as it was. How did I get it? From my own body, of course!
+
+It wasn’t any ordinary feather either; it was a feather imbued with some of my essence, so it was definitely more valuable. It wasn’t a lot of essence, and I’d already regenerated what I’d spent doing it, just going up the insane amount of stairs to reach this guy’s office.
+
+I knew it would be a big deal, but not to this extent…
+
+Then again, I should have expected something like this to happen.
+
+“Why should I tell you?” I said, my tone filled with the arrogance fitting of someone in the possession of such an item.
+
+The man behind me, Xing Ya Chen, flinched. He was the clerk at the Heavenly Pill Pavilion, who, for one reason or another, was also invited to come along.
+
+He must have flinched because I wasn’t like this when talking to him, when dealing with greedy humans such as the manager, the best way to get the best price was to bully them.
+
+Fu Qiang’s sweaty unibrow got even sweatier, and he wiped his face down with a handkerchief before saying, “You’re right, you’re right, some things should not be shared. Forgive me for my impudent question. So, uhm, Xing Ya’er told me that you wanted to auction it off?”
+
+I could sense Xing Ya Chen flinch in disgust.
+
+I nodded. “Indeed, I would like to get the best price for this, but I don’t have that much time at the moment. I was wondering if I could just sell it to you at the cost of the ingredients, cauldron, and some extra firewood, plus some change, and you can give me the profits later?”
+
+Hearing that, the manager’s eyes widened. “O-of course… We could do that,t however… I am afraid that we wouldn’t be able to sell it here.”
+
+“Huh?”
+
+“You see, this Hu village is a little… poor. Nobody around here could ever afford buying such an item, so I would need to send it to our other, more powerful branches.”
+
+I sighed inside and already felt a headache coming. It was one of my precious feathers we were talking about here, not some random pheasant feather. As much as I wanted to tell them to keep the change, I couldn’t.
+
+Not to mention, with enough Spirit Stones, I could raise my cultivation and break through to the Foundation Establishment stage. I’ve been putting that off because I didn’t want to do so with the Ghost Qi Technique.
+
+Sorry, buddy, you’ve made my foundation almost perfect, but going forward, I do not wish to become a ghost. It’s still amazing I managed to hide the phantom feathers, though, after the initial appearance, they didn’t bother me much.
+
+With that said, I was a little conflicted. I wanted the spirit stones, but I didn’t want to wait around to receive them.
+
+“How fast would the spirit stones get here if you did that as soon as possible?”
+
+“Well… depending on how fast the feather sells, which I expect to be instant, around two, maybe three weeks? We… Honestly, our branch doesn’t have that sort of money here, so even if I got word of the amount it sold for, it would still be insufficient.”
+
+Insufficient, just how poor are you guys?
+
+I kept that thought to myself, of course. Three weeks wasn’t that much, and I was planning on sitting around in this forest for a little while anyway, so might as well.
+
+Originally, I was thinking it would take a month or more, which was too much for me; I didn’t have that kind of time with the sword hanging above my head.
+
+Speaking of-
+
+[Name:???]
+
+[Affiliation: Golden Arch City]
+
+[Age: ???]
+
+[Titles: ???]
+
+[Lvl: ???]
+
+[Cultivation: Core Formation(Peak)]
+
+[Enmity Level: Mild]
+
+[Relationship: Unknown]
+
+[Status: Alive]
+
+Well, nothing changed at the very least. I glanced at Fu Qiang, and seeing that he was the manager of this branch of the Myriad Market, I figured he would have some useful information for me.
+
+“I can agree to that. Just get it done as soon as possible.” I pulled out the feather, and he swished his sleever, making a jade box appear out of his bag of holding.
+
+“Contract, first,” I said before putting it in.
+
+“O-of course!” Fu Qiang fiddled a little, but eventually managed to pull out a contract and quickly began scribbling something.
+
+He handed the paper over after a minute… and I still could not read it.
+
+What the fuck do I do now? Fuck!
+
+I was actually getting embarrassed about it. However, I bit my pride and whatever image I had in the manager’s mind, and snapped my fingers. “Xing Ya Chen, read this for me.”
+
+“Huh? Ah- Yes, Ma’am!”
+
+He hurried over and picked up the contract. The terms were fair, and I had nothing to lose. The manager basically agreed to everything that I wanted, and even offered me a few other advantages, such as creating a member card for me free of charge, registering me with their bank for free, and giving me a nice discount.
+
+Clearly, this feather meant a lot more for them than it meant for me. Which worked out in my favor.
+
+I dipped my finger in ink, stamping the bottom of the paper, and Fu Qiang did the same. After placing the feather in the jade box, the manager was full of smiles, and he looked almost eager to throw me out.
+
+However, I wanted to do a few inquiries first.
+
+“I’m not from here, so I hope Manage Fu Qiang can help me with some information?”
+
+He looked a little stupidifed, a little annoyed, but more than anything, he looked respectful and obedient. “Of course, Miss Xiaolan, what would you like to know?”
+
+“Everything about Golden Arch City.”
+
+Of course, he couldn’t tell me everything, but I got the main gist of it. Besides being the most powerful in terms of military might and economic power, Golden Arch City was also the biggest and most dominant city.
+
+It also had a few things only it could produce, such as Spirit Bamboo and Spirit Bamboo Flowers, as well as the Spirit Bamboo Spider and its silk. All of those things sold for a very high price almost anywhere you went, even outside this area.
+
+As a result, they had connections with other, similarly powerful, outside forces. The City Lord, Sheng Yi Yan, had a big family. He was one of five sons to compete for the seat of City Lord, and in the end, he won via great martial strength and showed the might of his intelligence by earning a profit of one hundred and fifty times the initial investment.
+
+That was a test given by his father to all the heirs, and whoever had the most return on investment would win. Strength was only secondary.
+
+His four brothers had then each been given a corner of the city to rule over, and thus the city was split into four factions, with Sheng Yi Yan ruling over all of them.
+
+Great… that doesn’t tell me much.
+
+“Which of those brothers has a Core Formation stage cultivation?”
+
+“Err… all of them, Miss Fa Xiaolan.”
+
+I sighed, feeling a headache coming again. “And which one of them has peak Core Formation cultivation?”
+
+“Err… all of them, Miss Fa Xiaolan.”
+
+I almost wanted to blow up then and there. I figured that I would be able to learn something about the guy wanting to kill me, but it turned out be a pain in the ass.
+
+“Alright, let me do this some other way. How many cultivators in Golden Arch City have peak Core Formation cultivation?”
+
+“Err… I am not sure I can say. It’s a big city with a lot of powerful people. If I had to guess, I would say at least three hundred?”
+
+I stood up. That was it, I was fed up, angry, and hungry. I wanted to get my refinement materials and leave.
+
+“Miss Fa Xiaolan, wait!” Fu Qiang said just as I turned toward the door. “Our information pavilion may know what you’re looking for. You can go there and check. I will inform them not to charge you. Is that alright?”
+
+I let out an audible sigh and turned to Fu Qiang, thanking him with a faint bow, then leaving.
+
+Xing Ya Chen followed after me at the behest of the manager, and the two of us walked hurriedly toward the information pavilion.
+
+I wasn’t sure where it was, so I ended up running in circles a few times before giving up and asking Xing Ya Chen to lead the way. He did so eagerly, and before I knew it, it was in front of me.
+
+The staff smiled upon seeing me, and one of them led me toward some inner room. It was a little too bright for comfort, but I didn’t mind too much. I sat down on the provided chair, and no sooner than I did, a voice sounded out around me.
+
+“What are you seeking?”
+
+“I want to know the name of a man.”
+
+“What details do you have?”
+
+I then told the voice everything I knew. He was a man affiliated with Golden Arch City and was the uncle of two young men with the surname Meng. One of them was named Meng Bai; as for the other, I forgot to look at the kill notification, so I couldn’t say for sure.
+
+But if they were brothers, they should have the same surname. That much should be enough, though.
+
+“Please wait a moment…”
+
+I waited for more than a moment, though. About five minutes, to be exact. Then, a jade slip flew toward me through the wall, and I grabbed it. It felt cold to the touch, and I hesitated between using my own Qi or asking for a spirit stone.
+
+In the end, I could only ask for a spirit stone. I was too scared to use my own Qi for anything, as the less I had, the more the Demonic Qi could gain in my dantian.
+
+The voice didn’t inquire about my strange request and sent a low-grade spirit stone through the wall as well. I swiftly used it to access the information inside the jade slip.
+
+The two fuckers weren’t lying when they said their father was a powerful man. His name was Meng Mao, and he was indeed the City Lord’s uncle. Despite that title, he wasn’t that old, but had sired a lot of sons and daughters.
+
+The two Meng brothers I killed were two of many he had, and they’d been exiled from the city due to their behaviour. I didn’t know if every member of the Meng clan had that sort of tracking protection on them, or if only the two of them did. From the way it worked, it seemed likely that only the two of them did, as it activated when both corpses were next to one another.
+
+Anyway, he was strong, and in more ways than just cultivation base. He basically owned part of the city, though unofficially. Trade routes, shops, and other such areas were under his protection, aka he was getting paid for not attacking them by the city lord’s brothers, his own nephews.
+
+That was a crazy business scheme… and such a crafty man had now set its target on me. I opened his page just to check, and sure enough, it updated.
+
+[Name:Meng Mao]
+
+[Affiliation: Golden Arch City]
+
+[Age: 45]
+
+[Titles: ???]
+
+[Lvl: ???]
+
+[Cultivation: Core Formation(Peak)]
+
+[Enmity Level: Mild]
+
+[Relationship: Unknown]
+
+[Status: Alive]
+
+He did not have any titles, and it seemed that the level was also hard to decipher. Thinking about it, none of the cultivators ever talked about the system. Was it something humans didn’t have access to? Mother knew about the system, and though I didn’t know if other Spirit Beasts knew about it, they were at least aware of it.
+
+The little koi fish knew about it as well, as did the jade serpents. It had to be true then that humans didn’t know about System. Was it also why their levels were so low? Or were they outside of the system, and System simply translated their ‘level’ for me to understand?
+
+So many questions, so few answers…
+
+But I’d gotten what I wanted, so it was time for me to head out. Xing Ya Chen was waiting for me at the entrance and led the way back to the Heavenly Pill Pavilion. There, he handed me my cauldron alongside enough materials to attempt ten batches of pills.
+
+He insisted on giving me a bag of holding… and in the end, I had to accept it, alongside a few spirit stones. I wasn’t about to waste my Qi opening bags of holding.
+
+Though he was a little skimpy and only gave me a few low-grade ones. In all fairness, who could have possibly expected anyone to be a cultivator and not be able to use their Qi? It was a little absurd.
+
+With the bag of holding on my hip, I asked Xing Ya Chen about where I could rent a cultivation cave, but he could only shake his head.
+
+“There aren’t any cultivation caves here…” He said with disappointment. Hearing that, I could only shake my head.
+
+I said goodbye— giving him a slight wave and a faint smile— and left the Myriad Market, and soon, the village.
+
+After getting far away enough, I undid Perfect Disguise and took flight toward my cave, where I knew I could refine pills in peace. My clothes? Why, I hid them in a tree somewhere.
+
+Soon enough, the cave mouth appeared on the horizon, and before long, I entered. It was a little cold, but it would do.
+
+I used the spirit stones to open the bag of holding and took out everything I needed, and was about to get to work…
+
+It was then that a shiver ran down my spine, and I looked backward, only to be greeted by a pair of dark green eyes.

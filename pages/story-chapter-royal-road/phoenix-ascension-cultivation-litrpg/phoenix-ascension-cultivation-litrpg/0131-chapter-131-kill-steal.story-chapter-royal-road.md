@@ -1,0 +1,187 @@
+---
+id: 1087e0d8-abee-50b8-bd46-9f24d7f7a472
+page-type-slug: story-chapter-royal-road
+title: "Chapter 131: Kill Steal"
+slug: 0131-chapter-131-kill-steal
+partOf: phoenix-ascension-cultivation-litrpg
+position: 131
+ownLength: 2446
+unit: words
+publishedAt: 2026-05-25
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3445006/chapter-131-kill-steal"
+royalRoadId: "3445006"
+---
+
+The moment the Blacksoil Tuneller came out, it sniffed the air, no doubt looking for prey. It didn’t detect the humans hiding nearby, and using my Divine Sense, I didn’t find anything either.
+
+Seeing that there was nothing to eat nearby, the mole began retreating, perhaps going to another spot.
+
+Before it could even get a little deeper in, though, the senior, Mo Yinfei weaved a couple of hand signs and pointed at the Spirit Beast. An untraceable stream of Qi flew toward it, becoming golden chains mid-air.
+
+They wrapped around its neck and snapped straight, preventing it from moving.
+
+Interesting…
+
+Was it a clan or sect that specialised in restriction and sealing? If so they may actually stand a chance against the higher level creature.
+
+The boy, Da Badai also joined in, creating a second chain that wrapped around the mole’s arms.
+
+However, if both of them were restraining it, then who would attack the thing?
+
+As if hearing my thoughts, Mo Yinfei pulled toward the chain and weaved another series of handsigns that then attached to the chain before wrapping around each and every three in a large radius.
+
+That was an impressive feat, and I could see where they got their confidence from. However, would it be enough?
+
+I watched with anticipation, completely forgetting the passage of time. Seeing these two duke it out with something that should have killed them instantly was rather exciting.
+
+Not to mention that they could give me some good information on whatever was going to happen. Meng Mao may give me the wrong sort of information, even though it wasn’t in his interest at all. It was better to make sure.
+
+I could also go to the Information Pavillion, but where was the fun in that?
+
+Plus if the beast gets out of control I could get some free experience after they die. Or should I kill them both? Maybe killing them wouldn’t be a good idea though, since their sects or clans or whatever they belonged to could track me down.
+
+I didn’t need another Meng Mao chasing me and killing me that time around.
+
+Though maybe it could lead to another business deal… Yeah, not possible
+
+While I was a little bit lost in thought, the two have finally started attacking the Spirit Beast. With golden chains holding it still, all they had to do was attack it from a distance and-
+
+WHY ARE THEY RUSHING IN?!
+
+My heart skipped a beat as I watched the two of them pull out swords and going in to attack it. That was incredibly stupid, as one good random hit from the mole and they would both die. What were they thinking?
+
+I was half expecting them to immediately die, but the mole was busy trying to break free from the restraints. That was good for them, as this also gave me a chance to see what sort of techniques people around here could display.
+
+So far, I’ve been disappointed. I was also a Spirit Beast, so I couldn’t say much. I did have a few, okay more than a few, awesome techniques, but no way to show them off.
+
+Spirit Beast fights weren’t exactly known for how pretty they are to look at. It’s a savage world, with savage fights and consequences.
+
+Humans and humanoids had duels, face slapping and other fun things like that. We had carnage and-
+
+It looked like they’d finally gotten close enough to star attacking. Compared to them, the mole was absolutely gigantic. It could kill them just based on its size, let alone its power. At level thirty eight, it was nearing its third evolution, and had stats in the thousands. What were a couple low level humans going to go against something like that?
+
+When they finally infused their swords with Qi, and started wacking at the thing, the mole didn’t even notice. Or if it did, it didn’t really care. The difference in power between the two parties was just so incredibly vast that their pokes made almost no difference.
+
+Now I did wonder what they were actually going to do after seeing that they couldnt’ do anything to the thing.
+
+As it turned out, tried to hit it harder. Yeah, because that worked before. I was just about getting bored, but I’ve already watched them, I had to at least see how they would die, right?
+
+I sat myself down and waited, watching.
+
+For the better part of what must have been half an hour, they kept trying to poke the mole to no real success. Their swords were barely registering as pine needles.
+
+After finally deciding that no, swords won’t work, they backed up a little. I wasn’t sure what sort of ranged attacks they would have, seeing that they’d started off with melee, but one could never know.
+
+Mo Yinfei weaved a series of hand signs and took out a dozen swords right before finishing. The Qi strands connected to them and he began controlling them from a distance.
+
+Of course, if normals swords didn’t work, flying swords definitely should!
+
+I wasn’t even sure if what I was watching were people or apes.
+
+As expected, the slightly faster sword did not do anything against the mole, not at first, at least. But the ‘senior’ figured out that the mole had a few soft spots, namely its closed eyes.
+
+With that new idea in mind, he sent the swords right at the squirming Blacksoil Tuneller, and for the first time that fight, actually wounded it!
+
+Two of the swords got stuck in its eyelids, causing it to bleed and screech like an insane creature. Now from what I could see, the wound was purely superficial, and the eyes were still intact.
+
+That would change though, as Mo Yinfei was preparing to send another attack.
+
+But first, they had to retreat, as the golden chains started to break under the mole’s now Qi infused body parts. It’s strength had rised far past its base form due to a skill, I was pretty sure.
+
+One by one, the golden chains broke, and now both of them were working on damage control. Tree trunks broke as they got pulled by the infinite knot of restrictions, falling one after the other.
+
+The Blacksoil Tuneller’s screech echoed violently thorough the entire forest, though we were so far away from the city that there was a low chance anyone could hear them.
+
+“Senior Brother, what is happening?!” The young Mo Yinfei asked, though his senior could barely hold his own technique together.
+
+The two weaved hand sign after hand sign, creating chains faster than they broke, but it wasn’t enough. The mole was going to break free, and I was very interested to see what it would do.
+
+And my fun would be over, and I could finally return. I had many things to do and very little time. Plus, who knew when Meng Mao decided to pack me up and send me to that girl or whatever.
+
+I’ll be in a temporary state of non-freedom, though I could probably break out whenever I wanted. I mean, I hoped. Meng Mao wouldn’t send me there as a forever guest.
+
+Ah, some new developments have happened. The two have managed to restrain the beast, but Mo Yinfei looked worse for wear. His face was completely pale and blood trickled down his lips. The air reeked with the aroma of blood essence.
+
+Would he really go that far just to get this thing? Is that damned realm so important?
+
+The chains were far more resilient though, and they didn’t look like they would break anytime soon.  The Mole had a limited amount of stamina and Qi, so the boosting skill wouldn’t hold out for long.
+
+Once it ran out of those two, the fight would be won.
+
+Mo Yinfei took out a pill and ingested it before I could see what it was, though most likely some sort of healing pill.
+
+Color returned to his face, but he still lookwed awful.
+
+Da Badai didn’t waste any time and opted to take out a few paper talismans, which he then flung toward the Spirit Beast. A sealing formation appeared and even more golden chains flew out.
+
+Are you trying to tame it…?
+
+Well, taming wasn’t really the right word, more like enslaving, but still. I see the point in weakening it with attacks first, but if they could have done that from the very start, why hadn’t they?
+
+I would have slapped my face if I wasn’t tired already, and had a flatter face.
+
+Either way, whatever they were doing seemed to be working. Despite its struggles, the Blacksoil Tuneller could scarcely move anymore. The wounds on its eyelids had long since healed and was now desperately trying to breakout.
+
+Unfortunately for it, whatever spells those two used were working real well, and the talisman the young one used kept on generating chains that boudn around the giant creature.
+
+What were they going to do with such a creature was a very good question, as its offensive power was lacking. It was pretty resilient, but would it even matter?
+
+Well, that wasn’t my problem. It looked like it was high time for me to leave, since the entire thing had gotten boring.
+
+Just as I was about to take to the skies, though, I noticed that the mole had stopped fighting, and maybe it was time for me to make a move.
+
+***
+
+Damn it, Senior Brother. This cost me a fortune… Da Badai cried internally as he poured as much Qi as he could into the restraining talisman. Had he known this was going to happen, he would have followed Mo Yinfei at all. After all, why would he use an expensive scroll for a mole, of all things?
+
+But damn it, he trusted his Senior Brother. If he said that this would help them, then it would.
+
+He trusted him.
+
+He also questioned when that trust would kill him, but they’d been together since they joined the sect more than two decades ago. They’ve been together through thick and thin, and, well, it was a little hard to go against him.
+
+Da Badai did call him out when he was wrong, but he could see that it wasn’t the case. The Spirit Beast was at least Tier two, which was a really good catch, especially for one that big and strong.
+
+Even if it couldn’t see, it didn’t have to. Once it was enslaved, it would do whatever they told it to. With such a strong Spirit Beast, they could easily get a spot in the Four Corner Sword Realm. One of them could, at least.
+
+However, his heart still ached. The scroll he used was something he bought from his sect’s talisman branch, a branch that was already rare. Few wanted to take that path, since it was expensive and almost unrewarding.
+
+In terms of profit, it would take years before the investment paid off, and in terms of strength, it would take far longer than anyone to get to a decent level. Hence, only some people followed that path, even though talismans were incredibly valuable.
+
+What he’d used on the mole was a perfect example. It summoned restraining chains that could tie down anything or anyone below Tier three or Core Formation. It was mostly used to give a beast tamer time to actually tame the thing.
+
+That was what he’d planned to let it do. Once his Senior Brother finished laying down his own restraints, then they could act.
+
+Five minutes or so later, Mo Yinfei walked next to Da Badai and nodded.
+
+“Good job, Junior Brother. I will repay you for this no matter what, don’t you forget that. Once I get my hands on this beast, then this senior will breeze through the secret realm.”
+
+“I trust you, Senior Brother.” Da Badai said with a smile and took a step back. He was willing to let Mo Yinfei grab the beast, since it didn’t really suit him. Sharing the attributed it had with him would be a waste, but for someone already strong and durable like Mo Yinfei, it was a decent buff.
+
+“Alright, let’s see what you’re made of.” The Senior Brother said, cracking his knuckles. He didn’t actually hit the mole, but placed his hand on its forehead. Since it was now laying on the ground, barely twitching, let alone move, that was much easier.
+
+With the physical connection formed, it was time to form the spiritual one. Focusing his Qi, he did what he’d done many times before. Grabbing a small, insignificant piece of himself and sending it toward the mole’s own spiritual sea.
+
+He still had a connection to his fragment, but if anything went haywire, he would not get hurt. Beast tamers were trained in such ways since a young age, strengthening their soul, fortifying their will and training more than anyone else in cutting off spiritual connections.
+
+Of course, later on such things would become useless, as many cultivators would have had much of the same training by then, but early on, if it came to a mental battle, a beast tamer would have higher chances of winning.
+
+As Ba Dabai reflected upon that, he noticed that his Senior Brother’s face twisted into a frown. Sweat poured down his face as veins bulged on his forehead. That wasn’t something he’d ever seen, so Ba Dabai got worried.
+
+However, after a few intense moments where his heart rested in his throat, he relaxed alongside his Senior Brother.
+
+It seemed that the procedure was a success, and Mo Yinfei now had a new Spirit Beast he could borrow strength from-
+
+Before Ba Dabai could even open his mouth to congratulate his Senior Brother, a great explosion devastated the surroundings. The temperature rose suddenly, and mere seconds after, Mo Yinfei spat out a mouthful of blood, then fainted with his eyes moving toward the back of his head.
+
+What the?!
+
+When he looked up toward the source of the explosion, he saw that the mole had actually died. It died! Its skull had been split open and consciousness immediately pulverized.
+
+The preperator had struck during one of the most important parts of the taming process, and with such perfect accuracy as well.
+
+“Who-”
+
+However, he had not been able to utter a single complete word, as no sooner had he began speaking that he looked at who it was that stole their prey away, and his face flushed red.
+
+A beautiful woman with long, flaming red hair, wearing nothing except a tunic covering her upper body.

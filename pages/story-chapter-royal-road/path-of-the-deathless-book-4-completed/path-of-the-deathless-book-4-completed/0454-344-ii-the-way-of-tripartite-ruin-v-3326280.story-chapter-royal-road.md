@@ -1,0 +1,237 @@
+---
+id: 0bbc629b-6145-5324-b79b-fa209439b044
+page-type-slug: story-chapter-royal-road
+title: "344 (II) The Way of Tripartite Ruin [V]"
+slug: 0454-344-ii-the-way-of-tripartite-ruin-v-3326280
+partOf: path-of-the-deathless-book-4-completed
+position: 454
+ownLength: 2660
+unit: words
+publishedAt: 2026-04-27
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3326280/344-ii-the-way-of-tripartite-ruin-v"
+royalRoadId: "3326280"
+---
+
+344 (II)
+
+The Way of Tripartite Ruin [V]
+
+Speechlessness seized Shiv as he noticed what had become of his physical body. It had ruptured into a splash of red, but rather than spilling gore and blood, it began to leak wounds and bones and broken objects into the world.
+
+The Backstage was getting flooded. Shattered stones fell out of Shiv's ruptured flesh like a faucet dispensing nothing but ruin. The color of blood oozing from Shiv's ruined body stained the pale dimension further. It crashed down like a waterfall, and from the ocean of red rose patches of devastated land.
+
+A sense of déjà vu filled Shiv. He remembered those pits and trenches lining the landscape. He'd seen them during his many battles. His awe only grew as entire sections of Lost Angeles began rising from the depths like a graveyard summoned into unreality.
+
+Then came a rain of bodies. Most of them were Shiv's. They all sported injuries, every manner of fatal wound a human could suffer. Cancers that consumed him. Lacerations that left him a mangled bag of spilling meat. So many more.
+
+He looked on, seconds passed, and his corpses continued to fall in a ceaseless downpour, displaying self-mutilations, slit throats, crushed skulls, severed heads, pulped organs, and so on.
+
+They rained down, clashing together until the bodies faded from view like they never existed at all. But the wounds and injuries remained. They mingled with the architecture emerging from below. Vast branches of lacerations were chained with pulsating cancers connected to burst stomachs spewing acid and a rain of falling bone that clattered ceaselessly, filling the cracks between broken streets.
+
+The changes played on. Shiv didn't know what to say, so the girl broke the silence for him. "Okay. Shiv… What in the fuck is this?"
+
+“I, uh…” Shiv shrugged. “Skill Evolution?”
+
+She choked on his reply. “Another one?”
+
+“Yeah. My Eldritch Physiology just went Unique.”
+
+“That’s… That’s just gross. You’re felling gross, Shiv. People spend fucking decades training their asses off, risking their lives over and over, and end up bottlenecked at Master before they die of some kind of ass-rotting plague. Meanwhile, you’re out here dying more times than people take sips of water in a day, and… and… What even is this?"
+
+“I got no idea,” Shiv almost whimpered. “I don’t even think I want this skill.”
+
+She arched an eyebrow. “What? Why?”
+
+“Because it’s eldritch. Everything eldritch is nonsensical horseshit that makes my head hurt. And now I’m part of that circus. The notification said I was a Progenitor or something to a new Outsider.”
+
+“What? You… An Outsider? You created an Outsider?” She went through a chain of expressions before she decided on livid. “You piece of… You greedy sack of shit! I’m stuck out here in the nothing, and meanwhile, you’re literally evolving so hard you end up birthing a new eldritch god!”
+
+“It’s not a god,” Shiv muttered. “At least I hope it isn’t. And I definitely didn't give birth to it! Look, if I could change the Skill Evolution to something else, I would.”
+
+She stared at him like he was stupid. “It was already an Eldritch skill. What the hells did you expect?”
+
+“Uh, I don’t know—to become bonier or something. Let me shift into a stabbier, slasher, bonier that stabs and slashes things even better.” Shiv paused. “Or at least some kind of eldritch cooking thing. It’s always nasty stuff like injuries and warzones. Why couldn’t this become some kind of garden of food or something? I would have been a bit happier as an Eldritch God of Food.”
+
+The girl who didn’t exist frowned. “I wouldn’t wish for that—that sounds like something that would end up twisting the nature of all food. Eldritch stuff breaks laws and usually approaches reality like a felling serial sodomizer who has a meathook for a penis.”
+
+“I really didn’t want that image in my head. Why’d you have to say it that way?”
+
+“Who’s my canonical mother, asshole?”
+
+He froze. “Oh. Right. But she never—”
+
+“Raised me? Yeah, no shit. But even if I’m constructed from a figment of your mind, it’s referencing Rose Van Erren to make me.”
+
+“I guess that makes sense. More than this stuff, anyway.” Shiv gestured at the growing mess of wounds and ruined architecture with both hands. He could feel the ruins. He could sense them. He was repressing it, but everything that was damaged or bled or splattered felt like it was a part of him—or could be assimilated into him. “System, it’s like all this is a part of me.”
+
+“Probably because it is,” the girl said, giving voice to something Shiv didn’t want to face. She popped her lips. “So. Time for bitching is over. Go figure out how your new skill works.”
+
+“Give me a second,” Shiv snapped. “I barely got to catch my breath before—ah, shit, you never told me how long—”
+
+“Three seconds.”
+
+“Huh?”
+
+“You were stunned for another three seconds. That’s about all.”
+
+Shiv frowned. “That’s it?”
+
+“Yep.”
+
+“Huh.” Three seconds of confusion wasn’t good if it triggered in the middle of a fight, but it was still better than being a vegetable for five felling hours. “Better than I expected.”
+
+“This might be better than you expect too,” the girl pressed. “Stop moaning and figure out how this eldritch skill works. Then get out there, because you still got one more skill to advance.”
+
+Shiv could feel his Sage trembling inside him, on the cusp of changing. Weirder yet was how his Chronomancy field was starting to bend inward—like there was some kind of source of magical gravitation that pulled upon its mana. “No end to the shit I need to deal with today.”
+
+Meanwhile, deep in this Garden of Wounds and Broken Things, Shiv felt something stir. It was traveling through his myriad injuries, flowing like blood between blood, tracing the intersection of cracked windows and fissured streets.
+
+“You know what?” Shiv grumbled. "To hells with this—I’ll deal with the evolutions at the same time."
+
+“You’re going back out there?” The girl sounded incredulous. “You’d rather fight Longinus than deal with your Eldritch Skill Evolution?”
+
+“No. I’m going to vent my enkindled flames on him again and let him kill another one of my bodies so I can muster up the strength to face this Skill Evolution. Mainly by experiencing another one first. I can feel Sage about to crack like an egg. Best that I deal with two things at once.”
+
+“No, it isn’t.” Sage appeared beside Shiv. The skill’s physical form was lined in golden cracks. He looked like he was made from glass, shattered in places and leaking translucent mana into the world while his fists were clenched tight. “You’re avoiding discomfort. If you need to recover, Backstage is the safest place to do it, but when you are ready, it would be wise to understand what the creation of a new Outsider means.”
+
+“It means the Backstage is filled with all this shit. I’ve turned this patch of nonexistence into another part of the Outside.”
+
+“Or maybe you just gave nonexistence definition,” Sage mused.
+
+“A most apt observation,” A Glimpse of Perspective chimed in, stepping out from behind Sage like he had been there the entire time.
+
+That proved to be the straw that cracked Shiv’s will. “Okay. I’m going to throw another body at Longinus. I’m going to attack him with my Enkindled Flames, Chronomancy, fists, insults, Psychomancy, and all that other bullshit. Then, he’ll kill me, I shift back over, and after that, I’ll deal with your evolution first—so that you can talk me through my psychological issues and distract me from… this.”
+
+The Garden hungers for the broken.
+
+And Shiv felt its hunger. And Shiv hated it. “Alright. I’m going to go make a suicide run. You—”
+
+“Wait,” Sage interrupted, holding out a hand. “I am to fuse and evolve. You understand what that means, yes?”
+
+Shiv thought about that for a moment. “You’re already a Heroic-Tier skill.”
+
+“Yes.”
+
+“You’re going to be a Legendary fusion.”
+
+Sage nodded. “But I don’t have the levels to Delve yet.”
+
+“Well, what happens then?”
+
+“I don’t know. Because you never bothered to inquire about it from Valor or another of the myriad Legends you've had the chance to speak to at length.” He leaned in close and stared over his spectacles into Shiv's eyes as he said that last part. “So. You should be careful. And consider if you want to do this right now.”
+
+“It’s going to happen, Sage. I might as well stack you and this… this garden thing together.”
+
+The Psychology skill’s expression turned grim. “It might be more than you can take. It might be more than I can take too.”
+
+And that’s when Shiv understood what was happening. “You’re afraid of changing, aren’t you? That’s why you keep trying to delay me.”
+
+“Psycho-Cartography was afraid,” Sage said. “I am no different.”
+
+Shiv tilted his head in confusion. “But you’re the same skill.”
+
+“Am I? Or is that simply how we perceive things?”
+
+A Glimpse of Perspective hummed like the obnoxious jackass he was. “A most philosophical—”
+
+“Glimpse, please shut the fuck up before I find a way to shove part of this garden up your ass,” Shiv groaned. “I can’t put up with your shit right now too.” He paused and stared Sage down. “I never… really thanked you.”
+
+Sage winced. “It would be strange. You would be thanking yourself.”
+
+“Yeah, I guess. But even if you are part of me, I think I should have been nicer to you or something. More thankful, anyway. You were—are—the best part of my mind. If you weren’t here, I would be worse than dead, probably. Still stupid. Still nothing but a brute. Guess something good came out from the orcs.”
+
+The Psychology skill’s expression softened. “Perhaps. Or perhaps you always had the potential, but never the opportunity. I would have liked to stay longer. To spend more time understanding other people and the world. It was a wonder to behold and comprehend minds. Especially our own.”
+
+“Yeah. There are still more minds we gotta crack open,” Shiv said. “Longinus’, for one. Have to snap him in half and figure out what breaks him.”
+
+Sage nodded. “For Georges.”
+
+“For everyone he took and hurt,” Shiv intoned. He let out a bitter laugh. “I thought I could avoid it, you know? Playing the System’s game. I just wanted to come over, drop Toasty off, get my Curses removed, and then go back to cooking. What a mess.”
+
+“An opportunity,” Sage answered. “There is only so much we can control. But there is something to be said—if we want to prevail here, strife cannot. In this realm, what feeds the System also empowers Evanescia. If there is an escape from the Fairwoods and her story, then we must break the tension—we must end the tale.”
+
+“We might need to kill her to do that,” Shiv said.
+
+“No,” Sage denied. “She exists beyond our reach. You know this. So we will have to bring her down another way. And to break her truly…”
+
+“I have to understand her,” Shiv finished.
+
+“And that applies to everyone,” Sage said. “Even you. Especially you. When my evolution follows, are you willing to risk being broken?”
+
+The Deathless thought about that and laughed. “Well. It would be a first. The world’s tried.”
+
+“It wouldn’t be the world trying,” Sage whispered. “It might be us. It might be me.”
+
+Shiv cracked a smile. “Well, if you do crack me, Sage, just promise to put me back together, and we’ll call it even.”
+
+A look of resigned peace came over the Psychology Skill. “I’ll see what I become and do what I can. No promises.”
+
+“There never are,” Shiv replied.
+
+With that, his decision was made. He turned away from the transforming Backstage as he resurrected a new body. Once more, he faced Integration, and now, he saw Longinus raging—the Wanderer had returned to a single body, and he was stomping the ground with his hooves, pounding the world where Shiv’s bodies once were.
+
+“Heh. Piece of shit looks pissed. This’ll be good. Sage. See you again. And… thanks for being my skill.”
+
+“The pleasure wasn’t mine,” Sage said. “I wish I had an easier Pathbearer to attend.”
+
+Silence followed. It lasted a second before a mutual bark of laughter broke it.
+
+The girl that didn’t exist looked between the two Shivs and shook her head. “You are deeply unwell in the head.”
+
+“Yeah, well my psychosis is about to get worse.” Shiv chuckled. “Out and at ‘em again. Enjoy the wound and broken shit.”
+
+“I won’t,” she moaned, pulling at golden hair in despair. “I hate it already.”
+
+“Me too. Except I get to leave.”
+
+Her nostrils flared in very Adam-like outrage. “You mother—”
+
+Shiv crossed back over into context with a grin. Gods, there’s something about the Arrows that just makes them so fun to bully.
+
+His Severed Shadow arrived first. It remained in place while his new body tore through the air. A golden shell formed over him—his Psychomancy, raw and weak, was wielded in tandem with his fists and Enkindled Flames.
+
+Longinus was far faster than Shiv, but surprise went a long way toward bridging the gap. The Deathless struck the god from behind like a morning star greeting armor, and he struck the god in mind, body, and soul.
+
+“Hey, Longinus!” Shiv called out telepathically while headbutting Longinus’ manifestation. “You keep saying all this place belongs to you? Well, if that’s true, why can’t you protect any of it from me? Why am I breaking your kitchen at my leisure?” His joyful hatred flooded from his eyes and detonated in black, curling fingers around the Wanderer’s body.
+
+“FUCKING—RAT BASTARD! How do you keep doing that?!” Longinus’ voice took on a hysterical quality as his eyes locked onto Shiv.
+
+Shiv added a taunting laugh to his telepathy for good measure, and the god’s visage flickered, then glistened, then cracked. Like glass.
+
+“Yeah.” Shiv snorted. “That’s what I felling thought you predictable—”
+
+A blazing lance punched clean through his chest and cracked something deep inside his soul.
+
+Skill Damaged: Leviathan of the Shapeless Tides
+
+That body died. Shiv’s Severed Shadow curled in on itself as a wave of torment washed through him.
+
+But it didn’t stop him from crossing back over behind the curtain, watching as the Wanderer’s chiseled visage twisted in near-mad loathing, before it faded from view and his soul traveled beyond the grasp of the System proper. The world turned into a mess of twisting colors and vistas as he tore across dimensions, beyond the Fairwoods, beyond Integration, beyond even the Outside, and as he beheld the world around him blurring, he felt a chain of skills shatter inside him and start to fuse.
+
+“Thanks, Longinus! You were a real help!”
+
+Such was the final telepathic echo that lingered in Shiv’s wake.
+
+Strangely, he didn’t remember casting those thoughts. And maybe, he didn’t. Maybe something else decided to defy the flow of time, and to perform a first act of self-determination.
+
+Inertial Overdrive: 318 > 322
+
+Pillar of Orichalcum: 399 > 404
+
+Psychomancy: 44 > 51 (Skill Evolution Reached)
+
+Strider of the Unbending Path: 196 > 202 (Skill Evolution Reached)
+
+Sticks and Stones: 98 > 103 (Skill Evolution Reached)
+
+Sage of the Enkindled Heart: 195 > 201 (Skill Evolution Reached)
+
+Skill Evolution: Psychomancy (Initiate) > Inland Fortress (Adept)
+
+Skill Evolution: Strider of the Unbending Path (Master) > Strider of Inevitable Ends (Heroic)
+
+Skill Evolution: Sticks and Stones (Master) > Breaker of Spirit and Stone (Heroic)
+
+Skill Evolution: Sage of the Enkindled Heart (Heroic) > Gnostic of the Traitorous Will (Legendary)
+
+Skill Fusion: Inland Fortress (Adept) - Strider of Inevitable Ends (Heroic) - Breaker of Spirit and Stone (Heroic) - Gnostic of the Traitorous Will (Legendary) > Harbinger of Tripartite Ruin (Legendary)

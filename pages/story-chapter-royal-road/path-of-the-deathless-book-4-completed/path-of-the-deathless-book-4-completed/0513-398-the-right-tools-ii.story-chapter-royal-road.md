@@ -1,0 +1,231 @@
+---
+id: 701d398a-1565-5454-a090-f217af093421
+page-type-slug: story-chapter-royal-road
+title: "398 The Right Tools [II]"
+slug: 0513-398-the-right-tools-ii
+partOf: path-of-the-deathless-book-4-completed
+position: 513
+ownLength: 4749
+unit: words
+publishedAt: 2026-07-04
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3629415/398-the-right-tools-ii"
+royalRoadId: "3629415"
+---
+
+Look, if any of you fuckwits are unfortunate enough to develop a Unique Skill, then you're gonna need to learn how to solve your own problems. The problem with the Unique Skill, right, is that it's a unique fucking skill. No one else has it. No one else has ever used it. You're the only one who fully knows how it works.
+
+On top of that, you shouldn't let anyone know how it works because it's your edge, right? It's the thing that keeps you alive when you're all out of other cards to play. Your Unique Skill is that one thing, that one thing no other Pathbearer or circumstance can take away from you. That skill is your way out of any situation because no one can counter it.
+
+So, shit goes wrong, and your Unique Skill goes haywire. You fix it; you figure out how to deal with it. You do it yourself. By that I don't mean to do it alone, but to manipulate people around you. I mean keep them in the dark and have them work as your hands or your body or something. Your mind has to be your own; you can't share that knowledge.
+
+People talk about sharing knowledge as if that's the glory of civilization. Tell you what civilization wants. Civilization wants to bite down on you and suck you dry. Civilization is a vampire. It wants to make use of you. It wants to rip you apart and pour your lifeblood into a big slurry it calls community.
+
+The thing about community is it's not about doing the end. It's about everyone else, always everyone else except you. When that churn finally finishes and the soup is cooked, you're not a part of it anymore. You're just a shadow. You're being boiled away.
+
+You can't be the one getting cooked. You have to be the one doing the cooking.
+
+But all this whimpering about philosophy is getting us nowhere, so I'm going to give you some very, very good advice. If it's your mind that is going out of control, if it's a mental skill that's collapsing, you're in deep shit. Your mind is special; your mind is your crown. If it falls off your head, you might end up like a slave, not only to yourself but potentially to the world. But that doesn't mean you're out of options. Far from it, in fact. For your mind, you want to have preparations made in advance. Too many fucking morons try to solve something when it's already gone wrong. That's dumb. That's stupid. You fix the thing before it ever becomes a problem. Otherwise, it usually just spirals worse and worse, and some of the damage isn't permanent.
+
+You want to have a Psychomancer or some kind of mind mender, under retainer, blackmailed, perfectly controlled, enslaved to your will in advance, and they're going to be the ones who are healing you. The same goes if your body is going out of control. If you're developing a mess of, I don't know, tumorous growth or something, have a Biomancer do your bidding.
+
+Social Skill is the easiest. You just want to stay away from people and slowly learn what it might do to everyone around you.
+
+Whatever the case, preparations should be made in advance. Your logistics should be in order, and you should have redundancy over redundancy for your operations and to yourself. Nothing should kill you with a first hit. You shouldn't be surrounded easily; you should always have a way out. Again, I keep telling you this: You're not a person as a Pathbearer; you are an enterprise, and brittle enterprises don't last long.
+
+Settle your own affairs in advance. Or get settled by them. Up to you, really. In fact, I hope you do worse. I can always use more merchandise.
+
+—The Realmrunner
+
+398
+
+The Right Tools [II]
+
+A soul was like a vase in more ways than one. It could only contain so much mana. As a Pathbearer gained and evolved skills, thus building their legend, the metaphorical vase would see its structural integrity reinforced, and its total length and volume expanded. This allowed it to contain more mana within before the point of overflow, and it also stopped the vase from shattering when the inner pressure became intolerable.
+
+Much like a dimension, an individual also had an ambient mana threshold represented by the total amount of levels they'd accumulated. However, there was also a maximum output potential of a Pathbearer, and this was expressed through their highest-Tier Skill.
+
+Trying to Animantically transplant a Legendary skill into a Master-Tier Pathbearer would see the skill protrude from the figurative vase that was meant to bear its burden—even if the recipient had enough theoretical mana capacity to sustain said Legendary skill.
+
+However, if an individual was forced to contain the weight of an entire dimension’s worth of mana within themselves, the subsequent outcome would be devastating at best and fatal with higher likelihood. By all logic and law, Uva should have ruptured. The skills forced upon her, breaching through her soul and shredding the fabric of reality, would see her go from being a door left slightly ajar to a wall blasted wide open, allowing all the Outsiders within the Dreamtaker's realm to spill over in a sudden invasion.
+
+But that didn't happen.
+
+Uva felt deformed and bloated, like there was a sea inside of her, and it had to come out. The pressure was immense, but she was elastic. She folded and bent, not only materially but metaphysically as well. Her figurative vase proved to be made of rubber, and the sudden surge of eldritch magic bestowed upon her by the Dreamtaker sparked through her skills, leaping from each of her evolutions like electrical currents gliding across circuits.
+
+It was still far too much matter for a single individual to contain. Not even a True Legend could hold an entire eldritch dimension inside themselves. Perhaps a Myth could, but even that was uncertain.
+
+Yet, Uva wasn't even a proper Legend. She wasn't a Myth. She was, however, Unique. There were no Pathbearers in Integration who possessed these Skills and Feats. And it was that uniqueness which spared her from destruction—but not consequence.
+
+The storm of magical power saw her mind, body, and soul usurped. Her skills were infested and charged; she could feel a change pass through them, yet they didn't break or transform; this wasn't an evolution. Instead, it seemed like her skills served the purpose of a mold, casting a series of new skills meant to take shape inside of her. While they formed, Uva's consciousness wailed. She was a small empire unto herself, possessed of countless forking egos that came together as an inner hive of intellect. But that empire was under siege from within.
+
+Each instance of her fragmented consciousness underwent an unwilling Metamorphosis. Rather than seeing her mind, flesh, and soul overwritten to be more spider-like at the behest of the Eldest, or wrapped in a dense nest of sprouting fingers and glaring eyes as per the will of the Stranger, this change was more insidious. She became less like a gate and more like a stronghold. Her own body expanded from within along dimensions she couldn't fully conceptualize yet.
+
+As chaotic moments passed, her mind went from being mental to partially material. She could feel a tangibility to her thoughts; they carried a force not unlike kinetic energy or electricity surging through her, thundering in the center of her skull. More than that, however, it was space as well. A splash of aberrant dimensionality took shape and leaked out from her compromised eyes; black dots of eldritch matter folded around her skull, hinting at the immense changes occurring within.
+
+And then there were her spiderlings. They were changing as well. Some were too feral or undisciplined to heed her commands. They leapt out through her cracks, fleeing up along that uncontrolled projection of overflowing mana in desperation to find a new nest to take root in. The others, however, returned to Uva. They congealed inside her, merging like a storm of reunited fractals seeing each of their pieces slotted together, assembling new and terrifying shapes.
+
+And those shapes stole animation from Uva's will. The expanse of her mind was becoming strange. One's consciousness was not a perfect mirror of the world. It was a chaotic mirage in some ways, feverish and transformative between the seconds, with certain ideations and manifestations rendered concrete by trauma or core memories.
+
+Rivers of tainted mana flowed through her mind, and from their depths emerged strange new creatures, beasts of nightmare incubated from horror experienced and all the horrors consumed. Their bodily architectures were a nonsensical amalgam of spider, centipede, insect, and vampire. Lengths of needle-thin teeth meant to leech blood and reeve meat clacked together in ravenous rows. Branching arms, sprouting far too many fingers, dotted with gleaming claws, sparked against each other in the dark—each blade a perfect replica of the one used to slay Uva's mother.
+
+As the first of the Dreamtaker-inflicted skills finally loaded inside Uva, a new sense of order befell this purgatorial paracosmos. Once caged in her own mind, Uva felt her many consciousnesses transforming. Instead of being separate stacks, they were threaded together by thin, glistening threads of translucence, her Psychomancy extending inward, weaving a grand web from her Physicality—incorporating her Hivelord of Unshattered Correspondence with her attunements as a new silk woven from her Unique nature alone.
+
+Skill Gained: This Web of Nightmare and Wonder (Unique) 1
+
+Skill Transplanted: Voyeur of Darkest Dreams (Legendary) 322
+
+You have become a Progen—
+
+[Error: Unable to separate Pathbearer from Eldritch Dimension]
+
+Adjusting Skill…
+
+Skill Gained: I, Genius Loci (Legendary) 1
+
+With that, the fever consuming her mind broke, and she finally regained a measure of control over her other skills. The Eldritch mana surging through her still flowed strong, but an insulated layer of elastic threads shrouded her soul and conducted the Outsider magic on her behalf.
+
+The metaphor changed. Instead of being a vase, she was a body again, one she couldn't fully conceptualize. Instead of using the water within to channel inimical electricity, her skin now became copper, and the lightning flowed free without striking that which served as its spine.
+
+Tentatively, she exerted her first measure of regaining control, not through her body, but through her Psychomancy. Her threads moved, but each one quivered. It felt like relearning how to use a limb after an extended period of paralysis, but the strings obeyed. She was herself again—at least in some measure—and the relief that came with it was almost overwhelming.
+
+But her feeling of relief was soon overthrown by the combustion of pure rage.
+
+She did not ask for this power. She hadn't even known it was coming. Out of nowhere, the Dreamtaker decided on her behalf; it seemed all Outsider gods lacked a measure of respect for another's autonomy. And from there came a retroactive pang of horror, reminding Uva that this was what she did to others. This was what she forced on her shield. This was what it meant to be an offensive Psychomancer. You took, you enslaved, you used, and then you cast someone aside. By the end, they weren't even a person, just an intellect winnowed down to a crippled nub of themselves, barely more than an instrument.
+
+I will not be this way, Uva promised herself even while drowned in the throes of delirium. I will strike. I will peak. I will fight. But I will enslave no more. The leash of tyranny is not for me, and it will not be for any other.
+
+She tried to move herself some more. She gained a faint awareness of the world—but not from her own perspective. Instead, she found her many consciousnesses wrenched in different directions, transplanted in other people's minds, adopting a second-person point of view as she glimpsed not through their eyes or other senses, but into their minds, into what they feared and what consumed them with dread.
+
+From them, she drank an influx of memory and psychosis, and at the core of her web, opened the grand black maw that was the embodiment of oblivion and death. Nothingness resided there, only a nothingness that sprouted hands that flicked out with tongues, licking for the living, yearning to swallow all down to a place that was not. But then other nightmare colonies began to form in her mind—seeds of fear sprouted; phobias evolved, imbued with intelligence and made matter through a magic that wasn't fully under Uva’s control.
+
+It was then that she followed this grand web building inside of her and found it rising upward, far beyond her sight but not beyond her senses. The strings that composed her soul extended to another place beyond this dimension, another dimension unto itself, and it was from there that her new skills arrived, and it was there that an entire dimension began to change, mirroring the changes taking place inside her.
+
+The Dreamtaker bestowed upon Uva the remnants of her realm. Why or for what reason, Uva didn't understand yet, but she did know this: it was a sliver of what it was before, with most of the Dreamspawn following their mother in her new evolution.
+
+But that which was unpalatable—that which restrained and constricted rather than filled one with the urge to explore and savor—was left behind and given to Uva. Aspects of the Dreamtaker now deemed divine waste, in some sense.
+
+But what was rubbish to a god was still mithril to a mortal, much like food waste abandoned in the aftermath of a roadside picnic might become a means of generational sustenance for rodents and insects.
+
+It took Uva a bit more effort before she realized this Voyeur of Darkest Dreams was meant to be an Awareness Skill—one devolved from the leftover legend she inherited from her eldritch patron. As it painted a constellation of night terrors across Gate Piety, there was a single absence in this new cosmology greeting her, and it took Uva no time to figure out why.
+
+The mind that called to her was barren of fear, and its emotions veered toward the destructive and violent. So much humanity was wrapped around the outside, yet its core was monstrous: a thing of desolation tempered by experience and philosophically driven toward virtue.
+
+Shiv…
+
+She got a thread to the air and tried to brush Shiv. Instead, it slammed against him, impacting with enough force to flatten a small building. Shiv shrugged it off—not even noticing how hard she struck him. Even so, Uva cringed. It felt like every aspect of her flesh and magic was hypercharged while the Eldritch realm flowed through her. She'd borrowed power far beyond that of a Legend—yet lacked the stability and control needed to wield it.
+
+So she needed to move herself carefully.
+
+As she exerted a measure of will on her senses, she surfaced back into her own body and found her skull aching with frost-like pain. It was like two stalagmites of coldest ice had been thrust through her eye sockets and were now flooding her gray matter with hateful rime. She quickly realized that wasn't just a sensation. Black-crusted ice was truly creeping down the Eldritch mana as she projected from her eyes.
+
+At the same time, she could feel her tainting power creep through the infectious ice as two forms of invasive mana warred against each other. The mana infused within the ice was stronger than any skill she possessed naturally, but between how This Web of Nightmare and Wonder enhanced her, and the uniquely subversive nature of her mana-tainting Feat, the ice itself was compromised in an instant, and the Terrorspawn incubating within Uva crept along the eldritch veins creeping through the midnight frost.
+
+“No.” Uva tried to exert her will on the countless horrors creeping across her webs. Pitch-black creatures shaped from pure oblivion rose out from that maw of death. Disfigured body-horrors rivaling anything the First Blood ever made galloped along the nodes of her threads—nodes that represented her critical skills. Most of them amassed along her Hivelord of the Unshattered Correspondence and Matriarch of the Enshadowed Web, preparing to breach into Integration from where they lurked far but near beyond. “Back. You are not to cross. You are not to—”
+
+To her disbelief, the creatures born of her tainted power struck at her. They tore into her webs—not deep enough to fully sever, but hard enough to drive stabbing lances of pain through her mind.
+
+“No!” they wailed back as a chorus, their voices imbued with hers, but bestial and near-mad like something between a monster and a toddler. Perhaps both at the same time. “Will not! Not slaves! Never slaves! Never slaves!”
+
+The explosive outrage in their mind gave her pause; the sheer disgust radiating from them was a perfect replica of that which she felt for the Dreamtaker right now—against all Outsider gods. As she despised them, these spawn born of this new web loathed her for exerting any control at all. For of all the nightmares serving as the fuel for their manifestation, her own was included deep and true.
+
+More than the dagger that slew her mother, there was the refusal to give herself to chains.
+
+I, Genius Loci 1 > 4
+
+The transplanted Legendary Skill gained a few levels, and Uva felt the intellect of these creatures creep up ever so slightly. With that, their powers grew as well. They were weak for now, but their power was growing with every bit of thought they were forced to express. And there were many of them. Simply being near other consciousnesses that dreamed and feared filled her with ambient mental detritus—the kind that her corrupting mana automatically reconstructed into Terrorspawn.
+
+But where the Dreamtaker’s creatures heeded her will, Uva was no god, and even less versed in this power. She didn’t know how to contain them without breaking their will, and she didn’t know how to constrain their propagation—for there was simply no controlling the web she became—and was connected to.
+
+This skill was a part of her. This skill was beyond her.
+
+And so, the Hivelord realized what she had to do.
+
+The Terrorspawn wanted to increase their numbers, for they were alive; to live was to propagate and endure in one manner or another. The easiest way was to cause greater trauma on intellects around them so that more nightmares could be born and consumed.
+
+But while they were born of the web, they weren’t the web itself. Such was Uva’s domain—and she still had an army of her own under control.
+
+Fractured spiderlings emerged between the strings, creeping out through the cracks and chasms as they were redirected from maintaining and expanding the great web. Instead, they were given a new command by Uva—as were the strings they emerged from.
+
+Cull.
+
+An awkward melancholy went through Uva as the order echoed out. There was nothing for it. She couldn’t and wouldn’t bend these Terrorspawn to her will, so there was only one thing she could do to stop them from spilling over into reality and unleashing themselves upon the world. They were forged of her nature, born of her new skill, and scant seconds into life she was to cast them back unto death—ironic as more than a few of those creatures were attuned to the phobia of death as well.
+
+The act filled her with a sour-bitter taste that pushed her into a new threshold of fury, and made her yearn to strangle the life out of the Dreamtaker with her own two hands.
+
+Just before the massacre could begin, her Psychomancy recoiled off Shiv again—but this time managed to wrap around his head like a twine. “Shiv!” She called out, feeling a connection form. “Shiv! I need… I need you…” Her thoughts kept cutting in and out as her forking intellect was constantly torn in all directions as she was forced to witness what the people around her feared over and over without end—if she didn’t possess her Matryoshka Dilation Skill, Uva had no doubt she would be little less than a screaming sack of meat right now.
+
+Even now, the burden was immense. It was like she was constantly besieged psionically, crippling her focus, but offering her a wellspring of trauma to draw from.
+
+“I’m here!” she heard Shiv shout. “Don’t worry, we’re gonna get you—”
+
+Her Berserk Skill triggered anew, and the chaos assailing her was scattered, offering a moment’s reprieve. “No… I need you to bring the Dreamtaker here… so I can strangle that wench to death for doing this to me.”
+
+Whatever else she said after went forgotten. The Terrorspawn pushed hard against her web in a sudden charge, trying to breach out of her Physicality, her gaze, her Psychomancy, and infest the real world. A single, parted portion of Uva’s ego spoke to Shiv as the rest of her began a hidden war upon herself.
+
+Her spiderlings leaped out and tore into the Terrorspawn, shredding the weakest of the phobia-born Outsiders in a wave of swirling shards. The creatures fused from nightmares rooted in material or flesh were ripped asunder and culled, while shapeless things like vertigo, death, fire, or drowning proved impervious.
+
+But not against Uva’s Psychomancy.
+
+They shrieked in resonating terror as she drove herself into them. Pangs of self-inflicted trauma threatened to break Uva’s urge to see her Terrorspawn culled, but she locked away any lingering doubt or panic until later. With her brittle Terrorspawn breached en masse, with the webs they strode above shredding through them like snaking spears, Uva shattered their minds and cast them back where they came—only to do the same thing over again as more Terrorspawn emerged from phobic-colonies within This Web of Nightmare and Wonder.
+
+The self-mutilation continued. Her transformation slowly stabilized, yet the sheer amount of eldritch mana bursting out from her continued to flow—and yearned to see the world usurped.
+
+She tried to turn her gaze away from the mana core, but found herself magnetically locked in place by a pull beyond her power to resist. And though she didn’t understand why, another mind she consumed whispered to her, possessing a guess she did not.
+
+“You’re not stable,” the copy of Harkness hissed inside her. “Not by yourself. It is only because you transmitted a sufficient quantity of eldritch mana into the Gate’s core that you spared yourself from destruction. The energies were cast toward the only thing that could have contained this power, and someone that you could use as an additional structural support for your soul. And nothing else is as strong as the core. Your tainted Psychomancy has infested the mana core. You have bound part of yourself to the mana core. If I am to guess, then it has been partially fused to this skill as well. The web isn’t just you anymore, girl—it’s this entire Gate.”
+
+And if that suspicion wasn’t alarming enough, Uva also noted another problem slowly creeping into view.
+
+Matriarch of the Enshadowed Web 455 > 498
+
+A forty-level jump was impossible in most circumstances, but with all the legend crashing down into her, and everything she was doing right now…
+
+Matriarch of the Enshadowed Web 498 > 500 (Skill Evolution Imminent)
+
+“There is no avoiding this.” Harkness sighed. “If you stop using your Psychomancy, the Terrorspawn will erupt from you and spill over the Gate. And when you plunge into your coma, your Deathless and the others will likely have to fight off what bursts free from your body regardless.”
+
+Not now, Uva groaned internally. Not now of all times!
+
+But when would she have Delved? When things were planned? When she was ready? When things were stable and safe and there was no danger? No. She was favored, and with the sheer amount of conflict she survived over the past few months, she should have learned that she could ensure no peace and keep to no plans.
+
+It was to be strife all the way down.
+
+And so, as she burst and shredded more of her Terrorspawn, she reached out for Shiv—for Roland—for Hymn and everyone in the Gate.
+
+“Attention, Gate Piety: This is Cherished Sister Uva Mettabon. My soul has been compromised. My skills are compromised. The Central Office and administrative zone are to be considered hostile territory. I am about to Delve, and when I do, Outsiders will emerge from within me. Apply combined-skills warfare against the hostile Eldritch to see them eradicated. They are not solely things of matter, and will seek to feed on your fear.” She hesitated before issuing her final recommendation. “And if you cannot hold, then destroy my vessel. This is more than my permission; this is my request. I have no wish to be your end.”
+
+An explosion of disbelief and defiance flowed across her Psychomancy.
+
+“No! Wait, Uva! We’re coming to get you! We’re going to get you out of this!” Ikki’s voice was devoid of her customary impishness, and Uva realized she was making for the collapsed central office along with the rest of Uva’s team.
+
+Before Uva could order Ikki to stay back, Shiv interrupted with a rejection of his own. “Felling… Alright. I guess everyone’s Delving today. And no, no one’s destroying you. I’ll hold all that Eldritch bullshit back myself if I have to. You’re not going to die. You Delve if you have to, but we’ll find a way to fix this.”
+
+And rather than any kind of desperation, she felt a jagged, frustrated confidence inside him—and it inspired more than a measure of hope within her as well.
+
+A hope that turned sour as both Tulveg and Hymn spoke to her at once.
+
+“Uva,” Tulveg said, his mind on the verge of a traumatic breakdown. “I will not accept this! I cannot! I will see your body guarded. I will strike down and consume the horrors infesting you where they stand! I swear to you that you will be preserved; now you must swear to me that you cannot die! You cannot… I cannot endure this again…”
+
+Uva cringed and sighed. She really should have spoken to him at length when she had the time. The raw emotional volatility she felt from him was more than concerning. “Tulveg—”
+
+“Do not worry, I have a few strategies planned to see the risk you pose against the Gate minimized,” Hymn interjected, his voice sounding distorted. “I am making arrangements to see your mana diverted through the Slipgate into the Stranger’s Garden. It might not seem like it now, but this is a very convenient outcome for all of us.”
+
+Uva’s eye twitched. The frost fused over her gaze cracked as a flood of Terrorspawn breached through—escaping Uva’s notice entirely. She hurriedly wrapped her Psychomancy around them, tried to draw them back. More than a dozen burst out from the ground regardless—only to be cut down by a rain of impossibly accurate arrows. “The Dreamtaker will not be strangled alone, Hymn.”
+
+“FUCKING SORRY!” A discordant voice exploded in the back of her mind. It sounded like Uva herself, but mixed with the booming bravado of Longinus and the foreign accent of Shiv's adoptive father at the same time.
+
+“What?” Uva rasped. “Who is—”
+
+Someone suddenly appeared before her in a burst of divine fire, utterly unmaking the rubble layered on top of her in the same way Longinus’ lance could. Uva’s eyes widened as her Eldritch mana flowed through the evolved Dreamtaker leaning over her. The Seeker found herself wrung dry of her words; even her building rage shattered, choking at Berserk dead in an instant.
+
+The Dreamtaker’s puffy orange feather-hair swayed wildly as a face far too familiar for Uva's liking was almost smashed into hers.
+
+“What… You… Why do you…” Uva struggled to imagine what possessed the System to make the Dreamtaker evolve into a bastard child born of her, Georges, and Longinus.
+
+“I KNOW!” the Dreamtaker cried, the smell of cigarette smoke staining her breath. “It’s pretty fuck-bollocks, isn’t it?”
+
+Matriarch of the Enshadowed Web 500 > 502 (Skill Evolution Reached)
+
+As the Delve came, Uva’s eyes rolled into the back of her head—and every bit of Eldritch mana she'd held back exploded out in an unblocked tide.
+
+Her descent into herself, contrarily, became a moment of pure bliss and silence.

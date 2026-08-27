@@ -1,0 +1,215 @@
+---
+id: 00304caf-3aad-5cd3-b17d-3a21920e1ea2
+page-type-slug: story-chapter-royal-road
+title: "249 (II) Transmission [II]"
+slug: 0297-249-ii-transmission-ii-2899745
+partOf: path-of-the-deathless-book-4-completed
+position: 297
+ownLength: 2939
+unit: words
+publishedAt: 2026-01-01
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2899745/249-ii-transmission-ii"
+royalRoadId: "2899745"
+---
+
+249 (II)
+
+Transmission [II]
+
+Shiv and Adam shared a look. The latter snapped his fingers twice, and the rest of the force hiding within Shiv's cape emerged: several orcs stumbled out first, followed by Tulveg, and then Gone, Kura, Candles, and Five. The Rubix Well escapees all took in their surroundings wearily, but none of them moved.
+
+"How good, you brought all the other strays as well!" Poverty declared, clapping his hands together.
+
+"So, what the hells are all of you?" Shiv asked. The dragons briefly seemed to look at each other, but their heads were pointed in the wrong directions. Shiv realized they weren't in the same place, wherever they were.
+
+Yellowbelly chuckled. "Why, we are dragons, of course. Dragons, beasts, titans of time itself. The System's favorite monsters, grown in gluttony and destruction."
+
+"Are you guys Dragon-Knights? Rogue members of the Descenders?" Shiv asked.
+
+As one, the Brokers broke into mirthful laughter. All except for Garrulous.
+
+"The Descenders Union is such an adorable and commendable organization," Know-Nothing said. "But no, we are not of the Descenders. We are simply ones who awoke, who survived too long to remain ignorant."
+
+"You're awakened?" Adam asked.
+
+"That is the term," Yellowbelly declared, snapping his clawed fingers.
+
+Shiv scoffed. "Alright, so you're a bunch of old awakened lizards who run most of the criminal enterprises across the Republic."
+
+"The world," Poverty corrected, lifting a claw.
+
+"The world," Shiv said, rolling his eyes. Then he pointed at Hymn. "So, what about him? Is he also a hidden dragon?"
+
+Once more, a chorus of laughter erupted among the Brokers. Shiv felt like they were doing it deliberately to get on his nerves.
+
+Poverty tutted. "No, no. Our dear Headmaster is a member of the Brokerage, a senior member, no less. But he is not of the eldest, and he is not of the Inner Cadre. He is here today because recent events have concerned him. For he represents our Eldritch branch: our dealings with the Outsiders toward the benefit of our profits and our future industrial endeavors."
+
+“I’m also the one who managed to intercept the call from your lover,” Hymn added, grunting as he vigorously shook his member, as if he was trying to rip it off. “Come on, fucker, don’t do this to me now, you still got a bit more... ahhh, there we go…” A loud splatter followed. The eldritch flames flickered and danced. The Headmaster threw his head back and moaned in satisfaction.
+
+“Why can’t we ever deal with normal people?” Adam mumbled.
+
+“Because the System fucking hates us,” Shiv replied.
+
+“Contrarily,” Hymn snorted, pulling his pants up and rubbing his mouth without doing anything to clean his hands, “you’re probably in this mess because the System loves you a bit too much. And it loves Sister Uva Mettabon pretty bad too. Bad enough that it decided to leave her trapped in the Stranger’s territory. Oh, you remember the Stranger, don’t you? Because he remembers you. He hates you. And he wants to hollow her out and use her as a vessel to do the typical 'spread madness and assimilate' scheme on our world, like he's done on so many others."
+
+“How?” A vicious growl entered Shiv’s voice. “How do you know that?”
+
+“How do I know what? That you’re using a Perfect Semblance? That Marcus Unblood was dead this entire time? That Uva Mettabon is trapped within my patron’s personal dimension?”
+
+“Your patron?” Adam hissed. His fingers twitched, and he almost summoned a Veilpiercer out of reflex.
+
+Hymn sighed. “Oh, trust me, I would have picked another eldritch horror to deal with if I'd had the choice. Some families have an inheritance of wealth and estates. I have a twisted book that keeps asking me to perform dark and disquieting rituals to appease the nigh-unknowable prick of an entity that my grandmother struck an accord with some four centuries back. Really not nearly as sexy as the lands and riches thing.”
+
+"So, what? You're the Stranger's slave?" Shiv asked.
+
+Hymn frowned at that statement. "Slave? You make it sound so terrible!"
+
+"Are you?" Shiv repeated. He wasn't sure if he was supposed to be sympathetic or wary of Hymn. Right now, he was feeling both emotions at once. The man clearly had a few things wrong with his brain.
+
+"Well, I describe myself as an unwilling worker bound to a noble house that is beyond dysfunctional by an age-old family contract I can't seem to get out of. So, I've resorted to stealing riches, siphoning skills, and selling secrets from within said noble house."
+
+Shiv gawked at the Headmaster. "You're defrauding the Stranger?"
+
+"He tries to force me to do his bidding, so I skim when I can,” Hymn corrected. “It’s a mutually inclined act of exploitation. I made it that way so I wouldn’t feel so cheated. Like poor mum.”
+
+Adam sighed deeply. "Are there no normal Legends?"
+
+A chorus of "no's," "absolutely not," "what's normal," “that fireplace looks toasty,” and other such rejections came from every single Legend in the room. Shiv was the only one who remained silent.
+
+"I mean, you're not normal either." Hymn pointed at Shiv. "Out of everyone here, you are the only one who keeps coming back from the dead. Which, good for you; I’m pretty jealous. What I'm less jealous about is the one who owns you."
+
+"No one owns me," Shiv shot back, gritting his teeth.
+
+Hymn chuckled. "Udraal would beg to differ."
+
+"Udraal can beg all he wants," Shiv spat. "Hells, I'll see him begging about all sorts of things eventually."
+
+A sigh escaped Hymn. "And there's the problem. That of reaching Heroic or, Stranger forbid, Legendary-Tier when you're far too young. You get this sense that you can solve anything with the few skills you have, or, more usually, extreme violence."
+
+"It's worked for me so far," Shiv sneered.
+
+A series of chuckles came from three corners of the room, and even some of Shiv's allies shot him dubious looks.
+
+The Headmaster burped loudly without covering his mouth, looking unimpressed. "Yeah, well, is it going to work for you against someone who's a lot tougher than you and can casually kill you?" Then Hymn paused, and his frown deepened. "Wait."
+
+"Yeah," Shiv said, nodding vigorously. "Absolutely. It absolutely works because I'll just keep trying again and again and again until I get the right skills, until they're worn down, or until I find a way to break them. There's always a way to break them."
+
+Hymn's frown deepened. "That might be the worst thing you could have ever possibly said."
+
+"Death, pain, and violence are not the solutions to this one," Adam interjected. "I swear, he's a masochist. You can throw him into a fire, and he'll emerge complaining about how the pain was only a five out of ten. You can hack his head off, and then eventually his neck will become immune to beheadings, and you'll have to move on to some other strategy to kill him. You can try drowning him, but then he'll somehow learn to turn into some sort of sea monster. Mind magic once worked, not so much now. And social skills? Well, I think that's losing its luster on him over time as well. So, given enough time, I think we can deal with all these problems. I think we can get everything we want. I think we can make Udraal Thann beg."
+
+Hymn turned to Adam and looked the Gate Lord up and down. "He might be able to, Young Lord Arrow, but what about you?"
+
+"Me? Well, death is still final for me, at least so far. And I confess, I don't have his monstrous capabilities to recover and adapt. My mind doesn't like the Outside, and pain and torture still make me flinch. No, I'm not the Deathless. So I'll simply have to focus on being better."
+
+"Than him?" Hymn asked.
+
+"Than everybody."
+
+"Well, you are your mother's son," Hymn said with a slight huff.
+
+Adam seemed taken aback by that. "Usually I'm compared to my father."
+
+"Well, your father isn't the type to bite back so openly. Sure, he'll shoot me from halfway across the campus, and then he'll disfigure my corpse, but it's your mother who is the snarling badger of the family, and I mean that in the most affectionate way. Frankly, she's my favorite Van Erren, despite all the trouble she caused on my campus. Ah. You would’ve loved her. But the System isn’t that kind."
+
+Adam and Shiv exchanged a quick look. With that single statement, something else was revealed: the Dragon Brokers didn't know nearly everything, and this entire performance that they were putting on was also part of a shock-and-awe campaign.
+
+Hymn suddenly snapped his fingers. "Oh, and before we begin, tell Cripple's Avatar to stumble his way out of wherever he's hiding." Shiv stiffened, and the Headmaster rolled his eyes. "Do you know what Divine Power feels like, kid? Divine Power feels like a thunderclap going off next to your head over and over and over and over and over... and it never ends."
+
+"Doesn't feel like that for me," Shiv muttered.
+
+"Well, you try getting an Eldritch Awareness skill." Hymn scoffed. "Way to rub it in, kids…"
+
+The Deathless grunted and looked over his shoulder. "Radio, come out."
+
+Silence.
+
+Shiv's eyelid twitched. “Radio?”
+
+“Uh, are you sure?” the automaton's voice called from within the cape. “It sounds messy out there.”
+
+"Radio, if someone was going to hurt you specifically, they would have just entered the cape already. Don't worry, I won't let anything happen to you."
+
+"Why does it feel like you're full of shit, Deathless?"
+
+"Because you’re being overly nervous."
+
+Slowly, the tiny automaton stuck its screen-shaped head out. As soon as it looked upward, it let out a piercing shriek. "Broken felling Moon! Dragons!"
+
+"Don't worry, they're not actually here," Shiv said. "They're just staring at us from who-knows-where. Not here anyway. They're not trying to kill us, either. These are smart criminal overlord dragons who probably want us to sell our organs to them or something, or sign our lives over in a contract of perpetual bondage."
+
+"Oh, but it's not perpetual for most people," Poverty said, steepling his long, manicured claws. "For most Pathbearers eventually die, finding themselves free of labor. However, while they are alive, they are cared for and wealthy at certain points. Their families get to be wealthy as well, until the wealth is inevitably squandered within three generations, and another member of their family returns to the fold, working for me. For that is how the world is."
+
+"Sounds like a shit world," Shiv said. “Don’t know if I want to keep playing in that one.”
+
+Poverty rested his head on his claws and smiled genially, showing gem-encrusted teeth that spelled out the words “Dragon Brokers” top and bottom. "The alternatives are far, far worse. Do remember, Deathless, that not everyone is nearly as blessed as you, and based on our intelligence, I think you understand. After all, there are a great many Pathless and meager Initiates in this world, unable to break through their bottlenecks and forced to suffer the lowest of labor at the behest of their betters, alienated from society."
+
+With every syllable the dragon spoke, Shiv's sympathies grew, but he also started vibrating. He doubted himself. Why was he feeling these sympathies? Why was he—
+
+Gardener of Doubt: He's trying to pervert your mind and heart. Resist.
+
+Gardener of Doubt 52 > 54
+
+Shiv shook off the social skill with a snarl. "Knock that shit off. If any of you use a social skill on me again, we're leaving.”
+
+"Oh, I'm sorry, my little friend," Poverty said, placing a large hand over his heart. "Its Legendary potency exceeds even my ability to fully control."
+
+Shiv was about to accuse the dragon of bullshitting him once more, but then he remembered how things were when his Reflexes were too much for his Toughness, and he lacked the mental skills to truly achieve his full physical potential.
+
+"Nonetheless," Know-Nothing continued, shooting Poverty a brief glare, "we are not here to pilfer you of all you own. We do not wish to make slaves of you. We recognize that you are proper threats. Additionally, we understand the baggage you come with—the baggage known as Udraal Thann, as Cripple the Strongest, as Veronica Chandler, and everything the latter entails. To make our greedy natures plain, we do not have the resources nor the power to bid against these true monsters."
+
+"For now," Yellowbelly added, grinning. "But your presence now makes some opportunities very much possible, and additionally, we want a seat at the table."
+
+"What table?" Adam asked.
+
+"The table that the Starhawk's going to make." The bruiser of a dragon leaned in closer and showed his rows of serried teeth. Shiv realized a good number of them were gold while others were made from crystal. Someone had done some immense dental work on these dragons. Someone very, very brave. "We know that a civil war is coming toward the Republic. We know the North and the South will be marching on your land soon, and we know that there's something happening with the Great One down in the deep dark. We want to be informed. We want to be ahead of the news. We want to be at the table as the news is happening and history is being written. In return, we'll give you exactly what you're worth. How much is that, you ask?" Yellowbelly shrugged. "That depends. We'll have to see what your real worth is first. Now, as a show of good faith, we're going to give you what we managed to intercept. A little something's been happening on the Outside. Blackedge… Well, let’s just say it's seen better days."
+
+"Seen better days?" Shiv sputtered. "You know, it's 'seen better days' a long time ago. It was pretty close to being broken in half when the Tarrasque attacked."
+
+"Well, if half of Blackedge survives what's to come, then I'll call it a bloody miracle." Yellowbelly gestured at Hymn. "Show them."
+
+But the Headmaster didn't do anything. Instead, he stared at Yellowbelly.
+
+"Show them," Yellowbelly repeated.
+
+"Show them?" Hymn echoed. "Really? You're just going to tell me to do that? Like I'm some sort of peon?
+
+“Hymn…” the dragon growled.
+
+“No, no, I'm kinda sick of this.” Hymn rubbed his nose. "Look, we've been working together for how long? Fifty years?"
+
+Yellowbelly placed a hand over his eyes. "Please, Hymn, not right now."
+
+"No, you're getting the speech right now, right, Yellowbelly! You have a problem! You have a personality problem! You want to know what kind of personality problem you have?" The dragon, instead of responding with outrage, simply lowered his head and groaned like an exhausted parent. "Your problem is that you keep thinking that you're the boss of everyone. Well, here's the deal: I am a stakeholder. I own part of the Neath. Please don’t treat me like the Stranger does. We, right now, need my expertise to reach into the Outside, and so I would like a little bit more courtesy than 'show him'."
+
+The Headmaster crossed his arms petulantly and looked at the fireplace, refusing to meet the dragon’s eyes.
+
+"It's bad to be disrespectful, Yellowbelly," Poverty said, pretending to be concerned.
+
+"Very, very rude. This is no way to run a proper business," Know-Nothing added.
+
+Garrulous, the last among the dragons and the one who hadn't spoken yet, let out a grumbling breath. As he uttered his words for the first time, it sounded like nails being dragged across chalkboards within the inner tissue of Shiv's brain: "Please show him. Thank you, Hymn."
+
+Shiv clutched his head and grunted. Nearby, Kura and Gone collapsed to their knees and puked. Adam collapsed outright, and Shiv barely caught him. A few of the orcs bled from their eyes and ears and struggled to stay standing. Hymn merely shook his head, but he suffered a nosebleed as well, and the other dragons let out groans of pain.
+
+"Of course," Hymn said, barely holding back his own suffering. "Let's take a look at what I got."
+
+Then the Headmaster turned and faced the fireplace. His eyes flashed bright, but instead of casting out Psychomancy or Divination, he unleashed a torrent of color from his mouth, a torrent of color that splashed into the flames, spreading it along the Outsider-claimed walls.
+
+"Didn't he just piss in that?" Adam groaned as he came back to his senses.
+
+Shiv nodded wordlessly, but he was too enraptured by the unfolding scene. Bits of the surrounding tissue pulled away, opening into large furrows. The walls of the room went from being covered by cancerous Outsider tissue to opening up, forming a vast portal to somewhere else.
+
+A scene unfolded. The world moved.
+
+Shiv found himself looking out into a... jungle.
+
+Titanic trees molded from shifting sinews of ebony and covered in blinking red eyes grew higher than the sky all around, and the scene shifted. The creature he viewed the world from snaked around the tree, and as it turned the corner, he saw something in the distance. Something burning, something being besieged by massive creatures that resembled many-fingered hands.
+
+And then, the flames cast the shape of a city cocooned in a nest of incandescent threads. Shiv knew those threads, had seen them when Uva—
+
+“That’s…” Adam breathed.
+
+And a piece of burning town was ripped out from within the protective cocoon made from Psychomanctic strings.
+
+“Blackedge,” Shiv finished.

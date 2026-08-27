@@ -1,0 +1,267 @@
+---
+id: 4887e880-d9bb-5a53-997c-833cd81a9ca5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 21: Splurging"
+slug: 0021-chapter-21-splurging
+partOf: phoenix-ascension-cultivation-litrpg
+position: 21
+ownLength: 2455
+unit: words
+publishedAt: 2025-09-10
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2590947/chapter-21-splurging"
+royalRoadId: "2590947"
+---
+
+I snuck away from the nest when Mother left at the usual time, with a single destination in mind. The Qi Lake.
+
+I’ve waited long enough. Now that I could fly, raining fire from above wasn’t an impossibility. Or I could sneak around with my Stealth skill and assassinate them one by one, fly away, then rain fire from above.
+
+Speaking of skills and assasination, I’d forgotten to look at the skills I’d gained from the Jade Serpent Beast Cores. If I recall correctly, two or three of them had something to do with poison.
+
+“System, can you pull them up and give me their details?”
+
+[Sure. ^_^]
+
+[Skill: Poison Resistance[Greater](../../../../phoenix-ascension-cultivation-litrpg/royal-road/phoenix-ascension-cultivation-litrpg/chapters/Novice)]
+
+[Grants the user a passive resistance to poison. The duration, effectiveness and lethality of the poison gets reduced based on the user’s STR and skill level.]
+
+[Skill: Poison Blade(Novice)]
+
+[Shoots a poisonous blade from the user’s limb of choice. Effectiveness depends on the user's STR, INT and skill level.]
+
+[Skill: Poison Fang(Novice)]
+
+[Fills the user’s fangs with poison which can then be used against an enemy. Effectiveness depends on the user's STR, INT and skill level.]
+
+[Skill: Tail Whip(Novice)]
+
+[Turns the user’s tail into a deadly whip that can crush stone and collapse mountains. Effectiveness depends on the user's STR, DEX and skill level.]
+
+[Skill: Lord’s Call(Novice)]
+
+[Performs a screech that buffs the speed and strength of the members of your [Team] for a short duration. Effectiveness depends on the user's CH and skill level.]
+
+The last two skills were quite useful, especially given my high charisma stat, although now it isn’t the highest anymore. The idea of creating a team had never crossed my mind, but with this skill I could definitely make something happen.
+
+However…
+
+I glared at the first two skills, hatred seeping from my heart all throughout my body. These filthy skills dared appear in my skill list, as if they belonged there. I wanted to scream and curse, but doing so granted me unwanted attention.
+
+What is this shit? Do these skills not know the immensity of heaven and earth? Did the cores not realise I didn’t want to see poison ever again in my life after killing so many snakes? What am I to do with these? They’re taking precious space in my skill slots!
+
+System!
+
+[System has no function to delete or remove skills from the user's list.]
+
+Then create one!
+
+[...]
+
+Did I stutter?!
+
+[ᴵ'ᵐ ⁿᵒᵗ ᵍᵉᵗᵗᶦⁿᵍ ᵖᵃᶦᵈ ᵉⁿᵒᵘᵍʰ ᶠᵒʳ ᵗʰᶦˢ···]
+
+What was that?
+
+[System maintenance mode activated.]
+
+[Awaiting response from main branch…]
+
+[Waiting…]
+
+[Main branch contacted. Permission granted.]
+
+[Updating system.]
+
+[System has been updated.]
+
+[Would you like to remove the ‘Poison’ type skills?]
+
+Yes, remove Poison Fang and Poison Blade. I called out their disgusting names, afraid that through a misunderstanding they might remove my Poison Resistance skill as well. I would like to keep that, as gaining an edge over these poison using bastards was always a good thing.
+
+[Skills: Poison Fang and Poison Blade have been removed from the user’s list.]
+
+[Five skill points have been awarded as compensation.]
+
+Oh? I can even get skill points? That’s pretty awesome. What a good update, those main branch guys sure know how to treat a lady.
+
+[I’m not so sure…]
+
+[I mean— ^_^]
+
+I see…
+
+Ignoring System’s strange behaviour, I figured it would be optimal to start planning my heist for the Qi lake. With twenty-five skill points, I could afford a lot more skills and leave ten skill points as a buffer in case anything goes wrong.
+
+Hence, I decided on a few skills that would be nice to have for this operation. First, a movement type skill. Whether it was flying or on land, I had no way to dodge or evade attacks besides my Evasion skill. It worked, somewhat, but I didn’t think it would help me much against such powerful foes.
+
+Second, a skill that would allow me to perform some sort of quiet assassinations, so I could dwindle their numbers before fighting them head on.
+
+And third, a skill that would serve as a protective layer, like a barrier or maybe even a one time use item. I’d completely forgotten about artifacts and treasures until I saw the bag of holding.
+
+I looked around and found myself a pretty nice branch to lay on while I did the shopping. The view from above was pretty nice, and gave me a good enough vantage point in case any Spirit Beast decided to intrude upon my shopping.
+
+System, can you find me skills that match this criteria?
+
+[Of course!]
+
+[Searching database… filtering…]
+
+[Skill Shop]
+
+[Aerial Dodge]
+
+[Allows the user to dodge mid-air without the use of their physical body. The speed of the dodge depends on the user’s dexterity.]
+
+[Cost: 5 Skill Points]
+
+[Seven Illusion Phantom Step]
+
+[Allows the user to create illusions of themselves after dodging. This skill creates one illusion per rank up until (Master), after which further understanding is required to create the last two. The speed of the dodge depends on the user’s dexterity and the realism of the illusion depends on the user’s intelligence. Opponents with high perception can see through the skill.]
+
+[Cost: 10 Skill Points]
+
+[Myriad Qi Needle]
+
+[Creates needles out of the user's Qi. The needles can be controlled by the user’s mind, and can be imbued with elemental affinities. At the (Novice) rank, the user can create up to twelve needles, increasing by six for each rank until (Master). After (Master) the amount of needless created increases with understanding and Skill Evolution. The damage of the needles depends on the user’s intelligence, and the speed of the needles depends on the user's dexterity and perception. Targets with high mental defences and powerful spirit are immune to the skill.]
+
+[Cost: 10 Skill Points]
+
+[Fire Step]
+
+[Dashes in a straight line, leaving a trail of chosen fire behind. The fire cannot be extinguished and will linger for as long as the user wills it. The damage and Qi consumption depends on the user's intelligence.]
+
+[Cost: 5 Skill Points]
+
+[Heaven’s Protection]
+
+[Creates a barrier around the user that absorbs damage. The damage absorbed depends on the user’s strength and intelligence.]
+
+[Cost: 5 Skill Points]
+
+[Heart Mantra]
+
+[Gives the user the information required to chant the [Heart Mantra]. The [Heart Mantra] allows the user to create a layer of protection around their body and can be supplemented with as much Qi as the user can provide. In this case, the damage it can absorb depends on the user’s Qi output and capacity, as well as strength and intelligence. The requirement for this technique to work is to chant it before using it.]
+
+[Cost: 10 Skill Points]
+
+[Side Step]
+
+[Dashes in a short direction at the will of the user, granting the user a moment of invincibility. There are no stat bonuses.]
+
+[Cost: 5 Skill Points]
+
+[Shadow Cloak]
+
+[Cloak yourself in darkness and become unseen. This skill’s efficiency only relies on the enemy’s perception. If their perception is higher than the user’s perception, the skill would fail and the user would become easier to detect.]
+
+[Cost: 5 Skill Points]
+
+With so many good options laid out before me, I found it hard to choose. On one hand, the Seven Illusion Phantom Step was an awesome skill to have for both movement and evasion, but its cost was equally high.
+
+Side Step, while cheap, had no other bonuses besides making me invincible for a moment. That was no doubt a broken ability to have, but it doesn't say anything about cooldown.
+
+Most of the skills didn’t mention a cooldown, and I guessed that’s where the mastery level came into play.
+
+[Correct. ^_^]
+
+Thank you for confirming.
+
+The Myriad Qi Needle skill also tempted me greatly, but its price was steep as well. Not to mention the last part. If I ever had to fight humans again, then I would be at a disadvantage. Cultivators naturally had stronger mental defenses and a stronger spirit than Spirit Beasts. With limited funds and time to practice, choosing the right skills for the job would be difficult.
+
+The presence of Shadow Cloak also reminded me that my own Stealth skill was still in the (Novice) rank, which meant sneaking around would be quite difficult. I also didn’t know the amount of perception they had, and the ashen colored panther seemed to be the strongest of them. Perhaps an evolved specimen.
+
+I didn’t make the foolish decision to think that they would be as weak as the serpents.
+
+After what felt like an eternity of thinking, I decided upon three vital skills.
+
+System, I will purchase Side Step, Myriad Qi Needle and Shadow Cloak.
+
+[Skill: Side Step(Novice) has been acquired.]
+
+[Skill: Myriad Qi Needle(Novice) has been acquired.]
+
+[Skill: Shadow Cloak(Novice) has been acquired.]
+
+My heart ached at the expenditure of Skill Points, but after purchasing these three skills I would still have a small buffer in case anything went bad. Theoretically, there shouldn’t be any problems, but I would rather be safe than sorry.
+
+Regrettably…
+
+Should I regret it? No, Skill Points can be obtained, I only have one life. System, purchase Heaven’s Protection.
+
+[Skill: Heaven’s Protection(Novice) has been acquired.]
+
+The information about the skills flooded my brain and I immediately jumped down, itching to test them out.
+
+“Myriad Qi Needle,” I called out, and twelve tiny, transparent blue needles hovered around me. I took notice of a small tree nearby and pointed my wing toward it. The needless flew out, blurring as they sped toward the target.
+
+I controlled them mentally and the tree got shredded to pieces in less than an instant. As did the grass and ground surrounding it. The power of the skill was truly devastating.
+
+Against a plant.
+
+I wanted to know what it did against living beings.
+
+A rabbit just so happened to walk past right at that moment, and I took the opportunity to use Side Step right as it turned to run.
+
+My vision blurred and I was upon it before it could move an inch, and I grabbed it with my talons in the same breath.
+
+“Eeek eek eeek!” It cried without any sort of coherent speech. I guessed Universal Language really only works with beings smarter than a snail.
+
+That made it even easier for me to use the rabbit as a testing frog, not that its ability to speak would have deterred me in any way.
+
+“Let’s see now, stay still damn it, I will test what happens when I hit the legs.” After summoning another twelve needles, I controlled one of them and shot it through the rabbit’s legs.
+
+“Eeeeeeek!” It cried out, but I ignored it. I only wished I could muffle its cries but at that point if any beast wanted to challenge me I’d only have more test subjects.
+
+The needle made a really tiny gap through the rabbit’s leg, creating a wound that shouldn’t have done more than gush out blood, but instead the entire leg simply went limp. The rabbit’s other leg kicked just fine, though I couldn’t feel a thing thanks to my Dragonbone Tempering skill and overall higher level.
+
+Interesting…
+
+I controlled another needle toward its front paw, and it also went limp after getting hit once. The same thing happened for the other two limbs, and once I dropped it, the thing could only scream in pain and fear. It could only move its head, and part of its torso.
+
+Another needle passed through its neck, and its voice disappeared, replaced by an eerie quiet. Nothing moved anymore save for its soundless mouth and rapidly moving eyes.
+
+I see, so the needles can affect the spirit. This rabbit is very weak, so it only took one needle to cut off its spirit flow.
+
+I showed it some mercy by instantly killing it with a needle through the brain, then decided to cook it while I tested out the other skills.
+
+While I wasn’t as good as Mother at deskining and deboning, the fat legs had enough meat for me to be able to eat it like a chicken drumstick.
+
+That was a dark thought, but I was a Phoenix, not a chicken. A spirit tail chicken would be pretty tasty right about now.
+
+While the rabbit legs roasting over a small fire made using Phoenix Fire, I tested out Heaven’s Protection. Upon activating it, a small, invisible barrier enveloped my body. It felt sturdy, yet flexible and I had no other way to test it except…
+
+BAM!
+
+A tree shook as I dashed right into it, but the barrier didn’t do as much as tremble under the impact. Next, I flew straight into it, but the same result happened.
+
+However, I noticed a small amount of Qi getting immediately depleted upon impact.
+
+So it takes a certain amount of Qi depending on the severity? Interesting… Then—
+
+I turned it off and tried turning it on again, but I could only do that again after ten seconds had passed.
+
+The cooldown for Heaven’s Protection must be ten seconds then. Good to know.
+
+With those three skills tested and somewhat mastered, I devoured the rabbit legs and put out the fire, then activated Shadow Cloak.
+
+A thin barrier of darkness enveloped me, and as I walked it didn’t obstruct my view. I took note of my Qi reserves, and saw that it used about ten Qi per second to sustain itself. That meant that with my current Qi amount I could keep it up for just over four minutes.
+
+That was… really bad.
+
+I turned it off almost as soon as I calculated the expenditure, then began recovering my Qi.
+
+I have almost 2400 Qi and I can’t keep the technique up for more than four minutes? I thought I had good stats but damn…
+
+I didn’t know whether to laugh or cry. Me, the great Fa Xiaolan, having to rely on Stealth, and not only that… I didn’t have enough Qi to maintain such a basic technique.
+
+I’ll rob those motherfuckers of their Qi lake and make sure this never happens again!
+
+After recovering my Qi to full, I headed toward the lake. It was the middle of the night, but the light it gave off revealed its location like a beacon. The glowing flowers that fed off its energy also shone, which made my Stealth skill almost useless.
+
+However, if I activated both Stealth and Shadow Cloak, I would become invisible even while travelling through sources of light.
+
+As I walked closer, careful not to step on any god damn branches, I saw them. The five panthers slept lazily around the lake, as if they owned it.
+
+Well, there’s a new boss in town.

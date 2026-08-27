@@ -1,0 +1,147 @@
+---
+id: e69f500b-b169-52c6-9412-e6a21345d1ac
+page-type-slug: story-chapter-royal-road
+title: "Chapter 12: Run away, run away!"
+slug: 0012-chapter-12-run-away-run-away
+partOf: phoenix-ascension-cultivation-litrpg
+position: 12
+ownLength: 2610
+unit: words
+publishedAt: 2025-08-23
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2540705/chapter-12-run-away-run-away"
+royalRoadId: "2540705"
+---
+
+I didn’t move a feather, didn’t make so much as a slow chirp as I waited for them to lose interest. However, that strategy didn't work as well as I would have liked it to. Their sharp eyes pierced through my stealth skill so quickly that it was embarrassing. Without waiting for a second more to pass, I turned around and ran the opposite direction as their earth-shaking roars made my heart skip a beat.
+
+Unsure if they would follow after me or not, I rushed toward the nest. Maybe they had no interest in a Phoenix that accidentally stumbled upon their sacred land. From the looks of it, they weren't expecting anyone that walked in on them to be a threat, seeing as they had no one guarding the area.
+
+Even if they did follow me, I had the confidence of being able to evade them. My stealth skill allowed me to blend into the shadows extremely well, and once I was out of the Qi-rich area I would be safe. Besides, our territory wasn't that far away from here; if they had any semblance of intelligence they would scatter before mother saw them!
+
+Just like I had guessed, they didn't chase after me. Leaving such a treasure unguarded and taking on the risk of infuriating a Phoenix wouldn't be worth it for them in the long run. I halted and took a good look behind me, double checking, then headed back toward the nest.
+
+As I made my way through the forest, a grin couldn't help but form on my face. I gained a lot of invaluable things. Levels, and therefore stats, the stealth skill, Qi, and information about a very rich Qi lake in the area.
+
+The way that lake called to me lingered around my chest. It was almost as if it wanted me to absorb it and get stronger! I decided that it was fate, and started making a plan on how to sneak in and absorb it, or as much of it as possible. However, what I needed the most was strength, that way I could simply defeat the ash-colored beast and make the others run away.
+
+That wouldn't be so easy, though. I sensed that its strength was far above anything I had fought up until that point. Defeating it would be no simple matter, and it was getting stronger with each passing day! And I didn’t even have a Beast Core!
+
+The few beasts I killed had them, besides the chicken. I wasn't sure if the vulture had one, but its low level and meager strength told me it didn't. Besides gathering Qi or training my body, I didn't know of any other ways to gain strength.
+
+Well, there are a few more now...
+
+I thought, remembering System and its levels and skills. It remained veiled in mystery for the moment, and probing it for information proved useless time and time again. System only told me what it wanted to, and it didn't respond to my every need like a Treasure Spirit would.
+
+That made me believe it was some sort of spiritual and autonomous artifact, but even then, it shouldn't have such power and influence over the world. The only logical conclusion I could come up with was that System was like a law of the universe, rather than something that abided by it.
+
+Thinking about such complex theories made my head hurt a little. Whether it was the universe telling me to stop thinking about it, or my brain being too small for such complex thoughts, I wasn't sure.
+
+My thoughts shut down as I reached the base of the tree upon which stood our nest. Its massive height towered over most of the other trees in the area, so finding it proved to be easier than I thought. The most difficult part would be getting up, though. Not because I couldn't, but because I had to jump and claw my way up.
+
+I had already calculated that I could do it, though, long before the level up, it just took time. Hence, starting the climb as early as possible would be the most optimal decision. I wanted to get up there before mother came back with her hunt.
+
+Without wasting any more time on useless thoughts, I began the monumental task of climbing back up. Jumping from branch to branch, and biting down on thinner threads to swing around, I climbed as high as I could before having to truly use my claws.
+
+I wished so badly for my wings to be more than decoration, but that was asking for too much. I theorised that it would be a few weeks before I would be able to fly... but when I could finally take to the skies...
+
+"Ah, damn—" I exclaimed as my talon slipped, almost making me fall from at least five dozen feet up in the air. The wind at the top was much chillier than at the bottom, in a weird twist of fate, and the air was much thinner too. Luckily my body was built for such environments, but that didn't make it any more enjoyable.
+
+I paused briefly, gasping for air before continuing up the thick trunk. There were some burrows scattered here and there, which I used to rest for a few minutes before recommencing my climb.
+
+By the time I reached the top of the nest, the sun had already set. Luckily mother hadn't returned yet, so I had some time to rest before needing to dodge her questions. Well, I couldn't understand her at all, but I was sure there were some questions to be dodged.
+
+That made me think, though, and I couldn't help but voice my question. "System, why can I not understand mother?"
+
+[You have not yet learned the language.]
+
+Well, that made sense. I guessed that learning the language took a long time, and it would happen naturally as I grew older, but I wanted to talk to her properly already.
+
+Besides, I'm sure she had plenty of answers to all of my Phoenix-related questions. She might even know something about System! Therefore, speaking to mother as soon as possible became my priority. Some part of me hoped that there would be a skill for that, and I asked System as much.
+
+[Universal Language will be acquired at level 5.]
+
+That piece of news made me feel better. I wasn’t that far away from reaching such a high level, and I only had to wait a little more to get it. So far I've been killing Spirit Beasts, but most of them were on the weaker side, and consuming them didn't give me any XP either. That meant I had to hunt more, or hunt better.
+
+A heavy sigh escaped my beak as I slumped on the edge of the nest, where I had made myself a nice, comfortable spot to sleep and nap in from the chicken feathers. Mother pulled them out one by one and constructed a miniature nest that would last me for a few weeks, until I grew too big for it. I wished I could thank her properly right at that moment.
+
+It did the job for the moment, though, and it was quite comfortable to sleep in. I stared up at the moon, its soft light kissing my feathery face; then my gaze wandered from one star to another. As I found myself lost deep in thought, a realisation fell upon me.
+
+"System," I chirped, shaking myself awake. "How much would it cost just to learn Phoenix language?"
+
+[No such skill exists.]
+
+"System. I am not asking whether it exists or not. I am asking how much it would cost for me to buy the ability to speak mother's language."
+
+[No such skill exists.]
+
+"System... You can just create one, right?"
+
+[I don't have the power to influence the greater system.]
+
+"Tch," I clicked my tongue and let out another sigh. It was worth a try. It looked like the only way we had to communicate for the moment was coos, chirps and head nudges. Slumping on my bed and gathering myself into a feathery ball, I rubbed my wings against my body to generate heat and waited for mother to arrive.
+
+It didn't take long for her massive frame to appear from beyond the clouds, her beautiful plumage creating an orange trail of fire as she flew straight toward the nest.
+
+I got up from my comfortable spot and rushed over to greet her, and a smile manifested in her eyes as she put down the massive meal she brought. It looked to be some sort of bear covered in thick fur, with even thicker and somewhat sharp claws.
+
+It looked like it died from a clean blow to the neck, as the most prominent wound was placed at the place where the skull met the spinal cord. I noticed that mother always killed her prey like that, or if they weren't dead, they would remain paralysed until they arrived at the nest.
+
+It was quite a cruel way of gathering food, but however Spirit Beasts decided to kill each other was none of my business. What mattered at the end of the day was that I ate. Though, I wondered if her catching them alive then bringing them here and letting me kill them would count as my kill? If so then that would be amazing.
+
+Another reason why being able to understand each other would be very useful. But I only need to wait a little more.
+
+I wasn't even sure how I could use my body to tell her that I basically wanted her to bring the prey back alive but unable to fight. Regardless, it wasn't time for the meal yet.
+
+First I stood next to mother and looked up at her, my big eyes meeting hers, and she lowered herself to wrap me into a warm hug. Mother's hugs filled me with an incredible warmth, and I couldn't help but long for them even when she was gone.
+
+She let out a few gentle coos, before sniffing me and making sure I was alright. However, she stopped after a moment, lifted her head, and glared at me.
+
+I gulped. She noticed.
+
+Hiding the fact that I went into the forest would be difficult, as the smell of grass and foliage was much thicker than the smell of hay and clay. I made the best impression of a blameless chick, and blinked a couple of times at her.
+
+If there's any moment for the absurdly large charisma stat I have to work, this is it!
+
+I felt her fury rise, then diminish as she looked at me for a few seconds. She shook her head and let out a sigh, then walked toward the bear-like creature and began opening its stomach for me.
+
+The process was every bit as disgusting as ever, but I couldn't deny that I began warming up to the taste of raw meat and organs. It wasn't the best, of course, but at least I wasn't gagging anymore every time I took a bite.
+
+However, the beast turned out to be far too big for me to eat in one go, and I couldn't even get to the Beast Core. Given the fact that it was way bigger than me, I supposed mother would help me eat from it or preserve it for the next few days. Not to mention that I'd already eaten quite well, so there wasn't room for much more in my stomach.
+
+I thanked mother in the best way I could— by bowing my head and letting out a short chirp of gratitude. If I could actually speak her language, it would be much easier, but that was still a challenge I had yet to overcome.
+
+To be honest, whether or not I could learn it remained a mystery, as I wasn't exactly interacting in a way a normal Phoenix would. What if I could never understand mother? Would she think I'm too stupid and leave me? That would be quite a disaster...
+
+I didn't think too much about it, though I didn't want to. If I could communicate with her using words, all the better, if not, then it's not like I lost anything.
+
+Making my way over to the spot mother made for me, I snuggled my fluffy body within the feathers and got comfortable. It would soon be time to sleep.
+
+I watched mother tap the corpse several times, placing Qi in key points within the body and creating a barrier that would act as an insulator of sorts. It would keep the elements away from the corpse for a while, making it so the decomposing process started later.
+
+She walked over to me after she finished, sitting behind me, then placing her neck around my body to keep me warm. It was a very good feeling, being loved and protected like that. Some part of me screamed to get away and leave, to not get comfortable, but I didn't listen. The current me was content with receiving as much love as I could, whenever possible.
+
+I really wish I could tell her how much I appreciate it… That’s it, I’m getting that skill before morning!!
+
+As night fell, and mother slept soundly, I snuck out of the nest. Careful not to make any noises, I avoided her senses, or, at least I thought I did.
+
+While still not perfect, I could see through the darkness fairly well. The light of the moon scattering on the ground helped a lot as well. Pairing that with the Stealth skill, I had confidence in being able to sneak around undetected, as long as I was careful.
+
+It didn’t take long for me to find my prey— a large creature without any fur, whose eyes glowed in the darkness. They reminded me of a feline, but the way their tail moved like a snake’s and pink skin made me doubt it was any sort of animal I knew. It was about as tall as a human toddler, and drool dripped out of its stinky mouth.
+
+One thing that creeped me out was the cloth hanging out of its mouth. While I couldn’t see it well, it looked to be a cultivator robe, similar to the ones I saw before mother turned them to ash.
+
+Are there more cultivators around? I asked myself, but pushed that thought aside, focusing on the task at hand.The thing hadn’t spotted me yet, and I could sense the stealth skill gaining experience as I followed it from behind. I tried to locate its weak spot, though besides its underside and head, it didn't seem to have anything else. I had to strike swiftly.
+
+Preparing both my Nirvanic Flames and Iron Claws, I crouched, ready to attack at the nearest opportunity. It took no more than a minute for the beast to stop and sniff the air, and that’s when I sealed its fate.
+
+By the time it realised it had been stalked, it was far too late, and with a quick jump, I plunged my talons deep into its neck. They sank as easily as a hot pyke through ice, and it felt just as satisfying.
+
+Flames burst out from them, exploding inside its neck, and before it could even realise that it died, its neck exploded from the inside out.
+
+“With the wave of my wing, I, Fa Xiaolan, reduced this enemy to ashes!”
+
+[You have slain [Wolfhar] Level 4.]
+
+[XP Acquired]
+
+[Phoenix Chick Level 4 has become Phoenix Chick Level 5.]

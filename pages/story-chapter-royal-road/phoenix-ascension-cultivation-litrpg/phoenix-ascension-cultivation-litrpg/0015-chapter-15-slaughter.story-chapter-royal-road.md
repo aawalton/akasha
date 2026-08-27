@@ -1,0 +1,183 @@
+---
+id: 1b49cf35-fc63-571e-8e3c-09fc22d61672
+page-type-slug: story-chapter-royal-road
+title: "Chapter 15: Slaughter"
+slug: 0015-chapter-15-slaughter
+partOf: phoenix-ascension-cultivation-litrpg
+position: 15
+ownLength: 2687
+unit: words
+publishedAt: 2025-08-27
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2551843/chapter-15-slaughter"
+royalRoadId: "2551843"
+---
+
+Two weeks had passed since, and I couldn’t take my mind off of the event. When I checked back the day after, all traces of fighting had vanished. The headless corpse, and the head, had disappeared like ash in the wind, and even the bloody grass had been cleaned up.
+
+After rummaging through my memories, I realised that one of them held the symbol of the flying sword— the one I saw earlier during my first hunting trip —and the other wore another symbol on her robe. Were they two sects that had a falling out?
+
+Either way, I couldn’t confirm my suspicions.
+
+I was pretty sure mother had cleaned it all up, as she seemed to know how to do that well. Part of me wondered if that was what she meant when she said she’ll take care of it, but I never asked.
+
+Keeeee
+
+I looked down, awoken from my thoughts by a tiny rabbit-like creature. Its body was covered in a half fur, half-scale material that was both hard and flexible, and proved to be a challenge to penetrate through without my Iron Claws.
+
+It currently sat in a pool of its own blood as I fell into deep thought upon seeing it. It reminded me of the scene of the man dying, but no more.
+
+I pressed hard with my talon, which rested atop the creature’s head, and pushed down until I heard the satisfying crack of a broken skull. It stopped moving, and the notification confirmed its death.
+
+[You have slain [Rabbet] Level 2.]
+
+[XP Acquired]
+
+Rubbish…
+
+I shook my head, disappointed with the kill reward, but threw it on my back anyway. The only reason I killed it was because it got startled and cried upon noticing me while I was stalking another Spirit Beast. It ran away, so I could only make do with the lesser prey for my efforts.
+
+Its ability to see me interested me though, so I decided to bring it back home. Not to mention its fur had interesting qualities I wanted to know more about.
+
+I broke into a sprint, pushing the grass aside as I practically flew above it. It once stood taller than me, but now we were about the same size. The chilly wind brushed past my growing feathers and falling puff, and the lighter than air feeling my mother seemed to have began to grow within me. Soon, I would be able to fly, and with that, my plan to absorb the Qi lake would come to fruition.
+
+I’d already reached the Third Stage of Qi Condensation, which took me way longer than I would have liked. A Spirit Beast’s body simply wasn’t made for cultivating spiritual Qi. However, that would never stop me from doing it.
+
+The fourth stage was a huge bottleneck for any cultivator, and even for me, I guessed it would take a little bit more effort to break through.
+
+However, the speed at which I absorbed Qi simply wasn’t enough. I needed something more… the Qi lake.
+
+I just needed to do a few extra things, such as leveling up my stealth skill. It was part of the reason as to why I even bothered to stalk my prey, which made the rabbit’s ability to see me even more curious. I figured mother would have more answers, so I hurried back to the nest as fast as I could.
+
+I let out a sigh, though, as yet another wave of serpents decided it was a good idea to attack me.
+
+Ever since I killed that prince or whatever, wave upon wave of cannon fodder has followed me wherever I went, trying to kill me.
+
+I’d just about gotten tired of that.
+
+Seeing the scouts, guards and regular Jade Serpents charge toward me— at least three dozen in number —I frowned.
+
+“Those who block my way… die.”
+
+Nirvanic flames infused Iron Claw took care of the first six, then- I waved a series of hand, er, wing signs, and summoned the actual Nirvanic Flames in the form of a fire serpent. It rampaged through the lot of them, killing at least seven before dissipating.
+
+The rest had been taken care of with my Pecking skill and regular swipes, and whatever hits I took meant nothing under my Strengthened Constitution.
+
+I ignored the notifications of the kills, as I didn’t even level up, and walked away, leaving a mountain of corpses behind. Some of them were whole.
+
+As I neared the nest, I couldn’t help but realise that the number of strong beasts in the area had greatly diminished. Ever since the humans intruded upon our area, it grew quiet. I guessed that was another thing mother did to ‘take care of it’. That bothered me a little, though, as my level had stagnated for a while.
+
+It didn’t matter how many lower level beasts I killed, the XP didn’t seem to be enough for another level up. I sighed inwardly and kept going.
+
+As I climbed the nest, I noticed mother had already arrived back home. The sun had yet to set, so I wondered what she was up to so early. She didn’t bring back any other beast either, which meant that my only meal would be the rabbit I brought back.
+
+After putting the hunt down, I moved closer to her and grabbed her leg into a hug. Despite how much I’ve grown these past few weeks, I still couldn’t reach her thigh. “Mother, you are home early.”
+
+“Some things happened.” She said after a moment of silence, then bent down and pressed her soft head against my body. “Humans.”
+
+“Humans?”
+
+“They’ve gotten bold, they started invading my hunting ground. It’s near a mountain, they must think there’s some sort of treasure there. The greedy fools. The only treasure they’ll ever find is the rotted sap of a dead tree!”
+
+“Did they see you?”
+
+She shook her head and continued with a reassuring tone, which turned to anger upon mentioning the humans. “No, but even if they did I would burn them to ashes before they could call for help. They’ll go away soon. I’ve heard there’s some sort of battles going on in their lands and some of them are getting desperate."
+
+“Battles…” I missed those. I haven’t had a good fight in a long enough time to make my fists… feathers, itch.
+
+“Ichel told me, and they told me it’s bad. Some sort of demonic cultivator rose amongst the righteous sects and razed a lot of them off the face of the planet. I don’t know why they have to keep invading our territories.” She paused and let out a light sigh. “We’ve grown soft, Little Flame. We’ve grown fearful.”
+
+That insect Spirit Beast… How does he know so much anyway?
+
+Ichel was the guy that brought us the tiger back when I first woke up in this world, and also the one that’s helped us relocate after humans found traces of mother’s nest.
+
+I still didn’t know how they’d found it in the first place, and I really hoped it had nothing to do with the beam of light I sent out that day.
+
+I just didn’t understand how he was so resourceful and authoritative over the doings of the forest, when mother was a literal Phoenix.
+
+“Anyway,” she walked toward the rabbit, changing the topic. “Is this what you hunted today?”
+
+“Ah, yes. I wanted to find something else but this guy saw right through my stealth skill. And the serpents came again.”
+
+She cocked her head upon hearing that, and took a closer look at the corpse. “Is that so? Interesting. Normally these things shouldn’t have enough perception to see through it, they don’t grow very strong. And I swear, these Jade Serpents. Do you want Mother to take care of them?”
+
+“No, it’s alright.” I said, thinking for a moment. “I think I’ll do that. It's about time they stopped pestering me. And regarding the rabbit, yeah, it was really weak, so I thought you may know why?”
+
+Mother nodded approvingly to my first statement, then shook her head at the second. “I don’t, but it may have been a mutation of sorts. It’s rare, but not impossible.”
+
+I could only nod and accept her explanation. I didn’t know how true that was, but strange things were always bound to happen. Especially in a cultivation world. I ate the rabbit, but it didn’t give me any benefits besides satiating my hunger.
+
+Most Spirit Beasts I hunted did little to help my growth, as I had grown to be on their level or way above. What I needed were stronger opponents, or a way to absorb a lot of Qi at once, so I can achieve a huge breakthrough. But the Qi lake lying in the middle of the forest kept calling to me.
+
+I had to have it, no matter who was guarding it.
+
+Sadly, my leveling has slowed to a crawl. There were no strong Spirit Beasts in the area anymore, and my hunting time has decreased drastically as well. Mother must be right about the humans disturbing the forest. Perhaps hunting only one thing at a time decreases the experience gained? I would need to experiment… and I would start by slaughtering that damned snake’s entire fucking race.
+
+I still hadn’t forgotten how it poisoned me even after dying, forcing me to burn the poison out of my blood with fire. For that, I swore I would make them pay, and pay they will.
+
+“Mother, I killed a snake a few weeks ago. I think you should remember it. I was wondering where its nest would be?”
+
+Mother turned to me and cocked her head. “Well, underground usually, they shouldn’t be too hard to find. Why?”
+
+“I haven't gained a single level since a few weeks ago, and the prey around here has gotten weaker and weaker. I can’t train like this.”
+
+“Oh, then you should be level five then. It’s a sort of threshold for us, and a lot of things will change after you achieve it, that’s why it takes so long to get to the next level. Don’t worry about that, but if you want to speed that up I suppose a mass killing would work. Mother will help you find those snakes. I assume you didn’t have a good experience with it when you tried eating it?”
+
+I shook my head, confirming mother’s words. “Really nasty things, I swore to kill off their entire race.”
+
+“Hmm, that might be a little difficult, but you can definitely try. This forest isn’t big enough for them to hide from my Little Flame’s wrath.”
+
+I nodded, flapping my wings in a fierce fashion. “That’s right. I’ll take care of all of them. Tell me mother, how do I find them?”
+
+…
+
+The moonlight scattered through the dense foliage of the forest. I used the darkness to its fullest, keeping my stealth skill active all throughout while looking for signs of a snake’s nest. I also chanted the Ghost Qi mantra in my head, absorbing every little bit of Qi I could.
+
+I felt myself getting closer and closer to a bottleneck, and I wanted to use the Qi lake to break through and rush through the stages. Then I could take my sweet time consolidating my foundation.
+
+The large well inside my dantian had to become a lake, which would then need to be stilled, flattened and appeased. It would need to be stable for it to be able to grow larger and larger. Otherwise, without a solid foundation, it might overflow and collapse.
+
+A sudden rustling sound brought me out of my thoughts, and I turned only to see another chicken walking about. It ran away as soon as our eyes met, and I kept focused on my goal.
+
+Mother explained that nests would usually be found at the root of the trees, with a hole only as wide as my leg. Those snakes could fit into holes many times smaller than their body, which sounded both horrifying and interesting.
+
+Another sign of a nest would be patrols slithering about, making sure to keep predators away. They were supposed to be strong, which was exactly what I needed.
+
+I had a lot of confidence in my Nirvanic Flames and Iron Claws, and even my Phoenix Fire and the rarely used Evasion skill. Not to mention I also had the Poison Resistance skill, acquired from the very first Jade Serpent Core I'd absorbed. It happened to be the only one as well, as the rest of the hodder had nothing except useless meat to offer.
+
+Even if they injected me with venom, I had confidence that my frigid Qi and fire would get rid of that at the cost of some of my HP.
+
+“Where are you, stupid fucking snakes?”
+
+I looked under every tree I could find, but much to my dismay, there were no snakes to be found. I didn’t know what sort of miracle was necessary for me to stumble upon one, but it only fuelled my drive to keep searching.
+
+As time passed, my search got less and less fruitful, and I would have to return soon. That thought didn’t tickle my fancy, as I wanted to harvest these fucking bastards and level up. I desperately needed more skill points so I can purchase that Dragonbone Tempering Technique. It had been on my mind ever since I first saw it, and I knew I had to have it.
+
+Nevertheless, I had enough points to buy it, but I didn’t check the Skill Shop recently, and I also wanted to have at least ten Skill Points in reserve in case I needed them. I was level five, so that would be twenty five skill points. I had spent five for my Nirvanic Flames, which was a genuine rip-off, and another five for Strengthened Constitution, which meant that I only had fifteen skill points left.
+
+Enough for one skill, but not for any emergency.
+
+Hisssssss….
+
+The sweet sound of a snake whose tail got stepped on echoed in my ears, awakening me from my thoughts. I looked down and saw one of the Jade Serpent guards slither away. It called for backup at the same time, and soon about a dozen or so of the fuckers surrounded me.
+
+“Alright then, bring it on you dimwitted green hat wearing bastards!” I screeched, and I was pretty sure they understood me due to the Universal Language, which wasn’t a skill or anything, but simply was. That meant that I could converse with any Spirit Beast granted they had the required intelligence.
+
+These snakes didn’t seem to have any, though.
+
+Nirvanic Flames burst out from my wings, engulfing the entire area in a sea of fire that burned everything that it touched. Grass, insects, bushes, the earth and especially the Jade Serpents.
+
+[You have slain [Jade Serpent Guard] Lvl. 2] x 6
+
+[You have slain [Jade Serpent Guard] Lvl. 3] x 5
+
+[You have slain [Jade Serpent Guard] Lvl. 4] x 2
+
+[XP Acquired] x 13
+
+“No level up? Are you kidding me? What is this XP threshold?!” I groaned, and looked for the opening of the nest at the base of the nearby trees. Since the guards showed up around here, that meant that the rest of them should be really close.
+
+It only took me a minute to discover it, and it was just like mother had said; the hole was way too small for anyone but them to slither through. That was fine, though, as I had no intention of going inside.
+
+After checking that I had enough mana, I rubbed my wings together and picked apart as much of the entrance as I could. That proved to be a task that required me to use Iron Claws, as the surrounding earth had been hardened by something.
+
+Regardless, after doing that, it only took me a second to prepare my offense. Whether they wanted to or not, these damned snakes would become fried meat!

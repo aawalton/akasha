@@ -1,0 +1,313 @@
+---
+id: c7739c42-df64-59d7-bacf-a63aeb319796
+page-type-slug: story-chapter-royal-road
+title: "Chapter 129: Ginseng"
+slug: 0129-chapter-129-ginseng
+partOf: phoenix-ascension-cultivation-litrpg
+position: 129
+ownLength: 2354
+unit: words
+publishedAt: 2026-05-20
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3424459/chapter-129-ginseng"
+royalRoadId: "3424459"
+---
+
+Yet another victim would fall to my great talons, I told myself, sneaking with all my stealth skills. I was on top of a tree, watching some sort of large rodent chew through dirt. I wasn’t sure why it was chewing dirt, but its level told me that it knew what it was doing, at least.
+
+[Prodigeous Rat, Level 35]
+
+A level thirty five giant rat wasn’t something you saw everyday, and it was the first time I’d seen one. Meng Mao wasn’t lying when he said that this forest had strong Spirit Beasts.
+
+There were creatures rivaling the otter, though that one was just a cheat. However, I saw some level forty and even level forty five beasts just on the edge, and I didn’t even go deeper in. Matter of fact, this was the only Spirit Beasts I’d seen so far that I could actually fight.
+
+That was quite a bummer, but it was better than nothing.
+
+Relying on the awesome Assassination Skill and my own self-buffs, I swooped down from the shadows. The rat was still digging, almost as if it hadn’t heard me. That worked well in my favor, as it was time for me to try something I hadn’t before.
+
+It was a Bloodline skill that I got some time ago, Elemental Mixture. Figuring out how to use it on a roughly equal opponent would be a good chance of pace from my usual habits. However, old dabits died hard, now I just improved them.
+
+Activating Blade Wing, I coated my wings with fire and lightning, making use of the new skill. They merged together harmoniously, making for a deadly paralysis and burning combination.
+
+My attack descended onto the rat’s neck, or at least where I thought it was, and-
+
+IT HURT!
+
+I did do some damage, but overall, its skin felt like it wasn’t made of flesh, but jade!
+
+I quickly pulled back, expecting a counter attack of sorts, but the rat… just kept digging. I was flabbergasted!
+
+How could it so easily ignore my attack, there was a wound on its neck! It was shallow, yes, but it was still bleeding. I created a large fireball of Nirvanic Flames, and sent it straight at the wound.
+
+The smell of charred flesh and burning fur spread through the air, and the rat was clearly taking damage, yet it was still digging.
+
+It had been digging since before I spotted it, and kept going even after attacking it. Just what was so important that digging took priority over its own life? I got curious.
+
+Although I wasn’t sure at which point would the rat finally realise its life was in danger. It didn’t matter, since I was going to kill it anyway.
+
+Winning like that felt really cheap though…
+
+Ah, whatever…
+
+I let out a sigh hit the old wound with a Tail Whip, at which point something changed.
+
+The rat let out a squeal of anger as it finally broke out of its stupor, and a gentle light surrounded it as turned to face me.
+
+I noticed the wound I made at the back of its neck closing rapidly, and didn’t hesitate to take to the skies. I wasn’t about to get killed by an onversized rat.
+
+Flying high, I used Pyro Breath under Nirvanic Flames and rained it down from above. The range was big, but rather focused.
+
+The moment I did, though, the rat squealed angrily and moved to protect whatever it was digging toward. At that point I wasn’t sure wether to laugh or cry.
+
+Well, I couldn’t do either, so I kept damaging it. Whatever wounds I did to it kept healing though, and it was at that point that I decided that it was time for me to stop caring about the fight. It wasn’t going to be fun, and I would much rather just see what it was trying to get at.
+
+I summoned a pair of dragons made out of fire and lightning while keeping my breath active, though it was starting to hurt my throat.
+
+When the dragons attacked, biting, burning and paralyzing the beast as it squealed, I stopped my breath attack and swooped down using Aerial Dive. A well placed Peck at both its eyes took them out, though I doubted it was actually using them.
+
+However, the pain it felt was definitely real, and it annoyed him. Those didn’t start healing immediately, though there were signs it could if it had enough time.
+
+What sort of healing is this?
+
+Activating Iron Claws and imbuing fire into them, I flew up, swooped down and grabbed at its neck where the original wound was still healing. I squeezed, my claws digging into its flesh as it struggled and then…
+
+[You have slain Prodigeous Rat, Level 35]
+
+[XP Acquired]
+
+It was quick, since it didn’t actually fight and I found its spine rather easily. There were few creatures that could survive after such an attack.
+
+After its body went limp, I got off of it and pushed it aside for the moment. I needed to see what it was so desperately digging at.
+
+It took some effort, since my body was smaller than it, but I managed. When I finally saw what it was doing, well, I was a little surprised.
+
+There was a hole, a fairly deep hole, and the stuff didn’t look like normal dirt either. The texture was more like that of a stone, or a rock of sorts, and there were many scratch marks. Whatever it was that the rat wanted to get to was really well hidden.
+
+I decided that I wanted it too, but my talons were better at digging than its tiny paws. Either way, it only took me a few minutes to do what it was wanting to do for… who knew how long honestly.
+
+It wasn’t as clean, and it wasn’t pretty, but it was fast and tidy. When I finally got to the end of the rock, I found something buried rather deep.
+
+At first glance it wasn’t easy to identify, but after pulling on it enough, I discovered that it was something rather valuable.
+
+It was a ginseng. Not the type of ginseng Yo Na’s elixir required, but a very precious one nonetheless. With five stalks and countless hairs, I could identify it without the aid of the system.
+
+It was a Five-
+
+[Thousand Rock Ginseng]
+
+Thousand Rock Ginseng, of course.
+
+Well, I could sense the rich Qi emanating off of it, and I could guess its age to be in the hundreds at the very least. I couldn’t fully appraise it, but I threw it inside my dantian for better keeping.
+
+I didn’t really have any use for it, but I was sure it would sell for quite a good amount. Just as I pulled my consciousness out of my dantian, I noticed the Yo Na’s son twitch.
+
+Oh no!
+
+Before I could react— which was rather impressive, since it was inside my dantian— the little emperor opened its gaping maw and swallowed all the Qi from the ginseng.
+
+A blink later, and it shriveled up and died. When I took it out for inspection, it became dust that floated in the wind.
+
+And the worst part was that the little emperor didn’t even show any signs of waking up. He just ate my treasure and went back to napping!
+
+Well, now I knew not to store anything in my dantian unless I wanted him to eat it…
+
+Putting away the slight disappointment, I turned back and stared at the dead rat.
+
+I… didn’t want to eat it. It was ugly and didn’t seem that apetising…
+
+Whoever wants it, I’m not that hungry anyway…
+
+I did make the effort of digging through the body and grabbing the core, though.
+
+I immediately absorbed it without even waiting for the system prompt. It seemed like it wasn’t important enough to warrant a warning.
+
+[Prodigeous Rat core has been absorbed with 75% efficiency.]
+
+[+22 Strength, +15 Dexterity, +10 Perception, +20 Charisma, +19 Intelligence]
+
+The moment I absorbed it, I’d felt the small increase boost my body, but also felt the energy go straight toward my own core. It was… a lot.
+
+A lot more than usual anyway.
+
+It was to the point that I actually felt a physical, or meta physical change, and much to my delight, received a notification!
+
+[Dormant Core VI has become Dormant Core VII!]
+
+Amazing, simply amazing! A single core has boosted me a whole rank, whereas before it didn’t. Maybe the quality mattered a lot more than I thought.
+
+It was worth doing more tests. Just like levels, I needed higher quality cores and stronger prey to make any meaningful advancement.
+
+Well, it was obvious, but still. Stronger prey also meant tastier meat… With the exception of the rat.
+
+I took off to the skies, intending to look for more Spirit Beasts to hunt, but the sun was almost setting.
+
+Seeing that, I turned toward the city. I wanted to get my Spirit Stones, as one could never know when they would be useful.
+
+However, I was excited for tomorrow, especially considering I didn’t have that much time of freedom left, at least until I got what Meng Mao wanted.
+
+While flying, I decided to take a look at my skills, since it’s been a while.
+
+Active Skills
+
+[Peck: Intermediate]
+
+[Nirvanic Flames: Expert]
+
+[Iron Claws: Master]
+
+[Strengthened Constituion: Expert]
+
+[Stealth: Intermediate]
+
+[Tail Whip: Intermediate]
+
+[Lord's Call: Novice]
+
+[Side Step: Expert]
+
+[Myriad Qi Needle: Intermediate]
+
+[Shadow Cloak: Intermediate]
+
+[Heaven's Protection: Master]
+
+[Dragon Flames: Expert]
+
+[Stamina Conversion: Novice]
+
+[Perfect Disguise: Intermediate]
+
+[Lightning Dragon: Intermediate]
+
+[Self-Shroud: Beginner]
+
+[Aerial Dive: Novice]
+
+[Last Stand: Novice]
+
+[Mad Charge: Novice]
+
+[Telepathy: Novice]
+
+Passive Skills
+
+[Evasion: Master]
+
+[Poison Resistance[Greater]: Intermediate]
+
+[Dragonbone Tempering: Expert]
+
+[Pain Tolerance: Expert]
+
+[Water Breathing: Novice]
+
+[Overeater: Intermediate]
+
+[Stamina Regeneration: Novice]
+
+[Mental Fortitude: Intermediate]
+
+[Lightning Resistance: Expert]
+
+[Pack Leader: Novice]
+
+[Split Focus: Novice]
+
+[Assassination: Novice]
+
+[Paralysis Resistance: Novice]
+
+[Balancing: Expert]
+
+[Paralysis Resistance: Intermediate]
+
+[Lightning Proficiency: Novice]
+
+[Meditation: Novice]
+
+Bloodline Skills
+
+[Phoenix Fire: Expert]
+
+[Phoenix Reflex: Intermediate]
+
+[Ember Step: Expert]
+
+[Elemental Wave: Expert]
+
+[Precise Flame Control: Intermediate]
+
+[Paralyzing Screech: Expert]
+
+[Burning Wind: Intermediate]
+
+[Flaming Talons: Expert]
+
+[Pyro Breath: Beginner]
+
+[Blade Wing: Expert]
+
+[Water Shot: Novice]
+
+[Water Barrier: Novice]
+
+[Order: Novice]
+
+[Ruler's Order: Novice]
+
+[Flaming Rebirth: Novice]
+
+[Elemental Mixture: Novice]
+
+There were many skills at the Novice rank, which was an issue. Despite the fact that I had so many skills, I scarcely used them, and the passive skills seemed to have halted in their progression as well.
+
+Without proper fights and challenges, I would stall forever, and that wasn’t something I wanted.
+
+Thinking back to that nascent soul bastard and the coalition of sects, and just how far away I was from their level, my anger flared.
+
+I was not going to be content with such mediocre progress, I needed to get strong and eradicate them from the face of the earth. Only then would I be satisfied.
+
+With that thought in mind, I stopped my flight and turned back toward the forest. Spirit Stones would not go anywhere while I got stronger.
+
+***
+
+The peak of the mountain where Fa Xiaolan had fought for the Moon Bloom was rather quiet. The light of a quarter moon shone down upon it, and it was otherwise uncopsicous. Ye Mo walked slowly, taking in the Death energy. It was faint, but it was there.
+
+Somebody had died there recently, or many somebodies. There was no corpse, but he could tell a fight had taken place there.
+
+He knelt and closed his eyes, trying to picture what had happened, but there were too many people, it was hard.
+
+How had he not noticed such a large fight? He knew that the Moon Bloom was sought after, but not many people would ever risk their life to get it. It wasn’t such a rare plant, though harvesting it in its peak condition was by far the best option.
+
+Unfortunately, he had no luck in figuring out who or what fought there.
+
+However, he’d caught a trail, a very minuscule one, of the thing he wanted.
+
+Following it lead him down through the terrain. For the average cultivator, traversing it would be difficult. But he wasn’t average.
+
+Swiftly making his way down, he found himself at the opening of a cave reeking with the stench of Phoenix.
+
+He smiled and walked inside, quickly figuring out that the Phoenix had stayed there for a period of time.
+
+Ye Mo had to admit, he was disappointed in himself. Had he been quicker, he could have found it faster. After a certain time, though, divination anything about it had been difficult. He had a stroke of luck by finding and purchasing the feather at a frankyl exhorbidant price. However, it led him to the Hu Village, and it would lead him further as well.
+
+He took out a piece of chalk and drew a pentagram on the ground, and in the middle of it he placed the feather. It was shimmering with a brillian red and orange hue, and no matter how many times he saw it, he would be forever impressed.
+
+But that wasn’t why he pulled it out.
+
+With the feather floating in the middle, he channeled Qi and formed dozens of hand signs in a repeated motion, and strange runes began forming in the chalk. Slowly but surely, they spread throughout the entire pentagram, then they began seamlessly moving toward the feather.
+
+When they did finally reach the feather, though, something strange happened. Strange as in, it should not have happened, but it did.
+
+The flow of Qi stopped, and flowed backward, slamming into Ye Mo’s buddy like a giant beast with mad charge.
+
+He flew back, blood spilling out of his mouth, as he stared with disbelief at the feather.
+
+“What?-”
+
+***
+
+“Achoo!” I let out a surprise sneeze, though I tried to silence it as much as possible. I couldn’t afford to be caught, not when a proper pray was sitting right below me.
+
+[Muddled Alligator, Lvl 38]
+
+It was time to get some levels!

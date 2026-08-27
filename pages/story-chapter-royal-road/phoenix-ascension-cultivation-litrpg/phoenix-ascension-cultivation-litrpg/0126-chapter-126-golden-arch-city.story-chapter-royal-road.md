@@ -1,0 +1,237 @@
+---
+id: cb74473e-ea41-5508-a459-7fab890e3145
+page-type-slug: story-chapter-royal-road
+title: "Chapter 126: Golden Arch City"
+slug: 0126-chapter-126-golden-arch-city
+partOf: phoenix-ascension-cultivation-litrpg
+position: 126
+ownLength: 2195
+unit: words
+publishedAt: 2026-05-14
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3393680/chapter-126-golden-arch-city"
+royalRoadId: "3393680"
+---
+
+“Go, Miss Li Hua, go!” Shu Xu Ning shouted from far away, watching Yo Na fight a Spirit Beast. Its claws were made of steel and its fur was ebony black. It had the general allure of a feline but with the strong build of a bear, and it wasn’t something she’d encountered before.
+
+The beast roared as it hit slammed against her human body with its large paw, sending her flying backward. She snarled and hissed, though kept her anger under control.
+
+However, regretful thoughts echoed in her head as he questioned herself.
+
+Why had she agreed to this?
+
+She could have went alone, even if she didn’t know where exactly the city was, she could have just figured it out eventually. However, that bird told her to accompany those humans, and now she was put in a bad situation.
+
+The reason was simple, she was a Spirit Beast, and she didn’t know how to fight using a human body.
+
+How is that bird so good at this?
+
+She hadn’t seen the bird fight per se, but considering what she’d recounted, then she was pretty good at being a human.
+
+On the other hand, Yo Na didn’t even know how to properly use her legs and hands, let alone channel Qi and fight. Without claws or fangs, and without the familiarity of the skills she used often, fighting was incredibly difficult.
+
+So why had these humans made her fight this Spirit Beast she couldn’t even describe with words?
+
+The explanation was simple, they were too scared! They were quaking in their boots, just because it was huge.
+
+How are you going to be a cultivator if you’re this cowardly?!
+
+She scoffed inwardly, and wished she could say it out loud, however, she couldn’t. Even though they’ve been travelling together for a few days, she hadn’t yet gotten the knack of talking.
+
+Yo Na remained silent at all times, except for grunting when fighting. She wasn’t sure what the others thought of her, but considering that she hadn’t fought in any one of the battles, maybe they thought she was a pushover?
+
+But if they thought that why had they let her fight the thing alone? Just the thought annoyed her.
+
+She would have much rather travelled by herself and be slower.
+
+Damned bird!
+
+When the beast charged at her again, she infused Qi into her hands and punched straight at its face. The speed was so quick that the thing couldn’t even react in time, and a spray of blood rained down as its skull exploded.
+
+[You have slain Dire Irebode, Lvl 29]
+
+[XP Acquired]
+
+Weakling…
+
+Yo Na became more aware of the texts that appeared in her face after the bird pointed them out. She didn’t hear a voice, like she did, but the whole thing was similar overall.
+
+Having had it since she was born, Yo Na never questined it, but after talking with the bird, she did realise some strange things. For one, the humans didn’t seem to have it. She hadn’t asked, not that she could or would have, but they never made any mention of it.
+
+She could only come to the conclusion that they were not aware of it.
+
+However, even after the bird had told her about it, she’d never taken the time to actually look at it. For most of her life, she’d thought of it as nothing more than something that was there, and never once did she think it could make her stronger.
+
+After she bought the skill that allowed her to turn into a human, though, and saw just how many options there were, her entire world had changed.
+
+She’d seen so many options, so many possibilities, so much of everything, that she wasn’t sure what to do anymore. Not to mention the amount of sheer points she had. It was an insane number, according to the bird, and she could use them to get even more powerful.
+
+That offer was tempting, but she’d never found the time to give it a thorough inspection. She would have to soon, since she was itching to figure out ways she culd become even stronger.
+
+Yo Na straightened herself and watched as the clothing the bird gifted her cleaned itself. Unfortunately, that wasn’t the case for her hair and parts that weren’t covered by the cloth, so she had to find a way to get rid of all the ichor.
+
+She sniffed herself and frowned.
+
+I really need a bath.
+
+She’d almost started to lick herself before switfly realising that she wasn’t in her original form, and the human tongue wasn’t all that useful at cleaning themselves.
+
+“Wow, Miss Li Hua, that was amazing!” The little girl exclaimed as she ran forward, her sword slamming into her leg. “How did you do that?”
+
+Yo Na, of course, didn’t reply. They were already used to that, and assumed that she was a mute or something of the like. None of the others were as curious as Shu Xu Ning, though.
+
+Even if Yo Na wanted to teach her, she couldn’t, so she simply shook her head.
+
+Xing Ya Chen headed toward the beast, cringed upon seeing the decapitated corpse, then proceeded to start the process of deskinning it.
+
+Yo Na would have simply bitten into it and ate it as it was, but humans needed it to be cooked or something. She didn’t care.
+
+Listening closely, she paid attention to the sounds until she detected running water. Her utmost desire was to clean herself off, the human way or the panther way. Water was required either way, since she was also thirsty.
+
+Heading off in a direction, the others didn’t pay her any mind. They most likely understood her intention, and if they didn’t, she didn’t really care anyway. They could follow her inside the river if they so desired.
+
+If they could catch her.
+
+After escaping their sight, she used the skill to turn back into a panther, the clothes morphing around her body and disappearing after her transformation finalised.
+
+She felt much better in that form, it was her best, most natural and most powerful form. Nothing could beat being a panther.
+
+Although she did like being tall, for what that was worth.
+
+Using her skills and superior mobility, she traversed the forest and jumped straight into the river. The water was cold, extremely so, but it felt nice. She had fur and skin, and a good amount of fat.
+
+The ichor washed off quickly, and she helped herself a little as well, cleaning off the grime with her tongue.
+
+When all was done and settled, she decided to relax a little and enjoy the sun. She got off, drained herself the best way she could, then basked in the sun on the shore.
+
+During that time, Yo Na decided to take a look at the stupid texts she didn’t know how to use.
+
+Following the bird’s advice, she called out ‘Status’ in her mind, and…
+
+[Name: Yo Na]
+
+[Race:Dark Panther]
+
+[Class: Shadow Assassin Panther]
+
+[Level: 41]
+
+[Hit Points: 8218]
+
+[Equipped Titles: None]
+
+[Bloodlines: Panther]
+
+[Beast Core: Pure Black Core]
+
+[Qi: 3858]
+
+Stats
+
+[Strength: 767]
+
+[Dexterity: 683]
+
+[Perception: 588]
+
+[Charisma: 316]
+
+[Intelligence: 495]
+
+[Skill Points: 128]
+
+[Skill Points: 220]
+
+Titles
+
+[Lord of The Forest]
+
+[Mother]
+
+[Domain Lord]
+
+[Dark Assassin]
+
+She didn’t really understand what any of that meant. Those numbers were pretty meaningless to her, but the bird said they were good. Somehow she felt that they weren’t all that good though…
+
+There were also those title thingies, but she had no idea how to use them. They seemed pretty good, though? ‘Lord of The Forest’ was definitely what she was, but how would she equip it?
+
+Hmm… equip?
+
+[Would you like to equip the title Lord of The Forest? Titles can only be changed after 24 hours have passed.]
+
+Y… Yes?
+
+[Title has been equipped.]
+
+So… what did that do?
+
+[Lord of The Forest]
+
+[Claiming supremacy over an entire land is not easy, but you have done it. The forest is your domain, its shadows your residency. While equipped, gain a massive stat boost while inside the forest you control. While equipped and when in someone else’s forest, they will treat it as a challenge.]
+
+Why am I getting a bad feeling about this?
+
+***
+
+“Can’t you move faster?” Meng Mao teased me, standing on his flying sword like a smug, arrogant bastard. As for me? I was flying, albeit slowly. The reason for that was simple.
+
+We’d encountered a flying beast in the sky, and after easily dispatching it, I took its core and ate it. Unfortunately, the amount of juicy, tender and delicious meat was too much of a temptation, and Overeater woklred harder than it should have. As a result, well…
+
+I gained weight, a lot of weight.
+
+And now Meng Mao was making fun of me for it. That guy sure was a bastard, what did he know about Phoenixes? Bah!
+
+I would have spat on him if I had lips.
+
+Nevertheless, I ignored his teasing and kept flying at a snail’s pace, or a fat Phoenix’ pace. Either way, we were going fast, so I didn’t know why he was complaining.
+
+Still, the fact that I was travelling alongside him still felt a little weird. But it would all be worth it eventually, for the Qilin horn!
+
+And for the Spirit Stones!
+
+I wished I could have attended, just to see how much I’d gained, but oh well.
+
+Thankfully I still had the identity token the Myriad Market had given me, so retrieval of my funds would be easy. With such an exorbitant amount of money, I could hopefully acquire what I need for Yo Na’s elixir. I hadn’t forgotten about the smug little emperor sleeping peacefully in my dantian just yet.
+
+I took a deep breath and looked down, admiring the sight. As a cultivator, I could always fly, but I never really thought about how amazing flight truly was.
+
+And I’d never felt as free as I did right then, flapping my wings and dragging my chubby body upward. Flying on a sword felt extremely constricting, and even later when I’d acquired the ability to ditch the sword, it just wasn’t the same.
+
+From up there, I could see a lot more than before. The Hu Village was nothing but a shadow in the background, the giant trees looked like small saplings, and the rivers were small streams.
+
+Speaking of rivers, they sure were long. No matter where I went, there was always a river or a branch of a river. Not to mention that the higher we went, the denser the Qi became.
+
+Not to mention that it was all pure, untainted Qi.
+
+I looked at the sight with wonder, and caught Meng Mao smirking at me.
+
+Giving him a questioning glance, he began explaining.
+
+“The rivers are the sources of Qi in the area. Most people believe that my city, Golden Arch City, is located at the source of the river, but in reality, they are wrong. Those with enough power know that this area, including the big cities, is just a small part of a greater whole.”
+
+He paused, but saw me stare at him, hungry for more information.
+
+Meng Mao chuckled. “In reality, the place where Golden Arch City is located is one of the areas with the highest Qi density, yes, but nowhere near the best.
+
+“Golden Arch City, Prosperity City, Emeral Grotta City, Martial City, Celestial Cloud City. Those are all the cities that have taken a spot at each of the biggest five branches of the river. However, besides those cities there are also sects.”
+
+Sects? My blood instantly began to boil upon hearing them being mentioned. I was sick and tired of sects, and if any of them were part of the team that hunted down my mother, I…
+
+“Are they the Five Great Sects?” I asked, my voice chillingly cold.
+
+“N-No.” Meng Mao replied after a second of consideration. “Those five are not part of this eco system. Truthfully, calling themselves great is disingenuous. They’re also nothing but small players.”
+
+“I see.” My anger settled after he cleared things up, but I still wasn’t happy with the idea of sects. I never liked them.
+
+“So as I was saying, there are five sects situated at the beginning of each of the large five branches. They are the Golden Claw Sect, Heaven Cloud Sect, Fiery Expanse Sect, Scholar Domination Sect and the last one is the Reaper Sect. They’re all small overlords, and truthfully, even I would need to bow to them if their disciples showed up in Golden Arch City.
+
+“Thankfully, they rarely do, and prefer to stay in seclusion or go higher up the river. In comparison to them, the five major cities are nothing but mortal cities.”
+
+Meng Mao sighed when he said that, looking toward the horizon with an unfocused expression.
+
+That quickly changed as we passed by a mountain range, making our way through it without issue.
+
+“We’ve arrived.” He said with a smile, and looking forward, I finally saw it.
+
+Golden Arch City.

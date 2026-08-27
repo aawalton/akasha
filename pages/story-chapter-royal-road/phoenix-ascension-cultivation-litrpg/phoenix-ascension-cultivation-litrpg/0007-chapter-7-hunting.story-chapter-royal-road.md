@@ -1,0 +1,225 @@
+---
+id: bf011c04-8db9-5366-94ee-03a165b15772
+page-type-slug: story-chapter-royal-road
+title: "Chapter 7: Hunting"
+slug: 0007-chapter-7-hunting
+partOf: phoenix-ascension-cultivation-litrpg
+position: 7
+ownLength: 2196
+unit: words
+publishedAt: 2025-08-17
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2525660/chapter-7-hunting"
+royalRoadId: "2525660"
+---
+
+I didn’t hesitate to summon my flames, their light dancing on my feathers as they completely covered my body. I wasn’t sure what sort of snake it was, and if it was a constrictor, I would make sure it got burned well. However, if it was venomous…
+
+I would show it another kind of hell.
+
+It hissed and immediately lunged at me. My small size barely gave me enough time to dodge out of the way by kicking the ground; however, the snake wasn’t as stupid as the vulture. As soon as it saw me step away, it turned its head and followed my movement.
+
+Without having expected that, I had a few moments to think about what to do. Its gaping maw hurled toward me at a rapid speed, its sharp fangs threatening to mince me into pieces.
+
+“You’re courting death!” I screamed, and did a quick turn, activating the Iron Claws skill, and placed my foot in its jaw. The thing came to an abrupt stop, unable to fully bite through the hardened talons. That wouldn’t last for long, though, as I expected it to thrash around at any moment.
+
+I waved my wings, suffering the penalty of being unable to do proper hand signs, and sent the flames toward my foot. It quickly lit up with a potent fire and I feared even my talons would melt, but since they were part of me, the Nirvanic Flames wouldn’t destroy them.
+
+As for the snake… It wallowed in pain as its jaw remained wide open, enduring the powerful flames as its body melted from within. Under normal circumstances, it would turn to ash within a few seconds. The story would have been different if I had hit its scales however, it was instinctive ofor me to use the fire within my opponents.
+
+Even with that, I couldn’t kill it in a single blow as I had hoped. Its gaping maw melted at the point where it had bit down on my talons, and I was let go. After losing its advantage it tried slithering away through the dense foliage.
+
+However, since it tried to kill me, I couldn’t let it live; it was also a good source of XP, whatever that was. Not to mention, by the way it attacked, it was venomous, and venom meant poison.
+
+I hate poison.
+
+With that thought, I didn’t hesitate to chase after it, my small feet pattering on the ground. The thing was fast, probably faster than me normally, but it was severely injured.
+
+Taking advantage of its weakened state I leapt onto a tree, using my still reinforced talons to grip onto the trunk. However, they turned off just as I gripped, causing me to fall and lose the momentum.
+
+After quickly cursing under my breath, I picked the pace back up and simply ran toward the snake and waited until I was close to its head. Then I turned the Iron Claws back on and jumped on top of it.
+
+The beast squirmed and wriggled, but it had nothing else it could do to me. The fire covering my feathers cracked with life, and my sharp talons, enhanced by the flames, etched themselves deep into its skin.
+
+It didn’t matter how much it howled or screeched though; the only things I saw in front of me were food and XP.
+
+Maybe if I get lucky, it will have a golden or beast core as well!
+
+However, considering how weak it was, the chances of it having a golden core were pretty small. I tried avoiding its main body and grabbing the head. However, getting close to the head of an angry, scared, and most likely panicked Spirit Beast was easier said than done.
+
+I was attached to its midsection, dragged through the grass as it rolled around, and almost lost my footing as it whipped about like a dying snake. I wasn’t completely sure that I could kill it, but it began slowing down, exhaustion taking its toll.
+
+Eventually, it stopped completely, whether it was because of the lack of energy or excess loss of blood, I couldn’t tell.
+
+Either way I didn’t hesitate to jump onto its head and tightly grip it, making sure that my Iron Claws were still active.
+
+The beast wiggled some more; but it was completely under my mercy. I tightened my grip further, and then, after a sudden yet satisfying crunch, it stopped moving completely.
+
+Serves you right, filthy poison user. May your soul never go through Samsara.
+
+My chest heaved heavily; I had done it.
+
+“With the wave of my wing, I, Fa Xiaolan, reduced this poison scum to ashes!”
+
+[You have slain [Jade Serpent Prince] Lvl 3]
+
+[XP Acquired]
+
+[You have Leveled Up]
+
+[Phoenix Chick Lvl 2 has become Phoenix Chick Lvl 3.]
+
+[Skill Points Acquired]
+
+[Skill: Iron Claws has reached the (Beginner) rank!]
+
+Those strange boxes and texts appeared in front of me again, but I instantly dismissed them. Even if the notification about the skill ranking up was interesting.
+
+The prize before me was much more appetising than some random numbers that I didn’t know the use of.
+
+Levels made me stronger, but so did eating, and there was a meal right in front of me. Sure, it was raw and disgusting, and probably half scorched, but it was better than nothing.
+
+However, I couldn’t eat it right where I killed it, but dragging it to where my mother was would be difficult. I wasn’t exactly sure of what I should do, as leaving it right there would be a waste.
+
+Eventually, I decided to hide it. I was in a forest after all, so hiding it would be easy. On the other hand…
+
+I didn’t think about it too much. After scouting for a safe spot where I could have my fill before leaving it, I grabbed it with my beak and dragged it. The beast was much heavier than I expected it to be, and it didn’t even seem like it wanted to budge. Using Iron Claws didn’t do much either, and I could only sigh in defeat.
+
+I guess I’m not strong enough…
+
+However, an idea popped into my head, and I quickly summoned the status box by whispering its name.
+
+Stats
+
+[Strength: 37]
+
+[Dexterity: 21]
+
+[Perception: 29]
+
+[Charisma: 71]
+
+[Intelligence: 31]
+
+[Skill Points: 10]
+
+I see…
+
+It said I had ten Skill Points, and if I recall correctly, I had used five to re-acquire my Nirvanic Flames after they were locked out. Pity that I couldn’t remember the rest of whatever skills I had.
+
+“Hey, uh… System?” I chirped out loud, hoping that it would reply to me. Of course, it didn’t, not that I expected it to.
+
+Ugh, just… is there something I can use to gain strength?
+
+[Searching Skill Database…]
+
+[Skills found!]
+
+[Qi Bind]
+
+[Wrap yourself with small strands of Qi and operate yourself like a puppet, breaking past the limits of your body, or your bones, whichever comes first.]
+
+[Cost: 5 Skill Points]
+
+[Strengthened Constitution]
+
+[Imbue your entire body with Qi and gain a small strength increase per Qi utilised.]
+
+[Cost: 5 Skill Points]
+
+[Dragonbone Tempering]
+
+[Completely change your body’s constitution to be akin to that of a Dragon’s. The change is gradual and permanent; however, there will be no visible change, and thus your race and class will remain the same. This skill can evolve.]
+
+[Cost: 10 Skill Points]
+
+Seeing only three options was a little surprising. I wasn’t sure if that was good or not. However, from the little information given, the first two skills were good in the short run, while the last one was good in the long run.
+
+"This skill can evolve," Even without that part, it didn’t take a smart person to understand just how good permanent strength increases would be.
+
+However, given its steep price and the fact that it was my entire fortune, I hesitated. I wasn’t in dire need of it, as the Strengthened Constitution sounded like the most appealing for the situation. As for Qi Bind, I didn’t even want to think about it.
+
+I would come back to Dragonbone Tempering when I have enough resources, though.
+
+Purchase Strengthened Constitution, I thought, and the strange text confirmed my acquisition.
+
+[Purchase Complete]
+
+[Skill Points Remaining: 5]
+
+[Skill: Strengthened Constitution(Novice) has been acquired]
+
+I didn’t even think about how I was supposed to use it. After instantly activating it I felt my body surge with an immense amount of strength, yet I quickly felt that it was limited. My Qi reserves were quickly being drained away, and if I didn’t hurry to move the monster and consume it, I would be helpless.
+
+However, the ease with which I carried it afterwards surprised me, as it felt a little like cheating. After all, I would need a lot more control over Qi to be able to do this without training. It did feel like I was wasting a lot of it, and so I guess it's calld 'Novice' for a reason.
+
+Regardless of the terminology System assigned to the skills, there was no doubt in my mind that it was useful. I dragged the corpse to the hiding spot in a matter of seconds, then did my best to unflatten the grass, not wanting to leave any sort of trail. The result wasn’t perfect, but it would have to do. Not only because I was starving, but also because I got a message that irked me.
+
+[Warning! Qi Dangerously Low!]
+
+Of course, I knew that. The system was useful, but if I kept relying on it, I could forget what true strength was. I didn’t intend to rely on it for everything, and I would rather trust my instincts than it.
+
+No offense, System.
+
+[None taken. Would you like to disable certain functions?]
+
+Uhh… I certainly wasn’t expecting that, but the fact that I could do that intrigued me.
+
+Yes. Please disable Qi-related messages.
+
+[Understood. Qi-related messages will no longer show up.]
+
+Thank you.
+
+It didn’t reply afterward, but I didn’t need it to. The lack of Qi and over-exertion of my strength made it so my belly yelled at me to feed it. I didn’t stand on ceremony and began digging in. The spots where my claws cut it apart made good places to start, as the scales were still too hard to break apart with my beak.
+
+That didn’t stop me from carefully ripping away the flesh before digging in. The taste was… acidic. Incredibly so. It was more acidic than one would expect from meat. I would go as far as to say that it was…
+
+[WARNING!: Status Effect, Poison[Lesser] has been applied]
+
+Poison… fucking… poison. I should have known.
+
+I quickly spat out the meat and looked around as I felt my health deteriorate.
+
+Details!! Health!! Something!!
+
+[Hit Points: 395]
+
+[Hit Points: 390]
+
+[Hit Points: 385]
+
+[Hit Points: 380]
+
+Does that mean that I’m losing 5 hit points every second? Is that my health? Crap!
+
+Anger coursed through my veins as I turned toward the corpse and spat on it. “You fucking piece of shit god damned green hat wearing snake. I should have known you wouldn’t give anything back to the earth even if you died.”
+
+After cursing it, I cooled my head. I knew that if I didn’t find an antidote quickly, I wouldn’t make it long; however, I wasn’t sure what sort of plant would be an antidote around here. Much to my dismay, there wasn’t anything I could find that would be able to help me get out of this situation.
+
+Mother!
+
+She was the only one I could run to at that moment, as I did not know this world’s poisons, nor did I remember anything from my memories.
+
+Luckily, I still remember where Mother had landed, so I sprinted toward her, foregoing any hunger or lack of strength I may have had. However, that didn’t seem to sit right with my body, as the hit points tickled down, and along with them went my bodily strength.
+
+[Hit Points: 215]
+
+[Hit Points: 210]
+
+[Hit Points: 205]
+
+Panic rose within me, as I wasn’t sure just how long this poison would last. I couldn’t halt in order to throw up, as much as I wanted to.
+
+My vision began to fade, and Mother’s spot didn’t seem to be getting any closer. The entire world began to spin, and I ended up hitting a tree, completely throwing me off balance and making me fall to the ground.
+
+I couldn’t get up no matter how hard I tried, and even my thoughts began to deteriorate. As I started falling into unconsciousness, a sudden migraine kept me awake, gritting through the pain.
+
+I fucking hate poison. I… will have my revenge.
+
+Some poison information cluttered my mind, and the image of a woman covering her insides with fire popped into my head.
+
+There’s no way…
+
+However, even as crazy an idea as it sounded, I had to try it. I wasn’t sure if Mother would help me, and System wouldn’t say anything besides showing me the ever-so-dwindling hit points.
+
+Stupid snake… Stupid poison-using pieces of shit…

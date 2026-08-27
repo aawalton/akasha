@@ -1,0 +1,135 @@
+---
+id: 359cc022-2cb8-5e3c-84a1-ea469f81a678
+page-type-slug: story-chapter-royal-road
+title: "Chapter 125: Epilogue"
+slug: 0125-chapter-125-epilogue
+partOf: phoenix-ascension-cultivation-litrpg
+position: 125
+ownLength: 1739
+unit: words
+publishedAt: 2026-05-11
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3383810/chapter-125-epilogue"
+royalRoadId: "3383810"
+---
+
+In the vastness of space, where everything exists and doesn’t at the same time, floated a castle made out of a white marble. It was large, as big as several continents and just as tall. Flags with the symbol of a giant lion-like creature with the horns of a bull and the teeth of a tiger surrounded with fires blew without wind, hanging from multiple spots.
+
+From towers, from windows, from courtyards and from buildings, those flags were everywhere.
+
+Upon closer inspection, the marble that the castle was made out of shone brilliantly, reflecting the light of the countless suns it flew past.
+
+Those marble bricks were a special sort, created from the compressed cores of hundreds of thousands of dwarf stars. In order for such a castle to be built, billions, trillions, quadrillion or more stars had to be destroyed, countless lives taken in the process.
+
+However, the result was that not only did they look good, but they were also incredibly sturdy. Not even attacks from dozens of Immortal Sovereigns ranked cultivators could even leave a scratch on it.
+
+The impregnable fortress that floated through the sky was simply called ‘The Lion’s Den.’
+
+Inside The Lion’s Den was an entire community. A society made out of multiple species of all sorts. All, except humans and humanoids.
+
+There were Beastkin, Spirit Beasts, Void Beasts, Conceptual Beasts, and all other sorts and manners that decided to join The Lion’s Den in its endless journey through space. Due to the size of the thing, it was completely self sustaining.
+
+The Life energy emanated by the marble bricks pushed away the concept of space, constantly fighting against the void and its desire to devour anything and everything in its path. Such a thing would not have been possible to do, not even for a Hegemon ranked cultivator.
+
+Yet, the Lion’s Den could.
+
+Not only because of the materials, though they paid a pivotal role in that, but because of the Laws imbued within the materials.
+
+Laws were what the world operated on. They defined what was and what was not possible. One could confuse Laws with Daos, but the two were completely different, yet not.
+
+Just like Yin and Yang, Law was part of the Dao, and Dao was part of the Law. These two coexisted like two peas in a pod, and one could not exist without the other. However, that didn’t mean one could simply grasp Laws if they could grasp Daos.
+
+Most people would never be able to grasp Laws in their entire lifetime, even if they were a Hegemon. Because grasping Laws was what differentiated a Hegemon from a God.
+
+The owner of the Lion’s Den was one such God. One that was born at the beginning of the first era, and what would be known as an Ancestor.
+
+The Ancestor God of Beasts — Shou Yuan Zun.
+
+She was called that not because she created all Beasts, but because she was the first of them to become a God. There were, of course, other Ancestor Gods that were once Beasts, but they were born toward the latter end of the first era.
+
+What one may call an era differed from person to person, but generally it was regarded as the era where the System first descended into the world, and when everything began to change.
+
+The second era came with new changes, new universes, new races, new people, new plants, new everything. As did the third, fourth and fifth.
+
+They were currently in the Seventh era, and only at its beginning.
+
+Not even Shou Yuan Zun could guess what was going to happen, but she sure was going to have some fun. The System had allowed her and some other Ancestor Gods to interact with the fresh bloods.
+
+There was a time when she was curious about what the System even was, but she soon gave up. Knowing wasn’t going to change anything, and it might lead her toward a path nobody wanted to walk.
+
+As for that new universe, it’s been using the system for far longer than any other universe before the initiation, practically being born with it. However, they had not yet been completely initiated, until now.
+
+Things were going to change for the citizens of this universe in a big way, and she wanted to have some fun. Being a God was oftentimes boring.
+
+As such, she used her power to create a large, chaining quest, with different events and many things she thought would be fun. For the moment, she didn’t actually give out any quests, but she did create an evolution path for every species in the new universe, excluding humans, to become her ‘Heir.’
+
+What that entailed, she didn’t want to reveal just yet, but it would surely be fun. The limited spots had been filled, and phase one had begun, more or less. All contestants were in place, but besides going about their life and becoming stronger, there was no pressure on them.
+
+Not yet, anyway.
+
+For now she preferred watching.
+
+She knew damned well that other Ancestor Gods had also put their followers in the game, but she didn’t mind. In her eyes, that only made things more interesting.
+
+That stupid Malefic Viper didn’t have to go and interfere that much though, it was unbecoming. She didn’t mind, as she too was curious about what the contestants would do once they met.
+
+They only had basic tracking skills, but neither were strong enough to actually go seek out the others within any amount of time. She’d made sure of that.
+
+Each contestant was in the a different corner of the universe, not just a planet as a whole. Travelling to meet each other without her aid was completely impossible.
+
+They would meet, of course, but not without her allowing it to happen.
+
+Shou Yuan Zun was at the very top of The Lion’s Den, her presence oozing out like an overflowing pipe. She stood on a throne made out of small, finger nail sized stars. Her body was made out of flesh, much like any other being, but composed of many different, always changing species. Each second that passed, one feature changed.
+
+From a lion’s head to a lizard’s tail, to a hornet’s hands or to a horse’s legs. It was a creepy, uncomfortable sight.
+
+However, that didn’t seem to bother her, and it was as if those things didn’t affect the way she interacted with the world at all.
+
+Currently, she was watching her new favorite show on a mirror-like surface floating a feet away from her. On the surface was the image of a rotund bird flapping her wings as fast as she could, trying to keep up with a man on a flying sword.
+
+She looked indignant, almost angry, and even competitive.
+
+A smile curled up Shou Yuan Zu’s myriad lips, watching the one she’d granted the title of ‘Favored’ helplessly trying to follow the man who’d invited her to sit on a sword.
+
+***
+
+The Malefic Viper was a snake, or was born a snake, and later became a bigger snake. The order didn’t matter.
+
+He was an Ancestor God from the first universe, born toward its end. He’d fought long and hard for that title, that power, and the respect that came with it.
+
+Very few people knew of his background and complete history, and he liked to keep it that way. However, people called also called him the Ancestor God of Snakes, because through him, they gained powers beyond what they could have otherwise had.
+
+Shou Yuan Zu, that dirty little arrogant bastard, didn’t accept that title, saying that she was the Ancestor God of all Beasts, but The Malefic Viper couldn’t understand why these two things had to be mutually exclusive.
+
+In a way, she was also his Ancestor, so really, there was no reason for her to look down on him.
+
+Anyway, that was beside the point.
+
+The Ancestor God was sitting in a large, deep and almost infinite library. He’d taken the form of a reptillian man with emeral scales shimmering with a golden light. He had a small tail he liked to drag around, and also feet, so he didn’t slither like an actual snake.
+
+Wearing a robe that barely hid his snake face, he sat paced around the giant library, reading with interest.
+
+He was currently studying something very interesting, a small booklet a few thousand pages thick, detailing everything one might need to know about a creature called a ‘Phoenix’.
+
+He’d never seen one before, as they were part of the new universe, and quite frankly he didn’t really care about an orange bird that could make fire. There were plenty of other colored birds that could make fire, so what made a Phoenix special?
+
+As he’d find out, it was the fact that they were cheaters.
+
+Not only could they rebirth every century, and gain incredible power afterward, but they could also cheat death after a certain threshold. The Malefic Viper had never seen such a race, and he found it as infuriating as he did interesting.
+
+However, he hadn’t started studying those little things because of that, no, far from it. He took an interest in them because of a certain bird that killed one of his followers, and, as he later found out, eradicated an entire race of snakes from the face of the forest.
+
+That wasn’t something you’d normally see a fresh hatchling do, but he guessed that Phoenixes were that hardcore.
+
+Was he mad about it? No, far from it, in fact. His interest sparked, and he wanted to figure out what made the gears inside that bird’s brain turn.
+
+He had many followers, and few ones he considered important. One of them was the snake he communicated with when the bird equipped that annoying woman’s title. He’d told the snake to take care of it.
+
+By take care of it, he of course meant, kill it, but not because he had any desire to actually see it dead, but because he wanted to see how it would react.
+
+Of course, the snake wouldn’t go and hunt the bird down instantly, but in this game that the Ancestor God of Beasts created, they were bound to meet.
+
+And he was burning with desire to see what would happen when they did.
+
+***
+
+Somewhere in a large forest, Long Yaotian sneezed.

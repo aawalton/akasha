@@ -1,0 +1,109 @@
+---
+id: 716f172e-abd8-533e-91a9-b0bc89db9bf4
+page-type-slug: story-chapter-royal-road
+title: "B1 Chapter 2 - Ego"
+slug: 0002-b1-chapter-2-ego
+partOf: path-to-prosperity-litrpg-vol-12-stubbed
+position: 2
+ownLength: 1381
+unit: words
+ownProgress: 1381
+publishedAt: 2024-06-29
+link: "https://www.royalroad.com/fiction/89323/path-to-prosperity-litrpg-vol-12-stubbed/chapter/1697659/b1-chapter-2-ego"
+royalRoadId: "1697659"
+markedReadAt: "2026-06-29T21:36:21.257Z"
+---
+
+It took Percy several minutes to calm down. He had been much closer to death than he was comfortable with.
+
+Was I dead for a few seconds, or was I hanging on the last threads of life? I’m not sure if I want to know the answer. I’m alive… Only that should matter…I guess.
+
+He shuddered and grasped his chest.. His heart pulsed faster than usual, but his heartbeat wasn’t as bad as earlier. He was nervous. A slightly accelerated heartbeat was normal after such a terrifying event, right?
+
+Percy smiled wryly and chose to inspect the crystal. It didn’t glow anymore. It was dull and looked more like a jagged stone at this point.
+
+The Awakening Stone did its job.
+
+Percy chuckled lightly but turned quiet quickly. After struggling desperately with his life on the line a few minutes earlier, he didn't feel like laughing.
+
+Recalling the pain, he shuddered involuntarily.
+
+I knew gaining access to mana would be painful once you’re older, but I’m only sixteen. It’s not like I’m that old. Something like that shouldn’t have killed me. But… If not for the Awakening Stone to stabilize the awakening, I would have died…
+
+Something was amiss, but he couldn’t recall what it was immediately. He only remembered what it was when he thought about the old man and the things he’d taught him from a young age.
+
+Right. It might be a little bit painful to gain access to mana all of a sudden, but it’s not deadly usually. It only becomes dangerous if you manifest an Ego, but that rarely happens.
+
+Apparently, Egos were more common among the nobility.
+
+Nobles are a pain in the ass.
+
+That was something Greg always said.
+
+Percy shook his head, trying to get his thoughts back in order.
+
+If you don’t manifest an Ego, you don’t necessarily need an Awakening Stone. Gaining access to mana is a little painful, and you might faint if you’re too old and filled with impurities, but–...
+
+“Wait a moment,” He mumbled, “What did I just remember?”
+
+The old man told Percy many things in the past. That old bastard also purchased the Awakening Stone, telling him to always keep the stone on him at all times. Most people would never even think about purchasing Awakening Stones because they were so expensive, yet the old man gifted him one of these little treasures.
+
+It was only now Percy understood why Greg had done that.
+
+A wry smile formed on his lips.
+
+“Thanks.”
+
+Percy knew the old man wouldn’t hear him, but the urge to thank Greg overcame him.
+
+He stared at the Awakening Stone somberly and put it aside after a while. Now that the Awakening Stone had been used it was worthless. The power stored within it had been used up to stabilize the awakening of his gift.
+
+I could have avoided this whole deathbed situation if I carried the stone with me. The tale has been taken without authorization; if you see it on Amazon, report the incident.Percy reminded himself, only to shrug. It was a nuisance to bring a glowing crystal outside his room. Nobody cared about the things in his little chamber of poverty, but bringing a glowing stone outside wasn’t the most brilliant move, especially since he didn’t want to be seen most of the times he went outside.
+
+A glowing stone and trying to skulk through the darkness stealthily didn’t fit well together.
+
+Percy heaved his fragile body from the squeaking bed and stretched a little. He didn’t feel any different from before. If anything, Percy was still exhausted from escaping death. Still, he should be able to feel mana now.
+
+Mana should course through his veins, strengthening him, but Percy didn’t feel anything.
+
+I do feel a little refreshed, but there is no significant surge in power or anything like that. Why?
+
+Percy had learned a lot from the old man, but he’d forgotten much more than he was willing to acknowledge. Instead of acknowledging his lack of knowledge, Percy focused on something else. He glanced at the nightstand. It was tilted and looked odd. No. The nightstand always looked weird. It was brittle, and a simple kick would break it apart. That was the case for most of the furniture in his chamber of poverty.
+
+His bed was probably in the best condition. The desk near the blocked window, which Percy had covered with rotten wooden planks a few months ago, was still good enough, but its condition was not much better than the nightstand. Other than that, Percy had a small pouch with some copper coins and an iron dagger. The iron dagger wasn’t extraordinary, but it was probably the most expensive item in Percy’s possession.
+
+Of course, that excluded the Awakening Stone, which had been worth a fortune. Percy exchanged the fortune of the Awakening Stone with his life. Percy came out of that trade with profit, no matter how he looked at it.
+
+Good thing I didn’t sell the Awakening Stone two months ago.
+
+Two months ago, Percy had been on the verge of bankruptcy – not that he was rich now. He considered selling the Awakening Stone for a good coin to buy food and continue to rent his beloved chamber of poverty. Fortunately, that hadn’t been necessary at that time. Percy found a drunk merchant in a nearby alley. He was dead drunk and had probably consumed something.
+
+Percy had helped the merchant to a nearby Inn and paid himself generously for his service by taking a few coins from the merchant’s heavy pouch. He didn’t feel great about stealing, but the merchant didn’t look like he was suffering from poverty. The merchant had been chubby and well-clothed, and Percy deprived him of only a fraction of the fortune he found in the man’s coin pouch. Percy didn’t have to feel good about it as long as it helped him survive. Pride and honor couldn’t feed him. That was a matter of fact.
+
+Greg always knew what I needed. That old man was prepared for everything!
+
+A myriad of images of the old man flashed through Percy’s mind. The first image was one of the old man’s dead body. A heavy sigh escaped Percy’s lips, which was replaced by a faint smile as more memories popped up.
+
+The memories showed Greg teaching Percy a wide variety of things, such as reading, calculating, cooking, sneaking, survival in the wilderness – the theory of it –, flexibility training, and so forth. Greg transformed the arduous training regime into playful games, providing Percy with everything he needed. They might never have had much money, but Percy liked his childhood. It was filled with sweat and struggle but also endless fun.
+
+He didn’t need others either. The old man was more than enough for him.
+
+The games and the fun were also part of why Percy took so long to realize that Greg was preparing him for something. Unfortunately, Percy never found out what Greg was preparing him for. The old man fell sick, and by the time Percy turned 14, he died. That was the same day Greg gave him the Awakening Stone.
+
+I’m still not sure why he apologized to me so much. It wasn’t his fault that we were poor.
+
+Percy’s thin smile turned into a genuine smile.
+
+I will always be thankful for you… I wish I could have told you that when you were still alive.
+
+The old man was the only person in the town who treated him nicely. But then again, it wasn’t like Percy tried talking to the other citizens before. He and the old man had always been rather reclusive, and that didn’t change much even after Greg died. Percy didn’t see a reason to get to know the other people in town.
+
+Maybe it was about time to change that.
+
+He straightened his back and looked ahead at a vibrant golden coin levitating before him.
+
+“So…you are my Ego?” Percy asked, observing as the coin rotated around its axis, revealing a devilish grimace on its back.
+
+A rush of freezing cold swept through him as he stared straight into the crimson-glowing eyes of the devilish grimace.
+
+“Well, damn. If that’s not interesting, I don’t know what is…”

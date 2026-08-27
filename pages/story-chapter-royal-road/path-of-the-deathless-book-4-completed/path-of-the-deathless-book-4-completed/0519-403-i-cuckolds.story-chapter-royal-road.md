@@ -1,0 +1,343 @@
+---
+id: 18a8fba7-4ef6-5586-badc-6e88e9b2fc6d
+page-type-slug: story-chapter-royal-road
+title: "403 (I) Cuckolds"
+slug: 0519-403-i-cuckolds
+partOf: path-of-the-deathless-book-4-completed
+position: 519
+ownLength: 6205
+unit: words
+publishedAt: 2026-07-10
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3659701/403-i-cuckolds"
+royalRoadId: "3659701"
+---
+
+The Path of the Operative is an uncommon Path that has developed a reputation for producing the foremost hunters of Thieves, Assassins, and Shadows.
+
+Described in simple analogy, the Path of the Operative is what might happen when you mix the Path of the Mage with that of the Scout and aspects of that of the Genius. The Operative is not the individual that walks the darkness itself, but they are the spymasters and intelligence behind the scenes that ensure all operations go according to plan—or find themselves salvaging missions that are headed toward disaster.
+
+As such, it is not surprising to find a great many Operatives in authoritarian or high-security environments. State security or a god’s inner court often have at least a few major Operatives among their number to counter hostile infiltration efforts and enforce a subversive, soft force on society. However, it is important to remember that Operatives are not Pathbearers dedicated toward pure intellect. Their foundations are geared toward a magical aptitude as well, and while it is rare, it is not impossible to find Operatives as elite-level siege magi, guiding and unleashing complex spell formulae in concert with entire armies—thus increasing their synchronized casting potential beyond most pure Mages in specific conditions.
+
+Ultimately, if you are tasked with aiding or combating an Operative, it is important to understand the two critical pillars they abide by: expertise and subtle control. They themselves might not be the right tool for every mission, but they will inevitably know someone who is, and they will see all the pieces in place so that the most optimal outcome can unfold. But they can only do that if they already have some level of quiet control over the world around them.
+
+This is why you must be creative and aware when dealing with Operatives, for most battles against them are lost before they can be won—for you cannot reliably defeat an enemy you don’t even see coming.
+
+But if you can rip them out of their place of comfort, force them into conditions of chaos, and strike before they can reassert their expertise in any way, then the Operative might find themselves at the mercy of one far less sophisticated in ability.
+
+—Encyclopedia Apocalyptia: “Path of the Operative”
+
+403 (I)
+
+Cuckolds
+
+A spell capable of inflicting brutal, accelerated pregnancy upon two hundred men was a ridiculous thing to behold. If one was demented or callous enough, the absurdity might even seem funny.
+
+There was nothing funny about the aftermath. There was nothing funny about 108 stillborn children that had to be cut out of their fathers’ intestines. There was nothing funny about all those desperate wails going silent, one after another, because the bastard that cast the spell specifically made sure the new ones would suffer mass organ failure mere seconds after their birth.
+
+The luckiest of the victims were spared from prolonged anguish. With the arrival of Helix and Ekkihurst, spells were cast to dull pain and extract the afflicted infants as easily as exhaling. From there, a large canister had been shaped by the Geomancer to contain the remains. But though the mass births were over and Male Pregnancy was slain, the trauma resulting from the carnage endured—because of course it did.
+
+How else should someone react to undergoing a forcible birth? How stable should someone be after watching a whimpering creature born of their flesh scream, struggle, and then die before the unwilling father could make any choice about their offspring?
+
+As Shiv looked upon the gathered victims at the immigration center, he saw their bodies wreathed tight and deep in enkindled flames. Most of them held a distance in their gaze and built up insulating layers in their minds. Shiv could see knots of translucence blocking and blunting their thoughts, while all their emotional cores were cracked and spewing anguished fire. Some among their number were more resilient than the others, shocked and disgusted by the experience, but nothing more. For them, this was just another event, another trial they survived and overcame. A funny story for their children, or perhaps a cautionary tale about going to Gate Piety.
+
+The same psychological resilience did not dwell inside the others. Some were broken outright, lost to bouts of psychosis, as they had to be led away from the group and sequestered in the immigration center holding cells. Most tried to hide how badly this affected them, but they would develop a permanent trauma that they couldn't just shake off, not for a long time.
+
+Shiv studied Pathbearers of all races, cultures, creeds, and Paths, and he came to two conclusions. The first was realization and a feeling of relief. Shiv had suffered a hard life, but in certain ways, he was far more naturally privileged than any other pathbearing existence. Once he thought his mental durability was a thing of willpower, just something anyone could cultivate if they wanted it badly enough, if they struggled hard enough, but seeing this, seeing that practically everyone across Integration was broken in some way or susceptible to being wounded, enlightened Shiv to his blessing.
+
+To go through absolute turmoil and emerge unscarred was more than power. It was freedom. A freedom to be without psychological anchors. Shiv’s existence wasn’t engineered for him to be a rage-fueled beast. It seemed that way at first, but that was solely to get him started; the Tarrasque was a creature of war, but it was also clearly smart enough to enjoy acts of cruelty and siphon strength from its anger. But in stealing strength from anger, Shiv’s true mental architecture was revealed: he was built for his mind to prevail over his heart. Without his unique nature, he would have never gained the Harbinger, would have never obtained valuable insights from the calculated psychopathy of the orcs, would have never enjoyed this moment of savage comprehension.
+
+He hurt; he healed; he got stronger.
+
+Not the others. They cracked, and parts of them stayed broken, even when the whole of their beings grew stronger.
+
+There would always be a bit of damage. There would always be a slight limp.
+
+“We are Deathless in more than just the flesh,” the Harbinger admitted. “Our mind is neuroplastic beyond harm. We are shaped for more than mantling our will over our hearts; we were made to be the perfect organism pre-adapted to the suffering of longevity—and immortality.”
+
+But they aren't. No one else is. Not even the gods.
+
+Shiv helped the Sisters and Weaveresses of the Arachnae Order to settle and treat the victims. He delivered a direct apology to them on behalf of Gate Piety. He told them that the orc responsible had been cut down—and Roland further aided that attempt at satisfaction by showing them the charred corpse of Male Pregnancy.
+
+“Ah, Male Pregnancy,” Helix sneered with glee. “He always was the foolish sort; desperate to take his jokes too far—until they went from being funny to more of a questionable fetish. With the soul damage inflicted, we won’t be seeing his like for some time.”
+
+“But you have to admit the deeply intrusive genius on his part,” Ekkihurst said, holding up a finger as if this was all just a lesson in biology. “To cast a spell targeting specific cells containing a specific set of mutation-commands for bodies of such varied biology and make to derive cloned offspring from its existent pluripotence is quite subtle indeed.”
+
+Helix just scoffed and rubbed his glasses between the hem of his white coat. “Perhaps I would be more impressed with him if he knew any other Biomancy spell than this one. ‘Impregnating men.’ Bah. Shocking the first time, but just another plague when dealt with the next. It did far less psychological damage to the defenders of Hu-Stone compared to capturing their living children and devolving them into Feralscourge shock troops.”
+
+At this point, Shiv telepathically screamed for Helix to leave the room before the shaken victims—or anyone from Lone Star—decided upon an act of sudden violence.
+
+And that got the second understanding Shiv obtained: the orcs never did things for a jest—or at least, it never stayed a jest. Helix was so committed to Biomancy that he lost sight of why his fellow orc performed such actions. Male Pregnancy clearly found his namesake hilarious, but it was also horrifically effective against the enemy’s internal morale—especially for naturally propagating creatures.
+
+Orcs didn’t mate. They didn’t give birth. They didn’t have the same hormones and emotions when it came to children. For them, children were just little creatures to exploit—easy bombs of grief, anger, and control. Want someone to fight you? Hurt their child. Want someone to surrender? Threaten their child. And Male Pregnancy tapped into that evolutionarily ingrained psychological faultline with glee. Just like how many other orcs exploited a human’s tribal nature and need for social kinship, here Male Pregnancy disfigured the hearts of potential fathers by scarring them with this experience.
+
+The survivors would always remember this when looking at their children, if they ever decided to have them any after this. Male Pregnancy was dead, but this wasn’t a defeat for him. Far from it. As Shiv looked up and stared at the crystal branches brimming with Terrorspawn, he caught glimpses of new shapes—clusters of rotting infants connected by intestinal umbilical cords to a shared knot that made them look like a rat king.
+
+And I thought about using them as an army against the Prismatic Guard, Shiv realized. This had once been his solution to rival nations; his legion, his orcs. He struck the pact; he brought them here; he drew the attention of the Challenger under the assumption that he could bend the orcs through raw power alone. Shiv had been desperate during the siege. He had been thoughtless. He lacked the experience.
+
+But now he'd learned. Now he knew. And where he stood unharmed, close to 300 guests weren’t coming out of the Gate the same way they went in. Gate Piety was responsible for their safety, and Gate Piety had failed their part in the laws of hospitality.
+
+But not everything was bleak. The mana core—now sprouting an expansive jungle of crystal branches—was more than pliable to mana and persuasion. Ultimately, it just needed space to expand, contain, and process the flowing eldritch it took in. The Outsider essence Uva unleashed was also starting to thin and trickle. Once, the power leaving her was wider than a column and powerful enough to shred the edge of the surface district. Now it was barely wider than Shiv and glided as a lazy trickle.
+
+His Severed Shadow was with her—alongside Can Hu, Ikki, the rest of Uva’s team, and eventually Roland. A series of emergency wards and facilities had been constructed around her, and Uva was placed under watch as she progressed through her Delve. They still needed to inform Valor about her, but with how many problems still needed to be resolved, no one had an opening to make such a run.
+
+Another crisis nearly developed outside the Abyssal gateway as a hidden scouting force of Compact units tried to survey the Gate for weaknesses. Their operation ended in tumors and brutality as their presence was spotted by a High-Tier dimensional contracted by Helix, who then alerted all the out-Gate perimeter defenses—along with Tulveg via his dormant cancer spores.
+
+Chronomancers were already rare. Chrono-Bio-Psychomancers whose mana field came in the form of a locust-swarm of cancer motes were practically unknown. Death followed, and the soil in the Umbral Wilderness was blessed with a bounty of fertility once more.
+
+Bringing Legends into Gate Piety came with their own problems and grudges—wrangling Marikos was a crisis in itself. But when things were settled and a mutual enemy arrived, this Cat-3 Gate might just give a Fortress-City a proper fight.
+
+“Shiv,” Jessica said, appearing in Uva’s containment silo. “Veronica’s on my ass again; she really, really wants to speak with you.”
+
+He replied with an annoyed grunt. “Yeah, tell her that I’ll be hopping over to the body I gave the Guard within the hour for a debriefing.”
+
+Jessica nodded—and a hint of worry lingered behind her gaze. “You alright, kid?”
+
+“I’m fine; more worried about Adam and—” He cocked his head at Uva. “Well, less worried about her. She’s just Delving; I doubt the Eldest is about to make a return or anything, and I know she can handle the Evolution with enough time. It’s just…” Shiv tried to pinch the bridge of his nose and remembered his Severed Shadow was intangible at that moment. “The bullshit never ends.”
+
+“The bullshit never ends,” Jessica commiserated. “I used to think my bullshit was hard, but you got me beat by levels and tiers.” She snorted a laugh. “And Male Pregnancy? Seriously?”
+
+Shiv just stared at her. “Go take a look at the victims. It was a fucked-up kind of funny before, but now it’s just—”
+
+“Now it’s the orc finding art in the nasty ass gag,” Jessica finished for him. “Yeah. I know how they are too. I told you: I knew Whisper from my days in a war party with Jackie. Hells, I liked Whisper. I thought he was a friend—like, almost. But then, one day, we passed by a random farm, and he just happened to run into this old lady who'd killed him in some prior life of his. She didn’t want to fight. Neither did her kids. But, well…” She let out a breath. “They live to prey on and break our hearts. But I guess you can do the same thing too.”
+
+Shiv tilted his head. “What’s that mean?”
+
+“The dragon won’t stop shouting and verbally sucking you off. The entire Gate knows what you’ve done—talking a fucking Outsider god into submission? Holding the mana core together? And then there’s what you did to Hymn—that degenerate felling bag of shit took a brow-beating from Veronica in front of me, coughed up some blood, and walked it off. Now you have one talk with him, and he's on the verge of crying himself to death. What did you even say to him?”
+
+“Might not be appropriate to repeat,” Shiv said. “I probably shouldn’t have done that in front of everyone else earlier anyway, but Hymn was on the verge of doing something dumb, and I needed to push him the other way.”
+
+“That mean, huh?”
+
+“That targeted. Imagine if I dug into your daughter you lost and kept rooting through whatever pain you still have—it’s like that for him.”
+
+Jessica winced. “Broken fucking Moon. You’re a regular menace, kid. Your Reflexes are still shit, but the other parts of the physical trifecta are gold. Add your Harbinger to the mix, and the shit you can do to someone—”
+
+“Plus a new Legendary Feat. If I hurt someone psychologically enough, I can leave a portion of myself in their soul and talk to them wherever I want.”
+
+Jessica almost gagged—then froze. “Whoa, whoa, wait, you got Inland Embassy?”
+
+“You know the Feat?”
+
+“Know it?” she repeated. “I fucking murdered a rogue Diplomat-Psychomancer from New Albion who nearly drove me insane with it. Bitch wouldn’t stop talking to me while jumping across pocket dimensions. Eighteenth worst month of my life.”
+
+“Huh. And how did you kill her?”
+
+An arrogant grin crept across Jessica’s face. “Well, let’s just say her Physicality was kind of shit, and she ended up blacking out after a month of being chased without food or sleep. While she was out, I found her and—”
+
+“Did you do the Upcreek thing?”
+
+She froze. “I… Look, Shiv, she got really personal. She had it coming.”
+
+Shiv just sighed. “I guess, but if that’s the line, then don’t we all have it coming? You get to go up Roland’s ass, Uva gets to go up your ass—”
+
+“I don’t like your girlie’s odds,” Jessica replied with total honesty. “She’s got that mean Psychomancy, but I don’t think she’s got the strength to cut my folds.”
+
+“Aberrant spiderlings?”
+
+Jessica visibly clenched her butt at that. “Oh, fuck no!”
+
+“See my point?”
+
+“Yeah, but let me counter by being a hypocrite who wants to hurt other people without getting hurt.”
+
+“At least she is honest,” the Harbinger noted.
+
+“Point is, I know that Feat, and between that and your other Skills…” Jessica whistled. “You’re a regular godsdamned monster now. If we ever get properly bloody, me and Rusty are going to head-hunt hard—just a forewarning.”
+
+Shiv nodded. He understood. “You weren’t even trying when we fought in the academy hospital, were you?”
+
+She puckered her lips and shrugged nonchalantly. “That’s different too. You weren’t trying to cause collateral, and I wasn’t either. Besides, I was trying to figure out your deal. But yeah, I wasn’t hitting you with everything. Now, though…” Then, a most peculiar look came over her. “Shit, now I can actually work you without holding back. You can help me build up some more Physicality levels.”
+
+“Huh? What?”
+
+“Yeah. You’re indestructible with that silver-shell shit, right? Let me use one of you as a training dummy.”
+
+Shiv manifested a body and stepped forward to loom over her. “I’m not a training dummy, Jessica. If you wanna do sparring—”
+
+“It’s not going to be sparring,” she replied with a laugh. “Look, there’s a reason why I complimented your Toughness, Physicality, and Psychology specifically. I got no urge to fight you—the way you’re built, that’s going to be ugly for… fuck, anyone who isn’t a psychotic monster or an emotionally perfect freak. But in terms of actual fighting…” Jessica sucked in a rough breath. “You know what, I’m not going to insult you. When this is done, you come find me, and I’ll give you a proper lesson. From the ground up.”
+
+“Ground up?”
+
+“Yeah. We’re going to need a lot of work before I stop cringing when you swing your fists and knives.”
+
+The weakest part of Shiv’s pride felt rankled. The rest of him killed that part because continued growth was worth infinitely more than a bit of hurt feelings. “Alright. Say we got ourselves an arrangement—aw, fuck, I forgot about her.”
+
+“What?” Jessica said. She turned, following Shiv’s gaze to see the Dreamtaker lodged halfway in the wall. The front half of her face was sticking out, while the rest of her was merged in that layer of magically-enhanced concrete. Somehow, she got into it without triggering any of the wards—just glided through like there was nothing in her way. Now, she was using her intangibility to awkwardly stare at Shiv and Jessica.
+
+There’s that Longinus shit inside her kicking in, Shiv thought sourly.
+
+“Just step out of the wall, Dreamtaker,” he muttered. Shiv didn’t want to deal with this shit right now. He really, really didn’t. But like Uva with Tulveg, Shiv had to handle his own discomfort and face this… this… Why the hells did she need to steal bits away from Georges? She's wearing his outfit, her breath smells like his, she curses like him. This is…. I found him again, but then never got to save him, never got to say goodbye again—we could have taken him out of the Fairwoods; he was in that egg, he was fine, but then she just stole his spirit and body and used that to hatch herself a new self, like he was just some fucking thing to be used and spent and—
+
+“Sorry,” the Dreamtaker said, her voice low, hoarse, and awkward. It was Uva at baseline, but there was Longinus in the tone and rhythm, in the way she pronounced certain syllables for emphasis, and Georges’ vocabulary creeped into her words, leading to an all-around uncanny result. “Did a fuck-bad. Didn’t think. I’m still confused-feeling. Didn’t mean to cause all this bad.” She stepped out from the wall and placed the tips of her index fingers together, making an exaggerated show of her embarrassment, even if she wasn't aware of it.
+
+It took a lot for Shiv not to flee from that room or scream from mental anguish. Cracks formed across his body. A faint hiss of enkindled fire leaked out, and Jessica took a step back, glancing between them worriedly.
+
+“Into the pain,” the Harbinger encouraged. “Turn, flee, expose yourself, and be broken further.”
+
+“Yeah, it’s…” Shiv clutched his skull. He ran his tongue over his lips. “No. No, it’s not fine. What the fuck, Dreamtaker? What the fuck?”
+
+The Dreamtaker winced and shrank back—her literal size shriveled as well, until she was a good head shorter than Uva, rather than almost matching Shiv in height, if not stature. “Said sorry?” she whispered, clearly confused.
+
+“Yeah, but this isn’t just a ‘sorry thing,’” Shiv replied. His tone was neutral, but inside, his heart was thundering, generating more tides with every beat, and his fingers were clenched tight. “It’s not. Like you dumping all the power you wanted over into Uva is one thing—that was thoughtless and stupid, but I can see myself doing that to someone before. But we handled that. We dealt with it. It’s bad, but it’s just another small apocalypse. Our lives are filled with nothing but that—”
+
+Ikki promptly marched through the door, interrupting Shiv’s tirade to slap the Dreamtaker. A loud crack sounded from her wrist. The Dreamtaker barely budged. Ikki hit her again—and then a third time—before spinning on her heel and stomping back to where Uva lay, her eyes still projecting thin beams of kaleidoscopic mana into the air.
+
+Quiet rage emanated from Ikki like a furnace; hers burning hotter than all four other members of Uva’s team. She was uncharacteristically quiet, and genuinely loathed the Dreamtaker for what she did.
+
+Good, Shiv thought. I can give her a lesson there too.
+
+“Nothing but struggle,” Shiv continued, as if nothing had happened. The Dreamtaker wasn’t hurt, but she did pout as she rubbed at the place where she had been struck. “You did put everyone else in danger, though. They didn’t ask for this. They don’t come back from being dead. So. That mistake is on you. Like all the collateral damage I caused, and the people I killed with that is on me. But my issue—specifically my issue—is, why didn’t you even think or consider what you were doing when you just… used up Georges? When you mirrored yourself after Uva? Are you… incapable of thinking? You didn’t have enough levels or skills to understand yet? Is that it?”
+
+The Dreamtaker just stared at Shiv, her expression blank, her shame childlike in terms of ignorance.
+
+“Holy fucking shit,” Shiv ground out. It was then he glimpsed how narrow and small her core was—utterly dwarfed by the vastness of her mind. “You don’t have any human experience. And no Social Skills. Of course. Of course the asshole Outsider got all the Social Skill levels from fighting me while you managed to avoid all of that understanding by spending all that time in a coma while you fucking digested the closest thing alive to Georges.”
+
+“Don’t understand,” the Dreamtaker muttered.
+
+Shiv pressed his lips together tightly. “Yeah. I… Never mind. I’ll give you the rest of this speech when you’re closer to being a person. Just… Before you do anything else, come to speak with me—” He cut himself off; he wasn’t a normal person either. “You talk to Ikki, or someone like her.”
+
+“What?” Ikki hissed, swiveling. “I don’t want to talk with her, Shiv! Why not you?”
+
+“It’s less want and more that you’re normal and decent enough of a person to make the right choice,” he answered. “If I die, I just come back, Ikki. I’d like to think that I’ll make the right choice for everyone. I’ll certainly fight and die for you, but all this fighting and struggle is just normal to me now. All that terrible stuff that happened up at immigrations barely bothers me at all. She needs to talk with someone that still feels the consequences. And that’s not me. Not anymore.”
+
+Reluctantly, Ikki nodded. “I—alright, but maybe someone else.” She shot the Dreamtaker another hateful glare. “I’m not exactly unbiased either. I don’t like skin-thieves.”
+
+“Skin-thieves.” The Harbinger sighed. “We failed to consider something else: the vampires shape-shift commonly. They kill and wear victims to infiltrate. Of course the Dreamtaker’s presence would offend Ikki even more.”
+
+“Sorry?” the Dreamtaker said again.
+
+“Do you even understand what that means?” Jessica asked, tilting her head.
+
+The reborn goddess scratched at her chin. “I think?”
+
+Shiv grunted. “Look, just stick close to me, and I’ll find someone we can consult before you do anything else. Right now… is there anything you can do to help?”
+
+The Dreamtaker held up both her hands and called upon an incandescent glow. “Hm. I think so? It's hard to remember who I was before. What dreams were actually mine.”
+
+Shiv further noted how there were three different layers of translucence to her mind, though only one true current. It wasn't that Georges and Longinus existed independently within her mind in any form; it was just a giant, tangled, inhuman mess. “Oh, for System’s—okay, just don’t do anything yet. You might’ve inherited Longinus’s batshit too. Put another one of us down the Candles event horizon.”
+
+“What’s that?” Ikki asked.
+
+“It’s how mentally broken someone is,” Shiv answered. “I just came up with it myself.”
+
+“It is likely not that,” the Starhawk said, slipping into the conversation as he returned—while Roland kept observing Uva. There was a tension between Avatar and god now; a barrier that caused the divine mana between them to flicker instead of cycling in a ceaseless flow. “I do not detect anything broken in her mind. Instead, I suspect she is simply confused due to going from an Outsider to a System-categorized entity. A lot of things that simply were for her before are now absent. An Eldritch God’s intuition and will are laws within their dimension. But that isn’t the case for her anymore. She has a collection of extreme skills, but lacks countless foundational skills.”
+
+“Great,” Shiv said. “Even less balanced than I am.”
+
+“Put another one of us down the Shiv event horizon,” Jessica deadpanned. “Don’t steal that; I just came up with it myself.”
+
+Ikki had the audacity to chuckle.
+
+Shiv replied by exerting his will over the Red Rider’s Hand—burning up considerable effort to have it extend its middle finger. “Hey, Jessica, can you do me a favor and consult my third hand? It’s trying to send you a message.”
+
+The jutting finger was taller than Jessica was.
+
+Comedy 31 > 33
+
+“I think you’re flipping yourself off more than me,” Jessica said with a grin.
+
+“Yeah, but you get the point. Just having it give you the finger nearly gave me muscle cramps.”
+
+War is war is war is… the Rider’s Hand babbled. Yet, it sounded shyer than before, and parts of it remained burned and bruised.
+
+“War sure is, but let’s not bring you close to that mist springing out of Adam, huh?” Shiv asked.
+
+The Red Rider’s Hand went silent.
+
+Shiv scoffed. “Turns out war isn’t sometimes.”
+
+Shiv was about to say something else when a pulse of Psychomancy swept through the room. Wards changed to allow a new presence entry, and as Shiv saw Valor drift into Uva’s containment zone, he felt his gut tighten.
+
+“He’s supposed to be with Adam,” Roland said, shifting away from Uva with an expression of unease.
+
+“Yeah,” Shiv replied with building dread. “And I don’t see Adam with him.”
+
+Valor greeted the gathered crowd with a nod. “I tried everything I could do. The Culturist as well. But Adam’s condition is… It is severe.”
+
+“What do you mean, severe?” Roland asked, swallowing back the lump in his throat. “Was his state not severe before? Is he—”
+
+Valor held up a hand to placate Roland’s worries. “He is not in immediate danger. Not in the sense you think. But his mind remains in pieces. And the Crown is still active even in the Delve. Due to these factors, Adam has hit a point of… instability. The final bout of trauma he endured before he descended has left damage.” Valor took a moment to master himself. “He now cycles between long periods of catatonia and violent psychosis. Even with his Awareness stabilized outside, his sanity is broken. It is broken beyond our current power to mend. My presence in his Delve triggers only extreme panic or bouts of savage violence. He does not recognize me. He does not even recognize himself. We require more dedicated help for Adam—before he can ever hope to finish this Delve, he must be mended mentally first. Furthermore, I do not think simply letting the month pass until the Crown is removed from him would in itself restore his condition by this point.”
+
+Roland turned still as a statue.
+
+“Okay, okay,” Shiv muttered. “We need that anyway. For Candles. We were going to need to find someone anyway. So. Alright. Maybe I send a body to Weave and—” Shiv flinched as Gone suddenly flashed into existence next to him in a crackle of lightning.
+
+“Back.” That was all Gone said. Her arm-length claws sparked with leftover arcs of golden electricity. “Got into small fight with dragons. Might be a problem later.” She looked around, and suddenly realized she was intruding during a somber moment. “Hm. Other problems here too. Expected that. Going to stop talking now.”
+
+“Glad you’re not dead,” Shiv said with a sigh. It was wrong to ignore her, even if he felt like shit right now. He held out a fist. The goblin bumped it faster than lightning. “Alright. So. Instead of me going to Weave, maybe Gone here can take another trip.”
+
+“It cannot be just a Psychomancer,” Valor explained further. “The Pathbearer required is someone competent at Animancy as well, for Adam’s entire soul is undergoing the Evolution—the ascent to Legendary-Tier inflicts foundational changes.”
+
+“So what do we need to do, Valor? Just say it.”
+
+Valor went quiet for a moment as he gathered his thoughts. His mind was shrouded with considerations while his core was pristine and focused—not a hint of fear blemished his purpose; Valor had plans. He just wasn’t sure which to choose. “We have a few paths. I think we should walk all of them at the same time. Roland. You have a Psychomancy Skill?”
+
+“Yes,” he answered immediately.
+
+“Good. Good. Do you have Animancy as well?”
+
+“You want me to fuse and Delve both?” Roland asked.
+
+Valor nodded once. “Yes. Will that be—”
+
+“I will do it,” Roland said immediately, his resolve hardening.
+
+“Roland, hold,” the Starhawk intervened. “That might risk—”
+
+“Risk?” Roland snapped, his previously chained anger breaking free. “Risk? My son is in this state because—What did you do to my child, Starhawk? What did you do?”
+
+Thaen’s manifestation flinched at his Avatar’s words. “Roland, this isn’t the time—”
+
+“Maia talked to me earlier,” Roland continued, staring directly up at his god. “She told me about his Domain. It wasn’t obtained in the Fairwoods. It was only awoken there. How does my son have a hidden Domain, Thaen? How is that possible?”
+
+The Ascendant of Justice hesitated instead of answering. Shiv saw the Starhawk’s core filling with shame—but no regret. Not a drop. “It was meant for your daughter. She was the one with the lore infused. When… when the ritual happened, your son was struck down as well. Adam should have died. But while your Biomancers were fighting to keep him alive and you… you found Rose and… I managed to salvage that piece inside her. I managed to transplant it.”
+
+“Of course,” Valor whispered. “The legend is close enough. She, being an infant, lacked a Path—lacks any other constraining details. The System only knew her to be the child of Roland Arrow and Rose Van Erren—and she died before the Domain could be cemented to any kind of identity. With that, Adam might’ve been an acceptable match as well. But the risk—Starhawk! The risk! He was already a toddler; that could have shattered his soul.”
+
+“He was going to die regardless,” the Starhawk answered, voice hardening. “Udraal—whatever he did left Adam hollowed. He was trying to make the tragedy complete. Sudden infant death syndrome.”
+
+“Fuck!” Shiv spat. “Godsdammit, it always goes back. To that night. To Udraal.”
+
+Ikki and the rest of Uva’s team were mute and pale with horror, all out of their depth in this conversation.
+
+Valor lowered his head, while Roland struggled not to tremble. “Why… why didn’t you ever tell me?”
+
+“The harm of the night was too great and grave,” the Starhawk declared. “You were too fragile, Roland. As Adam is a son to you, you are a son to me. I did not want to hurt you. I salvaged what I could from… from her. What the ritual didn’t take—or couldn’t take. And I placed it in him. It was all I could do in that moment. For Adam. For you. For the future. And I thought I failed. When the Domain never woke in him even when he came of age, I thought I'd only spared his life and nothing more. So I let that night be. I let your pain drown and lurk.”
+
+And Shiv saw that the Starhawk was telling the truth.
+
+“It fits as well,” the Harbinger said. “Roland wasn’t the only one traumatized that night. The Starhawk has his own scars. He is as vulnerable as Roland. And he was never the kind to do something truly vile—even for his own benefit. He might have been able to do underhanded things before, but there are limits. He became the Ascendant of Justice for a reason.”
+
+“Alright, fine,” Shiv said aloud, drawing the attention back to himself. “Roland goes Legendary for both Psychomancy and Animancy; we get the last bit of Valor back. What else?” He stared at Valor. “Come on, I know there’s more. What is it?”
+
+“My wife’s tomb,” Valor said softly. “She was a Legend. Of Psychomancy, Animancy, and Golemancy. Constructs of her still remain. But you will need to venture into the Great One’s embrace to find her, and you will need to face her shadow.”
+
+“But not you,” Shiv said, reading Valor’s emotions.
+
+“It cannot be me,” Valor said, his misery almost palpable. “The Great One will see the last of her destroyed before they ever surrender anything to me again. I do not remember why, but I know this to be true. If I enter the Great One’s grasp, I will not return. Or I will return without any hope of ever reclaiming her legacy.”
+
+“History is trauma.” The Harbinger sighed. “To be a Legend, and one who lives longer than any other, is to be trauma personified.”
+
+“Alright. Great. So. Expedition. We can ask Marikos for—”
+
+“No,” Valor cut Shiv off. “That is a last resort. If the first two choices do not work, then we consider desperate measures. But retrieving the last of me will not be easy; the Necrotechs—my people—will not surrender my final effigy and see me returned. Much of its current rulership despises the idea of my restoration, for they know that death might inevitably follow as I look upon their corruption.”
+
+“So it’s mainly going to be Roland,” Shiv said. He then hesitated. “What about me? Can you teach me Animancy? I can do some similar stuff with my Severed Shadow.”
+
+“Centuries,” Valor answered. “That’s how long it takes to grasp the intricacies of the soul, even for a technical genius. And you are not versed in Psychomancy either. But your strategy is correct; it is the Culturist I am considering for this, not you. He, and the Composer.”
+
+“Fine. Perfect. Just a setback; we’re not out of options at all.” Shiv felt like he was blowing hot air, but it was better than letting the demoralization swallow them.
+
+“There is also a final possibility I am considering,” Valor said, looking upon Uva. “And that is why I am here: Uva. She is becoming a Legend in Psychomancy. There might be a specific Evolution she can obtain that aids in Adam’s restoration—but I must see if she can even evolve such a skill. Or if she might gain something else entirely.”
+
+Something about that felt right and righteous. Shiv’s intuition screamed at him, begged him to pursue this path. “Alright. Then let’s do it, Valor. Help Uva with her Delve, and maybe she can help Adam.”
+
+“Maybe,” Valor insisted. “I would not place a world of hope here. But there is a chance.”
+
+“Well, this is good for Uva too, right?” Ikki asked. “Having the Great Valor Thann here to help her finish the Delve?”
+
+“Provided my experience offers her any worth at all.” Valor sounded doubtful. “Her most defining experiences are deeply embroiled with the Outside. I have faced down and slain the Eldritch, but my experiences in dealing with the Outsiders only go so far to aid in their destruction.”
+
+Shiv growled with discomfort. “Alright: time for me to go grovel before—”
+
+Hymn teleported into the silo as if waiting for that exact moment to arrive.

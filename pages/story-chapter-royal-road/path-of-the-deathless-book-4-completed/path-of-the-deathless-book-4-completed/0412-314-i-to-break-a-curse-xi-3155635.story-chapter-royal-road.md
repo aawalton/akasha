@@ -1,0 +1,183 @@
+---
+id: a1a2d062-a54e-5783-a36b-c8cc670cfcfe
+page-type-slug: story-chapter-royal-road
+title: "314 (I) To Break a Curse [XI]"
+slug: 0412-314-i-to-break-a-curse-xi-3155635
+partOf: path-of-the-deathless-book-4-completed
+position: 412
+ownLength: 4011
+unit: words
+publishedAt: 2026-03-15
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3155635/314-i-to-break-a-curse-xi"
+royalRoadId: "3155635"
+---
+
+Effective as of immediately, Former Lady Eileen Harkness is to be considered persona non grata for abandoning her post, deserting her fellows, and exacerbating conflicts between New Albion and Weave (adjustments can be made to the last charge depending on whether diplomatic endeavors offered to the Composer develop).
+
+Former Lady Eileen Harkness departed from surface gateway Theborn days after the Passage Incident, and was last spotted in Republic Fortress-City Utahd.
+
+She is assumed to be operating without any assistance.
+
+Based on information compiled from the prior time she has deserted, she will likely try to insert herself in a volatile and complicated geopolitical situation that is within the Stolen Throne's interests. From there, she will insert herself in a position of power and stabilize local conditions or secure essential assets to purchase her position within the House of Masks back through redemptive valor.
+
+All operatives in the field are to ensure that this situation does not transpire. Lady Eileen Harkness is to be captured if possible and eliminated if necessary.
+
+Under no circumstances is she to fall into the Republic's hands, or any other nation’s, for that matter. (And honestly, can someone just rid us of this meddlesome, arrogant, self-serving, hyper-embarrassment of a Jezebel? This is the tenth time she's done something like this. The tenth!)
+
+—Draft Decree of Capture or Elimination Issued by the House of Masks
+
+314 (I)
+
+To Break a Curse [XI]
+
+Pillar of Orichalcum 367 > 375
+
+Leviathan of the Shapeless Tides 512 > 514
+
+Parliament was in session today. The Republic's representatives and noble elites were gathered to discuss critical matters that affected the economy and lives of all the Little Folk. Seeing the big ones up top hard at work filled Shiv's heart with inspiration, and he thought to himself, "Maybe I should lodge a personal complaint. See what they think about the Republic's crumbling infrastructure, especially in the poor areas of the Capital."
+
+And so, after having a brief but ultimately fruitless conversation with his new Assassin captive, he decided to turn his attention to other things. Namely, extracting a large sewer pipe that no longer functioned properly and sent spills of waste spraying across the asphalt from where its upper edge stuck out from a fractured stretch of pavement. Things were bad enough that practically everyone avoided Downers Street near the Dragon's Biscuit. The smell was so foul it could be tasted in the air three blocks away.
+
+It was frankly unacceptable. Shiv's civic heart mourned for how much the public had to suffer, even if most of the people in the district were working girls, thugs, robbers, thieves, con artists, brigands, and all sorts of other civilizational wastrels. They shouldn't have to suckle in air that was infused with fecal matter as much as anyone else. It just wasn't right. And so the Deathless saw about lodging his own complaint in the most direct and literal way possible.
+
+Most of the Prismatic Guard were looking for him already. He hadn't been particularly subtle when he ripped that sewer pipe out of the ground. But he moved quickly, and he was still a Hero when it came to Reflexes. It would take some time for them to track him down and effectively pin him in place. But he didn't intend to stay for long. All he wanted to do was have a conversation with Veronica, clear a few things up, or cause a few things to devolve irrevocably into pointless violence, and then leave to begin his vacation in the wonderful land of the Fairwoods.
+
+And so it was with peaceful determination in his heart that he accelerated down from the sky. His inertial sheath thundered in delight. His sewer pipe was pointed directly at a particular building, like a farm post poised to be hammered deep into the soil.
+
+Finding Veronica and the other council members wasn't so difficult. She and a select few glowed the brightest after all. Few could match the vitality of a Legendary Pathbearer, and a True Legend like Veronica was practically a miniature sun amidst a sea of paltry embers.
+
+Shiv’s own body was aflame due to his Bifurcated Processing, and the sewer pipe he held turned molten from air friction. Fire seemed to be the theme of this day. Fire and unanticipated collateral damage. Shiv didn't think he could destroy all the capital in a single blow, not without amassing a considerable amount of overflow tides. But he could make a good go of obliterating the parliamentary forum taking place in Maiden’s Temple of Mechanics and Practical Mysteries. The structure looked like an eyesore to Shiv anyway, being a brass bolt in the middle of a city carved from polished wood, colorful glass panels, and crystalline chains. Even high above, Shiv could hear the clicking and clanging of the gears that shifted on the building's sides.
+
+Something about it reminded him of the Rubix Well, and that soured his mood ever so slightly.
+
+He added that to the list of infrastructural items he wanted to complain about. It was fitting that Maiden's personal house of faith belonged in the same category as the city's broken sewage system, after all.
+
+Warning: You are trespassing in the domain of an Ascendant.
+
+Attention: Maiden the Genius is aware of your presence.
+
+Attention: Daughter the Deadly is aware of your presence.
+
+Attention: Kathereine the Songbringer is aware of your presence.
+
+The World Quest to kill the Deathless popped up in Shiv's vision thereafter. He ignored all of them. He also ignored the complicated webwork of interconnected magical patterns that flared into existence around Maiden's Temple. In an instant, he could no longer see that messy thing of mechanisms and brass alloy. Instead, all that lay before him was magic—so many intricate shapes infused with so many different lores. He could feel the weight of gravity. He could feel the lick of foreign heat. He could feel coldness hidden beneath the flame. He could feel the tickle and pressure of Dimensionality. He could even sense the erosion of time.
+
+The wards arrayed to stop him were a nest of artistic wonder. So many different kinds of mana stitched together via shape and intent. Such a shame it wouldn't matter. Such a shame that Shiv was going to tear right through like an arrowhead shredding cloth.
+
+Between the cutting powers offered by his Severed Shadow and the full Shapeless Tides animated infusion he'd bestowed upon his new body, Shiv was about to ruin a masterpiece.
+
+Warning: You have been marked by Veronica Chandler.
+
+Don’t care. Eat shit.
+
+Shiv struck the wards so hard his sewer pipe disintegrated.
+
+***
+
+Legend-Councilwoman Veronica Chandler prayed to the System for an end to her misery. She'd already suffered twelve hours of drudgery within Maiden's Temple of Mechanics and Practical Mysteries because of one of the silliest house feuds she'd ever experienced in her long career.
+
+Simply put, an alliance formed between House Greenmoor, House Ravenhold, and House McDouglas was currently at odds with House Stormhalt. Because of course the Stormhalts were feuding with someone else for something they did. But rather than being a recent offense, House Stormhalt found themselves accused of a historical grievance in the aftermath of the “Inter-Grave Robbery” incident. Supposedly, certain blessed relics given unto Houses Greenmoor, Ravenhold, and McDouglas by Maiden were found within Stormhalt crypts, left on Stormhalt ancestral corpses.
+
+Naturally, instead of bringing up this grievance in Parliament or addressing it in a grown-up and dignified manner, the three aggrieved houses immediately took matters into their own hands. A series of assassinations, bombings, and arson attacks broke out across various Stormhalt territories. This caused Stormhalt to do what Stormhalt always did: nearly start a civil war within the confines of the capital.
+
+It was only with the intervention of the Prismatic Guard and Veronica's personal involvement that things finally calmed. But that didn't mean this pointless crisis was anywhere near settled.
+
+Thus, the very busy Councilwoman, with Frost Giants up North to worry about and Gods of Blood and Sacrifice to the South encroaching on her borders, was forced to play the role of mediator for these idiot noble children.
+
+Idiot noble children that held substantial sway in the Republic’s politics. Who provided a steady output of High-Tier Pathbearers for her existential wars.
+
+It's good that they're idiots. Idiots are easy to use, at least. Veronica believed these thoughts. She truly did. But there were times that she found herself teetering on the brink of regret. If she could only have some more competent Pathbearers…
+
+But then she would find herself with competent enemies too, and the Republic would be unraveled in an internecine conflict she couldn't contain. Such was the consequence of a world made hyper-individualistic by the System.
+
+“You lying curs, the Inversion Chronometer was bestowed upon Master-General Charles Stormhalt for our glory in the Northern Wars!” A practical sea of spittle exploded out from Adept-Representative Gilman Stormhalt as he stared down his rivals within the temple's forum. Though young, foul-smelling, and possessed of a particularly lecherous reputation towards anything with two legs, Veronica thought higher of Gilman than the rest of his family did.
+
+At least he pretended to care about diplomatic overtures and upholding the laws of the Republic. The fact that he knew his place before the Council also spoke highly of his intelligence. Just a shame he was a bastard born to the wrong concubine. It would take a substantial miracle for him to assume any role of power in the future.
+
+Or even survive long enough to get a chance.
+
+“Havel's probably gonna have that one killed within the next five years,” Anthony said to Veronica via telepathy. “Too much ambition in his heart. Wrong side of the family too.”
+
+“Havel should concern himself with redemption instead of such trivialities,” Veronica replied tersely. “Considering the shame he's covered his house in, I don't think he's in any position to lay judgment on those beneath him.”
+
+“And yet he will.”
+
+“And yet he will,” she agreed. Anthony and she sat side-by-side, the highest among equals, the highest in the chamber, the oldest seats of both the Auroral Council that the public knew and the Ruling Council that held the reins. The loud clicks and groans of moving gears twisted and snapped above them. The entire room trembled and twisted. Even the ground thundered with seismic activity as the floor shifted. It was like they sat upon unstable soil being dragged forever clockwise. If there was any purpose for this disorientation, Maiden didn't tell. Veronica suspected that the Genius had likely long forgotten as well. Maiden’s presence here was faint. Even if this was her temple. Even if this grudge had everything to do with her bestowed glory.
+
+Maiden had other interests taking up her attention these days. Other experiments she would perform halfway before abandoning. Creations she would leave half-finished, turning them from wonders to abominations out of sheer neglect.
+
+The poor nobles were doing a song and dance for an Ascendant that wasn't even truly listening.
+
+If only you all knew how little she cares, Veronica thought as a representative of House Greenmoor shot up from her seat out of turn to call Gilman a mongrel born from the womb of a dog. The boy's face turned a deep shade of scarlet that clashed poorly with his long black mane. Once more, though, he impressed Veronica. Rather than being consumed by his anger, he responded with the flippant suggestion that the rival representative was a whore he'd left ignored in a cheap brothel years before.
+
+Then came the customary sneers, laughs, sputters, and outrage.
+
+Every day in politics was a new problem born from an old problem resembling a moment from yesterday, portrayed by new players fated to make the same mistakes their parents and predecessors once did. Veronica bit back another groan as she watched the circus play on. Down by her left and right, hugging the tall chairs that loomed over the temple’s forum were the other members of the “Auroral Council,” though very few of them were proper Avatars, and no Legendary Pathbearers sat among them, in spite of what the propaganda proudly declared. But that was just as well. Better for the Republic to see familiar faces for a few decades, even if said faces held no true power behind the curtain where the decisions were made.
+
+Not that most of the Ascendants had any kind of political sway these days to begin with. Daughter’s Waifs were unusable both as public-facing Seats and as decision-makers on what was once the Ruling Council for obvious reasons, in practice leaving Daughter’s human mortal representation vacant in the latter and in the form of a kindly old man who knew as much about the true machinations of the nations as a drunken wastrel in the former.
+
+Daughter’s priest sat a few meters down and to Veronica's left, looking on at the chattering and leering noblemen and noblewomen with disapproval. He had a respectable personality and had been in his position for a good while, but unfortunately, a figurehead was all he would ever be. Still, better that than plopping a shivering little girl on the seat and telling her to defuse a political disaster. Veronica might as well attend these parliamentary gatherings in the nude if she were giving up on trying to be taken seriously to that degree.
+
+And so, the priest kept his position, nodding or frowning all day long, and the Waifs stayed her concern. Much like most of the other Head Avatars, they would be as temporary as any of these proceedings. Of the ones recruited after the Rubix Well fiasco, she didn't know their names and wouldn't let herself remember them until they survived for at least a year. This was the worst thing about experiencing the true joys of one’s longevity: the world changed, but the people just kept making the same mistakes.
+
+Sure, the young came to replace the old, fresh ideas and new cultural winds shifted. But Veronica had been here before. She had lived this moment before. She had seen these people before.
+
+Different faces, different voices, different dresses, same old dance.
+
+Stagnation was the brutal price that came with enduring control. As much as this was torture, it was also to Veronica's benefit because she and, to a lesser extent, Anthony were the only true powers in the room. Everyone else was just a player, an actor more than a politician.
+
+They felt like they mattered. They felt like they had a say in things, and ultimately, they stayed out of her way.
+
+And such was how the Yellowstone Republic endured for all these centuries.
+
+I want to kill these idiot children. To just make the others grow up a little bit. Would be slightly more interesting in the chaos it'd cause.
+
+Veronica should have known better than that. She should have known better than to taunt the System. For as soon as that thought hardened, most of the fingers of Integration curled, leaving only one pointed down upon her.
+
+His presence struck her like a lightning bolt. She felt him with her Divination Skill, his nature flaring bright, the strife practically bleeding out of his pores, making him seem like a flame at the heart of a dark forest, like a siren rising from a sea of silence. But she felt him accelerating toward the temple from well over ten kilometers away. Veronica's mind went blank with disbelief. With the slightest gesture, she shaped a Divination spell and conjured an image of the wayward grandson into her mind.
+
+True to her shock, he was here, back within the capital, soaring recklessly through the air. His armor looked a bit different, but with the triggering of the hidden World Quest, she once again received and his unique mana signature, there was no mistaking Shiv from anyone else. He had a ten-meter-long rod clutched close to his chest, and upon further observation, Veronica realized it was a damned sewer pipe. But most ridiculous of all was how he came right for her.
+
+The boy had gone completely mad. If he wanted to communicate, he could have written. He could have snuck into her personal abode and confronted her there—tried to assassinate her even. But exposing himself to the entirety of the Republic, drawing the attention of the Ascendants, trying to make an attempt on her life here, in a public forum? With a sewer pipe? Udraal’s insane project must have finally lost his mind. Maybe the Tarrasque lurking inside had eaten away what little rationality had been there to begin with.
+
+“Are you seeing this?” Anthony asked, including the Psychomantic equivalent of a raised eyebrow.
+
+“In vivid detail,” Veronica hissed in disbelief. “The boy is on a suicide run. Even he can't be stupid enough to think that he can tear through the protective wards—” Her words trailed off when she noticed the crimson gleam radiating from every edge of his body. Each one projected faint ripples across the world, like eddies spreading over the surface of a lake. But there was something wrong with the projections. Something that made Veronica's insides scream in alarm. And then she noticed the wounds he was tracing on the fabric of Integration. He was less like a man and more like a razor blade being dragged along a channel of flesh.
+
+Veronica had no idea what kind of skill evolution allowed someone to rip the System asunder. Not even a rare Animancy-Vitality Drain Skill Fusion could do something like this passively. This was something different. Something alien. Something Unique.
+
+The Councilwoman's astonishment only grew as a stray spell managed to crash into the Deathless. It struck him from the side. A bolt of lightning flung from afar. The caster was launching electricity blindly, trying to intercept the attacker before he got to the temple. They managed to get lucky, but luck couldn't overcome the powers afforded to the Deathless by his new skill. The rippling waves he projected shredded the lightning down the middle, split mana itself asunder. Bursts of destabilized magic dissipated the air, as shapes turned to broken fractals.
+
+She knew that this wasn't the doing of his Shapeless Tides. That Skill resisted magic; it didn't tear it apart.
+
+The Councilwoman took no chances. She reached out for her grandmother and beckoned the other Ascendants to rouse. The fools on the false Council below her had only just sensed the danger about to come. Suicide run or not, they needed to prepare themselves. If the Deathless wanted to inflict death, then a Necromantic Arrow would strike him next. Veronica's pulse quickened. She mustered her Rhetoric skill and prepared to intercept the impending blast. The worst could be contained, but everyone below Heroic-Tier within this temple and a few blocks of space around it would likely be forfeit if a Legendary Pathbearer with Unique offensive power struck as hard as he could.
+
+Not unless they were shielded by a higher power.
+
+“Harlock!” Veronica called, but Anthony was already acting. Rivers of midnight spilled out from his orifices, splashing through the walls and engulfing all fifty meters of the forum in an instant. The two of them were faster than any of the two hundred other Pathbearers within the chamber by a magnitude. Gilman Stormhalt didn’t even perceive Harlock’s darkness rushing toward him until well after being washed over. The other Council members were found similarly wanting. The bodies of a few who served as lesser Avatars turned incandescent as they called upon their Ascendants. But they were slow, too slow to stop whatever the Deathless was about to do. The cost of staffing her council with those controllable and unthreatening taunted Veronica once more.
+
+Here it comes. She hardened herself and waited for a rift to tear open the fabric of space. For a corrosive arrow infused with Necromancy to strike the Deathless and set him off. If this is your idea of retribution for my little verbal rebuke, I'm going to show you the true meaning of being chastised, you shitty little—
+
+Shiv's attack slammed into the nest of protective Wards guarding the temple. No Necromantic Arrow struck him, no explosion followed, no devastation enveloped the Capital.
+
+Yet what happened next left Veronica reeling with inquisitive horror.
+
+The boy's pipe ceased to be on impact, annihilated by a convergence of magical and physical force. The outside of the temple was engulfed by colors of blinding brightness, a hundred different spells detonating at once. Spells meant to repel. Spells meant to crush. Spells meant to displace someone across space, across time. Meant to shock people. Fry their nervous system. Rip the water from their tissue. Cut out their senses. Break their biology. Sever their tendons, stop their organs, and turn off their brains. Spells that ricocheted from the Deathless's body, like pebbles being thrown at an avalanche. Spells that were sheared down the middle as Shiv continued tunneling forward.
+
+He was a drill digging through a stone. His strange, slicing aura oscillated wildly, faint patterns traced licking cuts across the surface of the world. Open wounds developed not only upon the wards which were being hewed through with every passing second, but also the vitality coating Integration itself. Then came a final surge of overflow tides, and he sank all the way through. The hive of magics serving as a protective hull of the temple was pierced. And where mana tore before the boy like bundles of leather before a falling halberd, physical matter had a resistance comparable to air. Shiv split through the walls like they didn't exist at all and dragged deep gashes along Harlock’s shadows as he completed his invasion.
+
+A ragged gasp filled the forum. Harlock's voice was infused with more surprise than pain. But there was pain there, if just a hint of it, just as there were scratches marring the divine darkness.
+
+With his protection pierced, Harlock drew his shadows back. The Midnight receded, surrendering a stable patch of ground to the gleaming Deathless. A shower of dust rained down from the entrance he'd made, briefly obscuring his form, but when the haze cleared, Veronica noted the abnormal physiology the Deathless now possessed.
+
+One of his arms was missing, but rapidly growing back. Lengths of bone, teeth, and cancers reconstructed the missing limb. A coiled rope made from skin whipped behind him as well. His own skin. And then there were the edges lining his body. Then there were the traces that traveled down from the edges. Then there were the ripples, the cuts that sliced away at the flesh of existence. More than ever before, Veronica understood why the elimination of the Deathless was a World Quest: he evolved so quickly, so normally, that it was impossible to predict what he might be capable of in a week, let alone a year.
+
+In ten years…
+
+It’s not going to take ten years to reach an Incursion or a new apocalypse, Veronica concluded. Not even close.
+
+Veiled by the darkness, she waited for her “not-grandson” to act. She wasn’t the only one watching; Anthony was stalking his way down the forum, flanking Shiv from the right. The other capable Avatars brought their Ascendants across in anticipation of a battle to come. The House representatives were shaping spells and drawing steel, but were discombobulated by the ambush.
+
+Before them, Shiv just stood there, glaring down at his empty hands.
+
+“Ah, hells,” Shiv muttered under his breath. “I should have thought this through some more. Of course the damned pipe was going to explode. Felling… whatever.” His right hand shot up to point at exactly where Veronica stood. “Hey, Chandler. Got something to say to you. Got a few things actually. Starting with this city's infrastructure: It’s kind of shit. You got sewer pipes sticking out from the ground, and Maiden’s temple looks like a metal skin tag next to all the nicer buildings. You gotta do something about that.”

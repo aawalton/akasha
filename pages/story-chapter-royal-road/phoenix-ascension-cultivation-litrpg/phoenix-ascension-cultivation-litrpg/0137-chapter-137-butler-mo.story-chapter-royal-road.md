@@ -1,0 +1,201 @@
+---
+id: 7f5094df-d9f7-58f2-af55-d4aba4357d6c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 137: Butler Mo"
+slug: 0137-chapter-137-butler-mo
+partOf: phoenix-ascension-cultivation-litrpg
+position: 137
+ownLength: 2277
+unit: words
+publishedAt: 2026-06-09
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3514704/chapter-137-butler-mo"
+royalRoadId: "3514704"
+---
+
+I looked at the Black Turtle, but he remained in his shell.  It also wasn’t his voice, but instead sounded similar to the voice of the one called Mo.
+
+Butler Mo had communicated with me via telepathy!
+
+That was pure insanity! Not only did he have strong detection skills, he also had telepathy, and he knew about me, yet didn’t tell the big man anything. That was strange, very strange.
+
+What was that Butler Mo planning?
+
+It was hard to tell without talking to him, but there would definitely be more opportunities. For the moment, I decided to return to my mindless rest. Only until tonight, though.
+
+It was time to make progress.
+
+When night came, I knew that it was time for me to move. I opened the cage, much to the surprise of my brethren, and started looking around. First, I did a rapid scan with my Divine Sense, and noticed that there were many more beasts than I’d thought.
+
+All imprisoned, of course.
+
+It was despicable.
+
+Noting their locations, I made my way over to the closest walls. I had to say, the place was pretty big, even for me. I did not use any Qi or techniques, as to not attract attention, but it was still impressive.
+
+When I reached the outer wall, I was almost afraid to touch it. There were a lot of enchantements on them, and honestly I could not decipher all of them. Most of them were familiar to me, but the connecting links weren’t.
+
+Who would have thought that even after millennium, I would have to learn new things? Now wasn’t the time though.
+
+Still, there were no runes that hinted that they would blare an alarm if something touched them, but I didn’t want to risk it. I simply walked alongside the wall to see what else there was.
+
+There seemed to be a repeating pattern, which wasn’t unusual in low-tier craftsmanship. Then again, it could be a high-tier enchantement masked as a low-tier enchantement, but considering where we were, it was unlikely.
+
+Finally, I got to the end where the door was supposed to be. And it was there, but the wards surrounding it were so numerous and so sensitive I didn’t dare approach it. Any movement nearby would trigger it and I wasn’t about to want to find out what would happen.
+
+I circled the rest of the room then made my way back to the cage. It was the same thing over and over again. It should’t be too hard to break the walls when the time came, though  I wouldn’t be able to do it alone.
+
+The Black Turtle poked his head out of his shell and looked at me. “So, what did you find out?”
+
+“There’s an enchantement all along the walls that can resist the attacks of several high ranked cultivators and the door is inaccessible. We’re pretty much stuck here for now.”
+
+He nodded. “I’d expected that.” Then, he turned his head toward the now empty cage of the snake. “I hope he’s alright.”
+
+“The butler seemed to care a little.” I commented as I looked at the cage as well. “I think he know something’s fishy.”
+
+The turtle snickered. “The child knew something was fishy.”
+
+“Right…”
+
+“Well, I’m not going to put my nose in your mess, just don’t get us killed.”
+
+“Don’t worry.” I assured him with a wicked smile. “You won’t need to concern yourself with that.”
+
+“That’s not… reassuring.”
+
+***
+
+Days passed slowly and the food didn’t get any better. I’d kept looking for weaknesses in the formation, but after staring at walls for far too long, I figured that the only thing I could use to sneak out was the door.
+
+Unfortunately, that was harder to do than I would have liked. It was clear that someone with enough skill had worked on the door.
+
+Though it wasn’t like the situation was hopeless, as I still had a few tricks in my pocket, or feathers. One of them was simply breaking out and leaving Meng Mao to deal with the damage. I was sure I could get a few of the beasts here to rally with me, and if they didn’t, well I still had a few skill points left.
+
+As I was thinking about wether or not to take out the Spirit Beast meat, the door opened and a single pair of footsteps walked in. It was Butler Mo, taking a casual stroll toward our area. It was no coincidence I was sure, he wouldn’t be here to feed us.
+
+I made sure the cage didn’t look out of place, but it was more of an act than anything. However, I was wondering how the butler would react. He did send me that creepy message the last time around, and wow did I really need to talk to him about that.
+
+Better now than never.
+
+He stopped in front of us and gave the turtle and red bird a once over, then paid some more attention to the white tiger who was sleeping in an uncomfortable position.
+
+Then he turned to me.
+
+“I assume my message had been well received?” He asked, his expression unchanging.
+
+I didn’t reply immediately, wanting to keep the dumb bird act for a while longer.
+
+“I don’t mean you any harm, and truthfully, I despise what the Young Miss has made of this place. It didn’t used to be like this…” His words lingered for a moment, as if he had something else to say, but kept them to himself.
+
+“I know you’re not a Vermillion Bird, and I know about the feather. I didn’t tell Mister Guo in the moment, but I might depending on your actions. I also know that the cage hadn’t been enchanted. I have a pretty good detection technique, so there’s no point in hiding anymore.”
+
+He then stared at me with an intensely powerful gaze, one that I knew could read me like an open book. It was far from pleasant, but it was also obvious that playing dumb would no longer work.
+
+I didn’t undo my Perfect Disguise but I did focus my eyes on him.
+
+I get it, sheesh. Using telepathy, I started communicating to him. It was probably the best solution in that moment, as I wasn’t sure who else was listening.
+
+The man raised his eyebrow.
+
+‘Very well, if this is how you wish to do things.’
+
+Why are you assuming I can speak to begin with?
+
+‘Please, do not insult my intelligence.’ He somehow chuckled in his mind, which was a little bit more than creepy.
+
+I preened my feathers as I answered.
+
+I didn’t mean to, I’m just not sure how much cultivators know about us.
+
+‘You do seem to be very young.’ He noted while nodding. ‘I shall not divulge our secrets, but we know some of you gain the ability to understand human speech and even speak after enough interaction with us. Given the fact that Meng Mao sent you here, itw ould be safe to assume that you had the ability to speak. Telepathy, on the other hand, wasn’t something I expected you to know how to use.’
+
+What? Did you just assume I was a bird brain?
+
+‘I am ashamed to say that, yes. I have not met many intelligent birds, but none of them were a Phoenix. It is an incredible honor to meet you.’
+
+My eyes narrowed. How did you figure it out?
+
+‘A Phoenix Feather was sold not long ago, and I traced it back to the Hu Village. Meng Mao then comes back with a suspicious bird. Putting the pieces together wasn’t hard.”
+
+So the Guo clan is better prepared than I’d expected.
+
+‘But of course.” He chuckled again. “We have one of the best spy systems in the area. The only reason we haven’t overthrown Meng Mao yet is because he’s too powerful and has too much influence.’
+
+So you do have a problem with him.
+
+‘Sure, a problem. I have nothing against him personally, but the Guo family does, and I serve the Guo family.’
+
+I see. So if you’d sniffed me out, why did you not denounce me?
+
+‘Curiosity. It’s not everyday a mighty Phoenix makes their presence. I was also wondering why you would agree with whatever Mang Mao had planned, but I can guess that you were the one who killed his sons and he forced you into a karmic bond.’
+
+Karmic bond?
+
+‘Yes. It is an invisible and powerful bond created between two individuals. Most of them are not controlled, but some people have the power to influence karma slightly.’
+
+In that regard, I wasn’t sure. There was something I wanted here, and that was about it. I did agree to help him out of self-interest, but now that I thought about it, it was a little weird that I was so read to agree. Was it because of the Spirit Stones or the fact that he could have squashed me like a blade of grass back whe we first met? There was definitely a certain degree of influence.
+
+Maybe there was something like that.
+
+‘As for why you’re here. I can guess that as well, but trust me, you won’t get your wings on that information easily. It is well protected and you are an anomaly here. That idiot Meng Mao could not have thought of a better disguise for you?’
+
+I shrugged.
+
+Butler Mo let out a heavy sigh.
+
+“Anyway, try not to do anything, it’s not the time yet.”
+
+After he said that, he left, giving me more questions than answers.
+
+“What was that bout?” The old turtle asked, though I shook my head. I had to give a certain man a piece of my mind… if I could.
+
+***
+
+Meng Mao was sitting his office, catching up with all the work he’d missed during his time away. There was much more paperwork than he’d expected, and quite frankly, he didn’t enjoy it. However, he did what he had to do.
+
+It was somewhere during the fourteenth report that he’d noticed a certain itch in the back of his head, though he couldn’t quite put his finger on it. He kept doing his work, reading reports, signing papers or burning them in the fire, but that feeling kept itching him until he got so frustrated he jumped to his feet.
+
+“Heavens, what is happening? Who is attackinhg me? Show yourself!” He yelled, swishing his sleeve and spreading his Divine Sense out, but nobody was there.
+
+Just what-
+
+However it clicked to him then. It was something he’d experienced before, but in a more direct way. Somebody was trying to communicate with him! But who, and where were they? Communication of such type could not be done long distance.
+
+He mimicked the Qi movements he would usually do when talking to someone, and after a few unsuccessful attempts, the itching feeling disappeared.
+
+Finally, I thought I’d never get to you. A familiar voice spoke directly into his mind. We should have tested this out beforehand.
+
+‘Tested what out? What is this? How- Aren’t you-?’
+
+Don’t worry about that and listen to me. Your stupid disguise got me found out by the Butler. I am not sure what he wants but for now he didn’t tell on me. That may change, we need to talk about him.
+
+‘The butler.. Butler… Which butler?”
+
+Someone named Butler Mo. He analysed your every movement ever since you left the city, he knew what you did, and what I did, and also what I am. Admittedly we were both stupid in that matter, but what we need right now is to discuss a new plan.
+
+I’m not sure if I can acquire the information you want without a lot of work, and the fact that even the little girl fished out that something was wrong, doesn’t give me much confidence. Their area is very well guarded, so I will need to convince the butler to help me  in exchange for helping me. However, I doubt he would be willing to aid me in destroying the family he works for.
+
+‘No, he definitely won’t. What can we do in this scenario though? It’s not like there’s any easy way to go about it now.’
+
+And whose fault is that?!
+
+‘Shut up, I’m thinking…’
+
+You-
+
+The bird did not talk anymore though, allowing Meng Mao to think of a solution. Looking around at all the paperwork, an idea quickly appeared in his mind.
+
+Their records. They must keep a book of records. If you can steal it and bring it to me, I should have everything I need. I’ll also consider your debt paid and I will help you with entering the secret realm.
+
+‘A book of records… Yeah that makes sense. Record their crimes…’
+
+Meng Mao chuckled at that remark. Oh how little you know. He peeked at an inconspicuous book sitting on his table. Trust me on that, alright?
+
+‘Fine.’
+
+With that, the communication cut, and Meng Mao was once again left by himself, his mind empty.
+
+“What an interesting technique… She has many secrets for a chick…” That was just a comment he’d made to himself though. It wasn’t his place to question what she did and how she did it, as long as they worked together. He’d felt that they would have a good relationship in the future, so he was willing to help her achieve her goals as well.
+
+Just as he sat down, a knock made him lift his head. Sensing with his Divine Sense, a smile curled up his lips.
+
+“Enter.”

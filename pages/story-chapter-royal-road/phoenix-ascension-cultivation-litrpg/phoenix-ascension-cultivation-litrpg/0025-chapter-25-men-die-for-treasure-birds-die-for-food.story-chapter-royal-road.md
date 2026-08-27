@@ -1,0 +1,203 @@
+---
+id: ec264666-608c-553c-b5aa-47cffb425920
+page-type-slug: story-chapter-royal-road
+title: "Chapter 25: Men die for treasure, birds die for food"
+slug: 0025-chapter-25-men-die-for-treasure-birds-die-for-food
+partOf: phoenix-ascension-cultivation-litrpg
+position: 25
+ownLength: 2323
+unit: words
+publishedAt: 2025-09-20
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2615434/chapter-25-men-die-for-treasure-birds-die-for"
+royalRoadId: "2615434"
+---
+
+The first needle shot forward, hitting the barrier, then dissolving. The second one landed exactly where the first one had been, and the cultivator finally noticed the sneak attack.
+
+The third one arrived a few moments later, aimed at the same spot, but taking his dodging into account.
+
+The fourth and fifth missed, as my prediction didn’t take into account the fact that he would slap a talisman on his chest.
+
+I clicked my tongue and changed plans, summoning another three needles and infusing them with the Nirvanic aura. Exercising more control was a must now that my calculations had failed, and so the sixth landed near the rest of them, and the seventh barely broke through the surface of the protection.
+
+I lunged out, following the eight and ninth, which did nothing more than miss and bounce off the barrier. Grass rustled below me, which revealed my location to the lot of them.
+
+Side Step!
+
+I dodged the sword Qi from Hei Tu, then ducked, evading the spear strike from the other guy.
+
+[Skill: Evasion has reached the (Intermediate) rank!]
+
+A foreign flame attack brushed past my feathers, and I finally reached the talisman user. I clawed at the spot where the seventh needle had penetrated, undoing my stealth skills in the process, then shot a Peck with pinpoint accuracy.
+
+The barrier shattered under the powerful blow, and the rest of the needles shot toward his head. He leaped out of the way, but I managed to catch his shoulder with a single needle.
+
+“Argh—” He groaned in pain, his eyes widening in horror upon realising that he couldn’t use his arm anymore.
+
+I clicked my tongue, annoyed at having failed my assasination attempt. I couldn’t use my stealth skills anymore and my wing had not fully healed.
+
+To be quite honest this fight had already begun to annoy me. Why were humans so hard to kill?
+
+I took a quick account of my available skills and all the ways I could use them to kill the cultivators. However, I didn’t know what sort of last minute measures they would have to save their skin, and that Hei Tu guy seemed loaded.
+
+Weaving a set of wing signs, I summoned the Nirvanic Flames, using them to both cover my body and create an attack. Their appearance made the cultivators hesitate, and the pill guy couldn’t use his hand anymore to create formations.
+
+Hiding beneath those initial flames, I used Phoenix Fire to boost the attack’s deadliness, then I jumped as high as I could, and sent it toward the ground.
+
+Heaven’s Protection shattered once again, taking away a good portion of my Qi, but successfully protecting me.
+
+The double fire attack exploded onto the ground, scorching it black. Wave upon wave of flames spread out from the center of the explosion, catching the cultivators by surprise.
+
+The fire burned away their clothes and threatened to melt their skin, however cultivators of their level had some degree of resistance against heat.
+
+Foundation Establishment cultivators are no joke…
+
+I groaned internally and primed my Iron Claws, side stepping toward Hei Tu.
+
+He seemed to have expected me, as his sword was already slashing toward my position. I clicked my tongue and deflected it, then sent a flying kick toward his stomach.
+
+Talismans burned, protections shattered, and my hit connected, punching a hole through his lower body, and he spat out a mouthful of blood.
+
+“Brother Hei Tu!”
+
+“Save Brother Hei Tu!”
+
+They all rushed toward me, weapons ready to strike me down. However, Brother Hei Tu didn’t need saving. Despite his grave injuries, he took a hold of my leg, and a cold aura of ice made me unable to burn him from the inside out.
+
+The Ice Crow Golden Core? When did he collect it? Sneaky bastard!
+
+Although he had literally grabbed me, I wasn’t quite helpless. Pushing off with my other leg, my sharp talons destroyed his organs, though he bore through the pain and raised his sword.
+
+“Stay back!”
+
+Hei Tu yelled, his eyes shining with the unmistakable glint of greed.
+
+So you want the biggest piece of the reward? Sigh, even people like you can’t see the immensity of heaven and earth.
+
+His sword glowed with a pure, blue spiritual Qi, the oppressive aura making even my feathers stand on their end. The air around the blade turned dense, the wind whipping crazily about as he gathered more and more power.
+
+Finally, he was ready to strike, his sword having grown by at least three sizes and its sharp aura cutting the ground, trees, and bushes in the area. It was so wild it even hit some of his fellow cultivators, though they did not suffer any damage besides torn clothes.
+
+That did make them stop advancing.
+
+The sharpness cut me on my stomach, legs and face, causing blood to drip down my feathers.
+
+This was the full strength attack of a Foundation Establishment realm cultivator. I knew it wouldn’t kill me, but whatever the result would be, I would end up severely damaged.
+
+“Crazy bastard!” I roared, though I wasn’t sure they understood me. Theoretically they should be able to.
+
+Who knew? Either way, his actions were reckless.
+
+Ruthless to the enemy, even more ruthless to oneself. Sigh, too bad he’s fated to die today.
+
+If such a man was allowed to grow, he would be a menace to enemy factions.
+
+However, he didn’t account for two things.
+
+I forced myself to spin once again, digging with my free leg into his flesh, activating Tail Whip, and cutting off his arm before his attack could hit me.
+
+The severed arm, still holding the sword, flew through the air, the sharp aura cutting the top of my left wing off and causing chaos and destruction in the area before finally running out of power.
+
+Ignoring the coursing pain, I took advantage of his missing protection, and sent my strongest attack toward him.
+
+I called upon the Myriad Qi Needles that were left over from my previous attack.
+
+The four or so needles shot right through his skull. His unceremonious death was announced by the system, as gasps of shock and awe escaped the mouths of the other cultivators.
+
+[You have slain Hei Tu Yang, [Cultivator] Lvl 7]
+
+[XP Acquired]
+
+He probably didn’t think I could use that skill so many times in a row, and bet on his skill with the sword to strike first. But how could I allow myself to get hit by such a powerful attack?
+
+Him not knowing my tail was sharper than his sword was no fault of his, he was too reckless.
+
+From the moment I attacked to the moment his corpse fell to the ground, only a few moments passed.
+
+The panic of his death made the cultivators lose their composure for a moment. I’d be willing to bet that for some of them, this was their first time seeing someone die… aside from the other two from earlier.
+
+Either way, I took advantage of their panic and quickly shattered the protective barrier of the guy closest to me, then killed him with a quick shot of Myriad Qi Needles. However, just as I turned toward another target, a painful headache coursed through my skull, and the needles I wanted to summon didn’t appear.
+
+[Warning! You have overexerted your mental prowess. Skills that require mental concentration are unable to be used.]
+
+Oh that’s some bullshi—
+
+The pain appeared again, and in the brief moment I stopped to catch my breath, the spear from that man rushed toward my throat.
+
+“It’s weakened! Avenge Brother Hei Tu!” He yelled, as if he gave a shit about the man that just died.
+
+I clicked my tongue and side stepped, having to return to my old ways of killing. The skill description didn’t say anything about my mental power being a factor! I feel scammed, I want a refund!
+
+I liked using them as well…
+
+Without much I could do besides sighing, I took count of my enemies.
+
+From the original six, Hei Tu died and the pill formation user guy was out of the combat, except for distributing pills to his allies. Amongst those was a member of the Phoenix sect, whatever their name was, who looked at me with shock and awe.
+
+Are they all fucking fanatics? Why did they join the hunt for Phoenixes then!
+
+The others were members of different sects, either using swords or spears, or halberds. I think one had a saber.
+
+Either way, that was all I could see before all of their weapons’ Qi shot toward me at an incredible speed. Some collided with one another, cancelling the attack, while the rest had a clear path toward me.
+
+I didn’t know why they bothered doing that again. Had their sect not taught them how to work together? Was Foundation Establishment such a joke on this continent? Or were they just absolute fools who’d never fought outside of tournaments.
+
+Ah, I'm tired. Let's wrap this one up already.
+
+My wing had healed enough for me to fly, and I took to the skies, dodging all of their attacks. I weaved my wings and conjured another ball of Nirvanic Flames, then used it to light my own body on fire.
+
+The Phoenix Fire was summoned as well, and I used it to create two Flame Dragons, which coiled around my neck.
+
+From down below, I must have looked like a golden-yellow sun that soon became a meteor, crashing toward them.
+
+Upon impact with the ground, the Dragons lashed out at the nearby cultivators while the ones at the back only had the shockwave to defend against. The guy from the Phoenix sect seemed only a little bothered by the fire, but that didn’t mean the panic on his face wasn’t real.
+
+With another weave of my wings, the flames blazed to life, engulfing them and their barriers. After Hei Tu died, their entire formation had collapsed, and they were like headless chickens.
+
+I rushed toward the spear user and bore through the headache, summoning six needles to aid me in taking him down. First I kicked, then I Pecked, then the barrier shattered and then—
+
+“Heheh, you think that trick would work twice?” He laughed and a spear aura appeared behind him, its penetrating aura almost puncturing a hole in my lung.
+
+Immune to my needles? Fuck! I screamed internally upon noticing that my needles disappeared upon making contact with his skull.
+
+I should have known that damned weakness would appear. I’d already used them for a long period of time as well. This skill would be too strong if it didn’t have such a high usage and efficiency requirement.
+
+It worked great against those low level Spirit Beasts, but against humans and stronger monsters it would be better used as a killing blow rather than a method of assassination.
+
+However such thoughts should be saved for another day, as currently the spear aura shot toward me alongside the actual spear. It almost looked like a phantom spear from my point of view.
+
+A point of view that was about to get speared and turned into Phoenix skewers!
+
+I side stepped, however the man had expected even that, as the rest of the cultivators shot their weapon Qi at all of the four spots I could have appeared in.
+
+One of them had hit me, despite having to deal with the Flame Dragons. It clearly wasn’t the full strength of their attack, yet it still sent me tumbling back like a kite with its string cut.
+
+The spear aura shot toward my landing spot— a tree that shook as I collided with it. I moved my neck just in time for the spear to brush past my feathers, and the base of the tree got split in two as the spear aura disappeared.
+
+“Tsk.” The man clicked his tongue as he approached me, preparing another such spear attack.
+
+How did they coordinate that attack? There’s no way that was random! Telepathy?! Damn them, cheaters!
+
+I stood up and summoned two other Flame Dragons, sending them forward. They grew larger and jumped at the man, and I followed closely behind while activating my stealth skills. My increased Qi storage, and if I had to guess, increased Qi regeneration, allowed for more time spent within the shadows.
+
+However stealth wasn’t exactly a viable strategy considering all the flames, but I only needed him to lose me for a single moment.
+
+He scoffed and swung his spear, scattering the lunging Dragons into a cloud of fire. The man looked quite smug as I approached him with a semi-invisible flying kick. His expression changed to one of shock when it was too late for him to block, and he had forgotten to slap another protective talisman.
+
+“What, you think I can only use Qi attacks?” I chirped out angrily as my talons met his face, and he fell over.
+
+“You—” I scratched at his face, creating a deep gash on his cheeks.
+
+“Arrogant—” I Pecked at his forehead, cracking his skull.
+
+“Stupid—” Then my talons gouged his eyes out, and his shrill screams filled the area with the atmosphere of a wailing dog.
+
+“Human!” I Pecked once again at another spot with as much strength as I could, and the two points met with a fracture that cracked his skull open, revealing his brain.
+
+I kept scratching, cursing and Pecking until he stopped moving, and I could feel the other’s fearful gazes stare at me with horror.
+
+By the time I was done with the man, there was nothing that anyone could use to recognise him, and I heaved as I raised my head to glare at the others.
+
+I prepared myself in an attacking stance, and lunged at the closest one, their last words earning a chuckle from me.
+
+“Why is it so loud?”

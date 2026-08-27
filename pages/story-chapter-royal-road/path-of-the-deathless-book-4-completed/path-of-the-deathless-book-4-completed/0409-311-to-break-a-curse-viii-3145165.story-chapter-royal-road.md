@@ -1,0 +1,259 @@
+---
+id: 34527316-d5ea-54fa-9483-5510ded6b106
+page-type-slug: story-chapter-royal-road
+title: "311 To Break a Curse [VIII]"
+slug: 0409-311-to-break-a-curse-viii-3145165
+partOf: path-of-the-deathless-book-4-completed
+position: 409
+ownLength: 5838
+unit: words
+publishedAt: 2026-03-12
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3145165/311-to-break-a-curse-viii"
+royalRoadId: "3145165"
+---
+
+This is Hero-Shadow Malcolm Turner of Shadow Group Pedigglio. T-the rest of my team is dead. I can hear—
+
+[Sounds of Screaming—Identified as Master-Shadow Grace DeNiorr]
+
+Oh, Ascendants, fuck, fuck, fuck… It's coming, it's coming. I don't have long, I don't have long at all.
+
+Nexus, listen to me. We have an outsider threat in the capital. There is a Legend-Skinwalker loose in the city. It’s the Deathless—he’s changed. We think he's taken on some kind of Blessing that stems from an Outsider god. We found him at Gathering Pool Black 13, stalking one of our recruitment officers. I think he managed to get the information from Master-Inquisitor Hastings. But—
+
+[Sounds of walls breaking]
+
+…I'm out of time. We managed to ambush him. There was someone else with him, but before we could get to the other one, I took his head off. I took his head off three times! He didn't see me the first two. He couldn't! But he didn't die! His head just grew back! He didn't die! S-suspicions are that he possesses an Eldritch Physiology Skill. All subsequent Shadow groups are to have Heroic Pyromancer or Masters with Counter-Recursive Skills along with them.
+
+He's coming. He's coming. Longinus, grant me strength. He can't die, but I can… I can flee beyond his grasp. I can deny him anything he wishes to…
+
+Take care of my daughter.
+
+[Sounds of Hero-Shadow Malcolm Turner slicing his own flesh; low breathing detected in the background]
+
+Well, look at you trying to get away from me through suicide. Cute strategy, but that cut's not deep enough, friend. Not deep enough to finish you at all.
+
+—Last Messages from Shadow Group Pediggilo, Republic Inquisition
+
+311
+
+To Break a Curse [VIII]
+
+Master-Inquisitor Hastings did considerably less screaming when Captain Irons applied his touch. Shiv should have listened from the next room over, trying to hear what was being exchanged between the two during their hushed susurrations. Though Shiv wasn't overjoyed about working with the criminal underworld, he couldn't deny they had some uses.
+
+Black sites and safe houses, for one. Places where someone could bring a captured Inquisitor and put them to the question.
+
+Shiv had been a little bit rough with his Inquisitors. Mostly a factor of blowing off some frustration. He'd been slamming his head against the steel wall that was the Outside for a considerable number of deaths. Now he was hunting soft prey again, and the whiplash he felt was awesome. It was like spending years wrestling with a giant before running through a field of insects and enjoying the happy little pops beneath one’s feet. An ego massage was nice after a few hundred hopeless ass-beatings.
+
+But it was also kind of… bullying. That was one bad part about the whole thing. There was no struggle, no challenge. He didn't even gain any levels from observing, stalking, and then ambushing those Inquisitors. He wasn't doing anything new, he wasn't dying, he wasn't even being hurt at all. Relaxing as this is, I don't want to make a habit of it. There's nothing to be gained from this aside from doing the right thing. I should just deal with them and move on. They're not even food. No sense in playing with them.
+
+The rusted steel door leading into the interrogation cell creaked behind him, and out emerged Irons. His body was clean, but there was a scent about him. Shiv's Atlas revealed specks of blood still clinging to the Captain's body. He had indeed applied force to the Inquisitor before cleaning himself somehow. Shiv also noticed how quiet the Inquisitor was. He looked past the gap and saw Hastings limp in his chair, his head dangling at an awkward angle. His vitality had almost faded already. This man was dead.
+
+Shiv eyed Irons. "Good talk?"
+
+The Captain didn't say anything at first. He rolled his shoulders and spent a few moments ruminating on the enormity of what he'd just done. Stoic though he was, his emotional core was clouded with miasmic fluctuations. He was a citizen of the Republic. More than that, he was a Pathbearer serving in the Republic's forces. And now he had taken the life of an agent of his nation's secret police. He was likely going through the same thing Adam had: doubt and inner conflict. Witnessing the acts committed by the Inquisition and the Ascendants gnawed at one's morality, but that didn't wash away a lifetime of faith and belief.
+
+Sage of the Enkindled Heart: And so it is to be pain. For among the great gulfs between man and monster is the capacity to believe.
+
+"You alright?" Shiv asked, trying to show some concern for Irons. The man needed a display of humanity right now. Reassurance.
+
+Irons blinked and looked up to meet Shiv’s eyes. He cut a robust figure, with broad shoulders and a powerful physique hardened by combat. Clad in his armor, he resembled a steel-plated bull more than a man, capable of barreling through bulwarks with the barest ease. Before his opposite, however, he was but a calf. Shiv had about a full head of height on the two-meter-tall Irons, and his arms made the latter’s look like twigs rather than the alloyed columns they actually were.
+
+"You said you spent some time watching them," Irons said. "How long?"
+
+"Couple hours. We managed to smuggle ourselves back through the gateway at the center of campus. After that, I placed one body in the bed of my dorm room before going out on patrol."
+
+In the back of his mind, Shiv could still feel that body, but it was sedated in mind and flesh. The main struggle he faced was cognitive and sensory overload. Thankfully, he knew an extremely competent Psychomancer. Thanks to Uva's help, he had now had a series of dormant bodies seeded all across Integrated Earth. The first among which was wearing his Mask of Stolen Paths, allowing “Marcus Unblood” to exist separately from Shiv.
+
+Back at Gate Piety, his Severed Shadow waited for Merrielmel to finalize the adjustments needed to tune the Slipgate into linking to the Fairwoods. When the Enchanter was done, Shiv would resurrect another body, and from there begin his journey into mystery…
+
+It really felt like Integration was opening up around him, like he was taking his first steps to truly come to know the world around him. However, he couldn't shake the feeling that someone was poking at his throat somewhere. Probably just paranoia, Shiv decided.
+
+***
+
+For three days and three nights, Magnolia waited. She tried to let go. She tried to overcome her hatred.
+
+But she couldn't. It burned inside her veins like a foul poison she couldn't get out. She didn't have enough blood to bleed it out. She didn't have enough strength to resist. She succumbed to hate, to grief, and settled for the only thing she knew how to do.
+
+Magnolia broke. The good in her was never strong. And it ultimately died on the side of that frigid mountain. Now she was going to do a vile deed that would see her finished. The Inquisition would come for her after this. There would be no escape. But at least there would be an end. There would be some kind of balancing, even though she knew it wasn't right, even though she knew it wasn't what her daughter wanted. Even though, even though, even though…
+
+But ever weak were the hearts of man.
+
+So for three days and three nights, she suffered.
+
+She watched the accursed dorm where the boy was hiding from afar. She studied his windows to see if there was any light, to detect if there was any sign of life. She tried to find his scent but couldn't. The room smelled barren. The only hint that he was there was the faint taste of bad water. And then there was something else, a foreign odor that she didn't truly know, one that reeked of blood, bone, and something infinitely stranger. She suspected that might be a member of the Inquisition, currently watching over the boy. Then her suspicions evolved. She wondered if they had claimed Marcus before her, that she wouldn't even get this final, if bleak, satisfaction.
+
+Then one day, out of nowhere, the taste of the boy returned to his dorm. The smell struck her like a physical blow; it laid her low spiritually and left her indecisive. She thought of her daughter, of her face, of that final argument they had had trying to cross the border into the heartland of the Republic. She thought of all her mistakes and the new one she was about to make.
+
+And she failed regardless. She slipped through the dorm like an unseen breeze. The towering ogre in the kitchen continued to hack away at radishes and potatoes, humming a happy tune to himself, utterly oblivious to the murder that was going to take place so close to him. Magnolia popped the door handle leading into the boy's room in tune with the ogre's descending axe. Such that when she slipped in like a ghost, she knew that there was no one capable of stopping her from finishing this devious deed.
+
+The final few steps were the hardest. She skulked along the wall, heading toward her target. Seeking the boy who'd bled her heart. When she came to a stop, she loomed over him, staring at his unmoving form in that bed. Scowling at his ruined physique. At his cursed nature.
+
+She found herself shaken. He seemed ever more the innocent child. But he knew as well as she did what he had taken from her. He knew the enormity of his sin as she bore the weight of hers.
+
+Slowly, desperately, hopelessly, she pulled her right axe free from her hip and raised it high. This wouldn't make anything better. It would do nothing to honor the dead. It would serve no purpose in her heart. But she had to. It was who she was. The wolf needed to lash back. It needed to bleed someone. Because nothing in existence could make this right.
+
+A plea for forgiveness nearly escaped her, was almost cast toward the Ascendants' ears. But she didn't want to take the slightest chance. She was too ashamed that her daughter might hear her, might condemn her from beyond the veil within the embrace of their gods.
+
+Her axe fell, her heart lifted. All was now in the hands of the System. Magnolia closed her eyes and released a ragged exhale. For the first time in weeks, she felt—
+
+She felt her axe shatter and explode against Marcus's neck. She felt a shard of metal punch into her throat as others struck her body, and a waterfall of her lifeblood gushed free thereafter.
+
+Magnolia's eyes snapped open in horrified surprise. Marcus was utterly unblemished. There wasn't even a faint mark on his neck, nor a hint of broken skin. She, meanwhile, gurgled as she tried to cover her wound. A flood of her blood splattered all over Marcus, but through it all, he remained blissfully asleep, his face at peace even as his nose and mouth were drenched in hot crimson.
+
+Clutching her ruined throat, Magnolia stumbled, tripped over her own legs, crashed her head against the wall, bled all over said wall, and then managed to get back up again thanks to her Master-Tier Physicality, before she hastily and most clumsily fled out from the dorm to heal herself before it was too late.
+
+Not a few meters away, the ogre continued to hack away joyfully for a few seconds. And then he smelled blood. And then he turned to seek out said blood. And then he discovered the horrendous sight leading him to Marcus Unblood's room, where the boy lay peacefully at rest, coated in a dense layer of visceral red.
+
+***
+
+"Just think of it as me having multiple bodies at the same time. Like a lich with a Dichotomous Soul. With a bit of Psychomancy, my dormant bodies can be woken back up. If I need to just reach them, I can use them as sorts of teleportation anchors. Since they're all technically bound to my personal history, I can just throw myself back in time and arrive where the other bodies are. In fact, I can jump back into my dorm right now because the body of Marcus Unblood and my current body are technically the same thing."
+
+Shiv wasn't sure how competent his explanation sounded. Irons still looked incredibly confused, but he didn't seem willing to prod Shiv any further. They had other things to worry about.
+
+Also weird that I can taste blood for some reason, Shiv thought to himself. He was pretty sure that none of his bodies had been injured, so he ignored that and went back to going over the orphanage situation with Irons.
+
+"Anyway, as I was saying before we got sidetracked, I picked a random black orphanage to keep an eye on, right? Avoided being noticed by anyone thanks to my Severed Shadow and Non-Sequitur. Spent a few hours there just kinda watching the matrons and the kids, which frankly was kinda creepy, but that was mostly fine since I used my Bifurcated Processing to help me stay focused while my physical body continued to help around at the Gate."
+
+Irons grunted. “And how did you end up capturing multiple Master-Inquisitors?”
+
+"Well, just before the light of dawn came up and I was about to leave, guess who showed up? Hastings and a couple of other Inquisitors. Or maybe they were interrogators. I don't really know the ranks. I just killed the bastards accidentally. They're a lot more fragile than I remember. So, I caught them speaking with this extremely suspicious matron who took a bunch of kids and led them outside while it was dark. Went down an alleyway, and I followed them along the sides of a rooftop. They ended up doing some kind of weird examination for the kids or casting Divination spells on them and stuff. I was going to ask Adam to come have a listen so that we could actually find out what they were saying, but then one of the kids tried to get away, and the interrogator ended up drawing steel. I should've…" Shiv coughed, slightly embarrassed. "Didn't really think about what I was doing after that."
+
+A growing look of horror built behind Irons's eyes. His face quivered. That was the closest he came to revealing his true feelings. However, Shiv could see his heart absolutely go still. The core wasn't so clear anymore. Instead, it was like a dense block of ice—the kind of weight one would develop if they dreaded to ask an unfortunate question. "You engaged the Inquisitors… with the children present."
+
+"Well, yeah. There were like eight of them. Eight kids, I mean. Inquisitors didn't see me coming at all. I stopped time and tore through two of them before I realized that I wanted to keep a hostage. Then I was trying to focus on knocking them out. Apparently, though, one of them had a pretty powerful set of temporal wards. I mean Heroic-Tier. I would have kept that for myself, given it to Adam or something, but I ended up breaking that when I hit the guy in the chest. I gave him a little tap so that he wouldn't die. His armor kind of caved in, and I thought he was fine for a while, but most of his organs came out of the faceplate when I tried to see if he was still conscious, so… Yeah.” Shiv sucked in an awkward breath. “Messed up thing was how the matron tried to get in the fight too. She pulled out two daggers and used some kind of fused Reflexes skill on me. She zipped directly into me and then, uh, kind of splattered."
+
+"Splattered," Irons muttered, seeming almost shell-shocked.
+
+"It was really unnecessary, right? There was nothing she could do to me. Her knives weren't even titanium. They were like, I don't know, Adept-Tier stuff. Her Toughness wasn't any better. So it was like… like a sack of meat slamming into a wall. I ended up coated with all her stuff. Kinda got some on the kids too. That wasn't great."
+
+"Some on the kids…" Irons whispered, repeating Shiv’s words beat for beat.
+
+"Yeah, pretty gross, I know. Anyway, four of the Inquisitors were dead by that point, and then there was Hastings. He was trying to get away. He held out this weird device that was like beaming Divination mana up into the sky. Thought he was calling for help, so I decided to rip off his arms and legs and then choke him out. Then I threw him in my cape, and then I went to find you after making sure that no one followed me. By that, I mean that I went Non-Sequitur, destroyed the physical body I used to do all of that, and then resurrected a new one. And that's the one you're currently speaking to. I think that's everything…"
+
+"Stop, stop, stop." Irons's face was dead serious as he stared at Shiv. "What happened to the children? Shiv, what did you do with the orphans?"
+
+"Huh? The orphans? Oh, I didn't leave them behind if that's what you're asking. I mean, I already killed a bunch of people in front of them. That was kind of traumatizing. Could have done better. But I cleaned them up a bit with Hydromancy and brought them back to the Gate. Made them some quick scrambled eggs. I guess they're citizens of Gate Piety now."
+
+Shiv smiled proudly. He hadn't waited to take in their reactions, so he was looking forward to finding out how they'd liked the eggs.
+
+Captain Harry Irons’ mouth fell open.
+
+***
+
+"So, hi, kids! How you guys liking your, uh, scrambled eggs?" Ikki aimed her strongest, brightest, pearliest smile at her audience.
+
+Eight traumatized faces stared back at her. Each of them looked on the verge of crying once more. One of them was still sniffling. All of them had been dried up and given new outfits to wear thanks to one of the ex-slave citizens of Piety who had a Knitting skill. Of course, they were also in their current state because of Shiv’s gentle ways.
+
+So far, none of the children had touched their food, and Ikki's smile almost twitched as she realized her hope in thinking she could motivate these weird surface children to recover from newly bestowed horrors in the next few hours or even days felt like hubris. But she wasn't one to accept defeat. With a button-eyed Weaveress puppet on her left hand and a vampire puppet on her right, she prepared to show them a popular children's fable back at Weave.
+
+"Alright, maybe the eggs are… still too hot for you guys. So, how about some entertainment before you start digging in?" Ikki made her puppets dance a little on the table, and one of the smaller girls, looking no older than eight, flinched at the sight of the Weaveress. Come to think of it, that same girl had burst into tears and screamed when she accidentally walked into Still Water on the way to the cafeteria. But that was probably because Still Water specifically was incredibly scary.
+
+Like, normally, no one would be afraid of spiders, right? Ikki thought to herself. Spiders are the best!
+
+"Alright, guys." Ikki cleared her throat. "Time for me to start the story of the noble Weaveresses and the bad and evil vampire who was used as a replaceable egg incubator…"
+
+***
+
+Unbeknownst to Ikki, Adam was also monitoring the situation through his new Second-Person Perspective skill. He stared at the scene with his jaw hanging wide open and cold sweat running down his back. He knew things would be bad when he'd heard that Shiv had brought eight children into his Gate.
+
+He just wasn't prepared for how bad they could get. He almost started sobbing as Ikki started smashing the vampire puppet against the table repeatedly. “Shiv… Ikki… Come on…”
+
+***
+
+"You gave the orphans to the gigantic spiderfolk who use their victims as a means of reproduction." Irons’s expression was beyond sour as he summed things up.
+
+"I technically left them to Adam, since he's the Gate Lord. Besides, the Weaveresses are usually pretty great people.” Shiv scoffed lightly as he remembered his days living in Weave. He missed being there, now that he thought about it. “I definitely had better experiences with them than the average Republic citizen. There's some kind of weird racial purity thing going on there and also some kind of gender issue between the spiders, but overall they're great."
+
+The Captain swallowed before asking a subsequent question: "Do they actually implant people with their eggs?"
+
+Shiv considered how to phrase his reply without making it seem like slander. "Well, sort of, but they don't do it to everyone, just people who volunteer, people who are old and sick or something. Or really bad people like criminals and vampires and stuff. But the vampires do way worse things all the time, so yeah, they kind of have it coming."
+
+Shiv smiled and nodded approvingly at the thought of vampires being used as egg incubators.
+
+The silence that ensued was crushing. Irons’ head lowered like his neck was attached to rusted gears. His movements became stiff and filled with frustration. The first hints of anger flickered out from his emotional core. "Shiv, if anything happens to those children, I want you to know that I will personally hold you responsible, and I will find a way to kill you for good if the worst comes to pass."
+
+Shiv grunted at Irons. "You really don't need to worry, but you know what, fair enough. You get anything useful out of Hastings, by the way?"
+
+"I confirmed a few suspicions. Melissa said that the orphanages were going through orphans at an alarming rate. That her sister shouldn't have been considered one of the offerings. At least not as things were before. According to Hastings, they were bringing the children to a church dedicated to Daughter."
+
+"Fucking figures," Shiv spat. "Did he tell you what they're actually doing with the kids there? Because when I tried to squeeze him, he just kept saying he was tasked with dropping them off. I wanted my, uh, friend to take a peek into his mind, but she might be busy right now dealing with some of my bodies."
+
+"He knows little," Irons confirmed. "Though he might be a Master, he's nowhere near the top of this conspiracy. What he has revealed is that the children are taken down into the bowels of the church, and from there, he claims a ritual is performed, and none of them are seen again. He personally suspects that they are expended to feed the Ascendant's power. But that is his personal theory, and rumor-mongering runs rampant among even the Inquisitors. If we want to know for certain, I think we will need someone with more insight—someone who sees behind the veil."
+
+Shiv nodded as he listened. "Okay, so I go and snatch up a Hero Inquisitor, or find one of their Legends. Guess I can give one of these churches a visit, see if I can smash my way down."
+
+Irons regarded Shiv as if he were looking at a particularly dangerous but incredibly stupid animal. "Clumsy, brutal, and not particularly effective. Furthermore, you likely risk the lives of the orphans if you take a forceful approach. Put some more thought into what you're doing. You're a Legend, son. Your strength is to be honored by skill, wisdom, and discipline. Not debased by savagery and incompetence."
+
+Shiv barely stopped himself from folding his arms. He didn't want to appear too defensive. Instead, he leaned against the cool concrete wall and held his hands out expectantly. "Alright, tell me why this won't work. I can throw myself at them straight until I get results. These bodies I have are expendable, and I think I'll be able to terrify or kill enough of the Inquisitors that we'll find something out or break something essential."
+
+"Do you know where they're holding the children? How many children there are? Do you know what condition they're in? Do you know if any Avatars of the Ascendants are there? Do you know how many enemies you face?" Irons fired out his questions in a rapid chain, and Shiv frowned as he realized all of them shared a common answer.
+
+"No," he answered begrudgingly. "But I can figure it out."
+
+"Do you know where Melissa is? Do you think she would be spared additional torture and torment if they can trace her back to you or I? And if what you and Adam claimed before is true, do you think you can avoid facing Melissa's sister, young Heather, if Daughter decides to take on a particularly cruel Avatar as a psychological weapon?"
+
+Shiv winced. The answer remained the same. "Yeah, no."
+
+"That cannot be our answer. We cannot say no to these things. I wanted your aid because the task before me is enormous. Because I am a Master out of my depth but not my experience. You, meanwhile, are power unleashed, but also power untempered. I could never have kidnapped an Inquisitor so easily, not without substantial struggle or risk to my personal safety. But if we do as you plan, I suspect that we will see many dead orphans and get no closer to discovering where Melissa is being held, if she's still alive at all, and uncovering whatever conspiracy is unfolding across the Capital. Are you willing to accept that, Shiv? Are you willing to accept the death of children as collateral damage?"
+
+With those words, memories returned to the forefront of Shiv's mind, unbidden, horrible memories. 811’s serene and later ecstatic smile as he crushed a little boy's skull in his fist in an alleyway, as he blasted apart a small automaton in a dirty, rundown house, of countless more he butchered and splattered in their chaotic brawl across Gate Theborn—a brawl that had only happened because of Shiv's carelessness and been made all the worse by his rawness.
+
+These memories were the entire reason he possessed Leviathan of the Shapeless Tides instead of Nexus of Implacable Destruction to begin with. Because he wanted to be more than a destroyer. Because he didn't want to see another person die due to his inability to control himself.
+
+"I guess two of us make a whole Pathbearer in this situation," Shiv muttered, his mood darkened considerably.
+
+Irons grunted. "That is one way to see it. You are raw and willing, and you were also wise to call upon me. Though I think it unwise of you to simply throw yourself at our enemies, there is much we can do with the expendable bodies you now possess, if they indeed work as you have described. We're not going to be reckless, but we can take risks."
+
+The Captain fell silent, and his eyes grew distant. He was planning—trying to conceive of a golden path through this mess, one that would see the most lives spared. "We need more information before we do anything else. With Adam occupied and neither of us being Investigators, I don't think we have the option to be meticulous or circumspect in our methods of intelligence gathering. But the entire world is already hunting you. And you've managed to secure living Inquisitors once already. They will be sending reinforcements, High-Tier Assassins or Shadows, to investigate and surveil the orphanage you were at."
+
+Shiv spent a moment connecting the dots, and when he did, his mouth fell open slightly. "Holy shit, you want me to do a double abduction? That's absolutely nasty. You actually think they'll fall for that?"
+
+"I am certain of it. We don't understand the entirety of their schemes, but they also don't know your new capabilities. If you can take one of their Investigators or Shadows alive, one that is a Hero at least, then maybe they might know something more. Or maybe we can use them to infiltrate the churches. You need to take more precautions, but in general, you should continue applying your methods from earlier. Locate high-value targets, eliminate all others, bring them to a safe and secure location, and then dispose of the body that performed the deed. This will confuse their Diviners as well. We'll learn and confirm what information we can through these means. And from that I will expand our strategies and tactics; I'll compose new dedicated operations for you to undertake. Starting with this one. We are to face the darkness of the Republic, so bring me one of the Inquisitorial Shadows."
+
+"Got it. I'm gonna go get posted at the orphanage or somewhere nearby. Maybe somewhere noticeable too. I'll pretend to hide but do a bad job at it." Shiv chuckled grimly to himself. "They're never going to see this shit coming."
+
+"When you capture the Shadow, I need you to do something. Scan their body for any foreign entities lodged inside. If they have something, it might allow the Inquisition to track them. I'm absolutely certain each of the Inquisitors is being watched or listed through some Divination mechanism. You did a good job removing the false tooth from this one. However, it wasn't a suicide capsule as you had thought. More of a tracking enchantment."
+
+"No shit? Didn't even consider it might be a tracker. I only remembered to check because I tussled with an Aviary Owl who had a mouth full of cute tricks once, so a lot of this stuff isn't that surprising to me anymore."
+
+Irons grabbed Shiv by the shoulder and squeezed. "Good. Keep that paranoia high. From now on, you're the one who conducts all interrogations. You will be our front-facing operative, our main force, and our disposable chaff all in one. Additionally, we never communicate directly in this form again."
+
+"What do you mean?" Shiv asked, not quite getting it.
+
+"I'm reducing risk mainly for myself, but also to make sure that neither of us can be traced back to the other in case something goes awry. You are now the rook, I am the player, and when we need to talk, you will do so in the guise of Marcus Unblood. You will come to my Tactical Strategy class once the break ends. We will play chess half an hour before class begins to surreptitiously review our after-action—"
+
+"Irons, I don't mean to interrupt your speech here, but I don't really know that word. Syrup…"
+
+"In secret. That’s what it means."
+
+"Oh, got it. Yeah, I think we can work with that. Actually, I find it pretty nice. You do this before? Seem pretty experienced with this whole spying thing."
+
+"No, I'm simply applying my military intelligence gathering knowledge to a very foreign, very strange state of affairs. I don't walk the Path of the Investigator, and I am definitely unprepared to face the people that puppeteer the secret police of my own nation." Irons tilted his head slightly, as if it was no big deal after all. "To say that I'm not at substantial risk would be utterly lying. But I suppose a part of me is looking forward to this. I want to find out what happened to Melissa. Whatever her fate is, I want there to be a conclusion. Closure. She deserved better from me, from this nation. But in a more personal way, I suppose that in this is a… purpose that I've been missing."
+
+Shiv smiled. "Got it, Captain. And honestly, she still might be around. Think we might actually find her again. Maybe even her sister. I don't know why Daughter needs so many orphan girls, and frankly, I don't care. I don't care what she wants, and I don't care what her mother wants. I'm gonna help you find Melissa, I'm gonna shit in the Ascendants’ breakfast, and I'm going to have fun doing it. And you can show me the right way."
+
+A series of awkward twitches worked their way through Irons's face as he retracted his arm. He seemed caught between a smile and a grimace. "You're just born meant for this life, aren't you? None of this bothers you at all."
+
+"I think that makes the two of us."
+
+"No, I have simply deadened my nerves. I have trained myself to accept death. But you are beyond that, and you are still here regardless. I remind you again: you’re raw. But you are willing. And you want to do the right thing, even if it comes with a cost. That is something. I cannot tell you to be proud of such a thing. Oftentimes, I find myself paying far too much for what I gained in return, with my only excuse being the protection of my own honor. But I think there are enough monsters in this world, and not nearly enough proper warriors."
+
+Shiv realized how, in the Captain's words, there was an echo of Jessica's. She had spoken about how an individual would always make a victim of a monster that held a corresponding Tier. There was something about predictability. There was something about mastery. There was something about choice. A man could do more than believe. A man could dream and become. A monster just acted.
+
+"Alright then, I'm going back to the orphanage after this," Shiv said. "I see what the Inquisition sends after me. And—"
+
+“Shiv,” Uva’s voice suddenly interrupted him, speaking directly to his Severed Shadow that was currently located in Gate Piety. Despite being a dimension away, he heard her as if she were right next to him. Which she was, in a way. “The Slipgate frequency has been adjusted. The way to the Fairwoods is clear. Are we done with matters in the capital for now?”
+
+“Almost,” Shiv said. “I'm just going to play bait one more time. And after that we'll go on vacation.”
+
+“I'm not sure if I would call this a vacation,” Uva deadpanned.
+
+“Oh, come on, Sister Uva. Where's your sense of adventure? Only risk is that we die a little. Personally, that never killed me for good. Can’t say the same thing about some of the new friends I’m going to make soon. Be with you guys right after. Just one good time after another…”
+
+“Shiv, has anyone told you you look particularly shark-like when you smile?” Irons said, drawing Shiv's attention back to his physical body.
+
+“I do?”
+
+“Yes. I recommend that you smile more, especially when you ask people questions.”
+
+Shiv's grin grew ever-wider. The joy of one could be the fear of all others. Life can be pretty fun when you're not being hounded every other second.

@@ -1,0 +1,167 @@
+---
+id: bfd475ac-c96e-5ba7-b377-536b656ae079
+page-type-slug: story-chapter-royal-road
+title: "Chapter 97: Breakthroughs"
+slug: 0097-chapter-97-breakthroughs
+partOf: phoenix-ascension-cultivation-litrpg
+position: 97
+ownLength: 2039
+unit: words
+publishedAt: 2026-03-07
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3127543/chapter-97-breakthroughs"
+royalRoadId: "3127543"
+---
+
+That was completely unusual, as the walls were supposed to crack whenever I was about to break through. I was quite a ways away from Foundation Establishment and had no intention of breaking through right now.
+
+But then, how could this phenomenon be explained?
+
+Regardless of reason, I scarcely had time to think as the overflowing amount of Qi was not only threatening to expand my dantian, but shatter it alltogehter.
+
+I should have known better than eating so many pills all at once, but I also knew where my limits lay. As long as I remained focused, I knew I would be fine.
+
+Using both techniques at the same time for the express purpose of not crippling myself was only a little difficult, though. The Ghost Qi Technique was amazing to help condense my foundation, and the Divine Lightning Construction Technique did wonders for my own body as well.
+
+The amount of Qi it used to make my body the best conduit for its specific type of Qi helped greatly in reducing the burden, and the more I circled the Qi and chanted the mantra, the more techniques appeared in my mind. It was as if a magical force was putting those techniques into my mind.
+
+It could have been the case, but I wasn’t going to ask. That didn’t matter, though, as I would have enough time to check them all out and later, especially to put the plans I’ve been thinking about in motion.
+
+I didn’t have much time, and I had to make sure that when I left, everything was as it should be.
+
+There was a battle in my dantian between the Ghost Qi Technique and the Qi itself wanting to expand my walls.  I could tell that it was as if I was breaking through a bottleneck, as if I was going from the middle stage to the late stage, even though I was already in said stage.
+
+In the end, I decided to stop fighting it and allowed the Qi to do as it wanted, while condensing it as much as I could.
+
+Eventually, the invisible walls couldn’t hold anymore, and I felt that it was the right time to unleash the massive amounts of Qi I’d been holding back. I stopped condensing it for the moment, and the dam broke.
+
+The sudden surge of Qi was all the wall needed to shatter completely, and a new one took its place some distance away.
+
+My dantian had all of a sudden become more spacious. I also felt my body get stronger, and the amount of Qi I could store increased drastically.
+
+It felt like a true and honest breakthrough into another realm, yet I knew that I was still in Qi Condensation.
+
+I didn’t need to read System’s notification to know that I’ve broken through into the Eight Layer of Qi Condensation.
+
+However, it wasn’t over yet. The amount of Qi still surging through and threatening to destroy my meridians seemed like a bottomless pit that the Divine Lightning Construction Technique could not fully absorb.
+
+I wasn’t sure exactly what it was doing, as the process was complicated, but it was using Qi to change my body in unexpected ways. Whoever created this technique was a genius, at least in their own domain.
+
+Moving past that, though, I peered inside my dantian for any changes.
+
+Besides the dantian and Qi Lake expanding, there wasn’t anything of note. The Little Emperor was sleeping soundly, it seemed, and Mother’s egg still floated above the lake, surrounded by mist.
+
+There was no change in either of them, not yet at least. I was hoping there would not be any, at least to Mother. I’d already noticed that the Little Emperor was a little greedy and absorbed whatever it could, even when sleeping.
+
+The process of freezing the Qi in the lake, melting it, and condensing it so I could fit even more Qi in the lake continued. Hours passed, probably, I wasn’t sure. I was way too focused on achieving the best results.
+
+The Divine Lightning Construction Technique disctracted me a little, since I kept advancing through its layers at an insane speed, and lots of techniques appeared in my mind. I wasn’t sure if the system would recognise them, but I hoped it would.
+
+Just as I thought the Qi Lake was about to get filled, it once again expanded outward, growing even larger, getting close to the Little Emperor. I wasn’t sure if he’d like to absorb my Qi, but he’d better not; I worked hard for it!
+
+However, as more and more time passed, it was becoming more and more obvious that if I didn’t do something about this Qi, then I would end up breaking through into the Foundation Establishment Stage unprepared. It would be a shame, since I didn’t even use the pill for that purpose, and besides that, I still had a lot of things I wanted to do to get the most out of it!
+
+Not long after I’d filled up the lake all the way to its mouth, I felt the inner walls begin to crack again. I’d once again reached the limit of this dantian, which should not have been possible under any means.
+
+Yet… here we were. It was thanks in no part to the Ghost Qi Technique, I was sure. I’d been condensing the Qi ever since the early stages, which, over time, must have meant that I could store a lot more Qi than the average cultivator.
+
+Worst case scenario, I’ll just use the Qi on my body… or maybe even my core? Maybe I should have checked if anything changed after absorbing all of those Spirit Beast Cores… damn.
+
+I would have time to go over all the changes in my body and sheet after finishing cultivating, though, and I was expecting to see a lot of good things.
+
+Like before, I held the Qi back as much as I could until the walls were just about to burst, then let the flood gates open and once again expanded my dantian.
+
+Compared to the progress in my past life, this was completely astronomical. The size and the sheer quality of Qi were amazing, and I was willing to bet that not even the patriarch of that stupid sect could have matched me at the same level.
+
+Hmph!
+
+I almost wanted to spit as I thought about him.
+
+That didn’t matter anymore.
+
+The process of reaching the limit of the Qi Condensation stage was over… or so I thought.
+
+By any and all means of my knowledge, the Qi Condensation stage didn’t have a ‘Peak’ stage, so to speak. I’d never heard of anybody ever reaching such a stage this early on. The title of ‘Peak’ was reserved for people who were half a step into the next realm, waiting for the right opportunity to break through.
+
+However, Qi Condensation never warranted such a stage, and it wasn’t like there weren’t people who tried. They did, but it just didn’t exist.
+
+Yet, contrary to all my beliefs up until then, they were about to change. More and more Qi flooded my dantian, but I could tell that the reserves had begun to dry up. I wouldn’t have enough Qi for a full breakthrough, but it seemed like there was something strange about my dantian.
+
+I kept condensing the Qi in my lake to the point that even as a liquid, it was becoming solid. The sight alone was insane, as countless ice-like crystals formed at the bottom of the Qi Lake. It was a beautiful sight.
+
+And the more Qi I added, the more beautiful it got, and the more the outer most walls of my dantian began to shake and crack. It was as if they truly could not hold anymore, and part of me wanted to know just how far I could take it.
+
+But there’s not enough Qi… If only…
+
+If only I had more Qi Condensation Pills.
+
+But did I need Qi Condensation Pills? It was true that I was out of them, but maybe… just maybe…
+
+I tried suppressing the crazy thoughts within my head, but the Foundation Establishment Pill was already between my lips. No sooner that I slid it inside my mouth that it melted, exploding with energy that flooded my meridians.
+
+They were about to burst, to crack, to turn to dust and disappear, but I held strong. I wasn’t about to lose to a stupid pill.
+
+In the worst case scenario, I’d reconstruct them, so what did I have to fear?!
+
+That was a bit of a crazy thought, even for me, since I didn’t have any of the pills I gave Shu Wao Tu left. But that didn’t matter; I’d just create another set.
+
+If I didn’t want to do that, I could just disperse the Qi.
+
+Usually, even for a Qi Condensation cultivator in the Ninth Layer, without having consolidated their foundation, consuming a Foundation Establishment Pill was extremely risky.
+
+But as long as I didn’t trigger the process myself, I ought to be fine.
+
+Of course, any sane and normal cultivator would not do what I did. If any did, though, they would have exploded from the sheer amount of energy in the worst case, or cripple themselves in the best case.
+
+But I wasn’t a normal cultivator, I was a Phoenix!
+
+As the wild energy rushed through my body, it slammed into my dantian, and I scarcely had time to cycle the Divine Lightning Construction Technique. All of my efforts went toward condensing the Qi, which I just barely managed to do.
+
+The Qi Lake kept expanding and expanding, each breath of time bringing it closer and closer to the Little Emperor.
+
+For each moment that Qi entered the lake, more and more cracks appeared on the walls. I kept at it, refusing to allow it to break through, and endured.
+
+More time passed, and sweat drenched my body; however, I persisted. At this point, most cultivators would have broken through into the Foundation Establishment Realm, but that was not my goal.
+
+Condense, condense, condense!
+
+My body screamed as I felt blood seep through all my orifices and pores, but I kept enduring, gritting my beak and holding on to the scream of absolute pain I wanted to let out.
+
+It was not time yet.
+
+I watched as the lake stopped growing, but I didn’t want to stop.
+
+Not yet.
+
+By then, the Little Emperor was floating on top of it, much like Mother’s egg, but he didn’t seem to care.
+
+The cracks on the wall spread higher and higher until it looked like a mess of tangled spider-webs.
+
+But not yet.
+
+Finally, when I couldn’t condense the Qi anymore, when I couldn’t hold back the flood, when my skin cracked, and feathers fell out.
+
+It was time.
+
+I released the floodgates, and huge amounts of Qi entered my dantian, shattering the walls almost instantly and expanding further and further out. The lake grew, the dantian grew, everything increased, and I felt a surge of strength like no other flood through my body.
+
+I had reached an unfathomable realm… The Peak Stage of Qi Condensation.
+
+And then…
+
+There was too much Qi.
+
+The dantian could not expand anymore, and the lake could not hold anymore.
+
+It was time to let go of it. My body could not absorb it, not anymore.
+
+Just as I prepared to release the excess Qi, something strange happened. Although I should have said I wasn’t surprised.
+
+The mark on the Little Emperor’s head started glowing with a fierce light, and all the stray Qi bot inside my dantian and my meridians got dragged toward it.
+
+No, stop! You’re absorbing Yin Qi…
+
+But my pleas were not enough to stop that greedy little bastard from absorbing all that I couldn’t at a rate much faster than I, and it only took a few seconds for the free Qi to disappear from my body.
+
+As the process finished, the Little Emperor yawned and went back to sleep, but now there was a slight, ghostly trace countering his mark.
+
+Yo Na will kill me once she finds out…

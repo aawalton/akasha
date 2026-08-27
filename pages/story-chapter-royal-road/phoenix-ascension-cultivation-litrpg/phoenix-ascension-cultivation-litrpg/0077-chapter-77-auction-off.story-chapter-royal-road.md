@@ -1,0 +1,203 @@
+---
+id: 0e924154-7070-5af9-8f5f-f3dd71b1ce0a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 77: Auction Off"
+slug: 0077-chapter-77-auction-off
+partOf: phoenix-ascension-cultivation-litrpg
+position: 77
+ownLength: 2533
+unit: words
+publishedAt: 2026-01-19
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2959256/chapter-77-auction-off"
+royalRoadId: "2959256"
+---
+
+Xing Ya Chen found his heart racing slightly at the sight of Fa Xiaolan. It wasn’t like before, when he was merely nervous, but something else was developing that he wasn’t sure how to categorise.
+
+It was some sort of attraction, but not love, at least not pure love, but something else that made him want to serve her more than anything. He found the idea itself very absurd and decided to chalk it up to a much simpler, much easier-to-understand emotion.
+
+He’d fallen in love.
+
+As absurd as it may seem, it wasn’t something that was out of the range of expectation. Fa Xiaolan was a beautiful, powerful, and talented woman. Any man would fall in love with her, so he couldn’t blame himself.
+
+However, he knew that he had to act properly and tried not to give in too much to his new desire.
+
+One thing he had not expected, though, was that Fa Xiaolan would be joined by company, and especially not by someone as beautiful and more mysterious than even her. However, such a woman, he could understand, but what was up with the child?
+
+He didn’t recognise her and had no idea who she was. To add to his confusion, the child also looked like a beggar picked off the streets. Luckily, even though he was only a clerk, he was a clerk of the Heavenly Pill Pavillion, thus his status was somewhat higher than the average servant.
+
+Xing Ya Chen made his way down toward the auction house with the intent to invite Fa Xiaolan to one of the VIP lounges and also discuss some details with her. Before that, though,  he walked up to a guard.
+
+“Sir!” The guard, who was at a similar level of cultivation to Xing Ya Chen, saluted and stood upright, showing the necessary respect.
+
+“I will join three people— two women and a girl— I want you to look into who that little girl is. Watch me closely, and if I give any sort of obvious signal, once you figure out who she is, make sure that her entire family gets treated well and protected. I will not have any accidents happen, have I made myself understood?”
+
+“Yes, sir!” The guard looked straight forward as he acknowledged the order, and Xing Ya Chen nodded, then headed toward Fa Xiaolan. The guard followed after him.
+
+“What’s your name?”
+
+“Sir, it’s Lu Mao.”
+
+“Lu Mao.” Xing Ya Chen took a mental note of his name and appearance. “Good, if you do a good job, I will make it so you get a promotion and a raise.”
+
+“Sir, thank you, sir!”
+
+“Don’t mention it.” Xing Ya Chen waved off the guard’s enthusiasm. He said that not only because he could make it true, but it assured that the guard would be diligent in his work. Since Xing Ya Chen wasn’t an official staff member, the guards could do sloppy work, but given the important position he now had as someone close to Fa Xiaolan, he was far more important than a clerk.
+
+With that thought process, he approached the tree.
+
+“Miss Fa Xiaolan.” He cupped his fists and bowed. “It’s my pleasure to see you again, and I see you’ve brought guests.”
+
+“I have. She is Li Hua.” Fa Xiaolan pointed at the black-haired woman, and Xing Ya Chen found that it was indeed a fitting name. She was pretty like a flower, and her hair and eyes were as dark as the night sky.
+
+“This little one is Shu Xu Ning.” She then pointed at the girl, saying with a more tender, caring voice, and even the way she addressed her changed to be more endearing.
+
+Xing Ya Chen knelt down and held his hand out to shake Shu Xu Ning’s hand, but the girl was too scared, freezing and leaving him hanging. He laughed awkwardly and got up, at the same time waving toward the guard.
+
+Lu Mao immediately got the signal and retreated. He wasn’t sure how he would go about investigating, as that wasn’t his job, but he’d be damned if he missed a promotion because of that. He would just wave Xing Ya Chen’s name around and figure it out later.
+
+“Miss Fa Xiaolan, were you planning on staying here during the duration of the auction?”
+
+“Yes, where else could I stay?”
+
+“We have VIP lounges prepared for esteemed guests such as you. There’s no need to sit down here and…” He got closer and whispered, “Disclose your identity and wealth.”
+
+Fa Xiaolan nodded, understanding what Xing Ya Chen meant. “Alright then, lead us to one of those lounges.”
+
+“Right away!” He rubbed his hands and took the lead. “Follow me this way.”
+
+After turning back to make sure the three were following him, he went up the stairs and turned a few corners, making sure that they were not losing him. The reason for that behavior was that the most important VIP lounges were rather well hidden, and he didn’t want to risk exposing their identities.
+
+One last corner later, he opened a plain-looking door, inviting the guests in. From the outside, the lounge looked like nothing more than a normal wall with a small window, but on the inside, it was a completely different story.
+
+The floor was solid, but the wall was entirely see-through, giving a complete view of the stage and the audience.
+
+Shu Xu Ning gasped and rushed toward the window upon entering, her curiosity getting the best of her. As for Fa Xiaolan and Li Hua, they behaved themselves better, though the former looked as surprised as the little girl.
+
+He found that a little cute, but that was it.
+
+In truth, Xing Ya Chen had not been in that particular VIP lounge either, but it was the best one in the market. It not only had phsyicial invisibility, it was also enchanted with runes and talismans to make sure that Divine Sense could not peer inside and identify the person inside.
+
+In addition, it also had a way to mask voices when someone wanted to bid, and even Qi signatures. Besides those practical aspects, the lounge was also quite comfortable and very well decorated. It had chairs, a table, and even soft sofas. Those were sofas that could take the shape of the user for maximum comfort.
+
+He’d never tried it, though, and knew that today wasn’t his lucky day.
+
+“The auction will start soon.” He said, inviting the three to sit down, though only the women did. The little girl kept looking down at the unaware spectators. That was fine by him, since she wasn’t harming anyone, though he tapped a ring on his finger.
+
+Shortly after, a knock resounded on the door, and a tall man dressed in a butler’s outfit walked in.
+
+“Yes, milord?”
+
+Xing Ya Chen turned to Fa Xiaolan. “Would you mind if I allowed Shu Xu Ning to bathe and get her a fresh change of clothes?”
+
+The woman thought for a second, then nodded. “That would be appreciated.”
+
+“Huh, what’s going on?”
+
+“Su Xu Ning, go with the nice-looking man and get clean. You may return when you’re ready.” She ordered without any room for debate, and the little girl nodded.
+
+“Ok…”
+
+Obviously, she wasn’t too thrilled about it, but listened to her caretaker. Xing Ya Chen never did assume the girl was Fa Xiaolan’s daughter, of course. He appreciated the fact that she took the sign, as some things are better not heard by the ears of a child.
+
+Everyone knew their mouths moved faster than their thoughts, and a slip-up would be far too inconvenient.
+
+“So, what do you want to talk about?”
+
+Xing Ya Chen smiled. “A few things. First, I have received news about the item you first gave us.”
+
+“Oh?”
+
+“It has been transferred over to the Golden Arch City Branch. Although, honestly speaking, they are not deserving of selling such a precious item. The price has been estimated to be in the order of hundreds of Top Grade Spirit stones.”
+
+Even he could not believe that he said that price out loud. Never in his life had he ever dreamt of seeing such a large sum, let alone saying it out loud. It was way too much for him to properly process it, and that wasn’t even the end of it.
+
+“That’s good. That means I can pay for my alchemy supplies, right?” Fa Xiaolan asked in a tone that said she could not care less. And of course, if she, or whoever was behind her, could takeout a Phoenix feather, then they had more than enough funds.
+
+“As for how the money will be transferred… Well, it would be difficult. We could provide you with at most five percent of the amount, if it doesn’t go higher than predicted. Your best option would be to visit Golden Arch City yourself.”
+
+She frowned, but didn’t reprimand him, which he appreciated.
+
+“How could I prove my identity?”
+
+“We will create a tag that is unique to your Qi wave, and send a copy of the Qi wave to the Golden Arch City branch. It could also be considered a sort of bank ID, and general ID, since our Myriad Market is renowned and respected, so people trust us. In addition, you will also receive the highest rank we can give without much proof, Purple.”
+
+“Uhm… Thanks?”
+
+Xing Ya Chen’s eye flinched at that, but he did a remarkably good job at keeping his cool.
+
+“The second thing I wanted to discuss was your pills.”
+
+“What about them?”
+
+“They were… well… They were the best our branch has ever seen, and it is a miracle we were allowed to auction them here. However, they will have to be sold at a later point during the auction, since we’ve invited important guests.”
+
+“I see. That’s alright, but I can’t linger for too long.”
+
+“I understand that you don’t have to be present, and we can inform the Golden Arch City branch, as well as any other branches, of your updated balance once the pills have been sold off.”
+
+“That’s incredibly convenient.”
+
+“It’s one of the reasons the Myriad Market has gotten as big as it is.”
+
+“Right, is that all then?”
+
+“Well- Yes, for the most part, those were the two biggest pieces of information.”
+
+“I see then, thank you.”
+
+Xing Ya Chen didn’t mind her indifferent attitude, as he ought to have gotten used to it. He, however, tapped his bag of holding and took out two jade slips.
+
+“These are the items that will be auctioned off today, listed in order of appearance. Please take a look.”
+
+Fa Xiaolan received it with grace, while Li Hua sort of grabbed it and held it in her inner palm. Xing Ya Chen decided not to question the eccentric Immortal’s habits.
+
+At least she’s acting normal… He sighed after seeing that Fa Xiaolan knew how to use the jade slip, and tried not to stare too much when Li Hua shook it like a bag. He also ignored her biting it and slapping it against her forehead, but it was harder to ignore when she started playing with it like a cat.
+
+Fa Xiaolan slapped her thigh, giving her a ‘Behave!’ look, then went back to reading the jade slip.
+
+A few moments later, she placed it within her sleeve. “I’ll keep it with me for now. Thank you. I am interested in the Body Cleansing Pill most of all, but I will check out the other items soon.
+
+“Wonderful. As for the way of payment… I don’t think you need to worry about that. We will deduct everything you need from your future balance.”
+
+“Thank you.”
+
+She then ceased all communication, merely choosing to close her eyes and— Xing Ya Chen guessed— meditate.
+
+***
+
+I don’t know what the other items do!
+
+Since Xing Ya Chen had given me a jade slip, I assumed that I could read it just fine, but no, I was so wrong! Besides the numbers— and even those were blurry after going past a dozen— I could not read any of the items. The only thing that helped me tell what was what were the images, but even then, most of them didn’t have an image!
+
+I was too embarrassed to ask Xing Ya Chen to read me the list, so I decided to forget about it and wait until the announcer presented the items.
+
+I did manage to recognise the Body Cleansing Pill I needed to give Shu Wao Tu, so it wasn’t a wasted effort.
+
+Even so, I couldn’t tell what order it was in, and I wasn’t about to count from one to ten infinities. That meant that all I could do was wait until it showed up, bid for it, get it, then leave.
+
+It was incredibly inconvenient, but there was little I could do.
+
+The upside was that we didn’t have to sit down there with all the smelly and dirty people, and the VIP lounge was incredibly comfortable. The sofas in particular were something of a dreamy comfort, and I definitely needed and wanted some for my future nest.
+
+Aside from that, I supposed there was nothing else I could beside wait, plan, and think.
+
+There were a few things I needed to do in the short term. First, help Shu Xu Ning get strong enough to defeat the fat bastard. The auction items could help me with that, a martial technique and a weapon that fit her would be awesome, and I was sure they had to have some.
+
+Secondly, after she defeeats him, and the big brothers makes a full recovery, and the quest completes, then I could read Yo Na’s recipe, and gather the ingredients and everything else I needed before the big moment.
+
+Until then, I would need to cleanse the Demonic Qi in my body and gain full usage of my qi once again, and absorb some more water crystals to finally be able to use my water-based skills. Having some sort of elemental protection and offense would be incredible in case I ran into something hard to kill by my current means.
+
+Henc,e why I wanted to cultivate the Lightning element as well.
+
+If my calculations were right, then I had two weeks until the new moon, and the flower bloomed.
+
+So I had two weeks to prepare myself accordingly. From what Yo Na told me, the cultivators weren’t incredibly strong, and I could simply use all my stealth skills to grab the flower before it was too late.
+
+I had no doubt in my mind that those plans would go well.
+
+After thinking about everything I had to plan out, I opened my eyes and looked toward the stage. The curtains split open, revealing a beautiful woman with a foxy smile.
+
+“Dear esteemed guests, my name is Xiao Hu, and I will be today’s host. Please take good care of me.” She bowed deeply, and then cthe rowd cheered like a rabid animal. Xiao Hu sprang up straight as soon as the noise died down.
+
+“And without further ado, let the yearly auction begin!”

@@ -1,0 +1,197 @@
+---
+id: 6d52925d-f5f5-54d0-b8da-3b0add02ceba
+page-type-slug: story-chapter-royal-road
+title: "Chapter 88: Let's dance"
+slug: 0088-chapter-88-lets-dance
+partOf: phoenix-ascension-cultivation-litrpg
+position: 88
+ownLength: 2089
+unit: words
+publishedAt: 2026-02-14
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3054664/chapter-88-lets-dance"
+royalRoadId: "3054664"
+---
+
+[Three Mid-Grade Spirit Stones]
+
+[Spirit Stones used as currency thorough the Tianxu continent.]
+
+[Affinity Resetting Pill]
+
+[Pill used to bring one Afffinity of the user back to zero. This item is bound to: Fa Xiaolan.]
+
+[Elemental Sword]
+
+[Sword that can be imbued with any element.]
+
+[Skill Evolve Token]
+
+[A token that can be used to evolve any skill once it reaches the [Master] rank. This item is bound to: Fa Xiaolan.]
+
+[Body Reconstruction Pill]
+
+[A pill that re-forms the user’s body to become the best vessel for Qi and cultivation. This item is bound to : Fa Xiaolan.]
+
+[Foundation Establishment Pill]
+
+[A pill that aids the user in breaking past the limits of Qi Condensation. This item is bound to : Fa Xiaolan.]
+
+[Robes of the Chameleon]
+
+[A set of clothing that can take any form and shape, molding perfectly to fit the user’s body. A thought is all it needs to become the perfect piece for the wearer. Compatible with Disguise-Type skills.]
+
+[Bag of Holding Exchange Token]
+
+[A token that allows the user to earn one of the following Bags of Holding: Small, Medium, Large, Giant, Spacious, Infinite. This item is bound to : Fa Xiaolan.]
+
+I took everything out and placed it on the ground. Appraisal showed me all the details about them, or, as much as it could show.
+
+All of those items were interesting, to say the least. I couldn't care less about the Spirit Stones, but everything else seemed like something hand-picked for me. There were also some things that I’d never heard about, such as the tokens, and the fact that certain items were only bound to me.
+
+[These were new features added with the upgraded system.]
+
+Wow, you’re really spoiling me huh. What about not reading my thoughts, though?
+
+[...]
+
+[... They don’t have to know.]
+
+[I got lonely.]
+
+I rolled my eyes, but I understood System as well. Not that I minded too much, not having System in my ears as often didn’t feel right to me either.
+
+Do these things exist universally?
+
+[For some System holders, yes. Not all Spirit Beasts can use the system, and I’m sure you’ve realised by now that humans don’t have it. Usually, an upgraded system would be given out to Trascended Spirit Beasts, but you… are special.]
+
+Of course I am. And you don’t need to explain the items to me, Appraisal did a good job at identifying them.
+
+[Very well. Feel free to ask any other questions you may have.]
+
+I don’t have any right now, I need to think.
+
+System didn’t say anything after that, and the amount of personality, freedom, or whatever, was huge, from what I could see. I would have liked to ask more about the systems themselves, but knew that I would be met with something along the lines of ‘You’re too dumb to know and not authorised.’ Or something like that, so I didn’t bother asking.
+
+The first thing that grabbed my interest was the Affinity Resetting Pill. It mentioned that it would bring a certain affinity back to zero, but that didn’t say whether or not that affinity had to be positive to begin with.
+
+As for why anyone would want to bring a high affinity back to zero, I could not know. Well, I had an idea, but I also didn’t care. With that pill I could finally get that damned Water Affinity at base level and start practicing the water-based skills I had.
+
+I would not eat it right then and there, though, since I still had a few things I wanted to go over.
+
+The Skill Evolve Token was what interested me the most, from all of these. Since it could upgrade any skill, I should be saving it until later. If at some point a really good skill appears and it doesn’t evolve by itself, and if it would also be expensive to evolve, then I could use that in a pinch.
+
+The sword and the Body Reconstruction Pill were self-explanatory, but the Bag of Holding Exchange Token was… interesting, to say the least. It didn’t really make a lot of sense. I suppose System could just make things appear out of thin air, but why go through this convoluted process?
+
+[You can’t store a bag of holding within a bag of holding, this is a fun workaround.]
+
+…I see.
+
+Well, that was a good explanation as any, and it was also true.
+
+I grabbed the token and sort of thought about activating it. I wasn’t really sure how it was supposed to be used.
+
+Suddenly, it disappeared in a flash of light, and a small bag fell on the ground from where the token vanished. It was red in color with some sort of spiral pattern all around. I couldn’t say it was the prettiest, but when I looked inside, I was flabbergasted.
+
+The space within was at least ten times as big as Hei Tu’s bag. When I took my senses out of it, I used Appraisal on it.
+
+[Medium Bag of Holding]
+
+It was as I guessed. And that was only the medium variant, just how big were the other tiers? Did I get unlucky? It was hard to say. Either way, it was good, and I was going to transfer everything as soon as I was done giving them a better look.
+
+“What was that?” Yo Na asked, and I’d almost forgotten she was there to begin with.
+
+“I’m not sure myself, but it’s a reward the system gave me.”
+
+She then proceeded to look at me with a nasty side eye, her ears folding backward. It was kinda cute, but she was still about five times as big as me. “My system never gave me any such rewards.”
+
+“Ehehe…” I laughed wryly, though there wasn’t much I could do about that. Once she transcended she would have this sort of system as well, I supposed.
+
+“What’s that? Humans use those to hold things inside, right? I have a few of those.”
+
+“You- Of course you do. Yes, humans use them to carry things around, but they need Qi to be activated.”
+
+“No wonder then. I just stashed them in my ‘Worthless Pile’ since there wasn’t much I could do with them.” She explained, then took out about ten or so bags of holding from the pile. None of them were above ‘Small’ though, which were the same size as Hei Tu’s, so they weren’t something I’d keep anymore.
+
+However, their contents were rather interesting. Besides a bunch of scrolls, weapons and pills, there were some recipes and even some maps. They were from all around the continent, but none of them were complete.
+
+Still, they were something worth studying, so I could get a better idea of where I was located.
+
+Aside from the basic necessities of a traveling cultivator, though, there was very little of value. I grabbed what I could and left what I didn’t need, and continued on with looking through my own stuff.
+
+“Hey, I didn’t say you could-” Yo Na began, but I quickly cut her off.
+
+“Well… it’s not like you can use them anyway.”
+
+“True, but still…” She growled but didn’t oppose me taking her stuff anymore. Instead, she sat down and closed her eyes.
+
+It wasn’t long after that that I grabbed the robe and gave it to her. “You can have it, since I can just fetch my own clothes.”
+
+“Huh? What’s this?” She didn’t react negatively to it, so that meant that she didn’t dislike it.
+
+“It’s a robe that takes whatever shape you want and I assume, disappears along with your disguise, but comes back when turning back into a human.”
+
+“But, why would I want to turn into a human?”
+
+I shrugged. “You never know. I don’t really need it and I have the basic decency to wear clothes. You would have gone out naked if I hadn’t mentioned the clothes.”
+
+“That’s… Not entirely false.” She said after a moment of thinking, and gracefully accepted my gift.
+
+I really didn’t need it, since I could just change into my own set of stolen clothes, but I truly believed that she would go out naked if she could.
+
+With that out of the way, there was only the one pill that I really wanted. The Foundation Establishment Pill— A pill that helps during the breakthrough from Qi Condensation into the Foundation Establishment realm. It wasn’t cheap, but it was easy to refine. I could have bought a couple if I really wanted, but getting it for free was much better than putting doubts in the minds of the Myriad Market folks.
+
+After all, I hadn’t revealed, and practically hid my cultivation realm. If they were to find out that I was only at Qi Condensation, they would start having some thoughts about my treasures and wealth.
+
+Thoughts that I didn’t need them to start having.
+
+With all my items accounted for, I placed them in my shiny new bag of holding, and transferred the items from the old one to the big one.
+
+The seed was on my mind still, and I desperatately wanted to find out what it was all about. Since I didn’t really have any money anymore, going to the Information Pavilion was almost out of the picture.
+
+Well, since it was part of the Myriad Market, I could just go and use credit, as I’ve done before, but again, I didn’t want to attract the suspicion of the higher ups with my less than adequate questions.
+
+They have to have some sort of library, right?
+
+***
+
+Disguised as a human, I walked back into the village with the hopes of finding a place that had the information I wanted. It was already dark, though, and few establishments were even open at such a late hour.
+
+Libraries were out of the question, if they even had any to begin with, and as I made my way down the streets, I realised there were a lot of drunken men out.
+
+There were some whispers and some comments, but I ignored all of them without a shred of shame. Not like their words could do anything to me.
+
+Sadly, I was not the only woman on the street. There were many more, some of whom had nightly professions, and others who were merely heading to work or going home. They weren’t ignored by the other men either, and I could only roll my eyes when a group of them approached a more timid-looking woman.
+
+They stopped her somewhere near a building, and almost pressed her against the wall. Thankfully, she had enough willpower to resist that and simply glared at them.
+
+“What’s a beauty like you doing out here?” One of them said, his cheeks red and breath smelling of alcohol.
+
+She didn’t reply, but moved away when another one tried touching her. I stopped to look at the interaction, curious to know what the woman would do. She didn’t look like a pushover, as it was obvious by her attire that she was a cultivator.
+
+I didn’t know what realm she was in, but judging by her level, she wasn’t someone to be messed with.
+
+[Shang Hue, Lvl. 19]
+
+Level nineteen was pretty good for a human, but the men around, drunks as they were, weren’t any weaker.
+
+[Gu Mao, Lvl. 18]
+
+[Ren Len, Lvl 17]
+
+[Lu Bai, Lvl 19]
+
+The three of them could easily overpower her, and despite her cultivation, she didn’t seem all that confident in herself.
+
+They circled her like hungry wolves, pushing her further and further back until she had nowhere else to go. The woman was with her back against the wall of a wooden building, and the men were closing in.
+
+After seeing that she had no intention of pulling out a weapon or attacking them for that matter, I let out a sigh. It worked out fine, since I was itching for a fight anyway.
+
+I walked toward them and pulled out my new sword, pressing it against the neck of the highest level of the three, Lu Bai.
+
+“What the he-” He exclaimed upon feeling the cold iron, but stopped after feeling a tinge of lightning coursing through it.
+
+“Back away, slowly,” I ordered, but his friends didn’t seem to want to oblige.
+
+They took out daggers from their bag of holding when their hands were behind their back, thinking I couldn’t see them. I could only roll my eyes at that.
+
+Let’s dance, then.

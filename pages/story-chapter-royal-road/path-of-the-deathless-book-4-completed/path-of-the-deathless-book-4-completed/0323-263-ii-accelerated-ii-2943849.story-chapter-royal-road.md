@@ -1,0 +1,159 @@
+---
+id: 8c7bad3e-085e-5b43-a143-d4dc379e5f48
+page-type-slug: story-chapter-royal-road
+title: "263 (II) Accelerated [II]"
+slug: 0323-263-ii-accelerated-ii-2943849
+partOf: path-of-the-deathless-book-4-completed
+position: 323
+ownLength: 3208
+unit: words
+publishedAt: 2026-01-14
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2943849/263-ii-accelerated-ii"
+royalRoadId: "2943849"
+---
+
+263 (II)
+
+Accelerated [II]
+
+The Forgotten Ascendant smiled, and she gave her a nod.
+
+“I… I remember—but, what… How? Why did I forget…” Jessica grimaced as she reached up and clutched her head as if she were experiencing a migraine.
+
+Shiv caught sight of something—a faint trace of mana flowing from the tome into the Giantsbane’s skull.
+
+He almost strode forth to interrupt what was happening, but the Educator stilled him with a look. "Please," she said. She'd never said that to him before, not to his recollection. "Please, give me a moment. Give us a moment."
+
+He looked between the Educator and Jessica and hesitated.
+
+Adam had a Veilpiercer nocked, but the string wasn't drawn taut. "Do you two know each other?" he asked, looking between the two.
+
+"A bit more than just ‘know.’ Her husband once served as my Avatar for a brief tenure." Maia let out a long sigh. "Jackie was a good boy. That's why I let him go, even though he was willing to continue. I thought it would allow him to live longer.” Her teeth clenched together briefly, and her expression twisted. “I was wrong. The System mocked me for my kindness. As it mocks us all.”
+
+Shiv stared at her as his understanding of her grew, and she caught his look.
+
+"Oh, don't look at me like that, boy," she said with a huff of derision. "I'm not a caricature, not like the others. True, I've suffered the sting of this decay, but I've held on to much more of myself than they have. I've held on. I remember. And I've always fought for it: my individuality, my expression, my—"
+
+"—humanity," Jessica finished for her, lowering her hand from her head. "Maia. I… You… What the fuck? It's like my memories of you were… submerged. There was just nothing there. Now they're all suddenly back."
+
+"That was the unfortunate consequence of ensuring my own removal," the Educator said. "I would ask you to forgive me, but you are likely confused right now and you don't understand what you even have to forgive."
+
+Jessica shook her head. "But… Wait, why are you here? Why are—"
+
+"I'm with them," Maia explained, nodding toward Shiv and Adam. "At least, on some level. I doubt that the Deathless and the Young Lord consider me their ally, but as of right now, we are walking a similar path. We have congruent desires. Desires that you may now aid with. I wish our reunion was under better circumstances." The Educator smirked. "I would offer to make you my Avatar right now, but alas, I think I can only sustain myself as a vessel. I do not possess quite the same amount of authority or divinity I once did. But that is for the best."
+
+"I don't understand," Jessica muttered, shaking her head. "Why? Why did you hide yourself? And what do you mean, you're no longer quite as divine as you were?"
+
+Maia smiled softly. "Do you remember what you told me that night when we were walking along the Olisi River? It was two months after Jackie died. You’d been practicing the blade, scaring the pigeons, and entertaining the children. I painted the scene. I can show you—”
+
+“No, I think…” A look of concentration came over Jessica as she searched her memories. "I told you… ‘Better to be a True Legend than a false god.’"
+
+The Educator’s smile took on a melancholic quality. "You have no idea how right you were. You have no idea the depths we were sinking to. I saw it coming. Before everyone else, I saw it coming. And I took steps that day. That same night, after I bade you goodbye, I reached out to the only one that could potentially solve our issue. We’ve both made it here, despite everything. And now we may continue our journey together."
+
+"I—wait," Jessica said. It seemed like she wanted to take another step and pull Maia into an embrace, but she was hesitant. "Who did you reach out to?" The Educator was silent for a moment.
+
+"You're going to have to tell her at some point," Shiv said, cutting into the conversation. "She's still one of Chandler's warriors right now. If you blindside her..."
+
+"I know," Maia snapped. She was slightly aggravated, but she managed to master herself a second later. He was right, and she knew. It was just hard to accept. "Udraal Thann," the Educator said, facing Jessica. "He seeks to remedy the problem of the Ascendancy, and he has agreed to an exchange of mutually beneficial services."
+
+"Services," Jessica said slowly, as if she was struggling to process what her old friend was telling her. "And Udraal? I still don't—why, though? What could he possibly offer you that Veronica can’t?"
+
+"Freedom," Maia replied. And she reached out, but closed her hand, pulling her limb back as if she was turning away from a forbidden fruit. "Freedom to choose for myself. To set me free from my mistake. You do not understand what it took, what our ascension cost us. We calcified ourselves inside the body of a true Divinity. We harvested and stole away another’s legend. But we also infused our own histories there. And so the world is confused; the System is befuddled. But the Great One is stirring. The System seeks to correct the stolen valor, and now we stand at the precipice of annihilation, assimilation, or a third path—a path I yearn to take for myself. A path of collective advancement—without the shackles of godhood. Mythic-Tier.”
+
+The Educator grew somber after that, and in the silence that followed, she looked every bit her age. A woman who was past the point of her prime, withered as if a tree entering the first years of winter, despite her rather youthful appearance. "I know that you bear a great deal of distrust against him for what he has done, for what you know him as. But I ask you now, if there is any trust you still hold for me, if you still regard me as a friend and companion, if the memories I have stirred in you remain true, give us a chance. Help us, and I, in turn, will do all I can to help you. It was partially for you that I did this. I cannot claim that I was fully selfless, but I felt how his loss affected you, and that of your little bear as well. I could not comfort you then. I was too far away, too far away, and separated by a threshold of memory. But I mourned all the same."
+
+Jessica's mouth opened and closed several times. She turned to stare at Shiv, but the Deathless preempted her question. "Yeah, I have no idea what the fuck's going on here either. Hells, I didn’t even know you two knew each other."
+
+"This is not a trap," Maia declared. "This is simply a long overdue moment. I've missed you, Jessica, and right now, I need you more than ever. Without you, we would have had to do something dangerous, something that would have threatened the very stability of the Capital and the Republic. Maiden, reduced though she is, remains a dangerous and conniving foe. I would not test myself against her highest implements, unstable and insane as they are. She has always had a mind for the… unorthodox. And as we are right now, I would be loath to call upon my benefactor's aid."
+
+Once more, a heavy silence intruded on the conversation, crushing all who stood there. Shiv felt a tension in the air, and Adam did as well. As they looked on, Shiv suddenly noticed the orcs lingering in his periphery. They were chattering to each other. Whisper was saying something to Mortar, and the large orc threw his head back and grunted a dark laugh. But strangely, they weren't truly paying attention to Maia and Jessica, despite the vulnerability shown by the two at this moment. No. They were leering at him.
+
+Things were happening in the undertow to his left and right, and out of nowhere, he began to feel a strange sense of foreboding. His Non-Sequitur skill trembled, but that was all it did. It came close to a premonition, yet it never truly triggered. But there was something there. Something enough to cause a response. And Shiv couldn't shake that uncomfortable feeling that something was wrong.
+
+"Jessica," Rusty began, breaking the quiet. "I think we should at least hear her. She was always there for us. She watched the children. She is the only reason why Jackie was buried with honors at Summerloam Cemetery. We owe her a moment to listen. At the very least.”
+
+"And I missed you too, Rusty," the Educator said with full honesty. “I missed tracing your magnificence in the dimness and in the light. I missed you for your steady presence.” She smiled teasingly. “And also for your incessant questions.”
+
+At that, Jessica's lip began to tremble. For the first time, the Giantsbane seemed like a terrified girl, rather than a battle-hardened Legend. A strange feeling took hold inside Shiv, a feeling of sonder—that the others around him had lives rich and unique. Lives of their own, relationships of their own, vast tapestries of history that bound people together.
+
+For a long time now, he'd felt as if he was the ignition, the flame that caused this all to unfold. Udraal's arrival, the impending chaos all across the System. But in some other ways, the strife and stories across Integrated Earth had already been unfolding, perhaps for thousands of years before he ever was.
+
+And despite all the power Shiv had managed to amass, he felt small. Just a part of the wholeness that was existence.
+
+He wondered, then, if beside the eldritch there was something beyond the System, beyond Integration. If there were people like them. If their lives were like this too.
+
+Philosophy 38 > 41
+
+As he was lost in his contemplation, the Giantsbane acquiesced without a word. She took the Educator's hand and followed her down into the maze, while Shiv and Adam flanked her from behind.
+
+"Hey." The Deathless cleared his throat awkwardly. "You alright?"
+
+Jessica looked over his shoulder, and she just stared at him like he was stupid. "Fuck, no! I show up here, I get dragged into whatever kind of fucking bullshit you're planning, and now a whole Ascendant who used to be a close friend to my family—my dead husband's favored Ascendant—just shows up again and says she's working with one of the Republic's most hated enemies."
+
+Jessica's mind was clearly scattered. She struggled to assemble her words and muster her thoughts together. "No. No, I'm not alright. But it wasn't alright before either, hasn't been for decades, and I dealt with it. Now I don't know if I can. The fucking hells did you crazy kids get me involved in…"
+
+As they drew close to what seemed like a dead end, a flood of dimensional Mana spilled out from a crack, and they passed through the other side. There, the slipgate chamber was as Shiv remembered it. The inverted pyramids were glowing with pitch-black static—mana displacers hard at work, running through another test. The colossal obelisk at the center of the room thrummed with ambient mana. And there, at the center of the oval-chamber, Concelhaunt, Merrielmel, and Can Hu were locked in heated debate, gesturing animatedly at the mana equalizers.
+
+"And I told you we need an extra component. The auto-calibrator is indispensable. But we won't be able to fit that into the whole architecture without adding a minor Psychomancy core..." Concelhaunt’s words trailed off as he saw the Educator and her entourage approaching. Then, out of nowhere, he shrieked as he noticed Jessica. "Oh, fuck! Oh, shit! Oh, fuck! Ah, ah, Legend Hawgrave! Giantsbane! I can explain. I can—"
+
+"Calm yourself, goblin," Maia said. "She is not here on a raid. She does not represent the Inquisition. In fact, she might very well be here to help."
+
+Jessica wasn't staring at the rogue professors. Instead, her eyes were locked on the slipgate mechanism. She looked around the room, at the many panels sustaining the Slipgate, taking in how the entire space slowly turned. She studied the displacers, and Rusty reached out using its own Dimensionality to study the ambient spatial mana winding through the room. A flow of twisting and undulating black mana coiled around the blade, pulling forth strands of magic from the two stabilizers.
+
+"This is quite novel," Rusty declared. "The spells powering these structures have never felt like this before. The amount of resonant frequency here, the stabilization… This allows Mana Equalization for different gateways—even those across grand distances. This is truly impressive. I may yet be able to incorporate this into a technique. I wish to reside here for a time. To culture my understanding of this lore.”
+
+Jessica was less impressed than her sword. Instead, she stared straight upward and narrowed her eyes. "Right underneath the central gate of Phoenix Academy…" She shook her head. "We really, really should have thought about that."
+
+"Given enough time, someone would have," Maia replied. "However, there is never enough time. There are always too many crises. That is the greatest means of subterfuge. There is no resource devoted to true in-depth investigations. And there are far too many secrets on the Academy grounds. The nobility themselves would try to stymie your efforts."
+
+"Yeah, probably," Jessica agreed. "So, this is it, huh? These things? This room? That's all I need to put inside the gate?"
+
+"Will you?" the Educator asked. "Will you put it inside the Gate? And, I must ask, is Maiden's Avatar truly inert?"
+
+Jessica gave a shrug. "Probably. You know how she is. She doesn't wait around and give you a warning if she wakes up. She just pops out and demands something of you. But since she hasn't dispatched one of her birds to come and get me, my guess is that she's still too busy working on her other project right now."
+
+"That's the way I hope things will remain," Maia replied. "We must use the degeneration of my former companions against them. Lamentable, but useful. I will see her freed if I can. Her and the others." The Educator paused. "Perhaps not Longinus. Or Kathereine, for that matter. I fear those two were lost before they ever started decaying."
+
+"So, wait, I have a question. Shit, I have too many fucking questions," Jessica said. "Does Chandler know about this?"
+
+"About what?" Maia asked. “She does not know about me, but she does have an arrangement with that one there." She eyed Shiv briefly. "It was one of the few wise decisions he made, wielding what favor he could between two benefactors against each other. It will not matter in the end. He likely over-estimates his capacity to dance the edge, but I will allow him to humor himself and feed his ego with false hope."
+
+"I'm right here," Shiv growled.
+
+"So you are. What difference does it make?" Maia regarded him with a faint hint of scorn.
+
+"Perhaps you are the one who commits an act of folly now," Can Hu said smoothly, striding toward the new arrivals. Its mechanical voice was severe and heavy in defense of Shiv. The Educator regarded the Penitent with narrowed eyes, but Jessica had an entirely different reaction.
+
+"Holy shit, is that a Penitent? And an elite recon model?!"
+
+Can Hu paused, its green optics shrinking as it scanned Jessica. "Indeed. It has been some time since someone recognized my exact model. You have knowledge of my make?"
+
+"Hah! More than knowledge—we encountered one of you back in the day while we were operating near High Harbor. You know Delta-V? Looks a little bit like you, but had long, pointed wings. Its sensors weren't working that well. I think it was working as some kind of curator or storyteller or something? Some minor celebrity there."
+
+A whirring noise came from Can Hu's processors, and its skull-like head lifted in recollection. "I think I know of the one you speak of. Before, it called itself 9.8. It must have updated its name later."
+
+"9.8?" Jessica asked, befuddled.
+
+"It is a reference to an object's standard acceleration due to gravity, unaffected by those unnatural factors born of the System."
+
+"Huh," Jessica said. She didn't get it. Shiv didn't either. "I've got to say, I didn't know there was one of you in our Rubix Well."
+
+"It wasn't in the Rubix Well," Shiv said. "Well, not in a cell. It came there to help me."
+
+"Help you?" The Giantsbane did a double-take. "Wait, so it's been with you? Even before the breakout? How the hell did you find a Penitent?"
+
+"The System moves in subtle and vulgar ways," Can Hu answered. "I was a resident of Weave, by the Composer’s grace, but I spent my time languishing, dreaming of reclaiming my past, of reforging my ruined soul and body. It was but a dream for a long time, and I yearned to serve, even if it meant my destruction. However..." The Penitent's optics glowed bright as they settled on Shiv. "Just as my former masters saw fit to destroy me, the System saw fit to offer me succor and hope—even if only to further my capacity for war."
+
+Jessica looked at Can Hu’s powerful frame with something close to awe. Its state was clearly different from other Penitents she knew of. "How many of your skills were damaged before?"
+
+"Not damaged. Shattered. Utterly destroyed," Can Hu corrected. "And to answer: practically all of them. All except my non-combat and most tertiary skills. And then, after he reached into my core and fused his being to knit my soul back together, they went from shattered to merely damaged. A great deal of my rehabilitation took shape at the hands of Udraal Thann thereafter, but the inception was only possible because of the Vitae within the Deathless.” Can Hu’s optics flashed knowingly. “If it is a restoration you seek, then perhaps your salvation is at hand as well.”
+
+"Okay… Holy shit." Jessica stared at Shiv and now regarded him with newfound appreciation. "If you’re a scam, you’re running one hell of a con game on me, kid. But… if you’re the real deal… Felling hells, no wonder the System wants you dead. You're going to make a godsdamn mess of everything. If you can fix anyone—resurrect anyone…" And there was a sparkle of hope in her eyes as well. A lightness to her words and actions. "Alright, alright, fine. Maia. Let's go over a few things, some ground rules. I need to hear from you what you’re all trying to do and…”
+
+After that, she hesitated. She stared at Concelhaunt and Merrielmel, who were slowly backing away, terrified that this would be their last day.
+
+"And after that, I know who or what I need to cut."
+
+"Oh, oh dear," the elven Enchanter stammered. His legs were shaking, and the scent of someone relieving themselves filled the room.
+
+“I knew this shit was gonna get me killed,” the goblin Smith moaned.

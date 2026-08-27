@@ -1,0 +1,115 @@
+---
+id: dc16fd5c-646d-55b3-b869-9b7e87330fa6
+page-type-slug: story-chapter-royal-road
+title: "249 (I)  Transmission [II]"
+slug: 0296-249-i-transmission-ii-2899266
+partOf: path-of-the-deathless-book-4-completed
+position: 296
+ownLength: 2335
+unit: words
+publishedAt: 2026-01-01
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2899266/249-i-transmission-ii"
+royalRoadId: "2899266"
+---
+
+The best tool one can use against an Outsider is another Outsider. You see, they wish to eat each other. It's not even a matter of scarcity or predation.
+
+It's simply the fact that Outsiders spread their dimensions. Their nature causes coexistence to be impossible. If you want to understand the Outsiders, it's best to view them not as singular entities. They are a sort of… meta-reality unto themselves. They all come with their own laws, their own sense of understanding for how space should fold, how time should flow, how forces work, how the world functions. This is also another part of why the System wishes to consume them, because Outsiders, if left unchecked, might just become a rival entity capable of directly matching its Integration.
+
+I have a theory here: perhaps the System was an Outsider once upon a time. Perhaps that was how it began. It fed faster than its kindred, and now it's come home to devour its former kindred.
+
+But that's just a theory, a theory I came up with first. Don't steal it. I'll know. And I'll come for you, just like the System is coming for its siblings.
+
+Jests aside, all Outsider entities—and I mean their true forms, not the little ticks that spawn from their insides, not those strange creatures that are born within their breadth and domains—are capable of... well, I wouldn't say reason. They are not like people, but they can understand us on some level.
+
+We can bargain with them. The Outsiders are willing to make arrangements with you to inflict pieces of themselves upon you for you to develop new skills or obtain something akin to a pseudo-Blessing. It will be integrated with your soul, and the System usually regards these as Unique skills, but that is only if you survive the transplantation process. Most of the time, you go insane, and your soul is utterly destroyed.
+
+Very sad, but all too common. Which is why it is best that you are both a Psychomancer and Animancer, as well as a bit of a Diviner, when you're dealing with things related to the Eldritch. If you don't wish to see your soul be used as a playground for creatures that lapse on the notion of entropy and natural laws, you can also use them against each other. After all, the best way to counter an Outsider is with another Outsider. Because again, they are literally existences trying to encompass everything, and where one advances, another must retreat, respond, or be subsumed.
+
+And I find that quite a comforting thing: The horrors beyond our comprehension simply must kill each other. They know no other way. And that, we can understand. That, we can exploit. It’s the most human part about them.
+
+-Turn and Face the Strange(r) by Legend-Headmaster Hades Hymn
+
+249 (I)
+
+Transmission [II]
+
+"Wait, Shiv?" Shiv sputtered. He was so flabbergasted he could do nothing but stare at Hymn from the doorway. The Headmaster of Phoenix Academy spun on his heel and sauntered back into the chamber he'd just stepped out of. Based on how much he swayed from side to side, Shiv could tell he was more than a little drunk.
+
+"That's your actual name, isn't it?" Hymn said casually. He suddenly blurred and reappeared in a corner of the room about twenty meters away from Shiv, where a tiny table draped in red silk was waiting for him. He collapsed into a rocking chair and picked up a bottle of something brownish that was resting on the table.
+
+As Shiv and Cullywier stepped into the room, the latter stepped forward with apparent familiarity, while the former gawked at the aberrant environment. It was shaped like a facsimile of a homely living room, but enlarged and stained by corruption. At the far end of the room, a story-tall brickwork fireplace was afire with a roaring blaze more akin to some kind of industrial oven than a calm hearth.
+
+The flames it spat out were of a dark color that made Shiv nauseous to behold, and the rest of the chamber was similarly infested with eldritch influence. The Outsider magic spilled from the fireplace and into the room like smog, staining the air with quivering motes of grayish-black while its bulk rose upward, where it fed into what Shiv could only describe as an inverted ocean.
+
+Serving as the ceiling, oil-thick waves of pure black crashed into each other in a chaotic display, appearing somewhat like a miniature version of what he'd seen of the Grand Pacific when he graced the Tidewall.
+
+The four walls and the floor of the room were veined in slimy, quivering tentacles, sinews that belonged to an Outsider's body. However, wherever Cullywier went, the eldritch corruption receded, unwilling to touch the fae, unwilling to even test his presence.
+
+Shiv noticed the massive eyes briefly blinking out of existence along the walls as he approached Hymn. Something was sneaking peeks at him, something that radiated rage and hatred. Both emotions flowed toward Shiv, and his Sage of the Enkindled Heart danced as if a strong gust of wind was washing over it, yet making its blaze stronger, infusing it with something unnatural, a loathing that was inhuman and human at once.
+
+Then there was the pillar jutting up from the center of the room. As thick as a tree trunk, it extended upward as a pristine, crystalline column that was untouched by the eldritch substance, much like Cullywier was. A series of spell patterns danced along its length, straying with the black static of Dimensionality and the violet of Divination.
+
+As he looked up, watching where the column vanished into the dark ocean, he flinched as the eldritch waters suddenly parted, draining away into a sky of dimensional static.
+
+Unveiled by the sea’s disappearance were four dragons, one gazing down at Shiv from each corner of the room, seated just beyond the borders of physical space and leaning over into the eldritch space. The colossal beasts were all gold-scaled, but what drew Shiv's attention was how they were all fully dressed in human attire, silk adorned with intricate patterns. One wore a monocle and top hat, one wore flowing, colorful robes and held a staff with a jewel at its end in one hand, and another had jewels of incredible brightness scintillating set upon their scaled digits.
+
+The Deathless’s shock caused him to briefly miss the fact that he couldn’t sense most of their biologies—and only then did he notice the faint currents of Divination and spatial magic. The dragons weren’t actually here—they were being projected in from afar using magic, like an illusion.
+
+As Shiv continued his observations, he noticed something else that was different about these dragons. Their torsos were longer and thinner, and instead of thick, curved horns, they had antlers, like something that belonged on a deer's head. More importantly, they appeared to possess no lower limbs. Instead, their bodies became long, serpentine tails below their stomachs, curling behind them and winding through the air.
+
+The fourth looked down upon him, saying nothing but observing him intently. This dragon wore an all-black suit and gave Shiv a masculine impression, but there was something off about him—something that told Shiv to beware.
+
+Shiv blinked and nearly jumped out of his flesh when the door behind him suddenly slammed shut.
+
+Cullywier made a show of clearing his throat as he looked up at the dragons while gesturing at Shiv. "Esteemed Brokers, I present to you our promised guest, the Deathless: Shiv of Blackedge."
+
+Meanwhile, Hymn continued loudly chugging his alcohol in his corner of the room, dumping the entire contents of the bottle down his throat in an instant after spinning it in a circle to make it flow out like a drain.
+
+"Shiv! Shiv! What's happening? Did someone say your name out loud?" Adam called from within Shiv's cape. The Deathless didn't fully have words. It felt like he was trapped in an ambush, but no one was trying to kill him, which made it a first.
+
+"Welcome," one of the golden dragons said with a crisp, pleasant baritone, lifting his tophat. A waterfall of liquid gold plunged down from the inside of the hat, washing over and melting into the dragon’s body. “I am Poverty, Broker of Scarcity. Your presence enriches my day.”
+
+Shiv felt a sudden and overwhelming urge to give every single valuable he had to the dragon.
+
+Then, the second dragon blew on his staff, and the crystal sphere embedded upon its tip grew bright. “Welcome, Deathless. You may call me Know-Nothing. There is much we can share with one another. Much indeed…”
+
+The Deathless in question struggled against the urge to betray every last secret he knew to Know-Nothing—if only to relieve himself of the burden of secrecy.
+
+The third dragon didn’t hesitate to interject. Unlike the other two, his suit was partially torn at the sleeves, and Shiv realized the rings he'd taken note of earlier were part of a greater ensemble: the damned dragon had a series of magical tattoos burned into his immensely muscular arms, and they fed mana into the jewel-crusted knuckle dusters he wore on both hands. “Take off that ridiculous mask,” this dragon spat with a crass tone. “Let me see if you’re as big and vicious-looking as the orcs claim.”
+
+But Shiv didn't do as the knuckle-duster-wielding dragon asked. Not immediately. He cracked his neck and fixed the dragon with an unimpressed stare.
+
+The dragon leaned down and almost snarled. "You think you're tough shit for mingling with them, eh? I got the fucking Challenger on speed dial. So, you gonna show who you actually are, or are you gonna be a chicken-shit?”
+
+An explosion of rage detonated through Shiv's core, more rage than he naturally felt. He instantly realized the dragons were manipulating his emotions, using their social skills, even across vast distances, but rage wasn't his undoing. It was a resource he could wield.
+
+Shiv scoffed. "Yeah, not doing anything for free. You guys are the Dragon Brokers, and you wanted this talk. So, make it worth my time. I don't give a shit about what you feel or what you say to me. I'm here to do business. I'm guessing that's the same reason why you're here as well."
+
+Instead of taking offense, the knuckle-duster-wearing dragon threw his head back and laughed. “Okay, the orcs claimed you were a real bruiser, a brawler, and a butcher. But it seems you're a bit more than that too. You just shrugged off my Provocation skill.” The dragon bared his teeth. “The anger is still inside you; I can smell it. It's like a stinking carcass left out beneath the summer sun, in there for you to wield in some way. Let me guess: Zen Berserker? Rider of the Inner Rage?”
+
+Shiv's anger still didn't climb. He folded his arms and sneered. "Maybe something like that."
+
+"That's cute," the dragon said, leaning back. "You can call me Yellowbelly, by the way."
+
+"Yellowbelly, huh?" Shiv said. "Let me guess, you like sleeping with your gut in a puddle of piss?" He channeled a burst. The flames of black anger shot toward the ceiling. They splashed apart against the dimensional window, and he realized his social skills couldn't reach them. But it wasn't because there wasn't a portal for social skills. Instead, it was because there were wards. The Dimensionality and Divination mana circulating across the glass shivered and then hardened in response to his jab.
+
+Yellowbelly stared, and then he erupted with laughter, slamming his hand on an armrest that Shiv couldn't see. When he caught himself, he waved at Shiv. "Alright, alright, I see why the Challenger finds you interesting. But you do that again, and I might have to get bloody with you."
+
+“You say that like it's something to be afraid of,” Shiv replied as innocently as he could. He and the dragon stared each other down until Hymn loudly cleared his throat.
+
+"Hey, if you two are going to get into a silly monster-brawl, can you wait until the important stuff is done? I still haven't gone pissing.”
+
+Shiv wanted to say something, but he choked as he suddenly found himself faced with Hymn’s bare ass. The Headmaster had pulled his pants completely down and was now trying to douse the eldritch fireplace.
+
+“Shiv! Shiv!” Adam cried aloud, groaning in disgust. “Why do I smell piss? What’s happening—Who is talking to you?”
+
+“Adam,” Shiv began, unsure how he was going to explain all this. His words came too late. The Gate Lord stumbled out from Shiv’s cape, only to find himself staring at Hymn’s hairy posterior—before nearly shrieking at all the dragons glaring down at him.
+
+"Ah, Young Lord Arrow. Still with us, I see." Know-Nothing rubbed the top of his staff, and the Divination mana within the crystal sphere grew blindingly bright, like a violet sun looming in the sky. "I am glad the Starhawk's favored bloodline still has insurance, even if we are to lose Roland Arrow."
+
+“Hello, Arrow,” Hymn said, waving at Adam without turning around. “Glad you finally bothered to come out. And that you don’t find that coliseum too miserable to stay in.”
+
+The final dragon said nothing. Shiv noticed how their eyes were like white marbles and guessed that they were blind. There was also a horrific patch of scarification running along the length of their long snout, like acid stains or something of the sort.
+
+"The one who won't talk is called Garrulous," Yellowbelly declared. "He is the Broker who handles matters of diplomacy and casts a tie-breaking vote between the rest of us. We are the Inner Cadre of the Brokerage. We are the Eldest, we are the first, we are the shareholders with the most stake in this enterprise. And you, my little anomaly, born of our good friend Udraal’s hand, are a match cast upon a straw mountain drenched in napalm."

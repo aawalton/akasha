@@ -1,0 +1,309 @@
+---
+id: eb1855a3-c3e9-5108-9ebd-8e1f3339c5c2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 23: Evolutions and Breakthroughs"
+slug: 0023-chapter-23-evolutions-and-breakthroughs
+partOf: phoenix-ascension-cultivation-litrpg
+position: 23
+ownLength: 3218
+unit: words
+publishedAt: 2025-09-15
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2603013/chapter-23-evolutions-and-breakthroughs"
+royalRoadId: "2603013"
+---
+
+Finally, level ten!
+
+I was eager to consult my available evolutions, of course, but I felt I had more pressing matters to deal with.
+
+Such as…
+
+[HP 250/1394]
+
+My HP was below twenty percent, which meant I would have to wait for a little bit to recover my strength. At the current rate, I was regenerating at a rate of five HP per three seconds.
+
+I didn’t have to wait long, and there was no danger to my life. Just for safety’s sake, I activated Heaven’s Protection and opened the Evolutions screen.
+
+[Evolutions]
+
+[Phoenix Emberling]
+
+[The next stage after the [Phoenix Chick], the [Phoenix Emberling] is capable of higher fire manipulation. Their elemental affinity to fire increases drastically, and unlocks the path toward becoming a [Phoenix Monarch]. [Phoenix Emberlings] can take to the skies with flaming wings, sending fire raining from above and unlocks the [Fire Emperor] elemental path.]
+
+Wait, hold on— What is this about Phoenix Monarch and Fire Emperors?
+
+[Whilst [Phoenix Monarch] is the official name of an evolution, [Fire Emperor] refers to one’s control over fire. It is not an official evolution path, class or title, but simply a promise of what you can become in the future.]
+
+… Can’t I do that anyway?
+
+[Yeah… you can.]
+
+Oh—
+
+[Poisonous Phoenix]
+
+[A Phoenix’s fire doesn’t stop solely at-]
+
+Skip.
+
+[But—]
+
+Skip!
+
+[Fine…]
+
+[Cinderplume Phoenix]
+
+[With the power of the Black Flames at your beck and call, you have the power to turn everything to ash, or make it so they never existed in the first place. The Black Flames represent a power beyond this world, one so destructive there is no hope of revival once wounded by them. This evolution unlocks the path of the [Blackflame Emperor] and will allow you to rule over life and death.]
+
+Can’t I already do this with my Nirvanic Flames though…? This one sounds pretty awesome though, is the Black Flame just fire imbued with the aura of death? I’d love to have that.
+
+[Pyretalon Phoenix]
+
+[This Phoenix gave up its ability to fly in favor of enhancing their combat power. Their wings become razor-sharp blades, claws turn into molten lava, able to destroy any opponent’s defenses. Their beak becomes harder and sturdier than steel, and they become the fiercest of opponents in any sort of close combat. This evolution unlocks the path of the [Sworded Phoenix].]
+
+Well… as appealing as that sounds, I definitely do not want to ever give up my ability to fly. What would be the point? I would truly become a chicken then…
+
+[Golden Goose]
+
+[Shed the feathers of a Phoenix and become an almighty [Golden Goose]! Your love for shinies shall not be stopped, even if you must change some parts of yourself. This Phoenix takes the shape of an inconspicuous Goose, who can lay golden eggs and mend any metal to their will! This evolution unlocks the path of the [Golden Emperor].]
+
+Is this a joke?
+
+[...]
+
+[No, it’s a really strong evolution.]
+
+[Soulflame Phoenix]
+
+[The first stage of transforming from the physical into the ethereal. A [Soulflame Phoenix] gives up its mortal body to become a spirit. In exchange for losing all ability to physically fight, their spirituality increases by a huge amount, allowing them to cultivate. This evolution unlocks the path of the [Soulflame Sovereign], ruler of all spirits and lord of the eternal flames.]
+
+Another one that has such a huge inconvenience… Why would anyone pick this evolution? Well I guess allowing one to cultivate would eventually give them a physical body.
+
+[Elemental Phoenix]
+
+[The [Elemental Phoenix] breaks free of its elemental constrictions, allowing one to use and learn skills of other elements. In order to unlock the elements, the Phoenix must undergo a series of challenges and hardships. Each subsequent element unlock will be harder than the last. This evolution unlocks the path of the [Primordial Phoenix].]
+
+Now we’re talking! No direct drawbacks and it allows me to use other elements? Though cultivating them would be quite a hassle. Getting my fire skills to rank up is already enough of a pain… but the possibilities…
+
+[Emberheart Phoenix]
+
+[Whilst the Phoenix can heal itself and be reborn from its own ashes, that doesn’t mean they have to keep it all to themselves. This Phoenix took the path of a healer, whose flames heal allies and turn enemies to cinder, although not as well as the normal Phoenix. This evolution unlocks the path of the [Eterna Seraph], the Phoenix whose power can restore dead worlds back to life.]
+
+This… is this something Mother picked? She could heal… No, that must only be a skill. It would be nice to have but the best defense is a stronger offense, and I don’t plan on having a team either.
+
+[Ghost Phoenix]
+
+[After dying, this Phoenix doesn’t rebirth, but instead becomes a ghost, a spectral being with command over the souls of the damned. Their ghostly fire doesn’t burn the flesh, but directly attacks the soul. This evolution unlocks the path of the [Spectract Sovereign], a Phoenix who rules over all death.]
+
+Heavens that one sounds amazing! Directly attack the soul? But… how do I become a ghost? Do I keep being as I am until I die and then get reborn as a ghost or… do I die now?
+
+[...]
+
+[I honestly don’t know.]
+
+Wow… then I’m skipping it haha.
+
+“Alright, I’ve decided.” I chirped, standing up.
+
+In the time I read up on all the evolutions, I’ve recovered enough HP to make my way to the middle of the Qi Lake.
+
+System, what is the evolution process like?
+
+[Once you select an evolution, your body will fall into a slumbering state, and it can take anywhere from one day to one week for the process to finish.]
+
+I see, is there any way to circumvent that? How can I keep myself safe while evolving?
+
+[The System will provide a temporary protection, though it has its limits and cannot protect you forever.]
+
+Right, I guessed it wouldn’t be so simple. So my options are: Absorb this Qi Lake then go back to the nest and evolve, or risk evolving while cultivating.
+
+[I think there is a third option.]
+
+System suddenly interjected my thoughts, with its own thoughts, of all things.
+
+And what would that be?
+
+[I can make it so you evolve while cultivating. I can force your conscience to remain awake while your body undergoes the transformation.]
+
+Would it be painful?
+
+[Quite. There is a reason Spirit Beasts are put under a deep slumber.]
+
+Right… But if I make a ruckus here and Mother notices, I won’t have any excuse. I do not want to feel her wrath once she finds out I can cultivate spiritual Qi.
+
+[Hence why I suggested that third option… I can suppress the pain you feel to a certain extent, but the rest is up to you.]
+
+Alright then, let’s do this.
+
+I walked to the center of the Qi Lake, its surface surprisingly solid despite its watery appearance, and started circulating the Ghost Qi Technique.
+
+While this technique only allowed me to absorb natural Qi during the night, in this instance I could use it to absorb the already gathered Qi. This huge Qi lake was a treasure beyond belief, and given that there weren’t any other Spirit Beasts that could hurt me, I could take my time.
+
+I’ve had deep sessions of cultivation before, back in my old life, but they were usually done in a protected environment with lots of seals and formations.
+
+I didn’t have any such things here, but given the fact that Heaven’s Protection only broke after a certain amount of damage had been done, I’d consider myself safe. Yet, it was never too late to scout the area.
+
+I checked every bush and tree, looking for nests and signs of other Spirit Beasts’ presence. However, between the evolved Heavy Pawed Black Panther and Mother’s nest, the only living beings within a fifteen mile radius were the grass and trees.
+
+Just to be sure, though, I hid myself and waited for an hour. When nothing approached, I knew I would be safe.
+
+Once again, I walked in the middle of the Qi Lake, and sat down. I didn’t sit down cross legged, but instead tucked my legs underneath myself, like birds do. It was a much more comfortable position to be in.
+
+With my barrier active and dantian ready to absorb Qi, I began the process of cultivation.
+
+First, I chanted the mantra, waking my meridians to life. The Qi in the lake began churning and flowing toward me. Like a river going downstream, it inundated my body, meeting from my limbs to the middle of my chest, then flowing down into the dantian.
+
+The process was quick, smooth and effortless. This Qi had already been refined and had been gathering up for who knows how many centuries. Naturally, that meant that it was much easier to absorb due to less resistance.
+
+Sadly, I had to slow down the process, as my artificial meridians had to get used to the sheer amount coursing through them. That would have been the case with natural meridians as well, though not to such a degree.
+
+The small lake inside my body began growing, the hole it sat in filling up with the ethereal Qi. Once it filled up completely, my cultivation would break past the fourth stage of Qi Condensation into the fifth!
+
+My plan was to absorb the entire Qi lake in one go, however if I did that then my foundation would be far too weak. I will absorb as much as I can during the evolution period, and if something unexpected happens then I would have a good excuse.
+
+However I wasn’t sure if putting myself through so much pain would be worth it. A peaceful evolution sounds much better, but when did I, Fa Xiaolan, ever back down from a challenge?
+
+I will break through to the late stage of Qi Condensation and stop there, that way I will be able to solidify my foundations.
+
+Alright System, let’s start! Evolve into Elemental Phoenix!
+
+[Understood. Starting the evolution process.]
+
+[Applying necessary modifications.]
+
+[Applying pain modulation.]
+
+[Good luck, Fa Xiaolan!]
+
+Thank you, I’ll need it.
+
+[See you soon.]
+
+After System said that, there was a brief period of silence, and then it hit me.
+
+Pain.
+
+An unimaginable amount of pain hit me as if a mountain had slammed down on my body. I gasped, air escaping my lungs alongside a weak chirp. My concentration had almost all vanished were it not for the mantra, which I continued chanting to hang on to my consciousness.
+
+[Skill: Pain Tolerance(Novice) has been acquired.]
+
+The burning feeling within my body lessened just enough for me to take a painful breath in. I couldn’t quite use the breathing technique in such a state, however I managed to as I got accustomed to the pain.
+
+Though I didn’t think it was something someone just got accustomed to.
+
+I glanced inside my dantian, the flow of Qi slowing down, but still filling up my tiny lake.
+
+Gaining a skill while breaking through was not on my bucket list, but something so useful would always be welcomed. With it, I’d gotten some room to literally breathe.
+
+Whatever changes were actually happening were beyond me, as I couldn’t feel much of anything besides the blazing fire within my everything. That didn’t matter though. I was already grateful to System for lessening my pain, and with this new skill, I would be able to endure.
+
+I’ve gone through worse.
+
+***
+
+Time passed, and I finally got the notification I was waiting for. Not that I couldn’t feel the difference, but it was nice to see.
+
+[Cultivation Increased! Qi Condensation IV has become Qi Condensation V!]
+
+The fifth stage of Qi Condensation was mine, and with it, I felt the pain from the evolution lessen by a small amount.
+
+I wasn’t satisfied, though, not with such a large Qi lake sitting right below my talons. I kept pushing through.
+
+However, a sudden change took me by surprise, as a popping sound grabbed me out of my thoughts. I couldn’t tell what it was, not at first, but then I felt it.
+
+My wings stretched, and stretched, and feathers grew at a visible rate. It was strange, it was beautiful, and most of all, it was painful.
+
+I spread them wide, and noticed that not only my wings and feathers, but I grew as well, my whole being, and that’s when it all hit me.
+
+Like a sudden wave sending me against a rocky sharp surface, then crashing onto me, all of the pain of reforming bones, stretching muscles and skin, on top of the already burning fire within my being, took effect.
+
+“Auuurgh…” I couldn’t help but let out a shrill scream, though I quickly shut my beak. I didn’t need someone to disturb the evolution process.
+
+I found myself thankful for System, when the pain lessened.
+
+[Skill: Pain Tolerance has reached the (Beginner) rank!]
+
+Acquiring it and ranking it up within the same day… What joy.
+
+Yet, thanks to that I was able to once again focus on my cultivation.
+
+Once I reached the fifth stage of Qi Condensation, my dantian grew a little bigger, and the Qi in my lake turned a little clearer. That meant that it needed more Qi to condense into a successful foundation.
+
+Luckily, Qi was the last thing I was lacking.
+
+The Qi surface inside my dantian solidified, shimmering with a beautiful luster that was hard to describe. However, it hadn’t settled yet.
+
+Normally, cultivators waited for their realm to stabilize before breaking through another one, and that was because of two reasons.
+
+First, they needed to get used to their current realm, or else they would have a very unstable foundation, and may risk injury.
+
+Second, they didn’t have enough Qi to condense it all at once. However, I did, and I didn’t need to get used to any sort of realm, because I’ve already gone through the Qi Condensation stage nine times over.
+
+Therefore, I didn’t have any such reservations!
+
+Ignoring the strange feeling spreading all throughout my body— no doubt because of the evolution— and gritting my tee— er, beak through the pain, I hastened the rate of absorption, and the Qi in my dantian slowly turned opaque, until it gained a slimy surface.
+
+After that, the lake it sat within enlarged, allowing for even more Qi to flow in. The new emptiness was about half the size of my total Qi capacity, which once filled up, would give me more progress in one realm than I’d made in two.
+
+Of course, besides the stats and increased Qi capacity granted by the system, advancing also has other benefits. Increased strength, increased resistance, the ability to see the environmental Qi, Divine Sense and many other superhuman abilities would be unlocked.
+
+The Qi would also reform my body, preparing it for the next large realm. There were certain techniques that actually changed the structure of the bones, muscles, tendons and even meridians.
+
+Those techniques were of a higher grade than my current Ghost Qi Technique, even in the mortal grade. However I had no way of remembering any of them, and I should count myself lucky I had some way to cultivate at least.
+
+With the Ghost Qi Technique reforming my body at the same time as the evolution, though, I couldn’t help but be curious about the result.
+
+I guessed I’d find out soon enough.
+
+As the Qi from the lake dripped, it began to freeze. The temperature inside my dantian dropped to a chilling degree, and were it not for my Phoenix constitution, I would have already frozen over.
+
+If that had happened, the only way to escape was by using external warmth or by heating up one’s insides. For that reason, people with Yang constitutions would avoid this technique, as it clashed with their nature. That would be me.
+
+However, people with Yin constitutions would prefer to use this technique as it matched well with their nature.
+
+But there were better techniques than the Ghost Qi Technique for either type, and even for those with no particular constitution.
+
+Overall, the Ghost Qi Technique was simply an awful technique created by a villain.
+
+And I was now using it to advance my cultivation.
+
+I concentrated some warmth around the dantian, the firey Qi from my innate Phoenix nature melting the icy surface. When it de-solidified, it took on a bright luster, and I could somewhat feel that the Qi didn’t use as much space as before.
+
+What? I never knew this could happen. The same amount of Qi but… less space? I could store so much more Qi this way!
+
+After figuring that out, I took my time, and didn’t rush. Who would have guessed that the Ghost Qi Technique would have such a secret?
+
+If one ignored the fact I would turn into a ghost by the time I reached Nascent Soul, this technique was incredible!
+
+However, there had to be some way to undo it!
+
+***
+
+Time passed, and I took advantage of the freezing-heating cycle to consolidate my foundation even further. Normally, I would have forcefully compressed the Qi, however the Ghost Qi Technique already compressed it as much as possible by freezing it.
+
+Therefore, my foundation couldn’t be more stable! If before I was working toward building an oak tree, big, stable and flourishing, then now I was working on a Spreadroot Fig.
+
+A huge canopy, deep and thick roots, growing in soft, yet sturdy earth, with a wide trunk and limitless potential.
+
+Slowly but surely, the lake filled up. All the Qi inside froze as I squeezed in the very last drop, and then flooded my dantian once it melted down.
+
+[Cultivation Increased! Qi Condensation V has become Qi Condensation VI!]
+
+A huge amount of Qi and strength flowed through my aching body. The pain from the evolution pulsing through my flesh with newly awakened vigor.
+
+My senses sharpened as well, and I’d earned a better grasp on the changes happening in my body. My talons, wings and neck grew longer, while my body had turned the faintest bit thinner.
+
+At the same time, my wings, which once held a tiny bit of ethereal quality, glowed with a ghost-like light. They seemed to phase in and out of reality, and while that worried me a little, it felt right.
+
+Was I wrong about the Ghost Qi Technique? The scroll clearly stated I would turn into a ghost, but is this really what being a ghost feels like?
+
+The air around me condensed as well, dripping with water as Yin Qi seeped out of my flesh.
+
+The Yin and Yang clashed, however neither had dominion over the other. They were in balance.
+
+The Dao gives birth to One. One gives birth to Two. Two gives birth to Three. Three gives birth to all things. All things carry Yin and embrace Yang. Through the blending of these energies, harmony is achieved.
+
+“I see.”
+
+It was then that I heard a voice— no, multiple voices. I couldn’t tell if they were Spirit Beasts or humans, but either of them spelled trouble.

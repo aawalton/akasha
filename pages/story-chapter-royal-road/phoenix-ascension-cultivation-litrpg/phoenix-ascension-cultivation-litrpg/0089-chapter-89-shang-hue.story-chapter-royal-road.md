@@ -1,0 +1,205 @@
+---
+id: ebc17197-66d4-5ef9-b708-0f3542387b5f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 89: Shang Hue"
+slug: 0089-chapter-89-shang-hue
+partOf: phoenix-ascension-cultivation-litrpg
+position: 89
+ownLength: 2324
+unit: words
+publishedAt: 2026-02-16
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3060557/chapter-89-shang-hue"
+royalRoadId: "3060557"
+---
+
+Considering the fact that I didn’t want to kill them because of where we were, I decided to make them incapable of fighting. It’d been too long since I could get some proper fighting done due to all the craziness happening so quickly.
+
+The demonic guy didn’t count, since he ran away before either of us could go all out. I didn’t believe these guys would have made for much of a challenge either, but at the very least, we were roughly equal in level, so it could be fun.
+
+With that in mind, I also wanted to test out just how well this sword worked, so I sent a little bit of lightning Qi through the blade. The man started shaking almost immediately, and before I knew it he’d been paralyzed.
+
+I was a little disappointed by that interaction, but there wasn’t much I could do. My Lightning Affinity was only ten percent, and I didn’t even use a lot of it. I couldn’t tell if his resistances had been weakened by the alcohol or if he truly was that weak.
+
+Even Hei Tu and the others gave me more of a fight than this. I suppose they were sect cultivators and not whatever these people were. Rogue Cultivators? Exiles?
+
+Either way, the man fell to the ground under his friend’s scrutinious gaze. The two of them each pulled out their daggers and began attacking. I took a step using the footwork information given by the Divine Lightning Construction Technique, and used it much as Shu Xu Ning did.
+
+The only difference was that she was better attuned to the element, so she almost became lightning. I was only faster and sharper in my movement.
+
+Their attacks landed on empty air, and while I could have used any number of attacks, ranging from the sword technique taught by the Divine Lightning Construction Technique, or a simple kick, I decided on the more amusing option.
+
+I stomped my feet and created a lightning field that only covered the area they were standing in. They jumped rather high after the first shock, and thankfully that didn’t do them in. However, they weren’t in any measure to reposition themselves after jumping, so they ended up landing on the lightning-covered field again, and jumped, again.
+
+It quickly became a cycle of them getting shocked, jumping, and getting shocked again. It was funny the first few times, but it got old rather quickly.
+
+At the very least we had a decent audience, mostly constituted of drunk men, who were laughing at their fellow drunkards. I decided that enough was enough and kicked from the side just as they were about to jump again, sending the nearest one crashing into the other then into the crowd.
+
+Some people attempted to catch them, but they too, got caught up in the strength of my kick. I swore I felt their ribs crack when I kicked them.
+
+Had I known they would be so weak, I’d have left the woman take care of them herself. Not that I cared too much about her, but I thought that it was a decent opportunity to start a fight.
+
+Unfortunately, the fight was as disappointing as the perpetrators, so it had to be ended quickly, considering I had better things to do.
+
+It didn’t seem like either of them would get up soon as well, so it worked out fine for me. I could just be one bad dream that they had in their drunken stupor.
+
+Though the view of them jumping like locusts was rather funny.
+
+I put my sword away and turned, thinking about where I could go to get more information on the seed and maybe how Foundation Establishment worked as a whole. I knew the basics, but if there was something else that could be done that I wasn’t aware of due to the differences in our worlds, I wanted to know.
+
+Just when I took my first few steps, I heard a meek voice sound out behind me. “Erm…”
+
+I ignored it, since I knew very well that it was the woman, but I didn’t have the time to waste on a pointless conversation.
+
+I kept on walking and looking around. Besides the man and woman staring at me, there was little of interest. There were the houses, of course, and the shops that sold the basic necessities for the people, but nothing more.
+
+Do I really have to go to the Myriad Market…
+
+That was the last place I wanted to ask about such basic things, or worse, divulge whatever secrets the seed held, if there were any to begin with.
+
+Just as I was thinking about breaking into a library, a gentle thug made me turn and pull out my sword in the same breath. I held the blade to the neck of…Shang Hue?
+
+What are you doing here?
+
+She was frozen stiff with the cold of my sword pressed against her flesh. I quickly put the weapon away and shot her a questioning glare. She was tinier than me, so my intimidation was even more effective, not that it needed to be. Shang Hue looked like a scared little rabbit without me needting to look too scary.
+
+“What do yo u want?”
+
+“I just… wanted to thank you.”
+
+“Well?” I asked, clearly annoyed.
+
+“Thank you.”
+
+“You’re welcome, bye now.” I turned around, but I didn’t even get to take a step before she thugged at my clothes again.
+
+“What do you want?” I hissed without even looking at her.
+
+“I… wanted to thank you properly.”
+
+“Is that so?” I asked, and my stomach betrayed me in that very same moment, as it growled. It wasn’t loud, but loud enough for the two of us to hear it.
+
+Damn it. I should have hunted for something before coming here.
+
+I was hungry, that much was true, and the thought of a ‘proper thank you’ of course led me to think about food. That’s what everyone else did when they wanted to thank someone.
+
+“Are you… interested?”
+
+“I don’t have any money, so-”
+
+“I’ll pay!”
+
+My stomach growled again, and I frowned. Her offer was rather hard to refuse, and if I could do it for free well… I was curious about the food the people ate.
+
+“Fine, but I hope you have deep pockets.”
+
+A few minutes later, I was sitting down at the top-most floor of the most expensive restaurant in the village, from what she said, and it also just so happened to be in the Myriad Market. The menu was already there when we sat down, and apparently there didn’t need to be any reservations.
+
+“Order whatever you’d like.” Shang Hue said, and of course I took her up on the offer. I ordered one of everything on the menu, much to her shock. I did warn her that she needed to have money.
+
+Either way even if she didn’t, considering where we are, there wouldn’t be much of an issue when it came to payment.
+
+She herself ordered enough food to last a normal person, but I didn’t feel any shame. I was a growing Phoenix, after all.
+
+A waiter served us some wine before the food was ready, and since it was the only thing I could eat or drink at the moment, I grabbed the gourd.
+
+“Let me-” Shang Hue said and snatched the bottle from my hand, pouring me a cup, then pouring herself a cup.
+
+“You don’t have to be so respectful, you know?”
+
+She shook her head. “You helped me fend off those three, so this is the least I can do.”
+
+“If you insist.” I wasn’t going to fight her desire to be courteous. Though, I mainly accepted her invite for the food, and didn’t think much of what we would do besides eating. I wasn’t really a people person, so my conversational skills were pretty bad.
+
+I drank my cup of wine and then sat in silence for a few minutes. I didn’t mind it, but she clearly did.
+
+“So… are you a lightning cultivator?” She asked after the atmosphere grew a little too awkward.
+
+“You could say that.” I nodded.
+
+“Are you new in the village? I’ve never seen you around.”
+
+“I’ve been here for a few weeks now, but I don’t really go out. I’m just passing through.”
+
+“Oh.” She sounded a little disappointed.
+
+I leaned back on the comfortable sofa and grabbed the gourd before she could pour me another glass. The wine tasted rather sweet, even though it would not be my drink of choice. “Are you from here?”
+
+“I am. Born and raised, in fact. I’ve never known anything but this Hu Village.”
+
+“Not even the Bai Village?”
+
+Shang Hue hesitated, then said. “We don’t really… interact.”
+
+“I see. Old feuds, I suppose?”
+
+“I’m not sure.” She chuckled bitterly. “We just don’t really tolerate each other very much.”
+
+“Interesting.” I took a swig from the gourd, then wiped my mouth with my sleeve. “Since you were born here, do you know anything about the flower on top of the mountain?”
+
+“The MoonBloom? Are you here to contest for it as well?”
+
+“You can say that. Could you tell me more about it?”
+
+“Well…”
+
+I handed her the gourd, thinking that she may need some alcohol to start talking. Since she knew something about the flower, more than Yo Na did, I was pretty sure then I could extract some information as well.
+
+That was information I could have gotten from the Myriad Market, though, but since we were already eating…
+
+Shang Hue accepted my gourd and prepared to pour herself another cup before thinking twice and just drank straight from the bottle.
+
+“Well, there’s a legend circulating about the flower, but nobody knows if it’s true or not. Some say that it’s existed there since before the Hu Village was even founded, and even longer before that.”
+
+I could confirm that at the very least, since the recipe Yo Na had was rather ancient and even that mentioned it.
+
+“It’s used in a lot of pills and elixirs as the main ingredient since it can harness the energy of the moon, hence the name. The flower itself is of the Yang variety, but once every full moon it can absorb the Yin from the light of the moon and create a temporary balance.
+
+“But if it’s not plucked in time, then it will just die until the next full moon. It also can’t be bred or multiplied, so it’s the only one of its kind in the area.”
+
+“Why have none of the villages annexed it?”
+
+“Well, they tried some centuries ago, but the resources required to guard it were too expensive for our small villages, and the bigger cities had no interest in it, because for as precious as it was, its use cases were low. Very few useful recipes called for it, and those that did required alchemists at least at the Grandmaster rank, so it wasn’t worth it.”
+
+“I see…”
+
+That sort of made sense, but also didn’t. Even if all of those things were true, they could store the petals and sell them at a higher price than they are being sold at now. If cultivators showed up every month to fight for it, then I was pretty sure something else was at play.
+
+I could not guess what, though, and it would be difficult to figure out without examining the flower.
+
+“Is that it?”
+
+The information wasn’t particularly useful to me. The anecdotes were funny, sure, but not all that important.
+
+“Well, I heard a rumor.”
+
+“What sort of rumor?”
+
+“That this month there would be more cultivators than usual… Somebody had apparently put up a bounty for the entire flower, and it’s not a small one either.”
+
+I almost spat out the non-existent food I had. A bounty on the flower that blooms monthly, this month of all months? Only a foold would not figure out that something fishy was going on.
+
+Meng Mao… It was you, wasn’t it?
+
+***
+
+“Achuu.”
+
+Meng Mao sneezed as he looked over the Hu Village. The difference between the day life and night life was rather stark. Even he hadn’t expected there to be so many drunk cultivators.
+
+For such a small place, the number of people who could destroy a house or two by accident, who were also drunk was a little scary. In contrast, his Golden Arch City didn’t have such insane people, and if they did drink, they were confined to a brother or a bar, not out in the street.
+
+Most cultivators had the sense not to get drunk though, and only drank wine and whatnot for the taste. That was only after he’d enforced the law and put up a lot of experienced and powerful guards.
+
+Even if Golden Arch City was nothing but a speck of dust in the grand scheme of things, as was he, he didn’t wish for it to be known as a laughingstock. So what if his brother gave the role of City Lord to his son? He’d spent decades building and taking control of all districts.
+
+That was why he didn’t value his sons, who died uselessly after living a worthless life. Their biggest contribution was making him aware of the existence of the Phoenix through their deaths.
+
+He gave the village one last look and smirked as his gaze drifted down, looking at a newly released paper article.
+
+<<Collect the Moon Bloom Flower whole.
+
+Reward: One hundred mid-grade Spirit Stones>>
+
+He was, of course, the one who put out the bounty, and he had to thank the Myriad Market for making it public that fast. Looking at the moon, he knew that there would only be a few days until the fight began.
+
+And he was looking forward to the surprise that the Phoenix would give him.

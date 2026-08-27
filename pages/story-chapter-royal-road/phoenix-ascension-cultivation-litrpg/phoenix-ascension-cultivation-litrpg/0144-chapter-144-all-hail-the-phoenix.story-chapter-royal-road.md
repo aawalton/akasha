@@ -1,0 +1,205 @@
+---
+id: 1ff32d50-3a73-57c3-905c-b50981f8d9fe
+page-type-slug: story-chapter-royal-road
+title: "Chapter 144 : All Hail the Phoenix"
+slug: 0144-chapter-144-all-hail-the-phoenix
+partOf: phoenix-ascension-cultivation-litrpg
+position: 144
+ownLength: 2066
+unit: words
+publishedAt: 2026-06-27
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3598137/chapter-144-all-hail-the-phoenix"
+royalRoadId: "3598137"
+---
+
+I’d flown away from the mansion, hiding with stealth. I was not about to get caught by an angry Butler Mo, and even less so by the big man.
+
+The dragon was still up in the sky when I’d left, acting as a good distraction. With a quick scan of the Divine Sense, I’d also noticed that the trapped Spirit Beasts had escaped.
+
+That was good. With the ledger in my metaphorical hands, and the Qilin Horn in my dantia, I could tell Meng Mao that he could stop whatever he was doing.
+
+However, as far as giving the horn went… we would need to see. I had no desire to give him what I’d worked so hard for.
+
+But if the dragon really did want it, then I had no choice but to give it to him. I wasn’t strong enough to fight for what I wanted, and to win, not yet.
+
+I needed to break through into Foundation Establishment and fight more powerful beasts to grow my core, that was the only way I could get stronger.
+
+Still, with the requirements being so strict, it was a pain in the tail.
+
+After going a fair distance away and slipping into stealth, I hid in the trees and contacted Meng Mao. After a few moments, he’d replied.
+
+“I have the things.”
+
+That was all I’d said and cut off the connection. I did not want him to ask anything else.
+
+A few seconds after I stopped the contact, the dragon in the sky disappeared, though I couldn’t really hear what he’d said.
+
+I could not help but wonder just what sort of aid Meng Mao had brought it, and who it was that wanted the Qilin Horn so badly.
+
+We hadn’t set up a meet point either, but once things calmed down, I would contact him again to finish our deal.
+
+However, while waiting for that, I wanted to know what the turtle and the others did. I knew that he wanted to return to his ocean to find his mate, but the rest of the spirit beasts had unknown motives, and I wanted to tell them to run away instead of hanging around the city.
+
+I’d quickly contacted the turtle and he replied immediately.
+
+“Where are you and the rest?” We’ve just escaped through one of the gates in the forest, we’re waiting for you.
+
+“Alright.”
+
+The brief conversation told me everything I needed to know. I flew higher and looked around, spotting an open, well, destroyed gate, and flew right past it.
+
+I scanned the area with my Divine Sense and spotted the Spirit Beasts rather quickly. I frowned, they were far too close to the city.
+
+“Boss.” The turtle stepped out and said out loud, and even the beasts that hadn’t gained Universal Language knew what he was saying.
+
+“Don’t call me ‘Boss’.” I rolled my eyes as I landed on a rock and looked down at him, then at everyone else.
+
+There were dozens of Spirit Beasts, all tasting freedom for the first time in… who knew how long?
+
+“Boss!” They all yelled in unison, scratching my brain with the noise and making me cringe at the title they’d given me.
+
+“Shut up!” I yelled, but that didn’t really give them pause. They kept on chanting, yelling Boss in a tone that irked me.
+
+I was not their boss, and I didn’t want anything to do with them!
+
+They did calm down after a minute, and I took my time to properly look at them. Besides the turtle, there was the white tiger cub riding on his back and the red bird riding on the white tiger’s back.
+
+It was a rather funny sight.
+
+Aside from the ones I’d been brought in with, there were a few other large cat-like Spirit Beasts, and some that looked like very powerful lizards. Some, on the other hand, were insects, like butterflies or mantises, just, really big.
+
+There were also some monkeys like those I’d fought when I’d met Shu Xu Ning, and some other, a little bit more exotic species of animals.
+
+All respectable Spirit Beasts, with immense strength and who could throw the entire ecosystem into dissaray if not cared for properly, or if they weren’t smart. Seeing as it was either me and the turtle that would need to tell them to stay put, and that the turtle had somehow convinced them that I was their boss, well, that duty fell on me.
+
+If I had to be honest, I did feel a little bit of pride, but it wasn’t something I’d earned. It wasn’t because of something I’d done.
+
+I gave the turtle a suspicious look, at which he only shrugged.
+
+The Spirit Beasts were a little excited, some of them scratching the ground in expectation. I wasn’t anywhere near as happy as them, but I could understand that after being locked up for so many days, weeks or months, some maybe even years, that the taste of freedom was intoxicating.
+
+“I’m glad to see that you’ve all made it out, one way or another.” I began, and raised my wing to stop the already rising cheers. “However, I must warn you, I cannot care for you.”
+
+Their excitement did die down a little upon hearing that last part, but I was simply not going to bother myself with an entire petting zoo of animals.
+
+“I need you all to tell me what your aspirations are. What are you going to do now that you’ve regained your freedom?”
+
+I wanted to make sure that none of them were going to send themselves to their deaths, not after everything I’d gone through for them.
+
+Although it was mostly for me, if I was going to be perfectly honest, but that didn’t matter.
+
+After a brief moment of silence, one of the cat-like Spirit Beasts walked up. “I want to get revenge on the man that locked me up in that cage.” He spoke in a strange accent, clearly not from around here.
+
+Or maybe that was just the way he spoke and he was from around here?
+
+I raised a metaphorical eyebrow. “Is he in this city?”
+
+“No, he’s way farther away, belongs to one of the sects.”
+
+“Which sect?”
+
+“Well… I don’t actually… know. But I know his name, I’ll figure it out.”
+
+I sighed inwardly. At least he didn’t plan on staying around and getting himself killed… on my watch. I doubted he was suicidal, so I supposed it was fine.
+
+Next, some sort of lizard-like Spirit Beast stepped forward.
+
+“I wish to return to the place of my birth.” She said in a fine voice, shy and somewhat sad. “I want to rest there for the time being, at least until I figure out what my next steps would be.”
+
+Reasonable, I nodded, and the next one came forward.
+
+Most of them had more of the same story. Revenge, or going away to live a peaceful life. There were the odd ones, who said they would like to go and explore, and enjoy their freedom, and very few of the Spirit Beasts could not actually speak.
+
+However, even if they couldn’t, I understood their general intent.
+
+What made me glad was that none of them wanted to hang around the city, thus I would not need to worry about them.
+
+“Since all of you are planning on staying safe, I hope you will remain alive for as long as possible. Maybe we will meet again, and we can share on our life’s experiences then.”
+
+I said as a final, closing statement of sorts. They understood that I didn’t intend on keeping them around, which was good.
+
+However, what I didn’t expect was for all of them to turn to me, and bow low, almost to the ground.
+
+“Thank you, Boss Xiaolan!”
+
+They said it with so much passion that I’d almost teared up. Almost. But I didn’t know them, so I could only give them an encouraging nod, then they left on their own way.
+
+All of them, besides the turtle, tiger and bird.
+
+I thought I knew what the turtle wanted, and that was to go back home to his mate, but maybe I was wrong. The tiger did not say, but it was clear that he was planning something.
+
+As for the red bird… She… was hungry.
+
+I wasn’t sure there was any shred of intelligence behind those eyes.
+
+“What are you going to do now?” The Black Turtle asked as I stepped down from the rock.
+
+“I am going to finish up my job and then get resources. I need to get stronger and do what I have to do.”
+
+“And that is?”
+
+I stopped for a moment, thinking. Going to see father, helping Mother ressurect, getting revenge on her killers… And then dealing with whatever competition I’d entered.
+
+I doubted the other ‘heirs’ would let go of me so easily.
+
+And besides those things… I looked down at my tail feathers, most of which were dimmed. Then there was the Qilin Horn in my dantian, which The Little Emperor had thankfully not touched.
+
+If possible I would want to get all the elements and live up to my name as an Elemental Heir, and also get a lot of Skill Points and clear up my vast array of skills. There were too many to keep track of and ranking them up would take far too long for my liking.
+
+But besides levelling and selling skills I didn’t want, was there any other way to get Skill Points?
+
+Well, if I’d asked System it would say-
+
+[Information Locked]
+
+That, yeah.
+
+Well, it was worth a try. The fact that it didn’t say that it wasn’t possible, but that it was just information I didn’t have access to meant that there were other ways.
+
+Thanks, System.
+
+[This is cruel and unusual.]
+
+Moving on.
+
+"I’m sorry if that was too personal.” The old turtle said, but I shook my head.
+
+“No, I was just thinking. My immediate goal is to participate in the Four Corner Sword Realm, or whatever it was called. I want to see what sort of treasures I can steal.”
+
+“A… what?”
+
+“Ah, it’s… a competiton where humans compete to get the most amount of resources and uh… something else at the end. I think it was somethign to do with the Foundation Establishment realm…?”
+
+“For humans?” All three Spirit Beasts looked at me with increluity. “But you’re not a human?”
+
+Rather than explaining to them what the skills were, I’d decided that it was better to show them. Changing Perfect Disgusie to turn me into a human, I plopped down on the rock, though it was a little cold.
+
+The three Spirit Beasts—Bird included— were looking at me with shock and awe. There were also some weird stares.
+
+“Might I ask… Why are you naked?” The turtle asked, though more curious than anything.
+
+“I didn’t find any morphing pants.”
+
+“I… I see.” He let out a sigh. “We will be hanging around the city if you don’t mind. Perhaps we could stay with your human benefactor? I am an old turtle and my house is… far, very far.”
+
+After turning back into my original form, I paced a little back and forth to think. “We could arrange something. You should be safe here until we finish our talks.”
+
+Just as I wanted to take to the skies and return to the city, though, I’d detected something with my Divine Sense.
+
+No, rather than something, someone. Two, very powerful people. One, I’d recognised. It was Meng Mao.
+
+The person next to him must be his client, the one who could turn into a dragon.
+
+But strangely enough, they did not give off the aura of a dragon.
+
+Just who are they?
+
+“You three should move back a little. It may get ugly.”
+
+The turtle nodded and did his best to move away quickly, while I stepped forward. If I was going to meet them so soon, might as well see what they were all about.
+
+I jumped on a tree branch and felt Qi scan me. They were already aware of me, and probably who I was, to be completely honest.
+
+I sensed them stop, then suddenly, they started shaking and fell to the ground, prostrating.
+
+“I greet one of the great Phoenix Lineage!”

@@ -1,0 +1,155 @@
+---
+id: 55091a7a-6799-5e5a-ae8e-f5c1e6d04602
+page-type-slug: story-chapter-royal-road
+title: "Chapter 78: Bids"
+slug: 0078-chapter-78-bids
+partOf: phoenix-ascension-cultivation-litrpg
+position: 78
+ownLength: 2131
+unit: words
+publishedAt: 2026-01-21
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2965934/chapter-78-bids"
+royalRoadId: "2965934"
+---
+
+When the woman announced the start of the auction, there was a wave of cheering then they rapidly quieted down. I didn’t know what the first item of the auction would be— I would have known if I could read, but I can’t— so it was anyone’s guess.
+
+The host didn’t wait long to present the first item— A table made out of beautiful green jade. It was obvious that it didn’t serve any purpose besides being a table, but it looked quite interesting nonetheless.
+
+“Our first item is a special table carved by the most famous artisan in the region. He has poured his blood and soul into this piece and named it ‘The Sitting Dragon’. As you can see by the pattern decorating the four legs, they look like the legs and claws of a dragon, and the top of the table has the pattern of a sleeping dragon. The functionality of the table is ensured by the thin glass panel on top, making it so you can admire the pattern while still being practical.
+
+“Starting bid is ten spirit stones.”
+
+There was a deafening silence. Clearly, no one wanted that stupid table, even if it was made by a master craftsman. They weren’t there to buy a table; they wanted useful items to help them survive, not vanity trophies.
+
+“Eleven spirit stones.”
+
+Or not, as I was quickly proven wrong by someone down below. I couldn’t be bothered to look, but there were a few whispers, most of which were mockery. The man didn’t seem to care, though, as he didn’t say anything.
+
+“Eleven spirit stones going once… Going twice… Sold to number eleven!”
+
+“Pft” Yo Na let out a chuckle, and honestly, I would have had to if I didn’t have that much self-control.
+
+“Indeed, buying that table for eleven spirit stones is a waste. It’s not even real jade.” Xing Ya Chen said, shaking his head.
+
+Thankfully, Mr. Eleven couldn’t hear him, or he would have been really mad. I felt like such things should have been denounced, if for nothing else but the sake of their reputation. Then again, there were plenty of ways to make someone docile if they tried to dispute, and in a lot of cases, the one who buys such cheap things shouldn’t expect them to be valuable anyway.
+
+So they could only blame their foolishness if they got scammed.
+
+I assumed that ten spirit stones referred to the low-grade spirit stones, since they were the most common form of currency. However, I found their choice of using such a cheap and useless item quite interesting.
+
+After the table left the stage, the woman brought out another interesting item. It wasn’t a table or any sort of furniture, but a pipe.
+
+“This pipe was found in an old ancestor’s house, and is considered to be an item passed down from generation to generation. The family it belonged to was a branch of the now-gone Shu clan.”
+
+My pupils narrowed as she said that, and I looked at her through the transparent walls. She felt my gaze, but couldn’t tell exactly where it’d come from.
+
+After that brief shock, she recovered rather quickly and continued as if nothing happened. “As you know, the Shu family was a prominent one in our little Hu Village, and they even had some influence in the Bai Village. What happened to them is unfortunate, but we must go on.”
+
+She speaks as if an entire clan had not been destroyed unfairly by some greedy bastards. Go on? What gal…
+
+If I wasn’t angry before, then I’d begun to seethe. Could they really talk about the destruction of a clan in such a light hearted matter, then sell off items found in the house of the deceased? It was propositional and disrespectful. Oh, I should just burn that hostess and this entire place along with-
+
+“Miss Fa Xiaolan?” Xing Ya Chen awoke me from my thoughts, though I couldn’t bear to hear his voice.
+
+“What is the meaning of this?”
+
+He must have realised then what the connection between the girl named Shu Xu Ning and the Shu Clan was, as his face paled.
+
+“Well. M-Miss…. D-don’t get angry.” His boots were shaking as I turned to look at him. “It’s just that the clan, the Shu Clan, owed us money and…”
+
+“And you took away the assets from two orphans with nothing left to their name anyway?”
+
+“That- I wasn’t aware of that, Miss Fa Xiaolan. I’m nothing but a clerk, it’s the upper management that-”
+
+“I see.” I waved my hand, interrupting him. “I will need to talk to Fu Qiang then.”
+
+“O-of course.” Xing Ya Chen seemed to wipe a sweat off his brow as he visibly deflated. By the time I was done with my questioning, the hostess had announced the price of the item.
+
+“Since it’s a rare relic from times past, the starting bid will be fifty spirit stones.”
+
+Fifty?! Fucking hell-
+
+I couldn’t stand that anymore, and even I didn’t know why I’d gotten so irrationally ugly. Perhaps it was the image of the little girl playing with her father as she puffed the type, reading her stories, and refilling it.
+
+Maybe it was the image of Shu Wao Tu taking over as clan head, and in turn using that pipe to relieve some of his frustrations. Or maybe it was the image of a certain man whose story had been forgotten, and his last remaining item was an ordinary bamboo pipe that I carried around until I died.
+
+Either way, I wasn’t pleased.
+
+“Five hundred spirit stones,” I said from the cabin, and the already silent room went quiet. There were’t even any whispers or mockery, unlike the man from before, but pure shock.
+
+Nobody would have even paid the fifty for that thing, but I felt like I had to, and return it to its proper owner.
+
+I sat down on the comfortable chair after the hostess announced that I won the bid by naming me ‘VIP Lounge Five,’ which was as good a name as any. Xing Ya Chen looked away when I caught him staring at me, clearly nervous.
+
+Yo Na didn’t have much of a facial expression, but I wasn’t doubting that it was because she didn’t know how to use her face.
+
+Just as I leaned back, the door to the lounge opened, and Shu Xu Ning walked in, guided by the butler. He left after bowing respectfully.
+
+The little girl had been cleaned and perfumed and given a clean set of clothes. They weren’t anything fancy, as they looked like a set of green martial robes made out of fine silk. It wasn’t that strange, since cultivators were martial artists at heart, and if I had to guess, she was the one who insisted on it.
+
+“Miss Immortal!” She ran up to me and hesitated. It looked like she wanted to jump on my lap, but realised at the last moment that it wasn’t the best of ideas. I smiled wryly and made some place next to me, patting the seat, and she gladly jumped in with me.
+
+Xing Ya Chen gulped upon noticing my closeness with her, which was exactly what I was aiming for. He turned around and ‘discreetly’ brought a ring to his mouth, then turned back after he finished his communications.
+
+Good, he’s smart.
+
+Yo Na stared at me and at Shu Xu Ning, the emotion in her eyes almost asking if I was alright in the head. I could only sigh inwardly and wait for some other interesting item to appear.
+
+My goal was the Body Cleansing Pill, but since I had the funds, it would be nice to grab whatever I wanted.
+
+“Here,” I took out the jade slip and handed it to Shu Xu Ning. “If you want anything from there, just say the word, and I’ll buy it for you.”
+
+Xing Ya Chen’s expression changed once again, but he did a good job at controlling his bewilderment.
+
+But if I was going to go anyway, I wanted to leave her with some security. The action of doting on her and letting her sit next to me was all to give him a message, which he’d understood completely.
+
+Pay attention to her.
+
+I would have hated to go away and leave her and her brother to fend for themselves. They were just children, after all, and didn’t deserve to endure such hardship.
+
+As for those that hurt them… they would have their reckoning.
+
+***
+
+“With all due respect, sir, why are we still lingering in this village?” Alchemist Hao asked Meng Mao, the bodyguard assigned to protect him from Golden Arch City. “I’ve long since finished appraising the pills, and I am very bu-”
+
+“Silence. If you wish to leave, do so. I still have business here.” Meng Mao said, his tone not allowing for even a hint of disobedience.
+
+“What sort of business is more important than bringing me back safely?!” Alchemist Hao ignored the threat in the man’s voice because he knew Meng Mao could do nothing to him. He was a powerful and important asset to Golden Arch City, and his nephew, the City Lord, would not let him off easy if something happened.
+
+“Personal Business, now get lost.” He pushed aside the old man and made his way through the corridors of the Myriad Market. He figured that if the person he was looking for was anywhere, then it would be there.
+
+If that thing is what I think it is, then I could use it in exchange for not killing it on the spot, and sell it after it’s served its purpose.
+
+He finally arrived at the auction room, which he found to be quite small and dirty. Regardless, he took a seat in the back and watched for any sign of something being strange.
+
+Meng Mao knew that if the thing he saw through the tracking technique he put on his two useless sons, then the Phoenix had learned how to take human form and was currently deceiving the entire branch.
+
+Naturally, he couldn't care less about it, and he only needed it for his own purposes. He didn’t care about these two in particular, since they’ve always been scummy troublemakers. Meng Mao may consider himself scum as well, but there was a difference between tobacco and immortal materials.
+
+And those two sons of his were the lowest of the low. Yet, he could not bring himself to kill them. If anything, he should thank the Phoenix for saving his face. Still, he couldn’t let it go so easily, because if he did, then if someone found out that his flesh and blood died and he didn’t punish the culprit, then he would become a laughing stock.
+
+If the Phoenix spread rumors under the disguise of a human, then he would have no way to keep his reputation intact.
+
+However, he found it hard to believe, even though it was true, that the Phoenix could take human form. It was, after all, a lengthy process, and that could only happen when they reached their limits as mortal beings and ascended past their flesh.
+
+Since humans were the essence of all living beings, and could understand the Dao better than any other creature, it was natural that Spirit Beasts became humans, and humans became immortals.
+
+But a Phoenix Chick transforming into a human? That was something worth looking into.
+
+If he could subdue it, then he would like to strike a deal with her. There was someone in the city who wanted to take him down, and several of his businesses had been hit already. He knew who it was, but he needed the proof.
+
+The only issue was that his estate was very heavily guarded, to the point that even he could not do anything about it. But the daughter of the man who wanted him dead had a strange habit of collecting exotic Spirit Beasts and objects.
+
+She didn’t care what they were, or where they came from, as long as she’d never seen them before, she wanted them. And what better exotic animal for her to ‘acquire’ than a Phoenix?
+
+As he thought about it, a smile creased his lips.
+
+“And now, for the final item of today’s auction… The Appraising Stone!” The uglyhostess'ss voice echoed through the auction house, and even he was appalled.
+
+Why would they put that useless item as the last object to auction? This place really is backwards…
+
+However, despite his shock and the rest of the auctioneers' disappointment, a hurried voice echoed loudly. She announced a price before the ugly hostess could even put a starting bid.
+
+“One thousand medium-grade spirit stones!”

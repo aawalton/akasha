@@ -1,0 +1,241 @@
+---
+id: 2cc10196-c422-54f3-aaa0-e2b6fc808275
+page-type-slug: story-chapter-royal-road
+title: "302 The Sky-Swallowing Carp [V]"
+slug: 0396-302-the-sky-swallowing-carp-v-3099682
+partOf: path-of-the-deathless-book-4-completed
+position: 396
+ownLength: 5950
+unit: words
+publishedAt: 2026-02-27
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3099682/302-the-sky-swallowing-carp-v"
+royalRoadId: "3099682"
+---
+
+Indulging in a bit of cannibalism should be a requirement before anyone can call themselves a proper cook. It's mostly just a primer for your mind. You have to understand: you are not special, but you can taste wonderful. Just because you feel, think, and talk does not make you any less edible than, say, any beast of burden out in the field or a monster you've slain after a hard-fought battle. You are all made of a similar substance a lot of the time. At its basis, eating something is an endeavor to quench one's urge to discover novel or desired flavors and sate one’s satiety.
+
+Now, we orcs are a little bit different. We are a psycho-nutritional people, and the simple consumption of proteins and other nutrients won't be enough. And that leads me to the main point of my topic today: a balanced diet. I see some of you groaning, and I'm going to kill you for that later. But know that a balanced diet is very important! It's important for us, and it's important for all the other species that still need to consume sustenance to survive. You cannot overindulge in any kind of compound without paying somewhat of a price."
+
+Most of you likely have observed this: when you overfeed a pain slave with too much sugar, they turn obese. They start getting all sorts of diseases. Their body is no longer in a stable, functioning state. Instead, it is at war with itself, constantly undergoing inflammation and other cascades caused by said imbalance. And in relation to this matter, I'm sure you've also experienced the negative effects it has on you. There is a reason why heart failure is the second leading cause of death among all Orcish cohorts.
+
+It's not because we suffer the same deleterious effects of fat as most humans, elves, or goblins do, but the effects are similar in a few ways.
+
+Not convinced? Consider this: when you enjoy an easy snack by brutally torturing someone and drinking in their pain that way, what do you feel? Yes, a rush—a sugar rush, almost. It is comparable to what a human might feel after consuming a hypercaloric, heavy-glucose meal at Initiate-Tier. Their body can't handle it. It's too much for their heart. It's too much for their circulatory system. It's too much to absorb. And then something clogs or something breaks. It's the same thing with us. Our hearts will beat so fast and inspire so much surging excitement through all of our systems that we end up collapsing, dead in the aftermath.
+
+And that's why you need to eat a very balanced diet. That's why you can't just consume meat, meat, meat. It will make your teeth fall out if you're an ordinary person. If you're just indulging in physical hyper-sadism without the proper supplements provided by psychological and other finer emotional torments, then you are going to be too imbalanced to work. Even if you are above Adept here, there are prices to pay for this. You will feel aches and pains where your cohort will experience none. You will find your mind sluggish. You will find yourself addicted to the basest of enjoyments. And that's no way to be.
+
+So please, diversify your meals. As always, cannibalism is a start. You are an organism. You are a complicated organism designed to inflict pain the likes of which the rest of Integration cannot fathom, but still an organism. Mind your diet, mind your body!
+
+—The Gourmet, Heroic Orc Chef
+
+302
+
+The Sky-Swallowing Carp [V]
+
+The solution to Shiv's problem was simple: He was going to design the second layer of his meatball like a peanut.
+
+He wasn't going to make the gristle that hard either; he didn't want anyone to chip a tooth. What he did want, however, were points where there were structural weaknesses, and when pressure was applied, there they would crack open, revealing the molten goodness of the marrow hidden within the final layer.
+
+The end result was going to be marvelous. It would be like cracking an egg open and tasting the creamiest yolk. Every bit of that steaming hot inner flavor would flood out, suffusing the rest of the meatball.
+
+What about the aftertaste? Wouldn't the aftertaste still linger? I haven't solved that yet. He suddenly shook his head. No, no, we deal with the gristle first. I need to put in indented weaknesses so that anyone's teeth can easily tear it open. If I make this right, then a human or an elf could just spit it out. They don't need to continue chewing on the gristle—and they'll still get the satisfaction of popping it.
+
+And so Shiv put the aftertaste problem in the later section of his mind. For now, he guided the orc echoes he commanded on a campaign of flesh-remodeling. "Weave yourselves over each other. But leave gaps in between."
+
+"Like this, Insul?" one of the echoes asked. Threads made from tendon and hardened cartilage were drawn forth by invisible hands. The lengths glittered with vitality, and soon a complicated inner weave was stitched around a pulsating orb of steaming hot marrow. The inner two layers of his meatball resembled a nest. All the fibers were coiled over each other, but it didn't give him the desired effect. With everything laced like this, it was bundled tight, and even if someone managed to lodge their teeth between a few fibers, there were more underneath. It was now functioning like a protective weave.
+
+"No, no," Shiv said, using his Biomancy to make slight adjustments to a few pieces of expendable meat. The moment he touched the flesh with his bio-magic, it was soaked deep in blood and began sprouting a sprawl of tumors along its exterior. The very sight of the infestation sparked a burst of anger inside Shiv. Maiden's Curse knew when he was trying to cook or create, and it triggered accordingly; it rendered him a composer commanding his own ingredients, rather than a practitioner.
+
+But with anger came focus and clarity, and he showed the echoes in vivid detail what he wanted them to do. It didn't matter that his meat was dripping red and was drowned by cancerous nodules. He could still separate the biomass, and he turned them into thin strips. Instead of bundling every line tightly, he created symmetrical gaps in between every vein of tough tissue. Slight clefts lined the bleeding meat, making it seem like floorboards with crushed bodies hiding underneath. The echoes understood in an instant. He wanted someone to be able to lodge their teeth all the way through to split the gristle, cartilage, and tendons through leverage instead of struggle.
+
+They mimicked the modifications he made to his sacrificial piece of flesh, and soon Shiv beheld a pristine, dome-shaped meatball taking form.
+
+His mouth salivated, his eyes glistening with triumph and anticipatory gluttony. He reached out, seizing the meatball before biting into it for the first time. His teeth were made of harder stuff than most humans. He was pretty sure he could bite through adamantine if he wanted. The inner tissues of the orcs presented no difficulty, the strands snapping between every bite. Now, however, the satisfaction was doubled as the second layer of the meatball popped open perfectly, splitting into curved halves as the marrow flowed over his tongue.
+
+A gush of salt-sweet gravy crawled along his tongue and lathered him in enduring taste. It did more than deliver a climactic explosion of flavor. It also accentuated and enhanced the sensations of chewing on the gristle. Now each hardened strand was something worth looking at, something worth suckling on, with the taste of the meatball’s deepest depths soaking the other tissues.
+
+Shiv sucked what remained of the marrow out of the now-hollowed second layer and nodded to himself. Okay, this can work. This can work really well. Already tastes better than I thought it would. But it needs something else, something to neutralize the aftertaste without ruining it. And so Shiv looked back across all the years he'd spent working and learning within the Swan-Eating Toad. You faced problems like this before. Customers complaining about tastes being too strong, too overwhelming for their palate. Yet they didn't want to lose the experience, and so they put the chefs in an awkward middle ground to deliver on flavor, but to kill it before it became too much.
+
+The Chef Unwavering 79 > 80
+
+"There are several things you can do if you want to clean a bad taste from your mouth," Shiv recalled Georges saying. "Water is the easiest solution to all things. It's a universal neutralizer. Dump a gallon of water down your throat after eating something spicy as hell? It's not just the burn that gets washed away. Milk works too, sometimes even better. The problem with milk, though, is that a bunch of these fucking idiots are intolerant to it; we risk them turning our tables and chairs brown. So now that you all know this, can anyone suggest a more creative solution for some of our problems?"
+
+As usual, the common response to Georges asking something was silence. Shiv couldn't really blame the other chefs. It was hard to tell when Georges was being genuine instead of rhetorical—and it was even harder to tell when he was trying to set you up for mockery and insults as punishments.
+
+But Shiv had been different from the other chefs even then. He was used to being mocked, insulted, and despised. So, what Georges did to hurt others was just another day in the Omenborn’s life. He'd raised his hand while the other chefs tried their hardest to turn invisible. "Maybe we can find something that holds a lot of water and put it in the food."
+
+"Something that holds a lot of water, eh?" Georges had sauntered towards Shiv slowly, looking the boy up and down as one might a trailing stain that marred the fine tiles of their bathroom floor. Shiv hadn't known if he was about to be chewed out or complimented, and it was only after Georges’s lip curled upward for a half second that relief followed. "And what might hold a lot of water in it? You got any idea about that, huh?"
+
+"Vegetables and plants?" Shiv replied, snapping back to the present as he realized he'd said that out loud. He had his answer, but with that answer came more questions, more complicated choices to make. It wasn't like all vegetables went with meat. Simply cramming that stuff in would leave tissues wet and soggy, ruining the texture, not to mention defiling the taste. What he needed was another layer to the meatball, something that could contain its hydration within itself without letting it seep into the surrounding matter.
+
+Cucumbers and pickles, perhaps, Shiv thought to himself. If they're prepared right. But mushrooms might work even better, especially the drier kinds, the ones that are blander or are more subtle in taste. That might be the way to do things. Just a bit of extra hydration. A bit of water that leaks out when you bite into minced bits of mushroom, something to cancel out the overwhelming flavor of the marrow.
+
+That brought him to the next set of problems: what kind of mushrooms? Mendules, perhaps, but they made people relax. They brightened the world and induced lethargy. He also didn't know if they worked the same way in orcs. He didn't want something that could alter another person's cognition. There was too much risk there. Something with more diminished effects would be preferable. Maybe cave mushrooms, but—
+
+Wait, Shiv thought. The Abyss was filled with different kinds of fungi. Lots of different bioluminescent plants as well. And the river weeds. He had so many choices so close by, all he needed to do was go out and explore. And since he had two bodies now, nothing was stopping him—he was more unchained from inefficiency than ever.
+
+Shiv came alive with sudden motion. He broke away from the grilling station as if a man possessed. Striding toward the exit, he heard the others call out for him with Adam's voice rising above the others: "Shiv? Shiv, where are you going?"
+
+"Mushrooms!" Shiv called back. That was all he said to justify his actions. Behind, he could hear footsteps following, and he realized that Uva had abandoned the others, trailing after him. It was a slightly anxious look in her eyes, very uncharacteristic for her. As she drew closer, she seized him by the hand and slowly pulled him back. "Shiv, Shiv, I understand you are in one of your cooking trances right now, and you can't think of anything else, but you aren’t dressed properly for the occasion."
+
+Shiv hummed and then looked down. All of a sudden, he realized what she was saying. "Ah, shit. I'll have my Shadow go instead. Right! That’s a good idea! Test run for the Shadow too. Time to see how much stuff it can cut through…"
+
+His physical body was guided back into the kitchen, much to everyone's relief. Meanwhile, his Revenant slipped out without anyone really noticing. Aside from Valor, who tracked the silhouette with his eyes as it departed.
+
+"The System works in strange and nonsensical ways," Uva said under her breath. She scanned Shiv and frowned. "You never resurrected in the nude before. Why now?"
+
+Shiv just shrugged. The bulk of his attention remained locked on his meatballs. His precious, precious meatballs. "This is gonna be great, Uva. It's gonna be beautiful. It's gonna be beautiful. You'll see."
+
+He couldn't help it. The Chef Unwavering had its hooks in him bad. He was on a path to glory now—a path of defiance as well, against the whims of the System and the curse of an Ascendant. Shiv was going to be a chef first and foremost. All that fighting stuff would be to make sure that he could keep being a chef, so that he could live his life without anyone burdening him. In the end, if he ever became stronger than all things, he would build a kitchen on top of all things, and he would feed them instead of killing them. He would end this pointless war of feeding forevermore a being whose stomach was a boundless pit of misery.
+
+"Uva, I don't think he's really all there anymore," Adam said.
+
+"I know," she replied. She wrapped her Psychomantic strands around Shiv, weaving something of a billowing dress drenched in eldritch colors. With his modesty somewhat protected, she took a step back and couldn't help but chuckle at the ensemble she'd bestowed on him. Despite Shiv's imposing size, his face still appeared young, and forsaking shaving for a while had resulted in scruffy fuzz covering his face instead of a proper beard. Seeing that, she added a few more strands to the back of his head, soon making him look like a maiden—one that was over two meters tall.
+
+"We're going to need to figure out a solution to your clothing problem," Uva mused. "While the thought of you attacking our enemies while bare is imposing and, in a personal, lecherous sense, entertaining, I think it best to preserve your modesty. For selfish reasons, if nothing else."
+
+"He could just unbind his armor," Adam suggested. "It's still connected to his Severed Shadow. He could take it off and give it to one of his bodies."
+
+"Considering the lives we lead, he might not get the convenience. He could be under attack and perform a resurrection. What follows after is unfortunately immodesty." Uva tapped the underside of her chin with one of her sharp-edged fingers. "I don't think self-repairing clothes will do it anymore either. Not unless the repairs can match Master-Tier Regeneration. What he needs is something like this, a web to cover his body, silk on demand."
+
+And that caused everyone to think, several heads tilted as they observed Shiv. "Silk is just an organic substance, isn't it?" Jessica mused. "Can't he just use his Biomancy to spin something up?"
+
+"He could go back to assembling flesh and bone armor around himself, yes," Adam noted. "The System knows he has an endless supply of bodies, and he just makes more every day. But I think you're onto something here, Uva. Perhaps not silk exactly, but Biomancy might let him do things with all kinds of materials. Wait, didn't he just leave to harvest mushrooms? What about fungi? He could wear fungi all over himself, right? He might even be able to grow some out of his skin."
+
+"Won't that give him a disease?" Gone muttered.
+
+That made Adam chuckle. "Diseases are good for Shiv. He burns a sickness out of himself and turns into a giant drunkard."
+
+The goblin blinked. "Is that a good thing?"
+
+"Not for the people he’s trying to kill. And not for us if we’re trying to keep him focused on something delicate. We can keep thinking about this. Maybe he might have some ideas as well."
+
+The kitchen fell quiet thereafter, but Five raised a clawed hand. "Does anyone perchance know where he is going? I'm not exactly worried about the Deathless’ safety, more about the people and things he might run across. Every time he goes missing for a period, things have a tendency to… spiral out of control, if my bluntness can be forgiven."
+
+"I can try following him," Gone suggested. But then she hesitated. "I just need some way to know where he is. Not easy to see his shadowy thing. Isn't like tracking an actual body."
+
+"It's not just you. I have a hard time keeping track of where Shiv's Revenant is." Adam’s frown turned into an outright grimace as he realized the true implications behind this Skill Evolution. "Oh, dear gods, he can properly ambush me now if I don’t constantly use my Divination. I won't even be able to see him coming. Valor! Valor! This is terrible. I need you to show me how I can sense vitality, right now!"
+
+Valor chuckled and rubbed his chin. "I fear it will not be so easy, Adam. Gaining such an aspect to your Awareness will take many years of effort and deliberate exposure and study of life-force-affecting skills."
+
+"Then we start now," Adam declared resolutely. "We start now, and we make sure he doesn't ambush us."
+
+"You guys know I can still hear you, right?" Shiv suddenly said, using his physical body. "It's hard to manage two different forms at the same time, but I'm still in the room with you." The Deathless in the kitchen with them chuckled. "And you know what? I think the mushrooms might be a pretty good idea. Maybe river weeds too, or I could just shape-shift. But I got another idea that might be able to enhance my Shape of Monstrosity."
+
+"Is the idea needlessly horrific and grotesque?" Uva asked, her voice thin with the hope that Shiv would propose something that didn't inspire night terrors in a small child. "Please don't say something like 'tumor armor.' Please don't tell me your idea is growing a layer of cancers around yourself and then wearing that by flaying it free from your flesh."
+
+Shiv coughed. "Well, you know, I wasn't actually thinking about that as my first choice…"
+
+"But you were thinking about that," Uva chided.
+
+"Well, I was mainly thinking about leather, you know? Skin can be turned into leather. Human skin too. So maybe I could just figure out how to tan myself. Every time I resurrect, I can make myself a leather outfit using my own skin. Seems pretty convenient. It just hurts a little, but I can heal myself using my Biomancy anyway."
+
+Shiv smiled. He was the only one that did.
+
+Jessica shook her head. "Broken Moon. That boy ain't right."
+
+"Considering the nature of our world, he might be too right," Rusty retorted.
+
+"I think you should pursue the shape-shifting idea above the others," Valor said, trying to ameliorate the situation. "It is a most useful skill to learn, though the Biomancy spells required for stable flesh-changing require deep knowledge and careful casting. But as the worst outcome is usually death, I think you are uniquely suited to learning the art."
+
+"You know what?” Shiv said. “I'm gonna tell Helix to add that to my Biomancy curriculum before I get back.” A new purpose was glowing in his eyes. "I'm gonna turn myself into a winged tiger or something. Maybe even a fish. I did want to be a fish as a kid, swimming up a waterfall. Or maybe an eel. I always found them pretty interesting-looking. They also taste pretty good. I wonder if I can find something—" Shiv's eyes widened, and his body tensed. "Guys, I'm gonna need to focus for a moment. I think I can hear someone screaming."
+
+Despite the levity in the air, both Adam and Uva went battle-ready in an instant.
+
+"What's happening?” Uva asked. “What's the situation? Do you need our help?"
+
+"I don't really think so," Shiv said. "Just trying to figure out who's screaming so loud and why. Gonna need to focus on using my Atlas. After that, well, if I need to save someone, I guess I'm just gonna carve my way out of the mountain. Shouldn't be too hard."
+
+"What do you mean, carve your way out of the mountain?" Adam asked. “Where in the Broken Moon are you?”
+
+"So, you remember that mine we ended up in after I broke out from Gate Theborn the first time? You know, while I was dragging the Jealousy with me and had brain-damage-induced amnesia? I'm in there again. Used my Atlas to light up all the interesting mushrooms I could find, and a few are glowing brighter than the others."
+
+"How are you there already?" Adam was taken aback. The mountain wasn't anywhere nearby. It was across the ravine in First Blood territory.
+
+"Well, Adam, the good thing about having a cutting presence is that most things that are made of matter get shredded apart when you move fast enough into them." Shiv laughed jovially. "I gotta say, it's pretty fun just ripping through the land, the trees, the stones, everything. I'm not really smashing anything apart either. Just leaving a long, clean cut wherever I move. No more roadblocks for me."
+
+And those were Shiv's final words as the fullness of his concentration settled in his Severed Shadow. The others in the kitchen were left to digest that statement, and as they exchanged gazes, a common sentiment of dread began to build.
+
+“Gods, I hope he doesn’t end up killing someone,” Adam muttered.
+
+“I suspect he already has,” Uva replied.
+
+***
+
+Kune Kade was about to die—and go down in history as the worst ever Squire of the Descenders Union. And that was assuming anyone bothered remembering her after this travesty.
+
+First, she failed to keep up with her Knight and the other trainees during this routine scouting mission and ended up getting struck out of the sky by a stray lightning spell cast by a pursuing Dimensional. A spell she tried to counter and then deflect, but failed on both accounts. The resulting shock rendered her unconscious, and she woke with a broken leg, having fallen down a deep ravine lining the earth. She'd thought her predicament bad enough, but the System was never a merciful master. Loud hissing sounded from all sides, the volume akin to steam lashing against stone.
+
+And then they slithered out from their tunnels. Their bodies glittering with colorful scales, their eyes mesmerizing, their tongues flicking through the air, and their sizes immense, moving like fluid tree trunks.
+
+Basilisks.
+
+Kade tried to drag herself away; she ended up knocking something over and realized it was a recently hatched egg.
+
+And then came the smaller Basilisks. These ones were more her size, but they were on her in an instant, dropping from the ceiling, slamming their heavy bodies into her already battered flesh. Her broken legs splintered in a new direction. Darkness nearly took Kade again, but she held on to her consciousness the same way she gripped her short sword tight, cutting and slicing, trying to hack the hatchling Basilisks apart before they tore her limb from limb.
+
+What followed was a blur of agony and blood. Her arm burned as she swung faster and wilder than ever before. Any semblance of form or discipline was lost, and primal instinct took hold. Fear guided her every slice, and fear let her down as her blows bounced off hardened bits of scale, missing the gaps between. Her Physicality was lacking. Her Toughness was laughable. The only reason why she didn't die immediately, crushed between the closing maw of the baby Basilisks, was due to her Geomancy. She hardened the Titanium Warshell protecting her body, reinforcing the alloys while pulling at the stones above. She brought a few stalagmites down, even as the mana strain made her weep blood.
+
+More blood followed when the stone spikes landed. A few of the Basilisk hatchlings were struck. They were knocked aside, their bodies splintering within, bones ripping through soft, underdeveloped scales. Their heads reared back, letting out silent shrieks she couldn't hear. But the adults did. The ground tremored like several earthquakes converging closer to her. And she knew that the end had arrived. There was no way out.
+
+But despite everything, she wanted to live. She wanted to prove everyone wrong, and she wanted to wipe clean the shame brought upon her family by her older brother. She wanted to make things right, even if she never truly had the fire, even if she was a coward at heart, a failure, a false sword in all respects. She wanted to live. She would give anything to live.
+
+And so, as those monstrous shadows loomed over her, seeking to inflict the final retribution for the pain she'd caused their young, Kade flattened the dents in her armor, wrapped her body in stone, and tried to turn her spirit to iron as she rose in defiance of what was to come.
+
+She seized the armor running along her broken legs. She forced her greaves out of their deformed state—and brutally snapped her leg back to some semblance of straightness. A piercing shriek of overwhelming agony escaped her. But there was a desperate fire in her now. The shame in her burned—the shame that had ruined her family name, the shame she endured every time her Knight looked upon her, every time the other trainees whispered behind her back, the shame that became absolute when she was struck from the sky, where she found herself in this place, prey for simple beasts rather than a warrior facing worthy blades.
+
+There was only one last person she had left to let down, and that was herself. But she couldn't do it. Even if she were to die, disgraced and forgotten, even if her family were to be struck from the annals, her parents condemned for having a traitor as a son and an impotent whelp for a daughter, she would rage and pass on her own terms.
+
+Not because she wanted to live up to the dignity of being a Squire or because she yearned to be a Dragon-Knight—because she frankly didn’t. Just because she wanted to be respected for once. She wanted to be the one that mattered in the eyes of her parents, and the eyes of her mentors, and the eyes of her people.
+
+She already lived as a broken thing. She didn't want to die as one as well.
+
+"Come on then!" Kade cried aloud, blood welling up between her teeth. Her piercing shriek earlier made the adult Basilisk hesitate. No, her analytical mind cried. It's not your scream; it's the fact that you still have some of their young sprawled over you. They're not willing to crash down because they risk killing their own children. It's the only chance you have.
+
+The newly-hatched Basilisks writhed and twisted. They were in no condition to crawl away from her. She could see bits of vertebrae sticking out from their wounds, and she decided to use that to her advantage. She couldn't move so easily, not with one of her legs so wounded. But the Basilisk hatchlings could serve as a shield of sorts. She selected one at random and lay against the thrashing beast. It was still over three meters long and far stronger than she was, but she fused her armor over it, clamping herself close to its form before dragging herself away using her faltering Geomancy.
+
+But though the adult Basilisks lacked the intelligence of an awakened beast, they were still far more cunning than she gave them credit for. Instead of targeting her directly or being frozen, they descended along the walls, gliding down as they wrapped their bodies closer and closer, tighter and tighter, until the caverns vanished, and she was entirely boxed in.
+
+She counted three, no, four adult Basilisks, each one large enough to smash through several small buildings. By the end, all four of them poked their heads over the encirclement they made. Brilliant, gem-like scales glittered all around Kade, but what sparkled the brightest were the Basilisk's eyes. They came alight with emerald essence, and she realized what was about to come.
+
+They reared their heads back, and she could see the first droplets of sizzling venom spill down from above.
+
+Basilisks were immune to their own poison. They didn't truly develop the venom until they were far older. But even the hatchlings would shrug off the toxins. Kade wouldn't. She didn't have the skill for that—and she would never have the Toughness to survive long enough to obtain the Disease Resistance skill in the first place.
+
+Her strategy had been hopeless and pointless from the start. Kune Kade went limp against the thrashing baby Basilisk she'd bound herself to. Pointless. Her mother was right. It was all pointless. She was pointless.
+
+The failed Squire closed her eyes and waited for the venom to take her. She hoped it would kill her quickly, spare her the suffering and indignity of being eaten alive by the Basilisks. But, considering how fate had treated her for most of her life, she doubted her ending would be anything but unkind.
+
+A waterfall of scalding hot fluid splashed down on Kade. She tensed, preparing for her skin to peel off her face, for her eyes to melt within her sockets, for a pain beyond pain to take hold, and for her body to betray her in the most miserable of ways. Instead, a scalding sensation simply continued. Everything around her was hot, and there was a faint tang of blood when she accidentally breathed.
+
+Blood? Kade thought to herself.
+
+Then there came the sound of splattering offal. She knew that sound well: the sound of organs coming tumbling free from a disemboweled body, striking the ground in a wet, sloppy mess. And there came a zipping sound. Another noise she was most familiar with: the song a blade made when it sailed through the air.
+
+Kade looked up in disbelief, and her eyes widened and suddenly shut as another deluge of Basilisk blood spilled down into her face. She cried out in blinded alarm, but she blinked herself clear. She forced her eyes to open once more.
+
+The four colossal Basilisks rained down around her in finely minced pieces. Each Basilisk was reduced to a square chunk of mutilated flesh no larger than her torso, and they descended, stacking themselves neatly on the ground like building blocks, rather than dismembered meat. It was as if something was guiding their path, keeping them neatly bound together. That or Kade was utterly delirious, undergoing final, hopeful hallucinations before death swallowed her.
+
+"Hey, you alright down there?" a low but warm voice suddenly echoed from above. And slowly, Kade laid eyes on her savior for the first time.
+
+He glowed a crimson beacon, painting the walls of the Basilisk nest with his radiance. As Kade looked on, she realized she had no idea what material her mysterious savior's armor was made from. Nor could she sense any alloy with Geomancy. Could it be organic armor, then? It did appear scab-like. And then there was that pale blade lodged in his chest. It glowed brightest of all, and from it rippled wavelengths of visible, tangible sharpness that sliced through the air, making the strange scene seem as if a reflection upon a lake.
+
+Kade was wordless and stunned. The baby Basilisks weren't so much. They continued crying out for their now-dead parents. As the one beneath her writhed, the shameful excuse of a Squire went rolling over by her side and let out a final shout of alarm as she felt her weight, along with the Basilisk's, land once more on her ruined leg.
+
+Before she ever even got the chance to speak with her savior, an overwhelming crisis of pain delivered Kade to an unwelcome unconsciousness, casting her into a sudden darkness where there was only silence and unknowing…
+
+***
+
+Atlas of the Flesh Scryer 120 > 124
+
+Shiv winced as an audible crack sounded through the Basilisk's nest. The poor girl in that Titanium Armor let out a half-moan, half-gurgle of misery before she blacked out entirely, crushed under a rolling baby Basilisk. He could see how splintered her leg was with his Atlas, but also sensed numerous other injuries. A ruptured spleen, internal bleeding in her stomach, and a few dozen fractures lining the entirety of her skeletal structure. She was practically a mess of drifting shards, held together by the tightness of her armor. The fact that she'd managed to even move at all was a testament to her Toughness.
+
+He repressed his cutting aura as he descended from on high. As he drew close, he used his Biomancy to pull the baby Basilisks away from the unconscious girl before they ended up suffocating or biting her.
+
+"There's another issue I got to deal with," Shiv said as he dangled the four baby Basilisks in the air. They all sported nastily broken bones. A few had stalagmite fragments jammed inside them. “Could just cut you guys up and eat you too, but… Don't I got a few Basilisks in the Tutorial somewhere? Hope the orcs didn't kill them already. Maybe I can bring you guys over and… start a stable or something. Yeah, sounds like a good idea. Might be able to get more Basilisk eggs down the line too."
+
+Using his Biomancy, he stripped them clean of wounds, and as he kept the baby Basilisks grasped within the mouths of his mana hydra, he carefully scooped the unmoving girl up using a spare extension of his Biomancy.
+
+He considered carrying her with his arms, but didn't want to risk his cutting aura splitting her in half. After what he'd just experienced, ripping through trees, stone, earth, and practically every bit of manaless matter, he knew just how devastating his cutting aura was for practically anything he came into contact with.
+
+Then he promptly demonstrated his lethality as his Shapeless Tides pointed upward. Shiv greeted a mountain's worth of stone like a javelin plunging through flesh, and within the span of a second, sliced a new path for himself across the horizon as he headed straight back toward the gateway from whence he came with a dimensional cape filled with all manner of mushrooms, new livestock acquired, and an unexpected guest in tow.

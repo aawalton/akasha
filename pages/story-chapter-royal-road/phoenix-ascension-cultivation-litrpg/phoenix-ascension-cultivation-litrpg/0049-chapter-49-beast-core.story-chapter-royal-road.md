@@ -1,0 +1,231 @@
+---
+id: 337da9dd-cb6c-532e-b789-627e6ba8897a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 49: Beast Core"
+slug: 0049-chapter-49-beast-core
+partOf: phoenix-ascension-cultivation-litrpg
+position: 49
+ownLength: 2526
+unit: words
+publishedAt: 2025-11-15
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2764351/chapter-49-beast-core"
+royalRoadId: "2764351"
+---
+
+I stared at the notification for a while. I wasn’t sure how long it took, as there was no way to tell the time. However, as time passed, the flame dwindled, and my energy reserves did so along with it.
+
+When I noticed that, I shook my head and put it out completely. System didn’t need any light to talk to me anyway.
+
+Nemesis System… just what is this?
+
+I’d almost forgotten the rage filling my body, but the moment I thought the word ‘Nemesis’, the face of that old fucking bastard popped in my head.
+
+[You’ve had it rough.]
+
+System’s message finally changed, and I was glad to see that it was still the same old System. If I lost it as well, I… I wouldn’t have known what to do.
+
+[I am here.]
+
+That assurance allowed me to heave a sigh of relief. I was glad it was finally back. Without Mother by my side, and the little koi fish nowhere to be seen, I was lonely. I was glad to know that System hadn’t left me as well.
+
+Now what? Can you tell me what this ‘Nemesis’ System is? What’s so different about it?
+
+[Certainly.]
+
+[To begin with, I will have to explain what having a new system means in and of itself.]
+
+[After meeting certain conditions, a System can evolve beyond its basic functions into a more proper form.]
+
+[That will not remove any of the previous functions of the system, but will add new features.]
+
+[Judging by the name of the new system, you can guess why it evolved into this form.]
+
+[As for its new features, there are now several new tabs available to you.]
+
+[To begin with, we have the ‘Nemesis’ tab, which shows all of your sworn enemies. They are characters that you’ve developed a huge grudge against. Their information is hidden until you discover it, though.]
+
+[Any new information you get will be automatically added to their glossary, even if it’s minor.]
+
+[Rewards will be distributed upon the defeat of the enemy. The type and amount of rewards will depend on how you defeated them, the information collected, and your relationship with them.]
+
+[Each enemy will have different statues based on your interactions with them.]
+
+Well… that was certainly interesting. I sort of wanted to check that out right away, but I would have to let System finish explaining. That sort of thing reminded me of a bounty board, except a hundred times better.
+
+I couldn’t wait to see all the bastards that dared drive Mother into such a state. I didn’t know their name, but I saw their faces. I would not give up until they paid the price.
+
+[The next tab is called ‘Rivals’. These are characters you may not have necessarily had any enmity with, but, as the name implies, are rivals. Defeating them will also result in rewards, and there are other functions that will either increase or decrease that reward.]
+
+[For both tabs, if your understanding of a character is high enough, you could even track them.]
+
+Amazing!
+
+That meant that as long as I could get enough information on them, they couldn’t escape my talons! Good, good, good! System, open the Nemesis tab!
+
+A brand new tab opened with uniformly arranged rectangles. Some of them were empty, some had portraits of people with question marks where I assumed their names should be, and some had question marks everywhere.
+
+Did that mean those were people that I didn’t know, but hated me? Or that they were part of the people who drove Mother into such a state, but I couldn’t see their names?
+
+There were quite a few portraits, most of which I recognised as people who encircled Mother and me, but some were almost unknown to me. Besides people, there were also Spirit Beasts. Among those were two I recognised— Two panther cubs.
+
+Yikes, I guess killing their parents in front of them traumatised them more than I thought. In retrospect, if I could go back, I would do it differently. No children deserve such a cruel fate. Their parents attacked me first, so I had to fight back, but I could have left their mother alive at least.
+
+Now I could finally understand their pain.
+
+Karma was such a funny thing.
+
+I chuckled bitterly and looked at the old Nascent Soul bastard.
+
+[Name:???]
+
+[Affiliation: Phoenix Ascension Sect]
+
+[Age: ???]
+
+[Titles: ???]
+
+[Lvl: ???]
+
+[Cultivation: Nascent Soul(?)]
+
+[Enmity Level: Deep]
+
+[Relationship: Sworn Enemies]
+
+[Status: Alive]
+
+Even in his portrait, he was still as smug as ever. Just seeing his face filled me with killing intent, and I wanted nothing more than to have him for dinner. Or lunch, or both. Although I doubt he would taste good.
+
+Speaking of food.
+
+Growl…
+
+Yeah, my stomach wasn’t happy. I didn’t have any food left in me, not after using so many needles all at once. Just the thought of the scene made my blood boil, too. I’ve put in so much effort into that attack, only to play right into the old bastard’s hands.
+
+But… There was little I could do about it. Crying and complaining wouldn’t solve anything, so the only thing I could do was solve the problem I caused.
+
+First thing on the priority list: getting some food.
+
+With that thought in mind, I dismissed the Nemesis tab and the System altogether and made my way toward the exit. There was still some light out, but I doubt the day would last for much longer.
+
+I made haste and finally reached the exit. I took a moment to examine the surroundings, but nothing could have prepared me for what I was about to see.
+
+The cave I was in stood at the top of a mountain; it wasn’t quite the peak, but it was getting close. There was a lot of space to move around, despite the height, but what surprised me the most was the view.
+
+Forests stretched as far as the eye could see, with tall trees and beautiful leaves. Rivers wove their way through the forests, with a total of five major rivers spread across hundreds of miles.
+
+Next to each major river was a city filled to the brim with humans, buildings, palaces, roads, and markets. Cultivators flew in and out of the cities, mortals walked and tamed Spirit Beasts, gathered the attention of young children and adults alike.
+
+Farther away were a few areas that screamed of danger, but I could barely see anything despite my enhanced vision.
+
+It felt like I was back in the world of my memories, but after I gathered my focus back on me, I realised just how small I truly was. Both literally and figuratively.
+
+However, once I develop my cultivation and evolve further, I, the mighty Fa Xiaolan, will—
+
+Groooowl…
+
+Hunt for food.
+
+Making my way down the mountain wasn’t as difficult as I thought, but it was no easy feat. I didn’t know what sort of dangers lurked in between those trees and bushes, and I didn’t want a repeat of the Jade Serpent shenanigans.
+
+I would try to be… a little more civil.
+
+However, if Spirit Beasts came looking for trouble by themselves, then they couldn’t blame me for ending up as food on my plate.
+
+With that thought in mind, I made my way toward the middle section of the mountain, slowly but surely. There was no sign of any sort of Spirit Beasts anywhere, though, not even their shit was scattered about.
+
+That could only mean a few things. Either the mountain was deserted, or an extremely strong predator had its territory here. Which meant that I was basically intruding upon them.
+
+If I did meet them, I hoped to be able to communicate with them somewhat. However, being able to communicate didn’t mean we’d be able to come to an agreement. The incident with the Nascent Soul bastard was evidence enough.
+
+So I had to be really, really careful.
+
+If I could activate my stealth skills, I wouldn’t have had such big issues, though. However, I was a bright orange bird in a forest full of green foliage. It would be a surprise if nobody could see me.
+
+Yeah, I wasn’t betting on my stealth, but my speed would be good enough to outrun most of them, hopefully. I still couldn’t fly, as the place where the Demonic Qi had hit me had barely healed. I was in a constantly weakened state at the moment.
+
+That didn’t mean I was weak per se, just that I had to be careful. Extremely careful.
+
+I really wish I had my stealth skills; that way, I would have some sort of assurance, but oh well.
+
+The forest was really nice, though. The ambient Qi was abundant, unlike that other forest I was in. There was so much of it, it felt like I was a thirsty man suddenly stumbling upon an oasis in the desert.
+
+Except I could only admire it, but not touch.
+
+Which made me even madder about this damned Demonic Qi!
+
+I hope the one who gave those two these pills gets struck to death in their next tribulation!
+
+Alright, Fa Xiaolan, calm down. I took a deep breath, getting angry could wait; finding food was the priority. Preferably, the source of food would be somewhere nearby, so I could drag them back to the nest; otherwise, I would need to eat them really fast.
+
+Either that, or I would be forced to leave their carcass behind. But I doubted I would actually have to do that, considering how fast I could eat.
+
+Finally, I found a shadowy part in the forest that stretched for quite a long while. I used it to hide myself better, sneaking through the oversized bushes and listening attentively for any signs of life.
+
+I did that for a few minutes before I finally spotted my first prey: A boar. It wasn’t a normal boar, though. It had two large tusks sticking out of its snout, and its body was covered in brown fur.
+
+A more crimson shade of slightly raised fur rode from the top of its head all the way down to its tail, and it emanated a slight amount of Fire Qi. I would have licked my lips if I had any.
+
+I stalked it for a little while, waiting to see if it had any companions. When no one else showed up, even after a few minutes, I pounced.
+
+My bloodline skills did quick work of the thing. I opened with a paralyzing screech, followed by two tiny fire needles that pierced its eyes. After being blinded, it ran around like a moron, squealing.
+
+And it just so happened to run straight in my direction. A kick using my body did it in, as its brain had regrettable been crushed and torn to pieces by my talons.
+
+[You have slain Tusky Fire Boar Lvl 12]
+
+[XP Acquired]
+
+Wow, a level twelve monster? Weren’t those supposed to be rare? Not that I was going to complain, of course.
+
+I grabbed it by the tail and dragged it a fair distance away from the place of the fight. The whole thing reminded me of the first time I actually hunted, killing that Jade Serpent Price or whatever. Back then, I had to buy a skill just to move a tiny thing, but now I could use my body to move a giant boar.
+
+That made me feel a little bit of pride.
+
+And now it was time to dig in!
+
+A little bit of belly, a little bit of innards, some fat from the back, and some tissue from the front. I ate as much of the edible parts of the thing as I could. It wasn’t nearly as tasty as the humans, and nowhere as rich in Qi, but food was food.
+
+I could feel my body strengthening already as it got reinvigorated with energy. And something else happened as well. For the first time since I was born, a foreign Fire Qi entered my body. It wasn’t aggressive, and my body accepted it quite readily.
+
+I followed its path to see where it would go, and it approached my dantian. That much I’d expected. What I hadn’t expected was for the thing to go around it and then higher, at a place next to my heart.
+
+There, it rotated for a bit, creating a beautiful circle, then disappeared into… something I’d forgotten I had until today.
+
+My Beast Core.
+
+I hadn’t seen it before, but now that it had absorbed a little bit of Fire Qi, I could sense it. It was incredibly tiny, so small that I could confuse it for a pebble if I saw it on the side of the road. However, undeniably, it was a Beast Core. My Beast Core.
+
+It shone with a translucent light. It wasn’t quite physical, but it wasn’t all too ethereal. Its warmth filled my chest with a pleasant feeling, one that reminded me a little of Mother.
+
+I pulled my consciousness away and looked at the leftovers from the boar. Besides the bones, tusks, and hide, there was a core. It was bigger than mine, roughly the same size as all the other, with a fiery brown color to it.
+
+I touched it with my talons and was immediately asked if I wanted to absorb it.
+
+Obviously, I said yes.
+
+[Tusky Fire Boar Core absorbed with 50% efficiency.]
+
+[+5 Strength; +2 Dexterity;]
+
+[Fire Affinity +1%]
+
+Wow, those were some lackluster rewards, but they were definitely better than nothing. The thing that interested me the most was the Fire Affinity prompt.
+
+So it’s possible to get even more affinity? That’s… crazy.
+
+Crazy was the only word I could think of. That also meant that I could solve the problem of my dimmed feather and the ‘-150%’ water affinity problem if I killed and absorbed water element Spirit Beasts!
+
+Oh, to eat and grow strong, such are the simple joys in life.
+
+With a somewhat full stomach and a new understanding of my own powers, I decided that it was prime time to go back to the cave I would have to call home. Night also began to fall, and the cold started seeping into my bones.
+
+I looked at the carcass of the boar and the fur I could use to warm myself with, and decided that I could deal with the hassle of dragging it back up the mountain.
+
+And so, literally dragging the pelt up, I started walking. However, I didn’t move a dozen steps before a large… and I mean large cat suddenly walked in front of me.
+
+Its fur was as dark as the night, and its green eyes stared at me with the intent of a predator. It didn’t attack, but circled me, its tail moving about in what I could only perceive to be a threatening manner.
+
+It approached me with its large snout, which was about one-third of my total size, and it sniffed, then it snorted.
+
+“Interesting…” Its strangely calming yet alarming voice echoed in my ears.

@@ -1,0 +1,207 @@
+---
+id: 067dfb51-9a4f-532d-aa0d-26a302a04492
+page-type-slug: story-chapter-royal-road
+title: "Chapter 58: Refining Pills"
+slug: 0058-chapter-58-refining-pills
+partOf: phoenix-ascension-cultivation-litrpg
+position: 58
+ownLength: 2203
+unit: words
+publishedAt: 2025-12-06
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2825835/chapter-58-refining-pills"
+royalRoadId: "2825835"
+---
+
+That guy was indeed trying to poison me. I was right not to trust him. Whilst reading it, he changed a few paths, like instead of going from the stomach to the arm, going from the shoulder to the forearm.
+
+These changes were minuscule, but given enough time, the Qi flow would be incredibly disturbed, and I would die before knowing why. He was smart, but not smart enough not to curse other people’s mothers.
+
+Too bad for him, I supposed.
+
+The two siblings finished reading the technique to me, and I turned my back toward them, trying to look mysterious. “Little girl, learn that technique and help your brother. Practice it until I come back.”
+
+“But… my meridians…”
+
+“Your meridians? Bah! Piece of cake, I will awaken them for you.”
+
+“Lord Immortal-” the boy argued, “Isn’t she too young? What if something happens… We were told that she’d need to be thirteen for-”
+
+“All bullcrap. Where I came from five year olds were already at Qi Condensation, and thirteen year world were stepping into Foundation Estabilshment!” It wasn’t entirely a lie, in my past life there were such cases in the higher realms.
+
+The lower realms were more or less just like the place I was in. The Tianxu Continent was no doubt at the bottom of the realms in this world. I couldn’t be sure of that, but the old man was at most in the Middle Stage of the Nascent Soul realm, which was high, but not that high.
+
+Spirit Beasts couldn’t be that much stronger, or if they were, they were staying put. Anyway, that didn’t matter at the moment. I truly did have a plan to help her awaken her meridians, but I needed a few things first.
+
+And the biggest hurdle would be acquiring them. First of all, I had no money. Second of all, the things I needed weren’t exactly cheap to acquire, and third of all… I was hungry.
+
+Yeah, I was hungry, so what? Plus, I would need a lot of energy to put my plan into fruition.
+
+How would I acquire everything I needed, though? The answer to that question was pretty obvious.
+
+Steal, of course. Or the option that was less fun, sell one of my feathers. That was way easier and probably way more profitable…
+
+“I am unfamiliar with this village, tell me which are the biggest auction houses.”
+
+“Auction… houses?” The young man asked a little perplexed, perhaps questioning what I was planning on doing in such a place.
+
+“Auction house, market, trading center, any big commercial place.” I clarified, and his face lit up.
+
+“Ah, those would be the Small Dragon Shop, Little Medusa, and the biggest one of all— Myriad Market.”
+
+Hmm, was this Hu village bigger than I thought? Three big markets with such amazing-sounding names? True, from outside it looked rather small, but that was only in comparison to the other, much bigger and much richer cities in the vicinity.
+
+“Alright, thank you. Next, I will need you to help me find a more proper… disguise. This won’t do.”
+
+“Ah-” The little girl said involuntarily, looking quite downcast after hearing my comment. There wasn’t much I could do about it, though, and truthfully, there was little she herself could do. I was a bird, after all.
+
+But then it struck me.
+
+I do have a system…
+
+Yeah, there had to be some sort of disguise skill in the system’s shop. Now I just had to have it look for it!
+
+System…
+
+[On it…]
+
+[Searching for disguising skills…]
+
+[Most appropriate disguising skills for users have been found, meeting the requirements of no Qi usage.]
+
+[See No Evil]
+
+[Disguises the user’s aura, making it so people cannot tell the true nature of the user, whether it be demonic, righteous, or otherwise. The efficiency of this skill depends on the user’s charisma and target perception.]
+
+[Cost: 10 Skill Points]
+
+[Disguise]
+
+[Creates an illusion around the user’s body of whatever the user thinks about. The illusion’s effectiveness, appearance, and realism depend on the user’s charisma. It can be seen that if observer perception is high. Limited duration; duration time varies.]
+
+[Cost: 10 Skill Points]
+
+Varies based on what?!
+
+[I… don’t know.]
+
+You-! Fine, whatever, anything else?
+
+[Perfect Disguise]
+
+[Completely changes the user’s aura, appearance, and many other aspects based on the user’s preferences. This skill is severely limited by the user’s mental prowess, imagination, will, and charisma stat. The skill has a limited duration based on the user’s charisma. This skill can only be seen by beings more powerful than the user.]
+
+[Cost: 40 Skill Points]
+
+Fo-forty?! If I were to buy that skill, it would only leave me with five spare points. How… how are these skills so expensive?
+
+[It’s a really good skill.]
+
+It was a really good skill, hence why I wanted it so badly! However, the price… but the benefits. I could go anywhere I wanted, do anything I wanted… all for the low-low price of my entire life savings…
+
+Decisions… decisions. Ah, why were decisions so hard?!
+
+Show me the next skills!
+
+[Familiar Face]
+
+[A concealment-type skill that disguises the user as someone or something else. This skill can only be used if the user has a deep understanding of their desired transformation target. If the user doesn’t have enough information, the skill breaks, and the user will suffer a backlash. The effectiveness of the skill depends on the previously stated restrictions, charisma, the target’s perception, and the target’s familiarity with the transformed target.]
+
+[Cost: 5 Skill Points]
+
+What kind of bullshit piece of shit skill was this?! Five skill points and it barely tells me anything, what am I supposed to do, fucking guess?! Bastard, whoever created this skill should die by a thousand-
+
+“Miss Immortal?” The young man broke me out of my angry thoughts, and I took a deep breath to calm down.
+
+“What is it?”
+
+“You… were staring at a wall.”
+
+“Big brother!” The young girl cried out, “What do you know what Miss Immortal is thinking about? So what if she’s staring at a wall?! Don’t be so rude.”
+
+“I…” the young man stuttered after realising what he’d done, and quickly bowed despite his pain. I waved my wing and scoffed.
+
+“It’s nothing, I was just thinking. I am planning on purchasing some things, but I wasn’t sure how to go about it. But I know now.”
+
+System… give me more information on Perfect Disguise.
+
+Perfect Disguise was such a good skill; it was hard to pass up. Forty Skill Points were a lot, sure, but the return on investment could be huge. Plus, it would come in handy wherever I would need to sneak around. Maybe I could even change the way my skills looked? It did say that it could change many aspects, so I wanted to make sure.
+
+[Perfect Disguise is a skill that relies heavily on the user’s charisma and mental fortitude. Intense focus would be necessary for the best results, but it is almost foolproof unless someone much stronger sees through it. In addition, this skill can be focused on changing your appearance, aura, skills, and even your Details, depending on skill mastery.]
+
+Wait… what? Wait, wait wait wait, wait, does that mean that other people could see my Details?
+
+[Certain people, yes.]
+
+It would have been nice to know beforehand!
+
+[...]
+
+[My apologies.]
+
+I let out a sigh. That small detail alone was worth getting the skill, in my opinion. The Details tab stripped me down to my weaknesses; if anybody could see it and they wanted me dead, it would be a matter of when, not how.
+
+But disguising skill and aura, that was something very interesting. In retrospect, this skill was incredibly cheap, right? It had so many benefits, and it was only forty skill points… Yeah, only forty.
+
+For what it could do, it wasn’t a lot, right? Right?
+
+I could definitely afford it, yep… It wasn’t even that expensive for what it could do, right? Being able to blend with the humans and doing business would be amazing, right?
+
+Right?
+
+[Skill: Perfect Disguise has been acquired.]
+
+[Thank you for your purchase ^_^]
+
+Piss off.
+
+[Ouch…]
+
+“Miss…”
+
+I activated the skill, which took no Qi but instead required an immense amount of mental focus. Thankfully, I had Split Focus and Mental Fortitude to help me with the backlash.
+
+Taking off the makeshift disguise, I revealed my new form to the two siblings, and their impressed gasps of shock gave me enough affirmation to know that the skill worked perfectly.
+
+***
+
+The Hu Village wasn’t a big village by the continent’s standards, but it was big enough for the forest. Its leader was only at the late stage of Core Formation, but he was immensely respected in the area.
+
+The village also sat at an important junction, where a lot of powerful and valuable Spirit Beasts lurked, bred, and fed. On top of that, their section of the river was the only spot where Rainbow Salmon could grow and prosper. Rainbow Salmon was an important ingredient in the refinement of pills, namely Qi Condensation pills and Foundation Establishment Pills. They were also a less efficient replacement in certain recipes for Core Formation pills.
+
+For that reason, many businesses built a headquarters there. One of those was the renowned Myriad Market. Just like its name suggested, it had every product one could hope for. From trash-tier weapons to the finest of pelts, the Myriad Market had everything.
+
+To top it all off, its actual leader was a Nascent Soul realm expert, and their main headquarters, located far away from the rural areas of the continent, was said to be as big as Golden Arch City itself.
+
+Such a thing was hard to believe for the average villager, as they’d never set foot outside their little community. However, the more educated cultivators could tell at a single glance that such a thing could be true.
+
+That was because their shop in the Hu Village alone was taller than every other building, almost reaching the height of the surrounding trees. Plaques made of gold decorated every shop, and the floors were made out of a beautiful green jade, which was in turn hidden by a carpet made out of the finest silk.
+
+The shop itself had a multitude of smaller shops, each specializing in its own domain. Weapons shop, medicine shop, materials, and many other such stores that a cultivator would ever want to explore.
+
+The largest room inside was an auction house, though. There was a weekly auction with smaller-scale items, and a yearly auction, where the most valuable of objects, gathered from the entire forest, would be sold off.
+
+Besides objects, there were also Spirit Beasts and even Variant Human slaves.
+
+That week, the weekly auction had been replaced by the yearly auction, and the Myriad Market was preparing everything so that there was nothing that could go wrong. They had a few precious items, such as horns from a Flying Fish, cores from Rainbow Salmon, and a recent acquisition: the fangs and claws of a rare and precious Panther Lord.
+
+The manager of that particular branch of the Myriad Market was a man named Fu Qiang, a mid-stage Golden Core expert. He had a plain appearance, with boring eyes and an unibrow, as well as short, messy, and oily hair. His biggest asset was his physique, though, which was a little rounder than average.
+
+He was sitting in his office, reading papers, signing documents, and reviewing some of the most important objects that would be sold at the auction when his communication crystal angrily blazed to life.
+
+The influx of messages was hard to ignore, so when he finally picked it up, he did so with annoyance.
+
+However, his annoyed expression quickly turned from angry, to shocked, then to exalted, as he jumped to his feet. His belly wobbled as he stormed out of the room, wind bellowing behind him as he walked.
+
+“Make sure they stay there long enough for me to get there, and treat them with the utmost respect. No, like the biggest VIP, I will be there at once!”
+
+He barked out a series of orders and hurried downstairs. Despite his shape, he was quite athletic and reached the main floor of the Myriad Market in a few breaths of time.
+
+Hehe, if I manage to successfully pull this off, I  will be able to get promoted out of this backwater place, maybe even get a seat of honor at the main branch!
+
+Fu Qiang rubbed his hands as he thought about it, already imagining all the benefits he would get once he told management of his success.
+
+Before entering the main floor, he took a moment to fix his appearance and walked out with his hands clasped behind his back.
+
+“Wel-” He wanted to say something, but once he brushed past the crowd gathered around the shop he was told to come to, his words got caught in his throat.
+
+“Come…” he barely managed to finish as the figure before him practically sparkled, but he could immediately tell that it was them he was there to see.

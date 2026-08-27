@@ -1,0 +1,297 @@
+---
+id: f69b790a-46d9-56c7-a8af-88bf45e3780e
+page-type-slug: story-chapter-royal-road
+title: "435 Alliances"
+slug: 0553-435-alliances
+partOf: path-of-the-deathless-book-4-completed
+position: 553
+ownLength: 5040
+unit: words
+publishedAt: 2026-08-18
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3831094/435-alliances"
+royalRoadId: "3831094"
+---
+
+The first supplication was performed by the Paragon himself, for to be a true Tyrant, one must make a slave of oneself first. Though he struggled against the chains of his new nature, and though he loathed the face of his existence, to disfigure the state of his world required a sacrifice of a most intimate order.
+
+It is a special flavor of horror, to have Divinity thrust upon oneself, an empowerment thanks to no personal act or merit. There is a special kind of agony that comes with being a slave to oneself to defy the world that has wounded one so, and in this the Heroism and the Tyranny of an emir stood manifest. Perhaps not entirely from a seed he buried, but the burdens that reside on his shoulders none the less. In this he stands more responsible than most tyrants will ever be, for it is the act of another he carries, for the fire he bears was not spawned of his own making. Yet he burns still, perhaps not gladly, but willingly, and so begins his testament.
+
+This is not to be a record of highest glory or purest faith. This is a record of rebellion of a god that seeks to usurp the nature of things while still being caught in the undertow. This is the slave Tyrant, named Paragon for his nature by his behavior.
+
+This is the divine struggle that has echoed again and again, as marked by the light he brings against the greater order and the band he wears upon his brow; thus does his symbolism take shape, and hence so his path became fated.
+
+And perhaps you are one and the same as well. Perhaps you seek not the comfort of holy bliss and lesser lies sprouted by the selfish demiurges of the System who proclaim their higher nature.
+
+Perhaps you burn for a new order as well, and wish to be kindled by a proper master—one who will share your likeness, in soul, toil, and even flesh…
+
+—First Testament of the Tyrant-Paragon
+
+435
+
+Alliances
+
+Trespasser Shaped of Dread and Null 204 > 222
+
+This Vessel of Pestilence and Panacea 128 > 135
+
+Leviathan of the Shapeless Tides 567 > 573
+
+Harbinger of Tripartite Ruin 374 > 385
+
+Nihilism Be My Hearth, My Banquet 151 > 183
+
+Magical Theory 13 > 16
+
+Aegis of Assimilation 177 > 181
+
+Scheming Bastard 39 > 44
+
+Legion of Self 185 > 198
+
+Return to Sender 166 > 173
+
+Atlas of the Flesh Scryer 169 > 185
+
+Snapshot 51 > 57
+
+Vitality Drain 212 > 240
+
+Continuity Error 237 > 251
+
+This Severed Shadow of Blood and Bladed Soul 315 > 339
+
+Onus of the Scarforged Unbreakable 511 > 513
+
+Hydromancy 22 > 24
+
+Spear Proficiency 11 > 13
+
+The Snake Entombed of Lightning and Thunder 52 > 60
+
+Portomancy 13 > 25
+
+Analyze 15 > 17
+
+“Well, Veronica’s up to some shit again,” Shiv declared.
+
+“I suppose it’s another day that began with a sunrise then,” Adam replied with a weak scoff.
+
+A council had been gathered in the underground headquarters of the Arachnae Order in the Farnest district. Ceaseless vibrations pulsed through the walls, footsteps and revels trembling from the surface. The Grounder residential district was mere kilometers away, and with each passing day, their numbers swelled ever greater, increasing the Gate’s logistical strain.
+
+Still Water and the other High-Tier members of the local Arachnae Order were willing to make a small trek towards Starhawk's Perch to accommodate Adam's current weakness, but the newly ascended Demigod willed things to be otherwise.
+
+The Perch was a symbol and the Sacred Phylactery of Blackedge, but Gate Piety constituted far more than a single betrayed town by this point. Events followed one after another, and tens of thousands of Pathbearers arrived each day from countless nations. That which affected the Gate was more than a game to be played among the exiled and loyalist portions of the Yellowstone Republic. The children of the Composer were also embroiled, as was everyone else under the care of those who governed Piety, and that involved Still Water as well. Her role as warden and primary enforcer made her a critical voice toward any decision that was to be made.
+
+Then there were the other representatives not tied to the Composer nor Blackedge at all. The Culturist represented the renegade orcs now following the Tyrant of Peace. His old enemy, Morgan Munny, sat across from him, embroiled by Shiv's schemes and lured by the chance he presented. Though the Ranger was isolated and treated politics as one might a command to descend a sewer creek crusted with a blaze of shit, he was presented with an opportunity to perhaps finish things with his hated foe, and he wouldn't let that slip his grasp for anything else in the world.
+
+A little hatred made for decent socio-political capital sometimes.
+
+Then there was the Educator, who operated primarily in her own interests, tied to no faction but that which wanted to usher in the incursion and undo the mistakes of the Ascendancy. Her gaze was locked on Adam, and for the past few days, he stood as the object of her utmost obsession. She drafted sketches of him, trying to record instances of his metamorphosis. Shiv suspected she was fascinated and consumed by the promise he offered for the same reason that Veronica might have been. But he wasn't entombed in the Great Ones' skills. He didn't need to sacrifice his own existence, to have his mind and personality overwritten so that he would fully align with the legend of his feats and the Domains and skills he was to embody.
+
+In Adam was another path and promise of a power that she could keep and claim.
+
+That made her about as trustworthy as Veronica in the grand scheme of things—which was not at all. But considering her tenuous allegiance with Udraal, not much had changed. Still, it was better if she stayed within close proximity; keeping her close and in reach kept her from doing some bullshit like ambushing everyone and sticking them in one of her tomes when they were busy dealing with something else.
+
+And Shiv really doubted his old trick of setting his soul off like a bomb would work twice on her. Not that he ever wanted to do that again either.
+
+With how much more vitality and mana I got now, who the hells knows how big a bang might follow this time…
+
+Roland, Uva, and Hymn—who represented the Dragon Brokers’ shared interests—and, surprisingly, Tall Ben were in attendance, with the latter speaking for the Descenders Union, as Ser Marikos was still sulking after Shiv yelled at him.
+
+I can’t believe I have to deal with that shit too, Shiv grumbled internally. Didn’t die a million times to become a therapist for a Legendary Dragon-Knight whose strongest skill is being a man-child. Fuck me, some people in the Abyss make Sullain look well-adjusted in retrospect. I haven’t even started wrangling him, and I’m already exhausted.
+
+Unwilling to take on a representative role on account of the Court of the First Blood were Tulveg and Ekkihurst. The former proudly declared he was too racist to ever serve as an unbiased representative of his own kind, and the Sculptor almost started crying on the spot when he realized Shiv was trying to drag him into a political forum. The elder vampire found his time better spent showing off his newest horrors to Helix, who, despite being outspoken about his hatred of the bloodsuckers, now found himself a companion to two of their kind.
+
+This caused Shiv to recruit Angelo—who ended up mingling among the guests and trying to address their grievances as a means to occupy his time and distract himself from his lingering trauma. Thus, he was promoted—somewhat unwillingly—to public liaison official, as no one else wanted the role. Especially not Uva, whose main response when being complained to by someone was to walk past them and pretend to be deaf and blind.
+
+“If I start solving one person’s problems, I’ll end up trying to solve everyone’s problems,” Uva said via telepathy. “And then I’ll have to live your life.”
+
+“Huh? What’s wrong with my life?” Shiv asked.
+
+“You have to deal with everyone,” she answered bitterly.
+
+“That’s a bad thing?”
+
+Her stare across the table they were seated at offered the faintest hint of pity. “Tranquility and the pleasures of solitude are known qualities to some of us.”
+
+Shiv wondered if he should be offended by that, but decided that he preferred this life of chaos over peace—even if it came with a bunch of bullshit and pain. Besides, he liked people—both talking to them and killing them.
+
+Which functionally made him something of a diplomatic and militaristic hammer for the Gate. It also meant that he was the one crashing into the majority of impending problems head-on before anyone else.
+
+“And that should be everyone on the list,” Still Water said as she sealed the doors and triggered the privacy spells warding the room. A funny thing to do, considering the final representative in the room looked around like a pig who'd just stumbled into a butcher’s shop.
+
+Five leaned in close to Shiv and ran his tongue across his metallic fangs hesitantly. “Deathless… The protections… Is this some kind of twisted torture fetish you have, or is there some other reason you decided to include me in this as well?”
+
+“I mean, it is funny to stick a spy right into the middle of our affairs,” Shiv said, unable to suppress a grin. “But hey, since you’re already here, the Stolen Throne can get their news straight from the source instead of sending someone to seduce one of us.”
+
+“If the Stolen Throne has any sense, they will stay far, far, far from Gate Piety, and you in particular.” The wolf-man shuddered. “I want you to know—on record—that I have been doing all I can to keep your home safe, and my nation at the same time.”
+
+“Aw, you’ve been bad-mouthing me, Raven?” Shiv adopted a guise of faux-sadness. “And I thought we were friends.”
+
+“Well, you are a dangerous man, Deathless,” Five responded curtly. His dread was so deep that it kept leaking splotches of blackness that Shiv had to draw into his trespassing darkness before it contaminated the two-hundred-meter-diameter space of the meeting chamber. Even with the vast, scintillating dimensional expanse expanding space to allow for a fully grown hydra to be among the participants, the darkness Shiv could embody would fill that room in an instant.
+
+“I suppose I am,” Shiv admitted. “And I understand your worry. But the thing is, Five, you might have self-preservation in mind, but the Stolen Throne and the Faceless Queen aren’t exactly risking their own lives, are they? Some things have to be felt and suffered before they become real.”
+
+The truth of that statement drew looks from Munny and Maia at once.
+
+“Alright,” Shiv said, standing up and clapping his hands twice. “On the agenda today, we got a hefty dose of fear and horror coming at us from all sides.”
+
+“A day that begins with a sunrise indeed,” Roland echoed his son.
+
+“To start, our plan to smuggle Adam’s Evangelizing Temple up north and use it to infiltrate Torontus worked pretty good; the Frost Giants bit down on that bait and swallowed. So far, nothing suggests that they know what we’re actually planning.” Shiv paused. “What isn’t so good is the part where our dear Demigod is hitting Valor with his divine voyeurism as well. So, pre-problem number one: You wanna explain your holy dysfunction to us, Adam?”
+
+“Not particularly,” Adam replied dryly. “But with honesty—I’m not sure what’s going on.” He looked at Uva, and she immediately came aglow with his incandescence, casting a faint corona of light blue around her like a veil. Her form went from normal to illuminated by a sunrise in an instant, and a beam of light descended from above, passing through the kilometers of steel and stone and the wards between alike like a fated spotlight.
+
+Uva glared at Adam as she rubbed her eyes. “Choose someone else to use for a demonstration next time.”
+
+“Sorry,” he said. “But you get my point. My skill immolates, and the people I gaze at stay, well, gazed. Things work differently with Valor. It’s like his Legendary Skill fights with mine whenever we use them at the same time. If he goes Unknown when I locked into him beforehand, it’s like my Omniscience follows him, and I start burning through the protections provided by his stealth over time.”
+
+“Great, so we’re going to need to figure out how to stop you from lighting Valor like a candle every time you use your skill,” Shiv mused. “Pretty awesome skill, by the way. Forgot to say that before.”
+
+Adam sighed and rapped his claws on the table. “Thank you. Perhaps I just need more practice.”
+
+“That, or I can make you temporarily forget Valor’s existence,” Uva suggested.
+
+“I thought you were turning over a new leaf and becoming someone who fights for freedom, Legend Mettabon,” he said, aghast. “Why is your first choice still turning me into a mental invalid?”
+
+“It will be done with your consent,” Uva replied with annoyance. “Also, I’ve gone through much of your memories, Adam. I’ve done the opposite of rendering you invalid, and I must speak with you about some concerning things I’ve seen in your memories. Namely, that wretched thing you call a sock you left in the dark corner of your closet.”
+
+Her complaint hit Shiv so out of left field he began to choke and cough before even managing a single beat of laughter.
+
+With that, Adam started adding to the total darkness and dread in the atmosphere as his eyes went from pretend-disappointment to genuine terror. “Uva—what are you—”
+
+Roland face-palmed and sighed. “Legend Mettabon, I’m grateful for everything you’ve done, and this might be a difference between cultures, but my son deserves to have a measure of privacy.”
+
+Shiv was trembling like a bomb on the verge of going off—it was everything he could do to stop himself from coming apart.
+
+Uva suddenly realized all eyes were on her, and she furrowed her brows. “I’m talking about the sock you tried to knit for yourself, Legend Adam. I care little about how you indulge your lust—I’m offended by your half-hearted attempt at art and how you simply tossed aside your unfinished piece of work. It’s improper and unbefitting of your professionalism.”
+
+The room went quiet for a half-beat, and Shiv covered his face to hide the tears that were starting to build in the corners of his eyes. “I love you, Uva.”
+
+“I’m not sure what that has to do with anything,” she replied, a frown still on her face.
+
+Adam and Roland proved their genetic relation by reacting the exact same way. They turned away from Uva with their gazes pointed down and their eyes haunted with regret.
+
+“Let us move on,” the Arrows declared as one.
+
+“Well, moving on brings us to Veronica,” Shiv said. “Because she’s going to be visiting personally in a few hours, and she’s coming for Adam’s god juices.”
+
+Roland glared at him for his choice of words, and Shiv quickly got the message to tone it down; there was no playfulness on Roland's face.
+
+“Considering how Anthony and Daughter reacted, she didn’t consult anyone about this decision—probably did it against Kathereine’s will too. So she’s either making shit up as she goes along, or she’s got a very specific idea in mind when it comes to Adam.” He paused and studied the Educator from the corner of his eye. She remained deep in thought, but failed to hide how much this development troubled her.
+
+Yeah, you got competition now, Maia.
+
+Adam just scoffed and leaned back into his orc-sized chair. “If she thinks she can undo what I saw and suffered, or that I’ll just go along with the Republic after everything that happened, her self-deception Skill must be Legendary as well.”
+
+“I wouldn’t be so certain,” Maia interjected. “She doesn’t need to bend you to her will, and I suspect she isn’t even truly interested in stealing you back for the Republic. She just wants to study you and understand your metaphysics if she can. Because if she can purify the Republic’s pantheon—”
+
+“Impossible,” the Starhawk interjected, his presence intruding through Roland—though fainter than ever before. Shiv suspected that wasn’t because of the distance between him and the Perch. The wounds the Challenger had inflicted on the Starhawk damaged more than his guise and flesh. “The Ascendants are already rooted in legend.”
+
+“As was I,” Maia shot back. “And I escaped before the rot could truly bite into my bone. Impossible? No, I reject those words, Matthew. Unwilling is more like it. You were all too unwilling to surrender that precious power, even though it wasn’t truly our power, and so you must continue paying an ever-rising cost. Even now, it might not be too late for you. You could just walk away from all this, and if you ask me nicely, I might just help you.”
+
+The Starhawk materialized in part, like a shadow imprinted on a wall, and he faced the Educator down. “The people of the Republic are not so quick to abandon some among our number.”
+
+“And some among our number recognize the people to be lost and damned along with us if the only safeguard for their existence are senile gods fated for greater power and dementia with every bit of worship they accrue,” she answered with a near snarl.
+
+“Hey, hey, guys,” Shiv said, intervening before old wounds flared into new conflicts. “I get it, but this isn’t a time for grudges. Veronica. Have to deal with her.”
+
+“No,” Maia countered. “She is your blood, and clearly has plans for you. The solution is simple. Let her come in close, and manage her. I don’t see a major threat posed by her arrival. Perhaps there might be major threats to her, but her safety then becomes our responsibility. Frankly, her presence can be a benefit regardless. I see a future where she proclaims Adam to be a new Ascendant and propagandizes the expansion of the pantheon to give Gate Piety special territorial privileges.” She then scowled at the Starhawk. “Privileges that will ensure this place’s continued survival, unlike your mad quest down into the corpse of an old god we should have never defiled.”
+
+“Focus,” Shiv snapped. “I've heard this shit a dozen times now. No more swings at each other. Alright, next topic. Still Water?”
+
+“Our newest gateway connecting back to Weave is almost online thanks to all the excess mana flowing through the Gate,” Still Water said. “The Exalted Mother has a diplomatic detachment and a divine anchor of her own that she wishes to send over. She also wants to personally congratulate you, Legend Arrow, on your evolution and ascent, and would like to speak with you in private when your convenience allows.”
+
+“Tell Her Lady Arachnae that I look forward to making her acquaintance once more,” Adam replied, “and that I thank her for all the aid she has already provided, and of course meet with her posthaste.”
+
+“Next,” Shiv called.
+
+“The Gate is developing at a rapid pace,” Uva said, projecting images of Gate Piety throughout the space beneath the ceiling with her Dreaming Storm. Much of its infrastructure looked as it did before, but Shiv could see the nascent bones of impending projects crusting the outer edges of the residential districts—and even the Peacehold. “I believe I have uncovered what the Seed of Sprouting Edifices skill does; it seems to automatically allow for urban expansion, as if buildings are living entities in conjunction with how much occupancy it has. As such, there are portions of the city that are automatically turning into sky-rises even without my or the Construction Corp’s direct intervention.”
+
+“Gate’s giving Can Hu a hand,” Shiv mused. “Nice second choice, Adam.”
+
+“I’m a genius,” Adam mumbled. “Especially when I’m not thinking.”
+
+“Alright. Legend Tall—uh, Ben? Tall Ben?”
+
+“Just Tall Ben is fine,” the Hydra-Knight whose size could give Marikos a run for his money answered with an upbeat voice, tipping his twelve frog helms. “And can I say I’m mighty pleased to be here with everyone. Real honored an’ all that you decided to bring me in. Swear not to break the trust you’ve given. But now that I said all that… seems to me like you lot are playing a real dangerous game. Trying to make a city of cities here. I see the angle and the game. Go politically metropolitan. Tie up as many interests and High-Tiers as you can to make this place a bad target. But gathering all that many Pathbearers in one place got a price all its own, and if you don’t manage that well…”
+
+Tall Ben looked at Munny and the Culturist with two of his spare heads. “Not throwing stones at glass houses none; even we got our own shames. Legend Valdemar’s a real knight, and I won’t speak ill of him; the debt he’s got against Legend Thann’s deep and ugly still, and we’re only gonna get more of that.”
+
+“No avoiding it,” Shiv said, accepting the criticism. “And you’re right, we are playing a dangerous game. Half the reason you're in here is so that you can see we’re aware of it, and know that you have a choice: Gate Piety is going to be dangerous. It’s going to be a bomb, as Five here described in one of his letters.”
+
+The wolf-man in question froze in the middle of reaching for a bottle of water.
+
+“A bit of advice, Five,” Shiv said, casually strolling by to pat his back. “Stealth isn’t your thing when Valor is around.”
+
+“I’ll try to remember that, O Deathless,” Five drawled, avoiding eye contact as he poured himself a glass.
+
+“Now. As I was saying, this place is a bomb, but it’s a bomb that works for or against us. The Gate’s growing fast. Everyone who spends enough time here or around me will level faster and faster. And with the way the world is, we’re going to need that growth. We’re heading for an incursion in about a year, and there’s no easy way to settle that.” Shiv gave it a beat. “Aside from putting me down for good, but for everyone else’s sake, I’m going to advise against that.”
+
+Tall Ben either believed him or was too good-natured to take offense at his hubristic statement.
+
+“You’ll be getting more than just conflict here at Gate Piety, though. More than just levels too. We plan on becoming a bridge between the surface and the Abyss, but also a junction between different nations—an intermediary for when things get rough and grudges develop, like you said.” Shiv smirked at Adam. “I guess what I’m trying to express is that our first export is going to be a measure of diplomacy and peace, and we’re going to demonstrate that by containing violence and war.”
+
+Adam rolled his eyes, but he couldn’t help smiling himself.
+
+“Noble goals,” Tall Ben’s twelve heads droned in a chorus. “And to get that, you plan on leveraging Pathbearers and empires against each other, don’t you?”
+
+“Of their own volition,” Shiv countered. “We’re going to do things honestly and truthfully, because nothing holds well or long on the foundations of a lie. And the thing is, we already have a standing military.”
+
+“You got a cancer of monsters stinking up your blood and rotting your fucking bones is what you got,” Hero-Ranger Munny snapped. For most of the meeting, he brewed with bitter hatred while the Culturist held to his serenity near Adam. The way everyone went about things like there weren’t any grayskins in the room was getting to him, but his response was a mistaken one.
+
+“I’m not talking about the orcs,” Shiv said. “They’re for defense, and mostly support. I’m talking about me.” He faced Munny down and continued impressing his point. “Yeah. We got an invasion to survive. We got problems to deal with. And we’re going to start handling that. By ourselves. We’ll start by breaking out the Tarrasque and making sure no one can get to it again.”
+
+“And you’re going to do that by just heading north and dragging that thing out of whatever hole they stuck it in, are you?” Munny grunted.
+
+“Yes,” Shiv answered casually. “It’s already happening.”
+
+Munny looked him up and down, and he clearly struggled not to sneer. “You’re a lot. A big bullet. Something wrong with you, son. You stink of death and war while talking big about peace. I can see why the Challenger made his deal with you; reckon you can do plenty of harm to a town or a couple of cities. But alone against an empire? Alone against armies?”
+
+“I’ll what?” Shiv chuckled. “Die? Is that what you’re getting at? The worst thing that happens to me is that I’ll grow stronger and keep coming and coming and coming.” Shiv rubbed his nose and decided to put a few things into perspective for the Ranger. “It’s not that I’ll win on my own. And that metaphor you used before is wrong. The orcs aren’t a cancer for this place, I’m a cancer for anyone else who decides to make a problem of themselves. Sure, I’m not the best warrior on Integrated Earth. Not even close. But I am Legendary. And I keep coming back over and over and over. And I have options. Plenty of them, in fact. If you’re running a civilization, I’ll crack it from the inside. Sure, I might kill a few people, but like Tall Ben just said, grudges and all. That goes everywhere. Some people just need a little push to start burning down the village that never wanted them.”
+
+That earned a slight cringe from Roland.
+
+Shiv continued. “Things get simpler with monstrous empires. They wanna kill me, and I wanna kill them back. But I’ll always be there. Day after day. Night after night. And I’ll go for everything they can’t lose. They want to hunt? I’ll kill their hunting parties and make them starve. They have young? Great. Time to see how some new eggs taste. They have a home? Well, then, I got a pestilence to share.” He ran his tongue across his teeth and regarded Munny with amusement. “You’re going to learn something soon: the Tarrasque is the lesser unkillable monster. I’m just better behaved is all. That, and I like people. Including you. Which is why I want you to be a problem with me for the ones that deserve it.”
+
+“Like the Challenger and the other bastards,” Munny concluded. “The ones that are going to invade your gate.”
+
+Shiv grinned. “Now you're getting it.”
+
+Munny went silent for a few seconds before shaking his head with a gruff snort. “Before all this bullshit, I thought you were just being a northerner.”
+
+“And now?” Shiv prompted.
+
+“Now I see you got your lips stuck tight around the barrel of your third leg—but instead of sucking, you might just be the type that wants to find out if they can actually inflate themselves even more by actually blowing.”
+
+The image gave Shiv pause, and he actually started considering the mechanics of such an action. “Well, I guess if I took a long breath and used my tides to—”
+
+“Shiv,” Uva said. She left it at that.
+
+But the fact he was willing to imagine it finally broke through Munny’s exterior and earned another noise from him, though the old Ranger still tried to hide his laugh under a cough.
+
+Comedy 34 > 35
+
+“Well, you might be wrong in the head,” Munny said. “But to hells with it. Sometimes that’s the only way to be. Listen: you want guns, Rangers, Siege Crawlers? You want Lone Star to back you? Well, I’m going to need something from you to make that happen—just for a start.”
+
+“Yeah? What’s that?” Shiv asked.
+
+“That one there dead for one,” Munny said, cocking his head at the Culturist. “Him and the Red Rider’s Hand might just be enough to shake the dumb bastards back home and make them realize that they can be bled; that they can be killed.”
+
+“I’ll bring the arm with me,” Shiv said. “But if the Culturist comes, he’s doing it alive. Look, with whatever he did to you, he probably has it coming. But that doesn’t mean his life is mine to take right now; the Challenger comes first. And there’s no one better at resisting him and his than one of his greatest Maestros.”
+
+“I didn’t say he has to die today,” Munny said, his eyes never leaving the Culturist, his hate never dimming. “But someday, things end the way they always do. For you. For me. For all of us.”
+
+The Legendary orc hummed and glanced at Shiv. “Almost all.”
+
+“All,” Munny insisted. “He might come back, but someday, even he’s going into the quiet that comes. The Pale Rider comes for us all.”
+
+“Yeah? Well, he needs to stop bringing me candy,” Shiv sneered. “So. As a tentative start to this mutually hateful relationship, can I count on Lone Star to join in when it comes time to collect orc scalps?”
+
+Munny held his glare at the Culturist for a solid ten seconds thereafter before replying. “If you get in that fight without us, it'll be your scalp I take for leaving me dry.”
+
+Shiv was about to tell him not to worry when Adam cleared his throat.
+
+“Apologies,” he said. His left eye was dilated and glowing bright. “But I think… I think I have something.”“What? Have what?” Shiv asked.
+
+It took another few heartbeats before Adam answered. He licked his lips, and a look of focus came over him. “I think I know where the Tarrasque is—I think they put my temple in its cage.”

@@ -1,0 +1,233 @@
+---
+id: b48bc97e-b927-5f3e-8960-ed36355e0200
+page-type-slug: story-chapter-royal-road
+title: "424 Kingdom of the All-Seeing [II]"
+slug: 0542-424-kingdom-of-the-all-seeing-ii
+partOf: path-of-the-deathless-book-4-completed
+position: 542
+ownLength: 5372
+unit: words
+publishedAt: 2026-08-05
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3774243/424-kingdom-of-the-all-seeing-ii"
+royalRoadId: "3774243"
+---
+
+To start, we're not sure what fallen heavens are, not fundamentally. What we do know is that they're fragments of an older reality that predates the System and got caught inside Integration.
+
+The first thing you should know about entering a space affected by a fallen heaven is that you shouldn't.
+
+Why? Okay, imagine looking at a distant star that seems a little weird. Maybe you notice the star’s an oval, or a square, or maybe it has bunny ears, and the next thing you know is your head is in two pieces, or you have one trillion rodents exploding out your eye sockets. These things aren't hypotheticals. They happen all the time.
+
+Yeah, it gets fucking weird out there, kid.
+
+Now, within these fallen heavens, there's no ambient mana. They are more devoid than certain sections of your world contaminated by radiation, and that might be for a similar reason, be that respect or maybe even fear on the part of the System toward those areas. Again, we don't know why. The System isn't exactly talkative. We just know it works that way.
+
+More than that, though: the laws of reality work differently under a fallen heaven. Up might be down, or up might be forward, or there might not even be an up. Maybe there's no three dimensions at all.
+
+Yeah, that last one is especially nasty. You see, you don't go back to being three-dimensional if you somehow manage to leave one of those fallen heavens again, and most of us common folk don't deal too well with being squashed so flat you lose out on an axis of spatial reality.
+
+By that I mean we die. Doesn't seem so bad for you, but the rest of us got one shot at this life thing. At least that's how it is without getting into religious talk, and I don't really feel like getting into that with you right now.
+
+Speaking of religion, these fallen heavens, they're tied to faiths. Not the faith that exists under the System and feeds the things it categorizes as gods, but a sort of older, more primordial form of divinity. You might have a concept of them if you're a big reader of these esoteric texts. They're closer to Outsiders in a way, but any Outsider that's been noticed by the System has already been stained by Integration and categorized. Nothing about fallen heavens is categorized. They work under their own logic, whatever that may be.
+
+If you said that your friend exhibited a field of absolute Tyranny or Peace that managed to burn the Red Rider's hand, yeah, that's something to worry about.
+
+The Farwalker Mysteria are sending me quest after quest—some of them got to do with you, some of them got to do with the seeker you're with, but a lot of them, they're worried about Adam Arrow. He's got something inside of him that shouldn't be there at all, something we can't control, something that can't be known. If it is a fragment of a fallen heaven that he has in place of a Sacred Phylactery, then he needs to be at Chorus post-haste, because he might just end up as a fatal problem for himself or your entire world besides…
+
+—Myth John Produveral to Shiv
+
+424
+
+Kingdom of the All-Seeing [II]
+
+“Get up,” the rumbling, annoyance-tinged voice repeated again. A rush of will tore out from something buried deep within the fibers of Adam’s soul, crashing within his heart like a wave upon a cliffside.
+
+But Adam was spent and broken. He was drained of spirit, and his mind was shredded beyond coherence. It was something else, not his own mind, that was holding him to this state of sanity, but he was still so close to tumbling over the edge. He was—
+
+“You mistake statement for request. I have not had a wielder as pathetic as you, and I will not be represented by one such. Get up! It is not my will that you lie there and die. It is not your purpose to be weak and mortal. Get up! Do not shame us in the face of that stain, that cancerous tumor granted tongue and limbs to represent the fetid icon of war.”
+
+“Hurts…” Adam moaned. He clutched at his skull, and the headache threatened to burst out of him. It felt like a thousand locusts hatching from his brain matter, the blossoming of purest agony.
+
+But no pity came from the old power within. The denseness of the mist started spreading out from him once more. Yet this time, it wrenched him upward. Its will, conveyed by his subconscious, forced him to stand, even as his flesh quivered with weakness. It spoke to him no more, the echo of its words overshadowed by the strength of its vulgar intent. It was Tyranny, and Tyranny did not persuade. Tyranny acted.
+
+The boot fell, and those beneath were crushed or bent.
+
+A rage burned in Adam. It came alight, and the itch returned with it, inflamed and infuriated. He wanted to rip into the mists shrouding him, to defy this second slaver that hid within his being. He was tired of gods, he was tired of Divinity, he was tired of being used by the Challenger and now by this unknown thing that wished to dominate existence so.
+
+“What worth is your weariness if it cannot be enforced upon the world? What worth is your pain, your suffering, your misery, before the totality of existence? I am telling you this not out of cruelty. It just is. The stars do not care, nor does the emptiness between them. That System's will is not yours. You do not count, not in terms of empathy or force. You cannot decide, so you are decided upon. I am your only absolution. I am that which you must embody. Whatever ideal you hold toward the shape of a utopia, whatever dream you have will only be made manifest within a Domain you control, within a zone of your absolute sovereignty.”
+
+Drool dribbled out from Adam's mouth. He wanted to say something, but a spiking, searing ache stripped the words from his tongue and left him too incoherent to even babble.
+
+“This mortality you display is unsuited for what you must overcome. There is a task at hand, Arrow. I have spoken to you twice now. The first left me disgusted. The second was unnecessary. But you are the wielder now. You are the descendant. You are the inheritor, and you are to live up to this Domain you have received. If you will not bend to my Tyranny, then bend to your own. Heed yourself, for you must be your first subject, your first slave. If you do not hold your own leash, someone else will tug on it.”
+
+The mists roughly pulled up his head by the base of his hair, and they forced open his left eyelids like a pair of fingers. “Gaze upon the home that you failed. Gaze upon that which you couldn't protect, that someone else claimed through wrath and violence. Gaze upon the subjects you let die, and know that right now, in this moment, you have power. You have the ability to unleash your might. You have the capacity to declare this place a land of peace bound and force broken.”
+
+Once more, the notification came alive before Adam, and it taunted him, reminding him of what he had to do if he wanted to escape. The weakness was still there, but the choice slowly dissolved.
+
+And for once, he spoke to himself. He spoke to himself, if only to spare his ears and senses the psychological and metaphysical onslaught of the little petty tyrant that festered within. “One pain or another. Blackedge or my misery. No way out. If there is no way out then… No, even before there was a way out, I needed to do this. This is what it means to be a Pathbearer. This is what it means to…” Adam swallowed, his breath starting to quicken, but he clenched his teeth hard, and resolve took hold. “Pain is a sensation, but failure is a scar in my forever. Too many scars ruin the flesh. I can survive the sensation. It's just a feeling, and feelings pass. It's just a feeling, and feelings pass. It's just a feeling, and feelings pass…”
+
+Those words became a mantra, and guided by them, the mists went silent as Adam moved of his own accord once more. His resolve became something greater as the itch and hurt inside him rose to challenge the recognition of his spirit. Something else cemented itself deep in Adam's psychology. There was the will, but there was also a faith, a tenet, a truth he wished to embody, and the truth was absolute, beyond the capacity of entropy or suffering to defy.
+
+He wished to protect all he could not. He wished to stand beyond destruction. He wished to be like his father. And in his heart of hearts, he wished to overshadow his father, to shine brighter than even the Starhawk, to be something of justice and truth, to be that ideal that was lost to him when the Ascendants revealed themselves to be what they all really were. He wished to be truly holy, and he wished to give that holiness to all, across this land and all others.
+
+“I am so tired… of false and weak gods.” And in that disappointment, there was a promise. There was a truth in manifestation.
+
+Adam Arrow was broken, but that was irrelevant. It was no excuse. He would be a real Pathbearer, even if he would find himself destroyed. A broken arrow could still be jammed into another's eye and see a battle won. So long as something was just real, it could topple empires, everything else be damned.
+
+So long as one's will was real, so was their motion. So long as Adam Arrow was real, so was his skill and strength.
+
+And so his Awareness exploded out from him, ripping through the underside of the town in a crashing wave. He felt and tasted, heard and smelled every grain that made up the dirt and bedrock beneath Blackedge. He passed through the stone, the metal supports, the wooden walls, and the glass panels that made up that panoply of color, lighting the frescoes upon the Perch's front windows. Midway through his egress from the castle dungeons, distracted by pangs of suffering, Adam hesitated as he looked upon the encounter descriptions again. He was hunting people infected by the Vicar's plague.
+
+The Vicar's plague…
+
+A pulse of pain briefly burst his thoughts, but he recovered as something else snapped back into place. His thoughts were coming clearer now. There was more of him reassembling itself as he stood against the suffering it forced upon him.
+
+Yes, the Vicar. Vicar Sullain, the one who invaded Blackedge, who brought an army from the Abyss to besiege Adam's town for weeks upon weeks, its people denied any help or hope thanks to Havel Van Stormhalt’s betrayal. Sullain had cast his sickness upon the town, murdering thousands and bringing more to the brink, including… Isabella.
+
+Adam remembered he was supposed to marry Isabella. Here, in this Delve, he was still in his pure-white groom’s suit.
+
+But in the real world, they'd never married, instead torn apart and separated for months, and when he'd finally reached her, she'd been as good as gone. And now, she was still sick. She was in Gate Piety, his Gate, and as that realization came, more and more memories flooded back.
+
+He quickly realized why The Delve Quest bestowed upon him so much discomfort. This was the misery he wished to correct in life; this was the suffering he wished to overcome existentially and emotionally. In the rare moments when he allowed himself rest, nightmares and dreams came to him in equal measure, delusions of getting to Blackedge in time to save everyone he'd wanted to save, of slaying the Vicar before he ever got a chance to unleash the Tarrasque or do any harm at all, long before the town was swallowed by the darkness of the Stranger's Garden.
+
+So, of course, it would be part of his delve. Of course, he would have to face this struggle now. It had been his dream to save his town, and it was a dream that had died. But now, in this place, even false, it could be a dream made manifest. It could be an act of worship against destruction.
+
+But I cannot do this without clarity. I need to think with clarity. I need to act with clarity.
+
+Beating back the thunderclaps of pain that sought to make him flinch and buckle, he directed his billowing Awareness back toward the castle in search of an expert. Adam lacked the lore of Biomancy, and he needed someone who could detect the festering sickness that was spreading through the town. However, as he tore through the Perch in a pertinent instant, his Awareness spreading ever wider, becoming an explosion of information and sensory data that spilled over from every square centimeter he crawled across, Adam found himself surprised. Starhawk's Perch was empty of specific experts. It wasn't just the castle Biomancers that were missing. It was also the Diviners, the Aeromancers, the Geomancers. The staff that remained were logistical cooks and cleaners, and nothing more. Even the guards were only pure Martials.
+
+This Delve stripped him of all support. He had to rely on himself. He had to push his own senses to the very limit.
+
+“So be it,” Adam snarled. He argued no more against the unfairness of the System. He thought nothing of the cold cruelty of life and the great difficulty of the task that stood before him. It was here, righteous or not, fair or not, and since Adam Arrow was also here, he was going to succeed regardless. He had to—if only to defy this pain inflicted upon him, if only to make true the virtue he sought to embody.
+
+He scanned the people around the Perch at first, examining their bodies for any discoloration or oddities, trying to see if any of them exhibited traits of fever or illness. That process took too long. Even with his swelling omniscience, his explosive Awareness now contained within a moving bubble of constant sensory input, he couldn't receive and review all he learned at a fast enough speed. He was forced to rely upon his Divination once more.
+
+Adam called upon that skill of his, transformed and granted by his Path Evolution. He sought the Prey that was Promised as his eyes came alive with violent mana once more—and found nothing.
+
+Unlike with Whisper and the Animancy bomb, darkness prevailed. No information was granted to him by the System, and no image nor words gave Adam any clue as to what he sought or what he had to do.
+
+“Why?” the Paragon hissed, his frustration turning into undisciplined rage. “Why, damn you! Why? Give me a reason why this shouldn't work! It's my skill too! It should be allowed. It should be!”
+
+But when the System didn't reply, as usual, he stopped talking to it. It clearly wanted him to strain his Awareness to the extreme, even if that was utterly unreasonable. Or maybe it just wanted him to fail.
+
+He had failed repeatedly in his prior Delve Quest Encounters. He didn't even know how long he'd been here, how many times he'd tried while his consciousness was consumed by a haze of blood and wrath.
+
+Maybe he would fail a million more times. But if he was to fail, then Adam Arrow would fail gloriously. He would fail only after he expended every possible avenue of success beforehand.
+
+And so Adam adopted a broad, tactical approach. He considered how the System might assault Blackedge. The town wasn't that big, but there were still thousands living there—over 40,000 people, any one of which could be the original victim, or maybe not even that. There could be a dozen victims already, a few hundred, even a few thousand. Trying to sift them out from all the others would be difficult.
+
+He needed a higher view—and patience.
+
+The Encounter description said to eliminate those infected. There was no number of required survivors given. And so, if he let the infestation spread and focused on keeping a small fraction of the town alive before wiping out those diseased, would that make him pass the Encounter regardless?
+
+Likely yes. It wouldn't be ideal. It would maul his emotions and force him to watch his town die a second time over. But it might just be a way to pass this Encounter and reach the next.
+
+And so, instead of hunting down everyone who was sick, Adam decided to corral a few people that he knew were healthy and seal them inside his room.
+
+He did this the most efficient way possible. He fired an arrow to return to the central lobby of Starhawk's Perch. His shot impacted the soul of an Arrow Family Guard, and as Adam manifested before him, he gave orders to some startled passersbys, telling them to go upstairs and sequester themselves in the Young Lord's private quarters. They were not to have any contact with anyone else until he returned and gave them allowance.
+
+As he spoke, however, another aspect of his soul, once dormant, activated. The mists exploded out from him. The mists swelled over the people, and their bodies went stiff. All momentum was stripped, and all hint of defiance or violence was made impossible.
+
+Adam wrenched the mists back, expecting the hidden god or whatever it was to mock him for some weakness, for some act of indecision, but it was gone. Its voice was not even an echo, no longer a shadow upon his person. It was only there when he failed, when he didn't embody what it wanted him to be, perhaps, or maybe it wasn't real at all. Maybe it and the Challenger himself were but delusions, moments of mania made manifest through his psychosis.
+
+He decided it didn't matter if they were real or not. He would do this. He would do this because it built who he wanted to be, in defiance of the pain that tried to strip him down.
+
+Rose found him mere moments later, rushing toward him. There was an animation and worry to her features that made her more person-like than any other inside the castle. Almost everyone else felt like a puppet to some capacity. They acknowledged his words, but their reactions were openly artificial. Not hers, though. She asked him what was going on, her eyes wide, her body tense. She clutched him by his arm and wouldn't let go, even as he told more people to retreat into his room.
+
+“Adam, Adam, what was that? How did you—never mind that! You tell me what the fuck's going on right now, son. You tell me so I can help you, you got it? Is there something wrong? Are we under attack? What is it?”
+
+Adam turned, and he looked upon his mother, this simulacrum made so close to her image. Gently, he unclasped her hand from his arm and pulled her along. “I'll explain on the way,” Adam said, swallowing.
+
+He led her upstairs, along with a small crowd of retreating guards and guests. It was only now that Adam noticed another breach in the facade. Some of their faces were repeated, two of them looking exactly alike, yet they were definitely not family, not in the way they spoke to each other regarding one another as stranger, noble, and servant. The Paragon shook his head—that made things easier, but speaking to Rose still filled the lump inside his throat.
+
+“I need you to keep everyone safe inside the room, mother. There is a plague that's spreading through Blackedge. I am going to try and track down its source, but I need you to stay here so that you don't get sick, or so that you don't spread the sickness in case you already are.”
+
+“A plague?” Rose sputtered. “But that's not possible! The wards—”
+
+“Mother, I'm begging you—I'm asking you to trust me and—”
+
+Adam choked back a rising scream as he nearly lunged at her—her bare and pale throat was so inviting; just a bite could give him a moment’s relief…
+
+“—just stay there and wait. I will be back. I will see this done. Just don't... don't say no. Don't ask for anything else. I'm trying to…” Adam clutched at his head again. He tried to remind himself that she wasn't real, that the true embodiment of his mother awaited him outside the Delve, that he would be reunited if he just succeeded.
+
+And yet, the look of absolute terror on her face and the concern for him that lingered in the aftermath cut him deeper than any blade and hurt truer than any burning itch or what the Crown of the Anti-Savior afflicted him with.
+
+Reluctantly, Rose nodded. “Alright, alright. But you keep yourself safe. Don't fucking get yourself killed! I need you to promise me that if I'm going to promise you this.”
+
+Adam didn't have the words. He didn't have enough strength. It felt like a lie if he said yes, so he simply nodded.
+
+With that, he closed the door and sealed her within, alongside twenty-five other people. He prepared to dive out the window and take to the sky, to see if waves of tumult or infection would make themselves known. But before he did, a feeling took hold inside of him, an instinct that called for him to unleash one of his newest skills.
+
+The words appeared before his eyes as he called upon them.
+
+Zone of Absolute Dominion
+
+It was a skill that greeted him when he briefly awoke from his agony-ridden stupor. It was a skill that arrived with the mists, with the revelation of his true Domain, and though he hesitated, he knew in his bones and deeper that it would keep Rose and all others safe.
+
+He compelled the zone to manifest from him, but rather than spread like a gentle mist, it slammed down in the shape of a crushing palm. Clouded and vicious, it imprinted itself upon the world like a boot’s heel pressed against the skull of a person. Within that zone, all violence became impossible, all movement was stripped, and all force was severed, all except that which Adam performed.
+
+With the zone unfurled, he rose, his geometrical wings glowing bright. He broke through the windows while everyone inside his bedchamber was held stiff within his divine vapors, and then he went skyward, seeking Isabella to perhaps move her and a group of other people into a new safe zone, if possible. But that hope died immediately. As his Awareness settled upon her, on the lawn behind the castle, he found her kneeling, clutching at her mouth as she hacked up blood and those around her collapsed one by one. Within moments, rivers of red ran as cascading rivulets down their bodies, staining their dresses as their flesh desiccated and their mana fields fractured. It wasn't just their bodies that were rotting away. It was also their souls.
+
+Adam accelerated in her direction and came to a halt just before her. Once more, he was on that grand patio at the rear of Blackedge, and he took Isabella into his grasp, but the moment he touched her, she came ablaze, smitten and seared by his arriving Divinity. Where she writhed and moaned before, now she shrieked. It was like he was an open flame pressed against her skin. Though Adam opened his mouth, telling her that he was here to help, that she was going to be safe, she combusted. She burned as the sickness inside her detonated, taking her flesh with it. A bonfire greeted Adam, one built upon a pile of ash connected to four severed limbs.
+
+Her death was so sudden it caught Adam by surprise; it didn't give him a chance to respond or pull away.
+
+Shell-shocked and numbed to horror after horror, Adam just stared on at his hands, the ash resting upon them blown away by a passing breeze. He didn't have any tears left to shed.
+
+This wasn't real, but it had happened too many times. He had seen too many people die in front of him. He had seen too much bloodshed and death, and there was something once soft scabbing over within him.
+
+All around him, more bodies burst, going off like firecrackers. It was as if his person smoked out the sickness, but also destroyed the vessel in turn. His breath was too much. They were paltry cauldrons, incapable of holding the foul, festering gas inside. He was like a flame cast into the depths of a cave, making the concoction a bomb.
+
+What followed was carnage and bloodshed, a brutal, methodical culling. The castle was purged by Adam through arrow and destruction. He fired Shard after Shard, and they rained down upon the sick, his Divinity detonating them, purging them of the sickness. Flames broke out all across and all around Starhawk's Perch, surrounding it in a concentric pattern of death and rising smoke, but in that fire was incandescence, and the glory of the castle was preserved, even as the people that once manned its walls were cut down one after another.
+
+Then Adam moved on to the rest of the City. All across Blackedge, scenes of unfolding mayhem unfolded. People fell in the streets, hacking pitch-black blood over each other and into fountains, and they toppled down stairs and out from windows. Adam was no fool. Even if it hurt, he was scarred and numbed, and he used that to his advantage. He was no Biomancer, and so there was only one way he knew how to cure the plague. He fired his arrows one after another, over and again, and so the fire spread to the rest of Blackedge. That divine flame, that glorious flame, that holy flame greeted those he'd dreamed of protecting... but what he offered was not protection, but death.
+
+He butchered the majority to preserve the minority, and he did that so that he could push on to the next Encounter, so that he could fail at the latest possible instant. Maybe in the next run he would do better. Maybe he would suffer more regret if his head wasn't trying to come asunder with suffering and torment. But right now, this was all he could do. He wanted to embody virtue, but this was as high as he could fly. The fact that he flew at all, the fact that he could act at all, was a miracle in itself, because even still, it was too much. Here, where the dark fled his dawn, a dark, darker, and yet darker thing took root in his heart.
+
+Encounter Completed (2/5)
+
+He didn't know when he cleared the Encounter. It could have taken a few minutes, or it could have been hours, but by the time he finished, the sun was going down. The splinters of the broken moon rose to shroud the horizon’s fading, dappled colors of twilight to bring up the curtain of night.
+
+Adam hovered alone in the sky, his being flanked by three inverted pyramids on each side. A cool night breeze rustled his long hair as he looked down upon the town he was meant to guard and watched as buildings burned away, watched as his divine essence consumed the lower sections of his home in a building conflagration. The residential clusters had to be destroyed, down to their foundations. The sickness that once spread within went off like a massive explosion that erupted upward.
+
+The Slayers Guild was preserved, with most of the Pathbearers there still alive. It was one of the few points of pride Adam granted himself. Yet it was likely not all his doing. The Slayers were martial Pathbearers, imbued with higher Physicality and Toughness and used to orders and mayhem, and so, when he commanded them to hide within the teleportation anchors and seal themselves, they did.
+
+He returned to the castle, using his Awareness to examine his mother and the others in his room. His Zone of Absolute Dominion had faded at some point, the mists breaking, allowing them freedom, but they'd continued to follow his instructions. And they did because Rose stood in place, threatening to personally beat anyone to death who went against her son's orders.
+
+She wasn't real. But she was close enough.
+
+A feeling of bittersweet sorrow greeted Adam as he realized he hadn't spent much time with her at all. He'd been avoiding her, hadn't he?
+
+He'd kept himself busy, keeping his focus on everything he faced, the things he learned about the Republic and the man he once idolized above all others, his father, all that he had to do.
+
+He'd been avoiding her after an entire lifetime without her. He'd been given a glorious gift, and he had squandered it all this time. When he did return in truth, he would learn who she was. He would get to know her—he would make up for the lost lifetime.
+
+Initiating Encounter (3/5)
+
+Encounter 3 Objective: Defeat Vicar Sullain before he
+
+Adam didn't even finish reading the notification as his mind immediately snapped to full alertness. It was like a storm going off inside of him. Electricity, rich with violence and intent, threaded through his limbs and imbued him with killing intent. This was a simple task, a target he could strike down. The Vicar, once represented by his plagues, was arriving in person, and so Adam would see this guest received before that tragedy he wrote in the real world could unfold once more.
+
+As Adam flew higher and tried to invoke his Divination once more, his eyes glowed violet, and he felt his enemy reaching back for him. A vision of Vicar Sullain stood manifest before Adam—his colossal, serpentine form engulfed by rolling clouds—but he was a hundred kilometers away, masked by Divination wards, and shaping a calamitous spell that was beginning to build above Adam. The seams of space tore open above Adam as a chasm of magic twice as wide as Blackedge began to ripple with overflowing mana. His enemy knew where he was, but the opposite didn’t apply; the threads of fate and narrative were unclear, and so Adam wasn't sure of the Vicar's exact position. Thus, he cast his Awareness, commanding it to go further north, up, and then sideways as it scoured the bend of the horizon.
+
+But as fast as his Awareness could move, it couldn't match the speed at which the Vicar cast his spell.
+
+A chain of shifting mana types wove together, and it was more than Divination and Dimensionality that came from the chasm above Blackedge. It was Pyromancy, Chronomancy, Cryomancy, Biomancy, Dynamancy, and more. It was a coalescence of force and destruction. It was a thunderstorm of spells that fell one after another, and they rained down upon Blackedge, stripped of its magical barriers, unmanned by its protectors, without Roland or Arrow to guard it.
+
+The true champion of Blackedge was missing.
+
+In his absence, Adam stood as his replacement, the younger, the lesser, even as a god. Adam fired his Shards, and, in a moment's instinct, he invoked These Arrows, My Memory. Versions of him across the past loosed their shots as well, allowing him to unleash salvos more than he could alone, but he was a paltry stream trying to stop a falling ocean. As his light crashed against the descending spells, his Divinity was snuffed by the Vicar’s overwhelming spellwork.
+
+He didn't see the spell that killed him. He felt it, though, sundering him in flesh first, then magic, then soul.
+
+With that, the world went dark.
+
+But not for long.
+
+Encounter Failed
+
+Resetting Delve
+
+Adjusting Legendary Skill…
+
+Applying Partial Skill Evolution: Kingdom of the All-Seeing

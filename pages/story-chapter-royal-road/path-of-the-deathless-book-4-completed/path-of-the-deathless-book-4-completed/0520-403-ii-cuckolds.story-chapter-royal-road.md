@@ -1,0 +1,173 @@
+---
+id: 34147caf-7fc1-5db6-9d99-dc49ae91336f
+page-type-slug: story-chapter-royal-road
+title: "403 (II) Cuckolds"
+slug: 0520-403-ii-cuckolds
+partOf: path-of-the-deathless-book-4-completed
+position: 520
+ownLength: 4187
+unit: words
+publishedAt: 2026-07-12
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3664515/403-ii-cuckolds"
+royalRoadId: "3664515"
+---
+
+403 (II)
+
+Cuckolds
+
+Shiv might’ve thought this was a deliberate plan on Hymn’s part, but the man had lost his blouse and horrible curtain-cloak somewhere, exposing his pasty-white, thin torso. He was also soaked in all manner of alcohol and debauchery.
+
+“Ugh, Hades,” Ikki chided, looking away from him as if his skin tone was too bright. “Not in public.”
+
+“Hades?” the Umbral Vanguard asked. “Wait, Ikki, didn’t you speak with him for the first time a few hours ago? Hades? Seriously?”
+
+“I, uh—” Ikki scratched at her neck and looked away.
+
+“Don’t worry,” Hymn slurred as he staggered toward Uva—and promptly faceplanted. “I don’t need a shirt where I’m going—which is down… into her.”
+
+Everyone just stared at Hymn. Shiv rubbed his face. “Listen, all of you guys need to not take this the wrong way, but you have too much godsdamned baggage, and I’m really starting to get tired of it.”
+
+Hymn shot up as quickly as he fell and limped left to pat Shiv on the chest. “Don’t worry; this is me dealing with it. No point to me. No point to all those years; to anything my mother and father did to me. No point in all those torturous possessions or all the things I’ve seen. My eldritch patron's just a big joke! I’m just a joke too! It’s hilarious.”
+
+“For fuck’s sake.” Shiv rolled his eyes. “Hymn, go hammer some water; we don’t need to rush this. We’re not doing this while you’re—”
+
+“I’m a better mage drunk,” Hymn declared.
+
+Gardener of Doubt: This is the biggest lie anyone has ever told us.
+
+Gardener of Doubt 78 > 80
+
+“No, you’re not,” Shiv ground out. “Come on, man. I’m sorry I was too rough—”
+
+“No,” Hymn said. “Not your fault. The System has been laughing at me for years; I just pretended not to hear. I get the joke now. I get it! I get it!” Hymn fell to his knees and started laughing without any build-up.
+
+“Behold: The emotional breakdown of a man who has been running from his feelings for a century or longer,” the Harbinger said with great pity.
+
+“Guy’s felling broken,” Shiv and Jessica grunted at the same time.
+
+“I’m fine!” Hymn shouted, and then he slowly lowered himself to all fours as he crawled rather than walked toward Uva. “I'm better than fine! I have a new purpose now. I can help this Seeker get what she wants, because I'm never getting what I want. Nope, never, never at all. I'll just steal some vicarious satisfaction and joy from her. That's the only pleasure I'll know. It's the only thing that'll give me any kind of release, and it won't even be my own.”
+
+“This is starting to get too sad,” the Nihilist said aloud, sparking into existence over Shiv as a glittering ember. “Look upon him, friends and Starhawk, and realize this is the opposite of making your own meaning.”
+
+“Look, everyone, get off his ass for a while, okay?” Shiv gritted his teeth as he wrestled with the weirdness within. He was the reason why Hymn was in such a state, and now he was the only one actively defending the poor bastard. “He watched his dream die earlier.”
+
+“His dream?” Ikki asked.
+
+“I am a ridiculous, ridiculous little man, and my desires don't matter. I pretended that I didn't care for so long, but I didn't actually believe it. Nope, you were right, Deathless. You were right; you saw through me. You were the only one to see through me after so long.” Hymn began to clap for himself, and his performance was one part sarcastic and two parts painful. “The System doesn't care, but I believed that I mattered more. I believed that I was just clever enough, just better, just special enough. After all, I'm one of the few Seekers who managed to outsmart their patron. After all, I'm the one who sabotaged my patron over and over again. I was supposed to bring the Stranger down. I was supposed to steal his godhood and wear him like a coat—a god coat—and escape the System. It would be my final triumph.”
+
+Hymn broke down into hysterics once more and lay face down in front of Uva. “But that's not going to happen! In fact, that doesn't even matter, because I don't matter, because the Stranger has lost himself! He's suffering emotions like me! Like me! He's turned into an idiot child! There is nothing I can do about that! There is no real revenge I can take anymore! I'd just be murdering some mental invalid that my captor-god turned into!”
+
+Ikki winced. “Ah. That sounds… rough.”
+
+“Legend Hymn, please compose yourself,” Valor pleaded, his emotional core overflowing with secondhand embarrassment, so much in fact that Valor was on the verge of cracking from pure shame. “You are demeaning yourself.”
+
+“I've already demeaned myself. I've demeaned myself my entire life. I didn't care what people thought of me. I was single-minded in my pursuits. I wore a veil of indifference, and I pretended. I just pretended so hard, but I was actually numb. And now the dream is dead. I'm free, and I hate it.” A long wheeze whistled out of the Headmaster, and he curled up like a dying bug. With a casual flick of his hand, he summoned a full bottle of spirits and began dumping it over himself. He wasn't even drinking half of it. He just stuck his tongue out, lapping like he was some kind of dog, furthering his own humiliation ritual in front of everyone. “Call me a cuck, Valor! Call me a cuck right now! Call me a cuck who will never see his revenge! That's what I am. I have been cucked by a boy—a child! A rat child who knows nothing of the Outside but somehow managed to become a Progenitor and somehow managed to turn a god that made my mother force me to eat my own feces into a tantrum-throwing baby!”
+
+Valor stood on the cusp of breaking, but it was Roland who succumbed first. “Starhawk, do something, anything, for this poor man.”
+
+But though the Ascendant of Justice was powerful, he stood shaken and helpless, unsure of what he could provide to this man, who was severed from purpose, deprived of everything that had given him momentum. “I know not what I can do for him. None of my Domains can provide him with any comfort.”
+
+With that, the entire room slowly swiveled to stare at Shiv—who sighed. Sometimes, your greatest victory bit the deepest into your ass. “Yeah, okay. I broke him. I need to fix him. Sure.”
+
+He cleared his throat and examined Hymn’s mental state. The man was beyond being a ruin. His emotions were tumbling like a tumultuous sea, crashing every which way and threatening to burst entirely. There was no control at all. He was lost not only to himself but to the world. The alcohol he drank must have been something strong, because his mind was coated with a layer of constantly parting mist. He had nothing to hold on to. There needed to be a purpose to anchor him, a meaning or direction to guide him toward.
+
+“Consider what he wants,” the Harbinger suggested.
+
+I know what he wants, Harbinger. I just can't give it to him. It's not my fault the Stranger's slowly turning into what he described earlier: a big child throwing a tantrum.
+
+“But you were not listening in enough detail,” the Harbinger chided. “Think, Shiv. What else did he say in relation to the Stranger? What else did he want?”
+
+Shiv knelt down beside Hymn and frowned. He went through the tragic and pathetic rant he just heard and zeroed in on what his skill was hinting at immediately. The part about him escaping the System. The part about him wearing the god as a coat and getting away.
+
+“Yes, but it's more than that. The true expression, the truth, and the fundamental meaning of what he desires isn't power; it is emancipation. His Eldritch powers were stolen from the Stranger in spite of the fact that the god forced him through brutal occasion after traumatic moment. He did all that just to exert a measure of control. And it's clear he sees the System the same way. He wants to break free. He wants to dominate what has dominated him. In this regard, he's closer to us than we have previously realized. He is envious of us. He does not hate us. He's envious of us because we have the means of defying the System. We have the means of overcoming all obstacles, even without struggling as he does.”
+
+Without struggling? I'm sorry, did he die fighting the Recollector over and over again?
+
+Shiv's childish response made the Harbinger scoff. “Shiv, mantle your maturity. Death holds no weight for you. You will return. The only thing about the Recollector that held weight was when it nearly killed Adam and Uva. That was the only thing it did that bothered you. The torture it inflicted had no real effect on you. The wounds, the deaths, and the levels have all blurred together in your mind. It made you stronger. It didn't leave you broken. Now imagine you are Hades. Imagine you are a boy, and the people meant to protect you preyed upon you instead. You know how that feels, don't you? Rough and cruel as Blackedge was, it was a cold kind of cruel during most days. You were left to your own devices. They kept you isolated, but no one forced you to eat your own waste because their god told them to. Imagine this was your life. Imagine this was your childhood. Imagine this was your adolescence. Imagine the only measure of meaning and power could be gained from fighting back and stealing what you can from your god. Imagine all that turning to ash in a moment because of an idiot who came out of nowhere. We are nothing compared to him when it comes to matters of the Outside, and here we are, casually achieving power where he could not even after centuries of struggle.”
+
+Fuck.
+
+“Now you see. And with that empathy, you can figure out his puzzle.”
+
+Shiv nodded, and an idea formed in his head. He needed to surprise Hymn—to shock the man's system so he could listen. Slowly, he leaned over and whispered, “You're right. You are a cuck.”
+
+The Starhawk, Roland, Valor, Jessica, and Ikki all facepalmed at the same time.
+
+“Roland, this may have been a poor suggestion. Perhaps the Deathless is more adapted to offensive language than emotional comfort.”
+
+“No,” Valor said, holding up a hand. “Let him continue. Let him have his moment.”
+
+“Yeah, let him keep going,” Hymn said, not even bothering to lift his head. “It's not like it matters anyway. Nothing I want matters. Only the System's desire matters, and I am not part of the System's desire. I'm not even really favored. I'm a joke. Just an insignificant, cosmic joke. What a laugh it must have had.”
+
+Shiv continued before he could spiral even further. “Listen, Hades, you are a cuck, but so am I. So is everyone here. We're all cucks. You're right. You were talking about how you got screwed out of everything? Well, you're right; you did notice. You understand. We are cucks because nothing we want comes through. I stole your revenge away from you, and I'm sorry, but I don't think you care about my apology, and I don't even think you particularly care about me. It's just the simple fact that the story you told yourself, that hidden little story you keep repeating in your own head about how you're the one who was destined, at the system's hand or by your own will, to strike down the Stranger and usurp them, didn't come true.”
+
+“It didn't,” Hymn agreed. For the first time, he sounded choked up.
+
+“And you're right about a lot of other things too. You're right about how I am actually an idiot when it comes to the Eldritch. You're right about how stupid it is that I'm a progenitor instead of you. You're right about all these things. It is unfair. It is absurd. But it's also the system's way. I spent most of my life, most of it, begging for a Path. I would have been happy, beyond happy, if I'd gotten the Path of the Chef. But that never happened. I stayed Pathless up until I died. And I tried. I really, really tried. I risked myself, suicidally, desperately. Everything I did, I did to gain a Path. But I wasn't even afraid of dying because having a Path meant living; after a lifetime of no one else giving a shit about me, I wanted some control of my own, just like you.”
+
+Hymn released his bottle and Shiv caught it before it could strike the ground. Hymn’s mind was spinning, but his heart was also beginning to calm ever so slightly. In response, Shiv manifested his Harbinger, and a bound field of gold hardened to cover his body, but from that bound field came coiling fingers of blackest flame and also a veil of translucence. Shiv gently placed a hand on Hymn’s back, injecting a conveyance of emotion to convince him of his sincerity.
+
+Hades Hymn was broken enough that he didn't bother magically resisting, and allowed Shiv to project his emotions deep and through. Instead of inflicting any harm or twisting Hymn’s mind, however, Shiv delivered an injection of sympathy that struck the exact chord he needed.
+
+Painfully, slowly, reluctantly, Hymn lifted his head and regarded Shiv from the corner of his right eye. “You were lonely too.”
+
+“Yeah, but I didn't realize that was what I was feeling at the time. And it didn't get better until I got my Path and until everything kept going to hell. Because somewhere in hell, I found a lot of people I care about, a lot of people who care about me, and a lot of things to fight for. But that's not important. This isn't about me; this isn't about any of us, despite how I feel. I've also come to another understanding. It doesn't matter what we want; it matters what the System wants. You're exactly right, and that's why we're cucks, even if we're happy cucks or sad cucks. You think I'm beating the System? Well, let me tell you this: the only times I beat the System were when I escaped from the Fairwoods and when I talked the Stranger down. Those were fights that were supposed to happen, but I solved them. Even then, I am questioning myself about how much I actually won, because even after I escaped without violence or strife, I gained levels. The System clearly regarded my persuasion as an act of violence without actual violence.”
+
+He paused, granting Hymn a moment to digest these words. “So we haven't escaped, so we didn't actually win, not even close. Let me tell you this: You think that this is over? You think that everything is done, that you were never going to have your revenge? Well, let me tell you, your revenge was not aimed high enough. Your Stranger, the god that hurt you, was already bound to be swallowed by the System, and the System wanted it to happen. The System loved it. The System probably gave your mother levels for all the horrible shit she did to you.”
+
+With that, Hymn turned, rolling until his back was facing the floor instead. He stared straight up at Shiv and his eyes gleamed like twin burning gems, one violet, the other translucent. “She did gain levels. She used that to taunt me. Her or her corpse. It's rather hard to tell. My memories of that time are vague. My father, he puppeted her for a while, or she puppeted him.”
+
+“You know, my dogshit childhood might have nothing on your dogshit childhood,” Shiv mumbled.
+
+“I didn’t know things were that bad,” Roland whispered. For once, his expression matched Jessica's. Both of them wanted to flee from the room, but found themselves strangely enchanted by the horror unfolding.
+
+“Hades, do you need another hug?” Ikki asked, squatting down next to him.
+
+“Yes, but later, when I'm not covered in my own misery and filth and alcohol.” Hymn sniffled. “So, what now? Are you trying to talk me into turning my hatred on the System?”
+
+“I'm saying that your dream isn't dead,” Shiv corrected. “Your true dream. Your greater dream. You want to be free? I think you can still be free. Even if the System keeps throwing me skills, I don't actually know how to use them that well. You're still the master of the Outside. The Outside remains the only way someone can escape mana, the only way to get out of the System's grasp.” Shiv gave Hymn’s shoulder a squeeze. “Now, the best thing you can do for yourself is to stop wallowing in your emotions, because they're going to change soon. Think about what you can do, how you might be able to get away. You can start that by helping Uva with her Delve, or frankly, anything. Hells, I can use your help too. I barely understand why I'm a progenitor and how I gained that Unique skill. And if you manage to get an understanding, maybe we can all help each other get out of this mess.”
+
+“Or use each other,” Hymn said.
+
+“No, Hymn. Help. I'm here to ask for your help, and I'm here to give you help, because if I didn't care, I would just try to force you, but I'm not interested in forcing you. I don't want to break you. I don't want to do what the system does. I don't want to be the Stranger. I don't want to be just another piece of shit. You understand? Yeah, you're weird. Yeah, I didn't fully understand you. Yeah, this is really, really sad, but that's what it means to deal with people. That's what it means to be a person, sometimes, I guess. You can't seek virtue if you don't realize your own weaknesses or whatever bullshit. Look, I meant every word, and I do feel bad for you. I didn't understand you before, but now I think I'm getting to know you. I feel bad more than I am suspicious. I have no idea how you ended up giving yourself to the Dragon Brokers, but after the life you lived, yeah, I don't think I would be that put together either. And right now, right here, despite all the System's favor, despite all the skills that it keeps chucking at me, despite me managing to talk the Stranger down and ruining your life, I can't do anything to help the people I care about. But you can.”
+
+Shiv just shrugged. “So, if it's still envy that's getting you caught up or unfairness, I'm gonna ask you, who's the cuck now? Who's the cuck? The guy who can hurt feelings real good? The guy who is just a big brute? The guy who keeps forgetting how his own skills work? The guy who doesn't know how to use Animancy? The guy who is desperately fighting for downtime so he can actually figure out how to cast the most basic spell? Who do you want to be in that situation? You or me?”
+
+And just like with the Stranger, Shiv stopped talking. Instead of striking and widening the cracks within Hymn's psychology and letting the man succumb to his own thoughts, Shiv built him up. He waited for Hymn to take that final leap away from this pit of shame and defeat, back to a place where he would have purpose, where everything might make sense and give him a reason to continue.
+
+Hymn twisted his body and stared up at Uva, whose Eldritch gaze had died down to thin threads. A long and weary sigh slipped out from the Headmaster, like steam hissing free from an automaton. “How long has she been Delving?”
+
+“An hour,” Shiv answered. “Psychomancy.”
+
+Harbinger of the Tripartite Ruin 347 > 351
+
+“Ah, good. Much more manageable than an actual Eldritch skill. The System really doesn't like it when you Delve too far into Eldritch skills; it tries to convert them away entirely. The encounters you have to face are strange and unreasonable at times. That and you run the risk of actually dying.”
+
+“Sounds wonderful. Can you help her?”
+
+Hymn sniffled. And suddenly, he shot up, sobering in an instant, as all the alcohol he'd consumed was banished from his body, scent and all. A gush of black steam radiated out from him, and Shiv realized he'd evaporated a Fingerling in his place, condemning it to suffer a hangover on his behalf.
+
+Furthermore, he'd teleported a series of articles and covered himself up. Another curtain materialized around his body, and he fastened it into a cloak. “I can absolutely help her, but I'm going to need someone to help me stabilize myself when diving. This isn't entirely an Eldritch skill, though she likely has contaminated it with a significant amount of Outsider legend. Considering that, my Animancy is fused to an Eldritch skill—and has a bit of a mind of its own. So, Legend Valor, if you could please hold this cuck in place, I would be most indifferent.”
+
+Valor grunted awkwardly. “That is well. I will be going with you. There is a specific Psychomancy Evolution I need her to achieve.”
+
+Hymn shook his head. “I know the one. Was watching through the wards with my divination. It's not going to work. Not the way you want it to, anyhow. She doesn't have any history of mending minds, so she's going to have to do something more esoteric. She's going to have to veer closer toward the Outside rather than rooting herself in a stable Psychomancy skill. The condition of that boy is bad enough that you might need to take more extreme measures, more novel measures, to see him fully restored.”
+
+“I'm not risking the life of my son on some Eldritch skill,” Roland ground out. “What it might do to your mind—and you’re not even sure—”
+
+“Oh, you’re not?” Hymn shrugged. “Well, that's wonderful. I'm sure that you'll find an easy solution to this very, very unique torture that a God of Strife inflicted. I'm sure the Challenger is a complete idiot and hasn't foreseen our attempts to counter his designs. The most obvious solution will definitely resolve things.”
+
+“Enough, Legend Hymn,” Valor said, interrupting before things could get heated between the two. “Your point is taken. What is your suggestion?”
+
+“My suggestion is that we descend into her soul first and see what she's doing right now. Once we get a grasp of her experiences, then we proceed. Then we see if she has the potential to do anything at all. But if you have asked my diagnosis, she just might—though not in the way you might suspect. The girl has a Feat for draining away trauma and madness, converting it to fuel for her mana. More than that, she can steal consciousnesses, hide them inside of her. She has a little city growing in her head—one that resembles Weave, and if I am to make a bet, then I suspect the environment of her Delve will be exactly just that. And if her Delve is anything like mine, then she's likely building up to a city-wide rebellion, for she was in counterintelligence, and so what could be more challenging and blasphemous than leading an uprising in her own city, controlling the creatures she despises to bring down those she deems her friends, her kindred, her beloved, and her goddess?”
+
+“Shit, the System would do that, wouldn't it?” Shiv asked. “I mean, it forced me to kill her over and over again to defend Adam.”
+
+“It did what?” Ikki squeaked.
+
+“Oh, most certainly.” Hymn laughed dryly. “Why, the System's so vicious and diabolical that if you slap a wig of long hair and open a maggot-filled slit between its legs, you can call it my mother. But setting insults aside, what the girl needs is a skill that transcends purely the mental. A skill that folds her mind over her surrounding reality, or pulls things into her mind so that she can be akin to a god. There, we might be able to have her perform more esoteric means of reconstruction for our dear god-to-be.”
+
+“There's a skill that can do such a thing?” Valor asked.
+
+“Oh, Legend Valor, there are skills you cannot even imagine. For the Outside is all about defying and deviating from the system's rules, and as it is said, ‘as above, so below,’ and thus she must seek a way to make that which is As Within, So Without. For the mind is as much a location as the material.”

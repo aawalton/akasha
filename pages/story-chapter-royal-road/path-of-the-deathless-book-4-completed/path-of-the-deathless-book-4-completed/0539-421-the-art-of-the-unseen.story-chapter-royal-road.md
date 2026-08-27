@@ -1,0 +1,277 @@
+---
+id: 48228fa3-335a-5f4a-92f8-38328ffa71d9
+page-type-slug: story-chapter-royal-road
+title: "421 The Art of the Unseen"
+slug: 0539-421-the-art-of-the-unseen
+partOf: path-of-the-deathless-book-4-completed
+position: 539
+ownLength: 5495
+unit: words
+publishedAt: 2026-08-01
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3756022/421-the-art-of-the-unseen"
+royalRoadId: "3756022"
+---
+
+Mastery of the Stealth Skill demands the commitment of a Pathbearer to understanding not only themselves or their skills and capabilities, but also their environment and the limitations of their enemy's Awareness. Stealth is a holistic education. It allows you to observe the world at rest, for stealth is you blending into the lack. It is you going unseen, beneath the waves in the undertow, slipping between the cracks. You ape that which goes unnoticed, that which is discarded, that which is unseen, unheard, unknown.
+
+To fully achieve this state, you must comprehend what fits and what does not. Furthermore, you must see the patterns of existence, for any deviation will expose you. Thus, Stealth is also the art of preparation and intelligence. If you do not know how your enemy sees, what senses they possess, then you are running Stealth on a gamble, and a gamble is no assurance at all. You might as well walk into a storm blind, painted black upon the precipice of midnight, hoping that darkness is your guardian.
+
+Such is not enough. This is not mastery, but simply forsaking responsibility. If you are to possess a Stealth Skill worth anything at all, if you are to honor the legend and your own existence, you must understand the fundamentals of the patterns. The pattern of existence, the pattern of yourself, the pattern of your enemies. It is in the intersection of these patterns, where things are synchronized and aligned, that you go unseen.
+
+As such, the first step to attaining true self is learning what exists in your environment and immersing yourself in it. Let us begin this lesson with you observing all that is around you. Consider the shadows, consider the noise you make, consider your scent, and consider what else is in the room. What has been watching you beneath or beyond your notice?
+
+Study the insects, the fleas, the roaches, the mice. Study them and consider how they operate. There is great wisdom to be gained from observing the natural world and its myriad creatures. There is a reason, after all, that there are still prey left in this realm of predators.
+
+The prey survives without bloodshed. The prey survives in defiance of strife. And I find that to be a most sublime truth.
+
+—Born to Darkness: A Memory Crystal Containing the Philosophies and Methods of Valor Thann
+
+421
+
+The Art of the Unseen
+
+“Tonight’s going to be the night, Valor,” Shiv whispered to himself in a frustrated, desperate breath. “Tonight is when I’ll finally sneak up on you.”
+
+He studied Valor through borrowed eyes. The mana of his Atlas flared bright, connecting his gaze to that of a hawk. It was not a living bird, but a deceased animal that Shiv puppeted using his Biomancy. He triggered the bioelectric signals within the hawk's decayed mind, and thus granted himself an opportunity to use his Atlas of the Flesh Scryer to look out from the dead creature. With a single head of his mana hydra extended kilometers up into the sky, shaped in a wide arch to avoid detection, Shiv angled the hawk's eyes and found Valor once more.
+
+The ancient Undying knelt in front of a pallid pond. The waters undulated softly in the wind, showing the dim reflection of the broken moon as well as the sickly green glow of Valor's eyes. He appeared to be meditating, and perhaps he was, but in truth, he was waiting for Shiv to approach.
+
+He'd learned that this was a trap on the first day.
+
+Originally, he'd tried to close in faster by using his Creeping Void to coat the area in darkness, but that strategy proved folly. The agreement they had was that Shiv needed to surprise Valor once before he took him on as a proper disciple in the way of darkness and things unseen, which itself was a prerequisite for taking him up north to infiltrate the land of the Frost Giants. At the time, it seemed a paltry thing to overcome, but then came the stipulations: Shiv was to surprise Valor within the span of five days. Furthermore, he was not allowed to use his Continuity Error to bypass the greatest aspects of the challenge. Finally, if discovered, he was not to resist Valor's retaliation and to keep himself barren of magic-resistant Shapeless Tides.
+
+Shiv was on the last day now.
+
+And he had something extra special prepared for Valor: a fly.
+
+***
+
+Five days ago…
+
+Shiv swam from shadow to shadow, feeling like a serpent in the dark, slowly closing in on where Valor was. A faint glint of vitality guided him; he knew his master to be close, felt the heat of his existence, and savored this moment of impending victory.
+
+Even without his Continuity Error skill, Shiv had a vast toolset that lent itself towards stealth and subterfuge. His Creeping Void was useful for concealment, but he could still trigger his Silhouette. And above that, there was the last morsel: his frying pan allowed him to cook darkness and consume shadows, to become one with them. There were even mixtures Shiv had learned of that fused water with darkness, which allowed him to treat the dark as a pond all its own.
+
+Unseen, he leapt between trees and the columns of black they cast across the ground. With every second, he drew closer, and as he approached the clearing—
+
+Something snapped in the air. A crackle went through the atmosphere.
+
+Then came the light.
+
+A blinding wave of illumination bent and curved unnaturally across the foliage, sweeping through the woods. In an instant, all shadows were banished, and Shiv's body, alchemized into fluid darkness, evaporated along with them. Death took him, and he was taught the toll of relying too much on his Last Morsel.
+
+Furthermore, he was instructed on a greater problem still: Valor had always known he was there. Somehow he'd sensed Shiv and retaliated with something that Shiv failed to anticipate—a spell of Pyromancy geared toward pure illumination rather than heat or force.
+
+In the aftermath, as Shiv returned with a new body in tow, he found Valor chuckling. In the distance, the great cannons of Fortress-City Vermind gleamed bright beneath the moonlight.
+
+This exercise took place close to the Republic's north-most bastion, Havel Van Stormhalt’s once-home. It was now in the hands of Legend-Advisor Mandering—granted full governorship over the city and all other estates owned by House Stormhalt by Veronica after Havel attempted to install more of his loyalists in key positions, a sad attempt to keep control over his small section of the Republic after he'd already shamed himself.
+
+The expendable Avatars were all stationed within the fortress city's primary barracks and busy with sparring against one another alongside Shiv's other body and Jessica. Everyone was in position to move quickly once reconnaissance was deemed completed. The core force could trespass into the north at any given moment while growing accustomed to each other's methods during their waiting period. Shiv had fought some of the Ascendants before, but then they'd held themselves back, unwilling to destroy him for his worth as a Pathbearer and a means of experimentation. His worth was greater than almost anything on Integrated Earth, even the dozen or so Legendary skills the System gave as a reward.
+
+But while his primary surface body struggled against the Ascendants and their Avatars in contests of power, the puzzle that was Valor's test for him proved a much greater problem.
+
+Shiv was thrice a Legend now. His physical indestructibility and his Shapeless Tides made him more than a match for just about anyone in force-on-force situations. And even if he couldn't overwhelm a god, most of them couldn't tear him asunder in an instant either—much to the Endbreaker's dismay.
+
+Yet it was at the hands of Valor, here in the wilderness beneath the city, that Shiv felt feeble and humiliated. “How the hells did you know I was coming? That trick worked on everyone else.”
+
+“I used a version of this tactic myself in the past,” Valor replied, his voice filled with mirth. “And let me tell you something, Shiv: There is nothing that refreshes an old Pathbearer more than seeing someone their far junior thinking they came up with something new, only to realize it was a reinvention of a wheel that their elder created centuries before their birth. But I also want you to understand something else, Shiv. Before, I trained you through direct advice, because I was lacking many aspects of myself. But now, closer to who I was, I am going to offer you direct instruction. This is the cost: you must solve the puzzle. If you wish to approach me, to lay your thumb upon my back and make me jolt out of my meditative state, then you are to work for it, and brute force and death alone will not be your solution. It cannot. I have suppressed my senses. I am deep in meditation. It is not my awareness that betrays you; it is something else entirely, or many other things besides.”
+
+Shiv contemplated his master's words, and a few assumptions came to mind. “If it's not your Awareness… You probably have a bunch of magical wards activated, right? Wait, can I ask you questions? Since I'm trying to sneak up on you, is it right for you to help me?”
+
+“Of course,” Valor answered without any hesitation. “What master would I be if I did not help my disciple overcome my capabilities? To answer your question: yes. I sensed your mana the moment you set foot into the forest. I allowed you to get close not because I was ignorant of your presence, but simply because I wished to maximize the effectiveness of my Illumination spell. And before you ask, no, it is not a powerful spell. I would barely consider it a cantrip.”
+
+“So, what attunements do you have active?” Shiv asked.
+
+“All of them, naturally.”
+
+Shiv almost did a double-take, but caught himself before his jaw could drop. Of course he has all of them active. Why wouldn't he?
+
+If Valor noticed his momentary shock, he didn't comment. “Primarily Dimensionality, however. You will do well to internalize this, Shiv: If you are trying to contend with someone and they wish to observe and sense all moving matter within the zone of their control, Dimensionality is the means they use. Dimensionality encompasses space, and all objects exist within it. This law, this understanding of the attunement and its lore, makes it a stifling thing for most Pathbearers who walk the Path of the Thief, Assassin, or Shadow.”
+
+“But there are ways around it?” Shiv guessed.
+
+“As there are ways around everything, yes. It is not that you have to vanish into a far-flung dimension to hide from another's notice. Your Continuity Error makes you the single being across integration capable of such a thing, but I will not see you made less so through over-reliance on a Unique Skill. You need to have more options, but before you gain more options, you need to educate yourself. Overcome my detection spells. Figure out the parameter I have set for you. That is my first challenge. I will tell you no more about the spells I have left in place, but I will not stop you from consulting anyone else—or begging another for aid, if you choose to do so.”
+
+“I'm allowed to get outside help?” That surprised Shiv altogether. “Like, I could get a Legend in Stealth to basically beat this challenge for me? Doesn't seem to be very useful for my personal improvement.”
+
+Valor let out a hearty, grandfatherly laugh. “Incorrect, my foolish, assumptive disciple. Everything must be used to further the ends of yourself. Everything you do not know is fatal. Your ignorance cannot shroud you. Your ignorance is someone else's awareness, and so this is my first lesson: If you are not certain what security, what abilities, what awareness, what skills your enemy possesses, then you are not to approach them blindly. Though you are deathless and though defeat is nourishment and not a sting for you, you are not to waste your lives anymore. You will be as all other Pathbearers who seek the highest path in martial virtue: prepared, disciplined, and studious. Now, when you are ready, come to me and try again.”
+
+***
+
+Three days ago…
+
+Adjusting to Valor's protective perimeter took two days: two days of studying, preparation, consultation, and securing an added enchantment to his vestments.
+
+Enchantment Added: Manasight
+
+Equipment: [Vestments of the Undying Cook]
+
+Tier: Narrative/Master
+
+Condition: Fine
+
+Composition: Voidmantid Ceramic; Bloodroach Chitin; Deepcrawler Silk; Fleshdrinker Fungi; Bone Adamantine; Cabbage; Broccoli; Cream; Beef; Chicken; Turkey…(>+1000)
+
+Enchantments > Manasight; Compound Ocular Network; Antennal Resonance; Pheromonic Cipher; Master Regeneration; Magnified Vibrosense; Trauma Mantle; Myomeric Amplification; Mycelial Interface; Binding
+
+When he activated Manasight, it allowed him to glimpse all lores of magic available on Integrated Earth. It drowned out the material world and highlighted the wavelengths of attuned magic, while also painting unattuned mana in a veil of quivering black and white. Through this enchantment, he witnessed the sheer depth of the protections Valor used to guard himself and grimaced at the challenge at hand.
+
+Where the Illumination spell was a paltry thing in terms of raw mana, the wards Valor had woven in place were not at all. They were densely layered, thin but without holes. Rippling waves crashed out from hidden circles of coiling mana shaped around Valor. The worst part about the spell was how unceasing and incessant it was. Valor had codified a replicating feature into the ward pattern, which somehow made it cast itself in regular intervals without requiring his active touch. Thus there came the thresholds of detection, sweeping out in all directions as a vast sphere. There was no surprising him through subterranean subterfuge or aerial descent: one had to slip through those protections one after another, repeatedly—or go unnoticed altogether.
+
+When Can Hu added the enchantment for Shiv, it gave him a suggestion of how he might do just that.
+
+“The principles of Magical Resistance can be applied to Stealth as well, Pathbearer Shiv. Think of how your Shapeless Tides mimic attuned magic. That is how you resist magic, by becoming a parallel attunement and pushing back in equal measure. However, the Skill Fusion of Stealth and Magical Resistance necessary to achieve such an effect is uncommon indeed, and a Pathbearer who would be willing to invest such a boon into a piece of equipment is more than exceedingly rare. Such an item is thus as valuable as a mountain of mithril for many who walk the paths unseen.”
+
+“Okay, so if I can't get that, then how am I supposed to circumvent it?” Shiv asked.
+
+“If this was my task,” Can Hu hummed, “I would focus on Dimensionality.”
+
+“Dimensionality? Why? What's up with it? You want me to tap into it somehow?”
+
+“Dimensionality is the study of spaces, and its mana must process everything that passes through a space constructed or contained by the lore, from distortions to ordinary objects. Considering the environment at hand, you might be able to slip through if you manage to completely replicate the structures of something in the area. Remember this, Shiv. Use all your skills. You have control over time. You can anchor yourself to another being, and so perhaps it doesn't need to be you that closes in on Valor. Perhaps it can be a thrall in your stead. Or an insect.”
+
+With that, a light went on inside Shiv, a light that led to another group of experts he needed to consult.
+
+***
+
+Two days ago…
+
+“I must say, Insul, you surprise me.” Helix nodded appreciatively at the way Shiv was shaping and concentrating that single node of Biomancy mana. “I anticipated far more stress and misery on your part before you finally created some version of life, but the tumors you're infesting inside this thing aside, it might actually live for a while.”
+
+Shiv just scoffed. He was in no mood to be mocked. He'd been at this for hours upon hours. He'd strained both his vessel at the Canterbury and this other version of himself back at Gate Piety to create his first effigy of life. It didn't need to live long. It didn't even need to last for a minute, just a few seconds. In those few seconds, it needed to flap its wings and travel in a straight line. That's all he required of it. That's all it would take to close in on Valor.
+
+Stealth was more about being hidden. Stealth was about being noticed and then disregarded as unnoteworthy. There were countless insects in the woods. The wilderness chittered with life, and with that realization did Shiv's strategy shift from straightforward to creative. It was time to circumvent all his master's protections and surprise him outright.
+
+But even that was easier said than done. Shiv's mastery of Biomancy was lacking, and so he strained his academy body like never before, memorizing text after text, diagram after diagram, from the simplest creatures to the more complicated. Though bugs were small and far less chaotic compared to human biology, they still possessed a vast ecosystem inside themselves. But Shiv's efforts did not prove fruitless. His constant struggle drove his mind and his constantly tested recollection to new heights, and thus he was granted a reward to help him along his quest: an Evolution to his Memorization Skill.
+
+Skill Evolution: Memorization (Initiate) > Snapshot (Adept) 51
+
+Snapshot was not a sophisticated skill. It was not a flashy skill. It was not a remarkable skill, aside from how it allowed Shiv to review a single instance from his past. In its current state, it reached back a week at maximum. Yet, everything within that week could be perfectly recalled in a sudden snapshot. It wasn't a long-term archive, but it was truly useful so long as he viewed something within the span of a single week.
+
+As he flipped through page after page in his academy texts, Shiv found himself spared of the tome altogether. Any time he needed to consult or review a part of the organic architecture he sought to build, he simply needed to focus, and the images and diagrams would be conjured before his eyes in an instant.
+
+“I'm not mocking you, Insul. I'm genuinely being honest. You are still a neophyte, yet you possess a commitment and attention to detail that I would dare say would leave most orcs envious.” Helix adjusted his glasses and grinned. “And I do not think it is arrogant on my part to lay claim to some of your great progress. In fact, without me I suspect you would still be groping in the dark, grasping for the most basic of details. After all, it was I who told you what separated the thorax from one of the legs. What a terrible misstep to make!”
+
+Now, Helix was definitely mocking him. Shiv clenched his teeth and reminded himself that Helix was one of the good ones, or so he thought. Of all the orcs, Helix was committed to a single and utmost respectable path of racism: the eradication of all vampires.
+
+“Now, now, Hero Helix, do not distract our promising Biomancer.” Ekkihurst the Sculptor laughed like a kindly grandfather, but his mana blended in with Shiv, and slowly he guided him to fix a few critical flaws. “Pay attention here, now, Deathless! Do not over-extend and cause these tissues to mix. They cannot! You are causing a sort of tumorous cascade here, because the biology cannot comprehend this. Biology wishes to work! It is of the natural order. It is of evolution. You do not need to choke it so desperately. You simply need to tell the body a story that makes sense, to make the patterns align. Once you have that foundational structure established, the body will take care of itself. Here, move these parts out and place these parts in.”
+
+The Sculptor poured a series of minute mana constructs within Shiv's Aegis of Assimilation. Shiv paused his own biocrafting to marvel at Ekkihurst's skill. A second ago, the Sculptor had nothing. His mana field was barren. Now, in a heartbeat, with a single gesture and a wrinkle of a smile, he granted Shiv everything he needed, and each piece was pristine. They were like bricks to an ever-collapsing building Shiv was failing to build—a building that Shiv only ever got close to building because his undeserved Heroic-Tier Biomancy allowed him to dissect literal fleas into mana simulations. From there, he reconstructed a creature of his own, a creature that mimicked everything that came before, and even still he fell short repeatedly. He tried thousands of times that day. His Legion of Self skill, along with his newly improved Memorization, allowed him to take in information that would take a normal Adept months in mere hours.
+
+But even so, after a few thousand failures, it was still only with the support of Ekkihurst that Shiv managed to create his first, albeit flawed and terminally ill, form of life.
+
+The fly emerged from his mana hydra, shedding free of the bright red Biomancy to become a thing of actual chitin and biology.
+
+As he achieved this, Shiv couldn't help but pump a fist in triumph. It was somewhat muted by the fact Ekkihurst had to help him at the end, but even so, he'd come close. He'd built so much of the creature, gone through so much intellectual effort. For once, he'd truly made something instead of destroying it. For once, he created using his Biomancy rather than just battering with it.
+
+The insect flickered its wings for a moment, hovered in the air, and pirouetted around him, desperate to fly. Yet as thirty seconds passed, Shiv watched the fly spasm and then drop before it was carried away by the winds. He caught it using his Biomancy, dissected it in a burst of mana, and it returned to a simulated representation of its material self.
+
+“I need to make it last longer,” Shiv muttered.
+
+“You need to make it do a lot more than that, Insul,” Helix rebutted. “I get the idea, and it is a good one. Anchoring yourself to that creature and allowing yourself to jump across time to ambush the old skeleton is useful. Except, how are you going to make the fly actually approach Valor? Have you thought about that?”
+
+Shiv opened and closed his mouth several times, but words failed to emerge. Instead, he made a series of awkward noises as his brain collapsed in on itself in a fit of inward frustration. “Fuckkkkk…”
+
+“Ah, but this isn't a big problem either.” Ekkihurst shook his head and tutted. “Do not be so rigid! You're already trying to be creative, so keep your mind open some more. Animals are predictable. They have instincts. What do all living things want? To mate and eat. You simply need to give this fly, this thing so small of mind yet so defined by natural instinct, a reason to go toward Legend Thann! Or at least toward the rough area he resides in…”
+
+And so, Shiv blinked to himself as another idea came into form. Another step in his roundabout process of circumventing Valor's many protections.
+
+Once more, he triggered his new Snapshot skill, and from within a tome detailing the lifespan and habits of a common Yellowstone fly, he pulled up a section on pheromones and food…
+
+***
+
+Present…
+
+As Shiv prepared to close in, he didn't move himself. Instead, he remained where he was, hidden far away, and tossed out a being created by his Biomancy. A living fly, one he'd spent the better part of two days learning to shape it.
+
+Please work. Please don't fuck me right now. Please don't fuck me! Shiv prayed toward no god in particular as he placed a single, trembling finger behind his fly, beckoning it to fly free. Before he launched it far, however, he imprinted himself temporally upon the fly, so that he could follow it across time. This instance of contact would be carried from present into future if only the fly would get close to Valor at all.
+
+To that end, Shiv sprinkled a series of pheromones all over the place where Valor meditated. The location where his master resided hadn't changed for the past few days, and so he drenched the lakeside in a strong scent that was meant to lure the common Yellowstone fly. After an awkward moment where it hovered high and then drooped low, Shiv felt his heart plunge like a rock from the heavens. He thought it was about to die. He thought the biological instability was taking hold, despite him managing to elevate its lifespan to a full minute. Then it rose once more and began circling around a tree before flying further into the clearing. A long breath slipped out from Shiv, and he projected his gaze through the fly using his Atlas of the Flesh Scryer.
+
+Its progress was awkward and slow. It was dying. It knew it was dying, and so its movements were erratic. Its limbs twitched violently, but its wings, by some miracle or design, flew fine. It glided toward that point of food, toward the only thing it truly understood, as the rest of its internal biology suffered a fatal series of failures.
+
+Unseen scents lured it toward Valor, and Shiv saw his master's billowing robe as the fly slipped through threshold after threshold, passing by the attuned wards without ever incurring a response from Valor.
+
+Instead of dying over and over again trying to solve Valor's puzzle, Shiv decided to sidestep the node entirely, and it was thanks to Valor's own advice that he found himself here.
+
+In an instant, to Shiv's rising disbelief and pleasure, the fly drew close, and by pure chance alone, it fell from the air as its life escaped it. But it fell within the confines of Valor's concentric spells. Shiv triggered his anchor point and leapt across time. His finger resided upon the mat once more as his body circumvented space and the lore of dimensions altogether using the lore of time.
+
+In the next instant, Shiv planted a single finger on Valor's spine. He took no chances. He halted time. Everything went still, everything but himself and his Harbinger. A boundless field of brightest gold gleamed, rippling with enkindled flame and translucence, as Shiv made contact with his master.
+
+And he realized that this wasn't Valor at all.
+
+His hand slipped through a veil of quivering light, and he found himself pressed against a sculpture of bone and dancing shadow.
+
+This was a decoy.
+
+Shiv went rigid and flung himself back in time. He escaped from the forest. He abandoned his attempt. He blinked back to where he'd stood a moment prior—and found Valor right in front of him. “HOLY SHI—”
+
+Valor reached out and clasped Shiv’s shoulder before he could flee. “Fantastically done, Shiv.”
+
+The Creeping Void 198 > 200 (Skill Evolution Imminent)
+
+Aegis of Assimilation 177
+
+Atlas of the Flesh Scryer 169
+
+Tactics 23
+
+Scheming Bastard 39
+
+“Is it?” Shiv said. “I mean… I…” His head whipped toward the lake, and he found himself dry of words. “That… Your decoy still has—I didn’t actually—”
+
+“Yes, you technically didn’t manage to surprise me, but that is because I was monitoring you this entire time,” Valor explained. “Furthermore, it is not an expendable decoy in that my left hand is actually attached to the false body, hence the vitality. As such, you succeeded in the exercise regardless.”
+
+Shiv stared at Valor, struggling to accept he'd actually succeeded.
+
+“And you succeeded with remarkable ease, no less.” Valor sighed with satisfaction. “I am glad to see you took my words to heart immediately and didn’t just throw yourself at my wards to learn through death after death. A part of me expected and accepted that; that was the behavior the System engendered inside you—a set of behaviors I thought would take far more effort than expected to break. But you learned immediately! And you adapted wonderfully. A fly! Your Biomancy. Your Chronomancy. This is what I need you to commit to mind and spirit. Creativity and understanding. Of me. Of yourself. Of your environment. This is the true nature of Stealth—your ability to use the patterns of existence to mask your person. What you did just now would have surprised a great many foes possessed of Legendary Awareness, because you preyed upon their assumptions.”
+
+“I, uh, yeah,” Shiv mumbled. “Wait, where were you—Valor, were you… Were you behind me this whole time?”
+
+The ancient Legend patted Shiv on the shoulder. “Yes. Which brings me to the matter of your Awareness.”
+
+“It’s bad?”
+
+“No; quite good in fact. You’re just not using it very well. What you did with your Biomancy should lend itself to your Awareness as well. The eyes of a hawk; the senses of an animal or insect. The enchantments provided by your armor. But protection and detection are more than that. It will not be easy for you to sense or counter me, but with a swarm manifested around you as a first line of detection, you can mimic aspects of my wards as well using what magic you already possess.”
+
+Shiv considered that and winced. “Yeah, so—”
+
+“I know about how your fly can’t live for longer than a minute—I was observing you while Helix and Ekkihurst coached you aboard the Sky-Swallowing Carp.”
+
+“T-the entire time?” Shiv muttered.
+
+“Most of it,” Valor answered. “It’s not that hard to traverse the world with sufficient Dimensionality—another limitation we must address on your part. But for now, I think it is time that we push your Stealth over the edge to the next evolution. Is it at 200?”
+
+“Yeah—wait, how did you know—”
+
+“And your Intimidation hasn’t evolved yet either. Good. Then the new legend you gained from this exercise might be enough for the right skill to develop.”
+
+“What skill?” Shiv asked. “Valor, what are you planning?”
+
+“Nothing until I am certain you have the right one,” the lich replied simply. “If not, it will be time for you to use that Secondary Skill Reward from the Usurper-Narrator to gain an actual Stealth Skill to make up for this shortcoming.” Valor then pointed even deeper into the woods—and snapped his fingers. A splash of Dimensionality pulsed out, and a new presence appeared in the woods.
+
+Shiv used his Atlas to leap over into the organic entity he sensed, and he found himself gazing out from the eyes of a hyperventilating Frost Giant bound by chains of adamantine. Though the Jotun struggled hard, he grew no closer to escape, and he bellowed out for the Warrior, the Child, and the Crone to give him strength.
+
+“Now,” Valor continued. “You are to envelop that portion of the forest in darkness and terrify the Frost Giant. When you close, I will kill you to ensure your skill levels go over the edge, and a fusion takes place.”
+
+“I’m still not sure what skill you want me to get, Valor,” Shiv replied.
+
+“It will be a pleasant surprise, in case we do succeed. But, as a reward and a final part of this exercise, do humor me, my boy.”
+
+Though a bit of apprehension bit at Shiv, he shrugged and committed himself to the task.
+
+Stalking and terrifying a random Jotun was child’s play compared to sneaking up on Valor. Shiv didn’t even do anything fancy; he just activated his Creeping Void and stomped closer and closer to the Frost Giant. As he grew close, he laid eyes on the bound form of the blue-skinned behemoth. The Frost Giant twitched and struggled, trying to break free as he heard Shiv’s coming. More than that, he sniffed and gasped before his eyes came aglow with violet brilliance. Then, it was like the Creeping Void had no worth at all.
+
+The Frost Giant went from swinging his gaze around to locking onto Shiv in an instant—and the instant he did, the Jotun soiled himself.
+
+“I’m, uh, here to wear your skin,” Shiv greeted him.
+
+“O-oh, Warrior! Warrior! Give me s-s-strength!” The Jotun let out a shaky roar—which broke off into a screech as Shiv's body promptly exploded in a flash of red mana and splattered all over him.
+
+A half-second later, another one of Shiv’s bodies snapped across time to arrive next to Valor as the final levels for this endeavor arrived and a dense shroud of animated nothingness leaked out from Shiv’s evolving soul.
+
+Skill Evolution: The Creeping Void (Master) > Thalassophobifier (Heroic)
+
+Skill Evolution: Shape of Monstrosity (Master) > Incarnation of Dread (Heroic)
+
+Skill Fusion: Thalassophobifier (Heroic) - Incarnation of Dread (Heroic) > Trespasser Shaped of Dread and Null (Heroic) 203

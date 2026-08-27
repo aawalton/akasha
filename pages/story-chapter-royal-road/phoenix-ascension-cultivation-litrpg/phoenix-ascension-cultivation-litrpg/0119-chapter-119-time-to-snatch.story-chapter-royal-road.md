@@ -1,0 +1,173 @@
+---
+id: 64ef60b7-e8b2-593c-b303-32539989a37f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 119: Time to snatch"
+slug: 0119-chapter-119-time-to-snatch
+partOf: phoenix-ascension-cultivation-litrpg
+position: 119
+ownLength: 1712
+unit: words
+publishedAt: 2026-04-27
+link: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3326692/chapter-119-time-to-snatch"
+royalRoadId: "3326692"
+---
+
+"Achoo-" I let out a light sneeze as I chatted away with Xing Ya Chen. I'd decided that getting more information would be better than assuming things.
+
+Since my pills were finally selling, and there was a lot of advertising done to sell them, then a lot of people came to check them out.
+
+I didn't doubt they were incerdibly useful, but even that seemed a little exagerated to me. After all, just how valuable come some pills be?
+
+Very, as it turned out since pillls that could replicate the effects of mine to such a perfection were rare. Apparently they were unique in the world and few could ever hope to even gaze upon them.
+
+Which was why I was surprised they were selling the pills in the Hu village to begin with. As it turned out, people at the headquarters decided that it would be a good idea to financially develop the area, and those pills were the perfect way to achieve that.
+
+I wasn't going to complain, since it didn't really concern me. However, the amount of people present were a bit of a cause for worry, since they could join the fight for the Moon Bloom at anytime.
+
+Hopefully that wouldn't be the case.
+
+With those things cleared up, I thanked Xing Ya Chen and headed out. Since it was almost time, I had to get myself ready.
+
+Foregoing meeting the siblings, Shang Hue, and Yo Na, I flew straight toward my cave.
+
+Thankfully, it was time. There was no stray human or cat around, so I could seal it up and medidate for a little while.
+
+It was important for me to be in perfect condition, for more effective snatching.
+
+With the cave sealead, I took a deep breath, and...
+
+[Skill: Meditation(Novice) has been acquired.]
+
+***
+
+Meng Mao sat on top of a cliff watching over the Moon Bloom. It was yet to be ready for plucking, but he had to say, it was an interesting flower.
+
+He had no idea why the Phoenix or the local forest lord wanted it, but it wasn't his place to ask. Instead, he would watch and jump in if she needed help.
+
+Somehow, he doubted that would be necessary, but regardless, he'd be there. And he also wanted to enjoy the show.
+
+"Did you satisfiy your curiosity?" He asked as an old man climbed up to sit behind him.
+
+It was Ming Laotian, one of the best diviners of Emerald Grotta City, and he'd come there to check out the pills as well.
+
+"I have. The existence you spoke of is indeed mysterious. Just who is she?"
+
+"I don't know, and even if I did, I wouldn't tell you. I know we're still too weak to think about such things, but karma is a fickle thing."
+
+Ming Laotian frowned and squinted, looking at him. "Is that why you're here still instead of looking over Golden Arch City?"
+
+"It's in good hands, and there's nothing major going on. Might as well enjoy myself while I can, right?"
+
+"Mhm." The old man nodded. "So this has nothing to do with your two sons, right?"
+
+Meng Mao flinched upon their mention, but he collected himself. "It's better for some things to remain unspoken. I have plenty more children, two useless wastrels dying is barely worth my attention."
+
+"Right." Ming Laotian walked up and looked over the cliff, enjoying the view of the Hu Village. He stared up toward the peak, sensing the Moon Bloom despite the lack of line of sight.
+
+"Definetely. nothing to do with that  lady, right?"
+
+"Definetely."
+
+Meng Mao had no intention of telling Ming Laotian more than that. Just like him, he was a cunning old man, and the less he knew, the better.
+
+After all, a talking Phoenix chick willing to cooperate with humans instead of killing everything in sight was something that had never existed before. He was determined to keep her existence a guarded secret that only he knew.
+
+"I also told him."
+
+Meng Mao sighed. "Of course you did."
+
+***
+
+Shang Hue's eyes flew open as she finished a cultivation session.  She's had a fight with her father once again, as she mentioned the lack of killer moves once again.
+
+There was nothing she could do. Each time she tried something new, the technique would explode in her face. When fighting those assassins, she'd let a lot of them go.
+
+She wasn't able to take care of all of them, which left Shang Hue incredibly distressed. If she had a proper sword technique, then she would have been able to take care of them more efficiently.
+
+The worst part of it all was that most were archers, so she'd only 'won' by a stroke of luck.
+
+However, she wasn't willing to accept such a win. She'd destroyed enough swords to bankrupt a small clan, and that was because she'd tried fighting when she wasn't ready yet.
+
+Her father told her as much, and that fighting before the technique could fully bloom was far too foolish.
+
+But that didn't make sense to Shang Hue. How did their clan rise to such prominence if they lacked any true killer moves?  The younger members of the clan had guiards following them everywhere they went.
+
+Shang Hue had only managed to get rid of them after a painful argument with her father, after she promised that she'd be careful. Now that all went down the drain.
+
+After finding out that she'd challanged a somewhat renowned group of assassin, her father decided to punish her.
+
+And that was why she'd been locked in closed door cultivation for the last few days. She wasn't even getting any water, which was an unjuist punishment. At least she thought so.
+
+It was when she was preparing to enter another boring sleeping session when the door opened, and the large shadow of a man cast over the room.
+
+Her father, a big man with chisled features and a muscular body, entered the room with a restrained smile on his face. The sword hanging by his waist thudded lightly against his legs, though it made no sound.
+
+Shang Hue recognised the technique. It wasn't something anybody could just glimpse upon, but her father spoke to her about it.
+
+It was the art of hiding within plain sight. To the untrained eye, his hip was empty, and they would only notice the deadly sword until it was too late.
+
+That was also a way for her clan to circumvent the weakness of their sword technique, which would probably not have been necessary, had it had a killer move to begin with.
+
+But that wasn't why her father had come to visit her, most likely.
+
+*Actually, why had he come?
+
+Without knowing the answer, Shang Hue stood up and bowed respectfully.
+
+"Shang Hue, have you reflected upon your actions?" He asked,  his voice booming.
+
+"Yes, father."
+
+"Mhm, good." The Crimson Butterfly said, but he didn't really believe her.
+
+He gave his daughter a good look over, and smiled. "I sense that something big is going to happen soon."
+
+The way he said it made Shang Hue worry. Her father wasn't some sort of pushover, but an extremely strong cultivator. He was someone that few people in the entire region could stand above.
+
+"What are you talking about, father?"
+
+"The tides are changing, and I can't predict which way they'll crash. The only thing we can do is go with the flow."
+
+Shang Hue remained confused. Since when had her father been a philosphe? Even if he were, that wasn't something he could just know, unless.
+
+As realisation dawned on her, she saw her father smile. "I came in contact with someone from the (clan). He'd gone to the Hu village because of all the pill fuss. There, he met the person that concoted those pills, and do know what he'd found out?"
+
+Shang Hue nodded, her eyes shinning with expectation.
+
+"Nothing."
+
+"What? How-"
+
+"He couldn't divine information about her, and even lost one of his prised mirrors. So whoever that woman  is, she'll make waves wherever she goes."
+
+Thinking of a woman, only one figure appeared in Shang Hue's mind. Reflecting upon it a little, it was painfully obvious that the woman she'd offered food, got drunk with, and saved the children... of? Shang Hue wasn't really sure what those two children had to do with anything.
+
+But it was painfully obvious that she was someone important, and now she found out just how important she was.
+
+"And why are you telling me this, father?"
+
+"Heh." He smirked and went inside the room, not blocking the door anymore. "During wild times, it's only right to act accordingly, right?"
+
+The man walked closer and a pink petal appeared out of nowhere, floaoting about him. He picked it from the air and grabbed his daughter's hands, placing it within.
+
+"Take this, it should protect you well enough from the average bastard who's courting death. If need be, you can consume it to unleash a strong attack. It's my undertstanding from cultivating all my life, so use it well."
+
+"Father, you-" Shang Hue said, and her father winked. "Go on then, and may the Heavens protect you. I can't keep you like a bird in a cage forever. Spread your wings and make me proud."
+
+"I- Father but this-" Shang Hue stuttered for a few seconds before finally finding her words.
+
+She looked resolutely at her father and clutched the petal in her fist. "I will."
+
+"Go then."
+
+***
+
+After such a good meditation session, I was ready to face the world. With a peak Qi Condensation cultivation level, and level thirty, I was feeling confident.
+
+My core hadn't advanced an awful lot, but that was just another thing I had to take care of.
+
+Unsealing the cave, I smiled to myself upon seeing that night had fallen. Looking at the moon, it was naught but a few hours away from shinning right upon the Moon Bloom.
+
+Just as I got out, I saw more than a few dozen figures flying about, all stalking the damned thing like it was a rare treasure.
+
+Hiding myself with all three stealth skills, it was time for the game of snatching to begin.
