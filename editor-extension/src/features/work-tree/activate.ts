@@ -219,8 +219,8 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
 	 * seats stand is answered by `seatDirs()` without asking the harness anything, so there is nothing
 	 * to wait for, and `repaint` holds off by itself until there is a tree to colour.
 	 *
-	 * THE SAME TWO DIRECTORIES AND THE SAME PATTERN THE TAB STRIP AND THE AGENTS PANEL WATCH, taken
-	 * from `seat/turn-color.ts` so that where a seat's turn is written is spelled once for all three.
+	 * THE SAME DIRECTORY AND THE SAME PATTERN THE TAB STRIP AND THE AGENTS PANEL WATCH, taken from
+	 * `seat/turn-color.ts` so that where a seat's turn is written is spelled once for all three.
 	 */
 	context.subscriptions.push(
 		settledSeats,

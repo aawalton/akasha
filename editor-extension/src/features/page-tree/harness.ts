@@ -192,5 +192,5 @@ export async function readPageTree(fetcher: Fetcher = fetch): Promise<PageTree> 
 		propertyTypes: at(PROPERTY_TYPE_QUERY),
 		domains: at(DOMAIN_QUERY),
 	};
-	return assemblePageTree(answers, instructionsRoot());
+	return assemblePageTree(answers, akashaRoot());
 }

@@ -19,10 +19,10 @@
  * merely quiet.
  */
 import * as fs from 'node:fs';
-import * as os from 'node:os';
 import * as path from 'node:path';
 import { z } from 'zod';
 import { seatNameOf, frontmatterValue } from '../../seat/seat-page';
+import { seatPagesDir } from '../../seat/turn-color';
 
 export interface SeatTranscript {
 	readonly agentId: string;
@@ -37,11 +37,6 @@ export interface SubagentTranscript {
 	readonly agentType: string | null;
 	readonly description: string | null;
 	readonly filePath: string;
-}
-
-export function seatPagesDir(): string {
-	const akashaRoot = process.env.AKASHA_ROOT ?? path.join(os.homedir(), 'repos', 'akasha');
-	return path.join(akashaRoot, 'agent', 'seat');
 }
 
 function seatTranscriptAt(filePath: string): SeatTranscript | null {

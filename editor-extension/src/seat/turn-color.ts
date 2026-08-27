@@ -81,7 +81,19 @@ const AKASHA_SEAT_DIR = path.join('agent', 'seat');
  * was first imported.
  */
 export function seatDirs(): readonly string[] {
-	return [repositoryPath(path.join(akashaRoot(), AKASHA_SEAT_DIR))];
+	return [repositoryPath(seatPagesDir())];
+}
+
+/**
+ * The one directory seat pages stand in, for a caller that wants to read them rather than watch.
+ *
+ * SPELLED HERE AND NOWHERE ELSE. A reader that builds this path itself is a second answer to
+ * where the seats are, free to go on naming the old place after a move — and a reader pointed at
+ * a directory holding no seat reports no seats, which is the same shape as a workstation with
+ * none running.
+ */
+export function seatPagesDir(): string {
+	return path.join(akashaRoot(), AKASHA_SEAT_DIR);
 }
 
 /**

@@ -115,25 +115,15 @@ export function verbPath(verb: string): string {
 }
 
 /**
- * The turn-colour verb's file, under whichever of its two spellings stands in the checkout.
+ * The turn-colour verb's file.
  *
- * WHY THE NAME IS RESOLVED RATHER THAN SPELLED. A shipped build reads the payload it was built
- * against, and this one is built against a file name the instructions repository is free to change:
- * the verb is `agent-turn-colours.ts` today and `agent-turn-colors.ts` once the rename lands. A
- * build holding only the old spelling would `execFile` a path that had gone, fail with ENOENT, and
- * take the colour off every tab in the strip and every subagent row on the tree — the same outage
- * this file's header records, arriving a second time from a different direction. Looking for the
- * new spelling first and falling back to the old means the rename needs nothing redeployed here,
- * and the fallback goes when the old file does.
- *
- * THE OLD SPELLING IS ALSO THE ANSWER WHERE NEITHER FILE STANDS. A checkout holding neither is a
- * checkout this cannot reach at all, and that is the caller's to report, in the place on screen it
- * already reports a harness it cannot reach — naming the path it looked for rather than a choice
- * made here.
+ * SPELLED ONCE, HERE, so the two surfaces that ask it — the tab strip and the subagent rows —
+ * name one file. A checkout not holding it is a checkout this cannot reach, which the caller
+ * reports in the place on screen it already reports an unreachable harness, naming the path it
+ * looked for.
  */
 export function turnColoursVerbPath(): string {
-	const renamed = verbPath('agent-turn-colors');
-	return fs.existsSync(renamed) ? renamed : verbPath('agent-turn-colours');
+	return verbPath('agent-turn-colors');
 }
 
 /** Where `bun` is installed for this user. A list so a second location is a line, not a rewrite. */
