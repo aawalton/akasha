@@ -4,7 +4,7 @@ import { basename, dirname, join } from "node:path"
 import { z } from "zod"
 import { ADDONS_REL_ROOT, listAllAddons } from "./index"
 
-const repoRoot = join(import.meta.dir, "..", "..", "..", "..", "..", "..")
+const repoRoot = join(import.meta.dir, "..", "..", "..")
 
 const addonNameSchema = z.object({ name: z.string().optional() }).passthrough()
 
@@ -36,7 +36,7 @@ function findNestedAddonDirs(): readonly string[] {
       walk(join(dir, entry.name))
     }
   }
-  walk(join(repoRoot, "packages/temper"))
+  walk(join(repoRoot, "temper"))
   return out
 }
 
@@ -99,22 +99,22 @@ describe("listAllAddons workspace closure", () => {
     expect(characters).toBeDefined()
     if (characters === undefined) return
     expect(characters.workspaceClosure).toContain(
-      "packages/temper/game/characters/skills/morphs/addon"
+      "temper/game-characters-skills-morphs-addon"
     )
     expect(characters.workspaceClosure).toContain(
-      "packages/temper/game/characters/skills/morphs/core"
+      "temper/game-characters-skills-morphs-core"
     )
-    expect(characters.workspaceClosure).toContain("packages/temper/player/completion")
-    expect(characters.workspaceClosure).toContain("packages/temper/shared/foundation-misc/dungeons")
-    expect(characters.workspaceClosure).toContain("packages/temper/shared/interface/hud/window")
+    expect(characters.workspaceClosure).toContain("temper/player-completion")
+    expect(characters.workspaceClosure).toContain("temper/shared-foundation-misc-dungeons")
+    expect(characters.workspaceClosure).toContain("temper/shared-interface-hud-window")
   })
 
   test("TemperInventory closure includes its addon-side deps", () => {
     const inventory = addons.find((a) => a.canonicalName === "TemperInventory")
     expect(inventory).toBeDefined()
     if (inventory === undefined) return
-    expect(inventory.workspaceClosure).toContain("packages/temper/game/items/addon")
-    expect(inventory.workspaceClosure).toContain("packages/temper/game/items/core")
-    expect(inventory.workspaceClosure).toContain("packages/temper/shared/interface/hud/window")
+    expect(inventory.workspaceClosure).toContain("temper/game-items-addon")
+    expect(inventory.workspaceClosure).toContain("temper/game-items-core")
+    expect(inventory.workspaceClosure).toContain("temper/shared-interface-hud-window")
   })
 })
