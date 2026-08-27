@@ -1,5 +1,6 @@
 ---
 id: 98711f68-fdfc-5339-ae2b-64f1a213238b
+slug: exercise-selection-unbuilt
 page-type-slug: finding
 title: "Exercise selection unbuilt"
 domain-slug: domain/fitness

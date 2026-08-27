@@ -1,5 +1,6 @@
 ---
 id: 0d7a1e3e-949c-52e0-bb75-0d8cdae325c3
+slug: prefix-holes-render-unalike
 page-type-slug: finding
 title: "Prefix holes render unalike"
 domain-slug: domain/global

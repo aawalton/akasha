@@ -1,5 +1,6 @@
 ---
 id: a963339a-f363-5f02-850d-405acc2c6080
+slug: browser-test-fixture-reads-alans-game
 page-type-slug: finding
 title: "Browser test fixture reads Alans game"
 domain-slug: page-type/idle-game

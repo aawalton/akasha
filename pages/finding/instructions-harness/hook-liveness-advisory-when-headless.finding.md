@@ -1,5 +1,6 @@
 ---
 id: 202792f8-ef3e-5f51-99c6-d04ac7b9930d
+slug: hook-liveness-advisory-when-headless
 page-type-slug: finding
 title: "Hook liveness advisory when headless"
 domain-slug: domain/global

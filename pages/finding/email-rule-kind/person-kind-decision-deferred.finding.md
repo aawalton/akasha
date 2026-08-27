@@ -1,5 +1,6 @@
 ---
 id: 4c34b61a-fb0e-52f6-a53c-ef91bac3e57e
+slug: person-kind-decision-deferred
 page-type-slug: finding
 title: "Person kind decision deferred"
 domain-slug: domain/global

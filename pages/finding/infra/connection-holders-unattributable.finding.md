@@ -1,5 +1,6 @@
 ---
 id: 06efdb7c-31e8-5473-859e-7efa1bedabe4
+slug: connection-holders-unattributable
 page-type-slug: finding
 title: "Connection holders unattributable"
 domain-slug: domain/global

@@ -1,5 +1,6 @@
 ---
 id: 44a3014a-602e-5985-b090-d41af68aeab6
+slug: second-review-same-day
 page-type-slug: finding
 title: "Second review same day"
 domain-slug: domain/global

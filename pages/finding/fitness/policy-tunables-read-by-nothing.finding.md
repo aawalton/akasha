@@ -1,5 +1,6 @@
 ---
 id: 4216716a-dcba-5903-be4c-bcb663b1a599
+slug: policy-tunables-read-by-nothing
 page-type-slug: finding
 title: "Policy tunables read by nothing"
 domain-slug: domain/fitness

@@ -1,5 +1,6 @@
 ---
 id: 2a42495e-8270-51b6-b10d-4702a58c875b
+slug: electric-shape-stopped-delivering
 page-type-slug: finding
 title: "Electric shape stopped delivering"
 domain-slug: domain/global

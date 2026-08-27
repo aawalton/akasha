@@ -1,5 +1,6 @@
 ---
 id: e2a1b1de-9871-5b60-a352-c1a6faedcca9
+slug: intent-promised-never-written
 page-type-slug: finding
 title: "Intent promised never written"
 domain-slug: domain/design-system

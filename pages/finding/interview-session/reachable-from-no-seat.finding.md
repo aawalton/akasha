@@ -1,5 +1,6 @@
 ---
 id: 12fa9b94-258c-5bb6-b31e-1fc1ef2e1537
+slug: reachable-from-no-seat
 page-type-slug: finding
 title: "Reachable from no seat"
 domain-slug: domain/interview-session

@@ -1,5 +1,6 @@
 ---
 id: ead91795-7a45-5ba7-b74a-a88c3f467bd6
+slug: domain-binds-nothing
 page-type-slug: finding
 title: "Domain binds nothing"
 domain-slug: domain/fitness

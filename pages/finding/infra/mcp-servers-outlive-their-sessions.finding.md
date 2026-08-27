@@ -1,5 +1,6 @@
 ---
 id: 1b13638b-72ab-5ec7-a944-1a58fb712fbd
+slug: mcp-servers-outlive-their-sessions
 page-type-slug: finding
 title: "MCP servers outlive their sessions"
 domain-slug: domain/global

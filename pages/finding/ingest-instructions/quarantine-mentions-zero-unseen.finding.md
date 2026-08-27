@@ -1,5 +1,6 @@
 ---
 id: 05796cfc-b874-504b-af44-9c146bd41733
+slug: quarantine-mentions-zero-unseen
 page-type-slug: finding
 title: "Quarantine mentions zero unseen"
 domain-slug: domain/global

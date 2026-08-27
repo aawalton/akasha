@@ -1,5 +1,6 @@
 ---
 id: 274ccb82-88b7-5c59-a659-bc7fc63aac49
+slug: control-left-in-the-history
 page-type-slug: finding
 title: "Control left in the history"
 domain-slug: domain/instrument

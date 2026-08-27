@@ -1,5 +1,6 @@
 ---
 id: 319a3461-d385-58e1-ae3a-095dde1bc664
+slug: intent-untestable
 page-type-slug: finding
 title: "Intent untestable"
 domain-slug: domain/global

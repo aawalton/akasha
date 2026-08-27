@@ -1,5 +1,6 @@
 ---
 id: 00d547a4-daf8-5557-be54-7506367541c5
+slug: read-verb-redirect-unrefused
 page-type-slug: finding
 title: "Read verb redirect unrefused"
 domain-slug: domain/global

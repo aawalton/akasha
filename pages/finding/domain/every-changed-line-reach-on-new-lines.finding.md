@@ -1,5 +1,6 @@
 ---
 id: 6d083dcd-658f-5c8c-a19c-f21f5df4811d
+slug: every-changed-line-reach-on-new-lines
 page-type-slug: finding
 title: "Every changed line reach on new lines"
 domain-slug: page-type/domain

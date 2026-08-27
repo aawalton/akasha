@@ -1,5 +1,6 @@
 ---
 id: aafd846a-7df4-5757-8500-7ffed70d9426
+slug: checkability-reaches-no-code
 page-type-slug: finding
 title: "Checkability reaches no code"
 domain-slug: domain/global

@@ -1,5 +1,6 @@
 ---
 id: 78710025-edc8-5394-9437-08de5de9d74e
+slug: gloss-survives-the-sibling-cut
 page-type-slug: finding
 title: "Gloss survives the sibling cut"
 domain-slug: task/guided-close-read

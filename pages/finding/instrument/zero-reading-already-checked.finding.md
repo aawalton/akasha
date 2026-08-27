@@ -1,5 +1,6 @@
 ---
 id: f9b902c6-a165-52fa-b642-b9612a1ad5f5
+slug: zero-reading-already-checked
 page-type-slug: finding
 title: "Zero reading already checked"
 domain-slug: domain/instrument

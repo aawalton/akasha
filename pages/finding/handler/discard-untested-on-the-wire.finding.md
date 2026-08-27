@@ -1,5 +1,6 @@
 ---
 id: 1a5df28b-e2ad-5c9d-a974-58bb655aaf1c
+slug: discard-untested-on-the-wire
 page-type-slug: finding
 title: "Discard untested on the wire"
 domain-slug: role/handler

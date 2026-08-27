@@ -1,5 +1,6 @@
 ---
 id: dc02d2fa-2eb0-52b1-9372-be8aeb8e2885
+slug: four-lines-shared-no-original
 page-type-slug: finding
 title: "Four lines shared no original"
 domain-slug: task/guided-close-read

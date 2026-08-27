@@ -1,5 +1,6 @@
 ---
 id: 7a80a6e5-a3b9-5b6a-8b74-1258400ab87e
+slug: review-record-day-unstated
 page-type-slug: finding
 title: "Review record day unstated"
 domain-slug: page-type/domain

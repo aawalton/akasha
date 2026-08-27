@@ -1,5 +1,6 @@
 ---
 id: cb5dbd15-49ef-5a4e-9e06-953f43113fa3
+slug: binding-id-prefix-unstated
 page-type-slug: finding
 title: "Binding ID prefix unstated"
 domain-slug: domain/design-system

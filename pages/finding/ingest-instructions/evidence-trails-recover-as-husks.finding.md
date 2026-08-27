@@ -1,5 +1,6 @@
 ---
 id: 8c2a2e97-4e99-51c1-9a87-32cf74d8b993
+slug: evidence-trails-recover-as-husks
 page-type-slug: finding
 title: "Evidence trails recover as husks"
 domain-slug: domain/global

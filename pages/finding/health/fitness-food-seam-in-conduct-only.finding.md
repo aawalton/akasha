@@ -1,5 +1,6 @@
 ---
 id: 2b92c122-4704-5bd2-bb48-07fd9de81276
+slug: fitness-food-seam-in-conduct-only
 page-type-slug: finding
 title: "Fitness food seam in conduct only"
 domain-slug: value/health

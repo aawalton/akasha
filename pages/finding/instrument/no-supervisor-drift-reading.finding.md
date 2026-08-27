@@ -1,5 +1,6 @@
 ---
 id: 9bf94602-de24-5880-84e1-b40611a0456c
+slug: no-supervisor-drift-reading
 page-type-slug: finding
 title: "No supervisor drift reading"
 domain-slug: domain/instrument

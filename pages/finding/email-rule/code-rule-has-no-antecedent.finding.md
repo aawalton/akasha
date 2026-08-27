@@ -1,5 +1,6 @@
 ---
 id: 65503999-51b9-543d-a71d-6acf52bccf19
+slug: code-rule-has-no-antecedent
 page-type-slug: finding
 title: "Code rule has no antecedent"
 domain-slug: rules-engine-rule-set/email-rule

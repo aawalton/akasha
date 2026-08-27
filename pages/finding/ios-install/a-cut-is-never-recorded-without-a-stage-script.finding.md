@@ -1,5 +1,6 @@
 ---
 id: 0518ae10-9811-5424-8444-628934bc101c
+slug: a-cut-is-never-recorded-without-a-stage-script
 page-type-slug: finding
 title: "A cut is never recorded without a stage script"
 domain-slug: domain/ios-install

@@ -1,5 +1,6 @@
 ---
 id: f033cdac-f04c-52a4-afd0-e09c866a5f96
+slug: worktree-landing-lock
 page-type-slug: finding
 title: "Worktree landing lock"
 domain-slug: domain/global

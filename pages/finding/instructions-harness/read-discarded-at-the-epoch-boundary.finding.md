@@ -1,5 +1,6 @@
 ---
 id: 97c2b35e-bb1f-5ed9-8c4d-fc9a8e3b1bca
+slug: read-discarded-at-the-epoch-boundary
 page-type-slug: finding
 title: "Read discarded at the epoch boundary"
 domain-slug: domain/global

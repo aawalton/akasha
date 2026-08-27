@@ -1,5 +1,6 @@
 ---
 id: d678d839-c9b9-514f-91d8-c96ffd8b5a7f
+slug: constitutive-design-entries
 page-type-slug: finding
 title: "Constitutive design entries"
 domain-slug: page-body-section/domain-design

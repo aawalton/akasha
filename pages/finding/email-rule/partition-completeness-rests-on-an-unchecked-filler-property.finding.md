@@ -1,5 +1,6 @@
 ---
 id: e9327def-cb0b-58de-813a-85de5785f1be
+slug: partition-completeness-rests-on-an-unchecked-filler-property
 page-type-slug: finding
 title: "Partition completeness rests on an unchecked filler property"
 domain-slug: rules-engine-rule-set/email-rule

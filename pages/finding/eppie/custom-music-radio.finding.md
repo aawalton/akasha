@@ -1,5 +1,6 @@
 ---
 id: 4fa40d9c-358f-5d79-9c35-b805777c1c86
+slug: custom-music-radio
 page-type-slug: finding
 title: "custom music radio"
 domain-slug: persona/eppie

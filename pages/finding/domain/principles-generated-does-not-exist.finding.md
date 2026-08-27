@@ -1,5 +1,6 @@
 ---
 id: 6a457e30-7daf-5d16-9367-d7d4f8bbe4fb
+slug: principles-generated-does-not-exist
 page-type-slug: finding
 title: "Principles generated does not exist"
 domain-slug: page-type/domain

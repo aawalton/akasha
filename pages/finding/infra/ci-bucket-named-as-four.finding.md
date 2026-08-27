@@ -1,5 +1,6 @@
 ---
 id: f4d30529-9267-5573-ad31-1f13141c6656
+slug: ci-bucket-named-as-four
 page-type-slug: finding
 title: "CI bucket named as four"
 domain-slug: domain/global

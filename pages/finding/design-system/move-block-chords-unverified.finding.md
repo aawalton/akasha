@@ -1,5 +1,6 @@
 ---
 id: a13a0eb8-4d8f-53fb-a91f-6cee2a6ebcb0
+slug: move-block-chords-unverified
 page-type-slug: finding
 title: "Move block chords unverified"
 domain-slug: domain/design-system

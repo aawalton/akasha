@@ -1,5 +1,6 @@
 ---
 id: 591f73a5-ab25-576a-9133-ba62307fb80c
+slug: ddns-cloudflare-calls-untimed
 page-type-slug: finding
 title: "Ddns cloudflare calls untimed"
 domain-slug: domain/global

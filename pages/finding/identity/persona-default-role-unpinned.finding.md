@@ -1,5 +1,6 @@
 ---
 id: ff0b29ab-7e25-5687-9d6b-2a0aad4b0f0c
+slug: persona-default-role-unpinned
 page-type-slug: finding
 title: "Persona default role unpinned"
 domain-slug: barred-meaning/identity

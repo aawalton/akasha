@@ -1,5 +1,6 @@
 ---
 id: 8e85200e-f1aa-521b-a4d0-bea5004745b0
+slug: unread-summary-drops-the-output
 page-type-slug: finding
 title: "Unread summary drops the output"
 domain-slug: domain/global

@@ -1,5 +1,6 @@
 ---
 id: 3da44001-ed26-5c49-8159-9640e3c961b0
+slug: seat-reached-by-no-governor
 page-type-slug: finding
 title: "Seat reached by no governor"
 domain-slug: domain/global

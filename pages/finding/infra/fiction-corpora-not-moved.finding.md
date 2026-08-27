@@ -1,5 +1,6 @@
 ---
 id: d2699eb8-8663-5d05-998f-3827feca9a33
+slug: fiction-corpora-not-moved
 page-type-slug: finding
 title: "Fiction corpora not moved"
 domain-slug: domain/global

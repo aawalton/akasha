@@ -1,5 +1,6 @@
 ---
 id: 36995950-aa57-5e49-9f9a-4d05311d7344
+slug: zimage-vram-arbitration-missing
 page-type-slug: finding
 title: "Zimage vram arbitration missing"
 domain-slug: domain/global

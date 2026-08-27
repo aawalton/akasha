@@ -1,5 +1,6 @@
 ---
 id: e45b46de-a11d-536c-ac7d-9b2df28b452d
+slug: cooked-tier-never-recorded
 page-type-slug: finding
 title: "Cooked tier never recorded"
 domain-slug: domain/global

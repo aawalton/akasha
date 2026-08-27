@@ -1,5 +1,6 @@
 ---
 id: 8fd7ddb2-91f3-5515-aa55-ebb6a374712f
+slug: stamp-survives-a-small-rewrite
 page-type-slug: finding
 title: "Stamp survives a small rewrite"
 domain-slug: domain/global

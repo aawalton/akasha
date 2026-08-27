@@ -1,5 +1,6 @@
 ---
 id: bdf8291f-00d9-5011-98d7-fd3bf1e70e45
+slug: governs-under-reports-from-a-subdirectory
 page-type-slug: finding
 title: "Governs under reports from a subdirectory"
 domain-slug: domain/global

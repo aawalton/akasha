@@ -1,5 +1,6 @@
 ---
 id: 1b508f96-e187-526b-98cf-b2178f47840b
+slug: rehome-finding-cannot-reach-a-finding
 page-type-slug: finding
 title: "Rehome finding cannot reach a finding"
 domain-slug: domain/global

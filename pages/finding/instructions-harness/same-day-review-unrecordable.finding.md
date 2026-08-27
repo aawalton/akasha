@@ -1,5 +1,6 @@
 ---
 id: c8540055-1adb-530f-92dc-043fa1047671
+slug: same-day-review-unrecordable
 page-type-slug: finding
 title: "Same day review unrecordable"
 domain-slug: domain/global

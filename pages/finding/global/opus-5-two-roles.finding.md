@@ -1,5 +1,6 @@
 ---
 id: 0141ef68-aae6-5fa6-aaea-20d1c939f4a9
+slug: opus-5-two-roles
 page-type-slug: finding
 title: "Opus 5 two roles"
 domain-slug: domain/global

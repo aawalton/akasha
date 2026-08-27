@@ -1,5 +1,6 @@
 ---
 id: 0010afbc-458d-5d14-a5df-f1f8fa2bc80d
+slug: weight-has-no-series
 page-type-slug: finding
 title: "Weight has no series"
 domain-slug: domain/fitness

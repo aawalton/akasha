@@ -1,5 +1,6 @@
 ---
 id: 09ed3b6f-6a47-589b-beb3-f3bb11dff493
+slug: wallpaper-config-untracked
 page-type-slug: finding
 title: "Wallpaper config untracked"
 domain-slug: domain/dynamic-desktop-wallpaper

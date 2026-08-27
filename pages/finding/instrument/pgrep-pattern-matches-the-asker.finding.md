@@ -1,5 +1,6 @@
 ---
 id: 7cc64f7f-bd88-5336-89f1-cc25d2689451
+slug: pgrep-pattern-matches-the-asker
 page-type-slug: finding
 title: "Pgrep pattern matches the asker"
 domain-slug: domain/instrument

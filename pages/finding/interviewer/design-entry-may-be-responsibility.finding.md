@@ -1,5 +1,6 @@
 ---
 id: 419d52ae-571d-5d40-9764-4f41e239a030
+slug: design-entry-may-be-responsibility
 page-type-slug: finding
 title: "Design entry may be responsibility"
 domain-slug: role/interviewer

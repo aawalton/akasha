@@ -1,5 +1,6 @@
 ---
 id: fda1b391-42d9-567f-aad4-9de9ce4ba6a4
+slug: workstation-repositories-undeclared
 page-type-slug: finding
 title: "Workstation repositories undeclared"
 domain-slug: domain/global

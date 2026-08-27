@@ -1,5 +1,6 @@
 ---
 id: ff63be83-c331-5b66-aa19-ec3d93687d12
+slug: mirror-probe-credential-split
 page-type-slug: finding
 title: "Mirror probe credential split"
 domain-slug: domain/global

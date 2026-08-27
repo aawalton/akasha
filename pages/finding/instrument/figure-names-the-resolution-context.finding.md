@@ -1,5 +1,6 @@
 ---
 id: b488d027-a2b7-52e4-9182-6a19c130b96d
+slug: figure-names-the-resolution-context
 page-type-slug: finding
 title: "Figure names the resolution context"
 domain-slug: domain/instrument

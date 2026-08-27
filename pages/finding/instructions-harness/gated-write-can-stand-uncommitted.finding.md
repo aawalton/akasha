@@ -1,5 +1,6 @@
 ---
 id: 1e811373-d006-59ce-98b5-a6aeef3842b1
+slug: gated-write-can-stand-uncommitted
 page-type-slug: finding
 title: "Gated write can stand uncommitted"
 domain-slug: domain/global

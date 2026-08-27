@@ -1,5 +1,6 @@
 ---
 id: 8aed4dfa-7a0e-5666-aed3-cb54af8f0dae
+slug: mandatory-reread-cannot-use-the-diffing-verb
 page-type-slug: finding
 title: "Mandatory reread cannot use the diffing verb"
 domain-slug: domain/global

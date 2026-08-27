@@ -1,5 +1,6 @@
 ---
 id: 81fb4e35-a596-5f57-b0fd-a52ea035b7d6
+slug: read-failure-reads-healthy
 page-type-slug: finding
 title: "Read failure reads healthy"
 domain-slug: domain/instrument

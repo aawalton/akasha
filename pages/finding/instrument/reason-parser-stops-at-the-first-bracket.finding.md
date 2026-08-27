@@ -1,5 +1,6 @@
 ---
 id: 266eb2a1-b99a-5dc6-84ce-d16a60eb03c3
+slug: reason-parser-stops-at-the-first-bracket
 page-type-slug: finding
 title: "Reason parser stops at the first bracket"
 domain-slug: domain/instrument

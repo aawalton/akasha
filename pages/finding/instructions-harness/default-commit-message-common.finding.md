@@ -1,5 +1,6 @@
 ---
 id: 8b692900-ba2e-58ce-805e-dc16e49499d1
+slug: default-commit-message-common
 page-type-slug: finding
 title: "Default commit message common"
 domain-slug: domain/global

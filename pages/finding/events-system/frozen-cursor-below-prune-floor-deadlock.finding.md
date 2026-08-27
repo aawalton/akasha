@@ -1,5 +1,6 @@
 ---
 id: e6955819-2f02-5437-bcbe-7f3478042d74
+slug: frozen-cursor-below-prune-floor-deadlock
 page-type-slug: finding
 title: "Frozen cursor below prune floor deadlock"
 domain-slug: domain/global

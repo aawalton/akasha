@@ -1,5 +1,6 @@
 ---
 id: ef6be532-090a-51b5-9908-44164d410190
+slug: sweep-skips-on-any-dirty-file
 page-type-slug: finding
 title: "Sweep skips on any dirty file"
 domain-slug: domain/deploy

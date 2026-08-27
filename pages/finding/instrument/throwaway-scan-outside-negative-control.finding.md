@@ -1,5 +1,6 @@
 ---
 id: 9305e31f-ad8a-5a94-bba2-976bb8125164
+slug: throwaway-scan-outside-negative-control
 page-type-slug: finding
 title: "Throwaway scan outside negative control"
 domain-slug: domain/instrument

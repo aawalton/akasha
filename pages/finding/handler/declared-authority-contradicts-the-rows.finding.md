@@ -1,5 +1,6 @@
 ---
 id: dff7d3ae-f7d8-52ae-a4b5-be3805df7b03
+slug: declared-authority-contradicts-the-rows
 page-type-slug: finding
 title: "Declared authority contradicts the rows"
 domain-slug: role/handler

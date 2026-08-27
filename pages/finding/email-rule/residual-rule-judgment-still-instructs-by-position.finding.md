@@ -1,5 +1,6 @@
 ---
 id: 9d7d7187-9fc2-53d3-ba8e-29a0653a1063
+slug: residual-rule-judgment-still-instructs-by-position
 page-type-slug: finding
 title: "Residual rule judgment still instructs by position"
 domain-slug: rules-engine-rule-set/email-rule

@@ -1,5 +1,6 @@
 ---
 id: 6ad5179c-4f26-5e87-8f5e-3ea51b3b24bf
+slug: rename-drift-into-code-repo
 page-type-slug: finding
 title: "Rename drift into code repo"
 domain-slug: domain/dispatch

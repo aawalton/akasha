@@ -1,5 +1,6 @@
 ---
 id: 5b106a7d-0aba-5332-973e-85a0aae0ffed
+slug: quarantined-doc-cited-by-path
 page-type-slug: finding
 title: "Quarantined doc cited by path"
 domain-slug: domain/global

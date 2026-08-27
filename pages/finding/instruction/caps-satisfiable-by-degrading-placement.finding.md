@@ -1,5 +1,6 @@
 ---
 id: 89705d6b-843e-5c57-abca-58586f46dbce
+slug: caps-satisfiable-by-degrading-placement
 page-type-slug: finding
 title: "Caps satisfiable by degrading placement"
 domain-slug: domain/global

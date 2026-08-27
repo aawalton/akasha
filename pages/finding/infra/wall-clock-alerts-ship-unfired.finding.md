@@ -1,5 +1,6 @@
 ---
 id: b6857ee1-bac5-5529-b8b1-67f04a9086b0
+slug: wall-clock-alerts-ship-unfired
 page-type-slug: finding
 title: "Wall clock alerts ship unfired"
 domain-slug: domain/global

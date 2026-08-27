@@ -1,5 +1,6 @@
 ---
 id: e1f0c7c4-1ed7-5cd2-94d9-4680fe2dc06f
+slug: card-and-window-name-one-thing
 page-type-slug: finding
 title: "Card and window name one thing"
 domain-slug: domain/global

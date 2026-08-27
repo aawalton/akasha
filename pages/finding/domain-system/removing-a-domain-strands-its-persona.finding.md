@@ -1,5 +1,6 @@
 ---
 id: cf58c8df-afb0-551b-8601-e1e5dc4a7e10
+slug: removing-a-domain-strands-its-persona
 page-type-slug: finding
 title: "Removing a domain strands its persona"
 domain-slug: domain/domain-system

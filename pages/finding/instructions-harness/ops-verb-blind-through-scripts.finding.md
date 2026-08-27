@@ -1,5 +1,6 @@
 ---
 id: 87eb5948-dc3c-58be-9f4f-1948a326b4b3
+slug: ops-verb-blind-through-scripts
 page-type-slug: finding
 title: "Ops verb blind through scripts"
 domain-slug: domain/global

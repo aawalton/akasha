@@ -1,5 +1,6 @@
 ---
 id: 3e6b7d9b-c86e-5aa7-98c4-9370080ca653
+slug: sibling-lift-bound-twice
 page-type-slug: finding
 title: "Sibling lift bound twice"
 domain-slug: page-body-section/domain-definition

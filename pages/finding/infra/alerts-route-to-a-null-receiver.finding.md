@@ -1,5 +1,6 @@
 ---
 id: 0b075949-ce7b-511b-b4d2-82269991d3c2
+slug: alerts-route-to-a-null-receiver
 page-type-slug: finding
 title: "Alerts route to a null receiver"
 domain-slug: domain/global

@@ -1,5 +1,6 @@
 ---
 id: 19812576-a956-56ee-b79d-6fab90a958cf
+slug: backup-stale-ignores-its-own-period
 page-type-slug: finding
 title: "Backup stale ignores its own period"
 domain-slug: domain/global

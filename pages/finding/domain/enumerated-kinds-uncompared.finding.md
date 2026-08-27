@@ -1,5 +1,6 @@
 ---
 id: a74853c1-f600-5ab7-9196-23148508602f
+slug: enumerated-kinds-uncompared
 page-type-slug: finding
 title: "Enumerated kinds uncompared"
 domain-slug: page-type/domain

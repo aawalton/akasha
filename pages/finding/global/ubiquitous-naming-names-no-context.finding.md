@@ -1,5 +1,6 @@
 ---
 id: b7dbea76-0ef0-5a73-bff5-bbfb936ff26f
+slug: ubiquitous-naming-names-no-context
 page-type-slug: finding
 title: "Ubiquitous naming names no context"
 domain-slug: domain/global

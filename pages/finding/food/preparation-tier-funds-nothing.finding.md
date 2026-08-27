@@ -1,5 +1,6 @@
 ---
 id: dd966858-c9f4-5924-a6e8-b1286a6cbc6b
+slug: preparation-tier-funds-nothing
 page-type-slug: finding
 title: "Preparation tier funds nothing"
 domain-slug: domain/global

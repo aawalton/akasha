@@ -1,5 +1,6 @@
 ---
 id: 681b45fd-129a-56e1-b3c6-2cbbc84d9663
+slug: slice-6-already-deployed
 page-type-slug: finding
 title: "Slice 6 already deployed"
 domain-slug: domain/fitness

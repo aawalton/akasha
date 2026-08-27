@@ -1,5 +1,6 @@
 ---
 id: 6b98589b-d1ca-5548-84d9-4fe36e1786d8
+slug: extractor-never-named
 page-type-slug: finding
 title: "Extractor never named"
 domain-slug: task/handle-inbound

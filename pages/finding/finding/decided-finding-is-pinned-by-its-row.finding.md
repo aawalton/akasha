@@ -1,5 +1,6 @@
 ---
 id: 825a984c-7ceb-539d-a0b4-6fc665bee294
+slug: decided-finding-is-pinned-by-its-row
 page-type-slug: finding
 title: "Decided finding is pinned by its row"
 domain-slug: page-type/finding

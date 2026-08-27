@@ -1,5 +1,6 @@
 ---
 id: c0b25abb-9c6f-50e0-8a43-7256761f438c
+slug: domain-edges-silent-run-directly
 page-type-slug: finding
 title: "Domain edges silent run directly"
 domain-slug: domain/global

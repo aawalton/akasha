@@ -1,5 +1,6 @@
 ---
 id: 1c7a90ff-ecd6-5754-b0cf-6547ff366b2d
+slug: stage-four-has-no-landing
 page-type-slug: finding
 title: "Stage four has no landing"
 domain-slug: task/guided-close-read

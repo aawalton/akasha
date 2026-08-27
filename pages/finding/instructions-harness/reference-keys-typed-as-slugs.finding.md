@@ -1,5 +1,6 @@
 ---
 id: 676a9063-8641-5b75-8510-793388f8be44
+slug: reference-keys-typed-as-slugs
 page-type-slug: finding
 title: "Reference keys typed as slugs"
 domain-slug: domain/global

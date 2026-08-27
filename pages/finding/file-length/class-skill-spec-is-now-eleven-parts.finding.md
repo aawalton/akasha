@@ -1,5 +1,6 @@
 ---
 id: ac8e4f3f-83a8-52a6-8c52-9071a545fd66
+slug: class-skill-spec-is-now-eleven-parts
 page-type-slug: finding
 title: "Class skill spec is now eleven parts"
 domain-slug: domain/file-length

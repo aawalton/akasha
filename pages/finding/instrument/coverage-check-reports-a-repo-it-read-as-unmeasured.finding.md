@@ -1,5 +1,6 @@
 ---
 id: 7c6666b5-51e1-5bd0-8de5-073bc722a6cf
+slug: coverage-check-reports-a-repo-it-read-as-unmeasured
 page-type-slug: finding
 title: "Coverage check reports a repo it read as unmeasured"
 domain-slug: domain/instrument

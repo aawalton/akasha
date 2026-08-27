@@ -1,5 +1,6 @@
 ---
 id: a2d6b2ad-3a45-5975-b324-f9ee88b212ff
+slug: liveness-beacon-unarmed
 page-type-slug: finding
 title: "Liveness beacon unarmed"
 domain-slug: domain/global

@@ -1,5 +1,6 @@
 ---
 id: deeadc36-9f77-5ba2-8392-17e0644f165f
+slug: read-records-a-reading-a-redirect-swallowed
 page-type-slug: finding
 title: "Read records a reading a redirect swallowed"
 domain-slug: domain/global

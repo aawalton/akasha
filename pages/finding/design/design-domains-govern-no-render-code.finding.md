@@ -1,5 +1,6 @@
 ---
 id: 469fc7a2-fa98-52d6-b7aa-f0badeb3ecd8
+slug: design-domains-govern-no-render-code
 page-type-slug: finding
 title: "Design domains govern no render code"
 domain-slug: domain/design

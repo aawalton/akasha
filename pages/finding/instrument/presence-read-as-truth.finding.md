@@ -1,5 +1,6 @@
 ---
 id: f23f2d01-5e7d-5774-97f0-fc6b186f3d43
+slug: presence-read-as-truth
 page-type-slug: finding
 title: "Presence read as truth"
 domain-slug: domain/instrument

@@ -1,5 +1,6 @@
 ---
 id: c365042c-b459-512b-a6cc-b731dddcea55
+slug: report-carries-a-second-noun-sense
 page-type-slug: finding
 title: "Report carries a second noun sense"
 domain-slug: domain/instrument-answer

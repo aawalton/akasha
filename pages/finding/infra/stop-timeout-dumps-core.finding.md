@@ -1,5 +1,6 @@
 ---
 id: 8e51038e-f790-5dbd-80b2-5401ff07ddb1
+slug: stop-timeout-dumps-core
 page-type-slug: finding
 title: "Stop timeout dumps core"
 domain-slug: domain/global

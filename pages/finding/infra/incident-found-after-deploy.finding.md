@@ -1,5 +1,6 @@
 ---
 id: a579cc1c-ff32-52eb-8fdc-ec4a36f1e88c
+slug: incident-found-after-deploy
 page-type-slug: finding
 title: "Incident found after deploy"
 domain-slug: domain/global

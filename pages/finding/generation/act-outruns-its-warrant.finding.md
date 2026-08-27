@@ -1,5 +1,6 @@
 ---
 id: 2d193ea5-08ef-5fed-bbbd-bbecf8244c73
+slug: act-outruns-its-warrant
 page-type-slug: finding
 title: "Act outruns its warrant"
 domain-slug: domain/generation

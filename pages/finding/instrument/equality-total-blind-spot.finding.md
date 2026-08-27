@@ -1,5 +1,6 @@
 ---
 id: 61aae0ba-a29b-549c-810b-7ccc474ff597
+slug: equality-total-blind-spot
 page-type-slug: finding
 title: "Equality total blind spot"
 domain-slug: domain/instrument

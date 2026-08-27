@@ -1,5 +1,6 @@
 ---
 id: b1dec5d0-817f-52bf-93ff-fb58e8d3ce12
+slug: compaction-boundary-outruns-what-it-folded
 page-type-slug: finding
 title: "Compaction boundary outruns what it folded"
 domain-slug: domain/global

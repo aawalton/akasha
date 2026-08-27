@@ -1,5 +1,6 @@
 ---
 id: 2c59dd8b-7580-584b-8ef3-0e27cc41cd63
+slug: gate-message-repeats-cut-claim
 page-type-slug: finding
 title: "Gate message repeats cut claim"
 domain-slug: domain/global

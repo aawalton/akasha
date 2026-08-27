@@ -1,5 +1,6 @@
 ---
 id: 06ac1845-f2c0-5e26-920b-dd859a138413
+slug: census-of-a-moving-population
 page-type-slug: finding
 title: "Census of a moving population"
 domain-slug: domain/instrument

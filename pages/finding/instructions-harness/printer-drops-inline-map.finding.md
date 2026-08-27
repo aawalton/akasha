@@ -1,5 +1,6 @@
 ---
 id: bb7d3f90-1b54-5190-a85a-87c244a4a6db
+slug: printer-drops-inline-map
 page-type-slug: finding
 title: "Printer drops inline map"
 domain-slug: domain/global

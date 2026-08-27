@@ -1,5 +1,6 @@
 ---
 id: 693f9a40-1a2f-56d1-a1d3-fd7f70c2cd88
+slug: alignment-rule-siblings-principle
 page-type-slug: finding
 title: "Alignment rule siblings principle"
 domain-slug: domain/design

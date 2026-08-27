@@ -1,5 +1,6 @@
 ---
 id: 00e818a3-d6c5-5d38-89f3-e573f5866c3c
+slug: classifier-blind-has-a-live-instance
 page-type-slug: finding
 title: "Classifier blind has a live instance"
 domain-slug: domain/instrument

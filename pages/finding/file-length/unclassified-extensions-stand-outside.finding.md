@@ -1,5 +1,6 @@
 ---
 id: b7066e89-ddc9-5405-9be2-c69720497750
+slug: unclassified-extensions-stand-outside
 page-type-slug: finding
 title: "Unclassified extensions stand outside"
 domain-slug: domain/file-length

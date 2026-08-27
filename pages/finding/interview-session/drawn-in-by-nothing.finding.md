@@ -1,5 +1,6 @@
 ---
 id: 3e4c937d-ca27-5b4c-8bf3-de173e8b9a9b
+slug: drawn-in-by-nothing
 page-type-slug: finding
 title: "Drawn in by nothing"
 domain-slug: domain/interview-session

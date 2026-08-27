@@ -1,5 +1,6 @@
 ---
 id: df127167-8a83-50dc-8bd8-ce12a69747fc
+slug: intent-glob-reaches-quoted-intents
 page-type-slug: finding
 title: "Intent glob reaches quoted intents"
 domain-slug: page-body-section/domain-intent

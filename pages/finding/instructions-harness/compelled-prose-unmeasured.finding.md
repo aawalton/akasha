@@ -1,5 +1,6 @@
 ---
 id: d4db38be-a8fc-596b-89f8-655366d3e7da
+slug: compelled-prose-unmeasured
 page-type-slug: finding
 title: "Compelled prose unmeasured"
 domain-slug: domain/global

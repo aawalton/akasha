@@ -1,5 +1,6 @@
 ---
 id: 9a999220-c23b-5ae3-b183-d7db0a404151
+slug: check-population-missing
 page-type-slug: finding
 title: "Check population missing"
 domain-slug: domain/instrument

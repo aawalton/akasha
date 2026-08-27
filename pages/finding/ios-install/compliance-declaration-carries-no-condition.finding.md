@@ -1,5 +1,6 @@
 ---
 id: b0e41152-fc99-5b84-9c5b-c7dabefcae5b
+slug: compliance-declaration-carries-no-condition
 page-type-slug: finding
 title: "Compliance declaration carries no condition"
 domain-slug: domain/ios-install

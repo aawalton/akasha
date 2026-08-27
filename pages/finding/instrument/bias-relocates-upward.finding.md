@@ -1,5 +1,6 @@
 ---
 id: bf4c7dc9-6c44-570b-9e08-b3f1ce70703a
+slug: bias-relocates-upward
 page-type-slug: finding
 title: "Bias relocates upward"
 domain-slug: domain/instrument

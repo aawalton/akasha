@@ -1,5 +1,6 @@
 ---
 id: 9c3ce057-a698-570a-81da-d59727d3b219
+slug: nothing-consumes-a-keep
 page-type-slug: finding
 title: "Nothing consumes a keep"
 domain-slug: domain/global

@@ -1,5 +1,6 @@
 ---
 id: 2aa7b782-ef62-543a-9685-10df0844e98b
+slug: standing-instrument-has-no-runner
 page-type-slug: finding
 title: "Standing instrument has no runner"
 domain-slug: domain/instrument

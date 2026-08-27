@@ -1,5 +1,6 @@
 ---
 id: 448ee4a4-a34a-507c-aa02-4c826138a3c3
+slug: belief-that-only-stops-you
 page-type-slug: finding
 title: "Belief that only stops you"
 domain-slug: domain/global

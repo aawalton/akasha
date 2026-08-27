@@ -1,5 +1,6 @@
 ---
 id: 38455af1-0c58-5e9a-ba5c-6d7946e9164b
+slug: plain-or-declared-doubled-with-jargon
 page-type-slug: finding
 title: "Plain or declared doubled with jargon"
 domain-slug: domain/global

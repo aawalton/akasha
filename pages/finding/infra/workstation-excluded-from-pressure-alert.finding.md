@@ -1,5 +1,6 @@
 ---
 id: 9a2dfd9d-9595-5195-8238-75150d9962f2
+slug: workstation-excluded-from-pressure-alert
 page-type-slug: finding
 title: "Workstation excluded from pressure alert"
 domain-slug: domain/global

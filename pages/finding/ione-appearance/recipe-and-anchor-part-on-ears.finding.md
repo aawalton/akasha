@@ -1,5 +1,6 @@
 ---
 id: 8938a74e-5a82-503e-aba1-e6cc7e28251c
+slug: recipe-and-anchor-part-on-ears
 page-type-slug: finding
 title: "Recipe and anchor part on ears"
 domain-slug: persona-appearance/ione-appearance

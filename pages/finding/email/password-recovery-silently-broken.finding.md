@@ -1,5 +1,6 @@
 ---
 id: 9438e574-5938-5735-b9ec-bbac3e7121d0
+slug: password-recovery-silently-broken
 page-type-slug: finding
 title: "Password recovery silently broken"
 domain-slug: domain/email

@@ -1,5 +1,6 @@
 ---
 id: eaa4f33a-2482-5006-b364-538e5c004e2b
+slug: supervisor-secret-keys-unmanaged
 page-type-slug: finding
 title: "Supervisor secret keys unmanaged"
 domain-slug: domain/global

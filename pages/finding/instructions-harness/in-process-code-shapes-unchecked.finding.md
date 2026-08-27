@@ -1,5 +1,6 @@
 ---
 id: f435768b-086b-5a3d-b7d0-4bd15f5f98a0
+slug: in-process-code-shapes-unchecked
 page-type-slug: finding
 title: "In process code shapes unchecked"
 domain-slug: domain/global

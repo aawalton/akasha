@@ -1,5 +1,6 @@
 ---
 id: 9a5ddd0d-d2e8-5b9d-b393-743ddde6623b
+slug: truncated-list-confirms-a-false-absence
 page-type-slug: finding
 title: "Truncated list confirms a false absence"
 domain-slug: domain/global

@@ -1,5 +1,6 @@
 ---
 id: 1a00cc79-553a-5f31-8351-0959b203fd74
+slug: alert-prints-the-baseline-not-the-anomaly
 page-type-slug: finding
 title: "Alert prints the baseline not the anomaly"
 domain-slug: domain/global

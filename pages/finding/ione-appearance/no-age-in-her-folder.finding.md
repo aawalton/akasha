@@ -1,5 +1,6 @@
 ---
 id: b1f3073f-a381-5319-b861-801f61577f22
+slug: no-age-in-her-folder
 page-type-slug: finding
 title: "No age in her folder"
 domain-slug: persona-appearance/ione-appearance

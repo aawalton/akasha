@@ -1,5 +1,6 @@
 ---
 id: d270b236-cf99-5382-a5eb-58e76f2f4835
+slug: red-wake-undeclared
 page-type-slug: finding
 title: "Red wake undeclared"
 domain-slug: domain/global

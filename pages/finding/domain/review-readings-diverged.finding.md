@@ -1,5 +1,6 @@
 ---
 id: 5e29f4ee-c3d4-5935-aaaa-fcfda23a3dd3
+slug: review-readings-diverged
 page-type-slug: finding
 title: "Review readings diverged"
 domain-slug: page-type/domain

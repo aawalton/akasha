@@ -1,5 +1,6 @@
 ---
 id: 11a19c78-d42a-585c-b99d-28cd4086ea3c
+slug: clusters-stated-but-refused
 page-type-slug: finding
 title: "Clusters stated but refused"
 domain-slug: page-type/finding

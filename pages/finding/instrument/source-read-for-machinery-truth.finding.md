@@ -1,5 +1,6 @@
 ---
 id: e9acc01a-7d82-57ed-9b26-923fc284e7cb
+slug: source-read-for-machinery-truth
 page-type-slug: finding
 title: "Source read for machinery truth"
 domain-slug: domain/instrument

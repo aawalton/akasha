@@ -1,5 +1,6 @@
 ---
 id: c7c6118f-1ec7-53e2-8e13-ff0acbdfd3c1
+slug: docref-resolves-for-initiative-linked-findings
 page-type-slug: finding
 title: "Docref resolves for initiative linked findings"
 domain-slug: page-type/finding

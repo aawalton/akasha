@@ -1,5 +1,6 @@
 ---
 id: 8cd76404-a19c-5db7-a790-921b33109ff2
+slug: landing-wake-duplicates-the-refusal
 page-type-slug: finding
 title: "Landing wake duplicates the refusal"
 domain-slug: domain/global

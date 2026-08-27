@@ -1,5 +1,6 @@
 ---
 id: 54b17711-76f1-5913-9eec-03eabc42a363
+slug: subpath-hot-update-siblings-unverified
 page-type-slug: finding
 title: "Subpath hot update siblings unverified"
 domain-slug: domain/deploy

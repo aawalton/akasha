@@ -1,5 +1,6 @@
 ---
 id: d8540eac-6de1-52e0-a9dd-1b5dd6350c7e
+slug: gpu-lock-protocol-gaps
 page-type-slug: finding
 title: "GPU lock protocol gaps"
 domain-slug: domain/global

@@ -1,5 +1,6 @@
 ---
 id: cc831599-a4fa-52c5-a07c-d382ba3f5f83
+slug: hook-liveness-advisory-on-ordinary-writes
 page-type-slug: finding
 title: "Hook liveness advisory on ordinary writes"
 domain-slug: domain/global

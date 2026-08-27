@@ -1,5 +1,6 @@
 ---
 id: bf89e635-43e6-59ca-b7a3-3bb37971e15a
+slug: layers-without-owners
 page-type-slug: finding
 title: "Layers without owners"
 domain-slug: barred-meaning/foundational-layers

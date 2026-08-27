@@ -1,5 +1,6 @@
 ---
 id: 68e5e3fe-18b9-560e-8589-c6bd078f376a
+slug: pages-fs-projector-failed-and-unrestarted
 page-type-slug: finding
 title: "Pages fs projector failed and unrestarted"
 domain-slug: domain/global

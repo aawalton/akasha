@@ -1,5 +1,6 @@
 ---
 id: b18f5b52-4ecb-5757-a01c-6fe93d05ddc6
+slug: achievements-tech-tree-split
 page-type-slug: finding
 title: "Achievements tech tree split"
 domain-slug: page-type/idle-game

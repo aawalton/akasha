@@ -1,5 +1,6 @@
 ---
 id: 99dbdfd0-01d0-5eea-86da-f7e978b74789
+slug: weekly-set-ceiling-never-enforced
 page-type-slug: finding
 title: "Weekly set ceiling never enforced"
 domain-slug: domain/fitness

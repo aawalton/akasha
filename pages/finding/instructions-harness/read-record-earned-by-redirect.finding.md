@@ -1,5 +1,6 @@
 ---
 id: 8c4aca0e-07b5-5743-9f00-7767b80f53ba
+slug: read-record-earned-by-redirect
 page-type-slug: finding
 title: "Read record earned by redirect"
 domain-slug: domain/global

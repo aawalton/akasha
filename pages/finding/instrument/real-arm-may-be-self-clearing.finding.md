@@ -1,5 +1,6 @@
 ---
 id: 0269581e-d109-5388-aa66-913bc5e23066
+slug: real-arm-may-be-self-clearing
 page-type-slug: finding
 title: "Real arm may be self clearing"
 domain-slug: domain/instrument

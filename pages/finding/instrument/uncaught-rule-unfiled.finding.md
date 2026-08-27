@@ -1,5 +1,6 @@
 ---
 id: a38b9952-6f1b-5eae-87a3-fd0de936034f
+slug: uncaught-rule-unfiled
 page-type-slug: finding
 title: "Uncaught rule unfiled"
 domain-slug: domain/instrument

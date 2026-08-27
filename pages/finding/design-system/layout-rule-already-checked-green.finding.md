@@ -1,5 +1,6 @@
 ---
 id: ea7ca08a-bfed-5919-b516-7068796f077e
+slug: layout-rule-already-checked-green
 page-type-slug: finding
 title: "Layout rule already checked green"
 domain-slug: domain/design-system

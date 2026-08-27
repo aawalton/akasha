@@ -1,5 +1,6 @@
 ---
 id: b35c61d9-1171-5ea3-adda-3c457a7761b0
+slug: in-flight-counts-nothing
 page-type-slug: finding
 title: "In flight counts nothing"
 domain-slug: domain/global

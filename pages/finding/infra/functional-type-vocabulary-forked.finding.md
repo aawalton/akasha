@@ -1,5 +1,6 @@
 ---
 id: 6e880031-fa4a-536c-8563-c5cd37b5b592
+slug: functional-type-vocabulary-forked
 page-type-slug: finding
 title: "Functional type vocabulary forked"
 domain-slug: domain/global

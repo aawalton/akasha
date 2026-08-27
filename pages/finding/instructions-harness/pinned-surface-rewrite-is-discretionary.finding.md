@@ -1,5 +1,6 @@
 ---
 id: 6295b645-f3de-5cc6-8090-6ea9d132c56b
+slug: pinned-surface-rewrite-is-discretionary
 page-type-slug: finding
 title: "Pinned surface rewrite is discretionary"
 domain-slug: domain/global

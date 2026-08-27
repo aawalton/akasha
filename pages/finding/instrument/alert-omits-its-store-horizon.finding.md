@@ -1,5 +1,6 @@
 ---
 id: f7c135df-1998-5e35-8e0b-429bde1b68be
+slug: alert-omits-its-store-horizon
 page-type-slug: finding
 title: "Alert omits its store horizon"
 domain-slug: domain/instrument

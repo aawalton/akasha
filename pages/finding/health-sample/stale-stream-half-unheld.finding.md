@@ -1,5 +1,6 @@
 ---
 id: 9604a10c-c6af-55a6-ac49-e2ec30330656
+slug: stale-stream-half-unheld
 page-type-slug: finding
 title: "Stale stream half unheld"
 domain-slug: page-type/health-sample

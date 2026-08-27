@@ -1,5 +1,6 @@
 ---
 id: 6fbd4ef7-661d-549c-83a1-970b7652833e
+slug: filer-bound-unobserved-under-pressure
 page-type-slug: finding
 title: "Filer bound unobserved under pressure"
 domain-slug: domain/global

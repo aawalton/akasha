@@ -1,5 +1,6 @@
 ---
 id: 1096b6bf-a07a-5762-9b28-0698c0629aaa
+slug: read-redirect-fabricates-record
 page-type-slug: finding
 title: "Read redirect fabricates record"
 domain-slug: domain/global

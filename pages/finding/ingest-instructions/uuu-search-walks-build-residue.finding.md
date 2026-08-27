@@ -1,5 +1,6 @@
 ---
 id: 88ce2f6b-dc17-5ac9-bc0c-4cf76b6c77a9
+slug: uuu-search-walks-build-residue
 page-type-slug: finding
 title: "Uuu search walks build residue"
 domain-slug: domain/global

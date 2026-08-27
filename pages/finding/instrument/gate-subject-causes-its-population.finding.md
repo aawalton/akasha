@@ -1,5 +1,6 @@
 ---
 id: 370d8576-b595-587e-a18d-4a6e05ffba0b
+slug: gate-subject-causes-its-population
 page-type-slug: finding
 title: "Gate subject causes its population"
 domain-slug: domain/instrument

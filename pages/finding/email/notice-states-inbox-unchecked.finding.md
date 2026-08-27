@@ -1,5 +1,6 @@
 ---
 id: abf190a5-e33a-5856-97bd-40499aef7b99
+slug: notice-states-inbox-unchecked
 page-type-slug: finding
 title: "Notice states inbox unchecked"
 domain-slug: domain/email

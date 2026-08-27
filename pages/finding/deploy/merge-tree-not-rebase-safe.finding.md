@@ -1,5 +1,6 @@
 ---
 id: 3a5d31ba-365a-5a9e-8c41-54aad4fe2da9
+slug: merge-tree-not-rebase-safe
 page-type-slug: finding
 title: "Merge tree not rebase safe"
 domain-slug: domain/deploy

@@ -1,5 +1,6 @@
 ---
 id: 8eef9f4d-ca07-5707-9a67-561ff918f098
+slug: service-account-edge-recorded-twice
 page-type-slug: finding
 title: "Service account edge recorded twice"
 domain-slug: page-type/graph-edge

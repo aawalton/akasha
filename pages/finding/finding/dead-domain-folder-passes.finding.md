@@ -1,5 +1,6 @@
 ---
 id: d84a7855-ff13-594a-81d5-7551d771000c
+slug: dead-domain-folder-passes
 page-type-slug: finding
 title: "Dead domain folder passes"
 domain-slug: page-type/finding

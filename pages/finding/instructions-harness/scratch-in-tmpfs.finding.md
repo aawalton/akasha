@@ -1,5 +1,6 @@
 ---
 id: a564db11-45c4-5fe7-ad3e-4ecf7a60dc04
+slug: scratch-in-tmpfs
 page-type-slug: finding
 title: "Scratch in tmpfs"
 domain-slug: domain/global

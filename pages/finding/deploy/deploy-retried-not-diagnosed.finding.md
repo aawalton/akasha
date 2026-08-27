@@ -1,5 +1,6 @@
 ---
 id: af25a751-141d-5d8d-a3ae-a67c72957987
+slug: deploy-retried-not-diagnosed
 page-type-slug: finding
 title: "Deploy retried not diagnosed"
 domain-slug: domain/deploy

@@ -1,5 +1,6 @@
 ---
 id: b9c29c4b-740c-5b83-8e37-3cfd26d02848
+slug: carveout-on-the-stricter-rule
 page-type-slug: finding
 title: "Carveout on the stricter rule"
 domain-slug: page-type/domain

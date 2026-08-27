@@ -1,5 +1,6 @@
 ---
 id: 7a73cb27-d886-51a0-a942-05d93b03f0bc
+slug: character-keys-outside-toggle
 page-type-slug: finding
 title: "Character keys outside toggle"
 domain-slug: domain/design-system

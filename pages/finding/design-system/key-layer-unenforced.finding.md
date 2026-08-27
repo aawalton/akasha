@@ -1,5 +1,6 @@
 ---
 id: b3e28cc0-6009-5b8f-96a8-9af18a2be1fa
+slug: key-layer-unenforced
 page-type-slug: finding
 title: "Key layer unenforced"
 domain-slug: domain/design-system

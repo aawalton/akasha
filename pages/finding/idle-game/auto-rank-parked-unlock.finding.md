@@ -1,5 +1,6 @@
 ---
 id: 5ed4bfca-44a3-59dd-a3d6-d91675c6d8ba
+slug: auto-rank-parked-unlock
 page-type-slug: finding
 title: "Auto rank parked unlock"
 domain-slug: page-type/idle-game

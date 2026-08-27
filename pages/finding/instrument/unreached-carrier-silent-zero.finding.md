@@ -1,5 +1,6 @@
 ---
 id: a15de416-6d75-5b67-9284-d56533dedfc7
+slug: unreached-carrier-silent-zero
 page-type-slug: finding
 title: "Unreached carrier silent zero"
 domain-slug: domain/instrument

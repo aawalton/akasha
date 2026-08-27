@@ -1,5 +1,6 @@
 ---
 id: 1af83145-d379-5709-9415-06f0bea2ea25
+slug: lead-domain-claim-unrecorded
 page-type-slug: finding
 title: "Lead domain claim unrecorded"
 domain-slug: domain/global

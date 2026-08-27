@@ -1,5 +1,6 @@
 ---
 id: e8e476f2-b8d7-52e8-a207-bb476564bc0a
+slug: measure-met-by-exclusion
 page-type-slug: finding
 title: "Measure met by exclusion"
 domain-slug: domain/instrument

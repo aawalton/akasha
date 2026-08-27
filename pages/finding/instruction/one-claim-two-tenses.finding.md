@@ -1,5 +1,6 @@
 ---
 id: ecac4432-7b07-55bc-a2d9-ec5def263c69
+slug: one-claim-two-tenses
 page-type-slug: finding
 title: "One claim two tenses"
 domain-slug: domain/global

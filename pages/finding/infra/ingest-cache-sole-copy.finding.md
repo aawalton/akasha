@@ -1,5 +1,6 @@
 ---
 id: 853de0db-d137-514d-8282-edfa0da378f5
+slug: ingest-cache-sole-copy
 page-type-slug: finding
 title: "Ingest cache sole copy"
 domain-slug: domain/global

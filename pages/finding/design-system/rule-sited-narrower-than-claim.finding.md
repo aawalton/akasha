@@ -1,5 +1,6 @@
 ---
 id: 294e4b56-3544-5cb2-9810-59278ab9693e
+slug: rule-sited-narrower-than-claim
 page-type-slug: finding
 title: "Rule sited narrower than claim"
 domain-slug: domain/design-system

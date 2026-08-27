@@ -1,5 +1,6 @@
 ---
 id: 23b02ca7-a6d0-5e40-8e5d-bc92993fdaa1
+slug: one-run-mechanism-untested
 page-type-slug: finding
 title: "One run mechanism untested"
 domain-slug: domain/instrument

@@ -1,5 +1,6 @@
 ---
 id: 3f249289-765f-55fa-b476-978e8970a68b
+slug: input-is-a-person-redundant
 page-type-slug: finding
 title: "Input is a person redundant"
 domain-slug: role/interviewer

@@ -1,5 +1,6 @@
 ---
 id: 664ed3da-d34c-50c2-9653-df030f27cfc3
+slug: mv-cannot-see-a-computed-directory
 page-type-slug: finding
 title: "Mv cannot see a computed directory"
 domain-slug: domain/global

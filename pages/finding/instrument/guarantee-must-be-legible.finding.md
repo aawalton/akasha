@@ -1,5 +1,6 @@
 ---
 id: b223e9da-9f31-5027-a2f8-98f4bed48ac2
+slug: guarantee-must-be-legible
 page-type-slug: finding
 title: "Guarantee must be legible"
 domain-slug: domain/instrument

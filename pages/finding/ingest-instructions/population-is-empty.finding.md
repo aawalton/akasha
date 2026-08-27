@@ -1,5 +1,6 @@
 ---
 id: c8afaea7-2b53-59a4-a60d-d8aa10e20c90
+slug: population-is-empty
 page-type-slug: finding
 title: "Population is empty"
 domain-slug: domain/global

@@ -1,5 +1,6 @@
 ---
 id: 50808930-f91f-5263-b94d-44dbe71f3483
+slug: corpus-walked-twice
 page-type-slug: finding
 title: "Corpus walked twice"
 domain-slug: domain/global

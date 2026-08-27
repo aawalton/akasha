@@ -1,5 +1,6 @@
 ---
 id: 179adf3d-3dcf-5abf-8ad0-b37f9dfeccb4
+slug: rc-detector-misses-compound-seats
 page-type-slug: finding
 title: "Rc detector misses compound seats"
 domain-slug: domain/instrument-population

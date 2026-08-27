@@ -1,5 +1,6 @@
 ---
 id: 94a2335d-bc86-5b1f-b546-2dd0a539201a
+slug: cut-block-needs-intent
 page-type-slug: finding
 title: "Cut block needs intent"
 domain-slug: domain/design-system

@@ -1,5 +1,6 @@
 ---
 id: a1fb93c5-9800-5ea4-9172-b4c0a5618d3b
+slug: alert-repair-has-no-carrier
 page-type-slug: finding
 title: "Alert repair has no carrier"
 domain-slug: domain/instrument

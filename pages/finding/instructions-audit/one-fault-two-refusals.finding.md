@@ -1,5 +1,6 @@
 ---
 id: 895d8085-2fcc-57eb-9136-9a8d2d8ada7b
+slug: one-fault-two-refusals
 page-type-slug: finding
 title: "One fault two refusals"
 domain-slug: domain/global

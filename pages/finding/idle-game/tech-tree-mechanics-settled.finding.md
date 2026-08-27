@@ -1,5 +1,6 @@
 ---
 id: 2489ae5a-10b8-59ea-bc89-601384a7b70d
+slug: tech-tree-mechanics-settled
 page-type-slug: finding
 title: "Tech tree mechanics settled"
 domain-slug: page-type/idle-game

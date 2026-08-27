@@ -1,5 +1,6 @@
 ---
 id: 3af91845-2c6e-5103-b5a5-2b3bed945fc8
+slug: creation-trigger-reads-demand-only
 page-type-slug: finding
 title: "Creation trigger reads demand only"
 domain-slug: page-type/domain

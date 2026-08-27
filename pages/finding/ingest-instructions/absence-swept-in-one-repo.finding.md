@@ -1,5 +1,6 @@
 ---
 id: 497ca97a-433f-562e-b72c-10a5b21080ce
+slug: absence-swept-in-one-repo
 page-type-slug: finding
 title: "Absence swept in one repo"
 domain-slug: domain/global

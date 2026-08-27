@@ -1,5 +1,6 @@
 ---
 id: 44ebb92c-6a47-5805-8372-c322bfeb52d8
+slug: composed-name-cannot-part-two-seats
 page-type-slug: finding
 title: "Composed name cannot part two seats"
 domain-slug: barred-meaning/identity

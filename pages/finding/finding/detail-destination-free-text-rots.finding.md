@@ -1,5 +1,6 @@
 ---
 id: bb2e418c-8bff-5d2f-b78b-901fe13f40a9
+slug: detail-destination-free-text-rots
 page-type-slug: finding
 title: "Detail destination free text rots"
 domain-slug: page-type/finding

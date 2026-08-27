@@ -1,5 +1,6 @@
 ---
 id: bc250141-0b1c-5774-8834-5414ad0bfaf3
+slug: infra-wedge-worked-around
 page-type-slug: finding
 title: "Infra wedge worked around"
 domain-slug: domain/global

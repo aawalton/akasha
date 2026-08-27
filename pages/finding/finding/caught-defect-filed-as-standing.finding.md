@@ -1,5 +1,6 @@
 ---
 id: 07597a36-1290-5e6b-8d56-07b15fde010c
+slug: caught-defect-filed-as-standing
 page-type-slug: finding
 title: "Caught defect filed as standing"
 domain-slug: page-type/finding

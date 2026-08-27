@@ -1,5 +1,6 @@
 ---
 id: 233c506d-2fa9-5edb-8049-5d6c76e2fcf8
+slug: flags-in-prose-unchecked
 page-type-slug: finding
 title: "Flags in prose unchecked"
 domain-slug: domain/global

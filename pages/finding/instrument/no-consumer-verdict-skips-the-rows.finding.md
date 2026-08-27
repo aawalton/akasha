@@ -1,5 +1,6 @@
 ---
 id: 1bb25fff-b801-5ea3-b5eb-44e95bde869e
+slug: no-consumer-verdict-skips-the-rows
 page-type-slug: finding
 title: "No consumer verdict skips the rows"
 domain-slug: domain/instrument

@@ -1,5 +1,6 @@
 ---
 id: ecb5aa29-bb27-5620-8739-b8d0bc27c164
+slug: stacking-items
 page-type-slug: finding
 title: "stacking items"
 domain-slug: persona/ember

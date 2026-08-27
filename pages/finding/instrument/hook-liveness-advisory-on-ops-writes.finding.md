@@ -1,5 +1,6 @@
 ---
 id: 015c9ea8-8dda-5ecb-b598-872d4a219e0e
+slug: hook-liveness-advisory-on-ops-writes
 page-type-slug: finding
 title: "Hook liveness advisory on ops writes"
 domain-slug: domain/instrument

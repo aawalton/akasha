@@ -1,5 +1,6 @@
 ---
 id: c470b1e9-08fc-587d-9bb4-34f520a9b553
+slug: filing-is-not-one-act
 page-type-slug: finding
 title: "Filing is not one act"
 domain-slug: page-type/finding

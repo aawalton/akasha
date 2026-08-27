@@ -1,5 +1,6 @@
 ---
 id: bc341133-3088-5ec9-9da7-7a6791004eda
+slug: sibling-lift-about-ambiguous
 page-type-slug: finding
 title: "Sibling lift about ambiguous"
 domain-slug: page-body-section/domain-definition

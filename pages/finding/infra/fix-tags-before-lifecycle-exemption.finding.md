@@ -1,5 +1,6 @@
 ---
 id: 3c313c50-b2e1-5cfb-9668-1765bbf2b7a5
+slug: fix-tags-before-lifecycle-exemption
 page-type-slug: finding
 title: "Fix tags before lifecycle exemption"
 domain-slug: domain/global

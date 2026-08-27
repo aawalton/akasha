@@ -1,5 +1,6 @@
 ---
 id: e538cd8a-4717-57d9-a2c3-75c2d3efdcec
+slug: role-glob-makes-agent-harness-key-inert
 page-type-slug: finding
 title: "Role glob makes agent harness key inert"
 domain-slug: page-type/domain

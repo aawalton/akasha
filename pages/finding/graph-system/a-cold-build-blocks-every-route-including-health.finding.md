@@ -1,5 +1,6 @@
 ---
 id: 019f3a5d-11e2-7c40-b8a7-4d19ee73c5b2
+slug: a-cold-build-blocks-every-route-including-health
 page-type-slug: finding
 title: "A cold build blocks every route including health"
 domain-slug: domain/graph-system

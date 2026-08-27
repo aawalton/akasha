@@ -1,5 +1,6 @@
 ---
 id: f36557a5-6c5c-5de8-9222-78b4fa602487
+slug: signal-lives-in-variation-not-level
 page-type-slug: finding
 title: "Signal lives in variation not level"
 domain-slug: domain/design

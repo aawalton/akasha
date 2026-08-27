@@ -1,5 +1,6 @@
 ---
 id: a3760fb2-f401-5f65-8cab-7ba232c3b0fb
+slug: flap-diagnostics-capture-retired-cidr
 page-type-slug: finding
 title: "Flap diagnostics capture retired cidr"
 domain-slug: domain/global

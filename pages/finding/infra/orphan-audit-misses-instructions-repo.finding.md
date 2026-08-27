@@ -1,5 +1,6 @@
 ---
 id: d2d82071-0740-54a3-994d-10aa05b19abf
+slug: orphan-audit-misses-instructions-repo
 page-type-slug: finding
 title: "Orphan audit misses instructions repo"
 domain-slug: domain/global

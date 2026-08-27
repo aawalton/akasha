@@ -1,5 +1,6 @@
 ---
 id: a1922517-00dc-563d-be5e-33be8e131471
+slug: purpose-row-outruns-corpus
 page-type-slug: finding
 title: "Purpose row outruns corpus"
 domain-slug: domain/fitness

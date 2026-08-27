@@ -1,5 +1,6 @@
 ---
 id: 5d5ee1da-99f8-5456-8c81-e7ebc1a4a1c8
+slug: unreached-credits-heir-slug
 page-type-slug: finding
 title: "Unreached credits heir slug"
 domain-slug: domain/global

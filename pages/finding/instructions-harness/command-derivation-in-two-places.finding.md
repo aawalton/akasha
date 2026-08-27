@@ -1,5 +1,6 @@
 ---
 id: a6414634-edbe-5a98-91ab-a07fc3451689
+slug: command-derivation-in-two-places
 page-type-slug: finding
 title: "Command derivation in two places"
 domain-slug: domain/global

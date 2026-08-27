@@ -1,5 +1,6 @@
 ---
 id: 8e17cf83-b988-5f89-9c5a-30540d88d982
+slug: strength-calories-and-cardio-feed-broken
 page-type-slug: finding
 title: "Strength calories and cardio feed broken"
 domain-slug: domain/fitness

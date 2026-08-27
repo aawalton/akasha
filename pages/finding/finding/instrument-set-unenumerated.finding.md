@@ -1,5 +1,6 @@
 ---
 id: 957f90df-ab7e-57a9-a7fd-0b9be31d1a3b
+slug: instrument-set-unenumerated
 page-type-slug: finding
 title: "Instrument set unenumerated"
 domain-slug: page-type/finding

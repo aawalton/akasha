@@ -1,5 +1,6 @@
 ---
 id: 41b0499e-7587-55b3-8e84-24dc7433532a
+slug: instrument-authoritative-for-one-question
 page-type-slug: finding
 title: "Instrument authoritative for one question"
 domain-slug: domain/instrument

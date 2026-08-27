@@ -1,5 +1,6 @@
 ---
 id: d4cd6b6e-7164-5938-8f37-7f09fddba73f
+slug: composition-line-excludes-agent-rules
 page-type-slug: finding
 title: "Composition line excludes agent rules"
 domain-slug: rules-engine-rule-set/email-rule

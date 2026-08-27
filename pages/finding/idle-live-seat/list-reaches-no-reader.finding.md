@@ -1,5 +1,6 @@
 ---
 id: d8b0ad78-7bb1-5451-a57c-7704e1639423
+slug: list-reaches-no-reader
 page-type-slug: finding
 title: "List reaches no reader"
 domain-slug: list/idle-live-seat

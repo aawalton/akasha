@@ -1,5 +1,6 @@
 ---
 id: de5293ed-4df2-59dc-85d4-88ffed74a0ed
+slug: constraint-catalog-display-only
 page-type-slug: finding
 title: "Constraint catalog display only"
 domain-slug: domain/fitness

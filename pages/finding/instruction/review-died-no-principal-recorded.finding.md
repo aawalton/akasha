@@ -1,5 +1,6 @@
 ---
 id: f8fc876b-da97-51a0-be4b-d9507092fa9b
+slug: review-died-no-principal-recorded
 page-type-slug: finding
 title: "Review died no principal recorded"
 domain-slug: domain/global

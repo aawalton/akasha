@@ -1,5 +1,6 @@
 ---
 id: 3f038cd1-96b4-59e2-b5eb-1e5fc6acc1ad
+slug: dead-finding-has-no-remover
 page-type-slug: finding
 title: "Dead finding has no remover"
 domain-slug: page-type/finding

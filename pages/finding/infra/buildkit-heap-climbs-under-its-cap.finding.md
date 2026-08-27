@@ -1,5 +1,6 @@
 ---
 id: 7ac70921-9b19-5dde-a03d-36eba00604c4
+slug: buildkit-heap-climbs-under-its-cap
 page-type-slug: finding
 title: "Buildkit heap climbs under its cap"
 domain-slug: domain/global

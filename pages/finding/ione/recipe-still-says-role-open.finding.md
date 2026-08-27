@@ -1,5 +1,6 @@
 ---
 id: 922aaa9e-4a22-53d1-a83d-9b4fb6b93246
+slug: recipe-still-says-role-open
 page-type-slug: finding
 title: "Recipe still says role open"
 domain-slug: persona/ione

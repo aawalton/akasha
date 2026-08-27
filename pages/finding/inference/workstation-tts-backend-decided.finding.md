@@ -1,5 +1,6 @@
 ---
 id: 1456eee8-ff48-5c24-b522-81a3bfe42ad7
+slug: workstation-tts-backend-decided
 page-type-slug: finding
 title: "Workstation tts backend decided"
 domain-slug: domain/inference

@@ -1,5 +1,6 @@
 ---
 id: 18679d78-caeb-5be4-ab97-74c0906edfd6
+slug: duplicate-row-indistinguishable
 page-type-slug: finding
 title: "Duplicate row indistinguishable"
 domain-slug: domain/global

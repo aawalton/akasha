@@ -1,5 +1,6 @@
 ---
 id: e8738e59-5e09-55f4-930d-d6ebc93a10bd
+slug: row-status-written-into-prose
 page-type-slug: finding
 title: "Row status written into prose"
 domain-slug: domain/global

@@ -1,5 +1,6 @@
 ---
 id: 8967b55b-4531-5492-8982-331dcf176e68
+slug: log-text-rule-cited-never-stated
 page-type-slug: finding
 title: "Log text rule cited never stated"
 domain-slug: domain/instrument

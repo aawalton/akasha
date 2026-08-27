@@ -1,5 +1,6 @@
 ---
 id: 8b608871-7940-5be4-a646-f49a6ab00eb9
+slug: buildkit-cache-pruned-to-nothing
 page-type-slug: finding
 title: "Buildkit cache pruned to nothing"
 domain-slug: domain/global

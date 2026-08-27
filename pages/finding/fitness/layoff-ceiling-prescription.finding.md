@@ -1,5 +1,6 @@
 ---
 id: 3253f341-dcc3-52b1-99bb-9466f303d9a8
+slug: layoff-ceiling-prescription
 page-type-slug: finding
 title: "Layoff ceiling prescription"
 domain-slug: domain/fitness

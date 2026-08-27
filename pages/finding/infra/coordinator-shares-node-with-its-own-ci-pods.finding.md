@@ -1,5 +1,6 @@
 ---
 id: e610ce5b-d818-5806-85db-129986489ee4
+slug: coordinator-shares-node-with-its-own-ci-pods
 page-type-slug: finding
 title: "Coordinator shares node with its own CI pods"
 domain-slug: domain/global

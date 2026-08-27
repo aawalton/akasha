@@ -1,5 +1,6 @@
 ---
 id: d4eae3dd-10dc-5e73-89d8-97eacba8d273
+slug: reviewed-at-has-no-timezone
 page-type-slug: finding
 title: "Reviewed at has no timezone"
 domain-slug: page-type/domain

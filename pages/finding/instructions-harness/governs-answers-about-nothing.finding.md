@@ -1,5 +1,6 @@
 ---
 id: c9ccb6f4-22a8-591a-a6c9-b0d6e7e90b40
+slug: governs-answers-about-nothing
 page-type-slug: finding
 title: "Governs answers about nothing"
 domain-slug: domain/global

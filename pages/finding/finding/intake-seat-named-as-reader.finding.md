@@ -1,5 +1,6 @@
 ---
 id: 9262a5ff-30bc-581e-b705-a62a86dea478
+slug: intake-seat-named-as-reader
 page-type-slug: finding
 title: "Intake seat named as reader"
 domain-slug: page-type/finding

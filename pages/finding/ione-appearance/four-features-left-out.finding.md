@@ -1,5 +1,6 @@
 ---
 id: 9eff10c9-10f4-54d0-a870-5888cd0f5c0c
+slug: four-features-left-out
 page-type-slug: finding
 title: "Four features left out"
 domain-slug: persona-appearance/ione-appearance

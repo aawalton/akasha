@@ -1,5 +1,6 @@
 ---
 id: 09d51817-b7fd-5711-a74b-c20e28b19a25
+slug: suites-leak-scratch-trees
 page-type-slug: finding
 title: "Suites leak scratch trees"
 domain-slug: domain/global

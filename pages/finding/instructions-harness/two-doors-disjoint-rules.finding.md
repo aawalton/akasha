@@ -1,5 +1,6 @@
 ---
 id: 8a28a4e8-d736-5be5-bcf8-a7666668a520
+slug: two-doors-disjoint-rules
 page-type-slug: finding
 title: "Two doors disjoint rules"
 domain-slug: domain/global

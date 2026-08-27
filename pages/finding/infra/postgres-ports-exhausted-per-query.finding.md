@@ -1,5 +1,6 @@
 ---
 id: 242d691d-3c73-56b6-872c-22c375ed5f8b
+slug: postgres-ports-exhausted-per-query
 page-type-slug: finding
 title: "Postgres ports exhausted per query"
 domain-slug: domain/global

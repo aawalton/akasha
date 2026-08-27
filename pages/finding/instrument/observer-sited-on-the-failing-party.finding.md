@@ -1,5 +1,6 @@
 ---
 id: 4b05cc24-4f9c-558d-b510-c3ce0f8cfb7b
+slug: observer-sited-on-the-failing-party
 page-type-slug: finding
 title: "Observer sited on the failing party"
 domain-slug: domain/instrument

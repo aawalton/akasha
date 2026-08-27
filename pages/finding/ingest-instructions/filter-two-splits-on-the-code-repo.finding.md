@@ -1,5 +1,6 @@
 ---
 id: bd4b7541-f806-544c-8a7e-c870470e4f71
+slug: filter-two-splits-on-the-code-repo
 page-type-slug: finding
 title: "Filter two splits on the code repo"
 domain-slug: domain/global

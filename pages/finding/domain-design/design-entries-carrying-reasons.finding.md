@@ -1,5 +1,6 @@
 ---
 id: b333ea77-9b18-5f2e-9fa6-3576e2ca4403
+slug: design-entries-carrying-reasons
 page-type-slug: finding
 title: "Design entries carrying reasons"
 domain-slug: page-body-section/domain-design

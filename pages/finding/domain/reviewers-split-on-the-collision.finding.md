@@ -1,5 +1,6 @@
 ---
 id: 485573fd-2d19-5a25-a8ae-a79e43beadd8
+slug: reviewers-split-on-the-collision
 page-type-slug: finding
 title: "Reviewers split on the collision"
 domain-slug: page-type/domain

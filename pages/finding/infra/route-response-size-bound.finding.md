@@ -1,5 +1,6 @@
 ---
 id: fbc71193-7b76-5d4e-9d6e-e2b9f2c2c316
+slug: route-response-size-bound
 page-type-slug: finding
 title: "Route response size bound"
 domain-slug: domain/global

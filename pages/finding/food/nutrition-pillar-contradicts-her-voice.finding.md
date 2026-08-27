@@ -1,5 +1,6 @@
 ---
 id: 6172e758-3efa-5158-af32-db609dd62e11
+slug: nutrition-pillar-contradicts-her-voice
 page-type-slug: finding
 title: "Nutrition pillar contradicts her voice"
 domain-slug: domain/global

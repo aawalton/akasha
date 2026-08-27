@@ -1,5 +1,6 @@
 ---
 id: a297aecc-0e6f-51fb-82bd-cb645cf37e6b
+slug: sections-restate-what-already-binds
 page-type-slug: finding
 title: "Sections restate what already binds"
 domain-slug: page-type/domain

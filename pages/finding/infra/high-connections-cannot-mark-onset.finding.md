@@ -1,5 +1,6 @@
 ---
 id: 08fb77d2-c219-576c-9a4b-7e94153ce906
+slug: high-connections-cannot-mark-onset
 page-type-slug: finding
 title: "High connections cannot mark onset"
 domain-slug: domain/global

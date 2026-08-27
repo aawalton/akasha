@@ -1,5 +1,6 @@
 ---
 id: d268c7b7-d7c0-5afb-a7e1-d33fcc37b2e5
+slug: padding-named-for-gap
 page-type-slug: finding
 title: "Padding named for gap"
 domain-slug: domain/design-system

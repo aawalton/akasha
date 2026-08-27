@@ -1,5 +1,6 @@
 ---
 id: 2638931b-d874-516d-a186-0af2acc12e25
+slug: synthetic-roots-need-corpus
 page-type-slug: finding
 title: "Synthetic roots need corpus"
 domain-slug: domain/global

@@ -1,5 +1,6 @@
 ---
 id: fe561f0f-d9da-5ca7-a880-d5e4a6dede78
+slug: beside-the-kinds-not-above
 page-type-slug: finding
 title: "Beside the kinds not above"
 domain-slug: page-type/domain

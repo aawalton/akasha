@@ -1,5 +1,6 @@
 ---
 id: f42f983f-9e13-528a-a735-8945148a60e4
+slug: active-energy-backfill-scoped
 page-type-slug: finding
 title: "Active energy backfill scoped"
 domain-slug: domain/fitness

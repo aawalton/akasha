@@ -1,5 +1,6 @@
 ---
 id: eee6b41b-7b0f-5139-b486-3e030d5fba5a
+slug: command-domains-doubled-the-vocabulary
 page-type-slug: finding
 title: "Command domains doubled the vocabulary"
 domain-slug: domain/domain-system

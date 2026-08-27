@@ -1,5 +1,6 @@
 ---
 id: cc4b5d6e-c136-531f-b20c-dd4605106fa5
+slug: intent-entry-reads-true
 page-type-slug: finding
 title: "Intent entry reads true"
 domain-slug: role/handler

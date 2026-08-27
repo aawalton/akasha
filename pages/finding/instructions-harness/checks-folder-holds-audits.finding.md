@@ -1,5 +1,6 @@
 ---
 id: ba948005-a3f3-5a5f-ac0e-24305d001e5f
+slug: checks-folder-holds-audits
 page-type-slug: finding
 title: "Checks folder holds audits"
 domain-slug: domain/global

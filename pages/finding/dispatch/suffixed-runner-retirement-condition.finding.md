@@ -1,5 +1,6 @@
 ---
 id: 29575f12-ba77-5dfa-be13-9481fa94e867
+slug: suffixed-runner-retirement-condition
 page-type-slug: finding
 title: "Suffixed runner retirement condition"
 domain-slug: domain/dispatch

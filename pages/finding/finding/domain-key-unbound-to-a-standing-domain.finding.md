@@ -1,5 +1,6 @@
 ---
 id: 0ed13863-5daa-5dd7-ab9f-4323b27f286f
+slug: domain-key-unbound-to-a-standing-domain
 page-type-slug: finding
 title: "Domain key unbound to a standing domain"
 domain-slug: page-type/finding

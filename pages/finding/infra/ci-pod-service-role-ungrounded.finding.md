@@ -1,5 +1,6 @@
 ---
 id: 6504712b-81a2-58f8-a080-6b0fb4218d2d
+slug: ci-pod-service-role-ungrounded
 page-type-slug: finding
 title: "CI pod service role ungrounded"
 domain-slug: domain/global

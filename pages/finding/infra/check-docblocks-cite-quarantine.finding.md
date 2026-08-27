@@ -1,5 +1,6 @@
 ---
 id: eee8bbf1-0c26-5d10-bb33-46c2424e435b
+slug: check-docblocks-cite-quarantine
 page-type-slug: finding
 title: "Check docblocks cite quarantine"
 domain-slug: domain/global

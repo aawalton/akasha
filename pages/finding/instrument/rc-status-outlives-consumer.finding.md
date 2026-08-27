@@ -1,5 +1,6 @@
 ---
 id: c2206011-91e5-5249-9846-d97fa7dad0f6
+slug: rc-status-outlives-consumer
 page-type-slug: finding
 title: "Rc status outlives consumer"
 domain-slug: domain/instrument

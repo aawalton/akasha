@@ -1,5 +1,6 @@
 ---
 id: 2b98efa4-bb2d-5f48-b2a6-c07239e0fbc2
+slug: conformance-silently-unmeasured
 page-type-slug: finding
 title: "Conformance silently unmeasured"
 domain-slug: domain/global

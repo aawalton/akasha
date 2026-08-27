@@ -1,5 +1,6 @@
 ---
 id: 242d5567-2461-5d43-a4c8-efd203dc353d
+slug: status-lists-hide-the-divergence
 page-type-slug: finding
 title: "Status lists hide the divergence"
 domain-slug: domain/global

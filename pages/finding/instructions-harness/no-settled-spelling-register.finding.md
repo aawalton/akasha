@@ -1,5 +1,6 @@
 ---
 id: 93650448-5f35-5576-81b7-b0e9dbbac80f
+slug: no-settled-spelling-register
 page-type-slug: finding
 title: "No settled spelling register"
 domain-slug: domain/global

@@ -1,5 +1,6 @@
 ---
 id: 3b1b6ff5-a2b5-5b24-a0ba-d030a1864e30
+slug: definition-carries-for-clause
 page-type-slug: finding
 title: "Definition carries for clause"
 domain-slug: task/file-finding

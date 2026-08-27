@@ -1,5 +1,6 @@
 ---
 id: fc7ae1f6-be77-593c-8bb0-75b36cddd916
+slug: seven-rules-cannot-fire
 page-type-slug: finding
 title: "Seven rules cannot fire"
 domain-slug: domain/global

@@ -1,5 +1,6 @@
 ---
 id: 47252b31-1905-50ab-a668-3e66f271d4cf
+slug: prose-flag-teaching-carriers-orphaned
 page-type-slug: finding
 title: "Prose flag teaching carriers orphaned"
 domain-slug: domain/global

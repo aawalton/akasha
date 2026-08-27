@@ -1,5 +1,6 @@
 ---
 id: 3caa613d-20c1-59dd-82c3-a1093936a5ca
+slug: merge-queue-docs-pointers-dead
 page-type-slug: finding
 title: "Merge queue docs pointers dead"
 domain-slug: domain/global

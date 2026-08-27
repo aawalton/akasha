@@ -1,5 +1,6 @@
 ---
 id: 84767108-9bba-59e9-a085-892aae359690
+slug: resume-notice-arms-misplaced
 page-type-slug: finding
 title: "Resume notice arms misplaced"
 domain-slug: domain/global

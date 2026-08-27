@@ -1,5 +1,6 @@
 ---
 id: f5bd5992-7362-5ef9-9373-5012771b86a0
+slug: timeouts-sized-for-an-idle-box
 page-type-slug: finding
 title: "Timeouts sized for an idle box"
 domain-slug: domain/global

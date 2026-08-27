@@ -1,5 +1,6 @@
 ---
 id: c89c8a63-225e-5d9c-b3de-892b276aaff3
+slug: upscale-default-doc-conflict
 page-type-slug: finding
 title: "Upscale default doc conflict"
 domain-slug: domain/inference

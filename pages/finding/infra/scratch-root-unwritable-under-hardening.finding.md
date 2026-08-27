@@ -1,5 +1,6 @@
 ---
 id: 35f218b5-0697-5465-8a64-0d447c88f01b
+slug: scratch-root-unwritable-under-hardening
 page-type-slug: finding
 title: "Scratch root unwritable under hardening"
 domain-slug: domain/global

@@ -1,5 +1,6 @@
 ---
 id: 5a877cca-60b5-568c-aa6b-2e215720417f
+slug: claude-md-citations-all-dead
 page-type-slug: finding
 title: "Claude MD citations all dead"
 domain-slug: domain/global

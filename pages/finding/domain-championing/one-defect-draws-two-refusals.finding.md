@@ -1,5 +1,6 @@
 ---
 id: cf5dfa88-de93-5771-b337-c706c1b7af1a
+slug: one-defect-draws-two-refusals
 page-type-slug: finding
 title: "One defect draws two refusals"
 domain-slug: domain/domain-championing

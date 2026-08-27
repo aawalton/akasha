@@ -1,5 +1,6 @@
 ---
 id: ed03c484-48e6-587d-88c9-9b87e6549ac4
+slug: wedge-total-reading-forbids-unobserved
 page-type-slug: finding
 title: "Wedge total reading forbids unobserved"
 domain-slug: domain/global

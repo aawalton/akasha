@@ -1,5 +1,6 @@
 ---
 id: 7afcb081-ecb2-52c2-9106-0f59e59321d6
+slug: executable-bit-unsettable
 page-type-slug: finding
 title: "Executable bit unsettable"
 domain-slug: domain/global

@@ -1,5 +1,6 @@
 ---
 id: ea0bcf56-ad27-59ce-8c56-475ee36ec013
+slug: rule-carried-by-no-gate
 page-type-slug: finding
 title: "Rule carried by no gate"
 domain-slug: page-type/domain

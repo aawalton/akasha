@@ -1,5 +1,6 @@
 ---
 id: 2568bf06-c941-5563-aca7-4781eec8fe8b
+slug: k8s-synth-include-list-misses-live-workloads
 page-type-slug: finding
 title: "K8s synth include list misses live workloads"
 domain-slug: domain/global

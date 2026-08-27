@@ -1,5 +1,6 @@
 ---
 id: 5cff0314-25a4-5eb2-b56f-e0291b1d15c4
+slug: source-header-denies-the-auto-acting-it-causes
 page-type-slug: finding
 title: "Source header denies the auto acting it causes"
 domain-slug: rules-engine-rule-set/email-rule

@@ -1,5 +1,6 @@
 ---
 id: efe046a4-b451-52bb-8a44-adb8a44c632a
+slug: seaweedfs-synth-typechecked-by-nothing
 page-type-slug: finding
 title: "Seaweedfs synth typechecked by nothing"
 domain-slug: domain/global

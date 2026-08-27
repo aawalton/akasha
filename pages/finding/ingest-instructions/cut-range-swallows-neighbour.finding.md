@@ -1,5 +1,6 @@
 ---
 id: 968caeae-9ba9-562f-b2cb-11013bc6b19e
+slug: cut-range-swallows-neighbour
 page-type-slug: finding
 title: "Cut range swallows neighbour"
 domain-slug: domain/global

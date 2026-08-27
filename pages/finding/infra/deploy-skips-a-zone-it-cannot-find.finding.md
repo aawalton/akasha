@@ -1,5 +1,6 @@
 ---
 id: 166acad0-ee88-594b-aa8a-b11280caccb3
+slug: deploy-skips-a-zone-it-cannot-find
 page-type-slug: finding
 title: "Deploy skips a zone it cannot find"
 domain-slug: domain/global

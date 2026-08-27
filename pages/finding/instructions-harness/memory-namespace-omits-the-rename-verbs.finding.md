@@ -1,5 +1,6 @@
 ---
 id: 049d66a0-ce26-5385-bc99-2d2b5c4e462e
+slug: memory-namespace-omits-the-rename-verbs
 page-type-slug: finding
 title: "Memory namespace omits the rename verbs"
 domain-slug: domain/global

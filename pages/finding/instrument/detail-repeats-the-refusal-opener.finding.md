@@ -1,5 +1,6 @@
 ---
 id: 3e85c71c-edbd-5f78-8490-cfe1176c90ae
+slug: detail-repeats-the-refusal-opener
 page-type-slug: finding
 title: "Detail repeats the refusal opener"
 domain-slug: domain/instrument

@@ -1,5 +1,6 @@
 ---
 id: 04fcfbdb-1d11-5634-9460-cb6bc778d836
+slug: glossary-free-at-boot
 page-type-slug: finding
 title: "Glossary free at boot"
 domain-slug: page-type/domain

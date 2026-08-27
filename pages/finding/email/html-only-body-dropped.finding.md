@@ -1,5 +1,6 @@
 ---
 id: 89a3d397-7195-5ca2-b84a-395af4c05264
+slug: html-only-body-dropped
 page-type-slug: finding
 title: "Html only body dropped"
 domain-slug: domain/email

@@ -1,5 +1,6 @@
 ---
 id: 8a8e3e8e-4482-5e2e-9fc3-6f799f0c5aab
+slug: context-doc-names-nothing-live
 page-type-slug: finding
 title: "Context doc names nothing live"
 domain-slug: role/handler

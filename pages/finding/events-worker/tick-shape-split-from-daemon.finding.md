@@ -1,5 +1,6 @@
 ---
 id: 7ae5e537-7abe-55b7-ba81-b2927167b7f2
+slug: tick-shape-split-from-daemon
 page-type-slug: finding
 title: "Tick shape split from daemon"
 domain-slug: domain/global

@@ -1,5 +1,6 @@
 ---
 id: 99c11443-260b-55d5-932e-72c57b82e850
+slug: loader-merge-closed-stale-claims
 page-type-slug: finding
 title: "Loader merge closed stale claims"
 domain-slug: domain/global

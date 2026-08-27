@@ -1,5 +1,6 @@
 ---
 id: 01f3ef92-f503-5861-9d85-5dcf1861f757
+slug: governs-cli-refuses-a-tree-root
 page-type-slug: finding
 title: "Governs CLI refuses a tree root"
 domain-slug: domain/global

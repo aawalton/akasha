@@ -1,5 +1,6 @@
 ---
 id: bab8f3cf-af14-5682-b510-0e514416cbee
+slug: an-instructions-commit-reddens-code-main
 page-type-slug: finding
 title: "An instructions commit reddens code main"
 domain-slug: domain/instrument

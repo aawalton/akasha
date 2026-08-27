@@ -1,5 +1,6 @@
 ---
 id: 260dd993-4c5a-5441-b6b5-e4f665af1166
+slug: mark-rule-bare-variant-unused
 page-type-slug: finding
 title: "Mark rule bare variant unused"
 domain-slug: domain/global

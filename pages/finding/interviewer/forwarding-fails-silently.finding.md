@@ -1,5 +1,6 @@
 ---
 id: 34e49200-645b-5fc1-b3f2-3a02a93cc00c
+slug: forwarding-fails-silently
 page-type-slug: finding
 title: "Forwarding fails silently"
 domain-slug: role/interviewer

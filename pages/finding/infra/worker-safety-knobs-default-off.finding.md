@@ -1,5 +1,6 @@
 ---
 id: 7dec629b-f6c4-5c13-90fd-b354fc3accc4
+slug: worker-safety-knobs-default-off
 page-type-slug: finding
 title: "Worker safety knobs default off"
 domain-slug: domain/global

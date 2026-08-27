@@ -1,5 +1,6 @@
 ---
 id: 4b6dc06b-10f8-5f8b-b08f-829576bb09e2
+slug: vocabulary-rebuilt-per-run
 page-type-slug: finding
 title: "Vocabulary rebuilt per run"
 domain-slug: domain/global

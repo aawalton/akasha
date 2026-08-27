@@ -1,5 +1,6 @@
 ---
 id: bb049e6c-7505-5b6e-93ff-a8c7d194c952
+slug: edit-leaves-a-write-uncommitted-on-index-contention
 page-type-slug: finding
 title: "Edit leaves a write uncommitted on index contention"
 domain-slug: domain/global

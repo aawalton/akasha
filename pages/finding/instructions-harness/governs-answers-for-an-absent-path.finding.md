@@ -1,5 +1,6 @@
 ---
 id: 1c1cf9e2-fb9f-512b-a1d0-926350c16f9e
+slug: governs-answers-for-an-absent-path
 page-type-slug: finding
 title: "Governs answers for an absent path"
 domain-slug: domain/global

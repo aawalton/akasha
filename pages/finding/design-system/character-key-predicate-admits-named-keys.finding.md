@@ -1,5 +1,6 @@
 ---
 id: 42128ffd-6368-52f0-a158-9c34ff629943
+slug: character-key-predicate-admits-named-keys
 page-type-slug: finding
 title: "Character key predicate admits named keys"
 domain-slug: domain/design-system

@@ -1,5 +1,6 @@
 ---
 id: a58280e7-87b1-55fc-b148-295b4a7c1554
+slug: drawn-term-never-differenced
 page-type-slug: finding
 title: "Drawn term never differenced"
 domain-slug: domain/global

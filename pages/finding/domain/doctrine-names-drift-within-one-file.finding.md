@@ -1,5 +1,6 @@
 ---
 id: ee360006-a14b-5cd7-b774-72304b2a4c88
+slug: doctrine-names-drift-within-one-file
 page-type-slug: finding
 title: "Doctrine names drift within one file"
 domain-slug: page-type/domain

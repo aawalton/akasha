@@ -1,5 +1,6 @@
 ---
 id: 8fcfbb3e-ab6c-5114-83ae-0f227f5d26d2
+slug: tailnet-egress-synth-points-at-a-service-doc-that-does-not-exist
 page-type-slug: finding
 title: "Tailnet egress synth points at a service doc that does not exist"
 domain-slug: domain/global

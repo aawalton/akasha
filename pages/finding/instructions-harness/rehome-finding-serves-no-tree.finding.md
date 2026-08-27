@@ -1,5 +1,6 @@
 ---
 id: c35b88f8-2f5d-5e1c-8937-7af3048c92f1
+slug: rehome-finding-serves-no-tree
 page-type-slug: finding
 title: "Rehome finding serves no tree"
 domain-slug: domain/global

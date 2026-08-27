@@ -1,5 +1,6 @@
 ---
 id: f694672b-ed60-50e8-a545-40e77cdf381c
+slug: governs-composes-a-missing-schema-path
 page-type-slug: finding
 title: "Governs composes a missing schema path"
 domain-slug: domain/global

@@ -1,5 +1,6 @@
 ---
 id: 4bf293c5-c010-51c5-8586-50d752e74676
+slug: corpus-undeclared-in-three-senses
 page-type-slug: finding
 title: "Corpus undeclared in three senses"
 domain-slug: domain/domain-system

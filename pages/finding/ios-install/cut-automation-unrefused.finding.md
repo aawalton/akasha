@@ -1,5 +1,6 @@
 ---
 id: 86be275b-aa6e-5c4a-a85e-e13dc1a947ee
+slug: cut-automation-unrefused
 page-type-slug: finding
 title: "Cut automation unrefused"
 domain-slug: domain/ios-install

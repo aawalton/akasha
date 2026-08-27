@@ -1,5 +1,6 @@
 ---
 id: 926f30d2-f67f-543c-9c7b-03d0c14c24db
+slug: shape-ceiling-watched-by-nothing
 page-type-slug: finding
 title: "Shape ceiling watched by nothing"
 domain-slug: domain/global

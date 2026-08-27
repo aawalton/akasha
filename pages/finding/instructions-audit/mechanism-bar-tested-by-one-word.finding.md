@@ -1,5 +1,6 @@
 ---
 id: 05c9b8c3-7bce-5557-82ca-4a14ee464008
+slug: mechanism-bar-tested-by-one-word
 page-type-slug: finding
 title: "Mechanism bar tested by one word"
 domain-slug: domain/global

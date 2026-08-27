@@ -1,5 +1,6 @@
 ---
 id: 14e04d88-7d4f-5b14-bd3c-1ad3cecb29ec
+slug: pass-ignores-a-misspelled-dry-run
 page-type-slug: finding
 title: "Pass ignores a misspelled dry run"
 domain-slug: domain/email

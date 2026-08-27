@@ -1,5 +1,6 @@
 ---
 id: ee53a36e-cf5b-5a5b-bc1f-d505377fb1a0
+slug: destructive-signal-wired-both-ways
 page-type-slug: finding
 title: "Destructive signal wired both ways"
 domain-slug: domain/instrument

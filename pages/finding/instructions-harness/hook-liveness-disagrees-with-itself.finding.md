@@ -1,5 +1,6 @@
 ---
 id: abf3b7fe-3679-5e60-a307-b0b003036832
+slug: hook-liveness-disagrees-with-itself
 page-type-slug: finding
 title: "Hook liveness disagrees with itself"
 domain-slug: domain/global

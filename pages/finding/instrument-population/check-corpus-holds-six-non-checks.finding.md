@@ -1,5 +1,6 @@
 ---
 id: 838b731c-05ec-513e-8a1f-90811afb48e2
+slug: check-corpus-holds-six-non-checks
 page-type-slug: finding
 title: "Check corpus holds six non checks"
 domain-slug: domain/instrument-population

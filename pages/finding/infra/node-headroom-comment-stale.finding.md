@@ -1,5 +1,6 @@
 ---
 id: 4f264964-b5dd-5667-ba21-3ce01e7e2405
+slug: node-headroom-comment-stale
 page-type-slug: finding
 title: "Node headroom comment stale"
 domain-slug: domain/global

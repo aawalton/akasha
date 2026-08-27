@@ -1,5 +1,6 @@
 ---
 id: c4635150-22d8-552c-8438-20a35a3093d8
+slug: exemption-set-vacuous-pass
 page-type-slug: finding
 title: "Exemption set vacuous pass"
 domain-slug: domain/instrument

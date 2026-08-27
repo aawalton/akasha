@@ -1,5 +1,6 @@
 ---
 id: f27dbf58-7a87-5ae7-ab2c-92f4a8bfbe85
+slug: nothing-unexplained-heading-two-senses
 page-type-slug: finding
 title: "Nothing Unexplained heading two senses"
 domain-slug: domain/design

@@ -1,5 +1,6 @@
 ---
 id: 09bea167-df94-5883-a556-06b4fd17ec69
+slug: silence-report-is-a-window-not-a-latch
 page-type-slug: finding
 title: "Silence report is a window not a latch"
 domain-slug: page-type/health-sample

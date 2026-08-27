@@ -1,5 +1,6 @@
 ---
 id: 7ac7a797-16b5-58d9-bf63-8b7ea5be8709
+slug: summed-floor-hides-empty-page-type
 page-type-slug: finding
 title: "Summed floor hides empty page type"
 domain-slug: domain/instrument-population

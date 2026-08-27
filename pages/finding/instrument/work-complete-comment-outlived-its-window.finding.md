@@ -1,5 +1,6 @@
 ---
 id: 5d25b3cc-9039-51ba-a4a2-2de07314c9c7
+slug: work-complete-comment-outlived-its-window
 page-type-slug: finding
 title: "Work complete comment outlived its window"
 domain-slug: domain/instrument

@@ -1,5 +1,6 @@
 ---
 id: 55b3c1e1-8728-5469-8085-54a10349e738
+slug: owner-approval-not-required
 page-type-slug: finding
 title: "Owner approval not required"
 domain-slug: page-type/domain

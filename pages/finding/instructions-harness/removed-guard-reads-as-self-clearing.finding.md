@@ -1,5 +1,6 @@
 ---
 id: 1288e1fd-4b95-5075-a55f-48429cf36012
+slug: removed-guard-reads-as-self-clearing
 page-type-slug: finding
 title: "Removed guard reads as self clearing"
 domain-slug: domain/global

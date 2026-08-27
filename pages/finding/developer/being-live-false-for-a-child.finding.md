@@ -1,5 +1,6 @@
 ---
 id: f78e39b2-4bda-552f-91b3-901b15189bf8
+slug: being-live-false-for-a-child
 page-type-slug: finding
 title: "Being live false for a child"
 domain-slug: domain/global

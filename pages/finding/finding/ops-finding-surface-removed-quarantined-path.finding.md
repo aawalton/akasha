@@ -1,5 +1,6 @@
 ---
 id: 91086610-5af1-579d-981e-8747979652dc
+slug: ops-finding-surface-removed-quarantined-path
 page-type-slug: finding
 title: "Ops finding surface removed quarantined path"
 domain-slug: page-type/finding

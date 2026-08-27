@@ -1,5 +1,6 @@
 ---
 id: 7d595bdc-44ae-5f51-95dd-df53e84391bf
+slug: changed-line-lacks-dispatch-carve-out
 page-type-slug: finding
 title: "Changed line lacks dispatch carve out"
 domain-slug: page-type/domain

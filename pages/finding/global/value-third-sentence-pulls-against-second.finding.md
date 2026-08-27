@@ -1,5 +1,6 @@
 ---
 id: 5302b53d-4596-5921-a493-21eb6d40fde2
+slug: value-third-sentence-pulls-against-second
 page-type-slug: finding
 title: "Value third sentence pulls against second"
 domain-slug: domain/global

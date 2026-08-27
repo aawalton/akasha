@@ -1,5 +1,6 @@
 ---
 id: 91c0eb10-a5e8-59ed-bdee-0c62ab9742aa
+slug: same-day-reading-unrecordable
 page-type-slug: finding
 title: "Same day reading unrecordable"
 domain-slug: domain/global

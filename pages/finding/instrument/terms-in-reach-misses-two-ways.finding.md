@@ -1,5 +1,6 @@
 ---
 id: 840a0bc6-d32e-54b8-98d7-b06d79cf76b9
+slug: terms-in-reach-misses-two-ways
 page-type-slug: finding
 title: "Terms in reach misses two ways"
 domain-slug: domain/instrument

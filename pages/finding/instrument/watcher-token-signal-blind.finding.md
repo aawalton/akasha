@@ -1,5 +1,6 @@
 ---
 id: edd41d5f-28e4-523a-a109-8bbd90e90f94
+slug: watcher-token-signal-blind
 page-type-slug: finding
 title: "Watcher token signal blind"
 domain-slug: domain/instrument

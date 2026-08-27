@@ -1,5 +1,6 @@
 ---
 id: 15bc2f77-50bf-57a3-a6fd-c8f0a6f1bbc0
+slug: accretion-below-the-gate
 page-type-slug: finding
 title: "Accretion below the gate"
 domain-slug: domain/instrument

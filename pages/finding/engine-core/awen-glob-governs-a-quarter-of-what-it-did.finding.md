@@ -1,5 +1,6 @@
 ---
 id: 0f39a545-1ee9-5c78-a282-8125165af002
+slug: awen-glob-governs-a-quarter-of-what-it-did
 page-type-slug: finding
 title: "Awen glob governs a quarter of what it did"
 domain-slug: domain/global

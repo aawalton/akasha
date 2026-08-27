@@ -1,5 +1,6 @@
 ---
 id: c45ef819-cce5-5a89-9419-4f92b73d1ed2
+slug: a-lost-door-is-named-after-it-is-already-gone
 page-type-slug: finding
 title: "A lost door is named after it is already gone"
 domain-slug: domain/global

@@ -1,5 +1,6 @@
 ---
 id: 596e08d4-efd4-5929-b125-40d6ed279cd8
+slug: classify-kind-drives-nothing
 page-type-slug: finding
 title: "Classify kind drives nothing"
 domain-slug: domain/global

@@ -1,5 +1,6 @@
 ---
 id: e70e16be-a40b-553d-944e-47ed0f9526e9
+slug: intent-turns-on-revenue
 page-type-slug: finding
 title: "Intent turns on revenue"
 domain-slug: domain/global

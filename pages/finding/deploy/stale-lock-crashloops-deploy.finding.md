@@ -1,5 +1,6 @@
 ---
 id: 3db514eb-4e41-539b-936e-2d1b28a822a1
+slug: stale-lock-crashloops-deploy
 page-type-slug: finding
 title: "Stale lock crashloops deploy"
 domain-slug: domain/deploy

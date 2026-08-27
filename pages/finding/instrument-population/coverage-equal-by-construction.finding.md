@@ -1,5 +1,6 @@
 ---
 id: 7bef9217-d067-56f2-8a88-24cffdbfd7bb
+slug: coverage-equal-by-construction
 page-type-slug: finding
 title: "Coverage equal by construction"
 domain-slug: domain/instrument-population

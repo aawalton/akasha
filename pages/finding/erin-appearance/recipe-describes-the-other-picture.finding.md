@@ -1,5 +1,6 @@
 ---
 id: 2b308fa2-d06f-5eb2-b0ca-b0a00c774867
+slug: recipe-describes-the-other-picture
 page-type-slug: finding
 title: "Recipe describes the other picture"
 domain-slug: persona-appearance/erin-appearance

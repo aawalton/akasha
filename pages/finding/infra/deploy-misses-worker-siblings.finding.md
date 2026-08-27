@@ -1,5 +1,6 @@
 ---
 id: f566b968-f526-536b-8178-7e135b548a29
+slug: deploy-misses-worker-siblings
 page-type-slug: finding
 title: "Deploy misses worker siblings"
 domain-slug: domain/global

@@ -1,5 +1,6 @@
 ---
 id: 7e6edd11-fb3c-527a-a4da-07a294f57bed
+slug: height-nothing-settles
 page-type-slug: finding
 title: "Height nothing settles"
 domain-slug: persona-appearance/erin-appearance

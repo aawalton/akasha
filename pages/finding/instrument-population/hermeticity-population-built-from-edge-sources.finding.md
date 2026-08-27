@@ -1,5 +1,6 @@
 ---
 id: 7994eed8-7c95-5e08-9b60-6d73e38c5e22
+slug: hermeticity-population-built-from-edge-sources
 page-type-slug: finding
 title: "Hermeticity population built from edge sources"
 domain-slug: domain/instrument-population

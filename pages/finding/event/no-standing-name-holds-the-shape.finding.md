@@ -1,5 +1,6 @@
 ---
 id: 412391f2-5fdf-58c8-bd60-38ec44899948
+slug: no-standing-name-holds-the-shape
 page-type-slug: finding
 title: "No standing name holds the shape"
 domain-slug: domain/global

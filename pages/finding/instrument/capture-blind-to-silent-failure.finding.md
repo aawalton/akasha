@@ -1,5 +1,6 @@
 ---
 id: e356c8af-5413-58c9-9b8a-9c6013213eb0
+slug: capture-blind-to-silent-failure
 page-type-slug: finding
 title: "Capture blind to silent failure"
 domain-slug: domain/instrument

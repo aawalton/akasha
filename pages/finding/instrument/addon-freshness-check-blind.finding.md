@@ -1,5 +1,6 @@
 ---
 id: e8e0530e-396c-5eb3-bb98-a8a2aa22165b
+slug: addon-freshness-check-blind
 page-type-slug: finding
 title: "Addon freshness check blind"
 domain-slug: domain/instrument

@@ -1,5 +1,6 @@
 ---
 id: 906929c1-d762-5fab-b001-d89f5a59e07b
+slug: directory-debt-discharged-by-moving
 page-type-slug: finding
 title: "Directory debt discharged by moving"
 domain-slug: domain/instrument-population

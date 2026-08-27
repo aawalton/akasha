@@ -1,5 +1,6 @@
 ---
 id: 074dcfdb-cb43-5568-b5a7-4fa0d68c610b
+slug: cert-expiry-alert-precedes-the-renewal
 page-type-slug: finding
 title: "Cert expiry alert precedes the renewal"
 domain-slug: domain/global

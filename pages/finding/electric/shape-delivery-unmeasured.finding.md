@@ -1,5 +1,6 @@
 ---
 id: 271662c6-1b5d-53fe-8f66-dc293fda733d
+slug: shape-delivery-unmeasured
 page-type-slug: finding
 title: "Shape delivery unmeasured"
 domain-slug: domain/global

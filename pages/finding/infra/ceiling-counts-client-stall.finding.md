@@ -1,5 +1,6 @@
 ---
 id: 0dfc5cdc-e292-5965-9048-7f94a74507fb
+slug: ceiling-counts-client-stall
 page-type-slug: finding
 title: "Ceiling counts client stall"
 domain-slug: domain/global

@@ -1,5 +1,6 @@
 ---
 id: ecb40d33-ca0e-5a63-94f8-5c8fff7a4cea
+slug: progression-target-ignores-set-age
 page-type-slug: finding
 title: "Progression target ignores set age"
 domain-slug: domain/fitness

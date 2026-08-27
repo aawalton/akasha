@@ -1,5 +1,6 @@
 ---
 id: 7442fd1f-6cf4-5513-910b-ee8dddcd583f
+slug: vision-guidance-off-the-path
 page-type-slug: finding
 title: "Vision guidance off the path"
 domain-slug: page-type/domain

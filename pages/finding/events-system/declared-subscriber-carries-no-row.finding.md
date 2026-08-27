@@ -1,5 +1,6 @@
 ---
 id: 01a01fd8-2de2-7001-97dd-b0b2e8e6b998
+slug: declared-subscriber-carries-no-row
 page-type-slug: finding
 title: "Declared subscriber carries no row"
 domain-slug: domain/global

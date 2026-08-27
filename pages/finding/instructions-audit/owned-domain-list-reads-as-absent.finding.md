@@ -1,5 +1,6 @@
 ---
 id: f4010ca8-8003-528b-aedb-a0edef32ccb3
+slug: owned-domain-list-reads-as-absent
 page-type-slug: finding
 title: "Owned domain list reads as absent"
 domain-slug: domain/global

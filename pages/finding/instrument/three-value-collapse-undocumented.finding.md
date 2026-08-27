@@ -1,5 +1,6 @@
 ---
 id: c2d3ef0e-1aa8-525d-879d-6e39215fedef
+slug: three-value-collapse-undocumented
 page-type-slug: finding
 title: "Three value collapse undocumented"
 domain-slug: domain/instrument

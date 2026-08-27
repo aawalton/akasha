@@ -1,5 +1,6 @@
 ---
 id: 18fb18d9-1985-568f-9537-f754227ccf09
+slug: persona-token-sorts-to-domain
 page-type-slug: finding
 title: "Persona token sorts to domain"
 domain-slug: barred-meaning/identity

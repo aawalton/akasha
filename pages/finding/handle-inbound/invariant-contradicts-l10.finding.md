@@ -1,5 +1,6 @@
 ---
 id: 8235b574-0aed-538b-823f-b6273250bd92
+slug: invariant-contradicts-l10
 page-type-slug: finding
 title: "Invariant contradicts l10"
 domain-slug: task/handle-inbound

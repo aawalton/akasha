@@ -1,5 +1,6 @@
 ---
 id: bc451303-9ec9-55d2-8dd8-3594baa00bc6
+slug: ops-verb-blind-to-newline
 page-type-slug: finding
 title: "Ops verb blind to newline"
 domain-slug: domain/global

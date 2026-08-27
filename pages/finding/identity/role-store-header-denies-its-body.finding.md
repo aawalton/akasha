@@ -1,5 +1,6 @@
 ---
 id: 5599b081-3524-5215-ad13-fdb5173344bb
+slug: role-store-header-denies-its-body
 page-type-slug: finding
 title: "Role store header denies its body"
 domain-slug: barred-meaning/identity

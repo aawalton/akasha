@@ -1,5 +1,6 @@
 ---
 id: 9d4304d4-61f8-5299-867d-5184daf45744
+slug: concurrent-shared-state-mutation-causes-misattribution
 page-type-slug: finding
 title: "Concurrent shared state mutation causes misattribution"
 domain-slug: domain/global

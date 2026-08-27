@@ -1,5 +1,6 @@
 ---
 id: 12101879-8ef9-5c70-99f5-624a26473ef0
+slug: governs-tree-uncalled
 page-type-slug: finding
 title: "Governs tree uncalled"
 domain-slug: domain/global

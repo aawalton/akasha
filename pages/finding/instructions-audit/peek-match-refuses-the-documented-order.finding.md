@@ -1,5 +1,6 @@
 ---
 id: 6051ad1f-8200-501b-b211-0ca14034cc0a
+slug: peek-match-refuses-the-documented-order
 page-type-slug: finding
 title: "Peek match refuses the documented order"
 domain-slug: domain/global

@@ -1,5 +1,6 @@
 ---
 id: a45fbeec-77a9-54e3-bbc6-c310a55b2e7c
+slug: one-stage-two-acts
 page-type-slug: finding
 title: "One stage two acts"
 domain-slug: domain/global

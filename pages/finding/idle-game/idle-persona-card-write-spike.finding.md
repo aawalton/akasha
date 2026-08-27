@@ -1,5 +1,6 @@
 ---
 id: 03f49066-b6bd-5051-8532-7d8ba40aef79
+slug: idle-persona-card-write-spike
 page-type-slug: finding
 title: "Idle persona card write spike"
 domain-slug: page-type/idle-game

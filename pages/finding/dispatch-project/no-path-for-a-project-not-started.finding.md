@@ -1,5 +1,6 @@
 ---
 id: 2884d362-5af8-5925-898d-32de2753b83d
+slug: no-path-for-a-project-not-started
 page-type-slug: finding
 title: "No path for a project not started"
 domain-slug: domain/global

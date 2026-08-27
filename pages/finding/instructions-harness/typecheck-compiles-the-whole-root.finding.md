@@ -1,5 +1,6 @@
 ---
 id: 2d7289c6-9d0a-5f56-9a6e-c36537006a07
+slug: typecheck-compiles-the-whole-root
 page-type-slug: finding
 title: "Typecheck compiles the whole root"
 domain-slug: domain/global

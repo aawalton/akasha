@@ -1,5 +1,6 @@
 ---
 id: e263009a-2da6-5bf5-be82-38df8f1398cd
+slug: empty-project-stub
 page-type-slug: finding
 title: "Empty project stub"
 domain-slug: domain/domain-system

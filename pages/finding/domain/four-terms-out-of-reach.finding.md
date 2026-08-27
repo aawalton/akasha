@@ -1,5 +1,6 @@
 ---
 id: eb4b2ccc-6087-5ba5-9fee-a2b96d69d6b5
+slug: four-terms-out-of-reach
 page-type-slug: finding
 title: "Four terms out of reach"
 domain-slug: page-type/domain

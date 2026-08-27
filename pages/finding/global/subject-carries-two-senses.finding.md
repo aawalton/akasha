@@ -1,5 +1,6 @@
 ---
 id: 1bf4506a-af8d-5a7e-bafc-a10b57aa2076
+slug: subject-carries-two-senses
 page-type-slug: finding
 title: "Subject carries two senses"
 domain-slug: domain/global

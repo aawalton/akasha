@@ -1,5 +1,6 @@
 ---
 id: 89a937d5-68ce-55cc-b2e5-959cd472a100
+slug: systemd-unit-constraints-from-deleted-comments
 page-type-slug: finding
 title: "Systemd unit constraints from deleted comments"
 domain-slug: domain/global

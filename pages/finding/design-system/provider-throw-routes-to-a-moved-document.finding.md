@@ -1,5 +1,6 @@
 ---
 id: 1a65552b-62d2-5f6f-9b9e-d31b8da12ce3
+slug: provider-throw-routes-to-a-moved-document
 page-type-slug: finding
 title: "Provider throw routes to a moved document"
 domain-slug: domain/design-system

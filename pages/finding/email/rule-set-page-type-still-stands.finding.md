@@ -1,5 +1,6 @@
 ---
 id: 42290bb4-a421-5fe5-bb78-413972edc13a
+slug: rule-set-page-type-still-stands
 page-type-slug: finding
 title: "Rule set page type still stands"
 domain-slug: domain/email

@@ -1,5 +1,6 @@
 ---
 id: ef1d1a74-f42f-5c64-83a7-7bc80ffa4eb9
+slug: render-gate-alanwalton-only
 page-type-slug: finding
 title: "Render gate alanwalton only"
 domain-slug: domain/deploy

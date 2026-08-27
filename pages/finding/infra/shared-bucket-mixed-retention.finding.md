@@ -1,5 +1,6 @@
 ---
 id: 84222634-3028-559f-b8c6-87fe805ff583
+slug: shared-bucket-mixed-retention
 page-type-slug: finding
 title: "Shared bucket mixed retention"
 domain-slug: domain/global

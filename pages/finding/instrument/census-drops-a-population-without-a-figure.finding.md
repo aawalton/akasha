@@ -1,5 +1,6 @@
 ---
 id: 9b592b98-a024-506c-91fa-a656f11ff634
+slug: census-drops-a-population-without-a-figure
 page-type-slug: finding
 title: "Census drops a population without a figure"
 domain-slug: domain/instrument

@@ -1,5 +1,6 @@
 ---
 id: c2b86533-b518-5b6f-84af-01cbb8d7a50d
+slug: docs-export-deletes-moved-prose
 page-type-slug: finding
 title: "Docs export deletes moved prose"
 domain-slug: domain/global

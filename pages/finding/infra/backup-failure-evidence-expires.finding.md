@@ -1,5 +1,6 @@
 ---
 id: 0fda48ba-81db-5892-94d0-0028a0eca3d7
+slug: backup-failure-evidence-expires
 page-type-slug: finding
 title: "Backup failure evidence expires"
 domain-slug: domain/global

@@ -1,5 +1,6 @@
 ---
 id: c3d3d32c-890f-554b-8347-3a9d3b6c2cce
+slug: changed-line-carve-out-asymmetric
 page-type-slug: finding
 title: "Changed line carve out asymmetric"
 domain-slug: page-type/domain

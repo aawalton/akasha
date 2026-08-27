@@ -1,5 +1,6 @@
 ---
 id: 44bfc07e-d6c0-5aec-8543-b23d236093a8
+slug: shared-ground-ruling-unfiled
 page-type-slug: finding
 title: "Shared ground ruling unfiled"
 domain-slug: domain/global

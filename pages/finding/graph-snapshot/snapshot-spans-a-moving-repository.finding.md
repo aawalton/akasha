@@ -1,5 +1,6 @@
 ---
 id: 2ecf3300-fce6-565d-a759-82a88dbb99ed
+slug: snapshot-spans-a-moving-repository
 page-type-slug: finding
 title: "Snapshot spans a moving repository"
 domain-slug: domain/graph-snapshot

@@ -1,5 +1,6 @@
 ---
 id: 91a29d55-9d31-5ada-95c8-dbdf305cf9d5
+slug: untracked-tree-counts-as-perimeter
 page-type-slug: finding
 title: "Untracked tree counts as perimeter"
 domain-slug: repo/instructions-repo

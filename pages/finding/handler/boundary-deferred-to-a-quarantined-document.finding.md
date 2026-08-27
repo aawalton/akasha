@@ -1,5 +1,6 @@
 ---
 id: 6a94fdc2-bd07-509d-92c3-7328105ff918
+slug: boundary-deferred-to-a-quarantined-document
 page-type-slug: finding
 title: "Boundary deferred to a quarantined document"
 domain-slug: role/handler

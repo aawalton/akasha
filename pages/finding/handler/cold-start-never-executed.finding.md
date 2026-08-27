@@ -1,5 +1,6 @@
 ---
 id: bbecf5f6-9617-5b3b-bdae-2264413e5913
+slug: cold-start-never-executed
 page-type-slug: finding
 title: "Cold start never executed"
 domain-slug: role/handler

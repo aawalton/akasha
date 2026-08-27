@@ -1,5 +1,6 @@
 ---
 id: 81c8f498-4981-5231-81f5-5578da5bccb8
+slug: reaper-blind-to-deleted-pod
 page-type-slug: finding
 title: "Reaper blind to deleted pod"
 domain-slug: domain/global

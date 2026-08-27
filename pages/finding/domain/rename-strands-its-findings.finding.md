@@ -1,5 +1,6 @@
 ---
 id: de09538e-6dce-5130-8a3d-d688bdb05ed6
+slug: rename-strands-its-findings
 page-type-slug: finding
 title: "Rename strands its findings"
 domain-slug: page-type/domain

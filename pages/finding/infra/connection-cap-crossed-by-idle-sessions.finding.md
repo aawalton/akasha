@@ -1,5 +1,6 @@
 ---
 id: 8a044796-eba6-50b6-b35e-a0c9966c809b
+slug: connection-cap-crossed-by-idle-sessions
 page-type-slug: finding
 title: "Connection cap crossed by idle sessions"
 domain-slug: domain/global

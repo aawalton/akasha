@@ -1,5 +1,6 @@
 ---
 id: 86b5cd9b-d45b-5d0e-8555-7903f43629cc
+slug: wedge-detector-verdict-contradicts-payload
 page-type-slug: finding
 title: "Wedge detector verdict contradicts payload"
 domain-slug: domain/global

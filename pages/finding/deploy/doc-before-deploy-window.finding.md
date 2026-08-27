@@ -1,5 +1,6 @@
 ---
 id: 51ef8c21-2183-56af-a3a7-e7cd915c6eb0
+slug: doc-before-deploy-window
 page-type-slug: finding
 title: "Doc before deploy window"
 domain-slug: domain/deploy

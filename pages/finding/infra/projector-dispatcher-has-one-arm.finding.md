@@ -1,5 +1,6 @@
 ---
 id: 3a4983d4-8e19-5e11-bc7e-5e0935e0650a
+slug: projector-dispatcher-has-one-arm
 page-type-slug: finding
 title: "Projector dispatcher has one arm"
 domain-slug: domain/global

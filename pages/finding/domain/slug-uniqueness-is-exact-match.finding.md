@@ -1,5 +1,6 @@
 ---
 id: 6280a6c6-f9ee-593a-b955-0bca22253600
+slug: slug-uniqueness-is-exact-match
 page-type-slug: finding
 title: "Slug uniqueness is exact match"
 domain-slug: page-type/domain

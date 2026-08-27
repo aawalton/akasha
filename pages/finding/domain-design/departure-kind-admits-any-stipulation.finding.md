@@ -1,5 +1,6 @@
 ---
 id: 07dafd85-d416-5ac0-95ec-7cc2bc202702
+slug: departure-kind-admits-any-stipulation
 page-type-slug: finding
 title: "Departure kind admits any stipulation"
 domain-slug: page-body-section/domain-design

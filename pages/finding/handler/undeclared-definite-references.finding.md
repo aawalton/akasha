@@ -1,5 +1,6 @@
 ---
 id: 8587cc9b-c897-58b9-943b-9cb6f4bf0cf8
+slug: undeclared-definite-references
 page-type-slug: finding
 title: "Undeclared definite references"
 domain-slug: role/handler

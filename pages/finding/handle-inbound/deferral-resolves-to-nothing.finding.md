@@ -1,5 +1,6 @@
 ---
 id: 2c128595-d7c0-58a5-8efa-cbf0644c72a8
+slug: deferral-resolves-to-nothing
 page-type-slug: finding
 title: "Deferral resolves to nothing"
 domain-slug: task/handle-inbound

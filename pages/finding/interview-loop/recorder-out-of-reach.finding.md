@@ -1,5 +1,6 @@
 ---
 id: 489137fc-0f02-57ec-8dee-985e15518422
+slug: recorder-out-of-reach
 page-type-slug: finding
 title: "Recorder out of reach"
 domain-slug: task/interview-loop

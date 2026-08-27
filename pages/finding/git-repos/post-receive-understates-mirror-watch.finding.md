@@ -1,5 +1,6 @@
 ---
 id: 49640dad-cb35-5dc8-a09a-34de008f0b01
+slug: post-receive-understates-mirror-watch
 page-type-slug: finding
 title: "Post receive understates mirror watch"
 domain-slug: domain/git-repos

@@ -1,5 +1,6 @@
 ---
 id: 640f3a35-ef58-5885-8241-0509a463d130
+slug: medical-gate-only-in-a-comment
 page-type-slug: finding
 title: "Medical gate only in a comment"
 domain-slug: domain/fitness

@@ -1,5 +1,6 @@
 ---
 id: 7af2193b-66dd-5c15-9f21-87453f2a13bc
+slug: agent-chain-docs-stale
 page-type-slug: finding
 title: "Agent chain docs stale"
 domain-slug: domain/dispatch

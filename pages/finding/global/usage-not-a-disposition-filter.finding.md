@@ -1,5 +1,6 @@
 ---
 id: 910bb1a8-ef9a-5136-bf3d-550b6ae7d777
+slug: usage-not-a-disposition-filter
 page-type-slug: finding
 title: "Usage not a disposition filter"
 domain-slug: domain/global

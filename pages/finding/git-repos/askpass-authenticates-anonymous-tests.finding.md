@@ -1,5 +1,6 @@
 ---
 id: 63a99b3d-64bb-5eab-94b2-d4963f3e6bbb
+slug: askpass-authenticates-anonymous-tests
 page-type-slug: finding
 title: "Askpass authenticates anonymous tests"
 domain-slug: domain/git-repos

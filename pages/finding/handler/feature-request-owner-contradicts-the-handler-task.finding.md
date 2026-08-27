@@ -1,5 +1,6 @@
 ---
 id: 8f17e7e4-7631-5f70-91c8-46768171004b
+slug: feature-request-owner-contradicts-the-handler-task
 page-type-slug: finding
 title: "Feature request owner contradicts the handler task"
 domain-slug: role/handler

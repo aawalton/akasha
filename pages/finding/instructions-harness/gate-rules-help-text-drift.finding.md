@@ -1,5 +1,6 @@
 ---
 id: 3e8d300b-cad3-521c-ae3d-78358ed042f2
+slug: gate-rules-help-text-drift
 page-type-slug: finding
 title: "Gate rules help text drift"
 domain-slug: domain/global

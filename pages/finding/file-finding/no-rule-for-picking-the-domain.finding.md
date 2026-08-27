@@ -1,5 +1,6 @@
 ---
 id: d4c18b56-65d1-5268-9248-0c2a31425c88
+slug: no-rule-for-picking-the-domain
 page-type-slug: finding
 title: "No rule for picking the domain"
 domain-slug: task/file-finding

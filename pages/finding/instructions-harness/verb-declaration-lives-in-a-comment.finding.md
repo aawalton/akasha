@@ -1,5 +1,6 @@
 ---
 id: 1b1a15a2-4e09-5b73-a2c7-9e09abb222f4
+slug: verb-declaration-lives-in-a-comment
 page-type-slug: finding
 title: "Verb declaration lives in a comment"
 domain-slug: domain/global

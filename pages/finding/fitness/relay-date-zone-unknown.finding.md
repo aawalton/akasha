@@ -1,5 +1,6 @@
 ---
 id: 2aed8835-c9aa-5aae-9445-fdd442a1355e
+slug: relay-date-zone-unknown
 page-type-slug: finding
 title: "Relay date zone unknown"
 domain-slug: domain/fitness

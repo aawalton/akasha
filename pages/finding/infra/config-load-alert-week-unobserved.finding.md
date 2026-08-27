@@ -1,5 +1,6 @@
 ---
 id: 1c0093bd-5183-5a18-b5e7-84e96cde9791
+slug: config-load-alert-week-unobserved
 page-type-slug: finding
 title: "Config load alert week unobserved"
 domain-slug: domain/global

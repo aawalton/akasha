@@ -1,5 +1,6 @@
 ---
 id: b07b0e61-a4e5-5912-92ad-ad8f5cee2178
+slug: counted-evidence-unreproducible
 page-type-slug: finding
 title: "Counted evidence unreproducible"
 domain-slug: page-type/finding

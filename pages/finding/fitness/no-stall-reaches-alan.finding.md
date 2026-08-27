@@ -1,5 +1,6 @@
 ---
 id: fd1d3837-dd2d-5853-b91f-86a753a3b129
+slug: no-stall-reaches-alan
 page-type-slug: finding
 title: "No stall reaches Alan"
 domain-slug: domain/fitness

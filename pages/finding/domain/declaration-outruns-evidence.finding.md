@@ -1,5 +1,6 @@
 ---
 id: cbc4cdd1-15ee-553e-9958-4ab3468d4f11
+slug: declaration-outruns-evidence
 page-type-slug: finding
 title: "Declaration outruns evidence"
 domain-slug: page-type/domain

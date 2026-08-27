@@ -1,5 +1,6 @@
 ---
 id: 209ae14d-9427-5223-afc9-f35a7c3b75fe
+slug: surface-versus-document
 page-type-slug: finding
 title: "Surface versus document"
 domain-slug: task/handle-inbound

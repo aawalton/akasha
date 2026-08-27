@@ -1,5 +1,6 @@
 ---
 id: b0ca5d6a-3bdc-597f-b113-28883100818e
+slug: composed-draft-fork-unheld
 page-type-slug: finding
 title: "Composed draft fork unheld"
 domain-slug: domain/global

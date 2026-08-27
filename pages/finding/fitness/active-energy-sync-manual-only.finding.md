@@ -1,5 +1,6 @@
 ---
 id: 40e6220e-afcc-5005-876a-34d2b1c772f2
+slug: active-energy-sync-manual-only
 page-type-slug: finding
 title: "Active energy sync manual only"
 domain-slug: domain/fitness

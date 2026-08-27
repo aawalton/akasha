@@ -1,5 +1,6 @@
 ---
 id: 2e69940a-b9d1-5c84-8fa5-252e067f9908
+slug: lead-definition-starved
 page-type-slug: finding
 title: "Lead definition starved"
 domain-slug: domain/dispatch

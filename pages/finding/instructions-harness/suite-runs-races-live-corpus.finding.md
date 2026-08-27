@@ -1,5 +1,6 @@
 ---
 id: 280d7f8d-fb35-5953-94c3-3c20d06308a9
+slug: suite-runs-races-live-corpus
 page-type-slug: finding
 title: "Suite runs races live corpus"
 domain-slug: domain/global

@@ -1,5 +1,6 @@
 ---
 id: d909838a-3ebf-5f99-8b1b-ada5cbbd29a7
+slug: reaper-list-misses-unit-workers
 page-type-slug: finding
 title: "Reaper list misses unit workers"
 domain-slug: domain/global

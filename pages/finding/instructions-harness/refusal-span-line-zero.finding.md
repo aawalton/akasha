@@ -1,5 +1,6 @@
 ---
 id: cda3fb59-8108-52e5-96cc-bac07b6836ea
+slug: refusal-span-line-zero
 page-type-slug: finding
 title: "Refusal span line zero"
 domain-slug: domain/global

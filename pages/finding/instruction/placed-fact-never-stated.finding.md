@@ -1,5 +1,6 @@
 ---
 id: 069381b7-1de4-5403-a5c2-3e13802400d7
+slug: placed-fact-never-stated
 page-type-slug: finding
 title: "Placed fact never stated"
 domain-slug: domain/global

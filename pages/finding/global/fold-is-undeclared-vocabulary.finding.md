@@ -1,5 +1,6 @@
 ---
 id: 7c2c2b64-bb96-524f-9be6-18f6be6311b3
+slug: fold-is-undeclared-vocabulary
 page-type-slug: finding
 title: "Fold is undeclared vocabulary"
 domain-slug: domain/global

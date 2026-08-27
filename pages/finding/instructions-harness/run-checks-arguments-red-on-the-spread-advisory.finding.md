@@ -1,5 +1,6 @@
 ---
 id: 0398e056-f18f-535d-b3df-ceef8654ba2d
+slug: run-checks-arguments-red-on-the-spread-advisory
 page-type-slug: finding
 title: "Run checks arguments red on the spread advisory"
 domain-slug: domain/global

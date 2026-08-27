@@ -1,5 +1,6 @@
 ---
 id: 4bf593b2-5fc4-57cd-ade2-1cc146b9b464
+slug: cold-start-probe-passes-a-skeleton
 page-type-slug: finding
 title: "Cold start probe passes a skeleton"
 domain-slug: domain/git-repos

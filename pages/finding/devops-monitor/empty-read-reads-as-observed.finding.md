@@ -1,5 +1,6 @@
 ---
 id: 21a6d208-fa78-50b9-86f7-7e1bd3587ff8
+slug: empty-read-reads-as-observed
 page-type-slug: finding
 title: "Empty read reads as observed"
 domain-slug: domain/global

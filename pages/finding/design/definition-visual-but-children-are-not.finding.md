@@ -1,5 +1,6 @@
 ---
 id: f64e2941-730e-54db-bdf3-44fbe9d658e5
+slug: definition-visual-but-children-are-not
 page-type-slug: finding
 title: "Definition visual but children are not"
 domain-slug: domain/design

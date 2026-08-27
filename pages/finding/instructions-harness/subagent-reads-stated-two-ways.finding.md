@@ -1,5 +1,6 @@
 ---
 id: a5c317d7-3217-5c75-82b2-4a6cdc8dc331
+slug: subagent-reads-stated-two-ways
 page-type-slug: finding
 title: "Subagent reads stated two ways"
 domain-slug: domain/global

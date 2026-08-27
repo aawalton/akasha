@@ -1,5 +1,6 @@
 ---
 id: 54b16a0c-93d2-56ac-acad-af2092dfd50e
+slug: cardio-relay-never-produced
 page-type-slug: finding
 title: "Cardio relay never produced"
 domain-slug: domain/fitness

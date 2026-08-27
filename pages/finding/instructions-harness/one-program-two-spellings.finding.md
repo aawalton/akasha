@@ -1,5 +1,6 @@
 ---
 id: 97de6cb0-f055-5f1f-a772-8d3644d9c9fe
+slug: one-program-two-spellings
 page-type-slug: finding
 title: "One program two spellings"
 domain-slug: domain/global

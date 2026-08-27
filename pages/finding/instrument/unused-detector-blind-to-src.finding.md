@@ -1,5 +1,6 @@
 ---
 id: 0751154a-6e8d-5ca8-b061-437607e1f6ce
+slug: unused-detector-blind-to-src
 page-type-slug: finding
 title: "Unused detector blind to src"
 domain-slug: domain/instrument

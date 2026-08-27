@@ -1,5 +1,6 @@
 ---
 id: 98e993df-675b-5403-9514-8889b4471a31
+slug: smoke-suffix-no-runner
 page-type-slug: finding
 title: "Smoke suffix no runner"
 domain-slug: domain/global

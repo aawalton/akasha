@@ -1,5 +1,6 @@
 ---
 id: c0b63329-bac7-5c14-9b64-7703e0655800
+slug: clean-checkout-regenerates-the-cluster-ca
 page-type-slug: finding
 title: "Clean checkout regenerates the cluster ca"
 domain-slug: domain/global

@@ -1,5 +1,6 @@
 ---
 id: 4b4c3004-9229-5560-826f-03bb332770fd
+slug: seam-with-scripture-closed
 page-type-slug: finding
 title: "Seam with scripture closed"
 domain-slug: value/faith

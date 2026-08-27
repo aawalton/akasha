@@ -1,5 +1,6 @@
 ---
 id: e425beb2-06db-5cd2-98ef-6acc4ed6a2c2
+slug: three-slot-measurement-rule
 page-type-slug: finding
 title: "Three slot measurement rule"
 domain-slug: domain/instrument

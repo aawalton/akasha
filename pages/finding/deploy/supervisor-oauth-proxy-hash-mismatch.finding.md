@@ -1,5 +1,6 @@
 ---
 id: 8003e75a-ff7f-5865-8a1a-bceab6a709b3
+slug: supervisor-oauth-proxy-hash-mismatch
 page-type-slug: finding
 title: "Supervisor oauth proxy hash mismatch"
 domain-slug: domain/deploy

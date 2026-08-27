@@ -1,5 +1,6 @@
 ---
 id: 0cc5b743-14d2-50a7-b1b3-5e578681b67e
+slug: reading-unit-enumeration-duplicated
 page-type-slug: finding
 title: "Reading unit enumeration duplicated"
 domain-slug: domain/global

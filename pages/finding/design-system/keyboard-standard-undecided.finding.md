@@ -1,5 +1,6 @@
 ---
 id: ba8e2851-d148-5896-9837-60bec987849f
+slug: keyboard-standard-undecided
 page-type-slug: finding
 title: "Keyboard standard undecided"
 domain-slug: domain/design-system

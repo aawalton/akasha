@@ -1,5 +1,6 @@
 ---
 id: 523caba0-0c0c-5f35-8423-8a225560129b
+slug: conduct-row-boots-into-absent-machinery
 page-type-slug: finding
 title: "Conduct row boots into absent machinery"
 domain-slug: domain/global

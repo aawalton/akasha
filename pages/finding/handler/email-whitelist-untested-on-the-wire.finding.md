@@ -1,5 +1,6 @@
 ---
 id: 81dccce6-55f0-598f-8fc3-f0ea942e765d
+slug: email-whitelist-untested-on-the-wire
 page-type-slug: finding
 title: "Email whitelist untested on the wire"
 domain-slug: role/handler

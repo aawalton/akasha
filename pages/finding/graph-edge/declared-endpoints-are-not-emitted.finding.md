@@ -1,5 +1,6 @@
 ---
 id: 5e7c0c96-039f-5752-b474-b3c92b268e62
+slug: declared-endpoints-are-not-emitted
 page-type-slug: finding
 title: "Declared endpoints are not emitted"
 domain-slug: page-type/graph-edge

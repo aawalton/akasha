@@ -1,5 +1,6 @@
 ---
 id: 1c5fbbbf-eafb-51a3-80aa-d10ac789ff5c
+slug: four-causes-of-a-misleading-zero
 page-type-slug: finding
 title: "Four causes of a misleading zero"
 domain-slug: domain/instrument

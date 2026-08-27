@@ -1,5 +1,6 @@
 ---
 id: a978f546-6adf-5fe9-bbe1-7d34ffe699e0
+slug: stop-licence-denied-by-the-verb
 page-type-slug: finding
 title: "Stop licence denied by the verb"
 domain-slug: list/idle-live-seat

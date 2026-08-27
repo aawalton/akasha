@@ -1,5 +1,6 @@
 ---
 id: 58c047a8-eff1-51c2-9b75-9fe06024e7ad
+slug: no-kind-for-external-knowledge
 page-type-slug: finding
 title: "No kind for external knowledge"
 domain-slug: page-type/domain

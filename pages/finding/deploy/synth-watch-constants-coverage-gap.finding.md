@@ -1,5 +1,6 @@
 ---
 id: 9bb95c83-b8ca-51ed-95dd-d549d6e11d70
+slug: synth-watch-constants-coverage-gap
 page-type-slug: finding
 title: "Synth watch constants coverage gap"
 domain-slug: domain/deploy

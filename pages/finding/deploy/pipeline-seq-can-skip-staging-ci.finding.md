@@ -1,5 +1,6 @@
 ---
 id: 5e78e827-b898-5e51-ad02-30a78038702d
+slug: pipeline-seq-can-skip-staging-ci
 page-type-slug: finding
 title: "Pipeline seq can skip staging CI"
 domain-slug: domain/deploy

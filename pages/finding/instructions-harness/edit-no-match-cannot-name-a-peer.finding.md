@@ -1,5 +1,6 @@
 ---
 id: bd64c1b1-a135-5acc-943e-0c9e16759282
+slug: edit-no-match-cannot-name-a-peer
 page-type-slug: finding
 title: "Edit no match cannot name a peer"
 domain-slug: domain/global

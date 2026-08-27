@@ -1,5 +1,6 @@
 ---
 id: 639e2f9e-a1d9-5844-8013-dd5c1002fb64
+slug: filer-limit-raised-instead-of-bounded
 page-type-slug: finding
 title: "Filer limit raised instead of bounded"
 domain-slug: domain/global

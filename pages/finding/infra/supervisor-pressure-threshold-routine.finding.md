@@ -1,5 +1,6 @@
 ---
 id: 7720a045-3b02-5360-91d8-61fc2afd46e8
+slug: supervisor-pressure-threshold-routine
 page-type-slug: finding
 title: "Supervisor pressure threshold routine"
 domain-slug: domain/global

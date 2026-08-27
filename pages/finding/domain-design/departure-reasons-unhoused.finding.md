@@ -1,5 +1,6 @@
 ---
 id: ba91b7cd-72ac-5439-acc1-045380db103d
+slug: departure-reasons-unhoused
 page-type-slug: finding
 title: "Departure reasons unhoused"
 domain-slug: page-body-section/domain-design

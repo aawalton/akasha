@@ -1,5 +1,6 @@
 ---
 id: 8abfcd2c-eb29-5144-8a49-f5a2fc702fd8
+slug: reviewed-at-zone-unstated
 page-type-slug: finding
 title: "Reviewed at zone unstated"
 domain-slug: page-type/domain

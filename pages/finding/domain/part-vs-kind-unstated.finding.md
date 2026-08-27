@@ -1,5 +1,6 @@
 ---
 id: 99cb459b-c8bc-530e-a5c6-9e36dfa8d836
+slug: part-vs-kind-unstated
 page-type-slug: finding
 title: "Part vs kind unstated"
 domain-slug: page-type/domain

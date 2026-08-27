@@ -1,5 +1,6 @@
 ---
 id: 15cee9b4-9ea7-5d1e-8c91-9e8be736b753
+slug: suite-runs-owns-the-ceiling
 page-type-slug: finding
 title: "Suite runs owns the ceiling"
 domain-slug: domain/global

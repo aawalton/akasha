@@ -1,5 +1,6 @@
 ---
 id: acef5068-4d8d-53f6-9820-21ed6e15e07a
+slug: keyboard-controls-citations-dangle
 page-type-slug: finding
 title: "Keyboard controls citations dangle"
 domain-slug: domain/design-system

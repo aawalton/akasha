@@ -1,5 +1,6 @@
 ---
 id: 11cabbcd-f318-5b1c-9c24-b4bd4d5199ac
+slug: path-globs-unresolved
 page-type-slug: finding
 title: "Path globs unresolved"
 domain-slug: page-type/domain

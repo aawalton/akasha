@@ -1,5 +1,6 @@
 ---
 id: 0724829a-16ff-5afe-9637-fb7b88f6a721
+slug: hook-liveness-always-advisory
 page-type-slug: finding
 title: "Hook liveness always advisory"
 domain-slug: domain/global

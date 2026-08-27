@@ -1,5 +1,6 @@
 ---
 id: 95a1de50-485d-53ed-84e6-555b72907558
+slug: terminal-clear-harm-overstated
 page-type-slug: finding
 title: "Terminal clear harm overstated"
 domain-slug: domain/global

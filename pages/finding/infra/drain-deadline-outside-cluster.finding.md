@@ -1,5 +1,6 @@
 ---
 id: 3484e0ca-25d1-5d49-83d3-95fc3b40336d
+slug: drain-deadline-outside-cluster
 page-type-slug: finding
 title: "Drain deadline outside cluster"
 domain-slug: domain/global

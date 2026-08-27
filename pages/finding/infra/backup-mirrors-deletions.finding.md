@@ -1,5 +1,6 @@
 ---
 id: 8646fa6c-6217-5b68-8f20-6a31b679c924
+slug: backup-mirrors-deletions
 page-type-slug: finding
 title: "Backup mirrors deletions"
 domain-slug: domain/global

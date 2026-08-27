@@ -1,5 +1,6 @@
 ---
 id: 4cf0e7af-4de7-5a49-b93f-475c9361c3b4
+slug: review-stamped-everywhere-defined-nowhere
 page-type-slug: finding
 title: "Review stamped everywhere defined nowhere"
 domain-slug: domain/global

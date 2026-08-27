@@ -1,5 +1,6 @@
 ---
 id: acf05920-68c2-5dac-8d56-d6ee6be09355
+slug: residue-blind-to-comments
 page-type-slug: finding
 title: "Residue blind to comments"
 domain-slug: domain/instrument

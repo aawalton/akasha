@@ -1,5 +1,6 @@
 ---
 id: d0085fde-a132-56ce-8cc4-0521d48e8653
+slug: hand-back-names-no-command
 page-type-slug: finding
 title: "Hand back names no command"
 domain-slug: domain/global

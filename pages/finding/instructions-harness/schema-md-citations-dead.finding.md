@@ -1,5 +1,6 @@
 ---
 id: ba45fcd0-a73f-59ad-9d7a-74c59881b8e3
+slug: schema-md-citations-dead
 page-type-slug: finding
 title: "Schema MD citations dead"
 domain-slug: domain/global

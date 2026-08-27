@@ -1,5 +1,6 @@
 ---
 id: fe5f9c48-f500-54c0-b37f-af91a6b05a4c
+slug: code-paths-blind-to-shell-spelling
 page-type-slug: finding
 title: "Code paths blind to shell spelling"
 domain-slug: domain/global

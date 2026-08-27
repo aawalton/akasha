@@ -1,5 +1,6 @@
 ---
 id: 089d83d7-6446-5ed1-9fe7-0ffe799c10e1
+slug: citation-rule-lost-its-door
 page-type-slug: finding
 title: "Citation rule lost its door"
 domain-slug: domain/global

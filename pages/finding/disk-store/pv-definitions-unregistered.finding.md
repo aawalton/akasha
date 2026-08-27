@@ -1,5 +1,6 @@
 ---
 id: 497f6604-16a7-50dc-9dbf-b06f91188cba
+slug: pv-definitions-unregistered
 page-type-slug: finding
 title: "Pv definitions unregistered"
 domain-slug: domain/disk-store

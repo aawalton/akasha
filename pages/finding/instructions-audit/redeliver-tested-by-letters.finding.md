@@ -1,5 +1,6 @@
 ---
 id: 70cbfb86-0a5c-53bc-9464-10451f38148d
+slug: redeliver-tested-by-letters
 page-type-slug: finding
 title: "Redeliver tested by letters"
 domain-slug: domain/global

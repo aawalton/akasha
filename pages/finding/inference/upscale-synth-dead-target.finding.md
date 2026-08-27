@@ -1,5 +1,6 @@
 ---
 id: 87af8ae4-4292-5b97-8018-5da7b8e41a92
+slug: upscale-synth-dead-target
 page-type-slug: finding
 title: "Upscale synth dead target"
 domain-slug: domain/inference

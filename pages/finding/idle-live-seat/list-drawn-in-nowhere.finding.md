@@ -1,5 +1,6 @@
 ---
 id: 79ee5134-cf14-559e-8632-866250fc1a9d
+slug: list-drawn-in-nowhere
 page-type-slug: finding
 title: "List drawn in nowhere"
 domain-slug: list/idle-live-seat

@@ -1,5 +1,6 @@
 ---
 id: 59c3ac58-2bf4-5f7d-8e3d-ff00f677103a
+slug: parent-edge-carries-half
 page-type-slug: finding
 title: "Parent edge carries half"
 domain-slug: list/idle-live-seat

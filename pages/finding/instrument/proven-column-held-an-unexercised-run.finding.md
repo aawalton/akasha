@@ -1,5 +1,6 @@
 ---
 id: b51d9d13-4d0b-5399-957b-82887fed8033
+slug: proven-column-held-an-unexercised-run
 page-type-slug: finding
 title: "Proven column held an unexercised run"
 domain-slug: domain/instrument

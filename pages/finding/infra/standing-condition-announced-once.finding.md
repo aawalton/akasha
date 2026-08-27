@@ -1,5 +1,6 @@
 ---
 id: 9c6ec1e6-01d2-52b1-982c-fbbd7b42624a
+slug: standing-condition-announced-once
 page-type-slug: finding
 title: "Standing condition announced once"
 domain-slug: domain/global

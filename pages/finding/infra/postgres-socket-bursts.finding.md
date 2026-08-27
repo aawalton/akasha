@@ -1,5 +1,6 @@
 ---
 id: 0a9dfec5-570d-5bf1-937b-785e8a321fca
+slug: postgres-socket-bursts
 page-type-slug: finding
 title: "Postgres socket bursts"
 domain-slug: domain/global

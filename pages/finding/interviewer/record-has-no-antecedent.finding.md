@@ -1,5 +1,6 @@
 ---
 id: 7df2c3a5-8dd0-5b95-965c-58073052a751
+slug: record-has-no-antecedent
 page-type-slug: finding
 title: "Record has no antecedent"
 domain-slug: role/interviewer

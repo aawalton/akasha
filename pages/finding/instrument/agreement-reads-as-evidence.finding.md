@@ -1,5 +1,6 @@
 ---
 id: 73909c15-dba8-5f46-9b7e-c16456485a3c
+slug: agreement-reads-as-evidence
 page-type-slug: finding
 title: "Agreement reads as evidence"
 domain-slug: domain/instrument

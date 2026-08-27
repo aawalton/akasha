@@ -1,5 +1,6 @@
 ---
 id: 286386d1-b7fe-5ddf-8535-1c4c650cef76
+slug: owner-fault-routes-on-count-first
 page-type-slug: finding
 title: "Owner fault routes on count first"
 domain-slug: domain/domain-championing

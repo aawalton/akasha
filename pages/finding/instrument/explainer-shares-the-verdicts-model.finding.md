@@ -1,5 +1,6 @@
 ---
 id: 3e03c9d2-bef1-56cb-a923-9099256411f5
+slug: explainer-shares-the-verdicts-model
 page-type-slug: finding
 title: "Explainer shares the verdicts model"
 domain-slug: domain/instrument

@@ -1,5 +1,6 @@
 ---
 id: 5c8ac67e-c5af-591b-8e5f-31b3902b6741
+slug: schema-change-conformance-unmeasured
 page-type-slug: finding
 title: "Schema change conformance unmeasured"
 domain-slug: domain/global

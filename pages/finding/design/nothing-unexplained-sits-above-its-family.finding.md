@@ -1,5 +1,6 @@
 ---
 id: 43572717-e055-565a-9fe6-be1bfad65594
+slug: nothing-unexplained-sits-above-its-family
 page-type-slug: finding
 title: "Nothing Unexplained sits above its family"
 domain-slug: domain/design

@@ -1,5 +1,6 @@
 ---
 id: 150124c3-3694-5344-ab09-e2ca8c1dce5a
+slug: global-intent-about-one-repo
 page-type-slug: finding
 title: "Global intent about one repo"
 domain-slug: domain/global

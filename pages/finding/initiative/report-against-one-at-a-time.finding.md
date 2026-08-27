@@ -1,5 +1,6 @@
 ---
 id: 5dcaeb93-0159-5665-92c6-1835320c8b3f
+slug: report-against-one-at-a-time
 page-type-slug: finding
 title: "Report against one at a time"
 domain-slug: page-type/initiative

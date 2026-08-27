@@ -1,5 +1,6 @@
 ---
 id: 1a24fd28-28dd-5d91-8625-0efccdb3b8a6
+slug: read-record-buckets-split
 page-type-slug: finding
 title: "Read record buckets split"
 domain-slug: domain/global

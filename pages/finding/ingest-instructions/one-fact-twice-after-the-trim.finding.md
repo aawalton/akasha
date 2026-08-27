@@ -1,5 +1,6 @@
 ---
 id: 9d67a920-2fcc-58d2-88f6-08da304cf941
+slug: one-fact-twice-after-the-trim
 page-type-slug: finding
 title: "One fact twice after the trim"
 domain-slug: domain/global

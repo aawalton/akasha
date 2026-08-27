@@ -1,5 +1,6 @@
 ---
 id: 01a01fd8-2de2-7000-9aea-e2b95e13bb75
+slug: zero-subscription-subscriber-reads-caught-up
 page-type-slug: finding
 title: "Zero subscription subscriber reads caught up"
 domain-slug: domain/global

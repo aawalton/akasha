@@ -1,5 +1,6 @@
 ---
 id: 81521331-c0a4-5ce8-8c9c-a136a71ac375
+slug: invariant-under-a-stage
 page-type-slug: finding
 title: "Invariant under a stage"
 domain-slug: task/handle-inbound

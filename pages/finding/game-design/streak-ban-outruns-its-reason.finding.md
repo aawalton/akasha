@@ -1,5 +1,6 @@
 ---
 id: ae2132e2-e71e-55c7-924f-f8e7940fdc64
+slug: streak-ban-outruns-its-reason
 page-type-slug: finding
 title: "Streak ban outruns its reason"
 domain-slug: domain/game-design

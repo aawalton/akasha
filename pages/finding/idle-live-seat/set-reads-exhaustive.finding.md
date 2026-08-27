@@ -1,5 +1,6 @@
 ---
 id: e3310c4f-c5fe-576d-9fe3-b583759614b5
+slug: set-reads-exhaustive
 page-type-slug: finding
 title: "Set reads exhaustive"
 domain-slug: list/idle-live-seat

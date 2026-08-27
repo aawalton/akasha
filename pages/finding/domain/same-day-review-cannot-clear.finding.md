@@ -1,5 +1,6 @@
 ---
 id: 1695ef24-9ae3-559c-a638-04969a15d4d1
+slug: same-day-review-cannot-clear
 page-type-slug: finding
 title: "Same day review cannot clear"
 domain-slug: page-type/domain

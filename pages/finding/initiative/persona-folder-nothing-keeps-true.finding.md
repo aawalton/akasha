@@ -1,5 +1,6 @@
 ---
 id: d9f7abb9-16ec-5363-b1e9-403366970981
+slug: persona-folder-nothing-keeps-true
 page-type-slug: finding
 title: "Persona folder nothing keeps true"
 domain-slug: page-type/initiative

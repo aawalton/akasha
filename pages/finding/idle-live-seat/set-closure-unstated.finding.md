@@ -1,5 +1,6 @@
 ---
 id: e224b6db-b237-590d-ace7-4800b94b3f1b
+slug: set-closure-unstated
 page-type-slug: finding
 title: "Set closure unstated"
 domain-slug: list/idle-live-seat

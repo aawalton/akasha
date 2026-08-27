@@ -1,5 +1,6 @@
 ---
 id: a42af974-a433-51fc-8aef-c9becaff91e0
+slug: unreadable-branch-untested
 page-type-slug: finding
 title: "Unreadable branch untested"
 domain-slug: domain/global

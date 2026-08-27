@@ -1,5 +1,6 @@
 ---
 id: 55ea71d0-1e2a-57bf-badc-966738b0c4c6
+slug: doctrine-names-govern-without-text
 page-type-slug: finding
 title: "Doctrine names govern without text"
 domain-slug: page-type/domain

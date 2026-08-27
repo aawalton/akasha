@@ -1,5 +1,6 @@
 ---
 id: cc933a69-0ebc-57bc-a907-8777d2e5eedb
+slug: psi-alerts-have-no-baseline
 page-type-slug: finding
 title: "Psi alerts have no baseline"
 domain-slug: domain/global

@@ -1,5 +1,6 @@
 ---
 id: 58737c17-84e5-5a3e-8784-989491c38add
+slug: changed-line-dispatched-review
 page-type-slug: finding
 title: "Changed line dispatched review"
 domain-slug: page-type/domain

@@ -1,5 +1,6 @@
 ---
 id: 22487ad6-4a35-56a5-9da1-b0836509341e
+slug: delegate-cannot-read
 page-type-slug: finding
 title: "Delegate cannot read"
 domain-slug: domain/global

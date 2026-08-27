@@ -1,5 +1,6 @@
 ---
 id: 797a11fb-ca89-53e1-be8b-dd7df6069147
+slug: citation-survives-move
 page-type-slug: finding
 title: "Citation survives move"
 domain-slug: domain/global

@@ -1,5 +1,6 @@
 ---
 id: 9871ec86-2ca3-5864-bd6e-c3f844015a4a
+slug: no-gate-reads-the-task-pin
 page-type-slug: finding
 title: "No gate reads the task pin"
 domain-slug: domain/global

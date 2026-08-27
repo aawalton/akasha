@@ -1,5 +1,6 @@
 ---
 id: 540fc3a9-4ca5-5911-86de-8cc128cb44a7
+slug: changed-line-review-exception
 page-type-slug: finding
 title: "Changed line review exception"
 domain-slug: page-type/domain

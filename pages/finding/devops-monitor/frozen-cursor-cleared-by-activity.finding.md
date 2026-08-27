@@ -1,5 +1,6 @@
 ---
 id: 43aecade-02f8-57d8-b45b-68533a1d3f3e
+slug: frozen-cursor-cleared-by-activity
 page-type-slug: finding
 title: "Frozen cursor cleared by activity"
 domain-slug: domain/global

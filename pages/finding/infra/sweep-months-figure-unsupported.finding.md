@@ -1,5 +1,6 @@
 ---
 id: 1c16c079-4efb-5ed4-8a34-99b2730e8692
+slug: sweep-months-figure-unsupported
 page-type-slug: finding
 title: "Sweep months figure unsupported"
 domain-slug: domain/global

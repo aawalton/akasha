@@ -1,5 +1,6 @@
 ---
 id: bd3e0cbc-0181-53cc-94f4-dec29d139f2f
+slug: postgres-connections-capped
 page-type-slug: finding
 title: "Postgres connections capped"
 domain-slug: domain/global

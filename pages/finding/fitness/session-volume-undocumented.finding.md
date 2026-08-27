@@ -1,5 +1,6 @@
 ---
 id: adbb2048-77aa-53b4-8a81-017cee297b21
+slug: session-volume-undocumented
 page-type-slug: finding
 title: "Session volume undocumented"
 domain-slug: domain/fitness

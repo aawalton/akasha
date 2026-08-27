@@ -1,5 +1,6 @@
 ---
 id: 24343029-5565-50b7-ba0c-bbec2be5cd9d
+slug: hook-registration-unverified-both-sides
 page-type-slug: finding
 title: "Hook registration unverified both sides"
 domain-slug: domain/global

@@ -1,5 +1,6 @@
 ---
 id: 4cbd880d-be35-5bf9-9d21-d251231ddb7e
+slug: two-states-one-refusal-body
 page-type-slug: finding
 title: "Two states one refusal body"
 domain-slug: domain/instrument

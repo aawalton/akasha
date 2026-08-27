@@ -1,5 +1,6 @@
 ---
 id: db6970cf-7c90-507d-a271-3611fec82c24
+slug: mirror-unrecorded
 page-type-slug: finding
 title: "Mirror unrecorded"
 domain-slug: domain/git-repos

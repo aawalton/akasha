@@ -1,5 +1,6 @@
 ---
 id: 4367c593-a575-5fe1-aa19-0e82069616e0
+slug: tsdoc-links-unscanned
 page-type-slug: finding
 title: "Tsdoc links unscanned"
 domain-slug: domain/global

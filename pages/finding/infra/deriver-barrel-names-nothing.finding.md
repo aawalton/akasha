@@ -1,5 +1,6 @@
 ---
 id: 6154784f-bc79-55f7-b178-21a6b32897dd
+slug: deriver-barrel-names-nothing
 page-type-slug: finding
 title: "Deriver barrel names nothing"
 domain-slug: domain/global

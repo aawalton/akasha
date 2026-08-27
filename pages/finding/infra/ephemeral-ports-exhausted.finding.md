@@ -1,5 +1,6 @@
 ---
 id: a9a7c6fe-b137-5542-a745-a2ae993a648d
+slug: ephemeral-ports-exhausted
 page-type-slug: finding
 title: "Ephemeral ports exhausted"
 domain-slug: domain/global

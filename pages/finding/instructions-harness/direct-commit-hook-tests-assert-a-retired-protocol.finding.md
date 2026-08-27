@@ -1,5 +1,6 @@
 ---
 id: 781159f2-3110-519f-91f5-574f79d53ba3
+slug: direct-commit-hook-tests-assert-a-retired-protocol
 page-type-slug: finding
 title: "Direct-commit hook tests assert a retired protocol"
 domain-slug: domain/global

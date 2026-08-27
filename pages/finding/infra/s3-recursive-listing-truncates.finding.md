@@ -1,5 +1,6 @@
 ---
 id: 79467ec7-5cad-5a68-8120-cd5bbaf53241
+slug: s3-recursive-listing-truncates
 page-type-slug: finding
 title: "S3 recursive listing truncates"
 domain-slug: domain/global

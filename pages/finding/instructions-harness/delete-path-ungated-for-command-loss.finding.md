@@ -1,5 +1,6 @@
 ---
 id: d74fac4a-222f-531c-948d-8c0acdce0753
+slug: delete-path-ungated-for-command-loss
 page-type-slug: finding
 title: "Delete path ungated for command loss"
 domain-slug: domain/global

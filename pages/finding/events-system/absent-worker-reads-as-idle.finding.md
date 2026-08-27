@@ -1,5 +1,6 @@
 ---
 id: 80ef6b02-11b8-5ef4-99f1-8c581310eff9
+slug: absent-worker-reads-as-idle
 page-type-slug: finding
 title: "Absent worker reads as idle"
 domain-slug: domain/global

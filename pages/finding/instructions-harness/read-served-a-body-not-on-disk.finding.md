@@ -1,5 +1,6 @@
 ---
 id: 250620ee-ee35-5d65-9a11-cdbb4eb270b2
+slug: read-served-a-body-not-on-disk
 page-type-slug: finding
 title: "Read served a body not on disk"
 domain-slug: domain/global

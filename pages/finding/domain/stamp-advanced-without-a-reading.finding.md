@@ -1,5 +1,6 @@
 ---
 id: d06dc27b-9bc1-5f89-a250-89ad6c75e9b4
+slug: stamp-advanced-without-a-reading
 page-type-slug: finding
 title: "Stamp advanced without a reading"
 domain-slug: page-type/domain

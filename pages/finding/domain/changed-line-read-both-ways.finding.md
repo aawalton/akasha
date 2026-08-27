@@ -1,5 +1,6 @@
 ---
 id: db5db3f0-1be0-5005-9ad4-9421b1bfe376
+slug: changed-line-read-both-ways
 page-type-slug: finding
 title: "Changed line read both ways"
 domain-slug: page-type/domain

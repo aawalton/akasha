@@ -1,5 +1,6 @@
 ---
 id: 7d333d9f-7265-5d3b-99b5-3c69ce7db338
+slug: idle-poll-writes-a-row
 page-type-slug: finding
 title: "Idle poll writes a row"
 domain-slug: domain/global

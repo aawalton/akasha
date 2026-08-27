@@ -1,5 +1,6 @@
 ---
 id: ddc36d60-104c-5f1e-a636-1ffe8285e388
+slug: structured-undefined
 page-type-slug: finding
 title: "Structured undefined"
 domain-slug: domain/fitness

@@ -1,5 +1,6 @@
 ---
 id: bd8e4c1a-3da9-551b-8a8c-644bc5e31dee
+slug: instructions-harness-uncovered
 page-type-slug: finding
 title: "Instructions harness uncovered"
 domain-slug: domain/global

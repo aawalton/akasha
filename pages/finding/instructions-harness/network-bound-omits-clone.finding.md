@@ -1,5 +1,6 @@
 ---
 id: 869aa00d-6120-5f01-b4fa-d36219d76065
+slug: network-bound-omits-clone
 page-type-slug: finding
 title: "Network bound omits clone"
 domain-slug: domain/global

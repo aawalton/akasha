@@ -1,5 +1,6 @@
 ---
 id: 23c0ac73-21ba-5164-9a24-095a9caa5f15
+slug: seat-declared-unbuilt-is-built
 page-type-slug: finding
 title: "Seat declared unbuilt is built"
 domain-slug: role/handler

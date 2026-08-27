@@ -1,5 +1,6 @@
 ---
 id: 84e1b9ad-bc37-52ea-a2b0-b798aaa2ba31
+slug: pin-unguarded-after-cut
 page-type-slug: finding
 title: "Pin unguarded after cut"
 domain-slug: domain/global

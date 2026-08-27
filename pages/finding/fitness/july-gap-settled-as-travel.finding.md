@@ -1,5 +1,6 @@
 ---
 id: 5fcaf811-aa51-5d7b-9b16-47700e017b28
+slug: july-gap-settled-as-travel
 page-type-slug: finding
 title: "July gap settled as travel"
 domain-slug: domain/fitness

@@ -1,5 +1,6 @@
 ---
 id: d6a682fd-eda6-5741-8f25-ea9d17a7073b
+slug: definition-narrower-than-its-glob
 page-type-slug: finding
 title: "Definition narrower than its glob"
 domain-slug: domain/global

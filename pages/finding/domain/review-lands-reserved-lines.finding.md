@@ -1,5 +1,6 @@
 ---
 id: 35ecb342-b9bf-5e18-a2c0-9bb48eb8bbe9
+slug: review-lands-reserved-lines
 page-type-slug: finding
 title: "Review lands reserved lines"
 domain-slug: page-type/domain

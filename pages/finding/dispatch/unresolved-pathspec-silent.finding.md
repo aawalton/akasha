@@ -1,5 +1,6 @@
 ---
 id: b8d52cbd-6b02-5049-9c4e-b3ff0734cbb0
+slug: unresolved-pathspec-silent
 page-type-slug: finding
 title: "Unresolved pathspec silent"
 domain-slug: domain/dispatch
