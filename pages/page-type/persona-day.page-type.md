@@ -7,6 +7,7 @@ files: akasha:**/*.persona-day.md
 body-shape-slug: empty
 slug: persona-day
 domain-parent-slug: domain/persona-points
+named-for: "{persona-slug}-{date}"
 ---
 
 # Definition
@@ -17,7 +18,7 @@ domain-parent-slug: domain/persona-points
 
 One persona has at most one file per day, and two writers racing to create it settle on the same file.
 
-A day stands under the persona it belongs to, named for the date it covers.
+A day is named for the persona it belongs to and the date it covers.
 
 The day's tracking record is found by that date rather than named on the page.
 
