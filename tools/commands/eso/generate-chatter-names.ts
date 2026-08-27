@@ -25,12 +25,12 @@ export const help: CommandHelp = {
       valueShape: "token",
       path: true,
       description:
-        "The code checkout the enum declarations are read from and the registry written into. Defaults to CODE_ROOT, or the sibling `code`.",
+        "The checkout the enum declarations are read from and the registry written into. Defaults to $CODE_ROOT, else this repository.",
     },
   ],
-  envVars: [{ name: "CODE_ROOT", description: "The code checkout, when --code-root is absent." }],
+  envVars: [{ name: "CODE_ROOT", description: "The checkout to work in, when --code-root is absent." }],
   exits: [{ code: 2, meaning: "the enum declarations name no chatter or interaction constant" }],
-  examples: ["ops eso generate-chatter-names --code-root ~/repos/code"],
+  examples: ["ops eso generate-chatter-names --code-root ~/repos/akasha"],
 }
 
 export default async function esoGenerateChatterNames(args: readonly string[]): Promise<void> {

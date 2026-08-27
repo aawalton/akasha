@@ -1,6 +1,6 @@
 
 export const summary =
-  "Rebuild the HUD scene component catalog the code repo carries from the ~/esoui clone"
+  "Rebuild the HUD scene component catalog this repository carries from the ~/esoui clone"
 
 import { realpathSync } from "node:fs"
 import { mkdir, readFile, writeFile } from "node:fs/promises"
@@ -47,12 +47,12 @@ export const help: CommandHelp = {
       valueShape: "token",
       path: true,
       description:
-        "The code checkout the parse rules are loaded from and the catalog written into. Defaults to CODE_ROOT, or the sibling `code`.",
+        "The checkout the parse rules are loaded from and the catalog written into. Defaults to $CODE_ROOT, else this repository.",
     },
   ],
-  envVars: [{ name: "CODE_ROOT", description: "The code checkout, when --code-root is absent." }],
+  envVars: [{ name: "CODE_ROOT", description: "The checkout to work in, when --code-root is absent." }],
   exits: [{ code: 2, meaning: "the scene source names no component" }],
-  examples: ["ops eso generate-hud-scene-catalog --code-root ~/repos/code"],
+  examples: ["ops eso generate-hud-scene-catalog --code-root ~/repos/akasha"],
 }
 
 function render(json: string, apiVersion: number, headerLines: readonly [string, string]): string {

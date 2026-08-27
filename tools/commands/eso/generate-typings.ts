@@ -1,5 +1,5 @@
 
-export const summary = "Rebuild the opt-in ESO API typings the code repo carries from the ~/esoui clone"
+export const summary = "Rebuild the opt-in ESO API typings this repository carries from the ~/esoui clone"
 
 import { mkdir, readFile, writeFile } from "node:fs/promises"
 import { realpathSync } from "node:fs"
@@ -32,18 +32,18 @@ export const help: CommandHelp = {
   description:
     "Parse the ESO UI documentation dump for every function, object, event and enum it describes,\n" +
     "keep the ones the opt-in manifest names plus the enums and parent objects those reach, and\n" +
-    "write the result into the code repository as the declaration files its addons compile against.\n" +
+    "write the result into this repository as the declaration files its addons compile against.\n" +
     "\n" +
     "The manifest is the scope. The dump describes thousands of tokens and an addon needs a few\n" +
     "hundred, so the manifest stands here beside the generator and a token absent from it is absent\n" +
     "from the typings.\n" +
     "\n" +
-    "The written files are tracked artefacts of the code repository; this command is the rule they\n" +
+    "The written files are tracked artefacts of this repository; this command is the rule they\n" +
     "are made by and stands here, where no deploy has to carry it. The output tree is taken from the\n" +
-    "code checkout named rather than from this file's own location.\n" +
+    "checkout named rather than from this file's own location.\n" +
     "\n" +
-    "The emitted files are formatted with the code repository's own Biome, so a run leaves the tree\n" +
-    "as a run from that repository would have.",
+    "The emitted files are formatted with this repository's own Biome, so a run leaves the tree\n" +
+    "as a run from inside it would have.",
   flags: [
     {
       name: "--code-root",
@@ -51,11 +51,11 @@ export const help: CommandHelp = {
       valueShape: "token",
       path: true,
       description:
-        "The code checkout the typings are written into. Defaults to CODE_ROOT, or the sibling `code`.",
+        "The checkout the typings are written into. Defaults to $CODE_ROOT, else this repository.",
     },
   ],
-  envVars: [{ name: "CODE_ROOT", description: "The code checkout, when --code-root is absent." }],
-  examples: ["ops eso generate-typings --code-root ~/repos/code"],
+  envVars: [{ name: "CODE_ROOT", description: "The checkout to work in, when --code-root is absent." }],
+  examples: ["ops eso generate-typings --code-root ~/repos/akasha"],
 }
 
 const INDEX_BODY = `// ESO API Types (Auto-generated — opt-in scoped)
