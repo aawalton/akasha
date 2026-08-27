@@ -1,8 +1,8 @@
 ---
-id: 01a044aa-39e0-7000-897c-091870924306
+id: 01a044b8-1b44-7000-976d-dd6738450d4f
 page-type-slug: domain
-title: "Page property expression language"
-slug: page-property-expression-language
+title: "Formula language"
+slug: formula-language
 domain-parent-slug: domain/page-property-computed
 required-reading-slugs:
   - domain/language-power
@@ -15,4 +15,4 @@ required-reading-slugs:
 
 # Definition
 
-- **Page property expression language** — what a page property's expression may say.
+- **Formula language** — what a formula may say.
