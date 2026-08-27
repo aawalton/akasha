@@ -1,6 +1,6 @@
 
 export const summary =
-  "Rebuild the base-game global-name authority in the code repo from the ~/esoui clone"
+  "Rebuild the base-game global-name authority in this repository from the ~/esoui clone"
 
 import { readFileSync, realpathSync, statSync, writeFileSync } from "node:fs"
 import { resolve } from "node:path"
@@ -20,11 +20,11 @@ const OUT_REL = "packages/temper/shared/build-deploy/checks/src/eso-base-game-gl
 
 export const help: CommandHelp = {
   description:
-    "Scan every Lua file under the ESO UI source clone for top-level global assignments matching the ESO naming convention, union every `SI_*` string id the source mentions, and write the result into the code repo as a sorted authority.\n" +
+    "Scan every Lua file under the ESO UI source clone for top-level global assignments matching the ESO naming convention, union every `SI_*` string id the source mentions, and write the result into this repository as a sorted authority.\n" +
     "\n" +
     "A string id is declared by `SafeAddString` rather than assigned, so the mention scan is what reaches it; an assignment scan alone misses hundreds.\n" +
     "\n" +
-    "The written file is a tracked artefact of the code repo, which two addon gates read; this command is the rule it is made by and stands here, where no deploy has to carry it. The output path is taken from the code checkout named rather than from this file's own location, so the artefact lands in the tree it belongs to whichever checkout this runs from.\n" +
+    "The written file is a tracked artefact of this repository, which two addon gates read; this command is the rule it is made by and stands here, where no deploy has to carry it. The output path is taken from the checkout named rather than from this file's own location, so the artefact lands in the tree it belongs to whichever checkout this runs from.\n" +
     "\n" +
     "The clone is read and never written. Where it holds no global the run fails rather than writing an empty authority, because an empty set reads to every consumer as a clean answer.",
   flags: [
@@ -41,11 +41,11 @@ export const help: CommandHelp = {
       valueShape: "token",
       path: true,
       description:
-        "The code checkout the artefact is written into. Defaults to CODE_ROOT, or the sibling `code`. The domain logic this reads is loaded from the main checkout either way.",
+        "The checkout the artefact is written into. Defaults to $CODE_ROOT, else this repository. The domain logic this reads is loaded from the main checkout either way.",
     },
   ],
-  envVars: [{ name: "CODE_ROOT", description: "The code checkout, when --code-root is absent." }],
-  examples: ["ops eso generate-base-game-globals --code-root ~/repos/code"],
+  envVars: [{ name: "CODE_ROOT", description: "The checkout to work in, when --code-root is absent." }],
+  examples: ["ops eso generate-base-game-globals --code-root ~/repos/akasha"],
 }
 
 function renderManifest(
