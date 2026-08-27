@@ -19,6 +19,4 @@ settled: true
 
 # Design
 
-Alan's harness is a layer of its own rather than a part of this one.
-
 Each dimension beneath this one is declared on its own, and none implies another.
