@@ -1,0 +1,52 @@
+{
+  "_status": "DRAFT — needs calibration with Alan / the personas before canon",
+  "name": "Aelwyn",
+  "kind": "ally",
+  "role": "Health — the frontline body (player-character, fights beside Alan)",
+  "level": 1,
+  "xp": 0,
+  "xpToNext": 100,
+  "class": "Bulwark (tentative) — frontline tank/protector; holds the line, soaks hits, controls space",
+  "classNote": "Tentative. Aelwyn is the BODY Alan does not have — she stands in front so his glass cannon never has to. Calibrate against the real persona (the strength/health axis).",
+  "rollMode": "2d10",
+  "attributes": {
+    "MIGHT": 16,
+    "FINESSE": 12,
+    "VITALITY": 17,
+    "INTELLECT": 11,
+    "PERCEPTION": 12,
+    "WILL": 15,
+    "PRESENCE": 13,
+    "LUCK": 9
+  },
+  "attributePointsUnspent": 0,
+  "skills": [],
+  "titles": [],
+  "affinities": [],
+  "equipment": { "weapon": null, "armor": { "name": "worn but sound brigandine", "def": 3 }, "items": [] },
+  "traits": [
+    {
+      "id": "guardian",
+      "name": "Guardian",
+      "effect": "Can interpose for an ally — take a hit meant for Alan onto her far larger HP pool (168 vs his 70). The structural fix for his VIT 6 fragility."
+    },
+    {
+      "id": "wall",
+      "name": "Immovable",
+      "effect": "VITALITY 17 + WILL 15 — resists knockback, grapples, fear, and attrition. Hard to move, hard to break, hard to rattle."
+    },
+    {
+      "id": "heavy-hitter",
+      "name": "Heavy Hitter",
+      "effect": "MIGHT 16, physAtk 36 — the party's reliable damage floor. Where Alan's 1d20 swings wild, Aelwyn's blows land steady and hard (2d10 bell)."
+    },
+    {
+      "id": "endurance",
+      "name": "Deep Wind",
+      "effect": "Stamina 92 — sustains long fights, sustained pushes, and carries. The party's stamina anchor for marches and prolonged combat."
+    }
+  ],
+  "derived_preview": { "hpMax": 168, "stamMax": 92, "focusMax": 74, "initiative": 24, "physAtk": 36, "physDef": 17.5, "mentDef": 28 },
+  "complementNote": "Directly covers Alan's fatal weakness: VIT 6 / HP 70 / physDef 9.5. Aelwyn's 168 HP and physDef 17.5 mean she fronts the Drowned Sentries and Plinth Golems of the tower so Alan can stand back and READ — INT names the weakness, Aelwyn delivers the steady blow to it. The party's anvil. (Lower LUCK 9 — she is the dependable opposite of Alan's wild fate.)",
+  "_derivedHint": "All derived stats computed by engine/engine.ts from attributes + equipment. derived_preview is a non-authoritative convenience snapshot."
+}

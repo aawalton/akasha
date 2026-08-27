@@ -1,0 +1,16 @@
+---
+pageType: story-wiki
+slug: quick-step
+title: Quick-Step
+bodyField: content
+story: cornerstone
+kind: character
+chapterNumber: 1
+---
+# Quick-Step
+
+A settler of the founding camp, known to the core only by tread (the core "learned them by their tread" — "the only true names I had"). **Light and quick**, never quite still, "always rising up onto the balls of its feet as if the ground were too cold to trust a whole sole to for long."
+
+**By day — the watcher.** Walks one path repeatedly: out from the camp to the **high lip / rise** at the edge of the core's ground, where it stops and stands, weight shifting foot to foot, **facing outward** past the rim "toward the thing it was afraid of." The core reads fear in this tread. When the four labors begin, Quick-Step and others haul stone *uphill* to the rise — stacking it high to build a high place to watch from, born of the wish for "eyes" so the hunting dark can never cross the edge unseen. (Maps to the Sight / Watch-Cairn option.)
+
+**By night — the one who breaks alone (confirmed ch.1).** On some nights a single settler rises alone — "a quicker, more broken going" — and the core knows "the quickness of it for Quick-Step's: the watcher who stood at the rim by day with its face to the dark, come back alone in the night to let the dark have it." Out at the high lip it lowers itself down, sits, and shakes — "a body weeping where no one could see, two points of pressure that were hands pressed to a face... alone with whatever was too heavy to carry in the daylight where the others would watch." The core knows "that one was breaking a little" and aches, helplessly, to comfort it. *(This explicitly resolves the earlier ambiguity: the daytime watcher and the night-weeper are one and the same — Quick-Step.)* (See relationship: *The Core and Quick-Step*.)

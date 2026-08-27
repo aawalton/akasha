@@ -1,0 +1,44 @@
+# Idle design-review walk — Alan's reactions (2026-06-26, aura-3)
+Interview-driven, top-to-bottom. Capture NOTHING until the walk is done, then cluster.
+Current layout order: 1 masthead · 2 status panel · 3 roster(cards+draw+gallery) · 4 lineup · 5 prestige · 6 foot-note
+
+## 1. Masthead (title + currency counter + rate)
+- DROP the top header line entirely ("Idle · the team" + "persona collection" subtitle) — omit needless ink. The masthead title goes away.
+- KEEP the big hero number (likes it) — but put it ON A CARD (the layout system's PanelCard).
+- The currency label becomes the CARD TITLE of that standard panel card (so the hero number sits on a PanelCard titled with the currency name).
+
+## 2. Status panel (weather/bloom/indicators)
+- HYPOTHESIS: the status info should be COMPACTLY EMBEDDED into the persona cards, NOT a separate top-level section. Dissolve the standalone Status card.
+- DROP the ticking timestamps at the top level — they read as ARTIFICIAL URGENCY. No live countdowns surfaced at the top level.
+- The always-visible compact bit on a card could open a POPOVER with more detail on click (progressive disclosure for the deeper status read).
+
+## 3. Roster (girl-card grid + draw + gallery)
+- PERSONA CARDS adopt the PanelCard pattern — specifically the GalleryCard variant: most-important info at TOP, image cropped SQUARE, details at BOTTOM. Efficient BADGES for the details.
+- (status info from §2 embeds compactly into these cards; click → popover for detail.)
+- DRAW ROW: dissolve the standalone draw panel — the draw becomes an ACTION on the Hero points card (the Moments PanelCard). "Everything is a draw" → the one global draw action lives on the hero card.
+- ★★ GRID → a real pages-system VIEW (gallery view), not a hand-rolled grid. Gets search / sort / filter / group for free from standard components — build none of it ourselves.
+- ★★ GO ALL THE WAY: use the ACTUAL GalleryCards (the design-system card the View renders), not a custom look-alike. Means adapting the cards to that system AND modeling each card as a real `idle-persona-card` PAGE TYPE with the relevant properties (image, name, stars, rate contribution, lock state, etc.). "Another huge change, but a powerful fun."
+- ★★ PAGES-SYSTEM ENHANCEMENTS likely needed to make Views work with idle ACTIONS (draw / set-featured-image / activate) and live DISPLAY (the smooth counter, latched state). 
+- ⚠ APPROVAL FLAG (intent — only Alan): Alan wants to be INVOLVED in designing & approving any pages-system enhancements. Do NOT auto-capture pages-system-core changes and hand to managers; surface them to him for design/approval first. He judges them "well worth it."
+- NOTE vs SACRED: cards-as-pages + actions-through-the-View must preserve mirror-not-driver (#13271-class invariants) — the View reads server-authoritative pages; the tick worker stays sole writer. Reconcile at synthesis.
+- 
+
+## 4. Lineup (builder + synergy)
+- SLOTS above the View display; DRAG-AND-DROP cards up from the roster View into the slots. Feedback/synergy info shown just above or below the slots.
+- DROP the preview/clear mechanics — make exploration REAL, with REAL COST. Committing a lineup actually costs (and persists); no free try-then-clear. Simplifies the abstractions; makes the choice meaningful.
+- (synergy still needs a thing to score off once "value" is dropped — reconcile w/ ★ drop-value at synthesis.)
+
+## 5. Prestige (ascension/perks/apotheosis)
+- INLINE prestige onto the Hero points card too, with a SIMPLIFIED display. Not a standalone bottom section.
+
+## 6. Foot-note
+- DROP the footer entirely (like the header) — "honest gacha · no wasted draws · the level is a mirror, not a lever" goes. Omit needless ink. ⚠ tension w/ earlier soul-keeper call (that covenant line was DEFENDED as character ink). Alan now says drop — his call wins. Note at synthesis where the covenant feeling re-homes, if anywhere.
+
+## ★ EMERGENT CLUSTER — the "Hero card" absorbs the globals
+The Moments PanelCard (§1) becomes the single GLOBAL-ACTIONS card: hero number + currency title + DRAW action (§3) + PRESTIGE inlined & simplified (§5). Header gone (§1), footer gone (§6), Status card dissolved into persona cards (§2). Page reduces to: [Hero/globals card] + [Lineup slots] + [Roster gallery View of idle-persona-card pages]. That's basically the whole UI.
+
+## Cross-cutting / whole-page reactions
+- ★ BASE LAYER: adopt the shared layout framework alanwalton.com uses — `@shared/design-system` PageLayout (mobile-safe standard column width + AUTOMATIC multi-column expansion based on available screen space; responsive-columns) + PanelCard. CONFIRMED REAL: PageLayout/PageTitle/PanelCard exist in @shared/design-system; spec at packages/shared/design/system/.claude/docs/responsive-layout.md. Idle currently uses custom .stage ported CSS (reference/index.html) — this REPLACES it as the base layer. Everything else (cards/panels) sits inside this.
+- ★ CURRENCY RENAME: Motes → MOMENTS. No explicit time-conversion unit; pure feel — he likes it much more. (Label/copy only — the underlying `resource` field is unchanged; RESOURCE_LABEL + all copy + docs.)
+- ★ DROP THE "VALUE" AXIS ENTIRELY: stop indexing characters by BOTH name AND value — the dual index is confusing. Drop value from the SYSTEM entirely; call everyone by NAME only. (SYSTEMIC — the six "value personas" are currently the conceptual spine; weather = "in-favor value", bloom = "co-field pair" of values, synergy keys off values. Dropping value touches roster + status + lineup-synergy mechanics, not just labels. Cluster at synthesis.)
+- ★ DROP REAL RELATIONSHIP LEVEL FROM THE CARD: do NOT pull the real persona relationship level onto the card at all — remove it.

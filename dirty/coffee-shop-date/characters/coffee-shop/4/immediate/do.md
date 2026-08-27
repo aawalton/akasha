@@ -1,0 +1,1 @@
+The fingerpicked track comes quietly to its end — the last note decaying into the room — and after a breath of near-silence the queued song lifts in under the murmur, gentler still, a slow warm thing that settles over the corner like another fold of the same shelter, asking nothing, only deepening the hush the two of them are sitting inside.

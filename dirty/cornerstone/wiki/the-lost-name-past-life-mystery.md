@@ -1,0 +1,23 @@
+---
+pageType: story-wiki
+slug: the-lost-name-past-life-mystery
+title: The Lost Name (past-life mystery)
+bodyField: content
+story: cornerstone
+kind: seed
+chapterNumber: 1
+---
+# The Lost Name (the past-life mystery)
+
+The core's central open mystery, planted in chapter 1: **who was it before it became the stone, and how did it die?**
+
+**What the text establishes (flickers only).** Behind the core's waking trails "a fraying thread," "thin as the heat that lifts off stone at dusk." Pulling it yields only fragments, repeated across the chapter:
+- "a cold of a different kind, a wet and biting cold with edges to it"
+- "a falling, the lurch of a body that has lost the ground beneath it"
+- "a hand I had reached for and not closed around" / "the grief of fingers closing on nothing"
+
+The strong implication is a **death by falling**, in cold and wet, while reaching for someone's hand — but the text states no names, no place, and no certainty. The core forgot its own name in the dark, mirroring the First Buried settler lowered into the same kind of dark.
+
+**The road back.** The thread pulls *taut* only when worked **stone** touches the core (see system: *Stone-Kinship and the Memory-Thread*). Stone set into the ground is established as "the road" toward recovering the lost self — making the Marker-Stone labor the one labor that reaches toward this mystery.
+
+**Status:** wholly unresolved as of ch.1. Recovering the name ranks as the core's second-deepest want, behind only mattering to the child.

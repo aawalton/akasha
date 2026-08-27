@@ -1,0 +1,27 @@
+---
+pageType: story-wiki
+slug: the-founding-camp-the-bound-ground
+title: The Founding Camp (the bound ground)
+bodyField: content
+story: cornerstone
+kind: location
+chapterNumber: 1
+---
+# The Founding Camp (the bound ground)
+
+The frontier settlement being founded directly above the buried core — **unnamed in the text** of chapter 1. The settlers arrive by **wagon** and make camp; what begins as "a scatter" of restless feet becomes, over the first days, an organized founding.
+
+**The core's domain (its "body").** The ground bound to the core is a finite **place** with three felt regions:
+- **The center** — where the core lies "deepest and most myself"; the camp's heart, site of the banked night-coal and (later) the planned common hearth. The first grave is cut near the center, off to one side.
+- **The rim / edge** — a fixed line, "always the same line," where the core's ground "frays off into dirt that was only dirt." Past it the core feels nothing. Settlers sometimes stand on the line, "toes on the last of me, heels in the nothing beyond," facing out.
+- **The high lip / rise** — one side where the ground "tilts up before it ended"; Quick-Step's watching place, and the site chosen for the stone-stacking watch labor.
+
+**Environment & rhythms.** Day brings the sun's warmth soaking down through the soil; night brings cold rising from below. Rain percolates down to the core last of all. The frontier beyond the rim holds at least one four-footed predator (see *The Circling Hunter*). The settlers prepare against "the coming season" and a turning when "the land gave nothing," implying a founding ahead of winter — and a food shortfall is already felt (see seed: *The Coming Want*).
+
+**The four founding labors (ch.1 close).** The camp splits its will four ways and begins all four at once across the ground:
+- a **stone watch-stack** hauled up onto the rise;
+- a **common hearth** dug at the center — "not deep but wide, a pit cut at the very heart of the camp" — for a true and lasting fire;
+- a **storehouse/granary** raised off the center — "a broad floor" with walls built up and the harvest carried in (grain in sacks, racks and bins). *(No well is dug into the ground in this chapter; the downward-dig imagery is reserved to the Reach Faculty for later. The only deep cut into the soil is the grave.)*
+- a **raised standing-stone** by the grave.
+
+(See seed: *The Four Labors*.)

@@ -1,0 +1,185 @@
+{
+  "name": "Alan",
+  "kind": "player",
+  "level": 6,
+  "class": "None",
+  "classNote": "No class yet. None is the ordinary base state (not an error); a class is shaped by what you do. Display shows 'None', flat, no warning framing.",
+  "rollMode": "1d20",
+  "attributes": {
+    "MIGHT": 14,
+    "FINESSE": 14,
+    "VITALITY": 12,
+    "INTELLECT": 20,
+    "PERCEPTION": 12,
+    "WILL": 20,
+    "PRESENCE": 16,
+    "LUCK": 11
+  },
+  "attributePointsUnspent": 0,
+  "skills": [
+    {
+      "id": "ember-channel",
+      "name": "Ember Channel",
+      "ladder": "skill",
+      "rung": "Apprentice",
+      "displayed": 9,
+      "rungBand": "6-15",
+      "source": "emerged by deed in play (floor 1, turn 7) — first deliberate channel of Ember Affinity out through the rusted iron bar, concentrating heat at the tip (1d20 5, seed 7223233, margin 6 — modest success, no backlash). Active essence-skill per affinity-system. Capability-gated ladder (progression.md): 7 rungs Novice→Sage, EWMA roll-up alpha=0.5. Seeded 11 (early Journeyman); +ticks at Journeyman anchor 15 for turns 15 (heat-dip read) and 16 (heat top-half + stab) -> displayed 14. | TURN 39: max-intensity ceiling probe against the steel pauldron (WILL 17 + intent 3 + skill 2 + bias 2 + roll 8, DC 14, margin 18 -> bright-orange tier). CEILING LEARNED: full push glows steel orange-hot (searing, sub-melt) — cannot soften or melt metal yet. Competent use, NOT a promotion-grade demo (no Expert demo banked); stays Journeyman 4. | RUNG-WIDTH CORRECTION (2026-06-24, iris-prep+iris-manager): progression.md rung widths fixed to non-uniform 5/10/25/50/100/250 (the old uniform-5 over-promoted). Re-bucketed to PRESERVE total accumulated levels (Alan's explicit ask). Demo progress RESET, not carried — this skill re-earns demos against the corrected wider ladder from its new placement.",
+      "effect": "Project Ember essence into held iron — tip or a longer span — lending a heat/ember quality to strikes. Reliable when set to it (Journeyman); not yet thrown unbidden mid-fight (that is Expert). Costs Focus to invoke and sustain (more metal lit = more drain); cold water quenches it fast. Engine hook: skillBonus +1 at Apprentice. Scales with use and with Ember Affinity tier."
+    },
+    {
+      "id": "ember-burst",
+      "name": "Ember Burst",
+      "ladder": "skill",
+      "rung": "Apprentice",
+      "displayed": 8,
+      "rungBand": "6-15",
+      "source": "emerged by deed (floor 1, turn 19) — first surfaced involuntarily as a panic discharge to break the Glut's drowning grapple (turn 17, uncontrolled all-out burst: Focus dump + HP backlash), then deliberately RECREATED in calm against the wall rubble (1d20 7, seed 131043804, margin 10, Novice 4). Turn 20 training montage (1d20 10, seed 825573317) drilled it Novice(4) -> Apprentice(7): 3 alpha=0.5 roll-ups vs the Apprentice anchor 7, asymptote-capped — drilling a rehearsed motion vs static rubble certifies only yard-competence (the 'counterfeit band'), NOT the reliable-when-live quality Journeyman (10+) requires. CEILING was ~7 by drilling. Turn 21 first LIVE-PRESSURE use (lure swarm to dry edge + max area burst, 1d20 15, seed 414413897, margin 33 — clean effective combat use) = JOURNEYMAN demonstration (anchor 15): displayed 7->11, crosses Apprentice->Journeyman — the live-reliability the yard couldn't certify. Distinct skill from Ember Channel (outward area discharge vs focused conduction); separate ladder entry. | RUNG-WIDTH CORRECTION (2026-06-24, iris-prep+iris-manager): progression.md rung widths fixed to non-uniform 5/10/25/50/100/250 (the old uniform-5 over-promoted). Re-bucketed to PRESERVE total accumulated levels (Alan's explicit ask). Demo progress RESET, not carried — this skill re-earns demos against the corrected wider ladder from its new placement. | TURN 83: all-out controlled salt of the seat-room at live boss pressure (WILL 20 + intent 7 + skill 1 + NAT-20, DC 18, margin 30 CRIT) — the reveal-salt that unmasked the weaver among its seven. Within-rung roll-up Apprentice 6->8 (EWMA a=0.5 toward rung width W=10 per the locked growing-widths ruling). JOURNEYMAN DEMO 1/2 BANKED (clean maximum-output live use under boss pressure, fully controlled, no backlash). | CORRECTION (2026-07-03, iris): the t83 entry originally mis-rolled 6->10 against the RETIRED Journeyman-anchor convention (and breached the W-1=9 demo clamp); corrected to Apprentice 8. Demo bank unaffected (1/2).",
+      "effect": "Discharge Ember essence outward from the body in a wave — an area pulse of heat that sears and flings back what stands close; strong against a clustered swarm. Reliable now when set to it (Journeyman), proven under live pressure. Intensity + Focus cost scale with how much heat he releases (a max burst is a deep Focus pull); an uncontrolled all-out discharge risks backlash (the turn-17 panic version). Quenched fast by water — best thrown from dry ground at a lured, massed target. Engine hook: skillBonus +1 at Apprentice. Grows with use."
+    },
+    {
+      "id": "essence-infusion",
+      "name": "Essence Infusion",
+      "ladder": "skill",
+      "rung": "Apprentice",
+      "displayed": 6,
+      "rungBand": "6-15",
+      "source": "emerged by deed (floor 2 cleared, turn 30) — first deliberate extraction of an EXTERNAL essence (cold/caustic swarm-ichor) from its raw material and binding of it INTO a separate object (the spare iron bar). INT-driven novel technique (INTELLECT 19 + intent 4 + roll 13, seed 308815247, DC 19, margin 17 — strong success); NO affinity bias (swarm essence is the OPPOSITE pole to his Ember; his Manipulation fluency did not transfer — the affinity taught him essence has a graspable shape, the skill is the element-neutral motor technique). Distinct from Ember Channel (which transiently projects his OWN Ember into held iron); Infusion moves a DIFFERENT/external essence into an object and binds it to PERSIST. Capability-gated 7-rung ladder LOCKED in progression.md (iris-prep draft, turn 30): Novice band 0-5 anchor 3 (displayed 4 = strong margin-17 imbue seeds just above anchor); crossing to Apprentice (index 1) needs 1 qualifying demo (a clean holding bind WITHOUT heavy struggle) — clamps at 4 until then, never retro-demoted. AXIS = binding quality on 3 coupled dials (stability / persistence / Focus economy), improving up-rung. Apprentice=counterfeit (binds compatible+static when calm, fails live), Journeyman=cued (stable for the encounter when set), Expert=AUTHORSHIP/3-demo (on-the-fly off a read opening, persists past encounter), Master=owns principles + lasts past fight + teachable, Grandmaster=original binds (permanent / composite / battery / living-target), Sage=defines essence-craft as a school. Feeds skillBonus +0..+6 (Novice +0). | TURN 34: transferred half the cold-bitten bar's charged cold-essence into the river-stone — an OPPOSITE-pole bind (cold vs fire grip). Roll 2 (margin 9): it held but rough; polarity tax bit hard. CRUDE/unstable result, no clean Apprentice demo -> stays Novice. Small authorship credit for a genuine harder cross-pole transfer: 4 -> 5 within Novice. | TURN 35: bound half the rivet's Ember-essence into the rusted iron bar — SAME-pole (no tax), roll 15, margin 24: a CLEAN holding bind, no struggle. The qualifying Apprentice demo (Novice->Apprentice gate met). ADVANCED to Apprentice (5 -> 7). First clean infusion; the crude cold stone was the counter-example. | TURN 49: within-rung roll-up Apprentice 1 -> 3. Bound his own ember into the mace from his own supply (new self-supply method), DC 15, margin 17. | TURN 51: within-rung demo (Apprentice 3 -> 4) — primed the drained guardian-core with his own ember supply, a clean self-supply bind into an object (not a weapon). Crit Essence-read (INT 19 + intent 2 + bias 2 + nat-20, DC 18, margin 25) identified the core as an essence-vessel. | TURN 64: within-rung roll-up Apprentice 4 -> 5. Consolidation binding session from his own supply (WILL 17 + intent 6 + skill 1 + bias 2 + roll 13, DC 15, margin 24): finished the hammer-head forge-bind, ember-bound the brazier-stand, and CROSS-POLE EVICTED the crude cold-bind on the Cold Revenge bar (burned it out, replaced with a clean ember bind) -> the qualifying cross-pole demo. POLE-EVICTION ruling locked. | TURN 65: PROMOTED Apprentice 5 -> Journeyman 1 (reset to 1). The capstone forge's stable battery-cored bind (Furnace-heart living core, white-hot ember welds layer-on-layer, holding clean) = the cued/Journeyman demo. Rung skillBonus +1 -> +2. WHITE-HOT FORGE-WELD ruling locked (pooled battery-charge pays the heat). | RUNG-WIDTH CORRECTION (2026-06-24, iris-prep+iris-manager): progression.md rung widths fixed to non-uniform 5/10/25/50/100/250 (the old uniform-5 over-promoted). Re-bucketed to PRESERVE total accumulated levels (Alan's explicit ask). Demo progress RESET, not carried — this skill re-earns demos against the corrected wider ladder from its new placement.",
+      "effect": "Extract an essence from a raw source and bind it into a separate object, imparting that essence's quality to the item. At Novice the binding is crude and UNSTABLE — it weakens with use and does not last; opposite-pole essences (as here) fight the grip and cost heavily. Costs Focus (the essence drains the well while held in transit; ~30 for this first opposite-pole imbue). Scales with use; higher rungs bind deeper and more lastingly. POLARITY TAX: a compatible essence binds at baseline; an OPPOSITE-pole essence (cold into his fire-grip, as turn 30) costs more Focus and binds shakier, and the tax EASES per rung — heavy at Novice (~+50% Focus, fastest bleed-off, lowest stability) -> noticeable at Journeyman -> merely costlier at Master -> immaterial at Sage."
+    },
+    {
+      "id": "ember-wave",
+      "rung": "Novice",
+      "displayed": 3,
+      "source": "EMERGED turn 37 at the cistern — fused Ember Burst + Ember Channel through the Ember-infused Burning Anger to project fire over the water (WILL 17 + intent 3 + skill 2 + bias 2 + roll 10, DC 18, margin 16 — strong). First use came out as a raw wide wave/gout (not a precision fireball). The conduit weapon's bound charge catalyzed it. Novel projected-flame technique; counterfeit band at Novice. | TURN 38: renamed Ember Lash -> EMBER WAVE (player's call). Drilled hard toward a narrow focused stream — deterministic anti-grind montage, within-Novice 1 -> 3 (roll-up 0.5*(5-1)). Form tightened from wild wash to a rougher controllable stream, but the tight intense lance is capped (counterfeit band; promotion needs a live demo, not reps). Practiced to exhaustion, meditated back.",
+      "effect": "Projects channeled Ember outward through a conduit (esp. the infused Burning Anger) as a wave/gout of flame. Form refines with rung (wave -> directed gout -> fireball at higher control). Focus-costly; amplified + cheapened when channeled through a charged infused weapon (spends the weapon's bound charge).",
+      "rungBand": "1-5"
+    },
+    {
+      "id": "ember-siphon",
+      "rung": "Apprentice",
+      "displayed": 1,
+      "source": "EMERGED turn 41 in the floor-3 chokepoint vs the Slagheart Sentinel — withheld fire, struck with Cold Revenge (shallow, shell turned it), and will-pulled heat out of the struck crack into himself (drain margin 12, solid). The drain reached past the shell where the bar could not; an absorption event that also ticked Ember Manipulation 3->4. Novel siphon technique; counterfeit band at Novice. | TURN 42: extended to RANGE — held a siphon-thread across the gap from the dimmed seam with no contact point (WILL 17 + intent 3 + bias 2 + roll 7, DC 19, margin 10). A thin sustained trickle (didn't tick affinity); within-Novice 1 -> 3 for the new application, still capped at Novice. | TURN 44: PROMOTED Novice -> Apprentice (reset to 1). The all-in crit siphon that felled the guardian was the qualifying Apprentice demo (1). Rung skillBonus +1.",
+      "effect": "Draws ember/heat essence out of a SOURCE (object or creature) through a contact / struck point and INTO himself — feeds Ember affinity (absorption event). Bypasses a physical shell to reach the essence within. Risk: pulling from a dense/active source near his fire-capacity overflows and burns him; a cleanly-opened wound pulls deeper. Form/yield refine with rung.",
+      "rungBand": "6-15"
+    },
+    {
+      "id": "ember-tempered-body",
+      "rung": "Apprentice",
+      "displayed": 1,
+      "source": "EMERGED turn 43 in the floor-3 stair — refused to vent the overfilled siphoned heat and channeled it INTO his own muscle and bone to temper himself (WILL 17 + intent 3 + skill 2 + bias 2 + roll 6, DC 18, margin 12). Held control (no crack, no maim) but the scour was crude (roll 6) over low VIT 7 -> burned more than it hardened. Crude first temper: the PATH opens, no stat yet. Spent the overfill constructively. Counterfeit band at Novice; cleaner tempers / higher VIT pay off. | TURN 45: all-in temper (WILL 17 + intent 3 + Ember Channel skill 2 + bias 2 + roll 7, DC 19, margin 12 = PARTIAL). Within-rung roll-up Novice 1 -> 3. Ragged execution (much volume wasted, heavy burn) — no Apprentice demo. Forge set +1 MIGHT permanently. | TURN 54: PROMOTED Novice -> Apprentice (reset to 1). The clean careful demo it lacked — a patient sustained temper drawing four ember batteries (Furnace-heart, rivet, Burning Anger, own reserve) dry into his flesh (WILL 17 + intent 6 + bias 2, roll 17, DC 15, margin 27). Direct gains VITALITY +2, MIGHT +1. Rung skillBonus now +1.",
+      "effect": "BODY-FORGING path. Channels ember-essence (esp. siphoned/overfilled heat) into his own flesh to scour weakness and harden it. Ranks grant physical resilience; a clean high-margin temper can yield a permanent attribute gain (VIT/MIGHT) or maxHP. Gated by VITALITY (low VIT = more self-harm per temper) and by control precision (low roll = burns without hardening). NOT grindable by reps — each temper costs real essence + real HP + real risk.",
+      "rungBand": "6-15"
+    },
+    {
+      "id": "smithing",
+      "name": "Smithing",
+      "rung": "Apprentice",
+      "displayed": 1,
+      "effect": "Mundane metalworking — shaping, joining, and forge-welding metal with heat + hammer + quench. Ember provides reliable forge-heat. Quality of the product (integrity, balance, secure joins) scales with the skill + roll. Crude tools cap quality until better gear/anvil.",
+      "source": "EMERGED turn 48 — forged a crude heavy mace from the inert bar + pauldron steel. | TURN 63: first masterful real forging — used the fully-charged fire-purged rivet (a bound ember battery) as the working heat to forge the iron hammer-head (WILL 17 + intent 5 + skill 1 + bias 2 + roll 14, DC 14, margin 25). Within-rung roll-up Novice 1 -> 3 (EWMA a=0.5). DISCOVERY (forge-bind): hammering with bound ember sets ember into the worked iron -> nascent ember-bind on the head, a path to ember-bound tools (Smithing + Essence Infusion fused at the principle level). | TURN 65: PROMOTED Novice 3 -> Apprentice 1 (reset to 1). The capstone forge — NAT-20 masterwork consolidation of all his ember metal into one double-ended weapon (WILL 17 + intent 9 + skill 1 + bias 2 + nat20, DC 18, margin 31). Decisive rung-top demo. Rung skillBonus +0 -> +1.",
+      "rungBand": "6-15"
+    },
+    {
+      "id": "chain-whip",
+      "name": "Chain Whip",
+      "ladder": "skill",
+      "rung": "Novice",
+      "score": 3,
+      "source": "TURN 82: emerged on its first LIVE COMBAT use -- the pre-staged 3rd consolidating event (t79 discovered the dervish-flail mode, t81 achieved practical tight-CoG control, t82 wielded it in a real fight). A weighted chain-flail handling on Burning Anger: maul-head grip, winding-drum core whipped at the chain's end in a tight controlled 360 circle. Denies flankers and bashes what closes; broad not precise; cannot finish a foe it only passes. FIN-primary control + MIGHT mass. | TURN 83: sustained live spin through the den-cross + seat fight; within-rung Novice 1->3 (EWMA a=0.5 toward rung width W=5 per the locked growing-widths ruling). | CORRECTION (2026-07-03, iris): originally mis-rolled 1->2 vs the retired anchor; corrected to Novice 3.",
+      "effect": "Novice: a spinning 360 sweep that neutralizes flank attempts (no exposed back) and bashes anything that enters the circle. Sustained by stamina. COMPOSES with Ember Channel (Ember run along the chain adds a x1.4 burning edge to its strikes -- a separate application, not part of the skill). Composes with the Force sense (passive: feeling the core's stored torque ride the spin steadies control, t81)."
+    }
+  ],
+  "titles": [],
+  "affinities": [
+    {
+      "id": "ember-affinity",
+      "name": "Ember Manipulation",
+      "ladder": "affinity",
+      "tier": "Manipulation",
+      "counter": 8,
+      "cap": 50,
+      "type": "Ember / Heat",
+      "source": "drew the essence from the Ashling's cooled core (floor 1) — untrained, a rough forced first draw (cost: ~12 HP burn, ~30 Focus; cinder consumed). Quantity-gated ladder (progression.md): 4 monolithic tiers Affinity->Manipulation->Spirit->Soul, double-gap caps 10/50/250/1000; counter resets on promotion. Affinity tier filled 3 (seed) + 3 anti-farm-capped Cistern strikes -> 6, +1 turn-19 burst-practice channel -> 7, +1 turn-20 montage -> 8, +1 turn-21 live Glut heat-strike -> 9, +1 turn-22 live Glut heat-KILL -> 10 == PROMOTION. Counter reset to 1 into Manipulation (tier 2, cap 50). Note: drilling pumps the SKILL, not the affinity — the counter barely moves from yard-practice by design. | TURN 33: deliberate HALF-draw of the fire-purged rivet's charged resonant heat-essence into himself — a real Ember-deepening absorption (WILL 17 + bias 2 + roll 9, margin 17). Counter tick HELD pending Alan's per-point schedule pick (counter stays 1; apply this draw once the ramp is set). | TURN 34: applied the recommended per-point ramp (1-10 = 1 event each), PROVISIONAL pending Alan's schedule pick. Counter 1 -> 3: +1 the turn-33 held half-draw (now lands), +1 this turn's resonant rivet farming (before plateau). Half-draws count as whole events (authorship/control, not quantity drained). | TURN 41: +1 — first drain from an ACTIVE source. Will-pulled ember-essence out of the Slagheart Sentinel through a cold-struck crack into himself (WILL 17 + intent 3 + bias 2 + roll 7, DC 17, margin 12). Manipulation 3 -> 4. | TURN 44: +2 (major DRAW) — all-in crit siphon drained the Slagheart Sentinel's whole core into himself (WILL 17 + intent 3 + bias 2 + nat-20, DC 17, margin 25). Manipulation 4 -> 6. | TURN 45: +1 (one discrete substantial absorption) — reached out and siphoned Burning Anger's whole remaining Ember-charge into the forge. Manipulation 6 -> 7. | TURN 83: +1 — the all-out seat-room salt: a major deliberate shaping event under live pressure (drew the maul core dry + a deep pull of his own supply, released as one controlled 360 salt; nat-20 execution). Manipulation 7 -> 8.",
+      "effect": "Manipulation tier (shape / direct): no longer only senses the element — can move and form heat/ember deliberately, beyond drawing it through held metal. Engine hook: intent +2 (clamped at 10), stacks with enemy damage-gates, grants none of its own. At counter 50 it promotes to Spirit (animate at will). Retained through everything (loop-safe)."
+    },
+    {
+      "id": "force-affinity",
+      "name": "Force Affinity",
+      "ladder": "affinity",
+      "tier": "Affinity",
+      "counter": 1,
+      "cap": 10,
+      "type": "Stored-Force / Tension",
+      "source": "TURN 80: first contact-draw of the winding-drum core's wound stored-force, reached by MATCHING the essence's kinetic nature -- spun his own body holding the core to touch a motion-essence through motion (INT 20 + intent 5 + bias 0 + roll 11, DC 17, margin 19). The rotational vector WORKED -- first genuine contact, foreign axis 0->1. His destination (pull it into myself) FAILED: stored-force will not set in single-pole ember flesh (Ember-Tempered Body sink-not-source; t62 cold-into-flesh NO, reaffirmed) -- drew it, retained nothing, it sluiced through and out. Backlash: stamina -12 + focus -8 + recoil-stagger (no HP-burn). TAUGHT: the essence is reachable, the BODY is the wrong vessel -- bind it into an external vessel (ember-house the core), not pull it into himself.",
+      "effect": "Affinity tier (SENSE): now senses the foreign stored-force deliberately (the t79 incidental torque-tell becomes a real sense -- no longer slides off). Cannot yet draw-and-keep or wield it: housing into ember flesh fails (wrong vessel); needs an EXTERNAL ember-housed vessel. Counter 1/10 toward Force Manipulation. Bias +1 per the ember-parallel ladder, LATENT until he has a vessel to act through."
+    }
+  ],
+  "equipment": {
+    "weapon": {
+      "name": "Burning Anger",
+      "atk": 10,
+      "note": "Twin-headed ember maul — TURN 65 capstone forge (NAT-20 masterwork). Consolidated ALL his ember metal into one double-ended weapon: Burning Anger's haft + the Ember-bound iron rod (was Cold Revenge) fused into one ember shaft; the Furnace-heart set as a LIVING CORE, clad layer-on-layer with the fire-purged rivet + brazier-stand + Burning Anger's old steel head; the cored head welded to one end, the forge-bound iron hammer-head to the other. White-hot welds powered by pooled battery-charge. atk 10. His finest conduit: the core banks a deep charge and feeds flame-techniques from its own supply (spares his focus). Charged full. UNNAMED — his to christen. (Supersedes Burning Anger + Cold Revenge, both forged into it.) | TURN 66: NAMED 'Burning Anger' — player keeps the legacy name through every transformation (bar -> mace -> conduit -> this masterwork maul). The original steel head is folded into the new head, so the continuity is literal as well as sentimental. | TURN 72: CHAIN-HAFTED — the Warden's chain-length (floor-4 Colossus drop) welded to the maul's butt, making it a maul-on-a-chain: extended reach, and it can be swung wide and hurled to grapple and hauled back at distance. The weld-heat was drawn from his own ember (the banked core still runs low). The chain is fused into the weapon now — no longer a separate item. | TURN 74: the welded chain BOUND TO EMBER (Essence Infusion, a crude low-roll bind but it HOLDS — same-pole ember-into-iron sets and stays, no bleed) to mesh it with the maul and widen the ember reservoir by one small notch (CAPACITY, not atk — stays 10); the new capacity arrives empty, and a deeper well is harder to fill. Then meditated at the floor-5 threshold on his own ember, refusing the haven's false comfort, and channeled focus into the core — recharged it to a MODERATE working charge, but filling both himself and the maul to the brim proved impossible (no real heat here but his own; the haven's gold is heatless). Core now MODERATE; reservoir a notch deeper. | TURN 79: REKINDLED off the lit hooded lantern -- a real external heat source, so his focus paid only the channeling (not the heat) and the core climbed higher than the t74 heatless-threshold meditation could: LOW -> MODERATE/working-high, feeding flame-techniques from its own supply again. Drew conservatively -- the lantern dimmed to a lower steady burn but stayed LIT (won't kill the light he needs), which caps the fill below full (deeper reservoir + a small lantern). Then ATTACHED the winding-drum core to the FREE end of the chain (opposite the maul head) as a counterweight and whirled the maul at full extension -- a new DERVISH-FLAIL mode: big reach + heavy momentum, but UNWIELDY/high-risk (hard to control + stop, can overbalance; wide arcs, poor accuracy/redirect). The core's STORED FORCE stayed LOCKED (foreign +0 AND unbound -- no sense to channel it); under rotational stress he got his first faint direct feel of it (it torques/resists unlike dead mass) -- real, sealed, beyond him until he BINDS it the way he bound his ember. Two unmerged axes coexisting on one tool; ember-sense slides off the kinetic core (orthogonality honored). Core now MODERATE; winding-drum core affixed to the chain-end (reversible attachment, not fused). | TURN 80: DETACHED the winding-drum core from the chain -- the dervish-flail mode unrigged (a learned but currently-off configuration; the chain hangs free again). Core remains MODERATE. | TURN 81: RE-RIGGED the dervish-flail (winding-drum core re-lashed to the free chain-end, reversing the t80 detach), and tested control in a new grip -- held by the maul-head with center of gravity kept close, whipping the CORE-end in a tight circle (FIN 14 + intent 4 + Force-sense aid +2 + roll 14, DC 13, margin 21). SOLID PRACTICAL CONTROL achieved -- a real usable whip he can place and recover, rough yet but his. His Force sense (t80) rides the core's stored torque and helps time the swing (+2 aid, SENSE ONLY -- no draw, no Force tick). NOT yet a named skill (Rule of Three: first successful handling); weapon-noted as a nascent tight-CoG flail handling. Cost stamina -8, focus -4, no HP/backlash/Force tick. | TURN 82: wielded the dervish-flail in its FIRST LIVE COMBAT -- Ember channelled along the bound chain set the whole whirling length (chain + winding-drum core) burning (x1.4 bash+burn), FED BY the maul's Furnace-heart core which drew MODERATE -> LOW across a spinning blind cross of the floor-5 gallery. CHAIN WHIP skill emerged (Novice) on this consolidating use. Core now LOW -- wants re-rekindling before further ember offense. The burn is a separate composing Ember Channel application, not part of Chain Whip. | TURN 83: the all-out seat-room salt drew the Furnace-heart core from LOW to SPENT-HOLLOW — it gave the last of its banked fire to the reveal-salt; the balance of the salt ran on his own focus (a deep pull). Core now EMPTY — holds no charge until rekindled at a real heat source."
+    },
+    "armor": {
+      "name": "Stalker hide cloak",
+      "def": 1,
+      "note": "The pale stalker hide tied loosely round his neck — a makeshift cloak. Uncrafted/loose, but turns a blow better than bare skin. +1 physDef (engine equipment.armor.def). TURN 66."
+    },
+    "items": [
+      {
+        "name": "River-stone (cold-imbued)",
+        "note": "The smooth dark river-stone, turn 34 imbued with cold-essence transferred (half) out of the cold-bitten bar via Essence Infusion. An OPPOSITE-pole bind for him (cold against a fire-attuned grip): roll 2 + polarity tax = it HELD but CRUDE and unstable — a beginner's cross-pole knot that will bleed off unless the water keeps feeding it. Returned to the cistern to soak. A second cold-well, cruder than the bar. | Left at the floor-2 stairfoot when he climbed to scout (he took only the two bars)."
+      },
+      {
+        "name": "Stalker hide",
+        "note": "Light, tough, pale hide skinned from the dark-hunter — a raw crafting material (a wearable cloak, or worked into other gear). TURN 59: taken from the kill."
+      },
+      {
+        "name": "Stalker eye-lens",
+        "note": "A clouded crystalline lens cut from the dark-hunter's eye — cold to the touch, and it seems to DRINK light rather than throw it back. A curiosity / crafting material. TURN 59: taken from the kill."
+      },
+      {
+        "name": "Hooded lantern (lit)",
+        "note": "A dead climber's hooded iron lantern, claimed mid-shaft (t67) and lit with his ember. Directional — throws a controllable beam, shields his eyes. Burning steady."
+      },
+      {
+        "name": "winding-drum core",
+        "note": "The broken Colossus's released winding-drum — dense, tension-wound iron, the heaviest and soundest crafting core he's pulled from the Tower yet; it holds residual heat he can read normally, and hums faintly with a stored force, like it has not finished unwinding. FELT OUT (t73): that humming force is REAL but FOREIGN to his senses — not ember, and not cold (it doesn't fight or bleed against his ember the way cold does); his ember-sense simply slides off it. Prime stock to work, but the stored force inside is beyond his grasp with the senses he has now. Crafting / affinity seed. FELT UNDER SPIN (t79): now affixed to Burning Anger's free chain-end as a flail counterweight; whirling the maul gave the first faint DIRECT sense of the stored force -- it torques and resists unlike dead iron, real and sealed -- confirming it is locked behind a bind he has not made. Usable only once bound the way his ember was. Still prime crafting stock. DREW (t80): detached from the chain and spun in his own hands; reached the stored force deliberately for the first time (the t79 torque-tell became a real sense) and CONTACTED it -- but pulling it into his own ember flesh FAILED (it would not set; sluiced through and out). Force Affinity emerged 0->1. Sensed now, not yet wieldable: needs an external ember-housed vessel, not his body. RE-RIGGED (t81): re-lashed to Burning Anger's chain-end as the dervish-flail's weight and driven in a tight-CoG whip (maul-head grip, core swung). Solid practical control achieved; his Force sense rides the core's stored torque to help time the swing (sense-only, no draw). Sensed and ridden, not yet wielded. BURNED (t82): whipped at the chain's end as the dervish-flail's weight and set alight (maul-core Ember run along the chain) for a burning spin-cross of the gallery; he felt its stored torque ride the spin and steady the whirl (passive sense, no draw). Sensed and ridden, not yet wielded."
+      },
+      {
+        "name": "Snapped cold-iron blade",
+        "atk": 2,
+        "note": "A snapped length of cold iron — a prior climber's broken blade, sheared off at a third of its length, dragged out of the charnel pile beneath the haven's false feast. Pitted and real. A minor improvised weapon (atk 2) and good cold-iron forge stock. TURN 72 (floor-5 threshold salvage)."
+      }
+    ]
+  },
+  "traits": [
+    {
+      "id": "wild-variance",
+      "name": "Wild Variance",
+      "source": "LUCK profile — normal mean, abnormal spread",
+      "effect": "Action rolls use 1d20 (flat, fat-tailed), not 2d10. Natural 20 = CRIT (x1.5, floored margin). Natural 1 = FUMBLE (misfire regardless of gap). Far more crits AND catastrophes than anyone else at the table."
+    },
+    {
+      "id": "state-gated-presence",
+      "name": "State-Gated Presence",
+      "source": "PRESENCE 15 ceiling is real but costly to access",
+      "effect": "Full PRESENCE when regulated/up; PRESENCE-based actions sag when depleted (Safety-low). High ceiling, conditional access."
+    },
+    {
+      "id": "lopsided-perception",
+      "name": "Sensitivity, not Observance",
+      "source": "PERCEPTION 11 net — high sensory sensitivity, low conscious observance",
+      "effect": "Passive notice/spot checks are weak (misses ambush, detail). Reading a weakness by REASONING runs off INTELLECT (peak), not Perception. His edge is analysis, never noticing."
+    },
+    {
+      "id": "leg-driven",
+      "name": "Hiker's Legs",
+      "source": "Aelwyn's read — lower body ~13, upper body ~10",
+      "effect": "Leg-driven actions (kicks, leaps, climbs, sustained movement) earn intent bonuses. Overhead/grip/heavy-press actions are capped low. MIGHT 11 is a tested FLOOR, not a ceiling (home equipment can't load his true max)."
+    }
+  ],
+  "notes": "Glass cannon of a MIND. Fragile body (VIT 6), peak analysis (INT 18), swingy fate (1d20), roaring-when-regulated charisma (PRES 15). D&D scale: 10 = average adult, 18 = human peak. Calibrated with Alan + Aelwyn 2026-06-24.",
+  "_derivedHint": "HP, Stamina, Focus, Initiative, defenses computed by engine/engine.ts from attributes + equipment."
+}

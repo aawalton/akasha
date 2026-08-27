@@ -1,0 +1,48 @@
+# The Dungeon of One Thousand Deaths — story design
+
+Carried from the `the-dungeon-of-one-thousand-deaths` database row on 2026-08-18: keys no property definition declares.
+
+## premise
+
+An episodic story where each chapter is told from the perspective of a different character exploring a dungeon. Every viewpoint character dies until there have been 1000 deaths, then character #1001 completes the dungeon.
+
+## themes
+
+["The weight and waste of human life","Collective heroism vs individual heroism","Whether purpose justifies suffering","The reader as the true protagonist — assembling meaning across 1000 deaths","Free will vs engineered fate","What we leave behind"]
+
+## tone
+
+Dark and serious. Each death is tragic, meaningful. The dungeon is genuinely horrific. Readers feel the weight of every life lost.
+
+## genre
+
+LitRPG / Dark Fantasy
+
+## system
+
+{"name":"The Ledger","stats":{"fortune":{"governs":"The most opaque stat. Low Fortune finds empty rooms and ambush predators. High Fortune finds Memory Crystals and unbloodied paths.","description":"Luck modifier for loot, encounters, trap triggers, path selection"},"resolve":{"governs":"The Maw attacks the mind as much as the body. Resolve depletion is the most common cause of death.","description":"Mental fortitude, resistance to fear/madness, willpower"},"vitality":{"governs":"Raw currency of survival. When it hits 0, you die.","description":"Health pool, physical resilience, wound threshold"},"attunement":{"governs":"Higher Attunement means stronger Gift — but also feeling the Maw more. Its hunger, intelligence, malice.","description":"Connection to the Maw's systems, Gift potency, ability scaling"}},"voice":{"tone":"Cold, precise, quietly cruel","formatting":"Indented monospace blocks, minimal punctuation, resembles a coroner's report","degradation":{"deaths_1_700":"Normal — clinical, precise, reliable","deaths_701_900":"Degrading — stat displays flicker, historical data incomplete, Note sections trail off or contradict","deaths_901_999":"Fragmenting — notifications arrive late or not at all, stat readouts garbled, entrants fly blind","deaths_1000_plus":"Reboots clean and gentle, or goes silent entirely (narrative choice)"},"personality":["States facts without comfort or encouragement","Includes survival statistics and historical data","Occasionally provides information that is technically helpful but psychologically devastating","Never says 'good luck' or offers hope"]},"description":"The System interface imposed on the Maw. Clinical, statistical, quietly cruel. Reports facts without comfort. Separate from the Maw itself — a monitoring tool placed by whatever created the dungeon.","stat_ranges":{"soft_cap":100,"starting":"1-50","progression":"No levels, no XP bar. Growth is scarce and tied to dungeon interactions."},"stat_growth_sources":["Memory Crystal consumption (+1-3 to one stat by color)","Surviving a Depth transition (+1 Resolve)","Killing a Named Monster (+1-2 Attunement)","Finding an unbloodied room (+1 Fortune, consumed when room becomes bloodied)","Gift usage (+1-2 Attunement per significant use — the Gift is a door that opens both ways. Using your connection to the Maw strengthens it, and the Maw's connection to you.)"]}
+
+## readerFraming
+
+Reader-as-detective. No single character learns enough to understand the whole picture, but the reader does. The reader is the real protagonist — accumulating knowledge across 1000 deaths while each character enters blind.
+
+## visualStyle
+
+grim dark-fantasy dungeon art; cold sepulchral light and dying torchflame; oppressive black, bone-grey, and deep blood-red palette; heavy crushing shadow; somber semi-realistic finish, tragic and weighty
+
+## structure
+
+{"format":"Episodic anthology with macro-narrative","chapter_types":{"solo_death":"Intimate, focused, one character full arc and death. Chapter number = the death number.","interstitial":"Outside world, institutions, letters, documents. Chapter number = the death count at time of the interstitial.","montage_wave":"Covering a wave of deaths quickly, focusing on vivid moments. Chapter number = the first death in the wave.","group_chapter":"Party dynamics, multiple deaths. Chapter number = the first death in the group."},"chapter_length":"Variable — length matches the adventure, not a predetermined format. A quick death might be 1,500 words. A deep run could be 8,000+. Some characters survive for hours, some die in minutes. The story each death tells determines the length.","wave_structure":"20-30 waves of entrants, each with a theme, historical context, and cast. Some waves get multiple chapters, some get 1.","estimated_words":"150,000-250,000","chapter_numbering":"Chapters are numbered by death count, not sequential order. Chapter 1 = Death #1. Chapter 47 might cover deaths #312-#340 if it is a wave chapter. The death count IS the numbering system for the entire story.","estimated_chapters":"40-60 chapters covering 1000 deaths with varying granularity. Not every death gets its own chapter — wave chapters cover multiple deaths."}
+
+## continuity
+
+Shared world, loose threads. Characters exist in the same world. Later characters find traces of earlier ones (corpses, graffiti, abandoned camps). Lore accumulates across chapters.
+
+## chapterNumbering
+
+{"convention":"death_count","description":"Chapters are numbered by death count, not sequential order. Chapter 1 = Death #1. Chapter 47 might = Death #312 if it covers a wave of deaths. The death count IS the numbering system.","implications":{"gaps":"Chapter numbers will have gaps. There is no Chapter 2 if the first chapter only covers one death and the second chapter covers deaths #5-10.","waves":"A single prose chapter may span multiple death-count numbers. The chapter_number should be the final death count covered by that chapter.","database":"chapter_number in the chapters table corresponds to the cumulative death count at that point in the story, not a sequential chapter index.","entity_snapshots":"Entity snapshots at a given chapter_number represent state as-of that death count."}}
+
+## dungeonIdentity
+
+{"name":"The Maw","nature":"A living entity — something between an organism and a wound in reality. Not a building but an intelligence. Communicates through architecture, The Asking, and what it does to your body. Has no voice.","dual_model":{"deeper_truth":"The Lock — the Maw engineers specific deaths in a specific sequence to achieve its actual purpose. Each death turns a tumbler.","relationship":"Saturation is the symptom. The Lock is the cause. Characters understand the first. Readers piece together the second.","surface_truth":"Saturation — the Maw feeds on deaths until full. 1000 is its capacity."}}
+

@@ -1,0 +1,18 @@
+---
+pageType: story-wiki
+slug: slow-tread
+title: Slow-Tread
+bodyField: content
+story: cornerstone
+kind: character
+chapterNumber: 1
+---
+# Slow-Tread
+
+**The old one** of the founding camp, named by the core for tread. "It walked as though each step cost it and was worth the cost."
+
+**Behavior (ch.1).** Goes where the others do not: out along the **rim**, walking the whole circuit of the core's edge, slow — "as if counting me, as if walking the bounds of a thing to learn its true size." Lingers at a particular spot near the center, off to one side; the core does not at first understand why.
+
+**The grave-keeper.** That lingering spot becomes the site of the camp's first grave. The core realizes Slow-Tread "had been keeping watch over a grave before there was a grave." When a settler dies and is buried there, Slow-Tread stays longest — standing, then kneeling, "its grief a stillness I had by now learned to read."
+
+**Associated labor.** Gathers others to **raise a standing-stone** at the grave: a single great worked stone set upright "to mark this ground forever as a place where the dead are held and the living remember them." As its base grinds down into the soil it *rings* with the stone-kinship that pulls the core's memory-thread taut. (Maps to the Memory / Marker-Stone option.)

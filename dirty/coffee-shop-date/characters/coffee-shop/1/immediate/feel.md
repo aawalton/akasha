@@ -1,0 +1,1 @@
+Hushed and sheltering, the warmth settled fully over the two who just arrived. The quiet between them is not empty but cushioned — the room makes room for it. A held, unhurried intimacy, the rain drawing the walls closer in.

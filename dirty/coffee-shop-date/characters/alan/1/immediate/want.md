@@ -1,0 +1,1 @@
+To stay in it with her rather than retreat into his head — and to find the first real thing to say, something true and unforced rather than a clever opener. To let her know he's all the way here, not half-running threads in the background. To meet the ease she's offering with the same ease.

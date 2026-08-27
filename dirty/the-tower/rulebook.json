@@ -1,0 +1,327 @@
+{
+  "mechanics": {
+    "attackModes": [
+      {
+        "defense": "physDef",
+        "id": "phys",
+        "power": {
+          "derived": "physAtk"
+        }
+      },
+      {
+        "defense": "mentDef",
+        "id": "ment",
+        "power": {
+          "form": {
+            "constant": 0,
+            "equip": [],
+            "round": "none",
+            "terms": [
+              {
+                "attr": "INTELLECT",
+                "coef": 1.2
+              },
+              {
+                "attr": "WILL",
+                "coef": 1
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "attributes": [
+      {
+        "id": "MIGHT",
+        "max": 18,
+        "min": 3,
+        "name": "Might"
+      },
+      {
+        "id": "FINESSE",
+        "max": 18,
+        "min": 3,
+        "name": "Finesse"
+      },
+      {
+        "id": "VITALITY",
+        "max": 18,
+        "min": 3,
+        "name": "Vitality"
+      },
+      {
+        "id": "INTELLECT",
+        "max": 18,
+        "min": 3,
+        "name": "Intellect"
+      },
+      {
+        "id": "PERCEPTION",
+        "max": 18,
+        "min": 3,
+        "name": "Perception"
+      },
+      {
+        "id": "WILL",
+        "max": 18,
+        "min": 3,
+        "name": "Will"
+      },
+      {
+        "id": "PRESENCE",
+        "max": 18,
+        "min": 3,
+        "name": "Presence"
+      },
+      {
+        "id": "LUCK",
+        "max": 18,
+        "min": 3,
+        "name": "Luck"
+      }
+    ],
+    "defaultDiceSystem": "2d10",
+    "derivedStats": [
+      {
+        "constant": 0,
+        "equip": [],
+        "id": "hpMax",
+        "round": "round",
+        "terms": [
+          {
+            "attr": "VITALITY",
+            "coef": 8
+          },
+          {
+            "attr": "MIGHT",
+            "coef": 2
+          }
+        ]
+      },
+      {
+        "constant": 0,
+        "equip": [],
+        "id": "stamMax",
+        "round": "round",
+        "terms": [
+          {
+            "attr": "VITALITY",
+            "coef": 4
+          },
+          {
+            "attr": "FINESSE",
+            "coef": 2
+          }
+        ]
+      },
+      {
+        "constant": 0,
+        "equip": [],
+        "id": "focusMax",
+        "round": "round",
+        "terms": [
+          {
+            "attr": "INTELLECT",
+            "coef": 4
+          },
+          {
+            "attr": "WILL",
+            "coef": 2
+          }
+        ]
+      },
+      {
+        "constant": 0,
+        "equip": [],
+        "id": "initiative",
+        "round": "none",
+        "terms": [
+          {
+            "attr": "PERCEPTION",
+            "coef": 1
+          },
+          {
+            "attr": "FINESSE",
+            "coef": 1
+          }
+        ]
+      },
+      {
+        "constant": 0,
+        "equip": [
+          {
+            "coef": 1,
+            "slot": "weapon",
+            "stat": "atk"
+          }
+        ],
+        "id": "physAtk",
+        "round": "none",
+        "terms": [
+          {
+            "attr": "MIGHT",
+            "coef": 1.5
+          },
+          {
+            "attr": "FINESSE",
+            "coef": 1
+          }
+        ]
+      },
+      {
+        "constant": 0,
+        "equip": [
+          {
+            "coef": 1,
+            "slot": "armor",
+            "stat": "def"
+          }
+        ],
+        "id": "physDef",
+        "round": "none",
+        "terms": [
+          {
+            "attr": "VITALITY",
+            "coef": 0.5
+          },
+          {
+            "attr": "FINESSE",
+            "coef": 0.5
+          }
+        ]
+      },
+      {
+        "constant": 0,
+        "equip": [],
+        "id": "mentDef",
+        "round": "none",
+        "terms": [
+          {
+            "attr": "WILL",
+            "coef": 1.5
+          },
+          {
+            "attr": "INTELLECT",
+            "coef": 0.5
+          }
+        ]
+      }
+    ],
+    "diceSystems": [
+      {
+        "count": 2,
+        "critOn": "maxTotal",
+        "fumbleOn": "minTotal",
+        "id": "2d10",
+        "sides": 10
+      },
+      {
+        "count": 1,
+        "critOn": "maxTotal",
+        "fumbleOn": "minTotal",
+        "id": "1d20",
+        "sides": 20
+      }
+    ],
+    "progression": {
+      "cardVocab": [
+        "LEVEL UP",
+        "SKILL",
+        "AFFINITY",
+        "CLASS",
+        "TITLE"
+      ],
+      "ladders": [
+        {
+          "id": "skill",
+          "ranks": [
+            "novice",
+            "apprentice",
+            "journeyman",
+            "expert",
+            "master",
+            "grandmaster",
+            "sage"
+          ]
+        },
+        {
+          "id": "affinity",
+          "ranks": [
+            "affinity",
+            "manipulation",
+            "spirit",
+            "soul"
+          ]
+        }
+      ],
+      "leveling": {
+        "attributePointsPerLevel": 3,
+        "perFloor": 1,
+        "type": "flat"
+      }
+    },
+    "resolution": {
+      "bands": [
+        {
+          "id": "fumble",
+          "result": "miss",
+          "when": {
+            "flag": "fumble"
+          }
+        },
+        {
+          "id": "crit",
+          "result": "hit",
+          "scale": {
+            "marginFloor": 6,
+            "mult": 1.5
+          },
+          "when": {
+            "flag": "crit"
+          }
+        },
+        {
+          "id": "hit",
+          "result": "hit",
+          "scale": {
+            "mult": 1
+          },
+          "when": {
+            "marginGte": 0
+          }
+        },
+        {
+          "id": "graze",
+          "result": "hit",
+          "scale": {
+            "flat": 0.25,
+            "mult": 1
+          },
+          "when": {
+            "marginGt": -3
+          }
+        },
+        {
+          "id": "miss",
+          "result": "miss",
+          "when": {
+            "always": true
+          }
+        }
+      ],
+      "damageFloor": 1,
+      "gate": {
+        "default": 1,
+        "min": 0
+      },
+      "intentClamp": {
+        "max": 10,
+        "min": 0
+      },
+      "marginDivisor": 12,
+      "round": "tenths"
+    },
+    "summary": "The Tower — 8-attribute litRPG; ascend by clearing floors.",
+    "systemType": "leveled-rpg"
+  }
+}

@@ -1,0 +1,22 @@
+---
+pageType: story-wiki
+slug: the-four-labors-the-founding-fork
+title: The Four Labors (the founding fork)
+bodyField: content
+story: cornerstone
+kind: seed
+chapterNumber: 1
+---
+# The Four Labors (the founding fork)
+
+The dramatic engine of chapter 1's close and the story's first reader-decision. After a loud, churning camp-wide argument that "did not resolve into one will" but "broke into four," the settlers begin **four labors at once** across the core's body — "four different weathers breaking over one field" — each born of a different wanting. The core, discovering it can *want*, reaches to lean its will toward one.
+
+**The four labors and what each opens (narrative framing):**
+1. **A watch-stack on the rise** (Quick-Step et al.) — stone hauled uphill and stacked high for a place to watch the frontier from. Born of fear of the hunting dark; the wish for *eyes* so nothing crosses the edge unseen. → would end the blindness past the rim.
+2. **A common hearth at the center** (over the night-coal) — a pit "not deep but wide" cut at the heart of the camp for a true, lasting fire ringed for all. Born of cold and grief and fraying; the wish for a heart to gather round "so that no one would quietly slip away into the dark." → would let the core feel the people's inner weather, the child's fear from the inside.
+3. **A storehouse/granary** (Deep-Step) — "not a digging this time but a raising": a broad floor framed off the center, walls built up, and the harvest carried in to keep (grain in sacks, racks and bins). Born of practicality and an already-felt shortfall; the wish to *keep* the land's giving against the season's turn, "so that when the season turned and the land gave nothing, there would be weight in the store to set against the want." → would let the core feel the land's yield and the coming of want, "the filling and the emptying."
+4. **A raised standing-stone** by the grave (Slow-Tread) — a great stone set upright, kin to the core's own buried body, to mark the dead and the founding. → would pull the memory-thread taut and reach toward the core's lost name.
+
+**On the Provision/Reach partition (committed gameSystem canon).** This chapter's Provision door is a **surface store** — gathered-and-stored, scarcity/yield — *not* a downward dig. The well/deep-shaft imagery (downward extent) is reserved to the **Reach** Faculty for a later chapter; a shallow draw-well would sit Provision-side. Accordingly the ch1 menu offers four doors — Sight(watch-cairn) / Warmth(common-hearth) / Provision(storehouse-granary) / Memory(marker-stone) — with Reach deliberately absent.
+
+**The choice.** This is the first system-decision presented to the reader-as-core: lean the core's will toward exactly one labor; the first foundation pressed down wakes the Faculty that labor belongs to, and the other three stay dormant for now. *(The mechanical option-sheet — Faculties, Depths, Wakefulness — is the build/manager's to record.)* Each labor is explicitly framed as a *door*, and which door opens first is the reader's call.

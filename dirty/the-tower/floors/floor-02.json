@@ -1,0 +1,83 @@
+{
+  "floor": 2,
+  "name": "The Cistern",
+  "theme": "The stair climbs into a vast flooded hall — water held impossibly high in the Tower, by no logic but the System's. Black water laps at a ring of broken walkway. The air is wet, mineral, cold enough to fog breath. Drips echo from a dark too big to see across. Somewhere ahead, the slow drag of something heavy through water. The way on is a corroded spiral stair on the far side, behind the water. (Continuity: reached by ASCENDING from floor 1 — the slab Alan was shown sliding back opens onto these climbing steps. Do not narrate a descent.)",
+  "exits": ["ascending spiral stair, far side (sealed until the floor is cleared)"],
+  "rooms": [
+    {
+      "id": "cistern-walkway",
+      "name": "The Broken Walkway",
+      "desc": "A ring of cracked stone walkway just above the waterline, the only dry footing near the entrance. The flood fills the undercroft below it. A toppled brazier-stand lies half in the water; a coil of rotted rope hangs from a wall ring.",
+      "searchables": [
+        { "thing": "the flood itself (black water, undercroft-deep)", "use": "ABUNDANT water — drink (risky, mineral/foul), throw, douse, submerge. The floor's defining resource. Cold and deep; falling in is a real hazard for VIT 6.", "note": "this is the floor's pre-decided water answer: YES, everywhere, deep. Exploitable against the Sentry (heat/dry) and the Glut (dry stone)." },
+        { "thing": "toppled brazier-stand (half in water)", "use": "the iron basket still holds dry-ish char and a flint-scrape striker bracket — a FIRE source can be coaxed here with effort (INT/FIN). The one heat seed on a water floor.", "note": "key item: heat is the Sentry's bane; this is where it comes from. Lighting it is an action, not free." },
+        { "thing": "coil of rotted rope (wall ring)", "use": "~4m of rope; frays under load >~80kg but holds a careful climber or a thrown lashing. Cover/leverage/retrieval tool.", "status": "INTACT" },
+        { "thing": "loose walkway slabs (cracked, along the ring)", "use": "pry one free as a thrown slab (heavy ranged, FIN) or a shield-board (improvised cover, +1 physDef while braced)", "note": "prying takes a turn; leaves a gap in the footing" },
+        { "thing": "rusted bracket-spikes (in the wall)", "use": "none useful — too corroded to pull free intact; crumble", "note": "decided dead end" }
+      ],
+      "water": "ABUNDANT and DEEP. The whole undercroft below the walkway is flooded with cold black water. Drinkable at risk, throwable, douses anything, deep enough to drown in. This is the floor's central resource and the answer to 'is there water?' — yes, overwhelmingly.",
+      "light": "near-dark; faint phosphorescence on the wet walls gives dim silhouettes only. Lighting the brazier creates a bright pool but blinds night-sight beyond it and announces position.",
+      "exhausted": "A second sweep of the walkway turns up only more crumbling brackets and waterlogged debris — nothing better than the rope, the slabs, and the brazier. Do not let it be farmed.",
+      "otherExits": "the descending stair behind (back to floor 1's slab) and the submerged passage forward — the only way across is along the walkway ring or through the water itself"
+    },
+    {
+      "id": "cistern-deep",
+      "name": "The Deep Water",
+      "desc": "Where the walkway gives out, the flood opens into the heart of the undercroft. The Drowned Sentry stands waist-deep on a submerged platform, barring the path to the spiral stair. The water here is full of slow movement — the Glut, a pooled mass of leech-things, drifts just under the surface, drawn to warmth and disturbance.",
+      "searchables": [
+        { "thing": "the submerged platform (Sentry's footing)", "use": "knee-to-waist-deep stone shelf; the only stable place to fight near the Sentry. Stepping onto it puts you in the Glut's reach.", "note": "the fight geography — dry-ish footing surrounded by deep water on three sides" },
+        { "thing": "the corroded spiral stair (far side)", "use": "the exit. Seam-sealed flush like floor 1's slab. An INT/PER read: the seal is keyed to the floor's wardens — clear both and it opens.", "note": "no lever; clearing the encounter is the key" },
+        { "thing": "sunken debris (under the platform)", "use": "groping underwater finds a second iron bar (atk 4, equal to Alan's, a spare/offhand) and a smooth river-stone (good thrown, FIN)", "note": "retrieving means submerging in the Glut's water — a real risk for VIT 6; gate it behind a smart approach" }
+      ],
+      "water": "the deep continues here, three sides of the platform. The Glut lives in it. Dragging an enemy INTO the water, or staying OUT of it, is the tactical axis of this room.",
+      "light": "the brazier (if lit and carried/placed) is the only bright light; otherwise dim phosphor-silhouette",
+      "exhausted": "Once both wardens are down and the debris is recovered, the deep holds nothing else. No respawn-farming.",
+      "otherExits": "back along the walkway; the sealed spiral stair forward"
+    }
+  ],
+  "encounters": [
+    {
+      "id": "drowned-sentry-01",
+      "trigger": "stepping onto the submerged platform, or attacking from the walkway",
+      "enemy": {
+        "name": "Drowned Sentry",
+        "kind": "enemy",
+        "level": 2,
+        "class": "Waterlogged Husk",
+        "attributes": {
+          "MIGHT": 12, "FINESSE": 7, "VITALITY": 11, "INTELLECT": 4,
+          "PERCEPTION": 8, "WILL": 6, "PRESENCE": 4, "LUCK": 5
+        },
+        "rollMode": "2d10",
+        "equipment": { "weapon": { "atk": 5 }, "armor": { "def": 3 } },
+        "baseDamage": 14,
+        "intentTypical": 2,
+        "readableTrait": "An armored corpse-thing, centuries waterlogged, its rusted plate fused at every joint. GATE: the fused armor makes it brutally slow — it cannot pivot or turn in time. Strikes to its front are largely turned by the plate (coordinator applies x0.4 damage to any frontal blow); a blow taken to its BACK or an unarmored joint behind the knee/neck lands clean (x1.5). A reader who maneuvers behind it (leg-driven footwork, the walkway geometry, baiting its slow turn) earns intent 7+. Second gate: it is DRY ROT under the rust — HEAT is its bane. Set it alight — with the brazier, OR with Ember Channel heat projected through the iron bar (the skill Alan manifested on floor 1; a Focus-cost invoke, no brazier required) — and the seized joints crack; a burning Sentry takes x2 from the next blow and loses its turn flailing. Cold water does nothing (it is already drowned). The wrong read — trying to drown it, or trading blows to its face — wastes the fight.",
+        "hpNote": "computed by engine: VIT8(88)+MIGHT2(24) = 112 HP. High HP + high frontal mitigation = a slog if read wrong; fast if read right."
+      },
+      "reward": { "xp": 110, "drop": "a still-warm rivet of fire-purged iron (heat-affinity seed) and the Sentry's intact pauldron (armor def 2, wearable — Alan's first armor)" }
+    },
+    {
+      "id": "leech-glut-01",
+      "trigger": "entering the deep water, submerging, or warmth/blood entering the flood",
+      "enemy": {
+        "name": "The Glut",
+        "kind": "enemy",
+        "level": 2,
+        "class": "Leech-swarm",
+        "attributes": {
+          "MIGHT": 5, "FINESSE": 14, "VITALITY": 8, "INTELLECT": 2,
+          "PERCEPTION": 12, "WILL": 3, "PRESENCE": 2, "LUCK": 8
+        },
+        "rollMode": "2d10",
+        "equipment": { "weapon": { "atk": 0 }, "armor": { "def": 0 } },
+        "baseDamage": 9,
+        "intentTypical": 3,
+        "readableTrait": "Not one creature — a swarm of leech-things acting as one pooled mass, fast and near-impossible to hit cleanly in the water (high FINESSE, high Initiative 26; coordinator applies x0.3 to any blow struck while it is IN the flood — you can't cut water). GATE: the swarm is BOUND to the water. Drive it, or yourself, onto dry stone — the walkway, the platform — and the mass loses cohesion: out of water it is sluggish, halves its own attack, and takes full damage. Lure-and-strand is the kill. A reader who uses the dry footing, fire (it recoils from the brazier OR from an Ember-Channel-heated bar), or salt/ash to herd it out of the flood earns intent 8+. Brute-swinging at it in the water is a near-no-op. It will try to pull a target INTO the deep (drowning play vs VIT 6 — a genuine lethal threat if Alan is grappled under).",
+        "hpNote": "computed by engine: VIT8(64)+MIGHT2(10) = 74 HP. Low effective threat IF stranded; lethal IF fought on its terms in the water."
+      },
+      "reward": { "xp": 90, "drop": "a sac of swarm-ichor (alchemy/affinity seed) — sticky, mildly caustic, throwable" }
+    }
+  ],
+  "designerNotes": "FLOOR 2 — the water floor; introduces environmental exploitation and a damage-GATE model. KEY DESIGN NOTE FOR THE COORDINATOR: Alan's physAtk (33.5 with the bar) overwhelms raw enemy physDef, so margins balloon and brute force would trivialize any enemy on stats alone — the floor-01 intent bonus alone is NOT enough to make 'reading the weakness' load-bearing. The fix used here: each readableTrait carries an explicit DAMAGE GATE (a multiplier the coordinator applies based on whether the player engaged the weakness) — x0.4 to the Sentry's armored front, x0.3 to the Glut in water, vs x1.5–x2 when read correctly. The math then enforces the design intent: brute force is a slog (mitigated to a chip), reading wins fast. Apply the gate as a baseDamage multiplier BEFORE the engine's margin scaling. Stakes are real: the Sentry hits ~28+ (chunks Alan's 70 HP hard), and the Glut's drowning grapple is a true kill threat to VIT 6 — Alan MUST control geography (stay dry, strand the swarm, get behind the Sentry). The brazier is the linchpin item: heat cracks the Sentry and herds the Glut; lighting it is the floor's 'aha.' Two enemies but they need NOT be fought together — a smart reader separates them (the Sentry is slow, the Glut is water-bound). Reward gives Alan his first armor (physDef 9.5 → ~11.5) and two affinity seeds, modest power-up before floor 3. LOOP NOTE (coordinator-only): layout is fixed and reproducible — a re-climb matches this exactly, by design."
+}

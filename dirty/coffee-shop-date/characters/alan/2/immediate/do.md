@@ -1,0 +1,1 @@
+Hold her gaze with the easy smile still there and give a small, unhurried nod — not rushing to add to what he said, leaving the space genuinely open for her, his whole attention plainly on her and ready to take up wherever she goes.

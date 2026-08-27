@@ -1,0 +1,20 @@
+---
+pageType: story-wiki
+slug: the-core-and-quick-step
+title: The Core and Quick-Step
+bodyField: content
+story: cornerstone
+kind: relationship
+chapterNumber: 1
+---
+# The Core and Quick-Step
+
+A tender, helpless bond established in chapter 1 between **The Waking Stone (the Core)** and **Quick-Step** — the camp's fearful daytime watcher who breaks down alone at night.
+
+**What the text establishes.** By day Quick-Step stands at the high lip with its face to the dark, afraid of the frontier beyond the rim. By night, when the others sleep, Quick-Step rises alone and returns to that same high lip "to let the dark have it" — sitting and weeping where no one can see, "alone with whatever was too heavy to carry in the daylight where the others would watch." The core feels every tremor through the soil and knows "that one was breaking a little."
+
+**The core's ache.** The core longs to answer — "a warmth, a steadiness, the least pressure back against a grieving body, the way I had longed to press back against the child's palm" — and has none of it to give. "I could only hold the weeping one up, as I held everything up, dumbly, and let it believe it wept alone, when the very ground beneath it ached to answer and could not."
+
+**Significance.** A second axis of the core's central agony ("to feel everything and do nothing"), parallel to its bond with the child: where the child's palm gives the core its want, Quick-Step's private grief gives that want a person to fail. Counted by the core as the second of two helplessnesses that chapter ("Twice now. The hunting dark I could not warn against. The private grief I could not soothe.").
+
+**Direction:** one-sided as of ch.1 (Quick-Step does not know the core is aware).

@@ -1,0 +1,1 @@
+Let his hand close the rest of the distance and find hers in the warmth between the chairs — unhurried, certain — and hold her gaze as it settles, the smile gone soft and still, answering her reach with his own and letting the quiet keep them both.
