@@ -1,9 +1,9 @@
 ---
 id: 7436b373-c391-413d-8fe2-f9d4aacb23f1
-page-type-slug: folder-arrangement-shape
+page-type-slug: folder-shape
 title: "Single entry"
 slug: single-entry
-domain-parent-slug: page-type/folder-arrangement-shape
+domain-parent-slug: page-type/folder-shape
 check-slug: folder-matches-a-shape
 ---
 

@@ -12,7 +12,7 @@ check-on-audit: false
 
 # Definition
 
-- **Folder matches a shape** — fails a folder matching none of the folder arrangement shapes.
+- **Folder matches a shape** — fails a folder matching none of the folder shapes.
 
 # Design
 
