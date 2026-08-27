@@ -1,5 +1,4 @@
 import { existsSync, readFileSync } from "node:fs"
-import { type CodeRefKind, codeRefKind } from "./code-import.ts"
 import { codeRoot } from "./code-root.ts"
 import { commas, evaluate, mappingsIn, opens, through } from "./code-literal.ts"
 import { ownTypeScript } from "./own-typescript.ts"
@@ -38,6 +37,15 @@ const NODE_ID_HOLE = new RegExp(`^\`[a-z0-9-]+:${CODE_REPO}:[^\`]*\\$\\{`)
 const FIELD = /^[A-Za-z_$][\w$]*\.([A-Za-z_$][\w$]*)$/
 
 const NAME = /^[A-Za-z_$][\w$]*$/
+
+// A REF ENDING `.ts` IS A PATH AND ANYTHING ELSE A PACKAGE SPECIFIER, read through that
+// package's own `exports` map. This reading stood in `tools/lib/code-import.ts` beside the
+// dynamic-import seam it served; that seam is gone and this is the only reader left of it.
+export type CodeRefKind = "path" | "specifier"
+
+export function codeRefKind(ref: string): CodeRefKind {
+  return ref.endsWith(".ts") ? "path" : "specifier"
+}
 
 export interface Reach {
   readonly ref: string

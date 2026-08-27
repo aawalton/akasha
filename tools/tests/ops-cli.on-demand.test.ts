@@ -5,13 +5,7 @@ import { join } from "node:path"
 import { installRepos } from "./fixture.ts"
 
 const DISPATCHER = join(import.meta.dir, "..", "ops", "cli.ts")
-const CODE_IMPORT = join(import.meta.dir, "..", "lib", "code-import.ts")
 const OWN_CHECKOUT = realpathSync(join(import.meta.dir, "..", ".."))
-
-// WHAT THE FIXTURE COMMAND REACHES FOR, named once so the refusal can be checked against it rather
-// than against a shape. `codeRefKind` reads a reference ending `.ts` as a path and everything else
-// as a package specifier, so a code-repository reference no longer has to look like `@scope/name`.
-const CODE_REFERENCE = "shared/errors-core/src/exit.ts"
 
 let root = ""
 
@@ -103,16 +97,6 @@ function buildFixture(): void {
     "tools/commands/fixture/broken.ts",
     `// command: fail to load at all
      throw new Error("Cannot find module 'graphology'")
-    `
-  )
-  put(
-    "tools/commands/fixture/needs-code.ts",
-    `// command: reach the code repository for a module
-     export const help = { flags: [] }
-     export default async function needsCode() {
-       const { codeModule } = await import(${JSON.stringify(CODE_IMPORT)})
-       await codeModule(${JSON.stringify(CODE_REFERENCE)})
-     }
     `
   )
   put(
@@ -270,19 +254,5 @@ describe("a rejected flag that is real on a sibling", () => {
     const ran = await ops(["fixture", "reject", "--author"])
     expect(ran.exitCode).toBe(1)
     expect(ran.stderr).toContain("ops fixture create --author")
-  })
-})
-
-describe("a code repository that cannot be reached", () => {
-  test("names a code-repository reference and the root it was sought under, and exits distinguishably", async () => {
-    const empty = mkdtempSync("/var/tmp/ops-cli-empty-")
-    try {
-      const ran = await ops(["fixture", "needs-code"], { CODE_ROOT: empty })
-      expect(ran.exitCode).toBe(70)
-      expect(ran.stderr).toContain(empty)
-      expect(ran.stderr).toContain(CODE_REFERENCE)
-    } finally {
-      rmSync(empty, { recursive: true, force: true })
-    }
   })
 })
