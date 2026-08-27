@@ -29,7 +29,7 @@ required-reading-slugs:
 3. **The parent, settled before any child is created.**
    - **Create** the parent first and never a child before it. Two families landed under the wrong parent in one run here and both had to be moved, and an edge that moves re-reads every document beneath it — which is why `define-definition` refuses this work rather than doing it.
    - **Write** the parent where none stands rather than hanging children off the nearest ancestor that will take them. Six domains sat under `alan-harness` because the parent they belonged under had not been written, and nothing in the tree reported it.
-   - **Ask** `ops akasha dag --domain <slug>` what stands under the candidate parent before adding to it.
+   - **Ask** `ops domain dag --domain <slug>` what stands under the candidate parent before adding to it.
    - **Name** the one parent a member sits under, and put every other domain it must be read with in `required-reading-slugs:`. The parent is where it stands and what ownership descends; the rest is reading, and nothing on the write asks which is which.
    - **Read** what each child inherits along `domain-parent-slug:` and say where that misses rules it needs. A concept hung under a mental-model parent inherits the rules of that branch and not those of the branch its material sits in, and nothing refuses it.
 

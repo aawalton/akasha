@@ -18,7 +18,7 @@ conditional-reading-slugs:
 
 1. **The domain in front of you, read from the tree he reads.**
    - **Take** which domain that is from the Intent entry on your own persona's document. Several walks run at once, one to a persona, and the same entry on a domain would be read at every boot by every agent beneath it rather than by the one walking.
-   - **Ask** `ops akasha champions --tree --json` for its children, and work from those alone. It stands each domain in the one place its parent puts it, and that is the view Alan reads, so it is the tree the layer is being settled in.
+   - **Ask** `ops domain champions --tree --json` for its children, and work from those alone. It stands each domain in the one place its parent puts it, and that is the view Alan reads, so it is the tree the layer is being settled in.
    - **Pull** the one node out of the object rather than printing the tree, which draws every domain there is and buries a six-line layer inside the whole tree.
    - **Read** each child whole before proposing anything about it. One read as an orphan wanting a home until its own line said it was a kind of domain.
 
@@ -33,7 +33,7 @@ conditional-reading-slugs:
    - **Test** each pair for containment. Two glosses where one is a special case of the other are a parent and a child about to be landed as peers.
 
 4. **The move, priced against the chain of required reading before it lands.**
-   - **Ask** `ops akasha champions --path <file>` what is required for a document before moving it, and read that against what the move would leave. A move that inserts a parent above the old one is additive; one that replaces it drops every document that stood above.
+   - **Ask** `ops domain champions --path <file>` what is required for a document before moving it, and read that against what the move would leave. A move that inserts a parent above the old one is additive; one that replaces it drops every document that stood above.
    - **Refuse** a subtractive move until you have named what leaves. Dropping one edge took a person's whole document out of every agent's boot, and the only thing that reported it was a test asserting the chain byte for byte.
    - **Carry** what leaves to somewhere its readers still reach, rather than taking the loss quietly.
 
@@ -49,7 +49,7 @@ conditional-reading-slugs:
 
 7. **The required reading, rebuilt against what the walk cannot deliver.**
    - **Name** in `required-reading-slugs:` only the terms a reader beneath would misread the domain without. Each entry arrives whole and counts as read, so every reader beneath pays for it at every boot.
-   - **Cut** any term the reader already meets walking up, which `ops akasha champions --path` will tell you. The chain delivers a reader's own ancestors, so an entry naming one buys nothing and dilutes what stands beside it.
+   - **Cut** any term the reader already meets walking up, which `ops domain champions --path` will tell you. The chain delivers a reader's own ancestors, so an entry naming one buys nothing and dilutes what stands beside it.
    - **Keep** the term standing in one branch and wanted in the others. Reaching sideways is the whole of what required reading does, the walk having only the one direction.
    - **Stop** at what a reader gets wrong rather than at what belongs to the subject. A hundred and eighty-three entries were stripped here for enumerating a domain's vocabulary instead.
 

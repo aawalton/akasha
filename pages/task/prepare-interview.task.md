@@ -17,7 +17,7 @@ domain-parent-slug: page-type/task
    - **Read** the direction for what it does not say as well as what it does. A direction naming one domain usually names the family it sits in, and preparing only the domain named leaves you unable to follow them when they move.
 
 2. **What already stands there.**
-   - **Read** every domain the direction reaches. `ops akasha dag --domain <slug> --paths` lists the domains from the nearest standing one.
+   - **Read** every domain the direction reaches. `ops domain dag --domain <slug> --paths` lists the domains from the nearest standing one.
    - **Read** the findings filed against that subject. They are the material a session is for.
 
 3. **The rough edges.**
