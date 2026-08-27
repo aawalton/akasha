@@ -9,7 +9,7 @@ title: "Block addon direct install"
 Direct ESO addon installs are prohibited. The shared live AddOns/ folder is reconciled by the deploy pipeline, so a direct install races the reconcile and produces non-deterministic in-game state.
 
 Canonical addon test loop:
-  - Commit your change straight onto main in ~/repos/code.
+  - Commit your change straight onto main in ~/repos/akasha.
   - Deploy it through the ops CLI.
     Its post-land step installs the deployed bytes to the live AddOns/ folder reproducibly.
   - Then /reloadui in-game and verify against the deployed artifact.
