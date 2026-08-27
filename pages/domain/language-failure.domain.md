@@ -27,3 +27,13 @@ The later a fault is found, the more has been built on it and the less says why.
 Check what a program says before what it does.
 
 Never leave to run time what parsing could catch.
+
+## Refuse Not Convert
+
+**Refuse a value the program cannot use, rather than making one it can.**
+
+A made value answers in place of the one meant, and nothing after it can tell which it got.
+
+Let one absent value stop the whole answer.
+
+Never add a conversion to make two types meet.
