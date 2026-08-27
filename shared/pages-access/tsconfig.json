@@ -19,7 +19,6 @@
     "../../agent/**/*.ts",
     "../../cache/**/*.ts",
     "../../checks-system/**/*.ts",
-    "../../day/**/*.ts",
     "../../during-call/**/*.ts",
     "../../exclusive/**/*.ts",
     "../../file-structure/**/*.ts",
@@ -28,13 +27,13 @@
     "../../outcome/**/*.ts",
     "../../page/**/*.ts",
     "../../patches/**/*.ts",
-    "../../readouts/**/*.ts",
-    "../../repo/**/*.ts",
     "../../repoint/**/*.ts",
+    "../../repo/**/*.ts",
     "../../rule/**/*.ts",
     "../../utf8-body/**/*.ts",
     "../../workspace-package/**/*.ts",
-    "../../write-whole/**/*.ts"
+    "../../write-whole/**/*.ts",
+    "../../page/name/naming/named-for.ts"
   ],
   "exclude": [
     "node_modules",
