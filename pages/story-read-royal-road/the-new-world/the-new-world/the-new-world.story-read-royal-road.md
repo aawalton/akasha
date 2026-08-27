@@ -1,0 +1,63 @@
+---
+id: 32e35885-b265-560a-99d4-e725b1e8e06c
+page-type-slug: story-read-royal-road
+title: "The New World"
+slug: the-new-world
+world: the-new-world
+unit: words
+author: "Monsoon117"
+rank: c-rank
+following: true
+royalRoadTags:
+  - "LitRPG"
+  - "Strategy"
+  - "Grimdark"
+  - "Strong Lead"
+  - "Action"
+  - "Adventure"
+  - "Mystery"
+  - "Magic"
+link: "https://www.royalroad.com/fiction/12024/the-new-world"
+royalRoadId: "12024"
+---
+
+An AI calling itself Schema has assimilated earth into its system. As a consequence, everyone gained access to status screens, power-ups, and skills. This AI turned these concepts from fiction to fact. It's easy to become intoxicated with leveling up and becoming stronger. To some, it's too good to be true like living out a dream.
+
+
+For Daniel, however, it's closer to a nightmare.
+
+
+He's in a bit of a predicament. Cracks in our dimensional fabric have unleashed terrifying beasts from dark, abyssal places. Schema organizes these cracks into dungeons, giving the native species of the planet a chance to fight back. Daniel finds himself trapped in one of these dungeons. Not long after, he discovers there's only one way out.
+
+
+Kill or be killed.
+
+
+First book is out! Hello everyone. I've finally accomplished a lifetime goal of publishing my work, and in a form I'm proud of. Getting it out there has been preying on my anxieties in many ways, but I've pushed through and handled it. I could never have done this without all of your support. It's genuinely made an enormous difference. You guys can continue to support the story through the links below.
+
+
+E-book
+
+
+Audiobook
+
+
+Paperback
+
+
+This is a lit-RPG inspired by the Fallout series of games and the Legend of Randidly Ghosthound. 
+
+
+Schedule: 2-3 releases a week of around 3,000 words. 
+
+
+I have other fictions! *They're of questionable quality*
+
+
+Here's Monsters Dwell in Men
+
+
+If you want to support me and maybe see other content, check out my patreon: Patreon
+
+
+Here's my Youtube Channel as well, Monsoon117
