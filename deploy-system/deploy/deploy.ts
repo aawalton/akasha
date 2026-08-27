@@ -7,9 +7,16 @@ import type { ClusterService, Service } from "../service/service.ts"
 
 const ROLLED_OUT: ReadonlySet<string> = new Set(["Deployment", "StatefulSet", "DaemonSet"])
 
-const CHECKSUM_ANNOTATION_MARKER = "checksum/"
-
-const CHECKSUM_ANNOTATION = /^\s*(checksum\/[A-Za-z0-9][A-Za-z0-9._-]*):/gm
+const STAND_INS: readonly { readonly what: string; readonly found: RegExp }[] = [
+  {
+    what: "a checksum a synth cannot know, which is filled in from what the workload reads",
+    found: /^\s*(checksum\/[A-Za-z0-9][A-Za-z0-9._-]*):/gm,
+  },
+  {
+    what: "an image a synth cannot know, which is filled in from what the build produced",
+    found: /^\s*(image):\s*\S*MUST_BE_SET\S*\s*$/gm,
+  },
+]
 
 export interface Workload {
   readonly kind: string
@@ -122,22 +129,24 @@ export async function planFor(akasha: string, service: ClusterService): Promise<
   }
 }
 
-export function keysLeftUnsubstituted(manifest: Manifest): readonly string[] {
-  const keys: string[] = []
-  for (const found of manifest.yaml.matchAll(CHECKSUM_ANNOTATION)) {
-    const key = found[1]
-    if (key !== undefined) keys.push(key)
+export function standInsIn(manifest: Manifest): readonly string[] {
+  const left: string[] = []
+  for (const standIn of STAND_INS) {
+    for (const found of manifest.yaml.matchAll(standIn.found)) {
+      const key = found[1]
+      if (key !== undefined) left.push(`${key} — ${standIn.what}`)
+    }
   }
-  return keys
+  return left
 }
 
-export function refuseUnsubstituted(akasha: string, plan: Plan): void {
+export function refuseStandIns(akasha: string, plan: Plan): void {
   const left = plan.manifests.flatMap((manifest) =>
-    keysLeftUnsubstituted(manifest).map((key) => `${relativeTo(akasha, manifest.path)}: ${key}`)
+    standInsIn(manifest).map((one) => `${relativeTo(akasha, manifest.path)}: ${one}`)
   )
   if (left.length === 0) return
   throw new DeployRefused(
-    `${plan.service.slug} is emitted carrying a ${CHECKSUM_ANNOTATION_MARKER} annotation, which a synth writes as a stand-in for somebody else to fill in from what the workload reads; applying it as it stands would write the stand-in over the hash the cluster holds, and the pods would stop restarting when their configuration changed:\n       ${left.join("\n       ")}`
+    `${plan.service.slug} is emitted carrying a stand-in for a value its synth cannot know, and applying it as it stands would write the stand-in itself into the cluster:\n       ${[...new Set(left)].join("\n       ")}`
   )
 }
 
@@ -205,7 +214,7 @@ export interface Deployed {
 
 export async function deploy(akasha: string, service: ClusterService): Promise<Deployed> {
   const plan = await planFor(akasha, service)
-  refuseUnsubstituted(akasha, plan)
+  refuseStandIns(akasha, plan)
   const written = writeManifests(plan)
   const ran: Ran[] = []
   for (const manifest of plan.manifests) {

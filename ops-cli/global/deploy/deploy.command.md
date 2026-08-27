@@ -30,4 +30,4 @@ The namespace is applied before anything placed in it, and the workload after ev
 
 A deploy waits for the rollout of a workload that has one.
 
-A manifest carrying a value its synth left for somebody else to fill in is refused.
+A manifest carrying a stand-in for a value its synth cannot know is refused.
