@@ -49,7 +49,7 @@ A node kind on a `graph-edge` page is a list, by Alan's ruling on 2026-08-27, an
 
 No command reaches code through `codeModule`, by Alan's ruling on 2026-08-27. Where a page says a command is safe against any checkout, that is a permission and not a requirement to load from one.
 
-The relation index names an attachment end, by Alan's ruling on 2026-08-27. It already names a path end under `relation/{property}/{repo}/{path}.jsonl`; an attachment is derived from the naming convention rather than declared, so nothing writes an entry for one, and that is what changes. Replacing the `frontmatter` producer waits on it.
+The relation index names an attachment end, by Alan's ruling on 2026-08-27. It already names a path end under `relation/{property}/{repo}/{path}.jsonl`; an attachment is derived from the naming convention rather than declared, so nothing wrote an entry for one.
 
 Rootedness is removed as a concept. No edge type carries it and no node type seeds it. `ops graph rooted` and the `deployed` node flag go with it. Whether deleting a file breaks production is asked as a walk from a deployable rather than held as a flag.
 
@@ -126,7 +126,7 @@ The `Said` memo at `build-context.ts` is the one held answer today, keyed by a f
 
 `folder`, `contains` and the list spelling of `node-kind` landed on 2026-08-27. `contains` stores nothing: what holds a node is its key with the last segment cut, and what a folder holds is one indexed pass over that repository's tracked keys.
 
-The relation index already names an end that is no page, filing it under the target's own path as `relation/{property}/{repo}/{path}.jsonl`. It does this for path-typed properties — `script` 95 and `widget-path` 6 under `akasha`, `command-path` 317 under `instructions`, a repo that no longer exists. What it holds nothing for is an attachment, which the producer derives from the naming convention rather than from a declared target: about 4,880 edges, including all 61 `code` relations a page names its implementation with. For page-to-page ends the index is a strict superset of the producer — 0 edges in the walk and not the index, 3,364 the other way — and answers 17 times faster. Filed at `finding/graph-system/relation-index-holds-no-non-page-end`. Alan ruled on 2026-08-27 that the index learns to name an attachment end, so writing those entries is the next piece of work, after which the `frontmatter` producer can go as the ruling above has it.
+The relation index holds every relation edge the `frontmatter` producer derives: 121,716 derived against 124,655 held, 0 in the producer and not the index, and it reads 17 times faster. It names an attachment end off the naming convention wherever that file is tracked, and a path end under `relation/{property}/{repo}/{path}.jsonl`. A path stated with no `repo:` on the front is filed under the repository of the page stating it. It was filed under `instructions`, which has not existed since the fold, so all 317 `command-path` entries sat under a name nothing carries and no command page was required reading for the file it runs, against `page-type/old-ops-command` saying it is.
 
 `edgesInto` asks a producer's `into` and does not walk for it, so an `into` answering only part of its producer's edges makes the rest unreachable rather than slow. Only `contains` offers one today.
 
