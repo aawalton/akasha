@@ -15,7 +15,7 @@ required-reading-slugs:
 # Sequence
 
 1. **What this install would carry.**
-   - **Read** `ops mobile cut-status` from the code repository. It resolves which repository to answer for from the working directory, so anywhere else it exits 70 against the wrong repo rather than reporting on this one.
+   - **Read** `ops mobile cut-status`. It answers for akasha wherever it is run from, honouring `CODE_ROOT` only where that names a directory that is there.
    - **List** two populations, because nothing but the prose says a change is waiting on a device and stage 5 acts differently on each: the intent lines a previous install already asked Alan to confirm and he has not, and the intent lines you hold open on something only a real device shows.
 
 2. **The machine, before anything is built.**
