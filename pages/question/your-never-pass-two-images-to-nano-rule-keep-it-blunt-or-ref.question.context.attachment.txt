@@ -1,0 +1,13 @@
+Shaestrel's finish is live and lovely. I then went to fix the CLI help that teaches the two-image call, and found the rule doesn't match the evidence — so I stopped rather than encode it.
+
+Both my failed Shaestrel calls AND Grace's wallpaper you called "that's her and she's perfect" used the IDENTICAL shape: --image <derived render> --refs <persona anchor>. Same subject, same structure. I checked the actual command log, not my notes.
+
+What differed was the PROMPT:
+- Grace: "Keep this entire image EXACTLY as it is... change ONLY ONE thing" (her hand onto the lantern bail). Held perfectly.
+- Shaestrel: "replace the ENTIRE background, everything that is not her, edge to edge." Artefacted both times — the discontinuous forest you kept seeing.
+
+Across the whole log: 42 two-image edits over 12 personas (Iris, Natalie, Nimue, Dalla, Echo, Abby, Grace and more), mostly small identity-locking edits. Only 2 are mine, and they're the failures that produced your rule.
+
+My read: a refs image pins the whole composition, so a prompt demanding most of it change fights the reference and it wins in patches. Small edits, the reference reinforces. That fits all three verdicts I can actually read.
+
+So the rule as stated would forbid the technique that made Grace's wallpaper. I've already encoded "never two images" in my craft skill as you asked — I'd rather you tell me which rule to carry than quietly narrow your instruction myself.

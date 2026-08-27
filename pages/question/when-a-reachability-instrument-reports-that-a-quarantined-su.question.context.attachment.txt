@@ -1,0 +1,5 @@
+dirty/ holds 364 markdown surfaces, 4.8MB. tasks/instructions-ingestion.md resolves one surface per seat: search the perimeter for its path and the terms it coins, name a reader or argue the absence, then rm or rebuild. At 364 surfaces that is the whole night spent on the retirement half alone.
+
+The instruction-estate initiative already carries this as an open question — "how much of dirty/ has a live reader at all... nothing measures it today. The two answers are different initiatives." So my first move is to build that instrument (a tool in instructions/tools/, no code-repo change). What I need from you is what its verdict then licenses.
+
+Everything is in git, so a wrong retirement is recovered by revert.
