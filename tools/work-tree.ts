@@ -1,6 +1,6 @@
 export const tool = {
   summary: "Print the work tree, initiative under initiative, composed from the files now",
-  repos: ["memory"],
+  repos: ["akasha"],
 } as const
 
 import { readFileSync } from "node:fs"
@@ -16,15 +16,15 @@ import {
   walk,
 } from "./lib/work-tree.ts"
 import { pagePrefixOf } from "../page/page-types.ts"
-import { isDirty, resolveRoots, targetRoot } from "../repo/roots/roots"
+import { akashaRoot, isDirty } from "../repo/roots/roots"
 import { colorOfState } from "./lib/seat-turn-color.ts"
 import { seatWorkNow } from "./lib/seat-work.ts"
 
 const HELP = `bun tools/work-tree.ts — print the work tree, composed from the files now
 
 The initiatives standing under no other, alphabetical by slug, and the initiatives standing under
-each, as deep as the initiatives declare. Nothing is stored: this is the memory repository read at
-the moment of asking, so it cannot disagree with the files it describes.
+each, as deep as the initiatives declare. Nothing is stored: this is akasha read at the moment of
+asking, so it cannot disagree with the files it describes.
 
 An initiative is keyed by the \`slug:\` it declares rather than by its file name, which is what a
 seat's \`initiative-slug:\` and another initiative's \`parent-slug:\` both name.
@@ -41,13 +41,13 @@ drawn in, named rather than specified. A row several seats state takes the livel
 row says whether anything is moving on it. Every row nothing states carries null.
 
 Usage:
-  ops memory work-tree
-  ops memory work-tree --json
-  ops memory work-tree --colors
+  ops akasha work-tree
+  ops akasha work-tree --json
+  ops akasha work-tree --colors
 
 Flags:
   --json    The tree as one JSON object, for a caller rather than a reader. It carries the
-            memory root beside the tree, so a caller joins absolute paths against what this
+            akasha root beside the tree, so a caller joins absolute paths against what this
             command resolved rather than against a second copy of where the repository sits.
   --counts  A line saying how many nodes the tree holds.
   --colors  The colors alone, as one JSON object, keyed the way a row's \`key\` is keyed — an
@@ -128,7 +128,7 @@ function main(): void {
     process.stdout.write(HELP)
     return
   }
-  const repo = targetRoot(resolveRoots("memory"))
+  const repo = akashaRoot()
   if (argv.includes("--colors") || argv.includes("--colours")) {
     process.stdout.write(`${JSON.stringify(colorsAnswer(repo, drawnNow()))}\n`)
     return
