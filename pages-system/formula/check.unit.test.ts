@@ -180,8 +180,19 @@ test("a case whose rows hold two kinds is refused", () => {
 
 test("a case row's test must hold a boolean", () => {
   expect(refusal("case({points} -> 1, otherwise -> 2)").message).toContain(
-    "a case row matches where its test answers true"
+    "a case row matches only where its test answers true"
   )
+})
+
+test("a refusal names the value the formula wrote, not the step that broke over it", () => {
+  expect(refusal("{title} + 1").message).toContain("{title}")
+  expect(refusal("{due} + 1").message).toContain("{due}")
+  expect(refusal('contains({title}, "a")').message).toContain("{title}")
+})
+
+test("a negation takes a number", () => {
+  expect(typeOf("-{points}")).toEqual({ holds: { kind: "number" }, absent: true })
+  expect(refusal("-{title}").message).toContain("{title}")
 })
 
 test("a text literal holding a reference can be absent, and one holding none cannot", () => {

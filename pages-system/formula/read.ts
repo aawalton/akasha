@@ -23,6 +23,8 @@ const oneCharacterOperators: ReadonlySet<string> = new Set(["<", ">", "+", "-", 
 
 const comparisons: ReadonlySet<Operator> = new Set<Operator>(["==", "!=", "<", "<=", ">", ">="])
 
+const valueWords: ReadonlySet<string> = new Set(["true", "false", "absent"])
+
 const coalescing: ReadonlySet<Operator> = new Set<Operator>(["??"])
 const conjoining: ReadonlySet<Operator> = new Set<Operator>(["&&"])
 const adding: ReadonlySet<Operator> = new Set<Operator>(["+", "-"])
@@ -130,8 +132,8 @@ const takeText = (source: string, open: number): { parts: TextPart[]; after: num
 
 /**
  * A number literal: digits, and at most one point with digits on both sides.
- * There is no sign and no exponent, `-` being subtraction alone, so a negative
- * number is written `0 - 5`.
+ * There is no sign and no exponent. A leading `-` is not part of the literal:
+ * it is the negation operator, read a rung above this.
  */
 const takeNumber = (source: string, start: number): { number: number; after: number } => {
   let at = start
@@ -214,6 +216,8 @@ type Reader = { readonly tokens: readonly Token[]; index: number }
 
 const here = (reader: Reader): Token => reader.tokens[reader.index] as Token
 
+const after = (reader: Reader): Token => reader.tokens[reader.index + 1] as Token
+
 const step = (reader: Reader): Token => {
   const token = here(reader)
   reader.index += 1
@@ -264,7 +268,19 @@ const takeComparison = (reader: Reader): Expression => {
   return operationOf(token.operator, left, right, token.at)
 }
 
-const takeProduct = (reader: Reader): Expression => takeRung(reader, multiplying, takeValue)
+/**
+ * Negation: a `-` with nothing on its left. It binds tighter than every
+ * operator, so `-{a} * {b}` is `(-{a}) * {b}`. A `-` with a value on its left
+ * never reaches here, the rungs above having taken it as subtraction.
+ */
+const takeNegation = (reader: Reader): Expression => {
+  const token = here(reader)
+  if (token.kind !== "operator" || token.operator !== "-") return takeValue(reader)
+  step(reader)
+  return { node: "negation", of: takeNegation(reader), at: token.at }
+}
+
+const takeProduct = (reader: Reader): Expression => takeRung(reader, multiplying, takeNegation)
 
 const takeSum = (reader: Reader): Expression => takeRung(reader, adding, takeProduct)
 
@@ -316,6 +332,13 @@ const takeCase = (reader: Reader, at: number): Expression => {
       otherwise = takeExpression(reader)
       break
     }
+    const word = here(reader)
+    if (word.kind === "word" && !valueWords.has(word.word) && isMark(after(reader), "->")) {
+      throw new ReadingRefused(
+        word.at,
+        `\`${word.word}\` is no test; a case's last row is written with the word \`otherwise\``
+      )
+    }
     const test = takeExpression(reader)
     expectMark(reader, "->", "a case row is written `test -> value`")
     rows.push({ test, value: takeExpression(reader) })
@@ -328,12 +351,6 @@ const takeCase = (reader: Reader, at: number): Expression => {
     throw new ReadingRefused(here(reader).at, "`otherwise` is a case's last row")
   }
   expectMark(reader, ")", "a case's rows are closed with `)`")
-  if (rows.length === 0) {
-    throw new ReadingRefused(
-      at,
-      "a case with only an `otherwise` row chooses nothing; write that value on its own"
-    )
-  }
   return { node: "case", rows, otherwise, at }
 }
 
@@ -372,12 +389,6 @@ const takeValue = (reader: Reader): Expression => {
       }
       return takeGrouping(reader)
     case "operator":
-      if (token.operator === "-") {
-        throw new ReadingRefused(
-          token.at,
-          "a `-` here has nothing on its left; write `0 - ...` for a negative number"
-        )
-      }
       throw new ReadingRefused(token.at, `\`${token.operator}\` needs a value on its left`)
     case "end":
       throw new ReadingRefused(token.at, "the formula ends where a value was expected")

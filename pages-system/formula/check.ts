@@ -36,6 +36,33 @@ const nameOf = (type: DeclaredType | null): string => {
 /** A name with the article that reads right before it. */
 const an = (name: string): string => `${"aeiou".includes(name[0] ?? "") ? "an" : "a"} ${name}`
 
+/**
+ * How a piece of a formula is written, so a refusal names the value its writer
+ * wrote rather than the step that broke over it.
+ */
+const written = (expression: Expression): string => {
+  switch (expression.node) {
+    case "reference":
+      return `\`{${expression.key}}\``
+    case "number":
+      return `\`${expression.number}\``
+    case "boolean":
+      return `\`${expression.boolean}\``
+    case "absent":
+      return "`absent`"
+    case "text":
+      return "the text literal"
+    case "call":
+      return `what \`${expression.name}\` answers`
+    case "case":
+      return "what the case answers"
+    case "negation":
+      return "the negation"
+    case "operation":
+      return `what \`${expression.operator}\` answers`
+  }
+}
+
 /** Whether two declared types are the same type. */
 const sameType = (one: DeclaredType, other: DeclaredType): boolean => {
   if (one.kind === "list") return other.kind === "list" && one.of === other.of
@@ -63,21 +90,33 @@ const declaredType = (key: string, at: number, shape: Shape, reads: Set<string>)
  * A side that only ever answers absent meets anything, since an operator given
  * an absent value answers absent.
  */
-const needs = (type: ValueType, kind: DeclaredType["kind"], at: number, said: string): void => {
+const needs = (
+  type: ValueType,
+  kind: DeclaredType["kind"],
+  where: Expression,
+  said: string
+): void => {
   if (type.holds === null || type.holds.kind === kind) return
   throw new CheckingRefused(
-    at,
-    `${said} takes ${an(kind)}, and this holds ${an(nameOf(type.holds))}`
+    where.at,
+    `${written(where)} holds ${an(nameOf(type.holds))}, and ${said} takes ${an(kind)}`
   )
 }
 
 /** Whether two sides hold one kind, an always-absent side meeting anything. */
-const meet = (left: ValueType, right: ValueType, at: number, said: string): void => {
+const meet = (
+  left: ValueType,
+  right: ValueType,
+  onLeft: Expression,
+  onRight: Expression,
+  at: number,
+  said: string
+): void => {
   if (left.holds === null || right.holds === null) return
   if (sameType(left.holds, right.holds)) return
   throw new CheckingRefused(
     at,
-    `${said}, and its left holds ${an(nameOf(left.holds))} while its right holds ${an(nameOf(right.holds))}`
+    `${written(onLeft)} holds ${an(nameOf(left.holds))} while ${written(onRight)} holds ${an(nameOf(right.holds))}, and ${said}`
   )
 }
 
@@ -86,11 +125,11 @@ const meet = (left: ValueType, right: ValueType, at: number, said: string): void
  * one. `{start} < {finish}` is refused; `hoursBetween({start}, {finish})` is how
  * two instants are compared.
  */
-const notAnInstant = (type: ValueType, at: number, operator: Operator): void => {
+const notAnInstant = (type: ValueType, where: Expression, operator: Operator): void => {
   if (type.holds === null || type.holds.kind !== "instant") return
   throw new CheckingRefused(
-    at,
-    `an instant is read only by a function taking one, and \`${operator}\` is an operator`
+    where.at,
+    `${written(where)} holds an instant, which is read only by a function taking one, and \`${operator}\` is an operator`
   )
 }
 
@@ -129,28 +168,42 @@ const typeOfOperation = (
   const left = typeOf(expression.left, shape, reads)
   const right = typeOf(expression.right, shape, reads)
   const said = `\`${operator}\``
-  notAnInstant(left, expression.left.at, operator)
-  notAnInstant(right, expression.right.at, operator)
+  notAnInstant(left, expression.left, operator)
+  notAnInstant(right, expression.right, operator)
   if (operator === "+" || operator === "-" || operator === "*" || operator === "/") {
-    needs(left, "number", expression.left.at, `the left of ${said}`)
-    needs(right, "number", expression.right.at, `the right of ${said}`)
+    needs(left, "number", expression.left, `the left of ${said}`)
+    needs(right, "number", expression.right, `the right of ${said}`)
     return holding("number", left.absent || right.absent || operator === "/")
   }
   if (operator === "<" || operator === "<=" || operator === ">" || operator === ">=") {
-    needs(left, "number", expression.left.at, `the left of ${said}`)
-    needs(right, "number", expression.right.at, `the right of ${said}`)
+    needs(left, "number", expression.left, `the left of ${said}`)
+    needs(right, "number", expression.right, `the right of ${said}`)
     return holding("boolean", left.absent || right.absent)
   }
   if (operator === "==" || operator === "!=") {
-    meet(left, right, expression.at, `${said} compares two values of one kind`)
+    meet(
+      left,
+      right,
+      expression.left,
+      expression.right,
+      expression.at,
+      `${said} compares two values of one kind`
+    )
     return holding("boolean", false)
   }
   if (operator === "&&") {
-    needs(left, "boolean", expression.left.at, `the left of ${said}`)
-    needs(right, "boolean", expression.right.at, `the right of ${said}`)
+    needs(left, "boolean", expression.left, `the left of ${said}`)
+    needs(right, "boolean", expression.right, `the right of ${said}`)
     return holding("boolean", left.absent || right.absent)
   }
-  meet(left, right, expression.at, `${said} answers its left or its right, which are of one kind`)
+  meet(
+    left,
+    right,
+    expression.left,
+    expression.right,
+    expression.at,
+    `${said} answers its left or its right, which are of one kind`
+  )
   return { holds: left.holds ?? right.holds, absent: left.absent && right.absent }
 }
 
@@ -182,27 +235,29 @@ const typeOfCall = (
     const first = typeOf(given[0] as Expression, shape, reads)
     const second = typeOf(given[1] as Expression, shape, reads)
     const absent = first.absent || second.absent
+    const onFirst = given[0] as Expression
+    const onSecond = given[1] as Expression
     if (name === "hoursBetween") {
-      needs(first, "instant", (given[0] as Expression).at, "the first argument of `hoursBetween`")
-      needs(second, "instant", (given[1] as Expression).at, "the second argument of `hoursBetween`")
+      needs(first, "instant", onFirst, "the first argument of `hoursBetween`")
+      needs(second, "instant", onSecond, "the second argument of `hoursBetween`")
       return holding("number", absent)
     }
     if (name === "hasWord") {
-      needs(first, "text", (given[0] as Expression).at, "the first argument of `hasWord`")
-      needs(second, "text", (given[1] as Expression).at, "the second argument of `hasWord`")
+      needs(first, "text", onFirst, "the first argument of `hasWord`")
+      needs(second, "text", onSecond, "the second argument of `hasWord`")
       return holding("boolean", absent)
     }
     if (first.holds !== null && first.holds.kind !== "list") {
       throw new CheckingRefused(
-        (given[0] as Expression).at,
-        `\`contains\` asks whether a list holds a value, and its first argument holds ${an(nameOf(first.holds))}`
+        onFirst.at,
+        `${written(onFirst)} holds ${an(nameOf(first.holds))}, and \`contains\` asks whether a list holds a value`
       )
     }
     if (first.holds !== null && first.holds.kind === "list" && second.holds !== null) {
       if (second.holds.kind !== first.holds.of) {
         throw new CheckingRefused(
-          (given[1] as Expression).at,
-          `\`contains\` looks in a ${nameOf(first.holds)} for ${an(first.holds.of)}, and its second argument holds ${an(nameOf(second.holds))}`
+          onSecond.at,
+          `${written(onSecond)} holds ${an(nameOf(second.holds))}, and \`contains\` looks in ${written(onFirst)}, ${an(nameOf(first.holds))}, for ${an(first.holds.of)}`
         )
       }
     }
@@ -221,7 +276,7 @@ const typeOfCase = (
 ): ValueType => {
   let holds: DeclaredType | null = null
   let absent = false
-  const answers = (value: ValueType, at: number): void => {
+  const answers = (value: ValueType, where: Expression): void => {
     absent = absent || value.absent
     if (value.holds === null) return
     if (holds === null) {
@@ -230,8 +285,8 @@ const typeOfCase = (
     }
     if (sameType(holds, value.holds)) return
     throw new CheckingRefused(
-      at,
-      `a case answers one kind of value, and an earlier row holds ${an(nameOf(holds))} while this row holds ${an(nameOf(value.holds))}`
+      where.at,
+      `${written(where)} holds ${an(nameOf(value.holds))} while an earlier row of the case holds ${an(nameOf(holds))}, and a case answers one kind of value`
     )
   }
   for (const row of expression.rows) {
@@ -239,12 +294,12 @@ const typeOfCase = (
     if (test.holds !== null && test.holds.kind !== "boolean") {
       throw new CheckingRefused(
         row.test.at,
-        `a case row matches where its test answers true, and this test holds ${an(nameOf(test.holds))}`
+        `${written(row.test)} holds ${an(nameOf(test.holds))}, and a case row matches only where its test answers true`
       )
     }
-    answers(typeOf(row.value, shape, reads), row.value.at)
+    answers(typeOf(row.value, shape, reads), row.value)
   }
-  answers(typeOf(expression.otherwise, shape, reads), expression.otherwise.at)
+  answers(typeOf(expression.otherwise, shape, reads), expression.otherwise)
   return { holds, absent }
 }
 
@@ -260,6 +315,12 @@ const typeOf = (expression: Expression, shape: Shape, reads: Set<string>): Value
       return typeOfText(expression, shape, reads)
     case "reference":
       return { holds: declaredType(expression.key, expression.at, shape, reads), absent: true }
+    case "negation": {
+      const of = typeOf(expression.of, shape, reads)
+      notAnInstant(of, expression.of, "-")
+      needs(of, "number", expression.of, "a negation")
+      return holding("number", of.absent)
+    }
     case "operation":
       return typeOfOperation(expression, shape, reads)
     case "call":

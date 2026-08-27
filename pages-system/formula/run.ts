@@ -13,8 +13,12 @@ const absent: Value = { kind: "absent" }
 
 const anHour = 3600000
 
-/** A character a word runs through, which a word is bounded by the absence of. */
-const wordCharacter = /[\p{L}\p{N}_]/u
+/**
+ * A character a word runs through: a letter or a digit, and nothing else. A word
+ * is bounded at both ends by anything that is not one of these, the ends of the
+ * text included.
+ */
+const wordCharacter = /[\p{L}\p{N}]/u
 
 /** What the page holds under a key. A key with nothing under it is absent. */
 const valueUnder = (key: string, values: Values): Value => values.properties[key] ?? absent
@@ -131,15 +135,17 @@ const workOperation = (expression: Expression & { node: "operation" }, values: V
   }
 }
 
-/** Whether a text holds a word, bounded at both ends. */
+/** Whether a text holds a word, bounded at both ends, ignoring case. */
 const holdsWord = (text: string, word: string): boolean => {
   if (word === "") return false
+  const inText = text.toLowerCase()
+  const inWord = word.toLowerCase()
   let from = 0
   for (;;) {
-    const found = text.indexOf(word, from)
+    const found = inText.indexOf(inWord, from)
     if (found === -1) return false
-    const before = found === 0 ? "" : (text[found - 1] as string)
-    const after = text[found + word.length] ?? ""
+    const before = found === 0 ? "" : (inText[found - 1] as string)
+    const after = inText[found + inWord.length] ?? ""
     if (!wordCharacter.test(before) && !wordCharacter.test(after)) return true
     from = found + 1
   }
@@ -153,7 +159,7 @@ const workCall = (expression: Expression & { node: "call" }, values: Values): Va
   if (first === undefined || second === undefined) return absent
   if (expression.name === "hoursBetween") {
     if (first.kind !== "instant" || second.kind !== "instant") return absent
-    const hours = (second.instant - first.instant) / anHour
+    const hours = Math.abs(second.instant - first.instant) / anHour
     return Number.isFinite(hours) ? { kind: "number", number: hours } : absent
   }
   if (expression.name === "contains") {
@@ -186,6 +192,10 @@ const work = (expression: Expression, values: Values): Value => {
       return absent
     case "reference":
       return valueUnder(expression.key, values)
+    case "negation": {
+      const of = work(expression.of, values)
+      return of.kind === "number" ? { kind: "number", number: -of.number } : absent
+    }
     case "text":
       return workText(expression.parts, values)
     case "operation":

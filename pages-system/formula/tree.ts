@@ -6,7 +6,12 @@
  * starts, so a refusal can say where it is.
  */
 
-/** An operator a formula can use. */
+/**
+ * An operator a formula can use.
+ *
+ * `-` stands here as subtraction. The same `-` with nothing on its left negates,
+ * which is a node of its own rather than an operator over two sides.
+ */
 export type Operator = "??" | "&&" | "==" | "!=" | "<" | "<=" | ">" | ">=" | "+" | "-" | "*" | "/"
 
 /** A piece of a text literal: characters as written, or a reference filled in where it stands. */
@@ -27,6 +32,7 @@ export type Expression =
   | { readonly node: "boolean"; readonly boolean: boolean; readonly at: number }
   | { readonly node: "absent"; readonly at: number }
   | { readonly node: "reference"; readonly key: string; readonly at: number }
+  | { readonly node: "negation"; readonly of: Expression; readonly at: number }
   | {
       readonly node: "operation"
       readonly operator: Operator

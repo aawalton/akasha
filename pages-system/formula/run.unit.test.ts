@@ -50,8 +50,11 @@ test("arithmetic answers a number, and absent where it reaches one", () => {
   expect(answer("1 + {missing}")).toEqual(absent)
 })
 
-test("a negative number is written as a subtraction", () => {
+test("a minus with nothing on its left negates what follows it", () => {
+  expect(answer("-5")).toEqual({ kind: "number", number: -5 })
   expect(answer("0 - 5")).toEqual({ kind: "number", number: -5 })
+  expect(answer("-{points}")).toEqual({ kind: "number", number: -6 })
+  expect(answer("-{missing}")).toEqual(absent)
 })
 
 test("dividing by zero answers absent", () => {
@@ -155,9 +158,9 @@ test("now answers the moment the formula is worked out", () => {
   expect(answer("now()")).toEqual({ kind: "instant", instant: 10 * anHour })
 })
 
-test("hoursBetween answers the hours from the first instant to the second", () => {
+test("hoursBetween answers a magnitude, whichever instant is given first", () => {
   expect(answer("hoursBetween(now(), {due})")).toEqual({ kind: "number", number: 2 })
-  expect(answer("hoursBetween({due}, now())")).toEqual({ kind: "number", number: -2 })
+  expect(answer("hoursBetween({due}, now())")).toEqual({ kind: "number", number: 2 })
 })
 
 test("hoursBetween answers fractions of an hour", () => {
@@ -183,15 +186,22 @@ test("hasWord answers whether a text holds a word, bounded at both ends", () => 
   expect(answer('hasWord({title}, "a")')).toEqual({ kind: "boolean", boolean: true })
 })
 
-test("hasWord finds a word bounded by punctuation as well as by space", () => {
+test("hasWord is bounded by anything that is not a letter or a digit", () => {
   const punctuated: Values = {
     now: 0,
-    properties: { title: { kind: "text", text: "well-done, truly" } },
+    properties: { title: { kind: "text", text: "well-done, truly_so 7up" } },
   }
   const held = (word: string): Value => runTree(read(`hasWord({title}, "${word}")`), punctuated)
   expect(held("done")).toEqual({ kind: "boolean", boolean: true })
   expect(held("truly")).toEqual({ kind: "boolean", boolean: true })
   expect(held("rul")).toEqual({ kind: "boolean", boolean: false })
+  expect(held("7up")).toEqual({ kind: "boolean", boolean: true })
+  expect(held("up")).toEqual({ kind: "boolean", boolean: false })
+})
+
+test("hasWord ignores case", () => {
+  expect(answer('hasWord({title}, "Done")')).toEqual({ kind: "boolean", boolean: true })
+  expect(answer('hasWord({title}, "DEAL")')).toEqual({ kind: "boolean", boolean: true })
 })
 
 test("a function reaching an absent argument answers absent", () => {

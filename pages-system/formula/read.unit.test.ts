@@ -161,8 +161,23 @@ test("a comparison following a comparison is refused", () => {
   expect(refusal("1 < 2 < 3").message).toContain("cannot follow a comparison")
 })
 
-test("a minus with nothing on its left is refused, naming how to write a negative", () => {
-  expect(refusal("-5").message).toContain("0 - ")
+test("a minus with nothing on its left negates, and one with a value subtracts", () => {
+  expect(tree("-5")).toMatchObject({ node: "negation", of: { node: "number", number: 5 } })
+  expect(tree("-{count}")).toMatchObject({ node: "negation", of: { node: "reference" } })
+  expect(tree("{a} - 1")).toMatchObject({ node: "operation", operator: "-" })
+})
+
+test("negation binds tighter than multiplication", () => {
+  expect(tree("-{a} * {b}")).toMatchObject({
+    node: "operation",
+    operator: "*",
+    left: { node: "negation" },
+    right: { node: "reference", key: "b" },
+  })
+  expect(tree("{a} * -1")).toMatchObject({
+    operator: "*",
+    right: { node: "negation", of: { number: 1 } },
+  })
 })
 
 test("a case with no otherwise row is refused", () => {
@@ -173,8 +188,16 @@ test("a row after the otherwise row is refused", () => {
   expect(refusal("case({a} -> 1, otherwise -> 2, {b} -> 3)").message).toContain("last row")
 })
 
-test("a case of only an otherwise row is refused, choosing nothing", () => {
-  expect(refusal("case(otherwise -> 1)").message).toContain("chooses nothing")
+test("a case whose only row is its otherwise row reads", () => {
+  expect(tree("case(otherwise -> 1)")).toMatchObject({
+    node: "case",
+    rows: [],
+    otherwise: { node: "number", number: 1 },
+  })
+})
+
+test("a case row written with a bare word other than otherwise names otherwise", () => {
+  expect(refusal('case({a} -> 1, else -> 2)').message).toContain("otherwise")
 })
 
 test("a single equals is refused, naming the operator that was meant", () => {

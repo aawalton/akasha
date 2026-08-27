@@ -103,13 +103,13 @@ test("a formula reads as a stranger would take it, down the whole precedence lad
 })
 
 test("a whole formula of the kind a page type would carry works out", () => {
-  const overdue = checked(
-    'case(hoursBetween(now(), {due}) < 0 -> "overdue", {settled} -> "settled", otherwise -> "open")'
+  const standing = checked(
+    'case(hoursBetween(now(), {due}) > 24 -> "far off", {settled} -> "settled", otherwise -> "open")'
   )
-  expect([...overdue.reads].sort()).toEqual(["due", "settled"])
-  expect(runFormula(overdue, values)).toEqual({ kind: "text", text: "settled" })
-  expect(runFormula(overdue, { now: 99999999, properties: values.properties })).toEqual({
+  expect([...standing.reads].sort()).toEqual(["due", "settled"])
+  expect(runFormula(standing, values)).toEqual({ kind: "text", text: "settled" })
+  expect(runFormula(standing, { now: 99999999, properties: values.properties })).toEqual({
     kind: "text",
-    text: "overdue",
+    text: "far off",
   })
 })
