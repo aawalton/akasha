@@ -2,7 +2,6 @@
   "hasCompletedOnboarding": true,
   "projects": {
     "$HOME/repos/akasha": { "hasTrustDialogAccepted": true },
-    "$HOME/repos/instructions": { "hasTrustDialogAccepted": true },
-    "$HOME/repos/code": { "hasTrustDialogAccepted": true }
+    "$HOME/repos/code-editor": { "hasTrustDialogAccepted": true }
   }
 }
