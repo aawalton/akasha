@@ -12,6 +12,8 @@ const CEILING_SAID = CEILING_BYTES.toLocaleString("en-US")
 
 const DIRTY_DIR = /(^|\/)dirty\//
 
+const DATA_DIR = /(^|\/)data\//
+
 export const fileLength = {
   slug: "file-length",
   needs: "file",
@@ -24,6 +26,7 @@ export const fileLength = {
     if (typeUnsplittable(path)) return []
     const relPath = relative(root, path)
     if (DIRTY_DIR.test(relPath)) return []
+    if (DATA_DIR.test(relPath)) return []
     if (isGeneratedFile(relPath, decodeUtf8(body) ?? body)) return []
     return [`${bytes.toLocaleString("en-US")} bytes, over the ${CEILING_SAID} ceiling`]
   },

@@ -90,3 +90,18 @@ test("a file merely named dirty is still judged", () => {
   expect(verdict("stories/dirty-notes/thing.md", OVER)).toHaveLength(1)
   expect(verdict("stories/dirty.md", OVER)).toHaveLength(1)
 })
+
+test("a file under a data folder passes, the folder saying its contents are data", () => {
+  expect(verdict("temper/game-collections-addon/src/lorebooks/data/eidetic-book-data.ts", OVER)).toEqual([])
+  expect(verdict("temper/game-collections-addon/src/skyshards/data/index.ts", OVER)).toEqual([])
+})
+
+test("a file merely named data is still judged", () => {
+  expect(verdict("page/data.ts", OVER)).toHaveLength(1)
+  expect(verdict("page/champions-data.ts", OVER)).toHaveLength(1)
+})
+
+test("a folder merely carrying data in its name is still judged", () => {
+  expect(verdict("page/database/thing.ts", OVER)).toHaveLength(1)
+  expect(verdict("page/metadata/thing.ts", OVER)).toHaveLength(1)
+})
