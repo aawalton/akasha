@@ -7,4 +7,5 @@ domain-slug: domain/change-harness
 role-slug: definer
 person-slug: alan
 start-mode: interactive
+on-call: true
 ---
