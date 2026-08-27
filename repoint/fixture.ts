@@ -1,7 +1,7 @@
 import { cpSync, mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { dirname } from "node:path"
 import type { Roots } from "../page/page.ts"
-import { ownRepoRoot } from "../repo/roots/roots.ts"
+import { AKASHA, ownRepoRoot } from "../repo/roots/roots.ts"
 import { type Moves, surveyRename } from "./repoint.ts"
 
 const SCRATCH = "/var/tmp"
@@ -47,8 +47,16 @@ export function installPages(root: string, relPaths: readonly string[]): void {
   }
 }
 
+const BESIDE: readonly string[] = ["code", "memory", "books", "stories", "code-editor", "instructions"]
+
 export function rootsAt(at: string): Roots {
-  return { instructions: at, code: `${at}/nonexistent-code`, memory: `${at}/nonexistent-memory`, books: `${at}/nonexistent-books`, stories: `${at}/nonexistent-stories`, "code-editor": `${at}/nonexistent-code-editor` }
+  const roots: Record<string, string> = { [AKASHA]: at, target: AKASHA }
+  for (const repo of BESIDE) {
+    const root = `${at}/empty-${repo}`
+    mkdirSync(root, { recursive: true })
+    roots[repo] = root
+  }
+  return roots as Roots
 }
 
 export function landed(root: string, pairs: Moves, relPath: string): string | null {
