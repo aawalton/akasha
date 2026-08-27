@@ -2,18 +2,15 @@
 import { lstatSync, mkdirSync, readlinkSync, statSync, symlinkSync, unlinkSync } from "node:fs"
 import { resolve } from "node:path"
 import { configPathForAccount } from "./claude-launch-args.ts"
-import { resolveRoots } from "../../repo/roots/roots"
+import { akashaRoot } from "../../repo/roots/roots"
 import { shape } from "./shape.ts"
 
 
 export const HOME_DIR = shape.string().default("/home/walton").parse(process.env.HOME)
 export const ACCOUNTS_DIR = `${HOME_DIR}/.claude/accounts`
 
-const ROOTS = resolveRoots()
-
-export const REPO_ROOT = ROOTS.code
-export const INSTRUCTIONS_DIR = ROOTS.instructions
-export const SEAT_START_DIR = resolve(ROOTS.instructions, "..")
+export const REPO_ROOT = akashaRoot()
+export const SEAT_START_DIR = resolve(REPO_ROOT, "..")
 export const LOG = "[local]"
 
 function getAgentCacheDir(): string {
@@ -48,12 +45,12 @@ export function assertBootFiles(files: readonly BootFile[]): undefined {
     } catch (err) {
       const reason = err instanceof Error ? err.message : String(err)
       throw new Error(
-        `${noun} not found at ${path} (${reason}). ${consequence} Run \`bash ${REPO_ROOT}/packages/shared/dotfiles/setup-symlinks.sh\` to create the symlink, then retry.`
+        `${noun} not found at ${path} (${reason}). ${consequence} Run \`bash ${REPO_ROOT}/dotfiles/setup-symlinks.sh\` to create the symlink, then retry.`
       )
     }
     if (!isFile) {
       throw new Error(
-        `${noun} at ${path} is not a regular file. ${consequence} Inspect it manually and re-run \`bash ${REPO_ROOT}/packages/shared/dotfiles/setup-symlinks.sh\` if needed.`
+        `${noun} at ${path} is not a regular file. ${consequence} Inspect it manually and re-run \`bash ${REPO_ROOT}/dotfiles/setup-symlinks.sh\` if needed.`
       )
     }
   }
