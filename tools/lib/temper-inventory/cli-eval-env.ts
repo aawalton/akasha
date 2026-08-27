@@ -1,6 +1,7 @@
 import { assertNever } from "@shared/utils-narrow/assert-never"
 import { styleToChapters } from "./game-code.ts"
-import type { EvalEnv, ItemKey } from "./game-item-types.ts"
+import type { ItemKey } from "@temper/game-items-rules-core/use-destination-types"
+import type { EvalEnv } from "@temper/game-items-rules-eval/eval-env"
 import type { CharacterKnowledge } from "./parse-temper-characters.ts"
 
 export interface CliEvalEnvDeps {

@@ -1,6 +1,6 @@
 import { DataError } from "@shared/errors-core/exit"
 import { ruleConstantKeys } from "./game-code.ts"
-import type { CompiledOrderedRule } from "./game-rule-types.ts"
+import type { CompiledOrderedRule } from "@temper/game-items-rules-core/inventory-rule-compiler-types"
 import { luaArrayOrEmpty } from "@temper/shared-saved-variables/lua-array"
 import { parseLuaSavedVariablesFile } from "@temper/shared-saved-variables/lua-parser"
 import { savedVariablesRootSchema } from "@temper/shared-saved-variables/saved-variables-account-wide"

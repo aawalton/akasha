@@ -1,9 +1,13 @@
 import { loreLibraryData as loreLibraryDataSource } from "@temper/game-completion/generated/lore-library-data.generated"
 import { STYLE_TO_CHAPTERS } from "@temper/game-items-core/motif-chapter-set"
-import { ITEM_ACTION_VALUES } from "@temper/game-items-rules-core/inventory-rule-types"
-import { RULE_CONSTANT_KEYS } from "@temper/game-items-rules-core/rule-constants"
-import type { LoreCategoryEntry } from "./game-item-types.ts"
-import type { ItemAction, RuleConstantKey } from "./game-rule-types.ts"
+import {
+  ITEM_ACTION_VALUES,
+  type ItemAction,
+} from "@temper/game-items-rules-core/inventory-rule-types"
+import {
+  RULE_CONSTANT_KEYS,
+  type RuleConstantKey,
+} from "@temper/game-items-rules-core/rule-constants"
 
 export { classifyItemToNodeIds } from "@temper/game-items-core/classify-item-node-ids"
 export { parseInventoryContent } from "@temper/game-items-core/inventory-parser"
@@ -31,6 +35,12 @@ export function itemActionValues(): readonly ItemAction[] {
 export function styleToChapters(styleId: number): readonly number[] | undefined {
   return STYLE_TO_CHAPTERS[styleId]
 }
+
+/**
+ * The generated lore data keeps its entry shape to itself, so the shape is taken from the data
+ * rather than restated here.
+ */
+type LoreCategoryEntry = (typeof loreLibraryDataSource)[number]
 
 export function loreLibraryData(): readonly LoreCategoryEntry[] {
   return loreLibraryDataSource

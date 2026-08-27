@@ -1,4 +1,4 @@
-import type { CategoryRule } from "./game-rule-types.ts"
+import type { CategoryRule } from "@temper/game-items-rules-core/inventory-rule-types"
 
 export type RuleListRow = Record<string, unknown>
 
