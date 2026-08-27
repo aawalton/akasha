@@ -8,6 +8,7 @@ role-slug: definer
 person-slug: alan
 start-mode: interactive
 on-call: true
+initiative-slug: amy-alan-harness
 errand: "Hi Amy! Get oriented and seat your initiative then lets talk about intent"
 registration-account: aawalton
 claude-code-session-uuid: 7abe7a65-b517-4679-957e-867e1d844444
