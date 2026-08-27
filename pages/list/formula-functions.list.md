@@ -16,3 +16,4 @@ domain-parent-slug: domain/formula-language
 - **hoursBetween** — the hours between two instants, never negative.
 - **contains** — whether a list holds a value.
 - **hasWord** — whether a text holds a word, bounded at both ends by anything that is not a letter or a digit, ignoring case.
+- **text** — a whole number written as its digits, and absent for one that is not whole.
