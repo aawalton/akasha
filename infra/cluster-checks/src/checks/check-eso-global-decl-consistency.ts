@@ -15,8 +15,8 @@ import { getRepoRoot } from "../lib/repo-root.ts"
 import { exitOnResult, exitOnToolError } from "../../../../tools/lib/check-workflow/violation-reporter"
 
 const PREFIX = "[eso-global-decl-consistency]"
-const ESO_REL = "packages/temper/addons/types/eso"
-const ADDON_TREE_REL = "packages/temper"
+const ESO_REL = "temper/addons/types/eso"
+const ADDON_TREE_REL = "temper"
 const NOT_HAND_WRITTEN_DIRS: ReadonlySet<string> = new Set(["node_modules", "dist", "generated"])
 const SUCCESS_MESSAGE = "No hand-written ESO global decls contradict the generated object surface."
 
@@ -74,7 +74,7 @@ function main(): undefined {
       membership: {
         kind: "enumerated",
         because:
-          "the members are the `handWrittenDeclFiles` walk of `packages/temper` above, which holds no catch and raises out onto `exitOnToolError` in the same `try` when any directory under it will not open, so a shorter list is fewer hand-written `.d.ts` files in the addon tree",
+          "the members are the `handWrittenDeclFiles` walk of `temper` above, which holds no catch and raises out onto `exitOnToolError` in the same `try` when any directory under it will not open, so a shorter list is fewer hand-written `.d.ts` files in the addon tree",
       },
       pathOf: (rel) => join(repoRoot, rel),
       scan: (rel, source) =>

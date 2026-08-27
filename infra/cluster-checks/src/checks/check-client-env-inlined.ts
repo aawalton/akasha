@@ -18,8 +18,8 @@ import { exitOnResult } from "../../../../tools/lib/check-workflow/violation-rep
 const PREFIX = "[client-env-inlined]"
 
 const DEFINE_SOURCES = [
-  "packages/shared/supabase/rr/src/vite.ts",
-  "packages/shared/pages/ui/src/vite.ts",
+  "shared/supabase-rr/src/vite.ts",
+  "shared/pages-ui/src/vite.ts",
 ] as const
 
 function readTextIfPresent(absPath: string): string | undefined {

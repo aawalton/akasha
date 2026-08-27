@@ -29,7 +29,7 @@ resolve_workspace_dir() {
   case "$ws" in
     alanwalton|temper|collections) echo "$HOME/repos/code/apps/$ws" ;;
     cluster) echo "$HOME/repos/code/infra" ;;
-    design-system) echo "$HOME/repos/code/packages/shared/design-system" ;;
+    design-system) echo "$HOME/repos/code/shared/design-system" ;;
     *) echo "$HOME/repos/code/$ws" ;;
   esac
 }

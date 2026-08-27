@@ -15,26 +15,26 @@ export interface RolePair {
 export const ROLE_PAIRS: readonly RolePair[] = [
   {
     axis: "root-hosts",
-    appFile: "packages/alanwalton/web/app/root.tsx",
-    capacitorFile: "packages/alanwalton/web/app-capacitor/root.tsx",
+    appFile: "alanwalton/web/app/root.tsx",
+    capacitorFile: "alanwalton/web/app-capacitor/root.tsx",
     mode: "jsx-components",
   },
   {
     axis: "provider-graph",
-    appFile: "packages/alanwalton/web/app/routes/_app-layout.tsx",
-    capacitorFile: "packages/alanwalton/web/app-capacitor/routes/app-layout.tsx",
+    appFile: "alanwalton/web/app/routes/_app-layout.tsx",
+    capacitorFile: "alanwalton/web/app-capacitor/routes/app-layout.tsx",
     mode: "jsx-components",
   },
   {
     axis: "routes",
-    appFile: "packages/alanwalton/web/app/routes.ts",
-    capacitorFile: "packages/alanwalton/web/app-capacitor/routes.ts",
+    appFile: "alanwalton/web/app/routes.ts",
+    capacitorFile: "alanwalton/web/app-capacitor/routes.ts",
     mode: "route-paths",
   },
   {
     axis: "render-targets",
-    appFile: "packages/alanwalton/web/app/routes/page-detail.tsx",
-    capacitorFile: "packages/alanwalton/web/app-capacitor/routes/page-detail.tsx",
+    appFile: "alanwalton/web/app/routes/page-detail.tsx",
+    capacitorFile: "alanwalton/web/app-capacitor/routes/page-detail.tsx",
     mode: "jsx-components",
   },
 ]

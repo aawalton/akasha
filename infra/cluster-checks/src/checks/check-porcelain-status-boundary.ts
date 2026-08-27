@@ -24,7 +24,7 @@ const ACT_REQUIRED: Record<PorcelainBoundaryViolation["kind"], string> = {
 }
 
 const BOUNDARY_PATHS = [
-  "packages/infra/git/porcelain/",
+  "infra/git-porcelain/",
   "infra/git-cli/src/lib/porcelain-status.ts",
 ]
 

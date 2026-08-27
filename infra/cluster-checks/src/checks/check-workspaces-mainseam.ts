@@ -19,7 +19,7 @@ import {
 } from "../lib/workspaces-mainseam.ts"
 
 const PREFIX = "[workspaces-mainseam]"
-const SEAM_PATH = "packages/shared/workspace-paths/src/index.ts"
+const SEAM_PATH = "shared/workspace-paths/src/index.ts"
 
 function readMainSeamSource(repoRoot: string): string {
   execFileSync(

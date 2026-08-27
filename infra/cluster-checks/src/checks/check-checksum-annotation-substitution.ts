@@ -20,7 +20,7 @@ const SCAN_PATTERNS = [
 
 const SEAWEEDFS_DEFECT_FIXTURE: readonly ChecksumAnnotationScanFile[] = [
   {
-    path: "packages/infra/seaweedfs/k8s/synth-deployments.ts",
+    path: "infra/seaweedfs/k8s/synth-deployments.ts",
     content: `export function s3GatewayDeploymentYaml(): string {
   return toYaml({
     spec: {
@@ -44,7 +44,7 @@ const SEAWEEDFS_DEFECT_FIXTURE: readonly ChecksumAnnotationScanFile[] = [
   },
 ]
 
-const SEAWEEDFS_FIXTURE_PACKAGE_ROOTS = ["packages/infra/seaweedfs"] as const
+const SEAWEEDFS_FIXTURE_PACKAGE_ROOTS = ["infra/seaweedfs"] as const
 
 const TEMPLATE_DIR = "pages/workflow-template"
 

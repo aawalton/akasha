@@ -54,7 +54,7 @@ function isAcceptedSelectorKey(key: string): boolean {
 }
 
 const NODE_NAME_ALLOW: ReadonlySet<string> = new Set([
-  "packages/infra/voice-infer/k8s/synth.ts",
+  "infra/voice-infer/k8s/synth.ts",
   "packages/infra/voice-infer/k8s/generated/deployment.generated.yaml",
 ])
 

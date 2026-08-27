@@ -13,7 +13,7 @@ const PREFIX = "[lib-sets-per-piece-difficulty-boundary]"
 const SUCCESS_MESSAGE =
   "LibSets' per-piece veteran readers are referenced only from their defining files and the sanctioned per-set surface."
 
-const LIB_SETS_SRC = "packages/temper/shared/addon-libraries/lib-sets/src/"
+const LIB_SETS_SRC = "temper/shared-addon-libraries-lib-sets/src/"
 
 const HELPERS_FILE = `${LIB_SETS_SRC}tooltips/helpers.ts`
 

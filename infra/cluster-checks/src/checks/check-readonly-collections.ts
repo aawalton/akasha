@@ -53,13 +53,13 @@ function formatViolation(v: CollectionFinding): string {
 }
 
 function isTstlAddonPath(rel: string): boolean {
-  if (rel.startsWith("packages/temper/addons/")) return true
+  if (rel.startsWith("temper/addons/")) return true
   if (/^packages\/temper\/.+\/addon\//.test(rel)) return true
-  if (rel.startsWith("packages/temper/shared/addon-libraries/")) return true
+  if (rel.startsWith("temper/shared-addon-libraries-")) return true
   if (/^packages\/temper\/shared\/capture\/errors\/(decision-core|cli)\//.test(rel)) {
     return false
   }
-  if (rel.startsWith("packages/temper/shared/capture/")) return true
+  if (rel.startsWith("temper/shared-capture-")) return true
   return false
 }
 

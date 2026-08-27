@@ -10,7 +10,7 @@ export const ALLOWED_MISSING_REFERENCES: ReadonlySet<string> = new Set<string>()
 
 export const ALLOWED_CYCLES: ReadonlySet<string> = new Set(
   [
-    "packages/temper/player/completion/addon -> packages/temper/game/characters/skills/morphs/addon",
+    "temper/player-completion-addon -> temper/game-characters-skills-morphs-addon",
   ].map((e) => {
     const [a, b] = e.split(" -> ")
     if (a === undefined || b === undefined) {

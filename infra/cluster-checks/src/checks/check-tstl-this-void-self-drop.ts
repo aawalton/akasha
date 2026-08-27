@@ -18,7 +18,7 @@ import {
 import { exitOnResult, exitOnToolError } from "../../../../tools/lib/check-workflow/violation-reporter"
 
 const PREFIX = "[tstl-this-void-self-drop]"
-const AMBIENT_TYPES_REL = "packages/temper/addons/types"
+const AMBIENT_TYPES_REL = "temper/addons/types"
 const SUCCESS_MESSAGE = "No colon-called member declares a sole `this: void`."
 
 function topLevelGroup(filePath: string): string {

@@ -40,7 +40,7 @@ function toolExit(message: string): never {
   return exitOnToolError({ error: new Error(message), prefix: PREFIX })
 }
 
-const WIDENING_PATHS = ["packages/infra/checks/", "packages/shared/pages/core/"]
+const WIDENING_PATHS = ["packages/infra/checks/", "shared/pages-core/"]
 
 async function main(): Promise<never> {
   let flags: {

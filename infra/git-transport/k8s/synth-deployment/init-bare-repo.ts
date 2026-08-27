@@ -8,7 +8,7 @@ const MEMORY_BARE_REPO_PATH = transportRepo("memory").bareRepoPath
 const STORIES_BARE_REPO_PATH = transportRepo("stories").bareRepoPath
 const CODE_EDITOR_BARE_REPO_PATH = transportRepo("code-editor").bareRepoPath
 const AKASHA_BARE_REPO_PATH = transportRepo("akasha").bareRepoPath
-const HOOKS_SOURCE_DIR = `${ORCHESTRATOR_CACHE_REPO_PATH}/packages/infra/git/transport/hooks`
+const HOOKS_SOURCE_DIR = `${ORCHESTRATOR_CACHE_REPO_PATH}/infra/git-transport/hooks`
 
 const CODE_MIRROR_URL = transportRepo("code").mirrorUrl
 const INSTRUCTIONS_MIRROR_URL = transportRepo("instructions").mirrorUrl

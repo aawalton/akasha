@@ -18,7 +18,7 @@ import { exitOnResult, exitOnToolError } from "../../../../tools/lib/check-workf
 
 const PREFIX = "[eso-live-dir-candidate-order]"
 const TS_SOURCE = "temper/shared-foundation-misc-eso-paths/src/eso-paths.ts"
-const RUST_CRATE = "packages/temper/watcher-tray"
+const RUST_CRATE = "temper-watcher/tray"
 const RUST_CRATE_ROOT = `${RUST_CRATE}/src/main.rs`
 const RUST_FN = "resolve_saved_vars_dir"
 const SUCCESS_MESSAGE =

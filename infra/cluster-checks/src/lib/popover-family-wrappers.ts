@@ -4,7 +4,7 @@ import { requireMatchPositional } from "@shared/utils-narrow/require-match-posit
 import ts from "typescript"
 import { z } from "zod"
 
-const PRIMITIVES_PACKAGE_DIR = "packages/shared/design/primitives"
+const PRIMITIVES_PACKAGE_DIR = "shared/design-primitives"
 const PRIMITIVES_PACKAGE_NAME = "@shared/design-primitives"
 const COMPONENTS_SUBDIR = "src/components"
 

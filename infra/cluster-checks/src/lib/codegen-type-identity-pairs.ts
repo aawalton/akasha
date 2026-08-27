@@ -20,16 +20,16 @@ export const CODEGEN_IDENTITY_BLIND_SPOTS: readonly CodegenIdentityBlindSpot[] =
 
 export const INSTRUCTIONS_MIRROR_DIR = "tools/lib/temper-addon-data/generators"
 
-const RULES_CORE = "packages/temper/game/items/rules/core/src"
-const ADDON_RULE_TYPES = "packages/temper/game/items/addon/src/generated/rule-types.generated.ts"
+const RULES_CORE = "temper/game-items-rules-core/src"
+const ADDON_RULE_TYPES = "temper/game-items-addon/src/generated/rule-types.generated.ts"
 const GEN = INSTRUCTIONS_MIRROR_DIR
-const COMPANIONS_SNAP = "packages/temper/game/companions/core/src/generated"
-const SKILLS_SNAP = "packages/temper/game/characters/skills/src/generated"
-const CHAR_SNAP = "packages/temper/game/characters/character/src/generated"
-const SKILL_LINES_SNAP = "packages/temper/game/characters/skill-lines/src/generated"
-const WEAPONS_SNAP = "packages/temper/game/characters/equipment/src/weapons/generated"
-const COMPLETION_SNAP = "packages/temper/player/completion/src/generated"
-const COMPLETION_ADDON = "packages/temper/player/completion/addon/src/skill-point-data.ts"
+const COMPANIONS_SNAP = "temper/game-companions-core/src/generated"
+const SKILLS_SNAP = "temper/game-characters-skills/src/generated"
+const CHAR_SNAP = "temper/game-characters-character/src/generated"
+const SKILL_LINES_SNAP = "temper/game-characters-skill-lines/src/generated"
+const WEAPONS_SNAP = "temper/game-characters-equipment/src/weapons/generated"
+const COMPLETION_SNAP = "temper/player-completion/src/generated"
+const COMPLETION_ADDON = "temper/player-completion-addon/src/skill-point-data.ts"
 
 export const MIRROR_GENERATORS: ReadonlyMap<string, CodegenIdentityRemedy> = new Map([
   [ADDON_RULE_TYPES, { repo: "instructions", file: `${GEN}/rule-types.ts` }],
