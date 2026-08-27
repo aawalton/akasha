@@ -13,9 +13,9 @@ import type { CommandHelp } from "../../ops/surface.ts"
 
 const SELF = "ops eso generate-chatter-names"
 
-const SOURCE_REL = "packages/temper/addons/types/eso/generated/enums.d.ts"
+const SOURCE_REL = "temper/addons/types/eso/generated/enums.d.ts"
 
-const OUT_REL = "packages/temper/player/quests/addon/src/generated/chatter-names.generated.ts"
+const OUT_REL = "temper/player-quests-addon/src/generated/chatter-names.generated.ts"
 
 export const help: CommandHelp = {
   flags: [

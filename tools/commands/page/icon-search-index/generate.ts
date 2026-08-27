@@ -14,7 +14,7 @@ const LUCIDE_TAG = "0.576.0"
 
 const LUCIDE_REPO = "https://github.com/lucide-icons/lucide"
 
-const OUTPUT_REL = "packages/shared/pages/core/src/generated/icon-search-index.generated.ts"
+const OUTPUT_REL = "shared/pages-core/src/generated/icon-search-index.generated.ts"
 
 const SCRATCH_PARENT = "/var/tmp"
 

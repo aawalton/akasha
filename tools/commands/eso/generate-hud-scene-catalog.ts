@@ -20,7 +20,7 @@ const REL_SOURCE = "esoui/ingame/scenes/hudscene.lua"
 
 const REL_DOC = "ESOUIDocumentation.txt"
 
-const CATALOG_DIR = "packages/temper/shared/interface/hud/scene-catalog/src"
+const CATALOG_DIR = "temper/shared-interface-hud-scene-catalog/src"
 
 const PARSE = `${CATALOG_DIR}/parse.ts`
 

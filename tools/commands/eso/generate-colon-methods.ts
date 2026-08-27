@@ -13,7 +13,7 @@ import type { CommandHelp } from "../../ops/surface.ts"
 
 const SELF = "ops eso generate-colon-methods"
 
-const OUT_REL = "packages/temper/shared/build-deploy/checks/src/eso-colon-methods.generated.ts"
+const OUT_REL = "temper/shared-build-deploy-checks/src/eso-colon-methods.generated.ts"
 
 export const help: CommandHelp = {
   description:

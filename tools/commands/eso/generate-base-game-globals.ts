@@ -16,7 +16,7 @@ import type { CommandHelp } from "../../ops/surface.ts"
 
 const SELF = "ops eso generate-base-game-globals"
 
-const OUT_REL = "packages/temper/shared/build-deploy/checks/src/eso-base-game-globals.generated.ts"
+const OUT_REL = "temper/shared-build-deploy-checks/src/eso-base-game-globals.generated.ts"
 
 export const help: CommandHelp = {
   description:

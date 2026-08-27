@@ -11,7 +11,7 @@ import { codeRoot } from "../../lib/code-root.ts"
 import type { CommandHelp } from "../../ops/surface.ts"
 
 const ESO_PATHS = "@temper/shared-foundation-misc-eso-paths"
-const CLONE_ARTIFACTS = "packages/temper/shared/build-deploy/checks/src/eso-clone-artifacts.ts"
+const CLONE_ARTIFACTS = "temper/shared-build-deploy-checks/src/eso-clone-artifacts.ts"
 
 const SUBJECT = "clone-derived ESO artifacts stamped behind the ~/esoui clone"
 

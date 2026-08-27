@@ -26,7 +26,7 @@ import type { CommandHelp } from "../../ops/surface.ts"
 
 const SELF = "ops eso generate-typings"
 
-const OUT_REL = "packages/temper/addons/types/eso/generated"
+const OUT_REL = "temper/addons/types/eso/generated"
 
 export const help: CommandHelp = {
   description:
