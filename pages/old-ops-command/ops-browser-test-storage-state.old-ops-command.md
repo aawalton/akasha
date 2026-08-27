@@ -2,7 +2,7 @@
 id: 8e56ebc6-2a6e-5911-bf16-851480536712
 page-type-slug: old-ops-command
 title: "Ops instructions playwright-storage-state"
-slug: ops-instructions-playwright-storage-state
+slug: ops-browser-test-storage-state
 domain-parent-slug: domain/ops-instructions
 required-reading-slugs:
   - page-type/old-ops-command
