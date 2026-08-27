@@ -1,9 +1,17 @@
 import type { Repo } from "../../../page/document/types.ts"
 import { parseFrontmatter } from "../../../page/frontmatter.ts"
 
-export const PRODUCER_PAGE_DIR = "pages/graph-node-producer"
+/**
+ * Where the pages declaring what each producer reads stand.
+ *
+ * THE PAGE TYPE IS `old-graph-node-producer` NOW, and these folders are named for it. Pointing at a
+ * folder that is not there found no producer page, which left the reach at the two globs seeded in
+ * `readProducerReach` — and narrowing the instructions reading to those took it to no files at all,
+ * so every producer over that repository built from an empty tree and said nothing.
+ */
+export const PRODUCER_PAGE_DIR = "pages/old-graph-node-producer"
 
-export const EDGE_PRODUCER_PAGE_DIR = "pages/graph-edge-producer"
+export const EDGE_PRODUCER_PAGE_DIR = "pages/old-graph-edge-producer"
 
 const PRODUCER_PAGE_DIRS: readonly string[] = [PRODUCER_PAGE_DIR, EDGE_PRODUCER_PAGE_DIR]
 

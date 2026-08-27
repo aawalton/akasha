@@ -1,5 +1,5 @@
 import type { Roots } from "../../../page/page"
-import { AKASHA, CODE, rootFor } from "../../../repo/roots/roots.ts"
+import { AKASHA, rootFor } from "../../../repo/roots/roots.ts"
 import { servedTip, TRANSPORT } from "../served-tip.ts"
 import { reachCreatorCode } from "./code.ts"
 import { createPipelineTree } from "./create.ts"
@@ -17,11 +17,11 @@ export const TICK_CEILING_MS = 900_000
 export async function runMainPipelineCreatorTick(roots: Roots, signal: AbortSignal): Promise<void> {
   signal.throwIfAborted()
 
-  const codeRoot = roots.code
-  if (codeRoot === undefined) {
-    console.error(`${LOG} no \`${CODE}\` repository is cloned here, so no commit could be read`)
-    return
-  }
+  // THE `code` REPOSITORY IS GONE, absorbed into akasha, so the tree whose main branch this
+  // creator pipelines is this one. This read `roots.code`, which answers `undefined` for a
+  // repository nothing has cloned, so every tick logged and returned: the creator ran on its timer
+  // and created no pipeline, with only the log saying so.
+  const codeRoot = rootFor(roots, AKASHA)
 
   const commit = servedTip(codeRoot, MAIN_BRANCH)
   if (commit === null) {

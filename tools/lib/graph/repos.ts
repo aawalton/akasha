@@ -2,7 +2,7 @@ import { execFileSync } from "node:child_process"
 import { existsSync, readdirSync, readFileSync } from "node:fs"
 import { join } from "node:path"
 import type { Repo } from "../../../page/document/types.ts"
-import { resolveRoots, rootFor } from "../../../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor } from "../../../repo/roots/roots"
 import { narrowedTo, type Reach, readProducerReach, withinReach } from "./producer-reach.ts"
 import type { BuildContext } from "./types.ts"
 
@@ -24,6 +24,22 @@ const isVendored = (path: string): boolean => path.split("/").includes(VENDOR_DI
 
 const REACHED: Repo = "instructions"
 
+/**
+ * The two names the graph labels a node's repository with.
+ *
+ * BOTH NAME ONE TREE. `code` and `instructions` were separate checkouts; akasha absorbed both, so
+ * every root below is the akasha root. Neither is a repository `resolveRoots` answers for, and
+ * `rootFor(roots, "code")` throws.
+ *
+ * THE LABELS ARE NOT RENAMED, because they are written down outside this code: every
+ * `dispatchNodes` entry on a `workflow-template` page names `package:code:...` or
+ * `workflow:instructions:...`, and the cluster checks match on them too. Renaming here alone would
+ * leave every stored seed naming a node no producer emits — a closure over nothing, reported clean.
+ *
+ * WHAT STILL SEPARATES THEM IS HOW EACH IS READ: `code` is the tree at the commit the snapshot is
+ * taken at, and `instructions` is the tree as it stands, narrowed to what the producer pages
+ * declare they read.
+ */
 export const GRAPH_REPOS: readonly Repo[] = ["code", "instructions"]
 
 const detailOf = (error: unknown): string => {
@@ -106,10 +122,10 @@ export const readRepos = (
   repos: readonly Repo[] = GRAPH_REPOS
 ): BuildContext => {
   const roots = resolveRoots()
+  const root = rootFor(roots, AKASHA)
   const repoRoots = new Map<Repo, string>()
   const repoFiles = new Map<Repo, readonly string[]>()
   for (const repo of repos) {
-    const root = rootFor(roots, repo)
     const files = repo === CODE_REPO ? filesAtCommit(root, commit) : filesHeld(root)
     if (files.length === 0) {
       throw new Error(`graph: ${repo} at ${root} listed no files, so nothing could be read from it`)
@@ -119,7 +135,20 @@ export const readRepos = (
   }
   const reach = reachOver(repoRoots, repoFiles)
   const reached = new Map<Repo, readonly string[]>()
-  for (const [repo, files] of repoFiles) reached.set(repo, narrowedTo(files, reach.get(repo)))
+  for (const [repo, files] of repoFiles) {
+    const narrowed = narrowedTo(files, reach.get(repo))
+    // A REACH THAT LEAVES NOTHING IS REFUSED, never carried. Every producer over a repository reads
+    // this list, so a narrowing to zero hands each of them an empty tree: no nodes, no edges, and
+    // every check over them green over nothing. A folder rename under `pages/` did exactly that.
+    if (narrowed.length === 0) {
+      throw new Error(
+        `graph: ${repo} at ${root} listed ${files.length} file(s) and the declared reach ` +
+          `(${(reach.get(repo) ?? []).join(", ")}) left none of them, so every producer reading ` +
+          `${repo} would build from an empty tree`
+      )
+    }
+    reached.set(repo, narrowed)
+  }
   return { repoRoots, repoFiles: reached, commit, reach }
 }
 
