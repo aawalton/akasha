@@ -15,12 +15,6 @@ import { frontOf, textIn } from "./page-write-text.ts"
 import { type Attachment, type Value, splitValues } from "./page-write-values.ts"
 import { type Where, whereFor } from "./page-write-where.ts"
 
-export { commitAll, commitPages } from "./page-write-commit.ts"
-export { landingTextFor, patchedText } from "./page-write-compose.ts"
-export { bodyFor, frontOf, rewritten, statedIn, textIn } from "./page-write-text.ts"
-export { type Attachment, type Split, splitValues, type Value } from "./page-write-values.ts"
-export { type Where, whereFor } from "./page-write-where.ts"
-
 export interface Taken {
   readonly at: string
   readonly pageType: string | null
