@@ -2,7 +2,7 @@
 id: 8d1af137-2753-586c-98c1-5e500542077a
 page-type-slug: old-ops-command
 title: "Ops instructions turn-end-decide"
-slug: ops-instructions-turn-end-decide
+slug: ops-seat-turn-end-decide
 domain-parent-slug: domain/ops-instructions
 required-reading-slugs:
   - page-type/old-ops-command

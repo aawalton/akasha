@@ -2,7 +2,7 @@
 id: 81f2294c-64f9-5666-8519-2b0b91ca68fc
 page-type-slug: old-ops-command
 title: "Ops instructions compose-subagents"
-slug: ops-instructions-compose-subagents
+slug: ops-seat-subagents
 domain-parent-slug: domain/ops-instructions
 required-reading-slugs:
   - page-type/old-ops-command
