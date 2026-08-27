@@ -1,5 +1,5 @@
 import { onceInCall } from "../during-call/during-call.ts"
-import { repoPlacings, scan, scanSpanning } from "./page-types.ts"
+import { repoPlacings, scanSpanning } from "./page-types.ts"
 import { textAt } from "./text/text.ts"
 import { REPOS } from "../repo/roots/roots.ts"
 import type { Roots } from "./page.ts"
@@ -36,7 +36,7 @@ function builtDiskTree(roots: Roots): FileTree {
   return {
     root: roots["instructions"] ?? "",
     pending: new Set<string>(),
-    paths: (glob) => scan(roots, typeof glob === "string" ? [glob] : glob),
+    paths: (glob) => scanSpanning(roots, typeof glob === "string" ? [glob] : glob),
     open: openAcross(roots),
     repoOf: (slug) => placed.get(slug) ?? null,
   }

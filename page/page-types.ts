@@ -106,11 +106,6 @@ export function scanIn(
   return [...notIgnored(root, [...new Set(found)])].sort()
 }
 
-export function scan(roots: Roots, globs: readonly string[]): readonly string[] {
-  const root = roots[INSTRUCTIONS]
-  return root === undefined ? [] : scanIn(root, globs, INSTRUCTIONS)
-}
-
 export function scanSpanning(roots: Roots, globs: readonly string[]): readonly string[] {
   const found: string[] = []
   for (const repo of REPOS) {
