@@ -1,125 +1,52 @@
 import { classifyItemToNodeIds } from "@temper/game-items-core/classify-item-node-ids"
 import { parseInventoryContent } from "@temper/game-items-core/inventory-parser"
+import type {
+  InventoryDatabase,
+  InventoryItemData,
+  InventoryLocationData,
+} from "@temper/game-items-core/inventory-types"
 import { parseItemLink } from "@temper/game-items-core/item-link-parser"
 import { locationConditionFromKeyAndBag } from "@temper/game-items-core/location-condition"
+import type { CompiledOrderedRule } from "@temper/game-items-rules-core/inventory-rule-compiler-types"
 import { computeStockGroups } from "@temper/game-items-rules-eval/compute-stock-groups"
+import type { EvalEnv } from "@temper/game-items-rules-eval/eval-env"
+import type {
+  RuleEvalResult,
+  RuleVerdict,
+  WalkOutcome,
+  WalkTrace,
+} from "@temper/game-items-rules-eval/eval-result"
 import { walkRules } from "@temper/game-items-rules-eval/evaluator"
-import * as cliEvalEnv from "./temper-inventory/cli-eval-env.ts"
-import * as cliItemFacts from "./temper-inventory/cli-item-facts.ts"
-import * as parseCharacters from "./temper-inventory/parse-temper-characters.ts"
-import * as parseInventoryConfig from "./temper-inventory/parse-temper-inventory-config.ts"
+import type { ItemFacts } from "@temper/game-items-rules-eval/item-facts"
+import { buildCliEvalEnv } from "./temper-inventory/cli-eval-env.ts"
+import { cliItemFactsFromInventoryItem } from "./temper-inventory/cli-item-facts.ts"
+import {
+  type CharacterKnowledge,
+  loadTemperCharactersFromPath,
+} from "./temper-inventory/parse-temper-characters.ts"
+import {
+  type CompiledInventoryConfig,
+  loadTemperInventoryConfigFromPath,
+} from "./temper-inventory/parse-temper-inventory-config.ts"
 
-export interface InventoryItemData {
-  readonly itemId: number
-  readonly itemName: string
-  readonly itemLink: string
-  readonly saleAvg?: number
-  readonly minPrice?: number
-  readonly amountCount?: number
-  readonly saleAmountCount?: number
-  readonly estimatedValue?: number
-  readonly merchantValue?: number
-  readonly replacementCost?: number
+export type {
+  CharacterKnowledge,
+  CompiledInventoryConfig,
+  CompiledOrderedRule,
+  EvalEnv,
+  InventoryDatabase,
+  InventoryItemData,
+  InventoryLocationData,
+  ItemFacts,
+  RuleEvalResult,
+  RuleVerdict,
+  WalkOutcome,
+  WalkTrace,
 }
 
-export interface InventoryLocationData {
-  readonly lastScanned: number
-  readonly bags: Readonly<Record<string, Readonly<Record<string, InventoryItemData>>>>
-}
+export type LocationConditionId = ReturnType<typeof locationConditionFromKeyAndBag>
 
-export interface InventoryDatabase {
-  readonly locations: Readonly<Record<string, InventoryLocationData>>
-}
-
-export type LocationConditionId = string
-
-export type ItemKey =
-  | { readonly kind: "recipe"; readonly resultItemId: number }
-  | { readonly kind: "motif"; readonly styleId: number; readonly chapterId: number | null }
-  | { readonly kind: "script"; readonly scriptId: number }
-  | { readonly kind: "consumable"; readonly itemId: number }
-
-export interface ItemFacts {
-  readonly categoryNodeIds?: ReadonlyArray<string>
-  readonly itemKey?: ItemKey
-  readonly itemType?: number
-  readonly specializedItemType?: number
-  readonly filterType?: number
-  readonly traitType?: number
-  readonly equipType?: number
-  readonly armorType?: number
-  readonly weaponType?: number
-  readonly quality?: number
-}
-
-export type CompiledOrderedRule = Readonly<Record<string, unknown>>
-
-export type EvalEnv = Readonly<Record<string, unknown>>
-
-export type StockGroups = Readonly<Record<string, unknown>> | ReadonlyMap<string, unknown>
-
-export interface CharacterKnowledge {
-  readonly id: string
-}
-
-export type RejectionReason =
-  | { readonly kind: "category-mismatch"; readonly ruleCategoryId: string }
-  | { readonly kind: "condition-fail"; readonly conditionKind: string; readonly detail?: string }
-  | { readonly kind: "destination-resolve-fail"; readonly detail?: string }
-  | { readonly kind: "container-skip"; readonly detail?: string }
-
-export type IndeterminateReason =
-  | { readonly kind: "category-unknown"; readonly missingSignal: string }
-  | {
-      readonly kind: "condition-unknown"
-      readonly conditionKind: string
-      readonly missingSignal: string
-    }
-  | { readonly kind: "destination-unknown"; readonly detail?: string }
-
-export type RuleVerdict =
-  | { readonly kind: "matched" }
-  | { readonly kind: "rejected"; readonly reason: RejectionReason }
-  | { readonly kind: "indeterminate"; readonly reason: IndeterminateReason }
-
-export interface RuleEvalResult {
-  readonly index: number
-  readonly ruleId?: string
-  readonly categoryId: string
-  readonly action: string
-  readonly destination?: string
-  readonly verdict: RuleVerdict
-  readonly resolvedDestination?: string
-}
-
-export type WalkOutcome =
-  | {
-      readonly kind: "matched"
-      readonly action: string
-      readonly destination?: string
-      readonly label: string
-    }
-  | { readonly kind: "implicit-terminal"; readonly action: string; readonly label: string }
-  | {
-      readonly kind: "indeterminate"
-      readonly indeterminateRules: ReadonlyArray<RuleEvalResult>
-      readonly provisionalMatch?: {
-        readonly action: string
-        readonly destination?: string
-        readonly label: string
-      }
-    }
-
-export interface WalkTrace {
-  readonly perRule: ReadonlyArray<RuleEvalResult>
-  readonly outcome: WalkOutcome
-}
-
-export interface CompiledInventoryConfig {
-  readonly orderedRules: ReadonlyArray<CompiledOrderedRule>
-  readonly wantedConsumables: Record<string, unknown>
-  readonly characterPriority: ReadonlyArray<string>
-}
+export type StockGroups = ReturnType<typeof computeStockGroups>
 
 export interface ResolvedInventoryItem {
   readonly item: InventoryItemData
@@ -128,61 +55,29 @@ export interface ResolvedInventoryItem {
 
 export interface ExplainCapabilities {
   readonly parseItemLink: typeof parseItemLink
-  readonly parseInventoryContent: (content: string) => InventoryDatabase
-  readonly classifyItemToNodeIds: (item: InventoryItemData) => ReadonlyArray<string>
+  readonly parseInventoryContent: typeof parseInventoryContent
+  readonly classifyItemToNodeIds: typeof classifyItemToNodeIds
   readonly locationConditionFromKeyAndBag: typeof locationConditionFromKeyAndBag
-  readonly cliItemFactsFromInventoryItem: (
-    item: InventoryItemData,
-    nodeIds: ReadonlyArray<string>,
-    location: LocationConditionId | undefined
-  ) => ItemFacts
-  readonly buildCliEvalEnv: (deps: {
-    readonly charactersById: ReadonlyMap<string, CharacterKnowledge>
-    readonly characterPriority: ReadonlyArray<string>
-    readonly wantedConsumables: Record<string, unknown>
-  }) => EvalEnv
-  readonly computeStockGroups: (
-    rules: ReadonlyArray<CompiledOrderedRule>,
-    items: ReadonlyArray<ResolvedInventoryItem>,
-    factsOf: (entry: ResolvedInventoryItem) => ItemFacts,
-    env: EvalEnv
-  ) => StockGroups
-  readonly walkRules: (
-    rules: ReadonlyArray<CompiledOrderedRule>,
-    facts: ItemFacts,
-    ctx: { readonly env: EvalEnv; readonly stockGroupByRuleId: StockGroups }
-  ) => WalkTrace
-  readonly loadTemperCharactersFromPath: (
-    path: string
-  ) => Promise<ReadonlyArray<CharacterKnowledge>>
-  readonly loadTemperInventoryConfigFromPath: (path: string) => Promise<CompiledInventoryConfig>
+  readonly cliItemFactsFromInventoryItem: typeof cliItemFactsFromInventoryItem
+  readonly buildCliEvalEnv: typeof buildCliEvalEnv
+  readonly computeStockGroups: typeof computeStockGroups
+  readonly walkRules: typeof walkRules
+  readonly loadTemperCharactersFromPath: typeof loadTemperCharactersFromPath
+  readonly loadTemperInventoryConfigFromPath: typeof loadTemperInventoryConfigFromPath
 }
 
 export async function explainCapabilities(): Promise<ExplainCapabilities> {
-  const facts = cliItemFacts as unknown as Pick<
-    ExplainCapabilities,
-    "cliItemFactsFromInventoryItem"
-  >
-  const env = cliEvalEnv as unknown as Pick<ExplainCapabilities, "buildCliEvalEnv">
-  const characters = parseCharacters as unknown as Pick<
-    ExplainCapabilities,
-    "loadTemperCharactersFromPath"
-  >
-  const config = parseInventoryConfig as unknown as Pick<
-    ExplainCapabilities,
-    "loadTemperInventoryConfigFromPath"
-  >
   return {
     parseItemLink,
     parseInventoryContent,
     classifyItemToNodeIds,
     locationConditionFromKeyAndBag,
-    cliItemFactsFromInventoryItem: facts.cliItemFactsFromInventoryItem,
-    buildCliEvalEnv: env.buildCliEvalEnv,
+    cliItemFactsFromInventoryItem,
+    buildCliEvalEnv,
     computeStockGroups,
     walkRules,
-    loadTemperCharactersFromPath: characters.loadTemperCharactersFromPath,
-    loadTemperInventoryConfigFromPath: config.loadTemperInventoryConfigFromPath,
+    loadTemperCharactersFromPath,
+    loadTemperInventoryConfigFromPath,
   }
 }
 
