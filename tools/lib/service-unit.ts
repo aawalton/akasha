@@ -1,3 +1,4 @@
+import { MARKDOWN, pageFileIn } from "../../page/page-file.ts"
 import { placeDirOf } from "../../page/page-types.ts"
 import { RESTART_EXIT } from "./service-wrapper/command.ts"
 
@@ -57,12 +58,13 @@ export function startsNow(doc: ServiceDoc): boolean {
   return doc.wantedBy === null || doc.wantedBy === "default.target"
 }
 
-export function documentPath(slug: string): string {
-  return `${placeDirOf("workstation-service")}/${slug}.md`
+export function documentPath(doc: ServiceDoc): string {
+  const place = placeDirOf("workstation-service")
+  return pageFileIn(doc.root, place, doc.slug) ?? `${place}/${doc.slug}${MARKDOWN}`
 }
 
 function checkoutPath(doc: ServiceDoc): string {
-  return isSystemScoped(doc) ? doc.root : "%h/repos/instructions"
+  return isSystemScoped(doc) ? doc.root : "%h/repos/akasha"
 }
 
 function described(doc: ServiceDoc): string {
@@ -112,7 +114,7 @@ export function serviceUnitText(doc: ServiceDoc): string {
     "",
     "[Unit]",
     `Description=${described(doc)}`,
-    `Documentation=file://${checkout}/${documentPath(doc.slug)}`,
+    `Documentation=file://${checkout}/${documentPath(doc)}`,
     ...doc.after.map((one) => `After=${one}`),
     ...doc.wants.map((one) => `Wants=${one}`),
     ...(doc.partOf === null ? [] : [`PartOf=${doc.partOf}`]),
@@ -157,7 +159,7 @@ export function timerUnitText(doc: ServiceDoc): string | null {
     "",
     "[Unit]",
     `Description=${described(doc)}`,
-    `Documentation=file://${checkoutPath(doc)}/${documentPath(doc.slug)}`,
+    `Documentation=file://${checkoutPath(doc)}/${documentPath(doc)}`,
     "",
     "[Timer]",
   ]

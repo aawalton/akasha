@@ -5,7 +5,7 @@ export const summary =
 import { lstatSync, readdirSync, realpathSync } from "node:fs"
 import { inputError } from "../../lib/exit.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
-import { resolveRoots } from "../../../repo/roots/roots"
+import { akashaRoot, resolveRoots } from "../../../repo/roots/roots"
 import {
   applyToCluster,
   planClusterReach,
@@ -103,7 +103,7 @@ export default async function serviceInstall(args: readonly string[]): Promise<v
     throw inputError(`--all reaches every service, so naming \`${named}\` beside it says two things`)
   }
 
-  const root = resolveRoots().instructions
+  const root = akashaRoot()
   const docs = named === undefined ? readServiceDocs(root) : [serviceNamed(root, named)]
   const everyOwned = [
     ...new Set([...ourInstalled(), ...ourGenerated(), ...legacyInstalled()]),
