@@ -12,6 +12,8 @@ const BY_DEFAULT: readonly Check[] = checksOnAudit()
 
 const ROOT_SAID = "."
 
+const COULD_NOT_RUN = 3
+
 export const help = {
   description:
     "Run each named check over the whole akasha tree as it stands on disk, and print every file it fails with the reason it gave. Where no check is named, every check that can be audited is run. A check reached here need not be one the gate runs: the gate weighs a change, this weighs the state, and a check may be registered for one, the other or both. A check saying `check-on-audit: false` is left out where none is named and runs when named, which is how a check still being worked out is kept alive without its findings reaching anyone who did not ask. A check that judges its author is refused by name and set aside where none was named, an audit putting no act in front of it for it to weigh. A finding is printed and never refused: what an audit finds may want the code changed or the check changed, and only a reading tells which.",
@@ -20,6 +22,15 @@ export const help = {
       name: "slug",
       description: "A check to run, by slug. Repeatable. Every auditable check where none is named.",
       variadic: true,
+    },
+  ],
+  exits: [
+    { code: 0, meaning: "every check named ran, whatever it found" },
+    { code: 1, meaning: "input error: no check goes by a name given, or one named judges its author" },
+    {
+      code: COULD_NOT_RUN,
+      meaning:
+        "a check threw, so it reached no answer over any file and the tree stands unjudged by it",
     },
   ],
 }
@@ -47,9 +58,11 @@ export default async function audit(argv: readonly string[]): Promise<void> {
   const root = akashaRoot()
   const wanted = wantedFrom(argv)
   let found = 0
+  let threw = 0
   for (const run of runAudit(wanted, root)) {
     if ("threw" in run) {
       console.log(`${run.slug}  threw  ${run.threw}`)
+      threw += 1
       continue
     }
     console.log(`${run.slug}  ${run.failures.length}`)
@@ -63,5 +76,13 @@ export default async function audit(argv: readonly string[]): Promise<void> {
     found += run.failures.length
   }
   console.log("")
-  console.log(`${found} failure(s) over ${wanted.length} check(s)`)
+  if (threw === 0) {
+    console.log(`${found} failure(s) over ${wanted.length} check(s)`)
+    return
+  }
+  console.log(
+    `${found} failure(s) over ${wanted.length - threw} of ${wanted.length} check(s) — ` +
+      `${threw} threw and judged nothing, so this is no answer about the tree`
+  )
+  process.exitCode = COULD_NOT_RUN
 }
