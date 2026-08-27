@@ -9,11 +9,11 @@ import { parseArgs } from "../../lib/parse-args.ts"
 import { type Value, writePage } from "../../lib/page-write.ts"
 import { resolveRoots } from "../../../repo/roots/roots"
 
-const GAME = "packages/alanwalton/chess/src/lib/game.ts"
-const LOOP = "packages/alanwalton/chess/src/lib/loop.ts"
-const MAIA = "packages/alanwalton/chess/src/lib/maia.ts"
-const PERSIST = "packages/alanwalton/chess/src/lib/persist-game.ts"
-const POSITION = "packages/alanwalton/chess/src/lib/position.ts"
+const GAME = "alanwalton/chess/src/lib/game.ts"
+const LOOP = "alanwalton/chess/src/lib/loop.ts"
+const MAIA = "alanwalton/chess/src/lib/maia.ts"
+const PERSIST = "alanwalton/chess/src/lib/persist-game.ts"
+const POSITION = "alanwalton/chess/src/lib/position.ts"
 
 export const help: CommandHelp = {
   positionals: [

@@ -7,7 +7,7 @@ import { codeModule } from "../../lib/code-import.ts"
 import { dataError, inputError, operationalError } from "../../lib/exit.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
 
-const OPEN_QUESTIONS = "packages/shared/open-questions/src/index.ts"
+const OPEN_QUESTIONS = "shared/open-questions/src/index.ts"
 
 const RECONCILED_AT_KEY = "reconciled-at"
 
