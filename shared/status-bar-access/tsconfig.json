@@ -33,7 +33,8 @@
     "../../repoint/**/*.ts",
     "../../outcome/**/*.ts",
     "../../file-structure/**/*.ts",
-    "../../utf8-body/**/*.ts"
+    "../../utf8-body/**/*.ts",
+    "../../generated-file/**/*.ts"
   ],
   "exclude": [
     "node_modules",

@@ -16,8 +16,17 @@
   },
   "include": [
     "src/**/*.ts",
-    "../../page/page-seq.ts",
-    "../../page/name/naming/named-for.ts"
+    "../../page/**/*.ts",
+    "../../graph/**/*.ts",
+    "../../repo/**/*.ts",
+    "../../checks-system/**/*.ts",
+    "../../cache/**/*.ts",
+    "../../agent/**/*.ts",
+    "../../write-whole/**/*.ts",
+    "../../workspace-package/**/*.ts",
+    "../../patches/**/*.ts",
+    "../../exclusive/**/*.ts",
+    "../../during-call/**/*.ts"
   ],
   "exclude": [
     "node_modules",

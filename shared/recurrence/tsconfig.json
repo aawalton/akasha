@@ -13,7 +13,8 @@
   },
   "include": [
     "src/**/*.ts",
-    "../../day/**/*.ts"
+    "../../day/**/*.ts",
+    "../../tools/lib/tracking/mountain-times.ts"
   ],
   "exclude": [
     "node_modules",

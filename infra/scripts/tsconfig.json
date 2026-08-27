@@ -7,10 +7,16 @@
     "declarationDir": "dist",
     "types": [
       "@types/bun"
-    ]
+    ],
+    "rootDir": "../..",
+    "allowImportingTsExtensions": true
   },
   "include": [
-    "src/**/*.ts"
+    "src/**/*.ts",
+    "../../page/**/*.ts",
+    "../../repo/**/*.ts",
+    "../../tools/lib/code-import.ts",
+    "../../tools/lib/code-root.ts"
   ],
   "exclude": [
     "node_modules",
