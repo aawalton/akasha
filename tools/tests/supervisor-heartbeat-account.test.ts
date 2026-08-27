@@ -1,20 +1,20 @@
 
 import { afterEach, beforeEach, describe, expect, it } from "bun:test"
-import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { statedForPage } from "../lib/supervisor-heartbeat-beat.ts"
+import { type Fixture, fixture } from "./fixture.ts"
 
 const AGENT = "019ee764-0000-7000-8000-0000000000be"
 
 const SEAT = "worker"
 
-let memory = ""
-let heldMemory: string | undefined
+let at: Fixture
 
+// A SEAT PAGE STANDS AT `agent/seat/<name>.seat.md` UNDER THE AKASHA ROOT. This planted
+// `pages/seat/<name>.md` under `MEMORY_ROOT`, and both halves of that are gone: the memory
+// repository is absorbed, so nothing reads that variable, and the seat place moved.
 function plant(extra: readonly string[]): void {
-  const dir = `${memory}/pages/seat`
-  mkdirSync(dir, { recursive: true })
-  writeFileSync(
-    `${dir}/${SEAT}.md`,
+  at.put(
+    `agent/seat/${SEAT}.seat.md`,
     [
       "---",
       "page-type-slug: seat",
@@ -26,21 +26,16 @@ function plant(extra: readonly string[]): void {
       ...extra,
       "---",
       "",
-    ].join("\n"),
-    "utf8"
+    ].join("\n")
   )
 }
 
 beforeEach(() => {
-  memory = mkdtempSync("/var/tmp/heartbeat-account-")
-  heldMemory = process.env.MEMORY_ROOT
-  process.env.MEMORY_ROOT = memory
+  at = fixture()
 })
 
 afterEach(() => {
-  rmSync(memory, { recursive: true, force: true })
-  if (heldMemory === undefined) delete process.env.MEMORY_ROOT
-  else process.env.MEMORY_ROOT = heldMemory
+  at.dispose()
 })
 
 describe("the beat states the account the supervisor is actually running as", () => {
