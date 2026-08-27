@@ -2,7 +2,9 @@
 export const summary = "List every buy rule on settings.inventory.buyRules (TSV / --json)"
 
 import type { CommandHelp } from "../../../../ops/surface.ts"
-import { codeModule } from "../../../../lib/code-import.ts"
+import { computeItemStock } from "@temper/game-items-core/compute-item-stock"
+import type { InventoryDatabase } from "@temper/game-items-core/inventory-types"
+import { computeBuyShortfall } from "@temper/game-items-rules-core/buy-rule-eval"
 import { parseArgs } from "../../../../lib/parse-args.ts"
 import { emitJson, emitTsv } from "../../../../lib/format-output.ts"
 import { inventorySettings } from "../../../../lib/temper-inventory.ts"
@@ -13,8 +15,6 @@ import {
 } from "../../../../lib/temper-inventory/snapshot-read.ts"
 import { USER_ID } from "../../../../lib/user-id.ts"
 
-const COMPUTE_ITEM_STOCK = "@temper/game-items-core/compute-item-stock"
-const BUY_RULE_EVAL = "@temper/game-items-rules-core/buy-rule-eval"
 
 const NO_SNAPSHOT = "no-snapshot"
 
@@ -56,17 +56,6 @@ interface BuyRule {
   readonly locked?: boolean
 }
 
-interface ComputeItemStock {
-  readonly computeItemStock: (
-    inventory: unknown,
-    itemIds: ReadonlySet<number>
-  ) => Map<number, { readonly total: number }>
-}
-
-interface BuyRuleEval {
-  readonly computeBuyShortfall: (targetQuantity: number, currentTotal: number) => number
-}
-
 interface Diagnostics {
   readonly currentTotal: number | null
   readonly shortfall: number | null
@@ -74,7 +63,7 @@ interface Diagnostics {
 
 const ABSENT: Diagnostics = { currentTotal: null, shortfall: null }
 
-async function latestInventory(): Promise<unknown> {
+async function latestInventory(): Promise<InventoryDatabase | null> {
   const header = await latestSnapshot(USER_ID)
   if (header === null) return null
   return assembleSnapshot(await snapshotChunks(header.slug))
@@ -93,8 +82,6 @@ export default async function temperInventoryBuyRuleList(args: readonly string[]
   if (inventory === null) {
     for (const rule of buyRules) diagnostics.set(rule.id, ABSENT)
   } else {
-    const { computeItemStock } = await codeModule<ComputeItemStock>(COMPUTE_ITEM_STOCK)
-    const { computeBuyShortfall } = await codeModule<BuyRuleEval>(BUY_RULE_EVAL)
     const stock = computeItemStock(inventory, new Set(buyRules.map((rule) => rule.itemId)))
     for (const rule of buyRules) {
       const currentTotal = stock.get(rule.itemId)?.total ?? 0
