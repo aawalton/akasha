@@ -9,11 +9,11 @@ const EXIT_DATA = 2
 const HELP = `bun tools/agent-settings.ts — print the fleet's agent settings document
 
 Prints \`settings/agents.json\` from this repository verbatim, as JSON on stdout. This is
-how a module in the code repository reaches that document: it is edited here and live on
+how a module elsewhere in this repository reaches that document: it is edited here and live on
 the commit, so nothing over there opens it by path.
 
 Usage:
-  bun ~/repos/instructions/tools/agent-settings.ts
+  bun ~/repos/akasha/tools/agent-settings.ts
 
 Flags:
   --help, -h  Print this and exit 0.
@@ -24,7 +24,7 @@ Exits:
   2  the document is absent, unreadable, or is not a JSON object
 
 Examples:
-  bun ~/repos/instructions/tools/agent-settings.ts | jq '.hooks | keys'
+  bun ~/repos/akasha/tools/agent-settings.ts | jq '.hooks | keys'
 `
 
 function refuse(message: string, code: number): never {
