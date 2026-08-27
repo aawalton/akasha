@@ -1,0 +1,19 @@
+---
+id: 44a10412-a0c5-5279-9b6f-5bf6aa4240b1
+page-type-slug: food-entry
+title: "Fruit snacks, 1 pouch 22.7g (awareness)"
+slug: 2026-07-25-fruit-snacks-1-pouch-22-7g-awareness
+happened-at: "2026-07-25T18:00:00.000Z"
+plant-grams: 0
+estimated-calories: 70
+---
+
+Welch's Fruit Snacks, Mixed Fruit (PIM Brands). 1 pouch = the label serving (22.7g). CALORIES ARE LABEL-EXACT, read off the nutrition-panel photo — NOT an estimate, do not re-estimate: 70 cal, 0g total fat, 0mg sodium, 17g total carb, 10g total sugars of which 8g ADDED, 1g protein.
+
+PLANT GRAMS 0 — awareness only, by the fiber test this log established on the fruit pop row (2026-07-24): "Zero fiber is the tell — whole or pureed fruit carries fiber, so this is sweetened juice, not whole plant." This product has functionally 0g dietary fiber, so despite leading with fruit puree (grape, strawberry, raspberry) it is sweetened juice-and-puree solids, not whole plant. 8 of its 10 sugar grams are added. Consistent with the fruit pop, pretzel knot and egg bites rows.
+
+WHERE THE FIBER NUMBER COMES FROM — do not go looking for a panel line, there is not one. Dietary fiber is declared in the panel's footnote, verbatim: "Not a significant source of saturated fat, trans fat, cholesterol, dietary fiber, vitamin D, calcium, iron, and potassium." Under FDA labeling rules a nutrient present at an insignificant amount may be omitted from the panel body and declared in exactly that footnote form — so this is an affirmative declaration of negligibility, not a gap in the transcription.
+
+GENERAL TRAP for the next reader: the panel body's silence on dietary fiber is not evidence either way. The footnote has to be read before concluding in either direction — a panel can be fully transcribed and still not contain the number that decides the plant-grams call.
+
+Upgrade path: whole or frozen fruit gives the same sweet hit and earns plant grams.

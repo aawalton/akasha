@@ -1,0 +1,36 @@
+---
+id: 5395ed99-056c-584c-b243-eeb4c2bcc4f9
+page-type-slug: food-entry
+title: "Popcorn, full bag (10 cups popped)"
+slug: 2026-07-29-popcorn-full-bag-10-cups-popped
+happened-at: "2026-07-29T18:00:00.000Z"
+plant-grams: 55
+estimated-calories: 375
+---
+
+Snack, 17:00, during the "Read + Eat" block. The whole bag — Alan confirmed "full bag" when asked
+rather than being assumed.
+
+CALORIES 375 — LABEL-DERIVED, not estimated. The panel photo reads 150 kcal per serving and
+2.5 servings per bag: 150 x 2.5 = 375. Do not re-estimate this figure.
+
+PANEL TRANSCRIPTION, per serving (serving = 2 Tbsp unpopped, makes 4 cups popped; bag = 2.5
+servings = 10 cups popped). The serving's gram figure sits under camera glare and reads "3_g" —
+that ONE number was not legible; every figure below was:
+  Calories 150 · Total Fat 9g (11%) · Sat Fat 4.5g (22%) · Cholesterol <5mg (1%)
+  Sodium 240mg (10%) · Total Carb 19g (7%) · DIETARY FIBER 3g (12%) · Total Sugars 0g
+  Protein 2g · Iron 0.4mg (2%)
+Footnote: "Not a significant source of trans fat, added sugars, ... calcium and potassium."
+Dietary fiber is NOT in that footnote — it is declared in the panel body at 3g, so the fiber test
+is answered affirmatively by the label itself and needs no inference.
+
+PLANT GRAMS 55 — popcorn EARNS. This is the first grain product in this log to do so, and the
+reason is the fiber test rather than an exception: popcorn is whole-grain corn carrying 3g fiber
+per serving (12% DV), where the refined-flour items zeroed on this same day (pizza crust, Crazy
+Bread, and earlier the white roll and pretzel knot) carry a milled grain with the bran removed.
+"It is a processed snack" is not the discriminator and never was.
+
+HOW 55 IS DERIVED: the credit is the CORN only, not the bag's mass. Per serving the corn solids
+are the 19g carb + 2g protein + ~1g minerals = ~22g; the 9g of fat is added oil, which is not a
+whole plant. 22g x 2.5 servings = ~55g. So the number is a label-anchored derivation, not a
+photo-estimate of volume — but it is a derivation, and a measured dry-kernel weight would beat it.

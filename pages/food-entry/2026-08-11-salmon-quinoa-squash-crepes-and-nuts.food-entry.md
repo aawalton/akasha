@@ -1,0 +1,17 @@
+---
+id: e15eeaa4-d54b-53cc-8f71-9623d794df42
+page-type-slug: food-entry
+title: "Salmon, quinoa, squash, crepes and nuts"
+slug: 2026-08-11-salmon-quinoa-squash-crepes-and-nuts
+happened-at: "2026-08-11T18:00:00.000Z"
+plant-grams: 283
+estimated-calories: 1530
+---
+
+6 oz salmon, 3 oz quinoa, 3 oz squash, 4 plain crepes, 4 oz honey roasted nuts. Eaten in the evening after a near-eight-hour gap since breakfast.
+
+Plant grams counted at 283: quinoa 85g + squash 85g + nuts 113g. The crepes are excluded on the standing convention that refined-flour products are not whole plant (same rule that keeps orange juice out of the muesli count), and the salmon is animal.
+
+Calories estimated at 1530: salmon ~350, quinoa ~100, squash ~35, four crepes ~360, honey roasted nuts ~680.
+
+Assumption recorded rather than confirmed: the quinoa is taken as cooked weight, which is how a 3 oz portion plated beside salmon and squash reads. Dry weight would put that item nearer 310 calories instead of 100.
