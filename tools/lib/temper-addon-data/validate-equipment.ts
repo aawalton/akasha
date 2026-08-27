@@ -24,7 +24,7 @@ function countSlots(body: string): number {
 }
 
 export function validateEquipmentMappings(): boolean {
-  const equipmentPath = temperFile("game/characters/capture/addon/src/build/equipment-mappings.ts")
+  const equipmentPath = temperFile("game-characters-capture-addon/src/build/equipment-mappings.ts")
 
   if (!existsSync(equipmentPath)) {
     console.error(
