@@ -20,7 +20,7 @@ import {
 import { slugEdges } from "../../repoint/reslug.ts"
 import { decodeUtf8, leadingBytes } from "../../utf8-body/utf8-body.ts"
 import { applyPairs, type Pair as EditPair, parsePairs } from "../edit-pairs.ts"
-import { addressOf, type Addressed, defaultMessage, rejectUnknownFlags, relPathIn } from "./address.ts"
+import { addressOf, type Addressed, defaultMessage, rejectUnknownFlags, relPathIn } from "../../ops-cli/global/address.ts"
 import {
   DESCRIPTION,
   DRY_RUN,

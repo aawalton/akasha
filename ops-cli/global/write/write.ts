@@ -8,7 +8,7 @@ import { sidecarsBeside } from "../../../page/sidecar/sidecar.ts"
 import { statingIds } from "./state-id.ts"
 import { land, LandingRefused, landOutside, type Landing, type Loose } from "../../../repo/land/land.ts"
 import { AKASHA } from "../../../repo/roots/roots.ts"
-import { addressOf, type Addressed, defaultMessage, rejectUnknownFlags, relPathIn } from "../../../patches/command/address.ts"
+import { addressOf, type Addressed, defaultMessage, rejectUnknownFlags, relPathIn } from "../address.ts"
 import { fail, type Landing as Patched, patchText, payloadText, valueOf } from "../../../patches/patch.ts"
 
 const FILE_PATH = "--file-path"

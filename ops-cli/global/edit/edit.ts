@@ -5,7 +5,7 @@ import { resolve } from "node:path"
 import { decodeUtf8, leadingBytes } from "../../../utf8-body/utf8-body.ts"
 import { land, LandingRefused, landOutside, type Landing, type Loose } from "../../../repo/land/land.ts"
 import { applyPairs, parsePairs } from "../../../patches/edit-pairs.ts"
-import { addressOf, type Addressed, defaultMessage, rejectUnknownFlags, relPathIn } from "../../../patches/command/address.ts"
+import { addressOf, type Addressed, defaultMessage, rejectUnknownFlags, relPathIn } from "../address.ts"
 import { fail, payloadText, valueOf } from "../../../patches/patch.ts"
 
 const INPUT_FILE = "--input-file"
