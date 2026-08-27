@@ -4,13 +4,13 @@ import { isManifestSopsFile, parseFlatRules } from "./discover.ts"
 describe("parseFlatRules", () => {
   test("extracts rules with path_regex but no encrypted_regex", () => {
     const yaml = `creation_rules:
-  - path_regex: packages/infra/ci/workflows/pipeline-secrets\\.sops\\.yaml$
+  - path_regex: infra/ci-workflows/pipeline-secrets\\.sops\\.yaml$
     age: "age1abc"
   - encrypted_regex: "^(data|stringData)$"
     age: "age1abc"
 `
     expect(parseFlatRules(yaml)).toEqual([
-      { pathRegex: "packages/infra/ci/workflows/pipeline-secrets\\.sops\\.yaml$" },
+      { pathRegex: "infra/ci-workflows/pipeline-secrets\\.sops\\.yaml$" },
     ])
   })
 
@@ -67,7 +67,7 @@ describe("parseFlatRules", () => {
 })
 
 describe("isManifestSopsFile", () => {
-  const flatRules = [{ pathRegex: "packages/infra/ci/workflows/pipeline-secrets\\.sops\\.yaml$" }]
+  const flatRules = [{ pathRegex: "infra/ci-workflows/pipeline-secrets\\.sops\\.yaml$" }]
 
   test("file matching a flat rule is NOT a manifest", () => {
     expect(
