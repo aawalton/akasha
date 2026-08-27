@@ -18,7 +18,7 @@ import {
 } from "./tstl-this-void-colon-method"
 import { isBaseGameReceiverSurface } from "./tstl-this-void-colon-method.manifest"
 
-const AMBIENT_TYPES_REL = "packages/temper/addons/types"
+const AMBIENT_TYPES_REL = "temper/addons/types"
 
 const RECEIVER_SURFACE_UNIT = "base-game receiver-surface files"
 

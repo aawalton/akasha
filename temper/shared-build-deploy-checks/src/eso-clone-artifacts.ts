@@ -3,7 +3,7 @@ import { join, relative } from "node:path"
 import { parseEsoCloneProvenance, parseStampedApiVersion } from "../../shared-foundation-misc-eso-paths/src/eso-clone-stamp"
 import type { StampedArtifact } from "./eso-doc-api-version"
 
-export const WALK_ROOT = "packages/temper"
+export const WALK_ROOT = "temper"
 
 const SKIP_DIRS = new Set(["node_modules", "dist", ".git"])
 

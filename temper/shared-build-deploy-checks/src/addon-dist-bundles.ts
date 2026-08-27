@@ -2,7 +2,7 @@ import { readdirSync, statSync } from "node:fs"
 import { join, resolve } from "node:path"
 import { renderPopulationBound } from "./population-bound"
 
-export const ADDON_DIST_REL = "packages/temper/addons/dist"
+export const ADDON_DIST_REL = "temper/addons/dist"
 
 export const ADDON_BUNDLE_UNIT = "addon bundles"
 
