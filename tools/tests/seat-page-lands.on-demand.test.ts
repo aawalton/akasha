@@ -6,8 +6,8 @@ import { indexFixture, namedIn, seatStore } from "./seat-fixture.ts"
 const SEAT_COMMAND = `${import.meta.dir}/../seat.ts`
 
 // WHERE THE CODE IS, as against where the pages are. `AKASHA_ROOT` names the fixture, and
-// `tools/lib/code-import.ts` resolves a command's own module against `codeRoot()`, which answers
-// the akasha root unless `CODE_ROOT` names another — the fixture holds no `node_modules`.
+// `codeRoot()` in `tools/lib/code-root.ts` answers the akasha root unless `CODE_ROOT` names
+// another — the fixture holds no `node_modules`.
 const LIVE = `${import.meta.dir}/../..`
 
 const AGENT = "3f2a1b4c-5d6e-7f80-9a1b-2c3d4e5f6071"
