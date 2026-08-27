@@ -6,7 +6,7 @@ import { buildFrom, readAt } from "../../../../tools/lib/graph/held-snapshot.ts"
 import { workspaceDirsAt } from "../../../../tools/lib/graph/producers/lib/workspace-dirs.ts"
 import { readRepoFile } from "../../../../tools/lib/graph/repos.ts"
 import type { BuildContext, Graph } from "../../../../tools/lib/graph/types.ts"
-import { CODE, resolveRoots, rootFor } from "../../../../repo/roots/roots"
+import { codeRoot } from "../../../../tools/lib/code-root.ts"
 import {
   ALLOWED_ALLOW_IMPORTING_TS_EXTENSIONS,
   ALLOWED_CYCLES,
@@ -163,7 +163,7 @@ function workspaceTsconfigs(ctx: BuildContext): readonly Member[] {
 }
 
 const MEMBERSHIP_FROM =
-  "the code repo's workspace list at the tree sha this run was given — the root " +
+  "the workspace list at the tree sha this run was given — the root " +
   "`package.json` `workspaces` field expanded against the tracked tree, kept to the " +
   "workspaces that carry a `tsconfig.json`. At 1075b25bba470c34e695e8aa1660b7268f7bc7e6 " +
   "that stood at 228 of 231 workspaces. `workspaceDirsAt` hands back an empty list rather " +
@@ -181,11 +181,11 @@ async function main(): Promise<never> {
     graph = await buildFrom(ctx)
   } catch (err) {
     return toolExit(
-      `failed to read the code repo at ${parsed.flags.treeSha}: ${errorMessage(err)}`
+      `failed to read the tree at ${parsed.flags.treeSha}: ${errorMessage(err)}`
     )
   }
 
-  const codeRoot = rootFor(resolveRoots(), CODE)
+  const root = codeRoot()
   const members = workspaceTsconfigs(ctx)
   const graphs = rollUpPackageImportGraphs(graph)
   const cycles = findCycles(graphs.included)
@@ -217,7 +217,7 @@ async function main(): Promise<never> {
         tsconfig,
         graphs,
         cycles,
-        codeRoot,
+        codeRoot: root,
       }),
       ...(nested.get(member.workspace) ?? []),
     ]
@@ -227,7 +227,7 @@ async function main(): Promise<never> {
     members,
     unit: "workspace tsconfigs",
     labelOf: (member) => member.path,
-    siteOf: (member) => resolve(codeRoot, member.path),
+    siteOf: (member) => resolve(root, member.path),
     examine,
     membership: {
       kind: "atLeast",
