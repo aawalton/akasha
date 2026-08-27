@@ -21,3 +21,13 @@ Where the implementation is the only statement of a language, every bug it has i
 Write the meaning before the evaluator.
 
 Never settle a question by reading the code.
+
+## Held To The Words
+
+**Hold every implementation to the written meaning, never to another implementation.**
+
+Implementations checked against each other agree on their shared mistakes and call it agreement.
+
+Check each implementation against the words alone.
+
+Never make one implementation the reference.
