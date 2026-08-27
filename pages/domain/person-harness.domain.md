@@ -3,7 +3,7 @@ id: 571a10bd-a532-59d8-816c-21e9af807348
 page-type-slug: domain
 title: "Person harness"
 slug: person-harness
-domain-parent-slug: domain/global
+domain-parent-slug: domain/alan-harness
 sequence-slugs:
   - page-type/person
   - page-type/person-access

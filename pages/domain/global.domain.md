@@ -10,7 +10,6 @@ sequence-slugs:
   - domain/pages-system
   - domain/graph-system
   - domain/alan-harness
-  - domain/person-harness
   - domain/agent-harness
   - domain/change-harness
   - domain/design-system

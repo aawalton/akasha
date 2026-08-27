@@ -6,6 +6,7 @@ slug: alan-harness
 domain-parent-slug: domain/global
 persona-champion-slug: amy
 sequence-slugs:
+  - domain/person-harness
   - domain/alan-harness-tracking
   - domain/alan-harness-stoplights
   - domain/alan-harness-tools
