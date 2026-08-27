@@ -46,20 +46,20 @@ slug before it stops the seat it is replacing, and has to know what a seat will 
 before it has a row to record anything on. Neither reaches the store on any path.
 
 Usage:
-  bun ~/repos/instructions/tools/seat.ts --persona <slug> --domain <slug> --role <slug> --task <slug>
-  bun ~/repos/instructions/tools/seat.ts --task <slug>
-  bun ~/repos/instructions/tools/seat.ts --from-seat
-  bun ~/repos/instructions/tools/seat.ts --from-history
-  bun ~/repos/instructions/tools/seat.ts --mode headless
-  bun ~/repos/instructions/tools/seat.ts --initiative <slug>
-  bun ~/repos/instructions/tools/seat.ts --errand "<what this seat was asked for>"
-  bun ~/repos/instructions/tools/seat.ts --agent <uuid> --flex flex-2
-  bun ~/repos/instructions/tools/seat.ts --principal alan
-  bun ~/repos/instructions/tools/seat.ts --on-call
-  bun ~/repos/instructions/tools/seat.ts --show
-  bun ~/repos/instructions/tools/seat.ts --name --persona <slug> --role <slug>
-  bun ~/repos/instructions/tools/seat.ts --resolve --token <slug> --token <slug>
-  bun ~/repos/instructions/tools/seat.ts --resolve --persona <slug> --domain <slug>
+  ops akasha seat --persona <slug> --domain <slug> --role <slug> --task <slug>
+  ops akasha seat --task <slug>
+  ops akasha seat --from-seat
+  ops akasha seat --from-history
+  ops akasha seat --mode headless
+  ops akasha seat --initiative <slug>
+  ops akasha seat --errand "<what this seat was asked for>"
+  ops akasha seat --agent <uuid> --flex flex-2
+  ops akasha seat --principal alan
+  ops akasha seat --on-call
+  ops akasha seat --show
+  ops akasha seat --name --persona <slug> --role <slug>
+  ops akasha seat --resolve --token <slug> --token <slug>
+  ops akasha seat --resolve --persona <slug> --domain <slug>
 
 Flags:
   --persona <slug>  Who is speaking. Matched against the file name under personas/.
