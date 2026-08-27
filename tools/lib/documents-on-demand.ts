@@ -4,12 +4,16 @@ import { stemOf as slugOf } from "../../page/name/name"
 import { type Documents, DOMAIN_SLUG_KEY } from "./domain.ts"
 import { slugNamed } from "../../page/page-address.ts"
 import { type Frontmatter, parseFrontmatter, textField } from "../../page/frontmatter.ts"
-import { isDirty } from "../../repo/roots/roots"
+import { diskFileTree } from "../../page/file-tree.ts"
+import { domainKindTest } from "../../page/page-types.ts"
+import { registryOf } from "../../page/property/registry.ts"
+import { AKASHA, isDirty } from "../../repo/roots/roots"
 
 export function documentsOnDemand(root: string): Documents {
   const parsed = new Map<string, Frontmatter | null>()
   let byStem: ReadonlyMap<string, readonly string[]> | null = null
   let bySlug: ReadonlyMap<string, string> | null = null
+  let domainKind: ((relPath: string, fm: Frontmatter) => boolean) | null = null
   const read = (relPath: string): Frontmatter | null => {
     if (parsed.has(relPath)) return parsed.get(relPath) ?? null
     let held: Frontmatter | null = null
@@ -32,12 +36,29 @@ export function documentsOnDemand(root: string): Documents {
     byStem = out
     return out
   }
+  // ONLY A DOMAIN ANSWERS HERE. A slug is unique within a page type and not across the corpus,
+  // and this resolves a bare one against every document in the tree, so the first page reached
+  // took the answer whatever kind it was: every persona's `readout-group/personas` landed on a
+  // nav page, `domain/agent-harness` on a book chapter, `person/alan` on a topic. Nothing said
+  // so — a wrong page is a page, and the ancestry and required reading drawn from it read as
+  // whole. What a domain is, is settled by `domainKinds` walking `extends-slug`, so a page type
+  // that extends one is one and needs no listing here.
+  const isDomain = (): ((relPath: string, fm: Frontmatter) => boolean) => {
+    if (domainKind !== null) return domainKind
+    domainKind = domainKindTest(AKASHA, registryOf(diskFileTree({ [AKASHA]: root })))
+    return domainKind
+  }
+  const domainHere = (at: string): Frontmatter | null => {
+    const held = read(at)
+    if (held === null || !isDomain()(at, held)) return null
+    return held
+  }
   const declared = (): ReadonlyMap<string, string> => {
     if (bySlug !== null) return bySlug
     const out = new Map<string, string>()
     for (const at of listDocuments(root)) {
       if (isDirty(at)) continue
-      const held = read(at)
+      const held = domainHere(at)
       if (held === null) continue
       const slug = textField(held, DOMAIN_SLUG_KEY)
       if (slug !== null && !out.has(slug)) out.set(slug, at)
@@ -50,7 +71,7 @@ export function documentsOnDemand(root: string): Documents {
     domainAt: (named) => {
       const slug = slugNamed(named)
       for (const at of stems().get(slug) ?? []) {
-        const held = read(at)
+        const held = domainHere(at)
         if (held !== null && textField(held, DOMAIN_SLUG_KEY) === slug) return at
       }
       return declared().get(slug) ?? null
