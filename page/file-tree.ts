@@ -15,14 +15,29 @@ export interface FileTree {
   readonly pending?: ReadonlySet<string>
 }
 
+// `paths` scans every repository, so a path it hands back may stand in any of
+// them. Opening one against a single root was right only while one repository
+// held the pages; the page types stand in akasha now, and a tree that lists a
+// path it cannot then read reports an empty registry rather than a missing one.
+function openAcross(roots: Roots): Open {
+  return (relPath: string): string | null => {
+    for (const repo of REPOS) {
+      const root = roots[repo]
+      if (root === undefined) continue
+      const text = textAt(root, relPath)
+      if (text !== null) return text
+    }
+    return null
+  }
+}
+
 function builtDiskTree(roots: Roots): FileTree {
   const placed = repoPlacings(roots)
-  const root = roots["instructions"] ?? ""
   return {
-    root,
+    root: roots["instructions"] ?? "",
     pending: new Set<string>(),
     paths: (glob) => scan(roots, typeof glob === "string" ? [glob] : glob),
-    open: (relPath) => textAt(root, relPath),
+    open: openAcross(roots),
     repoOf: (slug) => placed.get(slug) ?? null,
   }
 }
@@ -33,21 +48,12 @@ export function diskFileTree(roots: Roots): FileTree {
 
 function builtSpanningTree(roots: Roots): FileTree {
   const placed = repoPlacings(roots)
-  const openIn = (relPath: string): string | null => {
-    for (const repo of REPOS) {
-      const root = roots[repo]
-      if (root === undefined) continue
-      const text = textAt(root, relPath)
-      if (text !== null) return text
-    }
-    return null
-  }
   return {
     root: roots["instructions"] ?? "",
     roots,
     pending: new Set<string>(),
     paths: (glob) => scanSpanning(roots, typeof glob === "string" ? [glob] : glob),
-    open: openIn,
+    open: openAcross(roots),
     repoOf: (slug) => placed.get(slug) ?? null,
   }
 }
