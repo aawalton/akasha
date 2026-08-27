@@ -1,6 +1,6 @@
 export const tool = {
   summary: "Print what this repository declares about its personas, persons, roles, tasks and domains",
-  repos: ["instructions"],
+  repos: ["akasha"],
 } as const
 
 import { DeadRead, isSubject, readCorpora, type Subject, SUBJECTS } from "./lib/subjects.ts"
@@ -12,7 +12,7 @@ function fail(message: string): never {
 }
 
 const HELP = [
-  "bun ~/repos/instructions/tools/declarations.ts — what this repository declares about itself",
+  "bun ~/repos/akasha/tools/declarations.ts — what this repository declares about itself",
   "",
   "Prints JSON on stdout:",
   "  { root, subjects: { <subject>: { records: [ { slug, path, frontmatter } ], unnamed } } }",
@@ -26,8 +26,8 @@ const HELP = [
   "writing more than one of these somewhere they will be compared must ask for them together.",
   "",
   "Usage:",
-  "  bun ~/repos/instructions/tools/declarations.ts <subject>... [--body]",
-  "  bun ~/repos/instructions/tools/declarations.ts all [--body]",
+  "  bun ~/repos/akasha/tools/declarations.ts <subject>... [--body]",
+  "  bun ~/repos/akasha/tools/declarations.ts all [--body]",
   "",
   `  <subject>   one or more of ${SUBJECTS.join(", ")}`,
   "  all         every subject above, in one reading",
@@ -42,7 +42,7 @@ const HELP = [
   "call rather than handing back a partial answer.",
   "",
   "Environment:",
-  "  INSTRUCTIONS_ROOT  the tree to read (default: the repo this file lives in)",
+  "  AKASHA_ROOT  the tree to read (default: the repo this file lives in)",
   "",
   "Exit codes:",
   "  0  every subject asked for was read and printed",

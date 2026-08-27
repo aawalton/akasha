@@ -1,6 +1,6 @@
 export const tool = {
   summary: "Compose a seat's system prompt: who it is, and the one read that loads what it is bound to",
-  repos: ["instructions"],
+  repos: ["akasha"],
 } as const
 
 import { writeFileSync } from "node:fs"
@@ -26,7 +26,7 @@ A seat stating nothing composes to nothing and exits 0. Nothing here refuses: th
 feeds a spawn, and a seat that does not start is worse than one carrying less.
 
 Usage:
-  bun ~/repos/instructions/tools/compose-boot.ts --agent <id> [--out <path>]
+  bun ~/repos/akasha/tools/compose-boot.ts --agent <id> [--out <path>]
 
 Flags:
   --agent <id>   Whose attributes to read.
