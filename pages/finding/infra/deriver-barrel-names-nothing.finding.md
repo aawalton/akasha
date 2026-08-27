@@ -8,12 +8,16 @@ domain-slug: domain/global
 
 # Claim
 
-The `check-deriver-barrel` command names two files that stand nowhere in the code repository, so it fails only when somebody runs it.
+The `check-deriver-barrel` command names a file that stands nowhere, so it fails only when somebody runs it.
 
 # Evidence
 
-`bun tools/run-checks.ts` on 2026-08-14 returned `code-paths-resolve` fail: 1107 paths named into the code repository, 2 standing nowhere. Both are named by `tools/commands/check-deriver-barrel.ts` — `packages/infra/checks/src/lib/generate-deriver-barrel.ts` and `packages/infra/checks/src/derivers.generated.ts`.
+First read on 2026-08-14 from a `code-paths-resolve` failure — 1107 paths named into the code repository, 2 standing nowhere, both named by `tools/commands/check-deriver-barrel.ts`.
 
-Neither name matches anything under `packages/` in /home/walton/code. `packages/infra/checks/src/` holds `enrichers.generated.ts` and `producers.generated.ts` and no derivers counterpart, which suggests derivers were split into those two rather than moved. Whether the command should follow the split or go entirely is not settled here.
+Re-measured 2026-08-27 in `/var/home/walton/repos/akasha`, where there is no `packages/` directory and `code-paths-resolve` is no longer a registered check. One of the two names now resolves: line 13 imports `generateBarrel` from `../../infra/cluster-checks/src/lib/generate-deriver-barrel.ts`, and that file stands. The other does not. Line 35 reads:
 
-This is the only failing check in the suite; every other verdict is pass, advisory or not-applicable.
+    const BARREL_REL_PATH = "packages/infra/checks/src/derivers.generated.ts"
+
+Nothing is at that path, and `infra/cluster-checks/src/` holds no `*.generated.ts` at all.
+
+Run rather than read: `ops check-deriver-barrel --repo-root /var/home/walton/repos/akasha` exits 2, printing "EMPTY POPULATION — 0 deriver files: this run examined nothing, so it certifies nothing" alongside one violation against `packages/infra/checks/src/derivers.generated.ts`. Whether the command should follow the move or go entirely is not settled here.
