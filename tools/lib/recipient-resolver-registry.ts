@@ -9,7 +9,7 @@ import {
   standingPersonaSpec,
 } from "./wake-armed-specs.ts"
 
-const ROOT = resolveRoots().instructions
+const ROOT = resolveRoots().akasha
 
 export const ALAN_HANDLER_SEAT = handlerSeatName("alan", ROOT)
 
