@@ -1,7 +1,7 @@
 #!/usr/bin/env bun
 export const tool = {
   summary: "Push every notification written for Alan at his devices",
-  repos: ["instructions"],
+  repos: ["akasha"],
 } as const
 
 import { apnsSenderFromEnv, APNS_AUTH_KEY_ENV } from "../tools/lib/push-notification/apns.ts"

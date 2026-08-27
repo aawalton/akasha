@@ -1,7 +1,7 @@
 #!/usr/bin/env bun
 export const tool = {
   summary: "Run the recipient-resolver daemon",
-  repos: ["instructions"],
+  repos: ["akasha"],
 } as const
 
 import { listPersonHandlers } from "../tools/lib/person-handler-slugs.ts"

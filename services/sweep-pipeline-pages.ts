@@ -1,7 +1,7 @@
 #!/usr/bin/env bun
 export const tool = {
   summary: "Run the pipeline page sweep — carry every unfinished pipeline, workflow and step forward",
-  repos: ["instructions"],
+  repos: ["akasha"],
 } as const
 
 import { CeilingExceeded } from "../tools/lib/sweep-pipeline-pages/ceiling.ts"

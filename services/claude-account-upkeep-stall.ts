@@ -1,6 +1,6 @@
 export const tool = {
   summary: "Rule on whether claude account upkeep, which renews every account's token and reads its usage, has stalled",
-  repos: ["instructions"],
+  repos: ["akasha"],
 } as const
 
 import { existsSync, readdirSync, readFileSync, writeFileSync } from "node:fs"

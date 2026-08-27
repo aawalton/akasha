@@ -1,7 +1,7 @@
 #!/usr/bin/env bun
 export const tool = {
   summary: "Tell Alan when the day has spent his night down a rung",
-  repos: ["instructions"],
+  repos: ["akasha"],
 } as const
 
 import {

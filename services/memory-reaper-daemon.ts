@@ -1,7 +1,7 @@
 #!/usr/bin/env bun
 export const tool = {
   summary: "Run the fleet memory-reaper daemon",
-  repos: ["instructions"],
+  repos: ["akasha"],
 } as const
 
 import { reaperConfigBanner, TICK_MS } from "../tools/lib/memory-reaper-config.ts"

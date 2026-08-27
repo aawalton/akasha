@@ -1,6 +1,6 @@
 export const tool = {
   summary: "Delete every kept page answer older than the day it is allowed to stand",
-  repos: ["instructions"],
+  repos: ["akasha"],
 } as const
 
 import { existsSync, readdirSync, rmdirSync, rmSync, statSync } from "node:fs"

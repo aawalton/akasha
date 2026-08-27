@@ -1,7 +1,7 @@
 #!/usr/bin/env bun
 export const tool = {
   summary: "Run the CI orchestrator — drive every pipeline still owed a run",
-  repos: ["instructions"],
+  repos: ["akasha"],
 } as const
 
 import { LOG } from "../tools/lib/ci-orchestrator/log.ts"

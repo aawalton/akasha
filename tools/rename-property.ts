@@ -1,6 +1,6 @@
 export const tool = {
   summary: "Rename a page property and every page the page type system says carries it",
-  repos: ["instructions"],
+  repos: ["akasha"],
 } as const
 
 import { existsSync, readFileSync } from "node:fs"

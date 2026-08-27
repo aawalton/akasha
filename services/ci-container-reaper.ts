@@ -1,7 +1,7 @@
 #!/usr/bin/env bun
 export const tool = {
   summary: "Run the CI container reaper — clear finished step containers off the cluster",
-  repos: ["instructions"],
+  repos: ["akasha"],
 } as const
 
 import { CeilingExceeded } from "../tools/lib/ci-container-reaper/ceiling.ts"

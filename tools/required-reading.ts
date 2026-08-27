@@ -1,6 +1,6 @@
 export const tool = {
   summary: "Print what binds a path — the documents required for it and the page type specifying it",
-  repos: ["instructions"],
+  repos: ["akasha"],
 } as const
 
 import { existsSync, readFileSync } from "node:fs"
