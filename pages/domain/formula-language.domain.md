@@ -42,3 +42,13 @@ A cycle among a page type's formulas is refused when the page type is checked.
 A formula joins text by writing references into a text literal, and in no other way.
 
 A formula's operators bind in this order, loosest first: `??`, `&&`, comparison, addition, multiplication.
+
+A text literal is written between double quotes, and holds no quote of its own.
+
+Only `true`, `false` and `absent` are words standing for a value.
+
+A formula that names a key its page type does not declare is refused when the page type is checked.
+
+A formula whose types do not meet is refused when the page type is checked.
+
+A formula that passes its check answers a value or absent, and never fails.
