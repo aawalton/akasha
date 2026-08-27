@@ -5,7 +5,6 @@ id: 019dbb6c-51c0-7b3c-b483-0a739f32d9fb
 extends-slug: page
 files: akasha:**/*.temper-build-version.md
 body-shape-slug: empty
-named-for: "{build}-{version-number}"
 owner-slug: account-page
 slug: temper-build-version
 plural-slug: temper-build-versions
