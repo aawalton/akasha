@@ -1,6 +1,6 @@
 export const tool = {
   summary: "Sign the browser-test user in and write the Playwright storage state the browser MCP is seeded with",
-  repos: ["akasha"],
+  path: "browser-test storage-state",
 } as const
 
 import { chmodSync, mkdirSync } from "node:fs"
