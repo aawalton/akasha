@@ -6,8 +6,8 @@ import { resolve } from "node:path"
 import { agreement, refusalFor, targetOf } from "../lib/hook-merge.ts"
 import { installRefusals, installRepos } from "./fixture.ts"
 
-const SCRIPT = "$HOME/code/packages/infra/scripts/local-agent-session-start.sh"
-const OTHER = "$HOME/instructions/tools/hooks/record-epoch.ts"
+const SCRIPT = "$HOME/repos/akasha/tools/hooks/agent-hook-local-agent-session-start.agent-hook.code.attachment.ts"
+const OTHER = "$HOME/repos/akasha/tools/hooks/agent-hook-record-epoch.agent-hook.code.attachment.ts"
 
 function entry(command: string, rest: Record<string, unknown> = {}): Record<string, unknown> {
   return { type: "command", command, ...rest }
@@ -40,14 +40,14 @@ describe("what the merge does to a pair of settings files", () => {
 
   test("the refusal names the hook, the event, and the byte the two part at", () => {
     const message = said(sessionStart(entry(SCRIPT)), sessionStart(entry(`${SCRIPT} `)))
-    expect(message).toContain("local-agent-session-start.sh")
+    expect(message).toContain("agent-hook-local-agent-session-start.agent-hook.code.attachment.ts")
     expect(message).toContain("SessionStart")
     expect(message).toContain(`byte ${SCRIPT.length}`)
   })
 
   test("and quotes the space, which is the only way a trailing one is visible", () => {
     expect(said(sessionStart(entry(SCRIPT)), sessionStart(entry(`${SCRIPT} `)))).toContain(
-      `local-agent-session-start.sh "`
+      `agent-hook-local-agent-session-start.agent-hook.code.attachment.ts "`
     )
   })
 
@@ -128,9 +128,9 @@ function pair(): Pair {
 function runCheck(at: Pair): { code: number; out: string } {
   const proc = Bun.spawnSync({
     cmd: ["bun", `${import.meta.dir}/../run-checks.ts`, "--check", "hooks-agree"],
-    // `AKASHA_ROOT` IS WHAT NAMES THE TEMP REPO. This set `INSTRUCTIONS_ROOT`, which nothing reads:
-    // `hooksAgree` takes its repo tier from `rootFor(repo.roots, AKASHA)`, so every case below read
-    // the live checkout's `settings/agents.json` and never saw the pair the case had written.
+    // `AKASHA_ROOT` IS WHAT NAMES THE TEMP REPO: `hooksAgree` takes its repo tier from
+    // `rootFor(repo.roots, AKASHA)`, so a case that left this alone would read the live checkout's
+    // `settings/agents.json` and never see the pair it had written.
     env: { ...process.env, AKASHA_ROOT: at.root, CLAUDE_CONFIG_DIR: at.configDir },
     stdout: "pipe",
     stderr: "pipe",
@@ -159,7 +159,7 @@ describe("the check, driven as the repo runs it", () => {
       writeFileSync(`${at.configDir}/settings.json`, JSON.stringify(sessionStart(entry(`${SCRIPT} `))))
       const run = runCheck(at)
       expect(run.code).toBe(1)
-      expect(run.out).toContain("local-agent-session-start.sh")
+      expect(run.out).toContain("agent-hook-local-agent-session-start.agent-hook.code.attachment.ts")
       expect(run.out).toContain(`byte ${SCRIPT.length}`)
     } finally {
       at.dispose()

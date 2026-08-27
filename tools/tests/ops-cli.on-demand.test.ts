@@ -121,9 +121,9 @@ async function ops(args: readonly string[], env: Record<string, string> = {}): P
     env: {
       ...process.env,
       CODE_ROOT: root,
-      // `AKASHA_ROOT` NAMES THE FIXTURE TREE. This set `INSTRUCTIONS_ROOT`, which nothing reads, so
-      // the dispatcher globbed its commands out of the live checkout and every case below listed,
-      // rejected and helped on the real `ops` rather than on the commands planted here.
+      // `AKASHA_ROOT` NAMES THE FIXTURE TREE: the dispatcher globs its commands out of the root
+      // this names, so a case that left it alone would list, reject and help on the real `ops`
+      // rather than on the commands planted here.
       AKASHA_ROOT: root,
       ...env,
     },
@@ -164,7 +164,7 @@ describe("what an invocation exits with", () => {
     expect(ran.stderr).toContain("ops: unknown command")
   })
 
-  test("the exit code comes from the code repository's vocabulary, not from a copy here", async () => {
+  test("the exit code comes from the shared vocabulary, not from a copy here", async () => {
     const ran = await ops(["fixture", "boom"])
     expect(ran.exitCode).toBe(3)
   })
