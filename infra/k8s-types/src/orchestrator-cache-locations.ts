@@ -5,14 +5,6 @@ export interface CacheLocation {
   readonly cloneOriginUrl: string
 }
 
-export const WORKER_SUPERVISOR_CACHE: CacheLocation = {
-  backing: "emptyDir",
-  hostPath: "/mnt/orchestrator-cache",
-  hostPathType: "Directory",
-  cloneOriginUrl:
-    "http://x-access-token:${GIT_ACCESS_TOKEN}@git-transport.git.svc.cluster.local:3000/alan/code.git",
-} as const
-
 export const GIT_TRANSPORT_CACHE: CacheLocation = {
   backing: "emptyDir",
   hostPath: "/mnt/git-transport-cache",
