@@ -1,6 +1,6 @@
 export const tool = {
   summary: "Print the domain DAG, composed from the pages now",
-  repos: ["instructions"],
+  repos: ["akasha"],
 } as const
 import { readFileSync } from "node:fs"
 import { listDocuments } from "./lib/check.ts"
@@ -20,9 +20,9 @@ further up its own branch is printed once and marked, so a cycle terminates rath
 running away.
 
 Usage:
-  bun ~/repos/instructions/tools/dag.ts
-  bun ~/repos/instructions/tools/dag.ts --domain <slug>
-  bun ~/repos/instructions/tools/dag.ts --up <slug>
+  bun ~/repos/akasha/tools/dag.ts
+  bun ~/repos/akasha/tools/dag.ts --domain <slug>
+  bun ~/repos/akasha/tools/dag.ts --up <slug>
 
 Flags:
   --domain <slug>  Root the print at this domain instead of at the graph's roots. Repeatable.

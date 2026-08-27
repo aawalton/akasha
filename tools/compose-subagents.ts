@@ -1,6 +1,6 @@
 export const tool = {
   summary: "Render the delegate definitions the `claude --agents` flag takes",
-  repos: ["instructions"],
+  repos: ["akasha"],
 } as const
 import { existsSync, readFileSync, readdirSync, writeFileSync } from "node:fs"
 import { render } from "./compose-notices.ts"
@@ -38,7 +38,7 @@ Wrapping is the author's convenience and not part of the text, exactly as it is 
 between paragraphs survives as one.
 
 Usage:
-  bun ~/repos/instructions/tools/compose-subagents.ts [--out <path>]
+  bun ~/repos/akasha/tools/compose-subagents.ts [--out <path>]
 
 Flags:
   --out <path>   Write there rather than to stdout.
