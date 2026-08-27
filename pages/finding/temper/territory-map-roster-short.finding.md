@@ -8,9 +8,9 @@ domain-slug: domain/946
 
 # Claim
 
-`packages/temper/addons/territory.map.json` has fallen out of correspondence with the
+`tools/lib/check-workflow/territory-map.json` has fallen out of correspondence with the
 addon roster it declares itself derived from. `TemperSales`
-(`packages/temper/shared/capture/sales/addon`) stands on the roster `bun ops temper
+(`temper/shared-capture-sales-addon`) stands on the roster `bun ops temper
 addon list` prints and has no node in the map, so it sits outside both ratchets the map
 parameterises and nothing reports its absence.
 
@@ -22,7 +22,7 @@ temper addon list`."
 Run on 2026-08-07 against `~/code` at `383bf60d35`, that command prints 49 addons. The
 map holds 48 `"addon":` nodes. Sorting both name lists and diffing them leaves exactly
 one line: `TemperSales`, on the roster and absent from the map. Its package directory
-exists at `packages/temper/shared/capture/sales/addon`, carrying `addon.json`,
+exists at `temper/shared-capture-sales-addon`, carrying `addon.json`,
 `package.json`, `src` and `tsconfig.json`, so this is a live addon rather than a stale
 roster row.
 
@@ -32,7 +32,7 @@ is the one addon the map does not mention at all.
 
 Nothing enforces the correspondence. Grepping the code repo for readers of the map
 returns `held-addon-structure.ts`, `ti-clean-source-zero.ts`, their two `check-*`
-entries, and the two config shims under `packages/infra/checks/src/lib/`. Each of those
+entries, and the two config shims under `tools/lib/check-workflow/`. Each of those
 enumerates the map's own nodes and filters them — `check-held-addon-structure` over
 `state: "held"`, `check-ti-clean-source-zero` over `tiClean: true`. Neither walks the
 roster, so an addon with no node is not a violation of either; it is simply never
