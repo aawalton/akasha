@@ -9,4 +9,5 @@ person-slug: alan
 on-call: true
 registration-account: aawalton
 claude-code-session-uuid: 7abe7a65-b517-4679-957e-867e1d844444
+transcript-path: /var/home/walton/.claude/accounts/aawalton/projects/-var-home-walton-repos/7abe7a65-b517-4679-957e-867e1d844444.jsonl
 ---
