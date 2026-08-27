@@ -14,7 +14,6 @@ parent-slug: aine-global
 - Every node type and edge type the graph carries is worth what it costs.
 - No node the graph holds asserts something that is not true.
 - No edge the graph draws asserts something that is not true.
-- The old graph is gone.
 - A producer can answer about one node without producing every node.
 - Nothing the graph has already worked out is worked out again.
 - No held answer outlives the shape it was written in.
@@ -22,21 +21,15 @@ parent-slug: aine-global
 
 # Design
 
-Two graphs stand in akasha. What separates them is duplication rather than location, and this initiative ends with one and nothing shadowing it.
-
-The old graph is deleted rather than translated. Its 129 types are not a specification to re-derive: anything needed is written fresh on the new stack when something needs it, which costs less than carrying an old type across.
+One graph is left in akasha. The old engine is deleted rather than translated, and what its remaining callers reach is a stub that refuses by name.
 
 A type earns its place by answering a question something is asking now. Nothing is built for a case that is not here.
 
-The intents are listed in the order they close. An edge's truth rests on both its ends, so a node asserting something false makes every edge touching it false as well. The last is worked only once every line above it is met, there being no point shaping answers over a set still moving or a graph still doubled.
+The intents are listed in the order they close. An edge's truth rests on both its ends, so a node asserting something false makes every edge touching it false as well. The last is worked only once every line above it is met, there being no point shaping answers over a set still moving.
 
 Holding an answer and dropping a stale one are two halves of one thing, so they stand next to each other.
 
 ## How the work is shaped
-
-The `code` collapse rests on the attachment rename. The `beside` producer and the `code` edge page go once every migrating type declares its attachment, and the three places that recompute a page's code path give way to the declaration at the same time.
-
-The old graph goes whole rather than type by type, nothing in the new set being translated from it. What breaks on its removal is rewritten against the new set or deleted with the checks that own it.
 
 The last four intents are one body of work rather than four. Targeting, holding answers, dropping stale ones and answering more than one hop are all the same index, and splitting them between seats yields four half-indexes.
 
@@ -100,25 +93,17 @@ A node names the repository it lives in, by Alan's ruling on 2026-08-26. A thing
 
 # Notes
 
-Two pages have a `.ts` sharing their folder and stem: `graph/edge/file-kind.graph-edge.md` and `readouts/ring/ring.domain.md`. Both are collisions rather than pairs, so every edge the `beside` producer now draws is false and none of the true pairs draws one.
-
-Three places work out where a page's code sits, each for itself: `checks-system/checks.ts`, `tools/ops/akasha.ts`, and the `loader` producer, which duplicates `beside.ts` line for line before emitting an `import` edge.
+91 files hold a stub where the old engine was: 56 in `infra/cluster-checks`, 32 in `tools/lib`, two audits and one test fixture. Each refuses by name when called. `infra/cluster-checks` does not typecheck and every `ops` command reaching it already fails, so it is kept for Alan and thea to ablation-migrate rather than for anything it does.
 
 `tools/required-reading.ts` builds four maps in one loop — by repository and path, by file extension, by file-purpose ending, and by body-section heading — and each takes a plain `set`, so a second page claiming a key another page already holds silently replaces it. Two `readout-widget` pairs do, leaving one page of each pair unwarranted. A declaration that is displaced reads exactly like one never written, which is what makes it expensive to find.
 
 `code-loaded-by` is written `type: string`, and no page-property-type page defines `string`. That is why it draws no relation edge and earns no required-reading warrant.
 
-`old-graph-node-deriver` has no pages and `tools/lib/graph/derivers/` does not exist, yet its page type and six property definitions remain. Thirteen of the fifty `*.edge.producer.ts` files have no `old-graph-edge-producer` page.
+`tools/hooks/block-whole-suite-run.ts` and `tools/hooks/state-errand.ts` are registered in `settings/agents.json` with no page of any type.
 
-`tools/hooks/block-whole-suite-run.sh` and `tools/hooks/state-errand.ts` are registered in `settings/agents.json` with no page of any type.
+`ops tests run tools` reports 16 failures and 2 errors, the same set before and after this initiative's landings.
 
-The hooks split `.ts` and `.sh`, while `attachment` takes one extension rather than a set. No attachment key anywhere on disk spans two extensions, so the shell hooks become TypeScript rather than the declaration becoming plural, by Alan's ruling on 2026-08-27.
-
-A renamed code file draws no relation edge, an attachment being `type: text` and the frontmatter producer drawing from a property's type. The `beside` producer meanwhile matches no true pair, every one having lost the bare `{stem}.ts` it looked for. Both facts hold until an attachment property draws an edge to the file it names.
-
-The named suites report twenty-three failures in three groups, none of them this initiative's: fixtures naming `repos/instructions` after the fold, `relation-resolves` fixtures carrying no `page-type` page since the registry was rebuilt from the index, and an `ops mv` error message reworded without its test.
-
-The root typecheck reports about 1,294 errors, nearly all `TS6307` and `TS5097` project-reference failures across `shared/*`. It reported more before this initiative began, so nothing here caused it.
+The root typecheck reports 836 errors, nearly all `TS6307` and `TS5097` project-reference failures across `shared/*`. Neither `tools/lib/graph/` nor `infra/cluster-checks/` is in the root tsconfig references, so no error in either reaches that number.
 
 The node line is nearly free today, the only node type being `file` and its nodes coming from what git tracks. It stops being free as further node types land, each claiming something a file's existence does not settle.
 
