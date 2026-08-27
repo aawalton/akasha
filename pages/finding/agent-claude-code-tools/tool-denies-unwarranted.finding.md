@@ -8,7 +8,7 @@ domain-slug: domain/agent-claude-code-tools
 
 # Claim
 
-Every one of the fourteen entries in the `deny` array of `settings/agents.json` is warranted by no document in the instructions repo. The array is the only place each denial is stated, and it records nothing about what a tool was shut off for or what would reopen one. The domain whose subject is which Tools an agent can call, `agent-claude-code-tools`, carries a Definition and nothing else.
+Every one of the fourteen entries in the `deny` array of `settings/agents.json` is warranted by no document in akasha. The array is the only place each denial is stated, and it records nothing about what a tool was shut off for or what would reopen one. The domain whose subject is which Tools an agent can call, `agent-claude-code-tools`, carries a Definition and nothing else.
 
 # Evidence
 
@@ -22,4 +22,4 @@ Searched `tools/`, `services/`, `turn-end/` and the rest of `settings/` for elev
 
 `settings/tool-access.json` states `"disallowedTools": []`, so it duplicates none of these and warrants none of them either.
 
-Not established: what fault, if any, prompted any individual denial. I read the commits, not the sessions around them. Not established: whether the four `Artifact` matches outside `pages/` bear on the denied tool. Not searched: the memory repo, the books repo, or any repository other than instructions.
+Not established: what fault, if any, prompted any individual denial. I read the commits, not the sessions around them. Not established: whether the four `Artifact` matches outside `pages/` bear on the denied tool. Not searched: the memory repo, the books repo, or any repository other than akasha.

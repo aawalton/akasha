@@ -12,7 +12,7 @@ Four words carrying a sense this system has already settled about a seat still s
 
 # Evidence
 
-Counted on 2026-08-22 across `tools/` and `services/` in the instructions repo, by matching each word with its surrounding token and grouping the results by that token.
+Counted on 2026-08-22 across `tools/` and `services/` in akasha, by matching each word with its surrounding token and grouping the results by that token.
 
 `revive` — 179 occurrences of the bare word, 48 of `revived`, and named compounds beside them: `reviveCalls` 26, `ReviveVerifySignal` 14, `reviveTimeoutMs` 13, `decideRevivePlacement` 12, `decideReviveLaunch` 11, `reviveAtMs` 10. No page under `pages/barred-meaning/` bars it, and no page in the corpus carries a Definition bullet for it. Four pages name it in passing, none defining it. This is the one of the four that fails Plain Or Declared rather than carrying a barred sense.
 
@@ -24,4 +24,4 @@ Counted on 2026-08-22 across `tools/` and `services/` in the instructions repo, 
 
 `spawned` — no page under `pages/barred-meaning/` stands for `spawn` or `spawned`, so that withdrawal is written nowhere I found.
 
-Not established: whether every individual occurrence carries the barred sense. I grouped by token and by directory and read a sample of lines rather than all of them, so the per-word counts are of the word and not yet of the sense, except where the directories separate them as they do for `wake`. Not searched: the code repository, the memory repo or the books repo. Not established: whether `revive` is defined outside `pages/`.
+Not established: whether every individual occurrence carries the barred sense. I grouped by token and by directory and read a sample of lines rather than all of them, so the per-word counts are of the word and not yet of the sense, except where the directories separate them as they do for `wake`. Not searched: the memory repo or the books repo. Not established: whether `revive` is defined outside `pages/`.
