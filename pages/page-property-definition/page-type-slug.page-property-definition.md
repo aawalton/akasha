@@ -15,7 +15,3 @@ domain-parent-slug: domain/page-property-universal
 # Definition
 
 - **Page type slug** — the page type a page states it is.
-
-# Design
-
-Where a page sits is incidental: the page type it states is what it is.
