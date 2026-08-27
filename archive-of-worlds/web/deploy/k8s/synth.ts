@@ -55,7 +55,7 @@ function webDeploymentYaml(): string {
               name: APP_NAME,
               image: BUN_RUNTIME_IMAGE,
               imagePullPolicy: "IfNotPresent",
-              workingDir: orchestratorCacheEntrypointPath("packages/archive-of-worlds/web"),
+              workingDir: orchestratorCacheEntrypointPath("archive-of-worlds/web"),
               command: ["bun", "run", "start"],
               ports: [{ containerPort: 3000, protocol: "TCP" }],
               envFrom: [{ secretRef: { name: SECRET_NAME } }],

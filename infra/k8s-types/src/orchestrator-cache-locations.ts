@@ -9,7 +9,7 @@ export const GIT_TRANSPORT_CACHE: CacheLocation = {
   backing: "emptyDir",
   hostPath: "/mnt/git-transport-cache",
   hostPathType: "DirectoryOrCreate",
-  cloneOriginUrl: "/data/git/repositories/alan/code.git",
+  cloneOriginUrl: "/data/git/repositories/alan/akasha.git",
 } as const
 
 export const ALANWALTON_WEB_CACHE: CacheLocation = {
@@ -17,7 +17,7 @@ export const ALANWALTON_WEB_CACHE: CacheLocation = {
   hostPath: "/var/alanwalton-web-cache",
   hostPathType: "DirectoryOrCreate",
   cloneOriginUrl:
-    "http://x-access-token:${GIT_ACCESS_TOKEN}@git-transport.git.svc.cluster.local:3000/alan/code.git",
+    "http://x-access-token:${GIT_ACCESS_TOKEN}@git-transport.git.svc.cluster.local:3000/alan/akasha.git",
 } as const
 
 export const ARCHIVE_OF_WORLDS_WEB_CACHE: CacheLocation = {
@@ -25,7 +25,7 @@ export const ARCHIVE_OF_WORLDS_WEB_CACHE: CacheLocation = {
   hostPath: "/var/archive-of-worlds-web-cache",
   hostPathType: "DirectoryOrCreate",
   cloneOriginUrl:
-    "http://x-access-token:${GIT_ACCESS_TOKEN}@git-transport.git.svc.cluster.local:3000/alan/code.git",
+    "http://x-access-token:${GIT_ACCESS_TOKEN}@git-transport.git.svc.cluster.local:3000/alan/akasha.git",
 } as const
 
 export const AUDHDALAN_WEB_CACHE: CacheLocation = {
@@ -33,7 +33,7 @@ export const AUDHDALAN_WEB_CACHE: CacheLocation = {
   hostPath: "/var/audhdalan-web-cache",
   hostPathType: "DirectoryOrCreate",
   cloneOriginUrl:
-    "http://x-access-token:${GIT_ACCESS_TOKEN}@git-transport.git.svc.cluster.local:3000/alan/code.git",
+    "http://x-access-token:${GIT_ACCESS_TOKEN}@git-transport.git.svc.cluster.local:3000/alan/akasha.git",
 } as const
 
 export const TEMPER_WEB_CACHE: CacheLocation = {
@@ -41,7 +41,7 @@ export const TEMPER_WEB_CACHE: CacheLocation = {
   hostPath: "/var/temper-web-cache",
   hostPathType: "DirectoryOrCreate",
   cloneOriginUrl:
-    "http://x-access-token:${GIT_ACCESS_TOKEN}@git-transport.git.svc.cluster.local:3000/alan/code.git",
+    "http://x-access-token:${GIT_ACCESS_TOKEN}@git-transport.git.svc.cluster.local:3000/alan/akasha.git",
 } as const
 
 export const SMILINGJENNY_WEB_CACHE: CacheLocation = {
@@ -49,7 +49,7 @@ export const SMILINGJENNY_WEB_CACHE: CacheLocation = {
   hostPath: "/var/smilingjenny-web-cache",
   hostPathType: "DirectoryOrCreate",
   cloneOriginUrl:
-    "http://x-access-token:${GIT_ACCESS_TOKEN}@git-transport.git.svc.cluster.local:3000/alan/code.git",
+    "http://x-access-token:${GIT_ACCESS_TOKEN}@git-transport.git.svc.cluster.local:3000/alan/akasha.git",
 } as const
 
 export const ATLAS_WEB_CACHE: CacheLocation = {
@@ -57,7 +57,7 @@ export const ATLAS_WEB_CACHE: CacheLocation = {
   hostPath: "/var/atlas-web-cache",
   hostPathType: "DirectoryOrCreate",
   cloneOriginUrl:
-    "http://x-access-token:${GIT_ACCESS_TOKEN}@git-transport.git.svc.cluster.local:3000/alan/code.git",
+    "http://x-access-token:${GIT_ACCESS_TOKEN}@git-transport.git.svc.cluster.local:3000/alan/akasha.git",
 } as const
 
 export const ORCHESTRATOR_CACHE_MOUNT_PATH = "/app"
