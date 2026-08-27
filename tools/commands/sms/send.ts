@@ -1,12 +1,10 @@
 export const summary = "Send an SMS via the Telnyx toll-free number (--to E.164, --text body)"
 
 import type { CommandHelp } from "../../ops/surface.ts"
-import { codeModule } from "../../lib/code-import.ts"
+import { buildTelnyxSendRequest, parseTelnyxSendResponse } from "@alanwalton/sms-core/telnyx-send"
+import { requireEnv } from "@shared/utils-narrow/validate"
 import { inputError, operationalError } from "../../lib/exit.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
-
-const SMS_CORE = "@alanwalton/sms-core/telnyx-send"
-const VALIDATE = "@shared/utils-narrow/validate"
 
 export const help: CommandHelp = {
   positionals: [
@@ -62,44 +60,15 @@ export const help: CommandHelp = {
   ],
 }
 
-interface TelnyxSendRequest {
-  readonly url: string
-  readonly method: string
-  readonly headers: Readonly<Record<string, string>>
-  readonly body: string
-}
-
-type ParsedSendResponse =
-  | { readonly ok: true; readonly id: string }
-  | { readonly ok: false; readonly reason: string }
-
-interface SmsCore {
-  readonly buildTelnyxSendRequest: (args: {
-    readonly apiKey: string
-    readonly from: string
-    readonly to: string
-    readonly text: string
-    readonly baseUrl: string | undefined
-  }) => TelnyxSendRequest
-  readonly parseTelnyxSendResponse: (raw: unknown) => ParsedSendResponse
-}
-
-interface Validate {
-  readonly requireEnv: (name: string) => string
-}
-
 export default async function smsSend(args: readonly string[]): Promise<void> {
   const parsed = parseArgs(help, args)
   const to = parsed.requireString("--to")
   const text = parsed.requireString("--text")
   const json = parsed.boolean("--json")
 
-  const core = await codeModule<SmsCore>(SMS_CORE)
-  const validate = await codeModule<Validate>(VALIDATE)
-
   const requireSmsEnv = async (name: string): Promise<string> => {
     try {
-      return validate.requireEnv(name)
+      return requireEnv(name)
     } catch {
       throw inputError(
         `${name} is not set — add it to ~/.secrets.env (Telnyx credential; never commit, never log)`
@@ -111,7 +80,7 @@ export default async function smsSend(args: readonly string[]): Promise<void> {
   const from = parsed.string("--from") ?? (await requireSmsEnv("TELNYX_FROM_NUMBER"))
   const baseUrl = parsed.string("--base-url")
 
-  const req = core.buildTelnyxSendRequest({ apiKey, from, to, text, baseUrl })
+  const req = buildTelnyxSendRequest({ apiKey, from, to, text, baseUrl })
 
   let res: Response
   try {
@@ -128,7 +97,7 @@ export default async function smsSend(args: readonly string[]): Promise<void> {
   } catch {
     throw operationalError(`telnyx send: HTTP ${res.status} with non-JSON response`)
   }
-  const parsedRes = core.parseTelnyxSendResponse(bodyJson)
+  const parsedRes = parseTelnyxSendResponse(bodyJson)
   if (!res.ok) {
     throw operationalError(`telnyx send: HTTP ${res.status}`)
   }
