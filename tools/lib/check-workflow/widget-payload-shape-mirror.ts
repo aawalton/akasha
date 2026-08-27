@@ -164,7 +164,7 @@ export interface ShapeMirrorMember {
   readonly examine: () => readonly PayloadShapeViolation[]
 }
 
-const MIRRORS_FILE = "infra/cluster-checks/src/lib/widget-payload-shape-mirror.ts"
+const MIRRORS_FILE = "tools/lib/check-workflow/widget-payload-shape-mirror.ts"
 
 export function shapeMirrorMembers(args: {
   readonly swiftSources: ReadonlyMap<string, string>
