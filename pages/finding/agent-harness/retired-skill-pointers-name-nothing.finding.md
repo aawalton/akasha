@@ -8,7 +8,7 @@ domain-slug: domain/agent-harness
 
 # Claim
 
-Two of the four replacements the retired-skill guard offers name a document that exists in no repository. An agent whose prompt opens with a retired skill slug is refused and sent to read something unfindable, so the refusal costs it a search that cannot end. The guard's job is to replace a husk with a live route, and for half its entries the route is another husk.
+One of the four replacements the retired-skill guard offers names a document that exists nowhere. An agent whose prompt opens with a retired skill slug is refused and sent to read something unfindable, so the refusal costs it a search that cannot end. The guard's job is to replace a husk with a live route, and for that entry the route is another husk.
 
 # Evidence
 

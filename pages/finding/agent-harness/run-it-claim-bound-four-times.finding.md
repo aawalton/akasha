@@ -8,7 +8,7 @@ domain-slug: domain/agent-harness
 
 # Claim
 
-One claim — answer a question about the machinery by running it rather than by reading its source — stands separately on four task surfaces in near-identical prose, and on no domain. Two of the four share a sentence word for word. No surface is the original, so a reader meeting two of them has nothing that says which drifted, and a seat whose task is none of the four holds the claim from nowhere.
+One claim — answer a question about the machinery by running it rather than by reading its source — stands separately on three task surfaces in near-identical prose, and on no domain. Two of the three share a sentence word for word. No surface is the original, so a reader meeting two of them has nothing that says which drifted, and a seat whose task is none of the three holds the claim from nowhere.
 
 # Evidence
 
