@@ -1,33 +1,33 @@
 ---
 id: 6254999d-b946-5a85-8130-6f9a88d662da
 page-type-slug: finding
-title: "A code-repo file named as a raw string in a workflow template reads as dead code"
-domain-slug: repo/instructions-repo
+title: "A file named as a raw string in a workflow template reads as dead code"
+domain-slug: repo/akasha-repo
 ---
 
 # Claim
 
-And the migrated workflow templates under `pages/workflow-template/` name code-repo files as raw
-strings inside shell commands, which resolve only when the CI pod runs the step.
+The workflow templates under `pages/workflow-template/` name files as raw strings
+inside shell commands, which resolve only when the CI pod runs the step.
 
-The consequence is that a code-repo file can be load-bearing for the instructions repo
-while every instrument in the code repo reports it as unreferenced.
+The consequence is that a file can be load-bearing for the pipeline while every
+instrument in this repository reports it as unreferenced.
 
 # Evidence
 
-Taken on 2026-08-23 against the code repo at branch `change-19458`, one commit after
-`9d39e29699` removed `packages/infra/workflow-dsl` and 51 `*.workflow.ts` files.
+`pages/workflow-template/workflow-preparation.workflow-template.declaration.attachment.ts`
+runs
 
-Six code-repo files are named as raw strings inside migrated workflow templates and
-run in a CI pod rather than being imported anywhere:
+    bun "$AKASHA_ROOT/tools/lib/pipeline-run/write-changed-files.ts"
 
-    packages/infra/checks/src/checks/check-build-graph.ts
-    packages/infra/checks/src/checks/check-workflow-surface.ts
-    packages/infra/checks/src/run-check.ts
-    packages/infra/ci/pipeline/src/lib/write-changed-files.ts
-    packages/infra/ci/pipeline/src/lib/write-configs-cache.ts
-    packages/infra/ci/workflows/src/generate-rbac.ts
+as text inside a shell command. Nothing in the repository imports
+`tools/lib/pipeline-run/write-changed-files.ts`, so an import search reports it as
+dead. It is not.
 
-`pages/workflow-template/workflow-preparation.declaration.attachment.ts:206` runs
-`bun packages/infra/ci/pipeline/src/lib/write-configs-cache.ts`. That file has no
-importer inside the code repo, so an import search reports it as dead; it is not.
+This is not one file. A template names an executable this way wherever a step runs
+one, and a path spelled inside a shell string is invisible to the compiler, to an
+import graph, and to any unused-code sweep built on either. Interpolating the tree
+root into the string hides it from a plain path search as well.
+
+Nothing reports which files are reached only this way, so nothing would notice one
+going until the pipeline ran.
