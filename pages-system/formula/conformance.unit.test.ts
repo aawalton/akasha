@@ -3,21 +3,16 @@
  *
  * `cases/cases.ts` is plain data written from the specification alone, bound to
  * no function. This file is the binding: it turns each case into a call on
- * `checkFormula` and `runFormula`, and holds the answer against what the case
- * says. A failure names the case and the line the claim is written on, so a
- * disagreement is settled by opening the page rather than by reading either
- * side's code.
+ * `checkFormula`, `checkPageType` and `runFormula`, and holds the answer
+ * against what the case says. A failure names the case and the line the claim
+ * is written on, so a disagreement is settled by opening the page rather than
+ * by reading either side's code.
  *
- * Two things a case asks for stand outside `checkFormula`, which is given a
- * shape of declared types and never sees another key's formula. Both are built
- * here, over what a checked formula already offers:
- *
- *  - A page type's check, which is every computed key's own formula checked,
- *    and then a cycle looked for among what those formulas read. `Checked.reads`
- *    is what that is looked for in.
- *  - A computed key's value, worked out before the formula under test is run
- *    and put under its key, so a formula names a computed key exactly as it
- *    names a stored one.
+ * One thing a case asks for stands outside the evaluator and is built here: a
+ * computed key's value, worked out before the formula under test is run and put
+ * under its key, so a formula names a computed key exactly as it names a stored
+ * one. The order that is worked out in comes from `Checked.reads`, the same
+ * thing `checkPageType` finds a cycle in.
  */
 
 import { expect, test } from "bun:test"
@@ -28,8 +23,16 @@ import type {
   Shape as CaseShape,
 } from "./cases/cases.ts"
 import { cases, citationText } from "./cases/cases.ts"
-import type { Checked, DeclaredType, Refused, ScalarKind, Shape, Value } from "./formula.ts"
-import { checkFormula, runFormula } from "./formula.ts"
+import type {
+  Checked,
+  DeclaredType,
+  PageType,
+  Refused,
+  ScalarKind,
+  Shape,
+  Value,
+} from "./formula.ts"
+import { checkFormula, checkPageType, runFormula } from "./formula.ts"
 
 // ---------------------------------------------------------------------------
 // What a case says, in the terms the evaluator takes
@@ -48,6 +51,17 @@ const declaredTypeOf = (type: FormulaType): DeclaredType =>
 const shapeOf = (shape: CaseShape): Shape =>
   Object.fromEntries(
     Object.entries(shape).map(([key, declared]) => [key, declaredTypeOf(declared.type)])
+  )
+
+/** The page type a case declares, formulas and all. */
+const pageTypeOf = (shape: CaseShape): PageType =>
+  Object.fromEntries(
+    Object.entries(shape).map(([key, declared]) => [
+      key,
+      declared.formula === undefined
+        ? { type: declaredTypeOf(declared.type) }
+        : { type: declaredTypeOf(declared.type), formula: declared.formula },
+    ])
   )
 
 /** A value the case gives, with an instant read off its ISO spelling. */
@@ -74,70 +88,6 @@ const valueOf = (given: FormulaValue, declared: DeclaredType | undefined): Value
 /** The moment the corpus names, in the evaluator's spelling. */
 const momentOf = (refused: Refused): "read" | "check" =>
   refused.moment === "reading" ? "read" : "check"
-
-// ---------------------------------------------------------------------------
-// The page type's check, which `checkFormula` is one formula of
-// ---------------------------------------------------------------------------
-
-/** A refusal made here rather than by the evaluator, for a cycle it cannot see. */
-const cycleRefusal = (ring: readonly string[]): Refused => ({
-  ok: false,
-  moment: "checking",
-  message: `a cycle among the formulas of ${ring.map((key) => `\`${key}\``).join(", ")}`,
-  at: { offset: 0, line: 1, column: 1 },
-})
-
-/** The first ring among the computed keys, following what each formula reads. */
-const ringAmong = (computed: ReadonlyMap<string, Checked>): readonly string[] | null => {
-  const open: string[] = []
-  const shut = new Set<string>()
-  const walk = (key: string): readonly string[] | null => {
-    const standing = open.indexOf(key)
-    if (standing !== -1) return open.slice(standing)
-    if (shut.has(key)) return null
-    const checked = computed.get(key)
-    if (checked === undefined) return null
-    open.push(key)
-    for (const read of checked.reads) {
-      const ring = walk(read)
-      if (ring !== null) return ring
-    }
-    open.pop()
-    shut.add(key)
-    return null
-  }
-  for (const key of computed.keys()) {
-    const ring = walk(key)
-    if (ring !== null) return ring
-  }
-  return null
-}
-
-type PageType =
-  | { readonly ok: true; readonly computed: ReadonlyMap<string, Checked> }
-  | { readonly ok: false; readonly reading: Refused | null; readonly checking: Refused | null }
-
-/** Every computed key's formula checked, and then the ring looked for. */
-const checkPageType = (given: CaseShape): PageType => {
-  const shape = shapeOf(given)
-  const computed = new Map<string, Checked>()
-  let reading: Refused | null = null
-  let checking: Refused | null = null
-  for (const [key, declared] of Object.entries(given)) {
-    if (declared.formula === undefined) continue
-    const checked = checkFormula(declared.formula, shape)
-    if (checked.ok) {
-      computed.set(key, checked)
-      continue
-    }
-    if (checked.moment === "reading") reading = reading ?? checked
-    else checking = checking ?? checked
-  }
-  if (reading !== null || checking !== null) return { ok: false, reading, checking }
-  const ring = ringAmong(computed)
-  if (ring !== null) return { ok: false, reading: null, checking: cycleRefusal(ring) }
-  return { ok: true, computed }
-}
 
 /** What the page holds, with every computed key worked out and put under its key. */
 const propertiesFor = (
@@ -203,15 +153,16 @@ type Answer = { readonly refused: Refused } | { readonly value: Value }
 
 /** The evaluator's own answer, read at the moment the earliest fault is found. */
 const answer = (one: FormulaCase): Answer => {
-  const shape = shapeOf(one.shape)
-  const checked = checkFormula(one.formula, shape)
+  const checked = checkFormula(one.formula, shapeOf(one.shape))
   if (!checked.ok && checked.moment === "reading") return { refused: checked }
-  const pageType = checkPageType(one.shape)
-  if (!pageType.ok && pageType.reading !== null) return { refused: pageType.reading }
+  const pageType = checkPageType(pageTypeOf(one.shape))
+  if (!pageType.ok && pageType.moment === "reading") return { refused: pageType }
   if (!checked.ok) return { refused: checked }
-  if (!pageType.ok) return { refused: pageType.checking as Refused }
+  if (!pageType.ok) return { refused: pageType }
   const now = one.now === undefined ? 0 : Date.parse(one.now)
-  return { value: runFormula(checked, { now, properties: propertiesFor(one, pageType.computed, now) }) }
+  return {
+    value: runFormula(checked, { now, properties: propertiesFor(one, pageType.computed, now) }),
+  }
 }
 
 /**

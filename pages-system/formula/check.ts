@@ -4,6 +4,12 @@
  * Checking refuses a formula naming a key the shape does not declare, and a
  * formula whose types do not meet. What passes answers a value or absent, and
  * never fails.
+ *
+ * Two further faults are found at this same moment and are true of a page
+ * type's formulas together rather than of any one of them: a formula answering
+ * a kind other than the type its property declares, and a cycle among the
+ * formulas. Neither can be seen from one tree, so what finds them stands at the
+ * bottom of this file and `checkPageType` puts it to work.
  */
 
 import type { DeclaredType, Refused, Shape, ValueType } from "./formula.ts"
@@ -342,4 +348,63 @@ export const checkTree = (tree: Expression, shape: Shape, source: string): Typed
     }
     throw thrown
   }
+}
+
+// ---------------------------------------------------------------------------
+// What holds of a page type's formulas together rather than of any one of them
+// ---------------------------------------------------------------------------
+
+/**
+ * How a formula's answer differs from the type its property declares, or null
+ * where it meets it.
+ *
+ * A formula that only ever answers absent meets any declared type, the same way
+ * an always-absent side meets any operator: the page holds nothing under that
+ * key, and nothing is of no kind.
+ */
+export const otherKindThanDeclared = (
+  key: string,
+  answers: ValueType,
+  declared: DeclaredType
+): string | null => {
+  if (answers.holds === null || sameType(answers.holds, declared)) return null
+  return `\`${key}\` is declared ${an(nameOf(declared))}, and its formula answers ${an(nameOf(answers.holds))}`
+}
+
+/** How a cycle is named, in the terms the page type was written in. */
+export const cycleAmong = (ring: readonly string[]): string =>
+  `a cycle among the formulas of ${ring.map((key) => `\`${key}\``).join(", ")}`
+
+/**
+ * The first ring among a page type's computed keys, following what each formula
+ * reads, or null where there is none.
+ *
+ * A key some formula reads but no formula computes ends a path rather than
+ * standing on one, so it is walked no further.
+ */
+export const ringAmong = (
+  reads: ReadonlyMap<string, readonly string[]>
+): readonly string[] | null => {
+  const open: string[] = []
+  const shut = new Set<string>()
+  const walk = (key: string): readonly string[] | null => {
+    const standing = open.indexOf(key)
+    if (standing !== -1) return open.slice(standing)
+    if (shut.has(key)) return null
+    const named = reads.get(key)
+    if (named === undefined) return null
+    open.push(key)
+    for (const read of named) {
+      const ring = walk(read)
+      if (ring !== null) return ring
+    }
+    open.pop()
+    shut.add(key)
+    return null
+  }
+  for (const key of reads.keys()) {
+    const ring = walk(key)
+    if (ring !== null) return ring
+  }
+  return null
 }

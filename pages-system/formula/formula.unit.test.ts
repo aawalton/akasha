@@ -2,6 +2,10 @@ import { expect, test } from "bun:test"
 import {
   type Checked,
   checkFormula,
+  type CheckedPageType,
+  checkPageType,
+  type PageType,
+  type PageTypeRefused,
   runFormula,
   type Shape,
   type Value,
@@ -34,6 +38,23 @@ const checked = (text: string): Checked => {
 }
 
 const answer = (text: string): Value => runFormula(checked(text), values)
+
+const numberType = { kind: "number" } as const
+const textType = { kind: "text" } as const
+
+/** A page type that stands, for a test asking what it hands back. */
+const standing = (pageType: PageType): CheckedPageType => {
+  const said = checkPageType(pageType)
+  if (!said.ok) throw new Error(`refused: ${said.message}`)
+  return said
+}
+
+/** A page type that does not stand, for a test asking why. */
+const refused = (pageType: PageType): PageTypeRefused => {
+  const said = checkPageType(pageType)
+  if (said.ok) throw new Error("this page type was expected not to stand")
+  return said
+}
 
 test("a formula that passes its check reports what it answers", () => {
   expect(checked("{points} + 1").type).toEqual({ holds: { kind: "number" }, absent: true })
@@ -103,13 +124,103 @@ test("a formula reads as a stranger would take it, down the whole precedence lad
 })
 
 test("a whole formula of the kind a page type would carry works out", () => {
-  const standing = checked(
+  const held = checked(
     'case(hoursBetween(now(), {due}) > 24 -> "far off", {settled} -> "settled", otherwise -> "open")'
   )
-  expect([...standing.reads].sort()).toEqual(["due", "settled"])
-  expect(runFormula(standing, values)).toEqual({ kind: "text", text: "settled" })
-  expect(runFormula(standing, { now: 99999999, properties: values.properties })).toEqual({
+  expect([...held.reads].sort()).toEqual(["due", "settled"])
+  expect(runFormula(held, values)).toEqual({ kind: "text", text: "settled" })
+  expect(runFormula(held, { now: 99999999, properties: values.properties })).toEqual({
     kind: "text",
     text: "far off",
   })
+})
+
+test("a checked page type hands back the checked formula filling each computed key", () => {
+  const said = standing({
+    count: { type: numberType },
+    doubled: { type: numberType, formula: "{count} * 2" },
+  })
+  expect([...said.computed.keys()]).toEqual(["doubled"])
+  const over = { now: 0, properties: { count: { kind: "number", number: 6 } as Value } }
+  expect(runFormula(said.computed.get("doubled") as Checked, over)).toEqual({
+    kind: "number",
+    number: 12,
+  })
+})
+
+test("a formula answering a kind other than the type its property declares is refused", () => {
+  const said = refused({
+    count: { type: numberType },
+    mislabelled: { type: textType, formula: "{count} + 1" },
+  })
+  expect(said.moment).toBe("checking")
+  expect(said.keys).toEqual(["mislabelled"])
+  for (const word of ["mislabelled", "text", "number"]) {
+    expect(said.message).toContain(word)
+  }
+})
+
+test("a formula answering the type its property declares stands", () => {
+  const said = standing({
+    count: { type: numberType },
+    doubled: { type: numberType, formula: "{count} * 2" },
+    label: { type: textType, formula: '"count {count}"' },
+  })
+  expect([...said.computed.keys()].sort()).toEqual(["doubled", "label"])
+})
+
+test("a formula that only ever answers absent meets any type its property declares", () => {
+  const said = standing({
+    nothing: { type: textType, formula: "absent" },
+    neither: { type: numberType, formula: "absent" },
+  })
+  expect([...said.computed.keys()].sort()).toEqual(["neither", "nothing"])
+})
+
+test("a cycle among a page type's formulas is refused, naming every key of the ring", () => {
+  const said = refused({
+    first: { type: numberType, formula: "{second} + 1" },
+    second: { type: numberType, formula: "{first} + 1" },
+  })
+  expect(said.moment).toBe("checking")
+  expect([...said.keys].sort()).toEqual(["first", "second"])
+  for (const word of ["first", "second"]) {
+    expect(said.message).toContain(word)
+  }
+})
+
+test("two paths reaching one key are a diamond rather than a ring", () => {
+  const said = standing({
+    count: { type: numberType },
+    left: { type: numberType, formula: "{count} * 2" },
+    right: { type: numberType, formula: "{count} * 3" },
+    total: { type: numberType, formula: "{left} + {right}" },
+  })
+  expect([...said.computed.keys()].sort()).toEqual(["left", "right", "total"])
+})
+
+test("a page type is refused for a formula wrong in its text before one wrong in what it names", () => {
+  const said = refused({
+    unnamed: { type: numberType, formula: "{nowhere}" },
+    unreadable: { type: numberType, formula: "1 +" },
+  })
+  expect(said.moment).toBe("reading")
+  expect(said.keys).toEqual(["unreadable"])
+})
+
+test("a page type names the key whose formula was wrong", () => {
+  const said = refused({ counted: { type: numberType, formula: "{nowhere}" } })
+  expect(said.moment).toBe("checking")
+  expect(said.keys).toEqual(["counted"])
+  expect(said.message).toContain("nowhere")
+})
+
+test("a formula naming a computed key is checked against what that key declares", () => {
+  const said = refused({
+    label: { type: textType, formula: '"a label"' },
+    counted: { type: numberType, formula: "{label} + 1" },
+  })
+  expect(said.moment).toBe("checking")
+  expect(said.keys).toEqual(["counted"])
+  expect(said.message).toContain("text")
 })
