@@ -1,0 +1,14 @@
+[
+  {
+    "type": "armor-piece-scaling",
+    "metricId": "companion-healing-done",
+    "armorWeight": "light",
+    "valuePerPiece": 0.01
+  },
+  {
+    "type": "armor-piece-scaling",
+    "metricId": "companion-break-free-cooldown",
+    "armorWeight": "light",
+    "valuePerPiece": -0.05
+  }
+]

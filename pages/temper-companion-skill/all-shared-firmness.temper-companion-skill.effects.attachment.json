@@ -1,0 +1,14 @@
+[
+  {
+    "type": "armor-piece-scaling",
+    "metricId": "companion-healing-received",
+    "armorWeight": "heavy",
+    "valuePerPiece": 0.01
+  },
+  {
+    "type": "armor-piece-scaling",
+    "metricId": "companion-damage-blocked",
+    "armorWeight": "heavy",
+    "valuePerPiece": 0.01
+  }
+]

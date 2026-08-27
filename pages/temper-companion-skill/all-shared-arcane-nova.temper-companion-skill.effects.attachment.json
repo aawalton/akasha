@@ -1,0 +1,74 @@
+[
+  {
+    "type": "damage",
+    "target": {
+      "type": "enemy",
+      "scope": "area",
+      "radius": 6
+    },
+    "formula": {
+      "type": "metric-scaling",
+      "metricId": "companion-weapon-damage",
+      "coefficient": 3
+    },
+    "damageType": "magic"
+  },
+  {
+    "type": "apply-status",
+    "status": {
+      "status": "burning",
+      "duration": 4
+    },
+    "target": {
+      "type": "enemy",
+      "scope": "area",
+      "radius": 6
+    },
+    "conditions": [
+      {
+        "type": "weapon-type",
+        "weaponType": "flame"
+      }
+    ]
+  },
+  {
+    "type": "apply-status",
+    "status": {
+      "status": "chilled",
+      "duration": 4
+    },
+    "target": {
+      "type": "enemy",
+      "scope": "area",
+      "radius": 6
+    },
+    "conditions": [
+      {
+        "type": "weapon-type",
+        "weaponType": "frost"
+      }
+    ]
+  },
+  {
+    "type": "apply-status",
+    "status": {
+      "status": "concussed",
+      "duration": 4
+    },
+    "target": {
+      "type": "enemy",
+      "scope": "area",
+      "radius": 6
+    },
+    "conditions": [
+      {
+        "type": "weapon-type",
+        "weaponType": "shock"
+      }
+    ]
+  },
+  {
+    "type": "cooldown",
+    "duration": 12
+  }
+]

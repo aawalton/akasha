@@ -1,0 +1,42 @@
+[
+  {
+    "type": "hot",
+    "target": {
+      "type": "ally",
+      "scope": "area",
+      "radius": 28
+    },
+    "formula": {
+      "type": "metric-scaling",
+      "metricId": "companion-weapon-damage",
+      "coefficient": 3
+    },
+    "duration": 16,
+    "displayMode": "per-tick",
+    "initialTick": true,
+    "tickInterval": 1
+  },
+  {
+    "name": "Crimson Funnel",
+    "type": "synergy",
+    "effect": {
+      "type": "heal",
+      "target": {
+        "type": "ally",
+        "scope": "single"
+      },
+      "formula": {
+        "type": "player-health-percent",
+        "percent": 50
+      }
+    }
+  },
+  {
+    "type": "cast-time",
+    "duration": 0.6
+  },
+  {
+    "type": "cooldown",
+    "duration": 36
+  }
+]

@@ -1,0 +1,11 @@
+[
+  {
+    "formula": {
+      "stat": "higher-resource",
+      "type": "stat-scaling",
+      "coefficient": 3.49369
+    },
+    "damageType": "magic",
+    "effectType": "damage"
+  }
+]

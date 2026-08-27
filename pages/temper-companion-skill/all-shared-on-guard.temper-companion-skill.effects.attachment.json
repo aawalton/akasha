@@ -1,0 +1,23 @@
+[
+  {
+    "type": "shield",
+    "target": {
+      "type": "self",
+      "scope": "single"
+    },
+    "formula": {
+      "type": "metric-percent",
+      "percent": 25,
+      "metricId": "companion-health-maximum"
+    },
+    "duration": 6
+  },
+  {
+    "type": "cast-time",
+    "duration": 0.566
+  },
+  {
+    "type": "cooldown",
+    "duration": 8
+  }
+]

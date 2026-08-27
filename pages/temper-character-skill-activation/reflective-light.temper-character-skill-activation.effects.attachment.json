@@ -1,0 +1,20 @@
+[
+  {
+    "formula": {
+      "stat": "higher-resource",
+      "type": "stat-scaling",
+      "coefficient": 0.560416
+    },
+    "damageType": "flame",
+    "effectType": "damage"
+  },
+  {
+    "formula": {
+      "stat": "higher-resource",
+      "type": "stat-scaling",
+      "coefficient": 1.62644
+    },
+    "damageType": "flame",
+    "effectType": "damage"
+  }
+]

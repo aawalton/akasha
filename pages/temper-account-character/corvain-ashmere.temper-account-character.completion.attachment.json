@@ -1,0 +1,37 @@
+{
+  "level": 50,
+  "gender": 1,
+  "raceId": 9,
+  "classId": 2,
+  "classIcon": "/esoui/art/icons/class/class_sorcerer.dds",
+  "className": "Sorcerer",
+  "allianceId": 2,
+  "traitResearch": {
+    "1": {
+      "name": "Blacksmithing",
+      "lines": {
+        "1": {
+          "name": "Axe",
+          "traits": {
+            "1": {
+              "name": "Powered",
+              "known": true
+            },
+            "2": {
+              "name": "Charged",
+              "known": false
+            },
+            "3": {
+              "name": "Precise",
+              "known": false
+            },
+            "4": {
+              "name": "Infused",
+              "known": false
+            }
+          }
+        }
+      }
+    }
+  }
+}

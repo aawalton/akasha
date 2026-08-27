@@ -1,0 +1,9 @@
+{
+  "level": 3,
+  "gender": 1,
+  "raceId": 1,
+  "classId": 3,
+  "classIcon": "/esoui/art/icons/class/class_nightblade.dds",
+  "className": "Nightblade",
+  "allianceId": 3
+}

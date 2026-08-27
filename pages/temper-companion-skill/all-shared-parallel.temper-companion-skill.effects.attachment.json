@@ -1,0 +1,18 @@
+[
+  {
+    "type": "ultimate-generation",
+    "value": 50,
+    "target": {
+      "type": "self",
+      "scope": "single"
+    }
+  },
+  {
+    "type": "cast-time",
+    "duration": 0.566
+  },
+  {
+    "type": "cooldown",
+    "duration": 16
+  }
+]

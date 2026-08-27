@@ -1,0 +1,28 @@
+[
+  {
+    "formula": {
+      "stat": "higher-resource",
+      "type": "stat-scaling",
+      "coefficient": 0.542443
+    },
+    "damageType": "magic",
+    "effectType": "damage"
+  },
+  {
+    "formula": {
+      "stat": "higher-resource",
+      "type": "stat-scaling",
+      "coefficient": 0.600347
+    },
+    "damageType": "magic",
+    "effectType": "damage"
+  },
+  {
+    "formula": {
+      "stat": "higher-resource",
+      "type": "stat-scaling",
+      "coefficient": 0.280328
+    },
+    "effectType": "heal"
+  }
+]

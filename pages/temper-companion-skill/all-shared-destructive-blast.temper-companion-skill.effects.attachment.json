@@ -1,0 +1,95 @@
+[
+  {
+    "type": "damage",
+    "target": {
+      "type": "enemy",
+      "range": 28,
+      "scope": "single"
+    },
+    "formula": {
+      "type": "metric-scaling",
+      "metricId": "companion-weapon-damage",
+      "coefficient": 3
+    },
+    "damageType": "magic"
+  },
+  {
+    "type": "apply-status",
+    "status": {
+      "status": "knockback",
+      "distance": 8,
+      "duration": 0
+    },
+    "target": {
+      "type": "enemy",
+      "scope": "single"
+    },
+    "conditions": [
+      {
+        "type": "weapon-type",
+        "weaponType": "flame"
+      }
+    ]
+  },
+  {
+    "type": "apply-status",
+    "status": {
+      "status": "stun",
+      "duration": 2.5
+    },
+    "target": {
+      "type": "enemy",
+      "scope": "single"
+    },
+    "conditions": [
+      {
+        "type": "weapon-type",
+        "weaponType": "flame"
+      }
+    ]
+  },
+  {
+    "type": "apply-status",
+    "status": {
+      "status": "taunt",
+      "duration": 15
+    },
+    "target": {
+      "type": "enemy",
+      "scope": "single"
+    },
+    "conditions": [
+      {
+        "type": "weapon-type",
+        "weaponType": "frost"
+      }
+    ]
+  },
+  {
+    "type": "damage",
+    "target": {
+      "type": "enemy",
+      "scope": "area"
+    },
+    "formula": {
+      "type": "metric-scaling",
+      "metricId": "companion-weapon-damage",
+      "coefficient": 1.5
+    },
+    "conditions": [
+      {
+        "type": "weapon-type",
+        "weaponType": "shock"
+      }
+    ],
+    "damageType": "shock"
+  },
+  {
+    "type": "cast-time",
+    "duration": 0.466
+  },
+  {
+    "type": "cooldown",
+    "duration": 16
+  }
+]

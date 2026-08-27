@@ -1,0 +1,39 @@
+[
+  {
+    "type": "shield",
+    "target": {
+      "type": "self",
+      "scope": "single"
+    },
+    "formula": {
+      "type": "metric-percent",
+      "percent": 30,
+      "metricId": "companion-health-maximum"
+    },
+    "duration": 6
+  },
+  {
+    "name": "Bone Aegis",
+    "type": "synergy",
+    "effect": {
+      "type": "shield",
+      "target": {
+        "type": "ally",
+        "scope": "single"
+      },
+      "formula": {
+        "type": "player-health-percent",
+        "percent": 50
+      },
+      "duration": 6
+    }
+  },
+  {
+    "type": "cast-time",
+    "duration": 0.566
+  },
+  {
+    "type": "cooldown",
+    "duration": 36
+  }
+]

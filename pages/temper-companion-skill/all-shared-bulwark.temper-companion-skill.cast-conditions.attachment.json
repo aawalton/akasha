@@ -1,0 +1,13 @@
+[
+  {
+    "type": "health-threshold",
+    "below": 75,
+    "targetType": "self"
+  },
+  {
+    "type": "enemy-type",
+    "enemyTypes": [
+      "difficult-monster"
+    ]
+  }
+]

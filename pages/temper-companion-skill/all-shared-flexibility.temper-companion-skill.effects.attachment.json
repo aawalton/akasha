@@ -1,0 +1,14 @@
+[
+  {
+    "type": "armor-piece-scaling",
+    "metricId": "companion-damage-done",
+    "armorWeight": "medium",
+    "valuePerPiece": 0.01
+  },
+  {
+    "type": "armor-piece-scaling",
+    "metricId": "companion-roll-dodge-cooldown",
+    "armorWeight": "medium",
+    "valuePerPiece": -0.05
+  }
+]

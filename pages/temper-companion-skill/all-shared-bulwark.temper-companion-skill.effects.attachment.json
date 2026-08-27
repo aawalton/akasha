@@ -1,0 +1,20 @@
+[
+  {
+    "type": "special",
+    "effect": "block-all",
+    "duration": 5
+  },
+  {
+    "type": "special",
+    "effect": "reflect-all",
+    "duration": 5
+  },
+  {
+    "type": "cast-time",
+    "duration": 0.6
+  },
+  {
+    "type": "cooldown",
+    "duration": 36
+  }
+]
