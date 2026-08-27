@@ -121,8 +121,8 @@ function statesIn(akasha: string): readonly StateDrawing[] {
   })
 }
 
-function answerOf(instructions: string, args: readonly string[]): unknown | string {
-  const out = Bun.spawnSync(["bun", ...args], { cwd: instructions })
+function answerOf(root: string, args: readonly string[]): unknown | string {
+  const out = Bun.spawnSync(["bun", ...args], { cwd: root })
   if (out.exitCode !== 0) {
     const said = out.stderr.toString().trim()
     return said === "" ? `exited ${out.exitCode}` : said
@@ -145,23 +145,23 @@ function heldUnder(answer: unknown, wanted: readonly string[]): { key: string | 
 }
 
 function asked(
-  instructions: string,
+  root: string,
   surface: string,
   args: readonly string[],
   wanted: readonly string[],
 ): Answered {
   const ran = `bun ${args.join(" ")}`
-  const answer = answerOf(instructions, args)
+  const answer = answerOf(root, args)
   if (typeof answer === "string") return { surface, ran, wanted, key: null, drawn: {}, refused: answer }
   const { key, drawn } = heldUnder(answer, wanted)
   return { surface, ran, wanted, key, drawn, refused: null }
 }
 
-function surfacesIn(instructions: string): readonly Answered[] {
+function surfacesIn(root: string): readonly Answered[] {
   const states = SEAT_TURN_STATES.flatMap((state) => ["--state", state])
   return [
-    asked(instructions, "turn states", ["tools/agent-turn-colors.ts", ...states], SPELLINGS),
-    asked(instructions, "work rows", ["tools/work-tree.ts", "--colours"], ["byInitiative"]),
+    asked(root, "turn states", ["tools/agent-turn-colors.ts", ...states], SPELLINGS),
+    asked(root, "work rows", ["tools/work-tree.ts", "--colours"], ["byInitiative"]),
   ]
 }
 
@@ -193,7 +193,23 @@ function idsIn(at: string): readonly string[] {
   return ids.sort()
 }
 
-function shippedIn(instructions: string): Shipped {
+/**
+ * Whether the bundle ASKS FOR this verb, as against merely naming it.
+ *
+ * MATCHED WITH ITS QUOTES. A bundle names the verb it asks for as a quoted argument, and the same
+ * name also stands inside error text that mentions a verb without ever running it. A bare substring
+ * cannot tell those apart, and reported a call to a verb the editor had already stopped asking for.
+ */
+function asksFor(bundle: string, one: string): boolean {
+  return [`"${one}"`, `'${one}'`, `\`${one}\``].some((quoted) => bundle.includes(quoted))
+}
+
+/** Whether a verb's file stands in any of these checkouts, which is what the editor resolves over. */
+function verbStands(one: string, roots: readonly string[]): boolean {
+  return roots.some((root) => existsSync(`${root}/tools/${one}.ts`))
+}
+
+function shippedIn(roots: readonly string[]): Shipped {
   const at = artefact()
   const stamp = held(`${at}/.build/promoted.json`)
   let bundle = ""
@@ -202,14 +218,14 @@ function shippedIn(instructions: string): Shipped {
   } catch {
     bundle = ""
   }
-  const calls = CALLED.filter((one) => bundle.includes(one))
+  const calls = CALLED.filter((one) => asksFor(bundle, one))
   return {
     at,
     running: said(stamp, "sha"),
     subject: said(stamp, "subject"),
     promotedAt: said(stamp, "promotedAt"),
     calls,
-    absent: calls.filter((one) => !existsSync(`${instructions}/tools/${one}.ts`)),
+    absent: calls.filter((one) => !verbStands(one, roots)),
     ids: idsIn(at),
   }
 }
@@ -336,14 +352,14 @@ function render(reading: Reading): readonly string[] {
 
 export default async function codeEditorColor(args: readonly string[]): Promise<void> {
   const parsed = parseArgs(help, args)
-  // Two roots, because this reads two different things. The pages a color is stated on are
-  // akasha's; the verbs the surfaces run and the bundle they were built against are the
-  // instructions checkout's. One root for both would report a fault in whichever it is not.
+  // The pages a color is stated on and the verbs the surfaces run both stand in akasha. The
+  // instructions checkout is still named because the tools tree is moving out of it and a verb
+  // may stand on either side of that move, which is the pair the editor itself resolves over.
   const akasha = akashaRoot()
   const instructions = resolveRoots("instructions").instructions
   const states = statesIn(akasha)
-  const surfaces = surfacesIn(instructions)
-  const shipped = shippedIn(instructions)
+  const surfaces = surfacesIn(akasha)
+  const shipped = shippedIn([akasha, instructions])
   const reading: Reading = {
     states,
     palette: paletteIn(akasha),
