@@ -29,18 +29,20 @@ function documents(count: number): { readonly rel: string[]; readonly keys: stri
   return { rel, keys: rel.map((p) => canonicalize(`${at.root}/${p}`)).sort() }
 }
 
+function recordOne(relPath: string, call: Record<string, unknown> = {}): Promise<number> {
+  return Bun.spawn({
+    cmd: [process.execPath, HOOK],
+    stdin: Buffer.from(
+      JSON.stringify({ tool_input: { file_path: `${at.root}/${relPath}`, ...call } })
+    ),
+    env: { ...process.env, HOME: at.home, INSTRUCTIONS_ROOT: at.root, AGENT_ID: AGENT },
+    stdout: "pipe",
+    stderr: "pipe",
+  }).exited
+}
+
 async function recordAllAtOnce(paths: readonly string[]): Promise<void> {
-  await Promise.all(
-    paths.map((relPath) =>
-      Bun.spawn({
-        cmd: [process.execPath, HOOK],
-        stdin: Buffer.from(JSON.stringify({ tool_input: { file_path: `${at.root}/${relPath}` } })),
-        env: { ...process.env, HOME: at.home, INSTRUCTIONS_ROOT: at.root, AGENT_ID: AGENT },
-        stdout: "pipe",
-        stderr: "pipe",
-      }).exited
-    )
-  )
+  await Promise.all(paths.map((relPath) => recordOne(relPath)))
 }
 
 function seatsDir(): string {
@@ -114,6 +116,26 @@ describe("every read in a parallel batch is recorded", () => {
   test.each([2, 3, 5, 10])("%i at once", async (count) => {
     const { rel, keys } = documents(count)
     await recordAllAtOnce(rel)
+    expect(recorded()).toEqual(keys)
+  })
+})
+
+describe("a read of part of a file", () => {
+  test("starting past line 1 leaves no record, an entry meaning the whole body", async () => {
+    const { rel } = documents(1)
+    await recordOne(rel[0] as string, { offset: 2 })
+    expect(existsSync(recordPath())).toBe(false)
+  })
+
+  test("stopping short of the end leaves none either", async () => {
+    const { rel } = documents(1)
+    await recordOne(rel[0] as string, { limit: 3 })
+    expect(existsSync(recordPath())).toBe(false)
+  })
+
+  test("a limit that reaches the end records it whole", async () => {
+    const { rel, keys } = documents(1)
+    await recordOne(rel[0] as string, { limit: 500 })
     expect(recorded()).toEqual(keys)
   })
 })

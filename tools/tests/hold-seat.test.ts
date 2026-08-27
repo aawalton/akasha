@@ -186,20 +186,6 @@ describe("partial readings", () => {
     expect(lines[0]).toContain("and task `rebuild`")
   })
 
-  test("half of one document is not the document, and the notice says where to resume", () => {
-    plantSeatPages()
-    stateSeat(AGENT, { persona: attribute("aria") })
-    at.readIt(AGENT, "pages/persona/aria.persona.md", [1, 10])
-    at.readIt(AGENT, "pages/domain/agent-harness.domain.md")
-    at.readIt(AGENT, "pages/domain/global.domain.md")
-    const standing = run()
-    expect(standing.kind).toBe("missing")
-    expect(noticed(standing)).toContain("PARTLY READ")
-    expect(noticed(standing)).toContain("line 11")
-    expect(noticed(standing)).toContain("offset: 11")
-    expect(refuses(standing)).toBe(false)
-  })
-
   test("a document that moved under the agent is carried apart from one never read", () => {
     plantSeatPages()
     stateSeat(AGENT, { persona: attribute("aria") })

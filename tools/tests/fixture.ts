@@ -7,14 +7,13 @@ import {
   readdirSync,
   readFileSync,
   rmSync,
-  statSync,
   writeFileSync,
 } from "node:fs"
 import { dirname } from "node:path"
 import { attachmentFileOf, readAttachment, writeAttachment } from "../../page/attachment-file.ts"
 import { blobId } from "../../repo/git/git.ts"
 import { GATE_PAGE_GLOB } from "../lib/gate-judgement.ts"
-import { countLines, READINGS, type Span } from "../lib/read-record.ts"
+import { READINGS } from "../lib/read-record.ts"
 import { refusalDirIn } from "../lib/refusal.ts"
 import { canonicalize } from "../../repo/path/path"
 import { resolveRoots } from "../../repo/roots/roots"
@@ -37,9 +36,8 @@ export interface Fixture {
   installRecorder(agent?: string): void
   forgetRecord(agent?: string): void
   recordAt(agent?: string): string
-  plantReading(agent: string, absolute: string, span?: Span): void
-  readIt(agent: string, relPath: string, span?: Span): void
-  linesOf(relPath: string): number
+  plantReading(agent: string, absolute: string): void
+  readIt(agent: string, relPath: string): void
   sweepOnDispose(path: string): void
   dispose(): void
 }
@@ -57,10 +55,8 @@ const EXTENSION = "json"
 const UNCOMMITTED = true
 
 interface Held {
-  readonly at: number
-  readonly spans: readonly Span[]
-  readonly seen: number
-  readonly blob: string
+  readonly oid: string
+  readonly seenAt: number
 }
 
 export function installRefusals(root: string): void {
@@ -107,7 +103,6 @@ export function fixture(): Fixture {
     }
   const put = putInto(root)
   const putMemory = putInto(memory)
-  const linesOf = (relPath: string): number => countLines(readFileSync(`${root}/${relPath}`, "utf8"))
   const putAkasha = putInto(akasha)
   const kindOf = (agent: string): string => (seatAbove(agent) === null ? "seat" : "subagent")
   const placeOf = (agent: string): string => `agent/${kindOf(agent)}/${agent}.${kindOf(agent)}.md`
@@ -126,21 +121,14 @@ export function fixture(): Fixture {
     rmSync(attachmentFileOf(page, READINGS, EXTENSION, UNCOMMITTED), { force: true })
     rmSync(page, { force: true })
   }
-  const plantReading = (agent: string, absolute: string, span?: Span): void => {
+  const plantReading = (agent: string, absolute: string): void => {
     installRecorder(agent)
     const page = pageOf(agent)
-    const bytes = readFileSync(absolute)
-    const mark = blobId(bytes)
     const held = readAttachment(page, READINGS, EXTENSION, UNCOMMITTED)
     const records = (held === null ? {} : JSON.parse(held)) as Record<string, Held | undefined>
-    const key = canonicalize(absolute)
-    const prior = records[key]
-    const one = span ?? ([1, countLines(new TextDecoder().decode(bytes))] as Span)
-    records[key] = {
-      at: statSync(absolute).mtimeMs,
-      spans: prior !== undefined && prior.blob === mark ? [...prior.spans, one] : [one],
-      seen: Date.now(),
-      blob: mark,
+    records[canonicalize(absolute)] = {
+      oid: blobId(readFileSync(absolute)),
+      seenAt: Date.now(),
     }
     writeAttachment(page, READINGS, EXTENSION, JSON.stringify(records), UNCOMMITTED)
   }
@@ -151,7 +139,6 @@ export function fixture(): Fixture {
     home,
     put,
     putMemory,
-    linesOf,
     sweepOnDispose: (path: string) => {
       planted.push(path)
     },
@@ -161,7 +148,7 @@ export function fixture(): Fixture {
     document: (relPath, frontmatter, lines = 40) => put(relPath, documentBody(frontmatter, lines)),
     memoryDocument: (relPath, frontmatter, lines = 40) => putMemory(relPath, documentBody(frontmatter, lines)),
     plantReading,
-    readIt: (agent, relPath, span) => plantReading(agent, `${root}/${relPath}`, span),
+    readIt: (agent, relPath) => plantReading(agent, `${root}/${relPath}`),
     dispose: () => {
       if (priorHome !== undefined) process.env.HOME = priorHome
       if (priorMemory === undefined) delete process.env.MEMORY_ROOT

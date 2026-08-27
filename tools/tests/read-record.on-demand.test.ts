@@ -1,10 +1,9 @@
 
 import { afterEach, beforeEach, describe, expect, test } from "bun:test"
-import { readFileSync, statSync } from "node:fs"
-import { attachmentPathFor, writeAttachment } from "../../page/attachment-file.ts"
+import { readFileSync, writeFileSync } from "node:fs"
 import { recordEpoch, replacedAt } from "../lib/epoch.ts"
 import { blobId } from "../../repo/git/git.ts"
-import { lastReadAt, loadPath, READINGS, readingsOf, recordRead, resetReadings } from "../lib/read-record.ts"
+import { loadPath, readOid, readingsOf, recordRead, resetReadings } from "../lib/read-record.ts"
 import { canonicalize } from "../../repo/path/path"
 import { type Fixture, fixture } from "./fixture.ts"
 
@@ -14,54 +13,31 @@ const SUBAGENT = `${AGENT}--sub1`
 
 const DOCUMENT = "pages/domain/global.domain.md"
 
-const EXTENSION = "json"
-
-const UNCOMMITTED = true
-
-const SEAT_PAGE = `---\npage-type-slug: seat\nid: ${AGENT}\ntitle: "${AGENT}"\ndomain-slug: global\n---\n`
-
-const SUBAGENT_PAGE = `---\npage-type-slug: subagent\nid: ${SUBAGENT}\ntitle: "${SUBAGENT}"\ndomain-slug: global\n---\n`
-
 let at: Fixture
 
 beforeEach(() => {
   at = fixture()
   at.document(DOCUMENT, "slug: global\ndomain-parent-slug: global", 12)
-  at.putMemory(`pages/seat/${AGENT}.md`, SEAT_PAGE)
-  at.putMemory(`pages/subagent/${SUBAGENT}.md`, SUBAGENT_PAGE)
+  at.installRecorder(AGENT)
+  at.installRecorder(SUBAGENT)
 })
 
 afterEach(() => {
   at.dispose()
 })
 
-function pageOf(agent: string): string {
-  const kind = agent === SUBAGENT ? "subagent" : "seat"
-  return `${at.memory}/pages/${kind}/${agent}.md`
-}
-
 function target(): string {
   return canonicalize(`${at.root}/${DOCUMENT}`)
 }
 
-function landRead(agent: string, seen: number | null): void {
+function landRead(agent: string, seenAt: number | null): void {
   const absolute = `${at.root}/${DOCUMENT}`
-  const entry: Record<string, unknown> = {
-    at: statSync(absolute).mtimeMs,
-    spans: [[1, at.linesOf(DOCUMENT)]],
-    blob: blobId(readFileSync(absolute)),
-  }
-  if (seen !== null) entry.seen = seen
-  writeAttachment(
-    pageOf(agent),
-    READINGS,
-    EXTENSION,
-    JSON.stringify({ [target()]: entry }),
-    UNCOMMITTED
-  )
+  const entry: Record<string, unknown> = { oid: blobId(readFileSync(absolute)) }
+  if (seenAt !== null) entry.seenAt = seenAt
+  writeFileSync(at.recordAt(agent), `${JSON.stringify({ [target()]: entry })}\n`, "utf8")
 }
 
-const vouched = (agent: string): number | null => lastReadAt(agent, target())
+const vouched = (agent: string): string | null => readOid(agent, target())
 
 describe("a read taken before the context was replaced", () => {
   test("does not vouch, though its record is still there", () => {
@@ -106,8 +82,7 @@ describe("a replacement the file itself was told about", () => {
     landRead(AGENT, Date.now() - 1000)
     recordEpoch(AGENT, "compact", Date.now())
     resetReadings(AGENT, replacedAt(AGENT))
-    const held = attachmentPathFor(pageOf(AGENT), READINGS, EXTENSION, UNCOMMITTED)
-    expect(loadPath(held)).toEqual({})
+    expect(loadPath(at.recordAt(AGENT))).toEqual({})
   })
 })
 
@@ -121,7 +96,7 @@ describe("whose context a replacement reaches", () => {
 
 describe("an agent no page carries a record for", () => {
   test("records nothing, rather than failing the call that read", () => {
-    expect(() => recordRead("agent-pageless", target(), 1, [1, 12], "blob")).not.toThrow()
+    expect(() => recordRead("agent-pageless", target(), 1, "blob")).not.toThrow()
     expect(readingsOf("agent-pageless")).toEqual({})
   })
 })
