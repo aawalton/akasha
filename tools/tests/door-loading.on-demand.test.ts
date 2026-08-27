@@ -4,7 +4,7 @@ import { judge, type Outcome } from "../../outcome/outcome"
 import { ownRead } from "../lib/read-record.ts"
 import { loadingLines } from "../lib/owed.ts"
 import { type Roots } from "../../page/page"
-import { REPOS } from "../../repo/roots/roots"
+import { AKASHA, REPOS } from "../../repo/roots/roots"
 import { toolArgv } from "../lib/tool-argv.ts"
 import { type Fixture, fixture, installRepos } from "./fixture.ts"
 
@@ -22,12 +22,11 @@ beforeEach(() => {
   installRepos(at.root)
   at.document(
     GOVERNOR,
-    "page-type-slug: page-type\nslug: project\nextends-slug: none\nfiles: memory:projects/*.md",
+    "page-type-slug: page-type\nslug: project\nextends-slug: none\nfiles: akasha:projects/*.md",
     20
   )
-  at.putMemory(SUBJECT, `${Array.from({ length: 12 }, (_, i) => `row line ${i + 1}`).join("\n")}\n`)
+  at.put(SUBJECT, `${Array.from({ length: 12 }, (_, i) => `row line ${i + 1}`).join("\n")}\n`)
   at.installRecorder()
-  Bun.spawnSync(["git", "init", "-q"], { cwd: at.root })
   Bun.spawnSync(["git", "-C", at.root, "add", "-A", "pages"])
 })
 
@@ -35,12 +34,15 @@ afterEach(() => {
   at.dispose()
 })
 
+// EVERY REPOSITORY BUT AKASHA POINTED AWAY, so a path this test owes can be placed by exactly one
+// root. `instructions` and `memory` stood here until akasha absorbed both; neither is in `REPOS`
+// any more, so naming them put the governor's path in no repository at all and it was spelled
+// absolute rather than relative.
 function roots(): Roots {
   const named: Record<string, string> = {}
   for (const repo of REPOS) named[repo] = `${at.root}-no-${repo}`
-  named.instructions = at.root
-  named.memory = at.memory
-  return { ...named, target: "memory" }
+  named[AKASHA] = at.root
+  return { ...named, target: AKASHA }
 }
 
 function gated(): readonly Outcome[] {
@@ -63,7 +65,7 @@ function run(command: string): void {
       return Bun.spawnSync({
         cmd: [process.execPath, ...toolArgv("read.ts", args, LIVE)],
         cwd: at.root,
-        env: { ...environment, AGENT_ID: AGENT, HOME: at.home, INSTRUCTIONS_ROOT: at.root, MEMORY_ROOT: at.memory },
+        env: { ...environment, AGENT_ID: AGENT, HOME: at.home, AKASHA_ROOT: at.root },
         stdout: out,
         stderr: out,
       })
