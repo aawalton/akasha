@@ -43,10 +43,10 @@ without gating and prints the first 12 of them, or every one under --all-sites. 
 report is the list to work through, and a rename reaching hundreds of sites is ordinary,
 so the bounded one is not the whole job.
 
-A PAGE OUTSIDE THE INSTRUCTIONS REPO REFUSES THE CALL AND NAMES IT. A page type's pages
+A PAGE OUTSIDE THE AKASHA REPO REFUSES THE CALL AND NAMES IT. A page type's pages
 stand in whichever repo its \`files:\` names — \`project\`'s stand in memory — and one
 commit cannot span two repositories. Whole or nothing is the only form this
-command has, so it refuses rather than renaming the instructions half.
+command has, so it refuses rather than renaming the akasha half.
 
 WHAT IT DROPS IS THE AUTHORSHIP GATE, AND ONLY WHERE NOTHING WAS AUTHORED. A page whose
 frontmatter key was substituted, and a referrer repointed by the move, are shaped by
@@ -74,14 +74,14 @@ REFUSALS BEFORE ANY GATE RUNS:
   - more than one, which the unique key says cannot stand
   - a --new already declared on that type, on one it extends, or on one extending it
   - a destination file already there, because a move never overwrites
-  - a carrying page outside the instructions repo
+  - a carrying page outside the akasha repo
   - a site spelling the old key named in neither --also-from nor --leave
   - an --also-from path naming no file in the repo
-  - a --repo that is not \`instructions\`
+  - a --repo that is not \`akasha\`
   - an argument it does not take, rather than ignoring it
 
 Usage:
-  bun ~/repos/instructions/tools/rename-property.ts --page-type <slug> --old <key> --new <key> [flags]
+  ops akasha rename-property --page-type <slug> --old <key> --new <key> [flags]
 
 Flags:
   --page-type <slug>    The page type the property is declared on, as \`defined-on-slug:\`.
