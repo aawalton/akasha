@@ -153,7 +153,11 @@ export async function holdSeatPaneOpen(name: string): Promise<boolean> {
   if (!(await sessionHolds(name))) return false
   const pane = await paneOf(name)
   if (pane === null) return false
-  await tmux(["set-option", "-t", `=${name}`, "remain-on-exit", "on"])
+  // A WINDOW OPTION, TARGETED BY PANE. `remain-on-exit` is not a session option: `set-option -t
+  // =<name>` answers `no such window` and changes nothing, which is why holding the pane open
+  // looked done and was not. The server's own default is `failed`, so a pane whose command
+  // exits 0 goes without this.
+  await tmux(["set-option", "-w", "-t", pane, "remain-on-exit", "on"])
   for (let i = 0; i < INTERRUPTS; i += 1) {
     await tmux(["send-keys", "-t", pane, "C-c"])
     await Bun.sleep(INTERRUPT_SETTLE_MS)
@@ -203,7 +207,7 @@ export async function respawnSeatUnderTmux(opts: LaunchSeatOpts): Promise<boolea
         `session with it — attach with \`tmux attach -t =${name}\` to read what it says`
     )
   }
-  await tmux(["set-option", "-t", `=${name}`, "remain-on-exit", "off"])
+  await tmux(["set-option", "-w", "-t", pane, "remain-on-exit", "off"])
   return true
 }
 
@@ -234,7 +238,8 @@ export async function launchSeatUnderTmux(opts: LaunchSeatOpts): Promise<LaunchS
     )
   }
 
-  await tmux(["set-option", "-t", name, "remain-on-exit", "off"])
+  const launched = await paneOf(name)
+  if (launched !== null) await tmux(["set-option", "-w", "-t", launched, "remain-on-exit", "off"])
 
   const pane = await tmux(["display-message", "-p", "-t", name, "#{pane_pid}"])
   const pid = Number.parseInt(pane.out, 10)
