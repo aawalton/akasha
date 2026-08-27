@@ -4,7 +4,7 @@ page-type-slug: mp-command
 title: "Uses"
 slug: uses
 path: file-structure uses
-domain-parent-slug: mp-namespace/file-structure
+domain-parent-slug: domain/ops-file-structure
 required-reading-slugs:
   - page-type/mp-command
 ---

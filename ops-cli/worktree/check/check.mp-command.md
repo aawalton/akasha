@@ -4,7 +4,7 @@ page-type-slug: mp-command
 title: "Check"
 slug: check
 path: worktree check
-domain-parent-slug: mp-namespace/worktree
+domain-parent-slug: domain/ops-worktree
 required-reading-slugs:
   - page-type/mp-command
 ---
