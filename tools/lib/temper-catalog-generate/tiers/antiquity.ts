@@ -1,18 +1,7 @@
 
-import { catalogSchema, CATALOG_SAVED_VARIABLES, type Tier, type TierEmit } from "../harness.ts"
+import { antiquityLoreCatalogSchema } from "@temper/game-collections-antiquities-capture-host/saved-variables-schema"
+import { CATALOG_SAVED_VARIABLES, type Tier, type TierEmit } from "../harness.ts"
 import { dataError } from "../../exit.ts"
-
-const SCHEMA_REF = "@temper/game-collections-antiquities-capture-host/saved-variables-schema"
-
-interface AntiquityLoreCatalogEntry {
-  name: string
-  categoryId: number
-  categoryName: string
-  setId: number
-  totalLoreEntries: number
-}
-
-type AntiquityLoreCatalog = Record<number, AntiquityLoreCatalogEntry>
 
 type CategoryMap = Map<
   number,
@@ -22,14 +11,7 @@ type CategoryMap = Map<
   }
 >
 
-async function extractAntiquityDataFromSavedVars(
-  accountWide: Record<string, unknown>
-): Promise<CategoryMap> {
-  const antiquityLoreCatalogSchema = await catalogSchema<AntiquityLoreCatalog>(
-    SCHEMA_REF,
-    "antiquityLoreCatalogSchema"
-  )
-
+function extractAntiquityDataFromSavedVars(accountWide: Record<string, unknown>): CategoryMap {
   const rawCatalog = accountWide.antiquityLoreCatalog
   if (!rawCatalog)
     throw dataError(
@@ -126,8 +108,8 @@ export const tier: Tier = {
   savedVariables: CATALOG_SAVED_VARIABLES,
   outputPath: "packages/temper/player/completion/src/generated/antiquity-data.generated.ts",
   format: false,
-  emit: async (accountWide, apiVersion): Promise<TierEmit> => {
-    const categoryMap = await extractAntiquityDataFromSavedVars(accountWide)
+  emit: (accountWide, apiVersion): TierEmit => {
+    const categoryMap = extractAntiquityDataFromSavedVars(accountWide)
 
     return {
       content: generateDataFile(categoryMap, apiVersion),

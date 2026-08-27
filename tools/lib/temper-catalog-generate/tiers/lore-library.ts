@@ -1,24 +1,7 @@
 
-import { catalogSchema, CATALOG_SAVED_VARIABLES, type Tier, type TierEmit } from "../harness.ts"
+import { loreLibraryCatalogSchema } from "@temper/game-collections-lore-capture-host/saved-variables-schema"
+import { CATALOG_SAVED_VARIABLES, type Tier, type TierEmit } from "../harness.ts"
 import { dataError } from "../../exit.ts"
-
-const SCHEMA_REF = "@temper/game-collections-lore-capture-host/saved-variables-schema"
-
-interface LoreLibraryCatalogBook {
-  name: string
-}
-
-interface LoreLibraryCatalogCollection {
-  name: string
-  books: Record<number, LoreLibraryCatalogBook>
-}
-
-interface LoreLibraryCatalogCategory {
-  name: string
-  collections: Record<number, LoreLibraryCatalogCollection>
-}
-
-type LoreLibraryCatalog = Record<number, LoreLibraryCatalogCategory>
 
 type CategoryMap = Map<
   number,
@@ -28,14 +11,7 @@ type CategoryMap = Map<
   }
 >
 
-async function extractLoreLibraryFromSavedVars(
-  accountWide: Record<string, unknown>
-): Promise<CategoryMap> {
-  const loreLibraryCatalogSchema = await catalogSchema<LoreLibraryCatalog>(
-    SCHEMA_REF,
-    "loreLibraryCatalogSchema"
-  )
-
+function extractLoreLibraryFromSavedVars(accountWide: Record<string, unknown>): CategoryMap {
   if (!accountWide.loreLibraryCatalog)
     throw dataError(
       "No loreLibraryCatalog found. Deploy the TemperCatalog addon and log in to collect it."
@@ -153,8 +129,8 @@ export const tier: Tier = {
   savedVariables: CATALOG_SAVED_VARIABLES,
   outputPath: "packages/temper/game/completion/src/generated/lore-library-data.generated.ts",
   format: false,
-  emit: async (accountWide, apiVersion): Promise<TierEmit> => {
-    const categoryMap = await extractLoreLibraryFromSavedVars(accountWide)
+  emit: (accountWide, apiVersion): TierEmit => {
+    const categoryMap = extractLoreLibraryFromSavedVars(accountWide)
 
     return {
       content: generateDataFile(categoryMap, apiVersion),

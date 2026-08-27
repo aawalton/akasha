@@ -1,22 +1,7 @@
 
-import { catalogSchema, CATALOG_SAVED_VARIABLES, type Tier, type TierEmit } from "../harness.ts"
+import { tributeCatalogSchema } from "@temper/game-collections-tribute-capture-host/saved-variables-schema"
+import { CATALOG_SAVED_VARIABLES, type Tier, type TierEmit } from "../harness.ts"
 import { dataError } from "../../exit.ts"
-
-const SCHEMA_REF = "@temper/game-collections-tribute-capture-host/saved-variables-schema"
-
-interface TributePatronCatalogCard {
-  baseCardName: string
-  upgradeCardName: string
-}
-
-interface TributePatronCatalogEntry {
-  name: string
-  categoryName: string
-  collectibleId: number
-  cards: Record<number, TributePatronCatalogCard>
-}
-
-type TributeCatalog = Record<number, TributePatronCatalogEntry>
 
 interface TributeCardEntry {
   cardIndex: number
@@ -32,14 +17,9 @@ interface TributePatronEntry {
   cards: readonly TributeCardEntry[]
 }
 
-async function extractTributeDataFromSavedVars(
+function extractTributeDataFromSavedVars(
   accountWide: Record<string, unknown>
-): Promise<readonly TributePatronEntry[]> {
-  const tributeCatalogSchema = await catalogSchema<TributeCatalog>(
-    SCHEMA_REF,
-    "tributeCatalogSchema"
-  )
-
+): readonly TributePatronEntry[] {
   if (accountWide.tributeCatalog === undefined)
     throw dataError(
       "No tributeCatalog found. Deploy the TemperCatalog addon and log in to collect it."
@@ -111,8 +91,8 @@ export const tier: Tier = {
   savedVariables: CATALOG_SAVED_VARIABLES,
   outputPath: "packages/temper/player/completion/src/generated/tribute-data.generated.ts",
   format: true,
-  emit: async (accountWide, apiVersion): Promise<TierEmit> => {
-    const patrons = await extractTributeDataFromSavedVars(accountWide)
+  emit: (accountWide, apiVersion): TierEmit => {
+    const patrons = extractTributeDataFromSavedVars(accountWide)
 
     const totalCards = patrons.reduce((sum, p) => sum + p.cards.length, 0)
 

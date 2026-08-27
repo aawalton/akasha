@@ -1,19 +1,7 @@
 
-import { catalogSchema, CATALOG_SAVED_VARIABLES, type Tier, type TierEmit } from "../harness.ts"
+import { recipeCatalogSchema } from "@temper/game-crafting-capture-host/saved-variables-schema"
+import { CATALOG_SAVED_VARIABLES, type Tier, type TierEmit } from "../harness.ts"
 import { dataError } from "../../exit.ts"
-
-const SCHEMA_REF = "@temper/game-crafting-capture-host/saved-variables-schema"
-
-interface RecipeCatalogRecipe {
-  name: string
-}
-
-interface RecipeCatalogList {
-  name: string
-  recipes: Record<number, RecipeCatalogRecipe>
-}
-
-type RecipeCatalog = Record<number, RecipeCatalogList>
 
 type ListMap = Map<number, { name: string; recipes: Map<number, string> }>
 
@@ -21,11 +9,7 @@ function stripEsoMarkers(name: string): string {
   return name.replace(/\^[A-Za-z]+$/, "")
 }
 
-async function extractRecipesFromSavedVars(
-  accountWide: Record<string, unknown>
-): Promise<ListMap> {
-  const recipeCatalogSchema = await catalogSchema<RecipeCatalog>(SCHEMA_REF, "recipeCatalogSchema")
-
+function extractRecipesFromSavedVars(accountWide: Record<string, unknown>): ListMap {
   const rawRecipeCatalog = accountWide.recipeCatalog
   if (!rawRecipeCatalog)
     throw dataError(
@@ -114,8 +98,8 @@ export const tier: Tier = {
   savedVariables: CATALOG_SAVED_VARIABLES,
   outputPath: "packages/temper/game/completion/src/generated/recipe-data.generated.ts",
   format: false,
-  emit: async (accountWide, apiVersion): Promise<TierEmit> => {
-    const listMap = await extractRecipesFromSavedVars(accountWide)
+  emit: (accountWide, apiVersion): TierEmit => {
+    const listMap = extractRecipesFromSavedVars(accountWide)
 
     return {
       content: generateDataFile(listMap, apiVersion),

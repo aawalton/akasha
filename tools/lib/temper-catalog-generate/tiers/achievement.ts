@@ -1,30 +1,8 @@
 
-import { catalogSchema, CATALOG_SAVED_VARIABLES, type Tier, type TierEmit } from "../harness.ts"
+import type { AchievementCatalogEntry } from "@temper/game-completion-capture-core/achievement-catalog"
+import { achievementCatalogSchema } from "@temper/game-completion-capture-host/achievement-catalog-schema"
+import { CATALOG_SAVED_VARIABLES, type Tier, type TierEmit } from "../harness.ts"
 import { dataError } from "../../exit.ts"
-
-const SCHEMA_REF = "@temper/game-completion-capture-host/achievement-catalog-schema"
-
-interface AchievementCatalogEntry {
-  name: string
-  points: number
-  totalSteps: number
-  isCharacterSpecific: boolean
-}
-
-interface AchievementCatalogSubCategory {
-  name: string
-  achievements: Record<number, AchievementCatalogEntry>
-}
-
-interface AchievementCatalogCategory {
-  name: string
-  generalSubCategory?: AchievementCatalogSubCategory
-  subCategories: Record<number, AchievementCatalogSubCategory>
-}
-
-interface AchievementCatalogData {
-  categories: Record<number, AchievementCatalogCategory>
-}
 
 interface CatalogSubCategory {
   name: string
@@ -40,14 +18,7 @@ interface CatalogData {
   categories: Record<number, CatalogCategory>
 }
 
-async function extractCatalogFromSavedVars(
-  accountWide: Record<string, unknown>
-): Promise<CatalogData> {
-  const achievementCatalogSchema = await catalogSchema<AchievementCatalogData>(
-    SCHEMA_REF,
-    "achievementCatalogSchema"
-  )
-
+function extractCatalogFromSavedVars(accountWide: Record<string, unknown>): CatalogData {
   if (accountWide.achievementCatalog === undefined)
     throw dataError(
       "No achievementCatalog found. Deploy the TemperCatalog addon and log in to collect it."
@@ -245,8 +216,8 @@ export const tier: Tier = {
   savedVariables: CATALOG_SAVED_VARIABLES,
   outputPath: "packages/temper/player/completion/src/generated/achievement-data.generated.ts",
   format: true,
-  emit: async (accountWide, apiVersion): Promise<TierEmit> => {
-    const catalog = await extractCatalogFromSavedVars(accountWide)
+  emit: (accountWide, apiVersion): TierEmit => {
+    const catalog = extractCatalogFromSavedVars(accountWide)
 
     const totalAchievements = Object.values(catalog.categories).reduce(
       (sum, cat) =>

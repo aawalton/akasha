@@ -1,30 +1,12 @@
 
-import { catalogSchema, CATALOG_SAVED_VARIABLES, type Tier, type TierEmit } from "../harness.ts"
+import { cadwellCatalogSchema } from "@temper/game-completion-capture-host/cadwell-catalog-schema"
+import { CATALOG_SAVED_VARIABLES, type Tier, type TierEmit } from "../harness.ts"
 import { dataError } from "../../exit.ts"
-
-const SCHEMA_REF = "@temper/game-completion-capture-host/cadwell-catalog-schema"
 
 const LEVEL_LABELS: Record<number, string> = {
   1: "Silver",
   2: "Gold",
 }
-
-interface CadwellCatalogPOI {
-  name: string
-  order: number
-}
-
-interface CadwellCatalogZone {
-  name: string
-  order: number
-  pois: Record<number, CadwellCatalogPOI>
-}
-
-interface CadwellCatalogLevel {
-  zones: Record<number, CadwellCatalogZone>
-}
-
-type CadwellCatalog = Record<number, CadwellCatalogLevel>
 
 interface CadwellPOIData {
   poiIndex: number
@@ -43,14 +25,9 @@ interface CadwellLevelData {
   zones: readonly CadwellZoneData[]
 }
 
-async function extractCadwellDataFromSavedVars(
+function extractCadwellDataFromSavedVars(
   accountWide: Record<string, unknown>
-): Promise<readonly CadwellLevelData[]> {
-  const cadwellCatalogSchema = await catalogSchema<CadwellCatalog>(
-    SCHEMA_REF,
-    "cadwellCatalogSchema"
-  )
-
+): readonly CadwellLevelData[] {
   if (accountWide.cadwellCatalog === undefined)
     throw dataError(
       "No cadwellCatalog found. Deploy the TemperCatalog addon and log in to collect it."
@@ -148,8 +125,8 @@ export const tier: Tier = {
   savedVariables: CATALOG_SAVED_VARIABLES,
   outputPath: "packages/temper/player/completion/src/generated/cadwell-data.generated.ts",
   format: true,
-  emit: async (accountWide, apiVersion): Promise<TierEmit> => {
-    const levels = await extractCadwellDataFromSavedVars(accountWide)
+  emit: (accountWide, apiVersion): TierEmit => {
+    const levels = extractCadwellDataFromSavedVars(accountWide)
 
     const totalZones = levels.reduce((sum, l) => sum + l.zones.length, 0)
     const totalPois = levels.reduce(

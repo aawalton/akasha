@@ -1,24 +1,7 @@
 
-import { catalogSchema, CATALOG_SAVED_VARIABLES, type Tier, type TierEmit } from "../harness.ts"
+import { traitResearchCatalogSchema } from "@temper/game-crafting-capture-host/saved-variables-schema"
+import { CATALOG_SAVED_VARIABLES, type Tier, type TierEmit } from "../harness.ts"
 import { dataError } from "../../exit.ts"
-
-const SCHEMA_REF = "@temper/game-crafting-capture-host/saved-variables-schema"
-
-interface TraitResearchCatalogTrait {
-  name: string
-}
-
-interface TraitResearchCatalogLine {
-  name: string
-  traits: Record<number, TraitResearchCatalogTrait>
-}
-
-interface TraitResearchCatalogCraftType {
-  name: string
-  lines: Record<number, TraitResearchCatalogLine>
-}
-
-type TraitResearchCatalog = Record<number, TraitResearchCatalogCraftType>
 
 interface TraitResearchTraitEntry {
   traitIndex: number
@@ -37,14 +20,9 @@ interface TraitResearchCraftTypeEntry {
   lines: readonly TraitResearchLineEntry[]
 }
 
-async function extractTraitResearchFromSavedVars(
+function extractTraitResearchFromSavedVars(
   accountWide: Record<string, unknown>
-): Promise<readonly TraitResearchCraftTypeEntry[]> {
-  const traitResearchCatalogSchema = await catalogSchema<TraitResearchCatalog>(
-    SCHEMA_REF,
-    "traitResearchCatalogSchema"
-  )
-
+): readonly TraitResearchCraftTypeEntry[] {
   const rawCatalog = accountWide.traitResearchCatalog
   if (!rawCatalog)
     throw dataError(
@@ -132,8 +110,8 @@ export const tier: Tier = {
   savedVariables: CATALOG_SAVED_VARIABLES,
   outputPath: "packages/temper/player/completion/src/generated/trait-research-data.generated.ts",
   format: true,
-  emit: async (accountWide, apiVersion): Promise<TierEmit> => {
-    const craftTypes = await extractTraitResearchFromSavedVars(accountWide)
+  emit: (accountWide, apiVersion): TierEmit => {
+    const craftTypes = extractTraitResearchFromSavedVars(accountWide)
 
     const totalLines = craftTypes.reduce((sum, c) => sum + c.lines.length, 0)
     const totalTraits = craftTypes.reduce(

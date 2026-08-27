@@ -57,20 +57,6 @@ interface MinedDataParseModule {
   readonly isFullyRead: (diagnostics: MinedExtractDiagnostics) => boolean
 }
 
-export interface CatalogSchema<Parsed> {
-  readonly parse: (input: unknown) => Parsed
-}
-
-export async function catalogSchema<Parsed>(
-  ref: string,
-  exported: string
-): Promise<CatalogSchema<Parsed>> {
-  const mod = await codeModule<Record<string, CatalogSchema<Parsed>>>(ref)
-  const schema = mod[exported]
-  if (schema === undefined) throw dataError(`\`${ref}\` exports no \`${exported}\``)
-  return schema
-}
-
 export function minedDataParse(): Promise<MinedDataParseModule> {
   return codeModule<MinedDataParseModule>(MINED_DATA_PARSE)
 }

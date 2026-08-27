@@ -1,28 +1,8 @@
 
-import { catalogSchema, CATALOG_SAVED_VARIABLES, type Tier, type TierEmit } from "../harness.ts"
+import type { CollectiblesCatalogSubCategory } from "@temper/game-collections-capture-core/collectibles-catalog"
+import { collectiblesCatalogSchema } from "@temper/game-collections-capture-host/saved-variables-schema"
+import { CATALOG_SAVED_VARIABLES, type Tier, type TierEmit } from "../harness.ts"
 import { dataError } from "../../exit.ts"
-
-const SCHEMA_REF = "@temper/game-collections-capture-host/saved-variables-schema"
-
-interface CollectiblesCatalogEntry {
-  name: string
-  categoryType: number
-}
-
-interface CollectiblesCatalogSubCategory {
-  name: string
-  collectibles: Record<number, CollectiblesCatalogEntry>
-}
-
-interface CollectiblesCatalogCategory {
-  name: string
-  generalSubCategory?: CollectiblesCatalogSubCategory
-  subCategories: Record<number, CollectiblesCatalogSubCategory>
-}
-
-interface CollectiblesCatalogData {
-  categories: Record<number, CollectiblesCatalogCategory>
-}
 
 function stripEsoMarkers(name: string): string {
   return name.replace(/\^[A-Za-z]+$/, "")
@@ -44,21 +24,14 @@ interface CategoryEntry {
   subCategories: readonly SubCategoryEntry[]
 }
 
-async function extractCollectiblesData(
-  accountWide: Record<string, unknown>
-): Promise<readonly CategoryEntry[]> {
-  const collectiblesCatalogSchema = await catalogSchema<CollectiblesCatalogData>(
-    SCHEMA_REF,
-    "collectiblesCatalogSchema"
-  )
-
+function extractCollectiblesData(accountWide: Record<string, unknown>): readonly CategoryEntry[] {
   const rawCatalog = accountWide.collectiblesCatalog
   if (!rawCatalog)
     throw dataError(
       "No collectiblesCatalog found. Deploy the TemperCatalog addon and log in to collect it."
     )
 
-  const catalog: CollectiblesCatalogData = collectiblesCatalogSchema.parse(rawCatalog)
+  const catalog = collectiblesCatalogSchema.parse(rawCatalog)
 
   if (Object.keys(catalog.categories).length === 0)
     throw dataError("collectiblesCatalog.categories is empty or has unexpected format")
@@ -167,8 +140,8 @@ export const tier: Tier = {
   savedVariables: CATALOG_SAVED_VARIABLES,
   outputPath: "packages/temper/player/completion/src/generated/collectibles-data.generated.ts",
   format: false,
-  emit: async (accountWide, apiVersion): Promise<TierEmit> => {
-    const categories = await extractCollectiblesData(accountWide)
+  emit: (accountWide, apiVersion): TierEmit => {
+    const categories = extractCollectiblesData(accountWide)
 
     const totalCollectibles = categories
       .flatMap((cat) => cat.subCategories)

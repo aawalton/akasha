@@ -1,8 +1,7 @@
 
-import { catalogSchema, CATALOG_SAVED_VARIABLES, type Tier, type TierEmit } from "../harness.ts"
+import { zoneCompletionCatalogSchema } from "@temper/game-completion-capture-host/zone-completion-catalog-schema"
+import { CATALOG_SAVED_VARIABLES, type Tier, type TierEmit } from "../harness.ts"
 import { dataError } from "../../exit.ts"
-
-const SCHEMA_REF = "@temper/game-completion-capture-host/zone-completion-catalog-schema"
 
 const COMPLETION_TYPE_LABELS: Record<number, string> = {
   1: "Priority Quests",
@@ -20,22 +19,6 @@ const COMPLETION_TYPE_LABELS: Record<number, string> = {
   13: "Public Dungeons",
   14: "Group Delves",
 }
-
-interface ZoneCompletionCatalogActivity {
-  name: string
-  activityId: number
-}
-
-interface ZoneCompletionCatalogType {
-  activities: Record<number, ZoneCompletionCatalogActivity>
-}
-
-interface ZoneCompletionCatalogZone {
-  name: string
-  completionTypes: Record<number, ZoneCompletionCatalogType>
-}
-
-type ZoneCompletionCatalog = Record<number, ZoneCompletionCatalogZone>
 
 interface ZoneCompletionActivityEntry {
   activityIndex: number
@@ -55,14 +38,9 @@ interface ZoneCompletionZoneEntry {
   completionTypes: readonly ZoneCompletionTypeEntry[]
 }
 
-async function extractZoneCompletionDataFromSavedVars(
+function extractZoneCompletionDataFromSavedVars(
   accountWide: Record<string, unknown>
-): Promise<readonly ZoneCompletionZoneEntry[]> {
-  const zoneCompletionCatalogSchema = await catalogSchema<ZoneCompletionCatalog>(
-    SCHEMA_REF,
-    "zoneCompletionCatalogSchema"
-  )
-
+): readonly ZoneCompletionZoneEntry[] {
   if (accountWide.zoneCompletionCatalog === undefined)
     throw dataError(
       "No zoneCompletionCatalog found. Deploy the TemperCatalog addon and log in to collect it."
@@ -168,8 +146,8 @@ export const tier: Tier = {
   savedVariables: CATALOG_SAVED_VARIABLES,
   outputPath: "packages/temper/player/completion/src/generated/zone-completion-data.generated.ts",
   format: true,
-  emit: async (accountWide, apiVersion): Promise<TierEmit> => {
-    const zones = await extractZoneCompletionDataFromSavedVars(accountWide)
+  emit: (accountWide, apiVersion): TierEmit => {
+    const zones = extractZoneCompletionDataFromSavedVars(accountWide)
 
     const totalTypes = zones.reduce((sum, z) => sum + z.completionTypes.length, 0)
     const totalActivities = zones.reduce(

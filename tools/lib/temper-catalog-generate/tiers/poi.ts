@@ -1,8 +1,7 @@
 
-import { catalogSchema, CATALOG_SAVED_VARIABLES, type Tier, type TierEmit } from "../harness.ts"
+import { poiCatalogSchema } from "@temper/game-navigation-capture-host/poi-catalog-schema"
+import { CATALOG_SAVED_VARIABLES, type Tier, type TierEmit } from "../harness.ts"
 import { dataError } from "../../exit.ts"
-
-const SCHEMA_REF = "@temper/game-navigation-capture-host/poi-catalog-schema"
 
 const POI_TYPE_LABELS: Record<number, string> = {
   0: "Standard",
@@ -14,18 +13,6 @@ const POI_TYPE_LABELS: Record<number, string> = {
   6: "Group Dungeons",
   7: "Houses",
 }
-
-interface PoiCatalogEntry {
-  name: string
-  poiType: number
-}
-
-interface PoiCatalogZone {
-  name: string
-  pois: Record<number, PoiCatalogEntry>
-}
-
-type PoiCatalog = Record<number, PoiCatalogZone>
 
 interface PoiEntry {
   poiIndex: number
@@ -45,11 +32,9 @@ interface PoiZoneEntry {
   poiTypes: readonly PoiTypeGroup[]
 }
 
-async function extractPoiDataFromSavedVars(
+function extractPoiDataFromSavedVars(
   accountWide: Record<string, unknown>
-): Promise<readonly PoiZoneEntry[]> {
-  const poiCatalogSchema = await catalogSchema<PoiCatalog>(SCHEMA_REF, "poiCatalogSchema")
-
+): readonly PoiZoneEntry[] {
   if (accountWide.poiCatalog === undefined)
     throw dataError("No poiCatalog found. Deploy the TemperCatalog addon and log in to collect it.")
 
@@ -142,8 +127,8 @@ export const tier: Tier = {
   savedVariables: CATALOG_SAVED_VARIABLES,
   outputPath: "packages/temper/player/completion/src/generated/poi-data.generated.ts",
   format: true,
-  emit: async (accountWide, apiVersion): Promise<TierEmit> => {
-    const zones = await extractPoiDataFromSavedVars(accountWide)
+  emit: (accountWide, apiVersion): TierEmit => {
+    const zones = extractPoiDataFromSavedVars(accountWide)
 
     const totalTypes = zones.reduce((sum, z) => sum + z.poiTypes.length, 0)
     const totalPois = zones.reduce(
