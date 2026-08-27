@@ -2,7 +2,6 @@ export const summary = "Bring a seat back on the session it was bound to, live o
 
 import { parseWindowDuration } from "../../lib/active-core.ts"
 import { readTranscriptMtimeMs } from "../../lib/agent-io-probe.ts"
-import { codeModule } from "../../lib/code-import.ts"
 import { dataError, inputError, operationalError } from "../../lib/exit.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
 import { readStdinOrFile } from "../../lib/read-stdin-or-file.ts"

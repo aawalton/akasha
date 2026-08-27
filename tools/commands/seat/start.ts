@@ -2,7 +2,6 @@ export const summary = "Start a seat: create it under a name, state what it is, 
 
 import { dataError, inputError } from "../../lib/exit.ts"
 import { seatNameAdmission } from "../../lib/seat-name-admission.ts"
-import { codeModule } from "../../lib/code-import.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
 import { readStdinOrFile } from "../../lib/read-stdin-or-file.ts"
 import {

@@ -1,7 +1,6 @@
 export const summary = "Send a message to another agent"
 
 import { dataError, inputError } from "../../lib/exit.ts"
-import { codeModule } from "../../lib/code-import.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
 import { stampAndFollowByAgentId } from "../../lib/persona-last-messaged.ts"
 import { addressPerson } from "../../lib/message-to-person.ts"
