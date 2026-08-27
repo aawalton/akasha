@@ -18,8 +18,8 @@ const FILES: Readonly<Record<string, string>> = {
     "default:\n  - every-badge",
   ]),
   "pages/page-property-definition/badge-quiet.page-property-definition.md": property("quiet", ["type: text"]),
-  "pages/badge/plain.md": page(["slug: plain"]),
-  "pages/badge/stated.md": page(["slug: stated", "group-slugs:\n  - its-own-group"]),
+  "pages/badge/plain.badge.md": page(["slug: plain"]),
+  "pages/badge/stated.badge.md": page(["slug: stated", "group-slugs:\n  - its-own-group"]),
 }
 
 const root = mkdtempSync(join("/var/tmp", "page-derive-default-"))
@@ -38,7 +38,7 @@ const ROOTS: Roots = {
 }
 
 const held = (key: string): ReadonlyMap<string, unknown> =>
-  new Map(deriver(ROOTS).rows("badge")!.map((row) => [row.at.replace(/^.*\/|\.md$/g, ""), row.values[key]]))
+  new Map(deriver(ROOTS).rows("badge")!.map((row) => [row.at.replace(/^.*\/|\.badge\.md$/g, ""), row.values[key]]))
 
 describe("the default a property declaration states", () => {
   it("stands on a page stating no such key, whether the default is one value", () => {
