@@ -7,8 +7,8 @@ import { type Fixture, fixture, installGates } from "./fixture.ts"
 
 const HOOK = `${import.meta.dir}/../hooks/record-read.ts`
 const AGENT = "agent-parallel"
-const EXCLUSIVE = `${import.meta.dir}/../../../akasha/exclusive/exclusive.ts`
-const WRITE_WHOLE = `${import.meta.dir}/../../../akasha/write-whole/write-whole.ts`
+const EXCLUSIVE = `${import.meta.dir}/../../exclusive/exclusive.ts`
+const WRITE_WHOLE = `${import.meta.dir}/../../write-whole/write-whole.ts`
 const HOLDER = "held-by"
 
 let at: Fixture
@@ -25,17 +25,17 @@ afterEach(() => {
 
 function documents(count: number): { readonly rel: string[]; readonly keys: string[] } {
   const rel = Array.from({ length: count }, (_, i) => `domains/document-${i}.md`)
-  for (const relPath of rel) at.document(relPath, "slug: x\ndomain-parent-slug: global", 5)
-  return { rel, keys: rel.map((p) => canonicalize(`${at.root}/${p}`)).sort() }
+  for (const relPath of rel) at.memoryDocument(relPath, "slug: x\ndomain-parent-slug: global", 5)
+  return { rel, keys: rel.map((p) => canonicalize(`${at.memory}/${p}`)).sort() }
 }
 
 function recordOne(relPath: string, call: Record<string, unknown> = {}): Promise<number> {
   return Bun.spawn({
     cmd: [process.execPath, HOOK],
     stdin: Buffer.from(
-      JSON.stringify({ tool_input: { file_path: `${at.root}/${relPath}`, ...call } })
+      JSON.stringify({ tool_input: { file_path: `${at.memory}/${relPath}`, ...call } })
     ),
-    env: { ...process.env, HOME: at.home, INSTRUCTIONS_ROOT: at.root, AGENT_ID: AGENT },
+    env: { ...process.env, HOME: at.home, MEMORY_ROOT: at.memory, AGENT_ID: AGENT },
     stdout: "pipe",
     stderr: "pipe",
   }).exited
