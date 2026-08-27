@@ -17,7 +17,7 @@ import type { CommandHelp } from "../../../ops/surface.ts"
 
 const RUN_CEILING_MS = 60 * 60 * 1000
 
-const ADDONS_REL = "packages/temper/addons"
+const ADDONS_REL = "temper/addons"
 
 const OPS_CLI_REL = "tools/ops/cli.ts"
 

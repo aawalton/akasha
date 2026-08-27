@@ -34,11 +34,11 @@ import { addonsResolve } from "../../../lib/temper-addon-code.ts"
 import { CONSOLIDATION_MIGRATIONS } from "../../../lib/temper-addon-consolidation-migrations.ts"
 import type { CommandHelp } from "../../../ops/surface.ts"
 
-const ADDONS_REL_ROOT = "packages/temper/addons"
+const ADDONS_REL_ROOT = "temper/addons"
 
 export const help: CommandHelp = {
   description:
-    "Replace one addon's folder — and each sibling folder its manifest declares — under this workstation's live ESO `AddOns/` directory with what stands in a checkout's `packages/temper/addons/dist/`, then verify every installed file against its source by sha256, then run the saved-variables migrations the new build needs.\n" +
+    "Replace one addon's folder — and each sibling folder its manifest declares — under this workstation's live ESO `AddOns/` directory with what stands in a checkout's `temper/addons/dist/`, then verify every installed file against its source by sha256, then run the saved-variables migrations the new build needs.\n" +
     "\n" +
     "Nothing is packed and nothing is carried off this machine: the target is the game folder on this disk, so this is workstation tooling rather than anything a deploy carries.\n" +
     "\n" +

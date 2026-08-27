@@ -19,13 +19,13 @@ import { parseArgs } from "../../../lib/parse-args.ts"
 import { addonsResolve } from "../../../lib/temper-addon-code.ts"
 import type { CommandHelp } from "../../../ops/surface.ts"
 
-const ADDONS_REL_ROOT = "packages/temper/addons"
+const ADDONS_REL_ROOT = "temper/addons"
 
 const BUILD_ID_FILE = "build-id.lua"
 
 export const help: CommandHelp = {
   description:
-    "Read one addon's `addon.json` and `tsconfig.json` out of a checkout, and write `<name>.txt` — the manifest ESO reads to decide what to load and in what order — plus `build-id.lua` into that checkout's `packages/temper/addons/dist/<name>/`.\n" +
+    "Read one addon's `addon.json` and `tsconfig.json` out of a checkout, and write `<name>.txt` — the manifest ESO reads to decide what to load and in what order — plus `build-id.lua` into that checkout's `temper/addons/dist/<name>/`.\n" +
     "\n" +
     "Both written files are build output, untracked, and this is the rule they are made by; it stands here, where no deploy has to carry it. The checkout is taken as an argument rather than derived from this file's own location, so the output lands in the tree it belongs to whichever checkout this runs from.\n" +
     "\n" +

@@ -19,13 +19,13 @@ import { addonsResolve } from "../../../lib/temper-addon-code.ts"
 import type { CommandHelp } from "../../../ops/surface.ts"
 import temperAddonGenerateLoadOrder from "./generate-load-order.ts"
 
-const ADDONS_REL_ROOT = "packages/temper/addons"
+const ADDONS_REL_ROOT = "temper/addons"
 
 const ESO_RUNTIME_TOKEN = /\$\([^)]*\)/
 
 export const help: CommandHelp = {
   description:
-    "Write one addon's load order, then copy every non-Lua file it ships — its `<name>.xml` and `Bindings.xml`, the extra Lua files its manifest names, every directory under `metadata/`, its declared assets and bundle XML, and each sibling addon folder — into that checkout's `packages/temper/addons/dist/`.\n" +
+    "Write one addon's load order, then copy every non-Lua file it ships — its `<name>.xml` and `Bindings.xml`, the extra Lua files its manifest names, every directory under `metadata/`, its declared assets and bundle XML, and each sibling addon folder — into that checkout's `temper/addons/dist/`.\n" +
     "\n" +
     "Everything written is build output, untracked, and this is the rule it is made by; it stands here, where no deploy has to carry it. The checkout is taken as an argument rather than derived from this file's own location, so the output lands in the tree it belongs to whichever checkout this runs from.\n" +
     "\n" +
