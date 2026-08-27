@@ -47,39 +47,39 @@ import { canonicalize, normalizeAbsolute } from "../repo/path/path"
 import { resolveRoots } from "../repo/roots/roots"
 
 export const CHECKS: Readonly<Record<string, Levy>> = {
-  "bash-env-inside": { repos: ["instructions"], run: bashEnvInside },
-  "category-rules-cover": { repos: ["instructions"], run: categoryRulesCover },
-  "category-rules-disjoint": { repos: ["instructions"], run: categoryRulesDisjoint },
-  "checks-reached": { repos: ["instructions"], run: checksGoverned },
-  "cli-help-flag-references": { repos: ["instructions"], run: cliHelpFlagReferences },
-  "command-help-bound": { repos: ["instructions"], run: commandHelpBound },
-  "defaults-not-required": { repos: ["instructions"], run: defaultsNotRequired },
-  "domain-edges": { repos: ["instructions"], run: domainEdges },
-  "editor-extension-single": { repos: ["instructions"], run: editorExtensionSingle },
-  "email-rules-cover": { repos: ["instructions"], run: emailRulesCover },
-  "email-rules-disjoint": { repos: ["instructions"], run: emailRulesDisjoint },
+  "bash-env-inside": { repos: ["akasha"], run: bashEnvInside },
+  "category-rules-cover": { repos: ["akasha"], run: categoryRulesCover },
+  "category-rules-disjoint": { repos: ["akasha"], run: categoryRulesDisjoint },
+  "checks-reached": { repos: ["akasha"], run: checksGoverned },
+  "cli-help-flag-references": { repos: ["akasha"], run: cliHelpFlagReferences },
+  "command-help-bound": { repos: ["akasha"], run: commandHelpBound },
+  "defaults-not-required": { repos: ["akasha"], run: defaultsNotRequired },
+  "domain-edges": { repos: ["akasha"], run: domainEdges },
+  "editor-extension-single": { repos: ["akasha"], run: editorExtensionSingle },
+  "email-rules-cover": { repos: ["akasha"], run: emailRulesCover },
+  "email-rules-disjoint": { repos: ["akasha"], run: emailRulesDisjoint },
   "findings-sorted": { repos: ["memory"], run: findingsSorted },
-  "graph-attributes-claimed": { repos: ["instructions"], run: graphAttributesClaimed },
-  "hooks-agree": { repos: ["instructions"], run: hooksAgree },
-  "hooks-delivered": { repos: ["instructions"], run: hooksDelivered },
-  "hooks-uncopied": { repos: ["instructions"], run: hooksUncopied },
-  "links-resolve": { repos: ["instructions", "memory"], run: linksResolve },
-  "relations-resolve": { repos: ["instructions"], run: relationsResolve },
-  "lint-scope-coverage": { repos: ["instructions"], run: lintScopeCoverage },
-  "pages-hold-properties": { repos: ["instructions", "memory", "books", "stories"], run: pagesHoldProperties },
-  "pages-hold-shape": { repos: ["instructions", "memory", "books", "stories"], run: pagesHoldShape },
-  "pages-named-as-stated": { repos: ["instructions", "memory", "books", "stories"], run: pagesNamedAsStated },
-  "persona-values": { repos: ["instructions"], run: personaValues },
-  "positionals-cover-identifiers": { repos: ["instructions"], run: positionalsCoverIdentifiers },
-  "property-types-bind": { repos: ["instructions"], run: propertyTypesBind },
-  "refusals-bound": { repos: ["instructions"], run: refusalsBound },
-  "resume-notices": { repos: ["instructions"], run: resumeNotices },
-  "statusline-constants": { repos: ["instructions"], run: statuslineConstants },
-  "suite-runs": { repos: ["instructions"], run: suiteRuns, band: "painful" },
-  "tests-bounded": { repos: ["instructions"], run: testsBounded },
-  "commands-declare-help": { repos: ["instructions"], run: commandsDeclareHelp },
-  "commands-declare-summary": { repos: ["instructions"], run: commandsDeclareSummary },
-  "typecheck-repo": { repos: ["instructions"], run: typecheckRepo, band: "slow" },
+  "graph-attributes-claimed": { repos: ["akasha"], run: graphAttributesClaimed },
+  "hooks-agree": { repos: ["akasha"], run: hooksAgree },
+  "hooks-delivered": { repos: ["akasha"], run: hooksDelivered },
+  "hooks-uncopied": { repos: ["akasha"], run: hooksUncopied },
+  "links-resolve": { repos: ["akasha", "memory"], run: linksResolve },
+  "relations-resolve": { repos: ["akasha"], run: relationsResolve },
+  "lint-scope-coverage": { repos: ["akasha"], run: lintScopeCoverage },
+  "pages-hold-properties": { repos: ["akasha", "memory", "books", "stories"], run: pagesHoldProperties },
+  "pages-hold-shape": { repos: ["akasha", "memory", "books", "stories"], run: pagesHoldShape },
+  "pages-named-as-stated": { repos: ["akasha", "memory", "books", "stories"], run: pagesNamedAsStated },
+  "persona-values": { repos: ["akasha"], run: personaValues },
+  "positionals-cover-identifiers": { repos: ["akasha"], run: positionalsCoverIdentifiers },
+  "property-types-bind": { repos: ["akasha"], run: propertyTypesBind },
+  "refusals-bound": { repos: ["akasha"], run: refusalsBound },
+  "resume-notices": { repos: ["akasha"], run: resumeNotices },
+  "statusline-constants": { repos: ["akasha"], run: statuslineConstants },
+  "suite-runs": { repos: ["akasha"], run: suiteRuns, band: "painful" },
+  "tests-bounded": { repos: ["akasha"], run: testsBounded },
+  "commands-declare-help": { repos: ["akasha"], run: commandsDeclareHelp },
+  "commands-declare-summary": { repos: ["akasha"], run: commandsDeclareSummary },
+  "typecheck-repo": { repos: ["akasha"], run: typecheckRepo, band: "slow" },
 }
 
 function certified(outcome: Outcome): Outcome {
@@ -153,7 +153,7 @@ export function within(outcome: Outcome, band: Band): Outcome {
   }
 }
 
-export const SUITE = "suite-runs (instructions)"
+export const SUITE = "suite-runs (akasha)"
 
 export function suitePassed(outcomes: readonly Outcome[]): boolean {
   return outcomes.some(
@@ -202,7 +202,7 @@ export async function runChecks(
         refusalText(
           "checks-ceiling",
           { elapsed: (elapsedMs / 1000).toFixed(1), ceiling: (ceilingMs / 1000).toFixed(0) },
-          repoViewOf("instructions").roots.instructions,
+          repoViewOf("akasha").roots.akasha,
           fromDisk
         ),
       ],
@@ -236,7 +236,7 @@ if (import.meta.main) {
     } else if (argument === "--help" || argument === "-h") {
       process.stdout.write(
         `bun tools/run-checks.ts — run every check across the repo\n\n` +
-          `Usage:\n  bun ~/repos/instructions/tools/run-checks.ts [<name> …]\n\n` +
+          `Usage:\n  bun ~/repos/akasha/tools/run-checks.ts [<name> …]\n\n` +
           `A bare name is the check to run, and so is --check's value; naming none runs them all.\n` +
           `A name no check carries is refused rather than dropped, because a whole suite run green\n` +
           `reads as the answer to a question about the one check that was named.\n\n` +
@@ -271,7 +271,7 @@ if (import.meta.main) {
     exists: existsSync,
   })
   const at = cpuMs()
-  const startedOn = headSha(roots.instructions)
+  const startedOn = headSha(roots.akasha)
   const outcomes = await runChecks(CHECKS, repoViewOf, only)
   const took = cpuMs() - at
   const shown = only.length === 0 ? [...outcomes, spread(outcomes, took)] : outcomes
