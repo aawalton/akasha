@@ -1,0 +1,42 @@
+[
+  {
+    "type": "damage",
+    "target": {
+      "type": "enemy",
+      "range": 28,
+      "scope": "single"
+    },
+    "formula": {
+      "type": "metric-scaling",
+      "metricId": "companion-weapon-damage",
+      "coefficient": 1.5
+    },
+    "damageType": "poison"
+  },
+  {
+    "type": "dot",
+    "target": {
+      "type": "enemy",
+      "scope": "single"
+    },
+    "formula": {
+      "type": "metric-scaling",
+      "metricId": "companion-weapon-damage",
+      "coefficient": 4.5
+    },
+    "duration": 8,
+    "damageType": "poison",
+    "displayMode": "total",
+    "initialTick": false,
+    "tickInterval": 2,
+    "durationOffset": 2
+  },
+  {
+    "type": "cast-time",
+    "duration": 0.133
+  },
+  {
+    "type": "cooldown",
+    "duration": 12
+  }
+]
