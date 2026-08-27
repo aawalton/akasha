@@ -15,10 +15,6 @@ export interface FileTree {
   readonly pending?: ReadonlySet<string>
 }
 
-// `paths` scans every repository, so a path it hands back may stand in any of
-// them. Opening one against a single root was right only while one repository
-// held the pages; the page types stand in akasha now, and a tree that lists a
-// path it cannot then read reports an empty registry rather than a missing one.
 function openAcross(roots: Roots): Open {
   return (relPath: string): string | null => {
     for (const repo of REPOS) {
