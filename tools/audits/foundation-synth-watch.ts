@@ -3,7 +3,7 @@ import { existsSync } from "node:fs"
 import { dirname, relative, resolve } from "node:path"
 import { Glob } from "bun"
 import { judge, over } from "../../outcome/outcome"
-import { CODE } from "../../repo/roots/roots.ts"
+import { AKASHA, CODE, rootFor } from "../../repo/roots/roots.ts"
 import type { AsyncCheck } from "../lib/check.ts"
 import { buildFrom, readAt } from "../lib/graph/held-snapshot.ts"
 import { nodeKey } from "../lib/graph/key.ts"
@@ -252,15 +252,13 @@ function blind(detail: string): { readonly detail: string; readonly reported: re
 }
 
 export const foundationSynthWatch: AsyncCheck = async (repo) => {
-  const codeRoot = repo.roots.code
   const nothing = over(0, UNIT)
-  if (codeRoot === undefined) {
-    const absent = blind(
-      `no \`${CODE}\` repository is cloned here, so no snapshot could be taken and this ` +
-        "verdict covers nothing"
-    )
-    return { ...judge(NAME, absent.detail, absent.reported), population: nothing }
-  }
+  // THE `code` REPOSITORY IS GONE, absorbed into akasha, so the tree these synth sources stand in is
+  // this one. This read `repo.roots.code`, which answers `undefined` for a repository nothing has
+  // cloned, and judged over a population of zero — no snapshot was taken and no foundation workflow
+  // was weighed, while the suite counted the verdict as not-refused. `CODE` stays imported above: it
+  // labels a graph node's repository in `codeNode`, which is not a root.
+  const codeRoot = rootFor(repo.roots, AKASHA)
 
   let commit: string
   try {

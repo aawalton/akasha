@@ -1,5 +1,5 @@
 
-import { CODE } from "../../repo/roots/roots.ts"
+import { codeRoot } from "../lib/code-root.ts"
 import { existsSync, readFileSync } from "node:fs"
 import type { Check, CheckOutcome } from "../lib/check.ts"
 import {
@@ -135,11 +135,12 @@ export const lintScopeCoverage: Check = (repo) => {
     population: over(0, UNIT),
   })
 
-  const codeRoot = repo.roots.code
-  if (codeRoot === undefined) {
-    return blind(`no \`${CODE}\` repository is cloned here, so biome's own lint scope stands nowhere`)
-  }
-  const biomePath = `${codeRoot}/${BIOME_FILE}`
+  // THE `code` REPOSITORY IS GONE, absorbed into akasha, so `biome.json` and every file it lints
+  // stand in this tree. This read `repo.roots.code`, which answers `undefined` for a repository
+  // nothing has cloned, and reported nothing measured over a population of zero — which
+  // `tools/run-checks.ts` counts as not-refused, so the lint scope went unweighed and read green.
+  const root = codeRoot()
+  const biomePath = `${root}/${BIOME_FILE}`
 
   if (!repo.exists(biomePath)) {
     return blind(`${biomePath} stands nowhere, so biome's own lint scope could not be read`)
@@ -152,7 +153,7 @@ export const lintScopeCoverage: Check = (repo) => {
     includes = parseBiomeIncludes(readFileSync(biomePath, "utf8"))
     seeds = lintSeeds(STATIC_CHECKS)
     linted = biomeEffectiveLintedFiles(
-      repoFilesAt(codeRoot, { includeFixtures: true, includeGenerated: true }),
+      repoFilesAt(root, { includeFixtures: true, includeGenerated: true }),
       includes
     )
   } catch (err) {
