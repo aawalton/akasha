@@ -13,8 +13,8 @@ export const RULE_SET_AT = `${placeDirOf("rules-engine-rule-set")}/`
 
 function ruleSetAt(roots: Roots, ruleSet: string): string {
   const at = `${RULE_SET_AT}${ruleSet}.md`
-  if (existsSync(`${roots.instructions}/${at}`)) return at
-  const named = scanIn(roots.instructions, [`${RULE_SET_AT}**/*.md`]).find(
+  if (existsSync(`${roots.akasha}/${at}`)) return at
+  const named = scanIn(roots.akasha, [`${RULE_SET_AT}**/*.md`]).find(
     (one) => slugOf(one) === ruleSet
   )
   if (named !== undefined) return named
@@ -48,29 +48,38 @@ function typeOf(stated: Read): FieldType {
   return "text"
 }
 
-function claimOf(roots: Roots, type: PageType | undefined, slug: string): string {
-  if (type === undefined || reposOf(type).length === 0)
+interface Claim {
+  readonly root: string
+  readonly at: string
+}
+
+function claimOf(roots: Roots, type: PageType | undefined, slug: string): Claim {
+  const repo = type === undefined ? undefined : reposOf(type)[0]
+  if (type === undefined || repo === undefined)
     throw new Error(`\`${slug}\` names no page type that claims a file, so its values cannot be read`)
-  const standing = pagesOf(roots.instructions, type, "instructions")
+  const root = roots[repo]
+  if (root === undefined)
+    throw new Error(`\`${slug}\` is filed into \`${repo}\`, which is not cloned here, so its values cannot be read`)
+  const standing = pagesOf(root, type, repo)
   const only = standing[0]
-  return standing.length === 1 && only !== undefined ? only : placeOf(type.slug)
+  return { root, at: standing.length === 1 && only !== undefined ? only : placeOf(type.slug) }
 }
 
 function valuesFor(stated: Read, roots: Roots, types: readonly PageType[]): readonly string[] {
   const by = stated.one("normalized-by-slug")
   if (by === null) return stated.many("values")
-  const at = claimOf(
+  const claim = claimOf(
     roots,
     types.find((one) => one.slug === by),
     by
   )
-  return valuesOf(parseVocabulary(readFileSync(`${roots.instructions}/${at}`, "utf8")))
+  return valuesOf(parseVocabulary(readFileSync(`${claim.root}/${claim.at}`, "utf8")))
 }
 
 function definitionsOn(appliesTo: string, roots: Roots): readonly Read[] {
   const found: { readonly key: string; readonly stated: Read }[] = []
-  for (const relPath of scanIn(roots.instructions, PROPERTY_GLOBS)) {
-    const stated = readAt(roots.instructions, relPath)
+  for (const relPath of scanIn(roots.akasha, PROPERTY_GLOBS)) {
+    const stated = readAt(roots.akasha, relPath)
     const held = stated.one("defined-on-slug")
     if (held === null || slugNamed(held) !== appliesTo) continue
     const key = stated.one("key")
@@ -112,7 +121,7 @@ function normalizerOf(appliesTo: string, roots: Roots, types: readonly PageType[
         roots,
         types.find((one) => one.slug === by),
         by
-      ),
+      ).at,
     }
   }
   return null
@@ -125,10 +134,10 @@ function kindOf(slug: string, ruleSet: string): string {
 export function globsOf(ruleSet: string, roots: Roots): Readonly<Record<string, string>> {
   const types = registryOf(diskFileTree(roots))
   const relPath = ruleSetAt(roots, ruleSet)
-  const slug = readAt(roots.instructions, relPath).one("slug") ?? ruleSet
+  const slug = readAt(roots.akasha, relPath).one("slug") ?? ruleSet
   const globs: Record<string, string> = {}
   for (const one of types) {
-    if (readAt(roots.instructions, one.relPath).one("extends-slug") !== slug) continue
+    if (readAt(roots.akasha, one.relPath).one("extends-slug") !== slug) continue
     if (reposOf(one).length > 0) globs[kindOf(one.slug, ruleSet)] = placeOf(one.slug)
   }
   return globs
@@ -137,7 +146,7 @@ export function globsOf(ruleSet: string, roots: Roots): Readonly<Record<string, 
 export function ruleSetOf(ruleSet: string, roots: Roots): Pick<RuleSet, "name" | "fields" | "path" | "normalizer"> {
   const types = registryOf(diskFileTree(roots))
   const relPath = ruleSetAt(roots, ruleSet)
-  const stated = readAt(roots.instructions, relPath)
+  const stated = readAt(roots.akasha, relPath)
   const appliesTo = stated.one("applies-to-slug")
   const pattern = stated.one("path-pattern")
   if (appliesTo === null) throw new Error(`\`${relPath}\` states no \`applies-to-slug\`, so nothing says what it decides`)
