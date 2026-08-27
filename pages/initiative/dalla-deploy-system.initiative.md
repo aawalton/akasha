@@ -18,3 +18,4 @@ parent-slug: aine-global
 - The closure a service was deployed from is cached under `.git/deploy/`.
 - A service deploys only where the checks in its closure are green.
 - A service can deploy without waiting for any other.
+- A service running with no page is reported, and so is a page with no service.
