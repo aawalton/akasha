@@ -24,6 +24,8 @@ They are not. Every one of those 20 runs reads the tree off the filesystem; none
 
 Found by probing rather than reading. With `HOME` pointed at an empty directory: with `CODE_ROOT` set the verb runs; without it, exit 70, `UNREACHABLE_CODE_REPOSITORY`. The cause is `tools/lib/code-root.ts` — `process.env.CODE_ROOT ?? "${HOME}/code"` — resolved at CLI boot before any dispatch, so a pod having no `~/code` cannot run a verb at all on the recommended spelling.
 
+That probe no longer reproduces. `tools/lib/code-root.ts` stands, but the `code` repository is gone and the function now falls back to `ownRepoRoot()` and disregards a `CODE_ROOT` naming a directory that is not there. What is unrepaired is the reasoning gap below, not the boot path: on 2026-08-27 nothing across the 1162 tracked `*.domain.md`, `*.page-type.md`, `*.command.md` and `*.role.md` pages states a rule for naming what a cited run exercised.
+
 What makes this worth filing rather than correcting quietly: the discipline was the right one, applied by an author who had just used it correctly on the adjacent item in the same message, and it did not work. A proven/unproven split sorts *claims* by confidence and never asks what the cited run touched. The gap between "20 runs resolve the tree this way" and "20 runs spawn the CLI this way" is invisible to that sort, and immediately visible to the question "what did the run execute?"
 
 Filed rather than repaired: the remedy is a wording rule for citing a run as evidence, and where it belongs is nobody's judgment yet.

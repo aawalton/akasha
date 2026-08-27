@@ -12,7 +12,7 @@ The OAuth proxy still serves `GET /rc-status`, the RC-connection sensor three se
 
 # Evidence
 
-`packages/agents/oauth-proxy/src/oauth-proxy.ts:223` serves the route:
+The route moved into akasha with the proxy. `tools/lib/model-gateway/gateway.ts:137` serves it, in the same two lines the reading below took from `packages/agents/oauth-proxy/src/oauth-proxy.ts:223`:
 
     if (req.method === "GET" && url.pathname === "/rc-status") {
       return Response.json({ rcConnections: rcConn.getCount() })
@@ -30,3 +30,5 @@ Three live headers say the counter is both deleted and worthless:
 What was deleted was the consumer, not the sensor. The endpoint, the counter behind it and a test file asserting its shape all stand, so a future reader looking for a seat-health signal finds a served, tested, documented endpoint whose documentation elsewhere says it means nothing. `#15104` is on record as having already read that meaningless zero once and gated headless personas out of the app on it.
 
 Read against the code repo working tree of 2026-08-07.
+
+Re-measured 2026-08-27 against akasha. The endpoint and its counter stand; the only tracked files naming `rc-status` outside this page are the gateway itself and its two test files, `tools/tests/model-gateway-gateway-rc-status-carried.test.ts` and `tools/tests/model-gateway-gateway-vectors.ts`, so there is still no production consumer. What did not survive the move is the documentation: the line-114 comment naming the RC-absence monitor is gone, and so are all three headers calling the counter a false sensor — `false sensor` now matches this page and nothing else. The reading is still there to be taken, and nothing beside it says not to.
