@@ -2,7 +2,7 @@ import { askComposed } from "@shared/pages-query/ask"
 import { assembleInventory } from "@temper/game-items-core/assemble-inventory"
 import type { InventoryDatabase } from "@temper/game-items-core/inventory-types"
 import { shape } from "../shape.ts"
-import { type Infer } from "../shape-core"
+import type { Infer } from "../shape-core"
 
 export const SNAPSHOT_PAGE_TYPE = "temper-inventory-snapshot"
 export const CHUNK_PAGE_TYPE = "temper-inventory-chunk"

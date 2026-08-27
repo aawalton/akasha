@@ -7,8 +7,8 @@ import type { InferredCulprit } from "@temper/shared-capture-errors-decision-cor
 import * as triageGatherModule from "@temper/shared-capture-errors-decision-core/triage-gather"
 import * as luaParserModule from "@temper/shared-saved-variables/lua-parser"
 
-export type { ErrorEntry, InferredCulprit }
 export type { Ownership } from "@temper/shared-capture-errors-decision-core/liveness"
+export type { ErrorEntry, InferredCulprit }
 
 // Each of these names a whole module a caller is handed, not a value inside
 // one. The decision core exports a `Liveness` of its own — the live/stale

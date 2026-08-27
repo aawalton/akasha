@@ -1,3 +1,4 @@
+import { assertNever } from "@shared/utils-narrow"
 import { classifyItemToNodeIds } from "@temper/game-items-core/classify-item-node-ids"
 import { parseInventoryContent } from "@temper/game-items-core/inventory-parser"
 import type { InventoryDatabase } from "@temper/game-items-core/inventory-types"
@@ -19,7 +20,6 @@ import type {
   PlanItem,
   VenueStop,
 } from "@temper/game-items-rules-routing-core/inventory-management-plan-types"
-import { assertNever } from "@shared/utils-narrow"
 import {
   buildMatcherContext,
   DEFAULT_CHARACTERS_PATH,

@@ -1,9 +1,9 @@
 import { coverUrl } from "@shared/pages-url/cover"
+import { resolveRoots } from "../../repo/roots/roots"
 import { operationalError } from "./exit.ts"
 import { seaweedFSObjectStoreFromEnv } from "./object-store.ts"
 import { imageObjectKey } from "./object-store-keys"
 import { patchRow, writeRow } from "./page-rows-write.ts"
-import { resolveRoots } from "../../repo/roots/roots"
 
 export const GENERATION_LOG = "alan"
 
@@ -32,9 +32,7 @@ export async function createMediaRow(
     writer
   )
   if (landed === null) {
-    throw operationalError(
-      `\`${pageTypeSlug}\` names no page type another page holds in rows`
-    )
+    throw operationalError(`\`${pageTypeSlug}\` names no page type another page holds in rows`)
   }
   return { id }
 }
@@ -64,9 +62,7 @@ export async function publishRowCover(
     writer
   )
   if (patched === null) {
-    throw operationalError(
-      `\`${args.pageTypeSlug}\` names no page type another page holds in rows`
-    )
+    throw operationalError(`\`${args.pageTypeSlug}\` names no page type another page holds in rows`)
   }
   return { page: args.pageId, key, cover }
 }
