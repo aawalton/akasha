@@ -35,18 +35,18 @@ const FILES: Readonly<Record<string, string>> = {
   ]),
   "pages/page-property-definition/reader-title.page-property-definition.md": property("reader", "title", ["type: text"]),
 
-  "pages/spell/mend.md": page(["slug: mend", "title: Mend"]),
-  "pages/spell/ward.md": page(["slug: ward", "title: Ward"]),
-  "pages/rite/vigil.md": page(["slug: vigil", "title: Vigil"]),
+  "pages/spell/mend.spell.md": page(["slug: mend", "title: Mend"]),
+  "pages/spell/ward.spell.md": page(["slug: ward", "title: Ward"]),
+  "pages/rite/vigil.rite.md": page(["slug: vigil", "title: Vigil"]),
 
-  "pages/reader/ada.md": page(["slug: ada", "title: Ada"]),
+  "pages/reader/ada.reader.md": page(["slug: ada", "title: Ada"]),
 
-  "pages/spell/mend.sightings.jsonl": jsonl([
+  "pages/spell/mend.spell.sightings.jsonl": jsonl([
     { slug: "mend-first", chapter: "one", paragraph: 12, "reader-slug": "ada" },
     { slug: "mend-second", chapter: "two", paragraph: 3 },
   ]),
-  "pages/spell/ward.sightings.jsonl": jsonl([{ chapter: "three", paragraph: 40 }]),
-  "pages/rite/vigil.sightings.jsonl": jsonl([{ slug: "vigil-only", chapter: "four", paragraph: 7 }]),
+  "pages/spell/ward.spell.sightings.jsonl": jsonl([{ chapter: "three", paragraph: 40 }]),
+  "pages/rite/vigil.rite.sightings.jsonl": jsonl([{ slug: "vigil-only", chapter: "four", paragraph: 7 }]),
 }
 
 const root = mkdtempSync(join("/var/tmp", "page-data-rows-"))
@@ -72,7 +72,7 @@ describe("a page type whose pages stand in a `rows: jsonl` sidecar", () => {
   it("names each page by the slug the line states, and by its parent and line where none is stated", () => {
     const rows = deriver(ROOTS).rows("sighting") ?? []
     expect(rows.map((row) => row.values.chapter)).toEqual(["one", "two", "three", "four"])
-    expect(rows[2]?.at).toBe("akasha:pages/spell/ward.sightings.jsonl#0")
+    expect(rows[2]?.at).toBe("akasha:pages/spell/ward.spell.sightings.jsonl#0")
   })
 
   it("carries the page holding it under a key named for that page type", () => {
@@ -82,7 +82,7 @@ describe("a page type whose pages stand in a `rows: jsonl` sidecar", () => {
 
   it("gathers the sidecars of a page type extending the one the property is declared on", () => {
     const rows = deriver(ROOTS).rows("sighting") ?? []
-    expect(rows.at(-1)?.at).toBe("akasha:pages/rite/vigil.sightings.jsonl#0")
+    expect(rows.at(-1)?.at).toBe("akasha:pages/rite/vigil.rite.sightings.jsonl#0")
   })
 
   it("reports the property holding it, so a reader knows where its pages stand", () => {
@@ -141,17 +141,17 @@ describe("the page holding a sidecar", () => {
 describe("one whole page", () => {
   it("answers a page held in a sidecar with each relation replaced by what it names", () => {
     const got = whole(ROOTS, "sighting", "mend-first")
-    expect(got?.at).toBe("akasha:pages/spell/mend.sightings.jsonl#0")
+    expect(got?.at).toBe("akasha:pages/spell/mend.spell.sightings.jsonl#0")
     expect(got?.relations["reader-slug"]).toEqual([
-      { pageType: "reader", name: "ada", title: "Ada", at: "akasha:pages/reader/ada.md" },
+      { pageType: "reader", name: "ada", title: "Ada", at: "akasha:pages/reader/ada.reader.md" },
     ])
   })
 
   it("says a relation names nothing rather than dropping it", () => {
     const got = whole(ROOTS, "spell", "mend")
     expect(got?.relations["sightings"]).toEqual([
-      { pageType: "sighting", name: "mend-first", title: null, at: "akasha:pages/spell/mend.sightings.jsonl#0" },
-      { pageType: "sighting", name: "mend-second", title: null, at: "akasha:pages/spell/mend.sightings.jsonl#1" },
+      { pageType: "sighting", name: "mend-first", title: null, at: "akasha:pages/spell/mend.spell.sightings.jsonl#0" },
+      { pageType: "sighting", name: "mend-second", title: null, at: "akasha:pages/spell/mend.spell.sightings.jsonl#1" },
     ])
   })
 })
