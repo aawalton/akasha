@@ -1,13 +1,10 @@
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
-import { codeModule } from "../code-import.ts"
-import { codeRoot } from "../code-root.ts"
+import { NAMESPACE_NAMES } from "@infra/k8s/app-namespaces/synth"
+import { DISCOVERY_GLOBS } from "@infra/k8s-synth/manifests"
+import { akashaRoot } from "../../../repo/roots/roots.ts"
 import { extractSynthManifests } from "../graph/producers/k8s/synth-extract.ts"
 import { AUDITED_KINDS, type LiveResource, listLive } from "./cluster.ts"
-
-const APP_NAMESPACES = "packages/infra/k8s/src/app-namespaces/synth.ts"
-
-const SYNTH_MANIFESTS = "infra/k8s-synth--from-instructions/src/manifests.ts"
 
 export const MANAGED_BY_A_DEPLOY: ReadonlySet<string> = new Set(["deploy-script", "bootstrap"])
 
@@ -17,16 +14,6 @@ const AUDITED_KIND_NAMES: ReadonlySet<string> = new Set<string>(AUDITED_KINDS)
 
 export function resourceKey(kind: string, namespace: string, name: string): string {
   return `${kind}/${namespace}/${name}`
-}
-
-export async function appNamespaces(): Promise<readonly string[]> {
-  const held = await codeModule<{ readonly NAMESPACE_NAMES: readonly string[] }>(APP_NAMESPACES)
-  return held.NAMESPACE_NAMES
-}
-
-export async function synthGlobs(): Promise<readonly string[]> {
-  const held = await codeModule<{ readonly DISCOVERY_GLOBS: readonly string[] }>(SYNTH_MANIFESTS)
-  return held.DISCOVERY_GLOBS
 }
 
 export function sourceKeys(root: string, globs: readonly string[]): ReadonlySet<string> {
@@ -68,8 +55,8 @@ export interface Sweep {
 }
 
 export async function sweepOrphanedResources(deadlineMs: number): Promise<Sweep> {
-  const keys = sourceKeys(codeRoot(), await synthGlobs())
-  const namespaces = await appNamespaces()
+  const keys = sourceKeys(akashaRoot(), DISCOVERY_GLOBS)
+  const namespaces: readonly string[] = NAMESPACE_NAMES
   const live: LiveResource[] = []
   for (const namespace of namespaces) {
     for (const kind of AUDITED_KINDS) {

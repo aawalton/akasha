@@ -17,14 +17,14 @@ const SAID = "[orphaned-resources-sweep]"
 const HELP = `bun services/orphaned-resources-sweep.ts — live cluster resources no source manifest accounts for
 
 Reads every Deployment, Service and StatefulSet standing in the app namespaces, and every
-manifest the code repository's \`synth.ts\` files name. A live resource labelled as a deploy's
+manifest this repository's \`synth.ts\` files name. A live resource labelled as a deploy's
 that no manifest names has drifted: what runs no longer follows what the code says. Each one
 found is sent to \`${HANDLER}\` as one message. A clean sweep says nothing.
 
 A resource nothing labels as a deploy's is passed over, because nothing here claims to be its
 source.
 
-The manifests are read from the code checkout beside this one as it now stands, and the cluster
+The manifests are read from this checkout as it now stands, and the cluster
 is reached with the same \`PIPELINE_SA_TOKEN\`, \`K8S_API_BASE\` and \`K8S_CA_CERT_B64\` every
 other service here reaches it with.
 
@@ -43,7 +43,7 @@ async function readSweep(deadlineMs: number): Promise<SweepReading> {
   try {
     const swept = await sweepOrphanedResources(deadlineMs)
     console.log(
-      `${SAID} ${swept.sourceCount} source manifest key(s) read from the code checkout`
+      `${SAID} ${swept.sourceCount} source manifest key(s) read from this checkout`
     )
     return {
       ranOk: true,
