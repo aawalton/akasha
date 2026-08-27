@@ -1,6 +1,6 @@
 export const tool = {
   summary: "Run the Temper ESO SavedVariables watcher worker in the foreground until it exits or is signalled",
-  repos: ["instructions"],
+  repos: ["akasha"],
 } as const
 
 import { mkdirSync, openSync } from "node:fs"
@@ -34,7 +34,7 @@ ON SIGTERM OR SIGINT the signal is forwarded to the worker, the state file is cl
 a clean stop exits 0.
 
 Usage:
-  bun ~/repos/instructions/services/temper-watcher.ts [--json]
+  bun ~/repos/akasha/services/temper-watcher.ts [--json]
 
   --json  Emit the startup line as \`{ ok, pid, log_path }\` instead of \`pid=<n> log=<path>\`.
   --help  This.

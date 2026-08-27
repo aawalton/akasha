@@ -1,6 +1,6 @@
 export const tool = {
   summary: "Send each reminder whose schedule has come due",
-  repos: ["instructions"],
+  repos: ["akasha"],
 } as const
 
 import { type Reminder, everyReminder, nextElapse, takeReminder } from "../tools/lib/reminder-file.ts"
@@ -33,7 +33,7 @@ first seen is named instead and left standing: deleting a page somebody just wro
 sending it, costs more than residue that is reported on every run.
 
 Usage:
-  bun ~/repos/instructions/services/send-due-reminders.ts
+  bun ~/repos/akasha/services/send-due-reminders.ts
 
   --help  This.
 `

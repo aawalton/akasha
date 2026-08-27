@@ -1,6 +1,6 @@
 export const tool = {
   summary: "Copy the whole of Monarch and compare the copy against it",
-  repos: ["instructions"],
+  repos: ["akasha"],
 } as const
 
 import { sync } from "../monarch/sync.ts"
@@ -18,7 +18,7 @@ non-zero once every account has been tried, so one broken account costs its own 
 than the whole night's.
 
 Usage:
-  bun ~/repos/instructions/services/monarch-sync.ts [--incremental]
+  bun ~/repos/akasha/services/monarch-sync.ts [--incremental]
 
   --incremental  Land the trusted window rather than the whole of Monarch. Only the full run
                  speaks for rows older than that window.

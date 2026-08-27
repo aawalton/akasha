@@ -1,6 +1,6 @@
 export const tool = {
   summary: "Land the Monarch rows whose update time has moved",
-  repos: ["instructions"],
+  repos: ["akasha"],
 } as const
 
 import { pollTransactions } from "../monarch/poll.ts"
@@ -19,7 +19,7 @@ A ROW MONARCH NO LONGER LISTS IS RETIRED, judged against the window that was fet
 than against a single missing id.
 
 Usage:
-  bun ~/repos/instructions/services/monarch-poll.ts [--verbose]
+  bun ~/repos/akasha/services/monarch-poll.ts [--verbose]
 
   --verbose  Say so even when every watermark is the one we already hold.
   --help     This.
