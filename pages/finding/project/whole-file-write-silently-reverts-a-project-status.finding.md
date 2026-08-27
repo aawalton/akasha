@@ -1,5 +1,6 @@
 ---
 id: 8e5a874e-23b4-51d1-8137-181b0f05d1f1
+slug: whole-file-write-silently-reverts-a-project-status
 page-type-slug: finding
 title: "Whole file write silently reverts a project status"
 domain-slug: barred-meaning/project

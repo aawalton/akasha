@@ -1,5 +1,6 @@
 ---
 id: 0322ccb4-2820-5c47-97e3-a1a887643028
+slug: ar-ah-attended-conflation
 page-type-slug: finding
 title: "Ar ah attended conflation"
 domain-slug: page-property-definition/seat-mode

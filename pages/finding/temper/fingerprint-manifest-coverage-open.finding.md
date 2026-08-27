@@ -1,5 +1,6 @@
 ---
 id: b60bddcc-5605-59b0-95fc-c7f7de25c973
+slug: fingerprint-manifest-coverage-open
 page-type-slug: finding
 title: "Fingerprint manifest coverage open"
 domain-slug: domain/946

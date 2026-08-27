@@ -1,5 +1,6 @@
 ---
 id: 93816345-4816-5e4b-b4ea-712a5a7119ab
+slug: two-senses-of-dirty
 page-type-slug: finding
 title: "Two senses of dirty"
 domain-slug: task/ship-install

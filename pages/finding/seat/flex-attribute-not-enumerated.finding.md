@@ -1,5 +1,6 @@
 ---
 id: 3d2a30e0-b8ef-51df-b9f4-46192a67fc97
+slug: flex-attribute-not-enumerated
 page-type-slug: finding
 title: "Flex attribute not enumerated"
 domain-slug: page-type/seat

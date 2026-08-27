@@ -1,5 +1,6 @@
 ---
 id: f5aabe2f-751c-5de7-b90f-2b841882d265
+slug: three-limits-are-one-structure
 page-type-slug: finding
 title: "Three limits are one structure"
 domain-slug: domain/style

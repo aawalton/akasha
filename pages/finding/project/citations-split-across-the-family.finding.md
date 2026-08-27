@@ -1,5 +1,6 @@
 ---
 id: 888bb5e4-8b1f-5347-a374-a808ed422e07
+slug: citations-split-across-the-family
 page-type-slug: finding
 title: "Citations split across the family"
 domain-slug: barred-meaning/project

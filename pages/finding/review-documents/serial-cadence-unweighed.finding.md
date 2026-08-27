@@ -1,5 +1,6 @@
 ---
 id: 44ba7af3-f1b4-58e4-b55b-a1aa2b23b53c
+slug: serial-cadence-unweighed
 page-type-slug: finding
 title: "Serial cadence unweighed"
 domain-slug: domain/global

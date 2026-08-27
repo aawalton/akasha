@@ -1,5 +1,6 @@
 ---
 id: 843329aa-63d0-5292-87dd-3f22af4715f1
+slug: completely-blocked-unenforced
 page-type-slug: finding
 title: "Completely blocked unenforced"
 domain-slug: domain/seat-turn-end

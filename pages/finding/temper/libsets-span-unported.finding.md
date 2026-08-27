@@ -1,5 +1,6 @@
 ---
 id: fb1382fc-157d-5b1f-b608-280ec906edf2
+slug: libsets-span-unported
 page-type-slug: finding
 title: "Libsets span unported"
 domain-slug: domain/946

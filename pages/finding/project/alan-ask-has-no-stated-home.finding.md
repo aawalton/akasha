@@ -1,5 +1,6 @@
 ---
 id: 4addc600-8327-5373-80d9-d8bc9231b41f
+slug: alan-ask-has-no-stated-home
 page-type-slug: finding
 title: "Alan ask has no stated home"
 domain-slug: barred-meaning/project

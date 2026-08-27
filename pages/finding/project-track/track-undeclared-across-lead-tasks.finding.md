@@ -1,5 +1,6 @@
 ---
 id: 150a72de-5d88-5e85-a612-d40af0659960
+slug: track-undeclared-across-lead-tasks
 page-type-slug: finding
 title: "Track undeclared across lead tasks"
 domain-slug: domain/global

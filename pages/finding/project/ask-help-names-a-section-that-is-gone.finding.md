@@ -1,5 +1,6 @@
 ---
 id: 1d25912f-c302-534e-96e1-16bb2d10f61f
+slug: ask-help-names-a-section-that-is-gone
 page-type-slug: finding
 title: "Ask help names a section that is gone"
 domain-slug: barred-meaning/project

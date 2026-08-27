@@ -1,5 +1,6 @@
 ---
 id: 63a97c8a-0621-5e5d-883e-47163876ade9
+slug: definition-leads-with-purpose
 page-type-slug: finding
 title: "Definition leads with purpose"
 domain-slug: domain/seat-name

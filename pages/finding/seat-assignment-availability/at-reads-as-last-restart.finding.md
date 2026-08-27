@@ -1,5 +1,6 @@
 ---
 id: f3620a9c-0801-5869-9d7d-0998cd5b4ea4
+slug: at-reads-as-last-restart
 page-type-slug: finding
 title: "At reads as last restart"
 domain-slug: barred-meaning/seat-assignment-availability

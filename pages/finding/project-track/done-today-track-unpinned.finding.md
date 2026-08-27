@@ -1,5 +1,6 @@
 ---
 id: 7c2011a0-9930-5b99-9744-e52547813380
+slug: done-today-track-unpinned
 page-type-slug: finding
 title: "Done today track unpinned"
 domain-slug: domain/global

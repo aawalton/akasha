@@ -1,5 +1,6 @@
 ---
 id: 1212a385-9c70-5864-a9eb-3b076e3e013f
+slug: names-that-spell-no-attributes
 page-type-slug: finding
 title: "Names that spell no attributes"
 domain-slug: domain/seat-name

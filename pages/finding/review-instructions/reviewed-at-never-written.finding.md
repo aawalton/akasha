@@ -1,5 +1,6 @@
 ---
 id: a2054c8b-51b0-582b-b965-a10a9d324478
+slug: reviewed-at-never-written
 page-type-slug: finding
 title: "Reviewed at never written"
 domain-slug: task/review-instructions

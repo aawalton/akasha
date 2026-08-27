@@ -1,5 +1,6 @@
 ---
 id: 89ec2be3-9bc4-519c-8824-177a14cd4230
+slug: status-subsets-underived
 page-type-slug: finding
 title: "Status subsets underived"
 domain-slug: barred-meaning/project

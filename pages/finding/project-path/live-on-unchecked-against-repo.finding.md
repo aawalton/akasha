@@ -1,5 +1,6 @@
 ---
 id: efc67baa-617d-5130-a65b-402897c57033
+slug: live-on-unchecked-against-repo
 page-type-slug: finding
 title: "Live on unchecked against repo"
 domain-slug: domain/global

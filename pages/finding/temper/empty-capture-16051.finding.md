@@ -1,5 +1,6 @@
 ---
 id: 63ae1e05-7636-529b-a92a-bde94397054b
+slug: empty-capture-16051
 page-type-slug: finding
 title: "Empty capture 16051"
 domain-slug: domain/946

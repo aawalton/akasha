@@ -1,5 +1,6 @@
 ---
 id: 92e8b72f-843a-5aa9-ac26-34575c1787d0
+slug: a-name-is-a-reusable-slot
 page-type-slug: finding
 title: "A name is a reusable slot"
 domain-slug: domain/seat-name

@@ -1,5 +1,6 @@
 ---
 id: f002c5de-0e11-56fe-aef2-c4bb95514888
+slug: worktree-measurement-stale
 page-type-slug: finding
 title: "Worktree measurement stale"
 domain-slug: domain/global

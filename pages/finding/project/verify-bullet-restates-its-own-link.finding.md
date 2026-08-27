@@ -1,5 +1,6 @@
 ---
 id: 9979cdb5-0c05-549d-a157-38a8fd7f753e
+slug: verify-bullet-restates-its-own-link
 page-type-slug: finding
 title: "Verify bullet restates its own link"
 domain-slug: barred-meaning/project

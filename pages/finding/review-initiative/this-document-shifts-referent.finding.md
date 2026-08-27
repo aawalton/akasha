@@ -1,5 +1,6 @@
 ---
 id: b57d7e42-4eb9-5728-ab13-24a9c7932b26
+slug: this-document-shifts-referent
 page-type-slug: finding
 title: "This document shifts referent"
 domain-slug: task/review-initiative

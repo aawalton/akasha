@@ -1,5 +1,6 @@
 ---
 id: edd19b3d-c5ab-5630-9fcf-e9ceb2cab39c
+slug: pid-signal-declared-twice
 page-type-slug: finding
 title: "Pid signal declared twice"
 domain-slug: domain/supervisor

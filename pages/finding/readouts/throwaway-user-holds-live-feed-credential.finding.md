@@ -1,5 +1,6 @@
 ---
 id: 99f92bf7-864e-5ad2-b825-b47f92234534
+slug: throwaway-user-holds-live-feed-credential
 page-type-slug: finding
 title: "Throwaway user holds live feed credential"
 domain-slug: domain/global

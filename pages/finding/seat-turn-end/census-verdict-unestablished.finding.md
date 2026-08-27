@@ -1,5 +1,6 @@
 ---
 id: e16321ff-304a-5204-bb05-4e23940e4840
+slug: census-verdict-unestablished
 page-type-slug: finding
 title: "Census verdict unestablished"
 domain-slug: domain/seat-turn-end

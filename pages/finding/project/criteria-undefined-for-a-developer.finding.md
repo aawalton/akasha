@@ -1,5 +1,6 @@
 ---
 id: 90444b86-75dd-551c-9b85-b5eeaf3b5bbd
+slug: criteria-undefined-for-a-developer
 page-type-slug: finding
 title: "Criteria undefined for a developer"
 domain-slug: barred-meaning/project

@@ -1,5 +1,6 @@
 ---
 id: 2678ae6c-bdc8-524d-af26-ccb49d0a0daf
+slug: writers-outside-the-pass
 page-type-slug: finding
 title: "Writers outside the pass"
 domain-slug: domain/global

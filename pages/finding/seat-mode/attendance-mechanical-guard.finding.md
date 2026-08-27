@@ -1,5 +1,6 @@
 ---
 id: 0ceac9ce-bece-57a4-beea-9ea6f8701e43
+slug: attendance-mechanical-guard
 page-type-slug: finding
 title: "Attendance mechanical guard"
 domain-slug: page-property-definition/seat-mode

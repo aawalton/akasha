@@ -1,5 +1,6 @@
 ---
 id: 73dc2ee1-b0e6-5986-9f78-3df5d81923bf
+slug: conduct-rules-have-no-home
 page-type-slug: finding
 title: "Conduct rules have no home"
 domain-slug: page-type/role

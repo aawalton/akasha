@@ -1,5 +1,6 @@
 ---
 id: 70b5a251-9a6e-550b-9fed-e8fc617e89de
+slug: project-assignment-cannot-be-ended
 page-type-slug: finding
 title: "Project assignment cannot be ended"
 domain-slug: domain/global

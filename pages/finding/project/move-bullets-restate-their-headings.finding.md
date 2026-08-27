@@ -1,5 +1,6 @@
 ---
 id: b23bf70b-7ba4-5062-9237-343b7e92b575
+slug: move-bullets-restate-their-headings
 page-type-slug: finding
 title: "Move bullets restate their headings"
 domain-slug: barred-meaning/project

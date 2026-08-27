@@ -1,5 +1,6 @@
 ---
 id: a5a0b1b9-76da-5b3e-a064-e36128550bf4
+slug: the-instance-slot-lost-its-only-guard
 page-type-slug: finding
 title: "The instance slot lost its only guard"
 domain-slug: domain/seat-attribute

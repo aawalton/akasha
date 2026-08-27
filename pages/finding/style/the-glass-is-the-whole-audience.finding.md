@@ -1,5 +1,6 @@
 ---
 id: 6df80e2b-d79c-582c-b339-192846a086fd
+slug: the-glass-is-the-whole-audience
 page-type-slug: finding
 title: "The glass is the whole audience"
 domain-slug: domain/style

@@ -1,5 +1,6 @@
 ---
 id: 6759cdd3-b211-57bc-8877-eac83b645a09
+slug: convention-files-unreachable
 page-type-slug: finding
 title: "Convention files unreachable"
 domain-slug: domain/scripture-study

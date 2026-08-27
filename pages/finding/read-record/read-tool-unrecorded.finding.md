@@ -1,5 +1,6 @@
 ---
 id: 18aeee49-ea64-5117-9347-0eb7169d91b7
+slug: read-tool-unrecorded
 page-type-slug: finding
 title: "Read tool unrecorded"
 domain-slug: domain/read-record

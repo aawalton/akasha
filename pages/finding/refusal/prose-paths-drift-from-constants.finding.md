@@ -1,5 +1,6 @@
 ---
 id: 9d00349c-7d9a-5662-b489-2e6ad0869a68
+slug: prose-paths-drift-from-constants
 page-type-slug: finding
 title: "Prose paths drift from constants"
 domain-slug: page-type/refusal

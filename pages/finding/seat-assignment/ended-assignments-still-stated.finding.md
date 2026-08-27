@@ -1,5 +1,6 @@
 ---
 id: 17ef952f-5298-5b16-9f1a-946ab5e5d850
+slug: ended-assignments-still-stated
 page-type-slug: finding
 title: "Ended assignments still stated"
 domain-slug: domain/seat-assignment

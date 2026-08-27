@@ -1,5 +1,6 @@
 ---
 id: 0f984fb8-2408-5fd2-9281-b12ffca21d64
+slug: open-question-turn-end-gap
 page-type-slug: finding
 title: "Open question turn end gap"
 domain-slug: domain/seat-turn-end

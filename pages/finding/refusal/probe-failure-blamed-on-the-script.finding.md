@@ -1,5 +1,6 @@
 ---
 id: c2509fd8-69c8-5712-810b-51d04a9a18fe
+slug: probe-failure-blamed-on-the-script
 page-type-slug: finding
 title: "Probe failure blamed on the script"
 domain-slug: page-type/refusal

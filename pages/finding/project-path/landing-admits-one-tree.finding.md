@@ -1,5 +1,6 @@
 ---
 id: 9ebff03e-f9ba-5ebf-8882-e5e369849bc4
+slug: landing-admits-one-tree
 page-type-slug: finding
 title: "Landing admits one tree"
 domain-slug: domain/global

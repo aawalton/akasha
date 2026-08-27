@@ -1,5 +1,6 @@
 ---
 id: 66081512-360e-5864-b819-2b03eca78313
+slug: review-reads-findings-and-files-none
 page-type-slug: finding
 title: "Review reads findings and files none"
 domain-slug: domain/global

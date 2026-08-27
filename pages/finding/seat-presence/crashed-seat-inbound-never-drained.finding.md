@@ -1,5 +1,6 @@
 ---
 id: 33e8ff0f-1ebc-532d-8abe-1f4260dca602
+slug: crashed-seat-inbound-never-drained
 page-type-slug: finding
 title: "Crashed seat inbound never drained"
 domain-slug: page-property-definition/seat-presence

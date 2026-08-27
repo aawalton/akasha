@@ -1,5 +1,6 @@
 ---
 id: 153c664a-f773-5b44-8b81-fe69f98f828d
+slug: bedside-tolerance-is-a-preference
 page-type-slug: finding
 title: "Bedside tolerance is a preference"
 domain-slug: domain/sleep

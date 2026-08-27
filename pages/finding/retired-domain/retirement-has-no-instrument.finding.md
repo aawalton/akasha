@@ -1,5 +1,6 @@
 ---
 id: 472f4488-29c0-584d-a2a0-546d08c83393
+slug: retirement-has-no-instrument
 page-type-slug: finding
 title: "Retirement has no instrument"
 domain-slug: domain/global

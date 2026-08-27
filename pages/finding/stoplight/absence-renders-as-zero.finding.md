@@ -1,5 +1,6 @@
 ---
 id: 99d7b2b7-6fdc-5c6e-b909-d77742e3b6eb
+slug: absence-renders-as-zero
 page-type-slug: finding
 title: "Absence renders as zero"
 domain-slug: domain/stoplight

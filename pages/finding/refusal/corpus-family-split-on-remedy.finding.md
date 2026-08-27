@@ -1,5 +1,6 @@
 ---
 id: 7a06134a-23fc-5f8c-bd9a-4e20b04fbd50
+slug: corpus-family-split-on-remedy
 page-type-slug: finding
 title: "Corpus family split on remedy"
 domain-slug: page-type/refusal

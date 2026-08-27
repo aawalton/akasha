@@ -1,5 +1,6 @@
 ---
 id: f53608f7-5b6f-558e-bc87-2c937d2e78ff
+slug: ephemeral-ports-exhausted-to-postgres
 page-type-slug: finding
 title: "Ephemeral ports exhausted to Postgres"
 domain-slug: domain/query-performance

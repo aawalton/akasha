@@ -1,5 +1,6 @@
 ---
 id: a9bd8d03-5972-5739-9b88-14dbfe3b0011
+slug: awaiting-alan-heading-refused
 page-type-slug: finding
 title: "Awaiting Alan heading refused"
 domain-slug: barred-meaning/project

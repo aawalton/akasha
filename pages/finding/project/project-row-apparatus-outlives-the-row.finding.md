@@ -1,5 +1,6 @@
 ---
 id: db2e3db7-d7f2-5403-bc39-a6e7f5743a96
+slug: project-row-apparatus-outlives-the-row
 page-type-slug: finding
 title: "Project row apparatus outlives the row"
 domain-slug: barred-meaning/project

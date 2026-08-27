@@ -1,5 +1,6 @@
 ---
 id: a169018b-0f0b-5332-b177-2cfa6b48756f
+slug: split-rule-never-splits
 page-type-slug: finding
 title: "Split rule never splits"
 domain-slug: domain/global

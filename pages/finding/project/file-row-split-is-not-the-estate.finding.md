@@ -1,5 +1,6 @@
 ---
 id: 87b133b8-77ad-54af-86fb-3821c2ca6c7e
+slug: file-row-split-is-not-the-estate
 page-type-slug: finding
 title: "File row split is not the estate"
 domain-slug: barred-meaning/project

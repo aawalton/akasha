@@ -1,5 +1,6 @@
 ---
 id: 40227775-b970-50bf-acb6-84d243f97354
+slug: whole-name-match-unrouted
 page-type-slug: finding
 title: "Whole name match unrouted"
 domain-slug: domain/seat-name

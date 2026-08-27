@@ -1,5 +1,6 @@
 ---
 id: 917f2b1b-9226-5e9b-a5ef-096d2967ccce
+slug: sync-window-unstated
 page-type-slug: finding
 title: "Sync window unstated"
 domain-slug: barred-meaning/project

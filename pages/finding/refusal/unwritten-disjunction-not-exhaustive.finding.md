@@ -1,5 +1,6 @@
 ---
 id: f4f31ca6-482d-5e0c-91a9-bcb2353f3d8d
+slug: unwritten-disjunction-not-exhaustive
 page-type-slug: finding
 title: "Unwritten disjunction not exhaustive"
 domain-slug: page-type/refusal

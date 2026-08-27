@@ -1,5 +1,6 @@
 ---
 id: 7ca03330-e56d-56a3-815c-230921bcb975
+slug: failed-main-pipeline-reported-unobserved
 page-type-slug: finding
 title: "Failed main pipeline reported unobserved"
 domain-slug: barred-meaning/project

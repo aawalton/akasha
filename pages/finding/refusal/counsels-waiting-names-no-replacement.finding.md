@@ -1,5 +1,6 @@
 ---
 id: 6ef68595-218a-55d6-bc7c-1df4a16d295a
+slug: counsels-waiting-names-no-replacement
 page-type-slug: finding
 title: "Counsels waiting names no replacement"
 domain-slug: page-type/refusal

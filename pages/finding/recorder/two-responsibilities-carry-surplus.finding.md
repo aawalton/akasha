@@ -1,5 +1,6 @@
 ---
 id: 6dec8505-411b-5db1-95e5-dd06fade0131
+slug: two-responsibilities-carry-surplus
 page-type-slug: finding
 title: "Two responsibilities carry surplus"
 domain-slug: role/recorder

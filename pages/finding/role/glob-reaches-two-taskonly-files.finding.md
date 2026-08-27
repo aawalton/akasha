@@ -1,5 +1,6 @@
 ---
 id: b521321f-cc19-5e39-a85e-492213c72fbb
+slug: glob-reaches-two-taskonly-files
 page-type-slug: finding
 title: "Glob reaches two taskonly files"
 domain-slug: page-type/role

@@ -1,5 +1,6 @@
 ---
 id: 3720ac19-88cf-5b9b-90d2-49e21cbb0db5
+slug: deficit-hours-drawn-nowhere
 page-type-slug: finding
 title: "Deficit hours drawn nowhere"
 domain-slug: domain/global

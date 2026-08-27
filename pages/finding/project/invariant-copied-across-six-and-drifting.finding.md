@@ -1,5 +1,6 @@
 ---
 id: be6d4b30-c58d-50e4-aad0-b3c08c9d9629
+slug: invariant-copied-across-six-and-drifting
 page-type-slug: finding
 title: "Invariant copied across six and drifting"
 domain-slug: barred-meaning/project

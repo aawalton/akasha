@@ -1,5 +1,6 @@
 ---
 id: b7d3e6c7-109f-5116-b77b-669b29a84372
+slug: throughput-reading-tripled-database-load
 page-type-slug: finding
 title: "Throughput reading tripled database load"
 domain-slug: domain/query-performance

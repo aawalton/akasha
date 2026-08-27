@@ -1,5 +1,6 @@
 ---
 id: c5ae154b-c927-57d7-bb45-af5331cdbd87
+slug: per-field-versioning-recovers-week-of-history
 page-type-slug: finding
 title: "Per field versioning recovers week of history"
 domain-slug: domain/stoplight

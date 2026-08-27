@@ -1,5 +1,6 @@
 ---
 id: e1cad0e8-4753-5cd7-b527-d699a7376894
+slug: responsibility-restates-task-entry
 page-type-slug: finding
 title: "Responsibility restates task entry"
 domain-slug: page-type/role

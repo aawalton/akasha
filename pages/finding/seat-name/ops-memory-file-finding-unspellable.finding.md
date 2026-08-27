@@ -1,5 +1,6 @@
 ---
 id: fb99f562-507d-5578-9b78-84c1a04313e9
+slug: ops-memory-file-finding-unspellable
 page-type-slug: finding
 title: "Ops memory file finding unspellable"
 domain-slug: domain/seat-name

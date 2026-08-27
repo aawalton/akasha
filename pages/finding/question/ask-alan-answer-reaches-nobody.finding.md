@@ -1,5 +1,6 @@
 ---
 id: 28c40fad-a2d8-5924-a8e2-33c753d422ae
+slug: ask-alan-answer-reaches-nobody
 page-type-slug: finding
 title: "Ask Alan answer reaches nobody"
 domain-slug: page-type/question

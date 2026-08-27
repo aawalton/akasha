@@ -1,5 +1,6 @@
 ---
 id: 6732c13d-26e9-5727-bf61-08571281d969
+slug: verb-stands-only-on-a-branch
 page-type-slug: finding
 title: "Verb stands only on a branch"
 domain-slug: domain/global

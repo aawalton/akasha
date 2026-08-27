@@ -1,5 +1,6 @@
 ---
 id: a6b095a6-e532-58bd-b095-ac96a090a152
+slug: red-is-an-undeclared-coinage
 page-type-slug: finding
 title: "Red is an undeclared coinage"
 domain-slug: barred-meaning/project

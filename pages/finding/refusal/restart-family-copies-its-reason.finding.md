@@ -1,5 +1,6 @@
 ---
 id: 01b6c459-820c-5e00-8bb3-4c12d5a05f54
+slug: restart-family-copies-its-reason
 page-type-slug: finding
 title: "Restart family copies its reason"
 domain-slug: page-type/refusal

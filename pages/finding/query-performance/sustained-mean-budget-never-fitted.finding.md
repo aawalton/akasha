@@ -1,5 +1,6 @@
 ---
 id: ba0698fe-836d-5fd0-8e94-c633f0ada3bf
+slug: sustained-mean-budget-never-fitted
 page-type-slug: finding
 title: "Sustained mean budget never fitted"
 domain-slug: domain/query-performance

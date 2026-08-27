@@ -1,5 +1,6 @@
 ---
 id: 71eef2e4-c992-568c-8767-c018a4ecd6c3
+slug: hygiene-readout-describes-nothing-drawn
 page-type-slug: finding
 title: "Hygiene readout describes nothing drawn"
 domain-slug: domain/readout-system

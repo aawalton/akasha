@@ -1,5 +1,6 @@
 ---
 id: 0154c3b0-7ea1-5875-a18d-1f5ea7b60219
+slug: presence-names-two-things
 page-type-slug: finding
 title: "Presence names two things"
 domain-slug: domain/presence

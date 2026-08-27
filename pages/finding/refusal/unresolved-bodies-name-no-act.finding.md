@@ -1,5 +1,6 @@
 ---
 id: 23cf1672-5ec8-5722-ae71-22dc94b81107
+slug: unresolved-bodies-name-no-act
 page-type-slug: finding
 title: "Unresolved bodies name no act"
 domain-slug: page-type/refusal

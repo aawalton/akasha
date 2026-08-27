@@ -1,5 +1,6 @@
 ---
 id: 25ed4122-ceb1-5e52-ad8b-dbc676ab82c4
+slug: window-shorter-than-tick-overreads
 page-type-slug: finding
 title: "Window shorter than tick overreads"
 domain-slug: domain/resource-utilization

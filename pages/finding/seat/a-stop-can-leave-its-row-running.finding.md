@@ -1,5 +1,6 @@
 ---
 id: a6b437f9-ca30-5d15-b448-bac917f5146c
+slug: a-stop-can-leave-its-row-running
 page-type-slug: finding
 title: "A stop can leave its row running"
 domain-slug: page-type/seat

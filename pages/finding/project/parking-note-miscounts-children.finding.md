@@ -1,5 +1,6 @@
 ---
 id: e3a5ab56-0595-5a2e-b918-7541a4282629
+slug: parking-note-miscounts-children
 page-type-slug: finding
 title: "Parking note miscounts children"
 domain-slug: barred-meaning/project

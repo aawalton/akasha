@@ -1,5 +1,6 @@
 ---
 id: 183d1be0-5b7b-51c0-9191-274831a082b8
+slug: list-act-sits-inside-the-slice-loop
 page-type-slug: finding
 title: "List act sits inside the slice loop"
 domain-slug: task/review-instructions

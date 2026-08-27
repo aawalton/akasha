@@ -1,5 +1,6 @@
 ---
 id: 5895e77b-969b-5739-b54a-062ace3a05f5
+slug: where-hole-carries-two-senses
 page-type-slug: finding
 title: "Where hole carries two senses"
 domain-slug: page-type/refusal

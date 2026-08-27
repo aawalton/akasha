@@ -1,5 +1,6 @@
 ---
 id: c6beb893-966b-598d-afa4-c538fa4b8cb3
+slug: project-seq-is-spelled-three-ways
 page-type-slug: finding
 title: "Project seq is spelled three ways"
 domain-slug: page-type/seat

@@ -1,5 +1,6 @@
 ---
 id: 8e52b167-1bec-53f4-acc5-418e6378510b
+slug: seat-design-lives-in-code-comments
 page-type-slug: finding
 title: "Seat design lives in code comments"
 domain-slug: page-type/seat

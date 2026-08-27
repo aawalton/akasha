@@ -1,5 +1,6 @@
 ---
 id: d07ca2ff-eb89-5b9d-aeed-438df392ee18
+slug: parents-to-role-not-domain
 page-type-slug: finding
 title: "Parents to role not domain"
 domain-slug: domain/global

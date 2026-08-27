@@ -1,5 +1,6 @@
 ---
 id: 8f22f581-b7b7-5255-8228-1dbb0aac27e2
+slug: ladder-as-formula-arithmetic
 page-type-slug: finding
 title: "Ladder as formula arithmetic"
 domain-slug: domain/relationship-level

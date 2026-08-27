@@ -1,5 +1,6 @@
 ---
 id: 4838e93c-e34b-5177-9811-3d5d616f16f7
+slug: parent-tasks-carry-an-unread-sentence
 page-type-slug: finding
 title: "Parent tasks carry an unread sentence"
 domain-slug: barred-meaning/project

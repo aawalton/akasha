@@ -1,5 +1,6 @@
 ---
 id: 40a81a4a-6137-5ae5-9aa4-a984cba7b03b
+slug: craftsman-and-court-declined
 page-type-slug: finding
 title: "Craftsman and court declined"
 domain-slug: domain/style

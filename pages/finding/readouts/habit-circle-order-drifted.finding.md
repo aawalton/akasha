@@ -1,5 +1,6 @@
 ---
 id: 8a63376c-ad43-5683-8769-ff7767e6e9b1
+slug: habit-circle-order-drifted
 page-type-slug: finding
 title: "Habit circle order drifted"
 domain-slug: domain/global

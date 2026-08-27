@@ -1,5 +1,6 @@
 ---
 id: 1f318147-0a39-5f96-b846-9e870d3ea33a
+slug: imagery-direction-in-code
 page-type-slug: finding
 title: "Imagery direction in code"
 domain-slug: domain/relationship-level

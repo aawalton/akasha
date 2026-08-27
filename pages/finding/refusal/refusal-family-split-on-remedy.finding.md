@@ -1,5 +1,6 @@
 ---
 id: ba5b720b-c31e-5c7f-91a0-00ea37b99a6d
+slug: refusal-family-split-on-remedy
 page-type-slug: finding
 title: "Refusal family split on remedy"
 domain-slug: page-type/refusal

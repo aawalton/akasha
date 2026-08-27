@@ -1,5 +1,6 @@
 ---
 id: e1ef6281-42e2-5c47-9bbe-b1c2de52569b
+slug: stalled-latches-waiting-flag
 page-type-slug: finding
 title: "Stalled latches waiting flag"
 domain-slug: domain/reader

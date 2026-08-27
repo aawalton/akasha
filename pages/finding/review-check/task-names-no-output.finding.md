@@ -1,5 +1,6 @@
 ---
 id: 9f94d131-3def-50fa-a937-9d9e2eb9a204
+slug: task-names-no-output
 page-type-slug: finding
 title: "Task names no output"
 domain-slug: domain/global

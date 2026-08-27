@@ -1,5 +1,6 @@
 ---
 id: 114642b2-7d2b-5919-9eaf-1f6c89ef967a
+slug: forward-marker-breaks-on-rename
 page-type-slug: finding
 title: "Forward marker breaks on rename"
 domain-slug: task/prepare-interview

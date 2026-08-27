@@ -1,5 +1,6 @@
 ---
 id: 2d6db085-e4b1-580e-b8e1-06211297cf7f
+slug: reference-manifest-collides-on-every-pair
 page-type-slug: finding
 title: "Reference manifest collides on every pair"
 domain-slug: domain/global

@@ -1,5 +1,6 @@
 ---
 id: fa6b349b-03bd-573c-a6d6-bdde1fbad080
+slug: row-document-never-refreshed
 page-type-slug: finding
 title: "Row document never refreshed"
 domain-slug: barred-meaning/project

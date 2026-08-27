@@ -1,5 +1,6 @@
 ---
 id: 9992d11b-1bda-53db-8620-cee7b1d51ece
+slug: seat-identity-unrecorded
 page-type-slug: finding
 title: "Seat identity unrecorded"
 domain-slug: page-type/role

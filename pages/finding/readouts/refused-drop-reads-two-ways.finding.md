@@ -1,5 +1,6 @@
 ---
 id: 2e5d80b2-00d3-547b-8207-b86b4baa2805
+slug: refused-drop-reads-two-ways
 page-type-slug: finding
 title: "Refused drop reads two ways"
 domain-slug: domain/global

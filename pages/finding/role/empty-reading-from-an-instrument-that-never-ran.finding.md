@@ -1,5 +1,6 @@
 ---
 id: 733b407e-6f4a-5ae3-9d5a-32a5b1bc4093
+slug: empty-reading-from-an-instrument-that-never-ran
 page-type-slug: finding
 title: "Empty reading from an instrument that never ran"
 domain-slug: page-type/role

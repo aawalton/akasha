@@ -1,5 +1,6 @@
 ---
 id: 818973da-942c-57ba-a9bb-f972abfcfe48
+slug: measured-figure-restated
 page-type-slug: finding
 title: "Measured figure restated"
 domain-slug: domain/global

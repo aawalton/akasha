@@ -1,5 +1,6 @@
 ---
 id: 81a0e5f2-5ff8-5559-8b52-96d89cb21153
+slug: spare-spelling-unnamed
 page-type-slug: finding
 title: "Spare spelling unnamed"
 domain-slug: page-type/refusal

@@ -1,5 +1,6 @@
 ---
 id: 5611c297-fbf3-5ac7-a953-2b9d161db731
+slug: bare-code-paths-resolve-nowhere
 page-type-slug: finding
 title: "Bare code paths resolve nowhere"
 domain-slug: domain/global

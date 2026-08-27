@@ -1,5 +1,6 @@
 ---
 id: 9870cc56-77b8-5dec-8b09-e45bc6a4cb46
+slug: spawn-still-spells-seq
 page-type-slug: finding
 title: "Spawn still spells seq"
 domain-slug: domain/global

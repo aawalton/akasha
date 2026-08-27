@@ -1,5 +1,6 @@
 ---
 id: 86212200-bf75-5117-ab06-3c1840726c35
+slug: unreadable-family-split-on-causes
 page-type-slug: finding
 title: "Unreadable family split on causes"
 domain-slug: page-type/refusal

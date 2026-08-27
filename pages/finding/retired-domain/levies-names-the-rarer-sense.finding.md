@@ -1,5 +1,6 @@
 ---
 id: 36c978d7-c9bb-5846-95fe-5ba15d85bb69
+slug: levies-names-the-rarer-sense
 page-type-slug: finding
 title: "Levies names the rarer sense"
 domain-slug: domain/global

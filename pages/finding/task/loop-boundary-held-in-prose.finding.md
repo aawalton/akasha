@@ -1,5 +1,6 @@
 ---
 id: 92b8b769-09e2-5178-b5af-2a99ea970fbb
+slug: loop-boundary-held-in-prose
 page-type-slug: finding
 title: "Loop boundary held in prose"
 domain-slug: page-type/task

@@ -1,5 +1,6 @@
 ---
 id: 2529b41d-f66f-5791-baf7-9142da94b75a
+slug: delegation-doubles-base-harness
 page-type-slug: finding
 title: "Delegation doubles base harness"
 domain-slug: page-type/role

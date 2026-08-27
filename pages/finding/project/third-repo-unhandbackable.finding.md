@@ -1,5 +1,6 @@
 ---
 id: 195c5a13-a0a9-59ab-b76a-48bc1c3d520b
+slug: third-repo-unhandbackable
 page-type-slug: finding
 title: "Third repo unhandbackable"
 domain-slug: barred-meaning/project

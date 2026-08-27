@@ -1,5 +1,6 @@
 ---
 id: 01a01ff4-775f-7000-b70d-df7cb2f66460
+slug: royal-road-sync-would-still-fail-if-only-its-directory-were-repointed
 page-type-slug: finding
 title: "Royal road sync would still fail if only its directory were repointed"
 domain-slug: domain/royal-road

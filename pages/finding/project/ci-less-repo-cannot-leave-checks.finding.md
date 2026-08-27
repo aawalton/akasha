@@ -1,5 +1,6 @@
 ---
 id: 520254b1-34dc-50fc-add3-40d280c98633
+slug: ci-less-repo-cannot-leave-checks
 page-type-slug: finding
 title: "CI less repo cannot leave checks"
 domain-slug: barred-meaning/project

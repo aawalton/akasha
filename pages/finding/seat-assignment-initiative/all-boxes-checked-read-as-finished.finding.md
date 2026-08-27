@@ -1,5 +1,6 @@
 ---
 id: 7c74e83b-3aca-530e-8081-cde16bb418a4
+slug: all-boxes-checked-read-as-finished
 page-type-slug: finding
 title: "All boxes checked read as finished"
 domain-slug: domain/seat-assignment-initiative

@@ -1,5 +1,6 @@
 ---
 id: fdde8a7b-ccfe-5cd0-b86b-1a152b3bc44f
+slug: finished-reads-as-waiting
 page-type-slug: finding
 title: "Finished reads as waiting"
 domain-slug: domain/seat-turn-end

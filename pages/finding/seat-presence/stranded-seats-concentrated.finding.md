@@ -1,5 +1,6 @@
 ---
 id: ef43ae99-d455-5e0f-b620-63dc9e48927b
+slug: stranded-seats-concentrated
 page-type-slug: finding
 title: "Stranded seats concentrated"
 domain-slug: page-property-definition/seat-presence

@@ -1,5 +1,6 @@
 ---
 id: 3e77889d-0d78-5711-b396-0ad4745678c3
+slug: alanwalton-atlas-secret-not-watched
 page-type-slug: finding
 title: "Alanwalton atlas secret not watched"
 domain-slug: domain/secret

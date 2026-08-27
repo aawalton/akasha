@@ -1,5 +1,6 @@
 ---
 id: 7cee19b8-65ff-5a48-ab41-338f333ce9b0
+slug: shelved-row-affords-unearned-moves
 page-type-slug: finding
 title: "Shelved row affords unearned moves"
 domain-slug: barred-meaning/project

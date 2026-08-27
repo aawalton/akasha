@@ -1,5 +1,6 @@
 ---
 id: 360509e0-5106-5029-98c5-120dea1851d6
+slug: offer-asks-for-one-reply
 page-type-slug: finding
 title: "Offer asks for one reply"
 domain-slug: task/review-initiative

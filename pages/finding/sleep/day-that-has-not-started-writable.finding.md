@@ -1,5 +1,6 @@
 ---
 id: aa3604cc-c380-5eb4-a685-51143a60456d
+slug: day-that-has-not-started-writable
 page-type-slug: finding
 title: "Day that has not started writable"
 domain-slug: domain/sleep

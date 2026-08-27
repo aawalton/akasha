@@ -1,5 +1,6 @@
 ---
 id: 4527ceb2-f13d-5371-ac97-150579c85a56
+slug: ambient-type-declaration-duplicate
 page-type-slug: finding
 title: "Ambient type declaration duplicate"
 domain-slug: domain/946

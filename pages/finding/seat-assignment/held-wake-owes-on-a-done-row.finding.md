@@ -1,5 +1,6 @@
 ---
 id: dbacac4d-d4a1-5554-8768-de111ae81bfc
+slug: held-wake-owes-on-a-done-row
 page-type-slug: finding
 title: "Held wake owes on a done row"
 domain-slug: domain/seat-assignment

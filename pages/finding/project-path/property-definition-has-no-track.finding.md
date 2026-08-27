@@ -1,5 +1,6 @@
 ---
 id: 28e99d60-6a8c-52fa-bbfd-46b5f8a2c1ac
+slug: property-definition-has-no-track
 page-type-slug: finding
 title: "Property definition has no track"
 domain-slug: domain/global

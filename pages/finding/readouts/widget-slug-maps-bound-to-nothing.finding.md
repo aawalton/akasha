@@ -1,5 +1,6 @@
 ---
 id: 194e59e1-0bcd-5295-9c83-06bc1e5eac67
+slug: widget-slug-maps-bound-to-nothing
 page-type-slug: finding
 title: "Widget slug maps bound to nothing"
 domain-slug: domain/global

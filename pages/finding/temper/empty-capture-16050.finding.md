@@ -1,5 +1,6 @@
 ---
 id: b6d59f20-cb84-5848-964d-4a90db2bacda
+slug: empty-capture-16050
 page-type-slug: finding
 title: "Empty capture 16050"
 domain-slug: domain/946

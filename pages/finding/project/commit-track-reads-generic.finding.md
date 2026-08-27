@@ -1,5 +1,6 @@
 ---
 id: 4778e69e-1642-5c42-8133-cb2fc81511ca
+slug: commit-track-reads-generic
 page-type-slug: finding
 title: "Commit track reads generic"
 domain-slug: barred-meaning/project

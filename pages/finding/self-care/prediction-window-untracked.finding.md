@@ -1,5 +1,6 @@
 ---
 id: a805e118-2056-56b3-939c-2dd4d4ac9ca0
+slug: prediction-window-untracked
 page-type-slug: finding
 title: "Prediction window untracked"
 domain-slug: domain/self-care

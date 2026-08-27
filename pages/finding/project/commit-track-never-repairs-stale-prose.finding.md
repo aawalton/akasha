@@ -1,5 +1,6 @@
 ---
 id: c45048f2-5c6b-5dad-96ea-700f2b466230
+slug: commit-track-never-repairs-stale-prose
 page-type-slug: finding
 title: "Commit track never repairs stale prose"
 domain-slug: barred-meaning/project

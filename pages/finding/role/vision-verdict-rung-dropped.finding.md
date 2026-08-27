@@ -1,5 +1,6 @@
 ---
 id: ca9a7a38-1fce-5d8b-b781-3a6b97b38c8c
+slug: vision-verdict-rung-dropped
 page-type-slug: finding
 title: "Vision verdict rung dropped"
 domain-slug: page-type/role

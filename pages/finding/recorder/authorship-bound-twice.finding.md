@@ -1,5 +1,6 @@
 ---
 id: 79303261-ea45-573c-9984-51cf101a1fa5
+slug: authorship-bound-twice
 page-type-slug: finding
 title: "Authorship bound twice"
 domain-slug: role/recorder

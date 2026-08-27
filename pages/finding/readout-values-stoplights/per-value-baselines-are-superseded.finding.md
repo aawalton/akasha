@@ -1,5 +1,6 @@
 ---
 id: 9bc8dd09-c4dd-557e-a6c0-579539197d50
+slug: per-value-baselines-are-superseded
 page-type-slug: finding
 title: "Per value baselines are superseded"
 domain-slug: domain/global

@@ -1,5 +1,6 @@
 ---
 id: dccae690-d5ec-59f8-a86a-43503e8e5f0e
+slug: file-finding-reachable-from-lead-only
 page-type-slug: finding
 title: "File finding reachable from lead only"
 domain-slug: page-type/role

@@ -1,5 +1,6 @@
 ---
 id: a069d25a-41ee-5cbd-930c-25420ebaa42f
+slug: safety-tile-unreached
 page-type-slug: finding
 title: "Safety tile unreached"
 domain-slug: domain/global

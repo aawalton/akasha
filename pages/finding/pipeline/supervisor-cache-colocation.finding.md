@@ -1,5 +1,6 @@
 ---
 id: c1f12c45-a01f-586c-abce-c6e36048ec47
+slug: supervisor-cache-colocation
 page-type-slug: finding
 title: "Supervisor cache colocation"
 domain-slug: page-type/pipeline

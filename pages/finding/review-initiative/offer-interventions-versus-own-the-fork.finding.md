@@ -1,5 +1,6 @@
 ---
 id: f7335b5c-52ef-5838-8010-1fb986357eb7
+slug: offer-interventions-versus-own-the-fork
 page-type-slug: finding
 title: "Offer interventions versus own the fork"
 domain-slug: task/review-initiative

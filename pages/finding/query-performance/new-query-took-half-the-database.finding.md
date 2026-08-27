@@ -1,5 +1,6 @@
 ---
 id: 0612f83b-e783-5102-954f-b013bef2b77c
+slug: new-query-took-half-the-database
 page-type-slug: finding
 title: "New query took half the database"
 domain-slug: domain/query-performance

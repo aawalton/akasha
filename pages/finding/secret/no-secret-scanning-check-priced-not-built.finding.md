@@ -1,5 +1,6 @@
 ---
 id: a7e2a894-0bbe-5e6a-8273-c758f490cdab
+slug: no-secret-scanning-check-priced-not-built
 page-type-slug: finding
 title: "No secret scanning check priced not built"
 domain-slug: domain/secret

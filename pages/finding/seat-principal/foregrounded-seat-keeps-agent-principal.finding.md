@@ -1,5 +1,6 @@
 ---
 id: 39e93f3e-a448-5784-8cb4-3f19620681ba
+slug: foregrounded-seat-keeps-agent-principal
 page-type-slug: finding
 title: "Foregrounded seat keeps agent principal"
 domain-slug: domain/seat-principal

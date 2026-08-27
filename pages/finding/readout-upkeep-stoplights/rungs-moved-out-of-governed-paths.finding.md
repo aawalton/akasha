@@ -1,5 +1,6 @@
 ---
 id: f580435c-c852-5941-8943-255a3dd9abea
+slug: rungs-moved-out-of-governed-paths
 page-type-slug: finding
 title: "Rungs moved out of governed paths"
 domain-slug: domain/global

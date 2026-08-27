@@ -1,5 +1,6 @@
 ---
 id: 07a51a14-41a0-5a4e-9a79-51b67ea4cbda
+slug: disabled-list-and-refusal-spell-differently
 page-type-slug: finding
 title: "Disabled list and refusal spell differently"
 domain-slug: page-type/refusal

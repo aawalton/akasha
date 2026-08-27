@@ -1,5 +1,6 @@
 ---
 id: 0552156c-3eb3-5bcc-b8d1-b1c5b25853b9
+slug: loop-and-sequence-fit-neither-walk
 page-type-slug: finding
 title: "Loop and sequence fit neither walk"
 domain-slug: page-type/task

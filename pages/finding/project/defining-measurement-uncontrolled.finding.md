@@ -1,5 +1,6 @@
 ---
 id: 6a2da116-0879-56ca-b62e-578f77d08ff6
+slug: defining-measurement-uncontrolled
 page-type-slug: finding
 title: "Defining measurement uncontrolled"
 domain-slug: barred-meaning/project

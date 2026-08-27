@@ -1,5 +1,6 @@
 ---
 id: d39c9037-0a61-585c-a463-9dbdaa738574
+slug: no-realiser-turns-the-whole-proof-off
 page-type-slug: finding
 title: "No realiser turns the whole proof off"
 domain-slug: domain/rules-engine-field-list

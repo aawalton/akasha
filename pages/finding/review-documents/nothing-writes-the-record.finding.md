@@ -1,5 +1,6 @@
 ---
 id: a785a3c5-0bb0-527e-8e67-7faca281fb76
+slug: nothing-writes-the-record
 page-type-slug: finding
 title: "Nothing writes the record"
 domain-slug: domain/global

@@ -1,5 +1,6 @@
 ---
 id: 1decc13e-bf73-589b-a978-96dfce6909cc
+slug: run-ruling-fails-on-main
 page-type-slug: finding
 title: "Run ruling fails on main"
 domain-slug: barred-meaning/project

@@ -1,5 +1,6 @@
 ---
 id: 5367120e-9cac-5cca-b3aa-22dcdc9bcab1
+slug: horizontal-change-reads-as-a-bar
 page-type-slug: finding
 title: "Horizontal change reads as a bar"
 domain-slug: page-type/role

@@ -1,5 +1,6 @@
 ---
 id: 3fb8e302-8a44-50a1-969a-32ddef063284
+slug: opus-5-headless-auto-fallback-pinned
 page-type-slug: finding
 title: "Opus 5 headless auto fallback pinned"
 domain-slug: domain/technology

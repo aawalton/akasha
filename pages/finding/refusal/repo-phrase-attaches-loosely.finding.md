@@ -1,5 +1,6 @@
 ---
 id: 26d61214-973f-581c-91f0-2ea977b6092e
+slug: repo-phrase-attaches-loosely
 page-type-slug: finding
 title: "Repo phrase attaches loosely"
 domain-slug: page-type/refusal

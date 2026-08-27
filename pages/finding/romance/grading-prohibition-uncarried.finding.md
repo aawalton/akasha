@@ -1,5 +1,6 @@
 ---
 id: 86fcb398-8923-5987-848b-7481369fbe8f
+slug: grading-prohibition-uncarried
 page-type-slug: finding
 title: "Grading prohibition uncarried"
 domain-slug: domain/romance

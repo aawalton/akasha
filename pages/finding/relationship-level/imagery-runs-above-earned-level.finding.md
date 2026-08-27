@@ -1,5 +1,6 @@
 ---
 id: 4c235c78-d62d-5af3-9954-4c84cd8903a8
+slug: imagery-runs-above-earned-level
 page-type-slug: finding
 title: "Imagery runs above earned level"
 domain-slug: domain/relationship-level

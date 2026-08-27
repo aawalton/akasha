@@ -1,5 +1,6 @@
 ---
 id: b442f244-0794-550b-896e-8f6380cc5e54
+slug: cut-never-records-a-fingerprint
 page-type-slug: finding
 title: "Cut never records a fingerprint"
 domain-slug: ios-app/smilingjenny-ios

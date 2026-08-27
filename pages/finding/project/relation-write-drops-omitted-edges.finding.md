@@ -1,5 +1,6 @@
 ---
 id: 60bf7287-f09c-5892-a8d6-c5cfa30724a2
+slug: relation-write-drops-omitted-edges
 page-type-slug: finding
 title: "Relation write drops omitted edges"
 domain-slug: barred-meaning/project

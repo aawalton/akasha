@@ -1,5 +1,6 @@
 ---
 id: de6f051e-c895-5a6e-ae76-7c2db3fdfc79
+slug: parent-completion-notify-unfiltered
 page-type-slug: finding
 title: "Parent completion notify unfiltered"
 domain-slug: domain/global

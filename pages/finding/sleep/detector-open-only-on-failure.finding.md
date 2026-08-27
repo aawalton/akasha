@@ -1,5 +1,6 @@
 ---
 id: 35b5493f-81c4-5019-93a2-61946fa2e63d
+slug: detector-open-only-on-failure
 page-type-slug: finding
 title: "Detector open only on failure"
 domain-slug: domain/sleep

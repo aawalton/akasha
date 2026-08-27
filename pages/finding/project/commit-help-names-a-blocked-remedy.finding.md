@@ -1,5 +1,6 @@
 ---
 id: bae0a07d-6b73-561e-8b4a-632d1d22d0e9
+slug: commit-help-names-a-blocked-remedy
 page-type-slug: finding
 title: "Commit help names a blocked remedy"
 domain-slug: barred-meaning/project

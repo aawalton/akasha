@@ -1,5 +1,6 @@
 ---
 id: 6c061c23-83d8-5cbd-b2f3-0f668166eada
+slug: variant-uninstantiated-names-no-remedy
 page-type-slug: finding
 title: "Variant uninstantiated names no remedy"
 domain-slug: page-type/refusal

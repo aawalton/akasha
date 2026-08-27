@@ -1,5 +1,6 @@
 ---
 id: 6ccbc1b5-7759-5fd2-86af-9d2aaf68d373
+slug: landing-define-run-died-silently
 page-type-slug: finding
 title: "Landing define run died silently"
 domain-slug: role/scenewright

@@ -1,5 +1,6 @@
 ---
 id: ea231bfa-d5d7-5739-9fab-745a602a42c3
+slug: shape-union-code-and-path-part-from-zod
 page-type-slug: finding
 title: "Shape union code and path part from zod"
 domain-slug: domain/global

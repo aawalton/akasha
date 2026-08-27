@@ -1,5 +1,6 @@
 ---
 id: 324d943a-334a-5205-b50f-6a3758bc8689
+slug: obligation-opened-never-closed
 page-type-slug: finding
 title: "Obligation opened never closed"
 domain-slug: barred-meaning/project

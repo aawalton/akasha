@@ -1,5 +1,6 @@
 ---
 id: 79ad2495-61e4-56bd-a813-bb1febd8096e
+slug: core-lib-routes-to-absent-docs
 page-type-slug: finding
 title: "Core lib routes to absent docs"
 domain-slug: barred-meaning/project

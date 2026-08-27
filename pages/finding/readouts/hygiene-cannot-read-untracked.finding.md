@@ -1,5 +1,6 @@
 ---
 id: 7a36037a-2a98-556d-bff5-bebf8e8b3652
+slug: hygiene-cannot-read-untracked
 page-type-slug: finding
 title: "Hygiene cannot read untracked"
 domain-slug: domain/global

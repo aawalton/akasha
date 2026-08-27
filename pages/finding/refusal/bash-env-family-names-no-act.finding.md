@@ -1,5 +1,6 @@
 ---
 id: e6a72119-4cb9-52e4-90eb-167c0fbab708
+slug: bash-env-family-names-no-act
 page-type-slug: finding
 title: "Bash env family names no act"
 domain-slug: page-type/refusal

@@ -1,5 +1,6 @@
 ---
 id: 2cad61e0-0e69-5b50-a19d-a9870935116a
+slug: dropped-figure-stands-in-code
 page-type-slug: finding
 title: "Dropped figure stands in code"
 domain-slug: domain/global

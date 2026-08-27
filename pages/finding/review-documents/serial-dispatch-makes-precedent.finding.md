@@ -1,5 +1,6 @@
 ---
 id: 66916e49-c4b1-5873-94a4-ec850fc272d3
+slug: serial-dispatch-makes-precedent
 page-type-slug: finding
 title: "Serial dispatch makes precedent"
 domain-slug: domain/global

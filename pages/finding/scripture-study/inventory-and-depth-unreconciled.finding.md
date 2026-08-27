@@ -1,5 +1,6 @@
 ---
 id: 0fd7fac6-a2a3-52a6-8e34-3f8a09d85fe3
+slug: inventory-and-depth-unreconciled
 page-type-slug: finding
 title: "Inventory and depth unreconciled"
 domain-slug: domain/scripture-study

@@ -1,5 +1,6 @@
 ---
 id: a3fb8bdf-b2fe-569e-8275-d97c149dd897
+slug: two-tiles-have-no-domain
 page-type-slug: finding
 title: "Two tiles have no domain"
 domain-slug: domain/global

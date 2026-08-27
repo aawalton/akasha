@@ -1,5 +1,6 @@
 ---
 id: a81398eb-240b-576a-995d-92505c1e95b3
+slug: frozen-attribute-paths
 page-type-slug: finding
 title: "Frozen attribute paths"
 domain-slug: page-type/seat

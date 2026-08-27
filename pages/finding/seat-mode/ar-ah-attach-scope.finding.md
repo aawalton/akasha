@@ -1,5 +1,6 @@
 ---
 id: e089d217-8dc7-5870-9826-0f52ff6e063a
+slug: ar-ah-attach-scope
 page-type-slug: finding
 title: "Ar ah attach scope"
 domain-slug: page-property-definition/seat-mode

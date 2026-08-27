@@ -1,5 +1,6 @@
 ---
 id: 6b37b6b5-a224-56ce-8bfa-defd5c282fc3
+slug: principal-follows-launch-path
 page-type-slug: finding
 title: "Principal follows launch path"
 domain-slug: domain/seat-principal

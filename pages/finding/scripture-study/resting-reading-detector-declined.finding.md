@@ -1,5 +1,6 @@
 ---
 id: a5726677-e490-5f35-a9e8-0ce48dad457d
+slug: resting-reading-detector-declined
 page-type-slug: finding
 title: "Resting reading detector declined"
 domain-slug: domain/scripture-study

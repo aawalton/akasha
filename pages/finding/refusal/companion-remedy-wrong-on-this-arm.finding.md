@@ -1,5 +1,6 @@
 ---
 id: 10ca6887-481b-5d34-af06-db4a0518397c
+slug: companion-remedy-wrong-on-this-arm
 page-type-slug: finding
 title: "Companion remedy wrong on this arm"
 domain-slug: page-type/refusal

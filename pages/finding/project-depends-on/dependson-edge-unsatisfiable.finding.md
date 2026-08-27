@@ -1,5 +1,6 @@
 ---
 id: c948a52f-e03e-5f33-8c4c-845652b4ffcc
+slug: dependson-edge-unsatisfiable
 page-type-slug: finding
 title: "Dependson edge unsatisfiable"
 domain-slug: domain/global

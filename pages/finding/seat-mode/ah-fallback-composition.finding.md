@@ -1,5 +1,6 @@
 ---
 id: f9e481e0-fd39-5585-bf98-2fbf31fa15e5
+slug: ah-fallback-composition
 page-type-slug: finding
 title: "Ah fallback composition"
 domain-slug: page-property-definition/seat-mode

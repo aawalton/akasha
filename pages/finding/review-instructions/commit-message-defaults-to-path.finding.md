@@ -1,5 +1,6 @@
 ---
 id: 110dd5ea-109d-5d6b-92dc-9b868ac98f1e
+slug: commit-message-defaults-to-path
 page-type-slug: finding
 title: "Commit message defaults to path"
 domain-slug: task/review-instructions

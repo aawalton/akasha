@@ -1,5 +1,6 @@
 ---
 id: 6e2f2462-8faf-5eb6-a174-e207e11922ad
+slug: widget-swift-unchecked
 page-type-slug: finding
 title: "Widget swift unchecked"
 domain-slug: ios-app/smilingjenny-ios

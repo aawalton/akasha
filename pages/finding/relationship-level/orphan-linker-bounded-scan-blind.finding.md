@@ -1,5 +1,6 @@
 ---
 id: dcc123ad-9256-5eac-afc2-43b367268ce1
+slug: orphan-linker-bounded-scan-blind
 page-type-slug: finding
 title: "Orphan linker bounded scan blind"
 domain-slug: domain/relationship-level

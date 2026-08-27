@@ -1,5 +1,6 @@
 ---
 id: 115c6e5b-2e67-564c-9888-31d28c787ed8
+slug: declared-statuses-never-written
 page-type-slug: finding
 title: "Declared statuses never written"
 domain-slug: page-property-definition/seat-presence

@@ -1,5 +1,6 @@
 ---
 id: dc9da871-0495-5737-80bd-46b9c75f85c7
+slug: alive-is-not-yes-or-no
 page-type-slug: finding
 title: "Alive is not yes or no"
 domain-slug: task/review-initiative

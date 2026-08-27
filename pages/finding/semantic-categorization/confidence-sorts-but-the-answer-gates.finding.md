@@ -1,5 +1,6 @@
 ---
 id: 6507976f-6de1-5c5b-8453-d42dbe1cfe3c
+slug: confidence-sorts-but-the-answer-gates
 page-type-slug: finding
 title: "Confidence sorts but the answer gates"
 domain-slug: domain/semantic-categorization

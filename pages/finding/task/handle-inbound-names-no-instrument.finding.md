@@ -1,5 +1,6 @@
 ---
 id: 62cffa48-6ac9-5474-b498-6575fed21206
+slug: handle-inbound-names-no-instrument
 page-type-slug: finding
 title: "Handle inbound names no instrument"
 domain-slug: page-type/task

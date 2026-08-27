@@ -1,5 +1,6 @@
 ---
 id: 502d3039-b81b-5491-aa2e-916e196efdbd
+slug: slice-review-cannot-see-a-spread-marker
 page-type-slug: finding
 title: "Slice review cannot see a spread marker"
 domain-slug: task/review-instructions

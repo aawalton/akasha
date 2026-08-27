@@ -1,5 +1,6 @@
 ---
 id: 60c6f8f8-e96f-578f-abc9-0640ec210e27
+slug: intent-cannot-be-retired
 page-type-slug: finding
 title: "Intent cannot be retired"
 domain-slug: page-type/seat

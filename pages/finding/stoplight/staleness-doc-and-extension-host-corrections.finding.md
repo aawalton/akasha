@@ -1,5 +1,6 @@
 ---
 id: fa1c45a5-37e3-54a1-9a79-8a602fcb4f14
+slug: staleness-doc-and-extension-host-corrections
 page-type-slug: finding
 title: "Staleness doc and extension host corrections"
 domain-slug: domain/stoplight

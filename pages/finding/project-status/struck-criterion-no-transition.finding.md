@@ -1,5 +1,6 @@
 ---
 id: 8d4ddb55-c51c-55bd-b99b-3cb32c671467
+slug: struck-criterion-no-transition
 page-type-slug: finding
 title: "Struck criterion no transition"
 domain-slug: domain/global

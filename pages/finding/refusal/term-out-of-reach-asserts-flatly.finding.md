@@ -1,5 +1,6 @@
 ---
 id: a69d5ba2-5d0c-507d-b4c2-3c176f5e4a16
+slug: term-out-of-reach-asserts-flatly
 page-type-slug: finding
 title: "Term out of reach asserts flatly"
 domain-slug: page-type/refusal

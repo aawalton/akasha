@@ -1,5 +1,6 @@
 ---
 id: 64f8a134-748a-5d6c-965f-fafe5af96f7b
+slug: census-rung-count-matches-no-ladder
 page-type-slug: finding
 title: "Census rung count matches no ladder"
 domain-slug: domain/global

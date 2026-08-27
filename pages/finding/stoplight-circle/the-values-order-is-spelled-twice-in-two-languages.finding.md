@@ -1,5 +1,6 @@
 ---
 id: d7e6d4be-086c-572b-b92c-61bd3c46a880
+slug: the-values-order-is-spelled-twice-in-two-languages
 page-type-slug: finding
 title: "The values order is spelled twice in two languages"
 domain-slug: domain/global

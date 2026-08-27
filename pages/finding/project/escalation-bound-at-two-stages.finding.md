@@ -1,5 +1,6 @@
 ---
 id: 274809bb-f564-5fde-8772-8a3fdf1c2f4d
+slug: escalation-bound-at-two-stages
 page-type-slug: finding
 title: "Escalation bound at two stages"
 domain-slug: barred-meaning/project

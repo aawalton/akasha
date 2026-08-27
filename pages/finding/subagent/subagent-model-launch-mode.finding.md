@@ -1,5 +1,6 @@
 ---
 id: ae06703f-4849-5111-a0cf-4a67a4e10ff9
+slug: subagent-model-launch-mode
 page-type-slug: finding
 title: "Subagent model launch mode"
 domain-slug: page-type/subagent

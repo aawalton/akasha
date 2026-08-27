@@ -1,5 +1,6 @@
 ---
 id: cb03c7cd-e14e-55c5-bf55-71df78a57db3
+slug: empty-corpus-imports-a-frame
 page-type-slug: finding
 title: "Empty corpus imports a frame"
 domain-slug: task/prepare-interview

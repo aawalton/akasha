@@ -1,5 +1,6 @@
 ---
 id: 50fdfad4-0de6-5440-9c54-1aa3799f2089
+slug: pids-hole-read-as-one-seat
 page-type-slug: finding
 title: "Pids hole read as one seat"
 domain-slug: page-type/refusal

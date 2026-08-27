@@ -1,5 +1,6 @@
 ---
 id: b1591fae-57a5-5e51-87cd-afaa220e872d
+slug: citation-has-no-reader
 page-type-slug: finding
 title: "Citation has no reader"
 domain-slug: domain/global

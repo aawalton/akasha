@@ -1,5 +1,6 @@
 ---
 id: 9fefb011-9e45-53a5-b1e2-c8ba63f2311e
+slug: account-page-states-no-title
 page-type-slug: finding
 title: "Account page states no title"
 domain-slug: domain/946

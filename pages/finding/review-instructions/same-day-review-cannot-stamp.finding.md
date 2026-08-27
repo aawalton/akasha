@@ -1,5 +1,6 @@
 ---
 id: 9b805193-40ce-5864-a1d4-f1d6ef5fdf1e
+slug: same-day-review-cannot-stamp
 page-type-slug: finding
 title: "Same day review cannot stamp"
 domain-slug: task/review-instructions

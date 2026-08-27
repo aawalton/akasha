@@ -1,5 +1,6 @@
 ---
 id: f1ed8e36-a029-568d-b0af-3fa9d6490b95
+slug: detector-reads-stale-notes
 page-type-slug: finding
 title: "Detector reads stale notes"
 domain-slug: barred-meaning/project

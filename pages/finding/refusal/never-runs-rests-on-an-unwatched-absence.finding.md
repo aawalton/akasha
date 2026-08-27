@@ -1,5 +1,6 @@
 ---
 id: 3a8cf271-f553-55b3-9798-5759f48e27c8
+slug: never-runs-rests-on-an-unwatched-absence
 page-type-slug: finding
 title: "Never runs rests on an unwatched absence"
 domain-slug: page-type/refusal

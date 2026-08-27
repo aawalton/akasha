@@ -1,5 +1,6 @@
 ---
 id: 3d92e74b-811d-5b18-b9b7-fe1110ea2d9f
+slug: nothing-says-when-the-seat-stops
 page-type-slug: finding
 title: "Nothing says when the seat stops"
 domain-slug: domain/global

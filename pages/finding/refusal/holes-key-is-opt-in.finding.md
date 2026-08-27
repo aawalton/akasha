@@ -1,5 +1,6 @@
 ---
 id: e0b60b7b-837c-5353-9c3f-ee7ca2bd8b71
+slug: holes-key-is-opt-in
 page-type-slug: finding
 title: "Holes key is opt in"
 domain-slug: page-type/refusal

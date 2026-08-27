@@ -1,5 +1,6 @@
 ---
 id: 2c66ebbd-fdca-5441-8fcd-b31df30c64f3
+slug: create-help-silent-on-depth-refusal
 page-type-slug: finding
 title: "Create help silent on depth refusal"
 domain-slug: barred-meaning/project

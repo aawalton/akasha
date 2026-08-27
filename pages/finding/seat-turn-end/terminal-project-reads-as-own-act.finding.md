@@ -1,5 +1,6 @@
 ---
 id: e81585ad-4f18-56f7-a4ad-343c7ec00089
+slug: terminal-project-reads-as-own-act
 page-type-slug: finding
 title: "Terminal project reads as own act"
 domain-slug: domain/seat-turn-end

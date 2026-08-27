@@ -1,5 +1,6 @@
 ---
 id: 7ce14f72-e58c-586a-8d36-2856928740ac
+slug: spawn-states-no-principal
 page-type-slug: finding
 title: "Spawn states no principal"
 domain-slug: domain/seat-principal

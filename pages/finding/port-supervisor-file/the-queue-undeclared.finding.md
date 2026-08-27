@@ -1,5 +1,6 @@
 ---
 id: 44998f25-d79f-5c8b-8e31-362f794e47c0
+slug: the-queue-undeclared
 page-type-slug: finding
 title: "The queue undeclared"
 domain-slug: domain/global

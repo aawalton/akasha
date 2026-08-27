@@ -1,5 +1,6 @@
 ---
 id: d44b6807-353a-5e82-8794-22d499d1a42e
+slug: ai-infra-ruling-ungoverned
 page-type-slug: finding
 title: "AI infra ruling ungoverned"
 domain-slug: domain/technology

@@ -1,5 +1,6 @@
 ---
 id: a1b19f45-2dd2-5b1e-836c-b16b1bd1ffbb
+slug: theme-tone-unpinned
 page-type-slug: finding
 title: "Theme tone unpinned"
 domain-slug: domain/global

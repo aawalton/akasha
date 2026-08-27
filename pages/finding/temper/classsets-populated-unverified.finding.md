@@ -1,5 +1,6 @@
 ---
 id: a6af9468-f40e-54aa-a107-a5cc78091396
+slug: classsets-populated-unverified
 page-type-slug: finding
 title: "Classsets populated unverified"
 domain-slug: domain/946

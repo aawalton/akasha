@@ -1,5 +1,6 @@
 ---
 id: 820eeb3a-1e19-5f09-90b4-1ba5195698bb
+slug: design-line-restates-the-shape
 page-type-slug: finding
 title: "Design line restates the shape"
 domain-slug: domain/global

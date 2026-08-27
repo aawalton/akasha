@@ -1,5 +1,6 @@
 ---
 id: a0dc08fa-5b0b-55af-a226-8b0675b3dd88
+slug: parts-unnamed
 page-type-slug: finding
 title: "Parts unnamed"
 domain-slug: domain/global

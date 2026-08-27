@@ -1,5 +1,6 @@
 ---
 id: 9113b04d-0206-591c-9e50-570283a7ba2f
+slug: agent-cannot-settle-whose-envelope
 page-type-slug: finding
 title: "Agent cannot settle whose envelope"
 domain-slug: domain/semantic-categorization

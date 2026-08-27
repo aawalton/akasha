@@ -1,5 +1,6 @@
 ---
 id: 1b58aa11-1341-5e0b-a630-ee4134022ee8
+slug: schema-comment-overstates-the-hole-guard
 page-type-slug: finding
 title: "Schema comment overstates the hole guard"
 domain-slug: page-type/refusal

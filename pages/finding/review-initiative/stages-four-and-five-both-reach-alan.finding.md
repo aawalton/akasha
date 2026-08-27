@@ -1,5 +1,6 @@
 ---
 id: 476fe12e-0885-58c9-a598-044a2bcf4421
+slug: stages-four-and-five-both-reach-alan
 page-type-slug: finding
 title: "Stages four and five both reach Alan"
 domain-slug: task/review-initiative

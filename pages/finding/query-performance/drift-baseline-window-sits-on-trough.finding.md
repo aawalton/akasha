@@ -1,5 +1,6 @@
 ---
 id: 317cb166-5c1f-5f44-9bed-8a623636fa1c
+slug: drift-baseline-window-sits-on-trough
 page-type-slug: finding
 title: "Drift baseline window sits on trough"
 domain-slug: domain/query-performance

@@ -1,5 +1,6 @@
 ---
 id: 2a46429d-a4cc-5879-8ec8-4781093c2b2a
+slug: libsets-localization-two-wrong-rows
 page-type-slug: finding
 title: "Libsets localization two wrong rows"
 domain-slug: domain/946

@@ -1,5 +1,6 @@
 ---
 id: 73e46935-0993-51f3-82a0-fb2379c5be6c
+slug: thread-is-tied
 page-type-slug: finding
 title: "Thread is tied"
 domain-slug: persona-appearance/ruby-appearance

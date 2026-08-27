@@ -1,5 +1,6 @@
 ---
 id: 40cf1f41-8f02-595f-9f4f-0a22addc6fd6
+slug: persona-credited-not-seat
 page-type-slug: finding
 title: "Persona credited not seat"
 domain-slug: domain/seat-name

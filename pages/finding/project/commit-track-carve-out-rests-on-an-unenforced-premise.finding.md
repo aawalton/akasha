@@ -1,5 +1,6 @@
 ---
 id: 298c5703-8f73-57f4-b42f-22a017c1333d
+slug: commit-track-carve-out-rests-on-an-unenforced-premise
 page-type-slug: finding
 title: "Commit track carve out rests on an unenforced premise"
 domain-slug: barred-meaning/project

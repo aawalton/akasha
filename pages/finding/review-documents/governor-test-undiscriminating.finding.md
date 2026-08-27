@@ -1,5 +1,6 @@
 ---
 id: 9feca326-4383-5efd-ba71-474bf85a40af
+slug: governor-test-undiscriminating
 page-type-slug: finding
 title: "Governor test undiscriminating"
 domain-slug: domain/global

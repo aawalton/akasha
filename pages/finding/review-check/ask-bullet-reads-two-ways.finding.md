@@ -1,5 +1,6 @@
 ---
 id: 6b0bbf6d-99ba-5067-9cd0-20b1a04e1754
+slug: ask-bullet-reads-two-ways
 page-type-slug: finding
 title: "Ask bullet reads two ways"
 domain-slug: domain/global

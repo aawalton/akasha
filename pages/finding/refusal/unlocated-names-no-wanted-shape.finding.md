@@ -1,5 +1,6 @@
 ---
 id: 44bd9c0f-dddb-5877-a05c-b0453eb5666c
+slug: unlocated-names-no-wanted-shape
 page-type-slug: finding
 title: "Unlocated names no wanted shape"
 domain-slug: page-type/refusal

@@ -1,5 +1,6 @@
 ---
 id: 2eb91436-7ba4-5c22-8b6f-3d674aa12d96
+slug: measured-zero-rests-on-a-self-report
 page-type-slug: finding
 title: "Measured zero rests on a self report"
 domain-slug: domain/sleep

@@ -1,5 +1,6 @@
 ---
 id: 781ac324-e2cb-550c-bea8-90ae9b079bca
+slug: content-judged-by-what-it-asks
 page-type-slug: finding
 title: "Content judged by what it asks"
 domain-slug: domain/sleep

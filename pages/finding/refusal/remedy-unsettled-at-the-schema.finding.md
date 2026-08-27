@@ -1,5 +1,6 @@
 ---
 id: f6dfa895-1694-504b-a7a8-1e8151f86562
+slug: remedy-unsettled-at-the-schema
 page-type-slug: finding
 title: "Remedy unsettled at the schema"
 domain-slug: page-type/refusal

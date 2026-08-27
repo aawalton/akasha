@@ -1,5 +1,6 @@
 ---
 id: 22bd198b-f914-5b62-b9f9-33d02a3cc978
+slug: categorization-routes-reach-no-readout
 page-type-slug: finding
 title: "Categorization routes reach no readout"
 domain-slug: readout-widget/alanwalton-categorize

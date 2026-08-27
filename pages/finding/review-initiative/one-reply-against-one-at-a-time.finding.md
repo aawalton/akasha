@@ -1,5 +1,6 @@
 ---
 id: 05fa45a6-6dfd-557f-9e10-14f485f6f59a
+slug: one-reply-against-one-at-a-time
 page-type-slug: finding
 title: "One reply against one at a time"
 domain-slug: task/review-initiative

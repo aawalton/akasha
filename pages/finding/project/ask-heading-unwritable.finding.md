@@ -1,5 +1,6 @@
 ---
 id: e9d21346-6bbf-5ec8-8659-8a082dbddaa7
+slug: ask-heading-unwritable
 page-type-slug: finding
 title: "Ask heading unwritable"
 domain-slug: barred-meaning/project

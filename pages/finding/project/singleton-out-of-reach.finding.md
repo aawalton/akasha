@@ -1,5 +1,6 @@
 ---
 id: eb0f5fce-e148-51c0-879a-ddce7bb30f63
+slug: singleton-out-of-reach
 page-type-slug: finding
 title: "Singleton out of reach"
 domain-slug: barred-meaning/project

@@ -1,5 +1,6 @@
 ---
 id: 30a47a92-91a6-5e9d-b6e0-2d870142d461
+slug: this-repository-has-no-antecedent
 page-type-slug: finding
 title: "This repository has no antecedent"
 domain-slug: barred-meaning/project

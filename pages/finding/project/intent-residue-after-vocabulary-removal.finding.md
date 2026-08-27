@@ -1,5 +1,6 @@
 ---
 id: 51c8717d-1f17-5705-bac6-f4d02f26bc13
+slug: intent-residue-after-vocabulary-removal
 page-type-slug: finding
 title: "Intent residue after vocabulary removal"
 domain-slug: barred-meaning/project

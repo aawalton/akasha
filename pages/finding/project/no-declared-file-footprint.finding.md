@@ -1,5 +1,6 @@
 ---
 id: 8ff02c60-fbb9-5a30-835a-36a8f447a38f
+slug: no-declared-file-footprint
 page-type-slug: finding
 title: "No declared file footprint"
 domain-slug: barred-meaning/project

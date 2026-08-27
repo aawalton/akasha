@@ -1,5 +1,6 @@
 ---
 id: 72841497-0f83-5867-bb4b-efbfd3a53c0b
+slug: moved-document-leaves-seat-unguarded
 page-type-slug: finding
 title: "Moved document leaves seat unguarded"
 domain-slug: page-type/seat

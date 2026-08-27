@@ -1,5 +1,6 @@
 ---
 id: f36d4059-2630-5c7a-8ce8-62da2fab1063
+slug: bare-this-has-no-antecedent
 page-type-slug: finding
 title: "Bare this has no antecedent"
 domain-slug: page-type/refusal

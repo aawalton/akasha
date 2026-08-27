@@ -1,5 +1,6 @@
 ---
 id: 5d079e4b-4e62-5f98-97d5-b53e8faec2e0
+slug: seat-is-spelled-agent-in-code
 page-type-slug: finding
 title: "Seat is spelled agent in code"
 domain-slug: page-type/seat

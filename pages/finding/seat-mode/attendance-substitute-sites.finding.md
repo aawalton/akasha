@@ -1,5 +1,6 @@
 ---
 id: 279c00eb-59ee-5385-aafb-ec82c7ace8f2
+slug: attendance-substitute-sites
 page-type-slug: finding
 title: "Attendance substitute sites"
 domain-slug: page-property-definition/seat-mode

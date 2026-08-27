@@ -1,5 +1,6 @@
 ---
 id: d55b5696-f63d-5d73-a28c-79756628a98c
+slug: the-one-settled-remedy-is-the-missing-one
 page-type-slug: finding
 title: "The one settled remedy is the missing one"
 domain-slug: page-type/refusal

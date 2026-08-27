@@ -1,5 +1,6 @@
 ---
 id: 134ad4a1-e0ea-5559-a652-d305f3f58628
+slug: completion-wedge-unreported
 page-type-slug: finding
 title: "Completion wedge unreported"
 domain-slug: domain/946

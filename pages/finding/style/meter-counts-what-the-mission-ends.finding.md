@@ -1,5 +1,6 @@
 ---
 id: 485f96ab-fc43-59bc-bcf5-cde6991ebb6c
+slug: meter-counts-what-the-mission-ends
 page-type-slug: finding
 title: "Meter counts what the mission ends"
 domain-slug: domain/style

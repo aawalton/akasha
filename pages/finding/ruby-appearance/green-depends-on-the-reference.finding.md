@@ -1,5 +1,6 @@
 ---
 id: 13738365-a3b6-5338-9c7a-39819c835d5b
+slug: green-depends-on-the-reference
 page-type-slug: finding
 title: "Green depends on the reference"
 domain-slug: persona-appearance/ruby-appearance

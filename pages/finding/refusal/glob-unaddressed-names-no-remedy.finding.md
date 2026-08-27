@@ -1,5 +1,6 @@
 ---
 id: 014d3b6b-3353-5235-82ae-e59ae7d7f1dc
+slug: glob-unaddressed-names-no-remedy
 page-type-slug: finding
 title: "Glob unaddressed names no remedy"
 domain-slug: page-type/refusal

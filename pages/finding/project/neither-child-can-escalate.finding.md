@@ -1,5 +1,6 @@
 ---
 id: 3a282ed2-3fb0-5bdd-ab6d-f73acff48050
+slug: neither-child-can-escalate
 page-type-slug: finding
 title: "Neither child can escalate"
 domain-slug: barred-meaning/project

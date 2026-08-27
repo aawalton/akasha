@@ -1,5 +1,6 @@
 ---
 id: a25308ed-8e31-54ed-b7b1-8aea4314e39e
+slug: rule-database-test-red-inside-green-pipeline
 page-type-slug: finding
 title: "Rule database test red inside green pipeline"
 domain-slug: barred-meaning/project

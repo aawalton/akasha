@@ -1,5 +1,6 @@
 ---
 id: 1dd04654-e8ae-5ea5-a035-0bfcb66acba5
+slug: obligation-off-transition-ungated
 page-type-slug: finding
 title: "Obligation off transition ungated"
 domain-slug: barred-meaning/project

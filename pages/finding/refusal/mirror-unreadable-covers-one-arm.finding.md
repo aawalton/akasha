@@ -1,5 +1,6 @@
 ---
 id: 584ff186-39ee-54ea-82af-b052c5062363
+slug: mirror-unreadable-covers-one-arm
 page-type-slug: finding
 title: "Mirror unreadable covers one arm"
 domain-slug: page-type/refusal

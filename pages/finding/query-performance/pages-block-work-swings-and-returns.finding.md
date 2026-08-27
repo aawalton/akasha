@@ -1,5 +1,6 @@
 ---
 id: a066b757-2a81-5c37-b3d4-2777219534f4
+slug: pages-block-work-swings-and-returns
 page-type-slug: finding
 title: "Pages block work swings and returns"
 domain-slug: domain/query-performance

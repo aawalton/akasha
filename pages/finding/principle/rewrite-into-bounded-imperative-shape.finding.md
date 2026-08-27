@@ -1,5 +1,6 @@
 ---
 id: 44b78cd8-5abf-50a3-91fc-76f61e18193c
+slug: rewrite-into-bounded-imperative-shape
 page-type-slug: finding
 title: "Rewrite into bounded imperative shape"
 domain-slug: domain/global

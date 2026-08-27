@@ -1,5 +1,6 @@
 ---
 id: d1f935d1-4688-5fdd-b33c-42c8f2c5c00b
+slug: same-day-review-cannot-restamp
 page-type-slug: finding
 title: "Same day review cannot restamp"
 domain-slug: task/review-instructions

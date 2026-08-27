@@ -1,5 +1,6 @@
 ---
 id: 96b21508-daa5-52f8-95cd-291cd6c5e487
+slug: subject-list-goes-stale
 page-type-slug: finding
 title: "Subject list goes stale"
 domain-slug: domain/global

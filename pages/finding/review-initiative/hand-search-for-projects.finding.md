@@ -1,5 +1,6 @@
 ---
 id: cc420bd3-9fb6-50a8-8375-ec1f99c1b08c
+slug: hand-search-for-projects
 page-type-slug: finding
 title: "Hand search for projects"
 domain-slug: task/review-initiative

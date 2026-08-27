@@ -1,5 +1,6 @@
 ---
 id: 57444bee-3c72-5b56-80e3-5888db215ab7
+slug: availability-not-work
 page-type-slug: finding
 title: "Availability not work"
 domain-slug: domain/seat-assignment

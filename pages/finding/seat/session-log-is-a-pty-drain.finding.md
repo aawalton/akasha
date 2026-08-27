@@ -1,5 +1,6 @@
 ---
 id: 3f0f09f6-a1b5-53ca-849e-de740d92c89b
+slug: session-log-is-a-pty-drain
 page-type-slug: finding
 title: "Session log is a pty drain"
 domain-slug: page-type/seat

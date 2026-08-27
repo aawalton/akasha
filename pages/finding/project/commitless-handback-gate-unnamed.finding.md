@@ -1,5 +1,6 @@
 ---
 id: a155cd6d-f126-51df-ac40-1a4e54a680b7
+slug: commitless-handback-gate-unnamed
 page-type-slug: finding
 title: "Commitless handback gate unnamed"
 domain-slug: barred-meaning/project

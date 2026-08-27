@@ -1,5 +1,6 @@
 ---
 id: f8fbf0be-4368-5561-899c-21c7011b6ced
+slug: principal-against-declared-sense
 page-type-slug: finding
 title: "Principal against declared sense"
 domain-slug: role/recorder

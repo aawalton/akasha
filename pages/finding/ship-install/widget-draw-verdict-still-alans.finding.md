@@ -1,5 +1,6 @@
 ---
 id: 4c7032b4-40f9-5a0f-9586-2e014cbcfe6d
+slug: widget-draw-verdict-still-alans
 page-type-slug: finding
 title: "Widget draw verdict still alans"
 domain-slug: task/ship-install

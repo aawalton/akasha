@@ -1,5 +1,6 @@
 ---
 id: 719e0fff-7ffa-53d2-9ade-3ef2f0533230
+slug: sleep-audio-intake-settled
 page-type-slug: finding
 title: "Sleep audio intake settled"
 domain-slug: domain/sleep

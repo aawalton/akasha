@@ -1,5 +1,6 @@
 ---
 id: 418285f1-3a6f-504c-a26c-6189d85c163c
+slug: remedy-blocked-by-what-the-check-passes
 page-type-slug: finding
 title: "Remedy blocked by what the check passes"
 domain-slug: page-type/refusal

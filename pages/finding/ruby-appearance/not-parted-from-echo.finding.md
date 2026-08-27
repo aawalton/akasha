@@ -1,5 +1,6 @@
 ---
 id: 9eb0daaa-5066-532a-ae7b-763c6587a5f7
+slug: not-parted-from-echo
 page-type-slug: finding
 title: "Not parted from echo"
 domain-slug: persona-appearance/ruby-appearance

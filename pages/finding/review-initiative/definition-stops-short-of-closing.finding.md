@@ -1,5 +1,6 @@
 ---
 id: 3f5ffa44-410b-5338-822b-7fc5d6a1fb2e
+slug: definition-stops-short-of-closing
 page-type-slug: finding
 title: "Definition stops short of closing"
 domain-slug: task/review-initiative

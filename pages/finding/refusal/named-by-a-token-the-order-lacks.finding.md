@@ -1,5 +1,6 @@
 ---
 id: d48a2fac-c879-5154-b6ca-53e3872f40ae
+slug: named-by-a-token-the-order-lacks
 page-type-slug: finding
 title: "Named by a token the order lacks"
 domain-slug: page-type/refusal

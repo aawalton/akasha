@@ -1,5 +1,6 @@
 ---
 id: 6a3e2854-5e37-54d5-bc3f-9267e2aefb74
+slug: attendance-unstated
 page-type-slug: finding
 title: "Attendance unstated"
 domain-slug: task/review-tests

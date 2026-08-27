@@ -1,5 +1,6 @@
 ---
 id: 7af74c8c-7870-5f5e-b061-099fa3a799c6
+slug: bound-unread-reads-two-ways
 page-type-slug: finding
 title: "Bound unread reads two ways"
 domain-slug: page-type/refusal

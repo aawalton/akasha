@@ -1,5 +1,6 @@
 ---
 id: f38eb036-035a-5564-9133-6a3dd657b681
+slug: done-project-file-stands
 page-type-slug: finding
 title: "Done project file stands"
 domain-slug: barred-meaning/project

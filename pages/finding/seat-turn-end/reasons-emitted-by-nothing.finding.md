@@ -1,5 +1,6 @@
 ---
 id: 61f67d66-6923-555e-92bd-68ce6f344b6e
+slug: reasons-emitted-by-nothing
 page-type-slug: finding
 title: "Reasons emitted by nothing"
 domain-slug: domain/seat-turn-end

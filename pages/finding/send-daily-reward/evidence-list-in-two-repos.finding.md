@@ -1,5 +1,6 @@
 ---
 id: ab94c44e-2a1e-5f15-81da-5875fff3d153
+slug: evidence-list-in-two-repos
 page-type-slug: finding
 title: "Evidence list in two repos"
 domain-slug: domain/global

@@ -1,5 +1,6 @@
 ---
 id: 4676c158-6545-58a3-a630-60fce710cbbe
+slug: add-absent-from-cut-list-deliberately
 page-type-slug: finding
 title: "Add absent from cut list deliberately"
 domain-slug: task/review-instructions

@@ -1,5 +1,6 @@
 ---
 id: 27816352-8cad-5a77-ad3d-952f9ae527e6
+slug: pillars-routed-past-a-narrowed-domain
 page-type-slug: finding
 title: "Pillars routed past a narrowed domain"
 domain-slug: domain/sleep

@@ -1,5 +1,6 @@
 ---
 id: 5db397c1-1958-5a04-8c46-46d9123b2a72
+slug: send-question-two-readings
 page-type-slug: finding
 title: "Send question two readings"
 domain-slug: role/recorder

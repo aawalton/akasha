@@ -1,5 +1,6 @@
 ---
 id: 9df92540-ad2b-566d-aaac-09830b4d9e5c
+slug: subscription-constraint-unrecorded
 page-type-slug: finding
 title: "Subscription constraint unrecorded"
 domain-slug: domain/technology

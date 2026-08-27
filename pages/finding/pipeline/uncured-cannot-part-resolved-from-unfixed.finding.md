@@ -1,5 +1,6 @@
 ---
 id: 831ac0e7-50da-5c72-9cb9-f411cdebe54b
+slug: uncured-cannot-part-resolved-from-unfixed
 page-type-slug: finding
 title: "Uncured cannot part resolved from unfixed"
 domain-slug: page-type/pipeline

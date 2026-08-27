@@ -1,5 +1,6 @@
 ---
 id: 06331cfd-5cca-5435-8ff6-cecbd6e4bdde
+slug: child-seq-resolves-to-parent-worktree
 page-type-slug: finding
 title: "Child seq resolves to parent worktree"
 domain-slug: domain/global

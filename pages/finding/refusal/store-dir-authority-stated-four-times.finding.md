@@ -1,5 +1,6 @@
 ---
 id: f6fe7eee-b967-50b6-97f5-34dc9d51e3ac
+slug: store-dir-authority-stated-four-times
 page-type-slug: finding
 title: "Store dir authority stated four times"
 domain-slug: page-type/refusal

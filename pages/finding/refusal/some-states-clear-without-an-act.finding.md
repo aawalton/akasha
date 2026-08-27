@@ -1,5 +1,6 @@
 ---
 id: 876efdc5-27ce-5130-8224-f839797e64b7
+slug: some-states-clear-without-an-act
 page-type-slug: finding
 title: "Some states clear without an act"
 domain-slug: page-type/refusal

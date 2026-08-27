@@ -1,5 +1,6 @@
 ---
 id: fd8b56ec-157f-5fcc-bfa5-640009119083
+slug: offer-against-one-at-a-time
 page-type-slug: finding
 title: "Offer against one at a time"
 domain-slug: task/review-initiative

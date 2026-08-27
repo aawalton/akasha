@@ -1,5 +1,6 @@
 ---
 id: 1164a916-285d-58b0-ac8f-8dcba9416f7f
+slug: settings-family-scopes-unevenly
 page-type-slug: finding
 title: "Settings family scopes unevenly"
 domain-slug: page-type/refusal

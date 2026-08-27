@@ -1,5 +1,6 @@
 ---
 id: 96a58ac7-808f-5420-8375-b312324d5de8
+slug: tasks-restate-what-boot-already-holds
 page-type-slug: finding
 title: "Tasks restate what boot already holds"
 domain-slug: page-type/task

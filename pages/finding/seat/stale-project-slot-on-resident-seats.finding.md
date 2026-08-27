@@ -1,5 +1,6 @@
 ---
 id: b648d91c-77a4-532e-ae26-1017edf94111
+slug: stale-project-slot-on-resident-seats
 page-type-slug: finding
 title: "Stale project slot on resident seats"
 domain-slug: page-type/seat

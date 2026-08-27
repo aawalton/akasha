@@ -1,5 +1,6 @@
 ---
 id: 6ca33a39-0a48-5e93-9bc4-97d6ab8f13c9
+slug: waiting-flag-latches-on-spurious-stall
 page-type-slug: finding
 title: "Waiting flag latches on spurious stall"
 domain-slug: domain/reader

@@ -1,5 +1,6 @@
 ---
 id: 9105698f-629a-5db4-86c7-4f831483ddfe
+slug: batch-d-orphan-libmediaprovider
 page-type-slug: finding
 title: "Batch d orphan libmediaprovider"
 domain-slug: domain/946

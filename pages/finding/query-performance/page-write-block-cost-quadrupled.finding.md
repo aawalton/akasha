@@ -1,5 +1,6 @@
 ---
 id: 4e64274f-7998-5566-addd-194fc1a1a496
+slug: page-write-block-cost-quadrupled
 page-type-slug: finding
 title: "Page write block cost quadrupled"
 domain-slug: domain/query-performance

@@ -1,5 +1,6 @@
 ---
 id: 78fb9111-ead0-5579-beec-77d003883321
+slug: bash-env-merge-precedence-unmeasured
 page-type-slug: finding
 title: "Bash env merge precedence unmeasured"
 domain-slug: page-type/refusal

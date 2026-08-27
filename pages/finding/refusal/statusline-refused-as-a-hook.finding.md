@@ -1,5 +1,6 @@
 ---
 id: 40e9c2fa-b5ff-5bc3-9774-477bbb5226db
+slug: statusline-refused-as-a-hook
 page-type-slug: finding
 title: "Statusline refused as a hook"
 domain-slug: page-type/refusal

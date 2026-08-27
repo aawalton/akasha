@@ -1,5 +1,6 @@
 ---
 id: cc8d57ed-82d3-5442-b720-37795921fbeb
+slug: projector-preflight-verdict-flipped
 page-type-slug: finding
 title: "Projector preflight verdict flipped"
 domain-slug: page-type/seat

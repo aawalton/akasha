@@ -1,5 +1,6 @@
 ---
 id: 2077579a-9303-5175-b47e-0ec1de2bc353
+slug: no-check-measures-mention-state
 page-type-slug: finding
 title: "No check measures mention state"
 domain-slug: page-type/reference

@@ -1,5 +1,6 @@
 ---
 id: 951e532c-c2f0-5ee6-8a50-16ffb739832c
+slug: flex-absent-for-unspawned
 page-type-slug: finding
 title: "Flex absent for unspawned"
 domain-slug: page-type/seat

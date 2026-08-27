@@ -1,5 +1,6 @@
 ---
 id: e7600ff3-9661-5f7a-810c-11c6e264ee9c
+slug: reply-park-untested
 page-type-slug: finding
 title: "Reply park untested"
 domain-slug: domain/seat-turn-end

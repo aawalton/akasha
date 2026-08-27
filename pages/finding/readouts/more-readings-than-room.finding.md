@@ -1,5 +1,6 @@
 ---
 id: 5c704f24-c723-5f78-9e55-83f02850cb98
+slug: more-readings-than-room
 page-type-slug: finding
 title: "More readings than room"
 domain-slug: domain/global

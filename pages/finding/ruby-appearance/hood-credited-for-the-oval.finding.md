@@ -1,5 +1,6 @@
 ---
 id: 3653ecef-60f5-5861-9228-cefc6e632acf
+slug: hood-credited-for-the-oval
 page-type-slug: finding
 title: "Hood credited for the oval"
 domain-slug: persona-appearance/ruby-appearance

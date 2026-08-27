@@ -1,5 +1,6 @@
 ---
 id: e2966b50-f753-5446-93e7-744242dd5387
+slug: faucet-weighting-prohibition-uncarried
 page-type-slug: finding
 title: "Faucet weighting prohibition uncarried"
 domain-slug: domain/prayer

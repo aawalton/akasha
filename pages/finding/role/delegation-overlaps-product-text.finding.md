@@ -1,5 +1,6 @@
 ---
 id: 6ab02de1-dfb7-5d64-8794-eea85c6f1c81
+slug: delegation-overlaps-product-text
 page-type-slug: finding
 title: "Delegation overlaps product text"
 domain-slug: page-type/role

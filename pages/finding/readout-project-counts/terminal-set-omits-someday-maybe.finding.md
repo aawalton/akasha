@@ -1,5 +1,6 @@
 ---
 id: 359fb517-4c1c-5df1-a228-dab4b649f346
+slug: terminal-set-omits-someday-maybe
 page-type-slug: finding
 title: "Terminal set omits someday maybe"
 domain-slug: domain/global

@@ -1,5 +1,6 @@
 ---
 id: bd67ace6-39b4-587e-ac06-961b71066db2
+slug: category-rule-family-omits-blank-line
 page-type-slug: finding
 title: "Category rule family omits blank line"
 domain-slug: page-type/refusal

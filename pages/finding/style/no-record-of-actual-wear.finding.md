@@ -1,5 +1,6 @@
 ---
 id: 08541827-f6fc-5be6-a0de-e6f8847fd5ad
+slug: no-record-of-actual-wear
 page-type-slug: finding
 title: "No record of actual wear"
 domain-slug: domain/style

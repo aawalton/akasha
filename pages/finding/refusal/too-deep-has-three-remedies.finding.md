@@ -1,5 +1,6 @@
 ---
 id: 2e6e959d-80ea-548f-b23f-f8f31c6df169
+slug: too-deep-has-three-remedies
 page-type-slug: finding
 title: "Too deep has three remedies"
 domain-slug: page-type/refusal

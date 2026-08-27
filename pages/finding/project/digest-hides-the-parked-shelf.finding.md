@@ -1,5 +1,6 @@
 ---
 id: 5e720e69-e320-5d44-86d4-619f3066c13c
+slug: digest-hides-the-parked-shelf
 page-type-slug: finding
 title: "Digest hides the parked shelf"
 domain-slug: barred-meaning/project

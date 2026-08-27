@@ -1,5 +1,6 @@
 ---
 id: 4dd551e5-42c7-5b3b-a645-85a9f0bd7c8f
+slug: talos-bare-names-legacy-alias
 page-type-slug: finding
 title: "Talos bare names legacy alias"
 domain-slug: domain/technology

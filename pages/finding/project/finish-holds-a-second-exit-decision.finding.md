@@ -1,5 +1,6 @@
 ---
 id: 61eed3b1-e399-5950-8994-3f312dc819a5
+slug: finish-holds-a-second-exit-decision
 page-type-slug: finding
 title: "Finish holds a second exit decision"
 domain-slug: barred-meaning/project

@@ -1,5 +1,6 @@
 ---
 id: 5887e3cb-a2ed-5f84-8504-a0fa64b36369
+slug: the-persona-floor-is-stated-twice
 page-type-slug: finding
 title: "The persona floor is stated twice"
 domain-slug: page-type/seat

@@ -1,5 +1,6 @@
 ---
 id: 110ee103-73b4-5e97-84e5-85c6066f6606
+slug: inbox-attribute-names-declared-twice
 page-type-slug: finding
 title: "Inbox attribute names declared twice"
 domain-slug: domain/global

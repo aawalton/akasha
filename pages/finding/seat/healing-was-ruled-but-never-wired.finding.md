@@ -1,5 +1,6 @@
 ---
 id: b4285109-182b-51c3-87e7-b97a86b3c5a2
+slug: healing-was-ruled-but-never-wired
 page-type-slug: finding
 title: "Healing was ruled but never wired"
 domain-slug: page-type/seat

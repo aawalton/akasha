@@ -1,5 +1,6 @@
 ---
 id: 01e2968f-cfad-5a93-818d-e39e38125e36
+slug: exploration-status-unnamed-in-instructions
 page-type-slug: finding
 title: "Exploration status unnamed in instructions"
 domain-slug: barred-meaning/project

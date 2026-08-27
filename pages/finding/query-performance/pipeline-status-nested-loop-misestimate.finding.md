@@ -1,5 +1,6 @@
 ---
 id: 7930bfc5-2f7f-5200-8657-77535dbaa32d
+slug: pipeline-status-nested-loop-misestimate
 page-type-slug: finding
 title: "Pipeline status nested loop misestimate"
 domain-slug: domain/query-performance

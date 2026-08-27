@@ -1,5 +1,6 @@
 ---
 id: 4ce6415a-fad2-59cb-a693-dc16320d10e3
+slug: stop-yourself-unbound
 page-type-slug: finding
 title: "Stop yourself unbound"
 domain-slug: domain/seat-turn-end

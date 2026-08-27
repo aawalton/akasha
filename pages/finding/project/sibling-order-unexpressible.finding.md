@@ -1,5 +1,6 @@
 ---
 id: f0ae02a9-e7a6-57ed-b066-b0cbfec952a1
+slug: sibling-order-unexpressible
 page-type-slug: finding
 title: "Sibling order unexpressible"
 domain-slug: barred-meaning/project

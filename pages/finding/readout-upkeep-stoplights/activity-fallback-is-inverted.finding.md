@@ -1,5 +1,6 @@
 ---
 id: b8392e39-8b9d-56e2-85e5-8ff346761359
+slug: activity-fallback-is-inverted
 page-type-slug: finding
 title: "Activity fallback is inverted"
 domain-slug: domain/global

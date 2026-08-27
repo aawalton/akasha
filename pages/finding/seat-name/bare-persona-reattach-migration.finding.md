@@ -1,5 +1,6 @@
 ---
 id: 37851f47-3f98-5754-b762-5425263c5522
+slug: bare-persona-reattach-migration
 page-type-slug: finding
 title: "Bare persona reattach migration"
 domain-slug: domain/seat-name

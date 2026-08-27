@@ -1,5 +1,6 @@
 ---
 id: 69244a53-708f-5f4f-bce2-4b1432020565
+slug: responsibility-clauses-restated
 page-type-slug: finding
 title: "Responsibility clauses restated"
 domain-slug: role/recorder

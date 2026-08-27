@@ -1,5 +1,6 @@
 ---
 id: ef6ef44c-e375-5d63-9f18-ffbe410ed393
+slug: project-start-worktrees-the-monorepo-regardless-of-domain
 page-type-slug: finding
 title: "Project start worktrees the monorepo regardless of domain"
 domain-slug: barred-meaning/project

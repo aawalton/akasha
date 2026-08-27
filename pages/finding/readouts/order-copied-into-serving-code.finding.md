@@ -1,5 +1,6 @@
 ---
 id: b9f9879b-e57f-54c1-80c3-c57105e0377b
+slug: order-copied-into-serving-code
 page-type-slug: finding
 title: "Order copied into serving code"
 domain-slug: domain/global

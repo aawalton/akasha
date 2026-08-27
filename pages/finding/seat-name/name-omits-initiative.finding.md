@@ -1,5 +1,6 @@
 ---
 id: d1e5d154-e0ba-5633-8e97-f05cd54aaab9
+slug: name-omits-initiative
 page-type-slug: finding
 title: "Name omits initiative"
 domain-slug: domain/seat-name

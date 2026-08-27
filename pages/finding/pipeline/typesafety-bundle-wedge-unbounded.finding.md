@@ -1,5 +1,6 @@
 ---
 id: f62237f9-446a-5d80-94b3-6dc780e5677a
+slug: typesafety-bundle-wedge-unbounded
 page-type-slug: finding
 title: "Typesafety bundle wedge unbounded"
 domain-slug: page-type/pipeline

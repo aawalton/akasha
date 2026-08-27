@@ -1,5 +1,6 @@
 ---
 id: 506a75da-1190-53e4-a79e-356f3d17b964
+slug: orphan-stoplights-formula-still-live
 page-type-slug: finding
 title: "Orphan stoplights formula still live"
 domain-slug: domain/global

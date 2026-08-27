@@ -1,5 +1,6 @@
 ---
 id: 453fb711-7ff1-5993-a39e-5bd587f79f9b
+slug: nothing-watches-the-ground
 page-type-slug: finding
 title: "Nothing watches the ground"
 domain-slug: domain/technology

@@ -1,5 +1,6 @@
 ---
 id: 6dd277ec-9d63-5336-8c95-e3c1b4415bf5
+slug: store-dir-omits-why-the-inverse-is-worse
 page-type-slug: finding
 title: "Store dir omits why the inverse is worse"
 domain-slug: page-type/refusal

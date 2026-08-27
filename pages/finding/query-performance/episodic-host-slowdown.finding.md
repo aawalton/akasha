@@ -1,5 +1,6 @@
 ---
 id: c6fba67f-47db-5692-acfe-7617ad188223
+slug: episodic-host-slowdown
 page-type-slug: finding
 title: "Episodic host slowdown"
 domain-slug: domain/query-performance

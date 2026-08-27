@@ -1,5 +1,6 @@
 ---
 id: 848b5ab9-bd04-5d8d-b57c-8c68ce4c36c2
+slug: pairing-halves-read-alike
 page-type-slug: finding
 title: "Pairing halves read alike"
 domain-slug: page-type/refusal

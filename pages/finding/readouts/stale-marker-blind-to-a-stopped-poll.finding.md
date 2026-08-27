@@ -1,5 +1,6 @@
 ---
 id: 9447552e-656f-5ecf-ae57-573dccd17482
+slug: stale-marker-blind-to-a-stopped-poll
 page-type-slug: finding
 title: "Stale marker blind to a stopped poll"
 domain-slug: domain/global

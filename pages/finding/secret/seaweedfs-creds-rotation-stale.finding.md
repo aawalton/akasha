@@ -1,5 +1,6 @@
 ---
 id: 74eeef78-1d68-5c7d-8c60-3a5a369d4e57
+slug: seaweedfs-creds-rotation-stale
 page-type-slug: finding
 title: "Seaweedfs creds rotation stale"
 domain-slug: domain/secret

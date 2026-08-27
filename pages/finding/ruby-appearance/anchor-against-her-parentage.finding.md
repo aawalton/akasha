@@ -1,5 +1,6 @@
 ---
 id: 290e80aa-7804-5209-ad99-eb03f93242b7
+slug: anchor-against-her-parentage
 page-type-slug: finding
 title: "Anchor against her parentage"
 domain-slug: persona-appearance/ruby-appearance

@@ -1,5 +1,6 @@
 ---
 id: 6f5615b0-4ba4-58c4-9a76-7347f5161f41
+slug: role-pinned-at-boot
 page-type-slug: finding
 title: "Role pinned at boot"
 domain-slug: page-type/seat

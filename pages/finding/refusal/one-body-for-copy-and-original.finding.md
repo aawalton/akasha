@@ -1,5 +1,6 @@
 ---
 id: 5e4db1f4-6fd1-5fcd-8d9e-1bc35377d0db
+slug: one-body-for-copy-and-original
 page-type-slug: finding
 title: "One body for copy and original"
 domain-slug: page-type/refusal

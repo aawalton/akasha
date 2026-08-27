@@ -1,5 +1,6 @@
 ---
 id: e7c886bf-a729-5d21-8d91-d0d76f2cb42e
+slug: slug-narrower-than-its-arm
 page-type-slug: finding
 title: "Slug narrower than its arm"
 domain-slug: page-type/refusal

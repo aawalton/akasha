@@ -1,5 +1,6 @@
 ---
 id: 43f11fc3-22be-5f70-ac8c-a23652d676d4
+slug: discredited-count-becomes-bare-universal
 page-type-slug: finding
 title: "Discredited count becomes bare universal"
 domain-slug: page-type/role

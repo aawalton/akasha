@@ -1,5 +1,6 @@
 ---
 id: e4d91b51-154e-5e2b-9510-21db1e54404b
+slug: definition-names-the-projection
 page-type-slug: finding
 title: "Definition names the projection"
 domain-slug: barred-meaning/project

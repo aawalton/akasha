@@ -1,5 +1,6 @@
 ---
 id: 8eb5f789-01a9-59a0-bb69-6aec0d3d9b88
+slug: captionless-ring-drops-its-label
 page-type-slug: finding
 title: "Captionless ring drops its label"
 domain-slug: domain/ring

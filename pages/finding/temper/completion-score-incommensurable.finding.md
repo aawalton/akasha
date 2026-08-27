@@ -1,5 +1,6 @@
 ---
 id: 9120c053-ee87-5b15-9d66-2fc0263eae5d
+slug: completion-score-incommensurable
 page-type-slug: finding
 title: "Completion score incommensurable"
 domain-slug: domain/946

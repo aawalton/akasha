@@ -1,5 +1,6 @@
 ---
 id: d2f5a50d-e8bc-573c-bddd-eaee1d89e564
+slug: parent-relation-spelled-seven-ways
 page-type-slug: finding
 title: "Parent relation spelled seven ways"
 domain-slug: barred-meaning/project

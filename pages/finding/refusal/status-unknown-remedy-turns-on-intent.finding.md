@@ -1,5 +1,6 @@
 ---
 id: 429ae5b1-b574-5d8f-9423-661305149e05
+slug: status-unknown-remedy-turns-on-intent
 page-type-slug: finding
 title: "Status unknown remedy turns on intent"
 domain-slug: page-type/refusal

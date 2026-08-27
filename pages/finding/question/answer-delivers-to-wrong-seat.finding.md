@@ -1,5 +1,6 @@
 ---
 id: 66546ebf-427f-5413-8db0-16c7e95ddd86
+slug: answer-delivers-to-wrong-seat
 page-type-slug: finding
 title: "Answer delivers to wrong seat"
 domain-slug: page-type/question

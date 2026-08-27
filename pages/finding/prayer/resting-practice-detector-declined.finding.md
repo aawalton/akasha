@@ -1,5 +1,6 @@
 ---
 id: c4ab0ae3-8979-57d4-8b1e-e4a8e38e1ba5
+slug: resting-practice-detector-declined
 page-type-slug: finding
 title: "Resting practice detector declined"
 domain-slug: domain/prayer

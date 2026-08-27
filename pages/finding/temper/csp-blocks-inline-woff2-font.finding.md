@@ -1,5 +1,6 @@
 ---
 id: 7b16221e-a7b7-56c2-afe4-99d2645b7ef6
+slug: csp-blocks-inline-woff2-font
 page-type-slug: finding
 title: "Csp blocks inline woff2 font"
 domain-slug: domain/946

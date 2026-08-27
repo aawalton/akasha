@@ -1,5 +1,6 @@
 ---
 id: 105c4a81-4df8-5a56-9806-aa8789574afe
+slug: verification-restated-in-tasks
 page-type-slug: finding
 title: "Verification restated in tasks"
 domain-slug: page-type/task

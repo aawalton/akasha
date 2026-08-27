@@ -1,5 +1,6 @@
 ---
 id: 1cbf05c8-c1d2-5a90-a997-dbd404b4ff17
+slug: whole-document-note-has-no-home
 page-type-slug: finding
 title: "Whole document note has no home"
 domain-slug: task/review-instructions

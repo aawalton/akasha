@@ -1,5 +1,6 @@
 ---
 id: 010add2e-f79b-5fb2-8776-e232180cf857
+slug: name-omits-flex
 page-type-slug: finding
 title: "Name omits flex"
 domain-slug: domain/seat-name

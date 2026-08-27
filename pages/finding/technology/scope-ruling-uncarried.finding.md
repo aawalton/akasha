@@ -1,5 +1,6 @@
 ---
 id: b1e67e26-c780-5920-9540-5e68b3d6b265
+slug: scope-ruling-uncarried
 page-type-slug: finding
 title: "Scope ruling uncarried"
 domain-slug: domain/technology

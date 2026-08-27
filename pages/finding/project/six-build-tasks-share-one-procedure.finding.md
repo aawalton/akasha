@@ -1,5 +1,6 @@
 ---
 id: 34c864f4-18a7-5c62-bd59-9619392a1a5f
+slug: six-build-tasks-share-one-procedure
 page-type-slug: finding
 title: "Six build tasks share one procedure"
 domain-slug: barred-meaning/project

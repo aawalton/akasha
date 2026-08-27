@@ -1,5 +1,6 @@
 ---
 id: 835107ba-537e-530c-9d92-32ae0f81e790
+slug: bash-env-marked-two-ways
 page-type-slug: finding
 title: "Bash env marked two ways"
 domain-slug: page-type/refusal

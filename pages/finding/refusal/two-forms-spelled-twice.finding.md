@@ -1,5 +1,6 @@
 ---
 id: 9f529d28-89c8-554f-8468-68688451b2bd
+slug: two-forms-spelled-twice
 page-type-slug: finding
 title: "Two forms spelled twice"
 domain-slug: page-type/refusal

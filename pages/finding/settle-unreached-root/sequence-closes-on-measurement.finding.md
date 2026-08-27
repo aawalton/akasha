@@ -1,5 +1,6 @@
 ---
 id: 9dbdbf86-3504-5d54-8c99-45fb3bf31ca8
+slug: sequence-closes-on-measurement
 page-type-slug: finding
 title: "Sequence closes on measurement"
 domain-slug: domain/global

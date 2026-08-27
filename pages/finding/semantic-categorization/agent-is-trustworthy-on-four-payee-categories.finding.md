@@ -1,5 +1,6 @@
 ---
 id: 8f30b3a6-c783-5262-ae73-a126042c424c
+slug: agent-is-trustworthy-on-four-payee-categories
 page-type-slug: finding
 title: "Agent is trustworthy on four payee categories"
 domain-slug: domain/semantic-categorization

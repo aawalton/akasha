@@ -1,5 +1,6 @@
 ---
 id: 4329e72d-6c8d-5366-8d50-dc0ad1183a27
+slug: rendered-holes-unbounded
 page-type-slug: finding
 title: "Rendered holes unbounded"
 domain-slug: page-type/refusal

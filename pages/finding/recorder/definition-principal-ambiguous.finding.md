@@ -1,5 +1,6 @@
 ---
 id: d123e4d4-289d-520f-8a3b-60f9b3b90326
+slug: definition-principal-ambiguous
 page-type-slug: finding
 title: "Definition principal ambiguous"
 domain-slug: role/recorder

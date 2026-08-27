@@ -1,5 +1,6 @@
 ---
 id: 701f6fae-cc90-5052-8efd-5bc01458b1d6
+slug: backward-move-note-outlives-its-carrier
 page-type-slug: finding
 title: "Backward move note outlives its carrier"
 domain-slug: barred-meaning/project

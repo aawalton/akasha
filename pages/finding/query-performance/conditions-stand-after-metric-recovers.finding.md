@@ -1,5 +1,6 @@
 ---
 id: 4e167d0e-200a-5b9f-af0e-88d439eb0f2b
+slug: conditions-stand-after-metric-recovers
 page-type-slug: finding
 title: "Conditions stand after metric recovers"
 domain-slug: domain/query-performance

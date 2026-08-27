@@ -1,5 +1,6 @@
 ---
 id: 49e3392a-c4a9-55bc-a2db-58c226140463
+slug: restraint-artefact-subject-clause-already-landed
 page-type-slug: finding
 title: "Restraint artefact subject clause already landed"
 domain-slug: domain/global

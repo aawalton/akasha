@@ -1,5 +1,6 @@
 ---
 id: f78091ba-7a9c-5b1a-834e-2bdb881154ee
+slug: finish-writes-status-past-every-gate
 page-type-slug: finding
 title: "Finish writes status past every gate"
 domain-slug: barred-meaning/project

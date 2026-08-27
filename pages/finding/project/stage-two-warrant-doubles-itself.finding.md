@@ -1,5 +1,6 @@
 ---
 id: 94549073-6a79-54e3-b38f-28458e3d6128
+slug: stage-two-warrant-doubles-itself
 page-type-slug: finding
 title: "Stage two warrant doubles itself"
 domain-slug: barred-meaning/project

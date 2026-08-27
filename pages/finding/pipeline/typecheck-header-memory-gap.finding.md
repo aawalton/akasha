@@ -1,5 +1,6 @@
 ---
 id: b9a5cd1f-3f51-53d5-82c2-4e34e84bcf14
+slug: typecheck-header-memory-gap
 page-type-slug: finding
 title: "Typecheck header memory gap"
 domain-slug: page-type/pipeline

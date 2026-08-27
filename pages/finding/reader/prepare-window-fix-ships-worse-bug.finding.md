@@ -1,5 +1,6 @@
 ---
 id: 16fa4843-22e7-5946-b48a-b9e35edf8242
+slug: prepare-window-fix-ships-worse-bug
 page-type-slug: finding
 title: "Prepare window fix ships worse bug"
 domain-slug: domain/reader

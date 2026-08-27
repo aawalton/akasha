@@ -1,5 +1,6 @@
 ---
 id: 11d53a8a-cd48-53c9-b9b0-41081c1f2fd2
+slug: turnless-seat-unmeasured
 page-type-slug: finding
 title: "Turnless seat unmeasured"
 domain-slug: domain/seat-turn-end

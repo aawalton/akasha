@@ -1,5 +1,6 @@
 ---
 id: 0d5558d7-f15e-5127-aae9-a5fab68fa792
+slug: reviewers-split-on-the-reservation
 page-type-slug: finding
 title: "Reviewers split on the reservation"
 domain-slug: task/review-instructions

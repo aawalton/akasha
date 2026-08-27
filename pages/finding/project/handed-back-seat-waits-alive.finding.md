@@ -1,5 +1,6 @@
 ---
 id: a37b8d6c-bee7-5916-b3d5-9a6db367168b
+slug: handed-back-seat-waits-alive
 page-type-slug: finding
 title: "Handed back seat waits alive"
 domain-slug: barred-meaning/project

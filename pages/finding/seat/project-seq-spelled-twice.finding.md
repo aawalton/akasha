@@ -1,5 +1,6 @@
 ---
 id: d8c56124-ae5e-5cae-ba17-7426e23377ed
+slug: project-seq-spelled-twice
 page-type-slug: finding
 title: "Project seq spelled twice"
 domain-slug: page-type/seat

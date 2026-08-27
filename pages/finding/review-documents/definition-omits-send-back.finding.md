@@ -1,5 +1,6 @@
 ---
 id: 3a36fb51-08ee-5426-b172-618941d87cfe
+slug: definition-omits-send-back
 page-type-slug: finding
 title: "Definition omits send back"
 domain-slug: domain/global

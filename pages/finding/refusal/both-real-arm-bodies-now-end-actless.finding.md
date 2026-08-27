@@ -1,5 +1,6 @@
 ---
 id: 42fafa9e-f309-5585-bb12-5d8e93ce2c2c
+slug: both-real-arm-bodies-now-end-actless
 page-type-slug: finding
 title: "Both real arm bodies now end actless"
 domain-slug: page-type/refusal

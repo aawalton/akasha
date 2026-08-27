@@ -1,5 +1,6 @@
 ---
 id: 7b359acf-9ee6-5f1c-bd80-44140d15a454
+slug: one-invariant-on-six-documents
 page-type-slug: finding
 title: "One invariant on six documents"
 domain-slug: barred-meaning/project

@@ -1,5 +1,6 @@
 ---
 id: 7554baa0-49ac-5c50-96b9-5f621ef8030c
+slug: folder-scope-left-implicit
 page-type-slug: finding
 title: "Folder scope left implicit"
 domain-slug: page-type/refusal

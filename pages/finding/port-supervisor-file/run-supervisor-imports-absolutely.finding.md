@@ -1,5 +1,6 @@
 ---
 id: d3dc94a7-3d0b-53d6-884f-c5db8d805896
+slug: run-supervisor-imports-absolutely
 page-type-slug: finding
 title: "Run supervisor imports absolutely"
 domain-slug: domain/global

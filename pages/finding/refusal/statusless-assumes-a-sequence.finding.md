@@ -1,5 +1,6 @@
 ---
 id: e95cd9cb-1714-5b64-88c2-de88e5ae6f86
+slug: statusless-assumes-a-sequence
 page-type-slug: finding
 title: "Statusless assumes a sequence"
 domain-slug: page-type/refusal

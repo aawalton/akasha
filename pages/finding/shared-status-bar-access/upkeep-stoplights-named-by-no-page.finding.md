@@ -1,5 +1,6 @@
 ---
 id: ff74ab88-683e-5b56-b794-9f1f4423fc51
+slug: upkeep-stoplights-named-by-no-page
 page-type-slug: finding
 title: "Upkeep stoplights named by no page"
 domain-slug: package/shared-status-bar-access

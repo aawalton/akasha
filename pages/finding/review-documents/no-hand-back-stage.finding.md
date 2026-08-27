@@ -1,5 +1,6 @@
 ---
 id: cfcb3f1c-9a0a-5825-98a3-8c859ba8e73f
+slug: no-hand-back-stage
 page-type-slug: finding
 title: "No hand back stage"
 domain-slug: domain/global

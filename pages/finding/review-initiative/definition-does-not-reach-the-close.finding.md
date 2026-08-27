@@ -1,5 +1,6 @@
 ---
 id: 0b0ebc23-37bc-5519-b079-d84635b0017d
+slug: definition-does-not-reach-the-close
 page-type-slug: finding
 title: "Definition does not reach the close"
 domain-slug: task/review-initiative

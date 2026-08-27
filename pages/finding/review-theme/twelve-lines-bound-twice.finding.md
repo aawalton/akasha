@@ -1,5 +1,6 @@
 ---
 id: 4c1256c2-ce11-5102-84cc-11e27592219f
+slug: twelve-lines-bound-twice
 page-type-slug: finding
 title: "Twelve lines bound twice"
 domain-slug: domain/global

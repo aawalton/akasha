@@ -1,5 +1,6 @@
 ---
 id: 5bff7d26-f971-55aa-8b3f-87f2cf488df2
+slug: dropped-relative-pronoun
 page-type-slug: finding
 title: "Dropped relative pronoun"
 domain-slug: domain/global

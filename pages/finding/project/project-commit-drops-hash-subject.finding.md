@@ -1,5 +1,6 @@
 ---
 id: 30d87dc7-92a9-57eb-a8e0-7789d551b3d5
+slug: project-commit-drops-hash-subject
 page-type-slug: finding
 title: "Project commit drops hash subject"
 domain-slug: barred-meaning/project

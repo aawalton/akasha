@@ -1,5 +1,6 @@
 ---
 id: 04d6d377-17c6-5ecc-9758-1a636ccdf289
+slug: stale-queue-reoffers-read-documents
 page-type-slug: finding
 title: "Stale queue reoffers read documents"
 domain-slug: domain/global

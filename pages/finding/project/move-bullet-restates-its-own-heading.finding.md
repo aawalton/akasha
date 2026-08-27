@@ -1,5 +1,6 @@
 ---
 id: 5c9cb1b6-3669-545b-9d7c-d75bd54b4061
+slug: move-bullet-restates-its-own-heading
 page-type-slug: finding
 title: "Move bullet restates its own heading"
 domain-slug: barred-meaning/project

@@ -1,5 +1,6 @@
 ---
 id: 5bb86473-6b61-540b-9f17-fd444eeadbce
+slug: person-arm-could-claim-a-domain-segment
 page-type-slug: finding
 title: "Person arm could claim a domain segment"
 domain-slug: domain/seat-name

@@ -1,5 +1,6 @@
 ---
 id: 298f5dcf-205e-55ee-9120-9040289e51c4
+slug: terminal-write-race-kills-cascade
 page-type-slug: finding
 title: "Terminal write race kills cascade"
 domain-slug: page-type/pipeline

@@ -1,5 +1,6 @@
 ---
 id: f32f9944-4508-5445-b95f-29f9bf927f01
+slug: agent-mode-placed-off-its-spenders
 page-type-slug: finding
 title: "Agent mode placed off its spenders"
 domain-slug: page-type/role

@@ -1,5 +1,6 @@
 ---
 id: d0322917-536f-52b1-80dc-a100599f6135
+slug: confirming-test-cannot-discriminate
 page-type-slug: finding
 title: "Confirming test cannot discriminate"
 domain-slug: page-type/role

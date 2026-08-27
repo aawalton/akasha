@@ -1,5 +1,6 @@
 ---
 id: db872bcd-7eed-5923-82f5-3ffa3e312dd5
+slug: aid-sentence-count-unkept
 page-type-slug: finding
 title: "Aid sentence count unkept"
 domain-slug: domain/global

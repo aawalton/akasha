@@ -1,5 +1,6 @@
 ---
 id: d7520191-335b-52af-8a1c-0da6c9bee71b
+slug: a-run-does-not-converge
 page-type-slug: finding
 title: "A run does not converge"
 domain-slug: domain/global

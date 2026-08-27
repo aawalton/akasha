@@ -1,5 +1,6 @@
 ---
 id: f6bcf248-18f4-5f69-a26f-77e04b1f1b74
+slug: hygiene-count-hard-coded
 page-type-slug: finding
 title: "Hygiene count hard coded"
 domain-slug: domain/global

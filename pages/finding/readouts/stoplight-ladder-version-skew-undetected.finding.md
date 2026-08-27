@@ -1,5 +1,6 @@
 ---
 id: 1b476065-a8d9-54bb-98a7-2665bb79baae
+slug: stoplight-ladder-version-skew-undetected
 page-type-slug: finding
 title: "Stoplight ladder version skew undetected"
 domain-slug: domain/global

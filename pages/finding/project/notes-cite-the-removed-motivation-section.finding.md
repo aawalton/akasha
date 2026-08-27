@@ -1,5 +1,6 @@
 ---
 id: 47ea38b9-b9ec-5756-99b3-ebd3fcd1a3f4
+slug: notes-cite-the-removed-motivation-section
 page-type-slug: finding
 title: "Notes cite the removed motivation section"
 domain-slug: barred-meaning/project

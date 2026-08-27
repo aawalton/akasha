@@ -1,5 +1,6 @@
 ---
 id: 377d2629-ee07-59d9-ade5-39f34e36e721
+slug: voluntary-meter-zero-is-unreadable
 page-type-slug: finding
 title: "Voluntary meter zero is unreadable"
 domain-slug: domain/prayer

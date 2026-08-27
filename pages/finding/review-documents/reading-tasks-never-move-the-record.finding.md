@@ -1,5 +1,6 @@
 ---
 id: b36f77f9-4800-51c0-8dcc-952edd20d384
+slug: reading-tasks-never-move-the-record
 page-type-slug: finding
 title: "Reading tasks never move the record"
 domain-slug: domain/global

@@ -1,5 +1,6 @@
 ---
 id: 87ab426d-86c0-5352-94ac-a7ab0a2b8dc3
+slug: floor-nights-unrecorded
 page-type-slug: finding
 title: "Floor nights unrecorded"
 domain-slug: domain/self-care

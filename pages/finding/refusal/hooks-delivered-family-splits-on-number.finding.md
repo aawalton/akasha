@@ -1,5 +1,6 @@
 ---
 id: b300b087-df10-521c-988e-0393e262831d
+slug: hooks-delivered-family-splits-on-number
 page-type-slug: finding
 title: "Hooks delivered family splits on number"
 domain-slug: page-type/refusal

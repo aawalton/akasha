@@ -1,5 +1,6 @@
 ---
 id: ab5643a5-baee-57c1-8046-e0d5411989db
+slug: bare-persona-name-has-no-holder
 page-type-slug: finding
 title: "Bare persona name has no holder"
 domain-slug: domain/seat-name

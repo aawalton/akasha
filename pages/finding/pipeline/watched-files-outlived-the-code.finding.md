@@ -1,5 +1,6 @@
 ---
 id: ef83f428-e48e-5bc2-af9a-3c6debfa088d
+slug: watched-files-outlived-the-code
 page-type-slug: finding
 title: "Watched files outlived the code"
 domain-slug: page-type/pipeline

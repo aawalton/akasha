@@ -1,5 +1,6 @@
 ---
 id: 0e155a7f-0f56-5431-929f-6d552b1df5ea
+slug: citations-unanchored
 page-type-slug: finding
 title: "Citations unanchored"
 domain-slug: domain/global

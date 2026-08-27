@@ -1,5 +1,6 @@
 ---
 id: 5f709e22-987b-566e-9c24-7d4e41fe0a58
+slug: glossary-outweighs-the-document
 page-type-slug: finding
 title: "Glossary outweighs the document"
 domain-slug: page-type/role

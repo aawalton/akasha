@@ -1,5 +1,6 @@
 ---
 id: 550adadd-d8aa-5dcd-8367-056b5feba1b7
+slug: worker-role-document-denied
 page-type-slug: finding
 title: "Worker role document denied"
 domain-slug: page-type/role

@@ -1,5 +1,6 @@
 ---
 id: 77c65121-b39e-58c3-be76-e6f6a20a3dd7
+slug: rulings-corpus-no-exit
 page-type-slug: finding
 title: "Rulings corpus no exit"
 domain-slug: domain/ruling

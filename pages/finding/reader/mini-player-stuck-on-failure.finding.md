@@ -1,5 +1,6 @@
 ---
 id: 513e6ba9-b2e6-5274-a1ba-5f3a6a21e15c
+slug: mini-player-stuck-on-failure
 page-type-slug: finding
 title: "Mini player stuck on failure"
 domain-slug: domain/reader

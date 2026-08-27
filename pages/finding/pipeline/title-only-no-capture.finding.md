@@ -1,5 +1,6 @@
 ---
 id: 99a7e217-b0e6-59f1-abec-98a60ab94c9e
+slug: title-only-no-capture
 page-type-slug: finding
 title: "Title only no capture"
 domain-slug: page-type/pipeline

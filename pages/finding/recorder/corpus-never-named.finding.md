@@ -1,5 +1,6 @@
 ---
 id: 90e65eb1-63c5-52ea-b52e-6bede3ca07c4
+slug: corpus-never-named
 page-type-slug: finding
 title: "Corpus never named"
 domain-slug: role/recorder

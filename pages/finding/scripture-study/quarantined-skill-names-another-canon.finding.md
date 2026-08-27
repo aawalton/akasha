@@ -1,5 +1,6 @@
 ---
 id: b986540d-ae2d-5298-a189-b04de10148a7
+slug: quarantined-skill-names-another-canon
 page-type-slug: finding
 title: "Quarantined skill names another canon"
 domain-slug: domain/scripture-study

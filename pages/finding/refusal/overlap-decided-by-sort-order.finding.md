@@ -1,5 +1,6 @@
 ---
 id: 7a1e8558-d54f-58d7-a8c8-cc8276676e9c
+slug: overlap-decided-by-sort-order
 page-type-slug: finding
 title: "Overlap decided by sort order"
 domain-slug: page-type/refusal

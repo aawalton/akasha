@@ -1,5 +1,6 @@
 ---
 id: 146f62bb-ad16-5f42-822b-0a546c44346d
+slug: breathing-pillar-scores-a-retired-input
 page-type-slug: finding
 title: "Breathing pillar scores a retired input"
 domain-slug: domain/global

@@ -1,5 +1,6 @@
 ---
 id: a82591c8-e5a1-5d10-94eb-104d710afd7c
+slug: alan-above-principal-unsettled
 page-type-slug: finding
 title: "Alan above principal unsettled"
 domain-slug: domain/seat-assignment

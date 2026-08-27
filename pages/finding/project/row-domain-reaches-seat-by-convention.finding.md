@@ -1,5 +1,6 @@
 ---
 id: 0346fb68-30fe-53e5-9916-ffae1b1afb89
+slug: row-domain-reaches-seat-by-convention
 page-type-slug: finding
 title: "Row domain reaches seat by convention"
 domain-slug: barred-meaning/project

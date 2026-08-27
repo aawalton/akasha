@@ -1,5 +1,6 @@
 ---
 id: d3325ba8-fb27-5d86-958b-52864606a751
+slug: commit-track-no-queue
 page-type-slug: finding
 title: "Commit track no queue"
 domain-slug: barred-meaning/project

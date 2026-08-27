@@ -1,5 +1,6 @@
 ---
 id: 6b1e1875-b4ce-5e94-aee6-4ff3bc202b3f
+slug: rule-scope-uninterrogated
 page-type-slug: finding
 title: "Rule scope uninterrogated"
 domain-slug: domain/global

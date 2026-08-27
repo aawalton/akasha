@@ -1,5 +1,6 @@
 ---
 id: 790f0c65-b953-5140-9e3a-2c305092a28c
+slug: value-circle-reports-roster-size
 page-type-slug: finding
 title: "Value circle reports roster size"
 domain-slug: domain/global

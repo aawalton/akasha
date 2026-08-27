@@ -1,5 +1,6 @@
 ---
 id: ff444cbc-bf23-5337-82a1-a78a2b0575a1
+slug: responsibilities-carry-everything
 page-type-slug: finding
 title: "Responsibilities carry everything"
 domain-slug: role/recorder

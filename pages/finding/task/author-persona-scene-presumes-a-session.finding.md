@@ -1,5 +1,6 @@
 ---
 id: c3ce2e65-12e2-5b91-9700-7ad1781c8eec
+slug: author-persona-scene-presumes-a-session
 page-type-slug: finding
 title: "Author persona scene presumes a session"
 domain-slug: page-type/task

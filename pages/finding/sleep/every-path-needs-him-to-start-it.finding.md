@@ -1,5 +1,6 @@
 ---
 id: dd736623-4e72-56eb-805e-e640543064c8
+slug: every-path-needs-him-to-start-it
 page-type-slug: finding
 title: "Every path needs him to start it"
 domain-slug: domain/sleep

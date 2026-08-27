@@ -1,5 +1,6 @@
 ---
 id: 59eb31bf-bc45-5963-b149-767d00418391
+slug: one-schema-over-two-kinds-of-body
 page-type-slug: finding
 title: "One schema over two kinds of body"
 domain-slug: page-type/refusal

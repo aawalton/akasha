@@ -1,5 +1,6 @@
 ---
 id: 4668f60f-c27a-57ab-8b08-3662e2e4548f
+slug: instructions-cited-by-word
 page-type-slug: finding
 title: "Instructions cited by word"
 domain-slug: page-type/refusal

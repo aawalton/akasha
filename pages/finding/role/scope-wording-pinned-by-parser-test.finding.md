@@ -1,5 +1,6 @@
 ---
 id: 8a6d315c-cdae-5539-a01e-168a2b11845b
+slug: scope-wording-pinned-by-parser-test
 page-type-slug: finding
 title: "Scope wording pinned by parser test"
 domain-slug: page-type/role

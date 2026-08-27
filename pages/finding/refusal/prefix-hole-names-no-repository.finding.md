@@ -1,5 +1,6 @@
 ---
 id: e8708de4-da99-5da2-a325-b0bb2ac87e1b
+slug: prefix-hole-names-no-repository
 page-type-slug: finding
 title: "Prefix hole names no repository"
 domain-slug: page-type/refusal

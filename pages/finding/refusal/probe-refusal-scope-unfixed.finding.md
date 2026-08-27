@@ -1,5 +1,6 @@
 ---
 id: 1ff009fa-25dd-57ba-a12c-af363bad2cb6
+slug: probe-refusal-scope-unfixed
 page-type-slug: finding
 title: "Probe refusal scope unfixed"
 domain-slug: page-type/refusal

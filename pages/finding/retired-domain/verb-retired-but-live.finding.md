@@ -1,5 +1,6 @@
 ---
 id: 177c07ef-cc21-5c45-8af8-fda48629ad2b
+slug: verb-retired-but-live
 page-type-slug: finding
 title: "Verb retired but live"
 domain-slug: domain/global

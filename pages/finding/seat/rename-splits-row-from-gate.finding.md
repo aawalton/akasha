@@ -1,5 +1,6 @@
 ---
 id: e35aaa85-62a6-58ac-896e-c4f51689bc46
+slug: rename-splits-row-from-gate
 page-type-slug: finding
 title: "Rename splits row from gate"
 domain-slug: page-type/seat

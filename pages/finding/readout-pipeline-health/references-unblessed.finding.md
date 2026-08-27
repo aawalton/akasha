@@ -1,5 +1,6 @@
 ---
 id: 57ff7cfe-8fc6-5912-a5a3-0d2edf32244e
+slug: references-unblessed
 page-type-slug: finding
 title: "References unblessed"
 domain-slug: domain/global

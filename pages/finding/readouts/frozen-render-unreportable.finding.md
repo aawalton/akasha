@@ -1,5 +1,6 @@
 ---
 id: 8b2946b1-8edc-5c14-aa17-6eb91010ceed
+slug: frozen-render-unreportable
 page-type-slug: finding
 title: "Frozen render unreportable"
 domain-slug: domain/global

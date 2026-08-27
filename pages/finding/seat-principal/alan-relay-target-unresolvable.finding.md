@@ -1,5 +1,6 @@
 ---
 id: 37e1547e-5411-5595-bbc8-7cef9727ac36
+slug: alan-relay-target-unresolvable
 page-type-slug: finding
 title: "Alan relay target unresolvable"
 domain-slug: domain/seat-principal

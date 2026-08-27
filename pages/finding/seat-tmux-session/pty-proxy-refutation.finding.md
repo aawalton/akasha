@@ -1,5 +1,6 @@
 ---
 id: ca799a2b-5d94-5a57-8191-8729c299c77f
+slug: pty-proxy-refutation
 page-type-slug: finding
 title: "Pty proxy refutation"
 domain-slug: domain/seat-tmux-session

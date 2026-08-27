@@ -1,5 +1,6 @@
 ---
 id: 409ffc2b-b7c2-535f-8602-fa099576997a
+slug: mode-never-written-by-any-launch
 page-type-slug: finding
 title: "Mode never written by any launch"
 domain-slug: page-property-definition/seat-mode

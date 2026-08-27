@@ -1,5 +1,6 @@
 ---
 id: baea0763-2665-50d8-9d17-6f8adba4c205
+slug: prefix-siblings-disagree-on-the-act
 page-type-slug: finding
 title: "Prefix siblings disagree on the act"
 domain-slug: page-type/refusal

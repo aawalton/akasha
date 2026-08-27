@@ -1,5 +1,6 @@
 ---
 id: 7613d5b7-6c3e-5129-8794-dfd48acb77ee
+slug: empty-backlog-is-the-doctrine
 page-type-slug: finding
 title: "Empty backlog is the doctrine"
 domain-slug: domain/prayer

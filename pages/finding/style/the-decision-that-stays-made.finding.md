@@ -1,5 +1,6 @@
 ---
 id: f195dc18-20e7-5be6-ba3a-192ef08eaa22
+slug: the-decision-that-stays-made
 page-type-slug: finding
 title: "The decision that stays made"
 domain-slug: domain/style

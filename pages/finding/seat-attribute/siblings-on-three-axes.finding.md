@@ -1,5 +1,6 @@
 ---
 id: 268507a1-9d40-5a25-b2a3-f4f19d7e64b0
+slug: siblings-on-three-axes
 page-type-slug: finding
 title: "Siblings on three axes"
 domain-slug: domain/seat-attribute

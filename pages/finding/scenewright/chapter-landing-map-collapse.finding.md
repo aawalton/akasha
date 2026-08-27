@@ -1,5 +1,6 @@
 ---
 id: af42b4f8-d853-5bb0-acdf-ecbfa7c9233e
+slug: chapter-landing-map-collapse
 page-type-slug: finding
 title: "Chapter landing map collapse"
 domain-slug: role/scenewright

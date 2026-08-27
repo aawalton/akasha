@@ -1,5 +1,6 @@
 ---
 id: ce99460d-8d98-5ccc-ae77-855826ef39ba
+slug: assumption-reversed-by-recorder
 page-type-slug: finding
 title: "Assumption reversed by recorder"
 domain-slug: page-type/role

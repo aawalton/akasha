@@ -1,5 +1,6 @@
 ---
 id: b01000f6-fa88-5911-9752-05bdce13a100
+slug: exits-on-empty-queue
 page-type-slug: finding
 title: "Exits on empty queue"
 domain-slug: role/recorder

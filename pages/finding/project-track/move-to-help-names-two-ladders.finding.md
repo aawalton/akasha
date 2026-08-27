@@ -1,5 +1,6 @@
 ---
 id: 111b389f-20a7-52a5-a31e-a87326a09bc0
+slug: move-to-help-names-two-ladders
 page-type-slug: finding
 title: "Move to help names two ladders"
 domain-slug: domain/global

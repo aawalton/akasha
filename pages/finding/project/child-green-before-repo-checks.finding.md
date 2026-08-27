@@ -1,5 +1,6 @@
 ---
 id: 4925f339-e364-5c92-a27d-fd1c958726eb
+slug: child-green-before-repo-checks
 page-type-slug: finding
 title: "Child green before repo checks"
 domain-slug: barred-meaning/project

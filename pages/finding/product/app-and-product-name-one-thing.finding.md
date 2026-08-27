@@ -1,5 +1,6 @@
 ---
 id: fd1df53b-7b50-58ce-b0a3-050fddb9d7c3
+slug: app-and-product-name-one-thing
 page-type-slug: finding
 title: "App and product name one thing"
 domain-slug: domain/global

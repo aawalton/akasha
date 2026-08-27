@@ -1,5 +1,6 @@
 ---
 id: a8461700-c629-5ab8-b247-ed4ba23bc0e3
+slug: row-names-no-domain-to-pin
 page-type-slug: finding
 title: "Row names no domain to pin"
 domain-slug: barred-meaning/project

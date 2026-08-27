@@ -1,5 +1,6 @@
 ---
 id: b6d5d3f7-bf25-5e72-bb52-687079097430
+slug: initiative-unresolvable
 page-type-slug: finding
 title: "Initiative unresolvable"
 domain-slug: page-type/seat

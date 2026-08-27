@@ -1,5 +1,6 @@
 ---
 id: 6509d3b6-87eb-593d-83ec-92046feed0ae
+slug: child-rows-keep-orphaned-shas
 page-type-slug: finding
 title: "Child rows keep orphaned shas"
 domain-slug: barred-meaning/project

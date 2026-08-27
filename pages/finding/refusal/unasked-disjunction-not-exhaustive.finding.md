@@ -1,5 +1,6 @@
 ---
 id: 7c565204-9287-5c48-a460-97ee366a14d4
+slug: unasked-disjunction-not-exhaustive
 page-type-slug: finding
 title: "Unasked disjunction not exhaustive"
 domain-slug: page-type/refusal

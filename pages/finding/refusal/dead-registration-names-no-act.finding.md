@@ -1,5 +1,6 @@
 ---
 id: 58584d6b-8ee3-538f-88b3-9ab3cdab61cb
+slug: dead-registration-names-no-act
 page-type-slug: finding
 title: "Dead registration names no act"
 domain-slug: page-type/refusal

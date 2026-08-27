@@ -1,5 +1,6 @@
 ---
 id: d4211054-f7bf-5643-8754-0c2c476087da
+slug: re-statement-is-conditional
 page-type-slug: finding
 title: "Re statement is conditional"
 domain-slug: page-type/seat

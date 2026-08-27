@@ -1,5 +1,6 @@
 ---
 id: fc39d5e1-9909-5385-a13b-a670cf6ab6e7
+slug: output-disposition-underspecified
 page-type-slug: finding
 title: "Output disposition underspecified"
 domain-slug: task/review-instructions

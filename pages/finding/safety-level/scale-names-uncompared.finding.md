@@ -1,5 +1,6 @@
 ---
 id: d87199a0-4ff3-5aa9-a9e5-96a8adab0591
+slug: scale-names-uncompared
 page-type-slug: finding
 title: "Scale names uncompared"
 domain-slug: readout-scale/safety-level

@@ -1,5 +1,6 @@
 ---
 id: 2f61f0f9-5a7e-5f82-aceb-fb2a9598015f
+slug: libsets-equipslot-nondeterministic
 page-type-slug: finding
 title: "Libsets equipslot nondeterministic"
 domain-slug: domain/946

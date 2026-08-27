@@ -1,5 +1,6 @@
 ---
 id: acfd3f04-e210-5c9c-ba70-a2efdcba20bc
+slug: commit-messages-default
 page-type-slug: finding
 title: "Commit messages default"
 domain-slug: task/review-instructions

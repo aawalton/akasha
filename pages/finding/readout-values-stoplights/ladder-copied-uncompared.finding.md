@@ -1,5 +1,6 @@
 ---
 id: 9ca2d847-a692-516d-baaa-3c63342dc156
+slug: ladder-copied-uncompared
 page-type-slug: finding
 title: "Ladder copied uncompared"
 domain-slug: domain/global

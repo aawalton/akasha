@@ -1,5 +1,6 @@
 ---
 id: e4694f47-cf75-586d-9916-5fbef6832bcd
+slug: prose-reading-misses-false-claims
 page-type-slug: finding
 title: "Prose reading misses false claims"
 domain-slug: task/review-instructions

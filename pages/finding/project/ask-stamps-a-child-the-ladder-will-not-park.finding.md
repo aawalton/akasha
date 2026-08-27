@@ -1,5 +1,6 @@
 ---
 id: fc140ecf-6ece-5c73-8866-b43de7c9c8fb
+slug: ask-stamps-a-child-the-ladder-will-not-park
 page-type-slug: finding
 title: "Ask stamps a child the ladder will not park"
 domain-slug: barred-meaning/project

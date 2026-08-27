@@ -1,5 +1,6 @@
 ---
 id: 4d4a27b0-647e-5b1d-ae35-d64be0a905a0
+slug: two-intents-may-have-arrived
 page-type-slug: finding
 title: "Two intents may have arrived"
 domain-slug: domain/global

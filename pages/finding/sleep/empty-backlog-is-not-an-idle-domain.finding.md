@@ -1,5 +1,6 @@
 ---
 id: 88f7e4df-9ff3-59ff-9b1a-bf1c3101ca81
+slug: empty-backlog-is-not-an-idle-domain
 page-type-slug: finding
 title: "Empty backlog is not an idle domain"
 domain-slug: domain/sleep

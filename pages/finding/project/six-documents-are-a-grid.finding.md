@@ -1,5 +1,6 @@
 ---
 id: f2065d8e-e5ea-5f9f-aba9-7e459174d8f0
+slug: six-documents-are-a-grid
 page-type-slug: finding
 title: "Six documents are a grid"
 domain-slug: barred-meaning/project

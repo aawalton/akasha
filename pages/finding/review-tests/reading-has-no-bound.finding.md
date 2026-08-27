@@ -1,5 +1,6 @@
 ---
 id: dc36e044-fd41-5196-ac9e-2e75dca49430
+slug: reading-has-no-bound
 page-type-slug: finding
 title: "Reading has no bound"
 domain-slug: task/review-tests

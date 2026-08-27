@@ -1,5 +1,6 @@
 ---
 id: 3a6bfd5a-0eb6-5818-b113-42bec2b2e952
+slug: objective-checkbox-has-no-writer
 page-type-slug: finding
 title: "Objective checkbox has no writer"
 domain-slug: barred-meaning/project

@@ -1,5 +1,6 @@
 ---
 id: 3d9e40d6-c95d-5d52-a401-f53eaa611d06
+slug: stale-tile-reads-live
 page-type-slug: finding
 title: "Stale tile reads live"
 domain-slug: domain/global

@@ -1,5 +1,6 @@
 ---
 id: c17b01cf-eed7-5633-8788-38f3bf8b6a82
+slug: stage-4-population-unlisted
 page-type-slug: finding
 title: "Stage 4 population unlisted"
 domain-slug: task/ship-install

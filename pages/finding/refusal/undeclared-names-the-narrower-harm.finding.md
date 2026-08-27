@@ -1,5 +1,6 @@
 ---
 id: abc722c3-addd-5a49-8112-fd1f460288e4
+slug: undeclared-names-the-narrower-harm
 page-type-slug: finding
 title: "Undeclared names the narrower harm"
 domain-slug: page-type/refusal

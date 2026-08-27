@@ -1,5 +1,6 @@
 ---
 id: 4809bd22-6b99-522d-9035-59a92a405f45
+slug: delegated-code-reading-read-as-checked
 page-type-slug: finding
 title: "Delegated code reading read as checked"
 domain-slug: page-type/role

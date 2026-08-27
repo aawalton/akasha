@@ -1,5 +1,6 @@
 ---
 id: 8637caf0-58af-57cb-9b9f-1e0c1beb7ab0
+slug: list-file-resolves-to-nothing
 page-type-slug: finding
 title: "list(file) resolves to nothing"
 domain-slug: domain/required-reading

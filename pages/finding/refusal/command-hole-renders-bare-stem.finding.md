@@ -1,5 +1,6 @@
 ---
 id: 421ae072-a37b-5257-bd1b-8f3a4905f9cf
+slug: command-hole-renders-bare-stem
 page-type-slug: finding
 title: "Command hole renders bare stem"
 domain-slug: page-type/refusal

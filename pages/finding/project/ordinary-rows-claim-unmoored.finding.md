@@ -1,5 +1,6 @@
 ---
 id: 0b8946a0-6b75-5af1-a241-a0e83581b490
+slug: ordinary-rows-claim-unmoored
 page-type-slug: finding
 title: "Ordinary rows claim unmoored"
 domain-slug: barred-meaning/project

@@ -1,5 +1,6 @@
 ---
 id: bb0eed00-40f5-5a24-aaad-4187ecf87044
+slug: alan-ask-outlived-by-another-tree
 page-type-slug: finding
 title: "Alan ask outlived by another tree"
 domain-slug: barred-meaning/project

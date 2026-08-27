@@ -1,5 +1,6 @@
 ---
 id: 923605d2-a035-5f27-9774-d7ad1c561da5
+slug: unblock-condition-unsatisfiable-unreported
 page-type-slug: finding
 title: "Unblock condition unsatisfiable unreported"
 domain-slug: barred-meaning/project

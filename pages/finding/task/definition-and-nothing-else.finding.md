@@ -1,5 +1,6 @@
 ---
 id: 22e38f5f-2621-539e-a5bf-5952fcadfb8b
+slug: definition-and-nothing-else
 page-type-slug: finding
 title: "Definition and nothing else"
 domain-slug: page-type/task

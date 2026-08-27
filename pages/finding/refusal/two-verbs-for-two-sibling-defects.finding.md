@@ -1,5 +1,6 @@
 ---
 id: 72d0bed1-60a1-5720-a181-ce5f920e01c6
+slug: two-verbs-for-two-sibling-defects
 page-type-slug: finding
 title: "Two verbs for two sibling defects"
 domain-slug: page-type/refusal

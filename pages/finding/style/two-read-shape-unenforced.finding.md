@@ -1,5 +1,6 @@
 ---
 id: 4e891615-8a13-52c4-a39d-9a1d8a378949
+slug: two-read-shape-unenforced
 page-type-slug: finding
 title: "Two read shape unenforced"
 domain-slug: domain/style

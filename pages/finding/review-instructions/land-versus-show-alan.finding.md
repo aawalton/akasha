@@ -1,5 +1,6 @@
 ---
 id: fcf091c7-d197-58f9-8292-978932c40fc2
+slug: land-versus-show-alan
 page-type-slug: finding
 title: "Land versus show Alan"
 domain-slug: task/review-instructions

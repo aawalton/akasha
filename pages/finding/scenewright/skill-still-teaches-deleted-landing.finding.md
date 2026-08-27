@@ -1,5 +1,6 @@
 ---
 id: 43261e8d-2e7b-50bf-8b24-0359e563797b
+slug: skill-still-teaches-deleted-landing
 page-type-slug: finding
 title: "Skill still teaches deleted landing"
 domain-slug: role/scenewright

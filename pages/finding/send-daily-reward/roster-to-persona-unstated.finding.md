@@ -1,5 +1,6 @@
 ---
 id: 2fbe67fc-4775-5dd6-a072-48e7288f4174
+slug: roster-to-persona-unstated
 page-type-slug: finding
 title: "Roster to persona unstated"
 domain-slug: domain/global

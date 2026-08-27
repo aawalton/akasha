@@ -1,5 +1,6 @@
 ---
 id: 2a17afd4-81ab-5d99-9cac-018c359e821b
+slug: unprojected-remedy-one-armed
 page-type-slug: finding
 title: "Unprojected remedy one armed"
 domain-slug: page-type/refusal

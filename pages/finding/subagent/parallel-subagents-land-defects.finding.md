@@ -1,5 +1,6 @@
 ---
 id: 6280a225-49ff-55ba-b223-38b7d41d6ed6
+slug: parallel-subagents-land-defects
 page-type-slug: finding
 title: "Parallel subagents land defects"
 domain-slug: page-type/subagent

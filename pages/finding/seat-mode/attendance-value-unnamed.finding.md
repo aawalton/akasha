@@ -1,5 +1,6 @@
 ---
 id: 794aa1e3-e964-5731-bfa5-2cd83a575cfd
+slug: attendance-value-unnamed
 page-type-slug: finding
 title: "Attendance value unnamed"
 domain-slug: page-property-definition/seat-mode

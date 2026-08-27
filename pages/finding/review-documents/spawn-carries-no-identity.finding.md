@@ -1,5 +1,6 @@
 ---
 id: c586db93-57c0-5e41-902a-063c7f0aba3e
+slug: spawn-carries-no-identity
 page-type-slug: finding
 title: "Spawn carries no identity"
 domain-slug: domain/global

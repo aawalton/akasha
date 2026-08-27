@@ -1,5 +1,6 @@
 ---
 id: a682848a-10fc-5c95-b169-4486661cff46
+slug: assignment-kinds-out-of-reach
 page-type-slug: finding
 title: "Assignment kinds out of reach"
 domain-slug: domain/seat-assignment

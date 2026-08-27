@@ -1,5 +1,6 @@
 ---
 id: 968e2da1-e5ba-5ec9-ba58-11e124facd40
+slug: render-harness-skips-main-and-decode
 page-type-slug: finding
 title: "Render harness skips main and decode"
 domain-slug: domain/ring

@@ -1,5 +1,6 @@
 ---
 id: 9476bba6-38c9-57a1-9598-481f2c1b8132
+slug: commit-track-closes-unchecked
 page-type-slug: finding
 title: "Commit track closes unchecked"
 domain-slug: barred-meaning/project

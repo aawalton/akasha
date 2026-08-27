@@ -1,5 +1,6 @@
 ---
 id: 3d897101-ab1c-5247-884d-be82d64b7590
+slug: file-finding-indexed-off-area
 page-type-slug: finding
 title: "File finding indexed off area"
 domain-slug: page-type/role

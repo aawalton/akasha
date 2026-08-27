@@ -1,5 +1,6 @@
 ---
 id: 42a3476d-2809-50f1-828b-596a394e066a
+slug: abandons-on-upkeep-never-on-looks
 page-type-slug: finding
 title: "Abandons on upkeep never on looks"
 domain-slug: domain/style

@@ -1,5 +1,6 @@
 ---
 id: cdd7f88c-a412-5b94-b4bb-687ef59699a7
+slug: rank-criterion-unstated
 page-type-slug: finding
 title: "Rank criterion unstated"
 domain-slug: domain/global

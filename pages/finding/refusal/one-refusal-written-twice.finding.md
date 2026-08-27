@@ -1,5 +1,6 @@
 ---
 id: 7f1a72ec-f12e-5c63-8350-7f846ce8ace1
+slug: one-refusal-written-twice
 page-type-slug: finding
 title: "One refusal written twice"
 domain-slug: page-type/refusal

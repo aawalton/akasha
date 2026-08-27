@@ -1,5 +1,6 @@
 ---
 id: c99898e5-9c0b-5be6-aeee-2878b9209987
+slug: script-hole-repeats-the-command
 page-type-slug: finding
 title: "Script hole repeats the command"
 domain-slug: page-type/refusal

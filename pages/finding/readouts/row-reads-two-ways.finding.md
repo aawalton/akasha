@@ -1,5 +1,6 @@
 ---
 id: e35565b9-aa8b-512d-b3e9-4f60db1618e2
+slug: row-reads-two-ways
 page-type-slug: finding
 title: "Row reads two ways"
 domain-slug: domain/global
