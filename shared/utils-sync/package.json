@@ -5,6 +5,7 @@
   "private": true,
   "exports": {
     "./page-type-props": "./src/page-type-props.ts",
+    "./today": "./src/today.ts",
     "./*": "./src/*.ts"
   },
   "scripts": {
