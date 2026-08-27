@@ -27,7 +27,7 @@ function jennyHelperDecision(accountUserId: string | null): SmsRouteDecision {
     kind: "helper",
     target: "jenny",
     accountUserId,
-    reason: "allowlisted sms identity → jenny-handler",
+    reason: "allowlisted sms identity → jenny",
   }
 }
 
