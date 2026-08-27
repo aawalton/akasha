@@ -2,28 +2,27 @@
 id: 978cef63-3b35-506e-8202-0182c998127a
 page-type-slug: finding
 title: "Title flags declared token"
-domain-slug: repo/code-repo
+domain-slug: repo/akasha-repo
 ---
 
 # Claim
 
-Four `--title` flags declare `valueShape: "token"`, and at least three carry values their own descriptions call human prose. The shape vocabulary reserves `line` for exactly this — "a title, a summary, a label" — and only `prose` and `line` earn a `--<name>-file` sibling, so a title declared `token` has the shell as its only door. The route-coverage census cannot see the class: it classifies by the declaration alone, by an explicit design choice, so a mis-declared flag passes as a correct token.
+`--title` declares `valueShape: "token"` on `food log`, on `mobile sim push-tap` and on `exercise equipment-set`, and the first two carry values their own descriptions call human prose — a short food name given as `"Shrimp & grits"`, a notification title. `token` is for a value drawn from a constrained alphabet; only `prose` and `line` are routed shapes, and only a routed shape earns a `--<name>-file` sibling, so a title declared `token` has the shell as its only door.
 
 # Evidence
 
-Measured over `~/code` at HEAD `1313565199` on `main`, 2026-08-07.
+Read in the akasha working tree, 2026-08-27.
 
-The vocabulary, `packages/shared/cli-core/src/help.ts:10-20`: `line` is "prose that is semantically ONE line: a title, a summary, a label", shell-hazardous and so earning the same non-shell route as `prose`; `token` is "a value drawn from a constrained alphabet: an id, a seq, a slug, an enum member, a path, a duration." Only the two routed shapes get a door that is not the shell: `RoutedValueShape = "prose" | "line"` at `prose-route.ts:56`, with `routedShape()` returning `null` for anything else.
+The vocabulary is `FlagValueShape = "prose" | "line" | "token"` at `tools/ops/surface.ts:6`. Only two of the three get a door that is not the shell: `RoutedValueShape = "prose" | "line"` at `tools/lib/prose-route.ts:14`, with `routedShape()` at `:16-20` returning `null` for any other shape and for a flag carrying no `argLabel`.
 
-Population of `--title` across the tree, excluding tests: about 24 declare `prose`, 5 declare `line` (`project create`, `project start`, `project update`, `migration create`), and 4 declare `token`:
+The sites:
 
-- `packages/collections/food/src/cli/log.ts` — `argLabel: "<name>"`, description `Short food name (e.g. "Shrimp & grits", "Broccoli")`. Its own example carries an ampersand.
-- `packages/alanwalton/mobile-cli/src/mobile/sim/push-tap.ts` — `argLabel: "<text>"`, description "Notification title".
-- `packages/alanwalton/personas/cli/src/persona/create.ts` — `argLabel: "<name>"`, "persona display name".
-- `packages/collections/exercises/src/cli/equipment-set.ts` — "Implement name (natural key)". Defensible: a natural key is a constrained alphabet.
+- `tools/commands/food/log.ts:32-36` — `argLabel: "<name>"`, `valueShape: "token"`, `required: true`, description `Short food name (e.g. "Shrimp & grits", "Broccoli")`. Its own example carries an ampersand.
+- `tools/commands/mobile/sim/push-tap.ts:44-47` — `argLabel: "<text>"`, `valueShape: "token"`, description "Notification title (default: `Tap probe`).".
+- `tools/commands/exercise/equipment-set.ts:27-31` — `argLabel: "<name>"`, `valueShape: "token"`, description "Implement name (natural key)". Defensible: a natural key is a constrained alphabet.
 
-So `token` is the minority declaration for this flag by an order of magnitude, and three of the four are prose by their own descriptions.
+`token` is the outlier declaration for this flag. Across the commands under `tools/commands/`, `--title` declares `prose` at most of its sites — every `tracking` verb, the `temper inventory` rule and item-rule and buy-rule verbs, `exercise add`, `exercise schedule-create`, `exercise constraint-set` — and `line` where the value is one line, as at `tools/commands/finding/create.ts`.
 
-Not hypothetical: a `bun ops page list --type food --properties title` read on 2026-07-31 returned `Little Caesar's Crazy Bread, 1 stick (awareness)` among recent rows — an apostrophe a single-quoted shell argument cannot carry.
+Not hypothetical: a read of recent food rows' titles on 2026-07-31 returned `Little Caesar's Crazy Bread, 1 stick (awareness)` among them — an apostrophe a single-quoted shell argument cannot carry.
 
-Why nothing counts the class: `packages/infra/checks/src/lib/cli-prose-flag-route-coverage.ts` is the census, and its header states the rule that blinds it here — "ONLY THE DECLARATION DECLARES", chosen because "an implication is a guess that happens to be right". A flag declaring `token` is therefore a correct token as far as the census is concerned, and a green run says nothing.
+The mis-declaration is invisible to anything that classifies by the declaration alone: a flag declaring `token` is a correct token to such a reader, and its description is prose no code compares against it.

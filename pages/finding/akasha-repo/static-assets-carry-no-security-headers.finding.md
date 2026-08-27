@@ -2,23 +2,25 @@
 id: 179b84a8-991c-5e1c-acad-9506f3761c38
 page-type-slug: finding
 title: "Static assets carry no security headers"
-domain-slug: repo/code-repo
+domain-slug: repo/akasha-repo
 ---
 
 # Claim
 
-Every `/assets/*` bundle the six React Router web apps serve ships with no security headers at all — no `X-Content-Type-Options: nosniff`, no `Strict-Transport-Security`, no `Referrer-Policy`, no `X-Frame-Options`, no `Permissions-Policy`. `server.ts` calls the five static headers unconditional, and they are, within HTML: the branch attaching them is reached only by `text/html` responses, and the static branch returns above it.
+Every `/assets/*` bundle the React Router web apps serve ships with no security headers at all — no `X-Content-Type-Options: nosniff`, no `Strict-Transport-Security`, no `Referrer-Policy`, no `X-Frame-Options`, no `Permissions-Policy`. The constant carrying them is named `STATIC_HEADERS`, for headers that are the same on every response, and they are — within HTML: the branch attaching them is reached only by `text/html` responses, and the static branch returns above it.
 
 # Evidence
 
-In all six `server.ts` the static branch runs first and returns:
+Read in the akasha working tree, 2026-08-27.
+
+In every web app's `server.ts` the static branch runs first and returns — `alanwalton/web/server.ts:62`, `alanwalton/atlas-web/server.ts:88`, `archive-of-worlds/web/server.ts:47`, `audhdalan/web/server.ts:47`, `temper/web/server.ts:48`:
 
     const staticRes = await serveClientStatic(pathname, CLIENT_DIR)
     if (staticRes) return staticRes
 
-`generateNonce()` and the `buildSecurityHeaders` merge both sit below that, inside `if (contentType.startsWith("text/html"))`.
+`generateNonce()` and the `buildSecurityHeaders` merge both sit below that, inside `if (contentType.startsWith("text/html"))` — `alanwalton/web/server.ts:65-72`.
 
-`serveFile` in `packages/shared/web-static-assets/src/serve-static.ts` sets one header and no others:
+`serveFile` in `shared/web-static-assets/src/serve-static.ts:12-18` sets one header and no others:
 
     return new Response(file, {
       headers: { "Cache-Control": cacheControl },
@@ -26,10 +28,10 @@ In all six `server.ts` the static branch runs first and returns:
 
 So a bundle under `/assets/` returns with `Cache-Control: public, max-age=31536000, immutable` and nothing else. Its `Content-Type` is synthesized by Bun from the file extension, which is the case `nosniff` exists to make binding.
 
-Nothing upstream supplies them. `X-Content-Type-Options`, `nosniff` and `Strict-Transport-Security` have zero matches across `packages/infra` in `.ts`, `.yaml` and `.yml`, so no ingress, proxy or k8s manifest adds what the app omits.
+Nothing upstream supplies them. `X-Content-Type-Options`, `nosniff` and `Strict-Transport-Security` return no match anywhere under `infra/` in `.ts`, `.yaml` or `.yml`, so no ingress, proxy or k8s manifest adds what the app omits.
 
-`packages/alanwalton/web/server.ts:150` states the scope accurately and reads as coverage: "Security headers (CSP + the five static headers) are applied to EVERY text/html response here", closing "the security headers are unconditional — an HTML response must never ship without them." A reader auditing whether the estate sets `nosniff` finds `STATIC_HEADERS` in `packages/shared/web-security-headers/src/build.ts`, sees five headers named for being static rather than per-request, and gets a true answer to the wrong question.
+A reader auditing whether the estate sets `nosniff` finds `STATIC_HEADERS` in `shared/web-security-headers/src/build.ts:8-14`, sees headers named for being static rather than per-request, and gets a true answer to the wrong question. Nothing at either site records that the set never reaches a non-HTML response.
 
 `Strict-Transport-Security` reaches past the response carrying it — a browser receiving it on HTML alone still has the origin pinned — so the exposure concentrates in `nosniff` on script and style bundles.
 
-Found while ingesting `dirty/knowledge/web-security-headers.md`, which records that responses outside the branch carry none of the six but does not check whether anything upstream makes up for it. That source has been removed.
+Found while ingesting a quarantined knowledge document on web security headers, which recorded that responses outside the branch carry none of these but did not check whether anything upstream makes up for it. That source has been removed.
