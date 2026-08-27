@@ -3,7 +3,10 @@ import { locate, rootsHere } from "../../../repo/roots/roots.ts"
 import { standingHere } from "../../../page/required-reading/warrant/warrant.ts"
 import { agentPageFor } from "../../../agent/read-log.ts"
 import type { Target } from "./target.ts"
-import { seatWarrantsFor, subagentWarrantsFor } from "../../../agent/required-reading/required-reading.ts"
+import {
+  seatWarrantsWithDefaults,
+  subagentWarrantsFor,
+} from "../../../agent/required-reading/required-reading.ts"
 import { seatAbove } from "../../../agent/writer.ts"
 
 export function seatTargets(agent: string, from: string): readonly Target[] | null {
@@ -21,7 +24,8 @@ export function seatTargets(agent: string, from: string): readonly Target[] | nu
   const here = locate(from)
   const held = new Set<string>()
   const targets: Target[] = []
-  const warranted = above === null ? seatWarrantsFor(body, index) : subagentWarrantsFor(body, index)
+  const warranted =
+    above === null ? seatWarrantsWithDefaults(body, index) : subagentWarrantsFor(body, index)
   for (const one of warranted) {
     const root = roots[one.page.repo]
     if (root === undefined) continue
