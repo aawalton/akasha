@@ -17,7 +17,7 @@ irreversible: false
 
 # Design
 
-What counts as a component and what shape a record takes stay in the code repository, and are loaded from the checkout this writes into.
+What counts as a component and what shape a record takes are imported from the package beside this command, not from the checkout written into.
 
 A component ESO parents to GuiRoot and creates at runtime is outside a single-file source walk, and so outside this catalog.
 
@@ -31,13 +31,12 @@ Walk the ESO UI source file that declares the main gameplay scene, take one reco
 distinct UI component it names, and write them into the code repository as the catalog its
 HUD packages read.
 
-The rules for what counts as a component and what shape a record takes are domain logic a
-deploy carries, so they stay in the code repository and are loaded from the checkout named
-below. The catalog is therefore made by the rules of the tree it lands in.
+The rules for what counts as a component and what shape a record takes are imported from the
+package that declares them, so a run parses by the rules standing beside this command rather
+than by those of the tree it writes into.
 
-The written file is a tracked artefact of the code repository; this command is the rule it is
-made by and stands here, where no deploy has to carry it. The output path is taken from that
-same checkout rather than from this file's own location.
+The written file is a tracked artefact of the checkout named below, and the output path is
+taken from that checkout rather than from this file's own location.
 
 Components ESO parents to GuiRoot and creates at runtime are outside a single-file source walk
 and so outside this catalog.
