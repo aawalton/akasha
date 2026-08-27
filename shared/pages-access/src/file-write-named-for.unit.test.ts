@@ -2,8 +2,8 @@ import { afterEach, expect, test } from "bun:test"
 import { z } from "zod"
 import { forgetFileBackedPageTypes, setFileBackedPageTypes } from "./file-read"
 import { forgetFileShapes } from "./file-shape"
-import { forgetFileBackings, setFileBackings } from "./file-write-backing"
 import { createFilePage, upsertFilePage } from "./file-write"
+import { forgetFileBackings, setFileBackings } from "./file-write-backing"
 
 // A page type named `{id}` is the plainest case of a rule naming a key the write
 // settles rather than one the caller states: nothing else fills it, so the name a
@@ -21,7 +21,10 @@ const BODY = z.object({ values: z.record(z.string(), z.unknown()).optional() })
 type Landed = { readonly name: string; readonly values: Record<string, unknown> }
 
 function reply(body: unknown, status = 200): Response {
-  return new Response(JSON.stringify(body), { status, headers: { "content-type": "application/json" } })
+  return new Response(JSON.stringify(body), {
+    status,
+    headers: { "content-type": "application/json" },
+  })
 }
 
 let stop: (() => void) | null = null
@@ -64,7 +67,9 @@ function serve(): Landed[] {
       if (asked["page-type"] === "page-property-definition") {
         return reply({
           n: 1,
-          rows: [{ at: "d1", values: { key: "note", type: "text", "defined-on-slug": SLUG, id: "d1" } }],
+          rows: [
+            { at: "d1", values: { key: "note", type: "text", "defined-on-slug": SLUG, id: "d1" } },
+          ],
         })
       }
       if (asked["page-type"] === SLUG) {
