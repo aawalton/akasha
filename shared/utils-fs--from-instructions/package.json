@@ -8,7 +8,6 @@
   },
   "exports": {
     "./atomic-write": "./src/atomic-write.ts",
-    "./expand-tilde": "./src/expand-tilde.ts",
     "./*": "./src/*.ts"
   },
   "devDependencies": {
