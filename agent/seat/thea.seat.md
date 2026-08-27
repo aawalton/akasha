@@ -8,7 +8,6 @@ role-slug: definer
 person-slug: alan
 start-mode: interactive
 on-call: true
-initiative-slug: thea-checks-system
 errand: "sure, we can land that"
 registration-account: aawalton
 claude-code-session-uuid: ffd3a983-16d0-4de2-ad44-0a312d188d41
