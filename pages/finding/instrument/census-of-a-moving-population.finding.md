@@ -8,7 +8,7 @@ domain-slug: domain/instrument
 
 # Claim
 
-A census of a corpus that turns over is read wrong in three ways, each of which looks identical to a right reading. The unit is derived from a name instead of read from the field that records the relation. The size is taken at one instant, so a fast-turning population reads exactly like a stuck one. And a corpus that both drains and fills is compared against a reading taken at a different phase of its cycle. Nothing under `domains/` binds any of the three.
+A census of a corpus that turns over is read wrong in three ways, each of which looks identical to a right reading. The unit is derived from a name instead of read from the field that records the relation. The size is taken at one instant, so a fast-turning population reads exactly like a stuck one. And a corpus that both drains and fills is compared against a reading taken at a different phase of its cycle. Nothing under `pages/domain/` binds any of the three.
 
 # Evidence
 
@@ -23,3 +23,5 @@ The phase. A post-triage trough of 177 became 294 within the hour as four trees 
 Machinery checked 2026-08-07, and its rot does not touch the judgment. The seat-naming specimen is falsified: the live head form is `${role}-${seq}` at `packages/agents/shared/agent-name-grammar.ts:315`, and `project` and `manage` are legacy aliases for `manager` at `agent-roles.ts:217-221`. Both statuses named are live in `PROJECT_STATUS_VALUES`.
 
 Live search 2026-08-07, `/usr/bin/grep -r` over `~/instructions/domains/` for `concurrency`, `queue depth`, `residence`, `trough` and `parent row`: nothing for any of the five. `domains/instrument.md` carries Population and Horizon; neither reaches a population that moves while it is read.
+
+That corpus is now `pages/domain/`, and the reading holds there. Ripgrep over `pages/domain/` and `pages/page-type/` on 2026-08-27 for `moving population`, `turnover`, `trough`, `queue depth`, `at one instant`, `phase of its cycle` and `concurrency` matched nothing. `pages/domain/instrument.domain.md` is where Population and Horizon stand now, still reaching neither a moving population nor a phase.
