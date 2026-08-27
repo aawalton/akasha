@@ -14,6 +14,8 @@ domain-parent-slug: page-type/repo
 
 Nothing under `.claude` is tracked here.
 
+This repository has one master instance; every other copy is a backup or read-only.
+
 # Intent
 
 No file here imports a file in another repository, apart from a type declaration.
