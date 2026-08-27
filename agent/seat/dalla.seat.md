@@ -8,6 +8,7 @@ role-slug: definer
 person-slug: alan
 start-mode: interactive
 on-call: true
+initiative-slug: dalla-change-harness
 errand: "Okay, I just deleted a dalla initiative with some intents on it, I think I want that back, can you find and restore it?"
 registration-account: aawalton
 claude-code-session-uuid: 95b38980-47c1-43e6-bc59-bf2513e54be8
