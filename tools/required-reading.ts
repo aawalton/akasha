@@ -53,8 +53,18 @@ const FILE_KEY_TYPE = "file"
 
 const PACKAGE_REPO_KEY = "repo"
 
+const ABSORBED: ReadonlySet<Repo> = new Set([AKASHA, "instructions", "code", "books", "stories"])
+
+/**
+ * Where a repository's package manifests stand.
+ *
+ * `instructions`, `code`, `books` AND `stories` WERE ABSORBED INTO AKASHA, so each answers the root
+ * handed in rather than a checkout of its own. `rootFor` throws for a repository nothing has cloned,
+ * and these four names outlive their checkouts in package frontmatter — so asking it for one took
+ * down every caller wanting to know what a file said to be in that tree must have read.
+ */
 function rootOf(repo: Repo, root: string): string {
-  return repo === "instructions" ? root : rootFor(resolveRoots(), repo)
+  return ABSORBED.has(repo) ? root : rootFor(resolveRoots(), repo)
 }
 
 function fileKeysIn(frontmatter: ReadonlyMap<string, Frontmatter>): ReadonlySet<string> {
