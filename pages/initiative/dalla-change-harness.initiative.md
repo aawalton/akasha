@@ -10,7 +10,4 @@ parent-slug: aine-global
 # Intent
 
 - A check that can run on a worktree passes before the worktree is merged.
-- A check that can run on a worktree passes before the service is deployed.
-- A service can deploy without waiting for any other.
 - No code but these commands makes a worktree a seat works in.
-
