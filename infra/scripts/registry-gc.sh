@@ -3,8 +3,8 @@
 set -euo pipefail
 
 SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
-CODE_ROOT="${CODE_ROOT:-$HOME/repos/code}"
-CLUSTER_DIR="${CODE_ROOT}/packages/infra"
+AKASHA_ROOT="${AKASHA_ROOT:-$HOME/repos/akasha}"
+CLUSTER_DIR="${AKASHA_ROOT}/infra"
 
 _DEPLOY_LIB_DIR="${CLUSTER_DIR}/lib"
 # shellcheck source=../lib/deploy-functions.sh

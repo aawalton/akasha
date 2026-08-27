@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-CODE_ROOT="${CODE_ROOT:-$HOME/repos/code}"
-PKG_DIR="${CODE_ROOT}/packages/infra/voice-infer"
+AKASHA_ROOT="${AKASHA_ROOT:-$HOME/repos/akasha}"
+PKG_DIR="${AKASHA_ROOT}/infra/voice-infer"
 BUILDKIT_ADDR="tcp://buildkit.buildkit.svc.cluster.local:1234"
 REGISTRY="registry.registry.svc.cluster.local:5000"
 IMAGE="${REGISTRY}/cluster/voice-infer-cu121:serving"

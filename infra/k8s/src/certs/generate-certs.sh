@@ -3,8 +3,8 @@
 set -euo pipefail
 
 SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
-CODE_ROOT="${CODE_ROOT:-$HOME/repos/code}"
-PKG_DIR="${CODE_ROOT}/packages/infra"
+AKASHA_ROOT="${AKASHA_ROOT:-$HOME/repos/akasha}"
+PKG_DIR="${AKASHA_ROOT}/infra"
 CERTS_DIR="${SCRIPT_DIR}"
 cd "$CERTS_DIR"
 
