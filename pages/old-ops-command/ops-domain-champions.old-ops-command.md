@@ -2,7 +2,7 @@
 id: a50baf81-6bdd-5c3c-b65f-f57de002e87b
 page-type-slug: old-ops-command
 title: "Ops instructions champions"
-slug: ops-instructions-champions
+slug: ops-domain-champions
 domain-parent-slug: domain/ops-instructions
 required-reading-slugs:
   - page-type/old-ops-command
