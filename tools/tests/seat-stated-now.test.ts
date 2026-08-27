@@ -1,8 +1,8 @@
 
 import { afterAll, beforeAll, describe, expect, test } from "bun:test"
-import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import type { Attributes } from "../lib/attributes.ts"
 import { type Said, statedNow } from "../lib/seat-stated.ts"
+import { type Fixture, fixture } from "./fixture.ts"
 
 const AGENT = "0193aaaa-bbbb-4ccc-8ddd-eeeeffff0000"
 
@@ -29,20 +29,19 @@ function said(over: Partial<Said> = {}): Said {
   }
 }
 
-const stood = process.env.MEMORY_ROOT
-
-let memory: string
+let at: Fixture
 
 beforeAll(() => {
-  memory = mkdtempSync("/var/tmp/seat-stated-now-")
-  mkdirSync(`${memory}/seats`, { recursive: true })
-  mkdirSync(`${memory}/pages/initiative`, { recursive: true })
-  writeFileSync(
-    `${memory}/pages/initiative/seat-identity.initiative.md`,
-    '---\nslug: seat-identity\n---\n\n# Definition\n\n- **Seat identity** — what a seat is.\n'
+  at = fixture()
+  at.put(
+    "pages/initiative/seat-identity.initiative.md",
+    "---\nslug: seat-identity\n---\n\n# Definition\n\n- **Seat identity** — what a seat is.\n"
   )
-  writeFileSync(
-    `${memory}/seats/${SEAT}.md`,
+  // A SEAT PAGE STANDS AT `agent/seat/<name>.seat.md` UNDER THE AKASHA ROOT. This planted
+  // `seats/<name>.md` under `MEMORY_ROOT`, and both halves of that are gone: the memory
+  // repository is absorbed, so nothing reads that variable, and the seat place moved.
+  at.put(
+    `agent/seat/${SEAT}.seat.md`,
     [
       "---",
       "page-type-slug: seat",
@@ -60,13 +59,10 @@ beforeAll(() => {
       "",
     ].join("\n")
   )
-  process.env.MEMORY_ROOT = memory
 })
 
 afterAll(() => {
-  if (stood === undefined) delete process.env.MEMORY_ROOT
-  else process.env.MEMORY_ROOT = stood
-  rmSync(memory, { recursive: true, force: true })
+  at.dispose()
 })
 
 describe("what a seat states now, against what its page already holds", () => {
