@@ -2,14 +2,14 @@ export const summary = "Write whole files as a patch, gated before anything land
 
 import { existsSync, mkdtempSync, readFileSync, statSync, writeFileSync } from "node:fs"
 import { resolve } from "node:path"
-import { decodeUtf8 } from "../../utf8-body/utf8-body.ts"
-import { carriesBytes } from "../../page/file-kind/carries-bytes.ts"
-import { sidecarsBeside } from "../../page/sidecar/sidecar.ts"
+import { decodeUtf8 } from "../../../utf8-body/utf8-body.ts"
+import { carriesBytes } from "../../../page/file-kind/carries-bytes.ts"
+import { sidecarsBeside } from "../../../page/sidecar/sidecar.ts"
 import { statingIds } from "./state-id.ts"
-import { land, LandingRefused, landOutside, type Landing, type Loose } from "../../repo/land/land.ts"
-import { AKASHA } from "../../repo/roots/roots.ts"
-import { addressOf, type Addressed, defaultMessage, rejectUnknownFlags, relPathIn } from "./address.ts"
-import { fail, type Landing as Patched, patchText, payloadText, valueOf } from "./patch.ts"
+import { land, LandingRefused, landOutside, type Landing, type Loose } from "../../../repo/land/land.ts"
+import { AKASHA } from "../../../repo/roots/roots.ts"
+import { addressOf, type Addressed, defaultMessage, rejectUnknownFlags, relPathIn } from "../../../patches/command/address.ts"
+import { fail, type Landing as Patched, patchText, payloadText, valueOf } from "../../../patches/command/patch.ts"
 
 const FILE_PATH = "--file-path"
 
