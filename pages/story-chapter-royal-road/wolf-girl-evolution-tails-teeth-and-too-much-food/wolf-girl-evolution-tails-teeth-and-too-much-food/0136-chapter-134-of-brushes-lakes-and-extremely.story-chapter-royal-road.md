@@ -1,0 +1,543 @@
+---
+id: aa468660-cc6e-5424-b8e9-ed488fdebae4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 134: Of Brushes, Lakes, and Extremely Comfortable Wolves"
+slug: 0136-chapter-134-of-brushes-lakes-and-extremely
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 136
+ownLength: 2488
+unit: words
+publishedAt: 2026-06-22
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3576360/chapter-134-of-brushes-lakes-and-extremely-comfortable"
+royalRoadId: "3576360"
+---
+
+PoV Luna
+
+The next morning started perfectly!
+
+Warm sunlight filtered through the trees beside the lakeshore while the remains of last night’s fire crackled softly beneath fresh breakfast cooking. Wind drifted gently across the water carrying cool mist and fish smells through camp.
+
+And Luna currently occupied the greatest position in existence!
+
+Securely inside Syliana’s lap, wrapped partially in blankets, and receiving ear scratches!
+
+Objectively unbeatable circumstances!
+
+“Awoo-haaaa…”
+
+Trianna snorted quietly from behind them while continuing her extremely dangerous mission.
+
+“You sound like you’re melting.”
+
+“Luna comfy!”
+
+“That is tragically obvious.”
+
+Syliana’s silver hair had already been brushed smooth earlier, long strands catching sunlight softly where they spilled over one shoulder. Now Trianna worked carefully through Luna’s considerably more hostile fluff situation instead.
+
+And Luna’s hair resisted civilization aggressively!
+
+Especially around the ears.
+
+Every few brush strokes required Trianna physically holding one twitching wolf ear steady while attempting to untangle silver-black fluff that kept trying to reclaim its natural disaster state immediately afterward.
+
+“This should count as combat,” Trianna muttered.
+
+“Nuh uh.”
+
+“Your ears just bit the brush.”
+
+“Self-defense!”
+
+Syliana sighed softly above Luna while one hand continued resting comfortably across her stomach, warming it up.
+
+Mhm, it was nice and comfy!
+
+The brushing too.
+
+At first Luna expected brushing to be annoying human maintenance nonsense. Instead, the repetitive careful motions sent pleasant shivers through her ears and scalp, especially whenever Trianna’s fingers found a particularly fluffy spot by accident.
+
+Excellent invention, that brushing!
+
+Luna leaned harder backward against Syliana. The elf adjusted around her automatically without even looking up from the book resting in her other hand.
+
+Perfect!
+
+Morning food smells drifted through camp now, fresh fish Veric caught in the morning cooking beside flatbread, spiced mushrooms, herbs, and tea all mixing with woodsmoke.
+
+Ray stood near the fire attempting to look innocent while slowly moving one additional skewer toward his own plate whenever he thought nobody watched.
+
+Sepio watched.
+
+Syliana watched.
+
+Veric definitely watched.
+
+Ray continued anyway.
+
+Trianna noticed next.
+
+“…You do realize everybody can see you stealing breakfast supplies?”
+
+Ray immediately took offense.
+
+“It is not stealing if we all own the supplies collectively!”
+
+“You are redistributing meat ratios.”
+
+“I am strategically optimizing resource allocation.”
+
+Sepio folded his arms.
+
+“You took four extra skewers.”
+
+“Counterpoint,” Ray said while grabbing another one, “I remain hungry.”
+
+“Fascinating defense,” Syl murmured dryly.
+
+Luna’s ears shot up.
+
+Oh no, hungry was terrible!
+
+And packfriend hungry meant food had failed its most important duty!
+
+She immediately reached into her Maw, shadows curling around her wrist, and without moving from her super comfy position, pulled out a wrapped bundle with great seriousness, her shadows depositing it directly into Ray’s hands.
+
+Smoked deer meat smell slipped free the moment the bundle got opened up.
+
+Ray froze.
+
+“Um.”
+
+She placed two extra pieces of Granidrake roast onto his plate next.
+
+“There. Ray Ray won’t go hungry now!”
+
+Trianna blinked once.
+
+Then her grin spread.
+
+“Oh, that backfired beautifully.”
+
+Ray looked down at the sudden offering, then cleared his throat.
+
+“I accept this outcome. Thank you, Luna.”
+
+Ehehe!
+
+“You encouraged the wrong instinct,” sighed Sepio.
+
+“Nuh-uh,” Luna said, already reaching back into the Maw for another piece. “Hungry pack gets food.”
+
+Syliana’s smile softened over the rim of her tea.
+
+“A difficult argument to refute.”
+
+Luna nodded firmly.
+
+Yip yep!
+
+No packfriend of hers would go hungry while Luna had food!
+
+And Luna always had food!
+
+***
+
+The peaceful warmth around camp settled deeper while everybody prepared for the day ahead. Veric dismantled part of the campsite with steady efficiency, Sepio checked the packs, and Trianna finally succeeded in partially taming Luna’s hair after a prolonged struggle against offended ears.
+
+“There,” the archer declared. “Slightly less feral.”
+
+Luna’s ears twitched proudly.
+
+“Improved Luna!”
+
+“Debatable.”
+
+Syliana finally closed her book and looked down at Luna instead of the lake.
+
+Luna noticed immediately.
+
+Second’s attention!
+
+Excellent!
+
+She leaned back harder, presenting the newly brushed hair for proper inspection.
+
+Syliana’s mouth softened.
+
+“Well,” she said, brushing her fingers carefully through Luna’s hair, “Trianna did manage to make you look slightly less like you fought a bush and lost.”
+
+“Luna won against bush!”
+
+“Mhm, I guess you did.”
+
+Syliana’s hand reached behind one ear and scratched gently.
+
+Luna’s entire body went still.
+
+Ohhh!
+
+Luna loved that spot!
+
+Her tail thumped once against the blanket.
+
+Trianna grinned.
+
+“Careful, Syl. You’ll undo all my work.”
+
+“I am improving morale,” Syliana replied calmly.
+
+Luna nodded with great seriousness, eyes already half-lidded.
+
+“Morale very improved!”
+
+Syliana huffed softly, then drew Luna closer with one arm around her middle. Warm robe, herb smell, gentle fingers, Second hug. Luna melted into it instantly, all thoughts of travel, lake, cliffs, and whatever else humans cared about dissolving under the superior logic of cozy warmth.
+
+Ehehe–!
+
+“Spoiled,” Ray muttered from near the fire.
+
+Luna opened one eye.
+
+“Ray Ray jealous.”
+
+Trianna’s laughter echoed on the lakeshore, even as Ray shook his head in defeat.
+
+But eventually, even the best mornings had to move along.
+
+Blankets got folded away, packs closed up, and the last pieces of breakfast disappeared into mouths, storage, or Ray’s suspiciously innocent hands. Luna remained attached to Syliana until the very last pawssible moment, but even Second-hugs could not defeat travel forever.
+
+Tragic!
+
+Trianna stretched both arms overhead once camp was fully packed.
+
+“Hopefully after we avoid more giant murder lizards.”
+
+“Don’t jinx it,” Ray answered immediately.
+
+Luna perked up.
+
+“Oh! Giant meat again?”
+
+“See?” Ray pointed directly at her. “That attitude. That exact attitude is why these monsters keep happening.”
+
+Luna failed to see the problem!
+
+Hunting strong prey was excellent training, and the meat tasted great!
+
+Yip yep, Luna wasn’t wrong!
+
+It’s the pack that was wrong!
+
+The group resumed traveling along the lakeshore. Luna stayed close at first because the morning remained nice, and Syliana still smelled warm, sleepy, and safe.
+
+But the world kept distracting her!
+
+With things!
+
+Unexpected things!
+
+The lakeside overflowed with life. Animal trails crossed through the undergrowth near the shoreline, deer scents layered over smaller prey trails, and older territorial markings clung to trees and stone outcroppings near the water. Everything came here eventually: predators, prey, birds, fish, and huge things that left claw marks deep in bark.
+
+Luna sniffed constantly while walking.
+
+Finding scents she knew, and ones she never smelled before.
+
+Wet stone, moss, bird nests, fresh claw marks, fish drifting beneath the lake-smell–
+
+Oh, and monster scent!
+
+Big monster scent.
+
+Her ears perked, golden eyes sparkled.
+
+A promise of another hunt!
+
+Mhm!
+
+The scenery itself kept making Luna stop and stare too. The lake stretched endlessly beside them beneath bright morning sunlight, its surface rippling silver-blue whenever wind crossed the water. Dense forest rolled around the shoreline in deep green layers, broken occasionally by enormous cliff faces or jagged stone formations rising from the water itself.
+
+Farther out, tiny dark shapes occasionally breached the surface before vanishing beneath the waves.
+
+Luna’s eyes narrowed.
+
+Big fish, probably. Luna never hunted those before!
+
+Excellent.
+
+“Hehehe.”
+
+Syliana glanced sideways immediately.
+
+“No.”
+
+Luna looked the very image of innocence! With a tiny weenie little pinch of Apex Predator energy, perhaps–
+
+–But still innocent!
+
+“Nobody said anything.”
+
+“You made the hunting laugh.”
+
+“Nuh-uh.”
+
+Luna was innocent of that crime!
+
+“You absolutely did.”
+
+Ray sighed deeply farther back along the trail.
+
+“The worst part is that I heard it too.”
+
+***
+
+The lake kept looking bigger every time Luna rounded another shoreline bend.
+
+Ridiculous lake.
+
+The pack followed a narrow game trail winding between shoreline rocks and dense forest growth while late morning sunlight shimmered across the waves beside them. Wind carried cool mist through the trees, and every so often something splashed far out across the water, too distant to see properly.
+
+Luna’s ears tilted toward the sound.
+
+The lake had things in it.
+
+Many things Luna would want to bite and try!
+
+She sniffed again, but water was tricky. It swallowed scents, smeared them around, and made everything smell wet instead of specific.
+
+Rude!
+
+Syliana walked beside her near the front of the group, one hand resting lightly against the strap crossing her shoulder while she scanned the distant terrain ahead.
+
+She looked around pensively, considering things Luna could not guess at.
+
+But it was fine, she trusted her Second to do all the important thinking–
+
+–And to tell Luna the fun parts!
+
+“This region used to be significantly more dangerous,” the elf said after a while.
+
+The words weren’t actually aimed at anybody, but Luna’s ears perked immediately!
+
+“Big monsters?!”
+
+“Yes.”
+
+“Yesh, more hunting fun!”
+
+Syl sighed quietly.
+
+“Long before the current trade routes stabilized, the lake itself served as territory for a creature powerful enough that no nearby settlements dared to approach these shores, and even the regional powers at the time were wary of making it angry.”
+
+Luna listened carefully while hopping across a cluster of shoreline stones.
+
+“Huge water monster?”
+
+“A powerful lake predator that would occasionally go out to terrorize the region.”
+
+Trianna grinned.
+
+“And then another monster showed up and solved the problem.”
+
+Luna approved of this strategy immediately!
+
+Syliana nodded once.
+
+“In a sense. A wandering Wildling killed it.”
+
+Luna nearly missed her next step.
+
+“Oh!”
+
+Luna still didn’t know much about her Wildling cousins.
+
+Interesting!
+
+“A proper old Wildling?” Ray asked.
+
+“That is the common version of the story,” Syliana said. “The details change depending on who tells it. Claws appear in some accounts. Others mention shadows, storms, or simply overwhelming force.”
+
+Sepio glanced toward the lake, then the dense treeline pressing close to the trail.
+
+“Whatever it was, it was strong enough that people still built the safer roads around this place instead of through it.”
+
+That made sense.
+
+Humans liked safe roads.
+
+Luna liked interesting ones!
+
+Her tail swished behind her as Syliana lifted one hand and pointed toward the far distance beyond the lake’s western curve.
+
+“The battle supposedly reshaped portions of the surrounding terrain permanently.”
+
+Everybody looked.
+
+Luna squinted carefully.
+
+At first, she thought the distant marks cutting through the landscape were rivers. Long dark channels carved through forest and stone far beyond the opposite shoreline.
+
+Then her eyes widened.
+
+They were too straight.
+
+And the water there too still.
+
+Three enormous scars stretched across the distant terrain. Even from this far away, the scale felt absurd. Entire tree lines vanished inside the channels, and sections of the flooded cuts reflected sunlight like narrow rivers. The earth surrounding them remained uneven and broken despite all the years that had passed.
+
+And many many years must have passed if Syliana called the event old!
+
+Luna stopped walking completely.
+
+“…Woah!”
+
+Slowly, she raised one hand in front of her face, pretending it’s her own claw, while staring toward the distant scars.
+
+Three long marks.
+
+And Luna’s claws.
+
+Her eyes sparkled.
+
+They matched!
+
+“Ehehe.”
+
+Syl glanced downward beside her.
+
+“...She’s imagining something weird again.”
+
+Luna barely heard her.
+
+A Wildling had carved the world itself, fast enough and strong enough to leave claw marks so huge they became rivers.
+
+One day, Luna would strike that hard too!
+
+Maybe even soon!
+
+The idea filled her with so much excitement she bounced once on the shoreline path before sprinting several steps ahead through the grass.
+
+“Awoo–hehe!”
+
+Ray looked toward Syliana with visible concern.
+
+“You absolutely should not have shown her that.”
+
+“Perhaps not. But sometimes just knowing something is possible…”
+
+Syliana watched the extremely excited wolf girl making poses and faces and trying pretend ‘world-reshaping claw attacks’ with a warm smile.
+
+“...Makes wonders happen.”
+
+Luna kept staring toward the gigantic scars every chance she got while the pack continued along the shoreline path.
+
+One day.
+
+Definitely one day!
+
+***
+
+The group stayed quieter after that.
+
+Thinking quiet.
+
+The gigantic claw marks lingered in Luna’s mind while they continued along the lakeshore beneath shifting sunlight and cool wind. Every so often she glanced back toward the distant scars cutting through the world itself, and excitement sparked through her chest all over again.
+
+Luna would be as strong or even stronger than that!
+
+She didn’t yet know how, but one thing was clear–
+
+–Luna would certainly try!
+
+Then the shoreline widened into shallower rocky stretches where clear water rolled gently across smooth stones beneath the trees.
+
+Fish smell thickened immediately.
+
+Luna’s ears perked.
+
+Oh!
+
+She launched herself directly into the shallows.
+
+Water exploded everywhere.
+
+“Careful,” Syliana called, already stepping closer to the shoreline.
+
+Too late!
+
+Luna vanished beneath the surface in a spray of silver fur and shadows, then erupted upward almost immediately with three violently wriggling fish clenched between both hands and her teeth.
+
+Only a muffled ‘Luna caught fishies!’ could barely be heard from between her clenched teeth.
+
+Ray shielded himself from flying water droplets with visible exhaustion.
+
+“One day,” he muttered, “I would like five consecutive minutes where spotting food does not become an immediate tactical incident.”
+
+“Nuh-uh!”
+
+Luna bit into one fish immediately while standing knee-deep in the lake. Fresh water dripped from her hair and ears while the remaining fish flailed uselessly against her grip.
+
+Good fish, tasted nice and fresh!
+
+Even if a little weak.
+
+The second fish vanished into Maw storage moments later. The third followed after Luna briefly inspected it for future spicy potential.
+
+Then she disappeared underwater again.
+
+More splashing followed.
+
+Trianna laughed openly from shore, half-complaining about how her efforts to make Luna look presentable turned futile so quickly, while Veric stepped calmly sideways to avoid another incoming wave.
+
+Sepio failed entirely.
+
+Water splashed across the lower half of his coat.
+
+He stared downward in silence.
+
+“…Right, of course.”
+
+Luna resurfaced nearby carrying even more fish!
+
+This was so fun!
+
+The lake teemed with them close to shore. Silver bodies flashed beneath the clear water while Luna darted between rocks and submerged logs with terrifying efficiency. Several small fishies got eaten immediately, more vanished into storage, and one particularly large fish smacked Luna directly across the face with its tail before she bit it in half out of principle.
+
+Syliana stepped carefully closer to the shoreline while watching the increasingly soaked disaster unfold before her.
+
+“…Luna.”
+
+Luna looked up immediately.
+
+“Yesh?”
+
+A fish tail still hung from her mouth.
+
+Syl’s expression softened briefly despite herself.
+
+Then her scent shifted.
+
+The softness stayed, but something serious settled under it.
+
+Oh.
+
+Luna paused halfway through biting the fish again.
+
+“There is another conversation I wanted to have with you,” Syliana said.
+
+Luna blinked once before wading back toward shore with dripping hair and several remaining fish still secured under one arm.
+
+Important conversation incoming.
+
+Instead of worrying, Luna walked directly up beside her and leaned harder against the elf’s side while continuing to chew thoughtfully through the fish.
+
+“Yip yep,” she mumbled. “Luna listens.”
+
+Syl glanced down at her briefly and rested a warm hand on Luna’s wet hair.
+
+Mhm! That was better.
+
+After all, listening could not possibly hurt that much.
+
+Right?

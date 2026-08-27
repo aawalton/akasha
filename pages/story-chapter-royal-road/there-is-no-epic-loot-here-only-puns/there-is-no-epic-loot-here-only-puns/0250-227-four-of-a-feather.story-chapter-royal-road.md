@@ -1,0 +1,249 @@
+---
+id: 1c35ff1e-8da3-5e28-96a1-0428c9b39908
+page-type-slug: story-chapter-royal-road
+title: "227: Four of a Feather"
+slug: 0250-227-four-of-a-feather
+partOf: there-is-no-epic-loot-here-only-puns
+position: 250
+ownLength: 3438
+unit: words
+publishedAt: 2025-11-29
+link: "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/2802620/227-four-of-a-feather"
+royalRoadId: "2802620"
+---
+
+There was some shuffling about, voices murmuring in excited tones as people buzzed with anticipation over what had just unfolded. Messages were hastily penned to countless factions, eager to inform them of the extraordinary events occurring in the remote and often overlooked place of Durence. Delta could have easily tracked the words, deciphered the intent behind them, memorized the names, and uncovered much more.
+
+But she didn’t.
+
+Delta only cared about one thing right now.
+
+She explained to Ruli and Wollom, the saint, that she needed a few moments to ‘process’ everything. Alpha had just entered her Dungeon, accompanied by the demonic-looking bird and the peculiar spoon it held tightly in its grasp. The instant they crossed into her domain, a screen materialized, its text garbled and distorted.
+
+‘Final e- has beguN. Th3 tiMe foR the FOUR to riSE- Error. Systems not functional. Error. Dungeon is leader. Hero is guardian/boss. Monster is tool. Tool is monster.’
+
+Delta winced as the screen crackled, silently hoping that Sis was managing the error codes and glitches well enough. She materialized, and behind her, the dungeon entrance sealed shut with a soothing, rhythmic clicking noise as cascading locks fell into place. Normally, she couldn’t lock the door with people still inside, but not with these ones.
+
+Her children, her beloved kids, her long-missing little ones, it was almost too much for her heart to bear as they turned back to look at her. Alpha, stoic and deeply scarred from being the first to endure the changes, had retreated far into the depths of his own soul, now a mere ghost of himself, occasionally allowing the heart within to peek out.
+
+Beta, reforming with an oozing-like flow, looked feral, as if she had been restrained by an invisible collar, one that was three sizes too small. It seemed she had been forced not only to accept it but also to forget it was there, strangling the essence of who she was, reducing her to a mere obedient pet. The girl appeared uncertain of her own identity, her scowling visage barely concealing the shimmering rage that boiled just beneath the surface.
+
+Gamma, the one Delta had yet to see until now, was the worst off. They were old, ancient even, compared to the others, a sign they had been sent out first, driven by the notion that they needed time to grow in power, accumulating shapes and weapons as they were wielded by others.
+
+Delta couldn’t see the true Gamma; they were so deeply buried under layers of weapons, user experiences, and a shell of gold that their true feelings were impossible to sense.
+
+“Hey, teach, looking good for a dungeon. I have high hopes for you! Just don’t tell me your first monster was a goblin,” Gamma cackled as they shifted into a simple long-sword. Beta released them, and Gamma landed dramatically, point down, an almost impossible feat given the space between Beta’s hand and the ground.
+
+“Everyone is here,” Delta said, trying to keep her voice from trembling as she gazed upon them, though she couldn’t shake the feeling that something was missing. But she pushed that thought aside for now.
+
+“How has everyone been?” she asked brightly. There was a long pause.
+
+“Fine,” Alpha responded calmly.
+
+“In hell,” Beta added in a blunt tone.
+
+“Gucci!” Gamma chimed in with the cheer of a hundred men.
+
+A normal person might have heard this and struggled to steer the conversation forward, but Delta felt she had immense practice navigating such contrasting tones juxtaposed so closely together.
+
+“Wonderful and terrible,” she began, then let out a huge sigh, allowing her goddess form to fade as she returned to her dungeon avatar, which caused Beta and Gamma to react in surprise.
+
+“Oh my god, you had the power to shape yourself into anything, and you chose to be a frumpy teacher?!” Gamma exclaimed in horror.
+
+“I like myself,” Delta said, and Gamma responded as if she were speaking alien gibberish. With a gesture, she escorted them all to Fera’s bar, enduring a near-unending commentary from Gamma about her first floor.
+
+“Oh, stone and wood, very demure, very classic. Oh, a spider room! That’s rare as a first room,” they remarked, while Beta frowned as one of the spider court attempted to shake her hand. Delta suddenly received a screen that was half her usual color and half something disturbingly new.
+
+It looked as if bone, sinew, and muscle had been used to construct the screen, and Beta blinked as she received the same unsettling display.
+
+‘Beta can consume <spider-critter>. Would you like to sacrifice this creature for Beta to absorb? Warning: This critter will be permanently removed from your dungeon, and its personality ‘self’ will be destroyed.’
+
+“I won’t eat them. I’m not just a stupid brute,” Beta said, declining before Delta could even think. Agreeing required both of them to hit accept, but either one of them could cancel it on their own.
+
+“If we had developed as we were supposed to, according to Sis and Bro, my monsters would be just puppets, empty shells... it wouldn’t be a big loss to offer them. But I’m not the dungeon they wanted me to be,” Delta said gently. Beta tensed, as if bracing for some reprimand or attack on her character, but Delta merely smiled.
+
+“Thank you for being kind to my monsters,” she said softly. Beta stiffened, her lips tightly squeezed together as she worked her jaw.
+
+“You should be stricter. Others might try to take things from you. People take, and you shouldn’t just smile it off,” Beta said, walking away with a spider perched on her shoulder.
+
+“Marvelous, she’s even more of an ‘I don’t like you, I just don’t hate you’ type than before,” Gamma announced, their voice slightly higher-pitched, as they found themselves stuck in a dozen webs, the situation seemingly stirring up some unpleasant memories.
+
+Alpha carefully plucked the sword out, and Gamma reformed into a silver knuckle duster, hugging Alpha’s hand closely.
+
+“Can’t you turn into a robot or something with legs?” Delta asked curiously. Gamma scoffed.
+
+“I’ve tried, but I strip things of ‘unimportant’ aspects like legs or wheels. I once ate a dozen magic cannons and not a single one came with wheels,” Gamma replied as Muffet appeared, and they stared at each other. Muffet, in her Drider form, seemed to focus intently on Gamma, as if they had met before and parted on bitter terms.
+
+Oh, right... the HERO bots.
+
+“Do I know you? I feel like I tricked you and then ditched you in a gambling den with really earnest loan sharks,” Gamma mused.
+
+“Gamma, you didn’t actually do that to someone, right?” Delta asked, the tension in the room noticeably rising.
+
+“Nope, just a random example with no history behind it,” Gamma replied brightly, though Alpha shot them a dubious look.
+
+Muffet climbed down the walls and held out her hand to take Gamma, which Alpha handed over without hesitation, prompting Gamma to cry out about the betrayal of the ‘issy-pies brotherhood’ or something along those lines.
+
+Delta had a strong suspicion that Gamma knew more than any of them about certain ‘topics,’ which was going to be a challenge, getting the weapon to talk about them without lying or deflecting would require some finesse.
+
+Reverting back to the long sword, Gamma mumbled something as Muffet gracefully wielded them like a dance, her grip just tight enough to make the blade glimmer and arc beautifully through the air. But Gamma huffed.
+
+“Long swords aren’t your style, missy,” they said, shifting into a form that looked curved and flowing, like something a fantasy elf might use. The moment the transformation was complete, Muffet’s movements evolved from graceful to artful, her body fully embracing the new weapon shape. She eventually came to a stop and presented the weapon back to Alpha, who accepted it before Gamma returned to their knuckle duster form.
+
+“Not gonna lie, she can wield me any day,” Gamma said, a grin evident in their tone, while Alpha frowned.
+
+“I can hand you back if you think you two would make a good friendship group,” he offered, and Gamma fell silent for a moment.
+
+“Alphie, just walk on. I don’t have the rizz to fix this,” the weapon instructed.
+
+Delta was just so... content to watch them talk and interact, it felt like she was closer to home than ever before.
+
+Delta moved down the tunnel, finding Beta in conversation with Waddles.
+
+“Your dad is fine,” Beta said to the demonic creature.
+
+“Quack.”
+
+“Yeah, your aunt is still nagging him about his weight, but he just ate like ten different invading demons, so it makes sense he’s bigger than usual,” she explained, arms crossed, the spider on her shoulder dancing with excitement.
+
+“Quack.”
+
+“No, I wasn’t hauling presents from all your family, they’re literally a legion,” Beta replied with a snort.
+
+Beta turned, sensing Delta's approach, and a resolve seemed to form within her. Her features grew more determined, and her slightly thin lips paled, as if what she was about to say required a great deal of energy.
+
+“It was because of you... I’m free, isn’t it?” she stated, more than asked.
+
+“No, the Drakes did it all,” Delta replied instantly, refusing to take credit for Waddles' and his father's efforts. Beta stared at her, and her eyes were mesmerizing, a constantly shifting pair of orbs that flickered between human irises and animal, displaying every hue from cerulean to deep crimson.
+
+“You contracted Waddles, you made him like you, you wanted to help me with Sister, you made it happen, and now I’m free,” Beta insisted stubbornly.
+
+Technically, it was Quiss’ initial action that set all of this in motion. Summoning Waddles had triggered a chain of events that ultimately stripped that evil tree of a powerful servant and freed Beta, a process that unfolded not just across time but through dimensions.
+
+Quiss was weirdly lucky for all his sour attitude.
+
+“I met the tree when I was exploring an old lab where my third floor is. It had a ‘sample’ of the tree, and I was drawn to it... that’s when I encountered Yggdrasil,” Delta said. At the mention of the name, Beta’s entire body tensed like a single muscle.
+
+“Did he try to enslave you?” Beta asked, biting out the words, her tone sharp. Delta thought back.
+
+“He saw me as a threat and tried to end me, but Bro showed up and reminded him that while he might be the biggest tree, Bro was the world he was growing on. I didn’t look back, and Quiss burned the sample afterward,” Delta explained.
+
+“When I first awoke, I was near that place, near that tree, and he made me think of a teacher, he lured me in. I think he could sense my wants or thoughts because he played me like a damn idiot. He was wise, laughed at my jokes, and told me how special I was,” Beta bit out, looking like she wanted to punch something.
+
+“Then time blurred together. I thought it was just because of what I had become,” Beta whispered, her voice tinged with pain.
+
+“I didn’t really notice when I went from his guest to his ‘Divine Beast’. I didn’t notice when I just stopped doing what I wanted and what he wanted. I didn’t notice!” Beta yelled, her flesh exploding into a dozen limbs, tendrils, and wings as if no one form could contain her anger and hurt.
+
+Delta stepped in and embraced Beta, letting the claws and thorns phase harmlessly through her as she pulled the girl close.
+
+“I’m going to destroy that tree, I swear it,” Beta declared, and Delta tried not to dwell on the fact that she now had three people wanting to murder Yggdrasil.
+
+To be fair, the tree was a downright monster and a parasite. Delta wouldn’t be against dumping some weedkiller on him herself.
+
+“Quack.”
+
+They looked down as Waddles handed Beta one of his knives. It was a decent one, not his worst, but certainly not his best.
+
+“I get your knife? You’re a huge drake, can’t you give me something better?” Beta muttered. Waddles stared at her as if she were being an idiot.
+
+“It’s a symbolic knife!” Delta explained brightly.
+
+“Symbolic of stabbing the tree?” Beta asked with a huff.
+
+“No, it’s symbolic of Waddles’ support!” Delta clarified.
+
+“Quack.”
+
+“…and I guess stabbing the tree,” Delta added with a sigh.
+
+There was a sudden commotion behind them as Gamma tried to argue with Lord Mushy about the proper use of his pots.
+
+“Put things in them to make people want to break them open!” the sword insisted, clearly passionate about the idea. The mushroom monster looked puzzled, its mustache twitching with confusion.
+
+“But the value of the pots isn’t in what they might contain, but in what they can contain. Each one has a unique shape and pattern that makes it special,” the monster explained patiently.
+
+“So if we collect them all, do we unlock infinite ammo?” Gamma asked, clearly not following the logic as Alpha looked increasingly disturbed by the idea of smashing fragile pottery with such little regard.
+
+“I don’t think that will be possible, for I always make more,” Lord Mushy said kindly, humming softly to himself as he spoke. Gamma made a disgruntled noise, clearly displeased.
+
+“Urgh, dailies,” they complained, sounding thoroughly exasperated by the ongoing task. Delta went to rescue the poor mushroom as Beta looked vaguely interested.
+
+“Don’t have a mushroom form like that, I have these little stationary forms that spit acid,” she mused and Delta thought back to the early days and then back to the current forms of Maestro and Mushy.
+
+“You’ll get there,” Delta finally managed with a strained tone.
+
+Guiding them through the mud room was a challenge. Beta seemed to effortlessly reduce her mass to nothing, practically gliding over the mud without leaving a trace, while Gamma, on the other hand, had a near meltdown at the thought of being trapped under layers of muck. He quickly tried to play it cool, but his unease was evident.
+
+Delta was more than a little worried about Gamma. It wasn’t just that his defenses were high, they were so tightly welded together that there wasn’t even a sliver of space for her to get her fingers into, no room to pry open his barriers and reach the real Gamma inside.
+
+She knew she couldn’t push the subject now, though, not without risking driving him further into his shell.
+
+The Mushroom Grove made them all pause, except for Alpha, who confidently walked forward and past Boary, carefully stepping around the blue mushrooms that leaned toward him, as if sensing the fluids coursing through his body.
+
+“You have a thing for mushrooms, huh?” Gamma said, trying to make it sound like a joke, but Delta couldn’t help recalling how that whole thing even started, her tongue curling with the unpleasant memory of Gutrot. The taste was so vivid that her goddess aura flared momentarily, causing Gamma to start hacking as Beta stumbled, clearly affected.
+
+“Ah, it tastes like a dirty ashtray covered in raw pickle juice!” Gamma screeched, their voice filled with disgust and outrage.
+
+“That’s... him,” Beta said in surprise, tasting her own lips for a moment as if trying to confirm the sensation. “His power left to rot and ferment. You’ve been eating pieces of his old self,” she added, her voice laced with astonishment. Delta, however, found herself less offended by Beta’s words and more by the idea that she simply liked mushrooms.
+
+“Gutrot Mushrooms? They were the only thing to grow around here,” Delta mumbled, frowning as she pulled up the old screen of Gutrot Mushrooms.
+
+Gutrot Mushrooms: A viable mushroom that can survive even when no mana is present. Their taste is unique. Due to getting a blessing from Dabberghast, more lore has been unlocked.Due to growing Wynn, more info has been unlocked.Due to having Beta in your Dungeon, more info has been unlocked.Due to becoming a goddess, more info has been unlocked.This notification is in the queue of over six hundred thousand pending to be reviewed when the core remembers to check.
+
+“Wasn’t Nu and Prim meant to be on top of that?” Delta said in alarm.
+
+‘Without the aid of systems Nu and Prim, your queue would currently be breaching over three billions notifications thus far. Would you like to undo their work and open all closed notifications?’
+
+That sounded like fun, but Delta couldn’t afford to spend that much time fact-checking that many messages. It was just too overwhelming.
+
+“These remaining notifications, are any of them likely to kill me if I don’t look at them right now?” Delta asked aloud, earning curious looks from both Beta and Gamma as she seemingly spoke to thin air.
+
+‘Negative. No notification pending contains information critical to your personal survival or the safety of any dungeon inhabitants.’
+
+Peachy!
+
+With that, she opened the expanded profile of the Rotguts.
+
+Rotguts: A form of power cast-off by a god summoned from another plane of existence. The summoning was imperfect and the god was forced to discard some ‘realms’ to appear and take on a new form. The previous form had the realms of ‘Rot’, ‘Infection’, and ‘Usurpation’ and smaller related realms. The mushrooms, much like the magic inside wizards, are evidence of a god’s discarded power, not needing mana to grow as they thrive in decay.
+
+Due to consuming these as one of your first items, your mana gained the power of ‘Infection’ and ‘Usurpation’ which has caused an IMMEASURABLE amount of cascading ERRORS which have been approved by Admin Sister.
+
+Delta’s defense was that she never willingly ate the mushroom, it was mostly forced on her.
+
+Delta explained what she had learned, and only Alpha looked genuinely surprised. Beta and Gamma, on the other hand, simply made knowing noises, as if they had already pieced it together.
+
+“Gods eat gods. You were basically a goddess from the start, just without any of the fancy titles,” Beta said casually, as if this was the most logical conclusion.
+
+“Speaking of, Miss D, what are your godly realms?” Gamma asked in an innocent tone, though there was a mischievous glint in their voice that hinted at a deeper curiosity.
+
+“Not a clue. The goddess thing was mostly just something new I got to help one of my monsters learn magic,” Delta admitted, her tone light but honest. Gamma made a noise that sounded suspiciously like they had stubbed their non-existent toes.
+
+“Of course,” they said after a brief pause, their voice adopting a forced polite tone, though the incredulity was barely hidden beneath the surface.
+
+Delta asked the system for an update on her goddess status.
+
+Delta: Goddess of ChangeFollowers:Rats.Some humans.Dungeon monsters.Nu.Prim.Sis.
+
+Realms: Change. Mushrooms. Freedom. Kindness. Learning. Gambling. Growth. Peace. Erot-
+
+“I got a few realms!” Delta said quickly, cutting the screen off as she refused to look at any of the kids.
+
+Goddess bless abilities:Bless: It blesses. Strength: yes.Curse: Heck: Sends someone to heck. Strength: Absolutely yes.
+
+“That reminds me, Alpha!” Delta exclaimed, suddenly turning to the calm teen who blinked once in response.
+
+“I hit you with a dozen blessings, did you grow any... extra eyes?” she asked, tilting her head curiously. The teen frowned slightly, as if the question itself was an odd one.
+
+“I only have two eyes,” he began slowly, clearly puzzled, while Beta quickly buried Gamma into the mud to stop them from blurting out something snarky. “But I did gain a passive called ‘Heckin Eye,’ which apparently lets me open a gate to... heck?” Alpha read off his own screen, his tone filled with confusion as he tried to make sense of the bizarre ability.
+
+Delta thought of the monsters in the secret floor that were evolving and mutating like a petri dish being fed energy drinks.
+
+“Don’t... use that,” she said, her voice faint. The idea of Alpha unleashing dozens of Deathstar Dragons or Mountain-sized Rexes or small barking dogs on unsuspecting bandits was mildly horrifying.
+
+She kept meaning to go there, to catalog it properly with the help of Hero, but it was always easier to just avoid it. Instead, she’d put a chair in front of the door as the ominous thing bulged outward, threatening to escape, and covered her ears to block out the unsettling sounds it made.
+
+She looked over at Beta and she stared back with a tilt of her head.
+
+Delta had an idea.
+
+A terrible... wonderful idea.

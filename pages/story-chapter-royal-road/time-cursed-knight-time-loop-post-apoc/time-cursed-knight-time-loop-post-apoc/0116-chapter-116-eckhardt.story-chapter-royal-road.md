@@ -1,0 +1,231 @@
+---
+id: b12e4f9a-7d87-5e63-a93c-194cad593f42
+page-type-slug: story-chapter-royal-road
+title: "Chapter 116: Eckhardt"
+slug: 0116-chapter-116-eckhardt
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 116
+ownLength: 2186
+unit: words
+publishedAt: 2026-08-25
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3864299/chapter-116-eckhardt"
+royalRoadId: "3864299"
+---
+
+The climb back to the surface felt longer than the descent had.
+
+I emerged into late-afternoon light with the oilcloth bundle strapped under my coat, and the first face I saw was Dorn's. The young knight pushed off the wall he'd been leaning against. His eyes went straight to the bundle's outline.
+
+"What was down there, sir?"
+
+Behind him, the others had drifted closer. Voller. Breit. Ganz, upright at last, propped against a crate with his swords back in their sheaths. Even Farhan, pretending to check a horse's tack three meters away with his ears practically pointed at me.
+
+"Old walls," I said. "Collapsed corridors. Storage rooms that haven't held anything in seven centuries."
+
+Ganz's scarred brow pulled together. "That's it?"
+
+"That's it."
+
+"We fought a Titan," the mercenary said slowly, "and they have a basement full of nothing."
+
+"You fought a Titan for the evidence, and the alchemist who can testify to all of it." I met his eyes. "The basement doesn't matter."
+
+Ganz spat into the dust. But Breit watched me for two seconds longer than the others did, her eyes resting on the place where the bundle pressed against my coat. Still, she turned back to her empty quiver and didn't press.
+
+They deserved better than a lie.
+
+The thought sat heavy as I walked toward the commandeered office space. Every one of them had bled for this mission. They had earned trust.
+
+But trust had tiers.
+
+What I carried against my spine was worth more than the building. Full schematics for a mana-directed weapon. A map of buried sites scattered across a continent, any one of which might hold prototypes, archives, power.
+
+If that knowledge lived in twenty heads instead of one, it would be in every intelligence service on the continent within a month. Elara would hear of it. Kasimir would hear of it. The Sultan would hear of it. And every person who carried a piece of it would spend the rest of their life being hunted by people willing to open their skulls to get it out.
+
+The lie isn't for me, I told myself. It's for them.
+
+It didn't make the lie taste better.
+
+But there was one thought that kept rising.
+
+Special Base Forty-Four.
+
+I knew what that facility was now. One of two thousand three hundred. And if Site 09 had held a live reactor, full schematics, and an archive... what was sleeping behind the Door in California?
+
+We stayed the night.
+
+Ganz could stand but not march. Two of the chamber soldiers needed to rest. Tarek's ribs turned every breath into excruciating pain. And the prisoners needed to be sorted, catalogued, and secured before anyone thought about moving them across six days of open desert.
+
+The wolf's corpse dominated the lower chamber. It took me an hour with Mana Breath flooding my arms to saw one of the smaller teeth free. A curved shard of dense bone the length of my forearm, heavy as a sword. Evidence. Along with the insignia patches cut from the dead soldiers' uniforms, Hayyan's batch ledgers and the two comm crystals from the office desk.
+
+I held one of the crystals up to the lamplight and turned it slowly.
+
+Check-ins.
+
+A network like Sigrid's ran on schedules. Scheduled contact. Scheduled reports. And the facility had gone silent.
+
+Silence is a message too.
+
+I packed the crystal away and tried not to think about who might already be listening to the absence on the other end.
+
+Voller found me there, in the ruined office, with the evidence laid out across the desk.
+
+"Sir." He had a scrap of ledger paper in his fist. "Supply count."
+
+"Tell me."
+
+"We stripped the facility to the walls. Every storeroom, every pantry, every crate the garrison hadn't cracked open yet." He flattened the paper on the desk. "Grain, hardtack, dried meat. We got enough for forty-three mouths at half rations for five days. Maybe six if we stretch. That's everything they had." His jaw worked. "Water's the problem. Six clean barrels. Two days for this many people. Less with the horses."
+
+"The river."
+
+"Contaminated." He said it flat. "The alchemist says a cup a day won't kill a man in a week. More than that and he's not making promises." He hesitated. "He says some of the workers have been drinking from the facility well for months. One of the older ones already has tremors."
+
+I looked at the paper in his hand.
+
+"Horses get river water from the start," I said. "Bigger bodies, shorter exposure, and if a horse starts shaking we eat it. People get the clean barrels first. When the barrels run dry, river water, rationed, Hayyan dosing the portions." I paused. "Fighters get priority on the clean water."
+
+"It sounds like a siege, sir."
+
+"It is one. The desert's just the wall around us."
+
+Voller nodded once and left to make it happen.
+
+I sat down then, finally, on the floor beside the desk, my back against the concrete and the bastard sword across my knees. The adrenaline that had been carrying me since the anchor pads exploded chose that moment to drain out through the floor.
+
+The pocket watch vibrated against my thigh.
+
+⌜ Novice Swordsmanship — Level 32 ⌝
+
+⌜ Mana Breath — Level 28 ⌝
+
+⌜ Endurance — Level 8 ⌝
+
+I stared at the lines until they faded.
+
+We left at first light.
+
+The column that wound out of the grassland looked nothing like the force that had ridden in. Twelve riders had become forty-three walkers. Twenty horses had become cargo animals loaded with water barrels, grain sacks, the wolf's tooth, the evidence crates.
+
+The rest of us walked.
+
+The workers walked free at the column's center. The prisoners walked behind them in a rope coffle, wrists bound, twenty-one soldiers, flanked by Voller's scouts.
+
+The ravine cost us two hours. We found a place upstream where the banks sloped, and crossed one horse at a time. The prisoners went over roped in pairs. The workers went over holding each other's arms.
+
+On the far bank, I stopped and looked back once.
+
+The building sat against the river, half-swallowed by green.
+
+I'll come back, I promised it. If there's a way to power you, I'll find it.
+
+Then turned west, toward the dunes, and didn't look back again.
+
+The scorpions hit on the second evening.
+
+We'd left the grass behind by then and were deep in the high dunes, the column strung out along the dune line. The workers were sagging. The prisoners had stopped talking hours ago, which was the only mercy the day had offered.
+
+The sand under us exploded.
+
+Three of them came up at once, each one the size of a horse, pincers like barn doors slamming open. The first took a prisoner at the waist before anyone had a weapon out. The pincers closed. The man came apart in two pieces. The scorpion was already backing into its hole with the top half of him.
+
+"RING!" I roared. "Ring around the workers! NOW!"
+
+The second scorpion burst sideways out of the dune face and went for the horses.
+
+The third came up directly beneath my feet.
+
+I felt it an instant before it breached. I was already moving when the stinger punched up through the surface where I'd been standing. It whipped past my face close enough that I smelled the venom.
+
+The bastard sword came down on the stinger's second joint with everything Mana Breath could put behind it.
+
+The chitin cracked, but didn't sever. I hit it again on the backswing, same joint, and this time the blade went through and the stinger's last two segments dropped into the sand.
+
+The scorpion roared and lunged, pincers sweeping.
+
+I went between them. Suicidal, and the only option that didn't end with it in the middle of the workers. The sword took it in the eye cluster, point-first, two feet of steel into the soft cluster of lenses and nerve at the front of the carapace. The pincers closed around empty air where my hips had been, and I ripped the blade free and drove it in again, and a third time, until it stopped.
+
+To my left, Breit's arrow took the second scorpion through the mouth as it reared over a screaming horse. To my right, the knights and scouts had formed the ring, swords out, holding the third one at bay with reach and numbers.
+
+The third one wasn't fighting them.
+
+It had a prisoner. Held sideways in one pincer, alive, shrieking, battering the chitin with his bound hands, and it was backing down into its burrow.
+
+"The prisoner!" Dorn shouted. "It's taking—"
+
+I ran. Everyone ran. Four of us got hands on the man — Voller had a leg, I had an arm, two scouts had his rope — and for one hideous second it was a tug-of-war with a screaming human being as the rope between us.
+
+The scorpion pulled us all into the sand up to our knees.
+
+Then it snipped the prisoner in half with a pincer-snap, and while we staggered backward with the suddenly lighter weight, it drove downward into the earth.
+
+The screaming stopped. We left two stones on the sand — one for each of them — and butchered the dead scorpion. The meat was white, dense, faintly sweet.
+
+We had four days of desert left.
+
+The fourth day dawned with the dune belt thinning.
+
+Farhan found the first cairn an hour after sunrise — a stacked cluster of rocks — and the change in the column was instant. Workers straightened. Even the prisoners picked up their feet. The cairns meant the caravan routes. The caravan routes meant Qalathar.
+
+"Two days," Farhan told me.
+
+It was near midday when I saw the dust.
+
+A smudge on the western horizon coming from Qalathar's direction. I called a halt and climbed the nearest ridge with Voller's spyglass, dropping flat at the crest.
+
+Foot column. Twenty, twenty-five. Moving at a fast march, no wagons, no pack animals. And at their front —
+
+Cropped auburn hair. A bastard sword strapped to her side. Scars on both hands, visible even through the glass.
+
+Eckhardt.
+
+I didn't move for a long moment.
+
+The twenty around her.
+
+No bronze half-masks. No white tunics. Not Ashkeri. Not Iron Cross. Their signatures were wrong too. A half-dozen Third Circles burning steady among them. Mercenary mages.
+
+And no knights.
+
+Ten knights went to the northwest wall with her.
+
+There was not one knight in that column.
+
+I slid back down the ridge. Voller was waiting at the bottom with Dorn beside him, and both of them read my face and went still.
+
+"Eckhardt," I said. "Twenty soldiers I've never seen. No knights. No supply train. No pack animals." I looked at Voller. "What does a relief column carry, Sergeant?"
+
+"Water, sir." His voice had gone flat and hard. "Always water."
+
+Dorn's hand had drifted to his hilt without him noticing. "Sir. There has to be an explanation. The wall command could have rotated them. Khalid could have—"
+
+"Khalid doesn't command Iron Cross knights, and the wall doesn't spare twenty fighters while Titans are hitting them." I checked the pistol at my hip and loosened the bastard sword in its scabbard. "And nobody, Dorn. Nobody. Knew where we were. There was no route to follow." I started walking back toward the column. "Unless someone gave them a destination."
+
+They were close enough now that I could see her face without the glass. Two hundred meters and closing. I stopped, put myself in front of the column, and raised my voice.
+
+"Eckhardt! You're a long way from your wall!"
+
+The column didn't slow.
+
+"Prince Khalid's orders. We're to relieve you and escort the prisoners into Qalathar! His Highness wants them in Sultanate custody before the Empire can object!"
+
+Smooth. Almost right. Almost.
+
+The way her weight sat on her heels instead of the balls of her feet. The way her eyes hadn't once flicked to the prisoners behind me, even though prisoners were supposedly new information.
+
+Eckhardt was looking at me. Only at me.
+
+And her hand was wrong. It rested on the pommel of the bastard sword. But her fingers were wrapped, not resting. Thumb locked over the guard, first knuckle braced against the cross.
+
+She's not here to relieve us.
+
+"Column halt," I said, quiet and absolute. "Voller. Square the prisoners, workers center and rear. Scouts on the flanks. Breit. The ridge to the right, high ground, and I know you're almost out of arrows, so take Dorn's sword and stay visible. Knights, mercenaries. Weapons loose. Now."
+
+Dorn hesitated. His jaw worked. "That's Eckhardt. She's ours. Is that really necessary?"
+
+"Count her escort," I said, "and tell me which one of them is ours."
+
+He looked. I watched him count. I watched the color leave his face.
+
+I stepped forward, out in front of my ragged, starving, Titan-mauled column, and put my hand on the bastard sword's grip.
+
+"That's far enough, Eckhardt!" The Mana Breath carried it. "Last time. What are you doing here?"

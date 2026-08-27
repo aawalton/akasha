@@ -1,0 +1,349 @@
+---
+id: cb42fa40-faf7-503a-a2a3-bab788242e3b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 43: Mortar"
+slug: 0043-chapter-43-mortar
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 43
+ownLength: 3314
+unit: words
+publishedAt: 2026-05-14
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3396063/chapter-43-mortar"
+royalRoadId: "3396063"
+---
+
+Wendt moved fast through the bunker. Every turn with the confidence of someone who had traced these paths a thousand times.
+
+We followed.
+
+The interior was tighter than I'd expected. The ceiling hung low enough that I would have had to duck, and the walls pressed in from both sides with the claustrophobic architecture of a mine shaft. Mana-glow strips were bolted along the ceiling and that was the only light we had.
+
+Wendt stopped at the first junction.
+
+He turned to face us.
+
+"Before we go further," he said, "one fact that will keep you alive longer than anything else I teach you."
+
+He pointed at the ceiling.
+
+"Above us is earth. Packed earth, reinforced stone, three meters of layered substrate designed to absorb the impact of a direct magical artillery strike. Beyond this bunker, in every direction south of where you are standing, the ground is seeded with runic mines."
+
+"Every square meter," Wendt continued. "The entire territory between this installation and the forward trenches. Pressure-activated detonation matrices embedded at irregular depths, calibrated to trigger on anything heavier than a hare."
+
+He let that settle.
+
+"If you walk on top of this bunker without authorization, you will die. If you wander beyond the marked perimeter without escort, you will die. If you take a single step off the designated transit corridors that connect this installation to the forward positions, you will die."
+
+His mouth twitched. The closest thing to humor I'd seen on his face.
+
+"And if you die to a runic mine, your remains will be scraped off the dirt, catalogued, and shipped to the Academy's Department of Applied Thaumaturgy as educational material for next year's graduating class. Your name will appear in a footnote. Your body will appear in a display case. Students will point at what's left of you and say, 'Ah, so that's what happens when a Mark IV proximity rune detonates beneath a human pelvis.'"
+
+Nobody laughed.
+
+Nobody breathed.
+
+The woman to my left had gone the color of old parchment. The man behind me was gripping his own wrist hard enough to whiten the knuckles.
+
+Wendt turned and resumed walking.
+
+"Keep up," he said.
+
+We kept up.
+
+The corridor descended. The stone underfoot gave way to packed earth reinforced with timber framing. The mana-glow strips thinned, spacing out until the intervals between them left pools of darkness.
+
+The bunker, I realized, was not a bunker.
+
+It was a gateway.
+
+The surface installation, the squat structure we'd entered from the hillside clearing, was the mouth of something much larger. What lay beneath it was a passage, a transit corridor that burrowed south.
+
+We walked.
+
+The minutes stretched. Ten. Twenty. The walls dampened. Condensation beaded on the timber supports and dripped onto our shoulders.
+
+Nobody spoke.
+
+The silence was broken only by boots on packed earth and the faint, rhythmic drip of water and our own breathing.
+
+At some point, the corridor leveled, then began to climb and finally opened.
+
+The space was enormous compared to the passage we'd just traversed. A subterranean chamber perhaps thirty meters across and half as deep, its ceiling reinforced with interlocking stone arches that distributed the weight of the earth above.
+
+It was a second bunker. A forward operating post buried beneath the front.
+
+Dozens of small rooms branched off the main chamber. Some were sealed with heavy doors. Others stood open, revealing interiors crammed with equipment, maps, communication crystals, crates of supplies. People moved between them at a pace that sat halfway between urgency and routine. Soldiers in various states of readiness. Officers with clipboards and harried expressions. A pair of medics carrying a stretcher between them, empty but stained.
+
+The noise was different here. Voices layered over voices. The scratch of quills. The click of crystal communication devices being activated and deactivated. The clank of weapons being checked and rechecked.
+
+Wendt led us through the chamber's center without slowing. His officers fell in around the edges of our group, herding stragglers, keeping the column tight.
+
+The woman to my left, the one who'd gone pale at the mention of runic mines, was staring at the organized chaos around us.
+
+"Is this the front?" she whispered.
+
+Wendt heard her. His ears, apparently, functioned with the same efficiency as everything else about him.
+
+"This is the staging area," he said without turning. "The front is above us. Through the trenches. Past the forward positions. Where the earth ends and the no-man's-land begins."
+
+He glanced over his shoulder.
+
+"You'll see it soon enough."
+
+The words had barely cleared his teeth when the world shook.
+
+"MORTARS!"
+
+The shout came from three directions at once. Everyone in the chamber dropped whatever they were doing and screamed the same word at the same instant.
+
+My body reacted before my mind. Hands found the nearest wall. Shoulders pressed against stone. My knees bent, dropping my center of gravity.
+
+The first impact hit.
+
+It was vibration. A concussive pulse that traveled through the earth and into the stone and through the stone and into my bones. My teeth rattled. My vision blurred as my skull vibrated.
+
+Dust cascaded from the ceiling. Fine particles that turned the mana-glow strips into halos.
+
+The second impact followed. The chamber lurched. A wooden shelf along the eastern wall tore free of its mounting brackets and crashed to the floor, spilling its contents in a shower of papers and small metal components that scattered across the room.
+
+A third. The lights flickered. For one heartbeat, the chamber went dark, and in that darkness the sound of the impacts overhead was so loud, so absolute, that it felt less like hearing and more like being swallowed.
+
+The lights returned.
+
+"This," Wendt said, his voice carrying through the dust and the noise, "is the specialty of the pointy-eared sons of bitches."
+
+He hadn't moved from his position at the column's head. Hadn't pressed against a wall. Hadn't so much as bent his knees. He stood in the center of the chamber with the dust settling on his shoulders, his arms folded.
+
+"Elves," he continued, "are among the most magically proficient beings on existence. Their affinity for mana is natural and refined by what we estimate to be thousands of years of unbroken practice."
+
+Another impact. My teeth slammed together hard enough to send a spike of pain through my jaw.
+
+Wendt didn't pause.
+
+"Their skill in direct magical combat is formidable. Spell matrices that would take a human mage minutes to construct, an elf can produce in seconds. Their range exceeds ours. Their precision exceeds ours. Their raw throughput, mana per second of sustained casting, exceeds anything Silberwald's mage corps has been able to match outside of the Fifth Circle."
+
+His lip curled.
+
+"Which makes what they do with all that power particularly infuriating."
+
+He gestured upward. At the ceiling. At the impacts still raining down above us.
+
+"They don't fight us. Not directly. Not in the way that their abilities would allow. They consider it beneath them. Using magic to defeat humans would be, in their estimation, degrading."
+
+His voice carried bitterness.
+
+"So instead, they sit behind their own lines, safe and comfortable, and lob long-range bombardment at our positions. A few times a day, whenever they feel like reminding us that we exist against their will."
+
+The bombardment continued overhead. Each impact sent fresh cascades of dust. I pressed my back harder against the wall and considered what Wendt had just said.
+
+It didn't make sense.
+
+If the elves possessed that level of magical superiority, if their combat capabilities genuinely exceeded humanity's best mages, then why hadn't they advanced? Why hadn't they pushed through the front line and swept north? Why bombard from a distance when they could overwhelm the trenches with direct assault?
+
+The question must have shown on my face. Or perhaps Wendt had simply delivered this briefing enough times to know where the confusion landed.
+
+"You're wondering why they don't just attack," he said.
+
+I nodded.
+
+"Pride," Wendt said.
+
+The word hit me.
+
+Not because of what it meant in this context. Because of what it meant in mine. The skeleton's grin.
+
+Pride is the sin that wears virtue's face.
+
+"Elves are arrogant beyond anything you can imagine," Wendt continued. "Their civilization predates ours by millennia. They could bend reality while we were in caves learning to stack stones."
+
+Another impact. A support beam groaned. Somewhere in the chamber, someone cursed.
+
+"Using their full power against us would be an admission that we matter. That we're a threat worthy of genuine effort. Their pride won't allow it."
+
+He shook his head.
+
+"So they bombard us. Like children poking an anthill with a stick. They rain fire on our positions and retreat to their forests and congratulate themselves on their restraint."
+
+An officer appeared at Wendt's elbow. A lean woman with dust in her hair and a clipboard held against her chest like a shield.
+
+"They've been more aggressive the last few days," she said. "Bombardment frequency is up. Three sessions yesterday. Two already today, and it's not yet noon."
+
+Wendt's jaw tightened.
+
+"It'll pass," he said. "It always spikes before it settles. Seasonal rotation of their forward casters, probably. New blood wants to show off."
+
+The officer didn't look convinced. She made a note on her clipboard and retreated into the side rooms.
+
+"Whenever a bombardment begins," Wendt said, "every soldier in the forward trenches evacuates to this installation. This bunker is the only structure on our line rated to survive a sustained magical artillery barrage."
+
+He pointed at the ceiling.
+
+"Those arches are reinforced with Fifth Circle warding matrices. Layered stone. Mana-absorbing metal. The best defensive engineering the Empire's artificers could produce. A direct hit from an elven bombardment spell would crack the surface installation like an egg. Down here, we feel it as dust and noise."
+
+He paused.
+
+"The trenches have no such protection. If you are in a trench when the bombardment starts, you run. You do not stop. You do not collect your belongings. You do not help someone who has fallen. You run for the transit corridor and you do not stop until you are underground."
+
+One of the corridors that branched upward from the chamber's northern wall suddenly blazed with light.
+
+An impact had struck close enough to the corridor entrance to push flame down the throat of the passage.
+
+Nobody in the chamber reacted beyond a brief glance. The veterans didn't flinch. The officers didn't pause in their work.
+
+A soldier near the middle of our column raised a trembling hand.
+
+"Sir." His voice cracked on the word. "How do we know when to evacuate? How do we know the bombardment is starting before it hits?"
+
+Several of the officers within earshot exchanged glances. A few of them laughed.
+
+An older officer stepped forward.
+
+"Good question," he said. "Common question. The honest answer is going to disappoint you."
+
+He rubbed the back of his neck.
+
+"Experience," he said. "That's the first part. You learn the rhythm. The elves have patterns, even if they don't realize it. The morning bombardments tend to come between the first and second hour after dawn. The afternoon sessions favor late light, when the sun's behind them and in our eyes. You start to feel it. A change in the air. A pressure drop. The birds go quiet."
+
+He shrugged.
+
+"Sometimes you hear it. A low hum that the veterans can pick up before the first bolt is even formed. Sometimes you see it. Light on the horizon. A shimmer in the air above the tree line."
+
+He met the soldier's eyes.
+
+"And sometimes it's luck. Pure, dumb, inexplicable luck. Sometimes the bolt hits the trench ten meters to your left and you're alive because you happened to be standing ten meters to the right. It wasn't your day to die."
+
+His expression softened by a fraction.
+
+"But here's the thing that matters. An elven bombardment can't hit the entire line at once. It's not one spell. It's dozens, cast by dozens of casters, and they can't coordinate perfectly across the whole front. When the first impacts land, they'll land somewhere. If that somewhere isn't where you're standing, you run. You have seconds. Sometimes a full minute. The transit corridor is your lifeline."
+
+The soldier's hand lowered slowly. His face hadn't improved.
+
+Wendt dusted his shoulders with two brisk sweeps of his palms.
+
+"Moving on," he said.
+
+He led us through the chamber and into a branching corridor that climbed toward the surface.
+
+"Your function on this line is simple," Wendt said as we walked. "You will be stationed in the forward trenches. Your primary responsibility is observation. You watch the no-man's-land. Every meter of it."
+
+"If an elf attempts to cross the no-man's-land, your first duty is not to engage. Your first duty is to signal. Alert the line. Trigger the communication relay so that every position on the front knows an incursion is in progress."
+
+He glanced back.
+
+"Your second duty, if the situation permits and you are capable, is to eliminate the threat. But the signal comes first. Always. A dead elf means nothing if the rest of his squad crosses the line while you're busy with the first one and nobody else knows they're coming."
+
+One of the newer recruits, an anxious-looking girl, raised a hand.
+
+"Sir, couldn't they bypass the trenches entirely? Come by air? Or along the coast?"
+
+An officer walking at the column's flank answered before Wendt could.
+
+"Monitored," she said. "The coastal approaches are warded and patrolled by mage detachments operating out of the naval installations. Aerial surveillance runs continuous crystal-scrying sweeps across the entire front. Any airborne approach large enough to constitute a tactical threat would be detected and intercepted well before reaching our positions."
+
+She paused.
+
+"But the elves prefer land. They have a connection to the earth, to the forests, to the root systems that run beneath the soil. It's not metaphorical. Their mana affinity is tied to natural structures. They draw power from the terrain itself. In a forest or on open ground, an elf can extract ambient mana at rates that exceed anything a human mage can achieve."
+
+She gestured toward the ceiling, toward the surface above.
+
+"On the water, in the air, they lose that advantage. They're still dangerous, but they're not the same threat they are on solid ground, surrounded by living things."
+
+The corridor leveled and opened.
+
+The trench.
+
+I stepped out of the corridor's entrance and into the forward position.
+
+It was exactly what the word suggested. A channel carved into the earth, roughly two meters deep and a meter and a half wide. The walls were sheer, cut with the geometric precision that only earth magic could achieve.
+
+The floor was packed earth. Sandbags lined the top of the trench's forward wall, creating a parapet that rose just high enough to provide cover while allowing a man to see over the top.
+
+Beyond the parapet: the no-man's-land.
+
+It stretched south in a blasted expanse that looked like a wound in the earth. The ground was churned. Cratered. Pocked with the overlapping signs of months or years of bombardment. Whatever had once covered this terrain had been obliterated so thoroughly and so repeatedly that the soil itself seemed exhausted.
+
+Far to the south, at the edge of visibility where the no-man's-land ended and the world resumed its interrupted greenery, I could see the dark line of a forest.
+
+The elven territory.
+
+The trees there were different. Even at this distance, I could tell. They were taller. The canopy formed a solid wall of green so dark it approached black, and above it, the air shimmered with an iridescent haze of mana.
+
+Each recruit was assigned to an officer and led to a specific section of the trench network. The system was sprawling. The main trench branched into communication trenches that ran perpendicular to the front, connecting forward positions to secondary lines and those to tertiary positions further back. It was a web of narrow channels that allowed soldiers to move laterally along the front without exposing themselves above the parapet.
+
+My officer was a compact man with sun-darkened skin. His eyes had a patient and distant look, like someone who had been doing the same job long enough to have made peace with it.
+
+He walked me to my position. A section of the forward trench that offered a clear sightline across perhaps two hundred meters of no-man's-land. The parapet here was reinforced with additional sandbags and a pair of wooden observation platforms, crude shelves bolted to the trench wall that allowed a man to stand higher and see further.
+
+"This is your post," the officer said. He pointed south. "Your sector runs from that crater," he indicated a blackened depression fifty meters to the left, "to that spur," a jagged outcrop of exposed rock seventy meters to the right. "Everything between those markers is your responsibility."
+
+He pointed behind us. Back along the communication trench we'd come through.
+
+"If you need to evacuate, you follow this trench to the junction. Turn left. Forty meters to the transit corridor entrance. The corridor takes you underground to the staging bunker. Total distance, approximately one minute at a run. During bombardment, you will make it in less."
+
+He pointed to a small metal box bolted to the trench wall at waist height. A single button protruded from its face, protected by a hinged cover.
+
+"Alert relay," he said. "If you see movement in the no-man's-land, any movement, you hit this button before you do anything else. The signal propagates along the entire line. Every position receives the alert simultaneously."
+
+I studied the box. It looked simple and mechanical, not magical. The kind of thing that worked when crystals and magic failed.
+
+"Will I be alone here?" I asked.
+
+The officer shook his head.
+
+"Nobody is alone on the line. You're a fixed point. Your job is to watch this sector and not leave it. But there are mobile patrols moving through the trenches at all times. You'll have people passing through your position every few minutes. If you need support, call out. Someone will be within earshot."
+
+He stepped back and looked me over one last time.
+
+"First rotation is eight hours. You'll be relieved at dusk."
+
+He turned to leave.
+
+I heard it before he'd taken three steps.
+
+Something beneath the threshold of ordinary hearing, felt in the chest before it registered in the ears.
+
+A low vibration.
+
+Footfalls.
+
+Many of them. Moving fast.
+
+At the same time the bombardment returned.
+
+The first impact struck thirty meters to my left with a concussive force that blew a plume of earth and shattered sandbags into the air. The shockwave hit the trench like a wall of compressed air.
+
+The second impact hit to my right. The ground beneath my boots heaved. Fragments of stone and dirt rained into the trench like hail.
+
+The officer spun.
+
+"BUNKER! EVERYONE TO THE—"
+
+"Wait."
+
+My hand caught his arm.
+
+He stared at me. His face was screaming move, now, underground, before the next one finds us.
+
+"There's something out there," I said. "Something moving."
+
+I stepped onto the observation platform and raised my head above the parapet.
+
+The no-man's-land stretched before me.
+
+In the distance, where the dead zone met the dark wall of the elven forest, shapes were emerging.
+
+They moved low to the ground. Dark silhouettes against the darker tree line.
+
+"Contact," I said.
+
+The officer was beside me in an instant. His eyes found what mine had found.
+
+His face changed.
+
+The urgency that had been directed toward evacuation redirected itself.
+
+"Well," he said. "Nice work, new blood. Combat on your first day."
+
+His hand found the alert relay box. The hinged cover flipped open. His palm drove the button flat.
+
+The line was awake.

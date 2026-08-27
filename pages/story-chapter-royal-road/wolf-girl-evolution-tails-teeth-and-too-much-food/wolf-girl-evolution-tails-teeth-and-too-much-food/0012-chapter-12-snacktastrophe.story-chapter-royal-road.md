@@ -1,0 +1,323 @@
+---
+id: 6c05f7ba-84b0-563a-a6e3-5fe879138f63
+page-type-slug: story-chapter-royal-road
+title: "Chapter 12: Snacktastrophe"
+slug: 0012-chapter-12-snacktastrophe
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 12
+ownLength: 1648
+unit: words
+publishedAt: 2025-08-28
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2555723/chapter-12-snacktastrophe"
+royalRoadId: "2555723"
+---
+
+PoV Luna
+
+The world was meat-sweet and victory-flavored.
+
+Jerky stashed safely in a hollow, spice still prickling her tongue, Luna bounced through the underbrush with her tail flagged high. Her paws danced. Her belly burned. Her grin stretched wider than a moonlit stream.
+
+Shadow tricks were hers now. Food magic. Hunt magic. Step-where-you-shouldn’t magic.
+
+She was unstoppable!
+
+Time to test how unstoppable.
+
+A rabbit bounded across a patch of moss in the distance. Luna narrowed her eyes. A perfect target. Not because she was hungry. Her gut was still a warm furnace of salt and spice and pride. No, this was for science.
+
+She stalked. Lower. Closer. At an angle she hadn’t tried before.
+
+Then activated the trick.
+
+Shadow Step.
+
+The world warped, and her skull rang like a hollow stump.
+
+“OW,” she yelped, bouncing backward from a tree trunk that had definitely not been there a second ago. Leaves fluttered down in judgment.
+
+She flopped onto her side with a groan, licking her paw and pretending it had all been part of the plan.
+
+But she didn’t lay there for long, there were more tests to try!
+
+Like sneak snack teleport!
+
+Luna found a squirrel nibbling at a pinecone and aimed again. Focus. Shadows cool against her fur. Her paws rippled.
+
+She popped out – straight into a patch of mud. The squirrel screamed and fled. Her chin hit the ground with a splat. Her mouth filled with moss.
+
+Spatting it out, she scowled, then sneezed twice from the spice still clinging to her teeth.
+
+Shadow Step was not working right, but it would not deter her from trying until she got it right.
+
+Clearly, it wasn’t her fault. The prey were being unreasonable.
+
+Luna glared at a particularly long shadow stretching from a tree and pounced. Bite-first. Her jaws snapped down on empty air.
+
+No flavor.
+
+She blinked, then chomped again. Still nothing.
+
+Then she spun in a circle and bit at her own tail.
+
+Also nothing.
+
+She sat, tail in her mouth, and squinted at the ground.
+
+“Maybe shadows only taste good when they’re fresh?” she mumbled around fur.
+
+Then froze.
+
+There was a rustle ahead. Hooves.
+
+Luna crept forward, slipping into the trees. A whole herd of deer grazed nearby. So many legs. So much meat. Her tail flicked, slow and sharp. She narrowed her eyes.
+
+This time, she would Shadow Step behind one and bite the butt.
+
+Perfect plan. No flaws.
+
+She melted into shadow, and reappeared… mid-air.
+
+Above the herd.
+
+One deer looked up.
+
+Luna crashed into its back, bounced off, rolled through hooves and snorts and flailing limbs. A buck nearly almost stepped on her head. A doe screamed. Panic burst like wildfire.
+
+The herd scattered.
+
+Luna scrambled up, leaves in her teeth, mud on her tongue, one ear ringing.
+
+Her nose wrinkled at the mouthful of leaf she got.
+
+Absolutely no meat.
+
+The forest went quiet again.
+
+She sat in a daze, chewing slowly, then spat.
+
+“Blech. Not worth it.”
+
+A soft chime rang in her head.
+
+【Shadow Step Lv.2 → Lv.3】
+
+She blinked.
+
+“Oh.”
+
+Well. Progress. And progress was tasty too!
+
+She stood up, shook the muck from her fur, and padded off with a spring in her step. Next time, she would aim better. Or maybe lure something big, slow, and juicy. With snacks.
+
+Shadow Step just needed more practice.
+
+And maybe a snack break.
+
+Just one more strip of jerky.
+
+For research!
+
+The leaf she had chewed earlier was still stuck in her back teeth. No matter how many times she tongued at it, it wouldn’t come loose.
+
+Annoyance built.
+
+She needed to kill something.
+
+Not just for the leaf.
+
+Also for meat. Definitely for meat.
+
+Luna crept along a low ridge until her ears twitched at movement. A squirrel? No. Bigger. Heavier footfalls. She sniffed the air. Something in between rabbit and fox?
+
+She found it nosing under a bush. It was some chunky little root-muncher with fat hips and terrible awareness. Perfect.
+
+Her claws flexed. Her body crouched.
+
+She didn’t Shadow Step this time.
+
+Just ran.
+
+Paws pounded dirt. The thing looked up barely in time to panic. It bolted. She jumped a root, curved right, lunged left. Her claw caught its flank mid-turn.
+
+【Momentum Claw Lv.1 → Lv.2】
+
+It staggered, screeched, and stumbled into a tree.
+
+She pounced, clamped jaws around its neck, and shook until it stopped squeaking.
+
+Warm blood and soft belly. That good, earthy wild-taste with a smoky finish.
+
+Luna ate without rush. There was no hurry, just her and the meat. And a bit of fur. And–
+
+–finally! Leaf dislodged!
+
+“Victory,” she declared, licking her lips.
+
+After the bones were picked clean, she stretched out in a sunny spot nearby and rolled onto her back. The warmth felt earned. Her full belly did a happy flip. A breeze rolled through the trees, stirring grass and birdsong. A perfect moment.
+
+Until something poked her spine.
+
+She twisted, nose flaring.
+
+A bone was lying there. Long, dry, cracked at the middle.
+
+Luna sniffed it. Old. Maybe deer? She pawed at it, flipped it, bit it.
+
+It tasted like absolutely nothing.
+
+Still, she rolled with it. Bit it again. Tossed it, pounced, spun, lost balance, tripped, and flipped herself head over tail. Ended in a heap, tail between her teeth.
+
+She lay there a moment. Then burst into giggles.
+
+“Hunting big things...” she said aloud, rolling upright, “...definitely not like that.”
+
+She glanced up toward the forest canopy. Somewhere beyond the trees, smoke would rise. Metal would clink. The scent of spice, grease, and fire. Human places.
+
+Places with meat she would never find in the wild.
+
+Bigger things. Cooked things. Maybe even dangerous.
+
+But definitely tasty.
+
+Standing up, she shook the dirt off her fur. Tongue flicked. Tail high.
+
+She would have to sniff them out. There had to be more than just one camp. And Luna would find where the food gathered! Where the spice-masters lived.
+
+Her stomach approved with a quiet gurgle.
+
+But as she padded toward her jerky stash, a flicker of thought caught at her heel. The den. Her pack was still limping, and quiet.
+
+Her ears tipped back, just slightly.
+
+They hadn’t had spice. Or jerky. Or clean kills lately. No secret tricks or solo hunts. Only wounds. Only silence.
+
+Her tail slowed.
+
+Then picked up again.
+
+Luna had time. A little.
+
+But first, she would eat. Then scout. Then… maaaybe share.
+
+Maybe.
+
+She smirked, nosed a leaf aside, and trotted off with her head high.
+
+Big prey. Big ideas.
+
+And maybe, just maybe, something good to bring back.
+
+***
+
+The den was quieter than she remembered.
+
+Twilight painted the treetops gold. Mist curled lazily from the same old patch of mossy stones. A few older wolves lazed near the clearing, eyes half-closed, ears sharp as ever.
+
+Luna crouched low in the underbrush, breath held, jerky pouch clamped in her jaws.
+
+This was dangerous.
+
+She wasn’t supposed to be here. Not with this. Not with human food.
+
+But she couldn’t stop thinking about the pups.
+
+The tiny ones who hadn’t fought Mireback. The ones who didn’t know how to steal or Shadow Step or kill fat snakes with their teeth.
+
+She slunk closer, slipping behind a log, then a root. Ears flat, nose twitching. One step, two, nearly there–
+
+“Whatcha got?”
+
+She froze.
+
+Two pups stood on a rock, wide-eyed. One tilted its head. The other’s tail wagged.
+
+They had found her stash with their noses before their eyes had even spotted her.
+
+She huffed, dropped the pouch, and stood up like she had planned this all along.
+
+“Secret food,” she announced, with all the dignity her tail could muster.
+
+Their eyes got impossibly round.
+
+Luna nosed open the pouch, pulled out a strip, and tore it into smaller pieces. Barely more than scraps. She flicked one toward each pup and kept the rest curled close.
+
+They sniffed once. Licked. Then chewed like it was fire-spiced heaven.
+
+Luna grinned, chest puffed. “You’re welcome.”
+
+Soon three more pups had crept closer, tails wagging, eyes bright. She fed them too, carefully. One piece each. Two, maybe, if they looked particularly round and soft.
+
+Her tail wagged alongside theirs, high and proud.
+
+She was the meat queen. Giver of flavor. Master of spice.
+
+Until a shadow passed overhead.
+
+She turned, ears low.
+
+One of the older males stood on the rise, his lip curled. His eyes locked on the pouch.
+
+“You brought that filth here?” he said, voice sharp.
+
+The pups froze.
+
+Luna bristled, jerky clenched in her teeth. Her ears twitched.
+
+“It’s good food,” she muttered around it.
+
+“It’s human food,” he snapped. “Tainted.”
+
+A snort from the side. Another wolf looked up, disdain sharp as claws. “Going soft, little spice-mouth?”
+
+Luna's jaw clenched.
+
+But the pups still wagged their tails, and licked crumbs from their paws. Still looked at her like she had hung the moon.
+
+She didn’t argue.
+
+Instead, she tucked the pouch under her belly and turned.
+
+“I’ll bring meat,” she said, more to herself than anyone else. “Proper meat.”
+
+And ran.
+
+Through bush and stream and thorn. Nose sharp, breath quick. She found the scent fast. Big, smelly, stupid boar. She circled wide, caught wind again. Waited. Pounced.
+
+The fight was messy.
+
+[HP -6]
+
+But worth it.
+
+She dragged the carcass back by the ear, muscles burning. Dropped it at the edge of camp with a grunt.
+
+Then waited.
+
+One of the elders padded over, sniffed it, flicked an ear.
+
+“It’ll do.”
+
+Another muttered, “Didn’t even eat it herself.”
+
+“Strange pup,” came the next.
+
+She started to turn away… Then felt a nose brush her cheek.
+
+Warm. Familiar.
+
+Her mother.
+
+One slow lick across her muzzle. Just one mlem.
+
+Then silence.
+
+Luna blinked.
+
+【Charisma +1】
+
+Her tail gave a cautious wag.
+
+She didn’t need all of them.
+
+But some licks were worth more than meat.

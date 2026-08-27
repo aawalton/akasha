@@ -1,0 +1,111 @@
+---
+id: 86d594c5-bb35-56e1-b90a-0892679fc7ff
+page-type-slug: story-chapter-royal-road
+title: "Chapter 32: Afternoon Naps"
+slug: 0032-chapter-32-afternoon-naps
+partOf: underworld-bread-mage-yuri-progfan-slice-of-life
+position: 32
+ownLength: 1428
+unit: words
+publishedAt: 2026-08-25
+link: "https://www.royalroad.com/fiction/179650/underworld-bread-mage-yuri-lit-rpg-slice-of-life/chapter/3863105/chapter-32-afternoon-naps"
+royalRoadId: "3863105"
+---
+
+“Shouldn’t we save some for Miss Hecate, though?” Finishing her plate, Mellie asked.
+
+A couple of hours had passed since Hecate’s departure. It was too early for Marina to be worried, but not too late for her to sink into the quicksand of self-loathing. Perhaps if she had chosen a different path instead of baking, a path that granted actual strength and powers, she would find herself more useful in the presence of whom she cared the most, and she could be by her side more often.
+
+At twenty-four years of age, Marina considered herself to be a mature woman. She didn't need to be protected; she didn't want to be protected, not by choice at least.
+
+"No, it's fine." Marina finally spoke after a brief hesitation. “Hecate said she wasn't coming back till tonight anyway.”
+
+"Where did she head off to, anyway?" Mellie asked.
+
+"Mmm... I'm not sure either, but I can't imagine it being anything but dangerous." Marina decided it was best to hide the truth.
+
+"Is she going to be okay?" Mellie was visibly worried.
+
+"Do you want to go find her?" Marina joked, "There is nothing the two of us can't handle, right?"
+
+Despite her attitude, Marina wouldn't hesitate to run out the door if the red string on her finger showed any type of disturbance.
+
+“I-I think I would rather do the dishes…” Getting up from her seat, Mellie collected the plates. “I was just worried about her…”
+
+“Hecate is strong, she is going to be fine.” Marina nodded her head. “I’m kind of tired, going to take a nap now.” It was the only thing that could distract her from the absence of her newfound lover.
+
+“Alright, I will probably continue my work in the lab,” Mellie replied. “Do you need anything prepared early for dinner tonight?”
+
+“Not sure yet,” Marina yawned as she stretched her back. “It’s not like I can defrost that huge chunk of meat without Hecate getting rid of the ice first.”
+
+“Good point.” After arriving at the doorway of the lab, Mellie turned around for the last time. “And also, if Miss Hecate does show up early, do you want me to send her upstairs, or–”
+
+“Yes, Mellie, send her to me straight away,” She said without hesitation.
+
+Climbing up to the attic, Marina tossed her shoes to the corner before launching her exhausted body onto the monotonous white bed that had been closer to the corruptions of depravity, than to the nuns who brought forth collections of glass fruit into the church corridors.
+
+Should probably start cleaning the bed sheets before Mellie starts to notice things. Marina buried her face into the pillow. Maybe I should check the new Techniques…
+
+Summoning the System screen, Marina navigated through her [Profile] before finding the [Techniques] section. With a tap of her finger, a huge list of texts and images appeared, most of which were still locked behind [Rank] requirements. Her new [Rank] level unlocked only a few [Techniques] that were marked with the words “To Be Discovered.” However, one of them caught her eye. Unlike the others, which glowed a gray aura like her current two [Techniques], it glowed a blue one.
+
+Leveling up did not give me actual Techniques but only unlocked them… Marina pondered. But quests did, though the Techniques given were still limited by their quality. But because I was so low level, it wouldn’t be possible for the quests to give me any higher quality [Techniques]. So my level was the bottleneck after all. She closed the System after the hypothesis and turned to her side. I should level up more before completing the next quest.
+
+Serenity rested in the air of the hut at this hour of the afternoon. Momentarily, small knocks and kicks could be heard from downstairs, from Mellie’s lab, but never enough to disrupt Marina’s peaceful nap time. Time passed as her mind fell deeper and deeper into a doze; the remnants of Hecate’s scent from the bed were far more intoxicating than she would’ve admitted. Insomnia was the plague that haunted her for almost the entirety of her adult life. She never knew when it all started. Maybe it was the never-ending stress and the forever-growing delusion that trained her brain to never slow down for a breath, no matter how much it yearned for a rest. But in the past few days, her infected mind had slowly healed back to health.
+
+Minutes passed without Marina’s knowledge, then a sudden ticklish sensation pulled her from her drowsiness.
+
+“Mm… not my nose…please…” She turned frantically, trying to throw off whatever the cause might be.
+
+But to her dismay, it was of no help at all.
+
+“I swear to god, Hecate!” Marina’s eyes snapped open. “Why don’t you just say something, or wake me up in a normal way?” Without a second doubt, she knew exactly who the culprit was. The strength of the gentle touch was much too familiar.
+
+“I’m not sure if the use of profanity to the higher powers is a wise idea, my dear, but if it’s your wish, then I shall not stop you.” Hecate smiled. “How did you know it was me?”
+
+“Cuz your nails are longer than your actual fingers.” Marina grabbed Hecate’s skinny hand. “You see that?” She eyed. “That’s not safe at all, especially when you’re doing… food preparations.”
+
+“Fine, fine. Whatever you say, my dear.” Hecate said as her nails shrank back into her flesh, “How about it now?”
+
+The sight of that was more disturbing than Marina had expected.
+
+“I do not want to see that again. That looks… really painful and weird.” Lying back down, she continued to hold onto Hecate’s hand, though much gentler. “So, when did you come back?”
+
+“It hasn’t been long, perhaps ten minutes ago.” Hecate sat around the edge of the bed. “You were having a nice little dream, weren’t you?”
+
+Even after being together for a few days, Marina was still defenseless against Hecate’s playful tease, especially after that night.
+
+“W-what do you mean? I wasn’t dreaming of anything…”
+
+“Oh, is that so? When I first entered, I heard the calling of my name many times.” Hecate smirked.
+
+“Those are… lies and deceit!” Marina was getting flustered. “Stop teasing me already!”
+
+“That is not all. You were also saying things like: don’t leave me, I don’t want to be alone again—”
+
+“Okay! That is enough!” Docking under the blanket, Marina began to sob quietly. “Why can’t you just be a little more considerate…”
+
+Even if she wasn’t aware of such actions, she knew it was true. She had felt that way for a long time now. Hecate was no longer the malicious individual Marina thought to be; in fact, she had become precious to her, she had become someone Marina wanted to treasure, and never to lose grasp of.
+
+Moving to the other side of the bed, Hecate swiftly slid herself beside Marina. She wrapped her arms around Marina’s waist, expecting retaliation, but was greeted with acceptance.
+
+“Apologies, my dear. I couldn’t help myself but adore the fact that I, too, have become a thought that flows through your mind daily.” Hecate spoke softly, “Thank you for thinking about me.”
+
+“Mm.” Marina nodded. She could feel the heat rising under the blanket. “Did you find Melissa’s husband and son?”
+
+“Regarding that, I have good news and bad news. Which would you like to hear first?”
+
+“I suppose the good news first?”
+
+“I have acquired their location; it seemed to be the same cave I discovered the block of salt a day ago,” Hecate replied. “It was where their scent had vanished.”
+
+“Did you explore further?” Marina asked.
+
+“That brings me to the bad news. After concealing myself amongst the darkness, I advanced deeper into the caverns, where I was able to rediscover the scents again, but as I traversed through the tunnels, I realized something of interest…” Hecate paused. “The main cavern leads straight back to this village.”
+
+“Okay?” Marina pondered. “Is that the bad news?”“Not quite. The real bad news is what is inside those caverns.” Snapping her fingers, a sound barrier surrounded the two of them.
+
+“Oh, no…” A nightmarish thought flooded into Marina’s mind. “Don’t tell me it’s what I think it is…”
+
+“I suppose this is why we have such a special relationship. We are always on the same page.” Hecate giggled. “Yes, my dear, if you are thinking of a legion of around two thousand ant warriors commanded by an Authority Bearer queen, you would be correct.”
+
+“...”

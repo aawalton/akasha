@@ -1,0 +1,565 @@
+---
+id: d01a2cb8-591a-5a43-bf05-5946bf944106
+page-type-slug: story-chapter-royal-road
+title: "Chapter 146: Bad Bad Smack Time!"
+slug: 0149-chapter-146-bad-bad-smack-time
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 149
+ownLength: 3234
+unit: words
+publishedAt: 2026-08-03
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3764884/chapter-146-bad-bad-smack-time"
+royalRoadId: "3764884"
+---
+
+PoV Luna
+
+Luna went back into the dark with rain still dripping from her fur and the hug-warm feeling still trying to crawl under her ribs.
+
+Very dangerous!
+
+She liked hugs. Hugs were nice! Hugs meant Finnie was back with her mom and Linley was not pretending quite so hard anymore. But surprise hugs also made Luna’s chest do strange squishy things, and there was no time for squishy chest things while bad bads were still waiting for biting below!
+
+Yip yep!
+
+Definitely why Luna was so eager to do Apex Predator things straight away!
+
+Definitely!
+
+She sniffed the air to distract herself from warm fuzzy somethings.
+
+And then she smelled it, the new huge wrong smell.
+
+Luna’s head snapped toward the lower tunnels.
+
+Nest mother!
+
+Her paws moved before the rest of her thoughts caught up.
+
+A hand caught her by the scruff.
+
+“Bweh!”
+
+Luna’s legs kicked once at empty air before she remembered she was a dignified rescue wolf and not a dangling pup. She twisted her head back.
+
+Syliana held her firmly, rain still dripping from her cloak, eyes calm and very serious.
+
+“Not yet.”
+
+Luna’s ears flattened.
+
+“But nest mother bad!”
+
+“Yes,” Syliana said. “And she is waiting deeper in. But there are still some people missing, who may still be between us and her.”
+
+Luna stopped squirming.
+
+Oh!
+
+That made sense.
+
+Syliana lowered her enough for Luna’s paws to touch stone again, but did not let go of her scruff immediately.
+
+“We find them first, okay? Then we can go deal with the source of this problem.”
+
+Luna huffed hard through her nose, but nodded anyway.
+
+Her Second was right, saving people came first!
+
+…Even if Luna really wanted to go hunt the big bad!
+
+She sniffed the air, searching for the hidden scents.
+
+Below smelled like Syliana, black blood, bad stitching, and two new smells that weren't there before – one huge rude stink rumbling through the stones, and faint whiffs of others.
+
+She could smell their fear, but also alive smells! The big movements of the big bad moved the air so much she could smell them now.
+
+Luna wrinkled her nose in disgust.
+
+The big stink was overwhelming!
+
+Nest mother!
+
+Big, ugly, making bads, and probably very proud of herself.
+
+Luna’s lips peeled back.
+
+Too bad!
+
+Big bads did not get to jump the biting line just because they were big! Luna had very impawtant rescue-wolf rules, and the rules said hiding people came first. Small bads trying to stop the finding got bitten on the way.
+
+Big bads got bitten after!
+
+Then maybe Luna would rinse her mouth, because the nest mother smell was already attacking her tongue from far away.
+
+“Awooo, terrible!”
+
+She shook her head, transformed into her bigger wolf form and ran!
+
+Syliana followed right after her.
+
+The tunnel had learned Luna’s paws by now. The broken stair waited where it had been before, still bad but predictable. The wet stone near the bend tried to be sneaky again, so Luna’s shadow slid over it first and pressed down until it stopped pretending to be a normal floor. The rude corner stuck out at shoulder height, but Luna dipped under it with her tail high.
+
+Nice try, corner!
+
+A tremor rolled up from below. Dust puffed from the ceiling, and a chunk of stone dropped toward Luna’s head.
+
+She shadow-slid sideways without even slowing.
+
+The chunk smashed where her nose had been.
+
+“Bleh!”
+
+Very bad ambush, rock terrible at hunting! It had not even hidden its scent properly!
+
+Another stone fell near the flooded dip, and Luna hopped over it, paws splashing through cold water as her tail flicked behind her. Falling rocks were slow rocks!
+
+And slow things would never catch Luna!
+
+Hehe!
+
+A click snapped from the wall.
+
+Luna’s ears perked.
+
+Ah! Small bad to bite!
+
+The chimera burst from a crack with too many arms and a pulsing lump hiding under its throat. Luna found the knot before its claws finished reaching. She ducked under the first swipe, bit the lump, and crunched it flat.
+
+The chimera dropped.
+
+Luna spat black blood onto the stone.
+
+“Bleh.”
+
+Small bad tasted like old boot soaked in monster soup. Worse than bog toads did! Nest mother’s fault!
+
+…Probably!
+
+She ran on with her nose working and her shadows sweeping through the ugly little side cuts.
+
+Syliana followed behind her, slower but steady, magic bright around both hands. Rain still clung to her cloak from the surface, and her worry-smell cut through the black blood every time the tunnel shook.
+
+Her Second worried too much! Luna was here!
+
+All the bads will get their claw and bite, mhm!
+
+A tremor rolled through the passage hard enough to make old dust spill from the ceiling. Luna heard stone crack above Syliana and twisted back, but Syliana was already moving. One sharp gesture sent a spell into the falling slab and shoved it sideways into the wall.
+
+The slab broke.
+
+Something behind it clicked.
+
+Syliana’s second spell hit the little bad before it finished crawling out.
+
+Luna’s tail wagged once.
+
+Very good spell-biting!
+
+Syliana gave her a look.
+
+“Keep checking ahead.”
+
+“Yesh!”
+
+Luna faced forward again and pressed her nose close to the drag marks. Two missing humans. Not children. One adventurer and one clerk, Syliana had said. Most people were out, but most was not all, and Luna wanted all.
+
+All was a much better number!
+
+The main shaft breathed nest mother stink from deeper below, thick and rude and full of bad making-smell. Luna’s lips peeled back toward it.
+
+Wait turn.
+
+Big bads did not get to jump the biting line just because they smelled big.
+
+First hiding people.
+
+Then small bads.
+
+Then nest mother.
+
+A click answered from a side passage.
+
+Luna’s ears perked.
+
+Oh!
+
+The queue had come closer.
+
+Very polite!
+
+The side cells were awful little stone mouths tucked under the tower’s bones. Swollen doors leaned in their frames. Rusted bars smelled like old hands. Wet pockets of collapsed stone held broken crates, dead water, and slime that smelled like nest mother had burped on the floor.
+
+“Awooogh.”
+
+Bad place!
+
+Bad holding-people place.
+
+Luna kept her nose low and her shadows lower. Shadow Cloak slid under doors, through cracks, across puddles, and around corners before her paws reached them. The first cell had old fear and dead water. The second had broken wood and monster slime. The third had claw marks gouged on the inside of the door, and beneath the rot, dust, and black blood, one living breath trembled.
+
+Luna’s paw stopped before it touched the next stone.
+
+Alive.
+
+Hurt.
+
+Trying very hard to stay quiet.
+
+She shifted into human form because hands were better for doors and scared stiff people. Her shadows slid into the swollen gap beside the lock, and she pulled until the wood cracked instead of exploding inward.
+
+The adventurer inside lay half under a collapsed rack, one arm bent wrong and his face gray with pain. His eyes opened when Luna crouched beside him, and for one breath he stared at her ears.
+
+Luna held up a potion.
+
+“No silly staring. Here, potion! Drink, drink!”
+
+His mouth twitched.
+
+It was not much of a laugh, but it was trying, and trying-laughs meant alive enough in Luna’s opinion!
+
+Hehe!
+
+Luna lifted his head and tipped the potion to his mouth. He swallowed, coughed, swallowed again, and breathed a little better.
+
+“There,” Luna said. “Less dying now!”
+
+The almost-laugh came again.
+
+Luna’s ears perked.
+
+Much better!
+
+Luna’s ears turned before her head did.
+
+Syliana was coming fast, magic-bright and rain-wet, with worry tucked sharp under her calm. A small bad clicked behind her, then stopped clicking when Syliana’s spell slapped it into the wall.
+
+Hehe!
+
+Her packfriend had proper Apex Predator instincts!
+
+Syliana reached the broken cell, saw the adventurer, and crouched beside him with healing light already gathering.
+
+“Second! He’s alive!”
+
+“I see that. Go find the clerk. I’ll keep him stable.”
+
+“Yesh!”
+
+Luna leaned close to the adventurer and gave him her most serious rescue look.
+
+“Second is good. Stay less dying!”
+
+His mouth twitched.
+
+Still trying-laugh alive.
+
+Hehe!
+
+Luna shifted back into wolf form and slipped out while Syliana’s magic warmed the cell behind her.
+
+Now to find the clerk!
+
+A hidden clerk.
+
+A hidden clerk to find for Luna!
+
+Mhm!
+
+The Broodmother’s stink pressed over everything, thick with black blood, old fear, and command-smell. Tremors kept shaking dust loose and stirring dead scents back up. The trail did not sit still.
+
+Rude.
+
+Almost clever.
+
+Luna lowered her nose, opened her mouth to taste the air, and immediately regretted it.
+
+“Bleh.”
+
+A click answered from the left passage.
+
+Luna’s ears lifted.
+
+Oh?
+
+She gave a tiny, pitiful whine.
+
+The left click moved closer. Another answered from the right. A third scraped above a storage cut.
+
+Bads listened for scared noises.
+
+Luna shadow-slid between the clicks, belly low, paws barely touching wet stone. The first chimera lunged too early. She twisted under it and smacked its throat knot flat. The second rushed from the right, and Luna shoulder-checked it into a rusted door hard enough for the door to finish the argument. The third dropped from above, so she Shadow Stepped behind it and kicked it down the corridor.
+
+It crashed into a fourth chimera hiding in the dark.
+
+Ha!
+
+Very bad hiding.
+
+Luna chased the tangled sounds and swatted both into a collapsed rack. Their knots pulsed together for one last heartbeat.
+
+Crunch.
+
+【Momentum Claw Lv.18 → Lv.19】
+
+“Ha-woo!”
+
+Momentum Claw understood the assignment.
+
+Luna landed low, claws scraping wet stone as black blood shook from her muzzle. The rush of movement dragged fresh air through the passage, and her nose caught at it eagerly.
+
+Fast tore open the stale smell layers and made the buried ones wriggle loose beneath the Broodmother stink.
+
+Hehe!
+
+Being fast was useful!
+
+And fun!
+
+Old paper, wet wool, and a thin thread of human blood slipped out from under dust and broken stone.
+
+Luna went still with one paw lifted above the floor.
+
+The scent was small and stubborn, like someone had run out of voice but not out of alive.
+
+Oh.
+
+Her tail lowered, and the happy smack-energy folded itself smaller for later.
+
+Her shadows slipped ahead of her through the crawlspace, feeling under broken shelves and around fallen stone while Luna followed the thin paper-blood smell. The passage narrowed until patched stone scraped her fur.
+
+Scratches marked the floor where something had dragged the clerk through. Black blood smeared one wall, but the human blood went farther.
+
+A pair of chimeras crouched in the next chamber beside a cracked pillar, both angled toward Syliana’s magic farther back.
+
+Luna’s ears flattened.
+
+Nuh uh! No bothering her Second! Her Second was busy guarding Luna’s rescued human.
+
+The first chimera turned too slowly.
+
+Luna pushed hard off the stone. Her paws struck once, twice, and then the tunnel blurred around her shoulders. She hit the first chimera from the side with all that speed still packed behind her claws and drove it straight into the second.
+
+Both bodies slammed into the pillar. The impact jolted up Luna’s forelegs. Stitched flesh burst against stone. Bones popped under her paws, and the pillar shuddered hard enough to cough dust over her ears.
+
+Luna’s mouth opened around a delighted breath.
+
+“Hehehe!”
+
+She was getting good at smacking the chimera baddies!
+
+Then the ceiling answered with an ugly crack.
+
+Stone dropped behind her, toward the path she would need for carrying the clerk back. Luna’s joy snapped into focus, and Shadow Cloak shot up to catch and redirect the falling chunk to the side before it hit the ground.
+
+“Rude!”
+
+More stone broke loose. Luna slid between the falling pieces, claws skidding through wet grit, and crushed one chimera’s rib-knot under her paw as she passed. The second tried to crawl away. Its shoulder pulse beat once under bad flesh, right where her nose said important things should not be beating.
+
+Very biteable.
+
+Luna lunged and closed her jaws around it.
+
+Crunch.
+
+The chimera stopped twitching.
+
+A whimper slipped through the broken stone behind the pillar.
+
+There!
+
+Luna shifted before the sound finished. Hands were better for this part. Hands and shadow lifted the fallen slabs carefully, because rescued humans did not need extra ceiling on them.
+
+The clerk was curled in a gap barely large enough for his ribs, spectacles hanging cracked and crooked from one ear. He stared at Luna like his thoughts had scattered into the rubble and she had arrived before he could collect them.
+
+Luna stared back.
+
+“Lost human found!”
+
+A tremor shook the chamber. Stone shifted overhead.
+
+Luna reached for the back of his coat.
+
+The clerk flinched and tried to scramble deeper into the gap.
+
+Bad direction!
+
+“Nu-uh.”
+
+Luna caught him before he could wedge himself tighter, careful with soft human ribs even though the ceiling was being very rude above them. He made a thin panicked sound and twisted away.
+
+His spectacles slipped from one ear.
+
+Luna’s hand snapped out, catching them!
+
+The clerk froze.
+
+She held the cracked spectacles up between two fingers, then placed them carefully back into his shaking hands.
+
+Important eye-things rescued too!
+
+He stared at the spectacles, then at Luna.
+
+Still very confused.
+
+“Do not worry!” Luna said brightly. “Woo are being rescued. By Luna!”
+
+His mouth opened, but no words came out.
+
+But that was fine!
+
+Words were not required for Apex Predator rescue operations.
+
+Luna shoved a potion into his other hand.
+
+“Here, potion, drink drink!”
+
+The chamber groaned overhead.
+
+The clerk looked at the potion, then at the collapsed stone, then at Luna again.
+
+“Drink.” Luna repeated, staring.
+
+He drank.
+
+Yesh!
+
+Luna grabbed the back of his coat and pulled him free as the gap collapsed behind him. He yelped, coughed, and clutched the spectacles against his chest like they had also survived something terrible.
+
+Fair. Spectacles had done brave work.
+
+Luna shifted back, tucked him against her side with shadow, and ran for Syliana.
+
+The human was safe against her ribs. Shadow held him close, careful around soft places, and Luna’s paws found the slick stone again.
+
+Now the bad things were allowed to be in the way.
+
+Luna would smack them all anyway!
+
+Just then, a chimera lunged from a wall crack. Luna dropped one shoulder and swatted it aside without even slowing. It hit the stone hard enough to bounce, and the wet smack chased her down the passage.
+
+Her ears perked.
+
+Hehe!
+
+Another blocked the flooded dip, throat knot pulsing under stretched skin. Trying to hide, but Luna saw!
+
+The tunnel narrowed. The floor shone with dirty water. The clerk shook against her side.
+
+Difficult situation!
+
+Simple Apex Predator solution!
+
+Luna drove straight through the chimera chest-first, water spraying under her paws, and shoved it across the slick floor until its back struck the far wall. The pulsing knot slid under her claws.
+
+Luna pressed down in passing, crushing the lump.
+
+“Button works!”
+
+The clerk made a strangled noise against her side.
+
+Hehe, he sounded impressed!
+
+A third many-bad tried to crawl after them, so Luna kicked backward without turning. Her hind paw caught something soft and wrong, and a moment later the thing smacked into the wall behind her.
+
+Small bads were very bad at waiting their turn.
+
+Syliana’s magic flashed ahead. Luna rounded the bend and found her beside the adventurer, one hand holding healing magic over his arm while the other kept a pale barrier stretched across the passage. Two chimeras clawed at it from the far side.
+
+Syliana snapped her fingers.
+
+The barrier burst outward, and both chimeras slammed into the wall in a show of some very crunchy spell-biting!
+
+Syliana looked from the clerk tucked against Luna’s side to the adventurer breathing easier on the floor.
+
+“That’s all of them?”
+
+Luna sniffed.
+
+Clerk, adventurer, Syliana, dead bads, wet stone, black blood, and Broodmother stink. No other living thread hid under the corruption and rot.
+
+She sniffed again, because all was important.
+
+“All.”
+
+Relief flashed through Syliana’s scent.
+
+“Then we get them up.”
+
+“Yesh!”
+
+***
+
+Up smelled like rain and healers and finished rescue.
+
+Luna tucked the adventurer against her other side while Syliana steadied him with magic. The clerk stayed pressed to Luna’s ribs on the first side, still clutching his spectacles, and Luna’s shadows settled around both rescued humans in the smooth holds she had practiced with Syliana.
+
+“Ready,” Syliana said.
+
+And so they ran!
+
+Luna ahead with both humans held close, Syliana behind her with magic snapping at anything that tried to follow. Luna’s paws found the steady places. Her shadows tightened before each turn, loosened after each landing, and kept the clerk and adventurer from bouncing against her sides.
+
+A bad thing clicked from the ceiling. Syliana blasted it down, and Luna stomped its neck-knot as she passed.
+
+Her paw hit, the knot burst, and the path cleared without her needing to slow.
+
+Teamwork stomps were advanced hunt practice!
+
+The way up smelled better with every bound. Rain reached her first, sharp and cold through the tunnel stink. Then came lantern smoke, healers, guards, Finnie, Linley, blankets, mud, and all the living people above.
+
+Luna pushed harder.
+
+Her paws struck stone in quick, eager bursts. The clerk shook against one side, the adventurer breathed against the other, and Luna’s shadows held them both steady while every turn became a thing to beat, every broken step a thing to leap, and every crawling bad thing a thing to smack out of the way before it could even pretend to matter.
+
+Luna burst out of the tunnel and slid low so the rescued humans did not jolt.
+
+The surface moved fast now. Blankets came close. Healers reached in. Guards cleared space, and the learning healer was already there with both hands glowing.
+
+Luna lowered herself and peeled her shadows back.
+
+The adventurer was breathing.
+
+The clerk still clutched his spectacles.
+
+But they were both alive and well!
+
+Hehe!
+
+Luna sniffed again, slow and serious. Rain, mud, blood, healers, Finnie, Linley, Syliana, guards, rescued humans, dead bads below, and the big Broodmother stink still rumbling under everything.
+
+She didn’t smell any hidden human fear left in the dark.
+
+“No more hiding smells,” Luna said.
+
+Syliana looked toward the tunnel entrance, then back to Luna.
+
+“You’re sure?”
+
+“Yesh! No more hidey people.”
+
+The words affected the people around her in more ways than Luna expected.
+
+A woman covered her mouth and held back the sobs. A guard bowed his head. The clerk made a small broken sound while the healer worked over him, and the adventurer closed his eyes with a sigh.
+
+Luna kept her tail still.
+
+Then the ground beneath the cracked tower trembled.
+
+Deep, heavy, and angry.
+
+The Broodmother smell rose from below like a mouth opening under the town.
+
+Finnie clung tighter to her mother. Linley stepped in front of them even with a blanket around his shoulders and cake crumbs on his chin. The guards gripped weapons that smelled much less confident than their hands wanted them to.
+
+Luna turned toward the dark.
+
+Her ears lifted, and her lips peeled back.
+
+The rescue-smack queue was empty now!
+
+Syliana stepped beside her, magic gathering around both hands.
+
+–And Luna had a good idea of where the next big smacks would land.
+
+With zooms and style!

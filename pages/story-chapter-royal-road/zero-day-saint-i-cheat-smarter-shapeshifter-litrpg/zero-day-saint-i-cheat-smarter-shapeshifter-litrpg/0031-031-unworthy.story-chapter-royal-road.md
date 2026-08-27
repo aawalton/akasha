@@ -1,0 +1,252 @@
+---
+id: 0b89c437-583d-56e2-b2aa-fdb34a0417b4
+page-type-slug: story-chapter-royal-road
+title: "031 - Unworthy"
+partOf: zero-day-saint-i-cheat-smarter-shapeshifter-litrpg
+position: 31
+ownLength: 2436
+unit: words
+publishedAt: 2026-05-29
+link: "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3463348/031-unworthy"
+royalRoadId: "3463348"
+---
+
+For once, we'd been in luck. I had swapped back to Angel's shape, and by now had acclimated sufficiently to the forest, so that we could actively track down its denizens.
+
+Which, so far, had consisted exclusively of various swarms of beasts. A pack of wild hounds. A group of dire badgers. One giant boar with a cluster of smaller, still dog-sized, piglets.
+
+The weirdest encounter happened when we came upon a large pond, a spot of serene tranquility, which was immediately interrupted by the attack of a human-sized dire goose.
+
+But between Jamie's near invulnerability to beasts and my ability to fully heal by shifting, none of them were a real challenge.
+
+We had climbed onto the roof of one of the overgrown houses that had been swallowed by the forest, from which we saw that we had gotten close to the central clearing. I had already reached level 10, and Jamie was close now, too. And we still had twelve minutes remaining on our food buff. So we decided to push for the center and book it out of the forest afterwards.
+
+I had switched back to my human shape to climb the house and had stayed like that for the last stretch of our trip.
+
+"What if there is nothing there?" Jamie asked.
+
+"Then it's a trick and we just haven't spotted what's there yet. The Blessing is meant to challenge and reward us. It wouldn't throw out red herrings with nothing to show for it."
+
+"But we decided the center would be significant."
+
+"And it decided to put the clearing there. You'll see. We are really close now."
+
+Up ahead the gloom of the forest turned into bright summer sun. We stepped out of the thick underbrush onto a lush field of grass. In the center of the nearly perfectly round clearing stood a semi-circular structure with walls of white marble, around a central pedestal.
+
+"Hah! I knew it!"
+
+Then a debuff appeared on my UI. There wasn't any description of its effects, no duration—nothing. Only its name.
+
+[UNWORTHY]
+
+"Jamie? Did you also just get hit with a debuff?"
+
+Jamie paused to check his UI. "No, nothing. What did you get hit with?"
+
+"I'm not exactly sure what it means. I don't—" I stopped when I saw movement ahead. From behind the central structure an honest-to-god Unicorn stepped into view. Its pure white coat literally glowed from within. The horn on its head wasn't the magic-wand-type I'd expected for a Unicorn. It had an edge to it, like it was made of pearlescent obsidian. There was something odd about even looking at it. It was like looking through those 3D glasses at the cinema. It was both there and wasn't.
+
+Examining it revealed a buff.
+
+["Protection from Evil."]
+
+I closed my left eye, and the Unicorn vanished from sight. I literally couldn't see it through my devil eye.
+
+And then there were its own eyes, intently focusing on me. They showed two things: Intelligence and hatred.
+
+This four-hoofed asshole had weighed me and found me wanting. There was little I hated more than the holier-than-thou, judgemental type.
+
+"Uh, Eve? We should leave. I'm getting a warning. Like when I had that shotgun in hand? I can't fight that. It's supposed to be a good creature."
+
+I took a step forward to which the Unicorn reacted by pawing the ground.
+
+"If it is so good, it'll let us have what's on that pedestal. We are also the good guys after all, literally fighting Hell."
+
+Jamie cautiously followed me. "I'm not sure that's how it works, Eve. What is that debuff you mentioned? What is it called?"
+
+"Unworthy," I growled before I shifted into the cape buffalo shape. I took another step toward that structure with the pedestal. I was a reasonable person. I wouldn't just attack this supposedly-good creature.
+
+But if it decided to turn its judgemental hangups into an actual threat? I'd kick its fucking ass.
+
+"Eve. You are on your own. I'm not risking my entire class for this," Jamie said.
+
+["And I'm not going to let the Blessing treat me the same way the Wyrm did without pushing back."]
+
+On cue, the Unicorn charged. I answered it by doing the same. In a head-on collision, I'd crush it.
+
+Hooves tore through the grass as we thundered toward each other. Only for it to dodge to the side—unnaturally nimble for its size—at the last moment. It had dodged to my right, where I immediately lost sight of it. My right side flared with pain as it passed me with its sword-like horn.
+
+It was relentless, and I was outclassed. I barely managed to turn to face it once more, when it was already on me again. This time I was prepared and shifted right, just before impact—which it had once more seen coming and instead went for my left, giving me another cut.
+
+Any attempts to hit it ended the same way. I was too slow, and it was too nimble. The individual cuts didn't do a huge amount of damage, but I could quickly see how this would end if I allowed it to go on. I needed a plan.
+
+I shifted my focus to running. It was faster, too, but the size of the clearing at least gave me room to maneuver, making it harder for it to strike me, which in turn bought me time to think. And for my shifting cooldown to run out.
+
+["Do you think you can use your healing on me? Does it say you can't participate or not attack?"] I asked in party chat.
+
+["'Not attack.' I think I can heal you. But I don't like a plan that needs that."]
+
+["Me neither."]
+
+This creature hated me and it fought distinctly like a smart bully, but a bully nevertheless.
+
+I'd give it a chance to not be a bully or die as one.
+
+["Get ready, when I shift I'll need you soon."]
+
+I spotted a tree that had grown right at the edge of the clearing. After another two cuts by the Unicorn's horn left me at less than half health, I ran for that tree and shifted back to my human self.
+
+With my back against the tree, I lifted my arms, pleading.
+
+"Please, no! Have mercy!" I begged as it fixed its hatred-filled gaze on me. I didn't need much acting to convince it of my terror. The smallest mistake could mean death.
+
+The Unicorn charged. Jamie shouted my name, as he, too, ran for me.
+
+My plan had been to fully dodge its attack. But that had been hopeful at best. What I did manage was pulling just a hand-width to the side, so when it impaled me against the tree, it went through my shoulder, just under the collar bone, instead of through the heart.
+
+The pain was worse than anything I had experienced before. Behind me wood splintered under the horn's impact. For a split second we stood, the unicorn locked against the tree with me—its eyes gleaming with the smug satisfaction of the strong hurting the weak.
+
+I activated my Power Through ability. The pain didn't vanish, but for the next five seconds it wouldn't hinder me—enough time for me to drive my clawed fingers into its eyes.
+
+It screamed, an otherworldly sound that didn't at all fit its holy nature, and pulled its head up—cutting through wood and my collar bone alike. The pain of getting impaled paled in comparison. The world was nothing but pain and the Unicorn's scream.
+
+I barely managed to stumble out of the way as it wildly stomped the spot where I had landed, just before Power Through ran out.
+
+And then I was scooped up and carried away from the raging beast.
+
+"That was fucked," Jamie complained even as he put me down again and laid his hand on the remains of my shoulder. "Both of you and of that thing."
+
+Warmth spread from his touch, and pain subsided. His hands glowed with a golden light as he used his healing ability.
+
+"Thanks," I muttered. "I wouldn't have needed to resort to something this fucked if it wasn't such an asshole."
+
+"Well it was and you won. Let's go."
+
+With my health restored, I put a hand on Jamie's arm and pulled myself up, before I faced the raging Unicorn.
+
+"Sorry. Gotta finish this. Would be inhumane to leave it like that, wouldn't it?"
+
+"Damn it, Eve. Yes, probably it would. It just nearly killed you."
+
+I shot Jamie that wicked grin he'd liked before. "And now it's blind." I began stalking toward the Unicorn. "And I'm not leaving without its heart."
+
+Within two minutes I stood over the corpse of the Unicorn. It had given a lot of experience, pushing me nearly to eleven, and Jamie past ten. His healing seemed to have counted as a worthy contribution to the fight, and it hadn't cost him his class yet.
+
+Jamie walked up to me. "You were joking about the heart, were you?"
+
+I pulled the multitool out of my inventory and knelt down next to the Unicorn's ribcage. "Nope."
+
+Jamie sighed. "Yeah, I had thought so. Hurry up. The food buff ran out and we got what we came for."
+
+I began working my way through to where I hoped this creature's heart was.
+
+"Will do. How about you check out what's on that pedestal?"
+
+Jamie did so without further comment.
+
+Just as I had pulled out the heart, he returned. Turns out that a Unicorn has a lot of heart. I really hoped that my collar's ability didn't need me to eat all of it.
+
+I turned to face Jamie, heart in hand. He was carrying some kind of fabric, which was pitch-black with a rainbow oily sheen to it.
+
+"What is it?" I asked.
+
+"An Elven Cloak. It boosts stealth abilities. I'd give it to you—you can clearly use it better and you have won this fight after all. But then it'd get very bloody."
+
+I considered it for a moment and then shook my head. "Give it to Jason. He's some kind of rogue. He'll make better use of it."
+
+Jamie tilted his head. "We—You went through all this effort to get the reward here, and you are just giving it away?"
+
+"Deep, deep down, I'm nothing but a filthy min-maxer. It'll be more impactful if he gets it. I keep teaming up with this silly paladin who can't properly stealth anyway. Why would I want a stealth cloak? And besides, the real reward is this," I said as I held up the heart. I freed up the collar slot occupied by the cape buffalo and bit into the heart. Turns out that raw heart is incredibly chewy.
+
+Jamie shook his head and the cloak vanished into his inventory. "You are really doing this."
+
+"I am," I mumbled over a mouth full of heart.
+
+"It's rude to talk with your mouth full."
+
+I kept eating away at the raw heart and for a minute nothing happened. Then, on the third bite, a pop-up appeared.
+
+[Accept Nightmare Unicorn Transformation?
+
+Accept / Reject]
+
+That name was slightly puzzling. I slammed the accept button anyway.
+
+I had neither expected the transformation to happen immediately, nor for it to be so different from the previous ones. This wasn't the instantaneous shift of the others; it was a slow and painful one. But painful in an exciting way, which was worrying in and of itself.
+
+Bones crackled as they twisted and grew. My balance shifted. Moments later, I stood there in my new shape. I twisted and turned to get a good look at it, but it was not something horses, or unicorns, were built for.
+
+What I could see was amazing, though. My coat was blacker than black, absorbing the surrounding light. My hooves glowed with purple spectral flames. I had a mana bar! Multiple Task Completions appeared.
+
+"Holy shit," Jamie said. "That's not the thing you fought just now."
+
+My UI informed me of a new ability.
+
+[Desecration of the Damned (Spell)
+
+Range: Touch (Horn)
+
+Effect: Increase the magnitude and duration of any active Debuffs on the target.
+
+Cost: 10 Mana
+
+Cooldown: 30 seconds]
+
+["Do I look badass?"] I asked in party chat.
+
+"Yeah, that's a word that could be used."
+
+["Is the purple glow only on the hooves?"]
+
+"Also on the horn and eyes."
+
+["Fuck yeah."]
+
+"The mane and tail are also a very dark red."
+
+["Told you this was the real reward. Hol' up."]
+
+I switched to guide chat.
+
+["This is just aesthetics, right? I am not literally evil for using this shape, am I?"]
+
+"Mhhhm," Gabriel confirmed. "But can you guess why I'm still disappointed in you?"
+
+The question knocked all of the excitement out of me. I had won this fight. She had told me to push to reach level 10. This asshole had judged me and I had won.
+
+And to achieve all this I had been incredibly reckless.
+
+["I've been an idiot and risked my life. Again. Because the Blessing taunted me exactly where it hurt."]
+
+Warmth mingled with disappointment in Gabriel's voice. "If only you had the foresight to see this before I have to ask. I held onto the hope that you'd abandon the fight."
+
+["Sorry, Gabriel. At least I secured insurance!"]
+
+And just like that the warmth gave way to icy cold. "Jamie cannot pull you back from death, Eve."
+
+["... Sorry."]
+
+"Less apologizing, more doing better."
+
+["Yes, ma'am."]
+
+Jamie observed the entire exchange patiently.
+
+"Got another earful, did you?" he asked.
+
+["Deservedly."]
+
+"Do we need a safe word? Something I can yell at you when you are going too far?"
+
+I gasped. ["Phrasing, Jamie. But—yes. If I'm being a reckless idiot, yell 'Hubris', okay?"]
+
+"Can do. Though I'd appreciate it if I never needed to do that."
+
+["I'll do my best."]
+
+"Personally," Lucy chimed in, "I think that was incredibly badass and cool. Judgemental assholes of the world should take note."
+
+If only Lucy wasn't the one person whose reassurance always came with that caveat. I had let myself get baited into this. When the Wyrm had done this, I was able to dismiss it as an evil actor playing mind games. But when the Blessing had put that same judgement into a shape with holy PR, I had fallen for it; hook, line, and sinker.
+
+Corruption didn't come with a status bar. It was being entirely reasonable, while forgetting what that meant.
+
+All I could do was hope that I'd spot the line, long before I crossed it.

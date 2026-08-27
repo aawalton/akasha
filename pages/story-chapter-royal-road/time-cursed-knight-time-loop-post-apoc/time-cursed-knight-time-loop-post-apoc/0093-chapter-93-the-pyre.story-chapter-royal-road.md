@@ -1,0 +1,297 @@
+---
+id: 9edceecb-5f6e-5bac-99e8-8c7d7ff7324d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 93: The Pyre"
+slug: 0093-chapter-93-the-pyre
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 93
+ownLength: 3531
+unit: words
+publishedAt: 2026-07-23
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3715923/chapter-93-the-pyre"
+royalRoadId: "3715923"
+---
+
+Augustin arrived at the workshop the following morning.
+
+The bell above Asena's door jangled in the gray predawn light while I was still crouched over the bench sanding a casing edge, and when I looked up, the former Imperial Comptroller of the Royal Finances was standing in the doorway with a leather portfolio under one arm and the expression of a man who had stayed up all night.
+
+He had changed his coat. The new one was not new. It was older, in fact, cut closer, more practical.
+
+"I said you had until the end of the week," I said.
+
+"I heard you." He crossed the threshold and set the portfolio on the nearest clear surface. "I spent last night doing the arithmetic you left on my desk. The production figures. The cost projections. The bottleneck analysis." He undid the portfolio's clasp and spread the contents. "You made three errors."
+
+I set down the casing. "Three."
+
+"The crystal procurement estimate assumes spot pricing. You'll burn through the Grade B supply in the capital's three largest houses within six weeks at the volume you're projecting, and after that the price moves against you. You need a forward contract with at least two suppliers before you scale past fifty units." He laid a sheet of figures beside mine. "Second, you've modeled labor as a linear function. It isn't. Each new hand you add to assembly requires supervision from someone who already knows the glyph architecture, and that supervision time comes out of Rolf's production hours. There's a ceiling. Around twelve hands, you hit it, and your per-unit output actually drops until the new workers reach competence."
+
+I looked at his numbers. They were right.
+
+"And the third?"
+
+"You have no entity." He said it the way a surgeon might say you have no heart. "No charter. No articles of formation. No registered name with the Imperial Trade Commission. Every contract you've signed so far has been between individual persons — you, your aunt, Herr Mercer. If one of you is arrested again, or dies, or simply walks away, the entire operation collapses into a tangle of personal debts and unenforceable obligations that would take a court three years to sort out." He straightened. "You need a legal body."
+
+I studied him.
+
+"You said you were retired," I said.
+
+"I was." He looked at the portfolio. "I find that I am no longer."
+
+He put out his hand.
+
+I took it.
+
+Augustin worked quietly, constantly, and with results that looked impossible until you looked back and saw how far we had moved.
+
+By the end of the first week he had the charter. A legal entity, properly registered.
+
+By the end of the second week he had the credit.
+
+I didn't know how. I didn't ask. He went to Kessler & Braun with our order ledger and our account balances and came back with a line of credit large enough to make Asena sit down when she heard the number. Whatever he had said to Herr Krause, whatever collateral he had pledged or promises he had made, the bank had decided that the Magi-Cooling was worth betting on.
+
+The workshop moved on the third day.
+
+Not far. Three streets east, into a building ten times the size. A former textile mill, two stories, with loading doors wide enough for carts and a floor of poured stone that could take the weight of heavy equipment. Asena stood in the center of the empty space on the first morning and turned a slow circle, and I watched her mouth move as she calculated bench positions and ventilation runs and storage without saying a word aloud.
+
+Then came the people.
+
+Augustin had a list. He'd drawn it up overnight. A dozen names. Young mages, most of them one or two Circles, graduates of the Academy's applied programs who had washed out of the competitive research tracks and were working guild bench jobs for wages that insulted their training. He offered them better.
+
+Not much better. Augustin was not a generous man with other people's money. But better enough, paired with the chance to work on the only genuinely new technology the capital had seen in a decade, and one by one they came through the loading doors and rolled up their sleeves.
+
+Rolf trained them. That was the thing I hadn't anticipated. The quiet, underfed researcher who'd spent four years in a forgotten corner of the Academy became, overnight, a teacher. He stood at the main bench with chalk on his fingers and showed them the recursive glyph loop, showed them the crystal interface, showed them the liquid-cooling architecture he had designed and redesigned and redesigned again. And the young mages, who were exactly hungry enough and exactly talented enough to absorb it, learned.
+
+Production doubled in the first week. Tripled in the second.
+
+By the end of the month, the queue board had been replaced three times. Each new slate filled faster than the last. Asena led two installation teams, one for the noble quarter, one for the merchant district, where the wealthy trading houses had caught wind of the device and were paying premium rates to have it before their competitors.
+
+I stopped tracking the account balance at Kessler & Braun. Augustin tracked it. He sat in a small office he'd carved out of a storage room on the second floor, surrounded by ledgers and correspondence, and every morning he produced a single sheet of paper with the numbers that mattered: revenue, costs, margin, outstanding orders, crystal inventory, cash on hand — and left it on my bench without comment. The numbers went up. They kept going up.
+
+Forty-seven commissions became a hundred. A hundred became two hundred. I stopped counting the commissions, too. That was Augustin's work, and Augustin did it better than I would have.
+
+I had my own work to do.
+
+It started as something I noticed in the mornings.
+
+The workshop ran through the nights. There was always someone at a bench, Rolf or one of the new hands or Asena calibrating a unit for the next day's installation. I stayed late most nights and slept on a cot in the mill's upper floor, because the alternative was the walk to Asena's apartment and the risk of losing two hours of production to the round trip.
+
+I didn't get tired.
+
+That was the first sign. The body should have been breaking down. I was sleeping four hours a night, sometimes three. I was on my feet for the rest of it, sanding casings, hauling crystal stock, lifting crates that the younger mages needed two people to move. The work was physical and relentless and I should have been staggering by the second week.
+
+I wasn't.
+
+My lungs pulled deeper. The mint-burn of Mana Breath, which I ran at idle through every waking hour, settled into the tissue with a smoothness that hadn't been there before the prison cell.
+
+Body Reforging, I thought, setting down a crate. It was some kind of permanent change to my body.
+
+Connective tissue denser. Tendons that flexed without complaining. Organ systems that processed food and air and mana with an efficiency that extended my endurance past anything I'd experienced since waking in this world.
+
+One night, around three in the morning, when the workshop was quiet except for the hum of a prototype running its quality cycle, I opened the grimoire.
+
+The pocket watch materialized in my palm. I willed it open and the translucent display bloomed in the air in front of me.
+
+Class Skills
+
+| Alchemy — Level 6 | | Reading — Level 5 | | Deception — Level 3 | The tale has been illicitly lifted; should you spot it on Amazon, report the violation.| Financial Analysis — Level 2 | | Horsemanship — Level 1 | | Magitek Assembly — Level 1 | | Animal Husbandry — Level 0 |
+
+I stared at the new line.
+
+Advanced Mana Perception.
+
+Mana Perception had been at Level 12 when the classroom phase ended. I'd used it constantly since. And somewhere in all of that the skill had crossed a threshold I couldn't pinpoint.
+
+The same threshold Amateur Swordsmanship had crossed to become Novice. The same one Breath had crossed to become Mana Breath.
+
+A tier evolution. Level reset.
+
+I closed my eyes and reached for it.
+
+The difference was immediate.
+
+Mana Perception had always been a fine sense — ambient fields, varying densities, the warmth of a human core versus the cold vacuum of dead stone. Advanced Mana Perception was something else. It was structural. I could feel the glyph lattice on the cooling prototype across the room, not as a blur of active mana but as individual channels, each one distinct, each one carrying a discrete thread of energy along a path I could trace. I could feel the crystal at its heart — the Grade B stone pulsing in a rhythm I recognized as the recursive loop.
+
+I could feel the mana in the walls. On the floor. In the timber beams overhead, mana-saturated old wood that had been part of a textile mill for decades and had absorbed enough ambient energy to register as a faint, persistent hum.
+
+I could feel the three people sleeping in the building. Two of the new hands on cots near the loading door, and Rolf behind his grinding bench, each one a constellation of cores and channels, each one distinct enough that I could have identified them blindfolded.
+
+Mana Breath had jumped to twenty-seven. Six levels in — what? A month and a half? Days on end at maximum throughput, nine cores feeding into lungs that had nothing to do but process the mana and push it further. The Body Reforging had happened because the tissue couldn't hold back anymore. It had been saturated past its threshold and rebuilt itself to hold more.
+
+And if I keep going?
+
+I didn't know. No one had ever walked this path.
+
+Endurance had climbed to seven. Pain Resistance to seven. Senses to nine. All of them pushed upward by the same sustained flood of mana.
+
+There was also a notification I couldn't explain.
+
+It had appeared once. In the cell. And then nothing. The Sins section still showed three — Gluttony, Sloth, Pride. Whatever Lust was, whatever it wanted, it had spoken once and gone quiet. The other Sins had come for clear reasons. Sloth for dying. Gluttony for wanting. Pride for refusing to let go. What had I done to draw the attention of Lust?
+
+Passion for power. That was what it had said. Not passion for pleasure, not desire for flesh. Power.
+
+Maybe that's what Lust sees, I thought. Not the soft kind of wanting. The hungry kind.
+
+I closed the grimoire.
+
+Two weeks into the workshop expansion, I tried to go back.
+
+The Iron Cross Investigation Division. I walked through the doors expecting to pick up where I'd left off.
+
+Katja was not at her desk. The duty officer, a woman I didn't recognize, looked at my emblem and my face and told me to wait. The waiting took forty minutes. When Katja finally appeared, she came down the corridor with a folder under her arm and an expression that suggested the folder contained something she'd rather set on fire.
+
+"You're late," she said.
+
+"I'm aware."
+
+"Three months late." She held the door of the briefing room open and jerked her chin. I went through. She followed and closed it behind her. "Your classmates finished the next phase two months ago. Henrik and Lena have been running active cases since the Sultanate. The other four are deployed across three sectors." She dropped the folder on the table. "You're behind."
+
+"The treason arrest—"
+
+"I know what happened." She cut me off without raising her voice. "I know what Elara did. I know what Varen did. I know what the Sultanate prince did. I've read every brief and every transcript and I know exactly why you spent a month in a hole instead of finishing your training." She pulled out a chair and sat. "None of that changes the fact that you are behind."
+
+I sat across from her and said nothing.
+
+Katja studied me.
+
+"The active caseload is beyond your current standing," she said. "Henrik and Lena are running intercepts along the eastern trade corridor. The cases they're working require three-person teams minimum and months of accumulated field intelligence. I can't slot you in without pulling someone out, and I won't pull someone out."
+
+"What can you give me?"
+
+She was quiet for a moment. Then she reached into the folder and drew out two case files. Thin ones. The kind of jackets that said the Investigation Division hadn't put significant resources into the matter yet.
+
+She set them side by side on the table.
+
+"Two cases," she said. "Both are close to the capital. Both flagged to us because the circumstances suggest a connection to the succession politics." She tapped the first jacket. "Start with this one."
+
+I pulled it toward me and opened it.
+
+The first page was a summary brief. Three incidents. Three noble households. Three fires.
+
+"The soldiers started calling him the Pyre," Katja said. "The press hasn't caught wind yet, which is the only reason I'm giving this to you instead of burying it in a drawer until someone with more experience comes around."
+
+I read down the page. Dates, locations, casualty counts. Three attacks in six weeks. Each one a noble residence within the capital. Each one ending in the same way, the occupants incinerated.
+
+"No connection between the households?" I asked.
+
+"None that we've found. Different houses, different districts, different circles of influence. The only pattern is the method and the fact that all three families were politically neutral." Katja leaned back. "They weren't backing Varen. They weren't backing Kasimir. They weren't backing Elara. They were sitting the succession out."
+
+"Which makes them a message."
+
+"Which makes them a message." She nodded once. "The question is from whom, and to whom. Pick the wrong one of those and you've got a crisis that makes your treason trial look like a tavern brawl."
+
+I closed the file and tucked it under my arm.
+
+"The other Knights-in-training are all deployed," Katja said. "Long-range operations. None of them are available for at least six weeks." She held my gaze. "You're going alone."
+
+"And if it gets hot?"
+
+"If it turns into a combat situation, you have authority to requisition soldiers from the garrison. Standard Iron Cross codes." Her mouth compressed. "But Kaspar — this is an investigation. Not a raid. What I need from you is evidence, not bodies. I need to know who is burning nobles alive in the capital and why. Bring me that."
+
+I stood. "I'll start today."
+
+"You'll start now." She didn't stand. "The third attack was four days ago. The scene is still sealed. The Royal Guard is handling perimeter security, and they've been doing their own forensics, which means you'll have to share the ground with people who think they've already solved it."
+
+The house was on Kirchgasse, in the low end of the noble quarter where the estates thinned out and the streets narrowed and the old money gave way to the newer, more precarious kind.
+
+Two stories. Red brick and timber frame, the plaster between the beams gone yellow with age. Iron window grates, copper guttering, a peaked roof with clay tiles. A modest house by noble standards.
+
+Half of it was black.
+
+The fire had taken the entire upper story and punched through the roof. That's not house-fire heat, I thought. That's spell heat. Concentrated and directed.
+
+The Royal Guard perimeter was tight. Eight soldiers stationed at the street corners and the front gate. A ninth stood at the door, what was left of the door, with a logbook.
+
+I walked up to the gate.
+
+The nearest soldier saw me coming and straightened. His eyes moved from my face to the Iron Cross emblem on my coat and back to my face — recognition hit first, then caution.
+
+"Herr Hexenzeit." He said it carefully, the way you say the name of something you're not sure is safe to touch. "We weren't informed that the Iron Cross was taking an interest."
+
+"The Investigation Division has been assigned the case." I held up the file jacket. "I'll need access to the interior."
+
+He hesitated. The Royal Guard didn't answer to the Iron Cross, and the Iron Cross didn't answer to the Royal Guard, and when the two jurisdictions collided, the collision produced some kind of bureaucratic friction.
+
+"I'll need to confirm with—"
+
+"Confirm whatever you need to confirm." I kept my voice level. "I'll be inside."
+
+I walked past him.
+
+He didn't stop me. A year ago he would have. Six months ago he might have. But a man who'd walked out of an Imperial treason trial and had two princes behind him carried a weight that didn't require rank insignia.
+
+Two soldiers fell in behind me at the door, one on either side, and they narrated as we moved through the ground floor.
+
+"The fire originated on the upper level," the first one said. He was older, a sergeant by the stripe on his sleeve. "The family was asleep. A couple and their son, twelve years old. There was a housekeeper and a cook in the servants' quarters at the rear of the ground floor — they survived. Everyone on the upper level was killed."
+
+The ground floor was intact, mostly. Smoke damage. Soot on the ceilings. Water stains from whatever the responders had used to douse the blaze. I let Advanced Mana Perception open as I walked, and the room came alive in a way the soldiers couldn't see.
+
+Mana traces everywhere.
+
+Layered. Overlapping. The residual signatures of spells cast in violence, still clinging to the walls and the floor and the air. I could feel the structure of them.
+
+"The forensic assessment concluded fire magic," the sergeant continued, leading me toward the stair. "Third or Fourth Circle. The intensity of the burns is consistent with sustained channeling over several minutes. The Royal Guard's forensic mage — Fourth Circle, twelve years in the division — conducted the primary analysis."
+
+We climbed.
+
+The upper level was gone. What the fire hadn't taken, the collapse had. I picked my way through charred timber and fallen plaster and the blackened remnants of what had once been a hallway, and the mana signatures grew stronger with every step.
+
+Then I stopped.
+
+The soldiers stopped behind me.
+
+I stood in what had been the master bedroom, or what was left of it. The walls were standing, barely. The floor was solid enough to hold my weight if I stayed near the support beams. The bed was a rectangle of ash.
+
+The mana was wrong.
+
+I felt it the moment I crossed the threshold. The fire signatures were there. But beneath them, threaded through the fire signatures, was something else.
+
+Ice.
+
+I knelt. Put my hand flat on the scorched floorboard. Closed my eyes.
+
+The traces separated.
+
+Fire had come first. A wide, sweeping attack.
+
+Then ice. Offensive ice, thin and precise, targeting whoever was at the entrance.
+
+Fire to kill. Ice as response.
+
+The sergeant was watching me. "Sir? Did you find something?"
+
+"Your forensic mage," I said, still crouching, still reading. "He identified the fire signatures."
+
+"Correct. Third or Fourth Circle fire magic. Clean work, he said. Professional."
+
+"Did he identify the ice?"
+
+A pause. "There was no ice noted in the report."
+
+I straightened.
+
+"Look close to the door." I crossed to it and pointed. The timber was charred, like everything else. But the char pattern was wrong. Thermal shock. The signature of extreme cold applied to a surface already heated past its tolerance.
+
+The sergeant leaned in and frowned. "That could be from the firefighting response. Water on a hot surface—"
+
+"Water magic doesn't leave mana traces like these." I moved to the door frame and found the same pattern.
+
+Professional, the Royal Guard mage had said. Clean work.
+
+He was right about that much. It was professional. But he'd missed something.
+
+"Your mage isn't wrong about the Circle estimation. The raw power output is consistent with a human caster at that level." I chose my next words with care. "But the pattern of execution isn't human."
+
+The sergeant's frown deepened. "Sir?"
+
+"A human fire mage builds from the Circle outward. The mana enters the matrix, runs through the framework, exits as flame." I paused. "Imperial doctrine. It's how we've built spells for hundreds of years."
+
+"And?"
+
+"And the fire in this room wasn't built that way."
+
+I crossed back to the center of the floor and knelt again, pressing both palms flat against the boards. "The mana didn't enter through a standard matrix," I said. "There's no foundation layer. No sequential channel construction. The mana was shaped directly — willed into form without an intermediate structure. The caster didn't build a spell. The caster created the spell."
+
+The second soldier shifted uncomfortably. "What does that mean?"
+
+"It means the casting pattern is elven."

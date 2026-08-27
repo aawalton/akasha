@@ -1,0 +1,309 @@
+---
+id: 6958f819-1f7c-5ad0-9e82-1bade37d1e47
+page-type-slug: story-chapter-royal-road
+title: "Chapter 35: Soup, Sleep, and Shadow Pay"
+slug: 0035-chapter-35-soup-sleep-and-shadow-pay
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 35
+ownLength: 1495
+unit: words
+publishedAt: 2025-09-22
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2620853/chapter-35-soup-sleep-and-shadow-pay"
+royalRoadId: "2620853"
+---
+
+PoV Luna
+
+The run back toward camp was proving very fun for Luna.
+
+Her paws pounded across roots and moss, her tongue flopped sideways, her tail wagged in the chaos.
+
+Yes, corrupted monsters were chasing them. Yes, their eyes glowed wrong and their blood fizzed tar.
+
+But most were slowpokes!
+
+A corrupted squirrel leapt from a branch, screeching with ugly froth in its teeth. It was aiming at Ray’s back. Luna snapped it up mid-stride.
+
+Crunch!
+
+Bleh. Sizzly. Tarry blood burned across her tongue. Still tasted like squirrel though. Weak meat. No challenge.
+
+Luna chewed fast, spat out the worst bits, and swallowed the rest.
+
+She took it out of the air with a proper Apex Predator plan of Bite and Chew tactics! Before it had any chance to do anything at all too!
+
+Her chest swelled with pride. Perfect execution.
+
+Perfect Luna!
+
+She glanced sideways, waiting for praise. Surely her Second had seen–
+
+But Syliana was busy. Her calm eyes focused forward, hands weaving sharp magic into the air. Spells flared bright and streaked backward, striking the nearest pursuers.
+
+Luna’s ears drooped at that. No praise.
+
+Shame.
+
+Her tail wagged anyway!
+
+She bounded happily beside her new-pack, weaving between their stumbling steps. Sepio, in particular, was comedy in motion. His shield flailed as he ran, his boots slipping, his sword lashing out awkwardly at the deer-thing that kept snapping at his side.
+
+His form looked less like a warrior and more like a log rolling downhill.
+
+Luna barked a laugh. Funny dum-dum!
+
+Meanwhile, Ray darted through trees, cutting down quicker beasties with swift, slick blades. Silent. Efficient. Squirrel-worthy, again.
+
+Luna’s ears perked at that display.
+
+Oh! She could help with that!
+
+Her eyes flashed gold. Her paws coiled.
+
+A corrupted rabbit lunged toward Ray’s leg.
+
+Too slow!
+
+Luna leapt first, jaws catching it mid-air. She twisted, landed with a skid, and tossed the broken body into a tree. Bark cracked. Blood hissed. Done.
+
+Another squirrel thing screeched above. Luna Shadow Stepped, blinking up the trunk. Her claws struck, tearing it free. She dropped it to the ground, bit twice, then bounded back to the running group without breaking stride.
+
+Sepio grunted, Syl’s spell sang, Ray cut, and Luna laughed through her panting.
+
+Yes!
+
+Running fights were fun! Hunting and fleeing all in one. Her pack moved, her prey fell, and spice-reward surely waited at the end.
+
+She wagged harder, her grin wide, every breath full of joy.
+
+So she did!
+
+Luna ran, and bit, and chewed, and clawed, her paws never slowing. Her motivation never waning. Fur and feathers and twitchy limbs flew in every direction! Each bite spelled victory, each claw strike another point for Apex Predator Luna!
+
+The rush of movement poured through her fur, filling her with joy.
+
+【Run Lv.7 → Lv.8】
+
+Her ears perked at the chime.
+
+Very fun! Very tasty level!
+
+Behind her, the bigger ones faded away. Their heavy steps couldn’t keep up with her pack’s speed. The slowpokes were left behind, groaning and flopping in the dark. No longer even visible from behind the trees.
+
+Syl’s magic crackled now and then, sharp bursts clearing away stragglers. Sepio grunted and shoved his shield into anything too close.
+
+As for Ray? Probably helping too. Hard to tell. Her eyes were partly blocked by the half-chewed rabbit hanging from her jaw!
+
+But she had confidence in her pack!
+
+They would do good!
+
+And if not, she would bite them on the butt until they did!
+
+The forest quieted as the chase thinned. Syl and Sepio slowed, breaths huffing loud, armor clinking heavy. Words followed, puffed and tangled, none of them important.
+
+Then Syl asked if she was alright.
+
+Ha!
+
+Luna barked, tail wagging proud.
+
+Obviously!
+
+Luna felt great. Not huffy, nor slow. Not dum-dum out of breath like them! Strong, hale, and full of energy!
+
+She yawned.
+
+Okay. Maybe a little sleepy.
+
+Then yawned again. Big. Wide. Long.
+
+Hmm.
+
+Maybe a lot sleepy.
+
+Her golden eyes blinked heavy, but her grin stayed wide. Surely the new-pack would let her nap when they reached camp.
+
+She had earned it! Had done her job perfectly.
+
+They would better pay her with soup and jerky too. Proper trade. Nap plus spice!
+
+She wobbled her ears and thought about it again. Soup first. Nap second. Or nap first, soup second? Difficult choice.
+
+Well. Either way, she had leveled. But that was bonus! Pure Luna effort.
+
+Didn’t count for trade!
+
+Her paws slowed with the rest of the pack. The forest dimmed. The danger quieted. Sleep tugged stronger than the chase.
+
+So she did the clever thing.
+
+Status Check!
+
+Glowy numbers filled her eyes. Stronger. Faster. Tougher. Proof of strength, proof of spice progress.
+
+Tasty progress!
+
+***
+
+Name: Luna
+
+Level: 3/10
+
+Race: Moon Wolf Pup (Tier 0)
+
+Gender: Female
+
+HP: 44/44
+
+SP: 29/46
+
+MP: 21/34
+
+Strength: 13
+
+Dexterity: 12
+
+Vitality: 12
+
+Intelligence: 12
+
+Willpower: 3
+
+Charisma: 4
+
+Luck: 1
+
+Active Skills:
+
+Strike Lv8
+
+Bite Lv11
+
+Jump Lv8
+
+Momentum Claw Lv8
+
+Run Lv8
+
+Shadowmeld Lv3
+
+Shadow Step Lv9
+
+Lunar Form Lv2
+
+Passive Skills:
+
+Beast Instincts (Lesser) Lv1
+
+Pain Resistance Lv2
+
+Poison Resistance (Minor) Lv1
+
+Devourer’s Right Lv1
+
+Traits:
+
+Beast Constitution
+
+Gluttonous Soul – 7%
+
+Effects:
+
+Craving (Unknown)
+
+***
+
+Her tail thumped once in victory. Her eyes studied the tasty words before her.
+
+Chomp.
+
+Drats.
+
+Still couldn’t bite the System!
+
+Then her nose twitched. The air shifted a little. Familiar scents filled the air with a little sweet and spice! They were back. Camp. Safe.
+
+Luna barked once, tail wagging.
+
+No answer. Only confused stares from the dum-dums.
+
+Then she barked again at her Second. She would get it, for sure!
+
+Got nothing but a confused stare.
+
+But silence equaled permission!
+
+Not waiting any more, Luna bounded over to the pile of bags near Syl’s things, circling twice before plopping down between moss and shadow and bag. The elf’s scent was steady there, calm and soft.
+
+Perfect nap-spot!
+
+One last wag, one last yawn.
+
+Then her head dropped onto her paws, and sleep took her.
+
+***
+
+PoV Syliana:
+
+Syliana lifted a brow as the silver pup barked at her, tail wagging with imperious demand – only to yawn so wide her tongue nearly flopped onto the ground.
+
+In the next heartbeat, Luna trotted straight to Syl’s pack, turned twice in the moss, and dropped into a nap.
+
+For a weird moment, Syl’s thoughts went straight to her jerky stash. She tensed, expecting wolf teeth to rummage through leather straps. But no. The pup only nestled close, muzzle resting on folded cloth, breathing already steady.
+
+Strange.
+
+Out of all the spots in camp, she chose Syl’s belongings.
+
+Suspicious, perhaps. But suspicion only curled into a private smile.
+
+The wolf had earned it.
+
+Syl let her be, turning back toward the rest of the party.
+
+They stood scattered, still catching their breath, armor clinking as they slumped into seats. Sepio in particular looked one gust of wind away from toppling over.
+
+“Well, Sepio,” Syl said, voice dry, “do you still plan on asking if the pup understands us now?”
+
+His mouth opened, then closed. No words came this time.
+
+That was answer enough. For now.
+
+The debrief began. Trianna and Veric, who had remained at camp, needed to hear every detail. What the wolf had shown them. The corruption spreading through the ruins. The hulking treant they had fought. And worse – the implication of more creatures stirring.
+
+The conclusion was simple: the corruption was worse than expected, but still within their means.
+
+Probably.
+
+Even with the treant destroyed, they had only touched the surface.
+
+Plans would be needed. Careful ones. Routes, timings, fallback positions. All for tomorrow.
+
+Syliana kept her calm smile in place as the talk circled grim possibilities. Scouting, at least, had succeeded. Their little wonder guide had done exactly what was asked, and more!
+
+Her gaze slipped back to her pack.
+
+There the wolf slept, curled tight, utterly at peace. Tail tip twitching once in a dream, ears relaxed, face soft. All that fire, all that chaos, every bark and bite, now melted into simple rest.
+
+Hard to believe it was the very same ball of energy she had come to know.
+
+Syl’s smile thinned into something more thoughtful. Tomorrow would bring its challenges. Tonight, she would allow the quiet.
+
+She shifted back to Sepio, who had finally lowered himself onto a log.
+
+“You doubted her the most,” she said lightly, though the edge in her tone was sharp. “So her pay should naturally come out of your jerky stash, don’t you think?”
+
+His eyes widened.
+
+“What–”
+
+“And,” she added smoothly, cutting off his protest, “it would serve as an apology. You do plan to apologize, yes? Hm?”
+
+Sepio deflated instantly, shoulders sagging under the weight of armor and shame.
+
+Justice, neat and tidy. How sweet it felt. And her needling had barely begun.
+
+Syl allowed herself one last quiet smile, tilting her head toward the sleeping pup.
+
+Let Sepio learn what just desserts meant.

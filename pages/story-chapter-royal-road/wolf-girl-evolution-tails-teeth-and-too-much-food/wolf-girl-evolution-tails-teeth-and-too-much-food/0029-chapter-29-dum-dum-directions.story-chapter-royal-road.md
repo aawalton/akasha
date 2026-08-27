@@ -1,0 +1,221 @@
+---
+id: 2a7f3075-4e4c-5915-b47b-5968da5db543
+page-type-slug: story-chapter-royal-road
+title: "Chapter 29: Dum Dum Directions"
+slug: 0029-chapter-29-dum-dum-directions
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 29
+ownLength: 1288
+unit: words
+publishedAt: 2025-09-16
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2605535/chapter-29-dum-dum-directions"
+royalRoadId: "2605535"
+---
+
+PoV Luna:
+
+Luna’s ears twitched at the crinkle of dried meat. A strip of jerky – small, far too small – was pressed into her waiting paw. She snapped it up in a flash, chewed noisily, and narrowed her eyes at Syliana.
+
+Tiny.
+
+Mean? No. The elf’s scent was calm, thoughtful, not a hint of spite in it.
+
+But still tiny!
+
+Luna huffed through her nose, chewing with exaggerated slowness.
+
+Jerky was jerky. And she could be patient.
+
+Apex Predator patient!
+
+That’s what Luna needed.
+
+Hold tongue. Chew slow. Resist the urge to gobble every scrap and nose through their packs for the rest!
+
+Syliana’s voice drifted steady beside her. Soft tones, measured words, every phrase careful as if carved from bark.
+
+Luna called it rambling!
+
+No meat in it. Not even a little bite. Still, jerky came with it, and jerky made everything bearable.
+
+Another piece touched her paw. Wag. Chew. Narrow eyes fixed on the elf again.
+
+Then Syliana the elf waved toward the others, introducing them all.
+
+The rest of the two-leg pack had gathered close to the fire, boots scuffing, armor clinking. Their scents mixed with smoke and spice, layered in odd ways that made Luna’s nose twitch. And now, all together, they raised their strange paws and waved them at her.
+
+Luna tilted her head. Ears perked. Tail gave one confused thump.
+
+What was this weird gesture?
+
+She studied her own paw, dark pads scarred with dirt and sap. Then glanced back at them, still waggling their flat hands in the air.
+
+Pitiful display.
+
+But they were soft-skins, and soft-skins seemed fragile in the head. Best not to shame them further!
+
+So she lifted her paw high and presented it with utmost dignity.
+
+Polite. Proper. Proof of pack leadership!
+
+The humans froze, hands half-raised, faces blinking like startled owls. Their eyes slid toward one another in bafflement before returning to her again.
+
+Luna resisted the urge to bark at them for being so easily impressed.
+
+Really, what would they even do without her?
+
+She even hunted for them!
+
+At least they could make soup and jerky! So Luna forgave the silly! And even Luna had to admit the soft-skins were quite clever!
+
+Her tail thumped twice in magnanimous mercy.
+
+Syliana’s voice hummed on, introducing each one in turn. Names were offered, soft and short.
+
+Not predator names, but names still. She caught them and tested them against her tongue. Sepio the leader, Ray the rogue, Trianna the archer, and Veric the swordsman?
+
+Not Apex Predator names, but names still!
+
+It was kind of... nice.
+
+Luna squinted at each one again, trying to remember their smells and names together.
+
+Soft-skins were strange. But clever in their own silly way.
+
+She tucked each name-scent pairing away in her mind with great importance.
+
+The jerky helped her remember. A bite for a name. Chew for a scent. Swallow, and it was hers forever!
+
+Her tongue darted across her nose, savoring the salt still clinging to her teeth. She puffed her chest, golden eyes gleaming.
+
+Yes. They could stay.
+
+They had earned Luna’s temporary forgiveness!
+
+And maybe, if they kept feeding her jerky, her permanent one too.
+
+Syliana’s words rolled smooth and steady, a river of meanings that kept spilling toward Luna’s ears.
+
+Luna was already chewing again, the next strip of jerky snapped down with relish. Each bite soaked up a bit more patience.
+
+“Corruption,” Syl said, voice low, hand resting on her knee. “It spreads. Places turn dangerous. People like us set out to cleanse them before they become too big of a problem.”
+
+Another piece of jerky came her way. She accepted it instantly, eyes bright, tail thumping.
+
+Chew. Crunch. Wag.
+
+Right! Corruption!
+
+Her mind snapped to Mireback, that awful stink still caught in memory. Splinter taste in her teeth. Wrong bark in her ears. She almost growled at the memory.
+
+Luna’s eyes darted toward the humans gathered nearby. None of them flinched. None of them caught the scent. Not even a twitch.
+
+Useless noses! They couldn’t even smell the fat piggy she had brought earlier, would they even find the smelly ogre if it were any more smelly?
+
+Luna doubted it!
+
+They were terrible hunters. Blind. Weak-snouted. Pitiful.
+
+But... they were a little strong. If they wanted to take down that big ugly corrupt thing.
+
+And Luna didn't want to lead them anywhere close to where the fight happened.
+
+To where her mom was.
+
+To where the pups were.
+
+Her ears pinned back. She swallowed hard.
+
+Her mom’s fur brushed her mind, warm and steady. The tiny paws of pups scrambling across her back. She could not risk these strange two-legs stumbling into that ground.
+
+But her chest burned with the same thought that always returned. Revenge. Mireback’s roar crashing through the trees. The broken bodies it left behind. The stink of pack blood.
+
+Luna wanted bite. She wanted payback. Her tail lashed once against the dirt.
+
+A plan took shape. It wagged in her ribs.
+
+She needed to show them the way! But to show them the way she needed to find the way far from the pack!
+
+Her tongue flicked over her chops, jerky salt still clinging there.
+
+Yes. A clever path. A detour.
+
+Her head lifted, eyes catching Syliana’s again. The elf’s words had slowed, her tone curious, her gaze steady.
+
+“You understand, don’t you?” Syl murmured.
+
+Luna gave her best smug look, chewing one last bite with deliberate pride. Of course she understood. More than they did!
+
+Her tail wagged once, then twice.
+
+Yes. She would show them the way.
+
+Her way.
+
+And the path would not lead anywhere near her mother.
+
+Luna barked sharp, cutting through Syliana’s soft rambling voice.
+
+Words, words, always words! The elf-lady liked to drizzle them out forever.
+
+Useless!
+
+Action was better. Fun was better. Spice was best!
+
+Her tail flicked, golden eyes gleaming. She was going to show the way. Clever Luna way. But how to explain this to dum-dums who had no proper ears or tails?
+
+Her head gave a little wobble, ears folding.
+
+Awoo, her head hurt!
+
+Better to just do!
+
+So she turned, trotting two steps away from the fire with tail held high in command. Her paws pressed into dirt with purpose. Look! Leading! Guide Luna in action!
+
+But soft steps followed behind her. The elf’s calm scent drifted closer. Syl was following.
+
+Luna spun, barked loud.
+
+“No! You stay!”
+
+Syl stopped mid-step, hands open. Brows arched.
+
+Yes!
+
+She spun back around and strutted forward again, proud.
+
+…And Syl followed?!
+
+No! Silly elf, you stay!
+
+She barked at her, again.
+
+The elf froze again, lips pressing thin, eyes thoughtful.
+
+Yes! Yes, good Syl! Clever Syl who learned!
+
+…It took a few repeats of that before Luna managed to get the point across.
+
+She would go! Syl would stay! And Luna had to promise that she would be back soon, to lead them the right way!
+
+“Yes. Good Syl. You stay. Luna go.”
+
+The elf crouched low, and spoke of promises and trust, her tone carrying that same brushing-fur patience. Luna tilted her head, ears flicking. Could not chew all the words, but the intent was meat enough.
+
+Fine. Luna promised with her tail. Wag once, firm and proud. Luna go. Luna return. Simple. Strong.
+
+...Or at least she hoped the elf lady understood that.
+
+How could one be so wolf-strong and Luna-smart at one moment, but so human-silly at others?!
+
+Mysteries! The world was full of them.
+
+But that was fine.
+
+It was time.
+
+She launched forward, shadow licking at her paws. The forest greeted her stride, roots bending, leaves parting, scents rushing fast into her nose.
+
+Yes. That was the way. Luna’s way.
+
+And she would be back.

@@ -1,0 +1,415 @@
+---
+id: 42c63d8c-6fdd-52b7-a2cf-7abfa1284016
+page-type-slug: story-chapter-royal-road
+title: "Chapter 27: Training"
+slug: 0027-chapter-27-training
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 27
+ownLength: 3991
+unit: words
+publishedAt: 2026-04-24
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3315078/chapter-27-training"
+royalRoadId: "3315078"
+---
+
+Roen was the first to react.
+
+"How the hell would you train?" he asked, his brow furrowing beneath the scarred dome of his skull. His eyes dropped pointedly to my bound wrists. "You can barely scratch your nose."
+
+Ghost and Brandt watched me without interrupting.
+
+I didn't look at the ropes.
+
+I looked at the three of them, one at a time, and forced myself to speak the way I'd learned to speak during the loops.
+
+"Let me be straightforward about where I stand," I said. "I used to carry a sword, but I can't last more than five minutes in a real fight before my lungs give out and my arms turn to dead weight. My technique is amateur at best. My strength is pathetic. I have no conditioning, no endurance, no foundation."
+
+"Even if we reach the capital tomorrow," I continued, "as I am right now, I'd be useless to you. Whatever evaluation you're planning, I probably won't pass it."
+
+I let that sit.
+
+Brandt's jaw shifted. The corner of his mouth twitched, just barely.
+
+Ghost gave a small nod.
+
+Whether it meant he agreed with my self-assessment or simply believed I wouldn't pass, I couldn't tell. Both interpretations led to the same place.
+
+"Most of my life was spent studying," I added. "If your evaluation includes a written component, I might have a chance. Maybe. But I doubt that's all it is."
+
+Roen snorted.
+
+"Writing?" he said. "Knights don't spend much time worrying about writing."
+
+He flexed one hand, cracking knuckles that sounded like snapping twigs.
+
+"If it doesn't swing, stab, or bleed, it's not really our area."
+
+"Then I need to get better at the things that swing, stab, and bleed," I said. "I have seven days to do it."
+
+I straightened on the bench. The ropes bit into my wrists, but I kept my hands still.
+
+"Three training blocks," I said. "Every day until we arrive."
+
+I'd thought about this during the fight. While watching Brandt through the window slit.
+
+"Mornings," I began. "I run alongside the carriage. On foot. The full morning march, or as much of it as my body can handle before it collapses."
+
+Brandt's eyebrow rose.
+
+"You'd slow us down," he said.
+
+"I would," I admitted. "But not by much. The horses aren't galloping. A steady trot is manageable, at least for the first hour. When I fall behind, I'll join you on the carriage." "Afternoons," I continued. "Whenever we stop, I train strength. Rocks, logs, whatever's available. Bodyweight exercises if nothing else. Push my muscles to failure and then push past it."
+
+Roen's eyes lit with something I could only describe as professional interest.
+
+"Then," I said, "once I've recovered enough to stand, I want to spar."
+
+The word landed differently than the rest.
+
+Brandt's gaze sharpened.
+
+Ghost's head tilted by a fraction.
+
+"With some of you," I clarified, though they'd already understood.
+
+Brandt leaned forward, his steel hand resting on the pommel of his bastard sword.
+
+"To spar," he said slowly, "you'd need your hands free."
+
+I held up my bound wrists.
+
+"I could fight like this," I said. "But it wouldn't teach me much. I can't grip a weapon properly. The training would be worthless."
+
+"You're asking us to untie you," Ghost said.
+
+"I'm asking you to let me train," I corrected. "The untying is a prerequisite."
+
+Ghost's pale eyes didn't blink.
+
+I pushed forward before the silence could harden into refusal.
+
+"There are five of you," I said. "I spar with one. The other four watch. If I run, four Knights chase me across open terrain with horses and carriages at their disposal."
+
+I paused.
+
+"How far do you think I'd get?"
+
+Nobody answered, because the answer was obvious.
+
+"If I run," I continued, letting my voice flatten into the cold, transactional register I'd heard Ghost use, "you catch me. And if you catch me, you don't have to believe another word I say. Tie me to the roof. Leave me there until we reach the capital. I won't argue. I won't complain."
+
+Brandt looked at Roen.
+
+Roen shrugged his enormous shoulders.
+
+"I like him," Roen said simply.
+
+Brandt's mouth twitched again. That almost-smile. He turned toward Ghost.
+
+Ghost hadn't moved.
+
+He stood with his arms crossed, his pale gaze fixed on me.
+
+Several seconds crawled past.
+
+"Fine," Ghost said. "I agree. But understand something."
+
+He stepped forward.
+
+"If you try to run," Ghost said, and his voice was barely above a whisper, "I won't just catch you. I will beat you so thoroughly, so comprehensively, so creatively, that you will spend the remainder of this journey wishing the elves had finished the job."
+
+His pale eyes held mine.
+
+"You will beg for the mercy of the blade that went through your chest. You will dream about it fondly. The memory of being stabbed through the lung will feel like a warm bath compared to what I will do to your body."
+
+He let the words settle.
+
+"Are we clear?"
+
+I raised my bound hands in a gesture of surrender. Palms up. Fingers spread.
+
+"Crystal clear," I said. "When do we start?"
+
+I shouldn't have asked that.
+
+The bucket hit me before dawn.
+
+Cold water.
+
+I came off the carriage floor gasping, water streaming from my hair and running down my neck into my collar.
+
+"Morning," Roen said.
+
+I opened my mouth. A sound came out that wasn't a word.
+
+"Up," He said. "You run."
+
+They tied a rope to my waist.
+
+The other end went to the rear axle of the second carriage. Not short enough to drag me if I fell, but not long enough to let me slack.
+
+The whip cracked. The horses moved.
+
+I ran. Or tried to.
+
+It was already the third day we’d kept up that pace. I had nothing left to squeeze out of myself.
+
+My legs felt like they'd been filled with wet sand. The first hundred meters were a stumbling, graceless jog that sent jolts of pain through my ankles and knees. My lungs protested immediately, each breath a raw scrape against the inside of my chest.
+
+The carriages didn't slow down.
+
+We had finally left the ruined city yesterday and returned to the open fields.
+
+The road scrolled beneath my boots at a pace that felt manageable for exactly four minutes. Then the burn arrived. Calves first. Thighs, right after. Then the deep, suffocating pressure in my lungs that said stop, stop, you're going to die.
+
+I didn't stop. I was not afraid to die.
+
+I ran until my vision narrowed to a tunnel. Until sweat poured into my eyes so fast I couldn't blink it clear. Until my legs turned to rubber and the ground came up to meet my face and I ate a mouthful of packed earth.
+
+The rope dragged me three meters before Roen called the halt.
+
+I lay in the dust, chest heaving, hands clawed into the dirt, trying to remember what breathing felt like when it didn't hurt.
+
+Roen appeared above me.
+
+"Twelve minutes," he announced, tapping a small magic-watch he'd produced from somewhere. "Not terrible. You're improving"
+
+I tried to respond. What came out was a wheeze.
+
+"We'll work on it," he said, and walked away.
+
+The only mercy was the monsters.
+
+When something emerged from the brush, the Knights would halt the carriages and engage. Those brief, violent interludes were the only moments my body was allowed to rest.
+
+I sat in the dust, chest heaving, and watched.
+
+Every encounter was different.
+
+The first morning, a pack of wolves emerged from the treeline. Not natural wolves. These were wrong in ways I couldn't have imagined before arriving in this world. Their fur was patchy, revealing skin beneath that was scaled rather than smooth. Their eyes glowed with a green light. Their jaws were distended, hinged too wide, packed with teeth that grew in layered rows.
+
+Brandt killed four before the rest scattered.
+
+The second day, wild dogs. Leaner than the wolves, faster, with elongated limbs that gave them an insectile quality when they ran. They attacked in a coordinated rush, hitting from three angles.
+
+Ghost handled those. He moved between them like smoke, his blade appearing and disappearing from sight so quickly that the dogs seemed to simply fall apart mid-stride.
+
+The third day, a creature that defied easy classification. The size of a horse, with the body of a boar and three heads that swung independently on thick, muscular necks. Each head had its own set of tusks, curved and yellowed, long as my forearm. It charged the lead carriage with a scream that came from all three throats at once.
+
+Roen stepped into its path.
+
+He didn't dodge. He planted his feet, raised the iron slab, and swung.
+
+The impact was the loudest thing I'd ever heard that wasn't magic. The creature's momentum carried it forward even as Roen's blade caught it across the junction of its necks. It skidded across the road in a shower of dust and gore, leaving a wet trench in the packed earth.
+
+Roen turned around and walked back to the carriage without comment.
+
+I watched every fight.
+
+Each one was a lesson I couldn't afford to miss.
+
+The second kind of mercy came when we crossed paths with other travelers.The first time it happened, I almost missed it. My face was in the dirt. Roen had called a halt to my exercises mid-set and I'd collapsed onto the roadside with the grace of a dropped sack of potatos.The sound reached me before the sight did. The creak of axles under heavy loads. The jingle of harness fittings and the low murmur of voices approaching from the north.I pushed myself up onto my elbows.A caravan emerged from the tree line. Three wagons, canvas-covered, drawn by draft horses. Armed men walked alongside the lead wagon."Who are they?" I asked Roen, who was standing over me with his arms crossed in his usual supervisory posture."Traders," Roen said. "Running supplies to the front. Weapons. Provisions. Alchemical goods. Anything the garrison can't produce locally."For a muscle-bound brute whose primary intellectual pursuit seemed to be inventing new ways to make me suffer, Roen knew this world with a depth that continually surprised me."Why are we only seeing them now?" I pressed. Not out of genuine curiosity. Out of the desperate wish to stretch this pause. "The route to the capital should be well-traveled. Heavy traffic."Roen's eyes narrowed. He wasn't stupid. He knew exactly what I was doing.But he answered anyway."We don't take the same routes they do." He jerked his chin toward the merchant caravan. "They loop wide. Circle around the towns, stick to the cleared roads where the garrison patrols keep the wildlife thin. It's safer, but slow and boring."He looked down at me with a grin that belonged on a predator."We cut through the middle. Through the high-density zones where the mana concentration pulls every mutated thing with teeth and claws."Of course we did.A few minutes of negotiation followed. Brandt walked to the lead wagon and spoke with someone inside the canvas cover. Coins changed hands. Words I couldn't hear were exchanged.Then the caravan moved on, its wheels churning fresh ruts in the road, and the sound of it faded into the southern trees.Brandt approached.He carried a heavy brown sack in one hand. He didn't bring it to me. He brought it to Roen and dropped it into the larger man's arms without ceremony."What is it?" I asked."The solution to our problem." Brandt reached into the sack and withdrew two glass vials. The liquid in the first was dark, almost black, with a viscous consistency that clung to the glass as it tilted. The second vial held something amber and oily.Brandt uncorked the first vial.Before I could react or form the word *wait*, he upended it over my head.Cold liquid hit my scalp. The smell was sharp and chemical. It seeped into my hair and settled against my skin with a tingling sensation that intensified as it spread."Rub it in," Brandt said. No explanation or preamble.I rubbed.My fingers worked the liquid through my hair, coating every strand."Got lucky," Roen said. He was watching my head. "They were going to shave it all off if the caravan hadn't had an alchemist."I didn't know what was happening until I caught my reflection.One of the polished steel pauldrons hanging from the carriage's weapon rack served as a crude mirror. Distorted, warped at the edges, but clear enough.My hair was black.The white was gone. Every strand had been dyed a deep, uniform black. I touched it. The strands felt the same. A little stiffer from the solution, maybe, but otherwise normal."Should hold for a few months," Ghost said. His voice came from somewhere behind the carriage. "Once the roots grow in, you'll have white tips showing through. By then, you'd better be out of the capital."I examined the reflection for another moment."And the other vial?" I asked, turning back to Brandt.The answer was written across Roen's face in letters ten feet tall. The man's grin had widened past the boundaries of what any reasonable human expression should accommodate."Stimulant," Roen said, already closing the distance between us. "And healer. Military grade. The kind they give soldiers before a forced march."He held the amber vial up between two fingers."I want to see those twelve minutes become an hour."He shoved the vial toward my mouth.If it was possible for something to taste like petroleum, this potion achieved it.
+
+The afternoons were Roen's domain.
+
+He approached physical conditioning the way an engineer approached bridge construction. With an intimate understanding of load-bearing structures and breaking points.
+
+"Pick it up," he'd say, pointing at a boulder.
+
+The boulder would always be slightly larger than whatever I'd lifted the day before.
+
+"Now carry it."
+
+"Where?"
+
+"Until I say stop."
+
+I carried rocks until my shoulders seized. I lifted logs until my spine compressed. I did push-ups against the side of the carriage until my arms shook so violently I couldn't hold a cup of water.
+
+Roen watched every repetition.
+
+He counted each one aloud, his voice a metronome that never wavered. When I faltered, he didn't shout. He simply said the number again.
+
+"Thirty-seven."
+
+My arms buckled. My chest hit the ground.
+
+"Thirty-seven," Roen repeated.
+
+I pushed myself up.
+
+"Thirty-seven."
+
+I held. Barely.
+
+"Thirty-eight."
+
+Then came the sparring.
+
+Each evening, one of the five was chosen. Roen produced five stones from his pocket, each marked with a different scratch, and shook them in his fist before dropping one into his open palm.
+
+When the stone matched Brandt or Ghost or Roen himself, I knew the next twenty minutes would be a masterclass in pain and suffering.
+
+Brandt fought like a wall. Every cut I threw met his bastard sword at exactly the right angle, deflected with the minimal effort required, and then his counterattack cought me. He didn't teach through words. He taught through repetition. The same combination would punish me until I learned to see it coming. Then a new combination replaced it.
+
+Ghost was worse.
+
+He didn't hit hard. He didn't need to. His blade appeared where mine wasn't, touched me with the lightest pressure, and withdrew before I could react. A tap on the wrist. A whisper across the ribs. A kiss on the inner thigh where the artery ran.
+
+Each touch was a death he'd chosen not to deliver.
+
+"You're broadcasting," he'd say, his voice flat. "Your shoulders move before your sword. I can read your next attack from three steps away."
+
+"How do I fix it?"
+
+"Stop having shoulders."
+
+Roen was the simplest and the most terrifying.
+
+He swung the iron slab at half speed, and even at half speed, blocking it felt like trying to stop a falling tree with a broomstick. The training sword they'd given me, a blunted steel bar with a wrapped grip, vibrated so violently after each parry that I lost feeling in my fingers for minutes at a time.
+
+But there were mercies.
+
+Small ones.
+
+When the stone fell on Konrad, the beatings eased.
+
+Konrad was the quieter of the two younger Knights. He stood about my height, though his frame carried more natural bulk. He wore a full suit of plate armor, well-maintained and polished. A longsword hung at his side in a scabbard tooled with a crest I didn't recognize. Noble blood. The kind that came with expectations heavy enough to bend a spine.
+
+His fighting was precise. Technically correct. Every stance textbook-perfect, every cut delivered along the prescribed angle.
+
+Yet his eyes were wrong.
+
+They carried a weight that had nothing to do with combat. A dullness. He fought competently but without fire, like a man going through motions he'd been taught to perform.
+
+He was better than me. Significantly so. But the gap wasn't the chasm that separated me from Brandt or the abyss that separated me from Ghost. Against Konrad, I could last. I could think. I could try things and survive the failure long enough to understand why they'd failed.
+
+There was also Idris.
+
+Idris wore armor that looked like it had been assembled from five different sets looted from five different battlefields. A pauldron of dark iron on the left shoulder. A vambrace of tooled leather on the right arm. A breastplate of light steel, dented and scratched, that covered his torso but left his sides partially exposed. Greaves that didn't quite match.
+
+His sword was curved. The steel had been folded enough times that the surface showed a faint pattern.
+
+He smiled constantly. A genuine, irrepressible grin that seemed to exist independently of whatever was happening around him. He smiled when he ate. He smiled when he slept, or at least when he was falling asleep. He smiled when Roen made him carry rocks.
+
+He smiled widest when he fought.
+
+Idris was fast. Lighter on his feet than anyone else in the group, including Ghost. Where Ghost's speed came from economy, from eliminating wasted motion, Idris's speed came from something more chaotic. He bounced. He feinted. He threw attacks from angles that shouldn't have been possible.
+
+"Watch him," Ghost had told me on the third night, his voice carrying the grudging respect of one predator acknowledging another. "He was sent to the Iron Cross after robbing more than half the noble houses in the capital. He's very, very good."
+
+Idris had overheard. His grin widened.
+
+"I prefer the term consumer of unnecessary wealth," he called over.
+
+Ghost ignored him.
+
+"He's light. Too light. His hits don't carry the weight. Against armored opponents, he'll struggle. But his footwork and his timing are exceptional. Learn from that, even when he's beating you."
+
+He was right.
+
+Fighting Idris was like trying to catch smoke. By the time my brain processed where he was, he was somewhere else, and his curved blade was tapping the back of my neck.
+
+When Konrad's stone was drawn, I walked away bruised.
+
+When Idris's stone was drawn, I walked away humiliated.
+
+When any of the other three were drawn, I crawled.
+
+The journey that should have taken no more than ten days was now in its twentieth when the road widened.
+
+The packed earth gave way to stone paving, broad and smooth. We had gone through several sections where remnants of the old civilization’s engineering still stood, but this was the first that seemed to show any sign of habitation.
+
+The ancient city didn't end. It transformed.
+
+Gradually, and then all at once, the ruins stopped being ruins.
+
+The crumbling facades gave way to walls that had been rebuilt. Repaired. Reinforced with new stone laid over old concrete, new timber framing the gaps where ancient structures had collapsed. Rooftops that had been open to the sky were sealed again, some with traditional slate, others with canvas stretched over wooden frames.
+
+People appeared.
+
+First a few. Then hundreds. Then thousands.
+
+The road became a thoroughfare. Carts and foot traffic shared the paving stones with the carriages.
+
+I pressed my face to the window slit and tried to take in everything at once.
+
+The city of Silberwald had been built on the bones of the old world.
+
+I could see it everywhere. The bones showed through.
+
+A modern shop, its wooden facade painted in cheerful colors, had been built into the ground floor of what was unmistakably a concrete parking garage. A tavern occupied the shell of a structure whose steel beams still jutted from the upper stories. A row of residential homes, timber-framed and thatched, sat inside the vast footprint of what had once been a warehouse.
+
+Yet, the bones of the city were no longer just concrete. Copper, steel, and iron spread in every direction. Pipes ran from house to house, venting thin plumes of smoke into the air. Magi-glow was everywhere. Lining the streets in small posts and glowing softly within homes.
+
+Some carriages moved without horses. They resembled cars, yet had no drivers. Built of wood, they emitted faint traces of mana as they moved.
+
+High walls rose around the city's outer edge. Thick stone and mortar, reinforced with runes. Watchtowers at intervals. Guard posts at the gates.
+
+Above it all, impossibly, an island.
+
+It floated in the sky like a dream. A mass of earth and stone, suspended among the clouds with no visible support. From below, I could see the underside, a ragged surface of rock and hanging roots.
+
+My breath stopped.
+
+The island drifted like a cloud.
+
+"What is that?" I whispered.
+
+Nobody answered.
+
+The carriages rounded a broad curve in the road, and the city opened before us. The terrain sloped downward toward a bay that stretched to the horizon. Blue water, calm and vast, dotted with the shapes of vessels.
+
+On the high ground above the bay, dominating the skyline, a building.
+
+A complex. A sprawling mass of towers and halls and courtyards that covered the upper quarter of the city. Spires rose from its roofline.
+
+Roen leaned toward the window slit on his side, his massive frame blocking most of the view.
+
+"There it is," he said, pointing with one enormous finger. "The Imperial Magic Academy of Silberwald."
+
+A sharp crack echoed through the carriage.
+
+Ghost's open palm connected with the back of Roen's skull hard enough to make the big man's head jerk forward.
+
+"He already knows what the Academy looks like," Ghost said, his tone carrying the particular exhaustion of someone who had corrected this error before. "He was enrolled there. Before we requisitioned him."
+
+Roen rubbed the back of his head.
+
+"Oh," he said. "Right."
+
+His expression suggested the information had entered one ear, paused briefly to admire the scenery, and departed through the other.
+
+I said nothing.
+
+The truth was, I had never seen the Academy.
+
+The building above the city was magnificent.
+
+Somewhere inside those white walls were libraries. Thousands of books. Grimoires. Records. Histories that could explain everything I still didn't understand about this world, about the portals, about the Eleven Sins, about whatever had destroyed the civilization.
+
+But we didn't go up.
+
+The carriages turned left at the next junction, away from the Academy's gleaming heights.
+
+We descended.
+
+The road curved toward the bay. The air grew heavier, carrying salt and fish.
+
+We passed through a gate in a secondary wall. Guards waved the carriages through without inspection.
+
+The road narrowed. Then widened again, opening into a broad plaza that fronted the bay.
+
+There, at the edge of the water, it stood.
+
+The structure was oval. Massive. Built from stone blocks the color of dried blood, stacked in tiers that rose five stories high. Arched entrances punctuated the ground level at regular intervals, each one tall enough to admit a mounted rider.
+
+From inside, even from this distance, sound poured out.
+
+Cheering. Shouting. The rhythmic stomping of feet that made the ground vibrate beneath the carriage wheels.
+
+The carriages stopped.
+
+Brandt rose from the bench.
+
+"Welcome to the Coliseum," he said.

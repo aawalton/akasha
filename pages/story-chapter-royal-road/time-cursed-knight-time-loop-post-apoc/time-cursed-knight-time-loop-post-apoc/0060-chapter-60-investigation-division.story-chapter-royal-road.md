@@ -1,0 +1,301 @@
+---
+id: 2eaccf58-5439-5096-b134-127eab707591
+page-type-slug: story-chapter-royal-road
+title: "Chapter 60: Investigation Division"
+slug: 0060-chapter-60-investigation-division
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 60
+ownLength: 2793
+unit: words
+publishedAt: 2026-06-08
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3510690/chapter-60-investigation-division"
+royalRoadId: "3510690"
+---
+
+The silence that followed Varen's announcement was absolute.
+
+Baron Kessler performed a retreat so rapid it might have been funny under different circumstances. The aggressive posture collapsed. The lifted chin descended.
+
+Lady Voss was smoother. Her expression shifted by degrees rather than in a single collapse, the transition from attack to neutrality occurring with practiced grace.
+
+Around them, the ring of watchers reshuffled. Bodies that had been leaning inward with the attention of spectators at a blood sport now straightened, stepped back, created distance between themselves and the two nobles who had, moments ago, been attempting to dismantle me in public.
+
+The vultures dispersed.
+
+Within sixty seconds, the pocket of hostile energy that had surrounded me dissolved into the broader current of the celebration, its constituent parts drifting toward safer waters.
+
+Kessler was the first to leave. He offered a bow that was technically correct and emotionally vacant, murmured something about needing to speak with an associate.
+
+Voss lingered a moment longer. Her eyes met mine. Whatever she saw in my face, it didn't comfort her. She inclined her head with a precision that gave nothing, and followed Kessler into the crowd.
+
+Varen watched them go. His expression betrayed nothing, but satisfaction radiated from him.
+
+He turned to me.
+
+"Cousin," he said.
+
+The word cut through the remaining murmur like a blade.
+
+Cousin.
+
+Heads turned. A dozen conversations within earshot stuttered and died. The word wasn't loud. Varen hadn't raised his voice.
+
+The implication detonated.
+
+Calling me cousin in an empty room, or even in front of his followers, was one thing. Doing it among the rich and powerful of the Empire was something else entirely.
+
+Cousin placed me within the royal bloodline's orbit. Not by any formal claim or legal status, but by the simple mathematics of noble genealogy. The Hexenzeit line and the Imperial line had intermarried twice in the past three centuries. By making that connection public, in a hall filled with every political instrument in the Empire, Varen had drawn a line in the air between the Crown and my name.
+
+From the few memories I had of Kaspar, and from my conversations with the officers, I knew this was something unique.
+
+It added a new player to the battle for the throne, however distant my claim might be.
+
+I sighed.
+
+To everyone there, it might have looked like a show of support. Still, it was also a division of targets.
+
+Before, the target had been solely on Varen’s back, tied to his struggle against his siblings.
+
+Now, a target had appeared on mine as well.
+
+And any prince who wanted to keep the Empire within his grasp would have to deal with me too.
+
+I met his eyes. He held my gaze for a beat longer than necessary, ensuring that whatever silent communication passed between us was noted by the surrounding observers.
+
+Then he smiled.
+
+"Walk with me," he said.
+
+For the next three hours, I was bait.
+
+He brought me beside him, positioned at his right shoulder, included in every exchange with a naturalness that made it seem as if we'd been doing this for years.
+
+The nobles he targeted were not the great houses.
+
+Kessler and Voss represented Elara's inner circle, the capital's established power brokers, and Varen didn't waste another second on them. Kasimir's faction, the ghosts at the periphery, received nothing more than a distant nod.
+
+Instead, Varen worked the margins.
+
+The lords and ladies of the interior provinces. Minor houses whose territories lay far from the capital's orbit but whose collective influence, when aggregated, could shift the balance of any vote in the Imperial Council. Timber barons from the northeastern forests. Mining lords from the western highlands. Administrators of river towns and crossroad villages whose names never appeared in the Chronicle's pages but whose taxes funded the roads and bridges that held the Empire together.
+
+These were the people the great houses forgot about. The ones who attended the capital's celebrations because protocol demanded it, who stood in corners nursing drinks that cost a month of their subjects' wages.
+
+Varen invited them.
+
+"Baron Heimler," Varen said, stopping before a heavy-set man whose provincial cut and sun-darkened face marked him as someone who spent more time in his fields than in drawing rooms. "I understand your district's bridge repairs were delayed again this season. The Ministry of Infrastructure's budget allocation was redirected to the coastal fortifications, if I recall correctly."
+
+Heimler blinked. The expression of a man who had not expected a prince to know the status of his bridge repairs.
+
+"Your Highness," he managed. "That's... yes. That's correct. The eastern crossing has been out of service since the spring floods. We've been petitioning for—"
+
+"I've read your petition." Varen gestured toward me with an ease that was almost casual. "You know my cousin Kaspar, of course. The Hero of Grenzheim."
+
+"Of course. Of course." Heimler's hand found mine. His grip was calloused and strong, the handshake of a man who still knew how to hold a shovel. "An honor. Truly."
+
+Varen let the pleasantries settle. Then he leaned closer.
+
+"Baron, the Iron Cross has been discussing the possibility of expanding patrol circuits into the interior provinces. Your district sits on a major trade route that has, if my information is correct, seen a significant increase in bandit activity over the past two years."
+
+Heimler's face changed. The polite deference sharpened into something more immediate. More invested.
+
+"Significant is one word for it, Your Highness. Catastrophic is another. We've lost three merchant convoys in the past season alone. The garrison can't spare—"
+
+"I know." Varen nodded. "The garrison's resources are committed to the town and some to the front. Which is precisely why the Iron Cross is positioning itself to fill the gap."
+
+He let the implication build.
+
+"A standing patrol presence in the interior. Knights assigned to specific circuits, responsible for maintaining order in areas the regular military can't reach. In exchange, the districts that benefit would provide the standard contribution: supplies, housing, and a modest allocation of personnel to supply our Knights."
+
+Heimler's eyes moved from Varen to me and back.
+
+"That sounds," Heimler said slowly, "like exactly what we've been asking for."
+
+"It is." Varen extended his hand. "We'll discuss the details through the proper channels. But I wanted you to hear it from me first."
+
+They shook. Heimler walked away with the particular stride of a man who'd come to a party expecting nothing and leaving with something he could actually use.
+
+This pattern repeated. A dozen times. Two dozen.
+
+Each interaction followed the same architecture. Varen identified a need. Acknowledged the failure of existing institutions to meet it. Presented the Iron Cross as the solution. Introduced me as living proof that the Iron Cross produced results.
+
+And each time, the noble's eyes would find the Iron Cross emblem on my chest and the white hair above it and the scars that traced my face and arms, and whatever skepticism they carried about the program would soften by a degree.
+
+I was the proof. The evidence made flesh.
+
+The other princes didn't come.
+
+Their absence was its own statement. Kasimir's refusal to attend meant he wasn't ready to acknowledge the Iron Cross's success publicly, but neither was he willing to oppose it. Political neutrality expressed through an empty chair.
+
+Elara's absence was louder. Her faction had sent Kessler and Voss as proxies, attack dogs dispatched to test the perimeter while the princess herself remained above the fray.
+
+The Emperor was not mentioned. His absence was simply the natural state of things. The Emperor didn't attend commendation ceremonies. The Emperor existed at a remove from the daily machinery of court that made his physical presence at any event below the level of a state crisis an impossibility.
+
+Varen had the floor to himself. And he used every inch of it.
+
+The string ensemble had stopped playing hours ago. The servants had cleared the tables and extinguished half the chandeliers. The Great Hall, which had held hundreds at its peak, now echoed with the footsteps of a handful of stragglers and the distant sound of staff dismantling the buffet.
+
+I stood at the base of the staircase where the evening had begun.
+
+Varen emerged from a side corridor. His jacket was unbuttoned. The sash had been removed at some point during the final hour.
+
+Behind him, Major Brauer and Captain Falke.
+
+The four of us stood in the emptied hall.
+
+"You held up well," Varen said. "Better than I expected."
+
+"Thank you for the intervention with Kessler."
+
+"Kessler is a tool. He does what Elara points him at. The damage he could have done tonight was minimal, but the perception of damage is sometimes worse than the damage itself. It needed to be cut short."
+
+He gestured toward a pair of chairs near the hall's eastern wall, where a low table still held a carafe of water and two glasses that the staff had overlooked. We sat. Brauer and Falke took positions at a distance that was far enough for privacy and close enough for protection.
+
+I poured water for both of us. Varen took his glass but didn't drink.
+
+"The Knight Formation School," I said. "Tell me what it actually is."
+
+Varen's eyebrows rose by a fraction. Not at the question itself—he'd anticipated it—but at the directness with which it had been delivered. The ballroom version of Kaspar, the one who had nodded and deflected and kept his face still for three hours, had been set aside.
+
+"It's not a school," Varen said. "Not in the traditional sense. The Academy is a school. Four years of structured curriculum, examinations, a graduating class. The Knight Formation School is something we built because we needed a mechanism that didn't exist."
+
+He set the glass on the table.
+
+"In the Iron Cross, a Knight is any soldier who reaches officer grade. The rank carries authority, autonomy, and the Crown's endorsement to operate independently within defined parameters. Until recently, the path to Knighthood was informal. A soldier distinguished himself on the front, accumulated commendations, demonstrated leadership capability, and was eventually promoted by his commanding officer."
+
+"Wendt's authority."
+
+"Exactly. Field promotions. Effective, but inconsistent. The quality of Knights varied enormously depending on who was doing the promoting and what criteria they applied. Some commanders produced excellent officers. Others produced warm bodies with titles."
+
+He leaned back.
+
+"The Formation School standardizes the process. A candidate enters the program and undergoes training specific to the function they've been assigned. The training period is one year. At the end, the candidate receives their commission and their posting."
+
+"What functions?" I asked.
+
+"War. Patrol. Investigation."
+
+He counted them on his fingers.
+
+"War is straightforward. Commanders. Strategists. The officers who lead battalions and hold front lines. Wendt is War. The officers who command the trenches, the bunkers, the garrison fortifications—all War. Their training focuses on large-scale tactical operations."
+
+He extended the second finger.
+
+"Patrol. Mobile response. Knights assigned to circuits that cover the territories the regular army can't reach. Interior provinces, border regions, trade routes. They move constantly. Where a crisis emerges—bandit activity, monster incursions, local disputes that exceed a village militia's capacity—a Patrol Knight is dispatched to resolve it."
+
+The third finger.
+
+"Investigation. The function I've assigned to you."
+
+I held his gaze.
+
+"Why not War?"
+
+The question wasn't a challenge. I needed to understand the reasoning behind the placement before I could evaluate whether it served my interests or only his.
+
+"You're too valuable to bury on a front line."
+
+His voice dropped.
+
+"If I send you back to the south, you become another officer. A good one. Perhaps an exceptional one. You hold a section of trench. You train recruits. You earn promotions that take years and produce results that are invisible to everyone outside the military command structure."
+
+He picked up the glass. Turned it between his fingers.
+
+"You will disappear. The name that's on every front page in the Empire right now fades. The momentum we built tonight, all of it dissipates. Within six months, Kaspar von Hexenzeit is a footnote. A story people remember vaguely. Wasn't there a Bastard who did something at the front? What was his name?"
+
+He set the glass down without drinking.
+
+"I can't afford that. The Iron Cross can't afford that. Everything we're building, the expansion into the interior, the political legitimacy, the argument that non-magical soldiers have value beyond cannon fodder, it all depends on a symbol that the public can see."
+
+His eyes found mine.
+
+"You are that symbol. And symbols don't fight in trenches. Symbols stand where people can see them."
+
+I let the words settle. Turned them over. Examined them the way I'd examined the chess pieces that morning.
+
+He wasn't wrong.
+
+The logic was sound.
+
+Investigation meant cases. Cases meant results. Results meant stories. Stories meant the Chronicle's front page and the public's attention and the political capital that Varen could convert into influence, funding, expansion.
+
+And, if I was honest with myself, there was nothing pulling me south.
+
+Grenzheim would stand without me. Wendt would hold the line. Thom would rebuild what could be rebuilt. The front was a machine, and machines didn't depend on any single component.
+
+The people I'd fought for were safe, or as safe as anyone could be in a world at war.
+
+"Investigation. I see," I said.
+
+Varen's chin dipped by a fraction.
+
+"You mentioned the interior provinces," I said. "The patrol circuits. Is that why you spent the evening cultivating the minor houses?"
+
+Varen's mouth curved. Not quite a smile. Something closer to the expression of a chess player whose opponent has just recognized the opening three moves after it was deployed.
+
+"Partly." He glanced toward Brauer and Falke, who stood at their positions like statues that happened to breathe. "The regular army is stretched thin. Every garrison in the Empire has been drawn down to feed the southern front. The interior provinces are functionally unprotected. Monster incursions that would have been handled by a garrison patrol ten years ago are now left to village militias who can barely use a First Circle spell."
+
+He spread his hands.
+
+"The nobility in those regions is desperate. They've been petitioning the Crown for military support for years, and the Crown's response has been consistent: the front takes priority. Which is true. The front does take priority. But the people in the interior don't care about strategic priorities when a pack of iron-tusk boars is destroying their fields and killing their livestock."
+
+He leaned forward.
+
+"The Iron Cross offers a solution. Knights who can be deployed to the interior without drawing resources from the front. A separate force, non-magic, independent of the army's chain of command, answerable to the Crown through my authority."
+
+"The minor nobles provide housing, supplies, and personnel in exchange for protection," I said. "The Iron Cross gets a footprint in the interior. You get political alliances that bypass the great houses entirely."
+
+Varen's eyes glinted.
+
+"The great houses control the capital," he said. "They control the Imperial Council. They control the Academy. They control every institution that sits within these walls. Kasimir and Elara fight over them because they believe the capital is where power lives."
+
+He paused.
+
+"They're wrong. Power lives where the people are. And the people are in the interior."
+
+Silence held between us.
+
+"When do I start?" I asked.
+
+Varen stood.
+
+"The Knight Formation School's training program begins in three weeks. One year of instruction. You'll train alongside other candidates."
+
+He reached into the interior pocket of his jacket. Produced a leather portfolio, slim and dark, secured with a cord that bore a small Iron Cross seal in brass.
+
+He held it out to me.
+
+"But before the training begins, you rest. You've earned that, and I won't have you burning out before the program starts."
+
+I took the portfolio.
+
+"However," Varen continued, "I want you thinking. Use the rest period to prepare. Read what's inside. Absorb it. Even during training, each candidate will take part in active missions, whether patrols, wartime operations, or investigations. This will be your first case."
+
+His eyes held mine.
+
+"I want something big, Kaspar. Something that keeps the Iron Cross in the public eye."
+
+He stepped back. Buttoned his jacket.
+
+"Don't disappoint me, cousin."
+
+Varen turned. Brauer and Falke fell in at his flanks.
+
+I watched them go.
+
+The hall settled into silence.
+
+I sat in the quiet for a long time.
+
+Then opened the portfolio.
+
+The first page bore the Iron Cross seal at the top center. Below it, in bold type:
+
+⌜ IRON CROSS — CLASSIFIED ⌝
+
+⌜ INVESTIGATION DIVISION ⌝
+
+⌜ Case File: IC-INV-0047 ⌝
+
+⌜ Subject: Narcotics Trafficking ⌝
+
+⌜ Priority: HIGH ⌝

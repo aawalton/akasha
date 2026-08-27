@@ -1,0 +1,145 @@
+---
+id: ad0ff9e0-4978-50b2-869e-85d5d5b9004c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 31: Apple Crumble Improvised"
+slug: 0031-chapter-31-apple-crumble-improvised
+partOf: underworld-bread-mage-yuri-progfan-slice-of-life
+position: 31
+ownLength: 1628
+unit: words
+publishedAt: 2026-08-22
+link: "https://www.royalroad.com/fiction/179650/underworld-bread-mage-yuri-lit-rpg-slice-of-life/chapter/3848017/chapter-31-apple-crumble-improvised"
+royalRoadId: "3848017"
+---
+
+Under the branches of the blue apple tree, the two young women refired their old strategy. Marina stood atop Mellie’s shoulders, desperately reaching for the last apple she needed for her dessert. Apple crumble isn’t exactly what she would consider a common bakery item, though most of the time, when she would crave something similar in taste, an apple fritter is her go-to. But even with the likelihood of having no impact on her leveling process, she still wanted to have some fun with her meals and show off her skills.
+
+Conquering the last few inches between her fingertips and the fruit, Marina snatched it from the branch. “Got it!”
+
+“Hold up, Miss Marina.” Mellie took a few steps back, allowing Marina to climb down safely.
+
+“One, two, three, four, five, six…” She murmured. “Should be more than what we need.”
+
+Heading back inside, Marina began rinsing the basket of blue apples. At this point, Mellie’s lab was split into two after she forced Mellie to organize the behemoth of a mess. After carefully scrubbing every apple with her hands, Marina peeled the skin with a small knife. Their white crystalline flesh is similar to that of a snow pear, which, in a sense, meant that Marina wasn’t exactly making an apple crumble, but rather, a pear crumble.
+
+As she diced the apples into bite-sized cubes, a magnificent problem struck the depths of her mind like a bolt of lightning. “Mellie, I have a weird question.”
+
+“Yes, Miss Marina?”
+
+“You have an oven, right?”
+
+“No, I do not.” Mellie said, “Do you need one?”
+
+Well, shit. Marina froze. How the hell am I going to improvise this? “Mellie, is it possible for you to build an oven?”
+
+“I can try, but it’s going to take a while.” Mellie returned her attention to the pile of herbs. “Do we absolutely need an oven?”
+
+“In terms of cooking, no.” Moving the diced apples onto a plate, Marina wiped down the cutting board with a cloth. “But in terms of baking, yes.”
+
+“So complicated…” Mellie murmured. “How does anyone find this to be fun?”
+
+“Well, fun is subjective. I still remember when I first started,” Marina turned around. “I would mess up even the easiest task of one recipe. Like I couldn’t even beat an egg to the right consistency with a handheld mixer!” She giggled, “But you know, I just kept on trying and improving, and continued to fail, but just a little less.”
+
+“And you don’t find that frustrating at all?” Mellie raised a brow.
+
+“I do, and burnt cakes taste pretty terrible. But that is just the process of figuring things out, and I love it because it’s not something that I can do for my day job.” Marina leaned against the table. “The world taught me that I have to be the best I can be at any given moment, follow all these made-up rules, and it’s really boring. In baking, I can do all the weird and unconventional things, break all the baking rules, and ruin my cake, cuz who cares? I’m having fun. That’s all that matters, hehe.”
+
+“Is that what city life is like?” Mellie paused. “Being controlled by rules all the time?”
+
+“Not sure about anywhere else, but where I came from does feel that way.” Marina nodded. “Oh, sorry, this is getting a little too heavy. Why don’t we try to make that dessert now?”
+
+“Sure, yeah, can we do without an oven?” Mellie brushed off the hint of disappointment on her face.
+
+“I will figure that out as we go, I guess.” Placing a pot on the coil of Everflame crystals, Marina reached for the matchbox. “Is there a way to turn down the heat on this thing?”
+
+“Yeah, just remove like half of the crystals from the coil, and then the energy shared between them will be lowered,” Mellie explained.
+
+“I guess I will just remove like half?” Marina plucked the red crystals from their sockets before lighting them with a match. “Hopefully the heat is low enough…”
+
+Into the cold pot, she lowered the plate of diced apples along with a few tablespoons of cinnamon-infused honey, stirring vigorously to fold the two ingredients together. But as the heat picked up, the issues with her improvised method became apparent.
+
+The honey was added too early.
+
+Marina removed the pot from the fire immediately, trying her best to prevent the honey from burning. “Mellie, I need you to grab me the plate of butter and a cup of water, asap!”
+
+“On it.” Rushing to the icebox, Mellie grabbed the plate of cold butter and a cup of water from a wooden jar. “Here, Miss Marina, what happened?”
+
+“I messed up.” Marina sighed. “Haven’t made this in a long time, forgot the order of things.” After adding a dash of water, the mixture loosened up just so slightly. “Typically speaking, you won’t cook this in a pot. Normally, you would just toss everything into an oven.” She continued to stir, melting in a tiny nub of cold butter to prevent sticking and add some extra glossiness.
+
+Back onto the stove, the apples are now cooking at a much steadier pace. Marina exhaled in relief as she began to ponder the other half of this dish. The crumble. Oftentimes, it’s a component that was spread on top of the apple layer, so it could crisp up in the oven, but with the absence of an oven, this simple component became the most difficult one.
+
+A caramelized hue developed on the surface of the apple chunks. Stirring the bottom of the pot once more, Marina tested the doneness with the tip of her wooden spoon. Just a few more minutes.
+
+The only way to get a similar texture would be to cook it on its own. Marina stared at the steaming pot, permeating a fresh scent of fruity sweetness. Which means I will have to toast the flour… I really hope pollen is truly the replacement and won’t backfire on me.
+
+After one last stir, Marina divided the caramelized apples into two plates. She gave the pot a quick rinse, wiping it dry for the upcoming challenge.
+
+“Oooh, is it done, Miss Marina?” Mellie could not take her eyes off the two plates. “Smells really good.”
+
+“It is half done because it’s got the apple, but nothing is crumbling yet.” Scooping around a cup of pollen powder into a bowl, she sealed the jar shut. “I’m about to do something that is very tedious, and I’m hating on the idea already.”
+
+“What is it?” Mellie lifted the jar back to where it was.
+
+“You’ll find out soon enough.” Dropping a few nubs of butter into the pollen, Marina began to incorporate the two together. She rubbed the butter against the pollen, forming a breadcrumb-like texture after kneading for a few minutes.
+
+With the pot now back on the flame, Marina poured in the crumble mixture for a quick toast. This process is both quick and punishing. If the heat was too low, the pollen would still be raw, and if the heat was too high, it would burn. Marina knew this better than anyone else in the room and concentrated all of her attention on the sizzling pot. Scraping through the pollen, she tossed it for a more even cook. The crumble layer was coming along nicely, shining with a golden brown color, and once again filling the room with a pleasant fragrance.
+
+Blowing out the crystals, Marina removed the pot from the table, layering the warm, crispy crumbs atop the soft caramelized apples. It was finished. Right before her eyes, a black screen opened into existence.
+
+──────────────
+
+A Dessert Has Been Completed!
+
+Dessert Completion [EXP+]
+
+Innovation Bonus [EXP+]
+
+<Accept>
+
+──────────────
+
+“What the f–” Marina held in her urge to curse at the floating screen. No baking was even involved in this, and yet I got EXP for that? Without further complaints, she accepted the rewards.
+
+──────────────
+
+You Have Gained a Level!
+
+Rank 3 [Peasant] → Rank 4 [Peasant]
+
+New Techniques Unlocked!
+
+<Close>
+
+──────────────
+
+──────────────
+
+Class Bonuses Increased!
+
+Bread Mutation Chance: +0.25%
+
+Dough Kneading Precision: +5%
+
+Dough Kneading Speed: +5%
+
+<Accept>
+
+──────────────
+
+So even without making bread, I could still level up just by making random desserts? She pondered as she closed the pop-ups.  And what about repeating the same dessert? Would I get the same or less?
+
+Shaking the thoughts from her mind, she dragged herself to the table with a plate in hand. “Alright, Mellie, let’s eat.”
+
+“Are you alright, Miss Marina?”
+
+“I’m fine, but I’ve just learned to never take an oven for granted again.” She fell back into the seat.
+
+“Oh, sorry…” Mellie sat next to her. “I will get working on an oven tomorrow.”
+
+“No, don’t worry about it. Have a taste before it gets cold,” Marina said as she stuffed a spoonful into her mouth. Damn. Her eyes widened as she chewed. Maybe this is worth the hassle after all.
+
+“It is delicious, Miss Marina. The apples are very soft, and I have never thought pollen powder could have this sort of texture.”
+
+“Somehow, everything ended up working out nicely. There is still room for improvement, but good enough for a weekday lunch.” Taking another bite, Marina savored the flavors closely; she felt as if something was missing.
+
+This dish was scuffed without a doubt, but it was delicious, and most importantly, it was fun. And that was all that mattered to her. But recently, she felt dissatisfied with only creating her own happiness; she wanted to please someone else, make someone else happy, too. She glanced at the empty chair to her right, at what was missing from the canvas of flavors, a fiery spice of crimson.

@@ -1,0 +1,325 @@
+---
+id: a0aa0c4b-b082-5318-8d12-2facf1346c8b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 65: Swamps, Skills, and Running on Repeat"
+slug: 0065-chapter-65-swamps-skills-and-running-on-repeat
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 65
+ownLength: 1617
+unit: words
+publishedAt: 2025-11-03
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2729658/chapter-65-swamps-skills-and-running-on-repeat"
+royalRoadId: "2729658"
+---
+
+PoV Luna
+
+The shimmer broke mid-stride.
+
+Fur flowed over skin, tail puffed full, and balance snapped back into place.
+
+“Back to fluffy!” Luna declared proudly. “Luna better this way.”
+
+The familiar bog stretched before her, a patchwork of green water and thick moss.
+
+The morning air dripped with wet leaf scent, frogsong, and the soft promise of breakfast. Her paws splashed crescent trails through shallow puddles as she loped forward, the rhythm of her run steady and smooth.
+
+Running always felt right.
+
+No thinking.
+
+No math.
+
+No dum-dum reports or strategy talks.
+
+Just her, her paws, and the earth darting away under her!
+
+But then her Second’s voice drifted through her head again, soft and annoyingly wise. “If you want to understand your skills, ask the System.”
+
+Fine. Luna could do that. Asking didn’t hurt. Probably.
+
+“System! What Run do?” she barked aloud, slowing to a trot.
+
+The shimmer returned, floating text bright and smug in the air.
+
+【Run Lv.11】 【Move with feral momentum. Speed increased by +55%. Stamina cost slightly reduced.】
+
+Luna squinted.
+
+“Blah blah percent. Run fast, yes. Luna knows.”
+
+She waved a paw through the glowing letters until they vanished in a puff of light.
+
+“System needs smaller words.”
+
+Then another thought struck.
+
+“And what Jump do?”
+
+The shimmer blinked again.
+
+【Jump Lv.8】 【Launch yourself with greater force. Height and distance increased by +40%. Fall damage slightly reduced.】
+
+“Same-same!” Luna said, unimpressed. “Boring skill!”
+
+She padded through the swamp, half-listening to the frogs, half glaring at invisible menus.
+
+“System, show Luna all skills!”
+
+It obeyed.
+
+【Strike Lv.10】 【Deliver a fast claw strike. Damage +50%. Slight chance to stun or stagger prey.】
+
+【Bite Lv.13】 【Sink your teeth into prey with greater force. Deal +65% increased damage. Slight chance to cause bleed against small enemies.】
+
+Luna yawned wide enough to swallow a mosquito.
+
+“All bite, strike, jump, run same! Move fast, bite hard, win food.”
+
+A frog croaked nearby – loud, confident, wrong.
+
+【Enemy Identified: Mudspitter Toad】
+
+Her ears twitched.
+
+The sound came again.
+
+Luna turned.
+
+Shadow-stepped close.
+
+She leapt with nary a thought, paws splashing mud. Her teeth snapped shut around its throat.
+
+Crunch.
+
+The force of the slam and the strong bite made a previously troublesome enemy into just another chew on the road.
+
+Luna padded onward, tail wagging slow, savoring the faint taste of frog.
+
+She had no intention of eating the rest of it.
+
+The frogs were now weak meat!
+
+The mud sucked softly at her paws. Somewhere ahead, a bird trilled, and the wind brushed through tall reeds.
+
+Skills. Numbers. Fancy words. All of it boiled down to one truth:
+
+Run fast. Bite better. Repeat.
+
+That was what mattered!
+
+The forest agreed with her – buzzing, croaking, alive.
+
+Luna licked her muzzle clean and broke into another sprint, laughter echoing across the bog.
+
+Yet as Luna looked onto the rest…
+
+The importanter skills?
+
+Those made Luna’s tail wag!
+
+She stopped beside a half-fallen tree, its bark slick with moss and the smell of damp rot. Morning fog hugged the roots. Perfect testing ground.
+
+And looked at the skill again.
+
+【Momentum Claw Lv.8】 【Convert motion into impact. Each step builds stored force, released on strike, limited by max speed. Base increase per step: +8% damage. Momentum from other factors increases damage at a significantly reduced rate.】
+
+Luna’s eyes lit up.
+
+“Ooooh. More run = more bite!”
+
+She trotted back a few steps, crouched low, tail wagging. Then – run!
+
+Mud sprayed behind her. Air whipped her fur flat.
+
+One. Two. Three. Five steps in!
+
+“Momentum Claw!”
+
+Impact.
+
+Wood split with a crack that echoed through the bog. Bark flew in every direction, spraying across her muzzle and into the moss.
+
+She pulled her paw back and admired the crater left in the trunk. Her claws buzzed faintly, still tingling with heat.
+
+“Importanter!” she declared proudly, shaking splinters from her fur.
+
+Next test!
+
+【Shadow Step Lv.10】 【Instantly shift through the nearby shadows. Range and precision increases with proficiency. Grants minor control over the shadows.】 【Current range: 5m.】
+
+“Blinky step!” Luna grinned. “Very nice!”
+
+It was her favorite!
+
+Luna glanced around. Sunlight striped the trees, cutting shadows across the mud. Easy.
+
+She crouched, blinked once – and vanished.
+
+A heartbeat later, she reappeared behind a stump, tail wagging fast enough to blur.
+
+“Ha! Blink-wolf best wolf!”
+
+The world shimmered faintly again.
+
+【Shadowmeld Lv.6】 【The shadows blend around you, and you blend into the shadows. Grants a limited control over the process. You become 30% harder to spot. Conceals heat and scent. Movement weakens effect.】
+
+“Ah, the sneaky one,” she said, lowering her voice dramatically.
+
+She took a deep breath and focused. Her fur rippled silver, then melted into the shade until even her tail disappeared.
+
+The world grew softer around her, quieter.
+
+The frogs didn’t stop croaking, but they were less loud now. The birdsong felt muted and less chirpy.
+
+Luna’s grin widened, though no one could see it.
+
+“Importanter-est.”
+
+She prowled forward, invisible but very proud, slipping through patches of sunlight and gloom until she reached the broken log again. A few sparks of mana shimmered off her fur when she dropped the skill, light blooming around her like spilled moonlight.
+
+The System said nothing. It never did until it wanted to be mean.
+
+Which was a little weird, but if it wanted to be mean?
+
+Then Luna would bite it for the insult!
+
+Even if the System panels were light and slippery now, she would bite it!
+
+Eventually!
+
+After all, Luna had to defend her title of smartest, sneakiest, strongest wolf!
+
+And she was confident in her win!
+
+System meanie thoughts put aside, Luna pawed on forward.
+
+The swamp waited for her – as did her other old haunts and half-forgotten hunts.
+
+Luna ran through it in bounding leaps, mud splattering up her legs, reeds whipping past her fur.
+
+The world smelled alive again: rot and spice and wet air thick with croak and hiss.
+
+The frogs came first. Always the frogs.
+
+They popped from the muck, fat, big, spitting stuff.
+
+Luna avoided that stuff.
+
+Never gonna hit this wolf, nuh uh!
+
+And all of them were just so loud and stupid!
+
+So easy to find, chew, and from the shadows jump.
+
+Snap.
+
+Crunch.【Bite Lv. 13 → Lv. 14】
+
+A few more crunches later, Luna spat out a leg and grinned.
+
+“Yucky. But still crunchy!”
+
+Next she found a nest at the edge of the bog. With big fat, mean-looking and eyes-shining rats!
+
+【Enemy Identified: Sludge Rat】
+
+【Enemy Identified: Sludge Broodling Rat】
+
+【Enemy Identified: Spitvenom Rat】
+
+All scurrying across shallow pools. Three at once. Big rats.
+
+Yet all even smaller than Luna!
+
+One pounce, one strike, a bite and chew later – and she was done.
+
+So weak.
+
+So disappointing.
+
+Luna was not gonna eat them!
+
+Instead she bounced on ahead. Exploring the rest of the bog she only ran at the edges of before.
+
+And not long after, zigzagging between the boring frogs – not worth biting anymore – she found new prey!
+
+【Enemy Identified: Mossbacked Snapping Turtle】
+
+The lumbering turtle was a giant… Compared to a frog.
+
+Luna had seen bigger!
+
+And it moved oh-so-slow. Though it had a mean-looking jaw!
+
+Still, to Luna’s Shadow Step and bite neck tactics it fell all the same.
+
+“Still too weak,” Luna muttered, chewing and swallowing her bite, her tail swishing in annoyance. “Bog got lazy.”
+
+So she decided to run away from it, for a time.
+
+And soon, Luna noticed a thin trail of smoke drifting ahead, curling over the forest.
+
+The air shifted – hot, sharp, metallic. Her nose twitched.
+
+Oh no.
+
+The forest opened ahead, dark, burned, and smoking. Inside, a long, flaming coil slithered through the burned underbush.
+
+【Enemy Identified: Embercoil, Lesser Ash Serpent】
+
+Yep, the very same burny thing she remembered!
+
+It hissed, the flames along its back spitting and crackling.
+
+Luna squinted. Her whiskers singed at the tips.
+
+“Nope! Luna not biting that.”
+
+A good Apex Predator learned from experience – and recognized when a hunt would result in burnt tongue!
+
+So Luna circled wide, slinking low around it.
+
+Then sprinted ahead, back to the bog.
+
+Soon, her paws sank deep into the mud, rippling the surface with each slow step. A shimmer rolled across her fur as she melted into the swamp’s gloom.
+
+The fire worm hissed in frustration when her scent vanished.
+
+Luna grinned in the dark.
+
+“Too slow. Too spicy.”
+
+She slipped deeper into the mist, the heat fading behind her until the air turned cool and heavy.
+
+The ground softened further, then disappeared. Water rose around her paws – dark, lazy river water, smelling thick of fish and old silt.
+
+Now this was good hunting ground.
+
+She followed the current upstream, ears twitching to every ripple, every dart beneath the surface.
+
+Tiny wakes brushed her legs – silver flashes of movement, fast and nervous.
+
+The stream split ahead, three silver tongues under the dim light. Her reflection shimmered between them, wolf-shaped and proud, dark against the glow.
+
+She leaned closer. Her grin stretched wide.
+
+Paws dug into the mud. Muscles tightened.
+
+The air buzzed with scent – wet meat, scaly musk, the thrill of something big!
+
+The frogs had been warm-up food at best.
+
+Luna hoped the real meal waited deeper in the pools where light dared not reach!
+
+She crouched low, tail twitching like a fuse ready to spark.
+
+The world held its breath.
+
+Momentum coiled inside her legs, sharp and sweet.
+
+“Yip-yep,” she whispered, eyes blazing bright. “Big ones next.”
+
+Then she moved – an eruption of motion and mud, claws flashing, water breaking in sprays of silver and black.
+
+The swamp shuddered under her joy as the hunt began anew.

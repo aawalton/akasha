@@ -1,0 +1,313 @@
+---
+id: c9b5a06f-5205-5e10-9d4e-842e2dc3e4d3
+page-type-slug: story-chapter-royal-road
+title: "203: Drink with the girls"
+slug: 0226-203-drink-with-the-girls
+partOf: there-is-no-epic-loot-here-only-puns
+position: 226
+ownLength: 3505
+unit: words
+publishedAt: 2024-05-21
+link: "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/1645650/203-drink-with-the-girls"
+royalRoadId: "1645650"
+---
+
+Estal held the straw to the weak man’s mouth with a frown. The being once known to them as Silver could barely find the strength to sip the water as raw patches of fresh skin continued to settle in where patches of shiny silver used to be.
+
+“Nothing. How could we find nothing?” Hazhur muttered at the side of the bed as he brooded over the scene. Estal’s cousin looked rough as he spent hours hunting the trail of the thing that attacked their comrade with no success.
+
+With days going past, the trail was so beyond cold that it was frozen.
+
+“And he’s said nothing since?” Karn asked, the scarred man twirling his knife in the corner with a frown. Estal shot them both a glare.
+
+“Am I a nurse or a therapist? If I had news, I think I would have said something,” she said, feeling the pressure of the tiny hospital room getting to her. That Fairplay commander, Yassxena or something was the only decent woman around, letting them use the room for free.
+
+“Not the sort of nurse I tell children about,” Karn admitted aloud. Estal turned and hurled a bedpan at him.
+
+“If you must know, he’s only said one thing,” Estal said as she collected her coat and staff.
+
+The man in the bed coughed.
+
+“The shape is close...” he whispered.
+
+“See, he’s worried about his figure after years of silver infection. I am going to get him fruit and let you men play nursemaid for a change,” Estal declared and turned to Hazhur who looked ready to argue.
+
+“Don’t. I’ve been doing community duty and watching him. I need time that isn’t here or in a damn school,” she warned dangerously and left the room.
+
+The last thing she heard was Karn sounding excited.
+
+“Can I get the cute little hat? Nurses have those right?”
+
+Estal was sure their teammate was going to be dead by the time she returned but that was a risk she was going to take with extreme ease.
+
+“Worker Estal, work duty from the elders come in for you to muck the stables, sweep the eternal fall street, and hand out flyers for the tri-weekly do-nothing events,” a Fairplay man came rushing up to her and Estal’s nostrils flared.
+
+The man turned pale when he saw her face.
+
+“I... uh...” he stammered.
+
+“My nails are chipped. My heels are scuffed. My hair is tactically maintained, not well maintained, and you come courting death so casually that I respect the haste to perish at my hands,” Estal breathed out smoke and steam as her exhaustion and worry turned into fire in her mouth.
+
+It was dangerously close to lightning.
+
+“Murder could get you detained here for the rest of your life!” the man squealed and Estal leaned in close.
+
+“I read an article in ‘Maiden’s Dance Staves of the Fall’ on how to turn a fish descaling spell into a corpse removal spell of sorts. It was a fascinating read,” Estal said with poisonous sweetness. The worker ran off, dropping the work orders on the ground. Estal eyed them then lifted the nearby rug and pushed them under.
+
+“Magical,” she declared and left the building.
+
+It didn’t take her long to find the local tavern. She politely waited for a bunch of teens to get out of her way as her eyes fought not to glaze over from exhaustion.
+
+“Calcs are bad business,” the girl said bluntly to a familiar looking kid but Estal was too busy thinking of a big glass of gin.
+
+“We need to find Grim, he can help us,” the boy that reeked of holy magic and a little death said. The group vanished and Estal mentally raised a glass of gin to them.
+
+‘To new adventurer groups’ she toasted. As she walked inside, her heels clacked on the wood, sometimes wedging into the cracks and spaces between the floorboards. The bartender winced as she walked over, putting her full weight into her body to emphasize she was a badass woman who would set people on fire for a glass of gin right now.
+
+This was how tired and rundown Estal was.
+
+Her magic heels were just heels now.
+
+It was terribly sad.
+
+Damn her team for being idiots.
+
+Damn Silver for being an idiot.
+
+Damn them all for being her idiots.
+
+“Sorry about your floor,” Estal said to the weirdly stiff bartender.
+
+“No worries, it’s had worse on it,” the man promised and looked pained at the memory.
+
+“I need a drink,” she said and the man nodded, handing her a little glass. Estal took one look at it then pushed it back.
+
+“I need a drink,” she repeated and the man stared at her. For a moment, she felt like she was talking to another blasted Dungeon Monster. Little movements that a normal creature didn’t need to think about but this man had to remind himself to do.
+
+A blink there, an inhale here, and more.
+
+He finally nodded and went deep under the bar for something. Estal took the time to look around, finding a weird group of a girl talking to a boy under the guidance of a scary woman.
+
+“Serma, we can hit the Dungeon tomorrow. I think there is more to see here,” the woman said calmly and her voice made Estal’s skin crawl. It wasn’t horrible, quite the opposite, but there was weight to it that was undeniable.
+
+“Hm, like what? Perhal? No offense, but I wouldn’t much enjoy that woman’s company. Zane? I find him boorish,” the girl responded and Estal could tell when one had a silver spoon and when one had a gold spoon.
+
+This girl didn’t radiate the arrogance of a noble, but had... authority.
+
+Just what Estal needed, more scary children.
+
+“How about that cool weapon shop? The man was on fire!” the boy at their table said.
+
+“He was drunk and caught fire, Mas. It wasn’t a trait he possessed,” Serma said lightly. Estal turned as a glass the size of Karn’s head was put down and the man waited for her order.
+
+“Bartender...” she trailed off, not knowing how to address this particular weirdness.
+
+“Nibs,” he said and Estal nodded.
+
+“Bartender Nibs, I need gin. I’ll take Shatter Gin, Deep Ruby Gin, Golden Spreckle Gin, Fox Gin, Gin and Whiskey Mystery brand, and Moon Hooch Gin. I will not take Twin Gin, Serpent Gin, Divine Echo Gin, Truther Gin, Hooch Moon Gin, or ‘Gin’,” Estal said clearly and firmly.
+
+The man considered this for a moment.
+
+“‘Gin(?)’” he asked with a counter offer and Estal thought about it.
+
+“If nothing else,” she said finally.
+
+“Nibs, I got this,” a bubbly voice said and Estal’s withered soul recoiled at the idea of someone being happy in her vicinity. She turned to see a waitress picking up glasses and cleaning tables. The same woman who was also doing dishes. Who was also cooking... and who was also sitting in the corner, sobbing over a book.
+
+“Nibs doesn’t have great gin selections. Fera’s got a wider range,” the clone said.
+
+“Oh good, the tavern has a self-replicating cell for viruses,” Estal said gruffly but the name Fera made her stomach drop.
+
+“You don’t have to point at the children when you say ‘viruses’, I got the joke,” the woman said with a grin.
+
+“Children are a virus. You get into filthy states, a parasite leaps from the host to you, it finds a home and mutates, feeding off your precious nutrients until it bursts forth, ruining you on a spiritual level!” Estal scowled and a family eating nearby looked horrified as their child began to sob.
+
+“Wow, that’s... I’m not the right Nina for this,” the woman said, still grinning to herself but it seemed to almost be struggling.
+
+“Nina, your shift at Fera’s is coming up. That Dungeon with the bar inside... mimics a bar really well and does better than real bars,” Nibs said to another Nina. The man turned a little happier when he talked about that accrued mad she-goblin who made sweat break out across Estal’s leather clad legs.
+
+“Better gin, you said? Dopey one,” Estal asked with regret already forming in her gut and the clone nodded brightly.
+
+“I’m Bubbly Nina-”
+
+“If you’re not in a glass, you’re not the bubbly I want,” Estal warned.
+
+“Sassy Nina, help,” Bubbly said with a squeak over her shoulder.
+
+Estal looked over to a dark corner where a sensual waitress version of the woman seemed to be sipping a shot glass.
+
+“Bubbly, you got to stand up for yourself. This one is easy, it’s basically a tutorial. She has so much to poke fun at... so much,” the woman said and looked down at Estal’s legs and clucked her tongue.
+
+Estal’s instincts rose and for the first time in days, she felt a spark of strength.
+
+A worthy foe.
+
+“I’ve seen people being comfortable with themselves, but this is right down implicit. Or were you the only one you could find willing to pay you any attention?” Estal asked and the bar went quiet.
+
+Estal had been far too nice recently, she really could use a nice time to tear a confident woman down. The one known as Sassy put her glass down with a smile and she stood up.
+
+“Oh a clone self-love joke. Did you have to think hard for that one?” the woman said and shook her head as if pitying Estal. “I shouldn’t poke fun. The little lady hating the world and lashing out, do I find you under ‘cliche teen heroines’ or ‘overdone genre leads’? Oh, what am I saying?” Sassy asked as she sat down next to Estal, a shot glass already waiting for her.
+
+“I’d find you in the ancient history texts next to the fossilized lizards,” she said with a hum.
+
+Not. Bad.
+
+“I wasn’t sure you could read. Wouldn’t I need to find Brainy or Nerdy?” Estal asked and turned to the clone fully. “Speaking off, I have to ask. If you’re here then where is Beauty or Witty?” Estal simpered with a bat of her eyes.
+
+“With your father, getting your inheritance before you waste it all on cheap gin and knock-off heels,” Sassy purred back.
+
+“Bold of you to presume, but the man burned it all when I refused to bark like a dog for him. Tell them sorry for digging gray hair out their mouths for the next week for nothing,” Estal said and toasted her empty glass.
+
+Sassy let out a snort.
+
+“Wanna go drink Dungeon Gin?” Sassy asked and Estal sagged.
+
+“Please, before I kick a child,” she half-begged.
+
+“But we’re supposed to be working!” Bubbly said in protest. Sassy grabbed Estal’s arm.
+
+“You’re working. I’m making friends,” Sassy insisted. Estal mused then looked around.
+
+“A girl’s night out is a bit bland with only two,” she decided. Sassy nodded.
+
+“Let me go pop Mellow Nina and see if I can’t shake out Sympathetic Nina. Great to complain to,” Sassy promised and vanished behind the counter.
+
+“Just don’t drink the weird cocktails! I don’t need more time added to my tab!” Bubbly cried and Sassy returned to poke her hard, popping her into different clones, one blitzed out on life that wandered off and the other looking addicted to coffee.
+
+“Energy Nina, to work!” Sassy ordered.
+
+“Drink?” someone asked and Estal turned to see three men in cloth vest and one with a strange horned hat.
+
+“That’s the plan,” Estal said slowly.
+
+“In the Dungeon?” one asked, eyes lighting up.
+
+“Yes?” Estal said, worried now.
+
+“Get the party!”
+
+---
+
+‘Object ‘Shield’, ‘Durence’, ‘Protector’, ‘Shape’, ‘Magic doodaa’, ‘Anime soul weapon’, and other queries failed to return a result’
+
+Delta was stumped.
+
+How was she supposed to find a ‘concept’ that was lost? It was like trying to find morality in a politician’s heart long after he was dead.
+
+“I just don’t have enough data. I could ask one of the Durence folk to come in so I can examine this ‘Shape’ business and understand more,” she guessed aloud.
+
+Prim popped open with her slightly green screen.
+
+“Question. What is a Shape? How do you define it? You’ve just thrown search queries at me without context. Also would you like to play the demo of ‘Doomer 13: Re-Modded-Re-Doomed’? I just finished making it.” Prim offered.
+
+“What’s the difference between this one and Doomer 12: Death Drop Devil May Nuke?” Delta asked, trying not to sound pained. Prim made sequels to her modded games at an alarming rate.
+
+“This one has voice activated fire mode. You have to make the noises of the gun to make it fire. It adds voice training on top of the one-hit kill feature!” Prim said, sounding far too earnest about this.
+
+“A Shape,” Delta said, expertly avoiding the question and request like only a teacher or parent could, “is when someone takes their seed and makes it ‘outside’ or like a tool,” she explained.
+
+“Oh, like Sir Fran then.”
+
+“Exactly, like Sir Fran,” Delta said with a smile and nod. A moment passed then Delta turned back to Prim.
+
+“Come again,” she asked flatly.
+
+“Sir Fran, King Jellagon with his hats, Fera’s bar, and many more. While they don’t have seeds like outsiders, your ‘humanity’ has let them develop what I would have called tumors or neurological leakages, but your definition of Shapes is correct too,” Prim said as she booted up a game and she had to dodge actual sawblades to reach the start menu.
+
+What.
+
+“The Spiders of the first room have their dance which allows them to express ‘them’ and even harmonize. Muffet uses the Shape of Dance to fight as this is what you allowed them to develop.”
+
+What?
+
+“Lord Mushy actually produces parts of his strange self through his pots which can make people want to put things inside it or smash them in a strange violent manner.”
+
+WhAt?
+
+Delta shook her head.
+
+“No, there’s been no record of these things being in the system or measured,” she argued and brought the systems to show... her... system. Delta’s life was confusing.
+
+“Dungeons only should concern themselves with the purification of seeds, not what happens to them otherwise. Why? Did you want the system to begin recording these things? Perhaps it did record these but you were busy luring people in for ‘good times’?” Prim said with a bored tone.
+
+“Prim, how are you so calm about this?” Delta asked, freaking out.
+
+“My emotional capacity can fit three emotions at a time. All of them are murder towards the fake demons in my game,” Prim said bluntly.
+
+“I need to disconnect the wi-fi,” Delta mumbled as she shot off towards Fran, her mind swimming. She had Shapes? She was, has been letting, her monsters just develop enough self for these important things to just appear?
+
+“Delta...” Prim appeared and her sudden serious tone made Delta slow down in a wary manner.
+
+“Shapes aren’t so strange. You needn’t be so worried,” Prim said and Delta frowned at the sudden tone shift before she presumed this was Prim trying to ease her into another bombshell.
+
+“Afterall, all Dungeon Cores are round because that’s their Shape. A contained sphere of influence!” Prim said quickly like ripping a bandaid off.
+
+Delta mentally cast her vision to her core which was mostly a sphere with slices of blue intersected with her orange. It was a sphere, just a little oblong on one side and pointy on the other. It looked like it was becoming massively curved at the top with more of a rectangular bottom with a flat edge...
+
+“It’s like a power button on a PC,” she muttered to herself.
+
+“No, you’re just denying the obvious.” Prim sounded sure of herself as she made Delta’s vision slowly turn the right way up.
+
+“My Shape can’t be mushrooms,” Delta said, her voice trembling.
+
+“Eh, more ‘infectious and unkillable’ but same thing really,” Prim said and showed Fran washing down Bacon with warm water and whistling a tune. Prim showed Delta how to lift the layer off the physical world but not sink into the Dungeon vision.
+
+It was a horrible in between state where things were symbolic and teeming with meaning that could be highly subjective.
+
+“This is where your ‘Shapes’ reside. They’re not recordable in the sense of being recreated or upgraded. You cannot upgrade wisdom or life experience generally. Well, you can since all your monsters are weirdos, but most Dungeons can’t,” Prim went on to explain as they looked at Fran.
+
+The goblin knight was a proud knight with a blazing mane on his helmet. His stead was majestic with muscles and the stench of loyalty. Fran’s arena wasn’t a small contained sand pit, but home.
+
+Fran was a knight but also a guardian. Fran was a boss, but was once just a goblin she had. He had visions, not of bloodsoaked sands, but markers of broken weapons, trophies of his victories and in the stand some old motherly batty lady with gray hair who looked helpless as she cheered Fran on with love and kindness.
+
+“This is how Fran resonates. It’s not all his ‘Shape’ but it is how he sees it,” Prim said, sounding used to it.
+
+“So, he wants to be cheered on by old fogies?” Delta pointed at the withered old woman who looked like a stray wind would knock her over.
+
+“Symbolic, Delta. It’s not actually an old woman. Just how he feels towards someone and how he wants to act towards them.” Prim reminded her.
+
+“But there’s no one in the Dungeon that feeble and helpless. That woman looks like she got lost on a single lane road,” Delta joked as the old woman cheered and her neck tie dangled down over her white creased shirt and dark old woman skirt.
+
+The old woman’s waving arms knocked over a jar, releasing mutant spiders and rats with butterfly wings, who the old woman just laughed off.
+
+Delta felt a chill go down her spine.
+
+“It’s Fera, right?” Delta asked, voice devoid of emotion.
+
+“I’ll look into the universal symbol for denial. See if we can’t get your core fixed,” Prim announced.
+
+“I-It’s great. Fran just sees me as a lovely old figure. A dotting loving little old lady. Someone he needs to help... help that old lady...” Delta stuttered, swallowing hard.
+
+“Could be worse,” Prim said, pointing to what looked like a storm sewer hole on the side of the arena where a harrowing gaunt tree figure watched Fran with licking lips and anticipation. Delta admitted being a dotty old woman was looking better by the second. She wandered over to Fran and examined him directly, seeing something in his chest that looked odd.
+
+The thing was like a caricature of a badge, something a kid might get out of a cereal box promoting cowboys and sheriffs. A star with its points ending in little balls and the word ‘captain’ stamped across it. It wasn’t a physical thing, but the manifestation of potential and heights Fran held within himself.
+
+It was too new, too much like something Fran himself might not take seriously as he might not think it was real or given to him by mistake.
+
+But it was real and it was a Shape, an honest to goodness Shape.
+
+Delta reached out with affection and to her surprise, a menu appeared.
+
+Captain Fran. The New Goblin?A captain rides with confidence but does he have the confidence? Maybe.Upgrade:Fran just wishes he knew how.Was it because he was first?Because he was simply there at the right time?How?
+
+There was no way to purchase or even select anything with letters and contrasts shifting rapidly as Fran continued to work in real space. It was like the system she had was trying to convert what a Shape was into Dungeon form but it wasn’t quite compatible.
+
+What made them tick or even limited them but Delta couldn’t change it.
+
+Delta had surrendered any chance of that when she let her monsters grow.
+
+It was a bit of a weird issue. If she controlled their growth, their minds, they wouldn’t grow and develop Shapes, but since she relinquished that control, she could no longer influence their power because they now existed.
+
+It was as if the whole thing needed a touch of humanity about it. To simply trust that maybe things might work out.
+
+She was about to reconfigure her search for Durence’s shield when her systems shut down to a point as people came swarming into her first floor on guest mode, heading straight for the Bar.
+
+Fera’s Shape space. How had Delta never seen it before? But she sensed old friends. The Ninas, Estal, and some Heroes of Ale?
+
+Ok, That is a little weird.
+
+Still, she would take weird rather than alarming anyday.
+
+“BURN THE PATRIARCHY OF BAD FATHERS!” A Nina and Estal cried in comradery.
+
+Okay, now that was a little alarming.

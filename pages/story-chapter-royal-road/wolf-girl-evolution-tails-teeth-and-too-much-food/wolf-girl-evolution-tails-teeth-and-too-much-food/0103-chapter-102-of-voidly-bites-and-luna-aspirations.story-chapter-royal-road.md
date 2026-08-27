@@ -1,0 +1,697 @@
+---
+id: d0a74d1a-fe90-5681-ac36-e1f77a2f26b8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 102: Of Voidly Bites and Luna Aspirations"
+slug: 0103-chapter-102-of-voidly-bites-and-luna-aspirations
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 103
+ownLength: 1821
+unit: words
+publishedAt: 2026-02-23
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3085514/chapter-102-of-voidly-bites-and-luna-aspirations"
+royalRoadId: "3085514"
+---
+
+PoV Luna
+
+Luna stared at all the many choices.
+
+And stared!
+
+…Then stared some more.
+
+Checked her Status…
+
+***
+
+Name: Luna
+
+Level: 10/10
+
+Race: Moon Wolf Pup (Tier 0)
+
+Gender: Female
+
+HP: 56/56
+
+SP: 56/58
+
+MP: 40/44
+
+Strength: 19
+
+Dexterity: 17
+
+Vitality: 18
+
+Intelligence: 17
+
+Willpower: 8
+
+Charisma: 7
+
+Luck: 3
+
+Active Skills:
+
+Strike Lv13
+
+Bite Lv16
+
+Jump Lv14
+
+Momentum Claw Lv11
+
+Run Lv18
+
+Shadowmeld Lv12
+
+Shadow Step Lv13
+
+Lunar Form Lv5
+
+Devourer’s Maw Lv4
+
+Shadow Run Lv8
+
+Passive Skills:
+
+Beast Instincts (Lesser) Lv2
+
+Pain Resistance Lv2
+
+Poison Resistance (Minor) Lv2
+
+Devourer’s Right Lv.4
+
+Traits:
+
+Beast Constitution
+
+Gluttonous Soul – 12%
+
+Effects:
+
+Craving (Unknown)
+
+**
+
+Her ears tilted left.
+
+Then right.
+
+Her nose scrunched up so hard it almost hurt.
+
+“Hrm.”
+
+That… was easier the last time!
+
+Weird.
+
+Luna was smarter now, so why choices harder now!?
+
+Unfair!
+
+It was a very thoughtful Apex Predator decision to make!
+
+And Luna wanted to make it the very best!
+
+Syl’s fingers continued their slow path through Luna’s hair-fur, never rushing, never pressing. Just steady warmth at the back of her head. The cozy scritches made Luna feel like the whole world could wait.
+
+Outside, the plains were anything but calm.
+
+Steel rang sharp and bright. Ants shrieked in ugly, broken pulses. People yelled and chitin cracked with distant cracks and thuds. All while Ferric’s voice carried in clean commands.
+
+She could even hear how Mr. Bull was absolutely showing off again! His voice booming with exaggerated bravado.
+
+Luna could hear it even through the tent walls.
+
+Hehe!
+
+Very proper!
+
+And loud!
+
+Very Mr. Bull.
+
+But here…
+
+Here it was warm!
+
+Pleasant.
+
+Filled with soft canvas and faint stew smell and pack.
+
+Only her Second.
+
+Only the System.
+
+Only choice.
+
+Oh!
+
+Luna understands now!
+
+Rather than make big choice now, it’s better to bite the weird ones away!
+
+Luna was so smart!
+
+And NOT a Trickster!
+
+Silly System, trying to be a meanie again!
+
+Luna needs no more tricks, her Lunar Form tricked everybody since day 1! She mlemed at her hands, thinking how weird a silver tongue would look like.
+
+Nope!
+
+And the Little Speed Terror…
+
+Luna not little! Luna wants to be big.
+
+Biiiig!
+
+She kicked that one out too!
+
+And Moon Wolf meant big wolf, but it was boring!
+
+And Lunar Maw Stalker?
+
+It sounded so cool!
+
+No escape?
+
+Luna drooled.
+
+Just imagining how…
+
+All prey would be Luna’s!
+
+Yes, it would be a good choice. A tasty choice!
+
+But not the bestest choice!
+
+Luna already fast, prey cannot escape!
+
+She blinked and checked up on her Skills again. Lingered on them, thinking it all through.
+
+…They were all awoomazing.
+
+But what made Luna grow the most was…
+
+Strong prey!
+
+And strong prey was hard to kill! Attacking it made her body hurt.
+
+That wasn’t nice!
+
+But then, what to pick…?
+
+Oh, right!
+
+“Second!”
+
+“Yes, Luna?”
+
+The scritches intensified! She wanted to awoo so much!
+
+“What makes higher Tier monsters different?”
+
+Maybe Luna could learn to pick better from that!
+
+“Hm, they are all tougher to kill. But also… typically more specialized. However, in your case…” Syliana paused.
+
+And Luna waited!
+
+For about half a second.
+
+“In Luna case? What?”
+
+“Well… It’s not a System recognized designation, but Adventurers call Monsters that deviate from their expected skills and powers as ‘Variants’. And those are typically very very rare.”
+
+Luna’s eyes started zoning out, and ever-so-slightly crossing–
+
+“...I mean to say, that they are special, and don’t follow what the System says about them. And you… you are very special indeed.”
+
+Oh!
+
+Her tail wagged at the praise.
+
+Yes! Luna is awoomazing!
+
+And her friend’s answer made things clearer too!
+
+“Thank you Second!”
+
+“Ah, it is just my conjecture, based on what I know of and–”
+
+Luna pushed her head into her Second’s hands.
+
+Making her stance very clear!
+
+No worrying, more scritches!
+
+Syl sighed, but delivered.
+
+Ehehe!
+
+That meant things! Important things.
+
+And indeed, Luna already did many things her Skills didn’t tell her should be possible. There was no reason she wouldn’t be able to do so again!
+
+In fact…
+
+Luna stared very very hard at the options present.
+
+Even if she would not pick them today–
+
+–She could still try to do the same things herself!
+
+Control the moonlight? Make everything sparkly!
+
+Or–
+
+Keep the tasty prey from escaping!
+
+She drooled at the very idea!
+
+Luna leaned her head slightly into Syl’s hand without even realizing she was doing it. It really was nice, being cozy and safe… and having a packfriend by Luna’s side.
+
+The bestest packfriend!
+
+Mhm.
+
+From the other options, Luna now knew that Shadowstep Predator was also out!
+
+It did what Luna already did, just better!
+
+So Luna just had to do better!
+
+The same for Nightphase Ravager!
+
+It sounded nice, yes.
+
+But Luna could just do better too!
+
+Warhound Devourer sounded smart!
+
+Apex Predator smart!
+
+Kill, eat, grow, repeat!
+
+Yes, very smart indeed!
+
+But Luna already did that too.
+
+Which left… Luna counted out the fingers–
+
+Three options! Yes!
+
+Umbral Moon Pup, Velocity Reaper, and Gluttonous Abomination.
+
+Shadow and Moon, Speed Force, and Eat!
+
+…Eat sounded dangerous.
+
+Luna liked to eat a lot already!
+
+Eating was nice.
+
+Eating was great!
+
+Eating made Luna grow strong and big!
+
+But this…
+
+This promised the ugly hungry.
+
+Not enough food hungry!
+
+Bleh!
+
+Luna shook her head. Not having enough food to fill the hungry… that would make Luna hangry!
+
+Her tail flicked once.
+
+The other two were–
+
+Tempting.
+
+Very tempting!
+
+But…
+
+Which one Luna should pick?
+
+Moonlight and shadow have been with Luna furever now!
+
+And yet… She didn’t know how to control the silvery light of the moon.
+
+It made her skill work, it made her transform into a Human!
+
+Could Luna learn how to use it alone, without the help of her Race?
+
+It sounded…
+
+Like a fun challenge!
+
+And that left only the thing–
+
+The thing Luna started doing just recently!
+
+The super speedy zoomies!
+
+She really loved them too. Getting fast everywhere – it was great!
+
+But this?
+
+Luna’s zooms were of shadow, jump and run!
+
+This was even more.
+
+It spoke of strange ‘forces’!
+
+Luna didn’t know how to copy those.
+
+Didn’t even know what were those!
+
+She grinned, hard!
+
+Then shifted her focus upward again.
+
+“Second, Luna made her choice!”
+
+“Oh? That’s very nice,” a hug followed.
+
+Ehehe!
+
+She remembered that feeling.
+
+That surge of power.
+
+Inevitable!
+
+Space breaking!
+
+Power!
+
+Distance disappearing with her every stride.
+
+And enemies falling with her speedy strikes!
+
+Luna’s lips curled ever so slightly more.
+
+Her golden eyes brightened.
+
+Velocity Reaper.
+
+Here Luna comes!
+
+***
+
+The world did not change.
+
+Did not move.
+
+Instead–
+
+It folded inward.
+
+A soft pull beneath her ribs.
+
+A tightening in her bones.
+
+And then she could no longer tell where her body even belonged.
+
+Syl’s hand pressed more firmly against her head as Luna’s breathing slowed.
+
+Yet Luna did not notice.
+
+She could no longer even hear the sounds from outside.
+
+All sensations felt so… muted.
+
+Thin.
+
+Far away.
+
+Luna smiled.
+
+And let herself fall into the pull of change.
+
+Into more speed!
+
+The System accepted.
+
+Luna felt the now familiar inward pull grow stronger.
+
+And then–
+
+She felt almost nothing at all.
+
+Only the weird falling sensation remained.
+
+Syl’s hand in her hair was the last solid thing she remembered.
+
+Warm.
+
+Real.
+
+Anchoring.
+
+Then even that slipped away.
+
+And Luna was gone.
+
+***
+
+The darkness met her again.
+
+So unfamiliar.
+
+Yet already known.
+
+She had experienced it once already.
+
+Felt how it wrapped around her.
+
+Heavy, and waiting.
+
+Luna blinked.
+
+Or thought she did.
+
+Her eyes were open!
+
+Should be open.
+
+Maybe.
+
+She squinted anyway.
+
+“Woo…” she muttered under her breath.
+
+But the sound did not carry.
+
+Rude!
+
+She lifted a paw.
+
+But there was no paw!
+
+She twisted her shoulders.
+
+There were no shoulders.
+
+Luna tried to wiggle her tail.
+
+She felt it!
+
+But not where it should be.
+
+Very weird!
+
+She sniffed.
+
+And smelled nothing.
+
+No pack, stew, ants, nothing.
+
+Wrong.
+
+“System meanie,” she accused quietly.
+
+The darkness did not answer her.
+
+But–
+
+It wasn’t empty.
+
+She felt that.
+
+And her eyes sparkled!
+
+Underneath the stillness, something was… stretched.
+
+Luna crouched instinctively–
+
+But there was no ground.
+
+She pushed against the stretched feeling anyway.
+
+It was empty here, the dark everywhere. And where there was darkness, there were shadows.
+
+Also–
+
+How would the empty Nothing taste?
+
+Luna tried to bite, and found no purchase.
+
+But–
+
+Shadows stretched across her pearly teeth.
+
+She bit again–
+
+And something gave.
+
+Just a little bit.
+
+Her ears shot up.
+
+There!
+
+She lunged!
+
+But her jaws snapped shut on nothing.
+
+The give slid sideways!
+
+Folded away from her!
+
+She twisted mid-air-that-wasn’t-air, then tried again.
+
+She reached further out–
+
+And the darkness responded.
+
+Elastic, and slippery.
+
+Luna pulled!
+
+It stretched, just slightly.
+
+She let go.
+
+And it snapped back without sound.
+
+Her golden eyes narrowed.
+
+“Ohhh.”
+
+Distance.
+
+That was what she was feeling. The space between here and there.
+
+…Only there was no here!
+
+And no there.
+
+It felt so strange!
+
+Luna pushed forward and felt the resistance.
+
+She leaned harder!
+
+The resistance thinned, and her awareness stretched.
+
+The darkness did not move.
+
+But the stretched gap did.
+
+It shrank.
+
+Her chest tightened, and she felt the need to–
+
+Run!
+
+The need to close the distance.
+
+To reduce, and erase the in-between!
+
+If she could just bite one more time–
+
+Her whole being coiled, just like before the Queen strike.
+
+Tight, and focused.
+
+Her mind and body snapped forward–
+
+–And everything went blank.
+
+***
+
+Her muted awareness returned, bit by bit.
+
+And she felt how the System messages cascaded in silence around her.
+
+【Evolution Complete. You have become: Velocity Reaper (Tier 1)】 【Legendary Path Achieved – Your speed begets belief. Your body adjusts.】 【New Skill Acquired: Reaper’s Pass (Lv.1) – The path you take shortens with speed(-10%). Distance consumed feeds your strikes. The force of your reaping affects you less(-5%).】【Dexterity +4】【Strength +2】【Vitality +2】【Willpower +1】
+
+Luna felt–
+
+Faster.
+
+Sharper.
+
+More… dangerous!
+
+Yet it felt like she could have been more, tasted more!
+
+The void just… couldn’t keep up?
+
+Luna frowned.
+
+That didn’t feel right.
+
+But the give was gone, and she felt her Second brushing fingers through her fur again.
+
+…Fur?
+
+Oh, Luna shifted back.
+
+Hehe!
+
+That was weirdly silly!
+
+Sound crashed back into her next.
+
+Distant voices.
+
+And tiny droplets of rain dripping off canvas.
+
+Then the weight of her body, and fur!
+
+Now with streaks of white silver. Sleeker, fluffier!
+
+And ready to flow.
+
+To move.
+
+Her breath dragged into lungs that suddenly felt too small, yet bigger than before.
+
+Syl’s hand resting on the back of her head felt a little tighter now.
+
+Her golden eyes flew open!
+
+Sharp and bright!
+
+The tent seemed… closer.
+
+The outside noise… nearer.
+
+The space between her and the world felt thinner.
+
+And if she just pushed–
+
+She would be there.
+
+Before anyone could blink.

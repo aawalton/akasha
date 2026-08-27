@@ -1,0 +1,285 @@
+---
+id: b3c08994-68f0-58de-9463-2375c0ae263a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 72: The Metropolis"
+slug: 0072-chapter-72-the-metropolis
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 72
+ownLength: 2817
+unit: words
+publishedAt: 2026-06-24
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3585648/chapter-72-the-metropolis"
+royalRoadId: "3585648"
+---
+
+Qalathar opened before us like a hallucination that had decided to become reality.
+
+Beyond the gates, the desert ceased to exist.
+
+The streets that radiated from the gate's interior were not the wide, ordered avenues of the Imperial capital. They were narrow and winding. Buildings rose on both sides in stacks of mudbrick and pale stone that climbed three, four, five stories, each level extending further over the street below until the upper stories nearly touched across the gap, creating tunnels of shade that reduced the desert sun to thin blades between the overhanging eaves.
+
+The noise was a physical thing. Voices in a dozen languages, Imperial among them but subordinate to Kumsuri and others I couldn't identify. The clatter of commerce — coins on counters, goods on scales, the bang and scrape of workshops operating in open-fronted stalls.
+
+The smell was a hundred smells compressed into a single, overwhelming assault. Spices that burned the sinuses. Cooking meat over open coals. The sharp chemical bite of alchemical workshops. The musk of animals. Incense, thick and sweet, pouring from doorways that led into buildings whose purposes I couldn't guess.
+
+Color. Everywhere, color. The pale monotony of the desert had been replaced by a spectrum that seemed to have been applied with aggressive intent. Market awnings in crimson, indigo, saffron. Banners hanging from upper windows in patterns that might have been heraldic or decorative or both. The clothing of the crowd, which exploded in every direction in fabrics that made Imperial fashion look like a funeral.
+
+A metropolis. In the desert. Behind walls painted in blood, guarded by soldiers whose humanity had been surgically altered.
+
+I breathed it in. Let the sensory avalanche settle.
+
+Then I started walking.
+
+"Come on," I said. "We have people waiting."
+
+The contact point was in the warehouse district, on the city's northwestern edge where the commercial bustle thinned and the buildings traded ornamentation for function. Flat-roofed storage structures of undressed stone, their doorways wide enough to admit laden wagons, their interiors dark and cool. The caravans that fed the city's economy needed somewhere to store their goods between arrival and sale, and this district was the result — a sprawl of depots and stockhouses and the supporting infrastructure of warehousemen, haulers, and the inevitable population of opportunists who made their living in the spaces between legitimate commerce.
+
+We wound through alleys that doubled back on themselves, crossed market squares that appeared without warning and disappeared behind us like rooms in a maze, descended stone staircases that dropped from one level of the city to another.
+
+We were halfway through the transition from the commercial quarter to the warehouse district when the ground moved.
+
+A tremor.
+
+Subtle. The kind that passes through the soles of your boots and up through the bones of your legs.
+
+Then another. Heavier.
+
+The stalls rattled. A ceramic pot on a vendor's display shelf walked itself to the edge and fell. It shattered on the cobblestones with a sound that was swallowed immediately by the noise of the crowd — which, I noticed, hadn't changed.
+
+The vendors hadn't flinched. The buyers hadn't looked up. The flow of bodies through the market continued without interruption.
+
+A third tremor. This one strong enough to feel in the chest.
+
+Soldiers appeared.
+
+They moved against the crowd's current, threading between bodies. Six Ashkeri in full kit — the white tunics, the bronze half-masks, the curved swords at their hips — ran past us toward the city wall.
+
+Henrik's hand drifted toward his greatsword's grip. His shoulders had squared. The combat reflex.
+
+I caught his wrist. Shook my head.
+
+Around us, the market continued.
+
+A man at a fruit stall to my left was holding a melon in each hand, comparing their weight. A woman beside him was arguing with the vendor over the price of dried fruits, her gestures as expansive as if the tremors were nothing more than a minor distraction.
+
+A boy, no older than eight, darted past my knees chasing a leather ball.
+
+"Only another Titan," someone said.
+
+The voice came from behind us. I turned. An older man — a merchant, by the look of him, with a cart loaded with bolts of undyed linen — had stopped to adjust the straps securing his cargo.
+
+"It'll give up soon," the man added. He yanked a strap tight.
+
+My eyes followed the Ashkeri toward the wall.
+
+The city's northwestern wall was visible above the roofline of the last row of market stalls.
+
+Beyond the wall, something rose.
+
+The shape was difficult to resolve at first. What I could see was a silhouette that emerged above the wall's upper edge and continued upward.
+
+A head.
+
+A living head, sheathed in overlapping scales of dark material — each one the size of a wagon wheel, layered back over the next like the hide of some vast serpent. The head was long and wedge-shaped, a low and tapering geometry that narrowed from a broad jaw to a smooth, pointed snout.
+
+The mouth opened.
+
+Even from this distance — several hundred meters, perhaps more — the sound reached us. A frequency so deep it bypassed the ears entirely and registered in the bones. The cobblestones beneath my feet hummed. The remaining cups on the vendor tables danced. Somewhere in the stalls behind me, glass shattered.
+
+The head rose higher.
+
+It came into view. Thick as a tower. It arched above the wall. Looking down into the city. Eyes swept across the rooftops — those of something that saw without comprehending.
+
+The mouth opened wider.
+
+Light gathered in the throat. Blue-white. Intense enough to cast shadows. The light condensed. Compressed. A point of terrible radiance that collapsed inward on itself and then —
+
+The beam fired.
+
+A column of blue-white energy that crossed the distance between the creature's mouth and the city in the time between one heartbeat and the next. The air along its path ignited. A shockwave of superheated atmosphere blasted outward from the beam's trajectory, flattening market awnings and sending loose fabric whipping from clotheslines.
+
+The beam struck the city.
+
+Or it should have.
+
+Fifteen meters inside the wall's perimeter, the air itself hardened.
+
+The impact was visible. There was nothing there. Yet the beam hit something and stopped. The energy splattered against whatever occupied the space between the beam and the city, spreading across an invisible surface and fading in the span of two seconds.
+
+Not a scratch. Not a whisper of heat reached the buildings below.
+
+The market didn't even pause.
+
+"Hail to the Savior," a woman said from the doorway of a spice shop to my right. She pressed her palm to her forehead and then to her chest. The gesture was automatic. Ritual. "Hail to the Sultan."
+
+Other voices picked up the phrase. A murmur that rippled through the market square like a prayer.
+
+"Hail to the Savior."
+
+"Hail to the Sultan."
+
+I stared at the sky where the beam had been.
+
+Alchemy?
+
+Whatever was sustaining that invisible barrier was not conventional ward magic. It was something beyond. Something built from ingredients that mixed mana, blood, organic engineering, and two centuries of iteration into a defensive matrix that could stop a Titan's breath.
+
+I didn't have a word for what the Sultanate had built.
+
+I wasn't sure anyone did.
+
+The mages arrived thirty seconds later.
+
+They came from the wall itself — figures emerging from stairwells and gate towers, their robes heavier than the Ashkeri soldiers' tunics. Their hands rose. Sand rose with them.
+
+The desert beyond the wall answered.
+
+Pillars of compacted sand erupted from the dunes in a sequence so rapid it looked like the earth itself was growing teeth. Each pillar was ten meters wide and climbed to a height that matched the creature's throat. They struck the Titan's flanks, the coils of its body, its neck.
+
+The Titan's head snapped sideways as a column of compressed sand struck the joint where its skull met its neck. The impact carried the weight of hundreds of tons of densified sand.
+
+The creature staggered.
+
+More pillars. The mages on the wall worked in concert, their hands rising and falling in rhythms that overlapped and reinforced each other.
+
+The Titan tried the beam again. The blue-white light gathered in its throat. The mouth opened.
+
+A pillar of sand hit it in the jaw from below.
+
+The mouth slammed shut. The beam discharged inside the closed maw. Blue light erupted from between the creature's teeth in thin streams, and the Titan's head whipped skyward with a convulsion that sent its neck arcing backward.
+
+It roared. The deep vibration shook the air.
+
+But it was retreating.
+
+The vast coils drew backward. The creature's body, which had been pressing toward the wall, began to recede. Sliding. Receding. The sand pillars followed, hammering its flanks as it withdrew, driving it backward across the dunes until the creature's silhouette had diminished to a shape on the horizon.
+
+Minutes. The entire engagement had lasted minutes.
+
+The mages lowered their hands. The sand settled. The desert resumed its featureless stillness as if nothing had disturbed it.
+
+On the wall, the Ashkeri soldiers returned to their patrols.
+
+In the market, the boy chasing the leather ball ran past my knees again. The fruit vendor resumed his sales pitch as if the interruption had been beneath the threshold of his attention.
+
+"How the hell is that a Titan?" I said. My voice came out rougher than I'd intended. "It's nothing like the one in the desert. Not even close. It doesn't look like the same species."
+
+Henrik had finally released the grip on his greatsword. He flexed his fingers, working blood back into the whitened knuckles.
+
+"They probably aren't," he said. His voice was flat. The particular flatness of a man processing something that exceeded his preparation. "We call them all Titans. Every one of those oversized bastards that stumbles out of whatever rift spawned them. They all come from the same portal, and they're all dumber than a stone fence." He paused. "But nobody knows if they're the same thing. Could be one species. Could be a hundred different species that happened to crawl out of the same hole."
+
+"Random monsters from the same hell," Lena said quietly. Her tinted lenses had slid down her nose, and she was looking over them at the wall with bare eyes.
+
+"Random monsters from the same hell," Henrik confirmed.
+
+I looked past the wall. Past the desert. Toward whatever lay beyond the horizon. Somewhere out there, beyond the trade routes and the caravan corridors and the monster-infested waste, a breach in reality sat open like a wound that refused to heal. And from that wound, things crawled out.
+
+I didn't want to see that portal.
+
+Not now. Not ever.
+
+We kept moving.
+
+The warehouse district swallowed us within minutes.
+
+The noise of the market fell away. The streets widened. The buildings grew simpler, functional structures of undressed stone and sun-baked brick, their doorways flanked by loading platforms and the deep ruts of wagon wheels worn into the packed earth over years of use.
+
+The establishment we were looking for occupied a corner position at the intersection of two warehouse lanes. It was unremarkable. A supply depot, by appearances — the kind of place that serviced caravans with replacement parts, rope, canvas, dried provisions. The sign above the door was in Kumsuri.
+
+Behind the counter, an older man sat on a stool. His hands rested on the counter's scarred surface. His eyes tracked us from the moment we ducked through the doorway.
+
+I said the phrase.
+
+Six words in Kumsuri. A sequence that had been drilled into my memory during the pre-departure briefing and that bore no grammatical relationship to anything a legitimate customer would say.
+
+The man's eyes changed. His hands lifted from the counter. He glanced past us toward the street, confirming it was empty, then stepped sideways and opened a door behind the counter.
+
+He gestured. A single, curt motion.
+
+We entered.
+
+The back room was small and dim. Crates lined the walls. A table occupied the center, covered in maps that had been weighted at the corners with brass cups still half-full of cold tea.
+
+Two people were already seated.
+
+They stood when we entered. A man and a woman, both in their early thirties, both wearing the same type of Sultanate civilian clothing that we'd adopted.
+
+The man was lean and dark-haired. The woman was taller, broad-shouldered, her hands scarred in the particular pattern that comes from years of close-quarters blade work.
+
+"I'm Gregor. This is Maren," the man said. His Imperial was unaccented.
+
+Maren nodded. The nod communicated everything. Pleasure's mine. Let's get to work.
+
+"You've been here a while," I said.
+
+"Fourteen months," Gregor confirmed. He pulled a chair from under the table and sat. "We were the first ones. Investigation Division, long-term infiltration. The operation's still new, the Iron Cross has never maintained sustained intelligence outside Imperial borders before. We're learning as we go."
+
+He gestured at the maps on the table.
+
+"What we've learned is this."
+
+His finger found a point on the largest map, a city plan of Qalathar rendered in ink so fine the individual streets were visible.
+
+"Snow Dream enters the Sultanate through the southern caravan routes. Multiple points of origin."
+
+His finger traced a line from the city's southern gate to a point in the warehouse district. Not far from where we sat.
+
+"All of it converges here."
+
+The point his finger rested on was a building. Marked on the map with a small red circle that someone had drawn in a hand too precise to be casual.
+
+"One distributor," Maren said. Her voice was lower than I'd expected, the edges worn smooth by fourteen months of speaking Kumsuri. "Central hub. Everything flows through this location. Processing, packaging, distribution to the outgoing caravans that carry the product north into Imperial territory."
+
+"One distributor," I repeated. "For the entire supply chain."
+
+"For the Sultanate leg of it," Gregor clarified. "What happens inside Imperial borders is your side's problem. What happens here — the consolidation, the logistics, the interface between the source and the transit network — that's concentrated in a single operation."
+
+He leaned back.
+
+"You have two options."
+
+He raised a finger.
+
+"One. Observation. We continue gathering intelligence. Names, routes, financial connections, supplier profiles. You take what we've compiled back across the border and hand it to the Investigation Division for analysis and eventual action through whatever channels the Crown decides are appropriate."
+
+A second finger.
+
+"Two. Destruction. You hit the distribution hub. Burn it. Break the supply chain at its narrowest point and set the Snow Dream operation back by months, possibly longer."
+
+He lowered his hand.
+
+"Option two comes with a cost. The moment that warehouse goes up, the Ashkeri will respond. You will be identified. You will be pursued. You will need to be outside the city walls before the alarm reaches the gate garrisons, which means you'll have approximately fifteen to twenty minutes between the fire and the closure of every exit from Qalathar."
+
+He paused.
+
+"If the Ashkeri catch you, there is no extraction. No diplomatic intervention. The Sultanate's penalties for foreign operatives conducting acts of sabotage within their borders are not ambiguous."
+
+He drew a finger across his throat.
+
+"What do you think?" I asked.
+
+I looked at Lena first.
+
+Her eyes moved across the red circle and the surrounding streets.
+
+"I'd like to see the location before deciding," she said. "The intelligence package we received before departure was assembled from secondhand reporting. Direct observation changes the calculus. Guard patterns. Escape routes that might not appear on a map." She tapped the red circle with the tip of her pencil. "If we're going to burn something, I want to know exactly what we're burning and exactly how we're leaving."
+
+I turned to Henrik.
+
+Henrik's arms were folded across his chest. His jaw was set.
+
+"Burn it," he said. The words carried no heat. No bravado. "These people are poisoning ours. Every day that warehouse operates, more product crosses the border and more lives are ruined." His jaw tightened by a fraction. "I'd burn it tonight if the situation allowed."
+
+He unfolded his arms.
+
+"But I'm not going to get the three of us killed for the satisfaction." He looked at me. "Lena's right. We check the ground first. If the situation allows destruction, we destroy. If it doesn't, we take the intelligence and go home."
+
+I nodded.
+
+"We check the location," I said. "Assess the situation. Then we decide."
+
+Gregor and Maren exchanged a glance. Whatever silent communication passed between them produced a simultaneous, fractional nod.
+
+"Good luck," Gregor said. "The surrounding streets are public. You can observe from any of the adjacent lanes without attracting attention. The guard rotation changes at sunset and again at midnight."
+
+"Thank you," I said.

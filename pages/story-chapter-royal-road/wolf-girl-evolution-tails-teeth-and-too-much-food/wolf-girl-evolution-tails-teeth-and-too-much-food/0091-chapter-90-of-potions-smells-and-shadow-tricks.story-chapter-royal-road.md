@@ -1,0 +1,549 @@
+---
+id: 91a0e3a0-eba6-5e36-b5ac-19ed09ee5dad
+page-type-slug: story-chapter-royal-road
+title: "Chapter 90: Of Potions, Smells, and Shadow Tricks"
+slug: 0091-chapter-90-of-potions-smells-and-shadow-tricks
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 91
+ownLength: 2111
+unit: words
+publishedAt: 2026-01-24
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2975549/chapter-90-of-potions-smells-and-shadow-tricks"
+royalRoadId: "2975549"
+---
+
+PoV Luna
+
+The boredom made Luna think things.
+
+Which was unfair!
+
+Thinking was hard. And usually unnecessary!
+
+But boredom had a way of sneaking thoughts in anyway, slipping them under the paws when Luna wasn’t looking… and then refusing to leave!
+
+She shifted her weight from one foot to the other, tail drooping as she watched Veric and Sepio yet again doing… nothing.
+
+They were just standing there! Looking at things. Talking quietly. Nodding at each other like that accomplished something important.
+
+Humans did that a lot.
+
+So much standing.So much talking!
+
+Her shoulders slumped.
+
+And she tried to listen anyway. And maybe, if she listened hard enough, there was an awoo bark of a chance…
+
+Nope!
+
+Definitely not interesting.
+
+Nuh-uh.
+
+Instead, Luna let her eyes wander.
+
+The shop was still full of polished metal and treated leather and sharp, oily smells that clung stubbornly to her nose no matter how much she sniffed. Everything glittered faintly under the light, all hard edges and smooth surfaces, all very serious and very… still.
+
+Boring.
+
+Her gaze drifted lower.
+
+To the floor. To the walls. To the dark shapes pooled between stands and shelves, where light didn’t quite reach and shadows pooled whispering Apex Predator secrets.
+
+Her ears perked.
+
+The shadows shifted as she moved.
+
+That part wasn’t surprising. Shadows were fickle things. They followed rules, but only loosely, and they liked to change their minds when Luna wasn’t paying attention.
+
+Helpful when she told them what to do. Very unhelpful when she didn’t!
+
+But this time, something else caught her attention.
+
+Luna stepped sideways.
+
+The shadow stretched.
+
+She leaned forward.
+
+It slid again, clinging to the wall this time instead of spreading across the floor.
+
+Luna froze, staring intently.
+
+No… What really mattered about shadows was...
+
+Slowly, very slowly, she reached out and placed her hand against the wall, right where the shadow lay thick and dark.
+
+She felt its nonexistent touch. Felt it wanting to obey.
+
+Luna held her palm there.
+
+Yes, the shadows were fickle.
+
+But also everywhere!
+
+The surface didn’t matter.
+
+The shadow didn’t care if it was ground or stone or wood. It didn’t care about where it was. It was just… there.
+
+Waiting!
+
+Everywhere, and anywhere, if one looked properly!
+
+And ready to answer Luna’s call, always.
+
+Her tail flicked.
+
+Ground, wall, maybe even–
+
+“Luna! Whatcha doing there?” Sepio asked.
+
+Luna jumped, hand snapping back as if she had just been caught stealing something extremely important.
+
+“Nothing! Luna is definitely not doing suspicious wall things!” she declared immediately.
+
+Sepio gave her a dubious look.
+
+His entire posture told everybody watching he absolutely did not believe that.
+
+“Right,” he said flatly. “Sure. Let’s go with that.”
+
+Luna shuffled back a step, clasping her hands together and pretending very hard that walls were no longer interesting.
+
+Very hard!
+
+A moment later, heavier footsteps approached.
+
+Veric had finished whatever it was he had been doing and now stood beside them, looking down at Luna with that calm, measuring gaze of his.
+
+“Hrm,” he rumbled. “You seem bored.”
+
+Luna hesitated.
+
+She avoided his eyes, stared at the floor instead, and picked at her fingers. Veric just waited, patiently.
+
+“…Yesh.”
+
+He nodded, entirely unsurprised, then pointed at his more chatty companion.
+
+“Then perhaps Sepio can tell you where to find Syliana.”
+
+Sepio blinked.
+
+“What? Me? Why–”
+
+Veric just looked at him.
+
+Sepio deflated.
+
+“…Sure. Fine.”
+
+Veric turned back to Luna, ruffling her hair gently.
+
+“Just don’t get lost,” he said. “And if you do, return here, or to the inn. Is that clear?”
+
+Luna’s ears shot straight up.
+
+Her tail perked.
+
+She nodded quickly.
+
+Very quickly!
+
+Clear! Clear as shadow on wall!
+
+She bounced on her feet, intently listening to the grumbling Sepio.
+
+But the grumbling didn’t matter!
+
+The very promise of ‘not here’ made boredom run like prey!
+
+Luna could hardly wait!
+
+Anything was better than standing still and talking forever.
+
+***
+
+Luna was a free wolf!
+
+Free!!!
+
+She practically bounced out of the shop the moment Sepio pointed her in the right direction, feet barely touching the ground as she fluttered between people and wagons and legs.
+
+The air felt different the instant she was outside again.
+
+Wider. Looser. Full of smells that weren’t metal and oil and standing still forever.
+
+Ahhh.
+
+So much better!
+
+Sepio had told her where to look and search, and even smell!
+
+A herb shop. And a potion place thingamajiggy!
+
+Luna wasn’t sure how she felt about going places that smelled green and bitter and a little sharp in the nose. A few of them made her nose all itchy and Awoo-chu-y!
+
+But for now…
+
+It was exploring time!
+
+Luna trotted along happily, nose flicking side to side as she followed the city’s scent-trails instead of its streets.
+
+Streets were suggestions! Smells spoke of truth!
+
+Humming her favorite song, Luna’s mind started wandering again. A little bit everywhere. A little bit more towards her destination. Towards smells and things, and stalls, and…
+
+Hmm.
+
+A thought struck Luna.
+
+Her Second liked herbs!
+
+And had asked her to gather specific ones too, outside of the funny board quests!
+
+Hm!
+
+Luna slowed as her thoughts caught up with her feet.
+
+Was Syl making potion thingies herself now?
+
+The idea made Luna grin.
+
+Potions were tingly. Potions made her legs lighter and her body hum and let her zoom longer without everything burning all at once. If Second could make more of those…
+
+Then–!
+
+Luna could do many zooms?
+
+Many many zooms?
+
+Luna tried counting on her fingers.
+
+Again… and again!
+
+It didn’t work.
+
+Ehehe…
+
+But it would mean many more than a few!
+
+Her Second was awoomazing!
+
+The thought settled warmly in her chest, calming her excitedly beating heart.
+
+【Intelligence +1】
+
+Luna blinked.
+
+Oh!
+
+She felt the sudden cool of clarity wash over her – making everything feel just a tiny bit brighter now, and her thoughts running just a little smoother.
+
+Ohhh!
+
+“Luna smorter now!” she declared proudly to absolutely no one.
+
+A true genius Luna!
+
+Ehehe!
+
+In her excitement, she hopped up onto a low wall running alongside the street and kept going from there instead, arms stretched slightly for balance.
+
+Walking on top of things was fun!
+
+It made her taller!
+
+Important.
+
+And it was quite easy too!
+
+…Kind of.
+
+Mostly!
+
+Her tail wagged enthusiastically behind her, throwing off her balance just enough to keep things interesting.
+
+She wobbled once, laughed, corrected her stance, and kept going.
+
+Luna knew where she was going now.
+
+But knowing where to go didn’t mean she had to get there right away!
+
+For a while she simply let herself go, balancing, hopping, and jumping over separate wall segments.
+
+It was fun!
+
+And it made her recall the fun trip with Trianna.
+
+Her packmate had shown her the view from the big city walls.
+
+It was lovely too.
+
+But Luna had noticed something important while up there.
+
+There were taller places in the town!
+
+Much taller!
+
+Her ears perked as she spotted one.
+
+A tall building loomed nearby, its side cast in shadow, cool and dark compared to the sunlit street. Luna hopped down from the wall and padded closer, craning her neck up.
+
+That was high.
+
+Very high!
+
+Luna propped her hands up on her hips.
+
+Stared up, with eyes twinkling.
+
+She could climb that!
+
+Probably!
+
+And was just about to try…
+
+…when she remembered that pack had said not to damage things many times.
+
+Buildings were things too, right?
+
+Uh.
+
+Probably?
+
+…
+
+But how to climb, and not damage?
+
+Luna frowned, thinking very hard.
+
+Then her gaze drifted to the shadows clinging to the side of the building.
+
+Hum-harrum.
+
+Shadows were everywhere.
+
+And Luna could use shadows!
+
+Her expression brightened.
+
+Oh-woo!
+
+It was all coming together!
+
+She pressed her palm against the wall, right into the cool, dark patch beside it, and willed her trusty Shadowmeld to work.
+
+The shadows shifted.
+
+Slid.
+
+But didn’t quite… help.
+
+They moved, flowed around her hand, but gripping them felt slippery. Wrong. Luna huffed softly in frustration, tail flicking as she tried again.
+
+No.
+
+Wait!
+
+She changed how she thought about it.
+
+Instead of trying to stick to the wall…
+
+She grabbed the shadow itself.
+
+Pulled.
+
+Her fingers curled – and suddenly the shadow answered.
+
+“Oh!”
+
+She hauled herself upward, feet leaving the ground as the shadows tightened beneath her grip. Then she reached again.
+
+And again.
+
+Up she went, bit by bit, tail wagging furiously with excitement.
+
+This worked!
+
+This totally worked!
+
+Luna was a genius!
+
+Apex Predator Genius!
+
+Then her tail wagged too hard.
+
+Her focus slipped.
+
+The shadow loosened.
+
+And Luna dropped straight down, landing hard on her butt with an undignified thump.
+
+“…Ouch-woo.”
+
+She sat there for a moment, blinking, rubbing at her tailbone, and staring up at the wall again–
+
+Already thinking about what she might try differently next time!
+
+And after sitting there for a while – while glaring very hard at the wall for making her look silly – Luna realized something important.
+
+She already had a skill for this!
+
+Her ears perked straight up.
+
+Shadow Run was for running, yes. For zooming and sliding and making the ground behave properly under her feet.
+
+For making speed work instead of fighting her.
+
+But it also helped her grip shadows!
+
+Luna’s grin returned immediately.
+
+And with renewed vigor, she stood up and pressed her hands back against the wall, reaching for the shadows again.
+
+This time, she didn’t just pull at them.
+
+She ran!
+
+Not with her legs – simply a little push. A little intent. Feeding Shadow Run into the motion, telling it to help, to support, to make this make sense!
+
+The shadows tightened more easily this time, bunching beneath her grip.
+
+More solid. Reliable! She could feel them supporting her even before she tried!
+
+Luna grinned.
+
+Then put her weight on the shadowy grips…
+
+And up she went!
+
+Once.
+
+Twice.
+
+Three times, five–!
+
+And then she slipped again, landing squarely on her butt with a dull thump.
+
+“Woo…,” Luna groaned, flopping backward for a second before sitting back up.
+
+Using two skills together in new ways was tricky!
+
+Hard.
+
+Annoying!
+
+But–
+
+【Shadowmeld Lv. 10 → Lv. 11】【Shadow Run Lv. 5 → Lv. 6】
+
+It worked! Even System meanie agreed!
+
+And the shadows felt different now.
+
+More responsive!
+
+She felt it in her limbs, in the way they answered just a little faster than before, a little more eagerly!
+
+So Luna tried again.
+
+And again!
+
+Each attempt carried her higher than the last. Her hands learned how to grab better. Her body learned how much to lean, how much to pull, how not to wag her tail too much.
+
+And that while shadows were versatile… They didn’t like going far from the wall!
+
+She fell a few more times.
+
+But not as far!
+
+And each time, something inside her clicked just a bit more into place.
+
+Again!
+
+She went higher now.
+
+Almost… almost…
+
+Her fingers hooked over the edge.
+
+Luna hauled herself up with a grunt and rolled forward onto solid stone.
+
+She froze at the view, inhaling a deep breath.
+
+Then–
+
+“Woa-a-ah!”
+
+Luna scrambled instinctively, nearly tipping herself right back off the edge as her attention exploded outward all at once!
+
+The town stretched beneath her in strange, uneven layers. Roofs and chimneys and narrow streets twisted together into something that looked almost alive.
+
+Her heart pounded.
+
+Carefully, very carefully, she shuffled backward until she felt stable again.
+
+That was close!
+
+But she was up.
+
+And the view was great!
+
+In a weird, human-nest great way.
+
+But pretty!
+
+Ehehe.
+
+Luna sat down carefully, legs tucked close, tail wrapped around herself as best as she could manage. She closed her eyes.
+
+And sniffed.
+
+Up here, the smells were different.
+
+Lighter.
+
+The wind stripped away the heavy, overlapping scents of the streets below, carrying them off and replacing them with others from beyond the town – smelling of grass, distant prey, and sun-warmed earth.
+
+Whooo-haaaaa!
+
+Luna inhaled deeply, chest rising, then exhaled hard, letting it all wash through her.
+
+She just sniffed.
+
+And listened.
+
+For a moment, she really wanted to Awoo!
+
+But there was no Moon to Awoo to.
+
+So instead–
+
+“Woo-woo-woo!”
+
+It wasn’t very loud. More playful than what a proud Awoo could do.
+
+But it felt right.
+
+Yesh!
+
+This was the perfect spot.
+
+She sat there a little longer, tail flicking happily, committing the feeling to memory.
+
+And now… now it was time to go check on Second!
+
+But first–
+
+She glanced at the wall again, eyes gleaming.
+
+Maybe she would go down.
+
+And then back up!
+
+Just a little more.
+
+Luna could already imagine the looks on her pack’s faces.
+
+Ehehe!

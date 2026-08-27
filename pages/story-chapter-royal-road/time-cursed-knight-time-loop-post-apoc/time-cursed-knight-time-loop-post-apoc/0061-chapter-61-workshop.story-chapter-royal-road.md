@@ -1,0 +1,267 @@
+---
+id: c61329c7-4bb8-5aa0-85f2-490032ad2c2c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 61: Workshop"
+slug: 0061-chapter-61-workshop
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 61
+ownLength: 2513
+unit: words
+publishedAt: 2026-06-09
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3515555/chapter-61-workshop"
+royalRoadId: "3515555"
+---
+
+The case file was forty-seven pages long.
+
+I read it twice before the candle on the nightstand burned past its halfway mark.
+
+The drug was called Snow Dream. A powder, fine-grained and iridescent, that dissolved on the tongue and produced effects the file described in clinical language that couldn't quite contain the horror of what it was doing to people.
+
+Snow Dream introduces a synthetic mana compound into the user's system that temporarily stimulates dormant core tissue. In subjects with existing Circle formations, the drug produces a perceived expansion of magical capacity lasting four to eight hours. In subjects without Circle formations, including those classified as non-magical, the drug induces a sensation of mana flow that mimics authentic core activation.
+
+I read the next paragraph three times.
+
+The sensation is indistinguishable from genuine Circle awakening. Users report the experience of mana moving through channels they have never felt before. They describe warmth, clarity, and a sense of connection to the ambient magical field that matches, and in some accounts exceeds, the descriptions provided by verified Circle-bearing mages.
+
+The effect is temporary. Upon metabolic clearance of the compound, all perceived magical capacity vanishes. The user returns to their baseline state.
+
+Withdrawal produces severe psychological distress. Documented symptoms include tremors, nausea, paranoia, and hallucinations. In cases of sustained use, permanent degradation of existing core tissue.
+
+The file continued.
+
+Dependency develops rapidly. First-time users report a compulsion to repeat the experience within twenty-four to forty-eight hours.
+
+Primary demographics affected: Individuals with weak or absent Circle formations. Nobility whose political standing depends on magical classification. Commoners seeking advancement through perceived magical status. Academy students who have failed Circle development.
+
+I set the file on the table.
+
+The target demographic was a blade aimed at the empire's most vulnerable people.
+
+Luck, cold and unwelcome, was still luck. If Snow Dream had existed during Kaspar's Academy years, he would have experimented with it.
+
+I turned to the IC-INV-0047 section on supply routes.
+
+Origin: Unknown. Preliminary identification suggests monster-derived core compounds processed through alchemical techniques not consistent with any known Imperial methodology.
+
+Distribution pathway: Confirmed transit through the Kumsur Sultanate. Routes crossing the western border of the Sultanate into Imperial territory via the Merchant's Pass and secondary trade corridors. Multiple intermediary handlers identified but not apprehended. The supply chain terminates in distribution cells operating within the capital and three major provincial cities.
+
+The Kumsur Sultanate.
+
+A sovereign territory that shared a border with Silberwald's eastern frontier. Governed by a Sultan whose relationship with the Empire existed in the ambiguous space between alliance and hostility.
+
+Imperial law enforcement had no authority within Sultanate borders. Any investigation that traced the supply chain to its source would require either diplomatic cooperation that didn't exist or covert operations that, if discovered, could trigger an incident between two nations that were already watching each other with the kind of attention that made diplomats earn their pay.
+
+The file's final page bore a single note from the Investigation Division.
+
+Assessment: Snow Dream represents a significant threat to Imperial stability. The drug's capacity to exploit the social fracture between magical and non-magical populations creates a vector for civil unrest that hostile actors could weaponize.
+
+The three weeks before the Knight Formation School began were not rest.
+
+They were preparation.
+
+I divided the time into objectives.
+
+The first was personal. The second was financial. The third was strategic.
+
+The third would take longer than three weeks. Years, perhaps. But the groundwork could begin now, and every day I delayed was a day the board's pieces moved without my hand on them.
+
+The personal objective came first.
+
+The memories Gluttony had released weren't just superficial information. They were his whole life. And that life had contained people dear to him.
+
+On the fourth morning of my rest period, I left the palace before dawn.
+
+The capital was a different city in the early hours. The wide boulevards that served as stages for noble carriages and academic processions during the day were empty. The air carried the clean mineral smell of wet stone.
+
+I walked south from the palace district, through the administrative quarter where the ministry buildings rose, past the cathedral square, where the twin spires caught the first light, and into the commercial district that sprawled along the capital's southern arc.
+
+The district changed character as I moved deeper. The grand storefronts of the main boulevards gave way to smaller establishments. Workshops. Repair shops. Specialist retailers whose clientele was narrow enough that their signage didn't bother with descriptions.
+
+The area nearest the Academy was different still.
+
+The shops clustered together in a dense arrangement that reminded me of a market, except the goods on display weren't food or fabric. They were Magitek.
+
+The windows blazed.
+
+Every storefront was a showcase of magical engineering. Devices of brass and crystal and inscribed metal, ranging in size from pocket watches to wardrobes. Mana-resonance amplifiers. Atmospheric regulators. Communication crystals in housings of every conceivable material and design. Automated quills that transcribed speech to text. Self-heating cookpots. Illumination arrays. Weather-prediction orbs. Musical instruments that played themselves.
+
+Most of it was junk.
+
+Not in the sense of quality — the craftsmanship was often remarkable, the spell matrices elegant, the materials expensive. Junk in the sense of practicality. The fundamental problem with Magitek was the same problem it had always been, the same problem that kept magical engineering from transforming daily life the way its practitioners dreamed it would.
+
+Mana consumption.
+
+Every device required power. Every spell matrix inscribed into metal or crystal or wood needed a continuous feed of mana to function. For the simplest applications — Mana-glow strips, basic heating elements, and the communication crystals that had become ubiquitous in military and governmental use — the consumption was modest enough that a single Mana Crystal could sustain operation for weeks or months.
+
+For anything more complex, the economics collapsed.
+
+A Magitek cooler could chill an entire room, whether to preserve food or simply make the space more comfortable. However, it would consume a Mana Crystal within twenty-four to forty-eight hours, and a single Mana Crystal was worth nearly a month’s wages for a skilled laborer. That made the device little more than a novelty for nobles who could afford to burn money.
+
+And that was assuming there was enough Mana Crystal supply to spare.
+
+The same calculus applied to nearly every device in these windows. Brilliant engineering, beautiful design, extraordinary capability. All of it locked behind a consumption rate that priced the technology out of reach for ninety-five percent of the population.
+
+It was relevant to the second objective, the financial one, in ways I hadn't fully mapped yet. But that was for later.
+
+One step at a time.
+
+The shop I was looking for sat at the end of the row. It was smaller than its neighbors. The facade was clean but unadorned, dark timber framing around a single display window that held a modest arrangement of devices and components.
+
+The sign above the door was painted in a hand that prioritized legibility over artistry.
+
+VORALBERG MAGITEK
+
+Voralberg. His mother's maiden name. The family she'd belonged to before the marriage contract that had delivered her to the Hexenzeit household.
+
+I pushed through the door.
+
+A bell chimed overhead. The interior was warm, lit by Mana-glow strips. The air smelled of solder and heated metal.
+
+A workbench dominated the center of the space. Behind it, hunched over something small enough to fit in the palm of a hand, a figure was working.
+
+Ice-blue hair.
+
+The color was so vivid, so recognizable, that it bypassed every process in my brain and went straight to the place where the ghost of a twelve-year-old boy's desperation had been sleeping.
+
+The Voralberg line wore that ice-blue—Asena had never bothered to hide it.
+
+Yet, the figure behind the workbench was not Ameriz.
+
+She was younger. Late thirties. The ice-blue hair was shorter, cut to shoulder length in a practical style. Her frame was compact, athletic in the wiry way of people who carried things and climbed things and spent their days working rather than seated.
+
+Her face was bent over the device on the workbench, close enough that her nose nearly touched it. A jeweler's loupe was pressed against her right eye.
+
+She was smiling. A wide, unguarded grin of pure absorption.
+
+The bell's chime hadn't reached her.
+
+I stood in the doorway and watched her work for three full seconds before she registered me.
+
+Her head came up.
+
+The loupe dropped from her eye. The smile vanished. An involuntary tightening that was equal parts recognition and fury.
+
+Her eyes, the same pale blue as the hair, locked onto my face.
+
+The white hair. The scars. The Iron Cross insignia on my chest.
+
+A full three seconds of absolute silence.
+
+"You son of a bitch."
+
+The words exploded across the shop with a volume that rattled the components on the nearest shelf.
+
+She vaulted the workbench.
+
+The motion was athletic and furious, one hand on the counter's edge, legs swinging over in a single fluid arc that cleared the tools and the half-assembled device and deposited her on the customer side of the shop in less than a second.
+
+She crossed the distance between us in three strides.
+
+Her fist connected with my upper arm. It landed hard enough to sting, controlled enough to not actually damage.
+
+I didn't move.
+
+Asena hit me again. Same spot. Harder.
+
+"Where — " punch " — the hell — " punch " — have you — " punch " — been?"
+
+Each word was punctuated by a fist that drove into the same bruise it was building on my shoulder. Her teeth were clenched. Her eyes were wet.
+
+"Do you have any idea — " She stopped hitting me. Her hand seized the front of my jacket instead, bunching the fabric in a grip that whitened her knuckles. " — what it was like? Reading that headline? Seeing your name in print and not knowing if you were alive or dead or lying in some field hospital with your guts hanging out."
+
+Her voice cracked.
+
+The anger was still there.
+
+But the tears won.
+
+They spilled over, cutting bright tracks down her cheeks, and the fury in her face rearranged itself into something rawer.
+
+"You're enormous," she said. The observation came out choked, halfway between a sob and a laugh. She released my jacket. Stepped back. Looked me up and down with the appraising eye of someone cataloguing changes. "What happened to you? You were a stick. A twig. I used to bruise you with these." She held up her fist. Flexed the fingers. "Now I think I've hurt my knuckles more than your arm."
+
+I looked at her.
+
+Asena Voralberg. Ameriz's younger sister. His aunt. The woman who had, in the gaps between Kaspar's removal from the Hexenzeit household and his enrollment at the Academy, been the closest thing to a mother he had known.
+
+The memories gave me fragments. Visits to this shop, the sign newly painted. Asena's hands teaching his hands to hold a soldering tool. Her voice explaining spell matrix theory in terms that a child could grasp, laughing when he asked questions that were too advanced for his age, then answering them anyway because she recognized what the Academy's admissions board would later confirm: Kaspar was brilliant.
+
+Her letters. She had written to him at the Academy. Monthly, without fail. Each one filled with the same combination of profanity and warmth that characterized everything she did.
+
+She had been the only person who kept writing.
+
+My chest ached.
+
+"I'm sorry," I said.
+
+The words were inadequate. I knew they were inadequate before they left my mouth. But they were the only ones I had.
+
+Asena's jaw worked. She wiped her eyes with the back of her hand, a gesture so brisk and impatient it might have been mistaken for swatting a fly.
+
+"Sorry," she repeated. "Sorry. He says sorry. As if sorry covers months of silence. As if sorry covers finding out your nephew is fighting on the southern front from a newspaper that your customer left on the counter."
+
+She punched my arm again. Lighter this time.
+
+"Come here," she said.
+
+She grabbed me.
+
+The embrace was not gentle. Her arms locked around my torso. Her face pressed against my chest, the ice-blue hair crushed between us.
+
+She was shorter than me now. The memories held a woman who had loomed over the boy, whose chin sat at his eye level, whose hugs had required him to stand on his toes to reach her shoulders.
+
+She held on.
+
+I let her.
+
+Something in my chest loosened.
+
+Human warmth. The kind that came from being held by someone who was glad you were alive.
+
+My hand had already found the back of her head, ice-blue strands sliding through my fingers, before I registered.
+
+For a long moment, neither of us spoke.
+
+Then a voice came from behind the workbench.
+
+"Is everything okay?"
+
+Asena released me. Stepped back. Wiped her face again with that same brisk, impatient motion.
+
+A head appeared above the counter.
+
+The child had climbed onto a stool behind the workbench — or perhaps had been standing on one all along, hidden by the counter's height. He peered over the edge with a careful, evaluative gaze.
+
+Ice-blue hair. A shade lighter than Asena's. Spectacles, circular wire frames that were slightly too large for his face and had slid to the very tip of his nose.
+
+He looked at me.
+
+His eyes, behind those sliding spectacles, were enormous. Wide with recognition. His mouth formed a small, perfect circle.
+
+"Big brother Kaspar?"
+
+Eren Voralberg. Asena's son. The only child of a woman who had inherited the Voralberg genius and passed it down to the next generation.
+
+The memories placed him at around nine the last time Kaspar had seen him. A kid who followed his mother around the shop, who reached for every device and component on the shelves. Kaspar had held him. Had read to him.
+
+He was ten now. Maybe eleven. Eren had become a boy, thin-limbed and sharp-featured.
+
+The spectacles slid another millimeter.
+
+He pushed them up. They immediately began their descent again.
+
+"It's me," I said.
+
+Eren's face split into a grin. He scrambled off the stool, ducked under the counter's service hatch, and ran across the floor.
+
+He didn't hug me the way Asena had. He stopped a pace short, tilted his head back to compensate for the height difference, and studied my face.
+
+"You're different," he said.
+
+"I've been away for a while," I explained.
+
+Asena appeared beside him. Her hand settled on top of his head, fingers threading through the hair.
+
+She steered both of us toward the back of the shop, where a door led into a narrow hallway and beyond it, a room that served as kitchen, parlor, and, judging by the stack of technical manuals on the table, a secondary workspace.
+
+"Sit," she ordered. The word brooked no argument. "You're not leaving until I've heard everything."

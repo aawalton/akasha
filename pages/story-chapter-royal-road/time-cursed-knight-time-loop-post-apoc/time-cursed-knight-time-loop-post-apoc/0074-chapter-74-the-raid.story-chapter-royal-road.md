@@ -1,0 +1,243 @@
+---
+id: a1a9c4a4-34cc-5093-b58b-80250956e43f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 74: The Raid"
+slug: 0074-chapter-74-the-raid
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 74
+ownLength: 2170
+unit: words
+publishedAt: 2026-06-26
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3595476/chapter-74-the-raid"
+royalRoadId: "3595476"
+---
+
+We watched for a full day.
+
+We took turns from three different lanes, never the same position for more than an hour, never two of us in the same line of sight.
+
+A face seen once is a stranger. A face seen twice is a problem.
+
+So we rotated. We bought things we didn't need from vendors who didn't care, and watched the warehouse breathe.
+
+Their arrogance was impressive.
+
+The place was crawling with men. They came and went through the front doors with the unhurried confidence. They smoked in the doorway. They sat on the loading platform. They leaned against the crates stacked outside.
+
+They behaved like they owned the street.
+
+"Two ways in." Henrik kept his voice low, his eyes fixed on a fruit stall while his attention sat entirely on the building forty meters past it. "Front entrance. Two guards, fixed post. But watch them." He tipped his chin a fraction. "Every twenty, thirty minutes they stop watching anything. Somebody calls out, they turn around, they get pulled into whatever's happening inside. The door stops mattering."
+
+I watched. He was right.
+
+"The back?"
+
+"Service door, rear wall." Henrik's jaw tightened. "Nobody on it. Not one man. Which tells me one of two things. Either it's jammed shut and useless—" He paused. "Or it only opens from the inside, and they've got something on it I can't see from here."
+
+"Magic," Lena murmured. She'd drifted up on my other side. "A ward keyed to the interior. You can't break in through a door like that. You'd announce yourself the moment you touched it."
+
+"And out?" I asked.
+
+"That's the part I don't like. There's a route. North through the warehouse lanes, then we cut east into the commercial quarter. We have to cross the market to reach one of the major gates." She drew a breath. "It's exposed. The worst possible ground for three foreigners with blood on them to be moving fast."
+
+"Time?"
+
+"If the alarm goes up the second we leave?" She did the math behind her eyes. "Fifteen minutes before every gate in the city is sealed. Maybe more, if the Ashkeri are slow. Maybe less, if they're not."
+
+"That's thin," Henrik said.
+
+"It's thin." Lena's voice was steady, but her hand hadn't stopped moving. "I'll be honest. I'm nervous."
+
+"Good," I said. "Nervous people check their corners."
+
+She huffed something that wasn't quite a laugh.
+
+I turned back to the warehouse. The sun was sliding toward the western dunes, painting the white stone of the distant wall in shades of rust and gold. The guards at the front door had turned inward again.
+
+"We don't move yet," I said. "There's no clock on this. We wait for a moment that costs us nothing. If it doesn't come tonight, it comes tomorrow."
+
+Lena exhaled. Her shoulders dropped a fraction.
+
+The world disagreed with me eleven minutes later.
+
+The ground moved.
+
+It was the second time I felt it shake that day. The bone-deep shudder of a Titan testing the wall, the kind of tremor the entire city had learned to ignore. A rumble, a flinch from the unaccustomed, and then nothing. The desert mages answered. The walls held. Life resumed.
+
+This one took a bit more time.
+
+It built.
+
+Far across the rooftops, against the bruised orange of the dying sky, I saw them.
+
+Ashkeri. Running. White figures pouring up the stairwells of the wall.
+
+I didn't know what kind of Titan was out there in the dunes. I couldn't see it from where we stood. But I didn't need to. I turned my head, and I found Henrik already looking at me, and Lena looking at both of us, and the same understanding was sitting behind all three sets of eyes.
+
+Every soldier in this district was about to be looking the other way.
+
+"There's no better moment than now," I said.
+
+Lena closed her eyes for one second. Two. Then she let the breath go through her nose and nodded, once, sharp.
+
+"No," she agreed. "There isn't."
+
+Henrik rolled his shoulders. The greatsword's harness creaked across his back.
+
+"Give me a target and get out of my way," he said.
+
+"Two seconds." My hand was already at my belt. My fingers moved across the wax seals by shape and weight, and they found the one I wanted.
+
+Experiment #61.
+
+This one I remembered. Most of the experiments lived behind shelves I hadn't reached, their trials sealed in corridors of Kaspar's library I had no map to. But #61 came to me whole and I suspected that was precisely because it had nearly killed him. Trauma carves deeper grooves than triumph.
+
+"Behind me," I said. "Cover your ears. Both of you."
+
+I threw.
+
+The vial spun once across the gap and shattered against the warehouse's entrance.
+
+Sound cracked through the lane.
+
+A thunderclap compressed into a single point and released all at once. The front doors blew inward off their hinges. The two guards who had been turned away from the street were lifted off their feet and thrown into the dark interior and left sprawled in the dark. In the wake of the shockwave, a billowing curtain of pale blue gas vomited out through the ruptured entrance, swallowing the loading platform, the doorway, the men inside it.
+
+Across the lane, vendors screamed. Somewhere a soldier I hadn't even seen was shouting, disoriented, blind. I'd startled half the district, my allies included. Behind me, Henrik flinched, and Lena had thrown an arm across her face.
+
+I didn't flinch.
+
+Mana Breath flooded my lungs. Edges sharpened. The blue gas was nothing but a veil, and behind it I could feel the men, their panicked mana flickering like candles.
+
+I lowered my head for two seconds, sword tip down, face briefly bowed.
+
+“Grant them eternal rest.”
+
+Then walked through the smoke.
+
+The first one was on his knees, hands pressed to his ears, mouth open in a scream the blast had stolen from him. He never saw the blade. I took him across the back of the neck, and his scream became a wet exhale, and he folded forward into the dust.
+
+The gas thinned as I pushed deeper, and the warehouse opened around me exactly as it was in the blueprints. Crates four high along the walls. Tables in the center. A scatter of dropped dice still rolling across the packed-earth floor. Soldiers had been too comfortable. They'd been laughing.
+
+Now they were dying.
+
+It went the way these things go when one side is ready and the other is not.
+
+They reached for weapons that took heartbeats to clear leather. A few of them tried to cast—I felt the mana gathering, felt the channels strain toward a shape—but a spell needs time. I cut a hand from a wrist before they could finish.
+
+Henrik came in two steps behind me and to the left, and the greatsword did what greatswords do. It didn't cut so much as it erased. A descending blow split a man from collarbone to ribs, folding him sideways.
+
+Lena worked the edges. She was surgical, every cut aimed at a seam in the armor of flesh, the inside of a thigh, the soft hollow of a throat.
+
+I found my target near the back wall.
+
+He was unmistakable, a mountain of a man in ivory silk, an unlit cigarette still clamped in the corner of his mouth out of sheer animal habit. The boss.
+
+His hand was pulling something. A cord, hanging from the ceiling beside a narrow service door in the rear wall, his fat fingers closing around it as his mouth opened to scream a word.
+
+"ASH—"
+
+I was already close to him.
+
+He felt me. I saw it in the way his shoulders seized, the way his head began to turn, the way his eyes found my face and went wide, like a man who had already seen the answer and couldn't unsee it.
+
+The blade came across on a flat horizontal arc, and his neck offered no more resistance than the others had. His head left his shoulders, rose in a lazy turning arc through the smoke, and the body stood for one heartbeat before the heart understood there was no longer a master to serve and gave up.
+
+He hit the floor in two pieces.
+
+One man left.
+
+He ran, trying to reach the door before we reached him. But he had taken no more than four steps before Henrik split his head.
+
+I lowered the sword.
+
+Let light shine upon them. For all the good it would do.
+
+It was over.
+
+The warehouse was a slaughterhouse, and we were the only three things still breathing inside it.
+
+⌜ Novice Swordsmanship — Level 28 ⌝
+
+⌜ Alchemical Combat — Level 3 ⌝
+
+⌜ Mana Breath — Level 19 ⌝
+
+Less than five minutes. The mission that had cost us five days across the desert and a day of watching was finished in less than five minutes.
+
+At least, as far as I knew.
+
+"We need to move." Lena was already wiping her blade, her eyes flicking toward the entrance. "They might already know about us."
+
+"They know." I gestured at the cord still swaying gently. "He got the alarm off before the blade finished him. Whatever that connects to, it's already ringing somewhere."
+
+Lena shook her head. "Then we're on the clock."
+
+"Thirty seconds," I said. "Then we go."
+
+Something had caught my eye.
+
+The final shipment sat half-processed against the rear wall. Crates pried open, ceramic vessels, the white powder catching what little light remained. Snow Dream. More of it than the case file had suggested moved through any single point.
+
+But the powder wasn't what stopped me.
+
+It was the sorting.
+
+They'd been splitting the cargo. Two distinct piles. I crossed to the nearest stack and pried up a lid that had already been resealed and stamped.
+
+The marking was burned into the wood in dark Kumsuri script.
+
+"Lena."
+
+She was beside me in an instant.
+
+"'For the Sultan,'" she read. "This half is going up. To the palace."
+
+The other stack had no stamp. Instead, tucked beneath the topmost lid, a folded sheaf of papers, brittle and travel-stained. I pulled them free and unfolded.
+
+Routes. Hand-drawn corridors threading north and west out of the desert. One traced a line into the Republic. Another ran all the way to the heart of the Empire. To the capital.
+
+And along that line, beside the terminus, a name.
+
+A noble's name.
+
+I didn't know the man. But the house—the house I knew.
+
+Auricht.
+
+Someone inside the Empire was buying this poison at the source. Someone with a name and a seat at the great table.
+
+I folded the papers and slid them inside my robe.
+
+"Got what we came for," I said. "And more. Out. Now."
+
+We went for the entrance, swords still wet, the blue haze finally dispersing into the gathering dusk. Henrik hit the threshold first, Lena on his heel, me a half-step behind, the escape route already mapping itself across my mind.
+
+North through the lanes, east into the market, ten minutes to a gate—
+
+The ground heaved.
+
+Not a tremor. Not the bone-deep hum of a Titan testing the wall.
+
+This was an impact. The whole street jumped beneath us, and the crash that followed it was so vast that for a moment I thought the warehouse itself had come down on our backs.
+
+We staggered out into the lane, and we saw it.
+
+We saw all of it.
+
+The Titan was inside.
+
+It loomed over the northwestern quarter like something dredged up from the bottom of a fever, a thing built on the idea of a praying mantis and then scaled to the proportions of nightmare. Spined forelegs longer than caravan masts. A wedge of a head crowned with antennae that lashed the air. Wings folded in dark, glassy sheets against a thorax the color of old bruises. It had climbed the wall—climbed it, hooked its monstrous limbs over twenty meters of warded stone—and the shimmering dome defense that had swatted aside a Titan's breath that very morning hung in tatters.
+
+Below it, scattered across the rooftops and the wall-walks, I could see them—dozens of them, the desert mages, hands raised, pillars of compressed sand hammering up into the thing's flanks, the Ashkeri swarming its legs like white ants on a corpse.
+
+It hadn't worked.
+
+Everything that had turned the morning's monster away in minutes had been thrown at this one, and this one had walked through it, had broken the shield and set one taloned forefoot down inside the city, and the whole of Qalathar's defense was breaking against it.
+
+Henrik swore. I didn't catch it over the crash.
+
+Lena had gone very still beside me.
+
+Between us and the only gate out stood something the size of a cathedral, and between us and it, panicked soldiers and falling stone.
+
+The clock had run out before it ever started.

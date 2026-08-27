@@ -1,0 +1,515 @@
+---
+id: e95b42bc-1e80-5b83-aa6e-0fe8541bdb8a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 107: Of Eggscellent Distractions, and Forest Escapades"
+slug: 0108-chapter-107-of-eggscellent-distractions-and-forest
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 108
+ownLength: 1820
+unit: words
+publishedAt: 2026-03-06
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3124294/chapter-107-of-eggscellent-distractions-and-forest"
+royalRoadId: "3124294"
+---
+
+PoV Luna
+
+Her gaze lingered for just a moment longer before she moved on.
+
+And soon–
+
+Another chamber opened before her down below!
+
+There were few Ants here. Weirdly enough!
+
+And it… shimmered differently?
+
+Very slightly too!
+
+Metal fragments lay scattered in uneven piles. Broken blades snapped near the hilt. Bent spearheads half-buried in dust. Buckles. Rings. Bits of armor plates with bite marks. Coins. Glassy stones that caught the faint tunnel light and threw it back in tiny glimmers.
+
+Plenty of what Luna sniffed out looked like discarded monster parts! Shells, Rock-like ‘skin’, armored or pointy bits.
+
+…Stuff too hard or weird to be eaten.
+
+Her ears perked high.
+
+And Luna stored some anyway!
+
+Then–
+
+Just to check if she missed something–
+
+Luna crouched and let her fingers move through the scattered piles.
+
+Treasure humans liked was weird, and Luna didn’t pretend to understand that obsession at all. She saw tons of weird things people wear, buy, and use. And this was little different.
+
+Still–
+
+The pieces clinked together in a pleasant little chorus when she stirred them!
+
+Ehehe!
+
+That felt nice!
+
+Luna picked up a coin and bit it experimentally.
+
+Sure, she was told not to eat the shinies–
+
+But there was nobody here to tell her not to try the shinies!
+
+Ting.
+
+It was just… hard.
+
+She frowned.
+
+Chewed harder.
+
+There was some give, and the taste hit her tongue–
+
+Immediately, Luna spat it onto the ground, unimpressed.
+
+Meh taste.
+
+Coins really were not good chewing.
+
+Using the coins to get food was a better trade!
+
+So Luna gathered up those she could see laying around.
+
+Those were the magical shinies that would help her later!
+
+But as she did that, one ring stood out!
+
+She turned it between her fingers. Thick band. Slightly uneven and not quite metal?
+
+Luna bit down slowly.
+
+Crunch.
+
+Her eyes lit up, and tail wagged.
+
+That felt perfect!
+
+Just soft enough to deform under her teeth, but tough enough to push back.
+
+Perfect for chewing!
+
+Luna happily crunched it up, bit by bit.
+
+【Gluttonous Soul 12% → 13%】
+
+Nice!
+
+Her grin widened, teeth glinting faintly in the dim chamber light.
+
+Luna gathered several more promising pieces and slipped them into her Maw.
+
+Secret shinies–
+
+To chew on later!
+
+Ehehe!
+
+What else were the Ants still hiding?
+
+Her grin stretched wider, as she stood back up.
+
+Then she brushed dust from her knees and stretched lightly.
+
+It was time to find out!
+
+The main tunnel had several tunnels branching outward, but one in particular tugged at her nose.
+
+Near the very bottom of the nest, a side tunnel sloped upward slightly.
+
+Warmer air drifted down from it.
+
+It didn’t quite feel like Ants, or meat, or other stuff.
+
+More like…
+
+She paused mid-step.
+
+Her nose twitched.
+
+The scent was strange, and thick, yet not too different from the tunnels around.
+
+It was something new!
+
+And Luna liked new very much!
+
+It could be a new food or spice!
+
+Her boots made almost no sound as she padded toward the rising tunnel. And as she did, Luna could feel the warmth increasing with every step.
+
+So did the scent.
+
+Her nose flared wide now.
+
+She leaned forward, suddenly very interested.
+
+And padded ahead, just a little faster!
+
+***
+
+The chamber widened abruptly.
+
+And Luna saw them!
+
+Soft.
+
+Warm.
+
+And alive!
+
+Rows, layers, and entire clusters of pale, oval shapes packed tightly across the earthen floor, with many many more Ants tending to them.
+
+Eggs!
+
+So many eggs.
+
+They lay in careful groupings, stacked in low ridges, some half-buried in packed soil. Their surfaces were faintly translucent, faint veins tracing across them, and here and there something inside shifted just enough to ripple the shell.
+
+The air in the chamber was thick with humid warmth. Dense pheromones layered over everything, sharp enough that Luna’s nose wrinkled slightly as she stepped forward.
+
+Her nose wrinkled even as her mouth drooled.
+
+Luna wanted those Eggs!
+
+But–
+
+There were Ants in the way!
+
+Each one stood positioned between Luna and each and every egg cluster.
+
+The chamber was just built for defense!
+
+And only Luna’s shadows hid her from the Ants immediately finding they had a visitor.
+
+Luna shifted her weight lightly from foot to foot, watching them guard the place. Her gaze flicked across the chamber.
+
+Could she explore peacefully?
+
+Could Luna maybe just… walk in?
+
+Maybe sniff a few!
+
+Maybe poke one.
+
+And eat a few?
+
+She stepped forward–
+
+And they turned toward her as one.
+
+Recognition passed through them like a ripple.
+
+She could smell it!
+
+Queen killer!!!
+
+Very unwelcome scents!
+
+But Clickies did not scare Luna, not at all!
+
+The first soldier lunged.
+
+She pivoted sideways without thinking, letting the heavy body slam through the space she had just occupied. Her claw flashed in passing, slicing clean through its middle.
+
+One down!
+
+But Luna didn’t stay.
+
+Because more were already moving!
+
+Uh oh.
+
+There were a few too many of them!
+
+So annoying!
+
+Luna just wanted to–
+
+Wanted to–
+
+Her ears drooped slightly.
+
+Look and sniff and taste some!
+
+Not deal with Clickies again!
+
+No more waiting!
+
+Shadow Run and Reaper’s Pass joined hands.
+
+And distance folded beneath her feet.
+
+The packed earth blurred. Mana surged through her muscles, tightening everything for one violent burst of motion–
+
+–and Luna appeared at the edge of the nearest egg cluster!
+
+Before the silly Clickies could respond!
+
+Luna crouched low.
+
+Her hand shot out!
+
+And she grabbed the closest big egg and tucked it under one arm.
+
+It was warm, smooth, and smelled good!
+
+Her fingers tightened instinctively around the curved shell.
+
+The guarding Ants’ reaction was explosive, their enraged clicking filling the chamber.
+
+But just as the nearest one slammed toward her with all the strength and speed it could muster–
+
+Luna triggered Reaper’s Pass.
+
+And the world lurched sideways!
+
+It was time to run!
+
+And maybe have some fun~!
+
+The chamber erupted behind her.
+
+The sound crashed down the tunnels like thunder. Hundreds of claws striking packed earth. Chitin scraping stone. Mandibles grinding together.
+
+But Luna was no longer around to hear it!
+
+Her grin spread wide as she sprinted.
+
+And as she zigzagged through the branching passages, she found more Clickies blocking the tunnels ahead.
+
+Not many, but Luna didn’t feel like fighting them now!
+
+She twisted around and allowed her shadows to flicker around her feet and ankles in a brief pulse.
+
+To slide her around the sides and ceiling of the tunnel!
+
+【Shadowmeld Lv.12 → Lv.13】
+
+Luna barked out a laugh mid-stride, seeing all of the Ants tumbling around, trying to get at her.
+
+But she was no longer there!
+
+“Nice!”
+
+A soldier lunged from a side passage, trying to intercept her path.
+
+She twisted sideways without breaking stride, slashing across its eyes. It reeled backward, legs scrambling.
+
+Three strides!
+
+That was all Luna needed.
+
+Light appeared ahead.
+
+Filtered forest glow spilling down the main tunnel.
+
+She burst from the nest entrance into open air, egg secure, laughter trailing behind her.
+
+No Clickies followed, too far behind to catch up.
+
+Eggscellent!
+
+She shifted the egg to a more comfortable hold and bounced lightly on her toes as the first Ant emerged from the tunnels.
+
+And, no longer restricted by tunnels, Luna just–
+
+Disappeared from sight.
+
+Only a loud sound of displaced air and forest litter getting caught up in it followed.
+
+Luna zigzagged through trunks, vaulted a fallen log, then leapt a shallow ravine without breaking stride.
+
+Her grin never faded, even as she ground to a halt in an unassuming clearing.
+
+She tried to store the egg…
+
+But it failed!
+
+It was just too alive?
+
+Luna shrugged.
+
+Poked a hole into it, and it could be stored now!
+
+She licked off the jelly left on her finger.
+
+It tasted like–
+
+Nothing?
+
+Woo…
+
+Luna’s disappointment was immeasurable and her day totally ruined!
+
+Well, maybe not quite.
+
+But still!
+
+It felt like something could be done with that jelly thingy from the egg.
+
+She just knew it!
+
+But–
+
+It was something for later!
+
+Maybe Luna could pay Mr. Stall Owner to figure it out.
+
+Yes!
+
+And–
+
+Poof.
+
+Oh. Luna’s transformation ran out!
+
+That…
+
+Hasn’t happened in a while.
+
+Guess she was just too busy having fun!
+
+But–
+
+Luna looked around thoughtfully.
+
+She could just go back and babysit the remaining Clickies back to the plains.
+
+Ferric would probably like that.
+
+The big pack would stab them.
+
+Everyone would be very responsible!
+
+But–
+
+But what if–!
+
+Her thoughts churned as an idea formed.
+
+An absolutely awoomazing idea! A barking great one!
+
+While running around finding, annoying, and leading the Clickies, Luna had noticed something.
+
+The ants’ territory was huge. But it also had edges!
+
+Irregular ones!
+
+With strong and heavy smells.
+
+Speaking of enemies the Ants could not defeat easily.
+
+Luna’s ears perked up as her golden eyes glinted with hunger.
+
+Strong prey!
+
+Perfect for Luna!
+
+Her grin returned immediately.
+
+Then she slipped her clothes into her Maw first.
+
+And–
+
+Luna made absolutely sure everything was tucked neatly away.
+
+Felt as the forest air brushed cool against her fur as she stretched once.
+
+Then…
+
+She let herself go–
+
+Towards the first of big prey!
+
+The world sharpened into focus.
+
+Now running in her wolf form… the forest felt enormous.
+
+It had been too long since she did this.
+
+Far too long!
+
+Luna stopped.
+
+Padded forward experimentally.
+
+Then faster.
+
+Then faster still.
+
+She felt the brush of air running neatly around her four-legged body, and how much swifter the run felt compared to her human one.
+
+Oh yes!
+
+This was so much better.
+
+Freer, faster, stronger!
+
+Her paws struck the ground with perfect certainty. Roots and stones announced themselves long before she stepped on them. Her balance adjusted instinctively to every slope.
+
+And claws–
+
+She had proper claws in this form!
+
+Luna missed those.
+
+Her jaws flexed eagerly.
+
+And bites too!
+
+Very important.
+
+“Awwooo!!!” she howled to herself, delighted.
+
+Luna felt…
+
+Just a little bit more awoomazing now!
+
+And as her skills picked up, she burst forward through the undergrowth like a silver streak.
+
+Running through the forest at bark-stopping speeds Luna quickly found herself at where one of the edges of Ant activity was.
+
+Now–
+
+To find a trail to follow.
+
+Luna sniffed around, run more, sniffed some more–
+
+–And found her first hint!
+
+A scent she was familiar with too.
+
+She zoomed ahead, eyes bright with mischief and mouth already drooling.
+
+And then, she found it!
+
+【Enemy Identified: Granidrake, Lesser Earth Drake】
+
+A big enemy. A strong enemy! One Luna once struggled with.
+
+It was majestic! And so full of potential–
+
+For roast and meat!
+
+Hm.
+
+Was it a little smaller than the other one? Or did Luna just get bigger?
+
+She shrugged from her hiding spot.
+
+And then–
+
+Ran back into the forest!
+
+It was time to see–
+
+If Granidrakes were immune to speed!
+
+Oh, this would be so much fun!

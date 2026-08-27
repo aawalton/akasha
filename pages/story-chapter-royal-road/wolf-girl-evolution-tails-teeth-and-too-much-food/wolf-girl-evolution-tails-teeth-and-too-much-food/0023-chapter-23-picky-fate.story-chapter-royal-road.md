@@ -1,0 +1,251 @@
+---
+id: 5a787c57-9b60-5af3-890c-21f8f5a9cdef
+page-type-slug: story-chapter-royal-road
+title: "Chapter 23: Picky Fate"
+slug: 0023-chapter-23-picky-fate
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 23
+ownLength: 1284
+unit: words
+publishedAt: 2025-09-10
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2590710/chapter-23-picky-fate"
+royalRoadId: "2590710"
+---
+
+PoV Luna:
+
+Luna hit the woods with purpose racing through her paws.
+
+Rabbits first.
+
+They came in bunches, stupid and soft, and thought stillness made them invisible. But she had moon in her veins now, and shadows that listened to her moves.
+
+Shadow Step flicked.
+
+She dropped from a stump into fur and heartbeat. Crunch.
+
+The rabbit never even made a noise.
+
+Another blink, another small victory.
+
+The meat tasted bland. Tuffy. Pretending to be good when it wasn’t. She chewed anyway. Strength didn’t care about taste.
+
+Luna did.
+
+And she made it care.
+
+One rabbit down. Two more blinked wrong. She was there before their back legs figured it out! Their panic seasoned the bite.
+
+She dragged them to a tree root, licked her chops, and sniffed the wind.
+
+Boar.
+
+The scent crawled low along a ridge, telling her of mud, musk, root, and old bruises. A fat one, probably. Slow.
+
+Luna’s grin stretched sharply.
+
+She circled to the downwind. The trees bent toward her. The wind forgot her name.
+
+The System answered.
+
+【Run Lv.4 → Lv.5】
+
+Her paws pounded the slope, claws biting into damp soil. She heard the grunt before she saw it. A thick back, a lazy tail.
+
+Dash. Claw. Twist.
+
+The boar turned too slowly. Then didn’t turn at all.
+
+She slammed into its shoulder. Her jaws sank deep where fat met pulse. It bucked once. Twice. Then crashed down hard enough to rattle leaves from the branches.
+
+The ground steadied. She did not let go until it stopped shaking.
+
+Stringy. Chewy. Boring.
+
+She chewed through the boredom anyway, gnawing into the belly where the flavor pretended to hide. It didn’t. But muscle still meant meat. She yanked out a chunk for now and saved the rest for later teeth.
+
+Luna sat back, licking her muzzle, tail swishing slowly behind her.
+
+Three rabbits and a boar.
+
+Enough for the pack. Maybe even a treat-pile for the pups.
+
+She grabbed one rabbit by the ear, another two between her teeth. Boar got the honor of being dragged by the ear-hole. Her head dipped low, spine bending into the pull.
+
+Between kills, her thoughts hopped around.
+
+Humans. Moon. Her genius plan.
+
+It made a neat circle in her mind: be them, steal theirs, eat better!
+
+She didn’t need a pack to tell her that was smart!
+
+Her tail wagged at the picture forming behind her eyes – upright Luna, paws turned hands, chewing a stick of spice without falling over or dying of flavor.
+
+Power. Jerky. Prestige… And taste!
+
+The sweet, sweet taste of spiced meat!
+
+Luna snorted, nearly dropping a rabbit.
+
+Her tongue caught it in time, curled smug around the fur.
+
+“Genius,” she muttered.
+
+Her proud declaration to the leaves sounded like neither bark nor howl.
+
+The voice distorted by the prey she was carrying.
+
+She trotted back through the underbrush, ears up, pace light despite the boar dragging like a lazy log behind her.
+
+Food for pack first.
+
+Then training.
+
+Then snacks stolen the civilized way–
+
+By being an uncivilized human!
+
+The clearing smelled like family, pup-breath, and the old stone the pack had worn smooth with years.
+
+Luna hauled the boar in, dropped it with a wet thud, and tossed the rabbits like prizes. One landed on its side with a soft plop. The other bounced once and flopped into the moss.
+
+Pups exploded out of their hiding spot.
+
+Happy noise, tiny paws everywhere, tails spinning so fast they blurred.
+
+Her youngest sister squeaked at the sight of Luna’s coat – silver-threaded, shadow-kissed – and pounced straight onto her shoulder with zero respect and all the love in the world.
+
+Luna let her, her tail wagging happily at that.
+
+She didn’t even flinch when little teeth nibbled her ear. She laughed with her eyes and shifted to keep balance. One paw flicked to keep the pup from slipping.
+
+The scent of warm meat and sibling joy spun through the air.
+
+And for a short lovely moment, all was good.
+
+But then it wasn’t.
+
+The alpha did not laugh.
+
+He didn’t even blink.
+
+And soon the adults followed his lead. Their bodies tensed one by one. Ears rose. Tails went still. Their noses lifted toward her, cautious and sharp. Hackles rose in a slow, shared tide.
+
+Their eyes didn’t go to the meat.
+
+They went to the shine along Luna’s back. The faint glow at the edges of her fur. The way shadow didn’t hide her anymore – it liked her now. Curled around her paws like loyal mist.
+
+She smelled their thoughts.
+
+Strange. Other. Wrong-wolf.
+
+The youngest pup still clung to her back. She didn’t care. But Luna did.
+
+The alpha stepped forward. Two elders moved with him, their bodies showing old scars, yet on quiet feet.
+
+They didn’t snarl.
+
+They didn’t need to.
+
+Silence moved ahead of them, heavy and shaped like judgment. It pushed into the clearing, built walls around the scattered joy of feeding pups. The air tasted thicker.
+
+Luna licked her teeth. The motion grounded her. Her tail didn’t wag, but it didn’t tuck either.
+
+She stood tall without meaning to.
+
+Habit. Pride. Stupid bravery.
+
+The alpha’s gaze never dropped to the boar.
+
+Not once.
+
+She had dragged it for the pack. Brought rabbits for the pups. Their stomachs were full now. Their eyes shined bright.
+
+It didn’t matter.
+
+He watched her.
+
+Watched the silver lining her fur.
+
+The silence stretched tighter.
+
+Behind her, the pup on her back shuffled once, then slid down gently, sensing the shift without understanding it.
+
+One rabbit lay uneaten. A smaller pup stared at it, ears flat, too unsure to claim it.
+
+Luna’s paw reached forward.
+
+“Eat,” she said, nudging it toward him.
+
+Meat should never go to waste. Fear should never starve.
+
+The pup blinked. Sniffed at it. Then bit.
+
+Good.
+
+Luna turned back to the alpha, eyes steady.
+
+Fine.
+
+Say what you will.
+
+***
+
+He waited until small mouths were full and older ones too busy carving boar to gasp.
+
+But when the words came, they cut deep.
+
+His voice landed like a stone. “You are no longer welcome.”
+
+The world bumped sideways.
+
+Luna blinked slowly.
+
+“What?”
+
+The alpha didn’t move. His gaze held steady.
+
+“Choice proves it,” he said. No hate in it. Worse. No warmth. “Too different. You run the forest like a shadow not ours. We tolerated. No more.”
+
+The air flattened around her.
+
+Her tail tried to wag hopeful and failed. Her ears flattened and stayed.
+
+She looked around, hunting for teeth behind smiles. For a raised tail. A soft growl. Anyone.
+
+But the eyes slid off hers.
+
+Not all. One old aunt looked away too late. Her guilt hung thick for a heartbeat before her muzzle dipped.
+
+Her mother stood like a branch not allowed to bend. Rigid. Tense. The scent of worry leaking in sharp lines off her back.
+
+The pups had gone still. Two peered around the side of a rock, meat on their noses, confusion in their ears. Her youngest sister sat frozen with one paw still half-raised.
+
+Luna’s paws tensed into the dirt.
+
+She could fight.
+
+Could bite his throat, test this new strength, flash silver and shadow, tear the old rule out of the clearing by fang.
+
+But the thought turned to ash.
+
+She would die in front of pups. Die stupid. Die proving them right.
+
+Her chest hurt. Deep and tight. Worse than thorns. Worse than hunger.
+
+She swallowed it.
+
+“Fine,” she said. The word cracked with her voice, but held.
+
+“Bite-brained, spice-fearing dung-lickers.”
+
+It didn’t help.
+
+She turned before her eyes spilled anything soft.
+
+Walked out.
+
+Tail high. Not tucked. Pretending she wasn’t hurt.It didn’t fool anyone.
+
+Not her mother.Not the pups.Not herself.

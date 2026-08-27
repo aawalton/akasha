@@ -1,0 +1,255 @@
+---
+id: 00eb8155-cc49-50f1-bdf8-1f487ff8c6a7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 153: Do Chimera Dream of Delighted Yips?"
+slug: 0156-chapter-153-do-chimera-dream-of-delighted-yips
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 156
+ownLength: 1791
+unit: words
+publishedAt: 2026-08-26
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3868779/chapter-153-do-chimera-dream-of-delighted-yips"
+royalRoadId: "3868779"
+---
+
+PoV Master Orthendal
+
+“...What do you mean another facility has fallen?”
+
+Master Orthendal’s voice cracked across the hidden laboratory.
+
+The stitched assistant nearest the vat flinched so hard its extra hand dropped the stirring rod into the yellow fluid. A half-grown abomination of limbs and bones inside the glass twitched at the sound.
+
+Orthendal ignored it. Getting angry at those imperfectly stitched fools would do him no good. Inferior work of his student they might be, replacing them would still be too much hassle.
+
+Instead, his attention remained fixed on the hooded man standing before him.
+
+“What happened?” Orthendal demanded. “Why did you fail to recover the Broodmother experiment?”
+
+The man in the dark hood stood with his hands folded inside his sleeves. He was tall, pale, and thin enough that the robe hung from him like cloth from a frame. His cold, milky white eyes stared at him, unblinking at the outburst. Threads of Corruption and old magic flickered under his skin every few seconds.
+
+Around them, the laboratory worked on.
+
+Flesh-crafted assistants moved between tables with too many hands, too many joints, or mouths sewn shut for efficiency. They had nothing important to say anyways!
+
+Vats with precious experiments bubbled along the walls. Tubes held bodies in different stages of deconstruction, preservation, correction, or half-joined failure. Barrels of fluids sat under rune-marked lids. Special reagents filled with Corruption, and many liquids Orthendal hardly cared to remember. He had assistants for that.
+
+Carcasses hung from hooks, ready for processing.
+
+Half-made creatures breathed in glass.
+
+The laboratory smelled of preservatives, blood, hot metal, wet hide, and rot held back by alchemy, and the sharp sweetness of glorious Corruption.
+
+A magnificent workshop, at any other time.
+
+If only those incompetent bastards would stop bringing him bad news every time!
+
+The hooded man dipped his head.
+
+“...There was an accident. Several, in fact.”
+
+Orthendal stared at him, disbelieving this fool.
+
+“An accident. AN ACCIDENT?! I KNOW THERE WAS AN ACCIDENT, YOU–” he stopped, caught his breath, and continued, “Elaborate.”
+
+The man didn’t seem in any way perturbed by his outburst. Orthendal still couldn’t decide if he liked or hated that fact. On one hand–
+
+“Yes, Master. By the time we learned of the loss of control, the situation understood, and replacements sent, the cover had already been blown. Worse, the chimeras were defeated.”
+
+Orthendal’s fingers dug into the edge of the table.
+
+“Defeated.”
+
+“Yes, Master.”
+
+“By whom?”
+
+The hooded man’s milky eyes stayed fixed ahead. “We believe it was the doing of this new Wildling. The agents say as much. And the signs of disrupted activities, destroyed cache, and killed experiments all match the same set of claws.”
+
+For a moment, Orthendal said nothing.
+
+Then he laughed once.
+
+“The Wildling.”
+
+“The reports match.”
+
+“They were reported over a thousand miles away from its first appearance. I was assured the Wildling was NOT a problem. Much as I would love to experiment on–,” he stopped.
+
+“Yes, Master.”
+
+“Over a thousand miles away,” Orthendal repeated, louder. “And somehow one little Wildling, still weak and freshly uncovered… is responsible for this much destruction? Facilities falling, resources missing, entire logistics in shambles! My lovely experiments are dead. I WANTED DATA FROM THEM! Years of work disrupted.”
+
+The hooded man did not answer right away, debating something, or weighting how to respond – Orthendal did not know – but then they reached some internal conclusion and answered.
+
+Master Orthendal suddenly wished they hadn’t.
+
+“...It has also come to our attention that at least some of our safehouses in Vaelthorn ranges have been destroyed.”
+
+“Those damn Behe–”
+
+“It was the Wildling’s doing, Master. All signs point to that.”
+
+Orthendal didn’t know he could hate a single being so much without ever laying his eyes on them.
+
+He began pacing.
+
+“This must be another ploy by that damned Duke! It has to be. Did he feed me wrong data again? First that damned audit! And for what? My little baby just had a few little snacks! And now this? Pressure from one side, righteous inconvenience from the other, and my regional operations collapse under the combined weight of incompetent fools!”
+
+“The zealots have also complicated our movements as of late,” the hooded man continued.
+
+His hand slammed into the table with a resounding boom. Fleshcrafted assistants flinched, but the enhanced construct barely held.
+
+Yet his annoying student remained nonplussed.
+
+“Yes, the zealots.” Orthendal snatched a tool from the table, realized it was a bone saw, and pointed it anyway. “Singing, kneeling, torch-waving vermin. At least the Darkness bastards keep mostly to themselves. Mostly. Until they want to blow something up.”
+
+He threw the bone saw back onto the table. It clattered between a tray of eyes and a jar of preserved feline tongues.
+
+“And now that damned Wildling appears out of nowhere.”
+
+“So it appears, Master.”
+
+Orthendal’s expression shifted.
+
+“Though perhaps not entirely useless,” he murmured. “They’re in our territory now, and a sample would be invaluable. Yes, yes. A Wildling with that mobility, that destructive capacity, that appetite for corrupted work without getting corrupted itself...” His eyes sharpened. “Catch them, perhaps. Yes. Maybe. Maybe.”
+
+“Master,” the hooded man said.
+
+Orthendal snapped his gaze back. “What?”
+
+“What are your orders?”
+
+Orthendal waved him off.
+
+“Orders, yes, yes. What can my orders be? Get the things moving. Recover everything useful from the region. Every viable sample, every ledger, every handler, every instrument that cannot be easily replaced. Abandon what must be abandoned. Burn what should not be found.”
+
+“Yes, Master.”
+
+Orthendal kept pacing, mumbling to himself.
+
+“The Duke first, then zealots, then audits, then the Wildling. Interference stacked on interference. If the facility had held two more weeks, the chimera line would have been able to produce a lot more powerful minions. It would have been worth the expense!”
+
+“If I may, Master. Maybe you should consider not feeding people to your pet hydra anymore. It gets people upset, and the beast can feed perfectly well on cattle,” reasoned his dumb student.
+
+Orthendal stopped as if struck.
+
+“Cattle?”
+
+“Yes.”
+
+“Cattle.” His face twisted with outrage. “The poor, poor thing loves crunching living people. Especially the fourth head! That baby has preferences, and just loves the fear! It enjoys the sounds. Do you want me to deny enrichment to a precious creature of such potential?”
+
+“It was several dozen people.”
+
+“Nobodies!” Orthendal snapped. “Disposable, unrecorded, useless except for feedstock and reaction testing. Nobody would truly care about them!”
+
+The hooded man said nothing.
+
+Orthendal’s burst of heat ran on for several more breaths, all snarled fragments about waste, sentimentality, civic records, and the insulting expense of cattle.
+
+The hooded man waited until the sputtering ended.
+
+“Master. What are your orders?”
+
+Orthendal rubbed both hands over his face.
+
+“I already told you. Pull back from the region. Move everything that matters. The rest can be lost.”
+
+“And the Wildling?”
+
+Orthendal’s eyes brightened again. “If possible, observe. If opportunity presents itself, catch them. A sample, at least. Hair, blood, tissue, anything. Alive would be better. Alive is always better.”
+
+“Difficult.”
+
+“Obviously difficult. Worthwhile things usually are.”
+
+“It is risky, Master. How about instead we–”
+
+Orthendal turned on him.
+
+“I HAVE HAD ENOUGH! Do NOT lecture me on risk!”
+
+The hooded man’s expression did not change, even as Orthendal stepped closer. Yet he still dared to try and say something. Try to lecture him! HIM!
+
+Orthendal would not have it!
+
+“DO NOT ever interrupt me again, or I will throw you to the hydra!”
+
+The laboratory went still, and the bubbling vats seemed suddenly loud.
+
+The hooded man moved faster than any living body should.
+
+Bony fingers closed around Orthendal’s throat and drove him back against the table. Glass rattled. A jar tipped over and spilled pale fluid across the floor. Orthendal grabbed the wrist, but the hand was cold and hard as buried bone.
+
+The hooded face came close.
+
+Milky white eyes stared into his.
+
+Dead, unseeing eyes.
+
+Eyes with specks of Corruption and necromantic light glimmering deep inside them.
+
+“You might be my Master,” the arch-lich said, voice low and even, “and I have learned much from you. My undead are far more efficient and effective than they ever were. I admit you are the best fleshcrafter there is and likely ever was.”
+
+The fingers tightened.
+
+Orthendal’s breath scraped uselessly against the grip.
+
+“But if you threaten me again, your own pet hydra will be eating your body soon. Are we clear, Master?”
+
+Orthendal’s nails dug into the dead wrist.
+
+He nodded.
+
+The arch-lich held him for one more cold second.
+
+Then he released him.
+
+Orthendal bent over the table, coughing, one hand pressed to his throat. Rage burned through the fear almost at once, but the cold remained under his skin.
+
+He hated it here!
+
+He hated being interrupted. He hated being constrained. He hated needing a dead thing with opinions. He hated that the dead thing was sometimes right, and useful enough to keep.
+
+The arch-lich returned to his former place and folded his hands inside his sleeves.
+
+“Very well,” he said. “What are your orders, Master?”
+
+Orthendal spat onto the floor, wiped his mouth, and forced his voice steady.
+
+“We need to change the plans.”
+
+The arch-lich waited.
+
+“We accelerate. Imperfect work is still finished work. Move everything that can be moved forward. Extract everything of use and collapse the outer chains. Pull the handlers inward. Transfer viable subjects and destroy the rest. I want the regional stock cleared before the Duke, the zealots, or that damned Wildling can interfere ANY further. Are we clear?”
+
+“Yes, Master.”
+
+“And consolidate the reports on the Wildling. All of them. Speed, strength, abilities, sightings, companions, habits. If they can be caught, I want to know how. If they cannot, I want to know how much damage she can do before we redirect their attention towards something… larger.”
+
+The arch-lich inclined his head. “At once.”
+
+Orthendal touched his bruising throat and looked across the laboratory.
+
+Vats bubbled. Assistants resumed their work. Sweet Corruption glowed under sealed lids. Half-made creatures floated in glass, waiting for hands clever enough to finish them.
+
+The work would continue.
+
+Whether the darned Duke, his annoying student, or some unknown Wildling wanted it or not.
+
+Orthendal’s mouth curled.
+
+“Let the region burn behind us if it must. We have other facilities.”
+
+The arch-lich turned to leave.
+
+Orthendal looked toward the deeper doors, where his own larger pet projects waited out of sight.
+
+“And if the Wildling wants to be a nuisance,” he muttered, “then I just need to prepare a monstrous trap fitting for a Wildling.”
+
+He considered, his mind already churning with ways to accomplish just that.
+
+Master Orthendal grinned at the challenge.
+
+“Yes, I could do that indeed…”

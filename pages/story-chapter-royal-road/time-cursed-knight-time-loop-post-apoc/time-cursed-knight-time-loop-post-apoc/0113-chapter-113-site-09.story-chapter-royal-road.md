@@ -1,0 +1,257 @@
+---
+id: 0c6f2ba8-83a9-58a3-8a1a-f43ed0f7b06e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 113: Site 09"
+slug: 0113-chapter-113-site-09
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 113
+ownLength: 2092
+unit: words
+publishedAt: 2026-08-20
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3839795/chapter-113-site-09"
+royalRoadId: "3839795"
+---
+
+Dorn was already moving.
+
+He didn't spare a glance at the wolf's body. Didn't ask what had killed it.
+
+"I'll get the others," he said. The young knight crossed the chamber with his left arm strapped tight against his ribs.
+
+I watched him climb the staircase and disappear through the upper doorway.
+
+The two surviving soldiers with suppression staves stood against the far wall. Their crystals hung dead at their sides. Their faces were the color of wet ash. One of them, the younger, had his hands raised, palms out.
+
+Beyond them, three more soldiers lay where the fighting had left them. One was propped against an overturned copper vat, both hands pressed to a wound in his abdomen. Another lay on his side near the eastern anchor pad, his legs pinned under a slab of concrete that had broken free. The third sat motionless against the wall with his eyes closed, blood crusted along the side of his head, his chest rising and falling.
+
+The older one hadn't moved.
+
+His eyes darted between me and the wolf's body and the doorway through which his commanding officer had been consumed. The calculation behind those eyes was that of a soldier deciding whether the chain of command still existed.
+
+I decided it for him.
+
+"On the ground," I said. "Both of you. Don't move. Don't cast. If I feel a single change in your mana output, I will assume you're hostile."
+
+The younger one dropped immediately. The older one hesitated. His eyes measured the distance between himself and the doorway.
+
+"Don't," I said.
+
+He looked at my sword. At the hole in the wall where the wolf's paw had launched me through three layers of reinforced concrete.
+
+He went down.
+
+I climbed the stairs.
+
+The production floor was chaos.
+
+The tremors had knocked half the alchemical equipment off the tables. Glass vessels lay shattered across the concrete, their contents pooling in puddles. A burner line had ruptured near the eastern wall, and a thin stream of lamp oil traced a dark thread across the floor toward a drain that no longer drained.
+
+The workers had gathered near the building's center. Nine of them. They sat or crouched among the wreckage of their tables, clutching each other's arms, faces drawn tight with the particular terror of people who had nowhere left to run. The rest were gone. I could see the trail they'd left. Six workers, maybe more, had bolted into the desert when the building started shaking.
+
+The soldiers on the production floor were a different matter.
+
+Sixteen of them. The original garrison had been larger. But the tremors had done what Titans always did to troops who hadn't signed up for this.
+
+The sixteen who remained were the ones too deep in the building to reach a door, or too disciplined to break. Their uniforms were Imperial in cut and color, but the insignia was wrong. The sigil on their shoulders was one I'd seen only on Sigrid's uniform.
+
+Elara's people.
+
+Some had drawn weapons when the building shook. Most hadn't.
+
+I stepped onto the production floor.
+
+"Put them down," I said.
+
+They looked at me, at the sword, at the black blood covering my arms to the elbows.
+
+One by one, the weapons went to the floor.
+
+"On your knees. Hands on your heads."
+
+They obeyed.
+
+Not all at once. Some went down immediately. Others waited, watching their neighbors.
+
+The last two took the longest. A sergeant near the western wall, and a young man whose hands were shaking so badly that his wand clattered against the concrete twice before he managed to set it down.
+
+I stood among them and waited for Dorn.
+
+The rest arrived within minutes.
+
+Voller came through the rear loading door first. Behind him, two Regular Army scouts in combat spread. Then the three remaining knights from the compound. Then Farhan, whose dark eyes took in the scale of the facility and went wide.
+
+Dorn followed last, favoring his strapped arm, and took up a position near the doorway.
+
+"Clear the floor," I told Voller. "Collect weapons. Bind hands. Anyone who resists goes down."
+
+Voller nodded and went to work.
+
+The knights moved through the rows of kneeling soldiers. Wrists were crossed and bound. Weapons were gathered in a pile near the loading door.
+
+I crossed the production floor to where the nine civilians sat among their shattered equipment. Their faces turned toward me as I approached. Fear, mostly.
+
+I crouched in front of the nearest worker. A man in his fifties. Dark skin. Calloused hands stained with chemical residue.
+
+"Do you speak Imperial?" I asked.
+
+He shook his head. His mouth moved, forming words I couldn't parse. Kumsuri. The sounds carried shape and rhythm and nothing else.
+
+I turned.
+
+"Farhan."
+
+The guide crossed the floor and knelt beside me. His face was still pale from the scale of what he'd walked into.
+
+He addressed the worker in fluid Kumsuri. A brief exchange followed, the man's words coming out in a rush, tangling over each other.
+
+Farhan listened. Nodded. Asked a short follow-up question. Listened again.
+
+He turned to me.
+
+"Qalathar," Farhan said. "He says they are all from Qalathar. Some hired, some..." He searched for the word. "Pressed. Told they had no choice."
+
+I looked at the others. The same answer, repeated across the faces. Local workers. Qalathar citizens. Recruited or coerced, but all of them from the Sultanate's capital.
+
+The Sultan's people.
+
+I couldn't take them prisoner. Sultanate nationals, seized by an Imperial operative on soil that belonged to no recognized jurisdiction but sat within the Sultan's sphere of influence. Every one of them had a family in Qalathar. The moment one of these workers disappeared into Imperial custody, it would become a diplomatic hell.
+
+They go to the Sultan.
+
+I stood and turned to Voller.
+
+"The workers are Qalathar civilians," I said. "They'll be delivered to the Sultan's household for processing. Not our prisoners. Not our problem." I paused. "The soldiers are different. Imperial uniforms, operating on undeclared territory. They're evidence. They come with us."
+
+Voller nodded. "Understood, sir."
+
+I looked across the production floor at the bound soldiers. Sixteen on this level. Five alive in the chamber below, two uninjured and three injured. My own force was degraded. Ganz was still unconscious, Tarek's ribs cracked, Dorn's arm in a sling. Their force was larger but broken.
+
+"One more thing," I said, loud enough that every knight and scout in the building heard me. "The alchemist. The man in the lower chamber. His name is Hayyan. He is the Sultan's supplier." I let the words settle. "Nobody touches him. Nobody binds him. He is not a prisoner. He is a witness, and he belongs to the Sultan."
+
+The knights exchanged glances but nobody argued.
+
+I descended the stairs back into the chamber.
+
+Hayyan hadn't moved.
+
+He knelt beside the wolf's skull with his hands on his knees and his eyes fixed on the creature's closed lids.
+
+I stopped three paces away.
+
+"Tell me what happened," I said. "From the start."
+
+Hayyan didn't look at me.
+
+"Which start?" His voice was hollow. "The start where Selim was killed and the network collapsed? Or the one where a woman in an Imperial uniform walked in and told me I was going to build whatever she wanted?"
+
+"Start with Sigrid."
+
+"She came two weeks after the warehouse burned," Hayyan said. "She knew my name." He paused. "She knew things that no Imperial should have known." His jaw clenched. "She offered me a choice. Work for her, or she would kill me."
+
+"Who sent her?"
+
+Hayyan's head turned. His dark eyes found mine.
+
+"She spoke of a princess," he said. "An Imperial princess."
+
+Elara's fingerprints.
+
+"You'll be taken to the Sultan," I said to Hayyan. "He will decide your future."
+
+Hayyan's laugh was a dry, broken sound.
+
+"My future." He shook his head. "It doesn't matter. None of it matters. We will all be dead soon enough."
+
+I looked at him.
+
+"The water," Hayyan said. "The drainage system beneath this building connects to a subterranean aquifer. The aquifer feeds a river that runs north for hundreds of kilometers." He gestured vaguely at the floor beneath our feet. "The water carries the mana residue north."
+
+"I know," I said. "I felt the mana current three days ago."
+
+Hayyan's eyebrows rose. "Then you understand."
+
+"Understand what?"
+
+"The Titans follow mana the way animals follow water," he said. "The concentration in this area is now orders of magnitude above the desert baseline. It's a beacon." His hands clenched on his knees. "They are coming. They were coming from the moment I started producing Snow Dream in large scale. But now it is on a completely different level." He paused. "In weeks, perhaps less, the concentration will be high enough to attract not three. Not five. Ten. Twenty."
+
+One hundred.
+
+"Can you stop it?" I asked. "The contamination. Can it be reversed?"
+
+Hayyan was quiet for a long time.
+
+"If production ceases immediately," he said slowly, "and if the drainage channels are sealed, the existing contamination will dilute over time. In years." He shook his head. "But the damage already done will continue to attract for months after the source is cut."
+
+"You and I will have much to discuss with the Sultan," I said.
+
+I turned toward the far wall of the lower level.
+
+The concrete was stained. Beneath the staining and the roots, paint still clung to the original surface.
+
+I stopped in front of them.
+
+The letters resolved.
+
+U.S. ARMY CORPS OF ENGINEERS — RESEARCH DIVISION
+
+Below that, smaller, a line that had survived almost intact in the sheltered recess of a structural column:
+
+AUTHORIZED PERSONNEL ONLY
+
+English.
+
+The Ancient Language. The language that scholars across the Last Kingdoms had spent centuries trying to decipher.
+
+"How did you find this place?" I asked without turning.
+
+Hayyan's footsteps came up behind me. He stopped at my shoulder and looked at the painted letters with disinterest.
+
+"The caravans," he said. "The deep-route masters keep records of landmarks. This building appeared on a survey map I bought from a retiring caravan master eleven years ago. He found it remote, and that was what I needed." He gestured at the concrete around us. "The original builders knew what they were doing. The foundations go deep. Much deeper than the levels I use."
+
+"How deep?"
+
+"I never found the bottom." He pointed toward a corridor that branched off the lower level's main space. "Stairs go three levels down, then rubble, then metal doors that don't open when you push. I had no reason to explore. The upper levels served my purposes."
+
+If it's anything like the cavern, I thought, it could have artifacts.
+
+"Show me," I said.
+
+Hayyan led me through the corridor.
+
+Darkness closed around us. I pulled a torchlight from my belt pouch and cracked it. The pale blue glow pushed the darkness back to arm's length.
+
+The air changed as we descended. The smell of alchemical residue faded, replaced by the mineral scent of old stone.
+
+The stairs were industrial. Poured concrete with steel rails embedded in the treads for traction. They turned twice, each landing opening onto a level that stretched beyond the torchlight's reach.
+
+The first sub-level was storage. Rows of metal shelving, empty, the brackets rusted. Whatever had filled them was long gone, claimed by time or by the people who had come before.
+
+The second sub-level was worse. A section of ceiling had collapsed, spilling concrete and rebar across the floor.
+
+The third sub-level opened at the base of the final staircase.
+
+The corridor here was intact. The concrete was clean, almost pristine, as though the depth had insulated it from the centuries of weathering that had ravaged the levels above.
+
+And at the end of the corridor, filling the width of the passage from wall to wall and from floor to ceiling, sat a door.
+
+Hayyan stopped.
+
+"This is as far as I've been," he said.
+
+The door was massive. The metal was different. Darker.
+
+Reinforced, I thought. Whatever alloy this is, it was built to last.
+
+I stepped closer.
+
+The door had no handle. No visible hinges. But set into the concrete beside the door, at chest height, was a panel.
+
+Small. Perhaps thirty centimeters wide, twenty tall. The surface was dark. A thin layer of dust covered it.
+
+I reached out and wiped the dust away with my palm.
+
+The screen lit up.
+
+Hayyan flinched.
+
+A pale amber glow pulsed once and steadied.

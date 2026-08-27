@@ -1,0 +1,413 @@
+---
+id: 97121a1a-0c2a-5907-91bc-db4186c59e53
+page-type-slug: story-chapter-royal-road
+title: "Chapter 69: Of Roads, Ruffles, and the Chewy Horizon"
+slug: 0069-chapter-69-of-roads-ruffles-and-the-chewy-horizon
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 69
+ownLength: 1879
+unit: words
+publishedAt: 2025-11-07
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2741416/chapter-69-of-roads-ruffles-and-the-chewy-horizon"
+royalRoadId: "2741416"
+---
+
+PoV Luna
+
+The forest fell away behind them, the last of the trees fading into sunlight and wind.
+
+And with it, Luna’s thoughts of old pack faded too.
+
+Regrets would not fix the past. Though she would miss her mom, and little sister.
+
+But Luna had the world to see!
+
+With no more wolf scent to remind her of what she left behind, and no more old trails or blood in the air. Only the smell of morning dew, damp soil, and faint smoke from their own camp drifting in from the distance entered her nose now.
+
+So Luna’s mind was free to roam to the tasty morsels ahead.
+
+Just what would they be? What would they taste like?
+
+Would they be crunchy?
+
+Chewable?
+
+Spicy, tingly, or fun?
+
+Luna did not know!
+
+But the mystery made it feel all the spicier!
+
+They walked ahead, Luna and the pack. Their boots and paws pressed into softer ground, the sound of travel filling the quiet – armor clinks, tired breathing, the steady rhythm of a pack that had survived.
+
+And thrived!
+
+Yes, Luna was perfect leader!
+
+And as one, she padded ahead of the pack, tail swishing happily.
+
+Left, right, in turn with dum dum boot falls.
+
+Her awoo song returned in turn!
+
+The pack groaned, but Luna was too busy singing her glorious song to notice.
+
+Then Trianna’s voice broke through the noise.
+
+“We’ll send word to the Guild about the remains. They’ll make sure it’s handled properly.”
+
+Sepio nodded, eyes scanning the treeline.
+
+“And the trinkets. We’ll return what names we can.”
+
+Ray groaned under his pack.
+
+“And write six pages of reports about it. Can’t forget those.”
+
+Even Veric smiled faintly at that.
+
+“You would rather fill a pit than a form.”
+
+“Exactly!” Ray declared. “Pits don’t argue back.”
+
+Their laughter rolled through the road ahead, brushing the edges of the lingering quiet.
+
+And then Syl reached out.
+
+Her hand brushed through Luna’s fur, fingers finding the spot between her ears where the tension still hid. The ruffle was soft. The smile, softer still.
+
+“She’s proud of you, you know,” Syl said.
+
+Luna’s ears perked up immediately.
+
+“Woof-right she is!”
+
+Syl chuckled.
+
+“Your mother was kind.”
+
+“Yes! Kind, strong, smart! Bitey when needed!” Luna said proudly, tail sweeping behind her.
+
+“And your little sister?” Syl continued. “So very adorable.”
+
+“Yip-yep! Tiny, fluffy! Still needs some good bite practice!”
+
+“Luna…” Syl sighed, hand dropping to her face. “Not everything is bite practice.”
+
+“Can be!” Luna said confidently. “Depends on the teeth.”
+
+That earned her a full laugh this time, breaking through the weight still clinging to them.
+
+And after Syl translated, even Ray smiled.
+
+“She’s got a point.”
+
+“Don’t encourage her,” Sepio muttered.
+
+The heaviness of the morning melted piece by piece, carried away on wind and chatter.
+
+They spoke of the road ahead – of where they would go next, which towns to pass, who they would need to check on. Trianna argued with Ray about shortcuts. Veric offered quiet advice between steps.
+
+And Syl simply kept Luna company.
+
+Good Second!
+
+Luna listened for a while. Then her thoughts wandered.
+
+What came next?
+
+Not the food part – she knew there would be food. There was always food. And if there wasn’t, she would bite until there was!
+
+But the rest of it?
+
+Would her new pack keep walking together? Would the dum-dums split up again?
+
+Her ears twitched at the thought, but she didn’t frown.
+
+No, not new pack anymore.
+
+Just pack.
+
+Her pack.
+
+Her dum-dum, loud, smart, strong, brave, sometimes-jerky-hiding pack.
+
+She wagged without realizing, tail thumping in rhythm with their steps.
+
+Whatever came next could wait.
+
+For now, there was warmth at her side, laughter on the wind, and the smell of spice jerky in her pack.
+
+That was all a wolf could ever want.
+
+***
+
+They returned to camp when the sun reached its highest point.
+
+The clearing shone verdantly under the golden light, and the scent of dum dums, forest, and drake jerky filled the air.
+
+Ray was the first to break the quiet.
+
+“Alright, before we move on, let’s make sure everyone knows where we’re heading.”
+
+He spread a crumpled map across a fallen log. Lines and tiny names tangled over the paper – roads, towns, trade routes.
+
+All nonsense to Luna!
+
+Syl crouched beside her, calm as always.
+
+“Before we explain. Luna, you said transforming without the Moon is harder, but can you do it now? Here, have a sip of mana potion, maybe that will help.”
+
+Luna looked at her Second. Considered.
+
+Sipped on tingly potion.
+
+Then tried her best!
+
+It was harder, took everything she had, and a little more from the potion.
+
+But then…
+
+Poof!
+
+Human-Luna was here!
+
+“Hehe!”
+
+She drank the rest of the potion down.
+
+Syl smiled, and stuffed Luna into a shirt again.
+
+“Thank you. That will make explaining easier. This here is a map,” she said, tapping the parchment. “It shows where we are, and where we’ll go next.”
+
+“Luna understands!” she said proudly. “Forest here, dum-dums here, food everywhere.”
+
+Trianna grinned over her shoulder.
+
+“Not wrong.”
+
+Syl continued, patient.
+
+“The city is north, beyond the river. We’ll head there to report to the Guild, rest, and get paid.”
+
+“Guild?” Luna echoed, tilting her head. “What’s that?”
+
+“It’s where adventurers work,” Syl said. “A big building full of people who take quests and share news.”
+
+“People who take food too?”
+
+“Not usually.”
+
+Luna frowned.
+
+“Suspicious.”
+
+Veric chuckled at that.
+
+“You’ll fit right in.”
+
+Ray leaned closer to the map.
+
+“You’ll need a Guild card too, Luna. It proves who you are.”
+
+Luna perked up.
+
+“Oh! Is it tasty?”
+
+Trianna snorted so hard she nearly dropped her quill.
+
+“No, Luna! Not everything is food!”
+
+Luna puffed her cheeks.
+
+“Maybe small nibble?”
+
+“Absolutely not,” Syl said without missing a beat.
+
+The laughter spread again, warm enough to ripple through the afternoon haze.
+
+When it finally quieted, Veric wiped his forehead.
+
+“Wonder what the Guild will make of our little Lunatic pup.”
+
+Silence.
+
+“Oh gods, don’t call her that,” Trianna barely wheezed out.
+
+All while Ray tried to smother his laughter in his sleeve.
+
+Luna blinked.
+
+“Lunatic not Luna name! Luna is Luna!” she declared, tail wagging furiously.
+
+Syl’s lips twitched, a smile trying – and failing – to stay hidden. “Of course you are.”
+
+The talk drifted into what Syl called “civilization plans.” Beds. Baths. Walls.
+
+Boring words, all of them!
+
+Trianna promised her new clothes then.
+
+“Something that won’t tear when you transform. And would be a little more than just a shirt.”
+
+“Bite-proof!” Luna added eagerly.
+
+Ray groaned.
+
+“Maybe house-train her first.”
+
+Luna’s teeth flashed before thought. She nipped at his boot, quick and light.
+
+“Luna trained fine!”
+
+Ray jumped back with a squawk.
+
+“She bit me!”
+
+Veric folded his arms.
+
+“That means she likes you.”
+
+Syl’s laughter finally spilled out, soft and bright.
+
+“You’re all impossible.”
+
+When the chaos quieted, Syl turned to Luna again.
+
+“Would you stay with me in the city, Luna?”
+
+Luna blinked.
+
+“Stay? Of course! Second is pack! Can’t run away from Luna!”
+
+Syl tilted her head, amused.
+
+“Oh?”
+
+“Running training impossible to escape!” Luna added proudly, thumping her chest.
+
+That broke what little calm remained. Trianna snorted. Ray groaned. Veric smirked.
+
+And Syl?
+
+She laughed – really laughed this time – then reached over to ruffle Luna’s hair.
+
+“I’ll remember that,” she said.
+
+Luna leaned into the touch, tail swaying. The sound of laughter, the smell of food, and the warmth of pack wrapped around her like sunlight through leaves.
+
+‘Civilization’ could wait.
+
+This was home.
+
+***
+
+The road curved through the edge of the woods, soft and wide beneath her paws.
+
+Luna slowed, sniffing at the packed dirt. It smelled of travel – dust, old wheels, and human sweat. No roots, no mud, no thorns reaching up to tug her fur.
+
+Weird.
+
+But also… nice.
+
+She trotted ahead, tail flicking. No trees to dodge. No need to leap fallen logs. The ground didn’t fight back.
+
+Running here felt smooth – lazy smooth. Luna darted from one side of the path to the other, testing its stretch, then looped back to her pack.
+
+And her pack was in high spirits too! Not only did they finish their mission – Luna didn’t get it, but it was important? – but they were also glad to not need to haul back all the drake meat, bones and stuff – that part Luna got!
+
+When Syl asked Luna to try and see if she can store her ‘prey’ when it was already dismantled – she did, and it worked!
+
+Sorta.
+
+The unpleasant smelly things Luna did not store!
+
+The pack buried those, weirdly disappointed.
+
+Oh, but Luna could store one more thing!
+
+One more prey!
+
+Very important!
+
+Jerky!!!
+
+She used her new perfect shadowy powers to pop a tiny piece of it straight into her mouth, chewing happily.
+
+Then returned to her road inspection!
+
+“Is she… patrolling?” Sepio asked, adjusting his gear with an exhausted sigh.
+
+“Running training,” Syl said evenly, though a smile hid at the edge of her voice. “Apparently.”
+
+“Running training!” Luna barked proudly. “Good for legs. Makes bites faster!”
+
+Trianna grinned, shading her eyes.
+
+“You could probably bite the sun at this point.”
+
+Luna squinted up at it.
+
+“Too high. Needs jump training first.”
+
+Laughter rippled through the group, light and unguarded, echoing between the trees. The forest behind them thinned with every step, until the air brightened and the shadows stretched out long and lazy.
+
+And then – no forest at all.
+
+Luna froze mid-stride.
+
+The world had opened up ahead.
+
+Before her spread rolling fields, gold and green in every direction.
+
+Grass swayed under the wind, whispering secrets. Flowers splashed color between patches of wheat and clover. Beyond that, far and distant, the mountains clawed at the horizon – sharp, blue-gray, endless.
+
+She turned slowly, ears flicking back toward the woods. The forest behind looked darker now, a sea of green stretching deep into memory. The place of hunts and dens and first bites.
+
+The old world.
+
+Then she looked forward again.
+
+The sky took her breath. Wide, brilliant, alive. Blue that shimmered where it met the land, bluer than river water, bluer than Syl’s magic light.
+
+Chewy blue.
+
+Soft-looking.
+
+Delicious-looking!
+
+Luna licked her lips, then caught Syl’s smile watching her.
+
+“Not eat sky?” she asked hopefully.
+
+Syl’s voice came warm.
+
+“Not yet.”
+
+“Yet!” Luna barked happily, tail thumping.
+
+The wind picked up, ruffling her fur, tugging her forward with playful fingers. It smelled of grass and grain, and faintly, faintly, of bread and spice.
+
+Civilization ahead.
+
+“This far,” Luna murmured to herself. “Furthest paws ever went.”
+
+It felt strange – heart-heavy, but bright too. The forest had been home. Safe. Familiar. But this – this was promise of more.
+
+A new horizon to chase.
+
+Her paw moved forward.
+
+Then another.
+
+And another.
+
+The breeze carried her laughter as she bounded ahead, silver fur flashing against the fields.
+
+Behind her, her pack’s footsteps fell into rhythm – boots on road, metal clinking, voices trading quiet smiles.
+
+Ahead, the world stretched wide and waiting.
+
+Luna grinned into the wind, eyes gleaming, teeth bared to the horizon.
+
+“Luna ready,” she said, breath full of sun. “World biteable.”

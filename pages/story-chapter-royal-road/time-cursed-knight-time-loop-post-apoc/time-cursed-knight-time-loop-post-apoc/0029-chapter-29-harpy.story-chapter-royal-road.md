@@ -1,0 +1,383 @@
+---
+id: 59fb28ff-2720-519d-91ee-8216ead1fb62
+page-type-slug: story-chapter-royal-road
+title: "Chapter 29: Harpy"
+slug: 0029-chapter-29-harpy
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 29
+ownLength: 2974
+unit: words
+publishedAt: 2026-04-26
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3321604/chapter-29-harpy"
+royalRoadId: "3321604"
+---
+
+"Stop fucking staring at me!"
+
+The girl with wings lunged.
+
+She was fast. Faster than her size suggested. Her body launched off the wall with a explosive burst that closed the distance between us before my brain could finish processing what my eyes were seeing.
+
+Wings.
+
+Actual wings.
+
+They were real feathered structures that stretched from her shoulder blades to just above her hips. The feathers were dark, a deep brown-black.
+
+She was lean and wiry, with sharp features and sharper eyes that burned with intensity. The look of something cornered.
+
+Her hands reached for my throat.
+
+Another body intercepted her mid-flight.
+
+Arms wrapped around her waist and hauled her backward.
+
+"Easy! Easy!" the restrainer grunted.
+
+I stumbled back until my shoulders hit the iron bars of the cell door. Getting my first clear look at the person holding her.
+
+My mouth, which had only just begun to close, fell open again.
+
+The boy looked younger then me. Maybe a year or two. His build was compact. His arms were corded with lean muscle, and the hands gripping the girl's waist were...
+
+Wrong.
+
+His nails were thick and dark, curving slightly at the tips. Not claws exactly, but close. Fine, tawny fur ran along his forearms, thickening toward the wrists before thinning again at the elbows. His nose was black, the skin shining and smooth, like a dog's snout compressed into a vaguely human shape. When his lips pulled back with the effort of restraining the girl, I saw his teeth.
+
+Canines. Not a wolf's fangs, but not a man's molars either. Something in between.
+
+Atop his head, rising through a mop of sandy hair, two pointed ears stood erect. They swiveled independently, tracking sound. One flicked toward the girl. The other stayed locked on me.
+
+"Hey, hey, hey."
+
+A calmer voice cut through the chaos.
+
+The older man I'd noticed earlier, pushed himself off his pallet and stepped between the girl and me.
+
+"That's enough," he said. His tone was firm but not harsh.
+
+He looked at the girl, then at me, then back at the girl.
+
+"He's probably just another one from the sticks," the older man said, placing a steadying hand on the girl's shoulder. "Some nobody the Iron Cross scraped off a dirt road who's never seen a Harpy in his life."
+
+"Harpy?" I repeated.
+
+The word left my mouth before I could catch it.
+
+The dog-eared boy's head whipped toward me. Both ears flattened against his skull.
+
+"See?" the boy said, pointing at me with one furred hand. "He doesn't even know the word."
+
+I turned my eyes away from the girl, forcing myself not to stare.
+
+"Harpy! Harpy!" The girl's voice stabbed at me from behind the older man's shoulder. Her wings flared slightly, the feathers rustling with agitation. "You've never even heard of us?"
+
+"To be honest," I said carefully, "no."
+
+The admission broke something in her. I could hear it in the sudden silence, the absence of fury replaced by a bewildered pause that stretched for some seconds.
+
+She didn't know what to do with someone who wasn't disgusted or afraid. Just ignorant.
+
+"What is a Harpy?" I asked.
+
+One of the men lying on a pallet near the door, a figure I'd barely registered, rolled over with a groan. The smell of cheap alcohol preceded his words by a full second. It hit my nose like a slap. He had the kind of stench that came from drinking whatever was cheapest and strongest for long enough that it soaked into your skin.
+
+"Great," he slurred. "Another fucking nobody. This cell's cursed. We're all going to die."
+
+From the pallet beside him, a second drunk let out a wheezing laugh that had no humor in it.
+
+The older man ignored both of them.
+
+He turned to face me. His eyes were sharp despite his age.
+
+"Listen, young man," he said. "Mana doesn't treat everyone equally. Some people absorb it cleanly. They develop cores. Form Circles. Become mages."
+
+He paused, letting the foundation settle.
+
+"Others aren't so fortunate. Mana changed them. Physically. Some changes were minor. Hair colors that don't occur naturally. Red. Pink. White. Others developed golden eyes, or skin with unusual pigmentation. Cosmetic differences. Easy to ignore."
+
+His hand gestured toward the girl.
+
+"Some mutations were severe. People developed characteristics of other species. Avian traits." He pointed at her. The wings. The sharp features.
+
+"Or canine traits." He pointed at the boy. The ears. The teeth. The furred arms and black nose.
+
+"Lupine, technically," the dog-eared boy muttered. "Not canine. There's a difference."
+
+The older man conceded the point with a nod.
+
+Mana mutations.
+
+Humanity altered by the same force it had been given as a gift.
+
+"Then... are they still human?" I asked.
+
+The cell went quiet.
+
+Not the comfortable kind.
+
+The older man's face went rigid. The dog-eared boy's ears flattened so hard against his skull they nearly disappeared into his hair. Even the drunks stopped breathing.
+
+And the girl...
+
+The girl with wings ripped herself free of the older man's grip and launched at me for the second time.
+
+She hit my chest.
+
+The impact drove me back into the bars. My skull cracked against iron. Stars bloomed across my vision.
+
+Her hands found my collar. Her face was inches from mine. The feathers of her wings spread wide.
+
+She was light. Terrifyingly light. Her entire body couldn't have weighed more than a child.
+
+Still, her grip was iron.
+
+"Of course I'm human, you stinking piece of shit!"
+
+"I'm human! I've always been human! I was born human, I'll die human, and if one more—"
+
+"Holy hell." The older man wrapped both arms around her midsection and peeled her off me with a grunt of effort. "Calm down! He didn't mean it like that!"
+
+I pressed my back against the bars and raised both hands, palms out.
+
+"I'm sorry," I said.
+
+The words came immediately. Just the recognition that I had stepped on something I hadn't seen.
+
+"I didn't know," I continued. "I wasn't implying anything. I genuinely didn't understand."
+
+The apology landed on the girl like water on a hot skillet. Her fury hissed and spat, but it didn't evaporate entirely.
+
+Her wings folded tight against her back. Her breathing came in sharp. The amber eyes, bird-bright and furious, held mine for three more seconds before she looked away with a disgusted sound and stalked back to her corner.
+
+The silence that followed was brittle.
+
+The dog-eared boy broke it.
+
+"Look," he said, and his voice was softer than I'd expected.
+
+"A lot of people don't consider us human. Politicians. Scholars. Military officers. Some of them say we're part of the Sins. That we're contaminated. That the mutations are proof mana was never meant for humans, and the ones it changed the most are the ones furthest from what humanity is supposed to be."
+
+He met my eyes.
+
+"Some say we should be eradicated."
+
+"So when someone asks 'are they still human,' even if they don't mean it the way it sounds..." He shrugged. One ear twitched. "It's hard to hear."
+
+"I understand," I said. "I'm sorry. To both of you."
+
+The apology reached the harpy this time. I saw it in the way her shoulders dropped a fraction. The fury wasn't gone, but it had been pushed beneath the surface.
+
+I straightened against the bars and pulled my composure back together.
+
+"I don't know much," I admitted. The truth felt easier than a lie in this moment. "I've been... sheltered. There are things most people learn as children that I'm discovering for the first time."
+
+A careful pause.
+
+"My name is Kaspar."
+
+The older man extended his hand. His grip was calloused and firm.
+
+"Marcus," he said. "Came in as a volunteer."
+
+The harpy spoke from her corner without turning around.
+
+"Lyra," she said. Her voice was flat. As if my apology had purchased a name but not much more. "Some Knights showed up in my village. Heard I could fight with a lance." A pause. The wings tightened against her back. "They took me."
+
+She didn't elaborate. She didn't need to.
+
+The dog-eared boy offered a crooked smile that showed too many teeth.
+
+"Gerret," he said. "My family owed debts. Big ones. The Iron Cross has a fondness for people like me." He tapped one pointed ear. "Lupine mutants. Loyal, they say. Good instincts. Strong noses. Makes us useful."
+
+His smile didn't waver.
+
+"My family sold me to clear the ledger. Fair trade, apparently. One son for a clean slate."
+
+The casual way he said it made my chest tighten.
+
+“I was recruited. There’s not much of a story behind it,” I said, noticing the others had shared where they came from. It was only a few seconds later, though, that something about one of the stories began to feel… different.
+
+I turned to the older man.
+
+"You said you volunteered?" I asked Marcus.
+
+Marcus lowered himself back onto his pallet.
+
+"I was regular army," he said. "Spent most of my career there."
+
+"Regular army?" I repeated.
+
+Marcus's eyebrows rose. "You don't know about the regular army either?"
+
+"Assume I don't know anything."
+
+He studied me for a moment, then sighed.
+
+"Silberwald has two military branches," Marcus explained. "The Magical Army and the Regular Army. The Magical Army is what everyone thinks of when they think of soldiers. Mages. Circle-bearers. They get the equipment, the funding, the glory. They're the ones the kingdom parades through the capital when there's a victory to celebrate."
+
+He laced his fingers behind his head.
+
+"The regular army is everyone else. People who can't use magic well enough to qualify for the magical branch. Instead of casting magic ourselves, we rely on magical equipment: wands, rods, and staves. Still, we fight the same wars as the mages, just with worse equipment, worse pay, and worse odds."
+
+His voice didn't carry bitterness.
+
+"We were cannon fodder," Marcus said. "The ones sent in first, to absorb the initial assault, to buy time for the mages to set up their formations. The worst missions always went to us. The ones with the highest casualty rates. The ones nobody else wanted."
+
+He fell silent for a moment.
+
+“I survived long enough to become an officer, that’s when I first encountered the Iron Cross,” he explained. “I saw some knights wielding swords, others carrying lances. Even without a Circle, they could fight side by side with the mages of the Magical Branch. I wanted to be one of them, but becoming an officer is competitive. To make things worse, I’m not a noble.”
+
+“For those who can’t make it in as officers, this is the only path left.” He gestured at the cell.
+
+"Volunteer entry. Which means starting here. In the Coliseum."
+
+I stared at him. A man who had fought in real wars, survived real battlefields, earned real rank through years of service, and his reward was the same cell as a sold boy and a kidnapped girl and a noble's son.
+
+"You chose this?" I asked.
+
+Marcus met my eyes.
+
+“Madness, maybe? But kid, you don’t seem to know much about the world. Most people in the capital don’t,” he said, his tone turning serious. “Out there, survival without magic is impossible. Impossible.”
+
+I knew that already. I’d be dead if not for the Sins.
+
+“For anyone who isn’t planning to spend their whole life in the capitals, you have to find a way out. A way to survive. If there’s an organization that gives me a chance to survive without relying on magic… then coming to the Coliseum isn’t so bad,” he added, trying to justify his choice.
+
+I understood that logic. I hated it, but I understood it.
+
+I turned toward the two figures on the pallets near the door. The drunks. They lay facing the wall, radiating hostility and the acrid stench of old spirits.
+
+"What about them?" I asked.
+
+"Fuck off," one of them muttered without rolling over.
+
+"Fuck off twice," the other added.
+
+Marcus shook his head. "No idea who they are. They were here when I arrived. Haven't said a word that wasn't a curse."
+
+The drunk who had spoken first earlier, the one who'd announced they were all going to die, let out another of those hollow, resigned laughs.
+
+“The Iron Cross isn’t exactly selective about who they take in. So yeah… they might just be criminals,” Marcus explained.
+
+“Criminals? On the army?” I asked. I knew some countries used to accept that, but my real concern was what were the chances they’d turn on us, or do something while we slept?
+
+“Where did you think you were signing up? The Iron Cross is its own crazy branch. They follow a different set of rules. Ones that don’t answer to the standard army structure. Honestly, you can’t judge them the same way. Anyone who was a solid soldier is already in the Regular Army or the Magical Corps. What’s left for the Iron Cross is the scraps. Madmen and desperate people looking for a way out,” Marcus said.
+
+Madmen or desperate… where did that leave me?
+
+“You’ll find three types of people in the Iron Cross. Knights who believe they’re helping humanity fight the Sins. Mercenaries, those looking to make some extra coin without magic. And fugitives, people who’d be in chains if this weren’t an option,” Marcus finished.
+
+“Which of those do they fall into?” I asked, pointing at Lyra and Garret.
+
+“None. They might get selected, sure. But they’ll probably choose to walk away,” Marcus replied.
+
+“Can we do that? Aren't we slaves?” I asked.
+
+“If you get selected, you move past this stage. Then you decide. Stay or leave. It’s your choice,” Marcus said.
+
+I stayed silent for a while, taking in where I was and what the Iron Cross meant.
+
+I should’ve asked Iris more about them. I’d assumed the idea of “knights” was the same as in my time.
+
+I scolded myself for it.
+
+"The drunk said something about this cell being cursed. That we're all going to die. What did he mean?"
+
+Marcus's expression shifted. The easy, patient demeanor tightened around the edges.
+
+"You'll see tomorrow," he said quietly. "For now, rest. Trust me on this. Whatever energy you have left, save it."
+
+The finality in his voice closed the conversation.
+
+I looked at the narrow strip of unclaimed floor. The thin straw pallet that had been tossed there for the cell's newest occupant.
+
+I lowered myself onto it.
+
+The straw crunched beneath me. The smell of mildew rose from the fabric.
+
+My back hurt. My wrists burned from the rope. The cell smelled of sweat, alcohol, damp stone and animal musk that came from Gerret's lupine physiology.
+
+Yet, none of it mattered.
+
+My eyes closed. Twenty days of running behind carriages. Twenty days of lifting rocks. Twenty days of sparring until my hands couldn't close and my body couldn't stand.
+
+I was asleep before my next breath.
+
+The bang shook the world.
+
+Iron on iron.
+
+My eyes snapped open.
+
+The cell was gray. Pre-dawn light seeped through a ventilation shaft somewhere above.
+
+The cell door crashed open.
+
+Soldiers filled the corridor.
+
+Armed men in plate armor, carrying swords and short spears. Their faces were hard and expressionless.
+
+"Up! On your feet! Move!"
+
+I rolled off the pallet and stood. My muscles screamed. Every joint protested. The straw had done nothing to cushion the stone beneath.
+
+Around me, the cell stirred.
+
+Marcus was already on his feet, standing with the practiced readiness of a career soldier. His posture was straight, his face composed.
+
+Gerret rose next, ears swiveling toward the door, nostrils flaring.
+
+Lyra was last among us. She unfolded from her corner with her wings pressed tight.
+
+The drunks didn't move.
+
+One of them groaned and rolled over, pulling the thin blanket over his head.
+
+The soldiers didn't ask twice.
+
+Two of them stepped into the cell. Gauntleted hands seized the nearest drunk by the ankles and dragged him off the pallet. He hit the stone floor with a wet smack that drove a curse out of him. The second drunk tried to resist. An armored fist connected with his jaw. The crack echoed off the walls.
+
+They were hauled upright and shoved into the corridor with the rest of us.
+
+We moved.
+
+The soldiers formed walls on either side. Spears angled inward. The message was clear: walk forward or be carried.
+
+The corridor climbed. Stairs appeared. We ascended through layers of stone that grew brighter with each level.
+
+The sound grew louder.
+
+A gate appeared.
+
+Iron bars set into a stone archway. Beyond it, light. Blinding after the dimness of the lower levels.
+
+The gate rose with a grinding shriek.
+
+We stepped through.
+
+The arena swallowed us.
+
+It was enormous. The sand floor stretched in a broad oval. The surface was pale and fine marked only by the faint impressions of whatever had taken place here last. Dark stains discolored the sand in irregular patches.
+
+Blood.
+
+The walls rose on every side. Five tiers of stone seating climbed toward the open sky, and on those tiers sat an audience that I hadn't expected.
+
+Not the roaring thousands of a gladiatorial spectacle. But hundreds. Monks in their undyed robes, seated in ordered rows. Knights in armor, scattered among the higher tiers, watching with the relaxed attention.
+
+The six of us were herded to the center of the arena.
+
+I looked down.
+
+Scattered across the sand, arranged with apparent carelessness, lay weapons.
+
+Wooden practice swords. Blunted, heavy, their edges rounded to prevent cutting but not to prevent breaking bones. Short spears of the same construction. A few wooden shields, circular, banded with leather.
+
+I counted.
+
+Eight swords. Four spears. Three shields.
+
+A voice boomed from the stands.
+
+"Training exercise! Bring in the opposing six!"

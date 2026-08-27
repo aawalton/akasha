@@ -1,0 +1,283 @@
+---
+id: c969e062-47dc-576d-ba4d-49a1772816df
+page-type-slug: story-chapter-royal-road
+title: "226: Lian it on Thick"
+slug: 0249-226-lian-it-on-thick
+partOf: there-is-no-epic-loot-here-only-puns
+position: 249
+ownLength: 4173
+unit: words
+publishedAt: 2025-11-15
+link: "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/2762402/226-lian-it-on-thick"
+royalRoadId: "2762402"
+---
+
+Lian had never been involved in something as fancy as a trial before. He sat in the middle of some rather odd people. To his right was what seemed like a Royal Knight and a teen girl with the attitude of a sour apple decked out in browns, reds, and Fairplay symbols. To Lian’s left, the priestess of truth and the local guildmaster, another teen, and a nice looking man who has the smell of clay about him. Sitting apart from them but close enough was the saint who had a neutral expression.
+
+The last time Lian was in such a position of power, he helped his home village judge the best fruit cake to be presented. There had been a long and tough debate over the ‘Bran and Orange Peel’ cake, and the ‘Apple Slices and Wheat’ turnover.
+
+Things got exciting, almost too much so, when one baker brought out decorative cherries for his cake.
+
+It had been a good time and Lian had not long after went to sign up for the chance to be a filing clerk at the capital city, the horse-shoe department if he remembered correctly, but he got turned around and signed up to be an adventurer instead and didn’t want to cause a fuss by asking for a job-change application which would take three business days to be processed.
+
+It turned out he was rather good at the whole sword and killing thing, able to do jobs by following the requests in a timely manner and ignoring what others seemed obsessed with chasing, like random people appearing from dark alleys yelling at them to not follow as they were cursed.
+
+Lian listened and walked away.
+
+Another time, when a cursed treasure chest appeared for his group, Lian used a stick and pushed the whole lot into a river as curses required some paperwork to get handled officially.
+
+Lian even accepted a quest where it turned out the client lied about the difficulty because she was on the run and had left her massive fortune behind to some evil uncle, so Lian refunded the woman her quest fee and walked his group home, leaving the baffled beautiful elf alone on the road. Lian hoped she was well.
+
+The issue was that his group was intent on pushing every button in every ruin or cave. They wanted to see what happened if you put the cursed lich skull inside the cursed suit of armor. They were fascinated by the idea of a 1000 year evil waking up as they just happened to be nearby.
+
+Miranda, the Gunsmith, was determined to shoot everything once to prove bullets were the ultimate magic.
+
+Howie, their relaxed necromancer, wanted to find old bones and give them new homes if their old one was in disarray. He once had an entire flock of extinct birds following him before he found them a new place to ‘rest’ in someone's petunias.
+
+Archie, the Archer, was... well, he was a walking paperwork generator and fine collector.
+
+And it was always a ‘thing’ when Tim’s troll pimples exploded when he got flustered.
+
+Lian loved them, but he did cry at night when he did the group's finances, with Errol’s alchemy shopping list glued to the coin bag like a dire warning.
+
+“So... how does this work?” Lian asked brightly and the others looked at him as across the clearing, a familiar slime wriggled and oozed while a beautiful abstract swirling light of orange and sound sat behind a desk.
+
+The being known as Delta looked like a woman, but no part of her was ever still, ever lacking energy, making it hard to define her exactly.
+
+“We listen to the farce, laugh, condemn the dungeon,” the girl called Tu’mn said bluntly as she drummed her fingers.
+
+“I don’t think you can laugh, it’s too much of a human emotion,” Grim said back with a grunt.
+
+“We listen to the facts provided for and against the potential of Delta as a new existence and judge together without biases for her future. Both sides take turns tackling an issue brought up, letting us form opinions and choices as we listen.” Wollom instructed, shooting them all an expectant look.
+
+“What is proof?” Delta asked and Lian blinked as her voice was a mix of home, the rising dawn, and something like a nervous energy like he wasn’t sure he locked the door or left the oven on. She spoke, but she didn’t use words.
+
+It was like the Dungeon-God-thing was talking to their souls.
+
+“Reasonable doubt that in the long term, letting you be will not harm others. Judging on past actions, current plans, and future expectations. To be honest, and I’m sure many will be fine with this, if you can just prove you’re under the God Accords of the Sister, we shall end this here,” Wollom offered and Delta sort of shrunk in on herself, muttering loudly about ‘Sis’ and ‘damn exception’.
+
+“What if I got Sis- erm, Sister down here and she can manifest and explain things?” Delta offered, straightening up. Everyone winced and Yattina, sitting on the side of Delta, cleared her throat.
+
+“Sister and Brother may be the Gods, but people have and always do react poorly to them. Our Cores see them as enemies, their words leave us with little trust, and their actions have always done more harm than good,” Yattina explained which made Delta look puzzled, shocked, then regretfully understanding.
+
+“It wasn’t that bad-” Delta began slowly.
+
+“Brother unleashed monsters on us for many generations and when one of us could finally communicate with him, he told us ‘oh, you don’t like it? Shame, I’m loving it’ and shut the door on them,” Director Ripdoy said coldly.
+
+“You’re all living on him. Mining his body for resources... he didn’t need to do that,” Delta said, sticking up for the Brother which Lian didn’t have any strong opinions on.
+
+Sister and Brother were Brother and Sister, and that was it to Lian.
+
+“He didn’t ‘do anything’. He tripped!” Tu’mn said with a scoff and there was a pause as Delta seemed to listen to something.
+
+“What do you mean... too lazy to get up?!” she hissed to the air.
+
+“Fine, so you don’t trust the two, but you’ll trust the accords Sis set up on the gods? Explain that,” Delta asked the gathering of people.
+
+“Because the gods started acting way worse for a time, so Sis kicked their collective ass, showing the only thing she knows how to do is brute force, I liked it, but others don’t. So, Dungeon,” Zane the knight called out, lounging in his chair, “can you win without clinging to the big scary Sister’s skirt?” the man grinned.
+
+Lian blinked as in a nearby tree, a truly ugly vulture with three eyes and metal feathers hissed and spat in anger as it clutched a silver spoon. A teen near Delta, who looked to be the one involved with that Echo monster, stepped aside and the bird landed on him, dropping the spoon into his hand.
+
+“Bet... Gam...” Delta whispered, hands clutched to her chest and there was a wave of sheer joy Lian could feel. Delta seemed to turn solid for a moment, focusing into a woman with hair pulled back and a serious expression.
+
+“You guys have no idea how ready I am for this,” she said and Japes clapped his hands but Tu’mn scoffed.
+
+“All I am seeing is abnormal mutations and a core thinking it's human. It’s broken,” she said and Delta stood up, slapping the table with one hand.
+
+“OBJECTION! Slander!” she said and pointed, making Tu’mn’ eyes widen.
+
+“The jury will refrain from making hostile remarks to sway my client's mood to suit their agenda, yes?” the little slime said and Lian tried not to shiver as he recalled the slime was rather... brutal in its wording. From the other side, a man from Fairplay acted as a counter lawyer, strutting up to the space in the field like it was his stage.
+
+“Caline,” Grim told Lian helpfully before pushing a brochure for deals at the guildhouse on him.
+
+“I shall ensure honesty is paramount, for both sides,” Kemy said and she shot Delta a slightly apologetic look, only getting a kind smile in return.
+
+“Your client will refrain from trying to seduce the jury with sultry gazes,” Caline snapped into action and Delta let out a sound like a confused whoopie cushion.
+
+“I wasn’t seducing anyone, just being appreciative of Kemy’s earnest work to always be honest,” Delta said and Caline made some noises.
+
+“As the one leading this case and acting under authority of Fairplay, I shall open this matter with the obvious problem and this case will be over in minutes,” he declared and the clearing gained a collective paused breath and Lian quickly hurried to stop breathing in case he was missing something.
+
+“Dungeons that are not Abominations do not leave their confined spaces, Abominations do,” Caline said and crossed his arms like he had delivered some fatal blow to Delta.
+
+Lawyergon, the slime, seemed ready for this as he oozed along the table before Delta to be on roughly the same eye level as Caline. Not that the slime had eyes, but he did have a snazzy briefcase which made him seem like a very good lawyer.
+
+“This is incorrect as even in recent times, a Dungeon Core was removed and replanted into a different land altogether and resumed functioning. That shows that not only are Dungeons able to survive outside, but are able to exist outside their previous dwelling,” Lawyergon said and Caline looked unconvinced.
+
+“I have heard of no such thing,” he said and Lawyergon snapped his case open, revealing a projection of their world. Lian was amazed as the body of the Brother spun until it focused near his hip, showing blinking dots.
+
+“I wouldn’t expect a Fairplayer commander... ah my mistake, you were demoted it seems, but all the same, as a Dungeon, we are aware of others and their plights,” Lawyergon said and Caline’s jaw clenched at the words, but he was too busy trying to find a flaw in the map.
+
+“You could be projecting nonsense, to fool us,” he pointed out and Kemy shot him a dirty look and opened her mouth, but Japes beat her to it.
+
+“That’s a recent Dungeon, a Snake-themed one if my sources are correct. It melded and used a magical item as its basis. Removing it may have been due to incidents or greed,” he pointed out and Lian wondered why a potter had ‘sources’.
+
+“Perhaps you're correct, but all that means is that a Dungeon can be relocated, not that its core can leave and return at its whims,” Caline said with a shake of his head.
+
+“I can’t actually leave for long. I lose energy and need to go back,” Delta spoke up.
+
+“Unless you possess people, like Abominations that turn people into hybrids, using them as vessels. Like you started doing with the one known as Amenstar?” Caline stated and Delta blinked then looked affronted, the edges of her form shifting to form dozens of tiny little teeth and mushroom caps in annoyance.
+
+“Except the teen is fine, we can even have him as your witness if you’re so worried,” Lawyergon offered and his voice was syrupy sweet. Caline waved a hand.
+
+“I think he’s endured enough, no?” the man said and his smile was thin.
+
+“Caline sucks butts,” someone called from the direction of Alpha but the boy’s lips never moved.
+
+“Who said that?” Caline demanded as he spun, lips thin.
+
+“It was not me,” Alpha said.
+
+“Truth,” Kemy reported.
+
+Lian raised his hand slowly and everyone looked at him.
+
+“Yes, Lian?” Delta called like she was a teacher. Lian tried not to fidget as everyone looked at him.
+
+“This feels personal and intrusive to ask but is your uh... core... self... in the avatar?” he asked and there was another pause.
+
+“It is not. It is still currently on the fourth floor, where none of you shall ever find it. I’d love to see you try,” the tiny cherub-like boy at Delta’s side insisted as he glowed blue.
+
+“Who are they?” Caline asked, narrowing his eyes, “splintering and separating into different beings is the first thing a Dungeon does when it goes Abomination,” he said aloud and everyone turned to the blue and green figures.
+
+“Oh, they didn’t come from me. I encouraged-” Delta began brightly.
+
+“Bullied,” the two interrupted.
+
+“-them into thinking and acting. Most Dungeons have a way to manage their resources with menus or screens, Nu and Prim are those screens,” Delta said and everyone looked between themselves.
+
+“Truth, on both accounts,” Kemy said with a tilt of her head.
+
+“So, if the core is still in the dungeon, then by technical detail of the word of the law... Delta hasn’t gone Abomination?” Lian asked slowly.
+
+“Cores leaving may be a potential outcome, but Dungeons can just discard the shell as well, it’s not a proper indicative of a yes or no,” Caline said and Kemy nodded, showing he spoke the truth. Wollom raised a hand.
+
+“This topic will now begin to de-evolve into points neither side can prove. As Caline went first, Lawyergon may now offer a defensive point for Delta,” he said, moving the topic along.
+
+“Ladies, gentlemen, and all others, I come before you not only as a lawyer, but as a monster. Does Delta look like an Abomination? She thinks, she talks, she has restraint, she cares, and most of all, she agreed to be on this trial. I ask you all, does this seem like Abomination behavior?” the slime asked, his voice regal.
+
+“From all evidence provided, Abominations emerge as unreasonable monsters, attacking and consuming all they can. Delta hasn’t even been proven to be leaving her dungeon in any manner other than projecting herself,” Lawyergon added and Caline looked like he wanted to interject but couldn’t argue the point yet.
+
+“What classifies an ‘Abomination’, exactly?” The slime directed the question at Wollom who clasped his hands together in a relaxed manner.
+
+“A lot of the surface things have been mentioned, such as leaving their confined birth place, releasing monsters out of their space, infecting people or using them as materials, and more,” Wollom began and no one argued with him, most people nodding.
+
+“However, the fact of the matter is Dungeons release purified mana into the air that all lives benefit from, the process isn’t known to me exactly, but there is a difference between the mana a Dungeon ‘owns’ and mana they ‘release’. When the mana coming out of a Dungeon entrance no longer is neutral, no longer wild and free, but akin to a virus, I would say would be when a Dungeon is truly considered an Abomination,” the saint concluded.
+
+Lian suddenly had a daring idea as he raised his hands.
+
+“Then, can we just collect some of the ‘released’ mana and make it bigger? See what it looks like?” he asked and Delta stilled, looking like she was both suddenly nervous and alarmed.
+
+“I’m not sure that’s possible,” Lawyergon said but Caline interrupted.
+
+“It is possible of a sorts, not exact enlarging of mana per se, but we can project their image onto a large surface for examination, I believe Fairplay’s own head scientist, Jeina Visp, is here with us right now,” Caline gestured the woman who looked extremely indifferent to everyone turning their eyes to her.
+
+Lian thought she might start collecting any lingering eyes into jars and store them for later use. She had that vibe. Visp turned to her leader who nodded and she merely stood up and began gathering mana around her like she was a conductor and anyone not following the music sheet to the absolute note would be cut from the program.
+
+Before them, the air shimmered as orange motes were moved under a strange glass-like surface that appeared, causing dirt, fluff, and other unseen things to suddenly become superimposed on the glass. A ladybug flew by and the once cute little thing now looked like a Dungeon monster under the magnification. Visp flexed her hands and the other items began to fade away, removed from the field of view.
+
+She was doing this all with sheer will and control which, given Lian worked with a mage and a necromancer? He knew that was not merely impressive, it was scary.
+
+Then the mana came into sight and Lian’s jaw dropped.
+
+A mote of mana looked a lot like a drifting piece of dandelion, with its cotton wispy sides replaced with spikes and moving tendrils. It, and three other motes, were moving around like wild dogs in the air, looking ready to throw down and beef with anything it saw, like a middle-age couple after one too many ales and chicken wing snacks.
+
+“Introduce something so we can see if it infects,” Wollom said without any emotion in his tone and Lian knew this was a big moment. This could change everything. Visp pulled out a strand of her own hair and tossed it into the area where under the magnifying glass, the hair glowed with smaller green motes of Visp’s own energy.
+
+At first, the orange mana reacted in surprise, huddling together and making puffing gestures to assert dominance. Once it saw there was no threat, the orange mana swarmed forth, pulling the greenish mana off the hair before it began to form clubs and folding chairs out of their own energy to assault the hair.
+
+The green mana seemed lost and confused, but unharmed as the thugs went to town on the hair.
+
+“This mana belongs to a being who brute-forces everything and boldly goes forth or simply cannot find the way to reverse their course,” Visp reported, “but I am seeing no signs of mana vampirism or conversion,” she added.
+
+“That’s one example, how about a virus? Anyone here caught a cold?” Zane asked, growing excited at the sight of superimposed microscopic violence. Japes simply held out a jar and tossed it into the ring where ugly looking, almost alien, pathogens began to emerge.
+
+“I have almost every virus in existence somewhere on my body,” he said kindly and Lian thought that was... concerning, but he wasn’t a potter so maybe he didn’t know enough to comment.
+
+The virus was drawn instantly to Visp’s exposed mana, closing on it like a predator who was smelling fresh meat.
+
+“Most infections or diseases have evolved to infect us through contact points, wounds, or transfer, and now via mana. Unlucky idiots have caught terrible diseases from touching magic scrolls with no gloves or protection,” Visp said and Yattina nodded in agreement, snapping her own work gloves.
+
+Just as the cold virus loomed over the unaware green mana, the orange thugs turned and charged, letting out a warbling cry and dive tackling the virus to the ground where it formed human-like fists and pummeled the virus to mush, using the virus’s ooze as war paint to make demonic masks.
+
+They decided the green mana was too weak so they tied it to a pole of their orange energy and carried it like a prisoner, chanting as they went in search of more fights.
+
+“This looks terrible...” Delta moaned and Visp continued to test the mana in different ways, showing it was aggressive to almost anything that sought to consume mana or attack mana belonging to people or plants. More often than not, they formed crude weapons or traveled on mana-made bicycles with obnoxious loud chants.
+
+There was one... odd thing that happened.
+
+Fairplay was setting up a small area for the director to sit and watch the event unfold, first setting up chairs, then a table with tea and snacks, and to protect the upper officers of Fairplay from potential wind or sun, they constructed a freestanding, open-sided structure to cover them.
+
+“Something is happening, Dungeon mana is gathering in alarming numbers,” Visp called out as the screen expanded to show the flighting roaming squads of biker punk motes had turned, as one , to the Fairplay gazebo.
+
+In seconds, an orange flood covered the structure and it was simply gone, reduced not to wood splinters or sawdust, but something even less than that.
+
+Everyone turned to Delta, who crossed her arms with an expressionless look.
+
+“Pavillions or rotundas are superior,” she said by way of explanation which didn’t explain anything at all. Wollom hummed.
+
+“Weird, but still not a sin against humanity,” he declared and Caline turned purple with anger. Director Ripdoy merely poured himself a new cup of tea as he shot Caline a look. Nodding, as if hearing some command, Caline turned to Delta and Lawyergon.
+
+“It seems you are indeed a new existence, a special sort of being,” he began and Lian suddenly had a strange sense of worry. Caline sounded like things were going as they should despite the setbacks.
+
+“So, for the ease of all here, would you confirm you are a Dungeon who learned to be human or a human forced to be a Dungeon?” he asked and the clearing went silent.
+
+“Do I have to?” Delta asked and Wollom thought about it then shook his head.
+
+“No, your accusation was being an Abomination, nothing else. I’ve seen no evidence of any corruption. Your mana is... interesting! But it isn’t a virus... just excitable,” he proclaimed and Delta exhaled.
+
+“Oh, is it already over?” Lian asked and Kemy bit her lip, still looking nervous.
+
+“No, if Delta is simply a smart Dungeon then it's fine, but if she has been fed a human soul and mutated, that is breaking different laws, many of which are not under the jurisdiction of a saint,” Caline explained with a smile that looked cold.
+
+“Since we’ve already assembled this gathering, we might as well use it to kill two birds with one stone and avoid a lot of poor communication. So, Delta, were you born a Dungeon or were you something else?” Caline asked and Delta stared at him, her focus so narrow it was hard to ignore how the mana in the area grew agitated.
+
+It looked like Caline might soon become a gazebo in theory.
+
+“Let me be clear, even if you were human... you cannot be charged with a crime, you are a victim, not a criminal,” Caline added and Delta blinked.
+
+“True,” Kemy spoke up.
+
+“And who would be charged?” Delta asked quietly.
+
+“Whomever did it would be forced to adhere not only to many kingdoms’ laws and state laws, but also an ancient law put in by the very Siblings themselves! To mess with a Dungeon core is to risk losing all your wealth, power, influence, and more. So, Delta, before you were a Dungeon, did you exist as a human?” Caline pressed and Lian felt a little nervous, like something was pulling a noose tight around all the gathering.
+
+Delta blinked and surprised them all with a smile.
+
+“Nope! I honestly can say I have no absolute proof that I was human before I was a Dungeon other than memories I absorbed over time but those could be anything. Dungeons absorb a lot and I’ve always avoided thinking about it cause I desperately want to be human!” Delta said and Kemy sat up.
+
+“True!”
+
+“Also, I’m still not a Dungeon. I suck at being a Dungeon by all measurements you folks have!” she added.
+
+“T-true! Sorry...”
+
+“I only have four floors and not even one proper chest that isn’t a mimic!” Delta continued with a grin.
+
+“True!”
+
+“I don’t even have loot set up! It’s all pre-generated by things I can’t work out and anytime I try, there’s always a big ‘random lotto’ button and I just push that!” Delta stood up, glowing now.
+
+“Absolute truth.”
+
+“I’m just Delta, friend, new goddess, sort of lame dungeon, amazing artist-”
+
+“Lie.”“Moderately good artist-”“Lie.”“I try!”“Truth!”
+
+Lian felt his heart skip a beat as Delta put her leg on the table and looked at ease.
+
+“And I don’t want to kill anyone, I just want everyone to have a good time,” she finished and wobbled as the table fell over and she toppled back into her chair.
+
+“Absolute truth,” Kemy said, eyes closed with a smile on her face.
+
+“Lame,” Zane said and huffed.
+
+“This court is over,” Wollom said and the way he said it was so absolute that it made Lian shiver, like some decree had passed and even Caline didn’t dare speak out in protest.
+
+Lawyergon turned, sniffling with blotty snotty tears.
+
+“The only time a lawyer can cry is when it's all over." he wailed as Delta patted his head with affection.
+
+Lian couldn’t wait to send a letter home to tell people he was involved in a court case. He could almost feel the A4 plain white crisp double-lined paper already.
+
+Maybe Lian would even go wild and pay for next-day shipping!

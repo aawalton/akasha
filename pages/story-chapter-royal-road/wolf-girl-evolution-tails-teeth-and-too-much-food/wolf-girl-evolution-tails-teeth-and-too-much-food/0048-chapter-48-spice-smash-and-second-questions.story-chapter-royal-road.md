@@ -1,0 +1,307 @@
+---
+id: f8091918-676b-58b9-b0dd-d07cf78adfcb
+page-type-slug: story-chapter-royal-road
+title: "Chapter 48: Spice, Smash, and Second Questions"
+slug: 0048-chapter-48-spice-smash-and-second-questions
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 48
+ownLength: 1723
+unit: words
+publishedAt: 2025-10-09
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2664134/chapter-48-spice-smash-and-second-questions"
+royalRoadId: "2664134"
+---
+
+PoV Luna
+
+After a lot of back and forth – and Syl being an amazing Second and giving Luna another sip of potion to heal her hurt jaw with – the adventurers finally decided to get a move on.
+
+Well, sort of.
+
+First, they gathered everything.
+
+Seriously. Every plinky little coin scattered across the floor, every dull gem chip, every scrap of metal that didn’t even look tasty. Anything and everything the Lich thingy had kept around, or which fell scattered and never picked up!
+
+Why?
+
+Why did Ray need to pick up all of them?!
+
+Luna’s tail twitched in disbelief as she watched him crawl on hands and knees toward another tiny sparkle in the dirt.
+
+It wasn’t even big! Barely worth a bite!
+
+“Do you plan to buy a new mountain with those?” Trianna muttered, counting the tenth pouch he had filled.
+
+Ray only grinned.
+
+“Never know what’ll sell.”
+
+Luna groaned softly into her paw. Dum dum stuff. No spice. No flavor.
+
+She really didn’t wanna know!
+
+Syl was more patient, though. Always was.
+
+She helped sort the packs, tied pouches tight, and handed Ray another small cloth bag without even sighing. Perfect Second! Smart Second. Calm Second.
+
+Luna still preferred meat over metal though.
+
+It took a while, but once they were done – there came the exciting part!
+
+Syl gave a nod to Sepio, voice even but firm.
+
+“Do it.”
+
+The big man hefted his shield, adjusted his stance, and brought it down in one clean, ringing blow.
+
+Crack.
+
+The dungeon core shattered.
+
+Fragments scattered across the floor, glowing in a mix of faint red, icky corruption, and brilliant blue for a heartbeat before dimming to dull gray. The hum in the chamber died at once, air settling heavy and quiet.
+
+Weirdly, the pieces didn’t stay pieces. They began to melt. A slow drip, thick and dark, pooling at the edges of the cracks.
+
+Luna crouched close, nose twitching. She sniffed at one. Then, naturally, licked.
+
+It didn’t taste like stone.
+
+It tasted like corruption and mana – burnt and bitter with an aftertaste of ash.
+
+Weird.
+
+Syl was already explaining while the others watched the puddle hiss itself away.
+
+“Destroying the core is important,” she said. “Corrupt things like that only lead to trouble. Even if it should fade eventually if left alone, there’s always a chance it could spread again. Better to be sure.”
+
+Luna tilted her head, ears flicking.
+
+“Spread?” she barked.
+
+Syl smiled faintly, still focused on the melting core.
+
+“Corruption feeds on magic. Leave it long enough, and it could chance upon something or somebody to supply more mana to it.”
+
+Luna wrinkled her nose.
+
+So you bite it before it bites? It kinda made sense? Maybe.
+
+Oh, wait! Hunt before they hunt you!
+
+That’s very smart. As expected of Second!
+
+Still…
+
+That answer should have satisfied her. It didn’t.
+
+Because none of them had let her bite the big crunchy thing.
+
+And complained when she did bite the other shiny!
+
+Her tail flicked sharp against the floor.
+
+Sounded like an excuse. They said don’t bite the shiny, but then they smashed the even shinier thing themselves.
+
+Unfair.
+
+Very unfair.
+
+Her ears flattened slightly as she pouted at the melted mess again. No taste, no crunch, no spice there. And no victory chew either.
+
+Fine.
+
+Let the dum-dums have their boring treasures.
+
+Her tail wagged with conviction. Next time something sparkled, she was biting first and explaining later!
+
+***
+
+Their way back took longer than Luna liked. The halls seemed to stretch twice as far now that everything was quiet.
+
+Still, the dungeon was changing.
+
+The air felt lighter. The black veins that had crawled across the walls were thinning a little, fading into grey. Wisps of darkness peeled off the stone, drifting up before breaking apart into faint sparks.
+
+Luna sniffed at one as it passed. The smell of rot and sour sting was lighter now. And getting lighter still.
+
+Getting gone.
+
+Neat!
+
+So that was how it worked. Kill the big round corrupt core thing, and the rest of the corrupt stuff withered away too. Cut off the meal, and the bad meat spoiled.
+
+Her tail flicked proudly. Yes. Very good hunt logic.
+
+Apex Predator logic!
+
+Her new-pack might not have fur or claws, but they were learning.
+
+Could make proper hunters yet!
+
+The deeper they walked, the more the old ruin lost its hum. The heavy pressure in the air lifted until even the magic lines in the walls turned faint. The ruins felt… dead now. As dead as proper stone should be, at least!
+
+None of that weird pulsing stuff no more.
+
+And when they finally reached the surface tunnels, the group slowed again.
+
+Because, of course, the dum-dums still wanted to collect more things.
+
+Luna watched them with exaggerated patience while they checked every corner, bagged every last coin and ‘artefact’, and debated whether “this old ring” was worth anything. Ray muttered about resale and packed it anyhow. Trianna muttered about traps.
+
+Luna dreamed about soup.
+
+By the time they climbed out into the open air, the sun was already tilting low. The forest beyond the ruins glowed in orange haze, shadows stretching long across the moss.
+
+Evening.
+
+That meant the moon would rise soon.
+
+That meant transformation.
+
+And transformation meant jerky and spice and everything nice without tummy aches.
+
+Luna just couldn’t wait! Her paws practically danced on the stone.
+
+Finally!
+
+At least her new-pack was smart enough not to keep exploring. Veric looked longingly at another collapsed archway, but Syl gave him a look that made him stop mid-step.
+
+“Enough for today,” Syl said simply.
+
+Yes! Listen to Second! Second was wise! Second promised soup!
+
+Luna barked once in full agreement, tail wagging so hard her balance nearly slipped. Then she darted toward the trail ahead.
+
+“This way!” she called over her shoulder.
+
+Syl’s soft laugh followed her down the slope.
+
+“Yes, Luna. That way.”
+
+Luna raced through the underbrush, air cool against her fur. The smell of open forest filled her chest, green and clean. She ran until the camp scent hit her nose – smoke, spice, elf.
+
+Perfect.
+
+She circled the clearing twice, making sure no ugly beasties had wandered in, then sat proudly by the firepit to wait.
+
+A few heartbeats passed.
+
+The others were slow!
+
+She frowned, ears twitching, then turned and bounded back down the trail running.
+
+There they were, still trudging, still tired.
+
+Luna barked encouragement, prancing around them until they reached the slope.
+
+Then she dashed back again.
+
+Back to camp!
+
+Back to them!
+
+Back to camp again!
+
+【Run Lv.8 → Lv.9】
+
+Nice!
+
+When they finally reached the clearing, Luna gave one last victorious bark, tongue lolling wide.
+
+“See? Fast route!”
+
+Her tail flicked once, smug.
+
+It was dinner time, they better prepare!
+
+Moon time came soon after.
+
+Luna felt it first – tiny prickles racing down her back, her fur bristling as the moonlight slid across her skin. Warm. Bright. Full.
+
+Great timing!
+
+【Lunar Form – Activated】
+
+Her bones stretched, then shrank again, smooth and practiced. Fur shimmered away to skin, except for important places. Paws became hands. Claws became nails. Her balance wobbled halfway through, and she windmilled her arms until she caught herself, tail flicking to catch balance again.
+
+Trianna glanced over from the campfire, already laughing. Veric made a noise somewhere between a grunt and a chuckle. Syl didn’t even look surprised anymore.
+
+Luna grinned wide and raised her arms.
+
+“Awoo! Back at camp! Give spice now!”
+
+They laughed harder.
+
+Ray dug through his pack, pulled out a small wrapped bundle, and tossed it her way.
+
+“You earn it every time, you know that?”
+
+Jerky.
+
+Perfect.
+
+Good pack. Smart pack. Knew to pay respects properly.
+
+Luna tore the strip open with a satisfied growl and bit deep. The taste hit hard – smoky, salty, the heat of spice burning bright on her tongue. Her whole body sighed as she tiptoed with delight.
+
+Yes. Victory tasted this way!
+
+She was halfway through her second piece when Syl and Trianna came to sit nearby.
+
+Syl settled cross-legged, quiet and steady, the moonlight catching in her silver hair. Trianna plopped down beside Luna, then – without warning – pulled her onto her lap.
+
+Luna squawked softly, half-protest, half-surprise. “Not pup!” she said around a mouthful of jerky.
+
+Trianna snorted.
+
+“You’re eating like one.”
+
+Another piece of jerky appeared in front of Luna’s face. She blinked at it. Then bit it.
+
+Protest forgotten.
+
+Syl’s eyes softened as she watched them, a faint smile tugging at her lips. Her voice, when it came, was calm and thoughtful.
+
+“There is something I’ve been curious about.”
+
+Luna slowed her chewing. Curiosity always meant long words. Complicated words. Luna had to focus to get those.
+
+Still, Syl was Second. And Seconds got to ask things.
+
+So Luna nodded.
+
+Syl tilted her head, studying her.
+
+“Why did you approach us that day? Why not attack? You could have taken what you wanted by force.”
+
+Luna blinked. Then barked a single laugh. Silly elf. Dum dum question!
+
+She swallowed the last bite of jerky, puffed her chest, and declared proudly:
+
+“Wolf kill human, eat spice once. Wolf friend human, eat spice furever!”
+
+For a heartbeat, silence.
+
+Then the whole camp cracked.
+
+Trianna burst into laughter first, head thrown back. Veric choked on a drink and started coughing. Even Sepio, sitting a few steps away, snorted behind his hand. Ray gave up pretending to be serious and grinned wide.
+
+Syl smiled too, soft and small, shaking her head.
+
+“An answer both simple and wise,” she said.
+
+Luna grinned back, tail wagging at the praise.
+
+“Yes. Wolf very wise!”
+
+Then she reached for another strip of jerky.
+
+The pack’s laughter faded into warm hums and quiet talk, the fire crackling between them. The moon climbed higher, silver light washing over stone and fur and steel alike.
+
+And Luna, surrounded by her weird, talky, spice-giving pack, leaned back against Trianna’s arm with a happy huff, looking up at the Moon peeking in on the night sky.
+
+She had a full belly. Safe pack. And with Moon shining bright, it would be a warm night.
+
+And as Luna sniffed the air, smelling the beginnings of soup starting over a fire, she grinned at more tasty stuff to come.
+
+Simply perfect.

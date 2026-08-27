@@ -1,0 +1,195 @@
+---
+id: d13be8cc-c252-500b-8b5b-c8dc0309c943
+page-type-slug: story-chapter-royal-road
+title: "237: Your Thing"
+slug: 0260-237-your-thing
+partOf: there-is-no-epic-loot-here-only-puns
+position: 260
+ownLength: 2453
+unit: words
+publishedAt: 2026-04-05
+link: "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/3233807/237-your-thing"
+royalRoadId: "3233807"
+---
+
+Delta could feel something wrong with the surface. It had started faint, a whisper of something, the kind of odd tickle she could’ve ignored.
+
+But once Wyin and the others had been riled up for their ‘glorious bloodless bloodshed’, that tickle sharpened. It began to scrape against her awareness until Delta couldn’t pretend it wasn’t real.
+
+Explaining it to Nu had been like trying to thread mist through a needle. She’d only gotten close when she  described it as a heavy, scratchy blanket stretched across the land above, smothering everything.
+
+“As a Dungeon, and a very weird one at that, you’re primed to pick up what most Dungeons sense. Echoes, old magic, people who matter more than they look, other Dungeons, and anything that stirs the local Mana. It’s probably nothing. Durence is stuffed with greenhorns and idiots lately, so what you’re feeling might just be the pressure of too many humans in one place,” Nu had replied, sounding confident.
+
+It sounded logical, simple even, and Delta was a big believer in the simple things making the most sense.
+
+“It just feels off,” Delta muttered from the bottom of the lake, having found a quiet shard of the Dungeon where no one else had wandered in. A rare moment of silence. Lately, Delta was never alone. Every mirror copy of the floor had someone in it. Fairplay’s crew had taken up one entire wing, mapping, tagging, and logging anything they could get their hands on. They treated it like a workplace, which, in fairness, it sort of was.
+
+Even the Pygmy Mushrooms had started giving them sidelong glances, as if wondering when the explorers would start setting up desks and coffee machines.
+
+They’d claimed the storeroom at first, but it didn’t last. Even Merry lost interest in tormenting the pale-mana workers who reacted to surprises and shock with furrowed brows. Within days, their eyes had turned downward. Rumors spread fast, the third floor’s library, the so-called madman’s lab.
+
+Many still failed to pass Wyin in her second-floor boss room, her deep pleasure in ending runs and causing lasting ‘fun’ memories had stumped a lot of people who didn’t want to go on a scavenger hunt to appease her with the keys scattered about.
+
+Delta could estimate maybe three out of ten groups that came into the Dungeon made it to the third floor, and only one of those three might make it to the fourth. It didn’t bother her. The dungeon was meant to be a place of discovery, not a conveyor belt for quick victories.
+
+The ones who came back, who laughed even after being unceremoniously tossed out, reminded her that she was doing something right.
+
+Fairplay, of course, had taken Wyin as a personal challenge. They didn’t flinch at her thorned limbs, or the raw strength she wielded when temper flared.
+
+They called her ‘an appealing specimen’ a phrase that earned them a smile sharp enough to make the braver among them reconsider standing too close.
+
+Delta felt a bit bad for them when Wyin continued to look innocent until the bossroom door slammed shut and the mist pulled back, but they kept coming back with new ‘tactics’ and when that didn’t work, they returned with the same plan with a slightly altered step.
+
+Still, the rumors of knowledge on the third floor tempted many. Delta wasn’t sure what exactly had people so invested.
+
+Doctor’s place had some flair, sure. There were notes pinned to walls, sparks flying from a ceiling pipe, and too many glass cases full of very twitchy things. Research from on things from the Dungeon and outside, proper medical dissections and ideas that could be worth something.
+
+Doctor moved through it all like a man in his own kitchen, stone mask tipped at an angle, claws clicking against stone as he worked. Most days, he hummed to himself, eccentric and oddly comforting.
+
+Other days, the hum went quiet, and something sharper watched from behind that carved beak. He would get results of something an adventurer had done and then slyly asked for a material or upgrade to enhance his ‘studies’.
+
+Delta had said she’d think about it.
+
+It was just another thing in a long list of tasks she had to do with a Dungeon System that only had some working buttons and occasionally glitched if she looked at it funny.
+
+“You’re lucky to be so grounded, given how badly broken the original Dungeon System has become,” Nu said, and Delta couldn’t really argue. Sister hadn’t minced words when she explained how far Delta had pushed past the original design, how she was evolving beyond the limits.
+
+Delta, for her part, was mostly trying to keep things fun. She didn’t need to be some grand anomaly or a terrifying legend. If the kids were laughing, if her monsters were content, if the floors thrummed with quiet life, that was enough for her.
+
+“What sort of people are coming in these days?” she asked. She’d seen a lot of groups try. At first, she thought she’d get tired of it. There was only so many ways you could watch people hit a wall before the appeal wore off, or so she had thought.
+
+Instead, every party brought its own rhythm, every voice brushing a different note across her dungeon, a steady reminder that people were rarely as simple as they seemed.
+
+Guilds came in with strategy, gangs came in with noise, companies came in with tech, and small armies marched in like they were claiming territory. And that wasn’t even counting the oddballs, the ones who showed up with half-baked plans and more enthusiasm than sense.
+
+Mages were common. They showed up with flair and confidence, robes swishing dramatically, staffs polished until they gleamed.
+
+But none of them stood out the way Alpha or Quiss did. Most of them tossed around some variation of the same old elemental ball, fire, ice, lightning, with maybe a fancy hat or glowing trinket to make them feel unique.
+
+The fighters brought more spectacle. A few even surprised her. Halberds, double shields, and once, a broom.
+
+Priests had shown up too.
+
+Delta had mixed feelings about that. Some were quiet, reverent even, whispering to the walls as they walked her floors. Others strutted in with holy symbols raised like weapons, announcing their intent to purge the dungeon of evil.
+
+For some reason, whenever one walked through her gates, she felt a strong, unshakable urge to lock them inside and give a long, slightly-too-earnest lecture about how nice it was to be nice. About being kind. About trying.
+
+It felt suspiciously like a sermon, and Delta didn’t like how natural it came to her mind.
+
+The whole ‘goddess’ label was turning out to be more than just a fancy title.
+
+With a small amused smile, she had to admit she wasn’t quite living up to the title. Delta thought if someone came asking for some tablets to help them, she’d give them some aspirin.
+
+But she could also sense a vague impression of how gods walked this world, how their domains brushed and clashed, how their presence tangled itself into the choices and chances of the people who prayed to them.
+
+It was that connection that stood out to her when priests invaded.
+
+“Current list includes Fairplay, a few teams, a knight in full armor who came just to fight the goblins, a slime mage that turned out to be three slimes in a trench coat, and an owl that flew in by accident. The owl got the farthest,” Nu reported, sounding far too pleased about it.
+
+“Did you hear that someone called you an owl?” Delta asked, voice perfectly calm.
+
+“Who?!” Nu snapped, before pausing.
+
+A long, silent beat passed.
+
+“You should be ashamed of yourself,” his screen flashed, flickering between irritation and disappointment before vanishing entirely. He needed time to sulk, to recharge whatever passed for dignity after being compared to a bird.
+
+“Shame I have no shame, for the most part,” Delta grinned to herself, letting the empty space hum with quiet satisfaction. Moments like this, small and ridiculous, reminded her why she liked having him around, exasperation and all.
+
+She hummed as her fourth floor showed activity, the faint vibrations carrying a sense of restless energy through her awareness.
+
+Delta focused and found herself high above the ocean and islands, watching a few small groups fighting on each island, their movements sharp with desperation as the tasks pushed them harder than they’d expected.
+
+She looked up at the barely hidden starry sky where her raid boss waited. The weight of it hung there, patient and inevitable, a promise written in quiet starlight.
+
+“Soon, very soon,” she promised, voice soft but certain, and the stars glinted back in what almost felt like agreement.
+
+---
+
+“The first step to being a Wizard proper is your ‘thing’,” Quiss lectured as they walked through Durence, the crowd parting as Quiss threatened to swing his staff about with little care for whom it hit.
+
+“Thing… like what?” Alpha asked, trying to keep up, while Seth, entirely unbothered, winked at a woman, two men, a golem, and, somehow, a rose bush in a planter.
+
+All of them seemed to become flustered at the action, the rose bush trembling faintly in its soil as if caught in some private joke. Quiss sighed like a man carrying the burden of the terminally clueless.
+
+“Your thing. The signature spell, the hat, the dramatic flair. People need to know what you are at a glance. Otherwise, you’re just another wand-waver hoping the world notices,” Quiss said, stabbing his staff toward a group of men in pointy hats and garish purple robes.
+
+They looked affronted at his snap judgment, but Quiss didn’t bother sparing them a second glance.
+
+“What is your thing?” Alpha asked after a moment.
+
+“Fire,” Quiss said bluntly.
+
+Alpha blinked, just once, before glancing toward Seth.
+
+Seth was humming to himself, soft and off-kilter, his words little more than half-formed notes that tripped over each other. Somehow, it still came across as almost melodic, a quiet counter to Quiss’s sharp edges.
+
+“Flame and feathers,” Seth argued and Quiss shot him a dirty look.
+
+“What about you?” Alpha asked Seth, hoping for a more logical and easy to follow answer.
+
+“Love! Passion! Putting bloodlines underwater!” the man beamed, only for Quiss to snap something about heart-broken queens, forlorn emotional princes, and something about a dragon and a lute.
+
+Alpha felt caught between a grumpy old man and his best friend having one of their endless, circular arguments.
+
+They didn’t so much talk as spar, their words barbed but practiced, like they’d been doing this for decades and neither had managed to win. Yet, neither of them wanted to stop because it was familiar, comforting, a close bond only they had.
+
+Still, as he watched them, something clicked. What a wizard said versus what they did didn’t always match.
+
+Quiss passed by and the air changed. Rowdy drunk men shrank in their seats, women turned with muttered curses and sharp rolls of their eyes, and anyone foolish enough to be plotting something decided it wasn’t worth the trouble.
+
+That aura said one word.
+
+No.
+
+Quiss was a wall, immovable and absolute, a presence that made people remember their manners even if they didn’t know why.
+
+Seth felt almost like a polar opposite, his attention washing over people like a sudden shock of cold water, leaving them stunned and scrambling to remember what they’d been saying a moment before.
+
+His thing was to be like rain on barren lands, wonderful and cool until you noticed it wasn’t stopping. And when people did notice, when they realized that charm wasn’t just a fleeting spark, it was already too late.
+
+By then, they were leaning in, smiling without meaning to, and utterly unprepared for the quiet storm that was Seth.
+
+It wasn’t anything as creepy as love magic or such, but Alpha could almost describe Seth like the moon, shifting tides without ever allowing himself to get close, a steady pull that bent the world in quiet ways.
+
+Alpha also wondered where all this introspection was coming from. He had never been good at this people thing, but now he was seeing how two very different men shaped the world around them, how their presence made people move like pieces on a board they didn’t realize they were standing on.
+
+Something Seth said came back to him…
+
+That magic was the wizard and the wizard was magic.
+
+Alpha was the Archmage, which supposedly let him understand magic in all its forms. And if that was true, if the line between magic and man really blurred that much, then maybe… maybe the loophole wasn’t a loophole at all.
+
+“Let’s find your thing,” Quiss said, stopping before a narrow street lined with the strange and the self-important.
+
+Card readers, bone readers, bird-feather readers, crystal ball viewers, cloud watchers, even a cramped corner stall where someone swirled coffee like it held the secrets of the universe.
+
+Alpha tried not to grimace at the sudden air of mystical importance, the heavy perfume of incense and ego mixing in the air.
+
+The people here moved slowly, deliberately, like they were all too busy sensing something grand to notice anything as mundane as footsteps passing them by. It made his skin itch, like the whole street had agreed to hold its breath until some unseen prophecy finally broke.
+
+“Gold and silver haunt you!” an old crone pointed at Alpha.
+
+“I’m poor,” he agreed, which made her blink in confusion, like he’d somehow missed the point of the curse entirely.
+
+“Ancient conflicts come from within and from outside!” another shouted, voice carrying like a prophecy meant for the ages.
+
+“I did rush breakfast, so I’m a bit upset in the stomach,” Alpha nodded, leaving the man stunned into silence.
+
+“One of four, the first and the most flawed,” a rattling old man chittered from his stool.
+
+“He can’t count, there’s only three of us,” Alpha pointed out, unbothered.
+
+Quiss, oddly, looked extremely happy about this whole thing, like the chaos was somehow proof Alpha was “getting it,” while Seth covered his mouth in abject horror.
+
+Around them, the street went quiet, as if even the mystics didn’t quite know how to recover from the affront.
+
+Still, Alpha was determined to find his thing.
+
+He would just need to shake a few things loose, like “destiny,” “curses,” and whatever else was lurking in the nearby teacups.
+
+“Orange is a lucky color!” a woman called out as he passed, her voice bright and oddly certain.
+
+Alpha paused, head tilting slightly then tipped her a few coins.
+
+Maybe they weren’t all hacks.

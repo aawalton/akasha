@@ -1,0 +1,429 @@
+---
+id: 9df808ee-5e55-55df-9656-735b209a3a0a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 96: Of Friends and Foes and Carnivores"
+slug: 0097-chapter-96-of-friends-and-foes-and-carnivores
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 97
+ownLength: 2227
+unit: words
+publishedAt: 2026-02-06
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3019858/chapter-96-of-friends-and-foes-and-carnivores"
+royalRoadId: "3019858"
+---
+
+PoV Guildmaster Ferric
+
+Luna did, in fact, bring them many friends.
+
+Ferric stood at the edge of the engagement zone with his arms folded, helm tucked under one arm, watching the controlled chaos unfold across the open plain. Dust hung in the air in soft, drifting curtains, kicked up by boots, monster hooves and the heavy impact of bodies meeting earth. Shouts carried clearly in the open space – carrying short commands, warnings, and even some laughter. All of it layered over the deeper sounds of combat.
+
+It was… good practice.
+
+Admittedly very good practice.
+
+The younger C-rank teams were getting exactly what they needed: pressure without panic, danger without disaster. They moved together more cleanly now than they had at the start of the march. More sure of themselves. And when they worked together with other teams…
+
+They quickly learned to overlap their shields. Call out their flanks. And after a few such smaller engagements people actually adjusted to one another’s pace instead of fighting it.
+
+Ferric had always believed that nothing replaced experience earned with your heart pounding and your breath short.
+
+Training yards were certainly useful. Controlled drills had their place as well.
+
+But this?
+
+This was where true habits formed.
+
+And doing it as a group – large, messy, and far from perfect – eased some of the worries that had been sitting in his chest since the words ‘Ant Surge’ had first been spoken.
+
+Still…
+
+Ferric squinted out across the plains.
+
+Fields stretched in every direction, grass flattened in wide arcs where the fight had rolled through. Low hills. Scattered stone. Nowhere near enough cover or elevation to explain–
+
+He stared at the approaching cloud of dust interspersed with little streaks of shadow.
+
+“…We are in the plains,” he muttered to himself.
+
+With fields all around.
+
+Really, little more than fields.
+
+So where in all the hells did that little Wildling get an Earthen Bear from?
+
+And it wasn’t a young one either.
+
+The creature was enormous – with rock and soil bound into a hulking shape that could shrug off blows with stubborn indifference. Earth-aligned, through and through. Slow, but relentless. Each attack it did left shallow craters in the ground, its mass grinding against itself with a sound of boulders shifting.
+
+Ferric took a slow breath.
+
+Be calm.
+
+It was all fine.
+
+This was still good practice.
+
+He shifted his attention to the teams engaging it now. They were handling it better than expected, cycling attackers, drawing its focus, learning quickly which strikes bounced uselessly and which actually bit.
+
+Spells that disrupted its focus enough to prevent it from casting any.
+
+Coordination was improving by the second.
+
+And then there was little Luna.
+
+She was… not engaging it, exactly. At least not in any conventional sense.
+
+Ferric watched as she Shadow Stepped onto the bear’s head without warning, landing lightly as if the thing weren’t made of compacted earth and malice. She suddenly barked with unprecedented delight right into the front of its face, causing the massive beast to flinch – and then vanished again in a blur of shadow before its massive arm could swat her.
+
+The bear roared, enraged.
+
+But Luna just reappeared at its flank.
+
+Barked again.
+
+And then was gone once more.
+
+Another Shadow Step – this time directly above its shoulders – followed by a full, enthusiastic–
+
+“Awoooo!”
+
+Right into its ear.
+
+Ferric winced.
+
+The Earthen Bear staggered, stunned from sheer sensory overload. Its movements grew erratic, swings wider and less controlled, attention snapping uselessly from one phantom threat to another.
+
+And the recently renamed Proper Human Team was having the time of their lives.
+
+Ferric glanced over to see them laughing and hollering as they worked, calling out openings, striking when the creature turned the wrong way. They moved with veteran confidence, feeding off Luna’s chaos and each other’s energy, turning what should have been a grueling fight into something almost joyous.
+
+Almost.
+
+Ferric shook his head slowly.
+
+He honestly thought the poor thing might die of a heart attack long before they actually bring it down.
+
+When it finally did fall – with its protective shell cracking apart into inert stone and soil – the cheer that went up was loud, genuine, and carried far across the plains.
+
+Ferric let out a breath he hadn’t realized he had been holding.
+
+Yes.
+
+It was all very good practice.
+
+Very effective.
+
+He watched Luna bounce back toward the group, tail wagging furiously, already scanning the horizon, probably wondering what else she might be able to ‘help’ with.
+
+Ferric adjusted his grip on his weapon.
+
+One thing was absolutely certain.
+
+He should never make Luna mad.
+
+***
+
+PoV Luna
+
+The Ants!
+
+They were huge!
+
+After helping the humans get some good hunting practice in, sipping on tingly tingly potions to restore her resources, and storing the meat they planned to leave behind–
+
+Rude! No wasting meat on Luna’s watch!
+
+–she happily zoomed ahead to scout some more.
+
+And now Luna crouched low in the tall grass at the edge of the field filled with standing stones, her fingers digging into the dirt as she stared. Her ears were fully upright, tail puffed just a little despite herself.
+
+Those weren’t the tiny, crunchy ones she had once mlem-nommed out of curiosity as a little pup – those had tasted like nothing at all, and left her tongue faintly tingly and disappointed.
+
+But the ones here?
+
+Those were big!
+
+Bigger than Luna.
+
+With wide bodies plated in dark, glossy shells. Long legs that moved too fast for insects that heavy. Mandibles clicking together in sharp, rhythmic patterns that made her ears twitch every time they snapped shut.
+
+Clicky-clicky.
+
+Clicky-clicky-clack.
+
+Wooo…
+
+Luna felt something tight in her chest.
+
+When will Luna grow up to be big and strong?!
+
+She straightened just a little, puffing herself up instinctively. Even tip-toeing a little, as if the Ants might somehow notice and be impressed.
+
+But that didn’t work, they didn’t even know she was there.
+
+Instead, they kept on with their clicky-clicking!
+
+Mocking clicking.
+
+That was it!
+
+The Ants would pay for this slight!
+
+Apex Predator Luna shall not be mocked!
+
+Her shoulders rolled forward, muscles coiling, fingers flexing into ‘claws’ as shadows stirred eagerly beneath her feet. She leaned into it, weight shifting, ready to spring up at a moment’s notice–
+
+And then–
+
+She remembered.
+
+Syl’s fingers caressing her fur.
+
+Her calm voice. And the firm ‘no’ to killing ants.
+
+Not yet, Luna.
+
+Her ears drooped.
+
+Woo…
+
+She rocked back on her heels, tail lashing once in frustrated denial.
+
+Waiting was the worst!
+
+Waiting when prey was right there was even worserer!
+
+Her teeth ached just thinking about it. Her hands twitched, just itching for some action.
+
+She glared at the meanie Ants instead.
+
+“You be good and stay here,” she whispered fiercely. “Luna will bite you later!”
+
+They did not stay in place.
+
+Just clicked louder and moved on to rip more stuff out of the ground.
+
+Rude!
+
+And they even smelled weird.
+
+Not bad-weird. Luna would still bite!
+
+Just… tingly.
+
+Her nose wrinkled as she sniffed again, deeper this time, pulling the scent apart with the practiced Apex Predator ease!
+
+They smelled of earth. And resin, and weird ‘clean’ something that made other smells disappear. Something sharp and acrid that prickled faintly behind her eyes, hidden behind the other smells.
+
+Her ears twitched.
+
+Oh!
+
+Her eyes brightened.
+
+That’s what Second was talking about!
+
+Her mouth watered.
+
+Drool gathered immediately, traitorous and unashamed, dripping down her chin as she stared.
+
+Tingly smell!
+
+And crunchy shells!
+
+But gloopy inside?
+
+Luna swallowed.
+
+Hard.
+
+She wanted to judge the taste of it all now!
+
+Luna shifted her weight again, barely restraining herself now, tail wagging in short, violent flicks as anticipation bubbled hotter and hotter in her chest.
+
+Woo…
+
+When will the humans arrive?
+
+…The wait really was the worst!
+
+Still, Luna did her job!
+
+Which was very hard.
+
+Because the Ants were right there.
+
+Big walking snacks just waiting to happen!
+
+But no, Luna had to be a sensible wolf!
+
+Pack promises were important!
+
+And if Apex Predators were good at something, it was waiting for prey!
+
+…Even if it felt wrong, as the prey was already there.
+
+So it was perhaps little surprise how fast Luna reacted when the smells of humans approaching finally reached her!
+
+The shadowy streak was barely even noticeable as she zipped along the wide clearing at the edge of the forest, weaving through tall grass and shallow dips in the land, nose low, ears high, shadows stretching and folding around her feet as she moved. The perimeter felt big and open and smelled of promised hunts.
+
+Oh, the humans! And her pack!
+
+***
+
+After a lot of talking, and explaining where the Ants were hiding at to Ferric and Second – and a little confusion what ‘a far sniff away’ was for distance – Luna got some thank you jerky!
+
+Nom!
+
+Spicy and chewy, proper thanks!
+
+And now, behind her the humans were doing the serious things at last.
+
+Finally!
+
+Guildmaster Ferric’s voice carried clearly across the field, sharp and confident, cutting through the wind and the distant clicking of the ants. People moved when he spoke. Lines were marked. Stakes were driven into the ground. Thin cords were stretched and re-stretched, then adjusted again and again.
+
+Traps were set with careful precision, metal jaws hidden under dirt and grass, strange little devices planted and then very deliberately not touched again.
+
+They called it a killzone.
+
+Luna didn’t like that word much.But she liked zone! Zones were nice.
+
+And meant running!
+
+Lots of running!
+
+Chew–
+
+Oh, jerky gone? Luna needed more treasure!
+
+Open Maw!
+
+Bread dunked in soup in one hand, Granidrake roast with sauce from Mister Cook in another, Luna was in heaven!
+
+Nom!
+
+Mhm! That’s the stuff!
+
+She watched as her pack gathered closer to Ferric for a moment. Their voices overlapped in quiet discussion. Luna hovered near them, half-listening at best, too focused on her meal to care.
+
+And the Ants.
+
+Her eyes never left the ants.
+
+Not really. She watched how the distant dots moved. How they spread. How they paused, antennae twitching, tasting the air.
+
+She could taste it too.
+
+…Between the bites.
+
+Ferric’s gaze drifted her way more than once too.
+
+He noticed how Luna held herself – weight forward, knees bent, body taut as a pulled string. Every instinct screamed go, yet she stayed where she was told. Shadows rippled faintly at her heels, restless but contained.
+
+It was cute how she distracted herself with a meal–
+
+–Yet screamed of danger and power ready to lash out at a moment’s notice.
+
+That restraint impressed him more than the speed ever had.
+
+Eventually, their talking shifted, just as Luna gulped down the last of her meal.
+
+Ray stepped back from the cluster, adjusting a small bag at his belt. It made a familiar sound when it moved.
+
+Clink. Clink.
+
+Luna’s ears swiveled instantly.
+
+Her head turned, and eyes narrowed.
+
+Shinies!
+
+She was at his side in a heartbeat, appearing with a soft whoof of displaced air, crouched low and peering at the bag with curious focus.
+
+“Oh, Luna. There you are!” Ray said, startled but smiling. “I was just about to get you.”
+
+“Ray Ray!” Luna said brightly. “Luna has a question!”
+
+Ray sighed.
+
+“Ray Ray? Ugh. Alright. What do you want to know?”
+
+Luna rocked on her heels, tail wagging as she gestured vaguely at the bag.
+
+“Luna has been watching! For a while!” she said. “And Ray Ray is the only human who cares about the shinies so much. Why?”
+
+Ray blinked.
+
+“…Oh,” he said carefully. “And why do you want to know that?”
+
+Her tail wagged harder.
+
+“’Coz it’s weird!” Luna said cheerfully. “But it’s okay weird. Ray is pack. Luna support!”
+
+Trianna lost it.
+
+She bent over laughing, one hand braced on her knee, tears already forming as Ray’s face went through several emotional stages in rapid succession – shock, offense, resignation, and finally, deep, weary acceptance.
+
+“…There is a good reason for it,” Ray said stiffly. “I assure you.”
+
+Luna leaned in.
+
+“Is it shiny reason?”
+
+“No.”
+
+“Food reason?”
+
+“…Also no. Well, maybe.”
+
+Before she could ask again, Syliana stepped in smoothly, hand settling on Luna’s shoulder.
+
+“Luna,” she said. “We’re ready.”
+
+Luna snapped upright instantly.
+
+“And we want you to start them moving,” Ray added quickly. “Carefully. Pull the Ants toward the killzone. Don’t overcommit. Only attack to get their attention, and then come to us, okay?”
+
+Luna nodded vigorously.
+
+Got it!
+
+She repeated it under her breath, sorting it in the way that made the most sense.
+
+“Bite once,” she whispered.“Run twice!”
+
+Hehehe.
+
+That sounded very fun!
+
+“Okay! Luna goes now!”
+
+She took two quick steps back, crouched–
+
+–and only a blur of dispersing shadow could be seen next.
+
+As Luna streaked off toward the ants, Trianna straightened, wiping at her eyes.
+
+“…You sure you don’t wanna tell her?” she asked Ray.
+
+“Not yet,” Ray said, watching the blur disappear into the grass. “And if the past few weeks taught me anything–”
+
+He sighed.
+
+“–it’s that Luna learns things best in practice.”
+
+Trianna grinned.
+
+“Ha! You’re so shy.”
+
+Veric rumbled thoughtfully beside them.
+
+“Hrm,” he said. “But not wrong.”
+
+Far ahead, the clicking grew louder.
+
+And then very outraged.
+
+Luna was having fun!

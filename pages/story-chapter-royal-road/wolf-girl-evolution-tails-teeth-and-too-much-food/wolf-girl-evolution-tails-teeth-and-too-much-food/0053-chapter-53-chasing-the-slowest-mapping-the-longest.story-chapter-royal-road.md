@@ -1,0 +1,321 @@
+---
+id: b20dbdeb-b566-5c85-a6f9-fb5dd9b9fe60
+page-type-slug: story-chapter-royal-road
+title: "Chapter 53: Chasing the Slowest, Mapping the Longest"
+slug: 0053-chapter-53-chasing-the-slowest-mapping-the-longest
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 53
+ownLength: 1816
+unit: words
+publishedAt: 2025-10-16
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2681723/chapter-53-chasing-the-slowest-mapping-the-longest"
+royalRoadId: "2681723"
+---
+
+PoV Adventurers
+
+“…And there she goes again.”
+
+Ray’s voice carried through the morning, half impressed, half doomed. Ahead of them, a silver streak darted between trunks and sunlight, too fast to be sensible, too excited to even consider slowing down.
+
+Sepio exhaled through his nose.
+
+“Half the time I think we’ve finally taught her restraint, she decides restraint is optional.”
+
+Trianna snorted, tugging the strap on her bow until it snapped tight.
+
+“She’s a Wildling, Sepio. Restraint just isn’t in the vocabulary.”
+
+For some reason, Syl looked almost pleased at that. Her gaze followed the blur bounding ahead through the trees, smile tugging faintly at her lips.
+
+“Wildlings truly live up to their names,” she said softly. “Even one as young as Luna.”
+
+Veric adjusted his armor, the metal creaking faintly against the leather as he spoke.
+
+“Young she might be. But the way she moves, that’s certainly no luck.”
+
+Trianna’s smirk tilted sharp.
+
+“Food-driven genius.”
+
+“Same thing,” Ray muttered.
+
+Syl’s laugh broke through the trees, quiet but sure.
+
+“Obsession often makes greatness,” she said. “Did you ever read about the winged Wildling Kaessha? The Skywyrm who raised mountains into the air in a ‘flight of fancy’?”
+
+Sepio frowned, thinking.
+
+“The legend where he built floating fortresses? That was discipline, not fancy.”
+
+Syl tapped her staff against the ground.
+
+“The records say discipline,” she admitted. “But I suspect it was hunger disguised as ambition.”
+
+Her eyes flicked toward the forest where a faint bark echoed through the wind, thinking about their experiences with a certain wolf girl.
+
+“He probably just wanted a training ground closer to the sky.”
+
+Ray chuckled.
+
+“That actually sounds more believable.”
+
+Trianna’s grin spread.
+
+“She would do it too. If Luna decided she wanted to have a bite at clouds, she would be halfway up there before you finished saying no.”
+
+Syl’s expression softened, though her tone carried the faintest weight of worry.
+
+“Yes. The only things that drive her, she’ll chase until the world yields. Food. Spice. Curiosity.”
+
+Her staff tapped once more, rhythm to her thought. “She would bite through reality itself if that’s what it takes.”
+
+The group fell quiet, boots crunching into damp moss and leaf. Morning mist lingered around the trunks, fading where the light touched it. The air still smelled faintly of smoke from last night’s campfire, carried on the cool wind.
+
+Far ahead, ruins briefly broke through the fog. Though only a single broken spire leaned over the visible treeline, gray-white stone catching the pale gold of the rising sun.
+
+Ray adjusted his pack and looked up at them.
+
+“Do you think Luna would actually come back to civilization with us?”
+
+Trianna tilted her head, curious. Veric stayed silent, though his brow arched. Even Sepio slowed his stride.
+
+Syl walked for a long time before answering.
+
+“...Probably,” she said finally. “If we let it slip that civilization learned to cook quite a bit better than we could even manage in the forest.”
+
+Laughter rippled through the party. Trianna threw her head back. Ray just shook his head with a smile. And Sepio cracked a short, unwilling smile.
+
+“Until then,” Syl said, glancing in the direction of the silver streak that had vanished ahead, “we’ll let her run as she pleases.”
+
+Slow and steady they went, because that was how veterans survived. And ahead of them, one impatient wolf-girl tore through the morning, every pawstep a promise of chaos, curiosity, and teeth.
+
+***
+
+PoV Luna:
+
+Luna reached the edge of the ruins first – again.
+
+The air was thick with old smells. The side they explored before, it still felt half-corrupted. But the smells were already clearing up.
+
+She padded down the cracked road until it split between the blackened ruin and the quieter, boring one that didn’t even stink right.
+
+…And found no pack in sight.
+
+Her ears twitched. Tail flicked once. Then twice.
+
+Wait, what?
+
+Where in the howl were they?!
+
+So much time passed!
+
+Luna even had the time to run! Find ugly! Bite ugly! Explore! Run back!
+
+And now she even had time to be bored and wait!
+
+Slow! So slow!
+
+She sniffed the air. Nothing but old trees, corruption getting faint, and her own pawprints. She trotted in a small circle. Then another. Then a third, bigger one. Still no dum-dums.
+
+“Dum-dums…” she muttered, flopping onto her side. The sun poured through the broken archways, warming her fur in a slow, heavy blanket.
+
+Waiting was suffering!
+
+She huffed. Rolled over. Batted at her tail. The tail batted back. They wrestled for a bit before the tail won through boredom.
+
+The forest hummed quietly around her. Somewhere far off, a bird screeched. The air was heavy with dust, and it made Luna wish for more soup!
+
+And then finally – finally! – boots thudded and voices carried through the trees.
+
+Luna shot upright, tail wagging in sharp, impatient swipes.
+
+“Late!” she barked, trotting tight circles as the group emerged. “So late!”
+
+Syl raised both hands in a peace gesture.
+
+“We were careful.”
+
+“Slow!”
+
+“Careful,” Syl corrected, the calm tone of someone who had already lost this argument three times.
+
+Luna squinted at her, sniffed once for guilt, found none, and huffed loudly enough to make her point. But fine. She forgave them. Mostly.
+
+Until they started unpacking and checking everything.
+
+Again!
+
+Ropes, maps, chalk, talk, talk, talk. They checked on their potions. Counted supplies. Adjusted straps. Discussed “distribution efficiency” like it was soup seasoning.
+
+Luna’s jaw dropped.
+
+“Still preparing?!”
+
+Syl ignored her. Sepio muttered something about “discipline,” which only made it worse.
+
+Fine.
+
+If dum-dums wanted to waste daylight, she would help properly.
+
+She pounced on a bare patch of dirt, claws carving lines with quick, proud strikes. When the others finally noticed, she was crouched over it, tail wagging hard.
+
+“Look!” she barked.
+
+The adventurers leaned closer.
+
+Small circle – corrupt ruins. She smudged it with her paw for extra detail. Long line – the overgrown road between. Big nearly-circle – new ruins ahead! It would have been full circle, but Luna wasn’t yet sure – did not run that far yet!
+
+She jabbed one claw at a point near the middle.
+
+“Here! Us!”
+
+Then another, farther off.
+
+“Here! Bite place!”
+
+Trianna clapped a hand over her mouth, shoulders shaking. Ray muttered something about “wolf cartography.” Sepio tried very hard to look serious.
+
+Syl, though, smiled faintly.
+
+“You explored this far alone?”
+
+Luna puffed her chest.
+
+“Luna scout! Luna smart!”
+
+Veric chuckled, the sound low and warm.
+
+“So fearless.”
+
+They laughed. They argued. They thanked her.
+
+Then… they kept preparing anyway.
+
+Luna slumped so hard the dirt puffed under her. Her groan rolled through the ruins, bouncing off old walls and shaking loose a few lazy pebbles.
+
+“Whyyy…”
+
+Trianna chuckled. Ray ignored her. Syl sighed.
+
+Then Syl reached into her pack and pulled out salvation. Her jerky!
+
+Luna’s ears perked instantly. Her tail thumped.
+
+“Peace offering?”
+
+“Bribe,” Syl said dryly.
+
+“Peace offering accepted!”
+
+She snatched the strip from Syl’s hand and tore into it. Chew. Gnaw. Crunch. The salt hit her tongue and she melted inside.
+
+“Gib – uh, give more jerky now.”
+
+Syl pinched the bridge of her nose, then gave in with quiet dignity and handed another piece over.
+
+“You’re incorrigible.”
+
+“Luna great-word, yes.”
+
+Syliana didn’t even try correcting that one. Although she only half-understood what Luna was saying in her wolf form, the tells of her getting sloppy were all there.
+
+…She would find a way to correct those later.
+
+And finally, after enough talk to wilt a tree, the pack announced readiness. Sepio adjusted his armor. Trianna checked her bowstring again. Veric made some serious grunt that sounded approving.
+
+And Syl – of course – gave Luna another warning!
+
+“No biting ancient relics. No eating the architecture. No chewing the glowing things, or the non-glowing things that might glow later. And certainly no biting the shinies, crunchies, or other ‘chewable’ things!”
+
+Her Second finally using language Luna understood – but still didn’t approve the message of – set Luna’s tail wagging. And Sepio chuckling.
+
+But when Syl didn’t stop glaring, Luna wisely chose to nod solemnly, tail tucked politely.
+
+“Yes, yes. Luna very civilized wolf.”
+
+Syl stared at her for a moment longer, then patted her head and gave her another piece of jerky.
+
+Second was the bestest!
+
+And then they entered the ruins proper.
+
+Not like Luna, who just ran along them as she pleased.
+
+Proper proper entry roads!
+
+Even the smells changed.
+
+The world shifted to cool shade and stone dust with a hint of nature reclaiming the rocks in places. Great open-air halls rose before them, eaten by moss and silence. Sunlight spilled in broken spears through collapsed ceilings, dust motes swirling in the beams.
+
+The air smelled faintly of metal, wet rock, and time too old to count.
+
+Continuing on, slow, steady, boring.
+
+But with Syl supplying Luna more jerky, it wasn’t too boring!
+
+Their footsteps echoed soft across the cracked floor. Syl’s voice followed – half whisper, half lecture.
+
+“Velssarin masonry. Pre-cataclysmic. You can still see the rune channels carved into the columns.”
+
+Luna blinked at her.
+
+“Bite channels?”
+
+“Rune,” Syl corrected automatically.
+
+“Rune bite good?”
+
+“No bites,” Syl sighed again.
+
+Ray chuckled behind them.
+
+“She’s going to bite something anyway.”
+
+Luna grinned over her shoulder.
+
+“Maybe.”
+
+The group fanned out, poking at old stone tables and a few weird-looking tools left scattered among the fallen blocks. Trianna was scribbling notes about “where they might find ones in actually good shape,” which sounded boring enough to make Luna’s tail wilt.
+
+Then the faintest scrape reached her ears.
+
+Stone on stone. Small. Skittish.
+
+Her head snapped toward the sound. Nose twitching, she crouched low. The others barely noticed.
+
+Between two broken pillars, a tiny creature shuffled into view – a moving rock-thing no bigger than her knee, made of pebbles and old mud, two blue glows for eyes.
+
+Luna tilted her head.
+
+“What’s that? Snack?”
+
+“No!” Syl’s voice came sharp and fast. “Not snack. It’s harmless. Leave it.”
+
+Luna blinked. Sniffed again. The thing stared back, unmoving. It smelled of dust and mana and no spice at all.
+
+She sighed.
+
+“Boring snack.”
+
+The pebble golem made a faint clink noise and waddled away.
+
+They moved on. Slowly. Painfully slowly. The kind of slow that made Luna want to bite the floor for entertainment.
+
+The ruins stretched wider, but still no monsters. No interesting smells. No good crunch.
+
+Her tail twitched. Her ears flicked. A low whine built in her chest.
+
+Then she finally stood tall, paws tapping with restless energy. “Luna go scout again.”
+
+Syl only sighed at that, following up with:
+
+“Don’t go far.”
+
+“Far? No. Fast? Yes.”
+
+And before another dum-dum could open their mouth to object, she was gone – silver flash, laughter echoing between stone and sunlight.
+
+The ruins could stay slow.
+
+Luna would find the bite waiting ahead!

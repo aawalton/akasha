@@ -1,0 +1,271 @@
+---
+id: bb5af711-d753-55bf-b91d-3962528c52b9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 110: Anchor Pads"
+slug: 0110-chapter-110-anchor-pads
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 110
+ownLength: 2461
+unit: words
+publishedAt: 2026-08-17
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3826725/chapter-110-anchor-pads"
+royalRoadId: "3826725"
+---
+
+Tiny retcon for those who read chapters 108 and 109 last week.
+
+I changed Maren's name to Sigrid. Maren was a character's name I used in Qalathar and it isn't supposed to be the same character.
+
+Some people were interpreting them as the same one, so this change was made to avoid that.
+
+The ruby liquid slid into the vat.
+
+I watched from above with my fingers locked around the steel railing.
+
+God.
+
+The red liquid entering the infusion system was not Snow Dream. It was Snow Dream the way a bonfire was a candle. The mana density packed into that small ceramic vessel exceeded anything I had felt outside a living body. The concentration was so extreme that the compound's structure had reorganized around the excess energy, and what poured from the vessel into the vat was less a liquid and more a suspension of raw power held together by alchemical bonds that were already straining under their own weight.
+
+The blue solution in the vat turned red. The red spread. And the mana signature of the entire infusion system spiked so hard that my perception rang like a struck bell.
+
+I want it.
+
+The thought unleashed.
+
+The density was high enough to force the channel wide. High enough to drown Gluttony for minutes instead of seconds. High enough to let me cast like a Second Circle mage, maybe higher—
+
+I flinched.
+
+The notification pulsed once in the corner of my vision and faded. The pocket watch vibrated against my thigh. A single tremor.
+
+No.
+
+I closed my eyes. Forced the hunger down.
+
+Three sins is enough. I don't need a fourth.
+
+I opened my eyes.
+
+Below me, the pump cycled. The red entered the cable. The cable delivered its cargo to the injection site on the wolf's forelimb.
+
+The creature's eye opened.
+
+The anchor pads exploded.
+
+The concussion hit like a fist. The steel walkway bucked under me, the bolts in the brackets shrieking as the concrete they were anchored to fractured in eight simultaneous bursts. Dust and stone fragments erupted from the chamber floor in a gray cloud.
+
+I was already moving.
+
+"Back!" I shouted. The word tore out of my throat before the last anchor pad had finished disintegrating. I swept my arm toward Tarek, Breit, Ganz, and Dorn on the walkway behind me. "Back to the stairs! Now!"
+
+They didn't need to be told twice.
+
+The building shuddered. The wolf was standing, and the act of standing was an earthquake. The creature's mass shifted from prone to upright in a motion that should have been slow but wasn't. The red compound had burned through the narcotic fog like acid through gauze, and what stood in the chamber below was not sedated.
+
+It was awake.
+
+The chains that had held it lay in shattered loops across the chamber floor, their links twisted and split where the anchor points had given way. The suppression staves the soldiers held were still active, their crystals projecting dampening fields into the creature's skull, but the effect was that of throwing pebbles at a river. The force passed over the wolf's consciousness and vanished.
+
+Ganz grabbed the railing as the floor pitched. Breit braced against the wall, one hand locking around a conduit pipe, the other holding her bow clear. Tarek dropped to a crouch with his weight centered, riding the vibration like a man standing in a boat on rough water.
+
+Dorn lost his footing. He went down hard, his armor scraping across the steel grating, and slid three meters toward the edge before Tarek's hand closed around his wrist and hauled him back.
+
+Below us, the chamber erupted.
+
+The first soldier died before anyone understood what was happening.
+
+The wolf's leftmost tail whipped across the chamber floor at a speed that didn't fit something of that size. The tail caught the nearest soldier across the midsection and folded him in half.
+
+His suppression stave clattered to the ground. The crystal array shattered on impact, sending a spray of blue shards across the concrete.
+
+The second tail took three more. A lateral sweep that covered eight meters of floor space, catching two soldiers at the chest and a third at the knees. The ones hit at the chest went airborne. One struck the chamber wall with enough force to leave a crater in the concrete. He didn't slide down. He stayed embedded, his limbs at angles that joints usually didn't permit.
+
+The third soldier, the one hit at the knees, screamed. The sound was high and thin and cut through the dust and the chaos. His legs were gone below the mid-thigh. The stumps sprayed in arcs across the pale concrete.
+
+Sigrid's voice rose above the noise.
+
+"Suppression! Hold the line! All staves, full—"
+
+The wolf's skull swung toward the sound.
+
+One bloodshot amber eye found her.
+
+Sigrid raised both hands. The air around her palms compressed, shimmered, became a lens of focused wind that she released in a single directed burst.
+
+The spell hit the wolf's flank.
+
+It cut.
+
+A wound opened along the creature's ribcage, parting the dark fur and the skin beneath in a line that wept dark blood. The blood was not red. It was nearly black, thick as sap, and it steamed where it hit the chamber floor.
+
+She's strong, I thought, gripping the railing. Fourth Circle and she's cutting a Titan's hide.
+
+But the wound was shallow. A surface laceration on a body the size of a building. The wolf didn't flinch. It didn't register the injury at all. Its attention was fixed on the source of the impact, on the small figure in the Imperial uniform who stood between it and the doorway.
+
+The roar came again.
+
+This time it was directed. Focused. A column of vibration that hit Sigrid like a battering ram and sent her skidding backward across the concrete.
+
+She held. Wind wrapped her body in a cocoon of compressed air that absorbed the worst of the pressure, and when the roar ended, she was still standing.
+
+"Retreat to the corridor!" Hayyan's voice, somewhere in the dust. "All of you! The compound is destabilizing — the metabolic rate—"
+
+Nobody was listening.
+
+The wolf lunged.
+
+The movement was impossibly fast for something that large. The forelimb came down where Sigrid had been standing an instant before, and the concrete cratered under the impact. Sigrid was already gone, riding a current of self-generated wind that carried her laterally across the chamber, her body tilting at an angle that defied gravity.
+
+She cast on the move. Short, vicious slashes of compressed air that struck the wolf's face, its neck, the exposed muscle of its shoulder. Each one drew blood. Each one left a wound that hissed and steamed.
+
+But it's not enough, I realized. She's a Fourth Circle wind mage fighting a Titan. She can wound it. She can't stop it.
+
+The wolf's second tail swept the floor.
+
+Five soldiers went down. Two were dead before they hit the ground, their bodies broken by the impact. Three survived, rolling, scrambling, dragging themselves toward the chamber walls.
+
+One of the suppression stave operators held his position. His crystal array blazed as he poured everything he had into the dampening field, his arms shaking, sweat cutting channels through the dust on his face.
+
+The wolf's third tail found him.
+
+The tail didn't sweep. It stabbed. The tip drove downward like a spear, punching through the soldier's chest, through the concrete beneath him, and into the bedrock below. The impact sent a shockwave through the chamber floor that cracked the remaining concrete slabs in radial lines extending to every wall.
+
+I grabbed the railing with both hands. Behind me, metal groaned. A section of walkway three meters to my left separated from its bracket and dropped.
+
+"We need to get off this level!" Dorn shouted. His face was white. His hands were locked around the conduit pipe Breit had used.
+
+He was right. It wouldn't hold much longer. Every impact from below was loosening the bolts, cracking the concrete anchors, pulling the walkway apart section by section. Another minute and the whole structure would come down on top of the Titan and everyone beneath it.
+
+But I didn't move.
+
+Because Sigrid was reaching into her coat.
+
+The ampoule was small. The liquid inside caught my attention.
+
+Red.
+
+The same deep, saturated ruby as the compound she'd poured into the infusion vat. Except this wasn't destined for a Titan's veins.
+
+No, I thought. She wouldn't—
+
+She did.
+
+Sigrid bit the glass stopper off. Spat it. Tilted the ampoule and drank the contents in a single swallow.
+
+Her core structure shifted.
+
+There was no other word. The architecture of a trained Fourth Circle mage blew apart and reformed in a configuration I had never seen. The inner walls between her Third and Fourth Circles dissolved. The energy that had been compartmentalized into graduated rings collapsed inward, compressed, and erupted outward through her channels in a flood of raw mana that lit her from inside like a lantern wrapped in skin.
+
+Red veins surfaced.
+
+They spread from her throat, down her arms, across the backs of her hands, climbing her jaw and forking across her temples. The veins pulsed with her heartbeat. Each pulse brighter than the last.
+
+Her power climbed.
+
+Fourth Circle.
+
+Past it.
+
+Fifth.
+
+The jump wasn't gradual. It was a cliff face scaled in a single leap, the kind of advancement that took years of work and catalytic breakthroughs and the accumulated weight of lived experience, collapsed into three seconds of pharmaceutical violence.
+
+And it kept climbing.
+
+The edge of the Sixth Circle flickered at the boundary of her output. The structure couldn't hold. She was a Fourth Circle mage riding a wave of artificial power that had carried her past the Fifth and was beating against the Sixth like waves against a cliff, and the cliff was not giving way.
+
+God, I thought.
+
+Sigrid raised her hands.
+
+The wind answered.
+
+What had been focused gusts and precise cutting arcs became something else. The air inside the chamber reorganized. I felt it before I saw it, the first blade storm hit the wolf.
+
+The wind tore across the wolf's flank in a horizontal wall of compressed air so dense that the leading edge was visible. Where it passed, the wolf's fur shredded. The skin beneath parted in parallel lines, dozens of cuts landing simultaneously, each one deeper than anything her Fourth Circle casting had achieved.
+
+The wolf screamed.
+
+The sound was different from the roar. The roar had been power. This was pain.
+
+Sigrid pressed.
+
+She kept moving. Flying. The wind wrapped her body and lifted her from the floor, and she accelerated along the chamber's perimeter in a spiral that kept the wolf turning, kept it reacting, kept its massive skull swinging to track a target that refused to hold still.
+
+Each pass brought another storm. The cuts deepened. The wounds multiplied. The wolf's shoulder, its haunch, the thick muscle of its neck, all opened under the sustained assault.
+
+She's hurting it, I thought. My grip on the railing had gone white. She's actually hurting it.
+
+Yet the wolf was learning.
+
+The first tail swept and missed. Sigrid rode the wind above it, the compressed air carrying her over the dark mass of fur and muscle with centimeters to spare.
+
+The second tail adjusted. The arc was tighter, faster, and Sigrid had to break her spiral to avoid it, dropping altitude and skidding along the chamber floor in a controlled slide that left furrows in the concrete.
+
+The third tail didn't sweep.
+
+It waited.
+
+The wolf had three tails and a brain that was older than civilization and had survived drugged captivity by learning patience.
+
+The third tail curled behind the creature's haunches, out of Sigrid's sightline, out of the arc of her spiral, positioned at the precise point where her next evasive drop would carry her.
+
+She didn't see it.
+
+The blade storm carved another wound across the wolf's face. Sigrid banked left, riding the recoil of her own casting, her body tilting on the wind current as she circled for the next pass.
+
+The third tail uncoiled.
+
+It caught her across the back.
+
+It was a whip crack. The tail's tip struck the space between her shoulder blades with the concentrated force of its full mass channeled through a contact point no wider than a fist.
+
+Sigrid's wind cocoon shattered.
+
+She hit the far wall.
+
+The concrete caved inward around her body. Dust erupted from the contact point in a gray cloud that swallowed her entirely.
+
+For one heartbeat, she hung in the wall's embrace. Suspended by the compression of stone around her limbs.
+
+Then the stone released her, and she fell.
+
+She landed on her side. The red veins across her skin were still pulsing, still bright, the compound still burning through her system.
+
+She tried to stand.
+
+Her legs folded. She got one hand under her. Pushed. Made it to one knee.
+
+The wolf turned.
+
+It crossed the chamber in two strides.
+
+The jaws opened.
+
+Sigrid looked up. The red light in her veins illuminated her face from below, and in that final instant her expression wasn't fear. It was fury. The incandescent, uncomprehending rage of a woman who had been certain that she was right, and who could not understand why the universe had disagreed.
+
+The jaws closed.
+
+The chamber went still.
+
+The wolf stood over what remained, its bloodshot eyes scanning the space, its three tails swaying behind it in slow pendulum arcs. The ruby veins across its skull pulsed in time with its breathing. The wounds Sigrid had carved still bled, black sap running in thick lines down its flank and pooling on the concrete.
+
+Below me, the surviving soldiers had pressed themselves against the chamber walls. Their faces were gray. Their weapons hung at their sides. The suppression staves lay on the ground where they'd been dropped, their crystal arrays dark.
+
+Hayyan crouched in the corner nearest the doorway. His hands were over his head. His shoulders were shaking.
+
+I counted the living.
+
+Twelve soldiers had started in the chamber. Five were still upright. Four were dead. Sigrid was dead.
+
+And the wolf was between them and the only exit.
+
+The wolf's skull turned. One bloodshot eye swept the chamber in a slow arc, cataloguing the small things that had tormented it, assessing which one to consume next.
+
+Its gaze passed over the soldiers against the wall. Over Hayyan in his corner.
+
+I looked down at the wolf. I looked at my soldiers who were holding on for dear life.
+
+I looked at the pistol on my hip.
+
+Well, I thought. No better time for a field test.

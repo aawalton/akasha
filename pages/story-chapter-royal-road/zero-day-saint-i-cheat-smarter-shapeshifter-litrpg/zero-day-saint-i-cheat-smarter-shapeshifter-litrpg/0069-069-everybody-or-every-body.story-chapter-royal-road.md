@@ -1,0 +1,201 @@
+---
+id: fc34e86e-69d7-5dd2-8da1-69063af8803d
+page-type-slug: story-chapter-royal-road
+title: "069 - Everybody or Every Body"
+slug: 0069-069-everybody-or-every-body
+partOf: zero-day-saint-i-cheat-smarter-shapeshifter-litrpg
+position: 69
+ownLength: 2157
+unit: words
+publishedAt: 2026-08-12
+link: "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3802900/069-everybody-or-every-body"
+royalRoadId: "3802900"
+---
+
+I landed on a railing in front of Claire. Before I could even ask what was happening, a message appeared in local chat.
+
+["Bronx Zoo expanded its area of influence overnight. Jungle covers at least a two-mile radius around it now. At least two Blessed—Druid and Ranger—are under assault in a sanctified space. Attackers are wrath-touched chimeras, creations of the warlord there. Two more who should also live there are MIA. I'm preparing a relay network to guide you again."]
+
+"Okay, I'll go. How far is it from here? Will a minute matter?"
+
+["They live on the far end of the zoo, so roughly 13 miles. I can't tell if it will. Their classes make them well-suited for this new environment, but they are being pressured. I couldn't establish direct contact. The creatures have killed every body I tried to send in."]
+
+I canceled out of my shape and began devouring the burrito, washing it down with the Blessed Cup. I'd been burning ATP all morning already, and I might need every point I could get.
+
+With my mouth full, I switched to using Queen's voice. "Everybody or every body?"
+
+["My own bodies. So far I don't know of any casualties but myself."]
+
+I could hear the motor of the houseboat rumble to life. "Keep the others updated. I might not be able to get those people out of there on my own."
+
+["That was the plan. I am also trying to establish contact with Anthony, without Roslyn killing me. He should be able to find a shortcut to get there faster."]
+
+"Put a low-weight body on the last step there. I'll carry you in with me so you can keep me updated."
+
+There was a brief hesitation. ["Will do."]
+
+"Do those chimeras have magical abilities or just weird bodies?"
+
+["Unsure. I haven't observed anything overtly magical."]
+
+I took a running start before I shifted into the Might of the Meek version of the Red-Tailed Hawk.
+
+"See you there."
+
+There was one more message before I got out of range. ["I have left the tower. Sorry. I hadn't anticipated you staying in a profane space overnight."]
+
+Claire apologizing might be the most baffling thing that happened today. But the day had also only just begun.
+
+In flight, I looked over my daily shapes again. Besides the Garmr-touched Golden Retriever, there was a Gullveig-touched House Cat and a Nidhogg-touched Galapagos Tortoise.
+
+I had a decent idea who Nidhogg was, the dragon gnawing at the roots of Yggdrasil, but Gullveig had me stumped.
+
+["Any of you two got any idea who 'Gullveig' is?"] I asked my Guides.
+
+"Hah," said Lucy.
+
+"A minor Vanir goddess, a witch who played a role in causing the war between the Aesir and the Vanir."
+
+"Say, kitten: Just how many fiery near-death experiences did you go through in your cat shape already?"
+
+["Uh. Did Gullveig go through fiery near-death experiences?"] The events of that first night were a hazy memory of one catastrophe chasing the next. But my cat shape had gone through rough experiences with fire that night. ["It's two. Nearly got struck by a fireball from the skies and then caught in my own explosions."]
+
+"The deal with Gullveig was," Lucy went on, "that she got stabbed and burned three times by the Aesir. She survived each time but emerged changed after the third, henceforth known as Heith, a seeress."
+
+["So, I can expect fire-related powers? Resistance to fire?"]
+
+"Beats me," Lucy said. "Gabby, any idea?"
+
+"Presumably something fire-related. But I wouldn't bet on resistance, but possibly a reward for being harmed by fire."
+
+["This would be a lot easier if those shapes just told me what they did."]
+
+"You have good options available, Eve. Avoid the tortoise against agile foes, but it might be good against something large and slow."
+
+["Got it. And if there is fire, the cat might be worth a shot."]
+
+"Just keep your objective in mind. This is a warlord's territory, and you are going in very ill-prepared."
+
+["Aye, captain. I'll focus on extracting the Blessed. We will need to deal with this before all of New York becomes a wrathy jungle, but that's for later."]
+
+"Very good," Gabriel said. I screeched.
+
+"Pah. Let's see how well-behaved you'll be when those opportunities jump at you," Lucy said.
+
+Claire stayed true to her word and provided a relay of her bodies, guiding me.
+
+Not that the fresh green hell, which had conquered a considerable part of the northern section of the city, was hard to miss. Buildings of all sizes had been completely covered by vines and trees. And in the middle of it all, the red outline of a widespread profane space—the Bronx Zoo, home to the Warlord of Wrath.
+
+At the edge of the warlord's territory, a red fox plushie awaited me on a rooftop. I didn't land. I just slowed down enough so I wouldn't rip her to shreds and picked the plushie up as I whizzed by.
+
+The jungle was buzzing with life, and I saw birds and insects poking over the treetops, but nothing that looked very threatening.
+
+"How dangerous are the skies?" I asked, using Queen's Voice.
+
+["Unclear. I haven't spotted anything larger than this shape."]
+
+"Good enough. I'll fly over the jungle, but around the zoo itself. Tell me where we go."
+
+Even through the thick canopy, I could catch an occasional glimpse of the carnage underneath. Blood splatters, remains of animals that had been torn to pieces, screams, and growls. Like with the Mammon-touched kobolds, the Blessing was spawning Created, even though they were immediately usurped by Hell.
+
+A question for another time. Guided by Claire, I found my objective. The blue outline of a sanctified space, a single three-story building with an attached garage. Its facade was overgrown by plants, though those gave off a distinctly different vibe than the jungle had—more intentional, less feral, but similarly ominous. The latter because in those vines I could see corpses of what could only have been chimera attackers.
+
+On the roof of the garage, there were two people. A woman in a green robe, standing in front of a window, which wasn't overgrown and led into the main building, and a man, wielding a sword in his right hand and an arrow in the left, fending off two chimeras. One creature looked like a mix between a particularly buff chimpanzee and an armadillo, the other like a mountain lion-badger mix. The cat's size, but more stocky and with far longer claws. Both were marked as Wrath-touched.
+
+And our arrival wasn't a second too late. The man's movement was sluggish, and he was barely holding the chimeras at bay. Time to clear some space.
+
+["I'll drop you now,"] I wrote in chat.
+
+I flew until we were directly over the garage, where I turned straight down.
+
+"Friendly incoming!" I shouted over Queen's Voice. The already exhausted man stumbled at my voice—oops.
+
+At least that meant both creatures were firmly focused on him and didn't notice the giant hawk descending on them.
+
+Twenty feet above the ground, I let go of Claire and switched to the Garmr-touched Golden Retriever shape. The shift to the heavier shape took most of my momentum away, but gravity swiftly took up the slack again.
+
+The mountain lion-badger never knew what hit it. Two-hundred pounds of pure golden goodness, tripled by Dense Musculature, shattered its back.
+
+The ape-like one shrieked and jumped back.
+
+Next to me, Claire landed with a soft thud.
+
+I hoped that the Blessing would understand that I was protecting those people and that they were my allies, activated Sentinel's Howl, and howled.
+
+The chimera beneath me went rigid. The other one was stopped mid-motion and toppled over. To his credit, the man on the ground shook off his surprise at my sudden arrival far faster than the chimeras could shake off their stun.
+
+While I tore through the neck of the one underneath me, he rolled to his feet and stabbed the other one with an arrow, right between the armored plates. The woman, who'd held one hand in a fist this whole time, reached her hand out toward the chimera and spread out her fingers in one explosive motion—which was mirrored by the sudden growth of vines in and through the chimera, around the spot where the arrow had stabbed it. The same vines that covered the building.
+
+Badass kinda druid, that one. And she was only level 14. Just like the ranger.
+
+And then their attention turned to me. He tightened the grip on his sword. Their eyes flickered over empty space. Discussing the strategy in party chat. Next to the Ranger, vines from the dead chimera reached toward the vines on the wall. They intertwined, then pulled the corpse against the building. The vines pulsed. Huh.
+
+I sat down next to the other dead chimera. "Hi, I'm Eve," I said.
+
+At the same time, Claire wrote in chat. ["This is Eve. You can trust her."]
+
+The fact that Claire had to vouch for me was only slightly annoying. When I got those people out of here, I'd need to warn them about her.
+
+They seemed to just relax when a six-foot-tall, blue-skinned person with four arms leaned out of the window, took a single look at me, and proclaimed, "Look at her. She is already marked by the enemy. Take her assistance if you must, but never trust that one."
+
+The woman shoved the blue person back inside and muttered something in a language I didn't understand. She had light-brown skin, black hair, and dark eyes.
+
+Chat transcribed her as Inaaya, though it didn't translate her words.
+
+The ranger leaned against the wall, panting. He was tall, had short brown hair, and had tan skin.
+
+"Thank you, Eve. I'm Alex, this is Inaaya."
+
+By the method of extremely superficial deduction, I concluded that the blue person was Inaaya's guide.
+
+I moved over to the edge of the garage roof. I could hear more creatures out there, some approaching. From inside the building, I could smell at least one other person and a lot of blood.
+
+"Are you ready to depart? Claire said there should be four of you."
+
+The two exchanged a glance before Inaaya spoke. Alex pulled a bottle of water from his inventory and drank while she talked.
+
+"Hello, Eve. We need at least five more minutes. Sarah, Alex' sister, got injured, and my magic requires a while to heal her. Now with the additional corpse, it shouldn't take much longer."
+
+Another chimera burst out of the greenery. This one looked like it was a kangaroo mixed with something scaly. This one didn't have the Wrath-touched modifier in front of its name. And still, it cleared the entire distance up to the roof in a single leap and came right at me.
+
+I let it. The claws on its legs tore through my skin, which burned like hell, while I bit down on its arm, tearing straight through it. Before it could recover, I gripped it by its leg and threw it against the wall. Bones shattered and vines closed in around the chimera while the last sliver of its health drained away due to the bleeding I had inflicted.
+
+I had a Strength of 26. My Endurance was 20. And while those chimeric combinations were wicked, these creatures weren't notably stronger than regular animals. At least, not without the Wrath-touched modifier.
+
+"Holy shit," Alex said.
+
+"Four minutes," Inaaya said.
+
+"Are you composting—" I began before Alex interrupted me.
+
+"Eve? Like that Eve? Are you the one who killed the warlord? What's his name… Mammon?"
+
+"Yeah, that's me."
+
+"How did you do it?" Inaaya asked.
+
+"Luck," I said. Which was entirely true, if Fate giving me a massive handout because it would be extremely funny counted as luck.
+
+"Are you composting corpses to fuel your magic?" I asked.
+
+"Very simplified, yes."
+
+"Cool," I said. "What's with the fourth? Claire said you were a group of four."
+
+There was a pause as the two looked at each other. I wasn't ever the best at reading faces, but I could tell that there was more going on than grief.
+
+"Jai, Ina's brother, vanished yesterday evening. There had been… an argument. He had an Asura with him and kept it hidden—what we'd call a Devil," Alex said.
+
+I looked out over the vast jungle and got a sinking feeling in my stomach.
+
+"What's his class?"
+
+"A druid like me," Inaaya said. "But after we accidentally picked the same class, he specialized in manipulating animals and their biology, while I focused on plants."
+
+"The chimeras… Have they been around before?"
+
+"No. They started appearing today."
+
+There was a Fallen out there. And his soul allowed Hell to wield power that mimicked the apocalyptic magic of that first night.
+
+I looked at that completely expressionless fox plushie. Somehow Claire still managed to look smug.

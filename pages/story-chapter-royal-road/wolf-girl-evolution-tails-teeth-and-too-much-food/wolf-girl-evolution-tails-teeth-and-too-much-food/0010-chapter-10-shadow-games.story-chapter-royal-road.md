@@ -1,0 +1,283 @@
+---
+id: 9c8f2fda-045e-5094-afc6-03c888acebdc
+page-type-slug: story-chapter-royal-road
+title: "Chapter 10: Shadow Games"
+slug: 0010-chapter-10-shadow-games
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 10
+ownLength: 1731
+unit: words
+publishedAt: 2025-08-26
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2550148/chapter-10-shadow-games"
+royalRoadId: "2550148"
+---
+
+PoV Luna
+
+The pack huddled close to the den, licking wounds and limping between shadows. The pups didn’t play, and the rest kept silent. No tail wags either. Only silence, broken by the rasp of tongues over bloodied fur.
+
+Luna paced at the edge, ribs still aching, tail twitching restless. The air pressed heavy with loss, every glance weighed down. She didn’t want to sit in it. Didn’t want to pretend things were fine when they weren’t.
+
+So she left. Again.
+
+Her paws carried her away from the den, past her recent hunting grounds, and into deeper woods where the air smelled of moss and wet stone instead of blood.
+
+She sniffed, ears high, tail swishing low. The silence here was different, almost alive.
+
+Between a twist of gnarled roots and a mossy overhang, she found it. A hollow just big enough for her body. Damp earth pressed cool against her fur, and the moss cushioned her belly.
+
+Cozy, snug. Hidden. Perfect.
+
+She curled inside, nose on her paws, ears twitching at every drip of water. The den behind her stayed heavy, but here, no one bothered her.
+
+Here she could think.
+
+And do as she pleased.
+
+So she did, first checking what out-of-reach-possibly-tasty System had to say:
+
+Name: Luna
+
+Level: 4/10
+
+Race: Lesser Shadow Pup (Tier 0)
+
+Gender: Female
+
+HP: 20/28
+
+SP: 30/32
+
+Strength: 6
+
+Dexterity: 4
+
+Vitality: 4
+
+Intelligence: 4
+
+Willpower: 2
+
+Charisma: 2
+
+Luck: 1
+
+Active Skills:
+
+Strike Lv7
+
+Bite Lv7
+
+Jump Lv5
+
+Momentum Claw Lv1
+
+Passive Skills:
+
+Beast Instincts (Lesser) Lv1
+
+Pain Resistance Lv1
+
+Poison Resistance (Minor) Lv1
+
+Traits:
+
+Beast Constitution
+
+Gluttonous Soul – 2%
+
+Effects:
+
+Craving (Unknown)
+
+Chewed on the words. Licked at the number thingies. And decided what to do next: Sleep, kill, eat meat, repeat!
+
+***
+
+Her next couple days were filled with hunts. Small prey, big prey – whatever her teeth could catch. She ate until her belly stretched, then ate a little more.
+
+Strength sat heavy in her muscles, her tail wagging even when her ribs burned.
+
+Luna’s nights belonged to practice.
+
+The moon watched her leap between stones, her shadow stretching thin and long. She striked at stumps, snapped at branches, growled at leaves that rustled too loud. Her paws found rhythm in the dark. Her body moved sharper, quicker.
+
+And the System awarded her for it!
+
+【Bite Lv.7 → Lv.8】
+
+【Strike Lv.7 → Lv.8】
+
+【Jump Lv.5 → Lv.6】
+
+【Level Up: 4 → 5】
+
+【Strength +1 | Vitality +1 | Dexterity +1】
+
+【You are slightly less fragile. Try not to die anyway.】
+
+…Though it was still very mean!
+
+But clearly, her genius was absolute, the plan amazing!
+
+Hunt meat, eat well, get strong!
+
+Apex predator!
+
+She wagged her tail at that, and howled her genius at the moon.
+
+And then, by the third night, something more clicked.
+
+Luna had been stalking a rabbit’s shadow on the dirt, tail stiff, nose twitching. Her body crouched low, paws gliding without a sound.
+
+Then she leapt – except her leap was smoother than it should have been. Quieter. Her body slid through the dark, blending in with the shade itself.
+
+Her eyes widened, and her heart raced.
+
+She landed with a thump, teeth clamping air where the rabbit had been. It fled, ears bouncing, but Luna didn’t care. She spun, eyes on her own paws.
+
+The shadows around her rippled faintly, clinging to her fur before slipping away.
+
+Her tail wagged furiously. She barked once, sharp and excited, startling the nearby trees.
+
+【New Skill Acquired: Shadowmeld Lv.1】
+
+The words burned bright, hotter than prey-blood, richer than spice. Her fur prickled, her chest swelled, her grin split wide.
+
+Shadowmeld. She whispered the name in her mind, savoring it like jerky.
+
+She crouched again, testing. The shadows hugged her when she stilled, her body fading into the dark. Not gone, but less. Smaller. Quieter. Her paws thrilled with it, claws flexing in delight.
+
+Her ribs still ached, but she laughed anyway, a rough panty sound.
+
+This was her skill!
+
+Shadows listened to her now! Shadows liked her.
+
+She would use them. Hunt bigger prey. Find better meat. Grow stronger!
+
+The pack could stay heavy by the den. She had shadows to play with.
+
+Her tail curled around her side, her eyes bright in the gloom. Tomorrow, she would test it more. Tomorrow, she would vanish in the dark and strike like hunger itself.
+
+Luna crouched low, paws spread, tail swishing behind her. The shadows clung around her fur like damp moss. She narrowed her eyes at the patch of dark between two roots.
+
+She leapt.
+
+The world shifted. The air bent sideways.
+
+Her paws hit dirt ten paces left of where she had started.
+
+She froze, ears pricked high, eyes wide.
+
+【New Skill Acquired: Shadow Step Lv.1】 【New Stat Unlocked: Mana Points (MP)】 【MP: 18/18】
+
+Her jaw dropped. A startled bark of laughter burst from her throat. Then another. She wagged her tail so hard it smacked the ground.
+
+Shadow Step. She rolled the word in her head like a bone between her teeth. Step, not stalk. Step meant movement, freedom, and speed!
+
+She crouched again, fur bristling with excitement. The shadows hummed faintly around her, tugging at her paws. She grinned, then vanished.
+
+A pop, a blur, and she landed behind a rock, dirt spraying as she skidded.
+
+Luna yipped in delight, spinning circles. This was better than squirrel. Better than jerky. Well, maybe not jerky!
+
+But she now not only moved, but also jumped through the dark!
+
+Again.
+
+Luna launched at another patch, shadows curling like smoke. The step spat her out mid-spin. She smacked headfirst into a tree. Leaves shook loose, dust falling over her ears.
+
+Her nose stung. She sneezed. Then laughed again, loud and unashamed, tail whipping back and forth.
+
+【MP: 7/18】
+
+So it cost her mana to use. She tasted the word in her head, sweet and new. Mana. It was neither meat, nor spice, but still food. Different food.
+
+Her chest thudded with joy. She could eat it all up!
+
+So she did.
+
+Step, vanish, appear – behind a root, above a stump, under a branch. Each jump pulled at her chest, draining heat from her belly.
+
+【MP: 0/18】
+
+The shadows refused her next leap. She tumbled, rolling through moss and dirt. Her ribs ached, but her grin stretched wide.
+
+Fine. She would wait. She could wait.
+
+Good hunters were patient, and she was the best!
+
+Luna sprawled on her side, tongue lolling, tail thumping. Her chest rose and fell quick, but her eyes sparkled. Already she felt the mana trickling back, soft as dew through the grass.
+
+【MP: 1/18】
+
+She wagged her tail. Almost there.
+
+The night passed like that. Shadow, step, vanish, crash. Wait. Step again. Her body bruised, her paws scraped, but she didn’t care. Each leap filled her with lightness, a thrill she couldn’t chew away.
+
+She howled with joy into the night, just once! A sharp little awooo that echoed through trees and shadows alike.
+
+By dawn her legs wobbled, her fur was full of dirt, and her ribs were sore from too many crashes. But she grinned anyway, eyes half-closed, tail dragging happily.
+
+Luna had found a new trick. Her path to better hunts.
+
+Shadows would carry her where paws could not.
+
+And she would use them all.
+
+It wasn’t until she was almost ready to crash when another message appeared.
+
+【Shadow Step Lv.1 → Lv.2】
+
+The words shimmered faintly in her mind. Her tail thumped once, even as her eyes drooped. Stronger. Faster. Better.
+
+She slept quite well that day, dreaming of meat and shadows.
+
+***
+
+Luna stretched with a yawn, moving her sleepy paws, legs, and body awake. She shook herself free of the forest bits clinging to her fur, and padded into the woods, paws dragging at first, then quickening as the air hit her nose.
+
+Damp earth. Fresh leaves. And then – something else.
+
+She froze.
+
+Salt. Smoke. Spice.
+
+Her mouth flooded before the thought even finished. Human food!
+
+Her belly let out a roar so loud a squirrel above spooked, slipped, and tumbled out of a tree. It bounced off a branch, squeaked indignantly, and bolted.
+
+Luna didn’t even look at it. Her ears were flat, her pupils wide, tail swaying slow like a hunter’s. The shadows around her shivered as if waiting.
+
+Her body sank low, paws spread in silence. The scents dragged her forward, thick with promise, heavier than any rabbit’s musk. Meat, cured and smoked. Rich fat under spice. Salt that made her tongue itch just thinking about it.
+
+Her belly clenched. Her tail twitched harder.
+
+She slid into the trees, shadows hugging her fur. Her ears caught faint crunching, the low murmur of voices. Humans. They were close.
+
+Her tongue flicked across her nose. Not important. What mattered was the food. Always the food.
+
+The smell guided her, winding between roots, brushing through damp ferns. She crept until the forest parted in a small clearing.
+
+There.
+
+Two humans sat by a guttering fire, their packs spread open on the ground. One gnawed at dried meat, the other fiddled with a cloth roll. Two more sat further away, engaged in their weird speechy thing she sorta understood now. Neither watched the trees. Neither looked her way.
+
+But the food. Oh, the food. Jerky hung in strips from a line between rocks, swaying in the morning air. Her nose twitched wildly, her eyes locked on the prize.
+
+Her tongue lolled without meaning to.
+
+She crouched deeper, shadows clinging tighter. This was perfect. This was hers.
+
+Her tail stilled. Her ears flattened. Her paws moved with care, one at a time, silent in the undergrowth. Every step brought the spice stronger, the salt sharper. She could already taste the heat bursting over her tongue, could already feel the system warning flashing.
+
+She swallowed, eyes gleaming. The humans laughed at something she didn’t understand. They didn’t matter. Not when the meat was right there.
+
+Her belly growled again, louder this time. She winced, teeth bared at her own stomach, but the humans didn’t notice.
+
+She waited, crouched so low her belly brushed the dirt. Her heart pounded like a drum. Her ribs still ached from the Mireback, her paws still stung from last night’s stumbles, but hunger burned hotter than pain.
+
+She licked her muzzle once, tail flicking slow, and whispered the only thought she needed.
+
+Snack time.

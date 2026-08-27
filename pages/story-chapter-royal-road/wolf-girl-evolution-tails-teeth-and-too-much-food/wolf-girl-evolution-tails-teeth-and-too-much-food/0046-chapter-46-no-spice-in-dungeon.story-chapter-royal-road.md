@@ -1,0 +1,349 @@
+---
+id: aff6ded2-246d-5781-a309-845022dde285
+page-type-slug: story-chapter-royal-road
+title: "Chapter 46: No Spice in Dungeon"
+slug: 0046-chapter-46-no-spice-in-dungeon
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 46
+ownLength: 1858
+unit: words
+publishedAt: 2025-10-07
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2659033/chapter-46-no-spice-in-dungeon"
+royalRoadId: "2659033"
+---
+
+PoV Luna
+
+They reached the crossroads.
+
+The ogre’s body still slumped where it had fallen, a heap of bloated corruption, sap, and meat stretched across broken stone. The stink was worse now, sour rot mixed with thick sap, but not even flies wanted to touch it.
+
+Luna gave it one sharp-toothed glance.
+
+Revenge had been had.
+
+It would never hurt her family again.
+
+Satisfied, she turned to the others.
+
+Now the choice stood before them.
+
+One side led into the larger Velssarin ruins, with its triangular arches and walls collapsed into mossy heaps. Roots crawling greedily through every crack.
+
+The other pressed heavy with corruption. Ruins still standing, but crooked, groaning under their own weight.
+
+And at its heart–
+
+A triangle portal, leading down.
+
+Blackened stone. Carved bone-white lines jagged across its surface, glowing faint in the shadow. Corrupted yet still of clear Velssarin make.
+
+Luna wrinkled her nose as they approached. The air leaking from the gap was wet and sticky, clinging foul to her tongue.
+
+Even the frogs smelled tastier than that!
+
+But this was what the ogre had guarded. The lair. The nest. The last piece of rot!
+
+Or so her Second said!
+
+Luna didn’t really get it, but she would bite whatever came out anyways!
+
+The others circled up.
+
+Weapons checked. Boots shifted. Armor plates creaked as straps pulled tight. Syl spoke quietly, calm but edged, giving the short version of what to expect.
+
+Luna liked short versions!
+
+They were very bite-sized!
+
+“We might find more corrupted beasts inside. Maybe traps too. Or nothing. But it’s best to be prepared regardless.”
+
+Her voice carried steady through the dim ruins, clear but calm.
+
+“Corrupted dungeons can be unpredictable. They change in unexpected ways. For better or worse, it’s never quite certain.”
+
+Luna’s ear flicked. That didn’t sound fun.
+
+Syl went on, gesturing with her hand, the light from her spell flickering over her fingers.
+
+“Corruption doesn’t discriminate. It affects everything. Monsters, traps, puzzles – even the dungeon’s own structure. It can warp the rules that hold it together.”
+
+Veric grunted, testing his sword weight with one hand. Sepio nodded slow, absorbing every word.
+
+Syl’s eyes swept over them, the tone of a teacher fading into that of a leader.
+
+“Some of the most dangerous dungeons actually become easier once corrupted. But never underestimate them. The danger moves in ways you don’t expect.”
+
+Luna nodded along, half-listening.
+
+Her gaze followed Syl’s hands instead, watching the light glint and spark as it danced across her fingertips. Pretty light. Magic always smelled faintly of buzzy energy and lightning. Tempting.
+
+Then Syl turned her way.
+
+“Luna,” she said, patient but sharp. “You must not charge in. Stay with us.”
+
+Luna blinked once. Then nodded hard.
+
+“Yes! Stay-with-pack!”
+
+She could do that! Probably.
+
+Syl’s smile softened before she turned forward again.
+
+Gear was checked and rechecked. Blades slid across whetstones with soft hisses. Ray even found a moment to re-oil his gear, hands neat and fast, never wasting a motion. Trianna drew her bowstring back, testing the pull, nodding to herself before easing it. Veric rolled his shoulders, dented armor grinding against proud muscle.
+
+Luna copied him!
+
+Back arched long, paws stretched forward, claws digging grooves into the stone. Tail flicked, ears perked tall.
+
+Stretch before bite! Proper hunter habits.
+
+Sepio rolled his shoulder too, the arm that had been strapped before now moving free. The healing held. His shield rose high, steady and solid once more.
+
+He stepped first.
+
+Luna padded right behind.
+
+The others fell into place, the shape of their pack forming clear as heartbeat.
+
+They were ready!
+
+Her ears tilted forward. Her nose flared wide. Golden eyes narrowed sharp at the waiting black.
+
+Whatever lurked beneath that gate, whatever had festered long in the Velssarin dark…
+
+She hoped it was crunchy.
+
+***
+
+They began their descent.
+
+The air cooled fast, brushing damp across Luna’s fur. Her paws landed light against the dark stone steps. Each one curved downward, narrow and uneven, slick with condensation.
+
+The walls pressed close. Corrupted veins of mana pulsed faintly through the black stone, silvery-red glimmers flashing slow in the dark.
+
+And beneath it all, the wrong scent spread.
+
+Sticky. Sour. Corruption-sap.
+
+Luna sniffed deeper.
+
+No fresh prey-scents. No smell of disturbed dust. No breath of movement.
+
+Just stillness.
+
+Old air. Unmoved and unmoving.
+
+Her hackles twitched despite the quiet. The silence felt thick, swollen with waiting.
+
+Trianna’s bow creaked softly as she checked her draw. Ray’s boots made no sound at all. Sepio’s shield brushed the stone once before steadying. Veric muttered about stale air, earning a look from Syl that silenced him.
+
+Luna’s nose wrinkled.
+
+This whole dungeon hunt thingy… It smelled like the kind of place where flavor went to die.
+
+Why her pack wanted to explore it… Luna did not know.
+
+Her stomach grumbled once, low and disapproving.
+
+Syl’s eyes flicked her way, knowing.
+
+“Focus, Luna.”
+
+Luna huffed softly, tail swishing behind her. Focus. Right. Hunt first. Eat later!
+
+Still, her tongue slipped over her teeth in habit. If there was corruption, there would be prey.
+
+And prey meant bites!
+
+The thought steadied her. Her steps fell back into rhythm with the rest of the pack, her ears tilting to catch the smallest echoes ahead.
+
+Quiet. Cold. Heavy.
+
+But the descent went on and on.
+
+And deep beneath the ruins, the shadows began to breathe.
+
+Inside, the dungeon stretched long and uneven, a maze of wide halls and slanted corridors where the air hummed faintly under every step.
+
+Bone-white pillars rose crooked from the floor, turned gray from age and ash. The walls pulsed with veins of dull light, alive in a slow, weak way. Cracks ran through them all, bleeding faint mana instead of dust.
+
+And everywhere were crusted globs of corrupted biomass.
+
+Some clung to the stone. Others slumped across the floor. Each one glistened with thick residue, stretched thin in places, heavy in others. A few almost looked beast-shaped. Most looked like meat left to rot too long.
+
+Luna tilted her head.
+
+Were they monsters once?
+
+Too hard to tell. Too gooey. Too dead.
+
+Not tasty at all!
+
+Her ears flicked toward Syl. The elf’s face was cold and fixed, her gaze measuring every inch of the hall. No words this time, just focus.
+
+Luna approved!
+
+And if Syl watched, Luna sniffed!
+
+She followed the trail of the living rot. Faint at first, then stronger, curling under her tongue until the taste made her lips wrinkle.
+
+The pack moved carefully. Ray led more often than not, eyes sharp, feet soft, every step measured slow.
+
+It turned out that was smart.
+
+Hidden traps!
+
+Though apparently most didn’t work.
+
+But some still did.
+
+One even clicked!
+
+The sound snapped through the quiet, sharp and mean.
+
+Sepio lunged before thought, shield raised, stance braced. Ray dove sideways. Veric’s blade half-lifted, eyes narrow, ready for the strike–
+
+But it didn’t come.
+
+The bolt hole coughed weakly instead, clogged with far too much corruption. A single arrow groaned free, slid halfway out, and drooped.
+
+Luna’s nose twitched. She snorted, unimpressed.
+
+Ray blinked. Then grinned, breath shaky.
+
+“That could’ve been messy.”
+
+Syl’s hand brushed her staff, murmuring a word under her breath. The air steadied.
+
+“Indeed. The mechanisms still try,” she said softly. “Be ready for worse.”
+
+Trianna let out a quiet breath, already scanning ahead.
+
+Luna padded closer to the broken trap, head tilted. The arrow smelled of metal, rot, and something sour. She sniffed once more, wrinkled her nose, and gave a quiet growl of disappointment.
+
+Nothing interesting to sniff here!
+
+Still, she wagged faintly. The hunt was still on. No big monsters yet, but the air promised more.
+
+They moved again.
+
+The walls creaked when they passed, and somewhere deeper, a slow hum of mana grew louder – thick and heavy, like a heartbeat deep in the stone.
+
+Luna’s ears flicked toward it. Her tail gave one slow, eager sway.
+
+Something waited ahead.
+
+Something bigger!
+
+Finally something to bite!
+
+…It took them nearly two hours to reach the heart.
+
+Through twisting paths, and shifting floors.
+
+With nothing. NOTHING. To bite between.
+
+Just more boring traps!
+
+Two even worked, but Ray disabled them.
+
+And then–
+
+They found it!
+
+A glowing space.
+
+The dungeon core chamber.
+
+A low hum filled the air, deep enough that Luna felt it through her paws. Each tired beat vibrated in her chest, heavy as mud.
+
+At the center floated a fractured crystal sphere. Its glow was weak and uneven, throbbing in dull pulses.
+
+Her Second said that normally dungeon cores shimmered soft blue. This one bled maroon, veins of grey-black rot crawling through its surface.
+
+And stabbed straight through the middle was an obsidian shard, jagged and still dripping faint mana. From the wound, energy seeped in thin, sluggish trails.
+
+It smelled wrong.
+
+Sticky. Sharp. Bitter on her tongue.
+
+But that wasn’t all.
+
+To the side – collapsed against the floor – a shape moved.
+
+Flesh twisted and tethered, veins anchoring it to another shard that jutted through its side. The body twitched weakly, each spasm pulling the veins tighter around bone.
+
+Luna sniffed.
+
+It smelled like a human. Maybe. The face drooped slack over the stone, drool slick against cracked lips.
+
+A few scraps of clothing clung to it. Scattered tools and torn scrolls lay nearby, half melted into the floor.
+
+Luna’s ears flattened. Her nose wrinkled. It didn’t smell like prey or person anymore. Just rot, metal, and sickly mana.
+
+Syl stepped forward, inspecting the place.
+
+“Looks like we found the source of corruption.”
+
+She looked pointedly at the writhing mass on the ground.
+
+“...And the likely reason behind its spread.”
+
+Nobody moved closer.
+
+Ray hovered near the shadows, blade low but ready. Veric kept his sword drawn, eyes tracking the body for any twitch. Trianna stayed back, arrow half-notched.
+
+But nothing happened.
+
+There really was nothing to bite!
+
+So much walking, and not even a squirrel to chew!
+
+What a bark of disappoint!
+
+Sepio exhaled through his teeth.
+
+“That’s… a bit anticlimactic.”
+
+“Yeah,” Ray said, relaxed but wary. “Almost boring.”
+
+“Boring is good,” Syl replied, her voice sharp enough to cut.
+
+Luna tilted her head.
+
+Boring was good?
+
+How?!
+
+Her tail gave a dismissive flick. She padded closer, steps slow, nose twitching.
+
+The air near the core was thick and heavy. The hum grew louder, more uneven, like the crystal struggled to stay alive. The shard stabbed through it gleamed faintly, almost pulsing to her heartbeat.
+
+Weird.
+
+She sniffed again. The smell of rot burned at her nose. But under it – something else. A faint hint of something unknown burning her nose. Tangy, hidden under the layers of wrong.
+
+Weird could be bad.
+
+Weird could also be chewable.
+
+Her stomach gave a quiet grumble.
+
+Syl sighed softly.
+
+“Luna. Please be careful. We don’t know what it is yet.”
+
+Luna’s ears flattened at the tone.
+
+The elf’s gaze stayed fixed on the core.
+
+“We’ll need to do something about the shard. After figuring out how it’s all connected. And then remove it. Carefully.”
+
+Luna eyed it again, lips twitching.
+
+Carefully, sure.
+
+But if it tried to move first–
+
+She would bite!

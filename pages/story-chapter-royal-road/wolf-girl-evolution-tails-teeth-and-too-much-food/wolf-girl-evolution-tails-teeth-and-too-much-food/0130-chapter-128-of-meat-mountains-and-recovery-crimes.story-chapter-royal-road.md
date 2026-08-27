@@ -1,0 +1,687 @@
+---
+id: b050de11-b855-5094-a592-af6120cc7120
+page-type-slug: story-chapter-royal-road
+title: "Chapter 128: Of Meat Mountains and Recovery Crimes"
+slug: 0130-chapter-128-of-meat-mountains-and-recovery-crimes
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 130
+ownLength: 3189
+unit: words
+publishedAt: 2026-06-01
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3479645/chapter-128-of-meat-mountains-and-recovery-crimes"
+royalRoadId: "3479645"
+---
+
+PoV Luna
+
+Luna hit the grasslands like a freed disaster.
+
+Wind roared through her fur the instant she cleared the last stretch of road beyond town, the open plains unfolding ahead beneath the afternoon sky in rolling waves of green and gold. Tall grasses slapped against her legs as she tore through them at full speed, Shadow Run spilling cool darkness around her paws while dirt and broken stalks exploded behind her in sprays.
+
+Free!
+
+Actually free!
+
+No more bedrest. No more Syliana narrowing her eyes every time Luna tried sneaking toward the door. And no more accidentally falling asleep everywhere just to wake up hours later while her Second tucked blankets around her again.
+
+Luna zoomed down a slope hard enough that her front paws nearly lost purchase at the bottom.
+
+“Hehehehe–!”
+
+The laugh burst straight out of her chest before the wind ripped it away.
+
+Her body still felt a little wrong.
+
+But wrong did not mean weak.
+
+Luna refused weak!
+
+Even if the tower fight had left ugly little reminders everywhere. Her ribs still ached a little if she twisted too sharply. Her chest tightened sooner during long runs. Even breathing felt heavier after too much Shadow Step chaining.
+
+Which was silly!
+
+Luna ignored it immediately.
+
+Because her pack needed food after so much rest!
+
+Proper food!
+
+Strong prey made strong pack, and Luna had spent far too many days trapped indoors while everybody else worked around her, worried around her, carried soup toward her, and told her to “recover properly” while she slowly lost her mind.
+
+But no more!
+
+Now it was time to hunt!
+
+And enjoy the run as well!
+
+Just a little bit.
+
+Yip yep!
+
+A rabbit bolted from the grass ahead the instant her shadow crossed over it.
+
+Luna vanished.
+
+Shadow Step folded the distance apart in a single flicker, and her jaws snapped shut around the weak prey before it even finished turning. Warm blood spread sharp across her tongue as the rabbit kicked once and went limp.
+
+Much better.
+
+The corpse disappeared into her Maw without slowing her stride.
+
+Her nose worked constantly while she ran, sorting the wind apart faster than thought.
+
+Mouse, fox, all weak prey.
+
+Rot, riverwater, and human road.
+
+Nothing stood out–!
+
+Luna’s ears shot upright.
+
+Oh, deer!
+
+Yesh!
+
+Big prey!
+
+Weak, but big. And that was just fine–
+
+For now!
+
+Luna slammed harder into her sprint, claws digging small trenches through the earth as she angled toward the scent. The plains dipped lower ahead, grasses thinning around scattered rocks and scrub brush while the deer smell grew stronger with every pounding stride.
+
+And it was a whole group too!
+
+Good.
+
+Her heartbeat sped up eagerly.
+
+Pack was hurt. So pack needed food, to recover well!
+
+The deer exploded into motion the moment she crested the rise.
+
+Five of them scattered through the grass in a blur of long legs and panic, their scents flooding hot and sharp into the air. Luna locked onto the largest immediately, an older buck with thick antlers and enough meat to make everybody happy.
+
+Mine!
+
+The buck bounded over a low rock formation.
+
+Luna followed.
+
+Pain stabbed through her paw when she landed badly on the far side, her front leg buckling for half a step before she recovered. An unpleasant reminder of her fateful big attack.
+
+Stupid tower.
+
+The irritation flashed hotter than the pain itself.
+
+The buck twisted suddenly and lowered its antlers, dirt tearing beneath its hooves as it tried one desperate charge instead of running.
+
+Luna grinned.
+
+Good prey!
+
+The deer lunged.
+
+She hit Shadow Step at the exact moment the antlers reached her, darkness swallowing her whole before spitting her back out alongside the buck’s flank. Her claws ripped through muscle in four blazing lines.
+
+Blood sprayed across the grass.
+
+The buck stumbled.
+
+Luna hit it again immediately, slamming her full weight into its side hard enough to send both of them crashing downslope together.
+
+Then her jaws closed around its throat.
+
+The struggle lasted seconds.
+
+When it stopped moving, Luna stood over the body panting hard enough for heat to scrape through her chest.
+
+Bleh.
+
+Tired too fast.
+
+Her recovery still sucked.
+
+Luna bit down harder out of spite before swallowing the entire deer into her Maw.
+
+Warm satisfaction spread through her immediately–
+
+But instinct shoved at her again before satisfaction filled the hollow under her ribs.
+
+Need more.
+
+Luna shook her head – it was enough hunting for now!
+
+She turned back, and went running at a comfortable pace.
+
+It gave her time to clear her mind, and check on her Status.
+
+Name: Luna
+
+Level: 7/25(+4)
+
+Race: Velocity Reaper (Tier 1)
+
+Gender: Female
+
+HP: 114/136
+
+SP: 123/156
+
+MP: 78/100
+
+Strength: 29(+4)
+
+Dexterity: 24(+2)
+
+Vitality: 24(+3)
+
+Intelligence: 20(+1)
+
+Willpower: 12(+3)
+
+Charisma: 9(+1)
+
+Luck: 5(+2)
+
+Active Skills:
+
+Strike Lv17(+1)
+
+Bite Lv16
+
+Jump Lv18(+1)
+
+Momentum Claw Lv18(+3)
+
+Run Lv19
+
+Shadowmeld Lv18(+2)
+
+Shadow Step Lv17(+1)
+
+Lunar Form Lv21(+6)
+
+Devourer’s Maw Lv6
+
+Shadow Run Lv10(+1)
+
+Reaper’s Pass Lv6(+1)
+
+Shadow Cloak Lv7
+
+Passive Skills:
+
+Beast Instincts (Lesser) Lv3(+1)
+
+Pain Resistance Lv3(+1)
+
+Poison Resistance (Minor) Lv2
+
+Devourer’s Right Lv6(+2)
+
+Traits:
+
+Beast Constitution
+
+Gluttonous Soul – 15%(+2%)
+
+Effects:
+
+Craving (Unknown)
+
+Lingering Strain(Temporary)
+
+Hampered Recovery(Temporary)
+
+A lot has changed after the battle. As dangerous as it was, the gains were just as spicy! Luna even got a point in Charisma since waking up!
+
+…Though Luna could do without these two new Effects, thank you barking much!
+
+But at the same time–
+
+【Against all odds, you survived where others would not. Try not courting death next time.】
+
+The System praised her!
+
+Well, if Luna ignored all the other messages – and she very much did – and gave it a bit of slack for being a big meanie usually–
+
+Yip yep, that felt nice!
+
+The thought made her tired steps a little more springy.
+
+And just as she was getting near–
+
+The smell reached Luna before the town gates did.
+
+Smoke. Charred fat. Fresh bread. Peppery oil dripping onto hot metal.
+
+Her pace immediately picked back up.
+
+“Hehehe!”
+
+The hunt left her pleasantly heavy now. Muscles sore, Maw packed with new hunts, fur streaked with dirt and drying blood – she shook it all off with her trusty Shadow Cloak trick!
+
+Then transformed into her Human form!
+
+A quick Maw-retrieval of clothes later, and she was ready for the town.
+
+Still… The exhaustion lurking beneath her skin still tugged at her harder than before the tower, but food-smell drowned most of it out beneath a much more important instinct.
+
+Spice!
+
+And tasty snacks!
+
+Luna was ready for the grub!
+
+Especially from Mister Grevan, mhm!
+
+Luna darted through the afternoon streets fast enough to make two pedestrians jump aside with startled yelps. One cart driver shouted after her as she slipped cleanly beneath the wagon itself rather than slowing down.
+
+Sorry mister, Luna had important business to do!
+
+Very important!
+
+The familiar stall appeared ahead in a haze of smoke and sizzling meat. Grevan stood behind the wide grill turning skewers while a pair of customers waited nearby with wrapped bundles already in hand.
+
+Then he noticed the rapidly approaching wolf girl.
+
+“Well now,” he started with a grin, “look who finally escaped–”
+
+Luna slammed both hands onto the counter dramatically.
+
+“Trade!”
+
+Grevan barked out a laugh immediately.
+
+“Ha, sure, sure! It’s good to see you well again, girl!”
+
+The customers stepped aside just in time.
+
+Luna grabbed the edge of the counter, leaned forward, and opened her Maw, for a now-familiar routine.
+
+Meat started hitting the road next to the stall in rapid succession.
+
+A deer haunch, an entire boar. Then some rabbits.
+
+And even more rabbits!
+
+Then her last hunt for the day – another deer!
+
+Grevan’s eyebrows climbed steadily higher as the pile kept growing wider in what has now become their little prep space. Raw meat stacked almost shoulder high before Luna finally stopped, breathing proudly through her nose while blood from the catches dripped slowly onto the dirt below.
+
+“You sure never disappoint, eh?”
+
+“Ehehe!”
+
+The praise always felt nice!
+
+Even if the nearby customers stared wide-eyed now.
+
+Luna didn’t care!
+
+Grevan looked from the mountain of meat to Luna herself, taking in the happy panting, proud pose, and the bright gold eyes shining with absolute triumph.
+
+Then he laughed loud enough to turn heads halfway down the street.
+
+“Well now,” he boomed, wiping one hand against his apron, “let me get started on this real quick. Only the best skewers for our little recovered patient!”
+
+Luna puffed up instantly.
+
+“Yes!”
+
+Her tail whipped hard enough behind her to rattle a crate.
+
+“Luna did important hunting!”
+
+“I can see that,” Grevan said. “Pretty sure you hunted enough for half the district.”
+
+“Pack needs food. To recover faster!”
+
+The answer came instantly, completely serious!
+
+Grevan’s grin softened a little around the edges at that.
+
+“Aye,” he said quietly. “I suppose they do.”
+
+Then Luna’s ears perked sharply toward the grill itself.
+
+“Oh! And Luna wants sausages. And spicy skewers! Big helping!”
+
+Grevan snorted.
+
+“Course.”
+
+“And crispy potatoes!”
+
+Luna’s new favorite, which she learned of just recently!
+
+“You’re making demands awful fast for a wolf who hasn’t even negotiated yet.”
+
+Luna blinked once, then narrowed her eyes suspiciously.
+
+The stall owner folded his arms with exaggerated seriousness.
+
+“Maybe I should start charging extra for emergency meat mountain processing.”
+
+Luna gasped.
+
+“You would extort recovering Luna?!”
+
+The old cook barked another laugh loud enough to shake his shoulders.
+
+“Oh, now she’s learned fancy words too.”
+
+Ehehe!
+
+Luna nodded proudly.
+
+It was nice to be praised!
+
+“Second says Luna getting smarter.”
+
+“Well, your Second’s right.”
+
+Obviously!
+
+Luna climbed onto her usual spot beside the stall while Grevan got to work immediately, pulling cuts apart with practiced ease while calling toward the back for extra trays and seasoning mixes.
+
+The man had hired help since the large Guild feast. It might not have been busy now, but when adventurers decided to visit, two hands suddenly weren’t quite enough.
+
+She didn’t really get it, but more people learning how to cook great from her favorite stall owner could only be a good thing!
+
+The first skewer hit Luna’s hands moments later.
+
+Perfect!
+
+She bit into it hard and fast!
+
+The meat vanished almost instantly, and only her satisfied chewing a reminder it was there at all!
+
+Grevan just shook his head with a laugh.
+
+Ehe.
+
+Luna felt weirdly embarrassed.
+
+But hunger helped her ignore such silly things like human social cues!
+
+The next meal arrived, and Luna attacked it just as fast.
+
+Her shoulders hunched lower over the food without thinking. Every bite disappeared almost before chewing finished, her fingers curling faintly around the skewer itself while instinct pushed sharp urgency through her chest.
+
+The thoughts came sharp and automatic.
+
+Grevan watched her quietly while turning another row of skewers over the fire.
+
+“You chew like a hungry bandit’s gonna steal it from you.”
+
+Luna froze mid-bite.
+
+Only then did she realize she was practically curled over the meal protectively, ears slightly back, body tense around the food.
+
+Heat crept into her face.
+
+“Nobody stealing,” she muttered immediately.
+
+“Heh.” Grevan brushed sauce across another rack of meat. “Didn’t say they were.”
+
+Luna straightened slowly.
+
+Her grip loosened from the skewer.
+
+Weird.
+
+Too much instinct was still scratching around after the tower fight. After blood and exhaustion and waking up weak while everybody worried around her.
+
+Food meant strength.
+
+And strength meant pack safe.
+
+Luna was just being…
+
+A good Apex Predator. Smart.
+
+Yes.
+
+She let herself relax, chewing slowly now. Actually enjoying the glorious spicy goodies.
+
+Their blissfully furtastic taste was already warming her up inside.
+
+Mhm!
+
+Grevan slid the first of the cooked bits from the hunt toward her, for ‘taste testing’.
+
+Luna liked such testing the most!
+
+Thick layers of freshly cooked spiced meat filled her belly even as the unfamiliar sharp-smelling sauce did wonders to her nose! It made her all happy–
+
+Awoo-chu!
+
+–And made her nose all funny!
+
+Heh!
+
+Her mood immediately recovered, and Luna actually growled softly at the meat.
+
+Grevan looked delighted.
+
+“That good, eh?”
+
+“Mister Grevan,” Luna said very seriously after swallowing, “your cooking got even better!”
+
+“Well, I would hope so! Perfected that sauce last night!”
+
+He pointed a knife at her.
+
+“Can’t let my most terrifying customer down.”
+
+Ehehe!
+
+Luna finished her meal with much more controlled chewing this time, and waited for her cook friend to finish cooking everything up.
+
+She watched with wonder as Grevan wrapped seared meats, fried haunches, and wonderfully smelling experiments into neat bundles nearby.
+
+And Luna quickly stored the goodies each time!
+
+Might even last them days!
+
+Possibly less if Luna got snacky.
+
+Once the last bundle was wrapped, she slid down from her seat with a happy full belly and much steadier breathing than before.
+
+Then paused.
+
+Very important duty remained!
+
+Luna planted both hands on the counter and stared at Grevan with complete seriousness.
+
+“Mister Grevan!”
+
+The cook blinked once at her tone.
+
+“Aye?”
+
+“Luna leaving town soon.”
+
+“So I heard.”
+
+“And Luna wants to eat even better food when she’s back!”
+
+Grevan’s beard twitched violently as he fought another laugh.
+
+“Oh yeah? Even better than now! Seems I can’t stop improving then, eh?”
+
+“Yesh!”
+
+It was nice when people understood Luna well!
+
+The old cook finally lost the battle and burst into booming laughter again.
+
+“Well now,” he said between chuckles, “with responsibility like that, how could I refuse?”
+
+Yesh!
+
+The future of even tastier foods secured!
+
+And Luna couldn’t help but already look forward to what it could possibly become!
+
+***
+
+By the time Luna returned to the inn, the entire place smelled busy of preparations.
+
+Oil and steel mixed with fresh leather, drying cloth, potion ingredients, travel wax, and ink. The scents layered together thickly through the common room while voices drifted between sharpening stones, scattered notes, and half-packed bags.
+
+And underneath all of it Luna smelled–
+
+Pack!
+
+The moment she pushed through the front door, her tail started wagging hard enough to shake her balance.
+
+“Important Pack Quest complete!”
+
+The room paused immediately.
+
+Ray slowly looked up from the stack of guild forms spread across the table in front of him. Sepio stopped sharpening a knife mid-motion, while Trianna froze halfway through stuffing supplies into a travel pack.
+
+Veric turned his head toward the doorway at almost the exact same moment Syliana looked up from the maps beside her.
+
+Then Luna hit the middle of the room with all the energy of a fluffy catastrophe!
+
+Trianna barely had time to react before Luna crashed directly into her side in a flying hug powerful enough to nearly knock both of them off the bench.
+
+“Luna–!”
+
+“Ehehe! Hunting complete!”
+
+“You smell like an entire forest.”
+
+“A very successful forest!”
+
+Ray leaned back in his chair with amused resignation settling across his face.
+
+“…How much did you kill?”
+
+“Enough!”
+
+“That answer concerns me.”
+
+“It should,” Sepio muttered.
+
+News delivered, Luna spun toward Syliana next and practically threw herself against the mage while her tail continued wagging violently behind her.
+
+Warmth spread through her chest almost painfully fast the moment Syl steadied her with one arm and slid the other hand through her hair and ears with care and love.
+
+Pack all here!
+
+Safe, together, good.
+
+“You overdid it again,” Syl murmured.
+
+“No.”
+
+A pause.
+
+“…Maybe little.”
+
+“Mmhm.”
+
+Trianna snorted while recovering from the earlier collision.
+
+“Wait, no. I know that expression.” She pointed accusingly toward Luna. “How much meat is inside the Maw right now?”
+
+Luna puffed proudly.
+
+“A lot.”
+
+“Oh gods,” Ray groaned.
+
+Veric folded his arms.
+
+“Hrm.”
+
+“See! Packfriend Veric understands!”
+
+“I understand we are going to smell like smoked meat for the next month,” Ray shook his head with disbelief.
+
+“That just means Luna can track pack easier.”
+
+“You know… I dislike how reasonable that sounded.”
+
+While the others kept talking, Luna’s ears flicked around the room. Everybody moved normally and joked normally while continuing preparations, but the smells underneath carried traces of worry Luna didn’t remember from before the tower.
+
+She could feel it sharp beneath Ray’s ink and paper scent. Quiet beneath Sepio’s steady calm. And hidden beneath Trianna’s laughter.
+
+Though maybe the pack trickster was least affected!
+
+Even Syl carried it faintly beneath herbs and potion ingredients.
+
+The tower left marks on all of them.
+
+Luna knew that.
+
+Which was exactly why she ignored it completely.
+
+Today was pack day, and pack together meant everything better!
+
+And for Luna that meant physically being everywhere things happened!
+
+She shoved sideways between Syliana and the table until there was barely enough room left for maps, then leaned heavily against the mage while everybody continued preparing around her.
+
+One of Syl’s sleeves immediately vanished into Luna’s grip without conscious thought, fingers curling into the fabric while her ears flicked lazily toward the overlapping conversations around the room.
+
+Nobody told her to move.
+
+Trianna kept sorting supplies nearby while occasionally reaching over just to poke one of Luna’s ears for no reason. Veric adjusted travel straps beside the wall with slow steady movements while Ray and Sepio argued quietly over routes and timing across the spread-out maps.
+
+“…The western pass remains faster,” Sepio said.
+
+“And more exposed,” Ray countered immediately.
+
+Luna listened only halfway, the gentle scritches melting away what little of her own worries remained.
+
+The words blurred softly together beneath the much more important things surrounding her.
+
+Syl’s warmth against her side, and the steady movement of fingers sliding absentmindedly through her hair. And the low and comfortable rhythm of pack voices rolling back and forth overhead.
+
+The worry-smells still lingered faintly underneath everything else, but they no longer felt quite as sharp.
+
+Luna shifted closer without even realizing she was doing it, pressing more of her weight sideways against Syl while her tail slowly lost energy behind her.
+
+She yawned, nuzzling her face into her Second’s lap just a little more.
+
+The long hunt finally started catching up now that she had stopped moving. Her muscles felt heavy and pleasantly sore, and the warmth of the pack room soaked deeper into her fur with every passing minute.
+
+At some point Syl’s hand settled more fully atop her head.
+
+Just resting there.
+
+Warm, steady, and safe.
+
+Luna’s eyes drifted half shut almost immediately.
+
+“…Comfy,” she mumbled.
+
+“I can tell,” Syl said softly.
+
+Somebody laughed quietly nearby. Probably Trianna. Luna was too comfortable to check properly.
+
+The room simply kept moving around her while she slowly melted deeper into the warmth surrounding her.
+
+Pack sounds.
+
+Good sounds.
+
+Without noticing, her grip on Syl’s sleeve slowly loosened too. The tension sitting beneath her ribs since the tower, since the recovery, since everybody started smelling worried all the time, gradually unraveled beneath warm lanternlight and familiar voices.
+
+By the time sleep finally crept up on her, Luna was smiling.
+
+A soft and sleepy smile.
+
+Completely unguarded.
+
+Luna curled tighter against Syl’s side beneath the steady rhythm of pack voices surrounding her.
+
+And then, somewhere in the middle of Ray complaining about road tolls–
+
+A little mlemy yawn told them Luna finally lost the battle against sleep.

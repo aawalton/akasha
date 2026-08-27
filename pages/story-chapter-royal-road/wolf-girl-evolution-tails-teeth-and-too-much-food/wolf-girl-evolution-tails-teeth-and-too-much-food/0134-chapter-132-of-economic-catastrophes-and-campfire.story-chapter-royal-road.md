@@ -1,0 +1,613 @@
+---
+id: 2a2370f9-8885-597b-877a-dd813e38d4b0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 132: Of Economic Catastrophes and Campfire Logistics"
+slug: 0134-chapter-132-of-economic-catastrophes-and-campfire
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 134
+ownLength: 3387
+unit: words
+publishedAt: 2026-06-15
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3544132/chapter-132-of-economic-catastrophes-and-campfire"
+royalRoadId: "3544132"
+---
+
+PoV Luna
+
+The pack stopped beside the forest before sunset.
+
+Luna personally considered the entire trip extremely efficient!
+
+Even if the others didn’t quite agree!
+
+“My legs are still vibrating,” Ray informed nobody in particular. He then lowered himself carefully beside a fallen log near the lakeshore clearing they selected for camp.
+
+“That sounds like a skill issue!” Luna helpfully informed.
+
+“It sounds like repeated blunt force trauma.”
+
+Trianna dropped her pack beside the growing fire pit and stretched both arms overhead with a satisfied groan.
+
+“I still think it was worth it.”
+
+“Of course you do,” Sepio muttered. “You encouraged her.”
+
+“Yes.”
+
+“And even actively demanded more speed.”
+
+“Yep! It was fun.”
+
+“...You are part of the problem.”
+
+Trianna looked utterly delighted by this accusation.
+
+Veric gathered larger stones for the fire pit while Syliana inspected the nearby treeline, eyes sharp as she checked tracks, branches, and the darker spaces between the roots with her magical senses.
+
+Luna watched this Sensible Human Survival Preparation Weirdness for several whole moments.
+
+Then the first proper curl of fire-smoke reached her nose!
+
+Warmth. Wood. Evening air.
+
+Camp!
+
+And camp meant food!
+
+Hehe!
+
+It was time for important Luna duty!
+
+The moment the fire caught properly, Luna marched into the middle of camp, planted her feet in the grass, and opened her Maw with complete confidence.
+
+Smoked boar meat landed first beside the fire pit with a heavy, glorious thump.
+
+Luna drooled.
+
+Good start!
+
+Then came ant meat wrapped carefully in treated cloth, still carrying that sharp strange smell under the smoke. A bundle of skewers followed next, then jerky, travel bread, preserved vegetables, and the sauce jars her packfriends insisted should not be opened by Luna without supervision.
+
+Which was rude.
+
+…Probably wise.
+
+But still rude!
+
+Luna added one more wrapped parcel beside the bread, then sat back on her heels and inspected the spread with great seriousness.
+
+Glorious meat.
+
+And then some more meat!
+
+Bread for holding meat.
+
+Vegetables for packfriends who believed in suspicious green things.
+
+Sauces for making everything better.
+
+Yesh, that looked droolicious!
+
+And was enough for everybody to eat properly, mhm!
+
+Maybe even too properly.
+
+The next package hit the grass with a soft, dense little sound.
+
+Sepio looked down at it.
+
+“Is that cheese?”
+
+“Yes.”
+
+“Where did you even get cheese?”
+
+Luna blinked once, then stared at him blankly.
+
+“…Cheese stall,” she deadpanned.
+
+Sepio groaned.
+
+“Wow, you walked right into that one,” Ray quipped, already selecting his own dinner spread.
+
+And somehow, nobody else looked enlightened!
+
+Only Trianna laughed, though not like the cheese was strange!
+
+Hmph!
+
+“This is absurd,” Sepio was still finding it hard to accept.
+
+“It looked tasty!” Luna defended, already offended on the cheese’s behalf.
+
+More importantly, it smelled tasty!
+
+Sharp and rich and a little salty, hiding under the cloth like treasure! And Sandwich Friend once used it in his awoomazing creations!
+
+Worth the trade!
+
+Her Second returned from the treeline just as Luna nudged the last parcel into place. The mage stopped long enough to take in the food arranged around the fire: boar, ant meat, skewers, jerky, bread, vegetables, sauces, and cheese.
+
+It was a proper camp feast!
+
+Not too much.
+
+Just enough for pack!
+
+Possibly enough for pack to complain about being too full afterward, which was their own fault for having small human stomachs!
+
+“Luna.”
+
+“Prepared Luna!”
+
+Ray barked out a laugh.
+
+“Heh. She completely invalidates food budgeting.”
+
+Luna puffed up at once, tail swishing proudly behind her.
+
+Superior Apex Predator logistics!
+
+She seized a smoked skewer and tore into it with proper authority while the others settled around the fire. Plates came out. Knives followed. Veric shifted one of the parcels away from the flames before the cloth could scorch. Sepio began dividing the spread into what should be eaten hot and what should be saved for later.
+
+Luna personally thought “tasty” and “also tasty” covered the matter well enough, but his version seemed to make sense to the others!
+
+Even Syliana gave up after a moment and accepted a piece of smoked boar!
+
+Ehehe!
+
+It was nice to watch how quickly camp improved with a bit of food and warmth.
+
+The fire crackled warmer as evening settled around the lakeshore. Food smells filled the clearing, thick and comforting beneath the darker scent of the huge forest waiting beyond the grass.
+
+Luna chewed with great focus, enjoying the warmth, tail swishing lazily behind her as everyone settled around the fire with plates and skewers in hand. Smoke curled through the air. Meat sizzled faintly near the coals. Bread tore apart in soft chunks. Sauce jars opened one by one, releasing sharp, spicy smells that made Luna’s nose twitch and mouth drool every time.
+
+Yesh!
+
+This was proper camp, mhm!
+
+Even Veric looked faintly impressed by the amount Luna carried inside her Maw.
+
+“Hrm.”
+
+“Luna prepared for everything now!”
+
+“...I am beginning to believe that,” Sepio admitted.
+
+Ray pointed a skewer toward the food pile.
+
+“You realize if anybody important learns what you can actually do, supply merchants are going to start crying.”
+
+Luna paused mid-bite.
+
+“Bwuh?”
+
+Supply merchants? What’s that?
+
+Trianna leaned back against her pack, grinning.
+
+“Infinite food storage. High-speed transportation. No wagons.”
+
+Sepio sat with his shield propped beside him, arms folded as he eyed the food still waiting near the fire.
+
+“No hauling carts. Fewer pack animals. Fewer guards just to protect supplies.”
+
+Ray nodded gravely.
+
+“Carriage companies wounded. Stablemasters offended. Quartermasters made obsolete.”
+
+“Not obsolete,” Sepio muttered. “Just furious.”
+
+Syliana looked mildly amused now.
+
+“Luna would accidentally destabilize regional logistics.”
+
+Luna listened carefully while chewing…
+
+Storage was good!
+
+Running felt great!
+
+And food was the best!
+
+But humans made all of those sound complicated somehow!
+
+Luna shrugged.
+
+Wasn’t the first time humans made simple stuff complicated! And as always, Luna decided to be the sane one in the room, and just not listen.
+
+Yip yep!
+
+Though as she chewed… understanding dawned!
+
+Oh!
+
+Luna understood now.
+
+Humans needed wagons because they could not carry enough. They needed horses because they could not run fast enough! And guards because the wagons and horses were soft, chewy, and very biteable! Then they needed shinies for all of it, and papers to explain the money, and probably more wagons for the papers too!
+
+All because humans had terrible travel bodies.
+
+“Horse is extra legs for humans,” Luna declared.
+
+Ray opened his mouth.
+
+Then closed it again.
+
+Trianna pointed at him immediately.
+
+“No, wait. Let her finish.”
+
+Luna sat taller, tail swishing with the confidence of a wolf uncovering ancient hunting truths.
+
+“But horse also needs food. And wagon. And road. And guarding.” Her ears perked. “Luna just needs snacks!”
+
+Sepio stared into the fire.
+
+“I hate that this is not entirely wrong.”
+
+Ray dragged a hand down his face.
+
+“She’s reducing the entire transport economy to leg failure.”
+
+“Because it is leg failure,” Luna said proudly.
+
+Syliana’s amusement deepened.
+
+“A great simplification, but not a wrong one. Oh, and Luna?”
+
+“Yesh?” she responded between chewy bites.
+
+“You did great understanding that, I’m proud of you.”
+
+Awooh?!
+
+Luna nearly yipped in surprise, but bit into her skewer just in time. Only her traitor tail betrayed her, swishing like crazy!
+
+Her pack laughed, while Syliana just smiled at her warmly.
+
+She could feel her cheeks warm up at that.
+
+Nuooo!
+
+Second, that was so sneaky!
+
+…Not that Luna minded.
+
+She tore another bite from her skewer, then scooted closer to Syliana without really thinking about it. The fire was warm, but Second-warmth was better! Her friend’s robe brushed softly against Luna’s arm, and the familiar herb-and-mana smell underneath the smoke made her shoulders loosen.
+
+Syliana glanced down, just as Luna looked up with perfectly innocent eyes.
+
+Trianna’s grin sharpened immediately.
+
+“Oh? Is the terrifying regional logistics disaster getting cozy?”
+
+Luna huffed.
+
+“Important pack positioning!”
+
+“Of course, of course!”
+
+Syliana’s mouth curved faintly, but she only shifted her legs to make room.
+
+That was invitation enough.
+
+Luna wriggled closer, then somehow closer still, until she ended up half sideways across Syliana’s lap with her tail sweeping lazy arcs through the grass. Syliana sighed softly, but one hand settled into Luna’s hair almost at once.
+
+Victory!
+
+Awoobsolute comfort victory!
+
+Ray watched this happen over his skewer.
+
+“I see. She destroys transportation economies, then demands lap privileges.”
+
+“Earned privileges!” Luna corrected.
+
+“Heh, so you say.”
+
+Luna ignored that and lifted her skewer toward Syliana’s mouth with great seriousness.
+
+“Second bite.”
+
+Syliana blinked at the offered meat.
+
+“Luna, I have my own plate.”
+
+“Second bite,” Luna repeated, because a ‘plate’ was not enough food in her expert opinion!
+
+Trianna covered her mouth with one hand, failing badly to hide her laughter. Syliana held out for almost three whole seconds before leaning down and accepting the bite.
+
+Mhm!
+
+Pack eating properly was important!
+
+Luna settled deeper against her, chewing smugly while warm smoke curled around the food pile and the dark forest breathed wet bark, lake water, and distant animal scent toward the camp.
+
+Her ears tilted toward it.
+
+Strong meat lived there.
+
+Probably!
+
+But for now, pack had fire, food, Second-warmth, and Luna’s superior logistics.
+
+So the prey could wait!
+
+…Just a little bit.
+
+Luna still wanted to bite it soon!
+
+***
+
+PoV Syliana
+
+The forest swallowed them gradually.
+
+At first, the trees only thickened along the edges of the lakeside path. The undergrowth grew denser by degrees, roots spread wider across the earth, and the sunlight overhead slowly broke into shifting green-gold fragments beneath the layered canopy.
+
+By the time the party fully crossed beneath the branches, the atmosphere had changed entirely.
+
+The plains behind them already felt distant. Cool, damp air replaced the open wind from earlier, and moss covered fallen trunks in thick carpets. Unfamiliar bird calls echoed between enormous trees old enough that several people together could not have wrapped their arms around them.
+
+Then, from somewhere deeper within the woodland, a massive creature roared.
+
+The sound rolled through the forest in a low, distant wave before ending in a heavy impact powerful enough to shake loose leaves from the branches ahead.
+
+Trianna glanced upward immediately.
+
+“Well. That sounds healthy.”
+
+Sepio’s hand shifted closer to his shield strap, his eyes narrowing toward the deeper forest.
+
+“Something large fighting something equally large,” he said. “Best not to become the third thing involved.”
+
+Syliana studied the disturbed foliage nearby while continuing forward at a steady pace.
+
+“Large creatures definitely inhabit the deeper regions,” she agreed. “But the outer forest should remain manageable so long as we avoid provoking the larger predators unnecessarily.”
+
+Her eyes lingered briefly on claw marks carved into a nearby trunk.
+
+The marks were large enough to be worth noting, but the edges had already dried and darkened. Several days old, perhaps. Recent enough to confirm territory, not fresh enough to suggest an immediate threat.
+
+Not immediately concerning, then.
+
+Only moderately concerning.
+
+Behind her, Luna crouched beside a cluster of bright blue mushrooms poking from beneath a fallen log.
+
+“Oho.”
+
+Syliana sighed quietly.
+
+The little wolf girl had spent nearly the entire journey getting distracted by every unusual smell, sound, and movement the forest offered.
+
+Interesting scents pulled her sideways every few minutes. Strange plants required investigation. New animal calls made her ears perk sharply before she vanished briefly into nearby brush to determine whether the sound belonged to prey, predator, or something she would later describe as “possibly friend-shaped.”
+
+Not that Luna’s definitions were anywhere close to what she would personally see them as.
+
+Everything was potential prey in her precious friend’s eyes.
+
+At one point, Luna returned proudly carrying three shiny stones for Ray and half a turtle shell that reminded her of Sepio.
+
+…It was hard to refuse such thoughtful gifts.
+
+And then she was out searching again!
+
+For once, however, Luna remained mostly near the group, and Syliana noticed the difference immediately.
+
+Even with all the distractions, the wolf girl kept circling back instead of wandering farther into the wilderness alone. Sometimes she walked directly beside Ray or Trianna for several minutes at a time before sprinting off toward another interesting smell, only to return moments later with twitching ears and excited commentary about “extremely suspicious frogs” or “tree bark that smells crunchy.”
+
+The simple comfort of traveling together again clearly outweighed even Luna’s usual urge to disappear into the nearest source of chaos.
+
+Syliana found herself strangely grateful for that.
+
+The path narrowed while the forest thickened around them. Enormous roots twisted across the ground beside patches of broad-leafed plants and shallow pools left behind by recent rainfall. Ahead, Veric pushed aside low-hanging branches with careful, economical movements while Ray consulted a partially sketched map beside him.
+
+Syliana’s attention drifted despite herself.
+
+Not away from the forest entirely. She was far too experienced for that. But part of her thoughts kept returning to the road ahead, to their destination, and to the increasingly unavoidable conversations waiting at the end of it.
+
+Luna still did not know enough.
+
+Not about the world. Nor about the older powers moving through it. And not even about what the tower trap truly implied.
+
+Syliana exhaled quietly.
+
+Soon, she would also need to explain other truths. Truths she had postponed because Luna had been injured, because the party had been recovering, because the timing had never been quite right.
+
+The timing would never be right.
+
+That was the problem.
+
+Too many possibilities branched outward from those conversations, and too many of them ended badly. Luna might misunderstand. She might not care at all. She might care in exactly the wrong way. Worst of all, she might trust Syliana completely and make the whole thing hurt more by doing so.
+
+“Syl.”
+
+Ray’s voice cut cleanly through her thoughts.
+
+The tone alone was enough to pull her attention back at once. Calm, controlled, and far too serious for anything harmless.
+
+“Yes?”
+
+Ray continued staring ahead into the trees with absolute composure.
+
+“You see those gigantic Earth Dragon-wannabe lizards beating the ever-loving heck out of that Titanoboa the size of a building way over there?”
+
+Syl blinked once.
+
+Then followed his gaze.
+
+Far beyond the trees, through gaps in the dense foliage, enormous shapes crashed violently through the deeper forest.
+
+For a moment, the scene almost refused to resolve into anything sensible. Then the moving pieces aligned.
+
+One colossal serpent had wrapped itself around a lizard-like creature large enough to flatten a cottage. Its coils tightened in slow, brutal pulses while the reptile dug claws into the forest floor and thrashed with enough force to tear whole trees out by the roots. A second scaled beast circled the struggle, head low, jaws open, waiting for an opening with the focused patience of a confident apex predator.
+
+One who never once considered the possibility of the prey not wanting to be eaten.
+
+Syliana stared.
+
+The scholar in her, unfortunately, identified details before the reasonable part of her could object.
+
+Heavy forelimbs. Reinforced skull ridges. Territorial pairing behavior, perhaps. No, not pairing. Opportunistic aggression. The serpent was large enough to be a high Tier 2 apex constrictor for this region, so unless the lizards formed–
+
+Another impact slammed through the forest.
+
+A tree vanished sideways.
+
+Ray’s voice remained almost offensively calm.
+
+“…Yes?”
+
+“Wonderful creatures. Amazing, really.”
+
+A pause.
+
+Ray finally pointed in their direction.
+
+“Anyhow, I think Luna just went to bite them.”
+
+Syl whipped around instantly.
+
+“…She did WHAT?!”
+
+***
+
+Luna had, in fact, gone to bite them!
+
+Syl caught exactly one glimpse of her fluffy silver-black fur vanishing through the trees before another distant crash rolled across the forest.
+
+Then came Luna’s voice.
+
+“Hehehehehe–!”
+
+The sound echoed through the woodland with deeply concerning enthusiasm.
+
+“Oh for the love of–”
+
+Syl was already moving before the sentence finished.
+
+Roots and undergrowth blurred beneath her boots as she sprinted through the forest, one hand tightening around her staff while the others pushed after her. Ray cursed under his breath somewhere to her left. Sepio’s armor clinked heavily behind her, steady despite the uneven ground. Veric moved ahead where the brush thickened, forcing a path through low branches with his sword.
+
+Another impact shook the earth, close enough to feel through the soles of her boots.
+
+Syl adjusted her grip.
+
+“Do not spread out!” she snapped.
+
+“Wasn’t planning to!” Ray called back.
+
+Branches snapped deeper ahead.
+
+Then one of the enormous creatures roared.
+
+The deeper forest opened abruptly into devastation.
+
+Trees lay crushed flat across a massive stretch of churned earth while the gigantic serpent thrashed violently between shattered trunks thick as towers. Dark green scales rippled across a body wider than entire wagons, its enormous jaws snapping toward two colossal reptilian beasts tearing into it from opposite sides.
+
+【Enemy Identified: Titanoboa, Elder Lake Strangler】【Enemy Identified: Stonejaw Varanid】【Enemy Identified: Stonejaw Varanid】
+
+Varanids, lesser cousins of Earth Dragons.
+
+Not that many people who saw them survived long enough to care about their exact classification.
+
+One lizard creature slammed bodily into the serpent while the second ripped chunks from its exposed side with clawed forelimbs the size of ballistae.
+
+Syl stopped at the edge of the shattered clearing because stepping farther in without a plan would get someone killed.
+
+Ray nearly collided with her shoulder, caught himself, then immediately ducked behind the remains of a broken trunk.
+
+Sepio moved to her other side with his shield already raised.
+
+Veric said nothing, but his weapon came free.
+
+And directly in the middle of the disaster zone–
+
+Was Luna.
+
+An enormous shadow-wrapped wolf darted between crashing tails and splintering trees with absolute delight pouring from every movement.
+
+“Hehehehehe!”
+
+Syl actually felt her eye twitch.
+
+Luna launched herself cleanly over the serpent’s snapping jaws before landing atop its neck in an explosion of shadow. Silver claws tore through scales while the massive creature convulsed violently beneath her.
+
+The nearest lizard-beast roared.
+
+Luna immediately roared back.
+
+Louder.
+
+“LUNA!” Syl shouted.
+
+The wolf girl’s ears perked instantly despite the chaos.
+
+Her head turned.
+
+For one horrifying heartbeat, Syl thought she might actually stop.
+
+Then Luna’s tail lashed with excitement.
+
+“Oh! Second, look! Big meat!”
+
+A tree exploded beside her as the serpent slammed half its body through the clearing trying to dislodge both Luna and the reptilian monsters currently dismantling each other around her.
+
+Syl threw up a barrier on instinct.
+
+Wood fragments struck blue light hard enough to crackle across the spell’s surface.
+
+Ray arrived fully beside her after that, breathing hard as he stared over the barrier.
+
+“…You know,” he said after a long pause, “part of me still feels surprised every time.”
+
+“How?”
+
+“I don’t know.”
+
+Ahead of them, Luna vanished briefly into shadows before erupting upward beneath one of the lizard creatures hard enough to lift the enormous beast partially off the ground.
+
+The monster crashed sideways into the serpent.
+
+Both roared simultaneously.
+
+While Luna looked utterly delighted.
+
+“She found apex predators,” Trianna observed from behind Sepio’s shield.
+
+“Yes,” Sepio answered flatly. “We noticed.”
+
+Another massive tail smashed through the clearing.
+
+Sepio braced before Syl even finished turning, shield catching the smaller debris that skidded across the ground toward them. Veric stepped in beside him and knocked aside a splintered trunk fragment before it could tumble into Ray.
+
+Luna bounded between the impacts with terrifying speed, shadows rippling wildly around her fur.
+
+Syl inhaled slowly.
+
+Then exhaled.
+
+Fine.
+
+Luna was inside the fight already. The monsters had noticed her. Pulling her out by force would mean drawing all three creatures toward the party with no prepared position, no clear retreat, and no guarantee Luna would interpret the rescue attempt as anything other than assistance.
+
+“Sepio, hold this edge. Veric, anything that breaks toward us gets stopped before it reaches Ray or Trianna. Ray, eyes on the ground and tails. Trianna, no deep shots unless Luna gives you an opening.”
+
+Trianna’s bow was already in hand.
+
+“Got it!”
+
+Ray dragged one hand down his face.
+
+“We are apparently doing this now.”
+
+“Yes,” Syl said, staff lifting as mana gathered around her fingers. “We are apparently doing this now.”
+
+The gigantic serpent shrieked, struck by an arrow.
+
+And just as one of the reptilian beasts bit directly through part of its neck, beneath the thunder of collapsing trees and roaring monsters–
+
+Luna’s excited laughter continued echoing through the forest.
+
+Her pack had entered the fray!

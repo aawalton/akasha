@@ -1,0 +1,777 @@
+---
+id: 659605f5-adca-591d-99a2-5dccdcc56a07
+page-type-slug: story-chapter-royal-road
+title: "Chapter 103: Of Happy Yips and Poses Many!"
+slug: 0104-chapter-103-of-happy-yips-and-poses-many
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 104
+ownLength: 2635
+unit: words
+publishedAt: 2026-02-24
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3088873/chapter-103-of-happy-yips-and-poses-many"
+royalRoadId: "3088873"
+---
+
+PoV Luna
+
+She inhaled–
+
+Air rushed into her chest.
+
+And then kept rushing! The feeling of holding more exhilarating!
+
+Stronger Luna!
+
+Big and greedy lungs!
+
+Luna gasped once, then twice!
+
+A happy grin spread over her muzzle.
+
+“Oh.”
+
+Each breath brought new sensations with it.
+
+Reminded Luna the changes were many!
+
+Her ribs stretched with every move. Her heart thudded heavier, stronger, a little more sure! Proper Apex Predator sure!
+
+“Oh!”
+
+She felt the tingly energies telling her to move!
+
+The promise of power hummed under her skin.
+
+Luna flexed her paws, even as she felt her Second’s fingers run calmly through her fur.
+
+“Ohhh!”
+
+The answer came instantly!
+
+Reliable!
+
+And immediate.
+
+Just waiting for Luna to flex her muscles!
+
+Her claws pressed gently into the blanket underneath, and the material dipped obediently.
+
+Good control too!
+
+Hehe!
+
+Her tail wagged.
+
+A whole lot!
+
+And then even faster as her eyes went wider, looking upon her new Status!
+
+***
+
+Name: Luna
+
+Level: 1/25
+
+Race: Velocity Reaper (Tier 1)
+
+Gender: Female
+
+HP: 120/120
+
+SP: 118/124
+
+MP: 58/88
+
+Strength: 21
+
+Dexterity: 21
+
+Vitality: 20
+
+Intelligence: 17
+
+Willpower: 9
+
+Charisma: 7
+
+Luck: 3
+
+Active Skills:
+
+Strike Lv13
+
+Bite Lv16
+
+Jump Lv14
+
+Momentum Claw Lv11
+
+Run Lv18
+
+Shadowmeld Lv12
+
+Shadow Step Lv13
+
+Lunar Form Lv5
+
+Devourer’s Maw Lv4
+
+Shadow Run Lv8
+
+Reaper’s Pass Lv1
+
+Passive Skills:
+
+Beast Instincts (Lesser) Lv2
+
+Pain Resistance Lv2
+
+Poison Resistance (Minor) Lv2
+
+Devourer’s Right Lv4
+
+Traits:
+
+Beast Constitution
+
+Gluttonous Soul – 12%
+
+Effects:
+
+Craving (Unknown)
+
+***
+
+The numbers! They all grew so much bigger!
+
+Confirming what her body was already telling her:
+
+Luna–
+
+–Was a strongerer wolf now!
+
+Awoomazing!
+
+Her ears stood tall as she pushed herself upright.
+
+And as she did, the world shifted with her!
+
+Luna blinked.
+
+Looked down.
+
+Everything looked just a little different than before!
+
+Her forelegs reached a little bit farther. And her shoulders rolled smoothly under thicker muscle. She could feel the easy strength her muscles now carried.
+
+It was…
+
+Awoo worthy!
+
+Luna shifted her weight forward.
+
+And felt her energy surge!
+
+Bright, abundant, and just waiting to be unleashed!
+
+Her eyes went wide with wonder.
+
+“Second!”
+
+Syl was already watching her, soft smile curving her lips.
+
+Luna straightened.
+
+Then stretched taller.
+
+Then tallerer.
+
+“Luna is bigger now!”
+
+Her tail thumped against the tent canvas with delighted emphasis.
+
+Then she rapidly shifted around the place!
+
+Jump!
+
+And a little run!
+
+Right into turn back and a little bit of fun!
+
+Three laps of all the moves Luna could think of, she was back where she started!
+
+Looking on at her precious friend!
+
+Syl laughed and opened her arms just in time–
+
+–Right before Luna barreled into her with all the excitement of an overeager puppy!
+
+She nuzzled right into her friend’s tummy.
+
+And then some more!
+
+Syliana squeezed her tightly in response.
+
+But it only made Luna giggle like mad!
+
+The energy still fizzing throughout her limbs.
+
+“Luna feels stronger! And fasterer! And so, so–!”
+
+She wriggled free and launched across the tent in a bounding leap. Blankets flew. She landed in a roll, yipping happily as she kicked her hind legs against the bedding.
+
+For a moment she just lay there, panting happily.
+
+“Ehehe!”
+
+She sprang up again and ran a tight circle around Syl, her paws barely touching the ground before she bounced off the far side of the ground right next to the tent wall.
+
+The space felt smaller!
+
+And easier to move through, she could feel her new Skill trying to work, the distance too small for it to find purchase.
+
+But the feeling, it was new, and weird!
+
+Very graspable.
+
+And her body felt bigger now!
+
+She skidded sideways and pounced onto the blankets again, rolling from shoulder to shoulder in pure delight.
+
+Little yips escaped her with every twist.
+
+Syliana shook her head, laughing quietly.
+
+“Luna,” she said gently, “you are still in your wolf form.”
+
+Luna froze mid-wiggle.
+
+Oh.
+
+Right!
+
+She poofed right back–
+
+–And felt the difference there too!
+
+Her human shape…
+
+It could be more or less now!
+
+The transformation tugged at her, asking a question of Luna!
+
+She could now transform… fuller.
+
+Richer!
+
+A choice of bowl of soup half full or nearly overflowing!
+
+Silly choice, Luna wanted more!
+
+And yet–
+
+The requirement barely changed!
+
+Luna blinked, her vantage point higher than ever before!
+
+Standing up, the tent seemed shorter.
+
+And!
+
+Her arms reached farther when she lifted them all the way up!
+
+Eyes sparkling, Luna immediately jumped to make use of her new reach!
+
+She stepped forward and wrapped both arms around her sitting Second right from the front!
+
+All the way around!
+
+“Ohhh!”
+
+Her golden eyes sparkled with the strength of the purest sunrise!
+
+“Luna is taller now!”
+
+She squeezed her friend, arms wrapped around Syliana, nuzzling her face close.
+
+Then she bounced on her toes!
+
+Jumped once in place, still holding Syl around the shoulders.
+
+“Hehe!”
+
+She leaned back just enough to look Syl in the face.
+
+“Thank you for watching over Luna.”
+
+Her voice softened.
+
+“And for caring!”
+
+She squeezed again.
+
+“And for being awoomazing!”
+
+Her grin widened, bright and open.
+
+“Luna loves Second!”
+
+Syliana froze up.
+
+Her elven ears colored slowly from pale to rosy pink.
+
+Then the tips flushed deeper red.
+
+“Luna…” she murmured, clearly flustered.
+
+Luna’s tail swayed happily.
+
+Ehehe!
+
+Luna victorious!
+
+Syl cleared her throat and gently set Luna back on her feet, trying to dispel the awkward blush.
+
+And failing!
+
+“...There is just one issue,” she said, eyeing her carefully.
+
+Luna tilted her head.
+
+Syl reached down and picked up the scattered gear at her feet.
+
+Then helped her put it on…
+
+Adjusted a strap at Luna’s shoulder.
+
+Then her belt.
+
+And her boots!
+
+“You grew bigger. But your gear did not. I’m glad we got it with adjustments in mind…”
+
+Luna looked down.
+
+Oh!
+
+Her tunic pulled slightly at the sides. The straps sat a little too high. And the harness needed loosening!
+
+Syl worked efficiently, tightening here, loosening there, smoothing fabric back into place, the pink slowly leaving her ears.
+
+But the blush stayed!
+
+“Stand still.”
+
+Luna tried.
+
+Even though her shoulders trembled with barely contained excitement.
+
+Her foot tapped once.
+
+Then twice.
+
+And then, finally, Syl stepped back!
+
+“There, you’re all good now.”
+
+Luna looked herself over.
+
+And grinned.
+
+“Luna will be going then!”
+
+Syl opened her mouth–
+
+But it was already too late.
+
+Luna was already through the tent flap in a streak of golden eyes and eager laughter.
+
+Time to show everyone how big she had become!
+
+***
+
+The camp did not know what hit it.
+
+One moment, the entrenched plains moved in disciplined rhythm – shields braced, lines holding, squads peeling off stray Ants with practiced precision.
+
+The light rain was little more than an inconvenience after what they endured prior.
+
+But in the very next moment–
+
+Wind snapped sideways, lifting dust in a narrow spiral.
+
+And Luna was there!
+
+Yipping happily!
+
+And cutting straight across the entire perimeter!
+
+Through the space between two rotating squads.
+
+Over a fighting Ant.
+
+And swerving around anybody unfortunate enough to be in the way!
+
+Boots and cloaks fluttered in her wake.
+
+And her cheerful shout dominated the battlefield.
+
+“LUNA IS BIGGER!”
+
+Her voice rang bright and triumphant across the fortifications.
+
+A handful of adventurers turned at once.
+
+Some laughed immediately.
+
+Others blinked, confused.
+
+One archer swore under his breath as his targeted Ant ceased to exist in the mad zoom, and then laughed at himself.
+
+Trianna, halfway through adjusting her bracer, looked up and clapped twice.
+
+“Of course she is!”
+
+Dorian shaded his eyes dramatically and leaned to one side as Luna streaked past again.
+
+“Well that explains the tremors.”
+
+Luna pivoted hard and reappeared in front of them in a spray of dry earth.
+
+“Look!”
+
+She spun once in place.
+
+Then twice.
+
+Then shot forward ten strides and back again so fast the air whooshed and cracked faintly around her.
+
+“Luna could almost run forever now!”
+
+Her tail wagged high and proud.
+
+Sepio stepped closer, shield resting against his leg, squinting.
+
+“…Did she actually grow?”
+
+Veric squinted from behind him.
+
+“Hrm, yes. That she did.”
+
+He lifted his broad hand and hovered it over Luna’s head like he was measuring a plank.
+
+“…A little bit.”
+
+Sepio leaned in, squinting hard.
+
+“…Oh, about– half a handwidth taller then? I see it now.”
+
+But Luna didn’t hear them.
+
+She was already off again!
+
+This time she leapt clean over a resting group of adventurers, landed on the rim of a shallow trench, and balanced there with impossible steadiness.
+
+Her body thrummed with newfound power!
+
+The world felt so close!
+
+She crouched.
+
+Pushed.
+
+And vanished!
+
+The distance between the trench and far off watch post simply… collapsed.
+
+A little bit!
+
+It took Luna fewer strides to get there than she thought was needed!
+
+Very weird.
+
+But so so fun!
+
+She arrived with little strain, feeling the heavy stomp of stopping less.
+
+It was… more controlled now!
+
+A defender nearly dropped his spear.
+
+“Sorry!” Luna chirped, already bounding off again.
+
+She ran all around the camp once – just once!  – to test it.
+
+Her paws barely sank into the earth.
+
+Yet her strides felt longer!
+
+And carried her farther.
+
+She skidded to a stop in front of a familiar face.
+
+“Mr. Bull, Mr. Bull! Luna strongerer!”
+
+She puffed her chest.
+
+“And bigger!”
+
+Mr. Bull grinned broadly, wiping Ant ichor from his gauntlet.
+
+“Gahaha! I can see that!”
+
+He stepped back a pace and gave her an exaggerated inspection.
+
+“Good, very good. Strong stance! Excellent posture.”
+
+Luna immediately straightened further.
+
+“Yes!”
+
+“If you keep eating well,” he continued, booming proudly, “you’ll be as big and strong as me one day!”
+
+Luna froze.
+
+Her golden eyes widened.
+
+Her ears perked straight up.
+
+“Ooooooh!”
+
+Ray, standing beside him with folded arms, sighed.
+
+“…Let’s hope not.”
+
+But Luna ignored him entirely!
+
+What Mr. Bull said was very smart!
+
+More food!
+
+Meant more strength!
+
+And more height!
+
+Very clever!
+
+She launched upward in a delighted hop and landed back cleanly on the top edge of a nearby rock.
+
+Perfectly balanced.
+
+Like all Luna moves should be!
+
+From there she could see the battlefield beyond.
+
+And how the Ants were still spilling in scattered waves.
+
+The adventurers were responding to everything all proper like now!
+
+Ready to fight back with strength and numbers!
+
+She could hear Ferric's voice over the noise.
+
+Luna grinned.
+
+“Watch!”
+
+She crouched, then blurred.
+
+A stray Ant broke past a forward facing team near the forest.
+
+It took two skittering steps–
+
+And scattered to pieces with a wet crunch!
+
+Luna pivoted and was back on the stone before the nearby squad even finished turning their heads.
+
+A few jaws dropped.
+
+Trianna laughed loudly.
+
+“Oh, this is going to be soo unbearable!”
+
+Dorian clasped his hands dramatically.
+
+“I, for one, welcome our ever faster overlord!”
+
+Luna beamed happily.
+
+Then leapt down again, ran a tight spiral around two resting adventurers just because she could, and skidded back toward the center!
+
+Her entire body buzzed with contained momentum.
+
+She could feel how the world no longer resisted her stride.
+
+It cooperated!
+
+And that–
+
+That felt very right!
+
+Hehe!
+
+She planted her feet in the dirt, chest lifted proudly.
+
+“Luna fasterest wolf there is!”
+
+Her tail swayed in a slow, satisfied arc.
+
+She crouched again.
+
+And vanished across the plains in another joyous streak of speed!
+
+***
+
+PoV Syliana
+
+The camp had changed.
+
+People still fought, and Ferric’s voice still carried sharp and precise across the plains.
+
+But something lighter threaded through it all now.
+
+Laughter and joy that wasn’t there before.
+
+Expressions just a little brighter.
+
+Syl folded her arms loosely and watched the source of it all tear across the entrenched plains in another bright streak of motion.
+
+Luna had decided that the entire expedition required immediate and repeated demonstrations of her growth.
+
+Apparently.
+
+Syl watched as Luna crossed half the camp in a breath, then skidded sideways between two defenders, tapped Sepio’s shield mid-run just to make it ring, then ducked under Veric’s arm as he attempted to intercept her.
+
+Ray then tried to step in her path.
+
+He missed.
+
+Luna clipped his elbow just enough to spin him half around before she reappeared ten strides away laughing.
+
+Cheers followed.
+
+Syl felt a smile tug at her lips before she could stop it.
+
+Luna really had such a soothing effect on everybody.
+
+She could see the stress of the past few days slowly melting away with each of her antics.
+
+It was…
+
+Very satisfying to watch.
+
+And so so precious.
+
+Trianna approached her at an angle, arms loosely crossed, eyes tracking Luna’s latest arc of destruction-disguised-as-celebration.
+
+To the dismay of some very unfortunate Ants that just happened to be in her path.
+
+“She’s going to exhaust half the camp before the Ants do,” Trianna observed lightly.
+
+Syl’s hum deepened faintly in agreement.
+
+They watched Luna attempt to trip up Veric.
+
+He pivoted cleanly.
+
+Caught her mid-charge.
+
+And with a perfectly timed twist, flung her upward into the air.
+
+“Wheee!”
+
+The delighted cry rang across the plains as Luna arced beautifully before landing in a crouch and launching off again.
+
+Trianna shook her head, grinning, before turning her way.
+
+“There is something I’ve been wondering,” she said.
+
+Syliana didn’t even peel her gaze away from the unfolding spectacle.
+
+“Yes?”
+
+Trianna gestured vaguely toward Luna, who was now attempting to outrun her own shadow.
+
+“Luna is no longer a ‘Pup’ according to the System, right?”
+
+Syl nodded once.
+
+“That she isn’t.”
+
+“So why is she still…” Trianna hesitated, searching for phrasing.
+
+“...A pup? If just a little bigger?” Syliana helpfully provided.
+
+“Right. That.”
+
+They both watched as Luna zipped between Sepio, Veric, and Ray in rapid succession, successfully tripping Ray this time and bolting away to loud laughter and a chorus of “Oi!” from the Proper Human Team.
+
+Syl exhaled softly through her nose.
+
+“…It was an interesting discovery, actually,” Syl began. “Research into the System has been ongoing for centuries. And one of the more consistent findings is that its naming conventions don’t strictly follow visible growth.”
+
+Trianna’s eyes sharpened.
+
+“Oh?”
+
+“The System categorizes and names things by maturity benchmarks relative to species norms,” Syl continued calmly. “So it remains generally, statistically, accurate...”
+
+Another streak of motion.
+
+Luna crossed nearly half the encampment in the span of a mere breath before anyone could react.
+
+Syl’s gaze followed her.
+
+“Some draconic subspecies even remain labeled Fledgelings well into Tier Two,” she added. “They just mature so slowly.”
+
+Trianna blinked.
+
+“Ohhh. So it’s not about size.”
+
+“Not primarily.”
+
+Luna attempted to tackle Veric again.
+
+He braced.
+
+She ricocheted off him and shot back away without breaking stride.
+
+“...But that is precisely why, especially adventurers, need to pay it so much attention. And how we can learn things about newly discovered species, just based on their names and Tier.”
+
+Trianna tilted her head slightly.
+
+“How so?”
+
+Syl finally glanced sideways at her.
+
+“It tells us how long a typical specimen of that race takes to mature.”
+
+Trianna nodded slowly.
+
+“And?”
+
+Syl returned her gaze to Luna, who had just cleared a trench in a single bound and landed in a perfect skid.
+
+“It also tells us something more important.”
+
+Trianna’s full attention locked onto her now.
+
+“Yes?”
+
+Syl’s voice remained level.
+
+“If you ever encounter a creature far too young for the name the System assigns…”
+
+Luna crossed from one end of the encampment to the other in a blink, leaving another wave of startled reactions behind her.
+
+“…run.”
+
+Trianna blinked.
+
+Syl’s eyes softened faintly as she watched Luna plant her foot proudly atop a defeated Ant.
+
+“They are all,” she finished evenly, “extremely dangerous.”
+
+Trianna stared for a moment longer as Luna leapt down and immediately resumed harassing the nearest adventurer team.
+
+“…Duly noted.”

@@ -1,0 +1,373 @@
+---
+id: 24969f6a-7c7b-5c64-b38c-f61c9e843682
+page-type-slug: story-chapter-royal-road
+title: "Chapter 30: Training Session"
+slug: 0030-chapter-30-training-session
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 30
+ownLength: 2419
+unit: words
+publishedAt: 2026-04-27
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3325834/chapter-30-training-session"
+royalRoadId: "3325834"
+---
+
+The announcement echoed off the arena walls, and the gate on the far side ground open.
+
+Six figures emerged from the shadows.
+
+They walked into the light the way wolves walk into a clearing.
+
+They were dressed like us. Same rough linen. Same threadbare robes.
+
+But that was where the similarity ended.
+
+Their eyes were different.
+
+Not bewildered by the sand and the crowd and the weapons scattered between us.
+
+Their eyes were hungry. Their gazes swept our group with the quick assessment of predators sizing up a meal.
+
+These people weren't here to train.
+
+They were here to kill.
+
+"Mana mutants," Gerret breathed beside me. Both ears were pinned flat against his skull. His nostrils flared wide, pulling scent from the air. "Most of them."
+
+I could see it now.
+
+The largest of the six stood at the center of their line. He was enormous. Not Roen-enormous. But, wide and dense and dangerous in ways that made my brain scream.
+
+His body was human in outline only. His hands hung at his sides, and they weren't hands. They were paws. Broad, thick-fingered, tipped with nails that curved into dark hooks.
+
+Around his neck, framing a jaw that jutted too far forward and held teeth too large for a human mouth, a mane of tawny hair bristled outward.
+
+A Lion?
+
+The others flanked him. A woman with skin that looked like scales. A boy no older than Gerret whose arms were wrong, too long, jointed at angles that let them hang past his knees. Another figure hunched low to the ground, body compact and dense, with a face that looked like it had been pressed flat.
+
+Six of them. Six of us.
+
+Except two of our six were the drunks. One of them swayed on his feet, squinting against the light. The other had vomit on his chin.
+
+The weapons lay between us.
+
+Wooden swords. Blunted spears. Shields.
+
+Scattered across the sand in a rough line at the arena's midpoint.
+
+Equal distance from both sides.
+
+Yet, not enough weapons for everyone. Whoever reached the center first had the advantage. Whoever didn't had their fists.
+
+High above, the monks watched from their stone seats. I could hear them speaking.
+
+"The lion-blood is interesting. Raw power, no refinement."
+
+"The harpy girl has potential range advantage if she uses the wings."
+
+"Lupine reflexes but underdeveloped frame."
+
+They were taking notes.
+
+This wasn't training.
+
+This was an audition.
+
+"START!"
+
+The shout came from somewhere in the upper tier.
+
+Both lines exploded forward.
+
+I didn't think. Just ran.
+
+My eyes locked onto the nearest wooden sword. Ten paces away. Eight. Five.
+
+The lion-man was coming from the other direction. Covering ground with massive, loping strides.
+
+He was going for the same weapon.
+
+I threw myself forward.
+
+My boots left the sand. My body stretched horizontal, arms extended, fingers reaching.
+
+I hit the ground in a slide that drove sand into my mouth, my eyes, under the collar of my robe. The wooden sword's grip slapped into my palm and I closed my fingers around it.
+
+I rolled. Not by choice. By instinct. Something massive was right above me, a sweep of clawed fingers that passed through the space my head was an instant before.
+
+I came up on one knee, sword raised.
+
+The lion-man's paw hit the blade.
+
+The impact was beyond anything I'd experienced in sparring.
+
+Not like Brandt's measured strikes. Much less like Roen's controlled half-speed swings. This was raw animal force.
+
+My arms screamed. The shock traveled through the wooden blade, through the grip, through my wrists and forearms and into my shoulders.
+
+For one terrible instant, I was certain the sword would snap in half.
+
+It didn't.
+
+The wood held. The blade bowed under the force but didn't crack.
+
+The sword survived.
+
+My arms were a different story.
+
+I scrambled backward, boots digging into sand, trying to create distance. The lion-man didn't give it to me.
+
+His yellow eyes tracked me with the focus of a cat watching a mouse decide which direction to die in.
+
+His next strike came from the right. A sweeping backhand that would have caved in my ribcage if it connected.
+
+I got the sword up. The wood shuddered again. My right wrist bent at an angle that sent a spike of pain up to my elbow.
+
+Before I could recover, the left paw followed. Same trajectory. Same devastating force. Coming from the opposite side while my blade was still committed to the first block.
+
+I twisted. The paw clipped my shoulder instead of my skull. Even the glancing blow spun me sideways and nearly took me off my feet.
+
+He kept coming.
+
+Overhead. I blocked. My knees buckled.
+
+Low sweep. I jumped it, lost my footing in the sand, caught myself with one hand.
+
+Double strike. Right, left, right again. Three impacts in two seconds. Each one jolted through the sword and into my skeleton.
+
+Somewhere above us, the monks' voices continued.
+
+"The black-haired one. Interesting grip. He's absorbing the impacts through his wrists rather than his arms."
+
+"Sloppy footwork though. Lateral movement is non-existent. He retreats in a straight line."
+
+"The lion-blood isn't using technique at all. Pure instinct. That's a problem we can address."
+
+"The human, though. Too many corrections needed. Stance is narrow. Recovery time is glacial. He has the most work ahead of him."
+
+The most work.
+
+I could hear them ranking us. Filing us into boxes labeled "potential" and "hopeless."
+
+I was at the bottom.
+
+But I was still standing.
+
+The five-minute wall didn't come.
+
+Five minutes passed, then six, then seven, and my lungs burned, yes, my muscles ached, absolutely, but the catastrophic collapse I'd come to expect didn't arrive.
+
+Twenty days on the road hadn't built muscle.
+
+My arms weren't thicker. My chest hadn't expanded. My body was the same thin, underfed scholar's frame it had always been.
+
+Still, something had changed.
+
+Stamina.
+
+The morning runs behind the carriage. The afternoon weight exercises. The evening spars that Roen wouldn't let me quit until my body simply refused to obey. All of it had done something that wasn't visible in a mirror but was felt in every breath.
+
+I knew how to breathe, how to save my strength. My blocks weren't costing me as much. Each parry used the minimum force required. No wild, overcommitted defenses that burned through my reserves.
+
+Ghost's lessons.
+
+Stop having shoulders, he'd said.
+
+I hadn't understood then. I understood now.
+
+The problem was on the other side.
+
+I could defend. But when I attacked, nothing happened.
+
+I found an opening. A gap between his wild swings where his left side was exposed. I drove the wooden blade into his ribs with everything I could muster.
+
+The impact landed clean. A solid hit that should have made any human double over.
+
+The lion-man grunted.
+
+That was it.
+
+A grunt. As if I'd nudged him with a broom handle.
+
+He came at me again.
+
+I tried his shoulder. A chopping overhead that cracked against the meat of his trapezius.
+
+He shook his mane and kept swinging.
+
+His head. I timed a horizontal slash that caught him across the temple. The wood connected with a sharp crack.
+
+He wobbled. Half a step sideways. Then steadied himself.
+
+The wooden sword couldn't hurt him.
+
+I needed a weak point.
+
+Every creature had one. The wyverns' mouths. The acid sacs behind their cheeks.
+
+This thing had a lion's body.
+
+Eyes. The eyes were always vulnerable. A solid strike to the eye socket would cause enough pain and disorientation.
+
+I watched his patterns. The way his right paw always led. The way his chin dipped before the overhead swings.
+
+There.
+
+His next right-hand strike came. I parried it, redirected, stepped inside the arc of his follow-up. For one clean instant, his face was exposed. I shifted my grip, angling the sword's tip toward his left eye, and began the thrust. But never connected. A scream tore the arena apart.
+
+Not mine.
+
+The sound came from my right. Twenty paces, maybe less.
+
+My eyes snapped toward it. I couldn't stop them.
+
+One of the drunks was down.
+
+The opponent standing over him, a compact mutant with arms too long for his body, held a wooden sword. Or what had been a wooden sword. The blade had snapped during the fight. A jagged, splintered stake of hardwood that was now buried in the drunk's abdomen.
+
+Through it.
+
+The point jutted from the man's back. His hands clutched at the shaft protruding from his stomach. Blood poured between his fingers.
+
+He coughed.
+
+Red spray misted the air.
+
+His mouth worked, yet no sound came out. His eyes were staring at the sky with the bewildered terror of someone who had just realized, this was the final seconds of their life.
+
+I waited for the whistle.
+
+For the shout from the stands. For the monks to call a halt.
+
+None of it came.
+
+Two soldiers dragged the drunk man out of the arena, each gripping one of his arms.
+
+The monks continued their discussion, unfazed.
+
+“Penetrating wound, abdominal cavity. He’s already served his purpose.”
+
+“An improvised weapon. Unrefined, but effective.”
+
+They kept taking notes.
+
+A roar erupted from the opposing team.
+
+The long-armed mutant raised the broken, bloodied sword above his head. It was a victory howl.
+
+The others answered.
+
+Their attacks intensified. Where they'd been aggressive before, now they were frenzied.
+
+They smelled blood.
+
+They wanted more.
+
+The lion-man surged at me.
+
+His attacks came faster, wilder. I parried. Ducked. Sidestepped.
+
+I held.
+
+The minutes stretched. Each one was its own war.
+
+The other fights raged around me. I caught fragments in my peripheral vision. Gerret, bleeding from a gash across his chest, darting between two opponents with his lupine speed, his teeth bared and his ears pinned flat. Lyra, wings half-spread, using a wooden spear to keep distance, her face a mask of rage.
+
+The second drunk was also removed from the arena.
+
+I didn't see how it happened. I heard the sound. A crunch followed by a gurgling sigh that trailed off into nothing. By the time I glanced over, he was being taken by the soldiers.
+
+Two deads?
+
+The monks made no move to intervene.
+
+Until, at the end a trumpet sounded.
+
+It rang once, twice, three times.
+
+"Training session concluded! Next session will resume tomorrow at dawn!"
+
+The lion-man stopped mid-swing.
+
+His paw hung in the air for a heartbeat, the claws inches from my face. His yellow eyes blinked. The frenzy drained out of them. He lowered his arm, huffed once through his broad nose, and turned away without another glance.
+
+I stood in the sand. My sword arm hung at my side. The wooden blade's tip dragged through the grit.
+
+I looked at my teammates.
+
+Marcus was on his feet, but barely. His left arm hung at his side at an angle that made my stomach lurch. The forearm was bent where there was no joint, the bone clearly snapped beneath the skin.
+
+Gerret stood hunched over, both paws pressed against his chest. Blood seeped between his fingers. The cut ran from collarbone to sternum, deep enough to part the linen and the flesh beneath.
+
+Lyra.
+
+I found her last.
+
+She was on the ground. Her wings were spread in the sand around her like a fallen bird's. One leg was drawn up against her chest. The other was wrong.
+
+The shin was bent at a forty-degree angle midway between knee and ankle. The bone hadn't just broken. It had come through. A white shard of tibia jutted from the skin.
+
+She wasn't screaming. She was past screaming. Her face was gray. Her amber eyes stared at nothing.
+
+Soldiers entered the arena. Armed men with spears, forming corridors of steel that separated the two teams.
+
+Two soldiers scooped Marcus under the arms and hauled him toward the far exit. He didn't resist. He walked with them, his broken arm swinging limply, his boots leaving uneven tracks in the bloodied sand.
+
+Lyra couldn't walk.
+
+They put her on a stretcher. Her wing dragged across the ground as they lifted her.
+
+They carried her out through a different gate than the one we'd entered.
+
+Gerret and I were herded back toward the cells.
+
+The corridor swallowed us. The mana-glow returned, cold and blue against stone walls.
+
+Our cell door opened. We were pushed through. The iron groaned shut behind us.
+
+The pallets where the drunks had slept were empty.
+
+Nobody had collected their blankets.
+
+I sat on the floor with my back against the wall.
+
+Gerret lowered himself to his own pallet, wincing with each movement, and pressed a wadded strip of his robe against the wound on his chest.
+
+"Is it always like this?" I asked.
+
+Gerret didn't look at me.
+
+"Yes," he said. His voice was tight, each word squeezed through the pain. "The training sessions don't prevent injuries. If someone wins during training, they earn points. Less than an official match, but points are points."
+
+He shifted, hissing through his teeth.
+
+"Most teams prefers it this way. In official matches, they give us real weapons." His lupine ears twitched. "In training, it's wood and fists."
+
+He looked at me then.
+
+"For mutants, bare hands are better than swords. Their bodies are weapons. Claws, teeth, muscle density three times what a normal human can build. Training sessions with wooden swords favor them. They don't need the edge."
+
+He pressed the cloth harder against his chest.
+
+Silence settled over the cell.
+
+I lay on the cold stone and stared at the ceiling.
+
+Fighting while being a slave was terrible. Still, when I looked at my arm, when I felt today’s adrenaline, I knew. As insane and sadistic as it was, I’d learned a lot in a short time. If death and injuries weren’t an issue, I could grow. A lot.
+
+However, tomorrow would come.
+
+Marcus might not survive another fight with a broken arm. Lyra's shattered leg would take weeks to heal, weeks she didn't have. Gerret's wound would stiffen overnight, slowing him, making him vulnerable.
+
+I closed my eyes.
+
+I didn't want them to die.
+
+I didn’t know them well enough, but they didn’t seem like bad people. They didn’t deserve to die. Maybe not even the drunks deserved it, but there was nothing I could do for them anymore.
+
+But wanting wasn't enough. Hope didn't stop a lion-man's claws or a broken sword driven through a belly.
+
+I needed to be better.
+
+I need to die.

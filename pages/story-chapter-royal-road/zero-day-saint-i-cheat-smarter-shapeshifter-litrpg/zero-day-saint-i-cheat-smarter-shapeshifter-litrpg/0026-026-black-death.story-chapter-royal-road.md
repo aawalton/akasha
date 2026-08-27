@@ -1,0 +1,266 @@
+---
+id: b47cea18-48f9-5db8-8506-190b07a9ac9c
+page-type-slug: story-chapter-royal-road
+title: "026 - Black Death"
+partOf: zero-day-saint-i-cheat-smarter-shapeshifter-litrpg
+position: 26
+ownLength: 2506
+unit: words
+publishedAt: 2026-05-24
+link: "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3438561/026-black-death"
+royalRoadId: "3438561"
+---
+
+I woke up. Considering the circumstances, that hadn't been a guarantee. I was also a human. That made less sense. They weren't supposed to cheat anymore. But it also meant that there was no pain. I briefly considered if it had all been a bad dream, maybe a bad trip, but then I opened my eyes and saw my Guardian Angel playing chess with my Devil Guide.
+
+The dynamic at display was the opposite of what I would have expected. Gabriel was smiling, not that smile of warmth and kindness I was used to seeing on her, but a smile of calculated victory. She'd created a trap, and Lucy was struggling to spot it before it was too late. Lucy was leaning over the board, utterly enthralled by trying to decipher the board state.
+
+Considering the age difference, Gabriel was being a bit cruel, dunking on a child like that. I remembered my actions of last night, and immediately banished the idea of ever calling Lucy a child again.
+
+I was in some kind of bedroom. Sparse furniture and a broken window, through which I could see the bright summer sky. Judging by the sun's shadow, it must have been close to noon. According to the blue outline, this was also still somewhere in the fire station. Did people sometimes sleep at those?
+
+My ATP sat a comfortable 7/7. I still had four attribute points to distribute, but that could wait until I knew what I was dealing with today.
+
+'Virginia Opossum' (daily)
+
+'Pheasant' (daily)
+
+'Cape Buffalo' (daily)
+
+That was odd. Those mostly did fit my categories, besides the pheasant. I didn't have a personal connection to pheasant. I raised my Intuition by two points. Maybe that would help. The other two I put into Strength and Endurance. I definitely would need opposable thumbs today. And with my own shield, and triple the mass, I could at least hold a line beside Jamie, if the need did arise.
+
+Even my raised Intuition still agreed that I was probably on the right track, but that I was missing something. Lucy's comments, or rather the lack of, had implied two important things. That there was another entity at the scale of the Wyrm in play. And the previous one, when they had applauded Jamie for their sense of story, that one implied that this entity cared about story. Which explained why cheating might be terrible, since no storyteller liked that. And Lucy being able to steal and present the ring, further confirmed it. They weren't really cheating. Only in the mechanical sense. They did what they could have done anyway, but with panache. This Dungeon Master applied the Rule of Cool, where appropriate? Was this why I kept barely surviving? I didn't like that implication.
+
+But everything else, every randomness that wasn't, was explained if the Wyrm's counterpart didn't sit in Hell's magic, but in Heaven's. Fudging what was supposed to be random, to make a better story happen.
+
+Those two couldn't tell me about it, but certainly they could answer if I asked, right?
+
+I slowly lifted my head, still working through it all, and tried to ask. "Hey—" I didn't get much further.
+
+The moment I looked up, Lucy's head snapped over. "She's figured it out." Both of them rushed up, wooden chairs toppled over, and Gabriel pushed her hand over my perplexed mouth.
+
+Lucy sat down on the bed next to me and put a finger to their lips.
+
+"The first rule of Shared-Secret-Club is: We do not talk about the Shared-Secret-Club."
+
+What?
+
+Gabriel slowly pulled her hand away. "You just got to a big realization, did you?"
+
+I nodded.
+
+"Yeah, do not talk about it." Her brows furrowed. "Did you raise Intuition to puzzle this out?"
+
+I nodded again.
+
+She chuckled and shook her head. "It's a good stat to raise. And I should have seen this coming. The second you relax you worked it out."
+
+Before I could ask either of them any of the myriad questions on my mind—which I was still working out how to ask—I noticed something odd in my interface. Next to my Task Completions was a countdown. 63 out of 180 seconds, ticking down.
+
+There were three completions in there. I scrolled past the wall-of-text that was the reward for 50 kills to find the one that was ticking down.
+
+The next one was for hitting a dangerous enemy for more than twice its health. That one got me a huge trait:
+
+[Certified Threat (Trait)
+
+Effect: +1 to all base Attributes]
+
+I selected 'accept', causing the next one to scroll up. This one had a countdown next to the accept button, and I could see why. There was no sitting this one out. I could accept it, or it would happen on its own once that timer ran out.
+
+[Suffer more than 200% of total health as Self-Inflicted Damage within 24 hours.
+
+Reward: Minor Weakness (Fear Effects) [Debuff - 48 hours]
+
+After 48 hours: Practiced Recklessness (Trait - permanent)
+
+10% reduced self-inflicted damage taken.]
+
+I clicked accept. If this stupid Blessing was going to punish me, it would at least begin on my own terms. The debuff icon appeared under my ATP bar.
+
+"You have absolutely no right to pout at that," Gabriel said. That smile she'd just shown was washed away, and for the first time I saw barely-restrained anger on her face, her lips pressed together.
+
+Lucy looked up at Gabriel, winced, and vanished. Good to know that they wouldn't have my back here.
+
+Gabriel's eye snapped to the space Lucy had inhabited till just now and then bore back into me.
+
+"What you just discovered? That has nothing to do with the fact that you are still alive today. You got lucky on far too many factors. No amount of goodwill by any outsider could have caused that. You were stupidly reckless and nearly ruined your own eternity right at the finish line. You know who saved you from suffocating due to your own collapsed lung? Ash. Ash had a spell that could do nothing but stabilize people at the brink of death. There was no one to heal you, and any further hit would have meant your end."
+
+Gabriel's voice had been steadily rising, and at this point she was nearly shouting. She stopped herself, closed her eyes, and took a deep breath. I knew better than to say anything. She clearly wasn't done.
+
+"The others had to fight tooth and nail to save everyone. Save you, save Annika. Which they only rallied for after you had killed the first of them. But that result does not justify the recklessness behind your self-destructive action. You are smarter than this and I expect better from you in the future."
+
+She paused again, and I swallowed before replying. "Okay," I squeaked.
+
+"Well done. You made it past the tutorial."
+
+"What happened afterwards?"
+
+"When the Blessing, unjustifiedly in my opinion, rewarded you for surviving and you got your reset, the impala was no longer available. So you shifted back to this shape on your own. I asked Annika to use a healing spell on you that put you into deep sleep."
+
+"You asked her to tranquilize me?"
+
+Gabriel narrowed her eyes. "Don't give me that look. Yes. Both because you wouldn't have stopped until you hit exhaustion and… and because this conversation would have gone very differently if we had had it at that point. Which might have negatively impacted our ongoing cooperation."
+
+I ran a hand through my hair, or tried to. It was caked in blood.
+
+"Fuck," I said. "I'm sorry."
+
+Finally, her features softened again. "Don't do this again, okay?"
+
+"Okay. Next time I'll try to have insurance."
+
+Gabriel straightened back up. "Now check out that upgrade you got there, and then take a shower. Others found a nearby thrift store. There should be something in there you can wear that isn't covered in blood."
+
+Her eyes drifted to the side. She was using the chat herself.
+
+["Get back here, coward. We aren't done yet."] She wrote.
+
+["Are you done being spooky?"] Lucy asked.
+
+There was that smile again. ["Only toward Eve."]
+
+I'd been gone for six hours and they had developed their own rapport. Which, considering how difficult their work had been, was probably for the best.
+
+That one reward was still sitting there. Suddenly I didn't envy Jamie's bracer anymore.
+
+[Collar of the Mercurial Warrior (Item Enhancement)
+
+Replaces: Collar of the Loyal Guardian
+
+Grants Shape: Golden Retriever (Cost: 1 ATP)
+
+Contains two slots for additional attuned shapes.
+
++2 to all physical attributes while shapeshifted. Bonus doubled in shapes granted by Collar of the Mercurial Warrior.
+
+Attunement Cost: 1 infused ATP
+
+Attunement Requirements: Access to desired shape, or consumption of shape's heart.]
+
+Gabriel and Lucy were back to their game, which they miraculously hadn't toppled over in their rush.
+
+"What's an Item Enhancement?"
+
+"That's the Blessing giving you an upgrade without handing out spare items to pass around."
+
+I clicked accept. There was a tingling sensation around my neck, and a fresh Bonding timer appeared, counting down two minutes.
+
+"Makes sense. What does it mean when an ATP is infused?"
+
+"It reduces your permanent points while the point is infused. You can reclaim those points at any time, but it won't refill by itself."
+
+"So if I use this right now I go down to 6 out of 6, and if I release it I'll be at 6 out of 7?"
+
+"Correct."
+
+"Damn. This is good."
+
+"It is. I think the Blessing is spoiling you, considering the reckless kill you got it through."
+
+"That plus one to all also applies when shifted?"
+
+"Yes, it does." She really was still mad. I wasn't entirely sure if at me or the GM. No, not GM, this needed a better name. Fate. Obviously.
+
+There was no mirror in sight, so I swung my legs off the bed. I wanted that shower, too.
+
+"How does it look?"
+
+Both guides looked up at me.
+
+"This will look great once you get a suit," Lucy said.
+
+"Better than the last one," Gabriel said.
+
+"Why will I get a suit?" I asked.
+
+"I caught another look at Evil-Eve and she just looks really good in that suit. And you know, with what you just learned, consider how you present yourself."
+
+"Surely a suit will not—wait, what? When? How? Why?"
+
+"Claire is going around, organising different groups of Blessed. Helping people find their loved ones and such. When she came in here, her devil used the opportunity." Their smile gave away their approval of that devil's actions. That bitch stole my face and Lucy thought it was funny.
+
+"To do what?"
+
+"She had a bit of a chat with Jason before anyone noticed. Now Claire is staying outside."
+
+I left the room only to turn around and poke my head back in. "Where are the showers? Where are the clothes? And will you please stay in this room while I shower? I'd prefer to know I'm having some privacy."
+
+"Showers to the left," Gabriel said. "Clothes are to your right in the common room."
+
+"Oh, Eve," Lucy said. "It isn't your exposed flesh that's hot. It's your mind."
+
+I left again. I wasn't even sure if they were trying to compliment me there or insulting my looks. According to my minimap none of the others were in the common room right now, though a single blue dot started beelining for me from outside, the moment I'd left my room.
+
+The common room looked worse for wear, besides the obvious entire missing outside wall, some furniture had taken a heavy beating. At least the kitchen and the couch were more or less intact, and at one side someone had set up some camping tables on which the scavenged clothes were laid out.
+
+It wasn't Jamie who came in through the broken wall—who I had automatically assumed would come looking for me—it was Ash. Even he had hit level 5 last night.
+
+"Eve! I'm glad that I caught you."
+
+I picked a blank sky-blue t-shirt and continued looking for pants.
+
+"Hey, Ash. I've had neither my shower nor a coffee. But I have a minute. What can I do for you?"
+
+"You seemed to have missed my question yesterday."
+
+"Conservation of kinetic energy."
+
+At first his brow furrowed; then his eyes widened.
+
+I grinned. "Want to know what the highest Task Completion I got for achieving a certain 'unassisted speed'?"
+
+"How fast?"
+
+"Over 400 miles per hour."
+
+"Holy shit."
+
+"Don't talk about it too much." I leaned in closer and lowered my voice. "I'm afraid of getting nerfed."
+
+"You think that's possible?"
+
+"I am not entirely sure. Did you happen to absorb any books on wildlife?"
+
+"Yeah, some. The others are scouting our vicinity right now and picking up most books they find."
+
+"Okay, do you know anything about Cape Buffalo? They are like wild cows, right?"
+
+"You're serious? Wild cows? Eve, you are a proper city girl, aren't you?"
+
+"Look, I mostly enjoyed nature as a screen saver. They are not like wild cows?"
+
+"They are like wild cows, the same way mountain lions are like wild housecats."
+
+"Hol' up. Are they actually dangerous?"
+
+"Eve. They are called the Black Death. They are among the three deadliest herbivores on this planet. Their head is a reinforced battering ram."
+
+"The others are hippopotamus and?"
+
+"Elephants."
+
+"Duh. Yeah. So arguably the deadliest herbivore for urban combat. How much do they weigh?"
+
+"One to two thousand pounds."
+
+I navigated to the menu that came with my new collar and infused the one ATP to lock that shape in. Gabriel being this pissed just took on another dimension. Fate had seen what I had done and told me to do it again, but harder.
+
+I could see the moment Ash had combined what he had just told me with what I had told him earlier. This could get very silly very fast. And my resistances to self-inflicted damage would not save me from messing around with it.
+
+I put a finger to my lips and gave Ash a wink. "Thanks for the info. Did you happen to hear if anyone found the Bronx Zoo?"
+
+"No, I don't think so. I'll ask Claire, maybe she can ask around."
+
+"You talked to her a lot?"
+
+"A while now. I'm trying to map out where other groups are and assist her with some questions. If you find a chemistry textbook or two, I'll owe you. She has some ideas, but neither of us knows how to make those bombs work properly."
+
+"Jesus." Of course she was building bombs. I would, too, if I had bodies to spare on failed experiments. "Did she mention me?"
+
+"No. Should she?"
+
+I finished picking up my new outfit and went for the showers. "I suppose she shouldn't. Thanks, Ash. You know… for saving my life."
+
+"Oh, it was just, like, a cantrip. No big deal."
+
+I shook my head. "Big deal to me."

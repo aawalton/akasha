@@ -1,0 +1,663 @@
+---
+id: b5fe16ed-9422-58ce-9b50-255570d6827b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 112: Of Careful Plans, and Yippy Shadows"
+slug: 0113-chapter-112-of-careful-plans-and-yippy-shadows
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 113
+ownLength: 3029
+unit: words
+publishedAt: 2026-03-18
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3166871/chapter-112-of-careful-plans-and-yippy-shadows"
+royalRoadId: "3166871"
+---
+
+PoV Syliana
+
+The road back to the city had been pleasant.
+
+Pleasant enough that Syliana had allowed herself to enjoy it.
+
+The weather had cleared beautifully after the rains, the plains stretching wide and bright beneath a high blue sky while the wind carried the warm smell of grass and distant farms. Their journey back had taken most of the day, but no one seemed particularly eager to rush it. The tension of the expedition had faded with every mile they put between themselves and the ruined part of the forest.
+
+Even Luna had eventually slowed down.
+
+Well.
+
+Relatively speaking.
+
+Now the stone streets of the town spread out before them once more, familiar sounds rising from the market district as merchants called to passing customers and wagons rattled along the cobbles. The bustle of civilization had returned after the days spent in the wilderness.
+
+Their destination stood near the center of it all.
+
+The Adventurers Guild.
+
+The wide building was already busy when they stepped inside, though far less than what she was used to. Most of the Guild’s adventurers being out on the expedition certainly made the place feel calm in comparison.
+
+…And just a little hollow.
+
+Even if the remaining adventurers did their very rowdy best to leave the impression of the opposite.
+
+Despite only a few people around, conversations still filled the large hall, overlapping voices mixing with the clatter of mugs, and the occasional laugh.
+
+Syliana paused just long enough to sweep her gaze across the room.
+
+“Let’s report before someone drags us into a conversation,” she said quietly.
+
+Trianna snorted softly.
+
+“Good luck with that.”
+
+They immediately beelined for Julia. The girl was still dutifully doing her best, despite the lower volume of work. There was something quietly reassuring in that.
+
+Syliana idly wondered if the girl appreciated the slower days.
+
+And felt a smidge of guilt of having to crash into that.
+
+Julia looked up as they neared, her eyes sharpening for a fraction of a second before surprise and recognition settled in. The shift was subtle, but Syliana caught it – the slight easing of tension in her shoulders, the controlled exhale that followed.
+
+“You’re back. And earlier than expected?” even as she asked, Julia’s eyes searched for any signs of emergency.
+
+Relieved when she saw none.
+
+“Yes,” Syliana replied evenly.
+
+Julia had already pulled a ledger closer, fingers curling around her quill with efficient familiarity.
+
+“Report.”
+
+Direct. Focused. Exactly as expected.
+
+Syl rested her hand lightly against the counter, grounding herself in structure – ordering the information before it left her mouth.
+
+Then, bit by bit, relayed everything that happened, and why they were here earlier than expected. How each day passed, the difficulties they faced, and how they dealt with them.
+
+The Queen hunt, and Luna’s Ant culling.
+
+Julia captured it all, distilling chaos into record with steady, practiced motion.
+
+By the time Syl finished, the page was filled edge to edge.
+
+“So the others are finishing the cleanup then?”
+
+“Indeed,” Syl said. “And securing whatever of value remains.”
+
+A faint tightening around Julia’s eyes.
+
+“Were there any losses?”
+
+“None, though there were a few close calls.”
+
+Julia relaxed at that, and soon Syliana was done relaying the news.
+
+“You mentioned having Ant corpses to dismantle?”
+
+Syl inclined her head slightly.
+
+“Indeed. Luna has them, and seems very interested in keeping some of the parts too. But given their amount… Everybody should be satisfied.”
+
+Julia accepted that without comment.
+
+But before they could continue, Syliana felt the shift beside her before she saw the particular ripple of energy that always accompanied Luna’s enthusiasm cresting into action.
+
+“Oh! Yes! Luna has this!”
+
+Luna stepped forward, bright and entirely unbothered by the tone of the room.
+
+Her hand dipped into shadow, emerging a moment later with a full ant corpse – still faintly carrying the scent of acid and chitin.
+
+She placed its head on the counter with unmistakable pride, the rest flopping onto the ground.
+
+Two others joined it before Julia managed to shout out ‘Wait!’.
+
+Then pointed the slightly confused Luna to the side doors.
+
+“Big monsters for dismantling go there. The nice man there will tell you where to place them, okay?”
+
+Syl watched the little exchange unfold with mild amusement.
+
+But Luna was a smart girl, and she got it straight away.
+
+A loud ‘Yip-yep!’ and the disappearing Ant corpses were their only cue that the girl got the message – and already left.
+
+Ray followed after, and not even two minutes later they heard another commotion.
+
+“Stop, stop! That’s enough. We really do not have the capacity to process more at this time!”
+
+A slightly disappointed Luna popped back up next to them moments later.
+
+Syl placed her hand gently atop her head, ruffling her hair before any bad feelings could set in.
+
+“You did great.”
+
+A bright smile and a cute little ‘ehehe’ told Syl the praise worked.
+
+And it made her smile too.
+
+Julia continued noting things down, before bringing out a clinking pouch from the back.
+
+“…I cannot pay you in full at this time, not without Guildmaster Ferric’s approval, and without the dismantler’s assessment. Especially since you still have more, yes?”
+
+A little nod from Luna.
+
+“Then, if there is nothing else, we will continue the processing tomorrow?”
+
+There was a faint snort somewhere behind Syl – Ray, most likely – but Julia did not so much as glance up.
+
+Professional, as ever.
+
+Which Luna immediately put to test by zipping around the hall to greet her Guild friends.
+
+Syl allowed herself the faintest smile, the small tension she had not consciously acknowledged easing now that the report was complete.
+
+And felt it further melting away at Luna returning to pompf directly into her abdomen.
+
+She patted their precious little companion before turning away from the counter.
+
+“Let’s go,” she said, already walking towards the exit, with Luna hanging onto her side.
+
+Behind them, the guild remained as it was – though the news and Luna’s passing made it just a little more lively, she could tell.
+
+“One step closer to rest,” she murmured quietly.
+
+Beside her, Luna’s tail wagged happily.
+
+“And soup!”
+
+Syliana allowed herself a small smile.
+
+Yes.
+
+Probably soup first.
+
+***
+
+The guild hall was still buzzing when they stepped back out into the streets.
+
+Syliana suspected the news they brought will keep that gossip-hungry lot occupied for the rest of the day.
+
+Possibly longer.
+
+She adjusted the strap of her satchel as they moved through the afternoon crowds. The city felt lively under the warm sunlight, merchants hawking from their stalls and travelers taking to the roads.
+
+Which was when she noticed Luna was no longer with her and now very intently browsing through the stall fingerfoods.
+
+And Trianna followed behind to tease her about picking something for the two of them.
+
+Syliana shook her head in amusement.
+
+It was nice seeing the party getting along so well.
+
+Very nice indeed.
+
+It felt… good to just relax a little.
+
+But there was still work to do.
+
+“First stop,” Syliana said calmly, guiding the group down a quieter side street, “our room, I have alchemy ingredients to retrieve.”
+
+Ray raised an eyebrow.
+
+“Straight back to work already?”
+
+Syliana glanced at him briefly.
+
+“The day is still young, and thanks to Luna there is more than enough for me to work on for a couple days, at least.”
+
+That was putting it mildly.
+
+Between what she bought last time, the herbs Luna had enthusiastically gathered during their earlier quests, the various oddities they had recovered in the forest, and what she still planned to stock up on, it became a remarkable collection of ingredients.
+
+Plus, it sounded very reasonable to her, to get to processing it all as soon as she was able. A good way to spend the time and ensure ingredient potency didn’t waste away.
+
+But when even Veric turned to look at her judgingly, she felt the need to amend her statement anyhow.
+
+“...I will rest in the evening.”
+
+Reaching their destination, Syliana unlocked the door and stepped inside.
+
+Only for Trianna to lean against the wall, a snack in one hand, and Luna’s hand in the other.
+
+“You know,” she said, “most people take a day off after exterminating a nest of giant ants.”
+
+Syliana looked at her.
+
+And noticed their cute little wolf girl happily nomming on a whole array of such snacks – too busy eating to care about the world around her.
+
+She shook her head.
+
+“And waste perfectly fresh materials?”
+
+She shook her head once.
+
+“Unthinkable.”
+
+Trianna snorted at that, but left her be, ruffling Luna’s hair instead.
+
+It made Syl a little jealous…
+
+But work comes first. She will get her share of fluff in the evening.
+
+Yes, definitely.
+
+Soon enough, everything needing retrieving was retrieved, Luna adding in some more from her Maw.
+
+Syliana tied the last bundle neatly and straightened.
+
+“I’ll need a proper workspace.”
+
+Ray tilted his head.
+
+“Planning to find something to rent?”
+
+Syliana smiled faintly.
+
+“Indeed. My alchemist friend might just lend me theirs, or recommend something.”
+
+And if that failed, there were a couple workshops in the city that rented tables and alchemical equipment by the day. Slightly more expensive, but nothing they couldn’t afford.
+
+Syliana gathered the rest of the materials into her satchel before turning toward Luna, and kneeling before her.
+
+The little wolf girl perked up immediately.
+
+“Second?”
+
+Syliana reached into her own pouch and produced a small vial filled with softly glowing blue liquid.
+
+“That’s the last mana potion I have on me now,” she said.
+
+Luna’s eyes sparkled instantly.
+
+“For Luna?”
+
+“Yes.”
+
+Syliana placed the vial carefully into her hands, then smiled.
+
+“It’s for practice.”
+
+She tapped the girl lightly on the forehead.
+
+“Your shadow skills have been improving quickly, but they still need refinement.”
+
+Luna straightened immediately.
+
+“Mhm! Then Luna will do the practice thingy!”
+
+Syliana nodded toward the door.
+
+“But only out in the open, somewhere outside the town.”
+
+Ray chuckled quietly.
+
+“Probably wise.”
+
+The last time Luna experimented with her skills in a closed up space, a good chunk of the Ant nest ceased to exist.
+
+Syliana turned toward the others.
+
+“Please supervise her.”
+
+Sepio sighed, but accepted his fate easily enough.
+
+“Of course.”
+
+Trianna grinned.
+
+“We’re not as crazy as you are though, so we will be taking turns and having some fun on the side!”
+
+Syliana barely suppressed a smile.
+
+“…And I wouldn’t have it any other way.”
+
+Luna bounced excitedly on her feet, trying to drag Trianna with her.
+
+“Pack go! Go! Luna practice time!”
+
+Syliana gave her one last gentle pat on the head.
+
+“Take your time,” she said calmly.
+
+Then she slung the satchel over her shoulder and stepped toward the door.
+
+“I’ll return once the preparations are complete.”
+
+Ray leaned casually against the doorway as she passed.
+
+“Try not to melt the building.”
+
+Syliana smiled faintly.
+
+“No promises.”
+
+Then she stepped out into the afternoon sunlight and headed toward the alchemist shop, already planning the first set of mixtures she intended to prepare.
+
+And behind her–
+
+Luna was already vibrating with excitement.
+
+Syliana smiled.
+
+She was sure it would be fine.
+
+And mighty fun.
+
+***
+
+PoV Luna
+
+The moment Syliana disappeared down the street, Luna spun around toward the others with bright, eager eyes.
+
+“Practice!”
+
+Ray laughed under his breath.
+
+“Here we go.”
+
+They didn’t stay in the town long.
+
+Practicing strange shadow skills inside town limits would be a questionable idea after all, so the group made their way back out through the gates and toward the open fields beyond the walls.
+
+After stocking up on some things here and there.
+
+Her pack had their needs.
+
+And Luna found more snacks she wanted!
+
+She chomped onto a nicely crunchy thingy that was half fried dough, half strips of meat, mixed with egg and some sauce on top!
+
+Tasty!
+
+But also very normal?
+
+Luna considered the treat for a moment.
+
+And decided it needed more spice!
+
+…It didn’t stop her from nomming up all the rest of it though!
+
+Nuh uh!
+
+Not at all.
+
+Apex Predators do not waste their food!
+
+A bit of walking later and they found themselves out in the larger plains again.
+
+The afternoon sun leaned comfortably above the plains now, still warm but no longer oppressive. A light breeze moved through the tall grasses, carrying the smell of earth and distant farms across the open land.
+
+Perfect!
+
+Luna bounced ahead of the group until they reached a wide patch of open ground dotted with a few low rocks and scattered bushes.
+
+Plenty of space.
+
+Plenty of shadows!
+
+And plenty of fun to be had!
+
+She turned to face them, bouncing lightly on her toes.
+
+“Okay!”
+
+Trianna crossed her arms and looked around the field.
+
+“Alright, pup. Show us what you’ve got.”
+
+Luna nodded very seriously.
+
+“Yip yep!”
+
+She planted her feet and concentrated.
+
+And the shadows beneath her feet stirred.
+
+This time they gathered slowly, creeping along her boots like curious ink. She focused on the feeling Syliana had described earlier – direction, intent, shaping the idea of what she wanted the shadow to do.
+
+Wrap.
+
+Flow.
+
+Hide.
+
+The darkness slid upward along her legs, spreading over her clothes, a thin veil settling all over her.
+
+Shadow Cloak!
+
+It felt a little different now.
+
+The shadows obeyed more easily, reacting to her intent faster, and pooling around her form until her outline blurred slightly against the ground.
+
+Luna tilted her head, examining her hands.
+
+“Oh!”
+
+That was neat!
+
+Ray walked slowly around her, squinting.
+
+“…Huh.”
+
+Sepio scratched his beard thoughtfully.
+
+“You’re a little harder to see.”
+
+Trianna grinned.
+
+“Quite! Very dangerous looking. But–”
+
+She looked at Luna closely, then pointed all around at the sunny fields.
+
+“–you still stand out like a sore thumb out in the open like that, you know?”
+
+Luna nodded, then beamed proudly.
+
+“Yes!”
+
+But it was hardly the end!
+
+Shadow Step.
+
+One moment she stood in between her pack assessing her.
+
+And in the next–
+
+She popped out of another shadow several strides away, giggling.
+
+“Hehe!”
+
+Ray blinked.
+
+“…Well.”
+
+Trianna’s eyes sparkled, and she cracked her knuckles.
+
+“That… Actually gives me an idea.”
+
+Luna tilted her head.
+
+“Awoo?”
+
+Trianna pointed at her.
+
+“Let’s see if we can catch you… But you’re only allowed to use your shadow skills.”
+
+Luna’s eyes widened.
+
+Then sparkled.
+
+“Oh!”
+
+Her grin spread slowly.
+
+Yes! That sounded like fun!
+
+Proper fun.
+
+Luna wanted to try!
+
+“Yesh! Let’s go!”
+
+Ray immediately stepped to one side while Sepio moved to the other, instinctively spreading out, practically setting up a battlefield formation.
+
+Trianna pointed forward.
+
+“Alright.”
+
+She smirked.
+
+“Catch Slippery Shadow Luna begins now!”
+
+Luna gasped dramatically.
+
+“Oho!”
+
+Then she turned and started her Shadow Run!
+
+The game began immediately.
+
+Ray lunged first, trying to grab her shoulder as she darted past him–
+
+But a single Shadow Step made him miss entirely!
+
+Trianna tried next.
+
+But Luna just flickered sideways through a thin shadow cast by a rock, Shadowmelding herself just barely out of her friend’s reach, laughing loudly.
+
+“Hehehe!”
+
+This was so much fun!
+
+Sepio tried next.
+
+He moved carefully, attempting to cut off her escape path instead of chasing her directly, and acted the very moment Luna got distracted!
+
+For a moment it almost worked.
+
+Luna skidded toward the gap–
+
+Then the shadows rippled across her body again.
+
+Shadow Cloak blurred her outline and made her just slippery enough that she slipped forward a little faster, making Sepio misjudge the distance.
+
+【Shadow Cloak Lv. 1 → Lv. 2】
+
+And she got a level out of it!
+
+Nice!
+
+“Too slow!”
+
+Ray laughed.
+
+“Oh this is going to be fun.”
+
+They began working together after that.
+
+Ray darted left while Sepio blocked right. Trianna advanced straight down the center, arms spread wide, acting the role of a hunter closing a trap.
+
+Luna zigzagged wildly through the clearing.
+
+Shadow Step.
+
+Shadowmeld!
+
+Shadow Cloak.
+
+Shadow Run…
+
+And Shadow Step again!
+
+Each situation a little different.
+
+Fun and new every time!
+
+One time she vanished entirely for a heartbeat before reappearing behind Sepio with a yell, startling him.
+
+Then slipped through narrow shadows cast by rocks or grass.
+
+And even popped out directly behind Ray just to poke his back before sprinting away again.
+
+“Hehe!”
+
+“Hey!”
+
+Trianna lunged.
+
+Missed.
+
+Sepio tried to corner her near a bush–
+
+She rolled sideways and disappeared through the shadow beneath it.
+
+“Slippery little menace,” he muttered.
+
+Luna’s laughter carried across the field.
+
+“This is awoomazing!”
+
+And it sure was.
+
+The game went on.
+
+Back and forth.
+
+Again and again!
+
+Each attempt brought the others closer to catching her as they learned her patterns, but Luna kept adapting too. She began chaining the abilities together – cloak to blur her position, step to relocate, cloak or meld before they could track her properly.
+
+And run when she needed to get away!
+
+The shadows obeyed her eagerly.
+
+Luna felt fast!
+
+Light.
+
+And almost untouchable!
+
+Until eventually–
+
+Her mana ran dry.
+
+The shadows around her flickered weakly and dissolved.
+
+Her next Shadow Step simply… didn’t happen.
+
+Luna managed three more running strides before her legs gave out entirely.
+
+She collapsed onto the grass with a loud fwump, limbs splayed in every direction.
+
+“Ahaha–! That was so fun!”
+
+She lay there staring at the sky, chest rising and falling rapidly while the wind brushed through the grass around her.
+
+“…Okay,” Ray said, breathing a little harder than before.
+
+“That was actually impressive.”
+
+Trianna dropped down beside her and poked her cheek.
+
+“Got you.”
+
+Luna tried to protest.
+
+But all that came out was a happy, exhausted wheeze.
+
+Sepio wiped sweat from his forehead and looked down at the sprawled wolf girl.
+
+“…Next time,” he said dryly, “we start the game before she invents another shadow trick.”
+
+Luna giggled weakly.
+
+Totally worth it!
+
+And she still had the potion from Second for another round!
+
+Her eyes drifted closed for a moment while the warm sun soaked into her head fur and the wind rustled softly through the field.
+
+Practice had been fun.
+
+Very fun.
+
+Catch Slippery Shadow Luna was the best game!

@@ -1,0 +1,217 @@
+---
+id: d1a48b3f-ff96-5d2c-9e96-53f2f46857e4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 40: Old Stones, Fresh Stink"
+slug: 0040-chapter-40-old-stones-fresh-stink
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 40
+ownLength: 1314
+unit: words
+publishedAt: 2025-09-29
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2638704/chapter-40-old-stones-fresh-stink"
+royalRoadId: "2638704"
+---
+
+PoV Luna
+
+Luna was mad!
+
+Her paws clicked sharply against the broken ground, tail snapping side to side. They had reached the boring ruins – the not-corrupt, not-icky ones – and suddenly her new-pack forgot how to move!
+
+They all just stood there with wide eyes and slack mouths, staring at a triangle doorway like it was made of jerky.
+
+Why?!
+
+Luna circled it twice, nose wrinkling. What did they see she could not?
+
+Sniff, sniff. It smelled of dust. Old rock. Not meat, or spice, or anything nice! No fun at all. A big empty chew with no flavor hiding inside.
+
+She barked at the silly dum dums once.
+
+Then again, louder!
+
+Nothing! Barely even a twitch from her Second!
+
+Her fur bristled.
+
+They were supposed to hunt! Not to admire rocks!
+
+The ugly ogre stink was close too. She could still taste it in the back of her teeth. And yet– her new-pack was here. Just staring.
+
+What the bark for?! Weren’t they on a mission?
+
+Hunt first! Stare later!
+
+Sepio tried to speak up.
+
+Blah blah ruins. Blah blah ancient. Blah blah valuable.
+
+Sepio’s voice rumbled, heavy and slow.
+
+“These ruins… Velssarin origin… valuable find…”
+
+Blah, blah, blah!
+
+Luna only bothered to listen to bits and pieces – too angry to care!
+
+She nearly bit the wall out of frustration! Nearly bit the stone for real, but thought better of it. Rock wasn’t food! Not even victory training food.
+
+Instead her paws scuffed, dust puffed, and she huffed until her whiskers twitched.
+
+Then Syl spoke, voice smooth as river water, calm enough to make the others quiet down.
+
+“This is a sealed site. We should be careful.”
+
+Luna tilted her head. Careful? Wrong word. Bite was the right one! Claw was an even better one. Careful was the boring one!
+
+The others gathered anyway, muttering about cracks and leylines and doors. Trianna prodded a vine with her arrow. Ray crouched low, tracing little lines in the dirt. Even Veric looked thoughtful instead of fighty.
+
+Luna groaned loud enough to echo. Then louder. Still ignored.
+
+Her tail smacked the dirt in angry thumps, a drumbeat for her patience dying. Fine. If no one else remembered what a pack did, then she would remind them!
+
+She trotted to the center of the group, puffed her chest out, and let her ears stand tall.
+
+“Awoo!”
+
+Finally, heads turned.
+
+She wagged at them, sharp and proud.
+
+“Pack tactics!” she barked. “Boring rocks not food. Look later! Hunt ugly first!”
+
+Ray blinked at her. Sepio frowned deeper, all shadow-eyes and stiff shoulders. Veric made a rude snort.
+
+Trianna tried to hide a laugh behind her hand, but her shoulders shook anyway.
+
+Syl didn’t laugh. Her Second gave her that soft, sharp look – the one that meant patience. The one that tried to herd her like she was the silly pup!
+
+Luna bared her teeth in a pout, tail stiff.
+
+“No patience. Bite now!”
+
+The ruins stayed still. And would stay still! They would be there later, sitting all quiet like boring rocks do! But Luna was ready now! So her tail wagged once anyway, stubborn and fierce.
+
+They could have their old rocks and scratches later. She wanted revenge.
+
+And the big bad ugly was waiting!
+
+The elf crouched until her calm eyes met Luna’s. Her scent was steady, patient, and annoyingly certain.
+
+“We’ll get there, Luna. First, we learn what we face.”
+
+Luna’s ears sagged. Her tail thumped the dirt once, loud with her irritation.
+
+But fine. If her Second said wait… she would wait.
+
+She plopped onto her belly with a heavy flop, chin pressed to her paws. Golden eyes never left the dark triangle doorway.
+
+Boring stones. Old stink.
+
+Her tongue flicked over her chops anyway. Prey liked to hide behind dark places. And if anything crawled out, she would bite first.
+
+That was proper tactics!
+
+It wasn’t long before Syl eased down beside her, cloak brushing moss. Her voice stayed soft and clear.
+
+“These are Velssarin ruins,” Syl explained, touching the pale wall with careful fingers. “See the triangle mouth? And the spires that poke at the sky?”
+
+Luna squinted. Pokey rocks, pointy for no reason. Still not food.
+
+“The Ancients built them,” Syl went on. “They chose places where leylines were strongest. Then they drank that power. Shaped it into trinkets, gadgets, all sorts of magic-stuff. Whatever still remains would be very important.”
+
+Luna’s ears perked at the drink word. Stew? Broth? Her jaw parted in hope. Then Syl’s hand brushed dust instead of ladling soup, and her tail slumped flat.
+
+The elf smiled faintly at her disappointed antics.
+
+“Even broken, pieces of Velssarin craft are rare. Valuable. People often search such ruins for treasure. Or fame.”
+
+Luna blinked. Her tail tapped the moss once. Treasure? Fame?
+
+The only treasure Luna knew… was spice!
+
+And jerky!
+
+And everything tasting nice!
+
+Nearby, Veric rested one hand heavy on his sword hilt. Completely out of the reverie now.
+
+“I want something strong to hit,” he said flatly.
+
+Trianna rolled her eyes with an amused huff. Ray crouched low, gaze sharp on the carvings. Sepio muttered steady words about fortune and risk.
+
+So that was their hunt.
+
+Gold, glory, smash!
+
+Luna groaned, loud and dramatic, ears flicking so every one of them would hear her pain. She lifted her head high enough to pout properly.
+
+“Luna want soup,” she announced with a hopeful awoo.
+
+Trianna’s laugh escaped before she caught it. Syl only shook her head, patient as ever.
+
+But Luna meant it!
+
+None of the bone-white walls smelled like stew. None of the pokey spires tasted like jerky. Why stare at rocks when there were bellies to fill?
+
+Her stomach gave a low gurgle of agreement, and her tail swished spitefully.
+
+Dumb priorities!
+
+After more muttering, map-pointing, and wall-staring, the dum-dums finally decided.
+
+The ruins weren’t going anywhere, Syl said. They would cleanse the corruption first, then loot later.
+
+Finally!
+
+Luna huffed, tail lashing hard against the dirt, but she padded after them all the same.
+
+Back to their slow circling walks. Careful steps and deadly force. Boring, creeping, travel through vines and moss.
+
+She tagged along at the edge, her sound sniffers swiveling every which way. Whenever the silence grew too heavy, she broke it with teeth. A squirrel went down in one quick crunch. A barky rat squealed, snapped up mid-step.
+
+Progress tasted better with snacks!
+
+Then–
+
+Sniff.
+
+Her paws locked up. Nose stretched wide, sucking in air, sensing familiar scents.
+
+Again. Sharper this time.
+
+The stink.
+
+Sap-heavy, rot-thick!
+
+Her ears shot tall, hackles bristling. A low growl crawled up her throat before she even thought about it.
+
+She sniffed harder, desperate to be wrong. No mistake. Not forest-rot, not frog-slime, not swamp-belly. This was older. Crueler.
+
+And familiar.
+
+Her chest clenched with the memory of crushed bark and broken bone. Of wrong blood spattered across den stones.
+
+Bigger than big.
+
+The ogre.
+
+It had found them!
+
+Her tail stiffened to a spear. Lips peeled back until her fangs gleamed. She barked once, sharp as lightning.
+
+Then again, the loudest she could, enough to shake birds from branches. Bark so clear even dum-dums could not miss it.
+
+Danger!
+
+The air thickened, heavy with promise. Leaves trembled in waves. The ground whispered of the approaching weight. Something vast pushed closer, bending the forest in its wake.
+
+Sepio’s hand flew to his shield, the metal rasp loud against the silence. Trianna’s bowstring creaked, arrow half-drawn already. Veric slid his blade free, steel flashing like a hungry grin. Ray moved into the shadows of the nearby trees, eyes glinting faintly as his presence thinned.
+
+And Syl… Syl didn’t reach for steel at all. She only turned, eyes finding Luna’s. Calm, steady,  and sharp.
+
+Luna’s chest thumped once, twice. Breath fast. Tail still locked stiff.
+
+Now they listened!
+
+Now her new-pack heard the bark.

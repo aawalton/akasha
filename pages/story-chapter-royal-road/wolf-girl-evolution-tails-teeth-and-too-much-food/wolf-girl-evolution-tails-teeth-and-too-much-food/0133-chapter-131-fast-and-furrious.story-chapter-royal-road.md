@@ -1,0 +1,691 @@
+---
+id: 2024b0a3-daea-5ad5-92f8-81ae4cbc6773
+page-type-slug: story-chapter-royal-road
+title: "Chapter 131: Fast and Furrious!"
+slug: 0133-chapter-131-fast-and-furrious
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 133
+ownLength: 3151
+unit: words
+publishedAt: 2026-06-10
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3520937/chapter-131-fast-and-furrious"
+royalRoadId: "3520937"
+---
+
+PoV Luna
+
+The moment the town vanished beyond the distant curve of the plains, the pack immediately abandoned the main road.
+
+One second everybody followed the wide trade path normally alongside passing merchants and wagons.
+
+The next, Ray pointed toward a low stretch of grassland hills off to the west and the entire group changed direction without hesitation.
+
+Luna followed automatically while bounding through knee-high grass.
+
+“Oh! Sneaking plan?”
+
+“More or less,” Sepio answered.
+
+The plains rolled endlessly around them beneath open blue sky, broken only by scattered rocks, distant tree clusters, and occasional old fence lines swallowed slowly by wild grass. Wind swept steadily across the landscape, carrying warm earth smells and faraway rain.
+
+Excellent running weather!
+
+“We already discussed this beforehand,” Syliana explained while adjusting the satchel against her hip. “If anybody connected to the tower incident is watching the roads, there is no reason to make tracking us easier.”
+
+Luna nodded wisely despite only paying partial attention.
+
+It sounded like important human thinking.
+
+Not Luna’s problem!
+
+Bored, she immediately exploded sideways into a sprint because the world remained large and zoomable!
+
+Wind roared through her fur while Shadow Run spilled darkness beneath her feet in flickering waves. The plains blurred past as Luna bounded across uneven ground hard enough to leave shallow craters behind every landing.
+
+“Hehehehehe–!”
+
+Each step carried the town-smell farther behind her. Stone dust, crowded streets, guild papers, too many doors, too many walls – all of it slowly thinned beneath the wind.
+
+Luna breathed deeper.
+
+Grass. Dirt. Road. Distant trees.
+
+Strange people had passed here! Strange wagons too. Animals she did not know. Food she had not tasted. Places her paws had never touched.
+
+Her tail started wagging harder before she even noticed.
+
+Leaving town felt so good after being cooped up for so long! Even though it had friends, sandwiches, soup, and Mister Grevan’s glorious spice…
+
+Out here Luna felt alive!
+
+And better too!
+
+Awake all the way down to her paws, with no more weird dizziness to assault her when she least expected. Only slight numbness remained, a reminder she was hurt before.
+
+Second said it was bad, and to never do something so reckless again–
+
+But Luna was fine now!
+
+…And for her pack, she would do it again.
+
+The road stretched ahead, full of mystery-smells and maybe-danger and almost-certain snacks. The promise of which dispelled any lingering bad thoughts.
+
+Her grin spread wide.
+
+Awoo, this was going to be good!
+
+She looped far ahead of the group before circling back around them at absurd speeds, kicking up sprays of dirt while the others maintained a much steadier jogging pace below.
+
+Veric barely looked winded.
+
+Everybody else looked considerably more mortal.
+
+Luna landed beside Trianna briefly while still moving fast enough to run circles around her.
+
+“Slow.”
+
+“You are literally using shadow magic to cheat movement,” Trianna replied between breaths.
+
+“Still slow!”
+
+“Rude.”
+
+Luna grinned and launched herself away again before retaliation arrived.
+
+The excitement buzzing through her chest was almost too big for her body to contain properly. Every new scent made her ears twitch. Every distant shape on the horizon pulled curiosity tighter beneath her ribs.
+
+But underneath all of it–
+
+Pack still smelled worried.
+
+Faintly.
+
+And if not for the smell, Luna would not have been able to tell!
+
+The jokes continued naturally while they traveled. Ray and Trianna argued over navigation shortcuts while Sepio occasionally quipped at them both with increasing exasperation.
+
+Normal pack sounds!
+
+Yet the worry smell lingered.
+
+Luna stopped her sprint, watching the group from atop a large rock outcropping.
+
+Then she scrunched up her face in thought.
+
+They had left the town already! The gates were behind them. The watching humans were behind them. Nobody was stopping them now! The road was open, and Luna was doing excellent travel.
+
+Not town worries then!
+
+So why they still worry?
+
+Maybe tower-worries?
+
+But the tower already happened!
+
+Finished. Bitten. Done!
+
+So why worry?!
+
+Wrr!
+
+Luna didn’t know!
+
+Hmph, humans were so bad at leaving things behind.
+
+But if pack kept moving, then worry could move too. And if it followed too close, Luna would bite whatever carried it.
+
+Yesh!
+
+Satisfied with this extremely solid conclusion, Luna bounded back toward the others again!
+
+Her feet hit the road in a happy rhythm, and she hummed to it!
+
+Thump-thump-thump!
+
+Thumpy dumpty hum-harrumpty, Luna is out to get soup and jerky~!
+
+But–
+
+Wait-woo, why was pack still so–!
+
+She squinted, watching her packfriends make progress though the plains. With their sad little slow human boot-steps.
+
+Luna’s ears tilted.
+
+She bounded ahead. Turned. Bounded back. Circled once around Syl, then Ray, then the whole pack for proper inspection.
+
+–Slow, yep!
+
+Her tail lowered with great concern.
+
+The plains stretched on forever in front of them, full of smells waiting to be chased, and her pack was poking at it one tiny step at a time.
+
+One. Step. At. A. Time.
+
+Terrible!
+
+Luna skidded beside Syl and stared at her legs. Then Ray’s, and Sepio’s, and Trianna’s and Veric’s.
+
+Veric had the best ones, probably. Longest. Steadiest. Sturdiest!
+
+Still too slow.
+
+“Pack legs bad,” Luna announced.
+
+Ray looked down.
+
+“What.”
+
+“For travel,” she clarified helpfully!
+
+Trianna made a strangled noise that sounded like she had swallowed laughter wrong.
+
+Syl closed her eyes for one small moment.
+
+“...Luna.”
+
+But Luna was already thinking very hard! About how her slow humans had bad travel legs.
+
+Yet–
+
+Luna had good travel legs!
+
+And her newest Form had even better travel legs. Big, strong, awoomazing legs!
+
+Her ears shot up.
+
+“Oh! Luna has an idea!”
+
+Ray took one step back.
+
+“No.”
+
+“Yip yep!”
+
+“No to whatever just happened in your head.”
+
+“Luna fixes friends!”
+
+Trianna leaned forward, eyes bright.
+
+“I desperately want to know how.”
+
+“Hehe! Simple! Pack rides Luna!”
+
+Silence and dumbfounded faces was their only response.
+
+As for Luna?
+
+She struck Proper Human Pose and puffed proudly!
+
+“Slow problem defeated!”
+
+Her brilliance was truly frightening!
+
+And it came in the form of the newest Apex Predator shape tucked under her Lunar Form skill. It made Luna big and strong, and able to take her packfriends places!
+
+Excellent form!
+
+Luna’s grin widened.
+
+“Uh oh,” Ray commented, while the rest of the pack looked immediately concerned.
+
+“That sound never leads anywhere safe,” he pointed out.
+
+“Pack should stop running!”
+
+Silence.
+
+Trianna blinked once.
+
+“…What?”
+
+Luna puffed proudly and shifted into her Shadowmerged Wolf form immediately. Shadows rippled outward around her body while silver fur spread rapidly across her body. Bones shifted. Limbs lengthened.
+
+A massive silver-black wolf stood where Luna had been moments earlier, towering over the grass with glowing gold eyes and large enough now that even Veric needed to look slightly upward.
+
+The group stared.
+
+Luna just wagged her tail hard enough to flatten grass behind her.
+
+Then she lowered herself proudly, presenting her back with great and obvious patience.
+
+Trianna’s squeal of delight could hardly be contained.
+
+While Ray just looked horrified.
+
+“That sounds catastrophically unsafe.”
+
+“Counterpoint,” Trianna added after a brief pause, “it also sounds hilarious.”
+
+Sepio rubbed slowly at his forehead.
+
+“There are at least twelve ways this could end badly.”
+
+Luna huffed loudly through her muzzle.
+
+“Luna, you have never transported people before,” wisely noted Ray.
+
+Another huff.
+
+Syliana glanced up at Luna.
+
+“Luna says she has transported food before.”
+
+Sepio stared at the massive wolf.
+
+“That is not even the same category.”
+
+Luna gave him a deeply unimpressed look.
+
+Syliana sighed.
+
+“She also says pack is smaller than big boar.”
+
+“That concerns me even more,” Ray admitted.
+
+Meanwhile Veric stepped closer toward Luna’s transformed shape, studying her carefully with calm professional focus.
+
+“Hrm.”
+
+Luna straightened proudly, showing off under the ‘inspection’.
+
+Finally the warrior placed one hand briefly against the thick fur along her shoulder.
+
+“Looks strong enough.”
+
+Syliana looked upward at Luna for several long moments.
+
+Then sighed softly.
+
+“That still does not necessarily mean safe.”
+
+Luna lowered her enormous head closer immediately and gave Syliana the most offended look she could manage, then tried to mlem Syl, only to be deftly dodged.
+
+Unfair!
+
+A bit of huffing, barking, and awooing later, Syliana finally looked convinced…
+
+And conflicted.
+
+“She wants to know if we distrust Luna transportation technologies,” she translated.
+
+Trianna burst into laughter nearby, while Ray dragged one hand down his face.
+
+“Of course she does.”
+
+Luna waited patiently!
+
+Well, mostly patiently.
+
+Her tail still wagged hard enough to shake nearby grass.
+
+Syliana held her gaze for one more long moment.
+
+“…We will test it carefully.”
+
+Victory!
+
+Abwoosolute victory!
+
+***
+
+The experiment began with entirely reasonable caution.
+
+Which Luna tolerated for almost three minutes!
+
+“Carefully,” Syliana repeated while standing beside Luna’s new massive Shadowmerged Wolf form. “We are testing whether this is even practical.”
+
+Luna huffed warm air across the grass.
+
+Very practical!
+
+Syliana’s mouth twitched.
+
+“She says it is very practical.”
+
+“You have never carried passengers before,” Ray said.
+
+Luna’s ears flicked once.
+
+Nuh-uh.
+
+Syliana looked at her.
+
+Luna stared back.
+
+Then her ears lowered slightly.
+
+Fine. Maybe not packfriends.
+
+Technicalities.
+
+Even in the larger wolf form, Luna quickly discovered she could not comfortably carry the entire pack at once. Veric alone with all his gear weighed approximately the same as a couple deer and one small boar.
+
+One person worked easily!
+
+Two felt manageable.
+
+Three probably possible if Luna cheated with shadows and momentum!
+
+Which obviously meant Luna cheated immediately!
+
+Darkness curled naturally along her sides as she lowered herself toward the grass. Shadowy tendrils wrapped carefully around Ray’s waist and shoulders before anchoring him securely against the thick fur between her shoulders.
+
+Luna lifted her head proudly, announcing the Apex Predator version of human groups nonsense.
+
+Syliana glanced at her, then sighed.
+
+“She says Luna’s Awoomazing Transportation Services are officially operational.”
+
+Ray stared down at the shadows currently functioning as restraints.
+
+“I trust this even less than actual rope.”
+
+Luna huffed.
+
+Shadow safe! Trust Luna!
+
+Syliana translated with clear reluctance.
+
+“Apparently, shadows are safe.”
+
+“That really tells us nothing, you know?”
+
+Trianna leaned sideways against Sepio while openly grinning.
+
+“Oh this is going to be incredible!”
+
+Sepio looked far less optimistic, but didn’t stop Ray from becoming the first tester of Luna’s Awoomazing Transportation Services.
+
+Syliana stepped closer to Luna’s head and rested one hand briefly against her fur.
+
+“Just go slowly,” she warned quietly.
+
+Luna nodded seriously.
+
+Then accelerated!
+
+Grass exploded beneath her paws.
+
+And Ray’s scream vanished into the wind.
+
+Hehehe!
+
+Luna went fast!
+
+Just not zoom fast!
+
+The plains blurred around them while Luna bounded across uneven ground in massive crushing strides. Wind roared through her fur as Shadow Run spread instinctively beneath her paws, darkness rippling outward alongside each impact, giving her more grip and letting her slide ahead just a little faster.
+
+Behind her, Ray clung to the shadow restraints with the expression of a man discovering entirely new categories of regret.
+
+“You turn like a drunken avalanche!”
+
+Luna’s ears flicked back.
+
+Rude!
+
+Also wrong.
+
+Tactical movement!
+
+“That was a boulder!”
+
+Luna cleared the boulder completely.
+
+Ray made a noise usually associated with religious revelations.
+
+The shadows tightened automatically around him when his panic spiked sharply, stabilizing his balance before he could slip sideways from the momentum.
+
+Luna noticed without really thinking about it.
+
+Passenger nervous.
+
+Need steadier running!
+
+Her next turn widened instinctively.
+
+Interesting!
+
+Luna smart even without thinking, yesh!
+
+Time to test that some more!
+
+***
+
+By the time they looped back toward the others, Ray looked spiritually displaced from his body.
+
+Trianna reached Luna almost immediately.
+
+“Hey, I’m next!”
+
+“But you saw what just happened!”
+
+“Yes!”
+
+“And that encouraged you?!”
+
+Luna stopped beside the group, proudly puffing out her chest.
+
+Transport of one slowpoke human completed!
+
+Ray slid slowly off her back with visible care.
+
+“I need several minutes to reconsider reality.”
+
+Sepio watched Luna from beside his shield, brow furrowed.
+
+“You adapted mid-run.”
+
+Luna blinked.
+
+Huh?
+
+“The turns became smoother after Ray nearly slipped.”
+
+Syliana noticed it too. Her eyes tracked slowly across the shadows still rippling faintly through Luna’s fur.
+
+“You slowed every time he became more agitated,” Syl murmured.
+
+Luna tilted her massive head sideways.
+
+Did she?
+
+The thought barely had time to settle before Trianna climbed aboard. Unlike Ray, the archer woman looked delighted at the riding prospect from the very beginning.
+
+“Oh, this is absolutely irresponsible!”
+
+Luna’s tail lashed happily.
+
+Finally, a reasonable passenger!
+
+Their ride shall be legendary!
+
+The shadows wrapped securely around Trianna’s waist and legs, and Luna launched forward.
+
+Trianna’s laughter echoed across the plains almost immediately.
+
+“FASTER!”
+
+Yesh!
+
+Luna accelerated harder this time. Momentum gathered beneath her enormous strides, wind flattened the grass behind them in long rippling waves, and shadows streamed naturally off her body like living smoke.
+
+And the faster she moved, the more everything aligned!
+
+Her larger form carried a strange half-shadow weight to it now, heavy and light at the same time. Once speed built properly, the world resisted her less. Darkness gathered beneath her paws, swallowed the worst of each impact, and smoothed the next stride before the ground could argue.
+
+The plains blurred, even as the wind roared louder.
+
+Luna grinned wide enough for silver fangs to flash through the rushing air.
+
+Oh.
+
+Oh, this was awoomazing!
+
+By the third trip, even Sepio reluctantly agreed to testing.
+
+“This is a mistake,” he informed everybody while climbing carefully onto Luna’s back.
+
+“Probably,” Ray agreed.
+
+“Definitely,” Syliana added.
+
+“Not really!” happily quipped Trianna, disheveled and grinning madly.
+
+Ehehe!
+
+The shadows secured Sepio firmly against her side before she surged forward again.
+
+Unlike Trianna, Sepio reacted to speed by becoming increasingly rigid. Every sudden shift locked his posture tighter. Every leap made his weight brace harder against the shadow restraints. Every sharp turn sent tension through him before Luna fully finished the motion.
+
+So Luna adjusted.
+
+Her landings evened out. Her pace steadied. Her turns widened before Sepio’s balance could fight them.
+
+Excitement slowly gave way to curiosity.
+
+She could feel how her passengers pressed through the shadows clearly now. Their weight, tension, fear, and balance. The shadows tightened when someone slipped, braced when movement turned rough, and spread support where Luna’s stride pulled too hard.
+
+【Shadow Run Lv. 10 → Lv. 11】【Beast Instincts(Lesser) Lv. 3 → Lv. 4】
+
+Pack carrying skills!
+
+The instinct settled warmly through her chest.
+
+Mine. Safe. Carry properly!
+
+Meanwhile Sepio looked deeply offended by the entire concept of transportation.
+
+“Horses exist for a reason.”
+
+Luna’s ears flattened, and she looked pitifully toward her Second.
+
+Syliana exhaled.
+
+“She says horses are weak, and Luna is superior transport.”
+
+“That is not how transportation standards work,” Sepio muttered after nearly getting flung sideways during landing.
+
+Luna huffed with great dignity!
+
+Trianna collapsed laughing farther back along the trail.
+
+Trip after trip carried the pack steadily westward toward the distant forest stretching dark along the horizon.
+
+With every run, Luna grew better at it. The strange fusion between shadow and flesh inside her transformed body answered more eagerly to her will and whims, darkness rippling along her fur while the wind tore past hard enough to flatten her ears backward.
+
+Luna still avoided zoom speeds, but–
+
+–Faster felt right!
+
+The world narrowed beautifully at high speed. Smells sharpened, terrain unfolded ahead in flowing patterns, and every stride connected into the next while shadows devoured obstacles beneath her paws.
+
+The others became lighter too.
+
+Or maybe Luna simply learned how to carry them properly, using her shadows to ablate the winds, smoothing the ride even further!
+
+Either way, the movement felt incredible.
+
+And Luna intended to go even faster!
+
+***
+
+By the time the pack finally regrouped near the forest edge, shaving away two entire days of travel, Luna physically could not stand still anymore.
+
+Her oversized wolf form dissolved back into her smaller shape in rippling shadows, but leftover momentum still twitched through her legs. She paced around the group instead, circling through the tall grass while her tail lashed excitedly behind her.
+
+Fast travel remained the greatest invention in Luna history!
+
+Possibly tied with sandwiches.
+
+But not spice!
+
+Spice still was king!
+
+Ahead of them, the plains finally gave way to woodland.
+
+The forest stretched across the horizon in vast dark-green waves broken only by the enormous lake cutting through the landscape beside it. Sunlight flashed brightly across distant water while the deeper forest beyond thickened into layered shadows and ancient towering trees.
+
+Luna’s nose twitched constantly.
+
+Water, wet earth, moss, old bark, fish, and animal trails all tangled together beneath the trees. Deeper underneath waited heavier scents. Predator scents. Big ones!
+
+Interesting ones.
+
+“Ohhh,” Luna breathed.
+
+The others gathered nearby while recovering from repeated transportation experiences. Ray still looked mildly traumatized whenever Luna moved too quickly near him, while Sepio spent several quiet moments checking his gear after the last run apparently redistributed half of it sideways.
+
+Trianna looked completely delighted instead.
+
+“We should absolutely never travel normally again.”
+
+“No,” Ray answered immediately.
+
+“Yes!”
+
+“No.”
+
+Luna ignored them while staring toward the forest.
+
+The wind drifting out from beneath the trees carried colder smells than the plains behind them. Older smells too. Thick roots, deep water, and creatures large enough that their scent trails lingered heavily even this far from the treeline.
+
+Excitement buzzed hotter through her chest.
+
+Syliana stepped closer beside her, following Luna’s gaze toward the lake stretching through the forest region.
+
+“This entire woodland once served as a territorial divider between several older domains,” the elf explained calmly. “Trade routes used to circle around the lake instead of crossing directly through the forest.”
+
+Luna listened very politely.
+
+Mostly because Syliana used Important Voice.
+
+“This entire forest region is actually not considered part of the Aeon Forest itself, as it’s been cut off from it at some point, yet it remains dangerous,” Syl continued. “And most caravans still avoid getting too close to it.”
+
+Sepio nodded once, one hand still resting near his shield.
+
+“There are still some old ruins scattered deeper inside as well. Watchtowers. Hunting lodges. Smaller settlements abandoned decades ago.”
+
+“Monster nests too,” Trianna added cheerfully.
+
+Ray sighed.
+
+“Why do you sound excited about that?”
+
+“Because monsters usually mean experience, ruins, artifacts, or treasure.”
+
+“Or food!” Luna helpfully added.
+
+Luna kept staring toward the trees while the explanation continued around her. Dangerous forest, old ruins, deep lake, strong creatures… all of it fit together into one obvious conclusion.
+
+Strong meat probably lived there!
+
+“Hehehe.”
+
+Syliana sighed quietly beside her without even needing to ask.
+
+“Yes, Luna. We know.”
+
+Luna’s ears perked upward.
+
+“Big hunt potential.”
+
+“Please do not say that while looking at an entire ecosystem.”
+
+“Nuh-uh. Food-o-system looking at Luna first!”
+
+“That made it worse,” Ray muttered.
+
+The breeze shifted again.
+
+A new scent drifted faintly from deeper inside the woods. Large. Musky. Predator.
+
+Luna grinned slowly.
+
+Oh yes!
+
+This forest definitely contained excellent prey.
+
+And Luna could hardly wait to taste it!

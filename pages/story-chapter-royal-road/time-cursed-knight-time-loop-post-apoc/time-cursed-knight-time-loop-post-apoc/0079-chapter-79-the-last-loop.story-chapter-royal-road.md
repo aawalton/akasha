@@ -1,0 +1,259 @@
+---
+id: 9db2fa0d-4080-51ec-8ead-63b8b375c565
+page-type-slug: story-chapter-royal-road
+title: "Chapter 79: The Last Loop"
+slug: 0079-chapter-79-the-last-loop
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 79
+ownLength: 2642
+unit: words
+publishedAt: 2026-07-03
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3628156/chapter-79-the-last-loop"
+royalRoadId: "3628156"
+---
+
+I'm stupid.
+
+Stupid in the way a clever man goes stupid when he stares at one problem too long. The problem stops being a problem and becomes a shape. A fixed thing with fixed edges. Every time I looked at it I saw the same outline, reached for the same handful of answers, and forgot that I was holding a thousand other cards.
+
+The pain only made it worse.
+
+I only had to stop staring at the shape long enough to find the right one.
+
+More than once, I thought the solution might lie outside these walls.
+
+Perhaps with the creator of Snow Dream. Yet, every lead I had pointed to him living days away.
+
+Maybe the answer was finding out where the Titans were coming from. Or why they had chosen this city. Still, they moved too fast. I only knew the direction they had come from, and nothing more.
+
+Where the hell had the other Knights gone? They should have arrived by now. Maybe they were delayed. Maybe something in the desert had dealt with them.
+
+God only knew.
+
+I had forced myself to hope the solution was inside these walls. Perhaps I should have realized it might be on top of them.
+
+I'd spent too many deaths on the beetle. I'd spent too many deaths on the mantis. But I'd never once looked at the cobra. Why would I? The city could fend it every single morning.
+
+Yet, why did we always lose to the two Titans at the end of the day?
+
+I'd told myself we were missing firepower.
+
+Right and wrong.
+
+Right that it was missing power. Wrong about why we missed it.
+
+The city had the power to handle Titans. I'd watched it, every single dawn. The cobra came over the eastern wall and the mages broke it in minutes.
+
+The strength was there. It had always been there.
+
+So where did it go by sundown?
+
+The first one broke them.
+
+The cobra was a tax. It bled the garrison of men and mana in the morning, and then it did the worse thing. It taught the whole city that the day's terror had come and gone. By dusk the wall was thinner, the mages were hollowed out, and every soldier who should have had his eyes on the dunes was binding a wound and telling himself the worst was behind him.
+
+The mantis didn't break Qalathar. The beetle didn't break Qalathar.
+
+The cobra did. Hours before either of them ever arrived.
+
+I hit my own forehead with the heel of my hand. Hard enough to hurt.
+
+Stupid. Stupid. Stupid.
+
+"Hey." Lena's hand found my sleeve. Her brow had folded into the careful frown. "You all right?"
+
+"Headache." I rolled my shoulders. "I'll meet you both inside. There's something I have to handle first."
+
+Henrik's eyes went to me, then to the gate, then back. "Handle what?"
+
+"Ingredients." The lie came out smooth. "Go ahead. I'll find you at the depot."
+
+They traded a look. But there was no danger in the morning. No clock. No reason to argue. Lena's frown smoothed by a fraction, and Henrik grunted, and the two of them turned through the great bronze doors and into the city.
+
+I couldn't have convinced them to fight the thing anyway. It was hard enough at sundown, when our lives were on the table. At dawn, with the sun barely up and not a single life in danger? They'd have called me mad and dragged me inside.
+
+That was fine.
+
+I didn't need them for this.
+
+The moment they were gone I turned and looked east, along the run of white wall.
+
+I knew this city. Every lane, every dead end, every staircase. I knew it the way the people who'd been born here knew it, better maybe, because I'd had more lifetimes inside its walls than most of them would ever get. And I knew exactly where the serpent would come.
+
+I cut through the warren toward the eastern quarter without a wrong step, climbing terraces, threading the alleys, until the great wall rose ahead of me, twenty meters of warded stone painted from its feet to its crown.
+
+The first tremor came up through the soles of my feet.
+
+Right on time.
+
+I drove the mana down into my legs. Mint-burn flooded my thighs and calves, the channels lighting under my skin, and I jumped.
+
+I couldn't clear twenty meters. But I hit the wall and kicked, hit it again and kicked, scaling it in four hard bounds, my boots gouging the carved sigils, and I came over the parapet onto the wall-walk before a single mage or Ashkeri had reached the eastern stair.
+
+For one breath I had the top of the wall to myself.
+
+Rising out of the desert, the serpent's head climbed toward me on a neck thick as a tower.
+
+I pointed my sword at it.
+
+"You son of a bitch." My voice was low. Just for the two of us. "I'm going to beat you. Every death you've cost me, every time I've melted and burned and come apart. I'm taking it all out on you."
+
+The serpent answered the only way it knew.
+
+It struck.
+
+The head dropped out of the sky and the jaws unhinged, and the mouth that came down at me, each fang longer than I was tall, beaded with something amber and slick at the tips. I heard the first Ashkeri boots hit the stair behind me. Too late to stop it. Too late to do anything but watch a foreigner get bitten in half on the wall-walk.
+
+The bite never landed.
+
+Fifteen meters out, the air hardened.
+
+The invisible thing that held the city caught the serpent's mouth and stopped it, and the great jaws hung there, gaping wide against a barrier it couldn't cross, frozen open mid-strike.
+
+I already had the vial in my hand.
+
+I threw.
+
+It tumbled once and shattered against the back of that cavern of a throat. The gray flooded out, the petrification draught pouring into every crevice and seam of the open mouth. Three seconds. It went from liquid to stone, and the serpent's jaws locked, propped open by a curing wedge of concrete it couldn't bite through.
+
+Venom dripped from the trapped fangs in long amber ropes.
+
+I hoped my body was enough.
+
+Then I jumped down its throat.
+
+I'd done this before, though not with a serpent. With the wyverns. The principle didn't change with the size. I landed on the stone, the air thick with venom-stink and a heat that came up out of the thing like an oven.
+
+I started cutting.
+
+The serpent went insane.
+
+It whipped its head, and the whole world heaved, the wall and the sky trading places, the venom sloshing up the walls of its own throat in a tide that tried to drown me where I stood. It convulsed, trying to spit me out, trying to swallow me down, trying to crush me against the stone in its own mouth.
+
+Every time I brought the sword down, the flesh tore.
+
+Gaping rents opened in the roof of its mouth. Ichor came out black and steaming and joined the venom around my feet.
+
+After struggling for so long, it flung me out.
+
+A single titanic convulsion launched me up and out of the gaping mouth, and I cartwheeled through the open air over the parapet and slammed down onto the wall-walk, rolling through a group of white-clad bodies until the stone stopped me.
+
+I came up on one knee, breathing through my teeth, sword still in my fist.
+
+A dozen bronze half-masks, the shadowed eyes behind them fixed on the foreigner who'd dropped out of a Titan's mouth onto their wall. Hands moved toward curved hilts. Voices came at me.
+
+"Who—"
+
+"What are you doing on the wall—"
+
+I stood the rest of the way up. And I put on the face.
+
+Not my face. The one I've seen nobles use. The expression of someone who has never once in his life considered that the people around him might be his equals.
+
+"My job," I said, in clean Kumsuri, the words coming out of me without a seam, without an accent, polished by more deaths than I could count. I let my gaze travel over them like they were furniture. "Or rather — yours. Which I notice I'm doing for you. If any of you had been paying attention, if a single one of you had your eyes where they're supposed to be, you wouldn't be standing here gaping while someone does the work the Sultan pays you for."
+
+The Ashkeri didn't react. Of course they didn't. The surgeons had carved the reaction out of them years ago. My words slid off them like venom off the parapet.
+
+But the Ashkeri weren't the only ones on the wall.
+
+Behind them, between them, stood the others — the normal ones. Ordinary soldiers. Ordinary mages. And officers. Men whose masks covered nothing, whose faces went tight and red at being lectured by someone new.
+
+One of them opened his mouth to have me arrested. Or killed.
+
+So I spent the knowledge I'd gathered across a hundred deaths.
+
+"I'll be sure to mention it," I said, before he could speak, examining my nails the way I'd watched a hundred salon nobles examine theirs, "to the Lord Vashir. And to the procurement office. The Sultan's grace takes a personal interest in how his wall is kept, I'm told." I let the name land, and the next, names I'd overheard in throne rooms and gutters across more lifetimes than any of these men had years. "I'd hate for the wrong officer's name to come up in the wrong drawing room."
+
+The red drained out of the officer's face.
+
+I saw the moment it clicked in all of them. The recalculation. The uncertainty of men who could no longer be sure whether the stranger on their wall was a lunatic or someone whose displeasure could end them.
+
+A rivalry was born in that silence. I could see it taking root. Between the officers who'd been embarrassed and whatever they imagined I represented.
+
+Far from us, the serpent finally broke the concrete in its mouth.
+
+It came loose in a spray of shattered gray and black ichor, and the great mouth worked, ruined, the roof of it hanging in tatters where my blade had been. But the thing was dizzy. Blind with pain and the disorientation of having something cut it from the inside for the first time in its endless mindless life.
+
+While it had been focused on me, on the irritant in its throat, the mages had been working.
+
+They'd had minutes. Precious, uninterrupted minutes. Massive sand pillars surged into the air before crashing down — some swinging like pile drivers, others like iron nails. Columns of compressed silica hammered every inch of the serpent. Its flank, neck, and jaw were struck without mercy.
+
+The serpent reared back. Sucked in a breath that I felt pull the air past my face.
+
+And exhaled.
+
+A rolling fog of greenish vapor poured over the wall-walk. The venom rendered to smoke. It washed across the Ashkeri; they didn't so much as turn their heads. They stood in the poison cloud and kept attacking like pawns who'd been built to spend themselves.
+
+I held my breath and watched them breathe the green.
+
+That's how you die, I thought, and there was no triumph in it. Every time. You stand here and you don't even know you're dying.
+
+I kept cutting where I could reach. The mages kept hammering. And the serpent, wounded, broke far sooner than it had ever broken before.
+
+Its head pulled back over the parapet. The neck withdrew. The vast plated bulk receded into the dunes, dragging its torn mouth with it, and the desert took it back into the haze.
+
+Minutes. Fewer minutes than I'd ever seen it cost. When the dust settled and the green fog thinned, the wall was still full of mages. Still full of worry, because I'd made certain of that.
+
+I kept the noble's mask on.
+
+I pulled the second vial from my belt. The antidote.
+
+I walked the line of Ashkeri, and I let a single bead of it fall onto each of them.
+
+"Do you have any idea," I said, working down the row like a steward inspecting livestock, "what this costs? A vial of this antidote? More than your house, more than your father's house. And do you know what costs more?" I tipped a drop onto the next one. "An Ashkeri. And your officers stand them in a poison cloud like sheaves of wheat and let them rot for no reason."
+
+I let my voice carry. I let every mage and every officer on that wall hear it.
+
+"You're spending the Sultan's treasure to save yourselves the price of a vial. Sacrificing soldiers worth a fortune apiece because someone couldn't be bothered to keep an antidote on the wall." Another drop. Another. "I'll be certain that economy is noted."
+
+The officers had no answer. They stood there, scalded by a lecture from a man they couldn't place, and not one of them had yet understood that the voice cutting them down to size belonged to a foreigner.
+
+When the vial ran dry, I let the mask drop, and I let myself drop with it.
+
+Into the confusion. Down the stairs. Into the crowd that was already flooding back to its morning business.
+
+They looked for me. I heard the shouts go up behind me.
+
+"The noble, where's the noble, find the one who—"
+
+Yet they found nothing. I went down into the city and the city closed around me. I was a ghost.
+
+I drifted out through the eastern quarter and I let myself look at what the morning had left behind.
+
+There were wounded. There always would be. A wall doesn't turn away a Titan without paying for it.
+
+But it didn't compare. It didn't come close to the other times.
+
+I hit the side of my own head one more time. Gently, this time.
+
+How did I not think of this sooner?
+
+I let my feet carry me back through the lanes until the book-stalls rose around me, towers of crumbling paper leaning into the heat, and I found the old man folded into his fortress of pages with his teapot at his elbow.
+
+I bought it again.
+
+The black-covered book. The one that had cost me fifty silver the first time.
+
+He wanted fifty again, of course. Held it against his chest and named the price.
+
+This time I had to haggle.
+
+"Fifty?" I clicked my tongue. "Twenty-five. It's falling apart. Look, the corners are gone."
+
+He clutched it tighter.
+
+"Twenty-five? Heavens above. This generation simply does not understand the value of books." The old man spoke with great theatrical anguish, pressing a hand to his heart as though the words alone had wounded him. "You might as well be asking my grandchildren to go hungry. That is what this is, cruelty. How does a person even dare to offer twenty-five coins?"
+
+"Thirty," I said.
+
+He sighed like a man laying down a great burden. "Thirty."
+
+I counted the coins into his palm one at a time, and he gave me his gap-toothed approval, and I slid the black book into my bag beside everything else I'd carried into this doomed afternoon a hundred times before.
+
+I pressed my hand flat against the cover through the canvas.
+
+"I'm not leaving you behind," I told it, quiet, just between the two of us. "Not this time."
+
+I looked east, toward the wall, toward the dunes where a wounded serpent was burrowing back into the sand.
+
+"This will be the last loop."

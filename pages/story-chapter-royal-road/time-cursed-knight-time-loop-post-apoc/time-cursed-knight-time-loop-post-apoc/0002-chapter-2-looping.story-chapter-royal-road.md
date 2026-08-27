@@ -1,0 +1,769 @@
+---
+id: bf570fa7-67b9-5ad7-9915-730e4f3dc1c7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 2: Looping"
+slug: 0002-chapter-2-looping
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 2
+ownLength: 5881
+unit: words
+publishedAt: 2026-04-06
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3237149/chapter-2-looping"
+royalRoadId: "3237149"
+---
+
+The first thing I saw was text, hanging in the air. Yet, it vanished too fast for me to read. A voice replaced it.
+
+“Wake up, you lazy sons of whores!”
+
+I lurched upright on instinct, my whole body seizing, my heart hammering so hard I thought it might crack my ribs from the inside. For a heartbeat I didn’t know where I was, only that I was alive, and that being alive was wrong.
+
+I tried to scream.
+
+My mouth opened.
+
+Nothing came.
+
+My throat was sand. The only sound that escaped was a thin, pathetic rasp, more breath than voice. Air scraped down my windpipe like grit.
+
+Still, the pain was there.
+
+Not in the way a bruise lingers. This was sharper. A phantom agony. My nerves swore I was on fire. My skin remembered melting. For an instant I could smell it again: scorched cloth, burning hair, oil catching flame.
+
+My vision swam. Tears sprang up without permission, turning everything into watery smears. The interior of a tent, the sagging canvas above me, the faint blue glimmer of mage-light somewhere outside.
+
+My hands moved before my thoughts did.
+
+I clawed at my own skin, dragging trembling fingers over my cheeks, my jaw, my throat. I expected to feel blistered flesh. Expected pain so real it would knock me back down.
+
+Instead I felt…
+
+Skin.
+
+“No,” I tried to say.
+
+My hands slid down to my collarbones, my chest beneath the robe. Cloth, intact. No heat. No sticky, burning liquid clinging to me.
+
+But the memory wouldn’t let go. The world turning into white-hot as fire swallowed everything I was.
+
+I squeezed my eyes shut, hard. Behind my eyelids the inferno still raged.
+
+God. God.
+
+I wasn’t religious. I’d never been the kind of man who clasped his hands or whispered prayers into the dark. But whatever part of me had survived dying once, twice, wasn’t interested in pride.
+
+Desperation made its own rituals.
+
+God, please.
+
+The word tasted strange in my head, like a language I’d only ever heard in other people’s mouths.
+
+This was the second time.
+
+Not the second time I’d been afraid.
+
+Not the second time I’d been in danger.
+
+The second time I’d died.
+
+My stomach lurched at the certainty of it, and I swallowed hard, fighting the urge to retch.
+
+The shout outside came again.
+
+But all of that felt far away, muffled, like I was hearing it through water.
+
+Inside my skull, something had changed. It was as if the fire had burned the fog away.
+
+Before, my thoughts had been a tangle. Two lives knotted together, pulling in different directions. One life was sharp with sirens and smoke and the metallic taste of adrenaline. The other was blurred: names I didn’t fully recognize, faces I couldn’t place, rules and customs that felt like they belonged to someone else.
+
+Those blurred edges were cutting clean.
+
+I remembered more.
+
+I remembered Kaspar. A student. An Academy. Three years of training that didn’t match the words coming out of anyone’s mouth. A dungeon-cavern full of tents thrown up like an army of amateurs. A gate covered in living runes.
+
+Beyond that gate, wyverns.
+
+I had died there. I knew it with the same brutal certainty you know the taste of blood after biting your tongue. My body might be unburned now, but my mind carried the scars.
+
+Under Kaspar’s memories, deeper still, the other life surged up.
+
+My first life.
+
+The one that had always felt more mine even when I couldn’t reach it.
+
+A small town, tucked somewhere inside a country so large it made travel feel like a kind of exile. The shape of familiar streets. The weight of winter air. The sound of my own footsteps on pavement as a teenager, angry enough to choke on it.
+
+My father.
+
+A firefighter.
+
+I saw him as clearly as if he were standing in front of me: the tired lines around his eyes, the stubborn set of his jaw, the way his hands always smelled faintly of smoke even after he washed them. I remembered the day that turned him into a story people told with admiration.
+
+A skyscraper collapsing.
+
+People screaming.
+
+Smoke so thick it hid daylight.
+
+He’d gone in anyway.
+
+Again and again. Dragging strangers out as if his own life was currency he didn’t mind spending. The news called him brave. A hero. A man to be honored.
+
+All I’d felt was abandonment.
+
+Because heroes come home in caskets.
+
+I remembered the fury of it, the childish, corrosive certainty that he’d chosen them over us. That he’d loved the act of saving more than he’d loved his own family. That whatever praise he earned in death wasn’t worth the space he left behind.
+
+I remembered the bile of resentment rising in my throat, the way it had sat in me for years like a stone.
+
+I remembered what softened it. Adulthood. Understanding. The unbearable clarity of realizing that courage isn’t clean. That sacrifice isn’t romantic. That sometimes a man walks into the fire because he can’t live with the idea of not trying.
+
+I became a firefighter too.
+
+Irony of fates, irony of blood.
+
+I’d told myself it was my choice, that it wasn’t about him. I could never quite separate it from the shadow he left behind. The work had a way of stripping you down to essentials: heat, breath, seconds, decisions you could never take back.
+
+Still, I died.
+
+I died doing the thing I’d once hated him for. Saving people who weren’t mine to save.
+
+I had expected something after that. Heaven, hell, nothing. I had expected the story to end, or to begin somewhere else.
+
+It had begun somewhere else.
+
+Here. Underground. In robes that weren’t my style, under a name that didn’t sit right in my mouth.
+
+Kaspar.
+
+Now I was here again.
+
+Back at the same day.
+
+The tent around me creaked softly as someone outside shoved past the canvas.
+
+My hands were still on my skin, gripping my own shoulders like I could anchor myself to this reality by force.
+
+I swallowed, throat scraping, and forced myself to breathe.
+
+I should be burned, I thought, the terror coming cold and sharp. Completely burned.
+
+Yet I wasn’t.
+
+I crawled toward the narrow slit in the front of my tent and peeled it back with two fingers.
+
+Outside, the camp was already stirring. Shadows moved between rows of sagging tents, and the cavern’s distant mage-light turned everything into a smeared palette of blue and soft-black.
+
+The source of the earlier shout stood only a few paces away.
+
+An officer.
+
+He had the posture of someone who had never once needed to repeat himself. Broad shoulders under a rigid coat, a jaw set like carved granite, and eyes that looked through people instead of at them. Medals gleamed across his chest in neat rows.
+
+If I’d been in my old world, I might have guessed his rank. Here, in this place they were just symbols, another language I didn’t understand.
+
+I let the canvas fall back into place and pressed my palms hard against my temples.
+
+I’m still here.
+
+The thought should have been comforting. It wasn’t.
+
+“I’m still in the same place as yesterday,” I whispered, but my voice came out thin, as if speaking too loud might tear the fragile illusion apart. “Or am I?”
+
+Before I could chase that spiral any further, another voice boomed.
+
+“The gate will open in six hours! Present yourselves to your superiors!”
+
+Six hours.
+
+My breath caught in my throat.
+
+That hadn’t happened before. At least, not in the part I remembered. All I could recall was being shoved along with the crowd, the gate already opening, the air already thick with dread. I’d had no time then. No space to think, no chance to prepare, no opportunity to do anything but stumble forward and die.
+
+Now there was a span of hours laid out in front of me like a narrow bridge.
+
+A window.
+
+A way to change something.
+
+I pulled myself back from the slit and turned. The interior of the tent was dim, lit only by the gray-blue seep of light filtering through canvas. The air was close and smelled like old cloth and unwashed bodies.
+
+My robe lay crumpled near the center, exactly where I must have dropped it. It was the same robe I’d been wearing when I died, the one I remembered igniting like paper.
+
+I reached for it slowly, half expecting it to be hot.
+
+It wasn’t.
+
+The fabric was coarse beneath my fingers, sturdy in a cheap, utilitarian way. The kind of cloth meant to last through abuse. And sewn into it, over the chest, where a badge would sit in a uniform, was an emblem stitched in silver thread. The design was intricate, deliberate: curling lines that formed a symbol I couldn’t place.
+
+It looked important.
+
+Which meant it should have meant something to me.
+
+But when I stared at it, searching for recognition, all I got was emptiness.
+
+Beside the robe were other clothes. Muddied, stiff with dried earth. They looked like they’d been worn hard and washed poorly.
+
+Two books sat near the clothes, their covers scuffed, corners bent, the bindings worn as if they’d been thumbed through a hundred times. They weren’t large tomes, more like manuals, the kind you’d carry everywhere.
+
+My hand hovered over them.
+
+A memory flickered. Students chanting, blue rings forming around their arms like living bracelets.
+
+I swallowed.
+
+Maybe the books would tell me what I was supposed to be. What I could do. What I was missing.
+
+I picked up the nearest one. The cover was cracked leather, cool and dry. When I opened it, the pages rasped softly. It was filled edge to edge with writing that wasn’t writing. Symbols curled and hooked and looped in patterns that looked almost beautiful until I tried to make sense of them. Diagrams spread across the pages in careful lines: circles within circles, intersecting triangles, spirals marked with tiny runes.
+
+They should have been instructions.
+
+They might as well have been spiderwebs.
+
+I flipped another page. And another. My eyes scanned faster, desperate for anything familiar. An alphabet, a number, even a repeated symbol I could latch onto.
+
+Nothing.
+
+Just more of the same alien script.
+
+My grip tightened until the book’s spine creaked.
+
+Frustration rose hot and fast, tangling with the fear already lodged in my chest. I snapped the book shut hard enough to sting my palms and tossed it toward the corner. It hit the canvas wall with a dull thud and slumped sideways. The second book followed, along with the muddied clothes, hurled in a sudden burst of helpless anger.
+
+I sat there, breathing too quickly, staring at the scattered mess I’d made like it belonged to someone else.
+
+No weapons.
+
+I looked again, searching. Anywhere a knife or staff might be tucked.
+
+Nothing.
+
+No identification.
+
+Nothing with my name. Nothing that told me what rank I held, what group I belonged to, what “Kaspar” was supposed to do when the world demanded he march toward a gate.
+
+No explanation.
+
+Just a robe, an emblem, and two books I couldn’t read.
+
+“Great,” I said, and the word came out bitter. “What am I supposed to be doing here?”
+
+I didn’t have time to wallow in it.
+
+I was drawing in another shaky breath when the tent flap shifted.
+
+Just a small movement. Every muscle in my body locked. My gaze snapped to the entrance.
+
+Something, someone, was right outside, pressing close enough that the cloth bowed inward. A hand shoved against the flap.
+
+“Get moving, Kaspar! Get out of here, you useless fool!”
+
+I shoved the tent flap aside.
+
+Outside, the camp was already alive with movement. Boots scuffed over rock. Cloth snapped. Voices barked orders.
+
+The man who’d been shouting stood right in front of my tent as if he’d been waiting for me to so much as breathe wrong.
+
+He was… not what my panic had conjured.
+
+Chubby, for one. Thick around the middle in a way that suggested a desk, a dining table, and years of ordering other people to do the hard work. A heavy mustache dominated his face, bushy enough to cast a shadow over his upper lip, the ends curled upward. His cheeks were flushed, either from the heat or from the effort of yelling.
+
+He wore an officer’s uniform, but unlike the bright, status-announcing colors I’d seen on other officials, his was a flat, utilitarian gray. The only real splash of color was the cape thrown over his shoulders, long and green, the kind that swayed dramatically even when he wasn’t doing anything worthy of drama.
+
+“Sir?” I said, stepping out of the tent and snapping into what I hoped was a convincing posture. Back straight, shoulders square, chin lifted. Muscle memory, maybe.
+
+The trouble was, I didn’t recognize him. I didn’t recognize anyone.
+
+My thoughts still felt like they were sliding around inside my skull, refusing to settle. Names wouldn’t stick. Faces blurred into a haze of half-familiar strangers.
+
+But one thing did cling, small and sharp, like a splinter I couldn’t remove.
+
+Kaspar.
+
+At least when he’d shouted, it had been at me.
+
+At least now I’m sure that my name is Kaspar, I thought, and hated how desperate that tiny certainty felt.
+
+The officer’s eyes narrowed. They were small, piggish, and bright with irritation. It was as if my existence was a personal inconvenience.
+
+“Don’t ‘sir’ me, you worthless brat!” he snapped.
+
+The volume of it was ridiculous, loud enough that a few heads turned from nearby tents.
+
+I swallowed, throat still raw from waking up in terror. “Yes—” I started, but he barrelled on.
+
+“You should already be with the rest of your group,” he barked, jabbing a thick finger toward the narrow “street” between tents. “You lot are supposed to prepare the mana crystals for the ritual.”
+
+Mana crystals.
+
+Ritual.
+
+The words hit my mind like stones dropped into dark water. They made ripples, the dim sense that they were important, but no answers surfaced.
+
+But my mouth moved on its own.
+
+“Yes, sir,” I said, because it was safer than asking questions.
+
+The officer gave a sharp, satisfied huff, as if he’d squeezed the correct response out of me. Without warning, he stomped away from my tent toward the one beside it.
+
+I watched, uneasy, as he planted himself in front of the neighboring canvas like a man about to kick a dog. He drove his boot straight into the supporting pole.
+
+The tent shuddered. The pole snapped sideways with a dry crack, and the whole structure folded in on itself. Canvas collapsed, smothering whatever poor soul had been sleeping inside.
+
+A muffled shout rose up. Half outrage, half panic. Followed by frantic rustling as someone fought their way out of the sudden cloth prison.
+
+“Get moving, you lazy maggots!” the officer roared.
+
+From other tents came groans, curses, hurried scrambling. Flaps were yanked open. Students stumbled out with hair stuck up and eyes still sticky with sleep. Some looked terrified; others wore the blank resignation.
+
+They grabbed their belongings with the speed of prey animals.
+
+I stood there, stiff as a post, watching the officer prowl and shout and destroy small shelters as if it fed him.
+
+One by one, the students were herded toward me, forming a loose cluster in the narrow path between tents. Ten of us in total, myself included.
+
+Ten faces, all variations of exhausted and wary.
+
+Some wore robes like mine, though theirs looked better cared for, their insignias cleaner. One girl’s hands shook as she tied her cloak. A boy with ink-stained fingers blinked rapidly as if trying not to cry.
+
+The officer turned back toward us as if inspecting livestock. His eyes swept across our faces, pausing when someone didn’t stand straight enough, didn’t look attentive enough.
+
+Only when we were all gathered did he finally look pleased.
+
+“For imbeciles meeting me for the first time,” he declared, voice booming as though he were addressing an army instead of a handful of half-awake students, “listen closely, because I don’t repeat myself.”
+
+His gaze pinned us, one by one, lingering just long enough to make my skin crawl.
+
+“And if any of you wastes my time,” he continued, letting the threat hang there like a blade, “I’ll make sure you learn what discipline feels like.”
+
+“I am Blut von Omstr,” the officer announced, chin lifting as if he expected the cavern itself to applaud. “A Smaragdwächter and Third Circle Mage.”
+
+The name landed heavy. Not because it meant anything to me. The ranks and titles still swam in a sea of unfamiliar rules. But the way he said it made the hierarchy obvious even without understanding it.
+
+He turned sharply on his heel, green cape snapping behind him, and started marching through the maze of tents. We fell in after him, ten half-awake students shoved into a line by habit and intimidation. The tent lanes were narrow and uneven, more like trenches cut into a cluttered battlefield than any orderly camp.
+
+As we moved deeper into the dungeon, the air changed.
+
+It grew colder and heavier. The light dimmed, torches thinning out, leaving pockets of shadow. The farther we walked, the more I felt that immense gate in the distance.
+
+We reached a cluster of open-sided tents set apart from the sleeping rows. These weren’t the sloppy student shelters. They were wider, reinforced with thicker poles and rope, arranged with a purposeful spacing that screamed supply line. Men in practical leathers and hard expressions moved between them, hauling crates, checking lists, murmuring to one another in a clipped, efficient cadence.
+
+A logistics point.
+
+Near enough to the gate that I could feel it even when I didn’t look.
+
+Ten large wooden crates waited under one of the tents, each stamped with a symbol I didn’t recognize. Their lids were banded with metal, and faint lines carved into the wood.
+
+Blut strode to the nearest one and rapped his knuckles on the lid like he was knocking on a coffin.
+
+“Gather around.”
+
+We obeyed. Too close, shoulder to shoulder, our robes brushing.
+
+Blut hooked his fingers under the lid and wrenched. The crate complained with a long creak of wood and metal. Then the lid gave, and Blut reached inside.
+
+When his hand emerged, it held a crystal about the size of his palm.
+
+Blue.
+
+It glowed softly, a steady radiance that didn’t flicker like flame. Inside it, mist-like currents swirled as if the crystal had inhaled a piece of the sky. Tiny fissures webbed through it like veins.
+
+“For the first-years who have never seen a mana crystal,” Blut said, voice edged with contempt so thin it was almost polite, “get a good look.”
+
+Blut’s gaze swept across us.
+
+“These crystals amplify a mage’s mana,” he said, holding it up so it caught the torchlight. “They allow for steadier output. Cleaner channeling. Less strain during sustained casting.”
+
+He paused, letting the information settle.
+
+“But don’t think you can use them to gain extra circles,” he warned. “Don’t think you can cast beyond your limits.” His voice dropped slightly, and that somehow made it more dangerous. “They won't increase your rank. Or compensate for your shortfalls.”
+
+My stomach tightened at those last words, because it felt like he wasn’t speaking to the group anymore.
+
+It felt like he was speaking to me.
+
+Before I could catch my breath, Blut began moving down the line, reaching into the open crate again and again. Each time his hand emerged with another crystal, identical in size but slightly different in its internal patterns.
+
+He didn’t hand them out gently.
+
+He threw them.
+
+One after another, the mana crystals sailed through the air. They thudded into chests and were fumbled into hands. A boy beside me yelped when one struck him too hard; he clutched it as if afraid it would bite. Someone else almost dropped theirs, snatching it at the last second with fingers that shook.
+
+When my turn came, the crystal flew toward me with a lazy flick of Blut’s wrist.
+
+It hit my robe, bounced, and I caught it with both hands.
+
+“You need to insert a bit of mana,” Blut barked. “See if it’s glowing. Then separate those that aren’t.”
+
+Blut didn’t move from where he’d planted himself beside the crates. He stood with his arms folded across his chest.
+
+I held the mana crystal he’d thrown me and turned it slowly in my palms.
+
+And I’m supposed to know what to do with this? I thought, the knot in my stomach tightening.
+
+Around me, the others began to work.
+
+They didn’t look confused. They looked annoyed, as if the task was tedious rather than impossible. A pair of boys gathered shoulder to shoulder, heads bowed, crystals cupped in both hands. Another student shut his eyes, lips moving silently in a practiced rhythm. I saw a faint shimmer gather at their forearms, and then the crystals in their hands brightened.
+
+I tried to copy them.
+
+I tightened my grip. I held the crystal close. I took a breath and focused on the idea of power the way I used to focus on breathing through smoke, forcing my body to obey when panic wanted to take over.
+
+Nothing.
+
+No warmth rose in my arm. No pressure. No shift in the crystal’s glow.
+
+I stared harder, willing it to react.
+
+Still nothing.
+
+I didn’t notice Blut’s attention on me until it was already too late.
+
+The lieutenant’s scowl deepened, the mustache bristling as his mouth twisted with irritation. His eyes fixed on my hands.
+
+“Damn it,” he spat, and the word hit the air like he’d cracked a whip. “Not you.”
+
+His hand shot out.
+
+“You’re a Bastard,” Blut snarled.
+
+Before I could react, he snatched the crystal straight out of my grasp.
+
+For a heartbeat I just stared at my empty palms.
+
+Bastard.
+
+In my old life, it was just an insult. A crude word people used when they wanted to hurt someone without having to be clever about it.
+
+Here, the way Blut said it made it sound like more than that, like a category. Like a verdict.
+
+He held the crystal up, as if to show the others my failure, then shoved it back into the crate with an impatient clack.
+
+“Go make yourself useful,” he barked, voice carrying through the open-sided tent. “Clean those crystals.”
+
+He jabbed a finger toward a wooden table set off to the side. A stained cloth lay on top, dark with grime and old residue.
+
+“Those of you who have mana,” Blut added, louder, pointedly excluding me, “get on with testing.”
+
+Heat rushed up my neck and into my face. My cheeks flushed with embarrassment.
+
+“Yes, sir,” I said automatically.
+
+Bastard? What does it mean not to have mana?
+
+The words echoed inside me. Not just because of the insult, but because of what it implied. I’d already seen what happened to people without shields when fire came raining down.
+
+If I truly had no mana, if I truly couldn’t cast, then “dying again” was certain.
+
+Blut turned away from me like I’d become uninteresting, his attention snapping back to the rest of the group. But he wasn’t finished twisting the knife.
+
+He raised his voice, making sure every student within earshot could hear.
+
+“How the hell do they let someone without mana come to a Magic Academy?” he complained, disdain dripping from every syllable. “Just because he has high scores? It makes no sense.”
+
+I stood there for a moment longer than I should have. Yet, I forced myself toward the table.
+
+Beside me, the other boys and girls worked in clusters, muttering softly. When their crystals responded, the tent filled with tiny shifts of light. Their faces were drawn tight with concentration, but beneath it I could feel something else directed at me.
+
+Their glances.
+
+Sharp, quick, judging.
+
+They looked at me like I was dirt under their boots. Like Blut’s word had marked me, and now I was less than them.
+
+A few of them didn’t even bother to hide their expressions.
+
+Disdain. Superiority. Relief that it wasn’t them being singled out.
+
+I kept my head down and wiped crystal after crystal. Cloth across smooth stone. Turn. Wipe. Turn.
+
+Then, just as I began to settle into the numbness of the task, I caught a fragment of conversation.
+
+“Did you see what they found yesterday?” one of them murmured.
+
+Yesterday.
+
+My shoulders tightened.
+
+I didn’t look up, but my ears sharpened. I kept wiping, as if the crystals needed all of my attention.
+
+“No,” another whispered back. “What was it?”
+
+“Near the girls’ camp,” the first boy said, voice dropping even lower. “They say they uncovered another artifact.”
+
+My hand paused for half a second.
+
+“Really?” someone else breathed, and I heard the faint scrape of boots as bodies leaned closer. “What kind?”
+
+“Yeah,” the first boy insisted. I could hear the thrill in his whisper now, the way gossip became a kind of treasure down here. “Looks like an ancient text or something. They stashed it in one of the crates around here.”
+
+Metal rasped against stone. One of the boys had both hands on a crate’s rim, dragging it out from the stacked pile.
+
+He grunted, spat to one side, and wedged his fingers under the lid. The metal bands along the crate creaked as he pried it open. When it finally gave, he tilted the lid back and jerked his chin, signaling the others to crowd in.
+
+I didn’t move.
+
+I kept my eyes down and my face blank, as if nothing in this cavern could possibly interest me.
+
+But my attention strained toward them so hard it felt like my ears might tear.
+
+Behind me, the boys’ voices rose in a cluster of curiosity.
+
+“Anyone know what it is?” one asked.
+
+Another leaned closer, and I could picture him squinting into the crate as if the answer might leap up and bite him. “Seems like a book. A really old one.”
+
+“Shit. No one here knows ancient language. They’ll probably send it back to the Academy before anyone can decipher it.”
+
+Ancient language.
+
+I kept wiping, forcing my hands to keep moving so I wouldn’t look like I was listening.
+
+“That’s what they’re hoping to find inside?” a younger boy asked, awe bending his whisper.
+
+“No way,” someone scoffed, and even without looking I could hear the shape of his grin. “There must be powerful artifacts way more than a few dusty books.”
+
+His gaze shifted, and I didn’t need to see it to know where it went.
+
+The gate.
+
+Their chatter blended into the camp’s constant drone: the clatter of equipment, the crackle of firelight from braziers outside, the occasional bark of an officer.
+
+I focused on the task because focusing on the other thing—the gate, the wyverns, the certainty of death waiting on the other side—made my thoughts start to fracture.
+
+Time stretched.
+
+Minutes melted into hours, measured only by the growing fatigue in my shoulders and the way my fingers began to ache from gripping and turning and polishing. Every so often I caught another fragment of conversation from the boys. Speculation, jokes, whispers that fell silent whenever an officer passed by.
+
+They didn’t include me. Not once.
+
+Whenever I glanced up, I caught their eyes flicking away as if I was something embarrassing to be seen with.
+
+Eventually, the last crate was filled again. The lid thudded shut. Footsteps scattered. The group drifted off in twos and threes.
+
+The logistics tent grew quieter.
+
+I let out a long exhale I hadn’t realized I’d been holding. My hands were stiff, my fingers cramped. I flexed them slowly, watching the joints move, grateful for the simple proof that I was still intact.
+
+I stood and stepped outside.
+
+I rolled my shoulders back and stretched my arms over my head until the muscles pulled tight, trying to work the ache out of my upper back. For a moment I just stood there, blinking into the dim light, listening.
+
+No one nearby.
+
+No officer’s shadow looming over me. No students close enough to notice what I did.
+
+My gaze drifted to the pile of crates.
+
+One of them still lay half-open from earlier.
+
+My heart gave a small, sharp kick.
+
+I moved before I could overthink it.
+
+I walked toward the crate trying to look casual even though there was no one to fool.
+
+Nestled inside was a single book.
+
+It sat there alone, perfectly placed, like an offering on an altar. The volume was small and worn, its cover yellowed with age. The corners were rounded from handling, the spine creased and tired.
+
+I lifted it carefully, half expecting it to crumble.
+
+It held together.
+
+The cover felt dry and brittle beneath my fingertips, but solid.
+
+I tilted it toward the light, squinting at the spine.
+
+The letters were broken, worn, but one line stood clear enough to read, even through the grime and missing strokes.
+
+“Dic on ry.”
+
+For a second my brain snagged on it.
+
+“Dictionary?” I murmured, the word escaping on a breath I hadn’t meant to give voice to.
+
+“We are about to open the gate!”
+
+The command struck like a hammer.
+
+My head snapped toward the voice like it had hooked me by the spine.
+
+The words weren’t just familiar.
+
+They were identical.
+
+I’ve heard him say that before.
+
+For a moment I tried to convince myself it was nothing more than nerves, that sickening trick the mind plays when fear is too large to hold. Déjà vu. A misfiring memory.
+
+What did he shout next? I searched the memory. I could almost hear the echo of it, like the world itself had memorized the script.
+
+Before I realized I was doing it, I whispered the next line under my breath.
+
+“Don’t just stand there,” I murmured. “You need to proceed to the front of the gate.”
+
+The officer’s voice slammed into the cavern a heartbeat later, perfectly timed, as if he’d been listening inside my skull.
+
+“Don’t just stand there! You need to proceed to the front of the gate!”
+
+Something inside my chest seized.
+
+“No,” I breathed, and it came out like a plea. “This isn’t déjà vu.”
+
+It wasn’t a memory that felt similar.
+
+It was the same moment, returned.
+
+And then the world lurched.
+
+As they marched, I was soon standing with thousands of others in the shadow of the colossal gate.
+
+The doors groaned.
+
+A seam of darkness split the gate.
+
+We began to move.
+
+A tide of students, soldiers, and armored figures swept forward. The corridor beyond stretched ahead, lined with colossal stone pillars that rose into the darkness. Their surfaces were carved with symbols worn down by time.
+
+I walked because the crowd walked.
+
+I breathed because my lungs didn’t know how to stop.
+
+Somewhere behind my eyes, panic screamed at the calm inevitability of it.
+
+This is where I died.
+
+The thought was so clear it didn’t feel like mine.
+
+Have died.
+
+Will die.
+
+I tried to hold onto the idea that I could change it. That this time, this time, I had a sliver of warning, a fraction of knowledge, enough to pivot away from the exact blade that had cut me down.
+
+Still, knowledge doesn’t stop fear.
+
+A low, heavy sound began above us.
+
+Wingbeats.
+
+The air stirred. Dust drifted down from the ceiling.
+
+I looked up.
+
+Shadows peeled away from the darkness overhead.
+
+Wyverns.
+
+Wings spread wide, leather-thin and ribbed, beating the air with enough force to make cloaks flutter and loose hair whip across faces.
+
+Terror clamped around my gut.
+
+As the first wyvern arched its neck, jaws yawning open, I reacted before thought could form. Instinct slammed me down, flattening me to the stone.
+
+The moment my body hit the ground, I saw it.
+
+Just inches away, something moved when I moved.
+
+A figure, humanoid, my height, my proportions, crouched beside me.
+
+Translucent. Emerald.
+
+It looked like a person shaped out of green glass and smoke. No features I could truly focus on, no eyes I could meet. A ghostly echo that flickered in and out of clarity.
+
+My breath hitched.
+
+What—
+
+There was no time to finish the thought.
+
+Fire poured from above.
+
+Multiple blasts, overlapping, bright enough to bleach the world white-orange.
+
+I rolled hard to the side, stone scraping my shoulder through my robe. The edge of the flame licked past where my head had been, close enough that I smelled singed cloth and felt my eyebrows prickle.
+
+Next they’ll sweep the sides, memory snapped into place. They don’t just hit the center. They rake the edges to catch the ones who think they’re clever.
+
+I didn’t wait to test if the memory was right.
+
+I scrambled up and sprinted for one of the massive pillars, lungs burning, feet slipping on stone dust. The corridor was chaos. People shouting, spells flaring, the roar of wings and flame drowning everything.
+
+I dove behind the pillar, pressing my back to the cold stone.
+
+Yet, I realized the emerald figure hadn’t followed.
+
+It remained out in the open corridor, still crouched where I’d crouched. It was surrounded by other students, most of them protected by flickering shields of mana.
+
+The wyverns swept again.
+
+Fire engulfed the emerald double.
+
+For an instant the green figure blazed brighter. Then it flickered like a candle about to go out.
+
+Vanished.
+
+No scream. No collapse.
+
+“What was that?” I whispered.
+
+The words barely left my lips.
+
+The corridor’s roar swallowed them.
+
+That tiny pause, that single moment of confusion, was enough.
+
+A shadow fell over me.
+
+I sensed it before I saw it: the predatory certainty of something that had already chosen me.
+
+I turned.
+
+A wyvern’s head was there.
+
+Its scales were the color of midnight. Serrated teeth lined its jaws, uneven and jagged. Heat rolled from its mouth in foul, sulfurous waves. Its eyes, those ember points, locked onto mine with a hunger that felt almost intelligent.
+
+For a fraction of a second I could see myself reflected in that gaze.
+
+Prey.
+
+I tried to leap back.
+
+My heel caught on stone. My body was too slow. The space behind me was too cramped. There was nowhere to go.
+
+The wyvern struck.
+
+Its jaws closed around me with a force that crushed breath from my lungs. Agony exploded through my torso. Teeth pierced flesh and bit down into bone.
+
+I felt myself lifted from the ground.
+
+The world tilted wildly. My feet kicked at empty air. My hands scrabbled against scales that were too smooth, too hard.
+
+The wyvern shook me once.
+
+Twice.
+
+I heard, more than felt, the awful crunch inside me. My own bones giving way.
+
+Pain swallowed everything.
+
+My vision blurred at the edges.
+
+The last thing I saw clearly was the wyvern’s eye, close enough that it filled my world.
+
+There was triumph in it.
+
+A predator’s satisfaction at a kill completed.
+
+Then even that dimmed.
+
+In the collapsing quiet, letters burned themselves into the air in front of me.
+
+[Initiating Curse]
+
+[Restarting Day]

@@ -1,0 +1,447 @@
+---
+id: 656d9a8f-2daf-56e2-b0e8-539d6381c476
+page-type-slug: story-chapter-royal-road
+title: "Chapter 22: Arrangements"
+slug: 0022-chapter-22-arrangements
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 22
+ownLength: 3126
+unit: words
+publishedAt: 2026-04-21
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3298769/chapter-22-arrangements"
+royalRoadId: "3298769"
+---
+
+Good firefighters know how to put out fires.
+
+Great ones know how to start them.
+
+In my first life, I'd been trained for wildfire season. Weeks in the scrubland, digging containment lines, clearing brush, watching walls of flame devour hillsides.
+
+Sometimes you fought fire with water.
+
+Sometimes you fought fire with fire.
+
+Controlled burns. Backfires. You set the ground ablaze ahead of the advancing wall, consumed the fuel before the wildfire could reach it, starved the beast by feeding it first. You learned to read wind direction, fuel moisture, terrain slope. You learned which accelerants caught fast and which burned slow. You learned how wax behaved at different temperatures, how grease pooled and spread, how oil vapor ignited before the liquid itself.
+
+You learned the architecture of combustion the way a surgeon learned the architecture of a body. Mana and magic hadn't rewritten the laws of chemistry. Fire was still fire. Heat was still heat. A flame still needed fuel, oxygen, and ignition, and it still consumed them in the same predictable order it always had.
+
+In a world of mages and crystals and circles, everyone had forgotten the simple, brutal physics of a burning wick.
+
+I hadn't.
+
+The plan assembled itself in my mind.
+
+The carriages were parked outside the walls. Wood frames, canvas covers, iron-banded wheels greased for travel. Hay for the horses packed in bundles beneath the driver's seats. Eleven vehicles, clustered in a staging area with minimal guard presence.
+
+Combustible from axle to awning.
+
+The issue wasn't the fire. It was time.
+
+Usually, the column marched for hours before reaching Grezheim. We arrived around midday, sometimes later, depending on how many students dragged their feet and how many officers stopped to rest. By the time I collected my pay and passed through the gates, the carriages were already being loaded. The guards were alert, fresh from their morning shift.
+
+I needed to arrive earlier.
+
+I needed to reach the staging area before the noon guard rotation. Before the fresh sentries were replaced by the afternoon shift. Soldiers who had just eaten, who were drowsy.
+
+The window was narrow. If I arrived too late, the morning guards would still be sharp. If I arrived too early, the carriages might not yet be in position.
+
+Which meant I needed the mule to move faster.
+
+I stared at the canvas ceiling of my tent for a long, terrible moment.
+
+"Of course," I muttered. "Of course the hardest part of saving a town is negotiating with a donkey."
+
+I rose before the wake-up call.
+
+The camp was still draped in pre-dawn gray. Sentries paced their routes with the disinterest.
+
+I moved through the routes with the confidence of someone who had walked these paths so many times. So many times that I stopped counting. I even stopped remembering my deaths. Many of them were so absurd or idiotic that I tried to forget. Like the time I slipped before reaching the city, and the mule crushed my head. If I had to guess, I’d be close to a hundred deaths inside the cave, and a few dozen more since I left. For some reason, this world didn’t want me to stay alive.
+
+The mule stood where it always stood, tethered to its iron stake, its massive head hanging low.
+
+One brown eye opened as I approached.
+
+It regarded me with the flat, calculating hostility.
+
+"Listen," I said quietly, crouching beside the cart. "We're going to do things differently today."
+
+The mule's ear flicked. Nothing else moved.
+
+I reached beneath the cart's frame. My fingers found what I needed in the mess of supplies lashed to the undercarriage.
+
+A canvas sack of candles.
+
+A coil of oiled wick, meant for lantern maintenance.
+
+A ceramic pot of axle grease, half-used, tucked beside the wheel hub.
+
+A small tin of lamp oil.
+
+I worked quickly. Each item went into my satchel. The supplies grew lighter by an amount no quartermaster would ever notice.
+
+Hundreds of people on this expedition. Dozens of carts. Thousands of individual items packed and repacked across weeks of operation.
+
+Nobody inventoried candle stubs.
+
+I cinched the satchel shut and turned back to the mule.
+
+"Now," I said. "The hard part."
+
+"Move."
+
+The mule didn't move.
+
+"Move."
+
+Nothing.
+
+The column had been marching for an hour. Every other person and animal had settled into the familiar rhythm of a group exodus.
+
+The mule had decided that today, of all repetitions, it would advance at roughly half its normal pace.
+
+I pulled the lead rope until my arms screamed. The mule watched me strain with an expression I could only describe as philosophical.
+
+"I am trying," I hissed through gritted teeth, "to save an entire town."
+
+The mule blinked.
+
+"People are going to die tonight. Children. Soldiers. An old man with one eye and a mechanical prosthetic who makes the best stew I've ever tasted. And you—"
+
+I yanked the rope.
+
+"—are standing here—"
+
+Another yank.
+
+"—like a goddamn statue—"
+
+The mule took one step.
+
+I nearly wept.
+
+The next forty minutes were a war of attrition fought one step at a time. I pulled. I pleaded. I bribed with handfuls of dry grass torn from the roadside. I threatened in languages the mule couldn't understand and wouldn't have cared about if it could.
+
+Slowly, agonizingly, I coaxed the beast into something approaching a brisk walk.
+
+By the time Grezheim's walls appeared on the horizon, sweat had soaked through my robe and my arms trembled.
+
+But we were early.
+
+Not by much. Thirty minutes ahead of the usual arrival time. The sun hadn't quite reached its zenith. The shadows still stretched slightly westward.
+
+It would have to be enough.
+
+The guards at the gate were the same pair from every loop.
+
+The one with the ledger. The one who picked at his fingernails. They didn't remember me, of course. To them, I was just another Academy student stumbling in from the expedition, sweaty and haggard and unremarkable.
+
+But I remembered them.
+
+I knew which one would wave me through without questions if I looked tired enough. I knew which one would insist on checking my affiliation before letting me pass.
+
+I presented myself to the lazier of the two.
+
+"Name and affiliation."
+
+"Kaspar. Academy expedition."
+
+A scratched entry in the ledger. A barely perceptible nod.
+
+I collected my pay from the quartermaster's table. Thirty silver, counted into my palm without eye contact. The coins went into my pouch.
+
+I didn't enter the town.
+
+Instead, I turned left, following the exterior wall toward the southern staging area where the carriages would gather.
+
+The first carriage was already there.
+
+A heavy transport, its canvas cover lashed tight, its team of horses unhitched and grazing on the scrub grass nearby. Two more arrived within the next five minutes, rolling up from the main road and parking in a loose cluster.
+
+I found a spot near the wall's base. Close enough to observe. Far enough to be unremarkable. I sat with my back against the sun-warmed stone, satchel in my lap, and watched.
+
+Over the next twenty minutes, the staging area filled.
+
+Carriages arrived in ones and twos, their drivers exchanging brief words before wandering off to find food or shade. By the time the sun reached its highest point, eleven carriages sat outside Grenzheim's southern gate.
+
+Soldiers stood among them.
+
+Four guards on the morning shift. Their eyes moved in regular sweeps across the perimeter, the carriages, the road.
+
+Then noon came.
+
+The shift change was a small, unremarkable event. Two replacement guards walked out through the gate, yawning. The morning guards handed off their positions.
+
+The new guards were everything I'd hoped for.
+
+Heavy-lidded. Sluggish. One of them immediately sat down on a supply crate and leaned his staff against the carriage wheel. The other stood with his hands on his hips, gazed at the horizon with a vacant expression.
+
+They had just eaten. The post-meal drowsiness hung over them like a fog.
+
+The carriages held no valuables. Just frames and canvas and hay and the mundane infrastructure of military transport.
+
+Nothing worth guarding properly.
+
+I waited ten more minutes, then moved.
+
+The approach was casual. I was a student walking along the wall.
+
+Nothing unusual. Nothing suspicious.
+
+When I passed behind the nearest carriage, I simply kept walking. Upon reaching the gap between vehicles where the guards couldn't see, I dropped to the ground.
+
+The undercarriage of the first carriage was a forest of axles, cross-beams, and lashing points. I slid beneath it on my stomach, the satchel pressed against my chest.
+
+The ceramic pot of axle grease came first. I smeared it across the wooden cross-beam above me in a thick, even layer, then let it drip onto the packed earth below. Grease pooled by the wheels, forming a dark puddle.
+
+Next, the lamp oil.
+
+I uncorked the tin and poured it in a thin stream, tracing a line along the ground from the first carriage toward the second.
+
+Dry hay came from the bundles already stored beneath the driver's seat. I didn't need much. A handful, pulled loose and scattered around the grease. More along the oil trail.
+
+The oiled wick I cut into lengths with the edge of a stone. Each piece went into the hay near the grease, positioned so the flame would find fuel the moment the wick burned down.
+
+At the center of it all, I planted a candle.
+
+A single stub, its base pressed into the grease so it stood upright. The wax was soft in the midday warmth.
+
+It would last thirty minutes, at best.
+
+The flame would reach the wick. The wick would catch the hay. The hay would ignite the grease. The grease would spread to the oil. The oil would run between carriages.
+
+I crawled to the next vehicle.
+
+Same process. Grease. Oil. Hay. Wick. Candle.
+
+The third. The fourth. The fifth. The sixth.
+
+My supplies ran out halfway through the seventh. I'd stretched them as far as they'd go. Six carriages rigged, each one connected to its neighbor by a trail of oil-soaked earth.
+
+Six out of eleven.
+
+It wouldn't destroy them all. But six carriages burning would panic the horses. Burning debris would scatter. The staging area would become an inferno that no one could enter safely. Even the five untouched carriages would be unusable until the fire was cleared.
+
+Days. It would take days for replacements to arrive. The logistics I'd seen in the town hall were stretched thin. Every resource was being funneled south.
+
+I slid out from beneath the last carriage, dusted off my robe, and walked away.
+
+The guards didn't look up.
+
+My hands were black with grease. I wiped them on the inside of my robe where it wouldn't show and made my way toward the forge quarter.
+
+The blacksmith was exactly where he always was. The same soot-stained apron. The same wall of tools.
+
+Twenty silver for the short blade.
+
+The smith wrapped it in oiled cloth without comment. I tucked it beneath my robe and stepped back into the quarter's main thoroughfare.
+
+The timing was familiar.
+
+Molino arrived on schedule, striding through the forge quarter with his raven-black hair and silver earrings.
+
+I stood in the crowd this time with my mouth firmly shut. No questions about elves, just watched.
+
+Until the door burst open.
+
+Drez came through the archway at a run.
+
+Her short red-orange hair was wild, her face flushed, her chest heaving. She didn't stop at the threshold. She crossed the forge floor in long strides and reached Molino before anyone could react.
+
+"Professor!"
+
+Her voice cracked through the hammer-noise.
+
+"The carriages," Drez said, and the words tumbled out fast and sharp. "Six of them are burning. Someone set fire to the staging area. The guards couldn't contain it, the grease spread too fast, the canvas caught—"
+
+She drew a ragged breath.
+
+"We can't make the southern front on time. The remaining five carriages aren't enough for the full contingent. The horses bolted. Two ran into the scrubland and haven't been recovered."
+
+The forge quarter held its breath.
+
+Molino's expression didn't change. His dark eyes moved from Drez to the doorway behind her, as if he might see the smoke from here.
+
+"Sabotage?" he asked.
+
+"Has to be," Drez said. "The fire pattern is deliberate. Oil trails between vehicles. Timed ignition points. Whoever did this knew exactly what they were doing."
+
+I stood in the crowd and kept my face perfectly still.
+
+Molino was quiet for three heartbeats.
+
+"I'll depart alone," he said. "Even without horses, I'll reach the front, " He looked at Drez. "Remain here. Wait for replacement transport. Requisition through the town hall. It should arrive by tomorrow at the earliest."
+
+Drez's jaw clenched. "Tomorrow might be too late."
+
+"Then press for urgency," Molino said. "You are more than capable."
+
+He turned to the smith. "I'll collect the staff when it's ready. One hour."
+
+The smith nodded.
+
+Molino departed. His students did not follow.
+
+They stood in the forge quarter, looking at each other with the uncertain expressions.
+
+Drez remained.
+
+Her eyes swept the quarter once, hard and searching, as if the arsonist might still be standing in the crowd admiring their work.
+
+I felt her gaze pass over me.
+
+It didn't linger.
+
+I was nobody. A first-year with white hair and no insignia worth noticing.
+
+She turned and walked out.
+
+I exhaled.
+
+Mixed feelings churned in my stomach.
+
+The plan had worked. The carriages were burning. The fourth-years, the garrison soldiers, the Knights. All of them would still be in Grenzheim when night fell.
+
+But Molino was leaving.
+
+The strongest person in this town. A professor with power that even frontier smiths respected. He would be gone before the first flame arrow arced over the battlements.
+
+One problem at a time.
+
+I left the forge quarter, retuning to the south exit.
+
+The wall rose above the rooftops. Somewhere along that rampart, inside a small signal tower with heavy walls, an elf sat in the darkness beside a dead soldier.
+
+Waiting.
+
+He was already there. I was almost certain of it. The signal operator had been dead when I'd found the tower in the previous loop, and the blood had been fresh but not minutes-fresh. The kill had happened earlier. Before sunrise.
+
+This time, I knew.
+
+I walked back to the gate.
+
+The guards were there. The same pair.
+
+"I'd like to go up on the wall," I said.
+
+The guard with the ledger looked up. Recognition flickered. Not of me, of the type. Another student with too much curiosity.
+
+"Wall's garrison—"
+
+"He's Academy," the second guard said, already stepping aside. The older one. The friendlier one. "Let him look. Might learn something."
+
+The negotiation was shorter this time. I knew which words worked. I knew which guard needed convincing and which one would do the convincing for me.
+
+"Fine," the first guard said. "Don't touch anything. Don't fall off."
+
+"Wouldn't dream of it," I said.
+
+The friendly guard followed me up the narrow stairs. He was making conversation, something about the weather, the view, the long shifts, but I wasn't listening.
+
+My heart hammered against my ribs.
+
+Every step brought me closer to the signal tower.
+
+The walkway stretched before us. The battlements rose to my right. The town sprawled below to my left.
+
+The signal tower appeared ahead.
+
+"Want to see inside?" the guard asked. "Not much to look at, but the crystal's interesting."
+
+"Please," I said.
+
+He reached for the iron handle.
+
+The door swung inward.
+
+This time I was ready.
+
+The metallic gleam came half a heartbeat later. A spinning flash from the darkness inside, launched with the same precision as before. A throwing dagger, aimed at the guard's throat.
+
+I grabbed the guard's collar and hauled him sideways.
+
+The dagger screamed past his jaw. It punched into the stone wall behind us.
+
+The guard stumbled, nearly fell, caught himself on the battlement. His face went white. His mouth opened.
+
+For one terrible second, I thought he would freeze.
+
+He didn't.
+
+"INTRUDER ON THE WALL!" The scream tore out of him with a force that surprised even me. "SIGNAL TOWER COMPROMISED! ALL UNITS TO THE RAMPART! NOW!"
+
+His voice carried across the wall like a cannon shot.
+
+Inside the tower, I could see movement.
+
+A blur of dark fabric. The scrape of boots on stone.
+
+The elf didn't wait.
+
+He was through the far wall's narrow opening before the guard's echo died. A slit in the stone barely wide enough for a man's shoulders, meant for observation, not passage. The elf poured through it like water through a crack.
+
+He fell.
+
+I lunged to the opening and looked down.
+
+The elf hit the ground two stories below, rolled once, and came up running.
+
+He vanished into an alley between two buildings before anyone below could react.
+
+Boots thundered on the walkway behind me.
+
+Soldiers arrived in pairs, staves raised, crystals blazing. They poured from the nearest guard posts, spreading along the rampart in a defensive line that bristled with mana and steel.
+
+An officer appeared. His face was hard, his voice harder.
+
+"What happened?"
+
+The friendly guard, still shaking, pointed at the tower's open door.
+
+The officer looked inside.
+
+His expression went rigid.
+
+"Lock down the wall," he said. "Reinforce every tower. Double the watch. Get me a comm line to the garrison commander. Now."
+
+Men moved. Orders cascaded outward.
+
+In the chaos, an armored hand closed around my upper arm.
+
+"You," the officer said, looking at me the way one looks at a problem. "Academy?"
+
+"Yes, sir."
+
+"Get off my wall."
+
+The stairs spat me out at ground level. A soldier escorted me to the gate and watched me walk through it.
+
+I didn't argue.
+
+My pieces were on the board.
+
+I walked into Grezheim's streets and let the town's noise close around me.
+
+The sounds of a town that didn't know what was coming but was, for the first time, slightly more prepared for it.
+
+The carriages were ash. The fighters stayed.
+
+The signal tower was compromised, but exposed. The dead operator had been found. The alarm system was being restored.
+
+The elf had fled. He was still inside the walls, somewhere in those narrow alleys, hiding in a city that was actively searching for him.
+
+I didn't know if it was a victory.
+
+I didn't know if it would be enough.
+
+But I had changed the shape of the night. Bent the pattern. Moved variables that had been fixed in every previous loop.
+
+Now there was nothing to do but wait.
+
+I found a bench in the central square, near the fountain, and sat down.
+
+The sun crawled westward.
+
+The shadows lengthened.
+
+Grezheim was ready.

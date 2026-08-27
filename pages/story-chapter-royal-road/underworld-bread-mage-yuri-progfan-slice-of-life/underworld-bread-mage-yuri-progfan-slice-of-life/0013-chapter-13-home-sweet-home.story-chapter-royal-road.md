@@ -1,0 +1,121 @@
+---
+id: 3e1331e1-dde9-5b48-afb8-9be77184429e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 13: Home Sweet Home"
+slug: 0013-chapter-13-home-sweet-home
+partOf: underworld-bread-mage-yuri-progfan-slice-of-life
+position: 13
+ownLength: 1388
+unit: words
+publishedAt: 2026-07-30
+link: "https://www.royalroad.com/fiction/179650/underworld-bread-mage-yuri-lit-rpg-slice-of-life/chapter/3746004/chapter-13-home-sweet-home"
+royalRoadId: "3746004"
+---
+
+A dozen minutes passed before the flames finally whimpered into sparks, then into nothing. The burial was over, and the Guardian was put to rest by Mellie’s prayers. Marina stood in silence as she watched the young woman wipe away her tears before getting up from the ground. This was her first funeral in this realm.
+
+“I will be heading back now.” Mellie picked up her basket of herbs. “Thanks again.”
+
+“Oh, Mellie.” Marina interrupted. “I do have a question.”
+
+“Sure.”
+
+“Where can I find more of those white orchids?” Marina pulled out a petal. “I think they might be useful for the bakery I am about to run.”
+
+“The white star orchids? They aren’t too common, but I have marked the spots where they grew.” Mellie pondered. “Though I have never heard anyone use them for pastries.”
+
+“What do you guys typically use it for?” Marina asked.
+
+“You can produce a really strong poison from its petals and pods.”
+
+“Oh.” Marina froze at Mellie’s words.
+
+“Yeah, anything that is white or has a bright color is often poisonous,” Mellie warned. “You sure you are not looking for its counterpart?”
+
+“Counterpart?”
+
+“I should have one…” Digging into her basket of herbs, Mellie presented a black flower in her hand. “Here.”
+
+Marina walked closer for a better look. “They do look alike, except for the color.”
+
+“It’s not the most decorative flower, but when fully grown, its bean pods can be used as a nice flavoring agent.” Mellie pointed out. “If the two of you aren’t in a rush, I have some preserved ones at my home.”
+
+Marina was thrilled to hear such an inviting offer and would’ve agreed any day of the week, except today. The two of them took out a creature that was precious to the local villagers. Such actions could only mean consequences, even if Mellie chose to forgive them.
+
+“That’s okay. I don’t think it’s appropriate for us to go to your village; we’ll just scavenge around.” Marina took a step back. “Thanks for the offer.”
+
+“While it is true that you killed the Guardian, I also can’t overlook the fact that you saved my life. Just treat it like a sign of gratitude, especially if it's something you really need.”
+
+“Uhhh… Hecate, what do you think?” Marina peered behind her.
+
+“I have no opinions on this matter.” Hecate shrugged. “Whatever it is that you choose, my dear, I shall follow.”
+
+At this point, there was no way for Marina to reject Mellie’s suggestion. She was too much of a people-pleaser, and not going along may cause more suspicion and headaches for the future.
+
+She took a deep breath. “I guess we can tag along then.”
+
+“My village is not too far away from here. It’s right down the river.” Mellie pointed. “The Bee-ple of the village haven’t seen any outsiders in a long time, but don’t worry, they are nice.”
+
+Disregarding the corny naming scheme, Marina deciphered the secrets behind Mellie’s appearance. The young woman was a bee and a person, hence the term “Bee-ple”. Though unlike the roach brothers she encountered this morning, Mellie was more human than an insectoid. She was around Marina’s height but slightly shorter with a slender frame. From the side, her face reminded Marina of a runaway princess, warm and energetic like a beam of sunlight.
+
+“I heard there was a war,” Marina hopped over a small ditch. “Is it still going on?”
+
+“Yes, though the ants have been pushed back, they still tend to attack the cities sometimes.” Mellie let out a sigh. “They are not native to this forest as far as I know.”
+
+“So they are kinda like an invasive species?” Marina tilted her head.
+
+“That is definitely a way to describe them.” Mellie agreed. “No one really knows what hole they crawled out of, but they sure do keep on smelling the honey.”
+
+“Yeah,” Marina giggled. “Ants are good at that.”
+
+The three of them crossed the dense forest after navigating through a maze of bony branches. Mellie steered them through a pathway that she had formed previously, after many trips to and from the woods. Even with the help of solid ground, the path itself was made narrower by the overgrowth of the plant life.
+
+It was a shortcut, but not a comfortable shortcut.
+
+Marina was once again greeted by the sound of the flowing river, glamorous yet meek, like the surrounding nature.
+
+“We just need to head this way now.” Mellie pointed downstream. “Though the water is not potable, the founders still decided to build around the river, because it provided protection from harmful creatures.”
+
+“The water is not potable…? But I–” A hand tapped Marina on the shoulder.
+
+“My dear,” Hecate leaned in from behind. “Did you forget? We are not them.”
+
+Marina was quick to understand the meaning behind Hecate’s words. The river was dangerous as a whole, until split from the source of its power. This was most likely the reason why Myrra did not want to enter with them. And had Hecate not found her at the right time, there would be no telling what might happen to her in the next moment.
+
+“Oh, Marina,” Mellie turned to her. “Why did you decide to open a bakery out here? Why not in the cities?”
+
+“Uhh… I guess I’m just trying to find a new market?” Marina shrugged. “I’m not the biggest fan of cities; they are too bright, too fast, and too noisy for me.”
+
+The real reason was that she needed an emergency shelter from the rain, and thus used the blueprint incorrectly. She could only hope for a future quest that allowed the repositioning of the bakery; otherwise, bankruptcy was most likely en route.
+
+“Really? I thought cities were supposed to be a place of opportunity? You know, with all the tall buildings, neon lights, and billboards with pretty ladies in fashion dresses.” Mellie’s expression danced with an unknown source of fascination. “All those fancy cafes, all the fun places to visit, what is there to not like?”
+
+“Have you been to one before?” Marina asked skeptically. She could name a billion different things that made city life more painful than stubbing one's toe.
+
+“Uh, well, no.” Mellie hesitated. “But I have heard about them from the occasional merchants that wander in here.”
+
+“Life in a city isn’t as fun as you described,” Marina said. “Sometimes the concrete walls really do break you down and make you want to give up. You’ll know once you move into a city.”
+
+“I don’t think that’s possible for me.”Mellie’s antennae bobbed down.
+
+“Why not?”
+
+“Because no one seemed to be able to leave the forest,” Mellie kept her pace, but an apparent sorrow crept through her voice. “Those who tried have all died within seconds.”
+
+“How?” A confused expression hung upon Marina’s face.
+
+“I do not know.” Mellie shook her head. “The Bee-ple who walked outside seemed to suffocate in a moment before collapsing.”
+
+Marina shifted her gaze to Hecate, who also returned with the same confused expression. Myrra left the forest with his brother unscathed. And Hecate seemed to have also entered the forest before, and yet she stood in front of Marina just fine. Some beings could leave the forest, and yet some can’t.
+
+The trail down the riverbank was much easier than the muddy pathway in the woods, though this time, the chatter in the group had died to a silence.
+
+Marina followed Mellie closely, with Hecate by her side. She would occasionally pull the “beverage” chug from her [Inventory] for a small drink. It was indeed an intriguing toy like Hecate described. After some time, the vegetation around Marina began to grow thin, and a small plain began to unveil itself at the end of a leaf-filled tunnel.
+
+Marina almost gasped at the breathtaking scenery as if it had been ripped from a painting.
+
+A carpet of blue grass covered the entirety of the plain, seemingly reaching for the edge of the horizon. The blue river continued to cut through the land, dividing the steppe into two distinctly equal parts. And on top of one of many rolling hills, numerous small wooden houses were placed, protected by a fence that surrounded the outskirts.
+
+“There it is,” Mellie gestured. “The village of Pollen Patch.”
+
+“...”

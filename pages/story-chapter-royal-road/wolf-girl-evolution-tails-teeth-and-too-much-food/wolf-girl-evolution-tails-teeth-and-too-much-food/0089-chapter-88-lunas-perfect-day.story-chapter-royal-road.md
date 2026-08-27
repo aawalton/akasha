@@ -1,0 +1,409 @@
+---
+id: dc1aca82-985c-535b-bfcf-18e02dfabe85
+page-type-slug: story-chapter-royal-road
+title: "Chapter 88: Luna’s Perfect Day!"
+slug: 0089-chapter-88-lunas-perfect-day
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 89
+ownLength: 1889
+unit: words
+publishedAt: 2026-01-22
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2968888/chapter-88-lunas-perfect-day"
+royalRoadId: "2968888"
+---
+
+PoV Syliana
+
+Syliana quietly watched as Luna slept, mulling over some things. It had been a few days now, and Luna was adjusting surprisingly well…
+
+Yes, indeed. This was a good idea after all.
+
+Still, the view before her was… amusing.
+
+The wolf girl was sprawled across the bed in a way that tried to prove bones were more of a suggestion than a rule. One of her legs was even hooked over a pillow that had clearly lost an argument sometime during the night. Her tail twitched occasionally, thumping once against the frame before going still again.
+
+She smelled warm and content and faintly of meat and bread.
+
+Possibly even too content.
+
+Syl leaned back in her chair and let out a slow breath.
+
+The past several days had been full of constant surprises. Even with no real crisis or danger, the sheer momentum and amount of things happening was… immense.
+
+If Luna weren’t such a lovely child, it could easily have turned into a stressful endeavour, building quietly, day after day, even when things went well. And yet it would just keep going. She saw that happen too many times to dismiss.
+
+Experienced it more than once too.
+
+And yet…
+
+Luna had taken to adventurer work with startling ease. More than just the physical side of things too – though even that alone would have raised eyebrows.
+
+She had learned the simple rhythms of the work. The reporting. The expectations. The odd little rules of the Guild, and the even stranger rules of the people inside it.
+
+She had friends now.
+
+People who waved when she entered. People who laughed instead of stiffened. People who had learned, very quickly, when to say “no” to play-fighting – and when to say “yes” and brace themselves.
+
+That, more than anything, made Syl pause.
+
+Luna burned bright. She ran hard. She threw herself into experiences with the same enthusiasm she brought to food, and while her body kept pace easily, Syl wasn’t convinced her heart should have to do the same.
+
+So.
+
+A break.
+
+A full day with nothing expected of her. No board to clear, or routes to plan. No careful explanations of why one task mattered more than another. Just indulgence. Leisure. Letting Luna chase joy for its own sake.
+
+Syl closed her eyes briefly.
+
+The old her wouldn’t have considered it efficient. Or particularly disciplined. It encouraged habits that would be inconvenient later.
+
+But she knew better now.
+
+Rest was important, bleeding off the edge of the stress always was.
+
+Even if things seemed fine now, that little break could be the ticket to renew the vigour one didn’t even know they lost.
+
+She opened her eyes again and looked at Luna.
+
+At the loose curl of her fingers. At the way her ears still angled toward familiar sounds even in sleep. At the faint smile on her face, as if she were already dreaming of something delightful.
+
+Syl’s expression softened.
+
+Life, she reminded herself, was not meant to be optimized every hour of every day.
+
+And if one couldn’t spoil a small, fast, endlessly curious wolf girl who had embraced the world with such wholehearted delight… then responsibility had lost its meaning somewhere along the way.
+
+“It’ll be fine,” Syl murmured quietly.
+
+She felt reasonably confident.
+
+…Mostly.
+
+Luna rolled over, mumbled something unintelligible, and thumped her tail again.
+
+Syl smiled despite herself and began – carefully, thoughtfully – to plan the most irresponsible day she had allowed in quite a long while.
+
+***
+
+Luna had the most awoomazing start to the day!
+
+She woke up all warm.
+
+Very warm.
+
+Blankets were everywhere! Soft and heavy. Some smelled like clean cloth and sleepy humans and pack. Familiar scents wrapped around her from all sides – Trianna’s bright and restless, Ray’s sharp and amused, Sepio’s steady and calm–
+
+And Second…
+
+Second was closest. Softest. Warm like sunlight through fur!
+
+Luna’s eyes stayed half-closed as she stretched, long and lazy, toes curling, back arching just enough to feel good. She yawned, slow and wide, then stretched again because stretching twice was clearly better than stretching once.
+
+Today was a “resting” day!
+
+Luna knew this because Second had said it, and Second words were important!
+
+Sometimes.
+
+When there weren’t too many of them!
+
+So when the stretch ended, Luna simply curled back up.
+
+Perfect.
+
+And then…
+
+She drooled.
+
+Just a little.
+
+Her eyes snapped open in alarm.
+
+But before she could move, Syl was there, fingers gentle but firm, closing Luna’s muzzle softly.
+
+“Shh,” she breathed.
+
+Luna froze.
+
+Oh.
+
+Right.
+
+Remember self.
+
+Poof.
+
+She transformed immediately, the familiar shift rippling through her body. Human shape. Human hands. Still sleepy. Still warm.
+
+She blinked.
+
+Stretched again, yawning all the way.
+
+Luna opened her eyes barely a crack…
+
+And instead of being told to put clothes on–
+
+There was a tray.
+
+A platter.
+
+Full of food!
+
+Luna stared.
+
+Then stared harder.
+
+And drooled again!
+
+There were warm slices of meat, glistening slightly. Soft bread, already torn into pieces. A little bowl of something thick and golden that smelled of spice and butter and good decisions. And to the side–
+
+Jerky.
+
+Luna grabbed the jerky instantly.
+
+Chew!
+
+The familiar toughness grounded her, the flavor blooming slowly as she worked it. Her shoulders relaxed. Her breathing slowed. Warmth spread through her chest and down her arms in a pleasant shiver.
+
+Ohhh!
+
+Very nice!
+
+She looked up at Syl, eyes wide and a little confused, still droopy at the edges where sleep hadn’t quite let go yet.
+
+Syl only smiled softly, nodded once, and mouthed, for you.
+
+Then she sat down beside Luna and gently ran her fingers through her silvery hair.
+
+Slow. Careful. Warm.
+
+Luna did not need to be told twice!
+
+The platter was immediately assaulted.
+
+She grabbed food with both hands, alternating bites with clear priorities – meat first, always meat first – then bread soaked in sauce, then more meat just to be sure! She hummed happily between chews, little pleased sounds escaping her without permission.
+
+“Mmm… mmh… sho good!”
+
+Sauce dripped. Luna licked it off her fingers without shame.
+
+She leaned closer to Syl without thinking, shoulder bumping into her side as she ate. The scritches adjusted automatically, fingers finding places that made Luna’s toes curl.
+
+This was perfect.
+
+This was heaven!
+
+Partway through, the world expanded.
+
+Trianna appeared first, hair messy, eyes half-open.
+
+“Oh,” she said, spotting the scene. “Wow.”
+
+She immediately added another piece of bread to Luna’s plate and leaned in to pat her head.
+
+Ray followed, yawning, carrying a mug that smelled like bitter wake-up juice. He paused, smirked, and wordlessly slid a small wrapped bundle onto the tray.
+
+“Extra,” he said.
+
+Luna’s tail wagged so hard it knocked into the blankets.
+
+Sepio came next, slower, nodding once in approval before adding a neatly cut portion of something roasted.
+
+“Eat,” he said simply.
+
+Luna did, grinning madly!
+
+Then–
+
+Heavy footsteps.
+
+Veric stopped at the edge of the bed, looked down at Luna, then reached out.
+
+A large, careful hand rested on her head.
+
+One firm, gentle pat.
+
+“…Good morning,” he rumbled.
+
+Ehehe!
+
+Luna nearly ascended!
+
+She beamed, mouth full, eyes shining, surrounded by food and warmth and hands and pack!
+
+She chewed, and hummed, then chewed again!
+
+Leaned into the scritches and pats and everything.
+
+Luna was in heaven.
+
+***
+
+And it wasn’t even the end of the gloriously chewable day!
+
+After the cozy eating and the scritches and the waking-up of everyone in the correct and proper order, Second declared it was stall time!
+
+Stall time was very important.
+
+Because stalls meant smells.
+
+And today, stalls also meant… coins?
+
+Shiny little things.
+
+Luna held her first coin very carefully between her fingers, tilting it this way and that. It was cold. It smelled like metal and many hands and faint disappointment.
+
+She had some stored from her quests, but this one was new. The first from the small bag of coins given to her by Ray!
+
+“…What this do?” she asked.
+
+Ray crouched down in front of her, serious face on.
+
+“You don’t remember? Hm. That lets you buy things. But you have to be careful how you spend it.”
+
+Luna stared at him.
+
+Then stared at the stall behind him.
+
+Then stared back at the coin.
+
+“…Buy?” she repeated.
+
+“Yes. Trade for things.”
+
+“Like food?”
+
+“Yes.”
+
+Her eyes widened.
+
+“Oooh.”
+
+The realization hit her all at once, like a pounce to the brain.
+
+She could just exchange this useless shiny thing!
+
+For food.
+
+Real food.
+
+Cooked food.
+
+Immediate food!
+
+Luna did not waste a single heartbeat.
+
+She turned and bolted.
+
+“LUNA WAIT–” Ray shouted, already too late.
+
+Stalls were raided!
+
+Bread stall first. Luna bought bread. Chewed bread. Confirmed bread was good with things. Stored some for later!
+
+Dumpling stall!
+
+Wheat dumplings. Potato dumplings. Chew. Chew-chew. Look same, but taste different! Buy more! And into the Maw they went.
+
+Then there was a soup stall, with a big big cauldron full of soup! She drank half a bowl, dunked bread in the rest, then bought another bowl “for later.”
+
+Her tummy felt all warm, and pleasantly full already.
+
+But that never stopped her from eating more!
+
+The shiny silver coin was awoomazing. It just kept working! Again and again. Half a dozen stalls vanished behind her in a trail of happy crumbs and baffled vendors.
+
+What she couldn’t eat immediately, Luna chewed a little – just to check – then tucked into her Maw for safekeeping.
+
+If it was tasty, she bought more.
+
+If it was very tasty, she bought all!
+
+Ray was everywhere at once, darting between stalls, apologizing, negotiating, and attempting – very valiantly – to explain concepts like “value,” “saving,” and “you don’t need six of the same thing.”
+
+Luna nodded politely.
+
+Then bought more food!
+
+Coins got her food.
+
+All the food!
+
+That was far more importanterer!
+
+And then–
+
+She smelled it.
+
+Skewers.
+
+Meat on sticks, with spices and goodies!
+
+Glorious sticks of assembled meat. Juicy. Chewy. Shiny with fat and glaze. Smelling of spice and not-spice and new weird spice thingies Luna had never eaten before.
+
+She froze.
+
+Sniffed.
+
+Sniff-sniff-sniff.
+
+Her tail started wagging so hard it was a danger to nearby ankles.
+
+She approached the stall reverently.
+
+One skewer became two.
+
+Two became four.
+
+Four became all of them!
+
+The stall owner watched with widening eyes as Luna happily demolished skewers at alarming speed, humming through her chewing. When she paused to praise him– “This ish all very tasty!” – he laughed outright.
+
+“For you?” he said, already wrapping more. “Cheap.”
+
+That was encouragement!
+
+Proper encouragement.
+
+Luna beamed up at him.
+
+Then reached into her Maw, taking out all her saved coins. And something else.
+
+“A trade!” she declared brightly, producing a rabbit.
+
+Then half a deer.
+
+Then a boar leg.
+
+Then – carefully – the Granidrake roast.
+
+The man stared.
+
+“…Kid,” he began.
+
+Luna produced more.
+
+“And more,” she added helpfully.
+
+He opened his mouth to protest.
+
+Luna shoved all her remaining coins into his hands.
+
+“Trade!”
+
+He looked down at the coins.
+
+Looked up at the meat.
+
+Paused.
+
+Then burst out laughing.
+
+“Alright,” he said, already reaching for his knives. “Alright! You win.”
+
+Luna bounced in place, eyes sparkling so bright they practically glowed.
+
+The world truly was amazing.
+
+And she couldn’t wait to try more!

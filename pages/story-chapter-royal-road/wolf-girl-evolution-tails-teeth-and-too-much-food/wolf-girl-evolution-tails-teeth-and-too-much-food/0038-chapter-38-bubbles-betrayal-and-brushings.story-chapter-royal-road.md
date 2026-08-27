@@ -1,0 +1,237 @@
+---
+id: 240d21a2-286e-5111-8254-83aec31af5eb
+page-type-slug: story-chapter-royal-road
+title: "Chapter 38: Bubbles, Betrayal, and Brushings"
+slug: 0038-chapter-38-bubbles-betrayal-and-brushings
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 38
+ownLength: 1323
+unit: words
+publishedAt: 2025-09-25
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2628712/chapter-38-bubbles-betrayal-and-brushings"
+royalRoadId: "2628712"
+---
+
+PoV Luna
+
+Luna was torn about baths.
+
+On one paw – she felt amazing now. Her fur gleamed like fresh moonlight. Each strand soft and puffed, her tail swishing with glorious volume. She turned twice in place, wagging just to feel the weightless bounce.
+
+Apex Cuddlepuff!
+
+But on the other paw…
+
+She shuddered.
+
+The process. The awful, splashy, scrubby process!
+
+Very much not nice.
+
+Syl had said it would be easier next time if Luna didn’t get so dirty again.
+
+Luna made a solemn vow then and there: one day she would bite the dirt itself. Chew it to dust. Defeat it forever. Then she would never, ever need a bath again.
+
+But Syl was relentless.
+
+Even Trianna joined in. They scrubbed and washed, rubbed her ears, soaked her paws. Then scrubbed again. And again.
+
+Luna tried to escape. Three times.
+
+The first, she bolted for the trees. The second, she wriggled right out of their arms mid-rinse. The third, she poofed into wolf form and sprinted for freedom, fur dripping, eyes wild.
+
+They caught her.
+
+Every! Single! Time!
+
+And as a wolf, they scrubbed her even harder. Soap everywhere. Into her fur. Into her ears. Even her paws!
+
+“Awoooooo!” she howled, kicking and wriggling.
+
+They didn’t stop though. Not at all. Not even when she made puppy eyes!
+
+And when she finally thought the torture had ended, Syl handed her a stick.
+
+“What now?” Luna barked suspiciously.
+
+“Brush your teeth,” Syl said with dangerous calm.
+
+Luna stared.
+
+What?! WHY?!
+
+Her ears flattened. She whined, growled, pawed at the ground. Tried the puppy eyes again. But nothing worked.
+
+They made her do it.
+
+She chewed the strange foamy stick, tongue twitching, eyes glaring betrayal. The taste vanished. The stew taste! The jerky taste! Even the spice taste! Gone!
+
+It was too clean!
+
+She yelped in despair, tail thrashing.
+
+“Noooooo!”
+
+Betrayal! Utter betrayal!
+
+But…
+
+The warm air Syl wrapped around her after was nice. Drying her fur, fluffing it back to perfect. Trianna’s careful brush strokes smoothed her coat. Fingers scratched behind her ears, gentle and steady.
+
+Her tail wagged traitorously.
+
+It was not worth it. No. Never worth it. But still… nice.
+
+She would accept that.
+
+This time.
+
+Luna sat in Trianna’s lap, wolf-shaped once again, and fluffy, her silver ears flicking at every brush stroke. The bristles slid through her fur with steady rhythm, smoothing out all the scruffy tangles left from battle, dirt, and far too much bath.
+
+Her paws twitched once. Then twice. Little betrayers.
+
+And above her head, the girls talked. Words, words, words. Endless words! Why so many? Why not just do? A hunt, a run, a bite – anything better than blah-blah-blah.
+
+Luna’s jaws opened for a protest bark. Sharp. Commanding. She would remind them that Apex Predators demanded action, not word storms!
+
+But then Trianna’s fingers shifted. Scritched right behind her left ear.
+
+Her head drooped at once. Her eyes slipped halfway closed.
+
+Nooo!
+
+Betrayal never felt so nice before!
+
+Her tail twitched. Once. Twice. Another traitor.
+
+“Uuuuuuh,” she groaned softly, nose bumping against Trianna’s arm. Her paws pitter-patting in place.
+
+Fine. She would endure.
+
+For now!
+
+Their brushes kept gliding through Luna’s fur. Slow. Patient. And with far too much zeal! Nice zeal, pleasant. But still! The hum of comfort tickled her skin with every pass.
+
+And she was losing the battle!
+
+The words above blurred together, but one thread caught her attention.
+
+Tomorrow they would hunt. Purge out the corrupt!
+
+Her ears perked at that, even as her chin rested in Trianna’s lap. Hunting was action. Hunting was bite, blood, chase. Not endless circles of talk.
+
+That was good.
+
+Her golden eyes cracked open, sly and thoughtful. If she played it clever, if she wagged her tail at the right moments, maybe they would tie the hunt to a proper reward.
+
+Stew. Definitely stew. Maybe jerky too. Or both!
+
+Her tail thumped once against Trianna’s knee at the thought.
+
+The elf and human kept talking, unaware. Trianna brushed. Syl planned. And Luna drifted in between, half-asleep, half-scheming, ears catching the word hunt every time it came up.
+
+Her lips curled into a sleepy grin.
+
+Yes. Hunt tomorrow. Stew after.
+
+It would be perfect.
+
+And then they started laying out the plan, as others joined in.
+
+Lots of words. Lots of pointing. Luna even tried to follow, but it seemed so silly.
+
+Just go in and bite, what’s to plan?
+
+Sepio’s gauntlet tapped the map. Ray jabbed his dagger at tree-lines. Trianna nodded along like it all made sense. Syl’s calm voice smoothed over the noise, layering long words on top of long words.
+
+Luna blinked.
+
+Then wagged once. She could translate this!
+
+“So… pack tactics!” she barked proudly, tail swishing. “Lure small prey out. Bite them! Lure big prey out. Bite harder! Pack fight together!”
+
+Yes. Very smart. She approved.
+
+Would’ve done the same. Well… maybe. Running in, clawing everything, then running out again sounded more fun. But pack logic still made sense!
+
+Her tail thumped once in understanding.
+
+Then their words drifted. Reports. Guild-talk. Humans disappearing. A whole team gone into the forest.
+
+“Uuuuuh. Other humies?!” Luna tilted her head.
+
+She thought hard. Very hard. Right! The first spice-nibbles! She remembered now. The ball. The food. The crunch!
+
+But before she could bark more, the topic shifted.
+
+Syl spoke again, explaining corruption, mostly to Luna. But others listened in too.
+
+Luna tried. She tried really hard to follow. Ears perked. Nose twitching. Tail still. But the words tangled like vines!
+
+This is what she chewed out of it:
+
+Corruption almost never formed by itself. Mana had to turn weird. Hungry.
+
+But wait – if mana was just hungry, it would eat and be full. Like Luna. And she wasn’t corruption!
+
+Syl kept on explaining. Many words. Many big weird words.
+
+And Luna finally got it!
+
+So it wasn’t only hungry. It was… incomplete. Always wanting more. Mana that wanted to turn other mana into itself, spreading before it could ever be full.
+
+“Oooooh.” Luna’s eyes lit. “So it spreads ‘cause it’s dumb-hungry but never done-hungry, and makes other mana dumb-hungry too!”
+
+And it almost never occurred naturally. Needed to be both. At once. Tinkered with, or broken, Syl said. Always something wrong at the core. Always dangerous.
+
+Most likely, hidden deep in the ruins… a corrupted dungeon core thing?
+
+Another new shiny?
+
+Luna tilted her head. Wonder if it was crunchy?
+
+Her tail twitched. Her ears shot tall.
+
+The ogre!
+
+Moonlight crept through the canopy, brushing her fur. Her chest thrummed silver. She hopped onto all fours, then–
+
+Poof!
+
+【Lunar Form – Activated】
+
+Back to two legs. Fingers flexed, sharp eyes gleaming.
+
+“Right! I have a questshion!”
+
+She burst out with words, rattling fast, hands waving, tail wagging to match.
+
+The ogre! Her pack had fought it! Very big, very strong! It was in the ruins! Also she knew where the other humans were! Well – were. Maybe bones now.
+
+Her rambling tumbled over itself, fast and eager, but the others stared sharp. The shock of her transformation faded as she spoke. Trianna reached out, brushes turning to head pats.
+
+Nice. Very nice.
+
+Then came more questions.
+
+Where did she see it? Was it strong? What were its abilities? Where exactly were the other humans?
+
+Luna answered with pride, ears perked, grin wide. She knew. She had seen. She had fought.
+
+And then she made a promise.
+
+She would lead them! After they found the ugly, straight to the other humans!
+
+BUT–
+
+She promised for the promise of more food. Fair trade. Hunt and guide for soup and spice!
+
+Syl’s lips curved in that calm smile.
+
+“Deal. You will get more food soon. From the meat you brought. Some is already in the stew. The rest is cooking.”
+
+Luna’s whole body lit up. Her tail would have wagged right off if it could.
+
+Ears tall, grin fierce, stomach growling.
+
+She could hardly wait!

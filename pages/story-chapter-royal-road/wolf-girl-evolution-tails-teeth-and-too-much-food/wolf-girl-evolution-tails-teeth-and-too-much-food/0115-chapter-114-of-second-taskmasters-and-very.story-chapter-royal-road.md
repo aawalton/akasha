@@ -1,0 +1,671 @@
+---
+id: 7562921d-c2ea-5a33-85ed-b46f1220f982
+page-type-slug: story-chapter-royal-road
+title: "Chapter 114: Of Second Taskmasters and Very Important Training"
+slug: 0115-chapter-114-of-second-taskmasters-and-very
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 115
+ownLength: 2880
+unit: words
+publishedAt: 2026-03-25
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3193493/chapter-114-of-second-taskmasters-and-very-important"
+royalRoadId: "3193493"
+---
+
+PoV Luna
+
+The next week ended up being very busy.
+
+And also not busy at all!
+
+Which was confusing.
+
+Very confusing!
+
+Because there was a lot of doing of many many things. A lot of running and zooming. And hunting, gathering, and catching of monsters together with pack! Except they were easy hunts, simple quests, and left Luna a dissatisfied little wolf!
+
+Where in the barking heck was strong prey?!
+
+But–
+
+There was also plenty of being told to do things in very specific ways that Luna was absolutely sure she already knew how to do better.
+
+Her Apex Predator smarts worked wonders!
+
+…Except when they didn’t.
+
+But Luna didn’t count those!
+
+She will just quietly learn better Apex Predator ways from her friends and then show them how much smarter she got.
+
+Yes, Apex Predator ways demanded everything better than Apex Predator ways also became Apex Predator ways!
+
+It all made perfect sense!
+
+And made Luna the smartest Apex Predator out there!
+
+Truly genius.
+
+Which is why when she heard the fearsome–
+
+“Again.”
+
+–It didn’t feel all that terrible anymore.
+
+Almost.
+
+Luna paused mid-step, one foot still lifted as she turned her head toward her Second.
+
+“…But Luna just did it.”
+
+“You did,” Syliana agreed calmly, not even looking up from where she stood with her arms folded. “But you can do it without leaving the rest of us so far behind.”
+
+Luna blinked.
+
+That didn’t sound right.
+
+After all, she had definitely dispatched the prey they were supposed to hunt! There had been a jump, a bite, and a very satisfying thump at the end!
+
+That was how it worked!
+
+Still…
+
+Her ears tilted back slightly as she looked down at the unfortunate creature currently pinned beneath her.
+
+It had stopped moving.
+
+Which meant Luna had won.
+
+So it had clearly been correct!
+
+Luna looked back up, ready to argue this very important point–
+
+–and then didn’t.
+
+Because Syl was still looking at her.
+
+Calm.
+
+And patient.
+
+Very, very patient.
+
+The dangerous kind of patient.
+
+Woo…
+
+Then Luna looked behind and saw the rest of her pack still not here.
+
+Oh.
+
+So Luna just went too fast… But fast was good!
+
+This training was so weird!
+
+“…Okay, Luna will try again,” Luna said instead, slowly pulling herself off the flattened monster.
+
+Syliana’s eyes softened and she ruffled Luna’s hair lightly.
+
+“You hunt things well. But you need to learn to do it with the rest of the party too. That’s how teamwork works.”
+
+Luna huffed softly under her breath, but nodded anyhow.
+
+Just… a small huff.
+
+Because this had been happening all week!
+
+Quest after quest after quest.
+
+Small ones.
+
+Easy ones.
+
+“Simple requests,” Syl had said.
+
+Which was a very strange way of saying “weak prey” and “things that barely fight back.”
+
+Not that Luna minded fighting!
+
+Fighting was great!
+
+But if the thing didn’t try to bite back properly, then what was even the point?
+
+Well.
+
+Practice, apparently!
+
+Lots and lots of practice.
+
+Though, Luna had to admit… It was mostly fun practice!
+
+Her Second was great at coming up with ideas to test… But Trianna and Veric had ideas how to turn them into fun play-battles and games of tag and catch Luna, or throw and fetch!
+
+Luna liked those, a lot!
+
+And they made her System meanie super chirpy with level ups and number thingies going up!
+
+That was nice.
+
+Awoomazingly, impawssively nice!
+
+But some things couldn’t be done through fun and games, or proper hunts.
+
+So Luna could only try her best!
+
+Only…
+
+There were… so many rules! Even how to position herself around the pack to do the hunts!
+
+Luna still didn’t get the why!
+
+Pack was just too slow and prey too weak!
+
+And if prey is dead, then isn’t it all awoo-good?
+
+What more would Second want?!
+
+“Think what would it be if the monster was stronger.”
+
+“Control yourself and remember that there could be others lurking around, just waiting to pounce when you leave your party behind.”
+
+“Part of it is learning to rely on each other, and how to use your skills to better the whole party – and also to learn how to use your party’s skills to help you too.”
+
+Woo…
+
+So many rules!
+
+And the worst part was…
+
+They barking worked! And made Luna a stronger Apex Predator. Even if she couldn’t quite test it…
+
+But she could feel it, could tell she was getting more mindful of her pack, of her surroundings, and even her transformation and all of her skills came easier and smoother!
+
+Even putting pack training aside, Luna also learned some new ways she could use terrain and slippery shadows to her advantage!
+
+Yes, she already knew how to do that!
+
+But after a lot of ohs and ahs, and her pack having lots of thoughts, thunks, and ideas, some of them worked!
+
+And one of them was just incredible!
+
+Her shadows already allowed her to use rocks and trees and other things to slide onto, around, and back where Luna zoomed in from, but it turned out, if she angled it just right and zoomed in fast enough–
+
+–Then Luna could fly!
+
+High, fast, and bright!
+
+She would love her Second furever just for that discovery alone!
+
+Which was why when she heard another–
+
+“Again.”
+
+Luna perked right back up, ears snapping forward as her whole body bounced with renewed excitement.
+
+***
+
+It was hardly the only type of training Luna did too!
+
+Every time she learned how to do something, her Second and pack friends would come up with the next thing to try and do!
+
+It really was quite… fun!
+
+And hard, sometimes.
+
+Humans had too many weird concept thingies and so so sooooo many words for sooo many things!
+
+Why not just Awoo and do!?
+
+Still, Luna was learning plenty, so maybe it wasn’t all that bad…
+
+And now, after learning all the new shadow zooms and working with pack on things…
+
+Veric stepped forward, rolling one shoulder as he glanced toward a cluster of scattered stones, a big boulder, and a fallen log that had absolutely no business being that inconvenient.
+
+“Pathing,” he said simply, pointing ahead towards Ray standing far off in the field, between all the obstacles.
+
+Luna tilted her head, then looked at the terrain again.
+
+“…Pathing?”
+
+Trianna snorted, already grinning.
+
+“Yep, obstacle zooming! Like we did before, but imagine every single obstacle you see is a monster. And you need to reach Ray over there so he won’t get swarmed by them. We will do it two different ways. First, try to get to him while touching the fewest of them you can, as quickly as possible. And the second one – touch all of the ‘monsters’ to kill them before they swarm and reach him the fastest you can.”
+
+“Oh!” Luna’s entire face lit up.
+
+That made perfect sense! Very Apex Predator!
+
+Obstacles and monsters were a familiar problem for Luna.
+
+There were plenty of them in the forest and when zooming around!
+
+Luna did awoomazing avoiding them all!
+
+…And tripping sometimes, but that didn’t count!
+
+Buuut it was the first time she was asked to pick where and how to go, to save pack fastest…?
+
+Luna wrinkled her nose in confusion.
+
+Humans had the weirdest ideas!
+
+But–
+
+Luna would always do her best for her pack and friends!
+
+She stepped forward, tail swaying slowly behind her as she looked over the scattered terrain again.
+
+Checked on all the rocks. The log and big boulder too. All the things in the way of Luna saving Ray!
+
+Still simple!
+
+Probably.
+
+She crouched, muscles coiling, and then pushed forward into a Run – fast, clean, confident – as she aimed for the quickest route possible.
+
+It was almost a straight line, around and over some of the obstacles, sliding over the uneven ground, past the fallen log–
+
+–And bouncing from the boulder’s side onto a nearby rock. One more leap, and–
+
+Luna tumbled, rolled once, then twice, and came back up in a smooth motion that ended up with her pomfing into Ray.
+
+“Oof! Good job Luna, but you could work on the landing, you know?”
+
+Ehehe!
+
+Ray might have complained, but Luna did it!
+
+It felt very nice to be praised!
+
+“Impressive. Now try the other way,” Veric’s loud voice reached her.
+
+Luna hummed, zooming straight back to her starting position.
+
+It was time to try the other game!
+
+Eliminate all the monsters fast game!
+
+She narrowed her eyes at the terrain again, but this time she didn’t move right away. Instead, she shifted her weight slowly from foot to foot, watching where everything was, and how to reach them each the fastest.
+
+They were scattered.
+
+A few in clusters, a few alone.
+
+No clear path between them.
+
+But it was fine!
+
+Luna was speed.
+
+And they were so slow they didn’t even move!
+
+Her nose twitched faintly as she leaned forward, her eyes opening up, taking it all on, strength gathered in her legs, and she exploded into motion.
+
+One rock, two rocks, five in a cluster!
+
+Pivot to pounce between and tap two more.
+
+Then she went even faster.
+
+She cut left, but instead of swerving to the side, she pushed off the rock in her way, letting her momentum carry her into a tighter turn into the next cluster. Her shadow stretched instinctively beneath her, and she leaned into it, letting it catch just enough of her weight to smooth the motion.
+
+The turn felt… smoother. Her moves surer.
+
+Less thought, more move!
+
+Sharp and clean.
+
+“Oh!”
+
+Luna didn’t stop.
+
+She darted toward the log next, but instead of trying to go around it, she angled slightly and jumped onto it, using the uneven surface to kick off and redirect her path. The movement sent her forward in a quick burst, her body already turning as she slid into and past the boulder in a tight curve.
+
+And then–
+
+Luna was done!
+
+She skidded to a stop a short distance away, boots digging into the dirt as she blinked once, then twice.
+
+Her tail started wagging before she even fully turned around.
+
+“That felt good!”
+
+“Great job, you hit them all,” Veric said.
+
+There was the faintest hint of approval in his voice.
+
+Luna grinned wide and immediately returned to his side, already bouncing slightly in place as she looked back at the terrain.
+
+This time, Sepio and Trianna added more obstacles. And moved others around.
+
+Luna then went again!
+
+And again.
+
+Each time felt smoother than the last, each little mistake turning into something she could use instead of avoid. To save her friends a little faster!
+
+At one point she came in too fast, her footing slipping as her shadow stretched a little too far–
+
+–and instead of correcting, she leaned into it.
+
+The world tilted.
+
+And then Luna was airborne once more!
+
+“Wheee!”
+
+She cleared the log entirely, landing in a sliding skid that carried her forward another few steps before she caught herself and twisted back into a run.
+
+Trianna laughed from the side.
+
+“Careful, you’ll start flying for real at this rate!”
+
+“Luna already flies,” Luna shot back proudly, tail wagging harder as she circled back again.
+
+“Again,” Veric repeated, this time with a clear smile on his face.
+
+“Yes!” Luna agreed without hesitation.
+
+***
+
+It wasn’t even the only sort of training they had done that week!
+
+Luna also learned things… many things!
+
+Like…
+
+Counting.
+
+At first, Luna had not liked it, nuh uh!
+
+Not at all!
+
+It was boring and didn’t help with hunting strong prey!
+
+But Second insisted…
+
+And when Luna struggled to focus on the weird number thingies – Syl made it better!
+
+Much better.
+
+“Again,” Syl said.
+
+Luna grinned, already shifting her stance.
+
+She zoomed forward, aiming straight for her Second with all the speed and confidence of a perfectly executed tackle-hug!
+
+Syl stepped aside.
+
+And as Luna passed by, her hand caught Luna mid-lunge, and before she could even correct her angle–
+
+–she was thrown up!
+
+“Wheee!”
+
+“Three,” Syl said calmly.
+
+Each time Luna tried, her Second would say the number!
+
+Luna landed, rolled through it, and came back up laughing, already turning around.
+
+“Again!”
+
+She went faster this time, adjusting her angle, trying to anticipate the movement.
+
+Syl still caught her.
+
+And up she went again, spinning slightly this time before landing on her feet.
+
+Ehehe!
+
+“Four.”
+
+“Again!”
+
+“Five.”
+
+Each attempt was a little different. Sometimes she tried to feint. Sometimes she angled from the side. Once she tried to go low.
+
+None of it worked.
+
+Syl always caught her.
+
+And always threw her.
+
+And always said the number!
+
+By the time they reached ten, Luna was practically vibrating with energy, bouncing on the balls of her feet as she grinned up at her Second.
+
+“I know numbers now!”
+
+Syl’s ear flicked slightly.
+
+“Do you?”
+
+“Yes!”
+
+“Then now you count, from the start.”
+
+Luna paused for a brief, suspicious moment, then puffed her chest slightly.
+
+“One.”
+
+“Good.”
+
+“Two. Three. Four. Five. Six. Seven. Eight. Nine. Ten!”
+
+She finished with a little hop, clearly pleased with herself.
+
+Syl nodded once, ruffling her hair with a smile.
+
+“You did great. Want to go again? But you will be counting now.”
+
+Luna beamed.
+
+Counting was excellent!
+
+Especially since… She was having fun with her friend while doing it!
+
+Her eyes sparkled–
+
+“Yesh! Luna coming!”
+
+–and the training continued.
+
+***
+
+But the other lessons were… uhhh…
+
+Less excellent.
+
+Yes.
+
+System knowledge, world history, many new words, magic theory stuff Luna slept through, and…
+
+Math.
+
+Scary math!
+
+Luna sat cross-legged in front of Syl, staring at the lines drawn into the dirt with a rapidly deteriorating level of focus.
+
+“If you have three,” Syl was saying, “and you add two–”
+
+“Five,” Luna answered immediately.
+
+Syl paused, then nodded.
+
+“Correct. Now–”
+
+“No more!”
+
+Syl blinked.
+
+“We are continuing.”
+
+Luna leaned back, flopping onto the ground with a quiet groan.
+
+“Brain tired.”
+
+“You have been studying for three minutes.”
+
+“Very long three minutes!”
+
+From the side, Trianna snorted, hiding her smile before Syliana’s reproachful gaze.
+
+Syl shook her head, and moved on.
+
+“Sit up.”
+
+Luna did not move.
+
+“…Luna needs reward.”
+
+“You will get one after–”
+
+“Before!”
+
+“No.”
+
+“...Before.”
+
+Syl looked at her.
+
+Calm.
+
+Patient.
+
+Very, very patient.
+
+Woo…
+
+Luna slowly pushed herself back up, settling cross-legged again with a small huff.
+
+“…Fine.”
+
+They continued.
+
+Very slowly.
+
+And then her Second would talk, talk, and–
+
+Talk.
+
+Lots of talking!
+
+And lots of Luna trying very very hard to not yawn.
+
+Because that was rude, apparently.
+
+Luna didn’t get it.
+
+It made her sleepy.
+
+And that made her yawn.
+
+Hecking weird human rules!
+
+And so her Second would talk about numbers, about words, about how they suspected the Skills and System worked, and something about mana and flow and structure that made Luna’s head feel like it was full of buzzing bees every single time.
+
+Luna nodded along at first.
+
+Then less.
+
+Then not at all.
+
+Her eyes drifted. Her head tilted. Her attention started slipping away. And just as she was about to enter the great sleepy Awoo beyond–
+
+“Alright,” Syl said suddenly.
+
+Luna snapped back instantly.
+
+“Yes?”
+
+“Let’s go spar.”
+
+And it made all the sleepiness disappear!
+
+The lessons shifted after that.
+
+Short bursts of talking, followed by movement. A few numbers, then a chase. A few strange words, then a game of tag! Every time Luna started to lose focus, the world snapped back into something she could do instead of just listen to.
+
+And after–
+
+There were rewards!
+
+Sometimes it was a piggyback ride, Luna clinging happily as she was carried around like she very much deserved to be.
+
+Sometimes Syl simply picked her up and threw her, sending her spinning into the air with a delighted laugh. Other times it was Veric who did it – but caught her too!
+
+Other times the whole pack joined in.
+
+Sepio would step in her way, forcing her to dodge.
+
+Veric would redirect her momentum, turning her own speed against her.
+
+Trianna would tackle her outright, dragging her into a laughing mess of limbs and fur.
+
+Ray tried to avoid her and usually failed.
+
+It turned into games.
+
+Tag.
+
+Chase.
+
+Tackle.
+
+Throw.
+
+Always ending the same way.
+
+Syl catching her.
+
+Lifting her.
+
+And throwing her higher than before.
+
+“Wheee!”
+
+Luna twisted midair, laughing all the way down before landing – sometimes on her feet, sometimes caught into waiting hands, but always ready to go again.
+
+By the end of the week, she found herself paying more attention during the talking parts.
+
+Not because the words made more sense.
+
+But because the faster she got through them–
+
+The faster she got to the rewards!
+
+“…Luna likes lessons,” she admitted one evening, leaning lightly against her Second after a particularly good throw.
+
+Syl glanced down at her.
+
+“Oh?”
+
+Luna nodded, entirely serious.
+
+“Yes. It’s fun playing with pack!”
+
+There was a small pause.
+
+Then Syl huffed softly, something warm in the sound.
+
+“…I see.”
+
+Luna smiled to herself.
+
+Yes.
+
+It was some awoomazing fun!
+
+But also–
+
+They got news the expedition will be returning shortly!
+
+With Mister Bull and Mister Fox, and all the others.
+
+Luna could hardly wait to play with them too!
+
+Ehehe!

@@ -1,0 +1,275 @@
+---
+id: a42420dd-170c-5995-bb59-917ac5af3c49
+page-type-slug: story-chapter-royal-road
+title: "Chapter 42: Bite Through the Core"
+slug: 0042-chapter-42-bite-through-the-core
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 42
+ownLength: 1487
+unit: words
+publishedAt: 2025-10-01
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2644124/chapter-42-bite-through-the-core"
+royalRoadId: "2644124"
+---
+
+PoV Luna
+
+The fight slid from bad to worse.
+
+Sepio lay crumpled behind broken stone, his shield arm dangling loose. His breaths rattled wet through his chest, each one heavier than the last.
+
+The ogre still towered.
+
+Its chest heaved, fungal growths pulsing as black sap bubbled and steamed from every wound. Each stomp rattled the ruin stones. Each roar scraped across Luna’s ears like claws on stone until her head throbbed.
+
+Her lips peeled back. Hackles bristled sharp. Too many threats. Too close. Too loud!
+
+But before Luna had a chance to charge in again, her Second moved!
+
+Syl’s hand rose high, voice cutting through the chaos in hard edges.
+
+Mana gathered thick around her fingers, coils of silver and white snapping like moonlight!
+
+The words themselves slid past Luna’s ears, all strange spell-shapes and boring mouth-noises, but the smell of mana burned sharp in her nose, bright and strong.
+
+Then the bolt of silvery magic flew.
+
+A crackling spear of force slammed into the ogre’s chest with a flash that lit the ruins bright as day!
+
+Luna nearly yowled at the sudden brightness, but endured!
+
+Saw through the burning dots.
+
+And her tail wagged!
+
+The beast staggered a half step, heavy feet grinding against stone. A gaping wound adorning its chest dead centre.
+
+Her Second really was the best!
+
+Luna figured she might even deserve a share of her jerky!
+
+Not missing this chance, Ray darted forward, cloak snapping behind him. A glint of glass caught the light in his hand. He hurled it true into the glowing wound.
+
+Shatter!
+
+The flask burst, spraying green fire that crawled fast across the ogre’s chest. It hissed, burning deep into corruption, flesh, and bark. Searing fungus straight down to bone!
+
+Then came Trianna’s song. Three sharp twangs ringing out in a clean rhythm. Her arrows streaked bright, shimmer of power clinging to their heads.
+
+One. Two. Three!
+
+Each sank into the same burning spot.
+
+Each thunk stronger than the last!
+
+And as they shone brighter and brighter, Luna hid one eye behind her paw.
+
+Eruption!
+
+It shook the air, the wall of sound hitting Luna hard.
+
+Black fire flared outward, sparks tangled with Syl’s silver. Mana cracked loud enough to shake the stone pillars!
+
+The ogre’s chest split wide, bone cracking, sludge spraying hot across the stones. The beast reeled back, staggered, bellowing rage and pain into the sky.
+
+Ray did not waste the chance!
+
+He blurred through shadow, sliding low, and dragged Sepio clear from the rubble. Another swing smashed down where they had been, stone exploding in a storm of dust.
+
+Sepio groaned, face bloodied, but his chest rose and fell.
+
+He still breathed.
+
+So that was good!
+
+One worry less, Luna could hunt now too!
+
+Her tail lashed, ears pinned sharp against her skull. Her golden gaze locked on the wound torn across the ogre’s chest.
+
+A hole wide enough for teeth!
+
+Her teeth!
+
+Her breath came fast, tongue flicking across her chops. Her claws dug into stone, itching forward.
+
+This was the moment.
+
+Her bite.
+
+Her revenge!
+
+She charged in. Her thoughts racing a chew, like they owed her spice.
+
+The others were spent. Tired. Chests heaving. Sweat pearling.
+
+Still moving, and fighting.
+
+Just not as strong.
+
+It was time for Luna to bite.
+
+And as each bound took her closer, she could not help but notice…
+
+The opening really was ugly!
+
+Black tar clung thick to the edges, bubbling with each pulse. It oozed across cracked bone, slick and sour, like the wound itself wanted to spit her out. Inside, a mass shimmered faint and wrong. It beat slow. Heavy. A heart that had forgotten how to do its job.
+
+Luna’s eyes locked. Her chest tightened, heart thumping. Her breath tunneled sharp through her teeth, the rush of blood making her focus all the sharper.
+
+She looked. And saw it. For what it was. For what it did.
+
+And it would be…
+
+Her prey.
+
+Shadow Step snapped her across the remaining space before the ogre could even turn. One blink – gone. The next – she was there, inside its shadow, fangs bared, claws ready!
+
+Luna slammed claws-first into the smoking wound.
+
+Her whole body twisted into the strike, muscles snapping taut. All momentum put into that rending strike.
+
+Flesh gave with a wet crack. Corrupted heat spilled over her fur, burning sharp against her skin. Her snarl broke through the stink.
+
+It was not enough.
+
+The wound resisted.
+
+Tar threads pulled at her paws, sticky and foul, trying to bind her. The edges quivered, closing fast, fighting to trap her. But the ogre was already weakened – already split open by arrows, spells, and fire.
+
+Luna did not stop.
+
+Would not stop.
+
+Rip. Bite. Tear. Claw. Rend this beast dead!
+
+She would see it done!
+
+So she pushed even harder!
+
+Claws raked through rot, tearing until they hooked against bone. Hitting hard enough the ache spread into her too.
+
+Luna did not care! Her hind legs braced against the slick walls of the wound. Then she kicked, shoving her body deeper, wedging herself inside the ogre’s chest!
+
+She would claw the ugly out!
+
+The beast shrieked. A broken roar, wet and raw, rattled the ruins around them. Its arms swung wild, smashing walls apart, hurling stone shards across the clearing.
+
+Luna barely noticed.
+
+Because there, inside the sludge and fungus and corrupt rot, a shape pulsed.
+
+A heart. Warped. Flickering.
+
+Yet still beating!
+
+Not fully bare. But enough.
+
+Enough for her!
+
+Her jaws snapped shut.
+
+Her Bite doing all the chewing!
+
+Teeth closed around the core in one savage bite. And sank deep!
+
+The taste hit her first, promising poison and ash, bitter sap, all foul! Her belly lurched, but her rage drowned it out.
+
+She sank deeper, crushing tissue until her teeth scraped bone.
+
+Satisfaction thrummed through her jaw. Through her chest. Through her tail.
+
+The world narrowed to one thing only:
+
+Crunch and Tear.
+
+Until it’s done!
+
+Her ears caught no Syl. No Ray. No Veric or Trianna.
+
+Their shouts blurred into nothing. She didn’t even notice a new layer of spell coating her fur.
+
+Only the throb of blood filled her head. Only the grinding break of bone rang clear.
+
+Her growl rumbled through the heart itself, buzzing against marrow. Her tail whipped once, proud.
+
+She bit even harder. Harder! Until ichor burst hot into her mouth, flooding her tongue with bitter sludge.
+
+Her stomach twisted, but her fangs refused to let go.
+
+This was hers!
+
+Her prey. Her bite.
+
+And she would chew it through!
+
+The ogre staggered, roar faltering into a choking gurgle. Its swings grew clumsy, smashing stone in wide, blind arcs.
+
+Luna chewed deeper.
+
+Because ugly food or not – prey was prey.
+
+And wolves always finish their meal.
+
+But then…
+
+It moved.
+
+The ogre twisted, arms flailing wide, one massive fist rising high.
+
+Luna felt it before she saw it. The air shook with the weight of the swing, pressure rumbling through her chest. She called for Shadow Step, but her mana was gone – emptied to the bone.
+
+No answer came.
+
+Too far in. Too deep. Too stubborn to let go.
+
+So she reached for what she still had.
+
+Shadowmeld.
+
+Her fur dimmed, edges fading. Her shape bled into the leaking dark, vanishing into the shadow that poured from the ogre’s chest. The wound itself swallowed her presence.
+
+The arm came down.
+
+CRASH.
+
+Stone split apart. Dust sprayed wide. The force rattled through her bones until her jaw screamed with pain. Blood filled her mouth – her blood – mixing sharp with the tar-bitter sludge she still chewed.
+
+Still she held on.
+
+Chewed on. Clawed on!
+
+Her claws trembled, pads slick with ichor, but they tore deeper with the power of the blow meant to dislodge her! Her jaw locked, teeth grinding until they scraped through corruption, refusing to release.
+
+The ogre staggered, roaring its fury. Another blow smashed down. Slower. Weaker. Desperate!
+
+But it hit its target anyhow.
+
+Luna did not flinch. Could not. Did not need to.
+
+Her paw. Numb, sticky, streaked with red was pushed deeper in with the strike. Past rot. Past splintered bone. Into the pulsing heart of the beast.
+
+Her claw touched it. And tore through. And soon her bite followed!
+
+The core.
+
+It beat once against her pad.
+
+Twitched.
+
+Collapsed.
+
+And a slew of messages assaulted her mind.
+
+【Luck +1】【Vitality +1】【Level Up: 3 → 4】【Level Up: 4 → 5】【Level Up: 5 → 6】 【Shadowmeld Lv.3 → Lv.4】 【Gluttonous Soul 7% → 8%】 【Devourer’s Right Lv.1 → Lv.2】
+
+…–But before the rest of them even filled her vision…
+
+The world tilted.
+
+The stink of tar and fungus bent sideways. The roar of the ogre cracked into silence. Even the shimmer of Syl’s magic stretched thin and blurred.
+
+Her vision narrowed, black bleeding in at the edges.
+
+Her tail twitched once. Stubborn. Proud.
+
+Then darkness claimed her.

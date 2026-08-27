@@ -1,0 +1,187 @@
+---
+id: 2b219f17-3f6a-5364-a239-154308458714
+page-type-slug: story-chapter-royal-road
+title: "071 - Earth to Sin Slayer"
+slug: 0071-071-earth-to-sin-slayer
+partOf: zero-day-saint-i-cheat-smarter-shapeshifter-litrpg
+position: 71
+ownLength: 1914
+unit: words
+publishedAt: 2026-08-17
+link: "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3824136/071-earth-to-sin-slayer"
+royalRoadId: "3824136"
+---
+
+I ran.
+
+Red dots awaited in every direction.
+
+I kept running. We had to get away from that creature.
+
+Soon the jungle's scent of life, blood, and growth gave way to the indistinct nothing that was the scent of the places between. The canopy above us closed, and green and brown turned into grey stone.
+
+I was back in the tunnels; I was back to running for my life. I was alone, my Guides the only anchor to sanity as I ran. All the while, that question was right in the center of my vision. The question asking me to give up my humanity.
+
+Sometimes, I fought. Hounds who tried to stop me, without their powerful masters. Sometimes, I even ate their flesh. Hunger and despair overriding every remaining ounce of restraint.
+
+And then there was a piercing pain coming from my ear, sharp enough to make me whine.
+
+And I was back in the jungle. There was a lot of blood. The lingering taste of unknown flesh on my tongue. And more than half a dozen slain chimeras around me.
+
+Sarah released the vise-like grip with which she had twisted my ear.
+
+"Earth to Sin Slayer. You back with us?" she asked.
+
+"Fuck," I said, taking in the carnage. I had a notification asking me to accept the Chimera transformation. I had eaten a fucking heart. I should have been running. I should be running.
+
+I looked around. Sarah and Inaaya were still on my back. I couldn't spot Alex anywhere.
+
+"Can you please resume running? Or let us down?" Inaaya asked.
+
+"Where is Alex?"
+
+In response, Alex dropped from a tree branch and appeared back on my minimap. Damn, he was sneaky. Or I had been that far gone.
+
+I resumed running. "Talk to me," I said.
+
+I shrank down a bit. In my madness, I had activated Focused Fury. A minute ago.
+
+"Yeah, that sounds like a great idea," Sarah said. "There is the innocuous question of what the fuck just happened?"
+
+"I… I had a flashback. That was the first time that happened to me like this. It's a long story, but it's the cost I pay for having killed Mammon. And when… when my mind wasn't there anymore, I guess instincts took over. Instincts influenced by the jungle."
+
+"Well, uh, thanks for the power-leveling. But you might want to talk to a shrink."
+
+I checked the UI. They had all leveled up by one in that minute. Exemplar Leader was still active.
+
+"So… if I may return the question? What the fuck just happened? From your perspective."
+
+"We didn't notice your drift," Inaaya said. "I think we were all very focused on the things around us. And then you stopped running, and your marker turned red."
+
+I glanced over my chat. There were transcriptions for Gabriel's attempts at pulling me back, and in party chat I could see how they had been discussing what happened and how they were formulating a plan to deal with me if I didn't let them go.
+
+To their credit, the chat read pretty neutral. I didn't feel very judged for suddenly turning hostile.
+
+"Tore right through any chimera that came at us," Sarah said. "We did help along a bit, but you didn't need all that much help. Alex wisely fucked off while you were like this, though."
+
+"Fuck," I said.
+
+"And we did try to figure out what to do if this went on much longer, but I figured I should try the ear method first."
+
+"Thank you, I—" I stopped talking when I noticed a line of red dots approaching. They were trying to cut us off. The tiger couldn't be far behind us anymore. "Enemies ahead, in formation."
+
+"We got this," Sarah said. "You are the only woman to ever gift me two swords in a day. Time to test the other one."
+
+I felt the weight shift as Sarah stored No Quarter and then again when she pulled out another weapon. An insanely long curved blade appeared at the edge of my vision.
+
+"I got something new as well," Inaaya said. "Casting a buff on you."
+
+Half a second later, Inaaya touched my flank, and the promised buff appeared. [Verdant Steed's Armor]. Where she touched, thorny bark started covering my body, without hindering my movement.
+
+I'd have to think long and hard about the idea of letting every Blessed in New York ride me, just to farm Task Rewards for them.
+
+["We'll clear the way for you, Alex,"] Sarah wrote in chat.
+
+Up ahead, where the jungle funneled us into a narrow street between two overgrown buildings, a formation awaited us. There weren't two creatures among those who looked the same. In the middle, a gorilla-lion hybrid waited for us.
+
+"Ready yourself," I said. I activated Focused Fury again and jumped, landing right in front of the gathered chimeras. The moment my paws touched the ground, I activated the Howl again. On my back, I felt Sarah's weight shift as she swung her sword. I twisted my body to the side to add to her momentum.
+
+Her odachi took the gorilla-lion's head in one smooth motion. Two more strikes and two more of the dazed chimera fell to her blows. I didn't stay idle either and took out another three. One of them had managed to bite my leg, but the bark from Inaaya's spell burst at its touch, blasting off its lower jaw.
+
+In a series of three quick thuds, arrows landed in the chimeras furthest away from us—which quickly sprouted Inaaya's vines. Shortly after, Alex ran past us, and we resumed our escape.
+
+Just as we cleared the mostly decimated group of chimeras, the roar returned, far too close.
+
+I dared a look over my shoulder and saw it, a hundred feet behind us. A giant tiger, at least seven feet tall. It didn't pursue us. It just stood there. Next to it was a humanoid figure, but entirely obscured by something that looked like black smoke. The shape didn't even look real. My minimap didn't show a second dot next to the tiger.
+
+"Run, Eve," said an unfamiliar female voice in my head. "Show your true colors. Run and never return."
+
+I did run.
+
+"Mammon was a fool. If we meet again, you die."
+
+For a moment I stopped. The voice got under my skin. I wanted to turn and attack. I felt Sarah's hand at my ear and resumed running.
+
+Despite having an inkling of what the answer would be, I had to ask.
+
+"Did anyone see that figure next to the tiger?"
+
+"What figure?" both Sarah and Inaaya answered at once.
+
+"It was likely some kind of telepathic spell," Gabriel said. "Meant to command the tiger, but extended to include you. You consuming the heart of one of her subjects might have enabled this."
+
+Cool, cool, cool. At least the edge of the murder jungle finally came into view.
+
+"Nevermind. Just mind games," I said to the others.
+
+We made it out of the jungle in one piece, right back into the early morning in the ruins of New York. I lowered myself to the ground so Inaaya and Sarah could slip off before I allowed myself to collapse. I could hear Alex' heart pounding in his chest. He didn't hesitate before he lay down on the street.
+
+["The others are still at least ten minutes away,"] Claire wrote. ["Shall I call them off?"]
+
+"No, I think now that they are this close, we should coordinate next steps," I said.
+
+I turned to look at the others. Inaaya had sat down next to Alex and was handing him a bottle of some bright blue drink. It probably had electrolytes. Sarah was still standing and had switched the odachi for No Quarter again.
+
+"I'll do something. Don't get scared by the transformation. Those usually suck. If I suddenly start running away, please run the other way. That means that the transformation is doing horrible things to me, and I'm using my daily ability to shake that off to buy you time. But I can't buy a lot of time. But then also, those shapes haven't been all that horrible before. We are probably fine."
+
+All three stared at me.
+
+"Yeah, that didn't sound too sane, sorry."
+
+"What if you can't use your ability?" Inaaya asked. "Why didn't you use it earlier?"
+
+"I can always use it when it's magic—in the vaguest sense—that's messing with my mind. I couldn't use it earlier because the trauma is entirely mine, not something the Blessing or someone else is putting on me."
+
+"Reassuring," Inaaya said.
+
+I hit 'Accept' on the chimera transformation. It was regular levels of agonizing. By far not as bad as the demon ones.
+
+And there it was: 'Wrath-touched Chimera.' Its attributes were exceptional for a regular animal, but not mind-blowingly so. The senses were sharp, and it came with the 'Armored' trait.
+
+I tried to get a good look at myself. Wide-clawed paws. The shape felt distinctly feline but large.
+
+"Hey. What the hell am I?" I asked the others. "Any of you happen to carry a Polaroid camera?"
+
+Sarah came closer. "Something cool, kinda crazy, and somehow surprisingly cute. Definitely one of the cooler things you could have torn apart back then. Why did you become it now?"
+
+"What? How—how can it be cute? I ate its heart, and that's how I got its shape."
+
+"Crazy. Uh, panther and pangolin? Big kitty, but with armor and weird paws and a cute snoot. Can you do a blep?"
+
+"Blep? You mean… this?" I extended my tongue. It was surprisingly long, like an anteater's. Were pangolins also ant-eaters?
+
+Sarah laughed. "Yeah like that. Perfect."
+
+I tried rolling up. After a couple of attempts, I figured out how to pull my tail over my face to shield myself. Sarah gave my armor an experimental kick.
+
+"Solid," she said.
+
+I removed the spider from my collar slot and added this shape instead. This had to come in handy at some point.
+
+"What do the goggles do?" Sarah asked.
+
+Right. Goggles. I had worn them when I had come for them and never removed them. That may have slightly contributed to them not being entirely horrified by my infernal self. I uncurled.
+
+"Help with control while flying when I go very fast. Protects me from being harmed by drag, friction, or even rapid deceleration."
+
+Sarah sat down next to me and also pulled out something to drink. "So you eat hearts to get shapes, but you also have stuff that helps you fly. And you wear a collar. How is this so much less coherent than what we get?"
+
+I shifted out of the chimera shape and looked up at Sarah. She really was a head taller. "It's mostly because I fuck around a lot. The finding-out part is a bit of a mixed bag."
+
+Her heartbeat picked up ever so slightly.
+
+"Wanna hang out some time?" she asked.
+
+"Hang out? Like what? Do you also want to fuck around and find out?"
+
+Her heartbeat picked up even more. She also laughed.
+
+"Never been asked out on a date like that," she said.
+
+"Wait. You asked me. Did you ask me for a date?"
+
+"Is that what you call a date? Fucking around and finding out?"
+
+I blinked. She grinned. "I… do want to hang out some time," I said.
+
+I was not making the best choices this week.

@@ -1,0 +1,213 @@
+---
+id: df91e26c-6671-52eb-a893-037d88353b00
+page-type-slug: story-chapter-royal-road
+title: "041 - More Than It Really Is"
+slug: 0041-041-more-than-it-really-is
+partOf: zero-day-saint-i-cheat-smarter-shapeshifter-litrpg
+position: 41
+ownLength: 2020
+unit: words
+publishedAt: 2026-06-12
+link: "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpg/chapter/3527346/041-more-than-it-really-is"
+royalRoadId: "3527346"
+---
+
+This time we approached the forest from the southern end. Considering its size, it was well hidden, but eventually we found another entrance.
+
+Our little excursion proved one theory of mine, that the Blessing was upping the difficulty. But not to match us exactly. Probably it was time-based, or on the average level of the Blessed.
+
+Which meant that with both of us being ahead of the curve and working on incredible synergy, I had my four new kills before the sun fully settled. Created here were mostly more of the same. Stronger versions of regular forest denizens.
+
+The demon shape was really built for combat and cost a whopping three ATP to shift into. But it had baseline stats of 10 across the board. Along with natural armor that seemed to stack with my Dense Muscularity bonus.
+
+If only it didn't feel so unsettling. It took me a while to catch on, but it caused me to regard Jamie with a very calculating distance. Even more than my human self did. Which I could have stomached, if it weren't for the cruelty. In the wake of combat it was harder to keep a hold of those instincts and its instinct was not at all to kill. It was to hurt, to strike fear into my foes, to dominate them.
+
+Whenever we'd get privacy again I'd have some hard questions for Lucy regarding their pitch and Hell's objectives. A small voice at the back of my head offered the idea that demons were harbingers of sin and only amplified what was already there.
+
+I shut that shape up by getting the next kill as the cassowary and by making it as fast and painless as possible. That cruelty wasn't me. I could do swift.
+
+The dire hyena and gnoll shapes killed in exactly the same way. With a strategic bite to devastating effect.
+
+When we left the forest we were once more covered in blood, with me in the dire hyena shape. I had also gotten an unexpected Task Reward. I had changed my shape 50 times. That only made sense if it also counted the shifts back into human shape. But then, why wouldn't it?
+
+"Imagine, just for a second, how horrible it would be if the Blessing didn't give us an endless supply of warm water. I'm taking more showers than ever in my life. And considering what I sometimes got up to, that's saying a lot. This is horrible for my skin," Jamie said.
+
+["I'd rig one up. I'm no plumber, but I'm a genius. If the fire station falls I'll have a shower up and running in under twelve hours. Also you can totally put lotion on the wishlist. Or I can sniff out a store for that right now."]
+
+"You know what? Why not. I do feel like walking a bit more."
+
+["Since when are you avoiding the fire station?"] I set my nose to the wind and set off in a promising direction.
+
+"I'm not avoiding anything. But I feel like chatting, which is easier the fewer people are involved."
+
+That suspiciously sounded like a fancy way to say 'we need to talk.'
+
+["Only counting numbers of participants larger than 1."]
+
+"I do have a voice in my head, you know?"
+
+["Fair enough."]
+
+And we did just chat, about everything and nothing at all. My nose didn't fail us either. I found a fucking Sephora.
+
+I swapped out of the dire hyena shape and watched as Jamie plundered just about everything that wasn't nailed down.
+
+"Make-up? For whom would that be?" I asked.
+
+"You, of all people, should understand the value of contingency. And who says it's not for me?"
+
+"Have you ever used make-up?"
+
+"I'll boldly claim—more than you?"
+
+I crossed my arms. "Elaborate."
+
+"You definitely go out sometimes, and probably used make-up there, but not for your office job. And you hate loud places with lots of people, so you don't go out a lot."
+
+"That explains my part of the equation."
+
+"With my less-than-hyper-masculine build and face? There's a lot of money in knowing how to do make-up."
+
+That one shut me up real good. I took multiple attempts at replying. Once more, I settled on, "Fair enough."
+
+"Don't look that shocked. You asked for elaboration. I don't usually rub my profession in anyone's face."
+
+"Besides your client's."
+
+It felt good to laugh. It had been a while.
+
+By the time we were done night had settled. The bats didn't seem to react to our presence on the streets.
+
+"How is your sleep?" Jamie asked.
+
+"Considering the circumstances? Better than ever."
+
+"Right? In the hours after this began I thought I'd never sleep a full night again. That Kim's death would haunt my nights forever."
+
+I felt my chest tighten. The most innocuous moment kept reminding me of Mike.
+
+"That's the 'cute gun-nut' you mentioned?" I asked.
+
+"Yeah. He pulled me behind him. Saved my life. I completely froze when I saw that demon."
+
+"It was very similar for me. The Wyrm was messing with my phone, Gabriel was urgently trying to get me to act, and I just locked up. Mike didn't. He heard screaming in the hallway and checked it out. And then—" My voice gave out. Tears started welling in my eyes. Would I spend a single day in this apocalypse without crying?
+
+Jamie took my hand and stepped in front of me. He was crying, too. He opened his arms to invite an embrace, but waited for my permission.
+
+I stepped forward and pulled him close before I toggled Oath sharing on again. I feared so many emotions from others, but in Jamie I found nothing but shared grief.
+
+We stood like that for a while. As his heartbeat calmed, so did mine.
+
+Jamie was the one who pulled back first. Which was the moment that his emotional landscape changed. He was worried, bracing himself for something.
+
+Here it comes. I was about to toggle the Oath again, when he spoke.
+
+"Please keep that connection going just a bit longer."
+
+I tilted my head but stopped and waited.
+
+"I really don't want this to end in a misunderstanding. I'm going to make a promise and I'd ask you to do the same."
+
+"Go on," I said.
+
+"I promise that I won't make more out of"—he gestured between us—"this, than it really is. Can you do the same?"
+
+On the one hand I felt a huge relief. On the other hand, I had no idea where this was coming from. I took a step away from Jamie.
+
+"I can. But why ask this now? Did I do something wrong? Did I overstep?"
+
+Jamie gave me a sad smile. "No, Eve. You didn't do anything wrong. It's not just since the Oath that I noticed how scared you would get sometimes. I just want you to know that what we have is good, and won't suddenly turn into something neither of us wants, okay?"
+
+I took deep breaths. I hadn't noticed how my body had reacted through all this. He was right. I was scared.
+
+I nodded. "Okay."
+
+Jamie started walking again. "This also doesn't mean we need to be less than we already were. You can always come to me when you need a hug. I'm pretty comfortable being close to friends. Just, you know, keeping the clothes on."
+
+I started to feel calmer. "Got it. You might have noticed that I'm not that comfortable."
+
+"When you are in your human skin," Jamie said. I could hear the smile in his voice.
+
+"Yeah. I may be a bit screwed up."
+
+"If this wasn't the apocalypse and she wasn't keeping her distance, Claire would get a really stern talking-to."
+
+I wanted to reflexively defend her. Which was probably just a confirmation of Jamie's point.
+
+"I'll be out for a bit tomorrow morning. Doing her a favor."
+
+Jamie laughed. "Really? What is it?"
+
+"That's hers to talk about. She just needs someone who can fly."
+
+"I'll ask her about it. Can't not."
+
+"Hey, Jamie?"
+
+"Yes, Eve?"
+
+"Wanna see how fast a dire hyena can go while carrying a paladin twink on her back?"
+
+For an urban environment, the hyena was a lot more fun than the unicorn. It didn't reach the same speed, but there was no fear of breaking my legs when jumping over and onto cars blocking the path.
+
+And thanks to the stupid tackle spell, I could make tight turns and literally bounce off walls, without the risk of dropping Jamie.
+
+Instead of quiet prayers, there were screams of joy.
+
+#
+
+I slid to a halt in the fire station's common room. At this point not many people were around and those who were didn't even have the decency to act surprised at our arrival.
+
+Anthony was playing a card game with Constance. Stephen and Liz were on the couch, each reading a comic book with a pile of comic books between them. Ash sat alone at a table with multiple notebooks and his tome.
+
+"Hey folks," Jamie said, while he slid off my back.
+
+I dropped the dire hyena shape and greeted the others as well.
+
+"You've been gone for a while," Ash said. There was a bit of relief in his voice.
+
+"Thought I'd run off and joined the demons?" I asked.
+
+"Not exactly that. I'd have expected Jamie's health bar to drop if that happened."
+
+I shrugged. I had nothing to say to that.
+
+"You want dibs on the shower?" Jamie asked. "You sure need it more than I do."
+
+"Yes, please," I said.
+
+"Hold up," Liz said. "Before you go let me give you something."
+
+She got up from the couch, walked up to me and held out her right arm—into which she summoned a weapon. It was one of the polearms some of the royal guard gnolls wielded.
+
+"A glaive?" I asked.
+
+"I don't think the shield is doing you any favors. You like controlling space and this gives you the necessary reach."
+
+I took the weapon from her and felt its weight. "Thanks."
+
+So far I hadn't really thought about how to optimize fighting in my humanoid shapes. But right now I was sitting on three of them. The gnoll and demon would probably do better relying on my natural weapon skills. But maybe the kobold?
+
+But more important was my mental state while fighting. Liz was right, I liked controlling space. And the moment I couldn't I started panicking.
+
+"Can we train some more tomorrow?" I asked.
+
+"Sure," Liz said. She was already settling back down on the couch.
+
+Under the shower I first accepted the 50 shifts Task.
+
+[Mercurial Rhythm - Passive
+
+Effect: Regenerate 1 ATP every 30 minutes, up to your normal maximum.]
+
+Plain and simple, it allowed me a lot more freedom to use those shapes for utility purposes. Which in turn also meant Jamie could smite with more liberty—my Blessed Cup could fill up his Zeal.
+
+Then I turned in two of the first kill tasks to get up to level 14. The other two I banked. The later I turned them in, the more valuable they'd be. With the attribute points I raised Intuition to an effective 16 and Intellect to 15.
+
+I was at 17 different shapes. If midnight didn't give me any repeats I'd reach the next threshold on Mind over Matter by expending a mere 3 ATP to cycle through all the new shapes. With the increased attributes that would mean +5 to Strength and Agility in all shapes.
+
+I briefly contemplated staying up until midnight, but with every minute I let myself relax under the scalding water, I felt exhaustion creeping up. It was now pretty precisely 48 hours since the beginning of the end of the world. It felt like a lifetime.
+
+Which was strangely calming. A lot had happened in two days. By the end of that 30 day timer, I could raise 18 levels, if all I did was max out the first kill bonuses each day.
+
+Level 32 Eve would surely have options to deal with them.

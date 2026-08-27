@@ -1,0 +1,341 @@
+---
+id: 23b3ce0d-f7bb-55f5-b7d2-34e1685e3466
+page-type-slug: story-chapter-royal-road
+title: "Chapter 63: Silly Second Lessons, Lunacy, and Lazy Dum-Dums"
+slug: 0063-chapter-63-silly-second-lessons-lunacy-and-lazy
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 63
+ownLength: 1692
+unit: words
+publishedAt: 2025-10-30
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2717957/chapter-63-silly-second-lessons-lunacy-and-lazy"
+royalRoadId: "2717957"
+---
+
+PoV Luna:
+
+Her Second decided that one talk for the day was not enough.
+
+And now they were to do a Very Serious Talk.
+
+That was already suspicious!
+
+Syl sat down cross-legged beside Luna, notebook ready, tone calm in that subtly dangerous way calm things usually were.
+
+“Let’s go over your Status together,” she said.
+
+Luna perked up immediately.
+
+“Status? Luna already knows! Makes Luna strong!”
+
+“Yes,” Syl said, smiling, “but you can expand it. Learn what each part means.”
+
+That she could expand her Status to learn what each part means was news to Luna. But she nodded wisely anyhow!
+
+“Means strong!”
+
+Syl inhaled slowly.
+
+“It means so much more than that. And there are numerous parts to it that make full mastery of its inner workings a challenge. For some it’s one they never overcome.”
+
+“Luna good at challenge. Something challenges Luna, Luna bites it up!”
+
+“I, uh, I guess that works too. But you can’t bite your Status.”
+
+“Yip-yep, not yet, Luna tried! Will bite again!”
+
+“Right, um, continuing. Besides how your stats affect your health, stamina, and max mana, and tiers and rarity improve everything at the cost of harder leveling up…”
+
+Luna wagged her tail. She sorta kinda knew those things!
+
+Maybe.
+
+Kinda?
+
+The number thingies going up means good things!
+
+Syl continued, unaware her teachings flew right over a certain wolf girl’s head.
+
+“And the traits, those are some of the most nebulous parts. Aside from ones inherent to race, it's quite rare for even one to manifest, and their effects vary… Though the common factor is that they are typically measured in percentages – and suspected to be unique aspects the System can’t otherwise easily quantify. Even identical-sounding ones could easily be unique to individual. And your Gluttonous Soul trait–”
+
+Luna’s ears lifted.
+
+“Yes, Luna loves that one! It smells of food!”
+
+“–the most obvious benefit is how effectively you metabolize everything you consume, and–” Syl paused. “Are you listening?”
+
+Luna nodded, bright and eager. She was listening! For a little while.
+
+But then Syl kept going. And goooing!
+
+Percentages. Scaling paths. Mana-to-body efficiency ratios. Tiered stat progression. Growth optimization.
+
+Words. So many words!
+
+Luna’s ears drooped. Her tail stopped wagging. Her eyes slowly lost the light of life. By the time Syl said “mana flow correlation curve,” the wolf-girl’s expression had gone full dead-eyed drool.
+
+“–and if you balance your skill growth properly,” Syl was saying, still smiling, “you can improve your efficiency by another ten percent through–”
+
+Luna blinked once. Then twice. Her head tilted. Her tongue slipped slightly between her teeth.
+
+The world had turned into soup.
+
+Syl didn’t notice the casualty before her.
+
+“So, in short, eating monsters refines your traits not because of the physical act, but because the mana inside their essence integrates into your–”
+
+“Eat things. Get strong,” Luna mumbled faintly.
+
+Syl stopped mid-sentence, frowning slightly.
+
+“Pardon?”
+
+Luna blinked, life returning to her eyes all at once. Her tail thumped the dirt.
+
+“Silly Second!” she declared proudly, voice bright and sure. “Luna told you from start! Hunt well, eat meat, get strong, repeat!”
+
+Syl stared at her for a long, measured second.
+
+“That is… one way of putting it.”
+
+“Yes! Best way!” Luna said, beaming, tail a rhythmic blur behind her.
+
+Syl exhaled softly, pinching the bridge of her nose.
+
+Trianna cheerfully added in from behind them:
+
+“Lesson: failed!”
+
+And Luna got a reward for her effort!
+
+【Intelligence +1】
+
+Luna blinked at the air, tail still wagging.
+
+“Ha! Luna even more smart now!”
+
+Trianna, who had been watching the whole scene from the campfire, choked on her tea.
+
+“Wait, the System rewarded her for that?”
+
+Ray groaned.
+
+“Please tell me that’s a joke.”
+
+Syl’s expression went distant, muttering under her breath.
+
+“The System and I are going to have words one day…”
+
+Luna puffed her chest, smug and victorious.
+
+Lesson survived. Jerky secured. Intelligence increased.
+
+Smart wolf wins again!
+
+…But the lessons didn’t stop.
+
+Oh no.
+
+Syl was relentless. Words flowed like rivers, splashing and swirling into Luna’s poor ears. Every time she thought it was over – when Syl would finally say “Good job, Luna, go eat jerky” – another wave crashed in.
+
+Traits. Stats. Mana flow. Efficiency. Balance. Ratios.
+
+The list went on forever!
+
+Luna’s tail drooped lower with every explanation. Her head thudded gently against her paws. She chewed her jerky with grim determination, one tiny bite at a time, like a warrior facing doom.
+
+Salty. Comforting. Lifeline against big-brain words.
+
+Syl sat nearby, smiling gently, unaware of the quiet suffering in progress.
+
+“Now, if we consider your current lineup of skills, you should focus on distributing your mana toward physical reinforcement skills. I could even help you get started.”
+
+“Guh,” Luna groaned.
+
+“What was that?”
+
+“Brain melting.”
+
+Syl tilted her head, concern flickering in her eyes.
+
+“Melting? No, Luna, that’s not–”
+
+“AWOOOOOO!”
+
+The explosion of noise made everyone jump. Then a flash of silver fur – Luna launched forward like a missile powered by despair and hunger.
+
+Pomf.
+
+Both wolf and elf went tumbling into the grass, a puff of dust rising around them. Luna sprawled across Syl’s stomach, face buried in her robes. Her tail flicked weakly against the ground.
+
+“No. More. Words,” she mumbled.
+
+Veric was halfway through drawing his sword before realizing what he was looking at.
+
+“By the gods…”
+
+Trianna covered her mouth, snorting.
+
+“Oh, that’s perfect.”
+
+Ray wheezed, slapping his knee.
+
+“She finally did it! Syl talked the poor wolf into confusion!”
+
+Syl blinked at the stars above, winded, then lowered her gaze to the fuzzy weight on her chest. Her voice softened.
+
+“I’m sorry, Luna. I didn’t realize it was too much. That was inconsiderate of me. No more talking today. What do you say to a small bowl of soup, then sleep?”
+
+Luna peeked up, suspicious.
+
+“Promise?”
+
+“Yes,” Syl said firmly. “I promise.”
+
+“…Then Luna wants a big bowl.”
+
+Trianna cackled.
+
+“Of course you do! Coming right up, chef’s orders!”
+
+Luna slumped bonelessly as Syl sat up, brushing dirt from her robes. The elf’s hand found Luna’s fur again, smoothing down tufts where the grass had ruffled them.
+
+The warmth of her touch and the promise of food chased away the ache behind Luna’s eyes.
+
+And when the soup came – rich, fragrant, steaming – Luna almost cried from relief. She devoured it with quiet reverence, spoon clinking softly as the stars blinked above.
+
+Warmth filled her belly. Calm seeped through her limbs.
+
+Syl’s voice returned, quiet and fond.
+
+“Better?”
+
+Luna nodded sleepily, muzzle still buried in the bowl.
+
+“Best.”
+
+Later came a quick bath. Then a soft blanket. And finally, her Second’s lap again.
+
+Luna burrowed close, paws tucked tight, breathing in the calm smell of herbs and tea. The Moon hung high overhead – big, silver, crunchy.
+
+Her last thought before sleep was simple and true.
+
+Soup fixed everything.
+
+***
+
+Morning arrived with sunlight, birdsong, and the soft smell of soup left simmered too long.
+
+Luna’s nose twitched first. Then her paws – because yes, she turned back to wolf again. Then the rest of her furry form.
+
+She stretched in a long, spine-cracking arch, paws scraping through the dirt, a wide yawn shaking her whole body.
+
+Time for change!
+
+Silver shimmer. Warm light. Pop!
+
+Luna was human again!
+
+And she didn’t forget to wear polite fur this time – good. Very good. Syl would be proud.
+
+She stood tall, hands on her hips, chin high.
+
+“Breakfast time!” she announced to the forest, proud and mighty.
+
+No one moved.
+
+Her pack sat in a circle near the fire, quiet and serious. Paper everywhere. Bags open. Soup reheated but ignored.
+
+Lazy dum-dums!
+
+Syl scribbled in her notebook, quill scratching fast. Sepio leaned over a half-unrolled map, pointing at spots and muttering numbers. Trianna polished her bowstring, humming low. Ray counted coins and muttered about rates. Veric was sharpening his sword again.
+
+No one was eating.
+
+“What’s this?” Luna asked, hands on hips. “No breakfast? No hunt? No soup seconds?”
+
+Syl didn’t look up.
+
+“We’re staying here today, Luna.”
+
+Luna blinked.
+
+“What?”
+
+“The report must be finished,” Sepio said without missing a stroke.
+
+Trianna stretched, yawning.
+
+“And maybe recover from nearly being eaten by a worm the size of a fortress.”
+
+Lazy. Lazy, lazy dum-dums!
+
+Luna stomped one bare foot against the dirt.
+
+“But no meat left! No stew! No smoked jerky! What we eat then – air?”
+
+Ray looked up from his pile of shiny trinkets, one brow raised.
+
+“You could go hunt something.”
+
+Her whole face lit up.
+
+“Yes! Luna hunt for lazy pack! Luna bring strong meat! Everyone eat good again!”
+
+Before she could sprint off, Trianna snagged her by the sleeve, eyes amused.
+
+“Try not to scare anything bigger than you this time.”
+
+Luna frowned in deep thought.
+
+“...Maybe smaller than Luna scary too.”
+
+Veric chuckled, giving her shoulder a light pat.
+
+“Good luck then.”
+
+Ray waved vaguely, muttering out his own words of encouragement.
+
+“Don’t break the forest.”
+
+“Or bring it back alive,” Sepio added, voice dry.
+
+Luna huffed at their laziness but her grin never faltered.
+
+“Fine! Luna fix food problem! Pack useless but Luna useful!”
+
+She turned to bolt again – but Syl rose.
+
+“Wait.”
+
+Luna froze mid-bounce.
+
+Syl stepped close, soft expression easing the mock sternness. One delicate hand brushed a loose lock from Luna’s face. Her touch was light, fingers warm.
+
+“Be careful,” Syl said quietly. Then she offered a small flask. “A sip for energy. And a piece of jerky for the road.”
+
+Luna blinked. Chewed on jerky. Her ears twitched.
+
+“Second best Second,” she whispered, taking it reverently.
+
+“Only Second,” Syl corrected, faint smile tugging her lips.
+
+Luna’s grin spread, bright as morning.
+
+“Then best Second!”
+
+Potion sipped, jerky nommed. Approval earned. Hair brushed by Second.
+
+Perfect start!
+
+Apex Predator Luna ready for action.
+
+She took one bounding leap, another, and vanished into the green.
+
+Sunlight flashed across her hair as she ran, fast and eager. The forest called, the wind answered, and the hunt began anew.
+
+There was food to chase.
+
+A pack to feed.
+
+And a world that clearly needed more Luna in it.

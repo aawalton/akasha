@@ -1,0 +1,403 @@
+---
+id: 8674eefa-6a2b-57ce-a538-b2a55d969682
+page-type-slug: story-chapter-royal-road
+title: "Chapter 47: Risk"
+slug: 0047-chapter-47-risk
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 47
+ownLength: 2637
+unit: words
+publishedAt: 2026-05-20
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3423728/chapter-47-risk"
+royalRoadId: "3423728"
+---
+
+Thom left after dark.
+
+I stood at the window of my room on the second floor and watched him ride off to the front. Five days.
+
+I turned from the window and surveyed the room. The sword leaning against the wall, its oiled cloth wrapping loosened from the day's drills.
+
+Two books sat on the small table beside the bed.
+
+I'd read nearly everything the Town Hall library had to offer. In the weeks since the refugees had arrived, every rest period I hadn't spent training had been spent in that cramped, understaffed room on the first floor of the administrative building, pulling volumes from shelves and consuming them.
+
+History. Geography. Magical theory. Military doctrine. Economic reports. Census data. Agricultural treatises. Anything and everything that might fill the enormous gaps in my understanding of this world. Still, no notification about economics, management, or anything beyond reading had appeared. I had no idea how much longer I'd have to keep reading before Gluttony decided I deserved a skill in that area.
+
+Mira had noticed my interest. She started setting aside every new book that was acquired or obtained through exchanges with mages, knowing I would likely be the first—and perhaps the only—person to read it.
+
+But the library was finite. And the two books that remained on my table weren't from the Town Hall.
+
+They were mine.
+
+The first was the Mana Blood booklet. I'd read it cover to cover. Read it again the next week. And the week after that. My memory held every diagram, every instruction, every visualization exercise with a clarity that bordered on photographic.
+
+Yet, I hadn't practiced it.
+
+The reason was simple. I knew it wouldn't work for me. It wasn't just about listening to what others said. My understanding of how Mana Breath worked made it obvious that mixing the two was dangerous. Dangerous enough that it wasn't worth the risk. At least, not if you were afraid of dying.
+
+The second book was the Hexenzeit primer. Foundations of Pyromantic Channeling. The red leather cover with the family crest. Page after page of Circle-based fire magic that I would never be able to cast.
+
+Two books. Two locked doors.
+
+One technique I couldn't use because it would conflict with the technique I already had.
+
+One discipline I couldn't use because I lacked Circles.
+
+I sat on the edge of the cot and stared at them.
+
+Five days.
+
+In five days, the countdown would reach zero. Whatever the elves had been waiting for would arrive.
+
+I wasn't ready.
+
+The training had hit a wall. My techniques had hit a ceiling. And the clock was still ticking.
+
+There was nothing safe left to try. Except taking risks. I picked up the Mana Blood booklet.
+
+Opened it to the first page. Read the opening paragraph for the hundredth time.
+
+Mana Blood is the practice of introducing mana into the circulatory system through conscious direction. The practitioner moves mana from the core into the bloodstream, where it is carried by the body's natural circulation to every extremity, every organ, every fiber of muscle.
+
+I turned the page. The diagram showed the human heart at the center of a radiating network of arteries and veins, each one annotated with arrows indicating the direction of mana flow.
+
+The technique begins with the heart. The practitioner directs a small quantity of mana from the nearest core into the left ventricle during systole. The mana is then carried outward through the arterial system by the force of the heartbeat itself.
+
+I knew the words by memory.
+
+What I didn't know was whether it would kill me.
+
+Conventional wisdom assumed a normal body. One core, maybe two. A modest mana supply channeled through a single technique.
+
+I had nine cores, an ocean of mana and a cursed body that had already broken some rules this world considered inviolable.
+
+Maybe incompatible didn't mean impossible.
+
+Maybe it just meant dangerous.
+
+I set the booklet on my knee. Closed my eyes and took a breath.
+
+The mint-burn bloomed in my lungs. The familiar warmth of Mana Breath settling into its rhythm, pulling traces of mana from the air. The flow radiated outward through my shoulders, into my arms, fading at the elbows.
+
+Normal. The ceiling I'd been hitting for months.
+
+I held the breath. Let the mana pool.
+
+Then reached for my heart.
+
+Not physically. The same way I'd learned to reach for the mana in my lungs.
+
+I found the heartbeat. Felt it drumming in my chest. Felt the blood moving through the chambers, the rhythmic squeeze and release.
+
+I directed a thread of mana toward it.
+
+A single thread. The thinnest filament I could produce.
+
+The thread touched the blood.
+
+My heart stuttered.
+
+One beat skipped. The next came too fast, too hard.
+
+The mana entered the bloodstream.
+
+The sensation was nothing like Mana Breath.
+
+Mana Breath was a gentle flow spread outward in waves.
+
+This was fire.
+
+Actual heat. A burning sensation that radiated from the center of my chest and shot through my arteries with the force of my heartbeat. I felt it race down my left arm, hit my wrist, reach my fingertips.
+
+My fingers burned.
+
+For the first time since I'd learned Mana Breath, I felt mana in my fingertips. Full, dense mana that filled my hands.
+
+It was extraordinary.
+
+For less than a second.
+
+The blood completed its circuit. The mana-laden blood traveled through my fingers, through the capillaries, into the venous system, and rushed back toward the heart.
+
+Through the lungs.
+
+My lungs, which were already saturated with Mana Breath. My lungs, which were pulling traces of mana from the air with every inhale and depositing them into the tissue. My lungs, which had been doing this continuously.
+
+The blood passed through the pulmonary capillaries.
+
+The mana in the blood pulled at the mana in the lungs.
+
+Adding a lot more to the blood flow.
+
+The blood that returned to the heart was denser than the blood that had left. Carrying not just the thread I'd consciously directed but the additional payload.
+
+The heart pumped it out again.
+
+The second circuit was worse. The mana in the arterial blood was now double what the first pass had contained. It hit my extremities harder. The burn in my fingers intensified. My toes, which had never felt mana at all, suddenly blazed with a sensation like standing in hot sand.
+
+The blood returned. Passed through the lungs. It pulled even more.
+
+Third circuit. Triple the load. The burn climbed from my fingers into my forearms.
+
+Fourth circuit. The mana was no longer a thread. It was a river. Each heartbeat drove a surge of power through my body that left every vessel trembling in its wake.
+
+I could feel my heart laboring.
+
+The muscle was working harder than it had ever worked. The rhythm accelerated. Sixty beats per minute became eighty. Eighty became a hundred.
+
+I tried to slow it. Tried to reduce the flow. Tried to pull the mana back, to thin the blood, to return to the careful equilibrium that Mana Breath maintained.
+
+It wouldn't stop.
+
+Mana Breath was automatic. It had become as natural as breathing itself. I couldn't turn it off. The technique ran beneath conscious control, embedded in the deep architecture of my respiratory system.
+
+Every breath added mana. Every heartbeat circulated it. Every circuit amplified the load.
+
+My heart rate kept increasing to numbers I couldn't figure out.
+
+Sweat burst from every pore. My shirt soaked through in seconds. My hands shook. My vision was hazing into a tunnel of gray.
+
+The pain started.
+
+An agony that originated in the center of my chest and radiated outward along every artery. As if someone had threaded a white-hot wire through my heart.
+
+My hands found my chest.
+
+Stop. Stop. I need to stop.
+
+I pushed the mana toward my extremities. Forced it outward, away from the heart, away from the lungs, toward the fingers and toes where the threads had always frayed and dissolved.
+
+The Gluttony stirred.
+
+At the edges. At the extremities. Where the mana thinned enough for the curse to eat it. I felt it there, at the tips of my fingers, at the soles of my feet. The voracious, mindless hunger that devoured whatever it could reach.
+
+I fed it.
+
+Pushed mana into its jaws. Let the Gluttony consume. Let it eat the excess, strip the blood, thin the load.
+
+The feedback loop stopped. My heart rate dropped. The pain receded.
+
+I kept pushing. Kept feeding the Gluttony at the edges. The curse consumed and consumed and consumed, and slowly, beat by beat, the mana in my blood disappeared.
+
+I gasped.
+
+Air scraped through my throat. My lungs burned. My heart ached from exhaustion.
+
+I pressed my hand against my chest and felt the rhythm settle.
+
+The world came back into focus. My shirt was plastered to my chest with sweat. My hands trembled.
+
+But I was alive.
+
+"You... okay?"
+
+The voice came from the doorway.
+
+Yulia stood in the hall with a bucket in one hand and a bundle of rags draped over her arm. Her pink hair was pulled back in a loose knot. Her eyes, wide and cautious, moved from my face to my soaked shirt to the trembling hands.
+
+Her accent fractured the words into careful, separate pieces.
+
+"Fine," I said. My voice came out as a croak. I cleared my throat. "Training."
+
+"Training." She repeated the word. Her brow furrowed. She looked at me sitting on a cot drenched in sweat.
+
+She set the bucket down in the hallway. Stepped into the room. Crossed to the washbasin, wrung out the cloth that sat in it, and held it out to me.
+
+I took it. Pressed it against my face. The cool water was a mercy.
+
+"Thank you," I said.
+
+She nodded. Stood there for a moment, arms folded around the bundle of rags she was still carrying.
+
+"Why," Yulia said, and stopped. Her mouth worked around the next word. "Why you... always here? In lodge."
+
+"I live here."
+
+"No." She shook her head. "Why not... go. Family. Visit."
+
+"I don't have family."
+
+The words came out simpler than I'd intended. The rehearsed response was something about being stationed here, about the front, about duty.
+
+Yulia's face shifted.
+
+The caution didn't disappear, but her eyes softened.
+
+"Me too," she said quietly. "No family."
+
+The silence returned.
+
+She adjusted the rags on her arm. Looked toward the window, where the last light of evening was bleeding out.
+
+"Why you... risk?" she asked. "If no one... waiting. Why you fight?"
+
+I turned the cloth in my hands. Pressed it between my palms.
+
+"Because it's not about having someone," I said. "It's about being someone."
+
+She frowned. The vocabulary was stretching past what she could parse.
+
+I tried again. Slower.
+
+"You ran. Through the kill zone. Forty-six of you started. Five survived."
+
+Her jaw tightened.
+
+"The others," I said. "Pyotr. Nadya. Ivan. Anya. They're not your family."
+
+"No."
+
+"But you ran with them. You helped them. You were the one they looked to."
+
+Her eyes dropped to the floor.
+
+"Why?" I asked. "If you had no one waiting. If there was no family to return to. Why risk it?"
+
+Yulia was quiet for a long time.
+
+When she spoke, the words came out in her own language first. Then she caught herself. Translated.
+
+"Because... someone must." She looked up. Met my eyes. "If no one does... then all die."
+
+I nodded.
+
+"Same."
+
+Something passed between us. Recognition.
+
+A shadow crossed her face. Brief and dark, like a cloud passing over a field. Her fingers tightened on the bundle of rags. Whatever the shadow was, whatever memory or thought had produced it, she pushed it away.
+
+"Good," she said. "Be careful."
+
+She picked up the bucket from the hallway. Nodded once and walked away.
+
+An hour passed.
+
+The sky outside the window went from gray to black.
+
+I picked up the Mana Blood booklet from the floor where it had fallen.
+
+Opened it again.
+
+Stared at the diagram of the heart.
+
+The first attempt had nearly killed me. The feedback loop between lungs and blood had amplified the mana beyond anything my body could sustain. If I hadn't had the Gluttony at the edges, if the curse hadn't been waiting to consume the excess, my heart would have burst.
+
+But the attempt had also shown me something.
+
+For three seconds, before the loop spiraled out of control, I had felt mana in my fingertips.
+
+The only problem was control.
+
+Mana Breath was automatic. It ran without conscious intervention.
+
+Which meant that any blood passing through the pulmonary system would receive an additional mana payload. Every circuit would be denser than the last. The feedback loop was inevitable.
+
+Unless I could control the rate. Find a balance point where the mana entering the blood equaled the mana being consumed.
+
+The thought was theoretical. Elegant in the abstract.
+
+In practice, it meant holding my life in a balance between two forces that wanted to kill me. The mana that wanted to fill my body beyond its capacity, and the curse that wanted to devour everything I had.
+
+I set the booklet aside.
+
+Sat on the floor.
+
+Breathed.
+
+The mint-burn bloomed. Mana Breath, steady and automatic.
+
+I reached for the heart again.
+
+The thread of mana touched the blood.
+
+The reaction was immediate. The same surge through the arteries.
+
+But this time, I was ready.
+
+The moment the blood returned from its first circuit, the moment the lungs added their payload and the second surge began, I pushed.
+
+Not against the flow, but with it. Toward Gluttony.
+
+The mana hit my fingertips. The curse consumed.
+
+Not enough.
+
+The third circuit was already building. Denser than the second. The lungs were adding more with each pass, and the Gluttony wasn't eating that fast.
+
+My heart rate climbed.
+
+I pushed harder. Forced the mana outward with everything I had.
+
+The Gluttony consumed.
+
+The balance trembled.
+
+The heat was building. The wire in my chest was warming. The same pain from the first attempt, creeping back, wrapping around my ribs.
+
+I couldn't hold it.
+
+The mana was too much. The feedback loop was too strong. Every second that passed added another layer to the load.
+
+I tried to bleed the excess faster. Tried to open every channel to the Gluttony at once, to give the curse an all-you-can-eat feast.
+
+The Gluttony ate.
+
+Not fast enough.
+
+The edges of the room dissolved into gray.
+
+Stop. Pull back. Let go.
+
+I couldn't. The circuit was already running. I couldn't reach into my own veins and pull the mana out. I couldn't stop my heart from beating.
+
+The pain became absolute.
+
+It filled every space inside me.
+
+My heart was convulsing. The rhythm had broken. The muscle was spasming, trying to push blood that was more mana than liquid through arteries.
+
+I opened my mouth. No sound came out. My lungs were burning. My chest was burning. Everything was burning.
+
+The last thing I felt was my heart.
+
+One final, violent contraction. Harder than any before it.
+
+The pain vanished.
+
+Everything vanished.
+
+Gone.
+
+A blue screen materialized.
+
+⌜ Death Recorded ⌝
+
+⌜ Cause: Cardiac rupture due to uncontrolled mana saturation of the circulatory system. ⌝
+
+⌜ Classification: Self-inflicted. ⌝
+
+The words hung in the void.
+
+Self-inflicted.
+
+I stared at them.
+
+The second line appeared beneath the first.
+
+⌜ Your heart exploded from excess mana. ⌝
+
+⌜ The organ exceeded its structural capacity by approximately 340%. Terminal failure occurred in 0.003 seconds. ⌝
+
+⌜ You did not suffer. ⌝
+
+⌜ This is not a consolation. ⌝
+
+My mind scrambled for the curse. For the familiar pull of the reset.
+
+The pull didn't come.
+
+Relief flooded through me.
+
+The relief died.

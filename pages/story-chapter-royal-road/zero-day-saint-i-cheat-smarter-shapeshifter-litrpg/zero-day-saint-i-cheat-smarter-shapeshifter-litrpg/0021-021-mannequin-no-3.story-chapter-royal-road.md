@@ -1,0 +1,192 @@
+---
+id: edc8062e-6883-59d0-8c81-cc94d38cd75a
+page-type-slug: story-chapter-royal-road
+title: "021 - Mannequin No. 3"
+partOf: zero-day-saint-i-cheat-smarter-shapeshifter-litrpg
+position: 21
+ownLength: 2226
+unit: words
+publishedAt: 2026-05-18
+link: "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3412449/021-mannequin-no-3"
+royalRoadId: "3412449"
+---
+
+While they had done a great job at sealing the door against wind and cold, I had no idea how the insulation would hold up if someone tried to break in. Her previous body couldn't have budged it at all, but this did not sound like a fluffy little teddy at all.
+
+["We got an intruder incoming. Claire, Cee, the one who controlled that teddy. No idea what shape she's in this time."]
+
+There was a rush of comments and messages in response. If we'd need to let her in; if she would attack us, kill us all, as revenge for what I had done; why I even had attacked her. I had few answers.
+
+["If she needs to be let in we have to. This is a fire station, for god's sake, we can't deny her warmth."] Anthony wrote.
+
+["He's right. But if she needs it, she probably wouldn't have made it here in the first place."]
+
+["How about we talk to her first? I'll reach out, my Charisma gives me some extra range for the local chat."] Jamie said.
+
+That was the first time I'd heard about that. There was too much to learn about this system.
+
+["Hello, Claire. Do you need help? Access to shared warmth?"] he wrote.
+
+If they opened that door to let her in, I'd sneak out. I'd rather outlast this storm outside than locked up with her.
+
+["Hello, Jamie. Hello, Eve's friends. I do not need help, others do. Without help they'll freeze soon."] Her name read as 'Mannequin No. 3'. Somehow she kept being a nightmare.
+
+I felt slightly annoyed at being left out of her greeting, but at the same time I couldn't really blame her. She was the one who lied to me about her identity. I was the one who murdered her in return. Even I had to concede that pouting was justified.
+
+["Please explain. We have very limited options to operate outside."]
+
+["A family of three. Two parents and a teenager. The teen and the mother are Blessed. They were preparing their basement against the storm when the earthquake struck, impaling the woman on a broken-off gas pipe. They fear she'll die if they remove her, but their preparations have been disrupted by the structural damage. The two don't want to leave her and might not make it even if they did."]
+
+The fox's fear was yet a new flavor. Very much something in between canine and feline, and yet something entirely unique. The only one of us who could do something about this was me. The moment I stepped outside it would be laughably easy for Claire to murder me. She could pull a bucket of water out of her inventory and that would be the end of it.
+
+But at the same time, refusing this request would mean losing the sanctified space. A family that needed rescuing? A place that got sanctified because people in it were willing to risk their lives to save others couldn't withstand the cowardice.
+
+["Ash, can the seal on the door be repaired if we open it? Before the cold inside becomes lethal."] I asked.
+
+["It depends. I can't tell how cold it is outside. It's possible."] Ash replied.
+
+["-50F"] wrote Claire. ["-85F wind chill"] she added.
+
+["Yes, I think it's doable. It'll hurt, but it won't kill any of us. I think. We'd need to be fast."]
+
+["I'm not sure if I can survive that. I'm supposed to curl up against the cold. If I'm walking through the storm I'm not sure how long I can last."] I wrote.
+
+["What shape are you in?"] Claire asked.
+
+Of course she couldn't know.
+
+["Arctic Fox."]
+
+There was a moment of silence as she processed it. She also couldn't know how little control I had over those shapes. She had to wonder if I was being practical, emotional, or something in between.
+
+["I can carry you. Wrapped in a sleeping bag, folded in on itself to double up on insulation, leaving an opening for air without exposing you to wind."]
+
+That would probably work. Fuck.
+
+["Okay, folks. What insulation do we have left? A tent? We need to fill my inventory with whatever we can spare. But I think that woman will still die. I might not be able to perform first aid there."]
+
+["I got a potion."] Constance wrote.
+
+Everyone just waited for her to elaborate.
+
+["Heals a person to full and provides +2 Constitution for two hours afterwards. It also gave me the recipe to make more, but only once every three days."]
+
+And just like that we had a plan. One that relied entirely on my ex not screwing me over. She wasn't a monster. She'd taken Hell's offer for the same reason I had. She was horrible at being a good person, but that never stopped her from trying.
+
+Before I could urge everyone into motion there was that 'plop' I'd come to associate with Lucy. Only that it wasn't Lucy at all. It was me—my face, my body—wearing a tailored black suit, tie and all. She leaned down to me, gave me a wink and vanished again, just as Stephen pushed the first stack of supplies out from under the 'pillow fort'.
+
+I felt sick. The noise grew louder. I could hear my own heart rushing.
+
+The other reason she'd taken Hell's deal had been me. I'd been the one who told her to take it. A devil wearing my face.
+
+"Damn, that's cold," Lucy said.
+
+While I filled my inventory with our spare material, I swapped to Guide chat.
+
+["Can I kill a devil guide in a sanctified space? And will it desecrate it?"]
+
+"Eve!" I'd never heard Gabriel so outraged.
+
+"Technically, yes," Lucy explained. "We are really real when we are corporeal. Say that three times fast. But we can also vanish at will. That question is also both threatening me and a co-worker. And yes, sanctification goes kaput. Because of the premeditated murder of a non-combatant, you know?"
+
+"Which Hell would love you to do. You'd be doing them a huge favor in even attempting this. The consequences would be catastrophic regardless of your success or failure. Not to mention that she's wearing your own face. Don't do this Eve. Banish that thought, this isn't you." Gabriel's voice was quivering.
+
+I'd said a lot of dumb things tonight. But this was a new best.
+
+["Sorry."] I wrote. Which didn't feel appropriate, but better than nothing.
+
+"Just… be careful, okay? Ultimately it's your actions that matter, but every thought can pave the way."
+
+Jamie emerged, carrying a bunch of our leftovers. His face was a mix of concern and confusion, which somewhat melted away when he saw me sitting there, waiting for him to drop the stuff. I didn't know how I should feel about the fact that this shape didn't scare people anymore, by being too cute to be scary. Of course he hadn't seen Claire's devil and only gotten my question and Gabriel's response. To him I'd just asked about killing Lucy.
+
+["I got a glimpse at Claire's devil guide. She's a bitch."] I wrote in our shared Guide chat. Didn't need to announce this to the entire party.
+
+While I loaded everything into my inventory, Constance also approached, potion in hand. It was exactly the kind of bulbous shape one would expect in a video game. Only that the fluid inside looked like liquid gold and the bottle was warm to the touch. I put it in my inventory.
+
+["Is that exothermic? Can I use that as a heater?"]
+
+That question seemed to cheer Gabriel up again. "No, Eve. Good call, but no. The inventory preserved its warmth from the moment she got it. It'll freeze if you keep it exposed."
+
+Damn. That would have been a useful fact to know. We could have filled water bottles with steaming hot water and put those into our inventory at the deli. Endless details to learn, never enough time.
+
+While the others discussed the exact approach for the handover and resealing, Jamie knelt down next to me, folded sleeping bag in hand.
+
+"You sure about this? Earlier you attacked her for lying to you, now you are pretty much putting your life in her hands. It would be understandable if you didn't trust her."
+
+["Careful, those aren't very paladin-esque words."]
+
+"Just because the universe decided to hold me to impossible standards, doesn't mean I have to expect the same of others. I'd take your place if I could, but that doesn't mean that you have to do this."
+
+Maybe that class wasn't as bad a fit as Lucy had claimed it'd be. But that, too, wasn't a discussion for now. I hopped into the bag and curled up within. There was an additional layer of cut-out foam insulation, like from a yoga mat, at the bottom. I climbed up so my head poked out of the bag. If I was going to be carried by a creepy-ass mannequin I wanted to at least see what she looked like.
+
+She looked even creepier than I had anticipated. When they opened the door, a skeletal wire-hand shot in to grab me. The plastic, brittle from cold, had fallen off its fingers, leaving only the metal skeleton underneath. Half of its featureless face had suffered the same fate, though most of the main body was still covered. She didn't wear any clothes. They would probably do more harm than good in the wind.
+
+I was yanked outside and the door slammed shut behind me.
+
+["See you later, guys"] I wrote in party chat.
+
+Out in the corridor the cold was already biting against my eyes and nose. I retreated into the bag, as Claire fell into jerky motion. For a while neither of us 'said' anything, though we were both incapable of speech anyway. It reminded me of times when we'd been together, me lounging on the couch with a laptop, Claire at the desk, chatting with each other, six feet apart.
+
+Only when we had left the shelter of the truck bay and got out onto the street did I message her.
+
+["Does it hurt?"]
+
+The mannequin stopped for an instant.
+
+["The cold does not. When something breaks or chips, it does."]
+
+I thought of that skeletal hand and winced in sympathy.
+
+["Sorry. In the mall… I overreacted."]
+
+["I shouldn't have lied. You just looked so different. Well, obviously you did, being a gazelle. But that broken horn, the blood, the eye. I knew it was you, but didn't know who you were anymore."]
+
+["I suppose your devil guide didn't help there."]
+
+Once more we jerked to a halt.
+
+["You know?"]
+
+["She let me know, just now in the fire station. Did she steal my name, too?"]
+
+["She did. Though I refuse to call her that. I knew quickly it wasn't you."]
+
+We continued. Only the faint blue outline of the fire station and the reds of the tainted spaces gave me any sense of direction or distance. With the noise of the wind, we couldn't have talked if we had wanted to. The icy shards needling the bag added to the ambiance.
+
+["I had been ready for anger. We had our fights. I just hadn't expected violence. You'd never been the type."] Claire wrote.
+
+I wanted to make excuses. That I was upset because of the bullshit the Wyrm had pulled. That it was a horrible night. That I hadn't been myself. But they were all bullshit. Even in that fury, I knew I was hurting her. I just let the viciousness win anyway.
+
+["There is no apology that's ever sufficient for what I've done. I am sorry, as little as that matters."]
+
+["You'll understand that I will keep my distance. I won't let people die over this, but there won't exactly be an us in this world either."]
+
+I hadn't even wanted an 'us'. Seven out of ten nights I was glad I broke up with her. And yet, the words stung. Which… might be the point.
+
+["That question. Why that question when you realized I had figured out your secret."]
+
+["I had hoped you'd feel less angry if you felt guilty. Not more."]
+
+And there it was. Words weren't a means of communication for her. They were another tool to achieve a goal. She'd lied to me and used words to make me feel guilty when I had been wronged.
+
+["This is where you ask me about the eye?"]
+
+["Is it?"]
+
+["You admitted to fucking with me, intentionally, so it's time to poke at something else."]
+
+["Rude. But what happened with the eye? Why did you take a deal?"]
+
+["Same reason you did. To help others."]
+
+["Do you regret it?"]
+
+I was reminded of Lucy's promise—that I would.
+
+["No. I don't think I do. I had expected to. Well, yes, I did, too. But not for long. I don't know if those people would be alive right now if I hadn't. You?"]
+
+It made me into an outcast, and that was somehow comforting. At the same time it had helped the others.
+
+["I'm not sure. I feel—no, forget it. This isn't your concern."]
+
+That was the biggest admission of regret she'd ever been capable of. Something must have gone very wrong already. We didn't speak any more before we arrived.

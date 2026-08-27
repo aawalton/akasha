@@ -1,0 +1,267 @@
+---
+id: a9447b91-d662-57df-8b94-f4f1c128464b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 75: Three Titans"
+slug: 0075-chapter-75-three-titans
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 75
+ownLength: 2981
+unit: words
+publishedAt: 2026-06-29
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3608710/chapter-75-three-titans"
+royalRoadId: "3608710"
+---
+
+"To the exit!"
+
+I drove both of them off the entrance and into the lane before either had finished believing what their eyes were seeing.
+
+The thing over the rooftops did not wait for them to believe.
+
+It moved a leg.
+
+That was all. One limb, a scythe of chitin longer than a caravan mast, swept sideways through the warehouse district the way a man swats a fly from a table. Where the limb passed, the city ceased.
+
+A row of mudbrick stockhouses folded inward and burst outward at once. A wagon wheel the size of a millstone cartwheeled past my head, close enough that the wind of it cuffed my ear, and buried itself in the wall behind me.
+
+The screaming was a single sustained note made of ten thousand throats, rising out of the warren of streets, and it simply went on.
+
+"Move," I screamed and shoved Lena and Henrik.
+
+We ran north.
+
+The route was Lena's. She'd carved it into all three of us over a day of watching, north through the warehouse lanes, east into the commercial quarter, cut the market, make a gate. Her plan held even now, even with the world ending around it. We took the lanes at a dead sprint, the Mana Breath burning bright in my chest, flooding down into my thighs until each stride ate four meters of packed earth.
+
+The Ashkeri ignored us.
+
+Forty of them, fifty, white tunics gone gray with dust, pouring toward the monster, and not one of them so much as turned a bronze-masked face our way. Every grain of their attention was bent on the thing destroying their city.
+
+Maybe I should have been worried. It was an entire city being reduced to ruins, after all. However, over the past few months, I had learned my limits. Those soldiers looked far more prepared than I was.
+
+I kept my focus on running. Yet a question kept bothering me.
+
+Why are they losing?
+
+I had seen the morning Titan. The serpent thing. The desert mages had broken it in minutes.
+
+This one was bigger. But not by much.
+
+Not enough to explain why it broke the city's great defense.
+
+The question got its answer four minutes later, at the main gate, and I'd spent more deaths than I care to count wishing it hadn't.
+
+The gate was a wall of bodies.
+
+More Ashkeri than I had seen in one place since we'd crossed the border. More mages, their heavy robes packed shoulder to shoulder along the inner wall-walk. They had abandoned the breached northwestern quarter entirely. Every soldier the Sultanate could throw was here, at the southern gate, the one we needed, screaming, dying, holding a line against —
+
+Against the thing wedged between the two great doors.
+
+I skidded to a halt at the start of the gate. Lena slammed into my shoulder and Henrik fetched up beside me, and the three of us simply stopped, because the way out was not a way out anymore.
+
+It looked like some kind of beetle.
+
+That was the closest the mind could come. A scarab, swollen to the dimensions of a temple, its carapace a wet black-green. It had forced itself into the gap of the gates, its bulk pressing the bronze slabs apart, its six legs braced against the stone arch and the road.
+
+From the seam of its mandibles, light gathered.
+
+Green. It pooled in the creature's gullet and pulsed, brighter with each pulse, condensing toward a point.
+
+"There's no way through," Henrik said. His greatsword was already in his hands. He didn't lower it. He didn't raise it either.
+
+"We have to." Lena said. "If we wait for the fight to finish, they will be alerted about us. We go now or we don't go."
+
+Behind us, the mantis in the warehouse district answered the argument for us.
+
+I felt the heat before the sound. The thing in the warehouse district opened whatever it used for a mouth and exhaled, and a torrent of burning light unspooled across the rooftops between us and it. It carved a trench through the city.
+
+It missed us by twenty meters.
+
+"If this keeps up—" Lena said, her voice breaking from all the running. "If this keeps up, the Sultanate falls. Tonight. We're standing inside a dying city."
+
+The beetle's green light reached its apex.
+
+It fired.
+
+The breath came out of it as a lance, a solid bar of green annihilation that crossed the gate plaza in no time at all and struck the packed ranks of Ashkeri to our left, and where it struck, men ceased to be men. They were dissolved, flesh sloughing from bone in the instant before bone itself went to smoke. The lance swept a quarter-arc across the plaza and erased everything in it, stone scorched black and steaming in its wake. The beetle's mandibles hung open and slack while somewhere deep in its gut the light began, patiently, to gather again.
+
+The mages on the wall hammered it. Pillars of sand drove into its flank, its legs, the soft seam beneath its carapace. It rocked. Yet did not move.
+
+But its mouth was empty. For a breath, for two, the great weapon was spent and refilling, and the legs that blocked the gate stood braced and still.
+
+A window.
+
+"Now!" I ordered as I was already moving.
+
+We ran like ants — three specks scurrying through the canyon of its legs, the road a churned ruin of stone and pulped Ashkeri under our boots.
+
+Every instinct screamed at me to run. I was relying on my ability to read the flow of mana. That was my mistake.
+
+No mana. I had read that absence as safe. No mana meant no spell. No spell meant no second strike.
+
+However, not everything that could kill us relied on mana.
+
+I understood that with useless clarity in the instant the beetle's abdomen flexed.
+
+It simply clenched, a muscular convulsion that ran the length of its body, and from glands seated under the rear of its carapace it sprayed a fine, hissing mist of amber fluid that fountained out across the entire plaza, across the legs, across the gap, across the three of us caught beneath it.
+
+The first drop touched the back of my hand and ate to the bone.
+
+There was no scream in me fast enough. The mist came down like a warm rain and where it landed the world corroded itself. My robe blackened and sagged and ran like wax, the skin beneath it going to red ruin, the red going to white, the white to nothing. My fingers folded and sloughed. The bones of my hand stood bare.
+
+Beside me, Lena was screaming. The sound was wet and it came apart in the middle as the acid found her throat.
+
+Henrik did not scream. The mist had caught his face, and a man without a face cannot make a sound.
+
+I melted.
+
+We all did.
+
+⌜ Initiating Curse ⌝
+
+⌜ Restarting Day ⌝
+
+The world snapped shut and opened again.
+
+My head split.
+
+That was the toll. It always was. The reset arrived riding a spike of white agony that drove in behind my eyes and twisted, a pain with no wound under it. I didn't cry out.
+
+Dying was not new to me.
+
+The body that came apart in the desert had not been the first body I'd worn into ruin, and the part of me that did the wearing had grown a callus over the place where horror used to live. I had drowned. I had burned. I had bled out, and I had walked away from all of it into a morning that did not remember the killing.
+
+But there are deaths and there are deaths.
+
+"Acid," I muttered, and my voice came out cracked and low and tasting of bile. "Not the first time. Still horrible."
+
+"Did you say something?" Lena asked.
+
+Her face under the headwrap, her tinted lenses pushed up into her hair, her brow furrowed at me with mild, distracted concern.
+
+"Headache," I said. "Too much light."
+
+Her brow smoothed. She turned back to the gate.
+
+We were standing in the mouth of Qalathar.
+
+The sun sat low. A few seconds past sunrise.
+
+I knew what came next.
+
+The ground shook.
+
+Right on schedule.
+
+The first Titan came the way it had before. The cobra-thing. A vast serpentine head rising over the eastern wall, plated in scale, mouth gaping on a roar that bypassed the ears and rang in the marrow.
+
+I watched it without watching it. My eyes were on the people.
+
+The fruit-seller dragging his shutter up. The two women already haggling over a basket of fruits. The boy with the leather ball. None of them looked up.
+
+The wall held. The desert rose. Pillars of compacted sand hammered up out of the dunes and into the serpent's throat, its flank, the hinge of its jaw, and the great head whipped backward and the mages on the wall pressed their advantage and in minutes the thing was a diminishing shape retreating.
+
+I turned my back on it. I'd seen how this scene ended. I'd seen how the whole day ended, and the cobra was the least of it.
+
+"What do you make of them? The Sultanate." I asked, keeping my voice low.
+
+Lena considered it. Henrik looked around. "Barbarians," she said at last, and there was no heat in it, just the weight of a judgment. "What they do with alchemy, the soldiers, the blood. No human being should have to become what those men on the wall have become. They cut the humanity out of them and pour something else in." Her jaw tightened. "It's an abomination."
+
+Henrik nodded, his eyes on the wall where the white shapes were already returning to their patrols.
+
+"Abomination," he agreed. "And necessary."
+
+Lena didn't argue. That surprised me a little.
+
+"Picture the Empire without this," she said, and lifted her chin at the desert, the wall, the whole obscene machine of the Sultanate. "Picture us holding the southern front against the elves — bleeding mages into the trenches by the thousand, the way we already are — and turning to face that." A small gesture toward the haze where the cobra had vanished.
+
+"It'd be impossible," Henrik said quietly. "The Empire couldn't do both. Nobody could. The whole world's leaning on the whole world right now." He shrugged, and the greatsword shifted on his back. "Whoever falls first takes a neighbor down with them. Then the neighbor takes the next. It doesn't stop until there's nobody left standing to lean on."
+
+I can't let Qalathar fall, I thought.
+
+It was a strange thing to think, standing in a city painted in human blood, watching men who'd been carved out of their own humanity patrol a wall. I had no love for this place. But I'd done the math the same way they had, and it came out the same way every time.
+
+Fleeing might save the three of us. But it would doom my plans and humanity.
+
+Gregor stood from the table when we came through the door. Maren didn't; she only lifted her scarred hands off the maps and watched us file in.
+
+"Fourteen months," Gregor said, the same opening, the same gesture at the city plan weighted down with brass cups of cold tea. "What we've learned is this."
+
+I let him run through it. The southern routes. The convergence. The single red circle on the warehouse in the northwestern quarter. The two options — observe, or destroy. The fifteen-to-twenty-minute window between a fire and the gates sealing. The line he drew across his throat with one finger.
+
+It was all the same. Word for word.
+
+Now I knew I had to gather more info or I would be stuck in a dead city.
+
+"Why not the source?" I asked, when he finished.
+
+Gregor blinked. "The source?"
+
+"Production." I leaned over the map, set one finger on the red circle, and held his eyes over it. "You've shown me the hub. The chokepoint where everything converges before it heads to other kingdoms. We burn that, you said, and we set the trade back months. Fine. But it grows back. The supply finds a new chokepoint and the trade resumes." I tapped the circle once. "If we want this dead for good, we find where it's made. The alchemist. The lab. We burn the well, not the bucket."
+
+Gregor and Maren looked at each other.
+
+It was a small thing, that look. A flick of the eyes, a question and an answer passing between two people who'd worked together long enough not to need words.
+
+Maren tipped her chin a fraction. Tell him.
+
+Gregor sat back down. He laced his fingers on the map, over the red circle, as if to cover it.
+
+"This doesn't leave this room," he said. "The Crown knows. We know. Now you'll know, and that's where it stops." He waited until I nodded, until Henrik and Lena nodded behind me, before he went on. "The reason we don't burn the source is that the Sultan is the largest single buyer of Snow Dream on the continent."
+
+Nobody moved.
+
+"That isn't possible," Lena said slowly. "Why would he do that?"
+
+"The info about how the Snow Dream works is half true," Gregor said. "It is useless. Somewhat. The circles it gives you is borrowed, and the bill comes due, and for a non-magical commoner in the Empire chasing a feeling he was told he could never have, it's a slow suicide dressed up as a miracle." He paused. "But it isn't nothing. For a few hours — short hours, but real — it's genuine. Someone who had three Circles now had four. A man who can move a ton of sand moves two. The expansion is genuine while it lasts."
+
+The answer was already there before they said it.
+
+"The Ashkeri." Maren's voice, low and worn. "Most of them are mages already — that's the first thing the surgeons select for, before they ever cut. Then they're rebuilt. No pain. No fear. No addiction, no withdrawal. They cut all of that out. A thing that was a man becomes a thing that holds a Circle and feels nothing about it." She tapped the map. "And before that thing goes up onto the wall to face a Titan, they give it a dose. Just before. A Fourth Circle becomes a Fifth for about an hour — the length of a battle. Across a few hundred soldiers, all at once."
+
+The morning came back to me. The cobra-Titan, broken in minutes. The pillars of sand rising in a dozen at a time, hammering with a power I'd taken for the sum of many trained mages.
+
+It hadn't been the simple sum. It had been the sum, multiplied. An entire wall of dosed soldiers, every one of them punching above their Circle for the length of an engagement.
+
+"The Snow Dream they ship into the Empire ruins commoners," Gregor said. "The Snow Dream the Sultan keeps is the only reason that wall holds against the things in the desert. Burn the source and you don't just end the trade. You take the Sultanate's edge. The Ashkeri go back to baseline. The wall gets weaker." His finger pressed harder into the map. "The Titans win."
+
+"So the order is punish," I said. "But don't destroy."
+
+"We send the distributor a message, in a language distributors understand. The product keeps flowing onto the wall. It stops flowing into our cities. The Sultan keeps his weapon. The Empire stops bleeding addicts." Maren spread her hands. "We don't actually want that warehouse to stay gone. We want its new owner to be afraid of you and obedient about who he sells to."
+
+I nodded in understanding.
+
+"But why can't we report it? Especially if the Crown already knows," I asked—not out of curiosity, but because I couldn't square it with our briefing.
+
+"You're still new," Gregor said. "Maybe you haven't quite grasped how the organization works yet."
+
+Maren raised a hand, cutting him off.
+
+"Look — the Iron Cross is more complex than it appears. To outsiders, it's just madmen swinging swords. But it was born as a religious organization. It's only been five years since the Prince took hold of it and reshaped it into something military. There are still many fanatics sitting in positions of power. It's hard to know how they'll react when handed information like this," Maren said.
+
+"Not to mention the elf-loving sons of bitches." Henrik joined in.
+
+"There's that too." Gregor agreed.
+
+"Who?" I asked.
+
+"Princess Elara's faction." Maren said. "She's against the war. Believes there's a path to peace with those monsters." I shook my head, trying to fit all the pieces into their proper place, and made myself ask one more question.
+
+"How many," I said. "How many Titans can this city take at once?"
+
+Gregor frowned, like it was the first time he thought of that. He looked at Maren.
+
+"Have we ever seen more than one in a day?" he asked her. "In fourteen months?"
+
+Maren shook her head. "One. Always one. Then it goes back into the dunes to lick itself and a week later it's somebody else's problem." She shrugged. "They don't share. They're territorial, they'll fight each other before they fight a wall together. You don't get two."
+
+"But if you did," I pressed. "Say you did. Two. Could the Sultan hold?"
+
+She thought about it.
+
+"Two," she said at last. "Maybe. Two would be the worst day this city's ever survived. But I think it survives." She held up a second finger beside the first. "Two."
+
+"Three?"
+
+Maren lowered her hand.
+
+"Three would be the end of Qalathar," she said simply.

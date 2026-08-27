@@ -1,0 +1,299 @@
+---
+id: f5935735-488b-5278-9098-8c1ff33a97ee
+page-type-slug: story-chapter-royal-road
+title: "Chapter 47: Shiny Temptations"
+slug: 0047-chapter-47-shiny-temptations
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 47
+ownLength: 1598
+unit: words
+publishedAt: 2025-10-08
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2661680/chapter-47-shiny-temptations"
+royalRoadId: "2661680"
+---
+
+PoV Luna
+
+The chamber had gone still again.
+
+The writhing thing on the floor was motionless now. The corrupted core dimmed to a weak pulse, light flickering through cracks like a dying heartbeat.
+
+No one moved at first. The air sat thick, heavy with mana dust and the faint stink of burnt rot. Armor creaked as they breathed, each sound loud in the silence.
+
+Then Sepio spoke. His voice came rough but steady.
+
+“Syliana, what do you suppose happened here exactly?”
+
+Syl lowered her staff, the faint glow fading to a whisper. Her eyes lingered on the shards and the half-dead light still leaking from them. One ear flicked back.
+
+“I have some guesses,” she said slowly. “But let’s find out, shall we?”
+
+She pointed at the scattered items and pulsing remains.
+
+They moved as one, deliberate and wary. Sepio kept his shield high, stepping first into the open. Veric stayed close, sword angled toward the twisted corpse, his stance ready. Ray circled wide, silent as breath, blade glinting. Trianna stayed back, bow half-drawn, eyes scanning corners.
+
+“…And perhaps put… this… out of its misery?” Sepio asked, voice low.
+
+Syl nodded once.
+
+“Yes. Let’s.”
+
+Ray crouched. His dagger flashed in a single clean motion. Trianna didn’t need to loose her arrow.
+
+The tethered mage stilled for good, the hum of the room dropping quieter still.
+
+Luna’s ears twitched. Even the mana in the air changed taste. It was less bitter, more empty now.
+
+But just as greedy!
+
+Then came the picking-through.
+
+Luna watched as her pack gathered shards of metal first. Then dull gem chips and cracked runestones scattered among them. Small piles of coin half-sunk in dried sap. And stranger things too. Flat squares bound at one edge, marked with tiny carved symbols.
+
+Syl called them “books,” and one “a notebook.”
+
+Luna tilted her head.
+
+Books?
+
+They looked crunchy but smelled dry, more plant than prey. Probably bad chewing.
+
+And boring!
+
+Luna was really itching for something to do.
+
+Her Second crouched low, fingers sorting through the mess with smooth precision. Each movement quick, neat, confident.
+
+“Ah,” Syl murmured after a moment, glancing over a page. “So that’s what happened after all. It’s always something like this.”
+
+Trianna sighed, lowering her bow.
+
+“Seriously, you always talk so much, but now that everybody’s listening, you’re keeping vague! You’re such a tease, Syl.”
+
+Syl blinked, startled. Then, to Luna’s surprise, the elf actually looked a bit embarrassed. Her long ears tilted pink.
+
+“Right. Sorry.” She turned another page, eyes flicking fast. “This mage here – or rather, the previous mage – wasn’t too happy with, quoting here, ‘letting his great intellect rot with old age.’”
+
+Veric gave a grunt.
+
+“So he fed himself to corruption instead?”
+
+Syl nodded faintly.
+
+“More or less. With no other way to extend his life, he turned to what he thought was the second-best option. His clever theory was that, so long as corruption had mana to consume and could be controlled by one ‘such as he,’ it would make him immortal.”
+
+They all stared at the ruined mass of flesh they had just finished putting down.
+
+Sepio exhaled.
+
+“I suppose he did succeed, in a way. Though not in the control department.”
+
+Syl’s lips curved in a faint, weary smile.
+
+“Indeed.”
+
+She closed the notebook.
+
+The silence that followed was deeper than before.
+
+Even Luna didn’t speak.
+
+Her tail twitched once, quiet against the stone. Then her gaze drifted to the shards again. Sharp and glinting. Tempting.
+
+Weird magic. Wrong smell. But shiny!
+
+Very shiny.
+
+All this time, Luna had nothing to do.
+
+Nothing to bite. Nothing to hunt.
+
+No soup. No jerky!
+
+Boring. So very boring!
+
+She sat, chin on her paws, tail twitching behind her. Her Second kept talking. Long words. Complicated words. Boring words!
+
+Luna listened. Sort of.
+
+Her golden eyes wandered instead. Across the scattered coins, over dull gemstones, over stacks of flat square “book” things Syl had found so exciting.
+
+But everything looked lifeless.
+
+No spice. No chew.
+
+No fun.
+
+Her nose twitched in protest.
+
+This was supposed to be the exciting part – treasure! Loot! Spice and food!
+
+Rewards for hard bites! Instead, it was piles of un-tasty metal circles and weird plant-smelling squares.
+
+She sighed through her nose, shoulders slumping.
+
+Then her gaze caught something.
+
+There!
+
+A glint. A shimmer that hadn’t been there a moment before.
+
+The others ignored it, too focused on their search. Maybe wisely. Maybe silly. They were dum-dums sometimes.
+
+But Luna saw it.
+
+A shiny!
+
+It sat lodged deep in the cracked heart of the dungeon core, wedged where the maroon glow met the veins of black corruption. A strange shard, jagged and smooth at once.
+
+And it smelled of a new thing!
+
+A thing she had not chewed yet.
+
+And it looked so. Very. Crunchy!
+
+The shard gleamed faintly in the dim chamber light, a pulse of color running down its edge. Each flicker caught in Luna’s eyes. The way it reflected reminded her of meat glistening in stew sauce.
+
+Her stomach gave a hopeful gurgle.
+
+Luna leaned closer.
+
+It smelled faintly of metal and old magic. Underneath that, a sharper note – dangerous, but familiar. The scent of corruption, muted and faint.
+
+But she had bitten worse!
+
+She bit the ogre dead! She bit things that screamed. And smelly frogs too! She bit magic and bones and bad ideas.
+
+This shiny would be no different!
+
+Her ears perked high. Her claws flexed once against the stone.
+
+The others were busy, their words blending together into dull sound. Syl turned another page. Veric muttered about cataloguing. Ray kept counting coins.
+
+No one noticed her.
+
+Perfect!
+
+Slowly, carefully, Luna crept closer. Her paws landed silent, each step a practiced stalk. Her breath steadied, tail swishing in invisible rhythm.
+
+Closer.
+
+Closer.
+
+The shard glinted again, humming faintly now, the air thickening with every inch she closed.
+
+It called to her.
+
+Her tongue brushed over her teeth.
+
+It would crunch beautifully.
+
+She just knew!
+
+The others’ voices became a blur.
+
+Syl muttered softly over the notebook, pages fluttering under her hand. Trianna and Ray argued in low tones over which pieces of loot they might keep, and which they would offload at the guild. Sepio prodded a broken staff with his boot, testing if it would bite back.
+
+Luna didn’t hear much past that.
+
+Her focus had narrowed to one thing. The one thing nobody else was looking at.
+
+The obsidian shard, half-buried in the fractured dungeon core.
+
+It was no coin, nor shiny dum dum gem!
+
+A spike of black stone, smooth and pointy, its surface etched with thin metal lines that swirled faint and delicate. It pulsed weakly in rhythm, almost alive – like a heartbeat muffled under stone.
+
+Her nose twitched again.
+
+Magic? Maybe. Food? Maybe. Both?
+
+She was about to find out.
+
+Her paws moved without thought.
+
+Slow. Careful. Paw over paw. Her shoulders lowered, her weight balanced on the pads of her feet. The tip of her tail flicked once, twice, hunting rhythm settling in.
+
+Closer.
+
+Closer.
+
+Still no one noticed.
+
+Behind her, Syl said something about containment and mana getting to arrogant heads. Trianna snorted a laugh. Ray muttered about “jinxes” and “mad fools.”
+
+No one even turned around.
+
+Luna crouched right over the shard.
+
+The air around it burned faintly, tasting like dust and heat. A tang of old magic and something else underneath – an unfamiliar spice buried deep. Her nose flared wider, trying to pin it down.
+
+Then her tongue slipped out before her brain caught up.
+
+One little lick!
+
+Nothing happened.
+
+Weird taste. Bitter. Like rain on old metal.
+
+Luna frowned, tongue flicking again.
+
+One more lick.
+
+Still nothing!
+
+Her ears perked high. Her eyes gleamed.
+
+If licking didn’t work…
+
+She bit.
+
+The metal gave under her teeth with a crisp crunch, thin and brittle, like ice over a pond. A jolt shot through her jaw and raced down her spine, bright and stinging!
+
+The shard pulsed once. Then again.
+
+And then it moved.
+
+The black veins spread across the floor, whipping out fast. Tethers of dark mana lashed from the core and bit into her face.
+
+【HP -2】
+
+Luna yelped, then growled through her teeth. No! The shiny thing thought it could bite her back?
+
+Unacceptable!
+
+She bit harder.
+
+【HP -2】
+
+It pulsed again, trying to climb her tongue. Her head swam. Her thoughts blurred.
+
+【Corruption Spreading】
+
+Her claws dug into the stone. “No,” she hissed through clenched teeth. “Mine.”
+
+On instinct she let Shadowmeld flare, rippling over her skin. Not to hide this time – but to fight! Her shadows sank fangs deep into the tethers themselves!
+
+【Corruption Partially Resisted】 【HP -3】
+
+Her jaw ached. The taste burned. She bit again anyhow!
+
+And the tethers tore.
+
+The shard screamed in her mouth – magic shrieking in a pitch only her ears could hear – and then shattered into black dust.
+
+【You have consumed a Corrupted Lich Phylactery】 【Trait Progression: Gluttonous Soul 8% → 9%】 【Devourer’s Right Lv.2 → Lv.3】 【Devourer’s Right Lv.3 → Lv.4】 【Shadowmeld Lv.4 → Lv.5】
+
+Luna spat a fleck of dark powder, blinking stars from her eyes. Her fur glowed faint silver before fading. She licked her lips, tasting iron and sap.
+
+Behind her, Syl’s voice cracked sharp.
+
+“Luna?! What did you just do?”
+
+The air around the core shuddered. The tether-shards pulsed once, twice, then dimmed to stillness. The corpse on the floor twitched once, then sagged fully dead.
+
+Luna turned, ears lowering, face sticky with mana-sap.
+
+“Luna ate the spicy!” she offered.
+
+The others just stared.

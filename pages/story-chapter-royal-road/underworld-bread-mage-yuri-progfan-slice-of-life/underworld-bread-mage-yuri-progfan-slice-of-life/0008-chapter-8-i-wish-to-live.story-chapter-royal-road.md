@@ -1,0 +1,111 @@
+---
+id: bd7eef8c-ad83-5471-a1d3-ba95986e3013
+page-type-slug: story-chapter-royal-road
+title: "Chapter 8: I Wish to Live"
+slug: 0008-chapter-8-i-wish-to-live
+partOf: underworld-bread-mage-yuri-progfan-slice-of-life
+position: 8
+ownLength: 1453
+unit: words
+publishedAt: 2026-07-27
+link: "https://www.royalroad.com/fiction/179650/underworld-bread-mage-yuri-progfan-slice-of-life/chapter/3732877/chapter-8-i-wish-to-live"
+royalRoadId: "3732877"
+---
+
+“Uhh…” Marina called out with a trembling voice. “Hecate?”
+
+The world around her fell gradually into a disturbing silence. However, the river continued to flow in a naturally unnatural rhythm.
+
+Marina cursed under her breath. If this was a prank, she would’ve been fine with it anywhere else, but in a forest like this would be way out of her comfort zone. The best solution she could come up with now was to stay put. She retreated to a nearby shrub, keeping an eye on the granite pathway from which she had come. The once-breathtaking scenery was reduced to imprisonment by the floral life, with Marina as their only captive.
+
+“Marina…”
+
+A voice echoed. It was faint, but despite being faint, it was impossible for Marina to ignore. The tone, the pitch, the pronunciation of her name–it was all too familiar.
+
+I’m hallucinating. I have to be hallucinating! Marina covered her ears in retaliation.
+
+“Marina…” The same voice echoed again. “Don’t be afraid… It’s me.”
+
+No! I don’t wanna hear it! Marina raged on silently.
+
+She knew this was not real, or at least it was what her mind wanted her to believe; two days had passed since her passing on Earth. If anything, they should be mourning her death on the other side, and not haunt her in the afterlife.
+
+“Marina… your dad and I had been waiting for you to come home this year. I even made your favorite cheesecake.”
+
+Despite her own warnings to herself, Marina was on the brink of breaking down completely. There were merits to what she told Hecate previously, but it was still a half-truth. The expectation cast upon her by her parents was not unreasonable, but it was not what Marina had in mind for the long life ahead of her. She was eighteen years of age when she made her decision to leave home after a fiery argument. And she was now finally tasting the consequence of being locked in a white cubicle for years on end. There were many nights when she wondered if she would’ve been happier following her parents’ path. But it was all too late, and regrets stayed as regrets.
+
+Mom… I wish… A teardrop fell from Marina’s eye. I wish I had said goodbye to you and Dad… She slowly got up from behind the bushes, and the weight of her emotions collapsed upon her legs. I wish I hadn’t said those things to the two of you… She made her way out to the open, now with more anticipation than fear. And I wish to have your cheesecake again.
+
+“Marina… I’m here,” The voice called. “By the river.”
+
+Shuffling her way through the dense leaves, Marina ran towards the sound of flowing water. A silhouette of a female figure stood on the other side, and as Marina approached closer, the familiarity became apparent.
+
+“Mom?”
+
+“Marina, you have changed so much since I last saw you.” The middle-aged woman spoke in a warm tone. “You must have been through a lot all these years by yourself. Sorry, your dad and I weren’t there for you.”
+
+“No, I should be the one to say sorry. I shouldn’t have said those words to you.” She cried. “I really do miss you, but now… I’m stuck here.”
+
+“Marina, you can return to us, all you need to do is jump into the river.”
+
+The world within Marina’s eyes suddenly shrank down, and the only thing left within her line of sight was the glowing blue river a few steps away. “Really?”
+
+“Of course, through the river you can find rebirth, you can return to your previous life, you can return to us. You won’t have to worry about work anymore, and we will never leave you again. All you need to do is jump into the river…”
+
+The water shimmered in a soft light. Upon the surface was a reflection of a young woman that convinced Marina even more than her mother’s words. The figure was dressed in a white skirt like the one Marina wore when she was younger. She had a pair of warm brown eyes and a lush braid of dirty-blond hair just like how Marina looked at the end of grade school. The reflection was of herself, before her tragic passing.
+
+“Okay…” Marina took a step forward, her foot hovering only inches above the water. But as she prepared to plunge, a sharp pain pierced into her cloudy consciousness, restoring Marina to her senses.
+
+The red string wrapped around her ring finger returned.
+
+“Ugh,” Marina grunted at the sudden headache. Before she could reminisce about the event that took place minutes before, an arm grabbed her by the waist and pulled her from the raging currents.
+
+“Sorry, my dear, I was delayed.”
+
+The smell of what Marina assumed to be prestige perfume embraced her, though if it were a couple of days ago, she would’ve admitted to hating such scents; but now, she finds them oddly comforting.
+
+“Hecate,” Marina whispered. “You were right.”
+
+“No need for such praise. I am and will always be right.” Hecate boasted.
+
+Ah. Forgot who I was talking to. Marina rolled her eyes.
+
+“You don’t seem particularly happy about that?”
+
+“Can you tell me what was happening with that river?” Marina redirected.
+
+“From my understanding, this river is actually an Authority Bearer,” Hecate replied. “I believe it is an Authority with the power to form illusions. Did you see anyone on the other side?”
+
+Marina clutched her fist. “It was my mom…”
+
+“Ah. Your mother.” A subtle amusement in Hecate’s voice. “That does explain…”
+
+“Explain what?” Marina grew irritated at Hecate’s guessing games, especially at the end of such an event.
+
+“Come.” Hecate guided the two of them as they walked to the riverbank. “This scene is beautiful, isn’t it?”
+
+“Yeah, but what about it?” Marina looked to the other side of the river, now empty.
+
+“You knew it was an illusion, and yet, you chose to reconcile with what would’ve ended your life yet again.” Hecate looked down at her reflection. “Why?”
+
+Staring far off into the distance in silence, Marina took off the hood of her cloak. A gentle night breeze brushed against the side of her face, and her long flowing hair below her braids began to dance quietly in the slow wind.
+
+“To be honest Hecate,” Marina shifted her sight to meet the gaze of Hecate’s blood-red eyes. “I don’t know either.” She then looked down at her feet, at the small footprint left by her behind on the wet dirt near the riverbank.
+
+“There were so many things I hadn’t said to my parents or my friends before I passed. Maybe it’s true that I did miss being alive, even with the pressure from my day job.”
+
+“But also, it’s the fact that I was never given a chance at closure. I didn't have the chance to tell them I was leaving. I did not have the chance to hug, to say goodbye, to love them for the last time.”
+
+Marina roared. “I just left the world when I least expected it, all alone, by myself, surrounded by no one except those stupid thoughts of me being laid off next quarter!” She kicked away a small branch beneath her foot.
+
+“I’m sorry, my dear.” Hecate wrapped her arms around Marina.
+
+“I didn’t want to die!” Marina buried her face into Hecate’s chest. “Hecate, I didn’t want to die!”
+
+“Yes, my dear, no one truly wants to die, but many wish to stop living,” Hecate spoke in a calm voice. “Many of us have regrets that we could not fulfil, and oftentimes we leave the world without ever fulfilling them. The best we can do is leave with fewer regrets than what we have gathered throughout our lives. And to do so, we must live every single day to its fullest.”
+
+Marina nodded softly at the words she wanted to hear the most. Her previous life was molded into mindless routines, and living to its fullest was no more than waking to the sound of the alarm and setting the alarm before bed. But despite not having lived for much time, Marina knew living the life of her dreams would not be free. To start over was also to give up her past and her past self.
+
+Hecate gently rubbed her face against Marina’s. “You and I, my dear, we are all just caged birds, no matter where we are or what world we end up in. We may not be free where we are now, but it doesn’t mean we will never be free. Yearn for the sky, and we shall break our shackles of guilt, together.”
+
+“...”

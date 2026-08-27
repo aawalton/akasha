@@ -1,0 +1,195 @@
+---
+id: 33b40b32-700c-52d7-91c9-cd028e2a2190
+page-type-slug: story-chapter-royal-road
+title: "Chapter 89: Upper Gallery"
+slug: 0089-chapter-89-upper-gallery
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 89
+ownLength: 2392
+unit: words
+publishedAt: 2026-07-17
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3690708/chapter-89-upper-gallery"
+royalRoadId: "3690708"
+---
+
+The Imperial Forum — Upper Gallery.
+
+Darius von Dravenmoor did not want to be there.
+
+He had said so, twice, in the carriage. The first time his father had pretended not to hear him over the rattle of the wheels. The second time his father had turned his head with that slow, deliberate patience that was worse than any shout, and said, "You will sit where I put you, and you will watch, and you will learn something for once in your life."
+
+So Darius sat where he was put. Third tier, west gallery, close enough to the rail to see the whole of the Forum floor laid out below.
+
+"Watch closely," his father murmured. Lord Dravenmoor had dressed for a celebration he expected to enjoy. His hands folded over the head of his cane with the contentment of a man who had bet on the winning horse before the gate even opened. "You will not often see one prince gut another in public. Savor it."
+
+Below them, on the right hand of the dais, Princess Elara sat with one ankle crossed over the other and a faint, scholarly amusement on her face.
+
+"She has him," his father went on, voice low, pleased. "The Hexenzeit boy is Varen's whole banner. His one shining proof that his madmen are worth the Crown's gold. She hangs the boy, and the banner comes down with him." He smiled at the marble below. "Once Varen is bleeding, there is only one path left to the throne, and it runs straight through Kasimir."
+
+Darius glanced at his sister.
+
+Sera said nothing.
+
+She sat one seat down from their father, gloved hands quiet in her lap, her slate eyes fixed on the dais. Darius had never been good at reading her — almost nobody was — that was the entire point of the Ice Ledger. But he had grown up in the same house, and there were things a brother learned even when he wasn't trying.
+
+She did not agree with their father. He could not have said how he knew it. He only knew it.
+
+She doesn't think Elara has him at all, he thought, and frowned, and let the thought go, because he didn't care enough to chase it.
+
+The rear doors opened, and they brought the prisoner in, and Darius forgot his sister entirely.
+
+He had known Kaspar von Hexenzeit. That was the strange thing. He had known him. Had sat three rows behind him in Mertz's lecture hall, had laughed when the others laughed. Had more than once pulled pranks on him while the white-haired bastard said nothing at all.
+
+That Kaspar had been a thin thing. A pale, hollow-cheeked nobody who flinched at noise. The disgraced son of a great house, a daddy's boy who'd had the dumb luck to be born under a famous name and nothing else to recommend him. That was how Darius had thought of him then, and it had been an easy thing to think.
+
+The man they walked down the center aisle was not that.
+
+He walked as though the chains were a costume someone had insisted he wear. His shoulders had filled out into something Darius had no word for. The hair was longer, falling past a sharpened jaw. The scars Darius remembered were simply gone.
+
+But none of that was what reached the third tier of the west gallery.
+
+The air reached it.
+
+Darius felt it crawl up over the rail and across the rows like a change in pressure before a storm. Beside him, a junior clerk of some lord or other went pale and gripped the bench. Two rows down a woman fanned herself and stopped, as if even the small motion felt dangerous. The thing radiated off the man in the chains. It brushed him at a distance of forty meters and he had to set his teeth to keep from making a sound.
+
+"Tch." His father, unbothered, or pretending to be. "Theatrics. They starve a man in a hole for a month and then dress up the desperation as menace. It's a parlor trick. He's just a failure."
+
+Darius said nothing.
+
+Because he had thought exactly that, once. A failure.
+
+Darius scarcely followed the trial after that.
+
+He heard the prosecution build its careful tower — the refugees, the ritual, the sealed letters, the dreadful tidy logic of he was always conveniently there. He heard the witnesses come and go, soldiers with stump arms and flat voices saying he saved us in a dozen different shapes. He watched the old Judge sit behind his gavel like a stone that had learned to wear robes, and he watched his father's certainty hold and hold and hold.
+
+Darius did not understand the half of it. Sovereign rank, Article Seventeen, a foreign throne daring the Crown to make a martyr.
+
+Yet he understood his father's face. He watched the pleasure drain out of it word by word, watched the contented smile go flat and then sour and then, when the Judge returned in nine short minutes, watched it collapse entirely.
+
+"Unproven." His father's whisper had gone hoarse. "Not innocent. Unproven. The old fool left the door open at least—"
+
+But Darius wasn't listening to his father.
+
+He was looking at his sister.
+
+Sera had not moved. While their father's whole body had clenched around his disappointment, Sera sat exactly as she had sat when the prisoner walked in.
+
+She had known. Darius didn't know how he knew that either, but he did. She had walked into this hall already aware of how it would end, and had let their father bet his good mood on the opposite.
+
+"Come." Sera rose — her first word all morning. "They'll take him out the main doors. The whole court will want to watch."
+
+The corridor outside the Forum was chaotic.
+
+It ran the length of the Palace of Justice. A vast colonnaded hall, marble underfoot polished to ice, and packed now wall to wall with everyone the verdict had emptied out of the galleries and pulled in off the steps.
+
+Darius found himself pressed near the front, his father on one side gone silent and grim, Sera on the other, ungloving and regloving one hand in a small motion he'd never seen her make before.
+
+The doors at the far end opened, and the crowd's noise broke like a wave, and Kaspar von Hexenzeit came out into the corridor.
+
+They had removed the chains. He walked free now, slow, an officer to either side. The mana pressure came with him down the hall. Darius watched grown men, decorated men, give half a step of ground without seeming to know they'd done it.
+
+He came on. Past the journalists shouting questions he didn't answer. Past the nobles. Closer.
+
+Just as he drew close to where Darius stood, Kaspar's foot caught the lip of the corridor runner, and he went down.
+
+It happened fast. A stumble, a knee striking stone, a sharp gasp from the crowd. One hand shot out and closed around the front of Darius's crimson robe to catch himself.
+
+Darius froze.
+
+The grip was iron. For one heartbeat Kaspar knelt at his feet, fist knotted in his collar, white head bowed, and Darius stared down into a face that was, for just that instant, turned up toward his and not toward anyone else's at all.
+
+Kaspar smiled.
+
+"Thank you," he said. "I won't forget it."
+
+He was up, clapping Darius once on the shoulder like an old friend, like a man acknowledging a debt before witnesses.
+
+Witnesses.
+
+Darius's mind caught up half a second too late. A dozen sketch-artists, two dozen, every journalist in the corridor capturing the same frame at the same instant. The Hero of Grenzheim, steadied by a son of House Dravenmoor.
+
+"I—" Darius said. To no one. Kaspar was already gone, moving on down the corridor with his slow inevitable stride, leaving Darius standing at the rail with his collar pulled crooked and his pulse loud in his ears and absolutely no idea what had just been done to him.
+
+He turned, dazed, to look for his sister.
+
+He almost wished he hadn't.
+
+Sera was staring after Kaspar's retreating back, and the cold was gone from her face. All of it. What had replaced it was something Darius had not seen on his sister since they were children.
+
+Fury.
+
+The Magic Academy — Department of Applied Magitek Engineering.
+
+Rolf Mercer ran a hand back over his scalp and let out a long, slow breath.
+
+The workshop around him was loud with the wrong kind of noise. Not the productive clatter of a research wing in the throes of a deadline. This was gossip. Half the department had crowded into the long room with the runic projection-pane flickering against the far wall, and they were all watching the trial, and they were all, to a person, hoping for the same outcome.
+
+A great many of them owed something to Princess Elara. A faculty grant here, a research seat there, a name passed quietly to the right desk. The Academy was Elara's ground and her people wanted the Hexenzeit boy hanged, because hanging him hurt Varen, and hurting Varen pleased the princess who signed their stipends.
+
+Rolf was the exception in the room, and he had the sense to keep his mouth shut about it.
+
+He was rooting for Kaspar von Hexenzeit with an intensity that had very little to do with heroics and everything to do with the small canvas folder pinned under his arm.
+
+Please, he thought, watching the pale figures shift across the projection. Please don't let them hang my sponsor.
+
+It sounded grotesque put that baldly, and he knew it, and he thought it anyway, because the alternative was a kind of quiet professional ruin he'd been turning over in his head for three sleepless nights.
+
+He had the prototype working. That was the thing. The liquid-cooling redesign. It worked.
+
+All he needed was to bring it to his sponsor. To put the proof in front of the man whose hundred thousand crowns had made it possible, confirm the terms, keep the machine turning.
+
+But if Kaspar were condemned —
+
+Rolf had spent three nights on exactly that question. If the principal patron of a three-way sponsorship agreement was convicted of high treason, what became of the agreement? Did the quarterly disbursements simply stop? Did the Crown reach in and seize the funds as the property of a traitor — his funds, the operating capital sitting in the project's account at Kessler & Braun? Could they claw back what had already been spent? He'd read the contract until the words blurred. The contract did not contemplate treason.
+
+If the money vanished, he'd be left holding a working miracle and no one to hold it up to. He'd have to go directly to the Ministry of War, who held a paltry ten thousand and a correspondingly paltry interest, or worse, climb the long cold ladder toward Prince Varen himself, a man who did not see researchers without four layers of officers deciding first whether the researcher was worth the prince's afternoon.
+
+Rolf did not have the connections for that climb.
+
+So when the projection-pane carried the old Judge's voice across the workshop — the case is unproven, the charges are dismissed, remanded to the custody of the Iron Cross — Rolf shut his eyes and his knees buckled with relief while half the department around him groaned in disappointment.
+
+Someone swore. Someone else said the Judge had gone senile. A girl near the pane muttered that the princess would not forget this, and several heads nodded, and the gossip turned at once toward what Elara would do next, and who would feel it.
+
+Rolf didn't stay to hear.
+
+He tucked the canvas folder more firmly under his arm, brushed the worst of the chalk-dust off the front of his robes with the flat of his hand, and slipped out of the loud bright room into the cool of the corridor.
+
+Iron Cross headquarters was across the city.
+
+He set off into the streets at a quick, light step.
+
+Far to the northeast, in the lands of House Hexenzeit.
+
+Iris had not realized she was holding her breath until the verdict came and her chest finally let it go.
+
+She stood at the back of the garrison mess hall with thirty-odd soldiers, all of them turned toward the runic pane mounted high in the corner where the cooks usually hung the duty roster. The projection was poor this far from the capital, but it was clear enough.
+
+She gripped her own wrist hard, fingers white, the way she'd been gripping it for the better part of an hour without realizing she was doing it.
+
+He was different. That was the thing she kept snagging on. She had known a thin boy. A pale, unsteady thing.
+
+The man on the pane was a stranger wearing his face.
+
+When the Judge's verdict reached her across the swimming projection, Iris punched the air.
+
+A short, sharp, undignified jab of her fist toward the ceiling, and a bark of laughter that turned three heads. She didn't care.
+
+There weren't many who shared it. She knew that. This was Hexenzeit ground, and Hexenzeit had no warm memories of its discarded son. To most of the men around her, Kaspar von Hexenzeit was an embarrassment the great house had finally, mercifully stopped mentioning. But even here, even among people who'd spent years calling him the False Promise, the trial had drawn an audience. Curiosity, if not affection. They had wanted to know how the story ended.
+
+Iris was still grinning when the hand came down on her shoulder.
+
+"Flammenknecht."
+
+She turned. One of her superiors, a Smaragdwächter she'd learned to obey and not to like.
+
+“Start packing. We’ll be leaving soon,” he said. “The Ministry finally approved it.”
+
+The joy went out of her like heat out of struck iron.
+
+“Already?” Iris asked. She had thought she would have a few more days to rest.
+
+“We’re starting the training,” he said, already turning away. “We’re only waiting until Master Hagen’s wedding to the Duchess Saskia. The expedition restarts right after.”
+
+He sighed.
+
+“Just when I finally got used to the house, we’re going back to that cave again.”

@@ -1,0 +1,367 @@
+---
+id: 390a236f-619c-5744-b69c-79da55a0f5e0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 150: Of Brushies, Behemoths, and Big Big Boom-Booms!"
+slug: 0153-chapter-150-of-brushies-behemoths-and-big-big-boom
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 153
+ownLength: 2320
+unit: words
+publishedAt: 2026-08-17
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3826851/chapter-150-of-brushies-behemoths-and-big-big"
+royalRoadId: "3826851"
+---
+
+PoV Luna
+
+That evening, Syliana brushed Luna’s fur and told her the wondrous tales of where the big monsters lived!
+
+Finally, some good Apex Predator news!
+
+Luna sprawled across the bed with her chin on Syliana’s knee, bare feet tucked in the blankets, tail loose behind her, and Shadow Cloak resting over her back like cool night. Every slow pull of the brush through her hair sent warm shivers down her spine. Every little circle of Syliana’s fingers pressed into the muscles beside her shoulders and made Luna melt flatter into the blankets. Her full belly making her feel nice and sleepy.
+
+“Mmrrr.”
+
+Syliana’s hand paused. “Is that good or did I find a sore spot?”
+
+Luna rolled one eye up at her.
+
+“Nuh uh. Good brushies!”
+
+Syliana smiled and continued.
+
+Luna pushed her head harder into Syliana’s knee so the brush would stay exactly where it belonged.
+
+Outside, the town was quieter than it had been during the feast, though Luna could still smell smoke, cooked meat, wet wood, sleepy humans, and the last sweet crumbs hiding in her Maw for later.
+
+No Broodmother stink clung to her anymore. Shadow Cloak had refused that very firmly, working overtime until Luna smelled like clean fur, moon-cool shadow, feast smoke, and the hand oils Syliana used when brushing.
+
+Luna’s toes curled in the blankets, a little wrr of appreciation escaping her lips.
+
+Her Second knew all the good spots!
+
+Syliana just smiled, and continued working the brush along Luna’s earfluffs. “There are a few known nearby regions where stronger monsters gather.”
+
+Luna’s ears perked up.
+
+“Strong monsters?”
+
+“Yes.”
+
+The brush was put away, and Luna felt Syliana’s fingers working down her back. Her toes curled into the blankets, her tail gave one hard thump behind her, and her ears flicked before she forced herself still.
+
+Serious listening required not accidentally kicking blankets!
+
+“There are Forest Ogres east of here, though most are only moderately dangerous unless they gather in groups. To the west there is also a marsh where Shellbacks nest. They are durable and strong, but slow.”
+
+“Slow is rude,” Luna said.
+
+“It can be useful for training.”
+
+“Slow is still rude.”
+
+Syliana’s fingers pressed between Luna’s shoulder blades, and Luna forgot to be offended at slow monsters for a moment.
+
+“Then there are the Vaelthorn Teeth,” Syliana said. “A short mountain range a couple hundred miles north of here. Not very tall compared to true mountains, but wide and broken enough to hold a great many monsters.”
+
+Luna’s tail lifted.
+
+“Many strong monsters?”
+
+“Many.”
+
+Brushies continued. Good information continued. Luna’s whole body became listening!
+
+“There are no human towns inside the range,” Syliana said. “No villages either. The terrain in the whole region is just too unstable, and the monster population simply too dense. Some hunters skirt the lower edges, while adventurers go in only with preparation.”
+
+Luna’s ears pushed higher.
+
+Dense monsters meant many smells, many tracks, many bites! And strong meat to eat, yesh!
+
+“What monsters?”
+
+“Behemoths, among others. Though they remain the largest threat in the entire region.”
+
+Luna lifted her head.
+
+The brush stopped at once so it would not tug.
+
+“Bee-hee-moths?”
+
+“Behemoths,” Syliana said. “The dominant monsters in the Vaelthorn Teeth. Even the younger ones are the size of small hills, with plated hides, bristly fur, and massive claws able to tear through nearly anything with enough force in their charges to rent earth.”
+
+Luna’s paws pressed into the blanket.
+
+That sounded pawerful!
+
+Syliana’s expression grew more serious. “The Elder Behemoths are even worse, able to challenge entire teams at my standing.”
+
+Luna stared at her.
+
+Syliana stared back.
+
+Her thoughts churned and the room became wonderfully full of perfect Apex Predator logic.
+
+Mountains with no human towns, full of massive and dangerous strong prey. Potentially very tasty prey! Tasty prey for Luna!
+
+Luna’s tail began wagging.
+
+Syliana sighed before Luna said anything. “Luna.”
+
+“Behemoths best choice,” Luna whispered.
+
+“I know that look.”
+
+“Big hunt is best hunt!”
+
+“I was just describing the nearby options, and there are safer ones still–”
+
+“Nuh uh, best option!”
+
+Syliana’s brush slowed, then resumed through Luna’s hair. “Very well then, we will go hunt Behemoths.”
+
+Luna’s ears shot up so quickly the brush had to pause.
+
+“Woohoo!”
+
+Syliana’s fingers closed gently around one ear before the howl could get louder. “A softer awooo, please. We are indoors.”
+
+Luna pressed both hands over her mouth, then let the sound escape as a delighted little rumble while she rubbed her cheek against Syliana’s legs.
+
+Syliana scratched behind her ear. “We scout first, choose our ground, and leave if anything turns wrong.”
+
+“Yesh, yesh! If bad happens, Luna grabs Second and zooms away, straight away! Promise!”
+
+“Then I will rely on you.”
+
+Luna nodded, then pushed her head back under the brush. “More brushies, please. Tomorrow big hunt day, Luna has to look great!”
+
+Syliana chuckled, but complied, brushing her slow and careful. From the crown of Luna’s head down through the long spill of her hair. Luna’s tail loosened behind her, and Shadow Cloak rested cool over her back while Syliana’s other hand worked small circles beside her shoulders.
+
+The bed was soft under Luna’s belly. Syliana’s knee was warm beneath her chin. Tasty Behemoths awaited her tomorrow.
+
+Luna melted into the blankets with a pleased rumble.
+
+Perfect night.
+
+***
+
+The next morning, Luna and Syliana tried to leave town.
+
+The town disagreed.
+
+Families waited near the road with baskets, bundles, blankets, jars, packets, and arms ready for more hugs. Luna stopped so fast her bare feet almost skidded on the road, ears lifting as gifts and people smells rushed toward her.
+
+Linley ran up first with his blanket around his shoulders and his large spoon tucked into his belt like a warrior weapon.
+
+“Luna!”
+
+“Linley!”
+
+He hugged her, and Luna patted his back with careful pressure.
+
+“Train spoon,” she told him. “Hunt soup first. Then shadow chimeras!”
+
+Linley nodded with great seriousness.
+
+Finnie brought sugared nuts wrapped in cloth. Her mother hugged Luna too and whispered thank-yous into her hair again. Other children came close behind their parents, some brave, some shy, and Luna gave them pats, head rubs, or important advice.
+
+“Eat breakfast! Impawtant energy for the day!”
+
+“Sleep when sleepy.”
+
+“Bite only bad things.”
+
+“And do not follow weird smells into holes without Luna!”
+
+That last one made several parents laugh and then hug their children harder.
+
+More food went into Luna’s Maw for later. Honey cakes, dried fruit, smoked strips, little breads, and one jar that smelled like berry sweetness and needed Syliana to explain it must stay upright.
+
+Luna stored it with extreme care.
+
+Her tail wagged through every gift. Her toes tippy-tapped through every hug. By the time the road finally opened, Luna’s chest felt packed full of warm human thanks and her Maw was packed with future snacks.
+
+Then she shifted back into wolf form, lowered herself for Syliana, and launched north!
+
+The road blurred under her paws.
+
+Wind shoved through Luna’s fur and slid across Shadow Cloak without catching. Her paws struck earth, stone, grass, and old wheel ruts in a rhythm that made her whole body sing. Each stride ate distance even faster than the last. Each breath brought new smells with it. From wet leaves, fox trails, old campfire ash, hill flowers, distant stone, to the far-off sharp promise of mountains.
+
+Syliana held on with both hands as Luna entered the awoomazing speeds of zooms!
+
+She felt her friend’s knees press behind Luna’s shoulders, and she shifted her weight carefully with each turn. To ensure smooth Apex Predator Transportation Services! Syliana didn’t complain, only leaned close enough that Luna could hear her breath and tapped directions against her neck when the road split.
+
+“Left.”
+
+Luna went left.
+
+“Not that far left! We’re off the road now!”
+
+Luna corrected.
+
+“Luna!”
+
+“Zoom path adjusted!”
+
+The wind got louder, and they sped up further!
+
+Luna grinned with all her teeth.
+
+She was speed!
+
+She was paws.
+
+She was a blue blur if blue was shadow black and furry and had a very wise elf clinging to her back!
+
+“Gotta zoom fast!” Luna sang into the wind.
+
+Syliana made a sound against her fur that might have been a laugh or might have been survival.
+
+They stopped a few times before the mountains.
+
+The first time, Luna smelled sour many-things-bad smells near a broken cart track. She slipped off the road, vanished through bushes, and returned with a strip of torn cloth caught on one claw and the pleased bounce of a wolf who had corrected a problem.
+
+Syliana looked at the cloth.
+
+Luna looked innocent.
+
+“Bad-bads cleaned!”
+
+“I see.”
+
+The second time, something in a ditch clicked wrong under old leaves. The smells told Luna of corruption and weird smelly reagents. She darted away, there was a yelp, a splash, and a crunch. And crates full of stuff Luna wisely cracked apart into smithereens. Then she trotted back and shook one paw even though Shadow Cloak had already made the muck slide off.
+
+Syliana stared at her.
+
+“Small stealthy bad,” Luna explained. “Keeping guard over bad stuff!”
+
+“I did not see it.”
+
+“But Luna did.”
+
+“...That’s pretty concerning.”
+
+Luna stopped several more times as they traveled toward the mountains.
+
+Each time, her nose caught something under the normal road-smells: old reagent bite in a ditch, black-metal stink on a broken marker, corruption-sourness rubbed into tree bark too close to human roads for comfort. She would halt so sharply Syliana had to grip tighter, sneeze once, then dart off the road before the trail could fade.
+
+Crashing whatever hidey spots the bad bads made into nothing!
+
+Or clearing up nests of weird other corrupted bads with all very quick-like! A few claws, bites, and wet snaps and Luna was already coming back with her tail high while Shadow Cloak refused to keep whatever foulness had splashed her.
+
+Syliana watched her return from the trees.
+
+“Do I want to know?”
+
+“Bad-bad sign hiding!”
+
+“Was anyone in danger?”
+
+Luna sniffed back toward the road, then toward the place she had bitten, broken, or buried.
+
+“Now? Nope.”
+
+Syliana considered that with the expression of someone who understood the result and absolutely not the path.
+
+“Then I will accept the summary.”
+
+Heh!
+
+Smart Second!
+
+***
+
+By late afternoon, the mountain ranges of Vaelthorn Teeth rose ahead.
+
+They were far from the sky-poking mountains she heard people talk about, but they spread wide and jagged across the north, all broken ridges, dark passes, stone gullies, and sharp-backed slopes. The lower forests clung to them in patches. Above that, gray rock showed through like old monster bones.
+
+Luna slowed at the edge of the range, watching with rapt attention.
+
+The air changed.
+
+Stone dust scraped through Luna’s nose, tangled with goat musk, wet moss, old kills, claw-marked bark, and burrow-stink rising from cracks between the rocks. Monster territory pressed over monster territory until Luna had to slow her breathing and sort the layers carefully.
+
+Under it all sat the heavy smell she wanted. A lot of the same smells, with too little variation. That’s how Luna knew they were big big monsters ahead!
+
+Thick hide, hot breath, crushed shrubs, and stone scraped by something with too much weight and no manners.
+
+Luna’s tail rose.
+
+Syliana slid down and adjusted her robe. Her legs looked steady, but her hand stayed an extra moment on Luna’s shoulder.
+
+“We will discuss the hunt before we choose a target, okay? It might be for training, but those mountains are dangerous. Even for me,” Syliana said.
+
+Luna turned back into her human form and bounced once on her toes.
+
+“Yesh. Training!”
+
+“For both of us.”
+
+“Luna later.” She grabbed Syliana’s hands before Second could make the hunt small and careful again. It was big Apex Predator hunt, so Luna’s rules!
+
+“First Second!”
+
+“First me?”
+
+“Yesh. Second always clever, doing careful lines, careful spells, careful shields!” Luna squeezed her hands and spread them wide. “Now do big spell. Big magic. Strong attack. Big big boom-booms!”
+
+Syliana’s mouth tightened as if she wanted to correct the word boom, but Luna could smell the thinking under it.
+
+Luna squeezed her hands.
+
+“Second.”
+
+“Yes?”
+
+“Big monster. Big hunt. Big spell!”
+
+“That’s a lot of big words.”
+
+“Yesh.” Luna pressed Syliana’s hands against her chest. “If wrong thing happens, Luna grabs Second and zooms away! No worries, only spell!”
+
+Syliana looked at her for a long moment.
+
+Luna held very still, because this part was serious.
+
+“So Second does biggest spell she can. That how hunting is done!”
+
+Syliana’s fingers curled around Luna’s.
+
+“...Oh, why not. Very well.”
+
+“Yesh!” Luna bounced on her toes. “Best Second spell! Big magic! Strong attack! Big, big boom-booms!”
+
+Syliana let out a slow breath.
+
+“Alright, alright. But we scout first.”
+
+Luna shifted back, nose already lifting.
+
+Scouting lasted a whole of eleven breaths!
+
+The trail was obvious once she caught it. A behemoth had pushed through the lower trees not long ago, leaving bark scraped from trunks and shrubs crushed flat beneath huge feet. Its smell rolled down the slope like warm stone and angry muscle.
+
+Luna followed it over a ridge and into a wide rocky hollow.
+
+There it was.
+
+The behemoth stood among broken boulders, partly hidden by the mountain. Its massive shoulders hunched beneath a hide like dark gray plates. Horns curved from its skull. Its forelegs were thick as tree trunks, and each slow breath puffed dust from the ground. It looked heavy enough to argue with a hill and win.
+
+Probably!
+
+Luna crouched behind a rock, teeth showing in a delighted grin. That looked like a worthy Apex Predator hunt!
+
+The behemoth lifted its head.
+
+Perfect target!
+
+Large, and strong. Waiting right there with so much biteable body!
+
+Luna glanced back at Syliana, tail trembling with effort not to sprint.
+
+Prey found!
+
+Time for her Second to shine!
+
+Ehehe!

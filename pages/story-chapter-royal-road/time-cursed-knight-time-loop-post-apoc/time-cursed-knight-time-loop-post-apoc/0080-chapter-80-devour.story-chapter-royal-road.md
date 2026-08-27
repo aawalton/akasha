@@ -1,0 +1,271 @@
+---
+id: deb6e44f-76a3-5438-a869-cfd134caf1c7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 80: Devour"
+slug: 0080-chapter-80-devour
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 80
+ownLength: 2538
+unit: words
+publishedAt: 2026-07-06
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3640881/chapter-80-devour"
+royalRoadId: "3640881"
+---
+
+The serpent's blood had dried into my clothes by the time I reached the warehouse.
+
+I was still working at it when I came up on the depot. Scraping the black flakes from the back of my hand, picking the crust out of the seams of my robe where the ichor had cooled and hardened into something like resin. It didn't want to come off.
+
+Lena stood outside.
+
+Watching me. Her eyes moved across me the way they always moved across a new variable. To her I was simply a man who had wandered off at dawn to gather ingredients and come back streaked in something that looked very much like blood.
+
+She didn't ask.
+
+Henrik sat on the loading step with his greatsword laid across his knees, a rag working slow strokes down the length of the steel.
+
+"Shall we?" I said.
+
+"We shall." He rose. The rag vanished into his belt. He ducked through the door without another word.
+
+The plan was the same.
+
+It was always the same. I could have walked through it blindfolded.
+
+But this time there was no clock pressing on the back of my neck. No reason to rush the traffickers. The Titans came when the sun went down, and the sun was hours from falling, and I had, for once, all the time in the world.
+
+I stood across the lane from the hideout and let the afternoon sit on my shoulders.
+
+There was still a piece of this I hadn't decided.
+
+A piece I'd left on the table every single death, because every single death I'd told myself there'd be time to come back to it.
+
+The problem with this piece wasn't the warehouse, or the guards, or the Ashkeri.
+
+The problem was me.
+
+Two of me, I thought. Pulling in opposite directions.
+
+One of me was the alchemist. The cold one. The part that had sat in Thiel's workshop and felt the levels climb and understood, with a clarity that frightened me a little, that I was good at this.
+
+That same part looked at Snow Dream and saw a sample. A specimen. A substance that gave borrowed Circles to men who had none. It asked the only question it ever asked.
+
+How does it work, and can I make it mine?
+
+I had Kaspar's memories. Years of self-taught biochemistry waiting on shelves I hadn't even walked yet. If anyone alive could pull this thing apart, strip the rot out of it, find what was useful in the poison and leave the death behind, it was the two of us.
+
+Maybe, somewhere inside that white powder, there was a weapon.
+
+Yet, the other me said no.
+
+The other me looked at forty units of Snow Dream and saw what it actually was. A wildfire in a sack. A thing that took the desperate and the empty and the non-magical and hollowed them out from the inside in a matter of weeks. I had seen, in the briefings, what it did. I had heard descriptions.
+
+Did I want that within arm's reach of me? A temptation I could touch. The means to destroy myself and everyone standing close to me.
+
+I lowered my head.
+
+I tried to think, and the thinking went somewhere I hadn't expected it to go.
+
+I don't know when it happened. I couldn't put a finger on the exact death, the exact moment, the exact body. Maybe it was a life I spent taking heads off without my pulse so much as climbing. Maybe it was a life I spent screaming a warning at a wall full of soldiers who would all be dead by dusk. Maybe even before that.
+
+But somewhere in all of it, somewhere between the killing and the saving, something had walked me up to the edge of life and death and made me stand there and look down.
+
+In the life before this one I had pulled people out of burning buildings. I had knelt on cracked pavement and breathed into the mouths of strangers and felt, sometimes, a heart restart under my hands. That had been a holy thing, back then, even if I'd never have said the word out loud. Standing at the threshold and pulling someone back from it.
+
+Now I stood at the same threshold and did the opposite. Now I decided. Who kept his head and who lost it. Who got the warning and who got the blade. I had become the hand that pushed people through the door I used to drag them back from.
+
+Maybe that's what does it, I thought. Maybe playing god, deciding the living from the dead, brings a man back around to the God he stopped believing in.
+
+The faith I'd buried a long time ago stirred somewhere under the ash.
+
+I closed my eyes.
+
+What do I do, I prayed. What would You do?
+
+A breeze came up the lane. Faint. It moved the dust at my feet and stirred the hem of my robe.
+
+It carried no easy answer.
+
+The hours bled away.
+
+The sun slid down toward the western dunes.
+
+The ground shook.
+
+The first tremor of the attack rolled up through the soles of my boots. Lena's head snapped toward the wall. Henrik's hand drifted to his harness.
+
+I traded a look with both of them.
+
+"We can't let the chance pass," I said.
+
+We moved.
+
+The thunderclap blew the doors off their hinges, and the curtain of pale blue gas rolled out to swallow the threshold, and we went through it the way we always went through it. I came out of the smoke first. The nearest guard was on his knees with his hands clamped over his ears, and I took him across the back of the neck before the smoke had even finished pouring past him.
+
+Heads rolled.
+
+The fat man ran for his cord, the way he ran for it every time, his cigarette still clamped in the corner of his mouth. He got his fingers around it. He got the first syllable out of his throat.
+
+His head left his shoulders mid-word.
+
+Then it was just the three of us, standing in a slaughterhouse, breathing.
+
+"We need to go." Lena was already wiping her blade. "They might know about us by now."
+
+"They know." But I didn't move toward the door. I crossed to the rear wall instead, to the stacks I knew by heart.
+
+I pried the lid off the crate that mattered.
+
+The papers were there. Tucked in beside them, in a sack that might have held grain to anyone who didn't know better, the powder.
+
+Snow Dream.
+
+Do I? I asked myself one more time.
+
+In my mind I screamed it. The other me, the one that had stood in the lane and feared the fire it could light. He screamed at me not to touch it.
+
+I put a packet of it in my bag anyway.
+
+"Find something?" Henrik called from the doorway.
+
+"A document," I said. "There's a noble tangled up in all of this. House Auricht. We'll need to dig into it when we're home."
+
+"Auricht." Henrik turned the name over and frowned. "We'll dig."
+
+Before I could say anything else, the ground heaved again.
+
+The second one.
+
+Outside, the battle was already a different beast.
+
+This time the wall was full.
+
+That was the difference. More mages than I had ever seen on this stretch. More Ashkeri swarming the mantis.
+
+And the mantis was still up there. On the wall.
+
+It hadn't broken through.
+
+It would. I had no illusions about that. But I didn't need them to keep it off the streets. I needed them to drive it back in time to turn and face the other one.
+
+"We need to get out of here before the attack ends," Lena said as we ran the warehouse lanes toward the southern gate. "If they finish the Titan and we're still inside the walls—"
+
+"I know."
+
+I did know. And I knew the thing she didn't, the thing waiting for us at the end of the run, the problem I had never once solved in all my deaths.
+
+We came out of the lanes into the gate plaza, and there it was.
+
+The beetle.
+
+Wedged between the great bronze doors exactly as it always was, black-green carapace, six legs braced against arch and road, the green glow already pooling and pulsing behind its mandibles. The mages on the wall-walk hammered its flanks with sand. The Ashkeri worked its legs. Everything thrown at it, and the thing barely rocking.
+
+"How the hell do we get past that?" I said, looking up at it.
+
+Henrik and Lena drew up beside me.
+
+"Run under it?" Henrik offered.
+
+I shook my head before he'd finished. I'd run under it. I knew exactly what running under it bought you. At any moment that thing could drop its full weight onto the road, or clench its gut and rain acid across the entire plaza, and the running stopped mattering very quickly after that.
+
+The mages couldn't help us, either. They had the angle for the carapace and nothing else. The Ashkeri chipped at the legs, a little at a time.
+
+As if to answer Henrik for me, the beetle's mandibles split and it exhaled. A torrent of green annihilation lanced across the plaza and unmade a knot of soldiers where they stood, flesh to bone to smoke.
+
+"You still want to run under it?" I asked.
+
+Henrik shrugged.
+
+"Fire?" Lena tried. "Oil? Burn it out of the gap?"
+
+Good instincts. Both of them. I'd burned this thing more times than she'd ever know. The top of that shell held fire back. The carapace was immune.
+
+But the belly.
+
+The belly I'd put a blade into, once, before it dropped on me and folded me into the road. The belly was soft.
+
+The problem had always been the same. The soft place was under a Titan, and the only thing that could put real power into it was a mage, and no skinny mage in his right mind was going to crawl beneath a temple-sized monster to do it.
+
+"Maybe," I said.
+
+"Maybe?" Lena's head turned.
+
+"Maybe it doesn't have to be a skinny mage." I drew my sword.
+
+"Skinny?" Henrik looked at me like I'd started speaking a Kumsuri he didn't have. "What's that supposed to—"
+
+"You two run on my signal."
+
+"What signal?" Lena's voice climbed.
+
+"You'll know it." I was already moving. "It'll be the biggest bonfire either of you has seen in your lives."
+
+I ran.
+
+I went into the plaza low and fast, Mana Breath roaring up through my chest and pouring down into my legs, the mint-burn flooding me until the gore-slicked stone blurred under my boots. I read the field as I crossed it. The green light gathering in its gut. The arc of a sweeping leg. The hiss of acid spattering the road to my left. I threaded all of it, ducked under a limb the size of a ship's mast, came up on the far side —
+
+I came up in the same place I'd died in a dozen times.
+
+Directly beneath it. Under the soft pale seam of its belly with all that armored weight hanging over me.
+
+I could have just stabbed it. Driven the blade up and let it come loose and let it drop, let the weight find me.
+
+But I wanted to try something else.
+
+Something I shouldn't.
+
+Something the other me had screamed at me not to do.
+
+My brain had already done the math, though. My brain had walked all the way down the road and seen where it ended and refused to look away. The possibilities pulled at me harder than the fear did.
+
+One hand found the sword. The other went into my bag, and my fingers closed around a pinch of the powder — almost nothing, less than a thumbnail's worth.
+
+I touched it to my tongue.
+
+The effect came almost before I'd done it.
+
+There was no rush. No flood of joy, no crush of sorrow, none of the things the addicts in the capital chased into their graves. Snow Dream gave me nothing that simple.
+
+Instead, the world cracked open.
+
+And the light came through it. I saw — for the first time since I'd woken into this body and this life — the way a man with Circles must see every waking hour. I saw magic. Sensed it.
+
+I felt the path.
+
+The channel. The route the mana was supposed to take to leave my body. The tiny corridor that ran out and away and would have let it become something real in the world. The road every Hexenzeit was born to walk.
+
+The road that, for me, had always ended in the same place.
+
+Gluttony.
+
+I could feel it now, where the path bent. The path around. The narrow seam where the mana could slip past the Gluttony and out into the world at last.
+
+I drove the sword up into the soft center of the Titan.
+
+The blade sank into the belly, into that pale yielding seam, and I planted my feet in the bloody road and I opened everything.
+
+Nine cores. All of them. Mana Breath. Every channel I had. In a single instant they all turned together and aligned along that newfound path, and they pumped — they emptied themselves, holding nothing back, pouring every drop I owned up through my arms and into the steel and into the wound.
+
+I knew no magic. No idea how to use Circles, how to build mana matrices, nothing of that sort. I had read books on the subject, but reading and knowing were two different things.
+
+So I settled on the simplest idea I could find.
+
+Fire. Burn.
+
+For one bright, terrible heartbeat, I understood.
+
+I understood the pity of it. The grief of a Hexenzeit born without a way out. It was a bird that could feel the sky in its hollow bones and had no wing to reach it. It was the cruelest thing I had felt in a hundred lifetimes of cruelty, and I had only borrowed it for a moment, and it nearly broke me.
+
+The mana reached the open air.
+
+And the mana became fire.
+
+Fire took my whole body.
+
+It came up out of the ground and up the sword and up my arms and over my skin, a deep, roaring, living blaze. A blue flame, pale at its heart and white at its edges. It was hungry. I could feel the hunger in it, a starvation older than I was, a thing that wanted to consume everything and everyone and would not stop at the Titan, would not stop at the gate, would not stop at the city if I let it run.
+
+I had no control over it. None. I had opened a door I'd never opened and a wildfire had come through, and it was not mine to command. Only to aim.
+
+But for now, there was an enormous Titan above me, soft belly split on my blade, waiting to be eaten.
+
+So devour, I told the fire.

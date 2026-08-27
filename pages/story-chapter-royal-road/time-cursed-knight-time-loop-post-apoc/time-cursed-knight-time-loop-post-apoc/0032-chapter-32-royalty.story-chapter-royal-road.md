@@ -1,0 +1,601 @@
+---
+id: 6de1879f-d9c9-5001-9e41-89ad1a6aea0a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 32: Royalty"
+slug: 0032-chapter-32-royalty
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 32
+ownLength: 3814
+unit: words
+publishedAt: 2026-04-29
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3334149/chapter-32-royalty"
+royalRoadId: "3334149"
+---
+
+The announcement came in the early afternoon.
+
+A monk appeared at the cell door, his face as blank as the stone behind him. He didn't open the bars. Didn't step inside. Just stood in the corridor with his hands folded into his sleeves.
+
+"There will be no match in the afternoon. Rest. You fight tomorrow."
+
+He turned and walked away.
+
+I sat on my pallet with my back against the wall and listened to the quiet that followed.
+
+No match.
+
+One moment of reprieve.
+
+I didn't know how long it had been since the arena. The mana-glow in the cells was constant, offering no distinction between morning and evening. But the thin shaft of natural light that crept through the ventilation grate near the ceiling had shifted from white to amber.
+
+My body felt like it was listing all of its complaints to me. My forearms throbbed with the deep, bruised ache that came from blocking the lion-man's strikes. My shoulders felt like they'd been pulled from their sockets and jammed back in. A knot of muscle beneath my right shoulder blade spasmed every time I breathed too deeply.
+
+Across the cell, Gerret lay on his pallet with one arm draped across his eyes. The bandage on his chest had darkened at the center. His breathing was shallow. Each inhale measured to avoid stretching the cut.
+
+His pointed ears twitched toward me before I said a word.
+
+"I know you're staring," he said.
+
+"I'm thinking."
+
+"Think quieter."
+
+I let a second pass.
+
+"The monks," I said. "Who are they?"
+
+Gerret's arm lifted from his eyes by an inch. One amber iris regarded me from beneath it.
+
+"The administrators?"
+
+"Whatever you want to call them. The ones in the robes."
+
+Gerret lowered his arm and turned his head toward me.
+
+"They run everything," he said. "Scheduling. Logistics. Medical. Training rotations. The monks handle it all. They've been part of the Iron Cross since the beginning."
+
+He shifted, finding a position that put less pressure on his wound.
+
+"Some of them didn't just join," Gerret continued. "Some of them founded it. The whole idea. The philosophy behind. It started with them."
+
+I frowned.
+
+"What philosophy?"
+
+To me, the Iron Cross was fighting with steel. A different approach to combat. Swords instead of staves.
+
+Gerret's ears flattened slightly.
+
+"It's not just about swinging a sword," he said.
+
+"The monks believe mana is a poison."
+
+"Poison," I repeated.
+
+"To the world. To humans. To everything." Gerret's black nose twitched. "They believe the portals corrupted the earth. That mana was never meant for us. That every spell cast, every Circle formed, every grimoire opened pushes humanity further from what it was supposed to be."
+
+He paused.
+
+"They believe that to be accepted in death, to pass on properly, you must never have used mana. Not once. Not a single spell. A clean soul, they call it. Untouched by the corruption."
+
+I stared at him.
+
+A religious order. Inside a military organization. Governing the training and deployment of soldiers whose entire purpose was combat.
+
+"But Knights use mana," I said.
+
+The contradiction was obvious. I'd watched Brandt fight. I'd watched Roen split creatures in half with strikes that no purely physical human could deliver. The Iron Cross ran on mana.
+
+"Not all Knights believe what the monks believe," Gerret said. His ears swiveled once, tracking a sound in the corridor that I couldn't hear.
+
+"Some don't care about the religious side at all. They joined because they couldn't form Circles, or because they wanted to fight with steel, or because someone dragged them here in ropes."
+
+A pointed glance at me.
+
+"Others," he continued, "they take the philosophy seriously. They see using mana as a sacrifice. A necessary sin. They accept the corruption, knowing it stains them, knowing it means they won't pass on clean."
+
+His voice softened.
+
+"They burn their souls so others don't have to. That's how they see it."
+
+The cell was quiet for a long time after that.
+
+I turned the idea over in my mind.
+
+I didn't know if any of it was true. I didn't know if there was an afterlife in this world, or if mana genuinely stained whatever passed for a soul, or if the monks' theology was anything more than the elaborate mythology for men who needed to justify their lives.
+
+Yet, I understood choosing to carry a weight that would break you because someone had to carry it and no one else was stepping forward.
+
+The strong protect the weak.
+
+Before I could ask something else, the cell door groaned. The heavy door swung inward, and two soldiers shoved two bodies through the opening.
+
+Marcus caught himself on the nearest pallet. His left arm, the one that had been bent at an angle no arm should achieve, moved stiffly at his side. He flexed the fingers once, twice, watching them respond.
+
+Lyra stumbled through behind him.
+
+She was upright. The leg that had shown bone through torn skin now bore her weight. Though every step carried a limp.
+
+Her wings were folded so tightly against her back that the feathers overlapped like scales.
+
+Gerret was off his pallet and at the bars before the door finished closing.
+
+"Hey!" he called after the monks retreating down the corridor. "We need reinforcements. Our team is at four. Two of us are injured. You can't send us out like this."
+
+One of the monks paused.
+
+He turned halfway. His hooded face was a shadow within a shadow, but his voice was perfectly clear.
+
+"Four is enough," he said. "The opposing teams have been reduced as well. Matches will be scaled accordingly."
+
+"Scaled," Gerret repeated. "We have a broken arm and a shattered leg that was mended hours ago. Scaled doesn't mean fair."
+
+The monk regarded him for a moment.
+
+"The arena has never been fair," he said. "That's the point."
+
+He walked away.
+
+Gerret's furred hands gripped the bars. His canines showed. A low sound built in his throat, somewhere between a growl and a word he chose not to say.
+
+He released the bars and turned back to the cell.
+
+Marcus had lowered himself onto his pallet. His formerly broken arm rested across his stomach. The skin was unmarked. No bruising or swelling. Much less visible sign that the bone had been snapped.
+
+Lyra sat on the floor in her corner, both legs extended in front of her. She ran her fingers along her legs gently, pressing at intervals, testing.
+
+"That's impressive," I said, gesturing at them. "Both of you look almost new."
+
+Marcus flexed his arm again.
+
+"Healing magic," Gerret explained, settling back onto his own pallet. "Expensive. The kind of thing most soldiers never see. It costs more per session than a year's wages."
+
+"But Knights are investments."
+
+His lip curled.
+
+"We're livestock."
+
+Marcus grunted from his pallet.
+
+Lyra said nothing.
+
+Her eyes stared at the wall across from her. Whatever she was seeing, it wasn't stone.
+
+I watched them for another moment.
+
+Then stood, crossed to the empty corner of the cell, and dropped to the floor.
+
+Push-ups.
+
+My palms pressed flat against the cold stone. My body straightened into a plank. I lowered myself until my chest touched the ground and pushed back up.
+
+One.
+
+The motion was familiar now. Twenty days of Roen's counting had carved the form into my muscle memory.
+
+Two.
+
+Three.
+
+The burn started at fifteen. A low, simmering heat in my chest and triceps that intensified with each repetition.
+
+Twenty.
+
+Twenty-five.
+
+At thirty, my arms shook. At thirty-five, the shake became a tremor. At forty, my elbows locked and refused to straighten.
+
+I held the position. Face inches from the stone. Sweat dripping from my forehead onto the floor.
+
+Pushed through.
+
+Forty-one.
+
+Collapsed.
+
+I lay on the stone, chest heaving, arms dead at my sides, and counted breaths until my heart rate dropped enough to start again.
+
+Sit-ups next. Then squats. Then back to push-ups.
+
+The cycle repeated until my muscles stopped responding to commands.
+
+While I worked, another part of my mind was planning.
+
+One part counted repetitions.
+
+The other considered death.
+
+The thought had been circling since the arena.
+
+If I die right now, I'll reset to the carriage.
+
+I could do it. In theory. Find a sharp edge. Hit it hard enough at the right angle.
+
+The curse would trigger. The day would restart. I'd wake up tied to the carriage with Brandt and Ghost and Roen inside, and everything that had happened since, the Coliseum, the arena, the lion-man, would repeat.
+
+The chance was seductive.
+
+I stood up, pausing for a moment as I tried to think of something that might be useful. Maybe a rope. It would be cruel and painful, but it could let me repeat the loop.
+
+However, the more I thought about it, the more a pain began to build in my chest. It wasn’t the ache from the exercises. It felt as if a knife were being dragged through me from the inside.
+
+I had to stop and clutch my chest, certain it was about to burst from the pain.
+
+After taking a few breaths, I decided to discard the idea. Not out of fear of the pain itself, but because of what that pain might mean.
+
+Maybe it was the Sins’ way of telling me that this wasn’t how it worked.
+
+Every death so far had come from external forces. Wyvern fire. Acid. Elven blades. Each one had been inflicted by something outside myself.
+
+The curse's trigger was death. But whose hand had to deliver it?
+
+If I killed myself and the curse didn't activate...
+
+I'd just be dead.
+
+Actually dead.
+
+Beyond that, reseting would have been useless.
+
+Nothing would change.
+
+I'd still be bound. Still be delivered to the same Coliseum, thrown into the same cell, pushed onto the same sand.
+
+The loop would repeat. The outcomes would be the same.
+
+I rolled onto my back, stared at the ceiling, and let the thought dissolve.
+
+Sleep hit me like a falling wall.
+
+One moment I was counting cracks in the stone. The next, oblivion.
+
+My body had made the decision without consulting my mind. Twenty days of road training, a brutal arena fight, and an hour of exercise in a cell had drained whatever reserves I had.
+
+The bang brought me back.
+
+The cell door slammed open with enough force to bounce off the interior wall.
+
+"Up! On your feet! Move!"
+
+I rolled off the pallet and stood.
+
+My stomach was empty.
+
+They hadn't fed us. Not yet.
+
+The day before, they had sent some meals. They were adequate. Enough for us to perform. It wouldn't be malnutrition that would kill us.
+
+Still, the soldiers came for us before the morning meal.
+
+Around me, the cell stirred.
+
+Marcus was on his feet before the second command. His healed arm swung at his side as he moved toward the door, but I caught the way his eyes kept darting to it. The mending hadn't fully restored it.
+
+Gerret rose with a hiss, one hand pressing against the bandage on his chest. The wound had seeped again during the night. A fresh stain darkened the center of the cloth, and his movements carried the careful, abbreviated quality of someone navigating around pain.
+
+Lyra was last.
+
+She unfolded from her corner and stood. The healed leg accepted her weight. She took a step.
+
+Her jaw clenched hard.
+
+Another step.
+
+The limp was worse than yesterday. Each time her weight shifted to the mended shin, something behind her eyes flinched. The bone had been set. The flesh had been sealed. But whatever magic the monks used hadn't erased the remaining pain.
+
+Marcus moved to her side without being asked. His good arm hovered near her elbow, not touching, but close enough to catch her if the leg failed.
+
+We were herded into the corridor. Up the stairs. Through the stone passages that climbed toward the surface.
+
+The sound reached us three levels before the gate.
+
+There was a crowd.
+
+A real crowd.
+
+Cheering. Stamping feet.
+
+My stride faltered.
+
+I looked at Marcus.
+
+His face had gone rigid. His eyes were fixed on the gate ahead, and I could see him calculating.
+
+"Is this normal?" I asked. "I thought it was supposed to be training."
+
+Marcus didn't look at me.
+
+"That's... not a good sign," he said quietly.
+
+The gate rose.
+
+We stepped through.
+
+The arena was the same.
+
+The lower tiers held the monks, as before. Their undyed robes formed ordered rows of brown and gray, their faces hooded, their hands busy with quills and parchment.
+
+Yet the upper tiers were packed.
+
+Soldiers filled the stone seating in dense clusters.
+
+Among the soldiers, sat figures in finer clothing. Embroidered coats. Fur-lined collars. Boots that had never touched a battlefield.
+
+Nobles.
+
+They leaned toward each other, exchanging words behind cupped hands. Pointing at the sand below. Laughing.
+
+Above them all, on a platform built into the highest tier directly opposite the main gate, two figures sat on carved stone seats that weren't quite thrones but were close to that.
+
+Both were men. Both appeared to be near thirty.
+
+The one on the left wore an officer's uniform of deep black, cut with military precision, every line sharp, every button polished. On his chest, embroidered in silver thread, sat a cross. The Iron Cross insignia. His posture was upright, chin elevated, shoulders squared. Everything about him radiated authority.
+
+His eyes swept the arena floor with pride.
+
+The one on the right was different.
+
+He wore plate armor. Parts of his hair were red. Not the vivid Hexenzeit crimson, but a darker shade, like autumn leaves.
+
+His eyes rested on the arena floor with a different expression.
+
+Worry.
+
+"Who are they?" I murmured.
+
+Marcus had seen them too.
+
+"Royalty."
+
+"Royalty?" I repeated.
+
+Gerret spat on the sand.
+
+"Princes," he said. The word left his mouth like something rotten.
+
+"Training session! Begin!" A monk announced from their section.
+
+The far gate opened.
+
+Four figures emerged.
+
+Two of them were mutants. The first was the scaled woman, her skin had blue and green patterns. The second was a stocky figure whose face had been pressed flat, nose and mouth compressed into a configuration that looked almost reptilian.
+
+The other two were normal humans, yet they seemed experienced.
+
+The weapons lay between us. Scattered across the midpoint. Wooden swords. Blunted spears. Shields.
+
+The whistle shrieked.
+
+I moved.
+
+My legs drove me forward. Eyes on the weapons. Eyes on the nearest sword.
+
+My hand closed around the grip.
+
+I turned to find my opponent already coming.
+
+Human. My height, maybe slightly taller. He held a wooden sword in a grip that was textbook-correct, the kind of grip that came from years of repetition under a trained instructor's eye. His stance was measured. His feet were placed with precision, weight distributed evenly, center of gravity low.
+
+He didn't rush. He advanced with calm.
+
+I raised my sword. Set my feet. Tried to settle into the guard position that twenty days with the Knights had carved into my muscle memory.
+
+He came at me.
+
+The first exchange was a conversation in a language I barely spoke.
+
+His opening combination was clean. Three strikes delivered in sequence, each one flowing from the last. With a precision that left no gap.
+
+High diagonal. Low sweep. Straight thrust.
+
+I blocked the first. Dodged the second. The third grazed my hip hard enough to make me gasp.
+
+He reset without losing balance. Feet repositioned. Sword returned to center.
+
+From the tiers above, a monk's voice carried down with clinical detachment.
+
+"That one is employing the Imperial Style. Note the structured approach. Standard academy methodology."
+
+Imperial Style.
+
+I didn't know what that meant. But I could see its structure in the way my opponent moved.
+
+Everything was a system.
+
+His attacks came in sequences. Combinations that had been drilled until they were reflexive. Each movement connected to the next through a logic I could almost follow.
+
+I could see the patterns. After ten exchanges, I could anticipate which combination would follow which opening. The high diagonal always preceded the low sweep. The low sweep always preceded the thrust. When he shifted weight to his back foot, a horizontal slash was coming.
+
+Reading him wasn't the problem.
+
+The problem was that even when I knew what was coming, I couldn't stop it.
+
+His execution was too clean. Too fast. Too precise.
+
+The gap between recognizing the attack and positioning my defense was wider than the gap between his wind-up and his strike.
+
+I parried when I could. Dodged when I couldn't.
+
+Still, he wasn't trying to kill me.
+
+The realization crept in, confirmed by accumulation rather than any single moment. His strikes landed. They bruised. They stung. But they never drove for the lethal targets. Never sought the throat or the temple or the gap between ribs where a thrust would find organs.
+
+He was training.
+
+Using me the way a swordsman uses a practice dummy. Testing his combinations against live resistance. Refining timing. Adjusting angles.
+
+The understanding burned, but I swallowed it.
+
+If he wasn't trying to kill me, I could survive longer. Every second I survived was a second I spent learning. Every pattern he repeated was a page in a textbook I was writing with bruises.
+
+The minutes stretched.
+
+My arms burned. My lungs worked overtime, fighting against the hollow emptiness where breakfast should have been.
+
+But I held.
+
+The whistle came.
+
+Three sharp blasts that cut through the arena's noise and severed every fight in progress.
+
+I lowered my sword. My chest heaved. Air scraped through my throat in raw, desperate pulls.
+
+Relief flooded through me so fast my knees nearly buckled.
+
+I turned to find my team.
+
+The relief died.
+
+Lyra was on the sand.
+
+She lay on her side, one wing crumpled beneath her, the other spread across the ground in a dark fan of trembling feathers. Blood poured from a wound on her shoulder. The kind of wound that turned cloth black and made the sand beneath it dark and wet.
+
+Her opponent stood over her.
+
+The scaled woman. She raised both fists above her head and howled. The sound was inhuman, a shriek. A triumphant cry that was answered by cheers from the upper tiers.
+
+She was celebrating.
+
+Standing over a girl with a shattered leg that had been mended twelve hours ago and a shoulder that was now pumping blood into the sand.
+
+My eyes moved.
+
+Gerret.
+
+He was down too.
+
+On his back. Both hands wrapped around the shaft of a wooden spear that protruded from his chest. The blunted tip had been driven through his ribcage with enough force to punch through muscle and bone.
+
+His mouth was open. His amber eyes stared at the sky. His lupine ears lay flat against his skull, and they weren't twitching.
+
+Blood pooled beneath him.
+
+Nobody.
+
+Nobody helped.
+
+Nobody intervened.
+
+The monks were writing.
+
+The nobles were talking.
+
+The nobles were approaching.
+
+The princes sat on their stone seats and watched.
+
+Something broke inside me.
+
+Something that had nothing to do with strategy or self-preservation.
+
+I saw red.
+
+The edges of my vision darkened until only the center remained, and everything in that center was bathed in a crimson haze that pulsed with my heartbeat.
+
+My body moved before my mind gave permission.
+
+I charged toward the opponent nearest to Gerret's body.
+
+The flat-faced mutant stood three paces from where Gerret lay, wooden sword still in his hand, blood still on its edge. His back was half-turned toward me. He hadn't expected anyone to keep fighting after the whistle.
+
+"Why!" The word tore from my throat.
+
+The flat-faced mutant spun.
+
+Too late.
+
+My wooden sword came around in a horizontal arc that started at my hip and ended against the side of his skull.
+
+I hadn't held back.
+
+Every ounce of fury. Every scrap of strength.
+
+The impact was catastrophic.
+
+The wooden blade exploded.
+
+The sword didn't break cleanly. It detonated against his temple in a spray of splinters and shattered fragments that peppered my face and arms. The force of the collision traveled up through the shattered weapon and into my hands, numbing my fingers, but I felt the hit land.
+
+The mutant's head snapped sideways. His body followed, legs failing, arms going wide. He hit the sand and didn't move.
+
+The monk's whistle shrieked.
+
+I didn't hear it.
+
+I was already moving.
+
+The splintered stump of the sword was still in my hands, six inches of jagged wood jutting from the grip. I pivoted toward the scaled woman who stood over Lyra's body with her fists still raised.
+
+"Come on!" I screamed. "Come on, you—"
+
+Boots approached behind me.
+
+The soldiers.
+
+They came from the arena's edge in a disciplined line. Spears leveled. Shields locked. Closing on me from three directions.
+
+The monk's voice cut through the noise.
+
+"Slave One Hundred Forty-Seven! Stand down immediately! Continued resistance will result in elimination!"
+
+I stopped.
+
+Not because the words reached me. Not because the threat of elimination penetrated the red haze.
+
+I stopped because I looked up.
+
+Past the spears. Past the soldiers. Past the monks with their quills and the nobles with their wine.
+
+Up to the stone seats.
+
+The prince in the black uniform was watching me with an expression of mild interest. The way a man watches a dog perform an unexpected trick.
+
+The prince in the scarred armor was watching me too.
+
+I raised my hand.
+
+Extended the middle finger.
+
+Held it there.
+
+The arena went silent.
+
+Monks stopped writing. Nobles stopped talking. Soldiers stopped advancing. For one moment, every eye in the Coliseum was fixed on me, standing in the bloodied sand with a broken sword in one hand and a raised finger on the other.
+
+The silence lasted two heartbeats.
+
+"Do your best," I said.
+
+The words were quiet. Barely more than a whisper. But in the perfect stillness of that moment, they carried to every tier.
+
+I turned toward the nearest soldier and charged.
+
+The first spear took me through the stomach.
+
+The steel tip punched through my abdomen with a force that lifted my feet off the sand. The shaft followed, driving deeper, the wooden pole scraping against my spine from the inside.
+
+I kept moving.
+
+My hands found the shaft and pushed against it, trying to reach the soldier behind it, trying to close the distance even as my body began to fail.
+
+The second spear entered from the right. Between the fourth and fifth ribs.
+
+The third spear came from behind.
+
+I didn't see it. I felt it.
+
+My legs stopped working.
+
+I fell.
+
+The sand was warm against my face.
+
+Somewhere, far away, a monk's voice noted something for the record.
+
+My eyes closed.
+
+⌜ Initiating Curse ⌝
+
+⌜ Restarting Day ⌝

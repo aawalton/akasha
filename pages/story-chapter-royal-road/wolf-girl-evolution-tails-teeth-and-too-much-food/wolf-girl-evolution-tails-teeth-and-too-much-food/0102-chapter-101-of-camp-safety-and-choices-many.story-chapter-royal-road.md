@@ -1,0 +1,557 @@
+---
+id: 7013d826-1c9b-54ab-86a3-ce96b2da62a1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 101: Of Camp Safety and Choices Many"
+slug: 0102-chapter-101-of-camp-safety-and-choices-many
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 102
+ownLength: 2206
+unit: words
+publishedAt: 2026-02-18
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3069010/chapter-101-of-camp-safety-and-choices-many"
+royalRoadId: "3069010"
+---
+
+PoV Luna
+
+The escape from the Ant tunnels was fun.
+
+…At least for Luna!
+
+She shot upward through the main shaft with the speed of an arrow that had forgotten it was supposed to obey gravity. Shadows clung to her feet, walls, elbows – anywhere they could find purchase – as she ricocheted past clambering Nest Guards trying their best to stop the intruders.
+
+They were angry.
+
+Very angry!
+
+But no longer coordinated.
+
+It made them noisy.
+
+And biteable.
+
+But for Luna that just meant more fun!
+
+She evaded the first few in ways that made the silly things stumble into each other – one even twisted so hard they fell over!
+
+Hehe!
+
+So silly!
+
+Luna slammed shoulder-first into one that tried to block the tunnel, carving through its foreleg as she spun off its shell and kicked another in the head on the way past.
+
+“Outta the way!” she barked, entirely too cheerful for someone covered from head to toe in ant ichor.
+
+Soon enough, the enemies ahead were cleared – for now.
+
+And behind her, the tunnel filled with noise – steel on chitin, spells cracking against packed earth, with Dorian’s laughter threading through it all.
+
+Mr. Fox was really fun!
+
+“Next time,” he called upward, breathless but exhilarated, “we let me go first and see what happens!”
+
+“You would trip on the first Ant leg,” Trianna shot back.
+
+“Untrue! I would trip on the second one!”
+
+Syl’s voice cut through it all, steady as ever.
+
+“Less commentary. More climbing.”
+
+Luna giggled and smashed another Ant out of the tunnel mouth, momentum barely faltering.
+
+She was getting tired though.
+
+All the fighting getting to her.
+
+Still, she felt merely… pleasantly worn.
+
+The aches were hardly noticeable.
+
+It was… the good kind of tired!
+
+Apex Predator tired!
+
+And entirely deserved after biting strong prey down!
+
+Her stomach growled.
+
+“Mhm… Food later,” she muttered to herself.
+
+Then louder–
+
+“Second! Luna very hungry!”
+
+“Of course you are,” Syliana answered dryly.
+
+The side tunnels erupted with activity as they climbed. Ants poured out from narrow openings, trying to collapse inward onto the retreating group. One leapt from a side shaft straight at Dorian–
+
+–and got bisected midair.
+
+Nice!
+
+Luna approved!
+
+Trianna’s arrow then thudded into another that had been lining up a charge.
+
+“This is the part where we pretend this was the plan all along,” she said.
+
+“It was the plan,” Dorian replied.
+
+“To anger the entire nest?”
+
+“To remove the Queen,” Syl corrected, voice sharp. “Which we did. Focus.”
+
+Luna burst out of the tunnel first.
+
+The forest air hit her like a blessing.
+
+Clearer!
+
+Cooler.
+
+With less pesky underground pheromone stuff.
+
+She took two bounding leaps forward, turned, and watched the others emerge one by one, still fending off the last of the pursuing Guards.
+
+Ants spilled from the tunnel behind them in furious waves.
+
+“Ants still mad!” Luna reported brightly.
+
+“Yes, very mad,” Syl said, not sounding surprised.
+
+At all!
+
+Hehe, her Second was so smart!
+
+Luna’s tail wagged.
+
+And the chase began properly then!
+
+They ran, and ran – though not Luna fast!
+
+Through trees slick with earlier rain. Across roots and churned mud. Ants skittering in uneven clusters, trying to compensate for their broken command.
+
+The old pheromones still worked.
+
+And new ones were being made by some of the Ants…
+
+But without the Queen, they lacked rhythm.
+
+Instead they just chased, and attacked in bursts!
+
+Overextended.
+
+Got picked apart.
+
+Or entirely lost track of Luna and her pack!
+
+Luna ran ahead a few dozen strides, turned, and waited for her pack to close distance.
+
+She pulled roasted meat from her Maw mid-run, stuffed it into her mouth, and chewed aggressively while bouncing on her heels.
+
+Dorian nearly tripped when he saw her.
+
+“Is she–?”
+
+“Yes,” Trianna said flatly. “She is.”
+
+Syl passed by Luna just long enough to murmur, “Save some for later.”
+
+“Luna needs fuel!” she protested through a mouthful of roast.
+
+She swallowed, grabbed another bite, and then launched forward again as a cluster of Ants tried to flank from the left.
+
+The forest thinned before them.
+
+The light grew stronger.
+
+Ground firmed underfoot.
+
+And then–
+
+They broke from the treeline, with the plains opening up before them!
+
+The weather was clear now.
+
+And the view sparkly with water!
+
+Awoomazingly shiny!
+
+Sky washed it all clean, and Luna got an urge to bite something shiny.
+
+She settled for a sandwich instead!
+
+And just a little later, they found their target.
+
+The expedition’s fortifications stood ready, and active with Ants and defenders.
+
+More reinforced than Luna remembered!
+
+The rebuilt Killzone was now marked with stakes and shallow trenches.
+
+And they even had rotational squads.
+
+Some resting!
+
+Others fighting!
+
+Mhm! Proper pack tactics!
+
+Luna watched as small interference teams were peeling off scattered Ant clusters and drawing them wide.
+
+Ants were still numerous.
+
+But disjointed!
+
+Without the Queen, their movements lacked cohesion.
+
+It looked like the expedition had things handled now!
+
+Luna skidded to a stop just inside the perimeter, tail high, chest heaving in satisfied excitement.
+
+“We brought presents!” she announced.
+
+The perimeter squad did not look particularly happy at getting new Ants to hunt.
+
+Instead, they simply adjusted formation and began cutting down the disorganized pursuers with disciplined efficiency.
+
+Rude!
+
+Having prey to hunt was a good thing!
+
+Guildmaster Ferric approached just as Luna’s elite team crossed into secured ground.
+
+His armor was splattered with Ant gunk, but his posture was steady and sure.
+
+He immediately turned to Syliana.
+
+“You’re back quickly, how did it go?”
+
+“Ant Queen eliminated,” Syl replied simply.
+
+Ferric’s eyes sparkled, and a grin spread on his face.
+
+“Ha! That’s great to hear! It will make things easier.”
+
+He looked at everybody from the Queen killing team, stopping briefly at each face, and a little longer at Luna, who picked that exact moment to use her new shadow trick to become gunk-free.
+
+“…Thank you, your help means a lot.”
+
+Then back to Syl.
+
+“That ends the worst of it.”
+
+He looked toward the forest, where Ants still spilled out in confused waves only to be redirected or destroyed.
+
+“With no new brood being produced we can take our time. There will be more eggs in the tunnels, but without coordination they’re just cleanup.”
+
+He exhaled slowly.
+
+“Cleanup will take days,” he said. “But it’s just cleanup now.”
+
+“Well done! All of you.”
+
+He waved a hand toward the camp structures already being re-established.
+
+“Go rest up. You’ve earned it! We can handle the stragglers.”
+
+Syl inclined her head in thanks.
+
+Trianna stretched her shoulders with a relieved hiss.
+
+And Mr. Fox gave a small salute with two fingers.
+
+A new pose! Luna tried to mimic it!
+
+It worked!
+
+She grinned so wide her cheeks hurt.
+
+“Second,” she said, bouncing once in place, “Luna has something very important to say.”
+
+Syl eyed her cautiously.
+
+“…After food!” Luna added quickly.
+
+Because strong prey was defeated!
+
+And she had an Evolution waiting.
+
+But Luna was hungry!
+
+And that was clearly more important than everything else.
+
+Probably!
+
+***
+
+Luna’s eyes sparkled a lot when she noticed the big pot was still there!
+
+And even happier when she could just eat her fill, no questions asked!
+
+A bowl and two second helpings later, she was satisfied.
+
+The others joined her at meal time too!
+
+Mr. Fox and Trianna bickering all the way, while her Second ate at her own relaxed pace. Luna leaned into her side after her own meal was done.
+
+And soon enough, everybody was happy and full!
+
+Dorian clapped Trianna once on the shoulder and wandered off back towards his team.
+
+And Trianna stretched like a satisfied cat and immediately bounded off to watch the battlefield from a ‘good vantage spot’ – whatever that meant!
+
+Guildmaster Ferric was long since back in motion, voice cutting clean through the renewed fighting as he reorganized perimeter rotations.
+
+No one questioned why Luna grew quiet.
+
+They assumed she was tired.
+
+Which was fair.
+
+She was!
+
+A little.
+
+But that wasn’t it.
+
+Luna walked beside Syliana without bouncing for once.
+
+Or even asking for jerky!
+
+And without even announcing her greatness to the sky.
+
+Her tail swayed low and thoughtful behind her.
+
+The plains were still loud – steel clashing against chitin, distant Ant screeches, spell detonations flashing occasionally.
+
+But it all felt farther away now.
+
+Controlled, and no longer desperate.
+
+Luna reached out and gently tugged at Syl’s sleeve.
+
+Just once.
+
+“Second…” she said softly.
+
+Syl turned immediately, noticing the tone.
+
+“Luna needs you.”
+
+Her Second’s eyes sharpened in focus.
+
+Then understanding.
+
+“Alright,” she said quietly.
+
+Syliana guided Luna away from the main camp center, weaving between resting squads until the noise softened.
+
+They reached their tent.
+
+Close enough to safety, and far enough from interruption.
+
+Only then Luna noticed how her legs felt heavier than she expected.
+
+The events of the day tiring and exciting in many ways.
+
+Syl stepped inside first, then motioned Luna in after her.
+
+The air inside was calmer. Familiar.
+
+Smelled like pack and cloth and faint traces of stew!
+
+It immediately made Luna relax.
+
+Syl sat down.
+
+And Luna didn’t hesitate!
+
+She folded down immediately, curling close, pressing into Syl’s side and sliding her head under her hand!
+
+It totally belonged there!
+
+Yes!
+
+A completely normal phenomenon!
+
+Syl’s fingers found her hair-fur automatically, stroking slow and steady.
+
+“It’s safe here now,” Syl murmured. “What do you need, Luna?”
+
+She enjoyed the scritches for a moment longer.
+
+“Mhm… Luna can evolve now!”
+
+Syl’s hand stilled for half a heartbeat.
+
+Then resumed.
+
+“Oh really?”
+
+“Yip-yep! The strong Ant prey made Luna stronger!”
+
+She shifted slightly, pressing closer.
+
+“And System meanie said Evolution available!”
+
+“And?”
+
+“And Luna wants Second here, when it happens.”
+
+…Because she felt safe with her Second.
+
+Trust absolute!
+
+Syl’s hand slid from Luna’s hair to cup the back of her head fully, thumb brushing gently behind her ear.
+
+“Of course, I will stay and keep you safe,” came an immediate reply, no hesitation!
+
+Luna exhaled, snuggled into her Second a little more…
+
+But her tail betrayed her!
+
+It wagged furiously!
+
+Hmph!
+
+Well, it was fine.
+
+Her shoulders loosened, and Luna relaxed.
+
+Outside, steel clashed.
+
+Ants screamed.
+
+Ferric barked an order.
+
+But here, inside, it was warm!
+
+Steady.
+
+And safe!
+
+Luna let herself relax completely.
+
+Only because Syl was here.
+
+“Second?” she murmured, eyes drifting shut for a second.
+
+“Yes?”
+
+Luna looked up at her best friend and packmate.
+
+“...Thank you for caring for Luna.”
+
+A satisfied hum, then Luna felt a hug squeeze her tightly.
+
+And the voice of her Second.
+
+“Always,” she whispered out right into Luna’s ear.
+
+Luna stared.
+
+…And felt a blush coloring her cheeks, her tail betraying her again!
+
+“Uh, um–”
+
+“You’re so cute when you’re flustered.”
+
+Eh.
+
+Eh!
+
+Ehehe!
+
+…That felt both embarrassing and nice.
+
+It actually took Luna a good moment to recollect herself!
+
+Second was too sneaky!
+
+Almost Apex Predator sneaky!
+
+Finally, Luna tilted her head up slightly, golden eyes calm and bright again.
+
+“Okay,” she said.
+
+“Let’s see what Luna becomes!”
+
+Luna listened to the outside sounds for a few breaths more.
+
+Then let them fade.
+
+Syl’s hand rested against her head, fingers threading slowly through silver hair. Each pass anchored her. Each stroke told her where she was.
+
+Here.
+
+Safe.
+
+Pack.
+
+Her breathing steadied.
+
+In.
+
+Out.
+
+The world narrowed inward.
+
+“Okay,” she murmured softly. “System!”
+
+It answered immediately.
+
+Evolution Options: Tier 1
+
+Moon Wolf (Epic) – You bask in the silvery path. Moonlight your friend, ally, and strength. Your steps leave its ethereal traces behind.
+
+Lunar Maw Stalker (Epic) – The Silent Moon looks on as you devour. Its brilliance a quagmire upon your enemies. There shall be no escape.
+
+Shadowstep Predator (Epic) – No longer bound to place just one. The shadows lead to prey and home. Hunter unseen.
+
+Explosive Trickster Wolf (Epic) – Speed and force are your ally. Your form a trick, an afterimage your enemies follow. Explosion greets them from angles unseen.
+
+Velocity Reaper (Legendary) – Distance breaks beneath your run, immense forces tame in your grasp. Speed beyond strength, reaping beyond dare.
+
+Nightphase Ravager (Legendary) – From darkness to strike in but a single breath. Phase through where shadows pool. Ravage the prey unsuspecting.
+
+Warhound Devourer (Legendary) – Each kill, your prey, a claim you devour. You feed and grow, fueled by more. Strength unbound.
+
+Tier 0
+
+Little Speed Terror (Epic) – A frame so small, endlessly fast. Momentum grows with every stride, leaving the ground behind. A terror of speed.
+
+Umbral Moon Pup (Legendary) – Moonlight dims as shadows deepen. Your strikes a quiet beauty, burning lunar light into any who dare oppose your claim. A path of duality.
+
+Silvertongued Trickster Pup (Legendary) – Your voice grows sharper, your commands brighter. Your form fluid, morphing into what any want to see. Convince, trick, prosper.
+
+Gluttonous Abomination (???) – Grow as you eat. Eat as you grow. A bottomless void. Hunger unending.
+
+***
+
+Awooah!
+
+Pretty!
+
+Shiny!
+
+Dangerous!
+
+And so so many to pick from!
+
+Luna’s eyes shone with focused wonder.
+
+Hehe!
+
+Huh. Uhh.
+
+This was hard!
+
+Luna wanted to bite them all!
+
+But System meanie did not let her.
+
+So which one was the tastiest of them all?!
+
+Woo…

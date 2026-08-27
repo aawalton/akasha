@@ -1,0 +1,719 @@
+---
+id: cb65869d-601d-5f42-9015-e1cde4dca195
+page-type-slug: story-chapter-royal-road
+title: "Chapter 7: The Promise"
+slug: 0007-chapter-7-the-promise
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 7
+ownLength: 5312
+unit: words
+publishedAt: 2026-04-07
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3244466/chapter-7-the-promise"
+royalRoadId: "3244466"
+---
+
+"Twenty years ago," Iris said, "Kaspar von Hexenzeit was born."
+
+I sat perched on the edge of a broad stone, leaning forward so intently my knees almost touched my chest.
+
+I expected her to continue speaking.
+
+Instead, Iris rose in one smooth motion.
+
+For a heartbeat, I thought she was leaving. But she didn't step away. She glanced down at her forearm, and the air around her wrist shimmered.
+
+A single luminous ring blinked into existence around her arm, faintly humming as it rotated. The light was clean and controlled.
+
+Then Iris stepped toward me.
+
+Her hand lifted.
+
+Instinct made me pull back. My shoulders tensed, and my spine pressed into stone. I had died too many times to welcome an unfamiliar touch, especially from someone in armor.
+
+Iris noticed the recoil and paused.
+
+"Memory Share," she explained, as if naming a tool. "A useful spell. First-Circle, nothing impressive. But it's better than me trying to retell everything."
+
+I stared at her hand, then at the faintly glowing Circle around her wrist. I didn't understand the mechanics, but I understood the offer: I can show you.
+
+Slowly, I leaned forward again.
+
+"Okay," I said, and my voice came out quieter than I intended.
+
+Her fingertips touched my cheek.
+
+The moment her skin met mine, something inside my skull caught, like a hook sinking into flesh. The cavern, the rocks, the cold air… everything lurched sideways. I felt myself being pulled, not physically, but in the way your thoughts might be yanked out of your head if someone had grabbed them with a fist.
+
+My stomach rose as if I were falling.
+
+My vision went white.
+
+I opened my eyes, and the dungeon was gone.
+
+I wasn't looking at damp stone and torchlight anymore. I was outside, under a sky that felt too wide to be real after so long underground. Wind brushed my face. The air smelled of dry dust and old smoke.
+
+And I wasn't in my body.
+
+The first clue was the hair.
+
+Short strands fell into my vision when I blinked, and they weren't white. They were raven-black. My hands, when I lifted them, looked smaller. Younger. My steps felt quick, light, almost bouncing.
+
+Someone was pulling me along by the arm.
+
+An older woman. Taller than me. dragged me through a street at a hurried pace. Her grip was firm, impatient, the way adults pull children when something important is happening.
+
+"They're going to announce it," she said, breathless with urgency. "There'll be a transmission."
+
+Her voice echoed oddly in my mind because Iris's voice was there too, layered over the scene.
+
+"You were famous," Iris murmured, and even though I couldn't see her, I could hear the softening in her tone. "Even in my village far to the south, whispers of your name reached us."
+
+My head turned. No, her head turned, because I was seeing through someone else's eyes. Taking in the village around us.
+
+It wasn't the medieval picture my imagination kept trying to force onto this world. The buildings had straighter lines, flat faces, wide windows. More like the bones of something modern. But everything looked ancient anyway. Walls were cracked and stained. Some roofs had collapsed. Whole sections of stonework were blackened as if the village had once been burned and never fully rebuilt.
+
+Old world, decaying.
+
+Yet still alive.
+
+We reached the center of a wide square where the crowd had already gathered. People stood shoulder to shoulder, faces turned upward, eyes bright with anticipation. Some climbed broken steps or piles of rubble for a better view. Children sat on shoulders. Someone cheered as if a festival had begun.
+
+At the center of the square, something floated in the air.
+
+A projection. Yet, not like any screen I'd ever known.
+
+There was no cloth. No wall. No device casting light.
+
+It simply existed: a pane of shimmering image hanging in open air, edges rippling with runes like a frame made of living script. The thing hummed softly, and the hairs on my arms lifted as if the air around it had been charged.
+
+On the floating image, a child knelt.
+
+A small boy.
+
+Even through the distortion of the "transmission," I knew it was me, Kaspar, so young his face still held softness. Someone stood before him reading from a thick tome, pages spread wide like a judgment. The crowd in the square erupted again, clapping and shouting his name.
+
+"I was ten," Iris's voice threaded through the memory, "and you had just turned eight. It was when they performed the magical core test. A standard method among nobility to determine how many mana cores one possesses."
+
+My chest tightened.
+
+Mana cores. They measured children like weapons, decided destinies with numbers.
+
+"Your results were anything but standard."
+
+The image in the air brightened, as if the magic itself leaned in.
+
+"It was announced that you possessed nine cores," Iris said, and the way she spoke the number made it feel like a myth given shape. "An otherworldly amount of magic. Even with only one or two Circles, you had the potential to wield spells never heard of."
+
+I watched the crowd in the square cheer like they were witnessing the birth of a savior.
+
+"People claimed you would be the next hero of Silberwald," Iris continued. "You would herald a resurgence of House Hexenzeit to its former glory."
+
+The crowd's joy swelled, and for a moment, just a moment, I felt the shape of what my life should have been in this world.
+
+Promise.
+
+Fame.
+
+Fire.
+
+And then the thought hit me like cold water thrown on a flame.
+
+If I had nine cores… why can't I use magic?
+
+I felt the memory loosen its grip on my senses.
+
+The ruined village square, the floating transmission, the cheering faces… they dissolved into drifting fragments, and the damp chill of the cavern returned.
+
+Iris's presence across from me, perched on her boulder.
+
+For a moment she wore a faint smile, the kind that didn't quite reach her eyes.
+
+"Those days…" she murmured, and her gaze drifted past me, past the rocks, as if she could see straight through the cavern wall and into a different life. "Merchants, envoys, noble. Everyone flocked to Hexenzeit. From all corners of the empire."
+
+Her voice softened as she spoke, warmed by the remembered fervor.
+
+"All of them eager to connect themselves to your family," Iris continued. "It was a time of hope. Anticipation. Like the world had decided a legend was about to be born and no one wanted to miss it."
+
+Something tightened in my chest at the words your family. A name I couldn't remember, a house I couldn't picture, yet it belonged to me in a way my own skin still didn't.
+
+I sensed the shift in her tone before she even said it. Her shoulders sank by a fraction. The smile faded. Her eyes returned to the stone beneath us.
+
+"However…" I prompted gently, because the word was already hanging between us.
+
+Iris exhaled as if she'd been holding her breath for years.
+
+"However," she echoed, and her gaze lifted toward the cavern ceiling. "When you reached twelve, the awaited day arrived."
+
+"The revelation of your magical affinity," Iris said. "The day they were supposed to discover how many Circles you held naturally… and which element you were destined to command."
+
+She looked back at me, and there was sorrow in her expression now, raw enough that it didn't feel like gossip anymore. It felt personal.
+
+"I remember it as if it were yesterday," she said quietly. "My family had moved to Hexenzeit by then. The entire city was excited."
+
+Before I could ask another question, Iris's hand lifted again.
+
+"I'll show you," she said, and there was no warning beyond that.
+
+A faint shimmer gathered around her wrist. I caught the brief flash of a single glowing ring, one Circle, before her fingers touched my cheek.
+
+The cavern vanished.
+
+Not like closing your eyes and imagining somewhere else. Like being yanked out of your body by the collar.
+
+My stomach lurched. My vision tore sideways. For a heartbeat I felt suspended between breaths, between places, between selves.
+
+Then my eyes opened and I was standing in someone else's body again.
+
+I was taller this time. My posture carried a stiffness I didn't recognize. A long dress, too worn, hung against my legs. The fabric brushed my ankles when I shifted.
+
+The memory was uneven, like a torn tapestry. I couldn't see everything. I couldn't choose where to look for long. Certain details came through with brutal clarity, while the edges of the world blurred as if the memory itself didn't care about them.
+
+In front of me rose a long staircase of gray stone.
+
+It led up to a cathedral.
+
+Not the simple kind from storybooks. This was massive, carved and erected with the arrogance of a city that believed it would last forever. The entrance yawned in shadow beneath towering arches. Bells tolled somewhere above, and each strike rolled through the air like thunder, vibrating in my ribs.
+
+Thousands of people crowded the steps.
+
+They packed the stairs, the landings, the square below. Everywhere that could hold a body held one. Their voices blended into a single living roar: excitement, whispers, laughter, awe. Individual words didn't reach me clearly, but the emotion did. It was contagious, electric, as if everyone was drinking from the same cup of anticipation.
+
+I saw movement through the crowd.
+
+A boy—no, a teenager—ascended the stairs in the center lane as if the world parted for him.
+
+He wore a long red cape that flowed behind him like flame given cloth. His hair was the color of fire itself, bright and vivid, catching what light there was and turning it into something almost holy. People leaned away as he passed, not with fear, but with reverence. With expectation.
+
+I knew him the way you know your own heartbeat.
+
+That was me.
+
+Or what I had been.
+
+Iris's voice threaded through the memory, overlapping it like a second layer of sound.
+
+"At the time, your hair was red," she said softly, "just like your family's. You were wearing the Hexenzeit uniform. That's why I couldn't recognize you at first. You… you look like a different person."
+
+The memory pulled me forward, following the red-haired Kaspar as he climbed. Behind him, a procession formed. Other youths, nobles, attendants, figures in ceremonial robes. They moved toward the cathedral's interior as if drawn by gravity.
+
+The next moment, the memory jumped, cutting cleanly from the steps to the inside.
+
+I stood in an enormous hall.
+
+The ceiling was lost in darkness and distance. Pillars rose like the trunks of ancient trees, carved with symbols that seemed older than the empire Iris had mentioned.
+
+The crowd inside was even denser than outside.
+
+People filled balconies and aisles. Their faces turned toward the platform with the same expression: hunger. Hope. The belief that they were about to witness history.
+
+I felt it too, from within the memory. The tightness in the stomach. The breath caught in the throat. The moment before a judgment is delivered.
+
+Iris's voice continued.
+
+"Participants ascended the grand ritual platform one by one," she said. "When someone stepped into the center, the ground beneath them would light, displaying a Circle for each level of aptitude. Then a card would materialize. It would float before them and reveal their elemental alignment."
+
+As she spoke, the memory obliged, showing it.
+
+A young man stepped onto the platform. The stone beneath his feet flared, and a luminous ring of light appeared on the floor around him. One Circle. Another participant stepped in after him, and two rings appeared, brighter, wider, pulsing in slow rhythm.
+
+Then the air in front of each participant shimmered, and a card manifested out of nothing.
+
+Symbols crawled along its edge like living script. The image on its face wasn't still. It moved faintly, like a painting that breathed.
+
+I saw Iris's memory, her dress brushing the stone, her posture stiff with nervousness. When she reached the center, a single Circle lit beneath her feet.
+
+Then a card formed before her.
+
+The Empress.
+
+I didn't understand its meaning, but I could feel the weight of it. The image suggested stone and soil and mountains, power that didn't burn fast but endured.
+
+"In my case," Iris said, "a single Circle appeared. And the Empress card floated before me, signifying my affinity with Earth magic."
+
+The memory shifted again, drifting toward the center of the hall as the crowd's excitement rose like a wave.
+
+Someone important was approaching.
+
+Kaspar stepped onto the platform.
+
+The cathedral seemed to hold its breath.
+
+You could feel it in the silence that spread outward from the center, swallowing whispers, swallowing shifting feet. Even the mage-lights felt steadier, as if they'd been commanded to behave.
+
+Iris's voice dropped to something barely above a whisper.
+
+"Your case was special," she said. "Like none before it. Utterly unique."
+
+The air in front of Kaspar shimmered.
+
+A card materialized.
+
+The Hanged Man.
+
+The image was wrong in a way I couldn't fully describe. A figure suspended upside down, not struggling, not screaming, but… serene. The edges of the card crawled with runes that looked sharper, more jagged than the others, as if the magic itself was uncertain how to frame what it had produced.
+
+The floor beneath Kaspar's feet—
+
+Nothing.
+
+No Circle.
+
+Not one.
+
+The stone remained dead and unlit.
+
+For a heartbeat, I thought I'd missed it. That the light was delayed.
+
+But it stayed dark.
+
+Silence tore through the cathedral.
+
+Iris spoke into that silence, and her voice carried the weight of remembered disbelief.
+
+"First there was the card," she said. "The Hanged Man. It had never appeared before in any ceremony. You were the only person ever aligned with unknown magic."
+
+My heart thudded hard in my chest, even though I was inside a memory.
+
+"But then…" Iris's voice tightened. "None of the Circles lit up for you."
+
+The memory finally released me.
+
+For a heartbeat I sat there in the dim cavern air, half-expecting to still see the cathedral's vast pillars and the crowd's stunned faces. But all I saw were rocks slick with moisture, the uneven ground of my little hiding place, and Iris perched on her boulder with her staff across her knees.
+
+I shook my head once, trying to clear my head.
+
+"But… shouldn't that have been less of a problem?" I asked, unable to keep the hope out of my voice. Hope was stupid, but it kept sneaking back in anyway. "Couldn't I have learned to achieve at least a First Circle? With nine cores-"
+
+Iris's expression tightened. She didn't look angry. She looked tired.
+
+She sighed softly and met my eyes.
+
+"Yes," she said. "In theory."
+
+The two words carried the weight of a door closing.
+
+"But you had a unique element," Iris continued gently. "At that moment, no one understood it. And to this day, we still don't fully comprehend it."
+
+Her gaze held mine, steady and honest.
+
+"Somehow," she said, "you never developed the First Circle."
+
+The air around me seemed colder. The damp stone bit harder through my robe. My stomach sank as if a trapdoor had opened beneath it.
+
+Never.
+
+Not "struggled." Not "slow to awaken."
+
+Never.
+
+I swallowed, forcing the words out past the tightness in my throat. "So… I was born with nine cores. But I can't form a Circle because… because the element is unknown?"
+
+Iris nodded once, almost reluctantly.
+
+"Perhaps you knew why before you lost your memories," she added, and there was something in her voice then that made my chest ache. Not pity, but the acknowledgment of tragedy.
+
+The implication was brutal: the answer might exist inside my own missing life, locked away behind the fog in my head. The curse had handed me endless days and endless deaths, but not the one thing I needed most. Myself.
+
+I slapped my hand against my thigh, hard enough to sting, as if pain could shake a solution loose.
+
+"Shit," I muttered.
+
+A scream cut through the cavern pulling us awake.
+
+"Iris!"
+
+Both of us jolted upright at the same instant.
+
+"Stop slacking off and get back to your post!" it roared.
+
+Iris's shoulders stiffened. She glanced at me, and I saw regret flicker behind her eyes.
+
+"I should go," she said quietly.
+
+She reached for her helmet and settled it over her short black hair. The polished metal swallowed her face, turning her back into a soldier again, only her eyes visible through the visor slits.
+
+I found myself stepping closer without thinking, like I could hold onto the moment if I reduced the distance between us.
+
+"Be careful," I said.
+
+It was such a simple sentence. It felt almost meaningless in a world where people were thrown at wyverns like offerings. But it was the only thing I could give her.
+
+Iris's eyes softened. A slight smile tugged at the corner of her mouth, visible even under the helmet's edge.
+
+"Oh," she said, and her tone shifted toward dry humor, "and try to keep the noise down."
+
+I blinked.
+
+"Some of the guards think this place is haunted," she added, and though I couldn't see it properly, I could hear the smile in her voice.
+
+Under different circumstances, I might have laughed.
+
+"See you tomorrow," I said instead.
+
+The words came out with more determination than they deserved. Tomorrow was supposed to be a promise.
+
+In this world, tomorrow was… difficult.
+
+Iris hesitated.
+
+"The expedition is set to finish today," she said, and the sadness in her voice was quiet but real. "I don't think we'll have the chance to talk again tomorrow."
+
+I held her gaze through the helmet slits.
+
+"Unfortunately," I replied, letting the cryptic truth sit between us, "we will."
+
+Her head tilted slightly, puzzled. I could almost see the question forming, the instinct to demand clarity.
+
+But the shout came again.
+
+"Iris!"
+
+She flinched, then turned.
+
+"Take care," she said over her shoulder.
+
+She was gone, striding back toward the camp, armor whispering with each step.
+
+I was alone again.
+
+The rocks felt colder without another person's presence to break the silence. The camp's distant noise swelled slightly. The day was starting its march toward the gate as it always did.
+
+I drew a deep breath and let it out slowly.
+
+The sword's weight at my side was still there, a steady pressure against my hip.
+
+I looked down at my hands. Thin fingers, student hands. Then I looked toward the space between the stones where I practiced.
+
+If I couldn't form a Circle…
+
+If my element was unknown…
+
+If the world had declared me a "false promise" at twelve and never let me become what I was supposed to be…
+
+Then I needed refuge somewhere else. Somewhere tangible. Somewhere that didn't depend on mana behaving the way it was supposed to.
+
+I stepped into my stance and drew the blade.
+
+The familiar rhythm of practice became the only thing that quieted my mind.
+
+Slash. Recover. Breathe.
+
+Again.
+
+Again.
+
+The day always funneled toward the same end. The colossal gate, the corridor beyond, the heat blooming like a curse, and the beating of wings overhead that turned my blood to ice no matter how many times I told myself I was ready.
+
+And still, when the wyverns came, it felt like the first time all over again.
+
+I kept moving with the pattern in my head. Counting, dodging, hiding behind pillars. Until the moment I'd been building toward since I first realized my blade couldn't bite through scales.
+
+If the problem is the hide… then I have to aim for something softer.
+
+The idea had been circling my thoughts for loops. I'd tested every angle on those armored necks, every seam between thick plates. Every time, the sword lodged as if I'd struck rock.
+
+But a wyvern still had to be flesh somewhere.
+
+It still had a mouth.
+
+Mouths, no matter how monstrous, weren't made for armor.
+
+When one of the beasts swooped low, jaws opening wide enough to swallow a person whole, I didn't retreat.
+
+I charged.
+
+Heat slammed into my face as I ran straight toward it. The world narrowed until there was nothing but that gaping maw. Every instinct in my body screamed to turn away.
+
+Yet I'd already died too many times to let instinct decide for me.
+
+I leapt as the jaws descended, thrusting my sword downward with both hands, aiming into the mouth, toward the soft tissue beneath, toward the tongue, toward anything that wasn't scale.
+
+For a single, impossible heartbeat, hope flared in my chest.
+
+I saw it with sickening clarity. The tongue. Thick and slick, a fleshy slab that flexed as the wyvern inhaled. Strings of saliva stretching and snapping slowly. And on either side, tucked inside the cheeks like grotesque organs, two swollen sacs bulged.
+
+Not armor.
+
+Not scale.
+
+Something vulnerable.
+
+I almost felt the blade sink in.
+
+Almost.
+
+A shadow swept across me.
+
+Another wyvern dove from the smoke-choked darkness, not with fire but with talons.
+
+They hit me like iron traps.
+
+Razor claws closed around my torso and wrenched me upward. The impact tore the breath from my lungs.
+
+My sword arm jerked, the thrust ruined.
+
+The world, once more, went away. I was swallowed by the familiar, merciless black.
+
+Yet even as darkness took me, a sliver of sight remained. One last image.
+
+My blade, just inches from that slick tongue.
+
+The saliva hanging like molten glass.
+
+I woke with a gasp in my tent.
+
+"I… I almost drew blood from a wyvern," I whispered.
+
+A triumphant smile tugged at my mouth before I could stop it. The emotion felt dangerous, like celebrating on a battlefield, but I couldn't help it. For the first time in too many loops, I hadn't just survived longer.
+
+I'd seen something new.
+
+Maybe I'm still improving.
+
+I ran a hand through my hair, staring into the dim canvas ceiling while thoughts churned and arranged themselves into a plan.
+
+"I need to avoid their scales," I murmured. "Their hides are nearly impenetrable… but vulnerable points exist. Mouth. Eyes. Underwing. Those sacs."
+
+Then the other problem rose up like a wall.
+
+"But I still need something to protect me from the flames."
+
+Because even if I knew where to strike, it didn't matter if the chamber became a furnace before I could close the distance. In some loops I'd died without a tooth ever touching me. Just heat and smoke and fire so thick it turned the air into poison.
+
+My gaze drifted around my tent, restless.
+
+Weren't there supposed to be high-circle mages on this expedition? I remembered the whispers from my first day. The awe around the Six-Ring Mage. The Magik Armors. Power that should have been able to do more than shepherd students into slaughter.
+
+So where were they when the wyverns attacked?
+
+Why didn't their magic stop the flames?
+
+The answer mattered.
+
+The only person who'd given me anything close to answers was Iris.
+
+I need to find Iris again.
+
+I started gathering my things, like a ritual, until my hand brushed against one of the leather-bound books in my pile.
+
+I froze.
+
+Iris's words returned to me from earlier, soft and sharp at the same time:
+
+Perhaps you knew why before you lost your memories.
+
+"Wait," I whispered.
+
+If the reason I couldn't form a First Circle was written anywhere, if my past self had ever tried to make sense of it, it wouldn't be in a textbook I couldn't decipher.
+
+It would be in something personal.
+
+I grabbed my journal. The half-finished one, the one that felt like it had been written in a hurry and stuffed it into my satchel. The leather strap bit into my shoulder as I slung it on. Then I slipped out into the sleeping camp.
+
+By now, moving through the tents felt like walking a familiar floor plan.
+
+As usual, I made my way to the officers' tents and acquired the sword again.
+
+Steel at my side, I returned to the rocks.
+
+This time, I didn't hide the sound of my training.
+
+I wanted the echoes.
+
+I wanted the dungeon to carry my presence. I wanted Iris to hear it and investigate the way she had before. So I swung and swung, letting the blade hiss through air and occasionally ring against stone, my arms burning, my breath harsh, sweat cooling on my skin.
+
+Hours passed in a rhythm of motion and listening.
+
+Slash. Recover. Breathe.
+
+Listen.
+
+No footsteps.
+
+No voice.
+
+No green-crystal glow in the dark.
+
+My frustration built with each silent minute.
+
+Then the command crashed through the cavern like a siege horn.
+
+"Prepare to open the gate! Everyone, get ready!"
+
+I froze mid-swing, the sword lowering as if my arm had been cut by the words.
+
+"Already?" I muttered, blinking hard.
+
+Time had slipped away faster than I'd realized.
+
+I stared at the entrance to my hideout, half-expecting Iris to appear at the edge of the shadows, helmet under her arm, eyes narrowed in annoyance.
+
+Nothing.
+
+"She didn't hear the noise?" I whispered, disappointment settling in my chest like cold mud.
+
+I stood there for a moment, sword hanging at my side, and thought back to the first time she'd found me.
+
+The thunderous crash.
+
+The accidental strike on stone that had echoed like a bell across the upper tier.
+
+I looked at the boulder I'd nearly hit earlier, at the scar marks in the rock.
+
+That was it, I realized. She heard the impact, not my training.
+
+The loud, unmistakable clang.
+
+I sheathed the sword with a tight, practiced motion and stepped out from between the boulders.
+
+I need to find Iris again.
+
+The thought spiraled, refusing to settle. If I could speak with her one more time. If I could learn what she knew maybe I could do more than simply die a little later.
+
+I could search through every tent until I find her, I admitted to myself, immediately picturing the outcome: me lifting a flap, a startled officer shouting, boots pounding, shackles biting my wrists. But she'd think I was a thief. Or worse.
+
+I let out a breath that tasted faintly of smoke.
+
+Maybe it's better to learn her rank. Her unit, I reasoned. She thought I was a noble… maybe the other soldiers would too.
+
+The camp funneled me forward with the rest of the crowd.
+
+The colossal doors scraped apart, rune-etched metal grinding against ancient seals.
+
+I stepped through with everyone else.
+
+At this point, the corridor beyond felt almost familiar, in the way a battlefield becomes familiar when you die on it enough times.
+
+Every twenty meters, a stone pillar rose like the trunk of an ancient tree, carved with worn symbols that seemed to watch without eyes. They were the only real cover in the corridor, and I'd learned to treat them the way you treat doorframes in a burning building: lifelines, until they aren't.
+
+Heat already clung to the air, a promise of what was about to come.
+
+I saw them again.
+
+Dozens of phantoms, pale-green echoes of myself, scattered through the corridor like shards of a broken mirror. Some sprinted ahead, panicked and reckless. Some hugged pillars too early, too late, dying in the same mistakes I'd died in. A few moved with the disciplined timing I'd only learned after countless loops.
+
+They were all me.
+
+They were all my choices.
+
+They were all my failures given shape.
+
+I forced myself not to stare. Staring didn't save you. Timing did.
+
+I chose the path most familiar. The sequence I'd carved into my bones through repetition and pain.
+
+Dodge the sprayed liquid, then the flames. Then deal with the wyvern that always comes from behind.
+
+My hand slid to the sword beneath my tunic. My grip found the hilt. I drew it just enough to feel the cold reassurance of metal, then held it ready at my side.
+
+My throat tightened.
+
+Count.
+
+"Three…" I whispered under my breath.
+
+Above heavy wingbeats stirred the air. Shadows slid across the pillars.
+
+"Two…"
+
+The first flare of light burst from the darkness overhead. Fire catching, liquid dripping.
+
+"One…"
+
+I moved.
+
+I threw myself sideways, boots skidding, shoulder rolling hard against stone just as the burning liquid splattered where I'd been standing. It hissed on contact with the ground.
+
+Heat hammered my face.
+
+I pushed up and sprinted toward a pillar just as the next blast came. Fire roared through the corridor, a living wall. I tucked behind the stone, feeling the pillar warm under my palm as the wyvern's breath washed past.
+
+My lungs protested with each inhale. Even the air hurt.
+
+Now comes the one behind me.
+
+In the earlier loops, I'd waited for the shadow to fall at my feet. I'd turned at the last second. I'd swung at the neck and cursed when scales ate my sword and the monster ate me.
+
+This time I changed one detail.
+
+I turned early.
+
+Before the shadow could loom, I spun on my heel and faced the beast as it dropped into position.
+
+It landed close enough that I felt the impact through the ground. It was enormous up close. Scales glistening like polished obsidian. Its eyes burned with feral intensity.
+
+Its maw opened.
+
+Rows of razor teeth gleamed in the firelight, and inside I saw what I'd seen in that last dying glimpse: the tongue and, on either side of it, those bulging sacs tucked into the creature's mouth like swollen organs.
+
+Let's aim for those.
+
+I lunged.
+
+I drove the sword forward straight into one of the sacs beside the tongue.
+
+For a heartbeat I expected the satisfying resistance of blade through meat.
+
+Instead I heard a small, obscene sound.
+
+A soft pop.
+
+Like puncturing a water skin.
+
+The wyvern's scream exploded across the corridor, deafening and raw. It reared back, thrashing, wings battering the air so hard my robe snapped against my legs.
+
+Dark green liquid gushed from the wound in a violent torrent.
+
+It sprayed across my forearms, my hands, my face.
+
+For an instant, it felt warm. Almost comforting in the way warm blood might feel on skin. I blinked through it, stunned by the fact that I'd actually done it.
+
+"I did it!" I screamed, my voice ripping out of me with a sudden, manic triumph. "I-!"
+
+Then the burning started.
+
+Not heat from above. Something worse. Something that ate.
+
+My sleeves began to smolder where the liquid clung. Fabric darkened, bubbled, and eroded as if it were dissolving. I stared, horrified, as holes opened in the cloth in seconds.
+
+My skin beneath blistered.
+
+Then peeled.
+
+The pain was immediate and absolute, a white-hot scream in every nerve ending, as if my arms had been plunged into boiling acid.
+
+"What… what's happening?" I gasped, panic shattering my focus. I tried to wipe it away, but my hands only spread it, smearing poison and fire across more skin.
+
+That wasn't blood.
+
+I'd punctured something else. An organ meant to hold the wyvern's own corrosive fuel. The same stuff they sprayed across the corridor to ignite on contact. I'd opened it… and it had opened on me.
+
+My sword slipped from my fingers.
+
+It clattered to the ground with a dull, helpless sound. I staggered backward, arms shaking, vision blurring as pain filled the world and shoved everything else out.
+
+My knees buckled.
+
+My breathing turned shallow. Ragged. Each inhale felt like pulling heat into my lungs.
+
+Darkness closed in.
+
+[Initiating Curse]
+
+[Completed: 1,000 Repetitions With a Sword]
+
+[Amateur Swordsmanship — Level Increased]
+
+[Level 1]
+
+[Toxicity Resistance Learned]
+
+[Level 0]
+
+[Completed: Drew Blood From A Wyvern]
+
+[Fear Resistance Learned]
+
+[Level 0]
+
+[Restarting Day]

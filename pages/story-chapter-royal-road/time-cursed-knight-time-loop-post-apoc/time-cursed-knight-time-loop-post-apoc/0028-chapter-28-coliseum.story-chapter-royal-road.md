@@ -1,0 +1,363 @@
+---
+id: 00151984-1481-58e2-a29a-d80994da6c3d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 28: Coliseum"
+slug: 0028-chapter-28-coliseum
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 28
+ownLength: 2259
+unit: words
+publishedAt: 2026-04-25
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3318224/chapter-28-coliseum"
+royalRoadId: "3318224"
+---
+
+"Coliseum," I repeated.
+
+In my first life, I'd studied enough history to know what a coliseum was.
+
+The Romans had built theirs from travertine and volcanic rock, a monument to organized violence where men killed each other for the entertainment of crowds and the convenience of emperors. Gladiators, slaves and prisoners. People whose value was measured in how spectacularly they could die.
+
+The cheering that poured from the arched entrances was the same sound.
+
+I tugged the rope that still bound my wrists to the carriage's interior ring.
+
+"I thought I was being taken for training," I said, keeping my voice level. "That's what you told me."
+
+Brandt stood outside the carriage.
+
+"This is training. The first stage," he said, "is surviving the Coliseum."
+
+The word surviving landed too different than training.
+
+"Surviving," I echoed. "The Coliseum. As in the place where they kept slaves."
+
+My eyes moved from Brandt to Ghost to Roen, searching each face for the crack that would reveal the joke.
+
+There was no joke.
+
+Brandt's dark gaze didn't waver.
+
+"What," he said quietly, "did you think you had become?"
+
+It cut through every assumption I'd built over twenty days on the road. Every morning run behind the carriage. Every afternoon of lifting rocks until my muscles screamed. Every evening of sparring until my hands couldn't grip the training sword and my body hit the dirt and Roen's voice counted repetitions into the dark.
+
+I'd thought I was preparing for something.
+
+I'd thought they were investing in me.
+
+Ghost stepped forward. His pale eyes held the same temperature they always held. No warmth. No apology.
+
+"The moment you were requisitioned," Ghost said, his voice precise as a surgical incision, "you became property of the Iron Cross. Not a recruit. Property."
+
+He let the word sit in the air.
+
+"A slave," he continued, "until you prove valuable enough to be considered otherwise."
+
+The betrayal hit me like a fist to the stomach.
+
+Not the word itself.
+
+What hit me was the twenty days.
+
+Twenty days of Brandt teaching me footwork patterns while the carriages rested. Twenty days of Roen counting my push-ups with that infinite, metronome patience. Twenty days of Ghost critiquing my shoulder movement, my grip, my timing, my breathing.
+
+I had looked at them and seen something.
+
+Not friends, but close to it. Mentors, maybe.
+
+I had watched them fight monsters on the road and felt my chest swell with something dangerously close to admiration.
+
+And all of it, every morning run, every rock carried, every bruise earned in sparring, had been preparation for this.
+
+For a cage.
+
+"You lied to me."
+
+My voice came out wrong. Too loud. The composure I'd built over loops and deaths and careful, calculated conversations cracked down the middle.
+
+"You said I'd receive a training weapon. You said there'd be an evaluation. You—"
+
+"We said all of those things," Ghost interrupted, smooth as glass. "And all of them were true. You will receive a weapon. You will be evaluated."
+
+His head tilted.
+
+"Inside."
+
+The fury that erupted in my chest was the hottest thing I'd felt since the draconic flame. It burned through the carefully constructed architecture of calm I'd been maintaining. It burned through the pragmatism.
+
+For a moment, I wasn't the man who had learned to treat death as currency.
+
+I was just a person who had trusted the wrong people.
+
+"Fuck you," I snarled at Ghost. "When I get out of this place, I'm going to beat you so badly your grandchildren will feel it."
+
+Ghost's expression didn't change.
+
+"If," he corrected, "you get out."
+
+I bared my teeth.
+
+"When."
+
+The smile that spread across my face had no warmth in it.
+
+Even if it takes a thousand lives. Even if I die every day for a year. Even if the curse resets me a hundred times inside those walls.
+
+I will walk out.
+
+I yanked against the ropes. The hemp bit into my wrists and the iron ring groaned against its bolts.
+
+"Untie me," I demanded. "Right now. I'm not going in there like cargo. I'm not—"
+
+Brandt's chin dipped.
+
+A fraction of an inch. The smallest possible nod.
+
+Roen moved.
+
+For a man his size, he was horrifyingly fast when he wanted to be. One enormous hand closed around the rope at my wrists. The other produced a strip of cloth that he wrapped around my jaw and the back of my skull before I could get another word out.
+
+The gag tasted like old leather and horse sweat.
+
+I screamed into it. The sound came out as a muffled, furious hum that vibrated against the cloth and went nowhere.
+
+Roen lifted me off the bench with one arm.
+
+My feet left the carriage floor. For a nauseating second I hung in the air, suspended by the grip on my bindings, legs kicking at nothing.
+
+He set me down outside the carriage.
+
+Roen took the rope in both hands and began walking toward the Coliseum.
+
+I had no choice but to follow.
+
+Roen's strides were so long that I had to half-jog to keep the rope from yanking me off my feet. Rage boiled behind the gag. My breath came in short, harsh snorts through my nose.
+
+"It's not so bad," Roen said, his deep voice carrying the conversational tone of a man discussing weather. "I was in the Coliseum myself. When I first joined the Iron Cross."
+
+I glared at the back of his bald head.
+
+"It was actually pretty easy," Roen continued. "I just had fifteen fights and become the leader. Didn't take long."
+
+His massive shoulders shrugged as if the memory was mildly amusing rather than life-defining.
+
+"Only broke four bones. Maybe five. I don't remember exactly."
+
+I tried to scream through the gag again. It came out as an inarticulate growl.
+
+Roen didn't notice. Or didn't care. Both seemed equally likely.
+
+The interior was exactly what the exterior promised.
+
+The lower level was a network of corridors carved from the same dried-blood stone. The ceiling hung low. The walls wept with moisture. The air was thick, humid, carrying the smell of sweat and iron and something organic that I didn't want to identify.
+
+Torchlight lined the passages at uneven intervals.
+
+Two figures stood at the transition point between the entrance corridor and the deeper passages.
+
+Knights.
+
+Not the road-worn, monster-fighting variety. These were garrison Knights. Polished armor. Clean tabards. Swords at their hips that looked like they'd been maintained. They snapped to attention when Brandt appeared behind me.
+
+"New recruit," Brandt said. He produced a folded document from inside his coat and extended it.
+
+One of the garrison Knights took it, unfolded it, read it, and nodded.
+
+“Good. At this rate, you’ll surpass the quota. How many have you brought in this semester?” He asked.
+
+Brandt just shrugged.
+
+“Understood. I’ll take him from here. You’re welcome to come along,” the knight continued.
+
+The transition happened without ceremony.
+
+The rope changed hands. Roen's enormous grip was replaced by a gauntleted fist that pulled me forward.
+
+The garrison Knight led me deeper.
+
+The corridors narrowed. The torchlight grew sparser. We descended a flight of stairs cut into raw stone, then another.
+
+The lower wing opened before us.
+
+It was a broad, low-ceilinged hall lit by mana-glow that emanated from crystals set into the walls at chest height.
+
+People moved through the space.
+
+Not Knights.
+
+They wore simple robes of undyed linen. Rough fabric. Monastic cut. Hoods that some wore up and others let hang at their shoulders. Their postures were upright, disciplined.
+
+Monks?
+
+Not the religious kind, or at least not obviously so. They seem like administrators. People who kept the machinery running while others bled upstairs.
+
+Two of them stood at a long table near the center of the hall. Behind them, shelves held stacked ledgers, rolled parchments, and an assortment of items I couldn't identify from this distance.
+
+The garrison Knight handed my document to the nearer monk without a word.
+
+The monk unfolded it. Read it. His eyes moved with the speed of someone who had done this a thousand times.
+
+He reached for a fresh sheet of parchment and a quill. Dipped. Wrote.
+
+I watched the ink form characters I could now read.
+
+Slave 147.
+
+The number stared up at me from the wet ink. A number assigned to a piece of property, entered into a ledger alongside however many others had been processed through this table before me.
+
+I felt the gag press against my clenched jaw.
+
+From behind me, Brandt's voice carried a note of something that might have been surprise.
+
+"One hundred and forty-seven," he said. "That's a large crop."
+
+The monk looked up from his ledger.
+
+"The recruitment drive has been aggressive this season," he said. His voice was flat, administrative. "Command wants maximum throughput for the next cycle."
+
+He set the quill down and leaned closer to Brandt, lowering his voice.
+
+"There are rumors," the monk said, "that the order has developed a new technique. A method of channeling mana externally without forming Circles."
+
+My ears sharpened despite the gag, despite the fury.
+
+Brandt's expression shifted. A tightening around the eyes.
+
+"Is it real?" he asked.
+
+The monk shook his head. "Only the senior hierarchy has access to anything like that. But the rumor alone has been enough to triple the volunteer rate."
+
+A pause.
+
+"Volunteers and... otherwise."
+
+His gaze flicked to me. To the ropes. Back to the ledger.
+
+Brandt said nothing for a moment.
+
+He turned to face me. His dark eyes settled on mine.
+
+"Take care of yourself, Kaspar," he said.
+
+"If you make it out," Brandt continued, "perhaps someday our paths will cross again."
+
+Fuck you, I thought, staring at him through the gauze of impotent fury.
+
+I held his gaze. Unblinking. Giving him nothing.
+
+Brandt held it for a beat longer.
+
+He turned and walked back down the corridor.
+
+Ghost fell into step beside him. Then Konrad. Then Idris, whose grin had finally, for the first time in twenty days, gone flat.
+
+Roen was last.
+
+He paused at the mouth of the passage. His massive silhouette filled the archway. He looked back at me over one boulder of a shoulder.
+
+His mouth opened.
+
+Closed.
+
+He left.
+
+The monk gripped the rope at my wrists and pulled. We descended again.
+
+Another staircase. The stones here were older, rougher, slick with condensation that made each step treacherous. We reached a corridor lined with iron doors.
+
+Cells.
+
+Each one was identical.
+
+The monk stopped at a door near the middle of the row.
+
+He produced a key. Not a rune-tipped key like the one Vael had given me.
+
+The door groaned open.
+
+He pushed me through.
+
+The cell was occupied.
+
+Four bodies lay on thin pallets arranged against the walls. They were dressed in the same rough linen as the monks, though their versions were stained and threadbare. Their faces were turned toward me as I stumbled through the doorway.
+
+Eight eyes opened.
+
+Eight eyes assessed.
+
+Eight eyes decided I wasn't worth staying awake for.
+
+One by one, they rolled over and went back to sleep.
+
+The monk stood in the doorway. His posture was rigid, his face blank beneath the hood.
+
+"The rules," he said.
+
+"You do not attempt to escape. You do not resist orders. Violation of either rule is punishable by immediate execution. We have authorization given by the Emperor himself."
+
+He paused to let that settle.
+
+"Training begins each morning at dawn. You will be escorted to the grounds. You will take part in whatever exercise is prescribed. Refusal is treated as resistance."
+
+Another pause.
+
+"Each afternoon, names are drawn for combat. Fights take place in the arena above. The results determine your ranking. Only the top fifty are selected for the next stage."
+
+His gaze found mine through the gag.
+
+"Selection occurs once per month. Maintaining a position in the top fifty for a single day is insufficient. You must hold your ranking at the time of selection, or your progress is void."
+
+He stepped forward and drew a short blade from his belt.
+
+The rope parted.
+
+My hands fell free. Blood rushed back into my fingers. I yanked the cloth from my mouth.
+
+The monk watched me.
+
+I didn't scream.
+
+I didn't curse. Didn't spit. Didn't hurl myself at the door or the walls or the monk's impassive face.
+
+I stood in the center of the cell, rubbing feeling back into my wrists, and looked at my sleeping cellmates.
+
+The monk retreated through the doorway. The iron door groaned shut. The lock turned with a final clunk.
+
+His footsteps faded down the corridor.
+
+I was alone.
+
+Or close to it.
+
+I exhaled slowly, letting the last threads of rage settle.
+
+I turned toward the far corner of the cell.
+
+A narrow strip of floor, unclaimed by the four pallets.
+
+I made it two steps.
+
+"Not going to introduce yourself, rookie?"
+
+The voice came from directly in front of me.
+
+I stopped.
+
+The corner I'd been walking toward wasn't empty.
+
+Someone sat there, pressed into the angle where the two walls met, legs drawn up, arms resting on knees. The mana-glow barely reached this far, and the figure had been so still, so folded into the shadow, that I'd walked right past without seeing them.
+
+A girl.
+
+Sixteen, give or take.
+
+My voice died in my throat.
+
+I stared.
+
+Behind her shoulders, folded against her back, pressed tight against the stone wall as if she'd been trying to make them disappear...
+
+Wings.
+
+Two of them.

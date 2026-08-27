@@ -1,0 +1,125 @@
+---
+id: 9b08daa3-2f66-585d-8c33-ec639a2de707
+page-type-slug: story-chapter-royal-road
+title: "063 - The Master's House"
+slug: 0063-063-the-masters-house
+partOf: zero-day-saint-i-cheat-smarter-shapeshifter-litrpg
+position: 63
+ownLength: 1506
+unit: words
+publishedAt: 2026-07-29
+link: "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3740266/063-the-masters-house"
+royalRoadId: "3740266"
+---
+
+I took a moment to ruffle Reynard's neck. "You really are a social one."
+
+Then I pulled the crown back into my inventory, pulled the glaive out of it, and stood up, leaning on the weapon.
+
+The red dot on my mini-map refused to vanish, so I'd have to help it along. Before he managed to heal himself.
+
+On my way, I picked up both the demon's sword and my dagger and put them into my inventory. In the brief moment I touched the dagger, it had started bleeding black again, even though I only touched it with my left hand.
+
+All of me was infernal now, no matter if it looked human or not.
+
+At the bottom of the shaft, the twisted body of the other demon sprawled over the wreck of the elevator car. The tiny sliver of life force that remained was slowly draining away.
+
+I didn't leave it to chance. I jumped down the shaft, glaive first, and drove it through his skull.
+
+His loot was a black and gold keycard attached to a black cord.
+
+[Mammon Tower Master's Key (Unique Item)
+
+Signifies the Master of Mammon Tower.Opens all doors within Mammon Tower.]
+
+When I had climbed back up, Helene was already looting the corpses in the lobby and, more importantly, distributing health potions to the injured kobolds. Giving up a resource to help others. Actively withstanding Greed.
+
+I looked down at my new hand. There were hundreds of questions going through my mind. But most of them would have to wait. I had my end of a bargain to complete. A quest to complete. It was only early afternoon, but still, I had promised Helene to help her progress and instead got completely bogged down by what had been meant to be a tiny detour.
+
+At least getting increased experience for the two demons had granted her an entire level. She was 17 now. Three more to go.
+
+We'd get to that soon.
+
+I went back into the half-dragon shape. Now that it came with all shapeshifting bonuses, it practically brimmed with power. Even without Jamie's presence, it provided a 20, 18, and 16 in Strength, Agility and Endurance.
+
+I opened the door to the small room in which Zi'rah had been locked up. The four dots were already lined up around the door, ready to ambush whoever entered. So I didn't.
+
+I just stepped back and aside. "You are free. You can immediately return to the mall if you wish. But I invite you to stay for just a bit longer."
+
+While the four confused kobolds slowly emerged from the room, I walked into the lobby and addressed the present Mammon-touched kobolds.
+
+"This place belongs to me now. You are free to stay if you wish. You are not my servants. The only thing I demand is that you follow my rules. Humans are friends. The kobolds in the mall are friends." I spotted two familiar-looking kobolds and walked up to them. Only one of them recognized my mismatched eyes and responded with the appropriate terror. "Hyenas. Are. Friends." Now it clicked for the other one, too. They were those who Mammon had sent to poison my pack. I had killed most of their little group back then, but left those two alive.
+
+"If you harm friends, or steal from friends, or threaten friends? I will kill you. There is a war going on and I have no time for ambiguity."
+
+I walked over to a female kobold. "You. How many floors of this tower have your kin occupied so far?"
+
+The kobold held my gaze defiantly. "Five. This one, three above, one below."
+
+I nodded. "You may stay on those floors. If you need help, you can come to me. If you are attacked here, I will protect you. Others might come here to seek me. They are friends, too. There will be times when I could use your help. You are not required to assist me. But rest assured, should I fall, another will claim my place. It may still be in your best interest to invest in our cooperation."
+
+I returned to the four mall kobolds who'd waited and observed my speech with great skepticism. I stood next to them but turned to address the tower kobolds.
+
+"In the spirit of cooperation, I advise you to send two delegates with this group. To negotiate peace and a potential alliance with the mall kobolds."
+
+It was like I had addressed a class of teenagers and asked for a volunteer. Everyone tried to look very busy while not looking at me.
+
+I pointed out the kobold who'd tapped my shoulder earlier to inform me that Mammon was actually dead. Then I pointed at the female one who'd just defiantly locked eyes with me.
+
+"How about you two?" I asked.
+
+Both stepped forward, though the female one remained skeptical. "And if I refuse?" she asked. "Will you kill me?"
+
+I sighed. "No. As I said. You are not my subordinates. Do whatever you want. But someone smart, who is willing to ask those questions, should probably go and talk to the Chosen at the mall. So your single negotiator," I nodded to the other one, "doesn't get screwed over. The Chosen are shrewd."
+
+She rolled her eyes at me. "Fine. I'll do it."
+
+"Thank you."
+
+I once more addressed the crowd. "That is all. If you need something, talk to me. I will not punish you for talking. Only for hurting friends. And some of you should go and share what I told you with those on the other floors. Who may or may not be preparing ambushes on the newcomer right now."
+
+It took a while for them to overcome the daze of a half-dragon who didn't want to subjugate them, but eventually the crowd dispersed. I turned to Zi'rah.
+
+"Do you feel capable of making the trip on your own?"
+
+Zi'rah nodded but hadn't fully bought my story yet. "Who are you? Why did you free us? Why are you doing—" she gestured around the room "—this?"
+
+I held out a hand. "I'm Eve. Your parents thought you were dead. I came here at their behest to stop the conflict between your people and the kobolds here. In return, they promised an alliance."
+
+"So you want to ally with both sides? With those here and with mine?"
+
+"No. I want to erase the sides."
+
+Zi'rah shook her head but signaled to the others that they were leaving. The two I had designated as liaisons joined them.
+
+"Consider your end of the bargain complete," Lucy said. "For the attunement, I'd recommend we wait until tonight. You are too wound up right now."
+
+There were so many questions. I settled on just the one. "What did you say to that demon? That word that stunned her?"
+
+"Oh, I just invoked my father's name. His true name. Demons have sworn fealty on it, and it makes for a good distraction."
+
+"You… you nepo-babied your father's name as a distraction in combat?"
+
+"I told you your plan was too risky and that I would assist. And I did. If that means reminding the rabble that they work for the one who created me, so be it."
+
+I smiled. "Fair enough."
+
+Helene came up to my side. "Are you not going to go with them? You completed their quest, why not gather the reward?"
+
+"No, I am not going to. Not now. I made a promise to you today, and this distraction has taken up too much of our time already. I need exactly ten minutes of doing absolutely fuck all, and then I'd say we go out there and find Created to slaughter en masse. Ideally with less cute faces than the kobolds have."
+
+Helene paused for a moment. "Would you have gone through all this trouble if the kobolds had ugly faces?"
+
+"Honestly? No idea. I want to say yes, but I'm also a sucker for a cute face. Wanna go and lie on the roof for ten minutes? It doesn't count as part of the tower."
+
+"Sure."
+
+We walked up to one of the remaining elevators, where her dogs joined us. The buff had run out, and Ysengrim and Tibert were panting with exhaustion. Their life force was notably weaker than Reynard's. "Do you ever leash them? Just so they don't accidentally run off the roof?"
+
+"Don't worry about them. They will behave."
+
+All five of us piled into the elevator and rode all the way to the top. Just ten minutes of doing absolutely nothing.
+
+This day was shaping up to be one of the days of all time. Just eight hours ago Roslyn had woken me up and told me Jason was missing. The search, the discovery, the fight with Claire, the Wyrm's arrival. Roslyn's reaction when she learned the truth. The talk with Jamie. Everything around the kobolds. The violation to my own fucking soul.
+
+And it was just 2pm. Plenty of time to grind for experience.

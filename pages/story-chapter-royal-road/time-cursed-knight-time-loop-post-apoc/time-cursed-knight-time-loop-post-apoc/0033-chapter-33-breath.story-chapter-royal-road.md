@@ -1,0 +1,617 @@
+---
+id: 92361220-b46d-5f8b-941a-b46326e63ed9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 33: Breath"
+slug: 0033-chapter-33-breath
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 33
+ownLength: 3325
+unit: words
+publishedAt: 2026-04-30
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3337901/chapter-33-breath"
+royalRoadId: "3337901"
+---
+
+I woke with my fists clenched.
+
+The rage hadn't faded.
+
+It sat in my chest like a coal that refused to cool. The spears were gone. The sand was gone. The monks and their quills and their clinical voices were gone.
+
+Yet the fury remained.
+
+I wanted to scream.
+
+I wanted to slam my fists against the stone until the skin split and the bones cracked.
+
+I didn't.
+
+Because Gerret was sleeping three paces to my left. Marcus lay on his pallet near the door, one arm draped across his stomach. Lyra...
+
+Lyra was above me.
+
+She'd claimed the upper shelf of the cell's corner, a narrow stone ledge barely wide enough for her frame, tucked against the ceiling. Her wings folded around her like a blanket. From below, she was almost invisible.
+
+I held my breath.
+
+I held it so completely that my chest ached and my vision swam, and in the vacuum of silence that followed, I heard it.
+
+A whisper.
+
+So faint it was barely more than the movement of lips shaping air into sound. A murmur that lived at the edge of audibility.
+
+Lyra was talking.
+
+Her voice trembled. Each word came out as someone trying hard not to cry.
+
+I couldn't make out the words at first. They blurred together, a stream of whispered syllables.
+
+A prayer.
+
+Or something close to it.
+
+I stopped trying to hear and simply listened.
+
+"…and Maren. Please let Maren be eating. She forgets to eat when she's scared. She gets so thin. Please let someone remind her."
+
+A breath.
+
+"And Torben. He tries to be brave. He's only seven. He shouldn't have to be brave. Please let him be a child. Just a little longer."
+
+Another breath.
+
+"And Ilse. She cries at night. She always cried at night. Please let someone hold her when she cries."
+
+The names came one after another. A litany of people she had been taken from, each one receiving their own whispered plea.
+
+"And Mother. She works too hard. Please let her rest. Please let there be enough coin this month that she doesn't have to take the night shift."
+
+A pause longer than the others.
+
+"And Father."
+
+The whisper cracked.
+
+"Please let him forgive himself. For letting them take me. He couldn't have stopped it. I know that. Please let him know that."
+
+Silence.
+
+I could hear her breathing. Quick and shallow and fighting against the tears that were winning.
+
+"Please give me strength to live one more day."
+
+A final pause.
+
+"Thank you for letting me survive yesterday."
+
+The last words were barely audible. Addressed to whoever or whatever a girl with wings prayed to in the dark of a cell.
+
+The whisper dissolved into the silence of the cell.
+
+I lay on the cold stone with my jaw locked shut and my eyes burning.
+
+I didn't move. Didn't make a sound.
+
+I just listened to the quiet that followed and let the prayer settle.
+
+The rage in my chest shifted. It didn't diminish. It changed shape.
+
+The blind, screaming fury that wanted to break things compressed itself into something denser.
+
+I wondered if Marcus and Gerret were awake.
+
+If they lay in the dark the way I did, pretending to sleep, listening to a sixteen-year-old girl bargain with heaven for one more sunrise.
+
+I didn't ask.
+
+Some things are heard in private even when the walls are shared.
+
+The watch pulsed against my chest.
+
+The same gentle vibration that meant the system had something to say.
+
+I reached into my inner pocket with movements so slow and controlled that the rustling of my robe was barely louder than my breathing. My fingers found the gold casing. Pressed the clasp.
+
+The cover sprang open.
+
+The translucent screen materialized, runes crawling along its border.
+
+My skills appeared first.
+
+⌜ Battle Skills ⌝
+
+Amateur Swordsmanship → Level 4
+
+Fear Resistance → Level 2
+
+Toxicity Resistance → Level 0
+
+⌜ Class Skills ⌝
+
+Reading → Level 1
+
+Deception → Level 0
+
+Animal Husbandry → Level 0
+
+I stared at the list.
+
+Everything I'd earned through death and repetition and the slow, grinding accumulation of experience.
+
+It wasn't much.
+
+It wasn't nearly enough.
+
+To make things worse, I had hit a wall.
+
+Even though I had trained with the Knights, all I had really managed to do was strengthen my body. I had learned a few of their techniques, but the system didn’t seem to acknowledge any of it.
+
+⌜ Through sustained physical exertion beyond your body's tolerance, you have learned to manage the most fundamental resource available to you. ⌝
+
+⌜ New Skill Obtained ⌝
+
+⌜ Breath → Level 0 ⌝
+
+⌜ You pushed your lungs past breaking. They didn't break. You adapted. ⌝
+
+Breath.
+
+Not stamina or endurance. Breath.
+
+The simplest thing a living body did.
+
+⌜ Skill Evolution ⌝
+
+⌜ Through exposure to martial discipline, your understanding of the sword has been fundamentally restructured. The foundations you built through repetition and survival have been replaced by foundations built through instruction and comprehension. ⌝
+
+⌜ Amateur Swordsmanship → Level 4 has evolved ⌝
+
+⌜ Novice Swordsmanship → Level 0 obtained⌝
+
+I blinked.
+
+Read it again.
+
+Level 4 to Level 0.
+
+The number had gone down.
+
+For a disorienting moment, I thought it was a punishment. A regression. The system stripping away progress I'd earned through blood.
+
+Then the meaning clicked.
+
+Amateur to Novice.
+
+The tier had changed.
+
+Amateur Swordsmanship was what the system called flailing with a blade until something worked. Level 4 within that tier had been the ceiling of what survival alone could teach me.
+
+Novice Swordsmanship was something else.
+
+It was what happened when a man who'd been swinging a sword in the dark was shown what the sword was actually for.
+
+Level 0 in Novice seemed a higher place than Level 4 in Amateur.
+
+I could feel the difference. In my understanding.
+
+When I closed my eyes and imagined holding a sword, the image was different. The grip sat lower. The edge alignment was conscious. The footwork existed as a map rather than a scramble.
+
+Level 0 meant the knowledge was there but the execution wasn't. I knew what to do. My body couldn't do it consistently. The gap between understanding and ability was wider than it had ever been.
+
+But I could see across it.
+
+One more notification lingered on the screen.
+
+⌜ Your connection with death continues to grow. ⌝
+
+No flavor text or explanation. Just a statement.
+
+Cold and bare and ominous in a way that made the skin on the back of my neck prickle.
+
+I stared at it.
+
+Connection with death.
+
+What did that mean? Was the curse deepening? Was something inside me changing with each reset, each time my consciousness was ripped from a dying body and hurled backward through time?
+
+The notification offered no answers.
+
+I closed the watch.
+
+The blue-white light vanished.
+
+I lay still and stared at the ceiling.
+
+Novice Swordsmanship — Level 0.
+
+Breath — Level 0.
+
+Two new tools.
+
+Would they be enough?
+
+"Up! On your feet! Move!"
+
+The same choreography as the past loop.
+
+Marcus was first to the door. Gerret second, one hand pressed against his chest wound, ears pinned flat. Lyra third, her limp dragging her left leg.
+
+I was already standing.
+
+The soldiers herded us through the corridors. Up the stairs. Past the stone passages.
+
+The gate rose.
+
+The arena swallowed us.
+
+Same monks in the lower tiers. Same nobles in the upper seats.
+
+The princes kept talking between themselves.
+
+The opposing gate opened. Four figures emerged.
+
+The scaled woman. The flat-faced mutant. And the human swordsman who fought me.
+
+Same opponents.
+
+Same weapons scattered across the sand.
+
+"Training session! Begin!"
+
+The whistle shrieked.
+
+I exploded off the mark.
+
+My plan was simple and brutal. Finish my fight fast. Then help the others. Every second I spent locked in a drawn-out exchange with the Imperial Style practitioner was a second where Gerret or Lyra or Marcus was taking damage they couldn't afford.
+
+I had to be aggressive.
+
+My hand snatched a wooden sword from the sand mid-stride without breaking pace. I crossed the midline at a dead sprint, feet churning through the grit, closing the gap before my opponent had finished selecting his weapon.
+
+He saw me coming.
+
+His eyes widened. The wooden sword rose to guard position, but his feet were still shuffling into stance.
+
+I hit him like a battering ram.
+
+My opening combination was nothing like what I'd thrown in the previous loop. It was cleaner. Tighter. The Novice foundation changed everything about the first three strikes. The angles were correct. The edge alignment held. My hips drove the rotation instead of my shoulders.
+
+Diagonal slash. Horizontal follow-up. Rising cut aimed at his weapon hand.
+
+He blocked all three.
+
+But he gave ground. Two steps. Three. His eyes were different now.
+
+It had some surprise, some respect.
+
+I pressed. Another combination. Thrust, feint, thrust from a different angle. The feint was crude, too obvious, but it forced a reaction. His blade moved to cover the first line, and by the time he recognized the misdirection, the second thrust was already driving toward his ribs.
+
+It connected.
+
+Solid hit. Right side, between the fourth and fifth ribs. The blunted wood couldn't cut, but it could bruise, and the force behind it was real.
+
+He grunted. Stepped back.
+
+But I could feel the limitation.
+
+The Novice Swordsmanship gave me vision. Gave me understanding. I could see the openings. I could identify the patterns. I could read the flow of the fight.
+
+My body couldn't keep up.
+
+The knowledge was Level 0. The execution was Level 0.
+
+My timing was off by fractions. My footwork was a half-step behind where it needed to be.
+
+He adapted.
+
+The Imperial Style was flexible. He stopped retreating. Started deflecting my aggression sideways, letting my momentum carry me past him, then punishing with precise counters that I could see coming but couldn't avoid.
+
+A strike to my forearm. A rap across my knuckles that nearly opened my grip. A vicious horizontal that caught me across the back of the thigh and buckled my leg.
+
+Minutes bled away.
+
+The Breath skill helped. Even way past the five minutes barrier, I could keep fighting. The air came harder, yes. Each inhale burned. Each exhale carried the taste of copper.
+
+But I kept fighting.
+
+Still fighting.
+
+Still losing, but slowly.
+
+From the tiers above, the monks noticed.
+
+"The black-haired one... He wasn't that good yesterday. His approach has shifted."
+
+"The fundamentals are present but unrefined."
+
+"He's receiving instruction somewhere. This isn't self-taught."
+
+The attention was flattering, but I couldn't afford to think about.
+
+Because across the arena, Lyra was screaming.
+
+The sound cut through my concentration.
+
+My eyes snapped right.
+
+The scaled woman had Lyra pinned against the arena wall. One clawed hand held the girl's spear arm. The other was raking downward along her left wing, tearing through feathers and membrane with a slow, deliberate cruelty that had nothing to do with combat.
+
+Feathers scattered into the air. Blood ran down the dark plumage.
+
+My opponent's blade caught me across the jaw.
+
+Stars exploded. My head snapped sideways. The blow staggered me three steps before I found my footing.
+
+When my vision cleared, I looked at Lyra again.
+
+And then at Gerret.
+
+He looked at me, as if asking for help.
+
+But it was too late.
+
+A scream caught in my throat.
+
+A spear was buried in his chest.
+
+The sound that tore from my throat wasn't words.
+
+The crimson haze descended.
+
+My vision narrowed until the world was a tunnel of red. The wooden sword in my hands became weightless. My body stopped hurting. The fatigue vanished. Everything vanished except the burning, incandescent need to reach them.
+
+I abandoned my opponent.
+
+Turned my back on him and ran.
+
+Across the sand. Toward Gerret's body.
+
+The wooden sword connected with the man's skull at the base of his ear.
+
+I hit him with everything the rage could muster. The tip of the sword exploded into a thousand fragments. The man never saw what hit him, simply collapsing to the ground.
+
+Still, I didn't stop.
+
+The broken sword's remains hammered into his jaw. His ribs. His throat. Each strike carried the full weight of my body.
+
+When I stood up, there was no longer a human. Only a pool of blood and scattered fragments.
+
+The scaled woman had released Lyra. She was coming toward me now, the girl with the torn wing forgotten behind her.
+
+I raised my fists.
+
+No sword. No weapon. Just knuckles and the fury that wouldn't let me fall.
+
+The scaled woman hit me first. A backhand that felt like being struck with a piece of masonry. My jaw unhinged. The world tilted. Blood filled my mouth.
+
+The swordsman hit me second. My voice cracked and dissolved into a choking, breathless howl.
+
+The third blow put me down.
+
+The fourth kept me there.
+
+The whistle came, but it didn't stop me.
+
+⌜ Restarting Day ⌝
+
+I woke with Lyra’s prayer still echoing in my ears.
+
+That was the only thing that kept me from screaming, the prayer, and the pain that felt as if it were trying to tear my soul out of my body.
+
+Please give me strength to live one more day.
+
+She prayed while I agonized.
+
+Maybe the only blessing in this hell was being able to hear her.
+
+I lay in the dark and listened as she whispered the same names to the same ceiling.
+
+Maren. Torben. Ilse.
+
+When the soldiers came, I stood.
+
+When the gate rose, I walked through.
+
+The next loop, I tried a different approach.
+
+Speed over aggression. If I couldn't overpower my opponent, maybe I could outmaneuver him.
+
+Minimal commitment. Strike and withdraw.
+
+I lasted longer.
+
+But longer wasn't fast enough.
+
+Fourteen minutes into the fight, Gerret went down.
+
+Sixteen minutes, Lyra.
+
+I charged across the arena. Again. Same red haze. Same broken sword.
+
+Same result.
+
+⌜ Restarting Day ⌝
+
+The third loop, I tried focusing on defense until my opponent tired.
+
+He didn't tire.
+
+At minute twenty, my arms stopped responding.
+
+The wooden blade slipped from numb fingers.
+
+He put me down with a thrust to the solar plexus.
+
+When I looked up from the sand, both Gerret and Lyra were already motionless.
+
+I screamed into the grit.
+
+⌜ Restarting Day ⌝
+
+The fourth loop. The fifth. The sixth.
+
+Each time, I woke to Lyra’s prayer.
+
+Each time, it hurt more. It hurt so much that, for a few seconds, I wanted it to end—except that thought only made the pain worse.
+
+Each time, I listened as she whispered her siblings’ names into the dark.
+
+Each time, I walked out onto the sand, tried something different, and failed.
+
+Again.
+
+And again.
+
+And again.
+
+The deaths stopped blurring together.
+
+Pain and fear controlled me.
+
+I was afraid to die because of the pain that would come the next day. And yet, the moment I heard the girl praying, that same pain became the fire that pushed me into another day.
+
+With gritted teeth and trembling hands, I clung to her prayer like an unshakable faith that I would find a way through.
+
+Every death was different. Every death was the same.
+
+I couldn't save them.
+
+By the twentieth loop, I tried dual wielding.
+
+The logic seemed sound. Two swords. Twice the offense. Twice the defense. If one blade couldn't finish the fight fast enough, maybe two could create the pressure needed to overwhelm the Imperial Style before Gerret and Lyra ran out of time.
+
+I grabbed two wooden swords from the sand and charged.
+
+The result was a disaster.
+
+Two weapons meant two things to track. Two edges to align. Two grips to maintain. My Novice Swordsmanship almost couldn't keep one single blade. Every drill, every pattern, every correction Ghost and Brandt had burned into me over twenty days assumed one weapon occupying one hand.
+
+The second sword turned me into a worse fighter, not a better one.
+
+My left hand had no idea what to do. It swung too wide. It crossed into the right hand's arc. It fouled my own parries and created openings that my opponent exploited with punishing efficiency.
+
+I lasted eight minutes before the Imperial Style took me apart.
+
+⌜ Restarting Day ⌝
+
+I tried it again. Adjusted. Held the left sword back as a pure defensive tool, a shield-substitute.
+
+Worse. The split attention halved my effectiveness on both sides.
+
+Again.
+
+Again.
+
+Thirty loops with two swords.
+
+Each one confirmed the same truth.
+
+I dropped the second blade on the fifty-seventh attempt and never picked one up again.
+
+⌜ Restarting Day ⌝
+
+The loops compounded.
+
+Fifty. Sixty. Seventy.
+
+The pain was no longer momentary. It was constant.
+
+I woke in pain. Slept in pain. Lived in pain. Fought in pain.
+
+And yet, the pain did not overwhelm me. Maybe my will was stronger.
+
+Or maybe I had help.
+
+Gluttony.
+
+Its hunger was not only for mana, learning, or blood.
+
+It seemed to delight in my torture, devouring it as part of its endless feast.
+
+I lost exact count somewhere around the ninetieth death.
+
+Each morning, Lyra prayed. Each morning, I listened. Each morning, I walked onto the sand and fought with everything I had and watched them die.
+
+My Novice Swordsmanship climbed. I could feel it. The footwork sharpened. The combinations smoothed. Transitions that had stuttered in the early loops began to flow. The gap between understanding and execution narrowed by fractions.
+
+Still, I couldn't finish him.
+
+Not fast enough. Never fast enough.
+
+The swordsman was too good. The scaled woman was too fast. Gerret and Lyra were too wounded.
+
+I had tried everything.
+
+Different targets. Different timing. Opening the fight with a charge at the scaled woman instead of the swordsman.
+
+Nothing worked.
+
+Every variation I tried produced a different arrangement of the same outcome.
+
+What if you can't save them?
+
+What if the only way past this day is to stop trying?
+
+The thought tasted like poison.
+
+I rejected it.
+
+I kept fighting. Kept dying. Kept waking to Lyra's whispered names and the warmth of a grimoire against my chest and the cold knowledge that everything I did today would be erased tomorrow.
+
+Five more loops.
+
+Ten more.
+
+None of it was enough.
+
+I woke.
+
+I didn't know what number this was.
+
+I lay still.
+
+I didn't plan. I didn't strategize. I didn't run through the fight in my head, searching for the variable I hadn't adjusted, the angle I hadn't tried, the miracle I hadn't found.
+
+I was empty.
+
+Lyra was praying.
+
+The same whisper. The same names.
+
+Maren. Torben. Ilse.
+
+Please give me strength to live one more day.
+
+I closed my eyes and prayed. For the first time.
+
+Please give me strength to live one more day.
+
+The warmth spread through my inner pocket, demanding attention.
+
+The clasp opened.
+
+⌜ Sin of Gluttony — Satiation Response ⌝
+
+⌜ Blood. Blood. Blood. ⌝
+
+⌜ After feeling blood flow freely through your lungs, unrestricted, unfettered — ⌝
+
+⌜ You have begun to sense mana passing through your body. It enters in trace quantities, seeping into the tissue of your lungs like moisture into dry earth. ⌝
+
+My breath stopped.
+
+⌜ The Sin of Gluttony stirs. It wants to devour this mana. It reaches. It grasps. ⌝
+
+⌜ But the quantities are so small, so faint, so threadlike, that Gluttony cannot find them. ⌝
+
+⌜ The mana slips through its fingers like smoke through a fist. ⌝
+
+My hands trembled around the watch.
+
+⌜ Skill Evolution ⌝
+
+⌜ Breath has evolved ⌝
+
+⌜ Mana Breath → Level 0 ⌝
+
+⌜ Your lungs have learned to taste what your cores have always hoarded. The air you breathe carries traces of what the world is made of. Gluttony is always hungry. Yet, you are faster than its teeth. ⌝

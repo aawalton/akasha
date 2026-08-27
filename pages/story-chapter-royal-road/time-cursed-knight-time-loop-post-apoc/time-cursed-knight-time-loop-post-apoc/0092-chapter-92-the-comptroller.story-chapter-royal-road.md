@@ -1,0 +1,221 @@
+---
+id: 3c031845-5b5f-5c67-9d80-2345b2e3937f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 92: The Comptroller"
+slug: 0092-chapter-92-the-comptroller
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 92
+ownLength: 2891
+unit: words
+publishedAt: 2026-07-22
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3711993/chapter-92-the-comptroller"
+royalRoadId: "3711993"
+---
+
+The papers came at dawn.
+
+Eren ran out to fetch them before the ink-boys had finished their first circuit, and he came back through the workshop door with his arms so full he could barely see over the top of the stack, spectacles fogged from the run, breathless and grinning.
+
+I spread them across Asena's main bench and went down the line.
+
+They had all run the interview. To end the war sat above the fold of the Gazette, big black type, exactly the headline I'd handed them. The Morning Bell led with my face, the white hair, the borrowed shirt, a sketch that made me look more like a saint than I'd managed in person. Konrad von Ries had filed something cleverer than the rest, a long column in The Imperial Chronicle under three words — PAWN OR KING? — that asked the city to decide what I was before the city had decided whether it liked me.
+
+Under the headlines, in column after column, in paper after paper, was the part that mattered. The trade sheets had given it their front page outright. A COOL ROOM IN A SILBERWALD SUMMER. The Capital Register, which on any ordinary day would rather print grain futures than poetry, had devoted half a page to a thing it called, with no small wonder, the Magi-Cooling. Three months on a single Grade B crystal. A device, one breathless correspondent wrote, that turned the cruelest season in the capital into an afternoon by the bay.
+
+"They wrote about it," Asena said. She had a paper in each hand and didn't seem to know which to read. "Kaspar. They all wrote about it."
+
+"I know."
+
+"No." She set them down and looked at me, and fear sat under the joy. "You don't. Do you have any idea what happens now?"
+
+I had an idea.
+
+I did not have the full size of it.
+
+The first orders came that afternoon.
+
+A footman appeared at the workshop door, a sealed letter in his gloved hand and an expression that suggested he had never in his career been dispatched to a commercial quarter address. Behind him, a carriage with a crest on the door sat idling at the curb.
+
+Asena opened the letter, read it, and looked up at me.
+
+"Baroness Kühler," she said. "Four rooms. She wants it before the end of the week."
+
+"Can we do it?"
+
+"Four rooms?" Asena turned the letter over, as though the back might contain additional instructions or, possibly, a miracle. "Yes. If I don't sleep."
+
+The second order arrived before the first footman's carriage had cleared the street. The third came by comm-crystal. The fourth was hand-delivered by a woman who said she represented three houses and would pay triple for priority installation.
+
+By nightfall there were eleven.
+
+Rolf stood in the center of the workshop with his chalk-dusted sleeves rolled past his elbows and a look on his face that I had never seen before. It took me a moment to recognize it as happiness.
+
+"Eleven," he said. "In one day."
+
+"In half a day," Asena corrected. She was already at the bench, her soldering tool throwing blue sparks across a fresh casing. "We didn't start getting letters until after lunch."
+
+Eren sat cross-legged on the floor with a stack of copper coils in his lap, winding them to spec. His spectacles had slipped to the tip of his nose.
+
+I put a hand on his shoulder as I passed.
+
+"Keep winding," I said. "We're going to need every one of those."
+
+The week that followed buried us.
+
+Orders did not arrive. Orders poured. They came by letter, by crystal, by personal visit. Footmen queued in the lane outside the workshop like supplicants at a shrine, each one bearing a sealed envelope with a noble crest and an amount of gold that would have made the old Kaspar weep.
+
+I had calculated demand. I had planned for it. But calculation and reality rarely match.
+
+The issue was not the device itself. Rolf had the design locked. The glyph architecture was stable. The crystal interface was clean. Each unit took roughly six hours of skilled bench work to assemble from raw materials, plus another two for the casing and another two for quality testing. Ten hours per unit, four of us working.
+
+Four of us. Ten hours. And a queue that, by the end of the first week, had stretched past forty commissions.
+
+We were selling what I'd privately started calling the premium package — full-room installation for noble estates and wealthy merchant houses. Custom casing to match the client's interior. Personalized crystal calibration. A consultation visit from Asena, who had the engineering fluency to explain the recursive glyph loop to a duchess over tea without once making the duchess feel stupid, which was a talent worth more than any of the gold now piling in our account at Kessler & Braun.
+
+The premium package was beautiful. The premium package was also, at ten hours per unit, a chain around our ankles.
+
+We pulled nights. All four of us.
+
+Rolf slept in the workshop. He'd brought a bedroll from his dormitory and laid it behind the grinding bench, and I would find him there at dawn with copper dust in his eyebrows and a half-finished casing cradled against his chest like a child. He never complained. I don't think it occurred to him to complain. He'd spent four years at the Academy being ignored, and now the world was buying the thing he'd built. Exhaustion was a small price.
+
+Asena ran the installations. She and Eren would leave before sunrise with a loaded handcart, cross the city to whatever estates had risen to the top of the queue, and spend the day mounting, calibrating, talking the staff through maintenance.
+
+I did the simplest work. The parts that required no engineering knowledge. Sanding casings smooth. Fitting crystal housings. Tightening bolts. Wrapping completed units in cloth for transport. A child could have done it.
+
+The grimoire didn't care about that.
+
+It came three days into the first week, while I was sanding a casing edge. I almost laughed. Gluttony had consumed the gap between ignorance and understanding yet again, and what it had found to consume was so thin, so trivial, that the skill it produced was barely worth the notification.
+
+That one came at the end of the second week, and the difference showed up in my hands. The edges came cleaner. The bolt threads seated on the first turn instead of the third. My fingers found the crystal housing's alignment groove without looking.
+
+It was nothing. In a room with Rolf's engineering and Asena's decades of workshop mastery, my contribution was the equivalent of a man carrying water to a team of architects.
+
+We hit the wall at the end of the first month.
+
+Asena called me down to the bench at midnight. Rolf was there, slumped against the wall with a cup of something gone cold in his hand. Eren was asleep upstairs.
+
+The queue board hung on the workshop wall — a slab of slate that Asena had repurposed from a display stand, now covered edge to edge in chalk. Names. Addresses. Dates. Payment notes. Arrows connecting rush orders to delivery windows that had already passed.
+
+There was no space left on the slate.
+
+"Forty-seven outstanding commissions," Asena said. She had a rag in her hand and she kept folding it and unfolding it. "Current production rate: two point five units per day if we maintain this pace, which we can't, because Rolf hasn't slept more than four hours in any night this week and I'm starting to make errors I shouldn't be making."
+
+"How long to clear the queue at current rate?" I asked.
+
+"Nineteen days. If nothing else comes in." She looked at me. "Something else will come in. We've had to stop answering the door."
+
+Rolf stirred against the wall. "We could hire hands. I could train someone on the assembly in a week, maybe less."
+
+"We could," Asena said. "And we will. But that's not the problem." She set the rag down and put both palms flat on the bench. "Forty-seven noble households. That's forty-seven rooms made comfortable. There are three hundred thousand people in this capital, Kaspar. We haven't touched a fraction of a fraction of the market, and we can't, because we don't have time."
+
+She was right.
+
+I'd watched the problem grow for two weeks and let it grow, because the premium sales built the treasury and the treasury built what came next, and what came next required a particular kind of person.
+
+"I know," I said.
+
+"You know?" The rag came back up. Folding, unfolding. "Then what are we doing? We can't keep this pace. Another month of this and Rolf collapses." She stopped folding. "We need help, Kaspar. Not an extra pair of hands on the bench. We need someone who can turn this from a workshop into a — I don't even know what to call it. An operation. Something with structure."
+
+"I have someone in mind," I said.
+
+Asena waited.
+
+"He only arrived back in Silberwald last week. Give me until tomorrow afternoon."
+
+"Tomorrow." She searched my face. "You've been planning this."
+
+"Since before the press conference."
+
+She exhaled through her nose.
+
+"Tomorrow, then," she said. "But if you come back empty-handed, we're closing the queue. I mean it, Kaspar. I'll turn away a duke if I have to."
+
+I took a carriage from a more central stretch of the city, one of the wooden mana-powered kind that ran the long climb up toward the noble quarter. I sat with my hands loose in my lap and watched the streets widen and the air thin, watched the crowds give way to walled estates and sunlit terraces.
+
+I had one thing fixed in my mind, and it was simple.
+
+I need my third piece.
+
+Rolf and Asena were good pieces. Valuable pieces. One of them could build a miracle out of copper and glyph-work, and the other could turn that miracle into a thing a duchess paid gold to own. Between them the workshop hummed.
+
+But a workshop was not what I was building, and a workshop could not become what I was building without a particular kind of person at the center of it. Someone who could move money. Someone who could hold a thing the size of what I intended in their head and not flinch at the weight of it.
+
+The best person alive for that work was Sera von Dravenmoor.
+
+And she'd sooner pour the treasury into the harbor than join me.
+
+She would never sit across a table from me. And even if she did, even if some impossible circumstance forced her hand, I couldn't trust her.
+
+But the best person was not the only person.
+
+There was a second name. The man who carried it would, I was nearly certain, share my distaste for the first one.
+
+The carriage stopped before an enormous mansion set back from the avenue behind iron gates and a run of clipped hedges gone slightly ragged at the edges, the way hedges go when the hands that keep them have been let go one by one. A servant met me at the door, took my name, and told me in the careful murmur of a household trained to discretion that the lord would be with me shortly.
+
+The best person was the one Sera had replaced.
+
+The man who had run the Empire's coin before she took the chair out from under him. The former Imperial Comptroller of the Royal Finances.
+
+The study was small. That told me something before its owner ever walked through the door. A man who once held the purse of an empire, living in a house this size, receiving guests in a room you could cross in five strides. The grand rooms cost money to keep warm and staffed. This one didn't.
+
+I waited.
+
+The doors opened, and Lord Augustin von Reichenbach came in looking like a man who had not slept well in a long while.
+
+He was younger than I'd expected. Early thirties, no more. But the years he did have sat heavily. There was gray coming in at the temples ahead of its time, and the skin beneath his eyes had the bruised, papery look of a man who'd spent too many nights doing arithmetic he could not make balance. The coat was good. Expensive, well cut. A season or two out of fashion.
+
+He crossed to me anyway and put out his hand, and the handshake was firm, the manners intact. Whatever had been broken in him, it hadn't reached the breeding.
+
+"The Hero of Grenzheim." He said it without warmth and without mockery, which I appreciated. "Forgive me if I'm slow to understand what brings a war hero to my door. I follow the papers. I confess I don't see where our paths would cross."
+
+"I'm looking for a partner," I said.
+
+His eyebrows lifted a fraction.
+
+"Someone to help me with what I'm building," I went on. "And I asked myself who in this city best understands what it takes to manage an empire." I let that sit. "There aren't many names on that list, my lord. Yours is near the top of it."
+
+He smiled then, and the smile was tired and a little kind, the smile of a man preparing to let someone down gently.
+
+"I'm retired," Augustin said. "Whatever you're building, I'm sure it's admirable. But I've managed enough for one life."
+
+He didn't say the rest. He was too polite for it. But I heard it under the words, clear as if he'd spoken it aloud — there is no empire in your hands, boy, nothing for a man like me to involve himself with.
+
+"In a month," I said, "I'm going to launch the largest industry Silberwald has ever seen."
+
+He stopped.
+
+"Larger than mage-glow. Larger than anything Cräusen pulls out of his mountains." I held his eyes. "You've read about the cooling device. You know what one room felt like. Now imagine a hundred thousand rooms. Imagine carriages. Warehouses. Field tents on the southern front. Imagine the thing every household in the Empire decides it cannot live another summer without." I shrugged, easy. "I can build it. My people can build it. What I can't do — what I need — is someone to manage the money, secure the credit, and turn a workshop into something that reaches every corner of the Empire."
+
+Augustin came back two steps. The tiredness hadn't left his face, but the old comptroller behind the tired face had woken up.
+
+"Why?" he asked.
+
+"My lord?"
+
+"A young man with your name and your fame could buy a salon's worth of friends and never lift a finger again." He studied me. "Why this? Why an industry, why credit and expansion and a hundred thousand rooms? What do you actually want?"
+
+"It's obvious," I said. "To win the war."
+
+He went quiet.
+
+I didn't let the quiet hold. "I don't believe peace comes from waiting," I said. "Prince Kasimir wants to bleed slowly and call it patience. Princess Elara wants to sit down across a table from things that crawled out of dying worlds and ask them, very politely, to share. Neither of those is a plan. Neither of those is going to save a single human life ten years from now." I leaned forward. "If humanity is going to survive, humanity has to get on the front foot. Getting on the front foot costs resources. People. Weapons. None of which we have enough of, and all of which begin as the same thing. Coin."
+
+"You're talking about provisioning an army."
+
+"I'm talking about provisioning a species." I let the word land. "The work I'm offering you isn't managing a house, or a company, or even an empire. It's bigger than that. I'm going to build the resources that let humanity survive. Someone is going to have to manage them." I held his gaze. "Someone is going to have to help me manage the treasury of a species."
+
+He stared at me.
+
+I reached into my coat and laid the documents on the small desk between us, one folio at a time. The accounts at Kessler & Braun. The order ledger, forty-seven commissions deep and climbing. The production figures. The bottlenecks. The cost projections. The whole shape of the thing, the gold and the orders and the walls I was already running into.
+
+I didn't hide the problems. I put them face-up beside the promises. A man like Augustin would smell a polished pitch from across a room, and a polished pitch would have lost him. So I gave him the rot along with the harvest.
+
+I put out my hand.
+
+"The invitation stands until the end of the week," I said. "Think on it as long as you like, up to then."
+
+He looked at my hand, and at the papers, and at me. He didn't take it yet. That was fine. I hadn't expected him to.
+
+But I'd seen the arithmetic wake up behind his face — the look of a man told he was finished, handed a reason to disagree.
+
+Augustin didn't use the week.

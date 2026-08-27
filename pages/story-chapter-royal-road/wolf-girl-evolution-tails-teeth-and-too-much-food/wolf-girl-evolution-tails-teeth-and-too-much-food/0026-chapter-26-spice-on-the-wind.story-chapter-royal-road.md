@@ -1,0 +1,307 @@
+---
+id: 52159bc4-f489-55ee-b3a5-f47397b4cb26
+page-type-slug: story-chapter-royal-road
+title: "Chapter 26: Spice on the Wind"
+slug: 0026-chapter-26-spice-on-the-wind
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 26
+ownLength: 1519
+unit: words
+publishedAt: 2025-09-13
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2598084/chapter-26-spice-on-the-wind"
+royalRoadId: "2598084"
+---
+
+PoV Luna:
+
+Luna marched forward in her new still-sorta-kinda-stumbly form through tangled undergrowth, feet light, and tongue lolling slightly in focus.
+
+It wasn’t time for prey-sniffing.
+
+This was spice-hunting!
+
+So she got to sniffing out whatever she could, just to find the one that would really get her tail wagging. It only took a little bit of time…
+
+But the scent she could taste on the wind? It was glorious!
+
+Smoky. Oily. Tangy. With hints of burned meat and reckless hope.
+
+Very wag!
+
+Her ears twitched. Her stomach growled in eager confirmation. Her tail wagged at the mere thought of chewing into the heavenly goodies already.
+
+“Spice,” she breathed.
+
+The word melted on her tongue.
+
+She padded faster, dodging root and fern. Sniff-sniff – step. Sniff – pause. Head tilt. Wag?
+
+It danced over the wind at the promise of spice and meat!
+
+Just not the swamp-stink kind. Not frog slime or weird-moss or disappointed muddy things. This was human-food smell! Cooked on metal. Roasted into bravery. Chewed by people with taste buds and bags.
+
+And Luna!
+
+And those bags meant jerky. Jerky meant success.
+
+Her thoughts skipped ahead, picturing her glorious two-legged human-Luna self walking up to a whole squad of humans, opening her mouth, and saying: “Hello. Gib spice!”
+
+Perfect plan!
+
+Her tail wagged harder, messing with her already testy balance.
+
+But she prevailed!
+
+For a heartbeat, her thoughts tugged backward – to old fur, soft snouts, her mother’s breath in the dark.
+
+Luna didn’t let them take root.
+
+Not here.
+
+She shook her head fast, blinked twice, and veered left where the scent thinned. Her legs thumped with purpose. Her nose pulled her forward.
+
+The thought went into the deep place. The one under food and instinct. That place was full already.
+
+Besides, she had a new goal now!
+
+Spiced food. In two-leg form. Without getting sick.
+
+Luna puffed her chest out as she stepped around a rock and over a log, wobbling slightly but correcting with a smug hop.
+
+“Perfect plan,” she repeated.
+
+Even the forest seemed to agree! Leaves rustled in applause. Shadows danced in the faint moonlight…
+
+Or maybe that was a squirrel falling. She didn’t check.
+
+The scent trail was real. Not close, but not far off now either.
+
+She could already taste the promise of those amazing human-made goodies that just made her brain yell again!
+
+Her nose twitched again, and she squinted through the underbrush.
+
+A grunt echoed off to the right. Low and bored.
+
+Luna paused. Turned her head.
+
+There, half-buried in ferns, a boar snorted lazily, pretending to be important.
+
+She tilted her head.
+
+Then kept walking.
+
+“Not today, piggy. Spice importanter!”
+
+Her claws bit into the soil with new energy.
+
+Today, she hunted flavor!
+
+It wasn’t long after when Luna found them – near a bend in the road.
+
+A small camp. Low fire. Smoke curling lazy into the inklings of a morning. It sat tucked off the edge of the trail, half-hidden by a fallen tree and a mess of bags and human stuff.
+
+There were five of them. Four humans and… one weird one.
+
+She crouched low behind a bush and sniffed.
+
+The weird one made her nose wrinkle. Similar but different, neither prey, nor human. But just human-enough?
+
+“Human-not-human?” she whispered. “Weird.”
+
+Luna narrowed her eyes at the figure. It had skin, clothes, hair. Moved like prey, but stood like it thought it had bite. Weird. Annoying. But it didn’t matter!
+
+Spice was spice.
+
+And she was getting some today!
+
+Barely thinking this through, she stepped out onto the road boldly.
+
+Why hide, or crouch?
+
+She had a plan! She had a form. She was nice now! Very human!
+
+And nice meant spice would follow.
+
+Obviously!
+
+Her tail held steady. Her walk tried very hard not to wobble.
+
+The adventurers saw her right away. One quickly informing the others.
+
+Hands twitched toward weapons. But none were drawn.
+
+One – tall, serious face, with armor smelling of old leather – stepped forward with a caution-sniff in his eyes.
+
+Then he squinted at her.
+
+“A… child?”
+
+Rude!
+
+Before he could ask anything worse, Luna’s stomach introduced itself.
+
+Grruuughh.
+
+“Gib spice,” she declared. “Spiced food. Or meat!”
+
+She gave them the tail wag. The full eyes-wide, soft-paw, ears-up look. Perfected across dozens of stolen bites and guilt-based snack wins.
+
+It always worked on mom!
+
+But all she got were blank stares.
+
+Then more blank stares.
+
+One of them coughed.
+
+The weird-not-human tilted their head in that too-smooth way that made Luna’s fur bristle slightly. They didn’t smell scared. Just… observy.
+
+The leader’s eyes darted left and right, searching for things. What things? Luna didn’t know. Nor did she care!
+
+And then he crouched slightly, voice slow.
+
+“Are you… lost?”
+
+“Luna is not lost!” she snapped, tail flicking. “Luna is Luna!”
+
+That paused them for a bit.
+
+Then the questions started.
+
+Where was she from? What was she doing alone? Did she need help?
+
+Too many words. Cautious tones. Glances at the trees. Suspicion leaking out of their boots.
+
+Luna tuned most of it out.
+
+Because the spice was here!
+
+Juuuust here!
+
+She smelled it under their words. In the pan near the fire. Burned fat, cracked pepper, a touch of something sweet and wild.
+
+Her mouth watered. Her eyes narrowed toward the campfire. One of them stepped in front of her line of sight and she growled, low.
+
+Then someone said a magic word.
+
+“Trade.”
+
+Her tail wagged once.
+
+A deal?
+
+She was good at deals! Great even. The bestest!
+
+“No gib now?” she asked, tail slowing. “Must do thing? Hunt?”
+
+They didn’t answer fast enough.
+
+“Okay!” she barked. “Luna will hunt! Meat for spice!”
+
+And with that, she turned, sprinting straight into the brush.
+
+“Wait–!” one of them called, reaching out–
+
+Too slow.
+
+Luna was already gone!
+
+***
+
+PoV Adventurers:
+
+They stood in stunned silence, too long to be appropriate for veteran adventurers. But could they really be blamed?
+
+Just after something fast, loud, and confusing barreled through their world?
+
+The brush still swayed where the girl had vanished.
+
+“She just… ran off,” the youngest muttered, staring at the gap in the ferns.
+
+“The kid was fast too. Really fast,” the rogue added, adjusting his scarf.
+
+Their leader, Sepio, hadn’t moved yet.
+
+His stance remained alert, weight low, eyes sweeping the treeline. Still half-expecting this to be an ambush. Bandits, beastkin, spell traps – something. Anything.
+
+But nothing came.
+
+It really was just trees. And the plain old road. With campfire smoke curling gently into morning light behind them.
+
+And one missing child.
+
+“She didn’t sound lost,” the archer offered after a pause.
+
+Her tone was somewhere between baffled and impressed.
+
+“But what even was that?”
+
+The elf finally broke her silence.
+
+Syliana pinched the bridge of her nose, trying to ward off a future headache.
+
+“Good grief, Sepio,” she said. “You just made a kid go hunting alone in the woods.”
+
+“I didn’t make her!” Sepio straightened, bristling. “I– How was I supposed to know she would take it that literally?”
+
+“She said it. Quite clearly at that.”
+
+“I thought she was bluffing!”
+
+Syliana gave him the look. The one she usually reserved for tactical missteps and misfired fireballs.
+
+Their argument bumped around a few more lines, each more sheepish than the last, before Syliana raised a hand. The glare did the rest.
+
+Quiet settled back in.
+
+After a while, she glanced toward the trees again. Her voice came softer and more thoughtful now.
+
+“At least I believe she’ll be fine.”
+
+The others looked at her.
+
+The rogue tilted his head.
+
+“Why? What did Identify say, Syl?”
+
+Syliana didn’t answer right away.
+
+Her gaze lingered on the forest edge. On the broken leaves. The spot where a silver-haired girl with no shoes and too many teeth had vanished without a trace.
+
+“That,” she said slowly, “was a Wildling.”
+
+The word hung in the air, its impact slow to show.
+
+Sepio exhaled.
+
+“I’ve heard stories,” the archer murmured. “Didn’t think they were real.”
+
+“Truthfully, not even I expected to ever meet one,” Syliana admitted. “Even with my lifespan.”
+
+The rogue raised an eyebrow. “Thought Wildlings were supposed to be only half-feral. But the kid spoke like a drunk squirrel!”
+
+“She was hungry,” Syliana replied. “And excited. And, apparently, on a mission for spice.”
+
+Sepio groaned softly into his gloves.
+
+“Spice. We’re going to have to pay her, aren’t we?”
+
+“You agreed to a deal,” Syl reminded him, with polite murder in her tone. “We should have the goods ready.”
+
+He grumbled but moved toward the packs.
+
+Jerky was pulled. The dried meat sealed in wax wrap. They put a few slices of the spiced boar aside. No one argued.
+
+And they even put the leftover soup over fire, heating it anew.
+
+Then, once the pile was made, Syliana folded her arms again and stared back into the woods.
+
+There was no trace left of the Luna kid.
+
+Only memory. And expectations of her imminent return.
+
+“She’s a strong pup,” she said, her thoughts churning.
+
+Living a long life was worth it.
+
+If only to witness that.

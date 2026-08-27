@@ -1,0 +1,427 @@
+---
+id: 60a2dba4-1d5e-5e03-914d-d56f39b40450
+page-type-slug: story-chapter-royal-road
+title: "Chapter 9: Dragon Blood"
+slug: 0009-chapter-9-dragon-blood
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 9
+ownLength: 3117
+unit: words
+publishedAt: 2026-04-09
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3252885/chapter-9-dragon-blood"
+royalRoadId: "3252885"
+---
+
+"I need you to read."
+
+Iris stared at me as if I'd just announced the sky was made of fire. Then she smacked her own forehead with an open palm.
+
+"How in the world do you know how to speak but not read?" she blurted.
+
+I could only shrug.
+
+"No idea," I admitted. "Speaking feels natural. I don't even think about it."
+
+Her eyes narrowed, and sarcasm crept into her voice.
+
+"Have you tried reading without thinking?" she shot back.
+
+For a heartbeat, I actually considered it.
+
+In this world, "without thinking" had worked for stranger things. My body had learned sword rhythm without my mind truly understanding it. The system itself rewarded repetition, not insight. Maybe language was the same, something my tongue remembered even if my eyes didn't.
+
+I opened the worn journal to the first page. Lines of writing marched across it in tidy rows, symbols that looked almost familiar.
+
+I fixed my gaze on the text and tried to empty my mind.
+
+No forcing it.
+
+Just… letting it happen.
+
+I stared until my eyes watered.
+
+They stayed what they had always been to me: meaningless ink marks on a page.
+
+I lowered the book with a defeated breath.
+
+"Nothing," I said. "It's just… nothing."
+
+"Right…" Iris tapped her chin. "Are you sure I can even read this?"
+
+"Of course," I said quickly, misunderstanding her angle. I lifted the journal slightly, as if offering it more clearly would solve the problem.
+
+She stared at me like I'd lost my last shred of sense.
+
+"No," she snapped. "You idiot. Are you sure it isn't a grimoire?"
+
+"A grimoire?" I repeated.
+
+Iris exhaled hard, half sigh, half curse.
+
+"Good gods," she muttered, then lifted a hand in front of her. For an instant, the air around her wrist shimmered, a faint pulse of mana that prickled against my skin like static.
+
+A book appeared. It simply formed in her palm.
+
+It was small and compact, its cover the color of packed earth, textured like dried clay. Subtle runes crawled along the spine.
+
+"A grimoire," Iris said, holding it up so I could see, "is a magical book. A unique item for each mage. We conjure them."
+
+"No one else can read another mage's grimoire," Iris continued. "Unless ownership is passed on. That's how families make sure magic stays in the bloodline and how they keep everyone else from getting access."
+
+My grip tightened on my journal.
+
+If what I held was a grimoire, then handing it to her was pointless. Worse than pointless. It might be holding the only thing that could explain my "unknown element," and no one but me would ever be able to read it.
+
+"I'm not sure, if this is a Grimorie," I admitted. "Can you write in a grimoire?"
+
+"No," Iris said immediately. "It fills itself automatically."
+
+My journal didn't fill itself.
+
+I held the journal out to her again, more firmly now.
+
+"Then it's a normal book," I said. "Please. Read it."
+
+"All right," Iris said at last.
+
+She settled the journal between her knees, then tugged the armored plates from her hands. Gauntlets and bracers coming off with soft metallic clicks. Bare fingers looked almost wrong after all that steel, pale against the dark leather lining. She flexed them once, before fliping through the pages.
+
+"It's a diary," she announced, voice flattening into something practical. "Your day-to-day."
+
+I swallowed and moved closer, sitting beside her on the flat rock.
+
+I was so focused on the pages that it took me a moment to notice something else, something small and strangely human.
+
+A faint scent of lavender.
+
+It drifted off Iris as she leaned over the journal. It didn't fit the setting at all. She wore plate armor. She had been patrolling through dust and torch-smoke and damp stone. I'd expected metal and sweat and oil.
+
+Instead, there was lavender.
+
+Iris turned another page. Her brow furrowed. She slowed, lips moving silently as she traced a line.
+
+"…Tricky," she muttered. "You write like a noble. Some of these words are… confusing."
+
+My throat tightened. "Can you read it?" I asked, trying not to sound desperate.
+
+"Mostly," she said. "Let's start with the first page."
+
+"Agreed."
+
+She returned to the beginning. For a moment she stared at the first entry.
+
+"'Received my evaluation today,'" Iris read. Her tone shifted as she found her footing. " 'I have no Circles.'"
+
+"'My lord did not seem sad. Nor happy. He seemed to already know.'" She paused, then read on. " 'As for my lady, my mother, she began to weep. She kept repeating something I couldn't hear. Since then, they've ignored me.'"
+
+I didn't remember their faces. I didn't remember their voices. Yet, it hurts to hear those words.
+
+Iris finished the passage and looked up at me, an expression of blunt disgust flickering across her features.
+
+"I think that's what this part means," she said. "What a shitty family. Oops, sorry."
+
+"It's fine," I said. "I don't remember them."
+
+But even as I said it, something in me ached. Whoever Kaspar been, he'd sounded so… alone.
+
+Iris didn't linger. She flipped onward. The diary moved quickly through days. Short entries, clipped observations.
+
+As she read, a portrait formed in my mind: a young man desperate to prove himself, to earn a place in a world that had already labeled him a disappointment.
+
+Iris stopped again and read, more clearly now, as if the writer's urgency made the words easier.
+
+"'My last chance to awaken a Circle is here. They must have some answers.'"
+
+Last chance?
+
+Iris turned another page, then slowed, her eyes narrowing.
+
+"Now this is…" She hesitated, then read carefully. " 'I've discovered something intriguing. Not only am I missing a Circle, but also a Grimoire. It should be impossible.'"
+
+Iris looked up sharply. "So you don't have a grimoire either?" she asked.
+
+My mouth went dry. I could only nod.
+
+"Apparently," I said.
+
+The word tasted bitter, because I hadn't even known what a grimoire was until minutes ago.
+
+"This is one of the last pages," Iris said, her voice quieter as her fingers slowed.
+
+I leaned closer without realizing it, my attention fixed on the page the way a starving man fixes on food.
+
+Iris cleared her throat and began to read, translating the formal, noble phrasing.
+
+"'I received the letter from the Academy. It's my last chance. Either I do well on this expedition, or I will be expelled.'"
+
+Iris continued, eyes scanning steadily.
+
+"'I had to enlist in the army. They will pay me. It's the best I can do, since my family no longer sends me money. I can't keep asking my aunt for more help.'"
+
+Iris flipped to the next part, and her brow furrowed as she read on.
+
+"'They have no idea I wanted to go on this expedition. They said we're heading to a cavern in the east. According to ancient documents, it doesn't seem to be a place rich in mana stones.'"
+
+My mind jumped immediately to the gate, to the way it demanded a ridiculous amount of mana to open.
+
+Iris kept reading, and the tone of the entry shifted.
+
+"'I've been investigating the oldest tomes. Some legends say the area was filled with dragons in the past.'"
+
+A chill ran down my spine.
+
+I didn't need to pretend confusion here. I already knew what lived beyond that gate.
+
+He wasn't wrong, I thought grimly. Not wrong at all.
+
+"'Draconic blood was, for a long time, an alchemical component. It was used to enhance magical abilities or ... maybe awaken them.'"
+
+My pulse quickened.
+
+That was why Kaspar, the other Kaspar, the one whose life I'd inherited, had wanted this expedition.
+
+Not for the Academy, glory or some noble rite.
+
+It was one last, desperate experiment.
+
+Iris's voice dropped slightly as she read the sentence that mattered most.
+
+"'I need to consume dragon blood. If it works, it might repair my grimoire.'"
+
+I stared at the page as if I could see my past self's hand shaking when he wrote it.
+
+Iris looked even more confused now than she had at the beginning.
+
+She reread the last part under her breath, lips moving. Then she looked up at me with genuine disbelief.
+
+"Where in the world are you supposed to find draconic blood?" she asked.
+
+My mouth opened. I almost answered aloud.
+
+I know where, I thought.
+
+The afternoon slipped by.
+
+Iris became a teacher without trying to. She sat beside me with the journal open between us, tapping lines with her finger, correcting my pronunciation, forcing my eyes to stop treating letters like meaningless shapes. Even with the diary translated, I could feel how important it was to learn the language properly. If I had to live the same day again and again, then every scrap of knowledge I carried forward mattered.
+
+"Again," Iris would say when I stumbled. "Not like that. You're swallowing the ending."
+
+I'd repeat the sound, jaw tense, and she'd sigh like I was a stubborn recruit.
+
+At times she seemed amused by how quickly I picked up certain patterns. At other times her patience frayed and she'd mutter under her breath about nobles and their useless education. But she didn't leave.
+
+Yet, soon the command arrived.
+
+"The gate's opening! Prepare yourselves!"
+
+It yanked me out of the page mid-syllable.
+
+Iris looked up too.
+
+For a moment, neither of us moved.
+
+Iris stretched her arms over her head, armor shifting with a soft clink.
+
+"Looks like you'll need to find another teacher after today," she said, a hint of playful smile tugging at her lips.
+
+I stared down at the open page for a heartbeat longer.
+
+"Yes," I said, voice dry. "It's the last day, isn't it?"
+
+"Indeed," Iris replied. She slipped her foot back into her well-worn boot and tightened it. "Can't say I'm not relieved." Her tone softened a fraction as she spoke. "I'm eager to get back home."
+
+She rose with an easy grace that made her armor seem lighter than it looked. With a small gesture she brushed stray dark strands away from her face.
+
+She was about to leave.
+
+The panic that rose in my chest wasn't only about the gate. It was about losing my one real source of answers.
+
+"Oh—wait." The words tumbled out before I could think. "Before you go. A hypothetical question."
+
+Iris paused, half-turned, eyebrow arching.
+
+"If you were to face wyverns," I asked, forcing my voice to stay casual, "how would you go about it?"
+
+For an instant, I saw the shift in her expression. She scratched at the side of her head, helmet tucked under her arm, as if trying to decide whether I was joking or simply strange.
+
+"Wyverns?" she repeated. "You think you will find them?"
+
+Her tone turned skeptical again.
+
+"They've been extinct for centuries," Iris said. She shrugged, conceding the hypothetical. "But if the legends hold any truth… they breathed fire and spewed venom."
+
+She lifted her free hand slightly, as if already shaping mana in the air.
+
+"With earth magic," Iris continued, thinking aloud, "I'd conjure a spear to pierce their hearts." Her eyes narrowed with the practical focus of a soldier. "Or I'd try to crush their heads."
+
+I frowned, rubbing the back of my neck, because her answer made sense in her perspective.
+
+Yet in my reality, I had a decorative sword and a body that lasted five minutes before it begged for mercy.
+
+Not particularly helpful, I thought bitterly.
+
+I forced myself to keep digging.
+
+"So targeting the head and heart," I said carefully, "would be the way to kill them?"
+
+"According to the old tales, yes," Iris replied with a casual shrug. "But as I said. It's folklore."
+
+She glanced at me, and the suspicion eased into something softer.
+
+"Thanks for the break," Iris said. "It was nice to have a moment away from the routine."
+
+"Anytime," I told Iris, and tried to give her a smile that didn't look like a mask.
+
+She nodded once, her eyes lingering on me for a heartbeat longer than necessary. There was something unreadable in that pause. Curiosity, suspicion, maybe a faint trace of sympathy she didn't want to admit to.
+
+"Take care, Kaspar," she said.
+
+She turned and walked away.
+
+I watched until the darkness between the rocks swallowed her silhouette.
+
+I was alone again.
+
+As always, the gate was waiting at the end of the journey.
+
+I reached for my sword.
+
+The metal felt cold through the thin fabric of my robe as I adjusted it, concealing it beneath the cloth and securing it at my side.
+
+My mind buzzed, overloaded with everything Iris had given me. Circles. Grimoires. Dragon blood.
+
+In midst of all that information, one detail kept bothering me.
+
+A Sixth Circle mage is here.
+
+I stepped out of the hideout and into the moving world again.
+
+Students poured from tents in a nervous, murmuring stream. Soldiers moved along the edges like shepherds, tightening the flow.
+
+As we descended, I blended into the stream.
+
+Yet, my thoughts continued onto the Sixth Circle mage.
+
+He should have been obvious. A man of that rank, that power, should have stood out. Yet in all my loops, all my deaths, all my frantic moments of watching the corridor ignite, I had never once seen him step through the threshold with us.
+
+I don't remember him being there when I was imprisoned either, I realized.
+
+If the massacre happened right beyond the gate… and the mage wasn't there… then where was he? And why?
+
+I need to find out what happens to him.
+
+I pulled my cloak closer to my body and started moving again. The first announcement of the gate opening usually bought a few minutes before the ritual began.
+
+I threaded forward with hurried steps.
+
+Most people were doing the opposite of what I was doing. Dragging their feet, clinging to the middle of the crowd, trying not to be among the first. It made it easy for me to slip ahead of those who didn't want to lead.
+
+I hadn't been coming down every loop, but the memory of that second attempt, of mana crystals, of crates, of Blut barking orders in the logistics tent were still in my mind.
+
+The soldiers were focused on controlling the mass of explorers than on stopping a single student moving with apparent purpose. They barked at those who tried to slip away, blocked paths that led outward, kept the pressure forward.
+
+I wasn't fleeing. So I became invisible.
+
+I reached the small ritual cabin. The area around it was arranged with crates stacked in straight lines, tables set, lanterns hung at intervals.
+
+At the center of it all, painted into the stone floor, was a circle of runes.
+
+Not the neat rings that formed around a mage's arm. Symbols carved and chalked and inlaid in a wide formation, lines intersecting like a net.
+
+Several soldiers stood around the perimeter. Inside that fence were mages.
+
+Seven of them.
+
+They wore robes rather than plate, but their posture carried the same confidence as men holding weapons.
+
+No one paid attention to me.
+
+To them I was just another student hovering at the edge of history.
+
+I stayed where I wouldn't be noticed. Close enough to see, far enough to be ignored.
+
+My eyes moved over the mages, searching for a sign.
+
+Which one of you is Sixth Circle? I wondered.
+
+I tried to judge by demeanor, by age, by the way the others angled their bodies. Yet it wasn't obvious. They all looked like people who belonged near power.
+
+They positioned themselves around the runic formation, spacing out as if they'd practiced this arrangement.
+
+A mage at the center of the circle lifted his chin.
+
+"Everyone ready?"
+
+Another mage replied immediately. "Can we begin?"
+
+A woman to his left looked toward the soldiers and frowned. "There won't be anyone in Magitek to protect us?"
+
+The central mage made a dismissive sound, almost a laugh. He tugged at his sleeve as if adjusting it, then deliberately drew the robe back from his forearm.
+
+Six luminous rings manifested around his wrist.
+
+Even from where I stood, the air changed.
+
+It was like static electricity flooded the cavern all at once. The hair on my arms lifted. My nose itched sharply.
+
+Is this what mana feels like? I thought. Is this what everyone else has been sensing?
+
+The central mage didn't even look impressed by his own display. He looked bored by it.
+
+"If there's something stronger than me on the other side," he said, voice rich with arrogance, "then Magitek won't save you either."
+
+He let the robe fall back into place, hiding the rings as though their existence was too ordinary to bother with.
+
+"Position the crystals," he commanded.
+
+Soldiers moved immediately. They carried bluish mana crystals and began placing them at set points around the runic circle. As each crystal touched down, the runes on the ground responded.
+
+One by one, lines of light awakened.
+
+The chalked symbols brightened, then pulsed, as if they were drinking from the crystals.
+
+The central mage clapped once.
+
+"Now," he said.
+
+He began to speak.
+
+The words were not in any language I recognized.
+
+The other mages responded.
+
+One by one they lowered themselves to their knees around the circle, hands hovering over the runes, palms open as if they were conduits. Their faces were hard with concentration.
+
+The light intensified.
+
+It poured from the runes and spilled across the ground in widening halos, crawling outward toward the gate.
+
+The gate soon answered.
+
+Even from this angle, with tents and bodies partially blocking my view, I heard it. The groan of metal the size of a mountain moving against itself.
+
+I could hear the first wave of explorers entering. Boots striking stone. Nervous shouts. The panic being swallowed by the corridor.
+
+Yet my eyes weren't on the darkness.
+
+They were on the mages.
+
+On the soldiers ringed around them.
+
+Something was wrong.
+
+It happened so abruptly my mind almost refused to process it. Every mage froze mid-chant. Every soldier stiffened as if struck by an invisible hammer.
+
+All of them, mages and guards alike, were lifted off the ground.
+
+They rose straight upward as though a giant hand had closed around each of their throats and yanked.
+
+Feet dangled.
+
+Robes fluttered.
+
+A staff slipped from a soldier's grasp and clattered onto stone.
+
+The central mage's mouth was still open, but no words came out. His hands clawed at the air near his neck, fingers spasming, as if he were trying to pry something off his windpipe.
+
+High above us, fire was raining.

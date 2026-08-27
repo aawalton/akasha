@@ -1,0 +1,229 @@
+---
+id: b220d871-b3c0-5038-aec1-6c95e6100045
+page-type-slug: story-chapter-royal-road
+title: "Chapter 55: Scoop"
+slug: 0055-chapter-55-scoop
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 55
+ownLength: 1874
+unit: words
+publishedAt: 2026-06-01
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3479475/chapter-55-scoop"
+royalRoadId: "3479475"
+---
+
+In the Capital.
+
+The hour was outrageous.
+
+They hadn't used the word revolutionize. They'd used fourteen longer words that meant the same thing.
+
+Academics. Noses so high they caught rain before anyone else. Pockets so deep with Imperial gold that the jingling followed them down corridors like a second set of footsteps.
+
+Frieda had smiled through all of it. Had nodded at the right intervals. Had made the particular sounds of agreement that kept powerful men talking.
+
+That was her job. Not the writing or printing. It was listening. The patient accumulation of information from people who believed they were educating her, when in fact they were supplying ammunition she would use against them at a time of her choosing.
+
+She had returned to her apartment next to the offices of The Imperial Chronicle at a quarter to one. Had removed her shoes, her spectacles, her evening coat. Had hung the coat on the hook behind the bedroom door with the care of someone who owned exactly three good coats and could not afford to replace any of them.
+
+Some believed she was swimming in money.
+
+That was not the case.
+
+Perhaps if the Chronicle had fewer scruples. Perhaps if she accepted money from nobles. Perhaps.
+
+Not that she refused money entirely. It was simply that she had far more interest in publishing pieces that would carve both her name and her newspaper's into history.
+
+And to carve your name into history, you first had to make enemies.
+
+She had been asleep for approximately two hours.
+
+The crystal woke her.
+
+Not the office crystal.
+
+Her personal crystal.
+
+The device sat on the nightstand beside her bed. A small thing, no larger than a closed fist, housed in a brass frame that she'd paid too much for because the artificer had promised the housing would dampen ambient noise during off-hours.
+
+It was screaming.
+
+The resonance frequency that indicated an incoming connection filled the bedroom.
+
+Frieda's eyes opened.
+
+The ceiling of her bedroom stared back at her. Dark timber beams. A water stain in the northwest corner that had been there when she moved in eleven years ago and would be there when she moved out.
+
+The crystal continued its assault.
+
+Her hand found the nightstand. Fumbled past the spectacles. Found the crystal. Her thumb pressed the activation rune with the accuracy of long practice.
+
+“This had better be the end of the world,” she said.
+
+The connection stabilized. The crystal's blue glow painted the bedroom ceiling in shifting patterns.
+
+“Frieda.”
+
+Konrad's voice.
+
+She closed her eyes.
+
+Of course it was Konrad.
+
+Nobody else on her staff would dare activate her personal crystal at this hour. The editorial team knew the consequences. She had described those consequences in detail during a staff meeting two years ago, using language so vivid that the junior typesetter had gone pale and requested a glass of water. The message had been received and internalized by every employee of The Imperial Chronicle.
+
+Every employee except one.
+
+She paused for effect.
+
+“I will not fire you. Firing you would require paperwork, and paperwork requires me to be awake during business hours, which I will not be, because you woke me up. Instead, I will find whatever rock you are hiding under, and I will roll it on top of you, and I will leave you there until the geological record absorbs you.”
+
+The crystal pulsed. Konrad's breathing came through the connection.
+
+“Frieda. Listen to me.”
+
+Two sentences. No banter. No charm.
+
+Frieda's irritation, which had been building toward a satisfying crescendo, stumbled.
+
+In seven years of working with Konrad, she had learned to read his voice the way a sailor reads the sky. The jokes meant he was confident. The charm meant he was maneuvering. The silence meant he was thinking.
+
+Direct and urgent meant he had found something.
+
+“I have a story,” Konrad said. “It needs to go to print tonight. Right now. I need you to wake the press team and start the machines.”
+
+Frieda's hand found her spectacles on the nightstand. She unfolded the wire arms and settled them on her nose, as if seeing clearly would help her hear more accurately.
+
+“Start the machines,” she repeated.
+
+“Now. Tonight. Before dawn.”
+
+“Konrad, the morning edition is already set. The magical algorithm is programmed. The paper is loaded. If I pull the current run, that's four hours of work for a team that went home at ten o'clock and will need to be dragged from their beds, which, incidentally, is exactly where I was—”
+
+“Frieda.”
+
+She stopped.
+
+“What happened?” she asked.
+
+“Earlier today, armies arrived at the southern front line. Grenzheim sector.”
+
+Frieda's brow creased. She reached for the notepad she kept beside the bed, a habit so ingrained that her hand found it without her eyes leaving the crystal's glow. Her pencil was already moving.
+
+“Reinforcements to the front aren't news,” she said. “The Magical Army rotates units through Grenzheim every month. Supply convoys, garrison supplements, the standard...”
+
+“Not the Magical Army.”
+
+Konrad's words hit the connection with an emphasis that made the crystal's housing vibrate against the nightstand.
+
+“These were Hexenzeit forces. Private military. The Archduke's own cavalry. Heavy equipment. Magitek armor.”
+
+The pencil stopped moving.
+
+Frieda's fingers tightened around it.
+
+“Hexenzeit,” she said.
+
+“Hexenzeit.”
+
+The Hexenzeit private forces hadn't deployed beyond their territorial borders in living memory. The Archduke maintained them as a defensive apparatus, a standing army whose purpose was to protect Hexenzeit lands and Hexenzeit interests and nothing else. Their deployment to a front-line garrison in another sector was far from routine rotation.
+
+It was a political earthquake.
+
+“Tell me everything,” Frieda said. “From the beginning. Leave nothing out.”
+
+She heard Konrad take a breath. Organizing. The man's mind, for all his recklessness, was a filing system of extraordinary precision. When he reported, the facts came in sequence, clean and ordered, stripped of the embellishment he saved for his published prose.
+
+“I was at the Town Hall in Grenzheim,” he began. “This morning. Early. Before dawn. I'd been cultivating a source in the logistics office, a woman named Mira. She processes communications for the garrison.”
+
+Frieda noted the name. Mira. Logistics. Grenzheim Town Hall. The pencil scratched against the paper.
+
+“Letters arrived,” Konrad continued. “Delivered by a wall sentry to the Town Hall and to the garrison command simultaneously. The letters bore official seals. They carried intelligence from the southern front. An elven assault. Imminent. Massive. The letters demanded immediate mobilization. Every available unit. Full military alert.”
+
+“Who signed the letters?”
+
+“That's where it gets interesting. The authorization wasn't just military. The Hexenzeit family seal was on two correspondences.”
+
+Frieda's pencil stopped again.
+
+“The Hexenzeit seal,” she repeated. “On a military mobilization order. Delivered to a garrison town. That's...”
+
+“Irregular. Possibly illegal under the Military Authority Act of...”
+
+“I know the act, Konrad.” She adjusted her spectacles. “Continue.”
+
+“The garrison acted on the letters. Immediately. No verification delay. No waiting for confirmation through official channels. The watch captain read the Hexenzeit seal and mobilized everything. Every soldier in Grenzheim. The wall guard. The reserves. Every unit within the town's perimeter.”
+
+He paused.
+
+“As the news spread through the military communication channels, it took only a few hours for the Hexenzeit army to arrive in the city. Hours, not days. Which means they must have used some form of teleportation. You can imagine how expensive that is. Hundreds, if not thousands, of mana crystals would have been spent just to move that many personnel.”
+
+Frieda's mind was racing now, but her voice remained controlled.
+
+“And the attack?”
+
+“It came.” Konrad's voice dropped. “Frieda, I went to the front. I have photographs.”
+
+“You went to the...” She bit off the sentence. Of course he went to the front. Of course he did. “Go on.”
+
+“The entire defensive grid collapsed. Every mine, every spell battery, every automated ward between the trenches and the elven forest. All of it went dark.”
+
+Silence.
+
+“Hundreds of elves crossed the no-man's-land,” Konrad said. “Full assault. Organized formations. They hit the bunkers of the Iron Cross, the Regular Army, and the Magical Army at the same time…” He trailed off. When he resumed, his voice was quieter. “The casualties are severe, Frieda. I've seen field hospitals after border skirmishes. This was different. This was a sustained engagement against an enemy that outclassed our soldiers.”
+
+Frieda's jaw tightened.
+
+“Is there still a breach? Are we talking about a red alert situation? Should I be waking more than the press team?”
+
+“No.” The word came quickly. “They held. The defensive grid came back online. The mines reactivated. The elves that were still in the kill zone when the defenses returned...” He didn't finish the thought. “The ones that made it through were contained. Fought to a standstill in the tunnel network. The reinforcements from Grenzheim arrived and tipped the balance.”
+
+Frieda exhaled.
+
+The breath she released was longer than it should have been. It carried with it the weight of the scenario she'd been constructing in her mind, the one where the front had fallen and the elves were marching north and the next edition of The Imperial Chronicle would be printed from a refugee camp.
+
+“All right,” she said. She swung her legs over the side of the bed. Her feet found the cold floorboards. “I'll wake the team. We'll pull the current plates and reset for a special edition. Front-page lead. Full coverage. I want your photographs transmitted through the crystal relay before...”
+
+“Frieda.”
+
+She stopped. One foot in a slipper, the other bare on the wood.
+
+“There's more.”
+
+The two words sat in the crystal's blue glow like stones dropped into still water.
+
+“I'm listening.”
+
+“There's someone we need to talk about. A hero.”
+
+Frieda's eyes narrowed behind her spectacles.
+
+“A hero,” she repeated. The word carried the particular skepticism she reserved for narrative constructs that smelled like propaganda.
+
+“One person,” Konrad said. “One who sent the letters. One who disrupted whatever ritual the elves were using to disable the defensive grid. One who then fought in the tunnel network.”
+
+“Who?”
+
+“I've confirmed it through three independent sources. The logistics officer at Town Hall who received the letters. An Iron Cross officer named Thom who commanded the individual's unit. And Commander Wendt himself, who provided a statement.”
+
+“Wendt gave you a statement?” Frieda's eyebrows climbed above the wire rims. “Wendt doesn't give statements. Wendt doesn't acknowledge that journalists exist. The last reporter who approached Wendt for a comment was escorted off the front by armed guards.”
+
+“Wendt gave me a statement,” Konrad confirmed. “Voluntarily. Three sentences. I wrote them down word for word.”
+
+“Read them.”
+
+Paper rustled through the crystal connection.
+
+“‘The soldier in question identified the threat before any intelligence apparatus on the front. He neutralized the ritual that had disabled our defensive grid, and fought in the forward corridors during the worst hours of the engagement. If this kingdom has any sense left, it will remember his name.’”
+
+Frieda sat very still.
+
+“The name,” Frieda said.
+
+“Runenträger,” Konrad said. “Still a line grunt on paper, one step up from Schwarzling after the medal. Iron Cross. No Circle formation.”
+
+A Bastard.
+
+Frieda's pencil pressed harder against the notepad.
+
+“Kaspar von Hexenzeit.”

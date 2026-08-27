@@ -1,0 +1,487 @@
+---
+id: ab0b8a06-62ce-5846-b046-4beb4812d040
+page-type-slug: story-chapter-royal-road
+title: "Chapter 53: Tide"
+slug: 0053-chapter-53-tide
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 53
+ownLength: 3456
+unit: words
+publishedAt: 2026-05-28
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3461359/chapter-53-tide"
+royalRoadId: "3461359"
+---
+
+The elf's voice was calm.
+
+"This one," he repeated.
+
+My mind scrambled for context. For the sequence of events that had brought me from the trenches to wherever I was now.
+
+The spells. Three of them.
+
+Then hands. Someone dragging me.
+
+After that, nothing.
+
+A gap that could have lasted minutes or hours, and on the other side of that gap, this.
+
+I tried to move.
+
+My arms wouldn't respond.
+
+They were held. Stretched wide to either side, pulled until the shoulder joints ached at the very edge of their range of motion. Iron links bit into my wrists. Chains. Heavy ones, their weight dragging at my forearms, each link extending outward past my hands and disappearing beyond my vision.
+
+My feet were bound together. Rope, coarse and salt-crusted, wrapped around my ankles in tight loops that cut into the skin. Below the rope, my boots rested on something solid. Stone. A boulder, massive and immovable, half-buried in whatever surface I was standing on.
+
+The surface was wet.
+
+Water. Thin sheets of it washing over my boots, retreating, washing over them again.
+
+A beach.
+
+The sound of waves, low and constant, breaking somewhere nearby. The wind, carrying the mineral tang of open ocean. The sky above was overcast, gray-white, the sun hidden behind a ceiling of cloud.
+
+A coastline.
+
+The elves stood before me in a loose semicircle.
+
+Seven of them. Their armor was battered, marked with the damage of a long fight through confined spaces. One had a gash across his cheek that wept golden blood into his collar. Another held his left arm against his ribs in a way that suggested fractured bones beneath the plating.
+
+They were the survivors. The vanguard that had pushed deepest into the tunnel network.
+
+The elf who had spoken stood apart from the others.
+
+He was different.
+
+His uniform was not combat armor. It was a fitted coat of dark material, something between leather and cloth, buttoned to the throat with fastenings of dull silver. No sword at his hip. No visible weapon of any kind. The coat bore insignia on the shoulders.
+
+An officer. Or something beyond an officer. He stepped closer.
+
+He looked at me the way a scholar looks at a specimen that has produced an unexpected result. Not with anger, nor respect. With interest.
+
+"You speak the tongue," he said.
+
+His accent fractured the words. The consonants were too sharp. The vowels were too narrow.
+
+I said nothing.
+
+"Several of my soldiers observed you," the elf continued. His hands remained clasped behind his back. "On the hilltop. They saw the column of light extinguish. They saw the dome collapse."
+
+His amber eyes held mine.
+
+"Four alive. One dead."
+
+"The matrix," the elf said. His tone shifted. The scholarly interest remained, but something colder entered the edges. "Do you have any understanding of what that ritual represented?"
+
+I stared at him.
+
+"Years," the elf said. "Years of research. Of calculation. Of refining a single matrix until it could accomplish in one activation what no other construct in living memory had achieved. A simultaneous neutralization of every defensive ward, every buried rune, every automated battery across your front."
+
+He paused.
+
+"A masterwork. Entrusted to five vessels who carried the components in their blood, their bones and their lives. Transported across an ocean. Seeded into your territory through a mechanism you believed was an act of desperation."
+
+His chin tilted.
+
+"Frustrated. By a single soldier. A common soldier with a sword and no magic worth naming."
+
+The silence stretched.
+
+"There is nothing you can do about it," I said.
+
+The elf regarded me for a long moment.
+
+Then the corner of his mouth moved. The faintest acknowledgment that a piece on the board had behaved in a way that was, if nothing else, noteworthy.
+
+"No," he agreed. "There is not."
+
+He unclasped his hands from behind his back. Turned slightly, as if considering the horizon. The gray ocean stretched behind him, vast and featureless beneath the overcast sky.
+
+"We will retreat," he said. "Through the coastal passages and into the deep forests. It will take months to traverse human territory and reach our borders. Your patrols will hunt us. Your wards will track us. Many of us will not survive the journey."
+
+He turned back to me.
+
+"However."
+
+His hand moved.
+
+It closed around my jaw.
+
+The grip was brutal. My neck twisted under the pressure. My teeth ground against the inside of my mouth.
+
+He wrenched my head until I faced left.
+
+"We always leave a message."
+
+Four cages.
+
+They hung from a natural rock formation that jutted from the cliff face above the beach. A granite overhang, weathered by centuries of wind and salt, from which four sets of chains descended. Each chain terminated in a cage.
+
+The cages were enormous. Two meters tall, two meters wide, constructed from iron bars as thick as my wrist. They hung suspended over the water, swaying gently in the coastal wind, their bases hovering perhaps a meter above the current waterline.
+
+The elf released my jaw.
+
+He raised his right hand. His fingers moved in a slow pattern. The air between his fingertips shimmered.
+
+The cages responded.
+
+Metal screamed against metal. A sound so sharp it bypassed the ears and drove directly into the teeth. The iron bars shuddered. The chains that held the cages taut against the cliff face groaned, links grinding against one another.
+
+The elf was controlling them. The metal itself. Manipulating the iron through some form of elemental magic.
+
+The demonstration lasted three seconds. Then his hand lowered and the cages stilled.
+
+"I enjoy this game," the elf said. "I have played it before. With every soldier who imagines himself a hero. With every human who believes that individual courage can alter the course of a war."
+
+He gestured toward the cages.
+
+"Look."
+
+I looked.
+
+Inside the cages, figures huddled against the bars.
+
+The nearest cage held Ivan and Anya. The boy sat with his back against the iron, his arms wrapped around his sister. Anya's face was buried in his chest. Both of them were gagged, strips of cloth pulled tight between their teeth and knotted behind their heads. Their hands were bound behind their backs with the same salt-crusted rope that held my ankles.
+
+Ivan's eyes found mine. They were wide. Empty of everything except terror.
+
+The second cage. Pyotr and Nadya. The old man slumped against the bars, his breathing visible as a shallow, uneven rise and fall of his chest. Whatever reserves the ritual hadn't consumed, whatever strength had kept him alive through months of recovery, was gone. Nadya sat beside him, her head bowed, her bound hands resting in her lap. Her eyes were closed.
+
+The third cage held soldiers, bloodied Iron Cross uniforms. I recognized some. The man who had tackled the elf during the corridor fight. The woman with the burn scar who had taken command after Wendt left. Both were conscious. Both gagged.
+
+The fourth cage. A single occupant. The medic. The one who had been working in the staging bunker when I'd arrived. Her white robes were stained dark. Her hands, the hands that had pressed against throats searching for pulses, were bound behind her back.
+
+"The mechanism is simple," the elf said.
+
+He walked to where my chains extended from my wrists to a pair of anchor points driven into the boulder at my feet. The chains ran along the ground, disappearing into a channel carved in the rock, then rising at an angle toward the cliff face.
+
+Toward the cages.
+
+"Your chains connect to the suspension system," the elf explained. His tone was instructional. Patient. As if he were teaching a particularly slow student. "A counterweight arrangement. The tension in your chains holds the cages aloft. The magic that keeps the equilibrium is precise."
+
+He tapped one of the chains with his boot. The cage nearest to it swayed. Inside, Ivan flinched. Anya pressed deeper into her brother's chest.
+
+"You are a mana practitioner," the elf continued. "The mana flowing through your body is more than sufficient to shatter iron chains of this weight. You could free yourself in seconds."
+
+He paused.
+
+"The moment you do, the counterweight releases. The cages drop."
+
+He pointed downward. Below the cages, the ocean pressed against the cliff's base. The water was dark. Deep enough that the bottom was invisible.
+
+"They are bound. Weakened. None of them possess the strength to break iron bars or free themselves from restraints. The water will take them in seconds."
+
+His amber eyes returned to mine.
+
+"You could attempt a rescue, of course. Free yourself. Swim. Climb the rocks. Reach the cages before they sink entirely. Break the bars. Cut the bindings. Pull them free."
+
+The corner of his mouth moved again. That almost-smile.
+
+"How many could you save? One? Two, perhaps. Certainly not all four cages. Not weakened as you are."
+
+He stepped closer. Close enough that I could smell whatever scent clung to his coat. Something mineral.
+
+"Or," he said, "you wait. This coastline is not far from your front line. Your reinforcements have arrived. Patrols will be dispatched. Search parties will sweep the surrounding terrain. Sooner or later, someone will find this beach."
+
+He tilted his head.
+
+"The question is whether you survive the tide first."
+
+Silence.
+
+The waves continued their rhythmic advance and retreat across my boots. The waterline was creeping. Centimeter by centimeter, the ocean was climbing.
+
+"You will find your way out," the elf said. "One way or another. You will break the chains or you will wait for rescue. You will save some of them or none of them or, if fortune favors the desperate, all of them."
+
+He leaned closer. His voice dropped to something almost intimate.
+
+"Or perhaps you will finally understand something that every hero eventually learns."
+
+His eyes held mine.
+
+"You are not the hero in their story. You are a soldier who stumbled into a war that existed long before you were born and will continue long after you are forgotten."
+
+He straightened.
+
+"Either way," he said, "I am not concerned."
+
+His fist drove into my stomach.
+
+The impact folded me in half. Air exploded from my lungs. My body convulsed forward, every muscle contracting around the point of impact.
+
+The chains jerked.
+
+The counterweight system responded instantly. The cages lurched downward. A foot. Maybe more. The chain links screamed through their guides. Inside the cages, bodies tumbled against the bars. Ivan's muffled cry was audible even through the gag.
+
+The cages stopped. Swaying. Their bases now less than half a meter above the waterline.
+
+I gasped. Forced my body upright. Forced my arms back into the position that maintained the tension. The chains tightened. The cages held.
+
+My heart was slamming against my bruised ribs.
+
+The elf stepped back.
+
+He regarded his work with the expression of a craftsman surveying a finished piece.
+
+He turned to the other elves. Spoke a word in their language.
+
+They moved.
+
+The seven of them walked south along the beach. Their boots left prints in the wet sand that the next wave would erase. As they walked, the elf in the dark coat raised one hand. His fingers described a pattern in the air.
+
+The space around them shimmered.
+
+The distortion was subtle at first. A ripple, like heat haze rising from stone. Then it deepened. The air around the elves bent, folded, wrapped itself around their bodies. Their outlines blurred.
+
+They vanished.
+
+The beach was empty.
+
+The wind blew.
+
+The waves advanced.
+
+I was alone.
+
+Alone with the chains and the cages and the tide and the sound of muffled crying that carried across the water from the iron prisons above.
+
+My first instinct was to move. To test the chains. To pull, to twist, to find the weakness in the mechanism and exploit it.
+
+I shifted my weight.
+
+Half an inch. A careful, controlled transfer from one foot to the other.
+
+The cages dropped.
+
+Not a foot. Not six inches. But the chains transmitted the motion with a fidelity that turned my half-inch shift into a visible lurch of iron against the cliff face. The nearest cage swung outward. Its base kissed the surface of the water, sending a spray of salt foam over the prisoners inside. Ivan and Anya flinched. Nadya's eyes opened.
+
+I froze.
+
+The cages settled. The swaying diminished. The equilibrium reasserted itself, precarious and absolute.
+
+The elf had not been exaggerating. The counterweight system was calibrated with a precision that bordered on sadistic artistry. Every movement I made, no matter how small, propagated through the chains and translated into a corresponding drop of the cages.
+
+I couldn't move without killing them.
+
+I stood still.
+
+The minutes passed.
+
+Inside the cages, the prisoners settled into the particular stillness. Ivan held Anya. The soldiers stared at the water below their feet with the flat expressions of professionals calculating odds they didn't like. The medic had closed her eyes.
+
+Some of them cried.
+
+I stood on the boulder with my arms stretched wide and the chains pulling at my wrists and the tide climbing my boots and I watched them suffer and I couldn't look away.
+
+Someone will come.
+
+The thought repeated itself.
+
+The front line is close. The reinforcements arrived. Patrols will sweep the coast. Someone will see the cages.
+
+An hour passed.
+
+The tide rose.
+
+The water that had been washing over my boots in thin sheets was now at my shins. Each wave pushed higher, receded less.
+
+The cages hung lower. Not because the counterweight had shifted. The water was climbing to meet them. The bases of the nearest two cages were submerged with each incoming wave, salt foam washing through the bars and over the prisoners' feet.
+
+Inside the third cage, the woman with the burn scar had managed to work her gag loose enough to breathe through her mouth. The fabric hung around her chin. She didn't speak. Didn't call out.
+
+The medic in the fourth cage had opened her eyes. She watched the water.
+
+I tried to scream.
+
+The sound carried nowhere. The beach absorbed it. The ocean swallowed it.
+
+No one came.
+
+The following hours were worse.
+
+The water reached my waist. The cold was immediate and penetrating. A temperature that didn't freeze but drained. Each wave pulled heat from my body.
+
+My muscles began to cramp. The calves first. Then the thighs. Then the abdominals, which contracted around the bruise the elf's fist had left in my stomach.
+
+The chains held me upright. Without them, I would have doubled over.
+
+The cages were part-submerged. The prisoners inside sat in water to their legs.
+
+I watched them.
+
+I could break the chains.
+
+The elf had been right about that. The mana flowing through my body was more than sufficient to shatter iron. A focused burst through my wrists, concentrated into the links closest to the manacles, would snap them like dry wood.
+
+Yet the cages would fall.
+
+How many could I save?
+
+The math was merciless. Four cages. Eight prisoners. I was injured, exhausted, operating on whatever reserves the corridor fight and the hours of exposure had left me. Swimming in open water with burns on my back and cramping muscles. Climbing slick rocks. Cutting bindings. Pulling bodies free.
+
+One cage. Maybe two if everything went perfectly.
+
+Two cages meant four people saved and four people drowned.
+
+Which four? Ivan and Anya. Children. Refugees who had been slaves before they were tools. Their crime was surviving long enough to be useful to the elves.
+
+Pyotr and Nadya. An old man who was already dying. A woman who carried her silence like a wound that would never close.
+
+The soldiers. Warriors who had held the line. Who had bled in the corridors.
+
+The medic. Who had healed them.
+
+Which four do you let drown?
+
+The sun, hidden behind its overcast ceiling, tracked across the sky.
+
+I drifted.
+
+I would blink and the water would be three inches higher. Blink again and the light would be different.
+
+Each time I surfaced from the nothing, the cold was worse.
+
+My lips had gone numb. My fingers had stopped responding to commands. The mana in my body, the mint-burn of Mana Breath, was the only warmth left. It flowed through my core, my chest, my shoulders, radiating outward through tissue that was losing the battle against hypothermia.
+
+The mana kept my heart beating.
+
+Without it, I would have been dead hours ago.
+
+It wasn't enough to be comfortable.
+
+It was enough to not die.
+
+A wave hit my face.
+
+Salt water flooded my mouth, my nose. I coughed. Gagged. Spat.
+
+Someone will come.
+
+The thought was thinner now. A prayer offered to a sky that refused to answer.
+
+The patrols. The search parties. Someone will sweep this coastline. Someone will...
+
+Night fell.
+
+The transition was gradual. The overcast sky, which had diffused the light all day, simply allowed the diffusion to deepen until the gray became charcoal and the charcoal became black.
+
+The temperature dropped.
+
+My teeth chattered. The sound was loud inside my skull.
+
+The mana burned brighter. My body demanded more. The nine cores obliged, pouring mana into the respiratory tissue, into the blood vessels, into every cell Mana Breath could reach.
+
+I closed my eyes.
+
+Even if you survive tonight. You will die tomorrow. When you die, the curse will bring you back. Back to the dawn.
+
+You will return exhausted. Hypothermic. Burned.
+
+You will be weaker tomorrow.
+
+The thought was a serpent. It coiled through my mind, tightening with each circuit.
+
+Let go. Break the chains. While you can.
+
+My hands twitched against the iron.
+
+You're no hero. You can't save them all.
+
+The logic was flawless.
+
+The logic was monstrous.
+
+I opened my eyes.
+
+The dark water surged around me. The cold pressed in. My body trembled with a violence that made the chains rattle.
+
+Hold.
+
+I held.
+
+I held because letting go meant choosing who lived and who drowned. And I would not make that choice.
+
+The tide climbed.
+
+The water reached my chin. Each wave pushed over my mouth. I learned to time my breathing. Inhale between waves. Hold. Let the water pass over my face. Exhale when it receded. Inhale again.
+
+The rhythm became everything.
+
+Breathe. Hold. Wait. Breathe.
+
+Hold.
+
+Hold.
+
+Hold.
+
+The tide turned.
+
+I didn't notice immediately. The water had been above my nose for what felt like hours, and my breathing had been reduced to desperate gasps snatched from the troughs between waves.
+
+Then a wave came that was lower than the one before.
+
+And the next was lower still.
+
+My mouth cleared the surface. Then my chin. Then my throat.
+
+The water retreated; the tide pulled back with the same patient, implacable rhythm it had used to advance.
+
+By the time the eastern sky began to lighten, the water was at my waist again.
+
+Dawn.
+
+The sun broke the horizon in a thin line of gold that cut beneath the overcast like a blade slipped under a door.
+
+I opened my mouth.
+
+The croak that emerged was barely human.
+
+I tried again.
+
+"HELP!"
+
+The word was a whisper amplified by desperation. It carried perhaps twenty meters before the wind dismembered it.
+
+"HELP! ANYONE!"
+
+Nothing.
+
+The beach stretched in both directions. Empty.
+
+I screamed until my voice failed completely.
+
+No one came.
+
+The day passed.
+
+The sun crawled across the sky, visible only as a brighter patch behind the clouds. The tide retreated to its lowest point, exposing dark rocks and strands of kelp that glistened in the flat light. For a few hours, the cages hung entirely above the waterline. Inside them, the prisoners slumped against the bars in postures of absolute exhaustion.
+
+Some of them were still breathing.
+
+Some of them weren't moving enough for me to tell.
+
+I stood on the boulder with my arms outstretched and my body broken and I watched the sun trace its arc and I thought about nothing.
+
+The mind had stopped working. The serpent had stopped whispering. The calculations and the plans and the desperate arithmetic of survival had all ceased. What remained was the body and its stubborn refusal to quit.
+
+The tide returned.
+
+Again the water climbed. Again the cold pressed in. Again the rhythm of breathing between waves consumed everything.
+
+By evening, the water was at my chin again.
+
+The darkness was complete.
+
+I closed my eyes.
+
+Somewhere, in the black space behind my eyelids, I heard the ocean. Heard the chains. Heard the faint, distant sound that might have been crying from the cages.
+
+My consciousness began to thin.
+
+I tried to hold on.
+
+⌜ Initiating Curse ⌝
+
+⌜ Restarting Day ⌝

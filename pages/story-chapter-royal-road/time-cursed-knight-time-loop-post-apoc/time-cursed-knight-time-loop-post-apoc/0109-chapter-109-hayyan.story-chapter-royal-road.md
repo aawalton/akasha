@@ -1,0 +1,313 @@
+---
+id: 1958664d-5fb7-51e3-a55e-5b01026e757d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 109: Hayyan"
+slug: 0109-chapter-109-hayyan
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 109
+ownLength: 2857
+unit: words
+publishedAt: 2026-08-14
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3814332/chapter-109-hayyan"
+royalRoadId: "3814332"
+---
+
+Everything had gone to hell since the white-haired bastard showed up in Qalathar.
+
+Hayyan had told himself this so many times over the past months that the thought had worn a groove into his skull.
+
+Everything had gone to hell.
+
+Before, life had been simple.
+
+He'd lived in a pre-portal ruin in the deep eastern desert, in a building whose original purpose he'd never bothered to identify, surrounded by sand and silence.
+
+But it had been his.
+
+His crucibles. His distillation apparatus. His burners and reagent shelves and the long copper-topped bench where he'd spent twelve-hour days dissolving and recombining and pushing the boundaries of what organic compounds could do when you saturated them with mana at the molecular level. His sigil on every wax-stoppered vessel that left the building. His name whispered in certain circles in Qalathar and further north.
+
+He could come and go as he pleased. The caravans brought supplies twice a month, reagents he couldn't source in the desert, fresh water when the well ran low, and the occasional book from Qalathar's market district.
+
+The money was good. You didn't get rich selling Snow Dream from the middle of nowhere. Selim took his cut. The palace took its share. What remained was enough to keep the laboratory running and to fund the small, private projects that were the real reason Hayyan dragged himself out of bed each morning.
+
+The small projects. The beautiful, useless, dangerous ones.
+
+Compounds that had no market application and no military value and no purpose whatsoever except to answer the question of whether a thing could be done. Bioluminescent reagents that turned desert scorpions into living lanterns. An aerosol that dissolved sand into glass on contact, producing perfect transparent sheets the wind shattered by morning. A binding agent that fused mana to keratin so permanently that the treated hair glowed blue in the dark. He'd tested that one on himself.
+
+None of it mattered to anyone.
+
+All of it mattered to him.
+
+That was the life.
+
+Then a white-haired lunatic blew up Selim's warehouse, decapitated Selim, killed Rustem, scattered the distribution network across three quarters of the city, and in the span of a single evening erased the infrastructure that had taken Hayyan eleven years to build.
+
+The export pipeline was severed.
+
+Hayyan should have run. He knew that. He'd known it the moment the first caravan rider brought the news. He'd stood in his laboratory with the rider's words still ringing in the dusty air and his hands still stained with the residue of a batch he'd been curing for three days, and every instinct he'd honed across a career spent operating outside the law had screamed the same word.
+
+Run.
+
+He hadn't.
+
+Because where would he go?
+
+So he'd stayed.
+
+Sigrid.
+
+Hayyan didn't know her real name. He suspected Sigrid wasn't it. The woman who'd walked into his laboratory two weeks after Selim's death wore an Imperial uniform with insignia he didn't recognize, spoke Kumsuri with the accent of someone who'd learned it from a textbook rather than the street.
+
+She hadn't threatened him.
+
+Threats he could have handled. Threats were honest. A knife at the throat, a demand for cooperation, a clear exchange: your skills for your life. He'd dealt with that before. Selim had presented it to him eleven years ago in almost exactly those terms, and Hayyan had accepted because Selim, for all his bloated cruelty, had been a businessman. Businessmen were predictable. They wanted profit, and profit required a living alchemist.
+
+Sigrid wasn't a businesswoman.
+
+She was a believer.
+
+She'd sat across his bench on that first visit with her hands folded and her eyes bright and explained, in careful, measured sentences, what she wanted him to build. A new compound. A variant of Snow Dream with properties that the original formulation had never been designed to achieve.
+
+Control.
+
+A leash, Hayyan had thought, staring at the research notes she'd spread across his bench. She wants to build a chemical leash for Titans.
+
+He'd told her it was impossible.
+
+She'd smiled.
+
+Six days later, soldiers arrived, bringing the new factory.
+
+And the work.
+
+The endless, impossible, soul-corroding work.
+
+Thirty-two batches.
+
+Thirty-two variants, each one a refinement of the last, each one an attempt to thread a needle that kept moving.
+
+The compound needed to suppress aggression without suppressing motor function. It needed to dampen the Titan's will without destroying its capacity for directed action. It needed to create dependency without creating tolerance.
+
+Every time he solved one variable, another collapsed. Batch seven suppressed aggression beautifully but paralyzed the creature's hind legs. Batch twelve maintained motor function but induced a manic state that lasted four hours and left the soldiers bruised and terrified. Batch nineteen achieved perfect behavioral suppression for six continuous hours before the Titan's metabolism broke through and the compound's byproducts triggered a seizure that shook the building's foundations and cracked two of the anchor pads.
+
+Each failure meant weeks of reformulation. Each test meant risking the lives of every person in the building. Each morning Hayyan woke and walked to his bench and measured reagents and heated solutions and pushed the science further into territory no alchemist had ever mapped, and each evening he returned to his cot and lay in the dark and listened to the Titan breathe through the floor beneath him.
+
+The breathing was the worst.
+
+The breaths vibrated through the structure. Through his cot. Through his ribcage and his teeth and the thin membrane of his eardrums.
+
+Some of the soldiers had gone deaf in one ear from the sustained vibration. Hayyan's hearing held, but his sleep didn't. He hadn't slept through a full night since the third week.
+
+The creature's name, if it had one, was not spoken. The soldiers called it the asset. Sigrid called it nothing at all, referring to it only by the clinical abbreviation she used in her research notes.
+
+S-1, for Subject One, as though there might eventually be a Subject Two.
+
+Hayyan called it the wolf.
+
+Because it looked like a wolf. A wolf the size of a four-story building with three tails and teeth like pillars and eyes the color of wet amber, but a wolf nonetheless. And because calling it what it was, a Titan, one of the Eleven Sins, a creature whose species had brought continents to their knees, made the work harder.
+
+Maybe Sigrid's rhetoric made sense to the soldiers. The ones who patrolled the perimeter and manned the suppression staves and restocked the infusion vats without asking what the blue liquid was or where the waste went. They believed what they'd been told. Bring peace to humanity. Control & Coexistence. The moral framework of a woman who had convinced herself that chaining a god to a floor was an act of mercy.
+
+Hayyan didn't believe a word of it.
+
+He'd watched Sigrid's eyes during her speeches, the ones she delivered to the soldiers when rotation brought fresh personnel from wherever she sourced them. The rhetoric was polished. The cadence was warm. The vision she described, a world where Titans were friends rather than terrors, sounded almost noble if you didn't look too closely.
+
+But Hayyan looked.
+
+The gleam in her eyes when she spoke about control was not the gleam of a savior. It was the gleam of a woman who had found a lock she couldn't pick and had decided to burn the door down.
+
+Power, he thought. Dressed in a philosophy because naked ambition makes the soldiers nervous.
+
+The tremor interrupted their discussion.
+
+It came through the floor.
+
+The wolf was restless, and the tremors had been coming more frequently — closer together each time.
+
+The compound levels were dropping. The wolf's metabolism was adapting.
+
+Sigrid knew. She'd increased the infusion rate twice in the past week. The vats were emptying faster. Production was struggling to keep pace.
+
+And today, she'd decided, was the day she'd fix the problem.
+
+It was small. Ceramic, stoppered with wax. But the color was wrong.
+
+The liquid in Sigrid's vessel wasn't blue.
+
+It was red.
+
+A deep, saturated ruby.
+
+"Batch thirty-three," Sigrid said. "Ultra-concentrated mana binding."
+
+Hayyan stared at the vessel.
+
+"The mana density exceeded the saturation threshold," he said, his voice flat. "That's what caused the color shift. The compound's molecular structure reorganized around the excess energy."
+
+"I know what caused it." Sigrid's fingers rested on the vessel's curved surface. "The question is what it does."
+
+"We don't know what it does."
+
+"I know exactly what it does." Sigrid lifted the vessel. The ruby liquid shifted inside, thick and slow. "The creature's metabolism is outpacing the standard formulation. It devours the compound faster than we can produce it. That is the problem." She set the vessel down. "Batch thirty-three solves the problem. The mana density is high enough to satiate the hunger. The creature's body won't need to burn through the compound searching for what it craves, because it will already be there. Concentrated. Every milligram delivers what ten milligrams of the standard formula deliver." Her eyes found Hayyan's. "And because the system isn't fighting to extract what it needs, the narcotic agent remains intact longer."
+
+His hands went still.
+
+"No."
+
+Sigrid's gaze left the vessel and found his face.
+
+"Every variant needs a trial," she said. "This one more than the others. The behavioral suppression in batch thirty-two held for eight hours before degradation. If the increased mana density extends that window—"
+
+"If the increased mana density does anything at all to an organism we don't understand, on a nervous system we've barely mapped, using a compound whose interaction with Titan physiology we are still functionally guessing at—" Hayyan's voice climbed against his will. "You could kill it. You could lobotomize it. You could trigger a metabolic cascade that turns three hundred kilograms of concentrated narcotic solution into three hundred kilograms of poison circulating through a creature that is chained to the floor directly beneath where fifty people are working—"
+
+"Thirty-two trials," Sigrid said. "Thirty-two batches administered without a fatality."
+
+"Without a fatality so far."
+
+"Without a fatality," she repeated, as though the qualifier didn't exist. She picked up the vessel. "I'm not asking permission, Hayyan."
+
+The infusion rigs lined the chamber's perimeter. Four vats, each one the height of a man. Riveted copper, sealed with pressure gauges, connected to the creature by cables as thick as Hayyan's arm. The pumps worked continuously, their rhythm a mechanical heartbeat beneath the wolf's biological one.
+
+The liquid in the vats was blue.
+
+Sigrid descended the final steps and crossed the chamber floor without hesitation.
+
+She reached the nearest infusion rig and set the ruby vessel on the maintenance ledge beside the vat's input valve.
+
+Hayyan stopped six paces behind her.
+
+"Give me three days," he said. "Three days to run an isolated trial. I can draw a tissue sample from the secondary injection site and test the compound's interaction. If the binding profile is stable—"
+
+"Three days is three days the compound's effect on the existing batches continues to degrade." Sigrid unsealed the vessel. The wax came away cleanly. "We don't have three days."
+
+"Then give me three hours. Let me test—"
+
+"Hayyan." She didn't turn. "You are here because you are the best. That is the only reason you are still breathing." Her fingers found the input valve's release lever. "Trust your work."
+
+She poured.
+
+The ruby liquid slid from the vessel into the vat's input chamber with the viscosity of warm honey.
+
+The blue solution in the vat received the red like ink dropped into water. The color bloomed outward from the input point, spreading through the volume, and where the two compounds mixed the color wasn't purple, wasn't violet, wasn't any blend. It was red.
+
+Within thirty seconds, the entire vat had turned the color of dark blood.
+
+The pump cycled.
+
+The ruby solution entered the infusion cable.
+
+Hayyan watched it travel.
+
+The cable was translucent at the junction point where it connected to the vat's output manifold. He could see the liquid moving through it, a dark red thread pushing through the line, displacing the residual blue ahead of it, advancing toward the creature's body at the steady rate the pump maintained.
+
+Twenty seconds.
+
+The red reached the injection site on the wolf's right forelimb. The cable's clamp pressed the delivery tip flush against the skin beneath the fur, and the solution crossed the threshold from tube to tissue.
+
+Nothing happened.
+
+Five seconds.
+
+Ten.
+
+Hayyan's lungs ached. He realized he hadn't exhaled.
+
+Fifteen seconds.
+
+The wolf's eye opened.
+
+One eye. The left, facing the ceiling. The lid peeled back, and the amber iris beneath it was not amber anymore.
+
+The white of the sclera had gone red. The capillaries in the eye had dilated past any physiological norm, flooding the tissue with blood or with mana or with something that was neither and both.
+
+The pupil constricted to a vertical slit.
+
+"Something's wrong," Hayyan said.
+
+Sigrid was studying the eye. The gleam was there. The hunger.
+
+"It's adjusting," she said. "The nervous system is processing the new concentration. This is expected."
+
+"Expected?" Hayyan's voice cracked. "That pupil response isn't adjustment. That's distress. That's acute neurological overload—"
+
+"It's adjusting," Sigrid repeated.
+
+The wolf's right forelimb twitched.
+
+The movement traveled up the leg to the shoulder, where the mass of muscle that anchored the limb to the torso rippled beneath the dark fur like something alive moving under a blanket. The chains tightened. The anchor pad nearest the forelimb groaned.
+
+Then the second eye opened.
+
+Both eyes. Both bloodshot. Both fixed on the ceiling with the unblinking stare of a creature whose consciousness had been dragged upward through layers of narcotic sedation into something raw and immediate.
+
+The wolf began to rise.
+
+It was slow at first. The forelimbs extended. The chest lifted from the concrete. The skull, massive as a carriage, rose from the floor on a neck thick with bunched muscle, and the jaws opened.
+
+The sound that came out was not a roar.
+
+It was a vibration. A frequency that began in the creature's chest and radiated outward through the air and the stone and the steel and the bodies of every person in the chamber.
+
+The soldiers staggered. Two of them dropped to their knees. The suppression staves wavered, their crystal arrays flickering as the operators' concentration broke.
+
+"Increase suppression!" Sigrid's voice cut through the vibration. "Full output! All staves!"
+
+The soldiers obeyed. The staves steadied. The crystal arrays blazed with renewed energy, pouring dampening force into the creature's skull.
+
+It didn't matter.
+
+The wolf stood.
+
+The chains pulled taut. Steel screamed against stone. Three anchor pads cracked simultaneously, hairline fractures racing through the concrete in spiderwebs that reached the edges of each pad and kept going, spreading across the chamber floor in branching lines.
+
+Ruby veins were spreading across the wolf's skull.
+
+Hayyan saw them emerge beneath the dark fur, pulsing with each heartbeat.
+
+The wolf's body was absorbing the solution faster than the pump could deliver it.
+
+The mana density, Hayyan realized. The body heat and the creature's own mana output are breaking the binding structure apart and releasing the raw energy in an uncontrolled cascade—
+
+"Shut it down!" He was already moving. His legs carried him toward the nearest infusion rig before the decision reached his conscious mind. "Cut the feed! Switch back to the standard—"
+
+The impact caught him in the chest.
+
+A concussive blast of compressed air that lifted him off his feet and hurled him backward across the chamber. His spine hit the concrete wall. The breath left his lungs in a single violent exhalation. He slid down the wall and crumpled on the floor.
+
+He looked up through tears and saw Sigrid with her hand extended, her fingers still spread from the wind spell she'd thrown, her face illuminated by the ruby light of the wolf's pulsing veins.
+
+"The submission level is holding," she said. Her voice was steady. "The behavioral suppression threshold hasn't been breached. The physiological response is within parameters. It just needs more time. More of the formula. The system will stabilize—"
+
+"It won't—" Hayyan coughed. Blood in his mouth. "It won't stabilize, the compound is breaking down inside its body, the mana is releasing without the binding structure to contain it—"
+
+"More," Sigrid said to the nearest soldier. "Increase the infusion rate. All four rigs. Maximum output."
+
+The soldiers hesitated. Their faces were white.
+
+"Now!"
+
+One of them obeyed.
+
+The pumps surged. The mechanical heartbeat quickened, the rhythm climbing from its steady baseline.
+
+The wolf felt it.
+
+The skull swung down. The bloodshot amber eyes found Sigrid.
+
+And for one instant the creature looked at her with something that was not animal and not mindless and not drugged.
+
+It looked at her with rage.
+
+The roar came.
+
+The chains held for one more second.
+
+One second. The length of a heartbeat.
+
+This time, the anchor pads didn't just crack.
+
+They detonated.
+
+Eight simultaneous explosions of concrete and steel and runic inscription, each one sending fragments of stone and twisted iron across the chamber in radiating patterns.
+
+The Titan was free.

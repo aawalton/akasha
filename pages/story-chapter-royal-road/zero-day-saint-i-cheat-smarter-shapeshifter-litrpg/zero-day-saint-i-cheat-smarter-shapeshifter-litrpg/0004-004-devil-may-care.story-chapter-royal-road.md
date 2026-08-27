@@ -1,0 +1,130 @@
+---
+id: 2e7646ac-c97f-5ef7-adbe-326df0bbe0d3
+page-type-slug: story-chapter-royal-road
+title: "004 - Devil May Care"
+partOf: zero-day-saint-i-cheat-smarter-shapeshifter-litrpg
+position: 4
+ownLength: 1414
+unit: words
+publishedAt: 2026-05-01
+link: "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3340008/004-devil-may-care"
+royalRoadId: "3340008"
+---
+
+I trotted off the street into one of the narrower side alleys. The sensation of tearing through that hound's throat, the taste, the sound. I couldn't get it out of my head. My therapist had told me that I had an unhealthy tendency to bottle up emotions. And I really wanted to just curl up, scream, cry, weep, sleep. But that would disappoint Gabriel, and I could still feel that intense desire to not do that.
+
+["Where is my mind right now?"]
+
+Gabriel chuckled at the question. "That, too, is a complicated topic. Think of your mind as a spell that's in control of those shapes. But the connection goes both ways and the body still affects you back, through hormones and the like."
+
+There were less people outside than I had anticipated at this point. I could smell them, hiding in their homes.
+
+["Why did the question amuse you?"]
+
+"I've had charges with similar classes and abilities before. The earliest I remember this specific question coming up was the fourth day."
+
+The reply sounded like praise and thus I felt my tail wag. I couldn't wait for midnight, but right now this stupid shape was my best bet for survival.
+
+I crossed a corner and felt something wrong before I could put my finger, paw, on why. Down the alley there was a man, fiddling with the lock on a metal door. Did he not notice how menacing that building was? I prowled closer. There were pulsing red veins running over the brickwork. No, not veins. It looked like that glyph the demon had cursed me with but stretched out into long, jagged lines of text.
+
+The man wore a parka that had already seen better days, and he smelled of fear, blood, expensive cologne and gunpowder. Now closer, I could see that he was picking the lock. And that he had a shotgun slung over his shoulder. I switched my chat to 'Local'.
+
+["Hey, you. Don't go in there."]
+
+He ignored me and a moment later pulled the door open with a surprisingly light-hearted "Ha!".
+
+["STOP! DON'T!"]
+
+Shouldn't his guide be telling him about the chat? About profane spaces? He took a step toward the entrance and I tried to shout at him. Which ended up being a bark, given my current shape. Duh.
+
+He whipped around and pulled the gun up to his shoulder. Facing him up front, he looked nothing like I had expected. He was only in his early twenties, his soft-featured face looked like he smiled a lot. Long blonde hair was tied back into a ponytail and he wore a very well-fitting silken shirt and equally well-fitting leather pants.
+
+But also he had the barrel of a shotgun trained at my snout and a wild expression on his face. I figured my best move would be to lie down. I had forgotten I was still covered in that hound's ichor.
+
+He blinked, lowering the barrel a bit. "You're just a dog?"
+
+For simplicity's sake, I nodded. Or tried to. It was rather uncomfortable lying down like this.
+
+"Did you just… nod?"
+
+I nodded again.
+
+"What the hell."
+
+["Exactly, my friend. Now please read your goddamn chat."]
+
+I switched chats to 'Guides' again.
+
+["Why isn't his guide telling him about his chat?"]
+
+Gabriel sounded puzzled. "I honestly can't tell. They should have warned him about this space, too. It is rather obvious."
+
+I slowly crept closer, sticking low to the ground. Not wanting to give up on this form just yet, I had to resign to simpler communication.
+
+He fully lowered the gun and crouched down. "You don't mean to harm me, do you?"
+
+Dog people. If those hounds could disguise their true nature, how many people would just happily crouch down, putting their throats into very murderable distance, just because they were hard-wired to like dogs? I couldn't even blame them. I liked dogs, too.
+
+When he held out his hand for me to smell, I gently bit his sleeve and pulled him away. He straightened and pulled the arm away from me.
+
+"Sorry, boy, but I'm nearly out of shells and I'd like a reserve gun or two. I have no idea where your owners are, but sadly there is an Apocalypse going on, and monsters are roaming the streets."
+
+This was ridiculous. I gave a low growl. Before he could reply I heard noise. At first I thought it was another growl, but it was more of a buzzing sound. He heard it too, and we both frantically searched for a source as the sound grew louder. I looked up and saw a shadow descending from the sky. A massive swarm of something, coming right at us.
+
+I wish I could say I weighed the risk of ignoring Gabriel's warning about profane spaces versus the risk of getting eaten alive by a swarm of bugs. But I didn't. I had a visceral desire not to be in this alley anymore and slammed into the guy, driving us both inside, where he faceplanted onto the floor.
+
+I shifted back to my human form and slammed the door shut. The tiny impacts on the other side sounded like rain. But a bunch of them were already in with us, scarab-like bugs, but with very human faces. Screaming faces. I could hear their quiet screams as they crawled under my jacket. We tore off our jackets, frantically stomping and smashing the handful that had made it inside.
+
+"Hello, I'm Eve. We need to seal the building, before those things find their way in."
+
+He stared at me, slack-jawed. "You were a dog!"
+
+"Nothing to be offended by," I said, as I began looking through the small corridor. Two doors to each side, with one at the end opening to the front half of the building.
+
+"A boy dog, too!"
+
+I paused. "Wait, really?"
+
+"Yes, really. I'm Jamie. Why were you a dog, Eve?"
+
+"Why aren't you looking at your chat? Where is your guide? Do you not hear a voice in your head?"
+
+He looked at me like I was mad. No guide. No chat. Something was seriously wrong.
+
+"What is this building?" I asked.
+
+"Pawnshop. Figured I could arm up here."
+
+"Go to the front, fetch any coats or other fabric you can find, we need to hurry."
+
+A debuff appeared in my UI. 'Presence of the Damned'. Along with a new bar under my HP, instead of numbers I had those infernal glyphs. It began empty, but it started to slowly fill up.
+
+"Uh, Gabriel. What is that?"
+
+Jamie had headed down the corridor but paused. "It's Jamie, and what do you mean?"
+
+"Not talking to you, Jamie."
+
+"It's just the space messing with you," Gabriel said. "It probably isn't real. But the Blessing is vulnerable here. Hell can tamper with it. I'd say you shouldn't stay here, but you also really don't want to go outside right now. To stay perfectly safe you needed to fully avoid touching such a place. Now that you did, Hell has an in."
+
+Before I could ask her what that was supposed to mean, a sound from the other end of the hallway startled me. A person had entered from the other side. The sound was the spinning of the cylinder of the revolver in their hand.
+
+Could the chaos not give me a five-minute break?
+
+In one supernaturally swift motion, they lifted the pistol and pointed it right at Jamie's startled face.
+
+"Hey Eve. I'm Lucy, a new friend." They took a step forward and Jamie stepped half a step aside, giving me a clearer look. Raven-black hair in a pixie bob cut. Yellow eyes and a smile that revealed pointed teeth. Dressed in a slick suit, perfectly accentuating their hips, they were unfairly hot. In a cute way.
+
+If it weren't for the horns and bright red spade-tipped tail.
+
+To make matters worse, their introduction got transcribed into my 'Guides' channel. They were labeled as 'lucifer'. With a lower-case L.
+
+"Say, Eve, would you accept a deal with a devil? To save your new companion? Jamie, was it?"
+
+"What the—? Who are you? The hell I will."
+
+I immediately regretted the reply, as Jamie shot me a panicked look.
+
+Lucy's smile widened into a grin as they casually tossed the gun over their shoulder.
+
+"Wasn't loaded anyway. Just wanted to know what I'd be working with. Well done, Eve. Good principles. Let's seal this building, shall we?"

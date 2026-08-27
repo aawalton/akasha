@@ -1,0 +1,567 @@
+---
+id: 19623d75-f8c0-58a9-bee2-fddc8ef977e9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 108: Of Bigger Prey and Quicker Returns!"
+slug: 0109-chapter-108-of-bigger-prey-and-quicker-returns
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 109
+ownLength: 2228
+unit: words
+publishedAt: 2026-03-08
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3130813/chapter-108-of-bigger-prey-and-quicker-returns"
+royalRoadId: "3130813"
+---
+
+PoV Luna
+
+It turned out that Granidrakes were, surprisingly enough, not particularly resistant to speed.
+
+Or at least not to Apex Predator speed!
+
+…As Luna had just discovered.
+
+Very quickly.
+
+And very dizzily!
+
+Woo–
+
+The forest swam in her vision so much now!
+
+So weird! But funny too.
+
+She sat in the churned dirt for a moment, blinking slowly as the forest settled back into something resembling stable directions again. Leaves drifted lazily through the clearing.
+
+A set of System messages greeted Luna the moment the world stopped spinning.
+
+【Level Up: 1 → 2】
+
+【Intelligence +1 | Dexterity +1 | Strength +1】
+
+【Shadow Run Lv. 8 → Lv. 9】
+
+【Congratulations. Unbelievably, your strategy of “running directly through things at unreasonable speed” continues to produce results.】
+
+Luna blinked.
+
+“Rude.”
+
+But also good!
+
+Strong prey really was the bestest.
+
+It made the numbers happy!
+
+And happy numbers made Luna happy too!
+
+Yes.
+
+She sat down in the churned dirt for a moment and calmly licked blood from her paw.
+
+The memory of the ‘battle’ replayed in her head.
+
+The drake lifted its massive head just as she burst from the brush. Scales grinding as it tried to turn. Tried to react.
+
+The first breath of a roar starting to gather in its chest–
+
+And then–
+
+Boom!
+
+…And that was it!
+
+Luna didn’t know if she should be happy or disappointed.
+
+Also–!
+
+The impact had been…
+
+Messy.
+
+Very messy!
+
+Luna glanced down at herself.
+
+Blood was everywhere.
+
+But not hers!
+
+Drake blood and some barely identifiable pieces marred her fur now.
+
+Her nose wrinkled slightly.
+
+What was it the humans said?
+
+Ah, yes!
+
+“Live and learn.”
+
+She tilted her head thoughtfully.
+
+That was so silly! And sounded slow and boring.
+
+Didn’t even make much sense!
+
+Why live and learn?
+
+Why not just–
+
+“Zoom around and find out!”
+
+Yes!
+
+That was much better!
+
+Luna nodded proudly at her own frightening genius.
+
+Then padded over to the corpse.
+
+Most of the drake was actually intact.
+
+The head…
+
+Less so.
+
+But the body was beautiful!
+
+Intact!
+
+Thick muscle beneath layered scales. It spoke of strong prey, and promised tingly goodies! And it was big!
+
+She could have so much roast from this!
+
+Her Maw opened eagerly.
+
+Shadows slid outward hungrily, curling around the massive carcass. The body lifted slightly, then slipped smoothly into the waiting darkness.
+
+Perfect!
+
+Luna wagged her tail happily.
+
+Then she remembered something important!
+
+Her new shadow trick!
+
+She focused.
+
+Let the shadows flicker across her body, her fur, and even her head.
+
+A dark ripple rolled across her body, slipping under the worst of the gore. The blood and dirt she didn’t even realize had accumulated sloughed off bit by bit.
+
+It worked well.
+
+But Luna gave herself a good shake anyhow!
+
+Just to speed up the process a little bit.
+
+Blood droplets flew all over the place.
+
+Leaves, rocks, trees…
+
+And one very unfortunate mushroom.
+
+Ehehe!
+
+Now Luna was clean.
+
+She inspected her paws carefully.
+
+Much better.
+
+Then glanced around the forest clearing again.
+
+The scent of the drake still hung heavy in the air. Broken branches and torn earth showed exactly how far she had launched before the collision.
+
+That had been a good hit!
+
+Luna nodded once, satisfied.
+
+Right.
+
+Time to see what other big things were hiding around the Clickies territory!
+
+And with that thought, Luna bolted back into the forest.
+
+***
+
+The forest around the Ant-devastated area was full of interesting smells.
+
+Some of them were old, not worth pursuing.
+
+But others were new.
+
+And very promising!
+
+Luna slowed to a light trot as she moved through the forest, nose twitching while the scent trails sorted themselves out in her head. Ant pheromones still lingered across the ground in places, but they faded the farther she went.
+
+Other smells pushed through the gaps – they spoke of old musk, damp scales, hot iron-blood, fur, rot, sap.
+
+Lots of things lived out here.
+
+And some of them clearly were things that the Ants didn’t want to argue with!
+
+Or tried and failed!
+
+Luna liked that.
+
+It meant strong prey!
+
+And strong prey meant good hunting.
+
+She could almost taste those tasty future meals!
+
+Luna sped up a little at the very thought!
+
+It was time to check them out, one by one.
+
+Her paws carried her easily over the forest floor now. The ground changed constantly beneath her as her Skills made short work of distances that felt so huge not that long ago.
+
+But Luna was little Pup no longer!
+
+Hehe!
+
+She passed soft moss, damp soil, roots that curled around rocks, but her footing stayed sure no matter how slippery the ground. The shadows finding purchase for Luna without any effort now.
+
+The scents here tangled together in strange ways. Ant pheromones faded unevenly, thinning until other predators’ marks pushed through again.
+
+It felt like promised land!
+
+Good hunting land!
+
+The second monster she found tried to ambush her.
+
+【Enemy Identified: Mire Crawler, Bog-Burrowing Ambusher】
+
+The gall!
+
+A thick-bodied swamp crawler burst from a muddy hollow, jaws snapping sideways as its armored body lunged for her legs.
+
+It lasted for all of three seconds.
+
+Step aside, find throat to Bite, then Jump at it with all the force Luna could muster.
+
+Warm blood filled her mouth.
+
+And it was done!
+
+She shook her head once and spat a shard of its armored hide aside.
+
+“Too slow for Luna!”
+
+Her Maw opened and the corpse vanished neatly into shadow.
+
+Hehe!
+
+It felt easy.
+
+But nice! Harder than Ants, and Luna could feel the strength of that lunge.
+
+Time to find the next one!
+
+Luna hardly needed to search before it appeared.
+
+It ran the moment it saw her.
+
+Long legs. And fast.
+
+…But weak.
+
+【Enemy Identified: Longstride Forestrunner】
+
+It sprinted through brush in a desperate zigzag, crashing through young saplings as it fled.
+
+Luna watched it go for a moment.
+
+Then her grin widened.
+
+She was not one to refuse a challenge!
+
+And prey was still prey!
+
+“Okay.”
+
+She leaned forward.
+
+And leaned into the Run.
+
+The forest blurred.
+
+Roots flashed beneath her paws as she closed the distance in a heartbeat. Her jaws snapped shut around its spine with a clean crunch.
+
+And that was it.
+
+That one slid into the Maw as well.
+
+She stood, for a moment, to sniff out next prey–
+
+And then Luna was off again!
+
+***
+
+Two more monsters fell over the next stretch of forest.
+
+【Enemy Identified: Thornhide Stonehorn, Ridge-Back Brute】
+
+It fought hard. Thick and thorny hide, head with a spiky big horn hidden between stubby arms, stubborn enough that Luna had to circle it twice before finding the right angle to bite through its defenses.
+
+It tasted tingly enough though!
+
+Its enraged mate fell in much the same way.
+
+More meat for the Maw!
+
+Her shadow storage swallowed the corpses eagerly, the darkness shifting and folding as it made room for more.
+
+It wasn’t much, but it was honest hunting!
+
+And–
+
+Luna kind of liked how varied the different hunts were.
+
+They had her paws itching for more!
+
+Each just different enough to require Luna to think before she struck.
+
+It felt nice, almost like scritches!
+
+Except thought scritches?
+
+Uhh.
+
+Luna tried to think of how to call that sensation…
+
+And failed.
+
+Then–
+
+Failed again!
+
+She shrugged.
+
+It made her happy and that was it!
+
+And then–
+
+Finally!
+
+She smelled – and found! – something interesting.
+
+A huge armored lizard sprawled across a patch of sun-warmed stone.
+
+【Enemy Identified: Basaltback, Iron-Plated Titan】
+
+Its body looked carved from layered plates of metal. Each scale overlapped the next like fitted armor, dull and heavy. The creature’s tail stretched long behind it, thick enough to break bones with a single swing. Even its skull carried reinforced ridges.
+
+For a regular adventurer party, those lizards were very difficult to kill via normal means. Easy enough to run away from though!
+
+Those lizards were veritable moving bastions – with but one glaring weakness, their soft unprotected belly.
+
+And if a party of adventurers knew about it, the hunt became simple. The goal was to destabilize the creature – force it to roll, stagger, or expose the underside. Once the belly showed, a single good spear thrust could end the fight quickly.
+
+Without that trick, the battle could drag on and on.
+
+The beasts could endure a lot of punishment while slowly crushing anyone who got careless enough to get close. Fearsome foes for all but a few.
+
+A full power zoom to the face seemed to do the trick for Luna just fine though!
+
+Her jaws punched through the armored skull with a wet crack that echoed across the clearing.
+
+The entire creature collapsed before it could even finish rising.
+
+Luna skidded to a stop a few strides past the body.
+
+She turned, and her tail wagged happily at yet another great hunt!
+
+Ehehe!
+
+More meat for the Maw!
+
+Her Maw opened and the massive corpse slid smoothly into shadow storage.
+
+【Level Up: 2 → 3】
+
+【Intelligence +1 | Strength +2】
+
+【Reaper’s Pass Lv. 3 → Lv. 4】
+
+【You continue to ignore monster weaknesses in favor of blunt-force experimentation. Results remain… annoyingly successful.】
+
+Luna puffed up proudly.
+
+“Hurr-harrum! Silly System! That’s the awoo-right of the forest that Luna does great!”
+
+It’s what Apex Predators were all about!
+
+She bounded up onto a fallen log and balanced easily along its length.
+
+From here the forest spread wide around her.
+
+The sun was already dipping lower, golden light slanting between the trees and catching the drifting dust in warm beams.
+
+She had run almost the entire perimeter now.
+
+Almost!
+
+There was just a little more left.
+
+Her tail flicked once.
+
+Then–
+
+Luna better go to collect the remaining Clickies!
+
+***
+
+PoV Ferric
+
+Since Luna had started dragging all those Ants toward them…
+
+Things had been busy.
+
+Very busy.
+
+Ferric wiped sweat from his forehead with the back of his wrist and stretched his old bones for a moment, letting his shoulders relax and drop. His arms burned from hours of steady fighting, even if he only needed to join the fighting every so often.
+
+But there were a lot of Ants.
+
+More than anyone had hoped, but fewer than even mildly dangerous scenarios.
+
+Thank the heavens for that, he supposed.
+
+But it also meant he couldn’t have left the fighting to others entirely.
+
+Wave after wave of them were led out of the forest in angry streams. Mixed together in frantic, half-organized clusters that charged straight into the clearing.
+
+Which meant one thing, really.
+
+A lot of fighting.
+
+And a lot of exhausted adventurers.
+
+The ground around their temporary camp looked like a battlefield that just refused to end. Broken chitin littered the grass in uneven piles. Acid scorch marks pocked the dirt where the Ants were smart enough to use it. A few shields leaned abandoned here and there while their owners took desperately needed breaths.
+
+He was getting a little too old for all of this, no matter what Syliana said.
+
+But then again…
+
+Those sort of battles were never easy.
+
+And even some of the stronger fighters were breathing heavily now.
+
+The last wave finally collapsed under a storm of blades and spells.
+
+And relative silence settled over the camp.
+
+At first, just for a moment.
+
+But as time passed, and people slowly recovered, a worry gnawed at him.
+
+Ferric straightened slowly and scanned the treeline.
+
+Still no Luna.
+
+He frowned.
+
+Had something happened?
+
+Or had she simply wandered farther than expected?
+
+His gut tried to offer an answer.
+
+But it was… unhelpful.
+
+It usually was.
+
+But if Syliana wasn’t worried, then he would simply need to be patient–
+
+A quiet tapping sound reached him.
+
+Tap.
+
+Tap.
+
+Tap.
+
+Ferric glanced sideways.
+
+Syliana stood a short distance away, staff planted lightly in the dirt as she tapped its end against the ground in a steady rhythm.
+
+Tap.
+
+Tap.
+
+Tap.
+
+Ferric raised an eyebrow.
+
+Okay.
+
+Maybe she was a little worried then.
+
+“Concerned?” he asked casually.
+
+Syl glanced toward the forest again.
+
+“...A little.”
+
+Tap.
+
+“But not worried.”
+
+Trianna snorted from where she sat on a rock, checking on her remaining arrows with slow, methodical care.
+
+“That girl could probably trip over a dragon and come back with its tail.”
+
+Ray chuckled.
+
+“Or eat it.”
+
+Sepio sighed tiredly and wiped chitin from his spearhead.
+
+“Please don’t jinx us.”
+
+Ferric opened his mouth to join in on the banter–
+
+Then someone near the perimeter shouted.
+
+“There!”
+
+Every head turned toward the forest.
+
+The treeline exploded with movement.
+
+A familiar silver blur shot between the trunks, weaving through the brush at terrifying speed.
+
+And behind it–
+
+Was a little army of very loud and displeased Ants.
+
+Ferric laughed.
+
+Of course.
+
+Of course she was leading another surge at them.
+
+Luna skidded to a stop next to them, boots digging into the churned dirt as she spun around with a bright grin.
+
+She waved enthusiastically.
+
+“Hi hi! Luna brought clickies for everyone!”
+
+Behind her the forest erupted with angry mandibles and clattering chitin as the pursuing swarm burst from the trees.
+
+Ferric straightened with a grin and rolled his shoulders once more.
+
+“Well.”
+
+He lifted his weapon.
+
+“Guess break time is over.”
+
+He glanced over the assembled adventurers.
+
+“Alright people!”
+
+The ants poured into the clearing in a black tide.
+
+“Let’s get back to work!”

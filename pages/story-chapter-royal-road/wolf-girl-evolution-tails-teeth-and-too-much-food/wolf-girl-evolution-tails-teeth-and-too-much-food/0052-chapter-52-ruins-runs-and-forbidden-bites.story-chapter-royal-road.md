@@ -1,0 +1,321 @@
+---
+id: 4d7bed69-73b5-57b5-9df0-a05f7776070c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 52: Ruins, Runs, and Forbidden Bites"
+slug: 0052-chapter-52-ruins-runs-and-forbidden-bites
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 52
+ownLength: 1603
+unit: words
+publishedAt: 2025-10-15
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2679176/chapter-52-ruins-runs-and-forbidden-bites"
+royalRoadId: "2679176"
+---
+
+PoV Luna
+
+Luna had been sat down.
+
+Firmly.
+
+And got completely surrounded!
+
+The entire pack ringed her like she was a ticking trap! Though in their defense, she probably was.
+
+Syl took the lead, calm voice carrying the weight of a Second who had seen this exact conversation far too many times.
+
+“Luna, listen carefully. You are not to bite anything inside the ruins. That Lich Phylactery was one thing, and it could have ended badly too! So do not bite anything weird or shiny we might find. Do you understand?”
+
+Luna blinked innocently, thoroughly unconvinced.
+
+“No bites?”
+
+“None.”
+
+“Not even if it looks crunchy?”
+
+“Especially if it looks crunchy,” Trianna said, crossing her arms with the smug patience of someone who had expected this exact response and prepared for it.
+
+Luna’s tail flicked.
+
+“But what if it smells spicy?”
+
+“No bites.”
+
+“But what if it moves weird?”
+
+“No.”
+
+“But–”
+
+Sepio didn’t even look up from tightening his gauntlet.
+
+“Or no soup today.”
+
+Luna froze mid-word.
+
+Her pupils widened in raw, primal terror.
+
+“No… soup?”
+
+Trianna smiled sweetly.
+
+“Or jerky.”
+
+The camp went quiet.
+
+A single, stunned heartbeat later, Luna’s ears shot up, her fur bristling with outrage.
+
+“What! That threat illegal! Against hunt laws!”
+
+Not that hunt laws existed. Luna just made them up!
+
+Ray leaned against a log, smirking.
+
+“Consider it an incentive.”
+
+She growled under her breath. Her tail lashed once, then twice, then stopped. Calculations occurred. Jerky denial was unthinkable. Soup deprivation – unsurvivable!
+
+At last, Luna crossed her arms and squinted at the group, voice low and dangerous.
+
+“...Give jerky now, or Luna bites.”
+
+Silence. Then Trianna laughed so hard she nearly fell over. Syl groaned into her hands. Veric muttered something about “passable negotiation tactics.”
+
+Ray, however, seemed fully prepared for this. He simply reached into his pack and tossed her a small pouch.
+
+“Advance payment. Try not to bankrupt us!”
+
+Luna snatched it midair, eyes gleaming. The pouch rattled with promise, and smelled even better too! She grinned wide, all teeth and triumph.
+
+“Deal accepted.”
+
+Jerky for restraint. No crunchy ruin-bites. For now. A fair, noble, and highly strategic arrangement!
+
+She started rummaging through the pouch happily, and had a piece of jerky to nibble at in no time flat. Spice-satisfied, she rose to her full, wolfish height.
+
+“Luna ready!”
+
+Syl exhaled long through her nose, her patience getting tested far too often as of late.
+
+“Of course you are.”
+
+“Saints help the ruins,” chuckled Trianna.
+
+“They won’t survive,” Veric muttered out.
+
+Luna puffed her chest and wagged her tail once, full of pride.
+
+“Ruins lucky Luna not hungry yet!”
+
+That earned her another round of laughter, though she wasn’t sure why.
+
+Fine. Let them laugh! The pack could have their weird rules. She had jerky already! They wouldn’t steal it now! And Luna had a very clear plan.
+
+No crunchy ruin-bites, yes.
+
+Unless they really smelled spicy.
+
+Then maybe a nibble.
+
+Just a small one!
+
+***
+
+The road back to the ruins was a tragedy.
+
+No running. No monsters. Not even any shiny magic explosions!
+
+Just walking. Step, step, step.
+
+Soooo slow!
+
+By the fifth minute, Luna’s ears drooped halfway down her head.
+
+“Why not run?” she finally burst out, tail twitching with outrage. “Luna smells nothing dangerous! Except Ray’s boots. They smell dangerous.”
+
+Ray shot her a glare over his shoulder.
+
+“They’re made of leather, wolf-girl.”
+
+“Dead thing smell,” Luna replied flatly.
+
+“Because we’re conserving stamina,” Sepio said, the very picture of confidence as always.
+
+Luna perked up instantly.
+
+“Luna has stamina! Big stamina!”
+
+Before anyone could object, she started to bounce ahead on her toes, a blur of silver and smug energy.
+
+“Fast fast fast!”
+
+Trianna chuckled under her breath.
+
+“There she goes.”
+
+Syl sighed.
+
+“There she goes.”
+
+Veric muttered, “There she goes,” and Ray snorted, “Wolf stamina potion on legs.”
+
+Then, mid-leap–
+
+Pop.
+
+The shimmer vanished.
+
+The magic thinned around her, moonlight flickering out in an instant. Her paws hit the dirt instead of feet. Ears shot tall. And tail bristled in confusion.
+
+Luna blinked once. Then twice. She was back on four legs again, her shirt and bag of jerky falling to the side.
+
+Her human form had fled!
+
+The laughter arrived immediately.
+
+“Oh no,” Trianna teased, hand to her mouth, “our mighty guide shrunk again.”
+
+Ray wheezed into his sleeve. Veric leaned against a tree to stay upright. Even Syl’s mouth twitched, dangerously close to a smile.
+
+Luna’s tail froze mid-swish.
+
+Her Second was at least nice enough to help her with the clothes thingy. And jerky bag!
+
+“...I will hold onto this for now.”
+
+But that changed nothing! Luna turned her head slowly, fixing them with a glare of utter betrayal.
+
+“Luna only helping! Pack needs to run faster, bite harder, chew better! You laugh at training!”
+
+That made them laugh harder. They might have had no clue what she was saying now, but the sheer emotions on display made it impossible not to guess.
+
+Ray doubled over. Trianna wiped tears from her eyes. Veric was making dying noises.
+
+Syl tried to speak through her composure.
+
+“No one’s laughing at you, Luna. We–”
+
+But Luna had already puffed up to her full wolf height. Ears tall. Fur majestic. Tail wagging with stubborn pride.
+
+“Luna will lead,” she declared.
+
+Sepio opened his mouth.
+
+“We can’t understand you now–”
+
+Too late.
+
+With a proud bark and one mighty wag, Luna bolted ahead! Her paws dug into the earth, dirt flying in her wake. She was a silver streak through the trees, darting between roots and rocks, wind whipping her fur.
+
+The trail came alive under her claws – scents sharp, earth cool, the horizon wide open and free.
+
+Behind her came the faint shouts.
+
+“Luna! Wait! You’re going the wrong way!”
+
+She barked back once – mocking, cheerful, unstoppable.
+
+The pack could laugh all they wanted. Slow dum-dums. Two-legs always needed reminders.
+
+She would scout ahead! Then hunt first!
+
+And she would find the ruins again before them all!
+
+Her tail whipped through the air in victory as she vanished down the path, running fast, faster, fastest!
+
+Fast as howl. Fast as thought! Luna ran.
+
+Wind rushed through her fur, dirt flew beneath her paws, and the forest blurred into streaks of green and gray. She darted ahead, then circled back, then looped around again!
+
+All because her dum-dum pack was so slow.
+
+Every few breaths she glanced over her shoulder. Still far behind. Two-legs stumbling, clanking, breathing heavy.
+
+“What the chew,” she muttered, half-growl, half-laugh.
+
+In the end Luna just ran ahead. The slow-dums would arrive at their own pace.
+
+Luna would rather explore some more!
+
+And as she approached the ruins… the scent changed.
+
+Old stone. Dry moss. Rust. The ruins rose ahead, sprawling and immense, half-swallowed by trees. Broken arches reached toward the clouds like ribs of a sleeping beast. The air around them buzzed faintly, mana whispering across cracks.
+
+Luna slowed. Her paws touched the first of the worn steps. Smooth. Cool. Tasted faintly of dust when she gave it an experimental lick. Not crunchy.
+
+Disappointing!
+
+She sighed.
+
+“No bites. Promise bites later.”
+
+Still, her chest tightened in a way she couldn’t name. The old corrupted part had only been one small corner. This – this was huge. Triangular doorways. Circles carved in rings within rings. Thin metal veins glinting beneath moss, faintly humming.
+
+Syl had explained this before. Something about “artefacts that touched the world’s bones.” About mana running through stone like blood through veins.
+
+Luna hadn’t understood most of it. But she had understood one thing!
+
+It all looked tasty. But smelled boring!
+
+And her pack was still not here!
+
+And Luna would not wait!
+
+She ran along the huge ruins in wide, silent bounds, nose to the wind, tail low, every sense sharp. Her nose mapped the air – moss, stone, bird, damp. All normal.
+
+Until it wasn’t.
+
+Her ears twitched.
+
+A low rumble trembled through the ground. The scent hit next – wet earth, wrong-hide, blood turned to mud. Her tail stilled. Her hackles rose.
+
+Big. Heavy. Hungry.
+
+No frog, nor tree-thing. And no ogre either. New ugly!
+
+The ground cracked as it stepped into view: long limbs bent backward, fanged jaw dripping sludge, eyes like pits of smoke. And it immediately tried to take a swipe at her!
+
+【Enemy Detected: Hollowfang Devourer】
+
+Luna grinned.
+
+“Whoops.”
+
+The word barely left her mouth before she vanished. Shadow folded over her fur, soft and cool. The beast’s snout swung her way, sniffing at empty air.
+
+It lumbered closer. Its claws scraped stone. Its teeth clacked.
+
+Luna crouched in the shadows, grin wide, heart thudding with excitement.
+
+Not too big. Not too clever.
+
+Perfect size for biting!
+
+She crept forward, one paw after another. The wind held still.
+
+One step. Two.
+
+Then she blinked through the shadows right under it and struck!
+
+Claws flashed. Teeth tore at the throat. A wet crunch followed!
+
+【Shadowmeld Lv.5 → Lv.6】【Bite Lv.12 → Lv.13】
+
+Silence again.
+
+Luna stood over the fading corpse, chest rising with quick, satisfied breaths. The meat wasn’t perfect – too lean, a little bitter – but better than frog!
+
+Strong meat really tasted better!
+
+She tore off a strip anyway. Chewed thoughtfully.
+
+“Would be better with spice,” she muttered, licking her muzzle. “Everything better with spice.”
+
+The moon’s glow above had thinned to a pale memory. Her time was short, pack should be getting back soon!
+
+She licked her paw clean, tail swaying lazily, and turned toward the trail.
+
+Her dum-dum pack still needed their scout.
+
+And maybe, this time, she could convince them to run!

@@ -1,0 +1,403 @@
+---
+id: f9fa1a9b-59a2-54c1-9f5e-5fe0634a967e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 81: Of Sandwich, Trade, and One Speedy Gambit"
+slug: 0082-chapter-81-of-sandwich-trade-and-one-speedy-gambit
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 82
+ownLength: 1888
+unit: words
+publishedAt: 2025-12-29
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2891077/chapter-81-of-sandwich-trade-and-one-speedy-gambit"
+royalRoadId: "2891077"
+---
+
+PoV Syliana
+
+The road out of Altracia began where the stone gave way to dirt and the tall grasses started to sway. The sun hung lazy above the rooftops. Market bells chimed once, far behind them.
+
+The party stood waiting at the edge of the last cobbled street. Boots ready. Packs light. Air clean.
+
+Syl glanced left. Glanced right.
+
+Then slowly turned around.
+
+“…Where is Luna?”
+
+Ray squinted toward the gate.
+
+“She was literally here. Like. Right there.”
+
+Trianna tapped her chin.
+
+“I saw a blur heading that way. Might’ve been Luna. Perhaps heading towards a rogue meat pie.”
+
+Sepio groaned.
+
+“She wandered off again.”
+
+Veric was already stepping back toward town.
+
+“I’ll check.”
+
+“No need,” Syl said with a sigh born of long-suffering grace. “We follow the trail of breadcrumbs. Or whatever she bartered this time.”
+
+***
+
+PoV Luna:
+
+At the eastern gate, beneath the shade of a crooked post where morning cooled the stones just enough to sit comfortably, Luna was cross-legged on the ground, completely absorbed.
+
+Her eyes sparkled like treasure. Her tail swayed in the spirit realm. Her hands were very, very full.
+
+“Luna sees now,” she declared, voice serious and reverent. “You put food between bread. But also… on bread. Or beside bread! Sandwich is not one thing. It is… idea!”
+
+Derek, Sandwich Giver Supreme, finished slicing a tomato with theatrical flourish.
+
+“That’s the spirit. Sandwich is the story you tell with ingredients.”
+
+Luna gasped.
+
+“Is story… you eat?”
+
+“Exactly.”
+
+Luna’s head tilted.
+
+“Then what is crust? The enemy?”
+
+“No,” Derek said solemnly, laying down a perfectly crisped strip of bacon. “Crust is the journey. Sometimes hard. Sometimes chewy. But without it there is no frame. No structure. Nothing to hold your meat or cheese.”
+
+Luna’s eyes widened with understanding.
+
+“Ah. Sandwich is like battle.”
+
+“Or love.”
+
+“Or nap.”
+
+“Or breakfast.”
+
+“Or life.”
+
+They stared at the sandwich reverently together.
+
+Then Luna did what Luna does best.
+
+What worked on every human so far!
+
+Withdrawing another piece of roast Granidrake from her Maw, she extended it with both hands.
+
+“Luna offers trade!”
+
+Derek accepted it with grace befitting a king. In return, he offered half a sandwich, neatly wrapped in waxed parchment and still warm.
+
+“I accept the ancient rite.”
+
+Worked like a charm!
+
+Luna bit. Chewed. A soft sound escaped her throat.
+
+Delight. Peace. Cosmic understanding!
+
+Though could use some more strong meat!
+
+“Mmmm… best human. New most favoritest human. Right after pack! And proper humans!”
+
+Derek grinned.
+
+“Careful. That kind of talk will get you in trouble with your team.”
+
+“Pack not here. They slow. Luna fast!”
+
+A flicker of shadow rippled beneath her.
+
+And she was gone.
+
+***
+
+The party jolted slightly as a shadow unfurled beside them – it was just too sudden not to, even if it was somewhat expected.
+
+Luna reappeared mid-bite, sandwich in hand, humming softly through her nose.
+
+“Luna ready!” she said, mouth full. “What are we waiting for?”
+
+Syl didn’t even blink.
+
+“...For you. We’re waiting for you Luna. Let me guess. You went to get a sandwich?”
+
+“Mhm!” Luna nodded proudly. “Bread pouch full of meaning!”
+
+Trianna peered closer, leaning in.
+
+“Did you at least trade for it?”
+
+“Yes. Meat for sandwich. Very proper! Luna is diplomat now!”
+
+Syl sighed into her palm.
+
+“One day,” she muttered, “I want to leave a town without needing to apologize to a food vendor.”
+
+“Derek not vendor, Derek Sandwich Guard!”
+
+Ray tucked his map away.
+
+“Right, that actually sounds even worse. You sure we’re not about to get jailed?”
+
+Luna tilted her head at the unfamiliar word – then tore another bite with reverence. Why ask about silly human words when there were tasty goodies to consume?
+
+Eating was so much better!
+
+“Sandwich is friendship made edible,” she mumbled out instead.
+
+Ray simply shook his head, and Veric looked faintly amused.
+
+While others were already walking.
+
+There was no stopping Luna after all, so why not just go?
+
+It would be okay.
+
+Probably.
+
+The road ahead opened wide into fields of wind-brushed gold. Quest parchments were tucked in Syl’s bag, light and simple – weed clearings, pest deterring, herb harvesting, simple monster culling.
+
+Work that was ever aplenty and always needed doing.
+
+There were certainly more ‘worthy’ quests out there. And Syliana was certain Luna would be able to handle them without any problems too…
+
+But she felt her little friend needed to start simple.
+
+To get her accustomed to how things work.
+
+…Though she had a feeling Luna would find a way to make even those sorts of quests memorable. And she was eager to learn how.
+
+Syl smiled at the very thought.
+
+***
+
+Behind them, Altracia buzzed with breakfast and routine.
+
+Beside them, Luna hummed.
+
+“Luna likes human hives,” she declared. “So much food! Plenty of fun! And there even are snacks!”
+
+Ray laughed.
+
+“That’s one way to see it.”
+
+“Is only way!”
+
+They stepped off the stone and onto the dirt path. Grass whispered against their legs. Bugs chirped in the distance, while a breeze carried the smell of wildflower and sun-baked wood.
+
+Luna skipped ahead with the sandwich still in hand, tail wagging as she munched.
+
+Trianna nudged Ray gently.
+
+“Wanna bet she’s gonna try and trade with a scarecrow next?”
+
+“...I don’t take potentially losing bets.”
+
+“Heeeh– You’re no fun.”
+
+Syliana ignored the two bickering, opting for watching Luna twirl through the grass like the world owed her a dance instead.
+
+But the question she still mulled over.
+
+“Let her try,” Syl said finally, not caring if the two listened.
+
+“It’s a good day for learning.”
+
+***
+
+The grass was springy. The air was tasty. The sky was too bright to stare at, but Luna tried anyway – then sneezed.
+
+Good start to the day!
+
+She crouched low, nose twitching, tail wagging hard. Somewhere behind her, Syl was talking about “assignment structure” and “regional maps” and “distribution logic.”
+
+All very Second-y things!
+
+All very boring.
+
+Luna tuned in for the key phrases.
+
+“…herb gathering, pest control, light patrol,” Syl said.
+
+Luna’s ears perked.
+
+So. Hunting!
+
+With a happy yip, she bounced twice in place to calibrate her limbs.
+
+Syl wasn’t done yet.
+
+“The targets are mostly Rootfangs, Tunnel Rats, and Horned Rabbits–”
+
+Knowing what to hunt was enough for Luna!
+
+Sure, she didn’t quite know what Rootfangs looked like, but Luna would chew through that problem when she found it!
+
+“Luna ready!”
+
+Dust kicked up in a puff as she launched forward.
+
+“Wait– Luna!” Syl called out.
+
+Too late! Waiting time was over!
+
+It was time to hunt!
+
+The world blurred into motion. Dirt paths turned into soft streaks beneath her toes. Shadow Run flared beneath her feet with each leap, and Shadowmeld surged up whenever her momentum wanted more.
+
+Luna was on the prowl now!
+
+And everything about it felt right.
+
+The first Rootfang never saw her coming. The weird thing poked out of a bush, leafy ears twitching, fangs made of twisted wood at the ready – and got bitten in twain with a startled squeal and a satisfying chomp.
+
+“Mmmm. Crunchy plant-meat.”
+
+She chewed once, twice.
+
+“...But weak and bleh tasting!”
+
+She found the second as it tried to dig, but her paw-hand scooped it up mid-scramble.
+
+“Not escaping Luna!” she declared, struck, and it was gone too.
+
+This one went into the Maw.
+
+Weak bleh plant meat was for weak prey!
+
+Weak prey was for strong prey!
+
+And Luna would hunt strong prey to eat! It tasted best!
+
+Though that wouldn’t stop her from chomping the next weird new thing!
+
+Who knew – maybe some weak meat tasted good?
+
+Luna didn’t know!
+
+So Luna gotta catch them all!
+
+She ran, leapt, rolled, flipped over a stone, spotted three more, and crashed into them paws-hands-first. A glorious mess of Luna and leafy limbs flew in every direction before getting swallowed into her Maw.
+
+The sky spun briefly. Luna cackled.
+
+Fun!
+
+Zooming was fun.
+
+Catching was fun.
+
+Chomping was the most fun.
+
+And best of all – no carrying needed! The Maw took it all!
+
+She flicked her wrist, summoned the swirling pocket, tossed in another one.
+
+“Maw perfect snack box!”
+
+Run and bounce!
+
+Slide, Claw, Chomp, and Strike!
+
+Store and Repeat!
+
+The rhythm flowed like a dance she didn’t know she knew.
+
+Each movement was tighter than the last.
+
+Each step of hers better balanced.
+
+Each leap, a tiny celebration.
+
+And she learned how to hunt in her human form.
+
+She darted around a patch of mushrooms, paused mid-air sniff, landed nose-first, sneezed again, and pounced a hidden Rootfang that had the audacity to yawn in her general direction.
+
+“Disrespectful prey!”
+
+Into the Maw you go!
+
+It didn’t take Luna too long to find all the weird planty prey Syl vaguely gestured at. Not when she could sniff out the next one and zoomed in on them in a literal whiff!
+
+And soon Luna was…
+
+Done!
+
+No new smells to find. Nothing tickled her nose.
+
+Nodding to herself, Luna turned with a final spin, and launched herself back toward the others.
+
+The world slowed as she neared the party again – dust on boots, gear on backs, faint scent of boredom.
+
+She skidded to a halt and dumped a small pile of monster bits in front of them with a proud grin.
+
+“Here! Luna hunted all of those there!”
+
+She pointed at her zooming grounds. Looked back at her pack.
+
+They stared.
+
+She stared. Stepped from one foot to the other. Then decided to add.
+
+“Not squished too bad!”
+
+…for good measure.
+
+And then she was gone again, in the other vague direction Second pointed at!
+
+“...Did she just say not squished too bad?” Ray asked.
+
+“Well, would ya look at that, Rootfangs exterminated. Should we inspect that?” Trianna muttered, poking the pile with a stick.
+
+Veric stared off into the distance.
+
+“She’s hit the far fence already. And hopped on beyond.”
+
+“She what?” Sepio frowned.
+
+“That’s at least a kilometer out!” Trianna said.
+
+Ray sighed.
+
+“She’s going to finish every single objective in under an hour. Maybe two. There goes my evil plan to laze about while she bleeds off all her energy out there.”
+
+Syl’s arms crossed slowly.
+
+“She’s having fun. Let her run. And it’s a good time to train too. Look at Veric, he’s stretching already.”
+
+Another pop echoed.
+
+Another pile appeared behind them.
+
+“Luna done with those!” her voice rang out over the field. “Now gonna try something new!”
+
+Syl froze.
+
+“...Define new, please.”
+
+But Luna was already gone again, leaving Syl standing there awkwardly with an outstretched hand.
+
+“What, you trying to stop the Wildling from being wild now, Syl?” Trianna was happy to tease her straight away.
+
+Something glinted and Syl saw Ray separating Sepio from his coin. When did he even manage to find the time to bet…?
+
+And Veric was already in practice mode.
+
+Well, worrying would get her nowhere.
+
+Syliana clasped her staff, a new glint in her eyes – but now directed at her party. They want to laugh and bet at her?
+
+So be it.
+
+“Yes. I think training will do us good. Get ready, I’m coming.”
+
+“Uh oh,” was all Trianna managed before being forced to bolt.
+
+Syliana smiled, readying another Mana Bolt to harass Trianna and Ray with.
+
+The day looked quite fine indeed.

@@ -1,0 +1,265 @@
+---
+id: 7bf2023a-747e-5498-9f1f-5f9137beed86
+page-type-slug: story-chapter-royal-road
+title: "Chapter 111: Field Test"
+slug: 0111-chapter-111-field-test
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 111
+ownLength: 2098
+unit: words
+publishedAt: 2026-08-18
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3831150/chapter-111-field-test"
+royalRoadId: "3831150"
+---
+
+The chamber went still for three seconds.
+
+Three seconds of silence while Sigrid's blood spread across the concrete. Every living person in the room existed in the gap between one heartbeat and the next.
+
+I drew the pistol.
+
+The Officer's Model came out of the holster smooth and fast, the ironwood grip settling into my palm with the familiar weight of something built to kill. My thumb found the crystal housing's slide plate and clicked it to the active position. The Grade B stone inside pulsed once as the circuit completed.
+
+The wolf's skull was directly below me. Thirty meters. Within the weapon's effective range.
+
+I sighted along the rail. The wolf's left eye, bloodshot and amber and burning with a fury that had outlived months of drugged captivity.
+
+I fired.
+
+The crack split the chamber. The pale blue streak connected the barrel to the wolf's skull faster than sight could follow. The copper ball struck two centimeters above the orbital ridge, where the bone was thickest, where the fur lay in a dense mat over skin like boiled leather.
+
+The ball punched through.
+
+Not deep enough.
+
+But it broke the skin. It split the fur and the hide beneath and buried itself a finger's width into the bone, and when it stopped, a wound opened that wept black blood in a thick line down the creature's brow.
+
+The wolf's head snapped toward me.
+
+Both eyes found the walkway.
+
+I fired again.
+
+The second shot hit the bridge of the nose. Deeper this time. The angle was better, the bone thinner, and the copper ball drove through skin and struck the underlying structure. Blood erupted from the entry point in a spray of dark droplets.
+
+The third shot followed before the wolf could move. I shifted my aim two degrees left and put the ball into the soft tissue at the corner of the left eye socket.
+
+This one went deep.
+
+The wolf roared.
+
+This time it was pain. The head wrenched sideways, the massive skull swinging away from the impact, and for one instant the creature's three tails lashed in an uncoordinated spasm that swept the chamber floor clean of debris.
+
+Three shots. Three wounds. All superficial.
+
+Each round had penetrated the hide. None had reached anything vital.
+
+Against a human, these wounds would be fatal. Against a Titan, they were insect bites.
+
+Field test complete.
+
+I holstered the pistol and jumped.
+
+The walkway was five meters above the chamber floor. My boots hit concrete and my knees absorbed the impact and I was moving before the shock wave finished traveling up my spine.
+
+The bastard sword cleared the scabbard as I ran.
+
+"Down!" I shouted at the walkway above me. "Everyone down! Now!"
+
+Ganz was already moving. The scarred mercenary vaulted the railing without hesitation, his twin short swords drawn before his feet left the steel. He landed in a roll that brought him upright three meters to my left, blades out, eyes locked on the Titan.
+
+Dorn came next. The young knight hit the floor heavier than Ganz, his armor absorbing the impact with a metallic crash, but he kept his feet and drew his longsword in a single motion.
+
+Tarek dropped from the walkway like a cat. His curved blade was already in his hand.
+
+Breit stayed above. I heard the creak of her bow being strung, and then the distinctive hiss of an arrow being nocked.
+
+The wolf's attention swung toward the movement.
+
+Its bloodshot eyes tracked across the chamber floor, reading the new shapes, the new threats, the small things that had appeared from above and now stood between it and the doorway.
+
+The ruby veins across its skull pulsed.
+
+Then it charged.
+
+The speed was wrong.
+
+Everything I knew about Titans said mass meant slowness — the mantis should have taught me otherwise, and some part of me still hadn't believed it.
+
+This wolf moved like something half its size.
+
+The forelimbs drove into the concrete and the body launched forward in a lunge that covered eight meters in a single stride, and the jaws came open, and the teeth descended toward the space where I'd been standing.
+
+I was already gone.
+
+Mana Breath surged through my lungs and into my limbs, the cool-mint burn flooding my legs with the familiar warmth. I threw myself left and felt the wind of the wolf's passage rip across my back as the jaws snapped shut on empty air.
+
+The bastard sword came around in a rising arc aimed at the nearest forelimb.
+
+The edge struck the wolf's wrist. The impact traveled up the blade and into my arms and my shoulders and my spine, and for one instant I thought the sword would shatter.
+
+But the blade held. And the cut opened a line across the creature's wrist that wept black blood.
+
+The wolf didn't slow.
+
+One of its tails whipped across the chamber at knee height.
+
+I jumped. The tail passed beneath me. The air displaced by its passage hit like a physical force, spinning me in midair.
+
+To my right, Ganz hadn't been as lucky.
+
+The tail caught him across the hips. The mercenary's body folded around the impact. He went airborne, spinning, his twin swords flying from his hands, and hit the far wall.
+
+He slid down the wall and didn't move.
+
+Dorn charged the wolf's right flank. He swung a two-handed overhead cut at the creature's ribcage.
+
+The blade bit. Shallow, but it bit. Another wound. Another line of black blood.
+
+The wolf's second tail found him. The tip drove downward like a spear, and Dorn threw himself sideways barely fast enough. The tail punched into the concrete where he'd stood and the floor cratered. Fragments pelted his armor as he rolled.
+
+Above us, Breit's bow sang.
+
+The arrow left the string wreathed in the shimmer I'd seen during the locust fight, her mana flooding the shaft and compressing into the broadhead. It struck the wolf behind the left ear and buried itself to the fletching in the dense muscle of the neck.
+
+The wolf's head wrenched. The embedded arrow snapped at the shaft, leaving the head buried.
+
+It was hurt. The pistol wounds, Sigrid's wind cuts still bleeding along its flanks, the sword strikes, the arrow. All of it accumulating. The wolf's hide was compromised. Weakened by months of drugged captivity, the tissue that should have been impenetrable was fragile. The cuts that should have sealed in seconds continued to weep.
+
+But hurt was not defeated.
+
+The wolf lunged at the nearest cluster of surviving soldiers.
+
+Three mages had dragged themselves upright against the eastern wall. Two still held their suppression staves. The third was unarmed, clutching a broken arm to his chest.
+
+"No!" I shouted. I was too far. Twenty meters between me and the soldiers.
+
+The wolf covered twenty meters in a heartbeat.
+
+The jaws opened.
+
+I needed those soldiers alive.
+
+The suppression staves were pushing back against the wolf's full mana output.
+
+A Titan at full power, in a confined space, with no restraints. Every person in this building would die in seconds.
+
+Tarek's curved blade slashed across the wolf's right haunch in a cut that drew a line of black from hip to tail. The wolf's stride hitched. The jaws missed the nearest soldier by centimeters, teeth closing on empty air.
+
+The soldiers didn't freeze. Combat training saved them. The two with staves drove the crystal arrays forward and fired suppressive bursts directly into the wolf's face. Blue light erupted from the crystals and hammered into the creature's skull.
+
+It bought seconds. The wolf recoiled, shaking its massive head as the dampening field pressed against its consciousness.
+
+I was close now. Ten meters. I poured everything into my legs and the Mana Breath responded, the dark blue mist curling from my mouth as I accelerated across the chamber floor.
+
+The wolf's skull swung toward the unarmed soldier with the broken arm. The man's eyes were wide.
+
+I reached him first.
+
+The bastard sword came up in a diagonal guard as I planted myself between the soldier and the wolf's descending jaws. I didn't have a plan. There was no technique in any manual for blocking a Titan's bite with a bastard sword. What I had was position and stubbornness.
+
+The wolf saw me. The bloodshot eyes focused. The jaws adjusted.
+
+I shifted.
+
+The bite came down and I drove the sword upward into the roof of the creature's mouth.
+
+The blade punched through the palate. Two inches. Three. Black blood erupted around the steel.
+
+"This worked on a wyvern!" I screamed into the creature's open maw. The words tore out of my throat raw and furious. "You think it won't work on you?"
+
+The wolf ripped its head back. The sword tore free. I staggered.
+
+But it worked. The wolf retreated a step. The mouth snapped shut, and through the sealed jaws I heard the grinding of teeth.
+
+"Move!" I barked at the soldier behind me. "Go!"
+
+He went. Stumbling, cradling his broken arm, but moving.
+
+"Tarek! Dorn! Draw its attention! Keep it turning!"
+
+Tarek was already circling left. Dorn went right. Both of them slashing at the wolf's flanks as they moved, quick cuts to the hindquarters, the tail bases, the exposed muscle of the lower legs.
+
+The wolf turned between them like a dog beset by wolves. Its three tails lashed in overlapping arcs, each one sweeping a different sector.
+
+Tarek ducked under one. The tail passed overhead close enough to disturb his hair.
+
+Dorn wasn't as fast. The second tail clipped his shoulder. The young knight spun, his feet leaving the ground, and he crashed into a supply pallet six meters away. Wood splintered. Dorn groaned. He pushed himself up, shook his head, and charged back in.
+
+Good. Kid's tough.
+
+I circled to the wolf's front.
+
+The creature's behavior was erratic. The compound in its bloodstream was fighting a war against whatever the ruby solution had done to its nervous system. One moment the wolf lunged with terrifying speed, its reflexes sharp, its attacks precise. The next, its movements slowed. The head dipped. The eyes went glassy. The body swayed on its massive legs as the narcotics dragged it toward unconsciousness.
+
+Then the ruby veins pulsed and the lethargy shattered and the speed returned, and whoever was closest paid the price.
+
+Fast. Slow. Fast. There was no pattern. No rhythm I could predict.
+
+I attacked during a slow moment.
+
+My blade caught the left forelimb above the wrist, biting into the skin and the muscle beneath. The cut opened wide, black blood sheeting down the leg. I followed with a second cut to the same limb, lower, where the tendons connected the massive paw to the foreleg.
+
+The wolf's weight shifted. For one instant, it favored the wounded leg.
+
+Then the eyes snapped clear. The lethargy evaporated.
+
+A forepaw came up.
+
+I threw myself backward. Not fast enough.
+
+The paw caught the floor where I'd been standing and the concrete disintegrated. The shockwave hit me in the chest and hurled me off my feet.
+
+I flew.
+
+The sensation was weightless and complete. The chamber spun. I hit something.
+
+Then something else.
+
+Then something else.
+
+Three walls. I went through three walls.
+
+I came to rest in a corridor I hadn't seen before. The ceiling was intact above me. Debris covered my legs to the knees.
+
+I lay on my back and stared at the ceiling.
+
+The dust settled.
+
+Through the three ragged holes I'd punched on the way through, I could hear the wolf roaring. I could hear Tarek shouting. I could hear the electric crack of Breit's enchanted arrows.
+
+I breathed.
+
+One.
+
+Two.
+
+Three.
+
+I opened my right hand. Closed it. Opened it again.
+
+My fingers worked.
+
+I flexed my left hand. The bastard sword was still in it. I'd held on through three walls and a flight across a Titan's attack, and my bones hadn't broken.
+
+I rolled my shoulders. Moved my neck. Pushed myself up on my elbows and looked down the length of my body.
+
+The armor was dented. The coat was torn. Dust caked every surface.
+
+But nothing was broken.
+
+Nothing was bleeding.
+
+I just held a Titan's attack.
+
+I stood.
+
+My legs held. No tremor. No weakness. The impact that should have turned my skeleton into powder.
+
+I pressed a hand against my ribs. The muscle beneath my fingers felt like armor plating, and the bones beneath the muscle felt like iron.
+
+Body Reforging.
+
+I hadn't tested it to its limits before.
+
+Now I had.

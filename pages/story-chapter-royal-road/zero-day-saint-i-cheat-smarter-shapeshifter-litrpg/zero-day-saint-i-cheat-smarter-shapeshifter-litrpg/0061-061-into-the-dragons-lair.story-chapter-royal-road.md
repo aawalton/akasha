@@ -1,0 +1,155 @@
+---
+id: 532966df-f359-557d-ac7f-18aeecb1f4ce
+page-type-slug: story-chapter-royal-road
+title: "061 - Into the Dragon's Lair"
+slug: 0061-061-into-the-dragons-lair
+partOf: zero-day-saint-i-cheat-smarter-shapeshifter-litrpg
+position: 61
+ownLength: 1990
+unit: words
+publishedAt: 2026-07-24
+link: "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3717820/061-into-the-dragons-lair"
+royalRoadId: "3717820"
+---
+
+"My price is twofold. First, you will take dominion over the tower. This whole mess started because you toppled the king without caring about the vacuum left behind. Get rid of the kobolds, drive them out, or make them understand, in your charmingly hapless diplomatic ways, that it would be in their best interest to cooperate."
+
+I stared at the transcription of Lucy's demand in my chat. I didn't want to do this, but it wasn't too bad. I'd have to consult Gabriel on this.
+
+Helene noticed my expression, and I held up a hand indicating that I was having a discussion with my guides.
+
+["And the other part?"]
+
+"You wear the crown when you kill at least one of them. And you'll accept the reward, sight unseen."
+
+"Why?" I asked out loud.
+
+"Hmmm." They sounded distinctly catlike. "Because the Blessing held back last time. That half-dragon thing was the Blessing going soft on you. You killed one of the most powerful demons in the city—and what? Your reward is to become a dragon? It's bullshit and just done to harm our PR. If the great Mammon-slayer turned out to suddenly be demonic herself? Now that'd be a statement. Don't you think?"
+
+"You want me to become the poster girl for what? Messing with hell is bad? Or becoming hellish isn't so bad at all?"
+
+"Does it matter? I care about the signal, and I'll gladly leave the interpretation to the audience. Not to mention the benefits for you, my dear. You'd get to wield that dagger in your default shape. Think about that. And I'd have more freedom to offer you cooler boons. Last but not least? This shape? Your fancy half-dragon self? It's so much weaker than it would be if it were something you shifted into. All its traits, but with all those shifting bonuses applied. Now that's a combat shape."
+
+"Fuck." They held out on that because that had been the killer hook. They were right. I was scared to fight like this. I was a shapeshifter. My strengths lay in fighting as anything but my true self.
+
+"Care to enlighten me on our dilemma?" Helene asked.
+
+"Lucy claims that our plans are still too risky." I went on to tell Helene about Lucy's concern, offer, and price. Laying out each layer of manipulation I could spot in there.
+
+And then we sat in silence. We both had come to the same conclusion. But she couldn't tell me to accept the devil's offer, and I wasn't ready to.
+
+"Gabriel? Is there a hidden trap I'm missing?"
+
+"Yes," Gabriel replied. "Your instincts. The half-dragon shape didn't influence your mind. A demonic change, brought by using the Crown in a profane space? I can't tell you that it wouldn't influence you."
+
+"But it'd be greed-aligned, right? Which is specifically what I am more resilient against. And if it's something else… I just need to defeat more sin-aligned demons to conquer more sins?"
+
+"Do you want to know why I haven't spoken up until now, Eve?"
+
+I blinked. "Why?"
+
+"Because the moment I tell you the issue, you automatically start to argue. Your tendency to overanalyze and to provide counterpoints to arguments outstrips your wisdom, Eve."
+
+She had a point. I kept fucking doing this. This is how I talked myself into nearly helping the Wyrm, too. I did great at focusing on the problems at hand. So great that I kept solving problems I shouldn't solve.
+
+"What's your recommended approach here, Gabriel?"
+
+"Forsake this quest until you are stronger or you can bring the whole party."
+
+I related the final advice to Helene. We sat in silence again. After spending all this time working on this problem, neither of us wanted to set it aside. Lucy had played this far too brilliantly. Every rational argument said to delay. And every fiber of me wanted to do it anyway.
+
+"I'll throw in one more goodie, Eve," Lucy said. I braced myself, futile as it was. I had misread them. Their last argument hadn't been the final pitch. This was it.
+
+"Should the Crown's reward turn you into someone demonic, I will teach you how to attune to a profane space. To your profane space. It could replace a sanctified space. You would be able to rest there. Process there. Grow there. A home—with your own little private army. A home that wouldn't be burned down oh-so-easily."
+
+Yeah. There it was. After all the rational points, here came the emotional appeal. And it was precisely what I wanted. The club wasn't mine. The houseboat had felt so unsteady. A home, corrupted by greed and a monument to my one and only victory so far.
+
+Gabriel had nothing more to offer. I was reminded of that chess game—how quickly Lucy had learned to defeat her.
+
+"Okay. Back to the drawing board. How do we include you in our plan?"
+
+Another five plans. Another set of contingencies. Vastly improved odds. And all it would cost me was another tiny piece of my soul. I freed up the collar slot occupied by the octopus shape. I'd need that in a minute.
+
+I sprinted up to Mammon Tower. It had taken Helene considerable effort to beat up the Kobold shape sufficiently to sell my cover story. Between an Endurance of 13 and the natural armor granted by Dense Musculature, regular people couldn't easily harm me.
+
+If only we were ever up against regular people.
+
+This wasn't my first visit to the tower today. Earlier I had flown up to the rooftop and slipped inside. Just enough to hand over equipment and materials to Lucy. Just outside the infernal glyph they had inscribed behind the rooftop entrance. They expected attacks from above, but not from a hell-aligned Guide.
+
+Now I paused at the threshold into the tower and sniffed the air. There were about two dozen red dots on my minimap. What I smelled was a mix of kobolds and demons—demon hounds specifically. That was good. If it had just been hounds down here, I wasn't sure if our plan would have worked.
+
+I couldn't see inside through the mirrored automatic doors, but my minimap still informed me that three dots were approaching me. After the Chosen, I had little faith in my acting skills. But maybe my fear would assist me.
+
+I went down on my knees and gasped for air. In front of me the doors opened for three kobolds, two males flanking a female. When they saw one of their own—in a tattered suit and beaten, burned, and scarred—all the dots inside turned white. All but four dots, isolated in a small room.
+
+I kept playing up my exhaustion as the three approached me. The two males lifted me up by one arm each, while the female one used some kind of scepter to lift my chin to face her.
+
+"You. Who are you? What are you doing here?" she asked.
+
+"I—" I gasped for breath. "I was on a mission for Lord Mammon. Humans captured me. Hurt me. Today, I escaped." I planted my feet more firmly on the ground.
+
+"What was your mission?"
+
+I locked eyes with the kobold. "I will only answer to Lord Mammon. I—I just need to catch my breath. Then I need to report to him. I have important intelligence for him."
+
+There was a cruel glint in her eyes as she spoke. "Lord Mammon is dead. You will answer to me, or I will feed you to—"
+
+I shook off the two kobolds to my sides. With my left hand, I grabbed her right arm, pulling her closer and the scepter away to my side. With my right, I gripped her by the throat and pulled her off the ground. Carrying her like that, I entered the profane space. Only her dot had turned red so far.
+
+"Lies," I hissed. "I won't play your games, bitch. I will talk to Mammon and only Mammon. I won't hear this—this heresy! He can't be dead. There is no one who could defeat him."
+
+She had dropped the scepter and was clawing impotently at my arm, utterly unable to speak through my grip on her throat. Her health bar had already started to drop.
+
+My mind went back to that moment when I had tortured those two kobolds who were part of a team that had planned to poison my hyenas. Back then I had blamed the demon shape for my enjoyment. But now I had to admit—part of me liked the feeling of power. A part I really didn't like.
+
+One of the two who'd been with her tapped my shoulder.
+
+"Uh, miss?"
+
+"What?" I growled, my eyes never wavering from the one in front of me.
+
+"She, uh—" he took a careful step back, out of grabbing range, "—isn't lying. Our Lord has been slain."
+
+I tossed the female kobold away and turned to face the one who'd spoken up.
+
+"What?" I screamed. "How can that be?"
+
+Around us, kobolds gripped their weapons. Demon hounds approached, for now more curious than aggressive. Through this entire act, I was replying to Lucy's questions in Guide chat. Knowing everything about my life hadn't given them the same knowledge of electronics I possessed.
+
+"We… we don't know. One of the humans tricked him outside with some mummery. Then he exploded. So did those who were around him. It was a trap. The hounds went after the murderer but never caught them."
+
+I screamed in rage and paced up and down. "Who is in charge now?"
+
+The kobold exchanged glances with those around him, but no one seemed to want to take his place and explain the situation to a very furious me.
+
+"The Lord and Lady of the Tower. They—they aren't dragons, or of draconic blood. They are demons. They used to be Mammon's lieutenants."
+
+"That doesn't give them any right to rule us." I looked over to the room with the red dots inside and slowly made my way over there. Demon hounds parted as I approached them. The kobold who'd been chosen by the others as my designated victim followed.
+
+"They are strong and powerful. We cannot oppose them."
+
+Behind me, the female kobold who had 'welcomed' me had risen. My senses warned me that she had lifted her scepter in my direction.
+
+"You—" was all she got out. I took a gamble and fired off a Magical Missile without turning to face her. Her scepter clattered to the ground, and her dot vanished from my minimap. The kill awarded me zero experience. Helene had gotten close enough for the experience transfer to work.
+
+I kept going toward the room. It was a small closet, off to the side of the big entry hall.
+
+"You could oppose them if you went about it smarter."
+
+Behind the door, I smelled nothing but more kobolds, blood, and excrement. I opened the door to find four kobolds, not in Mammon-touched suits, but in leather and cloth of the mall kobolds.
+
+Zi'rah really took after her father. She was a head taller than the others and utterly ripped. I gave her a wink before I closed the door again and turned back to the others.
+
+"I wish to talk to our lords."
+
+Further into the building, I heard the rumble of an elevator moving. The plan had worked. Someone here had alerted the demons.
+
+["Operation Gas Chamber underway. Single Sword."] Lucy wrote.
+
+["Jesus fucking Christ, Lucy."] I replied.
+
+The lights flickered as the power went out. Something must have tipped them off that I was involved in this—two dozen dots around me turned red, while four turned white. I pulled the crown out of my inventory and equipped it. Then I also pulled out a bolt cutter and tossed it into the room with my new allies.
+
+"Stay inside. I'll clear your way."
+
+["Proceed to lobby,"] I wrote in party chat.

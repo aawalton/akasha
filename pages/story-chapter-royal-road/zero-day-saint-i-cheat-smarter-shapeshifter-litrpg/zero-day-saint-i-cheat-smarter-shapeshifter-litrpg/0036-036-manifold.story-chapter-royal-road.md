@@ -1,0 +1,237 @@
+---
+id: 3aed537d-cd72-55f4-8097-3d019f8a27ff
+page-type-slug: story-chapter-royal-road
+title: "036 - Manifold"
+slug: 0036-036-manifold
+partOf: zero-day-saint-i-cheat-smarter-shapeshifter-litrpg
+position: 36
+ownLength: 2314
+unit: words
+publishedAt: 2026-06-05
+link: "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpg/chapter/3495081/036-manifold"
+royalRoadId: "3495081"
+---
+
+I did a swoop over the gnoll fortress before I caught back up with my party. On my return trip, Gabriel explained what I had seen.
+
+A demon of general rank or similar had claimed Mammon tower and linked his essence to the profane space. Embodying and strengthening its profanity meant growing his own power.
+
+This one had chosen a place of greed so he'd grow by fostering greed. And the symbolism, combined with the draconic association with kobolds, indicated that he had embodied greed physically, too. We had a fucking dragon in New York.
+
+I had examined the kobolds and demons.
+
+[Mammon-Touched Kobold - Level 7
+
+??? Demon - Level 20]
+
+I knew that Fate couldn't have a hand in this. What the demons did wasn't controlled by some outside force. They were real people with real ambitions and goals.
+
+But it was far too good an opportunity to get Jamie his own Certified Threat trait. And Stephen had just the right tool to give us the edge we'd need to pull this off.
+
+The others were patrolling the streets toward the fortress. The goal was for them to gather some combat experience before the real assault. My goal had been to scout opportunities to make that happen.
+
+Had I succeeded? Yes.
+
+Were the targets far tougher than what I'd been looking for? Also, yes.
+
+When I found them, I tried to circle within the 20-foot radius of the Oath buff, to get a feel for its range. But it was too small an area for me to stay in, at least in flight, so I unceremoniously tumbled onto the road behind them.
+
+["Kreee!"] I wrote in chat.
+
+Stephen was armed with the katana that I had kept in my inventory and Ash with a quarterstaff. I really hoped by the end of this day they'd get something better suited.
+
+Their faces wore various stages of amusement.
+
+"Welcome back, Eve," Ash said.
+
+"What's your Agility at right now?" Jamie asked.
+
+["18. Now wipe that smirk off your face. If your buff had a longer range I wouldn't need to try and stay this close."]
+
+"Do you need that buff right now?"
+
+["No, what I need is to get used to the range so I don't suddenly weaken myself in combat when I leave it."]
+
+"You didn't come back solely to nag at me. What did you find?"
+
+["A literal golden opportunity."]
+
+#
+
+Fortunately, the demons had no idea what to expect of Earth's birds, so they weren't too bothered by one who constantly kept scouting their position to guide her allies on a path to intercept their return to Mammon tower.
+
+Since the demons had very little interest in helping the kobolds with the heavy cart, their trip was slow and we had plenty of time to find the right spot.
+
+I really couldn't blame him for snaring me with optimization when I was the one who came up with this idea.
+
+Jamie and I were waiting in a garage, me in Nightmare Unicorn shape, Jamie on my back, lance in hand, enjoying the comfort of my spectral tackle. I should have seen this coming when his fancy shield was in the shape of a cavalry shield.
+
+Ash and Stephen were hiding in the entrance of a home further up the street. Two stories up, on a balcony, Liz was hiding, levitating one of Stephen's "potions" over the road. This one was a Volatile Potion. Not suitable for drinking, its description read a lot like a fantasy concussive grenade.
+
+She waited until the convoy was right next to their house.
+
+["Run!"] came her signal in chat. I charged out of the garage and activated Focused Fury.
+
+A second later, before the demons or kobolds could even react to me, the potion dropped in their midst. Even a hundred feet down the road, my ears rang from the explosion. I had almost missed the experience after a whole day without explosions tearing at my eardrums.
+
+The first demon never knew what hit it. I thundered down the road. A luckless and stunned kobold fell to my hooves, and Jamie channeled one of his Smites through the lance.
+
+He didn't just pierce through that demon; he tore through it. His lance sheared through the body like a hot knife through butter.
+
+I skittered to a halt, dismissed the spectral tackle, while Jamie rolled off my back, the lance discarded for the sword.
+
+With a second left on the other demon's Dazed debuff, I activated Desecration of the Damned and drove my horn into his shoulder, upgrading the buff to [Stunned] and its duration to 10 seconds.
+
+"Go, go, go," Jamie shouted as he and I carved a path through the kobolds.
+
+On his call Ash and Stephen charged out of the building straight for the level 20 demon. They were level 6 and 7.
+
+But even with a mundane katana and a glorified piece of wood, ten seconds were a very long time when those weapons were applied to a defenseless foe. Especially with a telekineticist peppering it with knives.
+
+We guarded the two against the kobolds. Any damage they managed to get in was healed by the others' kills.
+
+In less than a minute they were all dead. They had both gained two levels, putting Ash at 8 and Stephen at 9. Liz joined us. She'd gained only one, also putting her at 9.
+
+"Can't believe that worked," she said.
+
+I stood there, waiting for the other shoe to drop.
+
+Was this how we won this? Guerilla warfare?
+
+["We need to hurry. Let's loot and run. That explosion was loud, who knows what kind of attention that attracts."]
+
+I put my right front hoof on the demon who died to Jamie's smite and selected the loot option. I'd gotten some kind of cane. There'd be time to examine later.
+
+["Jamie, bring the other demon's corpse. Still gotta eat that heart."]
+
+I continued looting some of the kobolds and put one of the more intact ones in my own inventory. Every shape mattered. The other three, who hadn't reached level 10 yet, went for the cart, though there didn't seem to be much of value there. At least not by post-apocalypse standards.
+
+"You were right. I did get a task completion for that. More than one even," Jamie said.
+
+"Same here, the moment Liz dropped the potion I got my first," Stephen said. He hadn't said much yet. He wasn't used to that kind of violence yet.
+
+"Yup, also got one when that thing went off, and one when the demon fell," Liz said.
+
+"I only got one when I killed the demon," Ash said, a bit disappointed. "I think I got the last hit in."
+
+["We'll find an opportunity to get you more Tasks, too."] I wrote. Eventually the system had to reward me with the ability to speak in any shape, right?
+
+I, too, had gotten a Task Reward. I had already peeked at it. Participate as the Mount in a combined Charge Attack. Hmpf.
+
+#
+
+Our return trip was unexpectedly interrupted when Liz spotted gargoyles. They seemed to scout the area around our assault and we decided to take cover rather than expose ourselves, or worse, lead them back to the fire station.
+
+We'd gotten lucky to get the drop on them like that. But now they knew what humans were capable of and they wouldn't be caught like that again.
+
+Back in human form, so I'd fit into the half collapsed house we were hiding in, I used the time to examine the loot I had gotten. The kobolds had mostly given me [Plain Rations]. The one I pulled out looked a lot like off-brand lunchables. With the total collapse of all infrastructure, it was not a bad thing that the Blessing provided for us. But I doubted that those Rations would grant the same buffs Stephen's cooking did.
+
+Then there were a handful of minor potions. Mana, Life and Recovery. Now that was interesting. I examined a Minor Recovery Potion.
+
+[Minor Recovery Potion (Common Potion)
+
+Effect: Recovers a small amount of class's primary resource.
+
+Cooldown: 60 minutes
+
+(Cooldown affects all potions)]
+
+I was at 4 ATP out of my current cap of 7. Out of a theoretical maximum of 9, 2 were infused for the pheasant and the unicorn, and three I'd spent already today.
+
+The potion was bright yellow with a big cork stopper. I popped it open and downed it. The taste was incredibly, sickeningly, sweet. My ATP went back up to 7. I had one more of those potions.
+
+"Huh," I said. The others had been quietly chatting among themselves.
+
+"What was that?" Ash asked.
+
+"A potion," I replied drily. Liz laughed. "Recovery potion, it's called. Gave me back my ATP. Probably works for Psi or Zeal, too. Got one more."
+
+"I also got one," Jamie said.
+
+I pulled out the two mana potions I'd also gotten and handed them to Ash. They looked pretty much like the platonic ideal of a mana potion.
+
+Then I examined the item I had gotten from the demon I had looted.
+
+[Gilded Enforcer's Cane (Uncommon Weapon / Magical Focus)
+
+Conductive Brass: Channeling an unfocused spell through the cane focuses the spell through its brass tip.]
+
+I handed that over to Ash, too, who eagerly examined it.
+
+"Any idea what that means?"
+
+"A vague one, yes. My cantrips come with a whole lot of tags, and a lot of those I have today have 'unfocused' as one of them."
+
+"You should test that. Seems to be a theme with this system: Putting the same power into a smaller focus can vastly enhance its efficacy."
+
+Ash thought about what I'd said. "Do you sometimes think there is something at play with things that are supposedly random? This seems oddly fitting to solving my problems."
+
+I tried to keep a poker face. "I've definitely noticed patterns in what's described as random."
+
+"Hm," Ash said.
+
+"Hm, indeed."
+
+With the gargoyles still circling across our minimap every now and then, I sighed and pulled the kobold corpse out of my inventory.
+
+"Weak stomachs turn away," I announced. I gave them five seconds to do so, before starting to tear through the kobold's ribs into its chest cavity. Despite my warning, I had the intense sensation of being observed by four pairs of eyes.
+
+I closed the one pair of too-large dead eyes that was staring at me before I tore its heart out. It looked pretty much exactly like a human's—just a bit smaller.
+
+"Are you going to—" Ash began, but stopped when I unceremoniously bit a chunk off the heart.
+
+It was only slightly less chewy than the unicorn's. I continued until the pop-up appeared.
+
+[Accept Mammon-touched Kobold Transformation?
+
+Accept / Reject]
+
+I wondered if the Mammon-touched aspect meant it would go into the demonic slot. And if that meant its first kill task was distinct from that of a regular kobold. Though I assumed it would be like with dog breeds. Different breeds still only counted as dogs for Tasks.
+
+I hit accept. Once more the transformation didn't come as smoothly as the regular ones. The sensation felt even weirder as I condensed down.
+
+When the transformation was over and I was on my knees, collecting myself, the first sound I heard was Lucy's laughter in my head.
+
+When I looked down at myself, I understood why. They had gotten what they wanted. Unlike the males that had been accompanying the demons, female kobolds got suits that fit.
+
+I stood up and took a better look at myself, ignoring the voiceless stares of the others. A scaled tail was poking out from under my blazer, swishing this way and that. Shoes were missing, leaving my clawed feet exposed.
+
+My attributes only beat out those of my human body because of the collar and the Mind over Matter bonuses.
+
+I even got the same spell the kobold women had used in the Mall. Magical missile. Though it cost 10 out of my 15 mana, just like the unicorn's spell. I had only recovered up to 7 by now.
+
+Jamie elbowed Ash. "Not a cat-girl, but not too far off, huh?"
+
+Even though I desperately wanted to murder Jamie for that comment, Ash's expression made it somewhat worth it. He looked at Jamie, aghast, and back at me. "Wha—What do you mean by that?!"
+
+"Nothing, Ash. Nothing," Jamie said. "You look, uhm, manifold, Eve," he said to me.
+
+"What's that supposed to mean?" I asked.
+
+"That suit looks kinda sharp on you. And those claws and that tail a bit feral…" he trailed off.
+
+"But?"
+
+Liz finished for him. "That snout is incredibly adorable."
+
+"Yup. There is no other way to say it," even Stephen agreed.
+
+I turned away from them, acting up the pouting. In truth, I was relieved. They'd just seen me eat that heart and were back to mocking me, calling me adorable, the moment after.
+
+I longed for a mirror.
+
+I decided not to go for the demon heart yet. I suspected that it would be a lot less adorable, and this shape was serviceable for the next steps of today's plan. No reason to waste a free transformation.
+
+When it had been ten minutes since the last gargoyle passed overhead, we decided to continue on our return trip.
+
+"You going to stick with that shape?" Jamie asked.
+
+"Of course. It is objectively more powerful than my human shape. And with a bit of patience I might get that first-kill bonus."
+
+"Suit yourself. Heh." He chuckled at his, probably, unintentional pun.
+
+"Are you allowed to do puns like that? They should count as friendly fire and be against your codex."
+
+"I liked it," Stephen chimed in.
+
+"Of course you do. I have not forgotten that pun you greeted me with, either."

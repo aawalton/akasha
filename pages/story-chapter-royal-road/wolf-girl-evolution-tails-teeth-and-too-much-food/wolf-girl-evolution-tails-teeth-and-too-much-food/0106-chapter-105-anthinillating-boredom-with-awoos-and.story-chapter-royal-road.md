@@ -1,0 +1,587 @@
+---
+id: 11cd1774-d9c7-5391-a48d-57c99145d8a5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 105: Anthinillating Boredom, with Awoos and Style!"
+slug: 0106-chapter-105-anthinillating-boredom-with-awoos-and
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 106
+ownLength: 2086
+unit: words
+publishedAt: 2026-03-01
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3105815/chapter-105-anthinillating-boredom-with-awoos"
+royalRoadId: "3105815"
+---
+
+PoV Luna
+
+Luna hit the charging Ants with all the zeal and power of an overly bored puppy.
+
+A true wonder of ferocity only ever seen when the very perspective of wait was just too much to handle.
+
+Far too much!
+
+And Luna was very determined to put all of those feelings into dispatching the enemies unlucky enough to find themselves in her way!
+
+To the lucky observers, the satisfying crunch of carapaces was interwoven with Luna giving voice to her frustrating:
+
+“You!”, zoom, claw, crunch, bam.
+
+“Will!”, strike left, strike right, strike left left left!
+
+“Not!”, bite crunchy! Bye crunchy!
+
+But Luna was also happy enough to just fling them all around!
+
+“Make!”, one Ant birdie, two Ants birdies–
+
+“Luna!”, crashed another into the ‘birdies’–
+
+“Wait!!!”, and zoom-jumped through the ball of carapaces and legs.
+
+For a long moment, nothing but the pitter patter of carapace and ant gloop could be heard.
+
+The observing adventurers were too slack-jawed to respond.
+
+“...Oh boy,” Sepio surly commented.
+
+As for Luna?
+
+She was laughing happily, eyes bright, and tail wagging!
+
+Heaving a little from exertion.
+
+Yet so very satisfied!
+
+【Strike Lv. 13 → Lv. 14】
+
+Hehe!
+
+Numbers bigger!
+
+Moving truly was the best!
+
+Awoomazingly Apex Predator best!
+
+The moment passed.
+
+And Luna spotted more clicky-crawlies!
+
+It was time to move!
+
+And try out Luna’s new skill!
+
+***
+
+Bodies folded under her claws with brutal efficiency.
+
+And Luna didn’t linger to watch them fall.
+
+She was already moving to the next cluster the very moment the last chitin carapace cracked and her Maw stored the kill away.
+
+Reaper’s Pass… It was a weird skill!
+
+Making Luna get to places faster!
+
+…Without actually needing to run any faster!
+
+So weird!
+
+It was like–
+
+The distance just came faster than expected!
+
+She nearly overstepped on the first use, her body anticipating two more strides that never needed to happen. For a fraction of a heartbeat her balance faltered–
+
+Then adjusted.
+
+Oh!
+
+That was different.
+
+Good different!
+
+She flowed into the next movement without breaking rhythm.
+
+Pass, Run, Jump, Shadow–
+
+【Reaper’s Pass Lv. 1 → Lv. 2】
+
+Nice!
+
+And Maw!
+
+To store the crunchies – for later munchies!
+
+With the feel of momentum building, she could have also used Momentum Claw, but–
+
+That felt… a little excessive!
+
+There would be no munchies if Luna did that!
+
+And–
+
+The impacts felt muted now. Lighter!
+
+Luna’s new skill took a bit of the sting from the contact, it dulled the strain in her knees and shoulders as she tore through Ant after Ant.
+
+The scrapes happened, but the expected ache of impact was a little… smaller.
+
+For weak prey like Ants it barely even registered!
+
+Hehe!
+
+Luna kept moving.
+
+While thinking some more about skills!
+
+She saw so many options on her Evolution–
+
+And Luna knew!
+
+No, she was convinced!
+
+That her Apex Predator ways let her use them all, one day!
+
+…Maybe.
+
+She just never knew to try, but – if Luna practiced very hard! – maybe crunching up the Moon wouldn’t be the only thing to do!
+
+Bending the Moonlight could be great too!
+
+Yes!
+
+But how…?
+
+Woo!
+
+Her head hurt…
+
+Oh!
+
+Right!
+
+She would just ask Second!
+
+Luna so smart!
+
+Decision made, she zoomed ahead!
+
+Then, a few moments later–
+
+One adventurer team engaging with a small Ant cluster further out found their enemies scattered with the wind.
+
+Quite literally, at that.
+
+A shadowy streak and a little yip of joy their only hint that a certain very fast somebody has just helped them out.
+
+They froze up, then – slowly – lowered their weapons.
+
+“…Haha. What the hell?”
+
+***
+
+PoV Ferric
+
+Yet another group of some very unlucky Ants vanished in a blur of silver hair and snapping jaws.
+
+Nothing remained but a few scattered limbs and bits.
+
+Ferric had stopped his routine walk through the camp on the lookout for trouble.
+
+After all…
+
+He had a weird feeling it would not be necessary for a while!
+
+His eyes followed Luna’s path as she sped all over the nearby fields, eliminating any antennae that so much as dared to twitch.
+
+And with every passing moment–
+
+Their pressing advance on the adventurer parties thinned.
+
+Noticeably.
+
+And then… Stopped entirely.
+
+Rotations were completely forgotten.
+
+…Because there were no more monsters to rotate against.
+
+Can’t exactly enact battle when one’s targets are entirely gone, eh?
+
+Oh how much that little Wildling could upend expectations!
+
+He chuckled, just imagining the trouble Luna could cause in the future.
+
+Or solve!
+
+Who knew, really?
+
+“…She’s just impossible,” someone muttered near him.
+
+Ferric agreed.
+
+Though he would never voice it.
+
+From an old man like him, words like those could hurt far more when said at the wrong time.
+
+And he would not stand for it!
+
+Not as Guildmaster, nor as a person.
+
+…Even if it was one of the few rules he knew to keep to himself.
+
+But–
+
+Encouraging and fostering the new generation was his pride and joy.
+
+And he could brag to Julia about it too!
+
+He could already see her disbelieving gasps at the ‘tall tales’ of the littlest of their adventurers around.
+
+The gossip had been top notch since that little ball of fluff and energy joined up.
+
+His eyes sparkled as the shadowy streak of fluffy madness stopped, found no more Ants in sight…
+
+And ran back towards the camp.
+
+Oh, this would be good!
+
+And Ferric could hardly wait.
+
+***
+
+PoV Luna
+
+Luna returned at a sprint!
+
+Yet, despite all the hunting she has just done–
+
+Her breathing stayed steady!
+
+Energy barely dipped!
+
+And she didn’t even need to use any potions!
+
+The rhythm simply fed itself, her evolution enabling her to do more without tiring!
+
+Each zoom made the next just a little steadier.
+
+Just a little smoother!
+
+Power overflowing!
+
+Ehehe!
+
+Apex Predator way was the bestest way!
+
+Her pace never even faltered as she pushed back toward the camp, her tail streaming behind her like a banner of war.
+
+And there was a bright, satisfied rhythm in her steps.
+
+Pride!
+
+She slowed only once she crossed the outer line, boots skidding lightly over trampled grass. Ant limbs littered the field in places. But the air smelled lighter now.
+
+Less sharp. Less aggressive.
+
+Better!
+
+Adventurers were still moving, but with less tension in their shoulders. A few even saluted her idly!
+
+Luna’s chest puffed out.
+
+She took a quick tally of where everybody was, and noticed Ferric and Syliana, standing together, and talking about something!
+
+Cuuurious!
+
+Luna hopped in place and charged on!
+
+She stopped in front of them, chin lifted high, tail swaying behind her with self-satisfied grace!
+
+“Luna done! Can we go back now?”
+
+She tried to keep her tone veeery neutral!
+
+And failed.
+
+Utterly!
+
+Hope simply leaked through.
+
+Bark it!
+
+Ferric blinked at her.
+
+Syliana looked down at her.
+
+Then both of them laughed!
+
+Luna’s ears twitched sharply.
+
+Noo!
+
+That was not funny!
+
+But before Luna could complain, Syliana crouched slightly and ruffled her hair, fingers brushing through it with warm approval.
+
+…Hmph!
+
+“You did very well,” she said gently. “That was impressive.”
+
+Ehehe!
+
+The praise felt nice!
+
+Luna leaned into the touch automatically, tail wagging happily.
+
+Ferric cleared his throat.
+
+“Unfortunately, it’s not quite that easy, Luna.”
+
+Her smile thinned.
+
+“You cleared out the ants from the plains, yes,” he continued. “But there are still many of them hiding in the forest, I would bet. And their nest is definitely still chock full of them.”
+
+Her expression froze in the purest disbelief!
+
+WHAT?!
+
+“…No!”
+
+NOOOOOO.
+
+This cannot be…!
+
+Just cannot!
+
+She slowly turned her head toward the treeline.
+
+It stood there.
+
+Innocently!
+
+The villain!
+
+Ant infested villain!
+
+Luna stared at it, pointed at it.
+
+Then she looked back at Ferric, who only nodded with a smile.
+
+Then back at the forest.
+
+Then–
+
+She flopped backward onto the grass!
+
+Arms spread wide.
+
+Boots splayed.
+
+Luna betrayed!
+
+She stared up into the cloudy sky above, eyes completely devoid of hope.
+
+“Wooo….”
+
+The sound drifted upward with all the enthusiasm of a deflated balloon.
+
+Guildmaster Ferric and Syliana looked down at her.
+
+And–
+
+Ferric shifted slightly.
+
+Because now Syliana was staring at him too!
+
+Staring daggers, at that.
+
+“Uhh,” he muttered, straightening awkwardly. “I only spoke the truth.”
+
+But the daggers did not stop.
+
+They intensified!
+
+He swallowed.
+
+Dealing with Syliana was a battlefield he could never win.
+
+A silent exchange passed between them while Luna Awooed miserably between them.
+
+He gestured faintly at the forest, and the scene!
+
+But Syliana was relentless.
+
+Did not even blink!
+
+Ferric lifted both hands in surrender.
+
+Fine.
+
+Fine!
+
+I will do something.
+
+Really, there was no need to be so mean!
+
+He very carefully stepped to the side just as Syliana’s staff lifted a fraction too high for comfort.
+
+Then cleared his throat again and approached the listless wolf girl still staring hopelessly at the sky.
+
+“…Actually,” he began cautiously, “it would be faster if you led ants here for us to clear up, rather than clearing them all by yourself.”
+
+One of her ears twitched.
+
+He continued, gaining confidence.
+
+“You could go on a big hunt in the forest, gather up a bunch, then lead them back to us. Just don’t get stuck in their nest, please? And if anything happens, irritate them and lead as many of them here as you can instead. Or even just run. Deal?”
+
+Silence.
+
+Syliana and Ferric both looked expectantly at the little wolf girl.
+
+And she didn’t disappoint!
+
+Luna sat up so fast her hair whipped forward.
+
+“Woo!”
+
+Salvation had arrived!
+
+A plan.
+
+A hunt!
+
+Big hunt!
+
+Her eyes blazed back to life, and her arms shot up in barely contained excitement.
+
+“YIP-YEP! Luna will go!”
+
+Luna was already vibrating in place.
+
+Just ready to go, straight away!
+
+Her knees bent and straightened in rapid little pulses, shoulders rolling forward, tail whipping back and forth with force enough to pick up small leaves off the ground. Every muscle in her body leaned toward the forest, as if gravity itself had shifted in that direction.
+
+Syliana turned slowly to Ferric instead.
+
+One brow lifted.
+
+Expression flat.
+
+“You’re sending her back into the forest. Alone.”
+
+Ferric blinked.
+
+“Well, ah– …yes.”
+
+“You just suggested that.”
+
+“Yes.”
+
+Syl folded her arms.
+
+“She’s a child.”
+
+Ferric sputtered, hands lifting instinctively as he gestured toward the plains.
+
+“A child? That ‘child’ has single-pawedly reduced our cleanup time by half! Have you not seen that?!”
+
+He pointed sharply toward the chitin-littered ground. At the scattered ant limbs, pieces of cracked carapaces, and severed mandibles laying all over the place.
+
+Syl let the silence stretch.
+
+Long enough for Ferric to hear his own argument echo back at him.
+
+Then one corner of her mouth twitched.
+
+“Oh, I know.”
+
+Ferric squinted.
+
+“…You were baiting me.”
+
+She smiled sweetly.
+
+“Maybe.”
+
+Then she tapped his arm lightly with the end of her staff.
+
+“Still. Think such things through better next time.”
+
+He snorted.
+
+“Can’t teach an old dog new tricks.”
+
+The staff came down in a mock thwack against his shoulder.
+
+“Don’t pull age on me,” Syl said dryly. “You’re still in your prime there, Ferric.”
+
+He opened his mouth to protest–
+
+But she had already turned away.
+
+Her attention narrowed entirely to Luna.
+
+The world might as well have stopped existing outside that small circle of space.
+
+Syliana stepped close, and cupped Luna’s face in both hands.
+
+Firm and steady.
+
+Eye contact made.
+
+“Be careful out there, okay?” she said quietly.
+
+Luna’s tail slowed.
+
+Her grin softened just a fraction.
+
+She nodded once.
+
+Very serious.
+
+Apex Predator serious!
+
+Syl reached into her pouch and pressed a small vial of potion into Luna’s hand.
+
+“One more spare. Just in case.”
+
+Luna looked down at it.
+
+Then back up at Syl.
+
+Her smile widened.
+
+Her Second was the best!
+
+Behind them, Ferric muttered under his breath.
+
+“…I wish I were, Syliana.”
+
+His grin said he did not truly mean it.
+
+Syl’s ears still flicked at the small sound, but she did not turn.
+
+And Luna?
+
+Luna did not wait, not even for another heartbeat!
+
+She crouched low, weight shifting onto the balls of her feet.
+
+Her grin sharpened.
+
+And she vanished before their very eyes!
+
+A silver streak cutting across the plains toward the trees, grass bending in her wake as she sprinted without looking back.
+
+Only a little song could barely be heard.
+
+“Let’s get down to business…”
+
+Her eyes glinted bright.
+
+“To defeat… the ants!”
+
+And then the forest shadows swallowed her up.

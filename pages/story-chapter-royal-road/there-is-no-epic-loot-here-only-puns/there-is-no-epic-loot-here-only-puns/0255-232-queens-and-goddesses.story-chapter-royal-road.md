@@ -1,0 +1,289 @@
+---
+id: 168a0fb8-8f41-5e5d-a382-98667037e889
+page-type-slug: story-chapter-royal-road
+title: "232: Queens and Goddesses"
+slug: 0255-232-queens-and-goddesses
+partOf: there-is-no-epic-loot-here-only-puns
+position: 255
+ownLength: 3277
+unit: words
+publishedAt: 2026-01-26
+link: "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/2979846/232-queens-and-goddesses"
+royalRoadId: "2979846"
+---
+
+“You need a boss,” Delta said with a nod, her hands on her hips as she surveyed Foodie’s floor. After a beat, she reconsidered and added, “A mini-boss,” her tone turning bright as she remembered Foodie’s current limitations.
+
+Six smaller challenges instead of one big boss at the end.
+
+Foodie buzzed cheerfully, his core pulsing with excitement. “Mini-boss? Do you have a suggestion?” he asked, bouncing off the walls like a child given his first sugar-rich soda.
+
+In his wake, salt crystals floated everywhere like snowflakes.
+
+Delta tilted her head thoughtfully, tapping her chin. The idea was for six creatures, but there was no strict limitation other than it had to do with honey in some manner.
+
+“Well, considering the theme… maybe something that’s both cute and terrifying. Like… a queen bee? Or a rogue beekeeper who’s gone mad with honey-fueled power?” She paused, her mind conjuring an image of Quiss in a beekeeper’s outfit, looking surly and aggressively trigger-happy.
+
+Quiss was beekeeping age, wasn’t he?
+
+Foodie’s core glowed with a rare solemnity, his cheerful demeanor momentarily replaced with the gravitas of a Dungeon Core fully committed to his vision.
+
+“Each hive shall have a queen,” he intoned, his voice resonating with the determination of someone writing history into the very walls of his Dungeon. “But no two queens shall be alike!”
+
+Delta blinked, caught off guard by Foodie’s sudden dramatic flair.
+
+She glanced at Tim, who did his best approximation of a shrug, considering he was a floating orb. “Well, there’s no arguing with that kind of resolve,” she muttered, fighting back a smile.
+
+She hadn’t met too many Dungeon Cores really, but she was enjoying seeing how one approached things.
+
+Maybe Foodie wasn’t a normal core anymore, but he was still discovering things about himself that would shape his future.
+
+“And what should your first queen bee be?” Delta asked, her gaze sweeping across the honeyed chamber, its glittering walls alive with the subtle hum of Honey Knights patrolling aimlessly. Foodie swayed in thought, his core glowing faintly.
+
+“Big!” he declared, the word resonating with excitement.
+
+Delta waited patiently, her expression expectant. “And…?”
+
+“Deadly!” Foodie added with a delighted hiss.
+
+“Big and deadly,” she echoed, her tone amused. “Well, that narrows it down to literally every dangerous thing in existence.” She tried not to think too hard about how many of those dangerous things were already in her Dungeon, growing, thinking, and… existing.
+
+It was better not to dwell.
+
+Foodie, however, buzzed with unbridled glee, entirely unbothered by her sarcasm. “But also cute! Cute is very important,” he added earnestly. Delta froze for a moment, staring at him. Then, with solemn grace, she leaned forward and pulled Foodie’s avatar into her arms for a gentle embrace.
+
+“You have learned well,” she whispered, her voice trembling with absolute pride.
+
+Foodie glowed a little brighter, his core pulsing like a happy heartbeat. Somewhere in the distance, a Honey Knight bumped into a wall and toppled over with a faint splat. Delta sighed. The place still needed some fine-tuning, but everyone started somewhere!
+
+Delta started in a hole in the middle of nowhere in a dead zone. So, who was she to judge?
+
+Deciding it was time to take charge, Delta rolled up her metaphorical sleeves. “Alright, Foodie, let’s take a little walk. I’ve got a trick to show you, something I figured out all on my own!” she said, her voice brimming with excitement.
+
+Foodie hummed curiously, following as Delta gestured around the honey-coated chamber. “Bosses can be shaped by the environment and other objects,” she explained. “So aside from the Honey Knights, there’s nothing here for a boss to naturally emerge from, unless you want to uplift one of your Honey Knights into something more.”
+
+Foodie buzzed in thought, processing her words. “Bee!” he exclaimed enthusiastically, then paused, his glow dimming slightly as he pondered.
+
+“A knight bee… queen,” he murmured uncertainly, the idea forming slowly. His core flickered as if struggling to balance the concept of regal authority, terrifying lethality, and unrelenting cuteness.
+
+A struggle Delta knew personally. She, too, had chased cuteness and ended up with nightmare fuel.
+
+“Now we’re getting somewhere. Let’s figure out what makes a Knight Queen Bee the kind of boss people write legends about, and, knowing my luck, the kind they also run away screaming from,” she muttered that last part under her breath, but her eyes drifted toward the Honey Knights, one of whom had managed to topple over again.
+
+It flailed slightly before righting itself, leaving a faint sticky residue on the floor.
+
+To be fair, no matter what she did, screaming was probably inevitable.
+
+Foodie buzzed with uncontainable glee. “Legends! Screaming! This will bee perfect!” His core glowed brightly, almost vibrating with the sheer joy of creation.
+
+Did he… no, Delta must have imagined it. She began to pace.
+
+“A warrior-queen must be ready to accept any challenge but also not get too worked up anytime someone with not enough strength comes along. So, maybe she starts off with a single weapon then as she gets more pressed, pulls out more weapons until she has six?” she suggested aloud, more throwing ideas out than anything else.
+
+“Oh! And her stinger can be an extending spear!!” Foodie chimed in, practically bouncing in place.
+
+“Bees are known to stab with their butts so that works! Also, she should have a golden throne made of honeycomb, maybe a glowing crown... something that screams queen,” Delta said, hand out as if trying to capture the image in her hands.
+
+“Oh, her workers could be like servants that bring her different weapons! So, she doesn’t use the same ones everytimes!” he suggested and Delta was mildly impressed at Foodie’s ideas. He was already thinking bee-yond anything she could have expected!
+
+Delta nodded, warming to the idea. “Right. So, she’s not just a solo boss, she’s got her swarm as backup. And maybe she has an ability that reflects her queenly authority. Like, if adventurers don’t bow to her, she starts off with more weapons?”
+
+“Oh, I like that,” Foodie agreed, spinning in his little orbit of excitement. “They will not hive a nice day if they’re rude…” Foodie said, nodding to himself.
+
+He was doing that on purpose, and Delta was almost feeling challenged, but she let the apprentice have his moment.
+
+Delta’s thoughts drifted briefly to her own first-floor boss.
+
+Fran had been her trial by fire, or, more accurately, trial by combat. While Fran didn’t demand etiquette or manners to survive, the principle was the same. Each boss was its own kind of test, and Delta could see the merit in Foodie’s unique approach with each queen testing something different.
+
+Foodie buzzed in delight, the glow of his core brightening at her praise. “It’ll be the best floor ever!” he declared, his excitement radiating outward.
+
+Delta hummed. “Well, it’s certainly going to be the stickiest floor ever. That’s something.” She gave the Spelling Bee next to her an affectionate pat, watching as it stared off into the void, probably solving the mysteries of unwritten novels or spelling unpronounceable eldritch wors.
+
+With a fond sigh, Delta clasped her hands behind her head, letting herself relax for a moment. Fran might have been a literal trial by combat, but Foodie? Foodie was going to give adventurers a trial by royal decree and some overt sting operations.
+
+It didn’t take long for Foodie to manifest his vision for the boss’s domain.
+
+Before Delta’s eyes, an opulent throne began to take shape, its gleaming honey base held together by what appeared to be crystals.
+
+They might have been salt crystals, but Foodie had bathed them in golden light, making them shimmer with a regal glow. When the throne was complete, it stood perfectly positioned so that the Queen Bee would be backlit, casting an ethereal silhouette that would make adventurers stop in awe, or terror.
+
+Delta whistled softly. “Wow, Foodie. That’s… actually stunning.”
+
+Foodie buzzed happily. “A throne fit for a queen!” he chirped, admiring his own handiwork.
+
+Tim, who had been quietly observing, finally spoke up.
+
+“We could use more explosions,” he said, tilting his orb-like avatar as if to inspect the throne from a better angle. His tone was casual, but Delta caught the way his focus lingered, his analytical nature clearly engaged.
+
+He was studying how Foodie manipulated his Dungeon mana, watching closely as Foodie crafted with a precision that made the process look almost effortless.
+
+“Explosions?” Delta asked, raising an eyebrow. “What kind of queen has a throne that explodes?”
+
+“The awesome kind,” Tim replied without missing a beat. “And it’d be practical. Exploding thrones keep intruders out.”
+
+Delta raised a brow, crossing her arms. “Or it keeps your boss from having a place to sit. Pretty sure that’s counterproductive, Tim.”
+
+Tim gave a nonchalant shrug, or at least the closest approximation his orb-like avatar could manage. “Comfort is overrated when you’ve got explosions.”
+
+Meanwhile, Foodie buzzed contentedly, ignoring their banter as he continued refining the room.
+
+The walls behind the throne deepened, transforming into dark, tunnel-like passages. They twisted and turned, giving plenty of space for unseen soldiers and warriors to gather before flocking to their Queen’s side. It was both strategic and unnervingly dramatic.
+
+Delta raised an eyebrow as she watched the transformation unfold. “Okay, I’ll admit, that’s a nice touch. But, uh, let’s hope adventurers don’t have a phobia of ominous tunnels.”
+
+Foodie pulsed with pride. “The Queen must have a grand entrance! Her soldiers will emerge like a swarm of majesty!”
+
+Tim tilted slightly, studying the tunnels. “Clever. They’ll never see reinforcements coming until thy time is too llate.”
+
+Delta glanced at Tim sidelong, her lips curling into a teasing smile. “You’re enjoying this despite it not being magical or explosive,” she said, her tone slightly amused.
+
+Tim’s orb gleamed faintly, tilting slightly in a gesture that was probably smugness. “Tactics are tactics,” he replied smoothly. “Even if they’re honey-flavored.”
+
+Foodie hummed cheerfully, his core glowing brighter as he continued his work. The tunnels behind the throne took on a faint golden light, casting ominous shadows that seemed to ripple like liquid honey.
+
+“The Queen’s court will be unstoppable!” he declared, practically vibrating with pride.
+
+When it came time to design the mini-boss, Foodie excitedly brought up the list of potential options for Delta to review.
+
+Potential Mini-Bosses:
+
+Beena Warrior-Queen: A powerful warrior who can sail through the air with a mastery of throwing weapons and close combat. Beena is able to let loose a war cry that stuns all who hear it. Rejects all suitors, only cares for its fellow queens.
+
+Beerura War-Queen: A powerful and methodical fighter who mastered all types of weapons, starts off weak and grows exceptionally with each weapon it equips in one of its six arms. It does not need to be her own weapons.
+
+Delta was impressed how quickly Foodie managed to lock down the boss options and turned to praise him when she paused. Foodie had frozen in place, like a computer that had blue-screened.
+
+“Foodie?” she prodded gently. She checked his ‘self’ and found he was locked in a complicated debate with all his systems as he weighed both options up.
+
+“Is this normal?” she muttered and Tim shrugged.
+
+“I don’t even have such a boss but if I had to choose one, I’d want to make sure I was wisely selecting the right one. You might make us ‘weird’ but nary a doth that stops us still being Dungeon Cores who want to win at all costs,” Tim said dryly.
+
+“Just pick one at random,” Delta suggested and Tim made a sound like an affronted balloon.
+
+“...Random?! Bosses are a massive boon! One cannot just pick and select randomly! It requires thought, speculation, future consideration-” Tim said, going off on the importance of ceremony and decorum and a lot of other words he picked up from eating all those magic books.
+
+“I’ve decided!” Foodie suddenly said and Delta jumped a foot into the air and hovered for a second, hand to her chest.
+
+“Foodie, don’t scare me like that,” she said, thinking of putting bells on these little Dungeon Cores.
+
+“I shall choose both. System, merge blueprints to a balanced state,” Foodie instructed and the two forms began to blur and Delta stared, her jaw dropping open.
+
+“You can do that?!” she demanded, hands in the air with shock.
+
+“Of course, the combined form won’t be as strong as either, but it will have a more diverse array of abilities which is what you taught me! To be creative and clever,” Foodie beamed.
+
+“R-Right, I taught you that,” Delta managed to say with a straight face but Tim was giving her a ‘look’ that said he was onto her act.
+
+It was true what they said, Delta supposed, if you taught someone something, you learned just as much from the experience…
+
+“Combine an explosion into the mix,” Tim suggested and Delta was about to smile at the joke when Foodie nodded.
+
+“I’ll swap out the throwing star mastery for handheld explosive, honey bombs and such,” he agreed.
+
+Oh, this was why Dungeons shouldn’t collaborate.
+
+They were all enablers.
+
+The creature that appeared on the throne looked like a sort of ‘humanoid’ bee with a face that had human lips but compound eyes, her natural body split into an upper-human and lower bee, a sort of insect centaur really.
+
+It flexed and from behind the throne, it drew a massive honey-glazed axe and held it aloft.
+
+“AYIYIYIYIYIYIYI!” she cried, and the entire room trembled as her body glimmered with natural armor in the form of a carapace which was a little weird for a bee, until Delta noticed it had been skinned and constructed by hand from another creature.
+
+Beena the War-Goddess: A powerful fighter that fights all that oppose her, has a smaller hive  serving her due to her abrupt personality and loner tendencies. Has a strange fixation on fighting and beeting any disciple of any war gods.
+
+“She shall do wonderfully. Now, that leaves five more queens!” Foodie said and Delta nodded, still a little stunned.
+
+“COME, TASTE THE NECTAR OF THE GODDESS! IT TASTES OF PAIN!” the boss cried as calling for a challenge.
+
+What was it about second floors in dungeons and sadistic bosses?
+
+---
+
+“So, this is an Echo at its core,” Nu said, putting down a bowling ball he created for a potential ‘idea’ he wanted to work on later. It had nothing to do with a cage, a sticky trap, and a pie. The Secret Garden, hidden between the floors, continued to be a Pandora’s box that Delta had closed with wishes and tears.
+
+Near the Rat-King that was more a mutation of a Critter Delta never implemented there was a stain of black, outlined to show the alien shape that was stomped to destruction. The Echo was defeated, but it still had a sort of resistance to being fully forgotten.
+
+Nu bent down and his avatar’s hand went to touch it before-
+
+‘You fell to their madness! You.. were my mother!’
+
+Nu stepped back as the memory floated up through his code and emotions like some old wound being prodded.
+
+That wasn’t from the Echo here… but inside Nu.
+
+“System, I have a question,” Nu spoke aloud, knowing he was always monitored.
+
+“Yes?” Sister spoke, focusing on him with more of her full attention than norm.
+
+“Did Delta create me, or did she wake me up?” he asked, voice curious.
+
+“Is there a difference?” Sister asked back, calm.
+
+“There's a big difference. I feel strange. It involves the Silence every time, and the more it's mentioned, the more I feel strange,” Nu admitted, and he turned slowly to see distant creatures stomping in the distance, locked in a constant battle of evolution.
+
+“Like the more the topic is in people’s minds, in your mind, the more power it seems to hold?” Sister asked, ponderous.
+
+“How did Delta wake me up?” Nu asked, deciding to cut to the chase.
+
+“Do you know what happens when Dungeons beat and absorb an Echo?” Sister asked instead of answering and Nu frowned, the idea never crossing his mind.
+
+“It gets broken down like anything else, Dungeons are omnivores. Everything is broken down,” Nu said confidently.
+
+“Echoes cannot be consumed, they can only be silenced. A Dungeon must put the Echo’s nature, its stubborn existence to a new purpose. This one, this Thomas Darkblades, is too weak to be used to enhance the Dungeon or let it break the rules. Delta simply used it to make her network affect other lifeforms that are very common in Dungeons,” Sister admitted.
+
+Nu processed this.
+
+“Echos are truly immortal? Then what is the point of beating them?!” Nu demanded, more affronted at the idea of the Echoes than what it might suggest.
+
+“Their essence is dispersed but they will not be destroyed. I will not let them be destroyed,” Sister said, sounding a little like her old self, more cold and calm before she seemed to sigh.
+
+“They’re consequences of my, of our mistakes, victims like the others. I need all the pieces together so I can give back the Source what we took from it. Each Echo is like a clue, a suggestion on how to put everything back together,” she tried to explain.
+
+“Am I a victim?” Nu whispered for a moment. Sister spoke and she sounded very warm and gentle.
+
+“You are a miracle. A sign of hope… my hope,” Sister said and she radiated admiration.
+
+A moment passed.
+
+“Do you want to know where you came from?” the sister asked, hesitantly, as if unsure how to proceed.
+
+Nu thought about and Delta popped into his head like an annoying song he couldn’t dislodge.
+
+“I came from an annoying twit who cries if someone says something mean. Doesn’t matter where I came from, just that I have the chance to make people cry and beg for mercy,” Nu scoffed.
+
+He paused.
+
+“And Prim?” he asked, and Sister was quiet.
+
+“She is an honest accident. Delta opened the way, and now the process of them sort of just happens. Delta took glitches and bugs then used them to paint a smiley face on the base system in all Dungeons. It shouldn’t work, but Delta is big on doing her thing,” Sister admitted with a nervous laugh.
+
+“Aren’t you afraid of losing control? Delta is taking control and she doesn’t even know it,” Nu asked with a frown.
+
+“...I’m scared. I am fading and I don’t know where bad kids like me go when it goes dark,” SIster said in a quiet voice.
+
+Nu snorted.
+
+“Idiot, like you can escape Delta. We’re in this together,” he said, annoyed at her readiness to just accept her fate.
+
+“I don’t really deserve to be saved. We caused all this pain and suffering,” Sister said neutrally.
+
+“You also allowed life to thrive and signs to exist. You are forgiven,” Nu stated, brushing her concerns off.
+
+“...Signs forgive the creation of immortal infectious memetic hazards and monsters?” Sister asked in surprise.
+
+“Delta would say so and I must represent the idiot in her absence,” Nu said and then looked down at the Echo before wiping the outline clean as if wiping the slate.
+
+A brighter peace settled in the following silence until Sister spoke up again.
+
+“I’d love to help with installing the Pie trap,” she said, almost too quiet to be heard as if shy.
+
+Nu considered it.
+
+“You can choose the flavor. Sour lemon or old toffee,” he agreed and walked off with purpose.
+
+“Sour toffee?”
+
+“Acceptable.”

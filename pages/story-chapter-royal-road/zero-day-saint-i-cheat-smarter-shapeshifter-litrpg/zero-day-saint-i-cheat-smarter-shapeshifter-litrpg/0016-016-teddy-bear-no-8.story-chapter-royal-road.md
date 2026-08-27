@@ -1,0 +1,144 @@
+---
+id: 2f421792-1266-5808-b361-347837ac505c
+page-type-slug: story-chapter-royal-road
+title: "016 - Teddy Bear No. 8"
+partOf: zero-day-saint-i-cheat-smarter-shapeshifter-litrpg
+position: 16
+ownLength: 1832
+unit: words
+publishedAt: 2026-05-07
+link: "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3365248/016-teddy-bear-no-8"
+royalRoadId: "3365248"
+---
+
+As I continued my search I had to face the fact that sanctified spaces were a lot less common than profane ones.
+
+"This level of rarity is rather unusual," Gabriel commented, her voice pensive. "Lucy, did Hell mess with this, too?"
+
+"Not intentionally, no. But if I were to venture a guess, I'd say that the bandwidth issue, the Wyrm, and a society with screens and speakers everywhere, have combined into a mixture that desecrated a lot of them very fast. It never had access to such a receptive population before. Gotta have a field day right now."
+
+["I fear I'll regret asking this, but how does one desecrate a sanctified space?"]
+
+Before Gabriel could respond Lucy went on. "Oh, there are tons of ways. The easiest is attacking each other, or even using it as cover while attacking someone, or something, outside. That's why you could defend yourselves against the Wild Hunt, but couldn't just use it to snipe the demon hounds. Defending is okay, cowardice is not. Beyond that, the same way you and Jamie purified that pawn shop. Embracing an emotion that is antithetical to the resonance of the place. The deli was kind of providing-for-the-community and determination flavored. So if I had gotten you to say 'Fuck it' and leave them all behind to only care about yourself you might have desecrated it on the spot."
+
+I had been right. I did regret asking. How many people were one perfectly targeted phone call away from snapping? One public service announcement, telling them that all their worst fears had come true.
+
+["I suppose I'm lucky I left LA and that job behind. My emotional landscape was a bit more fraught over there."]
+
+"All a matter of perspective. By this time you'd probably be drinking blood out of your manager's skull and hunting tech bros in the streets. And you'd feel a lot better than you do right now."
+
+I could all too vividly imagine an entirely plausible series of events leading to that exact outcome. Before I could properly dissect the implications on the fragility of my morality, I spotted something that caught my full attention. Down an intersection I spotted a very large structure, covering more than one regular city block in size.
+
+It was exactly what I hoped it was, though the closer I got the more suspicious I grew. It was a massive shopping center, but it was far too intact compared to every building around it. Even in the middle of the night its interior was brightly lit and its windows were all intact. But at the same time I couldn't see the outline of an altered space.
+
+Gabriel started explaining before I could even ask.
+
+"The Blessing designated this as a high-value place. Too valuable to let Hell just ruin it, but also too valuable to just let people loot it. It'll be swarming with Created inside. Though at this point in time, probably mostly low-level Created."
+
+["It's a dungeon?"]
+
+"If we were to apply video game vernacular to your very serious situation, yes."
+
+"There might even be loot in there. Blessing-created loot. The good stuff," Lucy added.
+
+It was a fucking dungeon. Because of course there would be dungeons. And what annoyed me even more was how enticing it was. There would be everything we'd need in there and more. Hell, if there was a place selling beds and mattresses and such, we could take that and insulate that. We didn't need a sanctified space. It would just be safer. I continued to circle the perimeter.
+
+["Realistically speaking, could we deal with whatever is inside if we all teamed up?"]
+
+"Not unlikely. It would drain resources, but at the same time provide experience and possibly loot. Frank also got his class, by the way. Similar way Jamie did, merely by shooting enough lesser demons. They have also made it to the subway entrance."
+
+My local chat blinked. There was another Blessed nearby.
+
+["Hey, gazelle-person, can you please assist me?"] They wrote. Their name read 'Teddy bear No. 8'.
+
+I looked around, but failed to spot anyone. There was a larger apartment building behind me, offering lots of windows I could be spotted through.
+
+["I'm an impala. Where are you? And what do you need?"]
+
+At the same time I switched to the Guide chat.
+
+["Trustworthy? Can this be a trap? A demon or Created?"]
+
+Gabriel explained that this could pretty much only be a Blessed, since neither of the other options would have used chat to contact me. Didn't mean it wasn't a trap, but that kinda thinking wouldn't do humanity any good in the Apocalypse.
+
+["About 50 yards in front of you, near the bench at the bus stop. Look lower than you think. You can jump pretty high, right? I need a lift."]
+
+I followed the directions and spotted it. It was indeed a teddy bear. I trotted closer.
+
+["You're really a teddy bear? Are you some kind of minion of a Blessed? You know what, nevermind. I'm in a hurry, but yes I can give you a lift. Where? Why?"]
+
+["That awning over the entrance at this side would do. I need to get into this place, but my incursions so far haven't been successful. Demons tend to ignore plushies, but Created do not. So I want to have a hiding spot where they can't get to me, but I can spot if another group clears the place."]
+
+I stood over the plushie. It waved up at me. Out of everything that had happened this night, this must have been the most surreal event yet.
+
+["Does it hurt if I pick you up with my teeth?"]
+
+["Only if you chomp down. So please don't. At least not on the head."]
+
+I did so and jumped up on the gravel-covered awning. There was a lot of trash up here. I placed the plushy down.
+
+["Will you try to steal loot of whoever loots this place?"]
+
+["I doubt they care about the same things I do."]
+
+I had so many questions regarding what they just told me. What kind of class has plushy-based powers? Some kind of golemancer?
+
+["Okay, I really need to get going. An earthquake is coming. And I suspect the ice storm will be after that, but I'm not certain. Also I'm Eve."]
+
+["I know. It says so in the chat. I'm Cee."]
+
+["Good luck, Cee."]
+
+["Good luck, Eve."]
+
+I left Teddy Bear No. 8 behind.
+
+A minute later, the earthquake struck.
+
+The air filled with the noise of shrieking metal and the cracking of stone as one building after another started to rumble and groan around me, under Hell's attack. My devil eye even revealed the exact moment the spell struck a given building, giving it a faint purple outline. I didn't have much time to appreciate that fact, since I was very busy avoiding the masonry, glass and other debris that rained onto the street.
+
+Once more I was in a situation in which I would have perished in human shape. Without the speed and the near 360° vision there was no way to avoid this myriad of opportunities for unexpected demise.
+
+And I didn't avoid all of it. A brick here, a shard of glass there. My health was down to half by the time it was over. I found a clear spot, one that wasn't covered in debris and lay down. This had been far too close. At some point an AC unit had crashed right in front of me. And whenever I ran anywhere the buildings weren't under attack yet, it felt like the magic followed me, lighting them all up in that purple glow.
+
+["Did Hell just try to kill me?"] I flinched as a building collapsed farther down the street.
+
+"Those attacks do have something of a mind of their own," Lucy admitted. "You probably made for an interesting target."
+
+I opened my Tasks. I had gotten 'Survive the direct effects of Hell's Apocalypse Spells' again. This was like the fourth time now. I'd avoided one so far. If I ended up with 7 out of 8 I'd be miffed.
+
+"Jamie wants me to ask you why you aren't shifting. And if you are returning to them or continuing. He's worried. You'll be pleased to hear that none of the others got hurt in the earthquake." Gabriel's voice helped with the lingering panic. I stood up again, on four wobbly legs.
+
+["Can't waste ATP. And I'll keep going. Did you tell him about the shopping center? They should discuss if they want to go for it."]
+
+"I have not told him yet, I will."
+
+I kept going. The pain was starting to muddy my senses. The broken horn was still an endless pulsing ache; my flank burned where the demon had scratched me; and the earthquake had added a peppering of further minor wells of pain. But I was two hours into this day, three charges down, and four hours left before the Seal formed. I could not waste them.
+
+"They are considering it. Depending on if and when you find something. And it would have to be quick. They are currently slowly looting toward your direction."
+
+["Considering what?"]
+
+"The shopping center."
+
+Right. Of course. I had told her to tell them to discuss it.
+
+"Hey, babe," Lucy said. "No one will fault you for taking a break, you know? I know, Hell is on your heels and all that, but you seem a bit worn down. When was the last time you hydrated? You've been running through those streets for a while now."
+
+I honestly couldn't tell if they were concerned or mocking me. Probably both.
+
+["Not babe. Babe isn't it. Not where we are, Lucy."]
+
+"Yeah, I'm not feeling it either. I'll find something better. Kinda regretting giving up that previous word."
+
+But they were right. I had been running a lot scouting those streets. And impalas were sprinters. Canines and humans were the ones who could go on forever.
+
+I was just passing a small kiosk, considering shifting to steal a drink, when I saw it. A faint blue outline, three blocks away. Compared to the deli, it was huge, too.
+
+["Tell them to get moving. I still need to scout it out, but this has to be it."]
+
+Considering the pattern I had taken in my scouting I wasn't too far away from the subway station. Or the shopping center.
+
+["Actually, if they want to hit it, tell them to head to the shopping center. I'll scout this place real quick and then meet up with them there. We need to hurry, but if we can manage a hit and run we can loot it and get to the sanctified space with ten to fifteen minutes to spare."]
+
+I ran off toward the blue outline. As I got closer its identity became clear. A fire station. A big one, made of red bricks. The perfect base of operations.

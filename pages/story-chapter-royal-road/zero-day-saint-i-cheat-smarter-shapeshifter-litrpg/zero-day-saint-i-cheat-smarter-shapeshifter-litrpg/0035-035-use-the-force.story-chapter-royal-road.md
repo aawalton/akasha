@@ -1,0 +1,203 @@
+---
+id: 7b43783e-374d-5f5f-bfe9-d4cf0af1a6b5
+page-type-slug: story-chapter-royal-road
+title: "035 - Use the Force"
+slug: 0035-035-use-the-force
+partOf: zero-day-saint-i-cheat-smarter-shapeshifter-litrpg
+position: 35
+ownLength: 2308
+unit: words
+publishedAt: 2026-06-04
+link: "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpg/chapter/3490814/035-use-the-force"
+royalRoadId: "3490814"
+---
+
+Whether due to exhaustion or a side effect of sanctified space, I couldn't remember the last time I had slept that deeply. Ten hours of sleep had just gone by and when I bounced out of bed I felt a lot better than when I had lain down.
+
+I checked my daily rotation. Along with Crow, Golden Retriever, Pheasant and Nightmare Unicorn I now had:
+
+'Red-tailed Hawk' (daily)
+
+'Spotted Hyena' (daily)
+
+'Cassowary' (daily)
+
+Seeing the hyena on that list made my stomach churn. That image of the spilled guts on the hot asphalt would stick with me for a while. But objectively speaking it was a good shape. At least to my knowledge. Hyenas were one of the species in which the females kicked ass.
+
+And then I had four birds at my disposal now. At least two out of three daily kills would be easy? I'd have to make a fool of myself and ask Ash how dangerous cassowaries were, exactly. I knew they were in the general vicinity of 'an ostrich, but worse,' and those weren't exactly harmless. But then I'd known that buffaloes were basically different cows, too.
+
+Wearing the same clothes as the day before, carrying the stale scent of smoke from the barbeque, I made my way to the common room. Still lacking a wall, it was a bit chilly here, not yet warmed by the summer's heat.
+
+Only Anthony and Ash were up already, though a couple of dots were moving in their rooms and the bathroom.
+
+"Morning," I greeted them.
+
+"Hey Eve," Ash beamed.
+
+"Good morning, Eve," Anthony said.
+
+I began helping them with what they were doing, cleaning up the moderate chaos left behind by last evening.
+
+"Ash, you have to share your secret," I said.
+
+He looked surprised at that statement. Did he actually have a secret?
+
+"What secret do you mean?" he asked.
+
+"How is your mood consistently this great in the face of the apocalypse?"
+
+"Oh, that's hm, how do I say this… You know how the Blessing healed your caffeine addiction?"
+
+"Yes?"
+
+"Well, gender dysphoria is treated like a physical affliction. That the blessing just treated, as part of, well, everything."
+
+It took me a moment to parse what he'd said, and then to figure out how to clarify my understanding without sounding like an ass.
+
+"You got… adjustments as part of your Blessing? The proper equipment so to speak?"
+
+Ash laughed. "Yeah, that's how you could call it."
+
+I wanted to ask why it hadn't made him taller, but that felt distinctly like going too far.
+
+"Wild," I said instead. "Congratulations on the gender."
+
+"Thanks, I like it a lot."
+
+Anthony didn't seem surprised at all. He probably already knew. He seemed like the kind who knew most of everyone's stories already.
+
+Instead he surprised me. He opened a cupboard and pulled out a box of Cinnamon Toast Crunch, which he handed to my dumbfounded self.
+
+He smiled at my expression. "There are a couple more boxes in storage. Found a small store at the mall that stocked them. Along with a bunch of other cereal. If you aren't picky you are set for months."
+
+Those people kept blindsiding me with their ruthless kindness.
+
+"Thanks," I muttered, while Anthony pulled a bowl out of another cupboard and a carton of milk out of the fridge.
+
+"That bribe isn't entirely selfless, though. I have something to discuss that we need your help with."
+
+I made myself a bowl. I fundamentally enjoyed being useful. "Go ahead."
+
+"It's the whole experience thing. Our group of eight didn't accomplish all that much yesterday, while you two were already ahead and only pulled away further."
+
+"What's Roslyn's class?" I asked, sitting down at one of the campaign tables with my bowl.
+
+"Roslyn? It's called defender. Heavily frontline-focused."
+
+I thought about compositions for a moment. "We'll take Ash, Liz and Stephen along today and focus on experience. You others should do the same."
+
+Anthony sat down across from me. "May I ask why specifically them?"
+
+"Roslyn fills the same niche Jamie does, Constance excels as a ranged attacker, you work well with her and seem to know her from before. Annika is the healer you will desperately need while Jamie and I can heal ourselves and Jamie can heal others."
+
+I ate my first spoonful. It was exactly what I wanted right now. I didn't even particularly like cinnamon. But it was what I ate and thus I kept eating it. Habits didn't always need to make perfect sense. Sugar, fake cinnamon and milk. I wondered if it would give me a buff if Stephen was the one who poured the milk.
+
+"If you lay it out like that it seems like the only choice. You've thought about this already?"
+
+"Yeah, the moment I saw your levels yesterday. There is a high risk, possibly high reward option for experience out there."
+
+I told him about the Gnoll fortress. If my party caused a big ruckus and caught a lot of their attention, theirs could slip in from the side and possibly catch a whole lot of them off guard.
+
+I kept thinking of all that experience I had gotten for blowing up those demon hounds. If any of the others could trigger a sufficiently large explosion in there they'd instantly reach level 10. The Blessing did not seem to care how the killing was done, as long as your foes were left dead.
+
+But maybe a tossed canister of improvised tear gas would count as a contribution.
+
+"Ash, do you have any combat options available today?"
+
+"I do, though I am not sure how strong it is. Mana expulsion. It says it causes a blast of raw mana but it only costs one mana. So I am not entirely sure how efficient that will be."
+
+"Buffs?"
+
+"Darkvision," Ash sighed. "Also I can create water, light and paper."
+
+"Planning how to sow death and destruction upon our foes?" Jamie asked from the corridor to the bedrooms. His hair was thankfully tied back again, though in the fresh shirt he still looked far too smart for 8am. Where did he keep finding fresh shirts?"
+
+"Today we will do nothing but sow death and destruction. The others need experience and we are powerleveling them."
+
+He joined us at the table. "I'm all ears."
+
+"We are still planning, but there are options. Gnoll fortress, forest, mall. Maybe Claire knows about something new, too. And I still have to practice flying, I might just spot something."
+
+As others kept filing in, we kept planning. Eventually we agreed that if I managed to do so safely, I'd check out that fortress from the air, with Jamie nearby in case of emergency. If there was a way to do the two-team assault we'd do it.
+
+I even checked in with Gabriel beforehand if doing this with two teams of five was reckless again. And if, as long as we attacked from two sides, the experience penalty wouldn't count as ten.
+
+To my relief, it wouldn't and it wasn't. We split the party up into two, with only five remaining in ours.
+
+My assessment about the cassowary hadn't been as far off as the buffalo. They were meaner and leaner ostriches. Smaller, but more agile.
+
+And equipped with a dagger claw. With my increased stats, and in the upcoming melee, it might be my most lethal shape yet.
+
+And when Stephen revealed the contents of his care package our plan took shape.
+
+#
+
+I finished the last bite of my sandwich and stepped out into the street. After contemplating my three choices I went with the hawk. Maybe Fate was on my side and wasn't teasing me. Maybe it was the right shape to learn how to fly with.
+
+We had a plan and people were supposed to be taking steps to work toward that plan. Yet, somehow, people happened to be milling around the outside. Obviously not watching Eve embarrassing herself while she learned to fly. No, certainly they had all good reasons to be here.
+
+I had thought about the logistics ever since we had returned from the forest. How the hell does one take flight? In a tiny shape that's so close to the ground.
+
+"Use the force, Eve," Lucy said. "Let go."
+
+And I knew that they were right. Instinct was the skill I needed here. My mind would never work this out. I needed to rely on the hawk's brain to do this.
+
+I took a couple of experimental hops. Flexed my wings. Screeched. Got a feel for what I was right now.
+
+I thought of what it would be like, soaring through the streets. Exceptional eyes tracking the movements of the smallest prey, swooping in for the kill.
+
+And then I let Instinct guide me.
+
+A flap of those wings, a hop, a movement of my tail to balance, and I was in the air. I was so surprised, my mind immediately wanted back into the driver's seat. I nearly nose dived straight into the ground. But the Force did guide me, lifted me for just that fraction of a confused second, before I once more let Instinct take control, and gained height.
+
+Maybe it hadn't been exactly the Force. Out of the corner of my eye I saw Liz lower her outstretched hand again. I should have asked her to do this from the beginning. But now I was off and away, soaring.
+
+For a while I just let Instinct do its thing, enjoying the ride, the exhilaration. I knew this perspective was just a mental crutch, that I was doing this, somehow, myself.
+
+"You did really well there," Gabriel said. "Very few people manage to pull it off on the first try."
+
+["I had a little assistance there."]
+
+There was a chuckle. That wonderful sound that triggered all the dopamine. I didn't even know if hawk brains had dopamine. "Oh, I know. But even with assistance few people manage their first attempt at taking flight."
+
+Chatting was the perfect distraction from what I was actually doing. Excellent busywork for the frontal lobes, while the hind brain did all the flapping and turning.
+
+["The trick to that whole shapeshifter business seems to be to know when to fight against those instincts and when to let them do their thing."]
+
+"Accurate."
+
+["So, while we are on the topic of flight. I am being a very responsible person and talking this through with you, before attempting it."]
+
+"Go on."
+
+["I'm pretty sure that I didn't coincidentally hit the limit for what levels of speed the blessing would reward. Assuming the unicorn is about 10 times heavier than the impala and achieves similar sprinting speeds, shifting from that into the crow would mean I'd go about 3 times as fast as when I did the shift on that roof top. Further estimating that I actually managed to hit, let's say, 500 mph, that means I'd hit about twice the speed of sound if I did that. So my question is: Does Enhanced Resistance against Air Friction also apply to the deceleration applied by that friction?"]
+
+"Yes it does. There is a reason you got this at those levels of speed. Don't do this without Constance's Holy Armor. You have natural armor, your Endurance would be many times higher than that of a regular crow, but only through layered defenses this wouldn't be suicidal. Not to mention that you'd travel at least a mile, entirely without control, in a straight line. You need a long enough runway."
+
+["Or I jump before shifting, giving me a trajectory that'd bring me above most buildings really fast."]
+
+"Or you jump. Also take the hawk shape, not the crow. Your math has too many variables, and crossing the next threshold will likely make it easier to survive the next after that one."
+
+I started to tentatively steer. I needed to take a look at the gnoll fortress, and didn't want to fly too far off in the wrong direction.
+
+["I thought you would get mad at me."]
+
+"Why would I? You are doing what the Blessing is urging you to do, you are considering the risks and you are talking through them beforehand. My job is to keep you alive, but also to advise you and guide you toward your goals. Surviving means facing the challenges that lie ahead, to save this world. You are smart, you can, and need to, take calculated risks. It is when you forgo the math that you and I have a problem."
+
+["What do you think of Jamie's perk? He must have sacrificed something that could have helped the entire group to take that."]
+
+"I am obviously biased, but I am certain it was the best choice. He is very loyal and increasing the potential of what you two can achieve will end up helping the entire group."
+
+"You'd see that, too, if your mind wasn't made up of at least 40% commitment issues."
+
+["Thanks, Lucy."]
+
+I spotted something that was so unreal that I nearly dropped out of the sky.
+
+In front of a large profane space, likely a bank, was a group of kobolds accompanied by two demons. Real demons, not lesser. And the kobolds looked nothing like those in the mall. They wore suits. And I spotted a bowler hat or two. Only a tommy gun was missing to turn this into a scene from a bad gangster movie.
+
+They were loading a cart that looked like it had been improvised out of a small trailer with plunder from the bank. Bags of money, loose brass decor, even a small bust.
+
+The hawk's excellent vision revealed the detail that made this ensemble click. The kobold's cufflinks carried a clawed emblem. A logo I had seen before.
+
+On the tower of Mammon.

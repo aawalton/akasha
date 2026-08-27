@@ -1,0 +1,381 @@
+---
+id: ed43157e-4a83-5922-98b0-a1603ab8b6a6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 21: Carriage"
+slug: 0021-chapter-21-carriage
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 21
+ownLength: 2371
+unit: words
+publishedAt: 2026-04-20
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3297887/chapter-21-carriage"
+royalRoadId: "3297887"
+---
+
+The scream never left the guard's throat.
+
+Something spun out of the darkness inside the tower. A blur caught my sight, before it buried itself in the guard's neck.
+
+The impact made a sound like a boot stamping into wet earth.
+
+His hands flew to his throat, fingers scrabbling at the hilt jutting from beneath his jaw. His mouth opened, but what came out wasn't a sound. It was a wet, bubbling hiss.
+
+He folded.
+
+My brain was still processing the first blade when the second came for me.
+
+A flash spinning through the air, end over end, aimed at my face. My body didn't move fast enough to dodge it properly, but some desperate backward lurch pulled my head out of the blade's line.
+
+I stumbled through the doorway.
+
+My heel caught the threshold stone. My shoulder slammed into the doorframe. The dagger whipped past me and punched into the heavy oak door.
+
+The hilt quivered inches from my eye.
+
+I stared at it.
+
+My lungs wouldn't work.
+
+I couldn't see clearly into the room anymore. My angle was wrong. But my brain didn't need to see anymore.
+
+The dead soldier in the corner. Throat gutted, blood pooled and body cold.
+
+The guard beside me with a blade in his neck.
+
+It all made sense.
+
+The entire perimeter around Grezheim was cleared land. Stripped of any cover. From these walls, you could see for miles in every direction.
+
+How had hundreds of hooded figures poured over the battlements without anyone raising an alarm?
+
+Because the alarm was already dead.
+
+They'd sent someone ahead. Hours ago. Maybe longer.
+
+No crystal communication. No alarm bell. No call for reinforcements.
+
+Grezheim would burn deaf and mute.
+
+A voice came from inside the room.
+
+Clipped syllables. A language I didn't recognize.
+
+My hand found my sword hilt.
+
+Too late.
+
+The elf came through the door.
+
+One moment the threshold was empty. The next he was there. His hood was up. Two blades gleamed in his hands, one in each, both short, both curved.
+
+Unlike the last elf I've faced, he didn't pause or try to test me.
+
+He came at me to kill.
+
+The first strike was a scissoring motion, both blades sweeping inward from opposite angles. If I'd been a heartbeat slower reaching for my guard, they would have met inside my ribcage.
+
+My sword caught the right-hand blade. The left carved air a finger's width from my hip as I twisted sideways, wrenching my body out of the cut's path.
+
+He was already flowing into the next attack.
+
+Both blades reversed. A low diagonal from the left, rising toward my chin, and a high stab from the right aimed at my eye socket. The combination was seamless. No gap between strikes. No pause for breath.
+
+I parried the diagonal. Barely. The impact shuddered up my arm and rattled my teeth.
+
+The stab I dodged by throwing my head back so far my spine protested.
+
+He was good.
+
+He was terrifyingly good.
+
+But I was better than last time.
+
+A Level 2 in Swordsmanship didn't add speed or strength to myself. What it added was insight. The ability to perceive the fight as it happened instead of processing it three heartbeats too late.
+
+His shoulders moved before his blades. The direction of his leading foot predicted the angle of the next cut. When he shifted weight to his left leg, a right-hand strike followed. When his wrist rotated inward, the blade would sweep horizontal.
+
+I could read him.
+
+Not fast enough to win. Not good enough to counter. But enough to survive for more than two exchanges.
+
+And enough to talk.
+
+"What is an elf doing inside Grezheim's walls?"
+
+The words came out between parries. I hadn't planned them. My mind had decided that if I was going to die, I was going to die informed.
+
+The elf didn't answer.
+
+A slash came for my throat. I ducked it. Thrust for his midsection. He deflected with ease and riposted with a combination that drove me back three steps.
+
+"How did you get past the wall?"
+
+My sword caught his left blade.
+
+He pressed forward. I yielded ground, boots scraping on the stones, maintaining distance by fractions.
+
+"The signal crystal," I said, gasping now, arms burning. "You killed the operator. How long ago? Before sunrise?"
+
+Nothing.
+
+A brutal overhead cut that I barely caught on the flat of my blade. My knees buckled under the force. I shoved him off and swung a wild horizontal that he avoided by simply leaning back.
+
+"How many of you are already inside?"
+
+No answer.
+
+I was losing ground. The walkway was narrow, the battlements on one side, a drop to the streets below on the other. Every step backward was a step closer to having nowhere left to go.
+
+But I kept asking.
+
+Somewhere in the back of my mind, I noticed what I was doing. I was treating this fight the way I'd treated the wyvern corridor. Each death was a reconnaissance mission. Each loop was an investment. Information purchased with blood.
+
+My life wasn't a life anymore.
+
+It was currency.
+
+Something I offered in exchange for one more answer. One more pattern. One more detail that might, in some future loop, make the difference between failure and survival.
+
+The realization should have horrified me.
+
+It didn't.
+
+"You talk too much," the elf said.
+
+The words came out heavily accented.
+
+I almost laughed.
+
+Talk too much? I barely talked.
+
+I'd spent loops in near-silence, alone with a mule and a stolen sword and the inside of my own skull.
+
+But the elf had spoken. He could speak. That meant there was a crack in the silence I could exploit.
+
+Maybe not now. In a future loop, when I was better. When I had the right leverage.
+
+For now, I needed information of a different kind.
+
+The kind only combat could teach.
+
+His left blade came low. I parried and, for the first time, didn't retreat.
+
+I counterattacked.
+
+The motion was ugly. A chopping slash that felt more like desperation than technique.
+
+The elf deflected it. Easily.
+
+But I‘d attacked.
+
+The next exchange, I did it again. A thrust this time, aimed at his chest, poorly timed and overextended. He sidestepped and punished me with a cut across my forearm that opened skin and sent blood spattering onto the walkway stones.
+
+Pain screamed up my arm. I ignored it.
+
+I swung again. Another choppy, artless cut.
+
+Again.
+
+Again.
+
+Each counterattack was wrong. I knew it was wrong while I was doing it. The angle was off, the timing was early, the commitment was too deep. My instinct-instructor screamed corrections I was too slow to implement.
+
+Each failed attack taught me what failure looked like. Where the blade was when it missed. Where my weight was. Where his body went when he avoided it.
+
+The elf's patience frayed.
+
+His eyes burned behind the hood. I couldn't see their color, but I could feel the heat of his gaze like a brand on my skin.
+
+The next exchange was mine.
+
+He threw a vicious combination. Right blade low, left blade high, designed to split my attention. I caught the low strike, let the high one pass over my head, and drove my sword forward in a straight, brutal thrust aimed at his shoulder.
+
+It connected.
+
+The tip of my ugly, unfinished blade bit into the meat of his upper arm. A glancing wound, barely more than a cut.
+
+But it was enough.
+
+Blood welled from the wound.
+
+Gold. Not red.
+
+This blood was liquid gold. It run down the elf's arm in a thin ribbon like a thread of precious metal.
+
+The elf went absolutely still.
+
+For one heartbeat, neither of us moved.
+
+Yet, I felt it. Hatred.
+
+It poured off him. It didn't need words. It was in the way his shoulders squared, the way his grip shifted on both hilts.
+
+The attacks came faster than anything I'd seen.
+
+Both blades became a continuous wall of steel. There was no rhythm anymore, no pattern I could read. Just speed, fury and killing intent.
+
+I parried. Parried. Parried.
+
+My arms screamed. My wrists shook. My blade vibrated with each impact until my fingers went numb.
+
+The ground vanished beneath me. Step by step, the elf drove me backward along the walkway. The battlements rose on my right. The drop to the streets gaped on my left.
+
+My back hit stone.
+
+Nowhere left to go.
+
+My dodges began to fail.
+
+A slash caught my shoulder. My robe split. Blood bloomed.
+
+My defenses fell apart.
+
+His right blade batted my sword aside. My chest, my ribs, my heart, all of it exposed.
+
+I saw the left blade come.
+
+It drove straight forward, both of the elf's hands stacking behind it, every pound of his lean body weight concentrated into the tip that punched through my sternum and buried itself between my ribs.
+
+A white-hot agony started in my chest and radiated outward to every extremity. My lungs seized. My heart stuttered. My hands opened, and my sword clattered against the stone.
+
+My knees buckled. I slid backward, the blade still in my chest, my body weight pulling me against the low parapet.
+
+I expected darkness.
+
+Instead, I felt myself tipping.
+
+The parapet caught me at the hip. My upper body kept going, gravity pulling me over the edge.
+
+I fell.
+
+The wall blurred past. The walkway shrank above me. The elf's hooded silhouette stood at the edge and watched me drop.
+
+I thought my consciousness would disappear before I hit the ground.
+
+I was wrong.
+
+I didn't hit the ground at all.
+
+The carriage came first.
+
+It waited below in the staging area outside the wall, one of several that hadn't departed yet.
+
+I hit it.
+
+The canvas tore with a sound like ripping flesh. The wooden frame beneath cracked and splintered, and I crashed through the roof.
+
+Bodies scattered beneath me.
+
+Passengers screamed. Someone fell off their bench. Someone else caught a piece of the frame across the shoulders and went down hard.
+
+The carriage lurched sideways under the impact. One wheel lifted off the ground, hung for a terrible second, and slammed back down.
+
+Through the haze of blood and failing vision, I saw faces.
+
+Most I didn't recognize. Strangers in armor, in robes, their mouths open, their eyes wide with the particular terror of people who have just watched a body fall from the sky.
+
+However, there were two faces I knew.
+
+Iris knelt beside me. Her helmet was off. Black hair fell across her face. Her blue eyes were enormous, flooded with a horror.
+
+"Kaspar!" Her hands hovered over me, shaking, wanting to help and not knowing where to start. "Kaspar, can you hear me? Are you—"
+
+Her voice broke.
+
+"—are you okay?"
+
+The question was so absurd under the circumstances that a laugh tried to form in my throat. It came out as a wet, gurgling cough.
+
+Beyond Iris, another face stared at me.
+
+Drez.
+
+The girl from the forge quarter. Short red-orange hair. Compact frame. Gold insignia.
+
+She wasn't looking at my wounds.
+
+She was looking at the ruined carriage.
+
+"The axle's shattered," Drez said, her voice tight and hard and furious. "The frame's gone. This carriage isn't going anywhere."
+
+Her eyes swept the damage.
+
+"Without this one, we're short on transport," Drez continued, already running logistics in her head. "We won't make the southern front on time. We won't make it at all unless command sends replacements, and that'll take—"
+
+"He's dying!" Iris snapped.
+
+Drez's jaw clenched. Her gaze dropped to me for a brief, clinical moment.
+
+"Where did you fall from?" she asked.
+
+Iris grabbed my hand. Her fingers were warm against mine. Mine were cold. Getting colder.
+
+"Kaspar," Iris whispered. "Kaspar, there's an elven blade in your chest. Why is there an elven blade in your—"
+
+The words dissolved.
+
+Everything dissolved.
+
+⌜ You fought a superior opponent and refused to yield ⌝
+
+⌜ You shed Elven blood for the first time ⌝
+
+⌜ Amateur Swordsmanship — Level Increased ⌝
+
+⌜ Level 3 ⌝
+
+⌜ Restarting Day ⌝
+
+I woke up in the tent.
+
+I didn’t scream. I was getting used to clenching my teeth until the pain passed. Still, there was no avoiding it. The pain grew with each new death, at times becoming impossible to overcome.
+
+And yet, it was strange. Even as the pain intensified, I became better at ignoring it.
+
+I lay still and let the phantom pain in my chest recede. The blade wasn't there. The hole wasn't there. My lungs filled without the wet rattle of blood.
+
+"Without the carriages," I whispered to the empty tent, "they can't go south."
+
+Drez's voice echoed in my memory. We won't make the southern front on schedule.
+
+I won't let you make it at all.
+
+It was obvious.
+
+The kind of obvious that only becomes clear when someone says it out loud.
+
+The Knights. The fourth-year students. The garrison soldiers. Professor Molino. Every person in Grezheim capable of mounting a real defense was scheduled to leave this afternoon in those carriages.
+
+If the carriages didn't exist, they couldn't leave.
+
+If they couldn't leave, they'd still be in Grezheim when the hooded figures came over the walls.
+
+However, there was the second problem.
+
+The elf in the signal tower.
+
+Even if I kept every fighter in Grezheim, the alarm was dead. The garrison wouldn't mobilize properly. They'd fight scattered and confused, unable to coordinate.
+
+I needed the carriages destroyed.
+
+I needed the elf eliminated, or at least driven from the tower before nightfall.
+
+One problem at a time.
+
+The elf was beyond me. He was faster, stronger, more skilled.
+
+But the carriages?
+
+I sat up in my bedroll and let a slow, cold smile spread across my face.
+
+The carriages were wood and canvas and axle grease. Parked outside the walls in a staging area with minimal guard presence.
+
+I thought about my old life.
+
+Not the sword-swinging, wyvern-dodging, curse-bearing nightmare of a life I lived now. The first one.
+
+The one I was a firefighter.
+
+Good firefighters know how to put out fires.
+
+Great ones know how to start them.

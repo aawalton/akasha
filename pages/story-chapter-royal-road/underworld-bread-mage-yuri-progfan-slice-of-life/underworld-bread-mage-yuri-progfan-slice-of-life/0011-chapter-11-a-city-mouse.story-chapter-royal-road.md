@@ -1,0 +1,125 @@
+---
+id: 4bffac67-0b62-53fc-a770-983013028436
+page-type-slug: story-chapter-royal-road
+title: "Chapter 11: A City Mouse"
+slug: 0011-chapter-11-a-city-mouse
+partOf: underworld-bread-mage-yuri-progfan-slice-of-life
+position: 11
+ownLength: 1472
+unit: words
+publishedAt: 2026-07-28
+link: "https://www.royalroad.com/fiction/179650/underworld-bread-mage-yuri-lit-rpg-slice-of-life/chapter/3737019/chapter-11-a-city-mouse"
+royalRoadId: "3737019"
+---
+
+“M-my lord, I don’t think that is of the etiquette.” Mellie stuttered.
+
+“Etiquette? Indeed, speaking anything but Universal to nobility is a sign of disrespect, but so is denying a lord their request.” Hecate pointed out. “You wouldn’t deny me such a simple request, would you?”
+
+Lord and nobility were the two words that caught most of Marina’s attention. Only a few hours had passed since her attempt at prying information out of the proud vampire. Hecate’s attire, her mannerisms, and her pride all matched someone of high status. And yet all she received was barely an answer. But now, Hecate blew her identity right out the water, as if it were not a secret at all.
+
+“O-of course not.” Mellie took half a step back. “Goodbye in my language is pronounced–”
+
+Whoosh.
+
+A glimpse of a small object caught Marina’s eye. It was fast, but not fast enough to catch Hecate off guard. Marina was splashed with a gentle breeze of wind as the object stopped abruptly in midair, now within the grasp of Hecate’s hand. A drop of cold sweat rolled off her forehead at the realization of the projectile that was aimed at her. It was a dagger.
+
+Without warning, Hecate disappeared from beside Marina, positioning herself in the path of Mellie’s escape.
+
+“I believe lying and attempting murder upon a noble is also against the etiquette.” Hecate held out her right hand, now taking the form of a bony claw. “I have lived a long life, my memories have decayed. Would you mind telling me the punishment for those crimes?”
+
+The fear within Mellie’s eyes constrained any thoughts of escape within her mind. She trembled in silence before the monstrosity in front of her.
+
+“Oh, it seems that my memory has returned.” Hecate stepped closer. “The punishment for those crimes, is death.” Her claw sank straight into Mellie’s chest before ripping out a small object from her body.
+
+Marina watched as Mellie’s lifeless body fell onto the ground, crumbling into a pile of dust. This moment of brutality seemed to have drained the strength from her legs, knocking her slightly off-balance.
+
+Hecate rushed to her side. “My dear, are you alright?”
+
+Her vision blurred as the scene replayed within her mind. The same hand used to end a life was also the same hand that kept her from falling. Two sides of the same coin, flipped only by the victor.
+
+“Y-yes, why did she… and why did you…” There were many questions that Marina wanted to ask.
+
+“Ah. I apologize for my cruel method.” Hecate stored the small sphere-like object in her satchel. “Don’t you find it baffling that Mellie called for help in Universal, in a forest where it is not the preferred language?”
+
+“I suppose…?” Marina scratched her head.
+
+“She did that because, one, she had no clue as to how to call for help in her native language. And two, she couldn’t resist the scent of my Authority and decided to take the risk.” Hecate explained.
+
+Marina could not smell anything particular about Hecate’s scent, except for a faint sweet note of perfume. This only meant one thing.
+
+“The scent of your Authority? You mean she is a Bearer?”
+
+“You are truly talented in more ways than I can imagine, my dear.” Hecate complimented. “Indeed, she is a Bearer, but she is anything but Mellie, that was a Phantom with a stolen appearance.”
+
+“A Phantom? Like a type of ghost?”
+
+“They are indeed similar. Both are spiritual beings with no flesh or blood, as you may have just seen.” Hecate gestured. “If my predictions are correct, the real Mellie should still be steps away from death’s door.”
+
+Marina widened her eyes. “So we need to hurry up and find her now!”
+
+“Worry not, my dear. I did just now.” Hecate extended her arm. “She is around three stride lengths behind that tree.”
+
+Without a second thought, Marina dashed through the bushes. She did not care about any potential dangers. The woods had grown quiet by this point, and if there were any further threats, Hecate would neutralize them as she had before. Behind the tree at the end of Hecate’s finger lay the same girl from just a moment ago.
+
+“Mellie!” Marina tapped on her shoulder. A freezing sensation immediately invaded the nerves of her fingertips. “Hecate, what do we do?”
+
+“The Phantom most likely phased through her, which froze her body from the inside.” Hecate examined. “Potions won’t be enough to wake her up now, meaning there is only one option left.”
+
+“Just spit it out!”
+
+“I will need to ignite her blood.”
+
+“What?!” Marina glared at Hecate. “Wouldn’t that just kill her?”
+
+“It is not what it sounds like. I will simply raise the temperature of her blood to combat the cold.” Hecate proposed. “But it will be a painful process that she will need to endure.”
+
+“Okay.” Marina nodded. “You sure this will work?”
+
+“As I have said, we have no other choice, unless you have a better idea?” Hecate gently sat Mellie next to a tree as she prepared the procedure. “She is lucky that it was you who was passing by. If it were just me, I would’ve left her to die.”
+
+Marina kept silent at Hecate’s statement. It was her naive kindness that had led her to be in the situation she was currently in, but at the same time, she considered herself lucky that the vampire outside her door was Hecate. Rarely did anyone offer themselves into the service of another, not on Earth, and definitely not in a place like the Underworld.
+
+“Authority of Blood,” Hecate chanted. “Aflame.”
+
+A spark of blood-red hellfire ignited from Mellie’s skin, but seemingly did not affect her clothes or the surrounding flora. Marina paced around in circles. She couldn’t keep still while watching someone being tormented in front of her, all because she wanted to play the hero.
+
+“How long does she have to endure this?” Marina’s eyes glittered with the luminosity from the flame, masking the distress of her expression.
+
+“From our current pace, my best guess will be at least five minutes,” Hecate replied. “The longer this goes on, the more unbearable it will become.”
+
+“Is there nothing else we can do?” Marina begged for something else, anything.
+
+“We can wait patiently.” Hecate turned her back. “That is about all that we can do for now.”
+
+“Ahhh!” Mellie let out an agonizing cry, no longer able to suppress the pain.
+
+A strand of strange syllables followed. It was similar to the language spoken by Myrdek, yet different in its rhythm, and it confused Marina nonetheless.
+
+“What did she say?” Marina looked to Hecate, whose expression was now stiffer than usual.
+
+“It hurts, she said,” Hecate interpreted in a dry voice. “My dear, I am not sure if you are familiar with moments like these in your previous life. If it’s too much, I alone can watch over–”
+
+“I am not leaving!” Marina yelled as she sat next to Mellie. “She needs us. I am not going to leave.”
+
+Even from only inches away, the blaze felt like anything but an ever-burning torch of fire. There was no heat at all; only the luminosity was left to prove that it was indeed a flame.
+
+Marina reached to wipe the sweat off of Mellie’s forehead with the sleeve of her cloak; her hand trembled at the sight of Mellie’s excruciating expression.
+
+“T-thank you,” Mellie whispered with the last bit of her strength, “W-what is your name?”
+
+The soft voice reached Marina like a beam of sunshine piercing through a dark world, the last ray of hope from the young woman to her. Giving up could only mean death, the end of a life that had yet to live, and a friendship that never began. Marina was granted a second chance, but she could only assume her second was her last. And for those already here, their first was also their last.
+
+“It’s Marina.” She held onto Mellie’s hand. “Don’t worry, my assistant and I will save you. I promise!”
+
+“Marina… such an odd name…” Mellie's voice began to drift. “Are you from the cities?”
+
+“Uhm, I–”
+
+A small curve of her lips was all Mellie could manage of a gentle smile. “The cities must be beautiful… all the good food… all the fun places…”
+
+“Mellie, you shouldn’t talk right now,” Marina said as she held on tighter. It was both a warning and a prayer Your body is–”
+
+“I wish to go someday…”
+
+As the last of Mellie’s words left her, the forest returned to a peaceful silence. Tears fell from Marina’s cheek at the sight of Mellie’s limbed body. Yet the flames seemed to have no care for whatever tragedy it had staged, and now burned ever brighter than before.

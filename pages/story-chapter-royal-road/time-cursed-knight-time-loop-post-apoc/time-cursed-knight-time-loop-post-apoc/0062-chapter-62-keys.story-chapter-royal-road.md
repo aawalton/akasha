@@ -1,0 +1,403 @@
+---
+id: b3989af8-957c-5053-8c01-fe43a42ea3b6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 62: Keys"
+slug: 0062-chapter-62-keys
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 62
+ownLength: 3019
+unit: words
+publishedAt: 2026-06-10
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3520802/chapter-62-keys"
+royalRoadId: "3520802"
+---
+
+I'd prepared for this moment before I ever walked through the shop door.
+
+The question of what to tell my aunt had occupied a substantial portion of my thinking while getting to the store. Not because I lacked respect for her, the memories made clear she deserved more honesty than almost anyone, but the truth would hurt her worse than any lie.
+
+I'm not your nephew. Your nephew is gone. Something else lives in his body now.
+
+That truth would accomplish nothing.
+
+So I had constructed something better.
+
+Not a lie. Not entirely. A version of events that sat close enough to reality to withstand scrutiny, and far enough from the catastrophic truth to protect the people who needed protecting.
+
+The challenge was calibration. How much Asena already knew. How much she would accept. How much she would push.
+
+She pushed immediately.
+
+We were seated at the kitchen table. Eren had climbed onto the chair beside me. Asena sat across from us, her hands wrapped around a ceramic mug of something dark and herbal that she hadn't touched.
+
+"Start from the beginning," she said. "And don't you dare leave anything out."
+
+I took a breath.
+
+"Do you know about the experiments?"
+
+Asena's face didn't change. Not the way I'd expected.
+
+"Of course, I know," she said. "I was the one who introduced you to the alchemists, remember? Heydrich's shop on Copper Lane."
+
+She set the mug down.
+
+"The first experiment you tried to do on your own. Before I helped you. Nearly killed yourself." Her jaw tightened. "You were thirteen. I found you on the bathroom floor of this shop, convulsing so hard you cracked a tooth on the tiles."
+
+The memory was there when I reached for it. A book on the shelf.
+
+"I see," I said.
+
+Asena studied me for a long moment.
+
+"So," she said. "The hair."
+
+I touched the white strands reflexively.
+
+"Experiment one hundred and twenty-one."
+
+"I figured that much." Her fingers drummed against the mug. "When I saw you walk in here with a head full of white, I thought — well. I thought a lot of things. None of them good."
+
+She leaned forward.
+
+"Don't tell me you kept going after that."
+
+The silence was my answer.
+
+Asena's eyes closed. A muscle in her jaw jumped once, twice.
+
+"You kept going," she said.
+
+"I kept going."
+
+"After it turned your hair white. After all of the other ones you're hiding, you kept going."
+
+The last word was louder than the rest. Eren flinched beside me.
+
+"I kept going," I said again. "And that's where the problem starts."
+
+I let the pause build. The next part of the story needed to land with the weight of something I was still processing myself.
+
+"During the Academy expedition, I tested another compound. New formulation. Things I hadn't tried before. Ingredients I'd sourced through..." I searched for the right word. "Less conventional channels."
+
+Asena's knuckles whitened around the mug.
+
+"The compound worked differently than anything I'd used before."
+
+I paused.
+
+"When I woke up, my memory was gone."
+
+The kitchen went silent.
+
+The silence of information being processed. Eren's eyes, behind those perpetually sliding spectacles, went wide. Asena didn't move. Didn't blink. The mug in her hands might have been welded to her fingers.
+
+Three seconds passed. Five. Eight.
+
+"What do you mean gone?" Asena said.
+
+Her voice was quiet. The quiet that precedes either tears or violence.
+
+"I mean gone. Erased. I woke up and I didn't know where I was, who I was, or how I'd gotten there." The words came out steadier than I'd expected.
+
+Asena's mouth opened. Closed. Opened again.
+
+"But you're here," she said. "You walked through that door and you recognized me. You knew Eren's name. You knew the shop."
+
+"I've been recovering them. Slowly." I held her gaze. "It started coming back in pieces. Fragments. A face, a name, a feeling attached to a place. Like reaching into dark water and pulling up things you didn't know were there."
+
+The library existed. The books were on the shelves. I could reach for them when I knew what I was looking for — family, white hair, Academy, Asena — and the corresponding volumes would detach and deliver their contents.
+
+But there were shelves I hadn't explored. Corridors in the palace I hadn't walked. Memories I couldn't summon because I didn't know they existed. You can't search for something when you don't know it's missing. The library held everything, but I lacked the index.
+
+"Some memories come easily," I said. "The obvious ones. People I cared about. Places that mattered. But others..." I shook my head. "It's hard to remember something you don't even know happened. There are gaps I haven't found yet because I don't know to look for them."
+
+The explanation hung in the air.
+
+Eren pushed his spectacles up. They immediately began their slow descent.
+
+"So you might not remember everything we did together?" he asked.
+
+"I remember a lot," I said. "I remember you following your mother around the shop. I remember you reaching for everything on the shelves. I remember reading to you."
+
+Something lit behind his eyes.
+
+"But there are things I might have lost," I continued. "Things I can't check because I don't have a list of what was there before."
+
+Eren nodded slowly.
+
+"That's okay," he said. "I can tell you the ones you forgot. Then you'll know what to look for."
+
+The simplicity of it hit me harder than I expected.
+
+Asena hadn't spoken.
+
+I turned to her. Her face was doing something complicated. The anger was still there. But it was competing with something else.
+
+She stood.
+
+The chair scraped against the floor.
+
+She crossed the distance between us in two strides and her fist came down on the top of my skull.
+
+The anger won.
+
+A sharp, cracking blow that drove my chin toward my chest and sent a jolt of pain through my neck.
+
+"I told — " Another blow. Her fist hammering the crown of my skull with the precision of someone who had been hitting this particular head since it was small enough to fit in one hand. " — you — " crack " — to stop — " crack " — with this — " crack " — shit!"
+
+"Ma! Ma, stop!" Eren had launched himself from his chair and grabbed Asena's arm with both hands. His spectacles had slid entirely off his nose and dangled from one ear. "You're going to give him brain damage on top of the memory loss!"
+
+Asena's arm froze mid-swing. She looked down at Eren. Looked at me. Looked at her own fist.
+
+Her chest heaved.
+
+"How," she said, and the word came out cracked and breathless, "can someone so brilliant be so catastrophically, irredeemably stupid?"
+
+She sat back down. Or rather, she dropped into the chair as if her strings had been cut. Her hands found her face. She pressed her palms against her eyes and breathed through her fingers for several seconds.
+
+When her hands came down, her eyes were red.
+
+"Was it worth it?" she asked.
+
+"I don't know," I said.
+
+The honesty of the answer surprised even me.
+
+"The experiments didn't give me what I wanted. The Circles never came. Whatever the last compound did to my memory, it didn't open any doors that mattered." I paused. "And now those doors are closed for good."
+
+Her jaw worked.
+
+"Good," she said. "Good. Because if you ever — ever — put something you cooked in a basement laboratory into your body again, I will not punch you. I will end you. I will do what every compound in that notebook failed to do. Are we clear?"
+
+"We're clear."
+
+I was lying, but my head hurt too much to answer any other way.
+
+She wiped her eyes with the back of her hand.
+
+"All right," she said. Her voice settled. "Tell me how you ended up wearing that." She pointed at the Iron Cross insignia on my chest. "Start from the expedition."
+
+The afternoon dissolved around us.
+
+I told the story in pieces, choosing what to reveal and what to hold back, the gaps between them small enough to be invisible.
+
+The Academy expedition. The dungeon. This part was simple.
+
+I didn't mention Gluttony. Didn't mention the Sins. Didn't mention the fact that I had died in that dungeon.
+
+The exit from the dungeon. Grenzheim. The Iron Cross selection. The front. The training. The bombardments. The patrols along the trench line.
+
+I kept the violence abstract. Not for my sake. But Eren was listening with the rapt attention of a boy for whom war was still an adventure story, and Asena's face was already contorted into a mask of barely contained distress.
+
+I gave them the shape of it.
+
+The refugees. The ritual. The battle.
+
+"I sent letters to the garrison," I said. "Forged authorization. The reinforcements arrived."
+
+"You forged — " Asena started.
+
+"It worked."
+
+She pressed her lips together. The internal debate between outrage at the forgery and relief at the outcome played out across her features in real time. Relief won, but only by a narrow margin.
+
+"The beach," I said. "That part you read in the paper."
+
+"I read it," Asena said quietly.
+
+The light through the kitchen window had shifted from afternoon gold to the deeper amber of approaching evening.
+
+I pushed my chair back.
+
+"I need to return to the palace," I said. "The rest period has a schedule, and the officers get nervous when I'm not where they expect me."
+
+Asena's hand tightened on the mug she'd been holding.
+
+"Are you going back?" she asked. "To the front?"
+
+"No. I've been assigned to the Knight Formation School. Training in the capital. One year."
+
+The relief that crossed her face was so naked, so unguarded, that it stripped away every layer of composure she'd rebuilt since the first punch.
+
+"That's good," she said.
+
+"I'll be here. Close."
+
+"You'll come back," she said. It wasn't a question. It was an instruction. "You'll come to the shop. You'll eat meals at this table. You'll let Eren talk your ear off about whatever device he's building this week, and you'll sit here and be alive where I can see you."
+
+"I will."
+
+She studied my face for a beat. Searching for the commitment behind the words. Finding enough of it.
+
+"Before you go." She rose from the table. Crossed the kitchen to a heavy wooden cabinet that stood against the far wall, between a shelf of technical manuals and a rack of soldering tools. She opened the lower drawer and removed something.
+
+A chest. Small. Rectangular. Copper, darkened with age. The lid was hinged and secured with a simple clasp, no lock.
+
+She set it on the table in front of me.
+
+"You left this," she said. "Before you went to the Academy. Told me to hold it. Said you'd come back for it when you needed it."
+
+I looked at the chest. My hand found the clasp. The metal was cool against my fingers.
+
+I opened it.
+
+Inside, resting on a lining of dark felt, a collection of objects. Four keys, each one different — varying lengths, different tooth patterns. A small notebook, leather-bound, no larger than my palm, its pages held shut by a thin leather strap.
+
+I lifted one of the keys. Turned it in the light.
+
+"Do you know what these are?" I asked.
+
+Asena shook her head. "You didn't tell me. You just said to keep the chest safe. I assumed it was one of your laboratory things."
+
+The notebook's leather strap yielded to my thumb. I opened it.
+
+The pages were covered in Kaspar's handwriting.
+
+My eyes moved down the page.
+
+Kessler & Braun Imperial Banking — Capital Branch. Vault Reference: HX-0044.
+
+Below the instructions, a single line.
+
+Never touch this money. It's my life's price.
+
+I stared at the line.
+
+"Aunt," I said. "What is this?"
+
+She sat down. Her expression shifted.
+
+"Your father's money," she said.
+
+"When Roderich removed you from the succession," Asena continued, her voice careful, picking through the words, "he sent a payment. A settlement. The Hexenzeit way of tying off loose ends. A lump sum delivered through intermediaries."
+
+She paused.
+
+"A buyout. Formal relinquishment of all claims to the Hexenzeit title, territories, and inheritance in exchange for financial independence."
+
+Her mouth twisted.
+
+"You never touched it."
+
+"Never?"
+
+"Not once." Her voice hardened. "You survived on pride and spite for years."
+
+The words sat between us.
+
+I looked at the notebook again. At the handwriting.
+
+That boy was gone.
+
+The person sitting in this kitchen, holding his keys and reading his words, didn't share that kind of pride. Pride was a luxury that the southern front had burned out of me.
+
+Money was a tool. Tools were meant to be used.
+
+"I'll go to the bank," I said.
+
+Asena blinked.
+
+"Tomorrow," I added. "Will you come with me?"
+
+Kessler & Braun Imperial Banking occupied a building in the capital's financial district that had been designed, with considerable success, to make anyone entering it feel simultaneously important and inadequate.
+
+Inside, the proportions continued their assault on human scale. The main hall was cavernous. The ceiling arched overhead at a height that belonged in a cathedral. The floor was dark marble, veined with silver, polished until it reflected the figures that crossed it with mirror clarity.
+
+The hall was nearly empty.
+
+That was the first thing I noticed. A building this size, in the heart of the capital's financial district, should have been crowded. Clerks at counters. Merchants negotiating terms. The usual traffic of an institution that handled the kingdom's wealth.
+
+Instead, the space was occupied by silence and guards.
+
+They stood at every corner. Positioned along the walls. Flanking each doorway and each desk.
+
+Their uniforms weren't military. Private security. The kind of discreet, well-paid guard force that institutions hired.
+
+A clerk materialized at my elbow before I'd taken ten steps past the entrance.
+
+"Good morning." His smile was calibrated to the precise temperature of professional warmth. His eyes performed the rapid assessment that every financial institution trained into its staff — the quality of my clothing, the state of my boots, the insignia on my chest and the woman beside me.
+
+The Iron Cross emblem registered. His smile adjusted upward by a degree.
+
+"How may we assist you today?"
+
+"Vault access," I said. "Reference HX-zero-zero-four-four."
+
+The clerk's smile held, but something behind it shifted. A flicker of recognition at the prefix. HX. Hexenzeit.
+
+"Of course, sir. If you'll follow me."
+
+He led us past the main counter, through a side door, and into a corridor that exchanged the grand hall's marble ostentation for something more intimate.
+
+A second door. A small room.
+
+The room was furnished with a single table, four chairs, and nothing else. The table's surface was bare except for a rectangular depression in its center — a recessed panel of polished steel, featureless, roughly the size of a book.
+
+"One moment, please." The clerk withdrew. The door closed behind him.
+
+Asena stood beside me with her arms crossed.
+
+The door opened. A different figure entered.
+
+Not the clerk. A man in his fifties, gray-haired, wearing a suit of dark wool that was cut with the conservative precision of someone who handled large sums and dressed accordingly. His face was lean and composed.
+
+"I am Herr Krause," he said. "Senior vault manager. I'll be handling your access today."
+
+He sat across from us. His hands folded on the table.
+
+"Vault reference HX-zero-zero-four-four," he continued. "This vault has been dormant for some time. Our records indicate no access attempts in approximately seven years." He consulted a thin ledger he'd brought with him, then met my eyes again.
+
+He looked up.
+
+"May I ask the name of the account holder?"
+
+"Kaspar von Hexenzeit."
+
+"Of course," Krause said. His voice maintained its professional composure, but the temperature had risen by several degrees. The smile was warmer. The posture was more attentive. "Welcome, Herr von Hexenzeit. We're honored to serve you."
+
+He gestured toward the recessed panel in the table's center.
+
+"The vault utilizes a four-key protocol. If you have your access instruments, we can proceed."
+
+I produced the four keys. Laid them on the table in the order the notebook specified.
+
+Krause examined each one without touching them. His eyes traced the tooth patterns, the shaft lengths, the subtle variations in metalwork that distinguished one from another.
+
+"These are authentic," he confirmed. "The enchantment signatures match our records."
+
+He pressed a concealed mechanism beneath the table's edge. The recessed panel split along its center, revealing four keyhole slots arranged in a horizontal line.
+
+I inserted them. One at a time. The locks engaged with precise clicks that resonated through the table's surface and into the stone beneath.
+
+The fourth click was followed by a deeper sound. A rumble from somewhere below the room. The floor vibrated.
+
+Krause stood.
+
+"If you'll follow me."
+
+The vault was underground.
+
+A staircase descended from the small room into the building's lower levels, passing through three additional ward barriers that required Krause to press his palm against activation runes embedded in the stone.
+
+At the bottom of the staircase, a corridor. Narrow, stone-walled, lit by Mana-glow strips. Vault doors lined both sides, each one a slab of reinforced steel marked with a reference number.
+
+Krause stopped before the door marked HX-0044.
+
+The door was larger than its neighbors. The steel was thicker. Additional ward inscriptions traced its surface.
+
+Krause placed his hand on the door. The wards flared. The steel groaned.
+
+The door swung inward.
+
+The vault was the size of a modest bedroom.
+
+Stone walls. Stone floor. Stone ceiling. A single Mana-glow strip running along the upper edge of the far wall.
+
+Every surface was covered.
+
+Shelves lined the walls from floor to ceiling, each one reinforced with iron brackets bolted directly into the stone. And on every shelf, arranged in rows so precise they might have been placed by machine, sat crystals.
+
+Mana Crystals.
+
+Thousands of them.

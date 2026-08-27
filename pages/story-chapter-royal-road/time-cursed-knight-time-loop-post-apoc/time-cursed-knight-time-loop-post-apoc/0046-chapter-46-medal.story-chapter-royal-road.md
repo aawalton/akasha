@@ -1,0 +1,259 @@
+---
+id: f0e3d153-4eed-5bc7-a284-b16ff024f614
+page-type-slug: story-chapter-royal-road
+title: "Chapter 46: Medal"
+slug: 0046-chapter-46-medal
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 46
+ownLength: 2056
+unit: words
+publishedAt: 2026-05-19
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3419342/chapter-46-medal"
+royalRoadId: "3419342"
+---
+
+"Signs of elven blood."
+
+The phrase caught me off guard.
+
+I didn't know if the Hexenzeit bloodline carried any elven ancestry. The fragments of memory that surfaced from behind the door the Gluttony had cracked open didn't include genealogy. No tutors lecturing on family trees. No portraits of ancestors with pointed ears.
+
+If there was elven blood in the Hexenzeit line, nobody had bothered to tell Kaspar about it.
+
+Or they had, and the knowledge was locked behind the memories I couldn't fully access.
+
+Vogel's eyes narrowed behind his spectacles. He stepped closer, tilted his head, and examined my ears with clinical detachment, as if he were inspecting a specimen.
+
+"No pointed ears," he murmured. "No elongation of the ocular canthi. No unusual facial structure."
+
+He straightened.
+
+"If there is elven ancestry, it is diluted. Far back. Possibly by many generations. The hair coloration would be the only visible marker, and even that, white hair can occur through a variety of mundane causes."
+
+His lips pressed into a thin line.
+
+"Furthermore," Vogel continued, his gaze shifting to the sword at my hip and the Iron Cross insignia stitched to my sleeve, "I assume, given your placement with the Knights, that you are unable to form Circles."
+
+I didn't answer.
+
+The answer was on my uniform.
+
+Vogel tutted. The sound was quiet and dismissive.
+
+"A shame," he said. "Elven heritage manifests most strongly in magical affinity. The blood quickens the cores, deepens the channels, refines the matrix structures that underpin spellwork. When it appears in a body incapable of using it, the blood is... wasted."
+
+A pause.
+
+"Sometimes elven blood finds its way to those who least deserve it."
+
+I kept my face still.
+
+The comment wasn't directed at me as a person. It was directed at a Bastard, at the category of human that Vogel had been taught to consider defective.
+
+I'd been called worse by better men than Vogel.
+
+Thom, however, had gone still beside me.
+
+His hand rested on the back of a chair. The knuckles had gone white.
+
+"Doctor," Thom said. His voice was quiet. "This soldier held the line yesterday. Spotted the contact before anyone else. Refused evacuation during live bombardment to verify the situation. Five people are alive in this building because of him."
+
+Vogel blinked.
+
+"I did not mean—"
+
+"The Iron Cross doesn't care whether you believe our soldiers deserve their blood," Thom continued. "We care whether they hold the line. He did. You will adjust your tone accordingly."
+
+Silence followed. Until Vogel looked away.
+
+"Of course," he said. "My apologies, officer. I meant no disrespect."
+
+He adjusted his spectacles and turned back to the pink-haired girl.
+
+"Shall we continue?"
+
+Vogel extracted names. The pink-haired girl was Yulia. The old man was Pyotr. The younger woman was Nadya. The boy and younger girl were brother and sister, Ivan and Anya.
+
+Thom pressed for intelligence. The structure of the elven military detachments that had guarded the camps. The routes the slave caravans had traveled. Anything that might be leveraged into a tactical advantage.
+
+Yulia tried.
+
+But she had been a slave. She had seen what slaves saw. Walls. Other slaves. Guards whose faces she couldn't remember.
+
+The elves were waiting. That was all she knew.
+
+In the end, there was nothing more to be done.
+
+Weeks blurred.
+
+Nearly four months had passed since my first morning on the line.
+
+The rescue earned me a bronze medal, pressed into my palm by a supply officer in a ceremony so perfunctory it was barely a ceremony at all. Thom received a silver one. Two scraps of polished metal that Wendt's adjutant described as formal acknowledgments of conduct above standard.
+
+The medal carried a rank promotion. Not within the Iron Cross. Within the magical army's ranking structure, the one that mattered to nobles and academics. Schwarzling to Runenträger.
+
+The Iron Cross didn't use those ranks. Within the Cross itself, I remained a soldier. Training-class. Unable to rise in the military hierarchy until I had completed the full program and accumulated two additional bronze medals.
+
+But the Runenträger rank had value elsewhere.
+
+If I ever returned to the Academy, it would matter. If I ever walked into a university lecture hall or a ministerial office or a noble salon, the single dull medal in my coat pocket would transform the way I was received.
+
+And I did intend to return to the Academy. Eventually.
+
+There was still too much I didn't know about this world. Too many questions the Iron Cross couldn't answer.
+
+But not yet.
+
+Not with five days left on the countdown.
+
+⌜ Battle Skills ⌝
+
+Novice Swordsmanship — Level 11 Mana Breath — Level 5Fear Resistance — Level 4Mana Perception — Level 4Senses — Level 3Pain Resistance — Level 3 Toxicity Resistance — Level 1
+
+⌜ Class Skills ⌝
+
+Reading — Level 3 Deception — Level 1 Animal Husbandry — Level 0
+
+The numbers had climbed.
+
+They were the result of every training session. Every march. Every patrol along the forward trench.
+
+But the numbers weren't enough.
+
+Against the other recruits, I held my own. In the first weeks, I dominated. I read their combinations before they finished them. I punished every opening. I put them on their backs with a regularity that turned the training yards into my personal demonstration space.
+
+However, the more they learned about Mana Blood, the more it changed.
+
+One by one, they cracked it.
+
+Mana Blood's learning curve was sharper than Mana Breath's. The text was clearer. The visualization was more concrete, blood flowing through veins was something anyone could imagine. The technique gave instant, measurable returns. A recruit who hadn't yet felt mana in his own body would feel it in the second week. By the fourth week, he'd be using it to accelerate his strikes and cushion his falls.
+
+By the sixth week, they were beating me.
+
+Not by margins of skill. My swordsmanship was still superior. My reading of opponents was still deeper. My ability to anticipate and position and counter was honed by hundreds of arena fights.
+
+But raw physical output mattered. The recruit who'd been struggling to keep pace with me in the third week was now hitting harder, moving faster, absorbing more punishment.
+
+Mana Breath gave me more mana by volume. My nine cores and the technique's density of flow produced output that dwarfed anything Mana Blood could channel.
+
+However, the technique was inherently unbalanced. Not to mention there was still the issue with Gluttony.
+
+It reached my arms. My shoulders. My core. But past the elbows, past the knees, the threads frayed and the warmth dissipated. The extremities received fragments of what the center enjoyed.
+
+In the training yards, it became harder to win.
+
+By the eighth week, it was becoming rare.
+
+If I'm this weak, how am I going to stop whatever was coming?
+
+The question sat in my mouth with every failed exchange.
+
+Five days.
+
+Five days until the countdown expired.
+
+Until whatever the elves had been waiting for arrived.
+
+I drove my palms into the packed earth of the lodging house yard.
+
+Push-ups. The hundredth of the set. Maybe the hundred and tenth. The count had blurred somewhere after ninety.
+
+Sweat poured from my forehead onto the dirt beneath me. My arms trembled.
+
+My elbows buckled. I collapsed. My chest hit the dirt. I lay there breathing for several seconds before rolling onto my back.
+
+The sky above the yard was the washed gray of late afternoon.
+
+"I don't know how you keep this up."
+
+Thom's voice.
+
+He was sitting on the stone step at the lodging house's rear entrance, a cup balanced on one knee. His coat was unbuttoned. His boots were off.
+
+Whenever he returned to Grenzheim, the two of us stayed at the Iron Cross lodge. When I rotated alone, I stayed at Vael's tavern.
+
+I hadn't decided whether I liked the lodge better. It was warmer, quieter, and the food was steadier. But Vael's tavern had Lucy spinning through the common room and the sound of laborers arguing about dice.
+
+The lodge had ghosts.
+
+"Not much choice," I said. My voice came out rough.
+
+Thom took a sip.
+
+"It's a shame you're locked into Mana Breath. If you had any other technique, you'd be the best recruit of the batch. By a margin."
+
+I pushed myself up onto my elbows.
+
+"Thanks."
+
+"Not trying to insult you. It's an observation. Your fundamentals are the best I've seen in a long time. Your reading is ridiculous. A captain of the line could use your footwork."
+
+He gestured with the cup.
+
+"But the technique caps you. Mana Blood is a crude, inefficient, unsophisticated method of channeling mana, and it still beats Mana Breath in every metric that matters for combat except raw ambient output. You've got the worst tool on the shelf."
+
+"I know."
+
+"I know you know." He swirled his cup. "Doesn't stop me from feeling bad about it."
+
+I sat up fully. Brushed dirt from my palms.
+
+Up on the second floor, behind a window that stood half-open to catch the afternoon air, I caught a flash of pink.
+
+Yulia.
+
+She watched me from the window whenever I trained in the yard. Never the whole session. A few minutes at a time. Her face appeared in the frame, observed, vanished, appeared again.
+
+The five refugees had nowhere to go.
+
+Silberwald didn't have systems for processing people who'd arrived from another continent speaking a dead language. The bureaucracy for resettling foreign nationals assumed they'd come through a port with documentation. Yulia and the others had come through a minefield.
+
+The Iron Cross had done what the Iron Cross did with problems that didn't fit standard procedures. They absorbed them. The refugees had been formally contracted as staff for the lodging house. They cleaned. They cooked. They washed linens. At the end, they received rations and a bed and the legal status of employed.
+
+Yulia handled the kitchens and the laundry. Pyotr, against the medic's initial prediction, had survived the week. He was still weak, but he moved around the lodge carrying out small tasks he could manage. Nadya rarely spoke, even to the others. Ivan and Anya had warmed to Thom, of all people.
+
+I'd had a handful of short conversations with Yulia, through Vogel initially, then through the broken words she was slowly assembling from overhearing soldiers' talk. She'd asked about my hair. I'd told her it was dyed. She'd asked why. I'd said it's complicated and she'd accepted without asking for an explanation.
+
+We weren't friends. But also we weren't strangers.
+
+I raised my hand toward the window.
+
+Her face disappeared behind the curtain.
+
+Thom watched the exchange and said nothing.
+
+"You're taking two weeks off," he said instead.
+
+I turned my head.
+
+"What?"
+
+"Ten days minimum. In the city. Wendt's orders."
+
+"Why?" I said. "I need to go back."
+
+"Not an option."
+
+"Thom."
+
+"Not an option, Kaspar." He set the cup on the step beside him and leaned forward, elbows on his knees. "You've done fifty days on the line without a single full rotation off. You've skipped rest days. Wendt noticed."
+
+"I need—"
+
+"I know you need." He cut me off. "I don't know why, but I know you do. I've been around soldiers my whole career, and I can tell the difference between a man who likes to fight and a man who's running from something. You're the second kind. I don't know what's chasing you. I'm not asking."
+
+His eyes held mine.
+
+"But a body that doesn't rest, breaks. I've watched it happen. You're no good to anyone, yourself included, if you collapse from exhaustion in the middle of a bombardment."
+
+"The front..."
+
+"The front will still be there in ten days."
+
+He picked up the cup again.
+
+"I'm heading back tonight. I don't want to see you here before you've spent at least ten days. Eat. Sleep. Walk the market." Thom explained. "Maybe chase after a girl. You like girls, right? No, you're too pretty to like girls. You're the type that bathes. Fine, then chase after a boy. Or find a dog to take care of. Do something that isn't just training in this courtyard all day."
+
+I didn't hear a single word Thom was saying. My mind was stuck on something else entirely.
+
+Five days.

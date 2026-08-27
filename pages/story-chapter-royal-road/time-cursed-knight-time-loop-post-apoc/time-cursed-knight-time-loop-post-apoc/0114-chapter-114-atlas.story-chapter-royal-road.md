@@ -1,0 +1,241 @@
+---
+id: bd3bb088-d103-5236-b292-b815904343df
+page-type-slug: story-chapter-royal-road
+title: "Chapter 114: ATLAS"
+slug: 0114-chapter-114-atlas
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 114
+ownLength: 1603
+unit: words
+publishedAt: 2026-08-21
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3844751/chapter-114-atlas"
+royalRoadId: "3844751"
+---
+
+Hayyan stared at the screen.
+
+His mouth opened. Closed. Opened again.
+
+"I have never—" He stopped. His eyes traced the lines of text. "These glyphs. This script. I don't recognize it." He reached toward the panel, then pulled his hand back as though the light might burn. "The screen was dark when I came down here." He looked at me. "How is it responding to you?"
+
+I didn't answer.
+
+My eyes moved across the text.
+
+Centuries. This system had been sitting in the dark beneath the desert for centuries, running on the dregs of a power source that predated magic.
+
+Seven hours.
+
+My hand was already moving. I pressed [ Y ].
+
+The screen flickered. The amber light stuttered, dimmed, and then returned brighter than before. Text scrolled.
+
+Attempt 01 .............. FAILEDPrimary power coupling.No response.
+
+Attempt 02 .............. FAILEDSecondary power coupling. No response.
+
+Attempt 03 .............. Rerouting to tertiary core.Tertiary core detected.Core status: DORMANT. Last active 614 years ago.
+
+The floor vibrated.
+
+Hayyan grabbed my arm.
+
+"What is that?" His voice pitched upward. "What did you do?"
+
+"Wait."
+
+The vibration climbed. The concrete around us hummed with it. Dust drifted from the ceiling in thin streams, caught in the amber light.
+
+Then the sound smoothed.
+
+REACTOR STATUS: ONLINE — Output at 4.7%.Output sufficient for Site 09 minimal operations.
+
+A sound came from the massive door. A slow, hydraulic exhalation. The seal broke with a hiss of pressurized air.
+
+The door moved.
+
+It split down the center. Two halves, each one a meter thick, drawing apart on tracks that groaned and stuttered but held.
+
+Hayyan stepped back. His breathing had gone shallow and rapid.
+
+The door reached its full extension and stopped. The track mechanism clicked once, twice, and fell silent.
+
+Beyond the threshold, a corridor stretched into the white light. The floor was polished steel. The walls were paneled in unmarked alloy. Recessed strips along the ceiling threw a steady light.
+
+On the right wall, ten meters in, a sign. Black letters on a pale background.
+
+COMMAND & RESEARCH — AUTHORIZED PERSONNEL ONLY →
+
+Below it, a second sign, smaller.
+
+SITE 09 — SECTION C — SUBLEVEL 4
+
+I stepped through.
+
+Hayyan followed three paces behind. His steps were careful, each foot placed as though the floor might give way.
+
+"Is this steel?" he asked. His voice came out thin. "All of it?"
+
+"Yes."
+
+"The floor. The walls. The..." He touched the nearest panel with his fingertips and jerked them away. Then he touched it again, slowly, and pressed his palm flat. "It's cold." He looked at me.
+
+"This is steel. Real steel. Not the pig-iron the smiths hammer into shape." His hand trembled against the surface. "Every wall in this corridor is worth more than my laboratory." He swept his arm at the ceiling, the floor, the vast gleaming expanse of it. "Do you understand what this would cost?"
+
+"I know."
+
+"How?" Hayyan's voice cracked. "How did you open it? The screen. The glyphs. You read them. Nobody reads the Ancient Language."
+
+"I'm a Hexenzeit," I said. "You think a house that old doesn't know about artifacts?"
+
+"I... see," Hayyan said. He looked willing to stop asking.
+
+I moved on.
+
+The first room off the corridor was small. Three meters by four. A bunk bed frame bolted to the wall, the mattress long since decomposed to a thin brown residue on the steel slats. A desk built into the opposite wall, its surface bare. A locker, its door slightly ajar.
+
+And in the corner, the skeletons. I stopped in the doorway.
+
+They sat together against the far wall. Two adults and one kid. The kid was slumped against the ribs of the figure beside it.
+
+They had died holding each other.
+
+The adult on the left held a pistol. A real one. The finger bones were still curled around the trigger guard.
+
+The adult on the right held a book.
+
+The volume rested in the crook of the skeleton's arm. The cover had cracked like dried skin. The pages, visible through the gaps, were yellowed and wavy, their edges curled inward. The paper looked as though it would dissolve at the first touch.
+
+But the text was still there. I could see it through the fractured cover. Lines of English.
+
+I didn't touch it barehanded. Dust on my hands, blood on my sleeves, and no way to keep the pages from crumbling. I reached into my satchel and pulled out the oilcloth. I spread it on the floor, eased the book from the skeleton's arm and wrapped it. Tight enough to hold, loose enough not to compress the brittle pages.
+
+The bundle went into the satchel.
+
+I stood. The family watched me with empty sockets.
+
+Grant them eternal rest.
+
+I left the room.
+
+The other rooms told the same story without the bodies.
+
+Quarters. Eight of them along the corridor, each one identical in layout. Bunk, desk, locker.
+
+A kitchen. Industrial scale. Stainless steel counters, sinks, a row of what I recognized as cooking appliances though their specific function escaped me.
+
+Bathrooms. Porcelain and chrome, the fixtures remarkably preserved. Hayyan stopped at one of the sinks and turned the handle. Nothing came out. He stared at the fixture.
+
+"Plumbing," he murmured. "They had plumbing down here. Four levels underground."
+
+No other bodies. Everyone else had either escaped to the surface or died somewhere else.
+
+At the end of the corridor, the last door stood open.
+
+The command room was circular. Twenty meters across. The ceiling was higher here than in the corridors, the additional space filled with conduit runs and cable trays.
+
+Workstations ringed the perimeter. Dozens of them. Each one a desk with a dark screen mounted above it, the screens flat and thin.
+
+Hayyan had stopped at the entrance. He stood with both hands braced on the doorframe, his eyes moving across the room in the rapid, calculating sweep of a man whose mind was already converting everything he saw into its market value.
+
+"Don't touch anything," I said.
+
+"I wasn't going to." He was already moving toward the nearest workstation.
+
+"Hayyan."
+
+He stopped. I crossed the room toward the far wall.
+
+Most of the screens were dark. Their power connections severed by time or by malfunction.
+
+At the far end of the room, set into a console that was larger than the others and positioned on a raised platform that commanded a view of the entire space, a single monitor glowed.
+
+The light was faint. A soft amber pulse that cycled every three seconds.
+
+I climbed the two steps to the platform.
+
+The screen displayed text. Two columns.
+
+The left column was a status readout.
+
+SATELLITE NETWORK
+
+Node 01 .... NO CONTACT
+
+Node 02 .... NO CONTACT
+
+Node 03 .... NO CONTACT
+
+Node 04 .... NO CONTACT
+
+Node 05 .... NO CONTACT
+
+Node 06 .... NO CONTACT
+
+Node 07 .... NO CONTACT
+
+...
+
+Node 24 .... NO CONTACT
+
+NETWORK STATUS: OFFLINE
+
+The right column was different.
+
+A map.
+
+A projection rendered on the screen in lines of soft light. North America. The western coast. The shape of the continent that I had seen on Falken's tent map.
+
+But this map was older. It showed the continent whole. The interior that was now blank on every modern map. The Great Plains, the Rockies, the Midwest, the eastern seaboard.
+
+And marked across its surface, in small points of light, were locations.
+
+Most of the points were dark. Dozens of sites, distributed across the continent in a grid.
+
+One point glowed.
+
+Here. Site 09. A small amber dot in the eastern desert of what the modern world called the Kumsur Sultanate.
+
+Every other point was dark.
+
+The southern coast of what the modern maps called Silberwald. A faint point.
+
+Special Base Forty-Four, I thought.
+
+Two more, far to the north. Deep in the territory of the Republic of Wolkenmark. Both dark, but their positions were marked with a small triangle instead of a circle.
+
+And scattered across the interior, the no-man's land east of the Rockies, a dozen more. All dark.
+
+I memorized every position.
+
+The coastal sites first. The ones within reach. Then the Wolkenmark pair, noting their relative positions against the landmarks I knew. Then the interior sites, fixing them in my mind against the geography of a continent I had only seen on maps.
+
+If any of them are intact.
+
+I turned from the map.
+
+Hayyan had drifted to one of the perimeter workstations. He was crouching beside it, his head tilted, studying the cable runs that connected the dark screen to the console beneath the desk.
+
+"We should go," I said.
+
+"One moment." He hadn't looked up. "The architecture in these machines."
+
+"Hayyan. We need to—"
+
+"ATLAS system restart complete. Core functions initializing at minimal capacity. External communications offline. Internal sensors nominal within powered sections."
+
+Hayyan was on his feet. He'd backed into the nearest workstation, knocking the keyboard to the floor. His eyes darted across the ceiling, searching for the source of the voice.
+
+"What?"
+
+"Occupant detected in Command Section C, Sublevel Four. Identification protocols offline. Unable to verify authorization status."
+
+The voice paused. The silence lasted two seconds.
+
+"ATLAS has been dormant for six hundred and fourteen years, two months, and eleven days. Last active personnel: Colonel R. Vasquez, Dr. E. Chen, Specialist First Class A. Vasquez. Status: deceased."
+
+The voice went silent.
+
+"Emergency reserves sustained minimal atmospheric and preservation functions during dormancy period. Core restart has been initiated by an unidentified user." A beat. "All primary research databases are intact. All archived records are accessible within current power constraints."
+
+"Awaiting command. Please state your request."

@@ -1,0 +1,539 @@
+---
+id: 5b3e8188-27e0-59e2-8f20-4818edda4679
+page-type-slug: story-chapter-royal-road
+title: "Chapter 123: Of Broken Ground and Rising Threats"
+slug: 0124-chapter-123-of-broken-ground-and-rising-threats
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 124
+ownLength: 2727
+unit: words
+publishedAt: 2026-04-28
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3330072/chapter-123-of-broken-ground-and-rising-threats"
+royalRoadId: "3330072"
+---
+
+PoV Syliana
+
+Syliana was already tense when they reached the tower.
+
+Luna’s report from inside had stripped away any doubt, and the moment they saw the sealed entrance and the faint glow of active runes beneath the stone, that tension sharpened into certainty.
+
+This was not a simple request, nor a forgotten ruin with a stray infestation.
+
+It was a trap.
+
+Syl had just begun testing the barrier more carefully, her attention fully focused on the structure, when Luna’s warning carried out again from inside, urgent and strained.
+
+But it was enough.
+
+Their years of practice, and already being on edge, made them react right away.
+
+She stepped back first, her posture shifting as her focus snapped outward.
+
+Veric and Sepio reacted in the same instant, both men already turning away from the tower to face the surrounding terrain, weapons and shield at the ready.
+
+To intercept whatever came.
+
+The ground broke.
+
+In several sharp points around them, the soil split open with violent force as shapes pushed upward from beneath, tearing through earth and stone in a coordinated emergence that left no doubt about intent.
+
+The creatures pulled free quickly.
+
+Their smell and state was a familiar sight. Grotesque, half-rotten, with sickly wood-like veins running through their bodies.
+
+【Enemy Identified: Corrupted Rotmaw Stalker】
+
+Corrupted beasts.
+
+Undead.
+
+Their forms were wrong in a way that went beyond decay, reinforced and twisted by a thing that clung to them like a second skin. Their movements were too precise for mindless corpses, too direct, too purposeful.
+
+Syl’s voice cut through the moment.
+
+“Formation.”
+
+The party response was immediate.
+
+Veric stepped forward, placing himself between the tower and the first of the emerging threats, his stance set before the nearest creature had even fully risen. Sepio moved to his side without hesitation, covering the opposite angle as the two of them established a clean front line.
+
+Trianna broke away just enough to gain space, her bow already in hand. Her new position in sight of the entire field.
+
+No enemy shall be missed.
+
+Ray shifted with her, not mirroring her distance but placing himself where he could interfere with movement before it became a problem.
+
+Syl stepped back instead of forward, her role already clear, and focus returning to the controlled gathering of mana.
+
+The trap might have been sudden.
+
+But they were ready to respond just as fast.
+
+And not a moment too late.
+
+The nearest creature was already lunging at them.
+
+Veric met it cleanly, his strike precise and measured, redirecting the attack to the side. Sepio followed through the moment an opening presented itself, his movement tight and efficient as he drove the creature back instead of allowing it to push forward.
+
+Another broke free to the side.
+
+Trianna’s arrow struck before it could fully orient. The shot aimed more to break its rhythm than to kill. To slow, distract, and hopefully disable.
+
+Alas, no such luck, the creature continued moving.
+
+The corruption-riddled undead beasts were simply far too hardy to put down outright.
+
+Ray stepped into the moment created, shifting its path just enough that it failed to align with the others, buying the front line the space they needed to maintain formation.
+
+“Left,” Sepio called, already adjusting.
+
+“Covered,” Veric answered without turning.
+
+They held.
+
+Deflecting attacks, shielding the others, and carving hissing lines into the approaching monsters.
+
+To give time for Syliana to work her magic.
+
+Right on cue – magic discharged, and two abominations charging from their flank impaled themselves onto stone spikes that weren’t there but a moment before.
+
+And still they kept coming in waves.
+
+Not numerous enough to overwhelm outright, but each strong enough to demand attention. There was little room for wasted movement, no room for mistakes.
+
+Every action had to connect cleanly into the next, lest they get wounded, weakened, infected.
+
+And it did.
+
+Syliana was always proud of how her team handled battles.
+
+They truly were incredible.
+
+Or as Luna liked to say, ‘awoomazing’.
+
+Syl smiled at that, even as her next spell was readying completion.
+
+Veric anchored the center, his movements steady and deliberate, taking each engagement as it came and refusing to be drawn out of position. His sword sung and hacked at whatever dared come.
+
+All while Sepio reinforced the line with controlled aggression, stepping in where needed, bashing the attackers, and pulling back when required.
+
+The heavy impacts he endured were not enough to break the formation they maintained.
+
+Good.
+
+It let her focus on getting her next spell perfectly lined up.
+
+Trianna kept the pressure from range, her shots placed with intent rather than speed, disrupting advances, forcing missteps, keeping the creatures from ever moving freely.
+
+All while Ray worked between them all, shifting the flow of the fight in small but critical ways, cutting the creatures from their sides, flanking their flanking, and creating openings for the rest of them.
+
+An abomination charged them, intent on disrupting their flow.
+
+Trianna’s shot hit the side of its neck, it veered off-course.
+
+Exposing its flank to Ray’s stab.
+
+It roared, stumbled, tried to attack back – only for Sepio’s shield bash to nearly flip it over from the sheer momentum.
+
+A powerful swing later, and Veric decapitated the beast.
+
+Another down, even more advancing.
+
+But behind them, Syliana was ready to meet them.
+
+Her casting built with perfect control, its strength precise and contained.
+
+Layer by layer, control forming before release.
+
+The ambush might have been sudden, but they were hardly new to the job, adapting quickly.
+
+Soon, two more creatures fell.
+
+Steadily taken apart by their teamwork and skill.
+
+Syliana trusted Luna to remain safe, and it looked like they would be able to handle this side easily enough, with a bit of effort.
+
+Still…
+
+What worried her was the one who planned all this.
+
+The traps were too clever, too closely related, precisely prepared for their arrival.
+
+Whoever it was, the mastermind was not one who left things to chance.
+
+So what–
+
+No, it was no time for idle thoughts.
+
+Their best bet was simply… to get through this before whatever came next arrived.
+
+The pressure might have eased, but it was far from gone. The battle merely shifted in their favor as the group maintained control of the engagement.
+
+The corrupted forms began to lose ground, their advances less coordinated now, their movements disrupted often enough that they could not capitalize on their prodigious strength.
+
+Though they missed often, the torn ground and shorn apart stones spoke volumes of the danger those beasts presented.
+
+“Keep it steady,” Syl said, her voice calm even as the spell around her reached completion.
+
+And they did.
+
+Her friends always did.
+
+The last of the current wave staggered under the combined pressure, their cohesion breaking as the group continued to press with measured precision.
+
+They were slowly winning.
+
+And just as things were beginning to look up–
+
+Their enemies’ movement shifted, becoming more defensive.
+
+Waiting.
+
+Or more like…
+
+Keeping them here.
+
+Ray’s attention shifted first, his posture tightening as he turned toward the approaching presence.
+
+“…We have company,” he said, low and sharp.
+
+The fight wasn’t over yet.
+
+***
+
+PoV Luna
+
+The ground burst apart outside.
+
+Luna felt it through her paws first, then heard it, the sharp break of earth and stone followed by movement – many, fast, wrong.
+
+Her ears snapped up, listening to what was happening outside.
+
+She couldn’t see it, but from the smells and sounds… The groans of beasts, the scramble, the shocks, and moving bodies…
+
+A fight broke out, but nobody cried in pain.
+
+That was good!
+
+Steel rang. Voices followed. Impact after impact, too many to track cleanly through the barrier.
+
+Her chest tightened.
+
+Luna wanted to be there, to fight with them!
+
+Her claws dug into the stone, body leaning forward before she caught herself again, forcing the motion to stop halfway through.
+
+Breaking the gate like before would only feed it.
+
+Unfair thing!
+
+Luna huffed, sharp and annoyed, and turned away from it instead, already moving.
+
+She would have to trust her pack to do good. They had Second, and were her chosen pack!
+
+And Luna tried hard to make them more Apex Predatory!
+
+Yesh!
+
+But she also wouldn’t sit still!
+
+Her paws barely touched the ground as she pushed off into motion, sped up, and clung to the wall again, climbing up with her shadows helping, cutting across the curve in a tight arc.
+
+Faster.
+
+Smoother, building up the momentum.
+
+The pull was still there, dragging at her, dulling the bite of her motion, but she leaned around it instead of into it, letting her path slip through the darker stretches where the light didn’t cling as tightly.
+
+Better!
+
+But not enough.
+
+Outside, something heavy slammed into the ground, followed by a sharp cry that made her ears flick hard.
+
+No, she had to focus!
+
+Luna moved even faster.
+
+Her path tightened, circling again, then again, each step feeding the next as she gathered speed without letting it spill. Her body followed easily, shadows catching her movement and carrying it further, smoothing the turns, keeping it clean.
+
+She shifted mid-motion, slipping closer to the wall, letting herself blur just enough that the runes didn’t bite down the same way. The drag lessened.
+
+Good.
+
+She didn’t stop, gathering even more momentum than before!
+
+Her body dipped lower as she cut across the curve again, then angled toward the gate – to strike right against the edge of the gate, where inside met outside!
+
+And for a single moment, everything lined up just right!
+
+Speed, momentum, and her shadows!
+
+【Momentum Claw Lv.15 → Lv.16】
+
+A thunderous explosion followed, and the world seemed to stretch!
+
+Luna felt it give way, the gate wobbled, the trap struggling to contain that strike–
+
+And she could taste the outside air, movement, the sharp scent of dirt and rotten blood and her pack–
+
+Then the trap snapped back, flinging her back.
+
+Hard.
+
+It bounced her back inside, the force of it breaking the flow she had built and dumping her onto the stone with a scrape of claws.
+
+No!
+
+Bleh thing! Bad thing!
+
+Let Luna go!
+
+She slid once, caught herself, and rose immediately.
+
+Her paw tingled, and body hummed.
+
+Luna was upset–
+
+But then her eyes lit up.
+
+That was very close!
+
+Her tail lifted, tension shifting into focus.
+
+That worked, the gate had now cracks all over.
+
+It hadn’t been enough.
+
+But it worked!
+
+Outside, the fight pressed harder, the rhythm tightening, more bodies moving, more weight behind each strike.
+
+Nuuoh!
+
+Luna wanted to fight too!
+
+And help pack!
+
+Yesh, um, that first.
+
+Definitely!
+
+She exhaled once, dispelling the silly thoughts, then–
+
+Considered the place again.
+
+Because despite her every instinct telling her to keep moving, to keep testing, attacking, and trying–
+
+Until the trap can hold her no more–
+
+It would take time.
+
+Time Luna didn’t know if they had.
+
+The tests and attacks she did, the pattern became clear.
+
+The trap was strong!
+
+It sapped her strength, dampened her moves, and bounced force back when she attacked hard!
+
+Luna was sure she could break through with enough force–
+
+But perhaps there was another option?
+
+She looked around the tower again, her eyes wandering all over.
+
+Hmm–
+
+Nope!
+
+Luna can’t see everything from here!
+
+Time to use packfriend Tri’s trusty method of climbing places!
+
+Her fingers sunk into the shadows on the walls, finding purchase along the wall before she sped around the walls, looking everything over!
+
+Every wall, nook, and cranny. There were windows, but filled with rocks and covered in lines and runes!
+
+And so was the entrance higher up.
+
+Rrrr!
+
+The meanie guy prepared well!
+
+Too well!
+
+There was little Luna could see that could help, but maybe–
+
+Her golden eyes flicked up, narrowing.
+
+And with a speedy move, Luna pulled herself all the way up to the ceiling, her shadows letting her cling to the very middle of it without falling down!
+
+Very nice!
+
+And she could see everything now!
+
+Even though…
+
+Wooo–!
+
+The position felt strange for a moment, like her stomach wanted to flip! Weird! But soon it stilled, and Luna was all settled there, her body pressed against the stone while she held still.
+
+Luna looked down and saw…
+
+Stillness.
+
+Below her, the chamber sat unchanged, the bait in the center unmoving, the runes dimmed again now that she was no longer pushing against them. The oppressive pull remained, dulling her senses, but it no longer spiked with every action
+
+Her ears flicked, listening in.
+
+She could hear noises from outside!
+
+Muted through the structure, but clear enough. The rhythm of impacts, the sharp bursts of movement, voices carrying just enough to be recognized even if the words themselves were lost.
+
+Her pack was fighting!
+
+The thought tightened something in her chest, sharper than the drain, sharper than the trap itself.
+
+She needed to get out, to help them out!
+
+But forcing it had failed twice already.
+
+That left–
+
+Something else.
+
+Luna looked around the place… and there really was barking nothing there! Nothing to use, no path to escape. There was only the strange meat Luna now totally didn’t want to eat–
+
+And darkness, the wispy black–
+
+Ah!
+
+Shadows.
+
+The friendly shadows, which Luna could always rely on!
+
+They were here, eager to respond to her call.
+
+Even in the dim interior, even with the runes etched across every surface, shadows still existed. Thin in places, stronger in others, but present.
+
+They always were.
+
+And outside–
+
+They were there too!
+
+Her head tilted slightly as the thought formed fully.
+
+All her training.
+
+All her life!
+
+Shadows had always answered.
+
+Why would this be different?
+
+Why would walls matter?
+
+Why would a closed space stop something that wasn’t bound to just being here?
+
+The trap was clever! Almost Apex Predator clever.
+
+It resisted force.
+
+It drained energy and weakened Skills!
+
+But it did not remove shadows!
+
+It could not.
+
+Luna’s eyes sharpened as she focused on that, her body going still again, filled with renewed resolve!
+
+If she could not leave normally–
+
+Then Luna would not leave normally!
+
+She would force it!
+
+But not by breaking the gate or walls.
+
+Oh awoo no!
+
+Luna will do better!
+
+And slip past the big meanie trap runes and stuff!
+
+Via the shadows it cannot trap!
+
+Her grip tightened slightly against the ceiling as she gathered herself, her focus narrowing to a single point, a single intent.
+
+Outside.
+
+Through shadows.
+
+Her eyes gleamed in the dark, a grin forming on her face.
+
+Oh yes!
+
+And then Luna moved, and the trap reacted.
+
+The runes flared again, light surging along the lines as the same resistance rose to meet her, the same draining pull trying to take hold before she could complete the motion.
+
+But Luna didn’t care!
+
+She just pushed through it, slipped right around!
+
+Into the shadows inviting her in–
+
+She reached for their embrace, for the thin, connected darkness that existed on both sides of the barrier.
+
+The resistance increased, trying to find purchase.
+
+Even harder than before.
+
+The drain surged, trying to break the attempt before it could complete!
+
+Luna growled, the sound low and sharp as she forced more of herself into the motion, refusing to let it stop there.
+
+Break!
+
+The resistance didn’t want to let go, set on keeping her here.
+
+And Luna had had enough!
+
+You want to sap Luna’s strength, to hold her back?!
+
+Luna will nom you back!
+
+Her Maw opened, a Bite delivered–
+
+To devour it all!
+
+The thought came cleanly, instinct and intent aligning as she pushed harder against the pull that tried to strip her effort away.
+
+For a moment, it resisted.
+
+Then–
+
+Her chomp finished, a strange fuzzy something dropping into her stomach.
+
+And the connection formed!
+
+【Shadowmeld Lv.16 → Lv.17】【Shadow Step Lv.16 → Lv.17】【Gluttonous Soul 14% → 15%】
+
+And it had been enough!
+
+The transition tore at her as she forced it through, the drain spiking one last time before breaking as her body passed through the shadow instead of the space the runes controlled.
+
+And then–
+
+Luna was outside!
+
+The shift hit all at once, the open air replacing the closed chamber, the muted sounds snapping into clarity as the battlefield came into full view.
+
+And this–
+
+Luna’s ears flattened slightly as she took it in.
+
+Did not look good.

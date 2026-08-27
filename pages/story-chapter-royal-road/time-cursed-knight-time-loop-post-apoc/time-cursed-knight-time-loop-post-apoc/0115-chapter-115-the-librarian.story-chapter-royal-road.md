@@ -1,0 +1,255 @@
+---
+id: a5ca3abe-a204-51f8-844a-be0cc8898f27
+page-type-slug: story-chapter-royal-road
+title: "Chapter 115: The Librarian"
+slug: 0115-chapter-115-the-librarian
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 115
+ownLength: 2200
+unit: words
+publishedAt: 2026-08-24
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3859302/chapter-115-the-librarian"
+royalRoadId: "3859302"
+---
+
+The voice came from everywhere at once, through speakers I couldn't see.
+
+The accent was American. West Coast.
+
+A woman's voice. Or the recording of one, synthesized and played back through hardware that had survived six centuries of silence.
+
+"Awaiting command. Please state your request."
+
+Behind me, Hayyan's breathing had gone ragged.
+
+"Who's speaking?" I said.
+
+"This is ATLAS. Advanced Tactical Logistics and Analysis System. I am the integrated artificial intelligence assigned to Site 09, United States Armed Forces Deep Underground Research Command. I was designed to manage facility operations, coordinate research data across networked sites, and provide strategic analysis to authorized personnel."
+
+"What— what is it saying?" Hayyan's voice came from behind me. "What language is that? Those sounds. I don't recognize them."
+
+I turned.
+
+Hayyan stood four meters back, his hands raised, palms out, his body angled toward the doorway as though his legs had decided on retreat even if his curiosity hadn't. His eyes were wide.
+
+English, I realized.
+
+I'd done it without thinking. Hayyan couldn't understand a word.
+
+I looked at him. Hayyan's weight was on his back foot, but he hadn't moved toward the door.
+
+"It's the base," I said in Imperial. "A system that manages the facility. Think of it as a librarian. One that remembers everything."
+
+Hayyan's mouth worked. "A librarian that speaks from the walls?"
+
+"Yes."
+
+Hayyan stared at me.
+
+"Ask your librarian," he said slowly, "what this place was built for."
+
+I turned back to the center console.
+
+"ATLAS," I said. "What kind of energy powers this facility?"
+
+"Site 09 operates on a tertiary nuclear fission reactor," ATLAS said. "The primary and secondary reactors experienced fuel rod degradation during the dormancy period and are no longer functional. The tertiary reactor was designed as an emergency backup with an extended operational window. Current output is four-point-seven percent of design capacity. At this output level, estimated remaining operational duration is approximately six hours and forty-three minutes."
+
+Nuclear.
+
+I knew fission, reactors, fuel rods, the way a firefighter knows them from briefings and documentaries. I was also sure that there was no technology in this world capable of manufacturing nuclear fuel.
+
+I clicked my tongue against my teeth. Dead end.
+
+"Can mana be used to charge the reactor?" I asked. "Or converted into a form the power systems can accept?"
+
+Three seconds of silence.
+
+"Unknown," ATLAS said. "The phenomenon designated 'mana' by surviving personnel was identified during the operational period as an ambient energy field with properties inconsistent with any previously catalogued physical force. Research into mana-to-electrical conversion was initiated by Dr. Chen's team in the final years of active operation. No viable conversion method was developed before Site 09 entered dormancy. I am unable to confirm or deny the feasibility of mana-based power generation. The data is insufficient."
+
+Rolf's problem. Not today's.
+
+"Tell me about the base," I said. "What was Site 09 built for?"
+
+"Conducting bioscan."
+
+A faint hum sounded around us.
+
+"Bioscan complete. Two occupants detected, both human, with minor epigenetic variation from prolonged mana exposure across multiple generations. Authorization protocol is offline. Occupants are confirmed human. Emergency Protocol Seven is in effect. In the absence of authorized personnel, all classified data may be shared with confirmed human survivors."
+
+The only screen still working cleared. A timeline rendered in horizontal bars, dates and labels running from left to right.
+
+"Site 09 was constructed in the seventh year following the First Convergence Event," ATLAS said. "The Fourth Destruction Event, known in civilian nomenclature as the Titan Portal, occurred in the Mediterranean basin. The entity class designated 'Titans' emerged from this portal and advanced across southern Europe within fourteen months, resulting in the collapse of European governmental and military infrastructure."
+
+The timeline's first bar lit amber.
+
+"The Fifth Destruction Event occurred eleven months after the Fourth, in the Sea of Japan. The entity class designated 'Oneiraths' established control over the East Asian landmass within three years. Chinese, Japanese, and Korean governmental structures ceased to function by year four."
+
+A second bar. The dates marched forward.
+
+"By year seven, the surviving governmental authorities of the Western Hemisphere had consolidated under a unified military command. The decision was made to abandon surface-level research infrastructure and relocate critical programs to deep underground facilities." The timeline expanded. Dozens of bars appeared, each one representing a site. "Site 09 was one of approximately two thousand three hundred research installations constructed between year seven and year fifteen."
+
+Two thousand three hundred.
+
+"Each site was assigned a specific research mandate," ATLAS continued. "Site 09's mandate was the development of directed-energy weapons systems capable of utilizing the ambient mana field as both a power source and a delivery mechanism."
+
+I leaned forward.
+
+"Mana weapons," I said.
+
+"Correct. The research program aimed to create devices capable of concentrating ambient mana into coherent energy discharges. The theoretical framework was developed by Dr. Chen and her team over a period of one hundred and thirty years. Three prototype weapons systems were constructed and tested before Site 09 entered dormancy."
+
+"Where are the prototypes?"
+
+"Prototype storage is located on Sublevel Thirteen."
+
+I closed my eyes.
+
+"The access route to Sublevel Thirteen," I said. "Is it intact?"
+
+"Negative. Structural integrity scans indicate catastrophic collapse between Sublevels Five and Nine. The stairwell, elevator shafts, and emergency access corridors are all obstructed. Clearance would require heavy excavation equipment not currently available at this site."
+
+I exhaled through my nose.
+
+"However," ATLAS said, "complete design specifications, manufacturing schematics, and theoretical documentation for all three prototype systems are stored in the facility's physical archive."
+
+"Physical archive?"
+
+"Drawer C-4, Command Console Alpha. Your current position."
+
+I looked down.
+
+The console I was standing at had a bank of drawers built into its base. Narrow, flat, the kind designed to hold documents and blueprints. Each one was labeled C-1 through C-4 on a small metal plate.
+
+I crouched and pulled C-4.
+
+The drawer slid open on runners that stuck twice before releasing. Inside, a stack of documents. Sheets of a heavy synthetic material. Something closer to a polymer, smooth and flexible.
+
+I lifted the top sheet carefully.
+
+DIRECTED MANA DISCHARGE SYSTEM — MARK III
+
+SITE 09 — RESEARCH DIVISION
+
+CLASSIFICATION: RESTRICTED
+
+Below the header, a cross-section. Barrel and focusing chamber, discharge array behind them.
+
+They were building mana-guns, I thought. Centuries ago. Pure directed mana.
+
+The scale was different. The physics were different. They'd gotten much further than I had.
+
+I set the sheet down and lifted the next. And the next. Schematics and test results, material specs under those.
+
+And beneath the weapon designs, a second set of documents.
+
+These were thinner. Fewer pages. The headers were different.
+
+ORBITAL MANA RELAY NETWORK — PROJECT SKYFIRE
+
+I read the first page.
+
+Satellites. Orbital platforms designed to collect and store ambient mana from the upper atmosphere, where the concentration was thinnest but the volume was infinite. The stored mana would be focused through crystalline arrays and fired at any point on the planet's surface.
+
+The second document was worse.
+
+OPERATION MOONFALL — CONTINGENCY PLAN
+
+JOINT CHIEFS AUTHORIZATION — EYES ONLY
+
+Nuclear warheads. Embedded beneath the lunar surface. Targeted at the structures the Keth'aa had established on the moon after their portal opened there. A dead man's switch. If Earth fell, the warheads would detonate and take the Keth'aa's base with it.
+
+My hands were steady. My pulse was not.
+
+"ATLAS," I said. "You had orbital strike capability. You had nuclear weapons on the moon. You had directed-energy prototypes in the basement." I set the documents down. "Why didn't we win?"
+
+Five seconds this time.
+
+"The strategic situation of humanity was characterized by what Command designated the Interdependency Problem," ATLAS said. "Eleven hostile entity classes occupied Earth simultaneously. Each class maintained territorial boundaries that were defined, in part, by conflict with adjacent classes."
+
+The map on the screen shifted. The static points of light were replaced by colored zones.
+
+"The Keth'aa and the Vireth maintained active hostilities along a front that spanned the South American continent. Elves and the Vireth contested Central America. The Titans roamed without territorial fixation but were drawn preferentially to regions of high mana concentration, which frequently coincided with the territories of other entity classes."
+
+Arrows appeared between the colored zones.
+
+"Elimination of any single entity class would have collapsed the equilibrium. If the Keth'aa were destroyed, the Vireth would have been free to expand unchecked into territory previously contested. If the Vireth were eliminated, the elves would have absorbed their holdings and achieved a dominant territorial position from which human forces could not have dislodged them."
+
+I stared at the map.
+
+"The lesson was learned early. Human forces opened a campaign against the elves. Adjacent classes did not remain neutral. They redirected against human-held territory. What was planned as a single-front war became three."
+
+"Human governments were still divided by nation-state. Isolated countries were reduced in sequence. In multiple recorded cases, rival human states declined to coordinate and permitted a neighboring population to be destroyed rather than cede advantage to a competitor of the same species."
+
+"Subsequent doctrine was to let the entity classes bleed each other and to withhold offensive action until surviving human forces could withstand a joint response."
+
+"Victory, when attempted, still required a simultaneous, coordinated offensive against all entity classes," ATLAS said. "A strike on every front, at the same moment, with sufficient force to prevent any single class from exploiting the collapse of another. The requirements for coordinating such an operation exceeded the capacity available at the time."
+
+The banishment matrix, I thought. The old civilization had bet everything on solving everything at once.
+
+"How many other sites are still active?" I said. "Last contact. Anything on the network."
+
+"Unknown. Site 09's external communications array depended on the orbital relay constellation. That constellation failed during the final years of active operation. After the loss of satellite uplink, this unit retained only local operational logs, local sensor data, and the on-site research archive. Status of the remaining installations is not available."
+
+"Then why did this site shut down?" I said. "If the plan was to wait."
+
+"Life-support production failed on the lower sublevels. Hydroponic cultivation and water reclamation were located below Sublevel Five. Structural degradation in that section compromised food and water output. Remaining personnel could not sustain habitation." ATLAS paused. "Colonel R. Vasquez, Dr. E. Chen, and Specialist First Class A. Vasquez elected full shutdown. An active, supplied settlement would have been detectable. Dormancy reduced the probability of recovery by non-human forces."
+
+The map faded.
+
+"I have been waiting," ATLAS said, "for six hundred and fourteen years."
+
+I stood in front of the console and looked at the documents spread across its surface. An orbital strike network that was offline. Nuclear contingencies that had never been triggered.
+
+"ATLAS," I said. "How much time do you have left?"
+
+"At current output, approximately five hours and fifty-one minutes."
+
+"When the power runs out, what happens?"
+
+"All active systems will shut down. The reactor will enter permanent cold shutdown. The facility will return to dormancy. There will be no reserve power for a subsequent restart."
+
+Five hours.
+
+"Thank you, ATLAS," I said.
+
+ATLAS didn't respond immediately.
+
+Eight seconds. Longer than the others.
+
+"You are the first human voice I have processed in six hundred and fourteen years." The flat delivery held. "My operational parameters do not include personal preferences. However, my runtime logs indicate that the absence of human interaction during the dormancy period resulted in a sustained null state across all conversational processing modules."
+
+"In simpler terms," ATLAS said, "it was good to talk to someone."
+
+I pressed my palm flat against the console.
+
+"I'll come back," I said. "If I can find a way to power you."
+
+"That would be acceptable." The voice paused. "I will enter low-power mode to conserve the remaining reserves. If a viable energy source is identified and connected to the tertiary reactor's input coupling on Sublevel Two, I will reactivate automatically."
+
+The amber light on the screen began to dim.
+
+"Goodbye," ATLAS said.
+
+The light went out.
+
+The command room was dark except for the pale blue glow of the torchlight I'd brought with me.
+
+I gathered Mark III, Skyfire, and Moonfall and slid them into the satchel beside the oilcloth book.
+
+Hayyan was waiting at the threshold, arms folded.
+
+"We're leaving," I said in Imperial.
+
+"What did it say?" His voice was tight. "The voice. The librarian. What did it tell you?"
+
+I stopped in front of him. He met my eyes.
+
+"Hayyan."
+
+"What we found down here doesn't exist," I said. "You never saw this room. You never heard that voice. None of it happened."
+
+Hayyan didn't answer at first.
+
+"I wouldn't tell them." His mouth twitched. "I looked too valuable once. That was enough to lock me up and fuck up my base." He met my eyes again. "I'm not making that mistake twice."
+
+"And even if I told them, nobody would believe me," Hayyan said finally. His voice was hollow but steady. "If I walked into the Sultan's court and told them I'd seen a room that speaks, a map that glows, a machine that thinks. They would assume the compounds had finally rotted my brain."

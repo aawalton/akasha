@@ -1,0 +1,369 @@
+---
+id: 6bcadebd-119a-5f6e-80d7-6462f5de9ff3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 59: Of Questions, Shiny Trades, and Secrets of the Deep"
+slug: 0059-chapter-59-of-questions-shiny-trades-and-secrets
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 59
+ownLength: 1703
+unit: words
+publishedAt: 2025-10-24
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2702133/chapter-59-of-questions-shiny-trades-and-secrets"
+royalRoadId: "2702133"
+---
+
+PoV Luna
+
+The descent went slow this time, boots clicking softly against damp stone.
+
+Syl’s staff floated light ahead, a little silver moon chasing the dark away step by step. Dust shimmered in its glow, curling in the air and sneaking up Luna’s nose.
+
+She padded behind her Second, humming her awoo-song low and steady.
+
+It made the tunnels feel less empty!
+
+Then Syl’s voice cut in, as soon as she was done with the last verse – soft, and curious.
+
+“Luna.”
+
+Ears perked.
+
+“Yep?”
+
+“It’s been on my mind for a while now,” Syl said, tapping her staff against the stone. “What do you actually know about the world? Monsters, people, the System, the places you’ve seen and been to?”
+
+That was a lot of questions all at once!
+
+Too many questions.
+
+Luna blinked hard.
+
+“Uh… Luna knows lots?” she offered proudly, tail swaying behind her.
+
+Syl’s mouth twitched, halfway between amusement and worry.
+
+“Right. But what exactly is lots?”
+
+“Many lots!”
+
+Trianna chuckled from the back.
+
+“Maybe start with the ‘places,’ Luna.”
+
+Ah! That she could do.
+
+“Luna knows forest,” she said proudly. “And the bog thingy – with frogs! Smelly frogs. Luna ate some. Oh, and the human road, and the human-smell area!”
+
+“Human smell?” Syl repeated.
+
+“Yip-yep! If Luna smells hard enough! Second smells human-but-not-human-like though. Different, but nice.”
+
+Syl coughed once, pink coloring her ears. “I—thank you?”
+
+“Yep!” Luna said, satisfied, tail wagging with finality.
+
+Trianna’s laugh slipped out before she could stop it.
+
+“Different but nice, huh? That’s one way to describe an elf.”
+
+Ray chuckled too.
+
+“Better than what she called me before.”
+
+“Shiny?” Trianna teased.
+
+“Exactly,” Ray said, unashamed. “Accurate branding.”
+
+Sepio groaned softly.
+
+“Focus.”
+
+Their laughter warmed the tunnel more than Syl’s light. The sound bounced off stone ribs and made the air feel alive again.
+
+Syl asked more questions as they walked. About monsters, forests, the System. Luna answered everything with her usual confidence. She told them about big uglies with bad breath and slimy frogs, about shiny rivers and deeper forest paths, about sleeping under trees among nice moss.
+
+“And then Luna realized the world is big,” she concluded solemnly. “Very big. And full of tasty things!”
+
+Ray snorted.
+
+“Including monsters, apparently.”
+
+“Yes, strong meat, strong Luna, leads to tasty meat!” Luna corrected.
+
+Veric gave a low chuckle.
+
+“At least she’s honest.”
+
+Syl smiled quietly, the corners of her mouth soft.
+
+“You see more than most, Luna. Even if you don’t always notice it.”
+
+Luna blinked at her, puzzled.
+
+“Luna always notice. Luna best scout. Found bugs. Found hole. Found soup!”
+
+Trianna laughed.
+
+“Can’t argue with that résumé.”
+
+The tunnel slowly opened wider. The air shifted again, cooler, heavier, more earthy. The sound of dripping water echoed from the deep ahead.
+
+Their steps slowed near the final landing. The walls glowed faintly with buried veins of mana, light pulsing like a heartbeat.
+
+Leyline thingies Syl talked about?
+
+Luna’s paws stilled. Her nose twitched. The same scent from before – earth, dust, and the faint trace of something waiting.
+
+The others stopped behind her.
+
+“Back where we left off,” Syl murmured.
+
+Luna grinned over her shoulder, tail flicking high.
+
+“Then Luna lead again?”
+
+Syl nodded.
+
+“Lead on, Luna.”
+
+“Yip-yep!”
+
+And with that, the wolf girl bounded forward into the waiting dark, tail sweeping bright silver in the light of her Second’s magic.
+
+They reached the broad hall again.
+
+The pack spread out without needing to speak, boots scraping stone, metal whispering, soft murmurs bouncing off the walls. Luna padded in the middle of them all, tail swaying from side to side.
+
+Trianna was the first to speak.
+
+“So, Luna.” Her voice carried the grin behind it. “How do we smell to you?”
+
+Luna blinked, ears pricking.
+
+“Human?”
+
+Ray snorted.
+
+“That’s not very helpful.”
+
+Trianna tilted her head, feigning deep offense.
+
+“Something more descriptive?”
+
+“Ah!” Luna’s eyes lit up. “Luna can do that!”
+
+She sat, focused hard, nose twitching.
+
+“Veric smells iron, leather, and oil. Sepio smells like… old dirt and metal. Ray smells of shiny things. And Trianna smells… of wood and forest and… kinda nice!”
+
+Trianna clutched her chest dramatically.
+
+“Finally, someone appreciates me!”
+
+Sepio arched an eyebrow.
+
+“Old dirt?”
+
+Ray crossed his arms, pretending dignity.
+
+“Shiny is a respectable scent, thank you.”
+
+Luna wagged her tail harder.
+
+“Yip-yep!”
+
+Their laughter filled the old hall, echoing between cracked columns and half-collapsed archways. The sound loosened the stale air until it felt alive again.
+
+They got back to work then.
+
+Trianna brushing dust from walls, Ray prying loose bits of rubble, Syl tracing her glowing runes across a faded mural.
+
+Luna sniffed through piles of debris, chasing interesting smells and occasionally stepping in Ray’s discarded dust piles.
+
+Then she found a glint.
+
+Her head snapped toward it, nose twitching fast.
+
+“Oh! Shiny!”
+
+She dug at a half-buried stone, claws clicking against the surface until a small crystal rolled free. It pulsed faintly blue, cool to touch, smooth as frozen water.
+
+She sniffed it. Then sniffed again, tongue flicking out.
+
+“Smells sparkly-stoney. Not spicy. But maybe crunchy.”
+
+Syl turned immediately.
+
+“No crunchy.”
+
+Luna froze, ears lowering slightly.
+
+Syl sighed, smiling despite herself.
+
+“Trade then. Shiny for jerky?”
+
+Tail wag.
+
+“Deal!”
+
+Luna dropped the crystal carefully into Syl’s hand, then pounced on the offered reward. Crunch. Chew. Victory achieved!
+
+Trianna laughed.
+
+“That’s one way to keep her from eating the artifacts.”
+
+“Efficient system,” Ray added, shaking another pouch of coins.
+
+Syl ignored them both.
+
+“All right, Luna. Back to our conversation before we–”
+
+Luna’s fur bristled suddenly. Her ears flicked. She froze mid-chew.
+
+The shimmer started in her eyes, then rolled through her whole body – quick, silvery light rippling over skin.
+
+“Uh oh,” she said.
+
+Pop.
+
+Where Luna-the-human had been, wolf-Luna now stood – tail high, fur puffed, proud grin wide.
+
+Syl blinked.
+
+“Oh.”
+
+Trianna giggled into her glove.
+
+“Timing.”
+
+Sepio snorted.
+
+“We’ll have to finish that talk later.”
+
+Ray, distracted by a shiny, hadn’t noticed a thing.
+
+Syl pinched the bridge of her nose, but her smile was warm.
+
+“Fine. Later it is.”
+
+Luna barked once, tail thumping approval.
+
+Agreement accepted.
+
+With that, the pack returned to their tasks. Light flickered. Dust swirled. And through it all, one happy wolf prowled between them, bright eyes gleaming, nose hunting for the next shiny thing worth trading for jerky.
+
+***
+
+The deeper they went, the heavier the air became.
+
+It pressed down on Luna’s fur, damp and cold, thick with earth scent and the metallic tang of old water. Drops plinked from cracks above, landing in slow rhythm that echoed down the long stone throat of the world.
+
+Syl’s magic light glowed ahead, pale and steady. The fog caught around it, turning her staff into a floating moon. It smelled faintly of silver mana and tea.
+
+Luna padded behind, tail sweeping dust from the floor, trying to keep her eyes open while the others talked about boring stone things.
+
+“It’s reacting,” Syl murmured, tracing a glowing symbol on the wall. “Residual mana flow through a leyline stabilizer, or at least what I believe this here to be – still functional.”
+
+Sepio leaned close, whistling low.
+
+“That’s Velssarin construction, alright. Incredible it still holds together.”
+
+Trianna snorted softly.
+
+“For old as dust stuff, it’s quite stubborn.”
+
+Luna’s ears drooped halfway through the sentence. Words. So many words. No snacks. No spice. Not a single chewable syllable!
+
+Magic stones were weird. They smelled sharp and prickly – mana without flavor, soup without meat.
+
+So Luna did what any good scout would do.
+
+She wandered!
+
+A few light steps, and a couple running charges took her ahead, nose to the ground. The scent changed.
+
+Wet. Bitter. Acidic. Bug.
+
+Her fur rose, tail twitching.
+
+“Heh.”
+
+A few bounds later, the tunnel widened into a vast chamber. The walls were lined with hard shell plates and sticky threads that glimmered like glass veins.
+
+A nest. Big. Busy. Perfect.
+
+Luna crouched. Ears forward. Claws flexed.
+
+Return to pack?
+
+Or bite first?
+
+The choice wasn’t a choice for Apex Predator!
+
+She leapt.
+
+The first bug didn’t even squeak before her fangs found it. Crunch–snap–gone!
+
+Another scuttled forward, screeching, wings buzzing. Momentum Claw carved it in half. A third tried to leap; Luna blinked away and behind it, Shadow Step sliding her through darkness.
+
+Bite, roll, crush!
+
+When it was over, the nest was quiet.
+
+Luna stood panting amid the wreckage, paws slick with green ichor. The air buzzed faintly with dying mana.
+
+She grinned, tongue lolling.
+
+“Jerky pay please.”
+
+The echo went nowhere. Her pack was still far behind.
+
+Fine! She would collect later.
+
+She shook her fur out, stretched once, and trotted deeper.
+
+Two more nests. Three tunnels. All dead. Easy!
+
+Until the last turn.
+
+The air changed again. Heavy. Old. Wrong.
+
+Ahead yawned a pit, huge and black, cutting through the ruins. The hall cut right in half. The same hole she had seen outside. The one that had awoooed back!
+
+She skidded to a halt, claws scraping stone.
+
+The smell was worse now – bug scent layered thick, tangled with rot and iron. It made her instincts curl tight in her chest.
+
+Luna crept closer, head low, fur bristling. The edge crumbled slightly under her paws. She peered down.
+
+Couldn’t see the bottom, it was too black, but she felt it near. Weird.
+
+Then the ground trembled, the blackness moving now.
+
+A whisper rolled through the stone, deep and alive.
+
+【Enemy Detected: ???】
+
+The air pulled backward, dragged toward the pit like the world was inhaling.
+
+And then the pit opened its eye.
+
+One massive, silvery eye, glinting wet and bright beneath the dark. The light from outside caught it for a heartbeat, and that was enough.
+
+It looked straight at her.
+
+Luna’s breath stopped. Her pulse roared in her ears. Every hair stood on end.
+
+Big. Bad. Wrong.
+
+Her tail puffed so wide it almost lifted her off the ground.
+
+“Uh oh.”
+
+Then, with no hesitation, she vanished.
+
+Shadow Step snapped, dragging her through the corridors in a rush of darkness and panic. Behind her, the chamber shook. Stone split. The world rumbled like something enormous was waking.
+
+And it was.
+
+Whatever lived down there was moving now.

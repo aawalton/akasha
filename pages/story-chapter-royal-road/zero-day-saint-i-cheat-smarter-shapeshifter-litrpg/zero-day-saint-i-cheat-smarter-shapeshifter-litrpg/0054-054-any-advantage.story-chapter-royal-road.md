@@ -1,0 +1,273 @@
+---
+id: 9931be60-3732-5df9-8cde-63021679bb59
+page-type-slug: story-chapter-royal-road
+title: "054 - Any Advantage"
+slug: 0054-054-any-advantage
+partOf: zero-day-saint-i-cheat-smarter-shapeshifter-litrpg
+position: 54
+ownLength: 2561
+unit: words
+publishedAt: 2026-07-08
+link: "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpg/chapter/3647179/054-any-advantage"
+royalRoadId: "3647179"
+---
+
+Instead of waltzing in through the front entrance, Jamie led me around the plot, using the cover of neighboring buildings to reach the back. We waited while a dot on the minimap crossed the club and unbarred the door.
+
+Luke opened it. He was covered in dirt and dust. His face brightened when he saw Jamie, then froze when he saw me.
+
+"Jamie," he said, taking a careful step back. "Who is that?"
+
+I crouched to his height and pointed at my devil eye. "Hey, Luke. It's me, Eve."
+
+He examined me with the healthy suspicion of a child on guard duty, then looked up at Jamie.
+
+"It really is her," Jamie said. "You've seen her with weird shapes before."
+
+Luke stepped aside.
+
+"But far worse dressed," he said.
+
+I stared after him. "Did the kid just roast my apocalypse attire?"
+
+"Yup."
+
+"The fuck."
+
+We stepped inside. One of the stages had been turned into a heap of dirt, stone, and broken concrete. The mess led back toward the backstage area and the old boiler pit.
+
+"They're digging a tunnel?" I asked.
+
+"Harder to track whether we're in here if no one sees us come and go," Jamie said.
+
+"Do we really have time for that?"
+
+"Do we have time to lose another outpost?"
+
+Anthony had just come in through the main room, pushing a wheelbarrow. He stopped when he saw me.
+
+"Sorry," I said. "Your lost sheep came back as more of a half-dragon."
+
+He gave me one long look, then nodded like that was merely one more problem to fit into the day.
+
+"So I see. Welcome back, Eve."
+
+I thanked him for the rescue, and Constance too when I found her. Both brushed it off quickly enough that I couldn't tell whether they were being kind, practical, or just too busy to dwell on it.
+
+The rest of them barely stopped working. Roslyn was down in the hole, actually digging. Constance moved rubble toward the boiler pit. Annika loaded wheelbarrows. Even before I had vanished into the tunnels, everyone had started changing. Now they had finished the job without asking my permission.
+
+Good. Uncomfortable, but good.
+
+Then there was another discussion to be had. We had successfully avoided each other since that moment behind the wall of the Gnoll Fortress. But now I was equipped with a subclass to find him. It was time I followed through on that promise and talked to Jason.
+
+#
+
+I sat down next to him on the edge of the roof. Up here next to the solar panels, the heat was suffocating.
+
+"What do you want?" he said.
+
+"I promised you that we'd talk again, and here we are."
+
+"Took you long enough."
+
+"I didn't know what to say to you, and honestly still don't. And well, then I was out of order, so to speak."
+
+"Because you are a reckless martyr who thinks she's smarter than anyone else."
+
+"I—" I didn't have a good reply. He wasn't even exactly wrong.
+
+"I wish they left you to rot in those tunnels." For the first time, he turned to look at me, his hands clenched into fists. "If you died hunted by an endless tide of foes, only for more to appear wherever you went, you would have died like Dad did."
+
+If the martyr comment was a jab, this was the haymaker. I stared, stunned, feeling sick.
+
+Jason turned away again.
+
+"Jason. I'm sorry for what happened. I honestly wish I could have done something, anything, to save your father. But there was nothing I could have done."
+
+His hand shot out and grabbed my upper arm. "It took you two days! Two days before, you killed a warlord on your own! Don't tell me you couldn't have done anything! You just didn't try."
+
+The answer came automatically. Because I had gone through that same discussion with myself countless times already.
+
+"I couldn't try because I was at my limit. I nearly died killing that one golem because I was at the end of the line. Any problem I solved, I could only solve with extreme prejudice. No, Jason. I couldn't have done anything. If I had tried, I'd more likely have doomed us all than saved anyone."
+
+Looking into his furious eyes, I felt reminded of how I had felt when I broke up with Claire. I both envied what she could do and resented her for how she used her abilities. I'd been a good hacker, while she had been both good and ruthless.
+
+But there was more in those eyes. I was told there wouldn't be a corruption bar, and yet I was given a trait that allowed me to perceive exactly that. Those words weren't his. They'd been fed to him by the Devil I had inflicted on him. Who was turning his Wrath into a conduit into his soul.
+
+He frowned. "What is that new class you got?"
+
+"I didn't want to be hunted anymore by unseen demons. I can pierce supernatural concealment now. Notice ambushes—notice when I'm followed. Even search for specific targets."
+
+He reacted like I had slapped him with those words. He pulled his legs up from the edge and stepped away from me.
+
+"Why would you pick something like that? Why not something that—that would have helped us kill more warlords? This—this is a coward's class!"
+
+I blinked at him. His heart was racing, his eyes wide. I pulled myself up as well.
+
+"Jason? Are you okay?"
+
+He took another step back. "No! I'm fucking not!"
+
+Before I could ask another question, he ran off inside.
+
+When I explained my class choice, his reaction had been visceral. Anger, fear, and… disappointment.
+
+He had plans.
+
+Plans that were ruined by my choice.
+
+Jason had planned to kill me.
+
+#
+
+["I'll take care of the hyenas on my own. See you on the boat. I'll fly."]
+
+Jamie would be fine on his own, wouldn't he? It was a five-minute trip through the tunnels, and not even dusk yet.
+
+["Eve, are you okay? What's happening?"]
+
+Up here I was out of range of the oath. I had no idea how to even begin this conversation. How to start a discussion about a teenager wanting to murder me.
+
+["No. The talk with Jason was rough. I need to be alone."]
+
+["Just take care, okay? I'll make my way back now. If you want to cover me from a distance, that'd be nice."]
+
+I switched into the crow shape.
+
+["Can do."]
+
+["If you are out late, look for the boat further away from the coast. We undock it after nightfall."]
+
+I watched over 'my' paladin as he made his way to the tunnels. Careful to never get close enough for the Oath to kick in.
+
+Then I made my way over to the hyenas—who may or may not already desire to murder me, too. But at least I could kick their asses to make them fall back in line. I had my doubts that beating Jason up would make him hate me any less.
+
+Their dots were still the same, white with a blue stripe. Which didn't stop the former matriarch from acting like she didn't even know me and I was intruding on her territory.
+
+Switching into my own dire hyena shape and shoving her off my throne solved at least that issue quickly. I was still carrying some corpses to feed them with, but I would need to restock soon. The poisoned meat I had dumped on demon hounds in the tunnels. I never got to see what it did to them.
+
+But for now, at least here, I was welcome.
+
+["Hey, Gabriel. I think Jason wants to murder me. Any advice?"]
+
+["I can only advise you on how not to get murdered, but I think you have a decent grip on that. Maybe don't eat that cereal for a while. Sadly, I can't help you with pulling a grieving teenager back from the brink. Though I can tell you that you are just in no position to do much there. It is on his mother and Guide to help him."]
+
+["Expected as much. Thanks for the cereal hint. I might have just let him poison me."]
+
+I would have to talk to Claire. The only other one with a devil guide, besides me and Jason. Maybe she had insight into how to act against their influence. I started to suspect that Lucy was doing a terrible job compared to others, but then, maybe that was precisely what they wanted me to feel.
+
+#
+
+I had spent more time than reasonable hanging out with the hyenas. When I set out on my return trip, it was already dark. Which served my purpose. I suspected I could unlock another skill, one that I might need in the near future.
+
+I equipped my Aviator's Goggles of the Mad Daredevil, waited out the bonding timer, and switched to the demon scout shape. The goggles covered all of my eyes. Which had to look very silly. The hyenas didn't seem to mind at all.
+
+Next I pulled out a mana potion, activated the Cloaking spell, drank the potion, which returned a whole 10 points of mana, and activated Jaunt. That had been my 5th distinct spell I had cast, and I was rewarded with a Task Completion.
+
+The boat was less than 6 miles away, I was still in a party with Jamie. Time to see if I could cross Manhattan without being spotted by demon bats or Claire's sentries.
+
+My first running jump propelled me 40 feet into the air. Jaunt's jump bonus was massive, and Breaking Newton's Laws made it even more potent, allowing me to nearly entirely ignore drag while I went up.
+
+Jumping off buildings and gliding through the streets at breakneck speed should have been fun. Any other day of the apocalypse, this journey would have been exhilarating. But even adrenaline did a poor job of shaking the weight of understanding that another person wanted you dead.
+
+By the time I snuck up on Claire's sentry, a four-foot-tall teddy bear sitting on another balcony, watching over the Hudson River, my Stealth skill had gone up to two.
+
+"Hey, Claire."
+
+It was calming to see that her reactions could still be very human. The teddy whirled around.
+
+["Eve."]
+
+I stepped out on the balcony with her.
+
+"Sorry for the entrance. I was training my Stealth skill. Did you notice me at all on my trip?"
+
+["Not since you went into the junkyard. Its inhabitants have a bad habit of making chew toys of anything I try to get close there. Have you come only to scare me?"]
+
+I sat down and scanned the waters. Out in the distance, I could see the faint outline of the boat.
+
+"No, I have some serious questions for you. Questions you'll not like to answer. But first, thank you, congratulations, and my apologies. You enabled us to kill our first Warlord. That deserves recognition. And apologies for killing your bodies there. I assume none survived?"
+
+["No. But death came very fast."]
+
+"Did you get to loot him?"
+
+["I don't think anyone did. There wasn't much left to loot. What serious questions, Eve?"]
+
+"Right, right. Let's get to the point. How are you dealing with your Devil?"
+
+There was a long pause before she replied.
+
+["You have to be more specific than that."]
+
+"What is she doing to break you? Is it working? How are you staying sane while a Devil-Me is whispering constant bullshit directly into your mind? Have you taken any deals yet? What did they cost you?"
+
+["Is Lucy starting to become a problem?"]
+
+"No. No, this isn't about them. We are doing… fine. Their existence is tied to my life. They have every reason to play a longer game than most devils."
+
+["Ash said you kissed them."]
+
+"He did, did he? Yes, I did."
+
+["Why?"]
+
+"I still don't know exactly. It was during the seventh hour. I was running on fumes. They were there when I was very alone."
+
+["I see. A very long game, I suppose."]
+
+"Claire. Are you going to answer any of my questions?"
+
+["Yes. Let me think about them for a moment."]
+
+"Take your time."
+
+["Yes, I have taken a boon beyond the class. The intended effect is very obvious, but I didn't have much choice. To make use of the benefits offered by a sanctified space, one has to be fully present in its aura. I didn't have all my bodies within one hundred feet since about 20 minutes into this. So she offered me a boon that would allow me to distribute attributes, accept Perks, and process rewards. I accepted."]
+
+"You said the intended effect is obvious? Can she withdraw this boon at any time?"
+
+["No. It's just that it only lasts 10 minutes, and its cooldown doubles with every use."]
+
+Talk about playing the long game. Yes, the intended effect was definitely obvious. Her progression was locked behind this boon, and it would only get worse over time. Eventually the cooldown would be so long, taking another deal to bypass it would be very tempting.
+
+"Fuck," I said. "How long is it right now?"
+
+["I've used it twice, and it is available right now. The next cooldown will last four days. I want to wait until I am level 20 to use it."]
+
+"Okay. I can see the game plan there. I assume you do not have a plan for how to deal with this issue longterm?"
+
+["No."]
+
+"What about other Blessed? Is she trying to rile you up against them? Isolate you?"
+
+["Of course. Rest assured she has many choice statements about you and what you are doing. Typical Grima Wormtongue stuff. Similar for others, notably when she notices them displaying a weakness I despise or acting to the detriment of humanity."]
+
+"And do you think it's working?"
+
+["I'm staying vigilant. I do what I do for the greater good. It is hard to sell me on the idea that joining with Mammon, for real, would be beneficial. If this is not about Lucy, and I doubt it is about Eve—the other Eve—then who is this about?"]
+
+"Jason. I'm nearly sure he wanted to kill me. Or still wants to, but my new class makes that a lot harder for him."
+
+Again, her next reply took a while.
+
+["What do you intend to do about this?"]
+
+"I don't know yet. I had hoped talking to you would give me an idea. But it seems both of our Devils are trying to subvert our desire to help. We both already took boons to solve specific problems. His is latching on to very real grief and redirecting that into anger at a very plausible target. And should he become Fallen and fully turn against us, he'd be a nightmare."
+
+["Keep me in the loop on your plans, okay? This is a serious threat."]
+
+"Will do."
+
+["Before you leave. Show me your new real you. I didn't get to see it up close yet."]
+
+I cancelled out of the demon shape. I had to manually cancel the Cloak spell, too, so she could take a look.
+
+["Why did you do it?"]
+
+"Interesting question, coming from you. Why did you?"
+
+["To better help people."]
+
+I stood up.
+
+"We take any advantage we can."

@@ -1,0 +1,191 @@
+---
+id: a0c64778-b98e-5f54-9642-c4f3b749af6a
+page-type-slug: story-chapter-royal-road
+title: "046 - They Burned My Cereals"
+slug: 0046-046-they-burned-my-cereals
+partOf: zero-day-saint-i-cheat-smarter-shapeshifter-litrpg
+position: 46
+ownLength: 1912
+unit: words
+publishedAt: 2026-06-23
+link: "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpg/chapter/3578246/046-they-burned-my-cereals"
+royalRoadId: "3578246"
+---
+
+Up until the mannequin stumbled in behind us, the library assault had been a remarkably smooth operation.
+
+Sure, there was a goddamn polycule of Anne Rice extras guarding the entrance, but even their charm magic wasn't much use against Power Through and four hundred pounds of dire hyena. We were just stepping into the grand foyer, ready to find out what kind of loot this place held.
+
+Then Claire's mannequin stumbled through the entrance and stopped us cold.
+
+["The fire station is under attack."]
+
+"What do you mean by under attack?" Ash asked.
+
+["Kobolds snuck past my perimeter and started firebombing the building. There are demons approaching from the Mammon tower. Do not return, this is a trap. I'm going out to attack the kobolds. Hopefully they won't find my apartment and the whiteboard."]
+
+I was already halfway out the main entrance, when I read the rest of her message.
+
+I shifted out of my hyena shape.
+
+"We can't just let them burn down our base of operations!"
+
+The others followed me outside.
+
+["I suppose you did when you failed to leave someone behind to guard the place. Though, depending on whom you left, they might have been burned alive by this."]
+
+"Fuck!" I paced. "How much water can you conjure, Ash?"
+
+["Not enough for this."] Claire replied in his stead.
+
+"Fuck." I looked at the others. "What do we do?"
+
+The others exchanged glances. They were exactly as stumped by this as I was.
+
+["Eve. There might be a situation you can do something about."]
+
+"What?"
+
+["I spotted a smaller group of kobolds. They aren't carrying the same fire bombs, but garbage bags of something squishy. And they are handling those with great care. My guess would be that it might be poisoned meat."]
+
+"Why would—" And then I knew. This wasn't just an attack on Blessed. This was a punishment. We had ambushed Mammon's men and this was retaliation.
+
+["They are headed toward the junkyard."]
+
+My eyes met Jamie's, who just nodded. He knew I had to go on my own.
+
+"Eve," he said. "Mind your hubris. If this is another trap, run. Okay?"
+
+I nodded. "Okay. The hyenas aren't worth dying for. But they are damn well worth killing for."
+
+I took a running start and took off as the hawk. I needed speed.
+
+#
+
+Full control of drag and inertia. In the brief minutes of flight I hadn't even begun to grasp the consequences of this. But I learned enough to make an entrance. Like the fact that my 20% increased acceleration worked for gravity—when I wanted to go faster. Flying in waves meant I got more speed on the downswing than I lost on the upswing.
+
+I spotted them about half a mile away from the junkyard. Four little bastards in suits—one caster, two assholes carrying the bags and one with a crossbow. I shed all my height and dove into their midst. Right over their heads I flared my wings and willed drag back into the equation, even increasing its effect on me.
+
+Final kinetic energy: ~70,000 Joules.
+
+The air in front of me compressed into a shockwave. Not enough to shatter limbs or toss the kobolds around. But enough to mimic Stephen's Volatile Potion.
+
+And primarily, I had shed speed. Enough to safely transform into a demon right in front of the caster in her oh-so-fancy suit. She had enough time to open her eyes again, before I tore her throat out with a swipe of my clawed hand.
+
+Behind me the two carriers dropped the bags and attempted to run. With a swipe of my tail I sent them tumbling to the ground, earning me my first ranks in the Tail skill.
+
+The first I crushed under my feet. The other I picked up from the ground.
+
+Then there was the one with the crossbow. In a truly uncharacteristically valiant effort for his species, he had picked his weapon up, which had miraculously not misfired, and aimed at me.
+
+"Let him go!" he squeaked.
+
+I kicked his dead buddy at him. This time he did misfire. I lunged after him and picked him up in my free hand. I pressed both of them against the brick wall of a nearby building.
+
+"The first one to tell me how you knew about the junkyard gets to live."
+
+They both stumbled over their words. They tried to tell me they didn't know. They were just sent on a mission. No one ever told them anything. I pushed harder.
+
+"There—there are the spooky demons," one squeaked.
+
+I eased the pressure.
+
+"Yes?"
+
+"We don't see much of them! They are hard to see! They look like they wear cloaks, but it's wings, and they never make a noise! Those are Mammon's eyes and ears."
+
+I grinned. "Well done." I pressed his friend harder against the wall, crushing his throat. "Now watch, and tell the others what happens when Mammon sends you here."
+
+Slowly I squeezed the life out of the kobold. I could see the life force in his body dimming.
+
+"Eve."
+
+The single word by Gabriel cut through my mind like a sword.
+
+I dropped both of them to the ground. The one I had nearly crushed was gasping for air. He wasn't quite dead yet.
+
+"Run," I growled.
+
+The unharmed one helped his friend and half dragged him away. I still had fifteen seconds remaining in this disgusting shape. I knelt on the ground and pressed my fists against my temples.
+
+I hated everything. I hated past Eve for giving me this fucked up class. I hated Gabriel for advising her to do so. I hated Mammon for burning my fucking house down and attacking my pack. I hated Jamie for having a class that told him when he was being a monster.
+
+Most of all I hated myself, for failing all of them. Well, besides Mammon, who could go and piss right off.
+
+"It is good that you can pull back that fast," Gabriel said.
+
+"It would just be better if you didn't have to yank the leash for me to behave."
+
+"As I told you before, Eve. You are going through the end of your world. Losing yourself sometimes is normal. The important part is dealing with it and not letting it consume you."
+
+Oh, I could feel it trying to consume me. That rage, that hatred. I was mad at everything and everyone and it was entirely rational. Our entire world was put on trial for crimes we didn't commit. It was all bullshit, and none of it was my shape.
+
+"I'll have to agree with the poultry," Lucy said. "You won't make a particularly great asset if you lose your mind. It's nearly the best part about you."
+
+I huffed a laugh. "What's the best part?"
+
+"That extremely cool devil eye you got."
+
+I slowly unfolded myself and stood back up. I needed to function for a while longer. I pulled the plastic bags into my inventory. Maybe I should do a fly-by over the fire station and drop them there. One last cursed barbeque.
+
+"How do I track stealth demons?" I asked.
+
+"You have done the important first step. You have raised Heightened Senses considerably already. Raise it further. Beyond that, try to find traces. Once you know what smell you are looking for, you might be able to spot them."
+
+"Will their abilities be focused on regular senses or all senses? All demons have six eyes, right? Do they all see the same three spectra?"
+
+"Most likely their stealth is strongest against what you called regular senses. Yes, they all do and yes, they all see the same three modes."
+
+I took a moment to loot the two corpses, while I thought of next steps. The caster had rewarded me with a recovery potion, which I drank immediately. Picking this shape had been a waste of precious ATP. I'd need to hunt down a gargoyle or one of those demon bats. They'd be better suited for the demonic shape slot. To hunt those scouts I needed their eyes, but more importantly their mobility.
+
+But all of that could wait. We needed to reform and figure out next steps. There were a couple of sanctified spaces that could serve as hideouts, though the fire station had been by far the largest I had spotted so far.
+
+I switched to the Might version of the hawk. I had to see the fire station and I wouldn't dare do a fly-by in a shape that was as fragile as any of my regular birds.
+
+As soon as I rose over the rooftops, I could see the column of smoke.
+
+I took care to build up a lot of speed before I passed overhead, but I saw everything I needed to see. The entire building was engulfed. No amount of water cantrips could have saved this.
+
+They burned my fucking cereals. They burned that shower. They burned the chess board Gabriel and Lucy had played on.
+
+I spotted one of the demons who were supposed to ambush us out on a rooftop. He was exposed and hadn't spotted me yet.
+
+I turned away before I could think of all the ways I could ruin his life. Most would end with me far too exposed and then far too fucking dead.
+
+A couple of blocks away, one of Claire's bodies, a doll sitting next to the chimney on a family home, waved me down. I landed behind her, scattering roof tiles under my less than elegant arrival.
+
+["Jamie and the rest of your party are hunkered down in a parking garage, waiting for you. Anthony's party has already found a sanctified space, a houseboat down in Queens. It barely fits them all."]
+
+["Yes, I already figured we wouldn't reunite with them anytime soon. The fire station was nearly unique in its size. And we also need to be more sneaky. A group of our size was not sneaky. Have there been other similar attacks on the Blessed?"]
+
+["No, not yet. But I warned other groups of what happened to your group. OpSec will be tightened across the city."]
+
+["Have you seen demons in real fights yet? How do they fight?"]
+
+["Unpredictably. I assume they have something similar to our classes going on, leading to very individual fighting styles. They present themselves all the same, but when fighting starts they show vastly different capabilities."]
+
+["How many have you killed?"]
+
+["In combat? None. Explosives-assisted assassination? Six."]
+
+["How are preparations going on that task I asked you about?"]
+
+["Good. People do not care for shiny. But right now I cannot speak anymore. Your gadget is unharmed, but I couldn't extract it yet. I will get to it when the surveillance around the fire station is reduced."]
+
+I screeched in anger. Of course my fucking gadget was under lockdown now. Right across the road from the blazing fire of our very short-lived home.
+
+["Good. We won't need it today, but hopefully soon. Today Mammon can enjoy the safety of his fucking tower.
+
+Do you have a body with the others?"]
+
+["Yes, the mannequin is still with them. Do you need to convey a message?"]
+
+["No, just directions."]
+
+["Bring this body along and it'll be easier."]
+
+I looked at the doll. As a nearly eighty-pound hawk carrying her was trivial. It was just weird.
+
+["The talons will hurt you. I don't exactly have fine motor control."]
+
+["I can hold on."]

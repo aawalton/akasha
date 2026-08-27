@@ -1,0 +1,447 @@
+---
+id: 0e079555-e112-5ac9-9cde-4b869f04353c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 99: Attack on TitAnts!"
+slug: 0100-chapter-99-attack-on-titants
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 100
+ownLength: 2245
+unit: words
+publishedAt: 2026-02-13
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3051415/chapter-99-attack-on-titants"
+royalRoadId: "3051415"
+---
+
+PoV Syliana
+
+The surge had finally relented.
+
+Although it was far from over – Syliana was certain of that – the relentless pressure had eased enough that the battlefield could breathe again.
+
+The screaming clicks had thinned. The endless forward push had broken into scattered movement. Ants still wandered in from the surrounding fields and tree line now and then, but no longer in that crushing, unstoppable tide.
+
+If Luna’s senses were to be believed – and Syl had learned very quickly that doubting those was a mistake – this wasn’t because most of the Ants were dead.
+
+Far from it.
+
+By Syliana’s estimate, they had brought down fewer than two hundred of them so far.
+
+That wasn’t a small number by any reasonable standard. Many expeditions would have been proud of it. But in the context of an Ant Surge… it was the lowest of possible estimates.
+
+Which normally meant just a noticeable dent in the actual numbers. A pruning, not a solution. Meant to whittle them down over time, to kill more than there could be born.
+
+And even that much had been… difficult.
+
+Though, admittedly, due to bad luck and weather turning on them. But it was poor taste to blame things like that.
+
+Syl’s gaze drifted across the camp-in-progress.
+
+Mud-caked adventurers moved more slowly now, exhaustion visible in their posture. She counted injuries almost unconsciously – some bandaged arms, limping gaits, a few people lying back with cloaks pulled over them while others worked quietly nearby.
+
+Over a dozen hurt, though thankfully nothing too serious for a little rest and potions to work through.
+
+Most importantly, nobody died.
+
+That alone felt like a small miracle.
+
+Both she and Ferric had been forced into the fray more than once, abandoning ideal positions to plug gaps before they collapsed entirely. The mud and terrible visibility made even seasoned adventurers slip up. And slip-ups in battle could be deadly. Syliana could still feel the lingering ache of overextended focus in her bones, the faint pressure behind her eyes from holding too many spells together for too long.
+
+Rain. Light. Ground control. Emergency intervention.
+
+It had been… a lot.
+
+And yet.
+
+Thanks to Luna, the worst had not come to pass.
+
+Syl’s attention shifted.
+
+The “explosive little girl,” as Ferric had muttered under his breath earlier, was currently being absolutely smothered by the rest of the party.
+
+Trianna had one arm slung loosely around Luna’s shoulders, laughing as she urged her to “do the shadow thing again.” Sepio stood nearby, nodding approvingly as Luna demonstrated – once more – how the rain slid right off her fur as shadows clung to her like a living cloak.
+
+Ray was gesturing animatedly, clearly explaining to someone nearby just how fast Luna had moved when she had done that thing, while Veric watched it all with quiet, rumbling amusement.
+
+And Luna basked in it.
+
+Tail wagging. Eyes bright. Hands moving enthusiastically as she showed off, again and again, how even the water refused to touch her now.
+
+Syliana felt a familiar tightening in her chest.
+
+…She would have to say a few words to Luna about that trick in particular.
+
+A right push and perhaps–
+
+But later.
+
+Preferably somewhere dry.
+
+Still, her gaze widened as she took in the rest of the scene.
+
+They weren’t alone.
+
+With the pressure gone, many adventurers had turned their focus toward survival and comfort rather than combat.
+
+Makeshift shelters were going up across the field – tarps stretched between spears, cloaks rigged into lean-tos, and proper tents from those few who prepared. Small pockets of dry space carved out of the rain through teamwork and experience.
+
+Fires were coaxed into life where possible, carefully shielded. Bedrolls were unrolled. Rations distributed.
+
+An occasional Ant – or three – wandered too close and was dispatched quickly, efficiently, without the earlier panic. Rotating guards, so the others could rest.
+
+After the chaos of the surge, it felt almost peaceful.
+
+Uneasy, but peaceful.
+
+Syl exhaled slowly.
+
+Her eyes drifted again toward Luna – and then farther out.
+
+The Proper Human Team had set up camp right beside them.
+
+Syl cringed as the final peg was hammered in and, on some unspoken cue, the entire group struck a pose.
+
+A coordinated effort.
+
+Arms flexed. Feet planted wide. Chins lifted dramatically.
+
+Utterly ridiculous.
+
+Syliana closed her eyes for a brief moment.
+
+This was… embarrassing. Somehow. Embarrassing in a way she couldn’t fully explain, but felt deep in her bones.
+
+She peeked again.
+
+Luna was already among them.
+
+That bright spark of fur and joy had launched herself into their midst without hesitation, mimicking their poses with absolute sincerity – off by just enough to make it worse and better at the same time.
+
+Trianna burst out laughing again.
+
+Syl’s shoulders loosened even as her eyes softened.
+
+Yes.
+
+Maybe a break wasn’t such a bad thing after all.
+
+For Luna.
+
+For them.
+
+And – perhaps – for her too.
+
+***
+
+PoV Luna
+
+Luna woke up to scritches!
+
+Mhm!
+
+Very nice scritches.
+
+Slow ones. Careful ones.
+
+Considerate!
+
+They didn’t jolt her awake all at once, but gently coaxed her out of sleep, politely asking instead of demanding. Her tail thumped once against the bedding before she even opened her eyes.
+
+She sniffed.
+
+Warm canvas. Damp grass. Faint smoke from last night’s fire. Pack-scent everywhere, calm and close and safe.
+
+She nuzzled into the hands giving the scritchies, rubbing her head forward insistently.
+
+Oh!
+
+That smell–
+
+Trianna!
+
+Luna’s ears flicked lazily as she shifted, stretching out with a small huff of contentment. One paw extended. Then the other. Her back arched slightly as she enjoyed the attention, eyes still half-closed.
+
+But…
+
+She sniffed again.
+
+The others weren’t here.
+
+No Ray. No Veric. No Sepio.
+
+They must be out doing the guarding thing.
+
+That was okay.
+
+Someone had to do boring human stuff.
+
+The voices filtered in next, drifting through the tent walls and mixing with the soft sounds of morning outside.
+
+Second!
+
+And–
+
+Ferric.
+
+Luna’s ears tilted forward slightly as she listened, still pretending very hard to be asleep.
+
+“…That’s the best option going forward,” Syliana was saying, her voice calm but edged with tired focus. “The skies might have cleared, but we’re still dealing with hundreds more of them hiding in the forest.”
+
+Hundreds.
+
+Luna’s nose wrinkled faintly.
+
+That was a big many!
+
+Probably.
+
+“Your plan is still quite risky,” Ferric replied.
+
+Luna cracked one eye open.
+
+Risky meant fun.
+
+And fun meant hunting strong meat!
+
+“No adventurer mission ever is risk-free,” Syl said evenly. “We could stay here for days, whittling their numbers down slowly. Or…”
+
+There was a pause.
+
+“…We draw their attention into another Killzone. While most of the Ants are busy getting here, an elite team moves out and deals with the Ant Queen.”
+
+Luna’s ears shot upright.
+
+Ant Queen?
+
+Her tail wagged once before she caught herself and froze.
+
+“That's–” Ferric exhaled. “Alright. I suppose it does make sense, when you put it like that. But who will go?”
+
+Luna’s heart started thumping faster.
+
+“You’ll need people who can move fast,” Ferric continued, “and who can pull out immediately if something unexpected happens.”
+
+“I will,” Syl replied without hesitation. “Trianna and Dorian as well. I already spoke with them. As for Luna–”
+
+Trianna’s scritching hand paused just a little.
+
+Then resumed, slower, thoughtful.
+
+Syl’s voice softened just a fraction.
+
+“…We were waiting for her to wake up, before asking.”
+
+YES!
+
+Luna Shadow Stepped.
+
+Straight into Syliana’s hands!
+
+There was no warning, no hesitation. One moment the space between them existed–
+
+–and the next, Luna was there, fluffy and very present, paws planted against Syl’s chest as she immediately went for the mlem!
+
+And against all odds–
+
+The mlem was a success!
+
+She went for another–
+
+Syl turned her head just in time.
+
+Denied.
+
+But the first one counted!
+
+Victory!
+
+“Yip-yep! Luna will go!” Luna barked proudly, tail wagging hard enough to thump against Syl’s arm. She was still in wolf form, fur slightly rumpled from sleep and scritches, but very awake now.
+
+Syl sighed.
+
+Then muttered I knew this would happen in such a low voice that even Luna, right next to her, barely heard it.
+
+Ferric laughed – before stopping abruptly when Syl shot him a glare sharp enough to cut stone.
+
+“…Good morning, Luna,” Syl said, regaining her composure with visible effort. “I hope you slept well.”
+
+Luna wagged harder.
+
+“Yes!”
+
+“Now,” Syl continued firmly, adjusting her grip and very deliberately not acknowledging the tail currently threatening nearby objects, “shoo back into the tent and get dressed properly.”
+
+She turned slightly, eyes flicking toward the giggling tent entrance.
+
+“…Trianna will help you.”
+
+For half a second, there was silence.
+
+The ‘punishment’ for daring to laugh at the situation almost worked.
+
+Then Trianna lost it.
+
+She covered her mouth with one hand, shoulders shaking, eyes watering as she leaned against the tent pole for support. It wasn’t quiet laughter, either – it was an utterly helpless, breathless sort that came from watching someone try so hard to be in control while absolutely not being in control.
+
+“Oh no,” Trianna wheezed. “She said it like it was ever going to work.”
+
+Syl shot her a look.
+
+A very Syl look.
+
+Trianna just laughed harder.
+
+Luna blinked between them, tail still wagging, entirely unbothered by the dynamic but keenly aware that something very funny had just happened.
+
+“Luna can dress!” she protested proudly instead. “Mostly!”
+
+Syl just gave up, looking up questioningly at the sky.
+
+Ferric cleared his throat loudly, eyes very deliberately focused on the horizon.
+
+Trianna finally straightened, wiping at the corners of her eyes, still grinning.
+
+“Come on, Luna,” she said, reaching out. “Let’s get you ready before your ‘Second’ pretends this whole conversation never happened.”
+
+Luna perked up immediately.
+
+“Okay!”
+
+She happily trotted back toward the tent, tail brushing against Syl on the way past with a parting pat.
+
+Syl watched her go.
+
+Then sighed.
+
+Ferric smiled.
+
+Then got mock-bonked on the head with a staff.
+
+***
+
+After all the ‘proper’ morning routines Luna learned of a very important thing!
+
+Stew!
+
+A whole lot of it!
+
+A big BIG pot!!!
+
+Luna had watched them make it, eyes wide and tail wagging as ingredients were dumped in with very little ceremony. Vegetables. Meat. Bones. Spices that made her nose itch in a good way. Someone stirred with a paddle-sized spoon, as the pot bubbled and hissed like it was alive.
+
+It smelled awoomazingly delicious!
+
+Perhaps a little less delicious than what her Second made.
+
+But it smelled different!
+
+So it was alright!
+
+And when it was finally ready, bowls appeared everywhere, steam rising into the cool morning air. Luna was handed one too.
+
+Then another.
+
+And another!
+
+She sat cross-legged on the ground, tail curled around herself, slurping happily as warmth spread through her chest and belly. The stew was thick and hearty, chunks of meat soft and flavorful, broth rich and salty and perfect after rain and fighting.
+
+She ate until she felt full!
+
+Then ate a little more.
+
+Just in case!
+
+By the time she was on her third bowl, Mr. Bull wandered over.
+
+He watched her for a moment, arms crossed, expression thoughtful – then nodded approvingly.
+
+“Hah! Look at you go,” he said cheerfully. “Eating well like that. That’s how you grow big and healthy.”
+
+Luna froze mid-slurp.
+
+Her eyes sparkled.
+
+“Really really?” she asked, hopeful.
+
+“Really,” Mr. Bull confirmed solemnly, flexing his big arms to show off his growth. “Growing bodies need fuel.”
+
+Luna nodded very seriously.
+
+“Yes!” she agreed. “Mr. Bull very smart. Just like Luna!”
+
+Mr. Bull laughed loudly, clapping her once on the shoulder hard enough to jostle her bowl.
+
+And Luna didn’t mind!
+
+She finished her stew feeling warm and heavy and very pleased with herself.
+
+Then… things changed.
+
+People started standing up. Bowls were set aside. Packs were checked again. Voices lowered.
+
+She knew what that meant.
+
+Goodbyes.
+
+Luna didn’t like that part much.
+
+But she listened.
+
+The plan was explained to her carefully. Slowly. With hand gestures and words she mostly understood. The scout teams would draw the Ants away. Make noise. Make chaos. Keep them busy and far away.
+
+Meanwhile–
+
+Luna’s group would go the other way.
+
+Deep inside the forest.
+
+Quiet.
+
+And fast.
+
+Straight to the nest!
+
+To hunt big prey so it would stop making lots of weak prey.
+
+It was strong prey!
+
+Luna’s tail started wagging again.
+
+“That’s a good plan,” she said confidently. “Very Apex Predator plan!”
+
+Syl smiled faintly.
+
+“Yes,” she agreed. “That it is.”
+
+Soon it was time.
+
+People gathered. Checked counts. Gave final nods and claps on shoulders. A few waved. A couple didn’t look back at all.
+
+Luna said bye-bye to Mr. Bull.
+
+And to a few others who smiled at her nicely – or sparred with her often!
+
+Then they waited – just a little bit!
+
+Long enough for everyone to get ready.
+
+And for the scouts to start annoying the Ants again, distant clicks and shouts drifting faintly through the trees.
+
+Syl’s voice cut through it all, calm and steady.
+
+“Let’s go,” she said. “First and foremost, we must remain undetected until we find the nest. And then–”
+
+She didn’t finish.
+
+Didn’t need to.
+
+Everyone already knew their roles.
+
+Luna grinned.
+
+“Yes!” she whispered fiercely.
+
+Bite and claw until it’s done!
+
+Her legs bounced in place, energy coiling tight inside her as they turned toward the forest.
+
+Luna could hardly wait.

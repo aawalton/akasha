@@ -1,0 +1,309 @@
+---
+id: 382f8d91-d0e6-5ec4-a268-93b6333477e6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 58: Memories"
+slug: 0058-chapter-58-memories
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 58
+ownLength: 2689
+unit: words
+publishedAt: 2026-06-04
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3493053/chapter-58-memories"
+royalRoadId: "3493053"
+---
+
+⌜ Contents: Memories. ⌝
+
+⌜ Memories held by the Sin of Gluttony will be released. ⌝
+
+My hand found my head.
+
+The pain that had been nesting behind my eyes for days, persistent pressure I’d attributed to dehydration and exhaustion and the general condition of a body that had been broken and reassembled too many times, detonated.
+
+The world split.
+
+A fissure opened along the fault line that ran between the person I was and the person whose body I inhabited, and through that fissure, something began to push.
+
+Blood ran from my nose.
+
+A single warm trail that traced the contour of my upper lip and dripped from my chin. I tasted copper. My ears filled with a high, keening whine, the kind of sound a bell makes when it’s been struck too hard.
+
+My vision tunneled. The room compressed to a point of light that shrank with each heartbeat.
+
+Then it stopped.
+
+Everything stopped.
+
+The pain withdrew. As if someone had reached into my skull and flipped a switch. The whine in my ears faded. The tunnel vision expanded back to its normal field. My heart, which had been hammering, settled into a rhythm that was merely fast rather than critical.
+
+I sat on the edge of the bed. Breathing. Tasting blood. Feeling the wet trail cooling on my chin.
+
+Normal.
+
+Except.
+
+The door.
+
+The door in my mind, the barrier behind which Kaspar’s memories had been compressed, that door was gone.
+
+Blown from its hinges with a violence that left nothing behind. No boundary between what had been locked away and what I carried in my mind.
+
+Everything that had been behind it poured through.
+
+The sensation wasn’t pain. It was weight. An avalanche of compressed experience that hit my consciousness with the momentum of years. Every night. Every meal. Every conversation. Every humiliation and every small triumph and every quiet moment spent alone in rooms that ranged from a child’s nursery to an Academy dormitory to cells and laboratories and libraries.
+
+A lifetime.
+
+Kaspar’s lifetime.
+
+The memories settled. On shelves, they read like bound volumes: ordered, accessible, separate.
+
+I felt them. Thousands of them. Each one distinct, each carrying the full sensory and emotional weight of the moment it preserved.
+
+But they weren’t mine.
+
+They were records. Archives. A library bequeathed to me by a boy who no longer existed, catalogued by a curse that consumed everything it touched and, apparently, stored what it couldn’t digest.
+
+I closed my eyes.
+
+The space that materialized behind my lids was vast.
+
+A palace.
+
+Not like the Imperial Palace or the Hexenzeit mansion. Something else entirely. A construct of the mind, a metaphorical architecture to house what no ordinary mind could hold.
+
+Shelves stretched in every direction. Thousands of them. Towering structures of dark wood that rose from a floor of polished stone and climbed into a ceiling so distant it dissolved into shadow.
+
+Each shelf held hundreds of volumes.
+
+Each one a memory.
+
+I extended my hand.
+
+A volume detached itself from the nearest shelf and drifted to my palm. The leather was warm. The weight was negligible, lighter than paper, despite the density of what it contained.
+
+I didn’t open it. Didn’t need to. The moment my fingers closed around the spine, the contents poured into my awareness.
+
+A classroom. Second year. A lecturer whose name I now knew, Professor Mertz, droning about the historical applications of Third Circle ward matrices. A boy seated three rows from the back, taking notes with a hand that moved faster than the lecturer spoke, recording not just the words but the gaps between them, the assumptions the lecturer made, the errors the lecturer didn’t know he was making.
+
+The memory dissolved. The book returned to its shelf.
+
+I reached for another.
+
+A dormitory room. Night. The same boy, older now, sitting cross-legged on his bed with a circle of candles around him and his hands pressed flat against his chest, trying to feel the mana that everyone else could feel.
+
+The candles burned down to nubs. The boy didn’t move. The mana didn’t come.
+
+The memory dissolved.
+
+Another.
+
+A hallway. A group of students. Laughter. The boy walking past them with his chin level and his eyes forward and his jaw clenched so tightly the tendons in his neck stood out like cords.
+
+Something hit the back of his head. An inkwell. The black liquid splattered across his collar and down his neck. The laughter intensified.
+
+The boy didn’t turn around.
+
+Another. And another. And another.
+
+Each book a chapter in a life that had been defined by a single, devastating absence. Each memory carrying the weight of a boy who had been born into one of the most powerful families in the empire, yet was treated worse than a commoner.
+
+The memories weren’t chronological. They didn’t unfold in sequence. They came as the mind summoned them, responding to intent rather than order.
+
+I thought of the white hair.
+
+A book came.
+
+My fingers closed around the spine. The contents flooded in.
+
+A bathroom. Somewhere in the lower levels of the Academy complex where the maintenance corridors branched into storage rooms and forgotten chambers that no one visited.
+
+Kaspar knelt on the tile floor.
+
+Around him, arranged in a precise semicircle, dozens of containers. Glass vials. Ceramic jars. Cloth pouches tied shut with waxed string. Each one labeled in the boy’s meticulous handwriting, each label a compound name that mixed alchemical notation with biological classification.
+
+Frostfang serpent core — powdered. Grade C.
+
+Elven blood — dissolved in ethanol.
+
+Embershrike gland extract — concentrated, 3:1 ratio.
+
+Monster parts. Harvested, purchased, traded for, or stolen from the Academy’s biological storage. Each one selected for a specific property. Each one a component in a formula that had been revised, tested, failed, and revised again over months.
+
+A notebook lay open beside his knee. The pages were dense with text and diagrams. At the top of the current page, in handwriting that was smaller and more precise than the labels on the containers:
+
+Experiment #121.
+
+Objective: Development of mana circulation through injection of monster-derived core compounds.
+
+Hypothesis: If diluted core material from high-mana organisms is introduced to the human circulatory system in sufficient concentration, the residual mana within the compounds may stimulate dormant core tissue and initiate channel formation.
+
+Below the hypothesis, a list of ingredients. Quantities measured to the fraction of a grain. Preparation instructions that specified temperature, duration, order of combination.
+
+He mixed.
+
+His hands moved with the steady confidence of someone who had performed this operation a hundred and twenty times before. The compounds went into a mortar. The pestle ground them together. A liquid was added. The mixture changed color, from brown to an iridescent green.
+
+He poured the mixture into a cup.
+
+Kaspar took a small syringe and collected everything that was in the glass.
+
+He took a deep breath and inserted it into his arm, before squeezing tightly.
+
+The reaction was immediate.
+
+Pain erupted from his arm and radiated outward through his body. His back arched. His hands clawed at the tile. His mouth opened in a scream.
+
+The convulsions lasted ninety seconds. I felt every one of them through the memory, experienced at the remove of a reader rather than a participant, but vivid enough to make my own stomach clench in sympathy.
+
+When the convulsions subsided, the boy lay on his side on the cold tile. His breathing came in shallow, ragged pulls. Sweat drenched his hair and his shirt and pooled beneath his cheek.
+
+He pushed himself up.
+
+His eyes found the mirror mounted on the wall above the basin.
+
+The face that looked back was pale. The features were drawn. The eyes were bloodshot.
+
+The hair was white.
+
+Every strand. From root to tip. The red color that had been there minutes ago was gone, replaced by absolute white.
+
+He stared at his reflection for a long time.
+
+Then he pressed one hand against his chest. Closed his eyes. Searched for the change. For the stirring of mana in the cores, the faintest whisper of current through channels that might have been shocked into function.
+
+Nothing.
+
+He opened his eyes. Looked at the white-haired stranger in the mirror. His expression didn’t collapse.
+
+It hardened.
+
+He returned to the notebook. Sat cross-legged on the tile. Picked up his quill.
+
+Result: No measurable change in core activity or channel formation. Subject experienced severe cardiac distress, muscular convulsions, and complete depigmentation of hair follicles. Depigmentation appears permanent.
+
+Assessment: Experiment #121 is not viable. The core material, while introducing mana to the system, does not interact with dormant human core tissue in any productive capacity. The mana is either rejected or consumed by metabolic processes before reaching the intended target.
+
+Proceed to Experiment #122.
+
+He closed the notebook. Began cleaning the containers.
+
+The memory dissolved.
+
+The book returned to its shelf.
+
+I opened my eyes.
+
+The palace room reasserted itself.
+
+My hand was still pressed against my chest, mirroring the boy in the memory.
+
+The white hair.
+
+Not elven blood. Not a mark of exotic ancestry or divine favor or any of the explanations that had been offered.
+
+A side effect. The residue of a failed experiment conducted by a boy who had been willing to poison himself for even the slightest chance of awakening what his body refused to give him.
+
+The Kaspar who had lived in this body before me was not the broken, defeated creature the world had perceived. He was not the failure. He was not the victim who had accepted his fate and crumbled beneath it.
+
+He was a genius.
+
+The word wasn’t hyperbole. The memories made that clear with a bluntness that left no room for modest interpretation. The boy’s mind had operated at a level most of the Academy’s faculty would have struggled to match. His understanding of alchemical principles, of biological systems, of the theoretical frameworks governing mana interaction with organic tissue, was self-taught and extraordinary.
+
+He had conducted a hundred and twenty-one experiments on his own body. Each one designed with rigorous methodology. Each one building on the data from the last. Each one pushing closer to a solution.
+
+The memories didn’t contain an explanation for what had happened next. There was no final entry. No concluding experiment that went wrong in a way that ejected Kaspar’s consciousness and replaced it with mine. The library held everything up to a certain point, and then it simply stopped.
+
+As if the author had been interrupted mid-sentence.
+
+I rose from the bed.
+
+My legs held. The pain was manageable. The blood from my nose had dried to a dark crust on my chin and the sheets.
+
+I crossed the room to where a small table sat beneath the window. On its surface, a set of objects that the attendants had placed there upon my arrival.
+
+A washbasin. A carafe of water. A tray of fruit that I hadn’t touched.
+
+And a game board.
+
+I hadn’t noticed it before. Or rather, I had noticed it and dismissed it as decoration, the kind of idle luxury that palaces scattered through their guest rooms.
+
+It was a chess set. Or something close enough to chess. A board of alternating squares, dark and light. Thirty-two pieces arranged in their starting positions, carved from wood and polished to a gleam.
+
+I didn’t know how to play.
+
+I had never played chess in either life. The game had existed in my old world and I had been aware of its existence the way one is aware of opera or competitive sailing, as something that other people did with enthusiasm and skill while I spent my time pulling people out of burning buildings.
+
+But the memories knew.
+
+The knowledge was there, sitting on a shelf in the palace of my mind, waiting to be consulted. Kaspar had played. Kaspar had played well. The game had been one of his few social currencies at the Academy, a domain where the absence of magic didn’t matter, where intelligence alone determined the outcome.
+
+I sat.
+
+My hands found the pieces without conscious direction. The fingertips recognized the shapes. The weight of each piece triggered a cascade of associated knowledge, openings and strategy and the deep positional understanding that came from thousands of games played against opponents who ranged from casual to brilliant.
+
+I picked up two pieces. The king and the queen.
+
+In my left hand, the king. Tall, crowned, the most important piece on the board. The one whose survival determined everything.
+
+In my right hand, the queen. The most powerful piece. Unrestricted in movement. Capable of reaching any square on the board through any combination of directions.
+
+I held them up. Studied them in the light that filtered through the curtains.
+
+These could be me.
+
+I could become powerful.
+
+Given time, given training, given the relentless accumulation of skills, knowledge, and experience that the System tracked and rewarded, I could become one of the most powerful pieces on this board.
+
+But even in chess, you don’t play alone.
+
+I set the king and queen back on their squares. Looked at the rest of the board. The bishops. The knights. The rooks. The pawns.
+
+The pieces arranged in formation, each one with a role, each one essential to the whole.
+
+The southern front had taught me that. The beach had driven the lesson through my chest with the force of an iron chain.
+
+I cannot win this war alone.
+
+The thought didn’t carry the despair it might have. It carried the specific weight of a strategic conclusion reached through evidence rather than emotion.
+
+I had tried to be the only piece on the board. I had ridden south alone. Fought in the corridors alone. Broken the chains alone. And I had saved many, and I had lost some, and the margin between the two had been so narrow that a single additional ally, a single additional piece positioned in the right square at the right moment, might have tipped the balance.
+
+I need more pieces.
+
+Not faceless reinforcements summoned through forged letters and institutional authority.
+
+People. Specific people with specific capabilities, positioned with intention, bound by something stronger than orders.
+
+I needed to find them, recruit them, earn their trust, position them where they could be most effective.
+
+This war — the war against the elves, against the Sins, against whatever was coming next — was not a game that could be won by a single player, not even with nine cores, no matter how many times death returned him to the board.
+
+The knock came while I was still holding the queen’s rook, turning it between my fingers.
+
+Three measured raps against the wood.
+
+“Come in,” I said.
+
+The door opened.
+
+Major Brauer filled the doorframe. His bulk was contained in formal military dress that had been tailored, with evident difficulty, to accommodate shoulders that belonged on a draft horse. His face, that landscape of crumpled leather and old scars, assessed me in a single sweep that took approximately one second and missed nothing.
+
+The bloodstain on the sheets. The dried crust on my chin. The chessboard. The fact that I was sitting upright, alert, with a piece in my hand and my eyes clear.
+
+“The ceremony begins in two hours,” Brauer said. His voice was the low, controlled rumble of a man who had spent decades ensuring that every word he spoke landed exactly where he intended. “Prince Varen requires your attendance.”
+
+I set the rook back on its square.
+
+“I’ll be ready in ten minutes.”
+
+Brauer didn’t move from the doorframe. His eyes narrowed by a fraction. The response had not been what he’d prepared for.
+
+The expectation was that he would need to coax, to persuade, to deploy whatever combination of authority and empathy his decades of experience had taught him was most effective for extracting a functional soldier from the wreckage of psychological collapse.
+
+Instead, he was looking at a young man who was already standing, already moving toward the wardrobe where the formal uniform had been hung.
+
+“Ten minutes,” he repeated.
+
+“Ten minutes.”

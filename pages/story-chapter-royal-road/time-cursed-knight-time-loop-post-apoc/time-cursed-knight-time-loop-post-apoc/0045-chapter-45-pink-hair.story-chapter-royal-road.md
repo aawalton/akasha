@@ -1,0 +1,441 @@
+---
+id: cab4ee92-5b69-56e6-acd3-a1fe6460f33e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 45: Pink Hair"
+slug: 0045-chapter-45-pink-hair
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 45
+ownLength: 3312
+unit: words
+publishedAt: 2026-05-18
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3415017/chapter-45-pink-hair"
+royalRoadId: "3415017"
+---
+
+The road back to Grenzheim unrolled behind us.
+
+Four hours on the line. Now back, north, toward a town I'd just left.
+
+It must be some kind of record breaking.
+
+The landscape slid past the canvas flap. The horses, thankfully not mules this time.
+
+I leaned back against the carriage wall and closed my eyes.
+
+Sleep, that was the plan. Close my eyes and let the body rest while the day burns away.
+
+It didn't work.
+
+Their attention pressed against my skin anyway.
+
+I cracked my eyes open a fraction.
+
+The pink-haired girl was staring at me.
+
+Her bloodshot eyes had found my face and locked there.
+
+Beside her, the old man had also fixed his gaze on me. His chin was tilted down, his eyes raised beneath heavy brows.
+
+The younger woman. The boy. The second girl.
+
+All watching me.
+
+Their hands clutched the canteens we'd given them. But their faces, every single one, were turned toward mine.
+
+I shifted my weight. Adjusted the position of the sword across my knees. The movement should have broken the moment. In a normal carriage, with normal people, the eyes would have flicked away with the embarrassed politeness of strangers who'd been caught staring.
+
+These eyes didn't move.
+
+Why?
+
+The question sat in my throat. I couldn't ask. We had no common language. No gestures that would communicate the specific curiosity I wanted to express. Any attempt to mime the question would come out as something closer to stop staring at me, and these five had been through enough in the last hours.
+
+So I closed my eyes again.
+
+Let them look.
+
+The sun had already sunk past the western ridgeline by the time the carriage rolled through the main gate.
+
+Cookfires burned in every courtyard. The streets were emptier than they'd been in the morning, the civilian population retreating indoors, the military traffic reduced to the occasional patrol.
+
+We rolled to a stop in a quiet side street near the eastern quarter, away from the central square and its chaos of supply wagons.
+
+My commanding officer climbed down first. I followed.
+
+"Thom," he said.
+
+I turned. "Sorry?"
+
+"My name. Thom." He rubbed the back of his neck. "Realized I never gave it to you. If we're going to own this mess start to finish, it seems rude to keep doing it as officer and new blood."
+
+I extended my hand.
+
+"Kaspar."
+
+He shook it once. His grip was dry and firm.
+
+"All right, Kaspar." Thom glanced back at the carriage, at the five silent passengers visible through the flap. "We've got a problem."
+
+"Lodging."
+
+"Lodging," he nodded. "The taverns are bursting. Every inn in the central quarter has a waiting list longer than my arm. I couldn't get a single room in this town right now if I held a sword to the innkeeper's throat."
+
+I thought of Vael's tavern. Five refugees in burlap sacks sitting among off-duty soldiers would turn the common room into a scene from a nightmare.
+
+"We need somewhere isolated," Thom continued, reading my silence correctly. "These five can't be paraded through a crowded inn. Half the soldiers would try to interrogate them. And these people," he glanced at the carriage again, "don't need more strangers. Not tonight."
+
+"Where, then?"
+
+"Iron Cross maintains a lodging house in the upper district. Military officers bunk there when they're on rotation. With most of the line deployed south, it'll be nearly empty. I'll take them there."
+
+He paused.
+
+"You've got a different errand."
+
+"What errand?"
+
+He reached into his coat and produced a folded slip of paper. An Iron Cross communication authorization, stamped with Wendt's personal seal.
+
+"Town hall," Thom said. "Find whoever's on duty at the crystal relay. Request a translator from the Academy. Use this to authorize."
+
+I took the paper.
+
+"They'll refuse," Thom added. "The Academy refuses everything. They consider themselves above requisition. But you push them. Use Wendt's name. Use the Iron Cross authority codes. If they still balk, tell them this request came directly from forward command on the southern front and any delay will be reported to the Ministry of War as obstruction of military intelligence."
+
+He tilted his head.
+
+"That usually works."
+
+I folded the authorization and slipped it into my inner pocket. My hand brushed the watch as I did. The gold casing pulsed gently against my sternum.
+
+"I'll find you when it's done."
+
+"Upper district. The house with the iron cross on the lintel. You can't miss it."
+
+I nodded.
+
+He turned to walk back to the carriage, then paused. Glanced over his shoulder.
+
+"Kaspar."
+
+"Yes."
+
+"Good work today. A lot of officers would have evacuated first and asked questions later. You saved five lives by opening your mouth."
+
+I didn't know what to say to that.
+
+I didn't salute. The Iron Cross didn't salute, or at least I hadn't seen them do it. They said good work and don't die and left it there.
+
+I nodded and turned toward the town hall.
+
+The building sat in the center of the central square.
+
+The doors were open despite the hour.
+
+Inside, figures moved between desks. Voices rose and fell.
+
+I pushed through the doors.
+
+Every flat surface held paperwork. Maps covered the walls. A long counter ran along the southern wall, and behind it, clerks hunched over ledgers.
+
+The reception desk sat near the entrance. A girl was behind it.
+
+She looked up as I approached. Older than me by a few years. Dark hair pulled back in a practical braid. Her face was tired but alert, and her eyes tracked me.
+
+"Iron Cross," she said. Not a question.
+
+"How did you know?"
+
+"The sword," she said, taking notes while listening to something through the communication crystal. "And the fact that I can smell trouble every time one of you walks into the room."
+
+Her voice was direct. No flourish, no bureaucratic hedging.
+
+"Kaspar," I said. "I'm attached to Commander Wendt's unit. Southern front."
+
+"Mira." She offered her hand across the desk. I shook it. "Commercial Secretariat. Or I was. Nobody cares about trade permits anymore. They moved me over to logistics three months back, and I haven't seen my own desk since."
+
+She introduced herself, even though Kaspar already knew her. Obviously, she wouldn't remember, it was in a past run. But this time, she actually spoke to him. No longer so busy that she couldn't lift her eyes. Or perhaps the simple fact that he was from the Iron Cross had moved him up in the hierarchy of problems.
+
+"I need a translator," I said.
+
+Her eyebrows rose.
+
+"A translator."
+
+"Language specialist. Someone who can decipher an unknown dialect. It came out of the front. I need a crystal request sent to the Academy."
+
+Mira set down her quill. She folded her hands together on the desk and regarded me.
+
+"Kaspar. I'm going to be honest. That is not going to happen."
+
+"Why not?"
+
+"Because every mage in the region is at the front. Every last one of them. The Academy emptied its reserve staff two weeks ago when the elven bombardments escalated. The closest thing to a linguistic specialist within three days' ride is probably a traveling merchant who speaks four dialects."
+
+I pulled Wendt's authorization from my pocket and set it on the desk.
+
+Mira picked it up. Her eyes moved across the stamps. Across the seal. Across the signature.
+
+She set it down more carefully than she'd picked it up.
+
+"Wendt," she said.
+
+"Yes."
+
+She exhaled through her nose.
+
+"Fine. I'll send the request. But, I'm going to tell you right now, the Academy is the worst institution in this kingdom to deal with. Worse than the Ministry of Trade. Worse than the ecclesiastical courts. The mages over there have noses so high in the air they've forgotten what the ground looks like, and they will refuse this request on principle."
+
+"Use the name," I said.
+
+"Oh, I'll use the name."
+
+She rose from her chair and crossed the room to a smaller counter in the corner, where another crystal communication device sat on a cushion of dark velvet.
+
+She pressed her palm to the activation rune. The crystal flared.
+
+"Academy relay," she said, her voice clipped and professional. "This is Grenzheim Logistics Station requesting immediate connection with the Department of Linguistics."
+
+A pause. The crystal pulsed.
+
+A male voice came through.
+
+"This is Academy Central Relay. The Department of Linguistics is not taking requests from provincial stations at this time. Please submit a written application through the standard channels. Response time is six to eight weeks."
+
+Mira's jaw tightened.
+
+"This isn't a provincial request. This is a forward command authorization from the southern front."
+
+"The southern front has its own mage detachment. Please direct your request through—"
+
+"Their detachment is combat-deployed. They're staring at elves. They can't translate a goddamn thing."
+
+A pause.
+
+"Ma'am, I understand your frustration, but the protocols—"
+
+"Commander Wendt," Mira said.
+
+The pause on the other end was longer.
+
+"Excuse me?"
+
+"The request originates with Commander Wendt. Iron Cross. Southern command. You are refusing an Iron Cross authorization."
+
+The voice on the other side tried to recover. "Ma'am, we do not, as a matter of institutional policy, distinguish between military authorizations based on..."
+
+"Let me be very clear." Mira leaned closer to the crystal. Her voice didn't rise, but something in its texture changed. "You are refusing a request from forward command during an active bombardment event. This refusal will be logged. It will be transmitted to the Ministry of War. It will appear in the monthly report as Academy obstruction of military intelligence gathering, and I will personally sign the letter. Do you understand what happens when the Ministry receives a second letter of that kind in the same quarter?"
+
+Silence.
+
+"Ma'am, if you'll hold one moment, I'll consult with my supervisor."
+
+"Take your time."
+
+The crystal pulsed. The connection held. A minute passed. Two.
+
+When the voice returned, it had changed keys.
+
+"Logistics Station, this is Academy Central. I've been able to locate a specialist who may be of assistance. Doctor Emmerich Vogel, senior lecturer in Ancient Languages. He's currently stationed at a research post approximately one day's travel from your location. We can dispatch him by morning. He should arrive at Grenzheim by tomorrow evening."
+
+"Thank you," Mira said. Her voice had not softened. "Please confirm the arrangement in writing and transmit the confirmation. Station out."
+
+She lifted her hand from the crystal. The blue light dimmed to white. The connection closed.
+
+She turned to me.
+
+"Tomorrow evening. Maybe."
+
+"Thank you," I said, and meant it.
+
+"Don't thank me. I enjoyed that." She sat back down at her desk and picked up her quill as if nothing had happened. "The Academy deserves it. They've been hoarding resources while the front burns. If they lose a linguist for a few days, they can stop pretending they're above the rest of us."
+
+I folded Wendt's authorization and put it back in my pocket.
+
+"One more thing," I said.
+
+She looked up.
+
+"The request. If it has to appear in any reports or correspondence, keep my name out of it. Just Wendt's."
+
+Her eyebrows went up.
+
+"You're in trouble?"
+
+"It's complicated."
+
+She studied my face for a moment, and I could see her doing the same rapid assessment she'd done when I first walked in.
+
+"Fine. Your name stays out of it. The request is logged under Wendt's authority alone."
+
+The upper district was quieter.
+
+The streets here were wider. The houses were larger. The walls were built of better stone, mortared with more care, and there were actual trees planted in small courtyards between the buildings.
+
+The Iron Cross lodging house was exactly where Thom had said it would be. A three-story building of dark stone, with an iron cross mounted above the front door. A single soldier stood at the entrance, not on guard duty in any serious sense, just present.
+
+He nodded to me when I approached. Didn't ask for papers. Didn't ask for anything. Just took a quick look at the sword on my hip.
+
+Inside, the building was warm. A small fire burned in the common room's hearth.
+
+Thom was in the common room. He'd shed his outer coat and was sitting in a wooden armchair with a cup of something in his hands. He looked up when I entered.
+
+"They're asleep," he said quietly.
+
+"All five?"
+
+"All five. The medic stopped by. Said the old man might not have much time, but for tonight, he'll survive." He took a sip from his cup. "They ate. Not much. The younger girl couldn't keep it down. The boy wouldn't touch anything until the pink-haired one ate first."
+
+"The pink-haired one?"
+
+"She's the leader of sorts. Or the one the others look to. You noticed it?"
+
+I nodded.
+
+"The Academy?"
+
+"A translator will arrive tomorrow evening."
+
+"Tomorrow." Thom nodded slowly. "That'll do."
+
+He gestured to a chair across from him. I sat. He produced a second cup from the side table and poured something dark into it from a small clay pitcher. I took it without asking what it was. The liquid was warm and sharp, herbal, with a bitter aftertaste that didn't quite get to the level of unpleasant.
+
+We sat.
+
+The fire crackled.
+
+"You should sleep," he said eventually. "There are rooms on the second floor. Take any of them. Half the house is empty."
+
+"I will."
+
+Neither of us moved.
+
+After a while, he rose. Wished me good rest. Climbed the stairs. I heard a door open and close somewhere above me.
+
+I stayed in the chair for another hour, watching the fire burn down to coals.
+
+The mage arrived late in the morning.
+
+The carriage that delivered him rolled up to the lodging house while the sun was still climbing. I was summoned from the yard where I'd been running through sword drills against a post.
+
+Doctor Emmerich Vogel looked like his name. Tall, thin, gray-haired. A robe of dark green wool. Spectacles perched on a nose that was, as Mira had predicted, pointed toward the ceiling at an angle that suggested permanent offense at his surroundings.
+
+His expression, when he climbed down from the carriage, was that of a man who had been dragged away from his important work to attend to the mundane concerns of people beneath him.
+
+"Iron Cross," Vogel said, "I am Doctor Vogel. I was told there was a linguistic emergency that required immediate attention. I trust this is not another case of a regional dialect that could have been handled by any passable translator."
+
+Thom had come out to meet him. He offered his hand. Vogel looked at it for a moment before taking it with the tips of his fingers.
+
+"Doctor Vogel, I appreciate your coming on short notice," Thom said. His tone was politer than I would have managed. "The situation is delicate. Yesterday, a group of refugees crossed the no-man's-land from the elven territories. They speak a language that none of our soldiers or officers could identify. We need to know who they are, where they came from, and what prompted their escape."
+
+Vogel's eyebrows rose by a fraction.
+
+"Crossed the no-man's-land." He adjusted his spectacles. "Alive."
+
+"Five of them. Alive."
+
+"And they speak a language you cannot identify."
+
+"That's correct."
+
+The doctor's posture shifted. Subtly, but visibly. The chin lowered by a degree. The nose descended to a less offensive altitude.
+
+"Doctor Vogel," Thom continued, pressing the advantage he'd just found, "I would note that this situation presents certain opportunities. A population of escapees from elven territory, speaking an unknown dialect, would constitute a unique anthropological and linguistic subject for research. Publication in the Academy's journals. Possibly a monograph. A man who properly documented such a case would have significant standing in his field."
+
+Vogel's spectacles flashed in the morning light.
+
+"I take your meaning, officer. Shall we proceed?"
+
+The pink-haired girl sat up in her bed when we entered.
+
+The others were either sleeping or pretending to. The rear of the lodging house had been converted into a recovery room. Five beds lined the walls, separated by curtains that had been drawn back to allow a medic to move between them.
+
+Vogel approached the pink-haired girl's bed with careful slowness. As if he was approaching an unfamiliar animal. He stopped three paces away, folded his hands, and spoke.
+
+The sounds that came out of his mouth were foreign to my ears.
+
+The girl's reaction was immediate. Her head tilted. Her brow furrowed. She responded, quickly, in the same language she'd been speaking yesterday.
+
+Vogel's eyebrows climbed.
+
+"Hmm," he said.
+
+He tried again. Different words, different cadence. The girl answered, still confused, her hands rising to gesture.
+
+"Fascinating," Vogel muttered. He turned to us. "The language is known to me. But not in this form. This is an archaic variant. The phonetics are almost prehistoric."
+
+"What language?" I asked.
+
+Vogel looked at me for the first time with a polite disdain.
+
+"Russian," he said.
+
+"Russian?"
+
+"A language of the ancient world. Spoken on the far side of the infinite sea. The eastern continent. Some scattered populations of humans survive there, under the dominion of the orcs. Trade with them is exceedingly rare. The language is considered effectively dead in Silberwald. I teach it as part of my comparative curriculum because it preserves grammatical structures that illuminate the evolution of several dialects."
+
+Russian.
+
+On the eastern continent. What had been Asia, or what remained of it. Across the Pacific.
+
+I looked at the pink-haired girl.
+
+How did they get here?
+
+Vogel was speaking to the girl again. She was answering.
+
+"She confirms they were slaves," Vogel said, translating in a flat academic murmur. "Captured on the eastern continent. Held under orc dominion. Sold in bulk to the elves."
+
+"Sold?" Thom asked. "The orcs sell to the elves?"
+
+"A recent development, apparently." Vogel listened to the girl's next stream of words. "She says the elves have been acquiring slaves at unusual rates over the past six months. Purchasing entire caravans. The orcs were happy to sell. She says, and this is her phrasing, they needed us for something."
+
+"For what?"
+
+Vogel relayed the question. The girl shook her head. Spoke briefly.
+
+"She doesn't know," Vogel said. "They weren't told. They were housed in camps deep inside elven territory. Made to work, but the work was irregular. The elves were waiting for something."
+
+Thom and I exchanged a glance.
+
+"How did they escape?"
+
+Vogel listened.
+
+"A disturbance. Three days ago. A large portion of the elven military detachment near their camp was called away. Some kind of engagement further south. The remaining guards were reduced. The slaves who had been planning an escape saw their window. They ran north. She says they knew they would die. Most of them did. But staying was also death, just slower."
+
+"How many started?"
+
+Vogel asked.
+
+"Forty-six."
+
+Five survivors.
+
+Vogel continued his careful questioning, extracting what information he could from the girl while I stood at the foot of her bed and tried to make sense of what I was hearing.
+
+The elves were waiting.
+
+My hand drifted to my chest, where the watch sat against my sternum, and I thought of the countdown.
+
+Whatever the elves were waiting for, we might be running on the same clock.
+
+I cleared my throat.
+
+"Doctor. One more question."
+
+Vogel turned.
+
+"Ask her why they've been staring at me."
+
+Vogel's expression flickered. He looked at the girl. Looked at me. Looked back at the girl. He relayed the question.
+
+The girl's eyes found mine again. The staring I'd noticed from the carriage was no less direct up close. She spoke quietly.
+
+Vogel translated.
+
+"Your hair."
+
+I waited.
+
+"She says it has some white parts. White hair, on the eastern continent, is a sign of elven blood."

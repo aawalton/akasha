@@ -1,0 +1,507 @@
+---
+id: dd1b31b7-e54b-5d99-a77e-bb2eeeafe406
+page-type-slug: story-chapter-royal-road
+title: "Chapter 23: Killing"
+slug: 0023-chapter-23-killing
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 23
+ownLength: 3386
+unit: words
+publishedAt: 2026-04-21
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3301728/chapter-23-killing"
+royalRoadId: "3301728"
+---
+
+Waiting for the sun to die was the worst part.
+
+I sat on a bench near the central square, legs stretched out in front of me, hands folded across my stomach. The sword pressed against my hip beneath my robe. My room at Vael's was already paid.
+
+The sky bled orange.
+
+I watched it the way a condemned man watches the clock.
+
+Every second was a second closer.
+
+I sat on a wooden bench in a town square and waited for it to happen.
+
+The fountain beside me trickled softly. Somewhere down the street, a child laughed. A cart rumbled past, its wheels grinding against cobblestone.
+
+Normal sounds of an ordinary life.
+
+I hated how peaceful it was.
+
+Boots shook the ground.
+
+I heard them before I saw them. A rhythmic thud that vibrated through the bench.
+
+The Knights came from the south road.
+
+Five of them, the same five I'd watched leave in the previous loop. They walked in loose formation through the square, their swords swinging at their hips and backs, their faces carrying a unbothered expression.
+
+They weren't leaving.
+
+Without the carriages, the road south was a long march. A march that couldn't be completed before nightfall. No officer in their right mind would walk through hostile frontier territory in the dark.
+
+The tallest Knight led the group. He was built like something that had been forged rather than born. Shoulders wide enough to block a doorway. Arms thick as tree trunks. Across his back, strapped with leather bindings that creaked with every step, hung a sword.
+
+That can't be a sword.
+
+It looked more like a slab of sharpened iron the length of a man. Its blade was as wide as my torso, its edge chipped and scarred from use, its guard nothing more than a crude crossbar welded to the tang. It looked less like a weapon and more like a piece of siege equipment that someone had decided to carry by hand.
+
+When the Knight unslung it near the tavern's entrance, the tip struck cobblestone.
+
+The impact sent a tremor through the ground that I felt in my teeth.
+
+I looked down at my own weapon. The short blade tucked beneath my robe.
+
+The comparison was so absurd it almost made me laugh.
+
+These were Knights. The kind Iris had called lunatics. The kind the crowd had whispered about with fear and respect.
+
+Meanwhile, I was an undead with a butter knife.
+
+The Knights filed into Vael's tavern. “The city is packed. Two expeditions, soldiers everywhere, and now your group on top of it. We don't have enough rooms for everyone.” I heard Vael say.
+
+Three went inside. Two crossed the street to the tavern next door.
+
+"Hot meal included. Stew's already on," Vael explained.
+
+A grunt of acknowledgment. The scrape of chairs being pulled across a stone floor.
+
+I didn't smile. But I felt a weight being lifted.
+
+In the worst case, when the fire came, there would be five Knights within arm's reach from the tavern.
+
+The minutes crawled.
+
+I sat on my bench and pretended to be bored.
+
+Inside, I was wired.
+
+My eyes tracked the square without moving my head. The fountain. The stalls. The lampposts with their mana-glow.
+
+Every few minutes, one of the Knights glanced out through the tavern's window.
+
+I think they'd noticed me.
+
+I could feel their gazes landing. A student sitting alone on a bench as night fell, doing nothing, going nowhere. To them, I was either a fool or something worth watching.
+
+One of them studied me through the glass for a full ten seconds before turning away. Another, a lean man, made eye contact through the open door and held it.
+
+I didn't flinch. Didn't look away.
+
+I pretended I hadn't noticed them at all. My attention was elsewhere. On the wall and the sky above it.
+
+The moon climbed.
+
+It rose pale over Grezheim's eastern wall.
+
+Soon.
+
+My jaw tightened.
+
+Any moment now.
+
+I heard it before I saw it.
+
+A thin whistle. The sound of something sharp cutting through air.
+
+My eyes locked onto the projectile.
+
+A single point of light arced over the battlements.
+
+One arrow. Its tip burned. It rose trailing a thread of flame like a comet's tail, and descended toward a rooftop three streets to the west.
+
+Fire caught. Bloomed with the same unnatural speed I'd seen before.
+
+I tensed, waiting for the flood.
+
+The second arrow. The third. The tenth. The hundreth.
+
+They didn't come.
+
+One arrow. Then silence.
+
+My breath caught.
+
+What...
+
+The bells answered.
+
+Every bell answered.
+
+The sound erupted from every direction at once. Tower bells, gate bells, wall bells, alarm bells. They rang with a deafening fury that shook the air and rattled window panes.
+
+The signal tower is active.
+
+The garrison had seen.
+
+This time, one arrow was all it took.
+
+Doors flew open along every street. Soldiers poured from barracks, staves in hand, crystals already blazing with mana.
+
+Officers appeared among them, voices cutting through the chaos with trained authority.
+
+"Civilians to the underground shelters! Move! All personnel to defensive positions! Wall units, reinforce the ramparts! Go, go, go!"
+
+Grezheim woke like a war machine shaken from sleep.
+
+People stumbled from their homes. Families clutching children, old men hobbling on canes, women carrying bundles of whatever they'd grabbed first. Soldiers directed them with outstretched arms, herding the flow toward the shelter entrances.
+
+I could see opening in the ground, heavy stone hatches lifting on iron hinges.
+
+The first soldiers reached the wall within sixty seconds of the bells.
+
+They scaled the stairs in pairs, staves raised, and took positions along the battlements.
+
+Mana crackled. Shields shimmered into existence along the parapet, translucent barriers of blue light that connected one soldier's position to the next.
+
+The second arrow volley was nothing like the first. Dozens of burning points arced over the wall, each one aimed at a different rooftop.
+
+Yet, the shields caught them.
+
+Not all. Some pierced through gaps in the barrier line. Some found angles the defenders hadn't covered. Fires bloomed on canvas awnings, on timber roofs, on a cart left unattended in the market lane.
+
+However, the wall held.
+
+The shadows came next.
+
+Dark figures vaulted over the battlements. They moved the same way I remembered.
+
+But this time, they landed on defended ground.
+
+The first elf to clear the walls met a bolt of compressed mana that struck him mid-drop. His body convulsed in the air, momentum carrying him sideways, and he crashed into the walkway at a broken angle that told me he wouldn't be getting up.
+
+A second elf landed cleanly, blades already drawn, and sprinted along the rampart toward the nearest defender. He covered half the distance before three staves pointed at him. The combined discharge tore through his cloak and dropped him where he stood.
+
+Others, however, made it through.
+
+Some were fast enough to dodge the first barrage and reach the inner edge of the wall. They leapt from the rampart into the streets below, rolling on impact, disappearing into alleys and side lanes.
+
+But not hundreds. Not a wave.
+
+The wall's defenders cut the invasion at its source. What had been an unchecked flood in every previous loop was now a trickle. For every elf that reached the streets, three were stopped on the rampart. Blasted from the wall. Pinned behind shield barriers. Driven back by concentrated fire.
+
+The elves who made it into the town arrived wounded and exhausted.
+
+Their magic was diminished. The flames they commanded flickered where they should have roared. They grasped at nearby fires and tried to spread them, tried to hurl flame at buildings and defenders, but the results were thin.
+
+There was no cascading infernos that turned the air into a furnace.
+
+Just scattered fights. Isolated skirmishes. Pockets of violence that were suppressed before they could spread.
+
+The battle was different.
+
+It was winnable.
+
+The Knights moved like they'd been born in combat.
+
+The moment the bells rang, all five of them had risen from their seats with a synchronized calm.
+
+They drew their swords and walked into the street.
+
+Walked.
+
+As if the burning arrows overhead and the hooded figures dropping from the walls were a mild inconvenience rather than a threat.
+
+The first elf to round the corner into the square met the tall Knight's massive blade.
+
+The impact wasn't just a cut. It was closer to a demolition.
+
+The slab of iron caught the elf at shoulder height and continued through without slowing, as if the body it passed through was made of wet paper. The elf came apart. Two pieces hit the cobblestones separately, trailing arcs of golden blood painted the stone in metallic streaks.
+
+The tall Knight didn't pause. He stepped over the remains and continued forward, scanning the next approach.
+
+I watched from the square's edge, my back pressed against a building's wall.
+
+A soldier ran past me, then stopped.
+
+"You!" He pointed at my Academy insignia. "Get to the shelters. This isn't a place for students!"
+
+"I'm enlisted," I said.
+
+"I don't care if you're the king's nephew. Get the fuck out of the combat zone!"
+
+Another soldier, passing behind the first, jerked his thumb toward the western lane. "Shelter entrance is two streets that way. Move, kid."
+
+I didn't move.
+
+My eyes were on the tavern.
+
+The front door was still open.
+
+Through it, I could see movement.
+
+Vael emerged first.
+
+He pushed through the doorframe with his bad leg dragging, one arm wrapped around a bundle of cloth, the other braced against the wall for balance. His mechanical eye swept the street.
+
+Lucy was behind him.
+
+Pressed against his side, fingers in the fabric of his apron, her golden hair wild and her face streaked with tears. She was shaking.
+
+They stood at the threshold, scanning the chaos for a gap.
+
+The square was a battlefield. Soldiers clashed with hooded figures on three sides. Mana bolts streaked through the smoke. The Knight with the massive sword was forty paces away, driving two elves toward the fountain with sweeping cuts.
+
+The path to the shelter was blocked.
+
+Vael turned Lucy toward the eastern lane, the narrower street that connected the square to the residential blocks. It looked clear. For the moment.
+
+They ran.
+
+Vael's gait was a lurching, uneven sprint. Lucy kept pace beside him, her breath coming in sharp, hitching sobs.
+
+They cleared the tavern's frontage. Passed the fountain. Entered the street.
+
+I tracked everything with my eyes.
+
+Even the gleam of a blade. Ten meters behind them, closing fast.
+
+An elf approached from one of the alleys. One curved blade in each hand.
+
+Vael and Lucy hadn't seen it.
+
+They were running toward the shelter.
+
+The elf was closing the gap.
+
+An easy kill. Two civilians. One crippled, one kid.
+
+I drew my sword.
+
+The blade came free with a rough whisper.
+
+I pushed off the wall and ran.
+
+Toward the space between the elf and its prey. Cutting the angle, closing the distance before the curved blades could reach the old man and the girl.
+
+The elf didn't see me.
+
+Its attention was locked forward, locked on the targets. The chaos of battle was its camouflage. In a street full of running figures, smoke and mana. One more moving body was invisible.
+
+Until it wasn't.
+
+I didn't block.
+
+Every instinct from the loops collapsed into a single thought.
+
+Don't defend. End it.
+
+The elf was taller than me. Its arms were longer. Its blades were sharper. If I engaged in a prolonged exchange, I would lose. Five minutes of stamina against an opponent with two weapons and elven speed was a death sentence.
+
+So I didn't engage.
+
+I attacked.
+
+I came from behind and to the right, emerging from the smoke at an angle the elf's peripheral vision couldn't catch. My sword was already extended, the point aimed forward, both hands on the hilt, every ounce of body weight committed to the thrust.
+
+I aimed for the heart.
+
+The blade punched into the elf's back.
+
+But not where I intended. The elf was taller. My angle was lower. The point entered beneath the shoulder blade, driving through the ribs.
+
+The resistance was different from what I expected. Not the armored crunch of wyvern scale or the yielding softness of the acid sacs. This was flesh and bone. Real human-shaped anatomy. My sword grated against a rib, slid between two others, and sank deep.
+
+Into the lung.
+
+The elf's entire body seized.
+
+A sound escaped the hood. A hollow gasp, as if every molecule of air had been punched out of the creature's chest in a single violent expulsion. The curved blades twitched in both hands.
+
+The hood shifted. Eyes found me from beneath it.
+
+They burned with an expression I recognized.
+
+Shock.
+
+Not at the wound, but at me.
+
+A white-haired human appearing from nowhere with a short, ugly sword buried between his ribs.
+
+The elf's mouth opened. Whatever it tried to say dissolved into a bubbling, airless wheeze. Blood climbed the throat and spilled over the lips.
+
+I wrenched the sword free.
+
+The elf didn't fall immediately. It staggered forward, curved blades rising by instinct. One blade slashed toward me in a wide, desperate arc.
+
+I was already gone. Two steps back, sword up, point forward.
+
+The slash cut air.
+
+The elf tried again. A thrust, both hands on one blade, aimed at my stomach with the vicious determination of something that knew it was dying.
+
+I parried.
+
+The impact was weak. The strength behind it was draining fast. The curved blade scraped along my sword and slid off.
+
+I didn't counter. I didn't need to.
+
+The elf's legs trembled. Its shoulders hunched. The eyes dimmed.
+
+It collapsed.
+
+One knee first, then the other. Next the blades, slipping from his fingers.
+
+The elf fell forward onto its face.
+
+The golden blood pooled beneath it.
+
+I stood over the body.
+
+My hands were steady.
+
+My breathing was even.
+
+I had just killed someone.
+
+The weight of that should have put me down. The moral gravity, the nausea, the shaking hands and racing heart that marked a man's first kill.
+
+It just wasn't there.
+
+I'd seen death so many times. Felt it so many times. The wyvern's maw. The acid dissolving my arms. The blade across my throat. The draconic fire.
+
+Dying had become routine.
+
+Killing was simply the other side of the same coin.
+
+The golden blood was a problem.
+
+It stained my sword. It stained my hands. It stained the front of my robe.
+
+It was so bright that was impossible to ignore.
+
+The elves soon noticed.
+
+I felt the shift in the battle's attention the way you feel the moment a room goes quiet. One by one, hoods turned toward me. Their eyes found the golden streaks on my clothes and locked on with an intensity that had nothing to do with tactical assessment.
+
+It was personal.
+
+A voice hissed from somewhere to my left. Elven syllables I couldn't parse, carrying a tone of outrage.
+
+Another voice answered from my right, closer.
+
+"He has the scent."
+
+The words were accented but clear. Spoken in my language, spoken for me to hear.
+
+"What scent?" I called back, sword raised, eyes scanning the smoke.
+
+Nothing.
+
+No answer. Just the flicker of dark cloaks repositioning around me.
+
+Two of them came from the eastern lane.
+
+They moved shoulder to shoulder, four curved blades between them.
+
+The first elf slashed high. The second slashed low.
+
+I caught the high cut on my blade and twisted sideways to avoid the low one. The edge passed so close to my knee that I felt the air.
+
+Before I could recover, the first elf reversed and drove a thrust at my chest. I batted it aside and stumbled backward, creating distance.
+
+They closed once more.
+
+The pressure was suffocating.
+
+Against a single elf, I had learned to read patterns. To find the rhythm. To anticipate the next attack from the shift of weight, the rotation of the wrist, the direction of the leading foot.
+
+Against two, the patterns overlapped into noise.
+
+Every time I focused on one attacker, the other struck from another angle. Every time I parried left, the right-hand blade was already moving. Four weapons against one. Eight possible attack vectors at any given moment, and my brain could track three at best.
+
+My sword caught a diagonal slash.
+
+The impact jolted through my wrist and sent a shiver up my arm that made my fingers tingle. The blade vibrated in my grip. Beneath the leather wrapping, I felt something give.
+
+The sword was bending.
+
+The unfinished metal was reaching its limits. Each impact stressed the blade a fraction further.
+
+I fought anyway.
+
+I fought because there was nothing else to do.
+
+Time bled away. Seconds became minutes. The five-minute threshold came and went, and my body began its familiar betrayal.
+
+Lungs burning. Forearms screaming. Shoulders filling with molten lead.
+
+My parries grew slower. My footwork degraded. Retreats that should have been two steps became three. Then four. Then a stumble.
+
+The first cut landed on my left forearm. A shallow slash that opened the skin and sent blood running down to my wrist.
+
+The second came for my thigh.
+
+I twisted, but too slow. The curved blade caught me above the knee and carved a groove through the muscle that made my leg buckle. I caught myself on the wall behind me, shoulder slamming into stone, and shoved myself upright.
+
+Blood ran down my leg.
+
+The third cut came for my ribs. I blocked it, barely, and the impact drove my own blade against my side hard enough to bruise.
+
+The two elves pressed forward.
+
+They could feel the end. I saw it in their eyes.
+
+I retreated until there was nowhere left to retreat.
+
+My back hit the wall.
+
+My sword came up. The blade was warped, a slight curve in the steel that hadn't been there. The edge was a jagged ruin of chips and notches.
+
+Still I held it.
+
+A blade punched through my guard.
+
+The curved steel slid past my defenses. My parry was a heartbeat late.
+
+It entered below my ribs on the left side.
+
+I looked down.
+
+The curved blade jutted from my stomach, its hilt pressed against my abdomen, the elf's fist still wrapped around the grip. Golden eyes stared at me from beneath the hood.
+
+I smiled.
+
+The expression pulled at muscles I didn't know I had left. It wasn't a happy smile. It was a triumphant one.
+
+I killed one.
+
+One elf. By my hand.
+
+Even if I had to do it all again. Even if the loop pulled me back and erased everything except the knowledge in my skull and the levels in my soul.
+
+I'm better. I'm closer.
+
+My legs surrendered.
+
+The wall scraped against my back as I slid downward, the sword clattering from my grip.
+
+My vision softened. The two elves loomed over me. Blades raised. Ready to finish it.
+
+The sound came before the sight.
+
+A displacement of air so violent it created its own wind. A rushing, whistling howl, like a battering ram swung by a giant.
+
+The massive sword, the iron slab I'd watched shake the ground outside Vael's tavern, swept through the space above me in a horizontal arc.
+
+It caught the first elf across the midsection.
+
+It erased everything in its path.
+
+The elf's body separated at the waist. Upper and lower halves flew in different directions. The expression on the elf's face, what remained of it above the cut line, was frozen in a surprise so complete it looked comical.
+
+The sword's momentum carried it onward without slowing.
+
+It struck the second elf before the first had finished falling.
+
+The impact was different this time. Not a clean bisection but a crushing, obliterating force that caught the elf at the shoulder and drove downward through the torso at a diagonal angle. The sound it made was something between a thunderclap and the wet crunch of a tree trunk splitting.
+
+What hit the ground afterward wasn't a body.
+
+It was pieces.
+
+I tried to see who held the sword. But I couldn't make out the face.
+
+The darkness closed in from every side.

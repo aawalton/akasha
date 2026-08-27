@@ -1,0 +1,169 @@
+---
+id: a4f68463-70b9-5744-bc37-8b972e6627cb
+page-type-slug: story-chapter-royal-road
+title: "Chapter 26: Flatbread"
+slug: 0026-chapter-26-flatbread
+partOf: underworld-bread-mage-yuri-progfan-slice-of-life
+position: 26
+ownLength: 1869
+unit: words
+publishedAt: 2026-08-15
+link: "https://www.royalroad.com/fiction/179650/underworld-bread-mage-yuri-lit-rpg-slice-of-life/chapter/3817441/chapter-26-flatbread"
+royalRoadId: "3817441"
+---
+
+“This is all the salt that I could get out of that block.” Setting down the bowl, Mellie wiped the sweat off her forehead. “Why do we need this much salt again?”
+
+“To season the meat of course.” Marina cleaned a stone slab as she replied. “Hecate!” She called out from the lab, “You can bring it in now.”
+
+The door pushed open, and in walked Hecate. In her hand was a slab of meat, cut from the boar’s leg, too large to fit through the narrow doorway of Mellie’s hut.
+
+She placed the meat on the stone slab. “Why does this feel as if it were a punishment, my dear?” Hecate complained, washing off the marinade that stuck to her fingers.
+
+“Mellie’s ice box was full, so that was the only thing I could think of, sorry…” Marina apologized. “This will be good, I promise!”
+
+“You do realize it is no small feat trying to control Abyssal Energy to manipulate the temperature of an object. Even for an experienced bearer like myself, it is still a draining task.” Hecate said. “I demand something more than just good-tasting food.”
+
+“Ok fine, I owe you a favor.” Marina gave in to the advance. “How is that?”
+
+“Deal.” An ominous smirk cracked across Hecate’s pale face.
+
+With the sharpest knife Marina could find, she divided the slab of meat into three smaller steaks, removing any excessive fat in the process. She then soaked them in a bucket of water, rubbing off the marinade made from smashed apples and various herbs she scavenged from the lab. The muscle fibres had grown much softer from the tenderizing process, almost collapsing under the weight of Marina’s hands.
+
+“Uh, Hecate, do you have any way to dry something that is wet?”
+
+“Couldn’t you just use a cloth towel, my dear?” She suggested.
+
+“I could, but that is very unsanitary, cuz the bacteria could grow on the cloth and then people can get sick–” Marina paused. “Actually, can people even get sick in the Underworld?”
+
+“Diseases do exist, but they are almost always artificially crafted for the purpose of warfare,” Hecate explained. “Personally, I have never gotten any type of sickness in my life, you Mellie?”
+
+“Mmm… I was often poisoned by herbs when I first started studying them, which were very unpleasant experiences,” Mellie said. “I don’t know if that counts as getting sick, though.”
+
+“I guess we should be fine then.” Grabbing the rag beside her, Marina patted the chunks of meat dry. Should probably still clean the towel afterwards, just in case I can still get sick. “Alright, these are ready to be cooked. Mellie, do you have any pots or pans that I can use?”
+
+“I never bothered getting one,” Mellie said, shaking her head. “I do have a metal plate that I use to toast herbs on, if that works?”
+
+“Close enough,” Marina shrugged. “On that note, how do you typically heat things? I don’t see a stovetop anywhere.”
+
+“Oh, here, Miss Marina.” Mellie gestured. “I built this coil-looking thing and attached Everflame crystals to the outer rim, then walled it with some rocks. And when I light these…” Picking up the box of matches on a nearby bench, Mellie ignited the first crystal, and soon, the rest followed. “The fire that lingers on these crystals never extinguishes, so it’s quite nice, and somewhat dangerous.”
+
+No words can describe how jealous I am of this tech right now. Why wasn’t I born here? Why did I have to pay hundreds of dollars worth of gas fees every month? Marina wanted to curse. “Is the fire hot enough?”
+
+“It is enough to boil water, which is typically all I need,” Mellie said, reaching for the metal plate. “What are you trying to do, Miss Marina?”
+
+“Just need the surface to heat up so I can sear the meat.” She replied as she dusted a generous amount of salt on the three chunks of meat. “Oh, Mellie, would you like to give it a try yourself?”
+
+“B-but Miss Marina, I have no clue how to.” Mellie rejected. “And I don’t want to mess up our dinner–”
+
+“You’re not going to mess it up. I will be right here.” Marina insisted. “Ok, so we need to render the skin first, which will improve the texture and also give us some fat to work with.”
+
+“O-okay, so what do I need to do?” Mellie held onto her own shaking hands.
+
+“Just need to place the meat skin side down on a cold surface, like this.” Marina demonstrated. “And then we put it on the heat, so it starts the process slowly.”
+
+“Okay, done.”
+
+“Now we wait until the fat liquefies, and by that point, the house should smell like the meal we had the other night.” Turning around, Marina glanced at Hecate, who was fixing her nails. “Hecate, can you get started on the salad?”
+
+“I don’t think I know how to create what you envision of this…salad, my dear,” Hecate said.
+
+Seriously, how are these people even alive? Well, I guess they aren’t exactly considered people, but still, she doesn’t know how to cook a salad? I feel bad for whoever is marrying her in the future… Marina took a deep breath. “All you need to do, Hecate, is cut the vegetables into a small size, and then toss them together with some herb oil, and that’s it.”
+
+“How small?”
+
+“Like three-quarters the length of your pointer finger, just eyeball it. It’s not that deep,” Marina said; she was growing noticeably more flustered with every word.
+
+“As you wish, my dear.” Taking a small knife from her satchel, Hecate quickly got to work.
+
+Glancing back at the makeshift stove, Marina caught the trembling expression painted on Mellie’s face. “It’s okay.” She patted Mellie on the back. “Everything is going great so far. Cooking is supposed to be fun.”
+
+“S-sorry, I just don’t want to mess it up…”
+
+“You’ll be fine. Have some trust in yourself.” Marina encouraged. A rich fragrance began to bloom as the plate’s heat picked up. “Now you see how the fat is rendering? This is exactly what we want.”
+
+Mellie nodded quietly.
+
+“Let's flip to the other side,” Marina said.
+
+Just when Mellie turned the first pork chop with her utensils, a splatter of burning liquid jumped onto her hand. The searing pain caused her to jump backwards.
+
+“Mellie, are you alright?”
+
+“I-I will be fine.” Regaining her courage, Mellie moved on to the next two steaks. “What’s next, Miss Marina?”
+
+“We just need to cook each side for four minutes, and the dish is pretty much done.”
+
+“Got it,” Mellie replied firmly.
+
+“My dear,” Hecate called out from behind. “Would you like me to divide the salad into three bowls?”
+
+“That is fine, just make sure you don’t go overboard with the herb oil.” Marina pointed out.
+
+After several minutes, a golden crust formed around each face of the cut of pork as if gilded into a sigil of luxury. Deactivating the crystals, the red flames sputtered. Mellie moved each steak onto a clean stone slab to rest as Marina instructed.
+
+“You did great, much better than when I first tried to sear something.” Marina complimented.
+
+“T-thanks for having the patience to teach me.”
+
+“No, no. Cooking is an amazing skill to have, one of those things that you need to learn to take care of yourself. I’m happy to teach you.” Marina said, “If one day… Hecate and I decided to go somewhere far away from here, and you can’t come with us. At least you will have more options for food than bee bread.”
+
+“Miss… Marina…” She wrapped her in a tight hug. “I will really miss the two of you!”
+
+“It was just a hypothetical, Mellie. Don’t need to take it seriously.” Marina redirected, “I still need to make those breads I promised earlier. Why don’t you go wait at the table with Hecate?”
+
+“Mm.” Mellie nodded before leaving.
+
+The flatbread dough was placed on the cooler end of the room for better preservation. Though Marina doubted that there was even enough sunlight to change the dough’s properties in the first place. Maybe the heat could, but the forest wasn’t exactly that hot compared to the outside world. This was all a baking enthusiast’s instinct after all.
+
+After setting the bowl next to the stove, she reached for the matchbox, igniting the Everflame Crystals once again; a faint shimmer of heat soon hazed over the metal plate. She gently laid down the flatbread on the heat with one hand. The grease left behind by the pork chops sizzled gracefully at the touch of the hearty dough, and soon an eruption of nutty sweetness rose alongside a small bit of steam.
+
+Marina watched the process with a patient yet careful gaze. Some char on the surface was definitely welcome, but burning the entire thing would be disastrous. Not wanting to risk anything, she placed her hand on the top of the bread while sliding a fork beneath, flipping the flatbread onto its other side. Small black bits had formed around the cooked side of the bread; it was the nice amount of char she was looking for.
+
+Not long after, she moved the flatbread from the heat to the stone slab where the pork chop sat. Most flatbreads she had made before did not require much cooking time due to their large surface area, and this one was no different. Picking up the small knife, she prepared to carve the meat, but a set of black screens appeared in front of her.
+
+──────────────
+
+A Bread Has Been Completed!
+
+Bread Completion [EXP++]
+
+Innovation Bonus [EXP+]
+
+<Accept>
+
+──────────────
+
+──────────────
+
+You Have Gained a Level!
+
+Rank 1 [Peasant] → Rank 3 [Peasant]
+
+New Techniques Unlocked!
+
+Class Bonuses Unlocked!
+
+<Close>
+
+──────────────
+
+──────────────
+
+Class Bonuses Increased!
+
+Bread Mutation Chance: +0.5%
+
+Dough Kneading Precision: +10%
+
+Dough Kneading Speed: +10%
+
+<Accept>
+
+──────────────
+
+Marina stared at the black screens in shock. Her first level was from a quest, so she naturally assumed quests were the only way to level up. But in reality, performing the tasks that the classes were meant to do was much more effective at gaining EXP.
+
+She set down the knife as she analyzed what she had received this time. New [Techniques] were unlocked, but there was no pop-up for it, which was weird. Though what caught her eye the most were the class bonuses. Both of the dough kneading bonuses were self-explanatory; however, mutation, on the other hand, had her raising an eyebrow. What will a mutated bread look like? Would it grow legs and run away? That would be an absolute headache if it were true.
+
+The growling of her own stomach reminded her that there were still two starving ladies waiting on her at the dinner table. Quickly, she closed the screens and got to work. Slicing through the pork chops, Marina wanted to throw the painfully dull knife out the window for making the process that much slower. Regardless, she got it done. The pork was cut and portioned, and the flatbread was divided between the plates. It was time for her favorite hour of the day.

@@ -1,0 +1,243 @@
+---
+id: 5d349ae5-1577-57b8-9c22-e5a84e56b46f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 108: Subject One"
+slug: 0108-chapter-108-subject-one
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 108
+ownLength: 2558
+unit: words
+publishedAt: 2026-08-13
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3809753/chapter-108-subject-one"
+royalRoadId: "3809753"
+---
+
+The man's voice carried through the industrial space.
+
+I needed to hear more.
+
+The walkway where I crouched was thirty meters from the office space. Close enough to catch fragments, too far for the details that mattered.
+
+I signaled the others to hold position and moved alone.
+
+The walkway ran along the northern wall in a series of bolted steel sections, each one anchored to the concrete by rusted brackets. The first section held my weight without complaint. The second groaned. I shifted my feet to the outer edge, where the brackets took the load directly, and distributed my weight across both hands on the railing.
+
+Below me, the production floor's nearest tables passed underneath. Workers bent over their vessels and burners, measuring, pouring. None of them looked up.
+
+The office space resolved beneath me as I reached the walkway's far end.
+
+I could see the full layout now. The two desks. The map. The communication crystals. And beyond the office, through a doorway in the partial wall that I hadn't been able to see from my original position, something else.
+
+A lower area.
+
+The building's ground floor dropped by three meters on the far side of that doorway, descending into what must have been the original structure's basement level. The concrete walls of the lower area were older than the rest.
+
+On the far wall of that lower area, half-obscured by conduit runs and the pale roots of whatever vegetation had penetrated from above, a sign.
+
+Faded. The letters ghosting into the concrete beneath them. Most of the text was gone entirely, consumed by time and decay.
+
+But fragments survived.
+
+— SEARCH CENT —
+
+And beneath that, smaller, the letters crumbling at their edges but still readable to someone who knew the language.
+
+U.S. ARM —
+
+Another one. The bones of the old world, buried under seven centuries of magic and ruin.
+
+The American military had built a research facility here. In the middle of what was now the eastern desert of the Kumsur Sultanate.
+
+Someone had found it. Repurposed it.
+
+The argument below pulled my attention back.
+
+"— the drainage channels feed directly into the aquifer!" The man's voice was closer now, and I could hear every word. His Imperial was fluent but accented. "Every failed batch, every overcooked compound, every vessel that cracks under thermal stress, the waste goes into the channels and the channels go into the river. The river goes north."
+
+The woman's voice cut through. Flat. Final.
+
+"It doesn't matter, Hayyan."
+
+Hayyan
+
+I knew the alchemist.
+
+Not from meeting him. I had never stood in the same room as this man. But I had heard the name.
+
+The source of Snow Dream.
+
+I pressed myself flat against the walkway's grating and looked down.
+
+He was smaller than I'd imagined. His hands moved constantly as he spoke — gesturing, pointing, sweeping toward the production floor behind him.
+
+The woman was different.
+
+She stood on the far side of the desk with her arms folded and her weight settled into her heels, and her posture said everything her face did not. Patience worn to its thinnest edge. Authority held in check by the necessity of this conversation continuing for a few more minutes before she ended it on her own terms.
+
+Her uniform was Imperial. Officer's cut. But the insignia on the shoulders was wrong. Not Regular Army, not Magical Army, not Iron Cross. Something else. A sigil I didn't recognize.
+
+"Sigrid, I have tried." Hayyan's hands dropped to the desk and his voice dropped with them, the fury collapsing into something rawer. Exhaustion. "I have tried seventeen variant compounds in the past months. Reduced concentration. Altered binding agents. Modified the thermal curve during crystallization. Every variation I produce that reduces the addictive profile also reduces the efficacy below the operational threshold you've set." His fingers curled against the wood. "The compound works because it is what it is. You cannot make it gentler without making it useless."
+
+"Then make it work differently," Sigrid said. Her voice was controlled, level, the voice of a woman who had heard this argument before and had decided, somewhere in its first iteration, that it was irrelevant. "That is what you are here to do."
+
+"What I am here to do —" Hayyan's jaw clenched. "I was brought here to synthesize. That is what I do. That is what I have always done." He swept his arm toward the production floor. "What you are asking for now is not synthesis—"
+
+"That is precisely why you are still breathing," Sigrid said.
+
+Hayyan stopped.
+
+"You are alive because you are the only mind in the eastern hemisphere capable of solving this problem." Sigrid's voice didn't rise. "Every other alchemist we consulted produced inferior product. Every other supplier we tested fell short. You are the head that thinks. And you are the reason we did not simply take what we needed from your workshop and leave you in the drainage canal behind it." She held his gaze. "So think. Find the solution."
+
+Hayyan's breath came through his teeth.
+
+"I can only produce the original compound," he said. The fury had burned out. What remained was the flat, exhausted honesty. "The version that works. The version the Sultanate developed over decades of controlled research. The version that does not poison the groundwater."
+
+Sigrid cut in. "The water is a byproduct."
+
+"A byproduct that is rewriting the ecology of the eastern desert!" Hayyan's composure shattered. His fist came down on the desk. "Look outside! Look at what is growing! Six months ago this was sand and rock and nothing. Now there is grass. Trees!" His voice cracked. "The ambient mana in the soil within a kilometer of this building has tripled since I began production. Tripled! The ecosystem is responding. Things are growing that should not be growing. And if they are growing, Sigrid, then they are feeding. And if they are feeding, then other things will come to feed on them. Creatures. Mana-sensitive creatures. Monsters. Sins. They will smell this. They will come."
+
+Sigrid regarded him.
+
+"Who cares what feeds in the east?" she said. "Who cares what wanders north? Nothing that drinks from a contaminated aquifer in uncharted territory is our concern."
+
+I pressed my forehead against the steel grating.
+
+The waste from this facility was saturating the ground, feeding the aquifer, creating a river of liquid mana.
+
+The Titans weren't migrating toward Qalathar because of some unknowable instinct or dimensional anomaly. They were being drawn. Pulled south along the mana gradient like predators following the scent of blood.
+
+Hayyan's voice pulled me back.
+
+"And the animals," he said. His tone had shifted from fury to something closer to pleading. "You saw the reports from the perimeter teams. The desert fauna within the contaminated zone. The things that have been drinking from the runoff channels." He was pacing now, his stained hands pulling at his collar. "For monsters, it is worse than for humans. Far worse. Once a creature has ingested the residue, even trace amounts, the dependency becomes permanent." He stopped pacing. "We are creating addicted predators."
+
+Sigrid was unmoved.
+
+"Noted," she said.
+
+"Noted." Hayyan stared at her. "You are noting the creation of a mana-addicted bestial population in uncontrolled territory adjacent to the largest human settlement in the eastern hemisphere, and your response is 'noted.'"
+
+"My response," Sigrid said, "is that the operational parameters have not changed. Production continues. The Sultan's procurement orders are filled on schedule." She straightened. "We continue supplying the Sultan. His people receive their shipments. His Ashkeri receive their doses. No interruption. Nothing that gives anyone in Qalathar a reason to come looking for you." Her jaw set. "I will not have anyone interfering with this work." She paused. "But understand this clearly, Hayyan. The supply was never the purpose. Our focus has always been the research. It has always been the research."
+
+Hayyan's laugh was bitter.
+
+"You do not understand what Snow Dream is." His voice went quiet. "It is not a tool. It's a biological process that the Sultan's people spent decades learning to control. The Ashkeri dosing protocols. That is not pure alchemy. That is biological engineering. They have tailored the compound to work with specific mana pathways in surgically modified soldiers. Without that engineering, without the understanding of how the compound interfaces with the body's core structure, all you have is poison that makes people feel like gods." He looked at her. "You cannot replicate what the Sultanate does by altering the chemistry. You need to alter the biology. And you are not doing that. You are just making more poison."
+
+I listened.
+
+He's right, I thought.
+
+Then, cutting through the thought like a knife through gauze: But not entirely.
+
+The original Kaspar's mind stirred.
+
+I can think of ways to use it, I admitted to myself.
+
+The thought died as the building shook.
+
+The tremor started deep. It traveled upward through the concrete and the steel and the walkway grating, and it hit my palms and my knees and my jaw at the same instant.
+
+Hayyan and Sigrid stopped.
+
+Their argument evaporated. Hayyan's face went gray. Sigrid's composure didn't crack, but her hand moved to the comm crystal on the nearest desk and her fingers pressed the activation point.
+
+"Status," she said into the crystal.
+
+A voice came back, distorted by distance and stone. "Agitation cycle. Increasing. The compound levels are dropping faster than projected."
+
+"Increase the dosage."
+
+"We're already at the maximum safe—"
+
+"Increase it."
+
+The crystal went silent.
+
+Sigrid turned to Hayyan. "With me."
+
+Hayyan looked at the doorway that led to the lower level. His face had gone from gray to white.
+
+They moved through the doorway and down.
+
+I followed from above.
+
+My hands locked on the railing. My lungs forgot how to work.
+
+The chamber was circular. Thirty meters across, perhaps more. The walls were smooth concrete to a height of three meters, then raw stone above that, the excavation following the natural contours of the bedrock. Mana-glow strips lined the perimeter at floor level, their blue light casting long shadows across the space.
+
+Chains.
+
+The first thing my eyes found were the chains.
+
+They ran from anchor points embedded in the floor. Massive steel bolts driven into concrete pads, each pad reinforced with runic inscriptions that I could feel from five meters up, wards so dense and so layered that the mana signatures overlapped into a continuous hum. The chains themselves were links of forged iron, each link the size of my torso, their surfaces etched with containment glyphs.
+
+The chains converged.
+
+They ran from eight anchor points around the chamber's perimeter, rising from the floor in slack curves, tightening as they approached the center, and connecting to a framework of reinforced shackles that encased something I could not, for several seconds, make my mind accept.
+
+It lay on its side.
+
+The body filled a third of the chamber. A canid form.
+
+The skull alone was the size of a carriage. The jaws, slightly parted, revealed teeth that were not teeth but curved pillars of dense bone, each one longer than my sword. The eyes were closed. The lids were thick and veined.
+
+Three tails.
+
+They lay curled behind the body in a tangled mass, each one thicker than a man's body at the base. The fur was dark, nearly black.
+
+Cables. Thick as my arm. Wrapped around the creature's forelimbs and hindlimbs, secured with clamps that bit into the flesh through the fur, each cable running to a device I recognized despite never having seen one at this scale.
+
+Alchemical infusion rigs.
+
+Reservoir, pump, delivery line. Except these reservoirs were vats. Four of them, each one the height of a man, made of riveted copper, sealed and fitted with pressure gauges. The liquid inside was visible through glass inspection ports set into the copper walls.
+
+Blue.
+
+The color of Snow Dream dissolved in solution.
+
+The pumps worked continuously. I could hear them.
+
+The creature stirred.
+
+The movement was slow, drugged, the terrible sluggishness of something whose nervous system was drowning in a compound designed to rewrite its relationship with mana. One forelimb shifted. The chains pulled taut.
+
+The building shook again. The tremor I'd felt earlier. The Titan moving. Testing its restraints with blind persistence, its body trying to do what its mind had been forced to forget.
+
+Soldiers ringed the chamber at ground level. Twelve of them, armed, their mana signatures running hot with active channeling. They held suppression staves — long rods topped with crystal arrays designed to project dampening fields — and every staff was aimed at the creature's skull.
+
+The staves hummed.
+
+The combined output was a wall of suppressive force that pressed against the Titan. Containing it. Smothering it.
+
+Sigrid descended the final flight of stairs to the chamber floor. Hayyan followed three steps behind, his face the color of ash.
+
+Two soldiers met them at the base of the stairs. They seized Hayyan by the arms.
+
+Hayyan jerked. "What are you—"
+
+Sigrid turned.
+
+She reached out and took Hayyan's chin in her hand. Not gently. Her fingers dug into the soft tissue beneath his jaw, and she rotated his head until he was looking at the Titan.
+
+"Look at it," she said.
+
+Hayyan's eyes were wide. The whites showed all the way around the iris.
+
+"You are a skeptic," Sigrid said. Her voice had lost its professional register. What replaced it was something colder and more honest. "There have been many like you. At the Academy. In the Ministry. In every institution where comfortable men sit behind comfortable desks and tell themselves that the world is simple enough to be managed with caution and incremental progress." She released his chin but the soldiers held him in place. "I sat in a lecture hall in Silberwald and wrote papers about theoretical applications and published in journals that six people read, and I told myself that this was a contribution. That this was service."
+
+She stepped back and looked at the Titan.
+
+"Then someone gave me a chance."
+
+The words came out quiet. Almost reverent.
+
+"A single person looked at my work, my real work, the research I kept in a locked drawer because no faculty committee would approve it and no ethics board would sanction it, and she said: build it." Sigrid's eyes hadn't left the creature. "The Princess understood what no one else would. That the war doesn't end with walls. It doesn't end with swords or Circles or banishment matrices or any of the comfortable fantasies that the Academy sells to its students. The war ends when we learn to control what came through the portals. Control it."
+
+She turned to Hayyan. Her face was lit from below by the blue glow of the infusion vats, and the shadows it cast turned her features into something sharp and angular and utterly certain.
+
+"This," she said, gesturing at the chained Titan, "is the last step. Everything we have done. All of it has been foundation."
+
+The Titan's forelimb shifted again. A chunk of concrete the size of my fist broke free from an anchor pad and skittered across the floor.
+
+Sigrid didn't flinch.
+
+"When I can control a Titan," she said, "when I can direct it, aim it, unleash it and recall it. The war is over."

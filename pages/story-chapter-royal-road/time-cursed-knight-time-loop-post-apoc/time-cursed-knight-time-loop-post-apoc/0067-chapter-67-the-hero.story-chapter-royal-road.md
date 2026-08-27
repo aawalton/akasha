@@ -1,0 +1,323 @@
+---
+id: f24f4a77-6f7c-5c6e-a53c-fdfb0aed69fe
+page-type-slug: story-chapter-royal-road
+title: "Chapter 67: The Hero"
+slug: 0067-chapter-67-the-hero
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 67
+ownLength: 2916
+unit: words
+publishedAt: 2026-06-17
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3553440/chapter-67-the-hero"
+royalRoadId: "3553440"
+---
+
+In the Capital. The morning after the symposium.
+
+The research secretariat occupied a windowless room on the Academy's fourth floor. The desk that dominated the space was buried beneath the administrative detritus of a department that processed too much paperwork. Grant applications, progress reports, equipment requisitions, and the small mountain of rejection letters that accumulated when a field of study failed to attract patronage.
+
+Rolf Mercer sat across from the secretary and tried to make sense of what she had just said.
+
+"I'm sorry." He leaned forward in the wooden chair, which creaked beneath him. "Could you repeat that?"
+
+The secretary, a woman whose patience had been forged in the crucible of ten thousand similar conversations, did not sigh. She consulted the document in front of her and read from it.
+
+"Three sponsorship offers have been submitted on behalf of your research project." She turned the paper so that Rolf could read the heading, though the text was upside down from his position. "Thermal Management Through Recursive Glyph Architecture. Filed through the symposium secretariat yesterday evening. The patrons are the Ministry of War, Kaspar von Hexenzeit, and Prince-Imperial Varen."
+
+Rolf choked before he managed to form words. "The Mi-Ministry? The prince?!"
+
+"Yes. It seems that after Herr Hexenzeit made the first investment, he drew the attention of some much bigger fish," the secretary admitted with a shrug.
+
+"Hexenzeit," Rolf repeated.
+
+"That is what I said."
+
+"The… the one from the papers? The Hero of —"
+
+"I don't read the papers, Herr Mercer. I process sponsorship agreements. The individual's notoriety is not within my administrative purview." She adjusted her spectacles. "The offered sum is one hundred thousand Golden Crowns from Herr Hexenzeit, plus ten thousand from the Ministry of War, and another forty thousand from Prince-Imperial Varen."
+
+Rolf's mouth opened.
+
+It stayed open.
+
+The number existed in a category of magnitude that his mind could not immediately process. It was as if someone had told him the building was upside down. The information arrived, was received, and then sat in the foyer of comprehension, waiting for someone to come and explain what it meant.
+
+"One hundred and fifty thousand," he said.
+
+"Golden Crowns. Yes."
+
+"For my research."
+
+"That is the designation on the agreement."
+
+Rolf's hands found the armrests of the chair. His fingers tightened around the worn wood.
+
+He remembered Kaspar.
+
+Not well. The Academy was large enough that students in different years and different departments could orbit the same institution for four years without exchanging more than a handful of words. But certain people stood out regardless of proximity, and Kaspar von Hexenzeit had stood out.
+
+The white hair. The empty test results posted beside every other student's Circle evaluations, the single column of zeroes that tracked his progress through a curriculum designed for people who possessed the one thing he didn't.
+
+Rolf had recognized it because he carried a version of it himself. One Circle. A single, solitary ring of magical capacity in an institution where the minimum for respect was three. His One Circle was enough to keep him enrolled, enough to qualify him for the theoretical coursework, enough to let him design and build and test and publish — but never enough to attract the funding that would let his work become something more than a prototype.
+
+He and Kaspar had never spoken. Not properly. The closest they'd come was a shared nod in the materials library during a late-night session.
+
+Two men on the same margins, separated by the specific nature of their deficiencies.
+
+And now one of them was offering the other a fortune.
+
+"Has the —" Rolf swallowed. Started again. "Have the funds been confirmed?"
+
+The secretary produced a second document. This one bore the crisp letterhead of Kessler & Braun Imperial Banking and a confirmation stamp in crimson ink.
+
+"The bank has verified each patron's account and confirmed the availability of the stated amount. Disbursement will proceed on a quarterly basis over the course of one year, contingent upon standard progress reporting through the Academy's research administration office."
+
+She set the document beside the first.
+
+"Additionally, the sponsorship agreement includes an intellectual property clause." She found the relevant paragraph and pointed to it with the tip of her quill. "All results, prototypes, patents, and derivative products generated by the research during the sponsorship period are to be allocated as follows: forty-five percent to Kaspar von Hexenzeit, twenty percent to Prince Varen, and five percent to the Ministry of War. Twenty-five percent goes to the lead researcher, which is you. The remaining five percent goes to the Academy's research endowment fund."
+
+Rolf stared at the numbers.
+
+Seventy percent. The patrons would own the majority of everything his research produced.
+
+Under normal circumstances, that ratio would have given him pause. A seventy-thirty split in the patron's favor was aggressive. Most academic sponsorships operated on a sixty-forty basis, with the Academy taking its customary five percent from the researcher's share rather than from the gross.
+
+Under normal circumstances.
+
+Normal circumstances did not include the fact that, until approximately ninety seconds ago, Rolf Mercer had been sitting in his laboratory contemplating the precise sequence of events that would follow the end of the academic year.
+
+The sequence was short.
+
+His funding — such as it was, a modest departmental allocation that covered materials but not living expenses — expired with the term. His faculty advisor, who had tolerated Rolf's presence in the department primarily because Rolf's teaching assistance freed the man from the burden of lecturing to first-years, had made it clear that the tolerance had a shelf life. Without external patronage, without a sponsor willing to fund the continuation of research, Rolf's position at the Academy would evaporate.
+
+He'd have been looking for work by midsummer. Applied Magitek engineers without powerful patrons or impressive Circle formations found employment in repair shops and manufacturing facilities, maintaining the devices that better-funded researchers designed.
+
+Work that would have killed his spirit.
+
+"I have no objections to the terms," Rolf said.
+
+The words came out steadier than he felt. His hands, still gripping the armrests, had begun to tremble. He released them. Placed his palms flat on his thighs.
+
+"There is one additional item." The secretary reached into a tray on her desk and produced a folded slip of paper. "This was submitted alongside the sponsorship agreement. Herr Hexenzeit requested it be delivered to you directly."
+
+Rolf took the paper. Unfolded it.
+
+Two lines.
+
+The first line was the number. 100,000 Golden Crowns. He'd already heard that. His eyes moved past it.
+
+The second line stopped him.
+
+The mana flow at the recycling junction is unstable. You don't need to cool the whole cube. Focus on cooling a liquid and let the liquid cool the recipient.
+
+Rolf read it twice.
+
+Then a third time.
+
+His left hand, still holding the paper, lowered to the desk. His right hand came up and pressed against his forehead, fingertips digging into the skin above his brow, the unconscious gesture of a mind that had been struck by something it needed to process before it could respond.
+
+The recycling junction.
+
+The exact point in his glyph architecture where the waste-energy feedback loop reconnected with the primary cooling cycle. The place where, during every extended test run of the prototype, the mana flow developed a subtle oscillation.
+
+He hadn't mentioned it during the presentation.
+
+He hadn't mentioned it because he hadn't fully diagnosed it.
+
+The mana flow at the recycling junction is unstable.
+
+Kaspar had seen it.
+
+From the middle tier of an amphitheater, without instrumentation, without access to the device's internal diagnostics, without touching the prototype or examining the glyph matrices at close range.
+
+That was impossible.
+
+Unless —
+
+Unless Kaspar possessed a form of mana sensitivity that exceeded anything Rolf had encountered. A perception capability refined to the point where the flow patterns within a device could be read from a distance.
+
+The second part of the note was different. Not observation. Recommendation.
+
+Focus on cooling a liquid and let the liquid cool the recipient.
+
+Rolf turned the concept over.
+
+His current design cooled air. The glyph drew thermal energy from the ambient environment surrounding the device, chilling the space directly. The approach was effective but inefficient — air was a poor medium for thermal transfer, requiring significant energy expenditure.
+
+A liquid, though.
+
+The recycling junction's instability would be reduced as well. The liquid medium would act as a buffer, absorbing the oscillation's fluctuations and smoothing the output into a steady state.
+
+Rolf's hands found each other. His fingers interlaced, the knuckles whitening.
+
+The mathematics assembled themselves in his head. The numbers cascaded — thermal coefficients, mana-to-energy conversion rates, flow resistance through copper channeling, the specific heat capacity of water at varying pressures.
+
+The result was not incremental.
+
+The result was a fundamental redesign that would reduce mana consumption by — he ran the numbers again, double-checking against the formulas etched into his memory —
+
+Ninety percent.
+
+Not thirty. Not the modest improvement he'd presented at the symposium.
+
+Ninety.
+
+A device that currently required a Grade B mana crystal every forty-eight hours would run for nearly twenty days on the same crystal. A Grade A mana crystal would sustain operation for months. The cost-per-hour of cooling would drop below the threshold where the technology became accessible not just to noble households and military installations, but to merchant establishments, trade warehouses, hospitals.
+
+Rolf stood up from the chair so abruptly that it toppled backward and hit the floor with a crack that made the secretary flinch.
+
+"Herr Mercer —"
+
+"Thank you," he said. The words came out in a rush. He was already folding the note, tucking it into his robes, reaching for the signed documents with hands that moved faster than his mouth. "Thank you. This is — I need to — the laboratory —"
+
+He gathered the papers.
+
+"I'll have the progress reports submitted on schedule," he said from the doorway. "Monthly. Quarterly. Whatever the agreement specifies. Please confirm with the bank that I accept the terms as stated."
+
+The secretary opened her mouth to respond, but Rolf was already gone, his footsteps receding down the corridor at a pace that was closer to a run than a walk.
+
+The secretary looked at the toppled chair.
+
+She sighed.
+
+Three weeks later. Iron Cross — Investigation Division Headquarters.
+
+The communication crystal on the desk buzzed twice.
+
+The desk was not a good desk. It was a scarred rectangle of oak that had been requisitioned from a decommissioned garrison and transported to the capital in a supply wagon alongside crates of obsolete equipment.
+
+The crystal buzzed again.
+
+A hand reached for it.
+
+The hand belonged to Katja, and it moved with the economical precision of a woman who had spent twelve years ensuring that no motion was wasted, no second was idle, and no excuse was accepted.
+
+Katja had been with the Iron Cross long before the prince decided he would take the organization for himself.
+
+Long before politics became entangled in its processes.
+
+Long before money began pouring into it without cease.
+
+She was used to a different world, and to different ways of doing things. Having resources in abundance, more than they knew what to do with, was not a reality she had ever grown used to.
+
+She pressed the activation rune.
+
+"Valkyrie-1, receiving."
+
+The callsign was standard Iron Cross Investigation Division nomenclature. Each squad leader was assigned a mythological designator followed by a numerical suffix indicating their unit. Valkyrie for the women. Einherjar for the men. A system that someone in the administrative branch had thought was clever and that the field operators tolerated because changing it would require paperwork, and paperwork was the one enemy that no amount of combat training could defeat.
+
+The voice that came through the crystal was clipped and professional.
+
+"Katja. Intelligence package just came down from the Ministry of War. Flagged priority. Relates to IC-INV-0047, the Snow Dream investigation."
+
+Her jaw tightened by a fraction.
+
+Her squad had been assigned to the Snow Dream case six weeks ago. In that time, they had produced exactly three confirmed distribution points, two low-level handlers who had been arrested and had provided nothing useful during interrogation, and a growing file of circumstantial evidence that pointed toward supply routes originating outside Imperial borders.
+
+Six weeks. Three distribution points. Two useless handlers.
+
+By Katja's standards, the progress was unacceptable.
+
+"Source?" she asked.
+
+"Unclear. The package came through the Ministry's general intelligence pipeline. No originating agency identified. The routing stamp suggests it entered the system through the Army's eastern border intelligence, but the formatting doesn't match their standard reporting templates."
+
+"Someone dropped it on their doorstep," Katja said.
+
+"That would be my assessment."
+
+A pause.
+
+"It's detailed, Katja. Distribution network mapping. Supply route identification through the Sultanate corridor. Handler profiles with physical descriptions and operational patterns. It's more than we've gathered in six weeks combined."
+
+Katja's fingers drummed against the desk once. Twice.
+
+Detailed intelligence arriving anonymously through military channels wasn't unusual. The Empire's various intelligence apparatuses regularly laundered information through each other to obscure its provenance. What was unusual was the specificity.
+
+That level of detail didn't come from casual observation. It came from someone who had been operating inside or alongside the Snow Dream network for a significant period.
+
+Someone who wanted the network gone.
+
+And who wanted someone else to do the bleeding.
+
+Someone wants this cleaned up in a hurry, Katja thought.
+
+She'd been in the Investigation Division long enough to recognize the smell of political maneuvering. Intelligence didn't fall from the sky. It was pushed. And the hand that pushed it always had an agenda that extended beyond the immediate contents of the package.
+
+"Bring it to my office," she said. "I'll review it this afternoon."
+
+"Understood. There's one more thing."
+
+Katja waited.
+
+"The new candidates from the Formation School program. Their assignment orders came through this morning. Your squad's been allocated one."
+
+"I'm aware. I have the files."
+
+"The specific candidate assigned to your unit is —"
+
+"I have the files," Katja repeated. The words carried an edge sharp enough to cut the conversation short.
+
+A brief silence on the other end.
+
+"Understood. Out."
+
+The crystal dimmed.
+
+Katja set it back on the desk and turned her attention to the surface before her.
+
+Twelve dossiers lay in a neat row across the oak. Personnel files, each one contained in a standard-issue Iron Cross folder. Each folder bore a name tab along its right edge.
+
+The candidates. The Knight Formation School's latest cohort. Twelve individuals selected from across the Iron Cross's operational branches, brought to the capital for a year of training that would, if they survived it, produce the next generation of commissioned Knights.
+
+Each would be assigned to a branch inside the Iron Cross. Six were selected for the investigation branch, with their respective squad for the duration of their training. Practical experience integrated with the classroom curriculum. Learn by doing. Bleed by doing. The Formation School's philosophy was nothing if not direct.
+
+Katja opened the first file.
+
+Henrik Vogt. Age twenty-four. Former Patrol Division, Iron Cross. Three years field experience. Two confirmed monster kills. Physical assessment: above average. Tactical assessment: competent. Mana classification: non-magical.
+
+She read the file twice. Made a note in the margin. Moved to the next.
+
+Lena Hartwig. Age twenty-one. Former garrison support. Logistics specialist. Reassigned to Investigation track based on aptitude assessment. Physical assessment: average. Analytical skills: exceptional.
+
+Another note. Next file.
+
+Otto Krause. Age twenty-six. Former Iron Cross infantry, southern front. Eighteen months active duty. Wounded twice. Commendation for conduct under fire. Physical assessment: excellent. Tactical assessment: strong. Temperament assessment: aggressive.
+
+Katja's eyebrow twitched at the last notation. Aggressive in a temperament assessment wasn't a compliment. It was a flag.
+
+She continued through the remaining files. Each candidate had a profile that mixed strengths with deficiencies in proportions that were, by the standards of the Iron Cross's recruitment, entirely typical. Good people.
+
+The sixth file was the problem.
+
+Katja had saved it for last.
+
+She picked up the folder.
+
+The name tab read: K. VON HEXENZEIT.
+
+She opened it.
+
+The photograph clipped to the interior cover showed a young man with white hair cut short and pale eyes that looked directly into the crystal-capture lens with an expression that gave away absolutely nothing. The scars were visible — the thin line above the left eye.
+
+Below the photograph, the standard biographical summary.
+
+Kaspar von Hexenzeit. Age nineteen. Iron Cross, Southern Command. Classification: Runenträger (non-magical). Service record: six months active duty, Grenzheim sector. Participated in defense of Iron Cross forward operating position during major elven incursion. Credited with disruption of enemy ritual, restoration of defensive grid, and direct combat action in forward tunnel network. Commendation from Commander Wendt. Recommended for Knight Formation by Prince Varen.
+
+The last line was the one that sat wrong.
+
+Recommended for Knight Formation by Prince Varen.
+
+Not by his commanding officer. Not through the standard evaluation pipeline that every other candidate in this cohort had navigated. By the Prince.
+
+She had no patience for shortcuts.
+
+And she had even less patience for candidates whose presence on her squad owed more to political calculation than to merit.
+
+Stories that neat were either genuine or constructed, and in Katja's experience, the ratio between the two was not flattering.
+
+Katja closed the file.
+
+She placed it on the desk beside the other five.
+
+Let's see how much of this hero is real.

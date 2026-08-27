@@ -1,0 +1,247 @@
+---
+id: 07c65f43-512f-506a-a8ca-c1dccf7d8332
+page-type-slug: story-chapter-royal-road
+title: "236: The Thing about Wizards"
+slug: 0259-236-the-thing-about-wizards
+partOf: there-is-no-epic-loot-here-only-puns
+position: 259
+ownLength: 3146
+unit: words
+publishedAt: 2026-03-28
+link: "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/3204219/236-the-thing-about-wizards"
+royalRoadId: "3204219"
+---
+
+Delta had already vanished again, swallowed by whatever new system the Dungeon had decided to toss at her. Alpha let her go.
+
+Lately, she stayed under longer each time. He wouldn’t be shocked if she came back up with something that blinked, hummed, or pulsed in ways it had no business doing. Not on purpose. She’d simply followed the logic until it broke somewhere no one else could follow.
+
+Still, Alpha had a bigger concern than Delta.
+
+Himself.
+
+Losing to the Echo had cut deeper than he cared to show.
+
+All the training, all the precision, had meant nothing. Something outside the system had slipped past every defence he’d built, tearing through his mind like they weren’t even there.
+
+And he wasn’t the kind to forgive weakness. Especially not his own.
+
+It wasn’t about chasing power. Alpha never cared for that. But if he meant to protect this place, protect Delta, protect anyone at all, then strength couldn’t fall behind resolve. There was a part of him he’d been pretending not to need. That stopped here.
+
+Alpha knocked on the hut.
+
+Quiss opened the door, looking like he’d lost a bet with sleep, dignity, and a mop bucket. He had that underpaid, overworked look of someone forced to be three people at once and resenting all of them.
+
+The bags under his eyes were new. So were the bruises and the scuffed-up coat.
+
+“Don’t stare. Never seen a Peacekeeper actually keep the peace?” Quiss muttered, voice scratchy like it hadn’t been used yet today.
+
+“You look like you got into a bar brawl,” Alpha said flatly.
+
+Quiss blinked, looked down at himself, then gave a slow, unimpressed sniff.
+
+“Far too sober for that. Get in before I catch another adventurer trying to rob Dabberghast and end up mulch. Petty crime’s been up ever since Delta arrived,” Quiss muttered, stepping aside like he didn’t have the energy to care if Alpha walked in or not.
+
+Alpha frowned, stepping inside and giving the place a glance. The air smelled faintly of old sweat, burnt tea, and something sharp. Maybe metal polish.
+
+“She’s not doing this on purpose,” he said, defensive.
+
+“I never said she was. But you can see the cause without blaming it for the effect,” Quiss said, dragging a hand over his face. “You cook something juicy in the woods, you don’t curse the food when scavengers show up. But you should still carry a stick.”
+
+Alpha eased down onto a crooked wooden chair. He sat slowly, careful not to test it more than needed.
+
+“What do you want this early? You vanished with ‘Goddess’ Delta and haven’t shown your face since,” Quiss said, as he shuffled toward a small wash basin in the corner. Without hesitation, he bent forward and plunged his entire head into it.
+
+The water hissed as soon as it touched him, reacting like it had hit a hot stone. Steam curled off the surface, thick and fast, fogging the rim of the basin while Quiss remained under longer than felt normal.
+
+Alpha didn’t speak. He didn’t move either, too stunned to see a man attempt to drown himself rather than face the day.
+
+When Quiss finally emerged, water streamed down from his collar, soaking into the floor. He blinked twice, breathed out hard, and filled the room with a sudden cloud of steam. In seconds, he stood dry while the air grew dense and sticky.
+
+Alpha blinked.
+
+That was… practical. He hadn’t thought about using fire magic like that.  It wasn’t flashy or powerful, but it worked.
+
+Simple magic, used like a tool. He found himself wondering what else he’d been overlooking.
+
+“The Echo-” Alpha started, but Quiss’ expression tightened, and a vein in his neck gave a twitch. Clearly, even the name rubbed him the wrong way. Still, Alpha didn’t stop.
+
+“It overtook me. I didn’t stand a chance. I just… folded,” he admitted, the words dry in his mouth, carrying more frustration than shame. He hated saying it out loud, but not saying it didn’t make it less true.
+
+Quiss leaned on the edge of the table, his gaze steady.
+
+“Ever fought one?” he asked quietly, like he already knew the answer.
+
+“Not really,” Alpha replied, hesitating for a second as Gamma came to mind. Gamma had boasted about killing a few already, even made a game of it. They hadn't even flinched under the Echo’s pressure, hadn’t felt it worming into their thoughts, or freezing them in place. Not like Alpha had.
+
+“I met one,” Quiss said, voice quieter now, rough around the edges. “A terrifying thing that developed a taste for Dungeons. It would shift forms, play roles. A friend. A lover. A potential ally. Anything that got it close. Then it would bury the core under a wave of emotion they weren’t made to process. It broke them from the inside.”
+
+Alpha stayed silent, watching his back. Every word Quiss spoke felt heavier than it should have.
+
+“They were old,” Quiss continued. “By the time anyone capable even noticed it, the thing had already gorged itself on Echo after Echo. It fed like a parasite and swelled with what it took. Power, yes. But also sickness. It grew disgusting, strong in a way that made the air feel wrong.”
+
+He reached out to the battered bottle near the edge of the table, tapped the bottom. Bone dry. He sighed like it was just one more thing he’d already expected.
+
+“I couldn’t kill it,” Quiss said, voice low but firm. “I wasn’t in a guild, not exactly, but I wasn’t alone either. We threw everything we had at it, pushed it hard, and cornered it more than once. Still wasn’t enough. The thing was going to wipe us out, so I did what I could. Dug into the worst curse I knew and let it fly. It stuck. Trapped it, somehow.” he looked away and sighed as he plucked a feather out of his jacket.
+
+“What curse?” he asked curiously and Quiss thought about answering.
+
+“Quack you,” he said, sounding lost in thought.
+
+That… was a curse?
+
+Quiss’s scruffy stubble looked like it had fought a losing battle against several half-finished shaves. Uneven patches clung to his face like he kept trying to fix it, only to get pulled away each time.
+
+“Echoes have one weakness,” Quiss said, his voice sharper now, more certain than before. “No matter how twisted or powerful they become, they all share the same flaw.”
+
+Alpha leaned forward, attention sharpening. His mind steadied itself, ready to catch whatever lesson was about to be thrown.
+
+“They don’t exist outside this world,” Quiss said flatly. Then he went quiet, like that alone was supposed to be enough.
+
+Alpha blinked once. He ran the sentence through his mind a few more times, expecting it to unfold into clarity.
+
+“I don’t think many things exist outside this world,” he said slowly, testing the shape of the thought. Sure, he and the others had come from somewhere. Somewhere warmer. Somewhere safer. But Quiss didn’t sound like he meant another place.
+
+It didn’t sound like Quiss was talking about travel, or even distance. He wasn’t pointing to some far-off land. He was talking about a place where things couldn’t exist.
+
+A kind of nothing. A void so complete it refused to be called a place at all.
+
+“There’s plenty outside this world. Look at the gods,” Quiss said, waving vaguely like it was obvious. “But that’s not what I mean. I’m talking about the Abyss. The real thing. Not just islands and floating kingdoms that demons climb out of when they want to make a scene. I mean the black stretch beneath it all, the layer that never touches the land, where no thought or soul should go.” He grabbed the edge of the table, fingers tense.
+
+“That darkness is poison to Echoes. Not symbolically. Literally. They fear it. Panic if they even come near it. They’ll twist themselves into knots to avoid seeing it, let alone touching it.” Quiss shrugged as if he never understood why, but he never needed to use it.
+
+Alpha stayed quiet, every part of him focused.
+
+“So I dragged one,” Quiss continued, voice quieter, “and stuffed it in between this world and the Abyss. Jammed it right into that gap. It’s still there… mostly.” he trailed off.
+
+“What does this Echo even do?” Alpha asked, his voice steady but laced with curiosity. “The one that attacked the town… it created the Calcs, right?”
+
+Quiss gave him a long look. It wasn’t angry, just tired.
+
+“Don’t start thinking all Echoes make cults or fanclubs,” he muttered, dragging a hand down his face. “They’re not all the same brand of nightmare. Some break things. Others whisper. A few leave marks on the world in ways you can’t always see. The one I fought… it didn’t gather followers. It caused a shift.” He paused, searching for the right word.
+
+“It brought in a new age. A chapter that shouldn’t have happened. Reality cracked around it, bent to fit the Echo’s mood, and now we’re still living with the consequences, Delta more than anyone,” then he shook his head, slow and sharp, like clearing dust from his thoughts.
+
+“That was a long time ago.”
+
+Alpha stared at him, letting the words settle. There was caution in how Quiss spoke.
+
+“Then why not take some people from Durence and end it?” Alpha asked, gesturing toward the street where a few figures wandered, casually powerful. Buying fruit like they didn’t carry enough magic to level a fortress.
+
+“Have you ever tried getting one of those ancient waraxes to do something they didn’t already want to do?” Quiss asked, blunt and without a shred of diplomacy.
+
+Alpha thought of Deo. Of his friends. Of the strange, impossible people they surrounded themselves with. Then of their families. Their histories. The weight behind each name. He didn’t answer right away.
+
+“Surely… the challenge is worth some attention?” he said, though even as the words left his mouth, they felt soft. Unsure. He wasn’t convinced himself.
+
+“Probably,” Quiss admitted with a shrug. “But I’ve got my own plans to prepare. Bigger ones. Let the Echo rot in the space between. Its story ended a long time ago. My target still breathes.”
+
+For a moment, the air in the hut shifted. The warmth wasn’t just from the weather anymore. It pressed in from the walls, from the floor, from Quiss himself. The wood groaned softly, and Alpha swore the corners of the room darkened like smoke curling into the grain.
+
+Then Quiss pulled his magic back in, slow and calm, like drawing a curtain shut.
+
+“You want to learn how not to be messed with in the head?” Quiss asked, suddenly enough that Alpha straightened without thinking. His chair let out a strained creak as it adjusted to the movement.
+
+“Yes,” Alpha replied, a little too fast. It cost him some pride, but not enough to stop him.
+
+“Mages tend to make the best Echo handlers,” Quiss said, his voice levelling out as if slipping into a half-remembered lecture. “A good portion of their power comes from somewhere else. Not this world. It passes through the Abyss on the way here. Just a trace of that place clings to the magic, and Echoes can feel it. They don’t like it. It unsettles them.” He looked into his mug, disappointed to find it empty, then set it down with a soft thud.
+
+“Priests can work too,” he continued. “Their power comes from outside as well, though it filters through belief rather than raw channelling. But let’s be honest. Neither of us has the patience, or the morality, to sit through the local temple’s idea of training.”
+
+Alpha’s thoughts drifted to Amenstar. The way he held Gamma after the last fight. There was something strange about the glow that surrounded him.
+
+“Well. I’m pretty terrible at mind defences,” Quiss admitted with a shrug. “I usually just set anything that tries to get in on fire. Literally. And also as a kind of mental reflex. It works, sort of. Good at blocking thoughts from coming in, but not so great at keeping mine from leaking out. What we really need is Seth,” he declared, and Alpha nodded, starting to stand to follow Quiss out of the hut to find the other mage.
+
+With no warning, Quiss kicked the side of the bed. The thump made Alpha flinch, half-ready to stand, when something shifted under the frame.
+
+From the shadows below, Seth slid out like a disgruntled cat that had been disturbed from a long nap. His coat was wrinkled, his shirt unbuttoned in places that made no sense, and his once-handsome face carried deep frown lines like they’d been pressed in over time.
+
+His hair looked like it had lost a fight with straw, dust bunnies, and maybe a small rodent. He blinked at them, completely unimpressed with the situation, then sighed without a word.
+
+“How long has he been under there?” Alpha asked, more alarmed than he meant to sound.
+
+“Since the fight,” Quiss replied, already crouching beside the bed. “He overdid it. Burned through more magic than usual, and when that happens, he dries out. Part of being what he is.”
+
+Alpha stepped closer and squinted. What he thought had been a straw sticking to Seth’s head turned out to be a clump of hair. It crumbled slightly under Quiss’ fingers, brittle and shrivelled like old plant matter.
+
+“Dried… out?” Alpha repeated, unsettled, watching as Seth slowly pushed himself up from the floor with the stiff, uncertain movements of someone who had forgotten how limbs worked. He moved like a puppet being tested for the first time by someone still figuring out the strings.
+
+“Water is I. No I, no water,” Seth mumbled, blinking slowly with unfocused eyes. His words didn’t help. If anything, they made it worse.
+
+Alpha exchanged a look with Quiss, but the man showed no sign of surprise. Not even a twitch of concern.
+
+“Magic, for Mages like us, isn’t just a tool. It’s part of who we are. It shapes how we act, how we think, how we dream, how we fight,” Quiss explained, crouching again to make sure Seth didn’t collapse. “Over time, our mana picks up our habits, our nature. Seth dries out. I freeze. That’s what our magic does when it loses balance.”
+
+He looked up at Alpha.
+
+“But what about you? What happens when you’re completely drained? When you’ve got nothing left?”
+
+Alpha’s breath caught for a moment. The memory came fast, uninvited. A room with no lights. A silent phone. No footsteps in the hall.
+
+No one coming.
+
+“I shut down,” he admitted quietly, the words catching at the edge of his throat.
+
+“Outside no more,” Seth added from the floor, sounding eerily content with that line of thought.
+
+Quiss didn’t miss a beat. “Your magic,” he continued, “is the Archmage. Technically the most powerful title among us. Leader, in theory. But it’s not just a name. Your mana doesn’t specialise in one style. You use so many methods and types of magic, your essence has started to stretch.”
+
+He tapped the side of the empty bottle in his hand, the glass echoing like chalk against a forgotten board.
+
+“What’s the right word for that?” Quiss muttered, brow furrowed as he tapped the bottle again, like the sound might jog his thoughts.
+
+“Busy,” Seth offered from the floor, voice hollow but steady.
+
+“Annoying,” Quiss snapped his fingers, eyes lighting up. “That’s the one.”
+
+Alpha sighed through his nose. “Thanks,” he mumbled, not even trying to argue the point.
+
+A moment passed, but something clicked in his head. He looked around the room, remembered the dusty corners, the stale air outside, the way everything felt muted. Then the memory returned; this place had been Greyed.
+
+“Wasn’t this place stripped of mana?” he asked, his eyes narrowing. “The region was Grayed, right? How did the mages handle that?”
+
+Quiss visibly shuddered, like Alpha had asked him to bite into a rotten fruit.
+
+“Poorly,” Quiss said again after a long pause. “Very poorly. Ever been woken up at three in the morning by a sleepwalking cheese wizard summoning a tsunami of expired yoghurt?”
+
+Alpha blinked. “No,” he said slowly.
+
+“Don’t,” Quiss replied, eyes distant, like the memory had scarred a part of his soul that therapy couldn't reach.
+
+Alpha felt like he needed more than vague horror stories and food-based trauma to get the answers he wanted, but it was something. A crack in the wall, at least.
+
+“Teach me how to be strong in the mind,” he said, turning toward Seth, who was still sitting cross-legged and pulling dried bits of straw from his hair like it had grown roots overnight.
+
+“Endure Quiss for many moons,” Seth said without looking up, deadpan. Quiss shot him a dirty look, mumbling into the empty bottle a word that didn’t sound polite.
+
+“Anything more… immediate?” Alpha asked, not wanting to endure that much of a trial.
+
+“Slow method or fast path?” Seth asked, voice steady as ever.
+
+Alpha didn’t need to think about it.
+
+“There’s only one answer,” he said.
+
+---
+
+Devina hummed softly to herself, the sound blending with the rustle of leaves as she swept delicate petals aside in search of something more medicinal. Mother’s blessings had spread, like chalk handprints from one being to another. All sorts of unique things had begun to sprout.
+
+Around her, the world breathed. Spirits danced along her skin and twined through her hair, whispering secrets in voices only she could hear. Some belonged to the trees, the wind, the soil. Others came from somewhere further, distant, watching.
+
+Magic flowed through her body, not learned or commanded, but given. Not by force, but by trust. It was beholden to no school or spellbook. It belonged only to Mother.
+
+As she knelt, her hand hovered above a patch of damp earth. Something had shifted. A faint sign had been left behind in the mud, half-washed but present. A twist of movement, an echo in the soil. She leaned closer, her fingers brushing the edge of the mark.
+
+A figure. A staff in hand. A half-moon creeping toward fullness.
+
+Now that was interesting.
+
+“Guests of the most unusual kind are coming,” Devina murmured, her fingers brushing the soil again. “But not unknown to us.”
+
+All around her, the Pygmies responded. The tiny forest dwellers raised strands of preserved blond hair, shrieking and hooting in ritual cries. It was a chorus of offerings, of recognition, of old instincts flaring to life. They understood the signs. So did she.
+
+Some excitement would be interesting; she had never expected it, but Devina had become restless.
+
+Even staring at Rale had lost a little charm.  Not that she had stopped watching him.
+
+Devina was bored, not blind.

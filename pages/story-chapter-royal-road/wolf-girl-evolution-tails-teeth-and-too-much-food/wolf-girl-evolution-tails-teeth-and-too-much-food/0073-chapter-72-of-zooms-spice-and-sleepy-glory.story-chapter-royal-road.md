@@ -1,0 +1,433 @@
+---
+id: aaa093ba-ed3b-5b43-999a-0739f4c160ac
+page-type-slug: story-chapter-royal-road
+title: "Chapter 72: Of Zooms, Spice, and Sleepy Glory"
+slug: 0073-chapter-72-of-zooms-spice-and-sleepy-glory
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 73
+ownLength: 2196
+unit: words
+publishedAt: 2025-11-26
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2796149/chapter-72-of-zooms-spice-and-sleepy-glory"
+royalRoadId: "2796149"
+---
+
+PoV Luna
+
+All that running.
+
+All that glorious speed.
+
+All those awoomazing zooms!
+
+Luna had never felt so alive – nor so very close to immediately collapsing into a puddle of fur and pride.
+
+Even the big meanie System had pinged her several times during her runs!
+
+And she ignored every single one of them.
+
+Reading was for later!
+
+Running was for now!
+
+But now… now was after.
+
+Luna’s paws trembled beneath her, each step wobbling a little more than the last. Her breath came out in deep, shuddery huffs that rumbled her ribs. The last drop of potion had been drained four zooms ago.
+
+Her legs had officially turned to soup! Soft, overcooked, delicious-sounding soup. With lots and lots of meat.
+
+And spice!
+
+Luna drooled at the very idea!
+
+Still, she had done it.
+
+Luna, the fasterest of wolves!
+
+The Awoo Queen of Zoom!
+
+The Apex Predator and Bestest Runner!
+
+So many good titles! She would practice them on Second later. Her elf friend deserved to hear them.
+
+But first… the grassy plains looked awfully comfy…
+
+Luna dropped into the dirt with a victorious thump, tail splayed, tongue out, and paws twitching faintly from muscle memory. Her chest rose and fell in a rhythm that was definitely breathing, not wheezing, no matter what Second might later claim.
+
+She peeked open one eye. The plains shimmered gently in the heat. Bugs clicked. Clouds drifted. No strong prey in sight.
+
+Good.
+
+Luna felt very empty now, utterly spent. Even her HP was down, probably from the first big-big ZOOM she did.
+
+It just felt so glorious then! The air got stretchy, the world blurred, and her ears started buzzing from all the whooshing.
+
+Didn’t hurt then!
+
+Hurt now.
+
+Her paws hurt. Her legs, body, even tail and snout! Weird!
+
+Weirder was her snout hurting too. And…
+
+Tongue?
+
+Why tongue hurt?!
+
+What in the bark?
+
+Still…
+
+“Zoom pain, worthy pain,” she mumbled, blinking slowly.
+
+The world swayed around her. Then stilled.
+
+Somewhere in the distance – closer now than before – her pack was still moving. They were running. Sort of. Not quite zooming. More like trekking with heavy boots and wheezy breath.
+
+But still! Movement!
+
+Very good pack. Obedient pack. Good learners! She forgave them for the slowness. Eventually they would get it!
+
+Maybe. Probably?
+
+Progress meant chance, and chance meant more chews, yes!
+
+She yawned, her jaw cracking wide, tongue lolling sideways onto the grass. Her head drooped. Her tail gave one final twitch.
+
+“Yes. Very good run,” she declared softly to the sky, the dirt, and any listening bugs. “Awoo-worthy achievement.”
+
+But instead of victory awoo, another yawn escaped her mouth.
+
+A long blink followed.
+
+Then her eyes stayed half-lidded.
+
+She considered standing up. To greet the pack properly.
+
+To accept their praises and offer advice on proper zoom posture!
+
+But… maybe later.
+
+Second would understand!
+
+She always did.
+
+Bestest Second!
+
+She heard footsteps now. Slow and dragging. Getting closer. Boots crunching over grass. The familiar smell of sweat and effort.
+
+Ray’s boots still smelled dangerous.
+
+Luna summoned a strip of jerky from her shadow. It rose like magic, shimmering softly in a swirl of dark smoke, before flopping directly into her mouth.
+
+Chewed once.
+
+Twice.
+
+Yawn.
+
+Too much work. Even chewing counted as work now.
+
+“…Maybe nap first,” she whispered.
+
+Then she flopped fully onto her side, belly in the grass, legs stretched long and limp, the jerky strip balanced on her tongue like a lazy offering to the sky.
+
+Her fur twitched once. Her tail gave a half-hearted thump.
+
+Then Luna, Queen of the Plains, Champion of Zooms, and Conqueror of the Paw-Speed, took a well-deserved nap.
+
+Her breathing slowed. Her eyes fluttered. Her thoughts drifted into warm soup and spinning grass and the perfect, impossible joy of going very, very fast!
+
+The footsteps finally reached her. Shadow fell across her back.
+
+But Luna was asleep before she could see who reached her first. A small snore answered any questions.
+
+Jerky slid off her tongue.
+
+The nap had begun.
+
+***
+
+PoV Adventurers:
+
+“Well, well, well,” Trianna said, hands on her hips. “If it isn’t our outrageously speedy Luna, taking a nap in the middle of the road.”
+
+Luna, of course, didn’t so much as bother to stir.
+
+Only her tail twitched once. That was all.
+
+“Were you so bored of waiting for us, you little rascal?”
+
+The group stood panting in a loose half-circle around the sleeping wolf pup. Boots dug deep into flattened grass, legs trembling under the strain of unexpected cardio decisions.
+
+Aside from Veric and Syl, the others looked… betrayed. Betrayed by their own choices. By the unfair world demanding they run when they could have walked instead!
+
+Ray leaned forward on his knees, wheezing.
+
+“If… if she calls us lazy again, I swear–”
+
+“I don’t… think she can talk right now,” Trianna answered between shallow breaths.
+
+She bent over, stretching her legs, eyes still on the puddle of fur. Luna’s chest rose slowly and even, entirely unaware of their suffering. A small strip of half-chewed jerky lay drooped over her paw, like she had tried to finish it, then fell asleep mid-bite.
+
+Veric rolled his shoulders, a faint pop echoing from his spine. He inhaled slowly through his nose, then let it out in a long, heavy sigh.
+
+“Hrm. It was a good run. Blood’s pumping. I’m going to go train now.”
+
+“You do you,” Trianna muttered, dropping into the grass beside him. She didn’t even try to hide the collapse, arms thrown wide behind her for balance. “Given how our wolf pup looks, we might as well set up camp early.”
+
+She nodded toward Luna’s body, still completely sprawled, tongue half-out.
+
+“But hey – look at that. We’re ahead of schedule for once.”
+
+Sepio arrived last. His armor announced him before he spoke – clank, clank, drag, thud.
+
+He didn’t say a word. He didn’t have to. His face told the whole story: exhaustion, judgment, regret, betrayal, and about seven separate joints questioning their contract with his body.
+
+He dropped down with the grace of a collapsing tower, one final clatter marking the official end of his resistance.
+
+Ray grinned at him, still crouched and sweating.
+
+“Would you look at that? The one who complained the most… ends up the worst off.”
+
+Meanwhile Syl knelt beside Luna without a single creak of effort. Her robes fell into place neatly, her braid didn’t fray, and the faint shimmer of sweat on her brow looked practically elegant.
+
+Ray narrowed his eyes.
+
+It just wasn’t fair!
+
+Syl brushed dirt gently from Luna’s fur, her fingers precise and careful. She tilted the wolf’s head slightly, checked her breathing, then pressed her palm softly against her side.
+
+“It’s silly to use so much potion, even after I told you to not overdo it,” she said. Her voice was quiet, but warm, wrapping around Luna like a soft blanket.
+
+Luna answered with a quiet, satisfied whimper, the nap most pleasant. One leg twitched in her sleep.
+
+Trianna stared.
+
+Ray stared harder.
+
+“…I’m jealous,” Trianna whispered.
+
+“Me too,” Ray muttered.
+
+“Life is unfair,” Sepio groaned into the dirt.
+
+Veric passed them without slowing, heading for an open patch of grass with a sword already drawn.
+
+“Run more. Will make life fair.”
+
+They all turned to stare at him.
+
+Ray’s voice dropped to a hush.
+
+“Good lords above. She’s made him into a running enthusiast.”
+
+Sepio rolled onto his back, one gauntlet over his face.
+
+“We are so doomed.”
+
+Syl stood and clapped her hands sharply, sending a ripple through the group.
+
+“Alright. We’re camping here. Stretch first or you’ll regret it later.”
+
+There was a long pause.
+
+Then, a chorus of groans.
+
+“Yes, ma’am.”
+
+Blankets came out. Packs were dropped. Trianna lit a small fire with practiced hands. Sepio laid flat and refused to move. Ray mumbled over a canteen.
+
+While Syl busied herself checking supplies.
+
+Veric began a slow kata in the shade, his blade catching the afternoon light.
+
+And Luna just snored.
+
+Happy, satisfied, surrounded by nice pack scents.
+
+She slept soundly.
+
+The wind brushed through the tall grass, tugging gently at cloaks and fur. The sun dipped lower. The shadows stretched.
+
+One silver wolf slept proud in the middle of the camp, a blanket draped over her form. Her tail flicked once.
+
+The half-eaten jerky slid onto the dirt.
+
+The others didn’t dare move it.
+
+***
+
+PoV Luna:
+
+Warmth. Soft blanket. Scritches.
+
+Luna blinked awake, eyes fluttering open under the sleepy weight of too much movement and not enough soup. Her tongue lolled briefly. Her ears twitched in protest. Even blinking felt like effort.
+
+The world was night now. The Moon hung overhead, pale and bright, watching gently from her high place. Its silver glow kissed every blade of grass in quiet approval. The air smelled of fire and comfort and–
+
+Soup.
+
+She sniffed again.
+
+Soup!
+
+Tail flick. Ear perk. Slow, sleepy paw wiggle.
+
+Soup!!!
+
+Luna stretched. Immediate regret.
+
+Every muscle screamed. Her tail spasmed. Her back tried to cramp. Even her tongue betrayed her with a slow, traitorous whimper.
+
+Movement was betrayal!
+
+“Awake already?” Syl’s voice floated close, warm and quiet.
+
+Luna turned her head slowly, and found herself firmly trapped in Trianna’s lap, wrapped in Syl’s blanket. Her face smushed against her thigh.
+
+Her back half-melted from scritch overload as Trianna's fingers traced soft circles behind her ear. Syl sat nearby, watching the two with twinkling eyes.
+
+“Easy, little runner,” Syl said, smiling. “You overdid it.”
+
+The scritches deepened.
+
+Luna’s thoughts began to fog.
+
+No, no! Danger!
+
+Soft lap. Gentle touch. Blanket warmth. Soup scent.
+
+Very dangerous!
+
+“Danger,” Luna squeaked, eyes wide. Her legs twitched, trying to escape.
+
+Trianna giggled and increased the scritching intensity.
+
+Luna groaned and kicked a leg out pitifully. Her body betrayed her. Her tail thumped once, then gave up entirely. She slumped further.
+
+Eventually, through grit, determination, and the overwhelming power of soup-lust, she wriggled free.
+
+It took effort. It took betrayal of nap instincts. But Luna crawled toward the fire, paws dragging, tongue out, tail limp. She reached the soup pot like a hero reaching the summit of a mountain, then flopped into a victorious sprawl beside it.
+
+A flick of will later, and Luna was back in her proper soup eating human form!
+
+“Soup… please…”
+
+She didn’t even have to beg properly. Syl ladled a big, glorious bowl and handed it over without complaint.
+
+Luna accepted her prize with reverence. She sipped. Then slurped. Then drank faster.
+
+Spice. Heat. Meat.
+
+Soup was glory. Soup was life!
+
+Luna felt Syl drape a blanket around her again. Her Second’s voice floated above the steam. Calm. Firm. Scolding, but gentle.
+
+“Potions are tools, not toys. You’ll burn your stamina faster if you overuse them. Understand?”
+
+Luna nodded mid-gulp, broth dripping from her chin.
+
+“Yes! Luna understands!”
+
+She slurped again, then grinned.
+
+“More soup?”
+
+Syl sighed.
+
+“You’re impossible.”
+
+But her voice softened.
+
+“Still… you did very well today. Amazingly so.”
+
+Luna froze.
+
+Her ear twitched. Her chewing slowed. She turned, eyes wide.
+
+“Luna did?”
+
+“You did,” Syl confirmed, smiling.
+
+The words thudded into Luna’s mind like a big chunk of jerky dropped straight into her heart.
+
+“Luna loves Second!” she declared at full volume, tail whacking the dirt behind her.
+
+Syl chuckled at that.
+
+The amusement around the fire exploded! Trianna clapped her hands. Ray grinned. Sepio groaned something into his cup. Veric didn’t look up from sharpening his blade, but nodded once.
+
+“Pushing one’s limits leads to growth,” Veric said. “But growth always comes with pain.”
+
+Then he tossed something at her.
+
+Luna caught it on reflex. Round. Soft but firm. Faint sheen of oil. Warm.
+
+And it smelled like heaven!
+
+Her nose twitched violently.
+
+“What this?” she asked, already preparing to chew.
+
+Syl leaned forward, grinning.
+
+“A spice ball, an incredibly convenient invention for adventuring. Different spices mashed and mixed with fat. Makes food taste amazing.”
+
+“Spice?! Spice!”
+
+Her tail went berserk.
+
+She held the orb high, eyes gleaming in the moonlight.
+
+“Luna promised Moon spice. Luna got spice. Luna did it!”
+
+She pressed the orb to her chest, reverent and wild-eyed. Then, after a breathless pause, she opened wide and bit down.
+
+Nom.
+
+And then.
+
+Her whole face convulsed.
+
+The heat ambushed her!
+
+Tongue first. Then nose. Then everything.
+
+“WHYYYY?!”
+
+She rolled sideways, coughing. Hacked once. Tried to whimper. Ended up drooling.
+
+Tears poured.
+
+“Betrayal! Spice betrayed Luna!”
+
+Trianna howled with laughter. Ray nearly fell backward. Sepio muttered something about “natural selection.”
+
+Even Veric cracked a smirk behind his bowl.
+
+Syl covered her mouth, but the giggle escaped anyway.
+
+“Luna… you’re not supposed to eat it alone. It’s too concentrated.”
+
+Luna writhed in the dirt, tongue out, eyes watery.
+
+“Spice tricked me…”
+
+When the laughter faded, Syl leaned over and ruffled her ears again. Gentle. Still smiling.
+
+“Lesson learned?”
+
+Luna puffed her cheeks and glared weakly.
+
+“…Maybe.”
+
+Her tail wagged once despite itself.
+
+The fire popped softly. The soup simmered low. The Moonlight gleamed across tired armor and glistening bowls.
+
+And the pack – her pack – laughed again, soft and close, safe and warm.
+
+Spice or betrayal, fire or nap…
+
+Life was good.

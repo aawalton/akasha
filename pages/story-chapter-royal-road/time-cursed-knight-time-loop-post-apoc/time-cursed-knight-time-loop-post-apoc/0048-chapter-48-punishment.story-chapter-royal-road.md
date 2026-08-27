@@ -1,0 +1,475 @@
+---
+id: 71d8a2c9-17c9-59e7-a8d3-f1a675d7e569
+page-type-slug: story-chapter-royal-road
+title: "Chapter 48: Punishment"
+slug: 0048-chapter-48-punishment
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 48
+ownLength: 2846
+unit: words
+publishedAt: 2026-05-21
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3428487/chapter-48-punishment"
+royalRoadId: "3428487"
+---
+
+It showed no follow-up. Just the words and the silence.
+
+Along with the slow, creeping understanding that I might have made the last mistake I would ever make.
+
+No.
+
+No, no, no...
+
+I was going to die.
+
+Actually die. Permanently.
+
+The irony was exquisite. Of all the things that could kill me, it wouldn't be an elven blade or a wyvern's fire that would take my life. It would be my own stupidity.
+
+Pride is the sin that wears virtue's face.
+
+The skeleton’s grin materialized in the nothing. Gold coins for eyes. That impossible, too-wide smile.
+
+You would rather die than admit you cannot save everyone.
+
+I waited for oblivion. Or whatever happened after you died.
+
+A new notification appeared.
+
+⌜ The Sin of Sloth says it's too tired to judge. ⌝
+
+⌜ The Sin of Sloth asks if punishment is truly needed. ⌝
+
+⌜ The Sin of Sloth has sent the lowest punishment. It wishes to return to sleep. ⌝
+
+⌜ Infraction Classification: Low-severity. ⌝
+
+⌜ The death was self-inflicted, but it was not sought. The intent was progression, not escape. Sloth acknowledges the distinction. ⌝
+
+I read the words three times.
+
+⌜ Punishment: Consumption ⌝
+
+⌜ 36 hours will be taken from you. ⌝
+
+Taken?
+
+⌜ Do not commit another infraction. ⌝
+
+⌜ Sloth’s patience is not infinite. ⌝
+
+⌜ Next time, the cost will be higher. ⌝
+
+The notifications dissolved before I could process them.
+
+I came back gasping.
+
+Air hit my lungs like a fist. My chest heaved. My back arched off whatever I was lying on, every muscle contracting at once. It was too bright. Pouring through a window I didn’t recognize.
+
+The ceiling above me was stone. Not the timber beams of the Iron Cross lodge.
+
+An infirmary?
+
+The smell confirmed it. Linen and soap and the antiseptic smell. The sheets beneath me were white. A thin blanket covered my legs.
+
+I tried to sit up. My body refused. Every muscle from my jaw to my ankles screamed at me.
+
+A wide-eyed soldier appeared at the bedside. His mouth was already moving before he’d fully stopped.
+
+“He’s awake! Someone get Doctor Brennan! He’s awake!”
+
+More boots. More voices. The infirmary, which had been quiet, erupted into frenzy.
+
+Another someone materialized at the foot of the bed. Older. He wore the robes of a military physician, the off-white linen marked with the crossed-staff insignia.
+
+He pressed two fingers to my wrist. Held them there. His eyes closed. I felt the faintest whisper of mana flow from his fingertips into my skin, probing.
+
+“Doctor Brennan,” he said, without opening his eyes. “I’m staff physician, Grenzheim garrison infirmary.”
+
+He released my wrist. Opened his eyes.
+
+“You were found unconscious in your quarters at the Iron Cross lodge. A member of the household staff heard a noise and discovered you on the floor, unresponsive. Pulse erratic, breathing shallow, bruises on your chest.”
+
+He pulled a stool closer and sat.
+
+“You were brought to us. We stabilized you, but aside from the bruises on your chest, there was nothing specific that could explain your condition. They told us you were training. I’d advise caution. There’s a reason why Mana Breath is a technique no longer used.”
+
+His gaze was steady. Clinical, but not unkind.
+
+“Whatever you did to yourself, you came within a margin I’d prefer not to quantify of not waking up at all.”
+
+“How long was I out?” I managed to ask.
+
+“You’ve been unconscious for approximately thirty-six hours.”
+
+Thirty-six hours consumed.
+
+“Your commanding officer will be informed,” Brennan continued. “Standard protocol for injuries sustained during... training, I’m told.”
+
+The way he said training suggested he didn’t believe the whole story.
+
+“For tonight, you rest. I’ll authorize your release tomorrow morning. You can return to the lodge then.”
+
+He turned and walked away.
+
+I stared at the infirmary ceiling.
+
+My hand found my chest. The watch was still there, pressed against my sternum beneath the hospital gown someone had dressed me in.
+
+I pressed the clasp.
+
+The screen materialized.
+
+Three.
+
+Not five.
+
+I lost nearly two full days.
+
+I closed the watch. Let my hand fall to the mattress.
+
+My chest hurt. When I pulled the gown aside and looked down, the skin over my heart was a mottled canvas of purple and dark blue. Bruising that spread across my pectoral and wrapped around my ribs.
+
+I let the gown fall back.
+
+Sleep came, but it brought no comfort. I lay in the infirmary bed and stared at the ceiling and thought about the three days that remained and the cards I still held and whether any of them were worth playing.
+
+They released me the next morning.
+
+I walked back to the lodge slowly. My legs worked. My arms worked. The bruising on my chest had faded from purple to a sickly yellow-green that hurt less but looked worse.
+
+The lodge was quiet. Most of the active personnel were on rotation or deployed.
+
+My room was as I’d left it, minus the unconscious body on the floor. Someone had cleaned the sweat from the floorboards.
+
+I sat on the floor.
+
+Spread everything out in front of me.
+
+A set of leather armor, assembled piece by piece over weeks from the garrison’s surplus supply. A gorget that protected the throat. Greaves. Bracers. Nothing expensive, but better than nothing.
+
+The two books.
+
+I picked up the Mana Blood booklet first. Turned it in my hands. Set it down to my left.
+
+The Hexenzeit primer. Set it down beside the first.
+
+They may be useful, but the risk is too much. At least for now.
+
+I left the books where they lay.
+
+Next.
+
+A small glass vial, no larger than my thumb, stoppered with wax and containing a liquid the color of burnt amber. I held it up to the light.
+
+The alchemist had sold it to me three weeks ago at the garrison market. A stimulant. The strongest commercially available compound produced by licensed practitioners. Designed to keep scouts and sentries functional through extended operations lasting forty-eight hours or more.
+
+It was part of another test.
+
+If I stayed awake for more than twenty-four hours and then died, would the curse reset me further back? More than one day? What did I discover? No. The resets had always returned me to the same point. The beginning of the current day. But was that because the curse was tied to the solar cycle? Maybe some magical anchor fixed the reset point to the start of the day?
+
+Anyway, staying awake didn’t matter. I returned to the same dawn regardless.
+
+I set the vial aside. Last.
+
+Three letters.
+
+Each one folded, sealed with wax. Each one bearing a different signature.
+
+The first carried my own signature.
+
+The second carried Wendt’s signature. Forged. The handwriting was close. I’d studied Wendt’s script across dozens of orders, briefing documents, and requisition forms. A casual reader wouldn’t catch it. A clerk who handled Wendt’s correspondence daily might. The third letter was the worst.
+
+I picked it up. Turned it over. The wax seal bore an impression I’d carved myself from a coin and a heated knife. A crude approximation of the Hexenzeit family crest.
+
+The signature inside read Roderich von Hexenzeit.
+
+I didn’t know if the handwriting was accurate. The fragments of memory behind the door offered impressions at best. The letters might be close to my father’s hand. They might be my own invention. They might be some hybrid, a ghost of muscle memory merging with conscious fabrication to produce something that looked real enough to fool someone who’d never seen the original.
+
+The letter was a last resort.
+
+I checked the watch one final time.
+
+I closed the cover.
+
+Whatever was coming, I would meet it with what I had.
+
+The next two days were the longest of my life.
+
+I trained. However, not in the lodge yard. I needed to hit things hard enough to drown out the ticking in my chest.
+
+The garrison’s training grounds were open to Iron Cross personnel. I spent every available hour there. Sword drills against the heavy posts until the wood splintered and the grounds master cursed me out and replaced them. Sparring with any soldier willing to stand across from me, and when they tired, sparring with the next one, and the next.
+
+The officers noticed.
+
+“Ease off, soldier. You’re going to pull something.”
+
+“Take a rest. That’s an order.”
+
+“What’s gotten into you? You’ve been at this since dawn.”
+
+I ignored them. Politely, when I could.
+
+The anxiety was a living thing. It sat in my stomach like a knot of heated wire, tightening with every hour. I could feel each second draining away.
+
+On the last night, I couldn’t sleep.
+
+I lay on the bed and stared at the ceiling and listened to the watch count down.
+
+The numbers were no longer days.
+
+I closed the cover. Opened it later.
+
+Closed it. Opened it.
+
+The compulsion was maddening.
+
+I needed to leave.
+
+The lodge walls were too close. The ticking was too loud. The room was too small to contain both my body and the noise inside my head.
+
+I dressed. Strapped the sword to my hip. Pulled on boots and walked out into the night.
+
+The streets of Grenzheim were empty. Patrols moved through the main thoroughfares at regular intervals.
+
+I walked south. Toward the walls.
+
+The sentries at the south gate recognized me, my face had become familiar through months of rotation.
+
+“Can’t sleep?” one of them asked.
+
+“Something like that.”
+
+He shrugged. Gestured toward the wall stairs.
+
+“Walk the parapet if you want. Just stay above the gate section. Don’t go past the third watchtower.”
+
+I climbed.
+
+The south wall of Grenzheim rose twelve meters above the street. The parapet was wide enough for two men to walk abreast.
+
+The view south was darkness. The hills rolled away toward the front line, invisible beneath a sky thick with clouds.
+
+I stood there and watched the darkness and waited.
+
+Dawn was breaking. The first gray light was bleeding into the world, turning the hills from shapeless dark into rolling contours of brown and green.
+
+The streets below were still empty. The laborers and merchants who would fill them in an hour were still in their beds.
+
+Grenzheim sat in the stillness of a town caught between night and morning, holding its breath.
+
+I held mine. I could feel the countdown without looking.
+
+The minutes bled.
+
+Fifty-nine became fifty. Fifty became forty. Forty became thirty. Checked the straps on my armor. Tightened the gorget. Flexed my fingers inside the bracers.
+
+Twenty minutes.
+
+Ten minutes.
+
+I breathed. The mint-burn was sharp and ready.
+
+Five minutes.
+
+My eyes swept the horizon. South. East. West. Searching for the first sign.
+
+Nothing.
+
+Three minutes.
+
+The town below me began to stir. A dog barked. The distant clatter of a pot against a stove.
+
+Two minutes.
+
+One.
+
+Zero.
+
+The sun cleared the ridgeline.
+
+Light poured across Grenzheim.
+
+Nothing happened.
+
+No attack. No elven army materializing from the tree line. No portal opening in the sky.
+
+The morning continued. Birds called from the rooftops. The dog barked again.
+
+The end of the world didn’t come.
+
+The first hour passed.
+
+I didn’t move.
+
+The sentries at the gate exchanged glances. One of them climbed the stairs to the parapet and approached me.
+
+“You all right, soldier?”
+
+“Fine.”
+
+He looked at the drawn sword. At my face. At the white knuckles.
+
+“You’ve been up here since before dawn.”
+
+“I’m watching.”
+
+He studied me for a moment. Whatever he saw convinced him that further inquiry wasn’t worth the effort.
+
+“Suit yourself,” he said, and descended.
+
+The second hour passed. The third.
+
+The town filled with its daily noise. Supply wagons rolled through the main gate. Soldiers moved between checkpoints. The market quarter opened. The forge complex began its rhythmic hammering.
+
+I watched the southern horizon until my eyes burned.
+
+Nothing.
+
+Whatever the countdown had been measuring, whatever event it had been ticking toward, it hadn’t arrived at Grenzheim.
+
+I sheathed the sword. Descended from the wall. Crossed the square toward the town hall with a stride that was half-walk, half-run.
+
+Mira was at her desk. She looked up as I entered.
+
+“Any communications?” I asked. “Anything from the front? From garrison command? From anywhere?”
+
+She blinked at my tone.
+
+“Good morning to you too.”
+
+“Mira.”
+
+She set down her quill.
+
+“Nothing unusual. Standard morning communication. Patrol reports, supply manifests, a request from the forge complex for additional coal allocations. Routine.”
+
+“Nothing about the elves? No alerts? No changes in bombardment patterns?”
+
+“Nothing.” She frowned. “Are you expecting something?”
+
+I didn’t answer.
+
+I checked the crystal relay board myself. Scanned every incoming message from the past twelve hours. Patrol reports from the front line. Supply logistics. Personnel rotations.
+
+Nothing.
+
+I left the town hall and walked the streets. Checked the bulletin boards outside the garrison headquarters. Spoke with a patrol captain at the south gate. Visited the Iron Cross compound and asked the duty officer if any intelligence had come through Wendt’s network.
+
+Nothing. Nothing. Nothing.
+
+By late afternoon, the certainty that had sustained me through months of preparation had begun to fracture.
+
+Something was happening. The system had said so. But where?
+
+Was the timing wrong? Had I misread the countdown? Was zero the start of the event, not the arrival?
+
+I returned to the lodge as the sky turned amber.
+
+The front door was open. A pair of soldiers from an adjacent unit stood in the entrance hall, discussing supply rotations. I moved past them toward the stairs.
+
+One of them stepped into my path.
+
+“Hey. Have you seen where they went?”
+
+I stopped. “Who?”
+
+“You know where the refugees went?”
+
+The question took a moment to register.
+
+“The refugees,” I repeated.
+
+“The five from the front. The ones that came through the no-man’s-land. Pink-haired girl, old man, the rest.”
+
+His brow creased.
+
+“They’re gone. Left the lodge this morning. Didn’t take their things. Didn’t tell anyone. The household staff noticed around midday, but everyone assumed they’d gone to the market or the bathhouse. They haven’t come back.”
+
+The unease in my chest sharpened.
+
+“When this morning?” I asked.
+
+“Soon after dawn.”
+
+I turned toward the stairs. Stopped. Turned back.
+
+“All five?”
+
+“All five.”
+
+Five people had vanished on the exact morning the countdown reached zero.
+
+I opened my mouth to speak.
+
+The bells began.
+
+The cathedral bell. The garrison bell. The watchtower bells on every wall. All of them, every piece of cast bronze in the town, erupted in a single, continuous, deafening roar that shook the walls and rattled the windows.
+
+Run.
+
+I was through the door before the second peal finished.
+
+The streets had frozen. Every person within sight had stopped mid-stride, mid-conversation, mid-breath. Faces turned upward. Mouths hung open.
+
+I sprinted for the central square.
+
+The square opened before me and I skidded to a halt on the worn stone and looked up.
+
+They were above the city.
+
+Elves.
+
+In the air.
+
+Dozens of them. Suspended against the darkening sky. Their faces, even from this distance, carried the terrible beauty that marked their kind.
+
+At the center of the formation, elevated above the rest, a single figure hovered in a long robe.
+
+The figure looked down at Grenzheim with one hand extended.
+
+The hand was open. Palm down. Fingers spread.
+
+A sphere formed between those fingers.
+
+Small.
+
+So small.
+
+A marble of light, no larger than a fist, that sat in the elf’s palm. Its surface was smooth and featureless. Yet, blazing with light so intense that looking at it directly was like staring into the sun.
+
+The air around the sphere distorted. The sky bent. The clouds above the elf’s position peeled away in a circle, pushed back by a pressure wave that radiated from the tiny, terrible thing in his hand.
+
+I could feel it.
+
+Through the perception I’d built over months of training and combat and endless, grinding repetition. The mana density emanating from that sphere was beyond anything I had ever sensed.
+
+It was like standing at the base of a waterfall and trying to measure the river.
+
+The archmage’s fingers closed.
+
+The sphere dropped. Until it touched the rooftop of a building on the market quarter’s southern edge, and everything within two hundred meters of that point simply disintegrated.
+
+The edge of the erasure was precise. A building that sat at the boundary lost its southern wall and its southern rooms and everything in them, but its northern wall remained standing.
+
+The sound came after.
+
+A thousand voices screaming at once.
+
+I stood in the square and watched.
+
+My sword was in my hand. The blade shook because my arm was shaking. My whole body was shaking.
+
+The archmage raised his hand again.
+
+The same gesture. Palm down. Fingers spread.
+
+A second sphere formed and dropped, this time toward the heart of Grenzheim.
+
+The square where I stood.
+
+There was no time to run. Grenzheim ceased to exist.
+
+⌜ Initiating Curse ⌝
+
+⌜ Restarting Day ⌝

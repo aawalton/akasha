@@ -1,0 +1,193 @@
+---
+id: dea8fcdd-4a6c-5906-ade9-86b998428484
+page-type-slug: story-chapter-royal-road
+title: "Chapter 81: Hail the Founder"
+slug: 0081-chapter-81-hail-the-founder
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 81
+ownLength: 2172
+unit: words
+publishedAt: 2026-07-07
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3645291/chapter-81-hail-the-founder"
+royalRoadId: "3645291"
+---
+
+Mehmed had worn the white of the Sultan's soldiers for only three months.
+
+His family lived in the outer ring of Qalathar, in the band of low mudbrick houses that crowded against the inner face of the great wall, where the rent was cheap because the rent was paid in nearness to the things the wall kept out.
+
+They had been many things, the men of his blood. Merchants once, when his grandfather still lived and the southern spice routes still paid. Mercenaries after that, when the spice dried up and the only thing left to sell was the body. Horse-breeders, briefly, until a season of bad water took the whole stock and left them with nothing.
+
+That was the desert. One day a man stood with coin in his fist and meat on his table, and the next the wind shifted and everything he owned ran out through his fingers. There was no rest in it. No floor a man could stand on and call solid.
+
+There was only ever one constant.
+
+The city always needed more defense.
+
+When Mehmed's Third Circle had finally opened, late, later than it should have, his mother had wept at the kitchen table for an hour.
+
+Three Circles was the threshold.
+
+Three Circles meant the recruiters at the garrison gate would look at him twice instead of once.
+
+He wasn't strong. Three Circles bought a man a place at the very bottom of the wall and nothing higher, no rank, no honor, no songs. But the bottom of the wall came with a house that did not leak and a pension that did not vanish when the wind changed, and to a family that had been ruined four times in two generations, that was a kind of paradise.
+
+A good house, his father had said, gripping his shoulder with a hand gone soft from age. A full plate when you're old. That's all a man gets out here, boy. Don't reach for more.
+
+So Mehmed kept himself alive and on the wall.
+
+The truth was, the work was easy.
+
+Fighting Titans had become, in three short months, almost boring.
+
+Everyone born under the desert sun came up with an affinity for earth, and the Sultan's libraries handed out the sand-focused books for free.
+
+A man did not need to be clever. A man did not need to be brave. A man needed only to take his place in the line, follow the officers' calls, and throw his share of sand into the storm. Common mages by the hundred. Ashkeri by the dozens, those silent bronze-masked things that no longer flinched at anything.
+
+Together they put every monster that crawled out of the dunes to flight, and they did it in minutes, and then they went home.
+
+That was how it had always gone.
+
+That was how it had gone this morning, too. Mostly.
+
+The serpent Titan had come over the eastern wall at dawn, and the line had defended as always. Sand and pressure and the wall's old, patient shield. Routine.
+
+Except for the man.
+
+"Who in God's name was that?" The question came from Yusuf, who stood the watch beside Mehmed and was as baffled as he was. They had been turning it over for hours and gotten nowhere.
+
+Because nobles didn't come to the wall. That was the first rule of the place. The men of soft hands and silk robes stayed in the high city where the air was cool and the killing was a rumor.
+
+They didn't bleed.
+
+But one of them had. This morning. A man with white hair, of all things. He had come over the parapet like he owned the place. He had stood in front of the serpent's strike with a straight foreign sword and done something none of them had seen, something with concrete and a Titan's open throat, and then he had turned and torn the officers to ribbons with his tongue.
+
+Called them blind. Called them wasteful. Named names from the high city. While the soldiers watched the color drain out of Captain Demir's face.
+
+"Only God knows," Mehmed said, and shrugged, because that was the only answer there was. "You don't think he has Sultan's blood, do you?"
+
+"No chance." Yusuf spat over the parapet. "Sultan's blood doesn't fight. They watch, at best."
+
+"But the way he spoke." Mehmed shook his head. "Like a noble. Better than a noble. He had us doing his job and thanking him for the privilege."
+
+Yusuf had no answer to that. Neither did Mehmed.
+
+And so the day, which should have ended at noon, did not end. Because of the white-haired man, because of the names he had dropped. The threat of inspectors hung over the wall. The officers had kept the whole contingent dressed and posted and miserable through the long flat afternoon, in case some great lord came to count their failings.
+
+"This is shit." Hassan, three places down the line, said what they were all thinking. "I'm supposed to be home. Instead I'm standing here baking for a threat that isn't coming."
+
+Nobody argued.
+
+When the sun finally touched the horizon, Mehmed came down off the wall with his legs aching.
+
+Home, he thought. Home, food, Aisha, and bed.
+
+"You going out tonight?" Hassan fell in beside him on the stair, rolling his shoulders. "Another shipment came in this afternoon. The good kind. There's already lines forming."
+
+It was the standard talk of men coming off a hard watch. Shipments came up from the southern gate every few days, carrying liquor, smoke, and anything else a soldier might use to forget the thing he stood against.
+
+"Maybe," Mehmed said, though he wouldn't. Aisha hated the smell of smoke. "Maybe just to sit. Not to—"
+
+The screaming started.
+
+It came down the inner corridor of the wall, an officer's voice cracking. "All hands to the wall! All hands! Imminent attack, every soldier to his post!"
+
+Mehmed stopped on the stair. The warmth went out of him.
+
+"A second one?" Hassan's complaint was automatic, but his face had already changed. "In one day?"
+
+"Rare," said an older soldier pushing past them, climbing against the flow. "Rare. But it happens."
+
+It had never happened to Mehmed. Three months, and never twice in a day. His mana was a dry well. His arms shook from the morning. But he turned and climbed, because the officers were screaming and the wall was the wall.
+
+He had reached the top of the stair when the second shout came, and this one froze the blood in him.
+
+"Split the line! Split the line — we have two! Two breaches! Half of you to the southern gate, move, MOVE—"
+
+"Two?" Hassan's voice was not joking anymore. It had gone high and thin. "Two at once? That's not—"
+
+"Don't stop!"
+
+A hand caught Mehmed's shoulder and shoved, and the current of bodies took him, swept him off the eastern wall and down and across, through the inner ways toward the south.
+
+He came out into the southern gate plaza in time to watch the world end.
+
+A lance of green light swept across the center of the open square at the height of a man's chest.
+
+Where it passed, his people stopped being people.
+
+He saw Tariq, who had taught him basic sand magic, simply come apart, the flesh sheeting off his bones in the time it took to blink and the bones themselves gone to gray smoke before they could fall. He saw a whole knot of common mages, ten of them, fifteen, erased in a single sweep, their shapes printed on his eyes for one heartbeat as black silhouettes and then nothing, nothing.
+
+"My God," Mehmed said. The words came out of him without weight. "My God, my God—"
+
+His legs gave a violent shake beneath him. They wanted to drop him to the ground. They wanted to fold and spill him onto the stone.
+
+In the gateway sat the thing that had done it. A beetle. A beetle the size of a temple, wedged between the great bronze doors with its legs braced against the arch, and behind its grinding mandibles the green light was already pooling again, gathering for the next sweep.
+
+"Keep attacking! KEEP ATTACKING!"
+
+The officers' voices were ragged with terror of their own, but they kept barking, and the soldiers kept casting. A soldier who stops casting is a soldier who has decided to die. Sand hammered up against the monster's flanks and burst apart on the carapace like water against a cliff. The Ashkeri darted in and out beneath it, white shapes flickering between those tree-trunk legs, hacking at the joints with their curved blades and accomplishing nothing.
+
+Somewhere behind him, far across the city, Mehmed could still hear the other one. The crash and grind of the second Titan. Two of them. Two at once, and the wall split in half to meet them, and neither half was enough.
+
+We're going to die, he thought. We're spread too thin. There's no power left. We're going to die.
+
+His eyes filled. The plaza swam and blurred, the green and the white and the gray smoke running together. He couldn't even see the thing that was going to kill him. He thought of Aisha. He thought that he had left the house this morning without a word worth keeping, with only a grunt and a kiss on her hair, and that she would never know what the last of him had been.
+
+I didn't even say anything to her. I didn't even—
+
+Through the blur, he saw someone run into the plaza.
+
+One man. Running alone toward the monster, into the killing ground that had already swallowed thirty better men.
+
+He moved wrong. That was the first thing Mehmed's stunned mind could fix on. He moved wrong, too fast, too smooth, sliding under the sweep of a leg, bending around a spray of the hissing acid, threading the green-light's path. Every step should have killed him. None of them did.
+
+"He's going to be crushed," a soldier breathed somewhere beside him. "He's mad. He's going to be crushed—"
+
+The man reached the belly of the thing. The soft pale seam under all that armored weight. He stopped. He planted his feet in the gore-slick stone, and raised a sword.
+
+A straight sword. A long, straight blade, nothing like the curved steel the Ashkeri carried.
+
+Mehmed knew it. Even through the tears, even across the dying plaza, he knew the white hair and the straight blade.
+
+It's him. The one from this morning. The noble who—
+
+The sword touched the Titan.
+
+Fire.
+
+Everything became fire.
+
+It did not start at the blade and spread. It was simply there, all at once, a blaze that erupted out of the ground and the man and the steel in the same instant. Blue at its heart, white at its raging edges, a flame so pale and so hungry it hurt to look at.
+
+It climbed. Up the sword. Up the man's arms. Over his whole body until he stood inside a roaring pillar of it.
+
+And up into the Titan.
+
+The beetle screamed.
+
+Mehmed had not known the things could scream. It had no voice, only that grinding mouth and that murdering light, but it screamed now, a sound that drove into the teeth and the spine, a sound of something that had never in its mindless eternal life been hurt and could not understand what was happening to it.
+
+The pale flame poured up into the soft belly and spread along the underside of the carapace. The vast bulk sagged, sloughing, melting, the legs buckling one after another as the fire ate upward.
+
+On the man's back, the fire gathered itself.
+
+Two great plumes of it rose from his shoulders, arcing up and out, curving, taking a shape that Mehmed's stunned mind reached for and found in the old stories his grandmother had told.
+
+Wings.
+
+Wings of pale fire, spread wide against the dusk, framing the small white-haired figure in a halo of devouring light while the temple-sized horror came apart and dripped and died around him.
+
+An angel, Mehmed thought. The wings of a phoenix.
+
+His legs gave at last. He went down onto the scorched stone, and he was not alone. All across the plaza the soldiers were falling to their knees, faces turned up into that terrible blue light, mouths open.
+
+"Hail the Savior," someone wept. "Hail the Sultan—"
+
+Because what else could it be. What else could stand inside a Titan's death and wear wings of fire but one of the blood of the founder, one of the great old line, a mage of eight Circles.
+
+A miracle. A miracle with their own eyes.
+
+"Hail the Sultan," Mehmed said, and the tears ran freely. He pressed his forehead to the warm stone and he said it again, and the whole broken plaza said it with him.
+
+"Hail the Founder. Hail the Sultan. Hail the Founder."

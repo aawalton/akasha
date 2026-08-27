@@ -1,0 +1,827 @@
+---
+id: 7990f4a5-430d-5c05-b4c6-693032b78854
+page-type-slug: story-chapter-royal-road
+title: "Chapter 111: Shadow Roads, Take Luna Home!"
+slug: 0112-chapter-111-shadow-roads-take-luna-home
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 112
+ownLength: 2937
+unit: words
+publishedAt: 2026-03-17
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3163171/chapter-111-shadow-roads-take-luna-home"
+royalRoadId: "3163171"
+---
+
+PoV Luna
+
+The plains stretched wide and easy beneath the afternoon sun.
+
+After so much time spent inside tunnels and forest shadows, the open plains felt so… big! The grasses rolled in long waves to either side of the trekking group, bending under the steady wind. Somewhere far behind them the forest still stood dark and dense, hiding the broken Ant nest and the busy camp that would remain there for days yet.
+
+But Luna’s pack was already on the way back to town!
+
+The human nest was important.
+
+It was the bestest source of food and spice!
+
+Luna nodded sagely to herself.
+
+Food, spice, and Mr. Stall Owner, able to make some awoomazing meals!
+
+And all Luna needed was some shinies!
+
+Her tail wagged just thinking about what tasty goodies they would be able to make with all the strong prey meat Luna now had!
+
+She walked a little ahead of the others, boots crunching softly against the dry road while her nose twitched happily in the wind. So many scents drifted past now that Luna could truly appreciate without the heavy stink of Ant pheromones marring everything.
+
+Dry grass!
+
+Warm stones, moist dirt, and the scents of upturned earth here and there.
+
+And food!
+
+Faint, but unmistakeable.
+
+Hehe.
+
+There was always food somewhere!
+
+Luna hummed softly to herself and spun once mid-step before skipping forward again.
+
+Behind her the pack walked at a steady human pace.
+
+…Which meant not too fast at all!
+
+But still faster than before.
+
+So that was okay!
+
+They were learning.
+
+Not everybody could be an awoomazing zooming genius like Luna!
+
+It was still a little boring–
+
+But that’s what snacks were for!
+
+Nomming on her precious jerky, Luna’s eyes wandered places.
+
+Searching for something fun–
+
+Syliana’s voice drifted forward, and Luna’s ears immediately perked up.
+
+“You did very well during the expedition,” she said calmly. “Leading all those ant groups must have required quite a bit of patience.”
+
+Luna puffed her chest out proudly at the praise.
+
+“Yes! Luna is a very controlled wolf!”
+
+Trianna snorted behind her.
+
+“Controlled is… one word for it.”
+
+Sepio chuckled.
+
+“Let the girl celebrate.”
+
+Syl only smiled faintly before continuing.
+
+“Still, there is something I wanted to speak with you about while we have the quiet road.”
+
+Luna slowed slightly and turned around, walking backwards now so she could see them.
+
+“Yesh?”
+
+Syl tapped the base of her staff lightly against the road as she spoke.
+
+“Skills.”
+
+Oh!
+
+Luna perked up instantly.
+
+Skills were excellent things!
+
+They made biting better.
+
+And running faster!
+
+And sometimes made humans look extremely confused too!
+
+Syl continued.
+
+“Many people believe the System simply grants them when they are ready. Yet that is… only partly true.”
+
+Ray glanced sideways at her with mild interest.
+
+“Not entirely wrong though.”
+
+“Not entirely,” Syl agreed. “But skills never truly appear from nothing. Most begin as repeated actions. Habits. Techniques.”
+
+Her gaze shifted toward Luna.
+
+“Things you do often. Things you focus on strongly. And ultimately… Those you really really want.”
+
+Luna tilted her head.
+
+“So Luna bites many times… And wants to bite better. Much much better!”
+
+“Yes.”
+
+“And System makes bite better?”
+
+“Correct, if you try and want it hard enough. But you have to try. To attempt to at least make them manifest without one.”
+
+Luna nodded sagely.
+
+Yes!
+
+That made sense, and matched what Luna did perfectly!
+
+Trianna stretched her arms behind her head as she joined in.
+
+“And that is why so many people out there fail to even get some of the most basic skills out there. It’s not enough to run, you also need to want to do it. And think about how to do it better.”
+
+Sepio nodded.
+
+“Direction matters too. It helps if you try shaping it toward a specific outcome.”
+
+Syl gestured lightly.
+
+“Indeed, intent is important. Still, the result needs to be possible for a Skill to form. And in many cases doing the action happens before the Skill even forms. It is perhaps the most confusing aspect of the System. Though it certainly makes sense in hindsight.”
+
+Ray added with a small smirk,
+
+“Otherwise you would just get weird half-skills doing something very specific and slightly useless.”
+
+“Like your coin flick trick?” Trianna teased.
+
+“What? No! That trick is very much a proper skill!”
+
+“For showing off.”
+
+“Tactically showing off! There is a difference!”
+
+Luna tuned out the funny bickering her pack did, focusing very seriously on this important knowledge instead.
+
+Apex Predator focus!
+
+Hum-hmm!
+
+So–!
+
+Habits, intent, and trying things made big System meanie Skills pawssible!
+
+Like Luna running! Or nomming on jerky.
+
+She chewed reverently, feeling the blessed spice making her tummy all happy and nice.
+
+Ehehe!
+
+Luna was good at making Skills after all!
+
+Her eyes slowly drifted downward.
+
+To the shadow following her feet.
+
+Oh!
+
+So that’s what her Second meant!
+
+Luna lifted one hand up.
+
+The shadows around her boots stirred faintly, covering them up, and – after just a few steps – they were all cleaned up!
+
+Syl noticed immediately.
+
+“Yes, exactly like that,” she said.
+
+“That shadow cleaning trick you discovered earlier is a very good example. And the reason why I brought it up.”
+
+Luna beamed.
+
+“Yes! Shadows help Luna keep clean!”
+
+Very useful!
+
+Let Luna eat all messy and be clean after!
+
+“Indeed. And I believe you could turn it into another Skill. If you just push it in the right direction.”
+
+Luna looked down again.
+
+The shadows moved slightly under her boots as she walked.
+
+But… uhh…
+
+What more could Luna even do with a cleaning trick?
+
+Hmm.
+
+Trianna pointed casually.
+
+“You could try making it thicker. Like armor.”
+
+Sepio added,
+
+“Or something like a shield.”
+
+Ray shrugged.
+
+“Or spiky.”
+
+“Handy extra hands,” Trianna suggested.
+
+“Ooooh!” Luna chirped, excited to try them all.
+
+She lifted both arms.
+
+The shadows around her feet stretched upward briefly.
+
+Then collapsed again like lazy smoke.
+
+“Hm.”
+
+The suggestions were fun, but…
+
+It was hard for Luna to imagine it all properly.
+
+The trick was for cleaning!
+
+So what else could Luna do with it?
+
+She puffed out her cheeks, and tried again!
+
+The shadow gathered.
+
+Spread.
+
+Then puffed apart again.
+
+The road continued beneath them while the party watched with mild curiosity.
+
+Sepio chuckled.
+
+“Looks like shaping clay.”
+
+Ray nodded.
+
+“Except the clay is darkness, wrapping everything up.”
+
+Luna’s ears perked up.
+
+Wrapped up?
+
+Like, maybe…
+
+What was the human word for it again?
+
+Right!
+
+A cloak!
+
+Shadows wrapped around things all the time.
+
+All the things!
+
+People, rocks, trees, and prey!
+
+Luna spread her arms slightly, and let the shadows surge up again.
+
+Their calming touch soothing her mind.
+
+This time it climbed all the way up.
+
+But when she tried to have it hold shape–
+
+It snapped back down.
+
+“Hmph!”
+
+Rude.
+
+Luna tried again.
+
+She imagined the shadows hugging her.
+
+Keeping all the dirt away.
+
+Making water, and rain slide off.
+
+And maybe–
+
+Even blows!
+
+Yes, that would be cool!
+
+The shadows gathered again.
+
+Slowly this time.
+
+They climbed her boots.
+
+Her legs.
+
+A thin veil of darkness wrapped briefly around her waist–
+
+Then slipped away again.
+
+But it was getting closer!
+
+Luna focused harder.
+
+Shadow hug.
+
+Shadow cloak.
+
+Shadow follow Luna!
+
+The darkness beneath her feet suddenly surged upward.
+
+For a brief moment the shadows wrapped around her entire body, forming a thin flowing mantle before settling close against her form.
+
+Soft.
+
+Cool.
+
+And very sneaky feeling!
+
+Luna blinked.
+
+Oh.
+
+Ohh!
+
+Something inside her mind clicked.
+
+A familiar System warmth spread across her thoughts.
+
+【New Skill Acquired: Shadow Cloak Lv.1】
+
+Her ears shot straight up.
+
+“Oooooh!”
+
+Trianna laughed.
+
+“Well that answered that.”
+
+Luna immediately jumped forward a few steps.
+
+The shadow cloak flowed with her movement like a second skin, billowing slightly behind her.
+
+She turned left.
+
+Then right!
+
+It was so fun!
+
+And nice.
+
+The shadow followed every motion smoothly.
+
+“Ohoho!”
+
+She crouched dramatically.
+
+The cloak darkened slightly.
+
+Then faded when she relaxed.
+
+Luna ran ahead a few strides.
+
+Then back again.
+
+The cloak stayed with her all the while.
+
+Oh yes!
+
+This felt very nice.
+
+Very sneaky!
+
+She beamed proudly at her pack.
+
+“Luna got new Shadow Skill!”
+
+Ray whistled quietly.
+
+While Trianna and others smiled and yelled their congratulations.
+
+Syliana smiled too, her eyes fully focused on Luna running around happily.
+
+But her words were meant only for the others.
+
+“I hope none of you tell her it should have taken her days of constant practice.”
+
+The others just nodded.
+
+Some things were better left unsaid.
+
+***
+
+The road continued.
+
+And continued.
+
+And continued some more!
+
+At first Luna didn’t mind.
+
+Her new Skill was fun! And Luna played with it a lot!
+
+It made rolling around in the mud into slippery fun.
+
+And nothing would stick to Luna after!
+
+Very nice.
+
+It helped Luna reflect things too, just a little bit.
+
+She tested it with a pebble!
+
+It slid slightly off-course.
+
+…Which was fine, it was a Skill now!
+
+All Luna needed now was to make the number thingies go up!
+
+Yes.
+
+Still…
+
+Now that Luna was done doing the testing and running, and checking, and stuff!
+
+It was just–
+
+A little too quiet.
+
+A little too…
+
+Boring.
+
+Luna dragged her feet for a few steps, letting the Shadow Cloak slip away as she sighed dramatically.
+
+“Just walking is boring. Booooring! Wooooo…”
+
+Ray snorted behind her.
+
+“You’ve been running around an Ant warzone for days.”
+
+“Yes! That Luna did!”
+
+“That usually tires people out.”
+
+“Hmph! Luna is not people.”
+
+Sepio chuckled.
+
+“That part we’ve noticed.”
+
+Hmph!
+
+Luna huffed and crossed her arms while puffing up her cheeks.
+
+Then she reached into the familiar darkness behind her thoughts.
+
+Her Maw opened.
+
+A moment later she pulled out a strip of dried meat and took a thoughtful bite.
+
+Chew.
+
+Nom.
+
+Mhm.
+
+Very nice!
+
+Trianna spotted it immediately.
+
+“Oh, here we go,” she said with a grin. “Bored Luna activates emergency snacks.”
+
+Luna chewed slowly while glaring at her.
+
+“Snacks are important Apex Predator fuel!”
+
+“Of course they are.”
+
+Ray folded his arms.
+
+“I’m impressed you lasted this long.”
+
+Sepio nodded solemnly.
+
+“A full fifteen minutes of peaceful travel.”
+
+“Record breaking.”
+
+Luna glared harder.
+
+Then she took another bite.
+
+Very aggressively.
+
+Chew chew!
+
+Behind her, heavy boots shifted slightly on the road.
+
+Veric had been quiet for most of the walk, as usual. The large warrior moved steadily with the group, his pace relentless, armor clinking softly with each step.
+
+Now he stepped forward.
+
+Luna barely noticed before a big hand ruffled her hair.
+
+“Hey!”
+
+She looked up just in time to see him crouch slightly beside her.
+
+And then–
+
+The world jumped.
+
+Suddenly Luna was in the air.
+
+“Wha–!”
+
+A moment later she landed securely on Veric’s back as he stood up again, her legs dangling easily at his sides.
+
+For half a second Luna blinked in surprise.
+
+Then–
+
+“Wheee!”
+
+Her arms wrapped instantly around his head as she burst into delighted laughter.
+
+“Flying again!”
+
+Veric adjusted his grip under her legs and continued walking like this was perfectly normal.
+
+“Piggyback,” he rumbled, correcting her.
+
+Trianna burst out laughing.
+
+“She’s bored walking, so you pick her up? That’s so cute!”
+
+Ray shook his head slowly.
+
+“A terrible mistake.”
+
+Sepio grinned.
+
+“You’ve given her elevation.”
+
+Ignoring the others, Luna bounced slightly on Veric’s shoulders, looking all around from her newest vantage point. Veric just continued walking ahead.
+
+And it was only now that Luna realized that humans might be slow… but each stride took Veric far!
+
+And not needing to walk herself made it nicer somehow!
+
+Ehehe!
+
+She leaned forward and patted the top of his head.
+
+“Veric is nice!”
+
+“Mm.”
+
+But before anybody could interject, Luna was already digging into her Maw.
+
+“Oh!”
+
+She pulled out another snack and held it proudly in front of his face.
+
+“Try this!”
+
+Veric glanced at it briefly.
+
+“…What is it.”
+
+“Meat!”
+
+“That doesn’t narrow it down,” Ray commented dryly.
+
+“Very good meat!”
+
+There was a pause.
+
+Then he opened his mouth and accepted the offered bite with stoic resignation.
+
+Good food made Luna happy!
+
+So after sharing the love, Luna chomped into her own portion.
+
+Mhm!
+
+Eyes closed, Luna swayed lightly from side to side, enjoying the taste of meat and spice gracing her mouth.
+
+It felt perfect!
+
+Trianna grinned.
+
+“Now I’m a little jealous.”
+
+Sepio rubbed his temples.
+
+“Veric has become the food tester.”
+
+Luna gasped happily.
+
+“Yes!”
+
+She immediately dug into the Maw again.
+
+“Oh! Try this one too!”
+
+Another bite appeared, sandwich this time.
+
+Veric sighed very quietly, but accepted the ‘precious offering’ anyhow.
+
+Luna beamed.
+
+“See!”
+
+And as the party walked across the wide plains toward the distant town, Luna happily continued nomming on every kind of food she had stored up.
+
+All while sharing bites with Veric and narrating every snack reaction from her moving base of operations.
+
+It was all… very nice!
+
+***
+
+PoV Derek, the Town Guard
+
+The weather was finally good again.
+
+Derek leaned back against the gate post, letting the sun sit comfortably on his shoulders while a light breeze carried away the last damp bite of the past few days. The road had dried, the mud long since settling into something manageable, and for once his post didn’t feel like a punishment.
+
+People were coming through again too.
+
+Farmers first. Then a cart or two. Even a pair of merchants earlier, which meant things were properly moving again.
+
+Nice.
+
+And as his lunch break arrived, he took his sweet time with the bread in his hands, slicing it clean and even. There was little need to rush.
+
+And with no rain soaking through his uniform, the little ritual felt extra special.
+
+A good day to enjoy a succulent meal.
+
+His gaze drifted briefly toward the road beyond the gate.
+
+He wondered how much longer the expedition would take out there. According to his adventurer friend, it could take well over a week – depending on nest size, and how far it was.
+
+Which meant more quiet days ahead. His already quiet posting felt even more deserted without that noisy bunch mulling about.
+
+He wondered how it was going.
+
+Hopefully well.
+
+Fewer giant ants near the city was generally considered a good thing.
+
+And once they were done…
+
+The town would probably get even livelier.
+
+Though, truth be told…
+
+It already had, lately.
+
+Derek huffed a quiet laugh under his breath as he reached for the fillings.
+
+Didn’t even need to think long about the why.
+
+A certain little speedy troublemaker came to mind immediately.
+
+Silver haired, always cheerful, and looking at every opportunity to grab more food with those piercing golden eyes.
+
+The town had felt different ever since she showed up. More animated, and full of life. Shaken up from its stupor just enough to wake people up.
+
+And he, too, was one of the ‘victims’ of that unpredictable fluffball.
+
+He glanced down at the sandwich he was assembling.
+
+He used to just… make them.
+
+Sure, he put in the effort to make them good. To make them look good. The taste a reward on its own.
+
+But it was, more often than not…
+
+Quick. Simple. Just merely good enough.
+
+But now?
+
+Now he adjusted the layers slightly, pressing the meat into place with more care than strictly necessary. Experimented with condiments until ingredients fit just right.
+
+All because a certain someone had called it–
+
+“Awoomazing!”
+
+Derek snorted softly.
+
+Yeah.
+
+That.
+
+So now he tried just a little bit harder.
+
+Nicer cuts, slices aligned just right. Filling balanced, not too much, and not too little. Structure holding just right.
+
+A sandwich made greater than the sum of its parts.
+
+A delight for the senses.
+
+Yep, that felt just right.
+
+Another nugget of sandwich wisdom to his repertoire. And a repertoire he needed, since his new little friend consumed his sandwiches and sandwichy philosophies with equal zeal.
+
+So what other ones could he come up with?
+
+He frowned slightly as he added the final layer.
+
+“…Alright,” he muttered under his breath. “If each sandwich is… an idea…”
+
+His knife hovered for a moment.
+
+“…Then what would this one represent? What wisdom do you hold, o mighty sammich?”
+
+He eyed it critically.
+
+Good meat. Solid base. Clean layering.
+
+Reliable. Dependable.
+
+“…Stability comes from the layers a sandwich holds?” he tried.
+
+He immediately grimaced.
+
+“Too stiff.”
+
+He adjusted the top slice slightly.
+
+“…Sandwich of–”
+
+“Hiii–!”
+
+Derek flinched.
+
+The knife stopped mid-motion as his head snapped to the side.
+
+And there she was.
+
+Right next to him.
+
+Bright. Grinning. And completely unbothered by the very concept of approaching a guard like a normal person.
+
+Golden eyes locked onto him.
+
+No – onto the sandwich.
+
+Of course.
+
+“That smells delicious!” Luna chirped happily.
+
+Derek stared at her for a long second.
+
+Then exhaled slowly through his nose.
+
+“…One day,” he said, very calmly, “could you perhaps approach from a direction I can actually see coming?”
+
+Luna tilted her head.
+
+Considered that.
+
+Then nodded.
+
+“Yip yep! If Luna remembers!”
+
+Her gaze dropped immediately back to his hands.
+
+“…New sandwich?” she asked, very serious.
+
+Derek looked down at it too.
+
+Then back at her.
+
+“…Indeed.”
+
+Luna’s eyes lit up.
+
+“Oh!”
+
+A pause.
+
+Somehow, Derek already knew what came next.
+
+Luna’s smile brightened, her tail wagged hopefully, and the fateful words fell.
+
+“Trade?”
+
+Derek, Town Guard, Great Sandwich Maker, and now apparently… A fortune teller too.
+
+He snorted, cut his sandwich in half, and handed the girl her share.
+
+The world was truly strange. Full of many layers, weird and new.
+
+And this one, while small, brought joy for two.

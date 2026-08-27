@@ -1,0 +1,345 @@
+---
+id: 527a321e-a41e-562f-8733-f5934edec967
+page-type-slug: story-chapter-royal-road
+title: "Chapter 17: Fast as Howl"
+slug: 0017-chapter-17-fast-as-howl
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 17
+ownLength: 1825
+unit: words
+publishedAt: 2025-09-04
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2574469/chapter-17-fast-as-howl"
+royalRoadId: "2574469"
+---
+
+PoV Luna
+
+Luna walked slowly into the night, belly round, tongue out. Chewing helped her think.
+
+But now the chewing was done. Her belly had settled. Her thoughts were back to nonsense.
+
+She flopped down once, flopped around twice, then rolled upright in a cloud of dust and dead moss. Her legs kicked into a lazy stretch. Back arched. Tail curled. Jaw cracked open in a yawn so wide it hurt a little.
+
+There were plenty more places to explore. Who knew just what else she would find?
+
+“Time to learn!” she declared, voice bouncing off tree trunks. “Fastest way to learn is to run!”
+
+Her ears perked. “Everywhere!”
+
+She didn’t wait for a better idea.
+
+Just bolted ahead!
+
+Fast as howl.
+
+Her paws slammed into the ground, flinging dirt behind her. Trees blurred. Wind pulled at her fur. She ducked under a branch, spun around a root, leapt over a rock twice her size. A vine caught her ear – Rude!!! – but she didn’t stop.
+
+Speed felt like power. Like sharp teeth and strong legs. Like something was chasing her but never catching up. No, like she was the one chasing everything.
+
+The woods welcomed her. Leaves parted just in time. Birds screamed and fled. A squirrel dropped its acorn in panic. She considered stopping to eat it but didn’t. Momentum was tastier!
+
+【Jump Lv.7 → Lv.8】
+
+She cleared a gap between boulders and yipped in delight. Then immediately tripped on a bush.
+
+Tumbled.
+
+Hit the ground tail-first and skidded to a stop in a patch of sticky weed-things.
+
+Silence.
+
+Then laughter. Loud, sharp, wild.
+
+"Fastest way to learn," she wheezed, tugging a burr out of her fur, "is to fall really funny."
+
+She kicked back to her paws and sniffed the air.
+
+A breeze carried rabbit-scent. Weak. Faint. Not close enough to chase.
+
+Didn’t matter, she wasn’t here for weak prey.
+
+She turned and ran again, zigzagging just because it felt right. Every bound lit up her muscles. Every turn sharpened her balance. Even her tail helped, swinging wide to shift her weight when she veered too hard.
+
+【Dexterity +1】
+
+“Ha!” she barked, bounding off a fallen log. “Learning is amazing!”
+
+She hit the ground with a clean landing and bolted straight into a low arch of roots. Slammed her face. Sat down hard. Blinked.
+
+【HP -1】
+
+“Learning hurts,” she muttered, rubbing her snout with one muddy paw.
+
+But even the sting tasted like progress, and soon she was bounding through the woods once more.
+
+The forest began to thin. Dappled light spilled ahead. A slope rose in the distance, covered in short grass and heat. Her eyes narrowed.
+
+Hills.
+
+She didn’t think – just chased the incline.
+
+Each pawbeat struck louder. The world narrowed into light, wind, and breath.
+
+The crest came fast. She leapt over it.
+
+Sailed through air like she was part of the sky.
+
+And landed in a patch of dry thistles.
+
+"OW."
+
+Still, she laughed. Again.
+
+This was better than resting. Better than planning. This was leveling with her legs. Chewing the world with her paws.
+
+Luna stood tall on the hilltop, chest heaving, tongue lolling out like a flag of victory.
+
+From here she could see forever. Trees stretched like a moss ocean. A river glinted. Distant shadows moved.
+
+"Tomorrow," she panted, “I race the wind.”
+
+Then she looked at where she had just come from. She only knew the edge of the bog. It was time to learn more!
+
+***
+
+The bog blurred past. Slime. Roots. Angry water. Angry frogs.
+
+Luna galloped along the edge, legs pumping, paws slapping wet moss and half-sunk logs. She kicked up muck and laughter in equal measure.
+
+One bloated toad reared up and croaked. She barked back without slowing.
+
+“I’m faster!”
+
+The frog blinked once. Then croaked again, quieter this time.
+
+She leapt a patch of bubbling sludge, landed crooked, slipped, caught herself on a rock, and kept sprinting.
+
+From the bog, the forest deepened. Thicker trees. Cooler air. Smells like moss and squirrels.
+
+A rabbit darted into her path.
+
+Wrong move.
+
+Luna snapped sideways and bit it clean mid-stride. Crunch. Chew. Gone. Didn’t even stop.
+
+“Snack speed!” she giggled, nose twitching.
+
+Next came a rodent of some kind – sleek, too shiny, probably nasty-tasting – but her claws were already swinging. She didn’t even slow.
+
+Just struck.
+
+The impact sent it tumbling. Her paw buzzed with the power of momentum and motion colliding.
+
+【New Skill Acquired: Run Lv.1】 【Momentum Claw Lv.4 → Lv.5】
+
+Her ears perked, mouth still open. “Oh!” she wheezed, breath shallow but pleased. “Run makes Claw stronger!”
+
+Did Luna stop to consider the implications of motion-enhanced melee tactics?
+
+No.
+
+Too busy running!
+
+She ducked under a branch and launched herself off a sloped root, claws skimming bark, tail straight like a javelin.
+
+More speed. More prey. More levels. More bite.
+
+“Faster, faster, faster!” she sang.
+
+The wind slapped her tongue out the side of her mouth. She didn’t mind.
+
+【Run Lv.1 → Lv.2】
+
+Faster meant learning. Faster meant skill. Faster meant escaping anything too stupid-big to fight yet.
+
+She carved a path through the woods like a streak of greased fur, bolting past startled birds, over confused bugs, around angry trees.
+
+One of those birds tried to poop on her.
+
+She barked at it mid-air.
+
+Then, she found another hill.
+
+A big one.
+
+Luna attacked it like it was prey too – full charge, no breath, no brakes.
+
+Halfway up, her lungs turned to jelly. Her tongue hung sideways. Her thoughts blinked in and out.
+
+But her legs kept moving.
+
+The world went fuzzy and bright, as leaves flicked past.
+
+Branches tickled her sides.
+
+Her breath came in hiccups.
+
+“Too fast,” she panted, delirious. “Can’t feel tongue. That’s fine. Didn’t need it.”
+
+Her paws reached the top. She didn’t stop.
+
+She flung herself down the other side in a controlled fall that technically counted as running.
+
+A squirrel screamed.
+
+Luna laughed, a breathless wheeze of joy.
+
+Faster, still.
+
+The trees spun past in streaks of green and brown.
+
+She was a shadow. A streak. A dart-shaped force of curiosity and hunger and feral glee!
+
+And she wasn’t done yet.
+
+Another ridge rose ahead.
+
+She ran straight for it, tail flagging behind like a comet’s trail.
+
+“Fastest. Thing. Alive!” she barked.
+
+Then tripped on a stick.
+
+And vanished–
+
+Shadow Step!
+
+–Reappearing upside down in a patch of ferns. Rolled. Spun. Stuck the landing. Sort of.
+
+Luna stood up, leaves in her teeth, eyes wide with joy.
+
+“Still counts.”
+
+And she kept going.
+
+Bigger things loomed.
+
+She darted between twisted trunks and sinking hollows, breath sharp, heart thumping like a war drum. Mud splashed up her legs. Air hummed with tension.
+
+She dodged a vine whip. Leapt a shallow pool. Skidded under a fallen log, then bolted again.
+
+【Run Lv.2 → Lv.3】
+
+They still saw her. Still chased her. Still almost bit her tail off.
+
+The ground trembled behind her.
+
+And as she ran, she soon found many more enemies to bite!
+
+【New Enemy Identified: Mudmaw Leechspawn】【New Enemy Identified: Croakshell Bulwark】【New Enemy Identified: Fleshridge Boar】【New Enemy Identified: Dripvine Horror】【New Enemy Identified: Swamphowler】
+
+She didn’t know what any of that meant. But it all sounded terrible.
+
+One of them snarled. Another sloshed. A massive jaw slammed shut just behind her with a thick, wet snap.
+
+She flinched and Shadow Stepped sideways.
+
+Vanished.
+
+Reappeared behind a log, chest heaving, fur spiked with fear and swamp gunk.
+
+"Too big, too loud, too NOPE!" she snapped, then sprinted again.
+
+Luna burst through the brambles like a furry comet, tail flicking victorious, a flag of survival. A roar echoed after her, deep and wet and furious.
+
+Whatever that was, it didn’t like missing lunch.
+
+Her legs blurred.
+
+She wove through roots and rocks, past thick reeds and twisted trees, mind blank with instinct.
+
+A low branch caught her across the shoulders. She growled and ducked through it, then launched off a slope and caught air for one glorious heartbeat.
+
+Then a tree trunk got in the way.
+
+Thunk. Bounce. Roll.
+
+Mud in her ears. Leaves in her mouth. Stars in her brain.
+
+But she didn’t stop!
+
+Luna scrambled up, spat a beetle, and kept running. Fast. Faster.
+
+The air thinned. Trees thinned.
+
+A sudden incline. Sharp and steep.
+
+She hit it like an arrow.
+
+No more swamp. No more gurgling.
+
+The roaring faded behind her.
+
+And then she broke free – out of the dark muck and into a sharp-breezed, sun-splashed clearing of stone and lichen.
+
+She stumbled.
+
+Collapsed.
+
+Fell into a heap of panting fur and twitching paws, tongue lolling, sides heaving.
+
+“Fast as… howl…” she wheezed, eyes wide, staring at the blue above.
+
+Silence.
+
+Then her own giggle, soft and wheezy.
+
+Then a full-body laugh, wild and giddy and proud.
+
+She had lived. Outrun monsters. Earned a new skill with her paws alone.
+
+Mud stuck in her claws. Blood smeared her shoulder. Her tail still twitched with leftover adrenaline.
+
+And she didn’t care.
+
+“Too fast for you!” she howled at the sky, still breathless. “Fastest bite in the woods!”
+
+She blinked at the canopy above, chest heaving, paws twitching from ghost-steps she hadn't taken.
+
+Leaves rustled like applause. The breeze kissed her ears. Her eyes sparkled.
+
+She had seen so much.
+
+A pond in the distance, its secrets unknown. Trees with weird faces. Mushrooms that spat when stepped on. And so much more she had yet to see.
+
+Too much. Too big. Too dangerous.
+
+Too awesome!
+
+Except the frogs.
+
+The frogs were just right.
+
+Luna snorted and rolled onto her side, still half-laughing. One of her back legs kicked out like it wanted to keep running on its own.
+
+“Frogs are training. Big frog is boss frog. All other frogs are... appetizer frogs.”
+
+She licked her paw, then her side, then her other paw, because they were all equally gross from running.
+
+The swampy taste of old muck still clung to her tongue, but it felt earned. Tasted like progress. Like adventure.
+
+Of salt and wind and almost dying from going too fast.
+
+She looked toward the trees she hadn’t seen before. Beyond them? Who knew? Maybe even better frogs.
+
+Her eyes narrowed with intent. “Gotta train. Get faster. Bite better.”
+
+The stars above flickered like faraway campfires. Distant. Delicious-looking. Probably not edible. Yet.
+
+Luna squinted at them just in case. “Someday,” she muttered.
+
+She stood, shakily, tail flicking in slow rhythm. Her paws still tingled. Her legs wobbled a little. Her grin didn’t.
+
+The world was huge. And it was hers to chew!
+
+She yawned and sniffed at a bush, found nothing, bit a stick anyway.
+
+Then, with a stretch long enough to pop her spine, she turned toward the dark.
+
+“Tomorrow,” she said. “Faster. Harder. Froggier.”
+
+The shadows welcomed her with open arms. The forest didn’t argue.
+
+Luna bounded off again, slower now, quiet and soft. Still smiling.
+
+The world had too much in it not to bite.

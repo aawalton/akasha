@@ -1,0 +1,147 @@
+---
+id: 289ec819-dbb8-58fb-bb76-881a8840d6c0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 27: This is What You Have Been Waiting For"
+slug: 0027-chapter-27-this-is-what-you-have-been-waiting-for
+partOf: underworld-bread-mage-yuri-progfan-slice-of-life
+position: 27
+ownLength: 1548
+unit: words
+publishedAt: 2026-08-16
+link: "https://www.royalroad.com/fiction/179650/underworld-bread-mage-yuri-lit-rpg-slice-of-life/chapter/3821314/chapter-27-this-is-what-you-have-been-waiting"
+royalRoadId: "3821314"
+---
+
+Around the dinner table, the three young ladies gathered once more. And as usual, Marina sat next to Hecate, with Mellie across from them.
+
+“I’m not the biggest talker before a meal, and I don’t really have any introductions or prayers to say, so why don’t we just enjoy the food in front of us?” Marina gestured as she picked up a two-pointed wooden fork.
+
+Both Mellie and Hecate soon followed.
+
+The slices of pork glistened with their own juices that shone from the surface. A sign of success. Without hesitation, Marina took a bite. And just like she had wished for, the meat was nicely salted with bold flavors from the herbs, and a shy hint of fruity sweetness from the marinade. But most importantly, it melted in her mouth with little to no chew. She then tasted the salad, which was undoubtedly the dish that worried her the most. And to her surprise, it had the balance of flavors she was looking for. The mixture of wild greens had a natural acidic personality, paired with the naturally fragrant herb oil for a subtle elevation in the complexity of flavors; it complemented the richness of the pork nicely.
+
+Lastly, the bread. Her first real piece of bread as a future [Bread Mage]. Crossing her fingers in her mind, she took her first bite. The texture was what she had expected it to be: tough and crumbly. It was very much not the fluffy type of bread she was used to. This flatbread was closer to a cracker than actual bread, though she believed it to be caused by the hydration process when she first formed the dough. All in all, it was passable, still miles ahead of the bee bread that still haunted her to this day.
+
+“I don’t even know what to describe this…” Mellie said, devouring all that was on her plate. “I didn’t know food could taste this good!”
+
+Marina looked up from her plate only to catch the sight of Mellie stuffing everything into her mouth. The entire plate of food was gone by the time she had only taken her first bites.
+
+“Don’t forget, Mellie, that you cooked it this time,” Marina said, setting down her fork as she finished the meal. “Hecate,” she turned to her right, “What do you think?”
+
+“I haven’t tasted anything like this in a really long time,” Hecate said. “It is incredible. I’m also surprised.”
+
+“Oh, thanks.” Marina beamed. “I just thought I’d ask cuz you didn’t look like you were enjoying it much–”
+
+“I am enjoying it, my dear, why wouldn’t I be?” Hecate began to work through her plate again. “It is delicious, as I’ve said.”
+
+“My bad, ” Marina said, continuing with her own plate of food.
+
+Melli got up from her seat. “I will get started on the cleanup, but everything was so good!”
+
+“Thank you, Mellie.” Marina nodded with a smile.
+
+*****
+
+Without the assistance of cleaning products, scrubbing the dishes made Marina hate the chore even more than before. More than that, they had to be conservative in their use of water; otherwise, a trip to the village well would’ve made the task even more tedious, since the water from the river had been proven to be deadly to the Bee-ple and the other creatures who lived within the forest grounds, but for reasons unbeknownst to Marina, the underground reservoir was uninfected.
+
+After some tiring housekeeping, the urge for a moment of rest launched Marina onto the bed. Submerging her face into the soft fabric that lingered with the scent of Hecate’s pretentious perfume.
+
+“Tired, my dear?” A mist shrouded Hecate as she undressed herself.
+
+“You know, maybe I shouldn’t be so critical of city life.” Marina sat up.
+
+“How so?” Hecate asked. “I was told the walls broke people down.”
+
+“They really do, but washing dishes by hand breaks somebody down even faster, especially without soap,” Marina replied, shying away from Hecate’s silhouette. “You want to experience it sometimes?”
+
+As her assistant, Hecate should’ve been the one to do the dishes and not her. It only made sense that way.
+
+“Thanks for the offer, but I personally have more meaningful tasks that I need to perform.” Hecate walked out of the mist in her nightgown.
+
+“Like standing around and looking pretty?” She raised a brow.
+
+“That is… certainly one of them, my dear.” Hecate approached Marina, fixing her crimson eyes on the naive young woman.
+
+Under the vampire’s intense yet intimate gaze, a tinge of lust sparked within her beating heart. It was faint, but unbearable even with her legs tightly crossed.
+
+“W-what…” She muttered, curious as to how it would all go down.
+
+“I can feel the urges boiling within you, my dear.” Hecate stepped closer. “It is raging within me as well…”
+
+“I-I’m not sure…” She gently glanced away. “I have never…”
+
+Hecate rested her palm on Marina’s face. “Regarding that favor you owe…”
+
+“Oh, I–” Blushing, Marina fell silent. “Y-you want to use it for this?”
+
+“Of course, my dear, what other occasion would I save it for?” Hecate whispered, her face inching closer.
+
+“T-that is fine by me…”
+
+“From the first sight of you, the first taste of your blood, I knew I wanted you to be mine, and mine alone.” Hecate’s hands crept their way onto Marina’s waist, gently pushing her down onto the bed. “And now I shall use this favor to solidify our special relationship further. To make you… mine.”
+
+“A-alright.” Marina’s breath grew heavier as she embraced Hecate’s warm body. “W-we can’t be too loud. Mellie is downstairs…”
+
+“That won’t be a problem.” Hecate snapped her fingers, casting a sound barrier around the attic. “No one will be able to hear us.” She smirked.
+
+“W-wait, before we start, I-I want to ask you something.”
+
+“Yes, my dear?”
+
+“I felt as if you weren’t very interested in normal food…” She pulled the edge of her shirt back, revealing the skin around her neck. “I know this wasn’t what we agreed to in the contract, but I’m also worried that you might be starving, so… if you want to…”
+
+“This kindness will get you killed one day, my dear,” Hecate said, slowly tracing her fingers along Marina’s cheek. “But worry not, they’d have to get through me first.”
+
+The fangs pierced through Marina’s skin as blood ran from her neck. Hecate’s soft lips only exacerbated the fire within her heart.
+
+A long night was about to come.
+
+They embraced, their hands roaming over each other with enthusiastic but nervous expressions. Slowly, the nerves faded as they built to a peak. Together, as one, they became.
+
+*****
+
+Wiggling her toes, Marina attempted to move her body, only to be warned by the numbness of her legs. She extended her arm, the only part of her that was still under her control, for the crystal device at her bedside.
+
+9 am. She read the time in her head. I wonder if…
+
+“Good morning, my dear.”
+
+“Oh, Hecate, good morning. I thought you left…” Marina rubbed her eyes.
+
+“Why would I want to leave your side, my dear?” Hecate teased. “Last night was so much fun, wasn’t it?”
+
+Fun was an understatement.
+
+“I-I suppose…” Covering her red face with the blanket, Marina whispered. “It was something I’ve never experienced before, but it was fun.”
+
+“There is a first time for everything, and I’m sure it won’t be our last,” Hecate said, leaning in for a kiss. “So, you know the boy I have been teaching?”
+
+“Mhm.” Marina nodded. “What about it?”
+
+“Yesterday, his family wanted to invite me to a meal, so I told them I could arrive for breakfast today.” Hecate intertwined her hand with Marina’s. “Would you like to come?”
+
+“I’m just unsure of how Mellie might feel,” Marina pondered. “But I would love to.”
+
+“You really are bonding with that girl quite well, aren’t you?”
+
+“It’s not the same as what we have, okay?” Marina said. “It’s just that Mellie sort of reminded me of the person I used to be when I was younger. She is very nice. It’s not fair.”
+
+“I see.” Getting off the bed, Hecate prepared to change. “Ah. I suppose you have seen everything already, my dear, makes everything so much quicker.”
+
+“That is not going to stop me from looking away.” Marina closed her eyes.
+
+“Seriously?” Hecate whined. “You’re such a hard person to please, my dear.”
+
+“I am really not hard to please at all.” Marina rolled her eyes. “I just want to respect my partner’s privacy.”
+
+“Ah. I see. So I have been promoted to your partner now, huh?” Putting on her dress, Hecate asked. “I thought we were already in somewhat of a partnership before?”
+
+“Well, you’re my partner, as in you’re my—” Marina paused. “Lover… there, is that better?”
+
+“Much better.” Hecate giggled. “I shall wait for you downstairs, my dear, or should I say my love?”
+
+“Just go down and wait.” Marina fully wrapped herself in the blanket. “I will be there in a little bit.”
+
+“As you wish, my love.”
+
+Ugh, another honorific I need to get used to. Marina began rubbing her legs together. Is this the tradeoff of having a hot vampire girlfriend? Can I feel bad for myself?

@@ -1,0 +1,383 @@
+---
+id: 625bd34b-bf01-51b8-a171-c4d12df8e48d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 50: Vocabulary Maketh a Wolf"
+slug: 0050-chapter-50-vocabulary-maketh-a-wolf
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 50
+ownLength: 1533
+unit: words
+publishedAt: 2025-10-13
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2674034/chapter-50-vocabulary-maketh-a-wolf"
+royalRoadId: "2674034"
+---
+
+PoV Luna
+
+Vocabulary lessons were a battle Luna did not expect.
+
+A long, terrible, ridiculous battle!
+
+When they started, the confusion on her face was so pure that Trianna wheezed out a laugh.
+
+While Syl just smiled in that patient way again.
+
+“Your words. And how you speak them.”
+
+Luna’s brow furrowed.
+
+“Luna’s words fine! Everyone understands Luna!”
+
+“Well…” Trianna started, eyes gleaming with mischief, “most of the time.”
+
+Luna gasped.
+
+“Betrayal!”
+
+The camp burst into laughter, their chuckles mixing with the pop of the fire.
+
+Luna pouted, but didn’t really mind. Laughter was good! Made pack happy. Even if they were being a little mean now.
+
+Not long after that Syl sat across from Luna by the campfire, posture perfectly straight. Her voice was calm in that dangerous kind of calm Luna knew from her mom! It meant she was holding her patience together with both paws and ready to dispense mlems or paw justice, as needed!
+
+Luna instantly sat opposite.
+
+Alert. Serious. And perhaps a little hungry.
+
+There could never be enough jerky, after all!
+
+But she held back.
+
+For now.
+
+Apex predators were always ready!
+
+And she was ready to fight every word thrown her way now.
+
+So of course Syl just had to begin with the big one!
+
+“Luna,” she said slowly, “you have to stop saying gib.”
+
+Luna frowned.
+
+“Why? Gib works fine! Gib spice, gib soup, gib everything!”
+
+“Yes,” Syl said, tone careful, “but the proper word is give.”
+
+“Gib, give – same thing.”
+
+It really sounded the same to Luna!
+
+“No. One is right, one is wrong.”
+
+Luna’s head tilted.
+
+“Which one gib right then? Gib? Gibe? Give?”
+
+“Give,” Syl said, crisp and certain.
+
+“Ok! Give spice then!”
+
+Luna held out both hands, eyes bright, tail wagging fast behind her.
+
+Syl pinched the bridge of her nose.
+
+Trianna burst out laughing and slowly fell sideways.
+
+Sepio muttered from his bedroll:
+
+“She’s got you there.”
+
+Syl exhaled through her teeth, but produced a piece of jerky anyhow. Her Second was the bestest!
+
+“No, that’s not – ugh. We’ll circle back.”
+
+Luna looked around the camp.
+
+“Circle where? Around fire?”
+
+“...Never mind.”
+
+Ray choked on a laugh, hiding it badly behind his cup.
+
+“And Luna, you called us a pack earlier, yes?”
+
+“Yesh!”
+
+Syl’s brow twitched at that, but forged on anyhow.
+
+“The group you’re in – with us – is called a party, not a pack,” Syl explained, determined to see this through.
+
+Luna’s eyes narrowed with suspicion.
+
+“But you’re pack!”
+
+“Party.”
+
+“Pack.”
+
+“Party.”
+
+Luna’s grin grew wider.
+
+“Pack sounds better. Has more bite!”
+
+“Because it’s a word for wolves,” Syl countered, rubbing her temple.
+
+“Exactly! Luna right.”
+
+“No, Luna–”
+
+“See? You say Luna right too!”
+
+Syl froze mid-sentence. Trianna had to roll away from the fire, clutching her stomach. Veric made a low noise that might have been a laugh. Even Ray was wheezing now, shoulders shaking.
+
+“I mean,” Syl tried again, “it’s not wrong, but–”
+
+“Then Luna right!”
+
+Sepio turned to Veric.
+
+“She’s immune to correction.”
+
+Veric nodded solemnly.
+
+“Unstoppable force. A most fearsome foe.”
+
+Syl looked skyward for divine patience.
+
+“Fine. Party-pack hybrid. Whatever makes you happy.”
+
+Luna puffed out her chest.
+
+“Luna’s pack-party! Party-pack? Pack-pack!”
+
+Trianna gasped through laughter.
+
+“Pack-pack wins.”
+
+The argument was officially lost.
+
+But Syl refused to surrender entirely!
+
+“Luna,” she began again, clearly exhausted, “you also can’t keep calling yourself ‘Luna’ all the time.”
+
+Luna blinked.
+
+“But Luna is Luna.”
+
+“Yes,” Syl said, trying again, “but you can also say ‘I am Luna.’”
+
+Luna squinted hard.
+
+“Why?”
+
+“It’s grammar.”
+
+Luna’s face wrinkled.
+
+“Grammar sounds like sickness.”
+
+“It’s how language works.”
+
+“Luna works fine.”
+
+“That’s not the–” Syl stopped, pressing two fingers to her temple. “Never mind.”
+
+Trianna grinned, voice sing-song.
+
+“She’s technically right again.”
+
+Luna nodded sagely.
+
+“See? Luna fine. Luna works!”
+
+Syl groaned.
+
+“At least you understand works.”
+
+“See?” Luna said proudly. “Luna getting smarter. Next word?”
+
+Syl stared at her for a long moment, then – quietly, with great dignity – got up from her sitting spot.
+
+“I think we’ve learned enough for one night.”
+
+Luna wagged her tail.
+
+“Luna win vocabulary fight!”
+
+Trianna nearly fell into the fire laughing.
+
+Victory!
+
+After the terribly confusing trials of vocabulary, Luna slumped onto her blanket with a small awoo of happiness.
+
+Her tongue lolled out. It was confusing, but Luna wasn’t so easily word-defeated! Though Syl made promises of more to come.
+
+She would be ready then!
+
+Around her, the camp settled for the night. Boots thumped. Armor clinked. Bedrolls rustled and sighed. Dum-dum bedtime rituals – so complicated! Maybe that made them sleep faster.
+
+Veric stretched until his back cracked like snapping twigs. Trianna yawned wide enough to swallow a squirrel. And Ray murmured something quiet to Sepio about watch duty.
+
+Luna lay still, eyes half-open, ears twitching to every small sound.
+
+The Moon glowed softly through the trees. The air was cool, brushing over her face in gentle breaths.
+
+Her belly was full. Her fur brushed smooth. Her pack was safe and smelled of calm.
+
+Perfect!
+
+Well, almost.
+
+Thinking crept in.
+
+Dangerous business, thinking. It always struck when her stomach was full and the Moon was high.
+
+And it was creeping now.
+
+Big thunks.
+
+Her pack had asked her those before – plans, goals, ‘future ambitions.’ Big dum-dum words that meant big thoughts.
+
+She had given good answers. Strong answers. Food answers!
+
+But the night was long, and the quiet left space for her mind to start chewing too. Slowly. Carefully. Thought-bite after thought-bite.
+
+Her old pack was far behind her now. The big ugly was gone, bitten apart piece by piece.
+
+Her spice was safe and secured.
+
+Her crunchy Moon still rose too.
+
+So what came next?
+
+Her ears twitched. She rolled onto her side, gazing toward the treeline.
+
+More food? Of course.
+
+More spice? Always.
+
+More biting? Definitely.
+
+But… maybe a bite more than that?
+
+She blinked, muzzle scrunching faintly.
+
+The fire crackled low, throwing soft light across the others.
+
+Her eyes wandered over them one by one – their breathing slow, steady, unguarded.
+
+Slow creatures. Clumsy creatures. Big dum dums.
+
+But strong. Loyal. Her new pack!
+
+Even Sepio, who still smelled faintly of guilt and shield oil, fought well. Veric was a noisy tree, but his sword sang bright. Ray’s blades were sly, Trianna’s arrows sharp, and Second – Second was wisdom and calm wrapped in elf scent and great magics.
+
+Luna’s tail gave a lazy thump.
+
+Her pack had promise!
+
+Still, they were terribly slow. Too wordy. Too soft in the bite.
+
+Mostly just slow!
+
+Her brow furrowed, ears angling forward.
+
+Yes. They needed improvement.
+
+Better pack. Faster bite. Sharper teamwork!
+
+If she could teach them – more bark, more claw, more hunt – they could chew bigger prey together!
+
+Less getting-hit. More getting-fed.
+
+Get strong, eat well. Get stronger, eat better!
+
+Yes. That was the plan.
+
+Luna’s grin crept wide in the moonlight.
+
+She would train them. Make them strong. Into true pack material!
+
+Eventually.
+
+Probably.
+
+Her ear flopped sideways. A deep yawn split her muzzle.
+
+The Moon hung high, bright and sharp, spilling light over the camp. The fire had burned low, a slow breath of red across the stones.
+
+Luna watched the silver drift between the trees, brushing over armor, hair, and sleepy faces.
+
+Her ears twitched. Her nose filled with smoke, fur, steel, and soup-spice still clinging to the air.
+
+Good smells. Safe smells. Pack smells.
+
+One day, she decided, she would eat the trees.
+
+Not for hunger. For curiosity.
+
+And crunch.
+
+Then maybe the mountains. The biiiig ones. She would chew them into crumbs!
+
+Then thunderclouds. Bite them loud. No more scaring Luna!
+
+Then the stars. Gnaw them into tiny glowing bits and taste what light felt like.
+
+Maybe even bite the rude System, if it tried to deny spice again!
+
+Her grin grew wider as her thoughts ran wild. Teeth flashed white in the dim glow.
+
+The world was full of chewables, full of strange new flavors hiding behind bark and stone. Even if she grew stronger, even if she could crush the sky in her jaws, there would always be more shinies to test.
+
+More food to find!
+
+More dum-dums to train.
+
+That was the best part.
+
+Adventure never ran out.
+
+She would explore. Bite. Teach her pack to hunt better, fight smarter, bark louder. Maybe even learn more bitey words too.
+
+Yes.
+
+Big bite plan!
+
+Her tail thumped once. The sound melted into the night.
+
+The fire cracked again.
+
+Syl slept nearest, wrapped tight in her blanket, one hand curled near her cheek.
+
+Apex predators did not need to snuggle.
+
+But…
+
+Luna’s paws moved anyway. Quiet. Careful.
+
+She padded closer, pressed her nose to Syl’s shoulder. Her Second smelled of spell-fire, tea, and warmth.
+
+Soft. Safe.
+
+Without another thought, Luna flopped down, wormed half under the blanket, and curled tight against her Second’s side.
+
+Friend. Second. Pack. Luna.
+
+Her eyes drooped. The fire whispered low.
+
+Tomorrow would come with new bites waiting.
+
+New spice to find. New shinies to chew.
+
+The Moon blinked between the trees, bright on her fur.
+
+Luna yawned, small and proud.
+
+The world could wait.
+
+Tomorrow, she would bite it.
+
+Hard.

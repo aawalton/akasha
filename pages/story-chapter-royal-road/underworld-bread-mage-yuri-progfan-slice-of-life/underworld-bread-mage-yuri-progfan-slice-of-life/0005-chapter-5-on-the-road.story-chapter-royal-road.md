@@ -1,0 +1,137 @@
+---
+id: 0ae7aac7-edd0-5c6e-b3de-8f1221ee8959
+page-type-slug: story-chapter-royal-road
+title: "Chapter 5: On the Road"
+slug: 0005-chapter-5-on-the-road
+partOf: underworld-bread-mage-yuri-progfan-slice-of-life
+position: 5
+ownLength: 1475
+unit: words
+publishedAt: 2026-07-27
+link: "https://www.royalroad.com/fiction/179650/underworld-bread-mage-yuri-progfan-slice-of-life/chapter/3732100/chapter-5-on-the-road"
+royalRoadId: "3732100"
+---
+
+Ding.
+
+A gentle ring rippled through Marina’s mind, like a drop of water falling into a still pond. She rubbed the corner of her eyes, still trying to savor the warm blanket that served as a barrier between her body and the cold world around her.
+
+The previous night’s sleep was exceptional, the best she had in a long time. No pills, no deadlines, and no worries of losing her job.
+
+Gotta check on the drying process and…
+
+Marina pushed her blankets to the side, slightly annoyed by the thought of whatever Hecate might be up to. Becoming a roommate with a vampire was not something she’d ever imagine, let alone one that survived off of her own blood.
+
+Stumbling her way to the bathroom, she unwillingly looked at her reflection in the mirror, still trying to adapt to her new appearance and identity. Marina leaned closer to the sink to rinse her face with cold water, and just as she patted herself dry with a towel, she caught a glimpse of a white, ghostly figure in the mirror standing behind her.
+
+“Ahh!” Marina screamed in terror. “Can you please not randomly appear like this without saying anything?”
+
+“Oh. Did I startle you?” Hecate picked up the dropped towel. “My deepest apologies.”
+
+Marina snatched the towel from Hecate’s hand. “Did you check on the corn?” she growled, rinsing the towel before hanging it on a hook next to the mirror.
+
+“Yes. It seems that your methods are working,” Hecate replied. “How was your sleep?”
+
+“Better than when I lived on the other side, that is for sure,” Marina said with a mocking undertone. “Uh, a small request: can you help me with my hair?”
+
+“Of course, my dear.” Hecate stepped out to the living room and returned with a chair. “Have a seat.”
+
+“Thanks.”
+
+Reaching into her satchel, Hecate pulled out a dazzling, white haircomb. She carefully held Marina’s long, silky hair within her palm as she began to brush it to its tips. “I have heard from many Redeemers that they looked much different in their previous life. I assume that applies to you as well?”
+
+“The System gave me an item to change my appearance, thought that would help me fit in better.” Shifting her gaze from the mirror, Marina realized the naivety behind her words. “I have had longer hair but moved on to shorter hair…”
+
+“May I ask why that is?”
+
+“Cuz’ I felt like it.”
+
+The combing motion came to an abrupt pause. Looking up at the mirror, Marina was met with Hecate’s melancholic eyes.
+
+“Uhm… Are you—”
+
+“S-sorry,” Hecate snapped out of her haze. “That is indeed a valid reason.”
+
+“Long hair is too much of a hassle anyway, but I do have to say, though, you are quite good at this. You used to do this often?”
+
+“Not exactly often that I comb someone else’s hair. When I was younger, my sister did this for me every morning. She taught me how to dress, how to act properly, and how to do my hair. This hair comb was originally hers.”
+
+I think we have a different understanding of ‘acting properly,’ Marina thought. “The hair comb, it’s beautiful.”
+
+“My sister would be delighted to hear that. Would you like your hair to be braided?”
+
+“Only if you know how to do it well,” Marina said. “Nothing is more uncomfortable than poorly braided hair.”
+
+“I don’t consider myself a professional, but I’m not exactly an amateur either.” Hecate stashed away the hair comb and began to weave Marina’s hair into a pattern of delicate knots. It was completed in only a moment. “Does this satisfy your fashion appetite?”
+
+“You know… You would make a great hairstylist.”
+
+Standing up, Marina turned to examine each side of her face. “Maybe we should open a hair salon instead.”
+
+“How fond of you to think that I’d do this for anyone.” A subtle aggression pierced Hecate’s calm words. “If there is nothing else, it is in our best interest to now proceed with the long journey ahead of us today.”
+
+“Yeah…”
+
+Hecate headed toward the stairs, with no regard for Marina’s response. Maybe I shouldn’t have said that, but I didn’t expect her to get mad like this with everything else I said.
+
+After putting on a set of simple, monotonous black outfit from the top drawer of her bedroom dresser, Marina made her way down the stairs. Looking around the bakery nervously, she mumbled an apology within the confines of her mind, only to find Hecate standing in the kitchen, alone, with her back turned.
+
+“Uhm… Hecate… I’m—”
+
+“Yes, my dear?” Hecate panicked as she turned to face Marina. “Are you finished with your preparations?”
+
+“Yes, I am. Are you alright? I mean, I’m sorry for what I said.”
+
+“No my dear, I should be the one to apologize. I’m in no position to criticize your suggestions. I am only your assistant after all.” Hecate gestured to the trays of corn kernels on the counter. “Would you like to check on the drying process?”
+
+“O-of course.” Marina picked up a blue corn kernel with the tip of her fingers, examining it closely. “The Underworld has a much more arid climate. Even just leaving these out overnight indoors will dehydrate them. It is definitely something we need to watch out for in the future.”
+
+“Though on the bright side” —she dropped the kernel into the tray— “it does make the cornmeal production process less of a chore.”
+
+“Does that mean we are closer to our first dessert?” Hecate asked.
+
+“Yes, but it is only one of the ingredients. The rest will have to depend on the result of today’s trip,” Marina pointed out. “Are you sure that we can find dairy products in a forest? I can understand eggs, but how are we supposed to get milk…?”
+
+“We might not find the exact commodities you are looking for, but there is still the possibility of replacements.” Hecate tossed a black cloak to Marina. It was the same one that she wore at the bakery’s doorstep. “Make sure to keep it on at all times; the Underworld is not the nicest place for a couple of young, lost maidens such as ourselves.”
+
+Marina walked to the rear exit, putting on the cloak before she opened the door. The dark, gloomy sky greeted her once again, though this time, she had grown more accustomed to the barren scenery before her. Whether it was her survival instinct or her truthful acceptance, she was unsure.
+
+Hecate took the lead, pointing in the direction of their travel, as the two of them set out on a pathway with minimal sand and brimstone.
+
+*****
+
+“How long is the walk again?” Marina asked, her feet were growing tired of the ashen roads.
+
+“Around four universal hours,” Hecate said, glancing behind at Marina. “Are you tired already? We’ve only been traveling for thirty minutes.”
+
+“Of course not!” Marina growled. “I was just thinking, do you travel like this by yourself?”
+
+“I have lived like this for years. In fact, this is the first time I have traveled with someone else in a long time.” Hecate kept looking straight ahead.
+
+“What about your sister? Didn’t you say you have a sister?”
+
+“I have two sisters, actually. My family lives way up north. It’s where I came from.” Hecate waited for Marina and pointed. “You see those mountain ranges in the distance?”
+
+Marina squinted her eyes. “Yeah, the ones with lightning raining down on them?”
+
+“Indeed. My home is past those mountains. What about you?”
+
+“I don’t have any siblings. My parents and I lived in a small town before I moved away to a big city. I haven’t seen them in a long time.” Marina let out a quiet sigh. “Guess I will never see them again now.”
+
+Hecate caught the glimpse of Marina’s expression. “I’m sorry, my dear.”
+
+“No need,” Marina spat. “It’s not like I miss them that much anyway. Would rather stay dead than have to go back and deal with them, and my shitty job.”
+
+It was a surprise to her that even with Hecate tricking her into a contract, it still didn’t compare to the weight of her parents’ expectations and the pressure of the corporate workplace. If anything, the vampire’s terms were the fairest of all ultimatums.
+
+“But something tells me that you do love and miss your parents.”
+
+“Must be all the sulfur that’s in the air, cuz I don’t miss them,” Marina refuted, hoping to shut down the conversation at once.
+
+“The cornbread you wanted to make… That is your mother’s recipe, isn’t it?”
+
+“How…” Marina’s footstep came to a full stop. “How did you know?”
+
+“A vampire can taste someone’s fondest memory within their blood,” Hecate explained. “And yours was your mother’s cornbread.”
+
+“...”

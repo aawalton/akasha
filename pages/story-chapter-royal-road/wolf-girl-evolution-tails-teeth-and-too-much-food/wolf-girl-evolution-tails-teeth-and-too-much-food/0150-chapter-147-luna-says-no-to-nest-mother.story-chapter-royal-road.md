@@ -1,0 +1,615 @@
+---
+id: 5ffd5cb5-d286-50fa-869d-134dce0eda63
+page-type-slug: story-chapter-royal-road
+title: "Chapter 147: Luna Says No to Nest Mother!"
+slug: 0150-chapter-147-luna-says-no-to-nest-mother
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 150
+ownLength: 3968
+unit: words
+publishedAt: 2026-08-05
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3774490/chapter-147-luna-says-no-to-nest-mother"
+royalRoadId: "3774490"
+---
+
+PoV Luna
+
+The survivors stayed behind the last safer bend with the guards, the adventurers who could still stand, and the healer who had learned to stand close to Luna instead of far away.
+
+Syliana moved toward the main shaft, slower than Luna wanted but steady. Her magic went first, sweeping over stone and water in thin bright lines.
+
+Luna ranged ahead, but not too far.
+
+Far enough to bite first, and close enough to help her friend out if anything happened was an impawtant distance!
+
+Mhm!
+
+The shaft sloped into the old foundations under the cracked tower. Every tremor made the supports creak. Stone dust fell in soft curtains. Water ran down one wall in dirty streams. Somewhere below, the Broodmother clicked again, deep enough that Luna felt it in her paws.
+
+Smaller clicks answered around them.
+
+Luna grinned.
+
+There were still small bads waiting their smacks!
+
+And Luna was happy to provide!
+
+One came from a ceiling vent, so Luna jumped, caught it before it dropped, and slammed it into the wall knot-first.
+
+Another one came from a side cut near Syliana.
+
+Syliana did not flinch. Her magic lashed out in a hard white arc and crushed it against the ceiling before it reached the floor.
+
+Yet another tried to crawl through a crack behind them.
+
+Luna smelled it, Shadow Stepped back, stomped its neck-knot, and reappeared ahead of Syliana before the body finished twitching.
+
+Syliana gave her a look.
+
+Luna wagged once.
+
+“Awoom-efficient!”
+
+A larger tremor rolled through the shaft. The ceiling cracked above Luna, and three stones fell at once. She slipped sideways under the first, hopped over the second, and let the third land where a chimera had been about to leap.
+
+The chimera vanished under the rock with a wet crunch.
+
+Luna blinked at the stone.
+
+Maybe rude ceiling had learned teamwork!
+
+They moved lower.
+
+The smell changed the closer they approached.
+
+Metal, leather, old potions, broken wood, black slime, blood, corruption, wet meat, bad magic, and something sharp-bitter scratched the inside of Luna’s nose. So much smelly stuff mixed together that her nose wrinkled hard enough to pull her lips back from her teeth.
+
+“Awooogh!”
+
+The sneeze resounded in the tunnel, but no more chimeras came their way.
+
+Then the shaft opened into a wide chamber!
+
+Equipment lay scattered across the floor in heaps and drifts. Swords, shields, cracked packs, torn straps, empty potion bottles, broken lanterns, rusted helmets, splintered tools, old bones, monster pieces, and black wet slime spread everywhere. Some things had been sorted into piles. Some had been dragged in lines toward the far wall.
+
+Other things did not belong to kidnapped people at all.
+
+Broken machinery sat half-sunk in the muck near the walls, all bent pipes, cracked glass tubes, snapped brass rings, and dead gears that smelled of old mana-burn. Smashed tables lay under spilled trays of cloudy vials, dried powders, dark-stained needles, and wax-sealed jars cracked open around clumps of corruption-smelling gloop.
+
+Torn clothes lay among it all.
+
+But weird!
+
+Pale coats, too clean-looking even under the rot, had been ripped open at the seams and dragged through old blood. Thick glove pieces lay nearby, the fingers stiff with dried black stains. A cracked face lens glittered under slime. One sleeve still had a sealed cuff-ring attached, snapped where something had torn the arm free of it.
+
+There were boot scuffs in the muck around them. Deep scratches. A smear of old blood leading away.
+
+The people who wore these had not come down here to be eaten.
+
+They had come dressed for bad work.
+
+Luna’s ears pressed lower.
+
+Bad room.
+
+The far wall moved.
+
+Luna stopped.
+
+Oh.
+
+That was not a wall!
+
+The giant thing filled the back of the chamber, huge and swollen and fused into stone. Thick ropes of patched flesh sank into cracks, pillars, broken machinery, and old masonry like the tower had grown meat-roots. Arms stuck from the mass in too many places, scraping through the equipment piles, dragging things closer, pushing them toward one wide mouth in the center.
+
+A very big mouth, with far too many teeth and weird growths.
+
+The many eyes of different types opened up and looked at the intruders.
+
+A smaller chimera dragged a broken shield and a dead tunnel beast toward it. Two more chimeras shoved old bones, torn leather, and bent pieces of brass tubing into the same place.
+
+The mouth opened.
+
+Everything went in.
+
+The mouth closed, and grinding followed.
+
+Luna stared.
+
+The Broodmother’s side bulged. Big pores opened across its swollen body, each one stretching wetly around a dark seam. Hot stink rolled out first, thick enough to coat Luna’s tongue. Then the stitched flesh split, and a new chimera spilled onto the floor, shaking slime from mismatched limbs.
+
+It had metal grown into one shoulder and tunnel-beast claws where one hand should have been.
+
+The pores stayed open behind it, breathing out more of the same terrible stink.
+
+The thing belched.
+
+Luna sneezed.
+
+Then she sneezed again, harder!
+
+Rude smelly thing!
+
+The System shimmered over the huge fused thing.
+
+【Enemy Identified: Corruption-forged Chimera Broodmother】
+
+The Broodmother’s arms stilled.
+
+One after another, hands stopped dragging, claws stopped scraping, and bent fingers turned toward Luna.
+
+Its many wrong eyes focused on them.
+
+Luna’s tail lifted.
+
+Big ugly!
+
+Finally!
+
+***
+
+PoV Syliana
+
+Syliana stopped at the edge of the chamber.
+
+The Broodmother filled the far wall, fused into stone, machinery, and old foundation supports. Smaller chimeras dragged equipment, bones, dead flesh, and broken reagent crates toward its mouth. When the mouth closed, something ground inside it.
+
+Syliana’s magic gathered around her hands.
+
+She looked past the size of the creature and forced herself to read the room.
+
+Bent pipes. Cracked glass tubes. Smashed tables. Reagent trays half-buried in slime. Protective coats torn open and dragged through old blood. Thick glove pieces. Broken face lenses. Sealed cuff-rings snapped apart.
+
+Then she saw the black pieces set into the machinery.
+
+Obsidian shards.
+
+Those were tiny, but they exuded the same wrong darkness she remembered from the corrupted dungeon.
+
+Her stomach tightened.
+
+The rumors had seemed separate at first. Bad things happened. Monsters changed. Dungeons twisted. People vanished. Nobles schemed. Merchants lied. Every region had its rot, and not every shadow belonged to the same hand.
+
+But the corrupted dungeon had been a warning.
+
+The lich was a hint of what was coming.
+
+The tower had made it certain somebody very influential was behind it, and the coincidence was difficult to believe.
+
+And now this chamber made it impossible.
+
+Chimeras like these were not the work of chance.
+
+And while a lone madman could make horrors, this wasn’t it.
+
+The machinery, protective gear, prepared reagents in quantities rarely seen, and enough corruption worked through the things that even her Alchemy skills could not properly name half the residue staining the floor.
+
+This was beyond the means of a simple organization.
+
+An influential organization, or somebody truly powerful was behind it.
+
+And those sort of people did not just appear.
+
+Syliana shaped the magic around her fingers more tightly and studied the Broodmother’s body. It was enormous, but much of its mass was fixed into the chamber. Thick fused bands anchored it to the wall. Smaller limbs dragged material to the mouth. The chimeras kept feeding it. The pores along its side opened and closed with each convulsion, venting stink and what her skills identified as poisonous vapor into the air.
+
+If the equipment meant what she feared, then this was a well-funded, supplied, and patient organization.
+
+She expected a resurgence of some hidden Lich Cabals, the allure of immortality was difficult to resist for many a mortal.
+
+But this was far worse than expected.
+
+Far worse.
+
+The Broodmother shifted. Several arms dragged another heap toward the mouth, and the fused bands along its body pulsed against the wall.
+
+Syliana lifted her hands, forcing her focus onto the structure of the thing, rather than its ridiculous scale. The fused bands held it in place. The smaller chimeras kept dragging material to the mouth. If she broke the seams where flesh met stone and cut off the flow, it would weaken. Luna then could–
+
+Luna stepped forward and–
+
+Shifted back into a little girl?
+
+Syliana’s nerves bristled.
+
+What was her unpredictable little friend planning now?
+
+Mud streaked Luna’s legs. Black blood marked her mouth and chin. Her ears were flat from the smell, but her tail rose as she stared at the Broodmother.
+
+Syliana recognized that look.
+
+Luna was expecting a hunt.
+
+The Broodmother moved.
+
+***
+
+PoV Luna
+
+The Broodmother punched.
+
+Many arms twisted together into one huge meaty fist, tearing partly free from the wall with a wet rip. It swung across the chamber toward Luna, giant and heavy enough to crack stone before it even reached her.
+
+Syliana’s fear spiked behind her.
+
+“Luna!”
+
+Luna watched it come.
+
+Big fist. Big meat. Big bad.
+
+She stared.
+
+The fist dragged through the air, slower than a tired wagon.
+
+She still stared.
+
+Luna’s ears twitched.
+
+Huh.
+
+Syliana’s magic flared.
+
+“Move!”
+
+Luna waited until the fist filled the air in front of her, the huge fist filling the entire space, and then–
+
+She Shadow Stepped away.
+
+The punch smashed into the floor where she had been, cracking stone and splashing black slime across the chamber. Luna appeared on top of the giant arm, feet steady on trembling flesh.
+
+She looked down at the arm.
+
+Then at the Broodmother.
+
+“Second!” she shouted. “Big bad slow!”
+
+Her tail lowered a little.
+
+That was not how big hunts were supposed to go!
+
+Big bads were supposed to leap, chase, snap, trick, pounce, roar, and make Luna work for the bite. This one was huge enough to shake the chamber, but the fist had crawled through the air with the speed of an approaching nap!
+
+Luna stepped away from the impact crack and watched the Broodmother try to turn more arms toward her.
+
+The grafted pieces reacted to where she stood. They turned. They reached. They scraped stone and dragged through old gear.
+
+Many small became few but large.
+
+…And then they did nothing clever.
+
+Luna blinked.
+
+It was just big!
+
+Big and slow.
+
+…And very, very smelly.
+
+The only big hunt challenge here was not getting beaten by the stink, or maybe by how weird it looked!
+
+Hmph. The disappointment was too much!
+
+It made Luna transform back into her big wolf form to chew the Big Smelly up faster!
+
+The Broodmother convulsed. Smaller hands slapped toward Luna, each one following her position a heartbeat too late. Luna ran before they closed, bounded up the arm, and kicked a fresh chimera into another one climbing over an equipment pile.
+
+Both tumbled through old shields, torn packs, and broken brass pipes.
+
+“Awoop. No climbing Luna.”
+
+Syliana’s magic struck the arm beneath Luna. The spell hit the place where the arm pulled from the wall and tore a strip of fused meat away from stone.
+
+The Broodmother screamed through its one mouth.
+
+Luna jumped from the arm to one of the thick flesh-ropes fused into the masonry and sank her claws in. The rope pulsed under her paws. Three hands grabbed after her, but they closed where she had been instead of where she was going.
+
+“Too many hands,” Luna complained, dropping before they closed. “And awoobsolutely no table manners!”
+
+She twisted, bit into the fused strip, and immediately regretted having a tongue.
+
+The taste was worse than old swamp frog, burned rag, and the mystery sausage from one stall that really failed to taste like anything good at all! But Luna pulled anyway.
+
+Syliana’s spell hit beside her, bright force punching into the same weakened place. The flesh-rope tore free with a wet snap, and one side of the Broodmother sagged.
+
+【Bite Lv. 16 → Lv. 17】
+
+Luna spat black slime from her mouth.
+
+Not boss knot, then.
+
+Wall knots!
+
+Nest mother was stuck in her own nest, and being stuck was a very biteable mistake.
+
+“There,” Syliana called. “Let’s break the anchors to pull it off the walls!”
+
+Luna liked wall knots better than anchors, but anchors were cool too!
+
+She looked across the chamber at the wide floor, the tall walls, the broken pillars, and the big ugly meat-thing stuck to the far side.
+
+Oh!
+
+There was enough room for fun!
+
+Luna ran along the chamber, paws striking stone faster and faster while Reaper’s Pass tugged the distance short beneath her. The far wall came sooner than it should have, and Luna hit it sideways with her claws digging in. She ran across it for three glorious steps, kicked off toward the first anchor, and felt the room fold into her speed.
+
+A chimera leapt to intercept her.
+
+Luna’s path folded past it. Her front paw clipped through its neck-knot with all the speed she had stolen from the room, and the broken body spun away before it understood the mistake.
+
+Silly Many-Legs!
+
+An arm swept up after her.
+
+Luna struck it before it finished rising. Distance collapsed into the hit, and the impact cracked through the grafted limb hard enough to explode it back against the Broodmother’s side.
+
+【Reaper’s Pass Lv. 6 → Lv. 7】
+
+“Awoom!”
+
+That was what big rooms were for! That was how hunting was done!
+
+Syliana’s magic split the seam around the anchor just before Luna arrived. Luna became a black streak across the last stretch, hit the exposed flesh with both claws, and released every step she had gathered.
+
+Another anchor burst!
+
+The Broodmother screamed, and Luna bounced off the torn meat already turning toward the next wall.
+
+Now they were doing proper zoom work!
+
+Syliana’s magic flashed over Luna’s back and burst against the next wave. Two chimeras folded under pressure. A third leapt for Syliana, and Luna crossed the chamber in a dark streak before it reached the elf.
+
+She hit it hard enough to drive it through a broken reagent table.
+
+“No cutting!”
+
+Glass, slime, and old black powder sprayed across the floor. Luna’s paws landed in it, and the sharp-bitter stink crawled up her legs.
+
+The Broodmother’s pores opened.
+
+Yellow-black vapor rolled out of its swollen side, thick with Broodmother stink and the smell of weak poison. It crawled low over the floor and bit through Luna’s fur with tiny hot teeth.
+
+Luna coughed as her HP dipped.
+
+【Poison Damage: -2 HP/s for 5s】
+
+Not much.
+
+The smell was worse.
+
+“Bleh!”
+
+She bounded out of the cloud, shook slime from her fur, pulled jerky from her Maw, and chewed fast while the bitter taste tried to stay on her tongue. The jerky helped! The potion helped more, cooling the prickling under her skin before it could become annoying.
+
+A chimera lunged through the edge of the vapor.
+
+Luna’s paws struck stone, and Reaper’s Pass folded the distance short. She met the chimera faster than it expected, broke the rib-knot under her claws, and carried the same motion past it toward the next anchor.
+
+A few more passes around the chamber later, and after inhaling a bit more of the stinky bleh vapor, System responded!
+
+【Poison Resistance (Minor) Lv.2 → Lv.3】
+
+Luna sneezed again.
+
+Oh!
+
+The rude stink gave Luna a resistance level. The bleh made future bleh weaker!
+
+Hehe.
+
+“Luna is fine!” Luna called when Syliana looked toward her, then shook her ears hard. “Smell is the boss fight!”
+
+Syliana’s magic shoved the vapor away from the center and cut into another anchor. The Broodmother sagged farther from the wall, screaming incomprehensible commands that made the smaller chimeras rush faster.
+
+Faster still was not Luna-fast.
+
+Very far from Luna-fast!
+
+The fight stopped being a hunt and became breaking work.
+
+Luna ran around the chamber.
+
+Floor, wall, broken pillar, hanging flesh-rope. Each surface gave her another step. Reaper’s Pass pulled the distance short beneath her paws, and every shortened stretch landed in the next hit. The Momentum kept growing, her hits growing stronger.
+
+And soon Luna didn’t even notice when the Many-Bads were struck aside.
+
+Apex Predator style!
+
+She crossed the chamber as a black streak and struck the seam Syliana had opened.
+
+The impact boomed through the foundations.
+
+The Broodmother’s mass buckled, meat splitting where magic had weakened it. Luna bounced away from the torn flesh, hit the wall claws-first, and launched herself back across the chamber before the grafted arms finished turning.
+
+A chimera jumped into her path.
+
+Luna cleaved through its neck-knot without slowing and drove the gathered distance into the Broodmother’s side instead.
+
+An explosion resounded throughout the chamber.
+
+Meat tore! Stone cracked. Machinery shrieked where fused supports ripped loose.
+
+The Broodmother swung one huge fist.
+
+But Luna hit it first!
+
+Her strike snapped the fist upward with a wet crack. The blow threw the Broodmother’s arm off course and drove it through its own feeding line, crushing the smaller chimeras dragging material toward the mouth.
+
+Syliana stared for half a breath.
+
+The Broodmother was enormous!
+
+But Luna’s impact rang through the chamber at the same scale!
+
+The black streak crossed the chamber on its own logic, bouncing from stone to wall to broken machinery before striking the next exposed piece of Broodmother flesh. Syliana tracked the impacts, sending magic into the cracks Luna opened and widening them before they could close.
+
+A fused band split under Luna’s claws.
+
+Syliana’s spell drove into the tear, and the seam burst open.
+
+Luna bounced off a pillar, cleaved through a chimera in midair, and hit the anchor hard enough to make the entire Broodmother sag.
+
+【Momentum Claw Lv.19 → Lv.20】
+
+The System told Luna things!
+
+Good things!
+
+She called up her skill description, and indeed it had new number thingies now!
+
+【Momentum Claw Lv.20 – Convert motion into impact. Each step builds stored force, released on strike. Strike momentum is partially(20%) retained.】
+
+The System flashed, and Luna only got faster, eager to test the change out.
+
+The chamber became impacts!
+
+Her claws tore through the Broodmother’s side, and the hit did not empty all the way out of her paws. She felt some of it roll forward into the next strike! A hot, heavy leftover shove ran up her legs as she kicked off the wound and hit the wall.
+
+Luna’s ears lifted.
+
+Oh.
+
+Again-smack time!
+
+She launched from the wall, Reaper’s Pass pulling the distance short, and the next impact landed before the first one had fully left her bones. The freshly added momentum making it even stronger!
+
+“Awoom!”
+
+Syliana drove magic into the cracks Luna left behind, widening each tear before the Broodmother’s flesh could pull itself closed.
+
+And Luna kept moving!
+
+Every impact spent most of the gathered force, but not all of it. The System had said part of the force stayed if she kept moving, and Luna was very good at keeping moving!
+
+She hit the wall claws-first, kicked off, and Reaper’s Pass folded the distance to the Broodmother’s next arm. Momentum Claw still burned in her paws when she struck. The grafted limb snapped upward with a wet crack, slammed into the ceiling, and tore one of its own anchors loose.
+
+The Broodmother’s command-clicks broke apart.
+
+Yesh!
+
+Nest mother should fear Luna!
+
+The mouth opened again. Arms clawed through the equipment piles, dragging shields, bones, dead chimeras, stone chunks, torn packs, broken helmets, cracked reagent jars, and old researcher cloth toward its teeth.
+
+Luna’s ears shot up.
+
+“No more many-wrongs-making!”
+
+She launched herself toward the mouth.
+
+The grafted arms swept after her, but Reaper’s Pass kept making the chamber shorter than it should be. Syliana broke three arms aside with sharp bursts of magic, and Luna crossed the last stretch as a black streak with all the chamber’s stolen distance packed into her claws.
+
+The pulse behind the grinding teeth hit her nose.
+
+Nest heart.
+
+There!
+
+Luna picked up even more speed, striking the lower jaw claws-first.
+
+Momentum Claw released.
+
+The impact exploded through the mouth. Teeth shattered outward. The lower jaw split under her paws, and the Broodmother’s whole front buckled around the blow. Black slime, bone shards, and strips of grafted flesh burst across the chamber hard enough to rattle broken machinery against the walls.
+
+The Broodmother screamed.
+
+Syliana’s magic slammed into the ruined jaws a heartbeat later, forcing the broken mouth wider before it could fold around Luna.
+
+“Go!”
+
+Luna was already inside.
+
+She tore through heat, stink, broken teeth, and pulsing wrongness, shadows scraping the ruined mouth open around her. The nest heart beat ahead, fat and ugly with bad command and bad making.
+
+Luna hit it with the momentum still burning through her paws.
+
+Claws first.
+
+Then teeth.
+
+The nest heart burst halfway free under the strike, wet roots snapping around it as the force drove through the Broodmother’s core. The taste hit Luna’s whole soul, and her mouth wanted to stop being a mouth.
+
+But Luna was proper Apex Predator!
+
+Bleh tastes would not stop her!
+
+Luna bit deeper, wrapped the heart in shadow, and kicked against the inside of the Broodmother with both feet. The corruption tried to reach for her and found no purchase.
+
+Outside, Syliana held the broken jaws open and hammered anything that tried to reach in. Chimeras scraped at the mouth. Grafted hands clawed after Luna. The Broodmother screamed hard enough for dust to pour from the ceiling.
+
+Luna growled around the heart.
+
+No more making little ones sad!
+
+She pulled.
+
+The nest heart tore free.
+
+For one heartbeat, the whole chamber stopped clicking.
+
+Then the Broodmother collapsed.
+
+【Level Up: 8 → 9】
+
+【Level Up: 9 → 10】
+
+【Strength +2 | Vitality +2 | Dexterity +1 | Willpower +1】
+
+【Devourer’s Right Lv. 7 → Lv. 8】
+
+【You ran into a smelly meat mountain so fast it exploded. Remarkable misuse of force.】
+
+【Congratulations. Your solution to organized monster production was to bite management. Regrettably effective.】
+
+Luna Shadow Stepped out as the mouth folded inward behind her. She landed in the slime with the nest heart caught in shadow beside her.
+
+She dropped it and stomped until it stopped twitching.
+
+Then smacked it thrice for good measure!
+
+The remaining chimeras dropped with it. Some went still at once. Others twitched in the slime, empty and wrong without the command smell tying them together. One tried to crawl, so Luna stomped its knot without looking away from the heart.
+
+No more nest mother!
+
+Luna took one careful breath, then spat black slime onto the floor.
+
+“Blehhhh!”
+
+Syliana crossed the chamber toward her, stepping around broken gear, torn cloth, cracked reagent jars, and dissolving chimeras. Magic still gathered around both hands. Her face was pale, her hair had come loose, and her breathing sounded too controlled.
+
+That meant she was very upset and pretending to be good!
+
+“Luna,” she said. “Are you hurt?”
+
+Luna checked.
+
+Her legs worked. Her tail worked. Her ears worked. Her shadows felt tired but still answered when she flexed them. Her skin still prickled from the rude weak poison, but the jerky and potion had chased the worst of it away.
+
+Her mouth had suffered most.
+
+She spat again.
+
+“Tongue is hurt.”
+
+Syliana stared at her.
+
+“Very hurt,” Luna added seriously. “Bad taste attacked Luna!”
+
+For one second, Syliana looked like she might make the strange almost-laugh, almost-cry face.
+
+Then another tremor shook the chamber, and stone cracked above them.
+
+Syliana looked up. “We need to leave.”
+
+Yip yep!
+
+Falling chamber could collapse after Luna left. That was allowed.
+
+Luna lowered herself beside Syliana. The elf climbed onto her back without arguing, one hand gripping fur and the other still glowing with magic.
+
+Luna looked once at the dead Broodmother, the broken mouth, the torn wall anchors, the cracked machinery, the reagent-stained floor, and the researcher clothes half-buried under slime.
+
+Bad bads cleared, it was time to leave!
+
+Surface time!
+
+Luna ran.

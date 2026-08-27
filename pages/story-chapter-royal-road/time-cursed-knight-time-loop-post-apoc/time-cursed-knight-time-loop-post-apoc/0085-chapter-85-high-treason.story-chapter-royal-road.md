@@ -1,0 +1,281 @@
+---
+id: aef2a4b8-13a2-5e93-b334-b772e31e84a7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 85: High Treason"
+slug: 0085-chapter-85-high-treason
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 85
+ownLength: 2852
+unit: words
+publishedAt: 2026-07-13
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3672481/chapter-85-high-treason"
+royalRoadId: "3672481"
+---
+
+"I didn't know I'd need it." My voice had gone thin from a month of fever, and the wagon's jolting didn't help. "I took the powder for study. That's all. A sample."
+
+Henrik didn't look at me. He sat against the wagon's tailboard with his greatsword across his knees, watching the road unspool behind us, and he had been watching it that way for three days, ever since I'd gotten coherent enough to lie to him.
+
+"You're an Investigation Knight," he said. "Sent across a border to burn the people who make that powder. And you crossed back with a packet of it sewn into your bag."
+
+"For study."
+
+"You keep saying that."
+
+Lena sat between us with her notebook closed for once.
+
+"It saved the city, Henrik," she said. Not defending me. Weighing me. "Whatever he did with it. It worked."
+
+"That's the part I can't make sit right." Henrik finally turned his head. His eyes found mine and held. "A man takes a forbidden drug into a foreign capital, against every order we carry, and then at the exact moment it would have done the most good, he just happens to have it in his hand." He let that sit. "That's not study. That's a plan."
+
+It wasn't, I thought.
+
+It hadn't been a plan. That was the thing I couldn't tell either of them, because the telling would unspool many more questions. The Snow Dream had been an improvisation. A reckless throw of the dice.
+
+And it had worked.
+
+That was what kept me awake on the nights the craving didn't. It had worked on the first real attempt, which meant the door had been there the whole time. Every life I'd burned and bled and drowned out. The way through had been a pinch of white powder on the tongue.
+
+I didn't have to die so many times, I thought. I just had to be desperate enough, sooner.
+
+"Think what you want," I said. "I won't take it again. You can watch the bag rot in an evidence locker."
+
+I reached into the satchel and drew out the sealed pouch. The remainder of the warehouse sample. I held it up where Henrik could see it, then set it on the bench between us.
+
+"Every grain of that goes to the Division," I said.
+
+Henrik's eyes tracked the pouch. He nodded once, slow.
+
+What I didn't show him was the small packet I'd already transferred to the inner lining of my coat. The amount a man might overlook during an honest accounting of a larger supply.
+
+Henrik grunted.
+
+The walls came up ahead of us through the gray morning haze. Silberwald. After a month of fever and the long slow grind of the road, the sight of it loosened something in my chest.
+
+Home, I thought, and didn't examine how strange it was to call this place that.
+
+We crossed under the gate arch with the morning traffic. Carters, laborers, a column of pilgrims, the ordinary blood-flow of a living city. The guard at the checkpoint waved us through with the bored expression of a man who'd processed ten thousand travelers and expected to process ten thousand more. Henrik showed the Iron Cross emblem to move us past the secondary inspection.
+
+The murmur started the moment the emblem was shown.
+
+I felt it before I understood it. A ripple. Soldiers turning.
+
+"They're looking at us," Lena said under her breath.
+
+I kept my face still and my pace even and told myself it was nothing. Recognition. The Hero of Grenzheim, back from wherever the rumor mill had decided he'd gone. I had grown used, in the small time I'd had before the desert, to being a thing people pointed at. The white hair did half the work; the stories did the rest.
+
+We turned toward the Iron Cross building. There was procedure to follow. The papers from the warehouse, the routes, the name written beside the Empire's documents — House Auricht. The debriefing.
+
+I had let my guard down. That was the truth I'd circle back to, later, in the dark. After a month of holding myself together by my fingernails, the sight of those gray walls had let me set the weight down for one fatal moment.
+
+I felt light.
+
+That was the first thing. A lightness, as though the road had stopped pulling at my boots. As though the ground had quietly decided it no longer required me.
+
+Then my feet left it.
+
+I rose. Hauled up off the cobbles by something that closed around my whole body at once, an invisible fist of structured mana that pinned my arms to my sides and my legs together and held me suspended in the open air three feet above the street.
+
+Mages stepped out of the crowd on every side.
+
+They had been waiting.
+
+Royal Guard. The uniforms came out from under the plain coats as they moved, deep blue shot through with silver, and the rings bloomed around their forearms in tight bright bands, three and four and five at a time.
+
+I couldn't move. I couldn't reach the mana to fight the hold.
+
+"Kaspar—" Lena had her blade half-drawn.
+
+"Don't." It came out of me flat. A dozen Royal Guard mages would turn her and Henrik into a stain before either of them landed a stroke, and they'd do it inside the law. "Don't. Stand down."
+
+Henrik's hand was white on his grip. He looked at me. I looked at him. Don't, I said again, with my eyes this time.
+
+One of the mages stepped forward. He had the bearing of a man who'd been chosen for this errand because his voice carried, and he made certain it carried now. He pitched not for me but for the whole street, for the crowd, for the city that would be telling this story by nightfall.
+
+"Kaspar von Hexenzeit." He let my name ring off the stone. "By order of the Crown, you are placed under arrest. The charges are high treason against the Empire and conspiracy with the elven enemy."
+
+The street had gone silent. Even the murmurs had stopped.
+
+"You will be held in the Imperial high-security prison to await investigation and trial."
+
+Behind me, I heard Lena and Henrik break for the Iron Cross door — running, shouting names, ranks, codes. I heard the door open. I heard the confusion of voices.
+
+None of it mattered. The hold tightened. The mana of a dozen casters poured into the shape that held me, and the edges of the world went soft and then dark.
+
+I woke in the dark.
+
+I didn't know how long I'd been there.
+
+My face was pressed against cold stone, one arm bent beneath me at an angle that had killed the feeling in it from shoulder to fingertips.
+
+They had taken my sword. The belt was gone, the familiar weight at my hip replaced by nothing.
+
+I lay on cold stone and listened to my own breathing and learned the size of the room by the sound of it. Small, low, the air dead and close.
+
+Solitary.
+
+Dungeons were becoming a kind of home to me. I turned the thought over with the gallows humor that was all I had left. First the cavern during the expedition. Then the Coliseum. Now this. An Imperial cell with no light at all, where night and day had been abolished as a courtesy to my captors.
+
+For a man already standing on the edge of insanity, I thought, the dark is a careless place to put him.
+
+I lay there counting breaths. Inhale through the nose. Hold. Count. Exhale through the mouth. It steadied the heart. It kept the dark from crawling in.
+
+I had a weapon no jailer in this world could account for. They had stripped me of my sword and my freedom, but they could not strip me of the curse. Death.
+
+I worked it through. I didn't know exactly how long I'd been unconscious, how long since the gate. But the day I'd been arrested, if death dropped me back to its morning, I'd wake before the trap closed.
+
+I'd wake free, somewhere on the road or in the gate district. Even with a harsh punishment from Sloth, I would still have twelve hours. I would simply not walk into the noose a second time.
+
+The only thing that could break the plan was Sloth.
+
+The Sin had punished me before.
+
+The Mana Blood experiment had cost me thirty-six hours.
+
+The risk was real. But the alternative was waiting in the dark for a trial run by a princess who wanted me dead.
+
+I'll take the risk.
+
+The simplest option would have been to use Mana Blood, but Sloth had already punished me for that once. I dismissed the possibility.
+
+I need a different death.
+
+My hand moved to the inside of my coat.
+
+My fingers found the ridge of the stitching and pulled, and the small packet fell into my palm.
+
+Snow Dream.
+
+It was almost nothing, perhaps only the weight of a few coins, but still far more than was normally consumed. Easily ten times the amount I had used.
+
+My hands were shaking.
+
+This is different, I told myself. This isn't suicide. This is an overdose. An accident. A man who was carrying evidence and made a mistake in the dark.
+
+I didn't believe myself.
+
+I sat with the packet in my open palm and felt the fear move through me. Not the fear of death — death was an old companion and I'd walked through its door so many times the hinges didn't creak anymore.
+
+This fear was different.
+
+A month of withdrawal. Thirty-one days of fever and hallucinations and the relentless, screaming need that had ripped through me every hour of every night on the road back from Qalathar. I had beaten it. I had clawed my way out of that hole.
+
+Don't think about how it felt, I told myself.
+
+My fingers trembled.
+
+This isn't about wanting it. This is about getting out of this cell. This is the only way.
+
+I unfolded the paper.
+
+The powder sat there. In the absolute dark I couldn't see it, but I could feel the texture of it against the waxed paper, and beneath that, the faint resonance of the mana compound that made it what it was.
+
+A whole packet, even a packet this small, taken at once—
+
+It will be enough.
+
+I raised my hand to my mouth.
+
+I poured the powder onto my tongue.
+
+The taste hit first. Bitter. Chemical.
+
+Then the channel opened.
+
+I couldn't control it.
+
+That was the point.
+
+The mana flooded my circulatory system with a density that no human body was meant to sustain. My heart rate spiked each beat a detonation in my chest that sent the blood screaming through arteries not built for this pressure.
+
+Then the pain arrived.
+
+My spine arched. My skull cracked against the stone floor. The mana already loose in the system had nowhere to go—
+
+The world went white.
+
+Then dark.
+
+Then nothing.
+
+The voice came into the black river of the in-between. Cold. Bored. Worse than bored — irritated, the way a sleeper is irritated by a hand on the shoulder.
+
+"You again."
+
+I had no body there. There was only the voice and the dark.
+
+"You are too lazy to live and too cowardly to stay dead, and now you would use me as a key. Again."
+
+Send me back, I thought at it. That's all I want. Just send me back.
+
+"I will send you where I send you. That is not a gift I extend at your request." A long pause, the pause of something deciding how much spite to indulge. "But you have woken me to do labor, and labor has a price. You filled your skull with a desert tongue. Words upon words. You were proud of it."
+
+I knew what Sloth was about to do before it spoke.
+
+"Let us see how proud you are without them."
+
+The loss was a physical thing. I felt it go. A memory pulled out by the roots, the whole language I'd died a dozen times to learn, gone in an instant, leaving a smooth blank place where it had been. All of it, scraped clean.
+
+I wanted to grieve it. There hadn't even been time to finish reading the book.
+
+But under the grief was the cold, hard logic: at least now I have more time. Send me back. Take the words, take whatever you want, only put me back on that morning before the gate, and I will buy back every word twice over.
+
+The dark let me go.
+
+I came up into the cold stone and the close dead air, gasping, the phantom of my own ruptured heart still squeezing in my chest, the pain of it riding into the new body.
+
+I lay there and waited for the rest of it. For the morning. For the road.
+
+It didn't come.
+
+The dark was the same dark. The stone was the same stone. The air was the same dead close air, and when I reached out with shaking hands I found the same walls, the same distance, the same low ceiling.
+
+Solitary.
+
+I was still in solitary.
+
+"No." My voice came out of me cracked and small in the dark. "No. That's not—"
+
+I sat up too fast and the cell tilted around me and I put my hands flat on the stone to hold the world still, and it hit me.
+
+I've always returned to the last dawn.
+
+That was the rule.
+
+One day ago I had already been here. In this cell. I had been imprisoned for longer than a day.
+
+I didn't know how long. A day, two, three — long enough that the loop, when it reached back its one fixed span, could not reach past the moment they'd thrown me in here.
+
+I pressed my back against the cold wall and I made myself breathe.
+
+Far to the north, in the Republic of Wolkenmark.
+
+The snow didn't stop.
+
+It never stopped. The professor could hear the roof beams complaining as he worked, a long low timber-and-iron protest that ran the length of the building.
+
+He packed fast. He had learned long ago that the journeys worth taking never arrived with enough notice to prepare for properly. This one had been announced this morning, by a sealed letter that had crossed borders to reach him.
+
+"Where are you going?"
+
+One of his students stood in the doorway, a scarf wound to the eyes, a half-graded stack of essays forgotten in one mittened hand. Behind him, through the window, the snow came down on the courtyard where in a week's time the whole Republic would parade. Torches and banners and the long ringing of the founding-bells, the celebration of the victory and the birth of the nation, as if a nation born in retreat were a thing to ring bells over.
+
+"The Empire," the professor said. He folded a second coat into the case and weighted it with books. "Silberwald. The capital."
+
+"Now? You'll miss the parade."
+
+"I'll grieve the loss." He didn't look up. "There are moments a historian gets one of in his life, if he is fortunate, and I am told one is happening in Silberwald, and I would rather stand in the room where it happens than read three secondhand accounts of it later and trust none of them."
+
+"What moment?"
+
+The professor straightened. He considered the boy a moment — earnest, snow-blind, too young yet to understand that the most interesting events in history were never on the battlefield.
+
+"There is a hero," he said. "A young one. They've stitched a great many names onto him already. If the caravan rumors are to be believed. He's a boy who can stand against the elves and against the Titans both." He latched the case. "And he has become the rope in a contest between a prince and a princess of that realm, and they are going to pull him apart between them. Politics will do to him what no enemy could."
+
+"That's the moment? Watching them ruin him?"
+
+"That's the moment." The professor lifted the case and tested its weight against the long road south. "It is rare and instructive to watch a power destroy the best weapon it ever forged over who gets to hold it." He paused at the door, where the cold came in under it in a thin white drift. "And rarer still to watch from close enough to ask whether anything useful might fall loose in the breaking. A thing that strong, slipping through the Empire's fingers. Perhaps it lands somewhere. Perhaps it lands somewhere a friend of the Republic might catch it. Or perhaps it is only a danger the Empire is building, and we are better served seeing it dismantled with our own eyes."
+
+The student frowned, not following, and the professor did not help him.
+
+He stepped out into the snow.

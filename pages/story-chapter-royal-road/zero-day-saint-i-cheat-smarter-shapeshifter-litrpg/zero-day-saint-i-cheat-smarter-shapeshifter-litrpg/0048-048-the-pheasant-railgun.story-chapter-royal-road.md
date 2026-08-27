@@ -1,0 +1,313 @@
+---
+id: e2dce7c0-8cae-577e-8411-17c81c73dcaa
+page-type-slug: story-chapter-royal-road
+title: "048 - The Pheasant Railgun"
+slug: 0048-048-the-pheasant-railgun
+partOf: zero-day-saint-i-cheat-smarter-shapeshifter-litrpg
+position: 48
+ownLength: 3520
+unit: words
+publishedAt: 2026-06-26
+link: "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpg/chapter/3592536/048-the-pheasant-railgun"
+royalRoadId: "3592536"
+---
+
+I decided to sleep on my perks before making a decision. They were both great and came with a horrible opportunity cost. And a clear scolding by the Blessing. I was going too fast.
+
+By social arithmetics far beyond my understanding, Ash and Stephen ended up sharing the bed, while Jamie and Liz slept in sleeping bags on inflatable mattresses.
+
+My plan had been to guard the main entrance in Angel's shape. I couldn't even remember the last time I had relied on it, but it felt appropriate for guarding the others. What I hadn't accounted for was my mind's reaction to, well, the entire apocalypse.
+
+Without the protection of a sanctified space, sleep was only an opportunity for my mind to process a Best-of reel of the most horrifying moments of the last days.
+
+I begrudgingly joined the others in the small room and curled up behind the door. Deep sleep captured me within seconds, and if the night held any horrors for me, I couldn't remember them when Stephen woke me up.
+
+He was crouching next to me, the others still asleep. He put a finger to his lips and nodded out of the room. We didn't stop in the larger room but went over to the lounge, where he sat down.
+
+"Before I get to why I woke you up: Why is your dog shape male? When you ate the heart of a male kobold, you turned into a female version? Sorry if that's none of my business."
+
+I shifted out of Angel's shape and sat down across from Stephen.
+
+"Because the Blessing is weird and my three random daily shapes aren't random. Some mimic very specific animals, and in this case my childhood pet. I fully embody those shapes as I remember them. The orca was the one from the movie, too."
+
+"Free Willy?"
+
+"That's the one. Why did you want to talk to me?"
+
+"Yesterday you asked me if I had any resistance or even immunity potions. Today I woke up to find this in my care package. I have the odd feeling it is not meant for me."
+
+He pulled a bottle out of his inventory and put it on the table. It was the flared shape of a regular potion bottle, only that the silvery-white liquid inside shifted and slushed with an unseen storm. I examined the potion.
+
+[Potion of Unstoppable Force (Legendary Unique Potion)
+
+Effect: Complete immunity to collision damage or other damage taken as part of a momentum-based attack. Does not provide immunity against successful attacks by others during such an attack.
+
+Duration: 90 seconds
+
+Legendary Unique rarity: Only one potion of this kind will ever be created in this reality. Cannot be crafted, duplicated or infused. Attempts will backfire.]
+
+My stomach dropped. I reached out for the potion but my hand was shaking too much. I didn't dare spill it.
+
+"I guess that look in your eyes means you have an idea for this?" Stephen asked.
+
+The mannequin that had rested on the other side of the room walked over. Claire leaned forward and examined the potion. She turned her head to look at me.
+
+["The gadget is recovered. I can be ready within the hour."]
+
+"Yes, Stephen. One could say I was waiting for this. Don't ask for details. I don't dare speak about this out loud." I was being irrational. This was Fate giving me the go-ahead. Tempting me to do as it wished.
+
+But so many stories were full of fools who had relied on Fate only to falter when it presented its bill. And I couldn't tell if this was Fate giving me a handout, or demanding payback for everything it had already done for me.
+
+I braced myself and pulled the potion into my inventory. Which immediately granted a Task Completion. I opened the menu to check it out.
+
+[Hold an item of Legendary Rarity
+
+Reward:
+
+First Taste (Trait)
+
+Effect: +1 Luck attribute]
+
+"What the fuck?" I said.
+
+"You got that reward, too? I woke up to it. Any idea what luck means? My guide is stumped, too."
+
+"Nope." I went through all my menus. There wasn't a single mention of luck. I still had four attribute points. I tried mentally allocating them to luck. Nothing happened.
+
+"Is this a joke? Claire? Do you want plus one to luck?"
+
+The mannequin tilted her head. ["What is luck?"]
+
+"I have no fucking clue." I pulled the bottle out again and put it on the table in front of her.
+
+She lifted the bottle, very, very carefully, and set it back down. She tilted her head the other way.
+
+["Curious."]
+
+"Start preparations. We are doing this as soon as possible."
+
+I stared at the potion. On the one hand, I felt more like leaving a letter or something and just sneaking out. On the other hand, we couldn't waste the advantage of giving everyone a possibly significant buff to a stat.
+
+Also, success or failure, they'd probably be justifiably miffed if I just snuck away. But if he knew what I was doing, Jamie would justifiably call it hubris.
+
+"I assume you are well aware of how risky this plan of yours is," Gabriel said. "I am not exactly sure what you are planning, but this potion is very much a double-edged sword. I would say you shouldn't do this, but it is a unique opportunity. Let me say this much: Declining is an option. It will have consequences, but the consequences you are already facing are potentially lethal."
+
+"Fuck it. Do it, Eve. Put both of our lives on the line for a stunt that'll echo for ages. Just do me a favor and give the spectators the finger before you do it," Lucy said.
+
+"Got it, Lucy. Sorry if I kill us."
+
+Stephen looked at me. "That kind of plan, hm?"
+
+"I think I shouldn't have said this out loud. But yes. Can you make breakfast? A plus two could make a big difference today."
+
+"Sure can do."
+
+I grabbed the potion and went to the bedroom. My abrupt entrance stirred the others to life.
+
+I leaned over Ash while he turned to see what was going on. I put the potion in his hands, and the moment I saw his eyes flicker to the notification, I pulled it away again.
+
+Then I repeated the process with the other two. My mistake was doing Jamie last, after he'd seen what I did with the other two. The moment the potion touched his hand, it vanished into his inventory.
+
+"Eve. What are you doing?"
+
+"Spreading luck."
+
+His eyes unfocused while he processed the Task Reward.
+
+"The hell is luck?"
+
+"I have no idea. Can you give me the potion back?"
+
+The potion manifested in his hand.
+
+"How did you get this?"
+
+"Stephen's care package."
+
+"What are you doing with it? Besides spreading luck."
+
+I was about to reply when he cut me off. "No, wait. Just. Let me wake up for a second. I don't mean to interrogate you, okay? You are just acting a bit more erratic than usual, and it's a bit scary."
+
+I took the potion from him.
+
+"I am scared, too. I can't talk about what I'm doing but… I don't know how it will end. Your oath. What happens when the partner dies?"
+
+"I will be notified and I can pick a new partner. Technically I can do so at any time, but then the Oath stays dormant for a week."
+
+"That's good. I wouldn't want you to have wasted a perk."
+
+I started processing my remaining business. I accepted the +1 Luck. I picked Exemplar Leader. I put all four points into Charisma, raising it to 6 with Certified Threat—now I'd get another +1 to Endurance from Mind over Matter.
+
+"Eve, what is going on?" Ash asked.
+
+"I'm going out and I'll execute my plan and I might not come back. I hope I do and—" I stopped myself before I gave away the secret. "It'll be okay. Claire is in on the plan."
+
+"Can we help?" Liz asked.
+
+"No. Not really. There is no friendly fire protection."
+
+I turned to the door. "I'll have breakfast, then I'm heading out. Please don't try to talk me out of it."
+
+Jamie followed me. In the lounge, I was welcomed by the sound of sizzling oil and the smell of frying eggs.
+
+"Open-faced egg and ham sandwich on toasted bread?" Stephen asked.
+
+"Damn. That does sound like a last meal."
+
+"Just a popular German sandwich."
+
+Jamie stepped into the room with us. He wordlessly sat down at one of the tables. I took the plate from Stephen and joined him.
+
+I ate in silence. Stephen made another sandwich for Jamie.
+
+"No speech?" I asked.
+
+"I'm racking my brain but coming up blank. Just, you know, try to come back to us? We've only met a couple days ago but the apocalypse would suck a lot more without you."
+
+"That's the nicest thing anyone said to me in a long time."
+
+"You never stop trying, you know? It's not like things are really desperate yet, but still. The way you are always looking for a new angle. It makes me think that this can be done. That if we try hard enough, the world doesn't have to end. So, please come back and keep trying."
+
+I quickly bit off another bite. There was no way I was going to cry while eating a sandwich this good.
+
+We sat in silence for a moment, pretending to just enjoy our breakfast. I only spoke when I was done with mine.
+
+"Hey, when I'm back I got a solution for our experience problem. I got a Perk that helps with powerleveling others."
+
+"That sounds like something to look forward to."
+
+I pulled the goggles and the Crown of the Laughing Queen out of my inventory, equipped them, and watched the Bonding timers tick down. I tilted my head a bit to test its weight. Not only was it not as heavy as a golden crown should be, it also didn't wobble at all.
+
+"I forgot about that thing. What do you think you'll get?"
+
+What could possibly be a fitting reward for killing a demonic dragon warlord of greed?
+
+"I don't have the slightest idea. A recurring theme this morning."
+
+This time, Jamie didn't wait for permission. The moment I stood up, so did he, pulling me into a tight embrace. The oath shared it all, his fear, his resignation, even shame. He felt that he failed me by letting it come to this. Not something I would untangle today.
+
+"It'll be okay," I said. "I'm nearly sure I'll make it back."
+
+"Please do," he whispered.
+
+Stephen's farewells were a lot less melodramatic. He gave me a fistbump and said, "You got this."
+
+I left the party.
+
+"Jamie and Claire will keep you updated on my survival," I said.
+
+Outside, the morning sun was entirely inappropriate for the gravity of what I was about to do. I shifted into the hawk shape and approached the Mammon tower. A couple of blocks away I found one of Claire's bodies on a rooftop. I landed next to her. It was a pitch-black cat.
+
+["I am slightly iffy on the physics of it all, but you know that most likely none of your bodies you send will survive this?"] I wrote.
+
+["Yes, Eve. I am not dumb. I understand what you are about to do. I have already started replicating your device."]
+
+["Do you want to party up? You could still get a lot of experience from this."]
+
+["Not possible. And I do not wish to elaborate."]
+
+["I'm starting to think you say that whenever elaborating would reveal just how short the straw you drew with your class really is."]
+
+["I still know how you tick, Eve. It is a problem beyond your ability to solve and yet you would consider how to do exactly that. I am protecting you here. You've amply proven how close to your limit you are."]
+
+I fluffed my feathers.
+
+["Damn, did I not miss our friendly chatter. We don't have to play martyr olympics. You can share your issues with others just so you don't have to carry those burdens alone."]
+
+The plushy turned her head to face me.
+
+["What makes you think I am not sharing with others?"]
+
+["The fact that you waited until I could fly before you asked for my assistance. You seem to know just about every Blessed in the city by now. You can't tell me that there wasn't someone sneaky enough to climb up there and end your suffering, before I was able to fly."]
+
+Claire didn't respond any further.
+
+["ETA: 5 minutes. Move into position,"] she wrote a while later.
+
+I flew up and up and up, as high as the hawk would go. Then I approached the Mammon tower from above, hopefully shielding me from all but the most attentive eyes.
+
+Balancing on the railing of its roof, at a height of 550 meters above sea level according to my UI, I spotted Claire's offering approaching. Four mannequins pulled and pushed a cart loaded with the most gaudy and shiny offerings she could find. Anything that was bronze or golden and not nailed down. There were even some legitimate gemstones in there. Eight more escorted the offering, wielding simple spears made from metal pipes.
+
+A single mannequin walked at the front, this one even dressed. Just a simple hoodie, but more than the others. With its right hand it waved a flag bearing Mammon's sigil. On its left sleeve Claire had taped one of those flexible keyboards—I would have used one, too, if I had found one.
+
+A pair of demons, one robed male and one polearm-wielding female, approached her, flanked by half a dozen demon hounds. The armed mannequins fell into a defensive position, but no fight started. This was my cue to shift to my human shape. Talking was happening and I had to time this very precisely. Mammon didn't seem like the type that'd be patient.
+
+I lay flat on the ground and peeked over the edge. Up here even the summer wind was biting cold.
+
+I couldn't understand a word that was exchanged down there. Everyone stood still and my only clue that words were exchanged was Claire typing on the keyboard. She had placed the flag in a little thingy she had added to her cart, specifically for that purpose. She was nothing if not thorough.
+
+Eventually the robed demon went inside. The remaining one examined Claire's warrior mannequins. While I had no doubt the demon could defeat all of them, their synchronised movements made for an excellent deterrent.
+
+A couple of kobolds poured out of the building. Clearly not operating on anyone's orders. They avoided the demon and craned their necks from cover to look at the exchange and Claire's offering. I felt sorry for what I was about to inflict on them. If that accursed dragon was willing to show up.
+
+But Claire's offer was too good for him to ignore, wasn't it? A modest offering of New York's treasures and the locations of every Blessed in the city. All in exchange for sparing her and letting her turn the remains into her little sandbox.
+
+After agonizing minutes something stirred on the street level below. First a small regiment of female demon warriors marched out of the building, taking up formation. Formation that left a lot of room in its center.
+
+And then he left. He was slightly smaller than I had anticipated. But a Smaug-sized dragon simply wouldn't fit into any corridor in this building, would he? No, this one was merely truck-sized. His scales were as night and I could make out faint lines of gold running over his shape. No time to ponder why the greed dragon demon was kintsugi themed.
+
+He didn't hesitate establishing that he was a proper bastard. The closest warrior mannequin was immediately crushed under his claw, two more melted away when he spewed a dark energy blast at them.
+
+I couldn't make out the words, but I could hear him bellow a command. The remaining mannequins all knelt down.
+
+I peeled away from the edge and the sight. There was work to do. I pulled the potion out of my inventory and drank it. Ninety seconds started ticking down. Next came the unicorn shape. The buffalo was an option but it was literally three times as expensive. I didn't know how much shifting I'd need to do on my escape.
+
+One minute before I could shift again. The drop would take me roughly five seconds.
+
+I watched both timers tick down. Dread and doubt started spreading through my mind. Even the unicorn's malice couldn't keep them at bay. At least its fear response was definitely flight. Which we'd get plenty of, in just a moment.
+
+When my shapeshifting cooldown was down to five seconds, I ran and leapt over the railing. I pulled my legs in and angled my body downward while reducing drag to a minimum. My body accelerated downward with roughly 11.7 m/s² of acceleration. I could see my reflection in the shiny surface of Mammon tower. A nightmare unicorn wielding that ridiculous crown and goggles. I had a couple of seconds to admire the sheer absurdity while my kinetic energy measurement steadily climbed up.
+
+I activated Focused Fury, spiking my mass and energy by 72%.
+
+While I was a hundred meters away, one of the demons noticed something. But at that point I was already a single second away from impact. Mammon managed to turn his head.
+
+I made eye contact and shifted into the pheasant. My speed went from a meagre 108 meters per second to two-thousand. I attempted to shout "Bawk!", but I was far faster than sound. The scream wouldn't reach me for a while. I hit Mammon center mass and welcomed drag back into the equation.
+
+Final force of impact: 2.94 megajoules. Or roughly 63 megajoules if we applied all my damage multipliers to the equation. The Pheasant Railgun in all its glory.
+
+In the mere milliseconds as I passed through the warlord's body, a vacuum formed that would turn his body into soup. Notifications flooded my UI. A debuff appeared. My level ticked up to 19.
+
+But my journey didn't end at the pavement. The potion worked. I didn't die. I passed through the pavement and could feel it ripple outward behind me. Underneath the street the spaghetti layer of New York's utilities awaited me. Pipes and shafts and cables gave way to my endless force.
+
+Next came the extended bowels of the Mammon Tower, a very brief glimpse of the vaults that extended out from the tower, not carrying the profanity of its associated building.
+
+By this depth I had finally shed enough speed to regain a semblance of control. The moment I pierced into the next open space, a subway tunnel, I steered myself more horizontal. I didn't fully succeed, but enough that I bounced off the tunnel's floor, into the ceiling, and back down again. Behind me the earth groaned as the crater behind me collapsed and molten slag poured down into the tunnel.
+
+All the while, a notification had been front and center in my UI.
+
+[Draconic Heritage (Permanent Trait - Crown of the Laughing Queen Reward)
+
+Effect: Your base form shifts to a half-dragon hybrid. Black, chitinous scales interlaced with glowing golden seams trace your body, mirroring the nature of the defeated Warlord.
+
+Draconic Resilience: +2 Strength and Endurance (scales with base allocation).
+
+Dragon Scales: Resistance to Fire, Mundane Attacks and Acid.
+
+Preserved Humanity: Your previous human form is retained as an Innate Shape. Shifting into it costs 1 ATP. All shapeshifting bonuses, perks, and item effects apply normally to this form.
+
+Hybrid Limitation: While in your Draconic base form, shapeshifting bonuses do not apply. This form is your new baseline.
+
+This bonus is permanent and crown-independent. It can be rejected.
+
+[Accept] | [Reject]]
+
+Now I understood why I could reject. My very first reward from the Crown was literally asking me to give up my humanity. I read the debuff. While I would need every possible advantage I could get, this was not a choice I could make under those circumstances.
+
+[Mammon's Death Curse (Debuff)
+
+Dear Murderer,
+
+You managed to kill me. Fuck you. I hope you die lonely.
+
+Best Regards,
+
+Mammon
+
+Effect: Alerts every demon in a one-mile radius to your presence. They aren't psychically compelled to attack you, but they will. Have fun.
+
+Duration: Permanent.]
+
+I had 50 seconds before I could shift again and red dots were pouring into the tunnel behind me. My UI told me I was 15 miles underground. I wasn't, but it couldn't parse the impossible geometry of the liminal space I found myself in. I ran for my life. The crown's reward still front and center in my UI. No way to minimize, only accept or reject.
+
+At least the city-wide task stated 1 / 3 Warlords killed.

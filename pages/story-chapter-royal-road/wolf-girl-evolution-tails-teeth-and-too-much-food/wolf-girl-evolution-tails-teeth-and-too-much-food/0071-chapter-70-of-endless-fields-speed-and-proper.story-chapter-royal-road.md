@@ -1,0 +1,279 @@
+---
+id: 2a62ca6e-706b-5d43-bf3d-f15b0756f37a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 70: Of Endless Fields, Speed, and Proper Packs"
+slug: 0071-chapter-70-of-endless-fields-speed-and-proper
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 71
+ownLength: 1509
+unit: words
+publishedAt: 2025-11-24
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2789794/chapter-70-of-endless-fields-speed-and-proper"
+royalRoadId: "2789794"
+---
+
+PoV Luna
+
+Morning spilled over the plains like golden soup – thick, warm, and shimmering with spice-light.
+
+The grass moved with it, a slow sea of silver-green waves catching the light. Each stalk whispered against the next, full of bugs and scent and motion. Tiny white flowers speckled the green horizon, and here and there, gentle hills rose and fell like sleeping beasts.
+
+Rabbits darted here and there in little flashes of fur, while the breeze carried the smell of dew, wildflowers, and far-off things worth biting.
+
+Luna stood still for a heartbeat, toes pressing into the soft earth. The land went on forever. No trees, nor walls. No ruins, holes, or vines.
+
+Then the grin came, wide and bright, spilling across her muzzle.
+
+“Fun!” she declared to absolutely no one, because it was.
+
+The biggest, emptiest, most run-able thing she had ever seen!
+
+She took a cautious paw step.
+
+Then another.
+
+No tree root grabbed her. No vine tripped her. And there were no weird smells screaming danger at her either.
+
+“Hmm. Too easy!” she decided, her tail swishing in disappointment.
+
+No obstacles meant no fun!
+
+But then she shrugged the thought away and crouched low, breath catching in her chest.
+
+“Boring or no, Luna still go!”
+
+And so she bolted!
+
+Wind slammed into her fur, cool and fierce. Her paws pounded the soil, rhythm quick and clean. Every stride stretched further. Every heartbeat thudded louder. Grass split in sprays of green around her path, scattering bugs into the sunlight.
+
+Faster.
+
+The world turned to sound and color – to wind in her ears, sky in her eyes, heartbeat in her chest!
+
+Faster!
+
+Her laughter rang out, carried by the wind. The joy she felt growing with every pawstep she took.
+
+She kept running.
+
+And running.
+
+And running!
+
+The fastest Luna ever had! Eating distance like jerky, no worry in her mind, just the rapid pounding of her paws, all focus set ahead!
+
+Her pack’s voices faded somewhere behind her. She could smell them still, faint and distant, but they were dots now – tiny dots on the moving earth.
+
+So far behind! So tiny and smoll!
+
+This was just so fun!
+
+“The fastest howl in the west!” she shouted to the sky, and the sky shouted back in wild echoes.
+
+“Awooooo!” she howled out again, pouncing hard ahead.
+
+The sky answered with a low rumble of approval, or maybe laughter. It didn’t matter! She howled back, a bright, wild sound that rolled across the open air and vanished somewhere far away.
+
+Then–
+
+A chime rang faintly in her head.
+
+【Run Lv.11 → Lv.12】
+
+The System message tickled at her thoughts. She barked a breathless laugh.
+
+“Yes! Luna fasterest wolf now!”
+
+Ahead, the plains broke into a distant rise – a hill crowned with a handful of trees waving their branches like green flags.
+
+New run goal!
+
+Maybe hides new bite? Luna will run to check!
+
+Her grin sharpened.
+
+“Gotta go faster!”
+
+She threw her weight forward, head lowered, claws digging deeper, each leap a burst of power. Her legs burned. Her lungs sang.
+
+And she didn’t stop.
+
+Not when the hill rose under her paws. Not when the wind screamed past her muzzle. Not even when her laughter turned to panting.
+
+The world was big and wide and hers to run.
+
+And Luna was going to outrun every inch of it!
+
+***
+
+The world only slowed when Luna stopped running.
+
+And she only stopped running after reaching her target in record time!
+
+Luna stood at the crest of a small hill, chest rising and falling, fur puffed from the wind and effort. Every breath came with the taste of wild grass and warm air. She stretched long and low until her back popped and her tail flicked in satisfaction.
+
+“Ha! Luna wins race!” she announced proudly, tail wagging.
+
+But only silence answered.
+
+She blinked, ears twitching. Then turned.
+
+Far behind, her pack trudged along the road – slow, two-legged dots moving in what could only be described as a tragic rhythm.
+
+Luna barked, a sharp proud call that cut across the wind.
+
+Syl lifted a hand in return, lazy and patient. Trianna waved too, probably laughing. Ray might have been muttering about “hyperactive wolves” again, but he was too far for her to hear.
+
+Luna huffed.
+
+“No competition. Sad!”
+
+Still, her grin lingered.
+
+The wind brushed over her fur again, cooler now, whispering through the grass that stretched forever in every direction. She turned in a slow circle, ears sweeping the horizon.
+
+Plains. Only plains.
+
+Nothing but plains.
+
+Plainly, very plain plains!
+
+Only a few trees hunched in the distance, barely taller than Sepio’s shield. A thin river shimmered faintly nearby, all trickle and no bite!
+
+The rest was gold and green and far too open.
+
+No good hunt scent. No sharp tang of fur or blood. No big strong meat monsters stalking the tall grass either!
+
+“Hmm.”
+
+Still, Luna was Apex Predator!
+
+And Apex Predators were good scout material! No quitting!
+
+She lowered her nose and started searching, paws padding soft through the knee-high grass. Rabbitsy snacks darted away too late. One unlucky boar squealed before she pounced, claws sinking deep. It was over fast – too fast.
+
+No challenge.
+
+She ate half a bite, frowned, and put the rest of it into the shadow pooling beneath her.
+
+【Devourer’s Maw Activated】
+
+The dark split opened in the dirt, rippling, swallowing the remains with a wet sound. Then gone, only a whirl of shimmering shadow stayed for a moment after.
+
+No smell, no mess.
+
+Luna wagged once, pleased.
+
+“Convenient!”
+
+The System could be mean, sure – but when it worked? Oh, it worked nicely!
+
+And mostly thanks to her, of course! Her skill made the Skill, obviously!
+
+Clever Luna. Efficient Luna.
+
+Strongest and smartest Apex Predator in the plains!
+
+She licked her muzzle clean and sat down, eyes scanning the horizon again.
+
+Nothing moved except grass and clouds. The stillness felt strange after the forest – too wide, too quiet, too tame.
+
+She flicked her tail, restless.
+
+“Too plain,” she said again, more firmly this time.
+
+Luna glanced over her shoulder.
+
+Her pack was still walking.
+
+Still just walking!
+
+Far behind her, their figures moved in slow little dots along the road – steady, plodding, predictable. Boring!
+
+Just why were her two-legs like that?!
+
+“Why you no run?!” she muttered under her breath, tail flicking in irritation.
+
+They were smaller now in her eyes, but closer in her chest. They were her pack now. Not dum dum “new pack” anymore.
+
+Proper, proper pack.
+
+Still, they were so slow! And so silly.
+
+Always saving energy, always walking straight lines.
+
+So weird!
+
+Her nose twitched as she turned forward again. The air smelled of dry dirt, warm wind, and faraway promise. The road stretched straight and clear, a perfect running line between sky and earth.
+
+Her tail began to sway again.
+
+Run had leveled up! That was good. Very good!
+
+But could it level more?
+
+Could Luna be even fasterest-er?
+
+Her ears tilted forward, nose low, thoughts tumbling like stones.
+
+“Hmm.”
+
+She trotted a few paces, claws scraping soft on the packed soil. Her tongue lolled, half from thought, half from boredom.
+
+“...But how does Luna run faster if Luna ran fastest already?”
+
+That was a hard problem.
+
+And hard problems were biteable problems!
+
+She grinned, teeth flashing bright in the sun.
+
+“Then Luna bites it with more run!”
+
+She crouched low, muscles coiling. The world shimmered ahead of her – flat, endless, calling her name in every gust of wind. The grass whispered secrets. The horizon dared her closer.
+
+Somewhere beyond all this, the pack had said, were cities and rivers and other people things.
+
+Beyond those – mountains.
+
+Beyond even that – unknown lands. Unknown scents. Unknown meals!
+
+The thought sent a shiver down her spine, half hunger, half thrill.
+
+So much space.
+
+So many bites waiting!
+
+Her paws dug deeper into the dirt.
+
+Luna could almost hear the System sigh somewhere in the back of her head, tired and ready to be mean again already.
+
+Good. It should be tired!
+
+Because Luna wasn’t stopping until she learned the next trick!
+
+The wind shifted, carrying her pack’s distant laughter. Her ears perked, heart fluttering warm. Proper pack. Always behind, always there. She would circle back soon enough.
+
+But first – fasterer training.
+
+“Okay, world,” she said softly, crouching lower. “Try to keep up!”
+
+Her tail lifted high. Muscles tensed, breath steadied – then everything exploded into motion.
+
+The road blurred. The fields roared. The horizon danced closer with every heartbeat.
+
+Fur streamed behind her in silver light. Pawbeats turned into thunder.
+
+The world was big.
+
+But Luna was fast!
+
+And getting ever faster!
+
+Her laugh rolled through the wind, wild and bright.
+
+“Oh, it's going to be so much fun!”
+
+The plains swallowed her echo, but she didn’t care. The road ahead shone gold under the sun, endless and waiting.
+
+And Luna – wolf, runner, future fasterest of all – raced toward it, teeth bared in joy.

@@ -1,0 +1,31 @@
+---
+id: 6d0b8b33-2e07-584c-912f-8feb01d13d6b
+page-type-slug: story-chapter-royal-road
+title: "Book 5 - Live on Amazon!"
+slug: 0003-book-5-live-on-amazon
+partOf: ultimate-level-1-litrpg-book-11-stubs-310
+position: 3
+ownLength: 182
+unit: words
+ownProgress: 182
+publishedAt: 2024-11-01
+link: "https://www.royalroad.com/fiction/76259/ultimate-level-1-litrpg-book-11-stubs-310/chapter/1878893/book-5-live-on-amazon"
+royalRoadId: "1878893"
+markedReadAt: "2026-06-29T20:31:41.945Z"
+---
+
+It's hard to believe that 1 year ago I sat down after plotting 50 chapters of this story and penned those first words...
+
+Can you believe it? Dang Max and his tiny bladder and desire to be a [ Baker ]!
+
+Now, the story had done far more than I could have ever dreamed of!
+
+Due to the success and all of you, I have managed to pay for my 2 oldest to go to college this year! It's helped me in ways I can't describe and the fact it is still doing so well blows my mind!
+
+Each day I look forward to getting to sit down and continue writing on this story! (Over 40k+ words done in book 7 atm!)
+
+Even better - the webtoon stuff is going strong! Line art is done almost for first chapter and coloring of the line art is starting soon! Super excited to see it come to life (goal is jan 2025!)
+
+Thank you again for how you love on me and my story!
+
+11/4 is coming! Book 6 is a whole new level!

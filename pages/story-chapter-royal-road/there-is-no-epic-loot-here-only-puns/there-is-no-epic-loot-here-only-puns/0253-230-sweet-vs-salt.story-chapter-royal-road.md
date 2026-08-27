@@ -1,0 +1,213 @@
+---
+id: 4b6916ee-bf9b-5184-b85d-094d3e9a86c4
+page-type-slug: story-chapter-royal-road
+title: "230: Sweet vs Salt"
+slug: 0253-230-sweet-vs-salt
+partOf: there-is-no-epic-loot-here-only-puns
+position: 253
+ownLength: 2949
+unit: words
+publishedAt: 2025-12-20
+link: "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/2864464/230-sweet-vs-salt"
+royalRoadId: "2864464"
+---
+
+Delta blinked into the dungeon of Foodie, her eyes widening at the sheer transformation that had taken place. What had once been a simple, almost basic space had blossomed into something that defied reason.
+
+Solid pillars of salt jutted from the ground, like ancient sentinels, each one releasing a fine spray of water that hung in the air, shimmering with ghostly rainbows.
+
+Above her, giant crystals pulsed with a pale yellow light, casting shifting shadows that seemed to move on their own.
+
+The space felt alive, as water flowed smoothly around the salt slides, bringing the entire dungeon to life with the gentle sound of rushing streams. The flow intertwined with the glowing crystals, making the whole place seem to breathe and shimmer in unison.
+
+“Foodie?” Delta called out, her voice echoing softly off the salt pillars. In response, the being appeared, still mostly an undefined swirl of concentrated mana, buzzing with energy but lacking any fixed shape.
+
+Foodie hummed with excitement, his energy crackling in the air before he seemed to remember a more direct way to communicate.
+
+“You’re back!” he exclaimed, his voice radiating happiness, almost as if the entire space was sharing in his joy. Delta turned slowly in Foodie’s entrance hall, her eyes drawn to the three different paths stretching out before her.
+
+With a subtle wave of her mana, she sensed the changes. Some rooms opened wide, tempting explorers in, only to trick them at dead ends. Others twisted into narrow hallways, drawing them further into the depths. In some of the rooms, strange little creatures, like crystal spiders, skittered across the ceiling. Their movements were synchronized, as if guided by some unseen force. They performed a set of dances at each other, silently communicating, their movements hypnotic and beautiful.
+
+It looked familiar.
+
+Aside from the crystal spiders, a few harmless traps had been set into the walls, puffs of salt ready to blow into unsuspecting faces, or subtle grains of salt dropping from the ceiling to slide down the backs of people's clothes. Nothing malicious, just enough to catch someone off guard with a mischievous twist.
+
+“You’ve been busy!” Delta said with a grin, pausing as Tim appeared in spirit form, his aura shifting to something akin to horror as he glanced around at the flowing salt and water.
+
+“Salt ruins magic!” Tim blurted out, as if Foodie had committed an unforgivable offense.
+
+“Magic ruins salt, so it’s fair,” Foodie replied, his tone noticeably colder, the earlier warmth gone in an instant.
+
+“Well-” Delta began, trying to play the diplomat, but Tim the dramatic spirit, puffed out his little mana chest, cutting her off.
+
+“Magic is the vastly superior element, knave! I shan’t have thouest denigrating my craft!” he declared, full of pomp and self-importance.
+
+Foodie, unimpressed, blew a blast of salt-mana directly at Tim’s avatar, who immediately erupted into a fit of coughs and sneezes, the gust knocking him off balance.
+
+“Take your thouest and shove it up your flapping gobbith!” Foodie shot back, his energy crackling, hackles raised in defiance. Delta, watching the two bicker, suddenly grasped why Dungeons went to war so easily, it wasn’t about territory or morals, or even the long decay of friendship into enemies.
+
+It was because they were all this stubborn.
+
+Having already strapped on her adult pants, Delta reached out through the network and gave both cores a sharp mental flick, causing Tim and Foodie to yelp in unison.
+
+“Children,” she said, her tone carrying the weight of a disapproving parent. Both Dungeon avatars turned to her, wide-eyed, before going awkwardly silent, shuffling as if they’d been caught red-handed.
+
+“He started it,” Foodie muttered, not quite able to meet her gaze.
+
+“And I ended it,” Delta said simply, her tone making it clear the matter was closed. She looked between the two grumbling Dungeon cores, knowing she couldn’t leave things unresolved. A good network didn’t just rely on a leader, it thrived because it worked on multiple levels, even when the boss wasn’t around.
+
+“So, magic and salt can’t help each other, not even a little?” she mused aloud, her tone light, as if genuinely troubled by the thought. She let the question hang there, tempting them both.
+
+“Well, from the most potent grimoires I hath devoured, salt is one of the most natural elements found across dimensions,” Tim said, his voice taking on a scholarly tone. “It has a powerful resistance to other energies, particularly the arcane.”
+
+Foodie nodded thoughtfully, then added, “Salt is abundant near the head and crown of the world. There’s a massive amount right near you, Delta.”
+
+Delta mentally brought up the map of the world, and her eyes were drawn to the “head” where two large lakes sat. Beneath them, two deep pools flowed, almost as if they were reaching down to the world’s core. One of the lakes was connected to Waddles’ nest and the Lake Room.
+
+Twin pools. Salt. Flowing…
+
+"Does Brother cry?" she nudged Sis, who responded with a soft giggle.
+
+"He hit his knee when he fell, and it never stopped. Now he’s embarrassed and says it's 'sweat holes,’" she whispered, trying not to laugh. Delta’s eyes flickered to the ground. It was exactly the sort of excuse you’d expect from the gremlin god.
+
+Delta, smiling at the exchange, turned back to the topic at hand. “So, magic can’t do anything to salt?”
+
+“No wizard hath ever truly tried, my great lady Delta,” Tim answered with all the flair of a seasoned mage. “It doth require extreme focus, control, and vast mana reserves. And from thine grimoires, pure salt is as rare as a well-behaved imp.”
+
+He glanced around the cavern of salt, his resolve faltering slightly.
+
+“I suppose... some facts need checking,” he muttered, with a reluctant grumble.
+
+“So, a magic user with precise control… plenty of mana… and a free source of salt?” Delta listed slowly, her tone hinting at a smile. The possibilities hung in the air, playful but potent. Tim glanced over at Foodie, who was already busy making salt angels, utterly distracted by his own amusement.
+
+“I could make strides in the field,” Tim said, his interest flickering for a moment. “That is, if your companion can control his more... chaotic tendencies.”
+
+“You want salt? I can give you salt,” Foodie replied easily, already over the earlier tension. He was now fully engrossed in building a salt snowman, humming quietly to himself as he shaped the tiny figure. The earlier disagreement was long forgotten as he focused entirely on his new project, his mana hands moving with surprising care.
+
+Delta felt more in control by the minute so she smiled and with a nod she declared their partnership official by using the ancient ritual of any teacher.
+
+“I want three uses of magic and salt by the near future and I expect equal contributions,” she said to them both.
+
+“Yes, Delta!”
+
+“Acknowledged, my lady Delta!”
+
+Both snapped to attention, then immediately launched into an argument about whether to start with salt that affects magic or magic salt that affects everything else.
+
+Delta, finding their debate mildly amusing, quietly slipped away to see how Foodie was progressing with his dungeon. She was delighted to discover that each room had its own unique design, rather than following the usual templates, which thrilled her to no end.
+
+Some of the dead ends had curved coral pillars that doubled as slightly awkward chairs, while fresh water filtered through a small stream from a rocky spike in the ceiling. Other dead ends featured striking murals where Foodie had dyed salt and fused it into the walls, bringing vivid scenes to life.
+
+One mural depicted the Seahagin’s defeat, with a wave of salt crashing down from Foodie’s core, overpowering the attackers. Another mural captured the moment Delta found Foodie, with her represented as an orb of pure sunlight, banishing the swirling purple fogs of confusion that surrounded him.
+
+A cute, more hidden mural depicted Foodie gifting his human friend, Vadellen, the one Jack kidnapped last time, with a bag of salt. Beneath it, the phrase “Vadellen gets salty” gave the mural a personal touch for Foodie. But that didn’t mean Foodie’s focus was solely on personal development.
+
+Above the doors hung solid salt spike traps, primed to crash down the moment Foodie felt threatened. Some sections of the floor were made entirely of pure salt, which Foodie had solidified with his mana, but if he were under attack, they would shift into quicksand, trapping any who dared challenge him.
+
+While it might not have been a major threat in Delta’s old life, it was certainly a serious danger in this one.
+
+She checked in on the first floor boss, the Tyrant Crab, which was mostly asleep.
+
+It had gained a few permanent scars from the Echo weapons used by the Seahagin, but it seemed otherwise content, lying still like a giant boulder in the ankle-deep water, its massive shell rising and falling with slow breaths.
+
+Delta approached the Tyrant Crab, finding it still young enough and less "solid" in its mana that she could reach out and subtly shape parts of its form. She crafted a small, lopsided black coral protrusion on one side of its top shell, smoothing and rounding the edges until the crab looked almost gentlemanly.
+
+“Why did you do that?” Foodie asked, and Delta nearly jumped out of her skin at his sudden approach, as quiet as the tide slipping in unnoticed and just as inevitable.
+
+“Why did I do that?” she blinked, pointing to the little coral "hat." Foodie’s ghostly, round avatar bobbed up and down in acknowledgment. Behind him, Tim muttered to himself, carefully attempting to weigh salt with faint pulses of mana, as if trying to decode the science behind magical salt, grain by grain, each attempt seeming more focused and frustrated than the last.
+
+“Because I thought he might like it,” Delta explained with a smile.
+
+“I don’t think it likes anything. It doesn’t have… that thing your monsters have inside them,” Foodie said honestly, examining his boss as if now dissatisfied. Delta frowned and gave it a proper ‘look’ with her dungeon vision, finding it was indeed just mana in a shape with suggestions.
+
+There was nothing within it that would allow it to grow into a true monster like the ones back home, no spirit or essence to develop.
+
+“That’s not a bad thing. I don’t think my monsters had much spark inside them at first either,” she admitted as Delta leaned over and tapped the boss.
+
+“Blessed be your… um… shell,” she said with a shrug, letting her goddess energy flow out. While drastically weaker away from her dungeon, her ‘temple,’ it still worked just enough that the creature briefly flashed orange, a soft glow flickering over its surface.
+
+Delta was certain, after all her practice using Alpha as a training dummy, that her blessing abilities had improved! Maybe she could give the creature cute eyes, or little friends, or maybe even a voice so it could sing under the-
+
+The Tyrant Crab’s right claw exploded, replaced by a massive coral limb, a strange fusion of flesh, cracked shell fragments, and pulsing coral veins. A dozen little beady eye stalks sprouted around the limb, each one blinking in unison, giving the creature a peculiar, attentive look.
+
+“It’s sparking!” Foodie said in delight as Delta panicked, frantically trying to grab hold of the blessing to pull it back, attempting to reduce its impact on the crab.
+
+The blessing writhed in her grip, then snapped back to the crab like an elastic band. With cracking noises, coral armor hardened at the tips of its legs, each piece forming with the impression of skulls whose hollow eye sockets glowed faintly with an eerie light.
+
+“I can… fix this,” Delta promised, her focus sharpening as she concentrated, watching the changes spread. Foodie wandered closer, looking almost stunned.
+
+“It’s wonderful!” he said, sounding both touched and fascinated. Delta eyed the triple-twisting, self-feeding blessing she’d conjured and shook her fingers, dispersing it harmlessly against the space between physical and not.
+
+“Are you sure?” Delta asked, more surprised than she’d expected. Dungeons usually favored loot, big monsters, and dark, ominous spaces. She’d heard of people with similar interests back home, but as she turned back to Foodie, her thoughts took a different direction.
+
+“Your boss looks like one of those hidden disc-two side quest bosses, the kind everyone ends up liking more than the actual final boss,” she remarked. Foodie just stared at her, processing, and she could practically sense him diving into the network to “understand” her so-called wisdom.
+
+“I s-see… um, the healer can be saved, but my crab boss looks… popping fresh, for real for real?” Foodie stammered, piecing together the information in the same haphazard way Delta usually managed files in real life.
+
+With a small smile, Delta stepped back, letting Foodie gush over his boss, one that definitely didn’t belong on the first floor, but that wasn’t her problem.
+
+“My boss shall be a giant magical toad,” Tim announced, a hint of envy in his voice as he eyed the creature occupying the boss room.
+
+“All your creatures are magical toads. Are you sure you want another one?” Delta asked with a smile. Tim paused, giving it genuine thought.
+
+“Yes. Magical familiars are rarely given their due,” he replied firmly. “Woads, Wats, Wogs, Weasels, and every other kind deserve their chance to be the masters for once!”
+
+“Magical familiars are their own kind of lifeform?” Delta asked brightly and when Tim was about to answer with a detailed answer, Delta spoke again, “I guess I’m not really… familiar with them,” she chortled.
+
+Tim was quiet for a moment.
+
+“There is an unpleasant sensation in my core. It is…pain,” he replied to Foodie.
+
+“Puns are life!” Delta said, waving away their party-pooper attitude, being more excited about a demonic boss crab than her awesome jokes… honestly.
+
+“I have challengers!” Foodie announced suddenly and Delta could feel the whole first floor click in a more permanent way as what looked like four figures stepped into the space and Delta had a sudden case of deja vu as four teens, clad in pots and leathers, raised their wooden poles as they edged closer to the welcome room of the Dungeon.
+
+“It’s Vadellen!” Foodie said, pointing to the familiar teen Delta remembered from last time. The boy Jack had… er… rescued and brought into the Dungeon. The boy was warning his friends to be careful as he dropped what looked like honey in a small bottle as a tribute on the floor.
+
+The others offered less fancy gifts like a shiny pebble or a bird feather.
+
+“Foodie, are you excited?” Delta said as she turned back to the other core, only to find him stiffened up and almost hyper-focused.
+
+“Moving monsters, traps primed, Tyrant Crab roused,” Foodie said to himself in a strangely blunt tone.
+
+“He wasn’t like this last time,” Delta said with worry as she checked his stability and for any outside influences. Tim didn’t look or sound surprised at the response.
+
+“According to the Network - which keeps either telling me to search for information myself since it is busy or keeps redirecting me to what seemed like the same five illusion-like ‘games’ only slightly modified to make it harder for some reason - Foodie is still new. I doubt he’s had more than one human in his space before,” Tim said with a serious nod.
+
+Delta wasn’t sure it was a ‘great’ idea to have Prim and Nu in charge of the collective network for new Dungeon Cores, but then she imagined having to answer dozens of search engines for the most inane questions with no break… and decided the two could have the run of place until Delta inevitably scarred some other Dungeon software into sentience to take over.
+
+“Locking onto targ-... what’s that taste?” Foodie suddenly asked, snapping out of the primal Dungeon mode as the taste of honey leaked onto the ground. The teens had retreated outside to let the items dissolve which was very polite of them.
+
+Most people seemed to do it as a payment to go in and only come back out when they got their tribute’s-worth in return.
+
+“Bee vomit,” Tim said instantly.
+
+“It’s actually not vomit, honey is more like when bees put pollen into a separate organ from their digestion system-” Delta began to explain with a smile. Delta liked bees. Bees were the knees.
+
+“It’s… so… not-salt,” Foodie said, his tone becoming enlightened.
+
+“That’s called sweetness and it's one of the many flavors out there,” Delta said, blinking as the Dungeon sealed up and the ground shook.
+
+“Foodie, what are you doing?” Delta cried as Foodie’s bursting mana stores began to rapidly drain into some unseen expenditure.
+
+Behind the boss crab, the stairs leading down Foodie’s other floors had always been basic as the Dungeon hadn’t had time to dive deeper or customize them yet. The fight with the Seahagins had given the newborn Dungeon enough resources to be rather deep for his age.
+
+The stairs turned a deep golden and shimmery as the walls became segmented into hexagon.
+
+“...Are those stairs covered in reforming honey?” Delta asked lightly, having to be a slight expert on Dungeon bee vomit by this point in her career.
+
+“Ever sticky and goopy honey,” Tim agreed as Foodie vibrated out of sight, his mind overcome with the duality of flavors.
+
+“What would your second floor… bee?” Delta asked and Tim made that strange pained noise again. Odd.
+
+“Magic,” Tim insisted.
+
+“And your third?”
+
+“Magic!”
+
+“And-”
+
+“Different type of magic.”
+
+Right.

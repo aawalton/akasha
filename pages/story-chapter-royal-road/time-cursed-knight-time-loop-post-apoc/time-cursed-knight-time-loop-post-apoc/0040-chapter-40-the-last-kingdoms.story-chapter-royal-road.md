@@ -1,0 +1,463 @@
+---
+id: 9900470c-150d-503e-972c-65e3f26cefa5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 40: The Last Kingdoms"
+slug: 0040-chapter-40-the-last-kingdoms
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 40
+ownLength: 3685
+unit: words
+publishedAt: 2026-05-11
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3383344/chapter-40-the-last-kingdoms"
+royalRoadId: "3383344"
+---
+
+The surprise hadn't worn off. Not yet.
+
+Varen had agreed. Not just to Grenzheim, to everything. The field deployment. The training team near the front line. Access to real combat operations.
+
+More than that.
+
+He offered Lyra, Gerret and Marcus the chance to stay or leave.
+
+“Come now, cousin. You didn’t really think I’d simply let them die, did you?” Varen laughed, though I couldn’t quite tell if he meant it.
+
+“I may be cruel, but my enemies aren’t human. We employ royal mages in the Iron Cross. A candidate could be one step from death, and they would still drag him back to life.” Varen chuckled at my expression.
+
+The Iron Cross wanted fearless soldiers, he had said.
+
+“If I let them die, I would be wasting talent. With the Coliseum, all I want is to give them a near-death experience—since that will be their daily reality once they face monsters they’ve only ever heard of in their mothers’ lullabies.”
+
+“Do you want to hear a secret?” Varen asked, his voice dropping into a conspiratorial tone. “Do you know how to make someone loyal to you? Send him into battle. Leave him at death’s door. Then, at the very end, have your mages resurrect him. Later have the prince appear to apologize because the soldiers went too far.”
+
+I stared at him, indignant at what he was explaining.
+
+“Those who are thieves, some of them change their lives. Others become terrified of ever returning to the Iron Cross. The ones without talent, or who have no desire to join, leave with a favorable impression of me. The prince who cared about them.” Varen continued, unbothered. “As for those with talent, the ones who will continue, I have already tested them. I know their limits. Now they see me as their savior. And when they receive the training manuals and obtain mana, I will have given them the prize that changes their lives.”
+
+As he finished explaining, my cellmates were brought to us.
+
+Those who wished to continue training would be given the opportunity. Those who didn't would be released, with documentation certifying their service and a modest stipend.
+
+Lyra hadn't hesitated.
+
+The word "leave" left her mouth before Varen finished the sentence.
+
+Gerret followed her initiative. His crooked grin was wider than I'd ever seen it. He punched my shoulder on his way past.
+
+"Don't die, idiot," he said.
+
+Marcus stayed.
+
+The soldier had listened to Varen's offer with his arms folded and his face unreadable.
+
+"The northern compound," Marcus said. "The one you mentioned, I want the officer training."
+
+Varen had confirmed it with a nod.
+
+Marcus turned to me.
+
+"This is where I was heading before the Coliseum," he said. "The whole reason I volunteered. The reason I put myself in that cell."
+
+He extended his hand.
+
+I took it. His grip was the same calloused pressure it had been the first time.
+
+"I'll find you on the other side," he said.
+
+He released my hand, squared his shoulders, and followed a soldier out a different door than the one Lyra and Gerret had used.
+
+That left me.
+
+Standing in Varen's study with Iris and Drez and the fading warmth of three people who had become something close to family across a hundred loops.
+
+Varen had signed the deployment orders. A training team attached to Grenzheim's garrison. Near the front line.
+
+He'd assigned two soldiers as escorts. Provided a carriage. Arranged provisions.
+
+All of it should have felt like a dream.
+
+It would have, if not for the carriage.
+
+The vehicle lurched over another rut.
+
+The carriage was small. Not the reinforced military transport that had carried me from Grenzheim to the capital. Not even the modest civilian models I'd seen rattling through the streets during my brief glimpses of the city.
+
+This was a box on wheels.
+
+Wooden walls so thin I could see daylight through the grain. A bench on each side, padded with something that had once been leather and was now a flaking mystery. A canvas roof stretched over a frame of bent willow that creaked with every gust of wind.
+
+Two mules pulled it. Not horses. Mules. Ill-tempered creatures whose opinion of their cargo was expressed through long pauses of protest.
+
+I sat on the left bench. Iris occupied the right. Drez had claimed the narrow space next to the back wall.
+
+Above us, on the driver's bench, two Iron Cross soldiers sat with their backs to us. Their conversation, when they bothered to have one, consisted of monosyllabic exchanges about the road conditions and the weather.
+
+Drez sighed.
+
+"This," she said, "is a punishment."
+
+Her short red-orange hair was pushed back from her forehead. Her eyes, which never fully stopped analyzing their surroundings, moved from the canvas ceiling to the cracked leather to the splintered floorboards beneath her boots.
+
+"What I haven't determined," she continued, "is whether we're being punished because you were too ambitious in your demands, or because Iris couldn't keep her mouth shut in front of a prince."
+
+"That's not—" Iris started.
+
+Drez's gaze shifted to her. One eyebrow rose.
+
+Iris's mouth opened for another half-second. Then it closed. Her arms folded across her chest, and she fixed her attention on the passing tree line.
+
+I let the quiet stretch for another mile before the question I'd been holding found its way out.
+
+"Why are you here?"
+
+Both of them looked at me.
+
+"Either of you," I clarified. "Drez, you could have returned to the Academy. Iris, you could have gone back to your family in Hexenzeit. Neither of you needed to be in this carriage."
+
+Iris shifted on her bench. Her arms uncrossed, then crossed again in a different configuration.
+
+"I'm military," she said. "Active service. The orders that brought me to the capital were specific: locate Kaspar von Hexenzeit, confirm his status, report findings. Those orders originated from a field officer in Grenzheim."
+
+She rubbed the back of her neck.
+
+"The orders didn't include stay in the capital indefinitely. Now that you've been located and your status confirmed, my assignment here is complete. I'll receive new orders eventually. Probably a recall to the eastern garrison where my unit is based."
+
+A pause.
+
+"Until those orders arrive, I go where my current assignment takes me. And my current assignment"—she gestured at the carriage, the mules, the road, me—"is apparently this."
+
+I nodded. Turned to Drez.
+
+She was already speaking.
+
+"My professor was sent to assist the southern front four weeks ago," she said. "He hasn't returned. He hasn't sent correspondence. I need to find him."
+
+"Four weeks is a long time," I said. "Will he still be there?"
+
+Drez's expression didn't change. She shrugged.
+
+"He hasn't contacted the Academy," she said. "If he'd left the front, there would have been some communication. His silence suggests he's still there."
+
+"Anyway," she said, "I need to go south. Grenzheim is where he was last stationed. So Grenzheim is where I'm going."
+
+I didn't press further.
+
+The road wound south through terrain that alternated between forest and open country.
+
+I'd settled into a rhythm of watching the landscape pass. The forest thinned. The road widened slightly where it crested a low ridge, and through a gap in the treeline I could see rolling hills stretching.
+
+One of the soldiers on the driver's bench shifted.
+
+His hand rose to shade his eyes. He leaned forward, squinting at something ahead.
+
+"Obstruction," he called down. "Road's blocked. Looks like something's in the path."
+
+He was already swinging his leg over the bench's edge, one hand reaching for the sword at his hip.
+
+"I'll go clear it. Brenn, hold the reins—"
+
+"Don't."
+
+The word left my mouth before I'd finished deciding to say it. My body was already moving, one hand bracing against the carriage frame as I pushed to my feet.
+
+"Don't get down," I said.
+
+The soldier paused, one boot halfway to the ground. He looked at me with an expression that mixed confusion with irritation.
+
+My hand found the weapon leaning against the interior wall beside my bench.
+
+The training sword. One of the ones I'd carried in the Coliseum. A hand-and-a-half blade of polished hardwood, its surface smooth and unmarked despite the dozens of fights it had endured. When the soldiers had handed it to me during our departure from the capital, they'd explained why.
+
+"Enchanted," the armorer had said, tapping the blade with one knuckle. The sound it produced was denser than wood would make. "The grain's been saturated with a strengthening matrix. Won't hold an edge. But it won't splinter either. You could hit a stone wall with it and the wall would lose."
+
+I'd hefted it. The weight was right. Close enough to the steel hand-and-a-half I'd chosen for the afternoon bouts that my hands didn't need to adapt.
+
+The road ahead curved around a stand of old oaks. Beyond the curve, partially obscured by undergrowth, something massive blocked the path.
+
+Two somethings.
+
+The soldiers stared at me. Then at each other.
+
+"Our orders are to protect you," the one called Brenn said from the driver's bench. "If you want to fight whatever that is, we're not going to stop you. But if you get yourself killed, we're the ones who'll answer for it."
+
+"I won't get killed," I said.
+
+"Famous last words," the other soldier muttered.
+
+Neither of them moved to follow me. The assignment of escorting a teen arena fighter to the southern front had not been the career highlight either man had hoped for. Their enthusiasm for going above and beyond was contained within the boundaries of what they'd been ordered to do.
+
+Which suited me perfectly.
+
+I needed the fight.
+
+The road curved. I rounded the oaks.
+
+They stood in the center of the path.
+
+Two boars.
+
+No. Two things that had once been boars. Mana had gotten into them. Changed them.
+
+They were enormous. Each one stood nearly at shoulder height. Their bodies swollen with muscle that bunched and rippled beneath their hide. Their hooves had thickened into something closer to stone than keratin.
+
+But the horns were the worst.
+
+They jutted from the front of each skull. Not the tusks a boar should have had. Horns. Pointy and dark as obsidian. These weren't decorative growths. They were battering rams fused to a chassis built for collision.
+
+Their eyes burned red.
+
+Mana mutation at its most savage. Whatever intelligence a boar possessed had been drowned in the flood of power that had reshaped their bodies. What remained was rage and hunger.
+
+The nearest one saw me. Its massive head swung in my direction. The red eyes locked on.
+
+It pawed the ground. Clods of dirt and stone sprayed backward from hooves that could crack a man's femur.
+
+The second one followed its partner's gaze.
+
+I set my feet.
+
+The training sword came up. Two-handed grip. The wood was warm against my palms.
+
+I breathed.
+
+The mint-burn bloomed. Mana flowed into my lungs, pooled in the tissue, and began its slow radiation outward through my chest, my shoulders, my arms. The warmth crept into my biceps, threaded through my forearms, settled into the tendons of my wrists.
+
+The nearest boar charged.
+
+It exploded off the mark with a violence that defied its bulk. Six hundred pounds of mutated flesh and bone, driven by legs thick as fence posts.
+
+The boar's trajectory was a straight line. No feint. No tactical consideration of any kind. It had identified a target and committed every fiber of its being to the singular objective of driving those obsidian horns through me.
+
+I sidestepped.
+
+One step. Left foot crossing right. The boar's horns carved the air where my torso had been.
+
+It thundered past.
+
+The second boar was already moving. Triggered by its partner's charge, it launched itself.
+
+Different angle. Wider arc. Coming at me from the flank while the first boar skidded through a turn behind me.
+
+This was the problem.
+
+Fighting a human was simpler. I'd learned that across a hundred loops and more. Humans had patterns. They wanted to survive. Self-preservation created predictability. A man who feared death would telegraph his fear through his actions.
+
+Monsters didn't fear death.
+
+These things were either devoid of emotion entirely or so saturated with it that it didn't matter.
+
+They hit or they missed, and if they missed, they came again without a heartbeat's pause.
+
+Unpredictability through total commitment.
+
+The second boar closed the distance.
+
+I set my feet. Timed the approach and swung.
+
+The training sword came around in a descending arc that put every ounce of strength behind the blow. The enchanted wood connected with the crown of the boar's skull, directly between the base of its horns where the bone was thickest.
+
+The impact was monstrous.
+
+Still, the sword didn't break.
+
+The skull caved.
+
+Not entirely. The mutation had thickened the bone. But the strike drove a fracture through the frontal plate that split the brain. The boar's red eyes went wide, then dark. Its legs buckled mid-stride. Six hundred pounds of dead weight hit the road in a sliding avalanche.
+
+It didn't get up.
+
+The first boar saw its partner fall.
+
+I expected fear. Maybe survival instinct.
+
+What I got was the opposite.
+
+The surviving boar roared.
+
+A shriek of rage so intense it seemed to compress the air.
+
+It charged. Faster than before.
+
+The horn came low. An upward angle designed to catch the body beneath the ribs and launch it skyward.
+
+I read it, saw it coming. But planning and execution are two different things. I waited too long, my step was too small.
+
+The step that should have carried me clear of the horn's arc slipped. My weight shifted wrong. My center of gravity wobbled.
+
+The horn caught me.
+
+Not center mass. The edge of my hip. My feet left the ground as I was hurled into one of the trees, sending a shower of leaves falling over me.
+
+The impact drove the air from my lungs in a single explosive gasp.
+
+Agony radiated from my hip through my entire left side.
+
+The boar was turning.
+
+Skidding through its own momentum, hooves churning dirt, that massive head swinging around to find me again.
+
+I pushed myself up.
+
+The hip screamed. My left leg trembled. The training sword was somehow still in my right hand. My left arm braced against the tree root and I hauled myself upright.
+
+The boar charged.
+
+Straight line, same trajectory, same absolute commitment.
+
+I waited.
+
+Let it come. Let the distance close. Watched the red eyes grow larger, the horns fill my vision.
+
+At the last possible instant, I pivoted.
+
+Weight on the right leg. Left leg dragging. The sword came around in a horizontal arc that used the boar's own momentum as the multiplier. The sword caught the creature across the side of the skull.
+
+The crack was final.
+
+The boar's legs went rigid. It toppled sideways, sliding through the dirt in a spray of dust and gravel.
+
+The red light faded from its eyes.
+
+Silence.
+
+I stood in the road with the training sword hanging at my side. My chest heaved. The mana-burn in my lungs pulsed with each breath.
+
+Two mutated boars were dead on the road.
+
+Behind me, the sound of boots on packed earth.
+
+One of the soldiers approached. He walked past me without a word, crouched beside the nearest carcass, and pressed a hand against the hide.
+
+He looked up.
+
+"Good kill," he said. "Clean strikes. The meat's salvageable."
+
+He drew a knife from his belt and began examining the carcass.
+
+"We can roast this tonight," he said over his shoulder. "There's enough on the two of them to feed us for days."
+
+I frowned. The pain was receding from a scream into a throb.
+
+"Is that safe?" I asked. "Eating mutated animals. The mana in their tissue—"
+
+The soldier stopped cutting. He turned his head and looked at me with an expression that sat somewhere between amusement and pity.
+
+"Kid," he said. "If you stopped eating everything that had mana in it, you'd have starved to death before you learned to walk."
+
+He returned to his work.
+
+"Mana's in the soil. In the water. In the grain. In the cattle that eat the grain and the chickens that scratch the soil and the fish that swim in the rivers. Every breath you take pulls trace mana into your lungs." He paused, then snorted. "Well. You'd know about that, wouldn't you."
+
+He carved a section of meat, examining the color in the fading light.
+
+"Mutation doesn't make the meat poisonous," he continued. "The mana concentration in muscle tissue is negligible compared to what's in the cores and the glandular structures."
+
+He wrapped the section in a cloth pulled from his pack.
+
+I lowered myself onto a roadside stone and pressed a wadded strip of cloth against my hip wound while the soldier worked.
+
+The other soldier, Brenn, appeared from the carriage's direction. He surveyed the scene. Two dead boars. One wounded arena fighter. One colleague elbow-deep in butchery.
+
+"Well... let's eat."
+
+The evening fire crackled.
+
+We'd pulled the carriage off the road into a clearing where the trees thinned enough to allow a camp. The soldiers built the fire. The thick cuts sizzled on an improvised spit, the fat dripping into the flames with sharp hisses.
+
+The smell was extraordinary.
+
+After weeks of prison rations, the smoky aroma of roasting meat was heavenly. My stomach contracted so violently I nearly doubled over.
+
+I tore into my portion the moment it was cool enough to hold. The meat was dense, gamey, with a mineral taste that might have been the mana or might have been my imagination.
+
+Between bites, the question I’d been turning over all afternoon finally found its way out.
+
+"How long to Grenzheim?"
+
+The soldier who'd done the butchering, the one whose name I'd gathered was Falken, pulled a folded piece of leather from his pack. He spread it across his knee, smoothing the creases with callused fingers.
+
+A map.
+
+"We're here." He tapped a point along a road that wound through the forest we'd been traveling. "Grenzheim is here." His finger moved south and slightly east.
+
+The distance between the two points was considerable.
+
+"Thirty days," Falken said. "Give or take. At the pace this carriage moves and accounting for whatever we run into on the road."
+
+I looked at the gap between his two fingers and did the math.
+
+Thirty days of travel.
+
+One hundred and sixty-three remaining on the countdown.
+
+By the time we reached Grenzheim, one-fifth of the remaining time would be gone.
+
+"Tch."
+
+The sound escaped before I could catch it. A click of the tongue against the teeth, sharp and frustrated.
+
+Falken glanced at me. His eyebrows rose by a fraction, but he didn't comment.
+
+I needed every day available, but swallowed the frustration. Falken was still holding the map. The firelight played across its surface.
+
+I leaned closer.
+
+I'd never seen a map of this world. The original Kaspar had presumably studied geography at some point in his Academy career, but whatever he'd learned hadn't survived the transition to my consciousness.
+
+The map was hand-drawn on treated leather. The detail was impressive. Roads marked in brown ink. Rivers in blue. Mountain ranges rendered in careful crosshatch. Cities and towns indicated by symbols that varied by size and significance.
+
+At the center, dominating the map's primary territory, a sprawling expanse was labeled in bold script:
+
+SILBERWALD
+
+The kingdom stretched along what I initially took to be a random coastline. A jagged southern boundary that was drawn in red rather than the black used for other frontiers. The red line was labeled with small text:
+
+ACTIVE FRONT — ELVEN TERRITORIES
+
+North of Silberwald another territory occupied a substantial portion of the map:
+
+REPUBLIC OF WOLKENMARK
+
+Smaller territories dotted the margins. Kingdoms and principalities with names I didn't recognize, their borders drawn in dotted lines.
+
+Beyond them all, to the east, the south, the deep interior of the continent, the map simply stopped. The leather was blank.
+
+I stared at the map. I knew this coast.
+
+The west coast of North America. The long spine of it running from what had been Mexico to what had been Alaska.
+
+Silberwald occupied the central section. Roughly where California and Oregon had been. The Republic of Wolkenmark spread across the northern territories, British Columbia, Alaska, the Yukon.
+
+The smaller kingdoms, they filled the margins. What had been Arizona, Montana, the scattered habitable pockets along the mountain ranges.
+
+East of the Rockies, nothing.
+
+Humanity had been compressed. Pressed against the western edge of a single continent.
+
+"Are these all the human territories?" I asked.
+
+Iris looked up from her portion of boar.
+
+"Did you never study geography?" she asked, half-laughing. "The Last Kingdoms? It's first-year curriculum at every school in Silberwald."
+
+I didn't answer. The excuse I'd used before: I was sheltered, I don't know things everyone else knows, felt insufficient for this.
+
+Drez spoke without looking up from the strip of meat she was eating.
+
+"Two major powers." Her voice carried the dispassionate cadence. "The Empire of Silberwald to the south. The Republic of Wolkenmark to the north. Between them, roughly a dozen minor kingdoms and principalities of varying stability."
+
+She set down the strip and wiped her fingers on a cloth.
+
+"The minor states survive through geography and alliances. Mountain passes. Defensible valleys."
+
+She paused.
+
+"Most of them won't last. The attrition is constant. Every decade, one or two fall to incursions. Elven raids from the south. Bestial territory expansions from the east. The map shrinks. It has been shrinking since ancient times."
+
+She picked up the strip again.
+
+"At any given moment," she said, "any one of those minor kingdoms could cease to exist. A bad season. A coordinated assault. A failure of the defensive line. The margin between survival and annihilation could be a single battle."
+
+The fire crackled. Sparks rose into the dark.
+
+I looked at the map again. The margin between survival and annihilation could be a single battle.

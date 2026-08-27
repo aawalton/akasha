@@ -1,0 +1,531 @@
+---
+id: a71d671b-1fe5-5de3-9000-1895f28b355d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 133: Of Extremely Irritating Trust"
+slug: 0135-chapter-133-of-extremely-irritating-trust
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 135
+ownLength: 3275
+unit: words
+publishedAt: 2026-06-17
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3553590/chapter-133-of-extremely-irritating-trust"
+royalRoadId: "3553590"
+---
+
+PoV Sepio
+
+By the time Sepio properly entered the battlefield, Luna was already thriving inside the catastrophe.
+
+The giant serpent tore through the shattered forest in violent convulsions while the two enormous reptilian creatures continued ripping into it from opposite sides. Trees collapsed constantly beneath crushing tails and clawed limbs, the entire clearing shaking beneath impacts powerful enough to crack the earth open in places.
+
+And directly in the center of all of it–
+
+“Awooo!”
+
+Was overjoyed Luna.
+
+Of course.
+
+The oversized shadow wolf darted beneath the serpent’s snapping jaws before vanishing entirely into darkness. A split second later she erupted upward from the creature’s own shadow and slammed into its neck hard enough to spray broken scales across the clearing.
+
+The serpent shrieked.
+
+One of the lizard-beasts immediately bit into the exposed wound.
+
+Sepio exhaled slowly through his nose.
+
+Several months ago, seeing monsters this size would have meant immediate retreat. A rational retreat, supported strongly by survival instinct and basic sanity.
+
+Now he was running toward them because the wolf child had decided they looked edible.
+
+…Those were some deeply unreasonable circumstances.
+
+Yet despite everything, Sepio entered the battle anyway.
+
+His shield came up before the next impact landed. The serpent’s movements created the largest danger across the clearing; every sweep of its body turned broken trunks into missiles. The larger reptilian creature favored wide right-side lunges before overcommitting its weight, while Luna forced openings unpredictably whenever she struck from blind angles.
+
+Sepio moved to where the next collapse would matter most.
+
+“Veric, left!”
+
+The warning came half a breath before the serpent’s tail ripped through the clearing. Veric shifted into the opening, and Sepio braced beside him with his shield angled low. The impact still drove a shock through his arm and shoulder, but the strike glanced away instead of smashing clean through their line.
+
+Another crash shook loose debris from above.
+
+Sepio stepped back, caught sight of the falling branch, and drove his shield upward. Wood slammed against metal hard enough to rattle his teeth. He shoved it aside and advanced again before the serpent could follow through.
+
+During the chaos, an extremely uncomfortable thought forced its way through his mind.
+
+He could follow this battle.
+
+Not simply survive it, nor even stumble through it blindly, but actually follow it.
+
+The movements made sense now. The openings made sense. The danger remained absurd, but it no longer felt incomprehensible.
+
+That disturbed him worse than the monsters themselves.
+
+The tower battle had changed them, but it was not only the tower. The ant nest, the escalating hunts, the corruption, and the constant momentum Luna dragged the entire group through had all done their damage.
+
+Another snapping strike tore toward Syliana’s casting position.
+
+Sepio was already moving.
+
+He planted his feet, took the hit against the shield’s outer curve, and let the force shove him sideways rather than backward. Pain sparked up his arm, but the angle held. The serpent’s head skidded past Syliana instead of through her.
+
+Months ago, he would never have trusted himself to make that interception quickly enough. Nor consider himself strong enough to even deflect a blow that powerful.
+
+But after all the traveling with Luna, the response came naturally: position, timing, threat assessment, shield angle.
+
+His body adapted without permission.
+
+Annoying.
+
+Nearby, Ray slid beneath one reptilian claw strike before driving enchanted steel into the creature’s forelimb joint. Trianna followed immediately afterward, using the stagger to reach softer flesh beneath the scales with her arrows.
+
+They moved together too cleanly for people who had no business being this accustomed to disasters.
+
+Luna crashed bodily into the serpent again, creating a massive wound that no normal creature could survive.
+
+Unfortunately, the Titanoboa was huge, and could endure even that.
+
+It retaliated with enough force to flatten an entire section of forest.
+
+Sepio’s heart barely even spiked anymore.
+
+That irritated him too.
+
+Because he trusted the silly girl.
+
+Instinctively.
+
+If the battle collapsed completely, if the fight turned catastrophic, some deeply irrational part of Sepio genuinely believed Luna would drag them out alive anyway.
+
+The thought settled unpleasantly in his chest while he stepped between Syliana and another burst of splintered wood.
+
+Deeply irritating.
+
+When they first met, Luna had been exhausting. A feral child with absolutely no respect for common sense, social boundaries, or the concept of leaving dangerous monsters alone.
+
+Particularly the dangerous monsters.
+
+Especially the dangerous monsters.
+
+Sepio still remembered the early days vividly: the climbing, the biting, the constant touching, and the terrifying habit of wandering toward monsters far stronger than herself solely because they had an “interesting smell.”
+
+At first, she had merely been useful.
+
+Then dependable.
+
+Then trustworthy.
+
+Somewhere along the journey between the ant nest, the trapped tower, and impossible battles, the little menace had become someone Sepio trusted with his life.
+
+A truly horrifying development.
+
+The serpent suddenly reared upward again, massive jaws opening wide enough to swallow entire wagons.
+
+Sepio started shifting before he finished calculating the interception. Shield high. Feet set. Shoulder lowered.
+
+Then Luna slammed directly through the side of the serpent’s head.
+
+The impact detonated shadow and broken scales across the clearing.
+
+“Hehehehehe!”
+
+…He was starting to hear Luna’s laughter in the incomprehensible gibberish Awoos now too.
+
+What a horrifying girl.
+
+The serpent crashed sideways through the remains of three enormous trees.
+
+Sepio stared at the resulting devastation for one long second.
+
+Then sighed.
+
+Yes.
+
+That was some absolutely horrifying development.
+
+***
+
+The battle escalated from dangerous to ridiculous with alarming efficiency.
+
+One of the reptilian monsters crashed sideways through the clearing after Luna struck it hard enough to partially lift the enormous creature off the ground. Shadow-coated momentum burst around the impact while broken scales scattered across churned earth and shattered roots. The impact was so strong he felt it in his bones.
+
+The lizard roared furiously.
+
+Luna roared louder.
+
+Sepio had stopped questioning that behavior several disasters ago.
+
+The battlefield barely resembled forest anymore. Massive trees lay splintered across overturned earth, the dead serpent sprawled across the clearing like a collapsed wall of scales. Its body still shaped the fight even in death, forcing everyone around coils thick enough to block sightlines and turn every charge into a cramped, awkward angle.
+
+Luna moved through all of it at terrifying speed, Shadow Stepping any obstacles.
+
+Every leap chained into another attack. Shadows rippled around her transformed body, swallowing impacts and accelerating movement while she darted between the two remaining monsters like living disaster wrapped in silver-black fur.
+
+“Awoo-wooo-woo!”
+
+The sound echoed wildly through the clearing, and somehow Sepio recognized it as excited laughter.
+
+Crazy what one could get used to after enough time.
+
+Veric intercepted the larger lizard creature before it could crush Luna beneath a sweeping claw strike. Steel met scaled flesh with a thunderous impact while the giant warrior planted himself against the blow, boots digging deep into ruined earth, even as his sword carved the monster’s flesh away.
+
+Ray appeared instantly afterward, sprinting up the creature’s forelimb while it remained focused on Veric. His daggers flashed in precise arcs toward thinner scale joints around the neck and shoulders.
+
+The reptile snapped toward him.
+
+And Trianna buried an arrow into its exposed eye, making it miss entirely.
+
+No one needed instructions anymore.
+
+Syliana controlled the battlefield from farther back, throwing barriers and stone needles into the path of charging bodies and freezing patches of churned ground just long enough to break the monsters’ footing.
+
+He had long since learned to appreciate just how impactful her seemingly ‘weak’ interceptions were. Every battle was made easier, every cleanup just a little faster.
+
+Still, chaos always remained. Few enemies could be fully thwarted with just that, and those were no regular beasts.
+
+Sepio held the line between that chaos and the people who could not afford to be hit.
+
+That was the terrifying part.
+
+Their coordination worked.
+
+The second reptilian creature suddenly broke away from Luna and charged directly toward Sepio through collapsing debris. Its sheer size blotted out half the clearing while its jaws opened wide enough to crush him whole.
+
+Sepio reacted immediately.
+
+He drove his shield forward, set his shoulder behind it, and angled the face toward the creature’s lower jaw.
+
+This was not going to stop it.
+
+Unfortunate.
+
+He shifted his stance to roll with the impact instead–
+
+Then Luna crashed into the monster from above.
+
+The blow drove the enormous reptile off course before it reached him. Both wolf girl and monster rolled violently across the ruined clearing, uprooting shattered trees while Luna’s shadows wrapped tightly around the beast’s throat.
+
+The lizard thrashed furiously.
+
+Luna bit directly into its neck.
+
+A deep growl rumbled through the mouthful of scales and flesh while blood sprayed across her silver-black fur.
+
+Sepio stared for half a second.
+
+“…Of course.”
+
+Naturally, this was his life now.
+
+The reptilian monster convulsed beneath Luna’s grip before Ray drove both blades through exposed joints near its skull.
+
+The movement stopped.
+
+One left.
+
+The remaining creature barely had room to recover before Veric forced it back toward the serpent’s corpse. Trianna peppered it with arrows from the side whenever it turned,, and Syliana’s magic boxed it away from the open ground.
+
+Sepio moved with them, shield raised, closing gaps whenever the creature tried to break through the formation.
+
+It was still enormous.
+
+Still strong.
+
+Still dangerous enough to kill someone with a single clean hit.
+
+But it was wounded, surrounded, and alone.
+
+Then Luna hit its flank with a force ridiculous enough to cause an explosion.
+
+The impact drove the creature sideways into Veric’s range. Steel bit deep, Ray’s blade followed through the opening, and Trianna's arrow forced its way through its remaining eye, before Syliana’s force magic punched cleanly into the weakened wound.
+
+Whether their attacks were even needed, or if the massive hole Luna left in its chest would have done the trick would remain a mystery.
+
+The monster lurched forward one final step.
+
+Sepio braced automatically.
+
+It collapsed before reaching him.
+
+Then, finally, the battlefield stilled.
+
+Leaves drifted downward through lingering dust while distant birds cautiously resumed calling deeper in the forest beyond the ruined clearing. Massive corpses sprawled across shattered earth and broken trees.
+
+And directly in the center of the devastation, Luna stood proudly atop one of the fallen monsters while panting heavily through a blood-covered grin.
+
+***
+
+PoV Luna
+
+The battle had been awoomazing!
+
+Huge monsters had crashed through trees. The ground had jumped under Luna’s paws again and again. Her pack had fought all around her, steel and arrows and magic striking wherever her teeth opened space.
+
+And the Titanoboa snake-thingy tasted incredible!
+
+Luna sat proudly atop one of the enormous reptilian corpses, claws dug into cooling scales while she tore another strip of meat free. Warm blood stained her muzzle and dripped from her chin. The bite fought back even after death, all thick muscle and stubborn chew, and that made it better.
+
+She growled happily around the mouthful, already imagining how great it would taste with wonderfur spice!
+
+The lizards tasted heavy, like stone and iron had gotten stuck inside the meat and refused to leave. The serpent was richer, wetter, and closer to river predator. The tightly packed mana and lifeblood of the creature made her whole mouth pleasantly tingly and made her tail thump against the dead scales beneath her.
+
+Worthy hunt, and it gave her a level too!
+
+【Level Up: 7 → 8】 【Strength +1 | Vitality +1 | Dexterity +1】 【You saw an apex predator dispute and decided the missing ingredient was you. Disturbingly, you came out on top.】
+
+Nearby, the pack slowly recovered while the ruined clearing settled around them. Syliana checked injuries first, naturally. Sepio sat with his shield across his knees, tightening a damaged strap with sharp, irritated motions. Ray mostly stared at Luna eating through scales thick enough to stop arrows.
+
+“…You know,” he said slowly, “watching her casually consume apex predators should probably stop feeling normal someday.”
+
+“Nuh-uh,” Trianna answered immediately. “I accepted reality months ago.”
+
+“Bad survival instinct.”
+
+“Excellent adaptation instinct.”
+
+Veric gave a thoughtful grunt while cleaning blood from his weapon.
+
+Luna approved of this entire conversation and swallowed another massive bite.
+
+Then her teeth hit something harder, and a lick told her – very tingly!
+
+Oh, a core!
+
+A big snake core!
+
+Her ears perked.
+
+A core for Luna!
+
+She dug deeper with both claws, ripping through warm meat and thick connective tissue until something round and slick came free from inside the Titanoboa’s body. It pulsed faintly against her paws, heavy with dense mana and the deep wet smell of old lake predator.
+
+Luna’s mouth watered immediately.
+
+Ray straightened.
+
+“Luna, wait–”
+
+Crunch.
+
+The core cracked between her teeth.
+
+Mana burst across her tongue, cold and rich and tingly all the way down her throat. Luna’s fur puffed from nose to tail as the taste sank into her body, filling the hollow places that good prey always knew how to find!
+
+【You have consumed a Titanoboa Core.】【Devourer’s Right Lv.6 → Lv.7】【Gluttonous Soul 15% → 16%】
+
+Luna shivered happily.
+
+Strong snack!
+
+Awoomazingly tasty too!
+
+Ray stared at the empty space where the core had been.
+
+“…That could have been money.”
+
+Trianna immediately reached over and mock-whacked him on the head.
+
+“Sure, but with Luna around we will soon have plenty more! Don’t be such a miser!”
+
+Ray rubbed the spot with wounded dignity.
+
+“I am surrounded by terrible financial influences.”
+
+Luna swallowed the last tingles and licked her muzzle clean.
+
+Money was less tasty than core!
+
+But Ray could keep all the boring no-taste shinies, Luna didn’t need those!
+
+Eventually, even her stomach admitted that continuing forever might require a short pause.
+
+A tiny pause, yep.
+
+Not like the remaining monster corpses still sprawled across the clearing, huge and heavy and full of future meals. Leaving them behind would be a crime against food, strength, and basic pack responsibility!
+
+So Luna hopped down from the corpse and opened her Maw again.
+
+The first giant lizard vanished slowly into swirling darkness, scale by scale, limb by limb, until the last heavy tail slipped away.
+
+Ray watched the process with narrowed eyes.
+
+“I know I have seen this before. But I still cannot believe that fits.”
+
+Luna’s tail wagged proudly as the darkness closed.
+
+Hehe!
+
+A very small dizziness tugged behind her eyes.
+
+Hm.
+
+The second lizard went easier once Luna shoved one leg in first and let the rest fold after it, but the pull in her chest sharpened as the Maw swallowed more and more mass. Her shadows flickered around her paws, hungry and stretched thin.
+
+Luna huffed.
+
+Fine!
+
+She let the massive wolf shape loosen.
+
+Shadows rippled over her body as she shrank back down into her human form, silver-black fur giving way to skin, clothes, ears, and tail. The ground felt suddenly taller around her again, the corpses bigger, the air cooler against her face.
+
+Ray stared at her for a moment.
+
+“I will never get used to the gap between menacing giant wolf and smoll fluffy child.”
+
+Luna puffed her cheeks.
+
+“Luna is still menacing!”
+
+“Of course.”
+
+“Very menacing.”
+
+“Naturally.”
+
+Syliana stepped closer and pressed a mana potion into Luna’s hands before the argument could continue.
+
+“Drink up. Little sips.”
+
+Luna looked at the bottle.
+
+Then at the remaining serpent.
+
+Then accepted the offering.
+
+Potion first. Giant noodle later!
+
+She uncorked it and drank quickly. Tingly sharp mana fizzed across her tongue, nowhere near as good as the core, but the tight pull in her chest eased almost at once.
+
+Much better!
+
+The serpent was worse. Much worse. Too long, too bendy, and somehow still rude despite being dead.
+
+Luna had to drag part of it around a shattered trunk before the Maw would take it properly. Even with the potion warming through her, the storage pulled hard this time, like trying to swallow a whole river current through her shadow.
+
+“Hrmph. Oversized prey logistics.”
+
+Soon the entire serpent vanished into storage too, leaving only blood, shattered trees, and deep trenches carved through the ruined battlefield behind.
+
+【Devourer’s Maw Lv.6 → Lv.7】
+
+Hehe!
+
+Excellent hunt, useful hunt, and source of many future dinners!
+
+The pack resumed traveling soon afterward, following the lakeshore deeper through the forest while afternoon sunlight filtered through shifting branches overhead.
+
+Luna stayed close this time.
+
+Her belly felt heavy and warm after the meal, and a lazy sleepiness tugged at her limbs with every step. But mostly, the pack smelled good now that battle was behind them. Blood and monster stink faded slowly beneath familiar scents: sweat, leather, metal oil, campfire smoke from earlier, and Syliana’s herbs tucked safely in her satchel.
+
+Luna breathed them in and padded along beside the group, content to stay within tail-touching distance.
+
+Though one thing kept poking at her nose.
+
+Sepio kept looking at her oddly!
+
+Not with suspicion, nor even worry. Not even grumpy in the normal Sepio way!
+
+Different.
+
+Much confuse!
+
+Luna sniffed carefully while walking.
+
+He smelled tired, focused, and a little annoyed, which was normal. That was Sepio smell. But underneath it sat something softer now?
+
+Something almost nice.
+
+Luna nearly stumbled.
+
+Huh.
+
+She looked toward him again automatically. Sepio noticed immediately and narrowed his eyes.
+
+“What?”
+
+Luna blinked.
+
+“…Nothing.”
+
+Weird, but also good? Luna wondered–
+
+The thought vanished almost instantly when Syliana’s hand settled gently atop her head.
+
+Mhm!
+
+Nice! And more important!
+
+Luna pomfed directly against the mage’s side without hesitation, pressing close while grabbing Syliana’s hand with both of hers. Warm fingers, familiar sleeve, herb smell, Second beside her.
+
+Ehehe!
+
+Syliana sighed softly, but she did not pull away. She only adjusted her pace so Luna could keep clinging while they followed the narrow woodland trail.
+
+Ahead of them, Ray and Trianna argued over the battle in increasingly dramatic fashion.
+
+“I am telling you,” Ray insisted, “Luna intentionally used that lizard as a projectile.”
+
+“The lizard flew through three trees,” Trianna replied. “That sounds effective to me.”
+
+“That is not the point!”
+
+“It became the point once the lizard started flying.”
+
+“Nothing about that sentence makes sense!”
+
+Veric walked nearby, clearing the overgrowth from the path ahead while pretending not to listen.
+
+Trianna pointed toward him immediately.
+
+“Veric agreed with me.”
+
+The giant warrior glanced at them once.
+
+“Hrm.”
+
+“See?”
+
+“That grunt contained no identifiable opinion!”
+
+Another grunt.
+
+Ray pointed accusingly.
+
+“You are both impossible.”
+
+Luna listened only halfway while leaning harder against Syliana’s side.
+
+The forest had softened again after the battle. Leaves whispered overhead. The trail bent between old roots and damp stones. Somewhere ahead, water kept growing louder, a steady rushing hush that filled the spaces between pack voices.
+
+Syliana was warm beside her, her belly was full, and the pack’s voices moved around her in familiar, comfortable noise.
+
+Then the trees opened.
+
+Luna froze instantly.
+
+The forest gave way to open shoreline stretching wide beneath the afternoon sky. Sunlight blazed across endless rippling water, glittering silver-blue all the way toward the far haze.
+
+Second explained to her that this forest was home to many lakes, and that the biggest one was at the very center.
+
+Luna was prepared for big!
+
+But the lake was ginormous!
+
+Not river-big, nor pond-big, nor even bog sprawl.
+
+This was water that just kept going and going! Far larger than the tiny lakeshore they camped at the other night!
+
+Luna could barely even see parts of the other side!
+
+Water with wind on it, and waves crashing around.
+
+Water so huge Luna’s nose filled with wet air before her eyes finished understanding the shape of it.
+
+Her ears lifted slowly.
+
+“…Woah!”

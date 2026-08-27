@@ -1,0 +1,297 @@
+---
+id: 833ec21f-6f1a-5447-8d85-8dddd5b81bf3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 58: Of Deep Holes and Deeper Dum-Dums"
+slug: 0058-chapter-58-of-deep-holes-and-deeper-dum-dums
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 58
+ownLength: 1658
+unit: words
+publishedAt: 2025-10-23
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2699513/chapter-58-of-deep-holes-and-deeper-dum-dums"
+royalRoadId: "2699513"
+---
+
+PoV Luna
+
+The pack made sure the gate stayed open before stepping into the waiting dark.
+
+For three whole breaths, it was proper dark – good dark! Though no perfect dark, perfect dark meant the Moon shining crunchily down!
+
+Then Syl raised her staff, and the tunnel bloomed with pale, silver light.
+
+Luna squinted.
+
+“Bright,” she muttered, tail flicking against the ground. Still, the glow made the stone sparkle, and sparkles usually meant treasure or things worth biting.
+
+Maybe both.
+
+She sniffed.
+
+The air was old. It smelled of dust and water and tired moss, and a faint iron tang that tickled her tongue. Her nose twitched constantly, mapping the tunnel through scent. No spice, though.
+
+Tragic.
+
+Her pack moved slow – too slow! They were checking every wall, pebble, and shadow like they were scared it might jump at them.
+
+Syl murmured something about traces of civili-zaish-un somethings. Then more words followed and Luna was utterly lost!
+
+The rest of pack was no better!
+
+Sepio pressed a hand against the wall, testing the grain. Ray knelt to dig through a crack for a bit of metal. Trianna crouched near a broken relief, brushing her fingertips over carved letters, while pocketing some not-so-shiny things too.
+
+Boring.
+
+Syl started lecturing again, her tone soft but endless.
+
+“See this inscription? The phrase describes harmonic leyline translation – the balance between ambient flow and structural containment–”
+
+Luna’s ears drooped halfway through. Her tail twitched once, then twice.
+
+None of that sounded like soup ingredients! Or anything edible at all.
+
+Still, she was an Apex Predator wolf! A very helpful wolf.
+
+So she sniffed around every pillar and corner, finding treasures of her own: two cracked coin thingies, one shiny blue shard, and one mouse that screamed and fainted the instant she wagged at it.
+
+Ray was thrilled with her shinies, so payment was swift – jerky first, and then a strange bar full of nuts and chewy bits that stuck to her teeth.
+
+Crunchy. Weird. Sweet. But food was food!
+
+Silly dum dum was happy with boring trinkets, Luna wins exchange!
+
+After a while, even treasure-sniffing lost its spice. The tunnel kept going, long and empty. Her paws started dragging, tail swaying lazily. She yawned wide, teeth flashing in Syl’s silver glow.
+
+Too quiet. Too careful. Too slow.
+
+So she picked a better game.
+
+Bother Second!
+
+Luna trotted forward and bumped Syl’s leg with her head. The elf didn’t even stumble, only glanced down and smiled faintly before giving her a small pat between the ears. It wasn’t much, but Luna would take it!
+
+Then Trianna started humming – a soft, tuneful sound that danced through the still air. Pretty. Gentle. Chewable!
+
+Luna tilted her head. Then decided she wanted to do the same!
+
+And promptly ‘hummed’ back.
+
+At first, it came out more of a whine, then a rumble. Then she found a rhythm. Her tail swished in time.
+
+A proud hum-awoo telling of proper pack rules slipped from her throat, rising higher and higher until she declared in her finest singing voice:
+
+“Never gonna chew you up~ Never gonna take your soup~”
+
+The echo stretched down the stone hall, wobbling slightly on the word soup.
+
+Trianna froze mid-note. Sepio’s shoulders tensed. Ray started coughing into his hand to hide his laugh.
+
+Syl closed her eyes, pinched the bridge of her nose, and sighed in long-suffering patience.
+
+Luna grinned, tongue lolling out between bright teeth. Her song bounced back from the far wall in faint, silly echoes.
+
+Music achievement unlocked. Dum-dum mood improved.
+
+Mission success!
+
+***
+
+By the time they turned back, the air had changed.
+
+It was heavier. Thicker. It clung to fur and skin, carrying the faint bite of deep stone.
+
+They had gone far – so far even Luna’s paws could tell they were under the world’s belly.
+
+It felt strange. Too quiet. The kind of quiet that made prey hide and hunters hum to stay brave.
+
+The tunnel breathed cold wind between its teeth.
+
+“Burrow?” Luna asked. “Big deer?”
+
+Syl glanced over her shoulder, staff casting pale light on the slanted walls.
+
+“Not a burrow, Luna. This used to be part of the lower city. The mana conduits and foundation channels ran through here. I think we’re near what was once the–”
+
+Luna blinked at her, head tilting.
+
+“So… they wanted to dig hole?”
+
+Syl hesitated, then smiled faintly.
+
+“Yes. A very deep hole.”
+
+“Got it,” Luna awooed proudly.
+
+They climbed until the air warmed again, and the tunnel spat them out into the open. Night had already swallowed the forest. The Moon hung high above the broken arches, round and bright.
+
+Perfect.
+
+The silver touch of it swept across her fur, and with a shimmer – pomf! – Luna changed. Two legs, two arms, still hungry.
+
+Always hungry!
+
+She landed against Syl’s side with all the grace of a happy avalanche, looked at her with the best puppy eyes she could muster, and asked the gravely important question!
+
+“When soup?!”
+
+Syl made a sound halfway between a laugh and a sigh, while the others burst into proper laughter.
+
+“Give us a minute,” Trianna said, setting down her pack. “We’re camping here tonight.”
+
+Luna nodded solemnly. Patience. Apex Predator Patience!
+
+She could wait. Maybe.
+
+She circled twice before sitting, tail flicking against the ground.
+
+The pot came out. Fire sparked. Smells started to bloom – smoke, meat, spice, promise.
+
+While the pot simmered, they questioned her day.
+
+Luna told everything. Every run, every bug, every hole. How she fought the big rock monster that went thoom and how she bit its glowing heart because it looked spicy.
+
+Ray nearly jumped out of his seat, ready to charge out to gather the shiny bits!
+
+“Wait, what? You bit–”
+
+Veric caught his shoulder.
+
+“Ray. It was a golem. A rock. It’s fine.”
+
+“But golden parts!” Ray protested. “That could be worth a ton–”
+
+“Stir the soup,” Veric said flatly.
+
+Ray stared, defeated, then stirred.
+
+Luna barked laughter, clutching her belly.
+
+“Dum-dum panic! Funny!”
+
+Then they got serious again. About the hole. The one that awoooed back.
+
+Syl leaned closer, eyes thoughtful.
+
+“Tell me again. You said it echoed?”
+
+“Yes. Luna awooo. Hole awooo back.”
+
+“Was it delayed? Or… tonal?”
+
+“Hole voice tired,” Luna said simply. “Lazy awooo.”
+
+Syl made a thoughtful sound, jotting notes in her book.
+
+The others let the topic go quickly. Soup was done. Priorities demanded it.
+
+The smell filled the air – rich, meaty, a perfect promise of warmth and reward. Steam rose in curling ribbons.
+
+Trianna served everyone first, then handed Luna her share.
+
+The wolf-girl inhaled, tail sweeping the dirt in unrestrained happiness.
+
+“Spice!” she declared, eyes shining.
+
+Her first bite was heaven. Her second was worship. By the third, her tongue wagged faster than her tail.
+
+Around her, the pack ate slow, tired but content. The Moon watched from above, and for a little while, even the deep, dark ruins below forgot to breathe.
+
+Perfect meal. Perfect pack. Perfect night.
+
+***
+
+Sleep came fast after soup.
+
+Luna curled close beside her Second, head tucked under Syl’s arm. The elf brushed her fur in slow, steady strokes, smoothing each tuft until Luna melted into the motion. Then came the blanket – soft, worn, and smelling faintly of tea and campfire.
+
+Warm. Safe. Perfect.
+
+The air was rich with the scent of spice steam and roasted root. Behind it lingered leather, steel, and faintly sweet moon tea from Syl’s breath. It made Luna’s eyelids heavy.
+
+She fought it. Brave battle. Fierce yawns met with growls.
+
+The yawns won.
+
+Her tail gave one lazy thump before her breathing slowed.
+
+The world tilted away into dreams—soft grass, glowing soup, flying trees, and a pack that never stopped laughing.
+
+When morning came, it came in gold. Dew sparkled across her fur, and the ruins around them gleamed like old teeth in the sunlight. Luna stretched long, claws scraping stone.
+
+Pomf.
+
+In a shimmer, her fur rippled away – Lunar Form again. Two legs, messy hair, same hungry grin. The System chimed cheerfully in her mind.
+
+【Lunar Form Lv.4 → Lv.5】
+
+Luna wagged, her shoulders following the motion.
+
+“Yes! Luna evolve again!”
+
+Syl stirred beside her, rubbing sleep from her eyes.
+
+“Good morning, Luna.”
+
+“Good morning! Luna leveled! See?”
+
+Syl smiled faintly.
+
+“I can’t see your System windows, Luna.”
+
+“Oh.” Luna paused, thoughtful. “Then take Luna word for it!”
+
+That earned her a soft laugh.
+
+Across the camp, the rest of the pack stirred. Armor clicked, ropes pulled taut, boots found feet. Ray was already gone by the time they finished packing, though his scent lingered – metal, sweat, and faint trouble.
+
+He returned soon, grinning wide and holding up a small clinking bag.
+
+“Treasure!” he announced proudly.
+
+Luna sniffed the air.
+
+“Smells like bad metal.”
+
+“It’s worth currency,” he said. “Means more food later.”
+
+She blinked.
+
+“So shiny soup coins?”
+
+“Exactly,” he said without missing a beat.
+
+Sepio sighed.
+
+“Please don’t encourage her.”
+
+Trianna chuckled behind her hand.
+
+“Too late for that.”
+
+They bickered for a bit, words bouncing between sarcasm and fondness. It was familiar, comforting noise. Pack music.
+
+When they finally started back toward the gate, their pace was sharper now. More focused. But Luna led with her usual pride, nose high, tail invisible but very much implied.
+
+She began to hum again – her awoo-song. Adding more verses about biting monsters and saving dum-dums!
+
+This time she hummed it in human voice! Proud and loud!
+
+Sepio, walking behind, frowned at first. Then his eyes widened slowly.
+
+“Wait… was that what she was singing last night?”
+
+Syl hid a smile.
+
+“It was, mostly. I think.”
+
+Trianna grinned.
+
+“Awoo translation complete.”
+
+Luna looked over her shoulder, still humming, tail swaying in rhythm. Dum-dums learning. Progress achieved.
+
+Best pack.
+
+Best day!
+
+And somewhere, the last shining lights of the Moon laughed in silver silence as its favorite wolf led her pack deeper into the dark again.

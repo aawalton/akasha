@@ -1,0 +1,579 @@
+---
+id: 7e4d02d1-6abb-53e8-a6fe-7eb4c8b42e4e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 16: First Night"
+slug: 0016-chapter-16-first-night
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 16
+ownLength: 4148
+unit: words
+publishedAt: 2026-04-16
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3282256/chapter-16-first-night"
+royalRoadId: "3282256"
+---
+
+Thirty silver coins.
+
+That was what the small leather pouch held when I loosened the string and counted them into my palm. Each coin was worn smooth at the edges, stamped with a symbol I didn't recognize, some kind of crowned beast.
+
+I watched the other students receive their pay as the line moved forward. Some pouches were fatter than mine. Officers and senior personnel walked away with heavy bags. But every student I could see got the same amount.
+
+Without understanding the economy, the number meant nothing. It could have been a fortune or an insult. I had no frame of reference or memory of prices.
+
+I tucked the pouch inside my robe and passed through Grenzheim's main gate.
+
+The town was smaller than it looked from outside.
+
+The walls had been deceptive. They enclosed a vast area, yes, but most of that space wasn't city. It was farmland.
+
+Rows of crops stretched across the interior. Irrigation channels cut through the fields, fed by some source I couldn't see. The soil was dark and rich, a stark contrast to the dry, cracked earth beyond the walls.
+
+Beyond the fields, a second ring of structures served the garrison. Barracks and armories. Watchtowers rose at intervals along the inner perimeter, their crystal-crowned tops pulsing faintly with mage-glow.
+
+The actual town occupied a compressed knot at the center. Buildings crowded together, their walls nearly touching across narrow streets that twisted and turned without clear logic.
+
+I walked slowly, letting my eyes and ears wonder.
+
+"Three attacks this month alone. Three. And the Guild sends us what? Two commissions?"
+
+"Two commissions for the entire southern stretch. My husband says the patrols are pulling back. They don't have the bodies."
+
+"They are pushing closer every season. We used to see a stray beast once a year. Now they're at the walls."
+
+"The Guild doesn't care about frontier towns. Never has."
+
+I kept walking while listening to everything around me. I didn't fully understand them, so I focused on the one thing I could learn right now.
+
+Prices.
+
+The market street, if it could be called that, was a single lane of stalls and open shopfronts wedged between buildings. Canvas awnings shaded displays of produce, dried goods, and simple tools. The vendors called out to passersby with the practiced, half-hearted enthusiasm.
+
+I stopped at the first stall.
+
+Fruit. Rough-skinned things that looked like a cross between apples and pears, piled in uneven pyramids. Beside them, bundles of leafy greens tied with twine, and root vegetables caked with dirt.
+
+A hand-painted sign leaned against the display.
+
+I couldn't read it.
+
+But I could watch.
+
+A woman ahead of me selected three pieces of fruit. She counted small copper coins from a pouch and placed them on the vendor's board. The vendor swept them up without counting.
+
+Two coppers per piece. Three coppers for the greens.
+
+I moved to the next stall. Watched another transaction. Bread, dense and dark, sold for five coppers a loaf. A jar of something that smelled like honey went for twelve.
+
+At a third stall, a boy, maybe fourteen, tried to pay for a sack of grain with a silver coin. The vendor made change, counting out a pile of copper pieces that the boy scooped into his palm.
+
+I counted with him.
+
+One hundred copper to one silver.
+
+I had thirty silver coins or three thousand copper. At two coppers per piece of fruit, that was fifteen hundred pieces of fruit. At five coppers per loaf of bread, six hundred loaves.
+
+Food was cheap.
+
+Or my pay was generous.
+
+Or both.
+
+Either way, I wasn't going to starve. Not immediately.
+
+The relief was real. I let it sit in my chest for a moment before the next thought shouldered it aside.
+
+I needed a weapon.
+
+The market stalls sold food, cloth, rope, candles, simple tools. A blacksmith's shop at the end of the row offered horseshoes, nails, hinges, and a selection of farming implements that could theoretically be used to hurt someone but weren't made for it.
+
+No swords or daggers. Not even a hunting knife.
+
+I widened my search. I left the central market and followed the streets outward, toward the garrison district.
+
+Here, the shops changed.
+
+Vendors displayed items that had faint mana traces. Wands carved from pale wood, their tips capped with crystals of varying colors. Staves, taller than a man, their shafts inscribed with spiraling runes. Small devices I couldn't identify. Metal spheres, glass vials filled with liquids.
+
+Magical equipment. All kinds of it.
+
+I moved from shop to shop, scanning displays, searching for anything with a blade.
+
+Nothing.
+
+Not a single edged weapon.
+
+In a world where magic had replaced steel, weapons like mine simply didn't exist in the supply chain. They had been rendered obsolete so thoroughly that even a frontier garrison town didn't bother stocking them.
+
+I turned down a narrow alley, following it more out of frustration than direction.
+
+The buildings closed in. The light dimmed.
+
+A man stepped out of a doorway.
+
+He was thin, hunched, with darting eyes. His clothes were layered and mismatched, and he held something wrapped in dark cloth against his chest.
+
+"You," he whispered, leaning closer. His breath smelled of onions. "You look like a man of discerning taste."
+
+I took a half step back.
+
+"I have something special," he continued, peeling back the cloth. Beneath it sat a book. Small, leather-bound, its cover stamped with a symbol that looked vaguely arcane. "A grimoire. Genuine. Recovered from a Third Circle mage's estate. The spells inside—"
+
+"No," I said.
+
+"—could change your life. Fire manipulation. Barrier construction. For a mere—"
+
+"Hell, no."
+
+I stepped around him and kept walking.
+
+A grimoire couldn't be sold. Iris had told me that. They were bound to their owners. Whatever that man was peddling, it was either fake or stolen and useless.
+
+The alley opened onto a wider street, and I emerged blinking into the afternoon light.
+
+No weapons. Nowhere in this entire town.
+
+I was in a world of monsters and magic, carrying thirty silver coins and no way to defend myself beyond a body that couldn't cast a single spell.
+
+I turned the corner and nearly walked into a wall of people.
+
+The street ahead had stopped. Completely. Every person within sight had pressed themselves to the edges of the road, backs against walls, heads bowed or turned aside. The center of the street was empty.
+
+I stumbled to a halt, confused, and someone's elbow caught my chest.
+
+"Watch it," a man hissed, shoving me sideways without looking.
+
+I blinked, steadied myself, and opened my mouth to ask what the hell was happening.
+
+Yet, I didn't need. I saw them.
+
+Five figures walked down the center of the empty street.
+
+They moved in a loose formation. They wore no armor. No robes. No insignia of rank or magical order.
+
+Simple clothing, dark fabrics cut for movement.
+
+But at each of their hips hung a sword. Long-bladed, sheathed in worn leather scabbards.
+
+Their faces were hard. Their eyes swept the crowd without lingering, taking in everything and dismissing it in the same glance.
+
+The crowd watched them pass with an strange expression. A mix between admiration and fear.
+
+"Knights," someone breathed.
+
+"Headed south. To the front."
+
+"I heard the Seventh Division requested them specifically."
+
+"Barbarians, the lot of them. Who fights with a sword when you could—"
+
+"Shut your mouth. You want one of them to hear you?"
+
+"They say a single Knight can hold a breach that would take twenty mages to—"
+
+"Fanatics. Religious fanatics. That's what they are."
+
+"Call them what you want. I'd rather have one at my back than a dozen Second Circle graduates."
+
+The five Knights passed without acknowledging the crowd, without a single glance that suggested they cared about the whispers or the stares.
+
+I watched them until they turned a corner and vanished.
+
+My heart was beating faster than it should have been.
+
+Knights.
+
+Iris's voice echoed in my memory. Lunatics who still use swords and spears. They only care about having cores and using mana to increase the power of their own body.
+
+I stood there in the street as the crowd dispersed around me.
+
+My hand drifted to my hip, where a sword should have been.
+
+Where a sword would be again.
+
+An inn sat at the end of the commercial district.
+
+It was a squat, two-story building wedged between a shuttered storefront and what looked like a decommissioned guard post. The walls were rough stone on the ground floor, timber-framed above, with a roof that sagged slightly in the middle. A sign hung above the door, painted with an image so faded I couldn't make out what it had once depicted.
+
+Beside the inn, connected by a shared wall, sat a small tavern. Its door stood open, and from inside came the smell of cooking meat and something rich and savory that made my stomach clench with hunger.
+
+I hesitated on the threshold.
+
+I didn't know what a room cost. I didn't know what a meal cost. I had thirty silver coins and a rough understanding that food was cheap, but "cheap" and "inn prices" were different things.
+
+The smell decided for me.
+
+The tavern's interior was dim and warm. Wooden beams overhead, darkened by years of smoke. A handful of tables filled the main room, most of them occupied by people eating.
+
+Something small and fast slammed into my shin.
+
+"Oof!"
+
+I stumbled backward. My boot caught on the threshold and I nearly went down, catching myself on the doorframe at the last second.
+
+A girl stood where my shin had been.
+
+She was tiny. Eight years old, maybe nine. Her hair was a wild tangle of gold. She wore an apron three sizes too large, tied at the waist and bunched at the shoulders, and she held a stack of plates in both hands that should have been impossible for someone her size to carry.
+
+She looked up at me with wide eyes.
+
+"Are you okay?" she asked, the words tumbling out fast and breathless. "I'm sorry! I didn't see you! I'm really sorry!"
+
+Before I could answer, she was already moving again, darting between tables with the plates balanced in her arms, weaving through chair legs and outstretched boots with the agility of a creature born to navigate chaos.
+
+I watched her go, rubbing my shin.
+
+"Forgive her."
+
+The voice came from my left.
+
+I turned to find a man approaching from behind the bar. He was older, mid-fifties, with gray hair and a face that had been lived in hard. His body was thick and solid, the kind of build that came from decades of physical work.
+
+His left leg didn't bend properly. It swung forward in a rigid arc with each step.
+
+His right eye was missing.
+
+Where it should have been sat a prosthetic. Not glass, metal. A small, intricate device of polished steel and tiny gears that sat in the socket. As I watched, the prosthetic shifted. The iris, if you could call it that, rotated with a faint whirring sound, and a tiny spark of blue light flickered at its center.
+
+Magitech. Had to be.
+
+"No harm done," I said, straightening up. "She's fast."
+
+The man's real eye crinkled.
+
+"Too fast," he agreed. "One of these days she'll take out a load-bearing wall."
+
+He extended a hand. His grip, when I took it, was calloused and firm.
+
+"Vael," he said. "I own the place."
+
+"Kaspar."
+
+Vael studied me for a moment with that single living eye, the mechanical one whirring softly as it tracked independently.
+
+"Looking for a room?" he asked. "Or just food?"
+
+"Both," I said. "How much for a night?"
+
+"One silver gets you a room and a hot meal. Breakfast included."
+
+I reached into my pouch and pulled out two silver coins without thinking. I placed them on the bar.
+
+"Two nights," I said.
+
+Vael looked at the coins. Then he looked at me. His expression didn't change, but something shifted behind his eye.
+
+He swept the coins off the bar and gestured toward an empty table near the wall.
+
+"Sit. Food'll be out shortly."
+
+I sat.
+
+The table was scarred and uneven. I rested my forearms on it and waited.
+
+Vael returned within minutes, moving with that stiff, mechanical leg. He set a plate in front of me with a solid thunk.
+
+Meat.
+
+A thick slab of it, dark and glistening, seared on the outside and pink within. Beside it, a bowl of stew so thick the spoon stood upright when I let go of it. Chunks of root vegetables floated in a broth that smelled of herbs and fat.
+
+I picked up the knife and fork.
+
+The first bite of meat hit my tongue and I nearly closed my eyes.
+
+It was real. Actual food. Not the thin, metallic soup of the expedition.
+
+I ate like a man who had forgotten what eating was for.
+
+The stew was almost better than the meat. Rich and heavy, each spoonful coating my throat with warmth that spread downward into my stomach.
+
+When I finally set the utensils down, I felt something I hadn't felt since arriving in this world.
+
+Full.
+
+I sat back and let my gaze drift across the tavern.
+
+The golden-haired girl was still running. She carried plates and mugs with reckless speed, weaving between tables, occasionally pausing just long enough to flash a grin at a regular before darting off again.
+
+I watched her and wondered.
+
+What was childhood like in this world? Were there schools? Did children learn to read, to count, to cast? Or did they work, the way Lucy worked, because the alternative was worse?
+
+The wyvern's voice drifted back to me.
+
+Humans stand on the verge of extinction.
+
+If that was true, if humanity was genuinely dying, then maybe a girl carrying plates in a frontier tavern was doing better than most.
+
+The evening crowd thinned as the hour grew late. Plates were cleared. Mugs were emptied and not refilled. One by one, the patrons settled their tabs and drifted out into the streets.
+
+When the last customer left, Vael emerged from behind the bar with a cloth over his shoulder and lowered himself into the chair across from me.
+
+"So," Vael said, leaning back. "Where'd you sprout from?"
+
+The question was casual. The scrutiny behind it wasn't.
+
+"The expedition," I said. "Southern caverns."
+
+Vael's real eye narrowed slightly. "Academy expedition?"
+
+"That's the one."
+
+He was quiet for a moment, turning something over in his mind.
+
+"You paid a silver for a room that costs fifty copper," he said.
+
+I blinked.
+
+"A night's lodging in Grezheim runs thirty to fifty copper at most places," Vael continued, his tone conversational but precise. "Food included. You could eat three meals a day for a week on what you just handed me for two nights."
+
+My stomach sank.
+
+"You're not from around here," Vael said. It wasn't a question. "And you're not a noble, because no noble would choose to sleep here when there's a proper officers' lodge two streets over."
+
+I opened my mouth, closed it, and tried to assemble a response.
+
+"I don't get out much," I said carefully. "I'm not familiar with… local prices."
+
+Vael studied me for a long moment. The mechanical eye clicked softly, its tiny gears adjusting.
+
+He didn't believe me.
+
+Yet he accepted it.
+
+"Lucy," he called over his shoulder. "Slow down before you put a plate through the wall."
+
+The golden blur paused mid-stride, plates balanced impossibly in both hands.
+
+"I'm fine!" Lucy protested, already bouncing on her toes. "I can carry more! Watch—"
+
+"I'm watching," Vael said flatly. "That's what worries me."
+
+Lucy grinned, a flash of teeth and mischief, and resumed her path at a marginally reduced velocity.
+
+"Why does she work here?" I asked.
+
+The question came out before I could weigh whether it was appropriate. Vael's expression shifted. But more guarded.
+
+"You know where you are?" he asked.
+
+"Grezheim."
+
+"Exactly." Vael's voice dropped. "Less then a day from the front line."
+
+Front line?
+
+"Front line?" I said, and the confusion in my voice was genuine. "From which war?"
+
+Vael stared at me as if I'd asked what color the sky was.
+
+For a moment I thought he would press, would demand to know how a person could walk through a garrison town and not know there was a war. But something in my face must have convinced him the ignorance was real, because he exhaled slowly and rubbed the bridge of his nose with two thick fingers.
+
+"This town is home to two kinds of people," Vael said quietly. "Ex-soldiers and orphans."
+
+He glanced toward Lucy, who had finally stopped moving long enough to stack clean mugs behind the bar. Her small hands worked with practiced efficiency, but her eyes kept darting toward the door, toward the windows, toward every sound.
+
+"She's better off here," Vael said, "carrying plates and running herself ragged, than she would be out there."
+
+He didn't specify where "out there" was.
+
+I looked at Lucy again. The golden hair. The oversized apron. The relentless energy that I'd mistaken for childish enthusiasm.
+
+It wasn't enthusiasm.
+
+It was survival.
+
+"I get it," I said.
+
+The words felt inadequate. But they were true.
+
+Vael held my gaze for another beat, then nodded once. He reached beneath the table and produced a key.
+
+It was small and brass-colored, but the end wasn't toothed like any key I'd known. Instead, it terminated in a smooth, rounded tip inscribed with a tiny rune.
+
+"Third room," he said. "Up the stairs, end of the hall."
+
+"Thank you," I said.
+
+Vael was already pushing himself to his feet, his bad leg scraping against the floor. "Breakfast is at dawn. Don't be late. Lucy eats the leftovers... sometimes she doesn't wait for it to become leftovers."
+
+The room was small.
+
+A bed. A washstand. A window that looked out onto the alley between the inn and the guard post next door. The walls were bare stone, the floor rough timber, and the ceiling low enough that I could touch it if I raised my hand.
+
+I sat on the bed's edge and unlaced my boots. My feet ached with a bone-level soreness that I'd been ignoring for hours. When I pulled the boots off, the relief was so immediate it made me groan.
+
+I lay back.
+
+The mattress accepted my weight like an embrace.
+
+Every muscle in my body released at once. The tension I'd been carrying unwound in a slow surrender.
+
+My eyes closed.
+
+Sleep didn't creep in this time. It crashed over me, pulling me under so fast I didn't even feel the transition.
+
+I woke to screaming.
+
+Not mine. Someone else's'.
+
+My eyes snapped open.
+
+The ceiling above me was strange. It flickered. Orange light danced across.
+
+Smoke.
+
+The smell hit me a heartbeat later.
+
+I was off the bed before my mind fully caught up with my body.
+
+My hands found the cloth of my robe and pressed it against my nose and mouth. The action was automatic, drilled into me across a lifetime. Smoke inhalation kills faster than flame. Cover your airway. Stay low. Find the exit.
+
+The room was filling. Gray smoke curled under the door, thickening with every second.
+
+I dropped to a crouch and moved.
+
+The door handle was hot. Not scalding, but warm enough to tell me what waited on the other side. I pulled my sleeve over my hand and turned it.
+
+The hallway was a tunnel of smoke.
+
+The walls on either side were dim shapes, barely there. Somewhere ahead, the orange glow intensified, and I could hear the crackle and pop of timber giving way to flame.
+
+I kept low, one hand on the wall, and moved toward the stairs.
+
+My eyes burned and watered, tears streaming down my cheeks, but I kept them open because closing them in a fire was how you died.
+
+The stairs appeared beneath my feet. I descended, hand sliding along the railing.
+
+The ground floor was worse.
+
+The front of the tavern was engulfed in smoke and fire. Flames climbed the walls near the entrance, feeding on timber and cloth.
+
+I reached the bottom of the stairs and turned toward the bar.
+
+Vael was on the floor.
+
+He lay on his back, one arm flung out, the other pressed against his throat. His fingers were dark and wet. Blood dripped between them.
+
+His throat had been cut.
+
+The wound was deep. A single stroke from something very sharp, drawn across the windpipe and both carotid arteries.
+
+Vael's real eye found me. It was wide, glassy, already dimming. His mouth moved. No sound came out.
+
+I dropped to my knees beside him.
+
+My hands went to his throat on instinct, pressing down over his fingers, trying to stem the flow.
+
+"Stay with me," I said, and the words came out hoarse, scraped raw by smoke. "Stay—"
+
+His hand found my wrist. The grip was weak.
+
+His lips moved again.
+
+This time, I heard it. A single word, barely a breath.
+
+"Lucy."
+
+His hand went slack.
+
+The mechanical eye whirred once more and went dark.
+
+I knelt there for a moment too long, before I moved.
+
+The tavern's main room was a furnace. Flames had consumed the front wall entirely and were eating their way inward.
+
+I went forward anyway.
+
+The front door was gone. I veered left, toward the kitchen, toward the back exit
+
+The kitchen was clearer. Less smoke, less flame. The stone walls held the fire at bay.
+
+I burst through the back door and into the alley.
+
+The night air hit me. I gasped, pulling clean oxygen into my lungs.
+
+Yet, it wasn't the end. Not yet.
+
+Grenzheim was burning.
+
+Not just the inn. Not just one building. The entire town.
+
+Flames rose from rooftops across the skyline, pillars of fire that painted the underside of the smoke clouds in shades of hell.
+
+The screams were there.
+
+They came from everywhere. From inside buildings. From the streets. From the walls.
+
+People ran past the alley. Civilians in nightclothes, barefoot, clutching children or nothing at all. Their faces were masks of animal terror.
+
+Among them, fighting and dying were soldiers.
+
+I saw a garrison soldier locked in combat with a figure in a dark hood. The soldier's staff crackled with mana, blue light arcing from its crystal tip. The hooded figure moved like smoke, sliding beneath the arc, and something flashed in their hand, something wickedly fast.
+
+The soldier dropped.
+
+More hooded figures moved through the streets. They focused on efficiency, killing anyone they encountered with a calm precision.
+
+Students from the expedition stumbled into the chaos, half-dressed, confused, casting wild spells. Some fought. Some fled. Some simply stood and stared until the hooded figures reached them.
+
+I pressed my back against the alley wall and forced myself to think.
+
+Weapons. I need...
+
+A sound cut through the roar.
+
+Crying.
+
+I turned my head.
+
+At the far end of the alley, crouched behind a stack of broken crates, a small figure huddled with her arms wrapped around her knees.
+
+Golden hair, tangled and wild, catching the firelight.
+
+Lucy.
+
+She was shaking so hard the crates rattled against the wall. Her face was buried in her knees. Her sobs came in short, hitching gasps.
+
+My body moved before my mind gave the order.
+
+I pushed off the wall and ran toward her.
+
+I made it four steps.
+
+A shadow detached itself from the darkness between two buildings and stepped into my path.
+
+The figure was tall. Lean. Hooded, like the others, but there was something different about the way this one moved.
+
+Beneath the hood, I caught the suggestion of fine features. Angular. Almost delicate. Male, but narrow, with a jawline that could have been carved from pale stone.
+
+His hand moved.
+
+A blade appeared as if it had always been in his fingers and I'd only just noticed.
+
+I tried to stop. Tried to turn. Tried to do anything.
+
+He was faster.
+
+The distance between us collapsed in a single step. One moment he was three paces away. The next, he was inside my guard, close enough that I could smell him. Cold metal and something herbal, like crushed leaves.
+
+The blade kissed my throat.
+
+It didn't feel like a cut.
+
+It felt like a line of ice drawn across my skin, so sharp that the pain arrived after the cut.
+
+Blood fell. A curtain of warmth sliding down my chest, soaking into my robe.
+
+My knees buckled.
+
+The world tilted. As I hit the ground.
+
+My vision narrowed.
+
+The last thing I saw, before the darkness closed in completely, was Lucy.
+
+Still crouched behind the crates. Still shaking. Still crying.
+
+I couldn't save her.
+
+[Restarting Day]

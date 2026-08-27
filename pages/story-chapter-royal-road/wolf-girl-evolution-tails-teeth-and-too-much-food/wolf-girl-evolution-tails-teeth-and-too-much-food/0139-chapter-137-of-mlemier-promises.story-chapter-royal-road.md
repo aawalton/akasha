@@ -1,0 +1,489 @@
+---
+id: 0db9e15e-ae16-55df-a828-a8ee4be71005
+page-type-slug: story-chapter-royal-road
+title: "Chapter 137: Of Mlemier Promises"
+slug: 0139-chapter-137-of-mlemier-promises
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 139
+ownLength: 1924
+unit: words
+publishedAt: 2026-07-01
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3618504/chapter-137-of-mlemier-promises"
+royalRoadId: "3618504"
+---
+
+PoV Luna
+
+Morning arrived before Luna was done being asleep.
+
+Very rude!
+
+She woke with her face half-buried in blanket, warm coals nearby, and sleepy pack-smells still tucked close beneath the pines. And for one precious moment, everything felt almost perfect.
+
+Then wagon wheels creaked somewhere below the ridge.
+
+Road.
+
+Luna’s ears flattened against her hair.
+
+The stupid separation road was only a few hours ahead.
+
+Breakfast helped a little because breakfast was breakfast!
+
+But even smoked meat and warm bread could not fix the unpleasant twist under her ribs. Luna stayed close through all of it. Close to Syliana while eating. Close to Ray while he packed. Close to Trianna when she checked her bowstring. Close enough to Veric that her shoulder bumped his leg twice.
+
+Sepio noticed her hovering near his shield while he secured it.
+
+He looked down.
+
+Luna looked back.
+
+After a moment, he sighed and shifted the shield strap just enough that her hand could stay on his sleeve while he finished.
+
+Ehe!
+
+They left the hidden pine camp after breakfast, with the town below already making too much noise for Luna’s liking.
+
+The place was called Veyrfall Crossing.
+
+Luna thought the name fit badly.
+
+Crossing sounded like roads meeting and then leaving again. Veyrfall had that, but it also had proper walls, low stone houses, stables, storehouses, watch posts, crowded market lanes, and enough cookfire smoke to make her nose twitch from the hillside.
+
+Though it also smelled old.
+
+And was small! Smaller than Altracia.
+
+Luna recalled what Syliana had said about the place.
+
+That it was busy enough that wagons kept entering and leaving through different gates, but ordinary enough that nobody remembered every traveler who passed through.
+
+And a few days farther on, the main road would reach Vaelmere and the larger trade network beyond it. Then branch out toward northern mountain territories of Kaelor, western forest routes leading into the elven sphere of influence, Sky Kingdom-linked roads, and the older frontier roads stretching back toward Altracia’s sphere.
+
+Many difficult names!
+
+Which was why her Second had chosen the place.
+
+People split apart at Veyrfall every day. Caravans changed routes. Guards changed contracts. Merchants joined different wagons. Travelers arrived together and left in smaller groups without anyone caring much at all.
+
+Too small to care for, but just busy enough to disappear in.
+
+Her fingers tightened around Syliana’s sleeve.
+
+They were there.
+
+At the crossroads.
+
+…They looked too ordinary for something so awful.
+
+Nobody rushed toward the roads.
+
+For a moment, her pack stayed gathered beside the markers, close enough that Luna could smell all of them beneath the dust and Veyrfall noise.
+
+Ray cleared his throat and looked toward Trianna.
+
+“You still cannot be trusted to negotiate fair prices without supervision.”
+
+Trianna’s smile flickered back.
+
+“I negotiate perfectly well, I will have you know!”
+
+“You once traded emergency rations for throwing knives.”
+
+“They were excellent knives.”
+
+“We nearly starved.”
+
+“Temporarily!”
+
+Luna pressed closer against Syliana’s side while the others lingered a little longer.
+
+The road could wait anyway!
+
+She swallowed hard, wiped at her face before it could become a problem again, and stepped forward.
+
+No more melting.
+
+Apex Predators could cry, obviously! But they could also conduct extremely important pack procedures while being brave.
+
+…Mostly brave.
+
+“Promise promise first.”
+
+Everybody went quiet at that, turning to her, listening.
+
+Hmph!
+
+Of course they listened!
+
+This was impawtant procedure!
+
+If stupid roads wanted to split pack apart, then Luna would make the promises stronger than roads.
+
+“Mlem promise?”
+
+“Yes, Luna, mlem promise,” Ray answered her first.
+
+“Real promise?”
+
+“Yes.”
+
+“Mlemier promise?”
+
+Ray blinked once.
+
+“…That is not a word.”
+
+“Now is!”
+
+Trianna snorted loudly beside him.
+
+“I support all of Luna's linguistic innovation.”
+
+“You support chaos,” Sepio corrected.
+
+“Maybe!” she tutted innocently.
+
+Luna ignored them entirely and grabbed Ray into another hug before he could escape. The rogue wrapped his arms around her automatically despite the dramatic sigh he added afterward.
+
+“You’re going to flatten my ribs one day.”
+
+“Then Ray Ray better train strong ribs too!”
+
+“...I will try.”
+
+Yesh!
+
+Next came Trianna.
+
+The archer crouched willingly before Luna even reached her this time, smiling softer than usual despite the bright teasing still lingering around the edges.
+
+“You’re going to bully every poor trainer Syl finds for you, aren’t you?”
+
+“...Maybe.”
+
+“That means yes.”
+
+Luna grabbed her immediately after. Trianna hugged back just as tightly.
+
+“Take care of yourself, fluffball.”
+
+“You too.”
+
+“And no biting mysterious artifacts.”
+
+“No promises!”
+
+Trianna laughed helplessly into Luna’s hair.
+
+Veric’s goodbye stayed quieter.
+
+The giant warrior rested one hand against Luna’s shoulder while she looked stubbornly downward at the dirt road between them.
+
+“You will grow stronger.”
+
+Luna sniffed once.
+
+“Mhm. But Luna will still miss you.”
+
+“Hrm.”
+
+Then Veric surprised her slightly by pulling her into a brief one-armed hug before stepping back again.
+
+The hug was warm, steady, and safe, and it made Luna’s eyes burn all over again.
+
+Stupid emotions!
+
+Luna was stronger than this!
+
+Sepio had clearly been trying to position himself near the edge of the group in hopes of avoiding emotional ambushes entirely.
+
+Unacceptable behavior!
+
+Luna marched directly toward him.
+
+Sepio noticed instantly.
+
+“…No.”
+
+“Yes!”
+
+“Luna.”
+
+“Mandatory goodbye protocol.”
+
+“Teaching you what a protocol means was a mistake.”
+
+“Nuh uh, no mistake! Now promise!”
+
+Sepio opened his mouth, paused, then closed it again, realizing resistance became pointless several disasters ago.
+
+Hmph!
+
+Luna hugged him hard enough to nearly push him backward.
+
+Sepio stiffened automatically for one brief moment before slowly relaxing into the contact with a quiet sigh. The awkward headpat followed shortly afterward, slightly uncertain but warm enough that Luna accepted it.
+
+“Try not to die doing anything catastrophically stupid,” Sepio muttered.
+
+Luna puffed proudly despite damp eyes.
+
+“Luna will bite catastrophes too!”
+
+“...That does not reassure me.”
+
+“It should!”
+
+“It truly should not.”
+
+Luna laughed weakly through another sniffle.
+
+The pack lingered afterward even though the goodbyes had technically already happened. Nobody seemed willing to take the first actual step away.
+
+Luna understood!
+
+Obviously.
+
+Leaving Luna was very difficult! She was the bestest, after all!
+
+Then she breathed once, twice, and lifted her chin.
+
+“Okay.”
+
+The word came out small.
+
+Rude.
+
+She tried again.
+
+“Okay! Pack goes. Pack gets stronger. Then pack comes back and sees Luna also stronger!”
+
+Ray’s expression shifted.
+
+Trianna’s smile wobbled.
+
+Veric nodded once.
+
+And Sepio looked away first.
+
+Good!
+
+Pack understood the mission!
+
+But before Luna could do anything else, Veric stepped forward, calm as ever, and lowered himself enough to meet Luna’s eyes properly.
+
+“Continue practicing proper movement,” he said. “Do not rely entirely on brute force and Skills.”
+
+Oh! Pack had words for Luna too!
+
+She immediately straightened–
+
+Then she struck the most dramatic combat pose possible!
+
+“Yesh! Luna becoming super tactical Apex fluff!”
+
+A dangerous silence followed.
+
+Ray made a choking noise, while Trianna folded over laughing.
+
+Even Sepio closed his eyes briefly like a man enduring psychic damage.
+
+Veric stared at Luna for several long seconds.
+
+Then the corner of his mouth moved slightly upward.
+
+“Hrm.”
+
+Yesh, victory!
+
+Mister Bull tactics were awoomazing!
+
+Luna puffed proudly, and the burning behind her eyes became a little easier to ignore.
+
+Ray approached next while digging through one of his belt pouches with exaggerated seriousness.
+
+“I was saving this for a bribe,” he announced. “But current circumstances seem emotionally catastrophic enough to justify deployment.”
+
+He dropped a tiny leather pouch into Luna’s hands.
+
+The smell hit her instantly.
+
+Spice.
+
+Strong spice.
+
+Grevan-level emergency spice!
+
+Luna stared down at the pouch in complete silence.
+
+“…Emotional support spice?”
+
+Ray pointed at her solemnly.
+
+“Use it responsibly.”
+
+Her eyes burned harder.
+
+Rude.
+
+Very rude!
+
+But Luna was being brave now, so she clutched the pouch against her chest and nodded with great seriousness.
+
+“Ray Ray good.”
+
+Ray’s expression shifted before he covered it with a sigh.
+
+“That is dangerously sincere.”
+
+“Because true.”
+
+“I see.”
+
+“No take-backs.”
+
+“Wasn’t planning on it.”
+
+Trianna stepped closer last.
+
+Her smile stayed bright, but Luna smelled the sadness underneath anyway. But before the hurt could grow too sharp, Trianna leaned forward until their foreheads touched gently once more.
+
+Warm.
+
+Familiar.
+
+“We’ll meet again soon, lovely little troublemaker.”
+
+Luna sniffed loudly.
+
+Luna sniffed loudly.
+
+“Trianna better.”
+
+“I will.”
+
+“And come back.”
+
+“I will do that too.”
+
+The answer came without hesitation.
+
+Mhm!
+
+Luna clutched the emergency spice pouch tighter, nodded once, and tried very hard to look like a brave Apex Predator.
+
+***
+
+Soon the pack split up, carefully.
+
+Ray and Trianna left first, blending into the travelers heading west along one of the larger trade roads. Before the road dipped beyond the hills, Trianna turned and waved overhead dramatically.
+
+Luna waved back with both arms.
+
+Very hard.
+
+Brave wave!
+
+Then they were gone.
+
+The awful feeling twisted sharply, but Luna squeezed the spice pouch and made herself breathe.
+
+Veric joined a southbound merchant group several minutes ahead of Sepio, his pace steady among wagons loaded with lumber and grain. Sepio departed separately afterward, moving with the calm stride of a traveling guard between settlements.
+
+Neither looked back much.
+
+Probably because if they did, Luna might physically tackle them back into the pack.
+
+Reasonable concern.
+
+Sepio paused only once farther down the road, adjusted the strap of his shield, and gave one final small nod toward her.
+
+Luna nodded back.
+
+Bravely!
+
+Then he continued walking.
+
+And just like that, only Luna and Syliana remained beneath the pale afternoon sky.
+
+The pack smell stretched thin across different roads.
+
+Ray and Trianna south.
+
+Veric west.
+
+Sepio east.
+
+Luna held the spice pouch against her chest and watched until the last familiar shape disappeared into dust, wagons, and distance.
+
+Her eyes burned.
+
+But she did not cry.
+
+Not this time!
+
+She had cried lots already. Very thoroughly. Extremely impressive crying, probably. Apex Predator of crying!
+
+…Nuh uh, that didn’t sound Apex Predatory at all!
+
+Luna shook her head.
+
+She had a mission now!
+
+Luna held onto that thought as tightly as she the spice pouch.
+
+Pack would get stronger.
+
+Luna would get stronger too!
+
+Then pack would come back and see, yesh!
+
+Her chest still hurt, but the hurt had somewhere to go now. It pointed Luna forward now, towards doing what Luna always did best!
+
+Growing strong from hunting prey!
+
+She breathed in once, catching the last thin traces of familiar scents beneath dust and road smoke.
+
+Then she turned and walked back to Syliana.
+
+Her friend had waited nearby without interrupting. The moment Luna reached her, she pressed herself firmly against Syl’s side and stayed there.
+
+Syliana rested one gentle hand atop her head and slowly stroked behind one twitching ear.
+
+The warmth helped.
+
+So did the spice pouch.
+
+So did knowing what came next.
+
+Yesh.
+
+After a while, Syliana glanced down.
+
+“We should begin moving soon.”
+
+Luna nodded once against her side.
+
+“Yip.”
+
+They began walking northward along the final road branching away from Veyrfall Crossing. Syliana spoke quietly as they went, explaining only enough for Luna to follow: smaller roads first, quieter places after that, and training wherever they could find it without drawing the wrong eyes.
+
+Luna listened better once the road started moving beneath her feet.
+
+Moving helped.
+
+Moving meant next.
+
+And next meant stronger!
+
+She still looked back sometimes, but not every few steps anymore.
+
+Then her Second’s eyes turned pensive.
+
+“...Though perhaps, with your speed, we won’t need to hide quite as much.”
+
+Uh huh?
+
+The sparkle in Syl’s eyes told her everything!
+
+And suddenly, Luna was all ears!

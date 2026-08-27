@@ -1,0 +1,579 @@
+---
+id: 64d2eda9-d8e8-502f-89df-2d9f2426f211
+page-type-slug: story-chapter-royal-road
+title: "Chapter 127: Of Relief, Recovery, and Resting Reins"
+slug: 0128-chapter-127-of-relief-recovery-and-resting-reins
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 128
+ownLength: 3560
+unit: words
+publishedAt: 2026-05-11
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3383571/chapter-127-of-relief-recovery-and-resting-reins"
+royalRoadId: "3383571"
+---
+
+PoV Syliana
+
+It has been a week since the battle at that cursed tower.
+
+Seven days marked more by vigilance than time.
+
+By the slow rhythm of care and recovery, by the constant awareness of breath and heartbeat that refused to be taken for granted.
+
+The aftermath of the battle challenged Syliana with all the weight of patience and care she could muster, every moment that followed.
+
+Since that day, Syl had not left Luna’s side for long.
+
+At least not willingly.
+
+The memory of that final moment remained too sharp with her. The image of Luna collapsing, bleeding, after that last desperate act replaying with quiet persistence whenever her focus slipped.
+
+It had taken everything Syl had, every fragment of knowledge she had built over her long life, and her own insistence of always being overprepared for any situation, to simply stabilize her.
+
+Alchemical mixtures she had, yet needed to carefully dose as too many potions were already coursing through the wolf girl’s veins.
+
+She had to stop the bleeding manually, and needed to bring out salves and draughts, applying them in careful sequence, each one chosen carefully to ensure her little friend’s survival.
+
+And it had barely been enough.
+
+But it allowed her to hold the line until more help arrived.
+
+Despite Ferric’s orders, the people who knew him did not sit still.
+
+And did not delay.
+
+At that moment in time, she was extremely grateful at how willful adventurers were.
+
+Especially when it mattered.
+
+And when somebody they liked and respected needed their help.
+
+She really was.
+
+Just half an hour after the fight, the thunder of hooves had returned, and with it came a group that did not question, nor hesitate.
+
+As silly as the name they chose was, the Proper Human Team was a veteran team through and through. They had ridden hard, and brought a healer with them without waiting for permission.
+
+A healer that was supposed to stay on standby in town, they decided to bring along on pure instinct alone.
+
+And she was incredibly thankful they did.
+
+Soon as they arrived, and she understood they were here to help, Syliana had simply stepped aside long enough to let them do what she could not with her limited skills and resources. Her attention never left Luna even as the others worked, even as the pressure of that moment began to ease.
+
+Luna had lived.
+
+They all had.
+
+Though not without cost.
+
+When she was busy tending to Luna, Ferric went around applying whatever first aid he could for the rest of her team.
+
+Veric’s injuries had taken time to set properly, Sepio had required careful treatment before he regained full awareness, and Trianna’s recovery had been slower than she would ever admit aloud.
+
+Even Ferric, with all his bulk and armor, had not walked away untouched. Although he carried it in a way that did not invite comment.
+
+They endured this horrid ordeal.
+
+As they always did.
+
+And their days since were filled with conversations and careful considerations.
+
+Too many things lined up to remain a coincidence.
+
+Their own first mission to clear out Corruption, the worrying reports the Guild had received from the surrounding regions, and now that… ‘Agent of Corruption’ finding and trying to capture Luna so fast.
+
+And planning, preparing and leading them into a trap must have taken time.
+
+So whoever was behind them had likely known for a good while.
+
+…Or this was just a freak accident, a single person’s ambition getting the better of them.
+
+Yet she did not live that long taking such coincidences lightly.
+
+Still…
+
+Up until now Syliana thought they still had time, that the dangers would only start upon reaching the capital, or perhaps not even then.
+
+And even if trouble came, it would be in the form of uppity nobles and merchants with far more money than sense to their name.
+
+And not from a dangerous Corruption worshipping organization.
+
+What little their investigation into whoever that was, and what linked everything Syliana and her party was here to do, did not inspire much confidence.
+
+It suggested an unknown danger on the horizon.
+
+But what was even more worrying–
+
+Turbulent times were coming, as they oft seem to do whenever a Wildling is involved. Although only now did Syl consider that maybe turbulent times were always brewing.
+
+It’s just that…
+
+Wildlings brought them up to light.
+
+In the days that followed they made and remade many plans. She recalled Ferric’s steady voice as he promised that the Guild would investigate, that the town guard would be involved, that whatever had happened would not be left to fade into rumor or be dismissed as misfortune.
+
+All the while Syl had listened, contributing where needed.
+
+But her attention had remained divided.
+
+Because Luna had not woken even once since that dreadful day.
+
+A whole week passed, and only the fact the little wolf girl was breathing and fully healed up eased some of her worries.
+
+And once again Syliana had found herself watching over those small, steady breaths.
+
+Her body held through the ordeal, recovering slowly even under the healer’s care. The wounds only fully knitted together after two days of their work.
+
+Yet still her eyes had not opened, her awareness not returned, and her lovely presence was still a distant memory. It made each hour stretch longer than it should.
+
+So Syl stayed.
+
+Caring and watching, as much as she was able.
+
+Most of her time was spent with Luna resting against her, small and still, the steady rise and fall of her breathing the only reassurance that mattered to her. And when she did have to sleep, Syliana was always close. With her body always in contact, even in rest. Her awareness never fully slipped, ready to respond if anything happened.
+
+Her hand moved through Luna’s fur in slow, absent motions, a habit that had formed without conscious thought. It was something to do. Steady and grounding.
+
+It had been a very long time indeed since Syliana actually cried.
+
+Long enough that the very memory of it felt distant.
+
+But when the healer had finally stepped back that first night and confirmed that Luna will be alright.
+
+That she was stable, and recovering–
+
+–something in her had broken just enough to let it through.
+
+The relief was too much to contain.
+
+She had not hidden it then, had not even tried to.
+
+There had been no point.
+
+And now–
+
+A week later–
+
+She felt it again.
+
+But this time it was far more immediate.
+
+And as all things tend to do, it began with something small.
+
+A little tremor.
+
+Luna’s ear twitched beneath her hand, subtle enough that it might have been missed if Syl had not been so attuned to every shift, every change. Her fingers stilled instantly, her attention snapping fully into the moment.
+
+Another movement followed.
+
+The faintest scrunch of Luna’s nose, a small reaction that told her of something unmistakable.
+
+Awareness.
+
+Syliana did not even dare to breathe.
+
+Just watched, and waited.
+
+Luna shifted again, her body responding slowly. Waking from something deeper than sleep. Her mouth opened into a wide, unrestrained yawn that stretched across her small form without any concern for what it looked like.
+
+Syl’s vision blurred.
+
+And she did not try to stop the tears this time either.
+
+The relief hit her all at once, heavy and overwhelming. It settled into her chest and made it hard to draw a steady breath. The weight she had been carrying for days had eased into nothing in a way that left her momentarily unsteady. Her hand tightened slightly in Luna’s fur before she pulled the little wolf closer without thinking.
+
+Carefully, and gently.
+
+But firmly enough that there was no mistaking it.
+
+“You’re awake,” she managed, though the words caught in her throat, her voice softer than she intended. She swallowed once, trying to steady it, and tried again.
+
+“Good morning, Luna.”
+
+It was all she could say.
+
+Luna’s response came slowly, her eyes still heavy with sleep, her expression unfocused as she blinked up at her, the remnants of that yawn lingering as she tried to place where she was and what had changed.
+
+It was simple.
+
+Unaware and bleary-eyed.
+
+And it was, in that moment, the most precious thing Syliana had ever seen.
+
+***
+
+PoV Luna:
+
+Luna woke up slowly.
+
+The sensations returned to her in pieces, coming together in pieces, contrary to the sharp awareness she was used to. The very first thing she noticed was warmth, steady and familiar, and touch she leaned into before she even fully understood why.
+
+Then came the scent.
+
+Her Second!
+
+Close and safe!
+
+Everything else followed after that.
+
+The memories tried to come with it, broken and uneven, flashes of movement and pain and something wrong that she could not quite hold onto. They lingered for a moment, bringing with them a faint echo of worry, of something that had not ended well–
+
+–and then they dissolved under the delicate caress of Syl’s fingers.
+
+Her nose twitched again, drawing in the scent properly this time, grounding her fully in the present.
+
+Syl was here.
+
+Alive and unhurt.
+
+So the rest did not matter!
+
+Luna pushed forward immediately, pressing herself harder into the hug with her bestest friend. To confirm it physically, to make it feel even more real.
+
+Her tail answered first, with the happiest wag she could give!
+
+It wagged so hard it threw off her balance, her entire body following the motion as she shifted and pressed closer, the need to confirm, to feel, to make sure overriding everything else.
+
+“Mmm–!”
+
+Her voice came out muffled against Syl’s shoulder, but the meaning carried anyway.
+
+Safe!
+
+Her awoomazing friend was safe!
+
+Mlems followed.
+
+One after another!
+
+Then some more still.
+
+Quick, insistent, each one placed wherever she could reach, her focus entirely on Syl as she made up for the time lost, for the distance that had been there even when she had been close.
+
+It still didn’t feel like enough.
+
+Luna wanted more!
+
+She pulled back just enough to shift, the change coming instinctively as she transformed into her human form. Arms replaced forelegs, hands closing around Syl as she wrapped herself properly around her friend, pulling in tight and holding there.
+
+Better.
+
+She nuzzled herself into her friend a bit harder.
+
+Yip yep!
+
+Much better.
+
+She bounced slightly where she sat, the motion carrying through her entire body as she pressed in again, her face finding Syl’s cheek as she resumed her assault of mlems with renewed precision.
+
+“Yesh, good morning! Luna is awake now!”
+
+And for once Syl did not stop her.
+
+Not immediately.
+
+Her arms came up instead, returning the hug, holding her there even as Luna continued, the motion of her hand returning to Luna’s hair without thought. The warmth remained, the presence steady. It made her feel nice, and everything else fall away completely.
+
+Luna stayed there, not wanting to let go.
+
+Even when something deep inside her body began to stir.
+
+Uh huh.
+
+Hungery bites were here!
+
+Faint at first, then clearer, gnawing at her stomach. Her body’s way of reminding her that time had passed, and that it needed something more than just closeness to recover properly.
+
+Luna ignored it!
+
+It wasn’t important.
+
+Hugging her friend was far more important right now!
+
+She leaned in again, another mlem placed with determination, just to make a point.
+
+Time passed like that, and eventually–
+
+Even Syl’s patience found its limit.
+
+“Alright, alright,” she said, her voice soft but firm as her hand caught Luna’s cheek gently, guiding her back just enough to create space. “Luna, that’s enough.”
+
+Luna paused, just for a moment.
+
+Her expression scrunched slightly as if considering whether that was indeed enough mlems.
+
+Nuh uh!
+
+It wasn’t.
+
+But since Second said so…
+
+Then maybe it would be enough–
+
+For now!
+
+Luna’s tail slowed down a little, considering.
+
+But she stayed close anyway, arms still wrapped around Syl as she leaned into her again, this time without trying to escape the hold she had just been gently pulled from.
+
+The door opened, and footsteps followed.
+
+Luna’s ears perked immediately, her head turning toward the sound as familiar scents reached her even before she saw them enter.
+
+Her pack!
+
+All of them were here!
+
+Relief hit again, fresh and immediate as they entered, each one carrying their own presence into the room in ways and scents Luna recognized without needing to look.
+
+Veric stepped in first, his posture as steady as ever, though there was a moment’s pause when his gaze settled on her. He did not rush forward, nor crowd the space, but the shift in his stance said enough.
+
+“You’re awake,” he said simply.
+
+Luna nodded quickly.
+
+“Yesh!”
+
+He gave a small nod in return, the tension in his shoulders easing just enough to notice before he stepped closer and rested a hand briefly against her head, ruffling her hair a bit.
+
+“Good.”
+
+Sepio followed, restrained, but more deliberate in his movement, his gaze lingering on her a fraction longer before he let out a low breath.
+
+“Took you long enough,” he said, though the roughness in his tone did not hide the relief beneath it.
+
+Luna blinked at him, a little confused.
+
+“…Luna was busy sleeping!” she replied, entirely serious.
+
+Sepio huffed, shaking his head once before reaching out to pat her shoulder with a steady weight.
+
+“Don’t do that again.”
+
+Trianna did not hold back.
+
+She crossed the space quickly, ignoring the careful pacing of the others as she dropped down beside Luna and wrapped her in another hug, careful not to squeeze too hard, but firm all the same.
+
+“You absolute menace,” she said, her voice tight in a way Luna had not heard before. “Do you have any idea what you–”
+
+She stopped, exhaling.
+
+Then pulled back just enough to look at her properly.
+
+“…Don’t answer that,” she added, shaking her head.
+
+Luna tilted hers.
+
+“Saved pack,” she offered instead.
+
+Trianna stared at her for a moment.
+
+Then laughed, the sound breaking through the tension as she reached up to ruffle Luna’s hair more gently than usual.
+
+“Yeah,” she said. “Yeah, you did.”
+
+Ray lingered near the door at first, watching the exchange with a quieter expression, his usual ease of being more subdued. When Luna’s gaze found him, he gave a small nod, stepping closer just enough to be part of the circle without pushing into it.
+
+“It’s good to have you back,” he said simply.
+
+Luna nodded again.
+
+“Yesh! It’s good to see pack safe too!”
+
+That was true.
+
+All of them were here.
+
+And all of them were safe!
+
+Her tail picked up again, slower this time but no less certain as she leaned back into Syl, the last of the lingering unease fading completely.
+
+And then–
+
+Her stomach found it a perfect moment to growl.
+
+“Uh oh. Luna is hungry!”
+
+The laughs that followed were bright and genuine, with Luna quickly sat down to nom a truly lavish meal.
+
+Mhm!
+
+Everybody was safe, the hugs warm and nice, and the food tasty!
+
+Everything was as it should be.
+
+Truly–
+
+Life was great!
+
+***
+
+The days that followed were… busy.
+
+But not busy running or hunting or doing important Apex Predator things outside! Yet it filled her time completely anyway. Luna did not get bored once, even though she had to stay inside and “rest properly,” as her Second kept reminding her whenever she tried to sneak off too early.
+
+But people kept coming in to visit, so it wasn’t too bad!
+
+One after another, then in small groups, sometimes alone, sometimes bringing others along. They came to check on her, to talk, to laugh, to sit nearby even when there was nothing important to say.
+
+And they brought things!
+
+Very important things.
+
+Like food!
+
+Luna really liked food!
+
+And approved of such gifts the most!
+
+Every visit seemed to come with something new or familiar, carefully chosen or simply handed over with a smile.
+
+And Luna accepted all of it with the seriousness it deserved!
+
+Jerky came in different flavors, some she had never even tried before, some she already knew were good. Cooked meals were brought in sometimes, warm and filling. Soups and stews that made her tail wag even before she took the first bite.
+
+Mhm!
+
+It was an awoomazingly delish surprise every time!
+
+Humans really weren’t so bad!
+
+They remembered.
+
+And brought food.
+
+Cared for her when Luna was hurt.
+
+And were even fun and amusing to be around!
+
+That was what mattered.
+
+Yip yep!
+
+Mister Stall Owner came by too, smelling as good as always, though a little more tired than usual.
+
+He brought skewers! And some things that needed proper cooking later, carefully explaining how to prepare them again, as if Luna would forget something that important!
+
+She nodded very seriously the entire time, even if she was pretty certain that it would taste good no matter what.
+
+The Proper Human Team visited too, louder than most, their presence filling the room with easy conversation and lively energy, infecting everybody around with their cheer. They asked questions, and told Luna stories, and made sure she had plenty to eat while they did it too!
+
+And then–!
+
+Her Sandwich Friend visited!
+
+And he brought something new every time, each sandwich offering a new experience. Each one made and explained carefully before Luna was allowed to take a bite. She listened, because sandwich wisdom was worth every bite, and then ate, because eating was even more important!
+
+Guildmaster Ferric visited too.
+
+He did not stay as long as the others, his time clearly pulled in many directions, but when he was there, he made sure to check on her properly. His presence carried weight even in a quiet room. But the way he spoke to her remained unchanged.
+
+“You did well out there,” he told her once, simply and without embellishment.
+
+Ehehe!
+
+Luna knew!
+
+She always did her bestest! Anytime, anywhere!
+
+But out of all the visitors, her pack was there for her the most.
+
+Syl stayed close, as always, her calm presence a constant that made everything else just a little easier. Trianna filled the space with movement and stories, even when she was supposed to be resting as well. Veric remained steady and quiet, though his attention lingered on Luna more often than before. And he played games with her too!
+
+As for Sepio–
+
+His gruff comments carried less bite than usual, even when he pretended otherwise. And then there was Ray! Who moved between them all, easy and watchful, making sure things stayed calm when they needed to.
+
+And so five days passed, with many familiar faces, and with Luna feeling better by the day. Until they were ready to go out, hunt, and travel again!
+
+But there were some surprises too!
+
+Other adventurers came by for a visit too.
+
+Some of them Luna knew.
+
+But others she only recognized by scent!
+
+And a couple she did not know at all, but who smiled anyway and brought her small things, or thoughtful treats! They made her feel… included, even if they mostly talked with Syl and pack!
+
+Mlemy friends!
+
+All of them.
+
+Thanks to them, Luna had a good time.
+
+Even if she had to stay inside.
+
+Eventually, though, the tone shifted.
+
+It wasn’t all too obvious at first.
+
+But Luna noticed the quiet conversations her pack had when they thought she was resting. Plans were made, and things discussed!
+
+But what mattered to Luna was that–
+
+They would not stay in town much longer.
+
+The tower had made the danger too clear.
+
+The world outside was bigger, more dangerous, and not keen on waiting. Even if they stayed, it would find them again.
+
+Luna understood that.
+
+She listened when her Second explained those things, when the others added their thoughts, when the destinations were thrown about and discussed.
+
+Luna would miss this place.
+
+The people.
+
+The smells.
+
+And the food!
+
+Just a little.
+
+…Maybe a woo bit more than just a little.
+
+But it wasn’t that heavy a thought!
+
+Because there was more stuff out there.
+
+More food!
+
+And many new experiences!
+
+More things to try and learn and bring back.
+
+And the idea of returning one day, of sharing all of that with the people here, of bringing new tasties and new stories to share with the nice people here–
+
+That made everything feel right again.
+
+Awoomazingly clever.
+
+Yesh!
+
+Luna sat between Trianna and Syl, her legs kicking idly as she focused on the very important task in her hands. Another sandwich, carefully prepared and delivered, already halfway gone as she worked through it with full attention.
+
+It was good.
+
+Very good.
+
+Her eyes began to droop slightly as she finished the last bite, the warmth of the room and the steady presence around her settling in again. Without thinking, she leaned into Syl’s side, her hand finding her Second’s and holding it loosely.
+
+The world was not safe.
+
+She knew that now.
+
+There were things out there that needed biting.
+
+Big, ugly things, strong and weak.
+
+And more Luna did not yet know about.
+
+But most importantly–
+
+Her friends were safe!
+
+And Luna, Apex Predator Extraordinaire, Mlem Giver, and Jerky Receiver–
+
+Would make awoobsolutely sure it stayed that way!

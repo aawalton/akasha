@@ -1,0 +1,295 @@
+---
+id: f23f7ee7-6939-5887-9832-0d3652e1248b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 38: The Prince"
+slug: 0038-chapter-38-the-prince
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 38
+ownLength: 2087
+unit: words
+publishedAt: 2026-05-07
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3367607/chapter-38-the-prince"
+royalRoadId: "3367607"
+---
+
+"Hexenzeit?" I repeated.
+
+My mind raced. The dye was good. Not a strand of white showed at the roots. I'd checked that morning.
+
+There was no way he'd identified me by the hair alone.
+
+"I don't know what you're talking about," I said.
+
+The lie left my mouth smoothly. No tremor in the voice that might betray myself.
+
+Varen's smile didn't waver.
+
+"Lying to a member of the royal family," he said, "is a crime."
+
+The words were delivered casually. The way someone might remind you that you'd left a window open. An observation wrapped in the thinnest possible membrane of courtesy.
+
+Around me, the soldiers shifted.
+
+Four spear points converged on my throat. The nearest blade sat close enough to my jugular.
+
+I swallowed.
+
+"Well," I said, keeping my voice level, "if I were a Hexenzeit, you'd find yourself in a rather difficult position, Your Highness."
+
+Varen's dark eyes narrowed by a fraction. The smile persisted, but something behind it sharpened.
+
+"How so?" he asked.
+
+"You'd be pointing weapons at the firstborn descendant of an Archduke," I said. "An Archduke who does not, historically, take kindly to threats against his bloodline. Even from those who nominally share his loyalty to the Crown."
+
+The words made sense. Some sense. They were part calculation, part bluff. Born from the fragmented memories that still surfaced from behind the door the Gluttony had cracked open.
+
+Roderich von Hexenzeit.
+
+The impressions were incomplete. Broken shards of a portrait rather than the portrait itself. But the shards all pointed in the same direction.
+
+My father was the kind of man who made princes careful.
+
+Not because he broke rules. Because he didn't need to. He operated within the architecture of law and hierarchy and military protocol with a precision that left no gap for attack and no opening for defiance. When he wanted something done, it was done. When he wanted someone gone, they were gone.
+
+The kind of man who could end a career with a signature.
+
+The kind of man who could end a life with a letter.
+
+I didn't know if this impression was accurate. The memories were fragments, not facts. But the feeling they carried was unmistakable: even princes measured their words around Roderich von Hexenzeit.
+
+Varen studied me.
+
+His eyes didn't leave my face. For several seconds, the only sounds in the room were the faint scratch of a quill of some attendant in the corner, still taking notes.
+
+"You'd be right," Varen said slowly, "if not for the fact that your father already believes you're dead."
+
+I kept my face still. Kept the mask in place.
+
+He knew who I was. He knew that the name Kaspar von Hexenzeit sat on a casualty list somewhere.
+
+Which meant the leverage I'd been constructing was hollow.
+
+"True enough," I said, refusing to let the concession show as weakness. "But there are too many eyes in this room."
+
+I let my gaze drift across the study.
+
+The attendants at the margins. The soldiers at my back. The figures in the chairs arranged in their careful semicircle around the desk.
+
+"All it takes is one of them," I continued, "deciding that this information is worth more traded than kept. One servant with a grievance. One soldier with debts. Someone who thinks Roderich might pay handsomely for the knowledge that a prince has been keeping a Hexenzeit heir in his fighting pit."
+
+I met his eyes.
+
+"How confident are you in every person in this room, Your Highness?"
+
+The political landscape of Silberwald was something Marcus had sketched for me during long evenings in the cell. The broad strokes of a succession crisis that hadn't yet erupted into open conflict but was building pressure behind every closed door in the capital.
+
+I didn't know enough to judge the quality of my own bluff. Didn't know if my father was a threat to Varen, or whether the succession dynamics actually created the vulnerability I was implying.
+
+But I knew how to sound confident.
+
+I knew that even a mediocre bluff lands differently when it's delivered by someone standing with four spears at his throat and a smile on his face.
+
+Varen held my gaze.
+
+The silence stretched to five seconds.
+
+Then he stood.
+
+He rose from his chair, rounded the edge of the desk, and crossed the space between us in three unhurried strides. Before I could react, his hand landed on my shoulder and his arm draped across my back with a casual intimacy.
+
+"Impressive," he said.
+
+He was smiling again. Wider now.
+
+"You are completely different from what I remembered, cousin."
+
+Cousin.
+
+I kept my expression composed. Kept the arm across my shoulders. But behind the mask, my mind was scrambling through Kaspar's memories, searching for any scrap of information that connected the Hexenzeit bloodline to the royal family.
+
+Nothing.
+
+The door in my mind offered no answers. Not genealogies. Not family trees. "You could have continued the charade," Varen said, still speaking with that unnerving warmth, his arm still across my back. He guided me forward, steering me toward the desk. "It might even have worked. You sell the lie well."
+
+A beat.
+
+"But two friends of yours rather thoroughly dismantled your disguise."
+
+He extended his free hand toward the far side of the desk.
+
+I followed the gesture.
+
+Two figures sat in chairs against the study's eastern wall, partially obscured by the angle of the desk and the bodies of the officials between us.
+
+Iris stared at me.
+
+Her black hair was pulled back in a rough knot. Instead of the plate armor she had worn throughout the expedition, she was now dressed in a field uniform worn enough to hint just how difficult the journey from Grenzheim to Silberwald had been..
+
+Beside her, arms crossed, expression flat, sat Drez.
+
+She regarded me the way she regarded everything, with the clinical precision of a mind that had already processed the relevant data and was simply waiting for reality to catch up.
+
+My mask cracked.
+
+Not much. Not a catastrophic failure of composure. But enough. For two or three seconds, my surprise was obvious on my face.
+
+I coughed. Forced the surprise down. Dragged the mask back into place.
+
+"Fine," I said. My voice came out rougher than I intended. "You found me out. Cousin."
+
+The word felt strange in my mouth.
+
+Varen released my shoulder and circled back behind the desk. He lowered himself into his chair.
+
+"The two of them arrived three days ago," he said, gesturing at Iris and Drez with one hand while the other found his glass. "Demanding, rather forcefully, that I release a Hexenzeit who had been unlawfully conscripted into my Coliseum."
+
+His lips curved.
+
+"Imagine my surprise when I discovered that the conscript in question was not some distant branch cousin or minor house relation, but the firstborn son of Roderich himself. Not only that, a firstborn son who had abandoned magic entirely and was winning sword fights in my arena."
+
+He brought the glass to his lips.
+
+"I've been watching you closely since then."
+
+The way he said closely made the skin on the back of my neck tighten.
+
+"Still!" Iris's palm struck the surface of the desk.
+
+The impact rattled papers. The crystal communication device jumped. Across the room, an attendant flinched.
+
+"It's not right!" Iris's voice cut through the room's careful atmosphere. "The way you're treating these people. It's barbaric! You can't just—"
+
+Beside her, Drez's hand closed around Iris's forearm.
+
+Drez leaned sideways, her lips close to Iris's ear.
+
+The whisper wasn't quiet enough.
+
+"You are shouting," Drez said, "at Prince Varen."
+
+The name landed on Iris like a bucket of ice water.
+
+Her mouth, which had been open and preparing to deliver the next salvo of righteous fury, closed. The blood drained from her face and was immediately replaced by a flush so vivid it turned her cheeks the color of ripe apples.
+
+"A thousand apologies, Your Highness," she said, dropping back into her chair so quickly the wood creaked beneath her. Her eyes fixed on the table's surface with the desperate concentration of someone wishing they could disappear.
+
+Varen.
+
+I turned the name over in my mind. Prince Varen.
+
+Varen’s expression changed instantly. The warmth that had animated his features moments ago was gone.
+
+Yet his irritation wasn't directed at Iris.
+
+His eyes were on me.
+
+They hadn't left me. Through Iris's outburst, through Drez's whispered correction, through the awkward silence that followed, his gaze had remained fixed on my face.
+
+He wasn't interested in them.
+
+He was interested in me.
+
+"Ignore them," he said. The words were addressed to me alone, as if the rest of the room had ceased to exist. "I have a question for you."
+
+He leaned forward. His forearms rested on the desk.
+
+"Would you rather leave, or continue?"
+
+The question was simple.
+
+The answer wasn't.
+
+I looked at Varen.
+
+Then at Iris.
+
+Then at Drez.
+
+Then back at Varen.
+
+Leave. I could leave. Finally see myself free from the coliseum, maybe even return to the Academy.
+
+The Academy had things I needed. History. Understanding of the Eleven Sins, the portals, the old civilization, the political landscape. Every question I couldn't answer, the Academy could fill.
+
+But the Academy couldn't teach me to survive.
+
+Not with the life-or-death intensity that had pushed my swordsmanship from Amateur to Novice, that had cracked open Mana Breath.
+
+The Iron Cross was brutal. Barbaric. Everything Iris had said and worse.
+
+It was also making me stronger faster than anything else could.
+
+Strength was what I needed.
+
+One hundred and sixty-four days.
+
+The countdown pulsed in my mind. Every day I spent in a library was a day I wasn't training. Every page I turned was a page was a death that wouldn't stop.
+
+I needed both. Knowledge and combat.
+
+But right now, in this moment, with time bleeding away one sunrise at a time, combat won.
+
+"I want to stay," I said.
+
+The words landed differently on each person in the room.
+
+Iris's head snapped toward me. Her eyes widened. Her mouth opened, closed, opened again.
+
+Drez's reaction was subtler.
+
+She had been sitting with her arms crossed, her expression locked in that mask of detachment that seemed to be her default state. At my words, the mask cracked. Her eyebrows rose. Her arms uncrossed. For perhaps two seconds, genuine surprise broke through the iron composure.
+
+Varen clapped his hands together.
+
+His face split into a grin that radiated satisfaction. He leaned back in his chair, one hand drumming the desk's surface in a pleased rhythm.
+
+"Excellent," he said. "It's talent like yours that I need. Exactly what I need."
+
+"However," I said.
+
+The drumming stopped.
+
+Around the room, several figures shifted. An attendant's quill paused. One of the officials in the semicircle leaned toward his neighbor and whispered something I couldn't catch but whose tone carried clear disapproval.
+
+"I have terms," I said.
+
+Varen's grin didn't disappear. But it changed. The delight remained, but it was joined by something more alert.
+
+"What terms?" he asked.
+
+"You've seen what I can do in the arena," I said. "Fifteen wins. Top thirty at minimum. I've proven my value."
+
+I held his gaze.
+
+"I don't want to stay in the Coliseum. The arena has taught me what it can teach. Continuing to fight the same fights won't make me stronger."
+
+"I want fieldwork," I said. "Real deployment."
+
+Varen's fingers steepled beneath his chin. His eyes assessed me.
+
+"Field assignments are reserved for those who've completed the full training program," he said. "Officers and candidates. Not arena fighters."
+
+He paused.
+
+"However. Given your... unique circumstances, and your results, I could arrange a placement at our northern compound. It's where we train those groomed for command rather than just combat."
+
+He stroked the stubble along his jaw.
+
+"You'd be safe there. Far from anyone who might recognize you or complicate your situation."
+
+The offer was reasonable. Safety from the political complications of being a dead Hexenzeit who wasn't actually dead.
+
+It was also, a way to keep me under his control.
+
+The north meant isolation. Distance from the capital, from the Academy, from any theater of conflict where my choices might affect events Varen hadn't planned for.
+
+He wanted a useful piece on his board. Still, I couldn't go north.
+
+I couldn't spend months in a training compound, no matter how excellent, while the countdown burned away.
+
+"Not the north," I said.
+
+Varen's steepled fingers tightened.
+
+"I want Grenzheim."

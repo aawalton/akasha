@@ -1,0 +1,186 @@
+---
+id: b2a8e1ce-67f9-56e8-9ae4-767d43a17d36
+page-type-slug: story-chapter-royal-road
+title: "010 - Root Access To The Soul"
+partOf: zero-day-saint-i-cheat-smarter-shapeshifter-litrpg
+position: 10
+ownLength: 2554
+unit: words
+publishedAt: 2026-05-01
+link: "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3341223/010-root-access-to-the-soul"
+royalRoadId: "3341223"
+---
+
+"Can't have you kill the golden boy, can we?" The voice stood out in stark contrast to the chaos of the world. I heard a snap and found myself on the floor, back in human shape, as sanity rushed back into my mind. Jamie looked down at me, his expression twisted with horror. Behind him I saw the veteran, I think I'd heard someone call him Frank, his gun pointed at me.
+
+More animals poured in and both shifted their attention to the real attackers. I rolled out of the way and crawled behind an overturned table. I still couldn't process what just happened. The moment I shifted I'd gone entirely mad. Had that Perk turned me into a monster? There was a message in chat, from Gabriel, which had to have happened after I had turned.
+
+["Subdue her! She has lost control!"]
+
+This was in our Guide chat. Unless Jamie had some ability I wasn't aware of, she'd basically told him to die in an attempt to save me. With my boosted stats I'd have gone through him like that demon through Mike.
+
+I was torn out of my daze when a cat pounced on my head, its claws digging into my face, my neck and into my temple as it screamed at me. I ripped it away with my left hand, earning me a set of deep, burning cuts. Perplexed, I held it, earning myself another cut as its hind leg connected with my arm. I straightened up, tossed it to the ground and stomped hard.
+
+Bones broke easily, the cat died instantly. It had been a pretty one, with gray fluffy fur. This had been someone's pet. This had been Hell's work. With renewed fury I turned toward the tide.
+
+But then… had Hell also just saved me from hurting Jamie? It had been Lucy's voice I heard before I had shifted back. I shook my head. No time to process now.
+
+"Stay back. Focus on those who slip through. You are still too vulnerable in this shape," Gabriel said.
+
+People were still scrambling for the door to the backroom, but the defenders had fallen into something of a three tiered setup. Jamie at the front, the narrow layout of the deli made it basically impossible for anyone to stand alongside him as he swung his katana at the attacking animals. Behind the counter was a young woman I hadn't paid much attention to before. She was throwing everything she could get her hands on. I saw a spoon hit a fat rat, killing it outright, splattering more gore than a spoon could possibly cause.
+
+Next to my cover stood Constance. She made a weird gesture with her hands and golden light fell over Jamie. Frank stood slightly behind her, aiming for anything that got too close. Further to the back people were crowding at the door, only a handful ready to defend. Anthony wielded a kitchen knife.
+
+I rubbed blood out of my left eye. I had a bleeding debuff, but my health was still pretty high.
+
+"You two focus on anything big. I'll help with the small stuff."
+
+"Affirmative," Frank grunted.
+
+"Take care," Constance said. She gestured toward a raccoon that had made it past Jamie and too close to the counter for the throwing girl to hit. A glowing bolt of light manifested with a deep 'oomph' sound and hit the raccoon square in the chest. It left a fist sized hole in it, cleanly cauterized.
+
+Two birds were going directly for her, a crow and something smaller I couldn't identify. I jumped off the overturned table I had hidden behind and grabbed for both of them. I got my grasp on the smaller one, but slightly missed the crow, instead slashing it open with my new claws. It, too, died instantly. The other bird squirmed in my grip, pecking at my hand. I grabbed its head with my other hand and broke its neck.
+
+Too many were making it past Jamie. And he was too exposed. The entire glass front of the deli was destroyed, exposing him from too many angles. I turned toward the back of the room.
+
+"I need three people!" I shouted.
+
+People mostly exchanged glances. What had that instructor at that first aid training drilled into us? Never address a group.
+
+I pointed at Anthony and then two others, calling out "You!" to each of them. The moment Anthony fell into motion, the other two followed. While they made their way over, I started shoving the table I was taking cover behind across the floor, to the side of the room with the counter. The table was narrow but long. Flipped the other way, it would nearly reach the ceiling.
+
+"We'll barricade the entrance. Don't shoot us in the back."
+
+In reply Frank shot at something, just as I was crouching in front and underneath him and his gun. For the third time in a day I heard a ringing sound. At least I could still make out other noises underneath.
+
+Another set of hands joined me in pushing the table. Anthony was crouched next to me.
+
+"What are we doing?" he asked.
+
+"We flip this and shove it up against the entrance, limiting their access. The other two will do a table at the other side."
+
+Anthony nodded and started explaining to the other two, who had already taken cover behind another table, shouting and gesturing to them what to do.
+
+Another shot rang out, and Anthony winced, before he went on.
+
+I switched to the new 'Party' tab in my chat.
+
+["Barricade incoming in a couple of seconds. Hang tight."]
+
+At first Jamie didn't react at all, entirely focused on the bloodbath he was causing. Then he glanced over his shoulder and nodded.
+
+All four of us behind the tables exchanged thumbs-ups and got ready. The long table was unwieldy to flip to its other side, earning us both more scratches and pecks as we were attacked while maneuvering, before we got it to stand long-side up. With a scream we both started pushing. We made it up to Jamie's side before Anthony slipped on the slick, blood-covered, tiled floor. The table threatened to flip over on its face and my muscles flared with pain as I put all my fresh-raised strength into stopping its momentum. Then the table stopped tipping, arrested by an unseen force. I looked over my shoulder and saw the spoon-throwing girl with her hand stretched out towards the table. She gave me a thumbs up.
+
+Next to me Anthony said something, but I couldn't make out the words over the ringing in my ears. He scrambled back to his knees and we finished the push.
+
+On the other side of the room the other two followed suit; neither of them slipped.
+
+Jamie smiled at me and said something. Party chat transcribed it.
+
+["Thanks, Eve."]
+
+"Charisma is so overrated, don't you think?" Lucy said. "Well done, puppy."
+
+I decided to argue about that nickname later and returned to the fight. Eventually the tide started to die down and the combat capable of us started rotating combat duty. The moment I had room to breathe, I felt my walls crumble. I barely made it to the sink behind the counter before I threw up. I sank to the floor as my entire body shook, my mind replaying that memory, the moment I had nearly killed Jamie, over and over. I really needed to talk with Lucy, to thank Lucy. There was no twisting this into something evil. There was no outcome to that moment that wasn't a nightmare.
+
+Someone slid down to the floor next to me, before they held out a water bottle. It was the girl who'd turned everything she threw into a lethal projectile. She had brown hair and a freckled face and I couldn't tell her age at all. Somewhere between twenty and thirty. Probably.
+
+I took the bottle. "Thanks." I was thirsty. It had only been a bit over two hours since the Apocalypse started but I was already running on fumes.
+
+"Elizabeth. You can call me Liz," she said.
+
+"Eve. You can call me Eve," I replied. Her chuckle sounded genuine. "How did you do that with the spoon?"
+
+While she responded I drank.
+
+"Telekineticist. Never heard of it before the flicker. But I got a skill that just allows me to throw things and make them deadly. I can also move things with my mind, but that takes Psi Points. That's how I held on to that table."
+
+"Huh. That's really cool. We should get you a sock full of bearing balls. There should be some in the ceiling fan. And then obviously we can find a lot in a hardware store. Or fishing store."
+
+Liz just looked at me, her expression odd.
+
+"Sorry for rambling." I said. "I do that when I'm uncomfortable." I took another sip of the water and my mental walls broke down once more. Tears flowed as I hugged my legs and my entire body shook with sobs.
+
+Liz put her hand on my shoulder. That poor girl was going through the same Apocalypse as I was and here I was having another breakdown. Really pulling your weight, Eve.
+
+Her hand retreated a moment before someone else took my hand into theirs, pulling it away from where I had dug my now-clawed fingers into my leg. My breath steadied and I looked up to see Gabriel crouching next to me, holding my horrible hand in hers.
+
+People called for a rotation at the front of the deli and Liz went to help out.
+
+"Words can't express how sorry I am, Eve. I should have warned you faster, about Hell's Wild Hunt attack also applying to your animal shapes. There is no excuse."
+
+I wanted to blame her. I wanted to confront her about her order to Jamie. But that was a conversation I really didn't want to have in our chat log. Not when Jamie could see the quality of her answer.
+
+Instead I addressed what had been bothering me since I first saw Lailah.
+
+"Gabriel, why do you look the way you do?"
+
+"While you are an atheist, you were raised with basically christian mythology in mind—"
+
+"That's not what I'm asking about, and I dare say, you know that."
+
+That made her pause. We sat in silence for a while, before I pulled my hand out of hers. Her hesitation made me feel sick.
+
+"Because you are more likely to trust someone who's attractive to you, Eve."
+
+"Handcrafted this shape, based on my memories, to maximize its efficacy, did you?"
+
+I did it. I'd hurt the angel meant to protect me. Who had done everything in her power to improve my odds of survival. It still felt like a violation.
+
+"Yes," she said.
+
+There was a soft rush of air as Lucy materialized on my other side. "I only picked this shape because of the way she picked hers. Fair's fair."
+
+I suppressed the urge to lash out at either of them. Both were doing their best to do their job. Which just happened to be about manipulating me to the best of their ability.
+
+"Thank you, Lucy. For blowing your one cheat to save Jamie. And me."
+
+"Oh, so sentimental. I had to, obviously, protect my investment. But tell you what. For the next week I will tell you how I could have used this to completely fuck you over. Physically, mentally, spiritually. Just so you understand how much I care."
+
+I leaned my head back. "Sounds fair."
+
+"That's the spirit."
+
+"How did you do it? I still had nearly a minute on my cooldown."
+
+"Do you think it's called a cheat because it follows the rules?"
+
+"Can you do that again? Could Gabriel cheat again, so you could do it again, too? Break the rules for me?"
+
+Next to me Gabriel stiffened. "Eve—" she began, but even she froze at Lucy's grin.
+
+Now that was a sinister fucking grin.
+
+"Oh, puppy. Already giving me root access to your soul? And you haven't even asked me out to dinner yet."
+
+They were right and I had walked right into that one. They just told me they could have used this to mess with me in countless ways and here I was just jumping at the gameplay advantage. Because they'd used it to save me once.
+
+I didn't have any reply. Until now I had always thought I saw the obvious manipulation. Until I carelessly just stumbled into a wide-open trap.
+
+"But matter of fact is, no, you absolutely do not want us to cheat for you, under any circumstances. You'd most likely prefer to die instead of either of us doing that."
+
+I looked over at Gabriel, who nodded. "The details we can't explain, but they are right. No more cheats."
+
+"Boons, though. Oh, Eve, Hell has so much to offer."
+
+Gabriel took my hand again. "I need to tell you about the Fallen. The fourth category of opposition you'll face. Those of the Blessed who changed sides."
+
+Hell had a goal for me and that had a name. Fallen.
+
+From the front Jamie shouted for someone to take his place. His health was down to three quarters and the bar beneath to about one quarter.
+
+I stood up. Enough time spent feeling sorry for myself. "Can you put it in chat? I promise I'll read it."
+
+Gabriel nodded and disappeared. Unlike Lucy, who made sounds that fit the physics of suddenly displaced air, Gabriel vanished with a soft chiming sound.
+
+"Day one," Lucy began, before they too vanished. They seamlessly continued, speaking directly in my mind, as I took Jamie's spot at the entrance. "I could have forced you into that doggy shape the very moment you noticed the red dots. And here is how that would have probably played out. Screams from the front would have caught Jamie's attention, before you'd have broken his neck with one precise bite. Then the panicked civilians would have started pouring into the room with you. No one would have held the front against the incoming tide and we'd have one panicked group fleeing from the animals and one panicked group who'd seen what you did to Jamie. And then to the others who couldn't get away from you fast enough. In that chaos you might even have survived as the animals wouldn't have gone for you. By the time the one minute mark was over, who knows if enough would have been left of you to even cancel the shift on your own. You'd have gotten a lot of experience, too. And then might have just gone for the next group, certainly hiding somewhere nearby. In for a penny, in for a pound."
+
+The slow trickle of hostile animals kept my mind occupied through Lucy's tale. It was, of course, all conjecture. But terribly plausible. It also told me that Lucy knew exactly what was happening and hadn't warned me against shifting. I filed that away and did the reasonable thing. I thanked them.
+
+"Thank you for not doing that and saving Jamie instead."
+
+"Anytime, puppy."
+
+"Can you stop calling me that?"
+
+"I'll have to think about it. I really like calling you puppy."

@@ -1,0 +1,136 @@
+---
+id: 74ab8a8f-be6a-55a9-8e8d-c318ffb8d985
+page-type-slug: story-chapter-royal-road
+title: "001 - It Won't Be The End of the World"
+partOf: zero-day-saint-i-cheat-smarter-shapeshifter-litrpg
+position: 1
+ownLength: 2072
+unit: words
+publishedAt: 2026-05-01
+link: "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3339630/001-it-wont-be-the-end-of-the-world"
+royalRoadId: "3339630"
+---
+
+"It won't be the end of the world," I said. A statement I'd come to regret very soon. I plugged the last cable into my computer and emerged from under the desk. With that, at last, the most important step of setting up the new place was done.
+
+I picked up my phone and looked at that last exchange with Claire again.
+
+We need to talk. My last message, exactly a year ago today.
+
+Mike gently plucked the phone from my hands and put it on the table before he took my hands into his. Against his dark skin, I looked even paler than usual. Six feet tall and built like a bouncer, he was one of the smartest and kindest people I knew.
+
+"Eve. You are a smart girl. What would you say to me if I were playing with the idea of calling my ex? In the middle of the night?"
+
+I looked away from him and down at the phone again.
+
+"It's just 10 p.m. Not like she'd be in bed already."
+
+He let go of my hand and returned to filling the shelf next to the desk. "You are dodging the actual question."
+
+I sighed and took one of the plushies he'd placed on the shelf and put it on the desk, next to my left screen. Others had a rubber duck, I had my fluffy corvid. "I'd tell you it was a horrible idea and that there was a reason you broke up in the first place."
+
+"But?"
+
+"But… Maybe she has changed? She said she wanted to go to therapy again back then. Also, shouldn't I at least warn her that I was back in New York? We could meet out there."
+
+"No, you don't need to warn her, Eve. You don't owe her anything. Despite the fact that we are having this discussion, you are both grown-ups. Should you encounter her 'out there', you can just move on. Absolutely no reason for any drama."
+
+"I think she'd be angry."
+
+"There you go. If that isn't a reason to stay away from her, what is? Why do you think she'd be angry if she ran into you?"
+
+I sat down in my desk chair and hugged my legs. "Dunno. Probably because I didn't warn her I was back?"
+
+"So you want to call her to avoid an unreasonable conflict, just so she can't make you feel guilty for having failed to do so? What if you called her and she told you to come over to talk? For old times' sake?"
+
+"I suppose I'd go?"
+
+"Dear Lord. Was the sex that good, Eve? This is a horrible idea and you know it. I'm done being the voice of sanity."
+
+For a long time I wouldn't know what caused the events that'd follow. To me, many things happened at the same time:
+
+I lost time, just a couple of seconds, but where I had been hugging my legs before, my feet were suddenly firmly planted on the ground. The time lapse was accompanied by a strange sensation of displacement. Like the drop of a rollercoaster, but for mind, body, and soul at once.
+
+Then there was the UI. At the edges of my vision appeared what could only be called a UI. Bars and numbers and notifications. Mike must have gone through something similar, as he stumbled away from the shelf, staring at empty space.
+
+"What the fuck?" I said.
+
+Half a second later, the power went out.
+
+"The hell?" he said.
+
+Light flashed by the window, illuminating the room in an orange glow, for another fraction of a second. Shortly after, there was an explosion outside, the ground shook and the window burst in.
+
+"You are in great danger, Eve. You have to stay calm and listen to me," said a voice in my head.
+
+And then, as if the world ending weren't enough punishment for my stupid idea of calling her, she one-upped me and called me first. Mike stared at me as I picked up the phone. Outside in the hallway there were noises. A woman screamed.
+
+"Hello, Eve," Claire said. "We don't have time. Listen carefully. Don't listen to the voice in your head. Stay away from the window. Leave the apartment and wait in the hallway. Help will arrive soon."
+
+"That's not Claire. Do not, under any circumstances, open that door, Eve," said the voice in my head. The one I was supposed to ignore?
+
+Mike slowly walked toward the door, leaning in and listening for more noises. I turned to look toward the window. The building across the street was illuminated by the reflection of flames.
+
+"How do you know what's happening?" I asked.
+
+"It's a long story. We'll talk when you are safe," said Claire, hanging up.
+
+"It's not the first time I'm going through this," said the voice in my head.
+
+I turned back to Mike, who had opened the door now. Did he not hear the voice in my head? Did he trust Claire?
+
+Beyond him, the corridor was dark. All I could see were six points of red light, arranged in pairs—eyes, looking down on Mike. Mike stumbled backwards and I could faintly see the creature standing there. Six-eyed, its skin black and shiny. Light passed by the window again and I could see the blood dripping off its claw. Another explosion shook the apartment.
+
+Then the creature swung its claw—the gesture entirely casual—and ripped out Mike's throat. He went to his knees, clutching his throat, making gurgling noises.
+
+Only when he dropped over, dead, and the creature stepped over him did I snap out of my trance. I turned and ran toward the window, shards of glass creaking under my sneakers.
+
+My new apartment was on the third floor. There was no fire escape here, and nothing down there to feather my fall.
+
+"Look at your UI. Top right, under 'Shapeshifting', under 'Daily', there is an entry 'House cat'. Pick that. With that you'll survive the fall," the voice in my head said.
+
+I had no idea what she was talking about. I looked over my shoulder. The creature was slowly approaching. Chuckling.
+
+"Don't jump. It'll only slow the inevitable. I'll make it quick." Its voice was a deep rumble.
+
+"Sorry, Eve," the voice said. Something in my UI began to change; there was a section called 'Shapeshifting'. It glowed for a moment before a menu underneath opened up. There was indeed a list. The option that said 'House cat' began to grow, filling my field of view. I could feel it calling out to me. After what the voice had said about the hallway, and what Not-Claire had said, the voice had earned a modicum of my trust. On instinct, I reached for the option and 'clicked' it in my mind.
+
+"Very good," the voice said.
+
+The shift was rapid. I went from bipedal human to quadruped critter in the blink of an eye. Even more disorienting was the shift of senses. I could smell the distant smoke, the blood, the unfamiliar acidic scent of the creature. Colors became less distinct, but in exchange my vision pierced the gloom with ease.
+
+"Aww," mocked the creature. "Here, kitty, kitty."
+
+It reminded me that there was a monster here to kill me. I turned to face it and saw its claw swinging for me. Reflexes outpacing coordination, I stumbled out of its way, four legs blocking each other's efficient motions.
+
+This would take a long time to get used to. But if I didn't learn fast I'd never get that time.
+
+I faced the window again and coiled my legs. Aiming for the windowsill, I jumped. Turns out, cats are really good at jumping. I missed the sill and went right out the window. In the moments of flailing free-fall, I caught a glimpse of the sky. The lights that had passed earlier were balls of flame, raining from the heavens.
+
+The tail did something on its own and my body straightened. Legs stretched out underneath me, I hit the ground, hard, and tumbled over the concrete. My health bar—it had to be a health bar—dropped a bit as pain shot through unfamiliar limbs. There was another bar underneath, already one third depleted, stating 2 out of 3 remaining.
+
+I had landed in a small side alley, off the main street. Even here the world was chaos. On the streets I could hear cars whizzing by. Sirens. Screams. Another explosion as another fireball hit a building. Across the main street I could see a building that was already fully in flames. How long had it been since this started? It couldn't even have been a full minute yet. I wanted to stop being a cat. Wanted to shut out the noises and the scents, but I couldn't find the option in the UI. The entire Shapeshifting section was grayed out.
+
+"You did well. You won't be able to change for another minute, but I advise you to stay in this shape for now. You'll want to be able to hide."
+
+I looked around, but still couldn't figure out the source of the voice. It was coming from inside my mind. A person stumbled into the alley entrance. A driverless car followed, crushing them against the wall. The car's hood crumpled, steam hissing. I couldn't see the body underneath.
+
+The other side of the alley opened to a much smaller street. There had been construction sites there if I remembered correctly. There'd been a non-residential building beyond, but I couldn't remember what. I ran for it anyway; anything was better than getting sandwiched in here. Quadrupedal running wasn't that difficult, after the first stumbling yards.
+
+As I ran, another noise joined the cacophony, howling. Not close yet, but unlike any dog or wolf I'd heard before. My fur puffed out as I shuddered. The building had been a school, with a stretch of park on the side facing me. Looking out for any car attempting vehicular feline-slaughter, I crossed the road into the park. Among the intense mix of scents in the park was that acidic smell I'd first caught in my apartment. I slowed down and spotted the creature stalking among the trees. It had its back turned to me. For a moment I pondered if there was anything I could do to it in this shape.
+
+I shook my head. One of those had cut through Mike like he was nothing but papier-mache. It had killed him. Mike was dead. If I had listened to the voice on the phone I'd be dead now. This couldn't be real.
+
+"It hasn't spotted you. Go for the building. Find a hiding spot. A hallway, not a room. You want escape routes. I'll explain more." The voice was calm but firm. It was a pretty voice, a melodic voice.
+
+And she had a point. I was still hidden and freezing with panic. Something I couldn't afford if monsters were out here. Silently I dashed over the grass toward the school. I found a shattered window leading into a stairway, the glass door leading to the corridor beyond was also shattered.
+
+I crouched, careful not to step on any shards, and listened. Inside the chaos was slightly muted, the scents dampened. When I couldn't detect anyone, or anything, nearby, I went up the stairs, and sat down to steady myself. I'd hear if anyone approached and I'd have multiple escape routes.
+
+The 'Shapeshifting' menu was no longer grayed out. I had a 'Cancel' option. But the voice had warned me, and oddly, I found myself agreeing with its advice. Would the creature have spotted me if I'd crossed the park as a human? Probably.
+
+"Well done, Eve," the voice said. "You can't speak out loud, but if you check the bottom left edge of your UI, you can see the 'Chat' menu. It has a tab for 'Guides'. If you go in there, you can activate it, like you did with the cat, and think the words you wish to speak to me. You surely have a lot of questions. I'm Gabriel, your guardian angel."
+
+Following Gabriel's instructions, I found the menu in question. The interface was remarkably easy to navigate. My mind was a cursor and I could click things through thought. I started with the essential question I'd already been asking myself over and over.
+
+["What the fuck?"]

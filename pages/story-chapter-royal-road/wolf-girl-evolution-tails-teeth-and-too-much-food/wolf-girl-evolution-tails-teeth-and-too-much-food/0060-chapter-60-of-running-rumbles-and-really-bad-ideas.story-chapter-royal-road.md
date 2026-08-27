@@ -1,0 +1,309 @@
+---
+id: 6aa79811-656d-5bfd-b2f5-8a77e3e1c6d3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 60: Of Running, Rumbles, and Really Bad Ideas"
+slug: 0060-chapter-60-of-running-rumbles-and-really-bad-ideas
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 60
+ownLength: 1538
+unit: words
+publishedAt: 2025-10-27
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2709796/chapter-60-of-running-rumbles-and-really-bad-ideas"
+royalRoadId: "2709796"
+---
+
+PoV Luna
+
+Luna ran.
+
+Paws struck stone in a steady, furious rhythm, claws scraping sparks every few strides.
+
+The tunnels boomed behind her, groaning and cracking like a giant’s stomachache. Dust burst from the walls, falling into her fur.
+
+Faster.
+
+She needed to be faster!
+
+The air trembled, sharp with old mana and the scent of crushed bugs. Broken shells crunched underfoot. Every heartbeat brought another crash behind her, every step another jolt through her legs.
+
+Shadow Step – blink!
+
+One step closer, around the bend so Luna didn’t slow!
+
+Momentum pushed her into a wall. Challenge accepted!
+
+She stuck to it with her shadows!
+
+Run on the wall! Then kick! And push!
+
+Stuff on the ground again?! Walls holey and rubbley?
+
+Time to blink again!
+
+To the ceiling!
+
+And then push off again!
+
+Run, run, run!
+
+She didn’t dare look back. The noise wasn’t footsteps, slithering, or any moving-noise – it was the world moving, the ruins breathing wrong!
+
+A deep, grinding exhale that made her ears ache.
+
+A crack split the ceiling. A chunk of stone slammed down where she had been.
+
+Too close.
+
+Her tail bristled, but her grin stayed sharp.
+
+“Heh! Missed Luna!”
+
+The tunnel turned ahead, opening into one of the bigger chambers – the first bug nest she had cleared. Her paws splashed through half-dried ichor and puddles of acid. The smell was terrible. Burnt moss, rot, metal tang, and spice.
+
+But spice meant life! Life meant pack!
+
+And there they were.
+
+A dozen strides away, her dum-dums were scrambling in chaos – Sepio shouting orders, Trianna hauling packs, Ray arguing with gravity, Syl holding the light steady through the storm of dust.
+
+They noticed her approaching, and Sepio zeroed in on her instantly.
+
+“Luna, what in the hells did you do?!” Sepio bellowed, shield raised as pebbles rained down.
+
+“Luna did nothing!” she barked back, bounding past. “Less talking – RUN!”
+
+To their credit, they listened.
+
+Boots thundered after her. Armor clanked. Complaints bounced off the walls.
+
+Ray coughed into his sleeve.
+
+“If this place collapses, I’m haunting you, wolf!”
+
+Trianna yelled in turn.
+
+“Don’t you dare drop my bag!”
+
+“Priorities!” Ray snapped.
+
+Syl’s voice carried steady through the chaos.
+
+“Keep together! Follow Luna!”
+
+Good plan. Very good plan!
+
+Luna darted through a narrow arch, tail brushing stone, heart drumming fast but proud. The others were behind her – slower, heavier, far too loud – but alive!
+
+Luna counted that as a win!
+
+The tunnel widened again. Cracks webbed through the ceiling, dust drifting like falling ash.
+
+Then came a roar.
+
+The sound of stone screaming.
+
+Luna skidded to a stop at a fork, spinning to make sure her pack hadn’t been eaten by stupidity.
+
+They emerged seconds later – faces gray, coughing through dust. Syl’s light haloed them faintly gold.
+
+Sepio marched in front, shield glowing faint blue as it caught another shower of debris.
+
+Oh! Good shield! Useful shield!
+
+Luna’s tail thumped once in approval. Her opinion of him rose a little. Still below Second, of course.
+
+Second was best!
+
+Always.
+
+A rumble shuddered through the floor, strong enough to rattle her teeth. Pebbles danced. Far behind, a deeper crash rolled through the dark – something large collapsing.
+
+No more waiting.
+
+“Move!” Syl commanded.
+
+Luna was already gone – silver blur, ears low, body flowing through shadow and rubble. The rest followed, boots pounding hard, breath echoing.
+
+Together they ran, faster than fear, as the ruins shook the dust from their bones and whispered threats from the deep.
+
+One thing was certain.
+
+Luna was still alive!
+
+Her heart thudded hard enough to echo in her ears, drowning out the fading growl of the earth. The air trembled, then quieted – almost. The sound from behind quieted but did not relent yet.
+
+She sniffed the air carefully. Dust. Burnt mana. No more bitter bug scent.
+
+No fresh danger. No meat-smell either.
+
+Her tail flicked. Mixed results!
+
+Footsteps thundered closer. Her pack stumbled into view, coughing, bruised, gray with dust.
+
+Success!
+
+Dum-dums intact!
+
+Syl reached her first, hair plastered to her face, eyes sharp despite everything.
+
+“Luna, please explain. What did you do?”
+
+Luna perked up, proud of survival.
+
+“Bit bugs! Many times! Many nests! All weak!”
+
+The ground gave a faint tremor, pebbles skittering across the floor.
+
+Syl’s expression twitched.
+
+“That doesn’t sound weak to me, young lady!”
+
+Luna blinked at the tone. Not the good tone. The scolding one.
+
+Her ears drooped.
+
+“Not Luna’s fault!” she protested. “Luna found hole! Big big hole again!”
+
+Trianna groaned behind her asking something, but Syl kept Luna’s attention steady.
+
+“And?”
+
+“And Luna stared at hole! Big hole stared back! With big eye! Very big! System didn’t even say name!”
+
+Silence dropped over them.
+
+Dust floated, catching the faint glow of Syl’s staff.
+
+Syl blinked once. Then again. Her face turned thoughtful first – then pale.
+
+The ground rumbled again. Deep, slow, rolling through stone.
+
+Veric’s voice snapped through the quiet.
+
+“What in all the hells is down there?”
+
+Syl’s words came out measured, careful.
+
+“If Luna is telling the truth–”
+
+“Rude!” Luna barked, tail flicking high. “Luna always truthful! Mostly!”
+
+Syl didn’t look up. Her voice stayed calm, too calm.
+
+“Then we can only hope to survive this.”
+
+That got everyone’s attention.
+
+Sepio’s grip tightened on his shield.
+
+“Explain.”
+
+Trianna’s voice cracked higher.
+
+“Syl, this isn’t the time for vague elf riddles!”
+
+Syl took a breath, steady even as the dust began falling again in lazy curls.
+
+“We’re still alive, which means it isn’t fully awake – or it can’t reach us. Yet.”
+
+Ray froze mid-step.
+
+“Yet?”
+
+Before Syl could answer, the ground flexed beneath them. A long, groaning quake. The air filled with the sound of stone splitting somewhere far below.
+
+Luna dropped low, claws biting the floor. Her fur stood on end. Every instinct screamed.
+
+Big thing not sleeping anymore!
+
+Her pack didn’t need telling. Weapons lifted. Light brightened. The ruins themselves seemed to hum.
+
+The ground shook again, harder this time, and the air felt thicker – heavy with mana and dust.
+
+Syl’s calm voice finally cracked.
+
+“I didn’t consider this before,” she said quickly, glancing back toward the trembling tunnels. “But the hole – Luna’s ‘big big hole’ – it’s sitting right on a leyline. The one Velssarin built their entire city on. And they would either only do so at one powerful enough, or close enough to the surface… Any creature nesting that deep would feed on it directly. And if the System can’t name it, that means–”
+
+Sepio cut her short.
+
+“We can’t kill it. Got it. Move.”
+
+Trianna gritted her teeth, her braid swaying as she shoved aside a loose stone.
+
+“Syliana, dear, did I ever tell you how much I hate how you turn into an unbearable tease in these moments?”
+
+Syl’s answering smile was too sharp for comfort.
+
+“Every so often. Duly noted.”
+
+Luna’s ears flicked between them, bewildered. Her pack was being silly again! All this talking when the earth was clearly angry!
+
+Why talk when running fixed everything?
+
+Then the world answered her thought.
+
+A massive crack tore through the air.
+
+The sound didn’t stop – it rolled forward, splitting walls, chasing them with a thunderous roar.
+
+Wind slammed through the passage. Dust and grit filled Luna’s nose and mouth.
+
+She yelped as rubble rained down. A chunk bounced off her back, another clipped her tail. Pain flared sharp and fast.
+
+“Ow!”
+
+System message flashing, which she ignored.
+
+No time to read, it was time to run!
+
+Her paws dug into the ground, claws scraping stone until the tremor passed. The tunnel moaned under its own weight. Far below, a low growl rolled up through the floor – slow, endless, alive.
+
+Ray coughed hard, voice muffled by his sleeve.
+
+“Run now, bicker later.”
+
+“Good idea,” Trianna muttered, spitting grit.
+
+“Yes! Listen to shiny-man!”
+
+Luna barked, already bounding forward, tail puffed with adrenaline.
+
+Syl rose next, cloak coated in gray dust, eyes blazing bright.
+
+“Agreed. Move!”
+
+And move they did.
+
+Boots hammered. Paws pattered. Armor clanged.
+
+Syl’s light swung wild across the walls, throwing their shadows tall and frantic. The tunnel around them cracked and groaned, old supports snapping like brittle twigs.
+
+The floor tilted beneath their feet. Veric shouted something about the ceiling. Ray swore about payment and survival bonuses. Trianna promised to strangle him later if she lived.
+
+Luna didn’t listen. Luna ran!
+
+Her fur streamed with grit. Air burned cold in her lungs. Her claws sparked against stone, carrying her through falling dust and crumbling arches. The world behind her was all sound and chaos – stone splitting, air collapsing, a hungry growl waking deep below.
+
+The monster hadn’t followed before.
+
+But it was awake now!
+
+The sound of it moved through the earth, slow and certain, shaking the tunnels in steady pulses. Every vibration pressed against her chest, heavier than thunder.
+
+Syl’s light flickered.
+
+“Keep moving!” she shouted.
+
+“Moving!” Luna barked back. Her tail lashed, ears pinned flat.
+
+Running always fixed things.
+
+Running meant alive!
+
+Running meant pack still breathing behind her.
+
+And maybe, if they ran fast enough, there would be soup after.
+
+Good soup. Spicy soup. Victory soup!
+
+Luna grinned through the dirt and sprinted harder.

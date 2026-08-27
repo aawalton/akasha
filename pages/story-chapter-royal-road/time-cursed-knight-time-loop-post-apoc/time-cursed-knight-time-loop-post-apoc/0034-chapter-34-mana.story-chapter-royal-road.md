@@ -1,0 +1,481 @@
+---
+id: 36e8f0c2-9e1f-5a46-9497-16914bbbfaa6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 34: Mana"
+slug: 0034-chapter-34-mana
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 34
+ownLength: 2898
+unit: words
+publishedAt: 2026-05-01
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3342285/chapter-34-mana"
+royalRoadId: "3342285"
+---
+
+Mana.
+
+I'd heard the word hundreds of times. It fell from every mouth in this world. So familiar no one stopped to consider what it meant.
+
+I had never understood it.
+
+Not really. Not beyond the abstract. Mana was what mages used. Mana was what cores stored. Mana was the currency of power. The fuel of this new civilization. The invisible river that ran through everything and everyone.
+
+Well, except me.
+
+Lying on my pallet in the dark, eyes closed, I discovered what it was.
+
+Something burned in my chest.
+
+Not pain. This was different. Gentler. The closest comparison I could find in my past lifetime was mint.
+
+The cool burn of menthol on the tongue. The way mouthwash hit the inside of your cheeks and spread, that sensation of something awakening tissue you forgot you had.
+
+Except it wasn't in my mouth.
+
+It was in my lungs.
+
+Each breath drew it deeper. Each exhale let it settle. The sensation lived at the center of my chest, pooling in the tissue of my lungs.
+
+I focused on it.
+
+The moment I directed my attention inward, the sensation sharpened. The burn intensified.
+
+Not painfully. More like turning a lens into focus. What had been a vague became a specific point.
+
+I could feel it moving.
+
+With each heartbeat, the warmth pushed outward from my lungs. It traveled along paths I couldn't see but sense. Thin threads of something radiating from the center of my chest.
+
+The further it traveled, the weaker it became.
+
+By the time the sensation reached my arms, it was a whisper. At my fingertips, nothing. At the surface of my skin, less than nothing. The warmth simply faded, dissolved into nothing.
+
+There, at the edges, where the mana thinned to almost nothing. I felt the Gluttony stir.
+
+The curse lived inside me. But feeling it was different from knowing it.
+
+It reached for the mana.
+
+It wanted the warmth in my chest. Wanted to consume it, devour it, break it down into whatever the curse converted stolen things into.
+
+Yet the mana at my chest was too small.
+
+The traces were too thin, too faint, close to nothing. Compared to its hunger.
+
+The mana flowed through my lungs with each breath, entering and dispersing in a rhythm that was faster than the Gluttony could track. By the time the curse focused on one thread, three more had already passed through and dissolved into my body.
+
+A race between consumption and circulation.
+
+Circulation was winning.
+
+My eyes were still closed. My body was still on the pallet. The cell was dark and quiet.
+
+However, inside, I was burning.
+
+I pushed harder. Forced my focus deeper into the sensation, trying to drive the mana further from my lungs. Toward my shoulders. Down through my arms. Into the muscles.
+
+It responded.
+
+Slowly. The warmth crept through my biceps, along the tendons of my forearms, and for one shimmering moment, I felt it reach my wrists.
+
+Still, it died.
+
+The thread snapped. My lungs filled with that minty burn again and the flow resumed its natural radius.
+
+I opened my eyes.
+
+Stared at the ceiling.
+
+I didn't know if this was a lot or a little. The system's notification had called it trace amount. So small that even the Gluttony couldn't find them.
+
+But to me, it felt like an ocean.
+
+Even when I forced the mana outward, even when I pushed until the threads dissolved at my skin, there was always more. Each breath pulled new traces from the air and deposited them in my lungs, and the supply never diminished.
+
+A faucet that never closed.
+
+I spent the next hour trying to understand where it came from.
+
+Cores. That was the obvious. Nine of them, somewhere inside me, producing mana. But where were they? What did they feel like? Could I locate them the way I'd located the mana itself?
+
+I searched.
+
+Turned my attention inward and swept through my body like a man searching a dark house with a single candle. Chest. Abdomen. Spine. Skull. Every region I could reach with conscious focus, I probed.
+
+Nothing.
+
+The original Kaspar's memories offered fragments.
+
+Behind the door that the Gluttony had partially opened, scattered pieces of information floated. A tutor's voice explaining mana circulation. A diagram glimpsed in a textbook. The feel of a core being activated for the first time...
+
+But the memories were a cabinet of curiosities, not a manual. Random facts arranged without context.
+
+I let the search go.
+
+I lay in the dark and breathed.
+
+For the first time since I'd arrived in this world, something inside me that wasn't the curse felt alive.
+
+The bang.
+
+My eyes opened. The soldiers were at the door.
+
+"Up! On your feet! Move!"
+
+I stood before the echo finished bouncing off the walls.
+
+The motions were automatic. Rise. Step to the door. Fall in line. Walk.
+
+Over a hundred repetitions had worn a groove into my mind so deep that my body could navigate it without conscious thought.
+
+Stairs. Corridors. The ascending passages that grew brighter with each level.
+
+I knew what the arena looked like before the gate opened.
+
+Knew where the monks sat. Knew which tier the nobles occupied. Knew the angle of light that fell across the sand at this hour. Knew the placement of the weapons scattered in their familiar pattern across the midline.
+
+Knew who would come through the far gate.
+
+Knew what they would do.
+
+The gate rose.
+
+We stepped through.
+
+Everything was exactly as it had been a hundred times before.
+
+The monks scribbled. The nobles leaned forward. The two princes sat in their stone seats and watched with their contrasting expressions. Pride and worry, side by side.
+
+"Training session! Begin!"
+
+The whistle shrieked.
+
+My legs moved.
+
+The familiar sprint. The sand churning beneath my boots. My hand closing around the grip of a wooden sword at the midline without breaking stride.
+
+The swordsman was coming.
+
+Same textbook Imperial Style, every step precise, every angle calculated.
+
+I'd fought this man over a hundred times.
+
+I knew his combinations the way I knew my own heartbeat. The high diagonal that preceded the low sweep. The weight shift to the back foot before the horizontal. The slight rotation of his wrist that telegraphed a thrust.
+
+I could read him the way I read a page.
+
+Our blades met.
+
+The first exchange was familiar. His opening three-strike combination: high diagonal, low sweep, straight thrust. I'd seen it a hundred times. Blocked it a hundred times. Been punished by the follow-up a hundred times.
+
+I blocked the diagonal. Parried the sweep. Sidestepped the thrust.
+
+Same as always.
+
+But the fourth exchange wasn't the same.
+
+Something was different in my arms.
+
+The parry that had always cost me a fraction of balance, that tiny stutter where my sword absorbed the impact and my body compensated. It didn't happen. The impact traveled through the wooden blade into my wrists and simply dispersed.
+
+The mana was there.
+
+I could feel it. It was moving on its own, flowing through my lungs with each breath and seeping outward.
+
+Almost nothing.
+
+But almost nothing was more than I'd ever had.
+
+The fifth exchange came. His combination shifted. Low thrust, horizontal feint, overhead chop. I recognized it. Had been punished by the overhead a dozen loops ago before learning to see the feint for what it was.
+
+I slipped the feint. Caught the overhead on the flat of my blade.
+
+Pushed him back.
+
+The swordsman's boots slid in the sand. His eyes widened by a fraction.
+
+He reset. Came again.
+
+The same patterns, but now he was probing. Testing. Trying combinations he hadn't used in the previous loops.
+
+I answered each one.
+
+Not perfectly. My footwork still stuttered where it should have flowed. My transitions still carried a beat of hesitation.
+
+But the speed was different.
+
+Each minute that passed, the mana thickened in my chest. The mint-burn grew brighter. My lungs pulled it from the air with a rhythm that was becoming automatic. Breathe in, absorb, breathe out, circulate.
+
+The warmth spread into my arms.
+
+My swings were faster.
+
+Not the explosive acceleration of a mage channeling power through a Circle. It was subtle.
+
+Yet it changed everything.
+
+The swordsman's combinations started arriving a beat too late. His strikes, which had always landed in the narrow gap between my recognition and my response, now met my blade on time. Then early. Then with enough margin that I could choose how to deflect instead of scrambling to survive.
+
+I attacked.
+
+The first counterattack that wasn't born from desperation. A clean diagonal that started at my hip and cut upward toward his shoulder, timed to the half-second gap between his third strike and his recovery.
+
+He blocked it. But his feet shifted. Half a step back.
+
+I pressed.
+
+Another combination. The sequence was rough. Unpolished. But the intent behind it was different from anything I'd thrown at him before.
+
+From the tiers above, a monk's quill paused.
+
+"Is Slave One Hundred Forty-Seven using Mana Breath?"
+
+"He wasn't using it yesterday."
+
+"It's possible that he learned it between yesterday and today?"
+
+A pause.
+
+"Is he some kind of prodigy?"
+
+Prodigy.
+
+If I could have laughed, I would have. Over a hundred deaths to learn something that these monks discussed like a footnote.
+
+A prodigy doesn't die a hundred times to learn how to breathe.
+
+A last monk spoke. His voice carried a dismissive edge.
+
+"A shame," he said. "He could have learned far more powerful techniques. He had to learn the useless one."
+
+The useless one.
+
+Of course.
+
+Of course the technique I'd discovered through a hundred deaths and infinite patience was considered the weakest, the most basic, the runt of the litter that no serious practitioner would bother with.
+
+Still.
+
+The most useless technique was enough.
+
+The swordsman came again. Three-strike combination. I caught the first, redirected the second, and answered the third with a counter-thrust that caught him square in the sternum.
+
+He staggered.
+
+I didn't let him reset.
+
+The aggression poured out of me. Every loop's worth of frustration. Every death. Every time I'd watched Gerret fall and Lyra crumble and Marcus fight with an arm that wasn't fully healed.
+
+I attacked with everything.
+
+My wooden sword hammered into his guard with a relentless, accelerating fury that gave him no space to breathe, no time to set his feet, no moment to transition from defense to offense.
+
+Each strike came faster than the last.
+
+The mana was singing in my lungs. The mint-burn had spread from my chest to my shoulders to my arms.
+
+The swordsman retreated. Step after step.
+
+His blocks grew desperate. The clean, structured Imperial Style fractured under pressure. Combinations broke apart. Individual parries replaced coordinated defense.
+
+I swung.
+
+Overhead. Full commitment. Every ounce of force concentrated into the downward arc.
+
+His wooden sword came up to block.
+
+The blades met.
+
+His weapon exploded.
+
+The wood didn't crack. It detonated. Splinters and fragments erupted from the point of impact in a burst that sprayed both our faces with shrapnel. The grip fell from his hands in two pieces.
+
+He stood there. Empty-handed. Eyes wide.
+
+His palms came up slowly. Fingers spread.
+
+"I surrender," he spoke.
+
+I held the blade at his throat for one long, trembling heartbeat.
+
+If it had been anyone else, I would have driven the blunted tip through his windpipe. Would have crushed his larynx with the force I had left. Would have repaid every bruise he'd ever given me and every second he'd cost me.
+
+But he'd never tried to kill me.
+
+A hundred loops, and he'd never once aimed for a lethal target.
+
+I lowered the sword.
+
+He turned and walked away without another word.
+
+I didn't watch him go.
+
+I was already running.
+
+The others were still fighting.
+
+The scaled woman had Lyra backed against the arena wall, both clawed hands reaching for the girl's wing. The flat-faced mutant was circling Gerret, who crouched low with a spear braced against his hip, blood seeping through his chest bandage.
+
+Marcus held his ground against the fourth opponent, his healed arm moving stiffly but moving.
+
+I crossed the sand at a dead sprint.
+
+The scaled woman didn't hear me coming.
+
+She was too focused on Lyra. Too consumed by whatever drove her to target the wings.
+
+My wooden sword caught her across the back of the skull.
+
+The impact was clean. Precise.
+
+She dropped.
+
+Her body folded at the knees and hit the sand face-first. She didn't move.
+
+Lyra stared at me from the wall. Her amber eyes were wide, her chest heaving.
+
+"Go help Marcus," I said.
+
+She went.
+
+I turned toward Gerret.
+
+The flat-faced mutant had seen his teammate fall. His attention split between Gerret and me, and in that moment of hesitation, Gerret lunged.
+
+The wooden spear caught the mutant in the solar plexus. Gerret drove it forward with everything his wiry frame could produce, and the flat-faced figure doubled over with a sound like a bellows emptying.
+
+I was there a second later.
+
+My sword came down on the back of his neck. Not hard enough to kill. Hard enough to end the discussion.
+
+He crumpled.
+
+Marcus finished his opponent moments later. A textbook disarm followed by a strike to the temple that put the man down clean.
+
+The whistle blew.
+
+Three sharp blasts.
+
+The arena went quiet.
+
+I stood in the center of the sand. The wooden sword hung at my side. Around me, my team stood on their feet.
+
+All of them.
+
+Alive.
+
+My knees gave out.
+
+The sand was soft and warm against my shins. The sword slipped from my fingers. My hands fell to my thighs, and my head dropped forward.
+
+Tears came.
+
+My chest heaved with sobs that sounded more like choking than crying.
+
+Over a hundred loops.
+
+A hundred deaths had purchased this single moment.
+
+We were alive.
+
+Lyra's voice reached me through the ringing in my ears. A whisper aimed at Gerret, close enough that I caught it.
+
+"What's wrong with him? Why is he so happy?"
+
+Gerret's ear swiveled toward me. He didn't answer her.
+
+From the upper tiers, the nobles shifted in their seats. Murmurs rippled through the expensive coats and fur collars.
+
+"That was tedious. Finished far too quickly."
+
+"No blood to speak of. The mutant team barely put up a fight."
+
+"I came for spectacle, not a morning drill."
+
+Their complaints drifted down.
+
+I didn't care.
+
+The soldiers entered the arena in formation. Spears up. Shields forward. They surrounded both teams and began herding us toward the exits.
+
+I let them pull me to my feet.
+
+The walk back to the cells felt different.
+
+But my legs carried me without the weight that had been pressing down on them for a hundred loops.
+
+The cell door groaned open. We were pushed through.
+
+Before the iron closed, a figure appeared in the corridor.
+
+A monk. Older than the ones who typically administered the cells. His robe was the same undyed linen, but a narrow band of dark thread bordered his hood.
+
+He stopped at the bars.
+
+His eyes found me through the iron.
+
+"Slave One Hundred Forty-Seven," he said. "Good fight."
+
+"You've been selected for an afternoon match," the monk continued. His voice was calm, professional. "Individual combat. One on one."
+
+He paused.
+
+"If you perform well, it benefits your entire cell. Higher rank means better accommodations. More time between fights. Additional rations."
+
+His gaze held mine for a beat longer than necessary.
+
+"Take the opportunity."
+
+He turned and walked away.
+
+The cell door clanged shut.
+
+An afternoon match.
+
+I turned toward Marcus.
+
+He was already lowering himself onto his pallet, his healed arm cradled against his stomach.
+
+"The morning sessions are group training," Marcus said, reading the question on my face before I asked it. "What the monks actually care about are the afternoon bouts. One against one. Real weapons. That's where the rankings are decided."
+
+He shifted, finding a position that eased the tension in his arm.
+
+"If you win, the points go to your cell." A pause. "If you lose badly enough, we all drop."
+
+"How high do we need to be?" I asked.
+
+"Top fifty," Marcus said. "Out of one hundred and fifty. That's the threshold. When the monthly evaluation comes, anyone outside the top fifty is culled."
+
+"Culled," I repeated.
+
+"Expelled from the program," Marcus said. "What happens after that, I've heard different things. None of them good."
+
+I nodded slowly.
+
+Lyra had limped to her corner. She folded herself into the narrow space between wall and wall, wings wrapping close, and watched me with those sharp amber eyes.
+
+"What was that?" she asked.
+
+"What was what?"
+
+She pointed at my face. At my mouth.
+
+I frowned. "What about it?"
+
+Gerret stepped closer. His black nose twitched. Both pointed ears rotated forward, locked on me with an intensity I'd only seen when he was tracking a scent.
+
+"There's something coming out of your mouth," Gerret said. "Like a mist. Like when you breathe in the cold and you can see it."
+
+He tilted his head.
+
+"But it's blue. Dark blue."
+
+I raised my hand to my lips.
+
+Marcus sat up on his pallet.
+
+His expression had changed. The weary calm was gone. Surprise took its place.
+
+"That's mana," Marcus said.
+
+"Highly concentrated mana."

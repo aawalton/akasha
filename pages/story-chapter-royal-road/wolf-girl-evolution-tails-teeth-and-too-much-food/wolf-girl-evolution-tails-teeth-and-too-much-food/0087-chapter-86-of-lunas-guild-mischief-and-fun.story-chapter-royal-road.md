@@ -1,0 +1,441 @@
+---
+id: 1ce54b2d-c572-5932-802b-27f9a54da433
+page-type-slug: story-chapter-royal-road
+title: "Chapter 86: Of Luna’s Guild Mischief and Fun"
+slug: 0087-chapter-86-of-lunas-guild-mischief-and-fun
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 87
+ownLength: 1957
+unit: words
+publishedAt: 2026-01-14
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2943816/chapter-86-of-lunas-guild-mischief-and-fun"
+royalRoadId: "2943816"
+---
+
+PoV Luna
+
+The guild hall was being loud.
+
+Again.
+
+It wasn’t really anything new. And certainly not caused by any sort of alarm per se. It was simply just… guild loud. Nothing was on fire, nobody was screaming for a healer, and the floorboards were still mostly intact.
+
+No, adventurers were just naturally a loud bunch, and there was no changing that.
+
+Tankards clinked. Dice bounced, and one argument over which soup is the tastiest devolved into a betting fistfight.
+
+Business as usual, really.
+
+Well, mostly.
+
+Near the central tables, a familiar group had claimed more space than strictly necessary, though they would be the first to tell you they needed it.
+
+For reasons. Typically involving a lot of poses and moving around.
+
+The Troublesome Proper Human Team was in their full element!
+
+A fox-tailed beastkin stood on a bench, one boot up, reenacting something with wildly exaggerated gestures.
+
+“And then– then– she does this!” he said, dropping low and spinning so hard his tail nearly knocked over a mug. “Straight under the guard. Boom! Down he goes.”
+
+“I told you not to demonstrate indoors,” the bull beastkin rumbled, arms crossed over a chest that looked carved out of stubbornness and poor life choices.
+
+“But it’s important!” the fox protested. “It’s educational.”
+
+A nearby adventurer snorted.
+
+“Educational my ass. You just like saying you got floored by a kid.”
+
+“She’s not just a kid,” the fox shot back immediately. “She’s Power Fluff Girl!”
+
+Groans echoed across three tables.
+
+“Oh gods, not again.”
+
+“That name is so not catching on!”
+
+“It absolutely is,” the fox said smugly. “I’ve heard it twice already!”
+
+Another adventurer leaned back, swirling ale.
+
+“Honestly? I don’t see the problem. She fights clean. Laughs. And even supposedly pays in meat.”
+
+“That last part helps, yes.”
+
+A woman sharpening a blade glanced up.
+
+“She did knock Kent down in no time flat.”
+
+Kent, sitting two seats down, raised his mug.
+
+“Worth it. I learned something.”
+
+“What?”
+
+“Don’t overcommit,” he said dryly. “And don’t underestimate anything that wags happily while attacking.”
+
+Laughter rippled outward.
+
+Conversation drifted, as it always did.
+
+“…Mine south of the river still humming?”
+
+“Nope.”
+
+“Why not?”
+
+“Collapsed again. And a whole Dungeon popped there. Again.”
+
+“...That place sure is cursed.”
+
+Tankards lifted. Dice rolled again. Someone shouted about soup again.
+
+The guild returned to its usual rhythm – talk about jobs, jokes, and complaints could be heard from all over – was already beginning to adjust around one small, fast, fluffy constant.
+
+And more than a few eyes drifted toward the doors, expecting the little troublemaker to burst in soon.
+
+The guild doors opened.
+
+And their expectations were soon rewarded.
+
+Because Syliana stepped in first, staff tapping once against the floor, posture calm in a way that could only mean things were already handled.
+
+The noise dipped just a little.
+
+Her party followed – Ray already scanning the hall, Trianna stretching her shoulders, Sepio and Veric moving with the quiet certainty of furniture that could punch back and hard.
+
+And Luna–
+
+Luna skidded happily inside!
+
+She stopped just inside the doorway, nose twitching hard as the guild hall assaulted her with smells she was slowly getting familiar with. Old ale, sweat, paper, and ink. But also metal, soup smells, and… A faint whiff told her of jerky hidden away somewhere in there!
+
+Her eyes lit up.
+
+“So many humans!” she whispered happily.
+
+“Luna,” Syl said calmly, pointing her in the right direction. “Drop-off first.”
+
+“Oh!” Luna straightened instantly. “Yes, Second!”
+
+She Shadow Stepped.
+
+Appeared by the designated collection area.
+
+And thump!
+
+A pile of Horned Rabbit bodies hit the floor. Another thump followed as a bundle of herbs landed beside them. Then a third and a fourth, smaller thumps representing Tunnel Rats and Rootfangs.
+
+Luna nearly forgot about them!
+
+The quartermaster froze, even as Julia muttered out prayers.
+
+Even some of the watching adventurers blinked at the sight.
+
+“…That’s more than twenty,” Julia muttered.
+
+Luna sniffed out of habit, and the herbs struck again!
+
+Her nose wrinkled.
+
+“A–awoo–CHU!”
+
+The sneeze echoed across the hall. A few loose leaves fluttered at the noise.
+
+“Bad plants,” Luna grumbled, rubbing her nose. “They attack.”
+
+Then she turned, her deed done–
+
+–and was already gone.
+
+Syl didn’t even glance after her.
+
+She was already at the counter.
+
+Where Julia – ever the diligent receptionist – took one look at the neatly arranged piles and sighed deeply. The sound of a woman whose workload had just multiplied.
+
+She got to work right away.
+
+But that didn’t stop her from complaining!
+
+“The request said twenty rabbits,” she said carefully.
+
+“And that’s at least twenty rabbits,” Syl replied pleasantly. “Luna just misunderstood a little.”
+
+Julia stared at the literal piles of bodies.
+
+“...Misunderstood how?”
+
+“She heard ‘hunt rabbits,’” Syl said. “Not we only need ‘twenty.’ And before you say anything, the same goes for Rootfangs. And Tunnel Rats.””
+
+A pause, filled with Julia scribbling down the numbers.
+
+“…And the herbs?”
+
+Syl slid the bundle forward.
+
+“Collected beyond the fields. Fresh. Intact.”
+
+The poor clerk girl pinched the bridge of her nose.
+
+“You realize this exceeds the request.”
+
+“Yes.”
+
+“And the reward for the Rabbits is fixed.”
+
+Syl smiled.
+
+Just slightly.
+
+“Given the speed, the over-completion, and the fact that she cleared multiple dens that would have required follow-up jobs…” She tilted her head. “I believe a reassessment is appropriate, yes?”
+
+“...Let’s talk details.”
+
+The bull beastkin watching the scene unfold blinked, then snorted.
+
+“The Horned Rabbits' infestation just solved itself, am I rite?”
+
+“Yeah,” the fox grinned. “Looks like we won’t be seeing those for a while.”
+
+“...Why?” asked an adventurer who somehow missed all the commotion.
+
+The fox just waggled his brows.
+
+“Enthusiasm happened.”
+
+A few adventurers chuckled knowingly.
+
+“Figures.”
+
+Back at the counter, Syl continued calmly, unfazed by the gossip.
+
+“We saved the guild time. Resources. And manpower.”
+
+Poor Julia was getting the entire spiel.
+
+There was just no winning with Syl.
+
+And as Ray leaned against the board nearby, already flicking through fresh parchments, eyes sharp, adding a ‘random’ comment here and there, the matter was truly a lost case.
+
+“Hm,” he murmured. “Weed clearing. Pest control. Courier job. Oh – this one’s new.”
+
+Julia sighed again.
+
+“…Fine. Bonus for overdelivery.” She stamped the ledger. “But I will need to talk with the Guildmaster about it.”
+
+Syl inclined her head.
+
+“Of course.”
+
+***
+
+The moment the delivery was done, and Syl got busy negotiating the pay, Luna bounded straight back into the hall proper, weaving between tables, skidding slightly on worn floorboards, eyes wide with interest.
+
+“Hi!” she chirped at the nearest adventurers. “Hi again!”
+
+The man nearly dropped his mug, but before he could respond, Luna was already deeper in.
+
+And there!
+
+She found a familiar face!
+
+“Hi mister! Luna wants to play a game!”
+
+“Uh…?”
+
+“Wanna play-fight with Luna?” she asked cheerfully.
+
+Laughter burst out nearby, people finally catching onto the speedy streak of fur and cheer.
+
+“Gods – she’s fast!”
+
+“When did she get there?!”
+
+Luna reappeared directly in front of another adventurer.
+
+Like she had always been there.
+
+“Hi mister!” she said brightly. “Wanna play?”
+
+The man screamed.
+
+Just a little.
+
+The hall erupted – laughter, shouting, chairs scraping.
+
+Syl closed her eyes briefly.
+
+“Non-lethal,” she called calmly. “And only if they agree.”
+
+Luna tilted her head.
+
+“Gentle play?”
+
+The adventurer, pale but laughing now, swallowed.
+
+“…One round.”
+
+Luna grinned.
+
+Ray looked up from the board, shaking his head with a smile.
+
+And around them, the guild adjusted – half amused, half unsettled – as Luna Chaos resumed exactly where it belonged.
+
+They made space in the middle of the hall, and the apprehension quickly turned into rowdy yelling, betting, and thuds of people suddenly finding new graceful ways of flying through the air.
+
+Their landings left much to desire still, Luna noted!
+
+But that didn’t stop her from zooming the legs from under them.
+
+Though Instructor Kent did much better this time!
+
+Anticipating her speed, he actually lasted a long exchange, parrying her blows…
+
+Until Luna decided she could go a little bit faster!
+
+And made him spin into a nearby table.
+
+“...Ugh, I’m getting too old for this.”
+
+Hehe!
+
+The next challenger barely had time to step forward before Luna was already there.
+
+A human this time. Broad shoulders, practiced stance, actually looking ready for the showdown. He smiled nervously, rolling his neck once.
+
+“Alright,” he said. “Just light contact, yeah?”
+
+“Yip-yep!” Luna said cheerfully.
+
+And then vanished from sight.
+
+Not with Shadow Step, it was really just movement!
+
+Apex Predator fast!
+
+A burst so sudden it made the air pop.
+
+The man yelped as Luna appeared at his side, tapped his ribs twice, bounced off his shoulder, and landed behind him, already giggling.
+
+“That doesn’t count!” he protested, spinning.
+
+“Counts!” Luna declared. “Tap tap means win! Very proper rules!”
+
+The watching Proper Humans howled with laughter.
+
+“Someone write that down!”
+
+“Rules just got invented!”
+
+The man lunged.
+
+Luna ducked low, slid under his arm, popped up behind him again, tail flicking past his nose. She tapped his back, then his other shoulder, then hopped backward before he could even turn fully.
+
+Veric’s voice cut in then, quiet but precise.
+
+“Watch the center.”
+
+Luna did.
+
+The next exchange lasted longer – three breaths instead of one. The man adjusted, feet wider, guard tighter. Luna mirrored him instinctively, posture narrowing, her energetic bounce smoothing into something almost… disciplined.
+
+Almost!
+
+She feinted left, Shadow flickering at her heels, then sprang straight up instead.
+
+The man swung at where she had been.
+
+But Luna was already somewhere else!
+
+She came down lightly, tapped his wrist, his elbow, and then gently bumped her forehead into his chest.
+
+“Boop!”
+
+He froze.
+
+Then laughed, hands dropping.
+
+“Alright. I’m done. That’s terrifying.”
+
+Applause broke out again, louder now. Less joking. More impressed.
+
+“She’s learning mid-fight.”
+
+“That’s illegal!”
+
+But Luna didn’t listen to the weird human nonsense!
+
+She was already turning, eyes bright, scanning for the next target.
+
+Her chest buzzed with excitement. That tight, happy burn of motion, attention and just being seen.
+
+She took one step–
+
+–and found Syl’s staff planted gently but immovably in her path.
+
+“That’s enough for today, Luna,” Syl said calmly.
+
+Luna skidded to a halt, puffed up her cheeks, then blinked up at Syl with big round eyes.
+
+Surely it would work this time!
+
+“But play–”
+
+“You did well,” Syl continued, voice even. “Very well. But if you keep going, someone will forget this is play.”
+
+Luna paused.
+
+Sniffed.
+
+Considered the room.
+
+Adventurers were watching her now with wide eyes and flushed faces. Some of them eager to test themselves. Others were still wary. Or recalibrating what they thought they knew about speed and danger and fluffy things that smiled.
+
+Whoops?
+
+“…Oh,” Luna said softly.
+
+Her tail slowed.
+
+Then she grinned again, brighter, wider.
+
+“Okay!” she chirped. “Luna stop now! Will play more later!”
+
+The tension snapped, adventurer spirits easing off.
+
+Then laughter returned, more gossip springing up instantly.
+
+Retelling what just happened, happily forgetting the listeners were literally just there to see it too.
+
+Silly humans!
+
+Luna bounded back toward her pack, weaving between legs and benches, nearly clipping a chair just to make it exciting.
+
+She skidded in next to Syl, Sepio already shaking his head.
+
+“You’re going to get banned from the guild,” he muttered.
+
+Luna looked up at him, innocent as sunlight.
+
+“But Luna was polite,” she said. “Only gentle plays.”
+
+Ray snorted.
+
+“We’re never getting normal rates again.”
+
+Syl rested a hand lightly on Luna’s head.
+
+“Come,” she said. “Before Julia decides to charge us for structural damage.”
+
+Luna perked.
+
+“Soup after?”
+
+Syl smiled despite herself.
+
+“Yes. Soup after.”
+
+Luna pumped her fist up.
+
+“Bestest Second!”

@@ -1,0 +1,157 @@
+---
+id: 8636e85d-b342-5102-9808-b016ddfe5904
+page-type-slug: story-chapter-royal-road
+title: "Chapter 19: Girls Night Out"
+slug: 0019-chapter-19-girls-night-out
+partOf: underworld-bread-mage-yuri-progfan-slice-of-life
+position: 19
+ownLength: 1686
+unit: words
+publishedAt: 2026-08-05
+link: "https://www.royalroad.com/fiction/179650/underworld-bread-mage-yuri-lit-rpg-slice-of-life/chapter/3772883/chapter-19-girls-night-out"
+royalRoadId: "3772883"
+---
+
+“The barrier is complete,” Hecate said, placing the last stone around a circle. “We shall not be disturbed during our preparations.”
+
+“Hecate…” Marina called as she measured the boar’s size.
+
+“Yes? My dear.”
+
+“Do we even have a big enough knife for this guy?” She raised a brow. “Maybe we should’ve stuck with the pigeon instead?”
+
+Taking down a beast was one thing, but butchering and portioning it into edible parts was another.
+
+“I may have something…” Hecate stretched open her satchel before pulling out a small axe. “Does this work?”
+
+“Good enough for portioning the cuts,” Marina nodded. There were no better options anyway. "But we still need to divide up this beast somehow.”
+
+“I see.” Hecate drew her blade once more. “I suppose we have no other options. I am at your command.”
+
+Perhaps the only thing that could slice through the boar’s rocky skin right now was Hecate’s sword. Though using such a luxuriously forged weapon for butchering purposes was… unconventional.
+
+“Okay, I have seen this done plenty of times when I was a kid, but my memory is getting fuzzy…” Marina buried her face in the palm of her hand.
+
+“Worrying would only cloud your judgement. Trust yourself, my dear.”
+
+The only thing clouding her judgement was her grumbling stomach.
+
+“Ok, so this part we are facing right now is the abdomen; we need one clean cut through it to remove the organs,” Marina instructed.
+
+Without a word, Hecate swung the sword in her hand. A spark of white light flashed as a centered line divided the boar’s belly into two flaps. The cut was precise with just enough depth but not so deep as to damage the organs within.
+
+“That is perfect!” Marina complimented. “Now we just need to pull the flaps open.”
+
+“I’m not sure if my Techniques can work on something that is as lifeless as this,” Hecate said.
+
+Marina fell silent as she pondered what to do next. From here, she somehow needed to extract the organs to prevent their putrid scent from attracting more beasts. Plus, some organs do taste quite nice if prepared the right way.
+
+“What if, we sharpen a couple of sticks, connect them to ropes tied to a tree to create some tension, and then stake the belly into the ground?” She suggested.
+
+“I am afraid I do not have any ropes at the current moment.”
+
+“Couldn’t you guys just use vines instead?” Mellie said, returning with a handful of dry branches for a bonfire. “They might not be as long, but you can tie them together.”
+
+Marina’s eyes sparked at the idea. “Mellie, you might just be the greatest addition to our team.”
+
+“T-thanks, Miss Marina, you’re very kind,” Mellie said softly before blushing away.
+
+“Alright, Hecate, I will get the stakes going. Can you look for some long vines?” Marina picked up the small axe from the ground.
+
+“Yes, my dear.” Hecate nodded before disappearing into the woods.
+
+“Isn’t it dangerous for Miss Hecate to go by herself?” Mellie piled up the twigs around a rim of pebbles.
+
+“I don’t know how I would be able to contribute to her safety, but–” Marina paused as she scavenged around the premises. “She was the one who looked over me this entire time; I would only slow her down.”
+
+“Oh. But since Miss Hecate is only your assistant, I thought you’d be super powerful as well.”
+
+“Me? No, no, I am not powerful, not at all.” Marina sat next to Mellie as she began to sharpen the first stake. “I am just a peasant, followed around by a noble.”
+
+It was the best way to describe her relationship with Hecate. By the System’s standards, she was a peasant, and by this realm’s standards, Hecate was a noble, a powerful one at that. And somehow, it ended up working out. She could only blame fate for its plans.
+
+“A peasant?” Mellie tilted her head.
+
+“Yeah, I know, don’t gotta remind me.” Marina let out a sigh. “I see that shit every morning getting out of bed.”
+
+“But Miss Marina, the peasants I saw around the capital never braided their hair as you do.”
+
+“Oh well.” Marina exhaled. “That’s because I wasn’t the one who braided it.”
+
+She quietly blamed Hecate for the out-of-class customization. However, she liked it very much.
+
+*****
+
+Soon, a flurry of footsteps approached from outside the barrier. It was light and steady. Hecate’s white dress danced in the wind as she moved amongst the tall trees, landing with a dozen thick, blue vines in her hand, just in time for Marina to finish the last of the wooden stakes, six in total, three for each side.
+
+Taking one of the vines, Marina wrapped it around the blunt end of the first stake tightly before continuing with the next one.
+
+“Now we just need to tie them to a tree,” Marina said as she handed Hecate the stakes. “Oh, Hecate…” She hesitated. “You’re a vampire…”
+
+“Mm?” Hecate tilted her head. “That is correct, my dear.”
+
+“Is it safe for you to touch these?”
+
+“I suppose I don’t exactly see anything threatening from these sticks, my dear,” Hecate shook her head. “Why do you ask?”
+
+“Oh, uh, I uh, saw somewhere that you can kill a vampire by driving a wooden stake through their heart…” She stuttered. It was not the right thing to say out loud. “Is that true?”
+
+“I am sure you can kill me by driving anything through my heart, my dear.” Hecate giggled. “Only if I let you, that is.”
+
+She walked to the dead boar, inserting the three stakes into both sides of the belly. The inside of the beast slowly revealed itself as Hecate finished her operation as instructed.
+
+A putrid smell immediately invaded the campground, so strong that even Marina, who was standing ten meters out, needed to cover her nose.
+
+“Abyssal Technique: Entombment.” Hecate extended her hand.
+
+A thin layer of frost began to form upon each and every organ of the deceased animal. And soon they became frozen.
+
+Hecate made quick work with her sword, removing each of the boar’s parts with precision and care before placing them neatly on the ground. The unbearable scent dissipated shortly.
+
+“Uh, Mellie, you alright?” Marina peered to her right, where Mellie stood behind a tree.
+
+“Yeah, Miss Marina, I just… need a minute.”
+
+When she was younger, Marina had gone to a slaughterhouse with her dad to pick up meat many times. The smell around the butchering zones was very similar to what they were experiencing now. But after getting off the car ride, they would always grill up some burgers, so it was all worth it at the end.
+
+“Drink some nectar, uh, I think that helps,” Marina said, now standing next to Hecate. “You are quite good at this. You do this a lot?”
+
+“Not often. The last beast I butchered was less of a beast and more of a being; he was a dragon.”
+
+Of course, there was nothing ordinary about Hecate’s feats.
+
+Marina raised a brow. “Dragons, huh? Are they super rare?”
+
+“Depends on the region,” Hecate replied. “I’m sure you will get to meet one someday.”
+
+“I hope not. Heard they are mean.”
+
+“Not all.” Hecate smiled. “Some have great class like myself.”
+
+A dragon wearing a tuxedo was honestly more frightening than a dragon covered in sharp scales. She would rather not have to face one ever.
+
+“Well, I would prefer some roasted pork over meeting a classy dragon right now.” Marina rolled her eyes. She grabbed the lower flap of the boar's belly before removing a strip with her axe, one of the desired size ratio. “Let us have some food for real this time.”
+
+Placing the hunks of meat on a flat tree stump, Marina scraped the hair off the skin and diced them into smaller cubes, enough for three fulfilling skewers. The meats cooked slowly over the open woodfire, their fat layer rendered steadily. And as the liquid fat dripped into the cackling flames, small ignitions jumped in joy, giving the sticks of pork belly an additional kiss of flavor.
+
+The aroma from the cooking process surrounded the small camp. It was beyond heavenly, especially for Marina, who had not eaten all day. Her stomach was now singing a gluttonous requiem for the unreplenished calories burned from her body.
+
+“This smells amazing!” Mellie returned from her session of nausea.
+
+“You’re making it worse, Mellie.” Marina swallowed. “Okay, do y’all want to hear the story I promised?” It was to distract herself from grilling meats.
+
+“Please,” Hecate said.
+
+“I think this was when I was like seven years old,” Marina looked up to the sky, trying to remember the details. “My dad and I went up north to do some moose hunting, and it was my first time going into the wild. We tracked our target for like three days straight, and on that third day, my dad sneaked closer to get a good shot. But like minutes later, he ran back to me, so I was like: Dad, what happened? And then he yelled: The moose is on the loose!” Marina giggled at her imitation attempt. “Then he picked me up and ran for five minutes straight before looking back and realizing nothing was chasing him.”
+
+“Were you able to finish the hunt after that?” Mellie asked.
+
+“Yeah, we did after repeating the tracking process. My dad was able to get a clean shot the second time, and we had moose sausage all year. It was awesome!” Marina reached to check the status of the meat skewers. “They are ready!” Marina handed one to Mellie. “This is what we have been waiting for.”
+
+“T-thanks!” Mellie stared for a moment; the food she always wanted to taste was now in her hand, and without another thought, she took her first bite. “Oh…”
+
+“So how is it?” Marina anticipated the reaction.
+
+“This is… the best thing I have ever tasted…” She dove into Marina’s chest. Quietly, she began to sob. “Thank you, Miss Marina, thank you for everything!”
+
+“...”

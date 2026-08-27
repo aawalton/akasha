@@ -1,0 +1,297 @@
+---
+id: 7d54d5a9-5e70-57a4-9374-f31d9e8f5d61
+page-type-slug: story-chapter-royal-road
+title: "Chapter 24: Mlem of Destiny"
+slug: 0024-chapter-24-mlem-of-destiny
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 24
+ownLength: 1482
+unit: words
+publishedAt: 2025-09-11
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2593191/chapter-24-mlem-of-destiny"
+royalRoadId: "2593191"
+---
+
+PoV Luna:
+
+The forest did not care that her chest felt as hollow as a chewed bone.
+
+Birds squeaked about twigs. Bugs buzzed war songs over mushrooms. Squirrels chased each other in noisy spirals up bark.
+
+Everything happy. Everything loud. Everything continuing like nothing bad happened.
+
+Arguments rose behind her somewhere – she could hear the short barks, long snarls, a chorus breaking into two messy songs.
+
+She didn’t look back.
+
+She didn’t stop walking.
+
+Luna didn’t listen to which bark belonged to which wolf, didn’t sniff who bristled in defense or who snarled in fear. Didn’t count the voices that shouted too late.
+
+Except she did.
+
+Her ears pressed flat, but her hearing stayed open. Her paws moved forward, fast and quiet. The boar’s blood dried on her whiskers.
+
+She licked it off.
+
+Because that’s what you do when you can’t fix anything.
+
+Luna walked until the pack's scent thinned behind her. Until the wind changed. Until the clearing gave way to fern-heavy underbrush and cool dirt that clung to her paws. Until the air stopped smelling like old stone and mother-fur and started smelling like river damp and bark rot and soft pine sap.
+
+Her sleep-spot waited.
+
+A crook under thick roots, hidden behind moss. She had turned it nightly into shape. Curled it into place with paws and warmth. Dug a notch for her back where the bark curved gently.
+
+It looked smaller than yesterday.
+
+Less welcoming.
+
+She sniffed it once. Then crawled in.
+
+Turned. Turned again. Curled tight.
+
+Her nose pressed against her front paws. Her back legs tucked close. Her tail coiled up to her chest. She squeezed everything in, muscle to fur, until her body made a circle too tight for the ache to escape.
+
+It didn’t work.
+
+Still stayed, curled hurting behind her ribs.
+
+“Stupid,” she muttered into the root wall. “Stupid them. Stupid me.”
+
+The root did not answer.
+
+Her belly did. It let out a small, sad gurgle.
+
+It wasn’t hungry, just… hollow.
+
+She flopped her tail over it and pretended it wasn’t there.
+
+Pretended none of it was.
+
+Tried to sleep hard enough to wake up in a better forest.
+
+To little avail.
+
+Sleep didn’t bite.
+
+The shadows didn’t wrap her like they used to. They hovered, unsure, like even the dark wasn’t certain if it belonged on her fur anymore.
+
+She huffed into her paws.
+
+Then sniffed them.
+
+Still her.
+
+Still strong.
+
+Still shadow-slick and moon-fed and full of bite.
+
+But her pack hadn’t seen that.
+
+They had looked at her silver. Her shine. Her shimmer. And only seen Not-Them.
+
+Her nose wrinkled.
+
+Luna wasn’t Not-Them. She was Herself. Which was better! Smarter! Hungrier! More clever in every direction!
+
+She had a plan!
+
+A big one.
+
+An upright one.
+
+She would eat the moon. And spice. And jerky. And legendary human food. And when she did, she would come back. Taller. Cooler. With a backpack full of weird human stuff and enough power to wag at the alpha and say “See? I told you.”
+
+That thought curled warm around the ache.
+
+Her stomach rumbled again. This time louder. Less sad. More hopeful.
+
+Luna licked her paw, turned her head, and nuzzled deeper into the root.
+
+Sleep didn’t come easy.
+
+But the plan stayed close.
+
+And plans were better than tears.
+
+But just as it was about to take her, she stirred.
+
+Soft steps. The right weight. The right silence.
+
+Luna’s nose lifted before her head. Comfort arrived first; fear left through a side door.
+
+Her mother slipped into the hollow without asking.
+
+That was the trick. Wolves who belonged didn’t need to ask.
+
+The first touch wasn’t words. It was fur. Warm, and steady. Pressed along Luna’s side from hip to shoulder. The weight settled into her spine until her bones remembered they were allowed to relax.
+
+A tongue smoothed the ruffled stripe between her ears. Once. Twice. Another along her cheek, slower.
+
+Luna exhaled. Not a sigh. Simply a breath finally remembering how to leave.
+
+“You did amazing,” her mother whispered into her fur, a secret shaped to be a howl. “You fed the pups when we needed it. I’m proud.”
+
+Luna tried to laugh. The same kind she used when she fell off trees and blamed gravity. But it caught in her throat and curled there.
+
+Her mother didn’t push.
+
+She huffed once, then leaned in and mlemmed Luna’s nose with the focus of a master artisan.
+
+A proper, squishy, full-contact mlem.
+
+Luna blinked.
+
+A sound escaped her. Half snort, half sob, all tangled up in too many feelings.
+
+Her mother’s tail thumped once. A quiet thud of victory.
+
+Then came another mlem, quicker this time. Followed by a very satisfied breath.
+
+“I bit the alpha,” she said, voice low and smug.
+
+Luna's ears perked. “You what?”
+
+“Right on the butt.”
+
+Her mouth fell open. Her paws twitched. Her tail tried to thump and managed a wiggly half-wag.
+
+“Why?”
+
+“He said too many things with his face.”
+
+Luna pressed her muzzle into her mother’s fur and made a noise that sounded like a dying squirrel and a giggle in a wrestling match.
+
+“He deserved it,” her mother added, which was a true, proven fact, settled forever.
+
+Silence tucked in again.
+
+Not sharp now. Not tight.
+
+Safe.
+
+Their breathing settled into a slow match. Two hearts. One patch of dirt. Shadow curled around them, soft instead of strange.
+
+Her mother stayed pressed close.
+
+Luna closed her eyes.
+
+“You should go,” she mumbled after a while. “If they notice–”
+
+“They already noticed,” her mother interrupted. “If they want to complain, they can bring food for the pups instead of their opinions.”
+
+That was also a fact.
+
+Luna smiled into the moss. Her tail thumped once against the dirt.
+
+“Will they be okay?”
+
+“They’ll have to be,” her mother said with surety. “I taught them how.”
+
+Luna nodded. Thought about her siblings. The pack. The stupid rules. The old ways that didn’t know how to bend. The alpha too scared of change.
+
+Then she thought of spice.
+
+Of two legs and stolen jerky and clever plans and new tricks.
+
+Of her future, where teeth met destiny and chewed it thoroughly.
+
+The ache hadn’t gone away.
+
+But it was quieter now.
+
+And warm.
+
+Her mother nuzzled the top of her head one more time.
+
+“Don’t let the prey outsmart you,” she said.
+
+Luna grinned. “Never.”
+
+“Don’t fall for their tricks and bites.”
+
+“I would bite them first.”
+
+“Good girl.”
+
+Night long, the cure was pressure and patience.
+
+Every time pain tried to gnaw, a paw hooked Luna closer.Every time thoughts turned into thorns, a tongue ironed them flat.
+
+Words happened when they had to.Scattered like bones for later chewing.
+
+Mostly, the forest talked for them.
+
+Reed hiss. Bug hum. A night bird inventing a brand-new scream and being far too proud of it.
+
+The sky blinked slowly toward morning. Darkness thinned. The trees stretched taller in pale light.
+
+Dawn bleached the leaves soft and silver.
+
+Her mother shifted, reluctant. The weight of her body lifted in pieces, slow as fog pulling back from a warm den.
+
+Luna smelled it first. The rope of duty pulling her mother away. It tugged down the path toward the pack. Toward the pups. Sharp with responsibility. Damp with love.
+
+“I have to go,” her mother said. Voice steady, yet certain. “The pups still need me.”
+
+Luna swallowed.
+
+There was a lump in her throat, but it didn’t feel like food. It thumped in rhythm with her heart, and when she tried to breathe around it, it refused to budge.
+
+“Listen.”
+
+Her mother leaned in. Muzzle pressed between Luna’s ears. The touch settled behind her eyes.
+
+Then came one last solemn mlem. Firm. Centered. It landed with the weight of a blessing.
+
+“Even if they do not welcome you,” her mother said, voice softer now, “I will. Always.”
+
+Her tail brushed Luna’s side, slow and final.
+
+“Your path is yours. I believe in you.”
+
+Then, because it had to happen:One last mlem.
+
+Quicker this time. A goodbye pressed into fur.
+
+Wishing her all the best.
+
+Luna stayed still.
+
+The air had shifted, but not in a way that hurt.
+
+Her heart ached. Her thoughts still swirled, fast and too many.
+
+But she wasn’t lost.
+
+Not anymore.
+
+Her mother left the way she came: quiet, sure, unavoidable.
+
+Leaves barely rustled as she vanished back into forest and duty.
+
+Luna stayed under the roots until moonlight slid one lazy beam across her nose.
+
+It tickled.
+
+She twitched.
+
+It tickled again.
+
+She sneezed.
+
+Loudly.
+
+Dust shot into the air, scattering the last shadows. A beetle fell off a branch and clicked in protest.
+
+Luna licked her paw, rubbed her nose, and sniffed the wind.
+
+The hollow was still smaller than it used to be.
+
+But the world outside didn’t feel so empty anymore.
+
+It was big.
+
+Biteable.
+
+And hers to chew.

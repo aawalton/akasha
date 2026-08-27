@@ -1,0 +1,331 @@
+---
+id: bbc4f5fd-3f08-52e0-851c-97f75e4f6148
+page-type-slug: story-chapter-royal-road
+title: "Chapter 67: Of Blood, Bites, and the Bestest Second"
+slug: 0067-chapter-67-of-blood-bites-and-the-bestest-second
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 67
+ownLength: 1986
+unit: words
+publishedAt: 2025-11-05
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2735612/chapter-67-of-blood-bites-and-the-bestest-second"
+royalRoadId: "2735612"
+---
+
+PoV Syliana
+
+It had been far too long.
+
+When Luna bounded off to “hunt,” no one thought much of it. The wolf girl was quite a force of nature – swift, sharp, hungry, and somehow always fine in the end. More than capable of protecting herself on a simple hunt for some food.
+
+“My bet is on a quick hunt,” Trianna had said, leaning over her papers. “She’ll be back before we’re even done with the report intro.”
+
+Syliana had smiled softly then, her confidence in Luna showing.
+
+“She knows her limits.”
+
+Ray nodded along, calm as always when the subject wasn’t money.
+
+“Let’s hope she remembers them.”
+
+And so they focused on their reports.
+
+But that was hours ago.
+
+Morning turned to noon, and noon turned to evening.
+
+And with each passing hour, the worry grew.
+
+Even as they busied themselves. Stretched their legs, checked the gear, prepared everything for moving out of the forest at last.
+
+But now the forest pressed close and quiet around their camp. Shadows thickened between the trees.
+
+Their reports were written long ago, and even the dinner’s soup had long since gone cold.
+
+Ray paced a worn line near the fire, muttering under his breath about “stupid beasts and suicidal curiosity.” His hands hovered around his prized knives every few steps.
+
+Trianna sat by her quiver, rechecking arrowheads she had already checked twice.
+
+“You would think she would at least howl or something.”
+
+“She wouldn’t howl unless she wanted company,” Veric said. He sat by the edge of the clearing, gear laid out neatly beside him, blade oiled and polished to a mirrored shine.
+
+While his tone stayed steady, he was ready to take action any time.
+
+Everybody’s sense of unease grew, and even Syl’s calm was starting to fray.
+
+She pretended to read through her notes, but every few lines her gaze drifted to the darkness, her fingers tightening slightly on the page. The fire crackled, throwing gold across her pale face.
+
+Yet once again she found herself in an unpleasant position of wanting to show her worry, but forced to reassure the others that everything was alright.
+
+Feeding into a downward spiral of worry would do nobody any good.
+
+“Relax,” she spoke up, hoping to reassure the others, even if only a little. “She’s going to be fine. It’s not like she went out to hunt a dragon or anything.”
+
+The words didn’t sound convincing, even to her own ears.
+
+Trianna was particularly difficult to reassure throughout the day. But even Ray had found himself scouting around the camp twice already.
+
+Sepio stood, fastening his cloak.
+
+“If she’s not back in another hour, I’ll go take a look.”
+
+Trianna glanced up.
+
+“You mean we’ll take a look.”
+
+Ray’s pacing stopped dead.
+
+“No, you mean I’ll stay here and watch the soup.”
+
+Veric raised an eyebrow.
+
+“The soup doesn’t need guarding.”
+
+“It does from you lot,” Ray shot back. “You’ll eat the whole pot.”
+
+A faint smile tugged at Syl’s lips despite herself. The banter was familiar and safe. It meant no one had said what they were really thinking.
+
+The silence that followed broke under a distant rustle.
+
+Every head turned.
+
+Something moved between the trees. Fast. Low. And light-footed.
+
+Syl’s breath caught. The fire snapped, sparks leaping high as a shape darted from the darkness into view.
+
+Silver fur. Mud-caked legs. Ears droopy.
+
+And blood. So much blood.
+
+“Luna!”
+
+Syl didn’t remember standing, or even saying anything. Her composure gone in an instant. One heartbeat she was frozen by the fire; the next she was running. The others reacted a little later, shouting something after her, but she barely heard.
+
+The wolf girl exited from the treeline, limbs trembling a little, tail dragging, eyes dazed but bright – and there it was, that same ridiculous grin that said she had done something very, very stupid and was proud of it.
+
+Syl caught her before she even had a chance to say anything.
+
+Funny.
+
+She expected the others to rush in at a moment's notice.
+
+Yet she was the one who rushed in first, already tending to the heavily bloodied, yet stupidly grinning wolf pup.
+
+***
+
+PoV Luna:
+
+“Oh gods, Luna! What happened to you?!”
+
+Syliana reached her before anyone else. Fast, precise, eyes blazing with worried competence.
+
+The others were still frozen in place when Syl’s hands were already on Luna’s fur, pressing, checking, glowing faint with healing light.
+
+Bestest Second indeed!
+
+Luna wagged weakly, but just as she was about to say something, her Second pressed on her sides, turning her definitely-well-thought-out response into a surprised Yip!
+
+Youch!
+
+What followed could only be described as a sudden swarm that surrounded her.
+
+Hands everywhere. Bandages, bottles, the clink of vials. Warm fingers brushed through her fur, tracing the burns and gashes she hadn’t quite realized were there.
+
+“Really,” Sepio muttered, disbelief grinding through his tone, “what in the heavens did you do this time?”
+
+Trianna knelt beside him, half horrified, half fascinated.
+
+“She’s soaked in blood – oh Luna, that looks bad! Those cuts–what did you even fight?”
+
+Now that they mentioned it… yes. Ow.
+
+Luna blinked down at her side. Her fur was stiff with dried blood, dirt, and swamp muck. The ache pulsed deep, but it dulled quickly as Syl’s potions went to work. Magic stitched pain into warmth, leaving behind only exhaustion.
+
+“Enough questions,” Syl said sharply. Her voice snapped through the camp like a command. “Let her breathe.”
+
+She shoved another vial into Luna’s paws, uncorked it herself, and tipped it toward her muzzle.
+
+“Drink this one too.”
+
+Luna hesitated only long enough to lick Syl’s fingers in thanks before gulping the potion down. The taste was awful, no spice there, only herbs and tingly magics!  It tasted of metal and boiled grass, but the effect was instant.
+
+Her tail thumped weakly against the dirt.
+
+“Mhm. Better already. Love Second.”
+
+Syl huffed, torn between laughter and worry.
+
+“Ray, perimeter check.”
+
+“All clear,” came the answer from the shadows. “No pursuit. No movement bigger than a squirrel.”
+
+“Yip-yep!” Luna piped. “Luna could have told you that!”
+
+Syl gave her a long, dangerous look.
+
+“Then maybe tell us what you were doing instead.”
+
+Luna puffed up proudly, tail flicking behind her.
+
+“Luna bit big strong prey! Good meat!”
+
+Syl sagged at that.
+
+“Syl? Translate please.”
+
+She did.
+
+Now every member of the party sagged in relief and disbelief.
+
+Trianna’s jaw dropped. Ray pinched the bridge of his nose. Veric made a sound that could only be described as a prayer for patience.
+
+“…Of course you did,” Trianna muttered.
+
+“Oh! Oh!” Luna’s eyes lit up. “Luna got new skill too! Look!”
+
+Before anyone could stop her, a ripple of dark mana coiled from her paws, spreading over the dirt before her. The shadows thickened, writhing, shaping – until something huge shifted within.
+
+The smell hit first. Burnt earth. Blood. Char.
+
+Then came the sound – a heavy thud that rattled their packs and stirred the fire.
+
+A massive corpse rolled into view from deep within the shadows. Scales gray as slate and just as strong. Yet scarred and shattered all over. Horns cracked, and body ripped in places, the throat entirely gone.
+
+Sepio stepped back on instinct.
+
+“What in the hells…”
+
+“The Granidrake,” Syl breathed, voice low. “She fought that? Alone?”
+
+Luna’s grin went bright and wide, tail wagging in triumph.
+
+“Yip-yep! Biteable!”
+
+Syl’s hands dropped to her sides. Her mouth opened. Then closed.
+
+Trianna gave up first, laughing helplessly.
+
+“Our wolf fought a small mountain and brought it home.”
+
+“Strong meat,” Luna said, very proud of herself. “Good dinner too!”
+
+Syl rubbed at her temple, muttering something about moon-blessed lunatics. But when she looked at Luna again, the edge in her eyes softened.
+
+“Welcome back, Luna.”
+
+The wolf beamed, fur still matted, eyes bright.
+
+“Told you hunt good!”
+
+By the time the Moon climbed properly over the trees, the camp was alive again.
+
+Not with worry this time, but with work.
+
+Ray and Veric handled the butchering in near silence, reverent and precise.
+
+Every scale that came loose gleamed like carved jade, every tendon coiled with mana. They worked with the kind of focus men only gave to gold.
+
+And in a way, that’s what it was.
+
+“Careful with that,” Veric murmured. “It’s still warm.”
+
+Ray whistled low, eyes wide.
+
+“Warm? This thing is worth more than your sword. Maybe two.”
+
+“At least three,” Veric corrected.
+
+Across the clearing, Trianna and Sepio had set up a second station, their makeshift table buried in scales, bones, parchment notes, and discussion.
+
+“Really, how did Luna even hunt that thing? Isn’t she just Tier 0 now?” Trianna muttered in disbelief, bracing her boot on a drake rib.
+
+“Wildlings are just built different, it seems. And such questions could be answered sooner, if only somebody here was working fast enough,” Sepio said, not even looking up.
+
+“Hmph! I still think it’s weird! Drakes might ‘only’ be Tier 1, but they’re all high rarity, and elemental ones are even stronger,” she continued, ignoring the poorly-hidden jab to hurry up.
+
+Syl didn’t join their bickering.
+
+Her focus stayed on the small, silver-furred lump curled beside the fire.
+
+Luna lay wrapped in a thick blanket, still faintly damp from the scrubbing Syl had forced upon her. Every few breaths, her ears flicked at the sounds around camp. Her tail – half visible through the folds – waggled lazily whenever someone mentioned the word meat.
+
+“…So,” Syl said softly, breaking the quiet between them, “you can store things in your shadows now?”
+
+Luna’s head popped out of the blanket.
+
+“Mhm! Yep!” she chirped proudly, eyes half-lidded but bright. “Very handy! Can bring jerky everywhere now!”
+
+Trianna looked over and laughed. Her earlier worries turning into wonder and disbelief.
+
+“Her growth is terrifying. Impressive, sure – but terrifying. But her opponent choices are still suicidal.”
+
+Sepio’s low chuckle answered.
+
+“And yet, somehow, she’s still alive.”
+
+Ray didn’t glance up from the pile of scales.
+
+“Alive, rich, and covered in trophies.”
+
+Luna blinked, drowsy but smug.
+
+“Told you strong meat good.”
+
+Syl translated that.
+
+The laughter that followed was soft and tired, but relieved.
+
+And when, at long last, the smell of roasted drake rolled across the camp, Luna’s head snapped up instantly.
+
+With Moon overhead, her transformation took but an instant.
+
+And now Luna was sitting on her knees, tail wagging, blanket wrapped around her, and puppy eyes directed at her bestest Second.
+
+The meat sizzled in spice and fat, smoke rising into the dark like a signal to every hungry god.
+
+Syl sighed, cutting a slice free.
+
+“Eat slowly this time.”
+
+Luna decided to ignore that advice.
+
+The first bite sent a jolt straight through her chest. It was full of everything nice – spice, strength, tingly magic – the taste of her victory made real. Her tail thumped wildly against Syl’s leg.
+
+“Best meat. Worth ouch!”
+
+Trianna leaned back on her hands, grinning.
+
+“That’s our Luna. Living proof that appetite conquers common sense.”
+
+Luna didn’t know what common sense was, but it didn’t smell tasty.
+
+Ignoring it, she licked her lips clean and leaned forward, giving Syl a slow, content mlem on the cheek.
+
+Syl froze, then sighed in defeat.
+
+“You’re impossible.”
+
+“Best Second,” Luna said through a sleepy grin.
+
+Sepio turned the roast again, glancing over.
+
+“Will you be ready to travel tomorrow? We have one last job before the road.”
+
+Luna yawned, stretching under her blanket.
+
+“Sleep good. Food better. Luna ready!”
+
+Syl brushed a few stray tufts of fur smooth. Her hand lingered.
+
+“Of course you are.”
+
+The fire popped, sending sparks dancing into the night.
+
+Luna’s eyes fluttered half-shut. Belly full, warmth spreading through every muscle, she leaned closer into her Second’s lap. The camp’s laughter faded into soft murmurs.
+
+Strong prey. Stronger pack.
+
+Her tail twitched once before stilling.
+
+Everything was exactly how it should be.

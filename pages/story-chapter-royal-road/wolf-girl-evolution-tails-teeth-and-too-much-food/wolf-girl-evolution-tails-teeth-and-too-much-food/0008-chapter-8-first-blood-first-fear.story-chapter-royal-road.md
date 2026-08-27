@@ -1,0 +1,165 @@
+---
+id: 459387ef-fa45-511d-9c6b-f37eaa8e5ab0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 8: First Blood, First Fear"
+slug: 0008-chapter-8-first-blood-first-fear
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 8
+ownLength: 1490
+unit: words
+publishedAt: 2025-08-24
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2544500/chapter-8-first-blood-first-fear"
+royalRoadId: "2544500"
+---
+
+PoV Luna
+
+It stepped from the trees with a groan that rattled the ground.
+
+Three limbs bore its weight, the fourth dragging uselessly behind, swollen into a club of meat and bone. Its hide sagged in gray sheets, sloughing off to reveal roots twisting through muscle like vines choking a tree.
+
+Sap dripped where blood should have, and the stench hit thick, sour, wrong.
+
+The alpha didn’t wait. His growl cracked like thunder before his body blurred forward, shadows curling along his legs. Two wolves sprang at his flanks, their tails streaming behind them.
+
+Luna stood frozen, claws buried in dirt, eyes wide.
+
+The creature swung its ruined limb in a wide arc. The air cracked with the sound. One wolf met it midair, ribs caving with a sick thump. He hit the ground limp and didn’t rise again.
+
+Luna’s chest clenched, paws trembling.
+
+The second wolf vanished into shadow mid-leap, a blur of black streaking past the swing. He reformed at the ogre’s throat, jaws snapping for purchase. His teeth scraped its bark-flesh. The monster groaned, deep and hollow, like wind through a dead tree.
+
+【Enemy Identified: Mireback, Corrupted Forest Ogre】
+
+The words burned across Luna’s mind. Strange, sharp, and heavy. Ogre. Corrupted. Enemy.
+
+Her body jolted like someone had bitten her.
+
+Luna snapped out of the haze, tail stiff, breath rasping. Her claws dug deeper, paws kicking against soil.
+
+She wasn’t going to just crouch and stare. Not while the air stank of blood, while her pack bled.
+
+Her growl built raw in her chest as her legs bunched. Then she charged.
+
+The world blurred around her, trees rushing by, the ground drumming under her paws. Her heart hammered so hard it nearly drowned out the Mireback’s groans.
+
+Her teeth bared. Her eyes locked on its twisted limb, the thick barky hide stretched across its belly. She would bite, and she would tear! She would eat this wrongness until nothing remained!
+
+The Mireback swung again, the air splitting with force. Wolves darted back, snapping in and out, shadows and teeth working together. Bark cracked, roots tore, but the monster lumbered on.
+
+Luna lunged low, her smaller body slipping beneath its arc. She felt the wind of its limb brush her ears, close enough to prickle her fur.
+
+Her jaws opened wide, Bite burning through her muscles. Teeth sank into the ogre’s leg where rot met root. The taste exploded across her tongue with the icky mix of mold, dirt, and bitter sap. Her stomach churned, tail lashing.
+
+She refused to let go.
+
+The Mireback roared, shaking the ground, and jerked its leg to fling her loose. Her teeth scraped, then tore free with a stringy snap of woodflesh. She hit the dirt rolling, coughing, mouth filled with splinters and filth.
+
+Her tail wagged anyway. She had drawn blood; if it was even blood.
+
+She spat out bark, growling through the taste. Her chest heaved, ears ringing. Around her, the pack pressed in again, shadows flashing, teeth snapping, paws carving trenches in the dirt.
+
+The alpha’s voice barked orders in sharp growls. Wolves shifted as one, coordinated.
+
+Luna crouched low, chest buzzing, tail stiff with stubborn pride. The wrong taste still burned her tongue, but her paws tingled with power.
+
+She had bitten. She had fought. She was in this now.
+
+Luna darted back in, paws drumming quick against the dirt. Her ears rang with the groans of the Mireback, the thundering growls of her pack, and the beat of her own heart. She ducked low, circling behind its bulk, and sprang.
+
+Her teeth found the rear leg. Hide tough as bark, flavor foul as mold. She gagged but bit harder, twisting her jaw until something gave.
+
+【Bite Lv.5 → Lv.6】
+
+Sap oozed across her tongue. She spat, but not before a swallow slipped down her throat. Bitter, sticky. Her belly rolled, but her tail thumped once in pride.
+
+The Mireback groaned, lumbering around to swat her. She dropped low, the stinking limb rushing overhead. She sprang sideways, claws flashing.
+
+【Strike Lv.5 → Lv.6】
+
+Her paw carved a shallow line into its side, moss and flesh scattering like shredded leaves. Her chest swelled; her hit landed. She was doing it!
+
+Then it turned. Far too fast.
+
+The ruined limb came swinging down with the force of a falling tree.
+
+It struck her across the ribs.
+
+【HP -18】
+
+The world spun. Ground vanished, sky tumbled, then slammed into her back.
+
+She skidded through the dirt, coughing, vision swimming. For a heartbeat she couldn’t move. Her legs flopped useless, chest refusing to draw breath.
+
+Pain roared sharp in her side. Her ribs screamed with every twitch.
+
+Her ears rang with the Mireback’s groan. Heavy steps rattled the ground, shaking leaves from the trees. The pack’s growls blurred together in a storm of noise.
+
+She tried to lift her head. Her jaw trembled. Her own blood flecked her tongue.
+
+Her body wanted stillness. Wanted to curl and hide. But her tail twitched, weak, stubborn. Apex predator. Apex predator didn’t lie down.
+
+A yelp cut sharp across the clearing. Another wolf. Young. Then silence.
+
+Luna’s ears flattened, heart slamming faster. She forced her paws beneath her chest, dragging herself upright inch by inch. The world wavered, spots bursting in her vision, but her legs held.
+
+Her nose filled with wolf blood, thick and metallic. Pack blood. It mixed with Mireback’s sour rot until her stomach flipped.
+
+She staggered, ribs burning, but bared her teeth anyway. Her breath rasped, shallow and pained.
+
+The Mireback loomed, massive and wrong, roots writhing across its back as it turned toward the alpha again. The ground trembled with its weight.
+
+Luna crouched low, every muscle quivering. She wasn’t done, not yet!
+
+The taste of mold still clung to her mouth, bitter and vile. But beneath it, hidden sharp, was the tang of growth – the window that flickered bright in her mind.
+
+Stronger. Better.
+
+Her chest ached, her legs shook, but her tail wagged once.
+
+She licked the blood from her muzzle, eyes sharp despite the blur. She was hurt, but she was still in this.
+
+Luna crawled into the underbrush, each drag of her body scraping leaves and dirt. Her breath came ragged, chest burning. She pressed herself low, ribs screaming with every twitch, tail tucked tight.
+
+The Mireback’s steps thudded through the clearing. Each footfall rattled her chest, deeper than thunder, steady as a drum. The ground itself seemed to shiver beneath its weight.
+
+It wasn’t that her pack wasn’t biting hard. They were. Teeth tore, claws raked, shadows struck sharp. She could hear every snap, every growl, every thud of impact. But the ogre was too big, too heavy.
+
+And it healed.
+
+Roots writhed from its wounds, filling cracks where flesh should have fallen away. Bark hardened again where teeth had broken through. The smell of rot never faded, only thickened until her nose stung.
+
+The alpha barked sharp commands, deep and firm. Three voices answered. Only three.
+
+Her ears flattened, chest tightening. That was not enough voices.
+
+Luna clenched her jaw, fighting the urge to leap back in. But her side was wet. Blood matted her fur, hot and sticky. Breaths tore shallow through her lungs, each one a stab. If she charged again, she wouldn’t last a heartbeat.
+
+Her paws dug into dirt as she forced herself still. She hated it. Hated being still while the clearing filled with roars and groans. But if she moved, she would die. Her tail quivered with the truth of it.
+
+She lay half-hidden, eyes fixed wide through the brush. Wolves darted in and out of her sightline, bodies flashing shadow-dark. The Mireback swung, every motion a storm. Bark and rot clung to the air.
+
+Then a shape broke from the fray. One of her pack, pelt torn, eyes wild. He bolted past the circle, paws pounding for the trees.
+
+Luna’s ears perked high. Fleeing?
+
+The Mireback turned. Too fast for its size. Its ruined limb swung wide and caught him mid-stride.
+
+Bones cracked like snapped branches. The wolf crumpled, his body broken before it hit the dirt.
+
+Luna’s breath hitched, teeth baring in a silent snarl. Her chest heaved, heart pounding so hard she thought the ogre might hear. She pressed herself deeper into the leaves, forcing her whine down into her throat.
+
+She couldn’t move, or speak. Couldn’t give herself away.
+
+Her tail curled tight, claws biting earth until her pads ached. Her ribs throbbed, her side sticky with blood, her tongue thick with the bitter taste of mold.
+
+Survive. The word beat steady in her skull. Survive.
+
+She would not let the Mireback’s rot sink into her too. She would not give it her bones.
+
+Her breath stayed shallow, her eyes locked on the fight, every muscle ready to bite or bolt if the shadows broke her way.
+
+For now, she stayed quiet. For now, she endured.
+
+Because surviving meant she could fight again.

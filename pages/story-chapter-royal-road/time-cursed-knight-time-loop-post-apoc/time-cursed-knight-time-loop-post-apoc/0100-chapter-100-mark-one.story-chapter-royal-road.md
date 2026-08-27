@@ -1,0 +1,207 @@
+---
+id: b1d29c58-47b2-570a-b80b-6c8695619232
+page-type-slug: story-chapter-royal-road
+title: "Chapter 100: Mark One"
+slug: 0100-chapter-100-mark-one
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 100
+ownLength: 2301
+unit: words
+publishedAt: 2026-08-03
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3764760/chapter-100-mark-one"
+royalRoadId: "3764760"
+---
+
+I held up one finger.
+
+"Before I answer that, I need to show you something."
+
+I reached under the table. My hand found the cloth bundle. I drew it out and set it on the table between the books and the newspaper.
+
+The thing inside looked like a stick.
+
+That was the honest first impression. A length of dark wood, roughly the length of my forearm, thicker at one end than the other, with a crude grip carved into the narrow end and a small brass fitting at the mouth. It had the rough, unfinished look of something built in haste by hands that were still learning the shape of what they were making. The seams were uneven. The grain of the wood showed chisel marks. A thin copper rail ran along the top, and a second along the bottom, both of them disappearing into the body of the thing near the grip end where a small housing held a crystal.
+
+It looked like a child's approximation of a weapon.
+
+Augustin leaned forward and frowned at it. "What is that?"
+
+"A pistol," I said.
+
+Rolf blinked.
+
+Asena's head tilted.
+
+"It can't be a pistol." Augustin's frown deepened. "We barely have iron. We don't have steel in the quantities you'd need for a barrel. And gunpowder—" He shook his head. "Gunpowder is practically nonexistent."
+
+"It's not a gunpowder weapon." I picked it up, and the weight of it settled into my hand with a solidity that belied its rough appearance. "It's a rail-pistol. Mark One."
+
+I opened the small housing near the grip and showed them the crystal seated inside. Grade B. The same kind Rolf used in the cooling devices. I reached into my pocket and produced a handful of copper balls, each one slightly larger than a marble, smooth and heavy.
+
+I loaded three into the channel at the mouth of the device, where they settled against the copper rails with soft clicks.
+
+"Everyone move to the side," I said.
+
+They moved. Rolf pulled his chair back. Asena stepped behind me. Augustin stayed seated but shifted until he was well clear of the line between the barrel and the far wall.
+
+Against that wall, I'd stacked three sacks of packed earth earlier that morning. You never test a weapon without knowing what's behind your target.
+
+I raised the pistol. Aimed at the center of the stack.
+
+I pressed the trigger mechanism.
+
+The sound was not what they expected.
+
+There was no bang.
+
+There was a sharp, electric crack — like a tiny bolt of lightning compressed into a tube and released — and a flash of pale blue light that ran the length of the copper rails in a streak too fast to follow. The air between the barrel and the wall compressed and snapped back.
+
+The copper ball punched through.
+
+Through the sacks. Through the packed earth. Through the brick wall behind them. Three layers of material that should have stopped it cold and the ball tore through all of them and exited the far side of the masonry in a spray of red dust. The entry hole in the first sack was the size of a coin. The exit hole in the brick was the size of my fist, cratered outward.
+
+Nobody moved. Nobody spoke. The hole in the wall did the talking.
+
+Even Kaspar was surprised. Rolf was on his feet. His chair was two meters behind him.
+
+"What," Asena said, and stopped.
+
+"What in God's name," Rolf finished for her, "was that?"
+
+They moved toward me. Both of them. Rolf's hands were already reaching for the weapon, and I let him take it. He turned it over with the reverence and the intensity of an engineer encountering a new tech. His fingers traced the copper rails. His thumb found the crystal housing and pressed against the glyph etching around its rim. Asena leaned over his shoulder, her ice-blue eyes sharp.
+
+"There's no propellant," Rolf murmured. "No combustion. The acceleration is—" He looked up at me. "Electromagnetic?"
+
+"Yes."
+
+"The rails." He turned the device again, studying the twin channels. "You're running current between two parallel conductors. The projectile completes the circuit. The field accelerates it." His voice had gone distant, the way it went when the engineering took over. "But the current required for that kind of velocity, the mana throughput alone would drain a crystal in—" He paused. Calculated. "One shot. Maybe two. On a Grade B. Which is why nobody's built one."
+
+"Forty," I said.
+
+He stared at me.
+
+"Forty shots. On a Grade B."
+
+"I was inspired by your work," I said.
+
+Rolf looked at the pistol. Then at me.
+
+"The glyph architecture." His voice dropped to something close to a whisper. "This is my recursive loop."
+
+"Modified." I crossed to the table and pulled a sheet of paper from beneath the stack of notebooks. "The cooling device recycles waste energy back into the thermal reduction cycle. I took the same principle and reversed the output. Instead of the recursion returning energy to cool the ambient environment, it compounds the current between the rails. Each cycle amplifies the electromagnetic field. The projectile accelerates through the full length of the channel, picking up speed with every millimeter."
+
+Rolf sank into his chair with the formula in one hand and the pistol in the other and didn't move for nearly a minute.
+
+"It's my architecture," he said quietly. "But it's more complex. The branching here and here." His brow knotted. "This would be extraordinarily difficult to inscribe. The tolerances on the glyph spacing alone—"
+
+"I know," I said. "It's rough. Everything about this prototype is rough. The channel alignment is off by a fraction of a degree, which is why the accuracy degrades past twenty meters. The crystal interface bleeds energy at the connection point. The trigger mechanism is a lever made of scrap copper." I paused. "But it works."
+
+Asena hadn't spoken since the shot. She stood with her arms folded and her gaze moving between the hole in the wall and the thing in Rolf's hands.
+
+"The body," she said. "What is this material?"
+
+"Ironwood."
+
+Rolf's head came up. "Ironwood is impossible to work. You can't cut it. You can't shape it. A Fourth Circle mage with a dedicated saw enchantment can barely score the surface."
+
+"Normally." I reached into the satchel at my feet and produced a small glass vial. The liquid inside was pale amber, slightly viscous, with a faint sheen that caught the lamplight. "Experiment number thirty-four. An alchemical compound that temporarily disrupt the mana-bond structure in organic material."
+
+I held the vial up.
+
+"When I tested it on myself, it turned my forearm soft as rubber for nine days. Painful." I set the vial on the table. "But what works on living tissue also works on mana-saturated wood. A few drops applied to a section of ironwood will soften it to the consistency of dense clay. You can cut it. Shape it. Carve channels into it. Drill it. For approximately one hour."
+
+"One hour," Asena repeated.
+
+"One hour. After that, the mana bonds re-form and the wood hardens back to its natural state."
+
+Asena took the vial from the table and held it up to the light.
+
+"The compound itself," she said. "Production cost?"
+
+"High. The base reagents include two compounds that have to be sourced from mana-rich ecosystems. One vial's worth would produce a dozen barrels."
+
+She turned the vial in her fingers.
+
+"Difficult," she said.
+
+It was not a refusal.
+
+"The projectiles," I went on. "Simple copper balls. Unenchanted. The acceleration does the work. I could add runic inscriptions to improve penetration or add secondary effects — fragmentation, incendiary, suppression — but each enchantment adds manufacturing time and mana cost, and the plain copper is already punching through brick at close range."
+
+Rolf was still reading the formula. His lips moved silently.
+
+"This would be the first weapon," I said, and I let my voice carry the weight of what I was about to say, "that a person without magic could use to kill."
+
+The room went still.
+
+"Even a one-Circle soldier. Even a regular army private with no talent, no training, no affinity. Put this in their hands, teach them to aim, and they become lethal."
+
+Rolf looked up from the formula.
+
+Asena set the vial down.
+
+Augustin, who had been silent since the shot, cleared his throat.
+
+"You said Titans," he said. His voice was careful. "You framed this as a response to the Titan escalation in Qalathar." He gestured at the pistol in Rolf's hands. "That weapon just put a hole through a brick wall. A Titan is not a brick wall. How does a copper ball the size of a marble stop one of those?"
+
+"It doesn't," I said.
+
+Augustin blinked.
+
+"The pistol isn't for Titans." I let the distinction sit. "The pistol is for elves. For the front lines, where a regular army private with a Mana Blood pamphlet and a hand-me-down wand faces down an enemy that can cast faster than he can think." I held Augustin's gaze. "And it's for politics. This device, together with the cooling technology, is what I take to the Prince Varen. It's our entry into the military procurement market. It opens the door."
+
+Augustin leaned back. The calculation behind his eyes had shifted. He was no longer weighing whether the idea was sound. He was weighing how to execute it.
+
+"And after that?" he asked.
+
+I smiled.
+
+It was not a kind smile.
+
+"After that," I said, "we scale this." I touched the pistol in Rolf's hands. "We make it twenty times larger."
+
+The silence in the room developed a texture.
+
+"A cannon," Rolf said. His voice was barely audible. "You want to build a railgun cannon."
+
+"I want to build a weapon that can kill a Titan," I said.
+
+I looked at each of them in turn. "I don't want to hold a wall. I want to shoot back."
+
+Augustin ran a hand through his prematurely gray hair.
+
+"Twenty times larger," he said. "The mana crystal requirements alone—"
+
+"Would require a Grade AA crystal. At minimum. Possibly triple-A." I nodded. "Expensive. Extraordinarily expensive. Nothing in the vault qualifies."
+
+"And the glyph architecture." Rolf was already making notes on the back of the formula sheet, his pencil moving fast. "Scaling a recursive loop isn't linear. The branching complexity increases with the barrel length. The tolerances I'd need — I don't even know if I can inscribe them by hand. You'd need—" He stopped. "You'd need a specialist. Someone who works with high-energy glyph systems. Military-grade runic engineering." He chewed the end of his pencil. "There's someone at the Academy. He works on experimental weapons platforms. His name is—" He caught himself. "I'd need to check whether he'd be willing. But his formulas for managing high-current mana flow are the most advanced I've seen."
+
+"Find him," I said. "Don't tell him what it's for until you're certain."
+
+Rolf nodded, already writing.
+
+"The crystal sourcing," Augustin said. He had his portfolio open, numbers forming under his pen. "Grade A won't cut it. Double-A barely trades in the Empire. Triple-A scarcely exists outside the Sultanate's interior deposits. Cräusen controls what little the Empire produces above Grade A, and Cräusen backs Princess Elara." He looked up. "Where does the crystal come from?"
+
+"Leave that to me," I said. "At this moment, the Sultan of Qalathar is watching his walls crack under attacks that are getting worse every month. He'll be looking for any solution. Any advantage. Any weapon that promises to stop what's coming." I let the implication build. "A man who's watching his kingdom die doesn't haggle over crystal grades."
+
+Augustin set down his pen. He took a long drink of his tea, which had gone cold, and set the cup down with the careful precision of a man arranging his thoughts.
+
+"I want to make sure I understand," he said. "You are proposing that this organization — a workshop that, seven months ago, was four people and a borrowed bench — simultaneously maintain a consumer cooling-device business that is the talk of the capital, develop and manufacture the first non-gunpowder personal firearm in human history, design and build a siege-scale railgun cannon capable of killing a Titan, secure the exotic materials for both through channels that include a foreign sovereign, and do all of this within—" He paused. "How long?"
+
+"Twenty-four months," I said.
+
+Augustin stared at the ceiling.
+
+"We'll need an alchemical laboratory," he said, to the ceiling. "Dedicated. Not a bench in the corner of the workshop. A proper facility with ventilation, reagent storage, and containment wards for volatile compounds." His gaze came back down. "We'll need artisans. Skilled mages to inscribe the glyph architecture on each barrel. Enchanters for the crystal interfaces." He picked up his pen again. "We'll need a secure testing range. You can't fire that thing"—he nodded at the pistol—"in the middle of a commercial district. The noise alone would bring the garrison."
+
+"I'll arrange it," I said.
+
+"And we'll need an understanding with the Iron Cross." Augustin's voice went flat. "Because the moment this enters the military procurement pipeline, every competitor guild and every faction in the succession fight will try to take it from us. The only shield strong enough is a Crown endorsement. Varen's name on a contract."
+
+"That's mine to handle."
+
+Augustin looked at the hole in the wall.
+
+"I don't know what I've gotten myself into," he said. He closed the portfolio and folded his hands over it. "But I'll say this: it's better than the Treasury." A dry, tired smile. "You really do intend to fight the whole world."
+
+"Not the whole world," I said. "Just the parts of it that are trying to end ours."

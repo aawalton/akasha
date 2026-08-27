@@ -1,0 +1,251 @@
+---
+id: 837a8fae-fe42-5a11-893a-2b8064268d01
+page-type-slug: story-chapter-royal-road
+title: "Chapter 19: Frog Season"
+slug: 0019-chapter-19-frog-season
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 19
+ownLength: 1442
+unit: words
+publishedAt: 2025-09-06
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2580071/chapter-19-frog-season"
+royalRoadId: "2580071"
+---
+
+PoV Luna
+
+Luna stretched under the mossy overhang until her ribs popped.
+
+Her belly was quiet. Her legs twitched with leftover dreams. Her tail thumped once, then again.
+
+“Frog day,” she whispered.
+
+A cool wind carried the scent of wet bark and morning dew. She licked her paw, sniffed it, then licked it again for luck.
+
+Outside, the light filtered soft and green through the canopy. A beetle scuttled past her nose. She snapped at it halfheartedly. Missed. It wasn’t frog-shaped, anyway.
+
+She slid from her nook with a full-body shake.
+
+“Time to chew on some frogs.”
+
+They were loud. Heavy. Sluggish when ambushed. And full of that delicious, juicy thing she wanted most: levels.
+
+The flavor? Probably awful. But worth it!
+
+To prepare, she chomped a stick. Splintered it clean through.
+
+“Gross taste. Big meat. Strong Luna,” she said around the wood. Then spat it out. “Bleh. Needs spice.”
+
+With a final tail flick, she darted off toward the swamp.
+
+The trail curved through shallow dips and mud-trails, still sticky from yesterday’s storm. She hopped between dry patches, paused once to sniff a weird mushroom, then shadow-stepped onto a boulder for a better view.
+
+The bog spread out below, full of slimy pools, croaking echoes, and soft bubbling mud.
+
+Perfect.
+
+“Bite, run, shadow, repeat,” she muttered. “That’s the plan.”
+
+She nodded, serious now.
+
+She would call it... Bite-and-Run Shadow Tactics.
+
+Genius.
+
+***
+
+Luna crept low through the reeds, tail stiff, nose full of frog-stink.
+
+The bog burbled lazily, gurgling like it didn’t know it was about to become a battlefield. Luna knew better. She had scouted it. She had mapped every puddle, slope, and hiding root. Of this part of the bog, at least. Her paws slipped in right where they needed to.
+
+The frogs hadn’t gone far.
+
+Too lazy and fat for that.
+
+One of them – fat, green, and deeply stupid – snored into the muck. Its belly puffed with every breath like a swamp balloon. Its throat jiggled. Its eyes twitched, still closed.
+
+Luna grinned.
+
+Perfect.
+
+She crouched until her chin touched mud. Muscles coiled. Her ears twitched once.
+
+Then she vanished.
+
+The pop of shadow-step landed her right on target. Her teeth sank deep behind the jaw, near the throat sac. Wet skin stretched between her fangs.
+
+Then she vanished again.
+
+Shadow-step. Bite. Shadow-step.
+
+The frog screamed. Loud. Shrill. Wet. It echoed across the water like a gurgling war cry.
+
+Luna darted between roots, circling like a hungry thought. Her claws skidded over moss. Her tongue lolled with glee.
+
+【Run Lv.3 → Lv.4】【Shadow Step Lv.7 → Lv.8】
+
+The frog spun, confused. Its hind legs kicked wide. It spat a glob of something awful that steamed where it landed – but Luna was already gone, blinking sideways behind a log.
+
+“You missed!” she barked, mid-leap, then bit down on its thigh.
+
+The frog shrieked and slammed itself sideways into the water, but Luna held fast. Her fangs ripped loose a mouthful of leg. She skidded back, spat, then shadow-stepped again – this time landing square between its shoulder-blades.
+
+The creature flailed. Gurgled. Tried to roll.
+
+Too late.
+
+Luna clamped down behind its eye, claws tearing through its flabby back. She held on as it spasmed. Waited for the shake. The twitch. The final slump.
+
+Then bit again. Just to be sure.
+
+And again.
+
+One more time, for victory!
+
+Silence. Then swamp sounds resumed its lazy drips and slow gurgles. The bog not caring for what had just transpired.
+
+Luna stood panting, tongue out, fur wet and speckled with flecks of slime.
+
+“Bite-and-run shadow tactics,” she panted. “Flawless!”
+
+She wagged once. Then twice. Then threw her head back and barked out a cackle.
+
+Another frog croaked in the distance.
+
+She grinned.
+
+"Next."
+
+The second one didn’t give her time to gloat.
+
+It landed with a wet slap, thick legs splashing muck over her back. It screeched straight into her ear, and Luna flinched, mid-chew. Her tongue caught between her teeth.
+
+“Ack–ow!” She yelped, scrambled to dodge–
+
+Too slow.
+
+A webbed foot the size of her head smacked her clean off the bog shelf.
+
+【HP -8】
+
+She tumbled through slime, tail over muzzle, landed hard in a puddle, and popped up with her fur slicked down and eyes wild.
+
+“RUDE!”
+
+The frog roared again. It sounded like a dying trumpet in a bucket.
+
+Luna didn’t answer. She vanished.
+
+Shadow-step launched her behind it, and her teeth met thigh. Her fangs slid, but she held on, kicking, clawing, riding the shake. The thing spun in panic, tried to body-slam her with pure weight.
+
+Too slow again.
+
+Luna blinked out, flashed sideways, and carved along the opposite leg with her claws.
+
+Muck flew. Blood too.
+
+The frog whirled, spewing a cloud of sludge that reeked of rot and sour eggs. Luna ducked, coughed once, eyes watering, then lunged low.
+
+Her jaws locked onto its side, just below the ribs. Her claws dug in, braced, and she yanked.
+
+The skin tore. The creature shrieked – so loud her ears rang terribly – but it staggered. Wobbled. Its legs slipped in the mud. One twitch. Then two.
+
+Then it toppled.
+
+Face-first into the bog.
+
+Silence, again. Broken only by Luna’s heavy breaths.
+
+She stood panting, paw stinging, ribs tight. Her ears buzzed. Her mouth still tasted like the first frog, plus extra swamp.
+
+And she was grinning.
+
+“Still rude,” she muttered. “But Luna’s food now!”
+
+She limped closer, stepped up onto its back like it was a throne, and flopped down. Her tail wagged once. Then again.
+
+Victory puddle!
+
+A glop of frog gunk dripped from her ear. She ignored it. Too busy licking a fresh cut on her foreleg and chewing at the hide she had ripped free.
+
+“Tougher than you looked,” she said, around a mouthful of frog meat. “But not tasty enough to make up for it.”
+
+But her tail still wagged though.
+
+“Two frogs,” she mumbled through a cracked grin. “One Luna. Perfect trade.”
+
+Her stomach growled. Loud. Aggressive. Rude.
+
+She bit into the quieter of the two, deep into the thigh, and chewed. The texture was somehow worse now. Like muddy bark soaked in swamp tears.
+
+She chewed anyway.
+
+【Level Up: 8 → 9】【Level Up: 9 → 10】 【Strength +1 | Vitality +2 | Dexterity +2 | Intelligence +1】
+
+Her chewing slowed.
+
+She blinked at the message and gave a satisfied snort.
+
+“More frog equals smarter Luna.” She nodded. “Frog wisdom.”
+
+Then the air around her twitched.
+
+The system flared open, brighter than before. Cleaner. Too clean.
+
+【Evolution criteria met.】
+
+She blinked. Her ears perked. She sat up fast, tail starting to thump, slow at first, then faster.
+
+【Congratulations. Against all logic, you survived long enough to evolve.】
+
+Her jaw dropped.
+
+“Luna sure did!”
+
+She nearly slipped in the muck scrambling to her feet. Frog bones clattered behind her. She didn’t care.
+
+Her tail beat the ground. Her eyes gleamed wide.
+
+She spun in a circle, then another, kicking up swampwater and old moss. Her legs ached, but her body didn’t care. Her grin was too wide. Her ears too high.
+
+“Two frogs!” she shouted to no one. “Two frogs, two kills, double meat, double Luna!”
+
+Her tail thumped against a log. She pounced on it. Missed. Pounced again. Bit off a strip of bark for fun, her excitement showing.
+
+Victory buzzed under her fur like static. She ran a loop around the frog corpses, skidding once, then charged the bigger one and leapt straight onto its back.
+
+“Mlem of conquest!” she declared.
+
+Then she chomped down on a flap of skin near the spine and tore off a chunk. It tasted like wet mulch and swamp mold. She didn’t care.
+
+She chewed hard. Loud. Tail wagging the whole time.
+
+Then she pounced onto the second corpse and did it again. Bit, tore, swallowed.
+
+“Frog meat! Frog brain! Frog–” she stopped chewing long enough to say, “–power!”
+
+Her paws stamped in place. Her back legs twitched. Her thoughts tumbled like squirrels in a bucket. Eat the frogs. Eat the stars. Bite the bog. Bite the moon. Bite whatever gave her more of this feeling!
+
+She dropped beside the corpses, panting, finally, finally slowing down.
+
+Her tongue lolled sideways. Her chest heaved.
+
+A bubble popped in the mud nearby. She didn’t even look.
+
+Luna rolled onto her back and kicked the air once.
+
+Then again, slower.
+
+Then stopped.
+
+“System thingies,” she mumbled.
+
+The words hovered somewhere behind her eyes. Clearer now. Brighter.
+
+She flopped over, licked her snout, and sat up, still chewing.
+
+“Okay. Frogs chewed. Luna ready.”
+
+She blinked once. Then twice.
+
+“Time to look at the glowy bits.”

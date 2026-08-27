@@ -1,0 +1,231 @@
+---
+id: c607aa37-4f10-504e-8a51-344fef35ba56
+page-type-slug: story-chapter-royal-road
+title: "Chapter 76: The Book"
+slug: 0076-chapter-76-the-book
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 76
+ownLength: 2370
+unit: words
+publishedAt: 2026-06-30
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3613412/chapter-76-the-book"
+royalRoadId: "3613412"
+---
+
+"Three would be the end of Qalathar."
+
+She didn't know she'd just read me my own day.
+
+One in the morning. Two at night.
+
+The cobra in the morning. I'd watched it repelled from the eastern wall not two hours ago. The mantis at dusk, climbing the northwestern wall. The beetle wedged in the southern gate.
+
+Three.
+
+I kept my hands flat on the edge of the map table. I kept my breathing even. There was a film of cold sweat at the small of my back that had nothing to do with the desert.
+
+"So," Gregor said. He laced his fingers on the map, over the red circle that marked the warehouse, the same gesture he'd made the last time, the gesture he'd make again if I let this day run to ruin and start over. "That brings it back to the only question that matters. You've seen the ground. You've heard the constraints." He looked at each of us in turn. "Will you attack, or observe?"
+
+"We attack," I said.
+
+It came out faster than I meant it to. Gregor's brow ticked upward.
+
+"Today," I added. "Before nightfall."
+
+Lena's pencil stopped being a thing she was holding and became a thing she was pointing at me.
+
+"Why the evening?" she said.
+
+"Because the city's nerves will be raw." I met her eyes. "A Titan came at dawn. The Ashkeri spent men holding it. Whatever they lost — and they lost some, you don't repel a thing that size for free — they haven't replaced yet. The garrison's thinned. The patrols in the warehouse district will be lighter, the watch sloppier." I tapped the red circle once. "Their guard is down right now. It won't be down tomorrow. Tomorrow they regroup."
+
+It was true. Every word of it was true. That was the trick of the good lies. I left out the mantis. I left out the beetle.
+
+Lena went still. Thinking. I could see the ledgers she ran behind those eyes—guard rotations, exit routes, acceptable losses.
+
+"It's risky," she said at last. "Striking the same day we arrive, off a plan we haven't built? We'd be moving on instinct. We don't even know the interior layout." Her jaw set. "It would be easier, safer, to prepare. Map the guard rotations properly. Build the exit."
+
+A few days.
+
+She didn't know there were no few days.
+
+"You're right that it's risky," I said. "You're wrong that waiting is safer. Every day we sit and watch is a day more of that powder crossing into the Empire. And every day we sit, the more chances something notices us. I'd rather move while their attention's on the desert than wait for it to swing back to us."
+
+Henrik unfolded his arms.
+
+"He's right," he said. "Patrol work taught me one thing if it taught me anything, you take the gap when the gap opens. You don't wait for a prettier one." He looked at Lena, and his voice gentled by a fraction. "And we've still got the whole afternoon. We watch the place properly between now and sundown. We won't be going in blind. We'll be going in fast. There's a difference."
+
+Lena held my gaze a moment longer.
+
+She exhaled through her nose. Picked the pencil back up.
+
+"Sundown," she said. "Then I want every minute between now and then on that warehouse. Doors. Guards. The rotation."
+
+I agreed.
+
+Gregor and Maren traded a glance.
+
+"Then it's your call and your necks," Gregor said. He pulled his hands back from the map, uncovering the red circle as if releasing it to us. "Guard rotation changes at sunset and again at midnight. Sunset's your window. Whatever you do, be outside the walls before it closes again."
+
+I looked at the circle.
+
+I have no idea how to keep this city standing, I thought. I have until sundown to learn.
+
+We left the depot and crossed back into the warren of warehouse lanes.
+
+My head was a hive.
+
+The warehouse was the easy part. I'd already killed them once. I could do it again with my eyes shut, and probably would, several more times before this was over.
+
+The problem was a thing the size of a temple wedged in the southern gate, and another climbing the northern wall.
+
+And I can't let it be destroyed.
+
+But I couldn't fight or help with something I didn't understand. I'd watched three Titans and I knew nothing about any of them except the manner of their killing. The cobra rose at the eastern wall and the desert met it; the garrison turned it back in minutes. The mantis climbed the northwestern wall and tore the ward dome open. The beetle had a green breath that ate bronze and a belly full of acid that didn't need mana.
+
+The lanes opened ahead. Henrik and Lena had drifted to the observation position we'd used the day before. Henrik leaned against a post with the boredom of a professional. Lena had already produced her notebook and stopped close to a fruit stall.
+
+I stopped at the corner before they could wave me in.
+
+"I'm going to break off," I said.
+
+Henrik's eyes flicked from the warehouse to me. "Where?"
+
+"Market." I jerked my chin back toward the commercial quarter. "I want to put something together before we go in. A smoke bomb. If the exit's as bad as Lena says, we'll want to be invisible the second we cross that threshold. I need a few ingredients."
+
+"You can make a smoke bomb." It wasn't quite a question. Henrik tilted his head, studying me. "That something they taught at the Academy?"
+
+"No." A small, true smile. "Own recipe. I could teach you someday."
+
+He grunted.
+
+"Do that," he said. "Teach me. Smoke bombs the quartermaster hands out are either too weak to hide a chicken or too dear to waste on anything short of a retreat. Patrol used to ration them like they were made of crystal." He shook his head. "You make a good one cheap, and you'll have every section on the front begging at your door."
+
+"Then I'll make a good one cheap," I said.
+
+Lena didn't look up from the warehouse. "Be back by the fourth bell after noon."
+
+"Fourth bell," I said.
+
+I went looking for books instead.
+
+The commercial quarter seemed never-ending.
+
+I was a single body in a river of thousands. Around me, they haggled and shoved and shouted and lived.
+
+It took me the better part of an hour to find what I wanted, because I'd been looking for the wrong thing. In the Imperial capital, books lived in shops that announced themselves — a scrivener's sign, a bound spine in a window.
+
+Qalathar did not do hush.
+
+When I finally crossed into the right district, it was obvious. Books were everywhere. Not arranged. Not displayed. Heaped. Stacked in towers taller than a man against the fronts of shops, spilling out of crates into the lane, lashed in bundles and hung from awning-poles. Open-fronted stalls where a single merchant sat cross-legged in a fortress of paper, a teapot at his elbow, a hundred thousand pages crumbling slowly in the dry heat around him.
+
+I picked a stall at random. An old man sat in it. Headwrap faded, a face folded into so many lines that his eyes had nearly vanished into them. He looked up when my shadow crossed his page.
+
+I gathered up what little Kumsuri I had.
+
+"Book," I said. The word came out clumsy. "Book, Sins."
+
+He looked at me.
+
+The lines of his face did not rearrange themselves into anything resembling comprehension. He waited for me to make sense.
+
+I changed and tried once more. "Titan."
+
+Nothing. The same patient, folded waiting.
+
+"Monsters," I said. I spread my arms as wide as they'd go, then wider, lifting my hands toward the awning. "Big. Huge. Monsters — Giant."
+
+A flicker moved in the folds of the old man's face. The eyes surfaced from their nest of wrinkles.
+
+He said a word. "Giant."
+
+I nodded hard enough to hurt my neck. "Yes. Giants. Huge. Book."
+
+The old man's mouth worked. He turned and rummaged in the nearest tower, and after a moment came back with something thin and brightly colored, the cover painted with a crude, cheerful Giant stomping over a crude, cheerful village, the kind of thing you'd read to a child. He held it out, pleased with himself.
+
+I shook my head. "No. No — " I groped for the word, didn't have it, tried the next-nearest. "History. Academy. Real. Old."
+
+He frowned. Looked at the children's book in his hand as if it had betrayed him. He looked once more at his towers, his eyes traveling the spines and bundles, asking himself whether anywhere in this paper avalanche there lived the thing the foreigner was clumsily describing.
+
+Apparently it did not.
+
+He set the children's book down, hauled himself up off his cushion with a grunt and a series of small popping sounds from his knees, and shuffled two stalls down to a neighbor. The old man spoke. Fast. Far too fast for me. The only thing I understood was that he was haggling.
+
+The neighbor answered. They argued. They gestured at me, at the sky, at the towers, at some figure that one of them named and the other scoffed at. They negotiated. They argued some more. A price, I gathered, was being established, and then disputed, and then re-established slightly higher, and the old man was making the universal sounds of a man being robbed in his own street.
+
+At last he came shuffling back, and in his hands was a different book entirely.
+
+This one had a black cover. Plain, hard, the leather gone gray at the corners where a hundred hands had held it. A few characters were stamped into the front in worn Kumsuri script, and even with my five days of half-language I couldn't read them. He held it against his chest a moment.
+
+"Fifty," he said, in Kumsuri, and held out his other hand, palm up. The fingers curled and uncurled. "Silver. Fifty."
+
+It took me a while to count it. The Kumsuri coins were small and thin and all looked alike in my untrained fingers, and I had to lay them out one at a time in his palm while he watched each one land. Fifty silver pieces.
+
+A robbery. It probably cost ten.
+
+I didn't care.
+
+I was not going to miss the money. I was, after all, very likely going to die again, and whatever I spent today would un-spend itself the moment the world reset and handed me back the same fat purse and the same doomed afternoon.
+
+The old man counted the last coin, closed his fist, and gave me a gap-toothed approximation of a smile.
+
+I took the book and left.
+
+Kumsuri, I'd decided somewhere in the middle of that transaction, was by a long way the harder of the two languages I was being force-fed in this life.
+
+I found a quiet corner three lanes deeper, where the book-stalls thinned and a stretch of cool shadow lay along a wall. I lowered myself down onto the packed earth, put my back to the stone, and opened the black book across my knees.
+
+The first page hit me with a familiar notification.
+
+I felt Gluttony stir as I read. I kept my focus on the text and tried not to watch the notifications accumulate.
+
+The book was not what I'd asked for. Or it was, and I'd asked for the wrong thing. There was nothing academic about it.
+
+What it was, was testimony. Accounts. Stories gathered and set down and then copied by hand across generations.
+
+I read slowly.
+
+The Giants, it called them. In Kumsuri the word for Titan and the word for giant were the same.
+
+Destroyers of Continents.
+
+That was the title the book gave them. They advance, and they consume what is in their path, and the path is everything.
+
+The descriptions came next. The hair on my arms lifted.
+
+They do not seem, the book said, I read it twice to be sure, to be unlike the beasts of the old earth. They are only the same beasts made gigantic. A turtle grown to the size of a mountain. A squid grown to the size of a temple. An ant swollen until it stands above a city wall.
+
+They hunger without need, they advance without purpose, and they bend the mana of the world to their will as no animal of the old earth ever could.
+
+Halfway down the page, in a sentence set apart from the rest as if the copyist had wanted it to stand alone:
+
+First portal sighted: the Mediterranean Sea.
+
+I stopped.
+
+I read it again.
+
+Mediterranean.
+
+Cold ran the length of my spine and locked at the base of my skull.
+
+I thought of the people who'd lived on those shores. The cities. The villages with their feet in that warm water and the portal opening offshore like a black mouth, vomiting Giants until there was no one left on any shore to count them.
+
+I shuddered.
+
+I made myself keep reading. Understanding could wait.
+
+The rest of the chapter was a catalogue.
+
+Battles. Encounters. Giants sighted and Giants survived and Giants that had not been survived, written down by the few who'd lived to write. Each entry brief. Each entry ending, more often than not, with the names of the dead, or the name of a place that had stopped existing.
+
+I read faster. There was one thing I needed from all of this, one thing worth fifty silver and a doomed afternoon.
+
+How do you kill them.
+
+The Sultan had killed one. The book confirmed it, in a passage thick with reverence and the careful vagueness of legend. One Giant. Killed by an eight-Circle mage who had spent the rest of his life and most of his power building the wall that kept the others out.
+
+I reached the final page.
+
+There, at the bottom, set apart again, was the line that needed never to be forgotten.
+
+Weakness: None found.

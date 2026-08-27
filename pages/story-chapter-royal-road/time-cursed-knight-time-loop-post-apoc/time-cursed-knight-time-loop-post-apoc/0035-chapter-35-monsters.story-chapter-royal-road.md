@@ -1,0 +1,323 @@
+---
+id: 79effab4-0fbc-5f4d-a4a3-768b725c3a47
+page-type-slug: story-chapter-royal-road
+title: "Chapter 35: Monsters"
+slug: 0035-chapter-35-monsters
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 35
+ownLength: 2111
+unit: words
+publishedAt: 2026-05-04
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3354945/chapter-35-monsters"
+royalRoadId: "3354945"
+---
+
+Far away, in the noble quarter.
+
+The noble quarter sat at the crown of the capital, where the streets widened and the air thinned.
+
+Sera ran a delicate hand across her cheek, suppressing the sigh before it could reach her lips.
+
+It was part of her duties. Always beautiful. Always composed. Always sharp. The court demanded these things from its women the way it demanded taxes from its provinces: constantly, without gratitude, and with severe consequences for failure.
+
+The problem was the company.
+
+Surrounding her on the sunlit terrace of the Aurelian estate, arranged on cushioned chairs around a marble table laden with pastries nobody touched, sat seven members of the capital's noble elite. Each one orbited the royal family like a moon orbits a planet. Close enough to bask in reflected light, distant enough to avoid being consumed.
+
+Bloodsuckers.
+
+Sera had other words for them. Politer ones, when necessary. In the privacy of her own skull, she used the honest one.
+
+"The new iteration is remarkable, truly," Lord Felsten was saying. He held a porcelain cup between two fingers, pinky extended. "Acceleration runic frameworks integrated directly into the mage-glow lattice. The Academy's artificers have finally produced something that nobility might benefit."
+
+Mage-glow.
+
+One of the rare inventions that actually bridged the gap between magical theory and practical utility. Lighting that required no fuel, no maintenance, and could be calibrated to any intensity. The previous generation had been expensive and fragile. This new version, from what Sera had gathered, was neither.
+
+A useful thing. Perhaps the only useful thing to emerge from the Academy's workshops in a decade.
+
+Naturally, the conversation had nothing to do with its usefulness.
+
+"The tariff implications alone—" Lady Breisgau leaned forward, her fox-fur collar shifting with the motion. "If the Crown classifies it as outside of military-adjacent technology, every unit sold within Silberwald's borders falls under the wartime taxation framework. My husband's manufactories would lose a third of their margin overnight."
+
+"Then petition for semi-military classification," Felsten replied, as if solving a puzzle designed for children. "Frame it as infrastructure. Public safety."
+
+"You think we haven't tried? The War Ministry has its teeth in everything this season. Every allocation, every contract, every gram of mana-conductive material is being funneled south. South, south, south. As if the entire economy exists to feed a front line that hasn't moved in three years."
+
+Murmurs of agreement circled the table.
+
+Sera sipped her tea.
+
+She didn't disagree with them. She couldn't. It would have been hypocrisy.
+
+Her own family's holdings were being squeezed by the same war taxes. The same grinding machinery of a conflict that demanded everything and returned nothing but a stalemate.
+
+Yet, she wouldn't have the audacity to say it aloud.
+
+Not at a gathering convened in the shadow of an imperial prince's hospitality.
+
+These nobles, insulated by generations of wealth and proximity to power, had lost the ability to distinguish between private complaint and public stupidity. They spoke as if the walls had no ears.
+
+The walls always had ears.
+
+A servant approached the table.
+
+Dressed in the estate's livery, a dove-gray tunic. He refilled cups with a practiced, invisible efficiency that drew no attention from anyone at the table.
+
+Sera watched him.
+
+Not his hands. His eyes.
+
+They moved. Cataloging every word, every reaction, every shift in tone. His gaze lingered a fraction too long on Lady Breisgau as she complained about tariffs. Paused on Lord Felsten as he proposed his circumvention strategy.
+
+Listening.
+
+Sera lifted her cup to her lips and let the rim hide her smile.
+
+The footsteps announced him before he appeared.
+
+Kasimir came through the archway.
+
+The plate was not ceremonial. Sera could see the marks. A dent along the left pauldron where something had struck hard enough to compress the metal. Scratches across the breastplate in patterns. Dust in the joints. Dried mud along the greaves.
+
+He had come directly from the front.
+
+His face confirmed it.
+
+The weariness sat behind his eyes. His jaw was set.
+
+He looked like he hadn't slept in days.
+
+The nobles erupted.
+
+"Your Highness! Welcome, welcome!"
+
+"How wonderful to see you returned safely!"
+
+"We were just discussing the new mage-glow iteration. Simply fascinating, you must hear..."
+
+Lord Felsten rose from his chair with a bow that swept low enough to be technically correct and shallow enough to preserve his dignity.
+
+"Your Highness," Felsten said, his voice modulating into the warm reserved for royalty. "How fares the southern front? I trust our brave soldiers continue to hold the line with distinction."
+
+The question was delivered with the careful disinterest.
+
+Kasimir settled into the chair at the head of the table. A servant, the same one, materialized at his elbow with a fresh cup. The prince accepted it without looking.
+
+"The front is stable," Kasimir said.
+
+His voice was even.
+
+His face said something else entirely.
+
+"Magnificent!" a baron whose name Sera had already forgotten exclaimed. "Truly, Your Highness, your dedication to the realm is an inspiration. To personally oversee operations at the front, few of the royal blood would."
+
+"Indeed, indeed," another chimed in. "The soldiers must take such heart from your presence."
+
+"A prince who leads from the front rather than the rear."
+
+The compliments piled. Each one a coin minted from air and offered with a smile that expected change.
+
+Sera set her cup down.
+
+"How is Varen?"
+
+The name fell into the conversation like a stone into glass.
+
+The compliments stopped. The smiles froze. Around the table, seven pairs of noble eyes performed the same rapid calculation: how to react.
+
+Kasimir's jaw tightened.
+
+"Varen," Kasimir said, "has been busy."
+
+A pause.
+
+"He has restructured the Coliseum."
+
+"Restructured?" Sera prompted.
+
+Kasimir's fingers turned his cup slowly on the marble surface.
+
+"He has rebuilt the arena's entire operational framework," Kasimir said. "The training regimen, selection process and combat rotations. All of it redesigned from the ground up to serve a single purpose."
+
+His eyes lifted from the cup.
+
+"He is developing his fighters like a madman."
+
+Another pause.
+
+"What he is doing with the Iron Cross," Kasimir said quietly, "is terrifying."
+
+Lord Felsten's brow creased. "Terrifying in what sense, Your Highness? Surely the Iron Cross has always maintained... robust training methods."
+
+Kasimir shook his head.
+
+"This is different. Varen has expanded requisition authority to its absolute legal limit. Anyone with martial talent, any talent at all, is being pulled in. Volunteers. Conscripts. Debtors. Mutants. Children, some of them barely old enough to hold a weapon."
+
+His voice didn't waver.
+
+"The fights are real. He's running them through the arena and whatever comes out the other side..."
+
+He trailed off.
+
+Lady Breisgau waved a jeweled hand.
+
+"Commoners," she said, as if identifying a species of insect. "What does it matter how they're trained? Without Circles, they're limited to... what? Brute physical enhancement? Swinging swords like the barbarians of the old age?"
+
+Several nobles nodded. A few chuckled.
+
+"They cannot project mana," Felsten agreed. "Cannot form spell matrices. In any meaningful engagement against a Circle-bearing force, they would be—"
+
+"Slaughtered," a younger lord finished with a smirk.
+
+Kasimir looked at them.
+
+The silence that followed was uncomfortable.
+
+"The commoners in Varen's program," Kasimir said, "are becoming weapons. Some of them can match a Second Circle mage in single combat. A few can threaten a Third."
+
+The chuckling died.
+
+"Without Circles," Kasimir repeated. "Without a single Circle formed."
+
+Felsten's cup paused halfway to his lips.
+
+"That's... not possible," he said.
+
+"I've seen it."
+
+Several nobles shifted in their seats. The younger lord who had smirked was no longer smirking.
+
+An older nobleman, Baron Greitz, a man whose family had endowed three Academy positions and whose personal theology was as rigid as his spine, leaned forward with an expression that had curdled past skepticism into outrage.
+
+"This is an abomination," Greitz said. "Mana channeled without Circles? Without the proper structures? Without the sanctified frameworks established?"
+
+His palm struck the table.
+
+"It is heresy. The Circles exist for a reason. They are the ordained path. The only path."
+
+Murmurs rippled around the table. Some agreed. Others were harder to read.
+
+Sera ignored Greitz.
+
+She was watching Kasimir.
+
+"Has Varen given up on his greater plan, then?" she asked. "I recall him being... headstrong. But surely, faced with the practical limitations—"
+
+"Headstrong."
+
+Kasimir's mouth curved.
+
+"Sera, at the level Varen is operating, headstrong doesn't begin to describe it. He is going to become a monster. He is going to create a great many others."
+
+The word monster settled over the terrace.
+
+Lord Felsten cleared his throat.
+
+"Your Highness," he said, choosing his words with visible care. "Does the prince genuinely intend to... escalate? The southern front has been stable for years. Small engagements. Probing actions. The status quo, while imperfect, has been..."
+
+"Manageable?" Kasimir offered.
+
+"—sustainable," Felsten corrected, though the distinction was cosmetic.
+
+"Varen doesn't want sustainable," Kasimir said. "He wants victory. He is investing in weapons, in people, in techniques. On a scale that doesn't make sense unless you assume he intends to use them."
+
+He looked around the table.
+
+"He is preparing for a war."
+
+The nobles absorbed this in their various ways. Some went pale. Others went calculating, their minds already spinning toward contracts and supply chains and the profit margins of large-scale conflict.
+
+Baron Greitz was still red.
+
+"You mentioned techniques," the baron pressed, his theological outrage now sharpened by something more practical. "What techniques, precisely? If Varen has developed a method of channeling mana that bypasses the Circle framework entirely—"
+
+"He has implied as much," Kasimir said.
+
+The terrace went very still.
+
+"Implied," Kasimir repeated. "Not confirmed. But in private conversation, Varen has suggested that he knows a way, or is close to knowing a way, to channel mana externally at a level comparable to Circle-based casting. Without forming a single Circle."
+
+The reactions were diverse.
+
+Felsten's cup found the saucer with a click that sounded too loud. Lady Breisgau's eyes narrowed to slits. The younger lord's mouth hung open. Greitz looked like a man watching his house burn.
+
+"Did you see anyone interesting?" Sera asked.
+
+The question was soft. Almost idle.
+
+Kasimir's eyes found hers.
+
+He knew her well enough to recognize the question for what it was.
+
+He thought for a moment.
+
+"There was a boy," he said.
+
+The words came slowly, as if he were pulling them from a place he hadn't fully processed yet.
+
+"Young. Black hair. He was fighting in the morning training session."
+
+A pause.
+
+"He was using Mana Breath."
+
+Sera's cup stopped halfway to her lips.
+
+"Mana Breath," she repeated. "You're certain?"
+
+Kasimir nodded.
+
+Sera set the cup down.
+
+Mana Breath. One of the oldest known methods of channeling mana through the body. Predating the Circle framework by centuries, if the histories were accurate. A technique so ancient it had been documented in texts that most modern scholars considered quaint.
+
+So inefficient it had been abandoned by every serious practitioner within a generation of the First Circle's codification.
+
+The conversion rate was abysmal. The mana throughput was a fraction of what even a basic Circle could achieve. Using Mana Breath to fight was like trying to fill a bathtub with an eyedropper.
+
+"Mana Breath hasn't been used in serious combat in over three hundred years," Sera said. "It's a relic. A historical curiosity. The throughput is—"
+
+"I know what it is," Kasimir said.
+
+His voice had changed.
+
+The measured, diplomatic cadence was gone.
+
+"I know it's ancient. I know every Academy textbook written in the last century dismisses it as obsolete."
+
+He leaned forward.
+
+"But I watched him fight."
+
+The terrace was silent.
+
+"He looked like a savage," Kasimir said. "Mana was pouring from his mouth with every breath. Dense enough to see. He moved through the arena like something that had crawled out of a nightmare and was furious about being woken up."
+
+His fingers pressed against the marble table.
+
+"I've seen Third Circle mages who didn't project that kind of killing intent. I've seen veterans of the southern front who didn't fight with that kind of desperation."
+
+Kasimir's jaw worked.
+
+"And he was using the most useless technique in the history of magical combat to do it."
+
+The silence stretched.
+
+Sera studied the prince's face. The exhaustion was still there. The weight of whatever he'd seen at the front, whatever truths he was carrying beneath the diplomatic armor.
+
+But something else was there too.
+
+Fear.
+
+Not of the boy.
+
+Of what he represented.
+
+If Mana Breath, the weakest, most primitive, most dismissed technique in the canon, could produce that...
+
+What would Varen's new methods produce?
+
+Sera lifted her cup and drank.
+
+The tea had gone cold.

@@ -1,0 +1,175 @@
+---
+id: 247b684e-6439-58ac-add6-4cfc973a26a2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 3: Spice Dreams and Dirt Fights"
+slug: 0003-chapter-3-spice-dreams-and-dirt-fights
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 3
+ownLength: 1522
+unit: words
+publishedAt: 2025-08-21
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2535650/chapter-3-spice-dreams-and-dirt-fights"
+royalRoadId: "2535650"
+---
+
+She woke up slowly, jaws cracking wide in a groggy yawn. Her tongue rasped dry across her teeth, thick with the taste of bear guts and bad decisions. She smacked her lips, grimacing. Even her breath smelled spicy.
+
+Her belly still rolled like a hot rock sat inside it. She shifted, whined softly, and flopped to her side, ears flicking against the root she had curled under the night before.
+
+The den was alive with the soft huff and shuffle of wolves stirring, but no one spared her more than a glance.
+
+She groaned, legs kicking against the dirt, then pushed herself up. They wobbled, but they held. A small triumph. Her tail gave a weak wag at that.
+
+A flicker lit her vision.
+
+【Poison (Weak) → Cleansed.】
+
+Her ears perked, eyes going round.
+
+Victory! Her first poison, defeated.
+
+She puffed her little chest out, fur bristling proud, and let out a squeaky bark of triumph.
+
+【Vitality +1】
+
+And the system awarded her too! She definitely felt taller. Stronger, too.
+
+She pranced a short circle, tail wagging madly. The burn in her belly lingered, but it no longer dragged her down. No, it sang.
+
+She had beaten poison, and it had given her strength!
+
+Her gaze swept toward the carcass again, then to the scattered scraps left behind by the pack. Bones licked clean, tufts of fur, torn hide. None of it called to her anymore. Bear guts tasted dull after jerky.
+
+Her nose twitched toward the trees instead. Leaves carried fresher scents, wild and sharp. She caught hints of rabbit, faint musk of fox, and – her tail thumped harder at that – the lingering trace of human packs.
+
+Her tongue slipped out, licking her lips. Preferably not deadly, she thought, padding forward with determination. Probably.
+
+She trotted toward the treeline, each pawstep light with leftover pride. Her ears swiveled at the snap of branches, at the distant cry of a bird, her body alive with new edges she didn’t quite understand.
+
+Words still fluttered at the back of her skull like moths against bark. “Meat.” “Eat.” “Victory.” They made her grin, though the grin was just teeth and tongue lolling.
+
+She nosed under a fern, sniffing. Nothing. Scrabbled at the base of a rotted log, where the air smelled thick with insects. Nothing she wanted. She sneezed dirt from her nose and wagged again anyway.
+
+Hunting was work. Food was always worth work.
+
+Her belly grumbled, not with the fire of poison this time but with honest emptiness returning after sleep.
+
+She tilted her head toward the clearing, catching another drift of human scent near the bones. Tempting. But if the older wolves caught her with that again… she shivered. Not worth another paw across the ears.
+
+So she pressed her nose lower to the dirt, following the thinner lines of prey. A trail, faint but steady, weaving through the grass.
+
+Rabbit, yes. Small, quick, delicious.
+
+Her ears perked high, tail wagging at the thought of soft fur between her teeth.
+
+Meat without fire. Meat without shame.
+
+Her paws carried her forward with surprising steadiness, the ache of the night already forgotten. She had survived poison. She had beaten it. Now she would find food that belonged to her alone.
+
+Her belly rumbled once more. She grinned. Today would taste better.
+
+She padded down to the stream, paws squelching in the damp earth. Her belly had stopped growling after the scraps she had gnawed earlier, but her tongue still searched for flavor.
+
+Water shimmered before her, smooth as glass, and in it gleamed her own reflection.
+
+She crouched low, ears forward, studying the dark nose that peeked back at her. Small. Round. A nose that sniffed out danger, prey, and food alike. She tilted her head one way, then the other.
+
+Cute. Deadly cute.
+
+Her tail wagged at the thought.
+
+A sudden flutter broke the surface calm. A bird swept down, fat and plump, its wings scattering ripples as it landed on a rock across the stream. Her ears twitched upright, gaze narrowed.
+
+That bird had the arrogance to perch there, right in front of her. To exist so boldly within reach!
+
+She sank lower, haunches wriggling. Every instinct in her small body screamed the same word: pounce.
+
+Her claws flexed. Strike lit faintly in her mind. She sprang too early.
+
+Water splashed in a wild arc, soaking her fur, scattering droplets that sparkled in the sun. The bird shrieked, wings beating madly.
+
+She lunged anyway.
+
+Her jaws snapped as she rose mid-air, momentum carrying her higher than she thought possible. Bite pulsed as her teeth clamped down.
+
+CHOMP.
+
+The bird gave one last desperate flutter, then stilled in her jaws.
+
+【Bite Lv.1 → Lv.2】
+
+Her tail wagged furiously, body bouncing in place.
+
+Stronger! Her bite had leveled!
+
+Triumph fizzed through her chest brighter than sunlight. She pranced a small circle on the bank, bird dangling from her mouth, before plopping down with an excited yip.
+
+Now came the reward.
+
+She tore into the feathers, nose wrinkling at once. The taste was odd. Damp. Like moss, with fuzz that clung to her tongue no matter how hard she scraped it against her teeth. She gagged, sneezed, then bit again stubbornly.
+
+Chew, swallow, cough. Feathers stuck in her throat. She pawed at her muzzle, eyes watering, but pushed on.
+
+Food was food. Food was victory.
+
+She forced down every bite, growling softly through the mess, until only a few stray downy tufts floated away on the breeze. Her belly rolled uneasily, but she licked her chops anyway, tail thumping.
+
+She blinked, then huffed through her nose. Bird tasted terrible.
+
+Still, she puffed her chest. She had hunted, killed, and eaten.
+
+All by herself.
+
+The moss-flavored misery in her belly couldn’t erase that.
+
+She trotted a proud circle along the stream, dripping wet and feather-flecked, before collapsing in a panting heap. Her tongue lolled, her tail wagged, and her grin said everything her awkward words could not.
+
+Victory tasted awful.
+
+But it was still victory.
+
+She strutted back toward the den with her chest puffed and tail high. Her fur was still damp, feathers clung stubbornly to her muzzle, and her belly churned with moss-flavored bird – but none of that mattered.
+
+She had hunted. She had leveled her bite. She had eaten everything. Clearly, she was a genius.
+
+The den clearing shimmered warm in the late morning sun. Wolves lounged across patches of dirt, some sleeping, others grooming, all content. She spotted her favorite spot at once: a circle of packed soil heated just right by the sun.
+
+Perfect for curling up and digesting brilliance.
+
+Except an older pup already sprawled there, his paws splayed wide, tail thumping lazily as if he owned the ground.
+
+Her ears flattened. Unacceptable.
+
+She circled slow, eyes narrowed, tail swishing behind her. He cracked one eye at her, then shut it again, smug as can be. The insult burned hotter than the jerky ever had.
+
+Her claws flexed. Strike pulsed faintly in her head. She launched forward with all the ferocity of a shadow-born hunter.
+
+Her paw struck dirt.
+
+The pup rolled easily aside, grinning, and dust flew into her face. She sputtered, sneezed, and shook her head, hearing snickers ripple from the others nearby.
+
+Heat climbed to her ears. She growled low, pacing in a little circle, and lifted her tail in what she decided was a show of dominance.
+
+It was obviously just a tactical feint!
+
+The older pup lunged before she could recover, teeth flashing. Instinct screamed in her chest, and she hopped sideways with a squeaky bark. His jaws snapped on empty air. Her eyes widened, paws moving before she thought. She bit down on his tail and struck clumsily at his back leg in the same breath.
+
+Both missed their mark, her teeth closing on fur alone, her paw skidding across dust. Yet the pup yelped, startled by her sudden frenzy, and his legs tangled beneath him. He toppled in a heap, landing flat with a grunt.
+
+She blinked once, then pounced. Her small weight crashed atop his side, and she planted her paws proudly on his ribs. Tail wagging like mad, she threw her head back with a squeaky howl.
+
+Victory by accident? Still counted!
+
+“Awoo-brained fool,” she declared with a bark, grinning down at him. “That’s my sun now.”
+
+The others barked laughter, but not at her this time. She hopped off her defeated rival, prancing three triumphant steps before collapsing squarely in the sunny patch. Warmth soaked into her fur at once, soothing the ache in her belly and the scratches on her pride.
+
+The older pup grumbled, but slunk away under the weight of her wagging tail. She sprawled with exaggerated luxury, chin on her paws, eyes half-lidded in bliss. Her belly still complained about the bird, but the sunlight soothed its grumbling. Even the dirt smelled like victory now.
+
+She let out a sigh, soft and pleased, then muttered to herself with a little grin.
+
+“Genius. Absolute genius.”
+
+Her tail thumped the ground three times for emphasis.
+
+Sun. Food. Victory. What else could life offer?

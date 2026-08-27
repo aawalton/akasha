@@ -1,0 +1,261 @@
+---
+id: d610f1c6-e7b6-59aa-b0fc-a8660997715c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 98: Back to the Desert"
+slug: 0098-chapter-98-back-to-the-desert
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 98
+ownLength: 2512
+unit: words
+publishedAt: 2026-07-30
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3747404/chapter-98-back-to-the-desert"
+royalRoadId: "3747404"
+---
+
+Iron Cross Investigation Division
+
+Katja pressed two fingers into her right temple and held them there.
+
+The headache had started at dawn, when Major Brauer's comm crystal had pulsed three times in rapid succession. It had gotten worse in the forty minutes she'd spent standing at attention in a room with no windows while two men she outranked in experience but not in title explained to her how she was wrong.
+
+She hadn't argued. She had assigned an active case to a Formation School candidate with two months of classroom training and a fame profile that made him impossible to hide.
+
+The candidate had identified the suspect, surveilled him for three weeks, caught him in the act, saved a family, and then cut the suspect's head off on the floor of the crime scene.
+
+The commendation and the reprimand had arrived in the same sentence.
+
+Outstanding field initiative. Breach of investigative protocol.
+
+Now she sat in her small office with the door closed and the blinds drawn and her fingers digging into the knot above her eyebrow as though she could physically extract the pain.
+
+A knock.
+
+"Not now," she said.
+
+The door opened anyway.
+
+Wirth came in carrying two cups. He was one of the Division's senior operators. Einherjar-3, fifteen years in the Cross.
+
+He set one cup on her desk. Tea. She could smell it.
+
+"You look terrible," he said.
+
+"Thank you."
+
+He dropped into the chair across from her without being invited, which was his way, and stretched his legs out until his boots nearly touched her desk. He watched her knead her temple for a moment.
+
+"How bad was it?"
+
+"Brauer delivered it personally." She picked up the tea and didn't drink it. "High Command wants to know how a trainee ended up alone on a case that involved a noble suspect with ties to the Princess's faction. Worse, they want to know how the hell he got benched after delivering that kind of result."
+
+Wirth's eyebrows rose a fraction. "What did you tell them?"
+
+"The truth. That he was the only one available. That I had no senior operators to pair him with and the case was time-sensitive. And that although he caught the killer and saved a family, he still failed to obtain the information." She set the tea down without tasting it. "They were not impressed."
+
+"And the execution?"
+
+"The official record says the prisoner attempted to cast through the suppressors." Katja's voice went flat. "Four soldiers corroborated. The wardens accepted it. The case file is closed."
+
+"But."
+
+"But everyone knows what actually happened and the only reason it isn't being pulled apart is that the family is alive and the press is calling him a hero again." She reached under a stack of reports and pulled out a folded newspaper. She tossed it across the desk.
+
+Wirth caught it. Unfolded it. The front page of the Silberwald Gazette, two days old.
+
+The headline read: THE PYRE EXTINGUISHED — IRON CROSS KNIGHT SAVES FAMILY FROM SERIAL ARSONIST.
+
+Kaspar von Hexenzeit was standing in front of a smoke-damaged house, the family of four visible behind him through the open door.
+
+Wirth read for a moment. Then he folded the paper and set it on the desk. "He does keep landing on his feet."
+
+"He keeps landing on the front page." Katja's fingers found her temple again. "Which is the problem. I pulled him from active casework as a disciplinary measure."
+
+Wirth was quiet for a moment.
+
+"And they don't want you benching him," he said.
+
+"He's the most famous knight in the Empire. Every paper in the capital prints his name once a week whether he does anything or not. If I keep him sidelined, it looks like the Iron Cross is punishing its own hero for saving a family. If I put him back on cases, he'll do it again. Make the decision himself instead of bringing it back."
+
+"So what are you going to do?"
+
+Katja stared at the newspaper on her desk.
+
+"I don't have a choice," she said. "I have to put him back on the street." She picked up the tea and drank it this time. It was lukewarm and bitter. "I need something far away. Something that keeps him occupied long enough, until someone senior is available."
+
+Wirth's eyes narrowed by a degree.
+
+"There might be something," he said.
+
+Katja looked at him.
+
+"It came across my desk two days ago. Routing from the eastern intelligence corridor. It was flagged for the Division but not assigned because we don't have anyone with the right profile." He sat forward, and for the first time his languid posture tightened into something professional. "Qalathar. The Sultanate capital. There's been an increase in Titan activity. Significant increase. Three separate triple-attack."
+
+Katja frowned. "Three? The first one was the day he was there."
+
+"Exactly. Which is why the routing flagged it for us instead of Military Intelligence. The Iron Cross already has a footprint in the region. We have a knight who's been inside the walls, who has a relationship with the Sultanate's first prince that's strong enough to get him through the gates without a diplomatic incident." Wirth spread his hands. "Someone needs to go. Verify whether the pattern is escalating. It's observation and intelligence work."
+
+Katja turned the cup in her hands.
+
+"How long?"
+
+"Travel alone is six weeks round trip, assuming standard routing through the southern corridor. Add the time on the ground for observation and meetings, three months minimum. Maybe four."
+
+Three months. Four months. Far from the capital. Far from the press.
+
+And far from her office, where she would not have to watch him and wonder which suspect he would behead next.
+
+"The desert," she said slowly. A thin, humorless smile crossed her face. "You're suggesting I send the Hero of Grenzheim back to the desert as a punishment."
+
+"I'm suggesting that the mission profile matches the operator's unique qualifications."
+
+Katja set the cup down.
+
+"Draft the orders," she said. "I'll sign them tonight."
+
+The Imperial Chronicle
+
+"Where is Konrad?"
+
+Frieda's voice cut across the newsroom. She stood in the doorway of her office with her wire spectacles pushed up into her hair and a sheaf of dispatches clutched in one hand.
+
+No one answered.
+
+Forty desks. Forty chairs. Perhaps thirty of them occupied, because the summer heat had turned the building into a kiln and half the staff had found reasons to work from taverns with better ventilation.
+
+"He was here this morning," someone offered. A junior, half-hidden behind a stack of yesterday's proofs.
+
+"I don't need this morning. I need now." Frieda scanned the room. "Has anyone seen him since noon?"
+
+Silence.
+
+"I think he mentioned something about the Academy quarter. Following up on... something."
+
+"Something," Frieda repeated. "That's very helpful. Thank you. I'll be sure to put 'something' in the next edition." She turned on her heel and strode back into her office.
+
+The comm crystal sat on its brass stand beside the window. She dropped into her chair, slapped the dispatches onto the desk, and pressed two fingers against the crystal's activation point. The stone warmed. The connection opened.
+
+Konrad's personal frequency.
+
+A crackle. Then his voice, low, slightly out of breath, with the ambient noise of a crowded street behind it.
+
+"Not a good time, Frieda."
+
+"I don't care."
+
+"I mean it. I'm in the middle of ... I can't talk right now. I'm following a lead. Give me two hours."
+
+"You don't have two hours." She leaned into the crystal. "Drop whatever you're holding. Something just came across my desk and I need you on it."
+
+A pause. The street noise shifted — he was moving, ducking into something quieter.
+
+"How big?" he asked.
+
+"Big."
+
+"Bigger than what I'm working? Because this is a serial killer with connections to the Academy, and if I let this thread go cold I lose —"
+
+"Is the end of the world big enough?"
+
+For a few seconds the crystal gave her nothing back but the open-line hiss.
+
+"I'm listening," Konrad said.
+
+"Qalathar," she said. "The Sultanate capital. Today was the third time, the third separate occasion, that three Titans have attacked the city in a single day."
+
+She let it land.
+
+"The first was four months ago. Your angel story. The day Hexenzeit was there. That was unprecedented. One triple-attack day in a city that had never seen more than two Titans in a week. Everyone assumed it was a freak event." She turned a page. "Six weeks later, it happened again. Three Titans. Same city. The Sultanate's internal reporting called it an anomaly. Their garrison doubled the wall rotation and no one outside the desert heard about it."
+
+"And today?"
+
+"Today makes three." Frieda's voice hardened. "Three triple-attack days in four months, on a city that went two centuries without a single one. The pattern is accelerating, Konrad. Whatever is driving these attacks, it is not random and it is not stopping."
+
+She heard him breathing through the crystal. The sound of a man recalculating the value of everything he'd been working on.
+
+"The caravans?" he asked.
+
+"Three sources. Two independent merchants and a military courier who owed me a favor. All three corroborate. The attacks are real, the casualties are climbing, and the Sultanate is not talking about it publicly." She paused. "Which means either they don't understand what's happening, or they understand it perfectly and they're terrified."
+
+"What do you want from me?"
+
+"I want you on a caravan within the week. I want you inside that city. I want you talking to the people who stand on those walls and I want to know what is happening and why, before whatever is driving this reaches the point where half a million people die and we're printing obituaries."
+
+Another pause. Longer this time.
+
+"The Academy story —"
+
+"Give your notes to Marbach. He's competent enough to hold the thread until you're back. This is bigger, Konrad. This is the kind of bigger that doesn't wait."
+
+She heard him exhale. The sound of a man setting something down.
+
+"I'll need travel funds," he said.
+
+"You'll have it by morning."
+
+Hexenzeit
+
+"It will be small," Roderich said.
+
+He did not look up. The map of the northern holdings lay open across the desk under his hands.
+
+"Three weeks. Four at the most. The Winterkrone party will arrive ahead of the ceremony; you will see them housed in the east wing, away from the training grounds." A finger moved across the parchment, settling a border. "The guest list is decided. Kasimir's people. Cräusen's, if he sends them. No one whose presence asks a question we cannot answer." He paused. "Hagen and the girl marry, the houses are bound, and the two of them are gone before the first frost. I want it done quickly and I want it done quietly. Weddings are arrangements, not festivals."
+
+"Yes," Ameriz said.
+
+"The flowers, the table, whatever else women decide such things require — that is yours. I expect to hear nothing about it until the day."
+
+"Yes."
+
+He turned a page. The conversation was over; he simply had not yet said so.
+
+"That will be all."
+
+She inclined her head and withdrew, and the doors closed behind her.
+
+The corridor was cold. She had long ago stopped noticing whether the cold came from the walls or from her. She walked it slowly. Her own reflection moved beside her in the dark glass of the cabinet panes. Blue-black hair, a straight back, a face arranged into the smooth, untroubled mask that was the only thing Roderich had ever truly required of her.
+
+Be the perfect wife. She had been told it the first year by her own mother. For your good and the good of your house, be what he needs and nothing he doesn't. It had seemed, at twenty, like a small price.
+
+She stopped at the window at the end of the gallery and laid her palm flat against the stone sill, and the old reflex rose before she could stop it — a thread of cold uncoiling from somewhere behind her ribs, racing down her arm. Frost bloomed under her hand, crackling across the granite.
+
+For one breath she looked at it.
+
+Fifth Circle. There had been a time when men in three kingdoms envied her. She had been a feared thing once. She had carried winter in her hands and chosen where it fell.
+
+She closed her fingers. The frost retreated, drawn back into her. The sill was warm stone again.
+
+This was the bargain. Survival had a cost and the cost was paid in pieces of yourself, and she had paid and paid until she was not certain what had remained.
+
+She had paid in a son.
+
+She let the thought come because punishing herself was the closest thing to honesty she had left. She had a choice. Years ago — an actual choice. The boy, over the survival of her family — of House Voralberg.
+
+She told herself, still, that it had been the only choice.
+
+She came to the eastern terrace because below her on the packed earth of the training ground a small figure was already at work.
+
+Alrik.
+
+Fourteen, and out before dawn as he was every morning. A fire bolt leapt from his palm, struck the iron dummy.
+
+Alrik set his feet again. Did it again.
+
+She watched him until the sun cleared the wall, and the watching was the only peace she was allowed and she took all of it.
+
+When she went back inside, the newspaper was waiting on the small table where the steward had left it.
+
+Once it had been Asena. Her younger sister, far away in the capital, sending word when she could. The boy got into the academy, the boy is doing fine, the boy is close to graduating. Small mercies smuggled past Roderich's order that no one in the house was to speak of him at all. Ameriz had lived for those letters.
+
+She did not need them anymore. Something had changed when her son came back from the dead. She no longer had to wait for a sister's hand or strain to overhear a report meant for Roderich. She only had to wait for the papers, because the whole Empire was reporting on him now.
+
+She picked it up.
+
+THE PYRE EXTINGUISHED. Below the headline, an engraving: a smoke-stained house, a family of four gathered in the doorway. Before them a tall figure with white hair.
+
+Kaspar von Hexenzeit.
+
+The name her husband had forbidden the house. Printed in type as tall as her thumb, beneath a picture of strangers he had saved.
+
+She looked at it a long while. The mask did not move. The frost did not come. She had grown very good at letting nothing show.
+
+She set the paper down, drew the long sheet of the guest list toward her, and went back to arranging the wedding of the girl who had once been promised to her son.

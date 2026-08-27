@@ -1,0 +1,499 @@
+---
+id: ea341ceb-2006-5b34-a276-3fbdf72e1709
+page-type-slug: story-chapter-royal-road
+title: "Chapter 95: Viktor"
+slug: 0095-chapter-95-viktor
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 95
+ownLength: 4543
+unit: words
+publishedAt: 2026-07-27
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3733920/chapter-95-viktor"
+royalRoadId: "3733920"
+---
+
+The Steinhauer estate sat three streets east of the central promenade, behind a wrought-iron fence.
+
+I stood on the opposite pavement the first morning.
+
+Two stories of pale limestone, the upper windows shuttered against the summer heat, a carriage house at the rear with the doors standing open to show a single vehicle inside. The garden was the giveaway. Overgrown hedges, untrimmed rose bushes gone leggy and wild, a gravel path that needed raking. The house itself was well maintained, but the garden spoke of a household that had pulled its resources inward, attending to the visible and letting the peripheral go.
+
+Money trouble, I thought. Or attention trouble. Someone in this house stopped caring about the parts they couldn't see from the windows.
+
+I didn't approach. I walked past, crossed two blocks, circled back through the parallel street, and walked past again. I counted windows. I noted the servants' entrance at the side.
+
+Advanced Mana Perception opened as I passed, and the house resolved into dim shapes of living warmth. Three signatures on the ground floor. One above, faint, likely sleeping. The cores were modest, the mana densities of people who had never pushed past the First or Second Circle. Household staff. Family.
+
+No Fourth Circle. No fire affinity.
+
+Viktor von Steinhauer wasn't home.
+
+The first week my approach was with his neighbors.
+
+I dressed down. Plain robe, no Iron Cross emblem, no sword. A man with white hair asking about the family next door might draw attention, so I kept the hair tied back and wore a cap Asena had dug out of Eren's closet that was too small and made me look like a dockworker who'd wandered uphill.
+
+Servants talked. That was the universal truth of noble households. The masters kept their silence behind marble walls, but the people who carried their water and swept their floors talked to each other across garden fences and in market queues and over beer in the evening, and what they said was more reliable than any official record.
+
+I started with the baker's boy.
+
+He delivered to four houses on the street. I fell in beside him on his return route, bought a roll from his tray, and asked a question about the neighborhood. A question led to another, which led to a name, which led to a cook at the house two doors east of the Steinhauers who had worked the street for eleven years and knew everyone's business.
+
+The cook was a heavy woman named Margit who kept a kitchen garden behind her employer's carriage house and was happy to lean on the fence and tell me about the neighbors while she pulled weeds.
+
+"The Steinhauers." She straightened and pushed hair from her eyes with the back of a dirt-caked hand. "Good family. Quiet. The lord keeps to himself. The lady does some charity. Two daughters, both married well. And the son."
+
+She said the son the way people said the weather when the weather had been bad for a long time.
+
+"Viktor," I said.
+
+"The golden boy." Margit's mouth twisted. "Smart as a whip, that one. Middle child, but the one everyone talked about. Got his Fourth Circle before twenty. The Academy wanted him. The Ministry wanted him. Three houses tried to arrange a match before he was nineteen."
+
+"And then?"
+
+"And then he left." She shrugged. "Finished at the Academy and just — walked away. His mother cried for a week. His father stopped mentioning him at dinner." She pulled a weed and shook the dirt off its roots. "He comes back now and then. Once a month, maybe less. Stays a night or two. Takes his old room, eats at the table, doesn't say where he's been." She dropped the weed into a bucket. "Nobody asks anymore."
+
+"Where does he go?"
+
+Margit gave me a sideways look. The look that said you've been getting information for fifteen minutes and I'm not so stupid I haven't noticed.
+
+"North," she said. "The clothes are always wrong when he comes back. Too heavy. Fur-lined."
+
+I thanked her and moved on.
+
+The other two names took less time.
+
+Lukas von Breitenbach, the first name on Saskia's list, held a research post at the Academy's Department of Defensive Applications. I confirmed his location within three days — steady employment, regular hours, a man who arrived at his laboratory at seven each morning and left at six each evening. His colleagues described him as meticulous, quiet, absorbed in his work. Two of them used the word gentle.
+
+His mana signature, read at a distance of twelve meters, was Third Circle and clean. No residual combat signatures, no trauma in the tissue, nothing that suggested he'd cast an offensive spell in years. His fire affinity was present but secondary, subordinate to a dominant earth alignment.
+
+Not him.
+
+Theresa von Hallström took a week. She had left the capital six months earlier for a teaching position at a provincial academy in the mountain towns. I confirmed it through the Academy's central registry, cross-referenced it with travel records from the Iron Cross authority network, and verified it with a comm-crystal call to the provincial school's administrative office. She had been in her classroom on the dates of all three attacks.
+
+Not her.
+
+By the end of the third week, the list was one name long.
+
+Three weeks.
+
+That was how long the wait lasted. Three weeks of surveillance, of rotations, of soldiers I'd requisitioned from the garrison posted at observation points I'd mapped around the Steinhauer estate.
+
+I kept the investigation annotated. Every detail. The delivery schedule. The servants' routines. The mother's charity meetings. The father's evening walks. The household correspondence, which I couldn't intercept without a warrant I didn't have.
+
+So I waited.
+
+The soldier found me at the workshop.
+
+He was young, one of the garrison recruits I'd posted in the rotation. He came through Asena's door at mid-morning with sweat on his collar and the breathless look of a man who'd run the whole way.
+
+"He's back," he said. "Just arrived. I saw him enter through the front gate. He's still inside."
+
+I set down the casing I'd been finishing.
+
+"What was he wearing?"
+
+The soldier frowned, trying to remember. "He had a coat over his arm. Heavy. Fur collar. Dark. The kind you'd carry back from—"
+
+"The north."
+
+"Yes, sir."
+
+I found a position to watch.
+
+A tea house on the corner, two buildings down from the Steinhauer estate, with a window table that gave me a clean sightline to the front gate and the garden path beyond it. I ordered a pot and let it go cold in the cup while I watched.
+
+He came out at half past one.
+
+The front door opened and Viktor von Steinhauer stepped into the pale afternoon light, and I saw him for the first time.
+
+Tall. Dark hair, cut shorter than the Academy style, practical. A heavy coat hung over his left arm despite the heat — wool, fur-lined collar, the kind of garment you bought in the Republic of Wolkenmark and the kind you wouldn't own if you'd spent the summer in the capital.
+
+He's been north, I thought. Across the border. Weeks, at minimum.
+
+He moved down the garden path to the gate with an easy stride, no hurry. His mother appeared at the door behind him, said something I couldn't hear. He half-turned, smiled, raised a hand. She watched him go.
+
+I let him reach the end of the street before I stood.
+
+Mana Perception was ready the moment the door moved, and what it showed me changed everything.
+
+His core structure blazed. Even at this distance, through glass and stone and the ambient noise, the output was unmistakable.
+
+Five Circles.
+
+I had read enough mages to know the difference. Advancing by even one circle was a leap — simple in the early stages, perhaps, but after the Third Circle it became an effort that could take years, sometimes decades. Saskia's file had him at Fourth. This wasn't months of honest work.
+
+Not unless he was a genius. Or something was pushing him.
+
+If he knew I was following him, I'd have a real problem.
+
+I pulled the cap lower over my hair and followed.
+
+Three days.
+
+I guessed it would take three days. Because a man who'd killed three families and walked away clean each time would not stop on his own.
+
+There's always a next one.
+
+The first day, Viktor stayed home. He ate with his family. He sat in the study with his father.
+
+The second day, he went out.
+
+I followed at seventy meters, then eighty when the streets thinned, reading his path through the city. He met two men his age outside a coffeehouse near the Academy quarter. Former classmates. They walked together. He bought a paper from a street vendor, tucked it under his arm without reading it. They found a tavern in the mid-quarter, a clean establishment with brass fixtures and good light, and they drank.
+
+I sat three tables away and listened to nothing useful. Academy gossip. A research grant someone had lost. A woman one of them was pursuing and the other two were advising him badly about. Viktor laughed in the right places and said little.
+
+His eyes, though. In the moments between the laughter, when his companions looked away or signaled the barman or argued across each other, Viktor's eyes went somewhere else. Somewhere behind the performance. The smile stayed, but the thing driving it left the room.
+
+He's waiting, I thought. Counting the hours until they leave.
+
+They drank until the lamps were lit and the street noise softened. The companions departed with embraces and promises to meet again. Viktor watched them go.
+
+Then he went home.
+
+I followed him to the Steinhauer gate and watched the front door close behind him and stood there in the dark.
+
+Not tonight.
+
+The third day.
+
+Viktor left the house at noon. Walked the same route to the same coffeehouse. But the companions didn't come. He sat alone, read the paper he'd bought, ate a plate of something I couldn't see from across the street, and left at two.
+
+He returned to the estate. The front door closed.
+
+I waited.
+
+Dusk came.
+
+Shutters closed up and down the row. The soldier at the observation post signaled — three taps on the comm crystal, the pattern for no movement.
+
+I sat in the rented room, close to the Steinhauer estate, with my sword across my knees and the case file open on the table.
+
+Tonight.
+
+I couldn't have explained how I knew. It was not Mana Perception. It was not Senses or any skill. It was just my instinct.
+
+He would move tonight.
+
+The hours passed. Nine o'clock. Ten. Eleven.
+
+At half past eleven, the comm crystal pulsed.
+
+One tap. The pattern for movement at the front gate.
+
+I rose.
+
+Viktor crossed three streets heading west before I caught his rhythm.
+
+He walked differently now. The easy stride was gone. No heavy coat over the arm, just a dark jacket that blended into the shadows between the mana-glow pools.
+
+He didn't check behind him. Not once.
+
+Confident, I thought. Or arrogant. He's never been followed before.
+
+The route took him deeper into the noble quarter, past the estates I knew and into a stretch I didn't. Wider lots here. Older stone. The houses set farther back from the street, behind walls and hedges.
+
+He stopped.
+
+I stopped fifty meters behind, pressing into the shadow of a garden wall, and watched.
+
+The house he'd chosen was modest by this street's standards. Two stories of gray stone. Dark windows. The household asleep. A single lamp burned in a ground-floor room, the warm amber glow of a reading light left on by someone who'd gone to bed without remembering to put it out.
+
+Viktor stood at the gate for ten seconds. His head turned, scanning the street in both directions.
+
+I held my breath.
+
+His gaze passed over my position without stopping.
+
+He pushed through the gate and walked up the garden path to the front door.
+
+I drew my sword.
+
+The steel came free without a sound. I held it low against my leg as I crossed the distance, each step placed on the balls of my feet, Cael's old training humming through the muscle memory.
+
+Stop having shoulders. Become the gap between things.
+
+Viktor's hand closed around the door handle.
+
+I felt the mana spike. A tight, precise application of thermal energy. The brass handle glowed cherry-red for an instant, then sagged and dripped. The lock mechanism, heated past its tolerance, let go. The door swung inward on its hinges without a sound.
+
+He stepped inside.
+
+I was twelve paces behind.
+
+The entry hall was dark and narrow, an old house with walls too thick for the summer heat to penetrate, smelling of furniture wax and dried lavender. A stair rose to the left. A corridor ran to the right toward the kitchen.
+
+Viktor's footsteps moved upward.
+
+I came through the ruined door and eased it shut behind me, one hand on the frame to stop it from swinging. Mana Breath ran at full throughput through my chest, flooding my legs and arms, the mint-burn settling into the tissue with the smoothness of an old companion.
+
+Upstairs, I heard it begin.
+
+A sound of something heavy being struck. Metal on metal. The shriek of iron under impossible stress being wrenched from its shape by brute magical force. A man's shout.
+
+Then the fire.
+
+The mana signature bloomed through the ceiling. The fire didn't build. It was simply there, willed into existence with the elven direct-shaping that no human caster should have been able to produce.
+
+I took the stairs three at a time.
+
+The upper corridor was lit from the far end, where the master bedroom's door hung open. Orange light spilled across the floorboards. Inside, someone was screaming.
+
+I came through the doorway and saw it all at once.
+
+The family.
+
+A man in a nightshirt stood with his back to the far wall, his arms spread wide, his hands shaking. Two children pressed behind him, a girl of perhaps ten and a boy younger than that, their faces white and streaked with tears. A woman crouched between them, her body curled over the smaller child, shielding.
+
+The patriarch was casting. Thin threads of mana ran from his hands into the iron bed frame, twisting it, bending it upward into a crude barrier between his family and the fire.
+
+Viktor stood in the center of the room with flame crawling up his arms.
+
+He hadn't turned. He was focused entirely on the family, on the iron barrier the patriarch was raising between them. His fire pressed against the twisted metal, softening it, warping it, eating through the father's protection inch by inch.
+
+The patriarch's arms trembled. His circles flickered. He wouldn't hold.
+
+I crossed the room in three strides.
+
+I reversed the blade in my grip, and the pommel came around in a short, vicious arc and struck Viktor von Steinhauer in the base of the skull.
+
+The crack carried through the room.
+
+His fire died. All of it. The flames vanished as though a door had been shut on them, the mana collapsing the instant the mind behind it went dark. Viktor's knees buckled. He fell forward, hit the scorched floorboard with his face, and did not move.
+
+The silence that followed hit like a blow.
+
+The patriarch stared at me over the twisted ruin of his bed frame.
+
+"It's over," I said. "Iron Cross Investigation Division. You're safe."
+
+The Iron Cross soldiers arrived within the hour.
+
+I had requisitioned a garrison squad before following Viktor that evening. Eight soldiers, armored, posted at the nearest watch station with instructions to come running if the comm crystal I carried gave the signal.
+
+The street filled with the controlled chaos of an active crime scene.
+
+The soldiers swept the house floor by floor. Two stayed with the family, guiding them down the stairs and into the ground-floor sitting room where the air was clean and the walls hadn't been charred. One stood at the front door with a logbook, turning away the first of the neighbors who'd begun to gather at the sound of the shouting.
+
+I was in command. The Iron Cross emblem on my coat and the case jacket in my hand and the unconscious mage on the floor with my pommel's imprint on the back of his skull — all of it added up to a scene that the Royal Guard, when they arrived twelve minutes later, could not take from me.
+
+I watched the duty sergeant's face when he came through the door and found Iron Cross soldiers and a Knight already holding the site. The frustration was plain. The resignation came after.
+
+"Iron Cross jurisdiction," I told him. "The Investigation Division has been assigned this case. Your men can hold the perimeter."
+
+He didn't argue.
+
+Viktor was bound before he woke. Wrists locked in reinforced manacles, the kind with runic suppressors etched into the inner bands, designed to disrupt a mage's casting channels. His ankles were chained. His mouth was gagged with a leather bit strapped behind his teeth.
+
+Even chained, even gagged, even unconscious, the soldiers watched him carefully.
+
+I stood over him and waited.
+
+One of the soldiers approached and kept his voice low.
+
+"Sir. I've sent word. The Imperial Prison's specialist wardens are en route. But they're coming from the eastern wing. Two hours, possibly three."
+
+"Understood."
+
+"No higher-ranking Knight is available." He paused. "The scene is yours, sir."
+
+I nodded. He returned to his post.
+
+The house was quiet. Downstairs, the murmur of the family being comforted by the soldiers. Outside, the faint sounds of the Royal Guard perimeter doing its work. In this room, only the creak of cooling timber and the slow, measured breathing of an unconscious man.
+
+I crouched beside Viktor's prone form and went through his pockets.
+
+Left breast pocket: a folded handkerchief, clean. Right breast pocket: a small purse with seven gold crown coins. Inner coat pocket: nothing.
+
+Trouser pockets: a ring of three keys on a leather thong. A stub of pencil. And a newspaper.
+
+I pulled the newspaper free.
+
+It was the same paper I'd watched him buy from the street vendor three days ago. Folded to a quarter, creased along the spine, tucked against his hip.
+
+I unfolded it.
+
+Not the Chronicle. Not the Gazette, not the Register, not any of the capital's established broadsheets. This was smaller, cheaper, the paper thin enough to read through if you held it to the light. The masthead read The Academy Voice in hand-set type that sat slightly crooked on the page. Below it, in smaller print: A Student Publication of the Silberwald Magic Academy — Volume XII, Issue 34.
+
+A student paper.
+
+I turned through the pages. Commentary on research funding. A letter from a third-year about dormitory conditions. A satirical column about the food in the refectory hall.
+
+Viktor had marked it.
+
+Small, precise pencil strokes. Single lines drawn beneath individual words, so faint that a casual reader would miss them entirely.
+
+In the first article, a mark beneath the first word of the first line.
+
+In the second article, a mark beneath the second word of the second line.
+
+In the third, the third word of the third line.
+
+A cipher. Simple. But effective, because no one was looking for coded messages in a student newspaper.
+
+I read the marks in sequence.
+
+The marked words assembled into an address.
+
+It was the address of the house I was standing in.
+
+I looked at Viktor's unconscious form on the floor.
+
+I looked at the newspaper.
+
+He didn't choose his targets. Someone chose them for him.
+
+I folded the newspaper carefully and slid it into my coat.
+
+Then I pulled a chair from the corner and sat down three paces from Viktor's prone form.
+
+I set my sword across my knees.
+
+And waited.
+
+He came back to consciousness in stages.
+
+First the breathing changed. Then the fingers. Small flexions, testing the manacles, discovering the weight and the limitation.
+
+Then the eyes.
+
+They opened and found the ceiling. They moved to the walls, the scorched floorboards, the ruined bed frame. They found the chains on his wrists. The chains on his ankles.
+
+Then they found me.
+
+Something happened behind Viktor's face. Recognition, followed by calculation, the rapid internal arithmetic of a man who'd woken in a situation he hadn't planned for and was already looking for the exit.
+
+I reached forward and pulled the gag from his mouth. Giving him time to understand that I was choosing to let him speak, and that the choice could be reversed.
+
+He worked his jaw. Swallowed. The bruise on the back of his skull was swelling.
+
+"Iron Cross," he said. His voice was dry and rough, but steady. "The Hero of Grenzheim."
+
+"The Pyre," I said.
+
+A muscle moved in his jaw.
+
+"That's what the soldiers call you," I continued. "The press hasn't heard it yet. But they will."
+
+He said nothing.
+
+I leaned forward in the chair, forearms on my knees, and studied him the way I'd been studying his house for six weeks.
+
+"Your family is in a lot of trouble," I said. "You understand that."
+
+The calculation cracked.
+
+"House Steinhauer will be investigated," I went on. "Your father's position. Your mother's boards. Your sisters' marriages. Every alliance, every association, every conversation anyone in your family has had for the last five years. It will all come apart." I kept my voice level. "They'll be shunned. Perhaps expelled from the capital. The name will carry this."
+
+Viktor's throat moved.
+
+"There was no avoiding it," he said.
+
+"No?"
+
+"No." His eyes met mine, and I saw the thing I'd been looking for. Conviction. The flat, bright certainty of a man who had stepped past every line and come out the other side still believing he was right. "Everything I've done has been for the greater good."
+
+I didn't react.
+
+"How does burning noble families serve humanity?" I asked.
+
+Viktor was quiet for a moment. When he spoke again, his voice had changed.
+
+"The greater good isn't humanity's," he said. "That's the mistake we've made. For seven hundred years we've told ourselves this world belongs to us. That the Sins are invaders. That the portals were an assault on our home." His chains clinked as he shifted. "But life exists beyond us. We're not the only ones who deserve to be here. The elves. The others. They came from dying worlds. They came because they had no choice. We've spent seven centuries trying to exterminate them for the crime of surviving."
+
+I watched him. His breathing had steadied.
+
+"The world is meant to be shared," Viktor said. "Not hoarded. Not defended with walls and trenches and a philosophy that says everything beyond the border deserves to die." He met my eyes again. "The nobles don't understand that. They sit in their comfortable houses and they refuse to choose. They refuse to see that coexistence is the only path that doesn't end in extinction. They need to be shown."
+
+"Shown," I said. "By burning their children."
+
+"By waking them up." The conviction didn't waver. "The comfortable don't move until they're uncomfortable. The safe don't act until they're unsafe. I gave them a reason to choose."
+
+I heard it.
+
+Beneath the philosophy, beneath the careful reasons of a man who'd built a moral framework around the thing he wanted to do, I heard it.
+
+Bloodlust.
+
+There was conviction in his words. But the man making it had burned children alive in their beds.
+
+The philosophy was real. The pleasure was also real. And the two had fused inside Viktor von Steinhauer.
+
+Viktor saw something in my face. The conviction in his eyes shifted, softened, and what replaced it was something I hadn't expected.
+
+Confidence.
+
+"Who taught you to cast without a matrix?" I asked.
+
+The question landed. I saw it in the flicker behind his eyes, surprise that I'd noticed.
+
+He said nothing.
+
+"Elven direct-shaping," I continued. "No human institution teaches it. No Imperial curriculum includes it. Someone trained you. Someone on the other side of the border, or someone who crossed it."
+
+Viktor's mouth curved. Not quite a smile. The expression of a man who knew the value of what he held and had no intention of spending it.
+
+"How many others are there?" I asked.
+
+"Enough," he said. "Enough that my absence won't matter."
+
+"Names."
+
+"No."
+
+"Locations. Funding. How the targets are chosen."
+
+"No." The half-smile stayed. "You can ask until the wardens arrive. I'll give you nothing that matters."
+
+The newspaper sat in my pocket. The cipher decoded. The trail already mine.
+
+You've given me more than you know, I thought.
+
+I leaned back in the chair.
+
+"You've already given me enough," I said. "You named a princess."
+
+The smile didn't falter. If anything, it sharpened.
+
+"You can chain me. You can file your reports. But you won't hand me to a court." His voice carried the calm certainty. "I know too much. About the group. About the princess. About things that would shatter this empire if they reached a public tribunal. Elara knows that." He let the words settle. "She'll make sure I never testify. One way or another."
+
+I watched his face. He believed it, believed in his own importance with the bone-deep certainty of a man who'd never considered that his usefulness had an expiration date. A piece too valuable to sacrifice.
+
+He didn't see what I saw. She wouldn't extract him. She'd bury him.
+
+And if she does it, I thought, it happens in a cell. No trial. No record. No justice for the families he burned.
+
+"Which group?" I asked.
+
+"What?"
+
+"You said you've done too much for a group."
+
+The smile died.
+
+He didn't answer.
+
+I lowered my head.
+
+The silence in the room was total. The soldiers at their posts. The chains on the floor. The smell of char and cooling iron and the faint, bitter trace of elven-pattern fire still clinging to the walls.
+
+I thought of the children.
+
+I thought of the family behind the patriarch's twisted iron barrier, the girl pressing her face into her mother's shoulder.
+
+I thought of the courtroom. Of the princess's people finding a way to silence him before he ever reached it. Of the group scattering the moment they learned their man had been taken alive.
+
+The newspaper was in my coat. The cipher decoded. The trail was mine, and mine alone. If Viktor lived, the group would learn they'd been found. They'd scatter. The only way to keep the trail was to end the man who could warn them.
+
+"Your Creator will judge you," I said quietly. "Whether your acts were right or wrong. Whether your cause justified the children you burned."
+
+Viktor's eyes went wide.
+
+I stood.
+
+I drew the sword.
+
+"I won't let a judge do it," I said. "And I won't let a princess stop it."
+
+Viktor's mouth opened. Whatever he meant to say never made it past his teeth.
+
+The blade came down.

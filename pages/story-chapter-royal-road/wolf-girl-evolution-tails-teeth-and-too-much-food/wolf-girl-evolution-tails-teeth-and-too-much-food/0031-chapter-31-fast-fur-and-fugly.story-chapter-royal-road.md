@@ -1,0 +1,225 @@
+---
+id: d2669e96-dbad-5b2e-853d-f6f6f1190c1d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 31: Fast, Fur, and Fugly"
+slug: 0031-chapter-31-fast-fur-and-fugly
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 31
+ownLength: 1332
+unit: words
+publishedAt: 2025-09-18
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2610819/chapter-31-fast-fur-and-fugly"
+royalRoadId: "2610819"
+---
+
+PoV Luna
+
+Luna froze in place, tail flicking side to side. Her ears twitched forward, then back, then forward again. This was it. Big THINK time. The biggest!
+
+She needed the ugly. The wrong-ogre. Mireback. The stink still stuck in her teeth. But her paws refused to lead her back to pack land. No stepping there. No sad tail.
+
+Her tongue lolled as she grinned at the forest.
+
+Fine! If she could not go through, she would go around!
+
+A biiiiig circle. A fast loop. She would run wide around the pack’s ground until her nose caught the sour rot of the ugly. Brilliant. Perfect!
+
+Her chest puffed. Her tail wagged sharp and proud.
+
+“Genius,” she panted, licking her chops.
+
+And then she was gone. Before the sound of her declaration even fully rang out!
+
+Roots thudded under her paws. Shadows split around her. Leaves tore in her wake. She sprinted full Run, breath hot, tongue flapping in the wind.
+
+The world blurred, green and brown streaks racing past her glowing eyes. Each leap stretched farther. Each bound just a little heavier. Her claws dug deep, throwing dirt behind her like spray from a riverbank.
+
+Even shadows helped make the run better. Predator better. More silent. Deadly. And smooth.
+
+Her ears perked at the passing deer, but she didn’t slow. Faster! Faster!
+
+Apex Predator at work!
+
+The scents shifted as she tore across ridges and valleys. Deer trail. Rabbit burrow. A fox’s leftover kill. All of it ignored. Her nose flared wide, hunting not for food, nor for snack – well, maybe snack later – but for stink.
+
+Weird stink. Corrupt stink.
+
+Her paws slid down a slope slick with mud. She bounced sideways, tail flared, legs pumping to catch balance. A low branch lashed across her ears. She ducked, barked a laugh, and pushed harder.
+
+The forest sang in every snap of twig, every gasp of wind between trunks. It welcomed her speed, pulled her forward, urged her to go until her legs burned.
+
+Luna could feel her legs locking up with power, from paw to shoulder. Strength filling her strides. Adjusting, until she could do even better.
+
+A boar grunted in surprise as she bolted past its wallow. Luna snapped at its ear in passing, teeth clicking air a mere inch away, then was gone before it finished squealing.
+
+Her chest hammered, but her grin never faded. This was it. This was genius hunting. Not straight lines, not dumb stumbles, but loops and circles and fast clever paws.
+
+And then her nose twitched.
+
+Something foul clung faint at the edge of the breeze.
+
+Her ears shot tall. Her tail stiffened.
+
+Found it.
+
+And there–
+
+strike!Rabbit down!
+
+bite, munch, ptui!Barky taste, rude squirrel.
+
+thud, claw, headbutt, victory paw!Fox finished!
+
+Easy meat scattered the loop, and Luna never left food behind! Bad taste or not, food was food!
+
+She ate quick, chewed quicker, spat out twigs and fur, and trotted on with tail wagging.
+
+【Run Lv.6 → Lv.7】
+
+Her ears perked. Ooh! Tasty level.
+
+She bounced three times in celebration, tongue out, eyes gleaming.
+
+Then her nose wrinkled, ears flattening.
+
+Right. Where was she at?
+
+Exploring. Important exploring! Seeing more, knowing more. Sniff until ugly stink showed itself, and with it, its fugly lair.
+
+Her paws carried her wide through the trees until a breath of pack scent drifted across her muzzle. Mother, pups, den stone. Her chest squeezed.
+
+She veered hard away, tail stiff. No sad allowed. This was a no-sad run!
+
+The mud ahead burped.
+
+Splat.
+
+Luna’s paw sank into a slime.
+
+She pounced before it could wiggle. Blam! Goo splattered wide. Steam hissed.
+
+She sniffed, licked.
+
+“Ow.”
+
+Her tongue fizzed. Spicy? Strange spicy. Weird burn. Hurt but also tasty? Tail wagged in confusion. Not-nice. Nice?
+
+Both.
+
+The little crunchy core, though, that was good. She chewed it down with smug snaps.
+
+Luna trotted ahead. Her ears twitched again.
+
+Ooh?
+
+The ground ahead bubbled. A pond sagged under its own slime weight, surface popping and spitting. Too many slimes all crammed together, glowing hot. With a big red one at the center.
+
+【Enemy Found: Burning Slime Matriarch】
+
+“Yip!”
+
+Yep yep. Too sizzly for sure!
+
+A glob of molten goo spat her way.
+
+“Ha!” Shadow Step! Gone.
+
+The glop splashed where she had been, smoking bark into ash. She reappeared two stumps away, cackling through her panting.
+
+“Too slow!”
+
+Her paws carried her onward before the matriarch could spit again. She tore through fern and root, breath fierce, speed sharp.
+
+Then her nose froze mid-sniff.
+
+The air curdled.
+
+Rot. Bone. Wrong bark. Wrong blood. The heavy memory slammed into her tongue. Mireback.
+
+The ogre stink.
+
+Her hackles lifted, teeth showing in a low, steady growl.
+
+That smell had dug into her ribs before. It had clung to her pack’s fur. It would never leave her nose.
+
+She slowed, every paw heavy, eyes wide.
+
+Yes. She knew it.
+
+Revenge.
+
+Her chest burned with it.
+
+But her tail swayed, steady, firm. Not yet. Not dumb.
+
+First, she had to find the lair. The ugly’s nest. Then she would bring spice-friends, claws, teeth, and bite until the wrong stopped.
+
+Her grin cut sharp through the growl.
+
+This time, the ogre would feed her.
+
+Luna slipped through the undergrowth, paws brushing soft moss, tail low but steady. Every step was light, every breath sharp. The forest parted for her as if it knew she was hunting.
+
+The stink pressed closer with each sniff. Thick. Rotten. Wrong.
+
+Her nose wrinkled. Bark carried the taste of sour blood. Roots reeked of bruised sap. Even the air felt scraped raw.
+
+Then a new scent. Sharp, sudden.
+
+【Enemy Found: Corrupted Forest-Stalker】
+
+Between two trees staggered a deer-thing, its antlers blackened, its eyes foaming white. Legs twitched crooked with every step. Its breath wheezed and hissed like old swamp bubbles.
+
+Luna’s ears flicked back, but her paws didn’t slow.
+
+“Not now, stupid deer,” she muttered.
+
+It lunged, hooves scraping dirt. She barked a laugh, tail wagging as she surged ahead. Too weak. Too slow! She left it choking on her pawprints.
+
+Apex Predator Luna! Always faster.
+
+The forest blurred around her. She counted her speed in tongue-lolls, tail-wags, squirrels dodged mid-leap. Her chest burned, but her grin never broke.
+
+And then the trees opened.
+
+A clearing stretched wide, tangled in green shadow. Not empty. Not clear. Stone bones rose from the earth, half-swallowed by moss and vine. Broken walls leaned against each other like tired teeth.
+
+Ruins. Old scents. Quiet. Except for the stink. That felt new. And many. Strong.
+
+They hit her all at once. Blood, wet and sticky. Bark crushed until it screamed. Sweat baked into dirt. Rot layered thick over everything.
+
+Her fur bristled. Her paws pressed flat.
+
+At the far edge of the ruin, behind a stand of crooked pillars, it moved.
+
+A head. A shoulder. Heavy breath rattling across the stone.
+
+The ogre. Mireback.
+
+Still breathing. Still ugly. Still hers to hunt.
+
+Luna’s tail froze, every muscle tight. Then she dropped low, shadows curling across her pelt, Shadowmeld aiding her hiding.
+
+Her outline blurred, melting into shadowed moss and rock.
+
+The ogre turned once, a lumbering twist of its shoulders. Its gaze slid across the ruin. Clumsy. Slow. It didn’t see.
+
+“Ha,” Luna breathed, teeth flashing in a hidden grin. Silly lug. Shadows too smart for you.
+
+Her chest thrummed with pride. She had it. The place. The ugly. The lair.
+
+Now she could lead the new-pack here. Now she could finish what began with blood and broken bark.
+
+Revenge tugged sharp in her ribs, but her tail still wagged. Because revenge also meant reward.
+
+Yes!
+
+Surely soup. Surely jerky. Maybe both!
+
+Luna licked her chops, stomach already rumbling at the thought.
+
+Her grin widened in the dark, shadow-sharp and spice-hungry.
+
+The adventurers would soon learn just how much food a wolf pup could wolf down…
+
+…if said wolf pup was given all the spiced food the wolf could ever hope to wolf down on!

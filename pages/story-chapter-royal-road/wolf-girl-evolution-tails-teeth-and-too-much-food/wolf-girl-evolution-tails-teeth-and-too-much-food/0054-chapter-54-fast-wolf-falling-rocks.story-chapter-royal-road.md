@@ -1,0 +1,369 @@
+---
+id: 41a09049-c5f5-569d-a70a-4c69d3a9bdb7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 54: Fast Wolf, Falling Rocks"
+slug: 0054-chapter-54-fast-wolf-falling-rocks
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 54
+ownLength: 1830
+unit: words
+publishedAt: 2025-10-17
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2684526/chapter-54-fast-wolf-falling-rocks"
+royalRoadId: "2684526"
+---
+
+PoV Luna
+
+And so she ran.
+
+And ran.
+
+And ran!
+
+The ruins blurred around her in streaks of gray and green, every stride sending a pulse of joy through her legs. The air whistled past her ears, carrying dust, moss, and the faint tang of old magic. Her paws hit stone in sharp rhythm – clack, clack, clack – and her barks of laughter spilled through the empty halls.
+
+At first, Luna ran carefully. Very carefully.
+
+Apex Predator caution!
+
+And Syl had said no biting, and when Syl said things with that calm, steady voice, it usually meant those words were Important Things.
+
+So Luna sniffed before she pounced. Peeked before she leaped. Didn’t chew everything.
+
+But nothing tried to bite back. Nothing hissed, exploded, or even smelled funny at her!
+
+Only those weird little rock-things waddled between cracks in the floor – tiny golems with glowing eyes and squeaky feet. They looked nervous. Squirrels made of pebbles.
+
+No threat.
+
+Caution? Gone.
+
+Speed? Maximum!
+
+She leapt over broken stairways and slid through gaps in fallen pillars, her tail streaming silver through the air. Every breath came sharp and sweet.
+
+She let herself just run, the joy of her muscles moving, of the world blurring around her, and the happy panting was its own reward!
+
+And then… Luna saw a glint!
+
+She froze mid-stride, claws scraping stone. Her ears perked tall.
+
+“Oh?”
+
+Something sparkled in the dust near a collapsed arch. Small. Round. Shiny.
+
+Was this the treasure her pack was rambling on about?
+
+She crept closer, crouched low, nose twitching.
+
+Sniff.
+
+Sniff again.
+
+Poke.
+
+Lick.
+
+Bleh. Dust and old magic fizzled against her tongue, dry and buzzy. Definitely not spice. Definitely not food.
+
+Still… it sparkled very convincingly.
+
+She tilted her head, thinking deeply about Syl’s “no biting” rule.
+
+Maybe – if she carried it? Carrying wasn’t biting. Technically.
+
+Probably!
+
+Satisfied with her flawless logic, Luna grabbed the shiny between her teeth and took off, tail wagging high.
+
+By the time she reached the others, they were still trudging along the outer path, boots slow, armor clinking, checking everything. Boring noises of dum-dums being dum-dums.
+
+Luna bounded into view, skidding across the dirt and landing in front of Syl. The shiny dropped at the elf’s boots with a proud clang!
+
+“Luna scouted! Luna found treasure!”
+
+Syl blinked once, trying to parse the meaning from her bark. Then again.
+
+“You… found this?”
+
+“Treasure!” Luna barked, tail sweeping the ground.
+
+Ray leaned down, eyebrows up.
+
+“Looks like a mana condenser orb. Haven’t seen one intact in years, should bring a pretty penny.”
+
+Trianna smirked.
+
+“And she didn’t even bite it apart. Miracles can happen.”
+
+Luna puffed her chest.
+
+“Luna good wolf!”
+
+Syl crouched, eyes soft, and brushed her fingers through Luna’s fur.
+
+“You are. Very good.”
+
+Then came the true reward.
+
+Jerky!
+
+A perfect, glorious strip of it.
+
+Syl held it out without ceremony.
+
+“Good work, Luna.”
+
+Luna didn’t need to be told twice. She snapped it up, tail wagging so hard her whole body wobbled.
+
+The salt burned sweet on her tongue. The meat was soft and smoky. Her tummy aches bearable.
+
+Victory. Delicious, meaty, spice-salty victory.
+
+She crunched, swallowed, and licked her chops clean.
+
+Yes. Best scout. Best treasure hunter. Best pack member.
+
+She would find every shiny in these ruins – and not bite any of them. Probably.
+
+Jerky eaten. Praise received. It was time for more running!
+
+Luna darted through the ruins again, a flash of silver weaving through the gray. Her paws hit stone and moss in perfect rhythm. The air tasted sharp with dust and victory.
+
+【Run Lv.9 → Lv.10】
+
+“Ha! Fast wolf gets faster!” she barked, tail high, bounding between shattered walls.
+
+But plain running? Too easy. Too boring.
+
+Luna needed training. Serious, heroic, amazing training!
+
+She launched up the side of a cracked column, pushed off the top, and landed light on the next slab. The world blurred beneath her. Each leap was a breath. Each landing a beat in her own wild song.
+
+Rubble became her playground.
+
+Arches became hurdles.
+
+Shadows became cheering spectators!
+
+Her claws scraped over tilted slabs, tail slicing through the air like a silver rudder. Her heart thumped to the rhythm of motion – fast, alive, and free!
+
+Almost as good as soup!
+
+Almost.
+
+She grinned wide, tongue lolling.
+
+“Luna best runner! Forest, ruins, everywhere!”
+
+She bounded ahead, beyond the parts she explored before. Then even further ahead, across bounds and sides of arches.
+
+Then her nose twitched.
+
+Something smelled wrong!
+
+The air shifted, just a little bit. Turned more heavy and rich. Moss, earth, and under it all – a spark. Magic. Old and deep and moving! The taste made her tongue buzz.
+
+Her fur rose. Her tail slowed. Her eyes peeked from behind the pillar.
+
+“Ohhh…”
+
+【Enemy Detected: Earthbound Sentinel】
+
+The words glowed faintly across her vision, cold and clear.
+
+Then came the sound.
+
+A slow, grinding rumble rolled through the ruins. Deep, patient, too heavy to belong to anything alive. Somewhere ahead, stones moved where no wind blew. The ground trembled with every breath of the thing below.
+
+Rubble shifted. Dust rained from the broken towers.
+
+Luna’s ears flattened. Her claws dug into the ground.
+
+Something big.
+
+Slow.
+
+And perhaps crunchy?
+
+She crept forward, her movements shrinking to soft, soundless glides. The ruins around her turned into a maze of shadow and stone. Cracked pillars leaned close, blocking the light and catching her breath in their stillness.
+
+The mana smell thickened. It coated her tongue and nose, thick as spice paste.
+
+“Big rock monster?” she whispered, eyes gleaming.
+
+The tremor came again. Stronger. The sound of grinding earth filled the space beneath her paws. One of the larger mounds of rubble shifted. No, stood. A slab peeled upward, revealing a curved back made of black stone veined with dull orange light.
+
+A stone giant. Part statue. Part creature. A walking ruin!
+
+The thing turned. Its glowing eyes opened, twin embers under centuries of dust.
+
+Luna grinned.
+
+“Yes! Training target found!”
+
+She dropped low, weight balanced, tail stiff in excitement.
+
+The Sentinel lifted one arm. Rocks groaned. Moss burned away under the surge of magic gathering in its chest.
+
+Luna’s nose wrinkled.
+
+“Smells spicy.”
+
+The air thickened. The first rumble of a mana surge built in her ears.
+
+Her claws flexed against the stone.
+
+“Okay. Run first. Bite later.”
+
+Then she bolted, avoiding the earthen spike, silver blur flashing into the shadow.
+
+Luna crouched low among the broken stones, hiding, stalking!
+
+Ears flat. Tail stiff. Heart steady.
+
+The big not-ugly was close now. Too close. The air trembled with each heavy step. Dust danced across her nose. Broken chunks of ruin rolled and groaned beneath the creature’s weight.
+
+It wasn’t flesh. She could tell by scent. Stone. Moss. Mana. The air tasted like earth after rain and old lightning.
+
+Good.
+
+She could bite stone. Probably!
+
+The thing pushed through a collapsed archway, its body made of layered rock and rune light. A Sentinel. Its eyes glowed faint blue under the dust.
+
+Luna’s grin sharpened.
+
+She sank into shadow, her fur melting into the dim. Every sound muted. Every scent sharpened.
+
+Shadowmeld. Shadow Step.
+
+Run.
+
+Bite.
+
+Repeat!
+
+She shot forward – silent, sure, fast. Her claws sparked against the stone floor, her teeth flashing toward the creature’s leg.
+
+Crunch!
+
+Except no crunch.
+
+Her fangs met rock. Hard. Her jaw vibrated. A shard chipped free, small and bitter, more moss than meal.
+
+Then came the rumble.
+
+WHAM!
+
+The Sentinel’s arm swung, more a slab of moving wall than an arm, and caught her mid-turn.
+
+The world spun.
+
+【HP -7】
+
+Luna yelped, tumbled twice, crashed into a pile of rubble, and slid to a stop in a cloud of grit.
+
+“Ouch! Mean rock!”
+
+The air behind her thickened, pressure curling tight around her fur. Mana built like a storm about to bite.
+
+Her hackles rose.
+
+“Uh oh.”
+
+She leapt sideways right before the ground burst open. A stone spear erupted where she had been, whistling past her tail with mean precision.
+
+She growled low, eyes narrowing.
+
+Okay. Big rock wanted a fight? It would get a fight!
+
+It tried to throw a spear at her again, but Luna knew its tricks now!
+
+Avoided easily!
+
+Then she dashed forward again, faster.
+
+Shadow Step – blink – Momentum Claw!
+
+Her claws met the Sentinel’s chest with a heavy crack. She twisted her paw, digging into the faint glowing lines across its body. A pulse of mana shuddered up her leg – burning, sharp – and then fizzled into sparks.
+
+It tried to swing at her.
+
+Luna dodged, and did it again!
+
+And again.
+
+And again!
+
+“Ha!” she barked, triumphant. “Luna bites better than mountains!”
+
+The Sentinel shuddered. A long split ran down its chest, spreading fast. The light in its eyes flickered once, then dimmed.
+
+With a final groan, the creature collapsed, breaking apart into heaps of dust and half-crumbled stone.
+
+【Shadow Step Lv.9 → Lv.10】
+
+Victory!
+
+Luna wagged proudly, panting through a grin. The ruins around her were cracked and quiet again, their breath of mana fading into stillness. Only the Sentinel was slowly falling apart.
+
+She pranced through the mess, claws clicking, and spotted a small tree that had somehow grown through the rubble, and got ripped out of the ground during the fight. It leaned against a piece of rubble now.
+
+Perfect throne for a champion!
+
+She hopped onto it, chest high, surveying the wreckage.
+
+Then–
+
+Crunch.
+
+The slab under the roots shifted.
+
+Her ears perked.
+
+“Uh oh.”
+
+The ground dropped. The Sentinel fell forward. On the pointing-to-the-air side. The tree bent, with Luna on it. The entire side of the ruins began to fold inward.
+
+Luna tried to run. Fast!
+
+But it was far too late, the tree whipped her up, flinging her far into the air! Her paws barely touched it, trying to grip it tightly with her paws, but before she could so much as hook a claw in, she got lifted straight off it.
+
+And sent flying!
+
+“Whee–wait, ouch–what–whoa–”
+
+【HP -4】
+
+Air everywhere! Ground nowhere. Luna spinning all around! The forest and ruins spun beneath her paws. Trees. Sky. Trees again. Stomach weird!
+
+“Oh! Trees getting close!”
+
+Luna stared, her flight stabilizing just long enough to get a clear view. Uh oh.
+
+“Trees too close!”
+
+She paddled frantically, legs running on air.
+
+Then memory clicked.
+
+“Oh right! Shadow Step!”
+
+Blink.
+
+The next breath dropped her straight into a patch of leaves and dirt with a soft thud. The momentum still nearly made her sit. But she held, legs trembling.
+
+Silence.
+
+Then laughter.
+
+“Ha! Landed it!”
+
+Her tail thumped weakly against the ground. The ache in her ribs protested, but her grin stayed wide.
+
+She rolled onto her back, staring up through the canopy where bits of ruin dust still drifted through the sunlight.
+
+“That… was… awesome.”
+
+And even as her heartbeat slowed, she was already thinking of how to do it again – only bigger!

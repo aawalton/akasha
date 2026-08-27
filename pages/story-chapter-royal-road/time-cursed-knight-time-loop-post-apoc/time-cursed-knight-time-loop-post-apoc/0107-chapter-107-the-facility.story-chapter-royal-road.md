@@ -1,0 +1,289 @@
+---
+id: 57ca9675-1e04-5615-9940-e46d5e026764
+page-type-slug: story-chapter-royal-road
+title: "Chapter 107: The Facility"
+slug: 0107-chapter-107-the-facility
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 107
+ownLength: 2865
+unit: words
+publishedAt: 2026-08-12
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3805351/chapter-107-the-facility"
+royalRoadId: "3805351"
+---
+
+I pulled back.
+
+"Fall back," I said. "Now. Low and quiet."
+
+Nobody argued. The tone carried what explanation couldn't.
+
+We retreated four hundred meters south, back into the higher grass where the dune ridge's residual elevation broke the sightline between us and the building. I signaled a stop behind a cluster of the broad-canopied trees where the shadow was deep enough to hide the horses.
+
+Voller was the first to speak.
+
+"Sir." He kept his voice low but the confusion was plain. "Those are Imperial uniforms." His jaw worked. "We should hail them. If there's an Imperial installation this far east—"
+
+"If there's an Imperial installation this far east," I cut him, "that no one in the Iron Cross knows about, no one in the military command structure has reported, and no one in the Sultanate's intelligence apparatus has detected — then we do not know who built it, who funds it, or who ordered it."
+
+The words landed in the group.
+
+"Those uniforms could belong to anyone," I continued. "A prince's private operation. A noble house running an off-the-books facility. A faction within the Ministry that's carved out a piece of territory nobody's watching." I held Voller's gaze. "Or something worse. Something that doesn't want to be found."
+
+Voller's mouth compressed into a hard line. He didn't argue.
+
+Ganz spat into the grass. "So what do we do?"
+
+"We watch," I said. "And then we go in."
+
+"When?" Tarek asked.
+
+"Dawn."
+
+Breit's head turned. Her eyes, flat and unreadable through most of the march, sharpened.
+
+"Dawn is the worst time for infiltration," she said. It was the most words she'd spoken in a single sentence since the Empire's border. "You go in at night. Less visibility. Fewer active personnel. Patrol fatigue peaks between the third and fifth hour after midnight."
+
+She was right. By every tactical manual I'd read, by every field doctrine the Iron Cross taught.
+
+Night was better.
+
+But I had something no tactical manual accounted for.
+
+If I die in there, the loop resets at dawn.
+
+Going in at dawn meant the full day stretched ahead of me.
+
+If I went in at night and died at two in the morning, I would wake at dawn having burned the entire day's approach for four hours of intelligence.
+
+I couldn't explain that.
+
+"Dawn gives us the light," I said instead. "I want to see what's inside that building clearly, not through torchlight and shadow. And the patrol rotation will be changing at sunrise, that's when attention is lowest. The night guards are counting the minutes until relief, and the day guards haven't settled into the rhythm yet."
+
+Breit considered this. After a moment she nodded.
+
+It wasn't agreement. It was acceptance.
+
+"We make camp here," I said. "No fire. Cold rations. Two-man watches in four-hour rotations, eyes on the building at all times. I want patrol timing, route patterns, guard numbers, and any movement in or out between now and first light."
+
+The group dispersed into the work of making a cold camp in hostile territory.
+
+The hours passed slowly.
+
+We ate dried meat and flatbread in the shadow of the trees and drank sparingly from the ceramic containers. The horses were hobbled in a line behind the thickest vegetation, their muzzles wrapped in cloth to muffle any sound. Farhan stayed with them, murmuring in Kumsuri, his hands steady on the lead ropes.
+
+I climbed the dune ridge with Tarek as the sun dropped and lay flat on my stomach at the crest, watching the building through the failing light.
+
+The patrols maintained their pattern. Two-man teams, six pairs visible, completing circuits of the perimeter at intervals of roughly twelve minutes. The route never varied. The spacing never changed.
+
+Complacent, I thought. Nobody comes here. They've been alone so long they've forgotten what vigilance means.
+
+That would help.
+
+As darkness fell, the building's interior came alive. Light spilled from the gaps in the collapsed roof and through the vine-curtained windows.
+
+They're working through the night.
+
+I counted the mana signatures inside.
+
+Forty-seven people inside. Thirty-two of them showed the modest, uniform circle structure of trained soldiers. Second and Third Circles. The remaining fifteen were different. Weaker cores. Civilian signatures. Uneven development, the kind that came from practical application rather than military training.
+
+Workers, I thought. And guards.
+
+But that wasn't all.
+
+Two signatures burned hotter than the rest. Both on the ground floor, both near the building's northern end. Fourth Circle. They carried the telltale regularity of Academy-grade conditioning.
+
+Commanders, I thought. Or overseers. Whatever this operation is, someone important enough to hold a Fourth Circle is running it on the ground.
+
+And then there was the third.
+
+It sat in the deepest part of the building. Below the ground floor. A sublevel, maybe, or a natural cavity beneath the foundation that the original builders had excavated and the current occupants had repurposed. The signature was not a Circle structure. It was not any structure I had ever felt.
+
+It was massive.
+
+The mana output dwarfed everything else in the building combined. It pulsed in slow, rhythmic waves that I felt not as a reading but as a pressure against my skull, the way standing too close to a bonfire pressed heat against your face.
+
+Whatever it was, it did not use Circles. It did not channel mana through cores and pathways the way humans did.
+
+That's not human, I thought. The hairs on my forearms stood.
+
+I pressed my jaw shut and kept watching.
+
+Tarek lay beside me, motionless, his dark eyes fixed on the building.
+
+"The eastern face," he murmured. "Where the vines are thickest. The patrol gap is widest there. Eighteen seconds between the sweep of the southeastern pair and the approach of the northeastern pair."
+
+"I saw it."
+
+"Two guards at the rear loading door. They're stationed, not patrolling. But the position is recessed. Partial blind spot from the corner posts."
+
+I nodded.
+
+We watched until the patrol routes were memorized, until the timing was a rhythm I could feel in my pulse.
+
+Then I climbed down from the ridge and returned to camp.
+
+I didn't sleep.
+
+The sky paled.
+
+The eastern horizon went from black to deep blue to the pale gray that preceded the sun by twenty minutes. The temperature, which had dropped to something almost comfortable during the night, held at its low point for those final dark minutes.
+
+I stood and picked up my sword belt.
+
+The camp came awake around me. The tension of the night had settled into them.
+
+I buckled the belt and drew the bastard sword two inches, checking the edge, then let it slide home. The scabbard sat at my left hip, the familiar weight.
+
+On my right hip, in a holster Asena had stitched from oiled leather before I'd left the capital, sat the pistol.
+
+Not a Mark Two.
+
+This one had been built last, in the final three days before departure, when the production line was running and the standard units were being packed for the Sultan's demonstration. I'd pulled Rolf aside at two in the morning and told him what I needed.
+
+The body was ironwood, like the others. But the channel was longer. The copper rails were heavier gauge, the tolerances tighter, the crystal housing recessed deeper into the grip with a double-locking plate that kept the Grade B stone from shifting under sustained fire. The glyph architecture was Rolf's finest work.
+
+Twenty-five shots per crystal instead of forty. But each shot hit harder, flew straighter, and held its accuracy out to thirty meters instead of twenty.
+
+Rolf had called it the Officer's Model.
+
+I drew it from the holster and checked the channel. Three copper balls seated against the rails.
+
+I holstered it and turned to the group.
+
+"Breit. Ganz. You're with me." The mercenaries looked up. "Tarek. You too." The intelligence asset rose from his mat without a word. I looked at the four knights. "Eckhardt left you under my operational command. I need one of you. Someone quiet."
+
+The youngest knight raised his hand.
+
+"I'll go," he said.
+
+Five of us. Enough to move through the building without tripping over each other. Few enough to stay silent.
+
+I turned to Voller and the remaining knights and scouts.
+
+"You hold this position," I said. "Protect the retreat. If we come back running, I need a clear line to the horses and a ready column pointed west." I held Voller's eyes. "The objective is intelligence. We are not here to destroy that building. We are not here to fight the garrison. We go in, we see what's inside, and we come out. If it goes wrong, the priority is getting the information back to Qalathar."
+
+Voller nodded.
+
+"Understood, sir."
+
+I turned east.
+
+We moved through the tall grass in single file.
+
+Tarek led. He had never set foot in this grassland before. None of us had. But it didn't matter. The man read ground the way other people read faces. The wind shifted and his weight shifted with it, his path curving three degrees to keep the grass bending with the breeze instead of against it. A born scout. The kind of man who could be dropped blindfolded into terrain he'd never seen and navigate it in twenty minutes better than a local who'd walked it for years.
+
+Behind him, Breit with her longbow unstrung and held low against her body. Then Ganz, his twin short swords sheathed but the catches released. Dorn behind him, moving with the deliberate silence of a knight trained in the Formation School's Patrol track. I brought up the rear.
+
+My left hand rested on the bastard sword's pommel. My right hung loose near the pistol's holster.
+
+The grass swallowed us.
+
+The wind moved through the field in waves, and we timed our advance to the rhythm, stepping when the grass bent and holding when it stood straight, using the natural motion to mask our own.
+
+Mana Perception was open and running wide.
+
+The building's mana signatures resolved as we closed the distance.
+
+At two hundred meters I could feel the individual guards on the perimeter.
+
+One of them yawned.
+
+They don't know we're here. They've never had a reason to think anyone would be here.
+
+At one hundred meters, I closed my hand on Dorn's shoulder. Who did the same, one by one stopping to column. Dorn to Ganz, Ganz to Breit, Breit to Tarek.
+
+The column stopped.
+
+Tarek turned. His eyes found mine. I pointed low, below the grassline, toward the building's eastern face and then shifted my finger south toward the rear loading door where the two stationary guards held their recessed position.
+
+Tarek nodded.
+
+We circled south through the grass, the column bending in a wide arc that kept us below the sightline of the corner posts.
+
+The rear of the building materialized through the last curtain of vegetation.
+
+Up close, the structure was larger than it had appeared from the ridge. The concrete walls were three meters thick at the base, narrowing to two at the upper level. Steel reinforcement bars protruded from cracks in the surface, oxidized to a deep reddish-brown. The loading door was a sheet of corrugated metal, half-rusted.
+
+The two guards flanked the door.
+
+They stood four meters apart, their backs to the wall, facing outward into the grassland. One had his arms crossed over his chest, his chin dropping toward his sternum in micro-naps that snapped back every few seconds. The other was leaning against the concrete, picking at something under his fingernails.
+
+Neither was looking behind them.
+
+A tap on each shoulder. Ganz and Dorn, left. Tarek, right.
+
+Ganz and Dorn peeled from the column and moved left, circling to approach from the guards' blind quarter. Tarek and I went right. Breit held position in the grass, an arrow nocked, her body still as stone.
+
+The approach took ninety seconds.
+
+We covered the final ten meters at a crouch, each footfall placed on bare soil rather than the dry grass that might have rustled.
+
+I was three meters from the nail-picking guard when Ganz moved.
+
+He came from the left side fast and low, one hand clamping over the sleeping guard's mouth while the other drove the pommel of his short sword into the man's temple. The impact made a sound like a mallet striking wet wood. The guard's knees buckled. Ganz caught the weight and lowered him to the ground in a single fluid motion.
+
+Simultaneously, Dorn closed on the second guard from behind. His arm locked around the man's throat while Tarek's fist came around from the opposite side and struck the base of the skull with a precise, measured blow.
+
+The guard went limp.
+
+Four seconds. No sound louder than a body settling against earth.
+
+Ganz was already producing cord from his belt. He bound the first guard's wrists and ankles. A strip of cloth went between the teeth and tied behind the head. Tarek did the same with the second.
+
+We dragged them into the grass. Twenty meters from the door, deep enough that the vegetation closed over them. They would breathe. They would wake in an hour or two with headaches that would stay for days. But by then, we would be gone.
+
+The building's interior was a single vast space.
+
+The ground floor stretched the full width and depth of the structure. The ceiling was high, the original industrial framework of steel I-beams and concrete panels still intact above the first floor, though gaps where sections had collapsed let columns of morning light fall through in dusty shafts.
+
+Above us, the second floor existed only as a partial skeleton.
+
+What had been the upper story in the building's original life clung to the perimeter walls in fragments. Steel walkways, their gratings corroded but structurally sound, ran along three of the four walls at a height of roughly five meters.
+
+I pointed up.
+
+Tarek looked. Nodded.
+
+We found the staircase at the building's southeastern corner. An industrial spiral of perforated steel. I went first. Each step tested with the ball of my foot before committing weight. My left hand on the railing. My right hand on the pistol.
+
+The others followed in silence.
+
+We reached the upper level and spread along the walkway in a low crouch, pressing ourselves against the remaining wall where the shadows were deepest.
+
+Below us, the ground floor opened like a map.
+
+The floor was divided into rows of long wooden tables, each one running the width of the building. There were dozens of them, arranged in parallel lines with narrow aisles between, the surfaces covered with equipment I recognized immediately.
+
+Glass vessels. Copper distillation coils. Ceramic crucibles blackened by repeated heating. Burners fed by oil lines that ran along the floor in bundled channels. Reagent bottles in wooden racks, each one stoppered with wax and labeled in a script I couldn't read at this distance.
+
+Alchemy.
+
+The smell made sense now. The metallic tang, the acrid chemical bite. It was the smell of a working alchemical laboratory, multiplied by the scale of an industrial operation.
+
+At each table, workers moved.
+
+They were civilians. Men and women in plain clothes. Measuring. Pouring. Heating. Cooling. Transferring. At the far end of each table, the finished product was packed into ceramic vessels and nested into straw-lined crates.
+
+I counted fifteen workers visible from my position. More moved in the shadows at the building's far end, where the lamp coverage was thinnest.
+
+The soldiers were everywhere.
+
+Four per table. Two standing at either end, two patrolling the aisles. They watched the workers, not guarding the workers from threats but guarding the work from the workers. Their eyes tracked hands.
+
+A production facility, I thought. Hidden in the middle of nowhere, staffed by civilians who don't look like they chose to be here, guarded by Imperial soldiers who don't look like they're supposed to exist.
+
+Then I saw the second group.
+
+At the building's northern end, separated from the production floor by a partial wall of stacked crates and supply pallets, a smaller space had been carved out. An office, or a command post. Two desks. A map pinned to the wall. Communication crystals on brass stands. And two people.
+
+I tapped Tarek's shoulder and pointed.
+
+We crept along the mezzanine toward the northern wall, testing each section of walkway before trusting it.
+
+We reached a position directly above the office space.
+
+The two figures stood facing each other across the nearer desk. One was seated. A woman in a military uniform, her posture rigid, her hands flat on the desk's surface. The other was standing, and he was the one I heard first.
+
+"—told you! I told you months ago, I told you weeks ago, I'm telling you today!" His arm swept toward the production floor behind him. "This is insanity. The dosage protocols are pushing the batches past any safe concentration. Every botched compound, every vessel that doesn't hold, it goes into the runoff. Into the drainage channels. Into the river." His voice cracked on the word. "Do you understand what that means? The waste is saturated with raw mana."

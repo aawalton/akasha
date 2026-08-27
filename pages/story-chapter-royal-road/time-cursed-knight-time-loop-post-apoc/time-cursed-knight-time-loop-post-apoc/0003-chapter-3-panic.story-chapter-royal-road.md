@@ -1,0 +1,867 @@
+---
+id: 54a3018a-ba74-545a-9c0d-60d99c96984b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 3: Panic"
+slug: 0003-chapter-3-panic
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 3
+ownLength: 5876
+unit: words
+publishedAt: 2026-04-06
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3237163/chapter-3-panic"
+royalRoadId: "3237163"
+---
+
+[Initiating Curse]
+
+[Restarting Day]
+
+My lungs filled, and I could finally scream.
+
+"RUAH!"
+
+The sound tore out of me raw and savage, a noise with no shape except pain. It bounced off canvas, off stone, off the cavern ceiling high above the camp.
+
+I jolted upright so hard my back protested. For an instant, I was still there. Still in the corridor beyond the gate, still dangling in the air while the Wyvern shook me apart.
+
+My mind refused to understand that I'd stopped dying.
+
+My hands flew over my body in frantic, shaking sweeps. My throat. My ribs. My stomach. My arms.
+
+No wounds at all.
+
+That discovery didn't calm me. It made the panic worse because the agony was still inside me, roaring through my nerves. Even though nothing was broken, my mind replayed the moment with perfect cruelty.
+
+A voice from a nearby tent cut through the aftermath.
+
+"What's your problem? Some of us are trying to sleep!"
+
+Another joined in, muffled by canvas. "Quiet down, will you?"
+
+Their complaints should have pulled me back to reality. They should have been proof that I wasn't alone, proof that I hadn't fallen into some private hell.
+
+Still, I barely heard them.
+
+Adrenaline surged through me. My fingertips tingled. My hands wouldn't stop shaking.
+
+It was only a memory.
+
+Only.
+
+The word felt wrong.
+
+It hadn't been a dream. My brain had recorded every detail, every second. I could remember perfectly everything I've done, thought, saw the last day. Yet, it insisted on replaying it with the same intensity as the first time.
+
+I was sitting on a bedroll in a sagging tent, surrounded by the restless murmur of an underground camp, but my mind was still bleeding out in the jaws of a wyvern.
+
+Each time I died, the world snapped back. Each time I woke up whole. And each time, the pain stayed behind in my head like an echo of my mistakes.
+
+I pressed the heels of my hands into my eyes until I saw stars.
+
+My voice came out small, barely more than breath.
+
+"I… I have to get out of here."
+
+The words felt like truth the moment I said them. My whole body agreed. Every instinct screamed for it. Anything that wasn't that gate, that corridor, those wings beating above me.
+
+Run. Hide. Live.
+
+But the next thought followed immediately, cruel in its own way.
+
+"But if I leave," I whispered, "they'll die. All of them."
+
+The camp around me was full of students. Young men and women who didn't understand what waited. Who would march when ordered. Who would chant and cast and trust that their training meant something.
+
+Some of them would survive behind shimmering shields.
+
+Some wouldn't.
+
+And if I had knowledge, if I had even a sliver of warning, and I chose to use it only to save myself…
+
+My stomach twisted.
+
+I'd spent my first life learning what fear sounded like. I'd heard it in people trapped behind doors and under beams and inside buildings that were about to fall. I'd felt it in myself too, every time heat rolled over me and smoke swallowed my vision and my mind begged me to turn around.
+
+I squeezed my eyes shut and forced myself to breathe, not the frantic, shallow gasps my body wanted, but the disciplined rhythm that had once been drilled into me until it became muscle memory.
+
+Inhale through the nose.
+
+Hold.
+
+Count.
+
+Exhale through the mouth.
+
+I did it again.
+
+The first few breaths shook. The next few started to steady. My heartbeat, still brutal, began to slow. The tingling in my fingertips eased.
+
+I was still terrified.
+
+But terror no longer owned my mind.
+
+As my breathing settled, my thoughts sharpened enough to form a plan.
+
+This is a curse, I thought, and the words tasted bitter. Or a nightmare. Or a spell.
+
+But the brief messages… they hadn't felt like hallucination. They had felt like rules.
+
+[Initiating Curse]
+
+[Restarting Day]
+
+Rules meant patterns.
+
+Patterns meant learning.
+
+I opened my eyes and stared at the dim canvas above me.
+
+If time were looping, then the day was mine to spend again and again.
+
+Information was mine to gather.
+
+Mistakes were mine to make, if I could survive them.
+
+"I need to find a way back," I murmured, voice steadier now, though it still trembled at the edges. "But until then… I can't abandon them."
+
+I let the words settle into me like a vow.
+
+If this was punishment, then I would turn it into training.
+
+If this was a trap, then I would learn its shape.
+
+And if death was going to keep taking me, over and over, then I would start taking something back each time.
+
+If this is a curse, I told myself, then I have to use it.
+
+I pushed myself up onto my knees on the rough blanket that served as my bed.
+
+If I was trapped in a loop, if I was going to keep dying and waking and dying again. I needed to move forward. To move I needed answers.
+
+I started tearing through my belongings with the single-minded urgency of a man searching for a way out of a burning building.
+
+I dragged the mud-stained clothes into a pile and patted down pockets, feeling for anything hard, anything useful. Anything at all.
+
+My fingers closed around several slender objects.
+
+For an instant, hope sparked.
+
+I pulled them free and stared.
+
+Pens.
+
+A handful of them, bundled together like someone had stuffed them into my pocket in a hurry. They were shaped almost exactly like the cheap ballpoint pens I'd used back on Earth. But these were heavier. Their casings were metallic and etched with tiny symbols that ran in neat lines along the barrel.
+
+I rolled one between my fingers, half expecting it to click or leak ink onto my hand.
+
+Nothing leaked.
+
+I set the pens aside carefully, as if they might be more valuable than they looked.
+
+Then my gaze dropped to the bottom of the pile of clothes.
+
+I retrieved them with both hands, brushing dirt from their worn covers with my thumb.
+
+The first book was heavy for its size, and when I opened it the pages were crowded from edge to edge with dense writing. Not a single margin left empty. The script was unfamiliar. None of it meant anything to me.
+
+Not yet.
+
+The second book was thinner, its binding softer, as if it had been handled more often. When I flipped it open, I realized why almost immediately.
+
+It wasn't full.
+
+The writing stopped abruptly halfway through, as if the author had been interrupted mid-thought and never returned. The last page looked… wrong, compared to the rest.
+
+The ink on it glistened faintly when I tilted it toward the light.
+
+Not fully dry.
+
+My breath caught in my throat.
+
+For a moment, I just stared, my mind trying to place the feeling crawling over my skin. The page looked like it had been written minutes ago.
+
+"A journal?" I heard myself say aloud.
+
+I flipped through the earlier pages, faster now. The handwriting was consistent, quick in places, more personal than the rigid precision of the first book. And the alphabet…
+
+It made my brain itch.
+
+It looked like it wanted to be familiar. Like a cousin of the Latin letters. I could almost convince myself I recognized shapes, but when I tried to read the words, they slid out of meaning.
+
+Still, a few fragments caught.
+
+Today.
+
+Or something close enough that my mind insisted on it.
+
+Tomorrow.
+
+Maybe.
+
+Or maybe I was just desperate to see something I could understand.
+
+I swallowed, throat still dry, and opened the journal to a blank page. If I couldn't read the world, then I'd force the world to let me write in it.
+
+I chose one of the pens at random.
+
+The tip looked like polished metal. No ink reservoir. No stain. I hesitated, then pressed it to the page.
+
+Black ink appeared instantly, smooth and dark, as if it rose from the paper itself to meet the point. My hand jerked in surprise. I lifted the pen.
+
+No smear. No blot.
+
+I lowered it again and wrote.
+
+What do I know?
+
+Saying the words out loud made them feel more real, like driving a nail into unstable ground.
+
+"My name is Kaspar," I murmured as I wrote it.
+
+It was still strange to claim it.
+
+I paused with the pen hovering above the paper. The camp outside rustled faintly, but no one disturbed me.
+
+Not yet.
+
+I wrote the next line.
+
+I remember the previous days.
+
+The words looked too simple for what they contained. My memories weren't vague impressions. They were sharp, brutal snapshots carved into me. Fire pouring from the ceiling. The weight of a wyvern's jaws. The taste of smoke. The sensation of dying.
+
+I stared at what I'd written, then scratched a line through it and amended it, my hand tightening around the pen.
+
+I remember everything from the previous days.
+
+That was closer to the truth.
+
+I am in a world that has magic. But I don't know how to use it. They say I have no mana.
+
+Magic here was as common as breath. Rings forming around arms, shields flaring in the middle of slaughter and I was the only one standing in a world of swimmers while I drowned.
+
+I wrote the next fact, the one that mattered most.
+
+Opening the gate leads us to a room full of monsters.
+
+My hand hesitated.
+
+I underlined the sentence hard enough that the pen tip scratched slightly into the paper.
+
+Then I stared at the underlined words until my eyes blurred.
+
+Monsters.
+
+Wyverns.
+
+Death.
+
+Over and over.
+
+I forced myself to turn the page to a fresh section.
+
+What I don't know:
+
+What's an artifact?
+
+The word had been whispered with greed. As if finding one was worth any risk.
+
+Why don't I have mana? Or rather, how does one use magic?
+
+I tapped the pen lightly against my chin, thinking, listening inward. The other students didn't look like they were straining. They didn't look like they were forcing something. They simply… did it.
+
+Was it a muscle?
+
+A sense?
+
+A door in the mind you opened?
+
+Or was it something you were born with, and I had simply been born without it?
+
+Can I get any weapons or shields?
+
+If magic was beyond me, then steel might not be. Something with an edge. Something with weight. Something that didn't require mana to function. Even a cheap knife was better than bare hands.
+
+Can we prevent ourselves from entering the room?
+
+The simplest answer was often the one everyone refused to consider.
+
+Don't go through the gate.
+
+Don't open it.
+
+Don't march into the corridor.
+
+It was whether anyone would listen.
+
+A sigh escaped me, quiet and tired.
+
+"Maybe I can convince someone of the danger," I murmured.
+
+"It wouldn't hurt to try," I told myself.
+
+However, it did hurt.
+
+Not hypothetically.
+
+The first attempt had been a disaster.
+
+I could still see it.
+
+I forced myself through the camp, past rows of sagging tents and half-awake students, straight toward Blut von Omstr.
+
+He stood exactly where men like him always stood: in the center of motion, surrounded by ass-kissers. His gray uniform looked plain compared to the gaudy nobles I'd seen, but the long green cape draped over his shoulders made him impossible to ignore.
+
+"Sir," I'd said, and the word tasted like sand. "We mustn't open the gate. There are wyverns inside. Creatures that will attack as soon as it's breached."
+
+Blut's gaze cut into me.
+
+"Nonsense," he snapped, loud enough that a few nearby students glanced over. "How could you possibly know that? Return to your duties at once."
+
+He didn't ask why I believed it. He didn't ask what I'd seen.
+
+I tried again. That's what you do when you know people are about to walk into a burning building. You don't stop after the first refusal. You push harder.
+
+"Please," I'd insisted. "If you open it, you'll doom the students—"
+
+His patience snapped like dry wood.
+
+"You're a coward," Blut said coldly, eyes narrowing, "just like a Bastard should be." He didn't spit the word like a simple insult. He spoke it like a classification. Like a stain I couldn't wash off.
+
+He raised his voice and didn't even look at me anymore, as if I was already a solved problem.
+
+"Guards. Escort this man to the holding cells until we have time to judge him."
+
+Hands closed on me. I fought the instinct to pull away, because pulling away only made them tighten their grip. They dragged me through the camp while students stared, their faces a mix of curiosity and relief that it wasn't them being hauled off.
+
+The holding cells were carved straight into the stone, crude and functional. The air down there was wet and stale, thick with the smell of old sweat and cold metal. Bars of dark iron divided the corridor into narrow cages. Runes had been cut into the stone above each door.
+
+When the door slammed shut behind me, the sound rang through the rock like a coffin lid closing.
+
+I gripped the bars and listened.
+
+When the gate opened, I couldn't stop it.
+
+All I could do was hear it.
+
+Even from deep underground, the groan of the colossal doors reached the cells. Then came the chaos: distant shouting, the thunder of wingbeats, the roar of fire.
+
+Screams rose and multiplied, echoing through the dungeon corridors. Smoke seeped in, thin at first, then thicker, bringing with it that familiar acrid bite. Burning cloth, burning hair, burning flesh.
+
+I didn't die at the gate that time.
+
+I died in a cage, helpless, choking on the proof that I had been right.
+
+The day restarted anyway.
+
+The second try, I changed tactics.
+
+Don't go to the officers. They'll silence you. Go to the people.
+
+I climbed onto a supply crate in the middle of the camp while everyone was rushing through preparations.
+
+I stood tall enough that heads turned, and for a heartbeat, I could pretend I was addressing a crowd that could still be saved.
+
+"Beyond the gate, there're wyverns!" I shouted until my throat burned. "If we open it, we will all die!"
+
+Faces turned toward me. Pale in torchlight, eyes heavy with sleep and fear. For one brief moment, I saw uncertainty flicker. I saw minds trying to decide whether I was a warning or a threat.
+
+Then the murmurs started.
+
+"Madman."
+
+"Heretic."
+
+"Shut him."
+
+The words struck harder than I expected. Not because they were cruel, but they were familiar kinds of cruelty. I realized how badly they wanted someone else to blame for their fear.
+
+Guards pushed through the gathering. Their armor clinked and glowed faintly with embedded runes. They seized my arms, yanked me down from the crate so hard my boots skidded on stone, and hauled me away while I kept shouting until my voice broke.
+
+Accusations of insanity followed me like thrown stones.
+
+Once again, the holding cells swallowed me.
+
+Once again, I heard the gate open.
+
+Once again, the world above became fire.
+
+The third time, I waited.
+
+They won't believe you until the threat is right in front of them. So don't waste your breath early. Save it for the moment their eyes are forced open.
+
+I stayed in the crowd when the gate began to groan, when the darkness split the doors. I pushed forward with everyone else.
+
+As the corridor swallowed us, as the ceiling vanished into darkness above the pillars, I turned to the nearest students.
+
+"Run!" I screamed. "We have to get away before it's too late!"
+
+They stared at me like I was infected.
+
+Some edged back. As if my panic might leap from my mouth into theirs.
+
+Then the first wingbeat shook the air.
+
+Heads tilted upward.
+
+Doubt finally cracked.
+
+I watched their expressions shift in real time. Confusion turning to recognition, recognition turning to terror. Mouths opened. Spells flared. People screamed.
+
+But by then, the corridor was packed. Soldiers blocked the rear. The crush of bodies made turning around its own kind of trap. Escape stopped being a choice.
+
+Fire poured down.
+
+Wyverns dove.
+
+Even though I'd predicted it, even though I'd seen it twice already, the helplessness hit me like a physical blow.
+
+Knowledge didn't save us.
+
+Not when no one trusted the one who carried it.
+
+I died again.
+
+I always died again.
+
+When I woke alone in my tent afterward, the first thing I did was rub my temples, trying to press the pain back into my skull where it belonged. My thoughts felt bruised, like someone had beaten them with a club.
+
+I tried to force myself to be clinical. To treat these loops the way I'd treated disasters in my old life.
+
+Assess, adapt, act.
+
+The first thing I'd learned was simple, ugly, and consistent.
+
+No one trusted me.
+
+Not Blut. Not the guards. Not the students. To them I wasn't a messenger, I was a problem to be contained.
+
+Part of me wondered, in a tired, bitter corner of my mind, if it was even worse than prejudice.
+
+Maybe they hate me.
+
+The thought felt petty, but the world had been petty so far.
+
+The second realization was unavoidable: I always returned to this day.
+
+Every time the curse took me, it snapped me back to my tent.
+
+But there was one thing, one thin thread of usefulness I could pull from the wreckage.
+
+My deaths didn't vanish cleanly when the day restarted.
+
+They lingered.
+
+The more agonizing the death, the more of it I carried into the next loop. As phantom pain, as memories etched so deep into my nerves that my body woke up remembering.
+
+Sometimes that pain ripped me out of sleep earlier.
+
+Minutes.
+
+An hour.
+
+A few precious hours.
+
+A cruel bargain: suffer more, wake sooner.
+
+I sat alone in the dim belly of my tent and dragged a hand through my hair, more out of habit than thought.
+
+My fingers slid through it too easily.
+
+Soft. Fine. Clean in a way that didn't match the grime and sweat of the camp outside. The sensation stopped me cold, as if I'd touched someone else's head by mistake.
+
+Up until now, I'd been so busy trying not to die that I hadn't spared a moment for the simplest question.
+
+What do I even look like?
+
+There was no mirror here. No polished metal, no basin of water, no glass. Nothing could show me the face I was wearing. All I had were my hands and whatever truths they could pull from skin and bone.
+
+I rubbed my thumb along my jaw.
+
+Smooth. Too smooth. No stubble. I pressed my fingertips into my cheeks, feeling the contour of them. Sharper than I expected. I traced the bridge of my nose, the shape of my brow. My hands moved over a body that still didn't feel fully mine, searching for familiar landmarks and finding only unfamiliar ones.
+
+I grabbed a few strands of hair and gently tugged them free, then held them up toward the faint torchlight bleeding through the canvas.
+
+At first, I thought the dimness was playing tricks on me.
+
+Then my eyes adjusted.
+
+The strands in my fingers were white.
+
+Not pale blond. White. White like bone.
+
+For a long moment, I just stared at them, my mind trying to fit that detail into everything else I'd learned. Blut's contempt. The word Bastard. The way the other students' eyes slid past me was with that quiet, practiced disdain.
+
+"Is that why they despise me?" I whispered.
+
+I let the strands fall from my fingers and exhaled.
+
+I forced the thought aside like a door I didn't have time to open.
+
+"Well," I muttered, "on to Plan B."
+
+"I need a weapon," I told the darkness. "Something that will help me survive."
+
+If I couldn't cast shields like the others, then I needed something that didn't care about mana. Something that could cut. Something that could buy distance, buy time.
+
+Buy one mistake without turning it into death.
+
+I eased to my feet, careful not to rustle the blanket too loudly, and slipped toward the tent flap.
+
+The air outside was colder, damp with stone, and tasted faintly of smoke. The cavern didn't have dawn or starlight. Only torchlight and mage-glow. So time was a guess, an impression drawn from how still the camp was. Most tents were dark. Most voices were absent.
+
+It was as close to "night" as this place could get.
+
+Only a few soldiers moved through the lanes between tents, patrolling with the slow, practiced silence. Their footsteps were muffled against packed earth and scattered grit.
+
+I stayed still, letting my eyes adjust.
+
+Then I watched.
+
+Patrol patterns revealed themselves if you had the patience for them. A pair passed left to right and disappeared behind a row of tents. After a pause long enough for the camp to feel empty again, they reappeared farther down, turning back toward the cavern wall.
+
+I waited until the nearest patrol was far enough away that the scrape of their boots softened.
+
+Then I slipped between two tents.
+
+My senses felt sharpened, painfully alert. Every rustle of cloth sounded like it might be a hand reaching for me.
+
+I pulled my hood up. The white hair would stand out in torchlight. If that color marked me as different, if it made me memorable, then I didn't want it visible.
+
+I headed toward the higher ground of the camp. The terrain sloped upward, uneven rock breaking through packed earth in places. The tents thinned slightly as I climbed.
+
+Let's see, I thought, keeping close to shadowed walls. None of the previous plans worked. I need to understand where we are.
+
+Understanding mattered more than bravery. In my old life, people died when they ran into danger blind. They lived when someone knew the layout. Where the exits were, where the stairwells were blocked, how the smoke would travel.
+
+This dungeon camp was its own kind of disaster.
+
+I was still learning the building.
+
+I reached a cluster of boulders and crouched behind them, letting the stone hide me from casual glances.
+
+From here, I could see the upper tier of the encampment more clearly.
+
+It lay close to the cavern's entrance. A massive arch carved into the rock face, tall and broad enough that several wagons could have passed through side by side. The stone around it had been cut and shaped deliberately, its edges too smooth to be an accident.
+
+A way in.
+
+A way out.
+
+And heavily guarded.
+
+Several soldiers stood at their posts near the arch. They were alert despite the late hour, shifting their weight occasionally, turning their heads in small, controlled motions. They didn't talk. They didn't slouch.
+
+I studied them harder.
+
+Something felt off.
+
+They weren't armed.
+
+No sword at the hip. No spear resting against a shoulder. No bowstring gleaming faintly. Not even the telltale bulge of a dagger under a cloak. Their hands were empty, gloved, relaxed at their sides.
+
+For a second I wondered if I simply couldn't see the weapons, if they were concealed or strapped somewhere I wasn't looking.
+
+But the more I watched, the more certain I became.
+
+They carried nothing.
+
+My stomach tightened.
+
+Do they rely only on magic? I thought.
+
+The idea unsettled me more than it should have. Steel, I understood. Even in a world of monsters and runes, a blade was honest. It either cut or it didn't. It didn't care about rank or "circles." It didn't care whether someone had decided I was a Bastard.
+
+Magic… magic was a different kind of threat. Invisible. Immediate.
+
+If these guards were mages, then slipping past them wouldn't just be difficult.
+
+It might be impossible.
+
+From my hiding place behind the boulders, the camp finally made sense.
+
+It wasn't a single sprawl of tents.
+
+It was three.
+
+The middle section lay where the ground leveled out into the broadest part of the cavern. That was where the camp looked like a plie of canvas. Tents pitched in crooked rows, ropes crossing like spiderwebs, narrow paths snaking between them. It was the heart of the encampment. Ordinary soldiers slept there. Apprentices and students murmured there. That was where my own small, miserable tent was buried among the rest.
+
+Further down, the land sloped toward the colossal gate, and the tents thinned.
+
+The lower area was closer to the impossible doors. Only a handful of tents stood there. Open-sided structures, reinforced poles, supply crates. The ritual equipment lived there.
+
+In the middle area, there are only students, I thought, eyes moving over the tangled sea of canvas below me. They only used magic in the past loops. I doubt I'll find any kind of weapon there.
+
+My gaze slid to the lower area.
+
+It looked like a worksite. But I'd never seen anything resembling a sword.
+
+No spear racks. No bows.
+
+Down there, it's all about the ritual, I told myself.
+
+That left one place.
+
+My eyes lifted.
+
+The upper area.
+
+It sat on a slight elevation at the back of the cavern, nearer the great stone arch that I suspected was the entrance to the dungeon. The tents up there weren't the sagging, amateur canvas shelters of students. They were larger, reinforced, and arranged with space between them.
+
+Their canvas was dyed in rich colors. Purples and deep reds, dark greens that looked almost black. Sigils were stitched into the fabric with metallic thread. Symbols of rank, power, houses or orders I didn't understand.
+
+Majestic, compared to the rest.
+
+That meant officers. Nobles. The ones who gave orders instead of taking them.
+
+That leaves only the upper area.
+
+I swallowed hard.
+
+If I'm caught, I thought, they'll imprison me again.
+
+A cell. Iron bars. I'd be roasted all over again.
+
+The memory sent a shiver crawling over my skin.
+
+I pressed my back more firmly into the stone and forced myself to breathe.
+
+I wasn't a thief nor was trained in stealth. In my first life, if I had to enter somewhere, I usually did it with a badge and permission, or by breaking down a door while someone screamed inside.
+
+Yet this wasn't that world.
+
+So I did what I could.
+
+I used the shadows.
+
+The torches were spaced far apart. Not because they didn't need light, but because the people of the upper camp could afford pockets of darkness. In those gaps, I moved, keeping low, letting my lean frame slip between tent edges and boulders and stacked crates.
+
+I told myself to watch the guards.
+
+One of these tents has to be storage, I reasoned, sliding along the edge of a large tent and pressing my shoulder into the canvas to steady myself.
+
+A place officers keep what they don't want the students touching.
+
+Like food, maps and ritual components.
+
+Maybe even weapons. Something only they have access to.
+
+I leaned forward and peered around the corner.
+
+A corridor of sorts stretched ahead, a wide path of packed earth and stone, flanked by the elite tents on both sides like a canyon of canvas and rank. Their lines were taut. It was the difference between a child's shelter and a commander's pavilion.
+
+Guards paced the corridor.
+
+They didn't hurry.
+
+They moved with the lazy stride. Like they had never once feared being attacked in their own camp. Their posture wasn't sharp with vigilance; it was relaxed with the certainty that no one here would dare challenge them. Their eyes slid across the tents and the shadows without real interest.
+
+That complacency was my only chance.
+
+But as I watched them, another thought crept in.
+
+What are the chances these tents have protective magic?
+
+A spell woven into the canvas so that anyone without authority would be shocked, screamed at, marked, or simply found.
+
+In this world, a tent didn't have to be a tent. It could be a trap. A silent alarm.
+
+My stomach sank.
+
+I glanced down at my hands.
+
+If there was a ward, it would hit me raw.
+
+There was no more room for new plans. No more safe options. If I wanted a weapon, if I wanted any advantage at all, I had to take a risk.
+
+"There's only one way to find out," I whispered.
+
+I lowered into a crouch and moved toward the nearest tent, keeping my steps light, placing my feet where the ground was firm so it wouldn't crunch. My eyes darted from guard to guard, tracking their spacing, timing the slow turn of their patrol.
+
+When the nearest guard's back was to me and the others were far enough down the corridor, I reached out.
+
+My fingers caught the edge of the canvas.
+
+I tugged gently and leaned in to peek.
+
+My heart hammered so loud I was sure it would give me away. Each beat echoed in my ears like a drum in a war march.
+
+Inside was darkness and the faint scent of incense or oil.
+
+I barely dared to breathe.
+
+Luck, luck, luck, I chanted silently.
+
+I lowered myself a little more, easing my weight onto the balls of my feet until my knees trembled. I lifted it only a sliver, barely enough to slip one eye through, then held my breath and looked inside.
+
+My heart hammered so hard it felt like it should have been audible from across the corridor.
+
+The tent was… obscene.
+
+Not in any sinful way. Just in the sheer, excess of it. A massive bed dominated the interior, wide enough that three people could have sprawled across it without touching. Rich fabrics spilled over the sides in heavy folds. Pillows were stacked like a fortress wall at the head.
+
+And on that bed lay a stout man, his belly rising and falling with every thunderous snore. Each exhale was a low rumble.
+
+For a heartbeat, I just stared at him, stunned by the contrast.
+
+Down in the middle section, students slept on scratchy blankets, packed together like kindling. Here, an officer slumbered in comfort fit for a king.
+
+I forced my eyes away from the bed and scanned the rest of the tent, hunting for anything that might keep me alive when the gate opened.
+
+A writing desk stood near the far side, polished wood cluttered with scrolls and folded maps. A chair sat beside it. My gaze lingered on the chair's legs.
+
+Maybe I could break one off. Use it like a club.
+
+The thought lasted all of a second before reality crushed it.
+
+What am I thinking?
+
+A chair leg wouldn't even slow them down. It would burn like dry kindling the moment fire touched it.
+
+I backed away slowly.
+
+No weapon.
+
+Just luxury, and a sleeping man who would probably have me flogged if he woke to find me.
+
+I moved on.
+
+Faster now.
+
+The next tent I checked was another bedroom: thick rugs on the ground, a brazier's ashes still warm, and an officer curled beneath blankets. Another had a meeting table covered in tactical diagram. Tiny wooden markers, inked lines, and strange arcane instruments that looked like compasses.
+
+Useful, maybe, if I knew how to use magic.
+
+I didn't.
+
+I found no blades. No spear racks. Not even a ceremonial dagger. It was as if steel simply didn't exist up here, or as if anyone important enough to live in these tents considered weapons beneath them.
+
+Time slipped away with every tent flap I lifted and lowered.
+
+Outside the upper corridor, the camp began to stir.
+
+I risked a glance down the corridor.
+
+Movement.
+
+Too much movement.
+
+My window was closing.
+
+Only six more tents, I told myself, clinging to that thin thread of optimism. Just six. One of them has to have something.
+
+I dropped low again and lifted the flap of another tent.
+
+Darkness greeted me. The familiar rumble of someone sleeping rolled out, the sound vibrating faintly in the tent's air.
+
+My shoulders sagged, frustration gnawing at my insides.
+
+Another bedroom. Another noble. Another dead end.
+
+I started to let the flap fall back into place. But I saw it.
+
+A glint, high above.
+
+My eyes narrowed. I leaned in again.
+
+Mounted on the central pole was an ornate coat of arms.
+
+But the crest wasn't what made my pulse jump.
+
+Behind it, crossed, were two swords.
+
+Real swords.
+
+The kind with proper length and weight, not a decorative letter opener. Their hilts were wrapped, the metal gleaming faintly, blades sheathed but unmistakable.
+
+My mouth went dry.
+
+A weapon.
+
+An actual weapon.
+
+My fingers twitched, aching to grab it.
+
+I slipped inside the tent, stepping onto thick fabric that muffled my boots. The bed was on the right, and a young man lay there, asleep and oblivious.
+
+He looked about my age.
+
+Or… the age I'd been before I died on Earth.
+
+How old am I now? I wondered, staring at the sleeping noble's face. I don't even know that.
+
+I shoved it aside. There would be time to unravel my identity later.
+
+The swords were what mattered.
+
+I moved to the central pole and rose onto my tiptoes, arms reaching overhead. My fingertips stretched toward the nearest hilt.
+
+Just out of reach.
+
+I rose higher, heels trembling, but the hilt still hovered a cruel inch beyond my grasp.
+
+I glanced around, searching for anything to boost me up.
+
+The chair by the desk.
+
+I grabbed the chair by its back and dragged it toward me.
+
+The legs scraped against the ground with a sound that felt like thunder inside my skull.
+
+My whole body went rigid. I froze, eyes locked on the sleeping noble.
+
+He didn't stir.
+
+I swallowed hard and moved the chair again, slower this time, lifting one leg at a time to reduce the scrape. Each tiny sound sent a jolt through my nerves.
+
+When the chair was beneath the crest, I climbed onto it.
+
+The chair wobbled slightly under my weight.
+
+My stomach dropped.
+
+I steadied myself, keeping one hand on the pole, then reached up again, stretching until my shoulder burned.
+
+My fingertips brushed the sword's hilt.
+
+Cold leather. Cold metal.
+
+Relief flooded me so fast it nearly made me dizzy.
+
+Just a little more, I urged silently. Just—
+
+I hooked my fingers around the hilt and tugged.
+
+The sword shifted, sliding a fraction free.
+
+Yes.
+
+I pulled again.
+
+The chair rocked beneath my feet.
+
+My heart lurched.
+
+I tried to shift my weight back to counterbalance.
+
+Too late.
+
+The chair slipped.
+
+The chair toppled forward with a muted crash, and I went with it.
+
+I slammed onto the bed.
+
+Onto the sleeping noble.
+
+He exploded awake beneath me, thrashing as sheets tangled around his legs and arms. His eyes were wide and wild, reflecting torchlight like an animal's.
+
+"AAAAH! Assassin!"
+
+The scream tore through the tent and out into the corridor like a flare.
+
+Everything in me turned to ice.
+
+Guards poured in, armor clinking, faces set hard.
+
+"Wait," I stammered. "I can explain."

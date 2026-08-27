@@ -1,0 +1,114 @@
+---
+id: 88a4186e-0b10-531f-bbf7-68e7b8cd441b
+page-type-slug: story-chapter-royal-road
+title: "012 - Mammon Inc."
+partOf: zero-day-saint-i-cheat-smarter-shapeshifter-litrpg
+position: 12
+ownLength: 1518
+unit: words
+publishedAt: 2026-05-03
+link: "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3348378/012-mammon-inc"
+royalRoadId: "3348378"
+---
+
+Stephen was already at work on the next batch. That was good, we would need something else in three hours. I imagined Hell would use their worst attacks in the final hours, so we would need to refresh those buffs as soon as they ran out.
+
+Others were bustling in the crowded room, helping out with prep work, counting goods on the shelves.
+
+I hadn't really paid attention to Stephen before. He was a well-dressed man in his thirties, now wearing an apron over his cardigan. He looked like money, which had been the reason I had ignored him. One year in LA and I had interacted with enough people-with-money for a lifetime.
+
+I made my way over, keeping out of the way of the others, stopping behind him. He looked at me as I approached but kept his focus on the prep work in front. I wondered if Cutting Food and Knife Fighting were distinct skills.
+
+"You're Stephen, our new Chef?"
+
+He didn't turn to face me. "Eve, right? If you find me some forbidden apples, I can make us some sinfully good pancakes."
+
+If this joke would have caused my healthbar to tick down I wouldn't at all have been surprised.
+
+"How long have you been sitting on that line?"
+
+"About twenty minutes, give or take."
+
+"Been thinking about me and my name?"
+
+"You and your, well, devil, to be honest." He put the knife down and turned to face me. He was really tall. "This will sound really corny, but the moment they appeared with you, I resolved to do better."
+
+"I really don't want to keep you from doing your job too long, but do elaborate, please."
+
+"I'll keep it snappy. Used to be an investment banker. The moment the Apocalypse started I knew I was toast. That I'd fucked up my life and now I was damned for certain. Especially when others were seeing angels and all, but I didn't. I had my own devil on my shoulder, all my life, and I'd listened. Fucked a bunch of people over."
+
+"What's that got to do with me?"
+
+"You were there with that devil and you just kept going. Through the Apocalypse around you. And, I don't know, that just made something click for me. That it wasn't too late, that temptation wouldn't mean damnation, or something like that. I can't remember choosing this Class, but I wouldn't have chosen anything else. I want to make up for, well, everything. I won't become one of the Fallen."
+
+I didn't know what to say. On the one hand I couldn't exactly follow his thought process, on the other I hadn't considered that having a devil around might inspire people to do better.
+
+I settled on "Huh."
+
+He turned back to his work. "Sorry, you probably didn't need to hear any of that. Why did you want to talk to me?"
+
+"Wanted to ask about your tasks. From what I gathered, most people have something regarding defeating things through their Blessing."
+
+"Yes, Haziel told me about that already. I have two of those types of tasks. One for others defeating foes while under one of my buffs, but the first one there starts at 100 and the next is 1000. The other is for when I defeat something myself while under my buffs. That starts at 5. But I'm honestly not sure yet how to go about that."
+
+"Probably not a worry for today. Then we can figure something out. Eventually you'll have to risk your neck and go out there. But tonight, we all just need to stay alive."
+
+He nodded. "Working on it."
+
+I contemplated talking about that whole Fallen thing. Maybe poke his brain about why he was inspired by Lucy. How to improve my "PR".
+
+But I didn't get to talk about any of that. Suddenly the entire world became noise. The entire place vibrated, and from everywhere around us came this sound that sounded like the end of the world. Stone scraping, metal screeching, asphalt shattering. Everyone ran to the main room. I had to climb on the counter to see anything of what was going on outside. One moment there was a laundromat on the other side of the road, the next it was like it was being pulled toward us, the street curving, as the building was lifted up and above us. A wave of nausea hit me as I tried to make sense of the impossibility happening outside.
+
+Jamie was standing at the very front of the room. I opened the party chat.
+
+["What's happening out there?!"]
+
+It took him far too long to respond, all the while the impossible noise around us continued.
+
+["I can't describe it. The city is being… folded?"]
+
+I wanted to ask him what the hell that was supposed to mean, but then there was a sound like a piece of wood breaking, if that piece was the size of a city. Everything shook as it suddenly felt like the entire deli was dropped and I tumbled off the counter, surprising myself by landing on my feet instead of my face. Those agility points paying off already. People were pushing to the front, 'oh'ing and 'ah'ing. I could see that the street had returned. I pushed through and could finally see the other side. The laundromat was gone. There was a skyscraper there. Straight out of Manhattan. As more and more of us pushed outside I saw it. None of the buildings around us were as they were before. Next to the skyscraper I could see a gate that looked like it belonged to some factory in the Bronx.
+
+"Boy, oh, boy. Would that have sucked to have been outside right now," Lucy's voice in my head said.
+
+As the tide of others pushed me further out, I finally looked up to see the massive logo adorning the building across the street.
+
+MAMMON INC.
+
+The name glowed in bright red, its letters grasped by a massive claw. Only now I saw the red infernal script covering its surface.
+
+"Everyone! Stand back! Do not approach!" Anthony shouted. He did have a good voice for shouting. "It's a profane space. A massive one."
+
+It was at least as large as the tallest buildings in New York had been, maybe larger. I would have to ask Gabriel how the Blessing or profane space altered architecture. The deli didn't look altered at all.
+
+My gaze fell back down to the bottom floor where its lobby opened right onto the street, looking very wrong on the unchanged sidewalk. And down there I saw the red glowing eyes. Twelve sets of six eyes, prowling out of the building, as we stood out in the open, like lambs to the slaughter. Twelve red dots appeared on my mini map, approaching.
+
+"Demon hounds! Incoming!"
+
+My voice didn't carry as nicely as Anthony's. But the crowd reacted.
+
+"Act first, let me explain later." Gabriel's voice sounded rushed. "Do not retreat, you have to face them out here."
+
+Jamie stepped to my side, manifesting both sword and shield. The sword looked like an ordinary longsword. The shield, though. It was the teardrop shape of a cavalry shield, but forged out of pure blue-white energy.
+
+"We have to stand and fight!" he shouted.
+
+I hesitated. "Is it safe to shift?"
+
+"Yes, do it," Gabriel said.
+
+I took a tentative step away from Jamie's side before I shifted into the Golden Retriever shape once more. The shock of its senses was still extreme, but no longer as blinding as before. I both had sharper senses as a human now and the Instinct skill to deal with it.
+
+The shift in power though. I was reminded of that time my tiny EV was in the workshop and a colleague had let me drive her muscle car. Going from 2 Strength to 5 as a human was nothing like going from 3 to 8 in this shape.
+
+I was so absorbed in the sensation I had missed half of Gabriel's explanation. I had to look at chat to catch up.
+
+["So many lesser demons in one spot can only mean that there is a summoner inside. If you don't deal with this assault and let them pin you down in the deli they won't be able to get in, you won't be able to kill them from inside while the summoner can pin you down endlessly. You need to deal with them to have an escape route."]
+
+I looked back at the other Blessed with us. Anthony was guiding the non-Blessed inside and I could see that Liz and Constance were getting their own version of Gabriel's explanation. I could smell their fear. Stephen remained inside, his face a grimace of terror.
+
+The fact that I didn't feel any fear should probably be a cause for concern.
+
+I switched chat to local.
+
+["Jamie holds the front, I'll guard his right flank. Liz, Constance, deal with any who try to circle him or who try to ignore him to come at you. Tell Frank not to shoot me."]

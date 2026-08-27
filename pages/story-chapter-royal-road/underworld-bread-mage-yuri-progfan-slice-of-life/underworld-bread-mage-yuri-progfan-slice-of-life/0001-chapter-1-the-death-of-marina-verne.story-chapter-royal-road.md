@@ -1,0 +1,213 @@
+---
+id: 96ce8ace-931e-5ea1-a584-d071cf54817e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1: The Death of Marina Verne"
+slug: 0001-chapter-1-the-death-of-marina-verne
+partOf: underworld-bread-mage-yuri-progfan-slice-of-life
+position: 1
+ownLength: 1813
+unit: words
+publishedAt: 2026-07-27
+link: "https://www.royalroad.com/fiction/179650/underworld-bread-mage-yuri-progfan-slice-of-life/chapter/3731385/chapter-1-the-death-of-marina-verne"
+royalRoadId: "3731385"
+---
+
+Marina’s head slammed into the edge of her desk. It was the third time she’d accidentally fallen asleep that night, and the second time she’d cursed the sky with a yelp.
+
+Swiveling, she pushed in the footrest of her chair before lunging onto her feet. "Ow," she whined, rubbing the ache in her forehead away.
+
+Her frantic pacing echoed around the small bedroom that doubled as her office. The motion briefly helped to fight off the encroaching drowsiness. “Shit, it’s 3 am already, and I’m still not finished with tomorrow’s project.”
+
+She sat back in her chair after chugging down the rest of her energy drink to finish cleaning up the near-illegible jumble of letters on the document.
+
+After thirty minutes of fighting the urges of her exhausted body, she downloaded the finished work onto a USB drive before shutting down her desktop.
+
+The room sank into darkness as Marina turned off the ceiling light, then jumped onto the center of her bed. Slowly, the fans on her computer spun down, leaving the room silent.
+
+Reaching for the items on her nightstand, she fumbled through bottles of pills and supplements. After a moment, she found the correct container.
+
+Double-checking the label in the faint red glow of her alarm’s LED, she twisted open the cap and dumped the contents onto her palm, selecting two pills before pushing the rest back inside. Returning the bottle to the nightstand, she downed the pair of pale capsules and lay back.
+
+Five hours of sleep will have to be good enough. She chuckled, the sound as bitter as the aftertaste of sleeping pills covering the tip of her tongue. Hope I don’t get laid off after Quarter One reports…
+
+Her thoughts faded to calm as she drifted away.
+
+“What is it that you wish to do…?” A strange, monotonous voice echoed in Marina’s mind, cutting through her haze.
+
+“Mmm… If I could, I would quit this job and maybe open a bakery. I want to have leftover cakes every day,” Marina replied without hesitation. “Tiramisu, cheesecakes, carrot cakes–they are all so delicious.”
+
+“What kind of life do you wish to live…?”
+
+What kind of dream is this? Marina wondered, before mentally shrugging. I’ll wake up at the end, no reason to lie. “I… want to live a life of my own,” she whispered. “Without the expectations of others.”
+
+“Access Granted. Welcome to the Underworld.”
+
+“Huh?”
+
+Marina’s eyes snapped open as cold wind swept over her skin. Red sand shifted in the breeze, warm on her left cheek. Sitting up, she blinked rapidly, brushing sand from her hands and face as she tried to process the scenery around her.
+
+The charcoal-colored skyline stretched to the horizon, with patches of faintly visible clouds drifting across it. Bolts of lightning occasionally lanced into the barren ground below, the constant roll of distant thunder accompanying flickering white flashes.
+
+A dim, uniform glow illuminated the landscape in between lightning strikes. Despite the sky being visible, there was no sun; a moon and stars were likewise lacking.
+
+“Where the hell am I?”
+
+As she scanned around her surroundings, a black screen split open from in front of her.
+
+┌────────────────────────────────────────────┐
+
+Welcome To The Underworld!
+
+Name: Marina Verne
+
+Cause of Death: Overdose
+
+Current Status: Rank 0 [Peasant]
+
+Press Accept To Claim Your Starter Pack!
+
+<Accept>
+
+└────────────────────────────────────────────┘
+
+Falling back to the sand, the screen traveled with her, floating a steady distance in front of her face. Pale blue words blazed in her vision.
+
+“What the fuck is this?”
+
+The screen did not respond.
+
+With the words right in front of her, Marina had no choice but to read them. “I… Overdosed?” She stared in horror. “It was only two sleeping pills like usual—” Realization struck. “I guess it wasn’t a good idea to down those energy drinks before taking them.” She paused as it settled in. “So I’m… dead? No, this can’t be! What about my job? What will happen to my things? I have such an important meeting tomorrow, I need to get back!”
+
+The screen simply hovered, inscrutable. With no other choice, Marina reached out a hesitant hand and carefully touched a finger to it. With another flash that provoked a startled exclamation, the screen finally changed.
+
+┌────────────────────────────────────────────┐
+
+Thank You For Claiming Your Starter Pack!
+
+You’ve Received:
+
+Farming Toolkit x1
+
+Crystal Device x1
+
+Baking Technique [Quality: Low] x1
+
+Underworld Apparel x1
+
+[Inventory] Pack [Starter] x1
+
+Seed Packet [Quality: Low] x1
+
+Blueprint [Cozy Bakery] x1
+
+<Accept>
+
+└────────────────────────────────────────────┘
+
+“I want to open a bakery, but I didn’t mean opening one in a place like this!”
+
+A shiny blue object fell from the sky as the black screen disappeared, landing on a pile of red sand in front of Marina. She knelt, then picked up the crystal device and held it in her right hand. It was the size of her palm, decorated with runic text surrounding a piece of red jewelry at the center. The symbols began to glow with energy as Marina's finger contacted the gemstone.
+
+┌────────────────────────────────────────────┐
+
+Welcome, Marina
+
+[Profile Overview] !
+
+[Techniques List] !
+
+[[Inventory]] !
+
+[Quests] !
+
+<Close>
+
+└────────────────────────────────────────────┘
+
+Marina sighed as she tapped the screen. “Might as well check out the things I got. Maybe if I play along, I will wake up from whatever this is.”
+
+┌────────────────────────────────────────────┐
+
+Technique Name: Salt and Sugar Sight
+
+Quality: Low
+
+Description:
+
+Isn’t it always a panic when you can’t tell
+
+the difference between the two white powder-like materials? Well, now you can!
+
+<Close>
+
+└────────────────────────────────────────────┘
+
+“So Techniques are just like video game skills, though I would’ve preferred something cooler.” Marina scrolled through the list of locked Techniques before closing the pop-up and navigating to the Quest Tab.
+
+┌────────────────────────────────────────────┐
+
+Ongoing Quests:
+
+Use Blueprint [Cozy Bakery]
+
+Harvest Lightning Corn [0/5]
+
+<Close>
+
+└────────────────────────────────────────────┘
+
+Droplets of rain began to fall from the gray sky.
+
+Marina extended her arm as red stains appeared on her pink sleepwear, which she was still wearing.
+
+“This is… Blood?” Her eyes widened.
+
+She gasped at the metallic scent that invaded her nostrils. She quickly opened her [Inventory] and pulled out the blueprint, as instructed by the quest’s directions.
+
+A slip of blue paper appeared in her hand before floating into the air above. Beams of bright light shone onto the lifeless ground, collectively casting a silhouette of a two-story-tall storefront, before the dark shadow materialized into a wooden building.
+
+Marina dashed straight for the front door of the bakery barefoot, ignoring the black pop-up screen in front of her. Small bumps of brimstone churned the bottom of her feet as she carelessly stumbled through cracked sandstone that was just enough to form a traversable ground.
+
+She pushed open the wooden door and stepped onto the polished stone floor before closing the door behind her immediately. Her bloody footsteps stained the shiny blue slate flooring as she strolled around the inside of the bakery.
+
+Furniture, the front counter display, the decor, and the warm colors of the painted walls all fit what Marina had dreamt of. She accepted the rewards on the black screen before exploring the floor upstairs.
+
+The second story of the building turned out to be an apartment as Marina entered the living room. Behind the couch sat a wooden table with a TV nearby; a shocking surprise for the woman who’d just entered the underworld. An open kitchen was directly adjacent to the living room, with two small bedrooms on the opposite side.
+
+With no further delay, Marina made her way to the bathroom, presenting herself to her reflection in the mirror.
+
+Her clothes were completely covered in a dark red hue after being drenched by the bloody rain. “What a great start…” She let out a sigh while she undressed.
+
+A chilling sensation subtly traced every inch of her naked body. Although discomforting, it reminded her that she had yet to become a pile of dust.
+
+White steam began to envelop her surroundings as the faucet filled the bathtub with warm water; its gentle heat gradually soothed the tingling of her numbing nerves.
+
+Marina dipped her hand into the tub, feeling the familiar sensation that came with such a simple action. She adjusted the temperature just slightly before lowering herself into the porcelain tub, turning off the faucet in the process.
+
+After dampening her face, Marina cleaned the remnants of dried blood that had clawed its way onto her skin.
+
+She leaned back, glancing at the bloody footsteps on the tiled floor. “All the clean-ups I might have to do afterwards…” Marina whispered in an irritable tone.
+
+Her mind had yet to relinquish its chaotic train of thought due to the inability to obtain a peaceful night’s rest.
+
+Because of the mess Marina created in the new dwelling, she chose to leave the warmth of the bathtub early.
+
+She unfolded one of the white towels she retrieved from the cabinet and patted herself dry as she glanced in the mirror. The dark circles around her eyes faded just so slightly, yet were still noticeable without the facade of beauty products.
+
+The black screen appeared at her request, with her hand hovering over the Underworld Apparel.
+
+There was no other choice for Marina to compromise at that moment; her clothes were dyed blood-red, and not to mention the potential stylistic difference between Earth and the Underworld. Yet, a hint of hesitation hummed from the tip of her finger, alongside an expression that hung upon her face, displaying neither enjoyment nor spite.
+
+At last, she tapped the black screen and accepted whatever fashion might come her way.
+
+Then a curtain of light enveloped her.
+
+Marina slowly opened her eyes as the stinging sensation in her eyelids dissipated. She looked down only to find her bare body still exposed, though her skin had become much paler than before. Marina looked back at herself in the mirror, only to meet the gaze of a stranger on the other side.
+
+In front of her was the reflection of a young woman around her age, with long blue hair flowing past her shoulder, cascading down to her waist. Within her glowing red pupils, a zap of unexpected shock emerged from the edge of her eyes, just like the expression that was displayed on Marina’s face.
+
+She gently rubbed the right side of her face, and the figure did the same. And no matter what expression or action, Marina failed to deceive the mirror’s reflection. Or rather, the reflection of herself.
+
+Resting the palm of her right hand on the cold glass surface, still damp from the residual steam of the shower, she wiped the condensation when the two pairs of red eyes locked onto each other, ever closer than before. Though the same expressions were on their faces, one desired acceptance as the other sought rejection.
+
+But in unison, both shed a silent teardrop, mourning the death of Marina Verne while accepting the beginning of a new life.

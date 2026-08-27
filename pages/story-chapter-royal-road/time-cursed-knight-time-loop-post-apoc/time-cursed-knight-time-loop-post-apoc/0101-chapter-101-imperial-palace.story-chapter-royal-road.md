@@ -1,0 +1,269 @@
+---
+id: 51876cfe-c887-5850-84e6-91679fec1638
+page-type-slug: story-chapter-royal-road
+title: "Chapter 101: Imperial Palace"
+slug: 0101-chapter-101-imperial-palace
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 101
+ownLength: 2220
+unit: words
+publishedAt: 2026-08-04
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3769705/chapter-101-imperial-palace"
+royalRoadId: "3769705"
+---
+
+Imperial Palace
+
+Varen had not seen the surface of his desk in eleven days.
+
+The wood was there, somewhere. It was buried beneath a sediment of paper so deep that the desk had become a landscape of bound dispatches, valleys of single-page field reports, isolated peaks of sealed correspondence stamped with wax in half a dozen colors.
+
+A requisition from Colonel Hartmann on the eastern frontier. Three Iron Cross operatives requesting extraction from a compromised position in a minor kingdom southeast of Wolkenmark. An intelligence digest from the southern front, stamped PRIORITY in red ink, describing a shift in elven patrol patterns along a twelve-league stretch of no-man's-land.
+
+The knock came just past ten.
+
+Captain Lorenz von Falke entered at a pace that Varen recognized immediately.
+
+"Your Highness." Falke crossed the room and set a comm crystal on the desk.
+
+Not one of the standard units. This crystal sat in a housing of dark iron rather than brass, and the stone itself pulsed a deep red — the color of a Grade A long-range transmission crystal, one of fewer than thirty in the Empire's inventory, each one capable of carrying a voice across thousands of kilometers of open terrain.
+
+"Qalathar frequency," Falke said. "He's holding."
+
+Varen set down his pen.
+
+"Leave us."
+
+Falke withdrew. The door closed. Varen pressed two fingers against the crystal's activation point, and the red deepened, and the connection opened with a faint hiss of distance.
+
+"Prince Varen." The voice that came through was rougher than it had been four months ago. Hoarse, with the dry edge of a man who had spent too many hours in desert wind. The Imperial was clean but accented. No greeting. No pleasantry. Just the name. "I have information you will want."
+
+"Prince Khalid," Varen said. "You are always interrupting. I've come to expect it."
+
+The calls had started as the price of a favor. Varen owed him. They both knew the exact weight of it, and neither had named the figure, because naming it would have made it smaller than it was. So instead they spoke. Infrequently at first. What passed between them was intelligence dressed as courtesy, and both of them understood the exchange.
+
+Then the second triple-attack came.
+
+The calls moved to biweekly. The courtesy thinned further. What replaced it was something harder: the communication of two men watching the same fire and calculating who would burn first.
+
+After the third triple-attack, the calls became weekly.
+
+Now they came every few days. Sometimes more.
+
+"The Ashkeri dealt with three new Titans again, but this time two came in a single morning," Khalid said.
+
+He did not mention casualties. Varen noted the omission.
+
+"Two in a single morning," Varen said.
+
+"The frequency is changing," Khalid said.
+
+"How often?"
+
+"Often enough that I am telling you about it."
+
+He understood the language. A proud man did not describe the cracks in his wall unless the cracks threatened something the listener also needed intact. Khalid was not asking for help. He was informing Varen that the structure their arrangement depended on was under stress that could no longer be absorbed.
+
+"Give me numbers," Varen said.
+
+"Six of the last eight days."
+
+Varen's pen had not moved.
+
+Neither of them wanted this. Varen was honest enough with himself to acknowledge it each time the red crystal pulsed. A prince of the Empire maintaining a direct intelligence channel with the heir to a foreign throne. It was the kind of arrangement that would give Elara's faction a loaded weapon if it ever came to light.
+
+But Khalid understood something that Elara did not, and that Kasimir preferred not to think about.
+
+If Qalathar fell, the Titans would not stop.
+
+Varen did not share Kasimir's faith in patience or Elara's faith in negotiation. He believed in preparation and power.
+
+"I have increased the deployments," Varen said. "A hundred and forty Iron Cross operatives distributed across the Sultanate, the southern corridor, the minor kingdoms, and the eastern frontier."
+
+"And what have they found?"
+
+Varen paused.
+
+It was the only question that mattered, and the one to which he still had no answer.
+
+"Fragments," he said. "The investigation is ongoing."
+
+"Ongoing," Khalid said.
+
+"I'm sending someone," Varen said.
+
+"You have been sending people for months."
+
+"This one is different."
+
+"Who?"
+
+"Your angel."
+
+The silence stretched.
+
+"Ah." A single syllable. "And what do you expect one man to accomplish that a hundred and forty have not?"
+
+"He's good with miracles," Varen said.
+
+"Miracles." Khalid's voice went flat. "I have enemies that require armies, not miracles."
+
+"For now, it is what I can offer."
+
+A pause.
+
+"Send him," Khalid said. "And tell your angel that Qalathar's hospitality has limits. If he burns another warehouse, I will know about it before the ashes cool."
+
+The crystal went dark.
+
+Varen set the crystal aside and leaned back in his chair.
+
+He looked at the paper landscape. A hundred and forty operatives spread across half the continent, burning through the Iron Cross's operational budget at a rate that would have made the old commanders blanch, and none of them had produced a pattern he could act on.
+
+Why?
+
+Why were the Titans moving? What was driving them?
+
+Now they were coming in packs. Coming fast.
+
+Varen opened a drawer and pulled out a separate folder.
+
+He had high-level Knights. Operators who could match a Sixth Circle Mage in single combat and had the scars to prove it. He had been building them for years.
+
+Those Knights were his reserve. His endgame.
+
+If Qalathar fell, he would need every one of them.
+
+And if it comes to that, he thought, it won't matter who sits on the throne.
+
+He closed the folder and reached for the next dispatch.
+
+The knock came minutes later.
+
+Falke again.
+
+"Your Highness. Herr Hexenzeit is requesting an audience."
+
+Varen's hand paused on the dispatch.
+
+He looked up.
+
+"Kaspar?"
+
+"He's in the outer corridor. No appointment. He said it was important and that he would wait as long as necessary."
+
+Varen sat back.
+
+The timing was interesting. Varen had signed the Qalathar deployment routing that morning, expecting it to work its way through Katja's office and reach Kaspar in the normal course of orders. The boy should not have known about it yet.
+
+"Send him in," Varen said.
+
+The doors opened, and Kaspar came through flanked by two of Varen's personal guard.
+
+The guards were a formality. They took positions at the door and remained there, hands on hilts, eyes forward.
+
+Kaspar crossed the room.
+
+"Cousin." Varen allowed the smile. "I'm glad to see you well. Truly."
+
+It was true. A dead hero was worth nothing. A living one, particularly this one, was worth a great deal more.
+
+Kaspar gave a slight bow.
+
+"Your Highness."
+
+"Sit." Varen gestured at the chair across the desk. "You didn't make an appointment. Which means either this couldn't wait, or you've decided appointments are beneath you. Given that you've recently become the most famous knight in the Empire, I could believe either."
+
+"It couldn't wait."
+
+"Then don't make it wait."
+
+Kaspar leaned forward. His forearms settled on his knees, and his eyes locked onto Varen's.
+
+"I need your support," he said. "I'm expanding into military production. Immediately."
+
+Whatever Varen had expected, it was not that.
+
+Varen knew the boy was clever. The reports from the Academy, from Formation School, from Katja's division — he had read all of them. He knew about the Magi-Cooling operation. He had invested in it himself, forty thousand crowns through the three-patron sponsorship, and he received a percentage of the revenue.
+
+But building cooling devices for noble drawing rooms and building weapons for a war were separated by a distance that most men never crossed.
+
+"Military production," Varen said. "From a cooling-device workshop."
+
+"The cooling technology is the foundation," Kaspar said. "It demonstrated that the recursive glyph architecture works. It proved the manufacturing process, built the team, established the capital base. Now I'm applying the same principles to a different output."
+
+"Which is?"
+
+"Two products. The first is an extension of the existing line, mobile cooling systems for military carriages and field installations. The southern front operates in conditions that degrade both personnel and equipment. A carriage that can maintain stable temperatures for its passengers and cargo across the desert crossing to Qalathar extends the operational range of every supply line the Empire runs." Kaspar held his gaze. "Including yours."
+
+Varen's fingers steepled.
+
+"That's an engineering upgrade," he said. "Useful. Profitable. Not the kind of thing that requires a prince's support." His eyes narrowed a fraction. "You could do that on your own. Why come to me?"
+
+Kaspar didn't blink.
+
+"Because I'm going to grow too fast," he said. "The guilds are already watching. Three of the established enchantment houses have sent representatives to the workshop in the last month." A pause. "And the noble houses that aren't buying from me are beginning to ask why the ones that are seem so comfortable. When a new player moves this quickly, the established powers either absorb it or crush it. I need protection that makes crushing too expensive to attempt."
+
+"My name."
+
+"Your name. Your contract. The Iron Cross's purchasing authority behind my production line." Kaspar straightened. "And there's a second product."
+
+Varen waited.
+
+"I'll have a final prototype within the week," Kaspar said. "A weapon. Capable of delivering a projectile with force equivalent to a Third Circle offensive spell."
+
+The room went still.
+
+Varen did not move. The steepled fingers had gone rigid.
+
+"Usable by anyone," Kaspar continued. "No Circles. A Regular Army private with two weeks of instruction could carry it into the field and kill an enemy that would otherwise require a mage to engage." The words landed without emphasis. "It runs on a single Grade B crystal. Forty uses per crystal."
+
+Varen's mind stopped processing the ambient noise of the palace.
+
+A weapon as powerful as a Third Circle Mage.
+
+The implications cascaded.
+
+The Regular Army outnumbered the Magical Army eight to one. Eight soldiers for every mage. Cannon fodder with wands and hand-me-down staves and a life expectancy measured in engagements.
+
+Give them this weapon and the arithmetic of the war changed overnight.
+
+"Where is the flaw?" Varen asked. His voice came out harder than he intended. "There is always a flaw. If this were as simple as you're describing, someone would have built it centuries ago."
+
+"Cost," Kaspar said. "The glyph architecture that makes it function is complex. Each unit requires hours of skilled inscription work from mages. There are perhaps a dozen people in the Empire qualified to do it at the tolerances required. The barrel material is ironwood, which is effectively impossible to shape without an alchemical compound I've developed. At current capacity, I can produce units. I cannot produce them in the quantities that matter."
+
+"How many is the quantities that matter?"
+
+"Thousands."
+
+Varen exhaled through his nose.
+
+He was watching the boy's face. Looking for the tell. The hesitation, the oversell, the moment where ambition outran capability and the pitch revealed itself as a dream dressed in engineering language.
+
+He's already built it, Varen realized. This isn't a proposal. He's telling me what exists.
+
+"To reach that scale," Kaspar said, "I need two things. First, a procurement contract from the Iron Cross. One large enough to justify the capital investment in expanded manufacturing, and public enough to signal to the guilds and the noble houses that this operation has Crown backing."
+
+"And second?"
+
+"Intercession with the Ministry of War. A parallel contract, or at minimum an endorsed evaluation, that opens the Regular Army's procurement pipeline. The Iron Cross can absorb hundreds of units. The Regular Army can absorb thousands, and the Regular Army is where this weapon changes the war."
+
+Varen was quiet for a long time.
+
+The Ministry of War answered to Roderich von Hexenzeit. The boy's father. The man who had ordered his household to stop speaking the boy's name. Interceding with the Ministry meant spending political capital Varen could not easily replenish, and spending it on behalf of a weapon that would, if it worked, fundamentally shift the balance between the Magical Army and the Regular Army — a shift that threatened the institutional power of every Circle-bearing officer in the command structure, starting with the Minister of War himself.
+
+Varen stood.
+
+He came around the desk.
+
+He extended his hand.
+
+"You'll have the Iron Cross contract," he said. "I'll draft it personally. Ministry of War is harder — your father's people will resist anything that bears your name, and they'll resist harder if they realize what it implies for the balance between the branches." His grip closed around Kaspar's hand. "But I'll intercede. On one condition."
+
+"Name it."
+
+Varen released the handshake and crossed back to the desk. From beneath a stack of eastern corridor dispatches, he drew a folder. He opened it and turned it toward Kaspar.
+
+A deployment order. Kaspar's name at the top. Destination: Qalathar, Kumsur Sultanate.
+
+"I need the first working models now," Varen said. "Not next month. Not when the production line is set. Now." His dark eyes held the young man's with an intensity that had nothing of the diplomat in it and everything of the strategist. "Because you're going to deliver them personally. To Prince Khalid."

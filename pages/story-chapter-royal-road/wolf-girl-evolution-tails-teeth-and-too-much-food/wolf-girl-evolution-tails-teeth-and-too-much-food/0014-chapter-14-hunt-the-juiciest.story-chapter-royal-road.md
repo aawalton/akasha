@@ -1,0 +1,249 @@
+---
+id: 12191a2a-3653-53e4-995b-65101aeb5267
+page-type-slug: story-chapter-royal-road
+title: "Chapter 14: Hunt the Juiciest"
+slug: 0014-chapter-14-hunt-the-juiciest
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 14
+ownLength: 1475
+unit: words
+publishedAt: 2025-09-01
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2566308/chapter-14-hunt-the-juiciest"
+royalRoadId: "2566308"
+---
+
+PoV Luna
+
+Luna padded deeper through the trees, nose twitching with every step. This wasn’t her pack’s ground. Or even near it. The smells here were older, wetter, wronger.
+
+There were no humans here, only monsters.
+
+The air was thick with it. Every root and leaf felt stretched, like the forest itself was holding its breath. She crept low and slow, tongue flicking over her nose, shadow-stepping tree to tree when the canopy grew dense enough.
+
+The first scent she found smelled of rot wrapped in wet stone.
+
+She found it wallowing in a pit-ringed pond, halfway buried in brown slime. The water bubbled and steamed around its sides. Warts the size of her head puffed and hissed with every breath. It blinked once. Each eye was the color of meat left out too long.
+
+Big. Ugly. Glorious.
+
+【Enemy Identified: Muckdrip, the Bog-Sweller】
+
+It croaked.
+
+Luna drooled.
+
+The belly on that thing was soft. It jiggled. It practically begged to be bitten.
+
+But then the toad twitched, and the water behind it boiled. Just a little.
+
+She backed away without a sound.
+
+Further in, the trees thinned into scorched grass and melted branches. Her pawpads ached where the ground still held heat. The scent here hit hard. Of old fire, wet ash, and the sharp smell of spoiled bone marrow.
+
+She crept to the edge of the clearing.
+
+There, curled around a chunk of blackened stone, lay a serpent as long as a tree was tall. Its scales shimmered dark red, edged with molten veins that pulsed like coals. Even asleep, it smoked.
+
+【Enemy Identified: Embercoil, Lesser Ash Serpent】
+
+Luna’s fur bristled.
+
+Too hot. Way too hot.
+
+But maybe... spicy?
+
+She imagined sinking her teeth into those glowing scales. Would it crunch? Would it burn her tongue clean off?
+
+Either way, delicious.
+
+She took three slow steps back. Didn’t blink until the snake was out of view. Then turned and darted through a dry creek bed to shake the scent.
+
+One more.
+
+She didn’t even notice it until it blinked.
+
+A stump.
+
+A weird one. Knotted and half-rotten, split through with fungus. She passed it once, thought nothing of it. But then it twitched. Shifted. Growled.
+
+A mouth split open through its center, ringed in teeth made of bark.
+
+Eyes bloomed like mushrooms along the grain.
+
+【Enemy Identified: Thornmaw, Grove-Touched Terror】
+
+Luna froze.
+
+It stared. She stared.
+
+Then she turned tail and sprinted so fast she tripped over a root and rolled halfway into a bush. She didn’t care. Back on her feet in a breath and gone again.
+
+When she finally stopped, her tail wouldn’t stop wagging.
+
+She had never seen so many juicy things in one day.
+
+Too strong. Too dangerous. Too tasty.
+
+Her stomach growled anyway.
+
+But she wasn’t stupid. Not today.
+
+No more pouncing into deer herds or trying to eat shadows.
+
+First, she had to train and level.
+
+Needed to grow sharper teeth. Stronger paws. Smarter plans.
+
+Then she would come back and pick one.
+
+Probably not the tree.
+
+But maybe... the toad.
+
+It had a very biteable belly. Wobbly. Jiggly. Like pudding made of tasty dreams.
+
+Luna licked her chops, tail swishing low, and darted off into the woods with stars in her eyes and meat on her mind.
+
+Launching herself between trees, her paws barely touched the ground. Roots turned into platforms. Fallen trunks became springboards. She leapt from stone to slope, tail flared wide for balance, heart thumping fast and happy.
+
+The world blurred with speed and joy.
+
+A loose patch of moss sent her skidding sideways. She barked in surprise, rolled three times, then bounded upright without pause. Her muscles ached. Her breath wheezed.
+
+Good signs.
+
+【Jump Lv.6 → Lv.7】
+
+The next leap went even higher. Cleaner. The next landing shook leaves from a branch.
+
+She wanted more.
+
+Found a patch of shadow under a thick pine and blinked out of it with a snort. Reappeared behind a twisted stump, vanished again, then blinked two trees ahead and tumbled out of the air face-first into a thorn bush.
+
+Thorns didn’t count as enemies. So unfair.
+
+【Shadow Step Lv.3 → Lv.4】
+
+She sat up, scratched her cheek, and grinned with all her teeth.
+
+Then climbed the nearest rise, stood tall, and raised her snout to the stars.
+
+“AWOOOOOOOO!!”
+
+It echoed. The trees trembled with it.
+
+Far off in the distance, something barked back. Once, then again, confused and curious.
+
+Luna’s ears twitched.
+
+“Too slow,” she said, and took off running again.
+
+Later, after another shadow-hop nearly dropped her into a wasp nest, she paused to sniff out something easy. Her belly wasn’t empty, but her energy needed meat to stay fun.
+
+A smell drifted past. Faint, cold, like old scales and lizard funk.
+
+She crept low, teeth bared in excitement, and found it nosing through leaf litter. It was long-legged, gangly, dumb. Its eyes blinked in different directions. Its tongue shot out once, smacked a rock, then recoiled in confusion.
+
+Perfect.
+
+Luna burst from the bush, closed the gap in three bounds, and snapped her teeth just behind its neck. It thrashed. It flailed. Its tail whipped her side.
+
+Then it stopped.
+
+“Thank you,” Luna said around a mouthful of leg, “for your contribution to muscle growth.”
+
+She dragged the limp thing home. The sun had dipped below the treeline now. Dusk smeared pink and gold across the leaves.
+
+Her little den welcomed her with damp moss and crushed fern. She slumped down into it, gnawed the lizard's leg slowly, then the spine, then the head. It wasn’t tasty. It didn’t need to be.
+
+Meat was fuel. Fuel made her bounce.
+
+And bounce she would!
+
+Tonight, she didn’t think about toads or snakes or bears made of bark. She didn’t think about humans or packmates or how far she had wandered.
+
+She just chewed, warm and full and wild, while the stars blinked open above the canopy.
+
+So small. So high.
+
+She licked her chops and stared up at them.
+
+They looked crunchy.
+
+She would eat the sky someday too.
+
+She licked her paw clean, one toe at a time, savoring the smear of lizard juice caught in the fur. Her eyes never left the sky.
+
+"Sky steak," she whispered. “Looks fluffy. And blue. Bet it crunches.”
+
+The stars blinked above like meat sparks just out of reach.
+
+She nodded to herself. This was good thinking. Solid. Maybe genius. Maybe too genius.
+
+Her belly gave a hopeful little growl. Her tail agreed, twitching once, twice.
+
+She stood and stretched, spine arching high, then dropped into a crouch with her chin pressed to the moss.
+
+Time to plan.
+
+A dumb plan. A perfect plan. A dumb-fect plan.
+
+Step one: Find the frog.
+
+It was still out there. Huge and dumb and wet. She could almost feel the squish of that belly against her teeth.
+
+Step two: Stalk the frog. Slowly. Silently. Through shadows. Dramatically.
+
+She squinted at the darkness around her and narrowed her eyes like a seasoned meat hunter. Shadows liked drama. She would give them drama.
+
+Step three: Use Shadow Step. Blink close. Right under it, if she was lucky. Then bite belly. Bite hard. Bite fast. Maybe even bite twice!
+
+Step four: Victory meat!
+
+She bounced in place, paws thudding soft against the moss, then froze mid-wag.
+
+“…Actually, step four is ‘don’t die,’” she muttered. “Meat after that.”
+
+A smarter plan already.
+
+Tail resumed wagging. That was the plan.
+
+She turned in a circle, circled again, then flopped onto her side and stared at the canopy. Stars peered through the gaps like tiny moon crumbs. She grinned and rolled onto her back.
+
+Tomorrow. Maybe the day after. But soon.
+
+Soon, the frog belly would be hers.
+
+Luna pictured it: soft, wide, slightly jiggly, probably spicy from swamp funk. There was a patch under the left leg that looked easy to tear through. She had seen it wobble. Could imagine the texture just from looking.
+
+It was going to be delicious.
+
+She would have to time it right. Shadow Step behind. Momentum Claw mid-dash. Then a huge Bite, straight to the softest spot. She even had a name for the combo already:
+
+“Shadow-Belly Crunch.”
+
+Yes.
+
+Yes!
+
+She shot to her feet, tail wagging full force now. Spun in a circle, caught a leaf in her mouth, and declared, “Training, tomorrow.”
+
+The leaf crumbled. Tasted like dirt. Still, she chewed it like it was victory jerky.
+
+Then yawned so wide her jaw cracked.
+
+The frog would keep. The world could wait.
+
+She circled back into her mossy nook, turned three more times, and curled in on herself like a spiral of fluff and ambition.
+
+One ear twitched at a distant bird cry. Another folded down.
+
+The last thing she mumbled before sleep took her was:
+
+“Sky steak… frog meat… moon pudding... all mine…”
+
+Tail twitch.
+
+Snore.
+
+Dream.

@@ -1,0 +1,49 @@
+---
+id: e2092cbe-4cdb-5482-a2e2-a61a02e25eb7
+page-type-slug: story-chapter-royal-road
+title: "Life Update - Some changes"
+slug: 0005-life-update-some-changes
+partOf: ultimate-level-1-litrpg-book-11-stubs-310
+position: 5
+ownLength: 544
+unit: words
+ownProgress: 544
+publishedAt: 2025-12-31
+link: "https://www.royalroad.com/fiction/76259/ultimate-level-1-litrpg-book-11-stubs-310/chapter/2896525/life-update-some-changes"
+royalRoadId: "2896525"
+markedReadAt: "2026-06-29T20:31:46.018Z"
+---
+
+Hey Everyone,
+
+2026 is later tonight and my original plans for how the year might start has been sidelined in a lot of ways.
+
+At the end of August I suffered a mental breakdown due to some medication my psychiatrist had me on.  My life drastically changed after that and the following month was pretty rough.  My psychiatrist and therapist both took me off the two medications I was on (Adderall & Wellbutrin).  I was suffering blackouts of time and other issues from the combination and so I went cold turkey in October after a long discussion with my psychiatrist.
+
+The good news is that I stopped suffering from the behavior changes I didn't realize I was experiencing (inability to reason, unable to determine if I should say something or not, constant on edge, etc). The bad news was that after two months of monitoring, a few things have become evident:
+
+1 - I'm struggling with focus and memory problems now. Remembering things both in life and in writing has become harder. I forget details and unless I have lists for both life and stories, I'm struggling to remember things.  I'm working on some solutions with this (New programs like obsidian to help track things) but it's been a bear realizing how much of life is being affected.
+
+2 - My son with seizures had another one last night.  We're stumped and trying to come up with a plan with the neurologist.  It's a bit heavy dealing with that.
+
+3 - My mother's dementia and mental stuff is getting worse.  Her memory and other problems continue to grow and taking care of her is harder when combined with the other two things.
+
+My psychiatrist and I are looking at trying to slowly add back my wellbutrin to help with the overwhelming feelings that seem to be crashing down on me from all the stuff. We also have another plan in place.
+
+Instead of trying to juggle 6+ stories (because that's how my brain operates, chasing things like a dog after balls), I'm going to drop down to the 3 that I need to focus on.
+
+Ultimate Level 1 is my main focus.  It's my flagship series. I'll stay on top of it.
+
+Loopbreaker is 2 books done and book 3 has started. I'll focus on it after UL1.
+
+The Awakening of Arin book 1 is finished and book 2 is started.  I'll probably plan on a week or two of being on this.
+
+That leaves my Formation story falling to the wayside for a bit (perhaps a few days a month).
+
+My Battle Through the Nine Realms will get a month off before I work on book 4.
+
+I have other stories that are in edits that I haven't even posted but been working on for a while.  Those will be slow rolled as I just can't spread myself anymore.
+
+I'd rather be honest with everyone and tell them where I'm at.  Thank you for the support. Sorry for the constant problems that seem to be plaguing all my stories lately.  I'm going to try and find a way to get back in the groove.
+
+If you're following a story that is being sidelined, I'll continue posting until the chapters I have run out.

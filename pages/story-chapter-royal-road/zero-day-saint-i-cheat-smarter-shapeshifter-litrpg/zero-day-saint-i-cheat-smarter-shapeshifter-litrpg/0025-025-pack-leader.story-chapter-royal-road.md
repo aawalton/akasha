@@ -1,0 +1,174 @@
+---
+id: e33c1083-220d-572a-aae4-c785da51dd5a
+page-type-slug: story-chapter-royal-road
+title: "025 - Pack Leader"
+partOf: zero-day-saint-i-cheat-smarter-shapeshifter-litrpg
+position: 25
+ownLength: 2272
+unit: words
+publishedAt: 2026-05-23
+link: "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3435013/025-pack-leader"
+royalRoadId: "3435013"
+---
+
+"Hot damn. I think our girl is a bit cooler than I had given her credit for," Lucy said.
+
+"Your fault for not paying attention to who your charge truly is," Gabriel said. Even in the frenzy of combat, the pride in her words felt like a belly rub. Reaching past my cynicism, right into the endorphin glands. If my emotional capacity wasn't stunted by all the killing I was doing, I probably would have gotten teary-eyed. I had spent most of the night thinking Gabriel was disappointed in me and that she regretted me as her charge.
+
+I opened party chat. It was already flooded with short tactical exchanges as the others coordinated their defense.
+
+["I'm back, sorry for taking so long. Clearing the corridor leading in from the truck bay."] I wrote.
+
+["Thank god you made it. Awaiting your arrival. Could really use another body here."] Jamie wrote.
+
+["Eve. I thought there was a bug on my UI just earlier, but others saw it too. Have you been flying overhead, going roughly 200 mph?"] Ash asked.
+
+["I did."]
+
+I ignored the follow-up questions. While my arrival and rampage had sufficiently disrupted the group at the truck bay, they would soon start pouring back into the station, and I would prefer if I was reunited with Jamie and the others by that time.
+
+That did not stop me from slapping a paw onto a ballistic shield and stuffing it into my inventory. There were corpses wearing SWAT gear here, fully automatic weapons and all. While I was strolling through the city, the others had fended off a SWAT team.
+
+I refreshed Focused Fury, got my refund, and kept clearing toward the others. I reached level 8 on the way there.
+
+The fact that I was 20% taller and more thoroughly covered in blood than I had been at any point this night, didn't stop Jamie from grinning when he saw me. I bumped my head against his hip in passing, and he ran a hand through my fur while I did.
+
+They were gathered in a large room I hadn't been in before. Something akin to a living room, complete with couch, television, and a small kitchenette, where Stephen was already at work. I couldn't spot Liz or Constance among those present, though there were two blue dots nearby on my map. Instead, Roslyn and Jason were here, sitting on the couch, their posture answering the question my mind hadn't even arrived at yet. Clark wasn't with them, and he wouldn't ever be again.
+
+I had left them after the ice storm, hadn't guided them to the fire station, and Clark had paid the price. Of course, I had planned to. But then I got distracted, my mind got assaulted by Hell's magic, and I had never thought of those people again.
+
+On some level I had known I couldn't have done anything to save Mike. Frank I might have saved, if I had been more focused, more determined. Those people? I absolutely could have saved Clark. Could have gritted my mind against Hell's attack instead of getting distracted by a devil whispering sweet nothings.
+
+Every face turned to me. I hadn't even realized I had started growling. While Roslyn's face was a mask, Jason's didn't hide the anger, the hatred. I couldn't blame him.
+
+Anthony approached me cautiously. "Eve? You okay? Can you go out and swap with Liz? She's with Constance, clearing out those who are climbing in through the windows and the roof."
+
+["Can do."]
+
+"Before you go," Stephen said. "You look like you can eat fast. Do that."
+
+He pulled a burrito out of his inventory. I still felt sick from having failed that family. But the smell and hunger allowed instincts to overtake guilt. In two bites, the burrito was gone and I had that buff back.
+
+I headed for Liz and Constance while Anthony guided me through the building via chat. He was starting to live up to his class, clearly somehow seeing the building's layout on his map.
+
+On my way, I opened the list of level 8 perks. Gabriel had said they would be good ones. They were—and a decision was impossible. I minimized the list without picking one.
+
+[Solitary Apex - Passive
+
++4 Strength, +4 Dexterity, +4 Constitution when no allies are within 50 meters. Bonus increases with Instinct skill.
+
+Dense Musculature - Passive
+
+All forms count as 300% of base mass for collision and knockback calculations without affecting movement speed. Gain natural armor equal to higher of (Constitution or Level) in all forms.
+
+Pack Leader - Passive
+
+Empathic Sense: perceive the physical and emotional state of nearby party members. Party members within range receive +2 to all attributes. Bonus increases with Instinct skill.
+
+On-kill Effect: Heal all party members within range for 5% of their maximum health.]
+
+They all felt like they were mocking me. Mocking my inability to save others, the pride at my exploit, the attempt to kneecap my leadership by picking that Inaptitude. Not that they weren't strong. But one forced me to give up on this community, to give in to Lucy's path. The other was highly situational, depending on how good 8 armor was. And that last one… no, not that one.
+
+A gunshot rang out from the direction of the other two, and I picked up pace. I found Liz and Constance flanking a door, both looking out of breath, their clothing shredded in places, covered in blood in others. There was only a single red dot in the room behind the door and I banked on it expecting a human-sized target. I rushed past them, immediately ducking to the side once I crossed the door. The zombie got a shot off, but it went wide, the only damage being my hearing. Firearms were far too loud indoors.
+
+Going for the arm first, I ensured he wouldn't get another shot off before I finished him.
+
+["Liz, you can rejoin the main group. I'll hunt the other invaders with Constance."]
+
+The two women looked in. This kill had been anything but clean. I may or may not have taken off its head when I shook its neck like a chew toy. Possibly I was developing slight anger issues as this fucking night kept piling on the trauma.
+
+"Jesus," Constance muttered.
+
+"Yeah, I'm out. Happy hunting," Liz said.
+
+["You can see them on your map, too?"] I asked Constance.
+
+She nodded.
+
+["Then you tell me where we go. By now you know this building's layout better than I do."]
+
+"Okay, follow me." She took the lead.
+
+"Take a deep breath, Eve," Gabriel said. "I know you are angry. At Hell, at the Blessing, at yourself. You are telling yourself that it is your fault Clark died. But it wasn't. Even discounting the specific attack Hell wielded against you, imperfect actions when faced with the Apocalypse aren't failure, they are inevitable. And while this attack's effect wasn't as immediate as the Wild Hunt was, it was essentially the same. The Beacon attacked your mind in much the same way, preventing the most rational course of action, without giving you any option to properly defend against it."
+
+I wanted to snap at her, to make room for that anger. But she couldn't lie. She believed those words were the truth. It hadn't felt the same as the Wild Hunt.
+
+["Could I have used Power Through to lessen its effect? For seconds?"]
+
+"Yes, you could have. Though it would have been a very short-lived clarity."
+
+Of course, at the time, I had noticed the debuff's effects on my mind. But had I underestimated them? Or was Gabriel bending the truth to help me?
+
+["How did Hell's previous attack feel for you?"] I asked Constance.
+
+Constance turned, her brows furrowed. "It was unpleasant. But this place shielded us from the worst of it. Poor Jamie had it bad. He ended up locking himself in a room. We couldn't do much but reassure him as he kept breaking down and building himself back up again." She continued leading me to the next nest of invaders.
+
+"And here you must be wondering," Lucy chimed in, "how this place could still be sanctified, if Jamie was hit so badly and didn't immediately corrupt it?"
+
+["The question had crossed my mind."] I replied in Guide chat.
+
+"It's simple really—he was a worse conduit for the Beacon attack, but also less equipped to defend against it. Your mind takes to psychological damage like an alcoholic to liquor. A lot better than others, and still seeking it out at every opportunity. You aren't dealing with the damage, as then you would stop seeking it, but you have learned how to live with it. Jamie has not."
+
+["You two are dancing on a razor's edge of excellent motivators and horrible psychic damage."]
+
+"At your service, Eve. Always."
+
+Constance had reached level 5 at some point and it had helped her deal with those mana problems. When faced with a group of zombies assembling through a side window, she'd buff me with that armor of hers, allowing me to charge in, while also taking one or two out with her Holy Blast.
+
+"They are growing less aggressive. Something is shifting and I don't know what," Constance said.
+
+I saw the signs of what she was talking about. It was a large building and there were zombie corpses everywhere.
+
+["The Seal is going to fall in place soon. Maybe Hell is finally running out of steam."] I wrote.
+
+Once more Lucy had to comment. "I'm not saying that what happens next is your fault or anything. It would be really silly if Hell timed their attacks after your commentary. But damn, Eve, do you have bad timing. May I present—"
+
+The entire building shook. Once—then once more.
+
+"—Flesh Golems."
+
+On my minimap, the swarming red dots around the building started coalescing into clusters where they vanished into larger red dots. Not many. But they didn't need many.
+
+Party chat erupted into chaos. One of those things had crushed through the wall, right into the safe room.
+
+#
+
+As we ran back, health bars started dropping. This thing hit hard, and it seemed like no one was safe. Stephen, who should have been on the other side of the room, got hit for 70% in an instant.
+
+I opened my Task Rewards and blindly accepted them all. Most were for reaching 100, 200, and 400 mph unassisted speed. I skimmed over the effects. 20% increased natural movement speed and acceleration. Resistance against Impact Damage (Only Self-Inflicted). Enhanced Resistance against Air Friction.
+
+Then an attack knocked out the one bar that mattered the most—Annika's. One attack dropped her from full to nothing. I only knew she survived because she hadn't dropped out of the party list yet.
+
+I opened those perks again and hovered over Pack Leader. But I still couldn't do it. People died because I couldn't lead. I had sabotaged myself to prevent exactly this. This option was both the strongest of them all—and the one that would inevitably break me.
+
+I chose Dense Musculature and switched to the impala.
+
+["Got enough mana for that shield spell?"]
+
+Constance didn't answer, but I saw that golden glow fall over me. Double resistance was pretty good, but I had no idea if that would save my ass. And I didn't dare ask Gabriel—she would talk me out of it. There was only one question that mattered.
+
+["What kills a golem?"] I asked in Guide chat.
+
+"Flesh Golems do not have the same weaknesses as zombies. The only way to kill one is to inflict a ton of damage," Gabriel answered.
+
+["Incoming. Make way."] I wrote in party chat.
+
+"Eve, what is your plan?"
+
+I didn't answer. I did the same I'd been doing all night. I ran. And I activated Focused Fury.
+
+In the safe room, I had only moments to take in the image. Jamie was holding the frontline. Others holding improvised weapons, or real ones. Roslyn had a ballistic shield of her own, covering Annika's unmoving body while Anthony pulled her out of the way.
+
+The Golem was a nightmare. A mass of bodies, flesh, bones. Connected and put into a 10-foot-tall humanoid shape, without any sanity. It was level 25.
+
+I didn't stop for any of it. This fucker wouldn't hurt any more of my friends. Whether I would be able to do anything about the others afterwards was another question. My cooldown was at 10 seconds. That didn't make me stop either, as I didn't want to shift. I crossed the room, picking up more speed.
+
+40% Damage from Tooth and Claw. 100% from Enhanced Charge. 72% increased mass from Focused Fury. 200% from Dense Musculature.
+
+The golem had barely registered the sound of incoming doom. It straightened just as I connected.
+
+My horns immediately shattered, sending the first wave of pain down my body, resulting in multiple cracking sounds. The second wave followed when my body followed, and more bones shattered. I had a whole host of debuffs. Paralyzed was among them.
+
+But out of the two of us? I still came out on top. My health bar was empty. My cooldown was at 3 seconds remaining. But the golem was dead. Physics couldn't explain the mountain of blood and gore that was left of it.
+
+I fell to the ground, unable to move. I had leveled and earned three more Task Completions. I saw Jamie running for me. Only a second left, but I didn't have it in me to last that long. Darkness took me.

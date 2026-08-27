@@ -1,0 +1,399 @@
+---
+id: 79c2c087-36f7-5443-a092-ab93dcded027
+page-type-slug: story-chapter-royal-road
+title: "Chapter 56: Of Holes, Bugs, and Mysterious Echoes"
+slug: 0056-chapter-56-of-holes-bugs-and-mysterious-echoes
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 56
+ownLength: 1679
+unit: words
+publishedAt: 2025-10-21
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2694468/chapter-56-of-holes-bugs-and-mysterious-echoes"
+royalRoadId: "2694468"
+---
+
+PoV Luna
+
+Luna’s adventure was, as all proper adventures were, unplanned and very fast.
+
+The wind tugged at her fur as she sprinted along the great hole’s rim, paws tapping quick beats across the earth and bits of ancient stone strewn around.
+
+Every few strides, her claws scraped sparks, her heart drummed faster, and her tail wagged behind her in perfect rhythm.
+
+The hole was huuuge! Wider than any she saw before, and deeper than any cave she had ever sniffed at!
+
+A wound in the world. The air pouring from it was cool, earth-moist, and old – no spice, meat, nor warmth.
+
+But it smelled of mystery!
+
+And Luna liked mystery.
+
+It could mean new unknown spices!
+
+She leaned close as she ran, peering into the black. Shadows twisted inside, sliding against each other like restless clouds. The bottom wasn’t visible. Maybe it didn’t have one.
+
+Her paws slowed for the first time since morning. She sniffed the air again.
+
+Dust. Stone. Old magic.
+
+Her ears flicked. Her nose twitched again.
+
+Wait.
+
+There – hidden beneath the ruins’ smell – was another scent. Wrong, sharp, buzzing with mana!
+
+Her eyes narrowed.
+
+Strong meat!
+
+She crouched low, tail going still, muscles thrumming beneath her fur. Between two fallen ribs of stone, something moved – a cluster of legs and glitter.
+
+【Enemy Detected: Hollow Shard Crawler】
+
+The creature clicked into view, its shell gleaming with translucent crystal, edges sharp and pulsing faintly with light. Its eyes were little more than glowing cracks across the surface.
+
+Luna grinned.
+
+“Biteable confirmed!”
+
+She pounced.
+
+Claws met carapace, teeth sank deep.
+
+The crystal bug screeched, flailing its legs, sparks flying as the two rolled across the stone.
+
+It fired off a beam of sizzling light, it burned through the nearby bushes. But Luna was clinging to it now, moving away just as she felt the magic gathering up.
+
+Then – crack.
+
+The glow flickered. Then died.
+
+Luna stood triumphant, muzzle dusted in glitter and bug juice.
+
+【Level Up: 6 → 7】 【Intelligence +1 | Dexterity +1 | Strength +1】 【You are now strong enough to defeat shiny bugs. What a menacing achievement.】
+
+She crunched her spoils once. Twice. Then spat a chunk of crystal onto the ground.
+
+“Hmph. Meanie,” she huffed, nose wrinkling.
+
+Shiny things always smelled so promising but never tasted right!
+
+Her tail flicked as she turned back toward the hole. It waited silently, massive and dark, a mouth that could swallow everything if it wanted to.
+
+She tilted her head.
+
+“Awoo?”
+
+The sound bounced down into the depths – faint at first, then returned, stretched and ghostly.
+
+“awoooo…”
+
+Her ears shot up.
+
+“Awoo!” she tried again, louder this time.
+
+The hole answered.
+
+“Awoooooo…”
+
+Tail wag.
+
+Again.
+
+“Awoo!”
+
+“Awoooo…”
+
+“Bark!”
+
+“Baaark…”
+
+“Bork!”
+
+“Booork…”
+
+Each echo came back slower, deeper, more dramatic. Her grin stretched wide, and her tail wagged faster, thumping against the stone in perfect time.
+
+Until the last one returned weak and faded.
+
+Luna blinked. “Lazy hole.”
+
+She huffed once, turned to leave, then froze.
+
+Something shifted far below. Not air. Movement!
+
+Tiny glimmers scurried through the darkness, dozens of them, crawling along the edges of the abyss. The faint clicking reached her ears – slow, uneven, spreading.
+
+Her fur rose.
+
+“...Weird,” she murmured, staring down.
+
+Her awoo companion stayed quiet this time too.
+
+Only the faint scrape of legs answered her back.
+
+The hole, apparently, had secrets.
+
+After the Awoo Friendship Ceremony, Luna did what she believed all proper wolves did when left unsupervised: she ran fast and bit faster!
+
+Wind roared through her fur as she bounded across the crumbling rim of the big dark hole. Ground flashed beneath her paws. Moss and dust flew in little clouds behind her. The air tasted sharp – of old magic, dry stone, and faint spice smells from faraway trees.
+
+Her nose twitched.
+
+Something new!
+
+The wind shifted, dragging a different smell down her muzzle – wet, sour, and very buggy.
+
+She slowed, ears pricking forward, tail lowering into perfect hunting balance.
+
+The path sloped downward toward another break in the stone, half swallowed by roots and shadow.
+
+Another hole! Much smaller though.
+
+Dozens of insect creatures crawled across the fractured slope. Their shells shimmered in dull gray hues, legs scraping against the rock. The sound was a steady, horrible click-click-click that made her teeth itch.
+
+Her grin spread wide.
+
+“Snack time!”
+
+Luna bolted forward, the world shrinking to motion and movement and bite.
+
+First bug – crunch!
+
+Second bug – snap!
+
+Third bug – “Ow!”
+
+Hot, hissing pain burned across her paw. She lifted it mid-run and shook hard. Steam rose where bug-blood splashed her fur.
+
+【HP -1】
+
+“Spicy!” she barked, half-laughing, half-growling.
+
+Running away would have been smart. Logical. Something Syl would say to do!
+
+But Luna was not Syl.
+
+Running through was faster!
+
+She dove straight into the swarm. Acid hissed against her fur. Wings screeched in her ears. Her claws tore through one shell, then another, then another – jagged motions, a rhythm of chaos and joy.
+
+Every bite sparked. Every hit sang. The air stank of heat and burning oil.
+
+One bug lunged and jabbed a needle leg into her flank. Pain flared – then faded to numb tingling. Her muscles twitched. Her tail spasmed once, useless.
+
+【HP -2】
+
+Weird.
+
+She bit the bug’s face off to see if that helped. It did.
+
+More came, pouring from the crack in the ground, filling the air with wing-buzz and hunger. The swarm rippled in motion.
+
+“Big family!” Luna yelled. “Bad family!”
+
+She spun through them, teeth snapping, blood sizzling. Her paws burned, but her grin didn’t fade.
+
+By the ninth bug, her breathing came heavy, every limb thrumming with dull fire. The numbness spread through her shoulders. Her tongue felt fuzzy.
+
+Then – ding.
+
+【Poison Resistance (Minor) Lv.1 → Lv.2】
+
+“Good,” Luna half panted, half laughed. She kicked one half-dead bug over with a paw, fangs still flashing.
+
+“Luna too strong for melting!”
+
+But the ground shook beneath her.
+
+The smaller hole behind the swarm pulsed. A low, rumbling hiss rolled out – followed by the clatter of many, many legs.
+
+She froze for one heartbeat.
+
+Then smiled again.
+
+“Uh oh.”
+
+The first wave of new bugs began to crawl free, glowing faint from inside their shells.
+
+Her tail flicked once.
+
+“Fun done.”
+
+And then, cheerfully:
+
+“Bye-bye!”
+
+She darted off, claws scraping stone, laughter ringing through the forest as the swarm exploded behind her in furious pursuit.
+
+Bugs hissed. Luna howled.
+
+And together, they made the ruins come alive again.
+
+But she was too fast now, and soon the hissing could no longer be heard.
+
+Apex Predator fast!
+
+She bounded ahead, searching for more fun. Still numb from the stings before.
+
+…But the rest of the run was boring.
+
+No glowing enemies. No spicy danger. Not even another hole worth awoooing at!
+
+Just a few stone bones of ruins, and the wind whispering through forest and broken walls. And the occasional pebble that dared exist too close to her paws.
+
+She kicked those for practice!
+
+Still, the run helped. The sting in her fur cooled off, and the weird numb buzz that the spicy bugs left behind finally drained away. Her limbs felt steady again. Whole. Strong. Fast.
+
+Perfect for more fun!
+
+She stretched mid-stride, claws scraping rock, tail flagging proudly behind her.
+
+“Ha! Luna still best wolf.”
+
+With no monsters to bite and no soup to sniff, her brain started poking itself.
+
+Boredom.
+
+Right. Time to bother System!
+
+Status Check!
+
+Name: Luna
+
+Level: 7/10
+
+Race: Moon Wolf Pup (Tier 0)
+
+Gender: Female
+
+HP: 44/50
+
+SP: 39/54
+
+MP: 24/38
+
+Strength: 17
+
+Dexterity: 14
+
+Vitality: 15
+
+Intelligence: 14
+
+Willpower: 5
+
+Charisma: 4
+
+Luck: 2
+
+Active Skills:
+
+Strike Lv10
+
+Bite Lv13
+
+Jump Lv8
+
+Momentum Claw Lv8
+
+Run Lv11
+
+Shadowmeld Lv6
+
+Shadow Step Lv10
+
+Lunar Form Lv4
+
+Passive Skills:
+
+Beast Instincts (Lesser) Lv1
+
+Pain Resistance Lv2
+
+Poison Resistance (Minor) Lv2
+
+Devourer’s Right Lv4
+
+Traits:
+
+Beast Constitution
+
+Gluttonous Soul – 9%
+
+Effects:
+
+Craving (Unknown)
+
+The screen flickered to life before her eyes, the usual neat little boxes full of numbers and words.
+
+Luna tilted her head, reading aloud as she padded along.
+
+“Strength: better. Dexterity: faster. Intelligence…” She squinted. “Yes, Luna very smart!”
+
+Her grin spread from ear to ear.
+
+“System not mean for once,” she declared proudly. “Progress!”
+
+Not even one snide remark about her eating habits. Maybe the System was learning manners!
+
+Or maybe not.
+
+Luna wouldl have to see!
+
+Her tail wagged in rhythm as she trotted back toward camp, humming to herself. The forest edge crept closer with every step. The wind shifted again – bringing faint smoke, faint iron, and the smell of dum-dums.
+
+Pack!
+
+She sped up, bounding between the fallen stones, tail wagging harder now.
+
+Closer.
+
+Closer.
+
+Then the scent vanished.
+
+Cut clean.
+
+Luna froze mid-stride, nose twitching.
+
+“Whuh?”
+
+She lowered her head, sniffing the ground. Nothing. No boot prints. No gear oil. No trail of Syl’s calming-tea smell. Only the faint trace of dried jerky.
+
+Her fur stood on end.
+
+She tried again – deeper breath, sharper focus. Dirt. Moss. Old ruin. No pack.
+
+Her ears tilted forward, then flattened.
+
+“Where pack?!” she barked at the empty air.
+
+Silence.
+
+The ruins didn’t even creak back at her.
+
+Luna’s tail stopped wagging. Her eyes narrowed, golden bright in the dull light.
+
+Fine. Pack smell leads nowhere? No sound? Then she would make her own.
+
+She planted her paws wide, lifted her head high, and drew a breath deep enough to rattle the dust in her lungs.
+
+AWOOOOO!
+
+Her howl rolled through the ruins, bouncing between pillars and broken stone, scattering birds into the air. It carried far, strong and clear.
+
+The echo came back softer. Smaller. Alone.
+
+She blinked once, tail twitching uncertainly.
+
+“…No, seriously. Where pack?!”
+
+No answer. Only the whisper of the wind through empty halls.
+
+Her ears twitched. Then she took one long, determined breath, and started sniffing again – deeper this time, sharp and serious.
+
+Pack lost? Fine. She would find them.
+
+Because that’s what a good pack leader did!

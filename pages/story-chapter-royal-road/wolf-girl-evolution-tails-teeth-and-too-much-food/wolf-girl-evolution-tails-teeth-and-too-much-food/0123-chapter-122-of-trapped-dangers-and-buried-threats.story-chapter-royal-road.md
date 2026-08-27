@@ -1,0 +1,581 @@
+---
+id: ad97f5b2-df11-561c-8d6a-b3c439e313f4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 122: Of Trapped Dangers and Buried Threats"
+slug: 0123-chapter-122-of-trapped-dangers-and-buried-threats
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 123
+ownLength: 2667
+unit: words
+publishedAt: 2026-04-23
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3310529/chapter-122-of-trapped-dangers-and-buried-threats"
+royalRoadId: "3310529"
+---
+
+PoV Luna
+
+The moment the light flared and the entrance sealed, Luna moved.
+
+Her instinct completely took over at the scare, and her body reacted, legs pushing off the ground as she lunged toward where the exit had just been.
+
+Claws struck against the surface that had replaced open air.
+
+But it didn’t give.
+
+Her momentum carried into it next, the impact sharp enough to jar through her arms before she pushed off and tried again from another angle.
+
+Luna circled once, twice, searching for any weakness, any gap.
+
+But there was nothing there, and her claws barely left a mark.
+
+Wrrr!!!
+
+Barked door!
+
+Open up!
+
+Yet each of Luna’s hits only made the lines beneath her feet burn brighter.
+
+She stopped to consider the trap.
+
+The earlier scent still lingered, thick and overwhelming at the center of the room, but now that she wasn’t rushing toward it, now that she wasn’t pulled by it–
+
+She could smell past it, beneath it.
+
+Her head turned slowly.
+
+The shifting air revealed what was hidden before.
+
+The sweetness broke apart.
+
+And what remained underneath was–
+
+Wrong.
+
+Sharp, and bitter.
+
+It smelled of pure…
+
+Malice.
+
+It wasn’t subtle anymore.
+
+It had been hidden, layered carefully beneath the overwhelming heavenly smell of the meat, until she had crossed inside.
+
+Her body tensed.
+
+A low sound built in her throat before she forced it down.
+
+Hmph!
+
+Whatever the bleh baddie planned, Luna would not stay still!
+
+She shifted approach, and her form too!
+
+And moments later, now in wolf form, Luna drove forward again, teeth bared as she aimed for the barrier with full force of her fury!
+
+The moment she struck–
+
+The light surged, but the barrier didn’t break.
+
+It resisted and–
+
+Pushed back?
+
+The force of her attacks was being swallowed up by something, instead of landing cleanly!
+
+Wooo!
+
+Bad thing!
+
+Luna skidded back, claws scraping as she caught herself, her ears flattening as she tried again, this time aiming for the lines themselves.
+
+Same result.
+
+The runes flared, brighter than before, and her push met the same resistance, her effort fading into nothing!
+
+No!
+
+…It wasn’t working.
+
+Luna needed… a better approach!
+
+Her gaze moved the rest of the space–
+
+Hmph, Luna will show you, weird light thingy!
+
+She didn’t lunge at the gate this time. Shifting her stance, Luna burst into motion along the wall instead, paws barely touching stone as she accelerated! Her Jump and Shadow Run skills stacking naturally, carrying her into a tight arc that sent her up and across the curved interior!
+
+Faster.
+
+Smoother!
+
+Her body followed the path without hesitation as she kicked off at an angle, her shadows letting her build speed without waste!
+
+…Even then, Luna felt the pull on her, felt her Skills not firing properly, duller.
+
+The strange lights flaring wherever she passed, sapping them of their bite!
+
+Unfair!
+
+Absobarkinlutely unfair!
+
+But Luna wouldn’t be deterred!
+
+Shadowmeld!
+
+Her form blurred at the edges as she pressed into the shadowy darkness clinging between the glowing lines, her presence thinning just enough to test it.
+
+The runes still reacted.
+
+They flared–
+
+But didn’t stop her!
+
+Her golden eyes sharpened.
+
+Good!
+
+Luna pushed even further beyond!
+
+Shadow Step.
+
+But the moment she tried to cross outside–
+
+Resistance hit, and she bounced back.
+
+Dragged back before being allowed escape, like the shadows themselves were being stretched thin across the barrier.
+
+Luna snarled and forced more into it, her body snapping forward–
+
+–and then snapping back, her paws hitting stone again as the transition failed halfway through.
+
+Wrrr!
+
+Close.
+
+Very close.
+
+But not enough!
+
+Her tail lashed once, but she didn’t waste time repeating the same attempt.
+
+Instead she moved again, faster, circling the interior, her body building speed deliberately this time. Each step fed into the next as she leaned into it, her speed stacking even harder, her motion tightening into a controlled loop.
+
+Momentum built.
+
+Her claws skimmed the surface as she angled upward again, then down, then across, never striking, never feeding the runes directly.
+
+The pull slowed her down, but Luna didn’t care!
+
+Momentum Claw.
+
+Right into the gate!
+
+The tower shook, the response blinding. A massive rent now marred its surface.
+
+…But it still held.
+
+And Luna’s paw shook, all tingly.
+
+Her eyes gleamed.
+
+This trap was strong. Very strong!
+
+But before she could test things even more–
+
+“Luna!” a faint voice could be heard, cutting through the space from outside.
+
+–Her pack arrived!
+
+Luna immediately shifted back to human.
+
+“Second!”
+
+She turned immediately, her attention snapping toward the sealed entrance beyond which her pack had gathered.
+
+They had followed, like proper pack should!
+
+Relief hit Luna first.
+
+Strong and immediate!
+
+“They trapped Luna!” she called back, her voice tight with urgency as she stepped closer to the gate again, though she didn’t touch it this time.
+
+“Weird lines take strength! Make Luna weak!”
+
+Though not visible to Luna, Syliana was already there, her hand raised and focus intense as she examined the structure.
+
+“Stay still,” Syl said, her tone firm, controlled. “Don’t waste your energy pushing against it.”
+
+Luna forced herself to stop moving, though every instinct pushed against it, her body wanting to test, to break, to escape.
+
+“They hid smell,” Luna continued quickly, forcing the words out while she still had them clear. “Good meat on top, bad under. Very bad. Malice.”
+
+Syl’s expression sharpened.
+
+“Understood.”
+
+Her attention shifted immediately, her senses extending outward as she began analyzing the structure in full.
+
+Ray moved to the side, scanning the surroundings again, his posture tightening.
+
+“Then whoever set this didn’t want it obvious,” he said quietly. “Which means they’re either watching…”
+
+“…or waiting,” Veric finished.
+
+Trianna’s hand rested lightly against the blocked entrance, testing it more cautiously than Luna had.
+
+“Yeah, not liking this,” she muttered.
+
+Luna stayed where she was, holding still as best she could, her attention flicking between the gate and the space around her, her senses stretched thin as she tried to catch anything else hidden in the scent.
+
+The scent of her pack, knowing they were near–
+
+It calmed Luna down.
+
+But–
+
+Together with their smell… The malice got stronger too.
+
+Yet–
+
+Not in the room?
+
+It drifted in from outside!
+
+Her ears snapped upright.
+
+“Second, careful–!”
+
+Her pack reacted, and just in time.
+
+The ground erupted.
+
+The shift came without warning, the earth around the tower bursting upward in violent motion as soil and stone were thrown aside. Shapes followed the movement, forcing their way up from beneath the surface, breaking through multiple points around the structure at once.
+
+Many, wrong smelling, bad.
+
+The trap inside wasn’t the only one.
+
+The second one just sprung.
+
+***
+
+PoV Ferric:
+
+Ferric came down later than usual.
+
+The excitement of the night prior was quite a joy after the expedition, and with nothing else on the agenda, he let himself catch up on some much needed sleep.
+
+Yeah, it felt nice to sleep in once in a while!
+
+The Guild had already settled after the chaos of the previous night, the noise reduced to its usual hum as people either recovered or went about their business with varying levels of enthusiasm.
+
+The feast had done its work well, and the aftereffects lingered just as strongly in the groans, slow movements, and scattered conversations that filled the space.
+
+That suited him fine.
+
+He wasn’t there for the noise and gossip this time.
+
+He was there for information.
+
+Work could perhaps wait a little, but the faster he got it done, the sooner he could get back to the more important things!
+
+Like food, drink, and gossip, ha!
+
+Julia was exactly where she always was, handling her work with the same steady efficiency regardless of what had happened the night before. Ferric approached without ceremony, leaning lightly against the counter as he gave her a brief nod.
+
+“Morning,” he said. “Looks like I missed quite a bit.”
+
+Julia glanced up, offering a small, knowing smile.
+
+“Guildmaster,” she nodded, handing him a small stack of papers. “Here, those are the reports that need your attention from the past week.”
+
+He took them from her with a nod, briefly checking them over.
+
+Nothing important, just…
+
+Feh.
+
+Bureaucracy.
+
+“The feast went on longer than expected, and most of the Guild is still recovering.”
+
+Ferric huffed quietly, not surprised.
+
+“Sounds about right.”
+
+He shifted slightly, settling in more comfortably as he continued.
+
+“I heard some of it on the way in, but I want the full version. What happened while I was out?”
+
+Julia obliged, summarizing the key points without embellishment. Everything worth noting – from the start of the expedition, down to the feast, and the general mood.
+
+Ferric listened without interrupting, piecing it together quickly.
+
+His attention sharpened slightly.
+
+“What about Syliana’s group? I was planning to catch them before they moved on. Had something I wanted to run by them.”
+
+Julia paused for just a moment.
+
+“They have already left.”
+
+Ferric blinked once.
+
+“…What, they left already? Right after that feast?” he said, a short laugh escaping him despite himself. “Ha. Those busy bees.”
+
+He shook his head.
+
+Syliana was always oh-so-very-serious about work.
+
+And it seemed her party was much the same.
+
+Ferric straightened slightly, already preparing to let it go and move on to something else.
+
+“Where to?”
+
+“They got a Named Request, to investigate some old tower ruins,” Julia replied.
+
+Ferric exhaled through his nose, a familiar irritation surfacing as he shook his head.
+
+“Of course, of course,” he muttered. “Good stuff truly gets hoarded by the capable few.”
+
+That was how fame worked.
+
+Strong parties, known names. It led to better opportunities. Nothing new, in this job or any other.
+
+He had already begun to turn away when–
+
+His gut lurched, sharp and immediate, stopping him mid-step before he had fully processed why.
+
+He froze, then slowly turned back.
+
+“…Named request?” he repeated, his tone shifting.
+
+Julia nodded.
+
+Ferric’s expression tightened slightly.
+
+That wasn’t anything unusual.
+
+Not on its own.
+
+A B-rank party getting a direct request made sense.
+
+That was expected.
+
+Completely normal.
+
+Except–
+
+His thoughts stalled for half a second.
+
+Something didn’t sit right.
+
+Named requests like that…
+
+They were common, yes. But mostly happened in–
+
+“…the big cities,” he muttered under his breath.
+
+Julia’s eyes narrowed slightly, picking up on the change.
+
+Ferric looked at her fully now.
+
+“Tell me the details.”
+
+Julia nodded, found the request, and noted out the important parts, clearly and concisely.
+
+An abandoned tower, a fair distance from town, with monsters reported inside.
+
+And a client who wants it cleared.
+
+Ferric listened to her speak without interrupting.
+
+Yet the feeling in his gut didn’t ease.
+
+It got worse.
+
+By the time she finished, he already knew that something was off.
+
+He just didn’t know what yet.
+
+“…That tower,” he said slowly, more to himself than to her. “That location… It shouldn’t be–”
+
+Ferric stopped.
+
+His memory shifted, searching.
+
+…He knew that place.
+
+“…It’s a known location,” he continued, frowning now. “Should have been checked already. Cleared. Cataloged. It is just… one of the many old guard towers, from the expansion era.”
+
+Julia tilted her head slightly.
+
+“Guildmaster? Are you sure?”
+
+Ferric didn’t answer immediately.
+
+His certainty wavered just enough to matter, and his memory wasn’t perfect, but–
+
+“I need to check,” he said instead, already pushing off the counter.
+
+He didn’t wait.
+
+Ferric turned and moved quickly across the Guild, heading straight for the archives. The shift in his pace drew a few looks, but he ignored them, his focus narrowing as the unease settled in deeper.
+
+The records weren’t far, in a room next to his own office.
+
+He parsed through the documents, searching.
+
+And found what he needed faster than expected, his hands moving through the files with practiced efficiency until he found the entry.
+
+There.
+
+A centuries old frontier outpost.
+
+Watchtower.
+
+Used during expansion.
+
+Abandoned, checked, cleared.
+
+And properly documented.
+
+Ferric stared at the page.
+
+A few reports of adventurers clearing out some monsters from there were tucked in too.
+
+…But nothing unusual.
+
+It was just an old ruin.
+
+…Matching exactly what he remembered.
+
+He exhaled slowly, the unease getting worse now.
+
+Dungeons appearing in old structures wasn’t unheard of. Monsters reclaiming abandoned places wasn’t unusual either.
+
+That some scholar or noble would somehow find out before any reports found their way to him?
+
+Well, that happened sometimes, the Guild was hardly the only place people reported to.
+
+But–
+
+Ferric’s grip tightened slightly on the document.
+
+His gut feelings weren’t perhaps the most reliable.
+
+…But for smelling trouble? They were rarely wrong.
+
+He closed the file, his expression set.
+
+“…Not this time,” he muttered.
+
+Something was wrong.
+
+And Ferric intended to find out what.
+
+He did not waste time.
+
+By the moment the file closed in his hands, his course was already set.
+
+He moved through the Guild with purpose, crossing the main hall in long strides as he began pulling together what he would need. Gear first. Weapons checked out of habit rather than doubt. A quick assessment of what he could carry without slowing himself down.
+
+He had just finished securing the last strap when Julia approached, her pace faster than usual.
+
+“I double-checked,” she said without preamble. “The tower’s records are recent. Inspected just a couple years ago. No mana activity, no structural instability, nothing flagged for further interest.”
+
+Ferric nodded once.
+
+That matched what he found.
+
+Which made it worse.
+
+“It shouldn’t have been selected,” he said, more to himself than to her. “Not for something like this.”
+
+Julia didn’t argue.
+
+“What do you need of me, Guildmaster?” she asked instead.
+
+Ferric’s response came immediately.
+
+“Call an emergency. Quietly, but fast. Use my funds if you have to.” His gaze shifted toward the entrance, already measuring time in distance. “Get a healer ready. Someone competent. And bring out emergency potions.”
+
+Julia’s expression tightened slightly.
+
+“You’re certain?”
+
+Ferric looked at her.
+
+The answer didn’t need words.
+
+“Something is wrong,” he said, voice low but firm. “And whatever it is…”
+
+He paused just long enough for the thought to settle fully.
+
+“…it’s dangerous.”
+
+Julia nodded once and moved immediately, already calling for assistance as she crossed back toward the desk.
+
+Ferric turned the other way.
+
+The Guild floor responded quickly to the shift in his presence. Conversations quieted as he moved through, simply because the intent behind his actions was clear.
+
+He didn’t stop to gather everyone, didn’t call for a full assembly, but those who paid attention saw it anyway.
+
+Preparation and urgency. Him being ready to move out.
+
+Even the groans stopped, attention fully onto him now.
+
+“Listen up,” Ferric said, not raising his voice but carrying it cleanly across those nearest. “We’ve got a situation developing outside the walls. I’m heading out now.”
+
+A few turned fully toward him.
+
+Dorian among them.
+
+“Guild protocol applies,” Ferric continued. “Julia’s organizing everything. Follow her lead. If I’m not back by nightfall, escalate.”
+
+He had no more words to give.
+
+Not when time was of essence.
+
+Those who needed to understand, did.
+
+At the threshold, he paused just long enough to leave one final instruction, directed to no one and everyone at once.
+
+“If I don’t return, you’ll know this wasn’t routine.”
+
+Then he stepped out.
+
+The stable hands barely had time to react before he was there, already selecting a mount with practiced familiarity. The horse responded to him easily, trained well enough to handle urgency without losing control.
+
+And within moments, he was mounted.
+
+The stable gates opened.
+
+And Ferric rode out.
+
+Hard.
+
+The city fell behind quickly, the road stretching out ahead as he pushed the pace without hesitation. His focus narrowed to distance and direction, his thoughts running ahead of him as he pieced together what little he knew.
+
+A cleared tower.
+
+A recent inspection.
+
+No reason for a request.
+
+No reason for monsters.
+
+No reason–
+
+His grip tightened on the reins.
+
+Except there was.
+
+There was always a reason.
+
+He just hadn’t found it yet.

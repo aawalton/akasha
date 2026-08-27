@@ -1,0 +1,509 @@
+---
+id: d6c14b5c-7324-59e2-a34a-3d68332f5b91
+page-type-slug: story-chapter-royal-road
+title: "Chapter 6: Iris"
+slug: 0006-chapter-6-iris
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 6
+ownLength: 3993
+unit: words
+publishedAt: 2026-04-06
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3237182/chapter-6-iris"
+royalRoadId: "3237182"
+---
+
+I blinked at him, still half-deafened by the echo of my own mistake.
+
+"Noble?" I repeated.
+
+The soldier didn't lower his staff, but the green crystal at its crown stopped pointing directly at my heart and drifted a fraction downward.
+
+"Yes?" he answered, and the single syllable carried real confusion, like I'm the strange one here.
+
+I tightened my grip on the sword without meaning to. I forced my fingers to relax, to look less like a thief caught with stolen goods and more like… whatever a "noble" was supposed to look like in this world.
+
+"What makes you think I'm a noble?" I asked, keeping my tone as steady as I could.
+
+Curiosity sparked under the fear.
+
+If a random armored soldier had taken one look at me and assumed high-born, then that meant something in my appearance—my clothes, my hair, my bearing—was speaking a language I didn't know I was speaking.
+
+And in a camp where rank decided who got listened to and who got locked in a cell, that language might be worth learning fast.
+
+Maybe I can pretend to be a noble, I thought, the idea sliding into place with the cold practicality the loops had forced into me. If a lie could buy me access. Information, authority, an audience with someone who mattered. It might be worth the risk.
+
+The soldier's helmet tilted slightly, as if he were studying my face through the narrow visor. His voice sharpened, skepticism creeping in.
+
+"You're not a noble?" he asked.
+
+I didn't answer immediately.
+
+He continued, as if the explanation was obvious.
+
+"It's that only nobles still bother to play with swords."
+
+The words landed oddly. As if the blade in my hand wasn't a weapon at all.
+
+I almost laughed, but it came out as something closer to a surprised breath.
+
+"Really?" I said. Then, despite myself, enthusiasm bubbled up. Genuine, childlike, the part of me that had grown up watching heroes in films swing steel with impossible grace. "But swords are so cool."
+
+The admission felt stupid the moment it left my mouth, yet it was also true.
+
+I couldn't remember much about Kaspar's childhood or even many concrete details about him at all.
+
+But in my previous life, I had been raised in a world without magic. There were no spells, no crystals, no arcane forces shaping reality.
+
+There were, however, swords.
+
+Growing up in a Catholic, religious household, I heard every kind of tale imaginable. Knights riding off to the Crusades, Arthurian legends, heroes, and defenders of honor. Nothing made a child's eyes shine brighter than the thought of standing atop a kingdom's walls, sword in hand, an endless horde of enemies surging below.
+
+Perhaps that was what led me to become a firefighter.
+
+Or perhaps not.
+
+It wasn't something I had thought about in a very long time.
+
+The soldier raised an eyebrow beneath the helmet. I couldn't see it, but I could hear the expression in the pause that followed.
+
+"…So either you're a noble," he said at last, "or you have gold to spare. Who else would waste time with a sword when they could be learning magic?"
+
+His voice shifted slightly when he mentioned magic. Like it was obvious. As if the entire society was built around mana and circles and rings of light, and steel was just an old tale.
+
+He added, almost as an afterthought, "Well, there are the Knights and the Northern Barbarians, but they'd never be in an expedition like this."
+
+Knights. Barbarians.
+
+The world widened by a fraction with those words. It wasn't just an Academy and a gate. There were factions, histories, ways of war I hadn't even begun to grasp.
+
+I glanced down at the sword again.
+
+So to them, swords are obsolete, I thought.
+
+Aloud, I said carefully, "I understand. Still… I don't think I'm a noble."
+
+The soldier made an impatient sound, something between a huff and a scoff.
+
+"What do you mean you don't think?" he asked. "Either you are or you aren't."
+
+I could try to bluff. Claim noble blood. Demand to be left alone. It might work for five minutes, until someone asked for a name, a crest, proof.
+
+Or I could tell him something closer to the truth.
+
+I hesitated only a heartbeat.
+
+Then I took the risk.
+
+"I've lost my memory," I admitted.
+
+The words felt dangerous the moment I spoke them. But I weighed it quickly, the way I'd learned to weigh risks now: Worst case, they arrest me. The day restarts.
+
+This soldier, this armored figure with the green-crystal staff, didn't sound like Blut. He wasn't snarling. He wasn't performing cruelty for an audience. There was suspicion, yes, but also confusion. Maybe even restraint.
+
+He doesn't seem too hostile, I thought.
+
+The soldier tilted his head. The scrutiny in his posture intensified. He didn't step closer, but the staff angled up again ever so slightly.
+
+"Lost your memory?" he echoed. "That's quite convenient."
+
+"It's the truth," I insisted. "I remember my name is Kaspar. That's all."
+
+My fingers tightened around the sword's hilt. It felt suddenly incriminating.
+
+I swallowed and took the next step.
+
+"Do you… know me?" I asked. "Sir?"
+
+The armored figure stiffened as if the word had struck him more sharply than any blade.
+
+"First off," he snapped, "cut the sir crap."
+
+His tone carried irritation, but not the kind Lieutenant Blut used.
+
+Before I could respond, he reached up and unlatched his helmet.
+
+Metal shifted. Leather straps loosened. And then he lifted the helmet free.
+
+A cascade of raven-black hair tumbled out, messy from being pinned beneath steel. Torchlight caught the strands and turned them glossy, like ink catching a flame.
+
+It's a girl.
+
+Her face was sharp in a way that felt deliberate. High cheekbones, a refined jaw, lips pressed into a line. Her eyes were the most startling part: deep blue, vivid enough to feel out of place, like a piece of clear sky trapped underground.
+
+Along her right cheekbone ran a faint scar. It didn't ruin her face. It made it real. Proof that she'd survived something that had tried to mark her.
+
+My surprise must have shown, because her gaze narrowed.
+
+"Second," she continued, never taking her eyes off me, "you're Kaspar?"
+
+"As in… the Kaspar?" Her voice sharpened. "Kaspar, the Bastard?"
+
+My stomach tightened reflexively, remembering Blut's sneer, the way other students' eyes slid past me as if I were something lesser.
+
+"I… don't know about the Bastard part," I said, the confession bitter on my tongue. Then I forced myself to be firm. "But yes, Kaspar."
+
+For a heartbeat, something almost like amusement flickered in her eyes.
+
+"Actually," she said, voice dry, "in your case it's fair to say you are and aren't a noble."
+
+My brow furrowed. "How so?"
+
+Her eyes flicked briefly to the sword in my hand, then back to my face. "Have you truly lost your memory?" she asked. "Have you considered speaking with one of the professors or officers?"
+
+The question made a sharp laugh threaten to escape me.
+
+Professors. Officers. Blut.
+
+I remembered chains clamping around my wrists. A cell door slamming shut. The helplessness of listening to screams from behind bars. If I went to them again with confusion and questions, I wouldn't get answers. I'd get punishment.
+
+But telling her that, telling her too much, could be dangerous.
+
+So I lied.
+
+"They think I've gone mad," I said, making my voice sound tired rather than afraid. "That's why I've been hiding." I watched her as I added, "Yes. I lost my memory."
+
+If she was the kind of soldier who punished weakness, I'd see it in her posture.
+
+Instead, she exhaled and muttered something that sounded half like a curse and half like surrender.
+
+"What a mess," she said and stepped closer.
+
+Surprisingly, she sat down on a nearby rock as if we were two travelers meeting on a road instead of a patrol soldier and a suspicious boy with a stolen sword.
+
+My heart eased by a fraction. Not because I trusted her. Simply because she wasn't shouting. She wasn't calling guards.
+
+"Forgive me," I said, keeping my tone respectful without falling back into "sir." "What's your name? Now that you know mine."
+
+And beneath the words, another thought threaded through: If I loop again, I need to remember this. Names matter. Allies matter. Even brief conversations matter.
+
+She gave a small nod. "Iris," she said.
+
+Then she added with a touch of pride, "Second Circle Mage and Flammenknecht."
+
+"Flammenknecht."
+
+The word lingered in my head after Iris introduced herself. It felt like a title. It was the second time I'd heard a rank like that, something that wasn't simply soldier or mage, but a name for a place in the world's hierarchy.
+
+I didn't have the luxury of caring what it meant.
+
+I shifted my grip on the sword and kept it low, angled toward the ground so I didn't look like a threat.
+
+Far below, the camp was beginning to wake. Faint voices, the clink of equipment, the distant murmur of a system that never stopped moving.
+
+I forced myself to focus on the woman in front of me.
+
+Iris sat perched on a higher rock, one knee drawn up, the other leg hanging loose, as if she'd done this a hundred times.
+
+"Now that you know I have no memory," I said carefully, "may I ask you some questions?"
+
+Her blue eyes narrowed, studying me the way a guard studies a door that might be hiding something behind it.
+
+"It's still hard to believe," Iris admitted. There was no softness in the words, just honesty. "But if it doesn't get me into trouble, I'll answer what I know."
+
+Then her gaze flicked past me, toward the faint glow that marked the upper camp's patrol routes.
+
+"But we need to be quick," she added, voice lowering. "My superiors will start looking for me when they notice I'm late for my patrol."
+
+Time. Always time.
+
+My mind felt like a room crammed with questions, all of them screaming to be answered at once. What's an artifact? Why am I called Bastard? Why do I have no mana? How do I stop the gate from opening? How do I kill a wyvern?
+
+I swallowed and forced myself to start with something basic.
+
+"What is a Circle?" I asked.
+
+Iris blinked, eyebrows lifting.
+
+"Wow," she said, and there was a hint of disbelief in her tone. "Your memory really is gone."
+
+My stomach tightened. I didn't know whether to feel relieved that she believed me, or ashamed that I'd just proven how ignorant I was.
+
+"Circles are measures of mana mastery," she explained.
+
+I stared at her, waiting for the words to arrange themselves into meaning.
+
+They didn't.
+
+My confusion must have shown, because Iris let out a quiet breath that sounded almost like a laugh.
+
+"Sorry," she said. "That's how they explain it in the academies."
+
+She shifted her staff across her lap and extended one hand toward me, palm up, like a teacher about to demonstrate something.
+
+"Let me simplify it. Pay attention."
+
+I did.
+
+I leaned in slightly, keeping my eyes on her hand and my ears tuned to the sounds of the camp beyond the rocks.
+
+"Everything is made of mana," she said. "It's the fundamental energy that exists everywhere. Think of it as the lifeblood of the world."
+
+"Each person can process and manipulate different amounts of mana," Iris continued, "and different types of mana."
+
+I nodded slowly, trying to keep up.
+
+"This ability comes from the mana cores within our bodies."
+
+Iris watched my face, making sure I was following.
+
+"But raw energy alone doesn't do much," she went on. "The Circles represent your skill in channeling that mana into spells. Each Circle you achieve allows you to perform more complex and powerful magic. With more Circles, you can better use mana to create, change, or destroy."
+
+Then she demonstrated.
+
+The air around her wrist shimmered.
+
+Two luminous rings formed out of nothing, hovering just above her skin. They rotated slowly, orbiting her wrist with quiet grace.
+
+The sight hit me with a blunt, breath-stealing awe.
+
+It wasn't like a trick.
+
+It wasn't like a spark or a flash.
+
+It was structured. Something precise and controlled, as if she'd drawn geometry into the air and commanded reality to respect it.
+
+I stared at the rings, feeling something inside my chest tighten with equal parts fascination and dread.
+
+I didn't fully understand her explanation, but the shape of it made sense.
+
+Core is like a battery, I thought. Circles are how well you can use the battery.
+
+I looked from the glowing rings back to Iris.
+
+"So those are… Circles?" I asked, my voice quieter than I intended.
+
+"Yes," she said, and a small smile touched her mouth. Almost surprised by my wonder. "These denote that I'm a Second Circle Mage. The more Circles a mage has, the greater their abilities."
+
+"I see," I said, keeping my voice low. "But how does one get a Circle?"
+
+Iris's expression shifted slightly, thoughtful. "It's a combination of talent, study, and experience," she explained, like she'd repeated this lesson a hundred times to recruits who didn't listen.
+
+She lifted her hand and gestured vaguely.
+
+"Advancing requires a deep understanding of mana," she continued, "rigorous training, and often a catalyst."
+
+"A catalyst," I repeated, the word familiar from my old life. Chemicals, reactions, heat. Something that sped up change without being consumed.
+
+"A significant event or realization," Iris clarified, "that expands your Circle's amount."
+
+The phrase made my skin prickle.
+
+A significant event.
+
+I couldn't help thinking: How many catalysts have I had? How many deaths? If suffering and revelation forged advancement, then I was drowning in both.
+
+I nodded slowly, trying to hold onto her words. "And without any Circles… a person can't use magic?"
+
+Iris's gaze softened, just a fraction. "Some do, some don't," she said gently.
+
+She spoke as if she wasn't only explaining theory now, but trying to step carefully around something that might cut.
+
+"Those without Circles are unable to manipulate mana outside of their body," she said, switching back to clearer, more deliberate phrasing. "They can still sense it, feel its presence, but they can't command it in the real world."
+
+Her fingers flexed slightly, and I watched her hand as if the answer might appear in her palm.
+
+"There are some," she added, "who can use it inside the body. Knights use magic all the time, but on the inside."
+
+The word snagged my attention hard.
+
+"Knights?" I asked.
+
+Iris reacted as if I'd asked about a rival faction.
+
+"Some lunatics who still use swords and spears," she said, and there was genuine heat in her voice now, like an old argument she couldn't resist revisiting. "Some have Circles. Some don't even bother trying to form them."
+
+She leaned forward slightly on her boulder, animated.
+
+"In the end, they only care about having cores and using mana to increase the power of their own body," Iris continued. "Strength. Speed. Durability. They treat mana like fuel and their flesh like a furnace."
+
+Her eyes narrowed. "But they're crazy," she added, almost with satisfaction. "Listen to me. Crazy. No one takes them seriously."
+
+I listened, but my mind had already latched onto the one part that mattered.
+
+Mana inside the body.
+
+If my problem was that I couldn't manifest rings, couldn't push mana outward into shields and spells…
+
+Then maybe the answer wasn't to become a mage at all.
+
+Maybe the answer was to become one of these "lunatics". Use whatever core I had. If I had one. Make my weak, untrained body strong enough to survive five minutes against a wyvern.
+
+The idea lit up inside me like a flare.
+
+I kept my face neutral, but my heart had started beating faster.
+
+"Would being a Second Circle mage be considered impressive?" I asked, trying to sound casual. As if it were idle curiosity and not me desperately calibrating the scale of power in this world.
+
+Iris paused.
+
+It was a small pause. She lifted a hand and brushed a stray strand of hair behind her ear, buying herself a breath before answering.
+
+"No," she said gently.
+
+I swallowed, throat dry. My mind immediately jumped to the man I'd seen opening the gate. Rings spinning around his hands like orbiting moons. Six rings. Six Circles.
+
+Iris kept speaking.
+
+"Circles one through three are for beginners," she explained. "Common among the general population. Those who reach the Fourth and Fifth Circles are considered experts."
+
+She hesitated slightly at the next part.
+
+"But beyond that…" Her voice lowered, careful. "Beyond that are the prodigies. The ones who border on legend."
+
+"Sixth and Seventh Circle mages," Iris continued, "there might be only a thousand or so in the world."
+
+Only.
+
+A thousand in the whole world. My mind tried to picture that scale, but it failed; it was too big and too small at the same time.
+
+"Eighth Circle mages are rarer still," she said. "Only ten people in the world have that mastery."
+
+Ten.
+
+The number made my stomach sink. Ten people who could do what most could barely imagine.
+
+"And as for the Ninth Circle…" Iris's gaze drifted, as if looking past the cavern walls and into history itself. "They've existed in the past. But as far as anyone knows, there are none alive today."
+
+Silence settled between us for a moment, filled only by distant camp sounds.
+
+I stared at her, trying to fit myself into that ladder of power.
+
+I had zero Circles.
+
+And yet I was being marched toward a gate that required a mage of legendary rank to open.
+
+What did that say about the danger?
+
+What did that say about what waited beyond?
+
+It made my earlier hope—five minutes and I kill a wyvern—feel naive, almost childish.
+
+And still… it was all I had.
+
+I forced the next question out before doubt could rot it into silence.
+
+"Then why are you still at the Second Circle?" I asked, then immediately realized how it sounded. Too blunt, too personal, too much like I was asking why she wasn't better.
+
+I tried to soften it, but the words were already in the air.
+
+"Isn't there a way for you to advance?"
+
+A shadow crossed Iris's face the moment my question left my mouth.
+
+For a heartbeat, she looked tired.
+
+"Advancing in Circles requires extensive study and a deep understanding of mana," she said at last.
+
+Her voice was quieter now, more measured. It carried the tone of a soldier explaining a wound: no dramatics, only facts.
+
+"It's not about raw power," Iris continued. "It's about mastery and control."
+
+Iris's gaze drifted back to me.
+
+"Higher Circle spells and techniques…" She hesitated, choosing her words. "The texts for them are expensive or inaccessible. Some advanced tomes are guarded by powerful families, organizations, or kingdoms. They hoard knowledge the same way they hoard land."
+
+That clicked into place in my head with an ugly sort of clarity.
+
+Of course they did.
+
+In my world, power had been money, influence, politics. Here, power had a new currency. Mana, Circles, spells. It made perfect sense that the same kind of people would wrap their hands around it and refuse to let go.
+
+Iris lifted her chin slightly, as if she'd decided there was no point softening the blow.
+
+"For example," she said, "your family is the only one known to own a book on Seventh Circle fire magic."
+
+The cavern seemed to tilt.
+
+"My… family?" I echoed.
+
+Hope flared before I could stop it.
+
+If I had a family, if I had a name that mattered, then maybe I wasn't just a disposable student shoved toward a gate. Maybe there was a reason I was here. Maybe there was a way out that wasn't sheer luck and repeated deaths.
+
+"Who am I?" The question slipped out of me too fast, too naked. I hadn't meant to sound desperate, but my voice betrayed me anyway. "Who am I really?"
+
+Iris studied me for a long moment, her blue eyes fixed on mine as if she were searching for a lie I didn't even know I was telling.
+
+"You're famous," she said finally.
+
+The way she said it wasn't admiration.
+
+It was… recognition. The kind that comes with warnings attached.
+
+"Better yet," Iris added, and a wry smile touched her lips, "infamous would be more accurate."
+
+My throat tightened.
+
+Then she spoke my name again, but it wasn't just a name this time. It was a title. A brand.
+
+"Kaspar von Hexenzeit," she said. "The 'false promise.'"
+
+For a second, I couldn't breathe.
+
+"Von Hexenzeit," I repeated, tasting the unfamiliar syllables. They felt strange and oddly heavy in my mouth, as if they carried history. I tried, desperately, to reach for something inside my mind that would recognize them.
+
+A crest. A face. A manor. A childhood memory.
+
+Anything.
+
+But my thoughts closed on emptiness. Nothing solid. The name hovered between familiar and foreign, like a word I'd almost learned in another life.
+
+"Listen," she said, her tone shifting. "I won't pretend to know everything about you. There are many stories. Rumors spread from one city to the next, each more fantastical than the last."
+
+She paused, eyes narrowing slightly as if weighing whether she should continue.
+
+"Whether they're true or not…" Iris shrugged faintly. "Only you can say. But perhaps it's best to hear them and decide for yourself."
+
+"I appreciate your honesty," I said. It was the truth. Even if she was only giving me rumors, it was more than anyone else had offered me. "Please. Tell me what you know."
+
+Iris drew a deep breath, and her gaze went distant, as though she were staring at a story painted on the inside of her skull.
+
+"The von Hexenzeit family is renowned," she began. "Legendary, even."
+
+The words carried weight in the damp cavern, echoing faintly off stone.
+
+"They are masters of fire magic," Iris continued, "wielding flames with a finesse and power few can rival."
+
+Fire.
+
+The word made my skin prickle. Fire was the first death I remembered. Fire was the death that haunted me in this world, too. The idea that my name was tied to it felt like fate mocking me.
+
+"One of your ancestors," Iris said, "was so gifted that he became an Archduke purely on the strength of his abilities."
+
+A chill ran down my spine.
+
+Archduke.
+
+I didn't know the exact shape of noble hierarchy here, but I knew enough about the taste of titles to understand that it was not a small thing. It sounded like the sort of rank that moved armies. The sort of rank people knelt for.
+
+I almost interrupted.
+
+Is that high? What does that mean?
+
+But I bit the questions back. Time was short.
+
+She went on.
+
+"After the founding of the house, your family members continued to be powerful mages," Iris said. "High Circle-level. Though none quite matched the founder's prowess."
+
+She spoke without mockery, almost neutrally, as if recounting history rather than gossip.
+
+"They were respected," Iris added, "even feared."
+
+Her expression softened just slightly, and I couldn't tell if it was sadness or something like disappointment in how stories always ended.
+
+"But the true brilliance seemed to have faded."
+
+That felt like a warning in itself. Great houses rose. Great houses decayed. Even legendary blood didn't guarantee legendary power.
+
+Iris paused.
+
+"And then," she said, quieter, "came the Promise."
+
+"The Promise?" I asked, unable to stop myself.
+
+Iris nodded once. "Yes."
+
+She leaned forward slightly on the boulder, elbows resting on her knee, as if the next part of the story needed her full attention to tell properly.
+
+"Twenty years ago," Iris said, and her blue eyes returned to my face, steady and intent, "Kaspar von Hexenzeit was born."

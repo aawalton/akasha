@@ -1,0 +1,363 @@
+---
+id: c5486852-ba64-5182-9950-84edf40ac1f5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 149: Of Divine Wisdom and Big Big Plans!"
+slug: 0152-chapter-149-of-divine-wisdom-and-big-big-plans
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 152
+ownLength: 1860
+unit: words
+publishedAt: 2026-08-12
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3805502/chapter-149-of-divine-wisdom-and-big-big-plans"
+royalRoadId: "3805502"
+---
+
+PoV Luna
+
+Luna caught the drumstick platter before it escaped.
+
+The cook laughed and lowered it where Luna could reach. The platter was heavy with roasted drumsticks, dark crisp skin, sticky glaze, peppery smoke, and hot fat dripping onto the tray. Luna chose the biggest one because it had the most crunch around the edge and a thick shiny stripe of sauce running down the side.
+
+She bit in.
+
+Skin cracked. Hot meat pulled apart under her teeth. Salt, smoke, gravy, and sweet-burnt glaze rushed over her tongue and shoved the last Broodmother taste deeper into defeat.
+
+Luna’s tail wagged so hard Shadow Cloak fluttered behind her.
+
+“Mmhm! Delish!”
+
+The meat was a bit weak, but the sauce! The spice!
+
+She licked sauce from her thumb, took another bite, and started considering whether the second-biggest drumstick looked too lonely and could use some Luna company!
+
+And that was when six pale-robed humans stopped in front of her table.
+
+They smelled like road dust, incense, clean wool, old sandals, nervous excitement, and very serious human weirdness. Winged charms clinked on their sleeves. One hugged a small book against his chest. Another held a staff wrapped in ribbons.
+
+Luna chewed slower.
+
+They stopped in front of her.
+
+Then all six knelt!
+
+Luna froze with the drumstick still in her mouth.
+
+The nearest pilgrim bowed his head almost to the muddy planks.
+
+“O, Divine Child of the Wilds,” he said, voice trembling with some very serious human feelings, “thank you for blessing us with your grace.”
+
+Luna slowly crunched through the rest of the drumstick and stared at them.
+
+But they just kept kneeling!
+
+“We heard the rumors about a new Lord appearing beneath the auspicious Moon,” a younger pilgrim whispered.
+
+The smallest pilgrim shifted on his knees.
+
+“But there are always rumors.”
+
+Five heads turned toward him.
+
+He hunched under the glares.
+
+“Sacred rumors! Obviously sacred rumors.”
+
+Luna’s ears tilted.
+
+Humans were being strange again!
+
+They made roads by bullying dirt flat, put good spicy pain on food on purpose, treated little papers like powerful artifacts, and now they knelt in mud talking weird at Luna!
+
+The kneeling made her shoulders itch, but they smelled hopeful, frightened, and shiny inside their own heads instead of false or mean.
+
+Big confuse!
+
+Luna pointed the drumstick at them.
+
+“You talk funny!”
+
+The pilgrims gasped softly.
+
+The one with the ribbon staff bowed even lower.
+
+“Her words are plain and true.”
+
+“No,” Luna said. “Funny!”
+
+The smallest pilgrim made a choking sound.
+
+A woman beside him stepped on his robe before he could helpfully ruin things.
+
+The lead pilgrim lifted his face, eyes bright.
+
+“O, Divine Child, what is thy wisdom?”
+
+Luna’s ears perked.
+
+Wisdom?
+
+The funny-talking humans wanted Luna to tell them how to do things?
+
+That was easy! Luna had plenty Apex Predator wisdom to share. And if humans wanted some, Luna had plenty to spare!
+
+She regretfully left the other drumstick lonely for just a bit longer. Then she stood on the bench, tail lifted, and looked over the kneeling pilgrims with great seriousness.
+
+“Yesh, Luna has wisdom! Eat well,” Luna declared. “Hunt well, sleep well, do good, and make happy!”
+
+The pilgrims stared up at her.
+
+Luna nodded, then remembered more.
+
+“Share food when pack is hungry. Bite bads if bads hurt little ones. Wash after bad smells, because tongue and fur remember.”
+
+The uncertain pilgrim whispered, “That is… unexpectedly practical.”
+
+The woman beside him hissed, “It is wisdom.”
+
+“It is wisdom,” he agreed quickly.
+
+The lead pilgrim pressed both hands to his chest.
+
+“Eat well, hunt well, sleep well, do good, and make happy,” he repeated, voice full of awe. “A holy simplicity.”
+
+Luna liked her words better before he repeated them back at her, but he looked very happy, so she allowed it.
+
+Then Luna spotted the honey cakes.
+
+She hopped down, gathered enough for each pilgrim, and pushed one into the lead pilgrim’s hands.
+
+“Here! Eat.”
+
+He stared at the cake.
+
+Luna pushed cakes into the others’ hands too. “Eat well is first wisdom, very impawtant!”
+
+The pilgrims took careful bites, still kneeling in the mud like funny robe-ducks. Honey stuck to one man’s lip. The uncertain pilgrim chewed with his shoulders hunched, as if the others might glare at him again if he crunched wrong.
+
+Luna patted the lead pilgrim’s head.
+
+He trembled.
+
+She patted the next one too, then the next, because they were all low enough for it and had listened to cake instructions. When she reached the uncertain pilgrim, she gave him two pats.
+
+“There,” she said. “Wisdom in mouth, and head patted! Done.”
+
+The pilgrims bowed with their half-eaten cakes held safely above the mud.
+
+“Thank you, Divine Child.”
+
+“Luna.”
+
+“Thank you, Divine Luna.”
+
+Luna’s ears twitched, but the new drumstick was waiting, and her job here was done!
+
+She picked it up and took a bite while they shuffled backward on their knees with crumbs on their robes.
+
+Weird humans! At least they listened well, and didn’t bother Luna when she was eating!
+
+Smart!
+
+Not long after, Luna ended up near the edge of the square with a pastry in one hand, a plate full of drumstick bones she was still considering crunching through beside her knee, and Shadow Cloak sliding crumbs off her sleeve whenever she leaned too close to the plate.
+
+A sleepy child was curled against her side. Luna had added tiny Shadowmeld ears to the child’s blanket because the blanket looked too plain, and the ears wobbled whenever the child breathed.
+
+It was cute!
+
+The shadows were too!
+
+She watched as the square had gone soft around the lanterns. Feet dragged instead of ran, and blankets wrapped around shoulders. And children slept against parents who still smelled relieved every time they looked down.
+
+Syliana found Luna there after the Formal Human Talking finally let go of her.
+
+Rain dampened her hair, mud marked the hem of her robe, and her steps had the careful patience of someone who had answered many questions in a row without biting anyone.
+
+Very impawssive!
+
+Luna perked up.
+
+“Second! Here, here! Luna saved you cake!”
+
+Syliana sat beside her, taking the pastry, and taking a tiny graceful bite out of it. Her friend’s briefly closed eyes and relaxing shoulders told Luna all she needed to know!
+
+Cake pawerful!
+
+“Mhm, this is good. Hello, Luna. Hope you had fun?”
+
+“Luna did many things!”
+
+“I might have even heard some of them.”
+
+“Yesh?! About shadow chimera spoon battle?”
+
+“I heard cheers.”
+
+“Linley won. Shadow chimera fought bravely!”
+
+“I am sure it did.”
+
+“And Luna shared ant crunchies. Some humans were weak, but tiny humans were brave. One pilgrim made a face like his soul tried to leave, but he swallowed anyway.”
+
+Syliana’s mouth curved. “That sounds like a memorable blessing.”
+
+Luna nodded. “Funny-talking humans kneeled.”
+
+“Yes. I saw the end of that.”
+
+“They asked Luna wisdom.”
+
+“What did Luna tell them?”
+
+Luna sat straighter. “Eat well. Hunt well. Sleep well. Do good. Make happy.”
+
+Syliana’s expression softened.
+
+“That is good wisdom.”
+
+Luna’s tail thumped once against the bench. “Yesh. And cake. Wisdom needed cake.”
+
+“Naturally.”
+
+Luna told her the rest with crumbs on her fingers and many important stances that would make Mister Bull proud!
+
+“Then Brave Spectacles Clerk gave Luna tasty fruits, so Luna saved half. And little girl flew only this high because tiny humans are not for dropping. And rumor-human said rumors were rumors, so other robe-humans almost glared him flat.”
+
+Syliana’s shoulder rested against hers, and her hand stayed loose in Luna’s hair while Luna demonstrated the glare with narrowed eyes and a very serious mouth.
+
+“And then drumstick tried escaping!”
+
+“I assume it failed.”
+
+“Very failed!”
+
+Luna bit into her pastry.
+
+Syliana looked across the square as the last children were carried toward sleep and the guards moved slower between the lanterns.
+
+Then she exhaled.
+
+“Luna.”
+
+“Yesh?”
+
+“What would you like to do next?”
+
+Luna paused with pastry halfway to her mouth.
+
+“Next?”
+
+“The immediate threat here is finished. The survivors are safe, and the passage collapsed. I am out of urgent rumors to chase for the moment. There were more, but they all led here in the end. So now… we can go wherever you wish.”
+
+Luna stared, thoughts churning.
+
+Syliana continued, “There are many places we could visit. We could find quieter roads and cities to visit. Or we could train. You wanted to learn more about your shadows and to try moonlight magic, yes? There are skills to practice and safer places to rest if you want that.”
+
+Luna’s ears rose higher with every word.
+
+Just Luna and Second deciding where paws went next?
+
+But most impawtantly–
+
+“Luna has choice?!”
+
+“Yes, Luna. It is all up to you now,” Syliana chuckled.
+
+Luna stood so fast the bench creaked.
+
+Her pastry slipped from her hand, and her shadows caught it before tragedy happened.
+
+“Big hunt!”
+
+Syliana blinked.
+
+“How about visiting–”
+
+“Big. Hunt!”
+
+Several nearby humans looked over.
+
+Luna pointed toward the dark beyond the lanterns.
+
+“Second and Luna! Big hunt! And Second trains hard too!”
+
+“I train hard?”
+
+“Yesh. Second strong and careful, but needs strong attack too.”
+
+“I have attacks.”
+
+“Stronger attack. Big and strong! One and done!”
+
+Syliana opened her mouth, then closed it again.
+
+Luna pressed both hands to her own chest, pastry included.
+
+“Luna hunts big. Second blasts big. We eat well and get strong fast! Second gets strong attack soon. Luna gets more zoom. Then bads everywhere have very bad day!”
+
+Syliana watched her for several seconds while rain dripped from the awnings and sleepy humans cleaned dishes around the square.
+
+Finally, she sighed through her nose, though the corner of her mouth betrayed her.
+
+“That logic is difficult to argue with.”
+
+Luna gasped.
+
+“Yesh?”
+
+“Yes, Luna. We can look for a suitable hunt. I might even know some places.”
+
+Joy hit Luna so hard she dropped the pastry again.
+
+Her shadows caught it again.
+
+Clever shadows!
+
+Then Luna launched herself at Syliana.
+
+Syliana caught her with a soft oof as Luna wrapped arms, tail, and shadow around her all at once.
+
+“Second is bestest!”
+
+“Careful, pastry hands.”
+
+Luna just mlemmed her cheek.
+
+“Hey!”
+
+Luna mlemmed her again.
+
+“That is enough,” Syliana said, trying very hard to sound stern while laughter softened the word. “You only get two.”
+
+Hehe! Great success!
+
+Syliana wiped her cheek with one sleeve, still smiling despite herself.
+
+“You are impossible.”
+
+“Yesh.”
+
+“And sticky.”
+
+“Feast sticky. Can get clean quick with shadows!”
+
+“That explains it. It does not excuse being sticky despite the shadows.”
+
+Luna considered that.
+
+Then decided winning did not require answering!
+
+She snuggled into her friend harder instead, sniffing the air and letting her Shadow Cloak do the work of cleaning them both.
+
+Syliana patted her with approval.
+
+Ehehe!
+
+The night smelled of rain, food, tired happiness, and the last warm sparks of celebration. Tomorrow there would be roads, training, maybe moonlight magic, stronger attacks for Second, and more zoom for Luna!
+
+Luna’s ears perked toward the dark beyond the lanterns.
+
+She hoped the hunt would be big and nice!
+
+Then drooled.
+
+And tasty too, yesh!

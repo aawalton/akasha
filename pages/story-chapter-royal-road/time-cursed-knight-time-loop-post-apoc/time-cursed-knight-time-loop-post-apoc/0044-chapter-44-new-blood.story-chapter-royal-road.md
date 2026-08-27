@@ -1,0 +1,371 @@
+---
+id: 3c08be3d-25db-591a-9e56-9022a59b05d4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 44: New Blood"
+slug: 0044-chapter-44-new-blood
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 44
+ownLength: 2702
+unit: words
+publishedAt: 2026-05-15
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3400579/chapter-44-new-blood"
+royalRoadId: "3400579"
+---
+
+The officer's palm came off the relay button. Every relay station on the line would receive the signal within seconds.
+
+"Nice eyes, new blood," the officer said again. "But congratulations end here."
+
+His hand found my shoulder and pulled me down off the observation platform. My boots hit the trench floor. It drove me backward, pressing me against the trench wall.
+
+"Stay behind me. Watch our six. If anything comes over that parapet, anything at all, you warn first and swing second. Clear?"
+
+"Clear."
+
+He didn't look happy. None of the controlled calm from his introduction remained. His jaw was set, his eyes narrow, and the lines around his mouth had deepened.
+
+A second later warnings were hitting the line.
+
+It was a deep horn pulse. I felt it in my chest before I heard it in the air.
+
+Every trench section within earshot erupted.
+
+Voices. Boots. The crash of equipment being seized from racks. The rhythmic slam of relay boxes being opened and read.
+
+Even under the bombardment, which hadn't stopped, which was in fact intensifying, soldiers began emerging from the transit corridors. Helmeted heads rose above the trench line. Bodies pressed against the forward parapet, eyes straining south through the dust.
+
+Another impact struck forty meters to the right. The concussion wave ripped through the trench, hurling dirt and pulverized sandbag over us. I ducked. Grit peppered my scalp. My ears rang.
+
+When I straightened, the officer had his own head above the parapet.
+
+"If those elves start closing within three hundred meters," he muttered, more to himself than to me, "we'll need—"
+
+"They're not elves."
+
+The words left my mouth before I'd finished assembling the thought behind them.
+
+The officer's head turned. His eyes found me. The look on his face was the expression reserved for new soldiers who say something that is either brilliantly insightful or catastrophically stupid.
+
+"What?"
+
+I couldn't explain it the way a scholar would.
+
+But since Mana Breath had leveled, since the flow had sharpened and my sensitivity to mana had grown from a vague awareness into something approaching genuine perception, I'd started to notice things.
+
+Every living thing carried mana differently. Humans radiated it in a particular pattern, a warm diffusion that pulsed with the heartbeat. The mutated boars on the road had burned hotter, their mana concentrated in the corrupted tissue.
+
+Everything had a signature.
+
+Whatever was moving across the no-man's-land, those low, fast silhouettes emerging from the dark tree line, their mana didn't read like elves.
+
+They felt human.
+
+"The mana flow is wrong," I said. "Whatever's out there, it doesn't match the ambient elven signature. The pattern is closer to—" I hesitated. "To ours."
+
+The officer stared at me for three full seconds.
+
+His eyes narrowed and his head snapped toward the communication trench behind us.
+
+"GLASS!" he ordered. "Someone get me a bloody spyglass! Now!"
+
+The word ricocheted down the trench line. Three seconds later, boots pounded up the communication passage and a soldier burst around the corner, breathing hard, a leather case clutched against his chest. He skidded to a stop, unclasped the case, and thrust a single-lens brass telescope into the officer's outstretched hand.
+
+The officer was on the observation platform in one motion. He pressed the eyepiece, steadied the tube against the sandbag parapet, and aimed south.
+
+A bombardment impact struck somewhere to our left. Close enough to make the platform shake beneath his boots. He didn't flinch.
+
+Five seconds passed. Ten.
+
+"Son of a bitch," he whispered.
+
+Then, louder, at a volume designed to carry the length of the trench section.
+
+"THOSE ARE HUMANS! REPEAT. THOSE ARE HUMANS IN THE NO-MAN'S-LAND!"
+
+The words exploded through the line.
+
+Officers began emerging from adjacent trench sections. Some climbed the observation platforms. Others pressed against the parapet with bare eyes, squinting through the haze.
+
+The debate erupted instantly.
+
+"Humans? In the kill zone? That's not possible..."
+
+"How many? Can you get a count?"
+
+"Could be a feint. Elves dressed in human clothing?"
+
+"Let them through. If they're human, we can't just..."
+
+"We absolutely cannot let unknown contacts cross the defensive perimeter without verification! Protocol dictates..."
+
+"Protocol can dictate whatever it wants. I'm not ordering fire on unarmed people running for their lives."
+
+"We don't know they're unarmed! We don't know anything! This could be..."
+
+Knight-Commander Wendt's voice silenced the trench.
+
+He appeared from the transit corridor entrance. Officers straightened. Conversations died mid-syllable.
+
+Wendt climbed the nearest observation platform. He didn't request a spyglass. He took it from the officer beside him without asking, pressed it to his eye, and studied the no-man's-land in silence.
+
+The bombardment continued overhead. Yet, nobody moved to evacuate.
+
+Wendt lowered the glass.
+
+"Well," he said quietly. "That's new."
+
+An officer at his left shoulder spoke first.
+
+"Sir, our reports from the southern network indicate the elves maintain human labor camps deep within their territory. Slaves, captured during raids on the minor kingdoms. Some dating back decades."
+
+He paused.
+
+"It's possible this is an escape attempt."
+
+Wendt was silent for a moment.
+
+"The defensive grid," he said. "Can we deactivate it?"
+
+The intelligence officer shook his head. "Negative, sir. The runic mine field operates on independent trigger matrices. Once armed, they can only be disarmed individually by a qualified artificer accessing each unit. There's no centralized kill switch."
+
+"And the automated spell batteries?"
+
+"Calibrated to target entities with elven mana signatures," the intelligence officer confirmed. "Threshold settings are tuned for non-human patterns. Human signatures should fall below the activation—"
+
+He stopped. His mouth worked once before finishing.
+
+"Should, sir. The tolerances were set by the Academy's Defensive Applications division years ago. I can't guarantee the calibration hasn't drifted."
+
+Wendt absorbed that while doing the math that would determine whether people lived or died.
+
+"The mines aren't calibrated for species," he said flatly. "They're pressure-activated. Everything heavier than a hare."
+
+Nobody responded.
+
+"Their fate is in their own hands," Wendt said. "If they make it through, we receive them. Full protocol. Medical and debrief."
+
+He lowered the spyglass and turned to face the line.
+
+"Meanwhile, we watch."
+
+The bombardment intensified.
+
+The elves, it seemed, had noticed the same thing we had. The impacts were shifting south, walking away from our trench line and toward the no-man's-land itself. Toward the running figures.
+
+Whether the elves were trying to kill the escaping humans or simply saturating the area with destruction out of spite, the effect was the same.
+
+The no-man's-land became hell.
+
+The automated defenses activated first.
+
+A line of blue-white light erupted from the earth sixty meters ahead of the running figures. Frost magic. The runic array discharged in a cascade that turned a ten-meter strip of ground into a sheet of ice. Two figures hit it at full sprint. Their feet went out from under them. One slid into a crater and didn't emerge. The other scrambled upright and kept moving.
+
+Lightning struck next.
+
+A buried spell battery discharged a branching arc of electricity that leapt from rune to rune across a twenty-meter grid. The bolt was not targeted. It didn't seek a specific body. It simply filled its designated zone with enough voltage to cook anything alive within its boundaries.
+
+Three figures were inside the zone.
+
+Two dropped instantly. Their bodies convulsed, jerked, and went still. The third, somehow, was at the zone's outer edge. The arc caught his leg. He fell. Crawled. Pulled himself forward with hands that clawed into the blasted earth.
+
+He crawled three meters before another rune triggered beneath his palm. A bright flash and a sound like a fist hitting a table.
+
+He stopped crawling.
+
+Around me, the trench was silent.
+
+Every soldier, officer or recruit was pressed against the parapet.
+
+Nobody spoke.
+
+But I could see their faces. The whitened knuckles gripping sandbag edges. The eyes that widened with each detonation and squeezed shut with each fall and opened again because they couldn't stop watching.
+
+They were counting.
+
+The same way I was counting.
+
+The figures had been numerous at the start. Twenty, perhaps. Maybe more. It had been hard to tell at that distance, with the dust and the bombardment haze distorting everything.
+
+Now there were fewer.
+
+Another mine detonated.
+
+Fewer still.
+
+Another ice array. Another lightning grid. The tolerances that should have filtered out human mana signatures were unreliable.
+
+Beside me, the officer lowered his spyglass. His hand was trembling.
+
+"Come on," he whispered. "Come on."
+
+I didn't realize I was gripping my sword's handle until the leather creaked beneath my fingers.
+
+The crystal communication relays along the trench wall were screaming. Every unit on the line, every branch of the military that maintained a presence on the southern front, was demanding information.
+
+"Forward Position Nine, report! What is the nature of the contact?"
+
+"Garrison Relay Three requesting immediate clarification. Are we under attack? Repeat, are we under—"
+
+Wendt stood at the center of the trench section with the relays chattering around him and the screams of dying people carrying across the no-man's-land. Still, his face didn't change.
+
+"Nothing goes out," he said. "Until we have something solid. I will not send speculation across the command network."
+
+An officer opened his mouth to protest.
+
+Wendt pinned him with a stare.
+
+The officer closed his mouth.
+
+We watched.
+
+The figures kept coming. Running, stumbling, crawling through a landscape.
+
+I could see them more clearly now.
+
+Another mine.
+
+The detonation swallowed two figures at once. The blast wave rippled through the dirt and reached the trench as a tremor beneath my boots.
+
+The first one finally cleared the perimeter.
+
+She came over the last ridge of churned earth at a dead sprint. Her legs drove through the loose soil with raw desperation. Her body had been running for her life and had forgotten how to stop.
+
+A girl.
+
+Pink hair.
+
+The color hit me before any other detail registered. A vivid, saturated pink that had no reason to exist on a battlefield. It streamed behind her as she ran, tangled and filthy and matted with dirt and blood, but unmistakably pink.
+
+She looked sixteen. Maybe younger. Her frame was thin. Her cheekbones were too sharp. Her collarbones jutted through the fabric at her neckline.
+
+She was wearing a sack. A rough-woven burlap sack with holes torn for her head and arms. It hung from her shoulders to her knees, tied at the waist with a strip of cord.
+
+As she crossed the perimeter line, her legs gave out.
+
+She hit the ground inside the forward trench. Came to rest on her back, chest heaving, mouth open, eyes wide and streaming.
+
+She was speaking.
+
+Words poured from her in a continuous, desperate stream. Her hands came up, shaking so badly the fingers blurred, gesturing at the sky, at the ground, at the trench.
+
+I couldn't understand a single word.
+
+The language was unlike anything I'd heard in this world.
+
+Officers were already scrambling toward her.
+
+"Does anyone speak... what is that? Is that..."
+
+"I've never heard that language before. It's not Elvish. It's not any of the common—"
+
+"Someone grab a linguistic reference! There should be one in the bunker archives."
+
+"We don't have time for archives! Someone talk to her! Use gestures! Basic communication!"
+
+The girl on the ground didn't stop talking. Didn't stop crying.
+
+More figures appeared at the perimeter.
+
+One by one. Staggering, crawling, dragging themselves across the last meters of the kill zone.
+
+A man. Old, or aged beyond his years by the same deprivation that had hollowed the girl.
+
+A woman. Younger than the man but moving with the terrible slowness of someone whose body had sustained injuries that adrenaline was no longer masking. She fell twice before reaching the trench wall.
+
+Two more. A boy and a girl, both young, both wearing the same burlap sacking.
+
+Five.
+
+Five out of however many had started.
+
+I looked south, across the no-man's-land, and counted the shapes that weren't moving anymore.
+
+I stopped counting at twelve.
+
+Wendt was already issuing orders.
+
+"Blankets. Water. Rations. Get them into the rear section of the bunker, away from the trench line. We need medical evaluation. Basic triage, nothing invasive until we understand who we're dealing with."
+
+Soldiers moved as if on autopilot. Blankets appeared. Canteens were pressed into shaking hands. The five survivors were guided, carried, half-dragged toward the transit corridor entrance that led down into the underground staging area. The bombardment was tapering off. The last explosion shook the earth with a distant, muffled finality.
+
+Dust settled.
+
+The trench was quiet.
+
+Wendt turned.
+
+His gaze snapped to my designated officer and me.
+
+"You two," he said.
+
+My officer straightened. I followed suit.
+
+"You spotted them," Wendt said. His gaze lingered on me for a moment. "Both of you. First to identify the contact. First to recognize they weren't hostiles."
+
+He folded his arms.
+
+"That means you own this. Start to finish."
+
+My officer blinked. "Sir?"
+
+"I'm assigning you to the follow-up," Wendt said. "Take those five survivors and a transport carriage back to Grenzheim. Find a mage. A linguist, a scholar, a traveling merchant who happens to speak dead languages, I don't care who. Requisition someone from the Academy detachment if you have to. Pull rank. Use the Iron Cross authority codes."
+
+He jabbed a finger south.
+
+"I need to know who those people are. I need to know where they came from. I need to know what is happening on the other side of that tree line that made twenty-odd humans decide that sprinting through a minefield was preferable to staying."
+
+His voice dropped.
+
+"And I need to know it fast. Because whatever drove them out, it's still there. Command needs to hear about it before it decides to send something worse than refugees across my line."
+
+He turned to walk away, then stopped.
+
+"You." He looked at me. "First day on the line."
+
+It wasn't a question.
+
+"Yes, sir."
+
+"Nice work," he said.
+
+He walked away.
+
+My officer exhaled. A long, controlled breath.
+
+"Well, new blood," he said. He clapped me on the shoulder with a hand that was no longer trembling. "You heard the commander. Let's move."
+
+He turned toward the transit corridor. I followed.
+
+We descended into the bunker. Through the underground staging area, past the medics who were already working on the survivors, past the communication officers still fielding an endless barrage of queries from every sector on the line.
+
+The five survivors had been brought to the rear chamber. They sat against the far wall, wrapped in military blankets that swallowed their thin frames. Canteens rested in their laps or beside them on the floor.
+
+The pink-haired girl sat in the center. Her crying had subsided into a silence that was somehow worse. Her eyes, red-rimmed and swollen, moved across the room with darting alertness.
+
+She looked at me as I entered.
+
+I looked at her.
+
+Whatever she saw in my face, it didn't comfort her. Her hands tightened around the blanket's edges, and she pulled it closer around her shoulders.
+
+The old man beside her had his eyes closed. His breathing was shallow. The medic crouching before him was pressing fingers against his wrist, counting.
+
+The woman on his other side sat perfectly still, staring at a point on the wall that held nothing.
+
+The two young ones, the boy and the girl, sat pressed together, shoulder to shoulder, not touching anyone else. The boy's face was blank. The girl's face was blank. Twin masks of nothing that covered whatever was underneath.
+
+The officer was already organizing the transport. A carriage was pulled from the staging area's vehicle pool. Supplies were loaded. An escort of two soldiers was assigned.
+
+Within twenty minutes, we were moving.
+
+The five survivors were helped into the carriage's interior. The pink-haired girl went last. She paused at the carriage door. Turned her head south, toward the front, toward whatever lay beyond the no-man's-land.
+
+She climbed in.
+
+The carriage door closed.
+
+I sat on the bench across from them, the sword across my knees, and watched the front line recede through the canvas flap at the carriage's rear.
+
+My first day.
+
+I'd been on the front for less than four hours, and I was already heading back.

@@ -1,0 +1,303 @@
+---
+id: 80e73ee6-eae6-52c2-8515-43185644b2ba
+page-type-slug: story-chapter-royal-road
+title: "Chapter 56: Royal Ball"
+slug: 0056-chapter-56-royal-ball
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 56
+ownLength: 2905
+unit: words
+publishedAt: 2026-06-02
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3484044/chapter-56-royal-ball"
+royalRoadId: "3484044"
+---
+
+In the Capital
+
+The mirror was unkind in the way only mirrors could be.
+
+Sera stood before it applying the minimal cosmetics that protocol demanded. A thin line of kohl beneath each eye. A touch of color to lips that, left to their own devices, maintained the same pale severity as the rest of her face.
+
+Twenty-six years old. Dark hair drawn back from a high forehead and pinned with a single silver clasp that bore the Dravenmoor insignia. Eyes the color of slate in winter, possessing a quality that men who encountered them for the first time described, invariably, as cold.
+
+The word followed her like a second surname.
+
+Cold Sera. The Ice Ledger. The woman who counts coins and freezes hearts.
+
+She didn't mind. The reputation served her better than any beauty ever could have. As Imperial Comptroller of the Royal Finances, she occupied a position that made her simultaneously indispensable and untouchable. Every noble house in Silberwald understood that courting Sera von Dravenmoor could be interpreted as an attempt to influence the imperial budget. The political risk outweighed whatever marital advantage her bloodline might confer.
+
+Which suited Sera perfectly.
+
+It did not, however, suit her father.
+
+The patriarch had spent the better part of the last three years attempting to arrange a match worthy of his eldest daughter's station. Eligible sons of major houses were paraded before her at every conceivable social function. Trade council dinners. Seasonal balls. Religious observances. Once, memorably, a funeral, where Lord Dravenmoor had positioned his daughter beside the grieving family's second son with such transparent calculation that the widow herself had commented on it.
+
+Sera had attended each occasion. Had smiled when smiling was required. Had conversed with the precision of someone who understood that words were currency and she could not afford to spend too much.
+
+None of the candidates had lasted beyond the third meeting.
+
+The mirror reflected the gown that hung from the wardrobe behind her. Deep charcoal silk with silver embroidery along the collar and cuffs. Conservative by the standards of the capital's salon circuit. Appropriate for an evening where the Crown's attention would be directed elsewhere and the wise strategy was to be present without being noticed.
+
+Elsa, her attendant and confidante of eleven years, stood behind her with a comb and a collection of pins. The woman's hands were steady and practiced, separating strands of dark hair.
+
+“The shoulder clasp or the throat chain tonight?” Elsa asked.
+
+“Throat chain. The shoulder clasp draws the eye. I don't want eyes tonight.”
+
+Elsa nodded. Her fingers found the chain, a thin strand of silver links no wider than a thread, from which a single moonstone pendant hung. She draped it across Sera's collarbone.
+
+The bedroom door exploded inward.
+
+The hinges shrieked. The door's edge struck the interior wall with a bang that rattled the candles on the vanity and sent Elsa stumbling backward, one hand clutching the comb, the other pressed against her chest.
+
+Sera didn't flinch.
+
+Her eyes moved to the mirror's reflection. The doorway, now filled by a figure whose entrance had all the subtlety of a cavalry charge through a library.
+
+Darius von Dravenmoor.
+
+Her younger brother stood in the threshold with his chest heaving and his face flushed to a shade that clashed with the crimson of his Academy robes. The robes themselves were immaculate. Fourth-year formal attire, the deep red fabric embroidered with the Academy's crest in gold thread at the left breast.
+
+Twenty years old. Tall, though he carried himself with a slouch that diminished the advantage. Handsome, in the way that well-fed young men of noble birth tended to be handsome, the kind of attractiveness that came from good tailoring and regular meals rather than any particular distinction.
+
+The Academy insignia gleamed on his chest. Years of instruction that, in Sera's professional assessment, had produced no measurable improvement in her brother's character, intellect, or capacity.
+
+The Academy taught magic. It did not teach sense.
+
+“How?” Darius's voice was a register above shouting. He crossed the threshold with steps that were less walking and more stomping, each boot hitting the floorboards with the force of a personal grievance against the earth itself. “How does he expect me to attend this... this farce?”
+
+Sera's gaze returned to the mirror. Her hand found the kohl pencil. She resumed the line beneath her left eye with steady fingers.
+
+“Who,” she said, “expects you to attend what.”
+
+The question was delivered without inflection. The tonal equivalent of a blank page.
+
+Darius paced. Three steps toward the window. Three steps back. His robes swirled around his ankles, the red fabric catching candlelight.
+
+“Father!” The word was launched at the ceiling. “Father has demanded that I attend tonight's celebration. Demanded. As if I'm some trained dog he can parade before the court whenever it suits his—”
+
+He spun on his heel. The robes billowed.
+
+“It's absurd. The man is losing his mind. I told him. I said to his face, I said, Father, this is beneath us. And he just sat there behind that desk of his with that expression, you know the one, the one that makes you want to—”
+
+He mimed something violent with both hands.
+
+Sera set the kohl pencil down. She picked up a brush. Began working through a section of hair that Elsa had separated before the interruption.
+
+“What precisely is the problem with attending tonight?”
+
+It wasn't really a question. Questions implied curiosity. Sera was not curious about her brother's emotional state. She was managing it. With the minimum expenditure of energy required to produce the desired result.
+
+Darius's mouth opened. Closed. Opened again.
+
+“You don't know?”
+
+“If I knew, I wouldn't ask. I have a limited tolerance for guessing games, and you've already consumed most of it by destroying my door.”
+
+He waved one hand in a gesture that encompassed the room, the city, the concept of injustice.
+
+“It started at the Academy,” he said. “Years ago. First year. There was this...” He searched for a word. “This creature. This complete and utter waste of a human being who somehow convinced the admissions board to let him through the doors.”
+
+Sera's brush paused.
+
+Her brother didn't notice.
+
+“Couldn't cast,” Darius continued. His voice dripped with the particular contempt that only the privileged could produce, the kind that came from a life where failure was something that happened to other people. “Couldn't form a single Circle. Couldn't light a candle if you handed him a match and held his wrist. A Bastard, Sera. An actual, genuine, Academy-enrolled Bastard.”
+
+His lip curled.
+
+“Naturally, he became everyone's favorite entertainment.”
+
+He said this as if it were the most reasonable thing in the world. As if the collective decision of an entire student body to target a single individual for systematic humiliation was a law of nature.
+
+“I was his friend,” Darius said.
+
+The word friend performed a gymnastic routine in his mouth, twisting itself into something that bore no resemblance to its original meaning.
+
+“Or he thought I was. For a few weeks. Long enough to...” He trailed off. His hand made a dismissive gesture. “There was an incident with an inkwell. Nothing serious. I tipped it onto his papers during a lecture. Everyone saw.”
+
+He paused. Seemed to realize, belatedly, that the anecdote wasn't landing the way he'd intended.
+
+“The point is,” he said, accelerating past the memory with the eagerness of someone who'd rather not examine it, “this person was nothing. A noble name attached to a body that couldn't do what every other body in that Academy could do. And now — now father wants me to stand in a room and celebrate him?”
+
+Sera set the brush down.
+
+She turned in her chair.
+
+Slowly.
+
+Darius, who had been gesturing at the ceiling with both hands, lowered them by degrees as his sister's full attention settled on him.
+
+“This person,” Sera said. “The one from the Academy. The one whose papers you ruined.”
+
+“It was just ink—”
+
+“What was his name?”
+
+Darius blinked.
+
+“Kaspar,” he said. “Kaspar von Hexenzeit.”
+
+The bedroom went very quiet.
+
+Elsa, who had retreated to the corner beside the wardrobe and had been doing an admirable job of pretending she didn't exist, pressed herself further into the shadows.
+
+Sera's expression didn't change. That was the terrifying part. The same face that had been applying kohl thirty seconds ago was now directed at her brother with an intensity that could have etched glass.
+
+“You did this,” Sera said. “To a Hexenzeit.”
+
+“Everyone did it,” Darius said. The confidence in his voice had developed a hairline fracture. “The entire class. He was an open target. Nobody cared. He wasn't the heir, he wasn't anything, he was just—”
+
+“You tormented the firstborn son of Archduke Roderich von Hexenzeit.”
+
+The full name, delivered without emphasis, hit the room like a judicial sentence.
+
+“He's not the heir!” Darius's voice climbed a register. “He was removed from the succession! Everyone knew! His own father—”
+
+“His own father,” Sera said, “commands the largest private military force in Silberwald. His own father controls more territory than most minor kingdoms. His own father sits at the right hand of the Crown during war councils and has done so for decades.”
+
+She rose from the chair.
+
+The movement was unhurried. Sera stood and smoothed the front of her dressing gown with both palms, a gesture so mundane it made the fury behind it worse.
+
+“And his son,” she continued, “the one you poured ink on. The one you called a creature. That son is the reason the southern front still stands. And is being honored tonight by the Crown in a ceremony attended by every major house in the kingdom.”
+
+She took a step toward him.
+
+Darius took a step back.
+
+“Do you have any comprehension,” Sera said, and her voice dropped into the register she used during budget hearings, the one that made treasury officials twice her age sweat through their collars, “of what happens if Kaspar von Hexenzeit decides to mention, in casual conversation, that the younger son of House Dravenmoor spent his Academy years making the hero of Grenzheim's life a misery?”
+
+Darius's mouth opened. Nothing came out.
+
+“I'll tell you what happens.” Sera's index finger rose. “Every salon in the capital closes its doors to you. Every trade council that father has spent twenty years cultivating decides that the Dravenmoor name carries liability rather than prestige. Every marriage negotiation currently in progress for this house — and there are seven, Darius, seven — collapses overnight.”
+
+Her finger lowered.
+
+“And father. Father, who has tolerated your tantrums and your spectacular talent for embarrassing this family because you are his son and he loves you despite every reason not to. Father will be forced to choose between defending you publicly or disowning your behavior.”
+
+She paused.
+
+“Either way, we lose.”
+
+Darius's face had gone the color of uncooked dough.
+
+“I didn't...” He swallowed. “It was years ago. He probably doesn't even remember.”
+
+She turned back to the mirror. Sat. Picked up the kohl pencil as if the conversation had been a brief interruption in her evening routine rather than a summary execution.
+
+“Tonight,” she said to her reflection, “you will attend the celebration. You will stand in whatever corner father assigns you. You will smile when it is appropriate to smile. You will applaud when it is appropriate to applaud. You will not approach Kaspar von Hexenzeit. You will not speak to Kaspar von Hexenzeit. You will not make eye contact with Kaspar von Hexenzeit unless he initiates it, in which case you will be gracious and humble with every fiber of sincerity your limited emotional range can produce.”
+
+She drew the line beneath her eye.
+
+“And if at any point during the evening you feel the urge to open your mouth and say something clever, you will instead bite your tongue until you taste blood. Am I understood?”
+
+Darius stood in the middle of the bedroom. His crimson robes hung around him like a costume he'd forgotten how to wear. His hands, which had been gesturing so expansively moments ago, hung at his sides.
+
+“Am I understood, Darius?”
+
+“Yes,” he said.
+
+The word was small. The smallest thing that had ever come out of his mouth.
+
+“Good.” Sera set the pencil down. “Now get out of my room. And send someone to fix the door.”
+
+Darius turned. He walked to the doorframe, which now listed at an angle where one hinge had partially separated from the wood. He paused there.
+
+“Sera.”
+
+She didn't look up.
+
+“What if he does remember? What if he says something tonight? In front of everyone?”
+
+Sera's hand found the moonstone pendant at her throat. She adjusted its position by a millimeter.
+
+“Then you will deserve whatever follows,” she said. “And I will not lift a finger to help you.”
+
+Lie.
+
+One of the best Sera had ever told.
+
+She knew that, no matter how cold she was, she would never allow anyone to trample over her family.
+
+No matter how foolish her younger brother might be.
+
+It would be a difficult clash.
+
+Dravenmoor and Hexenzeit.
+
+Finance and War.
+
+And yet, Sera was confident there was nothing in her path that could withstand her will.
+
+Imperial Palace - Private Wing
+
+“How is he?”
+
+Varen's voice cut through the stillness of his dressing chamber without preamble or pleasantry. His back was to the door. Before him, a full-length mirror of silvered glass reflected the half-assembled components of formal military dress.
+
+His shirt was buttoned to the throat. His hair was combed. The face in the mirror wore the mask it always wore. Composed and unreadable.
+
+Captain Lorenz von Falke stood at the door with a leather portfolio under his arm.
+
+“He hasn't left his quarters, Your Highness.”
+
+Varen's hands, which had been adjusting the lay of his collar, paused for a fraction of a second. Then resumed.
+
+“Since when.”
+
+“Since he was brought in. Three days ago.” Falke opened the portfolio and consulted a page. “The physicians assigned to his care have reported the following. He eats when food is placed in the room. He sleeps, though the guards report sounds during the night that suggest the sleep is not restful. He has not spoken. To anyone. Not to the physicians. Not to the attendants. Not to the officers who attempted debriefing.”
+
+Falke turned a page.
+
+“The staff physician from Grenzheim garrison who treated him previously was brought in this morning at my request. His assessment is as follows.”
+
+He read directly from the document.
+
+“The patient presents symptoms consistent with acute psychological trauma compounded by physical exhaustion. The burns on his back and torso are healing but remain painful. The bruising across his chest and ribcage indicates sustained compression trauma consistent with prolonged restraint. The salt-water damage to the respiratory tissue has responded to treatment but continues to produce discomfort during deep breathing.”
+
+Falke paused.
+
+“Of greater concern is the patient's psychological state. He displays marked withdrawal, absence of verbal communication and disrupted sleep patterns. These symptoms are consistent with post-traumatic stress responses observed in soldiers following prolonged exposure to combat or morally injurious events.”
+
+He closed the portfolio.
+
+“Doctor Brennan's recommendation is rest. Extended rest. Weeks, possibly months, before the patient should be expected to resume any form of public or military function.”
+
+Varen reached for the jacket. Lifted it from the valet. Slid his arms into the sleeves with the practiced economy of a man who had dressed for state occasions since childhood.
+
+“That,” Varen said, “is not what I asked.”
+
+Falke's jaw tightened. He understood. He had understood before he entered the room. The question How is he? had never been a question about Kaspar's wellbeing. It had been a question about Kaspar's functionality.
+
+“Your Highness,” Falke said, choosing his words with the precision of a man threading a needle in a windstorm. “The celebration begins in four hours. The Great Hall will hold every significant political figure in the kingdom. House Hexenzeit. House Cräusen. Princess Elara's entire faction. The military command staff. The Academy's senior faculty. The press.”
+
+He paused.
+
+“The narrative that has been constructed around tonight's event requires a living, breathing, functional hero standing at the center of it. An Iron Cross success story that validates every coin the Crown has invested in your program.”
+
+Falke set the portfolio on the bureau.
+
+“Your political position, Your Highness, is tied to his image. The stronger he appears tonight, the stronger the Iron Cross appears. The stronger the Iron Cross appears, the stronger your claim to influence over the military apparatus and, by extension, your candidacy for succession.”
+
+Varen buttoned the jacket. Each button found its hole with mechanical precision. Silver on dark wool. The fabric settled across his shoulders.
+
+He met Falke's eyes in the mirror.
+
+“I did not ask for a political analysis, Captain. I asked how he is.”
+
+Falke held the gaze.
+
+“He is broken, Your Highness. That is how he is.”
+
+Varen's hands found the sash. He draped it across his chest, secured it at the hip with a pin bearing the royal crest.
+
+“Send Brauer,” Varen said.
+
+Falke blinked. “Major Brauer?”
+
+“Brauer understands soldiers. He understands what happens to them.” Varen adjusted the sash's fall. “Send him to Kaspar's quarters.”
+
+He paused.
+
+“Tell Brauer his mission is to get me Kaspar. I need him functional tonight.”

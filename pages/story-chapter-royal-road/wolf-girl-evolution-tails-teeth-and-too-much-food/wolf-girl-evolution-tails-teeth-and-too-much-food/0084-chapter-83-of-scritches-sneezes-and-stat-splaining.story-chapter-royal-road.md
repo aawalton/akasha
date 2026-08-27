@@ -1,0 +1,429 @@
+---
+id: e5e174de-c268-53e6-89d6-b64341d40eed
+page-type-slug: story-chapter-royal-road
+title: "Chapter 83: Of Scritches, Sneezes, and Stat-splaining!"
+slug: 0084-chapter-83-of-scritches-sneezes-and-stat-splaining
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 84
+ownLength: 2167
+unit: words
+publishedAt: 2026-01-07
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2921610/chapter-83-of-scritches-sneezes-and-stat-splaining"
+royalRoadId: "2921610"
+---
+
+PoV Syliana
+
+Syliana moved like water under pressure.
+
+A blunted blade skimmed past her ribs, close enough that she felt the air shiver. She twisted through the gap without breaking stride, staff humming softly as mana flowed clean and controlled. Mud sucked at boots, arrows whistled, steel rang.
+
+Training had dissolved into chaos – as it always did once she decided to stop being gentle.
+
+Good.
+
+Sepio lunged. She let him. His foot sank, just a little too deep, the ground giving way beneath him with a wet sound that promised embarrassment. Veric adjusted instantly, blade angling for her shoulder.
+
+She slipped aside and flicked a hand.
+
+Force nudged steel, hardened air pushed at the back of the knee. Just enough to make him miss and stumble.
+
+A clever maneuver with just the right positioning – and a little use of her elemental manipulation skills – tripped Sepio into Veric, and the two into a newly made mud pit.
+
+Two down.
+
+All the while, her thoughts wandered.
+
+To recent events.
+
+And to Luna.
+
+The image came unbidden, as it often did now. Silver fur streaking across the fields. Motion without hesitation, and so full of joy.
+
+Efficiency so clean it bordered on rude.
+
+Syl had watched the wolf girl return again and again, each time with more prey than asked for, more work done than expected, all in a fraction of the time it would have taken a trained party.
+
+It was… humbling.
+
+And dangerous.
+
+Syl ducked, staff snapping up to deflect another strike from Ray. She exhaled slowly through her nose.
+
+Luna did not know restraint. She didn’t need to. Not yet. But the world would demand it eventually, and the world was never kind when it did.
+
+A flicker of movement caught her eye.
+
+Ray.
+
+There. A perfect opportunity.
+
+He extended his foot into a longer stride, weight shifting forward, already committing to the motion. So very ready to unleash a strike upon her.
+
+Syl smiled faintly and whispered a thread of mana into the earth.
+
+Subtle. Precise.
+
+The soil beneath Ray’s planted foot loosened. And then–
+
+She pulled.
+
+The patch of ground moved sideways with his foot still on it, while his other leg came down expecting stability.
+
+Ray yelped.
+
+His body attempted to solve a problem it had not trained for. Arms windmilled. Legs tangled. His spine folded into an enthusiastic gymnastics pose that would absolutely be discussed later.
+
+“OHH–!”
+
+He hit the ground in a heap of limbs and wounded pride.
+
+Syliana allowed herself exactly half a smirk.
+
+She barely finished it before Trianna forced her to move.
+
+Blunted arrows screamed in, fast and angry. Syl snapped her staff up, mana flaring as a sheet of ice formed in the air. The arrows struck and skidded away, deflected cleanly as she angled the surface without breaking the spell.
+
+She extended it, pushing more mana in before it had a chance to dissipate.
+
+The ice thickened, sharpened, then split into blunt and compact shards that shot forward.
+
+They struck Trianna square in the midriff.
+
+“Ouch!”
+
+Trianna staggered back with a grunt, bow dipping as she went down to one knee, laughing even as she clutched her side.
+
+“Unfair!” she protested.
+
+Syl inclined her head politely.
+
+Four down.
+
+Behind them, Sepio and Veric were hauling themselves out of the mud pit Syl had deposited them in earlier. Sepio looked furious and filthy. Veric looked mildly annoyed, which for him was practically outrage.
+
+That bought her time. To think, and ponder.
+
+Syl’s gaze drifted past the training ground, toward the piles of hunted prey stacked neatly nearby. More than expected, and far cleaner too. And beyond that – farther out, where the fields blurred into distance – she could almost feel Luna still moving. Still hunting. Still working.
+
+And all of it done in so little time.
+
+Utterly efficient.
+
+It made Syl’s chest tighten in a way she didn’t quite like. A mix of awe and something dangerously close to inadequacy. She had trained for decades. Perfected her forms. Many of them might have been spent on study. And yet… here was a child who treated growth like breathing.
+
+It made her want to do things she had not done in a very long while.
+
+Right on cue, the others were almost back on their feet.
+
+But so was she.
+
+Syl flicked her fingers once more, a neat little tug of earth manipulation snapping Trianna’s bow just out of reach as she reached for it.
+
+“Dang it, Syl!” Trianna groaned. “At least let me grab my weapon!”
+
+Syl smirked openly this time.
+
+Yes. Normally, in real combat, Syliana never ran out of mana. And when she came close, potions existed for a reason. Magic was reliable. Magic was safe.
+
+But this?
+
+This was training.
+
+She planted her staff upright in the loose soil and let go. Reached up, unbuckled the upper plates of her leather armor, and let them fall to the ground with a dull clatter. Cool air brushed her exposed arms.
+
+A what-if scenario.
+
+She wrapped her fingers back around her staff. A faint smile tugged at her lips, eyes alight with something sharp and playful and just a little unhinged.
+
+What if she was…
+
+Out of mana.
+
+But not out of options.
+
+“Come,” Syl said calmly, lifting the staff and settling into a stance none of them had seen her use in a very long time indeed. “You’ve flailed against spellwork long enough.”
+
+Her staff swung out in a clean, brutal arc.
+
+“Time to whack you into shape.”
+
+She planned to hand out plenty of bruises today.
+
+***
+
+PoV Luna:
+
+The plant thingies were weird.
+
+Luna crouched low in the grass, nose hovering just above a thin cluster of pale leaves, eyes narrowed with deep suspicion. They didn’t smell like prey. They didn’t smell like danger either. They smelled like… itch.
+
+She sniffed.
+
+Her nose tingled.
+
+She sniffed again, just to be sure she got the right ones.
+
+“A–aw–CHU!”
+
+Luna sneezed so hard her ears flattened and her tail puffed out.
+
+“Bleh,” she growled, shaking her head furiously. “Stupid plants.”
+
+She glared at them like they had personally insulted her lineage.
+
+Those herb thingies were bad!
+
+Few and far between, hiding just far enough apart to be annoying. And every single one of them made her nose itch in a different, rude way.
+
+It wasn’t even a good itch!
+
+It made her want to sneeze and bite something at the same time.
+
+Very unfair!
+
+But Luna had a quest.
+
+And Second had given her jerky for it!
+
+That meant it was important. Probably!
+
+So Luna endured!
+
+She reached down, grabbed the plant carefully – very carefully – and tossed it into the Maw.
+
+Another one down.
+
+She moved on, nose twitching despite herself.
+
+Sniff.
+
+Her eyes watered.
+
+Sniff sniff.
+
+“A-aw–oh–”
+
+She froze, holding her breath, eyes crossing slightly as she fought it.
+
+“…No.”
+
+The sneeze wobbled, threatened, then passed.
+
+Luna straightened proudly.
+
+“Ha!” she declared. “Luna strong now! Apex Predator wins over plant itch!”
+
+She grabbed another plant and stuffed it into the Maw before it could argue.
+
+Sniff.
+
+Sniff sniff.
+
+“S-chu–niff!”
+
+…Or not.
+
+She snarled at the ground.
+
+“Bad plants,” she muttered. “Luna not like.”
+
+Hmph. At least there weren’t many more left.
+
+So Luna kept going – for Second!
+
+Sniff, search, zoom, stop.
+
+Step, grab, store, move!
+
+The field stretched wide around her, grass rippling in gentle waves under the breeze. Flowers bent and swayed. Bugs buzzed lazily, unconcerned by her suffering. The air was full of green smells and earth and distant prey she was not allowed to hunt right now.
+
+Rude world.
+
+Another plant disappeared into the swirling shadow.
+
+Another sniff.
+
+Another barely-contained sneeze.
+
+“Awwww…”
+
+She pinched her nose with two fingers, eyes squeezed shut, tail lashing.
+
+“…Okay. Done.”
+
+She looked around.
+
+No more itch-smell. No more rude plants waving at her. Just open field, sunlight, and freedom.
+
+Hehe.
+
+Luna stood still for a moment, taking it all in. The warm dirt under her feet. The layered smells of grass, wind, distant animals, and the faint comforting pull of pack direction. Somewhere far behind her, Second was doing important things. There was definitely training and probably yelling.
+
+And just as she relaxed–
+
+“A–AW–CHU!”
+
+The sneeze ripped out of her, echoing across the field.
+
+“…Bad plants,” Luna grumbled, wiping her nose.
+
+But she was done now. Free from plant itch at last!
+
+Her tail lifted, wagging faster.
+
+“Zoom back time!” she announced happily.
+
+The shadow pooled beneath her feet.
+
+And Luna vanished into motion.
+
+***
+
+Luna got back to her pack and immediately knew something very interesting had happened!
+
+The ground was full of people.
+
+Groaning people!
+
+Trianna lay flat on her back, staring at the sky like it had personally betrayed her. Ray was on his side, one leg twitching like it was still trying to escape the laws of balance.
+
+Veric sat upright but unmoving, hands braced on his knees, breathing slow and deep in a way that suggested many regrets.
+
+Utter mayhem!
+
+…Well.
+
+The tail end of mayhem!
+
+Luna’s ears perked as she spotted the last two still standing.
+
+Sepio was planted firmly, shield raised, mud-streaked and stubborn, holding his ground steadily. And in front of him–
+
+Syl.
+
+Second stood relaxed, staff in hand, posture calm. Too calm.
+
+Luna watched, tail slowly lifting.
+
+Syl stepped in.
+
+Her staff swung! Fast! Sepio reacted, raised his shield up.
+
+–But then it didn’t.
+
+At the last instant, the grip changed. The arc broke. The staff dipped low instead, sliding in and lodging neatly just behind Sepio’s knee.
+
+Sepio barely had time to register confusion.
+
+Syl let go of the staff with one hand, using it like a spring to bounce off instead.
+
+Then she hit him.
+
+A clean, brutal body slam straight into his shield. The impact rang out sharp and solid, the force twisting Sepio sideways, tripped right over. His feet left the ground. The shield spun with him.
+
+He landed in the dirt with a heavy thud and a very heartfelt groan.
+
+Luna’s jaw dropped.
+
+“Woah.”
+
+Second was awoomazing!
+
+Syl exhaled once, rolled her shoulders, and finally turned as if she had known Luna was there the whole time.
+
+“Welcome back, Luna,” she said mildly. “I see you’re done already – and just in time. It’s rest time.”
+
+A chorus of groans answered her immediately.
+
+And one very sincere “...Finally. Ouch.”
+
+Hehe.
+
+Luna trotted forward happily. Oh! Right! Important thing first!
+
+She dumped the plant thingies in a neat pile with a proud little huff.
+
+“Plants delivered!” she announced.
+
+Then – zoom.
+
+She bounded straight to Syl, who sat down smoothly and patted her lap in invitation.
+
+Luna did not hesitate!
+
+She hopped up, settled in, tail curling happily–
+
+“Second! Luna has a a-awoo–CHU–!”
+
+Poof.
+
+Silver fur burst out as Luna sneezed mid-word, her human shape popping away in a blink. She ended up as a fluffy wolf sprawled across Syl’s lap, blinking in mild offense.
+
+“–A question,” Luna finished grumpily. “Uuuu. Bad plants.”
+
+Syl stared at her for half a second.
+
+Then a full, unrestrained giggle escaped her, shoulders shaking as she covered her mouth.
+
+Luna opened her mouth to protest–
+
+And was immediately attacked by scritches.
+
+Gentle. Warm. Perfectly placed.
+
+“Ooo~” Luna melted instantly, tail thumping without permission.
+
+…Alright. Giggle forgiven.
+
+After a moment, Syl managed to regain control, fingers still idly combing through Luna’s fur.
+
+“So,” she asked, voice light. “What is your question, Luna?”
+
+“Oh! Right!” Luna perked up despite the scritches. “What Charisma do?”
+
+Syl blinked. Then smiled knowingly.
+
+“Hm? Oh. I’m fairly sure I explained that before…” Her eyes narrowed playfully. “Somebody didn’t listen, hmm?”
+
+Luna suddenly found the ground very impawssive.
+
+And stared at it with great interest.
+
+Syl smirked.
+
+Then she explained anyway.
+
+“Charisma – and Luck as well – belong to a rare class of stats,” Syl said calmly. “They can’t be easily gained through training. And despite their names, they don’t simply make others like you more, or make lucky things happen.”
+
+Luna’s ears twitched as she listened, head resting against Syl’s arm.
+
+“Instead,” Syl continued, “they help you adjust. To new situations. To people. They let you shift your behavior just enough to be more convincing. Or let a moment of chance turn slightly in your favor.”
+
+Her fingers scratched gently behind Luna’s ears as she spoke.
+
+“A poor stroke of luck might become survivable. A fatal blow might leave you barely alive instead. But you still need to act. To try. To choose correctly.”
+
+Luna’s head was spinning.
+
+Numbers. Concepts. Scritches.
+
+Very confusing.
+
+“…Conversely,” Syl added, “gaining them intentionally is dangerous. Especially Luck. Training near-death situations is… discouraged. One mistake, and it stops being training.”
+
+Luna’s eyes crossed slightly.
+
+“…Hmm. Hrrrm.” She nodded very seriously. “Luna understands!”
+
+…Maybe.
+
+Kind of!
+
+“Oh?” Syl chuckled. “You do? Good Luna.”
+
+The scritches intensified.
+
+“Ehehe!” Luna giggled, tail wagging wildly as the world faded into warmth, safety, and the pleasant certainty that whatever Charisma was–
+
+It was probably good!

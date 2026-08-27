@@ -1,0 +1,459 @@
+---
+id: 0ce1a09b-3b80-5d43-a489-acea91e8de1d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 129: The Pack Strikes Back!"
+slug: 0131-chapter-129-the-pack-strikes-back
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 131
+ownLength: 2560
+unit: words
+publishedAt: 2026-06-03
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3488833/chapter-129-the-pack-strikes-back"
+royalRoadId: "3488833"
+---
+
+PoV Syliana
+
+Syliana still remembered the conversation they had after the tower.
+
+Soon after returning to Altracia, with Luna having remained unconscious the entire time.
+
+She remembered how the inn room smelled strongly of medicinal herbs, damp cloth, blood, and the lingering smell of rot she had come to associate with Corruption. It lingered with them, no matter how much they cleaned themselves afterward.
+
+Rain tapped steadily against the windows while a small heating stand near the wall kept several recovery mixtures simmering quietly beside stacks of used bandages.
+
+Nobody looked particularly good.
+
+Trianna rested against the far wall with fresh wrappings around her ribs and arm, though she still kept wincing whenever she shifted too quickly. Sepio sat near the table looking deeply annoyed by the fact he had spent part of the battle unconscious. And Ray handled paperwork mostly because it gave his hands something to do besides stare at Luna constantly.
+
+Veric stood beside the rain-streaked window with his arms crossed tightly enough to strain the leather around his armor.
+
+And Luna slept, stabilized.
+
+Syl remembered how often everyone’s eyes drifted back toward the bed despite themselves.
+
+The little wolf girl looked painfully small, buried beneath blankets after everything that had happened around the tower. One ear twitched every now and then while she slept, but otherwise she barely moved at all.
+
+Stable and alive.
+
+That alone had felt miraculous enough.
+
+Syl herself had sat beside the bed with a cup of tea slowly cooling untouched between her hands while exhaustion settled over the room heavily enough that nobody seemed interested in speaking first.
+
+Eventually she broke the silence.
+
+“I would understand,” she said quietly, “if you do not wish to remain with the party anymore.”
+
+That pulled everyone’s attention toward her immediately.
+
+“The dangers we encountered there are likely only the beginning.”
+
+Nobody answered her right away, though the scrunched brows and thinking faces were indication enough that they heard her well.
+
+Syliana simply waited. Patience was something she was good at.
+
+Rain continued tapping softly against the windows while the words settled across the room.
+
+And finally…
+
+Ray leaned back in his chair with a tired exhale.
+
+“We got torn apart in there.”
+
+“Hrm.”
+
+Trianna grimaced slightly against the wall.
+
+“That thing was awful.”
+
+Sepio rubbed one hand across his face.
+
+“We nearly got crushed there.”
+
+Syl looked down briefly at the untouched tea in her hands.
+
+“Yes.”
+
+The room fell quiet again for a few seconds.
+
+Then Veric finally chose to grace them with more than just a grunt.
+
+“Yet nobody ran.”
+
+That pulled everyone’s attention toward him, even as the warrior remained staring out the rain-streaked window.
+
+“We stayed. Even after it became obvious how bad things were.”
+
+Trianna snorted softly.
+
+“Well. Luna definitely stayed.”
+
+“That insane little wolf threw herself at the darn thing while barely standing,” Ray muttered.
+
+“And bit right through the very heart of that corrupted creature. Literally,” Trianna added.
+
+Ray rubbed one hand slowly across his face.
+
+“I still can’t believe her solution was biting the damned thing. And that it somehow worked.”
+
+Despite everything, a few tired laughs escaped around the room.
+
+“That was not a plan,” Trianna muttered.
+
+“That,” Ray replied tiredly, “is exactly the problem.”
+
+A few exhausted laughs finally escaped around the room after that.
+
+“That wasn’t a joke. We had no plan then, and we need one now. And I think I can speak for all of us here… that we do not want to go our separate ways.”
+
+“Hrm. You speak wisely, friend.”
+
+“Go separate ways? And where else would I find such a jolly bunch to tease and trust? I’m staying, whether you guys want me or not!”
+
+Trianna’s joking tone was infectious, and Syliana found herself chuckling. Just a little bit.
+
+Sepio drummed the table lightly with his bandaged hands.
+
+“Yeah, I’m staying too. What would you lot even be without a shieldbearer?”
+
+Veric snorted at that, but Sepio still wasn’t done talking.
+
+“So… now that we’re all on the same page… What’s the plan?”
+
+Before responding, Ray shifted position to have everybody in his sight.
+
+“I think… Ordinary adventurer progression is no longer enough.”
+
+“No,” Veric agreed. “It is not.”
+
+With every exchange Syliana’s heart calmed, and her worries lessened. Her trust in friends she made along her adventurer journey was, indeed, not misplaced.
+
+And Syl would support them with everything she had to give.
+
+“The obvious answer would be better equipment,” Ray muttered. “Because what we have now clearly isn’t enough anymore. Better armor, weapons, and maybe even artifacts. But anything actually worthwhile costs a lot of money.”
+
+Syliana shifted guiltily. Out of the ‘artifacts’ the party had, only her own staff counted. Hardy and durable beyond reason.
+
+Only the eye-protecting treasure survived the tower battle. Soon as its cord gets replaced and she’s sure it has no side effects, it would go to Tri. Protecting the eyes of their archer just seemed like the best option.
+
+Trianna shifted carefully against the wall, grimacing slightly as the movement tugged at her bandaged ribs.
+
+“And here I was hoping life-threatening horrors would start giving discounts.”
+
+Sepio snorted softly through his nose, though the sound carried more exhaustion than amusement.
+
+“That thing under the tower probably could have bought better gear than us.”
+
+“And even with money,” Syliana said quietly, “you still need connections. For equipment… and training.”
+
+That pulled everyone’s attention toward her.
+
+Syl set the untouched tea aside and folded her hands together loosely in her lap. The rain continued tapping softly against the windows behind Veric while the little heating stand near the wall crackled beneath simmering recovery mixtures.
+
+“I will speak with Ferric,” she continued. “And reach out to some old friends of ours.”
+
+Her gaze drifted briefly toward Luna sleeping beneath the blankets.
+
+The little wolf girl barely moved at all now aside from the occasional twitch of an ear, her dark silver fur spread messily across the pillow after everything that had happened beneath the tower.
+
+Syl’s expression softened faintly before she looked back toward the others.
+
+“I will pull on every resource available to me.”
+
+The room grew quieter after that, everybody considering the next steps ahead.
+
+Then Ray exhaled again and rubbed at his eyes.
+
+“You know,” he muttered, “I think Luna accidentally hurried all of us into life-threatening competency.”
+
+“Hrm. Indeed.”
+
+Trianna immediately pointed toward the sleeping wolf girl with a grin.
+
+“Or as Luna would say – yip yep!”
+
+That finally broke the tension properly.
+
+Even Veric’s shoulders loosened slightly near the window.
+
+And Syl smiled too.
+
+The laughter faded slowly afterward, leaving behind pleasant warmth in place of prior heavy silence.
+
+“There is a lot of planning to do, and difficult conversations await. But it’s definitely worth the effort. For us, and for Luna.”
+
+Almost without thinking, everyone’s attention drifted back toward the little wolf girl sleeping beneath the blankets after nearly killing herself to keep the rest of them alive.
+
+Syl watched her for a few long moments before speaking again.
+
+“And we will get through it.”
+
+***
+
+PoV Luna
+
+The world had become awoomazing again!
+
+Luna had absolutely no idea why her pack smelled calmer lately, or why the humans kept having long boring discussions over maps and papers and “future plans” whenever they thought she was distracted.
+
+Which happened often.
+
+Mostly because Luna was usually distracted!
+
+Like right now!
+
+“Hehehehe– faster!”
+
+Ray immediately regretted allowing the piggyback ride.
+
+“I swear,” he grunted while Luna bounced wildly against his back, “you weigh twice as much when excited.”
+
+“That is because Luna is helping momentum!”
+
+“That is not how weight works.”
+
+Luna considered this carefully for almost two whole seconds.
+
+Then she leaned sideways and snatched a fried meat skewer directly from Trianna’s hand while they were passing by.
+
+“A thief!” Trianna shouted dramatically.
+
+“Fast tax!”
+
+“That was my lunch!”
+
+“Now Luna’s lunch!”
+
+The skewer vanished into her mouth before Trianna could retaliate.
+
+Ray barked out a laugh despite himself.
+
+“You created this problem,” he informed the others.
+
+Sepio glanced over from where he walked beside Veric carrying a fresh bundle of travel supplies under one arm.
+
+“She absolutely arrived pre-created.”
+
+Luna nodded proudly from atop Ray’s shoulders while chewing.
+
+The town bustled around them beneath warm afternoon sunlight. Merchants shouted across crowded streets while carts rattled over uneven stone roads. The smells drifting through the air kept changing every few steps.
+
+And she was familiar enough to discern most of them now! Bread, smoke, wet cloth. Then fruit from a stall, metal polish, and–
+
+Spice!
+
+The smell of spice always felt so nice!
+
+It made her happy every time!
+
+Luna’s ears flicked constantly while she looked everywhere at once.
+
+This was much better than recovery naps!
+
+Recovery naps were evil.
+
+Especially because they kept ambushing her.
+
+One moment Luna would simply rest her eyes for one tiny little moment, and suddenly everybody informed her six hours vanished!
+
+Highly suspicious.
+
+Ray finally crouched enough for Luna to leap free before his spine gave up entirely. The instant her feet touched the street she exploded into motion again, sprinting ahead of the group before spinning sharply around to run backward instead.
+
+“Pack too slow!”
+
+“We’re walking normally!” Ray shouted after her.
+
+“Yes. Slow!”
+
+Trianna cracked up laughing beside him.
+
+Then Luna spotted it.
+
+A low rooftop stretched above the nearby street with a wooden awning slanting upward beside stacked crates. It looked very climbable!
+
+She hit the crates at full speed!
+
+A Jump, a leap, then Shadow Step–
+
+And suddenly Luna crouched atop the roof ridge itself while her tail whipped triumphantly behind her in the wind.
+
+“Ohoho! Catch Luna if you can!”
+
+Several pedestrians pointed upward immediately.
+
+One older man mock-sighed with a slight grin, muttering about “that damned wolf girl again.”
+
+Trianna stopped in the middle of the street and pointed accusingly upward.
+
+“That’s unfair!”
+
+Luna blinked down at her.
+
+“Nuh uh! Luna can reach here, so legal!”
+
+In hindsight, teaching Luna about the legal system perhaps wasn’t the brightest idea they had, but–
+
+“Oh really?”
+
+Trianna’s grin widened dangerously.
+
+Luna recognized it too late!
+
+The archer spun dramatically toward the others and cupped her hands around her mouth.
+
+“Guys! Jerky eating break! Luna is not invited!”
+
+The world stopped.
+
+Luna froze so hard her fingers scraped loudly across the roof tiles.
+
+“…Whuh?”
+
+Sepio immediately caught on.
+
+“Oh, tragic,” he said solemnly while reaching into one of the food bags. “And since we can’t catch her… Guess we’ll have to divide her portion.”
+
+“Nooooo!”
+
+Luna nearly launched herself straight off the roof.
+
+Instead she scrambled wildly down the slanted tiles, lost footing halfway, pinwheeled both arms, then vanished into Shadow Step before gravity fully won.
+
+She reappeared hanging upside down from the awning support directly above Trianna’s head.
+
+“Luna invited! Luna here!”
+
+Trianna laughed so hard she had to brace herself against the wall.
+
+“Gods, your priorities are incredible.”
+
+“Jerky important!”
+
+“So we can see. Come down here for some?”
+
+Luna dropped down immediately and landed beside the group with an enthusiastic ‘yip yep!’
+
+Then narrowed her eyes suspiciously.
+
+“…Was fake jerky break?”
+
+Ray failed completely at hiding his grin.
+
+“Maybe.”
+
+“Cruelty,” Luna declared.
+
+“Necessary tactical measures,” Sepio corrected.
+
+Luna huffed loudly.
+
+Then immediately stole jerky from him too.
+
+“Hey!”
+
+“Compensation!”
+
+The group continued through town afterward with Luna orbiting constantly around them like an excited disaster spirit.
+
+One moment she walked beside Syliana while holding a running conversation entirely about whether smoked rabbit counted as travel food or snack food–
+
+“It both,” Luna concluded firmly.
+
+“I suppose it could be both, when you’re concerned,” Syliana replied, ruffling the little wolf girl’s hair.
+
+“Yesh!”
+
+–The next moment Luna vanished again.
+
+And what followed was the fastest transaction they ever saw.
+
+Luna simply appeared before the baker in a Shadow Step, her shadows picked up a pastry, even as she deposited coins into the man’s hand, and then she was back walking with Syliana, meat pastry in her mouth, as if nothing happened.
+
+“Uhh, hey, don’t just–! Huh.”
+
+The vendor’s utter confusion at the situation made it very difficult to not laugh.
+
+Ray groaned at the whole situation.
+
+“Luna, you really can’t do stuff like that, it looks like you stole that pastry!”
+
+“Luna paid!”
+
+“You just threw coins at the poor man and kept running!”
+
+“Fast payment.”
+
+Syliana pinched the bridge of her nose while trying unsuccessfully to suppress a smile, even as Ray went to apologize to the baker, who just waved him off with a laugh.
+
+Honestly, the entire town seemed more alive when Luna rampaged through it like this, even if she caused mischief sometimes. Shopkeepers called out their greetings – especially food stall owners – while children and passersby alike pointed excitedly whenever her dark silver fur flashed across rooftops overhead.
+
+Even the guards stopped looking particularly alarmed anymore whenever Luna appeared on rooftops, market signs, or places above the streets she absolutely should not have been.
+
+Mostly.
+
+And at one point Luna convinced Veric to throw her onto a roof.
+
+“Up,” Luna explained while pointing toward another building.
+
+Veric stared at her for several long seconds… Then shrugged, grabbed her under the arms, and hurled her skyward with terrifying force.
+
+“Hehehehehe–!”
+
+Luna landed atop the roof in a perfect crouch while pedestrians screamed below.
+
+“Veric!” Ray shouted.
+
+“What?” the warrior asked calmly, “She asked.”
+
+Which sounded reasonable enough to Luna!
+
+From the rooftop she watched as her pack continued down the street below, their familiar scents and voices flowing together through the crowded afternoon streets.
+
+Warmth settled deep in her chest at the sight.
+
+Then she immediately sprinted across the rooftops above them because ground travel remained deeply unnecessary. Especially not when she had shadows to keep her attached to any surface Luna wanted!
+
+Yesh!
+
+***
+
+The rest of the day passed in comfortable chaos.
+
+Luna bought random food often enough that Ray stopped acting surprised. Trianna encouraged terrible ideas whenever possible. And Veric continued enabling Luna’s mobility in ways nobody else considered remotely responsible.
+
+All while the no-longer-quite-so-grumpy Sepio kept pretending he found none of it amusing despite repeatedly failing to hide it.
+
+As for Syl–
+
+She simply watched with a quiet smile while Luna burned through all the restless energy trapped inside her during recovery.
+
+By evening the excitement finally started catching up to Luna. Instead of sprinting ahead anymore, she kept drifting back toward the others automatically as they finished the last of their chores and visits.
+
+Mostly to her Second.
+
+Back at the inn’s room, preparations slowly took over again while warm lantern light spilled across their travel bags and newly-bought supplies. And her pack-friends were talking about roads and places Luna had never seen or heard of before.
+
+They would be leaving soon!
+
+Really leaving.
+
+Luna could feel that restless energy in the air, even as she sat pressed against Syl’s side, her island of hugs and warmth. All while delicate fingers moved slowly through her hair.
+
+She listened to the familiar noises of her pack around her and felt her own exhaustion settling comfortably into her limbs.
+
+Tomorrow they would be leaving for the wider world!
+
+There would be new roads ahead of them.
+
+New places. New dangers.
+
+Fun hunts to be had!
+
+And–
+
+It would be awoomazing!
+
+Because her pack would be there too.
+
+Mhm!

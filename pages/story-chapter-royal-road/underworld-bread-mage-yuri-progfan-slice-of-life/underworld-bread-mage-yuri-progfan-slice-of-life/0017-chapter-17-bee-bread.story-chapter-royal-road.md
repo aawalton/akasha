@@ -1,0 +1,113 @@
+---
+id: 0bcc068e-c448-5180-be2d-17385c86eab3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 17: Bee Bread"
+slug: 0017-chapter-17-bee-bread
+partOf: underworld-bread-mage-yuri-progfan-slice-of-life
+position: 17
+ownLength: 1446
+unit: words
+publishedAt: 2026-08-03
+link: "https://www.royalroad.com/fiction/179650/underworld-bread-mage-yuri-lit-rpg-slice-of-life/chapter/3763218/chapter-17-bee-bread"
+royalRoadId: "3763218"
+---
+
+“We’re back!” Hopping into Mellie’s house, Marina balanced herself from falling over. The three young ladies gathered once again around the table.
+
+“I solved dinner while you two were gone, here.” A small basket was now sitting in front of them, and inside were a dozen small brick-like cubes the size of a palm. “Let us share a meal.”
+
+“Uh, are those…?” The color of these small cubes reminded Marina of the crackers sold at grocery stores.
+
+“Bee bread,” Mellie replied, picking one up from the basket. “It’s the primary food source for the Bee-ple.” She said before taking a bite.
+
+Marina felt as if her teeth threatened to fall off by the sound made by the bee bread. They reminded her of dehydrated hardtacks that were stored in a can. And those were not meant for everyday consumption.
+
+“I don’t think breads are supposed to make those sounds…” She stared as the sound of Mellie’s chews filled the room.
+
+“Give it a try. It’s not as bad as you think.” Mellie gestured with a smile, grains of bread scattered around her cheeks.
+
+“I–” Marina lowered her gaze to the basket of baked blasphemy. “Uh, Hecate.” She turned to her right. “You haven’t eaten all day. Why don’t you have one as well?”
+
+“Oh dear, did you forget?” Hecate smiled. “I only need to be fed once a week.”
+
+Her lips twisted at Hecate’s excuse. So much for a heartfelt apology, only for her to be sold out. And now she had to endure this all by herself. Marina took a deep breath before picking up the smallest piece of bee bread. It did not have a distinct smell, except for a tinge of woodfire smoke, but the texture was like the crumbling rocks hanging off the edge of a cliff.  She closed her eyes and slowly opened her lips, with every neuron of her brain warning against her action.
+
+Clack.
+
+Taking a small bite out of the bee bread, Marina felt as if all the moisture within her mouth was sucked dry by a desert of starch that made even swallowing difficult. She quickly reached for the cup in front of her, for the nectar of salvation that would cleanse the dust storm off her tongue.
+
+“So… How was it?” Mellie anticipated.
+
+“It’s…” Marina stopped a stream of tears within her eyelids; she wanted to cry not only for the flour-born abomination she ingested, but also for Mellie, who endured this all her life. “It is worse than I imagined.”
+
+“Oh.” Mellie bobbed down her antennae. “Sorry, this is the type of food that we eat around here…”
+
+The bee bread was terrible. But it was the first piece of bread she tasted in the Underworld, which made it terribly special. If the recipes of bee bread were similar to that of hardtack, then this would truly be her golden ticket to baking.
+
+“But I am curious as to how you were able to make this? Did you use flour?” Marina asked.
+
+“Flour costs a lot of coins, so most of us just replace flour with pollen grinds instead.” Heading back to her lab, Mellie brought forth a stone jar. “This is what it looks like.” She opened the jar, revealing the white powder within.
+
+“May I?” Marina extended her hand.
+
+“Of course.” Mellie nodded as she ladled a spoonful of flour into Marina’s hand.
+
+“Interesting.” Rubbing a pinch of the grind between her fingers, Marina noticed the resemblance between pollen and flour, though it was a coarser grind; their consistency felt similar. And there was just one thing she really needed to test. “Hecate, maybe staying here for a week was a way better decision than I thought it would be.”
+
+“How so?”
+
+“We will find out in around a week,” Marina smirked. “Mellie, do you happen to have a small jar, preferably one made of glass or see-through?”
+
+“Uh, hold up–” Mellie scrambled through the corners of each of her lab instruments before returning with an old, tinted mason jar. “Does this work?”
+
+“It’s perfect!” Marina jumped from her seat. She filled the jar halfway full with pollen grind, then from her System [Inventory], she summoned the white quartz bottle gifted by Hecate, filling the jar with just enough water to cover the pollen.
+
+“Miss Marina, what is this?”
+
+“This, my friends, is what I call a company secret.” Marina sealed it shut. “But don’t worry, the big reveal will take place in a week. And Mellie, I need you to place this somewhere away from the windows.”
+
+“Alright.” Mellie left the table with both jars in her hands.
+
+“Ugh, now my stomach is hurting from both digesting that bread and hunger pains. I’m really feeling it after these days without much food.” Marina let out a sigh as she leaned back on her chair. “Hecate, you can fly, right? Why don’t we go catch a bird or something?”
+
+A juicy grilled chicken breast, or a deep-fried chicken thigh, was what she had in mind. Maybe with a tangy sauce on the side, with a cup of cold nectar. That would be the dream. Ever since the System gave her a new appearance, she noticed her waistline became much thinner, almost too thin. If she had this physique back on Earth, she would’ve gone on a rampage of junk food immediately.
+
+“If that is what you wish, then I shall complete it.” Standing up from her chair, Hecate lent Marina her hand. “Time is running late; let us make haste, my dear.”
+
+“Y-yeah.” Marina grabbed onto Hecate’s delicate fingers with her own. “What time is it?”
+
+“5:30 in the afternoon,” Mellie replied. “It’s really not safe going out in the forest at this time, plus the guards won’t let anyone out of the village at this time either.”
+
+“I am sure Hecate has a way,” Marina pointed out. “And also, your house is at the outskirts of the village. Does anyone know if any of us were to leave?”
+
+“That is a good point… I guess not.”
+
+“Then why don’t you tag along?” Marina suggested. “Oh, I guess I haven’t asked if y’all can actually eat meat, have I?”
+
+“We can, but it’s rare that we get meat, so we resort to bee bread and nectar,” Mellie said. “The creatures within the forest are often dangerous, and so meat is typically a reward for the highest honey-producing house in the village, and it becomes their choice to share with other Bee-ple.”
+
+“Oh, I see.” Marina followed Hecate to the door. “Then whatever we find, we will share with you.”
+
+“R-really?” Mellie’s antennae perked up in excitement. “You would share?”
+
+“Yeah, why wouldn’t I? We are all friends, aren’t we?” Marina shrugged, stepping outside behind Hecate.
+
+“Friends…” Mellie whispered under her breath.
+
+Marina noticed the subtle change of expression upon Mellie’s face. Friend was a heavy word even for a people-pleaser like herself. It was easy for her to know people, whether at school or work, but most people she knew were not who she considered friends; they were colleagues, with different boundaries and a different set of etiquette. Not even someone like Hecate would she consider a friend, and not a colleague either; the vampire was someone outside of this scale. But Mellie was different; she wanted to befriend Mellie not out of pity for someone living in solitude or a desperation for companionship. Mellie was comfortable to be around; she spoke in a pleasant tone and dressed herself the right way. She found it all very pleasing.
+
+“Mellie,” Marina called from the doorway. “You alright?”
+
+“Y-yeah, I will be right outside.”
+
+“No rush, we’ll wait.” Marina covered herself with the black cloak once again. She looked to Hecate, who was peering into the distant horizon, without an ounce of emotion. “Something on your mind?”
+
+“Nothing of importance, my dear.” Hecate smiled. “This Mellie girl reminded me of someone.”
+
+“Oh, really? I guess we both can finally agree on something.” Marina giggled. “Who does she remind you of?”
+
+“Mm… Not sure, probably someone who's been forgotten a long time ago.”
+
+At some point in one's life, they yearn for companionship. It was only normal that one would. Marina was the same way, though she had only grown accustomed to living by herself, and many people were the same way. Humans were social creatures, but at the same time, they hated change such as the random appearance of another in their life. To her, that appearance was Hecate. And perhaps to Hecate, that appearance was herself.
+
+“I know, right?” Marina agreed. “She reminds me of someone I have forgotten a long time ago, too.”

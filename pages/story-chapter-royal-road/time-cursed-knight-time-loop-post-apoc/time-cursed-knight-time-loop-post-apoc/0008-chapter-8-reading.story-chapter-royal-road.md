@@ -1,0 +1,535 @@
+---
+id: e6cefbf5-ae01-5e15-b2b4-b2696a904a63
+page-type-slug: story-chapter-royal-road
+title: "Chapter 8: Reading"
+slug: 0008-chapter-8-reading
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 8
+ownLength: 3759
+unit: words
+publishedAt: 2026-04-08
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3248876/chapter-8-reading"
+royalRoadId: "3248876"
+---
+
+[Initiating Curse]
+
+[Completed: 1,000 Repetitions With a Sword]
+
+[Amateur Swordsmanship → Level Increased]
+
+[Level 1]
+
+[Toxicity Resistance Learned]
+
+[Level 0]
+
+[Completed: Drew Blood From A Wyvern]
+
+[Fear Resistance Learned]
+
+[Level 0]
+
+[Restarting Day]
+
+I woke as if I'd been thrown into my own body.
+
+The scream didn't come this time, but the pain did.
+
+For a few terrible seconds I could still feel it.
+
+The wyvern's dark green spray.
+
+The warmth when it first hit my skin, followed by the sudden, absolute wrongness of burning that wasn't fire. My forearms had melted in my memory. I could still feel the skin blistering, the cloth dissolving, the way the pain had climbed from surface to bone like something hungry.
+
+I gasped and sat up, the thin blanket sliding down my chest.
+
+My arms were whole. Still, the agony lingered anyway.
+
+"Damn it," I muttered, rubbing my forearms as if I could wipe the sensation away. My hands shook slightly. "Can't anything be easy?"
+
+Outside the canvas, someone shifted in their sleep. A muffled complaint started, then died out.
+
+I forced myself to breathe. Inhale. Hold. Exhale.
+
+The pain didn't vanish, still it dulled enough for my thoughts to clear up.
+
+I remembered the messages.
+
+Not just that they'd appeared, what they had said.
+
+Despite the frustration, excitement stirred in my chest.
+
+For the first time, I hadn't just died.
+
+I'd done something that mattered.
+
+I'd wounded a wyvern. Maybe not the way I intended, maybe with consequences that ate me alive. Yet it had been a real blow. Proof that these monsters weren't completely untouchable. Proof that I wasn't completely powerless.
+
+A small victory, in an endless cycle that had been nothing but failure.
+
+My mind replayed the messages again, slower now.
+
+Amateur Swordsmanship → Level Increased.
+
+Level 1.
+
+I stared at the tent wall as if the words might appear there again.
+
+Level increased.
+
+I had improved, somehow, simply by repeating the same motions until my body and mind had no choice but to learn.
+
+A thousand repetitions.
+
+In my old life, you got better by training, by practice, by time. Here, practice had been counted, measured, and converted into something tangible by a system that watched me die and reset the day like it was turning pages in a book.
+
+"My God," I whispered, hand going to my forehead. "I had to swing a sword a thousand times…"
+
+I let my head fall forward for a moment, elbow on knee, trying to imagine what "Level 1" actually meant.
+
+Better balance? Cleaner cuts? Stronger wrists? Faster reaction?
+
+I wanted to feel the difference immediately, as if a skill could suddenly reshape my muscles.
+
+Even if it was subtle, it was still progress.
+
+My eyes narrowed as my thoughts returned to the other lines.
+
+Toxicity Resistance Learned.
+
+Fear Resistance Learned.
+
+"How does someone learn resistance?" I muttered, half incredulous, half unsettled.
+
+In my first life, you didn't "learn" resistance to poison. You built tolerance, maybe, through exposure.
+
+I flexed my fingers, testing sensation. My arms still tingled, but beneath it there was something else now: the strange sense that my body had changed its relationship to suffering.
+
+Toxicity resistance, I thought. Had I bathed in wyvern acid and lived long enough for the curse to record it?
+
+And fear resistance…
+
+My stomach tightened.
+
+Had I been afraid? Yes. Always. Every time.
+
+But maybe fear had stopped ruling me so completely. Maybe the system had noticed the difference between terror that paralyzes and fear that you move through.
+
+I shook the last clinging strands of sleep from my mind and reached for one of the books beside my makeshift bed. The leather cover was cracked and aged. When I opened it, the pages were crowded with notes and symbols. None of them legible to me, written in a language foreign.
+
+While trying to find a pattern it clicked.
+
+I slipped the book into my satchel, this time with something I hadn't felt in a long time. Hope.
+
+Maybe.
+
+Iris had said I might already know why I couldn't use magic.
+
+Maybe the answer had been in the book all along.
+
+The camp was still asleep.
+
+Only the guards moved, silhouettes pacing their familiar routes.
+
+My first stop was routine now.
+
+The noble's tent.
+
+As usual, I went in and came out with the sword. I paused while adjusting the sheath at my belt, weighing my next move.
+
+"Right," I murmured to myself as I started walking again. "Making noise and hoping Iris would find me didn't work."
+
+It's time I seek her out.
+
+I aimed myself toward the far upper reaches of the camp, where the tents thinned and the ground grew rougher. The further I went, the more space opened between the officers' quarters. Supply carts sat abandoned in the shadows, their wheels half-sunk in dirt.
+
+Among the equipment was a lone soldier patrolling an isolated stretch near the perimeter. Armored in the same style Iris wore. He walked with the loose confidence. His attention drifted. His pace was lazy.
+
+To me, he looked like an opportunity wearing steel.
+
+I stopped for a second and forced myself to become someone else.
+
+I smoothed my white hair back, making it look intentional rather than wild. I straightened my posture until my shoulders ached with the effort. I lifted my chin and set my face into a calm I didn't feel.
+
+Authority wasn't only rank. It was performance.
+
+With a sword at my hip and a book under my arm, I had props. Now I needed the voice.
+
+I stepped out from cover and, before the soldier could properly register me approaching, I called out sharply.
+
+"Soldier."
+
+He spun as if yanked by a string. His eyes widened, and he snapped to attention so fast his armor gave a faint clink.
+
+"Sir!" he blurted, surprise mixed in his voice.
+
+His gaze swept over me. Hair, clothes, the way I stood. He was trying to place me in whatever hierarchy his mind lived inside.
+
+I held steady and prayed the lie would hold.
+
+Please let this be enough.
+
+"I want information," I said, keeping my tone measured, clipped, like a man used to being obeyed. "Where can I find the soldier named Iris?"
+
+The guard hesitated. Just a heartbeat. Enough to make my stomach tighten.
+
+"I—I don't know for certain, sir," he stammered. "But she usually patrols near the mess tent."
+
+A surge of satisfaction flared in me so hard I nearly smiled.
+
+Finally. A lead.
+
+As I turned, another thought caught me and stopped my feet.
+
+If I rushed off too quickly, would that look wrong? Would it crack the illusion? Nobles didn't scramble. They summoned.
+
+I forced myself to pivot back and fixed the guard with a steady stare.
+
+"Inform her," I said, letting the words fall like a command, "that I will be waiting at the edge of the camp, near the stone pillars."
+
+The guard straightened further, uncertainty flickering in his posture.
+
+"Y-yes, sir."
+
+I took one more step closer, just enough to press the weight of expectation. Summoned the harshest tone I could remember from Blut.
+
+"This is urgent," I barked. "What are you standing around for? Get lost."
+
+The guard jolted as if struck. "Yes, sir!" he snapped, and began moving immediately.
+
+I didn't watch him go. Watching would look like doubt.
+
+Instead I spun on my heel and strode away with the confidence. My heart hammered with the fragile exhilaration of having finally moved the day in a direction that wasn't simply toward death.
+
+I made my way back to the edge of the camp, my hideout tucked between towering rock formations.
+
+It was the only place I'd found where I could breathe without feeling watched.
+
+I stepped into the narrow hollow and let the tension in my shoulders loosen by a fraction.
+
+Finally with no one around, I took the chance to start my training.
+
+Each swing sliced through the air with a crisp whoosh.
+
+Something was different.
+
+Nothing that would make a veteran swordsman nod in approval. But I could feel it.
+
+The rhythm had improved.
+
+I couldn't have explained exactly how, just that my body knew.
+
+The blade descended with less vibration. My transitions between positions felt smoother, less like wrestling with a stubborn tool and more like guiding something that wanted to follow. My breathing didn't rag as quickly. My hands ached less. The burn in my shoulder arrived slower, weaker.
+
+I was still an amateur swinging a piece of steel.
+
+But I was an amateur with a fraction more control.
+
+That realization fed the flame inside me.
+
+My swings sharpened. My movements grew more aggressive. An impatient desire to be better now, immediately, as if wanting it hard enough could carve skill into bone.
+
+My eyes locked onto the sword until the world around it began to fade.
+
+Sound blurred. The cold air, the sweat on my skin, the ache creeping through my arms. All of it dimmed until there was only the blade and the space it cut through.
+
+It became a silent conversation.
+
+Steel spoke in vibrations and angles. In the way the blade hummed when my edge alignment was wrong. In the duller sound when I forced power instead of letting motion carry it. In the tiny jolt that told me my stance had shifted, my balance had drifted, my wrists had collapsed a degree too far.
+
+The longer I moved, the more I understood what the sword was telling me.
+
+Your position is wrong. Your edge isn't set. You're muscling it. Stop.
+
+It was some kind of feedback I hadn't been able to hear before the system had carved "Level 1" into me.
+
+I was so deep in that rhythm that the first sound barely registered.
+
+Footsteps.
+
+Rock crunching under boots.
+
+I froze mid-motion, the sword held low, tip angled toward the ground. My breath stopped in my chest.
+
+The footsteps grew closer.
+
+A young woman stepped into the mouth of the hideout.
+
+She held her helmet tucked under her right arm. Her left hand lifted to her forehead, trying to peel sweaty hair away from her skin. Short black strands clung stubbornly, and irritation flickered across her face as she fought them.
+
+Her gaze darted over the rocks, searching.
+
+Nervousness sat on her features like a tight mask. Not fear, more the strain of being summoned somewhere isolated, not knowing who would be waiting.
+
+Her eyes landed on me.
+
+She snapped to attention immediately, heels clicking together with military precision. Her posture straightened as if pulled by a string, chin lifted, shoulders squared. She looked suddenly younger in the rigid stance.
+
+"Sir! Soldier Iris, Second Circle Mage, reporting as ordered, sir!" she announced, voice crisp and loud enough to carry beyond the rocks.
+
+I blinked.
+
+For half a heartbeat, the familiarity of her voice and face made me forget everything else. The loops, the resets, the fact that this version of Iris didn't know me.
+
+"Hello, Iris!" I said cheerfully before I could stop myself.
+
+The tone was wrong. Too warm. Too familiar.
+
+Iris's posture wavered.
+
+"Iris?" she repeated, and her confusion flickered across her face. Her eyes narrowed, studying me more carefully: my white hair, my robe, the sword in my hand, the book tucked nearby.
+
+Her gaze sharpened with suspicion.
+
+"What…" she started, then stopped, and the words that followed came out low and rough, like she was speaking to herself as much as to me. "What the hell is this? You're not a noble or an officer. Is this a prank? What kind of Schwarzling called me out here?"
+
+I gestured toward a flat stone shelf jutting from the cavern wall.
+
+"Please," I said, keeping my voice level. "Have a seat."
+
+Iris didn't move right away.
+
+She stood in the entrance of my hideout. Her eyes kept flicking from my face to the rocks behind me, as if she expected more soldiers to step out of the shadows and start laughing.
+
+I could almost hear the thoughts forming behind her wary stare: This isn't an officer's tent. This isn't a proper summons. This is a trap.
+
+I needed her to stay long enough to talk, but I also needed her to believe she could walk away without consequences.
+
+"In the worst case," I said carefully, "you can tell your superiors a noble called you. That way you won't have to spend the rest of the morning marching the perimeter."
+
+As I spoke, I brought the sword forward, just enough for her to notice it properly. Even without a true edge, it still looked expensive. Gilded fittings, ornate guard, the kind of needless decoration that screamed wealth.
+
+Her gaze snapped to it.
+
+I saw the calculation shift in her expression, less this is a prank and more this might be above my pay grade.
+
+She exhaled through her nose, the sound sharp with reluctant acceptance.
+
+Iris stepped to the stone seat and set her helmet down beside her with a careful clink.
+
+I let myself breathe again.
+
+I sheathed my sword and leaned my back against the opposite wall, trying to look confident, like I wasn't a desperate boy stealing blades and bargaining with soldiers for scraps of information.
+
+"I heard from someone that you once lived in my territory," I began. My mouth was dry. Still, the lie—half lie, half truth—rolled smoothly now. "And I should introduce myself properly."
+
+I paused just long enough to make it feel deliberate.
+
+"I'm Kaspar von Hexenzeit."
+
+The name hit her like a slap.
+
+Iris's eyes widened so suddenly it was almost comical. In the same instant, she shot to her feet, outrage flaring across her face.
+
+"Damn it!" she burst out. "I knew this was a prank. What would the False Promise want with me?"
+
+The flush climbed her neck. She looked ready to storm off or to swing her staff at my head and ask questions later.
+
+I raised an eyebrow. A part of me found it faintly amusing.
+
+"Well," I said, keeping my tone dry, "technically, I am a noble."
+
+I watched her carefully as I added, "Just not in the way you were thinking."
+
+She crossed her arms over her chest. Her gaze narrowed to a hard, suspicious line.
+
+"So what is this?" she demanded. "Some kind of joke?"
+
+"Not at all," I replied. "I simply thought we might have a mutually beneficial conversation."
+
+"Mutually beneficial?" Iris repeated, as if the words tasted bad. "And what could you offer me?"
+
+I let a small smile show, just enough to suggest confidence.
+
+"How would you like to avoid patrol duty for a while?" I said. "No more endless rounds along the camp perimeter."
+
+Her eyes flicked toward the camp, toward the lanes of tents and the lantern-lit routes she was supposed to be walking. For a heartbeat, I saw the temptation slip through her suspicion.
+
+Her expression hardened again, as if she hated herself for even considering it.
+
+"And in return?" she asked.
+
+"All I ask," I said, "is that you answer a few questions and teach me a thing or two."
+
+I kept my voice calm, my posture relaxed, as if I wasn't balancing everything on this single conversation.
+
+"Simple enough," I added. "Don't you think?"
+
+Iris stared at me for a long moment, weighing me like a risk assessment. Then her lips curled slightly.
+
+"Teach you?" she repeated. "What could I possibly teach that the Academy's know-it-all doesn't already know?"
+
+"It's a long story," I began, and even as the words left my mouth I felt how absurd they were.
+
+"A few days ago," I continued, forcing my tone to stay steady, "I struck my head against a rock."
+
+I paused, watching her face for any flicker that suggested she believed me.
+
+"I spoke with the professors," I added, letting a tired frustration creep into my voice. "But there's nothing they can do. I've lost some memories."
+
+That sounded too mild.
+
+"Actually… I've lost a good part of them."
+
+Iris's eyes narrowed further.
+
+Her posture didn't soften. If anything, she looked more guarded.
+
+"And what does that have to do with me?" she asked, blunt as a hammer.
+
+"You?" I repeated, then shrugged, as if her suspicion bored me. "Nothing."
+
+I rose to my feet and deliberately turned away, making a show of ending the conversation. The movement was calculated. An imitation of the officers I'd watched, the way they treated people like furniture until they needed them.
+
+"I can call a soldier," I said, letting my voice carry the casual authority I'd practiced, "and you can return to your patrol."
+
+For a heartbeat there was silence.
+
+"Wait. No, hold on."
+
+The urgency in Iris's voice surprised me.
+
+I stopped, half-turned.
+
+Iris exhaled, and the tension in her shoulders loosened. She bent down and slipped off one boot with a practiced tug, then wiggled her toes against the cold stone floor.
+
+A sigh escaped her. Relief and discomfort mixed together.
+
+"All right," she said, and her voice had shifted now from confrontation to reluctant cooperation. "Let's start with the basics."
+
+Her eyes lifted to mine again, wary but engaged.
+
+"What do you want to ask?"
+
+I leaned forward slightly.
+
+"What are we doing here?" I asked. "Where exactly are we?"
+
+The questions felt embarrassingly simple, but if I didn't rebuild the world's foundations, everything else would keep collapsing on me.
+
+Iris raised an eyebrow, disbelief creeping into her expression.
+
+"That must have been some hit to the head," she said, shaking it slightly. "You don't remember anything?"
+
+"Not a thing," I confirmed.
+
+I spread my hands.
+
+Iris studied me for a moment longer. Then, finally, uncrossed her arms.
+
+"We're on an expedition organized by the Silberwald Magic Academy," she explained.
+
+My brow furrowed immediately.
+
+"All right," I said slowly, "you've said several things I'm not familiar with."
+
+I watched her face as I kept going, letting the extent of my ignorance show.
+
+"What's this expedition about?" I asked. "What are we searching for? And what is the Magic Academy?"
+
+A flicker of something like concern passed over Iris's features.
+
+"An expedition," she said, "is a group that explores ruins, caverns, forests, lost cities. You name it. All in search of artifacts."
+
+Artifacts.
+
+I remembered the whispers around crates. Ancient text. Symbols carved into stone. The gate itself.
+
+"In this particular expedition," Iris continued, "we're searching for a mana vein."
+
+She said it like it was obvious, like everyone should know what that meant.
+
+"It should contain an absurd amount of mana crystals," she added.
+
+My mind immediately pictured the glowing blue stones Blut had thrown at students. If there was a "vein" of them, an underground artery of mana, then this wasn't just a school exercise.
+
+Iris paused, then added more, her tone shifting into the cadence of someone reciting established structure.
+
+"Usually," she said, "an expedition is made up of mages and soldiers from the army." Her eyes flicked over me. "In this case, you're one of the few mages who is also in the army."
+
+I'm in the army? What is my rank? Why does Blut treat me like dirt if I'm military?
+
+The most dangerous question of all rose up.
+
+Do I tell her about the loop?
+
+I swallowed it down.
+
+No.
+
+Not yet.
+
+So I nodded slowly, pretending to absorb the information like a confused noble.
+
+"And the Academy?" I prompted.
+
+"It's the foremost center of magical learning in the kingdom," Iris said simply.
+
+I scratched my chin, forcing myself to look thoughtful instead of frantic. Kingdom. Academy. Army. Resources. Gate.
+
+Steer back to the real issue, I told myself.
+
+"What about that door?" I asked quietly.
+
+I tilted my head toward the direction of the gate.
+
+Iris followed my gesture with her eyes, squinting into the gloom as if she might somehow see through rock.
+
+"From what we've heard," she said, "it's some kind of mechanism built by an ancient civilization. It requires a massive amount of mana to open."
+
+Her voice was casual, though the words weren't. Ancient civilization. Mechanism. It made the gate sound less like a door and more like a lock.
+
+"If it's sealed shut," I pressed, keeping my tone cautious, "doesn't that suggest there could be dangers inside?"
+
+I watched her face as I asked it, searching for any sign of doubt.
+
+Iris shrugged, then bent down and slipped off the other boot.
+
+"It may," she admitted. "But we have a Six Circle mage with us." She glanced up at me as if that should have ended the conversation. "He'll handle any threats that might arise with ease."
+
+A thin chill ran through me.
+
+Six Circles. The kind of power that should have turned wyverns into ash.
+
+"Remember," Iris added, stretching her ankle as if she could stretch the worry out of it, "this is only a school trip for most of you."
+
+A school trip.
+
+I bit down on the bitter laugh that threatened to escape me.
+
+"Could he protect us," I asked carefully, "even if there were wyverns?"
+
+Iris's eyes widened slightly, just enough to show surprise before she pushed it back down.
+
+"Wyverns?" she repeated. "Those have been extinct for a long time." Her gaze sharpened, studying me as if the question itself was strange. "Still even if they weren't, I imagine he would have no problem."
+
+Then why can't he deal with them? The thought came cold and immediate.
+
+If a Six Circle mage was truly present and truly capable, then something else was wrong. Something deeper than "we weren't prepared."
+
+"Do you know the name of this mage?" I asked. "Or what he looks like?"
+
+Iris shook her head. "No idea. All I know is that he's leading the ritual to open the gate."
+
+I nodded once, filing it away. A faceless answer to a question that felt like it should have been simple.
+
+"Got it," I said. "Thanks."
+
+Iris leaned back on her hands, the tension in her shoulders easing now that the conversation had shifted away from danger and into explanation.
+
+"So," she said, watching me closely, "about learning. What is it you want?"
+
+"Ah." The sound came out before I could decide whether it was excitement or relief.
+
+I reached into my satchel and pulled out the worn book I'd brought from my tent.
+
+I handed it to her.
+
+Iris took it, turning it in her hands.
+
+"Do you want to learn magic?" she asked, lifting her gaze to meet mine.
+
+I shook my head immediately.
+
+"No," I said. "I need you to read."

@@ -1,0 +1,172 @@
+---
+id: 510c3e61-2ae3-51f5-978f-bb112a6ef757
+page-type-slug: story-chapter-royal-road
+title: "017 - CENSORED"
+partOf: zero-day-saint-i-cheat-smarter-shapeshifter-litrpg
+position: 17
+ownLength: 2753
+unit: words
+publishedAt: 2026-05-08
+link: "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3369435/017-censored"
+royalRoadId: "3369435"
+---
+
+Both truck bay doors stood open and no vehicles were there. But there was blood. A lot of blood. Mixed with fur and feathers. Someone tried to make a stand against the Wild Hunt here and it looked like they had failed. I carefully stepped inside. The blood had only partially congealed, leaving a slippery coating on the smooth concrete floor.
+
+I was only a couple of steps in when someone screamed and appeared at my flank, swinging a fire axe. I sprang sideways in a panicked bound, clearing half the room. I watched as that someone slipped on the blood, nearly dismembering himself with the axe, as he caught his balance. He was maybe twenty and had none of the stature or size I'd expect from a fireman. Nor any of the uniform.
+
+["I'm human! One of the Blessed!"] I wrote in chat.
+
+He wobbled unsteadily and paused. His eyes flickered over nothing, noticing my message.
+
+"Oh god, I'm so sorry," he said. Chat said his name was Ash.
+
+["It's okay, Ash. How did you hide from me? What's your class?"] He had appeared out of nowhere. I couldn't have not seen him.
+
+"I'm an Archivist. Very utility-based. But I get a random selection of spells every day, depending on the books I absorbed. This was a chameleon spell."
+
+Archivist. Book-absorption. That all had to wait for later.
+
+["Are others around? I will lead a group of Blessed here soon, we want to prepare it for the ice storm."]
+
+He shook his head. "No one besides me. I've prepared a closet against the cold, though that really won't fit more than one person. But there are more rooms."
+
+["Okay, keep hiding. I'll be back soon."]
+
+"Uh, Eve. What's with your eye? Tatiel says that it looks like a devil's."
+
+["Tatiel is correct. I did this so I could find this place for others. Ask Tatiel if that automatically makes me untrustworthy, or if I just made a hard call."]
+
+I didn't wait. There was no time to lose. Once the others were here and he saw that I was no threat, he'd probably not attack me over that eye.
+
+I swapped back to Guides chat.
+
+["What did the others say?"]
+
+"They are still arguing but approaching the shopping center. People were very relieved you found a place."
+
+["What's your take on this? Should we do it? Should I spend charges there?"]
+
+"You need to be fast. The fire station might already be survivable, but it's not a guarantee. How bad it is depends a lot on the circumstances, but that wind will penetrate any imperfect insulated place. If the others fight you should absolutely invest a charge to help. The Created shouldn't pose extreme risk, but they aren't trivial either."
+
+I was weirdly relieved. I was tired of being prey. Those fangs and claws did provide a certain level of reassurance that I wasn't helpless.
+
+When I arrived back at the shopping center the others were about five minutes away. I changed back to human and settled down on that bench where I'd found Cee earlier. I pulled a water bottle out of my inventory into a shaking hand. I hadn't even been running that long. Like an hour at most. I was exhausted and thirsty, but not even a hint of hunger. That 'Well-Sated' buff was really paying off.
+
+["We'll be hitting the place soon, but it'll be a quick hit and run. Only looking for insulation supplies and out again."] I wrote in local chat.
+
+["Can I hitch a ride? I'll drop off when I spot something useful and if I die, I die."]
+
+I got up and walked over to the awning. Might as well use the minutes I'd be a human to actually speak.
+
+"I assume that's not literally true? You are controlling this teddy but it's not really you?"
+
+The teddy appeared at the edge of the awning, looking down at me with its empty expression.
+
+["That's pretty philosophical to be honest. I will die. I am really me in here. But I'm also in every other body I animated. My class is Hive Queen. The death is real but it's not ultimate. I have plenty right now, but want to gather more."]
+
+"That's both a bit metal, and very fucked up. You said you tried to get in before? Have you died before?"
+
+["Many times, Eve."]
+
+This conversation was rapidly exceeding my capacity for creepy tonight. I was saved by a cluster of white dots appearing on my minimap.
+
+"Yes, you can hitch a ride, Cee. Come down, and we'll join the others."
+
+The bear unceremoniously dropped off the edge. I caught it before it hit the ground.
+
+["Thanks, Eve"]
+
+Teddy in hand, I approached the others. There was a vast mix of reactions. As I approached I caught a glimpse of myself in a shop's window. I was covered in ichor, but with a patina of blood that covered half of my head. The broken horn had bled for quite a while. It provided a nice symmetry along with the yellow-red eye. If one liked that kind of monster aesthetic.
+
+I was still examining my reflection when Jamie hugged me, pulling me off my feet in the process. My body stiffened involuntarily before I returned the gesture. The bear in my hand squirmed, reminding me of the person I was holding. I pulled away from Jamie and settled the bear on the ground. Liz was giving me a smile I couldn't parse before her gaze also fell on the now-waving teddy.
+
+"Folks, this is Cee. Cee, those are the others. We don't have much time for details. Cee will tag along but do her own thing inside."
+
+["Hello, Eve's friends."]
+
+There was an uncertain murmur of greetings.
+
+"Constance, how is your mana? Can you pull off that armor spell again? Twice?"
+
+Constance stepped forward. "Barely, yes."
+
+"Okay, my proposal is that you hit me and Jamie with that. In my shape I won't be able to reach into any shelves. According to that sign with the stores, there is a sports and camping supply store. That'll be our main target. Jamie and I focus on clearing the path there and then keeping the corridor clear, you and the others head inside and grab everything you can. Tents, sleeping bags, ski clothes, even just tarp. Five minutes for that place then we switch to the bedding store. Skip the pillows—grab every down duvet and wool blanket you can carry. We'll make one hell of a pillow fort."
+
+Frank stepped forward.
+
+"Counter-point: If creatures are inside those stores, Jamie goes in with the others. I'll take the corridors with you, I'm better suited for open spaces than he is."
+
+I'd expected the worst when he stepped forward. That he'd fight me over control, that he'd complain about a girl taking charge. But the man of sparse words was constructive and to the point.
+
+"Yes, perfect, thank you, Frank. Contingencies: If we need help in the corridors, Liz, you'll join us. If you need help in the stores, I'll come in. All clear?" I looked at Frank who just silently nodded.
+
+"We should party up." Constance said. "We all need to get stronger."
+
+She, too, was right. The three-way split would have meant Anthony would catch up faster, but they all needed the experience. Anthony hadn't said a word to me so far, but he was talking to the non-Blessed right now, pointing out a building on the other side of the road. Their headcount had gone down, not all had made it when they faced the second attack. Gabriel hadn't mentioned that part. And now, they'd need to deal without our protection for another couple of minutes.
+
+I turned back to Constance. "I agree," I said. "Will you join us?"
+
+Constance nodded and I began shaking hands with the others, handing out party invites. We faced the entrance. Jamie, Liz, Constance, Frank, Anthony, Stephen and I. The Blessing wouldn't throw something at us that seven Blessed couldn't deal with, right?
+
+"Hold off on the spell until the last second before contact."
+
+"Got it," Constance said.
+
+The golden retriever shape—no, Angel's shape—filled my mind with a protector's need for violence. He'd been a goofball and couldn't harm anyone. But his blood remembered the dog's role. They'd been mankind's protector for centuries. Time to do our duty and slay some monsters.
+
+Jamie knelt down next to me. "I wish you wouldn't just go on throwing yourself into the meat grinder. I know why you do it, but I really don't like seeing your health bar dropping like that." He ruffled the fur at my neck, just as Cee climbed on my back. I didn't know how I felt about that. The body knew it fucking loved it, but the mind was conflicted.
+
+The smell that drifted from the shopping center's entrance was surprisingly nice. It mostly smelled of some kind of citrus cleaner, but there were notes of chocolate and the mixture of smells of the food court in there, too. There was no way anyone was working in that food court, so I did wonder what was up with that.
+
+We couldn't see any Created through the glass front, and there were none on my minimap. Gabriel explained that this sometimes happened with such places, we'd only see them when we stepped inside or when the door opened. This Blessing really didn't like people camping in safety while killing their foes.
+
+The moment the automatic doors swung open I saw them and red dots appeared on my minimap. Right behind the doors stood a group of four of them. Kobolds. The default low-level mob in any roleplaying game under the sun. They were lizard-people, but only four feet tall, with slightly dog-like snouts and too-large eyes. When the doors opened they looked like they had just been chatting with each other. Three of them were wielding spears and wearing scrappy clothes and rudimentary leather vests. One was slightly taller than the others and wore something more akin to a robe. This one was also unarmed and had slightly different facial features. Female, maybe?
+
+All of my gaming experience told me that this was the caster and needed to be taken out ASAP, while we had the moment of surprise. But neither Eve, nor Angel, had the instincts to act on that. They looked like people. Weird, alien, lizard-people. But not like the monsters we'd fought so far—the hounds, the gargoyle, or even the madness-driven animals of the Wild Hunt.
+
+The kobolds whirled around at our appearance, with the caster shouting "Intruders!" The three others fell into a triangle position in front of her and charged at us, with high-pitched shrieks. I had taken point and the others seemed to share my reluctance. That was until I noticed just how the light gleamed on those metal spear-tips. Before I could react the left-most kobolds fell. Half a brick had hit him square in the head, killing him in one blow. Liz must have looted those off the collapsed buildings. They made for very lethal projectiles with her ability.
+
+I knew better than to charge a spear head-on and bounded off to the side, while a familiar golden sheen fell over me. Jamie had summoned his shield and was charging the remaining two head-on. I saw the caster gesturing in his direction, blue energy swirling around her hands. All I could do was bark out a warning and hope that Jamie noticed the attack. A projectile shot out of her hands with incredible speed and, probably due to nothing but luck, hit Jamie's timely raised shield. The sound was nothing like a wind chime anymore. This was more like a cathedral's bell being struck—a noise so loud I felt it in my teeth. Jamie stumbled backwards and the caster prepared another blast, while the spear-wielders beset him in melee range. A shot rang out and another of the kobolds went down.
+
+We really needed more melee fighters. I made a mental note to talk to Frank about his specialisation options, maybe he could easily switch to melee weapons?
+
+The caster realized too late that I was about to pounce on her. Her large eyes went wide when I crashed into her and her magical blast went wide, screaming harmlessly toward the ceiling. With my paws on her chest I paused, as her clawed hands dug aimlessly at my fur. Her fear looked so real. I hoped that Gabriel's brief explanation earlier was accurate. That they were nothing but automata.
+
+When her hands began to glow, I tore out her throat. The demons' ichor had been much preferable to the taste of the kobold's blood. It tasted exactly like humans'.
+
+Behind me, the last of the four had fallen, the others rushing in and taking position. I was ready to run when the others slowed down, their expressions an unreadable mix of emotions. There was nothing on my minimap. I looked around, only now noticing the big advertising screen right behind me—displaying me. Or what was supposed to be me. A golden retriever, brutally mauling a group of panicked people. In this shape I couldn't make out the eye color, but one eye had the tell-tale demonic iris.
+
+A couple of seconds later, the clip ended and the screen shifted to showing my portrait, half human face, half dog face, along with a whole bunch of nonsense stats. Like I was some prizefighter or other athlete. Kills, separated into human/demon/other, alleging I had already killed five people. Chance of survival until Seal Formation, 64%, chance of becoming Fallen before Seal, 17%. Chance of becoming Fallen within a week, 81%.
+
+The stats faded away and revealed a list of people, all with similar stats, shown in a table. I was leading, supposedly being the one with the highest odds of becoming Fallen within a week. A cursor that had been next to my name jumped to the next one, Claire's, before the entire screen, actually multiple screens, all showing the same images, started flickering. 'CENSORED' appeared in the middle of the screen.
+
+Then the screen shattered. Half a brick fell down in front of me.
+
+"This is the Wyrm's work, everyone. We've been warned about this. Let's go." It was Liz's voice. She'd bricked, hah, the screen.
+
+Again I had that sneeze-like feeling and shook myself, feeling anxiety melt away in the gesture. I barked my approval and ran on, seeking out the next set of red dots.
+
+We had ten minutes and just wasted half of one staring at a stupid screen. When I passed a toy store, I felt the teddy's weight dropping from my back. I'd forgotten she'd been there.
+
+There is a certain talent that people in very problem-solving focused professions develop. The mind can do a remarkably great job of processing information, entirely on its own, presenting you with the conclusion, before you even fully understand the process that got you there.
+
+I whirled around and found myself growling at the plushy. I immediately understood why she deceived me, but that didn't make me any less furious about it.
+
+Why had the Wyrm not been willing to show what Claire's inevitable fall would look like? Why would that reveal matter to it?
+
+While the others stared at me like I'd gone exactly as mad as that screen had just predicted, I opened the Guide chat.
+
+["Have you seen this kind of ability before? To animate a plushy like that?"]
+
+"No, I haven't. I had my suspicions about it, but didn't want to fuel paranoia." Her voice was tense.
+
+"Nicely done, Eve. I had thought this would go on for a lot longer," Lucy said.
+
+Cee wasn't a name. It was a letter. C. Just like that bitch the Wyrm had just hidden from me. Not only had Claire found me, in the middle of the apocalypse, no, she also immediately started manipulating me, lying to me.
+
+And then there was the message in local chat.
+
+["When did you want to tell me that you were back in New York?"]
+
+When I stood there, a moment later, plushy filling scattered around me, I wanted to say that I was completely aware that she had said that she had multiple bodies. But in retrospect I couldn't really tell. I had been really angry. I had bit down on that head and shook. And then the white dot had vanished.

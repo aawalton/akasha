@@ -1,0 +1,561 @@
+---
+id: ef9cc226-fe60-5614-8583-9625cd4c11e3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 125: Of Frenzied Claws and Rot Beneath"
+slug: 0126-chapter-125-of-frenzied-claws-and-rot-beneath
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 126
+ownLength: 3393
+unit: words
+publishedAt: 2026-05-05
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3359216/chapter-125-of-frenzied-claws-and-rot-beneath"
+royalRoadId: "3359216"
+---
+
+PoV Luna
+
+The moment Luna saw her pack being hurt, something inside her snapped, the flush of blood rising within her.
+
+The sharp feeling of wrong pushed everything else aside.
+
+Sepio was down.
+
+Laying completely still.
+
+Trianna–
+
+Her arm bent the wrong way, her body not moving.
+
+Luna saw as Ray did his very best to end the few remaining rotten creatures stalking the battlefield. His attacks aimed to cut tendons and make joints useless rather than to kill.
+
+While Veric and Syl stood, but only just, their positions strained, exchanging blows with a man who smelled wrong.
+
+A very familiar wrong.
+
+Her fur stood on its ends.
+
+The Ogre fight flashed before Luna’s eyes, and what she saw only confirmed what her nose was already telling her.
+
+The two were struggling, barely holding on. Only their joint flow of attacks saving them from the promise of death.
+
+And the ugly smelly thing in front of them…
+
+This man–
+
+He needed to be gone.
+
+Luna moved before the thought finished forming, before her golden eyes even fully narrowed with righteous fury.
+
+How dare he hurt pack!?
+
+Her Skills worked in tandem, responding to her will before conscious thought even hit. Her two Run skills, and Jump, into Shadowmeld and Reaper’s Pass.
+
+She could feel momentum building for Momentum Claw, the burn of resources throughout her body. Muscles and shadows responded to her call eagerly.
+
+Ready to hunt.
+
+Ready to kill the bad bad!
+
+The distance vanished in a blur, her body aligning for a perfect blow as she closed in, claws first, no hesitation whatsoever. Just a direct attempt to tear through the wrong thing and break whatever enemy stood between her and her pack.
+
+Her strike landed at the man’s weapon-holding arm with a boom.
+
+The shockwave hurt her ears, her body moving past and skidding to halt a few paces away. Luna saw the ripped off flesh flying off, scattered–
+
+But not the way it should have.
+
+What little blood there was was thick, sticky, and smelly.
+
+And the strike that should have sheared through bone merely staggered the enemy instead!
+
+Woo! No! Why?!
+
+The man’s body responded, but not like it should have. The wounds were clear and obviously there, but what they revealed instead–
+
+–Was the disgusting smell of the big wrong!
+
+Luna’s nose caught it fully now.
+
+The all too familiar scent of Corruption.
+
+It was everywhere in him.
+
+Running through him.
+
+Her instincts told her that what stood before her was more a husk of a creature than anything human.
+
+The flesh she tore off the enemy arm revealed what lay underneath, glimpses of not-muscle, not even quite bone! Fibrous, pulsing, hardened structures bleeding smelly sap-like blood. Grown throughout his body, forced into its shape, and layered beneath ruined skin.
+
+A large gash marred bark-damned thing-that-was-not-an-arm, but it resisted her strike.
+
+And it even let her two friends land their own blows–!
+
+To little avail.
+
+The man turned.
+
+His attention snapped to her fully, surprise flickering across his face for the briefest moment before something else replaced it.
+
+Recognition.
+
+Then–
+
+Amusement.
+
+“Well now,” he said, his voice roughened by the damage he had already taken, blood marking the edges of his grin. “The mutt got out! Not stupid enough to eat the drugged meat after all.”
+
+The distraction earned him a cut right over the stomach, and just when Luna thought her Second was about to pierce her staff right into his eye – another artifact activated, diverting the blow, only shaking his head a little.
+
+She saw her elven friend's eyes glinting, shifting her stance to better strike at where the artifact mana smell came from.
+
+He ignored them, still looking at Luna.
+
+“Shame, that. But no matter, I will just have to rough you up!”
+
+Luna snarled at the provocation.
+
+Whatever this wrong bark-brained Corrupted thing had to say, Luna was certain it was nothing good!
+
+He even called her, Genius Apex Predator Luna, stupid! And hurt her awoomazing friends! This fool could only be wrong!
+
+Luna didn’t wait, attacking again.
+
+She would not let the big meanie get his bearings back!
+
+Her next zoom-strike came in low, aimed to break his stance and disrupt the footwork. It forced a shift that opened him up just enough for packfriend Veric to step in alongside her! Steel and claw moved together, one forcing, the other exploiting.
+
+Luna would strike, her momentum carrying her away, loop back, and zoom-strike again!
+
+She saw Ray killing one of the undead beasts on her loops, with three more remaining.
+
+All while Veric and Syl kept the fool occupied–
+
+–Allowing them to strike him on Luna’s passes!
+
+Their timing wasn’t perfect but for Luna the important part was that it worked!
+
+The hits were landing, over and over again!
+
+Even if they were–
+
+Shallow.
+
+The gnaw of worry returned.
+
+The wrong-things beneath were keeping the man whole.
+
+With the artifact deflecting the dangers aimed at his eyes.
+
+That was bad.
+
+Wrong bad!
+
+Luna really didn’t like it.
+
+The man’s grin widened as if he could feel her noticing it.
+
+“Dumb mutt! You really are… worthy,” he said with a mad grin, his voice shifting, unsteady, the words dragging slightly as his focus locked onto her, “of Corruption’s touch.”
+
+Luna’s ears flattened as shivers ran down her spine.
+
+Her tail stilled even as her fur stood up on its ends.
+
+And then the pressure rose again.
+
+The fight had never truly stopped, but whatever restraint had been there was gone now, replaced with pure violence, the creature that was once a man attacking with abandon.
+
+Syl moved first, her strike forcing their opponent to respond–
+
+While a sharpened stone needle cut through the artifact’s cord, the trinket flung away in the confusion.
+
+Whatever protections this mad creature once had were gone now.
+
+Yet it only made them angrier!
+
+Veric had to step in to protect Syl from suffering retaliation, his sword arm bending under pressure.
+
+They adjusted the formation around her, even as blows continued to rain on.
+
+Luna could see the tremble in her packmates limbs, the repeated blows from a thing far too strong affecting them despite their efforts.
+
+It made Luna worry.
+
+There was no time, she had to Bite the dumb brute now!
+
+Bite, and Claw and Strike at the meanie!
+
+【Momentum Claw Lv.16 → Lv.17】
+
+Yesh! Claw and Bite together stronger!
+
+Big meanie, fall before Luna!
+
+Veric shifted to aid her efforts, his position tightening to Luna’s side instead of ahead, his blade already in motion as he matched her angle of attack. There was no hesitation in it, no question about whether she belonged in the fight now.
+
+She was already in it.
+
+The man moved, even faster than before, his limbs bending wrong to facilitate the movement.
+
+The corruption in him seemed to answer his intent, his body reacting with sudden bursts that ignored the damage he had taken. Worse, the movements caused damage to his own body, and yet he didn’t care.
+
+He stepped into their space again, his strikes heavy and direct, forcing them to respond.
+
+This time, it was Luna who met his charge.
+
+Her claws struck again, forcing themselves deeper, trying to find something that would give beneath this monstrous layered resistance. Each impact carried through her arms, the feedback wrong every time. The gashes mounted on the man, some ‘roots’ hanging loose now, but the structure beneath what little was left of his skin kept absorbing far more than it should.
+
+But Luna couldn’t stop!
+
+Wouldn’t stop.
+
+Veric’s blade followed each opening she created, his strikes even faster now, sharper, pushing into angles that would have ended most fights already.
+
+All while Syl’s magic wove through the fight, affecting the enemy footing, pushing spells into created wounds. Anything that could land and disrupt their flow.
+
+And it had been enough–
+
+–But only to slow him down!
+
+No!
+
+Why won’t you fall?!
+
+The ground shifted under their feet as the fight pressed on, the earlier damage to the terrain making every step less certain. Each blocked blow crunching ground beneath their feet. Each deflected strike churning up the earth.
+
+The sounds of the blows carried around them, the clash of impact against resistance, the sharp breaks of stone and dirt giving way under force.
+
+Luna felt it.
+
+Every hit.
+
+Every miss!
+
+Every moment where the fight should have ended but refused to!
+
+Her breathing grew heavier, the potions she drank after escaping the trap not enough to offset the cost of continued battle.
+
+But her pack was still behind her!
+
+And the enemy was still before her!
+
+Luna couldn’t stop!
+
+She pushed forward again, claws cutting through blood, and rot, and corrupted root things. Even as the fight continued in full, the desperation settled into her bones.
+
+This was not a hunt.
+
+Not anymore.
+
+This was survival.
+
+And the fight barely even slowed.
+
+Every exchange pressed them further, every movement forced into smaller margins where a single mistake would not be recoverable. The man’s strength barely faltered with injury, his corrupted body pushing through damage that should have stopped him already.
+
+The more they fought, the less he resembled a human, not helped by how his movements grew less restrained as the fight dragged on.
+
+The arm Luna attacked first more of a flayed whip now, with the weapon barely holding on. A stone needle from Syliana took out one of his eyes.
+
+And still, he kept going.
+
+And still, they fought.
+
+Her Second adjusted within this mad whirlwind of blades and claws, her voice cutting through the strain without losing clarity.
+
+“Luna,” she said, not raising it, but carrying it cleanly enough to reach through the clash. “Run.”
+
+No!
+
+Luna wouldn’t abandon her pack!
+
+Her claws struck again, even fiercer, her entire body weight behind the strikes. The instinct to stay overrode everything else.
+
+Syl’s tone sharpened.
+
+“He’s here for you,” she continued, the words direct, leaving no space for misunderstanding. “You cannot stop him. But he cannot catch you. Go.”
+
+Veric shifted slightly at her side, his blade intercepting another strike meant to force space, his posture tightening as he reinforced the line for just a moment longer.
+
+Luna heard it.
+
+Understood it.
+
+It made sense.
+
+It was correct.
+
+Everything about it aligned with what she knew, all her Apex Predator wisdom, with what she had learned. And with what would keep her safe and let her return stronger.
+
+But Luna refused to move.
+
+“No,” she said, the answer coming without thought, from deep inside of her.
+
+It came out as a growl, but her stance was unmistakable.
+
+Her next step took her forward instead.
+
+The very next moment, the man’s attention snapped to her again, his movement changing direction in the same instant as if he had expected it. The strike that followed came with full intent, fast enough that her reaction came just a fraction too slow.
+
+Luna avoided the weapon, but not the whip.
+
+It hit her.
+
+Hard.
+
+The force carried through her, knocking her cleanly out of the exchange, her body lifted and thrown back across the broken ground before she hit and rolled, the breath forced from her in a sharp, involuntary sound.
+
+A pained yip escaped her throat.
+
+But it wasn’t enough to stop her!
+
+Luna pushed herself up immediately, her body reacting before the sensation could settle, her focus snapping back to the fight–
+
+–and catching the moment she had been forced out of.
+
+Syl was there, stepping in before the man, to prevent his advance.
+
+Too close.
+
+The man had closed the gap the instant Luna had been removed, his movement precise and immediate, his other hand locking onto Syl’s staff and wrenching it aside with a force that disrupted her guard completely.
+
+The opening was clean.
+
+Perfect.
+
+His weapon came forward.
+
+Straight and decisive.
+
+Aimed to end her friend’s life.
+
+Luna saw it.
+
+All of it.
+
+The distance, the angle, even the timing.
+
+Too far, and too late.
+
+Her body moved anyway.
+
+Everything came together at once.
+
+She no longer even thought of her Skills.
+
+They all came at once.
+
+One motion.
+
+One push!
+
+Every skill she had, every piece of strength, every fragment of mana she could draw on surged forward without hesitation. Neither controlled, nor shaped carefully. Just forced into a single direction with absolute intent.
+
+Faster!
+
+She had to move faster!
+
+Her muscles coiled and released in the same instant, the ground cracking beneath her paws as she launched forward with a force that ignored everything her body had been telling her just moments before.
+
+The distance vanished in less than a blink.
+
+Her claws came up as she reached him, her strike unaimed, aimed to interrupt. To stop.
+
+Straight to his center, all to break that one moment.
+
+Her claws hit, glancing off his weapon arm, even as her body slammed with all the force of an explosion into his body.
+
+The impact landed just before the point of contact.
+
+Just before it could reach her friend!
+
+It worked!
+
+The strike shifted off-course, the impact throwing the man a step away.
+
+The weapon’s path broke, missing by inches.
+
+The relief flooded Luna like a hammer, and she thanked the only thing she knew.
+
+Thank the Moon.
+
+Syl moved with the change instantly, her body turning away from the altered path as she regained just enough space to avoid the follow-through.
+
+Luna landed.
+
+Poorly.
+
+The force she had used came at a cost.
+
+The pain tore through her, the backlash immediate as her body tried to reconcile what she had just forced it to do. It spread deep through her limbs, the earlier strain amplified sharply by the sudden expenditure.
+
+But she stayed upright.
+
+Barely.
+
+Her breathing hitched, her body trembling for a fraction of a second as the energy settled and the cost made itself known.
+
+It hurt.
+
+A lot.
+
+But her friend was still standing.
+
+And there was now a massive gash in the creature's chest.
+
+Her eyes locked onto it, where the heart should be.
+
+Eyes narrowed.
+
+Right.
+
+The core.
+
+She needed to bite the core!
+
+Luna’s body tensed despite the tremble running through it, her claws digging into the broken ground as she forced herself forward again, ignoring the pain still burning through her limbs from the last strike.
+
+The opening was there, she could see it!
+
+The torn chest shifted as the man moved, the fibrous, pulsing thing inside flexing in ways that made her fur stand on end, but it was more exposed now.
+
+And that was what mattered.
+
+All Luna had to do was destroy it.
+
+End it.
+
+The creature saw her focus settle.
+
+His grin twisted wider, completely unhinged. His posture shifted to meet her, not guarding the wound, not even trying to protect it properly. Whatever reason he had left seemed gone now. Instead, he leaned into her approach, his movements snapping into place with sudden, violent intent.
+
+“Yesss,” he rasped, voice dragging through a throat that should not have worked right anymore. “Come.”
+
+Luna did not have to be told that.
+
+Everything she had left pushed into the motion, her body driving forward in a straight line, claws ready to tear the opening wider and her jaws already parting in anticipation of the bite that would end the battle.
+
+Veric moved with her, his blade cutting across the man’s side to force his stance open, while Syl twisted the ground beneath him again, disrupting his footing just enough to create the smallest gap.
+
+It should have worked.
+
+It almost did.
+
+The man’s body snapped forward instead of yielding, his ruined arm lashing out to intercept her charge, the flayed limb whipping across Luna’s path with brutal force. It caught her mid-lunge, the impact slamming into her side and twisting her just enough that her angle broke at the worst possible moment.
+
+Her claws struck the edge of the wound again, tearing more flesh, ripping more of that pulsing, root-like structure free–
+
+–but not the core.
+
+No!
+
+Her body collided into him a heartbeat later, the force of her charge still carrying through, but it lacked the clean alignment from before. It still staggered him sideways, but the impact was barely enough to break his stance.
+
+And then his counter came.
+
+Fast.
+
+Far too fast.
+
+His other arm snapped back and struck her cleanly, a full-body blow that sent her flying across the torn ground. Her body hit and rolled, stone and dirt scraping against her as the air was driven from her lungs in a sharp, involuntary yip.
+
+【HP -57】
+
+System meanie told her the number, but her mind did not register it.
+
+Pain followed immediately, reaching even deeper, stacking over everything she had already forced her body through.
+
+She tried to rise–
+
+Too slow.
+
+The man was already moving again.
+
+His attention shifted back to Syl in the same motion, his body ignoring the damage to his chest as if it didn’t matter at all, his weapon coming up once more in that same clean, lethal line.
+
+Too close.
+
+Too fast.
+
+Luna saw it happen again.
+
+The distance.
+
+The angle.
+
+Her body tried to answer, claws digging in, muscles straining to push her forward–
+
+–but they lagged.
+
+It wouldn’t be enough this time.
+
+A low, furious sound tore from her throat as she forced herself up anyway, refusing to stay down even as her limbs shook under her.
+
+No!
+
+Not again!
+
+The strike came down–
+
+–and Ray was there.
+
+He dropped onto the man’s back like a shadow snapping into place, his weight driving down hard as his blade jammed in low, trying to tear through the tendons, to force the man’s body to misalign.
+
+The strike was diverted.
+
+And Luna nearly fell on her butt from relief.
+
+Syliana twisted away, the blow drawing a line of blood from her side instead of ending her, her staff snapping back into position as she forced space again.
+
+The man snarled, his body jerking violently as Ray clung to him, dragging his movement off-center for a precious moment even as Veric tore into his chest.
+
+But before they could lay into him–
+
+His other arm bent unnaturally, grabbing onto Ray.
+
+Luna heard the grind of bones, and her friend was torn off the creature’s back and thrown onto the ground with all the force of a hammer.
+
+Ray’s body skipped twice, and then stilled, only the pained groan telling Luna her friend had survived.
+
+“Good try,” he hissed out, the tone almost conversational despite the ruin of his body.
+
+His weapon came up again, aimed at Veric this time. The line of the next strike forming with the same certainty as before.
+
+“But you lose now.”
+
+No!
+
+Luna’s claws dragged against the ground as she pushed herself up, but the strength behind the motion was not there the way it should have been. The drain from the trap, the strain from forcing her movement, the impact from the blow, all of it stacked together until even holding herself steady became effort.
+
+She dropped back down, her breathing uneven as she fought to pull air back into her lungs.
+
+But it was a feint, the strike turning into a kick.
+
+It flung Veric back a few steps.
+
+And now the man was alone with Syliana again.
+
+Luna could see her friend straining, doing everything in her power to occupy the creature before them. Holding on even as Luna was getting her bearings back, even as Veric was wheezing and trying to stand back.
+
+How was that damned creature still moving?
+
+But Luna knew the answer the instant the question formed. The man’s skin was parchment thin now, dropping away from their whole body. The corruption ate away at everything beneath, fueling itself further.
+
+Her friend struggled and Luna could do nothing but watch.
+
+It was wrong, so wrong!
+
+Her ears flattened as she stared at the moment unfolding in front of her, her body refusing to stay still even as it failed to move the way she needed.
+
+And then something else broke through it.
+
+A sound.
+
+Distant at first, but clear enough that it cut through the noise around.
+
+Hooves.
+
+Closing in fast.
+
+Luna’s focus shifted, just enough to catch it fully, the rhythm of it growing louder with every heartbeat.
+
+And hope flickered in her golden eyes.

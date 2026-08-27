@@ -1,0 +1,234 @@
+---
+id: 34703ecb-7f20-59e7-a887-b0fcd00209d5
+page-type-slug: story-chapter-royal-road
+title: "032 - Ruthless Kindness"
+partOf: zero-day-saint-i-cheat-smarter-shapeshifter-litrpg
+position: 32
+ownLength: 2381
+unit: words
+publishedAt: 2026-06-01
+link: "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3476588/032-ruthless-kindness"
+royalRoadId: "3476588"
+---
+
+I took a moment to examine my new shape's stats. No surprise I hadn't been able to hit it. It had a base Agility of 10, putting me at 15 right now. Strength and Endurance were close behind at 9 base each. And it only cost 2 ATP. It didn't match the raw power the buffalo had provided, but it made up for it by feeling a lot more comfortable.
+
+Maybe my instincts aligned better with wicked intelligence than raw fury?
+
+But for now I wanted to go fast and that meant acting against all my better instincts. I lowered myself to the grass.
+
+["Hop on. We got what we came for, I want to see how fast this shape goes and I'm not leaving you behind."]
+
+Jamie started on a response, then stopped himself and shook his head. "I should really stop asking if you are serious. You know that people invented saddles for a reason? That'll be really uncomfortable."
+
+["What an excellent opportunity for science. Does it still hurt when you bounce against something you are nearly invulnerable against?"]
+
+"Just so you know, I am holding back so many possible replies here. Anyway, I know I will regret this and you should be grateful I am enabling your need for speed. I will focus on holding on tight and not dying, and you get us home safe."
+
+As he spoke Jamie climbed onto my back and put his arms around my neck. The moment I rose back onto my feet, or rather, hooves, I got another Task Completion.
+
+Jamie's puzzled 'Huh' indicated he also got one. I opened the Task menu and groaned inside.
+
+["Get mounted by another Blessed."]
+
+If my next list of perks offered something themed around becoming a fucking combat mount, I'd join Lucy and murder God.
+
+I snorted with displeasure and ran off. What better test for this shape's incredible Agility than running through a dense forest at full speed?
+
+Jamie's terrified screams soon became only quiet prayers to a multitude of deities—while I had the time of my life. My joy only grew once we left the forest behind and I could run along the streets of New York.
+
+I'd need to put one of those police speed sensors onto the wishlist. This was faster than any speed I'd ever driven in those streets, and it took all my focus to not crash into any of the countless car wrecks that littered the streets.
+
+A couple of blocks away from the fire station my efforts were rewarded. Between this run and our adventures in the forest, my Instinct skill had finally reached 15. Once we were done processing our level ups, I would finally fly.
+
+Satisfied, I slowed down and stopped.
+
+["Thank you for travelling with our service. Now please step off the ride."]
+
+Jamie laughed quietly and climbed off my back.
+
+"Yes, I did not take damage from this, but it doesn't mean it wasn't uncomfortable or that it didn't hurt."
+
+["Which is a valuable data point if we ever need to—nevermind. It is good to know."]
+
+"Are you going to stay in that shape for our return?"
+
+["Of course. I gotta show off my fancy new toy."]
+
+Jamie didn't argue further and headed off toward the base.
+
+As we approached the building, our minimap populated with dots all over the building. The others had already returned from their mall trip. Most were clustered in the 'living room', being unusually busy.
+
+When we saw the collapsed wall which currently served as our unofficial main entrance, we saw why: They were preparing a BBQ.
+
+Right in front of the opening, two large grills had been set up. Inside, the couch had been pushed to the side to make room for a set of camping tables. An additional table had been set up across from the small kitchenette, at which Stephen was chopping up vegetables.
+
+Anthony and Constance were setting the tables while Roslyn and Liz were chatting on the couch. None of them had levelled significantly on their trip, with most of them only one level higher than they'd been that morning.
+
+The general buzz came to a stop when we stepped into view. I allowed myself a tiny bit of flair and reared back onto my hind legs, before I changed back into my human self. The atmosphere relaxed and people mostly went back to what they were doing. Only Anthony and Stephen exchanged a glance before they approached us, wearing smiles that still made me a bit suspicious.
+
+Once I crossed the threshold into the sanctified space, a notification appeared.
+
+[Looting unlocked
+
+Touch the corpse of a defeated foe for potential rewards]
+
+That was the first time the Blessing itself bothered to explain anything.
+
+"Jamie, Eve, welcome back," Anthony said.
+
+"Looks like your trip was more successful than ours," Stephen added with a smile that didn't fully hide his frustration.
+
+"Wait a minute," I said, holding up a finger. I opened my Tasks menu and quickly accepted all the first kill rewards, pushing me over to level 11. "There we go. Quite successful, and in no small part due to your help. Those extra stats make a huge difference across my shapes."
+
+"Yeah, I've been paying a bit of attention through my tasks. If my math isn't off, you two must have killed over twenty foes on your own today," Stephen said.
+
+"Your excursion wasn't as successful?" Jamie asked.
+
+"There were a couple of issues, but ultimately our party was simply too large," Anthony said.
+
+"Oh?" I asked.
+
+"The kobolds did a number on that building. More often than not we ended up stumbling over our own feet," Stephen said.
+
+"And even when we managed to make progress, the size of our party penalized experience too much," Anthony added. "Experience isn't just split between people present; it gets reduced when too many people participate."
+
+No wonder they hadn't leveled a lot. They went with what? Seven people?
+
+"But all of that is beside the point," Stephen said.
+
+Anthony nodded. "We still want to celebrate our group here and what we achieved last night. On our return trip we found a restaurant and its failing freezer. The temperature was still well within consumption-safe levels, but what we left behind would have spoiled. So we are grilling today, and you are obviously invited."
+
+I turned toward the corridor leading to the showers and what had been my bedroom. "Ah, I appreciate it but—" Stephen stepped into my way.
+
+"Wait, Eve. Before you reject the invitation, please hear us out."
+
+I raised an eyebrow but gestured for him to go on.
+
+"A lot happened yesterday, but the matter of fact is: many of us wouldn't be here if it hadn't been for you. You—don't get me wrong—don't seem to be the type for such social occasions, but I would appreciate it greatly if you joined us."
+
+"I will spare you any sermon regarding lost sheep," Anthony said. "But we care about you being part of this group instead of existing along with it. Do take your time to get rid of all that blood—" he grinned "—but then please join us."
+
+I looked over at Jamie, feeling lost. He just gave me an encouraging smile and nodded.
+
+"I guess I can stay around. Suppose I can process all those tasks while eating barbeque," I said. "Oh, but where should we drop off dry food? We fulfilled a good chunk of your wishlist for ingredients."
+
+Stephen grinned. "Right now we are dropping everything off in the pillow fort room. Whoever requested things can pick them up there and sort them out on their own."
+
+I nodded. "Will do that. I have to add decaf there anyway."
+
+"Thank you, Eve."
+
+"Glad you'll be joining us," added Anthony.
+
+I left them behind. Jamie also stayed with them.
+
+["They got extensive lectures on the risks and warning signs of Fallen, didn't they?"] I asked in Guide chat.
+
+"That might very well be true," Gabriel said. "But that doesn't invalidate their words. I don't think they've been dishonest."
+
+"Oh, they totally got a walking-disaster management 101," Lucy said. "And your badass new shape certainly helped drive fear in their hearts. Watch how your wishlist will get knocked out in no time."
+
+That reminded me to check something. In the pillow fort room, I looked for the entry under the ones I had put there. Lucy had been true to their word, of course. There was a single entry underneath mine, in immaculate handwriting that didn't have any other entries.
+
+Condoms.
+
+"Sometimes your age really shows, Lucy."
+
+There was a checkmark next to the entry, and among various other plundered goods, there was a box of condoms on the table.
+
+"Pah. It is both a brilliant prank and highly practical."
+
+"I won't ask you to elaborate, but I don't think that will stop you."
+
+"Good that we have an understanding. People will wonder who put it there and with whom they intend to use them. And anyone who is hopeful about any others will be disappointed when that box stays there untouched, since obviously the one who put it there must be too cowardly to act on their feelings."
+
+"Truly marvelous. You are living up to your devious heritage," I said dryly.
+
+"Also you really need to get laid, Eve. I know exactly how long it's been, and with everything that's going on your hormones are running wild."
+
+"I totally appreciate your concern, but that is both none of your business and completely blown out of proportion. Please stop meddling in my affairs like that."
+
+"Oh, no problem. Can do," Lucy purred. "If you tell me how many people you have been crushing on—just a little bit—since last night."
+
+I annoyed myself by doing the mental math. That number was both far too high, a result of the complicated emotional state caused by the apocalypse, and absolutely nothing I'd admit to.
+
+"Fuck off, Lucy."
+
+Lucy's laughter was far too pleased for my liking. "You are a delight."
+
+I ignored them, dropped off the loot from the supermarket and put checkmarks behind the entries on the whiteboard. I added decaf to the list, grabbed a fresh outfit from the pile on the other desk before I made my way to the bathroom.
+
+Five steps into the hallway, I turned around, went back, and put the box into my inventory. Lucy messing with people's perception of me was one thing, Lucy messing with everyone was another.
+
+Taking my second shower of the day, I took the time to go through my Task Completions. And they were plentiful.
+
+I went with the most significant ones first.
+
+[Acquire a Mythborn Shape
+
+Reward: Item Upgrade (Collar of the Mercurial Warrior)
+
+Collar gains slots to hold one shape each of the following categories:
+
+Mythborn
+
+Demonic
+
+Extinct
+
+Additional Task unlocked:
+
+Acquire shapes of the following categories: Mythborn, Demonic, Extinct
+
+Reward: [unknown]]
+
+That was beyond all my expectations. I had, of course, considered killing a demon and eating its heart, but now the Blessing itself was sanctioning doing so.
+
+And extinct shapes? Sabertooth tigers? Prehistoric grizzlies? Goddamned velociraptors? That was a massive carrot the Blessing was dangling there. I needed to poke Gabriel about the spawning logic of the Blessing. I had to learn where I could find those.
+
+I couldn't accept the Task, though. When I clicked accept, a message appeared.
+
+[Requires Collar of the Mercurial Warrior]
+
+I'd taken it off to shower. Only a considerable amount of willpower kept me from rushing out of the shower to accept the Task. It could wait.
+
+The next reward blew that previous one out of the water.
+
+[Assume 10 different shapes
+
+Reward: Mind over Matter (Passive)
+
+Effect: When shapeshifted add 25% of the corresponding base mental Attribute to your physical Attributes.
+
+Intellect - Strength
+
+Intuition - Agility
+
+Charisma - Endurance
+
+(Effect increases with Task Progression. Next step: 33% at 20 shapes)]
+
+And there it was. The solution to my biggest problem—the lack of scaling to my shapes. I had been relying on stacking buffs to keep up with Jamie's stats. But now I had a real avenue to grow. And all I needed to do was to eat a lot of hearts.
+
+I made a mental note to ask Stephen if there were any hearts among the meat they had looted. Some hearts were considered a delicacy, right?
+
+Then I put the four Attribute points I had gotten into Intuition, putting it at 12. If the Certified Threat bonus counted as a base increase, that put me at +3 Strength and Agility in all shapes. And every four levels meant another +1 to each. Until I got those next ten shapes.
+
+Lucy had been right about one thing. I did get excited by murder math. But considering the stakes, my enthusiasm felt justified.
+
+The next two rewards were both related to magic. Acquiring Mana had given me exactly that—Mana. I now had a blue bar in my human shape. Regeneration was based on Intellect.
+
+And acquiring a spell gave me the most obscure reward yet. The ability to acquire more spells. With zero indication for how to do that. Maybe Ash could transcribe his cantrips? I'd have to ask Gabriel. I knew I could talk to her right now, but I preferred the illusion of privacy under the shower.
+
+And then there was the last one, granted for reaching rank 10 in three different Natural Weapon skills. I was starting to understand Flicker-Eve's thought process more and more.
+
+[Lethal Adaptation (Passive)
+
+Effect: Skill progress is accelerated for any Natural Weapon Skill with a rank lower than your highest Natural Weapons Skill.]
+
+And now I wasn't locked into canines just because I had been chomping my enemies to death all the time. My other skills would quickly catch up.
+
+With my mood at an all-time high, I decided to simply not look at the Getting Mounted Task Reward. I could feel the mockery oozing out of it without dignifying it with my attention.
+
+Instead, for once, I left the shower feeling truly Blessed. The apocalypse started to make sense. And now the biggest threat on the horizon was a BBQ with strangers. I'd be a big girl and face it bravely.

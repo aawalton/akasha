@@ -1,0 +1,357 @@
+---
+id: 2d2f4d64-5207-52a8-8145-c1b9457e1921
+page-type-slug: story-chapter-royal-road
+title: "Chapter 39: The Imperial Chronicle"
+slug: 0039-chapter-39-the-imperial-chronicle
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 39
+ownLength: 2926
+unit: words
+publishedAt: 2026-05-08
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3371866/chapter-39-the-imperial-chronicle"
+royalRoadId: "3371866"
+---
+
+Imperial Palace - Hours Later
+
+Varen walked through at a pace that forced his officers to half-jog to keep up.
+
+Captain Lorenz von Falke matched the prince's stride two steps behind and one to the left. Lorenz was young for his rank. The von Falke name carried weight in certain provincial circles, a minor noble house that had produced three generations of military officers without ever cracking into the upper echelons of command.
+
+Lorenz intended to be the one who broke through.
+
+He'd attached himself to Varen's retinue eighteen months ago, recognizing with the instinct of a born climber that the prince's ambitions would either reshape the kingdom or destroy it, and that either outcome created opportunities for men standing close enough to catch what fell.
+
+Beside Falke, half a pace back, Major Oswin Brauer walked with the measured steps.
+
+Brauer was the opposite of Falke in nearly every respect. Fifty-three. Heavyset. A face like crumpled leather that had been smoothed out and crumpled again. His family name, Brauer, carried no prefix, no von, no claim to noble lineage. He had earned his commission through thirty years of service in the regular army before Varen had plucked him from obscurity and pinned the Iron Cross to his chest.
+
+He was the only man in Varen's inner circle who had killed more people with his hands than with his pen.
+
+The three of them moved through the palace's eastern wing. Courtiers parted ahead of them. Servants pressed against walls. The black uniform with the silver cross was its own announcement.
+
+"Your Highness." A figure stepped from an adjoining corridor.
+
+He was tall. Impeccably dressed in a coat of deep emerald silk. His hair was silver-blond, swept back from a high forehead. His smile was immaculate.
+
+Lord Reinholt von Cräusen.
+
+Varen stopped.
+
+His expression didn't change. The flat, composed mask he wore through every public space in the palace remained precisely where it was.
+
+"Lord Cräusen," Varen said with a nod.
+
+Cräusen's smile didn't dim. If anything, it brightened.
+
+"I trust the Coliseum continues to produce results," Cräusen said. "The Crown watches your endeavors with great interest, as always."
+
+The words might look like a compliment. They were not.
+
+The Crown watches.
+
+It was a reminder. They were watching. Above all, they were watching what was being produced. While some could only think about the money Varen was making, others were concerned about the weapons he was training.
+
+"The Coliseum serves its purpose," Varen replied. "As it always has."
+
+"Wonderful. Wonderful." Cräusen's gloved hand waved as he departed. "Do give my regards to your brother. I hear Kasimir has returned from the southern front."
+
+He inclined his head and moved past them, his emerald coat trailing the scent of expensive cologne.
+
+Varen resumed walking.
+
+His pace hadn't changed. His face hadn't changed. His breathing hadn't changed.
+
+Falke leaned closer once they'd cleared earshot.
+
+"Cräusen," Falke said quietly. "He's been seen at Princess Elara's salon three times this month. Twice at private dinners."
+
+Varen said nothing.
+
+"His house controls Mana Mines," Falke continued. "If Elara secures his backing, she gains indirect control over a third of all Mana Stones produced. Combined with the Meltzer banking interests she's already locked down—"
+
+Varen said nothing.
+
+Falke glanced at Brauer. The older officer's face was stone.
+
+"He's from a royal house," Brauer said. His voice was low to carry no further than the three of them. "Von Cräusen. The name predates the empire. His ancestors ruled an independent kingdom before assimilation."
+
+The warning was clear. Cräusen was not the kind of noble you could pressure, threaten, or outmaneuver through brute force. Their loyalty was conditional, their allegiance transactional, and their memory was long enough to remember a time when they answered to no one.
+
+He was untouchable.
+
+And backing Varen's sister.
+
+Varen kept walking.
+
+The corridors shifted around them. Going from public wings to the private quarters.
+
+Falke couldn't hold the silence.
+
+"Your Highness," he said. "Regarding the Hexenzeit boy. Why did you let him go?"
+
+Varen's stride didn't break.
+
+"He asked to be sent south," Falke continued. "To Grenzheim, no less. A frontline posting in a garrison that was just attacked. You could have denied the request. Kept him in the Coliseum. Or better yet, transferred him to the northern compound where we could control every aspect of—"
+
+"Captain."
+
+One word. Varen didn't raise his voice. Didn't turn. Didn't slow.
+
+The captain's mouth shut.
+
+They walked in silence for thirty more paces. The corridor opened into a small antechamber that served as the threshold to Varen's working quarters within the palace. Two guards flanked the heavy oak door, their armor bearing the Iron Cross insignia. They straightened as Varen approached.
+
+Inside, a room that was spartan by palace standards. A simple desk with chairs around it. Maps pinned to the walls. A window that overlooked an interior courtyard. Crystal communication devices lined a shelf along the eastern wall, each one tagged with a location designation.
+
+Three figures were already waiting. Officers who had arrived ahead of them, men who managed Iron Cross operations in theaters far from the capital.
+
+Varen crossed to his desk. He didn't sit.
+
+He turned. His eyes found Falke.
+
+"Be careful," Varen said, "with how you speak about Kaspar von Hexenzeit."
+
+The room went still.
+
+Falke's jaw tightened. He held himself at attention.
+
+"I don't care how useless the court considers him," Varen continued. His voice was quiet. The kind of quiet that made the officers who knew him best, press their spines against the nearest wall. "I don't care what gossip goes around the Academy or the salons or the enlisted barracks. I don't care if every noble in Silberwald believes he's the greatest failure the Hexenzeit name has ever produced."
+
+He placed both palms flat on the desk.
+
+"My grandmother was a Hexenzeit."
+
+"She married into the royal line. Her blood runs in my veins. In Kasimir's veins. In Elara's veins. That same blood runs in Kaspar's."
+
+His dark eyes moved from face to face around the room.
+
+"He shares imperial lineage. Whatever his reputation. Whatever his father did or didn't do. That fact does not change."
+
+Falke swallowed.
+
+"Furthermore." Varen straightened. "You watched him negotiate with me. All of you did. A boy standing with four spears at his throat, and he leveraged a bluff well enough to make me pause."
+
+"Do you genuinely believe the court gossip? Do you genuinely believe Roderich von Hexenzeit, the most calculating man in the kingdom, produced a firstborn son who is useless?"
+
+He left the question hanging.
+
+"Your Highness," said one of the waiting officers, a broad-shouldered man with iron-gray temples named Hartmann, who had been stationed along the eastern frontier for the past year. "With respect. The information regarding Kaspar's inability came from Roderich himself. It wasn't court gossip. The Archduke personally removed him from the line of succession."
+
+Varen's eyes shifted to Hartmann.
+
+"If," Varen said. "If that information is genuine."
+
+"Consider the alternative. Consider that Roderich deliberately leaked the narrative of his son's failure. That the removal from succession was theater. A move designed to make every rival house in the empire dismiss the Hexenzeit firstborn as irrelevant."
+
+He tilted his head.
+
+"What better way to lower every guard than to convince the world your heir is useless?"
+
+The officers exchanged glances.
+
+Brauer spoke from his position near the door.
+
+"And if it's not theater? If the boy truly was removed from the succession?"
+
+Varen's hand found the stack of reports on his desk. He lifted them. Held them up so the room could see the Iron Cross seal stamped on every page.
+
+"Then Roderich made a mistake," Varen said. "His first, perhaps. The mistake of failing to see what his own son could become."
+
+He opened the topmost report and began to read.
+
+His eyes moved across the monks' meticulous handwriting, the dense blocks of observation and analysis that documented every fight, every training session, every measurable aspect of Slave One Hundred Forty-Seven's progression through the Coliseum.
+
+"He awoke Mana Breath independently," Varen said, still reading. "No instruction. No exposure to the technique through any documented source. He simply... discovered it. Mid-combat."
+
+He turned a page.
+
+"On his second day in the arena, the monks recorded visible mana expulsion during exhalation. Dense enough to observe with the naked eye."
+
+Another page.
+
+"Fifteen consecutive afternoon victories. No blood shed. A deliberate pattern of non-lethal combat that simultaneously infuriated the crowd and demonstrated absolute control over the outcome of every fight."
+
+He set the reports down.
+
+Falke shifted his weight.
+
+"Your Highness," Falke said carefully. "Even granting all of that. At the end of the day, he's locked into Mana Breath. The ceiling on that technique is—"
+
+"Low," Varen agreed. "For a normal body."
+
+He looked at Falke.
+
+"He has nine cores."
+
+Brauer's weathered face shifted. A slight tightening around the eyes. The equivalent of a lesser man's dropped jaw.
+
+"Nine," Brauer repeated.
+
+"Nine," Varen confirmed. "The highest core count recorded in Silberwald's modern history. An ocean of mana production housed in a body."
+
+He leaned against the desk's edge.
+
+"Mana Breath is, by every account, the most primitive and inefficient channeling technique known to exist. Its throughput is abysmal compared to even a First Circle. Every Academy textbook dismisses it as a historical curiosity."
+
+A pause.
+
+"But those textbooks assume a standard mana supply. One core. Perhaps two. The calculations that prove Mana Breath's inefficiency are built on the assumption that the practitioner has a finite and modest pool to draw from."
+
+His voice dropped.
+
+"What happens when you feed the most primitive technique in history with nine cores' worth of mana? When the supply is so vast that inefficiency becomes irrelevant because the sheer volume compensates for every loss in the conversion?"
+
+Silence.
+
+"I don't know," Varen admitted. "Nobody knows. It's never happened before."
+
+He pushed off the desk.
+
+"The resources we've invested are minimal. A few weeks of arena time. Standard rations. Healing that we'd have provided any fighter. If he dies on the southern front, Roderich already believes his son is dead. It costs us nothing."
+
+His jaw set.
+
+"But if he survives. If he grows. If nine cores and Mana Breath together produce something that no one has predicted..."
+
+He left the sentence unfinished.
+
+"Enough." Varen's tone shifted. "I didn't summon you for this."
+
+He nodded toward a monk who stood in the room's corner. The monk stepped forward, producing from beneath his robe a set of slim leather folders.
+
+He distributed them without a word.
+
+The officers broke their seals and opened.
+
+Hartmann was the first to react.
+
+"You found it?" Hartmann looked up from the folder, his eyes bright.
+
+"He is a candidate," Varen corrected. "Currently enrolled at the Akademie der Arkanen. In the Republic of Wolkenmark."
+
+Operating within Wolkenmark's borders required finesse that the Iron Cross was not traditionally known for.
+
+"What are your orders?" Falke asked.
+
+Varen's dark eyes moved to the window.
+
+"Intelligence first," he said. "I want a contact established. No connection that can be traced to the Iron Cross or the Crown."
+
+He turned back to the room.
+
+"Begin investing in his research. Fund it through intermediary channels. Academic grants. Private foundations. Whatever creates a relationship without creating a debt he can trace."
+
+"And then?" Brauer asked.
+
+"Then we bring him to our side," Varen said. "The work he's doing could change everything."
+
+He closed his own copy of the folder.
+
+"Dismissed. All of you."
+
+The offices of The Imperial Chronicle occupied a narrow building on the capital, three blocks east of the cathedral district and two blocks north of the market quarter.
+
+It was one of the few structures in the capital that rose above two stories. Four floors of aging brick and timber framing. A steel sign hung above the entrance, painted in letters that had once been gold and were now a dignified ochre.
+
+THE IMPERIAL CHRONICLE
+
+Founded. 173 Years Ago
+
+Beneath the sign, the front door crashed open.
+
+"If you walk out this door!" The voice was female, sharp enough to etch glass. "I swear on every coin this paper has ever earned! You will never set foot in this building again!"
+
+Frieda von Thalberg stood in the doorframe with both fists planted on her hips. She was forty-one. Her hair was dark auburn, streaked with premature gray that she refused to dye on the grounds that she had earned every strand. Her eyes narrowed to slits behind wire-rimmed spectacles.
+
+The von Thalberg name was minor nobility. A house that had produced a modest string of provincial magistrates and legal scholars over the past century. Nothing glamorous or powerful. Just enough prestige to open doors that commoners couldn't reach.
+
+Frieda had taken the family's irrelevance and turned it into a career in journalism.
+
+The man descending the stairs ahead of her didn't slow.
+
+"Of course. Of course." Konrad von Ries waved one hand over his shoulder without turning around. He was thirty. Tall, though he slouched in a way that concealed it. His coat was expensive, cut from good cloth. His hair was dark, long enough to curl behind his ears and over his collar in a way that his family's valet would have called a catastrophe.
+
+The von Ries name carried far more weight than the von Thalbergs. Konrad's father sat on two trade councils and had the ear of a minister. The family's shipping interests generated the kind of income that let a youngest son pursue journalism instead of commerce.
+
+That weight, Frieda reflected as she chased him down the stairs, was the only reason Konrad still had a career.
+
+And the fact that he had never once, in seven years of reporting, published a story that wasn't true.
+
+Suicidal in his choice of targets, but never dishonest.
+
+It was the single quality that prevented Frieda from strangling him, and it was the single quality that made him dangerous enough to get them all killed.
+
+They burst through the front door onto the avenue.
+
+The street was packed with midday traffic. Carts loaded with goods rolled toward the market quarter. Pedestrians flowed around the building's entrance.
+
+Konrad strode toward the curb, where a magi-car waited.
+
+The vehicle was one of the first prototypes of mana-powered transport. It had a carriage frame, with wooden body, iron-banded wheels, leather suspension. However, fitted with a crystal drive unit where the horse harness should have been.
+
+Konrad tossed his traveling bag onto the rear rack.
+
+Frieda caught his arm.
+
+"Listen to me," she said. Her voice dropped from shouting into something quieter and serious. "There are two princes who want the war coverage to stop. Two. Do you understand what that means?"
+
+Konrad turned. He looked at her hand on his arm, then at her face.
+
+"It means the war coverage is working," he said.
+
+Frieda's grip tightened.
+
+"It means they are applying pressure to the editorial board every single day. Lord Auricht visited me personally last week and suggested, with the most charming smile you've ever seen, that our printing license might face review."
+
+She released his arm.
+
+"If you go to the front line. You are handing them the justification they need to shut us down. Endangering national security through unauthorized frontline reporting. That's the charge they'll use. Unlike your usual messes, I won't be able to talk our way out of it."
+
+Konrad's expression softened.
+
+"Frieda," he said. "I trust you."
+
+"That's exactly the problem!"
+
+"Grenzheim was just attacked," Konrad said. "A direct assault on a garrisoned town. An actual tactical operation against fortified walls."
+
+He tapped his nose.
+
+"My nose," he said. "It's telling me something. Something bigger than a probe. The southern front has been static for years. Then suddenly, the elves hit a garrison town?"
+
+He shook his head.
+
+"That's not random. That's a test. The next step is going to be bigger. I can feel it."
+
+Frieda's jaw was set. She wanted to argue. Every rational instinct she had developed through twenty years in a profession that was one royal displeasure away from being outlawed, screamed at her.
+
+But she knew that look.
+
+She'd seen it before the Eisenmoor exposé. Before the Falkenrath shipping fraud. Before every story that had made The Imperial Chronicle the most respected and most endangered paper in the capital.
+
+She closed her eyes.
+
+"If you leave today," she said, and her voice was stripped of everything except the cold calculus of an editor-in-chief making a decision she would either celebrate or regret for the rest of her career, "do not come back without something worth transmitting over crystal."
+
+She opened her eyes.
+
+"Don't send anything that can be intercepted. If what you find isn't significant enough to justify a crystal broadcast, then don't bother coming home."
+
+Konrad's face broke into a grin.
+
+It was the reckless grin of a man who had just been told that his only option was to find the biggest story of the decade.
+
+He stepped forward and wrapped Frieda in a hug.
+
+She stood rigid. Her arms remained at her sides.
+
+"Get off me," she said.
+
+He released her, bounded to the magi-car, and swung himself into the driver's seat. The crystal drive unit whined as he engaged it.
+
+The magi-car accelerated down the avenue. Konrad's hand rose from the driver's seat in a cheerful wave that he held until the vehicle rounded the corner and disappeared.
+
+Frieda stood on the curb.
+
+"He's going to get us all killed," she said to no one.

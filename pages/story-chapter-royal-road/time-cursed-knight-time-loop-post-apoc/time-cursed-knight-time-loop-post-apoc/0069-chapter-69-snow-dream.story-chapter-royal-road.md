@@ -1,0 +1,279 @@
+---
+id: 2a3289be-5ef0-5f9f-820d-ecc51e743001
+page-type-slug: story-chapter-royal-road
+title: "Chapter 69: Snow Dream"
+slug: 0069-chapter-69-snow-dream
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 69
+ownLength: 2450
+unit: words
+publishedAt: 2026-06-19
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3562694/chapter-69-snow-dream"
+royalRoadId: "3562694"
+---
+
+Financial Forensics.
+
+I hadn't expected it.
+
+Nothing in my preparation. Or the case file Varen had given me the briefings from Brauer, not the memories that Kaspar's library held in its thousands of volumes — had suggested that a Knight of the Iron Cross would need to understand the movement of money with the same fluency as he understood the movement of a blade.
+
+The instructor was a retired Imperial Treasury official named Seidel whose appearance suggested that the retirement had been recent and involuntary. His suit was too fine for an academic salary. His cufflinks were gold. His manner carried the authority of someone who had spent decades wielding institutional power and hadn't yet adjusted to its absence.
+
+"You can lie about anything," Seidel said on the first morning. "You can forge documents. Fabricate witnesses. Construct alibis so elaborate they'd require a team of scholars to dismantle. You can change your name, your face, your identity. You can vanish into the empire's provinces and never be seen again."
+
+He raised one finger.
+
+"You cannot lie about money."
+
+He turned to the blackboard. Chalked a single line across the top.
+
+MONEY MOVES. MOVEMENT LEAVES TRACES. TRACES TELL TRUTH.
+
+"Every transaction in this empire generates a record. A payment made. A payment received. A transfer between accounts. A purchase. A sale. A loan. A debt. Each one is a thread, and the threads connect to each other in patterns that no amount of deception can fully conceal."
+
+He set the chalk down.
+
+"Your job is to read those patterns. To follow the money from its source to its destination and identify every hand that touched it along the way. Because the money will lead you where no witness can. It will show you who funded the operation, who profited from it, who laundered the proceeds, and who is sitting in a drawing room right now, sipping wine, believing they are untouchable because no one has thought to examine their ledger."
+
+He paused.
+
+"They are wrong."
+
+The curriculum was merciless. Seidel walked us through the empire's financial infrastructure with the methodical thoroughness of a surgeon dissecting a cadaver. Banking systems. Trade routes. Currency exchange mechanisms. The formal markets where transactions occurred in daylight and the shadow markets where the same transactions occurred after dark with different names on the documents.
+
+Ledger analysis. Account reconciliation. The identification of discrepancies, the tiny gaps between what an institution reported and what the underlying records revealed. Gaps that looked like arithmetic errors and collectively looked like theft. Or worse.
+
+I was lost.
+
+The material resisted every cognitive tool I possessed. Where alchemy surrendered to instinct and mana trace analysis yielded to perception, financial analysis demanded a kind of abstract reasoning that operated on principles I had never encountered in either life.
+
+The numbers weren't the problem. I could handle numbers. The problem was the interpretation — the ability to look at a column of figures and see not just quantities but motives. To understand that a two-percent variance in a quarterly report wasn't a rounding error but a signature. To feel the shape of deception hidden within rows of perfectly legitimate transactions.
+
+The other candidates struggled too. Henrik's jaw clenched harder with each passing session, his patience eroding against the unfamiliar terrain. Otto developed a habit of snapping his pencil in half during Seidel's more elaborate explanations.
+
+Lena, predictably, excelled. She moved through the exercises with a quiet competence that made the rest of us feel like children learning to count.
+
+I leaned on her more than I wanted to admit.
+
+Seidel noticed.
+
+"Von Hexenzeit," he said one afternoon, after the others had filed out. He was standing beside the blackboard, wiping chalk dust from his cufflinks with a handkerchief that was probably worth more than my boots. "You're behind."
+
+"Yes, sir."
+
+"The material doesn't suit you."
+
+"No, sir."
+
+His eyebrows rose. He hadn't expected agreement.
+
+"The instinct will come," he said. "You have the attention to detail. Your trace analysis scores tell me your pattern recognition is exceptional. The problem is that you're trying to see the financial data the way you see mana signatures."
+
+He folded the handkerchief. Tucked it into his breast pocket.
+
+"Money doesn't work that way. Money is abstract. It has no physical form beyond the symbols we use to represent it. You can't feel a transaction the way you feel a mana trace. You have to think it. Logic, not perception."
+
+He tapped the blackboard.
+
+"Practice. It's the only remedy for this particular deficiency."
+
+I practiced.
+
+Every evening, after the day's instruction ended, I sat in my quarters with Seidel's exercise sheets spread across the desk and worked through the problems until the mana-glow strips began to flicker.
+
+The progress was glacial. But it moved.
+
+The breakthrough, such as it was, came during a case study in the fifth week.
+
+Seidel had distributed copies of redacted financial records from an actual investigation. A historical case, resolved decades earlier, with the names and identifying details stripped. The task was to examine the records and identify the anomaly.
+
+The records were dense. Fourteen pages of transaction logs from a merchant house that had operated in the capital's commercial district during the previous century. Revenue. Expenses. Payroll. Tax filings. Everything neatly documented in a hand that was precise enough to suggest a professional accountant.
+
+I stared at the pages for twenty minutes.
+
+Nothing.
+
+Then Seidel's voice echoed in my memory. You're trying to see it directly. Think it.
+
+I stopped looking at the numbers.
+
+Started looking at the gaps between the numbers.
+
+The merchant house's revenue showed a seasonal pattern. High in summer. Low in winter. Consistent with a legitimate trading operation that depended on weather-sensitive supply routes.
+
+But the payroll didn't match.
+
+The number of employees remained constant year-round. The same salaries paid every month, regardless of whether the house was processing a thousand transactions or fifty.
+
+In summer, when the revenue justified the workforce, the payroll was unremarkable.
+
+In winter, when the revenue dropped, the payroll became a question.
+
+Why are you paying forty people to do work that requires twelve?
+
+The answer, buried in the transaction logs, was a series of disbursements listed under Operational Maintenance that spiked during the winter months. Payments to entities that, when cross-referenced against the house's supplier registry, didn't exist.
+
+Ghost payments. Funds flowing out of the merchant house to recipients that existed only on paper, during the months when the legitimate business couldn't justify the expenditure.
+
+The merchant house was a front. The winter surplus funded something else.
+
+I wrote it up. Submitted it.
+
+Seidel returned the paper the next morning with a single mark in the margin: a small check, rendered in his precise hand.
+
+No comment. No praise.
+
+The check was enough.
+
+Seidel's case studies grew darker as the weeks progressed.
+
+The historical records he distributed were no longer commercial anomalies. They were something worse.
+
+"Case seventeen," he said one morning. His voice had shed the pedagogical veneer that it usually wore. The words came out flat. Heavy. "Eighty-three years ago. House Erhardt. A minor noble family in the eastern provinces."
+
+He distributed the files. Thicker than usual. The paper was yellowed at the edges — original documents, not copies.
+
+"House Erhardt maintained formal correspondence with the Imperial Court for forty-one years. Paid their taxes. Attended seasonal functions. Married into two allied houses. Produced three mages of modest circle formation who served in the Magical Army with distinction."
+
+He paused.
+
+"House Erhardt also maintained a secondary set of financial accounts that were discovered during a routine audit, quite by accident, when a Treasury clerk noticed that the family's reported income didn't match the assessed value of their territorial holdings."
+
+He turned to the blackboard. Wrote a number.
+
+42,000 Golden Crowns.
+
+"That was the discrepancy. Over four decades, forty-two thousand Crowns flowed into House Erhardt from sources that didn't appear in any legitimate financial record."
+
+He drew a line from the number to a word.
+
+Oneiraths.
+
+The classroom went quiet.
+
+"The money came from intermediaries connected to the Sins known as Oneiraths," Seidel continued. His voice didn't rise. Didn't fall. The flatness was its own kind of emphasis. "In exchange, House Erhardt provided intelligence. Troop movements. Ward configurations. The rotation schedules of Magical Army patrols in the eastern sector."
+
+He set the chalk down.
+
+"Over forty-one years, the intelligence that House Erhardt provided to the enemy contributed to the deaths of an estimated four hundred Imperial soldiers. Ambushes that should have been impossible. Ward breaches that occurred with suspicious precision. Patrols that walked into kill zones that someone had mapped in advance."
+
+He turned to face us.
+
+"They were discovered. Tried. Executed. The house was dissolved, the name struck from the noble register, the territories absorbed into the Crown's administration."
+
+His hands found the desk's edge. He leaned forward.
+
+"But four hundred soldiers were already dead. And for forty-one years, the only evidence of the betrayal sat in a set of financial records that no one thought to examine because the family paid their taxes on time and attended the Emperor's birthday."
+
+The room was silent.
+
+"Betrayal," Seidel said quietly, "does not announce itself with banners and declarations. Betrayal hides. In ledgers. In the spaces between transactions. In the discrepancies that are too small to attract attention and too consistent to be coincidence."
+
+His eyes moved across our faces.
+
+"Your job is to find it before four hundred soldiers die."
+
+He straightened.
+
+"Open the file. Find the first anomaly. You have one hour."
+
+The notification appeared after the third case study. It felt like a badge earned through blood. Every point of that level had been extracted from my skull by force.
+
+Two months.
+
+The classroom phase ended without ceremony. No graduation or speeches. The curriculum simply stopped.
+
+On the first morning after the final lecture, the six Investigation candidates were summoned to a room on the second floor that I hadn't entered before.
+
+The room was small. A rectangular table dominated the center, surrounded by chairs that had been arranged with the precise spacing of people who expected to spend time in them without wanting to touch elbows. Maps covered the walls — the empire, the border regions, the trade corridors that connected Silberwald to the surrounding nations.
+
+Five Knights occupied the chairs along the table's far side. Veterans. I could read it in the posture, relaxed enough to look comfortable and coiled enough to be vertical in a heartbeat. Their uniforms were worn.
+
+Katja sat at the center.
+
+She looked exactly as her position had suggested. Mid-thirties. Angular features beneath dark hair cropped to regulation length.
+
+Her eyes found each of us as we entered.
+
+They found me last.
+
+The assessment lasted perhaps two seconds. Her gaze moved across the white hair, the scars, the Iron Cross insignia, the way I carried myself through the door. Whatever conclusions she drew, they didn't reach her expression. The eyes gave nothing.
+
+I took a chair. The other candidates settled around me. The room filled with the particular silence of people waiting to be told something important.
+
+Katja didn't make us wait.
+
+"Snow Dream," she said.
+
+"For those of you who've read the case file — and you've all read the case file, because if you haven't, you can leave this room now and find employment that doesn't require literacy —"
+
+Nobody moved.
+
+"— Snow Dream is a synthetic mana compound distributed primarily through trade corridors connecting the Kumsur Sultanate to our eastern border. It targets non-magical populations. The dependency curve is aggressive. The damage to users is permanent."
+
+She paused.
+
+"We have three confirmed distribution points within the capital. Two low-level handlers in custody who have provided nothing actionable during interrogation. And an intelligence package that arrived through military channels weeks ago that maps a significant portion of the distribution network and traces the supply chain to the Sultanate's western corridor."
+
+She placed a hand flat on the table.
+
+"Our information stops at the Sultanate's border."
+
+Her jaw tightened by a fraction.
+
+"Jurisdiction," she said, "does not exist for the Iron Cross within the Sultanate. We have no formal authority. No legal framework that protects our operatives if they're identified on foreign soil."
+
+She paused.
+
+"The Sultanate would be entirely within its rights to imprison or execute any Imperial agent discovered operating within its borders without authorization. The diplomatic consequences would be severe."
+
+Her eyes swept the room.
+
+"None of that changes the mission."
+
+She leaned forward.
+
+"The Iron Cross exists to protect humanity and the empire. That mandate does not stop at borders. If the supply chain that's poisoning twelve thousand Imperial citizens originates in the Sultanate, then the Sultanate is where we go."
+
+Her hand lifted from the table. She reached for a folder that sat beside her elbow. Opened it. Consulted something written inside.
+
+"I'm sending two teams of three. You will cross the border under cover identities. You will infiltrate the Snow Dream supply network from the Sultanate side. You will gather intelligence — names, routes, production sites, financial infrastructure. Everything we need to understand how this operation functions and who controls it."
+
+She closed the folder.
+
+"If the opportunity presents itself to cripple the operation, you take it. Disruption. Sabotage. Destruction of production capacity. Whatever you judge to be achievable without compromising your cover or creating an incident that can be traced back to the Iron Cross."
+
+She looked at us.
+
+"The means and the limits are yours to determine. You are Knights, or you will be. The Formation School doesn't produce soldiers who need to be told how to think. You will assess the situation on the ground, make decisions based on the realities you encounter, and accept the consequences of those decisions."
+
+She straightened.
+
+"If things go wrong, you are on your own. The Iron Cross will not acknowledge your existence. The empire will not intervene on your behalf. There will be no rescue. No negotiation. No diplomatic extraction."
+
+She let the silence build until it had weight enough to press against the walls.
+
+Nobody spoke for three seconds.
+
+Then Katja opened the folder again.
+
+"I've made my selections." Her voice carried no softness. "Based on skill assessments, temperament evaluations, and operational requirements."
+
+She read from the page.
+
+"Henrik Vogt."
+
+His face didn't change. His hands, resting on his thighs, pressed slightly harder against the fabric.
+
+"Lena Hartwig."
+
+Lena's pen, which had been hovering over her ever-present notebook, stilled.
+
+Katja's eyes lifted from the folder and settled on mine.
+
+"Kaspar von Hexenzeit."
+
+She closed the folder.
+
+"Departure in seventy-two hours. Briefing materials will be delivered to your quarters tonight. Study them. Memorize them. Then burn them."

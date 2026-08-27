@@ -1,0 +1,469 @@
+---
+id: 8d1c92a0-a932-53ca-af85-e53527809699
+page-type-slug: story-chapter-royal-road
+title: "Chapter 144: Of Tunnels, Troubles, and Tactical Jerky Offerings!"
+slug: 0147-chapter-144-of-tunnels-troubles-and-tactical-jerky
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 147
+ownLength: 2134
+unit: words
+publishedAt: 2026-07-27
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3734057/chapter-144-of-tunnels-troubles-and-tactical-jerky"
+royalRoadId: "3734057"
+---
+
+PoV Luna
+
+By morning, everyone who mattered was already waiting near the entrance into the tunnels below.
+
+Finally!
+
+Luna was tired of the Waiting Around!
+
+The town had finally stopped whispering and worrying and pretending doors could keep bad things under the ground. Now there were guards with lanterns, healers with blankets, and townspeople gathered behind the cordon with faces that smelled like fear, hope, and please bring them back.
+
+Luna stood near the broken entrance in human form, because human form fit narrow tunnels better and because Syliana had said they were starting careful.
+
+Careful was acceptable.
+
+Slowpoke furever was not!
+
+Rain still fell in thin cold threads. It tapped against broken stone, slid down cracked paving, and tried to sneak under Luna’s collar. Mud clung to her boots. Foundation grit marked Syliana’s cloak again, which was rude, because Luna had already defeated mud once.
+
+More than once!
+
+She looked at Syliana.
+
+Syliana looked back.
+
+“Luna?” she asked, eyeing the way Luna’s shadows were already starting to move.
+
+“Cleaning!”
+
+“Cleaning? We are about to go underground.”
+
+“Then underground also sees clean Second!”
+
+Syliana’s mouth twitched, but she did not stop her.
+
+Hehe!
+
+Shadow Cloak rolled out from Luna’s boots and wrapped around both of them, soft and dark and careful. Cleaning shadows slid under rainwater, mud, and old stone dust, forming a thin layer between mess and person. Then Luna felt it settle in!
+
+Mud lost immediately. Rainwater slipped away. Grime peeled off cloak, boot, sleeve, and tail in damp sheets that dropped onto the stone with satisfying little splats. Luna even cleaned the edge of Syliana’s hair where rain had tried to make it cling flat.
+
+There, Second restored properly!
+
+Luna checked her own boots, wiggled her toes, and found no squelch either.
+
+Victory!
+
+The System chimed.
+
+【Shadow Cloak Lv. 7 → Lv. 8】
+
+Luna’s ears shot straight up.
+
+“Second!”
+
+Syliana was checking the charm packet at her belt. “Yes?”
+
+“Cleaning ding.”
+
+For one breath, all the frightened humans nearby looked at Luna as if she had announced something deeply mysterious.
+
+Syliana smiled instead.
+
+“Congratulations.”
+
+Luna puffed proudly.
+
+“Mud fears Luna more now!”
+
+“As it should.”
+
+Hehe! Her Second was great!
+
+And with mud defeated, rescue could finally begin.
+
+The supplies waited in neat piles beside the tunnel entrance. Luna barely spared them a glance.
+
+Potions were what mattered, for when bad bad happened!
+
+Luna grabbed the healing potions and stuffed them into her Maw before anyone could fuss about counts or fairness.
+
+She still had some from Syliana, but those were for Luna!
+
+These were for the trapped people.
+
+Syliana reached for another set of bottles and pushed them closer.
+
+“These too.”
+
+Luna sniffed them.
+
+“Not healing.”
+
+“They help with fever and pain,” Syliana said. “If they have been trapped below, we may need both.”
+
+Oh!
+
+Hurting people needed more than fixing-bottles.
+
+Hmm-hum.
+
+Luna stored them too.
+
+“Done! More helping potions!”
+
+Luna then stored bandages, cloth rolls, jerky, two sealed lanterns, rope, chalk, and one meatloaf.
+
+Syliana looked at the meatloaf.
+
+Luna stared back.
+
+“Moraleloaf!”
+
+“I did not say anything.”
+
+“Eyebrows are talky.”
+
+“Apologies for my loud eyebrows.”
+
+Mhm!
+
+At the tunnel mouth, Syliana crouched before her and caught Luna gently by one ear.
+
+Luna froze with one foot already pointed toward the dark.
+
+“…Yip?”
+
+Syliana’s mouth twitched, but her eyes stayed warm.
+
+“People first,” she said.
+
+Luna nodded quickly.
+
+“Get people first, yep!”
+
+“Yes. I trust your nose, and I trust you to find them.”
+
+Luna’s ears lifted.
+
+“Second trusts Luna!”
+
+Luna felt her tail do the happy wag!
+
+“I do.” Syliana let go of her ear and brushed Luna’s hair back once. “If something feels wrong, or if there are too many, you run back to me.”
+
+“Run back to Syl, yesh.”
+
+Syliana’s smile sharpened just a little.
+
+“I’ll be right there when you do. Always.”
+
+Luna’s chest warmed.
+
+“Then Luna goes to get people!”
+
+“Yes.”
+
+“And bites Many-things bads that block the way!”
+
+“Exactly.”
+
+To bite things that get in the way was a very good Apex Predator rule! Luna always knew her Second was awoomazingly smart!
+
+Luna leaned forward and bumped her forehead against Syliana’s shoulder.
+
+“Mhm! Luna will.”
+
+Then she turned to the waiting guards and healers, and made a very important-looking hands-on-hips puffed up pose.
+
+“When Luna brings people, you take people. No Unimportant Standing Around there making silly faces!”
+
+One guard opened his mouth.
+
+Luna pointed at him.
+
+“No silly face.”
+
+He closed his mouth and nodded.
+
+Better.
+
+Luna turned around and stepped into the service passage.
+
+The dark smelled ready.
+
+Wet stone, old bones, black blood, and fear dragged deeper than fear should ever go.
+
+Luna’s tail went still.
+
+There were too many human smells below.
+
+She breathed again, slower, sorting stale from warm, dead from maybe-not-dead, human from monster-stink rubbed thick across the walls until her nose wanted to bite the air for being difficult.
+
+Not enough.
+
+“Humans were here,” she said.
+
+Syliana’s magic gathered behind her. “Alive?”
+
+Luna’s ears flattened with frustration.
+
+“Not know yet.”
+
+That was the worst!
+
+Luna moved deeper with her nose leading.
+
+Black blood smeared the passage. Stitched flesh clung to broken stone. Wet rot filled the cracks. Old fear sank into the floor, and fresh fear trembled through it in a thin living thread.
+
+Luna followed that thread.
+
+Her shadow spread low around her boots, tasting the floor while her nose sorted the dark. Loose stone tugged at the shadow. Water hid a drop. One stair wanted to collapse if stepped on too hard.
+
+Luna stepped around it and hissed quietly at the stair.
+
+Bad stair!
+
+The living scent sharpened beneath the black blood.
+
+Luna froze, nose lifted.
+
+“Luna found one,” she whispered.
+
+Syliana stilled behind her.
+
+Luna breathed again, turning her head until the thread lined up with the tunnel ahead. More traces trembled beyond it, thin and messy, some fading into old blood, some still warm enough to pull at her chest.
+
+Her tail lifted.
+
+“Alive,” she said, sharper now. “Some. Not all. Some close. Some deeper.”
+
+Syliana’s hand hovered near her shoulder but did not interrupt.
+
+Luna’s lips peeled back from her teeth.
+
+“Ugly stink everywhere. Nest rubbed itself on walls to hide peoples.”
+
+“Can you follow them?”
+
+Luna leaned toward the dark.
+
+“Yes.”
+
+The passage bent low, then lower.
+
+Luna ducked beneath a cracked beam, stepped sideways around a jut of broken stone, and let Shadow Cloak catch the slick place before her boot found it. Water ran down the wall beside her hand. Somewhere ahead, claws clicked once and went silent.
+
+Luna watched the passage before her, then smiled into the dark.
+
+Tunnel awoom, pawssible!
+
+Quieter, sharper, and bite-ready.
+
+But before that–
+
+Luna turned, finding the first ugly thing above them.
+
+【Enemy Identified: Corruption-forged Chimera Stalker】
+
+Another one, but made of different parts!
+
+It dropped from a cracked arch, all wrong angles and mismatched limbs.
+
+One side scraped stone. The other reached for Luna.
+
+It clicked once.
+
+Very rude.
+
+Luna Shadow Stepped under it before the sound finished and kicked upward into its chest, slamming the creature into the wall.
+
+Another shape lunged from a side passage.
+
+Syliana’s spell caught it mid-leap and drove it into the floor, but even pinned, the creature kept crawling. Its limbs pulled in different directions until one black knot beneath its ribs pulsed and all the wrong parts obeyed at once.
+
+Luna saw it.
+
+Oh!
+
+That ugly lump was telling the bad body what to do.
+
+She pounced before the thing could finish being wrong. Shadow wrapped her fingers into claws, and Luna drove them into the pulsing knot.
+
+It burst with a bitter snap.
+
+The creature convulsed, then collapsed all at once.
+
+Luna stared at it, ears perked.
+
+Then she grinned.
+
+“Second! Boss lump.”
+
+Syliana held the ceiling creature in a binding net of pale force. “Boss lump?”
+
+“Ugly body listens to it!”
+
+The bound creature shrieked and twisted.
+
+Luna sniffed fast through rot and wet cloth. The knot was not in the chest. Not the shoulder either. It hid at the back of the neck under a strip of stitched hide, pulsing whenever the jaw tried to click.
+
+Sneaky rude thing!
+
+But bad at hiding from Luna!
+
+She punched shadow-claws through it.
+
+The creature dropped.
+
+Syliana’s gaze sharpened. “Can you keep finding them?”
+
+Luna bounced once on her toes.
+
+“Yesh! Luna is ready for more bad bads!”
+
+The tunnels obeyed.
+
+The ugly things came from cracks, alcoves, drowned side halls, and places bodies should not fit. Each one wore stolen shape differently, but every wrong shape listened to something. A wet pulse. A tight corruption-stink. One spot where all the stitched parts agreed.
+
+Luna kept moving.
+
+The ugly bodies came from cracks, shelves, and side passages, each one carrying the same nest-stink in a different wrong shape. Luna watched how they moved and followed the places that pulled hardest.
+
+“Left belly, very rude!”
+
+Syliana’s blade of magic split the hidden knot before the thing finished lunging.
+
+“Back neck!”
+
+Another spell cracked it against stone.
+
+“Shoulder lump!”
+
+Luna tore it open herself and kicked the collapsing body into another one trying to crawl past.
+
+Proper pack fighting!
+
+Her tail wanted to wag, but the tunnel was narrow and full of inconvenient dead bads, so Luna restrained herself with enormous dignity and only wiggled a little.
+
+Maybe a little more than a little!
+
+Then she smelled people.
+
+Close, alive, and hurt.
+
+“Second, Luna found people!”
+
+Syliana lifted one hand.
+
+Luna breathed through the dripping dark, through sweat, blood, fever, old bandages, and stale tears tucked under a stronger adult scent.
+
+Children were down there.
+
+“Quick! This way!”
+
+The passage bent behind fallen pillars and sloped downward into a chamber full of old storage alcoves and broken foundation stones.
+
+The survivors were tucked into the far side, hidden behind a low barricade jammed between two alcoves. Broken shields, planks, and scavenged furniture had been dragged close enough to hide behind, then smeared with dark monster blood until the stink blended with the chamber’s walls.
+
+It was not a wall for fighting.
+
+It was a hiding place.
+
+Behind it, exhausted adventurers snapped upright.
+
+The moment Luna stepped into view, the survivors jerked upright.
+
+“What the hell–”
+
+“Monster!”
+
+Weapons rose on shaking arms. One injured woman fumbled for a spear and nearly slipped before another adventurer caught her shoulder.
+
+Luna’s ears perked.
+
+Oh!
+
+That was her!
+
+Very sudden Luna out of monster-dark!
+
+Tail, shadows, teeth, rescue supplies, superior ears, and the confident stance of a Genius Apex Predator. Of course the humans were startled! They had been hiding from ugly things, and now Luna had appeared looking extremely capable in a dark tunnel.
+
+Yip yep!
+
+Still rude.
+
+Luna lifted both hands, showing empty hands.
+
+Then she remembered empty hands were less convincing than snacks!
+
+Her Maw opened beside her like a helpful little shadow-mouth, and Luna pulled out a strip of jerky with all the careful ceremony of a diplomatic queen.
+
+She held it toward the barricade.
+
+“Peace jerky?”
+
+The swordsman stared at her ears, her shadows, the jerky, and then her face.
+
+“…What?”
+
+“Emergency peace jerky! Very tasty, Luna can confirm!”
+
+Syliana stepped into view beside her.
+
+“She is with me. We are here to get you out.”
+
+Luna titled her head at the response.
+
+They lowered the weapons from stab-now to maybe-stab-later.
+
+Huh!
+
+Six adventurers hid behind the low barricade, all of them scraped raw by fear and bad sleep. Two were hurt badly enough that Luna’s nose went straight to them. One smelled hot with fever. Another had her hand locked around a spear even though standing upright was clearly taking most of what she had left.
+
+She had still put herself closest to the passage.
+
+Luna’s ears perked.
+
+Brave spear woman! With proper Predator instincts!
+
+Then Luna remembered excellent brave spear women still leaked blood if nobody fixed them.
+
+And Luna has potions!
+
+She pulled bottles from her Maw and started placing them into hands before the adventurers finished deciding what kind of rescue had ears, tail, shadows, and peace jerky.
+
+“Here, drink! It’s got what hurt people crave! It’s got potions inside!”
+
+The feverish man blinked at the bottle, then drank when Luna nudged it closer.
+
+The spear woman tried to speak, winced, and forced the words out anyway.
+
+“Children,” she rasped.
+
+Luna froze, then handed the woman her potion anyhow!
+
+The woman lifted one shaking hand from the barricade and pointed toward a collapsed alcove half-hidden behind broken stone and old planks.
+
+“Back there. Two of them. We kept them quiet, and extra hidden.”
+
+Then Luna heard it.
+
+Wet breath.
+
+Tiny fear.
+
+Trying-not-to-cry.
+
+Her nose caught the scent a heartbeat later, tucked beneath blood, dust, and too many frightened adults.
+
+Children!
+
+Luna’s whole body went soft and sharp at once.
+
+“Small ones!”

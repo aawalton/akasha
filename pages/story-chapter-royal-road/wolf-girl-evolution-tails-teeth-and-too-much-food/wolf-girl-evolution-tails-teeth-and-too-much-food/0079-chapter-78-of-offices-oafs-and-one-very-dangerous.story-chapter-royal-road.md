@@ -1,0 +1,437 @@
+---
+id: f66df82f-7126-55a4-aeaa-e45a12a72479
+page-type-slug: story-chapter-royal-road
+title: "Chapter 78: Of Offices, Oafs, and One Very Dangerous Pup"
+slug: 0079-chapter-78-of-offices-oafs-and-one-very-dangerous
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 79
+ownLength: 2463
+unit: words
+publishedAt: 2025-12-08
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2831076/chapter-78-of-offices-oafs-and-one-very-dangerous"
+royalRoadId: "2831076"
+---
+
+PoV Syliana
+
+The Guildmaster’s office looked well-cared for, weirdly so.
+
+Syliana’s boots made no sound as she stepped inside, but her presence hit harder than a blade unsheathed.
+
+Trianna followed with a little spring in her step. That rascal of a woman was already grinning, anticipating mischief, and ready to create some herself if needed.
+
+She shook her head, focusing on the place instead.
+
+The room was exactly how Syl remembered it.
+
+A wide window let in bright midday light, reflecting off the polished surface of a desk far too immaculate for the chaotic man who used it.
+
+Bookshelves lined the walls, stuffed with leather-bound tomes about monster ecology, Guild legislation, maps, and… she narrowed her eyes.
+
+The Basilisk fang on the left wall. Mounted backwards.
+
+She remembered cleaning the blood off it herself. Nearly lost a rib for that kill.
+
+Her prized kill from a decade ago, and now it hung here like a hat hook.
+
+The rug was new. Probably Scalehart, by the look of it. Still carried faint lines from the beast’s hide, ruined only where Guildmaster had worn a pacing path into it – clearly still a nervous habit he never bothered to fix.
+
+And the portly man himself slouched behind the largest desk in the building, arms flopped across a stack of paperwork he clearly hadn’t started. He was broader than before, balder too, with a mustache that hadn’t decided what style it was aiming for. Yet his eyes sparkled with the same misplaced cheer he had always wielded like a shield.
+
+Downstairs, the muffled roar of cheering drifted upward – wild voices bursting, then fading into joyous commotion.
+
+Syl’s stern demeanor cracked for just a heartbeat at what undoubtedly must have been Luna’s doing. The girl must have found yet another creative method of upending the Guild’s social order.
+
+She really wanted to see it too, but pressing matters came first.
+
+Trianna grinned openly at the sound.
+
+“I bet she’s terrorizing half the hall already.”
+
+Syl’s lips twitched despite herself.
+
+“Quite possibly.”
+
+But the amusement evaporated the moment she turned her gaze back to the portly man slouched across from her.
+
+“Guildmaster Ferric.”
+
+“Yes! Welcome back,” came the voice of the oaf himself.
+
+He met her stare for a full twenty seconds – a remarkable feat, considering the situation – before finally groaning dramatically and lowering his head into his hands.
+
+“Gah. Still can’t win against that steely glare of yours. Even after all these years.”
+
+Syl arched one eyebrow.
+
+“I wonder why.”
+
+Trianna, utterly unhelpful, was nearly bouncing on her toes beside her, delighting in the scene like a kitten at a festival.
+
+Ferric threw his hands into the air.
+
+“Yes, yes, I know! I did bad. I shouldn’t have shouted that. But better me than one of the kiddos downstairs! You know what they’re like – anyone with Inspect, Intuition, Identify, heritage sense, mana sight – they would have sniffed it out anyway! The girl stands out like a sore paw, Syliana.”
+
+Trianna’s snicker behind her didn’t help.
+
+Syl’s arms crossed slowly.
+
+“She’s a Wildling,” Ferric continued, now gesturing wildly as if volume would dig him out of the hole. “People were gonna notice. Some already did! Ears twitching. Magic tingling. You could probably feel it across the damn floorboards if you bothered to look!”
+
+Syl tapped one toe against the rug.
+
+Once.
+
+Deliberate.
+
+Measured.
+
+Ferric froze.
+
+“Okay, okay, but think about it – what if it hadn’t been me? What if it was someone else shouting? Or worse – someone trying to claim her? You’ve seen it before. The obsessed ones coming out of the woodworks at the promise of anything unique. People and guilds trying to force ‘mentorship contracts.’ Nobles wanting mascots. Churches sniffing for ‘holy beasts.’ At least with me it was loud, dumb, and over with in a second!”
+
+“Guild. Master. Ferric.”
+
+Just three words, yet cold enough to freeze molten ore.
+
+He winced.
+
+“Syl, come on, you know I didn’t mean harm–”
+
+“Your words carry weight,” she said calmly. “Even when they are idiotic.”
+
+Trianna coughed and looked very interested in the floor.
+
+Ferric groaned again, burying his face in his hands.
+
+“Right. Yes. My sincere apologies. Deepest apologies. You have my word that I will take full responsibility for any… ah… untoward developments.”
+
+Trianna covered her mouth to hide her snort. Ferric gripped the edge of his desk like a drowning man.
+
+“Can we move on now?” he pleaded. “I feel like my hair is greying the longer you stare.”
+
+Syl did not blink.
+
+“…Syliana? Please don’t kill me. This desk is new.”
+
+He wilted. Absolutely wilted.
+
+“Please?”
+
+Only then – only then – did Syl exhale through her nose and relax her stare.
+
+“Very well. Let us proceed.”
+
+Ferric sagged in relief so dramatically that Trianna actually patted him on the shoulder.
+
+From below, the muffled cheer of the guild roared again. Followed by a very clear and loud:
+
+“REVENGE!”
+
+Trianna burst out laughing.
+
+Ferric brightened a bit, leaning forward.
+
+“Is that her?”
+
+“Yes,” Syl answered, voice flat. “That’s her.”
+
+“Gods,” he muttered, eyes wide. “She sounds like she's already conquered half the place.”
+
+“She just might,” Trianna chimed in. “Especially if they smell like food.”
+
+Syl inhaled slowly through her nose.
+
+“Listen,” Ferric said, regaining what little bravery he had left. “She’s not safe here. Not in the long run. If word spreads, and it will, she’ll draw attention like a campfire in a forest.”
+
+“I know,” Syl replied.
+
+“And you’re keeping her?” he asked, quieter this time.
+
+She met his eyes.
+
+“Yes.”
+
+Ferric didn’t challenge it.
+
+Instead, he leaned back, stared at the ceiling for a while, then muttered.
+
+“Well, then may the gods help us all.”
+
+Another distant shout rang out, followed by a chorus of laughter and a familiar high-pitched bark of victory.
+
+Trianna giggled.
+
+“I think Luna’s already helping.”
+
+Syl finally sat.
+
+It was going to be a long talk.
+
+***
+
+Syliana set the satchel down with a sound softer than the weight inside deserved.
+
+Leather touched polished wood. Her hand lingered half a heartbeat longer, then moved aside. Trianna followed, her own satchel lighter but no less important. Together they laid out the contents – neatly, in order.
+
+Reports. Listed copies of their findings. Maps.
+
+Some sketched out details from the ruins.
+
+And lastly, the carefully wrapped tokens of the fallen.
+
+“May the Stars guide them,” Ferric murmured.
+
+Syl bowed her head, hand resting lightly over her heart.
+
+“And may their findings protect others who follow.”
+
+Trianna gave a nod, slower than usual.
+
+The desk between them had stopped being a barrier – it was now an altar.
+
+Then they briefed him on everything that went on during their quest.
+
+From their unfortunate stumbling around, to finding Luna – or rather Luna finding them – down to how, through a series of jerky-fueled misunderstandings and a lot of patience the girl guided them to the places they needed to reach.
+
+How badly corrupted the area Luna led them to had become. Yet nothing they couldn’t handle, fortunately. And the lich at the center of it all. Fortunately inert – whether because they were biding their time to strike, or corruption overwhelmed them too, they would never know.
+
+Because Luna ate their phylactery.
+
+“She did what?!”
+
+But before they could answer, Ferric muttered something under his breath, before continuing.
+
+“You know what, nevermind. Trying to understand Wildling shenanigans is folly. What happened then?”
+
+Then came the next bundle of paper. Trianna handed it over.
+
+“And then… we found the Velssarin ruins.”
+
+Ferric raised a brow.
+
+“What ruins?”
+
+Syl didn’t answer right away.
+
+Because technically, they hadn’t even known there were any ruins there prior to reaching the place.
+
+“Velssarin ruins, but before you get excited, listen to the rest,” Syl said, brushing a stray strand of hair behind her ear.
+
+“We only finished as quickly as we did because of Luna. She ended up guiding us to both locations… among other things.”
+
+“Oh?” Ferric leaned forward, interest sharpening. “Among other things?”
+
+Trianna snorted.
+
+“You have no idea.”
+
+So Syl explained.
+
+About their exploration of the ruins, the things they found, how they got trapped, and subsequently saved by Luna. How they headed deeper within, Syl’s theories on how the lich must have used the Velssarin crafts to tap into the leylines. The sprint through collapsing corridors. And finally–
+
+The titanic snake, and how its emergence likely destroyed whatever was left of the ruins.
+
+Ferric clutched his face.
+
+“Stars save us.”
+
+“And after we escaped and finally made it to safety,” Syl continued, “Luna went out and hunted a Granidrake on her own.”
+
+Ferric’s mouth moved, but no words came out.
+
+“She WHAT?”
+
+“Dragged it back like a chew toy,” Trianna said. “Collapsed after, bloodied and all. Yet proud as a feathered rooster.”
+
+“Gods above,” Ferric whispered. “Things really do spiral around Wildlings, don’t they? And to think she’s the first new one in what? One hundred twenty years? Remember the Breinvich Empire pastures? Tourists still flock there to see those cursed cows who babble riddles about mortality and crop rotation.”
+
+Syl blinked.
+
+“…Fifty years.”
+
+“What?” Ferric squinted. “No, it has been one hundred twenty years since the last new Wildling walked those lands!”
+
+“Indeed,” Syl said serenely.
+
+Ferric blinked.
+
+“…Don’t you ‘indeed’ me, Syliana. You’re doing that thing again.”
+
+Trianna glanced between them, confused.
+
+“Syl. Explain. Please.”
+
+Syl tapped a finger to her cheek.
+
+“Tell me, Guildmaster – don’t you think the Southern Isteric Strait is developing quite nicely nowadays?”
+
+Ferric frowned.
+
+“The ports? Of course they’re thriving – rich fishing grounds, monstrous resources, good trade winds–”
+
+Syl raised a brow.
+
+“And the krakens?”
+
+Ferric froze.
+
+Trianna blinked again.
+
+“…Krakens?”
+
+“Mhm,” Syl hummed. “The area is one of their most preferred breeding grounds.”
+
+Ferric stared, gears turning.
+
+Stopped.
+
+Turned again.
+
+Then his eyes widened in horror.
+
+“Oh damn you,” he groaned. “The last Wildling never stepped foot on land, did they? A marine Wildling. A sea-borne one. Of course. The timeline makes sense now.”
+
+Trianna stared in horror.
+
+“You’re telling me there was a sea Wildling?!”
+
+“Indeed.”
+
+Ferric collapsed into his chair with a groan. “Damn you, Syl. That’s why the sea charts went mad for a decade back then. Why no port’s map stayed accurate. The Wildling was the storm.”
+
+“Correct.”
+
+Syl smiled. Slow. Pleased. Entirely too proud.
+
+“Syl,” Trianna warned, hands on hips.
+
+“Yes, Tri dear?”
+
+“You're insufferable sometimes.”
+
+Syliana laughed openly for once, and even Ferric cracked a weary grin.
+
+The elven pranks were really something else.
+
+But there were still some matters to discuss.
+
+“…I must thank you again for taking on those requests,” he said. “Truly. I doubt any of ours would’ve managed what your team accomplished.”
+
+Syl dismissed the praise with a flick of her fingers.
+
+“Think nothing of it. You are paying us, after all.”
+
+Trianna leaned in with a grin.
+
+“Yes, yes, very generous of you!”
+
+Syl allowed herself the smallest twitch of amusement.
+
+“And I will be taking extra payment too.”
+
+Ferric blinked.
+
+“Extra?”
+
+“Luna’s documentation and adventurer registration. I expect them handled by tomorrow.”
+
+He nodded quickly.
+
+“Of course. I anticipated that.”
+
+“But,” Syl added, her voice turning sharper, “also one more thing. Effective immediately, ban all requests targeting Shadow Wolves, lesser or otherwise. Any sightings, any hunts. Suppress them. Redirect them. Burn them if needed.”
+
+Ferric’s frown deepened.
+
+“That’s a strange request, even for–”
+
+Syl stepped forward half a pace. Her gaze locked onto his.
+
+“Unless you want a very angry Wildling storming your Guild. One who has no problem biting offenders dead.”
+
+Trianna coughed into her fist.
+
+Ferric went pale.
+
+“Right. Obviously. Consider it done. Saints above, she’s already wrecking half my guild from the sound of it – I wouldn’t want to see her… incensed.”
+
+“Wise.”
+
+Silence settled again. But this one was heavier.
+
+Ferric sighed, rubbing his temples.
+
+“And that’s partly why I called you in, Syliana. Old instincts flaring again. Something’s wrong.”
+
+Her gaze sharpened.
+
+“Wrong how?”
+
+He leaned back, hands folding atop the desk.
+
+“Teams have been disappearing. Not just here either, but in other branches too. People vanishing without trace. Corruption flaring up in zones we’ve had stable for years. Odd travelers. Reports that don’t match what’s on the ground.”
+
+He shook his head.
+
+“Individually, none of it raises alarms. But together… it smells off. My gut says something’s building.”
+
+Syl let the silence stretch a moment longer, the weight of his words pressing against her thoughts.
+
+Trianna’s smile faded.
+
+“That bad?”
+
+“I don’t know,” Ferric admitted. “But I trust my gut since my brains ain’t good enough! Always have. And it’s screaming now.”
+
+Syl folded her arms.
+
+“...You really are unfit for the central regions, Ferric. Speaking so openly.”
+
+He snorted.
+
+“Bah. You’re a friend. And I trust you. Probably lucky I don’t know more. Too easy for an old fool like me to let things slip.”
+
+“Indeed.” She offered a measured nod. “It was good seeing you again.”
+
+Trianna flashed a brilliant smile.
+
+“Yes! And thank you for your business!”
+
+Ferric tried to reply, but the words stumbled over each other, and by the time he gathered them, the two women were already halfway to the stairs.
+
+Syliana stepped onto the upper balcony and paused.
+
+Below, the common hall was a storm of voices. Boots stamped. Mugs clanked. Cheers and laughter rang off the rafters.
+
+And in the middle of it all – was Luna.
+
+Spinning. Leaping. Darting between three opponents at once, each move quicker than the last. Her expression held pure joy. Her limbs remembered everything her instincts once carried, now wrapped in a girl’s form. It was less sparring and more celebration.
+
+She slipped under a wide swing, twirled behind a large man’s back, tapped his spine with two fingers, and grinned so hard it threatened to crack her cheeks.
+
+“Revenge!” she declared with glee.
+
+The poor man toppled sideways in surprise, his expression equal parts defeat and awe.
+
+Syliana didn’t speak, but she didn’t need to.
+
+Luna spotted her before she could call out. The moment their eyes met, the girl lit up brighter than sunlight through stained glass. Her whole frame brightened, tail wagging so hard Syl almost expected it to fall off.
+
+Her arms relaxed by instinct.
+
+So much light. So much mischief. So much life.
+
+She had seen too many things lose their brightness over the years. But this one, this tiny chaotic miracle, glowed like a campfire against the storm.
+
+Perhaps Ferric’s gut was right.
+
+Perhaps the world was shifting again, creeping toward something dark.
+
+But here and now, in a hall that stank of sweat and joy, a Wildling danced with laughter in her bones.
+
+And Syliana smiled softly.
+
+She would protect that.
+
+With everything.

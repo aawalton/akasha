@@ -1,0 +1,287 @@
+---
+id: a656c7eb-876d-5d3f-9dc2-20f61f67d30a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 14: Grezheim"
+slug: 0014-chapter-14-grezheim
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 14
+ownLength: 2156
+unit: words
+publishedAt: 2026-04-14
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3273689/chapter-14-grezheim"
+royalRoadId: "3273689"
+---
+
+SPECIAL BASE #44
+
+UNITED STATES ARMED FORCES
+
+DEFENSE BUNKER [CALIFORNIA]
+
+Sweat beaded on my forehead.
+
+I wiped it with the back of my hand, forcing my expression into something neutral. My eyes stayed fixed on those block letters before I made myself look away.
+
+Don't react. Don't let it show.
+
+I tugged the mule's rope and stepped through the threshold.
+
+The wind hit me first. Dry and warm. Carrying the faint scent of sun-baked earth.
+
+I stopped walking for a moment.
+
+The mule bumped into my back again, snorting its displeasure, but I didn't care.
+
+I was outside.
+
+The landscape unfolded before me in a vast, rolling expanse that stretched to the horizon in every direction. The ground was dry and golden-brown, cracked earth and pale dust, but stubborn life pushed through everywhere. Low scrub brush clung to the terrain in dense patches. Trees dotted the distance, twisted things with thick trunks and sparse canopies.
+
+We stood at the base of a low plateau. The cave opened behind me, the massive metal doors framing it on either side. Ahead, the land sloped gently downward into a broad plain that seemed to go on forever.
+
+I tilted my head back and breathed.
+
+My lungs filled with air that didn't taste like stone or smoke.
+
+Behind me, the column continued to pour from the cavern. Students stumbled into the light, blinking and shielding their eyes. Soldiers emerged with more composure but the same involuntary squint. The transition from underground darkness to open sky hit everyone the same way.
+
+Soon a cheering started.
+
+It began somewhere near the front of the column, a single voice raised in relief, and spread backward like wildfire. Students threw their arms up. Some embraced each other. A boy near me dropped to his knees and pressed his palms flat against the earth as if he needed to confirm it was real.
+
+Laughter mixed with the cheering. A few students were crying, wiping their faces with dirty sleeves, pretending they weren't.
+
+An officer climbed onto a flat-topped boulder near the cavern entrance and raised his hand for silence. It took a while to come.
+
+"The expedition has concluded," he announced, his voice carrying across the assembled crowd. "All objectives regarding artifact recovery have been met. You have performed your duties admirably."
+
+A brief, measured pause.
+
+"However." The word cut through the celebration.
+
+"Don't lower your guard. We are deep in the southern territories, far from the major cities. The journey back to central Silberwald begins immediately. Our priority is the safe return of all personnel and recovered materials. Stay with your assigned units. Follow orders without delay."
+
+The cheering didn't resume with the same energy after that. It sputtered and faded into murmured conversations, nervous glances toward the empty horizon.
+
+I stood apart from it all, one hand on the mule's rope, the other hanging at my side.
+
+Silberwald.
+
+The name rolled through my mind again, and this time it collided with everything else.
+
+California.
+
+The word stamped on those doors. A piece of geography that belonged to a world that had apparently ceased to exist so thoroughly that its language was now called "Ancient" and its military bunkers were mistaken for the ruins of a lost civilization.
+
+The wyvern's voice echoed in my memory.
+
+For seven hundred years you've had access to magic.
+
+Seven hundred years.
+
+My jaw tightened.
+
+This never happened while I was alive. There was no magic. No mana. Not in my world.
+
+But the bunker doors are real. The English is real.
+
+It can't be the past. Am I in the future?
+
+But how far into the future? And why am I here?
+
+I had no answers. Only the questions, stacking up.
+
+My gaze drifted sideways.
+
+Iris stood thirty paces away, helmet off now, running her fingers through sweat-damp hair while she spoke with her two companions.
+
+In other loops, I had told her about my memory loss. She had been receptive. More than receptive, she had helped me. Read my journal. Explained the world.
+
+Yet those loops had a safety net.
+
+In those loops, I knew her memory would be erased. I knew the day would reset. I knew that whatever I revealed, whatever vulnerability I showed, it would vanish with the next death. The slate wiped clean. No consequences.
+
+This time was different.
+
+This time, tomorrow was actually tomorrow.
+
+If I tell her about my memory or the language, she might tell others. If others find out that I can read the Ancient Language, that I recognize it, that I know what those words mean…
+
+The implications branched outward like cracks in ice.
+
+Questions would follow. Questions I couldn't answer without revealing things that would make me sound insane.
+
+They'd lock me up again. Or worse.
+
+I looked away from Iris and fixed my eyes on the horizon.
+
+Keep it to yourself. For now.
+
+"Set up camp! I want tents raised before we lose the light!"
+
+The order cracked across the plain as the sun began its descent. The column had marched for perhaps an hour from the cavern mouth before the officers called a halt on a broad, flat stretch of ground that offered clear sightlines in every direction.
+
+If I squinted against the fading light and looked to the northeast, I could make out a shape on the horizon. Something that interrupted the flat line of earth and sky.
+
+A town. Perhaps a few hours' march away. Perhaps less.
+
+I filed it away and turned to the more immediate problem.
+
+The mule.
+
+I led the beast to a row of iron stakes that had been driven into the hard-packed earth. The mule resisted the final three steps on principle, planting its hooves and staring at me with the flat, unblinking malice.
+
+I looped the rope around the stake, knotted it twice, and gave the mule a look that said Fight me if you can. The mule flicked its tail.
+
+I turned away and began unpacking my tent.
+
+My hands moved with a competence that surprised even me. Not because of this world's training. Because of the other life.
+
+Firefighters didn't just fight fires. They trained for everything. Wilderness survival. Emergency shelter construction. Field camps during wildfire deployments where you slept in whatever you could raise between shifts, knowing you'd tear it down at dawn and do it again somewhere else.
+
+My fingers found the rhythm without conscious thought.
+
+Around me, other students struggled with theirs. Poles collapsed. Canvas billowed and escaped grasping hands. Two boys argued over which end was the front. A girl sat cross-legged on the ground, staring at a tangle of rope with the expression of someone contemplating surrender.
+
+My tent was among the first to stand in the student sector.
+
+I ducked inside, dropped my pack, and sat for a moment in the interior, listening to the camp settle around me.
+
+When the last light drained from the sky, a whistle blew.
+
+I followed the sound to the distribution point, where a line of students had already formed. Each person received their ration from a bored-looking quartermaster who ladled soup from a massive iron pot and handed out chunks of bread that could have doubled as building materials.
+
+The soup was thin. Vegetables floated in a broth that tasted mostly of salt and the metallic tang of the pot itself.
+
+I glanced toward the officers' area as I carried my ration away.
+
+Their table was different. It had meat, cheese and bread that actually looked like bread. A bottle of something dark passed between hands. Laughter drifted from their circle.
+
+I looked away and found a place to sit.
+
+The student area was organized into rough clusters. Groups of friends, study partners, tent-neighbors. They sat in circles on the ground or on overturned crates, eating and talking in low voices.
+
+I chose a spot at the edge.
+
+I settled onto a flat stone, balanced my bowl on my knee, and began to eat.
+
+Within thirty seconds, the space around me cleared.
+
+It wasn't dramatic. No one stood up and announced they were leaving. No one pointed or sneered. It was subtler than that, and in some ways worse. The students nearest to me simply… walked away.
+
+The radius of emptiness around me grew until I sat alone in a pocket of silence, surrounded by the murmur of conversations that didn't include me.
+
+I ate my soup. Tilted my head back and stared at the sky.
+
+The stars were out.
+
+Sleep didn't come.
+
+I lay on my bedroll, staring at the canvas ceiling.
+
+I waited for the familiar lurch. The snap of consciousness being ripped backward through time.
+
+I feared seeing the words.
+
+[Initiating Curse] [Restarting Day]
+
+Minutes passed.
+
+An hour.
+
+The sounds of the camp settled into the deep quiet. Distant footsteps of sentries. The occasional snort of a horse or mule.
+
+Still, no reset came.
+
+My hands gripped the edges of my bedroll.
+
+It's not coming, I told myself.
+
+It's not coming.
+
+Go to sleep.
+
+My body refused. Every time my eyelids drooped, a spike of adrenaline jerked them open again.
+
+The fear wasn't rational. I knew that. The curse triggered on death, not on sleep. I wasn't dying.
+
+Hours crawled past. I counted breaths. I counted heartbeats.
+
+Eventually, exhaustion won.
+
+It didn't feel like falling asleep.
+
+My last thought, before the darkness took me, was a prayer.
+
+Please. Let tomorrow be tomorrow.
+
+Birdsong.
+
+The sound was so foreign, so utterly out of place in the world I had been living in, that for a moment I thought I was hallucinating.
+
+The second bird answered the first, a bright call that cut through the canvas and landed in my ears.
+
+My eyes opened.
+
+No notification hung in the air. No announcement of curses and restarts.
+
+Just the inside of a tent.
+
+Outside, the camp was already stirring. I could hear the creak of cart wheels, the stamp of hooves, the clatter of equipment being packed.
+
+"We're a few hours from Grezheim!" an officer's voice rang out across the camp. "If you lot don't drag your feet, you'll have a warm bed tonight. Move!"
+
+I threw off my blanket and began breaking down the tent before Blut or any other officer could find a reason to make my morning worse.
+
+The camp dissolved around me as hundreds of people did the same. Tents came down. Carts were loaded. Animals were harnessed and led into formation.
+
+The column began to move.
+
+I took my place behind the mule, rope in hand, and walked.
+
+Ahead, growing larger with every step, the shape on the horizon resolved itself.
+
+Grezheim.
+
+The town emerged from the landscape.
+
+The first thing I noticed was the wall.
+
+It encircled the entire settlement in a ring of pale stone, thick and tall enough to block the view of most structures within. Watchtowers rose at intervals, their tops crowned with what looked like crystals.
+
+As the column drew closer, the details sharpened.
+
+The wall itself was old. The stone was weathered and cracked in places, patched with newer material that didn't quite match. A darker stone here, iron reinforcement there, sections where the original masonry had been replaced entirely with something that looked almost like poured concrete.
+
+Beyond the wall, rooftops jutted up at uneven heights, and that was where the strangeness truly began.
+
+Grezheim wasn't one thing.
+
+It was a patchwork. A collision of eras and materials stitched together.
+
+I could see buildings made of old brick, their walls stained and crumbling, windows dark and narrow. Next to them stood structures of raw timber, newer but already sagging, their frames warped by weather and hasty construction. Threaded between both were buildings of iron and steel, angular things that belched thin columns of smoke from chimneys.
+
+Mage-glow spilled everywhere.
+
+It crowned lampposts that lined what I could see of the main road. The entire town shimmered with a low-grade magical luminescence that made it look, from a distance, like something caught between a fairy tale and an industrial accident.
+
+Old and new. Stone and steel. Magic and muscle.
+
+Nothing matched. Everything worked, somewhat.
+
+The column halted outside the main gate.
+
+Officers moved down the line, their voices carrying the clipped efficiency of men who wanted this over with.
+
+"Form up by unit! Prepare to receive your pay. Find lodging in town. The transport carriages arrive tomorrow. You are dismissed until then!"
+
+A ragged cheer went up from the students. Not the wild celebration of yesterday's emergence from the cavern, but the tired, genuine relief of people who could finally stop walking.
+
+I stood in line with the rest, the mule's rope still in my hand, and waited.
+
+When my turn came, a quartermaster counted coins into my palm without looking at my face.
+
+I looked down at my hand.
+
+Money. Real money, in a world I was only beginning to understand.
+
+I turned toward Grenzheim's open gate and walked through.

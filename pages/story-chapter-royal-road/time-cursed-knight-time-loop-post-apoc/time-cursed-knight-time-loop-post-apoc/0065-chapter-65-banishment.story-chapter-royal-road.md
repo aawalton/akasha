@@ -1,0 +1,307 @@
+---
+id: bb1fc1b1-4d17-5ec6-b336-d8985116e859
+page-type-slug: story-chapter-royal-road
+title: "Chapter 65: Banishment"
+slug: 0065-chapter-65-banishment
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 65
+ownLength: 2745
+unit: words
+publishedAt: 2026-06-15
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3543961/chapter-65-banishment"
+royalRoadId: "3543961"
+---
+
+Hexenzeit.
+
+My body, which had been shifting toward the aisle, sat back down.
+
+Hagen von Hexenzeit.
+
+The heir.
+
+Not the firstborn. My replacement.
+
+The boy who had been everything Kaspar wasn't. The prodigy that the Archduke had needed.
+
+The memories didn't contain bitterness. Not exactly. The emotion attached to the memories about Hagen was something more complicated. It was a compound of longing and distance and the particular ache of watching someone receive, effortlessly and without asking, the thing you had poisoned yourself a hundred and twenty-one times trying to earn.
+
+Kaspar had never hated his adoptive brother.
+
+He'd never been given the chance. He had been expelled a few weeks after Hagen arrived.
+
+They hadn't played together. Hadn't studied together. Hadn't eaten at the same table.
+
+His memories only held a single direct interaction. The night before the carriage. Hagen standing in the doorway of Kaspar's room with bare feet and a book clutched against his chest, asking why the servants were packing Kaspar's things.
+
+Kaspar hadn't answered.
+
+I sat in the amphitheater's middle tier and looked at the stage where the organizer was still speaking.
+
+"Hagen von Hexenzeit. Graduated from the Imperial Academy at age fifteen. Currently serving as lead researcher in the Hexenzeit Applied Magical Sciences Division and designated heir to the Archduke's territories."
+
+The titles accumulated. Each one added weight. The nobles in the lower tiers had abandoned every pretense of disinterest. Their bodies angled forward. Their conversations had ceased entirely.
+
+"His presentation today represents the culmination of a multi-year research initiative undertaken by House Hexenzeit in collaboration with the Ministry of Defense's Advanced Research Bureau."
+
+The organizer stepped aside.
+
+Hagen von Hexenzeit walked onto the stage.
+
+He was tall. Not as tall as I, but tall enough that the stage's dimensions looked appropriate rather than overwhelming.
+
+His robes were not Academy standard. Dark fabric, tailored close, bearing the Hexenzeit crest in silver thread at the left breast.
+
+He didn't begin immediately.
+
+He stood at the podium and let the silence build. Three seconds. Five. Long enough for every remaining whisper to die. Then he spoke.
+
+"Before the Sins, humanity was different."
+
+His voice was nothing like Mercer's. Low, measured, calibrated to fill the space without straining against it. Each word given room to breathe.
+
+"The histories that survived, and there are fewer than we'd like to admit, describe a civilization that had solved problems we still consider impossible. Not through magic. Through machines."
+
+He raised his hand. A blackboard drifted forward from the stage's rear, positioning itself beside the podium. The diagram chalked onto its surface was spare by academic standards — a simple schematic showing interlocking geometric shapes connected by lines that suggested flow and sequence.
+
+"We call them Thinking Machines. Devices built from metal and mineral compounds that could perform calculations at speeds no human mind could match. Not one calculation per second. Not ten. Thousands. Millions. Operations of such complexity that a single machine could accomplish in an hour what a team of mathematicians would require a lifetime to complete."
+
+He let the number settle.
+
+"These machines were not magical. They operated on principles of logic and material engineering that required no mana, no Circles, no ambient field interaction. They were, in every meaningful sense, technology that existed independent of the magical powers our civilization depends upon."
+
+His hand moved to the blackboard. His fingers traced the connecting lines.
+
+"They were lost."
+
+Another pause.
+
+"When the Sins arrived, when the dimensional breaches tore through the barriers that separated our reality from whatever lies beyond it, the old civilization collapsed. Not in a single catastrophic moment, but in a cascade of failures that unraveled over generations."
+
+He moved to the next blackboard. This one held text rather than diagrams, a timeline rendered in dates that predated the current calendar by millennia.
+
+"The Durak-Kel were most likely the reason for the end of thinking machines."
+
+The name produced a ripple through the audience. A shifting of bodies in seats, the involuntary adjustment of people hearing something that carried weight beyond the academic.
+
+"Geomantic entities. Beings whose relationship with stone and mineral operates at a level our best earth mages cannot approach. They didn't invade our mines. They claimed them. The deep veins, the ore deposits, the crystal formations that the old civilization had used as raw material for their technology, all of it claimed into Durak-Kel territory within one generation of their arrival."
+
+He let a beat pass, then continued.
+
+"The consequences were absolute. Without access to the deep minerals, the alloys that the Thinking Machines required couldn't be produced. The machines themselves, when they broke, couldn't be repaired. After some time, the last functioning Thinking Machine went silent."
+
+He paused.
+
+"And with it, the knowledge those machines had been calculating."
+
+The third blackboard drifted into position. The diagram on this one was different from anything that had preceded it. Not a schematic or a timeline, but a circular pattern of interlocking symbols.
+
+An enormous spell matrix. The complexity was staggering. Hundreds of individual glyphs arranged in concentric rings, each ring rotating at a different conceptual frequency, the connections between them forming a web so dense that the chalk lines merged into a solid mass at certain intersections.
+
+"This," Hagen said, "is what they were calculating."
+
+The amphitheater went still.
+
+"Recovered across hundreds of expeditions spanning four centuries. Assembled from fragments found in collapsed laboratories, sealed vaults, sunken archives."
+
+His voice dropped.
+
+"The old civilization, in its final decades, was developing a banishment matrix. A spell of sufficient power and complexity to sever the dimensional bridges that the Sins use to anchor themselves to our reality."
+
+He let the words land.
+
+"An expulsion. A fundamental restructuring of the barrier between dimensions that would make it impossible for extra-dimensional entities to maintain a presence in our world."
+
+He turned to face the audience directly.
+
+"The end of the Sins."
+
+The silence that followed wasn't the polite emptiness that had greeted Mercer. This was the silence of hundreds of people processing something that rewrote the boundaries of what they believed was possible.
+
+"They failed," Hagen continued. "Not because the theory was wrong. The mathematics, as far as we've been able to reconstruct them, are sound. They failed because the calculations required to calibrate the matrix exceed what any human mind — or any team of human minds — can accomplish."
+
+He touched the blackboard. His fingertip found the dense center of the circular pattern.
+
+"The matrix requires real-time computation during activation. Thousands of variables adjusting simultaneously in response to dimensional feedback. The old civilization built their Thinking Machines for exactly this purpose. When the machines were lost, the matrix became theoretical. A door without a key."
+
+He stepped back from the blackboard. His hands found the podium's edge.
+
+"House Hexenzeit has been working to build a new key."
+
+The fourth blackboard emerged. This one held a diagram that was part engineering schematic, part magical notation.
+
+"We cannot replicate the Thinking Machines. The minerals are gone. The Durak-Kel hold the deep veins and show no inclination toward negotiation or trade. The material foundations of the old technology are, for the foreseeable future, beyond our reach."
+
+His hand traced the new diagram.
+
+"But we have something the old civilization didn't. Something they had only begun to explore before the collapse."
+
+He turned.
+
+"Mana."
+
+The word hung in the air.
+
+"Mana is not merely energy. It is information. Every mana field carries data — resonance patterns, frequency signatures, dimensional coordinates. A skilled mage doesn't just channel mana. They read it. They interpret the information encoded in its flow and translate that information into effects."
+
+His fingers moved through the diagram's architecture.
+
+"What we are building is a framework that uses mana itself as both medium and processor. Instead of components performing operations, our framework uses layered mana fragmentation to achieve the same result."
+
+He drew a line in the air with his finger. A trail of light followed the gesture, tracing the path through the diagram.
+
+"Mana, fragmented into discrete packets at varying densities, can be organized into logical sequences that mirror the operations a Thinking Machine would perform. Each packet carries a defined value. Each interaction between packets produces a defined output. Chain enough interactions together in the correct sequence, and you have thinking."
+
+His eyes swept the amphitheater.
+
+"A Thinking Machine built from magic instead of metal."
+
+The murmur began. A low, spreading sound that started in the noble tiers and climbed toward the faculty galleries.
+
+Hagen raised a hand. The murmur subsided.
+
+"We are not there yet," he said. The admission was delivered without embarrassment. "The current prototype operates at a fraction of the speed the banishment matrix requires. The fragmentation process is energy-intensive. The error rate in interactions exceeds acceptable thresholds for real-time calibration."
+
+He paused.
+
+"But we are closer than anyone has been in four hundred years."
+
+He straightened.
+
+"House Hexenzeit's projection, based on our current rate of progress and the resources we intend to commit, is that a functional Mana Computation Engine capable of supporting the banishment matrix will be operational within ten years."
+
+He let the timeline hang.
+
+"Within ten years, this war ends. Not through the expenditure of lives that has defined our conflict with the dimensional invaders since before any living person was born."
+
+His voice found its final register.
+
+"Through banishment. The Sins expelled from our reality, and the bridges they crossed sealed behind them."
+
+He stepped back from the podium.
+
+The applause broke.
+
+Hundreds of hands striking together. Voices rising above the clapping in shouts that ranged from academic approval to something rawer, something closer to the sound a trapped animal makes when it sees the cage door opening.
+
+The nobles in the lower tiers were on their feet. The faculty in the upper galleries had abandoned their notes. Students who had slept through three presentations were standing on their seats, craning for a better view of the stage.
+
+The ovation lasted two full minutes.
+
+I didn't stand.
+
+I sat in the middle tier with my hands in my lap and watched the amphitheater shake and thought about chess.
+
+The presentation wasn't academic.
+
+It was political.
+
+Every word Hagen had spoken was focused on the promise of triumph. It had been designed to accomplish something that had nothing to do with computation or banishment matrices.
+
+The great houses of Silberwald aligned themselves along fault lines defined by how they believed the war should end. The factions had crystallized around the three imperial siblings, each one representing a different answer to the question that had defined the empire for generations.
+
+Princess Elara's position was coexistence. The Sins and the entities they'd brought were permanent features of reality. The ultimate goal was accommodation. A negotiated equilibrium where human civilization and extra-dimensional presence learned to share the world.
+
+Prince Varen's position was eradication. Every entity that had crossed the dimensional barrier was an invader. The war would end only when the last elf, the last dwarf, the last Sin destroyed or driven back through whatever breach had birthed them.
+
+Prince Kasimir's position was less defined. His wish had always been to end the war, but without battles. Which had been impossible at least until now.
+
+Banishment.
+
+A third path was born. The Sins expelled through magical computation. It was elegant. It was humane. It was, on its surface, the solution that cost the fewest lives and carried the greatest promise.
+
+And it required House Hexenzeit.
+
+Roderich von Hexenzeit had chosen his prince.
+
+Kasimir.
+
+Give us a decade, and we will solve the problem that has defined our civilization since its founding.
+
+The applause was still echoing when Hagen's eyes moved across the audience.
+
+They found me.
+
+The recognition was immediate. I saw it arrive in the fractional widening of his pupils.
+
+He knew my face.
+
+From the Chronicle, perhaps. From whatever intelligence the Hexenzeit apparatus had gathered about the Hero of Grezheim.
+
+His gaze held mine for three seconds. Four.
+
+Nothing passed between us. Just the flat, evaluative contact of two people recognizing each other across a distance.
+
+Then his chin dipped. A bow to the audience.
+
+He turned from the podium. The organizer stepped forward. The audience's ovation began its slow descent from ecstasy to the merely enthusiastic.
+
+I rose from my seat.
+
+The aisle was clearing as the crowd moved toward the exits, animated by the buzzing energy of people who had witnessed something they would discuss for weeks. Conversations erupted in clusters around me.
+
+"Ten years, he said. Ten years and the Sins are gone —"
+
+"— the Hexenzeit resources alone must be staggering. The crystal consumption for a computation engine of that scale —"
+
+"— Kasimir's people must be dancing. This hands him the succession on a silver —"
+
+"— but can it actually work? The theoretical foundation is four thousand years old. Reconstructed from fragments —"
+
+I moved through the noise without contributing to it. My mind was running its own calculations.
+
+The throne will be secured even if they fail. The political support has already been obtained. But what if they do fail? We won’t have advanced in the war, and our opponents will only have grown stronger.
+
+I shook my head, letting the thoughts drift away for a moment. There was something I needed to finish first.
+
+The Academy's dormitory wing was quieter than the rest of the campus. The end-of-year presentations had drawn most of the students to the amphitheater or the reception halls where the post-symposium socializing was already generating the particular noise of young mages comparing notes and competing for the attention of visiting patrons.
+
+The corridors were mostly empty. Narrow passages of pale stone, lined with identical doors, each one marked with a brass plate bearing a room number and, below it, a name card that could be slid in and out of a small frame.
+
+I walked past dozens of them.
+
+The door I was looking for was at the end of the east corridor.
+
+The name card was still in its frame.
+
+K. VON HEXENZEIT
+
+The enrollment was technically active. I had been a registered student at the time of the Academy expedition. The expedition had been an official Academy function. Whatever had happened afterward hadn't generated the administrative paperwork required to formally terminate my enrollment.
+
+Bureaucracy. The one force in any world that outlasted wars.
+
+The room was exactly as Kaspar had left it.
+
+The desk was buried.
+
+Notebooks. Stacked three and four deep, their leather covers marked with numbers that corresponded to the experiment log I'd seen in the memory. Papers fanned across the surface in layers.
+
+The shelves above the desk held more. Volumes pulled from the Academy library and never returned. Reference texts on mana theory, biological engineering, alchemical process design.
+
+The bed was made. The sheets were tight. A thin layer of dust covered everything.
+
+I stood in the doorway and looked at the room.
+
+A life compressed into nine square meters. Every surface devoted to the single, consuming obsession.
+
+I stepped inside. Closed the door behind me. I began with the desk.
+
+The notebooks came first. I opened each one, scanned the contents, assessed whether the material had value and sorted accordingly. Two piles formed on the bed. One for material worth keeping. One for material that was too closely tied to the failed experiments to justify carrying it.
+
+The keep pile grew faster than I'd expected.
+
+Kaspar's research wasn't limited to the monster-compound experiments. Interspersed between the experiment logs were pages of theoretical work that ranged far beyond the objective of Circle awakening. Notes on mana flow dynamics. Observations about the interaction between organic tissue and ambient mana.
+
+Genius wasn't hyperbole. It was an understatement.
+
+I packed the notebooks carefully. The theoretical material went into a canvas satchel I found in the trunk. The experiment logs followed. The loose papers — diagrams, compound formulas, supplier contacts — were folded and tucked into the spaces between the notebooks.
+
+The process took hours. The light from the window shifted from afternoon gold to the deeper amber of approaching evening, then faded entirely, leaving me working by the Mana-glow strip that hummed overhead.
+
+When I finished, the satchel was full. The room was stripped of everything that mattered. I stood in the doorway one final time.
+
+Three weeks remained before the Knight Formation School began.
+
+But the preparation was done.
+
+The board was set. The pieces were in motion.

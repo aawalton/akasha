@@ -1,0 +1,257 @@
+---
+id: eb1b7dfc-3453-598c-81ee-1747e266cd06
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1: [Initiating Curse]"
+slug: 0001-chapter-1-initiating-curse
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 1
+ownLength: 2071
+unit: words
+publishedAt: 2026-04-06
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3237145/chapter-1-initiating-curse"
+royalRoadId: "3237145"
+---
+
+"We are about to open the gate!” a man shouted from a raised platform inside the dungeon.
+
+He wore long purple robes. Symbols stitched and emblazoned across the fabric marked him as high nobility, or something close to it. His voice cracked like a whip through the cavern, loud enough to drag every last pair of eyes in his direction.
+
+I was close enough that the sound made my ears ring. I flinched, blinking hard, trying to piece together what—where—I was.
+
+In front of me sprawled an encampment. A sea of tents stretched across the cavern floor in the hundreds, maybe thousands, packed so tightly the paths between them looked like veins cut through pale cloth.
+
+My first thought was that the students had built them.
+
+How do I know that?
+
+The young men and women surrounding me wore almost identical robes, differentiated only by color and a few insignias that seemed to indicate rank or discipline. The theory felt even more solid when I took a better look at the tents. They were… bad. Sloppy seams, uneven poles, sagging lines, half of them looked like one good gust of wind would fold them in on themselves.
+
+Yet, somehow, I was the only one looking at any of it.
+
+Tomb-like structures and carved symbols dotted the cavern walls and jutted out of the stone in places, ancient and deliberate, but the students paid them no mind. Their attention wasn’t on the camp, or the carvings, or the oppressive feeling of being underground.
+
+Every eye was locked on the colossal door at the far end of the cavern.
+
+Calling it a door felt wrong. It was a gate, more like a monument than an entrance. So huge that if you stacked thirty people on one another’s shoulders, you still wouldn’t reach the top. It looked like it had been forged from a single slab of metal, seamless and impossibly thick. Its surface was packed with thousands of intricate symbols—runes, glyphs, spirals that intersected and braided together like living script.
+
+What unnerved me most was that it reacted.
+
+Whenever someone drifted too close, the symbols shimmered. One after another, they lit. Colors shifted and swirled across the metal, reflecting off the cavern walls and painting everyone in a dim, mystical glow.
+
+The whispers around me weren’t about how beautiful it was.
+
+They were all circling the same question.
+
+“What lies beyond the gate?”
+
+No one had an answer. Least of all me.
+
+The man standing atop the podium stepped down, walking in my direction and weaving through the students. When he saw me, he curled one side of his lip and wrinkled his nose, as if I disgusted him.
+
+“Kaspar. Don’t just stand there, you piece of shit,” he shouted, his voice almost bursting in my ear.
+
+Kaspar? The name floated up in my mind like something half-remembered and misplaced.
+
+Kaspar. Is that who I am?
+
+The more I tried to hold onto it, the stranger it felt.
+
+Inside my head, conflicting memories pushed and pulled, two distinct lives overlapping like shadows cast from different angles.
+
+One set felt sharper. Realer. Faces, smoke, sirens.
+
+Fire.
+
+I remembered a father vanishing into flames again and again, dragging strangers out as if his own life was a thing he could spend. I remembered a boy—me?—watching and thinking that heroism looked an awful lot like suicide.
+
+And then… nothing.
+
+I had died.
+
+At least until earlier today, I thought, and my gaze slid back to the gate and the mass of bodies surrounding it.
+
+The other memories were hazy, fragmented. Bits of unfamiliar faces, places I didn’t recognize, conversations that didn’t belong to me. I couldn’t tell if they were mine at all or the leftover pieces of someone else’s life jammed into my skull.
+
+“Don’t stand there! You all need to proceed to the gate!”
+
+He shouted again snapping me back.
+
+“But, professor, what if there’s something dangerous?” a boy called out. His voice wavered, fear bleeding through.
+
+“Use your magic!” the professor barked. “You have trained for this, spent the last three years at the Academy preparing for such moments. Apply what you’ve learned!”
+
+“Three years? We’re first-years!” the boy shot back, scrambling for support in the murmuring crowd.
+
+The professor’s expression tightened, anger grinding into something uglier. “Don’t give me that. You’re the ones who asked to be here. Now you are, and if anyone gets the shitty idea of trying to run—” He drew in a deep breath, like he was trying not to explode. “Expulsion and exile won’t be enough. I’ll beat you myself. So get in the fucking line and march.”
+
+My stomach turned.
+
+Academy? Three years? First-years?
+
+None of it fit. I didn’t remember attending anything. I didn’t remember volunteering to be here. I didn’t remember asking for any of this.
+
+Without thinking, I took a few steps backward, trying to separate myself from the press of bodies.
+
+It was pointless.
+
+Soldiers ringed us on all sides, keeping the formation tight, herding us forward with the casual certainty of men who knew no one would resist.
+
+When they were just humans, I could find a way to avoid them.
+
+But I couldn’t stop staring at the others.
+
+The ones in armor.
+
+They wore heavy plate that looked otherworldly, etched and inlaid with glowing runes and symbols. Their helmets were closed, faces hidden, and sometimes the only thing visible through narrow slits were their eyes, cold and unreadable. They carried shields nearly as tall as they were in one hand, and in the other they gripped staves crowned with blue crystals that caught the cavern light like trapped lightning.
+
+They moved like an army marching into war.
+
+The way they positioned themselves made it clear: there would be no escaping this crowd.
+
+I can figure out who I am later, I told myself, forcing air into my lungs. When I’m back at my tent. When this is over.
+
+The ground sloped downward as we advanced, funneling us deeper into the cavern, closer to the gate, closer to whatever waited beyond it.
+
+“It’s opening!” a boy shouted, pointing ahead.
+
+A hush fell, heavy and immediate, as we reached the lowest point of the cavern.
+
+At the foot of the gate, a man stood alone.
+
+His hair was obsidian-black and flowed like ink, and his arms were outstretched as if he were holding up the world. In each hand, he wielded three rings of swirling cerulean energy rotating so fast I couldn’t make out the writing inside them. Strands of light snaked outward from him and latched onto the monumental door.
+
+I couldn’t look away.
+
+Energy filaments struck the gate, and the cavern filled with the sound of metal grinding against metal. A narrow crack appeared between the massive doors, then widened, slowly, reluctantly, like the world itself didn’t want to let go of what was sealed inside.
+
+Darkness leaked out.
+
+A void so complete it seemed to swallow light rather than merely block it.
+
+My heart hammered.
+
+What could be inside?
+
+“They had to summon a Six-Ring Mage to open it,” someone whispered near me, voice tight with fear.
+
+The murmurs around us thickened. “A Six-Ring Mage and Magik Armors, assisting the Academy? That’s unheard of!” Another student sounded half-awed, half-terrified.
+
+“Shut the fuck up and start casting protection spells,” a boy in a more worn robe snapped. He sounded older, upper-year, maybe. “This is why I didn’t want to be stuck with the first-years.”
+
+As we moved, some of the students around me began to glow. Blue rings formed around their arms. Circles that pulsed as they chanted in low, rhythmic tones.
+
+I stood among them, lips moving to mimic the chant, trying to look like I knew what was happening.
+
+Nothing worked.
+
+No ring formed around my arm.
+
+What... what should I do?
+
+A shout thundered from ahead.
+
+“It’s open! Charge!”
+
+The command slammed into the cavern walls and came back twice as loud.
+
+The doors were open, yawning wide like the mouth of some beast.
+
+Despite the ominous black beyond, the procession began to move. Thousands of us advanced as one. Some kept chanting with their eyes closed. Others clutched talismans. A few whispered prayers like they were bargaining with whatever listened.
+
+Some looked like they were about to cry.
+
+I felt cold crawl down my spine even though the air was stale and heavy. My heartbeat grew loud enough that for a moment it felt like everyone could hear it.
+
+I glanced back.
+
+Soldiers blocked the rear, turning away anyone who tried to slip out. Ahead of us, more of the armored soldiers marched with bold, confident steps, as if courage could be contagious.
+
+One more step. One more step.
+
+I matched the mantra to my feet.
+
+I should have a weapon. Something.
+
+The panic rose, sharp and fast.
+
+I didn’t know what waited beyond the doors. I didn’t even know who I was.
+
+As the last of us crossed the threshold, a blinding light exploded from above.
+
+I threw an arm up to shield my face, but the glare forced itself through the gaps between my fingers.
+
+In the next heartbeat, the world became chaos.
+
+Flames poured from the ceiling in violent torrents. The heat was immediate, brutal. Scorching air rolled over us in waves that made breathing feel like swallowing fire.
+
+Something moved above. Huge shadows cutting through the light, winged and fast.
+
+“What’s happening?” I choked out, but my voice vanished under the roar of the inferno.
+
+An acrid liquid rained down.
+
+It splattered against the stone and ignited on contact, blooming into sheets of flame that crawled outward. Fire licked at the edges of cloaks, kissed boots, devoured anything it touched.
+
+Around me, students survived it.
+
+A shimmering aura wrapped around them. A bright barrier flared and held the burning liquid back. Their shields of magic glowed like living glass, flexing with every impact.
+
+I had no shield.
+
+The first splash narrowly missed me and ate into the stone at my feet with a hiss and a hungry flare. Instinct drove me down into a crouch, trying to make myself smaller, trying to vanish.
+
+It can’t be real, I told myself, panic rising so fast it tasted metallic. What am I supposed to do?
+
+My moment of shelter didn’t last.
+
+I looked up and saw them.
+
+Large shapes soared overhead, bathed in firelight. Reptilian bodies, scales gleaming like heated metal. Broad wings beat the air with enough force that I had to brace a hand against the ground to keep from being shoved over. Their rear legs were muscular, ending in hooked claws. Their long tails whipped and swayed as they banked and dove.
+
+Wyverns.
+
+The word lit up in my mind with awful clarity, drawn from both sets of memories at once. From the sharper life I remembered a game, something with monsters like these. From the other, hazier life, I remembered a book, a saga, stories where creatures like this burned villages into ash.
+
+One of them turned.
+
+Its gaze locked onto me.
+
+It opened its maw, and fire erupted, aimed straight at where I crouched.
+
+I didn’t have time to move.
+
+The inferno hit me.
+
+Pain consumed everything. My robes ignited instantly, fabric going up as if it had been soaked in oil. The burning liquid sank into the cloth and clung to my skin, refusing to let go.
+
+I screamed.
+
+It wasn’t a word. It was something raw, ripped out of the deepest part of me.
+
+The others kept moving.
+
+Their shields held. Their chanting continued. They didn’t look back. They didn’t react. It was as if I wasn’t there. Like I was already dead, and only my body hadn’t realized it yet.
+
+“Help me!” I tried to shout, but my voice came out broken, strangled by smoke and agony. The battle sounds swallowed it whole.
+
+My skin blistered. Peeled. Every nerve burned with a pain so complete it made my thoughts stutter and break apart. My vision blurred, darkening at the edges as smoke invaded my lungs.
+
+Not again
+
+The memory of dying in flames stabbed through me like a knife.
+
+Is this how it ends?
+
+Time stretched. Seconds became hours. Every moment was carved into me in excruciating detail.
+
+In the middle of that torment, something shifted.
+
+As my sight dimmed, symbols appeared before me.
+
+[Initiating Curse]
+
+[Achievement Obtained: You have died]
+
+[Reward: Unlocking Memory]
+
+[Restarting Day]

@@ -1,0 +1,155 @@
+---
+id: 9f0e746a-f8c4-518b-835a-8eab955fad90
+page-type-slug: story-chapter-royal-road
+title: "Chapter 25: The First Dough of Many"
+slug: 0025-chapter-25-the-first-dough-of-many
+partOf: underworld-bread-mage-yuri-progfan-slice-of-life
+position: 25
+ownLength: 1717
+unit: words
+publishedAt: 2026-08-13
+link: "https://www.royalroad.com/fiction/179650/underworld-bread-mage-yuri-lit-rpg-slice-of-life/chapter/3808511/chapter-25-the-first-dough-of-many"
+royalRoadId: "3808511"
+---
+
+The late afternoon arrived silently.
+
+With most of the work around the house done, both Marina and Mellie returned to their endeavors. The hut was now much quieter than it was in the morning, except for the periodic disturbance coming from Mellie’s floral lab. Hecate was still missing, which worried Marina more than she expected. Unease stirred in the back of her mind as she sat all by herself, wondering if this was all just an act of mischief.
+
+On the table in front of her was a piece of yellow parchment paper.
+
+Before she arrived in the Underworld, she had baked a loaf of sourdough just a few days prior, though now it’s left to grow stale in her kitchen pantry.
+
+“We have the starter and a flour replacement. Now just need to find something to bake it in,” Marina muttered, twisting the quill pen with her fingers. “There is an oven in the bakery… but not sure if we will be getting back anytime soon, not before Mellie can come with us.” She recorded the recipe. “My quest asks for cornbread, which I haven’t made in a while. Definitely need to do some testing.”
+
+One of the ideas she had in mind was a simple flatbread. It’s a recipe that required no oven and, most importantly, it could also test the gluten structure of the pollen grinds. Now that she had acquired raw milk, something as delicious as honey butter was also at her disposal as a condiment.
+
+“Mellie!” She called.
+
+“Miss Marina.” Mellie poked her head out the door. “What’s wrong?”
+
+“Do you mind if I borrow some of your pollen grinds?”
+
+“Sure, just come in the lab.” Mellie nodded. “What do you need it for?”
+
+Getting up from her seat, Marina walked over. “I want to try to make some bread with it.”
+
+“Oh, I thought you didn’t like the bee bread we had before…” Mellie tilted her head.
+
+Marina stepped through the wooden door frame. “Yeah, no, I did not, because I don’t consider them to be actual bread, Mellie.”
+
+The bee breads were very much on par with the worst atrocities ever committed in the food world, much like pineapples on pizza.
+
+“Do you need any tools or anything?” Mellie asked.
+
+Looking around the room, Marina moved to an empty countertop placed at the opposite end of where all of Mellie’s primitive equipment was. “I need a really big bowl, and some water.”
+
+“Okay.” From the bottom of her workstation, Mellie lifted a large wooden bowl. Perfect for what Marina had planned. “Oh,” Mellie paused as she set down the bowl in front of Marina. “Can’t forget the pollen grind.” She picked up one of the stone jars from under the tables. “Here.”
+
+“Thank you,” Marina replied before opening the stone jar, letting the earthy fragrance escape.
+
+She ladled in around four to five scoops of pollen grinds into the bowl. Conveniently, Mellie passed her a bowl of water at just the right moment. Without measuring, she poured in a stream of liquid. The moisture nourished the dryness of the grain, bestowing a sticky, dough-like structure around her fingers as she mixed with her hand. It did not take long for her to realize the true difference between regular flour and pollen grinds. The dough made through this method was quite crumbly due to the lack of gluten content, which was important to keep in mind. After a few rounds of adding more water and pollen grinds, a usable dough finally formed within the bowl.
+
+Removing the dough from the bowl, she continued with the next step. Flatbreads could be rolled into shape with a rolling pin, but only under the circumstance that the dough has enough gluten to hold its shape. With a dough of this delicacy, forming by hand was her only option. She dusted the countertop surface with pollen grinds before pressing the dough flat with her palms, rotating the disc a quarter turn with each press, until it sat thin and even.
+
+“Miss Marina,” Mellie peeked from behind. “What kind of bread is this?”
+
+“It is called a flatbread because you know, it’s flat.” Marina gently set the finished dough back into the bowl. “And we will have a chance to taste it tonight.” She headed to the nearest bucket of water to rinse her hands. “In the meantime, I need your help on something else, Mellie.”
+
+“Sure.”
+
+From her [Inventory], Marina reached for the mysterious seed packet granted by the last quest. “I got these seeds here. Do you happen to know what they might grow into?”
+
+“Let’s see,” Mellie studied one of them on her palm. “They don’t seem to be any plants I have encountered around the forest. Where did you get these?”
+
+“Oh, uh, it was a gift from a friend,” Marina said.
+
+“Mmm… unfortunately, I can’t really tell what plant this could be. A lot of flower seeds share the same type of hard shells.” Mellie examined.
+
+“I see.” Marina nodded. “Can I plant one in your backyard?”
+
+“Yeah, but I’m not sure if you will still be around… when it grows up,” Mellie said, lowering her head.
+
+“Well, it’s not like we are in a rush to leave. Might even stay a little longer than what the chief asked,” Marina said. “And who knows? Maybe this thing grows in a day.”
+
+“But I have never seen a plant grow that fast…”
+
+“Uh, just like you said, this isn’t from the forest, so it might grow differently.” Marina pushed in her chair as she stood up. “Why don’t we find out together?”
+
+“I… I would love that.”
+
+*****
+
+Stabbing her shovel into the ground, Marina looked back to measure the distance she took from the hut. Though she did initially want to plant the mysterious packet of seeds in Mellie’s backyard, there might still be a possibility of whatever monstrosity sprouting from these seeds destroying the cozy house.
+
+Hecate isn’t here to protect me this time… need to be more cautious. Marina began to dig a small hole in the grass, revealing the dark brown dirt beneath. “Here goes nothing.” A singular seed slipped from Marina’s palm as she quickly took many steps backwards, preparing for an unpleasant surprise.
+
+Soon, small gray-colored roots grew from the seed, sinking deeper into the dirt below. Marina watched as a small tree germinated from the ground, rising twenty feet into the air, and at first the branches were completely devoid of leaves, but it took no time at all before they were covered in a stylish blue like the rest of the forest.
+
+“It’s a tree?” Mellie stepped from behind.
+
+“Wait.” Marina blocked with her left arm. “I think it’s still growing.” She continued to observe closely, not letting her guard down.
+
+Flowers bloomed from the thin branches for only mere moments before withering. Blue petals fell down slowly, floating along the calm breeze brushing through the plain. Large, plump fruits began to replace the blossoms, dangling from the tree as if hanging by a single thread.
+
+“Apples!” Mellie exclaimed.
+
+“Apples?” Marina questioned. “Why are they blue?”
+
+“Growing up I’ve only seen blue apples.” Mellie said, “Are they a different color in the cities?”
+
+“Oh, uh, no you’re right.” Marina corrected herself. This doesn’t really help with my cause at the moment. Maybe the next quest is an apple fritter or something?
+
+“Should we grab one and have a taste?” Mellie asked.
+
+“Problem is, I don’t think we can even reach the closest one.” Marina pointed. “Maybe if you try flying up…”
+
+“I-I can’t, it’s too high up…”
+
+It’s only five feet off the ground at max… Marina sighed. “If that’s the case, one of us can try to stand on the other person’s shoulder.”
+
+“Miss Marina, can you be on top…?”
+
+“Yeah, I’m ready when you are.”
+
+After several minutes of getting into position, Marina finally found her footing upon Mellie’s shoulder while leaning forward against the tree for better balance.
+
+“A little to the right!” Extending her arm, she reached for the closest apple. “Just a little more!”
+
+“What about now?” Mellie began to stumble.
+
+“Just a little bit back.” Marina said, “We are almost there.”
+
+“Miss Marina, I don’t think I could keep this for much longer!” Mellie’s feet grew more and more unstable, nearing the point of toppling over. “What about now–”
+
+A steady footstep approached amidst the chaos.
+
+“My, my, what do we have here?”
+
+“Hecate!” Marina turned sharply, disregarding the situation that she was currently on top of. And with a shift of balance, the two of them fell in a backward motion.
+
+Thud!
+
+“Ow! My back!” Marina grunted. “Oh, Mellie, I’m so sorry. Are you alright?”
+
+“Yeah… Miss Marina… I’m okay…” Her completely exhausted voice said otherwise. “Did you get the apple at least?”
+
+“Uhh, I was very close,” Marina muttered. “But not close enough…”
+
+“What is it that the two of you are trying to accomplish here?” Hecate asked. “And also, my dear, where did this tree arrive from?”
+
+“You know the seed packet I got from last time?” Marina held it in her palm. “Apparently these are seeds from apple trees.”
+
+“Ah. Apples. They are wonderful fruits.” Hecate swung her hand as one of the plump, blue fruits fell from the branches. “Here, my dear.” Grabbing the apple from the ground, she handed it to Marina.
+
+“It shapes like an apple, but it has the same blue color as the corn we harvested.” Marina scrubbed the surface with her sleeve, then she took a bite.
+
+“How is it, Miss Marina?” Mellie moved to sit beside her.
+
+“It has an amazing mix of sour and sweet, texture is also on point–very fitting fruit for desserts or a jam of some kind.” Marina nodded. Though this doesn’t taste like an apple at all, it tastes like a… pear.
+
+“That is good to hear, my dear.” Hecate smiled. “Oh, right. While I was out on an errand, I also decided to bring back some of the meat we hunted the other night.” She said, gesturing to the gigantic leg quarter of the boar behind her. “You got any inspirations for supper, my dear?”
+
+“Well, I didn’t.” Marina looked down at the pear-tasting apple. “But now I sorta do.”
+
+“...”

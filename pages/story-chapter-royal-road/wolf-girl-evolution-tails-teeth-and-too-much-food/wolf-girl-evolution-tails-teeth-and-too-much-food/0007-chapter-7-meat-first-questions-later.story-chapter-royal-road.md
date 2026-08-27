@@ -1,0 +1,173 @@
+---
+id: 33608f93-3f94-572e-99da-9185ecda1745
+page-type-slug: story-chapter-royal-road
+title: "Chapter 7: Meat First, Questions Later"
+slug: 0007-chapter-7-meat-first-questions-later
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 7
+ownLength: 1468
+unit: words
+publishedAt: 2025-08-23
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2542007/chapter-7-meat-first-questions-later"
+royalRoadId: "2542007"
+---
+
+PoV Luna
+
+Luna was the first up. Again.
+
+The den was still heavy with sleep, wolves curled in lazy heaps, breath steaming faintly in the cool dawn. She yawned wide, stretched until her back legs quivered, and padded a slow circle at the clearing’s edge.
+
+Her nose lifted. The strange scent from the night before clung to the air still, thin but present. Damp, old, neither prey nor pack. It tickled her whiskers and made her ears twitch.
+
+But her stomach had priorities.
+
+She gave the scent a last huff, then dropped her muzzle to the dirt, tail swaying in a determined rhythm.
+
+Food first, questions later!
+
+The forest answered with a crisp trail. Musk of squirrel, sharp and faintly nutty.
+
+Luna followed, paws quiet on the underbrush, tail stiff with focus. Her ears swiveled, catching the scatter of tiny claws across bark, the twitch of leaves above.
+
+She crouched, nose wrinkling. The squirrel was close. She crept forward, every pawstep placed slow, deliberate. Her tail wriggled once, then stilled.
+
+The moment came, and she pounced.
+
+Strike carved through the air. Claws scraped fur, momentum carrying her into a snapping bite. Teeth met soft flesh. The squirrel stiffened, then sagged without even a squeak.
+
+Her tail wagged furiously. Quick. Clean. Getting good at this.
+
+【Bite Lv.4 → Lv.5】
+
+Her chest puffed, ears perked high. Then another window lit her vision.
+
+【Level Up: 1 → 2】 【Stat Increase: Strength +1, Agility +1, Vitality +1】 【Skill Proficiency Bonus Applied】 【New Skill Unlocked: Momentum Claw Lv.1 – Convert motion into impact. Each step builds stored force, released on strike.】 【You feel slightly less pathetic. Good job.】
+
+Luna froze, prey dangling from her mouth, eyes wide at the flood of words. Her tail wagged anyway.
+
+Important words. Strong words. She understood some of them now, and they felt heavy, like meat in her brain.
+
+But also mean.
+
+“Less pathetic?” she muttered around the squirrel, ears flattening.
+
+That was rude! She wasn’t pathetic. She was an Apex Predator! She had proof hanging limp in her jaws.
+
+Her tail flicked. She couldn’t bite the silly system words. She tried. They hovered just out of reach, tasty-sounding yet untouchable. She snapped her jaws anyway, just to test. The squirrel bobbed in her mouth.
+
+No flavor.
+
+She growled playfully at the invisible text, then flopped down in the dirt to return to what mattered. Food.
+
+Her teeth tore into the squirrel, crunching through bone and fur. The flavor rolled across her tongue. It was better than rabbit, but worse than jerky. She chewed stubbornly, tail wagging slowly, determined to savor her victory even if it wasn’t delicious.
+
+She swallowed the last mouthful with a satisfied sigh, then licked her paws clean. Not great meat, but better than nothing.
+
+Her ears flicked at the memory of the system’s jab. Less pathetic! She bared her teeth in a grin, tail swishing faster. Fine. Maybe she was less pathetic.
+
+But she was also full. Stronger. Smarter. She had a new skill. And tomorrow she would be even less pathetic.
+
+She licked her lips, nose twitching back toward that strange damp scent that still lingered on the breeze.
+
+But first, maybe more meat.
+
+By midday, Luna’s tongue lolled in steady pants and her fur clung with twigs, but her tail still wagged.
+
+Training day had not ended just because her belly was full!
+
+She crouched beneath a low branch, eyes narrowed, claws flexing. Strike tore through the air, her paw carving clean across the bark. Chips rained down, and her ears perked at the faint pulse of progress.
+
+【Strike Lv.4 → Lv.5】
+
+She bounced back with a squeaky yip, then spun toward two rocks set apart like teeth. Perfect. She scrambled up one, bunched her legs, and leapt.
+
+The first time her paws slipped, claws scratching stone, and she tumbled down in an undignified heap. She shook out the leaves, growling half-heartedly, then tried again.
+
+And again.
+
+By the fifth jump, her landing was smooth. By the sixth, her tail wagged in wild arcs.
+
+【Jump Lv.3 → Lv.4】
+
+She spun in place, proud enough to forget the ache in her paws. That was when another idea sparked bright in her skull.
+
+Jump and Strike together.
+
+Her chest thrummed with excitement as she crouched, tail stiff. She sprang, claw cutting through the air in mid-leap.
+
+For a moment, she felt unstoppable!
+
+Then she hit the dirt chin-first, skidding through leaves.
+
+She sneezed out a mouthful of moss, spat a stick, and flopped onto her side. Her tail still wagged. Almost worked. Almost meant genius!
+
+She hauled herself onto a sun-warmed rock, tongue hanging, sides heaving. Leaves clung stubbornly to her fur, but pride shone brighter. She was stronger than yesterday. That mattered more than the stings.
+
+Then her nose twitched.
+
+The scent. Wrong. Stronger now, thick enough to curl at the edges of her tongue. Damp, old, sour in a way that raised the fur along her spine.
+
+Her ears swiveled east, where the trees crowded denser. She stared long, chest tight, but the forest only swayed with the wind. Shadows and nothing else.
+
+She lifted her muzzle higher, sniffing again.
+
+Definitely there. Stronger than last night.
+
+The rustle of undergrowth pulled her ears upright. Not prey. Heavy. Slow.
+
+Her packmates.
+
+Two wolves stumbled into the clearing, pelts ragged, eyes sharp with fatigue. One limped badly, paw dragging with every step. The other bled from a shoulder, crimson matting fur where teeth or claws had torn deep.
+
+The den stirred in an instant. Wolves rose from their rest, ears pricked, tails stiff. Low growls hummed as questions sparked without words.
+
+Luna crouched low on her rock, ears pinned, tail still as stone. Her nose wrinkled against the heavy new layer of wrong that clung to the injured pair. That was the scent.
+
+The strange damp-old-not-prey scent, carried back with them like a shadow.
+
+Her chest fluttered between fear and excitement. She didn’t understand it. She only knew it wasn’t food.
+
+And for once, her belly didn’t grumble louder than her thoughts.
+
+The alpha rose in a heartbeat, chest broad, ears sharp. His growl rumbled low, steady as stone. Around him the pack moved as one, shifting from rest into readiness. No wolf complained, barked or howled. They all slid into positions, ready for anything.
+
+Luna blinked, tail twitching, then backed into the brush at the edge of the clearing.
+
+She wasn’t scared – no, not scared. Just… better positioned. Her tongue poked between her teeth in a nervous pant, but she lifted her chin to convince herself she actually meant it. Good hunters positioned themselves too.
+
+The clearing stilled, every ear pointed east. The injured scout’s chest heaved, blood scent heavy on his fur. His lips peeled back as a growl crawled from his throat, weak but sharp enough to prickle Luna’s ears.
+
+Another rustle answered. It wasn’t a wolf this time. But something heavier, and slower. Each step cracked through branches, the sound thick and deliberate.
+
+Luna crouched lower, belly pressed flat, muscles trembling with ready energy. Her tail stiffened behind her like a branch. The brush around her swayed with her breath.
+
+She sniffed, quick and sharp.
+
+The wrong scent spilled through the clearing in a wave. Damp, old, not-prey, not-pack. It clung to her tongue, coated her throat. She swallowed hard, ears pressed tight.
+
+The bleeding scout growled again, deeper, but his body sagged. Fear mingled with blood on his pelt, sharp and sour. Luna’s nose wrinkled, heart thudding.
+
+Then the scent hit her. It was right here.
+
+Her eyes widened.
+
+Whatever it was had followed them back.
+
+The pack closed ranks, wolves weaving into a semicircle around the den mouth. Their paws dug into the dirt. Their tails lowered into readiness.
+
+Luna’s paws dug too, copying them, though her spot was still half-hidden in brush. Her claws flexed into the soil, chest rising fast.
+
+The sound drew closer. Crunch. Snap. The weight of it shook the ground faintly, enough to ripple through her pads. She couldn’t see it yet, only the shadows between trees, but every part of her body told her something massive was coming.
+
+Her ears rang with the silence of the pack. Not a squeak from the pups, not a huff from the elders. Even the wind seemed to hush, leaving only the crunch of branches.
+
+Luna licked her lips, tasting old bark and blood in the air. Her tail quivered. Her body screamed at her to leap, bite, strike. But her brain – her too-full brain – buzzed with words instead. Wait. Watch. Ready.
+
+She pressed herself tighter into the brush, eyes wide, breath shallow.
+
+The scent thickened until it clogged every breath. Wrong, heavy, close.
+
+Luna’s claws dug deeper. Her chest swelled with the first edge of a growl.
+
+It was time.

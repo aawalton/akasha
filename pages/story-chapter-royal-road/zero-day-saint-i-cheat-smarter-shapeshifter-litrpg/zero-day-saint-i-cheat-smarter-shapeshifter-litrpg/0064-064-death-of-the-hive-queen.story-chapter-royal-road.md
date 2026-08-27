@@ -1,0 +1,175 @@
+---
+id: 09fb750e-ab88-5e3d-a5d6-797a5f8d2586
+page-type-slug: story-chapter-royal-road
+title: "064 - Death of the Hive Queen"
+slug: 0064-064-death-of-the-hive-queen
+partOf: zero-day-saint-i-cheat-smarter-shapeshifter-litrpg
+position: 64
+ownLength: 1941
+unit: words
+publishedAt: 2026-07-31
+link: "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3749386/064-death-of-the-hive-queen"
+royalRoadId: "3749386"
+---
+
+For once, the world had given me a break. On top of the tower, I had cast Seek the Unseen and targeted 'A cluster of 10+ non-sentient Created.' And it had found one. With a lot more than ten Created. Only a half-hour ride this time as the unicorn, away.
+
+An entire twenty-floor apartment building—transformed into a beehive. Of massive, dog-sized bees.
+
+Compared to the rest of the day? It had been a dream. Floor after floor of mindless, slightly honey-flavored carnage. Bees had flimsy little wings, which could be destroyed by just about any attack, leaving them nearly entirely helpless. By the end of it, Helene had gotten close to level 19. And we were completely covered in nectar, pollen, honey, and every other sticky substance I didn't pay attention to in biology class. Along the way, I had even gotten all three First Kill Tasks.
+
+The only issue was the Hive Queen. By the end of this dungeon, our resources weren't exactly stellar. The dogs were all exhausted. I had a handful of ATP left.
+
+So we had made the call to use the opportunity to do some science. To use the serum on Angel's shape.
+
+And what a ride that had been. My memory of the fight was mostly a blur, but the exhilarating feeling had been constant. Instinct firmly took the driver's seat. One thing I did remember was that the serum had literally doubled my Instinct skill level. A swarm of the Queen's bees had attacked me with coordinated attacks, but I had effortlessly woven between them.
+
+I'd even put on the Crown. Which for once, was just plain amazing. The reward didn't fuck with my identity. It just provided a convenient solution to a constant downside to my shapeshifting. The same solution I had already provided for Claire.
+
+A voice.
+
+[Queen's Voice (Passive)
+
+Allows telepathic communication with nearby allies or chosen recipients.Range based on Charisma.One-way only.]
+
+And then there was the crash. I also didn't really remember how I got out of the Hive, but I think Helene had carried me. She'd said something about the serum being both more effective and more straining on me. Which was puzzling her. It was puzzling me, too, but so was every thought. She smelled nice.
+
+When I got back to my senses, the sun was already settling behind buildings. I was curled up on the ground, in some front yard, with the dogs lying around me and Helene somewhere behind. I could smell her there and on me and hear her steady breathing.
+
+["You are burning the candle from both ends,"] I wrote. While I had that new tool, the dogs looked so peaceful. I didn't want to disturb them, and I didn't know how they'd react to a sudden voice in their heads.
+
+"Oh?" Helene replied.
+
+["My physical attributes are many times higher than those of regular dogs. And your serum multiplies them. But unlike other magical boosts by the Blessing, that multiplier isn't free. Going from 4 Strength to 8 and sustaining that requires less energy than going from 20 to 40. A lot less."] I had zero proof for any of this. But thinking back on the diminished life force of her dogs and how intense the serum had been for me, it made sense.
+
+"I suppose you are right. How do you know this?"
+
+I huffed in amusement, which got me the attention of Tibert and Reynard.
+
+["Elaborate guess."]
+
+"I will research this. And I'll try to dilute it. And maybe look for a way to supplement life force in it."
+
+["One more level and change, and it'll be a lot easier, I bet. Just don't pick the class that turns this into a vampire thing. If you turn into a vampire villain-themed mad scientist, that would just be unfair."]
+
+Helene's laughter was a delight. My tail wagged traitorously.
+
+"Oh, how so?"
+
+How could she do this to me? She must have understood. I couldn't lie here, burned out on performance-enhancing drugs and flirt with the hottest lady alive, who'd lost her husband just a week ago.
+
+["Because it would be far too cool,"] I lied. ["I get feathers, kintsugi, and an outfit that's just slightly too leather to not be someone's kink. That can't compete with a red-headed mad scientist genius vampire. With cute dogs. Plainly unfair."]
+
+"Mmmhm, Eve. I must say you are underselling your aesthetics. After how the others talked about you, you vastly exceeded my expectations."
+
+God, why was that accent so fucking hot?
+
+["Only because the Blessing was frustrated that I was the coolest Blessed in New York and still ran around like a teenager with confidence issues. So it gave me the cool outfit."]
+
+"I will keep that in mind for the class consideration. I am guilty of a little vanity. Which is also why I will call 'dibs' on the boat's shower."
+
+I sat up to face her. Yeah, she was covered in everything the Hive had to offer. Just like I was.
+
+["I will not be joining you immediately at the boat. Maybe not at all today. I have business at the tower."]
+
+She just looked at me for a while.
+
+"Are you ashamed of the things you did today?"
+
+["You really have no filter to your questions, do you?"]
+
+"Au contraire. I hold back many questions, Eve."
+
+["Unsettling, Helene. Yes, I am. Yes, I am avoiding returning to the others because I changed my baseline, what I really am, twice in 48 hours. And this time it's worse. I am becoming the poster girl for Hell's propaganda."]
+
+"I admit, I do not wish to be in your place. You are doing things no one else is doing, and the costs are steep. Would you do it again, now that it is done?"
+
+I canceled out of Angel's shape and examined myself. Despite everything, it felt better than the half-dragon. Oddly fitting, when the other one was clearly someone who wasn't me. This felt like the conclusion I was clearly heading toward. Like the corruption meter nobody else got.
+
+"Yes, I think I'd do it again."
+
+Helene clasped her hands. "Voila, Eve. Don't be ashamed of the things you'd do again. If anything, only ever be ashamed for the mistakes you'd fix if you could."
+
+I ran a hand through my hair, only to get stopped by a horn. "Real words of wisdom there."
+
+"If I can't present wrinkles at my age, I should at least present some wisdom."
+
+"Hold up. How old are you?"
+
+Helene laughed again. "Thirty-eight." Only nine years older. That wasn't a problematic age gap, was it?
+
+"... That's not that old, Helene. You really had me for a moment."
+
+Her face turned serious again. "What will I tell the others?"
+
+I turned away and distracted myself by petting the dogs. "I don't know. Not everything. You can tell them you aren't telling them everything. But leave the dramatic reveal to me. You can tell them about the kobolds and the tower. They shouldn't kill kobolds if they can avoid it."
+
+"I can do that. Though the secrecy will worry them. Jamie is an excellent worrier. And the others are gossips. Not knowing will kill them. They might deploy extreme measures to get me to talk."
+
+"Like?"
+
+"A bottle of really good white? Those aren't made anymore. I might get chatty when I'm tipsy."
+
+"If it comes to that, so be it. I appreciate your effort."
+
+Helene stood up. "Do you feel ready to return?"
+
+I nodded. "Yeah. Still woozy, but good enough. I can give you a ride."
+
+"Later. Let us walk a bit, the boys aren't ready to run that far yet."
+
+And so we walked. And talked. Mostly about nothing much at all. There was still a moment I wanted to ask her about. About the Wild Hunt. Having her dogs turn on her must have been a nightmare. But I couldn't ask. Not yet.
+
+Eventually the dogs had recovered enough to run the remaining distance. So I switched to the Nightmare Unicorn to carry Helene to the subway station near the club.
+
+"Do you ever think that it's odd that you'd so casually optimize away your dignity?" Helene asked.
+
+I stopped my run. This time I used the Queen's Voice to respond. "Sorry—what?"
+
+"You clearly don't like doing this. Becoming a beast of burden to carry me. Yet, you do so without even asking if I need this. Just because you can do this doesn't mean you have to. Especially now? What is there to be gained? I arrive at the boat half an hour sooner?"
+
+I continued, mostly because the dogs were wondering why we had stopped. "Every small thing adds up. You might get half an hour more sleep. Or half an hour to work on your chemistry. I can get started on my remaining tasks for the day just a bit sooner. I might get more done. Half an hour of looting that tower might mean I can squeeze in some janitor's closet I'd otherwise miss, which in turn might get you more ingredients you can turn into war crimes. We have less than three weeks to deal with two warlords. No time to care about Eve Anderson being awkward."
+
+"Or that minuscule extra moment of stress today occupies a bit of your mind in an essential moment, distracts you in that crucial microsecond, and you walk right into a trap Mammon left behind."
+
+I huffed. "Much harder to quantify than half an hour. Or even a full hour, since we save half an hour twice. Anyway, does this voice sound like it's coming from somewhere, or does it appear right in your head like your Guide's?"
+
+Helene chuckled. "I see we are done talking about this topic. Very well. It sounds like it comes right from your lips. Distinctly your voice, straight from the unicorn's mouth."
+
+I glanced at my chat. There was no transcription for anything I 'said' through the Queen's Voice. "Do you get any transcription for any of this?"
+
+"No, none at all."
+
+That slightly limited the usefulness of this ability. In the heat of battle, I had to rely on my communication being understood on the first try.
+
+Though, besides me, people tended to not properly pay attention to chat anyway. So maybe it wouldn't be so bad.
+
+We stopped at the subway entrance, where Helene slipped off my back.
+
+"You know the way, right?" I asked.
+
+"Are we parting ways here?"
+
+I looked down at the darkness of the tunnels, and even the Unicorn's instinct was to run away.
+
+"Yes. This is a stress that might be too much for today."
+
+Helene pulled out a flashlight and nodded. "Then, let me thank you for today. It was both an insightful and productive day."
+
+"Sorry for the extended detour. I'd have done this another day if I had known how this simple idea would have escalated."
+
+"Nothing to apologize for. Those insights we got might become very important soon. Oh, also—" she unclasped the Elven Cloak and handed it over. "When you are on your own, you might need that more."
+
+I took it from her but put it in my inventory. I wasn't ready yet to wear Jason's old cloak.
+
+"Thank you. And good night, Helene."
+
+"Rest well, Eve."
+
+I returned to my new real self. "Wait."
+
+Helene, who'd already turned, looked over her shoulder. "Hm?"
+
+I crouched down. "I still have to say good night to the babies."
+
+No therapy in the world could compete with five minutes of getting lost in a pile of furry affection.

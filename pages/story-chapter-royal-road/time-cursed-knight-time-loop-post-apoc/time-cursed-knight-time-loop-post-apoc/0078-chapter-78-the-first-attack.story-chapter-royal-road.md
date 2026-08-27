@@ -1,0 +1,211 @@
+---
+id: a0e89b61-4767-5b1a-9e57-2e46eb342f5d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 78: The First Attack"
+slug: 0078-chapter-78-the-first-attack
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 78
+ownLength: 2323
+unit: words
+publishedAt: 2026-07-02
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3623042/chapter-78-the-first-attack"
+royalRoadId: "3623042"
+---
+
+hings were no better the next time.
+
+I woke next to the gate with a split-skull headache driving in behind my eyes. I knew every beat of the hours ahead.
+
+Get books. Read.
+
+Find a quiet place. Train.
+
+Warehouse at dusk. Slaughter.
+
+Fight Titans. Die.
+
+I read three new books. None of them gave me a weakness. None of them gave me anything.
+
+So I went to fight the mantis.
+
+It came over the northwestern wall at dusk, exactly as it always came.
+
+The defensive dome shattered. The Ashkeri threw their sand. The thing climbed twenty meters of warded white stone and folded its dark glassy wings. It almost looked fragile compared to the beetle.
+
+That was what fooled me.
+
+The beetle had been a fortress. The mantis was thin. Its limbs were long and spare, its body a narrow wedge, and when I read the mana coiling through it there was less of it.
+
+This one's soft, I thought. I can damage it.
+
+"Kaspar, where are you going? We need to get to the exit!" Lena shouted when she saw me heading toward the Titan.
+
+I went up into the rubble of the quarter where it crouched, Mana Breath roaring in my chest. I circled it, looking for the line behind its guard.
+
+The two great forelimbs hung folded against its body. They didn't move. They hung there, patient.
+
+I found my opening at the seam of the thorax, where the wing-root met the body and the plating thinned to a pale membrane. I drove forward, bringing the sword up in both hands for a thrust.
+
+The foreleg unfolded.
+
+I never saw it move. That is the truth of the thing, the truth I carried out of that death and into the next hundred. There was no swing. There was no warning windup, no telegraph, no flow of mana to read and dodge. The limb had been folded and still, and then it was extended, snapped out and back across a distance of fifteen meters.
+
+I felt a line of cold across my throat.
+
+I had a single instant to understand that the cold was the air rushing into a place where my neck used to be.
+
+Then my head came off my shoulders, and the world spun once, lazily, sky and rubble and the underside of that vast wedge-shaped face wheeling past, and the last thing I owned before the dark took it was the dumb, distant thought that the legs were so enormous, so slow-seeming, and that when they reached they were faster than thought and sharper than any razor a man ever stropped.
+
+After that I tried to bring help.
+
+It was obvious, lying in the wreckage of however many deaths. We were three foreigners with sore feet. The Sultanate had twenty thousand soldiers, a whole machine built across two centuries to break exactly this.
+
+So I went to the Knights.
+
+The problem was the sentence I had to say to them.
+
+Three Titans are going to attack this city on the same day, and the third one will be the end of it, and I know this because I have already watched it happen more times than I can count.
+
+Try saying that out loud. Try saying it to a man like Gregor, fourteen months deep in foreign soil, who measures every word he speaks against the chance it gets him killed. Try saying it and watch his face close like a door.
+
+I tried anyway. I tried it gentle and I tried it blunt. I tried dressing it as intelligence, a source, a warning, trust me. I tried weeping. In one life I simply screamed at him until Maren put a blade to my ribs and told me to leave before I brought the Ashkeri down on the whole station.
+
+It didn't matter how I said it. The day ran the way the day ran.
+
+And the one time — the one time — I got them to half-believe me, to agree to hold the warehouse a little longer and wait — I went back through the streets when the second tremor came to gather them for the gate.
+
+The station was empty.
+
+The maps were still on the table, weighted with their brass cups of cold tea. The chairs were pushed back. Gregor and Maren were gone, and there was no note, no blood, no sign of where.
+
+Whether they ran. Whether they found a safe place. Whether they were out there in the dying city somewhere.
+
+Only God knew. I never found out.
+
+Several deaths later I went back to what I had control over.
+
+The alchemy.
+
+The issue was time. Real time, the kind the Curse couldn't refund. The compounds were not things you mixed in an afternoon. Some took days to cure. Some took a week. Whatever I carried at dawn was all I would have. The day wasn't long enough to brew a single new batch of anything that mattered, and the day was the only thing I had.
+
+What I carried, most of it, was already spoken for.
+
+The thunderclap. Experiment #61, the blast and the pale-blue gas. That one I couldn't spend on a Titan. I needed it for the warehouse. The concealment was not a luxury. It helped the three of us get in and out without much fight.
+
+That left me two vials I'd never planned to use.
+
+The first was an antidote. I'd brewed it in the capital against poison, thinking the desert would have something with fangs that wanted us dead, and the desert did, but nothing the antidote answered. I carried it for nothing.
+
+The second was worth trying.
+
+I'd called it a petrification draught, which was a lie. It didn't turn flesh to stone. What it did was simpler. Thrown wet, it flooded into every crack and seam and then it cured. A gray concrete that went from liquid to rock in the space of three seconds. I'd built it to seal a door. To lock a hinge. To make a thing that moved stop moving.
+
+So I threw it at the beetle's legs.
+
+The plan was simple in my head. Glue the great limbs to the road, jam it in the gate, hold it still long enough for the Ashkeri-mages to break its back. I waited until it braced. I read the green light pooling in its gut, and I hurled the vial across the joints.
+
+The gray flooded in. It set. It locked three of the legs to the stone, exactly the way it was built to.
+
+Still, the beetle pulled itself free without noticing, sloughing the cured stone off its chitin like a man stepping out of dried mud.
+
+I tried the mouth next.
+
+If I couldn't pin the body, I'd seal the weapon. I waited for the gather, for the green to pool behind those mandibles, and I threw everything I had straight down its throat.
+
+The vial shattered against the back of its jaw. The gray began to set.
+
+Then the green light caught, and the breath came anyway, and whatever my concrete had been became nothing. Vaporized. The energy crossed the plaza and took me with it, and the last of me was smoke before the road had finished steaming.
+
+I stopped trying to fight it and started trying to talk to someone who could.
+
+I went to the palace.
+
+It took four lives just to learn the road to it, two more to learn which gates a foreigner could pass and which got him a curved blade across the belly for trying. When I finally stood in the right courtyard, in clean robes, with enough Kumsuri to make the words land, I told a steward that the city would fall tonight, that three of the Giants were coming, that the Sultan had to ready the wall for more than one.
+
+They took me for a madman. The desert breeds them by the dozen, men who've stared too long at the dunes and come back raving about the end.
+
+The guard who escorted me out did not bother to escort me far.
+
+I tried the city itself. The market. I stood on a vendor's overturned cart in the commercial quarter and shouted the warning in the cleanest Kumsuri I'd ever spoken, three Giants, get behind the inner wall, get your children below ground.
+
+They laughed. A few threw fruit. A boy with a leather ball stopped to listen for a moment and then ran off chasing the ball, and his mother dragged him by the wrist when the first tremor came, and not because of anything I'd said.
+
+I tried the Ashkeri.
+
+That was the worst of them. I caught a patrol of six in the northwestern lanes and put myself in their path and spoke as plainly as a man can speak, more than one comes tonight, get ready for three Giants.
+
+The bronze masks turned to me. The shadowed eyes behind them measured me. A foreigner telling them how to defend their own wall.
+
+I didn't last long after that.
+
+Each new life was an agony before it was anything else.
+
+The headache first, always, the spike driving in behind my eyes. Then the dawn. Then again the slow, sick understanding that I was here, that I was still here.
+
+I would sit in the gate's shadow with my head in my hands and scratch at my scalp like I could dig the answer out of the bone.
+
+It might be impossible.
+
+That was the thought my mind kept returning to.
+
+Yet I had learned that across a hundred deaths. Every lock had a key, every wall a gap, every monster a soft place if you only died against it enough times to find the seam.
+
+But three Titans had no seam.
+
+I started trying to convince myself the answer was the door I'd refused to look at.
+
+Run.
+
+Take Henrik and Lena and the papers tucked against my hip and go. Cross the desert and live and let Qalathar be Qalathar's problem.
+
+And I almost believed it.
+
+I told myself that if this truly ended the world, Pride would have warned me.
+
+There would be a counter ticking down.
+
+There was no counter. There was no warning. There was only the next loop.
+
+But I couldn't make the argument hold.
+
+Maybe the absence of a warning meant nothing. Maybe Qalathar falling wasn't the end of the world, only the beginning of it. The first stone tipped onto the scale, not the scale crashing down. Henrik had said it himself: the whole world's leaning on the whole world right now, and whoever falls first takes a neighbor with him. The Sultanate held the southeast. Pull this stone and you didn't see the end. You only started it.
+
+Maybe Pride was silent because to Pride this wasn't a punishment at all.
+
+Maybe the silence was the punishment. Maybe there was no answer, and no out, and no door, and the whole point of it was to leave me here forever, scratching at my skull, never knowing whether one more death would crack it or whether I was simply meant to keep dying.
+
+That was the cruelest shape it could take. The doubt.
+
+I won't pretend I held the line the whole way through.
+
+There were lives I spent badly. I'll own them. After enough dawns a man stops being a man and becomes the thing the loop was grinding, and the thing the loop was grinding got tired.
+
+In some lives I didn't fight at all. I woke at the gate, felt the headache twist behind my eyes, looked at the dunes and the wall and I turned around and walked into the first tavern that would have a foreigner's silver, and I drank.
+
+I drank Kumsuri liquor that tasted like oil and honey. I drank until the headache drowned. I drank through the morning tremor and the cobra and the cheers, and I kept drinking. When the second tremor came I was usually face-down on a table and I died there, in the wreckage, without ever standing up. It cost me nothing the world wouldn't give back.
+
+And in some lives, I'll own these too, I got drunk and went to the gate anyway.
+
+I fought the beetle blind drunk, swaying, laughing, swinging my sword at a temple-sized thing with all the coordination of a man falling down stairs. I cut at its legs and rang my blade off the chitin and lost my feet in the gore and went under it giggling.
+
+If it hadn't hurt — and gods, it always hurt, the Curse never once let me off the pain — I might almost call those the only lives in that wretched place I'd want back. There was a freedom in them.
+
+But it did hurt. It hurt every single time.
+
+Anyway. I died.
+
+I had lost count.
+
+That is not a figure of speech and it is not self-pity. I had genuinely, completely lost the count of how many times I had stood in that gate at dawn. I had died and come back and died and come back until the deaths blurred into a single grinding sensation.
+
+The mantis's leg. The beetle's belly. The acid. The Ashkeri's blade. Drink. A scream. A cart. A throne room. Two empty chairs. The dunes that never moved. The wall that never moved. The book that said Weakness: None found.
+
+I was lying in the gate's shadow at the start of one more dawn, scalp raw from scratching, the headache draining out of me the way it always did, watching the eastern wall the way I'd watched it a thousand times, waiting for the serpent's plated head to rise over the stone and the whole machine to start its turn —
+
+When the idea came.
+
+The first attack.
+
+The first one.
+
+"That was it," I breathed.

@@ -1,0 +1,421 @@
+---
+id: f746264a-858e-57c4-a179-89972da90616
+page-type-slug: story-chapter-royal-road
+title: "Chapter 4: Sword"
+slug: 0004-chapter-4-sword
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 4
+ownLength: 2792
+unit: words
+publishedAt: 2026-04-06
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3237180/chapter-4-sword"
+royalRoadId: "3237180"
+---
+
+"Shit. Shit. Shit."
+
+The curses spilled out of me the moment I could breathe again.
+
+I grabbed the nearest piece of clothing and beat it against my knee like it was the thing responsible for my misery. Fabric snapped and flopped uselessly.
+
+Being imprisoned for falling off a chair.
+
+In a life that had already included being burned alive and crushed in a wyvern's jaws, it should not have mattered, yet somehow it did. It felt humiliating in a way the other deaths weren't, like the world wasn't just trying to kill me; it was trying to mock me while it did.
+
+At least now I know where it is.
+
+That was the only thread of consolation I could pull from the wreckage of the last loop.
+
+The swords.
+
+The coat of arms.
+
+The tent.
+
+I could picture the layout perfectly.
+
+Avoiding the guards was easy enough last time, I told myself. I can do that again, just better.
+
+I pushed myself up, rolled my shoulders once, and slipped out of my tent.
+
+The camp still lay in that in-between state where it wasn't fully awake. Most tents were quiet. I dropped immediately into a crouch, letting the shadows swallow the outline of my body.
+
+I left the middle tier behind and climbed the gentle slope toward the upper area. Up here, the tents were straightened and spaced out. The air smelled less like unwashed bodies and more like wax and oil.
+
+It was near the end, I reminded myself, eyes fixed on the orderly row of larger tents.
+
+Each time a guard's lantern swung closer, I flattened myself against canvas or stone and waited until the light passed. Their conversations drifted faintly, half-muttered complaints, bored laughter. They weren't looking for threats.
+
+After some time, I reached the tent.
+
+It looked exactly the same as before.
+
+I didn't approach from the front this time.
+
+With practiced caution, I circled around to the backside, where the tent pressed closer to the cavern wall and the shadows were deeper. I paused, listening.
+
+No footsteps close.
+
+No voices.
+
+I lifted the heavy canvas only as much as I needed and slid inside.
+
+My eyes lifted immediately to the central pole.
+
+There it was.
+
+The ornate coat of arms mounted high. And behind it, crossed like a promise, were the two swords.
+
+I didn't rush this time.
+
+I crossed to the desk, fingers closing around the chair's back. I dragged it slowly, lifting each leg a fraction so it wouldn't scrape.
+
+I positioned the chair beneath the emblem.
+
+Then I tested it.
+
+Press down on one corner of the seat.
+
+Then the next.
+
+Then the next.
+
+A methodical check. Every creak a warning.
+
+Satisfied, I climbed onto the chair.
+
+It held.
+
+No wobble. No shift.
+
+My hands reached up, fingers stretching… and this time the swords were just within grasp. The nearest hilt was wrapped in leather, cold beneath my palm.
+
+I wrapped my fingers around it and pulled, easing it free from its mount.
+
+A soft sching whispered through the tent, far too loud in my mind, yet faint enough that the sleeping officer didn't stir.
+
+I held the sword in both hands for a heartbeat, not moving, listening for any change in breathing.
+
+The officer snored on.
+
+A grin tugged at my mouth despite myself. Relief hit me so fast my eyes stung.
+
+Finally.
+
+I didn't waste time admiring it. I eased off the chair, keeping the blade close to my body, and slipped it beneath my tunic. The scabbard's weight pressed against my stomach. I secured it at my waist as best I could, hiding it under cloth.
+
+The point was that for the first time since waking into this curse, I had something more than bare hands.
+
+I slipped back out the way I'd come.
+
+Outside, the camp was beginning to wake. I kept my hood up, my face down, and moved away from the officers' corridor with quick, quiet steps.
+
+The weight of the sword against my side was… reassuring.
+
+And immediately troubling.
+
+What do I do with this?
+
+Possessing a weapon was one thing. Knowing how to use it was another.
+
+I made my way toward the secluded patch I'd found in a previous loop. A small section of the cavern littered with rocks and jagged boulders, uneven enough that pitching tents there would have been a nightmare. Students didn't wander there. Guards didn't patrol it. It was a pocket of forgotten space inside an overcrowded camp.
+
+I slipped between stones until I found a narrow hollow that hid me enough from those looking outside.
+
+I sank to a crouch, then drew the sword.
+
+The blade slid free with a muted whisper.
+
+In my hands, it looked… wrong.
+
+The balance was light, almost too light. The blade was polished and pretty, but when I turned it toward the faint torchlight, I noticed it immediately. The edges weren't true.
+
+The hilt was worse. Excess of golden decoration, ornate scrollwork that would catch on gloves and clothing.
+
+"It's a decoration," I muttered. "Not a weapon."
+
+Still, a decorative sword could cut if it was swung hard enough. Steel was steel, even when dressed in gold. And if it bought me a single second, a single opening, it was worth having.
+
+I raised it overhead and brought it down in a swift arc.
+
+The movement was ugly. My wrists wobbled, the tip drifting off-line. The blade hummed through the air in a shaky path, and when it stopped, I had to tighten my grip to keep it from jerking sideways.
+
+I tried again. Another slash, another wobble. My shoulders protested almost immediately, muscles burning with unfamiliar effort.
+
+I had strength, just not the kind trained for this.
+
+I began mimicking what I remembered from action movies. The dramatic parries, the quick thrusts, the sweeping cuts. I sidestepped and pivoted, forcing my feet to move with the blade instead of dragging behind it. The sword traced uncertain patterns, neither elegant nor lethal.
+
+"How am I supposed to use this when the time comes?" I whispered, frustration gnawing at me.
+
+I swung again, trying for a diagonal strike.
+
+The blade caught on an overhanging rock with a jarring clang that reverberated up my arms. Pain shot through my wrists. My teeth clenched hard.
+
+"Damn it."
+
+I lowered the sword, breathing hard. My arms trembled, a burning ache settling into my biceps and shoulders as if the muscles were protesting this sudden demand. I flexed my fingers, trying to shake out stiffness that felt far too real.
+
+"This body. It isn't trained for this," I muttered, more observation than complaint now. "Any physical activity is too much for him. What did you do with your life?"
+
+The words were sobering. In my old life, my body had been built for carrying weight, for climbing stairs in heat, for hauling people out of collapsing places. This body, Kaspar's body, felt lean, light, more suited to books and mana and chanting than to steel.
+
+But bodies learned.
+
+They adapted.
+
+And time was the one resource I had that no one else did.
+
+I tightened my grip on the sword again and began again.
+
+The first thing that reached me was the sound.
+
+The ritual was beginning. Even from my little pocket of rocks and shadow, I could hear the camp shifting. Murmured chants threading together, the clink of crates being opened, soldiers marching in formation.
+
+It's time.
+
+I slid the sword back beneath my tunic, tugging the fabric until the scabbard rested flat against my waist. I exhaled slowly through my nose, then rose from between the stones.
+
+A moment later, I melted into the crowd.
+
+To the outside eye, I was just another robe among hundreds. Head down, shoulders drawn in, moving with the tide. But my senses stayed razor-alert. I watched for patrol routes, for officers who might recognize my face, for any sign that the theft had been discovered.
+
+The sword was hidden, but I felt as if it shone through the fabric anyway.
+
+As we drifted forward, the ritual sounds grew louder.
+
+Then a familiar voice cut through the murmur like a knife.
+
+"Kaspar! You son of a—"
+
+My stomach tightened on reflex. I turned.
+
+Blut von Omstr was shoving his way toward me, face flushed red with anger and exertion.
+
+"Where have you been?" he barked. "You neglected your duties! As soon as we're done here, I'll have you assigned so much labor you'll beg to be sent to the frontiers!"
+
+I met his glare and let my face remain still.
+
+In my first loop, words like that would have landed hard. In my second, they would have sparked anger. By now, after being burned alive, caged, crushed, and torn apart, Blut's threats had become background noise. He could promise me a lifetime of punishment and it would mean nothing if I didn't survive the next hour.
+
+"Yes, sir," I said flatly.
+
+The response had no heat in it. No apology. No challenge. Just the correct syllables to prevent him from escalating in front of witnesses.
+
+Blut blinked as if my lack of reaction offended him more than defiance would have. His scowl deepened.
+
+"Worthless," he muttered, and stormed away to find a softer target.
+
+As he moved off, the crowd closed in behind him, and with it came the other kind of hate: the students.
+
+I heard them before I saw them.
+
+"That idiot disappeared all morning," someone sneered behind me.
+
+Another voice, sharper with resentment: "Just because he can't use magic, he thinks he can skip out and study on his own."
+
+"I hate people like that," a third chimed in. "Leaving all his work to the rest of us."
+
+I kept walking.
+
+I didn't turn. Didn't defend myself. They saw me as lazy. Useless. A burden.
+
+None of them saw the corpse-pile of my attempts. None of them heard the screams I'd listened to from a cell. None of them remembered dying.
+
+Trying to make them understand had only ever bought me more deaths.
+
+So I let the whispers roll over my back and focused forward.
+
+Slowly, the grinding began.
+
+The colossal doors started to part.
+
+Darkness spilled out. The crowd pressed forward.
+
+Soldiers braced us from behind. Armored figures moved ahead. Students raised their arms and chanted, rings of blue light spinning around their forearms like halos.
+
+My fingers slid under my tunic.
+
+I drew the sword.
+
+The motion was clumsy, my wrist catching on fabric, my grip half-slipping as the scabbard dragged against my belt.
+
+But when the blade cleared the cloth, the metal's cold bite against my palm steadied me. I held it in front of me, point angled slightly down, trying to remember the movements I'd practiced among the rocks.
+
+"Idiot," someone muttered nearby. "There are still morons who use swords."
+
+"I didn't know he was one of them," another voice said, a laugh slipping through.
+
+"For a Bastard, I suppose it makes sense," a third added with a sneer. "Still feels like something those northern barbarians would carry."
+
+My hands were slick with sweat.
+
+My heart was loud again.
+
+Not yet, I warned myself. Wait. Watch.
+
+Light exploded from above.
+
+The ceiling erupted. Fire poured down in violent torrents, turning the corridor into a furnace in a heartbeat. Heat slammed into my face.
+
+Screams rose instantly.
+
+Soon came the rain.
+
+A viscous, acrid liquid splattered onto stone and ignited on contact, blooming into sheets of flame.
+
+Shields flared among the students. I had no shield.
+
+But I had memory.
+
+And this time, something more.
+
+Three ethereal figures flickered into existence near me. They were human-sized, barely more than outlines filled with shifting green light.
+
+Three?
+
+In the earlier loops, I'd seen one. Now there were three, clustered close enough that their green light brushed the edges of my vision.
+
+The strangest part was the way they behaved.
+
+One of them hesitated as I had in the first run. Another flinched and rolled in a way that reminded me of a later loop, when I'd started predicting the spray. The third moved with efficiency as if he knew when death would arrive.
+
+They're doing what I've done, I realized. Everything I've done in the last loops… made into ghosts.
+
+I didn't have time to marvel at it.
+
+The first wyvern screamed overhead and the heat intensified as it banked.
+
+They'll spray the liquid first, I told myself. My gaze tracked the movement above, even though the ceiling was mostly lost in glare and shadow. They rake the sides. Then-
+
+I counted silently, lips barely moving.
+
+Three… two… one… now.
+
+I sprang sideways.
+
+A heartbeat later, the liquid struck where I'd been standing.
+
+I landed hard beside another student, some boy with trembling arms held out, palms shaking as he maintained a protective barrier.
+
+His mouth was moving in a frantic chant, words tumbling over each other. His eyes were wide and glassy with fear.
+
+He didn't look at me. He couldn't afford to.
+
+I couldn't afford to, either.
+
+Next comes the attack from the other side.
+
+I pivoted, shoulders tight, eyes snapping down the corridor through smoke and chaos.
+
+A wyvern surged forward low through the smoke, its wings beating the air so hard the flames wavered sideways. Scales caught the light like blackened steel. Its head reared back, throat swelling, jaw gaping—
+
+I dove behind the pillar.
+
+The blast hit a moment later, a roaring torrent of fire that washed past the stone. I pressed myself tighter against the stone and listened.
+
+Not to the screams. Not to the chanting.
+
+To the pattern.
+
+Because the pattern was the only shield I had.
+
+Now a wyvern will appear behind me.
+
+I counted again in my head.
+
+One of the emerald phantoms flickered in the corner of my vision. It took one step too late into the open. Flame caught it.
+
+The weight of impending death pressed against my spine.
+
+I tried to steady my breathing, but battle kept breaking my concentration.
+
+"I'm out of mana!"
+
+"Does anyone have a potion?"
+
+"Gods, help us!"
+
+"Where are the high-circle mages?!"
+
+Voices cracked. Shields flickered. Someone's barrier shattered with a sound like breaking glass, followed by a scream that cut off too abruptly.
+
+My jaw clenched until my teeth ached.
+
+I tightened my grip on the sword hilt.
+
+The air shifted. A shadow slid over the ground near my boots, fast and hungry.
+
+Now.
+
+I snapped my gaze up.
+
+A wyvern was dropping above me, wings tucked for the dive, jaws spread wide enough to swallow my head.
+
+For a fraction of a heartbeat, I saw nothing but that mouth closing in.
+
+My body moved before my thoughts did.
+
+I spun to the side, twisting away from the snapping maw. The wyvern's jaws clamped shut so close to my shoulder that I felt the impact of teeth striking stone.
+
+Adrenaline slammed through me like a tide.
+
+I brought the sword up with both hands and swung down with everything I had, aiming for the neck where I imagined scales might be thinner, where I imagined flesh might give.
+
+A fierce grin spread across my face, half terror, half something intoxicating.
+
+For the first time, I might actually hurt one.
+
+"Die, you bastard!" I roared.
+
+The blade struck.
+
+It hit true, exactly where I'd aimed, right at the curve of the wyvern's neck.
+
+For one glorious instant, I expected resistance, then the give of flesh, then blood.
+
+Instead, the sword stopped dead.
+
+A jarring shock ran up my arms as the blade lodged between scales as if I'd driven it into stone. The wyvern's hide didn't split. It didn't bleed. The weapon sank only a fraction, caught in the seam between thick plates.
+
+My grin vanished.
+
+"No- no!" I muttered, eyes wide, yanking at the hilt with both hands.
+
+The sword wouldn't come free.
+
+It was stuck.
+
+Stuck in the one place it had to move.
+
+My palms were slick, fingers slipping on the ornate grip as I pulled again, harder, desperate enough to tear my own muscles if it freed the blade.
+
+"Shit. Shit."
+
+The wyvern's eyes locked onto me. It didn't jerk away from the embedded blade.
+
+It lunged forward.
+
+So fast, my mind barely had time to understand.
+
+I sucked in a breath to move, to do something.
+
+Too late. Its jaws clamped down on my abdomen.
+
+Agony detonated through me.
+
+Not a clean pain. Not a single point of injury. A ripping, crushing horror as teeth tore through cloth and skin and muscle like paper.
+
+It held me like food.
+
+I tried to breathe, and only a strangled sound came out.
+
+My hands went numb.
+
+Once more, I thought.
+
+[Amateur Swordsmanship Unlocked]
+
+[Level: 0]
+
+[Restarting Day]

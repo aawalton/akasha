@@ -1,0 +1,135 @@
+---
+id: 6494f435-6cd3-5612-9247-9ab35df9568e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 7: Weird Trees"
+slug: 0007-chapter-7-weird-trees
+partOf: underworld-bread-mage-yuri-progfan-slice-of-life
+position: 7
+ownLength: 1303
+unit: words
+publishedAt: 2026-07-27
+link: "https://www.royalroad.com/fiction/179650/underworld-bread-mage-yuri-progfan-slice-of-life/chapter/3732624/chapter-7-weird-trees"
+royalRoadId: "3732624"
+---
+
+“Is everything… okay?” Marina noticed the change in Hecate’s expression.
+
+“Everything is fine, my dear.” Hecate brushed off her unease. “There is nothing to be worried about.”
+
+Marina took a step back, letting Hecate take the lead. She was still somewhat curious as to what may have flashed within Hecate’s mind, but she chose to bury that curiosity.
+
+The journey resumed, now with the addition of Myrra and his brothers, who would occasionally talk about their life back in the forest and the dangers that lurked in every corner. Though Hecate kept quiet most of the way, seemingly to disregard the conversations behind her, Marina was all ears.
+
+“On the topic of food, what do you guys typically like to eat?” Marina asked.
+
+“Anything that we can scavenge around the outskirts. Fruits, birds, berries–”
+
+“Berries! I love berries, especially the yellow ones!” Mylix exclaimed.
+
+“Shut up!” Myrra slapped him on the head. “You once took one without paying, and I had to dump all of my savings to the trader to keep your appendages intact!”
+
+“But I really do like those berries…”
+
+“Are they supposed to be expensive?” Marina tilted her head. “Shouldn’t berries be quite common in big forests?”
+
+“That is indeed correct, my dear. However, what they are referring to is not any ordinary berry. As you may have noticed, the plants in this world tend to exhibit a more grotesque form than what you might be used to. Anything with light colors is either artificial or of incredible rarity.”
+
+“Yeah, I have expected that.” Marina nodded. Even the majority of clothes given by the bakery were dark colors. “Wait, doesn’t that mean your dress is like…”
+
+“It did cost me a fortune, but there is no other color that can quite complement my elegance. Wouldn’t you agree?”
+
+“S-sure.” Marina raised a brow. If you are so rich, then why come crawling to my doorstep and force me, of all people, into this stupid contract?!
+
+“Those berries, just like my dress, are of a rare origin.” Hecate continued. “They are called Solara Berries.”
+
+“Have you had them before? How do they taste?”
+
+“They are the sweetest thing I have ever had!” Myrlix interrupted, only for Myrra to hit him on the head yet again. “S-sorry…”
+
+“Just like he said, it is a fruit that contains a rare sweetness. One that just so happens to please the nobility.”
+
+“Do they please you?” Marina asked carefully.
+
+“Mmm~ Their taste would always put a smile on my face, however…” Hecate turned to face Marina, leaning closer until their face were only inches apart. “I have found something much sweeter than even the most prestigious Solara Berries.”
+
+“You–” A wave of embarrassment washed over Marina’s senses. There were no words she could use to alleviate the situation. The consequence of her scheme weighed nowhere near its reward. Her question was only half answered, and her thread of lies was fully torn to shreds.
+
+Hecate saw right through her.
+
+“Next time, you can just ask me directly, my dear.” Hecate pulled herself back. “Though I reserve the right to privacy, I may just tell you anything that you wish to know.”
+
+“I… Okay.” The beating of her heart slowed down as Marina caught her breath.
+
+“Myrra.”
+
+“Yes, uh, Lady Hecate.” Myrra scrambled for an honorific.
+
+“Does this path lead to the entrance of the forest?” Hecate gestured.
+
+“It does. I believe it extends all the way to the Thalasseo River.” Myrra replied.
+
+“We have wasted some extra time thanks to the three of you.” Hecate returned her focus to the road. “Let us make haste.”
+
+******
+
+The dark woods approached the group gradually as the hours gone to pass. Tints of otherworldly stygian hue covered the twisted branches of the trees that stretched further than Marina’s eye could see. She felt as if the forest whispered a cryptic message with its gloomy undertone, trying to lure her into the depths of no return.
+
+It was rather unsettling.
+
+She quietly huddled closer to Hecate, yearning for the warmth of protection. And Hecate, who maintained a constant walking pace, glanced back at Marina with her usual ominous yet gentle smile, not a single hint of grudge as to what happened previously.
+
+She has saved me twice now… Marina grabbed onto the edge of her black cloak tightly.
+
+She was still worrying about acquiring companionship just a couple of days ago, and yet, here now she stood alongside her companion. The System admin was right; there was no way she would’ve survived this realm on her own. Let alone operate a full-fledged business by herself.
+
+Another thirty minutes passed before the group finally arrived at an opening within the tree line. Hecate pulled out a red-colored string from the inside of her satchel. “May I see your right hand, my dear?”
+
+“Uhh, yeah sure.” Marina placed her right hand on Hecate’s soft palm. It was oddly warm and comforting.
+
+“Here.” Hecate meticulously wrapped a small knot around Marina’s ring finger.
+
+“Wait, I didn’t–”
+
+“Don’t worry, this string will serve as a connection between the two of us. We will know where we are at all times.” Hecate explained. “This place is not safe.” She let go of Marina’s hand.
+
+“T-thanks.” Staring at the red knot, Marina examined the string's length. “This doesn’t look very practical, and it’s not like I will get lost like a child.”
+
+“Of course, if it were a simple string, it would only hinder us; however…” Hecate presented the other side of the connection upon her own ring finger. The string suddenly vanished, leaving behind no traces of its existence. “It is no longer tangible, and yet our connection persists. It is a nice contingency.”
+
+Marina flipped her hand back and forth. “Oh, I see, that’s cool.”
+
+“Lady Hecate.”
+
+“What is it?”
+
+“Is it okay if the three of us stay outside?” Myrra asked. “We don’t really want to go in. We can wait for you here.”
+
+Hecate looked to Marina, who gave her a confirming word. “That is fine by me.”
+
+“Thank you very much.” Myrra bowed alongside Myrdek, and Myrlix soon followed.
+
+“Let us continue our journey.”
+
+Marina gave a quick nod before moving forward alongside Hecate. The entrance was spacious enough for two people to move through, but something about walking right next to ragged branches left Marina with an odd aftertaste.
+
+So she chose to walk behind Hecate instead.
+
+Stepping through the opening, Marina was greeted by a pleasant earthly scent. She took a quick scan around her surroundings, only to be shocked by the breathtaking scenery that stood before the two young ladies.
+
+The trees that grew along the tree line had presumably divided themselves into two distinct parts. A lush, blue leaf covered the branches that faced the forest, and yet on the opposite side, spiky black branches shot from the bark of their bough in chaotic dissonance.
+
+An awe washed over Marina. She wandered alongside the pathway, now constructed from natural granite. And as she persisted her way through the forest, distracted by the beauties of this fantastical wilderness, a vivid sound hummed to her from the background.
+
+She picked up her pace, trying to fulfill her gluttonous curiosity.
+
+The sound grew louder and louder.
+
+And before Marina knew, she found the source of the soothing melody.
+
+In front of her was a small river, one that was lit with a mellowing blue light, birthed from an unknown cradle.
+
+She couldn’t believe her eyes.
+
+There was indeed a river that was currently flowing in front of her, despite being surrounded by arid, barren lands covered in gray ash.
+
+“But how is this possible?” Marina looked to her side, expecting a thorough explanation, only to find total emptiness. She turned around, only to find the empty granite pathway. “Hecate…?”

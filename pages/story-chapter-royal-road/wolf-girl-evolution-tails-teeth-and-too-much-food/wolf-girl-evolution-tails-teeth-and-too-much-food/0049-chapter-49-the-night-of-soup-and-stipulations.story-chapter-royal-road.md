@@ -1,0 +1,345 @@
+---
+id: 35a41e80-74b5-56ad-9018-3d8247a72fa7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 49: The Night of Soup and Stipulations"
+slug: 0049-chapter-49-the-night-of-soup-and-stipulations
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 49
+ownLength: 1709
+unit: words
+publishedAt: 2025-10-10
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2666680/chapter-49-the-night-of-soup-and-stipulations"
+royalRoadId: "2666680"
+---
+
+PoV Luna
+
+The fire crackled low and the air smelled of soup, woodsmoke, and faint spice. Above, the sky stretched wide and dark, the moonlight soft across the camp.
+
+Luna lay curled near the warm stones, belly full and tail thumping slowly against the ground.
+
+Life was good!
+
+Until the dum-dums started grilling her. Again.
+
+Her ears flicked as Sepio poked at his food with his knife.
+
+“So, where are you from, exactly?”
+
+Luna blinked at him. What a ridiculous question. No wonder he was prime dum dum material.
+
+“Forest,” she said, sure and proud.
+
+Sepio looked at her with a blank face, then murmured something that sounded suspiciously like ‘I don’t know what I expected’.
+
+Then Trianna leaned forward, elbows on knees.
+
+“And what about your plans? What do you want to do next?”
+
+Luna tilted her head, tongue flicking over her teeth. They were suspiciously devoid of spice!
+
+“Eat food.”
+
+It was a very good plan!
+
+Ray snorted into his cup, elbowing Veric beside him, while Trianna continued, relentless.
+
+“No, big plans! You know, long-term goals.”
+
+Huh.
+
+That made her pause.
+
+Luna stared into the fire, face scrunched up and ears listing sideways in deep, serious thought. The fire popped. Her tail gave a slow sweep across the dirt.
+
+Then her eyes lit up, with a glorious idea!
+
+“…Eat good food?”
+
+The reaction was immediate.
+
+Trianna nearly fell backward laughing. Ray wheezed, covering his face. Even Sepio made a startled snort that might have been a laugh if he weren’t trying to look serious. Veric shook his head, muttering, “Spirits save us.”
+
+Syl’s mouth twitched, fighting a smile, but her voice stayed warm.
+
+“That’s not a bad goal.”
+
+Luna frowned, ears flattening slightly.
+
+“Why you laughing? Is good plan!”
+
+Syl nodded.
+
+“It is. But we meant – bigger things. Beyond eating.”
+
+The fire hummed quietly between them.
+
+Bigger things… than eating?!
+
+Luna had to give it a big thunk again! Even her tail curled close. Her eyes followed the sparks drifting up into the night.
+
+“…Luna had big thing before,” she said finally.
+
+That made everyone still to listen.
+
+Her ears drooped a little, and her voice came softer.
+
+“Wanted spice. And to kill big ugly!”
+
+They nodded.
+
+“Now Luna has spice!” Her eyes brightened. “And big ugly is dead. New pack even helped!”
+
+Luna beamed proudly at them. It was important to praise pack!
+
+Silence followed. A kind one.
+
+Trianna tilted her head, catching onto the things unsaid.
+
+“New pack, huh? And what about your old one?”
+
+Luna’s smile faltered. Her hands fidgeted against her knees.
+
+Then she finally let her thoughts out:
+
+“…Old pack wants Luna no more.”
+
+The words came small, quiet.
+
+The fire crackled. Smoke drifted slow through the light.
+
+Trianna’s brows knit together.
+
+“Oh.”
+
+Luna picked at the dirt near her heel.
+
+“Mom and sister still there,” she said, curling in slightly. “They want Luna. But part of old pack.”
+
+The way she said it made the words sound heavier than they were.
+
+No one spoke for a while.
+
+Even Sepio stayed quiet. Not so dum dum after all.
+
+The night air filled the space where words didn’t belong. The soup bubbled. A log shifted in the fire, sending sparks up into the cold.
+
+Then Trianna reached out, brushing through Luna’s hair gently. Her hand lingered there, a small rhythm of comfort.
+
+Luna leaned into it without thinking, tail twitching faintly under her blanket.
+
+Her new pack didn’t speak for a while after. Didn’t pry more.
+
+They didn’t need to.
+
+For now, the warmth of the fire – and their silence – was enough.
+
+Luna appreciated that.
+
+Though staying under the blanket near the fire, with Trianna brushing her hair might have helped.
+
+Just a little bit though!
+
+But watching the crackling fire made time fly by fast.
+
+And eventually, Syl stood up and declared the soup done!
+
+Luna’s head popped up instantly. Her ears perked tall, and her tail wagged so hard her shoulders swayed.
+
+Soup time!
+
+She raced over, then slid to a perfect stop beside the pot, and sat primly! Tail wagging with the respectful energy soup deserved!
+
+A lot, it wagged a lot.
+
+Syl stirred once more before filling a bowl.
+
+“Spoon,” she said, handing one over.
+
+Luna took it with all the gravity of a knight accepting her blade. If it got her soup and made her Second happy, Luna would do it!
+
+“Spoon-chomp!” she announced proudly, and dove in happily.
+
+Slurping began in earnest.
+
+While Luna waged a noble battle with her soup and spoon, the rest of the pack talked around the fire.
+
+They had cleared the corruption, yes – but the rest of the ruins still sprawled wide and untamed. Full of who knew what? Overgrown halls. Collapsed chambers. Perhaps even hidden vaults, or some priceless artefacts! Treasure, maybe? More monsters, definitely.
+
+Just not of the corrupted variety.
+
+Variety!
+
+Luna liked that word.
+
+It meant many different types of food and spice!
+
+Very very nice!
+
+“Let’s rest tonight,” Syl said, voice even. “Tomorrow, we’ll search through what’s left.”
+
+Veric nodded, rolling his shoulders.
+
+“I want to check the rubble near the southern parts. Looked half-collapsed – could be a buried hall.”
+
+Ray leaned back against his pack.
+
+“Good. I want the west side. Old ruins hide the best things.”
+
+Sepio grunted agreement without looking up from sharpening his blade. Trianna made a small face.
+
+“Let’s just hope it’s not ooze pits again. The last time was more than enough.”
+
+Luna didn’t catch most of it. And understood even less.
+
+She had importanter things to battle with! Her spoon slipped, splashed, and launched a glob onto her wrist. She licked it off before it could escape.
+
+Victory!
+
+Her spoon was winning this round, but she would come back stronger next bite around!
+
+Then Syl got up again.
+
+The elf crossed to her bag, dug around a bit, and returned with folded cloth.
+
+“Right,” she said, tone that calm, patient one Luna knew meant ‘rule incoming.’ “Most of the time, you’re in wolf form. But when you’re like this–” she gestured vaguely at Luna’s human self “–you should wear something. It’s polite.”
+
+Luna froze mid-sip, then gulped it down anyhow. Licked the spoon for good measure. And only then replied:
+
+“Why?” she asked slowly. “Luna already has fur.”
+
+“Not in this form,” Syl replied.
+
+Luna looked down. Poked her arm.
+
+Hm. True. No fur. But still warm!
+
+Syl began to explain. Towns. People. Rules. Something about being ‘civilized.’ It all sounded very complicated and very silly!
+
+Still, Luna let her try to help.
+
+The cloth unfolded. It had holes in the wrong places. Too many folds. Smelled new and strange and of Second.
+
+Syl tried to show her where arms went. Trianna joined in. There was tugging. A lot of it. At one point, Luna’s head got stuck inside. She huffed, pawing at the fabric.
+
+“Wait—no, not that hole!” Trianna laughed, trying to pull her free.
+
+Luna’s muffled growl came from inside.
+
+“Trap! It’s trap-shirt!”
+
+Eventually, after much wriggling and muttering, they got it on.
+
+The tunic was too big, hanging crooked across her shoulders, and falling down good part of her legs too, but it covered her well enough.
+
+Syl nodded approvingly.
+
+“There. You look proper now.”
+
+Trianna smiled, eyes soft.
+
+“Much better.”
+
+Luna sniffed, tugging the hem.
+
+“Still weird. But okay. New pack has weird rules.”
+
+Syl chuckled, ladling another bowl of soup and passing it to her.
+
+Luna brightened instantly.
+
+“Weird rules good rules!” she declared, tail wagging again.
+
+They laughed, but it was fair trade!
+
+A long while and another Lunar Form later, the fire burned low.
+
+The orange light danced soft across the stones, smoke curling slow into the night air. The forest had gone quiet again, and it was becoming prime hunting time.
+
+Her new pack had decided to spend it on sleeping instead, silly humans!
+
+Luna lounged near the warmth, shirt half-askew, one shoulder bare where Trianna’s brushing had ruffled it crooked. She didn’t fix it. That was too much effort!
+
+Jerky in hand. Head on Trianna’s lap.
+
+Perfect!
+
+Trianna absently combed her fingers through Luna’s hair again, still humming some quiet tune under her breath. The rhythm made Luna’s tail twitch faintly, slow and lazy.
+
+Across the fire, Syl sat straight-backed, the light catching in her eyes as she talked.
+
+Guilds. Cities. Reports.
+
+Human stuff.
+
+“Most adventurers are registered with guilds,” Syl explained. “They’re organized networks for jobs, payments, bounties – things like that.”
+
+Luna frowned, chewing thoughtfully.
+
+“Guild smell nice?”
+
+Syl blinked.
+
+“What?”
+
+“Guild,” Luna said, pointing with her jerky. “Do they smell like soup?”
+
+Ray nearly dropped his cup. Veric coughed into his hand.
+
+Syl laughed, soft but genuine.
+
+“No, not usually. More like ink, parchment, and sweat.”
+
+Luna wrinkled her nose.
+
+“Bleh. No food.”
+
+“Not everything involves food,” Sepio muttered, polishing his shield.
+
+Luna gave him a look that said everything does, then returned to chewing.
+
+Syl continued, undeterred.
+
+“Reports are sent to the guild. They confirm missions, track progress, and handle rewards. It’s important we write one for this hunt.”
+
+Luna tilted her head.
+
+“And that ‘report’ thing, it doesn’t take food?”
+
+“No,” Syl said gently. “It records facts.”
+
+“Oh.” Luna nodded solemnly. “Then it’s okay. Luna will ignore it again.”
+
+That broke them.
+
+Trianna snorted laughter first, trying to cover it with a cough. Ray leaned back, shoulders shaking. Even Sepio cracked a reluctant smile.
+
+Syl sighed, long-suffering but smiling too.
+
+“Ignoring it isn’t the goal, Luna.”
+
+“Then it’s a bad goal,” Luna said, finishing her jerky in triumph.
+
+The conversation drifted lighter after that. Veric talked about repairing his armor. Trianna teased him about denting it again. The fire hissed softly, and the wind shifted, carrying the faint scent of pine through camp.
+
+Luna hummed under her breath, content.
+
+Warmth. Full belly. Safe pack.
+
+Perfect.
+
+But Syl wasn’t done yet.
+
+“Luna,” she said after a moment, her tone that calm, teacher-voice that made Luna’s ears twitch. “There is one other thing.”
+
+Luna was halfway through licking her fingers clean.
+
+“Mmh?” she mumbled.
+
+Syl folded her hands in her lap.
+
+“We need to work on your vocabulary.”
+
+Luna froze mid-lick. Slowly, she swallowed. Then tilted her head hard to the side.
+
+“My WHAT?”

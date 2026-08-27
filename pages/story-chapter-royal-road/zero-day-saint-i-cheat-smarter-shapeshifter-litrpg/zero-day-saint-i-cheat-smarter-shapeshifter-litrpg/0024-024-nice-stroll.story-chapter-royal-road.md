@@ -1,0 +1,126 @@
+---
+id: 907dfc82-b829-5aaa-8481-21fe4795346e
+page-type-slug: story-chapter-royal-road
+title: "024 - Nice Stroll"
+partOf: zero-day-saint-i-cheat-smarter-shapeshifter-litrpg
+position: 24
+ownLength: 2608
+unit: words
+publishedAt: 2026-05-22
+link: "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3430403/024-nice-stroll"
+royalRoadId: "3430403"
+---
+
+I wished Hell had a little more respect for the tropes. I could accept zombies not just being slow shamblers, just waiting for a hero with an axe. I could accept them running.
+
+What I really didn't like was the fact that they were not dumb. Before I could even shift, a nearby zombie picked up a brick and threw it at me, with remarkable precision. It was only because I was already running for cover that I didn't get hit. Others didn't bumrush me either. They grouped up, blocking my path, before they slowly approached.
+
+"Is the fire station safe?" I asked.
+
+"Only in the sense that it is a building with controllable entrances. They can enter there, just like the animals affected by the Wild Hunt could."
+
+I cursed. I needed to get back there, and fast. Down to 4 ATP, I just needed to ensure I killed one of the zombies with every shift; two if I wanted to use that new skill.
+
+Time to see how the impala's horns would do if the enemy wasn't voluntarily impaling itself. And I had picked just the right time. Behind me, only now visible thanks to the impala's insane field-of-view, one of them had calmly dropped to one knee and was aiming a pistol at me. I activated the Focused Fury buff and dashed toward the approaching group.
+
+"If you want to kill, you need massive physical trauma, brain damage or spine damage," Gabriel explained. "They are level 1, not at all stronger or faster than they were in life. But they retained their skills."
+
+With the gunman behind me, I didn't want to jump. I put my horns down and charged into the group at full speed. If my math was even slightly accurate, I was about four to five times as dangerous as a regular impala. Now to figure out if that was at all dangerous for a regular New York City pedestrian.
+
+One of them I got in the arm, shearing through flesh, barely slowing him down. The one to his right my horn caught square in the center, ripping through bones and muscle. According to the experience notification and the ring, that must have qualified as 'massive physical trauma', awarding me my 1 ATP refund. I'd need to kill another in a minute to get back to four. Bullets whizzed by.
+
+"Most of them are just about as dangerous as you have been before this night," Gabriel went on, "never having been in a fight before. But some are like Frank and know how to hurt you. Stay sharp and run if you have to. This is not the time to grind for experience."
+
+Punctuating Gabriel's statement, I saw Liz's health bar drop on my party UI. With her skill set she shouldn't ever be the first one to get hit. But then, our party had a severe lack of frontliners. With one stupidly running through the streets, and all.
+
+The zombies lived up to Gabriel's explanation. I got a handful more, shredding them with charge attacks, enhanced by the impala's insane speed. What she had failed to mention—or maybe it was new, too—was their cooperation. Soon I was running into impromptu barriers, where they had piled up anything they could find. I could probably jump those, but I also saw police uniforms in those clusters. Jumping would put me on a very predictable, very shootable trajectory.
+
+I went looking for other paths to the fire station. They couldn't barricade all the streets.
+
+In a phone shop I went past, one sidewalk-facing TV was running, showing Jamie, standing behind a podium, wearing a black suit. Behind him was a coffin and a large printout of a photo—of me. It was supposed to show my funeral. I had only stopped for half a second when I'd seen the screen. Enough time for the Wyrm to achieve its goal.
+
+Two shots rang out, and then my entire torso was pain. My body skipped the part where it registered being shot and went straight to the part where it was deciding whether to continue. I couldn't see the remainder of my health bar and stumbled, only dodging the next two shots by nothing but luck.
+
+"Eve!" Gabriel cried out.
+
+I managed to switch to Angel's shape before my consciousness faded. The near-lethal pain became nothing but memory as I resumed running, zig-zagging. Looking back, I saw that the shots had gone all the way through and penetrated the sidewalk, right in front of the TV. That meant the shooter was firing from a high angle. Never slowing down, still zig-zagging, I crossed the street.
+
+Sticking to that building, I continued to advance. At this angle the shooter shouldn't be able to get off a shot.
+
+["I thought the Wyrm wasn't going to try and kill me anymore? Perks of having a devil?"]
+
+"I'm going out on a limb here, but maybe something of what we've said, or done, earned us, yes both of us, its ire. This is pure conjecture, but maybe—just maybe—I shouldn't have called it broken."
+
+Awesome. Getting on the shit-list of one of the four most powerful entities in existence. Fucking great.
+
+"Sorry," Lucy added—very, very, quietly.
+
+Despite not matching the impala's speed, this shape outclassed it in every other stat, while providing a lower profile. Which allowed me to weave between the zombie citizens with ease.
+
+Whatever allowed them to communicate and organize, it wasn't speech, and it wasn't a hive mind. One of them spotting me didn't mean others knew exactly where I was. Thus I was able to snap a neck here or there, keeping my ATP at 4/6—the ring wouldn't ever allow me to go beyond what I had when I shifted—and even enabling me to use the Focused Fury. I wished I had some of Stephen's food. I was tired, hungry and could really use the stat buff.
+
+So far the others had been holding their ground. Health had dropped, but had been steadily replenished. Certainly Annika's work, with her Healer class.
+
+But now, multiple people dropped at once, and not just a little. I shifted direction. There was no more avoiding those barriers. I had to help the others.
+
+Only that I was too late. Another similar attack struck, dropping Jamie down to less than 20%. And then Frank's health dropped to zero and he vanished from my party interface.
+
+I howled and charged at the barrier, weaving behind car wrecks where I could, more shots whizzing by. I didn't need to avoid getting hit. I only needed to avoid death, and I needed to avoid near-death happening more than once per minute. Everything else I could survive by swapping between Angel and the impala, and killing at least one of them before I swapped.
+
+I barreled into the barricade and sent zombies scattering. While a bunch of people had the required skills to point a gun at a dog and pull the trigger, far fewer people knew how to fight a really angry dog—especially not a magically enhanced one. I didn't linger, picking my targets. One had fallen on his back, the first bite took out most of his throat, the next managed to get to his spine. Another got up, raising a pistol. I got to her arm before she could pull the trigger, pulling even as I ran. Bone cracked, tendons snapped, leaving the arm hanging uselessly as I left this barrier behind me.
+
+Behind it, more zombies were gathering to reinforce the barricade. Their loose formation gave me cover from shooters, and I stayed low, slipping past faster than any single one could grab me.
+
+But the moment I was out of the group, one caught me from behind. Another shot, and an entirely new flavor of pain to experience. Burning pain that spread over my legs, my back, and my flank. Risking a glance over my shoulder, I saw the one with the shotgun, taking aim again. I cut hard to the side, changing direction as sharply as my body allowed, and went for the broken window of a two-story family home, right next to a large run-down one-story grocery store. While that shot had only taken about a third of my health, it hurt enough to make me reconsider the reckless approach. I could play this smarter.
+
+As expected, no zombie was ready to ambush me inside; they had all migrated to the streets to intercept me. The stairs to the second level were immediately to my right. Upstairs there was just one annoying obstacle. A door blocking me from the room that would be facing the store—with a rounded knob. Time to see how Enhanced Charge translated into my ability to breach unfavorably-handled doors. I ran to the other side of the short corridor, activated Focused Fury and ran full speed at the door, jumping and twisting my body at the last moment, hitting the door right in its center. Wood shattered, and the door gave way, breaking in multiple spots. Newton's Third insisted on being a stickler for the rules and hit me with pain and damage in turn.
+
+The window I needed was right in line with the door. I backed into the corridor so I could use it as a runway once more. Angel's shape cleared the distance between the two buildings easily.
+
+My plan had been to just exit this roof at the other side of the building, to use it as a block-wide shortcut. But considering the state of the store below, this was a surprisingly clean roof, with solid footing and only a few obstacles in the shape of various parts of the ventilation system. My instinct skill had gone up to 9 in between, though Gabriel had told me that I would need about 15 to actually fly. But with what she'd told me, I didn't need to fly. I looked in the direction of the fire station. It wasn't that far anymore, and there were no overly tall buildings blocking my path.
+
+["Gabriel. At instinct 9, can I glide in the crow shape?"]
+
+"It depends a bit on your personal talent, but theoretically speaking, yes. But that won't get you very far, will it?"
+
+I shifted into the impala shape. Time to hold this roof for one minute.
+
+["Not if the physics of this magic were in any way sane. Please just confirm again what you said yesterday. Kinetic energy is preserved?"]
+
+"Dear god. Yes it is. Please be careful."
+
+["Not the time and place for that."]
+
+"Oh, boy. That'll be fun."
+
+I paced the roof, waiting for zombies to climb it. But they were smart, weren't they? What was the point in climbing when I was clearly running somewhere? They'd make better use of those bodies making sure they'd block off all my escape routes. In the minute I was waiting out my cooldown, a total of two had climbed up to the roof, though they didn't even try to engage. From the looks of it, they just wanted to get visual on me. One of them had to suffer my horns, right through the eye. I needed that ATP back.
+
+The other I left unalive to watch.
+
+I angled myself in the direction of the fire station and ran, as fast as the impala could on the runway provided by the roof. At the edge, I jumped—and immediately switched to crow shape, while pressing my eyes shut and trying my best to think aerodynamic thoughts. I needed them.
+
+I didn't know how heavy a crow was, but assuming the difference in mass between the impala and a crow was roughly a factor of 100, the preservation of kinetic energy would accelerate me by a factor of 10.
+
+A lot of things happened at once. This must have been how Oppenheimer felt when he turned a theoretical physics exploit into a practical one. Shutting my eyes had been the right move, since I immediately felt the friction burning away at my face. I also pulled my wings in as close as possible, to further reduce friction. At this speed, extending them would have certainly broken them. All this meant that I had barely any sensory framework to understand what happened. I couldn't see; every physical sensation was the pressure of air, striking against me for my hubris; and there was no sound but the wind. I also couldn't breathe, as my lungs couldn't push air out against the pressure. But the drag did its work, slowing me down drastically—not before I saw the blue dots of the others pass by on my minimap.
+
+I had also completed three tasks at once. The latest in the list rewarded me for achieving an unassisted speed of over 400 mph—damn.
+
+When it felt safe to open my eyes, after daring a glance, I ever so slightly pushed out my wings, angled in such a way that they angled me even further up. I would need the long fall to figure out how to land this shape.
+
+Which might have worked if I had any idea of what I was doing and had done the movement perfectly in parallel, which I hadn't, resulting in a nauseating spin.
+
+This was okay, I was a long way from the ground, as long as I didn't accidentally shift my arc downward, I had time to fix this. Only that my hindbrain didn't exactly agree with that assessment. A corvid's fear was remarkably similar to that of the cat. Skittish and with a desire to run. Only there was no outrunning physics.
+
+I managed to steady myself and angle myself upward. I was now far above the tallest buildings of New York, and I could see the ocean, its horizon already illuminated by the promise of dawn.
+
+When I had slowed enough and gravity was about to demand my swift return, I spread my wings. At first with no direction, just figuring out a glide. Then I slowly tilted one, allowing me to curve back. Finally, I could properly admire the crow's vision. Even at my height, and after considerably overshooting the fire station, I spotted it within moments. I was even able to make out the tiny shapes of the zombies, laying siege to it; climbing windows, the roof, amassing in front of the truck bay.
+
+I allowed myself to dive faster, turning my trajectory back up when I moved too fast for my current instinct skill. The entire flight had granted me a new level of the skill by itself and lasted longer than my one-minute cooldown. Only that there was no way I could get that ATP back, leaving me at 3. (There was, but it would leave me as a crow-flavored paste.)
+
+Time to see if zombies could panic. They were crowded in the truck bay, making it the perfect space to fight as a dog, and very bad to fight as a human. Somewhere in there Jamie must be holding a line, and I was about to become the hammer to his anvil.
+
+Close enough to the station, bay doors in sight, I allowed myself to dive. I checked and double-checked my mental math, but that didn't reduce the fear as I approached a horde of smart zombies, in a tiny shape, going as fast as or faster than the impala had run.
+
+Right before impact, I shifted back to Angel's shape, slowing to a nice stroll. They never saw me coming. I got my refund within two seconds, and spent it on Focused Fury. Furious I was.
+
+Frank, you would not be forgotten.

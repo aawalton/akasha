@@ -1,0 +1,443 @@
+---
+id: 711638b3-62c0-5b07-8cb9-adcafaaebf5b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 66: Of Big Bites and Bigger Shadows"
+slug: 0066-chapter-66-of-big-bites-and-bigger-shadows
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 66
+ownLength: 2360
+unit: words
+publishedAt: 2025-11-04
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2732562/chapter-66-of-big-bites-and-bigger-shadows"
+royalRoadId: "2732562"
+---
+
+PoV Luna
+
+Luna’s water hunt did not go as planned.
+
+The fish were many, yes!
+
+But no strong meat among them!
+
+All so weak.
+
+Chewy.
+
+Easy prey!
+
+But bland and and… so fishy-tasting!
+
+No good enough for Luna.
+
+And so she left the bog once again.
+
+To search through her other old haunts!
+
+Her old sleep-spot… was not worth visiting. She had a new pack now, and left nothing there but her scent.
+
+The bog was boring.
+
+The fiery worm too burny!
+
+So where else could Luna go?
+
+Right! Deep forest part!
+
+And so she ran.
+
+And ran.
+
+Bit squirrels, chased deer away, and scared fatty boars out of her way.
+
+Yep, this was fun!
+
+But then, she felt the change, and her paws slowed, then stilled.
+
+The scent hit her first – raw, heavy, and hot with blood.
+
+Luna crept ahead, staying hidden.
+
+Earth crumbled under her paws, drying mud falling away from between her toes as she crept forward.
+
+Every breath carried the iron taste of violence. Every rustle in the weeds whispered warning.
+
+Ahead, the swamp widened into an open pit of ruin – trees torn in half, earth churned brown, and earth gouged deep enough to hold small lakes.
+
+In the center of it all stood a shape that filled the clearing.
+
+Another old ‘friend’ of Luna.
+
+A scent she recognized.
+
+A scent she ran from before.
+
+【Enemy Identified: Granidrake, Lesser Earth Drake】
+
+The message pulsed through her mind like a heartbeat.
+
+She knew that scent. Knew the sound of that breath, deep and grinding like rock grinding on rock. The first time she had found it, Luna was too weak to even imagine biting it.
+
+Now though?
+
+It felt like it could be prey.
+
+Predator-prey, but prey still!
+
+Her ears twitched once. Her tail flicked.
+
+The beast was feeding.
+
+Its head hung low over the broken body of an Earthen Bear, jaws working through flesh and bone.
+
+The noise was obscene – wet crunches, tendons snapping, the low groan of stone cracking under its weight. Steam rose with the heat of its breath.
+
+Luna crouched lower, belly pressed to the wet ground. The smell was almost intoxicating.
+
+Meat.
+
+Warm. Rich. Massive.
+
+Her heart thudded faster. Every muscle hummed.
+
+Compared to the frogs and serpents of this bog, this was huge. Still dangerous. Still death in a heartbeat.
+
+But compared to the worm she had seen rise from the ruins?
+
+To the big ugly Ogre she bit to death?
+
+She grinned.
+
+This one looked biteable.
+
+Its scales shimmered in dull light – gray and green, each plate half as large as her head. But the seams between them glowed faint, pulsing with mana.
+
+Soft spots. Break points. The shadows would slide between them easily!
+
+It turned its head, tearing another strip from the bear’s ribs. Blood rolled down its jaw. It didn’t notice the small wolf crouched behind the broken trees.
+
+Now.
+
+The whisper came from inside her bones, a promise of hunt and hunger both.
+
+Her claws dug into the mud. Her lungs filled once, slow and steady.
+
+Then she moved.
+
+The world cracked into motion.
+
+She exploded from the grass in a blur of silver and black, closing the distance before the drake even twitched. Her claws hit scale first, Momentum Claw flaring bright. Bark flew from a tree behind her from the backlash.
+
+The Granidrake roared – deep, ear-splitting, full of thunder. Its tail whipped around, slicing the air into a booming gust.
+
+Luna vanished in that heartbeat – Shadow Step. Smoke, silence, reappearance behind its leg.
+
+Her jaws sank in. Blood burst hot across her tongue.
+
+Then came the pain.
+
+One claw caught her mid-leap, tearing a red line down her flank. The blow hurled her across the clearing, bones ringing.
+
+【HP -9】
+
+Her paws dug into mud. Her teeth bared.
+
+“Rude,” she growled.
+
+The Granidrake inhaled, chest glowing red. Fire bled between its teeth.
+
+Luna charged straight ahead, right underneath.
+
+Shadowmeld and Shadow Step working to push her forward.
+
+The blast of power singed her fur and warmed her body regardless.
+
+Melting the ground she had just stood on into a blackened crater.
+
+But Luna was committed now.
+
+And would not miss her chance!
+
+Momentum Claw! Then bite!
+
+Blood flew, she tasted iron.
+
+Too shallow.
+
+Run. Shadow Step. Again!
+
+Their dance of death continued.
+
+The Granidrake's moves shook the earth.
+
+Luna’s claws, bites, strikes, and impacts damaged the beast.
+
+Slowly, little by little, but surely.
+
+Then its magic flared, and she could feel the tinglies.
+
+But Luna knew what to do now.
+
+She had fought a Sentinel, felt same skills before!
+
+The Granidrake's summoned stone spikes destroyed the forest all around them.
+
+Trees turned to splinters, earth shattered with a roar.
+
+The attack far stronger than Luna expected.
+
+Even dodged, the shrapnel hurt her regardless.
+
+【HP -5】
+
+Her heart thumped, but her bites continued!
+
+The throat, again!
+
+Luna bit, and felt the blood again, gushing stronger than before, the surrounding scales cracked!
+
+And then she was flying.
+
+【HP -11】
+
+Her ribs hurt.
+
+Something felt broken.
+
+The hit nearly stunned her, the Granidrake prepared this time.
+
+By the time her body stopped, she could see it charging. Felt its magic gathering again.
+
+She stood up on shaky paws, the beast nearly upon her.
+
+Shadow Step saved her just in time.
+
+Luna’s claw raked across the moving body, her claws catching bits and pieces.
+
+The beast’s own momentum hurting it more than Luna could have done herself.
+
+It made it swerve. Just a little.
+
+But that was enough. Its magic shifted, the stone spike rippled across its own scales.
+
+And Luna would not waste that chance.
+
+She charged and bit the throat again.
+
+A big chunk was missing now.
+
+The blood flowing undisturbed.
+
+Yet still the beast moved.
+
+So Luna ran. Stepped aside. Then stepped back in – to bite its ear this time.
+
+It was far too wary of attacks to the throat now.
+
+So she would surprise it.
+
+And then…
+
+It happened.
+
+Sparks and blood sprayed into the air as her claws carved along its throat once more. The beast crashed sideways, the ruined earth quaking beneath it. Its tail smashed into a tree, snapping it like a twig.
+
+The roar broke apart into a groan.
+
+Luna jumped away, stared at it. Waited for its next move.
+
+It tried to move.
+
+Tried to rise.
+
+Groaned in defiance.
+
+But then it stilled.
+
+And silence followed.
+
+Luna stood over it, sides heaving, fur slick with blood that wasn’t all the drake’s. The smell was glorious – burnt, meaty, victory-spiced.
+
+Her grin split wide and sharp under the rising Moon.
+
+“Ha… biteable after all.”
+
+The chime rang soft in her skull, half melody, half mockery.
+
+【Level Up: 8 → 9】 【Luck +1】 【Beast Instincts (Lesser) Lv.1 → Lv.2】 【Bite Lv.14 → Lv.15】 【Momentum Claw Lv.8 → Lv.9】 【Shadowmeld Lv.6 → Lv.7】 【Shadow Step Lv.10 → Lv.11】 【Reckless. Predictable. Barely effective. A bleeding and ugly victory.】
+
+Luna wheezed out a laugh.
+
+“Meanie System.” Then toppled sideways onto the Granidrake’s body with a heavy thump.
+
+Her chest still heaved from the fight. The place stank of scorched air and blood, smoke curling lazy spirals above the carcass. Her fur clung to her sides in thick, dark mats, sticky and warm. Her HP a sore sight she did not want to check on.
+
+But the only thing she cared about was the smell.
+
+Strong meat.
+
+Powerful meat!
+
+Her nose twitched, her fangs ached. Instinct pulled stronger than reason ever could.
+
+She bit in.
+
+The first taste flooded her tongue – iron, tingly mana, burning ash, earthy taste, and heat. The flesh fought back even in death, buzzing faintly against her teeth. Every chew sent sparks down her throat, warmth rolling through her chest.
+
+It was not spicy.
+
+But full of strength.
+
+Vitality. Magic. Power!
+
+Energy spread through her veins, quick and wild. Her claws twitched against the scales as her tail wagged once, then again, thudding against the ground.
+
+“Chewy,” she muttered through a mouthful. “Strong chew.”
+
+Each bite came faster after that. Her jaws worked on instinct, tearing strips of drake meat apart with greedy rhythm. The sound of her chewing filled the clearing.
+
+The System didn’t chime again, but she felt it – power building, heat collecting behind her ribs.
+
+The hunger clawed up from deep inside her belly.
+
+Craving.
+
+It wasn’t the pleasant kind this time. It burned. Demanded.
+
+She tried to slow down. Really tried. Her tongue wanted more before she even swallowed.
+
+“Stop… chewing…” she growled to herself.
+
+Her stomach answered with a long, low rumble that vibrated through her chest.
+
+So she ate.
+
+And ate.
+
+Until the bear’s scent was gone from the air, until even the flies stayed away. The dead body steamed around her. The heat spilling off her fur.
+
+When she finally stopped, her belly was round and heavy against the bloodied earth. Her breath came slow, deep, content.
+
+A low, boiling pressure built in her throat. She gasped once – then the fire moved.
+
+Her teeth pulsed. Her jaw ached. The world tilted sideways for a heartbeat as light rippled over her reflection in the pooled blood.
+
+Her face looked different now. Stronger. Sharper. The lines of her muzzle darker, the gleam of her fangs new and metallic.
+
+She felt her skills activating, merging in her body, into a new glorious skill.
+
+【Gluttonous Soul 9% → 10%】 【Skill Acquired: Devourer’s Maw Lv.1】 【Your gluttony knows no bounds, yet your body cannot devour more. Open a shadow maw to bind and store claimed prey for later feasting. Mana and stamina cost scale with prey size and mass.】
+
+Luna blinked, then bared them in a slow, dangerous grin.
+
+“Luna got new chew,” she whispered proudly.
+
+The surrounding forest hummed in answer – birds quiet, wind still, power lingering in the air.
+
+Her body sank against the drake’s side, tail twitching once before a yawn escaped her.
+
+She would have to show Syl her new skill!
+
+…Luna would just take a little break first.
+
+***
+
+PoV ???
+
+Far away, where the air smelled of ink instead of blood, a pen scratched steady and sharp.
+
+The study was silent but for that sound. Its rhythm setting over the whole room.
+
+And what a room it was.
+
+Books filled every wall, meticulously cared for, yet with spines worn smooth from use. Monster skulls gleamed in lanternlight, each labeled in perfect script. The desk beneath the window was a monument to order: polished wood, black quill, and neat stacks of paper weighed by a clawed gauntlet.
+
+Behind it sat a man built for silence.
+
+Broad shoulders, gray at the temples, eyes cold as riverstone. His coat bore a crest few would dare disrespect. Even sitting still, he carried the weight of command easily, in the same way predators carried fangs.
+
+Completely natural, and promising danger to any who would overstep their welcome.
+
+A knock came – two quick raps, hesitant.
+
+The man didn’t look up.
+
+Yet the grey-haired butler beside him – a tall, ashen-skinned half-orc with swept-back hair, small protruding tusks, pointed ears, and unnerving eyes of black sclera – inclined his head in acknowledgement. His voice – smooth enough to cut – resounded beyond the door with perfect clarity.
+
+“Enter.”
+
+The door opened. A young messenger slipped in, tail low, uniform neat but trembling. The envelope in his hands bore a broken seal, the wax marked with faint scorch lines.
+
+The boy bowed deeply upon entering, daring not to relax.
+
+He presented the envelope with extended hands.
+
+“Y-your Excellency,” the cat-boy stammered. “I–uh–bring news.”
+
+The letter was gone before he finished. The butler held it now, claws precise as he slit it open.
+
+A shudder ran through the boy, but he didn't dare move in the slightest.
+
+“Speak,” the man said. His voice did not rise. It didn’t need to.
+
+Finally having an order to focus on, the boy’s tension transformed into words, coming out fast and rushed.
+
+“The Western Velssarin Initiative…” the boy began, swallowing hard. “It–it’s been declared a failure. All forward assets have been lost. The reconnaissance party suffered total disruption. Only fragments recovered.”
+
+Silence filled the room like smoke.
+
+The nobleman’s quill stopped mid-line. His gaze didn’t move from the parchment before him. Only the faint shift of firelight caught the edge of his expression.
+
+“…Unfortunate,” he said at last.
+
+The word carried no anger, but the boy’s ears flattened flat against his skull anyway.
+
+The quiet stretched long enough for the clock to tick five full beats, and the boy to nearly sweat his soul out.
+
+Finally, the butler inclined his head.
+
+“You are dismissed.”
+
+The messenger nearly bolted. The door closed behind him with a click that sounded final.
+
+And for a moment, only the pen’s scratching returned.
+
+Then the man spoke once more.
+
+“...So,” the duke said, eyes narrowing slightly. “The World Serpent corruption has failed. Find out why.”
+
+“Yes, My Lord.” The butler folded the letter neatly, though his tusked mouth twitched faintly at the edges.
+
+The noble’s gaze drifted toward the door, where the faint smell of ink and fear still lingered.
+
+“The boy. He does not fit his role.”
+
+“He will be reassigned,” the butler replied smoothly. “The Magisters are always seeking new test subjects.”
+
+The duke hummed – a low, thoughtful sound, and a sign of approval.
+
+A pause.
+
+“What of the previous messenger?”
+
+The butler’s face didn’t change.
+
+“Unfortunate enough to accidentally cross paths with Master Orthendal’s new pet hydra.”
+
+“Pity,” the noble murmured. “He had good penmanship.”
+
+He signed the next document in perfect, steady strokes.
+
+“Move Master Orthendal’s audit forward. Let us see if their budget doesn’t need… correcting.”
+
+“Yes, My Lord.”
+
+The butler bowed once, already moving to obey.
+
+Firelight flickered over the desk, catching the reflection of the man’s calm face in the polished skull beside him.
+
+Outside, wind rattled the tall windows. And somewhere, far beyond his reach, through leagues of swamp and silence, the pulse of an ancient hunger stirred faintly in the air – born from blood, bite, and moonlight.
+
+The duke’s pen paused for half a second.
+
+Then it moved again.

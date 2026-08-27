@@ -1,0 +1,469 @@
+---
+id: 5d188d30-e4f8-5f7f-b4aa-bab4d65b9fbf
+page-type-slug: story-chapter-royal-road
+title: "202: Pick Mi and Mi"
+slug: 0225-202-pick-mi-and-mi
+partOf: there-is-no-epic-loot-here-only-puns
+position: 225
+ownLength: 5938
+unit: words
+publishedAt: 2024-05-16
+link: "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/1638838/202-pick-mi-and-mi"
+royalRoadId: "1638838"
+---
+
+“I like them,” Delta said as the unconscious woman who had just lost to Jellagon was carried out by the Guardgoyles. The rest just trailed behind with intense Mana Poison.
+
+Jellagon, already shrinking now that the offenders had been punished, gurgled.
+
+“Not the worst,” was his verdict. Delta hummed as she turned to see Nu appear once the adventurers had left the floor. He was staring at the innocuous knife on the floor left behind by the Gun woman. Delta was already upgrading the woman’s gun since the lingering essence of Wyin still let her mess with the weapon before it became ‘set’.
+
+“What even is that thing?” Delta asked but she was answered by someone not Nu.
+
+“A gift, or... you could say a transfer,” Mharia said as she appeared from the shadows, her green eyes glowing.
+
+“You know this knife?” Delta asked, trying not to frown. Mhaira was her only potent source on the Silence but what she chose to reveal and what she didn’t reveal, always seemed to be a balance of playful and misleading.
+
+“That knife? No. The idea? Yes,” Mhaira admitted as she floated around the knife but didn’t seem to get any closer to it.
+
+“It’s filth!” Nu said and sounded upset as well. Delta was beginning to feel like a third wheel that had no idea it was attached to a bicycle.
+
+“Why do you say that?” Mhaira asked Nu who seemed to consider the question for a moment.
+
+“It’s the opposite of us, the Dungeon,” he said and turned away as if the knife was painful to look at for too long.
+
+Delta frowned and peered at the weapon, trying to recall what she saw of the gun lady. The knife had a pulsing ‘not Mana’ inside. It was hard to really describe it other than it was either the utter absence of a soul or such a concentration of life that no details could be made out.
+
+That didn’t help Delta at all since the idea that something was either nothing or absolutely everything was a strange idea to consider.
+
+The knife had been reaching into the gun lady, riding the entry Delta’s mana had made, until it found her seed. Delta had seen the knife not convert the seed, but make it blossom. It directed its tendrils into her soul this way and that. It was horrifying but also very revealing that the knife made the seed grow a certain way, the thickest changes around the brain and eyes. Delta finally intervened when the seed was going to start changing the woman. It was altering her brain to be shaped differently, as if it was trying to make her into someone else. The process would have taken years. Even in Delta’s Dungeon but Delta put a stop to it then and there.
+
+Frowning even harder, Delta focused on her mirror Dungeons, finding there was a group of stoic people fighting Fran in one of them. They wore a mix of strange outfits, some clashing horribly, while moving in almost predetermined paths to lead Fran this way and that way. They didn’t have the same sort of weapons as the gun lady, but Delta peered into them, trying to examine them as beings. Delta tended not to do this as looking into people let her see everything at a glance. Shapes, marks, scars, internal organ status, and process occurring. Delta liked to respect boundaries but this was a medical and/or eldritch emergency.
+
+After a few seconds, Delta stared at the group fighting. It was in a different state of progressions, but all their brains were slowly being changed into the exact same shape. Some seemed to be stuck in the change while the ‘leader’ and most outlandish one was well on his way to be converted.
+
+“Kite. Proc slow traps in 10 seconds. Back up buffs in 20,” the man ordered, his eyes glued to Bacon, Fran’s pig mount, as if deeply wanting it for himself. Just to have it. To own it.
+
+The speed of 10% movement and the bulk would be great tanking potential. The thing could be used for a suicide charge and opening trap hallways. If it was subpar, Delta could make ten more with better armor rating.
+
+“Focus,” Mhaira said, slapping Delta’s face with a harsh smack and Delta blinked as the world stopped looking like a toy store.
+
+“What was that?” she muttered.
+
+“You let it echo in your head. You’re more vulnerable than mortals. They have fleshy bits that can mitigate the Echo, but you’re pure energy,” Mhaira chided Delta like she was an old woman, not a child. Wait... Mharia was actually an old lady.
+
+“Can you explain? Anything?” Delta asked, giving the fairy lich her full attention, which for a Dungeon was pretty heavy. Mhaira winced but relaxed a moment later.
+
+“Of course I can. Anything for Delta,” she said sweetly and focused her magic, lifting the knife up in a coil of green magic.
+
+“Echoes, the manifestation of the Lost Brother, are potentially infinite in number but at any given time they’re cannibalizing each other, devouring the weaker to form a large current. Once they gain enough strength, they emerge into this world. Even with a physical form, their nature doesn’t change. They find each other, grow, and search for more. However,” Mhaira said slowly and before Delta’s eyes, the knife began to vibrate.
+
+“Echoes can be clever or lucky, just like people. After all, everyone carries a little bit of the Lost Brother in them, converted or mutilated, it’s always there to a degree. Echoes can even use people as hosts to manifest. An Echo that manifests with power or lack of care can use the seeds too, they find people and make the seed vibrate on their particular... ‘wave’. An Echo is just a reflection really. Why can’t they make the Echo, themselves, repeat over and over?” Mharia asked intently as the knife began to break down into two smaller knives, then five dart-like tools.
+
+“But it should lose power,” Nu interrupted.
+
+“If it was only the seeds, yes. Infinite growth with limited supplies is a fool’s dream, but people aren’t just their seeds, no?” Mhaira smiled darkly as she used her own magic to feed into two of the darts, turning them back into slightly large knives.
+
+“Dreams, hopes, love, hate, fear, courage, heroes, villains, gods, and demons. Fertile soil in which the truth can sprout,” the fairy said and the knives glowed with her dark mana now instead of that weird aura from before.
+
+“How did yours spread? Your Sun?” Delta asked and Mharia paused then looked a little bothered.
+
+“He never needed to. He was formed so strong, so powerful. He knew what he wanted and had a dream. He only needed to lead and others naturally followed,” Mhaira said with her arms crossed.
+
+“I’m sure all fanatics say the same about their idol,” Nu said nastily. Mharia turned and her face began to melt.
+
+“Sun is different. He has the power to even suppress his own nature. He conquered another Echo and didn’t even consume him, that wretched Echo serves my Sun,” Mhaira said hotly and then inhaled to calm herself. Delta opened her mouth when a sudden memory hit her. It was almost like a flash of a dream, but she grabbed it, pulled at it and soon it came tobe a shared memory of what Renny had shown her when she contracted him.
+
+‘My dear ringmaster! How very rude of me! Let me formally welcome you to the Tunnel of the World. Grand title but this homely little home is mine so I dare say I do own some proper manners fitting the Lord of the path of Ending Light’
+
+That man that trapped Renny’s circus in the ground. The man who had something in his head, wriggling and moving...
+
+“His name is Felcore. You may have some beef with him in time,” Mharia commented, as if sensing Delta’s thoughts.
+
+“The One of the Ending Light, She of Settled Darkness and He of the Broken Silence,” Delta recited, remembering the words of Runilac the demon smith.
+
+“Indeed, but to sum up what this knife represents?” Mhaira returned to the object as it began to burn from her magic.
+
+“It’s an infection. It’s a ringing cry from a trapped Echo. Desperate to escape a prison, but in return it cannot escape its guise. A pitiful thing,” she declared.
+
+“I agree with her,” Nu spoke up, “if this Echo needs so many avatars to even exist, it's sad,” he said and Mhaira shot him a strange smile.
+
+“A single avatar does tend to be more dramatic,” she responded.
+
+“There must be some way to stop this? This Echo infection,” Delta asked with concern that these Echo people might be all over the world and beyond Delta’s ability to help.
+
+“Infect them all first. You are the anti-virus of the soul,” Mhaira said with a shrug, her wings fluttering once as she got ready to leave.
+
+“Please!” Delta said, moving closer and Mhaira halted.
+
+“All Echoes have a prime avatar or form. If it is consumed or destroyed with rare tools, such as Soul Fire, then it can perish. It might only make room for other Echoes but they’ll be spread out and prone to fighting,” Nu said and Delta stared at him. Nu looked almost lost at his own words.
+
+“How do you know that?” Delta asked as Jellagon watched this entire exchange silently.
+
+“I...” Nu trailed off.
+
+“I told him before, when we went to the Trinity Dungeon,” Mhaira interjected with a casual tone.
+
+“Y-Yes, I believe that was it,” Nu said and looked shaken. Delta couldn’t quite blame him. This Echo stuff was insidious on all levels.
+
+“But how can I stop the avatar if I can’t leave my Dungeon?” Delta mused as she began to pace.
+
+“We could ask Ruli or Quiss,” Nu stated.
+
+“I could, but they might get infected or swayed. I don’t want them getting hurt,” Delta said then shook her head. “No, that way lies the loner anti-villain route,” she told herself.
+
+“How are you even going to find the Echo?” Mhaira asked dryly as if this was an issue.
+
+“Oh, I already know where he is,” Delta said without looking at her.
+
+“What? How?!” Mhaira blurted out as if she was ready to tease and bargain for the info. Delta brought them into her map and showed the ‘mana’ she borrowed from the group in her Mirror Dungeon. Tons of tiny dots appeared on the map but there was a massive glowing blip right next to the Dungeon.
+
+“All of them are becoming the same person, so their mana is too. I just needed a sample from any of them,” she explained.
+
+“This map is cheating,” Mhaira muttered darkly.
+
+“Memetic Hazard infection is cheating,” Delta countered.
+
+She focused on the map, bringing into focus as she focused on Durence, turning the map until the 3D model rose into the air, the massive dot under the village. There were another two dots around the village, but they kept moving rapidly, fading in and out of focus as if they weren’t entirely in this dimension.
+
+Delta labeled them ‘Sun’ and ‘Felcore’ mentally.
+
+“The Sewers?” Delta said slowly and made some mental estimations.
+
+“We could send Alpha, Ruli, and Quiss to check it out. We know Quiss has Soul Fire... somehow,” Nu said and Delta was beginning to notice he was slipping terms and facts that seemed to come from nowhere more and more these days.
+
+“We could or maybe we could just handle it ourselves nice and quietly?” Delta said brightly as she formed a map of the Dungeon, finding the closest point of the Dungeon to the town of Durence. It was a little tricky since Dungeon Space worked on a sub-dimension which let it fit a crazy amount of stuff in the space of a farmer’s field.
+
+However, there were some points of her outer walls that were closer to Durence than others because of that bending of space.
+
+“Objection!” Prim interjected with an alarm.
+
+“Yes, Prim, sweetie?” Delta asked kindly. The primal system that she accidentally gave sentience formed a bunch of windows, all of which proclaimed the security issues of breaching Delta’s space and escaping into the world.
+
+“Abomination! You will become twisted! You will change! You will cause panic!” Prim insisted.
+
+“Or I could save the world from a munchkin infection!” Delta said gently.
+
+“I will not aid you.” Prim said stubbornly and Delta wasn’t too worried, she could handle this by herself easily enough.
+
+“Your art proves otherwise.”
+
+Delta’s eyes twitched before she smiled, becoming serene again.
+
+“I got this,” she said.
+
+“And again, we can just ask Quiss to burn it,” Nu said and Mhaira coughed, drawing attention.
+
+“They’re imprisoned for a reason,” she said and waited, getting no response. She sighed as if her talents weren’t appreciated.
+
+“Echoes ring the loudest when their forms perish. That’s how they consume each other by fighting. So, if someone is standing feet away when they die, they get the full force of that death rattle,” Mhaira said with a wave of her hand.
+
+“I haven’t even gotten close to cleaning Quiss’ seed. It’s really developed,” Delta muttered, thinking of the fire mage.
+
+“The Echo is sealed away and these followers only seem able to harm themselves and a slight number. Why not accept the victory where you can get it?” Prim asked, sounding so frustrated.
+
+“Because I don’t accept outcomes that are either ‘bad’ or ‘worse’. I want a damn happy ending,” Delta insisted. She looked down at the ground.
+
+“I don’t want to live with ‘I had no choice’ or ‘It was for the best’. I want to try,” she said quietly.
+
+There was silence before Mhaira gagged.
+
+“You are cringe,” she declared and left to the shadows.
+
+“I AM AN ADULT THAT WORKS WITH CHILDREN. IT’S MY RIGHT TO BE HIP AND COOL!” Delta yelled after her.
+
+“Nu, let’s mosey and jive into breaking quantum physics!” she ordered with her finger pointed down the hall.
+
+“Can’t you just do insane things without sounding insane?” Nu asked with pain.
+
+“No.”
+
+---
+
+Delta floated behind the waterfall on the second floor, the ‘hidden’ rest space for those curious to explore. It was here that her Dungeon leaned the most towards the sewers of Durence. She focused and began to push with her mana.
+
+A dozen windows opened and closed in rapid succession as earth began to give way. The small hole rapidly caved outwards, revealing a round tunnel that was barely big enough for a child to move through. About ten meters deeper, the process suddenly halted and Delta found herself pushing against the boundaries of her Dungeon; an unyielding wall of metaphysical no-man’s land where everything in her screamed she couldn’t exist there.
+
+She shed her Dungeon mentality entirely to Nu who formed a full avatar as she used her near-formless human side to do what a Dungeon could not. Pushing, the tunnel gave way to a void of twisting mana that looked to be a furious sea of her own mana and the world’s, Brother’s. The violent tides pushed and pulled, tearing apart anything but the most determined of forces or the ones with nothing to lose.
+
+She focused, watching as all around her Dungeon, the mana was merging and directed to sustain a growing world. Delta’s Dungeon was like a giant nail pointing down, pinning a particularly violent current, but entwined with that flow. The Brother’s mana was dark threads and bulging tumors of Silence.
+
+“Can’t do anything about them right now,” she yelled to Nu who couldn’t follow her this far out. She focused on Durence, seeing how it was...
+
+“That’s not a town,” she said stupidly as the massive creature allowed some of its tiny limbs to be moved this way or that to soak up the sunlight while newer tendrils were coaxed to the surface for purposes. A very fresh growth looked to be very near her Dungeon and she even thought she could see familiar strands of her mana inside the building that the tendril was connected to.
+
+The thing noticed her and the ‘body’ was a massive box with a sleepy eye.
+
+“The town is a mimic. The town is a mimic!” she screamed as it moved a few buildings around when it seemed no one was looking. A tendril moved in the mana-space which the creature seemed to exist in mostly while it ‘pierced’ into the physical world. The tendril had a small glinting tarnished round piece of metal on it tied to a scruffy collar. Delta squinted and managed to read it.
+
+‘Mimi- If lost, return to Durence’
+
+Delta could only stare as it seemed to be juggling a dozen self-contained pocket dimensions, bubbles of containment, and security features that only seemed to be coming online now that it was feeding.
+
+Feeding off Delta’s ambient mana.
+
+In fact, her mana seemed to be having a constant state of warfare with the mimic who didn’t even seem to notice. It just inhaled and swallowed without much thinking.
+
+Delta vaguely recalled once that Ruli mentioned that Durence the town started out with a few huts but grew quickly but she never explained why...
+
+Or how.
+
+Swallowing back her panic, she looked around the thousands of tendrils that turned mana into things like light or heat, making near perfect homes for the people above. Some tendrils had different glows to it, like a tendril that was very like Wyin that connected to a massive subterranean cavern hiding under a modest house garden or something that looked like intelligent brain nerves connected to a small store that communicated intent and purpose.
+
+There were dozens more, but the most complex and dense tendril that had all the pieces of the others and more connected to a rather large building that Delta could only sort of see had magical drinks forming out of mana, heat for food, and a fair amount of people in it.
+
+A... tavern?
+
+The nerves connected directly to an avatar even, a man working the counter.
+
+The mimic saw her curious stare and seemed to show her without really moving.
+
+The man was named ‘Nibs’ which confused her for a moment until the mimic pulled another tendril close, showing a little napkin or bib one would have for a child, crudely made by hand with wonky stitching.
+
+‘My littler nibbler’
+
+Delta just had to step back and repeat that all her surface friends, the children, the groups, and more were all currently inside a massive mimic.
+
+Something that could at any moment compress its tendrils like a bear trap. However, Mimi radiated no malice or even hunger that Delta might expect from a mimic. It was old, very old, and content to lay and bask in the sunlight like an old dog on the porch.
+
+“Break the rules, learn things,” Delta summed up as she tried to communicate with the being but it was hard since Mimi spoke with intent, but there was the massive mana stream between them. Mimi fed on it, but she was mostly in a dry riverbed, only a few puddles around her. It looked huge to Delta because she had been hidden from it, protected in her space, but to Mimi? This was still very much a withered land.
+
+The mana vein had been very drained and it wasn’t coming back anytime soon other than the small stream known as Delta pouring into it. Mimi slowly reached over an unused tendril that had once been used to support the land above it, scars and old wounds showing how the effort to do so had been costly.
+
+Delta frowned, looking to where the tendril had been, finding it almost parallel to her third floor... Mharia’s old castle. Once the tendril got close, Delta felt an acute pressure in her kidneys like a giant finger slowly pressing into her. She weathered the sensation and knew why Mimi could have caused her serious pain if she latched on to Delta’s Dungeon beforehand.
+
+The tendril came close and Delta reached out to it.
+
+They connected and pressure filled her existence. Mimi was under so much pressure but she didn’t begrudge or resent it. She wore it like pride as she balanced dozens of magical and other forces that didn’t want to play nice together.
+
+Mimi shifted her existence in a dozen places, being so many things as needed it was amazing Mimi could retain her sense of self.
+
+“Why?” Delta managed to get out.
+
+‘Love’
+
+The single word was all encompassing, all consuming, and pure.
+
+“Durence?” she asked and Mimi flooded the area with warmth and light.
+
+‘Protect him.’
+
+Delta sniffed, overwhelmed by the sheer giant that was so gentle.
+
+“I... Mimi, I need to get to the Echo. I need to stop him,” she said and Mimi seemed to feel unsure suddenly.
+
+‘Durence went away to stop Echo. You might go away too’ Mimi pointed out.
+
+“I won’t die,” Delta said firmly, “but we can’t let innocent people be corrupted if we can stop it” she spoke to the tendril.
+
+‘Die... die... I do not know this word. To stop. To lose life? Death has no shape inside me. I can understand not being here. Not being definable as a shape? That will happen to you’
+
+“I’m already without a shape,” Delta said warmly as she moved her faint outline.
+
+‘The shape. The shape that is you. Not something you touch or own, but something you fill, become. Echoes twist shapes, twist you until you must fit them’
+
+“Thousands are being twisted right now. I can’t sit back and do nothing,” Delta insisted. Mimi was quiet.
+
+‘You are Durence a little in shape. Just enough that makes me miss him. I will let you do this if you can find Durence’s outside shape’ Mimi decided and tendrils covered the hollow mess of tubes that acted as a prison to the Echo.
+
+“His what?” Delta blinked, still holding the tendril.
+
+‘His outside shape. The ones here on our land, the blank and dull ones, they have outside shapes but they bleed and cry. Those are bad outside shapes’
+
+It took Delta a minute to translate Mimi’s terminology.
+
+“Blanks... you mean Fairplay? Their Seed weapons? Durence had a Seed Weapon?” Delta asked, sounding surprised.
+
+‘Durence and friends had them. Haldurence, Milaurence, and Picurence have outside shapes. Seed...Weapons’
+
+Mimi seemed to show a vision of a strange friendly old man with a gap tooth holding up a strange golden wheel of cheese as he glowed with a yellow aura.
+
+A woman that looked a lot like Ruli held up a glove or gauntlet that made her radiate utter bloodlust.
+
+Pic snapped his jaw and the sound crunched the air.
+
+“So, these are weapons, proper seed weapons that hurt the Echoes?” Delta asked excitedly. Maybe she could ask these old people to help out?
+
+‘Used to. They gave up themselves. No self, no shape. Their shapes denied Echo twists, even if they no longer remember. Without shape, you leak’
+
+Okay, maybe Delta wouldn’t arm the senior folks just yet.
+
+“What about Durence? What was his Seed Weapon, his Shape?” she called out and Mimi sent an image of a bright shield that looked to be reflecting the blue sky with the sun like a seal.
+
+Delta hadn’t absorbed anything like that from Mharia’s castle.
+
+“I don’t even know where to start looking for it,” Delta admitted as their contact seemed to be tiring Mimi and parts of her Dungeon edge were flaking off into the mana stream.
+
+‘You are close. Like I was. Love. Protect him’
+
+“I’ll look!” Delta promised as Mimi began to pull back.
+
+‘Delta. Durence finds you. That’s how it works. He finds people and changes them. You needn’t look’ Mimi said gently and her massive eye closed. With a snap, Delta flew back as a chunk of her mana floated into the mana stream and vein.
+
+---
+
+Jenia Visp looked up as alarms went over as powerful disturbances spread out and affected every monitored mana vein that Fairplay could find. The tallest point of the headquarters slid into emergency mode as it tracked the signs of corruption to the Dungeon that had produced it.
+
+When a Dungeon pierced its space, it produced clots in the nearby mana veins that were some of the earliest signs to predict a Dungeon turning into an Abomination. Jenia barked orders as Dungeons were quickly eliminated.
+
+No invaders to the Silver Dungeon, that was the first thing to be checked as new Dungeons could slide into that husk like hermit crabs.
+
+“Ruby Dungeon stable.”
+
+“Royal Dungeon beyond stable.”
+
+“Queen Dungeon relatively stable.”
+
+Jenia continued to listen to the incoming reports from the workers at their desks, tracking mana veins and tracing the nearby Dungeons using tools that would cost them dearly to recharge, but it was important that it was done.
+
+“Twin Dungeon stable, not stable, stable, normal response.”
+
+“Diseased Right arm Penta-Dungeons currently in smog cloud, results pending!”
+
+“Forge Dungeon stable.”
+
+The tension built inside her jaw as she followed the map along, coming closer to the west portion.
+
+“Shroom Dungeon... results uncertain. Waves indicate this is the source of the debris but no infection of the nearby dead Mana Vein detected. I don’t... understand,” the worker called over and Jenia focused the map over that area.
+
+“Records should be ‘Delta’. It named itself. I don’t want records out of date again. It can get someone killed if they don’t know the Dungeon’s name in future negotiations,” Jenia said and the worker shrank under her gaze.
+
+She read the signs, double checked the mana measurements, and came to one conclusion.
+
+The Dungeon had resisted going Abomination meaning that someone had tried to force it or an outside influence had strained it. No matter how Jenia cut it, it was illegal and immoral for all that was concerned.
+
+Still, data and numbers would mean little.
+
+“Report.”
+
+Jenia hid her wince and turned to the leader of Fairplay who stared at her impassively.
+
+“Director Ripdoy,” she began, trying to figure out how best to tell the man his child may be in the blast radius of a second Dungeon going Abomination.
+
+She could have guessed his reaction, honestly.
+
+---
+
+Delta waved her hands in a daze.
+
+“Find Durance... find shield...” she mumbled as she stared up at the cave ceiling behind the waterfall. A rectangular blob of blue came close and in her confusion, Delta presumed she had done just that.
+
+“I am so good at this,” she mumbled as she grabbed the shield on both sides victoriously.
+
+“Release me before I find a way to remove your hands violently,” Nu warned.
+
+“You're not a shield,” Delta sighed as she sat up. Nu, having returned to his menu form, huffed.
+
+“I am the tool to bludgeon fools with. Not a flimsy piece of metal to protect idiots,” he agreed.
+
+“Have we ever found a magic shield?” she asked as her head began to clear and the hole in her Dungeon cleared up.
+
+“Not unless you count Estal who is a shield on impractical heels,” Nu admitted. An idea suddenly hit Delta.
+
+“Mharia!” she called out and found the fairy reading a murder mystery novel in the library with rather vivid descriptions.
+
+“You rang?” Mhaira asked without looking up.
+
+“Did a man named Durence ever beat the stuffing out of you with a magic shield?” she asked and Mhaira snapped the book closed, face so expressionless that it looked like a corpse.
+
+“Try that again,” Mhaira said and her voice radiated death. Even if Mharia was a forced contract, Delta still felt a shiver down her spine.
+
+“Uh, did you ever do deadly mortal combat with a powerful warrior wielding a legendary shield of power and the outcome was undecided?” Delta said slowly. Mharia blew out a sigh.
+
+“The damage to my ego is already done. Yes, I recall Durence. The heroic man of the hour. His shield more so. You don’t often see Seeds bloom into a Self-Echo of the person,” she admitted and put the book back on the shelf.
+
+“So, you know where the shield is?” Delta said excitedly. Mhaira gave her an odd look.
+
+“It’s gone. No Durence... no shield,” Mhaira said slowly as if Delta had issues understanding simple concepts.
+
+“But Echoes spread and live on if their other selves die,” Delta argued, feeling like she had all the wrong pieces to this puzzle.
+
+“Because Echoes don’t care whom they twist or why. Many of them do it unconsciously. When a ‘hero’ or a ‘murder enthusiast’ creates a Self-Echo, it only bounces between itself and the host. One goes, the echo just fades away since it can’t bounce off the ‘material’ it needs to make that particular echo,” Mharia said, sounding bored. “I suppose a person could infect others, but they would have to naturally want to control or subjugate people and then become powerful enough to Self-Echo, which I haven’t seen yet,” she added.
+
+“So, Self-Echoes are really rare,” Delta mused.
+
+“Emphatically so. You’ve actually had quite a few Self-Echoes moving through your halls over time,” Mharia admitted.
+
+“I have?” Delta blinked, not sure she’d notice amazing weapons of legendary status.
+
+“Delta, Self-Echoes aren’t just physical weapons. Some are, but your little friend Deo? His mother has a Self-Echo that was once Silenced and is now only returning,” Mhaira pointed out.
+
+“Wait, how did you know about Isanella? You weren’t here,” Delta asked, eyes narrowed.
+
+“I know what to look for. The Silence are very interested in those with Self-Echoes. For if they can be offered to include an Echo, the harmony they produce is multiplicative, not additive,” Mhaira said with a shrug.
+
+“You sound well versed,” Nu interjected. Mharia’s face half-melted.
+
+“I discovered my own dreadful Echo so many years ago. My hatred of life and the divine made me destroy life ever so effectively. My Sun explained so much, but he never did harmonize with me. He said we were ‘incompatible’” Mharia shrugged and floated around to another shelf.
+
+“So, all powerful people Self-Echo?” Delta asked slowly, taking this all in.
+
+“Echoes need compatibility?” Nu asked quickly after.
+
+“I should be getting paid per question...” Mharia grumbled as she pulled out a medical textbook on unicorn dissection.
+
+“Why are you just telling us this?” Delta asked before Mharia could speak again. The young fairy beamed.
+
+“Because it doesn’t matter. The end is what it will be. You win, happy ending. I win, new world order. Either way, something changes and I do love change,” Mharia said brightly.
+
+“As for your other questions. No, not all power is Self-Echoes. Some people naturally just infused themselves with the power inside. Some Self-Echo to grant them tangible strength. Some do it as a response to pain or trauma. Some Self-Echo because they understand the world is wrong. But in general, for every five naturally powerful people, there is one that Self-Echoes. Seed Weapons, as you call them, are effective against Silence. Less so on other things, but power and seed weapons? Hm delicious power,” Mharia grinned as she eyed a depiction artwork of a gray unicorn being robbed of one of its kidneys by two demonic leering shadows in a forest.
+
+“And yes, compatibility is everything. An Echo that rages and has fire to its name will ill-suit a shy maiden who earnestly seeks truth and justice,” Mharia told Nu who listened quietly.
+
+“Echoes can cheat, of course. Use a tool of theirs long enough, being around them for a time, or even just allow them close to your heart... and then they can bend you just enough to be compatible. Then you can never be unbent,” Mhaira finished with a calm voice.
+
+“The knife, it was bending that gun lady,” Delta said and Mharia nodded.
+
+“It’s a method. Not one I would personally use. It’s chaotic and without control. The Echo is depending on remaining undetected or having all his little toys not fall to the bottom of a swamp,” she explained.
+
+Echoes, bending, shapes, self, and experience. Delta felt the words were heavier than she was understanding them to be.
+
+“Close to the heart, what does that mean?” Delta asked and Mhaira blinked then for the first time, considered her words carefully.
+
+“When you love someone. Truly love someone, be it a lover or your family, your shape will bend for them. Not cruelly or unnaturally, but as if trying to fit together in harmony. If you let an Echo shape this ‘love’. You can be changed beyond reckoning. When you radiate love, your shape is the most malleable. The most insidious and cruel Echoes do this,” Mharia said and for the first time, Delta heard disapproval in her tone.
+
+“I can be affected by it. Golems and spirits can. Dungeons can. Love is a weakness and I do not mean that in a villainous monologue manner,” Mhaira said and floated off.
+
+“So, maybe Durence’s shield survived because of love?” Delta called out after her.
+
+“The man would have to be adored for that to happen. He was just some weirdo adventurer in the end,” Mharia called back with a laugh.
+
+She had no idea...
+
+Still, this talk of weapons made Delta curious about something.
+
+“I wonder how Gamma handles Self-Echoes?” she mused, knowing that Gamma was a weapon shifter.
+
+“That’s not who I’m worried about,” Nu said darkly.
+
+---
+
+“I don’t think I need it,” Alpha admitted as the strangely calm group invited him to sit at their table as they bartered between themselves using knives, gloves, and amulets that all made his skin tingle.
+
+“A +3 protection puts you above most,” a woman said with a detached voice. Alpha could understand that, his shield magic skill was quite high.
+
+“You should always be upgrading. Stagnation implies weakness,” another man interjected and Alpha didn’t want to stagnate, not just when he found Delta.
+
+“You should get twinked out so you can raid early. Better drops make you a more valuable teammate. DPS only get selected if they’re really good,” someone pointed out. Alpha had a moment of panic, thinking that maybe he would get ditched if Delta found a stronger mage or hero unit.
+
+“No.” someone interjected and Alpha leaned back in surprise as two sets of hands dragged him back.
+
+“Begone with your unholy number talk!” Amenstar warned and Poppy at his side huffed out smoke.
+
+“Dad said Calcs deal in absolutes which can wear you down,” Amenstar said as he put himself between Alpha and the people at the table who were offering amulets and coins.
+
+Alpha watched as the boy in mostly black glowed with a dark cool aura.
+
+“You all follow guides to live your life. I make my own way,” he said and a cool breeze made Amenstar’s hair shift. Alpha had never seen these two without Deo, but the boy was oddly absent.
+
+“Nothing wrong with... being content,” Poppy said with disdain at the group.
+
+“Join our group, healers and mage welcome,” the group stood up and Alpha finally saw past his own panic to see a haze over them all. A dark oozing haze of someone who enjoyed winning, even at the cost of enjoyment.
+
+It was so familiar.
+
+So painfully familiar.
+
+“Come on,” Amenstar insisted and Alpha let himself be dragged away.
+
+Alpha had questions and he didn’t know who had the answers.

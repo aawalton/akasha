@@ -1,0 +1,275 @@
+---
+id: 6896f85f-78e6-5c59-80d5-6448ffd93bcf
+page-type-slug: story-chapter-royal-road
+title: "Chapter 37: Second Orders, Stew Pacts, and Sudden Baths"
+slug: 0037-chapter-37-second-orders-stew-pacts-and-sudden
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 37
+ownLength: 1702
+unit: words
+publishedAt: 2025-09-24
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2626167/chapter-37-second-orders-stew-pacts-and-sudden"
+royalRoadId: "2626167"
+---
+
+PoV Luna
+
+Luna should not have said anything. Nope. Not a word. Never! Her tail twitched nervously. Her Second was scary when she wanted to be.
+
+Really scary!
+
+At first it seemed harmless. Syl only asked more of her usual nonsense questions, all calm voice and long words. Luna wagged and tried to chew jerky instead of listening.
+
+She did half-answer some though, just to keep the jerky coming.
+
+Easy enough!
+
+But then Syl brought out a new thing. A weird drink thing in a small bottle thing?
+
+Luna was distracted by how it worked first! Asked about it. Was shown how it could be flipped upside down and the drink would stay in!
+
+Neat!
+
+Nice!
+
+…It almost made her forget about her Second being weird for a moment.
+
+Just a moment.
+
+But her insistent smile reminded her very soon!
+
+She opened the bottle up.
+
+The liquid inside shimmered blue. Smelled sharp of herbs and mana and stuff Luna did not know. Sparkled a little too.
+
+Cool!
+
+“This is a mana potion. Take just a sip for now,” Syl said, offering it forward.
+
+Luna sniffed. She licked. Then sipped.
+
+Whoa!
+
+Her whole body buzzed. And she felt full! Not food-full. Magic-full! Buzzy, sparkly, full-to-bursting! She pranced in place, tail swishing and wiggling with her hips.
+
+Then Syl smiled. Far too calm. And just a little too sharp!
+
+Uh oh.
+
+“Now transform,” Syl ordered.
+
+Luna did so, almost instinctively. Obeying her Second’s words.
+
+What followed was a lot more orders though. A lot more demands. A lot more talking, and Syl looking at her intently.
+
+Her fur bristled at the attention, but she dared not not do the things!
+
+Also, she got jerky every time she did!
+
+So that was…
+
+“Then back. Good. Now again. Shadow Step. Run. Jump. Shadow Step again.”
+
+…acceptable.
+
+Kinda. Maybe. Not really.
+
+But the jeeeerky!
+
+And just when she thought they were done, she got even more potion to sip on.
+
+Luna froze. Mouth open. Ears flat.
+
+Noooo!
+
+More tests! More orders!
+
+Two more sips later and she was still hopping in circles, shifting, blinking, bouncing. Her paws ached. Her legs wobbled. Her fur stuck out in every direction.
+
+“Awoo!” she whined, trying to protest.
+
+She was the Alpha! Second was supposed to help, not boss!
+
+Her golden eyes widened, pleading. Puppy eyes. The strongest weapon. The ultimate move. Always worked! She pushed them at Syl with all her heart.
+
+Nothing.
+
+Syl crossed her arms. Immune.
+
+WHY?!
+
+Those always worked on Mom! Even the dum-dums had folded instantly the first time around!
+
+Yet Second only nodded and said:
+
+“Again.”
+
+Luna howled in despair.
+
+Again she Shadow Stepped. Again she changed. Again she jumped. Again she stumbled. Again she transformed. Her tongue lolled, chest heaving.
+
+Not until the moon had climbed higher did Syl finally lower her staff and declare the session over.
+
+Luna collapsed dramatically into the moss, limbs sprawled wide, tongue hanging. Defeated. Utterly defeated!
+
+At least…
+
+【Lunar Form Lv.2 → Lv.3】The narrative has been taken without permission. Report any sightings. 【Lunar Form Lv.3 → Lv.4】
+
+Her eyes cracked open, tail twitching weakly. Yes. Worth it. Skill leveled twice. Apex progress.
+
+Still…
+
+She caught the glint in her Second’s eyes.
+
+That was not the end.
+
+No. That was only the beginning.
+
+And that was terrifying!
+
+Now that he saw they were done, Sepio wandered closer, armor clinking with every step. He leaned on his shield like it was the only thing keeping him upright.
+
+“How’s our favorite Wildling doing?” he asked, tone far too casual for Luna’s liking.
+
+Luna narrowed her eyes, back in her totally human form. Her ears shot forward, tail flicked sharp.
+
+“You!” she snapped. “Silly!”
+
+Not Wildling. Not pup. Simple name. LUNA. Why did dum-dum keep forgetting?
+
+Before she could bite it into him, Syl lifted her staff and gave him a clean bonk across the shoulder. The smug little smile on her lips made Luna’s tail wag in triumph.
+
+Yes! That was why she was Second. Good assist, Second!
+
+Then Syl did what Syl always did.
+
+She explained, with more words.
+
+First to Sepio, to call Luna Luna properly.
+
+Then told Luna about what the heck Wildlings even were. And that many Wildlings were strong. Yes, Luna was strong!
+
+“Most of the races you know today trace back to them. Or so the records claim. It’s unclear whether the first Wildlings seeded the known sapient races as we understand them, but enough of them did. Many birthed lineages of their own, and in time those lineages forgot their roots. As such their names and origins are often shrouded in mystery, but to show our respect to them we call them Progenitors.”
+
+Luna didn’t know what that meant, but it sounded important. Syl barely noticed her nodding along before continuing. Too caught up in her own explanation!
+
+“Some scholars argue that goblins, dwarves, and even elves – the oldest known sapient races, barring perhaps Elementals – carry Wildling blood if you look far enough back. The more religious and prejudiced folk do not take kindly to that suggestion though… But just imagine that: the bones of our so-called ‘civilized’ peoples resting on feral shoulders.”
+
+Uuuuuh? Luna sort of gets it. Maybe.
+
+“The truth is tangled, Luna. Even magic was not something we just learned, it was lived. The Wildlings were proof and origin of it. Or just proof of the origin and the meld being possible. Beast and mana were one, and where the beast turned toward thought, that union deepened. Sapient peoples, though weaker and more brittle than beasts and monsters are, learned to walk beside it. To mingle with it. To become half of it. To master it. We stand in the shadow of that bond still, though few understand it. Beasts, mana, Wildlings, and people: all threads of the same weave.”
+
+And now Syl started talking about history. About magic. About the strange bond between beasts and mana and people - humans and Wildling-humans? - and about things Luna didn’t chew well in her head.
+
+At first Luna perked up, ears tall, eyes bright. New words. Maybe useful!
+
+Maybe would lead to more spice!
+
+But Syl didn’t stop.
+
+“Some Wildlings are spoken of only in whispers, their traces scattered like bones in sand. A few I heard about only from forest elders, ancient in their own right. While others left clearer footprints.
+
+The Beastkin, first of all. Dogs, cats, foxes, horses, and birds – from rare fiery phoenixes to clever magpies. Creatures that walked between paw and hand with little shame. Their descendants still surface now and then, though the names change with the age.”
+
+She explained more. And more. And even more!
+
+“Then there were the Scalekin. Lizardkin, drakes in flesh, serpents who learned speech. As well as many types of Fishkin, ruling over the waters. We know the least of those, their records the fewest, though variety perhaps the greatest.
+
+And the tusked lines, known as the Orc-bloods. Their strength was never questioned. Old carvings tell of Wildlings who strode like mountains with hides tougher than strongest armor. From them, perhaps, came the hardy people who now call themselves orcs, or so the theory goes.”
+
+Luna’s ears slowly drooped. Her tail curled around her leg. Her eyes glazed into golden saucers of boredom. Her jaw dropped open in a silent groan.
+
+Too many words! Too much nonsense! No bite. No spice.
+
+Her thoughts drifted. Would there be stew again? Jerky? Soup? There had better be. A big bowl. No, two bowls. Stew Pact. That sounded right.
+
+Her tongue lolled as the thought grew better and better.
+
+Yes! Reward for patience. Perfect trade.
+
+She barked in the middle of Syl’s word storm, ears snapping high.
+
+“I listen, I get soup! Or stew! Or spiced stuff!”
+
+The camp went quiet for a beat.
+
+Syl paused, one brow arching high, her staff lowering. Then, slowly, her lips curved into a smile.
+
+“…Deal?”
+
+Luna’s tail thumped so hard against the log it rattled.
+
+Perfect!
+
+Victory pact secured!
+
+She leaned forward, grin wide, eyes bright with spice-dreams.
+
+The dum-dums thought they could out-talk her? Ha! She would out-trade them. They had more food hidden somewhere. She could smell it. Jerky. Soup. Stew. Maybe even stranger spiced human-things she hadn’t tried yet!
+
+She didn’t know what they were. Didn’t matter. They would be hers. Definitely!
+
+And this time, before Syl continued, Luna got her stew!
+
+She leaned back on the log, bowl hugged close, chewing happily while Syl’s endless word-babble filled the night air. Normally boring. But stew made it better. Every slurp softened the noise, every bite of meat kept her tail swishing.
+
+Her ears flicked in rhythm with her chewing. In. Out. Slurp. Crunch.
+
+Then–
+
+Trianna crept closer, eyes shining strange in the firelight.
+
+“…Can I pet your fur?”
+
+Luna blinked.
+
+Obviously her fur was magnificent. Of course others wanted to touch it. It was soft. Silvery. Apex-level fur!
+
+She puffed up proudly, chin high, tail wag confirming her thoughts. A little bit was fine! She was generous.
+
+Trianna reached out with careful fingers, and pulled her into her lap?!
+
+But before Luna could react, the great stuff happened!
+
+Head scritches.
+
+Luna’s eyes closed halfway, ears tilting into the touch.
+
+Leg thump.
+
+Wait – leg thump?!
+
+Her eyes shot open wide. Her foot tapped the dirt all on its own. Even in human form?
+
+Drats!
+
+She tried to stop it, but the cursed thump kept betraying her. Smug scritches continued. Trianna giggled softly.
+
+Luna huffed, cheeks puffed in defiant pride. Fine. She would allow it. Just this once.
+
+But before she could fully recover her dignity, Syl’s voice slid into the air. Calm. Too calm.
+
+“Luna… when was the last time you took a bath?”
+
+The spoon froze in Luna’s hand.
+
+“…A what now?”
+
+Her ears twitched. Her tail stiffened.
+
+Syl’s gaze was steady. Dangerous. “A bath.”
+
+Luna tilted her head, chewing on the word. Was that like… Mom’s mlems? Tongue-cleaning?
+
+Her nose scrunched.
+
+Confusion. Suspicion. Danger.
+
+The stew in her mouth suddenly felt less safe. Her instincts screamed warning.
+
+Bath. Whatever it was, it sounded terrifying!
+
+And Luna was just about to find out what it entailed.
+
+To her growing horror!

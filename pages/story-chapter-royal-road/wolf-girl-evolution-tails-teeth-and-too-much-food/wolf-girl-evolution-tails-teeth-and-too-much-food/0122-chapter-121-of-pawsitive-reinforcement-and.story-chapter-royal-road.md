@@ -1,0 +1,641 @@
+---
+id: 5e9fee06-50f8-5fe1-8038-a2176ef605fa
+page-type-slug: story-chapter-royal-road
+title: "Chapter 121: Of Pawsitive Reinforcement, and Towerful Secrets"
+slug: 0122-chapter-121-of-pawsitive-reinforcement-and
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 122
+ownLength: 2845
+unit: words
+publishedAt: 2026-04-22
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3306211/chapter-121-of-pawsitive-reinforcement-and-towerful"
+royalRoadId: "3306211"
+---
+
+PoV Luna
+
+Training did not slow them down in the slightest.
+
+As for Luna…
+
+If anything, it made her faster!
+
+Luna moved ahead of the group in smooth, confident strides, her body already doing exactly what it needed to without conscious effort. There was no hesitation in her footing, no wasted motion in her turns, no imbalance in her landings.
+
+She did not need to think about how to move every time her Lunar Form activated.
+
+Luna simply did!
+
+Which was exactly why Syl changed the approach.
+
+“Luna.”
+
+“Yesh?”
+
+“What do you think about transforming… while also using your Skills? One at a time for starters.”
+
+Luna stared at the brightly smiling expression of her Second. She really didn’t know why her friend got so happy about training!
+
+But that idea–
+
+It sounded fun!
+
+She slowed just enough to consider it properly, then pushed forward again, her focus sharpening as she picked a point ahead and committed.
+
+“Yip-yep! Luna will try!”
+
+Her body surged forward, picking up speed as she dropped low into her wolf form mid-stride, the shift flowing cleanly as she accelerated.
+
+That part was easy.
+
+Very easy!
+
+She had done it many times.
+
+The other way around was a wooo little harder, but Luna managed just fine!
+
+And now–
+
+Time for something else.
+
+Luna readied herself and jumped! High and good!
+
+And still mid-air, she shifted back.
+
+The change disrupted her balance just enough that her landing came heavier than expected, her feet adjusting quickly to compensate as she continued forward without stopping.
+
+But it wasn’t clean.
+
+She felt how the change in balance destabilized her Jump immediately.
+
+Again!
+
+She pushed forward, jumped, shifted once more–
+
+Better.
+
+Buuut–
+
+Still not right.
+
+“Keep going, you’re almost there!” Syl called out from the side.
+
+Luna’s tail flicked.
+
+Hmf!
+
+Again!
+
+A burst of speed first, pushing herself harder before the jump, then shifting at the peak instead of during the ascent.
+
+And the landing held!
+
+Ehehe!
+
+Apex Predator reflexes!
+
+Luna was an awoomazing genius–
+
+Trianna cut across her path without warning, forcing Luna to react instead of repeat. Luna adjusted instantly to the interruption, shifting direction mid-run before triggering the transformation again!
+
+This time not just to land but to continue moving through it.
+
+Wolf.
+
+Human.
+
+Wolf again!
+
+Bestest form, proper and four pawed!
+
+And as Luna practiced, the transitions began to smooth out. Her body quickly learned where the interruptions were and how to carry momentum through them instead of losing it.
+
+Practice made perfect!
+
+“Awooo!” she didn’t miss the chance to let her voice be heard.
+
+It’s been too long!
+
+It felt nice, and very proper.
+
+Mhm–
+
+And now, other Skills!
+
+She pulled from herself, testing them, one by one!
+
+Shadow Step didn’t really change anything…
+
+But the breakthrough came with Shadowmeld!
+
+Luna’s trusty shadows, and how they were so happy and eager to respond to her wishes…
+
+She guided the eager wisps to help her maintain balance – give grip where there was none before, and let her body slide into a perfect position to continue her Run undisturbed, no matter the form!
+
+“Yesh!”
+
+“Haha, that looked great, do that again!” Trianna called out from the side. Syliana nodded proudly from behind.
+
+So Luna gladly did!
+
+Wolf, Run, Shadow grip–
+
+Transform!
+
+And let her Shadows move her upwards, and slide her legs juuust in place for the next step!
+
+Each shift fed into the next action instead of interrupting it, and it felt like she could maintain her form no matter what!
+
+That felt right.
+
+Very right!
+
+Ehehe!
+
+She pushed it further then, chaining the shifts together, faster now, tighter, the delay shrinking until it was barely there at all.
+
+Movement didn’t stop.
+
+It flowed.
+
+One move into the other.
+
+With no breaks, no resets.
+
+Just smooth continuous motion!
+
+Trianna laughed somewhere behind her as she darted past again, but Luna barely registered it now. Veric adjusted his path to match hers, maintaining distance but keeping pressure on her to continue adapting.
+
+Her focus locked fully onto the pattern now, her body repeating it again and again, refining it without needing instruction, pushing it faster, smoother, tighter.
+
+And sometime during that practice–
+
+【Lunar Form Lv.19 → Lv.20】
+
+The familiar ring of level up came, barely noticeable against the rhythm of movement, but the change that followed was unmistakable!
+
+System meanie was telling her things, without actually telling!
+
+Luna slowed down, and she felt the difference.
+
+Not only was her transformation smoother, easier, and more flexible–
+
+There was new space too!
+
+Empty and waiting for Luna to choose!
+
+Her breath caught slightly.
+
+Another form!
+
+Her tail froze for half a heartbeat before snapping into motion again, faster than before.
+
+“Awooo!”
+
+The sound burst out of her as she jumped, spinning once mid-motion before landing and turning back toward the group, her excitement impossible to contain.
+
+Syl’s gaze met hers immediately, and Luna zoomed right up to her friend, jumping into her arms, to tell her all about it!
+
+Her friend barely even slowed too!
+
+Very Second like!
+
+“So,” Syliana said, a faint smile forming, “have you decided what your other form would be?”
+
+Luna’s tail stopped wagging.
+
+That–
+
+Her thoughts scrambled.
+
+Uh.
+
+She already had her most proper and awoomazingly glorious Apex Predator form.
+
+Wolf was best!
+
+For hunting, running, and more.
+
+And she could turn into human!
+
+It let her eat jerky, and talk to others, and stuff like hugs, and tickles, and pranks!
+
+And grabbing things, like sandwiches!
+
+Yesh!
+
+Her head tilted.
+
+…So what did Luna even need another form for?
+
+Her thoughts reached outward, searching for something that fit, something that made sense, but nothing came.
+
+Ehe?
+
+Luna scratched her head, dropped back down on the ground, and found…
+
+Nothing?
+
+Her expression tightened slightly as she tried again, pushing harder, expecting something to form.
+
+Still nothing.
+
+“...Nuh uh! Luna does not know! Wolf strong, human for spice and talk! No need for more!”
+
+Her tail flicked once, firm.
+
+Yep!
+
+She didn’t need more.
+
+“Is that so? Then we will have to find something worthwhile for you later. You did great.”
+
+Saying so, Syliana ruffled Luna’s hair, and placed a small bundle of jerky in her hands.
+
+Yuss!
+
+Her Second was the bestest!
+
+She bit into the familiar salty and spicy goodie, and her tail resumed its happy wagging.
+
+Luna might have eaten many paw-licking foods since joining up with the humans.
+
+Many of them super tasty, perhaps better than jerky.
+
+But–
+
+It was her first taste of glorious spice.
+
+The goodies of life.
+
+The most precious memory. It led her to Second, and pack.
+
+She would cherish it furever!
+
+…And it was still a taste worth a mlem!
+
+Ehehe!
+
+***
+
+They wrapped up training earlier than expected.
+
+And Luna also found her transformations became even more flexible now!
+
+Smoother and easier to flow from one to the other.
+
+That was nice!
+
+Syl called the stop once it was clear the improvement had stuck, and the moment it did, the tone shifted just as quickly as it always did.
+
+From training–
+
+–to break and praise!
+
+Hands of her friends found her immediately!
+
+Headpats!
+
+And shoulder pats!
+
+Then a firm one from Veric that nearly rocked her off balance before she steadied again with a small huff.
+
+And Sepio's light pat on the back with a for-once-not-grumpy “Good job”.
+
+Trianna ruffled her hair far more than necessary, clearly pleased, while Ray added his own quieter approval with a brief nod and a smirk of approval.
+
+Syl, of course, was more measured.
+
+Her fingers ran gently through her hair, and Luna could feel their warmth as her hand rested briefly on her head.
+
+It was nice!
+
+So nice Luna pulled out an Ant meat dumpling from her Maw!
+
+To pretend the wags weren’t from the praise.
+
+Nuh uh!
+
+Not at all.
+
+Still, praise felt great!
+
+Luna had trained, and improved.
+
+She did the bestest she ever did, for sure!
+
+Her posture straightened just a little more, her expression settling into something proud enough that Trianna took one look at it and laughed.
+
+“Oh no,” she said, already grinning. “Somebody learned the wonders of praise here!”
+
+“Luna did not!”
+
+…She already knew them before!
+
+“Who knows, maybe she’s going to start charging us for lessons next,” Ray added in.
+
+Luna considered that.
+
+Very seriously!
+
+“…Yep!” she said after a moment, entirely convinced. “One jerky per lesson!”
+
+Ray snorted.
+
+“Of course.”
+
+Veric said nothing, but the slight shift at the corner of his mouth found its way there.
+
+And Syl just sighed softly.
+
+Break over, they were soon moving once more.
+
+The plains stretched ahead, open and clear, and Luna didn’t stay in formation for long.
+
+The pull to move ahead came naturally, and Luna followed it with purpose rather than impulse.
+
+…Maybe a bit of both!
+
+She pushed forward at a controlled pace, then zoomed ahead covering ground quickly before slowing as she scanned the area, her senses stretching outward as she checked for anything out of place.
+
+But she found nothing worth noting!
+
+Just some weak prey that was already running away.
+
+So Luna just turned and ran back to pack!
+
+“Nothing worth biting yet,” she reported, entirely serious as she rejoined them.
+
+Trianna gave her an approving nod.
+
+“Good to know.”
+
+A few minutes later, Luna was gone again. Forward, scan, return! Each time her report remained the same, delivered with the same level of certainty.
+
+“Nothing worth biting yet.”
+
+Again.
+
+“Nothing worth biting yet.”
+
+And again!
+
+By the fourth time, Ray let out a quiet breath.
+
+“At this rate,” he muttered, “we’re going to run out of things to not bite before we even reach the tower.”
+
+Trianna smirked, and asked Luna a question of her own, a very important one!
+
+“...Luna? Are we there yet?”
+
+Luna glanced at her.
+
+“Nope! And there is nothing worth biting yet!”
+
+…What followed was something the rest of the party remembered with trepidation.
+
+But Luna and Trianna recounted with joy!
+
+Tri especially remembered fondly the groaning voices of the others every time she exchanged ‘Are we there yet?’ with Luna.
+
+As for the little wolf girl?
+
+To her, all that mattered was–
+
+That it was fun!
+
+And after yet another such pass, her Second called out to her!
+
+“Yesh?”
+
+“Conserve your energy,” Syl said. “The tower is normally a full day’s journey. We’ve made good time, but there’s no need to exhaust yourself before we arrive.”
+
+Yep, that made sense!
+
+She nodded once.
+
+“Okay!”
+
+The scouting didn’t stop entirely, but Luna did take it easier.
+
+Slower and shorter runs, done less often!
+
+But at least they made good time!
+
+And by the time the sun had begun its slow descent, the small forest hiding the tower came into view.
+
+A shape against the horizon that Luna caught before the others on one of her runs.
+
+Her pace slowed slightly as she pointed it out on her return.
+
+“There!”
+
+It was invisible at first.
+
+The structure stood deeply within the trees, where the plains began to stretch wider.
+
+Yet it did not dominate the landscape the way something like it should have. Instead, it seemed tucked into the terrain, partially obscured by the way the land shifted around it, the trees further hiding it from distance.
+
+Small clusters of trees broke up the line of sight from most angles, their placement irregular but effective. Thick bushes filled the gaps between them, while scattered rock formations rose just enough to disrupt any clean view of the area beyond.
+
+If they weren’t pointed in the right direction, who knew when they would have actually found the place?
+
+Unless someone already knew where to look, the tower would remain hidden.
+
+Luna tilted her head slightly and her nose twitched, as she tried to pick up anything beyond the usual scents of the plains.
+
+Nothing obvious came to her.
+
+But that didn’t mean anything yet!
+
+They slowed as a group, their pace dropping naturally as they approached the outer edge of the area. The distance remaining was manageable, and with the light still holding, there was no need to stop yet.
+
+“We can reach it before evening,” Syl said, more to confirm than to question.
+
+No one disagreed.
+
+Ray’s gaze moved across the terrain, slower, more deliberate as he took in the positioning of everything around them.
+
+“It’s a good place for an ambush,” he said quietly. “Or for something that doesn’t want to be found.”
+
+Luna glanced at him.
+
+That sounded–
+
+Weird. And worrying?
+
+Luna wasn’t sure!
+
+Syl didn’t respond immediately. Her attention had shifted elsewhere, her focus turning inward as she began scanning, her magical senses extending outward in a way Luna couldn’t quite follow but had learned to recognize.
+
+The familiar smell of magic made it even more obvious!
+
+They paused there, just short of committing fully to the approach, giving Syl the time she needed.
+
+“I’m not picking up anything immediate,” she said after a moment, her tone controlled. “No active mana signatures near the exterior. If anything is here, it’s either concealed or deeper inside.”
+
+Ray’s gaze moved along the edges of the terrain again, tracking the same lines he had noticed before.
+
+“Still a good place to hide something,” he said quietly.
+
+Syl nodded once, then glanced toward Luna.
+
+“Your turn. What can you smell?”
+
+Luna perked up immediately, her focus snapping forward as she took in a deeper breath, letting the scents settle properly this time, not letting them rush past.
+
+There was a lot hidden in the wind.
+
+Many old traces, faint and distant.
+
+Things that had passed through before but weren’t here anymore.
+
+She sorted through them quickly, pushing them aside.
+
+The only thing that stood out–
+
+Earth!
+
+Recently disturbed.
+
+Not fresh enough to be happening now, but not old either. Something had moved through here, and shifted through the ground rather than move on.
+
+Her ears tilted.
+
+“…Earth was moved around there,” she said, her voice more focused now. “Before. Not now.”
+
+She took another breath, searching deeper, trying to find anything more.
+
+Something–
+
+Her nose twitched sharply.
+
+There!
+
+Luna felt a smell, pulling at her nose, leading deep into the tower.
+
+It settled into her senses and drew her forward with quiet certainty.
+
+Her eyes widened.
+
+Strong.
+
+Very strong prey!
+
+She drooled.
+
+And so tasty smelling!
+
+It made her stomach tighten just slightly, even without hunger.
+
+“Heavenly,” she said, the word slipping out before she could stop it.
+
+Her tail lifted.
+
+“It’s there,” she added quickly, already turning toward the tower. “Strong prey. Very good prey!”
+
+Syl’s posture shifted.
+
+“Inside?”
+
+Luna nodded immediately.
+
+“Yip yep.”
+
+They exchanged glances, the decision settled quickly.
+
+“Let’s go in carefully,” Syl said, though the word came just a fraction too late to slow what followed.
+
+Because while her pack was debating–
+
+Luna was already moving!
+
+She wanted to know what the source of the smell was!
+
+The zoom could not be stopped!
+
+And as she neared the tower, the pull increased, clearer with every stride forward! Luna crossed the last stretch toward the tower, her body leaning into it without hesitation.
+
+The air changed slightly as she reached the entrance, the muted scents she had noticed earlier growing thicker, layered over each other in a way that made it harder to separate them cleanly.
+
+But that didn’t matter.
+
+The stronger pull cut through all of it, stronger than ever!
+
+Inside–!
+
+She crossed the threshold.
+
+The space opened around her, the interior of the tower wider than it first appeared from the outside, the light dim but still clear enough to see.
+
+Luna slowed, just a little bit.
+
+Something felt–
+
+Off.
+
+There was no movement.
+
+No sound.
+
+No shifting air.
+
+No… prey?
+
+But–
+
+In the center of the ground floor.
+
+There… was a piece of meat.
+
+Perfectly placed.
+
+Perfectly still.
+
+The scent of it rich and overwhelming! Far stronger than anything outside, layered with something that made her instincts flare in recognition.
+
+The drool did not stop.
+
+It was just too good!
+
+Luna stepped forward.
+
+One step.
+
+Then another.
+
+Her body continued moving, carried by the same forward momentum that had brought her inside, even as something at the edge of her thoughts tried to catch up, to warn her.
+
+That something was…
+
+Wrong.
+
+There were no monsters here.
+
+Just–
+
+The meat.
+
+Her foot crossed an unseen line.
+
+And the reaction was immediate.
+
+Light flared.
+
+Lines that had been invisible a moment before ignited across the floor and walls, crisscrossing in sharp patterns that surged outward from beneath her feet.
+
+The air shifted violently as the structure responded, the open entrance behind her slamming shut with a force that echoed through the chamber.
+
+The runes burned bright, the scent and strength of the sudden magic slamming into her senses.
+
+Luna stopped, shaken out of her stupor.
+
+Her ears snapped back as her body tensed, the pull that had drawn her forward now replaced by something entirely different.
+
+Trap.
+
+It was a trap!
+
+The realization settled in at the same moment the light intensified around her, sealing the space completely.
+
+With Luna deep inside.

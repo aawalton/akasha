@@ -1,0 +1,190 @@
+---
+id: f589a9ce-7bde-59f5-86f9-74d9d482819a
+page-type-slug: story-chapter-royal-road
+title: "030 - Very Small Velociraptor"
+partOf: zero-day-saint-i-cheat-smarter-shapeshifter-litrpg
+position: 30
+ownLength: 2557
+unit: words
+publishedAt: 2026-05-28
+link: "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3459054/030-very-small-velociraptor"
+royalRoadId: "3459054"
+---
+
+Crossing into the forest felt like stepping into a different world. The only similarity was the eerie post-Seal silence that extended from the city into the forest. Under the shade of the trees, the summer air was considerably cooler than it had been outside. And the smells—there were so many of them. Which presented me with a new problem: I couldn't even categorize half of what I perceived.
+
+["If the wood elves sneak up on us because they smell like vanilla and cinnamon instead of smelling like people, blame the Blessing, not me."]
+
+"If they smell like vanilla and cinnamon they wouldn't be evil, though."
+
+["Good point."]
+
+We carefully made our way deeper into the forest. Conveniently there was a path that cut through the underbrush.
+
+After a couple of minutes one scent started to stand out more clearly. And I had zero idea what it was. My vocabulary didn't even have the words to describe its components.
+
+["Heads up, I think there is something nearby."]
+
+Jamie nodded and looked around. He already had his sword and shield out. I did the same, while I tried to track the scent to its source. At the base of a tree, I looked up, just in time to see a massive spider, slowly descending on an arm-thick strand of silk, utterly noiseless.
+
+The moment I noticed it, it abandoned its slow descent and rammed its eight legs into the bark in a terrifying vertical sprint. Besides the dot right above me, two more appeared on my minimap, surrounding us.
+
+I whirled around to rush to Jamie's side, who was already ready to face the one behind me, just in time to spot one of the spiders perched on a thick branch, aiming its abdomen at Jamie.
+
+If I warned him in chat, there was no way he would read it in time. If I barked, he'd look in my direction first. So I rushed him at full speed and tackled into his shield, sending both of us sprawling. His shouted complaint was cut short when a forking strand of spider webbing impacted the ground where he'd just stood.
+
+He'd dropped his sword when I tackled him, but with a flick of his wrist, it was back in hand. Ready to meet that first spider that was still coming for us. Its body was about the size of a black bear, but the long hairy legs gave it a lot of height. The two front legs looked more like spears than legs, and its fist-sized fangs dripped with neon-green venom, a startling contrast to its otherwise pitch-black body.
+
+"We need to work on our communication, Eve!" Jamie shouted.
+
+["Keep a tree between you and the ranged spider."] I wrote, while I ran to intercept the third spider, which was also rushing us on the ground.
+
+I briefly considered switching back to the buffalo shape, but those glistening fangs made me reconsider. I didn't know how shifting would affect poison, and the buffalo was a lot less agile than Angel's shape. Instead, I activated Focused Fury, which raised my Strength and Endurance both to 12 and my Agility to 13. I was reminded of my first kill in that shape, when I was supposed to cripple my foe to avoid the risk of its bite. Back then, I had not complied with Gabriel's advice and taken the hard route.
+
+Against spiders the size of small bears, it felt a lot more like the right call. I met the spider's charge with my own, jumped, bit down on one of its legs, and let momentum carry me forward. The leg snapped at a joint, causing the, so far silent, spider to screech in pain and anger.
+
+I kept running through the dense underbrush, weaving left and right in case that one spider decided to take potshots.
+
+Jamie was holding his own, barely. He successfully stayed in cover from the ranged spider, but didn't manage much more than doing that and defending against the one that was on him. Nothing I could do while there were two of them to deal with.
+
+I repeated the same attack pattern two more times, taking three of its non-spear legs. Only on the last attack, it got me with the other spear-leg, cutting along my torso, but not penetrating through my ribs. For one panicked breath, I watched my debuffs, but no new one appeared. Only the fangs carried their poison.
+
+With three legs down, this spider was no longer a threat, even though half its health remained, slowly trickling down due to the bleed I had inflicted.
+
+Jamie started looking worse for wear. The spider had managed to cut into his sword arm, though his health had only taken a minuscule hit. Who knew how long that luck would last. We needed some better ranged abilities.
+
+My Focused Fury was still active, and I hadn't gotten a refund yet. But I needed something that could get up to that spider in the tree. So if I swapped now, I wouldn't get that refund today anyway.
+
+I made the call that if I swapped to that damn pheasant, I'd better bring another +2 to the table—I infused another ATP, dropping my max and current down to 5/5, to lock the pheasant into the collar.
+
+Not wanting to suddenly shoot through the forest at over 100 mph, I came to a halt before I activated the pheasant shape. Time to learn what it meant when a 3 pound bird carried an olympics-level punch.
+
+I just hoped that my Instinct skill was high enough to make the jump. I didn't need to fly. I only needed to tackle that spider out of the tree, which was entirely focused on the now-panicking Jamie . I took a running start, jumped and let my instinct handle the entire wings-department.
+
+It worked—somewhat. With an explosive burst of speed I shot at the spider, my panicked 'bawk!' alerting it to my approach. It turned to face me, and I could have sworn there was surprise in those eight eyes, as I slammed into it, somewhere between the torso and abdomen.
+
+Even while we fell, I kept going at it with my talons. Just like my hands in human shape, they'd been enhanced by my Tooth and Claw perk. I didn't have much reach, and they weren't long, but where I struck the spider, I cut through chitin like butter.
+
+We landed with the spider on its back and me on top. It squirmed, trying to reach me, but I kept going, adding attacks with my beak against its torso to the mix. That had even less reach, but penetrated deeper, rewarding me with a face full of spider-goo.
+
+With all those buffs, the pheasant wasn't a helpless bird—it was a very small velociraptor.
+
+By the time the spider managed to turn itself, its health was deep in the red, rapidly draining from all the lacerations I had inflicted on it.
+
+I dashed away and watched as it died, before I turned to help Jamie with the last one.
+
+To give him an opening, I needed to distract that spider, and what better distraction than a tiny dinosaur at its neck. With another 'Bawk!' of defiance I charged the spider and jumped on its back, where I immediately started harassing it with my talons and beak.
+
+The spider pulled back from Jamie and tried to stab me with its front legs without stabbing itself. An effort that mostly resulted in it awkwardly slashing at nothing and stumbling.
+
+Finally, Jamie used the opportunity and drove his sword into the distracted spider's head, killing it in one blow.
+
+"Bawk!" I said, beaming at Jamie. Who wasn't as excited as I was. He dropped his sword to the ground, took a couple of steps away from the spider corpse and leaned forward, hands on his knees, taking too-fast, too-deep breaths. Only then did I understand what had been happening; why he hadn't fought as hard as last night.
+
+I wanted to approach him, but he must have noticed the red dot on the minimap. He turned around, fear in his eyes, the sword once more called back into his hand.
+
+The Focused Fury buff ran out, and I shrank down a bit. The stats would have to suffice for an already crippled spider.
+
+["Don't worry. Stay here, I'll take care of it."]
+
+The spider was trying to crawl toward us, pulling itself with its front legs, to limited effect. There was a 'Crippled' debuff under its health bar. Gabriel had explained to me that eventually Heightened Senses would allow me to see such details. Guess I had crossed that threshold at some point.
+
+Cruel as it was, I wasn't going to waste that opportunity. I took my time attacking it from its flanks, running by, slicing it with my talons. Until my shapeshifting and ring cooldowns ran out, and until the spider was at a sliver of health, with an active bleed debuff.
+
+The entire reason I had picked Tooth and Claw in the first place. Before the spider died, I swapped to the opossum shape. Another kill notification, another ATP refunded, putting me back at 5/5, and another task completion.
+
+I turned away from the dead spider and walked up to Jamie, who was sitting against a tree, out of sight of the spiders. I bumped my nose against his leg and curled up next to him.
+
+After a moment he huffed in amusement. "Damn, that's cute."
+
+["I always liked opossums. Weirdly cute little buggers."]
+
+"Look, Eve…" Jamie began.
+
+["Don't sweat it. The human brain, and most animal brains, I can tell you, are a mess and you don't have to apologize for the bugs."]
+
+Jamie chuckled. "Thanks, Eve."
+
+When my timer ran out again, I swapped back to my human self and sat next to him against the same tree. At this distance, and in the silence of the forest, I could hear his heart rate, slowly but steadily going down from his panicked state.
+
+"Fuck," he said. "Why spiders? Why did it have to be spiders?"
+
+"Did you mention arachnophobia to anyone since yesterday?"
+
+He thought about it for a moment. "Yes. Ash. When we talked about the free health care that came with the Blessing, I complained that even the Blessing didn't consider mental health to be 'a real issue'."
+
+"I think our minds stay unaltered because that is what we are proving, right? We are given literal superpowers to fight against Hell. The entire stat spread looks a lot like the most popular role-playing game on the planet. And yet Willpower was left out as a stat. If we could delete fear and sin and temptation and weakness from ourselves through the Blessing, we wouldn't prove that we can stand against Hell."
+
+["You'd be correct."] Gabriel wrote in the Guide chat. I was monologuing too well. I even shut up the beautiful voice in my head.
+
+"You know," I went on, "if the Blessing had deleted all my neuroses, all my irrational hang-ups and fears… I don't think there'd be much left to shape into a functional person."
+
+"That… does make a lot of sense. At least Paladins supposedly can get a ton of fear related perks. Maybe I can just make myself immune to any phobia through that."
+
+"Sounds like a plan. Want to head back to the fire station? I don't think this forest is going away anytime soon, and we only have a bit over an hour on our food buff. Besides, once I turn in all those rewards, I'll be level 10. Next time we will loot those fuckers."
+
+Jamie got up and held out a hand, smiling again. "Sounds like a plan."
+
+#
+
+We weren't even two minutes into our return trip when Jamie stopped.
+
+"Actually, not a good plan," he said.
+
+I looked over at him. "Oh?"
+
+"That hour we have, we should use it. You'll be level 10 when we return, but I'm not even nine. I have full zeal, haven't used up any of my heals, and you are at full ATP. Me getting a panic attack isn't a reason to call it quits—it's a reason to push harder. Let's go deeper. I need the experience."
+
+I grinned. "That's the spirit."
+
+"That's a wicked grin you got there. With the fangs and all."
+
+"Is that… good?"
+
+"Yeah. Makes you look confident."
+
+I turned around and headed back toward the heart of the forest.
+
+"Let's go back and see if you can put one of those spiders into your inventory."
+
+Jamie followed, though there was considerable concern in his voice. "Why would we want to bring a spider corpse out of here?"
+
+"Two reasons. First: We might be able to loot it later. Second: Exposure therapy."
+
+"Sometimes I don't like the way your mind works."
+
+"Me neither. Be glad I'm not sharing my worst ideas."
+
+"You can't just say something like that. I'll have to ask what those are and then you have to reveal how deep that darkness goes or make me imagine it."
+
+"You'll have to contend with imagining. Anyway, did your bracer give you a new resistance?"
+
+Jamie examined his bracer and stopped in his tracks. "It did not."
+
+He had killed that spider. And the fact that his bracer hadn't given him a new resistance meant one thing: He'd been nearly immune to those spiders all along.
+
+Jamie had come to the same understanding. "Fuck, Eve. I'm sorry. I… I really fucked up over nothing."
+
+"Irrational fears don't usually take magical damage resistance into account. They don't even take mundane damage resistance into account."
+
+"Maybe exposure therapy isn't such a horrible idea. In the old world that fear meant that I had to call for help cleaning out harmless intruders from my bathroom. Now though? Freezing could get people killed."
+
+We'd arrived at the spot where we fought the spiders. No other Created had shown up to claim the corpses. Couldn't blame them, the smell was horrid.
+
+"Well, you can start by testing if you can get one of them into your inventory."
+
+Jamie swallowed and nodded, before he slowly approached the corpse of the one he'd killed himself. Clearly the least messy option out of the three. He squatted down in front of it and for a moment just looked, taking it in. Then he put his hand on the side of its head and a second later, the corpse vanished, leaving only spilled ichor on the forest floor.
+
+"Damn, they are ugly," he said.
+
+"Here's hoping that the next enemies will be hot wood elves."
+
+Jamie got back up and we continued on our path. "Do you think you could just do that? Kill hot elves like those spiders?"
+
+I had to consider that question seriously. Yesterday, the answer would have been a clear no. Hell, I had struggled to kill a clearly monstrous demon hound. But today?
+
+"Yeah. If they are hostile? I think I could. Hesitation means real people could die. And I have to trust Gabriel that she knows this stuff and that the Created are just convincing NPCs."
+
+"I suppose you are right. I still hope that there are more beasts out there."
+
+"Same. Would be weird to start my heart-eating experiments with people."

@@ -1,0 +1,209 @@
+---
+id: f2e05417-933c-5f85-951d-b1aa612b2273
+page-type-slug: story-chapter-royal-road
+title: "068 - Still You"
+slug: 0068-068-still-you
+partOf: zero-day-saint-i-cheat-smarter-shapeshifter-litrpg
+position: 68
+ownLength: 1949
+unit: words
+publishedAt: 2026-08-10
+link: "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3793903/068-still-you"
+royalRoadId: "3793903"
+---
+
+I sat at the edge of the tower, back in my new self, and waited for my goggles to bond. Last time I jumped down from this roof, I had zero idea what the consequences would be. Even now I was still catching up on them, every single day.
+
+"Gabriel, you with me?" I asked.
+
+"Yes. You don't have to worry about leaving without us. You do have priority."
+
+"Any idea why mastering that shape was so cheap? Your warning made it sound like it would be very expensive."
+
+"While those mechanics are not exactly open to me either, I'd assume it's because you've been embodying it ever since the Blessing arrived. You have been fiercely protective of the people around you. You traded an eye away to ensure the safety of people you had never met before. You were granted stewardship over a pack of hyenas, and instead of using them as a force amplifier, risking their lives in the process, you put up signs threatening any invader, and you kept them safe. You even stopped Helene from killing those kobolds. That shape embodies what you are and what you do, and thus mastering it was a formality."
+
+I blinked and had to shift the goggles aside to rub my eyes. I'd never seen anything I did from that perspective. Least of all, I had expected the Blessing to reward what I did.
+
+"Thanks," I said. "That answers my question, I guess."
+
+Goggles attuned, I stood up. "Tower. If you can hear me, be assured I will return. I won't leave you alone. I won't let anyone else do what Mammon did to you."
+
+The horizon was only showing a faint hint of dawn. I dropped off the tower's edge.
+
+Thanks to having the tower as a runway, I arrived at the boat with five seconds left on my cooldown. When it ran out, I switched to my human shape, my regular, old, human shape, and settled into one of the deck chairs.
+
+Up here I was in range for Jamie's Oath buff. It had increased to +3 to all attributes.
+
+Neat. With everything that went down yesterday, I missed having him by my side. Helene was a wonderful partner, and I loved her dogs to death, but Jamie and I made for a team that was better for my mental health.
+
+I had nearly dozed off again when the door to the lower decks opened, and Jamie stepped on deck.
+
+The first word when he saw me was "Oh."
+
+Ouch.
+
+"Oh?" I asked. "Good morning to you, too, Jamie. Hope you had a productive and not at all traumatizing day, too, Jamie." I took a deep breath. "Sorry. Didn't get enough sleep."
+
+Jamie walked over and sat down on the deck chair next to me.
+
+"I am glad to see you, Eve. You staying solo for last night and Helene being cagey about details left me more than a little worried."
+
+"It had to be done, and now I might need to do that more often. I got… responsibilities there."
+
+"Responsibilities? So it's true? You took control of the entire tower?"
+
+"Yeah, but more on that later. Why 'Oh.'?"
+
+Jamie leaned back. "Because you are in your human shape. Last time we talked, you were already getting comfortable with your new self. So I assume that your baseline has changed again. And you aren't entirely comfortable with it."
+
+"Damn. When did everyone become an expert at Eve psychology?"
+
+"Last week was a pretty intense crash course. Want to talk about it? Or show it? Or stay as you are?"
+
+I sat up and swung my legs off the side of the deck chair to face Jamie.
+
+"I got it for slaying one of the demons with the crown. I'm not Fallen, okay?"
+
+Jamie nodded and smiled. "Okay."
+
+I canceled the human shape and returned to my new true self. Jamie took a moment to take it all in. Nothing I got over the bond indicated that what he saw was repulsive. Rather the opposite. Maybe.
+
+I was so focused on observing Jamie's reaction that I initially didn't notice the shift in texture on my skin. My outfit had changed. Again.
+
+"What the hell," I said and stood up. "I wasn't wearing this earlier."
+
+My previous dragon-slayer leather fit had been replaced by a suit. A different suit than Devil-Eve's or Lucy's. Where they had black-and-red, this one went for a black-and-white deal. White shirt under a black blazer with white accents. And there was a thin feather pattern on the shoulders, which went into a feathered mantle on the back.
+
+As I examined myself, I promptly smacked Jamie in the face with my tail.
+
+I sat back down. "Sorry."
+
+Jamie laughed. "I'd say that, despite everything, it's still you."
+
+I blinked at Jamie. "Did you just seriously quote that at me?"
+
+"It's a great game."
+
+I looked down. The boots were still there. I wished Liz had never made that comment about those boots. I looked up at Jamie.
+
+"I missed you."
+
+"Missed you, too, Eve. Without you, it's not the same."
+
+"If you knew what kind of day I had. I… I can't even begin to explain everything."
+
+Jamie put a hand on my knee. "Take your time. You are still going to head out with Helene today, right? Anything super critical we ought to know?"
+
+"Yes, but I hope she can get her level before noon. Then we can team up afterward if I can find y'all. I hope all of us can hit level 20 soon. As for critical things…"
+
+I went on to tell him about the dream. About the genius loci. About my new shapes and Devil-Eve.
+
+I didn't say that I nearly killed her. Just that I scared the shit out of her.
+
+And I ended on Lucy's outfit, without going in-depth in the misdirection.
+
+"... So that sight is forever burned into my synapses now."
+
+Jamie whistled. "I bet. Lucy? Wanna show up? Been a while since we saw each other."
+
+The whistle had been a mistake. Below deck, I could hear how Helene's dogs stirred and woke her, to Helene's confusion.
+
+And then Lucy manifested behind me, sitting on the same deck chair as I did, one arm draped around my shoulder.
+
+"Careful what you wish for, golden boy. Your class won't like you openly liaising with one like me. Though I still think you'd make a better Dark Knight. Eve would have just the sword for you."
+
+Jamie and I both looked confused.
+
+"What sword?" I said, before I remembered. The sword the demon had wielded against me. Between everything, I had entirely forgotten about it.
+
+I pulled it out of my inventory. Without Jamie's Oath buff, I wouldn't even have been able to hold it in one hand.
+
+[No Quarter (Not Bonded)
+
+I will not reveal myself to someone unworthy like you.]
+
+"If I had a penny for every time some asshole called me unworthy… I'd have two pennies."
+
+Jamie pulled back from us. "Yeah, no. That sword is not for me. Big warning on my UI."
+
+I pulled it back into my inventory. "We don't like judgmental assholes anyway."
+
+"You kept the unicorn shape, didn't you?" Jamie asked.
+
+I glared at him.
+
+"Not only did she keep it," Lucy said, rubbing my shoulder. "She even allowed Helene to mount her in the horny shape."
+
+"Did, uh," I cleared my throat, "did she mention her reward for that task?"
+
+Jamie grinned. "You'd like to know, hm?"
+
+"I suppose someone like her wouldn't get a lance."
+
+"Nope, she didn't mention it. Though now I'm curious, too."
+
+On cue, I heard the dogs rumbling through the kitchen below us, toward the stairs. Lucy's presence vanished as the dogs ascended the stairs to greet us. With no sign of Helene.
+
+Moments later I heard a mumbled "Bonjour," from downstairs and the sound of Helene rummaging through cupboards. Sounded very much like she wasn't a morning person.
+
+"She spends an unreasonable amount of nighttime on tinkering with her alchemy or scribbling in notebooks," Jamie said, as if he'd read my thoughts.
+
+"It is the price I pay," Helene said while she climbed the stairs, "for having a class that doesn't just progress by whacking monsters with a sword."
+
+She had an energy drink in hand. I really hadn't pegged her as the energy drink type.
+
+"If you weren't the most composed woman to ever walk this earth," Jamie said, "I would think you were being catty with me, Helene."
+
+"I'd never," she said as she sat down next to Jamie. She gave me a smile. "My apologies. I'll be less cranky in a minute. But you picked an ungodly time to arrive here."
+
+"My sleep has been interrupted, and there is a lot to do," I said. I stopped myself from adding 'waste not, want not'—I'd likely have burst into flame.
+
+"Say, Helene," Jamie said, as he leaned in to scratch Tibert behind the ear. "What did you get for that 'Mount another Blessed' Task?"
+
+Helene choked on her energy drink. She took a moment to compose herself before she replied.
+
+"Ah. You two did this before, so you knew there'd be a reward?"
+
+"Yup," I said.
+
+"It is… a tool to apply the effects of a concoction of mine. With an enhanced effect while mounted."
+
+"A tool?"
+
+"Yes."
+
+Now it was my turn to hold eye contact until the woman folded. She sighed and held out her right hand. Into which she manifested a riding crop. A black leather riding crop.
+
+I buried my face in my hands while Jamie burst out laughing. "What the hell is wrong with the Blessing?" I groaned.
+
+When Jamie could speak again, he raised a hand. "I have a theory."
+
+"Oh?"
+
+"It's the internet. It poisoned the Blessing. It's supposed to understand our culture and use that to make everything make sense, right? But I don't think it fully understands what's relevant and what isn't. So some monsters look like they come out of video games. As for other things… Well, we certainly taught it innuendo, that's for sure."
+
+"I hate how much sense that makes."
+
+Helene, now slightly more awake, looked at me and what I was wearing. "Did you find some CEO's suit that happened to fit like that?"
+
+"Nope. The Blessing decided I needed a new style. I really don't get the mechanics behind it yet."
+
+For a peaceful moment, we settled into silence. Reynard had joined me on the deck chair and put his head in my lap, Jamie was busy with the other two, and Helene was drinking her energy drink and slowly waking up.
+
+And that was when I heard the voice. Quiet and robotic, drifting over from the shore.
+
+"Eve. People are in danger, and this situation requires swift intervention. If you are willing to work with me to save others, come over. If not, wave, and I will ask others."
+
+Over on the shore, I saw the mannequin. Wearing a hoodie and with a keyboard strapped to its arm.
+
+"Fuck," I said. "Any of you got one of Stephen's meals on you?"
+
+Jamie pulled out a burrito wrapped in tin foil. "Why?"
+
+I took it and put it into my inventory. "Might need to do a solo trip. Claire will update you. I hope."
+
+I petted Reynard one last time before I stood up. "Sorry, Helene, we might need to do this another time."
+
+Helene only nodded. "Go."
+
+I turned into a crow and flew over to Claire. Of course I would help people. I hated working with her, but I'd hate not doing so more.

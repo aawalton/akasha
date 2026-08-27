@@ -1,0 +1,407 @@
+---
+id: 861ff644-1358-508c-a88d-cbe3b0e71cea
+page-type-slug: story-chapter-royal-road
+title: "Chapter 104: Twelve Months"
+slug: 0104-chapter-104-twelve-months
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 104
+ownLength: 3792
+unit: words
+publishedAt: 2026-08-07
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3784078/chapter-104-twelve-months"
+royalRoadId: "3784078"
+---
+
+The palace escort led me through a covered gallery and then through a doorway into a wing I hadn't seen from the courtyard. The walls were thicker here. The heat dropped by several degrees the moment I stepped inside.
+
+Soraya walked beside me.
+
+She hadn't said a word since Khalid's dismissal. Her hands were clasped in front of her.
+
+The soldiers moved ahead and behind. Two in front, two behind. Between them, two more soldiers carried the crate from the supply wagon. They moved it on a wooden frame slung between their shoulders.
+
+Soraya's eyes kept drifting to me.
+
+She thought she was subtle. She wasn't. Every few steps her gaze would slide sideways, take in my profile, my shoulders, the white hair, and snap forward again.
+
+I didn't know what passed through her head. Whether I was the first Imperial she'd seen up close, or the first Knight, or simply the real version of the legend she had heard.
+
+But the fascination was plain. And uncomfortable.
+
+We turned a corner. The corridor widened into an antechamber, and the soldiers carrying the crate set it down beside a wooden door with brass fittings.
+
+"Your quarters," Soraya said, while a soldier pushed the door open.
+
+The room beyond was larger than I'd expected. Stone floor, a woven rug in geometric reds and whites, a low bed frame with a mattress, a writing desk, a basin of water on a brass stand.
+
+The soldiers deposited the crate against the far wall and withdrew to positions flanking the door. Soraya entered behind me and didn't leave.
+
+Her gaze found the crate, lingered, moved to the basin, to the bed, to me.
+
+I opened my mouth. Closed it. Opened it again.
+
+"If you have questions," I said, "you can ask them."
+
+Soraya's composure cracked.
+
+She blinked twice, rapidly, and a flush crept along her cheekbones that she covered by turning toward the window.
+
+"I wasn't —" She stopped. Started again. "I didn't mean to stare."
+
+"You were staring."
+
+"I was observing." She said it with the wounded dignity of a princess who had been caught doing exactly what she'd been caught doing. Her chin lifted. "There is a difference."
+
+"There isn't."
+
+The flush deepened. She turned back to me and clasped her hands tighter, and the question came out in a rush.
+
+"Are you really the angel?"
+
+"I fought on the wall," I said. "I controlled fire that night. But I'm far from anything divine."
+
+Her face went through three expressions in the space of a breath. The first was awe. The second was excitement. The third was disappointment. The word far landed. The angel became a man.
+
+"Oh," she said.
+
+I crossed to the basin and splashed water on my face. Five weeks of road dust came away in a gray film that clouded the water. When I straightened, Soraya was watching me again.
+
+She hadn't left.
+
+I untied the travel coat and hung it over the desk's chair. The shirt beneath was stiff with dried sweat, the fabric stained at the collar and the cuffs. I looked at the clean garments the palace staff had laid on the bed.
+
+I glanced at Soraya.
+
+"I need to change."
+
+"Of course." She didn't move.
+
+I waited.
+
+She still didn't move.
+
+I took the robes from the bed, stepped behind the carved wooden screen that divided the sleeping area from the rest of the room, and began to strip.
+
+The shirt peeled away from my back with the reluctance of fabric that had bonded to skin through weeks of heat and sweat. The trousers followed.
+
+Soraya's voice came from the other side of the screen.
+
+"What is it like?" she asked.
+
+I pulled the robe over my head. "What is what like?"
+
+"Outside." The word carried a deep curiosity. "Beyond the walls. The Empire. The kingdoms. Everything out there."
+
+I tied the sash. The fabric was finer than anything I'd worn since the palace ceremony.
+
+"It's bigger than you'd think," I said. "And smaller than you'd hope."
+
+"That's not an answer."
+
+"It's the only honest one." I stepped around the screen.
+
+Soraya was sitting on the edge of the writing desk, her legs swinging slightly, the royal composure abandoned in favor of something younger. She'd taken the silver headpiece off and set it beside her. Without it, her hair fell loose to her shoulders.
+
+Her eyes tracked me in the new robes.
+
+"You look like a prince," she said.
+
+"I'm not a prince."
+
+"I know." A small smile. "But you look like one."
+
+She slid off the desk and crossed to where I stood, and her hand came up and adjusted the fold of the robe at my shoulder.
+
+"What's it like being a Knight?" she asked, still adjusting the fold that didn't need adjusting.
+
+"Tiring."
+
+"Is it true you defeated a hundred men in the arena?"
+
+"No."
+
+"Fifty?"
+
+"I survived the Coliseum. The details have been exaggerated."
+
+She stepped back but stayed close. Too close for a princess addressing a foreign operative, the distance between us not the formal arm's length of court protocol but the intimate proximity of a girl whose curiosity had overwhelmed her sense of propriety.
+
+"Do you have someone?" she asked. "A wife? A — what is the word — a betrothed?"
+
+"No," I said.
+
+The smile that broke across Soraya's face was the kind of smile that had nothing diplomatic about it. It was pure. Unguarded.
+
+She caught herself. The smile compressed. The princess reassembled, layer by layer.
+
+I turned toward the basin and splashed more water on my face, mostly to break eye contact.
+
+She's Khalid's youngest sister. She is the princess of the Sultanate. Focus.
+
+"The greeting," I said. "For your father. Teach me."
+
+Soraya blinked. "What?"
+
+"How to greet the Sultan. In Kumsuri." I dried my face with the cloth beside the basin. "I want to address him in his own language. Even if it's clumsy."
+
+She stood in front of me, close enough that I could smell the perfume she wore — something floral, layered with sandalwood.
+
+She explained, I repeated it three times. She corrected the emphasis, the aspiration, the subtle tonal shift on the honorific suffix. Each correction came with a touch. My wrist, my shoulder, the back of my hand.
+
+We worked through the greeting, a formal acknowledgment of Khalid's title, and a closing phrase that Soraya said would make the court smile.
+
+"It means, I come bearing gifts worthy of your attention," she said. "It's old-fashioned. Nobody says it anymore. But the Sultan appreciates the old forms."
+
+I repeated it twice. The words felt rough in my mouth but Soraya nodded.
+
+"It will do," she said. "Your accent is terrible, but the effort will matter more than the pronunciation."
+
+"Thank you."
+
+She beamed.
+
+I turned to the crate against the wall.
+
+The doors of the audience hall opened, and Soraya stepped through first.
+
+I watched from the threshold as she crossed the polished stone floor and climbed three shallow steps to a raised platform along the eastern wall, where she took her seat among a cluster of young women in silk robes of varying colors. Heads leaned together. Whispers. A ripple of soft laughter that carried across the hall's acoustics.
+
+Soraya's eyes found me across the distance, held for a beat, and then she looked away.
+
+I stepped through the doors.
+
+The hall was built for intimidation, and it succeeded. The ceiling was high enough to house a three-story building beneath it, supported by columns of the same pale stone as the walls, each one carved from base to capital with script I couldn't read.
+
+The audience was arranged in tiers. Courtiers, officials, military officers in Ashkeri ceremonial dress. Two hundred people sat on cushioned benches along both walls. Their faces carried a careful neutrality. At the far end of the hall, elevated above the rest on a dais of dark granite, sat the royal table.
+
+A carpet of deep crimson stretched from the doors to the base of the dais.
+
+The silence was absolute.
+
+Two hundred pairs of eyes followed me across the floor.
+
+I kept my breathing even. Each step measured.
+
+Mana Perception was already doing its work.
+
+I read the room.
+
+The courtiers registered as a field of minor signatures. First and Second Circle, mostly, the background hum of a court that was wealthy enough to attract talent but not powerful enough to demand it. The Ashkeri officers burned hotter. Fourth Circle, uniformly, the standardized output of soldiers who had been trained and enhanced to a specific threshold.
+
+The princes sat at the royal table.
+
+I found them one by one.
+
+The youngest first — a boy barely into his teens, seated at the far end of the table. His core was bright but shallow. Three Circles. Raw, unrefined, the output of talent that hadn't been tested yet.
+
+The third prince sat two seats closer. Broader, older, with the heavy build of a man who trained as much with his body as with his mana. Four Circles. Steady, solid, the kind of output that came from years of disciplined practice.
+
+The second prince was leaner, watchful. Four Circles as well, but the structure was different. Tighter, more controlled, the signature of a man who had learned to be efficient with what he had.
+
+Khalid sat at the right hand of the center.
+
+Five Circles.
+
+The gap between four and five was not a step. It was a cliff. His cores ran deep and clean and the channels between them carried the refined energy of someone who had pushed past the ceiling that stopped most practitioners.
+
+He was formidable.
+
+Yet when I looked at the center of the table, formidable became irrelevant.
+
+The Sultan of the Kumsur Sultanate sat on a throne of carved sandstone, and the throne was the least impressive thing about him.
+
+He was old. White hair cropped close to the skull. A beard of the same white, trimmed short, following the jaw's line. The skin of his face was dark and deeply lined, the weathering of six decades under the desert sun. His hands rested on the arms of the throne, the fingers thick and scarred, the hands of a man who had not stopped working when he gained the right to sit.
+
+But the body beneath the ceremonial robes was not the body of an old man at rest. The shoulders were wide. The posture was vertical, a perfect line from the base of the spine to the crown of the head. The arms under the silk carried the kind of mass that didn't come from ceremony, the kind that came from decades of physical discipline maintained long past the point where most men surrendered to age.
+
+He looked ready to stand up and fight. Right now. This moment.
+
+And he could.
+
+Mana Perception hit the Sultan's core structure, and my breath stopped.
+
+Seven Circles.
+
+The magnitude was staggering.
+
+I had felt Sixth Circle mages before, and I knew the scale between Circles was not linear. It was exponential. From the Fifth to the Sixth was a fivefold leap. From the Sixth to the Seventh was ten.
+
+The Sultan's power output was fifty times greater than Khalid's.
+
+It felt like standing in front of an open gate and staring into a storm.
+
+A monster, I thought. A caged and ancient monster sitting in a chair, looking down at me.
+
+My legs wanted to stop. Every nerve ending that had been trained by the Coliseum and the trenches and the loops and the Titans was screaming the same message — danger, do not approach, this thing can kill you without standing up.
+
+I kept walking.
+
+The carpet ended at the base of the dais. I stopped.
+
+Two hundred people held their breath.
+
+I spoke.
+
+The Kumsuri came out rough, the vowels blunted by an accent that no amount of coaching could fix in half an hour, the tonal shifts landing in approximately the right places through sheer force of repetition rather than comprehension.
+
+The greeting. The formal address. The honorific for the Sultan's title, the old-fashioned one Soraya had taught me.
+
+And the closing phrase: I come bearing gifts worthy of your attention.
+
+The hall was silent.
+
+The Sultan looked at me.
+
+"You may speak Imperial," the Sultan said. "Everyone who matters knows the language."
+
+I inclined my head. "Your Majesty."
+
+"My eldest son has invested a great deal in your presence." The Sultan's gaze didn't waver. "He has spent the kind of capital that does not replenish. I agreed because I have taught my children that the quality of an investment is measured by its return, not its cost." A pause. "Show me what the Empire has to offer."
+
+"With respect, Your Majesty." I held his eyes despite every instinct in my body telling me to look away. "This is not the Empire's offering. What I carry comes from the Iron Cross and from my own hand. The distinction matters."
+
+A murmur ran through the court. At the royal table, the third prince shifted in his seat.
+
+The Sultan's expression did not change.
+
+"Then show me what your hand has made," he said.
+
+The soldiers brought the crate forward on my signal.
+
+They set it at the base of the dais, on the crimson carpet, and I knelt beside it and began working the latches. Heavy brass catches, each one sealed with a strip of waxed cloth that I had pressed into place. The cloth came away. The catches opened. The lid swung back.
+
+Inside, nested in layers of oilcloth and straw packing, the contents were arranged in three sections.
+
+I drew out the first item.
+
+It was thin and rectangular. A flat casing of polished copper and dark wood, smaller than the workshop units, lighter, the form factor redesigned for transport. The crystal housing was recessed into the base, protected by a sliding brass cover. The glyph architecture was invisible from the outside, inscribed on the interior surfaces of the casing in Rolf's precise hand.
+
+I stood and walked to the base of the dais.
+
+The Sultan did not extend his hand. I set the unit on the stone step between us, beside a second unit I drew from the crate.
+
+"A cooling device," I said. "Powered by a single mana crystal. This unit can reduce the temperature of a sealed space by approximately fifteen degrees and maintain that reduction for three continuous months."
+
+I picked up the second unit and held it so the court could see.
+
+"Your Majesty has carriages that run supply lines across the desert. Provisions that spoil in transit. Medical supplies that lose efficacy in the heat. Mana crystals whose performance degrades above certain temperatures." I set the unit down. "This device changes every calculation your quartermasters make about what can be moved and how far."
+
+The third prince spoke first. His voice carried the broad confidence of a man who had been waiting for his moment.
+
+"A cooling box," he said. The disdain was obvious. Several courtiers along the wall nodded.
+
+The second prince followed. More measured, but the dismissal was the same.
+
+I let them finish.
+
+"Your Highnesses are correct that this device does not kill Titans," I said. I kept my voice level. "But a city under siege does not fall to the enemy at the gate. It falls to the collapse behind the wall. Food rots. Water fouls. Medicines expire. Soldiers fighting on empty stomachs and fevered wounds are soldiers who break." I held the court's attention. "What the city needs most, right now, is to remain standing. That begins with the supply lines that keep your people fed and your garrison functional. Every carriage fitted with this device extends the range of every supply route. Every warehouse cooled below the spoilage threshold doubles the provisions your city can store."
+
+The Sultan raised one hand.
+
+The princes fell silent.
+
+The gesture was small. The effect was absolute.
+
+"The device is interesting," the Sultan said. His voice gave nothing. "I would be willing to pay for installation in our supply carriages and to discuss terms with the guilds for broader distribution." His eyes settled on me. "But I did not bring you across the desert for something interesting."
+
+I nodded.
+
+"No, Your Majesty. You didn't."
+
+I turned back to the crate.
+
+The second section held two objects wrapped in separate oilcloths, each one contoured to the shape beneath. I unwrapped them both and held one in each hand.
+
+These were not the Mark One.
+
+The Mark One had been rough. A stick of carved ironwood with visible chisel marks and uneven seams, the work of a man learning the shape of something no human had built before. These were the Mark Two. The ironwood bodies were smooth, the grain visible but even. The copper rails ran in clean parallel lines from the mouth to the housing, their edges filed and polished. The crystal housing was set flush into the grip, covered by a sliding plate that clicked into three positions with the precision of a well-made clock.
+
+They were beautiful.
+
+"Magi-Pistols," I said. "Mark Two."
+
+I turned and walked to the far side of the hall.
+
+The soldiers, briefed in advance, had placed three stone targets against the western wall. Blocks of sandstone, each one roughly the size of a man's torso, set on wooden stands at intervals of five paces. The nearest was twenty meters from where I stood.
+
+I loaded the first pistol. Three copper balls, each one settling into the channel with a quiet click. The crystal in the housing pulsed once as the circuit completed, the glyph architecture waking.
+
+The court had gone still.
+
+I raised the pistol. Sighted along the copper rail. Extended my arm the way I'd practiced in the workshop — elbow locked, wrist firm, the weight settled into my shoulder.
+
+I fired.
+
+The crack split the hall. Not the thunderous boom of gunpowder. It was sharper, cleaner, the sound of energy compressed and released in a single violent instant. A streak of pale blue light connected the barrel to the first target faster than the eye could follow.
+
+The sandstone block exploded.
+
+The copper ball punched through the stone and the stone detonated outward in a spray of fragments that peppered the wall behind it and sent the wooden stand spinning across the floor.
+
+I shifted. Fired again.
+
+The second block disintegrated. The fragments were still airborne when I shifted a third time.
+
+The third shot took the final target dead center. The stone burst apart and the stand collapsed and the copper ball buried itself in the wall behind with a sound like a fist striking a door.
+
+Three shots. Three seconds. Three targets reduced to rubble.
+
+The silence that followed was deeper than the silence before the first shot. It was the silence of two hundred people recalculating everything they believed about what the world allowed.
+
+I turned back to the court.
+
+The Sultan hadn't moved.
+
+But his eyes had.
+
+I walked to the base of the dais and set both pistols on the stone step, side by side, their barrels still warm.
+
+"Each unit fires forty rounds on a single Grade B mana crystal," I said. "The projectile is an unenchanted copper ball. No magic. No spell. No Circles required to fire it." I let the implication build. "A common soldier on your wall can carry this weapon and deliver force equivalent to a Third Circle offensive spell. At range. Without channeling. Without exhaustion. Forty times before the crystal needs to be replaced."
+
+Khalid's face was still. But his hands, clasped on the table, had tightened.
+
+The third prince rose halfway from his seat.
+
+"Against a Titan, this is nothing." His voice was loud enough to carry, pitched for the court rather than for me. "Pretty stones to amuse children. A Titan's hide would not notice these pebbles. You bring us toys while we face extinction —"
+
+"Your Highness is correct," I said.
+
+He stopped.
+
+"This weapon is not designed to kill Titans," I said. "It is designed to arm the men and women who stand on your walls and who currently carry swords they cannot swing fast enough and spells they cannot cast powerfully enough to stop the things that come between the Titans. The lesser beasts. The swarms. The secondary threats that bleed your garrison while the ward barrier holds the main assault." I held his gaze. "Every soldier you lose to the lesser threats is a soldier who isn't there when the Titan arrives. This weapon keeps them alive."
+
+The second prince spoke. His voice was quieter, more considered. "And when the Titan does arrive? What then? More copper balls?"
+
+"No."
+
+I let the word land.
+
+"If His Majesty is willing to enter an arrangement — procurement of high-grade mana crystals, Grade AA or triple-A, sourced through the Sultanate's trade networks — I will build what comes next." I straightened. "A cannon. The same principle. The same architecture. Scaled to ten times this size. Twenty times. Firing a projectile with the force to crack a Titan's hide at range."
+
+The court erupted.
+
+A sustained murmur rolled through the tiers, voices layering over voices, the sound of two hundred people trying to process what they'd just heard.
+
+The third prince was on his feet. "Unknown technology. Untested. There is no proof that scaling this will work. There is no precedent. You ask my father to gamble the survival of this city on the word of an Imperial who—"
+
+"Enough."
+
+The Sultan's voice cut through the hall.
+
+The murmur died. The third prince sat.
+
+The Sultan leaned forward on his throne.
+
+"The devices are interesting," the Sultan said. His voice was low, measured. "The weapon is more than interesting. The cannon you describe, if it functions, would change the shape of this war."
+
+He paused.
+
+"But I have watched many men stand where you stand and describe weapons that would change the shape of the war. Most of them were fools. Some were liars. A few were brilliant men whose brilliance arrived too late."
+
+His eyes held mine.
+
+"I will not gamble the city on a promise. I will gamble on a demonstration." The Sultan's fingers closed on the arm of the throne. "You will have crystals. You will have materials. You will have my son's patronage and the labor of this palace." He leaned back, and the pressure eased by a fraction. "You will build the cannon. Under our observation. When it fires and when it breaks a Titan's hide, you will have every crystal this kingdom can source and every forge in the Sultanate at your disposal."
+
+He raised one finger.
+
+"Twelve months."

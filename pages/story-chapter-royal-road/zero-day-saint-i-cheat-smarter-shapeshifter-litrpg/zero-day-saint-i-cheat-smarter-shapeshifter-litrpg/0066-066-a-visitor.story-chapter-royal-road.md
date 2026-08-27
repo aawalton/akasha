@@ -1,0 +1,201 @@
+---
+id: 5dd1666b-143b-5678-8460-7db999f4a8a6
+page-type-slug: story-chapter-royal-road
+title: "066 - A Visitor"
+slug: 0066-066-a-visitor
+partOf: zero-day-saint-i-cheat-smarter-shapeshifter-litrpg
+position: 66
+ownLength: 1640
+unit: words
+publishedAt: 2026-08-05
+link: "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3771639/066-a-visitor"
+royalRoadId: "3771639"
+---
+
+I needed a place to rest and I sure as hell wasn't going to explore the upper floors to find one. The idea that I could touch the same bed as a billionaire filled me with disgust.
+
+Instead I took an elevator down to one of the lower dozen floors. In a gym I found a shower, which I still desperately needed. That place also had a floor-to-ceiling wall mirror.
+
+Seeing it all in its full glory didn't change my assessment much. I now didn't have a single human eye anymore. The one was Lucy's slitted yellow eye, the other was glowing red. And still, the shape somehow felt more me than the other one did. Weirdly, it also felt more me than my human body ever did. I'd never been entirely comfortable in my own skin. And it hadn't been a gender thing. Just a brain worm thing.
+
+And now I stood naked in what used to be a public gym. I could still smell the sweat of dozens of people, who'd all be dead by now.
+
+The horns annoyed me. I was not going to headbutt any foes to death, and they'd provide excellent grip should a foe get close enough.
+
+I took a moment to understand the shape's properties within the Blessing. The crown reward had been an Infernal Human shape. It came with the same Fire Resistance and Resistance against Mundane Weapons the half-dragon had provided, but lacked its Acid Resistance. With how I had acquired this shape, that would have been rather ironic. It also had a Weakness to Holy Damage. Which it compensated for not only with enhanced vision but also with more stats than the half-dragon gave. It still came with +2 Endurance, but instead of +2 Strength it came with +4 Agility.
+
+Considering that one of the notable strengths of the shape was the ability to wield Inevitable End, that was a welcome trade-off.
+
+To rest I settled on a coffee shop. It had a comfortable low couch, perfect for a Golden Retriever to sleep on. And the coffee scent overwhelmed the ghosts of all the dead people.
+
+Before I drifted off to sleep I finished checking those Task Rewards. Five first-kill rewards in total. The Infernal shape had counted, and so had the Demon Scout and the three daily shapes. I kept those rewards for now.
+
+I was briefly tempted to slot in the Wolf shape into my collar. But the kobold might still be useful while that entire thing was going on. And the spider might eventually be necessary to help Jamie with some exposure therapy.
+
+And tomorrow, the entire ball game of shapes was about to change anyway.
+
+Which brought me to an idea.
+
+["Gabriel?"] I wasn't sure yet if the Queen's Voice would actually work with my Guides.
+
+But chat also didn't seem to work?
+
+["Lucy? Any of you two here?"]
+
+"Yes," Gabriel replied. She sounded slightly… hasty? "Sorry, I was still exploring the tower."
+
+Duh. She'd never been to a profane space before. An ancient being like her probably didn't get all that much novelty.
+
+["Oh, okay. No worries. Didn't mean to interrupt anything."]
+
+"What did you need?"
+
+["Embodiment. Will experience from Task Completions count towards that? If any of those new myth-touched shapes turns out to be awesome, can I dump Task Rewards at it to make it Innate?"]
+
+"Yes, that should work. Though I urge you to not be wasteful with that approach. You are trading future levels and delaying perks for immediate access to a new shape. Remember that the Warlords come with weaknesses. If you can figure those out, investing into a shape that attacks those would be very valuable. Besides that, any shape that fulfills a niche you can't cover yet."
+
+"Or a Thor-touched bird. If you can become a literal thunderbird, you might sequence break into an entirely different mythological framework ," Lucy added.
+
+["Is that a real thing? I meant to ask about the weird mythology thing that's going on anyway. Why do I get Norse perks when you two are clearly neither a valkyrie nor a… giant?"] Before either of them could reply I went on ["No. Nevermind. Not today. Any more information and my mind will burst. Tomorrow."]
+
+"Rest well, Eve," Gabriel said.
+
+"Good night, kitten," Lucy said.
+
+Was there relief in their voices? Another question for another time. I curled up and forced my mind to drift. After a day like this one, sleep came swiftly.
+
+But instead of waking, I found myself drifting. I was weirdly lucid, considering that I must have been dreaming. My dreams usually weren't lucid, at least none that I remembered.
+
+I hadn't remembered any dreams since the End of the World.
+
+And now, I found myself in the tower's lobby. There was someone else with me. They were oddly shapeless, like only someone outside reality could be. They seemed curious. Observing.
+
+I decided to say, "Hi."
+
+That seemed to excite them.
+
+I felt greeted, though the formless presence had no voice. Unembodied and voiceless. I pitied them.
+
+"Who are you?" I asked.
+
+We were no longer in the lobby. Or maybe we were. We were in the time before the End. In a buzzing tower, full of activity. People coming and going, shouting and crying. Decisions were made that shifted the fate of the faceless. Decisions that would drive a line up at the expense of others.
+
+The presence was still with me and not. It was also in all the things I saw.
+
+You have returned, it exclaimed voicelessly.
+
+"I haven't been part of this," I said.
+
+This frustrated the presence. We were outside the tower now. A giant serpent was twisted around the tower, squeezing it with its black and gold body. It also drank off the tower's blood, which looked oddly organic in this dreamscape.
+
+Then I appeared in the sky, in all my feathery glory. In slow motion, I penetrated through the serpent's coils, which exploded, from blood-sucking head to the tip of its tail. Did serpents have tails? I wasn't sure of the terminology. They were all tail after all.
+
+It exploded. And then the blood was no longer being drained. The tower no longer squeezed. Something built up inside. Something made up of all the memories. Of people serving greed, but also people with no choice.
+
+And then there was a heartbeat. The tower came to life.
+
+The heck?
+
+"Is that… you?" I asked.
+
+The presence confirmed this.
+
+We were back in the lobby. The presence now faced me, it had a shape. Or shapes. In all of them it was young. It was me, in all my selves. There was dragon in there, demon, human. It was also a kobold. It was also greed, and cruelty, and hunger.
+
+And then it found its voice. And its first word was "Mother."
+
+It was addressing me. If this was any regular dream, this shock would definitely have startled me awake.
+
+"I… am not entirely sure that's accurate."
+
+That angered it—them? The entity.
+
+"Initiator. Liberator. Catalyst. Procreator. Mother."
+
+"I caused this? You happened because Mammon is gone?"
+
+"Yes."
+
+"You are the tower? Something within?"
+
+"Yes."
+
+I started pacing. It was my dream, after all. I could pace.
+
+"There is a name for something like this. You are like the spirit of the place?"
+
+"Yes."
+
+"Considering your origin, you are surprisingly agreeable."
+
+"Yes?"
+
+"That got your curiosity, huh?"
+
+"Yes."
+
+"Genius loci. That's the word. I think. But you aren't entirely sure about your nature, are you?"
+
+"Yes." It sounded regretful. It generally sounded more. More anything. It was finding its voice.
+
+"Shit, man. That's a lot. And I attuned to you? We are connected now. And if I hadn't done that… you'd have been all alone?"
+
+"Yes." More regret. More sadness. Damn.
+
+"Can you commune with the kobolds? Do they know you are here?"
+
+"They do not."
+
+I sat down. I no longer felt like pacing. Heck, I should be resting.
+
+"You figuring out that speech deal, hm?"
+
+"I think I do."
+
+"And therefore you are. Wild. Are you aware that my mind is kinda preoccupied? Like… there are already voices in there."
+
+"Not always."
+
+"Yeah, right. Seems like they like some privacy, too. Can't blame them. If I had the choice to not be in my head, I'd take it."
+
+"Why?"
+
+"Why. You ask why. Of course you do. Because I make weird choices and sometimes I don't fully understand why I do what I do. I also put a lot of pressure on myself. Now I am also responsible for having brought you into the world. In a very domino-chain way." I looked up at them. "Shit, if it weren't for Lucy I'd never have even figured you were around."
+
+"I thank them."
+
+"You think this is good? That we met."
+
+"Yes."
+
+"I'll… deliver your gratitude. They don't seem to be with me right now. Maybe they could chime in if they were. Seems it's just you and me."
+
+"There are others."
+
+Deeply hecking ominous.
+
+"There are?"
+
+"The nightmare is pushing in from the outside. Hostile takeover. I resist."
+
+"Nightmare. I'd nearly say this was a nightmare, but I'm not that spooked. From outside. Something big? A demon?"
+
+"No. Like me." They tilted their head. "Wyrm?"
+
+"Oh. Yeah. That somehow tracks. You said it's like you."
+
+"It is like me, like you are to an ant."
+
+"Yeah. It's a chonky one. Got it. Huh."
+
+"There are others inside."
+
+"Who?"
+
+"Someone soft. In the walls. And their attorney, accuser, liar, thief, with you."
+
+As I tried to parse their meaning, dread finally shook me awake. She sat at the end of the couch, looking down at me.
+
+She looked just like I had. In one hell of a sharp suit.
+
+"You are awake," said Claire's Devil Guide.

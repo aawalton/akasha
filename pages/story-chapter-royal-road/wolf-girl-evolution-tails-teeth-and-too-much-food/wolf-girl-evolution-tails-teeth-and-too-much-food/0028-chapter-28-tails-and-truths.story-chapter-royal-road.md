@@ -1,0 +1,323 @@
+---
+id: 6f11af35-4070-5a21-92a5-0c8ca5296e95
+page-type-slug: story-chapter-royal-road
+title: "Chapter 28: Tails and Truths"
+slug: 0028-chapter-28-tails-and-truths
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 28
+ownLength: 1350
+unit: words
+publishedAt: 2025-09-15
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2602942/chapter-28-tails-and-truths"
+royalRoadId: "2602942"
+---
+
+PoV Luna:
+
+Luna squirmed in the elf-lady’s grip, legs dangling, tail flicking with protest. The not-human held her like her mom would a sleepy pup. Their grip firm but not mean.
+
+She braced for a scolding. Or maybe a throw.
+
+But the not-human only lowered her gently until paws kissed dirt again.
+
+Paws touched dirt. Ears perked up. Luna was on full alert!
+
+“Stay,” the elf said. “Please.”
+
+Luna narrowed her eyes.
+
+Her tail flicked once in defiance. Sassy. Sharp.
+
+“We’re not trying to trap you, you know.”
+
+Another flick.
+
+Trap. Hah! Wolves didn’t trap wolves. They bit. They chased. They–
+
+Her tail thumped once, deliberate.
+
+The elf crouched, bringing herself down to Luna’s level. Her scent stayed calm. Her hands stayed open.
+
+“We just don’t want you vanishing into the woods again. Okay?”
+
+Luna stared.
+
+Waited.
+
+Her belly felt tight. Her ears swiveled, indecisive. Her paws pressed hard into dirt, torn between leap and listen.
+
+Then gave one slow tail wag.
+
+Then another.
+
+The elf nodded, her shoulders easing.
+
+“Good.”
+
+The others gathered again, braver now. Their words piled like messy sticks, poking her from every side. Questions, gestures, voices tilting hopeful.
+
+They tried more questions. And simple words.
+
+Some tried hand motions too, like flapping their fingers could unlock her brain. Silly humans!
+
+But then the magic words were uttered!
+
+“Are you hungry?”
+
+Wag. Of course!
+
+“Are you lost?”
+
+Head tilt. Obviously not. The forest was her blanket!
+
+“Are you dangerous?”
+
+Luna blinked. Wagged. Blinked again.
+
+That stopped them. Faces turned in confusion. She grinned in silence, tail sweeping smug behind her.
+
+Silly two-legs!
+
+Their questions wore out before her patience did. Voices tangled, hands waved, and still all they got were tail wags, ear flicks, paw paws, and head tilts.
+
+Eventually, the armored one groaned.
+
+“We’re not getting anywhere like this.”
+
+Luna’s tail flicked sharp.
+
+Rude.
+
+Her nose twitched toward the fire. Broth’s scent clung fat to the air.
+
+Her stomach growled, louder than words, more honest than tail. She licked her chops without shame.
+
+If they wanted better answers, they should try with a bowl!
+
+The elf sighed.
+
+“She understands more than she lets on.”
+
+Luna’s ears twitched in triumph.
+
+“Yes,” Syliana then met Luna’s eyes. “Don’t you?”
+
+Luna gave her best “obviously” face.
+
+Syliana smiled and pointed at the fire.
+
+“Come on then, soup-wolf.”
+
+Luna pranced over like she hadn’t tried to bolt three minutes ago.
+
+Tail high. Nose proud.
+
+Apex predator!
+
+The camp returned to motion around her. Boots scraped. Rope hissed. Armor clinked. Humans folded tents in ways that made no sense, muttered to themselves, and tied knots poorly.
+
+Luna stayed by the log.
+
+But so did the not-human. Calm and watching her every step.
+
+The elf sat on the log easily, legs crossed, a hand resting near her knee. She didn’t hover, nor tried to keep her in reach. Just existed calmly nearby, scent quiet and eyes thoughtful.
+
+Then she told Luna who she was: an elf, Syliana. And that her friends called her Syl?
+
+Syl? Syliana? Sillyana?
+
+Mlem name, funny on her tongue!
+
+But whatever she said next didn’t interest Luna too much. It was about why they were here? Searching for something? A bad place?
+
+It didn’t sound like food, so Luna cared not!
+
+Instead she idly noted that ‘elf’ was quicker to bark than ‘not-human’!
+
+Clever!
+
+“You don’t have to help us,” Syliana said, voice smooth as brushed fur. “But you’re welcome to stay for now.”
+
+Luna tilted her head, tail tapping dirt in a steady beat. Stay meant food. Stay meant spice.
+
+Good word.
+
+The elf smiled at that and lifted something into view.
+
+A bowl.
+
+Still warm.
+
+Still steaming.
+
+Soup!
+
+Luna’s belly made a confused gurgle. Not a hungry one this time. A strange one.
+
+But the smell was still soup. Still spice.
+
+Still good.
+
+Luna took the bowl carefully, nudged it between her paws, and leaned down.
+
+Slurp!
+
+Slurp-slurp.
+
+Her tongue darted. Her throat worked. Each swallow sent heat rolling down her middle. Salt and fat coated her tongue. Spice nipped. Meat teased. She swallowed loud enough to echo in her chest.
+
+Halfway through, the System chimed its betrayal:
+
+【Warning! Due to your Beast Constitution, spices are considered toxins.】 【You are suffering Poison (Weak)】
+
+Luna froze mid-slurp.
+
+The bowl steamed below her nose.
+
+Her ears pinned. A growl rumbled from her ribs, curling slow through her throat.
+
+Soup was traitor. Delicious, perfect, spice-burning traitor.
+
+She sniffed it once more. Still delicious. Still soupy. Still betrayal.
+
+Her eyes narrowed.
+
+And slurped again anyway!
+
+【Gluttonous Soul 5% → 6%】
+
+The System could complain all it wanted.
+
+Her belly clenched, tail twitching against the dirt. She ignored it.
+
+Logic was simple. If her body couldn’t handle soup, then her body needed to improve.
+
+Strong Luna meant strong stomach. Strong stomach meant more soup!
+
+Luna would win!
+
+She glared at the air like it owed her a snack apology.
+
+And took another long, defiant slurp.
+
+Then licked the rim.
+
+Again. And again!
+
+Until all taste was gone.
+
+And then she was done. Victorious!
+
+Syliana raised an eyebrow.
+
+“Spicy?”
+
+Luna blinked, tail thumping once. Spicy, rude, worth it. She shoved the empty bowl forward in blatant demand.
+
+The elf smothered a smile, ladled more.
+
+This time thinner broth, less sting. Still spice, still training!
+
+She drooled.
+
+Soon Luna was huffing between bites again, grumbling through broth.
+
+Stupid poison.
+
+Tasty poison.
+
+Worth it!
+
+Always.
+
+Her tail wagged faster now. Belly ached. Belly learned. Her paws curled tight around the bowl, refusing to let go until the last bite vanished.
+
+Sepio muttered across camp. “Is this wise?”
+
+“She knows what she is doing,” Syliana said.
+
+Luna wagged harder. Correct answer. Also soup. Mostly soup.
+
+By the time the second bowl clattered empty, heat throbbed behind her teeth. Her pads tingled. Head wobbled when she moved too quick. But she burped pepper-brave into the firelight, proud and stubborn.
+
+Finished. Perfect!
+
+Strong Luna. Stronger every bowl.
+
+The log creaked softly as Syliana shifted. Her voice came quiet and smooth.
+
+“You know… we’re not out here for food or fun.”
+
+Luna blinked up from the now twice-licked bowl, ears flicking. Her tongue lolled half out.
+
+She was full now, so might as well listen to the weird elf-not-human words!
+
+“We’re tracking corruption. The sort that infects monsters and warps them. Changes them into things they shouldn’t be.”
+
+The air turned thicker around the words.
+
+Corruption.
+
+That one made her ears perk, spine tense. Her tail stilled.
+
+She knew that word.
+
+A memory slithered back, mossy and loud.
+
+The ogre.
+
+The one that twitched wrong. That smelled wrong. That broke the world around it with steps that hurt the ground.
+
+Wrong bark. Wrong blood.
+
+Mireback.
+
+【Enemy Identified: Mireback, Corrupted Forest Ogre】
+
+The system had said it. It hadn’t explained it.
+
+But this did.
+
+Her chest tightened. Her paws flexed. The memory hit like a bite. Splinter taste, pack blood heavy in her nose.
+
+A quiet, certain growl worked free from deep in her throat.
+
+Syliana looked up at the sound, head tilted.
+
+“You’ve seen something?”
+
+Luna barked once. Sharp. Clear.
+
+The elf’s eyes sharpened.
+
+“You have,” she said. Not a question.
+
+Luna nodded fast, tail thumping once against the dirt. Then again.
+
+But her ears folded before a third. She stopped.
+
+She couldn’t explain. Not with words. Not in this form. Not until moonlight came again.
+
+Her paws curled. She tried calling the shift. Felt for the magic. Reached for that silver thread–
+
+Nothing.
+
+Too soon. Too little. No moon to help her cheat.
+
+A whine slipped free, low and frustrated. Her head dropped slightly. Her tail gave a slow, uncertain twitch.
+
+Syliana reached over, fingers soft against the top of her head. The touch was light, like fur across bark.
+
+“…It’s okay,” she said gently. “You can tell us later. You’ll be able to talk soon, right?”
+
+Luna gave one slow, steady wag.
+
+Then her eyes lit again.
+
+She perked up, sat straighter, ears sharp.
+
+“…And maybe get more spice?” she barked, voice full of hope and teeth and ambition.
+
+Syliana blinked, startled, then smiled.
+
+“Maybe.”

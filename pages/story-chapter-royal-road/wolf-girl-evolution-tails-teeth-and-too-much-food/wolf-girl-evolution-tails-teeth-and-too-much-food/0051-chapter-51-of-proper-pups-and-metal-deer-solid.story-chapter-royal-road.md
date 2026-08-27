@@ -1,0 +1,381 @@
+---
+id: aadd2360-7c6a-5ea2-a12e-f5572eb2ce1d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 51: Of Proper Pups and Metal-Deer Solid"
+slug: 0051-chapter-51-of-proper-pups-and-metal-deer-solid
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 51
+ownLength: 1772
+unit: words
+publishedAt: 2025-10-14
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2676681/chapter-51-of-proper-pups-and-metal-deer-solid"
+royalRoadId: "2676681"
+---
+
+PoV Luna
+
+Warm. Soft. Perfect.
+
+Luna blinked awake into sunlight and Syl’s arm – the best kind of pillow. Alive, breathing, and gently petting her head. The world was quiet. The fire crackled low. Her tail twitched a slow, sleepy wag.
+
+Yes. This was good. This was perfect.
+
+Maybe she could sleep again, just a little longer. Maybe more.
+
+But the universe was cruel. Syl moved.
+
+The arm lifted. The warmth vanished. Cold air rushed in like a rude squirrel. Luna groaned, curling tighter into the bedroll, glaring at the approaching morning for existing.
+
+Around camp, her new pack began their strange rituals of waking.Veric’s armor clanked as he put it on. Sepio grunted something silly Luna didn’t get. And Ray yawned loud enough to scare birds. Then Trianna stretched and complained about her bowstring again.
+
+Dum-dum noises! Always so much noise when two-legs decided to exist.
+
+Luna yawned back at them, louder, purely for dominance. It didn’t help much, but it made her feel better.
+
+Her stomach growled next. A long, deep, mournful sound that echoed her soul. She sniffed the air, hopeful. But there was nothing. No spice. No meat. No soup! Just campfire smoke, steel, and people-smell.
+
+Unacceptable!
+
+She cracked one eye toward Syl. Her Second was already up, brushing hair behind her ear and reaching for her staff. Too early for thinking magic things. Luna made a small noise – half plea, half warning growl.
+
+Feed soon or there would be bites!
+
+Syl smiled faintly.
+
+“Good morning, Luna.”
+
+Luna’s tail thumped once under the blanket. And barked back a good morning.
+
+Followed by a hopeful stare of ‘Food now?’.
+
+“You’re such a glutton. Later.”
+
+Bad word. Terrible word! She groaned again, flopping back dramatically.
+
+But then her ears twitched.
+
+Up there, through the trees, the Moon was still faint in the brightening sky – silver and sleepy, slipping away fast. Her heart jumped.
+
+Last chance.
+
+Last chance for another shift. For another soup day without the tummy ache! For another excuse to run and play and chew on things before the sun ruined it.
+
+Decision made!
+
+She grinned wide, teeth flashing in the morning light. Her tail wagged once in warning to the world. Then she stretched long, claws scratching dirt, and whispered toward the fading Moon.
+
+“Shift time.”
+
+Silver brushed her paws.
+
+The change rippled through her – warm and tingly, tickling bones and stretching muscles. Fur shimmered, shimmered again – then pop.
+
+Two legs. Two hands.
+
+Still Luna though! And still hungry too.
+
+She stood up, wobbled once, and grinned again.
+
+“Proper dum-dum Luna ready!”
+
+Trianna blinked blearily from across the fire.
+
+“You mean proper human Luna?”
+
+“Dum-dum word,” Luna declared, snatching the nearest blanket for her shoulders. “Now – spice?”
+
+Syl sighed, but her eyes softened.
+
+“Soon.”
+
+Luna nodded firmly. A promise of soup was sacred!
+
+The camp moved around her, slow and sleepy. Armor, packs, gear. Morning things. All very dull. Very much not food.
+
+But Luna’s grin stayed bright, eyes on the horizon, on the fading Moon.
+
+New day. Meant new bites. And new soup!
+
+Apex predator life was good!
+
+But her victory lasted exactly three breaths.
+
+Because apparently, “proper” meant wear the thing!
+
+That thing.
+
+The weird human pelt Syl had given her. Folded neatly under her blanket, it had smelled perfectly of campfire, Second, and tea – the best sleep scent ever. Luna had kept it safe, very safe.
+
+But now, Syl wanted it on her, again.
+
+Luna tugged it out proudly.
+
+“See? Luna kept it safe!”
+
+Syl blinked once.
+
+“You… slept on it.”
+
+“Yes! Very comfy!”
+
+Syl sighed.
+
+“That wasn’t the point.”
+
+Luna tilted her head.
+
+“Then what point?”
+
+“To wear it, like before.”
+
+Luna’s ears flicked up.
+
+“Again? But Luna already have fur!”
+
+“Not in this form,” Syl said patiently. “It’s called clothing.”
+
+“Cloth-ing,” Luna repeated slowly. “Thing of cloth. Yes. Luna knows. Weird people fur.”
+
+Syl pressed her lips together.
+
+“It’s polite.”
+
+“Luna polite.”
+
+“Luna wears polite.”
+
+“…Ah.”
+
+That was how it began.
+
+Putting it on, however, was another battle.
+
+Two holes, four limbs, twelve possible wrongs. The cloth twisted around her arm. Then her neck. Then somehow her tail. She growled. It flopped. She growled louder. It strangled her elbow.
+
+A fight to the death it is then!
+
+Trianna nearly choked laughing. Ray stopped packing just to watch. Even Sepio cracked a smile, though he tried to hide it under his shield strap.
+
+“Arms go here, Luna,” Syl said through the calmest voice any Second had ever used while watching chaos unfold.
+
+“But tail fits better here!” Luna countered, muffled inside her own enemy.
+
+“That’s a sleeve.”
+
+“Tail sleeve?”
+
+“No. Arm sleeve.”
+
+“Tail stronger.”
+
+Syl exhaled long through her nose.
+
+“Not– just– give me that.”
+
+And with the quiet authority of all great Seconds, she untangled the mess! Her arms were moved. Fabric flipped. One last wriggle, one last tug – and Luna was caught!
+
+Wrapped. Trapped. Betrayed!
+
+Syl stepped back, straightening the collar.
+
+“There. You look all proper now.”
+
+Luna glared down at the shirt. So much fabric. So little freedom. No fur in sight. The air couldn’t even touch her belly right! She tugged the hem experimentally. It moved, but didn’t give.
+
+Those dum dums had too many rules! And their clothes had too many sleeves.
+
+Trianna wiped her eyes, looking her over in the morning light.
+
+“You look adorable.”
+
+Luna bared her teeth.
+
+“Ador-bite you first.”
+
+Ray laughed.
+
+“The new look suits you. Quite sophisticated.”
+
+“Luna sophisticated bite Ray later!”
+
+Yes, Luna didn’t know what that word meant either, but biting annoying things was always the answer so far!
+
+Syl rubbed the bridge of her nose but smiled despite herself.
+
+“It’s fine. You’ll get used to it.”
+
+Luna pouted. And then sniffed the cloth again. It still smelled like Syl. And was soft. And warm.
+
+Hmm. Maybe not all bad then.
+
+“Fine. Luna wear polite fur,” she muttered, giving the sleeve one last tug.
+
+Syl nodded, satisfied.
+
+“Good. Now you’re proper and ready for breakfast.”
+
+Luna’s ears drooped. Her tail twitched mutiny under the hem.
+
+Proper hurt.
+
+But the smell was nice! And it promised food.
+
+Fine. Proper was tolerable.
+
+For now!
+
+***
+
+By the time Luna emerged from the horrors of dressing, the dum-dums had entered serious talk mode.
+
+The boring kind. The ruin kind they already had. The one with big words and zero spice.
+
+Syl stood near the fire, poking a stick at the ground where she had drawn complicated squiggles. A glint and yearning in her eyes Luna didn’t see before.
+
+“The ancient builders drew mana through these leylines. They shaped conduit arrays into the stone itself. Using existence,” she said, tapping her stick dramatically, “to affect existence.”
+
+Luna blinked twice.
+
+So many existences. So few snacks.
+
+It made Syliana happy though, so she didn’t interrupt. Politely listened.
+
+Her brain quietly left the meeting though!
+
+Ray and Trianna had joined the ritual too, arguing about selling shiny rocks and artefacts?
+
+“I’m telling you, if we find even a few of those artefacts, or anything else worth its weight in gold, I will be rich!”
+
+“‘I’? It’s ‘we’, you money grubber! Profit? Try share. You don’t get to squirrel them all away in your pack again.”
+
+“Share after expenses.”
+
+“Expenses? What expenses? Last mission you tripped twice and broke a lantern.”
+
+“Exactly. Replacement cost.”
+
+“Unbelievable.”
+
+“Efficient.”
+
+“Greedy.”
+
+“Business-minded.”
+
+“You mean stingy!”
+
+“I mean money, Trianna. It’s called money.”
+
+So many words thrown all at once!
+
+All bad.
+
+Then an even worse one appeared.
+
+“Money,” Ray said with a finality, and Luna’s ears shot up at another ‘new’ word.
+
+“Money? What’s dat?” she asked, tail flicking.
+
+“That, not dat, Luna.” Syl politely intoned.
+
+But it was too late now. The rest of the group froze. And even Syliana muttered out a very telling ‘uh oh’.
+
+And now all five faces turned toward her like she had howled something unbelievable!
+
+Then the explaining began.
+
+“Money is coins,” Sepio said, holding one up. “Metal circles. We trade for things with them. Very important.”
+
+Ray chipped in from the side.
+
+“If you find any, I will be happy to take them off your hands! Or paws.”
+
+Luna pointedly ignored the now weirdly-loud sneaky dum dum.
+
+“Things?”
+
+“Food. Clothes. Rooms. Tools.”
+
+Luna squinted at the coin.
+
+“Food? But you can hunt food. And can’t eat metal!”
+
+“No,” Sepio sighed, “but you can trade for things you can eat with it.”
+
+She frowned harder.
+
+“So… hunt metal, to trade metal for deer?”
+
+“Not exactly,” Trianna said carefully.
+
+“...But why not just hunt for food?"
+
+“Because the coins – they’re already worth food, a lot of food,” Veric offered, rubbing the back of his neck. “Some of those coins could feed a village for days.”
+
+Luna’s jaw dropped. Nevermind whatever that ‘village’ thingy was. Metal bits worth a lot of food was importanter!
+
+But she had to know for sure!
+
+"A lot? How many is that? Five deer?"
+
+"Many, many more. You could eat deer everyday for months on some of them.”
+
+Her tail started wagging fast.
+
+Small metal thingies... worth many many deer? And months? It seemed like a lot!
+
+But–
+
+“Why not just skip coin and hunt deer instead? Faster! Can eat now too!”
+
+The adventurers prepared to answer, made faces, tried again, shook heads, and deflated at that.
+
+Syl pressed her fingers to her temple, muttering something that sounded like a spell for patience.
+
+And Luna kept watching the coin. It caught firelight nicely but smelled of nothing. She gave it an experimental lick.
+
+Tasted of sadness.
+
+She spat it back into Ray’s hand.
+
+“Deer better.”
+
+Ray laughed until Syl’s eyes cut across the camp like a blade. Trianna handed Luna another bowl of soup before things got violent.
+
+Smart packmate!
+
+Luna’s attention shifted instantly. Soup truly fixed everything!
+
+Today’s was thick and rich, herbs floating on the surface. But beside it was something new. A flat, square, pale thing.
+
+“That’s a cracker,” Trianna said.
+
+Luna sniffed it.
+
+Dry. Crunchy. Suspicious.
+
+She bit it next. Crumb-dust exploded in her mouth. No spice. Only salt. Bad!
+
+Trianna laughed and showed her what to do with it.
+
+Then Luna dunked it in soup!
+
+Soaked. Soft. Salty magic!
+
+Her tail thumped once against the dirt. Then twice.
+
+“Soup bread!” she declared proudly. “Good invention!”
+
+Syl sighed, long and tired.
+
+“That’s not what – never mind.”
+
+Luna grinned wide, broth glistening on her lips.
+
+She didn’t understand ruins, or coins, or metal deer trades.
+
+But she understood soup.
+
+Soup meant pack.
+
+And pack – dum-dums or not – meant food, warmth, and strange new crunchies worth waking up for.

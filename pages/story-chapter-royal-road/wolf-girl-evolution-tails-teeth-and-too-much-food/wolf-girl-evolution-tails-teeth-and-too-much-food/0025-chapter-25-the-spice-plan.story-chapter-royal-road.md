@@ -1,0 +1,343 @@
+---
+id: f955ca65-f1ff-5279-8d5a-70daee9adc58
+page-type-slug: story-chapter-royal-road
+title: "Chapter 25: The Spice Plan"
+slug: 0025-chapter-25-the-spice-plan
+partOf: wolf-girl-evolution-tails-teeth-and-too-much-food
+position: 25
+ownLength: 1513
+unit: words
+publishedAt: 2025-09-12
+link: "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2595754/chapter-25-the-spice-plan"
+royalRoadId: "2595754"
+---
+
+PoV Luna:
+
+Luna woke with a rock in her chest and moss in her nose.
+
+The den still smelled like mom – of her warmth, safety, and mlem.
+
+Her eyes blinked open slowly. Not because she was tired, but because everything in her chest needed a second to settle. The root above her nose still had the scratch where her mother’s paw had rested. That helped. The rock in her chest shrank a little.
+
+The memory licked her ear again. Soft, steady, and warm.
+
+“Okay,” she whispered to the root. “Luna’s not quite alone… Just a little lonely.”
+
+The root did not answer. That was fine.
+
+Outside, the morning had gone noisy.
+
+Bright sniffy wind. A sun that couldn’t decide if it wanted to be warm yet. The birds were doing way too much chirping about nothing. Even the moon still hung around, telling the sun off for being early.
+
+Luna stood. Stretched. Her jaw cracked in a wide yawn. Her tongue flopped out longer than planned. But it helped. A little.
+
+Her body relaxed slightly, and responded better.
+
+And as her wandering eyes took the sights around, she found it drawing her in.
+
+The moon.
+
+Still hanging there, pale and lazy, stuck in the sky like a pup who forgot to go to bed.
+
+Perfect.
+
+Luna squinted up at it, and shook herself again. To get all the lingering bad thoughts out of her head. It was no time for that. The stupid alpha stuff already happened. Now, it was…
+
+“Spice time.”
+
+The bad thoughts still tried to yawn their way back in anyway. She bared her teeth at them.
+
+They would not win, Luna would not be chewing on them today.
+
+She stepped into a patch of silverlight and tugged the trick by feel, in the same way her paws always knew where the cool spot was on hot nights.
+
+【Lunar Form – Moonlight detected. Mana cost reduced.】
+
+Her bones itched. Fur slid.
+
+And then her body tilted wrong and pulled itself together sideways.
+
+Two legs.
+
+Two hands.
+
+Tail intact.
+
+Ears perked up.
+
+She wobbled once. Arms windmilled. Tail flared hard.
+
+Balance screamed, but her tail helped!
+
+A stump tried to grab her face. She did not let it win.
+
+“Ha! See? Learning.”
+
+Her voice came out higher than she remembered. Less bark. More squeak. Still hers.
+
+Step.
+
+Pause.
+
+Step again.
+
+Steadier this time. More certain.
+
+The trees leaned at her rudely. She leaned back with her nose in the air.
+
+Balance made no sense.
+
+But she could bully it into submission. Luna knew she could!
+
+She was Apex predator!
+
+And biting prey into obedient meat was what she did best!
+
+And running. Running was nice.
+
+Though not as nice as spice!
+
+A few steps later, Luna stopped mid-stride and blinked her status window open. The numbers liked being stared at. So she stared. Especially at one shiny line that she was too happy to be upset about previously.
+
+【Level: 1/10】
+
+Her eye twitched.
+
+“Back to one, really?” she squeaked.
+
+The window stayed shiny and smug.
+
+She pouted at it. Pouted harder at her legs, which still bent too far and too straight at the same time.
+
+“Fine,” she huffed. “We level. Then snacks.”
+
+Her stomach gave an opinion on that. Clearly not agreeing.
+
+It gurgled loud enough to rattle leaves.
+
+A bird nearby fell off a branch.
+
+Luna laughed at it. Loud and victorious.
+
+Then nearly fell down herself.
+
+Two legs were chaos!
+
+But spice was waiting.
+
+And Luna was hungry.
+
+***
+
+Luna dropped back to four paws for hunting because dignity could wait.
+
+Two legs were for spice theft and snacks. Four were for getting meat. And hunting prey.
+
+The shift back came easily. Her fur fluffed up. Tail snapped into place. Her claws met earth with purpose.
+
+And soon after even the trees bent out of the way of her speedy advance!
+
+Others weren’t quite so lucky, but speed made finding prey easy.
+
+First, the rabbits. They pretended to be rocks. Tried to sit still, unmoving.
+
+It didn’t help them one whit!
+
+She turned them into not-rabbits.
+
+Crunch. Swallow. Peek at the window.
+
+【Level: 1/10】
+
+“Nothing?” Her voice pitched in betrayed outrage.
+
+Ears flattened. Her tail twitched with unhappy thoughts.
+
+She didn’t need to hunt quite so many before!
+
+But Luna was persistent. And the forest full of prey!
+
+In no time flat she was upon another. It even almost escaped!
+
+Or it would have, if the vole didn’t scamper all wrong.
+
+She scooped it up. Swallowed it whole. Checked again.
+
+The window didn’t blink.
+
+“Weak prey is fake food!” she snapped at the grass.
+
+The grass did not argue, but Luna knew she was right!
+
+She continued.
+
+A fox darted between bushes, thinking it was clever.
+
+She Shadow Stepped past its clever and bit the throat clean.
+
+Proud shake. Perfect kill. Check window.
+
+【Level: 1/10】
+
+She narrowed her eyes at the air.
+
+The air did not apologize.
+
+Fine.
+
+Let’s try again.
+
+Bigger prey.
+
+She had to switch from speed to nose. Specific prey, specific smell!
+
+Luna knew better than to hope just running around would find what she wanted.
+
+It didn’t even take long.
+
+The stink of a boar rolled lazily along a ditch. Wet fur, bad mood, fresh wallow.
+
+Luna circled it once. Twice. Let the mud cover her paws until she smelled like part of the ground. Then lunged.
+
+Her weight slammed its ribs. Her fangs sank low.
+
+The boar tried to roll.
+
+She rode it down, dragged it deeper, and came out scratched, panting, and covered in victory.
+
+She licked blood from her paw. Tasted pride. Checked the window.
+
+【Level: 1/10】
+
+Her jaw dropped.
+
+“You are joking.”
+
+The system, famous non-comedian, was most definitely not joking.
+
+Her eyes went wide enough to fall out.
+
+She licked mud, blood, and fresh annoyance from her whiskers. Stared at the sky like it owed her a better punchline.
+
+Her belly felt full. Her level felt empty.
+
+She padded over to a root and pawed it. Not because it did anything wrong. Just because it existed.
+
+“Okay,” she huffed.
+
+“Not fun.”
+
+Her tail gave a twitch. Then another. Then a reluctant wag. Because meat was meat, and it all tasted better when you earned it, and the forest still echoed with her power even if the numbers didn’t.
+
+She had meat to drag. Legs to learn. A moon that asked nice questions.
+
+Level or not–
+
+Luna was still hungry.
+
+And just as she prepared to chew on her meal…
+
+The wind booped her nose, making it dance at the smells it brought.
+
+Smoke. Fat. Pepper. Spice.
+
+Human spice!
+
+Her mouth filled so fast she nearly drooled on her own paw.
+
+Oh.
+
+Right.
+
+That was why. Not to wobble like a silly crane. Not to fall into bushes. Not to sniff tree bark for fun.
+
+But to get the good burn!
+
+Her whole body perked up. Tail wagged so hard it knocked her into a fern.
+
+Her mood hopped three stones at once.
+
+“Humans,” she told the fern, which was still recovering. “They have bags. Bags have jerky. And I can look like a human now!”
+
+She grinned, sharp and sure.
+
+Obviously the plan was simple. Simple and genius!
+
+Step one: ask nicely.
+
+She was very good at nice.
+
+Also wagging.
+
+Luna turned toward the scent and found a thin shard of moonlight still barely cutting through the canopy. It glinted against her claws.
+
+She stepped into it.
+
+Let the trick answer.
+
+【Lunar Form – Activated】
+
+【Lunar Form Lv.1 → Lv.2】
+
+The change rolled through her again.
+
+Itch. Stretch. Tilt.
+
+And her four paws became two legs.
+
+She wobbled, caught her breath, wobbled less. Fingers wiggled. Tail twitched. Ears were still here. Thank the moon!
+
+Her feet did not trust her yet, but they would learn.
+
+She practiced her human sounds.
+
+“Heh–lo.”
+
+“Hi.”
+
+“Gib spice?”
+
+That last one felt perfect.
+
+She smiled big. Harmless. Which was difficult, since she had so many teeth.
+
+She covered them with her lips, like she had seen humans do. Lips were weird. They squished.
+
+Less bite, more beg.
+
+Her tongue peeked out once. She licked at her own face by accident. Oops.
+
+But continued on her way regardless. Every step a little surer than the last.
+
+The scent grew clearer ahead – meat burned in a clever way, laced with salt and mystery. Woodsmoke, boot oil, something sticky and sweet.
+
+Cart ruts cut through the trees.
+
+Wheels had passed here, heavy and slow. The ground remembered.
+
+Boot-ghosts dotted the dirt.
+
+A trail of people who hadn’t noticed they were about to be robbed by kindness!
+
+Luna’s tail swished.
+
+Too hard.
+
+She nearly toppled again and caught herself on a bush.
+
+It tried to stab her. She patted it like that was normal.
+
+Totally part of walking.
+
+“Okay,” she breathed, steadying herself. “We go. We say hello. We ask for spice. They share. Easy.”
+
+Her heart did a skip-step of excitement.
+
+This was the plan.
+
+The Spice Plan.
+
+She beamed at the road like it had already handed her jerky.
+
+And marched toward breakfast.

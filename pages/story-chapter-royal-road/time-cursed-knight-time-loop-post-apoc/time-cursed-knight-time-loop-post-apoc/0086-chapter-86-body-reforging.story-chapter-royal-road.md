@@ -1,0 +1,209 @@
+---
+id: 7666a2ae-1601-5555-8ad0-f912ef7d3033
+page-type-slug: story-chapter-royal-road
+title: "Chapter 86: Body Reforging"
+slug: 0086-chapter-86-body-reforging
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 86
+ownLength: 1710
+unit: words
+publishedAt: 2026-07-14
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3676925/chapter-86-body-reforging"
+royalRoadId: "3676925"
+---
+
+Time lost its shape in the dark.
+
+There was no sunrise to mark it. No bell, no watch-change, no guard's boots on stone to measure. The cell offered nothing. Four walls, a floor, a ceiling. The silence was so complete that my own heartbeat became a sound I flinched at.
+
+I tried to count. In the beginning I tried. Breaths per minute, minutes per hour, hours per — what? There was no anchor. A man counts from something. From the sun. From the crack of a door. From another voice.
+
+I had none of those.
+
+I had my breathing. I had the slow, percussion of blood in my ears. I had the mana humming through its nine cores like current through copper wire.
+
+I slept. I woke up. Nothing had changed. The dark was the dark. The stone was the stone. I slept again, and the distinction between sleeping and waking grew thinner with each cycle until I could no longer say with certainty which side of the line I was on.
+
+Days. It must have been days.
+
+Unless it was weeks.
+
+The food came at intervals I could not predict. A grinding of stone against stone — a slot, somewhere low in the wall behind me, opening just enough to admit a tin plate and a cup. The sound was the loudest thing in my world.
+
+I ate. There was nothing else to do with the food. A paste of some grain I couldn't identify by taste, thick and cold and tasting of nothing. Water that was flat and warm.
+
+I ate, and I slept, and I woke, and I ate again.
+
+And I died.
+
+I gasped awake on the same stone, in the same dark, in the same dead air, and for three breaths I simply lay there with my fingers clamped against my temples.
+
+What killed me?
+
+Heart: beating. Lungs: working. Limbs: present, responsive, unbroken. I had not been stabbed. I had not been strangled. There were no wounds, no bruises, no lingering phantom of a blade or a boot.
+
+I had gone to sleep, and I had died.
+
+How?
+
+I sat up in the black and pressed my back into the corner where two walls met. The stone was cold against my spine. I pulled my knees to my chest and wrapped my arms around them and forced myself to think.
+
+Not dehydration. My mana kept the organs fed. Nine cores on Mana Breath at its lowest idle kept the body's critical systems running well past what an ordinary human could endure. I had gone longer without water in the desert.
+
+Not starvation. Same logic. Mana Breath didn't replace calories, but it slowed their consumption to a fraction of baseline. Days without food should not kill a man running nine cores.
+
+An assassin?
+
+I strained my ears against the silence. Nothing. No breathing but mine. No shift of weight, no whisper of leather on stone. If someone had entered the cell, they had entered and left without me hearing, and they had killed me without leaving a mark.
+
+A high-Circle mage could stop a heart from a distance without touching the body. But that's specialist work. And it requires line of sight, which means they'd have to open the cell door, and I'd hear the stone move — unless I was asleep, or they opened the food slot and cast through it.
+
+Still, the next death came anyway.
+
+I was ready. I had stayed awake through what felt like an entire cycle. I died in my sleep.
+
+"Sons of bitches."
+
+The words tore out of me before the headache had finished settling. I was sitting upright before the pain crested, hands flat on the stone, every nerve firing.
+
+The killing isn't magical at all.
+
+The thought came up as I remembered the only thing that entered the cell.
+
+The food.
+
+Someone was poisoning me. Something slow enough that it didn't register as a taste, didn't trigger the body's alarms, didn't announce itself until the accumulation crossed a threshold and the organs quietly surrendered. Something Toxicity Resistance at Level 10 hadn't caught, or hadn't caught fast enough, because I'd kept eating, kept feeding it in, spoonful after spoonful in the dark.
+
+I pressed my forehead against my knees.
+
+Don't eat.
+
+The simplest answer. The only one I had.
+
+I made myself stay awake. I wedged my spine into the corner and planted my feet flat on the stone and kept my eyes open in the blackness that made no difference whether they were open or shut. I breathed. I counted breaths. I lost the count. I started again.
+
+Hours passed. Or what I believed were hours.
+
+The slot opened.
+
+The grinding came first. Stone on stone. A tin plate scraped through the gap. A cup beside it. The slot ground shut.
+
+I stared at the plate I couldn't see.
+
+The smell reached me. The same flat grain paste. The same dead water. My stomach clenched once.
+
+I pushed the plate to the far wall with my foot.
+
+I did not touch it.
+
+Someone wanted me dead before this ever reached a trial.
+
+Someone who had the access and the authority to tamper with an Imperial high-security cell's supply systems, and the sophistication to do it with a compound that killed slowly enough to look natural.
+
+That narrows the field, I thought, and the fury in it was clean.
+
+But fury wouldn't keep me alive. Only mana would.
+
+I closed my eyes and I drew the first breath.
+
+Mana Breath.
+
+Not the idle hum I'd been running. Not the background current that kept the organs ticking. I opened it up. All of it. Nine cores feeding into the lungs, the mint-burn flooding down through my chest and out along every vessel.
+
+I would not eat their food. I would not drink their water. And I would breathe through a technique so saturated with mana that anything in the air would burn before it reached my blood.
+
+How long can I hold this?
+
+I didn't know. No one had ever tried. The manuals assumed someone had one core. Two at most. They assumed short bursts. Minutes of enhancement before the technique exhausted its practitioner and the body collapsed from the strain of channeling mana through tissue.
+
+Nine cores changed the arithmetic. Nine cores meant the well never ran dry. The mana came in faster than it could dissipate.
+
+I breathed.
+
+Slower.
+
+Slower still.
+
+I found the floor beneath the rhythm and sank into it. Each inhale drew mana from all nine cores at once, a slow pull that gathered in my lungs like water pooling behind a dam. Each exhale sent it outward, radiating through the chest wall into the ribs, down through the diaphragm, out along the spine.
+
+This is where a man with one core stops, I thought. This is where the throughput caps and the body says enough.
+
+The body said enough.
+
+I did not listen.
+
+The mana went further. Past the places it usually reached and into the places it usually faded. It reached the extremities, the fingertips, the soles of my feet, the thin skin over the temples. It filled them. Saturated them. It began to press against the edges of what flesh could hold.
+
+My bones ached. As though the marrow itself was being asked to accommodate something it had never been designed to hold.
+
+This is going to hurt.
+
+It hurt.
+
+The mana found the dense tissue — the bones first, then the connective tissue, the tendons and ligaments, the sheaths that wrapped the muscles. It pressed into them the way water presses into stone, finding every micro-fracture, every pocket of air, every imperfection, and filling them.
+
+I held.
+
+Minutes.
+
+Hours.
+
+The ache changed. It went from sharp to deep to a reorganization below the level of conscious sensation, as though the mana had stopped asking permission and started doing the work on its own. In my forearms. In the bridges of my feet. In the plates of my skull.
+
+I breathed.
+
+The slot opened. The tin plate scraped through. The slot closed.
+
+I did not move.
+
+The slot opened again. Another plate. Another cup.
+
+I did not move.
+
+The plates accumulated in the dark. Three. Four. I lost count. The cell smelled faintly of cold grain and dead water.
+
+What does any other person do when their mana reaches its limit?
+
+They stop. Their core gutters. Their channels close. The body enforces its own ceiling, and the mage rests, and the ceiling is the ceiling, and that is the end of the question.
+
+I did not stop.
+
+I could not stop. Stopping meant the poison finding its way back into my blood, and the next sleep being the last one.
+
+So the mana kept going. Past the ceiling. Past the place where a normal practitioner's core would stop.
+
+I breathed.
+
+The dark was nothing. The hunger was nothing. The thirst was a fading signal from a body that was learning to run on something older than food or water.
+
+More.
+
+The mana pressed into my organs. Liver. Kidneys. I felt each one flinch and then accept. Each one took the mana in, held it, integrated it.
+
+Everywhere except the heart.
+
+I held the mana away from the heart with the care of a man holding a flame near a powder keg. I had learned my lesson.
+
+The beat went on. Slower now. Steadier.
+
+I had lost all sense of time.
+
+There was no time. There was only the breath, and the mana, and the dark.
+
+I don't know how many days it took.
+
+The plates by the far wall had stopped coming. Whether the poisoner had given up or simply decided to wait, I couldn't tell.
+
+I sat in my corner and I breathed and I let the mana do its work.
+
+When the lock finally moved, I heard it from a long way off. The mechanisms in the stone wall shifting, tumblers of metal and magic engaging.
+
+Light came through.
+
+Not much. A sliver. Then a band.
+
+I blinked.
+
+The light was agony after so long in the absolute dark. My eyes streamed. I raised one hand against the glare.
+
+Two notifications hung in the lower edge of my sight.
