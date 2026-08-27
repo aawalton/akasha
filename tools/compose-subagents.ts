@@ -6,7 +6,7 @@ import { existsSync, readFileSync, readdirSync, writeFileSync } from "node:fs"
 import { render } from "./compose-notices.ts"
 import { bullets, sections } from "./lib/markdown.ts"
 import { parseFrontmatter, textField } from "../page/frontmatter.ts"
-import { resolveRoots } from "../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor } from "../repo/roots/roots"
 import { fail } from "./lib/command.ts"
 
 const FOLDER = "pages/subagent-kind"
@@ -112,7 +112,7 @@ export function kindsIn(kinds: readonly Kind[]): Readonly<Record<string, Definit
 
 function main(): void {
   const { out } = parse(process.argv.slice(2))
-  const folder = `${resolveRoots().akasha}/${FOLDER}`
+  const folder = `${rootFor(resolveRoots(), AKASHA)}/${FOLDER}`
   if (!existsSync(folder)) fail(`${folder} is not there, so there is no kind to render`)
   const kinds = readdirSync(folder)
     .filter((name) => name.endsWith(".md"))

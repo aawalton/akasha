@@ -14,7 +14,7 @@ import {
 } from "../../../../tools/lib/graph/producers/package/types.ts"
 import { readRepoFile } from "../../../../tools/lib/graph/repos.ts"
 import type { Edge, Graph, Node } from "../../../../tools/lib/graph/types.ts"
-import { resolveRoots } from "../../../../repo/roots/roots"
+import { CODE, resolveRoots, rootFor } from "../../../../repo/roots/roots"
 import { parseArgs as parseCliArgs } from "../lib/cli-args.ts"
 import { errorMessage } from "../../../../tools/lib/check-workflow/error-message"
 import { type FunctionalType, FunctionalTypeSchema, RANK_BY_TYPE } from "../../../../tools/lib/check-workflow/functional-type"
@@ -103,7 +103,7 @@ async function main(): Promise<never> {
   }
   const { reading, graph: fullGraph } = held
 
-  const codeRoot = resolveRoots().code
+  const codeRoot = rootFor(resolveRoots(), CODE)
   const packageNodes = fullGraph.nodes(PACKAGE_NODE_TYPE).map(parsePackageNode)
   const workspaces: readonly WorkspaceEntry[] = packageNodes.map((n) => ({
     name: n.attrs.name,

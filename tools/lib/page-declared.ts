@@ -1,3 +1,4 @@
+import { AKASHA, rootFor } from "../../repo/roots/roots.ts"
 import { type Frontmatter, listField, textField } from "../../page/frontmatter.ts"
 import { slugNamed } from "../../page/page-address.ts"
 import { computedOn, reachedFor, reachingIn } from "../../page/property/computed.ts"
@@ -86,7 +87,7 @@ function fallbackIn(fm: Frontmatter, key: string): Held {
 // the repository beside it once, and a reader still pointed there finds no page type
 // at all, so every query over them answers that nothing carries its pages.
 export function declaringRoot(roots: Roots): string {
-  return roots.akasha
+  return rootFor(roots, AKASHA)
 }
 
 export function kindsIn(roots: Roots): ReadonlyMap<string, Kind> {

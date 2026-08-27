@@ -9,7 +9,7 @@ import { addressOf, slugNamed } from "../../page/page-address.ts"
 import { PAGE_TYPE_SLUG } from "../../page/text/text.ts"
 import { removeUncommitted } from "../../page/uncommitted/uncommitted.ts"
 import { type Roots } from "../../page/page"
-import { resolveRoots } from "../../repo/roots/roots"
+import { AKASHA, MEMORY, resolveRoots, rootFor } from "../../repo/roots/roots"
 import { initiativesIn } from "./seat-initiative.ts"
 import { principalSeatNameOf } from "./seat-principal.ts"
 import { frontmatterOf, seatPageForAgent } from "./seat-presence-read.ts"
@@ -67,10 +67,10 @@ export function seatPageBody(
     `id: ${agent}`,
     `title: "${seatName}"`,
     ...(persona === null ? [] : [`persona-slug: ${persona}`]),
-    `domain-slug: ${domainAddress(domain, roots.akasha)}`,
+    `domain-slug: ${domainAddress(domain, rootFor(roots, AKASHA))}`,
     `role-slug: ${role}`,
   ]
-  const person = personPrincipals(roots.akasha).includes(principal)
+  const person = personPrincipals(rootFor(roots, AKASHA)).includes(principal)
   if (person) lines.push(`person-slug: ${principal}`)
   else {
     const above = parentName ?? principalSeatNameOf(agent)
@@ -82,7 +82,7 @@ export function seatPageBody(
   const task = stated.task?.value ?? null
   if (task !== null) lines.push(`task-slug: ${task}`)
   if (stated.initiative !== null) {
-    const slug = initiativeSlugOf(stated.initiative.value, roots.memory)
+    const slug = initiativeSlugOf(stated.initiative.value, rootFor(roots, MEMORY))
     if (slug !== null) lines.push(`initiative-slug: ${slug}`)
   }
   if (stated.errand !== null) {

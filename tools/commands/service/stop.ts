@@ -2,7 +2,7 @@
 export const summary = "Stop one workstation service by the name its document carries"
 
 import { parseArgs } from "../../lib/parse-args.ts"
-import { resolveRoots } from "../../../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor } from "../../../repo/roots/roots"
 import { systemctlIn } from "../../lib/service-install.ts"
 import { serviceNamed } from "../../lib/service-project.ts"
 import { installedUnitName, isScheduled } from "../../lib/service-unit.ts"
@@ -28,7 +28,7 @@ export default async function serviceStop(args: readonly string[]): Promise<void
     process.exit(1)
   }
 
-  const doc = serviceNamed(resolveRoots().akasha, slug)
+  const doc = serviceNamed(rootFor(resolveRoots(), AKASHA), slug)
   const unit = installedUnitName(doc)
   const units = isScheduled(doc) ? [unit, `${doc.slug}.service`] : [unit]
   for (const one of units) {

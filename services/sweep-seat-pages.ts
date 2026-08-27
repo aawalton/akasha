@@ -8,7 +8,7 @@ import { basename, join } from "node:path"
 import { stemOf as slugOf } from "../page/name/name"
 import { sidecarsOf } from "../page/sidecar/sidecar.ts"
 import { dirOfPlaceHeld, SEAT_WRITE } from "../tools/lib/agent-page-place.ts"
-import { resolveRoots } from "../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor } from "../repo/roots/roots"
 import { whyRefused } from "../tools/lib/seat-page.ts"
 import { seatPagePaths, seatPresence, seatsDir } from "../tools/lib/seat-presence-read.ts"
 import { toolArgv } from "../tools/lib/tool-argv.ts"
@@ -186,13 +186,13 @@ function main(argv: readonly string[]): number {
     )
     return unresolved === 0 ? 0 : 1
   }
-  const taken = removePages(absent, roots.akasha)
+  const taken = removePages(absent, rootFor(roots, AKASHA))
   if (taken.code === 0) {
     for (const one of absent) removeSidecars(one)
     process.stderr.write(`removed ${absent.length} seat page(s) and their sidecars\n`)
     return unresolved === 0 ? 0 : 1
   }
-  const held = takeEachAlone(absent, roots.akasha)
+  const held = takeEachAlone(absent, rootFor(roots, AKASHA))
   const removed = absent.length - held.length
   if (removed > 0) process.stderr.write(`removed ${removed} seat page(s) and their sidecars\n`)
   for (const one of held) process.stderr.write(`refused: ${one}\n`)

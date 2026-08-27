@@ -2,7 +2,7 @@ import { refuses, standingOn, stoodAside } from "../lib/required-reading-standin
 import { codeCheckoutOf, expandHome } from "../lib/code-checkout.ts"
 import { recordingAgentId } from "../lib/read-record.ts"
 import { canonicalize, isInside, normalizeAbsolute } from "../../repo/path/path"
-import { resolveRoots } from "../../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots"
 
 function deny(reason: string): void {
   console.log(
@@ -33,14 +33,16 @@ function judge(fields: Record<string, unknown>): void {
   )
 
   const roots = resolveRoots()
-  if (isInside(roots.akasha, absolute)) return
-  const checkout = codeCheckoutOf(absolute, roots.code)
+  if (isInside(rootFor(roots, AKASHA), absolute)) return
+  const codeRoot = roots.code
+  if (codeRoot === undefined) return
+  const checkout = codeCheckoutOf(absolute, codeRoot)
   if (checkout === null || absolute === checkout) return
 
   const standing = standingOn({
     relPath: absolute.slice(checkout.length + 1),
     repo: "code",
-    root: roots.akasha,
+    root: rootFor(roots, AKASHA),
     agent: recordingAgentId(fields),
   })
   if (refuses(standing)) return deny(standing.refusals.join("\n\n"))

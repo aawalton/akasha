@@ -2,7 +2,7 @@
 import { requiredReadingWhole } from "../required-reading.ts"
 import type { Champion } from "./domain.ts"
 import { type Roots } from "../../page/page"
-import { isDirty } from "../../repo/roots/roots"
+import { AKASHA, isDirty, rootFor } from "../../repo/roots/roots"
 
 export interface Descent {
   readonly slugAt: ReadonlyMap<string, string>
@@ -20,7 +20,7 @@ export function domainsRequiredFor(
   descent: Descent,
   roots: Roots
 ): readonly Answering[] {
-  return requiredReadingWhole(relPath, roots.akasha).flatMap((document) => {
+  return requiredReadingWhole(relPath, rootFor(roots, AKASHA)).flatMap((document) => {
     const slug = descent.slugAt.get(document)
     if (slug === undefined) return []
     const champion = descent.championOfSlug.get(slug)
@@ -52,7 +52,7 @@ export function pathRecord(
 } {
   return {
     record: "owns-path",
-    root: roots.akasha,
+    root: rootFor(roots, AKASHA),
     paths: paths.map((relPath) => ({
       path: relPath,
       quarantined: isDirty(relPath),

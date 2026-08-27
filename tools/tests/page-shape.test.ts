@@ -10,14 +10,14 @@ import { bodyOf, shapeOf } from "../../page/shape/shape.ts"
 import { blockKey } from "../../page/shape/level.ts"
 import { LADDER } from "../../page/document/template.ts"
 import { textAt } from "../../page/text/text.ts"
-import { resolveRoots } from "../../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots"
 
 const INITIATIVE_SHAPE = "pages/page-body-shape/initiative.page-body-shape.md"
 
 const roots = resolveRoots()
 
 function shapeText(): string {
-  const text = textAt(roots.akasha, INITIATIVE_SHAPE)
+  const text = textAt(rootFor(roots, AKASHA), INITIATIVE_SHAPE)
   expect(text).not.toBeNull()
   return text!
 }

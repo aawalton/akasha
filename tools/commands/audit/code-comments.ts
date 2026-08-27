@@ -11,7 +11,7 @@ import { operationalError } from "../../lib/exit.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
 import { renderAuditReading, summarizeAudit } from "../../lib/audit-reading.ts"
 import { codeRoot } from "../../lib/code-root.ts"
-import { resolveRoots } from "../../../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor } from "../../../repo/roots/roots"
 import type { CommandHelp } from "../../ops/surface.ts"
 
 const SUBJECT = "code-repo files carrying a comment outside the code comment forms"
@@ -70,7 +70,7 @@ export default async function auditCodeComments(args: readonly string[]): Promis
 
   const repoRootFlag = parsed.string("--repo-root")
   const repoRoot = repoRootFlag === undefined ? codeRoot() : resolve(repoRootFlag)
-  const instructionsRoot = resolveRoots().akasha
+  const instructionsRoot = rootFor(resolveRoots(), AKASHA)
 
   let trackedFiles: readonly string[]
   try {

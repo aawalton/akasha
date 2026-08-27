@@ -1,7 +1,7 @@
 import { describe, expect, test } from "bun:test"
 import { CHECK_WORKFLOW_DISPATCH_NODE_TYPES } from "./check-workflow-watch.ts"
 import { DECLARED_TABLE_DIRECTORY, declaredCheckEntries } from "./declared-check-configs.ts"
-import { resolveRoots } from "../../../repo/roots/roots"
+import { CODE, resolveRoots, rootFor } from "../../../repo/roots/roots"
 
 const LEAST_CHECKS = 100
 
@@ -31,7 +31,7 @@ const TRACKED_FILE_POPULATIONS: readonly string[] = [
   "tsconfig-file",
 ]
 
-const codeRoot = process.env.WORKSPACE ?? resolveRoots().code
+const codeRoot = process.env.WORKSPACE ?? rootFor(resolveRoots(), CODE)
 
 const { entries, modules } = await declaredCheckEntries(codeRoot)
 

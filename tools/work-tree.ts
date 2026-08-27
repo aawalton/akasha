@@ -16,7 +16,7 @@ import {
   walk,
 } from "./lib/work-tree.ts"
 import { pagePrefixOf } from "../page/page-types.ts"
-import { isDirty, resolveRoots } from "../repo/roots/roots"
+import { isDirty, resolveRoots, targetRoot } from "../repo/roots/roots"
 import { colorOfState } from "./lib/seat-turn-color.ts"
 import { seatWorkNow } from "./lib/seat-work.ts"
 
@@ -128,8 +128,7 @@ function main(): void {
     process.stdout.write(HELP)
     return
   }
-  const roots = resolveRoots("memory")
-  const repo = roots.memory
+  const repo = targetRoot(resolveRoots("memory"))
   if (argv.includes("--colors") || argv.includes("--colours")) {
     process.stdout.write(`${JSON.stringify(colorsAnswer(repo, drawnNow()))}\n`)
     return

@@ -5,7 +5,7 @@ import { DEFAULT_ACCOUNT } from "../../lib/default-account.ts"
 import { dataError, inputError } from "../../lib/exit.ts"
 import { killSeatSession, launchSeatUnderTmux } from "../../lib/launch-seat-tmux.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
-import { resolveRoots } from "../../../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor } from "../../../repo/roots/roots"
 import { flexInName } from "../../lib/seat-flex.ts"
 import { resolveSeatTargetCli } from "../../lib/seat-handle.ts"
 import { SEAT_MODES, SEAT_MODE_HEADLESS, isSeatMode } from "../../lib/seat-modes.ts"
@@ -128,7 +128,7 @@ export default async function seatReset(args: readonly string[]): Promise<void> 
       flex: kept.flex,
       principal: kept.principal,
     },
-    roots.akasha
+    rootFor(roots, AKASHA)
   )
   if (name === null) {
     throw dataError(

@@ -1,3 +1,4 @@
+import { MEMORY, rootFor } from "../../repo/roots/roots.ts"
 import { DECLARATIONS, type Declaration } from "./attributes.ts"
 import { FLEET } from "./compose-seat-name.ts"
 import { rootOfPlace, SEAT_PLACES } from "./agent-page-place.ts"
@@ -93,7 +94,7 @@ export function statedFromHistory(seatName: string, roots: Roots): StatedFromHis
     set,
     principal: textField(frontmatter, "person-slug") ?? textField(frontmatter, "principal-seat-name"),
     onCall: frontmatter["on-call"] === true,
-    initiative: bare === null ? null : initiativeStemOf(bare, roots.memory),
+    initiative: bare === null ? null : initiativeStemOf(bare, rootFor(roots, MEMORY)),
   }
 }
 

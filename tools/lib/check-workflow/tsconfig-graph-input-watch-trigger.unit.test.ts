@@ -2,7 +2,7 @@ import { describe, expect, it } from "bun:test"
 import { closureIntersectsChangedFiles } from "../ci-worker-pure/closure-reach.ts"
 import { createGraph } from "../graph/graph.ts"
 import type { Edge, Node } from "../graph/types.ts"
-import { resolveRoots } from "../../../repo/roots/roots"
+import { CODE, resolveRoots, rootFor } from "../../../repo/roots/roots"
 import { declaredCheckEntries } from "./declared-check-configs.ts"
 
 const PKG_PATH = "packages/p"
@@ -69,7 +69,7 @@ const graph = createGraph(
   ]
 )
 
-const codeRoot = process.env.WORKSPACE ?? resolveRoots().code
+const codeRoot = process.env.WORKSPACE ?? rootFor(resolveRoots(), CODE)
 
 const { entries } = await declaredCheckEntries(codeRoot)
 

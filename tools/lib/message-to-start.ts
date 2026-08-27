@@ -7,7 +7,7 @@ import {
   names,
   seatsStating,
 } from "./message-to.ts"
-import { resolveRoots } from "../../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots"
 import { handlerDerives } from "./seat-answering.ts"
 import { SEAT_MODE_HEADLESS } from "./seat-modes.ts"
 import { REPO_ROOT } from "./supervisor-config.ts"
@@ -19,7 +19,7 @@ const OPS_BIN = "dotfiles/bin"
 function reachingOps(
   env: Record<string, string | undefined>
 ): Record<string, string | undefined> {
-  const dir = `${resolveRoots().akasha}/${OPS_BIN}`
+  const dir = `${rootFor(resolveRoots(), AKASHA)}/${OPS_BIN}`
   const path = env.PATH ?? ""
   return path.split(":").includes(dir) ? env : { ...env, PATH: `${dir}:${path}` }
 }
@@ -88,7 +88,7 @@ export function readStartedSeat(stdout: string): StartedSeat | null {
 }
 
 export function answersToAPerson(domain: string, role: string): boolean {
-  return handlerDerives(resolveRoots().akasha, role, domain).principal !== null
+  return handlerDerives(rootFor(resolveRoots(), AKASHA), role, domain).principal !== null
 }
 
 export async function startSeat(

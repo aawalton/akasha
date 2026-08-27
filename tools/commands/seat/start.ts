@@ -23,7 +23,7 @@ import { seatByName } from "../../lib/seat-by-name.ts"
 import { mintNamedAgent } from "../../lib/seat-name-bind.ts"
 import { resolveStatedIdentity } from "../../lib/resolve-stated-identity.ts"
 import { refuseHeldName } from "../../lib/seat-name-claim.ts"
-import { resolveRoots } from "../../../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor } from "../../../repo/roots/roots"
 import { defaultFor } from "../../lib/seat-resolve.ts"
 import { handlerDerives, principalIsPerson, refuseAnswering } from "../../lib/seat-answering.ts"
 import {
@@ -66,7 +66,7 @@ export default async function seatStart(args: readonly string[]): Promise<void> 
   }
   const headless = startMode === SEAT_MODE_HEADLESS
 
-  const root = resolveRoots().akasha
+  const root = rootFor(resolveRoots(), AKASHA)
   const stated: { -readonly [K in keyof StatedAgentSlots]: StatedAgentSlots[K] } = {}
   for (const slot of ["persona", "role", "domain"] as const) {
     const value = parsed.string(`--${slot}`)?.trim()

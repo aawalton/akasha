@@ -1,7 +1,7 @@
 import { existsSync, readFileSync, realpathSync, writeFileSync } from "node:fs"
 import { dirname } from "node:path"
 import { fromDisk, refusalText } from "./refusal.ts"
-import { resolveRoots, VENDOR_ROOT } from "../../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor, VENDOR_ROOT } from "../../repo/roots/roots"
 import { link } from "./sibling-link.ts"
 
 const TSCONFIG = "tsconfig.json"
@@ -122,7 +122,7 @@ export function writeTsconfig(dir: string, typeRoot: string, exclude: readonly s
 }
 
 export function linkModules(dir: string): void {
-  link(`${resolveRoots().akasha}/${VENDOR_ROOT}`, `${dir}/${VENDOR_ROOT}`)
+  link(`${rootFor(resolveRoots(), AKASHA)}/${VENDOR_ROOT}`, `${dir}/${VENDOR_ROOT}`)
 }
 
 export interface TscRun {
@@ -171,7 +171,7 @@ export function reported(
   errors: readonly Diagnostic[],
   ceiling: number
 ): readonly string[] {
-  const root = resolveRoots().akasha
+  const root = rootFor(resolveRoots(), AKASHA)
   const lines = errors
     .slice(0, ceiling)
     .map((e) =>

@@ -1,7 +1,7 @@
 
 import { existsSync } from "node:fs"
 import { createRequire } from "node:module"
-import { resolveRoots } from "../../repo/roots/roots.ts"
+import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots.ts"
 import { codeRoot } from "./code-root.ts"
 
 export class CodeImportError extends Error {}
@@ -16,7 +16,7 @@ export function codeRefKind(ref: string): CodeRefKind {
 
 function besideCode(): readonly string[] {
   const roots = resolveRoots()
-  return [roots.akasha].filter((one): one is string => typeof one === "string")
+  return [rootFor(roots, AKASHA)].filter((one): one is string => typeof one === "string")
 }
 
 export function codeRefFile(ref: string, root: string = codeRoot()): string {

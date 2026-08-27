@@ -1,7 +1,7 @@
 
 import { basename, dirname } from "node:path"
 import { readSubject } from "../../lib/subjects.ts"
-import { resolveRoots } from "../../../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor } from "../../../repo/roots/roots"
 import { placeDirOf } from "../../../page/page-types.ts"
 
 const PERSONA = "persona"
@@ -10,9 +10,9 @@ function personaDirs(): readonly string[] {
   const wherever = [`$_root/${placeDirOf(PERSONA)}`]
   try {
     const roots = resolveRoots()
-    const reading = readSubject(roots.akasha, "personas")
+    const reading = readSubject(rootFor(roots, AKASHA), "personas")
     const under =
-      reading.root === roots.akasha ? "$_root" : `$_root/../${basename(reading.root)}`
+      reading.root === rootFor(roots, AKASHA) ? "$_root" : `$_root/../${basename(reading.root)}`
     const held = new Set(reading.records.map((one) => `${under}/${dirname(one.path)}`))
     return [...held, ...wherever]
   } catch {

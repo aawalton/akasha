@@ -24,7 +24,9 @@ export function suiteTreeEnv(pinnedAt: string): Readonly<Record<string, string>>
   const roots = resolveRoots()
   const env: Record<string, string> = { ...(process.env as Record<string, string>) }
   for (const repo of REPOS) {
-    env[rootEnvName(repo)] = repo === "instructions" ? pinnedAt : (roots[repo] as string)
+    const root = repo === "instructions" ? pinnedAt : roots[repo]
+    if (root === undefined) continue
+    env[rootEnvName(repo)] = root
   }
   return env
 }

@@ -5,7 +5,7 @@ export const tool = {
 
 import { readFileSync } from "node:fs"
 import { outOfBounds } from "../repo/path/path"
-import { resolveRoots } from "../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor } from "../repo/roots/roots"
 import { fail } from "./lib/command.ts"
 
 const HELP = `bun tools/holds.ts — which of the needles asked for appear in which of the paths asked about
@@ -177,7 +177,7 @@ if (import.meta.main) {
     process.stdout.write(HELP)
     process.exit(0)
   }
-  const root = resolveRoots().akasha
+  const root = rootFor(resolveRoots(), AKASHA)
   const request = parseRequest(await Bun.stdin.text())
   process.stdout.write(
     answer(request, (relPath) => {

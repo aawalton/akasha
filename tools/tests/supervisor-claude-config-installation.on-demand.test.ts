@@ -1,6 +1,6 @@
 import { describe, expect, it } from "bun:test"
 import { homedir } from "node:os"
-import { resolveRoots } from "../../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots"
 import { readClaudeConfigDeclaration } from "../lib/supervisor-claude-config.ts"
 
 describe("the declaration that ships with this repository, read against the live installation", () => {
@@ -11,7 +11,7 @@ describe("the declaration that ships with this repository, read against the live
       string,
       Record<string, unknown>
     >
-    const spawnedIn = `$HOME${resolveRoots().akasha.slice(homedir().length)}`
+    const spawnedIn = `$HOME${rootFor(resolveRoots(), AKASHA).slice(homedir().length)}`
     expect(projects[spawnedIn]?.hasTrustDialogAccepted).toBe(true)
   })
 })

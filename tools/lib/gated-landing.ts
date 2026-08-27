@@ -1,6 +1,6 @@
 import { existsSync, mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { dirname, join, resolve } from "node:path"
-import { resolveRoots } from "../../repo/roots/roots.ts"
+import { resolveRoots, rootFor } from "../../repo/roots/roots.ts"
 import { toolArgv } from "./tool-argv.ts"
 
 const SCRATCH_ROOT = "/var/tmp"
@@ -37,7 +37,7 @@ interface Run {
 }
 
 function rootOf(act: GatedAct): string {
-  return act.root ?? resolveRoots()[act.repo]
+  return act.root ?? rootFor(resolveRoots(), act.repo)
 }
 
 const TOOLS_ROOT = resolve(dirname(new URL(import.meta.url).pathname), "..", "..")

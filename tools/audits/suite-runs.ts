@@ -1,4 +1,5 @@
 
+import { AKASHA, rootFor } from "../../repo/roots/roots.ts"
 import { CHECKS_CEILING_MS, type AsyncCheck, type CheckOutcome } from "../lib/check.ts"
 import { judge, over, skip } from "../../outcome/outcome"
 import { fromDisk, refusalText } from "../lib/refusal.ts"
@@ -114,7 +115,7 @@ export const suiteRuns: AsyncCheck = async (repo) => {
       population: over(0, "test file(s)"),
     }
   }
-  const startedOn = headSha(repo.roots.akasha)
+  const startedOn = headSha(rootFor(repo.roots, AKASHA))
   if (startedOn === null) {
     return {
       ...judge(NAME, "git could not read HEAD here, so there is no commit whose suite this could run", [
@@ -123,7 +124,7 @@ export const suiteRuns: AsyncCheck = async (repo) => {
       population: over(0, "test file(s)"),
     }
   }
-  return withSuiteTree(repo.roots.akasha, startedOn, async (tree) => {
+  return withSuiteTree(rootFor(repo.roots, AKASHA), startedOn, async (tree) => {
     const considered = unitFiles(tree.at)
     const chosen = selection(tree.at, considered)
     const files = chosen.files
@@ -157,7 +158,7 @@ export const suiteRuns: AsyncCheck = async (repo) => {
       })
       tally = added(tally, tallyOf(run.stdout.toString() + run.stderr.toString(), run.exitCode))
     }
-    const outcome = report(tally, files.length, repo.roots.akasha)
+    const outcome = report(tally, files.length, rootFor(repo.roots, AKASHA))
     const onDemand = onDemandFiles(tree.at)
     const held =
       onDemand.length === 0

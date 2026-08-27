@@ -4,7 +4,7 @@ import { carried } from "./page-carry.ts"
 import type { Held, Values } from "./page-file-values.ts"
 import { textAt } from "../../page/text/text.ts"
 import { type Roots } from "../../page/page.ts"
-import { isAddressable } from "../../repo/roots/roots.ts"
+import { isAddressable, rootFor } from "../../repo/roots/roots.ts"
 
 const NAMING: readonly string[] = ["slug", "id"]
 
@@ -121,7 +121,7 @@ export function rowsPagesIn(
   const cut = parentAt.indexOf(":")
   const repo = parentAt.slice(0, cut)
   if (!isAddressable(repo)) return []
-  const root = roots[repo]
+  const root = rootFor(roots, repo)
   const relPath = rowsFileOf(parentAt.slice(cut + 1), key, uncommitted)
   const parts = rowsPartsOf(`${root}/${relPath}`)
   const pages: RowsPage[] = []

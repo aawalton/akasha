@@ -3,7 +3,7 @@ import { readFileSync } from "node:fs"
 import { ON_CALL_KEY } from "./frontmatter-keys.ts"
 import { parseFrontmatter, textField } from "../../page/frontmatter.ts"
 import { pageRelIn } from "../../page/page-types.ts"
-import { resolveRoots } from "../../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots"
 import { type Found, documentFor } from "./seat-resolve.ts"
 import { pageFlagOf, pageTextOf } from "./seat-page-values.ts"
 
@@ -35,7 +35,7 @@ export function roleOnCallStated(instructions: string, slug: string | null): boo
 }
 
 export function roleOnCallOf(agent: string): boolean {
-  const where = resolveRoots().akasha
+  const where = rootFor(resolveRoots(), AKASHA)
   return roleOnCallStated(where, pageTextOf(agent, ROLE_SLUG_KEY))
 }
 

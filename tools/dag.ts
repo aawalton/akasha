@@ -6,7 +6,7 @@ import { readFileSync } from "node:fs"
 import { listDocuments } from "./lib/check.ts"
 import { DOMAIN_PARENTS_KEY, DOMAIN_SLUG_KEY } from "./lib/domain.ts"
 import { listField, parseFrontmatter, textField } from "../page/frontmatter.ts"
-import { isDirty, resolveRoots } from "../repo/roots/roots"
+import { AKASHA, isDirty, resolveRoots, rootFor } from "../repo/roots/roots"
 
 const HELP = `bun tools/dag.ts — print the domain DAG, composed from the pages now
 
@@ -132,7 +132,7 @@ function main(): void {
     process.exit(1)
   }
 
-  const domains = domainsIn(resolveRoots().akasha)
+  const domains = domainsIn(rootFor(resolveRoots(), AKASHA))
   const unknown = [...rooted, ...above].filter((slug) => !domains.has(slug))
   if (unknown.length > 0) {
     process.stderr.write(`error: no document declares ${unknown.join(", ")}\n`)

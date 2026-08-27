@@ -1,6 +1,6 @@
 
 import { fromDisk, refusalText } from "./refusal.ts"
-import { resolveRoots } from "../../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots"
 import { scanCommand } from "./substituting-backtick.ts"
 
 const ALLOW = 0
@@ -9,7 +9,7 @@ const UNRESOLVED = 3
 
 const WINDOW = 44
 
-const repoRoot = (): string => resolveRoots().akasha
+const repoRoot = (): string => rootFor(resolveRoots(), AKASHA)
 
 function whereAt(position: string): string {
   if (position === "unquoted")

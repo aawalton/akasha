@@ -1,5 +1,5 @@
 import { readFileSync } from "node:fs"
-import { resolveRoots } from "../../repo/roots/roots"
+import { AKASHA, CODE, resolveRoots, rootFor } from "../../repo/roots/roots"
 import { type Comment, commentsIn, UnscannableFile, without } from "./comments.ts"
 import { classify, DOMAIN_DOC, FORMS_DOC, type Form, formsFrom, type Klass } from "./forms.ts"
 import {
@@ -172,18 +172,18 @@ function run(argv: readonly string[]): void {
   }
   const repo: Tree = named0
   const roots = resolveRoots()
-  const root = repo === "code" ? roots.code : roots.akasha
+  const root = repo === "code" ? rootFor(roots, CODE) : rootFor(roots, AKASHA)
   const wanted = flag(argv, "--class") as Klass | null
   if (wanted !== null && !CLASSES.includes(wanted)) {
     process.stderr.write(`error: --class takes one of ${CLASSES.join(", ")}\n`)
     process.exitCode = 1
     return
   }
-  const forms = formsFrom(readFileSync(`${roots.akasha}/${FORMS_DOC}`, "utf8"))
+  const forms = formsFrom(readFileSync(`${rootFor(roots, AKASHA)}/${FORMS_DOC}`, "utf8"))
   const named = flag(argv, "--file-path")
   const scope = flag(argv, "--under")
   const packages = packagesIn(tracked(root))
-  const reached = named === null ? reachedIn(roots.akasha, root, repo) : [named]
+  const reached = named === null ? reachedIn(rootFor(roots, AKASHA), root, repo) : [named]
   const scoped = scope === null ? reached : reached.filter((relPath) => relPath.startsWith(`${scope}/`))
   if (scope !== null && scoped.length === 0) {
     process.stderr.write(`error: nothing required to be read against ${DOMAIN_DOC} stands under ${scope} in ${root}\n`)

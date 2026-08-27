@@ -122,9 +122,10 @@ export function pagesFor(arrangement: Arrangement): readonly Landing[] {
 export function namesOf(roots: Roots, types: readonly PageType[], pageType: string): readonly string[] {
   const type = types.find((one) => one.slug === pageType)
   if (type === undefined) return []
-  return reposOf(type).flatMap((repo) =>
-    isAddressable(repo) ? pagesOf(roots[repo], type, repo).map((relPath) => slugOf(relPath)) : []
-  )
+  return reposOf(type).flatMap((repo) => {
+    const root = isAddressable(repo) ? roots[repo] : undefined
+    return root === undefined ? [] : pagesOf(root, type, repo).map((relPath) => slugOf(relPath))
+  })
 }
 
 export function goneFor(

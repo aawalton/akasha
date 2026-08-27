@@ -16,7 +16,7 @@ import {
 } from "../../../../tools/lib/check-workflow/addons-resolve.ts"
 import { buildFrom, readAt } from "../../../../tools/lib/graph/held-snapshot.ts"
 import type { Graph } from "../../../../tools/lib/graph/types.ts"
-import { ownRepoRoot, resolveRoots } from "../../../../repo/roots/roots"
+import { CODE, ownRepoRoot, resolveRoots, rootFor } from "../../../../repo/roots/roots"
 import { computeInputsHashAcrossRepos } from "../../../../tools/lib/workflow-dsl/inputs-hash.ts"
 import {
   addonBuildPopulationLine,
@@ -153,7 +153,7 @@ async function inPool<T>(
 
 async function main(): Promise<void> {
   const args = parseArgs()
-  const repoRoot = resolveRoots().code
+  const repoRoot = rootFor(resolveRoots(), CODE)
   const distDir = join(repoRoot, ADDONS_DIST_REL)
 
   let cacheEnabled = true

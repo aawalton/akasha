@@ -1,5 +1,5 @@
 import { canonicalize, normalizeAbsolute, outOfBounds } from "../../../repo/path/path.ts"
-import { locate, rootsHere } from "../../../repo/roots/roots.ts"
+import { locate, rootFor, rootsHere } from "../../../repo/roots/roots.ts"
 
 export interface Target {
   readonly named: string
@@ -23,7 +23,7 @@ export function targetOf(declared: string, from: string): Target {
   }
   const bad = outOfBounds(at.relPath)
   if (bad !== null) throw new Error(bad)
-  const root = rootsHere()[at.repo] as string
+  const root = rootFor(rootsHere(), at.repo)
   const absolute = `${root}/${at.relPath}`
   const here = locate(canonicalize(from))
   return { named: here !== null && here.repo === at.repo ? at.relPath : absolute, root, absolute }

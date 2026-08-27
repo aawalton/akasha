@@ -1,4 +1,5 @@
 
+import { AKASHA, rootFor } from "../../repo/roots/roots.ts"
 import type { AsyncCheck } from "../lib/check.ts"
 import {
   applyRatchet,
@@ -108,7 +109,7 @@ function refusalFor(one: CliHelpViolation, root: string): string {
 }
 
 export const cliHelpFlagReferences: AsyncCheck = async (repo) => {
-  const root = repo.roots.akasha
+  const root = rootFor(repo.roots, AKASHA)
   const empty = over(0, "command surface(s)")
 
   let accepted: readonly string[]

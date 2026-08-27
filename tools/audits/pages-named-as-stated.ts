@@ -1,3 +1,4 @@
+import { AKASHA, rootFor } from "../../repo/roots/roots.ts"
 import type { AsyncCheck, CheckOutcome } from "../lib/check.ts"
 import { constantHolesIn } from "../page/page-naming.ts"
 import { pageStem } from "../../page/name/naming/naming"
@@ -87,13 +88,13 @@ function sharedStems(one: Covered): readonly string[] {
 
 export const pagesNamedAsStated: AsyncCheck = async (repo): Promise<CheckOutcome> => {
   const types = registryOf(diskFileTree(repo.roots))
-  const pages = claimedPages(types, repo.name, repo.roots[repo.name])
+  const pages = claimedPages(types, repo.name, rootFor(repo.roots, repo.name))
   if (pages.length === 0)
     return { ...skip(NAME, emptyClaim(types, repo.name)), population: over(0, UNIT) }
 
   const covered = new Map<string, Covered>()
   for (const type of types) {
-    const text = textAt(repo.roots.akasha, type.relPath)
+    const text = textAt(rootFor(repo.roots, AKASHA), type.relPath)
     const template = text === null ? null : textField(parseFrontmatter(text), KEY)
     if (template !== null)
       covered.set(type.relPath, { type, template, unfilled: [], filled: [], held: [] })
@@ -135,7 +136,7 @@ export const pagesNamedAsStated: AsyncCheck = async (repo): Promise<CheckOutcome
         refusalText(
           "page-name-key-unwritten",
           { slug: one.type.slug, named: one.template, count: String(seen) },
-          repo.roots.akasha,
+          rootFor(repo.roots, AKASHA),
           fromDisk
         )
       )

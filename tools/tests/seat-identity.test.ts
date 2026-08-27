@@ -1,3 +1,4 @@
+import { MEMORY, rootFor } from "../../repo/roots/roots.ts"
 import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { tmpdir } from "node:os"
 import { afterAll, describe, expect, test } from "bun:test"
@@ -38,13 +39,13 @@ function memoryRepo(): Roots {
 }
 
 function commitPage(built: Roots, name: string, body: string): void {
-  writeFileSync(`${built.memory}/seats/${name}.md`, body)
-  git(built.memory, ["add", "-A"])
-  git(built.memory, ["commit", "-q", "-m", `seat ${name}`])
+  writeFileSync(`${rootFor(built, MEMORY)}/seats/${name}.md`, body)
+  git(rootFor(built, MEMORY), ["add", "-A"])
+  git(rootFor(built, MEMORY), ["commit", "-q", "-m", `seat ${name}`])
 }
 
 afterAll(() => {
-  for (const built of roots) rmSync(built.memory, { recursive: true, force: true })
+  for (const built of roots) rmSync(rootFor(built, MEMORY), { recursive: true, force: true })
 })
 
 describe("what a seat's page says its identity is", () => {
@@ -65,22 +66,22 @@ describe("what a seat's page says its identity is", () => {
 describe("a seat is found by name whether it is standing or stopped", () => {
   test("a standing page answers", () => {
     const built = memoryRepo()
-    writeFileSync(`${built.memory}/seats/vera.md`, page(AGENT))
+    writeFileSync(`${rootFor(built, MEMORY)}/seats/vera.md`, page(AGENT))
     expect(seatIdentityForName("vera", built)).toEqual({ id: AGENT })
   })
 
   test("a seat that has stopped is answered from the last page it held", () => {
     const built = memoryRepo()
     commitPage(built, "vera", page(AGENT))
-    rmSync(`${built.memory}/seats/vera.md`)
-    git(built.memory, ["commit", "-qam", "vera stopped"])
+    rmSync(`${rootFor(built, MEMORY)}/seats/vera.md`)
+    git(rootFor(built, MEMORY), ["commit", "-qam", "vera stopped"])
     expect(seatIdentityForName("vera", built)).toEqual({ id: AGENT })
   })
 
   test("the page standing now is preferred to the one history holds", () => {
     const built = memoryRepo()
     commitPage(built, "vera", page(OTHER))
-    writeFileSync(`${built.memory}/seats/vera.md`, page(AGENT))
+    writeFileSync(`${rootFor(built, MEMORY)}/seats/vera.md`, page(AGENT))
     expect(seatIdentityForName("vera", built)).toEqual({ id: AGENT })
   })
 

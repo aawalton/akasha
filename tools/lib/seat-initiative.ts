@@ -2,7 +2,7 @@
 import { existsSync } from "node:fs"
 import { isAttachmentFile } from "../../page/attachment-file.ts"
 import { type Roots } from "../../page/page"
-import { isDirty, resolveRoots } from "../../repo/roots/roots"
+import { isDirty, MEMORY, resolveRoots, rootFor } from "../../repo/roots/roots"
 import { pagePrefixOf, placeDirOf } from "../../page/page-types.ts"
 import { PAGE_TYPE_SLUG } from "../../page/text/text.ts"
 import { stemOf as slugOf } from "../../page/name/name"
@@ -59,7 +59,7 @@ export function initiativePlaceOf(bare: string, memoryRoot: string): InitiativeP
 
 export function initiativeOf(agent: string, roots: Roots = resolveRoots()): InitiativeRecord | null {
   const bare = pageTextOf(agent, INITIATIVE_SLUG_KEY)
-  const stem = bare === null ? null : initiativeStemOf(bare, roots.memory)
+  const stem = bare === null ? null : initiativeStemOf(bare, rootFor(roots, MEMORY))
   return stem === null ? null : { value: stem }
 }
 

@@ -170,7 +170,7 @@ export function reach(named: readonly Repo[], roots: Roots): Reach {
   const absent: string[] = []
   for (const repo of wanted) {
     const root = roots[repo]
-    if (existsSync(root)) searching.push({ name: repo, from: root, at: root })
+    if (root !== undefined && existsSync(root)) searching.push({ name: repo, from: root, at: root })
     else absent.push(repo)
   }
   return { searching, absent }

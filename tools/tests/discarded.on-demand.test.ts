@@ -2,7 +2,7 @@
 import { describe, expect, test } from "bun:test"
 import { existsSync, mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { tmpdir } from "node:os"
-import { resolveRoots } from "../../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots"
 
 function through(redirect: (out: string) => string): string {
   const dir = mkdtempSync(`${tmpdir()}/discarded-`)
@@ -11,7 +11,7 @@ function through(redirect: (out: string) => string): string {
     const out = `${dir}/out.txt`
     writeFileSync(
       probe,
-      `import { discarded } from ${JSON.stringify(`${resolveRoots().akasha}/agent/discarded.ts`)}\n` +
+      `import { discarded } from ${JSON.stringify(`${rootFor(resolveRoots(), AKASHA)}/agent/discarded.ts`)}\n` +
         `process.stderr.write(String(discarded()))\n`
     )
     const ran = Bun.spawnSync(["bash", "-c", `bun ${probe} ${redirect(out)}`], {
@@ -52,7 +52,7 @@ function shaped(pipeline: (probe: string, out: string) => string): string {
     writeFileSync(
       probe,
       `import { writeFileSync } from "node:fs"\n` +
-        `import { discarded } from ${JSON.stringify(`${resolveRoots().akasha}/agent/discarded.ts`)}\n` +
+        `import { discarded } from ${JSON.stringify(`${rootFor(resolveRoots(), AKASHA)}/agent/discarded.ts`)}\n` +
         `writeFileSync(${JSON.stringify(verdict)}, String(discarded()))\n`
     )
     Bun.spawnSync(["bash", "-c", pipeline(`bun ${probe}`, `${dir}/out.txt`)], { stdout: "pipe", stderr: "pipe" })
@@ -74,7 +74,7 @@ describe("a redirect is one whatever channel the run's own errors ride on", () =
 
 const READER = "discarded-command-test"
 
-const SUBJECT = `${resolveRoots().akasha}/agent/discarded.ts`
+const SUBJECT = `${rootFor(resolveRoots(), AKASHA)}/agent/discarded.ts`
 
 const OF_THE_BODY = "export function discarded()"
 
@@ -85,9 +85,9 @@ interface Ran {
   readonly recorded: boolean
 }
 
-const SEAT_PAGE = `${resolveRoots().akasha}/agent/seat/${READER}.seat.md`
+const SEAT_PAGE = `${rootFor(resolveRoots(), AKASHA)}/agent/seat/${READER}.seat.md`
 
-const SEAT_RECORD = `${resolveRoots().akasha}/agent/seat/${READER}.seat.readings.uncommitted.attachment.json`
+const SEAT_RECORD = `${rootFor(resolveRoots(), AKASHA)}/agent/seat/${READER}.seat.readings.uncommitted.attachment.json`
 
 function seatStanding(): void {
   writeFileSync(SEAT_PAGE, `---\npage-type-slug: seat\nid: ${READER}\ntitle: "${READER}"\n---\n`, "utf8")
@@ -98,7 +98,7 @@ function readThrough(pipeline: (command: string, out: string) => string): Ran {
   const dir = mkdtempSync(`${tmpdir()}/discarded-command-`)
   seatStanding()
   try {
-    const root = resolveRoots().akasha
+    const root = rootFor(resolveRoots(), AKASHA)
     const out = `${dir}/out.txt`
     const command = `bun ${root}/tools/ops/cli.ts read --file-path ${SUBJECT}`
     const ran = Bun.spawnSync(["bash", "-c", pipeline(command, out)], {

@@ -1,3 +1,4 @@
+import { AKASHA, rootFor } from "../../repo/roots/roots.ts"
 import { dropDerivers } from "./deriver-hold.ts"
 import { dropAnswers } from "./page-query-hold.ts"
 import { reaching, revived } from "./message-reach-write.ts"
@@ -136,7 +137,7 @@ async function writing(
       }
     }
   }
-  const reached = await reaching(roots.akasha, act, pageType, name, values)
+  const reached = await reaching(rootFor(roots, AKASHA), act, pageType, name, values)
   stage("reach")
   if (reached.kind === "refused") {
     return said({ error: reached.reason, pageType, name }, reached.status)

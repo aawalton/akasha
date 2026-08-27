@@ -16,7 +16,7 @@ import { GATE_PAGE_GLOB } from "../lib/gate-judgement.ts"
 import { READINGS } from "../lib/read-record.ts"
 import { refusalDirIn } from "../lib/refusal.ts"
 import { canonicalize } from "../../repo/path/path"
-import { resolveRoots } from "../../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots"
 import { seatAbove } from "../lib/subagent.ts"
 
 export function documentBody(frontmatter: string, lines = 40): string {
@@ -87,7 +87,7 @@ export function fixture(): Fixture {
   Bun.spawnSync(["git", "init", "-q", "-b", "main", "."], { cwd: memory })
   Bun.spawnSync(["git", "config", "user.email", "fixture@example.com"], { cwd: memory })
   Bun.spawnSync(["git", "config", "user.name", "fixture"], { cwd: memory })
-  const akasha = resolveRoots().akasha
+  const akasha = rootFor(resolveRoots(), AKASHA)
   const planted: string[] = []
   const home = mkdtempSync(`${SCRATCH}/govtest-home-`)
   const priorHome = process.env.HOME

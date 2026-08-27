@@ -1,4 +1,5 @@
 
+import { AKASHA, rootFor } from "../../repo/roots/roots.ts"
 import { readFileSync } from "node:fs"
 import type { Check } from "../lib/check.ts"
 import { agreement, refusalFor } from "../lib/hook-merge.ts"
@@ -30,8 +31,8 @@ function parsed(text: string): { document: unknown } | { error: string } {
 }
 
 export const hooksAgree: Check = (repo) => {
-  const root = repo.roots.akasha
-  if (!repo.exists(`${repo.roots.akasha}/${SETTINGS_PATH}`)) {
+  const root = rootFor(repo.roots, AKASHA)
+  if (!repo.exists(`${rootFor(repo.roots, AKASHA)}/${SETTINGS_PATH}`)) {
     return { ...skip(NAME, `${SETTINGS_PATH} is not there, so this repository registers no hook to check`), population: over(0, "registered hook(s)") }
   }
   const ours = parsed(repo.read(SETTINGS_PATH))
@@ -53,7 +54,7 @@ export const hooksAgree: Check = (repo) => {
     }
   }
   const dead = [...byScript(theirs.document, repo.roots)]
-    .filter(([relPath]) => !repo.exists(`${repo.roots.akasha}/${relPath}`))
+    .filter(([relPath]) => !repo.exists(`${rootFor(repo.roots, AKASHA)}/${relPath}`))
     .map(([relPath, command]) =>
       refusalText(
         "user-settings-dead-registration",

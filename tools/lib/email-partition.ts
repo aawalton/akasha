@@ -1,3 +1,4 @@
+import { AKASHA, rootFor } from "../../repo/roots/roots.ts"
 import type { RepoView } from "./check.ts"
 import { emailRuleSet } from "./email-rule-set.ts"
 import { parseMatch, ruleFolderOf, ruleLocation } from "./email-rule.ts"
@@ -90,7 +91,7 @@ export function ruleSetsOf(
 }
 
 function groupsOf(repo: RepoView): readonly Group[] {
-  return ruleSetsOf(repo.documents, repo.read, repo.roots.akasha).map((one) => ({
+  return ruleSetsOf(repo.documents, repo.read, rootFor(repo.roots, AKASHA)).map((one) => ({
     label: one.folder,
     rules: one.rules,
     unreadable: one.unreadable,

@@ -4,7 +4,7 @@ export const tool = {
 } as const
 
 import { existsSync, readdirSync, rmdirSync, rmSync, statSync } from "node:fs"
-import { resolveRoots } from "../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor } from "../repo/roots/roots"
 
 const HELP = `bun services/sweep-page-answers.ts — delete every kept page answer older than a day
 
@@ -81,7 +81,7 @@ if (import.meta.main) {
   if (process.argv.includes("--help")) {
     console.log(HELP)
   } else {
-    const root = resolveRoots().akasha
+    const root = rootFor(resolveRoots(), AKASHA)
     const gone = sweep(root, Date.now())
     if (gone > 0) console.log(`swept ${gone} page answer(s) that had stood over a day in ${root}/.git`)
   }

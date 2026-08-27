@@ -4,7 +4,7 @@ export const tool = {
 } as const
 
 import { codeReaches, type Reach } from "./lib/code-reaches.ts"
-import { resolveRoots } from "../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor } from "../repo/roots/roots"
 
 const HELP = `bun tools/reaches.ts — every code-repository module this repository reaches
 
@@ -100,7 +100,7 @@ function main(): void {
     if (one !== "--json") refuse(`\`${one}\` is not an argument this takes — run it with --help`)
   }
 
-  const root = resolveRoots().akasha
+  const root = rootFor(resolveRoots(), AKASHA)
   const found = codeReaches(root)
   if (found.scanned === 0) {
     refuse(`${root} holds no TypeScript to read, so this reached no population`)

@@ -1,4 +1,5 @@
 
+import { AKASHA, rootFor } from "../../repo/roots/roots.ts"
 import type { Check, RepoView } from "../lib/check.ts"
 import { judge, over } from "../../outcome/outcome"
 import { fromDisk, refusalText } from "../lib/refusal.ts"
@@ -61,7 +62,7 @@ function tsSlots(body: string): string {
 }
 
 export const statuslineConstants: Check = (repo) => {
-  const root = repo.roots.akasha
+  const root = rootFor(repo.roots, AKASHA)
   const sides = [SCRIPT, READER, STORE, ...PAGE_KEYS.map((pair) => pair.source)]
   const bodies = new Map<string, string>()
   for (const relPath of sides) {

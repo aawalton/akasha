@@ -1,4 +1,5 @@
 
+import { AKASHA, rootFor } from "../../repo/roots/roots.ts"
 import { commandSurface, type CommandSurface } from "../lib/command-surface.ts"
 import type { AsyncCheck } from "../lib/check.ts"
 import { judge, over } from "../../outcome/outcome"
@@ -42,7 +43,7 @@ function argShapeOf(verb: CommandSurface): CommandArgShape {
 }
 
 export const positionalsCoverIdentifiers: AsyncCheck = async (repo) => {
-  const root = repo.roots.akasha
+  const root = rootFor(repo.roots, AKASHA)
   const { verbs, unreadable } = await commandSurface()
 
   if (unreadable.length > 0) {

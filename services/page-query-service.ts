@@ -21,7 +21,7 @@ import {
 import { written, WRITE_ROUTE } from "../tools/lib/page-query-landing.ts"
 import type { Said } from "../tools/lib/page-query-request.ts"
 import type { WriteAct } from "../tools/lib/page-landing-judge.ts"
-import { resolveRoots } from "../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor } from "../repo/roots/roots"
 import { clusterReachOf } from "../tools/lib/service-cluster-reach.ts"
 
 const BEAT_MS = 1_000
@@ -32,10 +32,10 @@ const SLUG = "page-query-service"
 const SAYS = `[${SLUG}]`
 
 const roots = resolveRoots()
-const PORT = clusterReachOf(roots.akasha, SLUG).port
+const PORT = clusterReachOf(rootFor(roots, AKASHA), SLUG).port
 
 function builtAt(): string {
-  const got = Bun.spawnSync(["git", "-C", roots.akasha, "rev-parse", "--short", "HEAD"])
+  const got = Bun.spawnSync(["git", "-C", rootFor(roots, AKASHA), "rev-parse", "--short", "HEAD"])
   return got.success ? new TextDecoder().decode(got.stdout).trim() : "unknown"
 }
 

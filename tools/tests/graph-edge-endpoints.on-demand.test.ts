@@ -19,7 +19,7 @@ import { pipelineNodeProducer } from "../lib/graph/producers/pipeline/pipeline.n
 import { registerPipelineTypes } from "../lib/graph/producers/pipeline/register.ts"
 import { readRepos } from "../lib/graph/repos.ts"
 import type { EdgeTypeDef, Engine, Graph, NodeTypeDef } from "../lib/graph/types.ts"
-import { resolveRoots } from "../../repo/roots/roots"
+import { CODE, resolveRoots, rootFor } from "../../repo/roots/roots"
 import { endpointsOf, type Reading } from "./graph-edge-endpoints-arm.ts"
 
 const recording = (declared: Map<string, EdgeTypeDef>): Engine => {
@@ -37,7 +37,7 @@ const recording = (declared: Map<string, EdgeTypeDef>): Engine => {
 }
 
 const headCommit = (): string =>
-  execFileSync("git", ["-C", resolveRoots().code, "rev-parse", "HEAD"], {
+  execFileSync("git", ["-C", rootFor(resolveRoots(), CODE), "rev-parse", "HEAD"], {
     encoding: "utf-8",
     timeout: 10_000,
   }).trim()

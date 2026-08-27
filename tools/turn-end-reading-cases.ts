@@ -7,7 +7,7 @@ import { readFileSync, readdirSync } from "node:fs"
 import { stemOf as slugOf } from "../page/name/name"
 import { parseFrontmatter, textField } from "../page/frontmatter.ts"
 import { LOGICAL_MODELS, type LogicalModel } from "./lib/model-vocab.ts"
-import { resolveRoots } from "../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor } from "../repo/roots/roots"
 import { conductIn } from "./lib/turn-end-reading-conduct.ts"
 import { DEFAULT_READING_MODEL, labelSettled, readingOn } from "./lib/turn-end-reading.ts"
 
@@ -138,7 +138,7 @@ async function main(argv: readonly string[]): Promise<number> {
     process.stderr.write(`refused: --model must be one of ${LOGICAL_MODELS.join(", ")}\n`)
     return 1
   }
-  const root = resolveRoots().akasha
+  const root = rootFor(resolveRoots(), AKASHA)
   const cases = keptCases(root, valuesOf(argv, "--case"))
   if (cases.length === 0) {
     process.stderr.write(`refused: no case to replay under ${root}/${CASES_PATH}\n`)

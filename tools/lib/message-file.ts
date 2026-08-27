@@ -11,7 +11,7 @@ import {
 import { dirname, join } from "node:path"
 import { parseFrontmatter } from "../../page/frontmatter.ts"
 import { MARKDOWN } from "../../page/page-file.ts"
-import { resolveRoots } from "../../repo/roots/roots"
+import { MEMORY, resolveRoots, rootFor } from "../../repo/roots/roots"
 import { toolArgv } from "./tool-argv.ts"
 import { patchUncommitted, readUncommitted, removeUncommitted } from "../../page/uncommitted/uncommitted.ts"
 
@@ -19,7 +19,6 @@ const PAGE_TYPE = "message"
 
 const MESSAGES = `pages/${PAGE_TYPE}`
 
-const MEMORY = "memory"
 
 const PAGE_SUFFIX = `.${PAGE_TYPE}${MARKDOWN}`
 
@@ -144,7 +143,7 @@ export function writeMessage(stated: {
       "--repo",
       MEMORY,
       "--file-path",
-      join(resolveRoots().memory, relPath),
+      join(rootFor(resolveRoots(), MEMORY), relPath),
       "--content-file",
       bodyPath,
       "--mechanical",

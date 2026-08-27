@@ -2,7 +2,7 @@
 import type { Check } from "../lib/check.ts"
 import { linkWords, readFromDisk, resolveLinks, unresolved } from "../lib/links.ts"
 import { judge, over } from "../../outcome/outcome"
-import { isDirty, targetRoot } from "../../repo/roots/roots"
+import { AKASHA, isDirty, rootFor, targetRoot } from "../../repo/roots/roots"
 import { isMortalPage } from "../page/mortal-page.ts"
 
 export const linksResolve: Check = (repo) => {
@@ -26,7 +26,7 @@ export const linksResolve: Check = (repo) => {
     for (const link of unresolved(links)) {
       if (quotedOnly && link.status !== "missing-quote") continue
       if (link.absolutePath !== null && isMortalPage(link.absolutePath, roots)) continue
-      const message = linkWords(link, `${relPath}:${link.line}`, repo.roots.akasha)
+      const message = linkWords(link, `${relPath}:${link.line}`, rootFor(repo.roots, AKASHA))
       if (isDirty(relPath)) dirtyFailures.push(message)
       else cleanFailures.push(message)
     }

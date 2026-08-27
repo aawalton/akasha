@@ -3,7 +3,7 @@ import { addressParts } from "../../page/page-address.ts"
 import { filedIn, pageTypePathIn, placeDirOf, repoPlacings } from "../../page/page-types.ts"
 import { blockOf, textAt } from "../../page/text/text.ts"
 import { type Roots } from "../../page/page"
-import { REPOS } from "../../repo/roots/roots"
+import { AKASHA, REPOS, rootFor } from "../../repo/roots/roots"
 
 const placings = new Map<string, ReadonlyMap<string, string>>()
 
@@ -25,7 +25,7 @@ function filedRepoOf(text: string): string | null {
 const typeRepos = new Map<string, string | null>()
 
 export function repoHolding(type: string, roots: Roots): string | null {
-  const at = roots.akasha
+  const at = rootFor(roots, AKASHA)
   if (at === undefined) return null
   const key = `${at}\n${type}`
   const held = typeRepos.get(key)

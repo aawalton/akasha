@@ -1,6 +1,6 @@
 
 import { existsSync, renameSync } from "node:fs"
-import { resolveRoots } from "../../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots"
 
 const LOG = "[boot-prompt]"
 const COMPOSE_RELPATH = "tools/compose-boot.ts"
@@ -20,7 +20,7 @@ export async function materializeBootPrompt(
     console.log(`${LOG} no agent id; spawning with no authored prompt`)
     return null
   }
-  const verb = `${resolveRoots().akasha}/${COMPOSE_RELPATH}`
+  const verb = `${rootFor(resolveRoots(), AKASHA)}/${COMPOSE_RELPATH}`
   if (!existsSync(verb)) {
     console.log(`${LOG} ${verb} is not there; spawning with no authored prompt`)
     return null

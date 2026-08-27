@@ -9,7 +9,7 @@ import { K8sResourceAttrsSchema } from "../../../../tools/lib/graph/producers/k8
 import { CODE_REPO } from "../../../../tools/lib/graph/producers/lib/constants.ts"
 import { readRepoFile } from "../../../../tools/lib/graph/repos.ts"
 import type { BuildContext, Graph } from "../../../../tools/lib/graph/types.ts"
-import { resolveRoots } from "../../../../repo/roots/roots"
+import { CODE, resolveRoots, rootFor } from "../../../../repo/roots/roots"
 import { parseArgs as parseCliArgs } from "../lib/cli-args.ts"
 import { errorMessage } from "../../../../tools/lib/check-workflow/error-message"
 import {
@@ -135,7 +135,7 @@ async function main(): Promise<never> {
     )
   }
 
-  const codeRoot = resolveRoots().code
+  const codeRoot = rootFor(resolveRoots(), CODE)
   const members: readonly Member[] = [...manifestMembers(fullGraph), ...tsMembers(fullGraph)]
 
   const { population, violations } = examinePopulation<Member, Violation>({

@@ -12,7 +12,7 @@ import {
   PkgDependsAttrsSchema,
 } from "../../../../tools/lib/graph/producers/package/types.ts"
 import type { Graph, Node } from "../../../../tools/lib/graph/types.ts"
-import { resolveRoots } from "../../../../repo/roots/roots"
+import { CODE, resolveRoots, rootFor } from "../../../../repo/roots/roots"
 import { parseArgs as parseCliArgs } from "../lib/cli-args.ts"
 import { errorMessage } from "../../../../tools/lib/check-workflow/error-message"
 import {
@@ -125,7 +125,7 @@ async function main(): Promise<never> {
     return toolExit(`failed to build the package graph at ${args.treeSha}: ${errorMessage(err)}`)
   }
 
-  const codeRoot = resolveRoots().code
+  const codeRoot = rootFor(resolveRoots(), CODE)
   const { workspaces, typeByPath, edges } = readGraph(fullGraph)
 
   const rankByType = new Map<string, number>(Object.entries(TIER_RANK_BY_TIER))

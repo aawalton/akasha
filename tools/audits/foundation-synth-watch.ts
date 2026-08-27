@@ -1,9 +1,9 @@
-
 import { execFileSync } from "node:child_process"
 import { existsSync } from "node:fs"
 import { dirname, relative, resolve } from "node:path"
 import { Glob } from "bun"
-import type { Repo } from "../../page/document/types.ts"
+import { judge, over } from "../../outcome/outcome"
+import { CODE } from "../../repo/roots/roots.ts"
 import type { AsyncCheck } from "../lib/check.ts"
 import { buildFrom, readAt } from "../lib/graph/held-snapshot.ts"
 import { nodeKey } from "../lib/graph/key.ts"
@@ -40,11 +40,8 @@ import {
 } from "../lib/graph/producers/pipeline/types.ts"
 import { TUNNEL_CONFIG_RECIPE_INPUT_EDGE_TYPE } from "../lib/graph/producers/tunnel-config-recipe/types.ts"
 import type { Graph, Node, NodeId } from "../lib/graph/types.ts"
-import { judge, over } from "../../outcome/outcome"
 
 const NAME = "foundation-synth-watch"
-
-const CODE: Repo = "code"
 
 const FOUNDATION = "foundation"
 
@@ -257,6 +254,13 @@ function blind(detail: string): { readonly detail: string; readonly reported: re
 export const foundationSynthWatch: AsyncCheck = async (repo) => {
   const codeRoot = repo.roots.code
   const nothing = over(0, UNIT)
+  if (codeRoot === undefined) {
+    const absent = blind(
+      `no \`${CODE}\` repository is cloned here, so no snapshot could be taken and this ` +
+        "verdict covers nothing"
+    )
+    return { ...judge(NAME, absent.detail, absent.reported), population: nothing }
+  }
 
   let commit: string
   try {

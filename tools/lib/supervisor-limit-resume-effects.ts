@@ -1,5 +1,5 @@
 
-import { resolveRoots } from "../../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots"
 
 export function classifyRateLimitDeath(text: string): boolean {
   let lastAssistant: Record<string, unknown> | null = null
@@ -24,7 +24,7 @@ export const SUPERVISOR_DECIDE_COMMAND = "supervisor-decide"
 export const SUPERVISOR_DECIDE_CEILING_MS = 5_000
 
 export function askSupervisorDecide(stdin: string): Promise<unknown> {
-  return askCommandAt(`${resolveRoots().akasha}/tools/${SUPERVISOR_DECIDE_COMMAND}.ts`, stdin)
+  return askCommandAt(`${rootFor(resolveRoots(), AKASHA)}/tools/${SUPERVISOR_DECIDE_COMMAND}.ts`, stdin)
 }
 
 async function askCommandAt(entry: string, stdin: string): Promise<unknown> {

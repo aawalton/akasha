@@ -1,7 +1,7 @@
 
 import { ATTRIBUTES, type Attributes, type Declaration, type Mode, type ModeRecord, ownAttributesOf } from "./attributes.ts"
 import { documentsOnDemand } from "./documents-on-demand.ts"
-import { resolveRoots } from "../../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots"
 import { declaredSeatReading } from "./declared-seat-reading.ts"
 import { documentNamed } from "./seat-attribute.ts"
 import type { Args } from "./seat-args.ts"
@@ -91,7 +91,7 @@ function linesOf(stated: Stated): readonly string[] {
 export function describe(attributes: Attributes, task: TaskRecord | null): readonly string[] {
   const lines: string[] = []
   const roots = resolveRoots()
-  const root = roots.akasha
+  const root = rootFor(roots, AKASHA)
   const documents = documentsOnDemand(root)
   const stated = {
     attributes,

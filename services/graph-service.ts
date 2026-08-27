@@ -10,17 +10,17 @@ import {
   type WorkflowSeeds,
 } from "../tools/lib/graph/queries/workflows-reached.ts"
 import type { Node } from "../tools/lib/graph/types.ts"
-import { resolveRoots } from "../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor } from "../repo/roots/roots"
 import { clusterReachOf } from "../tools/lib/service-cluster-reach.ts"
 
 const SLUG = "graph-service"
 const SAYS = `[${SLUG}]`
 
 const roots = resolveRoots()
-const REACH = clusterReachOf(roots.akasha, SLUG)
+const REACH = clusterReachOf(rootFor(roots, AKASHA), SLUG)
 
 const builtAt = (): string => {
-  const got = Bun.spawnSync(["git", "-C", roots.akasha, "rev-parse", "--short", "HEAD"])
+  const got = Bun.spawnSync(["git", "-C", rootFor(roots, AKASHA), "rev-parse", "--short", "HEAD"])
   return got.success ? new TextDecoder().decode(got.stdout).trim() : "unknown"
 }
 

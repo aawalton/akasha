@@ -1,7 +1,7 @@
 #!/usr/bin/env bun
 
 import { realpathSync } from "node:fs"
-import { resolveRoots } from "../../../../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor } from "../../../../repo/roots/roots"
 import { findFiles } from "../../../../tools/lib/check-workflow/file-finder"
 import { examineFilePopulation, examinePopulation } from "../../../../tools/lib/check-workflow/population"
 import { getRepoRoot } from "../lib/repo-root.ts"
@@ -128,7 +128,7 @@ const MEMBERSHIP_BECAUSE =
 function main(): never {
   const trees = [
     { repo: "code", root: realpathSync(getRepoRoot()) },
-    { repo: "akasha", root: realpathSync(resolveRoots().akasha) },
+    { repo: "akasha", root: realpathSync(rootFor(resolveRoots(), AKASHA)) },
   ]
 
   const sited: Sited[] = []

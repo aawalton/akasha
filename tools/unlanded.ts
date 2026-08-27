@@ -11,7 +11,7 @@ import {
   rootStands,
   writerAlive,
 } from "./lib/page-landing-journal.ts"
-import { isAddressable, resolveRoots } from "../repo/roots/roots"
+import { isAddressable, resolveRoots, rootFor } from "../repo/roots/roots"
 
 const HELP = `bun tools/unlanded.ts — every page written to disk whose commit has not landed
 
@@ -105,9 +105,9 @@ function listed(journals: readonly Journal[], root: string | null): readonly Unl
   return [...found].sort((a, b) => b.ageSeconds - a.ageSeconds || a.path.localeCompare(b.path))
 }
 
-function rootFor(named: string): string {
+function rootNamed(named: string): string {
   if (!isAddressable(named)) refuse(`\`${named}\` names no repo this reads`)
-  return resolveRoots()[named]
+  return rootFor(resolveRoots(), named)
 }
 
 function main(): void {
@@ -127,7 +127,7 @@ function main(): void {
     if (token === "--repo") {
       const value = argv[at + 1]
       if (value === undefined) refuse("--repo needs a value")
-      root = rootFor(value)
+      root = rootNamed(value)
       at += 1
       continue
     }

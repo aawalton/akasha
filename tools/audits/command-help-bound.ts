@@ -1,7 +1,8 @@
+import { AKASHA, CODE, rootFor } from "../../repo/roots/roots.ts"
 import { readFileSync, existsSync } from "node:fs"
 import { dirname, resolve } from "node:path"
 import type { AsyncCheck } from "../lib/check.ts"
-import { judge, over } from "../../outcome/outcome"
+import { judge, over, skip } from "../../outcome/outcome"
 import { fromDisk, refusalText } from "../lib/refusal.ts"
 import { declaredCommands } from "../ops/declared.ts"
 import { forwarderCommands } from "../ops/forwarders.ts"
@@ -109,19 +110,25 @@ function claimedCommand(source: string, commands: ReadonlySet<string>): string |
 
 export const commandHelpBound: AsyncCheck = async (repo) => {
   const codeRoot = repo.roots.code
+  if (codeRoot === undefined) {
+    return {
+      ...skip(NAME, `no \`${CODE}\` repository is cloned here, so no help spelling in it was searched`),
+      population: over(0, UNIT),
+    }
+  }
   const scanned = searched(codeRoot)
   const found = scanned === null ? null : spellers(codeRoot)
   if (scanned === null || found === null) {
     return {
       ...judge(NAME, `${codeRoot} could not be searched`, [
-        refusalText("command-help-unsearchable", { root: codeRoot }, repo.roots.akasha, fromDisk),
+        refusalText("command-help-unsearchable", { root: codeRoot }, rootFor(repo.roots, AKASHA), fromDisk),
       ]),
       population: over(0, UNIT),
     }
   }
 
   const spelling = new Map<string, Set<string>>()
-  for (const one of [...declaredCommands(repo.roots.akasha), ...forwarderCommands(repo.roots.akasha)]) {
+  for (const one of [...declaredCommands(rootFor(repo.roots, AKASHA)), ...forwarderCommands(rootFor(repo.roots, AKASHA))]) {
     const at = one.source
     if (at === undefined) continue
     spelling.set(one.path.join(" "), spellingOf(at))
@@ -135,7 +142,7 @@ export const commandHelpBound: AsyncCheck = async (repo) => {
     const command = claimedCommand(source, commands)
     if (command === null) {
       messages.push(
-        refusalText("command-help-names-no-command", { path: relative }, repo.roots.akasha, fromDisk)
+        refusalText("command-help-names-no-command", { path: relative }, rootFor(repo.roots, AKASHA), fromDisk)
       )
       continue
     }
@@ -151,7 +158,7 @@ export const commandHelpBound: AsyncCheck = async (repo) => {
       refusalText(
         "command-help-flags-drift",
         { path: relative, command, difference },
-        repo.roots.akasha,
+        rootFor(repo.roots, AKASHA),
         fromDisk
       )
     )

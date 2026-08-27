@@ -2,7 +2,7 @@ import { existsSync, mkdtempSync, readFileSync, rmSync, writeFileSync } from "no
 import { join } from "node:path"
 import { exclusively } from "../../exclusive/exclusive.ts"
 import { parseFrontmatter, textField } from "../../page/frontmatter.ts"
-import { resolveRoots } from "../../repo/roots/roots.ts"
+import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots.ts"
 import { toolArgv } from "./tool-argv.ts"
 
 const SCRATCH_ROOT = "/var/tmp"
@@ -17,7 +17,7 @@ export interface SeqSource {
 }
 
 export function readNextSeqOf(source: SeqSource): number {
-  const absolute = join(resolveRoots().akasha, source.pageTypeRelPath)
+  const absolute = join(rootFor(resolveRoots(), AKASHA), source.pageTypeRelPath)
   const stated = textField(parseFrontmatter(readFileSync(absolute, "utf8")), NEXT_SEQ_KEY)
   if (stated === null) {
     throw new Error(
@@ -47,7 +47,7 @@ interface Advance {
 
 function uncommitted(relPath: string): boolean {
   const proc = Bun.spawnSync(
-    ["git", "-C", resolveRoots().akasha, "status", "--porcelain", "--", relPath],
+    ["git", "-C", rootFor(resolveRoots(), AKASHA), "status", "--porcelain", "--", relPath],
     { stdout: "pipe", stderr: "pipe" }
   )
   if ((proc.exitCode ?? 1) !== 0) return false
@@ -55,7 +55,7 @@ function uncommitted(relPath: string): boolean {
 }
 
 function advance(source: SeqSource, seq: number): Advance {
-  const root = resolveRoots().akasha
+  const root = rootFor(resolveRoots(), AKASHA)
   const scratch = mkdtempSync(join(SCRATCH_ROOT, "page-seq-"))
   const payloadPath = join(scratch, "advance.json")
   writeFileSync(
@@ -96,7 +96,7 @@ function advance(source: SeqSource, seq: number): Advance {
 }
 
 export function takeSeqOf(source: SeqSource): number {
-  const absolute = join(resolveRoots().akasha, source.pageTypeRelPath)
+  const absolute = join(rootFor(resolveRoots(), AKASHA), source.pageTypeRelPath)
   return exclusively(`${absolute}${ALLOCATING}`, () => {
     const stoodChanged = uncommitted(source.pageTypeRelPath)
     const seq = readNextSeqOf(source)

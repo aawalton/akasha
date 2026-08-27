@@ -4,12 +4,12 @@ import { assembleEngine } from "../lib/graph/snapshot.ts"
 import { readRepos } from "../lib/graph/repos.ts"
 import type { StepAttrs } from "../lib/graph/producers/pipeline/types.ts"
 import type { Graph } from "../lib/graph/types.ts"
-import { resolveRoots } from "../../repo/roots/roots"
+import { CODE, resolveRoots, rootFor } from "../../repo/roots/roots"
 
 const BUILD_CEILING_MS = 300_000
 
 const headCommit = (): string =>
-  execFileSync("git", ["-C", resolveRoots().code, "rev-parse", "HEAD"], {
+  execFileSync("git", ["-C", rootFor(resolveRoots(), CODE), "rev-parse", "HEAD"], {
     encoding: "utf-8",
     timeout: 10_000,
   }).trim()

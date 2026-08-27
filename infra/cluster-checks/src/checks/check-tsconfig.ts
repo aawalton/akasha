@@ -6,7 +6,7 @@ import { buildFrom, readAt } from "../../../../tools/lib/graph/held-snapshot.ts"
 import { workspaceDirsAt } from "../../../../tools/lib/graph/producers/lib/workspace-dirs.ts"
 import { readRepoFile } from "../../../../tools/lib/graph/repos.ts"
 import type { BuildContext, Graph } from "../../../../tools/lib/graph/types.ts"
-import { resolveRoots } from "../../../../repo/roots/roots"
+import { CODE, resolveRoots, rootFor } from "../../../../repo/roots/roots"
 import {
   ALLOWED_ALLOW_IMPORTING_TS_EXTENSIONS,
   ALLOWED_CYCLES,
@@ -185,7 +185,7 @@ async function main(): Promise<never> {
     )
   }
 
-  const codeRoot = resolveRoots().code
+  const codeRoot = rootFor(resolveRoots(), CODE)
   const members = workspaceTsconfigs(ctx)
   const graphs = rollUpPackageImportGraphs(graph)
   const cycles = findCycles(graphs.included)

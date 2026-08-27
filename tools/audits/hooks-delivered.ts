@@ -1,4 +1,5 @@
 
+import { AKASHA, rootFor } from "../../repo/roots/roots.ts"
 import { readdirSync, readFileSync, statSync } from "node:fs"
 import type { Check } from "../lib/check.ts"
 import { entriesOf, type HookEntry } from "../lib/hook-merge.ts"
@@ -125,8 +126,8 @@ function byLaunch(seats: readonly Seat[], history: History): Map<string, Seat[]>
 }
 
 export const hooksDelivered: Check = (repo) => {
-  const root = repo.roots.akasha
-  if (!repo.exists(`${repo.roots.akasha}/${SETTINGS_PATH}`)) {
+  const root = rootFor(repo.roots, AKASHA)
+  if (!repo.exists(`${rootFor(repo.roots, AKASHA)}/${SETTINGS_PATH}`)) {
     return { ...skip(NAME, `${SETTINGS_PATH} is not there, so this repository registers no hook to check`), population: over(0, "live seat(s)") }
   }
   const ours = parsed(repo.read(SETTINGS_PATH))
@@ -152,7 +153,7 @@ export const hooksDelivered: Check = (repo) => {
     }
   }
 
-  const history = historyOf(repo.roots.akasha, SETTINGS_PATH)
+  const history = historyOf(rootFor(repo.roots, AKASHA), SETTINGS_PATH)
   const refusals: string[] = []
   const notices: string[] = []
   const payloads = [...new Set(carrying.map((seat) => seat.settings as string))].sort()

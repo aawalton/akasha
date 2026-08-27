@@ -1,4 +1,5 @@
 
+import { AKASHA, rootFor } from "../../repo/roots/roots.ts"
 import type { Check } from "../lib/check.ts"
 import { judge, over } from "../../outcome/outcome"
 import { fromDisk, refusalText } from "../lib/refusal.ts"
@@ -106,7 +107,7 @@ export function statedTimeouts(source: string): readonly Stated[] {
 }
 
 export const testsBounded: Check = (repo) => {
-  const files = unitFiles(repo.roots.akasha)
+  const files = unitFiles(rootFor(repo.roots, AKASHA))
   const named: string[] = []
   for (const relPath of files) {
     for (const one of statedTimeouts(repo.read(relPath))) {
@@ -120,7 +121,7 @@ export const testsBounded: Check = (repo) => {
           refusalText(
             "test-timeout-stated",
             { stated: `${named.length}`, ceiling: `${DEFAULT_CEILING_MS / 1000}` },
-            repo.roots.akasha,
+            rootFor(repo.roots, AKASHA),
             fromDisk
           ),
           ...named,

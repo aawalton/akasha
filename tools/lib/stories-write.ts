@@ -1,6 +1,6 @@
 import { existsSync, mkdtempSync, readdirSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { resolveRoots } from "../../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor, STORIES } from "../../repo/roots/roots"
 import { toolArgv } from "./tool-argv.ts"
 
 const SCRATCH_ROOT = "/var/tmp"
@@ -15,7 +15,7 @@ export type StoriesWrite =
   | { readonly kind: "unwritten"; readonly why: string }
 
 export function storiesRoot(): string {
-  return resolveRoots().stories
+  return rootFor(resolveRoots(), STORIES)
 }
 
 export function playedStoryRelDir(worldSlug: string, storySlug: string): string {
@@ -44,7 +44,7 @@ export function writeStoryFiles(files: readonly StoryFile[], message: string): S
   writeFileSync(
     payloadPath,
     JSON.stringify(
-      files.map((one) => ({ file_path: join(roots.stories, one.relPath), content: one.content }))
+      files.map((one) => ({ file_path: join(storiesRoot(), one.relPath), content: one.content }))
     )
   )
   const proc = Bun.spawnSync(
@@ -61,10 +61,10 @@ export function writeStoryFiles(files: readonly StoryFile[], message: string): S
           "--message",
           message,
         ],
-        roots.akasha
+        rootFor(roots, AKASHA)
       ),
     ],
-    { cwd: roots.stories, stdout: "pipe", stderr: "pipe" }
+    { cwd: storiesRoot(), stdout: "pipe", stderr: "pipe" }
   )
   const decode = (raw: Uint8Array | null): string =>
     raw === null ? "" : new TextDecoder().decode(raw)

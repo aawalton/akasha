@@ -6,7 +6,7 @@ import { hold, shapeOf, type Forebear, type Shape } from "../../page/shape/shape
 import { aboveOf, shapeFor } from "../../page/shape/chain.ts"
 import { claiming, PAGE_GLOBS, scan } from "../../page/page-types.ts"
 import { textAt } from "../../page/text/text.ts"
-import { resolveRoots } from "../../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots"
 
 const ROOT = `${import.meta.dir}/../..`
 
@@ -158,7 +158,7 @@ describe("the pages standing in the instructions repo", () => {
       const type = owners[0]!
       const shape = shapeFor(type, tree)
       expect(shape.why).toBeNull()
-      const text = textAt(roots.akasha, relPath)!
+      const text = textAt(rootFor(roots, AKASHA), relPath)!
       const { above, why } = aboveOf(relPath, text, tree)
       expect(why).toBeNull()
       expect(refusals(shape, relPath, text, above!)).toEqual([])

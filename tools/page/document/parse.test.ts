@@ -1,13 +1,13 @@
 
 import { describe, expect, test } from "bun:test"
 import { readdirSync, readFileSync, statSync } from "node:fs"
-import { isDirty, resolveRoots } from "../../../repo/roots/roots"
+import { AKASHA, isDirty, resolveRoots, rootFor } from "../../../repo/roots/roots"
 import { meaning } from "./meaning.ts"
 import { parse } from "../../../page/document/parse.ts"
 import { print } from "./print.ts"
 import type { Document, FrontmatterValue, Inline, Scalar, Section, Span } from "../../../page/document/types.ts"
 
-const ROOT = resolveRoots().akasha
+const ROOT = rootFor(resolveRoots(), AKASHA)
 
 const SUSPENDED: readonly string[] = []
 

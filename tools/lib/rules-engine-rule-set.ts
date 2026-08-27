@@ -1,3 +1,4 @@
+import { AKASHA, rootFor } from "../../repo/roots/roots.ts"
 import { existsSync, readFileSync } from "node:fs"
 import { slugNamed } from "../../page/page-address.ts"
 import { type PageType, pagesOf, placeDirOf, placeOf, PROPERTY_GLOBS, scanIn, reposOf } from "../../page/page-types.ts"
@@ -13,8 +14,8 @@ export const RULE_SET_AT = `${placeDirOf("rules-engine-rule-set")}/`
 
 function ruleSetAt(roots: Roots, ruleSet: string): string {
   const at = `${RULE_SET_AT}${ruleSet}.md`
-  if (existsSync(`${roots.akasha}/${at}`)) return at
-  const named = scanIn(roots.akasha, [`${RULE_SET_AT}**/*.md`]).find(
+  if (existsSync(`${rootFor(roots, AKASHA)}/${at}`)) return at
+  const named = scanIn(rootFor(roots, AKASHA), [`${RULE_SET_AT}**/*.md`]).find(
     (one) => slugOf(one) === ruleSet
   )
   if (named !== undefined) return named
@@ -78,8 +79,8 @@ function valuesFor(stated: Read, roots: Roots, types: readonly PageType[]): read
 
 function definitionsOn(appliesTo: string, roots: Roots): readonly Read[] {
   const found: { readonly key: string; readonly stated: Read }[] = []
-  for (const relPath of scanIn(roots.akasha, PROPERTY_GLOBS)) {
-    const stated = readAt(roots.akasha, relPath)
+  for (const relPath of scanIn(rootFor(roots, AKASHA), PROPERTY_GLOBS)) {
+    const stated = readAt(rootFor(roots, AKASHA), relPath)
     const held = stated.one("defined-on-slug")
     if (held === null || slugNamed(held) !== appliesTo) continue
     const key = stated.one("key")
@@ -134,10 +135,10 @@ function kindOf(slug: string, ruleSet: string): string {
 export function globsOf(ruleSet: string, roots: Roots): Readonly<Record<string, string>> {
   const types = registryOf(diskFileTree(roots))
   const relPath = ruleSetAt(roots, ruleSet)
-  const slug = readAt(roots.akasha, relPath).one("slug") ?? ruleSet
+  const slug = readAt(rootFor(roots, AKASHA), relPath).one("slug") ?? ruleSet
   const globs: Record<string, string> = {}
   for (const one of types) {
-    if (readAt(roots.akasha, one.relPath).one("extends-slug") !== slug) continue
+    if (readAt(rootFor(roots, AKASHA), one.relPath).one("extends-slug") !== slug) continue
     if (reposOf(one).length > 0) globs[kindOf(one.slug, ruleSet)] = placeOf(one.slug)
   }
   return globs
@@ -146,7 +147,7 @@ export function globsOf(ruleSet: string, roots: Roots): Readonly<Record<string, 
 export function ruleSetOf(ruleSet: string, roots: Roots): Pick<RuleSet, "name" | "fields" | "path" | "normalizer"> {
   const types = registryOf(diskFileTree(roots))
   const relPath = ruleSetAt(roots, ruleSet)
-  const stated = readAt(roots.akasha, relPath)
+  const stated = readAt(rootFor(roots, AKASHA), relPath)
   const appliesTo = stated.one("applies-to-slug")
   const pattern = stated.one("path-pattern")
   if (appliesTo === null) throw new Error(`\`${relPath}\` states no \`applies-to-slug\`, so nothing says what it decides`)

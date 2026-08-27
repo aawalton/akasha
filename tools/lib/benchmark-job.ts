@@ -1,6 +1,6 @@
 import { provision, type StoreVariant } from "./benchmark-code.ts"
 import { git } from "../../repo/git/git.ts"
-import { resolveRoots } from "../../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots"
 import { type Hostname, hostnameSelector } from "@infra/k8s-types/hostnames"
 
 const DEFAULT_NAMESPACE = "ci"
@@ -72,7 +72,7 @@ function storeEmptyDir(store: StoreVariant): EmptyDirMemory | Record<string, nev
 }
 
 function instructionsCommit(): string {
-  const root = resolveRoots().akasha
+  const root = rootFor(resolveRoots(), AKASHA)
   const said = git(root, ["rev-parse", "HEAD"])
   if (said.code !== 0) {
     throw new Error(

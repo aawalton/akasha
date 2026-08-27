@@ -1,5 +1,5 @@
 import { z } from "zod"
-import { REPOS, resolveRoots } from "../../../repo/roots/roots"
+import { AKASHA, REPOS, resolveRoots, rootFor } from "../../../repo/roots/roots"
 import { createGraph } from "./graph.ts"
 import { type Fetcher, graphOrigin } from "./origin.ts"
 import type { Edge, Graph, Node } from "./types.ts"
@@ -138,7 +138,7 @@ const spellIdentity = (identity: AskedIdentity): string =>
     .join(" ")
 
 export const askGraph = async (commit: string, fetcher: Fetcher = fetch): Promise<Asked<Graph>> => {
-  const origin = graphOrigin(resolveRoots().akasha)
+  const origin = graphOrigin(rootFor(resolveRoots(), AKASHA))
   let torn = ""
   for (let attempt = 0; attempt < ASK_ATTEMPTS; attempt += 1) {
     const nodes = await askNodes(origin, commit, fetcher)

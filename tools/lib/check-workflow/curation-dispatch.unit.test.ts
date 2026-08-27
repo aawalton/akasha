@@ -1,7 +1,7 @@
 import { mkdirSync, mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { dirname, join, resolve } from "node:path"
 import { afterAll, describe, expect, test } from "bun:test"
-import { ownRepoRoot, resolveRoots } from "../../../repo/roots/roots"
+import { CODE, ownRepoRoot, resolveRoots, rootFor } from "../../../repo/roots/roots"
 import { CURATION_DIR, CURATION_FILE, curationDispatchNodes } from "./curation-dispatch.ts"
 import { declaredCheckEntries } from "./declared-check-configs.ts"
 
@@ -19,7 +19,7 @@ const SCOPED_PARTS: readonly string[] = [
   "ast-unused.temper.config.json",
 ]
 
-const codeRoot = process.env.WORKSPACE ?? resolveRoots().code
+const codeRoot = process.env.WORKSPACE ?? rootFor(resolveRoots(), CODE)
 
 const curationParts = (): readonly string[] => {
   const held: unknown = JSON.parse(readFileSync(resolve(ownRepoRoot(), CURATION_FILE), "utf-8"))

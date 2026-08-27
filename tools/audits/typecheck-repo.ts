@@ -2,7 +2,7 @@ import { mkdirSync, mkdtempSync, realpathSync, rmSync, writeFileSync } from "nod
 import { dirname } from "node:path"
 import type { Check } from "../lib/check.ts"
 import { judge, over, skip } from "../../outcome/outcome"
-import { isDirty, isVendored } from "../../repo/roots/roots"
+import { AKASHA, isDirty, isVendored, rootFor } from "../../repo/roots/roots"
 import { linkSibling } from "../lib/sibling-link.ts"
 import { ABSENT, diagnostics, excludesFor, FROM_DISK, instrument, linkModules, reported, runTsc, writeTsconfig } from "../lib/typecheck-run.ts"
 
@@ -29,7 +29,7 @@ export const typecheckRepo: Check = (repo) => {
   try {
     const staged: string[] = []
     for (const relPath of new Bun.Glob("**/*.ts").scanSync({
-      cwd: repo.roots.akasha,
+      cwd: rootFor(repo.roots, AKASHA),
       onlyFiles: true,
     })) {
       if (isDirty(relPath) || isVendored(relPath)) continue
@@ -38,7 +38,7 @@ export const typecheckRepo: Check = (repo) => {
       staged.push(relPath)
     }
     const files = staged.length
-    writeTsconfig(dir, found.typeRoot, excludesFor(repo.roots.akasha, staged, [], FROM_DISK))
+    writeTsconfig(dir, found.typeRoot, excludesFor(rootFor(repo.roots, AKASHA), staged, [], FROM_DISK))
     linkModules(dir)
 
     const run = runTsc(found, dir)

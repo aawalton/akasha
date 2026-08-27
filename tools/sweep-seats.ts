@@ -5,7 +5,7 @@ export const tool = {
 
 import { basename } from "node:path"
 import { stemOf as slugOf } from "../page/name/name"
-import { resolveRoots } from "../repo/roots/roots"
+import { MEMORY, resolveRoots, rootFor } from "../repo/roots/roots"
 import { frontmatterOf, seatPagePaths, seatPresence, type SeatPresence } from "./lib/seat-presence-read.ts"
 import { statedOf } from "./lib/seat-stated.ts"
 import { type Sources, initiativeFinishedIn, readSeat } from "./lib/seat-sweep.ts"
@@ -92,7 +92,7 @@ export async function main(argv: readonly string[]): Promise<number> {
   const stated = new Map(seats.map((seat) => [seat.id, statedOf(seat.id)]))
 
   const from: Sources = {
-    initiativeFinished: initiativeFinishedIn(roots.memory),
+    initiativeFinished: initiativeFinishedIn(rootFor(roots, MEMORY)),
   }
 
   const findings: Finding[] = []

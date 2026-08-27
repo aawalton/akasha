@@ -1,7 +1,7 @@
 import { onceInCall } from "../during-call/during-call.ts"
 import { repoPlacings, scanSpanning } from "./page-types.ts"
 import { textAt } from "./text/text.ts"
-import { AKASHA, REPOS } from "../repo/roots/roots.ts"
+import { AKASHA, REPOS, rootFor } from "../repo/roots/roots.ts"
 import type { Roots } from "./page.ts"
 
 export type Open = (relPath: string) => string | null
@@ -30,7 +30,7 @@ function openAcross(roots: Roots): Open {
 function builtDiskTree(roots: Roots): FileTree {
   const placed = repoPlacings(roots)
   return {
-    root: roots[AKASHA] ?? "",
+    root: rootFor(roots, AKASHA),
     pending: new Set<string>(),
     paths: (glob) => scanSpanning(roots, typeof glob === "string" ? [glob] : glob),
     open: openAcross(roots),
@@ -55,7 +55,7 @@ export function diskFileTree(roots: Roots): FileTree {
 function builtSpanningTree(roots: Roots): FileTree {
   const placed = repoPlacings(roots)
   return {
-    root: roots[AKASHA] ?? "",
+    root: rootFor(roots, AKASHA),
     roots,
     pending: new Set<string>(),
     paths: (glob) => scanSpanning(roots, typeof glob === "string" ? [glob] : glob),

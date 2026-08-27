@@ -7,19 +7,19 @@ import type { Repo } from "../../page/document/types.ts"
 import { over } from "../../outcome/outcome"
 import { runChecks } from "../run-checks.ts"
 
-function rootsAt(instructions: string): RepoView["roots"] {
+function rootsAt(akasha: string): RepoView["roots"] {
   return {
-    instructions,
-    code: `${instructions}/nonexistent-code`,
-    memory: `${instructions}/nonexistent-memory`,
-    books: `${instructions}/nonexistent-books`,
-    stories: `${instructions}/nonexistent-stories`,
-    "code-editor": `${instructions}/nonexistent-code-editor`,
+    akasha,
+    code: `${akasha}/nonexistent-code`,
+    memory: `${akasha}/nonexistent-memory`,
+    books: `${akasha}/nonexistent-books`,
+    stories: `${akasha}/nonexistent-stories`,
+    "code-editor": `${akasha}/nonexistent-code-editor`,
   }
 }
 
-function viewOf(name: Repo, instructions: string, documents: readonly string[] = []): RepoView {
-  return { roots: rootsAt(instructions), name, documents, read: () => "", exists: () => false }
+function viewOf(name: Repo, akasha: string, documents: readonly string[] = []): RepoView {
+  return { roots: rootsAt(akasha), name, documents, read: () => "", exists: () => false }
 }
 
 const HERE = new URL("../../", import.meta.url).pathname
@@ -27,7 +27,7 @@ const HERE = new URL("../../", import.meta.url).pathname
 function liveView(documents: readonly string[]): RepoView {
   return {
     roots: rootsAt(HERE),
-    name: "instructions",
+    name: "akasha",
     documents,
     read: (relPath) => readFileSync(`${HERE}${relPath}`, "utf8"),
     exists: () => true,
@@ -104,7 +104,7 @@ describe("a not-applicable a check certified over an empty population", () => {
   test("survives certification, having already said what it measured and why", async () => {
     const outcomes = await runChecks(
       { quiet: { repos: ["books"], run: () => skipped("quiet") } },
-      (repo) => viewOf(repo, "/nonexistent-instructions"),
+      (repo) => viewOf(repo, "/nonexistent-akasha"),
       []
     )
     expect(outcomes[0]?.verdict).toBe("not-applicable")
@@ -114,7 +114,7 @@ describe("a not-applicable a check certified over an empty population", () => {
   test("does not stop the suite, an honest emptiness being no refusal", async () => {
     const outcomes = await runChecks(
       { quiet: { repos: ["books"], run: () => skipped("quiet") } },
-      (repo) => viewOf(repo, "/nonexistent-instructions"),
+      (repo) => viewOf(repo, "/nonexistent-akasha"),
       []
     )
     expect(outcomes.some((one) => one.verdict === "fail")).toBe(false)
@@ -130,7 +130,7 @@ describe("a not-applicable a check certified over an empty population", () => {
     })
     const outcomes = await runChecks(
       { quiet: { repos: ["books"], run: passing } },
-      (repo) => viewOf(repo, "/nonexistent-instructions"),
+      (repo) => viewOf(repo, "/nonexistent-akasha"),
       []
     )
     expect(outcomes[0]?.verdict).toBe("fail")

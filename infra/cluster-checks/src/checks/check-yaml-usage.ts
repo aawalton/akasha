@@ -9,7 +9,7 @@ import {
 } from "../../../../tools/lib/graph/producers/file/yaml-file/types.ts"
 import { readRepoFile } from "../../../../tools/lib/graph/repos.ts"
 import type { BuildContext, Graph } from "../../../../tools/lib/graph/types.ts"
-import { resolveRoots } from "../../../../repo/roots/roots"
+import { AKASHA, CODE, resolveRoots, rootFor } from "../../../../repo/roots/roots"
 import { parseArgs as parseCliArgs } from "../lib/cli-args.ts"
 import { errorMessage } from "../../../../tools/lib/check-workflow/error-message"
 import { FILESYSTEM_WALK_EXEMPT_DIRS, findFiles } from "../../../../tools/lib/check-workflow/file-finder"
@@ -107,7 +107,7 @@ function codeSources(ctx: BuildContext): readonly SourceFile[] {
 }
 
 function instructionsSources(): readonly SourceFile[] {
-  const root = resolveRoots().akasha
+  const root = rootFor(resolveRoots(), AKASHA)
   const paths = findFiles({ cwd: root, patterns: SOURCE_PATTERNS, absolute: false }).filter(
     (path) => path.split("/")[0] !== QUARANTINE_ROOT
   )
@@ -138,7 +138,7 @@ async function main(): Promise<never> {
   const args = parseArgs()
   const { ctx, graph } = await readGraph(args.treeSha)
 
-  const codeRoot = resolveRoots().code
+  const codeRoot = rootFor(resolveRoots(), CODE)
   const yamlPaths = graph
     .nodes(YAML_FILE_NODE_TYPES)
     .map((node) => YamlFileAttrsSchema.parse(node.attrs).path)

@@ -8,7 +8,7 @@ import {
   symlinkSync,
   writeFileSync,
 } from "node:fs"
-import { resolveRoots } from "../../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots"
 import {
   DEPENDENCIES_PROBE,
   instructionsTreeStep,
@@ -67,7 +67,7 @@ describe("the instructions tree step stands up a tree that runs", () => {
   })
 
   test("the probe the step runs from the tree is a file the tree carries", () => {
-    expect(existsSync(`${resolveRoots().akasha}/${DEPENDENCIES_PROBE}`)).toBe(true)
+    expect(existsSync(`${rootFor(resolveRoots(), AKASHA)}/${DEPENDENCIES_PROBE}`)).toBe(true)
   })
 
   test("the step asks bun for the cache the node keeps rather than the pod's own", () => {

@@ -16,7 +16,7 @@ import { roleGrantsOnCall } from "./lib/seat-on-call.ts"
 import { defaultFor, defaultSlots, type Found, resolveAttributes, scan } from "./lib/seat-resolve.ts"
 import { defaultLines } from "./lib/seat-defaults.ts"
 import { seatId } from "./lib/read-record.ts"
-import { akashaRoot, resolveRoots } from "../repo/roots/roots.ts"
+import { akashaRoot, MEMORY, resolveRoots, rootFor } from "../repo/roots/roots.ts"
 import { composeSeatName, personPrincipals } from "./lib/compose-seat-name.ts"
 import { composedNameOf, followName } from "./lib/seat-rename.ts"
 import { nameStanding } from "./lib/seat-name-stands.ts"
@@ -182,7 +182,7 @@ export async function run(argv: readonly string[]): Promise<void> {
   const openedByPerson =
     heldPrincipal !== null && personPrincipals(pages).includes(heldPrincipal)
   const refused = [
-    ...(initiative === null ? [] : refuseInitiative(initiative, roots.memory)),
+    ...(initiative === null ? [] : refuseInitiative(initiative, rootFor(roots, MEMORY))),
     ...(args.flex === null
       ? []
       : refuseFlex(args.flex, agent, own, (at) =>

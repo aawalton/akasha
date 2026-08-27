@@ -9,7 +9,7 @@ import {
 import { K8S_RESOURCE_NODE_TYPE } from "../../../../tools/lib/graph/producers/k8s/types.ts"
 import { K8sResourceAttrsSchema } from "../../../../tools/lib/graph/producers/k8s/types-schemas"
 import type { Graph } from "../../../../tools/lib/graph/types.ts"
-import { resolveRoots } from "../../../../repo/roots/roots"
+import { CODE, resolveRoots, rootFor } from "../../../../repo/roots/roots"
 import { parseArgs as parseCliArgs } from "../lib/cli-args.ts"
 import { errorMessage } from "../../../../tools/lib/check-workflow/error-message"
 import { checkImage } from "../lib/image-tag-rule.ts"
@@ -91,7 +91,7 @@ async function main(): Promise<never> {
     return toolExit(`failed to build the image graph at ${args.treeSha}: ${errorMessage(err)}`)
   }
 
-  const codeRoot = resolveRoots().code
+  const codeRoot = rootFor(resolveRoots(), CODE)
   const bearers = bearersOf(fullGraph)
 
   const { population, violations } = examinePopulation<ImageBearer, ImageTagViolation>({

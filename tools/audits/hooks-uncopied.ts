@@ -1,4 +1,5 @@
 
+import { AKASHA, CODE, rootFor } from "../../repo/roots/roots.ts"
 import type { Check } from "../lib/check.ts"
 import { judge, over, skip } from "../../outcome/outcome"
 import { fromDisk, refusalText } from "../lib/refusal.ts"
@@ -50,7 +51,7 @@ function trackedInCode(root: string): readonly string[] | null {
 }
 
 export const hooksUncopied: Check = (repo) => {
-  const root = repo.roots.akasha
+  const root = rootFor(repo.roots, AKASHA)
   const nothing = over(0, "hook(s) the fleet fires")
   if (!repo.exists(`${root}/${SETTINGS_PATH}`)) {
     return { ...skip(NAME, `${SETTINGS_PATH} is not there, so this repository registers no hook to check`), population: nothing }
@@ -67,12 +68,24 @@ export const hooksUncopied: Check = (repo) => {
     return { ...skip(NAME, `${SETTINGS_PATH} registers no hook script, so there is nothing a copy could shadow`), population: nothing }
   }
 
-  const tracked = trackedInCode(repo.roots.code)
+  const codeRoot = repo.roots.code
+  if (codeRoot === undefined) {
+    return {
+      ...skip(
+        NAME,
+        `no \`${CODE}\` repository is cloned here, so whether any of ${hooks.size} registered ` +
+          "hook(s) has a copy there is unknown rather than answered"
+      ),
+      population: nothing,
+    }
+  }
+
+  const tracked = trackedInCode(codeRoot)
   if (tracked === null) {
     return {
       ...skip(
         NAME,
-        `${repo.roots.code} could not be listed as a git repository, so whether any of ` +
+        `${codeRoot} could not be listed as a git repository, so whether any of ` +
           `${hooks.size} registered hook(s) has a copy there is unknown rather than answered`
       ),
       population: nothing,

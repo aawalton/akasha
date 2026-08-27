@@ -6,7 +6,7 @@ import { hold, type Shape } from "../../page/shape/shape.ts"
 import { partOutsideShape } from "../../page/shape/words.ts"
 import { aboveOf, shapeFor } from "../../page/shape/chain.ts"
 import { claiming, PAGE_TYPE_GLOBS, placesIn, reposOf, scanIn, type PageType } from "../../page/page-types.ts"
-import { isDirty } from "../../repo/roots/roots"
+import { isDirty, rootFor } from "../../repo/roots/roots"
 
 const NAME = "pages-hold-shape"
 const UNIT = "claimed page(s)"
@@ -37,7 +37,7 @@ export const pagesHoldShape: Check = (repo) => {
   const shapes = new Map<string, Shape>()
   for (const type of types) shapes.set(type.relPath, shapeFor(type, tree))
 
-  const pages = claimedPages(types, repo.name, repo.roots[repo.name])
+  const pages = claimedPages(types, repo.name, rootFor(repo.roots, repo.name))
   if (pages.length === 0) {
     return { ...skip(NAME, emptyClaim(types, repo.name)), population: over(0, UNIT) }
   }

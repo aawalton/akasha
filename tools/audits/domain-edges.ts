@@ -16,10 +16,10 @@ import { diskFileTree } from "../../page/file-tree.ts"
 import { registryOf } from "../../page/property/registry.ts"
 import { claimant, domainKindTest } from "../../page/page-types.ts"
 import { fromDisk, refusalText } from "../lib/refusal.ts"
-import { isDirty } from "../../repo/roots/roots"
+import { AKASHA, isDirty, rootFor } from "../../repo/roots/roots"
 
 export const domainEdges: Check = (repo) => {
-  const root = repo.roots.akasha
+  const root = rootFor(repo.roots, AKASHA)
   const claimants = registryOf(diskFileTree(repo.roots))
   const frontmatter = new Map<string, Frontmatter>()
   for (const relPath of repo.documents) {

@@ -1,7 +1,7 @@
 import { afterAll, beforeAll, describe, expect, it } from "bun:test"
 import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { resolveRoots } from "../../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots"
 const CLI_PATH = `${import.meta.dir}/../ops/cli.ts`
 const PKG = "node_modules/@alanwalton/imessage"
 const SRC = "src/lib"
@@ -51,7 +51,7 @@ let tmp = ""
 let root = ""
 
 function realPackageDir(): string {
-  return join(resolveRoots().akasha, "alanwalton/imessage")
+  return join(rootFor(resolveRoots(), AKASHA), "alanwalton/imessage")
 }
 
 const STUB_MANIFEST = {

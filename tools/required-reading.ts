@@ -26,7 +26,7 @@ import { locatePath, printed } from "./lib/required-reading-cli.ts"
 import { diskFileTree } from "../page/file-tree.ts"
 import { pageTypeChain } from "../page/property/frontmatter.ts"
 import { outOfBounds } from "../repo/path/path"
-import { isDirty, resolveRoots } from "../repo/roots/roots"
+import { AKASHA, isDirty, resolveRoots, rootFor } from "../repo/roots/roots"
 
 export type { Repo }
 
@@ -54,7 +54,7 @@ const FILE_KEY_TYPE = "file"
 const PACKAGE_REPO_KEY = "repo"
 
 function rootOf(repo: Repo, root: string): string {
-  return repo === "instructions" ? root : resolveRoots()[repo]
+  return repo === "instructions" ? root : rootFor(resolveRoots(), repo)
 }
 
 function fileKeysIn(frontmatter: ReadonlyMap<string, Frontmatter>): ReadonlySet<string> {
@@ -222,7 +222,7 @@ if (import.meta.main) {
     printed(
       located.relPath,
       located.repo,
-      requiredReadingFor(located.relPath, roots.akasha, located.repo),
+      requiredReadingFor(located.relPath, rootFor(roots, AKASHA), located.repo),
       pageTypeChain(located.relPath, located.repo, diskFileTree(roots)).relPaths ?? []
     )
   )

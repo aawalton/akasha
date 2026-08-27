@@ -7,7 +7,7 @@ import {
   YamlFileAttrsSchema,
 } from "../../../../tools/lib/graph/producers/file/yaml-file/types.ts"
 import type { Graph } from "../../../../tools/lib/graph/types.ts"
-import { resolveRoots } from "../../../../repo/roots/roots"
+import { CODE, resolveRoots, rootFor } from "../../../../repo/roots/roots"
 import { parseArgs as parseCliArgs } from "../lib/cli-args.ts"
 import { errorMessage } from "../../../../tools/lib/check-workflow/error-message"
 import { examinePopulation } from "../../../../tools/lib/check-workflow/population"
@@ -185,7 +185,7 @@ async function main(): Promise<never> {
     return toolExit(`failed to build the yaml-file graph at ${args.treeSha}: ${errorMessage(err)}`)
   }
 
-  const codeRoot = resolveRoots().code
+  const codeRoot = rootFor(resolveRoots(), CODE)
   const { manifestFiles, skipped } = discoverSopsFiles(fullGraph)
 
   if (manifestFiles.length > 0) {

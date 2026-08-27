@@ -1,4 +1,4 @@
-import { resolveRoots } from "../../../../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor } from "../../../../repo/roots/roots"
 import {
   commitSha40,
   inputsHash12,
@@ -46,7 +46,7 @@ export const sourcedShellFilesInCommands = (
 }
 
 export const listSourcedShellFiles = async (repoRoot: string): Promise<readonly string[]> => {
-  const instructionsRoot = resolveRoots().akasha
+  const instructionsRoot = rootFor(resolveRoots(), AKASHA)
   if (instructionsRoot === undefined) {
     throw new Error(
       "`resolveRoots()` names no `instructions` root, so the workflows whose commands source " +

@@ -12,7 +12,7 @@ import {
   ringWidgetSwift,
   type ResolvedWidget,
 } from "./lib/ios-widget-swift.ts"
-import { resolveRoots } from "../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor } from "../repo/roots/roots"
 
 function fail(message: string): never {
   process.stderr.write(`error: ${message}\n`)
@@ -111,7 +111,7 @@ function main(): undefined {
   if (slugs.length === 0) fail("name at least one `ios-widget` slug")
 
   const roots = resolveRoots()
-  const codeRoot = stated ?? join(roots.akasha, "..", "code")
+  const codeRoot = stated ?? join(rootFor(roots, AKASHA), "..", "code")
   const diffing = argv.includes("--diff")
   const writing = argv.includes("--write")
   let differed = false
@@ -120,7 +120,7 @@ function main(): undefined {
     let resolved: ResolvedWidget
     let swift: string
     try {
-      resolved = resolveWidget(roots.akasha, slug)
+      resolved = resolveWidget(rootFor(roots, AKASHA), slug)
       swift = ringWidgetSwift(resolved)
     } catch (err) {
       fail(err instanceof Error ? err.message : String(err))

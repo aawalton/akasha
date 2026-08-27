@@ -2,7 +2,7 @@
 import { describe, expect, it } from "bun:test"
 import { existsSync, mkdtempSync, readFileSync, realpathSync, rmSync, writeFileSync } from "node:fs"
 import { hold } from "../lib/digest-harness.ts"
-import { resolveRoots } from "../../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots"
 import { type Declaration, declarations, STANDING, surface } from "./supervisor-types-vectors.ts"
 
 const PORTED = "tools/lib/supervisor-types.ts"
@@ -22,7 +22,7 @@ function instrument(): { readonly tsc: string; readonly typeRoot: string } {
 
 function emitted(): readonly Declaration[] {
   const { tsc, typeRoot } = instrument()
-  const root = resolveRoots().akasha
+  const root = rootFor(resolveRoots(), AKASHA)
   const dir = realpathSync(mkdtempSync("/var/tmp/supervisor-types-surface-"))
   try {
     writeFileSync(

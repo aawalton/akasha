@@ -1,5 +1,5 @@
 import { HOSTNAME_KEY } from "@infra/k8s-types/hostnames"
-import { resolveRoots, rootEnvName } from "../../../repo/roots/roots"
+import { AKASHA, resolveRoots, rootEnvName, rootFor } from "../../../repo/roots/roots"
 import { clusterOriginOf } from "../service-cluster-reach.ts"
 import { CI_MEMBER_KEY } from "./capacity.ts"
 import { CI_NAMESPACE } from "./cluster.ts"
@@ -26,7 +26,7 @@ const PAGE_QUERY_SERVICE = "page-query-service"
 let pageQueryOrigin: string | null = null
 
 function pageQueryOriginInCluster(): string {
-  pageQueryOrigin ??= clusterOriginOf(resolveRoots().akasha, PAGE_QUERY_SERVICE)
+  pageQueryOrigin ??= clusterOriginOf(rootFor(resolveRoots(), AKASHA), PAGE_QUERY_SERVICE)
   return pageQueryOrigin
 }
 

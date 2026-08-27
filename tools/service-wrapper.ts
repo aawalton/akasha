@@ -1,5 +1,5 @@
 import { basename, resolve } from "node:path"
-import { resolveRoots } from "../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor } from "../repo/roots/roots"
 import { alsoIn, commandIn, entryIn, namedIn, RESTART_EXIT } from "./lib/service-wrapper/command.ts"
 import { digestOf, followFiles } from "./lib/service-wrapper/following.ts"
 import { localClosure, REACHED_CEILING } from "./lib/service-wrapper/local-closure.ts"
@@ -17,7 +17,7 @@ function matching(at: string, globs: readonly string[]): ReadonlySet<string> {
 }
 
 const roots = resolveRoots()
-const root = roots.akasha
+const root = rootFor(roots, AKASHA)
 const said = process.argv.slice(2)
 const command = commandIn(said)
 

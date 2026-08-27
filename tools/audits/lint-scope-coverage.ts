@@ -1,4 +1,5 @@
 
+import { CODE } from "../../repo/roots/roots.ts"
 import { existsSync, readFileSync } from "node:fs"
 import type { Check, CheckOutcome } from "../lib/check.ts"
 import {
@@ -127,13 +128,18 @@ function said(err: unknown): string {
 }
 
 export const lintScopeCoverage: Check = (repo) => {
-  const biomePath = `${repo.roots.code}/${BIOME_FILE}`
   const blind = (why: string): CheckOutcome => ({
     ...judge(NAME, `nothing measured — ${why}`, [
       `${NAME} could not look, so this verdict covers no file and no extension: ${why}`,
     ]),
     population: over(0, UNIT),
   })
+
+  const codeRoot = repo.roots.code
+  if (codeRoot === undefined) {
+    return blind(`no \`${CODE}\` repository is cloned here, so biome's own lint scope stands nowhere`)
+  }
+  const biomePath = `${codeRoot}/${BIOME_FILE}`
 
   if (!repo.exists(biomePath)) {
     return blind(`${biomePath} stands nowhere, so biome's own lint scope could not be read`)
@@ -146,7 +152,7 @@ export const lintScopeCoverage: Check = (repo) => {
     includes = parseBiomeIncludes(readFileSync(biomePath, "utf8"))
     seeds = lintSeeds(STATIC_CHECKS)
     linted = biomeEffectiveLintedFiles(
-      repoFilesAt(repo.roots.code, { includeFixtures: true, includeGenerated: true }),
+      repoFilesAt(codeRoot, { includeFixtures: true, includeGenerated: true }),
       includes
     )
   } catch (err) {

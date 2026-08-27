@@ -1,8 +1,8 @@
 
 import { describe, expect, test } from "bun:test"
-import { resolveRoots } from "../../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots"
 
-const root = resolveRoots().akasha
+const root = rootFor(resolveRoots(), AKASHA)
 
 const NAMED: readonly (readonly [string, string])[] = [
   ["tools/commands/reminder/set.ts", "ops reminder set"],
