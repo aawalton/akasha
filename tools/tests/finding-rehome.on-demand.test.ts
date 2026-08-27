@@ -1,22 +1,33 @@
 import { describe, expect, test } from "bun:test"
-import { existsSync, readFileSync } from "node:fs"
-import { CLAIMED, fileKeyDeclared, fixture, type Fixture } from "./fixture.ts"
+import { existsSync, mkdirSync, mkdtempSync, readFileSync, rmSync } from "node:fs"
+import { tmpdir } from "node:os"
+import { CLAIMED, fileKeyDeclared, fixture, installRepos, type Fixture } from "./fixture.ts"
 
 const ARM = `${import.meta.dir}/command-arm.ts`
 const MODULE = `${import.meta.dir}/../commands/finding/rehome.ts`
 const CLI = `${import.meta.dir}/../ops/cli.ts`
+const LIVE = `${import.meta.dir}/../..`
 const AGENT = "finding-rehome-test"
-const MOVING = "findings/finding/states-destination-twice.md"
+const MOVING = "pages/finding/finding/states-destination-twice.finding.md"
+const CITING = "pages/finding/role/report-route-absent.finding.md"
 
 function finding(domain: string, claim: string): string {
   return `---\ndomain-slug: ${domain}\n---\n\n# Claim\n\n${claim}\n\n# Evidence\n\nMeasured against the repo.\n`
 }
 
-function runCommand(at: Fixture, args: readonly string[]): { code: number; out: string; err: string } {
+function runCommand(
+  at: Fixture,
+  args: readonly string[],
+  also: Record<string, string> = {}
+): { code: number; out: string; err: string } {
   const proc = Bun.spawnSync({
     cmd: ["bun", ARM, MODULE, ...args],
-    cwd: at.memory,
-    env: { ...process.env, AGENT_ID: AGENT, INSTRUCTIONS_ROOT: at.root, MEMORY_ROOT: at.memory, HOME: at.home },
+    cwd: at.root,
+    // ONE ROOT NAMES THE STORE, AND `CODE_ROOT` NAMES THE PACKAGES. `INSTRUCTIONS_ROOT` and
+    // `MEMORY_ROOT` stood here for repositories akasha has absorbed; nothing reads either, so every
+    // case below ran against this checkout rather than the fixture. The temp store carries no
+    // `node_modules`, so the `@shared/...` the command loads is looked for here instead.
+    env: { ...process.env, AGENT_ID: AGENT, AKASHA_ROOT: at.root, CODE_ROOT: LIVE, HOME: at.home, ...also },
     stdout: "pipe",
     stderr: "pipe",
   })
@@ -33,24 +44,22 @@ function commitsIn(root: string): number {
 
 function storeAt(at: Fixture): void {
   at.installRecorder()
+  installRepos(at.root)
   fileKeyDeclared(at)
   at.document(
     "pages/page-type/finding.page-type.md",
-    `slug: finding\ndomain-parent-slug: global\nextends-slug: none\nfiles: memory:findings/**/*.md\n${CLAIMED}: memory:findings/role/states-destination-twice.md`
+    `slug: finding\ndomain-parent-slug: global\nextends-slug: none\nfiles: akasha:**/*.finding.md\n${CLAIMED}: akasha:pages/finding/role/states-destination-twice.finding.md`
   )
   at.document("pages/page-type/role.page-type.md", "slug: role\ndomain-parent-slug: global", 20)
   at.document(
     "pages/domain/global.domain.md",
-    `slug: global\ndomain-parent-slug: global\n${CLAIMED}: memory:findings/role/report-route-absent.md`,
+    `slug: global\ndomain-parent-slug: global\n${CLAIMED}: akasha:${CITING}`,
     20
   )
   at.readIt(AGENT, "pages/page-type/finding.page-type.md")
   at.readIt(AGENT, "pages/domain/global.domain.md")
-  at.putMemory(MOVING, finding("finding", "The store states its destination twice."))
-  at.putMemory(
-    "findings/role/report-route-absent.md",
-    finding("role", `A worker has no route back, as \`${MOVING}\` also shows.`)
-  )
+  at.put(MOVING, finding("finding", "The store states its destination twice."))
+  at.put(CITING, finding("role", `A worker has no route back, as \`${MOVING}\` also shows.`))
   for (const args of [
     ["init", "-q", "-b", "main"],
     ["config", "user.email", "test@example.com"],
@@ -58,7 +67,7 @@ function storeAt(at: Fixture): void {
     ["add", "-A"],
     ["commit", "-q", "-m", "seed"],
   ]) {
-    git(at.memory, args)
+    git(at.root, args)
   }
 }
 
@@ -78,21 +87,21 @@ describe("what a rehome refuses", () => {
       const run = runCommand(at, ["--file-path", MOVING, "--domain", "roel"])
       expect(run.code).toBe(1)
       expect(run.err).toContain("roel")
-      expect(existsSync(`${at.memory}/${MOVING}`)).toBe(true)
-      expect(git(at.memory, ["status", "--porcelain"])).toBe("")
+      expect(existsSync(`${at.root}/${MOVING}`)).toBe(true)
+      expect(git(at.root, ["status", "--porcelain"])).toBe("")
     } finally {
       at.dispose()
     }
   })
 
-  test("a path that is not a finding is refused rather than moved under `findings/`", () => {
+  test("a path that is not a finding is refused rather than moved under the findings folder", () => {
     const at = fixture()
     try {
       storeAt(at)
       const run = runCommand(at, ["--file-path", "pages/page-type/role.page-type.md", "--domain", "finding"])
       expect(run.code).toBe(1)
-      expect(run.err).toContain("findings/")
-      expect(git(at.memory, ["status", "--porcelain"])).toBe("")
+      expect(run.err).toContain("pages/finding/")
+      expect(git(at.root, ["status", "--porcelain"])).toBe("")
     } finally {
       at.dispose()
     }
@@ -102,8 +111,9 @@ describe("what a rehome refuses", () => {
     const at = fixture()
     try {
       storeAt(at)
-      at.putMemory("findings/role/cluster/deep-claim.md", finding("role", "It sits a folder too far down."))
-      const run = runCommand(at, ["--file-path", "findings/role/cluster/deep-claim.md", "--domain", "role"])
+      const deep = "pages/finding/role/cluster/deep-claim.finding.md"
+      at.put(deep, finding("role", "It sits a folder too far down."))
+      const run = runCommand(at, ["--file-path", deep, "--domain", "role"])
       expect(run.code).toBe(1)
       expect(run.err).toContain("does not name a finding")
     } finally {
@@ -118,21 +128,30 @@ describe("what a rehome refuses", () => {
       const run = runCommand(at, ["--file-path", MOVING, "--domain", "finding"])
       expect(run.code).toBe(1)
       expect(run.err).toContain("asks for no rehome")
-      expect(git(at.memory, ["status", "--porcelain"])).toBe("")
+      expect(git(at.root, ["status", "--porcelain"])).toBe("")
     } finally {
       at.dispose()
     }
   })
 
+  // A SECOND CHECKOUT, NOT A SECOND ROOT OF THE SAME ONE. This stated the instructions root against
+  // the memory root, and akasha has absorbed both, so the two paths now name one repository and the
+  // case tested nothing. `code-editor` is the repository beside akasha, and a bare git directory
+  // named through its root variable is enough for a path to be placed in it.
   test("a path landing in another repository is refused, naming the one it landed in", () => {
     const at = fixture()
+    const beside = mkdtempSync(`${tmpdir()}/rehometest-beside-`)
     try {
       storeAt(at)
-      const run = runCommand(at, ["--file-path", `${at.root}/pages/page-type/role.page-type.md`, "--domain", "role"])
+      mkdirSync(`${beside}/.git`, { recursive: true })
+      const run = runCommand(at, ["--file-path", `${beside}/notes.md`, "--domain", "role"], {
+        CODE_EDITOR_ROOT: beside,
+      })
       expect(run.code).toBe(1)
-      expect(run.err).toContain("instructions")
-      expect(git(at.memory, ["status", "--porcelain"])).toBe("")
+      expect(run.err).toContain("code-editor")
+      expect(git(at.root, ["status", "--porcelain"])).toBe("")
     } finally {
+      rmSync(beside, { recursive: true, force: true })
       at.dispose()
     }
   })
@@ -143,28 +162,28 @@ describe("what a rehome lands", () => {
     const at = fixture()
     try {
       storeAt(at)
-      const before = commitsIn(at.memory)
+      const before = commitsIn(at.root)
       runCommand(at, ["--file-path", MOVING, "--domain", "role"])
-      const landed = `${at.memory}/findings/role/states-destination-twice.md`
+      const landed = `${at.root}/pages/finding/role/states-destination-twice.finding.md`
       expect(existsSync(landed)).toBe(true)
-      expect(existsSync(`${at.memory}/${MOVING}`)).toBe(false)
+      expect(existsSync(`${at.root}/${MOVING}`)).toBe(false)
       expect(readFileSync(landed, "utf8")).toContain("domain-slug: role")
-      expect(readFileSync(`${at.memory}/findings/role/report-route-absent.md`, "utf8")).toContain(
-        "`findings/role/states-destination-twice.md`"
+      expect(readFileSync(`${at.root}/${CITING}`, "utf8")).toContain(
+        "`pages/finding/role/states-destination-twice.finding.md`"
       )
-      expect(commitsIn(at.memory)).toBe(before + 1)
-      expect(git(at.memory, ["status", "--porcelain"])).toBe("")
+      expect(commitsIn(at.root)).toBe(before + 1)
+      expect(git(at.root, ["status", "--porcelain"])).toBe("")
     } finally {
       at.dispose()
     }
   })
 
-  test("the commit names the repo it landed in rather than the instructions one", () => {
+  test("the commit names the repository the finding stands in", () => {
     const at = fixture()
     try {
       storeAt(at)
       runCommand(at, ["--file-path", MOVING, "--domain", "role"])
-      expect(git(at.memory, ["log", "-1", "--format=%s"]).trim()).toStartWith("memory:")
+      expect(git(at.root, ["log", "-1", "--format=%s"]).trim()).toStartWith("akasha:")
     } finally {
       at.dispose()
     }
