@@ -1,0 +1,10 @@
+{"id":"01a02990-a573-706d-b177-b4aea81908dc","script-id":"maim","description":"Afflicts the enemy with Major Maim for 10 seconds, reducing damage done by 10%."}
+{"id":"01a02990-a573-706e-b9ee-375a7395eeaa","script-id":"breach","description":"Afflicts the enemy with Major Breach for 10 seconds, reducing Physical and Spell Resistance by 5948."}
+{"id":"01a02990-a573-706f-9490-95b35cb8436a","script-id":"defile","description":"Afflicts the enemy with Major Defile, which reduces healing received and damage shield strength by 12% for 10 seconds."}
+{"id":"01a02990-a573-7070-8ec1-9c225f4773a6","script-id":"empower","description":"Grants Empower for 10 seconds, increasing the damage of Heavy Attacks against monsters by 70%."}
+{"id":"01a02990-a573-7071-b8eb-2b3271e7e701","script-id":"resolve","description":"Grants Major Resolve for 10 seconds, increasing Physical and Spell Resistance by 5948."}
+{"id":"01a02990-a573-7072-86af-e5691b5334de","script-id":"vitality","description":"Grants Major Vitality for 10 seconds, increasing healing received and damage shield strength by 12%."}
+{"id":"01a02990-a573-7073-a02c-6c6b260df607","script-id":"cowardice","description":"Afflicts the enemy with Major Cowardice for 10 seconds, reducing Weapon and Spell Damage by 430."}
+{"id":"01a02990-a573-7074-a7a7-ffbf52f3852b","script-id":"brutality-and-sorcery","description":"Grants Major Brutality and Major Sorcery for 10 seconds, increasing Weapon and Spell Damage by 20%."}
+{"id":"01a02990-a573-7075-8a5a-fb0667580f91","script-id":"savagery-and-prophecy","description":"Grants Major Savagery and Major Prophecy for 10 seconds, increasing Weapon and Spell Critical rating by 2629."}
+{"id":"01a02990-a573-7076-bca2-db356cce3be9","script-id":"intellect-and-endurance","description":"Grants Major Intellect and Major Endurance, increasing Magicka and Stamina Recovery by 30% for 10 seconds."}

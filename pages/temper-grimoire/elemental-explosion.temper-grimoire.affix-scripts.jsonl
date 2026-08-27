@@ -1,0 +1,9 @@
+{"id":"01a02990-a573-7008-816d-7b09e1475b2f","script-id":"defile","description":"Afflicts enemies with Minor Defile, which reduces healing received and damage shield strength by 6% for 20 seconds."}
+{"id":"01a02990-a573-7009-8a06-a6c28c8162f2","script-id":"brittle","description":"Afflicts enemies with Minor Brittle for 20 seconds, increasing their Critical Damage taken by 10%."}
+{"id":"01a02990-a573-700a-99b3-5bb6b35a1246","script-id":"cowardice","description":"Afflicts enemies with Minor Cowardice for 20 seconds, reducing Weapon and Spell Damage by 215."}
+{"id":"01a02990-a573-700b-9f42-20f90551fdaf","script-id":"lifesteal","description":"Afflicts enemies with Minor Lifesteal for 20 seconds, healing attackers for 600 Health every 1 second."}
+{"id":"01a02990-a573-700c-b220-1e7ba6832e57","script-id":"enervation","description":"Afflicts enemies with Minor Enervation for 20 seconds, reducing Critical Damage by 10%."}
+{"id":"01a02990-a573-700d-a83b-fea2f7a22839","script-id":"off-balance","description":"Sets enemies Off Balance for 7 seconds."}
+{"id":"01a02990-a573-700e-887f-782b43e59afd","script-id":"magickasteal","description":"Afflicts enemies with Minor Magickasteal for 20 seconds, restoring 168 Magicka to attackers every 1 second."}
+{"id":"01a02990-a573-700f-9720-89f560131bd9","script-id":"brutality-and-sorcery","description":"If an enemy was hit, grants you Major Brutality and Major Sorcery for 10 seconds, increasing Weapon and Spell Damage by 20%."}
+{"id":"01a02990-a573-7010-9db9-3d212acef923","script-id":"savagery-and-prophecy","description":"Grants you Major Savagery and Major Prophecy for 10 seconds, increasing Weapon and Spell Critical rating by 2629."}

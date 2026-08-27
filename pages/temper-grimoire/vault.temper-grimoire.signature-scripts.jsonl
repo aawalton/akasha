@@ -1,0 +1,8 @@
+{"id":"01a02990-a85c-704e-86ef-e2f3fff84782","script-id":"sages-remedy","description":"Heals for 1790 Health over 10 seconds."}
+{"id":"01a02990-a85c-704f-9a53-4300cb4c7c87","script-id":"class-mastery","class-id":"necromancer","description":"Once every 3 seconds, increase your Health, Magicka, and Stamina by 2% for 10 seconds for each corpse within 12 meters, up to 10 times. While in combat, if no corpses are nearby, create a corpse."}
+{"id":"01a02990-a85c-7050-81ec-ca38966b0470","script-id":"hunters-snare","description":"Reduces the Movement Speed of enemies by 40% for 5 seconds."}
+{"id":"01a02990-a85c-7051-a334-9bd113566e00","script-id":"thiefs-swiftness","description":"Removes a stack of the Roll Dodge cost penalty and reduces fall damage taken by 15% for 20 seconds."}
+{"id":"01a02990-a85c-7052-af76-800b6a84e79b","script-id":"druids-resurgence","description":"Restores 1200 Stamina over 10 seconds."}
+{"id":"01a02990-a85c-7053-96a6-3e3e8f574d09","script-id":"lingering-torment","description":"Deals 2980 Physical Damage over 20 seconds to enemies."}
+{"id":"01a02990-a85c-7054-856d-aa63313607e2","script-id":"wayfarers-mastery","description":"Grants the bonus of the Hawk Eye passive ability."}
+{"id":"01a02990-a85c-7055-8bee-36ef7c1a02d5","script-id":"crusaders-defiance","description":"Removes up to 3 snares or immobilization effects."}

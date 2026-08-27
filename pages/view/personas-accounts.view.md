@@ -1,0 +1,106 @@
+---
+page-type-slug: view
+title: Accounts
+id: 2050625f-f10f-4f97-b9a4-39c00e259e17
+slug: personas-accounts
+nav: personas
+page-type: claude-account
+sort-order: 5
+layout: cards
+sort-by:
+  - alias-index
+page-size: 100
+item-page-size: 50
+group-page-size: 6
+visible-properties:
+  - name
+  - agent-type
+  - status
+  - alias-index
+  - default-worker-model
+  - default-headless-model
+  - fallback-worker-model
+  - default-auto-compact-window
+  - extended-context-available
+  - default-agent-effort-level
+  - seven-day-utilization
+  - session-kind
+  - parent
+  - instance
+  - last-heartbeat-at
+always-show-properties:
+  - name
+  - agent-type
+  - status
+  - alias-index
+  - default-worker-model
+  - default-headless-model
+  - fallback-worker-model
+  - default-auto-compact-window
+  - extended-context-available
+  - default-agent-effort-level
+  - seven-day-utilization
+hidden-properties-order:
+  - access-token
+  - account
+  - seq
+  - at-limit-observed-at
+  - burn-rate-needed
+  - cost
+  - created-at
+  - email
+  - expires-at
+  - extra-usage-enabled
+  - extra-usage-remaining-credits
+  - five-hour-resets-at
+  - five-hour-started-at
+  - five-hour-utilization
+  - last-429-at
+  - last-refresh-at
+  - last-refresh-error
+  - last-refresh-outcome
+  - last-window-trigger-at
+  - last-window-trigger-error
+  - last-window-trigger-status
+  - mcp-o-auth
+  - pace-hours-diff
+  - pace-hours-formatted
+  - pacing-updated-at
+  - page-type-id
+  - pinned-at
+  - plan-tier
+  - rate-limit-tier
+  - reauth-at
+  - reenabled-at
+  - refresh-token
+  - renewal-day
+  - scopes
+  - seven-day-resets-at
+  - seven-day-started-at
+  - slug
+  - subscription-disabled-at
+  - subscription-disabled-body
+  - subscription-disabled-reason
+  - subscription-type
+  - terminal-at
+  - terminal-code
+  - terminal-description
+  - updated-at
+  - coherence-rules
+  - detail-config
+  - fable-at-limit-until
+  - listing-config
+  - media-config
+  - sequence
+  - test
+  - test-run-id
+  - favorited-at
+  - five-hour-at-limit-until
+  - last-viewed-at
+  - non-empty-content-keys
+  - version-backfilled-at
+  - versioned
+  - account-uuid
+  - projects-to-filesystem
+  - terminal-alerted-at
+---

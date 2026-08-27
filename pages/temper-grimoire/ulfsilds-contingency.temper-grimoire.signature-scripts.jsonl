@@ -1,0 +1,7 @@
+{"id":"01a02990-a85c-7047-8db3-f77100b92fd8","script-id":"sages-remedy","description":"Heals for 1790 Health over 10 seconds."}
+{"id":"01a02990-a85c-7048-b323-0fdf55fbe348","script-id":"class-mastery","class-id":"necromancer","description":"Once every 3 seconds, increase your Health, Magicka, and Stamina by 2% for 10 seconds for each corpse within 12 meters, up to 10 times. While in combat, if no corpses are nearby, create a corpse."}
+{"id":"01a02990-a85c-7049-b0db-1fc754c7667c","script-id":"hunters-snare","description":"Reduces the Movement Speed of enemies hit by 30% for 6 seconds."}
+{"id":"01a02990-a85c-704a-ba75-978ffe62f41a","script-id":"growing-impact","description":"Creates a rune of power on the ground for 8 seconds which applies the Affix script in an area."}
+{"id":"01a02990-a85c-704b-9c3c-74ab1a867e5d","script-id":"lingering-torment","description":"Deals 2980 Magic Damage over 20 seconds to enemies."}
+{"id":"01a02990-a85c-704c-bdb2-8fe99aa2dd16","script-id":"gladiators-tenacity","description":"Reduces damage taken by 8% for 6 seconds."}
+{"id":"01a02990-a85c-704d-aad9-8a2989417bd5","script-id":"warriors-opportunity","description":"Increase damage done of your next direct attack used within 5 seconds by 2000."}

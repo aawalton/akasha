@@ -1,0 +1,7 @@
+{"id":"01a02990-a85c-7027-875d-b2b2c1af17cb","script-id":"sages-remedy","description":"Heals for 1790 Health over 10 seconds."}
+{"id":"01a02990-a85c-7028-aa10-ee2d7c987d03","script-id":"class-mastery","class-id":"necromancer","description":"Once every 3 seconds, increase your Health, Magicka, and Stamina by 2% for 10 seconds for each corpse within 12 meters, up to 10 times. While in combat, if no corpses are nearby, create a corpse."}
+{"id":"01a02990-a85c-7029-a8f8-d44139a28193","script-id":"hunters-snare","description":"Reduces the Movement Speed of enemies by 30% for 6 seconds."}
+{"id":"01a02990-a85c-702a-ad07-b680938f1bb4","script-id":"lingering-torment","description":"Deals 2980 Magic Damage over 20 seconds to enemies."}
+{"id":"01a02990-a85c-702b-83f0-54ee4c327154","script-id":"anchorites-cruelty","description":"Consumes a Soul Gem to deal 2.8% of the enemy's Max Health as Oblivion Damage every 2 seconds for 10 seconds, up to a maximum of 2800 damage. Deals up to 100% more damage to enemies under 50% Health, and can occur once every 10 seconds."}
+{"id":"01a02990-a85c-702c-97ee-22361d8d9616","script-id":"anchorites-potency","description":"If in combat, consumes a Soul Gem to generate 3 Ultimate, up to once every 5 seconds."}
+{"id":"01a02990-a85c-702d-81b1-f0a39544f964","script-id":"crusaders-defiance","description":"Removes up to 1 negative effect."}

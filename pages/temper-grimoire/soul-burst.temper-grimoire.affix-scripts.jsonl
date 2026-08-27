@@ -1,0 +1,9 @@
+{"id":"01a02990-a573-7031-b6de-1dfffbe81ffb","script-id":"maim","description":"Afflicts enemies with Minor Maim for 20 seconds, reducing damage done by 5%."}
+{"id":"01a02990-a573-7032-91e5-fe7fcb81cc47","script-id":"breach","description":"Afflicts enemies with Minor Breach for 20 seconds, reducing Physical and Spell Resistance by 2974."}
+{"id":"01a02990-a573-7033-a068-1315c0a2bbc2","script-id":"resolve","description":"Grants Minor Resolve for 20 seconds, increasing Physical and Spell Resistance by 2974."}
+{"id":"01a02990-a573-7034-9851-bfe4ccff5e5e","script-id":"interrupt","description":"Interrupts enemies that are casting."}
+{"id":"01a02990-a573-7035-9458-91a9118a0598","script-id":"expedition","description":"Grants Minor Expedition for 20 seconds, increasing Movement Speed by 15%."}
+{"id":"01a02990-a573-7036-956e-53e0ff3cd500","script-id":"magickasteal","description":"Afflicts enemies with Minor Magickasteal for 20 seconds, restoring 168 Magicka to attackers every 1 second."}
+{"id":"01a02990-a573-7037-8997-fc3eea0b41f0","script-id":"brutality-and-sorcery","description":"Grants you Major Brutality and Major Sorcery for 10 seconds, increasing Weapon and Spell Damage by 20%."}
+{"id":"01a02990-a573-7038-8b2d-8479afdb66da","script-id":"savagery-and-prophecy","description":"Grants you Major Savagery and Major Prophecy for 10 seconds, increasing Weapon and Spell Critical rating by 2629."}
+{"id":"01a02990-a573-7039-a7b8-83eb5892ff29","script-id":"intellect-and-endurance","description":"Grants Minor Intellect and Minor Endurance for 20 seconds, increasing Magicka and Stamina Recovery by 15%."}

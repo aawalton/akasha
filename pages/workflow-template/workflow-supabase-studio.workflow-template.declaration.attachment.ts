@@ -1,0 +1,102 @@
+import { IMAGES } from "../../tools/lib/workflow-dsl/images"
+import { SECRETS, secret } from "../../tools/lib/workflow-dsl/secrets"
+import { step } from "../../tools/lib/workflow-dsl/step"
+import { kubectlApply } from "../../tools/lib/workflow-dsl/templates/kubectl-apply"
+import { applyRbac } from "../../tools/lib/workflow-dsl/templates/rbac-apply"
+import { verifyRolloutCommands } from "../../tools/lib/workflow-dsl/templates/verify-rollout"
+import { workflow } from "../../tools/lib/workflow-dsl/workflow"
+
+const SKIP_CHECK = [
+  "CURRENT_HASH=$(kubectl get configmap supabase-studio-pipeline-state -n supabase-studio -o jsonpath='{.metadata.annotations.pipeline\\.alanwalton\\.com/content-hash}' 2>/dev/null || echo \"\")",
+  'if [ "$CURRENT_HASH" = "$CONTENT_HASH" ]; then echo "Content hash unchanged, skipping"; exit 0; fi',
+]
+
+export default workflow("supabase-studio", {
+  kind: "foundation",
+  dependsOn: ["postgres", "preparation"],
+  when: { branch: "main", event: "push" },
+  dispatchNodes: [
+    "workflow:instructions:supabase-studio",
+    "ts-file:code:packages/infra/k8s/src/supabase-studio/synth.ts",
+  ],
+  steps: [
+    kubectlApply({
+      name: "supabase-studio-apply-namespace",
+      namespace: "supabase-studio",
+      files: "packages/infra/k8s/src/supabase-studio/generated/namespace.generated.yaml",
+      serverSide: true,
+    }),
+
+    {
+      ...applyRbac({
+        name: "supabase-studio-apply-rbac",
+        rbacFile: "tools/lib/rbac/supabase-studio.ts",
+      }),
+      dependsOn: ["supabase-studio-apply-namespace"],
+    },
+
+    {
+      ...step({
+        name: "supabase-studio-apply-secrets",
+        image: IMAGES.CI,
+        environment: {
+          HOME: "/tmp",
+          SOPS_AGE_KEY: secret(SECRETS.AGE_SECRET_KEY),
+        },
+        commands: (ci) => [
+          "set -e",
+          `CONTENT_HASH="${ci.inputsHash}"`,
+          ...SKIP_CHECK,
+          `DECRYPTED=$(sops -d ${ci.workspace}/packages/infra/k8s/src/supabase-studio/secrets/supabase-studio-secrets.sops.yaml)`,
+          `echo "$DECRYPTED" | kubectl apply --dry-run=client -n supabase-studio -f -`,
+          `echo "$DECRYPTED" | kubectl apply -n supabase-studio -f -`,
+        ],
+        backendOptions: {
+          kubernetes: { serviceAccountName: "pipeline-engine" },
+        },
+      }),
+      dependsOn: ["supabase-studio-apply-rbac"],
+    },
+
+    {
+      ...step({
+        name: "supabase-studio-apply-manifests",
+        image: IMAGES.KUBECTL,
+        environment: { HOME: "/tmp" },
+        commands: (ci) => [
+          "set -e",
+          `CONTENT_HASH="${ci.inputsHash}"`,
+          ...SKIP_CHECK,
+          "kubectl apply --server-side --force-conflicts -n supabase-studio -f packages/infra/k8s/src/supabase-studio/generated/service.generated.yaml",
+          "kubectl apply --server-side --force-conflicts -n supabase-studio -f packages/infra/k8s/src/supabase-studio/generated/deployment.generated.yaml",
+          ...verifyRolloutCommands({
+            namespace: "supabase-studio",
+            deployment: "supabase-studio",
+            timeout: "180s",
+          }),
+        ],
+        backendOptions: {
+          kubernetes: { serviceAccountName: "pipeline-engine" },
+        },
+      }),
+      dependsOn: ["supabase-studio-apply-secrets"],
+    },
+
+    {
+      ...step({
+        name: "supabase-studio-stamp-content-hash",
+        image: IMAGES.KUBECTL,
+        environment: { HOME: "/tmp" },
+        commands: (ci) => [
+          "set -e",
+          "kubectl create configmap supabase-studio-pipeline-state -n supabase-studio --dry-run=client -o yaml | kubectl apply -f -",
+          `kubectl annotate configmap supabase-studio-pipeline-state -n supabase-studio pipeline.alanwalton.com/content-hash=${ci.inputsHash} --overwrite`,
+        ],
+        backendOptions: {
+          kubernetes: { serviceAccountName: "pipeline-engine" },
+        },
+      }),
+      dependsOn: ["supabase-studio-apply-secrets", "supabase-studio-apply-manifests"],
+    },
+  ],
+})

@@ -1,0 +1,91 @@
+---
+page-type-slug: view
+title: Covers
+id: 748797be-0c5b-45fe-a508-b3c1965e1cac
+slug: personas-covers
+nav: personas
+page-type: persona
+sort-order: 2
+layout: gallery
+group-sort-by:
+  - role
+page-size: 50
+item-page-size: 12
+group-page-size: 6
+visible-properties:
+  - domain
+  - level
+  - percent-progress
+  - total-points
+  - last-messaged-at
+  - value
+  - session-id
+always-show-properties:
+  - domain
+  - level
+  - percent-progress
+  - total-points
+  - last-messaged-at
+  - value
+hidden-properties-order:
+  - created-at
+  - do
+  - feel
+  - know
+  - page-type-id
+  - perceive
+  - points-path-prefix
+  - portrait
+  - purpose
+  - seq
+  - updated-at
+  - wallpaper-dir
+  - want
+  - slug
+  - keep-contract
+  - voice-archetype
+  - voice-centroid-object
+  - voice-cloner-model
+  - voice-instruct
+  - voice-lane
+  - voice-post-production
+  - voice-ref-text
+  - voice-reference-object
+  - voice-source-kind
+  - green-day-points
+  - alan-notes
+  - coherence-rules
+  - default-model
+  - detail-config
+  - earning-narrative
+  - email-address
+  - family
+  - favorited-at
+  - glance
+  - green-day-total
+  - helpers
+  - idle-cards
+  - last-viewed-at
+  - lead-doctrine
+  - listing-config
+  - media-config
+  - memory-holds
+  - non-empty-content-keys
+  - owed-pings
+  - player-character
+  - points-path-prefixes
+  - projects-to-filesystem
+  - reads-on-load
+  - remote-control-at-startup
+  - role
+  - sequence
+  - session-umbrella
+  - standing-watches
+  - test
+  - test-run-id
+  - version-backfilled-at
+  - versioned
+  - wake-sources
+gallery-card-size: large
+gallery-cover-source: cover
+---

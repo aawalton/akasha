@@ -1,0 +1,10 @@
+{"id":"01a02990-a573-7044-8145-bea7e7651e43","script-id":"defile","description":"Afflicts enemies with Minor Defile, which reduces healing received and damage shield strength by 6% for 20 seconds."}
+{"id":"01a02990-a573-7045-94a6-2c6a910a83a7","script-id":"mangle","description":"Afflicts enemies with Minor Mangle for 20 seconds, reducing Max Health by 10%."}
+{"id":"01a02990-a573-7046-837b-29c1c2cb0660","script-id":"heroism","description":"Grants you Major Heroism for 10 seconds, generating 3 Ultimate every 1.5 seconds."}
+{"id":"01a02990-a573-7047-b321-9aef49736b69","script-id":"cowardice","description":"Afflicts enemies with Minor Cowardice for 20 seconds, reducing Weapon and Spell Damage by 215."}
+{"id":"01a02990-a573-7048-838e-fd05c015d51d","script-id":"expedition","description":"Grants you Major Expedition for 10 seconds, increasing Movement Speed by 30%."}
+{"id":"01a02990-a573-7049-8afc-01949a094e42","script-id":"protection","description":"Grants you Major Protection for 10 seconds, reducing damage taken by 10%."}
+{"id":"01a02990-a573-704a-82c7-039bc7ee4356","script-id":"off-balance","description":"Sets enemies Off Balance for 7 seconds."}
+{"id":"01a02990-a573-704b-ad18-d4c5f467270d","script-id":"vulnerability","description":"Afflicts enemies with Minor Vulnerability for 20 seconds, increasing damage taken by 5%."}
+{"id":"01a02990-a573-704c-8c82-852c9f35f398","script-id":"brutality-and-sorcery","description":"Grants you Major Brutality and Major Sorcery for 10 seconds, increasing Weapon and Spell Damage by 20%."}
+{"id":"01a02990-a573-704d-a35c-aa182f934ab5","script-id":"savagery-and-prophecy","description":"Grants you Major Savagery and Major Prophecy for 10 seconds, increasing Weapon and Spell Critical rating by 2629."}

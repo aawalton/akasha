@@ -1,0 +1,10 @@
+{"id":"01a02990-a573-7058-a55d-8f57ef5f308a","script-id":"force","description":"Grants Minor Force for 20 seconds, increasing Critical Damage by 10%."}
+{"id":"01a02990-a573-7059-a027-e16906f4f871","script-id":"breach","description":"Afflicts Minor Breach for 20 seconds, reducing Physical and Spell Resistance by 2974."}
+{"id":"01a02990-a573-705a-aff5-37073a760b25","script-id":"resolve","description":"Grants Minor Resolve for 20 seconds, increasing Physical and Spell Resistance by 2974."}
+{"id":"01a02990-a573-705b-8433-905b0b8ed02b","script-id":"enervation","description":"Afflicts Minor Enervation for 20 seconds, reducing Critical Damage by 10%."}
+{"id":"01a02990-a573-705c-a3cb-8e2f90f69772","script-id":"protection","description":"Grants Minor Protection for 20 seconds, reducing damage taken by 5%."}
+{"id":"01a02990-a573-705d-ba86-37e8277ab76e","script-id":"magickasteal","description":"Afflicts enemies with Minor Magickasteal for 20 seconds, restoring 168 Magicka to attackers every 1 second."}
+{"id":"01a02990-a573-705e-974b-fbb55bdbaca7","script-id":"vulnerability","description":"Afflicts Minor Vulnerability for 20 seconds, increasing damage taken by 5%."}
+{"id":"01a02990-a573-705f-b94f-9e9a4f3cba72","script-id":"brutality-and-sorcery","description":"Grants you Major Brutality and Major Sorcery for 10 seconds, increasing Weapon and Spell Damage by 20%."}
+{"id":"01a02990-a573-7060-aad8-bcc161e2a5ba","script-id":"savagery-and-prophecy","description":"Grants you Major Savagery and Major Prophecy for 10 seconds, increasing Weapon and Spell Critical rating by 2629."}
+{"id":"01a02990-a573-7061-8342-7406c9fb09dc","script-id":"intellect-and-endurance","description":"Grants Minor Intellect and Minor Endurance for 20 seconds, increasing Magicka and Stamina Recovery by 15%."}

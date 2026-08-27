@@ -1,0 +1,8 @@
+{"id":"01a02990-a85c-7000-b67d-97fba82e8263","script-id":"sages-remedy","description":"Heals for 336 Health every 2 seconds."}
+{"id":"01a02990-a85c-7001-adb8-df1fd5a92bde","script-id":"class-mastery","class-id":"necromancer","description":"Once every 3 seconds, increase your Health, Magicka, and Stamina by 2% for 10 seconds for each corpse within 12 meters, up to 10 times. While in combat, if no corpses are nearby, create a corpse. This effect reapplies itself every 5 seconds."}
+{"id":"01a02990-a85c-7002-ae9a-955d5dc563dc","script-id":"cavaliers-charge","description":"Increase your Weapon and Spell Damage by 6 for every 1% bonus Movement Speed, up to a max of 450."}
+{"id":"01a02990-a85c-7003-8d7d-2b23f87c3898","script-id":"thiefs-swiftness","description":"Reduce the cost of Sprint by 22%."}
+{"id":"01a02990-a85c-7004-bdd0-df52146c9d28","script-id":"warmages-defense","description":"Grants a damage shield every 3 seconds for 3 seconds that absorbs up to 600 damage."}
+{"id":"01a02990-a85c-7005-b477-fbbc84f3fb9c","script-id":"druids-resurgence","description":"Increases Health, Magicka, and Stamina Recovery of other group members by 139."}
+{"id":"01a02990-a85c-7006-b812-7576b498f9c0","script-id":"wayfarers-mastery","description":"You count as being in a PvP area for Battle Resurrection, reducing the time it takes to resurrect another player."}
+{"id":"01a02990-a85c-7007-819c-b9d29586fcda","script-id":"crusaders-defiance","description":"Reduce the effectiveness of negative snares by 30%."}

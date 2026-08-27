@@ -1,0 +1,86 @@
+---
+page-type-slug: view
+title: Claude Accounts
+id: 019db533-f3b3-7998-991b-b128fed077f6
+slug: claude-accounts-claude-accounts
+nav: claude-accounts
+page-type: claude-account
+sort-order: 0
+sort-by:
+  - seven-day-started-at
+page-size: 12
+item-page-size: 12
+group-page-size: 6
+visible-properties:
+  - seven-day-utilization
+  - five-hour-utilization
+  - seven-day-started-at
+  - renewal-day
+hidden-properties-order:
+  - seven-day-resets-at
+  - pace-hours-diff
+  - account
+  - at-limit-observed-at
+  - burn-rate-needed
+  - cost
+  - created-at
+  - expires-at
+  - extra-usage-enabled
+  - extra-usage-remaining-credits
+  - five-hour-resets-at
+  - five-hour-started-at
+  - last-429-at
+  - last-refresh-at
+  - last-refresh-error
+  - last-refresh-outcome
+  - last-selected-at
+  - last-window-trigger-at
+  - last-window-trigger-error
+  - last-window-trigger-status
+  - pacing-updated-at
+  - page-type-id
+  - pinned-at
+  - plan-tier
+  - rate-limit-tier
+  - reauth-at
+  - reenabled-at
+  - scopes
+  - seq
+  - subscription-disabled-at
+  - subscription-disabled-body
+  - subscription-disabled-reason
+  - subscription-type
+  - terminal-at
+  - terminal-code
+  - terminal-description
+  - updated-at
+  - access-token
+  - alias-index
+  - coherence-rules
+  - default-auto-compact-window
+  - default-headless-model
+  - default-worker-model
+  - detail-config
+  - email
+  - extended-context-available
+  - fable-at-limit-until
+  - fallback-worker-model
+  - favorited-at
+  - five-hour-at-limit-until
+  - last-viewed-at
+  - listing-config
+  - mcp-o-auth
+  - mcp-o-auth-updated-at
+  - media-config
+  - non-empty-content-keys
+  - pace-hours-formatted
+  - projects-to-filesystem
+  - refresh-token
+  - sequence
+  - slug
+  - test
+  - test-run-id
+  - version-backfilled-at
+  - versioned
+  - terminal-alerted-at
+---
