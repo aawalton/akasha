@@ -5,12 +5,13 @@ import type { EdgeInit, EdgeProducer } from "../edge-shape.ts"
 import fileNodeProducer from "../../node-producer/file/file.ts"
 import type { BuildContext } from "../../build-context/build-context.ts"
 import type { NodeRef } from "../../node-producer/node-shape.ts"
+import { aliasedTo } from "./tsconfig-paths.ts"
 
 export const IMPORT_EDGE = "import"
 
 export const TYPESCRIPT_SAID = "typescript"
 
-const TYPESCRIPT = "ts"
+const TYPESCRIPT: ReadonlySet<string> = new Set(["ts", "tsx"])
 
 const RELATIVE = "."
 
@@ -20,7 +21,7 @@ const BARE = /^\s*import\s*["']([^"']+)["']/gm
 
 const DYNAMIC = /\bimport\s*\(\s*["']([^"']+)["']\s*\)/g
 
-const TAILS: readonly string[] = ["", ".ts", "/index.ts"]
+const TAILS: readonly string[] = ["", ".ts", ".tsx", "/index.ts", "/index.tsx"]
 
 export function namedIn(text: string): readonly string[] {
   const found = new Set<string>()
@@ -57,28 +58,44 @@ function specifiersFor(
   return held.filter((one): one is string => typeof one === "string")
 }
 
-export function baseOf(root: string, from: string, named: string): string | null {
-  if (named.startsWith(RELATIVE)) return resolve(dirname(from), named)
+/**
+ * Every place one specifier could stand, in the order the compiler would try them.
+ *
+ * A relative specifier and a workspace package name each name ONE place, and a `paths` alias
+ * names as many as its config lists. Aliases are asked last, so nothing a specifier already
+ * resolved to moves.
+ */
+export function basesOf(root: string, from: string, named: string): readonly string[] {
+  if (named.startsWith(RELATIVE)) return [resolve(dirname(from), named)]
   const within = pathOf(packagesFor(root), named)
-  return within === null ? null : resolve(root, within)
+  if (within !== null) return [resolve(root, within)]
+  return aliasedTo(root, from, named)
+}
+
+function fileAt(ctx: BuildContext, base: string): NodeRef | null {
+  for (const tail of TAILS) {
+    const ref = refAt(ctx, `${base}${tail}`)
+    if (ref === null) continue
+    if (fileNodeProducer.at(ctx, ref) === null) continue
+    return ref
+  }
+  return null
 }
 
 export const typescriptEdgeProducer: EdgeProducer = {
   name: "typescript",
   edgeKinds: () => [IMPORT_EDGE],
   from: (ctx, file) => {
-    if (file.attrs["file-extension"] !== TYPESCRIPT) return []
+    const extension = file.attrs["file-extension"]
+    if (extension === null || !TYPESCRIPT.has(extension)) return []
     const root = ctx.roots[file.repo]
     if (root === undefined) return []
     const from = resolve(root, file.key)
     const edges: EdgeInit[] = []
     for (const named of specifiersFor(ctx, root, file.repo, file.key)) {
-      const base = baseOf(root, from, named)
-      if (base === null) continue
-      for (const tail of TAILS) {
-        const ref = refAt(ctx, `${base}${tail}`)
+      for (const base of basesOf(root, from, named)) {
+        const ref = fileAt(ctx, base)
         if (ref === null) continue
-        if (fileNodeProducer.at(ctx, ref) === null) continue
         edges.push({
           kind: IMPORT_EDGE,
           from: { repo: file.repo, key: file.key },
