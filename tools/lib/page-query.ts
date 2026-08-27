@@ -3,12 +3,11 @@ import { type Held, type Values } from "./page-file-values"
 import { deriverFor } from "./deriver-hold.ts"
 import { idOfFilePage as pageId, slugOfFilePage as pageSlug } from "../../page/name/naming/naming"
 import { bind, type Given, isRefused, QUERY_PAGE_TYPE, type Refused, unfoundIn } from "./page-query-bind.ts"
-import { compare, comparing, NOW, stated } from "./page-query-compare.ts"
-import { queryFrom, queryOf, reduces } from "./page-query-fields.ts"
+import { comparing, stated } from "./page-query-compare.ts"
+import { queryOf } from "./page-query-fields.ts"
 import { carriesFor } from "./page-query-keys.ts"
 import { NOTHING, reduced, reducedFault } from "./page-query-reduce.ts"
 import { listOf, textOf } from "./page-query-values.ts"
-import { type Named, whole, type Whole } from "./page-query-whole.ts"
 import { diskFileTree } from "../../page/file-tree.ts"
 import { registryOf } from "../../page/property/registry.ts"
 import { pagesOf, reposOf } from "../../page/page-types.ts"
@@ -18,8 +17,7 @@ import { type Roots } from "../../page/page"
 import { isAddressable } from "../../repo/roots/roots"
 import { WAKE_DAY, type Woke, wokeOn } from "./wake-day.ts"
 
-export type { Named, Row, Values, Whole }
-export { compare, listOf, NOW, queryFrom, queryOf, reduces, textOf, whole }
+export type { Row, Values }
 
 export const UNREACHED = "names no page type whose pages are files"
 
