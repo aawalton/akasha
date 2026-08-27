@@ -1,7 +1,7 @@
 import { describe, expect, test } from "bun:test"
 import { classify, findOrphans, type SourceFile, stripComments } from "../lib/yaml-usage.ts"
 
-const SVC = "packages/x/k8s/svc.yaml"
+const SVC = "x/k8s/svc.yaml"
 
 function src(path: string, content: string): SourceFile {
   return { path, content }
@@ -14,7 +14,7 @@ describe("classify — convention-by-location", () => {
   })
 
   test("nested .sops.yaml also recognized", () => {
-    const r = classify("packages/foo/.sops.yaml", [], ["packages/foo/.sops.yaml"])
+    const r = classify("foo/.sops.yaml", [], ["foo/.sops.yaml"])
     expect(r).toEqual({ kind: "sops-config" })
   })
 
@@ -24,7 +24,7 @@ describe("classify — convention-by-location", () => {
   })
 
   test("sgconfig.yaml variant also recognized", () => {
-    const r = classify("packages/x/sgconfig.yaml", [], ["packages/x/sgconfig.yaml"])
+    const r = classify("x/sgconfig.yaml", [], ["x/sgconfig.yaml"])
     expect(r).toEqual({ kind: "ast-grep-config" })
   })
 
@@ -49,8 +49,8 @@ describe("classify — convention-by-location", () => {
 
 describe("classify — direct-path reference", () => {
   test("yaml's full repo-relative path appears verbatim in source", () => {
-    const sources = [src("workflow.ts", `kubectl apply -f packages/x/k8s/svc.yaml`)]
-    const r = classify("packages/x/k8s/svc.yaml", sources, [])
+    const sources = [src("workflow.ts", `kubectl apply -f x/k8s/svc.yaml`)]
+    const r = classify("x/k8s/svc.yaml", sources, [])
     expect(r).toEqual({ kind: "direct-path", sourcePath: "workflow.ts" })
   })
 })
@@ -58,52 +58,52 @@ describe("classify — direct-path reference", () => {
 describe("classify — split-path reference", () => {
   test("template-string concat: dir constant + ${dir}/<base>", () => {
     const sources = [
-      src("workflow.ts", `const K8S = "packages/x/k8s"\n` + "kubectlApply(`${K8S}/svc.yaml`)\n"),
+      src("workflow.ts", `const K8S = "x/k8s"\n` + "kubectlApply(`${K8S}/svc.yaml`)\n"),
     ]
-    const r = classify("packages/x/k8s/svc.yaml", sources, [])
+    const r = classify("x/k8s/svc.yaml", sources, [])
     expect(r).toEqual({ kind: "split-path", sourcePath: "workflow.ts" })
   })
 
   test("dir present but basename absent → not split-path", () => {
-    const sources = [src("workflow.ts", `const K8S = "packages/x/k8s"\nconsole.log(K8S)`)]
-    const r = classify("packages/x/k8s/svc.yaml", sources, [])
+    const sources = [src("workflow.ts", `const K8S = "x/k8s"\nconsole.log(K8S)`)]
+    const r = classify("x/k8s/svc.yaml", sources, [])
     expect(r).toBeNull()
   })
 })
 
 describe("classify — directory-ref", () => {
   test("kubectlApply-style directory batch ref", () => {
-    const sources = [src("workflow.ts", `kubectlApply({ files: "packages/x/k8s/" })`)]
-    const r = classify("packages/x/k8s/svc.yaml", sources, [])
+    const sources = [src("workflow.ts", `kubectlApply({ files: "x/k8s/" })`)]
+    const r = classify("x/k8s/svc.yaml", sources, [])
     expect(r).toEqual({
       kind: "directory-ref",
       sourcePath: "workflow.ts",
-      dir: "packages/x/k8s",
+      dir: "x/k8s",
     })
   })
 
   test("glob form '<dir>/**' does NOT count as directory-ref", () => {
-    const sources = [src("workflow.ts", `"packages/x/k8s/**"`)]
-    const r = classify("packages/x/k8s/svc.yaml", sources, [])
+    const sources = [src("workflow.ts", `"x/k8s/**"`)]
+    const r = classify("x/k8s/svc.yaml", sources, [])
     expect(r).toBeNull()
   })
 
   test("sibling-file path '<dir>/<sibling>.yaml' does NOT credit other yamls", () => {
-    const sources = [src("workflow.ts", `"packages/x/k8s/sibling.yaml"`)]
-    const r = classify("packages/x/k8s/svc.yaml", sources, [])
+    const sources = [src("workflow.ts", `"x/k8s/sibling.yaml"`)]
+    const r = classify("x/k8s/svc.yaml", sources, [])
     expect(r).toBeNull()
   })
 
   test("trailing slash followed by quote is a directory-ref", () => {
-    const sources = [src("workflow.ts", `"packages/x/k8s/"`)]
-    const r = classify("packages/x/k8s/svc.yaml", sources, [])
+    const sources = [src("workflow.ts", `"x/k8s/"`)]
+    const r = classify("x/k8s/svc.yaml", sources, [])
     expect(r?.kind).toBe("directory-ref")
   })
 })
 
 describe("classify — orphan", () => {
   test("no source references → null", () => {
-    const r = classify("packages/x/k8s/orphan.yaml", [], [])
+    const r = classify("x/k8s/orphan.yaml", [], [])
     expect(r).toBeNull()
   })
 })
@@ -111,16 +111,16 @@ describe("classify — orphan", () => {
 describe("findOrphans", () => {
   test("returns only yaml files with no recognized use, sorted", () => {
     const yamlPaths = [
-      "packages/x/k8s/svc.yaml",
-      "packages/x/k8s/orphan.yaml",
+      "x/k8s/svc.yaml",
+      "x/k8s/orphan.yaml",
       ".sops.yaml",
-      "packages/y/orphan.yml",
+      "y/orphan.yml",
     ]
-    const sources = [src("workflow.ts", `kubectl apply -f packages/x/k8s/svc.yaml`)]
+    const sources = [src("workflow.ts", `kubectl apply -f x/k8s/svc.yaml`)]
     const orphans = findOrphans({ yamlPaths, sources })
     expect(orphans).toEqual([
-      { path: "packages/x/k8s/orphan.yaml" },
-      { path: "packages/y/orphan.yml" },
+      { path: "x/k8s/orphan.yaml" },
+      { path: "y/orphan.yml" },
     ])
   })
 
@@ -162,7 +162,7 @@ describe("findOrphans — a comment is not a use site", () => {
   })
 
   test("a directory-batch reference inside a comment does not credit it", () => {
-    expect(orphansOf([src("run.sh", `#   templates into packages/x/k8s/ from a seed`)])).toEqual([
+    expect(orphansOf([src("run.sh", `#   templates into x/k8s/ from a seed`)])).toEqual([
       SVC,
     ])
   })
@@ -197,8 +197,8 @@ describe("stripComments — string literals are code, not comments", () => {
   })
 
   test("a stripped comment leaves a separator, so it cannot join two fragments", () => {
-    expect(stripComments("w.ts", `"packages/x/k8s/"/* c */"svc.yaml"`)).not.toContain(
-      "packages/x/k8s/svc.yaml"
+    expect(stripComments("w.ts", `"x/k8s/"/* c */"svc.yaml"`)).not.toContain(
+      "x/k8s/svc.yaml"
     )
   })
 })
