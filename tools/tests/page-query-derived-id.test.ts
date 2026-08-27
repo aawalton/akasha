@@ -36,12 +36,10 @@ for (const [relPath, text] of Object.entries(FILES)) {
 
 afterAll(() => rmSync(root, { recursive: true, force: true }))
 
-const away = join(root, "no-such-repo")
-
-const ROOTS: Roots = {
-  akasha: root,
-  "code-editor": away,
-}
+// ONLY THE REPOSITORIES CLONED HERE. `Roots` names a root only where the repository stands,
+// and every scan walks each root it names, so naming an uncloned one reads its absence as
+// a directory that could not be opened rather than as a repository that is not here.
+const ROOTS: Roots = { akasha: root }
 
 const idOf = (row: Row): string => textOf(row.values, "id") ?? ""
 
