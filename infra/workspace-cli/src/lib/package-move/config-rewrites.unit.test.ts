@@ -9,7 +9,7 @@ import type { Logger } from "./logger"
 import type { WorkspaceMove } from "./types"
 
 const REPO_ROOT = codeRoot()
-const CHECKS_SRC = "packages/infra/checks/src"
+const CHECKS_SRC = "infra/cluster-checks/src"
 
 const registry = new Set(PATH_LITERAL_TS_TARGETS)
 const silent: Logger = { info: () => {}, warn: () => {} }
@@ -19,7 +19,7 @@ const quotedTstlForkPath = /"\/?packages\/temper\/tstl/
 
 describe("PATH_LITERAL_TS_TARGETS registry integrity", () => {
   it("resolves the repo root (sanity)", () => {
-    expect(exists(REPO_ROOT, "ast-unused.config.json")).toBe(true)
+    expect(exists(REPO_ROOT, "tools/lib/code-audit-ast-unused/ast-unused.config.json")).toBe(true)
     expect(exists(REPO_ROOT, CHECKS_SRC)).toBe(true)
   })
 
