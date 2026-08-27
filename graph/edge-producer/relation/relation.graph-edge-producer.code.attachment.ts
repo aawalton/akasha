@@ -32,7 +32,7 @@ export const RELATION_KEY = "relation-key"
 
 // The answer held here is what `linkTargetsFrom` works out, so that file is what its mark is taken
 // over rather than this producer, whose other logic the answer does not depend on.
-const LINKS_SAID: SaidName = {
+export const LINKS_SAID: SaidName = {
   name: "relation-links",
   entry: "page/index/link/link.ts",
 }
