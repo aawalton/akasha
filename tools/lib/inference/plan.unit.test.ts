@@ -7,7 +7,7 @@ function svc(name: string): InferenceService {
     name,
     host: "macbook",
     pythonVersion: "3.12",
-    sourceDir: `packages/infra/inference/src/services/${name}`,
+    sourceDir: `infra/inference/src/services/${name}`,
     workdir: name,
     command: ["python", "-m", "server"],
     port: 8080,

@@ -7,7 +7,7 @@ export const SERVICES: readonly InferenceService[] = [
     name: "ollama",
     host: "macbook",
     pythonVersion: "3.12",
-    sourceDir: "packages/infra/inference/src/services/ollama",
+    sourceDir: "infra/inference/src/services/ollama",
     workdir: ".",
     command: [
       "env",
@@ -26,7 +26,7 @@ export const SERVICES: readonly InferenceService[] = [
     name: "image-gen",
     host: "macbook",
     pythonVersion: "3.12",
-    sourceDir: "packages/infra/inference/src/services/mlx-openai-server",
+    sourceDir: "infra/inference/src/services/mlx-openai-server",
     workdir: ".",
     command: [
       "mlx-openai-server",
@@ -55,7 +55,7 @@ export const SERVICES: readonly InferenceService[] = [
     name: "segment-rembg",
     host: "macbook",
     pythonVersion: "3.12",
-    sourceDir: "packages/infra/inference/src/services/segment-rembg",
+    sourceDir: "infra/inference/src/services/segment-rembg",
     workdir: "src",
     command: ["python", "server.py", "--host", "127.0.0.1", "--port", "18101"],
     port: 8101,
@@ -66,7 +66,7 @@ export const SERVICES: readonly InferenceService[] = [
     name: "mlx-vlm",
     host: "macbook",
     pythonVersion: "3.12",
-    sourceDir: "packages/infra/inference/src/services/mlx-vlm",
+    sourceDir: "infra/inference/src/services/mlx-vlm",
     workdir: ".",
     command: [
       "python",
@@ -87,7 +87,7 @@ export const SERVICES: readonly InferenceService[] = [
     name: "music-gen",
     host: "macbook",
     pythonVersion: "3.12",
-    sourceDir: "packages/infra/inference/src/services/music-gen",
+    sourceDir: "infra/inference/src/services/music-gen",
     workdir: "ACE-Step-1.5",
     command: [
       "bash",
@@ -102,7 +102,7 @@ export const SERVICES: readonly InferenceService[] = [
     name: "traffic-cop",
     host: "macbook",
     pythonVersion: "3.12",
-    sourceDir: "packages/infra/inference/src/services/traffic-cop",
+    sourceDir: "infra/inference/src/services/traffic-cop",
     workdir: ".",
     command: ["bun", "run", "src/server.ts"],
     port: 8099,
