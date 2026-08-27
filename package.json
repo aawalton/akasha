@@ -195,7 +195,7 @@
     "temper/shared-addon-libraries-lib-zone",
     "temper/shared-build-deploy-addon-bundle-runtime",
     "temper/shared-build-deploy-addons-resolve",
-    "temper/shared-build-deploy-checks--from-code",
+    "temper/shared-build-deploy-checks",
     "temper/shared-build-deploy-lua-runner--from-code",
     "temper/shared-capture-core",
     "temper/shared-capture-datamining-addon",
