@@ -60,7 +60,9 @@ Two node types, from the union's 52.
 - `file` — every file, its format an attribute. Approved 2026-08-27.
 - `folder` — every folder; being a package, and being deployed, are attributes. Approved 2026-08-27.
 
-Six edge types, from the union's 83: `import`, `names`, `relation`, `file-kind`, `code`, `contains`. `contains` and `relation` are approved 2026-08-27; each of the rest is approved on its own before it is built.
+Five edge types, from the union's 83: `import`, `names`, `relation`, `code`, `contains`. `contains` and `relation` are approved 2026-08-27; each of the rest is approved on its own before it is built.
+
+`file-kind` is not an edge. A file's format is an attribute on the file, by Alan's ruling on 2026-08-27, and an edge to the kind's page would state the same fact a second time. The `file-name` producer and the `file-kind` edge go; the name matching they used stays, being what tells the write path whether a body is bytes.
 
 `path` collapses into `relation`, by Alan's ruling on 2026-08-27. Both are read by walking the property definitions and reading a frontmatter key, and with `file` and `folder` the only node types, a page is a file, so the ends do not differ either. Which key named the other end, and whether it resolved as a page or as a path, are attributes.
 
