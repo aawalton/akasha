@@ -52,8 +52,8 @@ function runMv(at: Fixture, args: readonly string[]): { code: number; err: strin
   const proc = Bun.spawnSync({
     cmd: ["bun", ...toolArgv("mv.ts", args)],
     cwd: at.root,
-    // `AKASHA_ROOT` NAMES THE TEMP REPO. This set `INSTRUCTIONS_ROOT` and `MEMORY_ROOT`, naming
-    // repositories that are gone: nothing reads them, so `mv` ran against the live checkout.
+    // `AKASHA_ROOT` NAMES THE TEMP REPO, and it is the one root `mv` reads: left alone it would
+    // rename inside the live checkout.
     env: { ...process.env, AGENT_ID: AGENT, AKASHA_ROOT: at.root, HOME: at.home },
     stdout: "pipe",
     stderr: "pipe",

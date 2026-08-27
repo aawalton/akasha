@@ -37,9 +37,9 @@ function put(relPath: string, body: string): void {
 function run(...argv: readonly string[]): { readonly code: number; readonly said: string } {
   const done = Bun.spawnSync({
     cmd: [process.execPath, COMMAND, ...argv, "--dry-run"],
-    // `AKASHA_ROOT` IS WHAT NAMES THE TEMP REPO. This set `INSTRUCTIONS_ROOT`, which nothing reads:
-    // `rename-token.ts` resolves `targetRoot(roots)`, whose default target is akasha, so every case
-    // below ran against the real checkout and only `--dry-run` kept it from writing there.
+    // `AKASHA_ROOT` IS WHAT NAMES THE TEMP REPO: `rename-token.ts` resolves `targetRoot(roots)`,
+    // whose default target is akasha, so a case that left this alone would run against the real
+    // checkout with only `--dry-run` keeping it from writing there.
     //
     // `CODE_ROOT` IS WHERE THE TYPESCRIPT IS. `installed()` looks for a language service under
     // `codeRoot()`, and the temp repo has no `node_modules`, so it is pointed at this checkout's.
