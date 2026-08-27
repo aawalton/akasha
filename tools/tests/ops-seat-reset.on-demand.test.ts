@@ -1,8 +1,11 @@
 import { afterAll, describe, expect, it } from "bun:test"
 import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
+import { resolve } from "node:path"
 import { installRepos } from "./fixture.ts"
 
 const CLI_PATH = `${import.meta.dir}/../ops/cli.ts`
+
+const HERE = resolve(import.meta.dir, "..", "..")
 
 // WHERE A SEAT PAGE STANDS, one place and one spelling: `SEAT_PLACES` in `agent-page-place.ts` is
 // `{ repo: "akasha", dir: "agent/seat" }`, and `seat-page-history.ts` asks git for that same path.
@@ -79,7 +82,10 @@ async function runCli(
     // `AKASHA_ROOT` IS WHAT NAMES THE TEMP REPO. This set `MEMORY_ROOT`, which nothing reads: every
     // reader of a seat page goes through `SEAT_PLACES`, rooted at akasha, so each case below asked
     // the live fleet about a seat that stands only here and was answered `no such seat`.
-    env: { ...baseEnv, AKASHA_ROOT: AWAY_FROM_THE_FLEET, ...env },
+    // `CODE_ROOT` IS WHERE THE TYPESCRIPT IS. `codeModule` resolves `@shared/…` through `codeRoot()`,
+    // which falls back to the akasha root — the temp repo, which has no `node_modules` — so the CLI
+    // died at load with exit 70 before reading a single argument.
+    env: { ...baseEnv, AKASHA_ROOT: AWAY_FROM_THE_FLEET, CODE_ROOT: HERE, ...env },
   })
   const [stdout, stderr] = await Promise.all([
     new Response(proc.stdout).text(),
