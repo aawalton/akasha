@@ -12,7 +12,7 @@ domain-slug: domain/instrument
 
 # Evidence
 
-`domains/instrument.md` already carries it: "Make an instrument fail before you trust it. Show it the case it must catch while you build it." That is the whole rule and it is right.
+`pages/domain/instrument.domain.md` already carries it: "Make an instrument fail before you trust it. Show it the case it must catch while you build it." That is the whole rule and it is right.
 
 It binds an instrument, defined a line above as "code kept to be run again, to find out what is true." A shell pipeline written to settle one question and thrown away is not that. It is read once, believed once and deleted, so the principle does not reach it.
 
@@ -28,3 +28,5 @@ The last is sharpest: the first three were wrong keys, this one the right key wi
 The asymmetry is what makes this a rule rather than care. A scan returning hits is self-checking: the reader looks at them and a wrong one shows. A scan returning nothing is unfalsifiable from its own output — blind, broken, wrongly keyed and genuinely clean are one result.
 
 Filed rather than written because it changes a domain and may be the wrong shape: a widening of `Negative Control`, a rule of its own, or a line elsewhere.
+
+Still unwritten on 2026-08-27. `Negative Control` stands on `pages/domain/instrument.domain.md` over the same definition — "code kept to be run again, to find out what is true" — and `one-off`, `throwaway`, `thrown away`, `scan returning nothing` and `all-clear` across all 1162 tracked `*.domain.md`, `*.page-type.md`, `*.command.md` and `*.role.md` pages reach only unrelated senses of the word.
