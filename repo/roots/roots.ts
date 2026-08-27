@@ -10,7 +10,31 @@ export const AKASHA = "akasha"
 
 export const INSTRUCTIONS = "instructions"
 
-export const HERE = resolve(import.meta.dir, "..", "..")
+/**
+ * Where this repository is on disk, for every root worked out from it.
+ *
+ * `AKASHA_ROOT` FIRST, then this file's own place. `rootOf` already prefers that variable for
+ * every repository, this one included, so a caller that set it and a `HERE` that ignored it gave
+ * two answers for one repository — and `HERE` won, silently, for the pages read at import.
+ *
+ * A BUILD CARRYING NO `import.meta` HAS ONLY THE VARIABLE. Bundled to CommonJS, `import.meta`
+ * compiles to `{}`, so this resolved `undefined` and threw `paths[0] must be of type string`
+ * while the module was still loading — before any caller asked for anything, and fatally for
+ * everything that imports it. The editor extension is such a build, and it names the root.
+ */
+function akashaHere(): string {
+  const stated = process.env[rootEnvName(AKASHA)]
+  if (stated !== undefined && stated !== "") return resolve(stated)
+  const dir: string | undefined = import.meta.dir
+  if (dir === undefined || dir === "") {
+    throw new Error(
+      `this build reads no \`import.meta\`, so nothing in it says where \`${AKASHA}\` is — a build like this names it in \`${rootEnvName(AKASHA)}\``
+    )
+  }
+  return resolve(dir, "..", "..")
+}
+
+export const HERE = akashaHere()
 
 export const QUARANTINE_ROOT = "dirty"
 

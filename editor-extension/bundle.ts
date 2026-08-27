@@ -28,6 +28,21 @@ const OUT = join(HERE, "dist")
 
 const WATCH = "--watch"
 
+// WHERE AKASHA IS, SAID BEFORE ANY BUNDLED MODULE RUNS. Several modules under `akasha` work
+// their own root out from `import.meta`, which a CommonJS bundle does not carry — it compiles
+// to `{}`. Each of them reads `AKASHA_ROOT` ahead of it and says so in its refusal, but nothing
+// was setting the variable, so the whole extension died at load on the first one reached.
+//
+// FROM `__dirname`, which CommonJS does carry, rather than a path written in at build time.
+// `dist/extension.js` sits two below the checkout, and the artefact Alan runs reaches it through
+// a symlink into that same checkout, so the bundle finds the tree it was built from wherever it
+// is copied or linked. Left alone where a caller already set it, so a run against another
+// checkout keeps the root it named.
+const BANNER = [
+  `const { resolve: akashaResolve } = require("node:path")`,
+  `process.env.AKASHA_ROOT ||= akashaResolve(__dirname, "..", "..")`,
+].join("\n")
+
 const OPTIONS: esbuild.BuildOptions = {
   platform: "node",
   format: "cjs",
@@ -38,6 +53,7 @@ const OPTIONS: esbuild.BuildOptions = {
   sourcemap: true,
   target: ["es2024"],
   external: ["vscode"],
+  banner: { js: BANNER },
   entryPoints: [join(SOURCE, "extension.ts")],
   outdir: OUT,
   logOverride: { "import-is-undefined": "error" },
