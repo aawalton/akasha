@@ -32,7 +32,7 @@ export function decideTurnEnd(keeper: Keeper, agent: string, stdin: string): num
   let out = ""
   try {
     const ran = Bun.spawnSync({
-      cmd: ["timeout", PATIENCE, "ops", "akasha", "turn-end-decide", "--agent", agent],
+      cmd: ["timeout", PATIENCE, "ops", "seat", "turn-end", "decide", "--agent", agent],
       stdin: Buffer.from(stdin),
       stdout: "pipe",
       stderr: Bun.file(said),

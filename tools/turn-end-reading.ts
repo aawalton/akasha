@@ -16,7 +16,7 @@ import {
 const HELP = `bun tools/turn-end-reading.ts — read one turn end against what annoys its principal
 
 Reads the turn that just ended off its transcript and asks a model one question: will this
-ending annoy Alan? It refuses nothing and starts no seat: \`ops akasha turn-end-decide\`
+ending annoy Alan? It refuses nothing and starts no seat: \`ops seat turn-end decide\`
 asks for this reading and decides on it.
 
 ONE QUESTION, NOT A LIST. There is no mode here and no set of named cases to fall into. The

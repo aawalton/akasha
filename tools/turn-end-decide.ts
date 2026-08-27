@@ -30,7 +30,7 @@ the plan stops it, writes the refusal to stderr, and exits 0 to allow or 2 to re
 THIS IS THE DECISION. The hook that calls it settles who it is and whether this guard is the one
 holding the seat — a seat nothing can identify, and a seat in the other mode — and everything after
 that is decided here, once, for both hooks. An on-call turn end is read by
-\`ops akasha turn-end-reading\`; every other is decided from what the seat holds and from what
+\`ops seat turn-end read\`; every other is decided from what the seat holds and from what
 would start it, with no model called.
 
 THE REFUSAL TEXT COMES FROM THE READING. A refused turn is told what about its ending will annoy
@@ -95,8 +95,9 @@ function judgeRead(args: {
   const ran = spawnSync(
     "ops",
     [
-      "akasha",
-      "turn-end-reading",
+      "seat",
+      "turn-end",
+      "read",
       "--transcript",
       args.transcript,
       ...(args.pending ? ["--pending"] : []),
