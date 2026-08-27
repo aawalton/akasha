@@ -63,7 +63,10 @@ describe("ops instructions reaches — the answer is derived from the tree on th
   })
 
   test("a node id's prefix says which repository the path names, and this one is left out", () => {
-    const seed = `${SEAM}const SEED = "ts-file:instructions:packages/one/src/first.ts"\nconsole.log(SEED)\n`
+    // `akasha` IS THE REPOSITORY THIS COMMAND RUNS IN. The prefix was `instructions`, a repository
+    // absorbed into akasha: `repoNamed` puts a prefix through `isAddressable`, which answers no for
+    // a repo no `pages/repo` page names, so the node id read as a bare path and was published.
+    const seed = `${SEAM}const SEED = "ts-file:akasha:packages/one/src/first.ts"\nconsole.log(SEED)\n`
     within(tree({ "tools/lib/table.ts": seed }), (found) => {
       expect(refs(found)).toEqual([])
       expect(found.ambiguous).toEqual([])
