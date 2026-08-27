@@ -1,0 +1,22 @@
+{
+  "extends": "../addons/tsconfig.base.json",
+  "compilerOptions": {
+    "module": "esnext",
+    "moduleResolution": "bundler",
+    "isolatedModules": true,
+    "rootDir": "../..",
+    "outDir": "../addons/dist/TemperHousing",
+    "target": "ESNext",
+    "strict": true,
+    "types": []
+  },
+  "tstl": {
+    "luaTarget": "5.1",
+    "luaBundle": "TemperHousing.lua",
+    "luaBundleEntry": "./src/main.ts",
+    "luaLibImport": "require-minimal",
+    "noImplicitSelf": true
+  },
+  "include": ["src/**/*.ts", "../addons/types/eso/**/*.d.ts", "../addons/types/libs/**/*.d.ts"],
+  "exclude": ["src/**/*.test.ts"]
+}

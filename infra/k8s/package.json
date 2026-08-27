@@ -1,0 +1,24 @@
+{
+  "name": "@infra/k8s",
+  "functionalType": "io",
+  "private": true,
+  "exports": {
+    "./app-namespaces/synth": "./src/app-namespaces/synth.ts",
+    "./cloudflared/discover-routes": "./src/cloudflared/discover-routes.ts",
+    "./cloudflared/types": "./src/cloudflared/types.ts",
+    "./prometheus/synth-alerts": "./src/prometheus/synth-alerts.ts",
+    "./*": "./src/*.ts"
+  },
+  "dependencies": {
+    "@infra/k8s-types": "workspace:*",
+    "@shared/pages-query": "workspace:*",
+    "@shared/supabase-auth": "workspace:*",
+    "@shared/supabase-client": "workspace:*",
+    "@shared/supabase-server": "workspace:*",
+    "@shared/utils-narrow": "workspace:*",
+    "@shared/verdict": "workspace:*",
+    "cdk8s": "^2.70.60",
+    "yaml": "^2.8.0",
+    "zod": "^4.3.6"
+  }
+}

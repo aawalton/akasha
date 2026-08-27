@@ -1,0 +1,21 @@
+{
+  "extends": "../../tsconfig.base.json",
+  "compilerOptions": {
+    "jsx": "react-jsx",
+    "lib": ["dom", "dom.iterable", "esnext"],
+    "types": ["@types/bun", "node", "vite/client"],
+    "rootDirs": [".", "./.react-router/types"],
+    "paths": {
+      "@/*": ["../*"],
+      "~/*": ["../app/*"]
+    },
+    "noEmit": true
+  },
+  "include": [
+    "./**/*.ts",
+    "./**/*.tsx",
+    ".react-router/types/**/*.ts",
+    ".react-router/types/**/*.tsx"
+  ],
+  "exclude": ["node_modules", "build", "dist"]
+}

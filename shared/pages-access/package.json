@@ -1,0 +1,39 @@
+{
+  "name": "@shared/pages-access",
+  "functionalType": "access",
+  "version": "0.1.0",
+  "type": "module",
+  "private": true,
+  "exports": {
+    ".": "./src/index.ts",
+    "./answer": "./src/answer.ts",
+    "./answer-write": "./src/answer-write.ts",
+    "./file-name": "./src/file-name.ts",
+    "./file-page-name": "./src/file-page-name.ts",
+    "./file-read": "./src/file-read.ts",
+    "./file-rows": "./src/file-rows.ts",
+    "./file-shape": "./src/file-shape.ts",
+    "./file-write": "./src/file-write.ts",
+    "./over-server": "./src/over-server.ts",
+    "./test-support": "./src/test-support.ts",
+    "./*": "./src/*.ts"
+  },
+  "dependencies": {
+    "@shared/errors-core": "workspace:*",
+    "@shared/pages-core": "workspace:*",
+    "@shared/pages-query": "workspace:*",
+    "@shared/pages-url": "workspace:*",
+    "@shared/supabase-database": "workspace:*",
+    "@shared/utils-narrow": "workspace:*",
+    "zod": "^4.3.6"
+  },
+  "scripts": {
+    "typecheck": "bunx @typescript/native-preview -b",
+    "lint": "biome check .",
+    "lint:fix": "biome check --write ."
+  },
+  "devDependencies": {
+    "@types/bun": "^1.3.9",
+    "typescript": "^5.8.3"
+  }
+}

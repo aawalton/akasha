@@ -1,0 +1,23 @@
+{
+  "name": "@shared/utils-sync",
+  "functionalType": "io",
+  "type": "module",
+  "private": true,
+  "exports": {
+    "./page-type-props": "./src/page-type-props.ts",
+    "./*": "./src/*.ts"
+  },
+  "scripts": {
+    "typecheck": "bunx @typescript/native-preview -b"
+  },
+  "dependencies": {
+    "@shared/pages-access": "workspace:*",
+    "@shared/pages-core": "workspace:*",
+    "@shared/pages-query": "workspace:*",
+    "@shared/supabase-auth": "workspace:*",
+    "@shared/supabase-server": "workspace:*"
+  },
+  "devDependencies": {
+    "@types/bun": "^1.3.9"
+  }
+}

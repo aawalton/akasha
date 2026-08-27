@@ -1,0 +1,23 @@
+{
+  "name": "@temper/game-companions-addon",
+  "dependencies": {
+    "@shared/design-tokens": "workspace:*",
+    "@temper/shared-build-deploy-addon-bundle-runtime": "workspace:*",
+    "@temper/shared-capture-perf": "workspace:*",
+    "@temper/shared-foundation-misc-codec": "workspace:*",
+    "@temper/shared-interface-lam": "workspace:*",
+    "@temper/shared-narrow": "workspace:*"
+  },
+  "devDependencies": {
+    "typescript": "^5.8.3",
+    "@temper/game-codec": "workspace:*",
+    "@temper/game-companions-core": "workspace:*",
+    "@temper/shared-formula-framework": "workspace:*"
+  },
+  "functionalType": "addon",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "typecheck": "bunx @typescript/native-preview --noEmit -p tsconfig.json"
+  }
+}

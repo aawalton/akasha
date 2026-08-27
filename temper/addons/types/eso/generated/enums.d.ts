@@ -1,0 +1,5127 @@
+// Generated from the ~/esoui clone by ops eso generate-typings
+// ESO-API-Version: 101050  (source freshness marker; verified by check-eso-typings-fresh)
+// ESO Enum Constants (Auto-generated — opt-in scoped)
+// Generated from ESOUIDocumentation.txt by ops eso generate-typings.
+// Do not edit by hand; add tokens to the manifest and regenerate.
+
+// ActionBarSlotType
+type ActionBarSlotType = number
+declare const ACTION_TYPE_ABILITY: number
+declare const ACTION_TYPE_CHAMPION_SKILL: number
+declare const ACTION_TYPE_COLLECTIBLE: number
+declare const ACTION_TYPE_CRAFTED_ABILITY: number
+declare const ACTION_TYPE_EMOTE: number
+declare const ACTION_TYPE_ITEM: number
+declare const ACTION_TYPE_NOTHING: number
+declare const ACTION_TYPE_QUEST_ITEM: number
+declare const ACTION_TYPE_QUICK_CHAT: number
+declare const ACTION_TYPE_VENGEANCE_PERK: number
+
+// ActionSlotType
+type ActionSlotType = number
+declare const ACTION_SLOT_TYPE_BLOCK: number
+declare const ACTION_SLOT_TYPE_HEAVY_ATTACK: number
+declare const ACTION_SLOT_TYPE_LIGHT_ATTACK: number
+declare const ACTION_SLOT_TYPE_NORMAL_ABILITY: number
+declare const ACTION_SLOT_TYPE_OTHER: number
+declare const ACTION_SLOT_TYPE_ULTIMATE: number
+declare const ACTION_SLOT_TYPE_WEAPON_ATTACK: number
+
+// Alliance
+type Alliance = number
+declare const ALLIANCE_ALDMERI_DOMINION: number
+declare const ALLIANCE_DAGGERFALL_COVENANT: number
+declare const ALLIANCE_EBONHEART_PACT: number
+declare const ALLIANCE_NONE: number
+
+// BonusDropSource
+type BonusDropSource = number
+declare const BONUS_DROP_SOURCE_COMPANION: number
+declare const BONUS_DROP_SOURCE_NONE: number
+
+// BookMedium
+type BookMedium = number
+declare const BOOK_MEDIUM_ANIMAL_SKIN: number
+declare const BOOK_MEDIUM_BLOODY_YELLOWED_PAPER: number
+declare const BOOK_MEDIUM_ELVEN_SCROLL: number
+declare const BOOK_MEDIUM_LETTER: number
+declare const BOOK_MEDIUM_METAL: number
+declare const BOOK_MEDIUM_METAL_TABLET: number
+declare const BOOK_MEDIUM_NONE: number
+declare const BOOK_MEDIUM_NOTE: number
+declare const BOOK_MEDIUM_RUBBING_PAPER: number
+declare const BOOK_MEDIUM_SCROLL: number
+declare const BOOK_MEDIUM_STONE_TABLET: number
+declare const BOOK_MEDIUM_YELLOWED_PAPER: number
+
+// BuffEffectType
+type BuffEffectType = number
+declare const BUFF_EFFECT_TYPE_BUFF: number
+declare const BUFF_EFFECT_TYPE_DEBUFF: number
+declare const BUFF_EFFECT_TYPE_NOT_AN_EFFECT: number
+
+// CadwellProgressionLevel
+type CadwellProgressionLevel = number
+declare const CADWELL_PROGRESSION_LEVEL_BRONZE: number
+declare const CADWELL_PROGRESSION_LEVEL_GOLD: number
+declare const CADWELL_PROGRESSION_LEVEL_SILVER: number
+
+// CenterScreenAnnounceType
+type CenterScreenAnnounceType = number
+declare const CENTER_SCREEN_ANNOUNCE_TYPE_ABILITY_PROGRESSION_RANK_MORPH: number
+declare const CENTER_SCREEN_ANNOUNCE_TYPE_ABILITY_PROGRESSION_RANK_UPDATE: number
+declare const CENTER_SCREEN_ANNOUNCE_TYPE_ACHIEVEMENT_AWARDED: number
+declare const CENTER_SCREEN_ANNOUNCE_TYPE_ACTIVITY_COMPLETE: number
+declare const CENTER_SCREEN_ANNOUNCE_TYPE_ANTIQUITY_DIGGING_GAME_UPDATE: number
+declare const CENTER_SCREEN_ANNOUNCE_TYPE_ANTIQUITY_DIG_SITES_UPDATED: number
+declare const CENTER_SCREEN_ANNOUNCE_TYPE_ANTIQUITY_LEAD_ACQUIRED: number
+declare const CENTER_SCREEN_ANNOUNCE_TYPE_ANTIQUITY_SCRYING_RESULT: number
+declare const CENTER_SCREEN_ANNOUNCE_TYPE_ARTIFACT_CONTROL_STATE: number
+declare const CENTER_SCREEN_ANNOUNCE_TYPE_AVENGE_KILL: number
+declare const CENTER_SCREEN_ANNOUNCE_TYPE_BAG_CAPACITY_CHANGED: number
+declare const CENTER_SCREEN_ANNOUNCE_TYPE_BANK_CAPACITY_CHANGED: number
+declare const CENTER_SCREEN_ANNOUNCE_TYPE_BATTLEGROUND_MINUTE_WARNING: number
+declare const CENTER_SCREEN_ANNOUNCE_TYPE_BATTLEGROUND_NEARING_VICTORY: number
+declare const CENTER_SCREEN_ANNOUNCE_TYPE_BATTLEGROUND_OBJECTIVE: number
+declare const CENTER_SCREEN_ANNOUNCE_TYPE_BATTLEGROUND_ROUND_STARTING: number
+declare const CENTER_SCREEN_ANNOUNCE_TYPE_CHAMPION_LEVEL_ACHIEVED: number
+declare const CENTER_SCREEN_ANNOUNCE_TYPE_CHAMPION_POINT_GAINED: number
+declare const CENTER_SCREEN_ANNOUNCE_TYPE_COLLECTIBLES_UPDATED: number
+declare const CENTER_SCREEN_ANNOUNCE_TYPE_COMPANION_ACTIVE_SKILL_UNLOCKED: number
+declare const CENTER_SCREEN_ANNOUNCE_TYPE_COMPANION_SKILL_LINE_ADDED: number
+declare const CENTER_SCREEN_ANNOUNCE_TYPE_CONSOLIDATED_STATION_SETS_UPDATED: number
+declare const CENTER_SCREEN_ANNOUNCE_TYPE_CORONATE_EMPEROR: number
+declare const CENTER_SCREEN_ANNOUNCE_TYPE_COUNTDOWN: number
+declare const CENTER_SCREEN_ANNOUNCE_TYPE_CRAFTING_RESULTS: number
+declare const CENTER_SCREEN_ANNOUNCE_TYPE_CYRODIIL_KEEP_REWARD: number
+declare const CENTER_SCREEN_ANNOUNCE_TYPE_DAEDRIC_ARTIFACT_OBJECTIVE_STATE_CHANGED: number
+declare const CENTER_SCREEN_ANNOUNCE_TYPE_DAILY_LOGIN_REWARD_CLAIMED: number
+declare const CENTER_SCREEN_ANNOUNCE_TYPE_DEPOSE_EMPEROR: number
+declare const CENTER_SCREEN_ANNOUNCE_TYPE_DISCOVERY_EXPERIENCE: number
+declare const CENTER_SCREEN_ANNOUNCE_TYPE_DISPLAY_ANNOUNCEMENT: number
+declare const CENTER_SCREEN_ANNOUNCE_TYPE_DUEL_COUNTDOWN: number
+declare const CENTER_SCREEN_ANNOUNCE_TYPE_DUEL_FINISHED: number
+declare const CENTER_SCREEN_ANNOUNCE_TYPE_DUEL_NEAR_BOUNDARY: number
+declare const CENTER_SCREEN_ANNOUNCE_TYPE_ENDLESS_DUNGEON_ATTEMPTS_REMAINING_CHANGED: number
+declare const CENTER_SCREEN_ANNOUNCE_TYPE_ENDLESS_DUNGEON_BUFF_ADDED: number
+declare const CENTER_SCREEN_ANNOUNCE_TYPE_ENDLESS_DUNGEON_PROGRESS: number
+declare const CENTER_SCREEN_ANNOUNCE_TYPE_ENLIGHTENMENT_GAINED: number
+declare const CENTER_SCREEN_ANNOUNCE_TYPE_ENLIGHTENMENT_LOST: number
+declare const CENTER_SCREEN_ANNOUNCE_TYPE_ESO_PLUS_SUBSCRIPTION_CHANGED: number
+declare const CENTER_SCREEN_ANNOUNCE_TYPE_EXPERIENCE_GAIN: number
+declare const CENTER_SCREEN_ANNOUNCE_TYPE_FORCE_RESPEC: number
+declare const CENTER_SCREEN_ANNOUNCE_TYPE_JUSTICE_INFAMY_CHANGED: number
+declare const CENTER_SCREEN_ANNOUNCE_TYPE_JUSTICE_NOW_KOS: number
+declare const CENTER_SCREEN_ANNOUNCE_TYPE_JUSTICE_NO_LONGER_KOS: number
+declare const CENTER_SCREEN_ANNOUNCE_TYPE_KEEP_GATE_CHANGED: number
+declare const CENTER_SCREEN_ANNOUNCE_TYPE_LEVEL_GAIN: number
+declare const CENTER_SCREEN_ANNOUNCE_TYPE_LORE_BOOK_LEARNED: number
+declare const CENTER_SCREEN_ANNOUNCE_TYPE_LORE_BOOK_LEARNED_SKILL_EXPERIENCE: number
+declare const CENTER_SCREEN_ANNOUNCE_TYPE_LORE_COLLECTION_COMPLETED: number
+declare const CENTER_SCREEN_ANNOUNCE_TYPE_LORE_COLLECTION_COMPLETED_SKILL_EXPERIENCE: number
+declare const CENTER_SCREEN_ANNOUNCE_TYPE_OBJECTIVE_COMPLETED: number
+declare const CENTER_SCREEN_ANNOUNCE_TYPE_OUTFIT_CHANGES_APPLIED: number
+declare const CENTER_SCREEN_ANNOUNCE_TYPE_PLEDGE_OF_MARA_RESULT: number
+declare const CENTER_SCREEN_ANNOUNCE_TYPE_POI_DISCOVERED: number
+declare const CENTER_SCREEN_ANNOUNCE_TYPE_PROMOTIONAL_EVENT_REWARD_CLAIMED: number
+declare const CENTER_SCREEN_ANNOUNCE_TYPE_QUEST_ADDED: number
+declare const CENTER_SCREEN_ANNOUNCE_TYPE_QUEST_COMPLETED: number
+declare const CENTER_SCREEN_ANNOUNCE_TYPE_QUEST_CONDITION_COMPLETED: number
+declare const CENTER_SCREEN_ANNOUNCE_TYPE_QUEST_PROGRESSION_CHANGED: number
+declare const CENTER_SCREEN_ANNOUNCE_TYPE_RAID_TRIAL: number
+declare const CENTER_SCREEN_ANNOUNCE_TYPE_REVENGE_KILL: number
+declare const CENTER_SCREEN_ANNOUNCE_TYPE_RIDING_SKILL_IMPROVEMENT: number
+declare const CENTER_SCREEN_ANNOUNCE_TYPE_SINGLE_COLLECTIBLE_UPDATED: number
+declare const CENTER_SCREEN_ANNOUNCE_TYPE_SINGLE_TRIBUTE_CARD_UPDATED: number
+declare const CENTER_SCREEN_ANNOUNCE_TYPE_SKILL_LINE_ADDED: number
+declare const CENTER_SCREEN_ANNOUNCE_TYPE_SKILL_POINTS_GAINED: number
+declare const CENTER_SCREEN_ANNOUNCE_TYPE_SKILL_POINTS_PARTIAL_GAINED: number
+declare const CENTER_SCREEN_ANNOUNCE_TYPE_SKILL_RANK_UPDATE: number
+declare const CENTER_SCREEN_ANNOUNCE_TYPE_SKILL_XP_UPDATE: number
+declare const CENTER_SCREEN_ANNOUNCE_TYPE_SYSTEM_BROADCAST: number
+declare const CENTER_SCREEN_ANNOUNCE_TYPE_TIMED_ACTIVITY_COMPLETED: number
+declare const CENTER_SCREEN_ANNOUNCE_TYPE_TRIBUTE_CLUB_RANK_CHANGED: number
+declare const CENTER_SCREEN_ANNOUNCE_TYPE_TRIBUTE_GAME_STATE_CHANGED: number
+declare const CENTER_SCREEN_ANNOUNCE_TYPE_VENGEANCE_LOADOUT_EQUIPPED: number
+declare const CENTER_SCREEN_ANNOUNCE_TYPE_VETERANCY_MAX_REWARD_CLAIMED: number
+declare const CENTER_SCREEN_ANNOUNCE_TYPE_VETERANCY_RANK_UP: number
+
+// CenterScreenAnnouncementCategory
+type CenterScreenAnnouncementCategory = number
+declare const CSA_CATEGORY_ANIMATED_CONTROL: number
+declare const CSA_CATEGORY_COUNTDOWN_TEXT: number
+declare const CSA_CATEGORY_ENDLESS_DUNGEON_STAGE_STARTED_TEXT: number
+declare const CSA_CATEGORY_EXTERNAL_HANDLE: number
+declare const CSA_CATEGORY_INVALID: number
+declare const CSA_CATEGORY_LARGE_TEXT: number
+declare const CSA_CATEGORY_MAJOR_TEXT: number
+declare const CSA_CATEGORY_NO_TEXT: number
+declare const CSA_CATEGORY_RAID_COMPLETE_TEXT: number
+declare const CSA_CATEGORY_ROLLING_METER_PROGRESS_TEXT: number
+declare const CSA_CATEGORY_SCRYING_PROGRESS_TEXT: number
+declare const CSA_CATEGORY_SMALL_TEXT: number
+
+// DifficultyCon
+type DifficultyCon = number
+declare const CON_APPROPRIATE: number
+declare const CON_DIFFICULT: number
+declare const CON_EASY: number
+declare const CON_IMPOSSIBLE: number
+declare const CON_TRIVIAL: number
+
+// DungeonDifficulty
+type DungeonDifficulty = number
+declare const DUNGEON_DIFFICULTY_NONE: number
+declare const DUNGEON_DIFFICULTY_NORMAL: number
+declare const DUNGEON_DIFFICULTY_VETERAN: number
+
+// EmoteCategory
+type EmoteCategory = number
+declare const EMOTE_CATEGORY_CEREMONIAL: number
+declare const EMOTE_CATEGORY_CHEERS_AND_JEERS: number
+declare const EMOTE_CATEGORY_COLLECTED: number
+declare const EMOTE_CATEGORY_DEPRECATED: number
+declare const EMOTE_CATEGORY_EMOTION: number
+declare const EMOTE_CATEGORY_ENTERTAINMENT: number
+declare const EMOTE_CATEGORY_FOOD_AND_DRINK: number
+declare const EMOTE_CATEGORY_GIVE_DIRECTIONS: number
+declare const EMOTE_CATEGORY_INVALID: number
+declare const EMOTE_CATEGORY_PERPETUAL: number
+declare const EMOTE_CATEGORY_PERSONALITY_OVERRIDE: number
+declare const EMOTE_CATEGORY_PHYSICAL: number
+declare const EMOTE_CATEGORY_POSES_AND_FIDGETS: number
+declare const EMOTE_CATEGORY_PROP: number
+declare const EMOTE_CATEGORY_SOCIAL: number
+
+// GameplayActorCategory
+type GameplayActorCategory = number
+declare const GAMEPLAY_ACTOR_CATEGORY_COMPANION: number
+declare const GAMEPLAY_ACTOR_CATEGORY_PLAYER: number
+
+// Gender
+type Gender = number
+declare const GENDER_FEMALE: number
+declare const GENDER_MALE: number
+declare const GENDER_NEUTER: number
+
+// InstanceType
+type InstanceType = number
+declare const INSTANCE_TYPE_BATTLEGROUND: number
+declare const INSTANCE_TYPE_GATEABLE_DUNGEON: number
+declare const INSTANCE_TYPE_GRADUATION_MOMENT: number
+declare const INSTANCE_TYPE_GROUP: number
+declare const INSTANCE_TYPE_HOUSING: number
+declare const INSTANCE_TYPE_NONE: number
+declare const INSTANCE_TYPE_PUBLIC_DUNGEON: number
+declare const INSTANCE_TYPE_RAID: number
+declare const INSTANCE_TYPE_SOLO: number
+
+// LinkStyle
+type LinkStyle = number
+declare const LINK_STYLE_BRACKETS: number
+declare const LINK_STYLE_DEFAULT: number
+
+// LinkType
+type LinkType = number
+declare const LINK_TYPE_ABILITY: number
+declare const LINK_TYPE_ACHIEVEMENT: number
+declare const LINK_TYPE_BOOK: number
+declare const LINK_TYPE_COLLECTIBLE: number
+declare const LINK_TYPE_CRAFTED_ABILITY: number
+declare const LINK_TYPE_GUILD: number
+declare const LINK_TYPE_HELP: number
+declare const LINK_TYPE_HOUSING: number
+declare const LINK_TYPE_INVALID: number
+declare const LINK_TYPE_ITEM: number
+declare const LINK_TYPE_QUEST_ITEM: number
+
+// LootItemType
+type LootItemType = number
+declare const LOOT_TYPE_ANTIQUITY_LEAD: number
+declare const LOOT_TYPE_ANY: number
+declare const LOOT_TYPE_COLLECTIBLE: number
+declare const LOOT_TYPE_CURRENCY: number
+declare const LOOT_TYPE_DEPRECATED_1: number
+declare const LOOT_TYPE_DEPRECATED_2: number
+declare const LOOT_TYPE_DEPRECATED_3: number
+declare const LOOT_TYPE_DEPRECATED_4: number
+declare const LOOT_TYPE_DEPRECATED_5: number
+declare const LOOT_TYPE_DEPRECATED_6: number
+declare const LOOT_TYPE_DEPRECATED_7: number
+declare const LOOT_TYPE_DEPRECATED_8: number
+declare const LOOT_TYPE_ITEM: number
+declare const LOOT_TYPE_QUEST_ITEM: number
+declare const LOOT_TYPE_TRIBUTE_CARD_UPGRADE: number
+
+// MegaServer
+type MegaServer = number
+declare const MEGASERVER_EU: number
+declare const MEGASERVER_NA: number
+declare const MEGASERVER_NONE: number
+
+// MouseContentType
+type MouseContentType = number
+declare const MOUSE_CONTENT_ACTION: number
+declare const MOUSE_CONTENT_COLLECTIBLE: number
+declare const MOUSE_CONTENT_CRAFTED_ABILITY: number
+declare const MOUSE_CONTENT_CRAFTED_ABILITY_SCRIPT: number
+declare const MOUSE_CONTENT_EMOTE: number
+declare const MOUSE_CONTENT_EMPTY: number
+declare const MOUSE_CONTENT_EQUIPPED_ITEM: number
+declare const MOUSE_CONTENT_INVENTORY_ITEM: number
+declare const MOUSE_CONTENT_QUEST_ITEM: number
+declare const MOUSE_CONTENT_QUICK_CHAT: number
+declare const MOUSE_CONTENT_STORE_BUYBACK_ITEM: number
+declare const MOUSE_CONTENT_STORE_ITEM: number
+declare const MOUSE_CONTENT_TRADE_ITEM: number
+declare const MOUSE_CONTENT_VENGEANCE_PERK: number
+
+// NonCombatBonusType
+type NonCombatBonusType = number
+declare const NON_COMBAT_BONUS_AGGRO_RADIUS_REDUCTION: number
+declare const NON_COMBAT_BONUS_ALCHEMY_CREATE_EXTRA: number
+declare const NON_COMBAT_BONUS_ALCHEMY_CREATE_PERCENT_DISCOUNT: number
+declare const NON_COMBAT_BONUS_ALCHEMY_LEVEL: number
+declare const NON_COMBAT_BONUS_ALCHEMY_NEGATIVE_DURATION: number
+declare const NON_COMBAT_BONUS_ALCHEMY_POTION_DURATION: number
+declare const NON_COMBAT_BONUS_ALCHEMY_SHOW_NODES: number
+declare const NON_COMBAT_BONUS_ALCHEMY_THIRD_SLOT: number
+declare const NON_COMBAT_BONUS_ALLIANCE_POINT_GAIN: number
+declare const NON_COMBAT_BONUS_ARCHIVAL_FORTUNES_GAIN: number
+declare const NON_COMBAT_BONUS_ARMOR_KNOWLEDGE: number
+declare const NON_COMBAT_BONUS_ASSAULT_BOUNTY_REDUCTION: number
+declare const NON_COMBAT_BONUS_AVA_REACH: number
+declare const NON_COMBAT_BONUS_AVOID_BLADE_OF_WOE_WITNESS_CHANCE: number
+declare const NON_COMBAT_BONUS_BLACKSMITHING_BOOSTER_BONUS: number
+declare const NON_COMBAT_BONUS_BLACKSMITHING_CRAFT_PERCENT_DISCOUNT: number
+declare const NON_COMBAT_BONUS_BLACKSMITHING_EXTRACT_LEVEL: number
+declare const NON_COMBAT_BONUS_BLACKSMITHING_HIRELING_LEVEL: number
+declare const NON_COMBAT_BONUS_BLACKSMITHING_LEVEL: number
+declare const NON_COMBAT_BONUS_BLACKSMITHING_RESEARCH_LEVEL: number
+declare const NON_COMBAT_BONUS_BLACKSMITHING_SHOW_NODES: number
+declare const NON_COMBAT_BONUS_BOUNTY_DECAY: number
+declare const NON_COMBAT_BONUS_CLEMENCY: number
+declare const NON_COMBAT_BONUS_CLEMENCY_ARREST_IMMUNITY: number
+declare const NON_COMBAT_BONUS_CLOTHIER_BOOSTER_BONUS: number
+declare const NON_COMBAT_BONUS_CLOTHIER_CRAFT_PERCENT_DISCOUNT: number
+declare const NON_COMBAT_BONUS_CLOTHIER_EXTRACT_LEVEL: number
+declare const NON_COMBAT_BONUS_CLOTHIER_HIRELING_LEVEL: number
+declare const NON_COMBAT_BONUS_CLOTHIER_LEVEL: number
+declare const NON_COMBAT_BONUS_CLOTHIER_RESEARCH_LEVEL: number
+declare const NON_COMBAT_BONUS_CLOTHIER_SHOW_NODES: number
+declare const NON_COMBAT_BONUS_DIG_SITE_SHOW_NODES: number
+declare const NON_COMBAT_BONUS_DOUBLE_DECONSTRUCTION_REWARDS_CHANCE: number
+declare const NON_COMBAT_BONUS_ENCHANTING_CRAFT_PERCENT_DISCOUNT: number
+declare const NON_COMBAT_BONUS_ENCHANTING_DECONSTRUCTION_UPGRADE: number
+declare const NON_COMBAT_BONUS_ENCHANTING_HIRELING_LEVEL: number
+declare const NON_COMBAT_BONUS_ENCHANTING_LEVEL: number
+declare const NON_COMBAT_BONUS_ENCHANTING_RARITY_LEVEL: number
+declare const NON_COMBAT_BONUS_ENCHANTING_SHOW_NODES: number
+declare const NON_COMBAT_BONUS_ENCHANTING_SLOT_IMPROVEMENT: number
+declare const NON_COMBAT_BONUS_ENLIGHTENED: number
+declare const NON_COMBAT_BONUS_EXTRACTION: number
+declare const NON_COMBAT_BONUS_FAST_TRAVEL_COST_REDUCTION: number
+declare const NON_COMBAT_BONUS_FENCE_HAGGLING: number
+declare const NON_COMBAT_BONUS_FENCE_SALESMAN: number
+declare const NON_COMBAT_BONUS_FISHING_TIME_REDUCTION_PERCENT: number
+declare const NON_COMBAT_BONUS_FORTUNE_SEEKER: number
+declare const NON_COMBAT_BONUS_FREE_POTION_OR_POISON_USE_PERCENT: number
+declare const NON_COMBAT_BONUS_GROOM: number
+declare const NON_COMBAT_BONUS_GUARD_KILL: number
+declare const NON_COMBAT_BONUS_GUARD_PURSUIT_DISTANCE_REDUCTION: number
+declare const NON_COMBAT_BONUS_HEAT_DECAY: number
+declare const NON_COMBAT_BONUS_IMPATIENCE: number
+declare const NON_COMBAT_BONUS_INVALID: number
+declare const NON_COMBAT_BONUS_JEWELRYCRAFTING_BOOSTER_BONUS: number
+declare const NON_COMBAT_BONUS_JEWELRYCRAFTING_CRAFT_PERCENT_DISCOUNT: number
+declare const NON_COMBAT_BONUS_JEWELRYCRAFTING_EXTRACT_LEVEL: number
+declare const NON_COMBAT_BONUS_JEWELRYCRAFTING_HIRELING_LEVEL: number
+declare const NON_COMBAT_BONUS_JEWELRYCRAFTING_LEVEL: number
+declare const NON_COMBAT_BONUS_JEWELRYCRAFTING_RESEARCH_LEVEL: number
+declare const NON_COMBAT_BONUS_JEWELRYCRAFTING_SHOW_NODES: number
+declare const NON_COMBAT_BONUS_MASTER_GATHERER: number
+declare const NON_COMBAT_BONUS_MERCHANT_HAGGLING: number
+declare const NON_COMBAT_BONUS_MOUNTED_AGGRO_RADIUS_REDUCTION: number
+declare const NON_COMBAT_BONUS_MURDER_BOUNTY_REDUCTION: number
+declare const NON_COMBAT_BONUS_PICKPOCKET_CHANCE: number
+declare const NON_COMBAT_BONUS_PROVISIONING_CREATE_EXTRA_DRINK: number
+declare const NON_COMBAT_BONUS_PROVISIONING_CREATE_EXTRA_FOOD: number
+declare const NON_COMBAT_BONUS_PROVISIONING_DRINK_DURATION: number
+declare const NON_COMBAT_BONUS_PROVISIONING_FOOD_DURATION: number
+declare const NON_COMBAT_BONUS_PROVISIONING_HIRELING_LEVEL: number
+declare const NON_COMBAT_BONUS_PROVISIONING_LEVEL: number
+declare const NON_COMBAT_BONUS_PROVISIONING_RARITY_LEVEL: number
+declare const NON_COMBAT_BONUS_PROVISIONING_SHOW_NODES: number
+declare const NON_COMBAT_BONUS_PVP_EXP: number
+declare const NON_COMBAT_BONUS_SECONDARY_WITNESS_RANGE_REDUCTION: number
+declare const NON_COMBAT_BONUS_SHADOWY_CONNECTIONS: number
+declare const NON_COMBAT_BONUS_SLOTTED_ABILITY_EXP: number
+declare const NON_COMBAT_BONUS_SLY: number
+declare const NON_COMBAT_BONUS_SOUL_GEM_FREE_RESURRECT_PERCENT_CHANCE: number
+declare const NON_COMBAT_BONUS_TELVAR_MULTIPLIER: number
+declare const NON_COMBAT_BONUS_TIMELY_ESCAPE: number
+declare const NON_COMBAT_BONUS_TOME_POINTS_GAIN: number
+declare const NON_COMBAT_BONUS_TRAIT_IDENTIFIER: number
+declare const NON_COMBAT_BONUS_TREASURE_SHOW_NODES: number
+declare const NON_COMBAT_BONUS_UNUSED: number
+declare const NON_COMBAT_BONUS_VETERANCY_PROGRESS_GAIN: number
+declare const NON_COMBAT_BONUS_WEAPON_ENCHANT_DECAY_RATE: number
+declare const NON_COMBAT_BONUS_WITNESS_RANGE_REDUCTION: number
+declare const NON_COMBAT_BONUS_WOODWORKING_BOOSTER_BONUS: number
+declare const NON_COMBAT_BONUS_WOODWORKING_CRAFT_PERCENT_DISCOUNT: number
+declare const NON_COMBAT_BONUS_WOODWORKING_EXTRACT_LEVEL: number
+declare const NON_COMBAT_BONUS_WOODWORKING_HIRELING_LEVEL: number
+declare const NON_COMBAT_BONUS_WOODWORKING_LEVEL: number
+declare const NON_COMBAT_BONUS_WOODWORKING_RESEARCH_LEVEL: number
+declare const NON_COMBAT_BONUS_WOODWORKING_SHOW_NODES: number
+
+// NotificationType
+type NotificationType = number
+declare const NOTIFICATION_TYPE_CAMPAIGN_QUEUE: number
+declare const NOTIFICATION_TYPE_COLLECTIONS: number
+declare const NOTIFICATION_TYPE_CONSOLE_ADDON_MEMORY_LIMIT_REACHED: number
+declare const NOTIFICATION_TYPE_CONSOLE_ADDON_SAVED_VARIABLES_LIMIT_REACHED: number
+declare const NOTIFICATION_TYPE_CRAFTED_ABILITY_RESET: number
+declare const NOTIFICATION_TYPE_CRAFT_BAG_AUTO_TRANSFER: number
+declare const NOTIFICATION_TYPE_CUSTOMER_SERVICE: number
+declare const NOTIFICATION_TYPE_DISABLED_ADDON: number
+declare const NOTIFICATION_TYPE_DUEL: number
+declare const NOTIFICATION_TYPE_ESO_PLUS_SUBSCRIPTION: number
+declare const NOTIFICATION_TYPE_EXPIRING_MARKET_CURRENCY: number
+declare const NOTIFICATION_TYPE_FRIEND: number
+declare const NOTIFICATION_TYPE_GIFT_CLAIMED: number
+declare const NOTIFICATION_TYPE_GIFT_RECEIVED: number
+declare const NOTIFICATION_TYPE_GIFT_RETURNED: number
+declare const NOTIFICATION_TYPE_GROUP: number
+declare const NOTIFICATION_TYPE_GROUP_ELECTION: number
+declare const NOTIFICATION_TYPE_GUILD: number
+declare const NOTIFICATION_TYPE_GUILD_MOTD: number
+declare const NOTIFICATION_TYPE_GUILD_NEW_APPLICATIONS: number
+declare const NOTIFICATION_TYPE_HOUSE_TOURS_HOUSE_RECOMMENDED: number
+declare const NOTIFICATION_TYPE_LEADERBOARD: number
+declare const NOTIFICATION_TYPE_LFG: number
+declare const NOTIFICATION_TYPE_MARKET_PRODUCT_AVAILABLE: number
+declare const NOTIFICATION_TYPE_NEW_DAILY_LOGIN_REWARD: number
+declare const NOTIFICATION_TYPE_OUT_OF_DATE_ADDONS: number
+declare const NOTIFICATION_TYPE_PLAYER_APPLICATIONS: number
+declare const NOTIFICATION_TYPE_PLEDGE_OF_MARA: number
+declare const NOTIFICATION_TYPE_POINTS_RESET: number
+declare const NOTIFICATION_TYPE_QUEST_SHARE: number
+declare const NOTIFICATION_TYPE_RESURRECT: number
+declare const NOTIFICATION_TYPE_SCRIPTED_WORLD_EVENT: number
+declare const NOTIFICATION_TYPE_SLOTS_RESET: number
+declare const NOTIFICATION_TYPE_SPECTACLE_EVENT_PHASE_CHANGED: number
+declare const NOTIFICATION_TYPE_TRADE: number
+declare const NOTIFICATION_TYPE_TRIBUTE_INVITE: number
+declare const NOTIFICATION_TYPE_VETERANCY_RANKED_UP_HAS_REWARDS: number
+
+// NumberAbbreviationPrecision
+type NumberAbbreviationPrecision = number
+declare const NUMBER_ABBREVIATION_PRECISION_HUNDREDTHS: number
+declare const NUMBER_ABBREVIATION_PRECISION_LARGEST_UNIT: number
+declare const NUMBER_ABBREVIATION_PRECISION_TENTHS: number
+
+// PlayerStatus
+type PlayerStatus = number
+declare const PLAYER_STATUS_AWAY: number
+declare const PLAYER_STATUS_DO_NOT_DISTURB: number
+declare const PLAYER_STATUS_OFFLINE: number
+declare const PLAYER_STATUS_ONLINE: number
+
+// ProgressReason
+type ProgressReason = number
+declare const PROGRESS_REASON_ACHIEVEMENT: number
+declare const PROGRESS_REASON_ACTION: number
+declare const PROGRESS_REASON_ALLIANCE_POINTS: number
+declare const PROGRESS_REASON_ANTIQUITY_COMPLETED_DIGGING: number
+declare const PROGRESS_REASON_ANTIQUITY_COMPLETED_SCRYING: number
+declare const PROGRESS_REASON_AVA: number
+declare const PROGRESS_REASON_AZ_SKIRMISH_COMPLETED: number
+declare const PROGRESS_REASON_BATTLEGROUND: number
+declare const PROGRESS_REASON_BOOK_COLLECTION_COMPLETE: number
+declare const PROGRESS_REASON_BOSS_KILL: number
+declare const PROGRESS_REASON_CHARACTER_UPGRADE: number
+declare const PROGRESS_REASON_COLLECT_BOOK: number
+declare const PROGRESS_REASON_COMMAND: number
+declare const PROGRESS_REASON_COMPLETE_POI: number
+declare const PROGRESS_REASON_DARK_ANCHOR_CLOSED: number
+declare const PROGRESS_REASON_DARK_FISSURE_CLOSED: number
+declare const PROGRESS_REASON_DISCOVER_POI: number
+declare const PROGRESS_REASON_DRAGON_KILL: number
+declare const PROGRESS_REASON_DUNGEON_CHALLENGE: number
+declare const PROGRESS_REASON_EVENT: number
+declare const PROGRESS_REASON_FINESSE: number
+declare const PROGRESS_REASON_FISSURE_COMPLETED: number
+declare const PROGRESS_REASON_GEYSER_COMPLETED: number
+declare const PROGRESS_REASON_GRANT_REPUTATION: number
+declare const PROGRESS_REASON_GUILD_REP: number
+declare const PROGRESS_REASON_HARROWSTORM_COMPLETED: number
+declare const PROGRESS_REASON_JUSTICE_SKILL_EVENT: number
+declare const PROGRESS_REASON_KEEP_REWARD: number
+declare const PROGRESS_REASON_KILL: number
+declare const PROGRESS_REASON_LFG_REWARD: number
+declare const PROGRESS_REASON_LOCK_PICK: number
+declare const PROGRESS_REASON_MEDAL: number
+declare const PROGRESS_REASON_MIRRORMOOR_COMPLETED: number
+declare const PROGRESS_REASON_NONE: number
+declare const PROGRESS_REASON_OBLIVION_PORTAL_COMPLETED: number
+declare const PROGRESS_REASON_OTHER: number
+declare const PROGRESS_REASON_OVERLAND_BOSS_KILL: number
+declare const PROGRESS_REASON_PVP_EMPEROR: number
+declare const PROGRESS_REASON_QUEST: number
+declare const PROGRESS_REASON_REWARD: number
+declare const PROGRESS_REASON_SCRIPTED_EVENT: number
+declare const PROGRESS_REASON_SIEGE_CAMP_COMPLETED: number
+declare const PROGRESS_REASON_SKILL_BOOK: number
+declare const PROGRESS_REASON_TRADESKILL: number
+declare const PROGRESS_REASON_TRADESKILL_ACHIEVEMENT: number
+declare const PROGRESS_REASON_TRADESKILL_CONSUME: number
+declare const PROGRESS_REASON_TRADESKILL_HARVEST: number
+declare const PROGRESS_REASON_TRADESKILL_QUEST: number
+declare const PROGRESS_REASON_TRADESKILL_RECIPE: number
+declare const PROGRESS_REASON_TRADESKILL_TRAIT: number
+declare const PROGRESS_REASON_TRIBUTE_CAMPAIGN: number
+declare const PROGRESS_REASON_TRIBUTE_CLUB: number
+declare const PROGRESS_REASON_WORLD_EVENT_COMPLETED: number
+
+// RaidCategory
+type RaidCategory = number
+declare const RAID_CATEGORY_CHALLENGE: number
+declare const RAID_CATEGORY_TRIAL: number
+
+// RegisterForEventFilterType
+type RegisterForEventFilterType = number
+declare const REGISTER_FILTER_ABILITY_ID: number
+declare const REGISTER_FILTER_BAG_ID: number
+declare const REGISTER_FILTER_COMBAT_RESULT: number
+declare const REGISTER_FILTER_INVALID: number
+declare const REGISTER_FILTER_INVENTORY_UPDATE_REASON: number
+declare const REGISTER_FILTER_IS_ERROR: number
+declare const REGISTER_FILTER_IS_IN_GAMEPAD_PREFERRED_MODE: number
+declare const REGISTER_FILTER_IS_NEW_ITEM: number
+declare const REGISTER_FILTER_PATRON_DRAFT_ID: number
+declare const REGISTER_FILTER_POWER_TYPE: number
+declare const REGISTER_FILTER_SETTING_SYSTEM_TYPE: number
+declare const REGISTER_FILTER_SOURCE_COMBAT_UNIT_TYPE: number
+declare const REGISTER_FILTER_TARGET_COMBAT_UNIT_TYPE: number
+declare const REGISTER_FILTER_UNIT_TAG: number
+declare const REGISTER_FILTER_UNIT_TAG_PREFIX: number
+declare const REGISTER_FILTER_VIBRATION_FILTER: number
+
+// RidingTrainSource
+type RidingTrainSource = number
+declare const RIDING_TRAIN_SOURCE_INITIALIZE: number
+declare const RIDING_TRAIN_SOURCE_ITEM: number
+declare const RIDING_TRAIN_SOURCE_STABLES: number
+
+// RidingTrainType
+type RidingTrainType = number
+declare const RIDING_TRAIN_CARRYING_CAPACITY: number
+declare const RIDING_TRAIN_INVALID: number
+declare const RIDING_TRAIN_SPEED: number
+declare const RIDING_TRAIN_STAMINA: number
+
+// SceneManagerMessageOrigin
+type SceneManagerMessageOrigin = number
+declare const SCENE_MANAGER_MESSAGE_ORIGIN_INGAME: number
+declare const SCENE_MANAGER_MESSAGE_ORIGIN_INTERNAL: number
+declare const SCENE_MANAGER_MESSAGE_ORIGIN_PREGAME: number
+
+// ScreenReaderNarrationType
+type ScreenReaderNarrationType = number
+declare const NARRATION_TYPE_ALERT: number
+declare const NARRATION_TYPE_CENTER_SCREEN_ANNOUNCEMENT: number
+declare const NARRATION_TYPE_EDIT_BOX: number
+declare const NARRATION_TYPE_HUD: number
+declare const NARRATION_TYPE_TEXT_CHAT: number
+declare const NARRATION_TYPE_UI_SCREEN: number
+
+// SocialActionResult
+type SocialActionResult = number
+declare const SOCIAL_RESULT_ACCOUNT_ALREADY_FRIENDS: number
+declare const SOCIAL_RESULT_ACCOUNT_ALREADY_IGNORED: number
+declare const SOCIAL_RESULT_ACCOUNT_ALREADY_INVITED: number
+declare const SOCIAL_RESULT_ACCOUNT_IGNORING_YOU: number
+declare const SOCIAL_RESULT_ACCOUNT_NOT_FOUND: number
+declare const SOCIAL_RESULT_ACCOUNT_OFFLINE: number
+declare const SOCIAL_RESULT_ACCOUNT_TOO_MANY_FRIENDS: number
+declare const SOCIAL_RESULT_ACCOUNT_TOO_MANY_IGNORES: number
+declare const SOCIAL_RESULT_ALREADY_IN_GUILD: number
+declare const SOCIAL_RESULT_ALREADY_IN_MAX_GUILDS: number
+declare const SOCIAL_RESULT_ALREADY_IN_MAX_GUILDS_CANT_INVITE: number
+declare const SOCIAL_RESULT_AT_MAX_LEADERSHIP_ROLES: number
+declare const SOCIAL_RESULT_BEING_ARRESTED: number
+declare const SOCIAL_RESULT_CANNOT_DELETE_A_GUILD_RANK_THAT_IS_NOT_EMPTY: number
+declare const SOCIAL_RESULT_CANT_DEMOTE: number
+declare const SOCIAL_RESULT_CANT_FRIEND_SELF: number
+declare const SOCIAL_RESULT_CANT_IGNORE_SELF: number
+declare const SOCIAL_RESULT_CANT_JUMP_INVALID_TARGET: number
+declare const SOCIAL_RESULT_CANT_JUMP_SELF: number
+declare const SOCIAL_RESULT_CANT_JUMP_TARGET_PREVIEWING_HOUSE: number
+declare const SOCIAL_RESULT_CANT_KICK_LEADER: number
+declare const SOCIAL_RESULT_CANT_PROMOTE: number
+declare const SOCIAL_RESULT_CANT_PROMOTE_LEADING_ANOTHER_GUILD: number
+declare const SOCIAL_RESULT_CHARACTER_NOT_FOUND: number
+declare const SOCIAL_RESULT_DEPRECATED1: number
+declare const SOCIAL_RESULT_DESTINATION_FULL: number
+declare const SOCIAL_RESULT_DISABLED: number
+declare const SOCIAL_RESULT_DISALLOWED_NAME: number
+declare const SOCIAL_RESULT_EDIT_HERALDRY_GUILD_LEADER_ONLY: number
+declare const SOCIAL_RESULT_EDIT_PERMISSIONS_GUILD_LEADER_ONLY: number
+declare const SOCIAL_RESULT_GUILD_DOESNT_EXIST: number
+declare const SOCIAL_RESULT_GUILD_IS_FULL: number
+declare const SOCIAL_RESULT_GUILD_LEADER_PERMISSIONS_NOT_EDITABLE: number
+declare const SOCIAL_RESULT_GUILD_NOT_FOUND: number
+declare const SOCIAL_RESULT_HERALDRY_DISABLED: number
+declare const SOCIAL_RESULT_HERALDRY_EDITED_TOO_RECENTLY: number
+declare const SOCIAL_RESULT_HERALDRY_GUILD_BANK_DISABLED: number
+declare const SOCIAL_RESULT_HERALDRY_NOT_SET_YET: number
+declare const SOCIAL_RESULT_INSUFFICIENT_ALLIANCE_POINTS_FOR_CAMP: number
+declare const SOCIAL_RESULT_INSUFFICIENT_HERALDRY_FUNDS: number
+declare const SOCIAL_RESULT_INSUFFICIENT_TABARD_FUNDS: number
+declare const SOCIAL_RESULT_INVALID_GUILD_NAME: number
+declare const SOCIAL_RESULT_INVALID_GUILD_RANK: number
+declare const SOCIAL_RESULT_INVALID_HERALDRY_DATA: number
+declare const SOCIAL_RESULT_INVITED_PLAYER_BLACKLISTED_FROM_GUILD: number
+declare const SOCIAL_RESULT_JUMPS_EXIT_DISABLED: number
+declare const SOCIAL_RESULT_JUMP_ENTRY_DISABLED: number
+declare const SOCIAL_RESULT_NAME_ALREADY_TAKEN: number
+declare const SOCIAL_RESULT_NOT_A_MEMBER: number
+declare const SOCIAL_RESULT_NOT_GROUPED: number
+declare const SOCIAL_RESULT_NOT_GUILD_LEADER: number
+declare const SOCIAL_RESULT_NOT_INVITED: number
+declare const SOCIAL_RESULT_NOT_IN_SAME_GROUP: number
+declare const SOCIAL_RESULT_NOT_SAME_GROUP: number
+declare const SOCIAL_RESULT_NO_APPLICATION_PERMISSION: number
+declare const SOCIAL_RESULT_NO_BLACKLIST_PERMISSION: number
+declare const SOCIAL_RESULT_NO_CAMPAIGN_PERMISSION: number
+declare const SOCIAL_RESULT_NO_DEMOTE_PERMISSION: number
+declare const SOCIAL_RESULT_NO_DESCRIPTION_EDIT_PREMISSION: number
+declare const SOCIAL_RESULT_NO_ERROR: number
+declare const SOCIAL_RESULT_NO_GUILD_BANK_PERMISSION: number
+declare const SOCIAL_RESULT_NO_GUILD_BID_PERMISSION: number
+declare const SOCIAL_RESULT_NO_GUILD_LEADER_RANK_DEFINED: number
+declare const SOCIAL_RESULT_NO_HERALDRY_EDIT_PERMISSION: number
+declare const SOCIAL_RESULT_NO_HOUSE_PERMISSION: number
+declare const SOCIAL_RESULT_NO_INTRA_CAMPAIGN_JUMPS_ALLOWED: number
+declare const SOCIAL_RESULT_NO_INVITE_PERMISSION: number
+declare const SOCIAL_RESULT_NO_JUMP_CHAMPION_RANK: number
+declare const SOCIAL_RESULT_NO_JUMP_IN_COMBAT: number
+declare const SOCIAL_RESULT_NO_KEEP_CLAIM_PERMISSION: number
+declare const SOCIAL_RESULT_NO_KICK_PERMISSION: number
+declare const SOCIAL_RESULT_NO_LOCATION: number
+declare const SOCIAL_RESULT_NO_NOTE_EDIT_PERMISSION: number
+declare const SOCIAL_RESULT_NO_PROMOTE_PERMISSION: number
+declare const SOCIAL_RESULT_NO_RECRUITMENT_EDIT_PERMISSION: number
+declare const SOCIAL_RESULT_NO_RECRUIT_RANK_DEFINED: number
+declare const SOCIAL_RESULT_NO_ROOM: number
+declare const SOCIAL_RESULT_NO_ROOM_FOR_CAMP: number
+declare const SOCIAL_RESULT_NO_ROOM_FOR_TABARD: number
+declare const SOCIAL_RESULT_NO_SET_MOTD_PERMISSION: number
+declare const SOCIAL_RESULT_NO_STORE_BUY_PERMISSION: number
+declare const SOCIAL_RESULT_NO_STORE_SELL_PERMISSION: number
+declare const SOCIAL_RESULT_NO_STRUCTURE_EDIT_PERMISSION: number
+declare const SOCIAL_RESULT_OTHER_ACCOUNT_TOO_MANY_FRIENDS: number
+declare const SOCIAL_RESULT_PERMISSION_SAVE_FAILURE: number
+declare const SOCIAL_RESULT_PLAYER_INVITED_SUCCESSFULLY: number
+declare const SOCIAL_RESULT_RATE_LIMIT_EXCEEDED: number
+declare const SOCIAL_RESULT_REGION_SPINNING_DOWN: number
+declare const SOCIAL_RESULT_REQUEST_NOT_FOUND: number
+declare const SOCIAL_RESULT_REQUEST_ON_COOLDOWN: number
+declare const SOCIAL_RESULT_RESTRICTED_COMMUNICATION: number
+declare const SOCIAL_RESULT_SOCIAL_DATA_UNAVAILABLE: number
+declare const SOCIAL_RESULT_SOCIAL_ERROR: number
+declare const SOCIAL_RESULT_TOO_FEW_GUILD_RANKS: number
+declare const SOCIAL_RESULT_TOO_MANY_GUILD_RANKS: number
+declare const SOCIAL_RESULT_TOO_MANY_SAVES: number
+declare const SOCIAL_RESULT_TRIBUTE_INVALID_INVITE: number
+declare const SOCIAL_RESULT_UNABLE_TO_RELEASE_KEEP_CLAIM: number
+declare const SOCIAL_RESULT_WRONG_ALLIANCE: number
+
+// TooltipGameDataType
+type TooltipGameDataType = number
+declare const TOOLTIP_GAME_DATA_CHAMPION_PROGRESSION: number
+declare const TOOLTIP_GAME_DATA_CHARGES: number
+declare const TOOLTIP_GAME_DATA_CONDITION: number
+declare const TOOLTIP_GAME_DATA_DIVIDER: number
+declare const TOOLTIP_GAME_DATA_EQUIPPED_INFO: number
+declare const TOOLTIP_GAME_DATA_ITEM_ICON: number
+declare const TOOLTIP_GAME_DATA_MYTHIC_OR_STOLEN: number
+declare const TOOLTIP_GAME_DATA_NONE: number
+declare const TOOLTIP_GAME_DATA_PROGRESSION: number
+declare const TOOLTIP_GAME_DATA_PROGRESS_BAR: number
+declare const TOOLTIP_GAME_DATA_SKILL_UPGRADE: number
+declare const TOOLTIP_GAME_DATA_TEAM_SCORE: number
+
+// TrialAccountRestrictionType
+type TrialAccountRestrictionType = number
+declare const TRIAL_RESTRICTION_CANNOT_USE_GUILDS: number
+declare const TRIAL_RESTRICTION_CANNOT_WHISPER: number
+declare const TRIAL_RESTRICTION_CANNOT_ZONE_YELL: number
+declare const TRIAL_RESTRICTION_NO_RESTRICTION: number
+declare const TRIAL_RESTRICTION_WHISPER_FRIENDS_ONLY: number
+
+// UIAlertCategory
+type UIAlertCategory = number
+declare const UI_ALERT_CATEGORY_ALERT: number
+declare const UI_ALERT_CATEGORY_ERROR: number
+
+// UIPlatform
+type UIPlatform = number
+declare const UI_PLATFORM_PC: number
+declare const UI_PLATFORM_PS4: number
+declare const UI_PLATFORM_PS5: number
+declare const UI_PLATFORM_REUSE_ME: number
+declare const UI_PLATFORM_XBOX: number
+
+// ZoneDisplayType
+type ZoneDisplayType = number
+declare const ZONE_DISPLAY_TYPE_ADVENTURE_ZONE: number
+declare const ZONE_DISPLAY_TYPE_BATTLEGROUND: number
+declare const ZONE_DISPLAY_TYPE_COMPANION: number
+declare const ZONE_DISPLAY_TYPE_DELVE: number
+declare const ZONE_DISPLAY_TYPE_DUNGEON: number
+declare const ZONE_DISPLAY_TYPE_ENDLESS_DUNGEON: number
+declare const ZONE_DISPLAY_TYPE_GROUP_AREA: number
+declare const ZONE_DISPLAY_TYPE_GROUP_DELVE: number
+declare const ZONE_DISPLAY_TYPE_HOUSING: number
+declare const ZONE_DISPLAY_TYPE_NONE: number
+declare const ZONE_DISPLAY_TYPE_PUBLIC_DUNGEON: number
+declare const ZONE_DISPLAY_TYPE_RAID: number
+declare const ZONE_DISPLAY_TYPE_SOLO: number
+declare const ZONE_DISPLAY_TYPE_ZONE_STORY: number
+
+// Globals
+type Globals = number
+declare const MAX_EMAIL_LENGTH: number
+declare const ACTION_BAR_FIRST_NORMAL_SLOT_INDEX: number
+declare const ACTION_BAR_LAST_WEAPON_SLOT_INDEX: number
+declare const ACTION_BAR_NUM_SLOTS: number
+declare const ACTION_BAR_SLOTS_PER_PAGE: number
+declare const ACTION_BAR_ULTIMATE_SLOT_INDEX: number
+declare const ACTION_BAR_UTILITY_BAR_SIZE: number
+declare const MAX_DEVICE_ID_LENGTH: number
+declare const MAX_ACTION_BAR_ABILITY_SLOTS: number
+declare const MAXIMUM_CHAMPION_RANK: number
+declare const MAX_CHATTER_OPTIONS: number
+declare const NO_POWER_INDEX: number
+declare const NUM_ALLIANCES: number
+declare const NUM_BACKPACK_SLOTS_PER_UPGRADE: number
+declare const NUM_BANK_SLOTS_PER_UPGRADE: number
+declare const NUM_BUG_CATEGORIES: number
+declare const NUM_COMBAT_RELATED_EQUIP_SLOTS: number
+declare const NUM_LOCKPICK_CHAMBER_STATES: number
+declare const NUM_LOCKPICK_CHAMBERS: number
+declare const TRADE_NUM_SLOTS: number
+declare const MAX_PASSWORD_LENGTH: number
+declare const RANDOM_ROLL_MAX_NUM_ROLLS: number
+declare const RANDOM_ROLL_MAX_RESULT: number
+declare const RANDOM_ROLL_MIN_RESULT: number
+declare const TRADE_DELAY_TIME: number
+
+// AbilityType
+type AbilityType = number
+declare const ABILITY_TYPE_ACTIONLIST: number
+declare const ABILITY_TYPE_AREAEFFECT: number
+declare const ABILITY_TYPE_AREATELEPORT: number
+declare const ABILITY_TYPE_ATTACKERINTERCEPT: number
+declare const ABILITY_TYPE_ATTACKERREFLECT: number
+declare const ABILITY_TYPE_AVAREACH: number
+declare const ABILITY_TYPE_AVOIDDEATH: number
+declare const ABILITY_TYPE_BASIC: number
+declare const ABILITY_TYPE_BLADETURN: number
+declare const ABILITY_TYPE_BLINK: number
+declare const ABILITY_TYPE_BLOCK: number
+declare const ABILITY_TYPE_BONUS: number
+declare const ABILITY_TYPE_CHANGEAPPEARANCE: number
+declare const ABILITY_TYPE_CHARGE: number
+declare const ABILITY_TYPE_CLIENTFX: number
+declare const ABILITY_TYPE_COMBATRESOURCE: number
+declare const ABILITY_TYPE_COSTMECHANICOVERRIDE: number
+declare const ABILITY_TYPE_CREATEINTERACTABLE: number
+declare const ABILITY_TYPE_CREATEINVENTORYITEM: number
+declare const ABILITY_TYPE_CUSTOMTARGETAREA: number
+declare const ABILITY_TYPE_DEPRECATED_0: number
+declare const ABILITY_TYPE_DAMAGE: number
+declare const ABILITY_TYPE_DAMAGEIMMUNE: number
+declare const ABILITY_TYPE_DAMAGELIMIT: number
+declare const ABILITY_TYPE_DAMAGESHIELD: number
+declare const ABILITY_TYPE_DAMAGETRANSFER: number
+declare const ABILITY_TYPE_DEFEND: number
+declare const ABILITY_TYPE_DERIVEDSTATCACHE: number
+declare const ABILITY_TYPE_DESPAWNOVERRIDE: number
+declare const ABILITY_TYPE_DIRECTEDMOVEMENTABILITY: number
+declare const ABILITY_TYPE_DISABLECLIENTTURNING: number
+declare const ABILITY_TYPE_DISABLEGAMEPLAYMECHANICS: number
+declare const ABILITY_TYPE_DISABLEITEMSETS: number
+declare const ABILITY_TYPE_DISARM: number
+declare const ABILITY_TYPE_DISORIENT: number
+declare const ABILITY_TYPE_DISPEL: number
+declare const ABILITY_TYPE_DODGE: number
+declare const ABILITY_TYPE_EXHAUSTED: number
+declare const ABILITY_TYPE_FACETARGET: number
+declare const ABILITY_TYPE_FEAR: number
+declare const ABILITY_TYPE_FILLSOULGEM: number
+declare const ABILITY_TYPE_FIRETRIGGER: number
+declare const ABILITY_TYPE_FLIGHT: number
+declare const ABILITY_TYPE_FOLLOWWAYPOINTPATH: number
+declare const ABILITY_TYPE_FREECAST: number
+declare const ABILITY_TYPE_FREEINTERACT: number
+declare const ABILITY_TYPE_GRANTABILITY: number
+declare const ABILITY_TYPE_HARDDISMOUNT: number
+declare const ABILITY_TYPE_HEAL: number
+declare const ABILITY_TYPE_HIDE: number
+declare const ABILITY_TYPE_HOTBARSLOTOVERRIDE: number
+declare const ABILITY_TYPE_IMMUNITY: number
+declare const ABILITY_TYPE_INTERACTREFUSALOVERRIDE: number
+declare const ABILITY_TYPE_INTERCEPT: number
+declare const ABILITY_TYPE_INTERRUPT: number
+declare const ABILITY_TYPE_JUMP: number
+declare const ABILITY_TYPE_KNOCKBACK: number
+declare const ABILITY_TYPE_LOSMOVEPOSITION: number
+declare const ABILITY_TYPE_LEAP: number
+declare const ABILITY_TYPE_LEVITATE: number
+declare const ABILITY_TYPE_LIGHTHEAVYATTACKOVERRIDE: number
+declare const ABILITY_TYPE_LINKTARGET: number
+declare const ABILITY_TYPE_MISDIRECT: number
+declare const ABILITY_TYPE_MODIFYCOOLDOWN: number
+declare const ABILITY_TYPE_MODIFYDURATION: number
+declare const ABILITY_TYPE_MODIFYSTACKCOUNT: number
+declare const ABILITY_TYPE_MOUNT: number
+declare const ABILITY_TYPE_MOUNTBLOCK: number
+declare const ABILITY_TYPE_MOVEPOSITION: number
+declare const ABILITY_TYPE_NOAGGRO: number
+declare const ABILITY_TYPE_NOKILL: number
+declare const ABILITY_TYPE_NOLOCKPICK: number
+declare const ABILITY_TYPE_NOSEETARGET: number
+declare const ABILITY_TYPE_NONCOMBATBONUS: number
+declare const ABILITY_TYPE_NONEXISTENT: number
+declare const ABILITY_TYPE_NONE: number
+declare const ABILITY_TYPE_OFFBALANCE: number
+declare const ABILITY_TYPE_PACIFY: number
+declare const ABILITY_TYPE_PARRY: number
+declare const ABILITY_TYPE_PATHLINE: number
+declare const ABILITY_TYPE_PAUSECOOLDOWN: number
+declare const ABILITY_TYPE_PERSISTENTRADIUS: number
+declare const ABILITY_TYPE_PHASETHROUGH: number
+declare const ABILITY_TYPE_PLAYERFLIGHT: number
+declare const ABILITY_TYPE_PREVENTHEALING: number
+declare const ABILITY_TYPE_RANDOMBRANCH: number
+declare const ABILITY_TYPE_RECALL: number
+declare const ABILITY_TYPE_REFLECTION: number
+declare const ABILITY_TYPE_REGISTERTRIGGER: number
+declare const ABILITY_TYPE_REMOVETYPE: number
+declare const ABILITY_TYPE_REPAIR: number
+declare const ABILITY_TYPE_RESOURCETAP: number
+declare const ABILITY_TYPE_RESURRECT: number
+declare const ABILITY_TYPE_REVEAL: number
+declare const ABILITY_TYPE_REWINDTIME: number
+declare const ABILITY_TYPE_SEESTEALTH: number
+declare const ABILITY_TYPE_SETAIMATTARGET: number
+declare const ABILITY_TYPE_SETCOOLDOWN: number
+declare const ABILITY_TYPE_SETHOTBAR: number
+declare const ABILITY_TYPE_SETPERSONALITY: number
+declare const ABILITY_TYPE_SETTARGET: number
+declare const ABILITY_TYPE_SHOWNON: number
+declare const ABILITY_TYPE_SIEGEAREAEFFECT: number
+declare const ABILITY_TYPE_SIEGECLUSTERAREAEFFECT: number
+declare const ABILITY_TYPE_SIEGECREATE: number
+declare const ABILITY_TYPE_SIEGEPACKUP: number
+declare const ABILITY_TYPE_SILENCE: number
+declare const ABILITY_TYPE_SLOWFALL: number
+declare const ABILITY_TYPE_SNARE: number
+declare const ABILITY_TYPE_SOULGEMRESURRECT: number
+declare const ABILITY_TYPE_SPECIALMOVEREPLACEMENT: number
+declare const ABILITY_TYPE_STAGGER: number
+declare const ABILITY_TYPE_STEALTH: number
+declare const ABILITY_TYPE_STOPMOVING: number
+declare const ABILITY_TYPE_STUN: number
+declare const ABILITY_TYPE_SUMMON: number
+declare const ABILITY_TYPE_THREAT: number
+declare const ABILITY_TYPE_TRAUMA: number
+declare const ABILITY_TYPE_UPDATEDEATHDIALOG: number
+declare const ABILITY_TYPE_VAMPIRE: number
+
+// MorphSlot
+type MorphSlot = number
+declare const MORPH_SLOT_BASE: number
+declare const MORPH_SLOT_MORPH_1: number
+declare const MORPH_SLOT_MORPH_2: number
+
+// ScribingSlot
+type ScribingSlot = number
+declare const SCRIBING_SLOT_NONE: number
+declare const SCRIBING_SLOT_PRIMARY: number
+declare const SCRIBING_SLOT_SECONDARY: number
+declare const SCRIBING_SLOT_TERTIARY: number
+
+// LFGActivity
+type LFGActivity = number
+declare const LFG_ACTIVITY_ADVENTURE_ZONE: number
+declare const LFG_ACTIVITY_ARENA: number
+declare const LFG_ACTIVITY_AVA: number
+declare const LFG_ACTIVITY_BATTLE_GROUND_CHAMPION: number
+declare const LFG_ACTIVITY_BATTLE_GROUND_LOW_LEVEL: number
+declare const LFG_ACTIVITY_BATTLE_GROUND_NON_CHAMPION: number
+declare const LFG_ACTIVITY_DUNGEON: number
+declare const LFG_ACTIVITY_ENDLESS_DUNGEON: number
+declare const LFG_ACTIVITY_EXPLORATION: number
+declare const LFG_ACTIVITY_HOME_SHOW: number
+declare const LFG_ACTIVITY_INVALID: number
+declare const LFG_ACTIVITY_MASTER_DUNGEON: number
+declare const LFG_ACTIVITY_TRIAL: number
+declare const LFG_ACTIVITY_TRIBUTE_CASUAL: number
+declare const LFG_ACTIVITY_TRIBUTE_COMPETITIVE: number
+
+// LFGGroupType
+type LFGGroupType = number
+declare const LFG_GROUP_TYPE_BIG_TEAM_BATTLE: number
+declare const LFG_GROUP_TYPE_LARGE: number
+declare const LFG_GROUP_TYPE_MEDIUM: number
+declare const LFG_GROUP_TYPE_NONE: number
+declare const LFG_GROUP_TYPE_REGULAR: number
+
+// LFGRole
+type LFGRole = number
+declare const LFG_ROLE_DPS: number
+declare const LFG_ROLE_HEAL: number
+declare const LFG_ROLE_INVALID: number
+declare const LFG_ROLE_TANK: number
+
+// PromotionalEventRewardFlags
+type PromotionalEventRewardFlags = number
+declare const PROMOTIONAL_EVENTS_REWARD_FLAG_CLAIMED: number
+declare const PROMOTIONAL_EVENTS_REWARD_FLAG_CLAIMED_FALLBACK: number
+declare const PROMOTIONAL_EVENTS_REWARD_FLAG_FALLBACK: number
+
+declare const GROUP_FINDER_UNLOCK_LEVEL: number
+declare const GROUP_FINDER_MAX_APPLIED_TO_GROUP_LISTING_ATTEMPTS: number
+declare const GROUP_FINDER_MAX_SEARCHABLE_SELECTIONS: number
+
+// OutfitSlot
+type OutfitSlot = number
+declare const OUTFIT_SLOT_BODY_MARKING: number
+declare const OUTFIT_SLOT_CHEST: number
+declare const OUTFIT_SLOT_COSTUME: number
+declare const OUTFIT_SLOT_FACIAL_ACCESSORY: number
+declare const OUTFIT_SLOT_FACIAL_HAIR_HORNS: number
+declare const OUTFIT_SLOT_FEET: number
+declare const OUTFIT_SLOT_HAIR: number
+declare const OUTFIT_SLOT_HANDS: number
+declare const OUTFIT_SLOT_HAT: number
+declare const OUTFIT_SLOT_HEAD: number
+declare const OUTFIT_SLOT_HEAD_MARKING: number
+declare const OUTFIT_SLOT_LEGS: number
+declare const OUTFIT_SLOT_MOUNT: number
+declare const OUTFIT_SLOT_PERSONALITY: number
+declare const OUTFIT_SLOT_PIERCING_JEWELRY: number
+declare const OUTFIT_SLOT_POLYMORPH: number
+declare const OUTFIT_SLOT_SHIELD: number
+declare const OUTFIT_SLOT_SHIELD_BACKUP: number
+declare const OUTFIT_SLOT_SHOULDERS: number
+declare const OUTFIT_SLOT_SKIN: number
+declare const OUTFIT_SLOT_VANITY_PET: number
+declare const OUTFIT_SLOT_WAIST: number
+declare const OUTFIT_SLOT_WEAPON_BOW: number
+declare const OUTFIT_SLOT_WEAPON_BOW_BACKUP: number
+declare const OUTFIT_SLOT_WEAPON_MAIN_HAND: number
+declare const OUTFIT_SLOT_WEAPON_MAIN_HAND_BACKUP: number
+declare const OUTFIT_SLOT_WEAPON_OFF_HAND: number
+declare const OUTFIT_SLOT_WEAPON_OFF_HAND_BACKUP: number
+declare const OUTFIT_SLOT_WEAPON_STAFF: number
+declare const OUTFIT_SLOT_WEAPON_STAFF_BACKUP: number
+declare const OUTFIT_SLOT_WEAPON_TWO_HANDED: number
+declare const OUTFIT_SLOT_WEAPON_TWO_HANDED_BACKUP: number
+
+declare const MAX_COMPANION_OUTFITS: number
+declare const MAX_ITEM_MATERIALS_PER_OUTFIT_STYLE: number
+declare const MAX_OUTFIT_UNLOCKS: number
+declare const NUM_OUTFITS_PER_UPGRADE: number
+
+// BattlegroundState
+type BattlegroundState = number
+declare const BATTLEGROUND_STATE_FINISHED: number
+declare const BATTLEGROUND_STATE_NONE: number
+declare const BATTLEGROUND_STATE_POSTROUND: number
+declare const BATTLEGROUND_STATE_PREROUND: number
+declare const BATTLEGROUND_STATE_RUNNING: number
+declare const BATTLEGROUND_STATE_STARTING: number
+
+// ObjectiveControlEvent
+type ObjectiveControlEvent = number
+declare const OBJECTIVE_CONTROL_EVENT_AREA_INFLUENCE_CHANGED: number
+declare const OBJECTIVE_CONTROL_EVENT_AREA_NEUTRAL: number
+declare const OBJECTIVE_CONTROL_EVENT_ASSAULTED: number
+declare const OBJECTIVE_CONTROL_EVENT_CAPTURED: number
+declare const OBJECTIVE_CONTROL_EVENT_DEACTIVATED: number
+declare const OBJECTIVE_CONTROL_EVENT_DEACTIVATE_PENDING: number
+declare const OBJECTIVE_CONTROL_EVENT_FLAG_DROPPED: number
+declare const OBJECTIVE_CONTROL_EVENT_FLAG_RETURNED: number
+declare const OBJECTIVE_CONTROL_EVENT_FLAG_RETURNED_BY_TIMER: number
+declare const OBJECTIVE_CONTROL_EVENT_FLAG_SPAWNED: number
+declare const OBJECTIVE_CONTROL_EVENT_FLAG_TAKEN: number
+declare const OBJECTIVE_CONTROL_EVENT_FULLY_HELD: number
+declare const OBJECTIVE_CONTROL_EVENT_HIDDEN: number
+declare const OBJECTIVE_CONTROL_EVENT_LOST: number
+declare const OBJECTIVE_CONTROL_EVENT_NONE: number
+declare const OBJECTIVE_CONTROL_EVENT_RECAPTURED: number
+declare const OBJECTIVE_CONTROL_EVENT_UNDER_ATTACK: number
+
+// ObjectiveControlState
+type ObjectiveControlState = number
+declare const OBJECTIVE_CONTROL_STATE_AREA_ABOVE_CONTROL_THRESHOLD: number
+declare const OBJECTIVE_CONTROL_STATE_AREA_BELOW_CONTROL_THRESHOLD: number
+declare const OBJECTIVE_CONTROL_STATE_AREA_INACTIVE: number
+declare const OBJECTIVE_CONTROL_STATE_AREA_MAX_CONTROL: number
+declare const OBJECTIVE_CONTROL_STATE_AREA_NO_CONTROL: number
+declare const OBJECTIVE_CONTROL_STATE_FLAG_AT_BASE: number
+declare const OBJECTIVE_CONTROL_STATE_FLAG_AT_ENEMY_BASE: number
+declare const OBJECTIVE_CONTROL_STATE_FLAG_DROPPED: number
+declare const OBJECTIVE_CONTROL_STATE_FLAG_HELD: number
+declare const OBJECTIVE_CONTROL_STATE_POINT_CONTROLLED: number
+declare const OBJECTIVE_CONTROL_STATE_POINT_TRANSITIONING: number
+declare const OBJECTIVE_CONTROL_STATE_UNKNOWN: number
+
+declare const MAX_PERKS_AVAILABLE_PER_LOADOUT: number
+
+// Chapter
+type Chapter = number
+declare const CHAPTER_BADLANDS: number
+declare const CHAPTER_BASE_GAME: number
+declare const CHAPTER_CRAG: number
+declare const CHAPTER_DUNE: number
+declare const CHAPTER_GLACIER: number
+declare const CHAPTER_MAGMA: number
+declare const CHAPTER_MESA: number
+declare const CHAPTER_PENINSULA: number
+declare const CHAPTER_SCARP: number
+declare const CHAPTER_VOLCANO: number
+
+// CollectibleCategoryType
+type CollectibleCategoryType = number
+declare const COLLECTIBLE_CATEGORY_TYPE_ABILITY_FX_OVERRIDE: number
+declare const COLLECTIBLE_CATEGORY_TYPE_ACCOUNT_SERVICE: number
+declare const COLLECTIBLE_CATEGORY_TYPE_ACCOUNT_UPGRADE: number
+declare const COLLECTIBLE_CATEGORY_TYPE_ASSISTANT: number
+declare const COLLECTIBLE_CATEGORY_TYPE_BODY_MARKING: number
+declare const COLLECTIBLE_CATEGORY_TYPE_CHAPTER: number
+declare const COLLECTIBLE_CATEGORY_TYPE_COMBINATION_FRAGMENT: number
+declare const COLLECTIBLE_CATEGORY_TYPE_COMPANION: number
+declare const COLLECTIBLE_CATEGORY_TYPE_COSTUME: number
+declare const COLLECTIBLE_CATEGORY_TYPE_DLC: number
+declare const COLLECTIBLE_CATEGORY_TYPE_EMOTE: number
+declare const COLLECTIBLE_CATEGORY_TYPE_FACIAL_ACCESSORY: number
+declare const COLLECTIBLE_CATEGORY_TYPE_FACIAL_HAIR_HORNS: number
+declare const COLLECTIBLE_CATEGORY_TYPE_FURNITURE: number
+declare const COLLECTIBLE_CATEGORY_TYPE_HAIR: number
+declare const COLLECTIBLE_CATEGORY_TYPE_HAT: number
+declare const COLLECTIBLE_CATEGORY_TYPE_HEAD_MARKING: number
+declare const COLLECTIBLE_CATEGORY_TYPE_HOUSE: number
+declare const COLLECTIBLE_CATEGORY_TYPE_HOUSE_BANK: number
+declare const COLLECTIBLE_CATEGORY_TYPE_INVALID: number
+declare const COLLECTIBLE_CATEGORY_TYPE_MEMENTO: number
+declare const COLLECTIBLE_CATEGORY_TYPE_MOUNT: number
+declare const COLLECTIBLE_CATEGORY_TYPE_OUTFIT_STYLE: number
+declare const COLLECTIBLE_CATEGORY_TYPE_PERSONALITY: number
+declare const COLLECTIBLE_CATEGORY_TYPE_PIERCING_JEWELRY: number
+declare const COLLECTIBLE_CATEGORY_TYPE_PLAYER_FX_OVERRIDE: number
+declare const COLLECTIBLE_CATEGORY_TYPE_POLYMORPH: number
+declare const COLLECTIBLE_CATEGORY_TYPE_REUSE_ME_0: number
+declare const COLLECTIBLE_CATEGORY_TYPE_SKIN: number
+declare const COLLECTIBLE_CATEGORY_TYPE_TRIBUTE_PATRON: number
+declare const COLLECTIBLE_CATEGORY_TYPE_VANITY_PET: number
+
+// CollectibleUsageBlockReason
+type CollectibleUsageBlockReason = number
+declare const COLLECTIBLE_USAGE_BLOCK_REASON_ACTIVE_DIG_SITE_REQUIRED: number
+declare const COLLECTIBLE_USAGE_BLOCK_REASON_BLACKLISTED: number
+declare const COLLECTIBLE_USAGE_BLOCK_REASON_BLOCKED_BY_EFFECT: number
+declare const COLLECTIBLE_USAGE_BLOCK_REASON_BLOCKED_BY_LEADERBOARD_EVENT: number
+declare const COLLECTIBLE_USAGE_BLOCK_REASON_BLOCKED_BY_SUBZONE: number
+declare const COLLECTIBLE_USAGE_BLOCK_REASON_BLOCKED_BY_ZONE: number
+declare const COLLECTIBLE_USAGE_BLOCK_REASON_CATEGORY_REQUIREMENT_FAILED: number
+declare const COLLECTIBLE_USAGE_BLOCK_REASON_COLLECTIBLE_ALREADY_QUEUED: number
+declare const COLLECTIBLE_USAGE_BLOCK_REASON_COMPANION_INTRO_QUEST: number
+declare const COLLECTIBLE_USAGE_BLOCK_REASON_COMPANION_INTRO_QUEST_BLOCKED_BY_ZONE: number
+declare const COLLECTIBLE_USAGE_BLOCK_REASON_COMPANION_MENU_REQUIRED: number
+declare const COLLECTIBLE_USAGE_BLOCK_REASON_DEAD: number
+declare const COLLECTIBLE_USAGE_BLOCK_REASON_DEFAULT_ALREADY_ACTIVE: number
+declare const COLLECTIBLE_USAGE_BLOCK_REASON_DUELING: number
+declare const COLLECTIBLE_USAGE_BLOCK_REASON_GROUP_FULL: number
+declare const COLLECTIBLE_USAGE_BLOCK_REASON_HAS_PENDING_COMPANION: number
+declare const COLLECTIBLE_USAGE_BLOCK_REASON_INVALID_ALLIANCE: number
+declare const COLLECTIBLE_USAGE_BLOCK_REASON_INVALID_CLASS: number
+declare const COLLECTIBLE_USAGE_BLOCK_REASON_INVALID_COLLECTIBLE: number
+declare const COLLECTIBLE_USAGE_BLOCK_REASON_INVALID_GENDER: number
+declare const COLLECTIBLE_USAGE_BLOCK_REASON_INVALID_RACE: number
+declare const COLLECTIBLE_USAGE_BLOCK_REASON_IN_AIR: number
+declare const COLLECTIBLE_USAGE_BLOCK_REASON_IN_COMBAT: number
+declare const COLLECTIBLE_USAGE_BLOCK_REASON_IN_HIDEY_HOLE: number
+declare const COLLECTIBLE_USAGE_BLOCK_REASON_IN_WATER: number
+declare const COLLECTIBLE_USAGE_BLOCK_REASON_MAX_NUMBER_EQUIPPED: number
+declare const COLLECTIBLE_USAGE_BLOCK_REASON_MOUNT_IN_COMBAT: number
+declare const COLLECTIBLE_USAGE_BLOCK_REASON_NOT_BLOCKED: number
+declare const COLLECTIBLE_USAGE_BLOCK_REASON_ON_COOLDOWN: number
+declare const COLLECTIBLE_USAGE_BLOCK_REASON_ON_MOUNT: number
+declare const COLLECTIBLE_USAGE_BLOCK_REASON_PLACED_IN_HOUSE: number
+declare const COLLECTIBLE_USAGE_BLOCK_REASON_QUEST_FOLLOWER: number
+declare const COLLECTIBLE_USAGE_BLOCK_REASON_TARGET_REQUIRED: number
+declare const COLLECTIBLE_USAGE_BLOCK_REASON_TEMPORARILY_DISABLED: number
+declare const COLLECTIBLE_USAGE_BLOCK_REASON_UNACQUIRED_SKILL: number
+declare const COLLECTIBLE_USAGE_BLOCK_REASON_UNUSABLE_BY_COMPANION: number
+declare const COLLECTIBLE_USAGE_BLOCK_REASON_WORLD_BOSS: number
+declare const COLLECTIBLE_USAGE_BLOCK_REASON_WORLD_EVENT: number
+
+// CollectibleUserFlags
+type CollectibleUserFlags = number
+declare const COLLECTIBLE_USER_FLAG_FAVORITE: number
+
+declare const COLLECTIBLE_NAME_MIN_LENGTH: number
+declare const MAX_INDIVIDUAL_COLLECTIBLE_UPDATES: number
+
+// AdvancedStatDisplayFormat
+type AdvancedStatDisplayFormat = number
+declare const ADVANCED_STAT_DISPLAY_FORMAT_FLAT: number
+declare const ADVANCED_STAT_DISPLAY_FORMAT_FLAT_AND_PERCENT: number
+declare const ADVANCED_STAT_DISPLAY_FORMAT_FLAT_OR_PERCENT: number
+declare const ADVANCED_STAT_DISPLAY_FORMAT_NONE: number
+declare const ADVANCED_STAT_DISPLAY_FORMAT_PERCENT: number
+
+// AdvancedStatDisplayType
+type AdvancedStatDisplayType = number
+declare const ADVANCED_STAT_DISPLAY_TYPE_ALLIANCE_POINTS_BONUS: number
+declare const ADVANCED_STAT_DISPLAY_TYPE_ALL_XP: number
+declare const ADVANCED_STAT_DISPLAY_TYPE_ARMOR: number
+declare const ADVANCED_STAT_DISPLAY_TYPE_ARMOR_CAP: number
+declare const ADVANCED_STAT_DISPLAY_TYPE_BASH_COST: number
+declare const ADVANCED_STAT_DISPLAY_TYPE_BASH_DAMAGE: number
+declare const ADVANCED_STAT_DISPLAY_TYPE_BLEED_DAMAGE: number
+declare const ADVANCED_STAT_DISPLAY_TYPE_BLEED_RESIST: number
+declare const ADVANCED_STAT_DISPLAY_TYPE_BLOCK_COST: number
+declare const ADVANCED_STAT_DISPLAY_TYPE_BLOCK_MITIGATION: number
+declare const ADVANCED_STAT_DISPLAY_TYPE_BLOCK_SPEED: number
+declare const ADVANCED_STAT_DISPLAY_TYPE_CC_BREAK_COST: number
+declare const ADVANCED_STAT_DISPLAY_TYPE_COIN_BONUS: number
+declare const ADVANCED_STAT_DISPLAY_TYPE_COLD_DAMAGE: number
+declare const ADVANCED_STAT_DISPLAY_TYPE_COLD_RESIST: number
+declare const ADVANCED_STAT_DISPLAY_TYPE_CRITICAL_CHANCE: number
+declare const ADVANCED_STAT_DISPLAY_TYPE_CRITICAL_DAMAGE: number
+declare const ADVANCED_STAT_DISPLAY_TYPE_CRITICAL_HEALING: number
+declare const ADVANCED_STAT_DISPLAY_TYPE_CRITICAL_PERCENT: number
+declare const ADVANCED_STAT_DISPLAY_TYPE_CRITICAL_PERCENT_CAP: number
+declare const ADVANCED_STAT_DISPLAY_TYPE_CRITICAL_RESIST: number
+declare const ADVANCED_STAT_DISPLAY_TYPE_DISEASE_DAMAGE: number
+declare const ADVANCED_STAT_DISPLAY_TYPE_DISEASE_RESIST: number
+declare const ADVANCED_STAT_DISPLAY_TYPE_DODGE_COST: number
+declare const ADVANCED_STAT_DISPLAY_TYPE_EARTH_DAMAGE: number
+declare const ADVANCED_STAT_DISPLAY_TYPE_EARTH_RESIST: number
+declare const ADVANCED_STAT_DISPLAY_TYPE_FIRE_DAMAGE: number
+declare const ADVANCED_STAT_DISPLAY_TYPE_FIRE_RESIST: number
+declare const ADVANCED_STAT_DISPLAY_TYPE_FROST_RESIST: number
+declare const ADVANCED_STAT_DISPLAY_TYPE_GENERIC_DAMAGE: number
+declare const ADVANCED_STAT_DISPLAY_TYPE_GENERIC_RESIST: number
+declare const ADVANCED_STAT_DISPLAY_TYPE_HEALING_DONE: number
+declare const ADVANCED_STAT_DISPLAY_TYPE_HEALING_DONE_BONUSES: number
+declare const ADVANCED_STAT_DISPLAY_TYPE_HEALING_TAKEN: number
+declare const ADVANCED_STAT_DISPLAY_TYPE_HEALING_TAKEN_BONUSES: number
+declare const ADVANCED_STAT_DISPLAY_TYPE_INSPIRATION_BONUS: number
+declare const ADVANCED_STAT_DISPLAY_TYPE_MAGIC_DAMAGE: number
+declare const ADVANCED_STAT_DISPLAY_TYPE_MAGIC_RESIST: number
+declare const ADVANCED_STAT_DISPLAY_TYPE_MONSTER_KILL_XP: number
+declare const ADVANCED_STAT_DISPLAY_TYPE_NONE: number
+declare const ADVANCED_STAT_DISPLAY_TYPE_OBLIVION_DAMAGE: number
+declare const ADVANCED_STAT_DISPLAY_TYPE_OBLIVION_RESIST: number
+declare const ADVANCED_STAT_DISPLAY_TYPE_PHYSICAL_DAMAGE: number
+declare const ADVANCED_STAT_DISPLAY_TYPE_PHYSICAL_PENETRATION: number
+declare const ADVANCED_STAT_DISPLAY_TYPE_PHYSICAL_RESIST: number
+declare const ADVANCED_STAT_DISPLAY_TYPE_PLAYER_KILL_XP: number
+declare const ADVANCED_STAT_DISPLAY_TYPE_POISON_DAMAGE: number
+declare const ADVANCED_STAT_DISPLAY_TYPE_POISON_RESIST: number
+declare const ADVANCED_STAT_DISPLAY_TYPE_SHOCK_DAMAGE: number
+declare const ADVANCED_STAT_DISPLAY_TYPE_SHOCK_RESIST: number
+declare const ADVANCED_STAT_DISPLAY_TYPE_SNEAK_COST: number
+declare const ADVANCED_STAT_DISPLAY_TYPE_SNEAK_SPEED_REDUCTION: number
+declare const ADVANCED_STAT_DISPLAY_TYPE_SPELL_PENETRATION: number
+declare const ADVANCED_STAT_DISPLAY_TYPE_SPELL_RESIST: number
+declare const ADVANCED_STAT_DISPLAY_TYPE_SPRINT_COST: number
+declare const ADVANCED_STAT_DISPLAY_TYPE_SPRINT_SPEED: number
+declare const ADVANCED_STAT_DISPLAY_TYPE_SUBSCRIBER_ALLIANCE_POINTS_BONUS: number
+declare const ADVANCED_STAT_DISPLAY_TYPE_SUBSCRIBER_ALL_XP: number
+declare const ADVANCED_STAT_DISPLAY_TYPE_SUBSCRIBER_COIN_BONUS: number
+declare const ADVANCED_STAT_DISPLAY_TYPE_SUBSCRIBER_INSPIRATION_BONUS: number
+declare const ADVANCED_STAT_DISPLAY_TYPE_SUBSCRIBER_TELVAR_BONUS: number
+declare const ADVANCED_STAT_DISPLAY_TYPE_TELVAR_BONUS: number
+declare const ADVANCED_STAT_DISPLAY_TYPE_ULTIMATE_REGEN_COMBAT: number
+
+// AttributePointAllocationMode
+type AttributePointAllocationMode = number
+declare const ATTRIBUTE_POINT_ALLOCATION_MODE_FULL: number
+declare const ATTRIBUTE_POINT_ALLOCATION_MODE_PURCHASE_ONLY: number
+
+// Attributes
+type Attributes = number
+declare const ATTRIBUTE_HEALTH: number
+declare const ATTRIBUTE_MAGICKA: number
+declare const ATTRIBUTE_NONE: number
+declare const ATTRIBUTE_STAMINA: number
+
+// BlockState
+type BlockState = number
+declare const BLOCK_STATE_ACTIVE: number
+declare const BLOCK_STATE_BLOCKED: number
+declare const BLOCK_STATE_CLIENT_REQUESTED: number
+declare const BLOCK_STATE_DRAINED: number
+declare const BLOCK_STATE_IDLE: number
+declare const BLOCK_STATE_NONE: number
+declare const BLOCK_STATE_OVERRIDDEN: number
+
+// CombatMechanicFlags
+type CombatMechanicFlags = number
+declare const COMBAT_MECHANIC_FLAGS_DAEDRIC: number
+declare const COMBAT_MECHANIC_FLAGS_HEALTH: number
+declare const COMBAT_MECHANIC_FLAGS_MAGICKA: number
+declare const COMBAT_MECHANIC_FLAGS_MOUNT_STAMINA: number
+declare const COMBAT_MECHANIC_FLAGS_STAMINA: number
+declare const COMBAT_MECHANIC_FLAGS_ULTIMATE: number
+declare const COMBAT_MECHANIC_FLAGS_WEREWOLF: number
+
+// CombatUnitType
+type CombatUnitType = number
+declare const COMBAT_UNIT_TYPE_GROUP: number
+declare const COMBAT_UNIT_TYPE_NONE: number
+declare const COMBAT_UNIT_TYPE_OTHER: number
+declare const COMBAT_UNIT_TYPE_PLAYER: number
+declare const COMBAT_UNIT_TYPE_PLAYER_COMPANION: number
+declare const COMBAT_UNIT_TYPE_PLAYER_PET: number
+declare const COMBAT_UNIT_TYPE_TARGET_DUMMY: number
+
+// DamageType
+type DamageType = number
+declare const DAMAGE_TYPE_BLEED: number
+declare const DAMAGE_TYPE_COLD: number
+declare const DAMAGE_TYPE_DISEASE: number
+declare const DAMAGE_TYPE_DROWN: number
+declare const DAMAGE_TYPE_EARTH: number
+declare const DAMAGE_TYPE_FIRE: number
+declare const DAMAGE_TYPE_GENERIC: number
+declare const DAMAGE_TYPE_MAGIC: number
+declare const DAMAGE_TYPE_NONE: number
+declare const DAMAGE_TYPE_OBLIVION: number
+declare const DAMAGE_TYPE_PHYSICAL: number
+declare const DAMAGE_TYPE_POISON: number
+declare const DAMAGE_TYPE_SHOCK: number
+
+// DerivedStats
+type DerivedStats = number
+declare const STAT_ARMOR_RATING: number
+declare const STAT_ATTACK_POWER: number
+declare const STAT_BLOCK: number
+declare const STAT_CRITICAL_CHANCE: number
+declare const STAT_CRITICAL_RESISTANCE: number
+declare const STAT_CRITICAL_STRIKE: number
+declare const STAT_DAMAGE_RESIST_BLEED: number
+declare const STAT_DAMAGE_RESIST_COLD: number
+declare const STAT_DAMAGE_RESIST_DISEASE: number
+declare const STAT_DAMAGE_RESIST_DROWN: number
+declare const STAT_DAMAGE_RESIST_EARTH: number
+declare const STAT_DAMAGE_RESIST_FIRE: number
+declare const STAT_DAMAGE_RESIST_GENERIC: number
+declare const STAT_DAMAGE_RESIST_MAGIC: number
+declare const STAT_DAMAGE_RESIST_OBLIVION: number
+declare const STAT_DAMAGE_RESIST_PHYSICAL: number
+declare const STAT_DAMAGE_RESIST_POISON: number
+declare const STAT_DAMAGE_RESIST_SHOCK: number
+declare const STAT_DAMAGE_RESIST_START: number
+declare const STAT_DEPRECATED_0: number
+declare const STAT_DEPRECATED_1: number
+declare const STAT_DEPRECATED_2: number
+declare const STAT_DEPRECATED_3: number
+declare const STAT_DODGE: number
+declare const STAT_HEALING_DONE: number
+declare const STAT_HEALING_TAKEN: number
+declare const STAT_HEALTH_MAX: number
+declare const STAT_HEALTH_REGEN_COMBAT: number
+declare const STAT_HEALTH_REGEN_IDLE: number
+declare const STAT_MAGICKA_MAX: number
+declare const STAT_MAGICKA_REGEN_COMBAT: number
+declare const STAT_MAGICKA_REGEN_IDLE: number
+declare const STAT_MISS: number
+declare const STAT_MITIGATION: number
+declare const STAT_MOUNT_STAMINA_MAX: number
+declare const STAT_MOUNT_STAMINA_REGEN_COMBAT: number
+declare const STAT_MOUNT_STAMINA_REGEN_MOVING: number
+declare const STAT_NONE: number
+declare const STAT_OFFENSIVE_PENETRATION: number
+declare const STAT_PHYSICAL_PENETRATION: number
+declare const STAT_PHYSICAL_RESIST: number
+declare const STAT_POWER: number
+declare const STAT_SPELL_CRITICAL: number
+declare const STAT_SPELL_MITIGATION: number
+declare const STAT_SPELL_PENETRATION: number
+declare const STAT_SPELL_POWER: number
+declare const STAT_SPELL_RESIST: number
+declare const STAT_STAMINA_MAX: number
+declare const STAT_STAMINA_REGEN_COMBAT: number
+declare const STAT_STAMINA_REGEN_IDLE: number
+declare const STAT_WEAPON_AND_SPELL_DAMAGE: number
+
+// DuelResult
+type DuelResult = number
+declare const DUEL_RESULT_FORFEIT: number
+declare const DUEL_RESULT_WON: number
+
+// EffectResult
+type EffectResult = number
+declare const EFFECT_RESULT_FADED: number
+declare const EFFECT_RESULT_FULL_REFRESH: number
+declare const EFFECT_RESULT_GAINED: number
+declare const EFFECT_RESULT_TRANSFER: number
+declare const EFFECT_RESULT_UPDATED: number
+
+// MountFailureReason
+type MountFailureReason = number
+declare const MOUNT_FAILURE_REASON_BUSY: number
+declare const MOUNT_FAILURE_REASON_CARRYING_OBJECTIVE: number
+declare const MOUNT_FAILURE_REASON_COLLECTIBLE_BLACKLISTED: number
+declare const MOUNT_FAILURE_REASON_CROUCHING: number
+declare const MOUNT_FAILURE_REASON_GROUP_MOUNT_ALREADY_MOUNTED: number
+declare const MOUNT_FAILURE_REASON_GROUP_MOUNT_INVALID_TARGET: number
+declare const MOUNT_FAILURE_REASON_GROUP_MOUNT_NOT_IN_GROUP: number
+declare const MOUNT_FAILURE_REASON_GROUP_MOUNT_NO_FREE_SLOTS: number
+declare const MOUNT_FAILURE_REASON_GROUP_MOUNT_TARGET_MOVING: number
+declare const MOUNT_FAILURE_REASON_GROUP_MOUNT_TOO_FAR: number
+declare const MOUNT_FAILURE_REASON_INVALID_LOCATION: number
+declare const MOUNT_FAILURE_REASON_INVENTORY_BUSY: number
+declare const MOUNT_FAILURE_REASON_INVENTORY_TOO_FULL: number
+declare const MOUNT_FAILURE_REASON_IN_COMBAT: number
+declare const MOUNT_FAILURE_REASON_IS_BLOCKING: number
+declare const MOUNT_FAILURE_REASON_IS_WEREWOLF: number
+declare const MOUNT_FAILURE_REASON_MOUNT_IN_COMBAT: number
+declare const MOUNT_FAILURE_REASON_NOT_GROUP_MOUNT: number
+declare const MOUNT_FAILURE_REASON_NO_ACTIVE_MOUNT: number
+
+// ResurrectResult
+type ResurrectResult = number
+declare const RESURRECT_RESULT_ALREADY_CONSIDERING: number
+declare const RESURRECT_RESULT_DECLINED: number
+declare const RESURRECT_RESULT_IN_KILLZONE: number
+declare const RESURRECT_RESULT_NO_SOUL_GEM: number
+declare const RESURRECT_RESULT_SOUL_GEM_IN_USE: number
+declare const RESURRECT_RESULT_SUCCESS: number
+
+// StatBonusOption
+type StatBonusOption = number
+declare const STAT_BONUS_OPTION_APPLY_BONUS: number
+declare const STAT_BONUS_OPTION_DONT_APPLY_BONUS: number
+
+// StatusEffectType
+type StatusEffectType = number
+declare const STATUS_EFFECT_TYPE_BLEED: number
+declare const STATUS_EFFECT_TYPE_BLIND: number
+declare const STATUS_EFFECT_TYPE_CHARM: number
+declare const STATUS_EFFECT_TYPE_DAZED: number
+declare const STATUS_EFFECT_TYPE_DISEASE: number
+declare const STATUS_EFFECT_TYPE_ENVIRONMENT: number
+declare const STATUS_EFFECT_TYPE_FEAR: number
+declare const STATUS_EFFECT_TYPE_LEVITATE: number
+declare const STATUS_EFFECT_TYPE_MAGIC: number
+declare const STATUS_EFFECT_TYPE_MESMERIZE: number
+declare const STATUS_EFFECT_TYPE_NEARSIGHT: number
+declare const STATUS_EFFECT_TYPE_NONE: number
+declare const STATUS_EFFECT_TYPE_PACIFY: number
+declare const STATUS_EFFECT_TYPE_POISON: number
+declare const STATUS_EFFECT_TYPE_PUNCTURE: number
+declare const STATUS_EFFECT_TYPE_ROOT: number
+declare const STATUS_EFFECT_TYPE_SILENCE: number
+declare const STATUS_EFFECT_TYPE_SNARE: number
+declare const STATUS_EFFECT_TYPE_STUN: number
+declare const STATUS_EFFECT_TYPE_TRAUMA: number
+declare const STATUS_EFFECT_TYPE_WEAKNESS: number
+declare const STATUS_EFFECT_TYPE_WOUND: number
+
+// StealthState
+type StealthState = number
+declare const STEALTH_STATE_DETECTED: number
+declare const STEALTH_STATE_HIDDEN: number
+declare const STEALTH_STATE_HIDDEN_ALMOST_DETECTED: number
+declare const STEALTH_STATE_HIDING: number
+declare const STEALTH_STATE_NONE: number
+declare const STEALTH_STATE_STEALTH: number
+declare const STEALTH_STATE_STEALTH_ALMOST_DETECTED: number
+
+declare const MAX_PET_UNIT_TAGS: number
+
+declare const MAX_CROWN_CRATE_REWARD_SLOTS: number
+
+// CurrencyChangeReason
+type CurrencyChangeReason = number
+declare const CURRENCY_CHANGE_REASON_ABILITY_UPGRADE_PURCHASE: number
+declare const CURRENCY_CHANGE_REASON_ACHIEVEMENT: number
+declare const CURRENCY_CHANGE_REASON_ACTION: number
+declare const CURRENCY_CHANGE_REASON_ANTIQUITY_REWARD: number
+declare const CURRENCY_CHANGE_REASON_BAGSPACE: number
+declare const CURRENCY_CHANGE_REASON_BANKSPACE: number
+declare const CURRENCY_CHANGE_REASON_BANK_DEPOSIT: number
+declare const CURRENCY_CHANGE_REASON_BANK_FEE: number
+declare const CURRENCY_CHANGE_REASON_BANK_WITHDRAWAL: number
+declare const CURRENCY_CHANGE_REASON_BATTLEGROUND: number
+declare const CURRENCY_CHANGE_REASON_BOUNTY_CONFISCATED: number
+declare const CURRENCY_CHANGE_REASON_BOUNTY_PAID_FENCE: number
+declare const CURRENCY_CHANGE_REASON_BOUNTY_PAID_GUARD: number
+declare const CURRENCY_CHANGE_REASON_BUYBACK: number
+declare const CURRENCY_CHANGE_REASON_CACHE_REDEEMED_FOR_TOME_POINTS: number
+declare const CURRENCY_CHANGE_REASON_CASH_ON_DELIVERY: number
+declare const CURRENCY_CHANGE_REASON_CHARACTER_UPGRADE: number
+declare const CURRENCY_CHANGE_REASON_COMMAND: number
+declare const CURRENCY_CHANGE_REASON_CONSUME_FOOD_DRINK: number
+declare const CURRENCY_CHANGE_REASON_CONSUME_POTION: number
+declare const CURRENCY_CHANGE_REASON_CONVERSATION: number
+declare const CURRENCY_CHANGE_REASON_CRAFT: number
+declare const CURRENCY_CHANGE_REASON_CROWNS_PURCHASED: number
+declare const CURRENCY_CHANGE_REASON_CROWN_CRATE_DUPLICATE: number
+declare const CURRENCY_CHANGE_REASON_DEATH: number
+declare const CURRENCY_CHANGE_REASON_DECONSTRUCT: number
+declare const CURRENCY_CHANGE_REASON_DEFENSIVE_KEEP_REWARD: number
+declare const CURRENCY_CHANGE_REASON_DEPRECATED_0: number
+declare const CURRENCY_CHANGE_REASON_DEPRECATED_1: number
+declare const CURRENCY_CHANGE_REASON_DEPRECATED_2: number
+declare const CURRENCY_CHANGE_REASON_DEPRECATED_3: number
+declare const CURRENCY_CHANGE_REASON_EDIT_GUILD_HERALDRY: number
+declare const CURRENCY_CHANGE_REASON_ENDLESS_DUNGEON_VISION_REROLL: number
+declare const CURRENCY_CHANGE_REASON_EVENT_TICKET_TO_TRADE_BARS_CONVERSION: number
+declare const CURRENCY_CHANGE_REASON_EXPIRATION: number
+declare const CURRENCY_CHANGE_REASON_FEED_MOUNT: number
+declare const CURRENCY_CHANGE_REASON_GUILD_BANK_DEPOSIT: number
+declare const CURRENCY_CHANGE_REASON_GUILD_BANK_WITHDRAWAL: number
+declare const CURRENCY_CHANGE_REASON_GUILD_FORWARD_CAMP: number
+declare const CURRENCY_CHANGE_REASON_GUILD_TABARD: number
+declare const CURRENCY_CHANGE_REASON_HARVEST_REAGENT: number
+declare const CURRENCY_CHANGE_REASON_ITEM_CONVERTED_TO_GEMS: number
+declare const CURRENCY_CHANGE_REASON_JUMP_FAILURE_REFUND: number
+declare const CURRENCY_CHANGE_REASON_KEEP_REPAIR: number
+declare const CURRENCY_CHANGE_REASON_KEEP_UPGRADE: number
+declare const CURRENCY_CHANGE_REASON_KILL: number
+declare const CURRENCY_CHANGE_REASON_LOOT: number
+declare const CURRENCY_CHANGE_REASON_LOOT_CURRENCY_CONTAINER: number
+declare const CURRENCY_CHANGE_REASON_LOOT_STOLEN: number
+declare const CURRENCY_CHANGE_REASON_MAIL: number
+declare const CURRENCY_CHANGE_REASON_MEDAL: number
+declare const CURRENCY_CHANGE_REASON_OFFENSIVE_KEEP_REWARD: number
+declare const CURRENCY_CHANGE_REASON_PICKPOCKET: number
+declare const CURRENCY_CHANGE_REASON_PLAYER_INIT: number
+declare const CURRENCY_CHANGE_REASON_PURCHASED_TAMRIEL_TOMES_PREMIUM_PLUS: number
+declare const CURRENCY_CHANGE_REASON_PURCHASED_TAMRIEL_TOMES_REWARD: number
+declare const CURRENCY_CHANGE_REASON_PURCHASED_WITH_CROWNS: number
+declare const CURRENCY_CHANGE_REASON_PURCHASED_WITH_GEMS: number
+declare const CURRENCY_CHANGE_REASON_PURCHASED_WITH_SEALS: number
+declare const CURRENCY_CHANGE_REASON_PURCHASED_WITH_TRADE_BARS: number
+declare const CURRENCY_CHANGE_REASON_PVP_KILL_TRANSFER: number
+declare const CURRENCY_CHANGE_REASON_PVP_RESURRECT: number
+declare const CURRENCY_CHANGE_REASON_QUESTREWARD: number
+declare const CURRENCY_CHANGE_REASON_RECIPE: number
+declare const CURRENCY_CHANGE_REASON_RECONSTRUCTION: number
+declare const CURRENCY_CHANGE_REASON_REFORGE: number
+declare const CURRENCY_CHANGE_REASON_RESEARCH_TRAIT: number
+declare const CURRENCY_CHANGE_REASON_RESPEC_ATTRIBUTES: number
+declare const CURRENCY_CHANGE_REASON_RESPEC_CHAMPION: number
+declare const CURRENCY_CHANGE_REASON_RESPEC_MORPHS: number
+declare const CURRENCY_CHANGE_REASON_RESPEC_SKILLS: number
+declare const CURRENCY_CHANGE_REASON_RESPEC_SUBCLASS: number
+declare const CURRENCY_CHANGE_REASON_REWARD: number
+declare const CURRENCY_CHANGE_REASON_SELL_STOLEN: number
+declare const CURRENCY_CHANGE_REASON_SOULWEARY: number
+declare const CURRENCY_CHANGE_REASON_SOUL_HEAL: number
+declare const CURRENCY_CHANGE_REASON_STABLESPACE: number
+declare const CURRENCY_CHANGE_REASON_STUCK: number
+declare const CURRENCY_CHANGE_REASON_TAMRIEL_TOMES_END_OF_SEASON_ROLLOVER_CAP: number
+declare const CURRENCY_CHANGE_REASON_TOME_CHALLENGE_REROLL: number
+declare const CURRENCY_CHANGE_REASON_TRADE: number
+declare const CURRENCY_CHANGE_REASON_TRADINGHOUSE_LISTING: number
+declare const CURRENCY_CHANGE_REASON_TRADINGHOUSE_PURCHASE: number
+declare const CURRENCY_CHANGE_REASON_TRADINGHOUSE_REFUND: number
+declare const CURRENCY_CHANGE_REASON_TRAIT_REVEAL: number
+declare const CURRENCY_CHANGE_REASON_TRAVEL_GRAVEYARD: number
+declare const CURRENCY_CHANGE_REASON_TRIBUTE: number
+declare const CURRENCY_CHANGE_REASON_UNKNOWN: number
+declare const CURRENCY_CHANGE_REASON_VENDOR: number
+declare const CURRENCY_CHANGE_REASON_VENDOR_LAUNDER: number
+declare const CURRENCY_CHANGE_REASON_VENDOR_REPAIR: number
+declare const CURRENCY_CHANGE_REASON_WEEKLY_REROLL_GRANT: number
+
+// CurrencyLocation
+type CurrencyLocation = number
+declare const CURRENCY_LOCATION_ACCOUNT: number
+declare const CURRENCY_LOCATION_BANK: number
+declare const CURRENCY_LOCATION_CHARACTER: number
+declare const CURRENCY_LOCATION_GUILD_BANK: number
+
+// CurrencyType
+type CurrencyType = number
+declare const CURT_ALLIANCE_POINTS: number
+declare const CURT_ARCHIVAL_FORTUNES: number
+declare const CURT_CROWNS: number
+declare const CURT_CROWN_GEMS: number
+declare const CURT_IMPERIAL_FRAGMENTS: number
+declare const CURT_MONEY: number
+declare const CURT_NONE: number
+declare const CURT_SEALS: number
+declare const CURT_STYLE_STONES: number
+declare const CURT_TELVAR_STONES: number
+declare const CURT_TOME_CHALLENGE_REROLLS: number
+declare const CURT_TOME_POINTS: number
+declare const CURT_TOME_POINT_CACHES: number
+declare const CURT_TOME_TOKENS: number
+declare const CURT_TRADE_BARS: number
+declare const CURT_TRANSMUTE_CRYSTALS: number
+declare const CURT_UNDAUNTED_KEYS: number
+declare const CURT_WRIT_VOUCHERS: number
+
+declare const MAX_PLAYER_CURRENCY: number
+
+// DyeHueCategory
+type DyeHueCategory = number
+declare const DYE_HUE_CATEGORY_BLUE: number
+declare const DYE_HUE_CATEGORY_BROWN: number
+declare const DYE_HUE_CATEGORY_GREEN: number
+declare const DYE_HUE_CATEGORY_GREY: number
+declare const DYE_HUE_CATEGORY_IRIDESCENT: number
+declare const DYE_HUE_CATEGORY_MIXED: number
+declare const DYE_HUE_CATEGORY_PURPLE: number
+declare const DYE_HUE_CATEGORY_RED: number
+declare const DYE_HUE_CATEGORY_YELLOW: number
+
+// DyeRarity
+type DyeRarity = number
+declare const DYE_RARITY_COMMON: number
+declare const DYE_RARITY_MATERIAL: number
+declare const DYE_RARITY_RARE: number
+declare const DYE_RARITY_UNCOMMON: number
+
+declare const INVALID_DYE_ID: number
+
+// GuildActivityAttributeValue
+type GuildActivityAttributeValue = number
+declare const GUILD_ACTIVITY_ATTRIBUTE_VALUE_ANTIQUITIES: number
+declare const GUILD_ACTIVITY_ATTRIBUTE_VALUE_CRAFTING: number
+declare const GUILD_ACTIVITY_ATTRIBUTE_VALUE_DUNGEONS: number
+declare const GUILD_ACTIVITY_ATTRIBUTE_VALUE_FISHING: number
+declare const GUILD_ACTIVITY_ATTRIBUTE_VALUE_HOUSING: number
+declare const GUILD_ACTIVITY_ATTRIBUTE_VALUE_JUSTICE: number
+declare const GUILD_ACTIVITY_ATTRIBUTE_VALUE_PVP: number
+declare const GUILD_ACTIVITY_ATTRIBUTE_VALUE_QUESTING: number
+declare const GUILD_ACTIVITY_ATTRIBUTE_VALUE_ROLEPLAYING: number
+declare const GUILD_ACTIVITY_ATTRIBUTE_VALUE_TRADING: number
+declare const GUILD_ACTIVITY_ATTRIBUTE_VALUE_TRIALS: number
+
+// GuildBankResult
+type GuildBankResult = number
+declare const GUILD_BANK_BAD_ITEM: number
+declare const GUILD_BANK_CANT_BE_STORED: number
+declare const GUILD_BANK_GUILD_TOO_SMALL: number
+declare const GUILD_BANK_INVENTORY_FULL: number
+declare const GUILD_BANK_ITEM_NOT_FOUND: number
+declare const GUILD_BANK_NOT_A_MEMBER: number
+declare const GUILD_BANK_NOT_ENOUGH_BANK_SPACE_FOR_GOLD: number
+declare const GUILD_BANK_NOT_ENOUGH_GOLD: number
+declare const GUILD_BANK_NOT_ENOUGH_GOLD_IN_BANK: number
+declare const GUILD_BANK_NOT_IN_A_GUILD: number
+declare const GUILD_BANK_NOT_OPEN: number
+declare const GUILD_BANK_NO_DEPOSIT_PERMISSION: number
+declare const GUILD_BANK_NO_DEPOSIT_STOLEN_ITEM: number
+declare const GUILD_BANK_NO_SPACE_LEFT: number
+declare const GUILD_BANK_NO_WITHDRAW_PERMISSION: number
+declare const GUILD_BANK_PARTIAL_SUCCESS: number
+declare const GUILD_BANK_QUEUED_DEPOSIT: number
+declare const GUILD_BANK_SUCCESS: number
+declare const GUILD_BANK_TRANSFER_PENDING: number
+declare const GUILD_BANK_UNAVAILABLE: number
+
+// GuildHistoryActivityEvent
+type GuildHistoryActivityEvent = number
+declare const GUILD_HISTORY_ACTIVITY_EVENT_ABOUT_US_EDITED: number
+declare const GUILD_HISTORY_ACTIVITY_EVENT_GUILD_MAIL_DELETED: number
+declare const GUILD_HISTORY_ACTIVITY_EVENT_GUILD_MAIL_SENT: number
+declare const GUILD_HISTORY_ACTIVITY_EVENT_MOTD_EDITED: number
+declare const GUILD_HISTORY_ACTIVITY_EVENT_RECRUITMENT_LISTED: number
+declare const GUILD_HISTORY_ACTIVITY_EVENT_RECRUITMENT_UNLISTED: number
+
+// GuildHistoryAvAActivityEvent
+type GuildHistoryAvAActivityEvent = number
+declare const GUILD_HISTORY_AVA_ACTIVITY_EVENT_KEEP_CLAIMED: number
+declare const GUILD_HISTORY_AVA_ACTIVITY_EVENT_KEEP_LOST: number
+declare const GUILD_HISTORY_AVA_ACTIVITY_EVENT_KEEP_RELEASED: number
+
+// GuildHistoryBankedCurrencyEvent
+type GuildHistoryBankedCurrencyEvent = number
+declare const GUILD_HISTORY_BANKED_CURRENCY_EVENT_DEPOSITED: number
+declare const GUILD_HISTORY_BANKED_CURRENCY_EVENT_HERALDRY_EDITED: number
+declare const GUILD_HISTORY_BANKED_CURRENCY_EVENT_KIOSK_BID: number
+declare const GUILD_HISTORY_BANKED_CURRENCY_EVENT_KIOSK_BID_REFUND: number
+declare const GUILD_HISTORY_BANKED_CURRENCY_EVENT_KIOSK_PURCHASED: number
+declare const GUILD_HISTORY_BANKED_CURRENCY_EVENT_WITHDRAWN: number
+
+// GuildHistoryBankedItemEvent
+type GuildHistoryBankedItemEvent = number
+declare const GUILD_HISTORY_BANKED_ITEM_EVENT_ADDED: number
+declare const GUILD_HISTORY_BANKED_ITEM_EVENT_REMOVED: number
+
+// GuildHistoryCategoryUpdateFlags
+type GuildHistoryCategoryUpdateFlags = number
+declare const GUILD_HISTORY_CATEGORY_UPDATE_FLAG_NEW_INFO: number
+declare const GUILD_HISTORY_CATEGORY_UPDATE_FLAG_REFRESHED: number
+declare const GUILD_HISTORY_CATEGORY_UPDATE_FLAG_RESPONSE_RECEIVED: number
+
+// GuildHistoryDataReadyState
+type GuildHistoryDataReadyState = number
+declare const GUILD_HISTORY_DATA_READY_STATE_INVALID_REQUEST: number
+declare const GUILD_HISTORY_DATA_READY_STATE_ON_COOLDOWN: number
+declare const GUILD_HISTORY_DATA_READY_STATE_READY: number
+declare const GUILD_HISTORY_DATA_READY_STATE_RESPONSE_PENDING: number
+
+// GuildHistoryEventCategory
+type GuildHistoryEventCategory = number
+declare const GUILD_HISTORY_EVENT_CATEGORY_ACTIVITY: number
+declare const GUILD_HISTORY_EVENT_CATEGORY_AVA_ACTIVITY: number
+declare const GUILD_HISTORY_EVENT_CATEGORY_BANKED_CURRENCY: number
+declare const GUILD_HISTORY_EVENT_CATEGORY_BANKED_ITEM: number
+declare const GUILD_HISTORY_EVENT_CATEGORY_MILESTONE: number
+declare const GUILD_HISTORY_EVENT_CATEGORY_ROSTER: number
+declare const GUILD_HISTORY_EVENT_CATEGORY_TRADER: number
+
+// GuildHistoryMilestoneEvent
+type GuildHistoryMilestoneEvent = number
+declare const GUILD_HISTORY_MILESTONE_EVENT_BANK_LOCKED: number
+declare const GUILD_HISTORY_MILESTONE_EVENT_BANK_UNLOCKED: number
+declare const GUILD_HISTORY_MILESTONE_EVENT_KIOSK_LOCKED: number
+declare const GUILD_HISTORY_MILESTONE_EVENT_KIOSK_UNLOCKED: number
+declare const GUILD_HISTORY_MILESTONE_EVENT_STORE_LOCKED: number
+declare const GUILD_HISTORY_MILESTONE_EVENT_STORE_UNLOCKED: number
+declare const GUILD_HISTORY_MILESTONE_EVENT_TABARD_LOCKED: number
+declare const GUILD_HISTORY_MILESTONE_EVENT_TABARD_UNLOCKED: number
+
+// GuildHistoryRosterEvent
+type GuildHistoryRosterEvent = number
+declare const GUILD_HISTORY_ROSTER_EVENT_ADDED_TO_BLACKLIST: number
+declare const GUILD_HISTORY_ROSTER_EVENT_APPLICATION_ACCEPTED: number
+declare const GUILD_HISTORY_ROSTER_EVENT_APPLICATION_DECLINED: number
+declare const GUILD_HISTORY_ROSTER_EVENT_DEMOTE: number
+declare const GUILD_HISTORY_ROSTER_EVENT_EDIT_BLACKLIST_NOTE: number
+declare const GUILD_HISTORY_ROSTER_EVENT_INVITE: number
+declare const GUILD_HISTORY_ROSTER_EVENT_JOIN: number
+declare const GUILD_HISTORY_ROSTER_EVENT_KICKED: number
+declare const GUILD_HISTORY_ROSTER_EVENT_LEAVE: number
+declare const GUILD_HISTORY_ROSTER_EVENT_PROMOTE: number
+declare const GUILD_HISTORY_ROSTER_EVENT_REMOVED_FROM_BLACKLIST: number
+
+// GuildHistoryTraderEvent
+type GuildHistoryTraderEvent = number
+declare const GUILD_HISTORY_TRADER_EVENT_ITEM_SOLD: number
+
+// GuildPermission
+type GuildPermission = number
+declare const GUILD_PERMISSION_BANK_DEPOSIT: number
+declare const GUILD_PERMISSION_BANK_VIEW_DEPOSIT_HISTORY: number
+declare const GUILD_PERMISSION_BANK_VIEW_GOLD: number
+declare const GUILD_PERMISSION_BANK_VIEW_WITHDRAW_HISTORY: number
+declare const GUILD_PERMISSION_BANK_WITHDRAW: number
+declare const GUILD_PERMISSION_BANK_WITHDRAW_GOLD: number
+declare const GUILD_PERMISSION_CHAT: number
+declare const GUILD_PERMISSION_CLAIM_AVA_RESOURCE: number
+declare const GUILD_PERMISSION_DEMOTE: number
+declare const GUILD_PERMISSION_DESCRIPTION_EDIT: number
+declare const GUILD_PERMISSION_EDIT_HERALDRY: number
+declare const GUILD_PERMISSION_GUILD_KIOSK_BID: number
+declare const GUILD_PERMISSION_INVITE: number
+declare const GUILD_PERMISSION_MANAGE_APPLICATIONS: number
+declare const GUILD_PERMISSION_MANAGE_BLACKLIST: number
+declare const GUILD_PERMISSION_NONE: number
+declare const GUILD_PERMISSION_NOTE_EDIT: number
+declare const GUILD_PERMISSION_NOTE_READ: number
+declare const GUILD_PERMISSION_OFFICER_CHAT_READ: number
+declare const GUILD_PERMISSION_OFFICER_CHAT_WRITE: number
+declare const GUILD_PERMISSION_PERMISSION_EDIT: number
+declare const GUILD_PERMISSION_PROMOTE: number
+declare const GUILD_PERMISSION_RECRUITMENT_EDIT: number
+declare const GUILD_PERMISSION_RELEASE_AVA_RESOURCE: number
+declare const GUILD_PERMISSION_REMOVE: number
+declare const GUILD_PERMISSION_SEND_DELETE_GUILD_MAILER: number
+declare const GUILD_PERMISSION_SET_MOTD: number
+declare const GUILD_PERMISSION_STORE_BUY: number
+declare const GUILD_PERMISSION_STORE_SELL: number
+
+// GuildPrivilege
+type GuildPrivilege = number
+declare const GUILD_PRIVILEGE_BANK_DEPOSIT: number
+declare const GUILD_PRIVILEGE_HERALDRY: number
+declare const GUILD_PRIVILEGE_TRADING_HOUSE: number
+
+declare const MAX_GUILD_MEMBERS: number
+declare const MAX_GUILD_APPLICATION_TIME_IN_DAYS: number
+declare const MAX_GUILD_BLACKLISTED_PLAYERS: number
+declare const MAX_GUILD_ENTRIES_PER_MESSAGE: number
+declare const MAX_GUILD_FINDER_APPLICATIONS_PER_ACCOUNT: number
+declare const MAX_GUILDS: number
+declare const MAX_GUILD_RANKS: number
+declare const MAX_GUILD_MAIL_PER_GUILD: number
+declare const MAX_PENDING_APPLICATIONS_PER_GUILD: number
+declare const MIN_REQUIRED_LEVEL_TO_CREATE_GUILD: number
+
+// HousingEditorMode
+type HousingEditorMode = number
+declare const HOUSING_EDITOR_MODE_BROWSE: number
+declare const HOUSING_EDITOR_MODE_DISABLED: number
+declare const HOUSING_EDITOR_MODE_LINK: number
+declare const HOUSING_EDITOR_MODE_NODE_PLACEMENT: number
+declare const HOUSING_EDITOR_MODE_PATH: number
+declare const HOUSING_EDITOR_MODE_PLACEMENT: number
+declare const HOUSING_EDITOR_MODE_SELECTION: number
+
+declare const HOUSING_MAX_FURNITURE_CHILDREN: number
+declare const HOUSING_MAX_PATH_NODE_WAIT_TIME: number
+declare const HOUSING_MAX_FURNITURE_PATH_NODES: number
+declare const HOUSING_MAX_GUILD_USER_GROUP_ENTRIES: number
+declare const MAX_HOUSE_TOURS_CATEGORY_TYPE_FILTERS: number
+declare const MAX_HOUSE_TOURS_HOUSE_FILTERS: number
+declare const MAX_HOUSE_TOURS_LISTING_FAVORITES: number
+declare const MAX_HOUSE_TOURS_LISTING_TAGS: number
+declare const MAX_HOUSE_TOURS_WEEKLY_RECOMMENDATIONS: number
+declare const MAX_HOUSES_FOR_PERMISSIONS: number
+declare const HOUSING_MAX_INDIVIDUAL_USER_GROUP_ENTRIES: number
+declare const HOUSING_MAX_PATHS: number
+declare const HOUSING_MAX_UNDO_REDO_COMMANDS: number
+declare const HOUSING_MIN_PATH_NODE_WAIT_TIME: number
+
+// GamepadTooltipColors
+type GamepadTooltipColors = number
+declare const GAMEPAD_TOOLTIP_COLOR_ABILITY_UPGRADE: number
+declare const GAMEPAD_TOOLTIP_COLOR_ACTIVE: number
+declare const GAMEPAD_TOOLTIP_COLOR_FAILED: number
+declare const GAMEPAD_TOOLTIP_COLOR_GENERAL_COLOR_1: number
+declare const GAMEPAD_TOOLTIP_COLOR_GENERAL_COLOR_2: number
+declare const GAMEPAD_TOOLTIP_COLOR_GENERAL_COLOR_3: number
+declare const GAMEPAD_TOOLTIP_COLOR_INACTIVE: number
+declare const GAMEPAD_TOOLTIP_COLOR_SUCCEEDED: number
+
+// InterfaceColorType
+type InterfaceColorType = number
+declare const INTERFACE_COLOR_TYPE_ABILITY_TOOLTIP: number
+declare const INTERFACE_COLOR_TYPE_ACTIVE_COMBAT_TIP: number
+declare const INTERFACE_COLOR_TYPE_ALLIANCE: number
+declare const INTERFACE_COLOR_TYPE_ANTIQUITY_DIGGING: number
+declare const INTERFACE_COLOR_TYPE_ANTIQUITY_QUALITY_COLORS: number
+declare const INTERFACE_COLOR_TYPE_ATTRIBUTE_TOOLTIP: number
+declare const INTERFACE_COLOR_TYPE_ATTRIBUTE_UPGRADE_PROJECTED: number
+declare const INTERFACE_COLOR_TYPE_BATTLEGROUND_TEAM: number
+declare const INTERFACE_COLOR_TYPE_BOOK_MEDIUM: number
+declare const INTERFACE_COLOR_TYPE_BUFF_TYPE: number
+declare const INTERFACE_COLOR_TYPE_CAST_BAR_END: number
+declare const INTERFACE_COLOR_TYPE_CAST_BAR_START: number
+declare const INTERFACE_COLOR_TYPE_CHAT_CHANNEL_CATEGORY_DEFAULTS: number
+declare const INTERFACE_COLOR_TYPE_CON_COLORS: number
+declare const INTERFACE_COLOR_TYPE_CURRENCY: number
+declare const INTERFACE_COLOR_TYPE_DEATH_INTERFACE_COLORS: number
+declare const INTERFACE_COLOR_TYPE_DEFAULT_COLOR: number
+declare const INTERFACE_COLOR_TYPE_FINESSE: number
+declare const INTERFACE_COLOR_TYPE_GAMEPAD_TOOLTIP: number
+declare const INTERFACE_COLOR_TYPE_GENERAL: number
+declare const INTERFACE_COLOR_TYPE_ITEM_QUALITY_COLORS: number
+declare const INTERFACE_COLOR_TYPE_ITEM_TOOLTIP: number
+declare const INTERFACE_COLOR_TYPE_KEEP_TOOLTIP: number
+declare const INTERFACE_COLOR_TYPE_LEADERBOARD_COLORS: number
+declare const INTERFACE_COLOR_TYPE_LEVEL_UP: number
+declare const INTERFACE_COLOR_TYPE_LINK: number
+declare const INTERFACE_COLOR_TYPE_LOADING_SCREEN: number
+declare const INTERFACE_COLOR_TYPE_MAPPIN_TOOLTIP: number
+declare const INTERFACE_COLOR_TYPE_MAP_PIN: number
+declare const INTERFACE_COLOR_TYPE_MARKET_COLORS: number
+declare const INTERFACE_COLOR_TYPE_NAME_PLATE: number
+declare const INTERFACE_COLOR_TYPE_NAME_PLATE_EFFECT_VISUAL_END: number
+declare const INTERFACE_COLOR_TYPE_NAME_PLATE_EFFECT_VISUAL_START: number
+declare const INTERFACE_COLOR_TYPE_NAME_PLATE_HEALTH_END: number
+declare const INTERFACE_COLOR_TYPE_NAME_PLATE_HEALTH_START: number
+declare const INTERFACE_COLOR_TYPE_NAME_PLATE_HIT_INDICATOR: number
+declare const INTERFACE_COLOR_TYPE_OBJECT_NOTIFICATION: number
+declare const INTERFACE_COLOR_TYPE_POWER: number
+declare const INTERFACE_COLOR_TYPE_POWER_END: number
+declare const INTERFACE_COLOR_TYPE_POWER_FADE_IN: number
+declare const INTERFACE_COLOR_TYPE_POWER_FADE_OUT: number
+declare const INTERFACE_COLOR_TYPE_POWER_START: number
+declare const INTERFACE_COLOR_TYPE_PROGRESSION: number
+declare const INTERFACE_COLOR_TYPE_SHARED_TOOLTIP: number
+declare const INTERFACE_COLOR_TYPE_SKILLS_ADVISOR: number
+declare const INTERFACE_COLOR_TYPE_SKILL_LINE_TOOLTIP: number
+declare const INTERFACE_COLOR_TYPE_STATUS_EFFECT: number
+declare const INTERFACE_COLOR_TYPE_STAT_VALUE: number
+declare const INTERFACE_COLOR_TYPE_TEXT_COLORS: number
+declare const INTERFACE_COLOR_TYPE_TRIBUTE_RESOURCE: number
+declare const INTERFACE_COLOR_TYPE_TRIBUTE_TIER: number
+declare const INTERFACE_COLOR_TYPE_ULTIMATE_BAR: number
+declare const INTERFACE_COLOR_TYPE_UNIT_CLASS: number
+declare const INTERFACE_COLOR_TYPE_UNIT_HIGHLIGHT_OVERRIDE: number
+declare const INTERFACE_COLOR_TYPE_UNIT_REACTION_COLOR: number
+declare const INTERFACE_COLOR_TYPE_VOICE_CHAT_COLORS: number
+
+// InterfaceTextColor
+type InterfaceTextColor = number
+declare const INTERFACE_TEXT_COLOR_ANNOUNCEMENTS: number
+declare const INTERFACE_TEXT_COLOR_BATTLEGROUND_WINNER: number
+declare const INTERFACE_TEXT_COLOR_BLADE: number
+declare const INTERFACE_TEXT_COLOR_BLADE_HIGHLIGHT: number
+declare const INTERFACE_TEXT_COLOR_BODY: number
+declare const INTERFACE_TEXT_COLOR_CHATTER_NPC: number
+declare const INTERFACE_TEXT_COLOR_CHATTER_PLAYER_OPTION: number
+declare const INTERFACE_TEXT_COLOR_CONTEXT_HIGHLIGHT: number
+declare const INTERFACE_TEXT_COLOR_CONTRAST: number
+declare const INTERFACE_TEXT_COLOR_CURRENCY_HIGHLIGHT: number
+declare const INTERFACE_TEXT_COLOR_DEFAULT_TEXT: number
+declare const INTERFACE_TEXT_COLOR_DISABLED: number
+declare const INTERFACE_TEXT_COLOR_FAILED: number
+declare const INTERFACE_TEXT_COLOR_GAMEPAD_CATEGORY_HEADER: number
+declare const INTERFACE_TEXT_COLOR_GAMEPAD_TERTIARY: number
+declare const INTERFACE_TEXT_COLOR_GAME_REPRESENTATIVE: number
+declare const INTERFACE_TEXT_COLOR_HIGHLIGHT: number
+declare const INTERFACE_TEXT_COLOR_HINT: number
+declare const INTERFACE_TEXT_COLOR_NORMAL: number
+declare const INTERFACE_TEXT_COLOR_PERSONALITY_EMOTES: number
+declare const INTERFACE_TEXT_COLOR_PROMOTIONAL_EVENTS: number
+declare const INTERFACE_TEXT_COLOR_PROMOTIONAL_EVENTS_DIMMED: number
+declare const INTERFACE_TEXT_COLOR_PROMOTIONAL_EVENTS_HIGHLIGHT: number
+declare const INTERFACE_TEXT_COLOR_SECOND_CONTRAST: number
+declare const INTERFACE_TEXT_COLOR_SECOND_NORMAL: number
+declare const INTERFACE_TEXT_COLOR_SECOND_SELECTED: number
+declare const INTERFACE_TEXT_COLOR_SELECTED: number
+declare const INTERFACE_TEXT_COLOR_SUBTLE: number
+declare const INTERFACE_TEXT_COLOR_SUCCEEDED: number
+declare const INTERFACE_TEXT_COLOR_TOOLTIP_DEFAULT: number
+declare const INTERFACE_TEXT_COLOR_TOOLTIP_INSTRUCTIONAL: number
+declare const INTERFACE_TEXT_COLOR_VALUE: number
+
+// ActiveWeaponPair
+type ActiveWeaponPair = number
+declare const ACTIVE_WEAPON_PAIR_BACKUP: number
+declare const ACTIVE_WEAPON_PAIR_MAIN: number
+declare const ACTIVE_WEAPON_PAIR_NONE: number
+
+// ArmorType
+type ArmorType = number
+declare const ARMORTYPE_HEAVY: number
+declare const ARMORTYPE_LIGHT: number
+declare const ARMORTYPE_MEDIUM: number
+declare const ARMORTYPE_NONE: number
+
+// Bag
+type Bag = number
+declare const BAG_BACKPACK: number
+declare const BAG_BANK: number
+declare const BAG_BUYBACK: number
+declare const BAG_COMPANION_WORN: number
+declare const BAG_FURNITURE_VAULT: number
+declare const BAG_GUILDBANK: number
+declare const BAG_HOUSE_BANK_EIGHT: number
+declare const BAG_HOUSE_BANK_FIVE: number
+declare const BAG_HOUSE_BANK_FOUR: number
+declare const BAG_HOUSE_BANK_NINE: number
+declare const BAG_HOUSE_BANK_ONE: number
+declare const BAG_HOUSE_BANK_SEVEN: number
+declare const BAG_HOUSE_BANK_SIX: number
+declare const BAG_HOUSE_BANK_TEN: number
+declare const BAG_HOUSE_BANK_THREE: number
+declare const BAG_HOUSE_BANK_TWO: number
+declare const BAG_SUBSCRIBER_BANK: number
+declare const BAG_VENGEANCE: number
+declare const BAG_VIRTUAL: number
+declare const BAG_WORN: number
+
+// BindType
+type BindType = number
+declare const BIND_TYPE_NONE: number
+declare const BIND_TYPE_ON_EQUIP: number
+declare const BIND_TYPE_ON_PICKUP: number
+declare const BIND_TYPE_ON_PICKUP_BACKPACK: number
+declare const BIND_TYPE_UNSET: number
+
+// EnchantingRuneClassification
+type EnchantingRuneClassification = number
+declare const ENCHANTING_RUNE_ASPECT: number
+declare const ENCHANTING_RUNE_ESSENCE: number
+declare const ENCHANTING_RUNE_NONE: number
+declare const ENCHANTING_RUNE_POTENCY: number
+
+// EquipSlot
+type EquipSlot = number
+declare const EQUIP_SLOT_BACKUP_MAIN: number
+declare const EQUIP_SLOT_BACKUP_OFF: number
+declare const EQUIP_SLOT_BACKUP_POISON: number
+declare const EQUIP_SLOT_CHEST: number
+declare const EQUIP_SLOT_CLASS1: number
+declare const EQUIP_SLOT_CLASS2: number
+declare const EQUIP_SLOT_CLASS3: number
+declare const EQUIP_SLOT_COSTUME: number
+declare const EQUIP_SLOT_FEET: number
+declare const EQUIP_SLOT_HAND: number
+declare const EQUIP_SLOT_HEAD: number
+declare const EQUIP_SLOT_LEGS: number
+declare const EQUIP_SLOT_MAIN_HAND: number
+declare const EQUIP_SLOT_NECK: number
+declare const EQUIP_SLOT_NONE: number
+declare const EQUIP_SLOT_OFF_HAND: number
+declare const EQUIP_SLOT_POISON: number
+declare const EQUIP_SLOT_RANGED: number
+declare const EQUIP_SLOT_RING1: number
+declare const EQUIP_SLOT_RING2: number
+declare const EQUIP_SLOT_SHOULDERS: number
+declare const EQUIP_SLOT_WAIST: number
+declare const EQUIP_SLOT_WRIST: number
+
+// EquipType
+type EquipType = number
+declare const EQUIP_TYPE_CHEST: number
+declare const EQUIP_TYPE_COSTUME: number
+declare const EQUIP_TYPE_FEET: number
+declare const EQUIP_TYPE_HAND: number
+declare const EQUIP_TYPE_HEAD: number
+declare const EQUIP_TYPE_INVALID: number
+declare const EQUIP_TYPE_LEGS: number
+declare const EQUIP_TYPE_MAIN_HAND: number
+declare const EQUIP_TYPE_NECK: number
+declare const EQUIP_TYPE_OFF_HAND: number
+declare const EQUIP_TYPE_ONE_HAND: number
+declare const EQUIP_TYPE_POISON: number
+declare const EQUIP_TYPE_RING: number
+declare const EQUIP_TYPE_SHOULDERS: number
+declare const EQUIP_TYPE_TWO_HAND: number
+declare const EQUIP_TYPE_WAIST: number
+
+// EquipmentFilterType
+type EquipmentFilterType = number
+declare const EQUIPMENT_FILTER_TYPE_BOW: number
+declare const EQUIPMENT_FILTER_TYPE_DESTRO_STAFF: number
+declare const EQUIPMENT_FILTER_TYPE_HEAVY: number
+declare const EQUIPMENT_FILTER_TYPE_LIGHT: number
+declare const EQUIPMENT_FILTER_TYPE_MEDIUM: number
+declare const EQUIPMENT_FILTER_TYPE_NECK: number
+declare const EQUIPMENT_FILTER_TYPE_NONE: number
+declare const EQUIPMENT_FILTER_TYPE_ONE_HANDED: number
+declare const EQUIPMENT_FILTER_TYPE_RESTO_STAFF: number
+declare const EQUIPMENT_FILTER_TYPE_RING: number
+declare const EQUIPMENT_FILTER_TYPE_SHIELD: number
+declare const EQUIPMENT_FILTER_TYPE_TWO_HANDED: number
+
+// GamepadItemCategory
+type GamepadItemCategory = number
+declare const GAMEPAD_ITEM_CATEGORY_ALCHEMY: number
+declare const GAMEPAD_ITEM_CATEGORY_AMULET: number
+declare const GAMEPAD_ITEM_CATEGORY_AXE: number
+declare const GAMEPAD_ITEM_CATEGORY_BAIT: number
+declare const GAMEPAD_ITEM_CATEGORY_BLACKSMITH: number
+declare const GAMEPAD_ITEM_CATEGORY_BOW: number
+declare const GAMEPAD_ITEM_CATEGORY_CHEST: number
+declare const GAMEPAD_ITEM_CATEGORY_CLOTHIER: number
+declare const GAMEPAD_ITEM_CATEGORY_COMPANION_AMULET: number
+declare const GAMEPAD_ITEM_CATEGORY_COMPANION_AXE: number
+declare const GAMEPAD_ITEM_CATEGORY_COMPANION_BOW: number
+declare const GAMEPAD_ITEM_CATEGORY_COMPANION_CHEST: number
+declare const GAMEPAD_ITEM_CATEGORY_COMPANION_DAGGER: number
+declare const GAMEPAD_ITEM_CATEGORY_COMPANION_FEET: number
+declare const GAMEPAD_ITEM_CATEGORY_COMPANION_HAMMER: number
+declare const GAMEPAD_ITEM_CATEGORY_COMPANION_HANDS: number
+declare const GAMEPAD_ITEM_CATEGORY_COMPANION_HEAD: number
+declare const GAMEPAD_ITEM_CATEGORY_COMPANION_LEGS: number
+declare const GAMEPAD_ITEM_CATEGORY_COMPANION_RING: number
+declare const GAMEPAD_ITEM_CATEGORY_COMPANION_SHIELD: number
+declare const GAMEPAD_ITEM_CATEGORY_COMPANION_SHOULDERS: number
+declare const GAMEPAD_ITEM_CATEGORY_COMPANION_STAFF: number
+declare const GAMEPAD_ITEM_CATEGORY_COMPANION_SWORD: number
+declare const GAMEPAD_ITEM_CATEGORY_COMPANION_WAIST: number
+declare const GAMEPAD_ITEM_CATEGORY_CONSUMABLE: number
+declare const GAMEPAD_ITEM_CATEGORY_COSTUME: number
+declare const GAMEPAD_ITEM_CATEGORY_DAGGER: number
+declare const GAMEPAD_ITEM_CATEGORY_DEPRECATED: number
+declare const GAMEPAD_ITEM_CATEGORY_ENCHANTING: number
+declare const GAMEPAD_ITEM_CATEGORY_FEET: number
+declare const GAMEPAD_ITEM_CATEGORY_GLYPHS: number
+declare const GAMEPAD_ITEM_CATEGORY_HAMMER: number
+declare const GAMEPAD_ITEM_CATEGORY_HANDS: number
+declare const GAMEPAD_ITEM_CATEGORY_HEAD: number
+declare const GAMEPAD_ITEM_CATEGORY_HEAVY_ARMOR: number
+declare const GAMEPAD_ITEM_CATEGORY_JEWELRY: number
+declare const GAMEPAD_ITEM_CATEGORY_JEWELRYCRAFTING: number
+declare const GAMEPAD_ITEM_CATEGORY_LEGS: number
+declare const GAMEPAD_ITEM_CATEGORY_LIGHT_ARMOR: number
+declare const GAMEPAD_ITEM_CATEGORY_MEDIUM_ARMOR: number
+declare const GAMEPAD_ITEM_CATEGORY_POTION: number
+declare const GAMEPAD_ITEM_CATEGORY_PROVISIONING: number
+declare const GAMEPAD_ITEM_CATEGORY_RING: number
+declare const GAMEPAD_ITEM_CATEGORY_SHIELD: number
+declare const GAMEPAD_ITEM_CATEGORY_SHOULDERS: number
+declare const GAMEPAD_ITEM_CATEGORY_SIEGE: number
+declare const GAMEPAD_ITEM_CATEGORY_SOUL_GEM: number
+declare const GAMEPAD_ITEM_CATEGORY_STAFF: number
+declare const GAMEPAD_ITEM_CATEGORY_STYLE_MATERIAL: number
+declare const GAMEPAD_ITEM_CATEGORY_SWORD: number
+declare const GAMEPAD_ITEM_CATEGORY_TOOL: number
+declare const GAMEPAD_ITEM_CATEGORY_TRAIT_ITEM: number
+declare const GAMEPAD_ITEM_CATEGORY_TROPHY: number
+declare const GAMEPAD_ITEM_CATEGORY_WAIST: number
+declare const GAMEPAD_ITEM_CATEGORY_WEAPONS: number
+declare const GAMEPAD_ITEM_CATEGORY_WOODWORKING: number
+
+// InventoryCountBagOption
+type InventoryCountBagOption = number
+declare const INVENTORY_COUNT_BAG_OPTION_BACKPACK: number
+declare const INVENTORY_COUNT_BAG_OPTION_BACKPACK_AND_BANK: number
+declare const INVENTORY_COUNT_BAG_OPTION_BACKPACK_AND_BANK_AND_CRAFT_BAG: number
+declare const INVENTORY_COUNT_BAG_OPTION_BACKPACK_AND_CRAFT_BAG: number
+declare const INVENTORY_COUNT_BAG_OPTION_BACKPACK_AND_VENGEANCE: number
+declare const INVENTORY_COUNT_BAG_OPTION_BACKPACK_AND_WORN: number
+declare const INVENTORY_COUNT_BAG_OPTION_BACKPACK_AND_WORN_AND_VENGEANCE: number
+declare const INVENTORY_COUNT_BAG_OPTION_BANK: number
+declare const INVENTORY_COUNT_BAG_OPTION_CRAFT_BAG: number
+declare const INVENTORY_COUNT_BAG_OPTION_FURNITURE: number
+declare const INVENTORY_COUNT_BAG_OPTION_GUILD_BANK: number
+declare const INVENTORY_COUNT_BAG_OPTION_HOUSE_BANKS: number
+declare const INVENTORY_COUNT_BAG_OPTION_HOUSE_BANK_EIGHT: number
+declare const INVENTORY_COUNT_BAG_OPTION_HOUSE_BANK_FIVE: number
+declare const INVENTORY_COUNT_BAG_OPTION_HOUSE_BANK_FOUR: number
+declare const INVENTORY_COUNT_BAG_OPTION_HOUSE_BANK_NINE: number
+declare const INVENTORY_COUNT_BAG_OPTION_HOUSE_BANK_ONE: number
+declare const INVENTORY_COUNT_BAG_OPTION_HOUSE_BANK_SEVEN: number
+declare const INVENTORY_COUNT_BAG_OPTION_HOUSE_BANK_SIX: number
+declare const INVENTORY_COUNT_BAG_OPTION_HOUSE_BANK_TEN: number
+declare const INVENTORY_COUNT_BAG_OPTION_HOUSE_BANK_THREE: number
+declare const INVENTORY_COUNT_BAG_OPTION_HOUSE_BANK_TWO: number
+declare const INVENTORY_COUNT_BAG_OPTION_VENGEANCE: number
+declare const INVENTORY_COUNT_BAG_OPTION_WORN: number
+
+// InventoryUpdateReason
+type InventoryUpdateReason = number
+declare const INVENTORY_UPDATE_REASON_ARMORY_BUILD_CHANGED: number
+declare const INVENTORY_UPDATE_REASON_DEFAULT: number
+declare const INVENTORY_UPDATE_REASON_DURABILITY_CHANGE: number
+declare const INVENTORY_UPDATE_REASON_DYE_CHANGE: number
+declare const INVENTORY_UPDATE_REASON_ITEM_CHARGE: number
+declare const INVENTORY_UPDATE_REASON_PLAYER_LOCKED: number
+
+// ItemDisplayQuality
+type ItemDisplayQuality = number
+declare const ITEM_DISPLAY_QUALITY_ARCANE: number
+declare const ITEM_DISPLAY_QUALITY_ARTIFACT: number
+declare const ITEM_DISPLAY_QUALITY_LEGENDARY: number
+declare const ITEM_DISPLAY_QUALITY_MAGIC: number
+declare const ITEM_DISPLAY_QUALITY_MYTHIC_OVERRIDE: number
+declare const ITEM_DISPLAY_QUALITY_NORMAL: number
+declare const ITEM_DISPLAY_QUALITY_TRASH: number
+
+// ItemFilterType
+type ItemFilterType = number
+declare const ITEMFILTERTYPE_ALCHEMY: number
+declare const ITEMFILTERTYPE_ALL: number
+declare const ITEMFILTERTYPE_ARMOR: number
+declare const ITEMFILTERTYPE_BLACKSMITHING: number
+declare const ITEMFILTERTYPE_BUYBACK: number
+declare const ITEMFILTERTYPE_CLOTHING: number
+declare const ITEMFILTERTYPE_COLLECTIBLE: number
+declare const ITEMFILTERTYPE_COMPANION: number
+declare const ITEMFILTERTYPE_CONSUMABLE: number
+declare const ITEMFILTERTYPE_CRAFTING: number
+declare const ITEMFILTERTYPE_DAMAGED: number
+declare const ITEMFILTERTYPE_ENCHANTING: number
+declare const ITEMFILTERTYPE_FURNISHING: number
+declare const ITEMFILTERTYPE_HOUSE_WITH_TEMPLATE: number
+declare const ITEMFILTERTYPE_JEWELRY: number
+declare const ITEMFILTERTYPE_JEWELRYCRAFTING: number
+declare const ITEMFILTERTYPE_JUNK: number
+declare const ITEMFILTERTYPE_MISCELLANEOUS: number
+declare const ITEMFILTERTYPE_PROVISIONING: number
+declare const ITEMFILTERTYPE_QUEST: number
+declare const ITEMFILTERTYPE_QUEST_QUICKSLOT: number
+declare const ITEMFILTERTYPE_QUICKSLOT: number
+declare const ITEMFILTERTYPE_STYLE_MATERIALS: number
+declare const ITEMFILTERTYPE_TRAIT_ITEMS: number
+declare const ITEMFILTERTYPE_UNUSED: number
+declare const ITEMFILTERTYPE_UNUSED2: number
+declare const ITEMFILTERTYPE_WEAPONS: number
+declare const ITEMFILTERTYPE_WOODWORKING: number
+
+// ItemLaunderResult
+type ItemLaunderResult = number
+declare const ITEM_LAUNDER_RESULT_AT_LIMIT: number
+declare const ITEM_LAUNDER_RESULT_CANT_AFFORD_LAUNDER: number
+declare const ITEM_LAUNDER_RESULT_INVALID: number
+declare const ITEM_LAUNDER_RESULT_INVENTORY_FULL: number
+declare const ITEM_LAUNDER_RESULT_ITEM_NOT_LAUNDERABLE: number
+declare const ITEM_LAUNDER_RESULT_NONE: number
+declare const ITEM_LAUNDER_RESULT_NOT_STOLEN: number
+declare const ITEM_LAUNDER_RESULT_SUCCESS: number
+
+// ItemQuality
+type ItemQuality = number
+declare const ITEM_FUNCTIONAL_QUALITY_ARCANE: number
+declare const ITEM_FUNCTIONAL_QUALITY_ARTIFACT: number
+declare const ITEM_FUNCTIONAL_QUALITY_LEGENDARY: number
+declare const ITEM_FUNCTIONAL_QUALITY_MAGIC: number
+declare const ITEM_FUNCTIONAL_QUALITY_NORMAL: number
+declare const ITEM_FUNCTIONAL_QUALITY_TRASH: number
+
+// ItemSetType
+type ItemSetType = number
+declare const ITEM_SET_TYPE_CRAFTED: number
+declare const ITEM_SET_TYPE_DUNGEON: number
+declare const ITEM_SET_TYPE_MONSTER: number
+declare const ITEM_SET_TYPE_NONE: number
+declare const ITEM_SET_TYPE_WEAPON: number
+declare const ITEM_SET_TYPE_WORLD: number
+
+// ItemStyleChapter
+type ItemStyleChapter = number
+declare const ITEM_STYLE_CHAPTER_ALL: number
+declare const ITEM_STYLE_CHAPTER_AXES: number
+declare const ITEM_STYLE_CHAPTER_BELTS: number
+declare const ITEM_STYLE_CHAPTER_BOOTS: number
+declare const ITEM_STYLE_CHAPTER_BOWS: number
+declare const ITEM_STYLE_CHAPTER_CHESTS: number
+declare const ITEM_STYLE_CHAPTER_DAGGERS: number
+declare const ITEM_STYLE_CHAPTER_GLOVES: number
+declare const ITEM_STYLE_CHAPTER_HELMETS: number
+declare const ITEM_STYLE_CHAPTER_LEGS: number
+declare const ITEM_STYLE_CHAPTER_MACES: number
+declare const ITEM_STYLE_CHAPTER_SHIELDS: number
+declare const ITEM_STYLE_CHAPTER_SHOULDERS: number
+declare const ITEM_STYLE_CHAPTER_STAVES: number
+declare const ITEM_STYLE_CHAPTER_SWORDS: number
+
+// ItemTagCategory
+type ItemTagCategory = number
+declare const TAG_CATEGORY_FURNITURE_BEHAVIOR: number
+declare const TAG_CATEGORY_NONE: number
+declare const TAG_CATEGORY_SOURCES: number
+declare const TAG_CATEGORY_TREASURE_TYPE: number
+
+// ItemTraitInformation
+type ItemTraitInformation = number
+declare const ITEM_TRAIT_INFORMATION_CAN_BE_RESEARCHED: number
+declare const ITEM_TRAIT_INFORMATION_INTRICATE: number
+declare const ITEM_TRAIT_INFORMATION_NONE: number
+declare const ITEM_TRAIT_INFORMATION_ORNATE: number
+declare const ITEM_TRAIT_INFORMATION_RECONSTRUCTED: number
+declare const ITEM_TRAIT_INFORMATION_RETRAITED: number
+
+// ItemTraitType
+type ItemTraitType = number
+declare const ITEM_TRAIT_TYPE_ARMOR_AGGRESSIVE: number
+declare const ITEM_TRAIT_TYPE_ARMOR_AUGMENTED: number
+declare const ITEM_TRAIT_TYPE_ARMOR_BOLSTERED: number
+declare const ITEM_TRAIT_TYPE_ARMOR_DIVINES: number
+declare const ITEM_TRAIT_TYPE_ARMOR_FOCUSED: number
+declare const ITEM_TRAIT_TYPE_ARMOR_IMPENETRABLE: number
+declare const ITEM_TRAIT_TYPE_ARMOR_INFUSED: number
+declare const ITEM_TRAIT_TYPE_ARMOR_INTRICATE: number
+declare const ITEM_TRAIT_TYPE_ARMOR_NIRNHONED: number
+declare const ITEM_TRAIT_TYPE_ARMOR_ORNATE: number
+declare const ITEM_TRAIT_TYPE_ARMOR_PROLIFIC: number
+declare const ITEM_TRAIT_TYPE_ARMOR_PROSPEROUS: number
+declare const ITEM_TRAIT_TYPE_ARMOR_QUICKENED: number
+declare const ITEM_TRAIT_TYPE_ARMOR_REINFORCED: number
+declare const ITEM_TRAIT_TYPE_ARMOR_SHATTERING: number
+declare const ITEM_TRAIT_TYPE_ARMOR_SOOTHING: number
+declare const ITEM_TRAIT_TYPE_ARMOR_STURDY: number
+declare const ITEM_TRAIT_TYPE_ARMOR_TRAINING: number
+declare const ITEM_TRAIT_TYPE_ARMOR_VIGOROUS: number
+declare const ITEM_TRAIT_TYPE_ARMOR_WELL_FITTED: number
+declare const ITEM_TRAIT_TYPE_JEWELRY_AGGRESSIVE: number
+declare const ITEM_TRAIT_TYPE_JEWELRY_ARCANE: number
+declare const ITEM_TRAIT_TYPE_JEWELRY_AUGMENTED: number
+declare const ITEM_TRAIT_TYPE_JEWELRY_BLOODTHIRSTY: number
+declare const ITEM_TRAIT_TYPE_JEWELRY_BOLSTERED: number
+declare const ITEM_TRAIT_TYPE_JEWELRY_FOCUSED: number
+declare const ITEM_TRAIT_TYPE_JEWELRY_HARMONY: number
+declare const ITEM_TRAIT_TYPE_JEWELRY_HEALTHY: number
+declare const ITEM_TRAIT_TYPE_JEWELRY_INFUSED: number
+declare const ITEM_TRAIT_TYPE_JEWELRY_INTRICATE: number
+declare const ITEM_TRAIT_TYPE_JEWELRY_ORNATE: number
+declare const ITEM_TRAIT_TYPE_JEWELRY_PROLIFIC: number
+declare const ITEM_TRAIT_TYPE_JEWELRY_PROTECTIVE: number
+declare const ITEM_TRAIT_TYPE_JEWELRY_QUICKENED: number
+declare const ITEM_TRAIT_TYPE_JEWELRY_ROBUST: number
+declare const ITEM_TRAIT_TYPE_JEWELRY_SHATTERING: number
+declare const ITEM_TRAIT_TYPE_JEWELRY_SOOTHING: number
+declare const ITEM_TRAIT_TYPE_JEWELRY_SWIFT: number
+declare const ITEM_TRAIT_TYPE_JEWELRY_TRIUNE: number
+declare const ITEM_TRAIT_TYPE_JEWELRY_VIGOROUS: number
+declare const ITEM_TRAIT_TYPE_NONE: number
+declare const ITEM_TRAIT_TYPE_WEAPON_AGGRESSIVE: number
+declare const ITEM_TRAIT_TYPE_WEAPON_AUGMENTED: number
+declare const ITEM_TRAIT_TYPE_WEAPON_BOLSTERED: number
+declare const ITEM_TRAIT_TYPE_WEAPON_CHARGED: number
+declare const ITEM_TRAIT_TYPE_WEAPON_DECISIVE: number
+declare const ITEM_TRAIT_TYPE_WEAPON_DEFENDING: number
+declare const ITEM_TRAIT_TYPE_WEAPON_FOCUSED: number
+declare const ITEM_TRAIT_TYPE_WEAPON_INFUSED: number
+declare const ITEM_TRAIT_TYPE_WEAPON_INTRICATE: number
+declare const ITEM_TRAIT_TYPE_WEAPON_NIRNHONED: number
+declare const ITEM_TRAIT_TYPE_WEAPON_ORNATE: number
+declare const ITEM_TRAIT_TYPE_WEAPON_POWERED: number
+declare const ITEM_TRAIT_TYPE_WEAPON_PRECISE: number
+declare const ITEM_TRAIT_TYPE_WEAPON_PROLIFIC: number
+declare const ITEM_TRAIT_TYPE_WEAPON_QUICKENED: number
+declare const ITEM_TRAIT_TYPE_WEAPON_SHARPENED: number
+declare const ITEM_TRAIT_TYPE_WEAPON_SHATTERING: number
+declare const ITEM_TRAIT_TYPE_WEAPON_SOOTHING: number
+declare const ITEM_TRAIT_TYPE_WEAPON_TRAINING: number
+declare const ITEM_TRAIT_TYPE_WEAPON_VIGOROUS: number
+
+// ItemTraitTypeCategory
+type ItemTraitTypeCategory = number
+declare const ITEM_TRAIT_TYPE_CATEGORY_ARMOR: number
+declare const ITEM_TRAIT_TYPE_CATEGORY_INVALID: number
+declare const ITEM_TRAIT_TYPE_CATEGORY_JEWELRY: number
+declare const ITEM_TRAIT_TYPE_CATEGORY_NONE: number
+declare const ITEM_TRAIT_TYPE_CATEGORY_WEAPON: number
+
+// ItemType
+type ItemType = number
+declare const ITEMTYPE_ADDITIVE: number
+declare const ITEMTYPE_ARMOR: number
+declare const ITEMTYPE_ARMOR_BOOSTER: number
+declare const ITEMTYPE_ARMOR_TRAIT: number
+declare const ITEMTYPE_AVA_REPAIR: number
+declare const ITEMTYPE_BLACKSMITHING_BOOSTER: number
+declare const ITEMTYPE_BLACKSMITHING_MATERIAL: number
+declare const ITEMTYPE_BLACKSMITHING_RAW_MATERIAL: number
+declare const ITEMTYPE_CLOTHIER_BOOSTER: number
+declare const ITEMTYPE_CLOTHIER_MATERIAL: number
+declare const ITEMTYPE_CLOTHIER_RAW_MATERIAL: number
+declare const ITEMTYPE_COLLECTIBLE: number
+declare const ITEMTYPE_CONSUMABLE_ABILITY: number
+declare const ITEMTYPE_CONTAINER: number
+declare const ITEMTYPE_CONTAINER_CURRENCY: number
+declare const ITEMTYPE_CONTAINER_STACKABLE: number
+declare const ITEMTYPE_COSTUME: number
+declare const ITEMTYPE_CRAFTED_ABILITY: number
+declare const ITEMTYPE_CRAFTED_ABILITY_SCRIPT: number
+declare const ITEMTYPE_CROWN_ITEM: number
+declare const ITEMTYPE_CROWN_REPAIR: number
+declare const ITEMTYPE_DEPRECATED: number
+declare const ITEMTYPE_DEPRECATED_2: number
+declare const ITEMTYPE_DISGUISE: number
+declare const ITEMTYPE_DRINK: number
+declare const ITEMTYPE_DYE_STAMP: number
+declare const ITEMTYPE_ENCHANTING_RUNE_ASPECT: number
+declare const ITEMTYPE_ENCHANTING_RUNE_ESSENCE: number
+declare const ITEMTYPE_ENCHANTING_RUNE_POTENCY: number
+declare const ITEMTYPE_ENCHANTMENT_BOOSTER: number
+declare const ITEMTYPE_FISH: number
+declare const ITEMTYPE_FLAVORING: number
+declare const ITEMTYPE_FOOD: number
+declare const ITEMTYPE_FURNISHING: number
+declare const ITEMTYPE_FURNISHING_MATERIAL: number
+declare const ITEMTYPE_GLYPH_ARMOR: number
+declare const ITEMTYPE_GLYPH_JEWELRY: number
+declare const ITEMTYPE_GLYPH_WEAPON: number
+declare const ITEMTYPE_GROUP_REPAIR: number
+declare const ITEMTYPE_INGREDIENT: number
+declare const ITEMTYPE_JEWELRYCRAFTING_BOOSTER: number
+declare const ITEMTYPE_JEWELRYCRAFTING_MATERIAL: number
+declare const ITEMTYPE_JEWELRYCRAFTING_RAW_BOOSTER: number
+declare const ITEMTYPE_JEWELRYCRAFTING_RAW_MATERIAL: number
+declare const ITEMTYPE_JEWELRY_RAW_TRAIT: number
+declare const ITEMTYPE_JEWELRY_TRAIT: number
+declare const ITEMTYPE_LOCKPICK: number
+declare const ITEMTYPE_LURE: number
+declare const ITEMTYPE_MASTER_WRIT: number
+declare const ITEMTYPE_MOUNT: number
+declare const ITEMTYPE_NONE: number
+declare const ITEMTYPE_PLUG: number
+declare const ITEMTYPE_POISON: number
+declare const ITEMTYPE_POISON_BASE: number
+declare const ITEMTYPE_POTION: number
+declare const ITEMTYPE_POTION_BASE: number
+declare const ITEMTYPE_RACIAL_STYLE_MOTIF: number
+declare const ITEMTYPE_RAW_MATERIAL: number
+declare const ITEMTYPE_REAGENT: number
+declare const ITEMTYPE_RECALL_STONE: number
+declare const ITEMTYPE_RECIPE: number
+declare const ITEMTYPE_SCRIBING_INK: number
+declare const ITEMTYPE_SIEGE: number
+declare const ITEMTYPE_SOUL_GEM: number
+declare const ITEMTYPE_SPICE: number
+declare const ITEMTYPE_STYLE_MATERIAL: number
+declare const ITEMTYPE_TABARD: number
+declare const ITEMTYPE_TOOL: number
+declare const ITEMTYPE_TRASH: number
+declare const ITEMTYPE_TREASURE: number
+declare const ITEMTYPE_TROPHY: number
+declare const ITEMTYPE_WEAPON: number
+declare const ITEMTYPE_WEAPON_BOOSTER: number
+declare const ITEMTYPE_WEAPON_TRAIT: number
+declare const ITEMTYPE_WOODWORKING_BOOSTER: number
+declare const ITEMTYPE_WOODWORKING_MATERIAL: number
+declare const ITEMTYPE_WOODWORKING_RAW_MATERIAL: number
+
+// ItemTypeDisplayCategory
+type ItemTypeDisplayCategory = number
+declare const ITEM_TYPE_DISPLAY_CATEGORY_ALCHEMY: number
+declare const ITEM_TYPE_DISPLAY_CATEGORY_ALL: number
+declare const ITEM_TYPE_DISPLAY_CATEGORY_APPEARANCE: number
+declare const ITEM_TYPE_DISPLAY_CATEGORY_ARMOR: number
+declare const ITEM_TYPE_DISPLAY_CATEGORY_BLACKSMITHING: number
+declare const ITEM_TYPE_DISPLAY_CATEGORY_CLOTHING: number
+declare const ITEM_TYPE_DISPLAY_CATEGORY_COMPANION: number
+declare const ITEM_TYPE_DISPLAY_CATEGORY_CONSUMABLE: number
+declare const ITEM_TYPE_DISPLAY_CATEGORY_CONTAINER: number
+declare const ITEM_TYPE_DISPLAY_CATEGORY_CRAFTING: number
+declare const ITEM_TYPE_DISPLAY_CATEGORY_CROWN_ITEM: number
+declare const ITEM_TYPE_DISPLAY_CATEGORY_DRINK: number
+declare const ITEM_TYPE_DISPLAY_CATEGORY_DRINK_INGREDIENT: number
+declare const ITEM_TYPE_DISPLAY_CATEGORY_ENCHANTING: number
+declare const ITEM_TYPE_DISPLAY_CATEGORY_FOOD: number
+declare const ITEM_TYPE_DISPLAY_CATEGORY_FOOD_INGREDIENT: number
+declare const ITEM_TYPE_DISPLAY_CATEGORY_FURNISHING: number
+declare const ITEM_TYPE_DISPLAY_CATEGORY_FURNISHING_MATERIAL: number
+declare const ITEM_TYPE_DISPLAY_CATEGORY_GLYPH: number
+declare const ITEM_TYPE_DISPLAY_CATEGORY_JEWELRY: number
+declare const ITEM_TYPE_DISPLAY_CATEGORY_JEWELRYCRAFTING: number
+declare const ITEM_TYPE_DISPLAY_CATEGORY_JUNK: number
+declare const ITEM_TYPE_DISPLAY_CATEGORY_LURE: number
+declare const ITEM_TYPE_DISPLAY_CATEGORY_MASTER_WRIT: number
+declare const ITEM_TYPE_DISPLAY_CATEGORY_MISCELLANEOUS: number
+declare const ITEM_TYPE_DISPLAY_CATEGORY_POISON: number
+declare const ITEM_TYPE_DISPLAY_CATEGORY_POTION: number
+declare const ITEM_TYPE_DISPLAY_CATEGORY_PROVISIONING: number
+declare const ITEM_TYPE_DISPLAY_CATEGORY_QUEST: number
+declare const ITEM_TYPE_DISPLAY_CATEGORY_RARE_INGREDIENT: number
+declare const ITEM_TYPE_DISPLAY_CATEGORY_RECIPE: number
+declare const ITEM_TYPE_DISPLAY_CATEGORY_REPAIR_ITEM: number
+declare const ITEM_TYPE_DISPLAY_CATEGORY_SIEGE: number
+declare const ITEM_TYPE_DISPLAY_CATEGORY_SOUL_GEM: number
+declare const ITEM_TYPE_DISPLAY_CATEGORY_STYLE_MATERIAL: number
+declare const ITEM_TYPE_DISPLAY_CATEGORY_STYLE_MOTIF: number
+declare const ITEM_TYPE_DISPLAY_CATEGORY_TOOL: number
+declare const ITEM_TYPE_DISPLAY_CATEGORY_TRAIT_ITEM: number
+declare const ITEM_TYPE_DISPLAY_CATEGORY_TRASH: number
+declare const ITEM_TYPE_DISPLAY_CATEGORY_TROPHY: number
+declare const ITEM_TYPE_DISPLAY_CATEGORY_WEAPONS: number
+declare const ITEM_TYPE_DISPLAY_CATEGORY_WOODWORKING: number
+
+// ItemUISoundCategory
+type ItemUISoundCategory = number
+declare const ITEM_SOUND_CATEGORY_ANIMAL_COMPONENT: number
+declare const ITEM_SOUND_CATEGORY_BATTLEFLAG: number
+declare const ITEM_SOUND_CATEGORY_BOOK: number
+declare const ITEM_SOUND_CATEGORY_BOOSTER: number
+declare const ITEM_SOUND_CATEGORY_BOW: number
+declare const ITEM_SOUND_CATEGORY_BREAD: number
+declare const ITEM_SOUND_CATEGORY_CLOTH_COMPONENT: number
+declare const ITEM_SOUND_CATEGORY_CRAFTED_ABILITY: number
+declare const ITEM_SOUND_CATEGORY_CRAFTED_ABILITY_SCRIPT: number
+declare const ITEM_SOUND_CATEGORY_CUSTOM_SOUND: number
+declare const ITEM_SOUND_CATEGORY_DAGGER: number
+declare const ITEM_SOUND_CATEGORY_DEFAULT: number
+declare const ITEM_SOUND_CATEGORY_DRINK: number
+declare const ITEM_SOUND_CATEGORY_ENCHANTED_MEDALLION: number
+declare const ITEM_SOUND_CATEGORY_ENCHANTMENT: number
+declare const ITEM_SOUND_CATEGORY_FISH: number
+declare const ITEM_SOUND_CATEGORY_FOOD: number
+declare const ITEM_SOUND_CATEGORY_FOOTLOCKER: number
+declare const ITEM_SOUND_CATEGORY_HEAVY_ARMOR: number
+declare const ITEM_SOUND_CATEGORY_INGREDIENT: number
+declare const ITEM_SOUND_CATEGORY_LIGHT_ARMOR: number
+declare const ITEM_SOUND_CATEGORY_LURE: number
+declare const ITEM_SOUND_CATEGORY_MEAT: number
+declare const ITEM_SOUND_CATEGORY_MEDIUM_ARMOR: number
+declare const ITEM_SOUND_CATEGORY_METAL_COMPONENT: number
+declare const ITEM_SOUND_CATEGORY_MINERAL_COMPONENT: number
+declare const ITEM_SOUND_CATEGORY_NECKLACE: number
+declare const ITEM_SOUND_CATEGORY_NONE: number
+declare const ITEM_SOUND_CATEGORY_ONE_HAND_AX: number
+declare const ITEM_SOUND_CATEGORY_ONE_HAND_HAMMER: number
+declare const ITEM_SOUND_CATEGORY_ONE_HAND_SWORD: number
+declare const ITEM_SOUND_CATEGORY_PLANT_COMPONENT: number
+declare const ITEM_SOUND_CATEGORY_POTION: number
+declare const ITEM_SOUND_CATEGORY_REPAIR_KIT: number
+declare const ITEM_SOUND_CATEGORY_RING: number
+declare const ITEM_SOUND_CATEGORY_RUNE: number
+declare const ITEM_SOUND_CATEGORY_SCROLL: number
+declare const ITEM_SOUND_CATEGORY_SHIELD: number
+declare const ITEM_SOUND_CATEGORY_SIEGE: number
+declare const ITEM_SOUND_CATEGORY_SOUL_GEM: number
+declare const ITEM_SOUND_CATEGORY_STAFF: number
+declare const ITEM_SOUND_CATEGORY_STEW: number
+declare const ITEM_SOUND_CATEGORY_TABARD: number
+declare const ITEM_SOUND_CATEGORY_TRASH_LOOT: number
+declare const ITEM_SOUND_CATEGORY_TWO_HAND_AX: number
+declare const ITEM_SOUND_CATEGORY_TWO_HAND_HAMMER: number
+declare const ITEM_SOUND_CATEGORY_TWO_HAND_SWORD: number
+declare const ITEM_SOUND_CATEGORY_UNUSED: number
+declare const ITEM_SOUND_CATEGORY_WOOD_COMPONENT: number
+
+// ItemUseType
+type ItemUseType = number
+declare const ITEM_USE_TYPE_ATTRIBUTE_RESPEC: number
+declare const ITEM_USE_TYPE_BOOK: number
+declare const ITEM_USE_TYPE_COLLECTIBLE_GRANT: number
+declare const ITEM_USE_TYPE_COMBINATION: number
+declare const ITEM_USE_TYPE_COSTUME_DYE_STAMP: number
+declare const ITEM_USE_TYPE_CRAFTED_ABILITY: number
+declare const ITEM_USE_TYPE_CRAFTED_ABILITY_SCRIPT: number
+declare const ITEM_USE_TYPE_FILLET_FISH: number
+declare const ITEM_USE_TYPE_GRANT_VETERANCY_PROGRESS: number
+declare const ITEM_USE_TYPE_ITEM_DYE_STAMP: number
+declare const ITEM_USE_TYPE_KEEP_RECALL_STONE: number
+declare const ITEM_USE_TYPE_MORPH_RESPEC: number
+declare const ITEM_USE_TYPE_NONE: number
+declare const ITEM_USE_TYPE_PLEDGE_OF_MARA: number
+declare const ITEM_USE_TYPE_RECIPE: number
+declare const ITEM_USE_TYPE_RECIPE_LIST: number
+declare const ITEM_USE_TYPE_SKILL_RESPEC: number
+declare const ITEM_USE_TYPE_TREASURE_MAP: number
+declare const ITEM_USE_TYPE_VANITY_PET: number
+
+// SmithingFilterType
+type SmithingFilterType = number
+declare const SMITHING_FILTER_TYPE_ARMOR: number
+declare const SMITHING_FILTER_TYPE_JEWELRY: number
+declare const SMITHING_FILTER_TYPE_RAW_MATERIALS: number
+declare const SMITHING_FILTER_TYPE_SET_ARMOR: number
+declare const SMITHING_FILTER_TYPE_SET_JEWELRY: number
+declare const SMITHING_FILTER_TYPE_SET_WEAPONS: number
+declare const SMITHING_FILTER_TYPE_WEAPONS: number
+
+// SoulGemType
+type SoulGemType = number
+declare const SOUL_GEM_TYPE_EMPTY: number
+declare const SOUL_GEM_TYPE_FILLED: number
+
+// SpecializedItemType
+type SpecializedItemType = number
+declare const SPECIALIZED_ITEMTYPE_ADDITIVE: number
+declare const SPECIALIZED_ITEMTYPE_ARMOR: number
+declare const SPECIALIZED_ITEMTYPE_ARMOR_BOOSTER: number
+declare const SPECIALIZED_ITEMTYPE_ARMOR_TRAIT: number
+declare const SPECIALIZED_ITEMTYPE_AVA_REPAIR: number
+declare const SPECIALIZED_ITEMTYPE_BLACKSMITHING_BOOSTER: number
+declare const SPECIALIZED_ITEMTYPE_BLACKSMITHING_MATERIAL: number
+declare const SPECIALIZED_ITEMTYPE_BLACKSMITHING_RAW_MATERIAL: number
+declare const SPECIALIZED_ITEMTYPE_CLOTHIER_BOOSTER: number
+declare const SPECIALIZED_ITEMTYPE_CLOTHIER_MATERIAL: number
+declare const SPECIALIZED_ITEMTYPE_CLOTHIER_RAW_MATERIAL: number
+declare const SPECIALIZED_ITEMTYPE_COLLECTIBLE_MONSTER_TROPHY: number
+declare const SPECIALIZED_ITEMTYPE_COLLECTIBLE_RARE_FISH: number
+declare const SPECIALIZED_ITEMTYPE_COLLECTIBLE_STYLE_PAGE: number
+declare const SPECIALIZED_ITEMTYPE_CONSUMABLE_ABILITY: number
+declare const SPECIALIZED_ITEMTYPE_CONTAINER: number
+declare const SPECIALIZED_ITEMTYPE_CONTAINER_CURRENCY: number
+declare const SPECIALIZED_ITEMTYPE_CONTAINER_EVENT: number
+declare const SPECIALIZED_ITEMTYPE_CONTAINER_STACKABLE: number
+declare const SPECIALIZED_ITEMTYPE_CONTAINER_STYLE_PAGE: number
+declare const SPECIALIZED_ITEMTYPE_COSTUME: number
+declare const SPECIALIZED_ITEMTYPE_CRAFTED_ABILITY: number
+declare const SPECIALIZED_ITEMTYPE_CRAFTED_ABILITY_SCRIPT_PRIMARY: number
+declare const SPECIALIZED_ITEMTYPE_CRAFTED_ABILITY_SCRIPT_SECONDARY: number
+declare const SPECIALIZED_ITEMTYPE_CRAFTED_ABILITY_SCRIPT_TERTIARY: number
+declare const SPECIALIZED_ITEMTYPE_CROWN_ITEM: number
+declare const SPECIALIZED_ITEMTYPE_CROWN_REPAIR: number
+declare const SPECIALIZED_ITEMTYPE_DISGUISE: number
+declare const SPECIALIZED_ITEMTYPE_DRINK_ALCOHOLIC: number
+declare const SPECIALIZED_ITEMTYPE_DRINK_CORDIAL_TEA: number
+declare const SPECIALIZED_ITEMTYPE_DRINK_DISTILLATE: number
+declare const SPECIALIZED_ITEMTYPE_DRINK_LIQUEUR: number
+declare const SPECIALIZED_ITEMTYPE_DRINK_TEA: number
+declare const SPECIALIZED_ITEMTYPE_DRINK_TINCTURE: number
+declare const SPECIALIZED_ITEMTYPE_DRINK_TONIC: number
+declare const SPECIALIZED_ITEMTYPE_DRINK_UNIQUE: number
+declare const SPECIALIZED_ITEMTYPE_DYE_STAMP: number
+declare const SPECIALIZED_ITEMTYPE_ENCHANTING_RUNE_ASPECT: number
+declare const SPECIALIZED_ITEMTYPE_ENCHANTING_RUNE_ESSENCE: number
+declare const SPECIALIZED_ITEMTYPE_ENCHANTING_RUNE_POTENCY: number
+declare const SPECIALIZED_ITEMTYPE_ENCHANTMENT_BOOSTER: number
+declare const SPECIALIZED_ITEMTYPE_FISH: number
+declare const SPECIALIZED_ITEMTYPE_FLAVORING: number
+declare const SPECIALIZED_ITEMTYPE_FOOD_ENTREMET: number
+declare const SPECIALIZED_ITEMTYPE_FOOD_FRUIT: number
+declare const SPECIALIZED_ITEMTYPE_FOOD_GOURMET: number
+declare const SPECIALIZED_ITEMTYPE_FOOD_MEAT: number
+declare const SPECIALIZED_ITEMTYPE_FOOD_RAGOUT: number
+declare const SPECIALIZED_ITEMTYPE_FOOD_SAVOURY: number
+declare const SPECIALIZED_ITEMTYPE_FOOD_UNIQUE: number
+declare const SPECIALIZED_ITEMTYPE_FOOD_VEGETABLE: number
+declare const SPECIALIZED_ITEMTYPE_FURNISHING_ATTUNABLE_STATION: number
+declare const SPECIALIZED_ITEMTYPE_FURNISHING_CRAFTING_STATION: number
+declare const SPECIALIZED_ITEMTYPE_FURNISHING_LIGHT: number
+declare const SPECIALIZED_ITEMTYPE_FURNISHING_MATERIAL_ALCHEMY: number
+declare const SPECIALIZED_ITEMTYPE_FURNISHING_MATERIAL_BLACKSMITHING: number
+declare const SPECIALIZED_ITEMTYPE_FURNISHING_MATERIAL_CLOTHIER: number
+declare const SPECIALIZED_ITEMTYPE_FURNISHING_MATERIAL_ENCHANTING: number
+declare const SPECIALIZED_ITEMTYPE_FURNISHING_MATERIAL_JEWELRYCRAFTING: number
+declare const SPECIALIZED_ITEMTYPE_FURNISHING_MATERIAL_PROVISIONING: number
+declare const SPECIALIZED_ITEMTYPE_FURNISHING_MATERIAL_WOODWORKING: number
+declare const SPECIALIZED_ITEMTYPE_FURNISHING_ORNAMENTAL: number
+declare const SPECIALIZED_ITEMTYPE_FURNISHING_SEATING: number
+declare const SPECIALIZED_ITEMTYPE_FURNISHING_TARGET_DUMMY: number
+declare const SPECIALIZED_ITEMTYPE_GLYPH_ARMOR: number
+declare const SPECIALIZED_ITEMTYPE_GLYPH_JEWELRY: number
+declare const SPECIALIZED_ITEMTYPE_GLYPH_WEAPON: number
+declare const SPECIALIZED_ITEMTYPE_GROUP_REPAIR: number
+declare const SPECIALIZED_ITEMTYPE_HOLIDAY_WRIT: number
+declare const SPECIALIZED_ITEMTYPE_INGREDIENT_ALCOHOL: number
+declare const SPECIALIZED_ITEMTYPE_INGREDIENT_DRINK_ADDITIVE: number
+declare const SPECIALIZED_ITEMTYPE_INGREDIENT_FOOD_ADDITIVE: number
+declare const SPECIALIZED_ITEMTYPE_INGREDIENT_FRUIT: number
+declare const SPECIALIZED_ITEMTYPE_INGREDIENT_MEAT: number
+declare const SPECIALIZED_ITEMTYPE_INGREDIENT_RARE: number
+declare const SPECIALIZED_ITEMTYPE_INGREDIENT_TEA: number
+declare const SPECIALIZED_ITEMTYPE_INGREDIENT_TONIC: number
+declare const SPECIALIZED_ITEMTYPE_INGREDIENT_VEGETABLE: number
+declare const SPECIALIZED_ITEMTYPE_JEWELRYCRAFTING_BOOSTER: number
+declare const SPECIALIZED_ITEMTYPE_JEWELRYCRAFTING_MATERIAL: number
+declare const SPECIALIZED_ITEMTYPE_JEWELRYCRAFTING_RAW_BOOSTER: number
+declare const SPECIALIZED_ITEMTYPE_JEWELRYCRAFTING_RAW_MATERIAL: number
+declare const SPECIALIZED_ITEMTYPE_JEWELRY_RAW_TRAIT: number
+declare const SPECIALIZED_ITEMTYPE_JEWELRY_TRAIT: number
+declare const SPECIALIZED_ITEMTYPE_LOCKPICK: number
+declare const SPECIALIZED_ITEMTYPE_LURE: number
+declare const SPECIALIZED_ITEMTYPE_MASTER_WRIT: number
+declare const SPECIALIZED_ITEMTYPE_MOUNT: number
+declare const SPECIALIZED_ITEMTYPE_NONE: number
+declare const SPECIALIZED_ITEMTYPE_PLUG: number
+declare const SPECIALIZED_ITEMTYPE_POISON: number
+declare const SPECIALIZED_ITEMTYPE_POISON_BASE: number
+declare const SPECIALIZED_ITEMTYPE_POTION: number
+declare const SPECIALIZED_ITEMTYPE_POTION_BASE: number
+declare const SPECIALIZED_ITEMTYPE_RACIAL_STYLE_MOTIF_BOOK: number
+declare const SPECIALIZED_ITEMTYPE_RACIAL_STYLE_MOTIF_CHAPTER: number
+declare const SPECIALIZED_ITEMTYPE_RAW_MATERIAL: number
+declare const SPECIALIZED_ITEMTYPE_REAGENT_ANIMAL_PART: number
+declare const SPECIALIZED_ITEMTYPE_REAGENT_FUNGUS: number
+declare const SPECIALIZED_ITEMTYPE_REAGENT_HERB: number
+declare const SPECIALIZED_ITEMTYPE_RECALL_STONE_KEEP: number
+declare const SPECIALIZED_ITEMTYPE_RECIPE_ALCHEMY_FORMULA_FURNISHING: number
+declare const SPECIALIZED_ITEMTYPE_RECIPE_BLACKSMITHING_DIAGRAM_FURNISHING: number
+declare const SPECIALIZED_ITEMTYPE_RECIPE_CLOTHIER_PATTERN_FURNISHING: number
+declare const SPECIALIZED_ITEMTYPE_RECIPE_ENCHANTING_SCHEMATIC_FURNISHING: number
+declare const SPECIALIZED_ITEMTYPE_RECIPE_JEWELRYCRAFTING_SKETCH_FURNISHING: number
+declare const SPECIALIZED_ITEMTYPE_RECIPE_PROVISIONING_DESIGN_FURNISHING: number
+declare const SPECIALIZED_ITEMTYPE_RECIPE_PROVISIONING_STANDARD_DRINK: number
+declare const SPECIALIZED_ITEMTYPE_RECIPE_PROVISIONING_STANDARD_FOOD: number
+declare const SPECIALIZED_ITEMTYPE_RECIPE_WOODWORKING_BLUEPRINT_FURNISHING: number
+declare const SPECIALIZED_ITEMTYPE_SCRIBING_INK: number
+declare const SPECIALIZED_ITEMTYPE_SIEGE_BALLISTA: number
+declare const SPECIALIZED_ITEMTYPE_SIEGE_CATAPULT: number
+declare const SPECIALIZED_ITEMTYPE_SIEGE_GRAVEYARD: number
+declare const SPECIALIZED_ITEMTYPE_SIEGE_LANCER: number
+declare const SPECIALIZED_ITEMTYPE_SIEGE_MONSTER: number
+declare const SPECIALIZED_ITEMTYPE_SIEGE_OIL: number
+declare const SPECIALIZED_ITEMTYPE_SIEGE_RAM: number
+declare const SPECIALIZED_ITEMTYPE_SIEGE_TREBUCHET: number
+declare const SPECIALIZED_ITEMTYPE_SIEGE_UNIVERSAL: number
+declare const SPECIALIZED_ITEMTYPE_SOUL_GEM: number
+declare const SPECIALIZED_ITEMTYPE_SPICE: number
+declare const SPECIALIZED_ITEMTYPE_STYLE_MATERIAL: number
+declare const SPECIALIZED_ITEMTYPE_TABARD: number
+declare const SPECIALIZED_ITEMTYPE_TOOL: number
+declare const SPECIALIZED_ITEMTYPE_TRASH: number
+declare const SPECIALIZED_ITEMTYPE_TREASURE: number
+declare const SPECIALIZED_ITEMTYPE_TROPHY_COLLECTIBLE_FRAGMENT: number
+declare const SPECIALIZED_ITEMTYPE_TROPHY_DUNGEON_BUFF_INGREDIENT: number
+declare const SPECIALIZED_ITEMTYPE_TROPHY_KEY: number
+declare const SPECIALIZED_ITEMTYPE_TROPHY_KEY_FRAGMENT: number
+declare const SPECIALIZED_ITEMTYPE_TROPHY_MATERIAL_UPGRADER: number
+declare const SPECIALIZED_ITEMTYPE_TROPHY_MUSEUM_PIECE: number
+declare const SPECIALIZED_ITEMTYPE_TROPHY_RECIPE_FRAGMENT: number
+declare const SPECIALIZED_ITEMTYPE_TROPHY_RUNEBOX_FRAGMENT: number
+declare const SPECIALIZED_ITEMTYPE_TROPHY_SCROLL: number
+declare const SPECIALIZED_ITEMTYPE_TROPHY_SURVEY_REPORT: number
+declare const SPECIALIZED_ITEMTYPE_TROPHY_TOY: number
+declare const SPECIALIZED_ITEMTYPE_TROPHY_TREASURE_MAP: number
+declare const SPECIALIZED_ITEMTYPE_TROPHY_TRIBUTE_CLUE: number
+declare const SPECIALIZED_ITEMTYPE_TROPHY_UPGRADE_FRAGMENT: number
+declare const SPECIALIZED_ITEMTYPE_WEAPON: number
+declare const SPECIALIZED_ITEMTYPE_WEAPON_BOOSTER: number
+declare const SPECIALIZED_ITEMTYPE_WEAPON_TRAIT: number
+declare const SPECIALIZED_ITEMTYPE_WOODWORKING_BOOSTER: number
+declare const SPECIALIZED_ITEMTYPE_WOODWORKING_MATERIAL: number
+declare const SPECIALIZED_ITEMTYPE_WOODWORKING_RAW_MATERIAL: number
+
+// TradeskillResult
+type TradeskillResult = number
+declare const CRAFTING_RESULT_ALREADY_RESEARCHING: number
+declare const CRAFTING_RESULT_BUSY: number
+declare const CRAFTING_RESULT_CANNOT_AFFORD: number
+declare const CRAFTING_RESULT_CANNOT_RESEARCH_RETRAITED_ITEM: number
+declare const CRAFTING_RESULT_CANT_DECONSTRUCT_WORN: number
+declare const CRAFTING_RESULT_CRAFT_SUCCESS: number
+declare const CRAFTING_RESULT_DECONSTRUCT_BAD_QUANTITY: number
+declare const CRAFTING_RESULT_DECONSTRUCT_SUCCESS: number
+declare const CRAFTING_RESULT_EMPTY_SCRIPT_SLOT: number
+declare const CRAFTING_RESULT_FAILED_TO_ADD_CRAFTING_RESULT: number
+declare const CRAFTING_RESULT_FAIL_MATERIAL_REQUIREMENTS: number
+declare const CRAFTING_RESULT_FAIL_PATTERN_REQUIREMENTS: number
+declare const CRAFTING_RESULT_GRIMOIRE_DISABLED: number
+declare const CRAFTING_RESULT_IMPROVE_FAILED: number
+declare const CRAFTING_RESULT_INTERNAL_ERROR: number
+declare const CRAFTING_RESULT_INTERRUPTED: number
+declare const CRAFTING_RESULT_INVALID_ALCHEMY_INGREDIENT: number
+declare const CRAFTING_RESULT_INVALID_BASE: number
+declare const CRAFTING_RESULT_INVALID_CRAFTING_RESULT: number
+declare const CRAFTING_RESULT_INVALID_GRIMOIRE: number
+declare const CRAFTING_RESULT_INVALID_MATERIAL: number
+declare const CRAFTING_RESULT_INVALID_PATTERN: number
+declare const CRAFTING_RESULT_INVALID_REAGENT: number
+declare const CRAFTING_RESULT_INVALID_RESEARCH: number
+declare const CRAFTING_RESULT_INVALID_RESEARCH_TRADESKILL: number
+declare const CRAFTING_RESULT_INVALID_RUNE: number
+declare const CRAFTING_RESULT_INVALID_SCRIBING_COMBINATION: number
+declare const CRAFTING_RESULT_INVALID_SCRIPT: number
+declare const CRAFTING_RESULT_INVALID_STYLE_MATERIAL: number
+declare const CRAFTING_RESULT_INVALID_TRAIT_MATERIAL: number
+declare const CRAFTING_RESULT_INVENTORY_FULL: number
+declare const CRAFTING_RESULT_ITEM_CRAFT_UNIQUE: number
+declare const CRAFTING_RESULT_ITEM_NOT_DECONSTRUCTABLE: number
+declare const CRAFTING_RESULT_ITEM_NOT_IMPROVABLE: number
+declare const CRAFTING_RESULT_ITEM_NOT_REFINEABLE: number
+declare const CRAFTING_RESULT_ITEM_NOT_RESEARCHABLE: number
+declare const CRAFTING_RESULT_MUST_LEARN_STYLE: number
+declare const CRAFTING_RESULT_MUST_LEARN_TRAIT: number
+declare const CRAFTING_RESULT_NEEDS_SMITHING_MATERIAL: number
+declare const CRAFTING_RESULT_NEEDS_STYLE_MATERIAL: number
+declare const CRAFTING_RESULT_NEEDS_TRAIT_MATERIAL: number
+declare const CRAFTING_RESULT_NEED_BASE_RANK: number
+declare const CRAFTING_RESULT_NEED_COMPONENTS_FOR_CRAFT: number
+declare const CRAFTING_RESULT_NEED_DECONSTRUCT_RANK: number
+declare const CRAFTING_RESULT_NEED_ENCHANTING_QUALITY_RANK: number
+declare const CRAFTING_RESULT_NEED_ENCHANTING_RANK: number
+declare const CRAFTING_RESULT_NEED_ITEM_TO_RESEARCH: number
+declare const CRAFTING_RESULT_NEED_RANK_FOR_CRAFT: number
+declare const CRAFTING_RESULT_NEED_RECIPE_QUALITY_RANK: number
+declare const CRAFTING_RESULT_NEED_RECIPE_RANK: number
+declare const CRAFTING_RESULT_NEED_REFINE_RANK: number
+declare const CRAFTING_RESULT_NEED_REQUIREMENTS_FOR_CRAFT: number
+declare const CRAFTING_RESULT_NEED_UNLOCK_TO_DECONSTRUCT: number
+declare const CRAFTING_RESULT_NEED_UNLOCK_TO_RESEARCH: number
+declare const CRAFTING_RESULT_NOT_HOUSE_OWNER: number
+declare const CRAFTING_RESULT_NO_ITEM_TO_DECONSTRUCT: number
+declare const CRAFTING_RESULT_NO_ITEM_TO_REFINE: number
+declare const CRAFTING_RESULT_NO_ITEM_TO_RESEARCH: number
+declare const CRAFTING_RESULT_NO_MATCH: number
+declare const CRAFTING_RESULT_NO_RECIPE: number
+declare const CRAFTING_RESULT_NO_RESULT: number
+declare const CRAFTING_RESULT_REFINE_SUCCESS: number
+declare const CRAFTING_RESULT_SCRIBING_DISABLED: number
+declare const CRAFTING_RESULT_SKILL_UNCHANGED: number
+declare const CRAFTING_RESULT_SOME_STATIONS_NOT_CONSUMED: number
+declare const CRAFTING_RESULT_TOO_FEW_REAGENTS: number
+declare const CRAFTING_RESULT_TOO_LOW_LEVEL_FOR_STYLE: number
+declare const CRAFTING_RESULT_TOO_MANY_CRAFTING_INPUTS: number
+declare const CRAFTING_RESULT_TOO_MANY_CRAFTING_ITERATIONS: number
+declare const CRAFTING_RESULT_TOO_MANY_CRAFTING_RESULTS: number
+declare const CRAFTING_RESULT_TOO_MANY_REAGENTS: number
+declare const CRAFTING_RESULT_TOO_MANY_RESEARCH: number
+declare const CRAFTING_RESULT_UNKNOWN_RECIPE: number
+declare const CRAFTING_RESULT_UNKNOWN_SKILL_DECONSTRUCT: number
+declare const CRAFTING_RESULT_UNKNOWN_SKILL_REFINE: number
+declare const CRAFTING_RESULT_UNOWNED_GRIMOIRE: number
+declare const CRAFTING_RESULT_UNOWNED_SCRIPT: number
+declare const CRAFTING_RESULT_WRONG_ADDITIVE_CATEGORY: number
+declare const CRAFTING_RESULT_WRONG_BOOSTER: number
+declare const CRAFTING_RESULT_WRONG_STYLE_CRAFT: number
+declare const CRAFTING_RESULT_WRONG_TARGET_CRAFT: number
+declare const CRAFTING_RESULT_WRONG_TARGET_DECONSTRUCT: number
+declare const CRAFTING_RESULT_WRONG_TARGET_REFINE: number
+declare const CRAFTING_RESULT_WRONG_TRADESKILL_FOR_CRAFT: number
+
+// WeaponType
+type WeaponType = number
+declare const WEAPONTYPE_AXE: number
+declare const WEAPONTYPE_BOW: number
+declare const WEAPONTYPE_DAGGER: number
+declare const WEAPONTYPE_FIRE_STAFF: number
+declare const WEAPONTYPE_FROST_STAFF: number
+declare const WEAPONTYPE_HAMMER: number
+declare const WEAPONTYPE_HEALING_STAFF: number
+declare const WEAPONTYPE_LIGHTNING_STAFF: number
+declare const WEAPONTYPE_NONE: number
+declare const WEAPONTYPE_RUNE: number
+declare const WEAPONTYPE_SHIELD: number
+declare const WEAPONTYPE_SWORD: number
+declare const WEAPONTYPE_TWO_HANDED_AXE: number
+declare const WEAPONTYPE_TWO_HANDED_HAMMER: number
+declare const WEAPONTYPE_TWO_HANDED_SWORD: number
+
+declare const NUM_ALCHEMY_TRAITS_PER_REAGENT: number
+
+// QuestConditionType
+type QuestConditionType = number
+declare const QUEST_CONDITION_TYPE_ABILITY_TYPE_USED_ON_NPC: number
+declare const QUEST_CONDITION_TYPE_ABILITY_TYPE_USED_ON_TABLE: number
+declare const QUEST_CONDITION_TYPE_ABILITY_USED_ON_NPC: number
+declare const QUEST_CONDITION_TYPE_ABILITY_USED_ON_TABLE: number
+declare const QUEST_CONDITION_TYPE_ADVANCE_COMPLETABLE_SIBLINGS: number
+declare const QUEST_CONDITION_TYPE_ARTIFACT_CAPTURED: number
+declare const QUEST_CONDITION_TYPE_ARTIFACT_RETURNED: number
+declare const QUEST_CONDITION_TYPE_BATTLEGROUND_EARNED_POINTS: number
+declare const QUEST_CONDITION_TYPE_BATTLEGROUND_PARTICIPATION: number
+declare const QUEST_CONDITION_TYPE_BATTLEGROUND_VICTORY: number
+declare const QUEST_CONDITION_TYPE_CAPTURE_KEEP_TYPE: number
+declare const QUEST_CONDITION_TYPE_CAPTURE_KEEP_TYPE_UNIQUE_KEEPS: number
+declare const QUEST_CONDITION_TYPE_CAPTURE_SPECIFIC_KEEP: number
+declare const QUEST_CONDITION_TYPE_COLLECT_ITEM: number
+declare const QUEST_CONDITION_TYPE_CRAFT_ITEM: number
+declare const QUEST_CONDITION_TYPE_CRAFT_RANDOM_WRIT_ITEM: number
+declare const QUEST_CONDITION_TYPE_DECONSTRUCT_ITEM: number
+declare const QUEST_CONDITION_TYPE_DISMISSED_COMPANION: number
+declare const QUEST_CONDITION_TYPE_EARN_CHAMPION_POINT: number
+declare const QUEST_CONDITION_TYPE_ENTER_SUBZONE: number
+declare const QUEST_CONDITION_TYPE_ENTER_ZONE: number
+declare const QUEST_CONDITION_TYPE_EQUIP_ITEM: number
+declare const QUEST_CONDITION_TYPE_EVENT_FAIL: number
+declare const QUEST_CONDITION_TYPE_EVENT_SUCCESS: number
+declare const QUEST_CONDITION_TYPE_EXIT_SUBZONE: number
+declare const QUEST_CONDITION_TYPE_FOLLOWER_GAINED: number
+declare const QUEST_CONDITION_TYPE_FOLLOWER_LOST: number
+declare const QUEST_CONDITION_TYPE_GATHER_ITEM: number
+declare const QUEST_CONDITION_TYPE_GATHER_ITEM_TRAIT: number
+declare const QUEST_CONDITION_TYPE_GATHER_ITEM_TYPE: number
+declare const QUEST_CONDITION_TYPE_GIVE_ITEM: number
+declare const QUEST_CONDITION_TYPE_GOTO_POINT: number
+declare const QUEST_CONDITION_TYPE_GUILD_TRADER_GOLD_TRANSACTION: number
+declare const QUEST_CONDITION_TYPE_HAS_ITEM: number
+declare const QUEST_CONDITION_TYPE_INTERACT_MONSTER: number
+declare const QUEST_CONDITION_TYPE_INTERACT_OBJECT: number
+declare const QUEST_CONDITION_TYPE_INTERACT_OBJECT_IN_STATE: number
+declare const QUEST_CONDITION_TYPE_INTERACT_SIMPLE_OBJECT: number
+declare const QUEST_CONDITION_TYPE_INTERACT_SIMPLE_OBJECT_IN_STATE: number
+declare const QUEST_CONDITION_TYPE_KILL_BOUNTY_CLASSIFICATION_TYPE: number
+declare const QUEST_CONDITION_TYPE_KILL_ENEMY_GUARDS: number
+declare const QUEST_CONDITION_TYPE_KILL_ENEMY_PLAYERS: number
+declare const QUEST_CONDITION_TYPE_KILL_ENEMY_PLAYERS_OF_CLASS: number
+declare const QUEST_CONDITION_TYPE_KILL_ENEMY_PLAYERS_WHILE_DEFENDING_KEEP: number
+declare const QUEST_CONDITION_TYPE_KILL_MONSTER: number
+declare const QUEST_CONDITION_TYPE_KILL_MONSTER_TABLE: number
+declare const QUEST_CONDITION_TYPE_KILL_MONSTER_TYPE: number
+declare const QUEST_CONDITION_TYPE_LEAVE_REVIVE_COUNTER_LIST: number
+declare const QUEST_CONDITION_TYPE_LEVEL_UP: number
+declare const QUEST_CONDITION_TYPE_LOOT_TREASURE_CHEST: number
+declare const QUEST_CONDITION_TYPE_NPC_GOAL: number
+declare const QUEST_CONDITION_TYPE_NPC_GOAL_FAIL: number
+declare const QUEST_CONDITION_TYPE_PICKPOCKET_ITEM: number
+declare const QUEST_CONDITION_TYPE_PLAYER_DEATH: number
+declare const QUEST_CONDITION_TYPE_PLAYER_LOGOUT: number
+declare const QUEST_CONDITION_TYPE_READ_BOOK: number
+declare const QUEST_CONDITION_TYPE_SCRIBE_ABILITY: number
+declare const QUEST_CONDITION_TYPE_SCRIPT_ACTION: number
+declare const QUEST_CONDITION_TYPE_SELL_LAUNDER_ITEM: number
+declare const QUEST_CONDITION_TYPE_SPECTACLE_EVENT_PHASE_CHANGE: number
+declare const QUEST_CONDITION_TYPE_SUBCLASS_SWAP_SKILL_LINE: number
+declare const QUEST_CONDITION_TYPE_SUBCLASS_TRAIN_SKILL_LINE: number
+declare const QUEST_CONDITION_TYPE_SUMMONED_COMPANION: number
+declare const QUEST_CONDITION_TYPE_TALK_TO: number
+declare const QUEST_CONDITION_TYPE_TIMER: number
+declare const QUEST_CONDITION_TYPE_TRANSITION_INTERACT_OBJECT: number
+declare const QUEST_CONDITION_TYPE_TRIBUTE_LOST_MATCH_MONSTER: number
+declare const QUEST_CONDITION_TYPE_TRIBUTE_LOST_MATCH_PLAYER: number
+declare const QUEST_CONDITION_TYPE_TRIBUTE_WON_MATCH_MONSTER: number
+declare const QUEST_CONDITION_TYPE_TRIBUTE_WON_MATCH_PLAYER: number
+declare const QUEST_CONDITION_TYPE_UNEARTH_ANTIQUITY: number
+declare const QUEST_CONDITION_TYPE_USE_EMOTE: number
+declare const QUEST_CONDITION_TYPE_USE_QUEST_ITEM: number
+declare const QUEST_CONDITION_TYPE_VENDOR_GOLD_TRANSACTION: number
+
+// QuestRepeatableType
+type QuestRepeatableType = number
+declare const QUEST_REPEAT_DAILY: number
+declare const QUEST_REPEAT_EVENT_RESET: number
+declare const QUEST_REPEAT_MONTHLY: number
+declare const QUEST_REPEAT_NOT_REPEATABLE: number
+declare const QUEST_REPEAT_REPEATABLE: number
+declare const QUEST_REPEAT_REPEATABLE_PER_DURATION: number
+declare const QUEST_REPEAT_WEEKLY: number
+
+// QuestStepComparisonType
+type QuestStepComparisonType = number
+declare const QUEST_STEP_TYPE_AND: number
+declare const QUEST_STEP_TYPE_BRANCH: number
+declare const QUEST_STEP_TYPE_END: number
+declare const QUEST_STEP_TYPE_OR: number
+
+// QuestStepVisibility
+type QuestStepVisibility = number
+declare const QUEST_STEP_VISIBILITY_HIDDEN: number
+declare const QUEST_STEP_VISIBILITY_HINT: number
+declare const QUEST_STEP_VISIBILITY_OPTIONAL: number
+
+// QuestType
+type QuestType = number
+declare const QUEST_TYPE_AVA: number
+declare const QUEST_TYPE_AVA_GRAND: number
+declare const QUEST_TYPE_AVA_GROUP: number
+declare const QUEST_TYPE_BATTLEGROUND: number
+declare const QUEST_TYPE_CLASS: number
+declare const QUEST_TYPE_COMPANION: number
+declare const QUEST_TYPE_CRAFTING: number
+declare const QUEST_TYPE_DUNGEON: number
+declare const QUEST_TYPE_FAVOR: number
+declare const QUEST_TYPE_GROUP: number
+declare const QUEST_TYPE_GUILD: number
+declare const QUEST_TYPE_HOLIDAY_EVENT: number
+declare const QUEST_TYPE_MAIN_STORY: number
+declare const QUEST_TYPE_NONE: number
+declare const QUEST_TYPE_PROLOGUE: number
+declare const QUEST_TYPE_RAID: number
+declare const QUEST_TYPE_SCRIBING: number
+declare const QUEST_TYPE_TAMRIEL_TALE: number
+declare const QUEST_TYPE_TRIBUTE: number
+declare const QUEST_TYPE_UNDAUNTED_PLEDGE: number
+
+// TrackedDataType
+type TrackedDataType = number
+declare const TRACK_TYPE_INVALID: number
+declare const TRACK_TYPE_QUEST: number
+
+declare const INVALID_TRACKER_INDEX: number
+declare const MAX_JOURNAL_QUESTS: number
+declare const TRACKER_MAX_TRACKED: number
+
+// AccessibilitySetting
+type AccessibilitySetting = number
+declare const ACCESSIBILITY_SETTING_ACCESSIBILITY_MODE: number
+declare const ACCESSIBILITY_SETTING_ACCESSIBLE_QUICKWHEELS: number
+declare const ACCESSIBILITY_SETTING_GAMEPAD_AIM_ASSIST_INTENSITY: number
+declare const ACCESSIBILITY_SETTING_MOUSE_AIM_ASSIST_INTENSITY: number
+declare const ACCESSIBILITY_SETTING_NARRATION_VOICE_SPEED: number
+declare const ACCESSIBILITY_SETTING_NARRATION_VOICE_TYPE: number
+declare const ACCESSIBILITY_SETTING_NARRATION_VOLUME: number
+declare const ACCESSIBILITY_SETTING_PLAYER_WAYPOINT_ICON_COLOR: number
+declare const ACCESSIBILITY_SETTING_SCREEN_NARRATION: number
+declare const ACCESSIBILITY_SETTING_SEND_TRANSCRIPT_TO_TEXT_CHAT: number
+declare const ACCESSIBILITY_SETTING_TEXT_CHAT_NARRATION: number
+declare const ACCESSIBILITY_SETTING_TEXT_INPUT_NARRATION: number
+declare const ACCESSIBILITY_SETTING_VOICE_CHAT_ACCESSIBILITY: number
+declare const ACCESSIBILITY_SETTING_ZONE_CHAT_NARRATION: number
+
+// AccountSettings
+type AccountSettings = number
+declare const ACCOUNT_SETTING_ACCOUNT_EMAIL: number
+declare const ACCOUNT_SETTING_GET_UPDATES: number
+
+// AudioSetting
+type AudioSetting = number
+declare const AUDIO_SETTING_AMBIENT_ENABLED: number
+declare const AUDIO_SETTING_AMBIENT_VOLUME: number
+declare const AUDIO_SETTING_AUDIO_ENABLED: number
+declare const AUDIO_SETTING_AUDIO_VOLUME: number
+declare const AUDIO_SETTING_BACKGROUND_AUDIO: number
+declare const AUDIO_SETTING_COMBAT_MUSIC_MODE: number
+declare const AUDIO_SETTING_FOOTSTEPS_ENABLED: number
+declare const AUDIO_SETTING_FOOTSTEPS_VOLUME: number
+declare const AUDIO_SETTING_INTRO_MUSIC: number
+declare const AUDIO_SETTING_MUSIC_ENABLED: number
+declare const AUDIO_SETTING_MUSIC_VOLUME: number
+declare const AUDIO_SETTING_SFX_ENABLED: number
+declare const AUDIO_SETTING_SFX_VOLUME: number
+declare const AUDIO_SETTING_SOUND_ENABLED: number
+declare const AUDIO_SETTING_SPATIAL_SOUND: number
+declare const AUDIO_SETTING_SPATIAL_SOUND_QUALITY: number
+declare const AUDIO_SETTING_SPEAKER_SETUP: number
+declare const AUDIO_SETTING_UI_ENABLED: number
+declare const AUDIO_SETTING_UI_VOLUME: number
+declare const AUDIO_SETTING_VIDEO_ENABLED: number
+declare const AUDIO_SETTING_VIDEO_VOLUME: number
+declare const AUDIO_SETTING_VOICE_CHAT_VOLUME: number
+declare const AUDIO_SETTING_VO_ENABLED: number
+declare const AUDIO_SETTING_VO_VOLUME: number
+
+// AvANotificationsSettingChoice
+type AvANotificationsSettingChoice = number
+declare const AVA_NOTIFICATIONS_SETTING_CHOICE_ALWAYS_SHOW: number
+declare const AVA_NOTIFICATIONS_SETTING_CHOICE_AUTOMATIC: number
+declare const AVA_NOTIFICATIONS_SETTING_CHOICE_DONT_SHOW: number
+
+// CameraOptionsPreview
+type CameraOptionsPreview = number
+declare const CAMERA_OPTIONS_PREVIEW_FORCE_FIRST_PERSON: number
+declare const CAMERA_OPTIONS_PREVIEW_FORCE_THIRD_PERSON: number
+declare const CAMERA_OPTIONS_PREVIEW_NONE: number
+
+// CombatSetting
+type CombatSetting = number
+declare const COMBAT_SETTING_ALLOW_COMPANION_AUTO_ULTIMATE: number
+declare const COMBAT_SETTING_CLAMP_GROUND_TARGET_ENABLED: number
+declare const COMBAT_SETTING_ENCOUNTER_LOG_APPEAR_ANONYMOUS: number
+declare const COMBAT_SETTING_MONSTER_TELLS_COLOR_SWAP_ENABLED: number
+declare const COMBAT_SETTING_MONSTER_TELLS_ENABLED: number
+declare const COMBAT_SETTING_MONSTER_TELLS_ENEMY_BRIGHTNESS: number
+declare const COMBAT_SETTING_MONSTER_TELLS_ENEMY_COLOR: number
+declare const COMBAT_SETTING_MONSTER_TELLS_FRIENDLY_BRIGHTNESS: number
+declare const COMBAT_SETTING_MONSTER_TELLS_FRIENDLY_COLOR: number
+declare const COMBAT_SETTING_PREVENT_ATTACKING_INNOCENTS: number
+declare const COMBAT_SETTING_QUICK_CAST_GROUND_ABILITIES: number
+declare const COMBAT_SETTING_ROLL_DODGE_DOUBLE_TAP: number
+declare const COMBAT_SETTING_ROLL_DODGE_WINDOW: number
+declare const COMBAT_SETTING_SCROLLING_COMBAT_TEXT_ENABLED: number
+declare const COMBAT_SETTING_SCT_INCOMING_DAMAGE_ENABLED: number
+declare const COMBAT_SETTING_SCT_INCOMING_DOT_ENABLED: number
+declare const COMBAT_SETTING_SCT_INCOMING_ENABLED: number
+declare const COMBAT_SETTING_SCT_INCOMING_HEALING_ENABLED: number
+declare const COMBAT_SETTING_SCT_INCOMING_HOT_ENABLED: number
+declare const COMBAT_SETTING_SCT_INCOMING_PET_DAMAGE_ENABLED: number
+declare const COMBAT_SETTING_SCT_INCOMING_PET_DOT_ENABLED: number
+declare const COMBAT_SETTING_SCT_INCOMING_POINT_GAINS_ENABLED: number
+declare const COMBAT_SETTING_SCT_INCOMING_STATUS_EFFECTS_ENABLED: number
+declare const COMBAT_SETTING_SCT_OUTGOING_DAMAGE_ENABLED: number
+declare const COMBAT_SETTING_SCT_OUTGOING_DOT_ENABLED: number
+declare const COMBAT_SETTING_SCT_OUTGOING_ENABLED: number
+declare const COMBAT_SETTING_SCT_OUTGOING_HEALING_ENABLED: number
+declare const COMBAT_SETTING_SCT_OUTGOING_HOT_ENABLED: number
+declare const COMBAT_SETTING_SCT_OUTGOING_PET_DAMAGE_ENABLED: number
+declare const COMBAT_SETTING_SCT_OUTGOING_PET_DOT_ENABLED: number
+declare const COMBAT_SETTING_SCT_OUTGOING_PET_HEALING_ENABLED: number
+declare const COMBAT_SETTING_SCT_OUTGOING_PET_HOT_ENABLED: number
+declare const COMBAT_SETTING_SCT_OUTGOING_STATUS_EFFECTS_ENABLED: number
+declare const COMBAT_SETTING_SCT_SHOW_OVER_HEAL: number
+declare const COMBAT_SETTING_USE_BATTLE_LEVEL: number
+
+// GamepadSetting
+type GamepadSetting = number
+declare const GAMEPAD_SETTING_CAMERA_SENSITIVITY_X: number
+declare const GAMEPAD_SETTING_CAMERA_SENSITIVITY_Y: number
+declare const GAMEPAD_SETTING_DEADZONE_INNER_LEFT_STICK: number
+declare const GAMEPAD_SETTING_DEADZONE_INNER_RIGHT_STICK: number
+declare const GAMEPAD_SETTING_DEADZONE_OUTER_LEFT_STICK: number
+declare const GAMEPAD_SETTING_DEADZONE_OUTER_RIGHT_STICK: number
+declare const GAMEPAD_SETTING_DEADZONE_TRIGGERS: number
+declare const GAMEPAD_SETTING_GAMEPAD_TEMPLATE: number
+declare const GAMEPAD_SETTING_INPUT_PREFERRED_MODE: number
+declare const GAMEPAD_SETTING_INVERT_X: number
+declare const GAMEPAD_SETTING_INVERT_Y: number
+declare const GAMEPAD_SETTING_KEYBIND_DISPLAY_MODE: number
+declare const GAMEPAD_SETTING_USE_KEYBOARD_CHAT: number
+declare const GAMEPAD_SETTING_USE_KEYBOARD_LOGIN: number
+declare const GAMEPAD_SETTING_VIBRATION: number
+declare const GAMEPAD_SETTING_WAS_LAST_INPUT_GAMEPAD: number
+
+// GuildKeepNoticesSettingChoice
+type GuildKeepNoticesSettingChoice = number
+declare const GUILD_KEEP_NOTICES_SETTING_CHOICE_ALERT: number
+declare const GUILD_KEEP_NOTICES_SETTING_CHOICE_CHAT: number
+declare const GUILD_KEEP_NOTICES_SETTING_CHOICE_DONT_SHOW: number
+
+// LootSetting
+type LootSetting = number
+declare const LOOT_SETTING_AOE_LOOT: number
+declare const LOOT_SETTING_AUTO_ADD_TO_CRAFT_BAG: number
+declare const LOOT_SETTING_AUTO_LOOT: number
+declare const LOOT_SETTING_AUTO_LOOT_STOLEN: number
+declare const LOOT_SETTING_LOOT_HISTORY: number
+declare const LOOT_SETTING_PREVENT_STEALING_PLACED: number
+
+// SetOptions
+type SetOptions = number
+declare const SETTINGS_SET_OPTION_DO_NOT_SAVE_TO_PERSISTED_DATA: number
+declare const SETTINGS_SET_OPTION_SAVE_TO_PERSISTED_DATA: number
+
+// SettingSystemType
+type SettingSystemType = number
+declare const SETTING_TYPE_ACCESSIBILITY: number
+declare const SETTING_TYPE_ACCOUNT: number
+declare const SETTING_TYPE_ACTION_BARS: number
+declare const SETTING_TYPE_ACTIVE_COMBAT_TIP: number
+declare const SETTING_TYPE_AUDIO: number
+declare const SETTING_TYPE_BUFFS: number
+declare const SETTING_TYPE_CAMERA: number
+declare const SETTING_TYPE_CHAT_BUBBLE: number
+declare const SETTING_TYPE_CHAT_GLOBALS: number
+declare const SETTING_TYPE_CHAT_TABS: number
+declare const SETTING_TYPE_COMBAT: number
+declare const SETTING_TYPE_DEVELOPER_DEBUG: number
+declare const SETTING_TYPE_GAMEPAD: number
+declare const SETTING_TYPE_GRAPHICS: number
+declare const SETTING_TYPE_IN_WORLD: number
+declare const SETTING_TYPE_LANGUAGE: number
+declare const SETTING_TYPE_LOOT: number
+declare const SETTING_TYPE_NAMEPLATES: number
+declare const SETTING_TYPE_SUBTITLES: number
+declare const SETTING_TYPE_TUTORIAL: number
+declare const SETTING_TYPE_UI: number
+declare const SETTING_TYPE_VOICE: number
+
+// UISetting
+type UISetting = number
+declare const UI_SETTING_ALWAYS_SHOW_STATUS_TEXT: number
+declare const UI_SETTING_AUTOMATIC_QUEST_TRACKING: number
+declare const UI_SETTING_AUTO_DECLINE_DUEL_INVITES: number
+declare const UI_SETTING_AUTO_DECLINE_TRIBUTE_INVITES: number
+declare const UI_SETTING_COMPASS_ACTIVE_QUESTS: number
+declare const UI_SETTING_COMPASS_COMPANION: number
+declare const UI_SETTING_COMPASS_DISTANCE_TRACKING: number
+declare const UI_SETTING_COMPASS_GROUP_LEADER: number
+declare const UI_SETTING_COMPASS_GROUP_MEMBER_AVA: number
+declare const UI_SETTING_COMPASS_GROUP_MEMBER_BATTLEGROUND: number
+declare const UI_SETTING_COMPASS_GROUP_MEMBER_DELVE: number
+declare const UI_SETTING_COMPASS_GROUP_MEMBER_DUNGEON: number
+declare const UI_SETTING_COMPASS_GROUP_MEMBER_GENERAL: number
+declare const UI_SETTING_COMPASS_GROUP_MEMBER_RAID: number
+declare const UI_SETTING_COMPASS_QUEST_GIVERS: number
+declare const UI_SETTING_COMPASS_TARGET_MARKERS: number
+declare const UI_SETTING_CUSTOM_SCALE: number
+declare const UI_SETTING_DEPRECATED3: number
+declare const UI_SETTING_FADE_PLAYER_BARS: number
+declare const UI_SETTING_FRAMERATE_LATENCY_LOCK: number
+declare const UI_SETTING_GAMEPAD_CHAT_HUD_ENABLED: number
+declare const UI_SETTING_GAMEPAD_CUSTOM_SCALE: number
+declare const UI_SETTING_PRIMARY_PLAYER_NAME_GAMEPAD: number
+declare const UI_SETTING_PRIMARY_PLAYER_NAME_KEYBOARD: number
+declare const UI_SETTING_RESOURCE_NUMBERS: number
+declare const UI_SETTING_RESTRICTED_COMMUNICATION: number
+declare const UI_SETTING_RETURN_CURSOR_ON_CHAT_FOCUS: number
+declare const UI_SETTING_SHOW_ACTION_BAR: number
+declare const UI_SETTING_SHOW_ACTION_BAR_BACK_ROW: number
+declare const UI_SETTING_SHOW_ACTION_BAR_TIMERS: number
+declare const UI_SETTING_SHOW_ARMOR_INDICATOR: number
+declare const UI_SETTING_SHOW_AVA_NOTIFICATIONS: number
+declare const UI_SETTING_SHOW_FRAMERATE: number
+declare const UI_SETTING_SHOW_GUILD_KEEP_NOTICES: number
+declare const UI_SETTING_SHOW_HOUSE_TRACKER: number
+declare const UI_SETTING_SHOW_LATENCY: number
+declare const UI_SETTING_SHOW_LEADERBOARD_NOTIFICATIONS: number
+declare const UI_SETTING_SHOW_PVP_KILL_FEED_NOTIFICATIONS: number
+declare const UI_SETTING_SHOW_QUEST_BESTOWER_INDICATORS: number
+declare const UI_SETTING_SHOW_QUEST_TRACKER: number
+declare const UI_SETTING_SHOW_RAID_LIVES: number
+declare const UI_SETTING_SHOW_RESOURCE_BARS: number
+declare const UI_SETTING_SHOW_WEAPON_INDICATOR: number
+declare const UI_SETTING_SOCIAL_LIST_HIDE_OFFLINE: number
+declare const UI_SETTING_TEXT_LANGUAGE: number
+declare const UI_SETTING_ULTIMATE_NUMBER: number
+declare const UI_SETTING_USE_CUSTOM_SCALE: number
+declare const UI_SETTING_USE_GAMEPAD_CUSTOM_SCALE: number
+
+// TimeFormatDirectionCode
+type TimeFormatDirectionCode = number
+declare const TIME_FORMAT_DIRECTION_ASCENDING: number
+declare const TIME_FORMAT_DIRECTION_DESCENDING: number
+declare const TIME_FORMAT_DIRECTION_NONE: number
+
+// TimeFormatPrecisionCode
+type TimeFormatPrecisionCode = number
+declare const TIME_FORMAT_PRECISION_MILLISECONDS: number
+declare const TIME_FORMAT_PRECISION_MILLISECONDS_NO_HOURS_OR_DAYS: number
+declare const TIME_FORMAT_PRECISION_SECONDS: number
+declare const TIME_FORMAT_PRECISION_TENTHS: number
+declare const TIME_FORMAT_PRECISION_TENTHS_RELEVANT: number
+declare const TIME_FORMAT_PRECISION_TWELVE_HOUR: number
+declare const TIME_FORMAT_PRECISION_TWELVE_HOUR_NO_SECONDS: number
+declare const TIME_FORMAT_PRECISION_TWENTY_FOUR_HOUR: number
+
+// TimeFormatStyleCode
+type TimeFormatStyleCode = number
+declare const TIME_FORMAT_STYLE_CAST_TIME: number
+declare const TIME_FORMAT_STYLE_CHANNEL_TIME: number
+declare const TIME_FORMAT_STYLE_CLOCK_TIME: number
+declare const TIME_FORMAT_STYLE_COLONS: number
+declare const TIME_FORMAT_STYLE_COOLDOWN_TIME: number
+declare const TIME_FORMAT_STYLE_DESCRIPTIVE: number
+declare const TIME_FORMAT_STYLE_DESCRIPTIVE_MINIMAL: number
+declare const TIME_FORMAT_STYLE_DESCRIPTIVE_MINIMAL_HIDE_ZEROES: number
+declare const TIME_FORMAT_STYLE_DESCRIPTIVE_MINIMAL_SHOW_TENTHS_SECS: number
+declare const TIME_FORMAT_STYLE_DESCRIPTIVE_SHORT: number
+declare const TIME_FORMAT_STYLE_DESCRIPTIVE_SHORT_SHOW_ZERO_SECS: number
+declare const TIME_FORMAT_STYLE_DURATION: number
+declare const TIME_FORMAT_STYLE_RELATIVE_TIMESTAMP: number
+declare const TIME_FORMAT_STYLE_SHOW_LARGEST_TWO_UNITS: number
+declare const TIME_FORMAT_STYLE_SHOW_LARGEST_UNIT: number
+declare const TIME_FORMAT_STYLE_SHOW_LARGEST_UNIT_DESCRIPTIVE: number
+declare const TIME_FORMAT_STYLE_SHOW_LARGEST_UNIT_DESCRIPTIVE_COLOR: number
+declare const TIME_FORMAT_STYLE_SHOW_LARGEST_UNIT_DESCRIPTIVE_SHORT: number
+
+// TradeActionResult
+type TradeActionResult = number
+declare const TRADE_ACTION_RESULT_ADD_ITEM_DUPLICATE: number
+declare const TRADE_ACTION_RESULT_DISABLED: number
+declare const TRADE_ACTION_RESULT_IGNORING_YOU: number
+declare const TRADE_ACTION_RESULT_INVALID_TRADE_SLOT: number
+declare const TRADE_ACTION_RESULT_ITEM_ADD_LOCKED: number
+declare const TRADE_ACTION_RESULT_ITEM_IS_BOUND: number
+declare const TRADE_ACTION_RESULT_ITEM_IS_STOLEN: number
+declare const TRADE_ACTION_RESULT_ITEM_UNIQUE_FROM_OTHER: number
+declare const TRADE_ACTION_RESULT_NEED_ALLIANCE_FOR_TRADE: number
+declare const TRADE_ACTION_RESULT_NEED_PLAYER_FOR_TRADE: number
+declare const TRADE_ACTION_RESULT_NOT_CONSIDERING_TRADE_INVITE: number
+declare const TRADE_ACTION_RESULT_NOT_ENOUGH_EMPTY_SLOTS: number
+declare const TRADE_ACTION_RESULT_NOT_ENOUGH_SLOTS: number
+declare const TRADE_ACTION_RESULT_NOT_TRADING: number
+declare const TRADE_ACTION_RESULT_NOT_WAITING_TRADE_INVITE: number
+declare const TRADE_ACTION_RESULT_ON_TRADE_COOLDOWN: number
+declare const TRADE_ACTION_RESULT_OTHER_HAS_TOO_MUCH_MONEY: number
+declare const TRADE_ACTION_RESULT_OTHER_IS_MISSING_MONEY: number
+declare const TRADE_ACTION_RESULT_OTHER_PLAYER_MISSING: number
+declare const TRADE_ACTION_RESULT_PARTICIPANT_IS_DEAD: number
+declare const TRADE_ACTION_RESULT_SUCCESS: number
+declare const TRADE_ACTION_RESULT_TARGET_IS_TRADING: number
+declare const TRADE_ACTION_RESULT_TOO_FAR_TO_TRADE: number
+declare const TRADE_ACTION_RESULT_TRADE_INVITE_ALREADY_SENT: number
+declare const TRADE_ACTION_RESULT_TRADE_INVITE_FAILED: number
+declare const TRADE_ACTION_RESULT_TRADE_INVITE_PENDING: number
+declare const TRADE_ACTION_RESULT_TRADE_INVITE_WHEN_ACTIVE: number
+declare const TRADE_ACTION_RESULT_TRADE_SELF_ERROR: number
+declare const TRADE_ACTION_RESULT_TRADE_TARGET_REQUIRED: number
+declare const TRADE_ACTION_RESULT_UKNOWN_ITEM: number
+declare const TRADE_ACTION_RESULT_YOU_ARE_BUSY: number
+declare const TRADE_ACTION_RESULT_YOU_ARE_MISSING_MONEY: number
+declare const TRADE_ACTION_RESULT_YOU_HAVE_TOO_MUCH_MONEY: number
+
+// TradeParticipant
+type TradeParticipant = number
+declare const TRADE_ME: number
+declare const TRADE_THEM: number
+
+// RewardDisplayFlags
+type RewardDisplayFlags = number
+declare const REWARD_DISPLAY_FLAGS_FROM_CONTAINER: number
+declare const REWARD_DISPLAY_FLAGS_FROM_CROWN_STORE: number
+declare const REWARD_DISPLAY_FLAGS_FROM_CROWN_STORE_CONTAINER: number
+
+// RewardItemType
+type RewardItemType = number
+declare const REWARD_ITEM_TYPE_COLLECTIBLE: number
+declare const REWARD_ITEM_TYPE_ITEM: number
+declare const REWARD_ITEM_TYPE_TRIBUTE_CARD_UPGRADE: number
+
+// RewardType
+type RewardType = number
+declare const REWARD_TYPE_ADVENTURE_ZONE_FACTION_POINTS: number
+declare const REWARD_TYPE_ALLIANCE_POINTS: number
+declare const REWARD_TYPE_ARCHIVAL_FORTUNES: number
+declare const REWARD_TYPE_AUTO_ITEM: number
+declare const REWARD_TYPE_CHAOTIC_CREATIA: number
+declare const REWARD_TYPE_IMPERIAL_FRAGMENTS: number
+declare const REWARD_TYPE_INSPIRATION: number
+declare const REWARD_TYPE_MONEY: number
+declare const REWARD_TYPE_NONE: number
+declare const REWARD_TYPE_PARTIAL_SKILL_POINTS: number
+declare const REWARD_TYPE_SKILL_LINE: number
+declare const REWARD_TYPE_SPECTACLE_PROGRESS: number
+declare const REWARD_TYPE_STYLE_STONES: number
+declare const REWARD_TYPE_TELVAR_STONES: number
+declare const REWARD_TYPE_TRADE_BARS: number
+declare const REWARD_TYPE_TRIBUTE_CLUB_EXPERIENCE: number
+declare const REWARD_TYPE_UNDAUNTED_KEYS: number
+declare const REWARD_TYPE_WRIT_VOUCHERS: number
+
+// ChampionDisciplineType
+type ChampionDisciplineType = number
+declare const CHAMPION_DISCIPLINE_TYPE_COMBAT: number
+declare const CHAMPION_DISCIPLINE_TYPE_CONDITIONING: number
+declare const CHAMPION_DISCIPLINE_TYPE_WORLD: number
+
+// ChampionPurchaseResult
+type ChampionPurchaseResult = number
+declare const CHAMPION_PURCHASE_ABILITY_CAP_EXCEEDED: number
+declare const CHAMPION_PURCHASE_ABILITY_LINE_LEVEL_NOT_MET: number
+declare const CHAMPION_PURCHASE_ATTRIBUTE_CAP_EXCEEDED: number
+declare const CHAMPION_PURCHASE_CARRYING_DAEDRIC_ARTIFACT: number
+declare const CHAMPION_PURCHASE_CHAMPION_BAR_ILLEGAL_SLOT: number
+declare const CHAMPION_PURCHASE_CHAMPION_BAR_NOT_CHAMPION_SKILL: number
+declare const CHAMPION_PURCHASE_CHAMPION_BAR_ON_COOLDOWN: number
+declare const CHAMPION_PURCHASE_CHAMPION_BAR_SKILL_NOT_PURCHASED: number
+declare const CHAMPION_PURCHASE_CHAMPION_BAR_SKILL_NOT_SLOTTABLE: number
+declare const CHAMPION_PURCHASE_CHAMPION_BAR_WRONG_DISCIPLINE: number
+declare const CHAMPION_PURCHASE_CHAMPION_NOT_UNLOCKED: number
+declare const CHAMPION_PURCHASE_CP_DISABLED: number
+declare const CHAMPION_PURCHASE_INTERNAL_ERROR: number
+declare const CHAMPION_PURCHASE_INVALID_ABILITY: number
+declare const CHAMPION_PURCHASE_INVALID_ATTRIBUTE: number
+declare const CHAMPION_PURCHASE_IN_COMBAT: number
+declare const CHAMPION_PURCHASE_IN_NOCP_BATTLEGROUND: number
+declare const CHAMPION_PURCHASE_IN_NOCP_CAMPAIGN: number
+declare const CHAMPION_PURCHASE_NOT_ENOUGH_POINTS: number
+declare const CHAMPION_PURCHASE_RESPEC_FAILED: number
+declare const CHAMPION_PURCHASE_SKILL_NEEDS_REFUND: number
+declare const CHAMPION_PURCHASE_SKILL_NOT_CONNECTED: number
+declare const CHAMPION_PURCHASE_SUCCESS: number
+declare const CHAMPION_PURCHASE_USING_LOADOUT: number
+
+// ChampionSkillType
+type ChampionSkillType = number
+declare const CHAMPION_SKILL_TYPE_NORMAL: number
+declare const CHAMPION_SKILL_TYPE_NORMAL_SLOTTABLE: number
+declare const CHAMPION_SKILL_TYPE_STAT_POOL_SLOTTABLE: number
+
+// CurseType
+type CurseType = number
+declare const CURSE_TYPE_NONE: number
+declare const CURSE_TYPE_VAMPIRE: number
+declare const CURSE_TYPE_WEREWOLF: number
+
+// HotBarCategory
+type HotBarCategory = number
+declare const HOTBAR_CATEGORY_ALLY_WHEEL: number
+declare const HOTBAR_CATEGORY_BACKUP: number
+declare const HOTBAR_CATEGORY_CHAMPION: number
+declare const HOTBAR_CATEGORY_COMPANION: number
+declare const HOTBAR_CATEGORY_DAEDRIC_ARTIFACT: number
+declare const HOTBAR_CATEGORY_EMOTE_WHEEL: number
+declare const HOTBAR_CATEGORY_MEMENTO_WHEEL: number
+declare const HOTBAR_CATEGORY_OVERLOAD: number
+declare const HOTBAR_CATEGORY_PRIMARY: number
+declare const HOTBAR_CATEGORY_QUICKSLOT_WHEEL: number
+declare const HOTBAR_CATEGORY_TEMPORARY: number
+declare const HOTBAR_CATEGORY_TOOL_WHEEL: number
+declare const HOTBAR_CATEGORY_WEREWOLF: number
+
+// RespecPaymentType
+type RespecPaymentType = number
+declare const RESPEC_PAYMENT_TYPE_GOLD: number
+declare const RESPEC_PAYMENT_TYPE_RESPEC_SCROLL: number
+
+// RespecResult
+type RespecResult = number
+declare const RESPEC_RESULT_ABILITY_DISABLED: number
+declare const RESPEC_RESULT_ACTIVE_ABILITY_IS_AUTOGRANT: number
+declare const RESPEC_RESULT_ACTIVE_ABILITY_NOT_FOUND: number
+declare const RESPEC_RESULT_ACTIVE_ABILITY_NOT_PURCHASED: number
+declare const RESPEC_RESULT_ACTIVE_ABILITY_PREREQS_UNMET: number
+declare const RESPEC_RESULT_ACTIVE_HOTBAR_NOT_RESPECCABLE: number
+declare const RESPEC_RESULT_CAST_CANCELED: number
+declare const RESPEC_RESULT_CHAMPION_SKILL_REMOVED_FROM_ARMORY_BAR: number
+declare const RESPEC_RESULT_CHAMPION_SKILL_REMOVED_FROM_BAR: number
+declare const RESPEC_RESULT_CRAFTED_ABILITY_SCRIPT_DISABLED: number
+declare const RESPEC_RESULT_DISALLOWED_IN_ACTIVITY: number
+declare const RESPEC_RESULT_HAS_NO_CHANGES: number
+declare const RESPEC_RESULT_HOTBAR_ABILITY_ILLEGAL_SLOT: number
+declare const RESPEC_RESULT_HOTBAR_ABILITY_NOT_FOUND: number
+declare const RESPEC_RESULT_HOTBAR_ABILITY_NOT_PURCHASED: number
+declare const RESPEC_RESULT_HOTBAR_ABILITY_NOT_USABLE: number
+declare const RESPEC_RESULT_HOTBAR_ABILITY_REMOVED: number
+declare const RESPEC_RESULT_HOTBAR_ABILITY_SLOT_NOT_RESPECCABLE: number
+declare const RESPEC_RESULT_HOTBAR_INVALID_ABILITY: number
+declare const RESPEC_RESULT_HOTBAR_NOT_AN_ABILITY: number
+declare const RESPEC_RESULT_HOTBAR_NOT_COMPANION_BAR: number
+declare const RESPEC_RESULT_HOTBAR_NOT_COMPANION_SKILL: number
+declare const RESPEC_RESULT_HOTBAR_NOT_FOUND: number
+declare const RESPEC_RESULT_HOTBAR_NOT_RESPECCABLE: number
+declare const RESPEC_RESULT_HOTBAR_NO_COMPANION: number
+declare const RESPEC_RESULT_HOTBAR_SLOT_NOT_AVAILABLE: number
+declare const RESPEC_RESULT_INVALID_LINE_ALLOCATION: number
+declare const RESPEC_RESULT_INVALID_PROGRESSION_LINE: number
+declare const RESPEC_RESULT_INVALID_SKILL_LINE: number
+declare const RESPEC_RESULT_INVALID_SKILL_SELECTION: number
+declare const RESPEC_RESULT_IN_VENGEANCE: number
+declare const RESPEC_RESULT_IS_IN_COMBAT: number
+declare const RESPEC_RESULT_IS_IN_COMBAT_ATTRIBUTE: number
+declare const RESPEC_RESULT_LINE_FULLY_ALLOCATED: number
+declare const RESPEC_RESULT_NOT_AT_SKILL_RESPEC_SHRINE: number
+declare const RESPEC_RESULT_NOT_ENOUGH_ATTRIBUTE_POINTS: number
+declare const RESPEC_RESULT_NOT_ENOUGH_GOLD: number
+declare const RESPEC_RESULT_NOT_ENOUGH_GOLD_FOR_MORPHS: number
+declare const RESPEC_RESULT_NOT_ENOUGH_MORPH_XP: number
+declare const RESPEC_RESULT_NOT_ENOUGH_SKILL_POINTS: number
+declare const RESPEC_RESULT_NO_FULL_RESPEC_SCROLL: number
+declare const RESPEC_RESULT_NO_MORPH_RESPEC_SCROLL: number
+declare const RESPEC_RESULT_ON_COOLDOWN_ATTRIBUTES: number
+declare const RESPEC_RESULT_ON_COOLDOWN_SKILLS: number
+declare const RESPEC_RESULT_PASSIVE_ABILITY_IS_AUTOGRANT: number
+declare const RESPEC_RESULT_PASSIVE_ABILITY_NOT_FOUND: number
+declare const RESPEC_RESULT_PASSIVE_ABILITY_NOT_PURCHASED: number
+declare const RESPEC_RESULT_PASSIVE_ABILITY_PREREQS_UNMET: number
+declare const RESPEC_RESULT_REMOVED_ABILITIES_DURING_PURCHASE_MODE: number
+declare const RESPEC_RESULT_REMOVED_NON_MORPH_DURING_MORPH_MODE: number
+declare const RESPEC_RESULT_SCRIBING_DISABLED: number
+declare const RESPEC_RESULT_SCROLL_NOT_ALLOWED: number
+declare const RESPEC_RESULT_SKILL_ACTIVATE_ACTIVATING_SKILL_NOT_AVALIABLE: number
+declare const RESPEC_RESULT_SKILL_ACTIVATE_ACTIVATING_SKILL_NOT_A_CLASS_SKILL: number
+declare const RESPEC_RESULT_SKILL_ACTIVATE_ACTIVATING_SKILL_NOT_A_VALID_SKILL: number
+declare const RESPEC_RESULT_SKILL_ACTIVATE_ACTIVATING_TWO_SUBSKILLS_FROM_SAME_CLASS: number
+declare const RESPEC_RESULT_SKILL_ACTIVATE_CHARACTER_HAS_NO_CLASS: number
+declare const RESPEC_RESULT_SKILL_ACTIVATE_NEED_ONE_SKILL_FROM_CHARACTER_CLASS: number
+declare const RESPEC_RESULT_SKILL_ACTIVATE_NEED_TO_OWN_CLASS: number
+declare const RESPEC_RESULT_SKILL_ACTIVATE_UNEQUAL_NUMBER_OF_REMOVES_AND_ADDS: number
+declare const RESPEC_RESULT_SKILL_ALREADY_IN_TRAINING: number
+declare const RESPEC_RESULT_SKILL_ALREADY_MASTERED: number
+declare const RESPEC_RESULT_SKILL_REMOVED_WHILE_SUBCLASSING: number
+declare const RESPEC_RESULT_SKILL_SWAPPING_DISABLED: number
+declare const RESPEC_RESULT_SKILL_SWAPPING_INVALID_MODE: number
+declare const RESPEC_RESULT_SKILL_TRAINING_CAN_NOT_TRAIN_ANYMORE_SKILLS: number
+declare const RESPEC_RESULT_SKILL_TRAINING_NEED_TO_OWN_CLASS: number
+declare const RESPEC_RESULT_SKILL_TRAINING_NOT_AN_ACCOUNT_SKILL: number
+declare const RESPEC_RESULT_SKILL_TRAINING_NOT_A_CLASS_SKILL: number
+declare const RESPEC_RESULT_SKILL_TRAINING_NOT_A_VALID_SKILL: number
+declare const RESPEC_RESULT_SUBCLASSING_ABILITY_PURCHASE_DISABLED: number
+declare const RESPEC_RESULT_SUBCLASSING_ACCESS_DENIED: number
+declare const RESPEC_RESULT_SUBCLASSING_DISABLED: number
+declare const RESPEC_RESULT_SUBCLASSING_SKILL_SWAPPING_DISABLED: number
+declare const RESPEC_RESULT_SUBCLASSING_TRAINING_DISABLED: number
+declare const RESPEC_RESULT_SUBCLASSING_TRAINING_INVALID_MODE: number
+declare const RESPEC_RESULT_SUCCESS: number
+declare const RESPEC_RESULT_UNKNOWN_REPEC_REQUEST_TYPE: number
+
+// SkillPointAllocationMode
+type SkillPointAllocationMode = number
+declare const SKILL_POINT_ALLOCATION_MODE_FULL: number
+declare const SKILL_POINT_ALLOCATION_MODE_MORPHS_ONLY: number
+declare const SKILL_POINT_ALLOCATION_MODE_PURCHASE_ONLY: number
+declare const SKILL_POINT_ALLOCATION_MODE_SUBCLASS_ONLY: number
+
+// SkillPointReason
+type SkillPointReason = number
+declare const SKILL_POINT_CHANGE_REASON_ACHIEVEMENT: number
+declare const SKILL_POINT_CHANGE_REASON_ACHIEVEMENT_COMPONENT: number
+declare const SKILL_POINT_CHANGE_REASON_ACTION: number
+declare const SKILL_POINT_CHANGE_REASON_AVA_RANK_UP: number
+declare const SKILL_POINT_CHANGE_REASON_CHAMPION_RANK_UP: number
+declare const SKILL_POINT_CHANGE_REASON_IGNORE: number
+declare const SKILL_POINT_CHANGE_REASON_INITIALIZE: number
+declare const SKILL_POINT_CHANGE_REASON_LEVEL_UP: number
+declare const SKILL_POINT_CHANGE_REASON_OTHER: number
+declare const SKILL_POINT_CHANGE_REASON_PURCHASE: number
+declare const SKILL_POINT_CHANGE_REASON_QUEST_REWARD: number
+declare const SKILL_POINT_CHANGE_REASON_SKILL_RESET: number
+declare const SKILL_POINT_CHANGE_REASON_SKILL_RESPEC: number
+declare const SKILL_POINT_CHANGE_REASON_SKYSHARD: number
+declare const SKILL_POINT_CHANGE_REASON_SKYSHARD_INSTANT_UNLOCK: number
+
+// SkillType
+type SkillType = number
+declare const SKILL_TYPE_ARMOR: number
+declare const SKILL_TYPE_AVA: number
+declare const SKILL_TYPE_CHAMPION: number
+declare const SKILL_TYPE_CLASS: number
+declare const SKILL_TYPE_GUILD: number
+declare const SKILL_TYPE_NONE: number
+declare const SKILL_TYPE_RACIAL: number
+declare const SKILL_TYPE_TRADESKILL: number
+declare const SKILL_TYPE_WEAPON: number
+declare const SKILL_TYPE_WORLD: number
+
+declare const ABILITY_SKILLPOINT_COST: number
+declare const MAX_RANKS_PER_ABILITY: number
+declare const MAX_SKILL_LINES_IN_TRAINING: number
+declare const NUM_ASSIGNABLE_HOTBARS: number
+declare const NUM_SKILL_LINE_COLUMNS_PER_LINE: number
+declare const NUM_PARTIAL_SKILL_POINTS_FOR_FULL: number
+declare const RESPEC_CAST_TIME_MS: number
+declare const SUBCLASS_ABILITY_SKILLPOINT_COST: number
+
+declare const EXPIRING_MARKET_CURRENCY_WARNING_THRESHOLD_SECONDS: number
+declare const MAX_MARKET_PURCHASE_QUANTITY: number
+
+// MapContentType
+type MapContentType = number
+declare const MAP_CONTENT_AVA: number
+declare const MAP_CONTENT_BATTLEGROUND: number
+declare const MAP_CONTENT_DUNGEON: number
+declare const MAP_CONTENT_NONE: number
+
+// MapFilter
+type MapFilter = number
+declare const MAP_FILTER_ACQUIRED_SKYSHARDS: number
+declare const MAP_FILTER_ARENAS: number
+declare const MAP_FILTER_AVA_GRAVEYARDS: number
+declare const MAP_FILTER_AVA_GRAVEYARD_AREAS: number
+declare const MAP_FILTER_AVA_OBJECTIVES: number
+declare const MAP_FILTER_COMPANIONS: number
+declare const MAP_FILTER_DEPRECATED: number
+declare const MAP_FILTER_DIG_SITES: number
+declare const MAP_FILTER_DUNGEONS: number
+declare const MAP_FILTER_GROUP_MEMBERS: number
+declare const MAP_FILTER_HOUSES: number
+declare const MAP_FILTER_KILL_LOCATIONS: number
+declare const MAP_FILTER_NONE: number
+declare const MAP_FILTER_OBJECTIVES: number
+declare const MAP_FILTER_QUESTS: number
+declare const MAP_FILTER_RESOURCE_KEEPS: number
+declare const MAP_FILTER_TRANSIT_LINES: number
+declare const MAP_FILTER_TRANSIT_LINES_ALLIANCE: number
+declare const MAP_FILTER_TRIALS: number
+declare const MAP_FILTER_WAYSHRINES: number
+
+// MapFilterType
+type MapFilterType = number
+declare const MAP_FILTER_TYPE_AVA_CYRODIIL: number
+declare const MAP_FILTER_TYPE_AVA_IMPERIAL: number
+declare const MAP_FILTER_TYPE_BATTLEGROUND: number
+declare const MAP_FILTER_TYPE_GLOBAL: number
+declare const MAP_FILTER_TYPE_STANDARD: number
+
+// MapPingEventType
+type MapPingEventType = number
+declare const PING_EVENT_ADDED: number
+declare const PING_EVENT_REMOVED: number
+
+// PointOfInterestType
+type PointOfInterestType = number
+declare const POI_TYPE_ACHIEVEMENT: number
+declare const POI_TYPE_ACHIEVEMENT_COMPONENT: number
+declare const POI_TYPE_GROUP_DUNGEON: number
+declare const POI_TYPE_HOUSE: number
+declare const POI_TYPE_OBJECTIVE: number
+declare const POI_TYPE_PUBLIC_DUNGEON: number
+declare const POI_TYPE_STANDARD: number
+declare const POI_TYPE_WAYSHRINE: number
+
+// SetMapResultCode
+type SetMapResultCode = number
+declare const SET_MAP_RESULT_CURRENT_MAP_UNCHANGED: number
+declare const SET_MAP_RESULT_FAILED: number
+declare const SET_MAP_RESULT_MAP_CHANGED: number
+
+// SkyshardDiscoveryStatus
+type SkyshardDiscoveryStatus = number
+declare const SKYSHARD_DISCOVERY_STATUS_ACQUIRED: number
+declare const SKYSHARD_DISCOVERY_STATUS_DISCOVERED: number
+declare const SKYSHARD_DISCOVERY_STATUS_UNDISCOVERED: number
+
+// UIMapType
+type UIMapType = number
+declare const MAPTYPE_COSMIC: number
+declare const MAPTYPE_DEPRECATED_1: number
+declare const MAPTYPE_NONE: number
+declare const MAPTYPE_SUBZONE: number
+declare const MAPTYPE_WORLD: number
+declare const MAPTYPE_ZONE: number
+
+// ZoneCompletionType
+type ZoneCompletionType = number
+declare const ZONE_COMPLETION_TYPE_DELVES: number
+declare const ZONE_COMPLETION_TYPE_FEATURED_ACHIEVEMENTS: number
+declare const ZONE_COMPLETION_TYPE_GROUP_BOSSES: number
+declare const ZONE_COMPLETION_TYPE_GROUP_DELVES: number
+declare const ZONE_COMPLETION_TYPE_MAGES_GUILD_BOOKS: number
+declare const ZONE_COMPLETION_TYPE_MUNDUS_STONES: number
+declare const ZONE_COMPLETION_TYPE_NONE: number
+declare const ZONE_COMPLETION_TYPE_POINTS_OF_INTEREST: number
+declare const ZONE_COMPLETION_TYPE_PRIORITY_QUESTS: number
+declare const ZONE_COMPLETION_TYPE_PUBLIC_DUNGEONS: number
+declare const ZONE_COMPLETION_TYPE_SET_STATIONS: number
+declare const ZONE_COMPLETION_TYPE_SKYSHARDS: number
+declare const ZONE_COMPLETION_TYPE_STRIKING_LOCALES: number
+declare const ZONE_COMPLETION_TYPE_WAYSHRINES: number
+declare const ZONE_COMPLETION_TYPE_WORLD_EVENTS: number
+
+declare const INVALID_EXPLORATION_INDEX: number
+declare const MAX_WORLD_EVENT_UNITS: number
+declare const WESTERN_SKYRIM_ZONE_ID: number
+
+// EnchantmentSearchCategoryType
+type EnchantmentSearchCategoryType = number
+declare const ENCHANTMENT_SEARCH_CATEGORY_ABSORB_HEALTH: number
+declare const ENCHANTMENT_SEARCH_CATEGORY_ABSORB_MAGICKA: number
+declare const ENCHANTMENT_SEARCH_CATEGORY_ABSORB_STAMINA: number
+declare const ENCHANTMENT_SEARCH_CATEGORY_BEFOULED_WEAPON: number
+declare const ENCHANTMENT_SEARCH_CATEGORY_BERSERKER: number
+declare const ENCHANTMENT_SEARCH_CATEGORY_CHARGED_WEAPON: number
+declare const ENCHANTMENT_SEARCH_CATEGORY_DAMAGE_HEALTH: number
+declare const ENCHANTMENT_SEARCH_CATEGORY_DAMAGE_SHIELD: number
+declare const ENCHANTMENT_SEARCH_CATEGORY_DECREASE_PHYSICAL_DAMAGE: number
+declare const ENCHANTMENT_SEARCH_CATEGORY_DECREASE_SPELL_DAMAGE: number
+declare const ENCHANTMENT_SEARCH_CATEGORY_DISEASE_RESISTANT: number
+declare const ENCHANTMENT_SEARCH_CATEGORY_FIERY_WEAPON: number
+declare const ENCHANTMENT_SEARCH_CATEGORY_FIRE_RESISTANT: number
+declare const ENCHANTMENT_SEARCH_CATEGORY_FROST_RESISTANT: number
+declare const ENCHANTMENT_SEARCH_CATEGORY_FROZEN_WEAPON: number
+declare const ENCHANTMENT_SEARCH_CATEGORY_HEALTH: number
+declare const ENCHANTMENT_SEARCH_CATEGORY_HEALTH_REGEN: number
+declare const ENCHANTMENT_SEARCH_CATEGORY_INCREASE_BASH_DAMAGE: number
+declare const ENCHANTMENT_SEARCH_CATEGORY_INCREASE_PHYSICAL_DAMAGE: number
+declare const ENCHANTMENT_SEARCH_CATEGORY_INCREASE_POTION_EFFECTIVENESS: number
+declare const ENCHANTMENT_SEARCH_CATEGORY_INCREASE_SPELL_DAMAGE: number
+declare const ENCHANTMENT_SEARCH_CATEGORY_INVALID: number
+declare const ENCHANTMENT_SEARCH_CATEGORY_MAGICKA: number
+declare const ENCHANTMENT_SEARCH_CATEGORY_MAGICKA_REGEN: number
+declare const ENCHANTMENT_SEARCH_CATEGORY_NONE: number
+declare const ENCHANTMENT_SEARCH_CATEGORY_POISONED_WEAPON: number
+declare const ENCHANTMENT_SEARCH_CATEGORY_POISON_RESISTANT: number
+declare const ENCHANTMENT_SEARCH_CATEGORY_PRISMATIC_DEFENSE: number
+declare const ENCHANTMENT_SEARCH_CATEGORY_PRISMATIC_ONSLAUGHT: number
+declare const ENCHANTMENT_SEARCH_CATEGORY_PRISMATIC_REGEN: number
+declare const ENCHANTMENT_SEARCH_CATEGORY_REDUCE_ARMOR: number
+declare const ENCHANTMENT_SEARCH_CATEGORY_REDUCE_BLOCK_AND_BASH: number
+declare const ENCHANTMENT_SEARCH_CATEGORY_REDUCE_FEAT_COST: number
+declare const ENCHANTMENT_SEARCH_CATEGORY_REDUCE_POTION_COOLDOWN: number
+declare const ENCHANTMENT_SEARCH_CATEGORY_REDUCE_POWER: number
+declare const ENCHANTMENT_SEARCH_CATEGORY_REDUCE_SPELL_COST: number
+declare const ENCHANTMENT_SEARCH_CATEGORY_SHOCK_RESISTANT: number
+declare const ENCHANTMENT_SEARCH_CATEGORY_STAMINA: number
+declare const ENCHANTMENT_SEARCH_CATEGORY_STAMINA_REGEN: number
+
+// TradingHouseFeatureCategory
+type TradingHouseFeatureCategory = number
+declare const TRADING_HOUSE_FEATURE_CATEGORY_ENCHANTMENT: number
+declare const TRADING_HOUSE_FEATURE_CATEGORY_ITEM_CATEGORY: number
+declare const TRADING_HOUSE_FEATURE_CATEGORY_LEVEL_RANGE: number
+declare const TRADING_HOUSE_FEATURE_CATEGORY_NAME_SEARCH: number
+declare const TRADING_HOUSE_FEATURE_CATEGORY_PRICE_RANGE: number
+declare const TRADING_HOUSE_FEATURE_CATEGORY_QUALITY: number
+declare const TRADING_HOUSE_FEATURE_CATEGORY_TRAIT: number
+
+// TradingHouseFilterType
+type TradingHouseFilterType = number
+declare const TRADING_HOUSE_FILTER_TYPE_ARMOR: number
+declare const TRADING_HOUSE_FILTER_TYPE_CHAMPION_POINTS: number
+declare const TRADING_HOUSE_FILTER_TYPE_ENCHANTMENT: number
+declare const TRADING_HOUSE_FILTER_TYPE_EQUIP: number
+declare const TRADING_HOUSE_FILTER_TYPE_FURNITURE_CATEGORY: number
+declare const TRADING_HOUSE_FILTER_TYPE_FURNITURE_SUBCATEGORY: number
+declare const TRADING_HOUSE_FILTER_TYPE_GAMEPLAY_ACTOR_CATEGORY: number
+declare const TRADING_HOUSE_FILTER_TYPE_ITEM: number
+declare const TRADING_HOUSE_FILTER_TYPE_LEVEL: number
+declare const TRADING_HOUSE_FILTER_TYPE_NAME_HASH: number
+declare const TRADING_HOUSE_FILTER_TYPE_PRICE: number
+declare const TRADING_HOUSE_FILTER_TYPE_QUALITY: number
+declare const TRADING_HOUSE_FILTER_TYPE_SPECIALIZED_ITEM: number
+declare const TRADING_HOUSE_FILTER_TYPE_TRAIT: number
+declare const TRADING_HOUSE_FILTER_TYPE_WEAPON: number
+
+// TradingHouseListingSortType
+type TradingHouseListingSortType = number
+declare const TRADING_HOUSE_LISTING_SORT_TYPE_NAME: number
+declare const TRADING_HOUSE_LISTING_SORT_TYPE_PRICE: number
+declare const TRADING_HOUSE_LISTING_SORT_TYPE_TIME: number
+
+// TradingHouseResult
+type TradingHouseResult = number
+declare const TRADING_HOUSE_RESULT_AWAITING_INITIAL_STATUS: number
+declare const TRADING_HOUSE_RESULT_CANCEL_SALE_PENDING: number
+declare const TRADING_HOUSE_RESULT_CANT_AFFORD_BUYPRICE: number
+declare const TRADING_HOUSE_RESULT_CANT_AFFORD_POST_FEE: number
+declare const TRADING_HOUSE_RESULT_CANT_BUY_YOUR_OWN_POSTS: number
+declare const TRADING_HOUSE_RESULT_CANT_POST_BOUND: number
+declare const TRADING_HOUSE_RESULT_CANT_POST_FROM_THAT_BAG: number
+declare const TRADING_HOUSE_RESULT_CANT_POST_LOCKED: number
+declare const TRADING_HOUSE_RESULT_CANT_POST_STOLEN: number
+declare const TRADING_HOUSE_RESULT_CANT_SELL_FOR_FREE: number
+declare const TRADING_HOUSE_RESULT_CANT_SELL_FOR_OVER_MAX_AMOUNT: number
+declare const TRADING_HOUSE_RESULT_CANT_SWITCH_GUILDS_WHILE_AWAITING_RESPONSE: number
+declare const TRADING_HOUSE_RESULT_GUILD_TOO_SMALL: number
+declare const TRADING_HOUSE_RESULT_INVALID_GUILD_ID: number
+declare const TRADING_HOUSE_RESULT_ITEM_NOT_FOUND: number
+declare const TRADING_HOUSE_RESULT_LISTINGS_PENDING: number
+declare const TRADING_HOUSE_RESULT_NAME_MATCH_PENDING: number
+declare const TRADING_HOUSE_RESULT_NOT_A_MEMBER: number
+declare const TRADING_HOUSE_RESULT_NOT_IN_A_GUILD: number
+declare const TRADING_HOUSE_RESULT_NOT_OPEN: number
+declare const TRADING_HOUSE_RESULT_NO_NAME_SEARCH_DATA: number
+declare const TRADING_HOUSE_RESULT_NO_PERMISSION: number
+declare const TRADING_HOUSE_RESULT_POST_PENDING: number
+declare const TRADING_HOUSE_RESULT_PURCHASE_PENDING: number
+declare const TRADING_HOUSE_RESULT_QUEUED_POST: number
+declare const TRADING_HOUSE_RESULT_SEARCH_PENDING: number
+declare const TRADING_HOUSE_RESULT_SEARCH_RATE_EXCEEDED: number
+declare const TRADING_HOUSE_RESULT_SUCCESS: number
+declare const TRADING_HOUSE_RESULT_TOO_MANY_POSTS: number
+
+// TradingHouseSortField
+type TradingHouseSortField = number
+declare const TRADING_HOUSE_SORT_EXPIRY_TIME: number
+declare const TRADING_HOUSE_SORT_SALE_PRICE: number
+declare const TRADING_HOUSE_SORT_SALE_PRICE_PER_UNIT: number
+
+declare const MIN_TRADING_HOUSE_POST_PRICE: number
+
+// StoreEntryType
+type StoreEntryType = number
+declare const STORE_ENTRY_TYPE_ANTIQUITY_LEAD: number
+declare const STORE_ENTRY_TYPE_COLLECTIBLE: number
+declare const STORE_ENTRY_TYPE_HOUSE_WITH_TEMPLATE: number
+declare const STORE_ENTRY_TYPE_INTERACTABLE: number
+declare const STORE_ENTRY_TYPE_ITEM: number
+declare const STORE_ENTRY_TYPE_MONSTER: number
+declare const STORE_ENTRY_TYPE_QUEST_ITEM: number
+declare const STORE_ENTRY_TYPE_SUBSTORE: number
+
+// StoreFailure
+type StoreFailure = number
+declare const STORE_FAILURE_ALREADY_HAVE_ANTIQUITY_LEAD: number
+declare const STORE_FAILURE_ALREADY_HAVE_COLLECTIBLE: number
+declare const STORE_FAILURE_ALREADY_OWN_COMBINATION_RESULT: number
+declare const STORE_FAILURE_ALREADY_UNEARTHED_ANTIQUITY: number
+declare const STORE_FAILURE_AT_FENCE_LIMIT: number
+declare const STORE_FAILURE_AWARDS_ALREADY_OWNED_COLLECTIBLE: number
+declare const STORE_FAILURE_AWARDS_FRAGMENT_OF_ALREADY_OWNED_COLLECTIBLE: number
+declare const STORE_FAILURE_BUY_ITEM_FAILED_REQS: number
+declare const STORE_FAILURE_CANT_BE_SOLD: number
+declare const STORE_FAILURE_CANT_BUY_MULTIPLES: number
+declare const STORE_FAILURE_ITEM_BUY_UNIQUE: number
+declare const STORE_FAILURE_NOT_ENOUGH_CURRENCY: number
+declare const STORE_FAILURE_NOT_ENOUGH_ITEM: number
+declare const STORE_FAILURE_NOT_ENOUGH_STABLE_SPACE: number
+declare const STORE_FAILURE_NOT_STOLEN: number
+declare const STORE_FAILURE_NO_NEED_FOR_QUEST_ITEM: number
+declare const STORE_FAILURE_NO_NEED_FOR_THAT_MANY_QUEST_ITEM: number
+declare const STORE_FAILURE_REUSE_1: number
+declare const STORE_FAILURE_REUSE_2: number
+declare const STORE_FAILURE_REUSE_3: number
+declare const STORE_FAILURE_REUSE_4: number
+declare const STORE_FAILURE_REUSE_5: number
+declare const STORE_FAILURE_REUSE_6: number
+declare const STORE_FAILURE_SELL_FAILED_MONEY_CAP: number
+declare const STORE_FAILURE_STOLEN: number
+declare const STORE_FAILURE_WORTHLESS_TO_FENCE: number
+
+declare const MAX_STORE_WINDOW_STACK_QUANTITY: number
+
+// PlatformServiceType
+type PlatformServiceType = number
+declare const PLATFORM_SERVICE_TYPE_DMM: number
+declare const PLATFORM_SERVICE_TYPE_EPIC: number
+declare const PLATFORM_SERVICE_TYPE_PSN: number
+declare const PLATFORM_SERVICE_TYPE_STEAM: number
+declare const PLATFORM_SERVICE_TYPE_XBL: number
+declare const PLATFORM_SERVICE_TYPE_ZOS: number
+
+declare const MAX_PROMO_CODE_LENGTH: number
+
+// GroupElectionType
+type GroupElectionType = number
+declare const GROUP_ELECTION_TYPE_GENERIC_SIMPLEMAJORITY: number
+declare const GROUP_ELECTION_TYPE_GENERIC_SUPERMAJORITY: number
+declare const GROUP_ELECTION_TYPE_GENERIC_UNANIMOUS: number
+declare const GROUP_ELECTION_TYPE_KICK_MEMBER: number
+declare const GROUP_ELECTION_TYPE_NEW_LEADER: number
+
+// GroupInviteResponse
+type GroupInviteResponse = number
+declare const GROUP_INVITE_RESPONSE_ACCEPTED: number
+declare const GROUP_INVITE_RESPONSE_ALREADY_GROUPED: number
+declare const GROUP_INVITE_RESPONSE_ALREADY_GROUPED_CANT_JOIN: number
+declare const GROUP_INVITE_RESPONSE_CANNOT_CREATE_GROUPS: number
+declare const GROUP_INVITE_RESPONSE_CONSIDERING_OTHER: number
+declare const GROUP_INVITE_RESPONSE_DECLINED: number
+declare const GROUP_INVITE_RESPONSE_FAIL_JOIN_ON_LOAD: number
+declare const GROUP_INVITE_RESPONSE_GENERIC_JOIN_FAILURE: number
+declare const GROUP_INVITE_RESPONSE_GROUP_FULL: number
+declare const GROUP_INVITE_RESPONSE_HAS_GROUP_FINDER_APPLICATION: number
+declare const GROUP_INVITE_RESPONSE_HAS_GROUP_FINDER_LISTING: number
+declare const GROUP_INVITE_RESPONSE_IGNORED: number
+declare const GROUP_INVITE_RESPONSE_INVITED: number
+declare const GROUP_INVITE_RESPONSE_IN_BATTLEGROUND: number
+declare const GROUP_INVITE_RESPONSE_ONLY_LEADER_CAN_INVITE: number
+declare const GROUP_INVITE_RESPONSE_OTHER_ALLIANCE: number
+declare const GROUP_INVITE_RESPONSE_PLATFORM_INVITE_NOT_SENT: number
+declare const GROUP_INVITE_RESPONSE_PLAYER_NOT_FOUND: number
+declare const GROUP_INVITE_RESPONSE_REQUEST_FAIL_ALREADY_GROUPED: number
+declare const GROUP_INVITE_RESPONSE_REQUEST_FAIL_ALREADY_GROUPED_GENERIC: number
+declare const GROUP_INVITE_RESPONSE_REQUEST_FAIL_GROUP_FULL: number
+declare const GROUP_INVITE_RESPONSE_SELF_INVITE: number
+
+// GroupLeaveReason
+type GroupLeaveReason = number
+declare const GROUP_LEAVE_REASON_DESTROYED: number
+declare const GROUP_LEAVE_REASON_DISBAND: number
+declare const GROUP_LEAVE_REASON_KICKED: number
+declare const GROUP_LEAVE_REASON_LEFT_BATTLEGROUND: number
+declare const GROUP_LEAVE_REASON_VOLUNTARY: number
+
+// GroupVoteChoice
+type GroupVoteChoice = number
+declare const GROUP_VOTE_CHOICE_ABSTAIN: number
+declare const GROUP_VOTE_CHOICE_AGAINST: number
+declare const GROUP_VOTE_CHOICE_FOR: number
+declare const GROUP_VOTE_CHOICE_INVALID: number
+
+declare const BIG_TEAM_BATTLE_QUEUE_SIZE_THRESHOLD: number
+declare const BIG_TEAM_BATTLE_SIZE_THRESHOLD: number
+declare const LARGE_GROUP_SIZE_THRESHOLD: number
+declare const MAX_GROUP_SIZE_THRESHOLD: number
+declare const SMALL_GROUP_SIZE_THRESHOLD: number
+declare const STANDARD_GROUP_SIZE_THRESHOLD: number
+
+declare const TELEPORT_WAYPOINT_INDEX_DEFAULT: number
+
+// AntiquityDifficulty
+type AntiquityDifficulty = number
+declare const ANTIQUITY_DIFFICULTY_ADVANCED: number
+declare const ANTIQUITY_DIFFICULTY_INTERMEDIATE: number
+declare const ANTIQUITY_DIFFICULTY_MASTER: number
+declare const ANTIQUITY_DIFFICULTY_SIMPLE: number
+declare const ANTIQUITY_DIFFICULTY_TRIVIAL: number
+declare const ANTIQUITY_DIFFICULTY_ULTIMATE: number
+
+// AntiquityQuality
+type AntiquityQuality = number
+declare const ANTIQUITY_QUALITY_BLUE: number
+declare const ANTIQUITY_QUALITY_GOLD: number
+declare const ANTIQUITY_QUALITY_GREEN: number
+declare const ANTIQUITY_QUALITY_ORANGE: number
+declare const ANTIQUITY_QUALITY_PURPLE: number
+declare const ANTIQUITY_QUALITY_WHITE: number
+
+declare const MAX_IN_PROGRESS_ANTIQUITIES: number
+declare const MAX_ANTIQUITY_DIG_SITES: number
+
+// ArmoryBuildRestoreResult
+type ArmoryBuildRestoreResult = number
+declare const ARMORY_BUILD_RESTORE_RESULT_BAD_INDEX: number
+declare const ARMORY_BUILD_RESTORE_RESULT_BUSY: number
+declare const ARMORY_BUILD_RESTORE_RESULT_COOLDOWN: number
+declare const ARMORY_BUILD_RESTORE_RESULT_EFFECT_COUNT_LIMIT: number
+declare const ARMORY_BUILD_RESTORE_RESULT_INVALID_PLAYER_STATE: number
+declare const ARMORY_BUILD_RESTORE_RESULT_IN_COMBAT: number
+declare const ARMORY_BUILD_RESTORE_RESULT_IN_WEREWOLF_FORM: number
+declare const ARMORY_BUILD_RESTORE_RESULT_NO_GEAR_SPACE: number
+declare const ARMORY_BUILD_RESTORE_RESULT_NO_INTERACTION: number
+declare const ARMORY_BUILD_RESTORE_RESULT_REMOVE_GEAR_FAILURE: number
+declare const ARMORY_BUILD_RESTORE_RESULT_RESTORE_FAILED: number
+declare const ARMORY_BUILD_RESTORE_RESULT_SPECIAL_HOTBAR_ACTIVE: number
+declare const ARMORY_BUILD_RESTORE_RESULT_SUCCESS: number
+declare const ARMORY_BUILD_RESTORE_RESULT_TIMEOUT: number
+declare const ARMORY_BUILD_RESTORE_RESULT_USING_LOADOUT: number
+
+declare const DEFAULT_ARMORY_OPERATION_COOLDOWN_DURATION_MS: number
+declare const MAX_NUM_ARMORY_BUILDS: number
+
+// AchievementPersistenceLevel
+type AchievementPersistenceLevel = number
+declare const ACHIEVEMENT_PERSISTENCE_ACCOUNT: number
+declare const ACHIEVEMENT_PERSISTENCE_CHARACTER: number
+declare const ACHIEVEMENT_PERSISTENCE_UNDEFINED: number
+
+declare const MAX_ACHIEVEMENTS: number
+
+// CompanionRapportAdjustmentAmount
+type CompanionRapportAdjustmentAmount = number
+declare const RAPPORT_ADJUSTMENT_AMOUNT_ASTRONOMICAL: number
+declare const RAPPORT_ADJUSTMENT_AMOUNT_CUSTOM_A: number
+declare const RAPPORT_ADJUSTMENT_AMOUNT_CUSTOM_B: number
+declare const RAPPORT_ADJUSTMENT_AMOUNT_LARGE: number
+declare const RAPPORT_ADJUSTMENT_AMOUNT_MEDIUM: number
+declare const RAPPORT_ADJUSTMENT_AMOUNT_MINISCULE: number
+declare const RAPPORT_ADJUSTMENT_AMOUNT_NONE: number
+declare const RAPPORT_ADJUSTMENT_AMOUNT_SMALL: number
+declare const RAPPORT_ADJUSTMENT_AMOUNT_VERY_ASTRONOMICAL: number
+declare const RAPPORT_ADJUSTMENT_AMOUNT_VERY_LARGE: number
+
+// CompanionRapportLevel
+type CompanionRapportLevel = number
+declare const RAPPORT_LEVEL_HIGH_AFFINITY: number
+declare const RAPPORT_LEVEL_HIGH_DISLIKE: number
+declare const RAPPORT_LEVEL_MAXIMUM_AFFINITY: number
+declare const RAPPORT_LEVEL_MAXIMUM_DISLIKE: number
+declare const RAPPORT_LEVEL_MODERATE_AFFINITY: number
+declare const RAPPORT_LEVEL_SLIGHT_AFFINITY: number
+declare const RAPPORT_LEVEL_SLIGHT_DISLIKE: number
+declare const RAPPORT_LEVEL_VERY_HIGH_AFFINITY: number
+
+// CompanionState
+type CompanionState = number
+declare const COMPANION_STATE_ACTIVE: number
+declare const COMPANION_STATE_BLOCKED_PERMANENT: number
+declare const COMPANION_STATE_BLOCKED_TEMPORARY: number
+declare const COMPANION_STATE_HIDDEN: number
+declare const COMPANION_STATE_INACTIVE: number
+declare const COMPANION_STATE_INITIALIZED_PENDING: number
+declare const COMPANION_STATE_INITIALIZING: number
+declare const COMPANION_STATE_PENDING: number
+
+// TributeGameFlowState
+type TributeGameFlowState = number
+declare const TRIBUTE_GAME_FLOW_STATE_BOARD_SETUP: number
+declare const TRIBUTE_GAME_FLOW_STATE_GAME_OVER: number
+declare const TRIBUTE_GAME_FLOW_STATE_INACTIVE: number
+declare const TRIBUTE_GAME_FLOW_STATE_INTRO: number
+declare const TRIBUTE_GAME_FLOW_STATE_PATRON_DRAFT: number
+declare const TRIBUTE_GAME_FLOW_STATE_PLAYING: number
+
+declare const TRIBUTE_DEFAULT_PATRON_USAGE_COUNT: number
+declare const TRIBUTE_CHAPTER_ZONE_ID: number
+declare const TRIBUTE_PATRON_SELECTION_DELAY_SECONDS: number
+
+// ClientInteractResult
+type ClientInteractResult = number
+declare const CLIENT_INTERACT_RESULT_ANTIQUITY_DIGGING_NO_INVENTORY_SPACE: number
+declare const CLIENT_INTERACT_RESULT_CAMPAIGN_DISABLED: number
+declare const CLIENT_INTERACT_RESULT_CANT_SWIM_AND_FISH: number
+declare const CLIENT_INTERACT_RESULT_CANT_WHILE_FALLING: number
+declare const CLIENT_INTERACT_RESULT_CANT_WHILE_SWIMMING: number
+declare const CLIENT_INTERACT_RESULT_DONT_OWN_HOUSE_BANK: number
+declare const CLIENT_INTERACT_RESULT_FAIL_DOOR_REQ: number
+declare const CLIENT_INTERACT_RESULT_FEARFUL_VAMPIRE: number
+declare const CLIENT_INTERACT_RESULT_FEARFUL_WEREWOLF: number
+declare const CLIENT_INTERACT_RESULT_FLAVOR_NPC: number
+declare const CLIENT_INTERACT_RESULT_GENERIC_ERROR: number
+declare const CLIENT_INTERACT_RESULT_INTERACT_DISABLED: number
+declare const CLIENT_INTERACT_RESULT_IN_COMBAT: number
+declare const CLIENT_INTERACT_RESULT_LOCK_TOO_DIFFICULT: number
+declare const CLIENT_INTERACT_RESULT_NO_LOCKPICKS: number
+declare const CLIENT_INTERACT_RESULT_NO_LURE: number
+declare const CLIENT_INTERACT_RESULT_PICKPOCKET_NO_INVENTORY_SPACE: number
+declare const CLIENT_INTERACT_RESULT_PICKPOCKET_ON_COOLDOWN: number
+declare const CLIENT_INTERACT_RESULT_PICKPOCKET_OUT_OF_POSITION: number
+declare const CLIENT_INTERACT_RESULT_PICKPOCKET_TOO_FAR: number
+declare const CLIENT_INTERACT_RESULT_SCRIBING_DISABLED: number
+declare const CLIENT_INTERACT_RESULT_SCRIBING_INTERNAL_ERROR: number
+declare const CLIENT_INTERACT_RESULT_SHUNNED: number
+declare const CLIENT_INTERACT_RESULT_SHUNNED_FEARFUL_VAMPIRE: number
+declare const CLIENT_INTERACT_RESULT_SHUNNED_FEARFUL_WEREWOLF: number
+declare const CLIENT_INTERACT_RESULT_STEALING_PLACED_PREVENTED: number
+declare const CLIENT_INTERACT_RESULT_SUCCESS: number
+declare const CLIENT_INTERACT_RESULT_SUSPICIOUS: number
+declare const CLIENT_INTERACT_RESULT_WEREWOLF: number
+declare const CLIENT_INTERACT_RESULT_WEREWOLF_UNABLE_TO_CRAFT: number
+
+// CraftingInteractionMode
+type CraftingInteractionMode = number
+declare const CRAFTING_INTERACTION_MODE_CONSOLIDATED_STATION: number
+declare const CRAFTING_INTERACTION_MODE_INVALID: number
+declare const CRAFTING_INTERACTION_MODE_STANDARD_STATION: number
+declare const CRAFTING_INTERACTION_MODE_UNIVERSAL_DECONSTRUCTION: number
+
+// DialogueToneType
+type DialogueToneType = number
+declare const DIALOGUE_TONE_TYPE_FLIRTY: number
+declare const DIALOGUE_TONE_TYPE_GRIM: number
+declare const DIALOGUE_TONE_TYPE_JOKER: number
+declare const DIALOGUE_TONE_TYPE_KIND: number
+declare const DIALOGUE_TONE_TYPE_MERCIFUL: number
+declare const DIALOGUE_TONE_TYPE_NEUTRAL: number
+declare const DIALOGUE_TONE_TYPE_NONE: number
+declare const DIALOGUE_TONE_TYPE_RUTHLESS: number
+
+// InteractCancelContext
+type InteractCancelContext = number
+declare const INTERACT_CANCEL_CONTEXT_COMBAT: number
+declare const INTERACT_CANCEL_CONTEXT_DEFAULT: number
+
+// InteractTargetType
+type InteractTargetType = number
+declare const INTERACT_TARGET_TYPE_AOE_LOOT: number
+declare const INTERACT_TARGET_TYPE_CLIENT_CHARACTER: number
+declare const INTERACT_TARGET_TYPE_COLLECTIBLE: number
+declare const INTERACT_TARGET_TYPE_FIXTURE: number
+declare const INTERACT_TARGET_TYPE_ITEM: number
+declare const INTERACT_TARGET_TYPE_NONE: number
+declare const INTERACT_TARGET_TYPE_OBJECT: number
+declare const INTERACT_TARGET_TYPE_QUEST_ITEM: number
+declare const INTERACT_TARGET_TYPE_RESPEC: number
+declare const INTERACT_TARGET_TYPE_TRIBUTE: number
+
+// InteractType
+type InteractType = number
+declare const CHATTER_ACCEPT_QUEST_BESTOWAL: number
+declare const CHATTER_ADVANCE_COMPLETABLE_QUEST_CONDITIONS_COMPLETE: number
+declare const CHATTER_BEGIN: number
+declare const CHATTER_BEGIN_INTERACT_NODE: number
+declare const CHATTER_COMPLETE_ANTIQUITY_DIGGING: number
+declare const CHATTER_COMPLETE_ANTIQUITY_SCRYING: number
+declare const CHATTER_COMPLETE_QUEST_CONFIRM: number
+declare const CHATTER_COMPLETE_QUEST_DIALOG: number
+declare const CHATTER_CONFIRM_BUY_BAG_SPACE: number
+declare const CHATTER_CONFIRM_BUY_BANK_SPACE: number
+declare const CHATTER_CONTROL_SIEGE: number
+declare const CHATTER_CRAFT_ITEM: number
+declare const CHATTER_DECONSTRUCT_ITEM: number
+declare const CHATTER_DESTROY_SIEGE: number
+declare const CHATTER_DO_KEEP_GUILD_CLAIM: number
+declare const CHATTER_DO_KEEP_GUILD_RELEASE: number
+declare const CHATTER_ENDLESS_DUNGEON_BUFF_SELECTOR_CHOICE: number
+declare const CHATTER_ENDLESS_DUNGEON_BUFF_SELECTOR_REROLL_VISIONS: number
+declare const CHATTER_END_ADVANCE_COMPLETABLE_QUEST_CONDITIONS: number
+declare const CHATTER_END_ANTIQUITY_DIG_SPOT: number
+declare const CHATTER_END_ANTIQUITY_SCRYING: number
+declare const CHATTER_END_ARMORY: number
+declare const CHATTER_END_ATTRIBUTE_RESPEC: number
+declare const CHATTER_END_BANK: number
+declare const CHATTER_END_BOOK: number
+declare const CHATTER_END_BUY_BAG_SPACE: number
+declare const CHATTER_END_COMPANION_MENU: number
+declare const CHATTER_END_COMPLETE_QUEST: number
+declare const CHATTER_END_CRAFT: number
+declare const CHATTER_END_DOOR: number
+declare const CHATTER_END_DYE_STATION: number
+declare const CHATTER_END_ENDLESS_DUNGEON_BUFF_SELECTOR: number
+declare const CHATTER_END_FISH: number
+declare const CHATTER_END_GIVE_ITEM: number
+declare const CHATTER_END_GRAVEYARD_TRAVEL: number
+declare const CHATTER_END_GUILDBANK: number
+declare const CHATTER_END_GUILDKIOSK_BID: number
+declare const CHATTER_END_GUILDKIOSK_PURCHASE: number
+declare const CHATTER_END_HARVEST: number
+declare const CHATTER_END_HIDEYHOLE: number
+declare const CHATTER_END_KEEP: number
+declare const CHATTER_END_KEEP_GUILD_CLAIM: number
+declare const CHATTER_END_KEEP_GUILD_RELEASE: number
+declare const CHATTER_END_KEEP_PIECE: number
+declare const CHATTER_END_KEEP_TRAVEL: number
+declare const CHATTER_END_LOCK: number
+declare const CHATTER_END_LOOT: number
+declare const CHATTER_END_MAIL: number
+declare const CHATTER_END_NEW_QUEST_BESTOWAL: number
+declare const CHATTER_END_PAY_BOUNTY: number
+declare const CHATTER_END_PICKPOCKET: number
+declare const CHATTER_END_REPAIR_ALL: number
+declare const CHATTER_END_RETRAIT: number
+declare const CHATTER_END_SHOP: number
+declare const CHATTER_END_SIEGE: number
+declare const CHATTER_END_SKILL_RESPEC: number
+declare const CHATTER_END_STABLE: number
+declare const CHATTER_END_TALK: number
+declare const CHATTER_END_TRADINGHOUSE: number
+declare const CHATTER_END_TREASURE_MAP: number
+declare const CHATTER_END_TRIBUTE: number
+declare const CHATTER_END_USE_CLEMENCY: number
+declare const CHATTER_END_USE_FURNITURE: number
+declare const CHATTER_END_USE_SHADOWY_CONNECTIONS: number
+declare const CHATTER_EXIT_HIDEYHOLE: number
+declare const CHATTER_FEED_MOUNT: number
+declare const CHATTER_FISH_BITE: number
+declare const CHATTER_FISH_NIBBLE: number
+declare const CHATTER_FISH_REEL_IN: number
+declare const CHATTER_FORCE_LOCK: number
+declare const CHATTER_GIVE_ITEM_COMPLETE: number
+declare const CHATTER_GOODBYE: number
+declare const CHATTER_GUILDKIOSK_IN_TRANSITION: number
+declare const CHATTER_IMPROVE_ITEM: number
+declare const CHATTER_INVALID: number
+declare const CHATTER_LOCK_PICK_BROKEN: number
+declare const CHATTER_LOOT_ADD_RADIUS_TARGET: number
+declare const CHATTER_LOOT_ALL: number
+declare const CHATTER_LOOT_ALL_NON_STOLEN: number
+declare const CHATTER_LOOT_ITEM: number
+declare const CHATTER_LOOT_REMOVE_RADIUS_TARGET: number
+declare const CHATTER_LOOT_UPDATE: number
+declare const CHATTER_OFFER_QUEST_BESTOWAL: number
+declare const CHATTER_OPEN_GUILDBANK: number
+declare const CHATTER_OPEN_MAIL: number
+declare const CHATTER_OPEN_SKILL_RESPEC: number
+declare const CHATTER_OPEN_TRADINGHOUSE: number
+declare const CHATTER_PACKUP_SIEGE: number
+declare const CHATTER_PICK_LOCK: number
+declare const CHATTER_PLACE_GUILDKIOSK_BID: number
+declare const CHATTER_PROMPT_BUY_BAG_SPACE: number
+declare const CHATTER_PROMPT_CRAFT: number
+declare const CHATTER_PROMPT_DYE_STATION: number
+declare const CHATTER_PROMPT_LOCK: number
+declare const CHATTER_PROMPT_RETRAIT: number
+declare const CHATTER_PURCHASE_GUILDKIOSK: number
+declare const CHATTER_REPAIR_SIEGE: number
+declare const CHATTER_RESEARCH_ITEM: number
+declare const CHATTER_RESET: number
+declare const CHATTER_RESET_DURATION: number
+declare const CHATTER_SHOW_BOOK: number
+declare const CHATTER_SHOW_GRAVEYARD_TRAVEL: number
+declare const CHATTER_SHOW_KEEP_GUILD_CLAIM: number
+declare const CHATTER_SHOW_KEEP_GUILD_RELEASE: number
+declare const CHATTER_SHOW_KEEP_TRAVEL: number
+declare const CHATTER_SHOW_TREASURE_MAP: number
+declare const CHATTER_START_ADVANCE_COMPLETABLE_QUEST_CONDITIONS: number
+declare const CHATTER_START_ANTIQUITY_DIG_SPOT: number
+declare const CHATTER_START_ANTIQUITY_SCRYING: number
+declare const CHATTER_START_ARMORY: number
+declare const CHATTER_START_ATTRIBUTE_RESPEC: number
+declare const CHATTER_START_BANK: number
+declare const CHATTER_START_BOOK: number
+declare const CHATTER_START_BUY_BAG_SPACE: number
+declare const CHATTER_START_COMPANION_MENU: number
+declare const CHATTER_START_COMPLETE_QUEST: number
+declare const CHATTER_START_CRAFT: number
+declare const CHATTER_START_DOOR: number
+declare const CHATTER_START_DYE_STATION: number
+declare const CHATTER_START_ENDLESS_DUNGEON_BUFF_SELECTOR: number
+declare const CHATTER_START_FISH: number
+declare const CHATTER_START_GIVE_ITEM: number
+declare const CHATTER_START_GRAVEYARD_TRAVEL: number
+declare const CHATTER_START_GUILDBANK: number
+declare const CHATTER_START_GUILDKIOSK_BID: number
+declare const CHATTER_START_GUILDKIOSK_PURCHASE: number
+declare const CHATTER_START_HARVEST: number
+declare const CHATTER_START_HIDEYHOLE: number
+declare const CHATTER_START_KEEP: number
+declare const CHATTER_START_KEEP_GUILD_CLAIM: number
+declare const CHATTER_START_KEEP_GUILD_RELEASE: number
+declare const CHATTER_START_KEEP_PIECE: number
+declare const CHATTER_START_KEEP_TRAVEL: number
+declare const CHATTER_START_LOCK: number
+declare const CHATTER_START_LOOT: number
+declare const CHATTER_START_MAIL: number
+declare const CHATTER_START_NEW_QUEST_BESTOWAL: number
+declare const CHATTER_START_PAY_BOUNTY: number
+declare const CHATTER_START_PICKPOCKET: number
+declare const CHATTER_START_REPAIR_ALL: number
+declare const CHATTER_START_RETRAIT: number
+declare const CHATTER_START_SHOP: number
+declare const CHATTER_START_SIEGE: number
+declare const CHATTER_START_SKILL_RESPEC: number
+declare const CHATTER_START_STABLE: number
+declare const CHATTER_START_TALK: number
+declare const CHATTER_START_TRADINGHOUSE: number
+declare const CHATTER_START_TREASURE_MAP: number
+declare const CHATTER_START_TRIBUTE: number
+declare const CHATTER_START_USE_CLEMENCY: number
+declare const CHATTER_START_USE_FURNITURE: number
+declare const CHATTER_START_USE_SHADOWY_CONNECTIONS: number
+declare const CHATTER_TALK_CHOICE: number
+declare const CHATTER_TALK_CHOICE_ATTRIBUTE_RESPEC: number
+declare const CHATTER_TALK_CHOICE_BEGIN_SKILL_RESPEC: number
+declare const CHATTER_TALK_CHOICE_CLEMENCY_COOLDOWN: number
+declare const CHATTER_TALK_CHOICE_CLEMENCY_DISABLED: number
+declare const CHATTER_TALK_CHOICE_INTIMIDATE_DISABLED: number
+declare const CHATTER_TALK_CHOICE_MONEY: number
+declare const CHATTER_TALK_CHOICE_PAY_BOUNTY: number
+declare const CHATTER_TALK_CHOICE_PERSUADE_DISABLED: number
+declare const CHATTER_TALK_CHOICE_SHADOWY_CONNECTIONS_UNAVAILABLE: number
+declare const CHATTER_TALK_CHOICE_USE_CLEMENCY: number
+declare const CHATTER_TALK_CHOICE_USE_SHADOWY_CONNECTIONS: number
+declare const CHATTER_USE_COLLECTIBLE_ON_COMPANION: number
+
+// InteractionType
+type InteractionType = number
+declare const INTERACTION_ANTIQUITY_DIG_SPOT: number
+declare const INTERACTION_ANTIQUITY_SCRYING: number
+declare const INTERACTION_ARMORY: number
+declare const INTERACTION_ATTRIBUTE_RESPEC: number
+declare const INTERACTION_AVA_HOOK_POINT: number
+declare const INTERACTION_BANK: number
+declare const INTERACTION_BOOK: number
+declare const INTERACTION_BUY_BAG_SPACE: number
+declare const INTERACTION_COMPANION_MENU: number
+declare const INTERACTION_CONVERSATION: number
+declare const INTERACTION_CRAFT: number
+declare const INTERACTION_DEPRECATED_1: number
+declare const INTERACTION_DYE_STATION: number
+declare const INTERACTION_ENDLESS_DUNGEON_BUFF_SELECTOR: number
+declare const INTERACTION_FAST_TRAVEL: number
+declare const INTERACTION_FAST_TRAVEL_KEEP: number
+declare const INTERACTION_FISH: number
+declare const INTERACTION_FURNITURE: number
+declare const INTERACTION_GUILDBANK: number
+declare const INTERACTION_GUILDKIOSK_BID: number
+declare const INTERACTION_GUILDKIOSK_PURCHASE: number
+declare const INTERACTION_HARVEST: number
+declare const INTERACTION_HIDEYHOLE: number
+declare const INTERACTION_KEEP_GUILD_CLAIM: number
+declare const INTERACTION_KEEP_GUILD_RELEASE: number
+declare const INTERACTION_KEEP_INSPECT: number
+declare const INTERACTION_KEEP_PIECE: number
+declare const INTERACTION_LOCKPICK: number
+declare const INTERACTION_LOOT: number
+declare const INTERACTION_MAIL: number
+declare const INTERACTION_NONE: number
+declare const INTERACTION_PAY_BOUNTY: number
+declare const INTERACTION_PICKPOCKET: number
+declare const INTERACTION_QUEST: number
+declare const INTERACTION_RETRAIT: number
+declare const INTERACTION_SIEGE: number
+declare const INTERACTION_SKILL_RESPEC: number
+declare const INTERACTION_STABLE: number
+declare const INTERACTION_STORE: number
+declare const INTERACTION_THEATER_INTERACTABLE: number
+declare const INTERACTION_TRADINGHOUSE: number
+declare const INTERACTION_TREASURE_MAP: number
+declare const INTERACTION_TRIBUTE: number
+declare const INTERACTION_VENDOR: number
+
+// MailAttachmentResult
+type MailAttachmentResult = number
+declare const MAIL_ATTACHMENT_RESULT_ALREADY_ATTACHED: number
+declare const MAIL_ATTACHMENT_RESULT_BOUND: number
+declare const MAIL_ATTACHMENT_RESULT_ITEM_NOT_FOUND: number
+declare const MAIL_ATTACHMENT_RESULT_LOCKED: number
+declare const MAIL_ATTACHMENT_RESULT_PLAYER_LOCKED: number
+declare const MAIL_ATTACHMENT_RESULT_STOLEN: number
+declare const MAIL_ATTACHMENT_RESULT_SUCCESS: number
+
+// MailCategory
+type MailCategory = number
+declare const MAIL_CATEGORY_INFO_ONLY_SYSTEM_MAIL: number
+declare const MAIL_CATEGORY_PLAYER_MAIL: number
+declare const MAIL_CATEGORY_SYSTEM_MAIL: number
+
+// MailTakeAttachmentResult
+type MailTakeAttachmentResult = number
+declare const MAIL_TAKE_ATTACHMENT_RESULT_FAIL_ALREADY_HAS_UNIQUE_ITEM: number
+declare const MAIL_TAKE_ATTACHMENT_RESULT_FAIL_CAMPAIGN_DISABLED: number
+declare const MAIL_TAKE_ATTACHMENT_RESULT_FAIL_NOTHING_TO_CLAIM: number
+declare const MAIL_TAKE_ATTACHMENT_RESULT_FAIL_NO_INVENTORY_SPACE: number
+declare const MAIL_TAKE_ATTACHMENT_RESULT_FAIL_SERVER_ERROR: number
+declare const MAIL_TAKE_ATTACHMENT_RESULT_SUCCESS: number
+
+// RequestReadMailResult
+type RequestReadMailResult = number
+declare const REQUEST_READ_MAIL_RESULT_ALREADY_REQUESTED: number
+declare const REQUEST_READ_MAIL_RESULT_ANOTHER_REQUEST_PENDING: number
+declare const REQUEST_READ_MAIL_RESULT_NOT_IN_MAIL_INTERACTION: number
+declare const REQUEST_READ_MAIL_RESULT_NO_SUCH_MAIL: number
+declare const REQUEST_READ_MAIL_RESULT_SUCCESS_CACHED: number
+declare const REQUEST_READ_MAIL_RESULT_SUCCESS_SERVER_REQUESTED: number
+
+// SendMailResult
+type SendMailResult = number
+declare const MAIL_SEND_RESULT_CANCELED: number
+declare const MAIL_SEND_RESULT_CANT_SEND_CASH_COD: number
+declare const MAIL_SEND_RESULT_CANT_SEND_TO_SELF: number
+declare const MAIL_SEND_RESULT_FAIL_BLANK_MAIL: number
+declare const MAIL_SEND_RESULT_FAIL_DB_ERROR: number
+declare const MAIL_SEND_RESULT_FAIL_IGNORED: number
+declare const MAIL_SEND_RESULT_FAIL_INVALID_NAME: number
+declare const MAIL_SEND_RESULT_FAIL_IN_PROGRESS: number
+declare const MAIL_SEND_RESULT_FAIL_MAILBOX_FULL: number
+declare const MAIL_SEND_RESULT_FAIL_RESTRICTED_COMMUNICATION: number
+declare const MAIL_SEND_RESULT_INVALID_ITEM: number
+declare const MAIL_SEND_RESULT_MAILBOX_NOT_OPEN: number
+declare const MAIL_SEND_RESULT_MAIL_DISABLED: number
+declare const MAIL_SEND_RESULT_NOT_ENOUGH_ITEMS_FOR_COD: number
+declare const MAIL_SEND_RESULT_NOT_ENOUGH_MONEY: number
+declare const MAIL_SEND_RESULT_RECIPIENT_NOT_FOUND: number
+declare const MAIL_SEND_RESULT_SUCCESS: number
+declare const MAIL_SEND_RESULT_TOO_MANY_ATTACHMENTS: number
+
+declare const MAIL_EXPIRATION_IMMINENT_THRESHOLD_DAYS: number
+declare const MAIL_MAX_ATTACHED_ITEMS: number
+declare const MAX_MAILS_PER_CATEGORY: number
+
+// ChannelType
+type ChannelType = number
+declare const CHAT_CHANNEL_EMOTE: number
+declare const CHAT_CHANNEL_GUILD_1: number
+declare const CHAT_CHANNEL_GUILD_2: number
+declare const CHAT_CHANNEL_GUILD_3: number
+declare const CHAT_CHANNEL_GUILD_4: number
+declare const CHAT_CHANNEL_GUILD_5: number
+declare const CHAT_CHANNEL_MONSTER_EMOTE: number
+declare const CHAT_CHANNEL_MONSTER_SAY: number
+declare const CHAT_CHANNEL_MONSTER_WHISPER: number
+declare const CHAT_CHANNEL_MONSTER_YELL: number
+declare const CHAT_CHANNEL_OFFICER_1: number
+declare const CHAT_CHANNEL_OFFICER_2: number
+declare const CHAT_CHANNEL_OFFICER_3: number
+declare const CHAT_CHANNEL_OFFICER_4: number
+declare const CHAT_CHANNEL_OFFICER_5: number
+declare const CHAT_CHANNEL_PARTY: number
+declare const CHAT_CHANNEL_SAY: number
+declare const CHAT_CHANNEL_SYSTEM: number
+declare const CHAT_CHANNEL_UNUSED_1: number
+declare const CHAT_CHANNEL_USER_CHANNEL_1: number
+declare const CHAT_CHANNEL_USER_CHANNEL_2: number
+declare const CHAT_CHANNEL_USER_CHANNEL_3: number
+declare const CHAT_CHANNEL_USER_CHANNEL_4: number
+declare const CHAT_CHANNEL_USER_CHANNEL_5: number
+declare const CHAT_CHANNEL_USER_CHANNEL_6: number
+declare const CHAT_CHANNEL_USER_CHANNEL_7: number
+declare const CHAT_CHANNEL_USER_CHANNEL_8: number
+declare const CHAT_CHANNEL_USER_CHANNEL_9: number
+declare const CHAT_CHANNEL_WHISPER: number
+declare const CHAT_CHANNEL_WHISPER_SENT: number
+declare const CHAT_CHANNEL_YELL: number
+declare const CHAT_CHANNEL_ZONE: number
+declare const CHAT_CHANNEL_ZONE_LANGUAGE_1: number
+declare const CHAT_CHANNEL_ZONE_LANGUAGE_2: number
+declare const CHAT_CHANNEL_ZONE_LANGUAGE_3: number
+declare const CHAT_CHANNEL_ZONE_LANGUAGE_4: number
+declare const CHAT_CHANNEL_ZONE_LANGUAGE_5: number
+declare const CHAT_CHANNEL_ZONE_LANGUAGE_6: number
+declare const CHAT_CHANNEL_ZONE_LANGUAGE_7: number
+
+// ChatChannelCategories
+type ChatChannelCategories = number
+declare const CHAT_CATEGORY_COMBAT_ALLIANCE_POINTS: number
+declare const CHAT_CATEGORY_COMBAT_BLOCK_ABSORBED_DEFEND: number
+declare const CHAT_CATEGORY_COMBAT_DEATH: number
+declare const CHAT_CATEGORY_COMBAT_DIRECT_DAMAGE: number
+declare const CHAT_CATEGORY_COMBAT_DIRECT_HEAL: number
+declare const CHAT_CATEGORY_COMBAT_DODGE_PARRY_MISS: number
+declare const CHAT_CATEGORY_COMBAT_DOT: number
+declare const CHAT_CATEGORY_COMBAT_DRAIN: number
+declare const CHAT_CATEGORY_COMBAT_ENERGIZE: number
+declare const CHAT_CATEGORY_COMBAT_EXPERIENCE: number
+declare const CHAT_CATEGORY_COMBAT_GAINED_EFFECT: number
+declare const CHAT_CATEGORY_COMBAT_HOT: number
+declare const CHAT_CATEGORY_COMBAT_LOST_EFFECT: number
+declare const CHAT_CATEGORY_COMBAT_OTHER: number
+declare const CHAT_CATEGORY_COMBAT_RANK_POINTS: number
+declare const CHAT_CATEGORY_COMBAT_RESIST: number
+declare const CHAT_CATEGORY_COMBAT_TELVAR_STONES: number
+declare const CHAT_CATEGORY_EMOTE: number
+declare const CHAT_CATEGORY_GUILD_1: number
+declare const CHAT_CATEGORY_GUILD_2: number
+declare const CHAT_CATEGORY_GUILD_3: number
+declare const CHAT_CATEGORY_GUILD_4: number
+declare const CHAT_CATEGORY_GUILD_5: number
+declare const CHAT_CATEGORY_MONSTER_EMOTE: number
+declare const CHAT_CATEGORY_MONSTER_SAY: number
+declare const CHAT_CATEGORY_MONSTER_WHISPER: number
+declare const CHAT_CATEGORY_MONSTER_YELL: number
+declare const CHAT_CATEGORY_OFFICER_1: number
+declare const CHAT_CATEGORY_OFFICER_2: number
+declare const CHAT_CATEGORY_OFFICER_3: number
+declare const CHAT_CATEGORY_OFFICER_4: number
+declare const CHAT_CATEGORY_OFFICER_5: number
+declare const CHAT_CATEGORY_PARTY: number
+declare const CHAT_CATEGORY_SAY: number
+declare const CHAT_CATEGORY_SYSTEM: number
+declare const CHAT_CATEGORY_WHISPER_INCOMING: number
+declare const CHAT_CATEGORY_WHISPER_OUTGOING: number
+declare const CHAT_CATEGORY_YELL: number
+declare const CHAT_CATEGORY_ZONE: number
+declare const CHAT_CATEGORY_ZONE_CHINESE_S: number
+declare const CHAT_CATEGORY_ZONE_ENGLISH: number
+declare const CHAT_CATEGORY_ZONE_FRENCH: number
+declare const CHAT_CATEGORY_ZONE_GERMAN: number
+declare const CHAT_CATEGORY_ZONE_JAPANESE: number
+declare const CHAT_CATEGORY_ZONE_RUSSIAN: number
+declare const CHAT_CATEGORY_ZONE_SPANISH: number
+
+// ChatChannelCategoryHeaders
+type ChatChannelCategoryHeaders = number
+declare const CHAT_CATEGORY_HEADER_CHANNELS: number
+declare const CHAT_CATEGORY_HEADER_COMBAT: number
+declare const CHAT_CATEGORY_HEADER_GUILDS: number
+
+// ActionResult
+type ActionResult = number
+declare const ACTION_RESULT_ABILITY_ON_COOLDOWN: number
+declare const ACTION_RESULT_ABSORBED: number
+declare const ACTION_RESULT_AT_PET_LIMIT: number
+declare const ACTION_RESULT_BAD_TARGET: number
+declare const ACTION_RESULT_BAD_TARGET_COMBAT_STATE: number
+declare const ACTION_RESULT_BLADETURN: number
+declare const ACTION_RESULT_BLOCKED: number
+declare const ACTION_RESULT_BLOCKED_DAMAGE: number
+declare const ACTION_RESULT_BUSY: number
+declare const ACTION_RESULT_CANNOT_USE: number
+declare const ACTION_RESULT_CANT_SEE_TARGET: number
+declare const ACTION_RESULT_CANT_SWAP_HOTBAR_IS_OVERRIDDEN: number
+declare const ACTION_RESULT_CANT_SWAP_WHILE_CHANGING_GEAR: number
+declare const ACTION_RESULT_CASTER_DEAD: number
+declare const ACTION_RESULT_CAST_AT_PET_LIMIT: number
+declare const ACTION_RESULT_CHARMED: number
+declare const ACTION_RESULT_CRITICAL_DAMAGE: number
+declare const ACTION_RESULT_CRITICAL_HEAL: number
+declare const ACTION_RESULT_DAMAGE: number
+declare const ACTION_RESULT_DAMAGE_SHIELDED: number
+declare const ACTION_RESULT_DEFENDED: number
+declare const ACTION_RESULT_DIED: number
+declare const ACTION_RESULT_DIED_COMPANION_XP: number
+declare const ACTION_RESULT_DIED_XP: number
+declare const ACTION_RESULT_DISARMED: number
+declare const ACTION_RESULT_DISORIENTED: number
+declare const ACTION_RESULT_DODGED: number
+declare const ACTION_RESULT_DOT_TICK: number
+declare const ACTION_RESULT_DOT_TICK_CRITICAL: number
+declare const ACTION_RESULT_FAILED: number
+declare const ACTION_RESULT_FAILED_REQUIREMENTS: number
+declare const ACTION_RESULT_FAILED_SIEGE_CREATION_REQUIREMENTS: number
+declare const ACTION_RESULT_FALLING: number
+declare const ACTION_RESULT_FALL_DAMAGE: number
+declare const ACTION_RESULT_FEARED: number
+declare const ACTION_RESULT_GRAVEYARD_DISALLOWED_IN_INSTANCE: number
+declare const ACTION_RESULT_GRAVEYARD_TOO_CLOSE: number
+declare const ACTION_RESULT_HEAL: number
+declare const ACTION_RESULT_HEAL_ABSORBED: number
+declare const ACTION_RESULT_HOT_TICK: number
+declare const ACTION_RESULT_HOT_TICK_CRITICAL: number
+declare const ACTION_RESULT_IMMUNE: number
+declare const ACTION_RESULT_INSUFFICIENT_RESOURCE: number
+declare const ACTION_RESULT_INTERCEPTED: number
+declare const ACTION_RESULT_INTERRUPT: number
+declare const ACTION_RESULT_INVALID: number
+declare const ACTION_RESULT_INVALID_FIXTURE: number
+declare const ACTION_RESULT_INVALID_JUSTICE_TARGET: number
+declare const ACTION_RESULT_INVALID_TERRAIN: number
+declare const ACTION_RESULT_IN_AIR: number
+declare const ACTION_RESULT_IN_COMBAT: number
+declare const ACTION_RESULT_IN_ENEMY_KEEP: number
+declare const ACTION_RESULT_IN_ENEMY_OUTPOST: number
+declare const ACTION_RESULT_IN_ENEMY_RESOURCE: number
+declare const ACTION_RESULT_IN_ENEMY_TOWN: number
+declare const ACTION_RESULT_IN_HIDEYHOLE: number
+declare const ACTION_RESULT_KILLED_BY_DAEDRIC_WEAPON: number
+declare const ACTION_RESULT_KILLED_BY_SUBZONE: number
+declare const ACTION_RESULT_KILLING_BLOW: number
+declare const ACTION_RESULT_KNOCKBACK: number
+declare const ACTION_RESULT_LEVITATED: number
+declare const ACTION_RESULT_MERCENARY_LIMIT: number
+declare const ACTION_RESULT_MISS: number
+declare const ACTION_RESULT_MISSING_EMPTY_SOUL_GEM: number
+declare const ACTION_RESULT_MISSING_FILLED_SOUL_GEM: number
+declare const ACTION_RESULT_MOBILE_GRAVEYARD_LIMIT: number
+declare const ACTION_RESULT_MOUNTED: number
+declare const ACTION_RESULT_MUST_BE_IN_OWN_KEEP: number
+declare const ACTION_RESULT_NOT_ENOUGH_INVENTORY_SPACE: number
+declare const ACTION_RESULT_NOT_ENOUGH_INVENTORY_SPACE_SOUL_GEM: number
+declare const ACTION_RESULT_NOT_ENOUGH_SPACE_FOR_SIEGE: number
+declare const ACTION_RESULT_NO_LOCATION_FOUND: number
+declare const ACTION_RESULT_NO_RAM_ATTACKABLE_TARGET_WITHIN_RANGE: number
+declare const ACTION_RESULT_NO_WEAPONS_TO_SWAP_TO: number
+declare const ACTION_RESULT_NPC_TOO_CLOSE: number
+declare const ACTION_RESULT_OFFBALANCE: number
+declare const ACTION_RESULT_PACIFIED: number
+declare const ACTION_RESULT_PARRIED: number
+declare const ACTION_RESULT_PARTIAL_RESIST: number
+declare const ACTION_RESULT_POWER_DRAIN: number
+declare const ACTION_RESULT_POWER_ENERGIZE: number
+declare const ACTION_RESULT_PRECISE_DAMAGE: number
+declare const ACTION_RESULT_QUEUED: number
+declare const ACTION_RESULT_RAM_ATTACKABLE_TARGETS_ALL_DESTROYED: number
+declare const ACTION_RESULT_RAM_ATTACKABLE_TARGETS_ALL_OCCUPIED: number
+declare const ACTION_RESULT_RECALLING: number
+declare const ACTION_RESULT_REFLECTED: number
+declare const ACTION_RESULT_REINCARNATING: number
+declare const ACTION_RESULT_RESIST: number
+declare const ACTION_RESULT_RESURRECT: number
+declare const ACTION_RESULT_ROOTED: number
+declare const ACTION_RESULT_SELF_PLAYING_TRIBUTE: number
+declare const ACTION_RESULT_SIEGE_BLOCKED: number
+declare const ACTION_RESULT_SIEGE_LIMIT: number
+declare const ACTION_RESULT_SIEGE_NOT_ALLOWED_IN_ZONE: number
+declare const ACTION_RESULT_SIEGE_PACKED_UP: number
+declare const ACTION_RESULT_SIEGE_TOO_CLOSE: number
+declare const ACTION_RESULT_SILENCED: number
+declare const ACTION_RESULT_SNARED: number
+declare const ACTION_RESULT_SOUL_GEM_RESURRECTION_ACCEPTED: number
+declare const ACTION_RESULT_SPRINTING: number
+declare const ACTION_RESULT_STAGGERED: number
+declare const ACTION_RESULT_STUNNED: number
+declare const ACTION_RESULT_SWIMMING: number
+declare const ACTION_RESULT_TARGET_DEAD: number
+declare const ACTION_RESULT_TARGET_NOT_IN_VIEW: number
+declare const ACTION_RESULT_TARGET_NOT_PVP_FLAGGED: number
+declare const ACTION_RESULT_TARGET_OUT_OF_RANGE: number
+declare const ACTION_RESULT_TARGET_PLAYING_TRIBUTE: number
+declare const ACTION_RESULT_TARGET_TOO_CLOSE: number
+declare const ACTION_RESULT_TAUNTED: number
+declare const ACTION_RESULT_UNEVEN_TERRAIN: number
+declare const ACTION_RESULT_WEAPONSWAP: number
+declare const ACTION_RESULT_WRECKING_DAMAGE: number
+declare const ACTION_RESULT_WRONG_WEAPON: number
+
+// LeaderboardScoreNotificationType
+type LeaderboardScoreNotificationType = number
+declare const LEADERBOARD_SCORE_NOTIFICATION_TYPE_ENDLESS_DUNGEON: number
+declare const LEADERBOARD_SCORE_NOTIFICATION_TYPE_RAID: number
+
+declare const DEFAULT_ENDLESS_DUNGEON_ID: number
+
+// CraftingProcessContext
+type CraftingProcessContext = number
+declare const CRAFTING_PROCESS_CONTEXT_CONSUME_ATTUNABLE_STATIONS: number
+declare const CRAFTING_PROCESS_CONTEXT_NONE: number
+
+// HirelingType
+type HirelingType = number
+declare const HIRELING_TYPE_BLACKSMITHING: number
+declare const HIRELING_TYPE_CLOTHIER: number
+declare const HIRELING_TYPE_ENCHANTING: number
+declare const HIRELING_TYPE_JEWELRYCRAFTING: number
+declare const HIRELING_TYPE_PROVISIONING: number
+declare const HIRELING_TYPE_WOODWORKING: number
+
+// ProspectiveAlchemyResult
+type ProspectiveAlchemyResult = number
+declare const PROSPECTIVE_ALCHEMY_RESULT_KNOWN: number
+declare const PROSPECTIVE_ALCHEMY_RESULT_UNCRAFTABLE: number
+declare const PROSPECTIVE_ALCHEMY_RESULT_UNKNOWN: number
+
+// ProvisionerSpecialIngredientType
+type ProvisionerSpecialIngredientType = number
+declare const PROVISIONER_SPECIAL_INGREDIENT_TYPE_FILLET: number
+declare const PROVISIONER_SPECIAL_INGREDIENT_TYPE_FLAVORING: number
+declare const PROVISIONER_SPECIAL_INGREDIENT_TYPE_FURNISHING: number
+declare const PROVISIONER_SPECIAL_INGREDIENT_TYPE_NONE: number
+declare const PROVISIONER_SPECIAL_INGREDIENT_TYPE_SPICES: number
+
+// RecipeCraftingSystem
+type RecipeCraftingSystem = number
+declare const RECIPE_CRAFTING_SYSTEM_ALCHEMY_FORMULAE: number
+declare const RECIPE_CRAFTING_SYSTEM_BLACKSMITHING_DIAGRAMS: number
+declare const RECIPE_CRAFTING_SYSTEM_CLOTHIER_PATTERNS: number
+declare const RECIPE_CRAFTING_SYSTEM_ENCHANTING_SCHEMATICS: number
+declare const RECIPE_CRAFTING_SYSTEM_INVALID: number
+declare const RECIPE_CRAFTING_SYSTEM_JEWELRYCRAFTING_SKETCHES: number
+declare const RECIPE_CRAFTING_SYSTEM_PROVISIONING_DESIGNS: number
+declare const RECIPE_CRAFTING_SYSTEM_WOODWORKING_BLUEPRINTS: number
+
+// ReconstructResponse
+type ReconstructResponse = number
+declare const RECONSTRUCT_RESPONSE_BAD_INTERACT_MODE: number
+declare const RECONSTRUCT_RESPONSE_INSUFFICIENT_FUNDS: number
+declare const RECONSTRUCT_RESPONSE_INSUFFICIENT_INVENTORY_SPACE: number
+declare const RECONSTRUCT_RESPONSE_INSUFFICIENT_UPGRADE_MATERIALS: number
+declare const RECONSTRUCT_RESPONSE_INVALID_CURRENCY: number
+declare const RECONSTRUCT_RESPONSE_INVALID_ITEM: number
+declare const RECONSTRUCT_RESPONSE_INVALID_QUALITY: number
+declare const RECONSTRUCT_RESPONSE_INVALID_TRAIT_FOR_ITEM: number
+declare const RECONSTRUCT_RESPONSE_ITEM_LOCKED: number
+declare const RECONSTRUCT_RESPONSE_SUCCESS: number
+declare const RECONSTRUCT_RESPONSE_TRAIT_NOT_RESEARCHED: number
+declare const RECONSTRUCT_RESPONSE_UNKNOWN_FAILURE: number
+
+// TradeskillType
+type TradeskillType = number
+declare const CRAFTING_TYPE_ALCHEMY: number
+declare const CRAFTING_TYPE_BLACKSMITHING: number
+declare const CRAFTING_TYPE_CLOTHIER: number
+declare const CRAFTING_TYPE_ENCHANTING: number
+declare const CRAFTING_TYPE_INVALID: number
+declare const CRAFTING_TYPE_JEWELRYCRAFTING: number
+declare const CRAFTING_TYPE_PROVISIONING: number
+declare const CRAFTING_TYPE_SCRIBING: number
+declare const CRAFTING_TYPE_WOODWORKING: number
+
+declare const MAX_ITEM_SLOTS_PER_DECONSTRUCTION: number
+declare const MAX_ITERATIONS_PER_DECONSTRUCTION: number
+
+// GameCameraAdditionalInfo
+type GameCameraAdditionalInfo = number
+declare const ADDITIONAL_INTERACT_INFO_EMPTY: number
+declare const ADDITIONAL_INTERACT_INFO_FISHING_NODE: number
+declare const ADDITIONAL_INTERACT_INFO_HOUSE_BANK: number
+declare const ADDITIONAL_INTERACT_INFO_HOUSE_INSTANCE_DOOR: number
+declare const ADDITIONAL_INTERACT_INFO_INSTANCE_TYPE: number
+declare const ADDITIONAL_INTERACT_INFO_IN_HIDEYHOLE: number
+declare const ADDITIONAL_INTERACT_INFO_LOCKED: number
+declare const ADDITIONAL_INTERACT_INFO_NONE: number
+declare const ADDITIONAL_INTERACT_INFO_PICKPOCKET_CHANCE: number
+declare const ADDITIONAL_INTERACT_INFO_REQUIRES_KEY: number
+declare const ADDITIONAL_INTERACT_INFO_WEREWOLF_ACTIVE_WHILE_ATTEMPTING_TO_CRAFT: number
+declare const ADDITIONAL_INTERACT_INFO_WEREWOLF_ACTIVE_WHILE_ATTEMPTING_TO_EXCAVATE: number
+
+// TutorialType
+type TutorialType = number
+declare const TUTORIAL_TYPE_HUD_BRIEF: number
+declare const TUTORIAL_TYPE_HUD_INFO_BOX: number
+declare const TUTORIAL_TYPE_POINTER_BOX: number
+declare const TUTORIAL_TYPE_UI_INFO_BOX: number
+
+declare const TUTORIAL_ENABLED_SETTING_ID: number
+
+declare const MOD_BROWSER_REPORT_LISTING_COMMENT_MAX_LENGTH: number
+declare const MOD_BROWSER_TEXT_SEARCH_MAX_LENGTH: number
+
+// AddOnLoadState
+type AddOnLoadState = number
+declare const ADDON_STATE_DEPENDENCIES_DISABLED: number
+declare const ADDON_STATE_DISABLED: number
+declare const ADDON_STATE_ENABLED: number
+declare const ADDON_STATE_ERROR_STATE_UNABLE_TO_LOAD: number
+declare const ADDON_STATE_NO_STATE: number
+declare const ADDON_STATE_TOC_LOADED: number
+declare const ADDON_STATE_VERSION_MISMATCH: number
+
+// AllowMarkupType
+type AllowMarkupType = number
+declare const ALLOW_MARKUP_TYPE_ALL: number
+declare const ALLOW_MARKUP_TYPE_COLOR_ONLY: number
+declare const ALLOW_MARKUP_TYPE_NONE: number
+
+// AnchorConstrains
+type AnchorConstrains = number
+declare const ANCHOR_CONSTRAINS_X: number
+declare const ANCHOR_CONSTRAINS_XY: number
+declare const ANCHOR_CONSTRAINS_Y: number
+
+// AnchorPosition
+type AnchorPosition = number
+declare const BOTTOM: number
+declare const BOTTOMLEFT: number
+declare const BOTTOMRIGHT: number
+declare const CENTER: number
+declare const LEFT: number
+declare const RIGHT: number
+declare const TOP: number
+declare const TOPLEFT: number
+declare const TOPRIGHT: number
+
+// AnimationPlayback
+type AnimationPlayback = number
+declare const ANIMATION_PLAYBACK_INVALID: number
+declare const ANIMATION_PLAYBACK_LOOP: number
+declare const ANIMATION_PLAYBACK_ONE_SHOT: number
+declare const ANIMATION_PLAYBACK_PING_PONG: number
+
+// AnimationType
+type AnimationType = number
+declare const ANIMATION_ALPHA: number
+declare const ANIMATION_COLOR: number
+declare const ANIMATION_CUSTOM: number
+declare const ANIMATION_DESATURATION: number
+declare const ANIMATION_INVALID: number
+declare const ANIMATION_ROTATE3D: number
+declare const ANIMATION_SCALE: number
+declare const ANIMATION_SCROLL: number
+declare const ANIMATION_SIZE: number
+declare const ANIMATION_TEXTURE: number
+declare const ANIMATION_TEXTUREROTATE: number
+declare const ANIMATION_TEXTURESLIDE: number
+declare const ANIMATION_TRANSFORMOFFSET: number
+declare const ANIMATION_TRANSFORMROTATION: number
+declare const ANIMATION_TRANSFORMSCALE: number
+declare const ANIMATION_TRANSFORMSKEW: number
+declare const ANIMATION_TRANSLATE: number
+declare const ANIMATION_TRANSLATE3D: number
+
+// BarAlignment
+type BarAlignment = number
+declare const BAR_ALIGNMENT_CENTER: number
+declare const BAR_ALIGNMENT_NORMAL: number
+declare const BAR_ALIGNMENT_REVERSE: number
+
+// ButtonState
+type ButtonState = number
+declare const BSTATE_DISABLED: number
+declare const BSTATE_DISABLED_PRESSED: number
+declare const BSTATE_NORMAL: number
+declare const BSTATE_PRESSED: number
+
+// ControlHandlerOrder
+type ControlHandlerOrder = number
+declare const CONTROL_HANDLER_ORDER_AFTER: number
+declare const CONTROL_HANDLER_ORDER_BEFORE: number
+declare const CONTROL_HANDLER_ORDER_NONE: number
+
+// ControlOrientation
+type ControlOrientation = number
+declare const ORIENTATION_HORIZONTAL: number
+declare const ORIENTATION_VERTICAL: number
+
+// ControlType
+type ControlType = number
+declare const CT_BACKDROP: number
+declare const CT_BUTTON: number
+declare const CT_CANVAS: number
+declare const CT_COLORSELECT: number
+declare const CT_COMPASS: number
+declare const CT_CONTROL: number
+declare const CT_COOLDOWN: number
+declare const CT_DEBUGTEXT: number
+declare const CT_EDITBOX: number
+declare const CT_INVALID_TYPE: number
+declare const CT_LABEL: number
+declare const CT_LINE: number
+declare const CT_MAPDISPLAY: number
+declare const CT_POLYGON: number
+declare const CT_ROOT_WINDOW: number
+declare const CT_SCROLL: number
+declare const CT_SLIDER: number
+declare const CT_STATUSBAR: number
+declare const CT_TEXTBUFFER: number
+declare const CT_TEXTURE: number
+declare const CT_TEXTURECOMPOSITE: number
+declare const CT_TOOLTIP: number
+declare const CT_TOPLEVELCONTROL: number
+declare const CT_VECTOR: number
+
+// DrawLayer
+type DrawLayer = number
+declare const DL_BACKGROUND: number
+declare const DL_CONTROLS: number
+declare const DL_OVERLAY: number
+declare const DL_TEXT: number
+
+// DrawTier
+type DrawTier = number
+declare const DT_HIGH: number
+declare const DT_LOW: number
+declare const DT_MEDIUM: number
+declare const DT_PARENT: number
+
+// EventReasonType
+type EventReasonType = number
+declare const EVENT_REASON_HARDWARE: number
+declare const EVENT_REASON_SOFTWARE: number
+
+// FontStyle
+type FontStyle = number
+declare const FONT_STYLE_NORMAL: number
+declare const FONT_STYLE_OUTLINE: number
+declare const FONT_STYLE_OUTLINE_SHADOW: number
+declare const FONT_STYLE_OUTLINE_SHADOW_THICK: number
+declare const FONT_STYLE_OUTLINE_THICK: number
+declare const FONT_STYLE_SHADOW: number
+declare const FONT_STYLE_SOFT_SHADOW_THICK: number
+declare const FONT_STYLE_SOFT_SHADOW_THIN: number
+
+// MapDisplayPinType
+type MapDisplayPinType = number
+declare const MAP_PIN_TYPE_ACTIVE_COMPANION: number
+declare const MAP_PIN_TYPE_AGGRO: number
+declare const MAP_PIN_TYPE_ALDMERI_VS_DAGGERFALL_LARGE: number
+declare const MAP_PIN_TYPE_ALDMERI_VS_DAGGERFALL_MEDIUM: number
+declare const MAP_PIN_TYPE_ALDMERI_VS_DAGGERFALL_SMALL: number
+declare const MAP_PIN_TYPE_ALDMERI_VS_EBONHEART_LARGE: number
+declare const MAP_PIN_TYPE_ALDMERI_VS_EBONHEART_MEDIUM: number
+declare const MAP_PIN_TYPE_ALDMERI_VS_EBONHEART_SMALL: number
+declare const MAP_PIN_TYPE_ANTIQUITY_DIG_SITE: number
+declare const MAP_PIN_TYPE_ANTIQUITY_DIG_SITE_PING: number
+declare const MAP_PIN_TYPE_ARTIFACT_ALDMERI_DEFENSIVE: number
+declare const MAP_PIN_TYPE_ARTIFACT_ALDMERI_OFFENSIVE: number
+declare const MAP_PIN_TYPE_ARTIFACT_DAGGERFALL_DEFENSIVE: number
+declare const MAP_PIN_TYPE_ARTIFACT_DAGGERFALL_OFFENSIVE: number
+declare const MAP_PIN_TYPE_ARTIFACT_EBONHEART_DEFENSIVE: number
+declare const MAP_PIN_TYPE_ARTIFACT_EBONHEART_OFFENSIVE: number
+declare const MAP_PIN_TYPE_ARTIFACT_GATE_CLOSED_ALDMERI_DOMINION: number
+declare const MAP_PIN_TYPE_ARTIFACT_GATE_CLOSED_DAGGERFALL_COVENANT: number
+declare const MAP_PIN_TYPE_ARTIFACT_GATE_CLOSED_EBONHEART_PACT: number
+declare const MAP_PIN_TYPE_ARTIFACT_GATE_OPEN_ALDMERI_DOMINION: number
+declare const MAP_PIN_TYPE_ARTIFACT_GATE_OPEN_DAGGERFALL_COVENANT: number
+declare const MAP_PIN_TYPE_ARTIFACT_GATE_OPEN_EBONHEART_PACT: number
+declare const MAP_PIN_TYPE_ARTIFACT_KEEP_ALDMERI_DOMINION: number
+declare const MAP_PIN_TYPE_ARTIFACT_KEEP_DAGGERFALL_COVENANT: number
+declare const MAP_PIN_TYPE_ARTIFACT_KEEP_EBONHEART_PACT: number
+declare const MAP_PIN_TYPE_ARTIFACT_RETURN_ALDMERI: number
+declare const MAP_PIN_TYPE_ARTIFACT_RETURN_DAGGERFALL: number
+declare const MAP_PIN_TYPE_ARTIFACT_RETURN_EBONHEART: number
+declare const MAP_PIN_TYPE_ASSISTED_QUEST_CONDITION: number
+declare const MAP_PIN_TYPE_ASSISTED_QUEST_ENDING: number
+declare const MAP_PIN_TYPE_ASSISTED_QUEST_OPTIONAL_CONDITION: number
+declare const MAP_PIN_TYPE_ASSISTED_QUEST_REPEATABLE_CONDITION: number
+declare const MAP_PIN_TYPE_ASSISTED_QUEST_REPEATABLE_ENDING: number
+declare const MAP_PIN_TYPE_ASSISTED_QUEST_REPEATABLE_OPTIONAL_CONDITION: number
+declare const MAP_PIN_TYPE_ASSISTED_QUEST_ZONE_STORY_CONDITION: number
+declare const MAP_PIN_TYPE_ASSISTED_QUEST_ZONE_STORY_ENDING: number
+declare const MAP_PIN_TYPE_ASSISTED_QUEST_ZONE_STORY_OPTIONAL_CONDITION: number
+declare const MAP_PIN_TYPE_AUTO_MAP_NAVIGATION_PING: number
+declare const MAP_PIN_TYPE_AVA_CAPTURE_AREA_ALDMERI: number
+declare const MAP_PIN_TYPE_AVA_CAPTURE_AREA_AURA: number
+declare const MAP_PIN_TYPE_AVA_CAPTURE_AREA_DAGGERFALL: number
+declare const MAP_PIN_TYPE_AVA_CAPTURE_AREA_EBONHEART: number
+declare const MAP_PIN_TYPE_AVA_CAPTURE_AREA_NEUTRAL: number
+declare const MAP_PIN_TYPE_AVA_DAEDRIC_ARTIFACT_VOLENDRUNG_ALDMERI: number
+declare const MAP_PIN_TYPE_AVA_DAEDRIC_ARTIFACT_VOLENDRUNG_DAGGERFALL: number
+declare const MAP_PIN_TYPE_AVA_DAEDRIC_ARTIFACT_VOLENDRUNG_EBONHEART: number
+declare const MAP_PIN_TYPE_AVA_DAEDRIC_ARTIFACT_VOLENDRUNG_NEUTRAL: number
+declare const MAP_PIN_TYPE_AVA_TOWN_ALDMERI_DOMINION: number
+declare const MAP_PIN_TYPE_AVA_TOWN_DAGGERFALL_COVENANT: number
+declare const MAP_PIN_TYPE_AVA_TOWN_EBONHEART_PACT: number
+declare const MAP_PIN_TYPE_AVA_TOWN_GRAVEYARD_ACCESSIBLE: number
+declare const MAP_PIN_TYPE_AVA_TOWN_NEUTRAL: number
+declare const MAP_PIN_TYPE_BGPIN_CAPTURE_AREA_AURA: number
+declare const MAP_PIN_TYPE_BGPIN_CAPTURE_AREA_A_FIRE_DRAKES: number
+declare const MAP_PIN_TYPE_BGPIN_CAPTURE_AREA_A_NEUTRAL: number
+declare const MAP_PIN_TYPE_BGPIN_CAPTURE_AREA_A_PIT_DAEMONS: number
+declare const MAP_PIN_TYPE_BGPIN_CAPTURE_AREA_A_STORM_LORDS: number
+declare const MAP_PIN_TYPE_BGPIN_CAPTURE_AREA_B_FIRE_DRAKES: number
+declare const MAP_PIN_TYPE_BGPIN_CAPTURE_AREA_B_NEUTRAL: number
+declare const MAP_PIN_TYPE_BGPIN_CAPTURE_AREA_B_PIT_DAEMONS: number
+declare const MAP_PIN_TYPE_BGPIN_CAPTURE_AREA_B_STORM_LORDS: number
+declare const MAP_PIN_TYPE_BGPIN_CAPTURE_AREA_C_FIRE_DRAKES: number
+declare const MAP_PIN_TYPE_BGPIN_CAPTURE_AREA_C_NEUTRAL: number
+declare const MAP_PIN_TYPE_BGPIN_CAPTURE_AREA_C_PIT_DAEMONS: number
+declare const MAP_PIN_TYPE_BGPIN_CAPTURE_AREA_C_STORM_LORDS: number
+declare const MAP_PIN_TYPE_BGPIN_CAPTURE_AREA_D_FIRE_DRAKES: number
+declare const MAP_PIN_TYPE_BGPIN_CAPTURE_AREA_D_NEUTRAL: number
+declare const MAP_PIN_TYPE_BGPIN_CAPTURE_AREA_D_PIT_DAEMONS: number
+declare const MAP_PIN_TYPE_BGPIN_CAPTURE_AREA_D_STORM_LORDS: number
+declare const MAP_PIN_TYPE_BGPIN_CAPTURE_AREA_FIRE_DRAKES: number
+declare const MAP_PIN_TYPE_BGPIN_CAPTURE_AREA_NEUTRAL: number
+declare const MAP_PIN_TYPE_BGPIN_CAPTURE_AREA_PIT_DAEMONS: number
+declare const MAP_PIN_TYPE_BGPIN_CAPTURE_AREA_STORM_LORDS: number
+declare const MAP_PIN_TYPE_BGPIN_FLAG_FIRE_DRAKES: number
+declare const MAP_PIN_TYPE_BGPIN_FLAG_FIRE_DRAKES_AURA: number
+declare const MAP_PIN_TYPE_BGPIN_FLAG_NEUTRAL: number
+declare const MAP_PIN_TYPE_BGPIN_FLAG_NEUTRAL_AURA: number
+declare const MAP_PIN_TYPE_BGPIN_FLAG_PIT_DAEMONS: number
+declare const MAP_PIN_TYPE_BGPIN_FLAG_PIT_DAEMONS_AURA: number
+declare const MAP_PIN_TYPE_BGPIN_FLAG_RETURN_FIRE_DRAKES: number
+declare const MAP_PIN_TYPE_BGPIN_FLAG_RETURN_PIT_DAEMONS: number
+declare const MAP_PIN_TYPE_BGPIN_FLAG_RETURN_STORM_LORDS: number
+declare const MAP_PIN_TYPE_BGPIN_FLAG_SPAWN_FIRE_DRAKES: number
+declare const MAP_PIN_TYPE_BGPIN_FLAG_SPAWN_NEUTRAL: number
+declare const MAP_PIN_TYPE_BGPIN_FLAG_SPAWN_PIT_DAEMONS: number
+declare const MAP_PIN_TYPE_BGPIN_FLAG_SPAWN_STORM_LORDS: number
+declare const MAP_PIN_TYPE_BGPIN_FLAG_STORM_LORDS: number
+declare const MAP_PIN_TYPE_BGPIN_FLAG_STORM_LORDS_AURA: number
+declare const MAP_PIN_TYPE_BGPIN_MOBILE_CAPTURE_AREA_AURA: number
+declare const MAP_PIN_TYPE_BGPIN_MOBILE_CAPTURE_AREA_A_FIRE_DRAKES: number
+declare const MAP_PIN_TYPE_BGPIN_MOBILE_CAPTURE_AREA_A_NEUTRAL: number
+declare const MAP_PIN_TYPE_BGPIN_MOBILE_CAPTURE_AREA_A_PIT_DAEMONS: number
+declare const MAP_PIN_TYPE_BGPIN_MOBILE_CAPTURE_AREA_A_STORM_LORDS: number
+declare const MAP_PIN_TYPE_BGPIN_MOBILE_CAPTURE_AREA_B_FIRE_DRAKES: number
+declare const MAP_PIN_TYPE_BGPIN_MOBILE_CAPTURE_AREA_B_NEUTRAL: number
+declare const MAP_PIN_TYPE_BGPIN_MOBILE_CAPTURE_AREA_B_PIT_DAEMONS: number
+declare const MAP_PIN_TYPE_BGPIN_MOBILE_CAPTURE_AREA_B_STORM_LORDS: number
+declare const MAP_PIN_TYPE_BGPIN_MOBILE_CAPTURE_AREA_C_FIRE_DRAKES: number
+declare const MAP_PIN_TYPE_BGPIN_MOBILE_CAPTURE_AREA_C_NEUTRAL: number
+declare const MAP_PIN_TYPE_BGPIN_MOBILE_CAPTURE_AREA_C_PIT_DAEMONS: number
+declare const MAP_PIN_TYPE_BGPIN_MOBILE_CAPTURE_AREA_C_STORM_LORDS: number
+declare const MAP_PIN_TYPE_BGPIN_MOBILE_CAPTURE_AREA_D_FIRE_DRAKES: number
+declare const MAP_PIN_TYPE_BGPIN_MOBILE_CAPTURE_AREA_D_NEUTRAL: number
+declare const MAP_PIN_TYPE_BGPIN_MOBILE_CAPTURE_AREA_D_PIT_DAEMONS: number
+declare const MAP_PIN_TYPE_BGPIN_MOBILE_CAPTURE_AREA_D_STORM_LORDS: number
+declare const MAP_PIN_TYPE_BGPIN_MOBILE_CAPTURE_AREA_FIRE_DRAKES: number
+declare const MAP_PIN_TYPE_BGPIN_MOBILE_CAPTURE_AREA_NEUTRAL: number
+declare const MAP_PIN_TYPE_BGPIN_MOBILE_CAPTURE_AREA_PIT_DAEMONS: number
+declare const MAP_PIN_TYPE_BGPIN_MOBILE_CAPTURE_AREA_STORM_LORDS: number
+declare const MAP_PIN_TYPE_BGPIN_MURDERBALL_FIRE_DRAKES: number
+declare const MAP_PIN_TYPE_BGPIN_MURDERBALL_NEUTRAL: number
+declare const MAP_PIN_TYPE_BGPIN_MURDERBALL_PIT_DAEMONS: number
+declare const MAP_PIN_TYPE_BGPIN_MURDERBALL_SPAWN_NEUTRAL: number
+declare const MAP_PIN_TYPE_BGPIN_MURDERBALL_STORM_LORDS: number
+declare const MAP_PIN_TYPE_BORDER_KEEP_ALDMERI_DOMINION: number
+declare const MAP_PIN_TYPE_BORDER_KEEP_DAGGERFALL_COVENANT: number
+declare const MAP_PIN_TYPE_BORDER_KEEP_EBONHEART_PACT: number
+declare const MAP_PIN_TYPE_DARK_BROTHERHOOD_TARGET: number
+declare const MAP_PIN_TYPE_EBONHEART_VS_DAGGERFALL_LARGE: number
+declare const MAP_PIN_TYPE_EBONHEART_VS_DAGGERFALL_MEDIUM: number
+declare const MAP_PIN_TYPE_EBONHEART_VS_DAGGERFALL_SMALL: number
+declare const MAP_PIN_TYPE_FARM_ALDMERI_DOMINION: number
+declare const MAP_PIN_TYPE_FARM_DAGGERFALL_COVENANT: number
+declare const MAP_PIN_TYPE_FARM_EBONHEART_PACT: number
+declare const MAP_PIN_TYPE_FARM_NEUTRAL: number
+declare const MAP_PIN_TYPE_FAST_TRAVEL_BORDER_KEEP_ACCESSIBLE: number
+declare const MAP_PIN_TYPE_FAST_TRAVEL_KEEP_ACCESSIBLE: number
+declare const MAP_PIN_TYPE_FAST_TRAVEL_OUTPOST_ACCESSIBLE: number
+declare const MAP_PIN_TYPE_FAST_TRAVEL_WAYSHRINE: number
+declare const MAP_PIN_TYPE_FAST_TRAVEL_WAYSHRINE_CURRENT_LOC: number
+declare const MAP_PIN_TYPE_FORWARD_CAMP_ACCESSIBLE: number
+declare const MAP_PIN_TYPE_FORWARD_CAMP_ALDMERI_DOMINION: number
+declare const MAP_PIN_TYPE_FORWARD_CAMP_DAGGERFALL_COVENANT: number
+declare const MAP_PIN_TYPE_FORWARD_CAMP_EBONHEART_PACT: number
+declare const MAP_PIN_TYPE_GROUP: number
+declare const MAP_PIN_TYPE_GROUP_LEADER: number
+declare const MAP_PIN_TYPE_HARVEST_NODE: number
+declare const MAP_PIN_TYPE_IMPERIAL_DISTRICT_ALDMERI_DOMINION: number
+declare const MAP_PIN_TYPE_IMPERIAL_DISTRICT_DAGGERFALL_COVENANT: number
+declare const MAP_PIN_TYPE_IMPERIAL_DISTRICT_EBONHEART_PACT: number
+declare const MAP_PIN_TYPE_IMPERIAL_DISTRICT_GRAVEYARD_ACCESSIBLE: number
+declare const MAP_PIN_TYPE_IMPERIAL_DISTRICT_NEUTRAL: number
+declare const MAP_PIN_TYPE_INVALID: number
+declare const MAP_PIN_TYPE_KEEP_ALDMERI_DOMINION: number
+declare const MAP_PIN_TYPE_KEEP_ATTACKED_LARGE: number
+declare const MAP_PIN_TYPE_KEEP_ATTACKED_SMALL: number
+declare const MAP_PIN_TYPE_KEEP_BRIDGE: number
+declare const MAP_PIN_TYPE_KEEP_BRIDGE_IMPASSABLE: number
+declare const MAP_PIN_TYPE_KEEP_DAGGERFALL_COVENANT: number
+declare const MAP_PIN_TYPE_KEEP_EBONHEART_PACT: number
+declare const MAP_PIN_TYPE_KEEP_GRAVEYARD_ACCESSIBLE: number
+declare const MAP_PIN_TYPE_KEEP_MILEGATE: number
+declare const MAP_PIN_TYPE_KEEP_MILEGATE_CENTER_DESTROYED: number
+declare const MAP_PIN_TYPE_KEEP_MILEGATE_IMPASSABLE: number
+declare const MAP_PIN_TYPE_KEEP_NEUTRAL: number
+declare const MAP_PIN_TYPE_LOCATION: number
+declare const MAP_PIN_TYPE_MILL_ALDMERI_DOMINION: number
+declare const MAP_PIN_TYPE_MILL_DAGGERFALL_COVENANT: number
+declare const MAP_PIN_TYPE_MILL_EBONHEART_PACT: number
+declare const MAP_PIN_TYPE_MILL_NEUTRAL: number
+declare const MAP_PIN_TYPE_MINE_ALDMERI_DOMINION: number
+declare const MAP_PIN_TYPE_MINE_DAGGERFALL_COVENANT: number
+declare const MAP_PIN_TYPE_MINE_EBONHEART_PACT: number
+declare const MAP_PIN_TYPE_MINE_NEUTRAL: number
+declare const MAP_PIN_TYPE_NPC_FOLLOWER: number
+declare const MAP_PIN_TYPE_OUTPOST_ALDMERI_DOMINION: number
+declare const MAP_PIN_TYPE_OUTPOST_DAGGERFALL_COVENANT: number
+declare const MAP_PIN_TYPE_OUTPOST_EBONHEART_PACT: number
+declare const MAP_PIN_TYPE_OUTPOST_GRAVEYARD_ACCESSIBLE: number
+declare const MAP_PIN_TYPE_OUTPOST_NEUTRAL: number
+declare const MAP_PIN_TYPE_PING: number
+declare const MAP_PIN_TYPE_PLAYER: number
+declare const MAP_PIN_TYPE_PLAYER_CAMERA: number
+declare const MAP_PIN_TYPE_PLAYER_WAYPOINT: number
+declare const MAP_PIN_TYPE_POI_COMPLETE: number
+declare const MAP_PIN_TYPE_POI_SEEN: number
+declare const MAP_PIN_TYPE_POI_SUGGESTED: number
+declare const MAP_PIN_TYPE_QUEST_COMPLETE: number
+declare const MAP_PIN_TYPE_QUEST_CONDITION: number
+declare const MAP_PIN_TYPE_QUEST_ENDING: number
+declare const MAP_PIN_TYPE_QUEST_GIVE_ITEM: number
+declare const MAP_PIN_TYPE_QUEST_INTERACT: number
+declare const MAP_PIN_TYPE_QUEST_OFFER: number
+declare const MAP_PIN_TYPE_QUEST_OFFER_REPEATABLE: number
+declare const MAP_PIN_TYPE_QUEST_OFFER_ZONE_STORY: number
+declare const MAP_PIN_TYPE_QUEST_OPTIONAL_CONDITION: number
+declare const MAP_PIN_TYPE_QUEST_PING: number
+declare const MAP_PIN_TYPE_QUEST_REPEATABLE_CONDITION: number
+declare const MAP_PIN_TYPE_QUEST_REPEATABLE_ENDING: number
+declare const MAP_PIN_TYPE_QUEST_REPEATABLE_OPTIONAL_CONDITION: number
+declare const MAP_PIN_TYPE_QUEST_TALK_TO: number
+declare const MAP_PIN_TYPE_QUEST_ZONE_STORY_CONDITION: number
+declare const MAP_PIN_TYPE_QUEST_ZONE_STORY_ENDING: number
+declare const MAP_PIN_TYPE_QUEST_ZONE_STORY_OPTIONAL_CONDITION: number
+declare const MAP_PIN_TYPE_RALLY_POINT: number
+declare const MAP_PIN_TYPE_RESPAWN_BORDER_KEEP_ACCESSIBLE: number
+declare const MAP_PIN_TYPE_RESTRICTED_LINK_ALDMERI_DOMINION: number
+declare const MAP_PIN_TYPE_RESTRICTED_LINK_DAGGERFALL_COVENANT: number
+declare const MAP_PIN_TYPE_RESTRICTED_LINK_EBONHEART_PACT: number
+declare const MAP_PIN_TYPE_RETURN_ALDMERI_DOMINION: number
+declare const MAP_PIN_TYPE_RETURN_DAGGERFALL_COVENANT: number
+declare const MAP_PIN_TYPE_RETURN_EBONHEART_PACT: number
+declare const MAP_PIN_TYPE_RETURN_NEUTRAL: number
+declare const MAP_PIN_TYPE_SKYSHARD_COMPLETE: number
+declare const MAP_PIN_TYPE_SKYSHARD_SEEN: number
+declare const MAP_PIN_TYPE_SKYSHARD_SUGGESTED: number
+declare const MAP_PIN_TYPE_TARGET_MARKER_TYPE_EIGHT: number
+declare const MAP_PIN_TYPE_TARGET_MARKER_TYPE_FIVE: number
+declare const MAP_PIN_TYPE_TARGET_MARKER_TYPE_FOUR: number
+declare const MAP_PIN_TYPE_TARGET_MARKER_TYPE_ONE: number
+declare const MAP_PIN_TYPE_TARGET_MARKER_TYPE_SEVEN: number
+declare const MAP_PIN_TYPE_TARGET_MARKER_TYPE_SIX: number
+declare const MAP_PIN_TYPE_TARGET_MARKER_TYPE_THREE: number
+declare const MAP_PIN_TYPE_TARGET_MARKER_TYPE_TWO: number
+declare const MAP_PIN_TYPE_TIMELY_ESCAPE_NPC: number
+declare const MAP_PIN_TYPE_TRACKED_ANTIQUITY_DIG_SITE: number
+declare const MAP_PIN_TYPE_TRACKED_QUEST_CONDITION: number
+declare const MAP_PIN_TYPE_TRACKED_QUEST_ENDING: number
+declare const MAP_PIN_TYPE_TRACKED_QUEST_OFFER_ZONE_STORY: number
+declare const MAP_PIN_TYPE_TRACKED_QUEST_OPTIONAL_CONDITION: number
+declare const MAP_PIN_TYPE_TRACKED_QUEST_REPEATABLE_CONDITION: number
+declare const MAP_PIN_TYPE_TRACKED_QUEST_REPEATABLE_ENDING: number
+declare const MAP_PIN_TYPE_TRACKED_QUEST_REPEATABLE_OPTIONAL_CONDITION: number
+declare const MAP_PIN_TYPE_TRACKED_QUEST_ZONE_STORY_CONDITION: number
+declare const MAP_PIN_TYPE_TRACKED_QUEST_ZONE_STORY_ENDING: number
+declare const MAP_PIN_TYPE_TRACKED_QUEST_ZONE_STORY_OPTIONAL_CONDITION: number
+declare const MAP_PIN_TYPE_TRAINER: number
+declare const MAP_PIN_TYPE_TRI_BATTLE_LARGE: number
+declare const MAP_PIN_TYPE_TRI_BATTLE_MEDIUM: number
+declare const MAP_PIN_TYPE_TRI_BATTLE_SMALL: number
+declare const MAP_PIN_TYPE_UNIT_COMBAT_HEALTHY: number
+declare const MAP_PIN_TYPE_UNIT_COMBAT_WEAK: number
+declare const MAP_PIN_TYPE_UNIT_IDLE_HEALTHY: number
+declare const MAP_PIN_TYPE_UNIT_IDLE_WEAK: number
+declare const MAP_PIN_TYPE_VENDOR: number
+declare const MAP_PIN_TYPE_WORLD_EVENT_MAP_LOCATION_ACTIVE: number
+declare const MAP_PIN_TYPE_WORLD_EVENT_POI_ACTIVE: number
+declare const MAP_PIN_TYPE_ZONE_STORY_SUGGESTED_AREA: number
+
+// MapDisplayType
+type MapDisplayType = number
+declare const MAP_TYPE_COUNT: number
+declare const MAP_TYPE_LOCATION_CENTERED: number
+declare const MAP_TYPE_PLAYER_CENTERED: number
+
+// ModifyTextType
+type ModifyTextType = number
+declare const MODIFY_TEXT_TYPE_NONE: number
+declare const MODIFY_TEXT_TYPE_UPPERCASE: number
+
+// MouseCursorType
+type MouseCursorType = number
+declare const MOUSE_CURSOR_CHAMPION_COMBAT_STAR: number
+declare const MOUSE_CURSOR_CHAMPION_CONDITIONING_STAR: number
+declare const MOUSE_CURSOR_CHAMPION_WORLD_STAR: number
+declare const MOUSE_CURSOR_DEFAULT_CURSOR: number
+declare const MOUSE_CURSOR_DO_NOT_CARE: number
+declare const MOUSE_CURSOR_ERASE: number
+declare const MOUSE_CURSOR_FILL: number
+declare const MOUSE_CURSOR_FILL_MULTIPLE: number
+declare const MOUSE_CURSOR_ICON: number
+declare const MOUSE_CURSOR_NEXT_LEFT: number
+declare const MOUSE_CURSOR_NEXT_RIGHT: number
+declare const MOUSE_CURSOR_PAINT: number
+declare const MOUSE_CURSOR_PAN: number
+declare const MOUSE_CURSOR_PREVIEW: number
+declare const MOUSE_CURSOR_RESIZE_EW: number
+declare const MOUSE_CURSOR_RESIZE_NESW: number
+declare const MOUSE_CURSOR_RESIZE_NS: number
+declare const MOUSE_CURSOR_RESIZE_NWSE: number
+declare const MOUSE_CURSOR_ROTATE: number
+declare const MOUSE_CURSOR_SAMPLE: number
+declare const MOUSE_CURSOR_UI_HAND: number
+
+// ReleaseReferenceOptions
+type ReleaseReferenceOptions = number
+declare const KEEP_TEXTURE_AT_ZERO_REFERENCES: number
+declare const RELEASE_TEXTURE_AT_ZERO_REFERENCES: number
+
+// ScrollBounding
+type ScrollBounding = number
+declare const SCROLL_BOUNDING_BOUND: number
+declare const SCROLL_BOUNDING_CONTAINED: number
+declare const SCROLL_BOUNDING_DEFAULT: number
+declare const SCROLL_BOUNDING_UNBOUND: number
+
+// Space
+type Space = number
+declare const SPACE_CAMERA: number
+declare const SPACE_INTERFACE: number
+declare const SPACE_WORLD: number
+
+// TextAlignment
+type TextAlignment = number
+declare const TEXT_ALIGN_BOTTOM: number
+declare const TEXT_ALIGN_CENTER: number
+declare const TEXT_ALIGN_LEFT: number
+declare const TEXT_ALIGN_RIGHT: number
+declare const TEXT_ALIGN_TOP: number
+
+// TextType
+type TextType = number
+declare const TEXT_TYPE_ALL: number
+declare const TEXT_TYPE_ALPHABETIC: number
+declare const TEXT_TYPE_ALPHABETIC_NO_FULLWIDTH_LATIN: number
+declare const TEXT_TYPE_NUMERIC: number
+declare const TEXT_TYPE_NUMERIC_UNSIGNED_INT: number
+declare const TEXT_TYPE_PASSWORD: number
+
+// TextWrapMode
+type TextWrapMode = number
+declare const TEXT_WRAP_MODE_ELLIPSIS: number
+declare const TEXT_WRAP_MODE_TRUNCATE: number
+
+// TextureAddressMode
+type TextureAddressMode = number
+declare const TEX_MODE_CLAMP: number
+declare const TEX_MODE_WRAP: number
+
+// TextureBlendMode
+type TextureBlendMode = number
+declare const TEX_BLEND_MODE_ADD: number
+declare const TEX_BLEND_MODE_ALPHA: number
+declare const TEX_BLEND_MODE_COLOR_DODGE: number
+
+// TooltipHeaderSide
+type TooltipHeaderSide = number
+declare const TOOLTIP_HEADER_SIDE_LEFT: number
+declare const TOOLTIP_HEADER_SIDE_RIGHT: number
+
+// Unit
+type Unit = number
+declare const UNIT_AUTO: number
+declare const UNIT_CENTIMETERS: number
+declare const UNIT_EXPRESSION: number
+declare const UNIT_METERS: number
+declare const UNIT_NATIVE: number
+declare const UNIT_PERCENT: number
+declare const UNIT_PIXELS: number
+declare const UNIT_UI: number
+
+declare const LOOP_INDEFINITELY: number
+declare const COMPASS_PIN_INHERIT_MAX_DISTANCE: number
+declare const COMPASS_PIN_NO_MAX_DISTANCE: number
+declare const KEYBOARD_CUSTOM_UI_SCALE_LOWER_BOUND: number
+declare const KEYBOARD_CUSTOM_UI_SCALE_UPPER_BOUND: number
+declare const GAMEPAD_CUSTOM_UI_SCALE_LOWER_BOUND: number
+declare const GAMEPAD_CUSTOM_UI_SCALE_UPPER_BOUND: number
+declare const IME_UNDERLINE_THICKNESS_PIXELS: number
+declare const MAX_ANCHORS: number
+
+// GamepadType
+type GamepadType = number
+declare const GAMEPAD_TYPE_DEPRECATED: number
+declare const GAMEPAD_TYPE_NONE: number
+declare const GAMEPAD_TYPE_PS4: number
+declare const GAMEPAD_TYPE_PS5: number
+declare const GAMEPAD_TYPE_STADIA: number
+declare const GAMEPAD_TYPE_SWITCH: number
+declare const GAMEPAD_TYPE_XBOX: number
+declare const GAMEPAD_TYPE_XBSX: number
+
+// KeyCode
+type KeyCode = number
+declare const KEY_0: number
+declare const KEY_1: number
+declare const KEY_2: number
+declare const KEY_3: number
+declare const KEY_4: number
+declare const KEY_5: number
+declare const KEY_6: number
+declare const KEY_7: number
+declare const KEY_8: number
+declare const KEY_9: number
+declare const KEY_A: number
+declare const KEY_ALT: number
+declare const KEY_B: number
+declare const KEY_BACKSPACE: number
+declare const KEY_C: number
+declare const KEY_CAPSLOCK: number
+declare const KEY_COMMAND: number
+declare const KEY_CTRL: number
+declare const KEY_D: number
+declare const KEY_DELETE: number
+declare const KEY_DOWNARROW: number
+declare const KEY_E: number
+declare const KEY_END: number
+declare const KEY_ENTER: number
+declare const KEY_ESCAPE: number
+declare const KEY_F: number
+declare const KEY_F1: number
+declare const KEY_F10: number
+declare const KEY_F11: number
+declare const KEY_F12: number
+declare const KEY_F13: number
+declare const KEY_F14: number
+declare const KEY_F15: number
+declare const KEY_F16: number
+declare const KEY_F17: number
+declare const KEY_F18: number
+declare const KEY_F19: number
+declare const KEY_F2: number
+declare const KEY_F20: number
+declare const KEY_F21: number
+declare const KEY_F22: number
+declare const KEY_F23: number
+declare const KEY_F24: number
+declare const KEY_F3: number
+declare const KEY_F4: number
+declare const KEY_F5: number
+declare const KEY_F6: number
+declare const KEY_F7: number
+declare const KEY_F8: number
+declare const KEY_F9: number
+declare const KEY_G: number
+declare const KEY_GAMEPAD_BACK: number
+declare const KEY_GAMEPAD_BACK_HOLD: number
+declare const KEY_GAMEPAD_BOTH_BACK_START: number
+declare const KEY_GAMEPAD_BOTH_BUTTON_1_BUTTON_4: number
+declare const KEY_GAMEPAD_BOTH_BUTTON_2_BUTTON_3: number
+declare const KEY_GAMEPAD_BOTH_BUTTON_2_BUTTON_4: number
+declare const KEY_GAMEPAD_BOTH_DPAD_RIGHT_BUTTON_2: number
+declare const KEY_GAMEPAD_BOTH_LEFT_SHOULDER_BUTTON_1: number
+declare const KEY_GAMEPAD_BOTH_LEFT_SHOULDER_BUTTON_2: number
+declare const KEY_GAMEPAD_BOTH_LEFT_SHOULDER_BUTTON_3: number
+declare const KEY_GAMEPAD_BOTH_LEFT_SHOULDER_BUTTON_4: number
+declare const KEY_GAMEPAD_BOTH_LEFT_SHOULDER_DPAD_LEFT: number
+declare const KEY_GAMEPAD_BOTH_LEFT_SHOULDER_LEFT_STICK: number
+declare const KEY_GAMEPAD_BOTH_LEFT_SHOULDER_RIGHT_STICK: number
+declare const KEY_GAMEPAD_BOTH_LEFT_TRIGGER_BUTTON_1: number
+declare const KEY_GAMEPAD_BOTH_RIGHT_SHOULDER_BUTTON_1: number
+declare const KEY_GAMEPAD_BOTH_RIGHT_SHOULDER_BUTTON_2: number
+declare const KEY_GAMEPAD_BOTH_RIGHT_SHOULDER_BUTTON_3: number
+declare const KEY_GAMEPAD_BOTH_RIGHT_SHOULDER_BUTTON_4: number
+declare const KEY_GAMEPAD_BOTH_SHOULDERS: number
+declare const KEY_GAMEPAD_BOTH_STICKS: number
+declare const KEY_GAMEPAD_BOTH_TOUCHPAD_START: number
+declare const KEY_GAMEPAD_BUTTON_1: number
+declare const KEY_GAMEPAD_BUTTON_1_HOLD: number
+declare const KEY_GAMEPAD_BUTTON_2: number
+declare const KEY_GAMEPAD_BUTTON_2_HOLD: number
+declare const KEY_GAMEPAD_BUTTON_3: number
+declare const KEY_GAMEPAD_BUTTON_3_HOLD: number
+declare const KEY_GAMEPAD_BUTTON_4: number
+declare const KEY_GAMEPAD_BUTTON_4_HOLD: number
+declare const KEY_GAMEPAD_DPAD_DOWN: number
+declare const KEY_GAMEPAD_DPAD_DOWN_HOLD: number
+declare const KEY_GAMEPAD_DPAD_LEFT: number
+declare const KEY_GAMEPAD_DPAD_LEFT_HOLD: number
+declare const KEY_GAMEPAD_DPAD_RIGHT: number
+declare const KEY_GAMEPAD_DPAD_RIGHT_HOLD: number
+declare const KEY_GAMEPAD_DPAD_UP: number
+declare const KEY_GAMEPAD_DPAD_UP_HOLD: number
+declare const KEY_GAMEPAD_LEFT_SHOULDER: number
+declare const KEY_GAMEPAD_LEFT_SHOULDER_HOLD: number
+declare const KEY_GAMEPAD_LEFT_STICK: number
+declare const KEY_GAMEPAD_LEFT_STICK_HOLD: number
+declare const KEY_GAMEPAD_LEFT_TRIGGER: number
+declare const KEY_GAMEPAD_LEFT_TRIGGER_HOLD: number
+declare const KEY_GAMEPAD_LEFT_TRIGGER_THEN_RIGHT_TRIGGER: number
+declare const KEY_GAMEPAD_LSTICK_DOWN: number
+declare const KEY_GAMEPAD_LSTICK_LEFT: number
+declare const KEY_GAMEPAD_LSTICK_RIGHT: number
+declare const KEY_GAMEPAD_LSTICK_UP: number
+declare const KEY_GAMEPAD_RIGHT_SHOULDER: number
+declare const KEY_GAMEPAD_RIGHT_SHOULDER_HOLD: number
+declare const KEY_GAMEPAD_RIGHT_STICK: number
+declare const KEY_GAMEPAD_RIGHT_STICK_HOLD: number
+declare const KEY_GAMEPAD_RIGHT_TRIGGER: number
+declare const KEY_GAMEPAD_RIGHT_TRIGGER_HOLD: number
+declare const KEY_GAMEPAD_RSTICK_DOWN: number
+declare const KEY_GAMEPAD_RSTICK_LEFT: number
+declare const KEY_GAMEPAD_RSTICK_RIGHT: number
+declare const KEY_GAMEPAD_RSTICK_UP: number
+declare const KEY_GAMEPAD_START: number
+declare const KEY_GAMEPAD_START_HOLD: number
+declare const KEY_GAMEPAD_TOUCHPAD_HOLD: number
+declare const KEY_GAMEPAD_TOUCHPAD_PRESSED: number
+declare const KEY_GAMEPAD_TOUCHPAD_SWIPE_DOWN: number
+declare const KEY_GAMEPAD_TOUCHPAD_SWIPE_LEFT: number
+declare const KEY_GAMEPAD_TOUCHPAD_SWIPE_RIGHT: number
+declare const KEY_GAMEPAD_TOUCHPAD_SWIPE_UP: number
+declare const KEY_GAMEPAD_TOUCHPAD_TOUCHED: number
+declare const KEY_H: number
+declare const KEY_HOME: number
+declare const KEY_I: number
+declare const KEY_INSERT: number
+declare const KEY_INVALID: number
+declare const KEY_J: number
+declare const KEY_K: number
+declare const KEY_L: number
+declare const KEY_LEFTARROW: number
+declare const KEY_LWINDOWS: number
+declare const KEY_M: number
+declare const KEY_MOUSEWHEEL_DOWN: number
+declare const KEY_MOUSEWHEEL_UP: number
+declare const KEY_MOUSE_4: number
+declare const KEY_MOUSE_5: number
+declare const KEY_MOUSE_LEFT: number
+declare const KEY_MOUSE_LEFTRIGHT: number
+declare const KEY_MOUSE_MIDDLE: number
+declare const KEY_MOUSE_RIGHT: number
+declare const KEY_N: number
+declare const KEY_NUMLOCK: number
+declare const KEY_NUMPAD0: number
+declare const KEY_NUMPAD1: number
+declare const KEY_NUMPAD2: number
+declare const KEY_NUMPAD3: number
+declare const KEY_NUMPAD4: number
+declare const KEY_NUMPAD5: number
+declare const KEY_NUMPAD6: number
+declare const KEY_NUMPAD7: number
+declare const KEY_NUMPAD8: number
+declare const KEY_NUMPAD9: number
+declare const KEY_NUMPAD_ADD: number
+declare const KEY_NUMPAD_DOT: number
+declare const KEY_NUMPAD_ENTER: number
+declare const KEY_NUMPAD_MINUS: number
+declare const KEY_NUMPAD_SLASH: number
+declare const KEY_NUMPAD_STAR: number
+declare const KEY_O: number
+declare const KEY_OEM_102_GERMAN_LESS_THAN: number
+declare const KEY_OEM_1_SEMICOLON: number
+declare const KEY_OEM_2_FORWARD_SLASH: number
+declare const KEY_OEM_3_TICK: number
+declare const KEY_OEM_4_LEFT_SQUARE_BRACKET: number
+declare const KEY_OEM_5_BACK_SLASH: number
+declare const KEY_OEM_6_RIGHT_SQUARE_BRACKET: number
+declare const KEY_OEM_7_SINGLE_QUOTE: number
+declare const KEY_OEM_8_BACK_TICK: number
+declare const KEY_OEM_COMMA: number
+declare const KEY_OEM_MINUS: number
+declare const KEY_OEM_PERIOD: number
+declare const KEY_OEM_PLUS: number
+declare const KEY_P: number
+declare const KEY_PAGEDOWN: number
+declare const KEY_PAGEUP: number
+declare const KEY_PAUSE: number
+declare const KEY_PRINTSCREEN: number
+declare const KEY_Q: number
+declare const KEY_R: number
+declare const KEY_RIGHTARROW: number
+declare const KEY_RWINDOWS: number
+declare const KEY_S: number
+declare const KEY_SCROLLLOCK: number
+declare const KEY_SHIFT: number
+declare const KEY_SPACEBAR: number
+declare const KEY_T: number
+declare const KEY_TAB: number
+declare const KEY_U: number
+declare const KEY_UPARROW: number
+declare const KEY_V: number
+declare const KEY_W: number
+declare const KEY_X: number
+declare const KEY_Y: number
+declare const KEY_Z: number
+
+// MouseButtonIndex
+type MouseButtonIndex = number
+declare const MOUSE_BUTTON_INDEX_BUTTON_4: number
+declare const MOUSE_BUTTON_INDEX_BUTTON_5: number
+declare const MOUSE_BUTTON_INDEX_INVALID: number
+declare const MOUSE_BUTTON_INDEX_LEFT: number
+declare const MOUSE_BUTTON_INDEX_LEFT_AND_RIGHT: number
+declare const MOUSE_BUTTON_INDEX_MIDDLE: number
+declare const MOUSE_BUTTON_INDEX_RIGHT: number
+
+// VirtualKeyboardType
+type VirtualKeyboardType = number
+declare const VIRTUAL_KEYBOARD_TYPE_DEFAULT: number
+declare const VIRTUAL_KEYBOARD_TYPE_EMAIL: number
+
+// ScriptProfilerRecordDataType
+type ScriptProfilerRecordDataType = number
+declare const SCRIPT_PROFILER_RECORD_DATA_TYPE_CFUNCTION: number
+declare const SCRIPT_PROFILER_RECORD_DATA_TYPE_CLOSURE: number
+declare const SCRIPT_PROFILER_RECORD_DATA_TYPE_GARBAGE_COLLECTION: number
+declare const SCRIPT_PROFILER_RECORD_DATA_TYPE_INVALID: number
+declare const SCRIPT_PROFILER_RECORD_DATA_TYPE_USER_EVENT: number
+
+// FullscreenMode
+type FullscreenMode = number
+declare const FULLSCREEN_MODE_FULLSCREEN_EXCLUSIVE: number
+declare const FULLSCREEN_MODE_FULLSCREEN_WINDOWED: number
+declare const FULLSCREEN_MODE_WINDOWED: number
+
+declare const ACCOUNT_NAME_MAX_LENGTH: number
+declare const ACCOUNT_NAME_MIN_LENGTH: number
+declare const CHARNAME_MIN_LENGTH: number
+declare const DECORATED_DISPLAY_NAME_MAX_LENGTH: number
+declare const DISPLAY_NAME_PREFIX_BYTE: number
+
+declare const VOICE_CHAT_OFFICERS_ROOM_NUMBER: number
+declare const VOICE_CHAT_REQUEST_DELAY: number

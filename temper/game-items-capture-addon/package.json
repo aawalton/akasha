@@ -1,0 +1,21 @@
+{
+  "name": "@temper/game-items-capture-addon",
+  "functionalType": "addon",
+  "version": "0.1.0",
+  "type": "module",
+  "private": true,
+  "exports": {
+    "./*": "./src/*.ts"
+  },
+  "dependencies": {
+    "@temper/catalog-core": "workspace:*",
+    "@temper/game-items-capture-core": "workspace:*",
+    "@temper/shared-capture-core": "workspace:*"
+  },
+  "scripts": {
+    "typecheck": "bunx @typescript/native-preview --noEmit -p tsconfig.json"
+  },
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  }
+}

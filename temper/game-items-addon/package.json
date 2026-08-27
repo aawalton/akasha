@@ -1,0 +1,29 @@
+{
+  "name": "@temper/game-items-addon",
+  "dependencies": {
+    "@shared/design-tokens": "workspace:*",
+    "@temper/game-characters-capture-addon": "workspace:*",
+    "@temper/game-characters-skill-lines": "workspace:*",
+    "@temper/game-characters-skills-morphs-core": "workspace:*",
+    "@temper/game-items-core": "workspace:*",
+    "@temper/game-items-filters-addon": "workspace:*",
+    "@temper/game-items-filters-core": "workspace:*",
+    "@temper/game-items-rules-core": "workspace:*",
+    "@temper/game-items-rules-eval": "workspace:*",
+    "@temper/game-items-rules-routing-core": "workspace:*",
+    "@temper/game-trading-post-addon": "workspace:*",
+    "@temper/shared-interface-hud-window": "workspace:*",
+    "@temper/shared-narrow": "workspace:*"
+  },
+  "devDependencies": {
+    "typescript": "^5.8.3",
+    "@shared/utils-narrow": "workspace:*",
+    "zod": "^4.3.6"
+  },
+  "functionalType": "addon",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "typecheck": "bunx @typescript/native-preview --noEmit -p tsconfig.json"
+  }
+}

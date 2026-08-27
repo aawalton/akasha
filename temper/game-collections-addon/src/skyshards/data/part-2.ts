@@ -1,0 +1,122 @@
+import type { SkyshardPin } from "./types"
+
+export const auridon__khenarthisroost_base = [
+  [0.5893, 0.8093, 431, 1],
+  [0.537, 0.7, 431, 2],
+  [0.1628, 0.5554, 431, 3],
+  [0.6827, 0.5788, 431, 4],
+  [0.4294, 0.4062, 431, 5, 1],
+  [0.2809, 0.3642, 431, 6],
+] satisfies readonly SkyshardPin[]
+
+export const auridon__mehrunesspite_base = [
+  [0.694, 0.256, 695, 13],
+] satisfies readonly SkyshardPin[]
+
+export const auridon__mistral_base = [[0.1479, 0.3446, 431, 5]] satisfies readonly SkyshardPin[]
+
+export const auridon__ondil_base = [[0.835, 0.624, 695, 14]] satisfies readonly SkyshardPin[]
+
+export const auridon__skywatch_base = [[0.5469, 0.5537, 695, 4]] satisfies readonly SkyshardPin[]
+
+export const auridon__toothmaulgully_base = [
+  [0.635, 0.669, 695, 16],
+] satisfies readonly SkyshardPin[]
+
+export const auridon__vulkhelguard_base = [[0.3965, 0.405, 695, 1]] satisfies readonly SkyshardPin[]
+
+export const auridon__wansalen_base = [[0.2766, 0.5446, 695, 15]] satisfies readonly SkyshardPin[]
+
+export const bangkorai__bangkorai_base = [
+  [0.387, 0.39, 557, 1, 1],
+  [0.582, 0.248, 557, 2],
+  [0.602, 0.096, 557, 3],
+  [0.56, 0.476, 557, 4],
+  [0.377, 0.448, 557, 5],
+  [0.539, 0.332, 557, 6],
+  [0.465, 0.83, 557, 7],
+  [0.358, 0.59, 557, 8],
+  [0.63, 0.725, 557, 9],
+  [0.454, 0.504, 557, 10, 2],
+  [0.557, 0.752, 557, 11, 2],
+  [0.332, 0.27, 557, 12, 2],
+  [0.246, 0.66, 557, 13, 2],
+  [0.712, 0.198, 557, 14, 2],
+  [0.647, 0.421, 557, 15, 2],
+  [0.233, 0.899, 557, 16, 3],
+] satisfies readonly SkyshardPin[]
+
+export const bangkorai__cryptoftheexiles_base = [
+  [0.678, 0.342, 557, 10],
+] satisfies readonly SkyshardPin[]
+
+export const bangkorai__evermore_base = [[0.355, 0.68, 557, 1]] satisfies readonly SkyshardPin[]
+
+export const bangkorai__jaggerjaw_base = [[0.532, 0.826, 557, 11]] satisfies readonly SkyshardPin[]
+
+export const bangkorai__murciensclaim_base = [
+  [0.188, 0.237, 557, 12],
+] satisfies readonly SkyshardPin[]
+
+export const bangkorai__razakswheel_base = [[0.69, 0.45, 557, 16]] satisfies readonly SkyshardPin[]
+
+export const bangkorai__rubblebutte_base = [
+  [0.656, 0.857, 557, 13],
+] satisfies readonly SkyshardPin[]
+
+export const bangkorai__trollstoothpick_base = [
+  [0.656, 0.334, 557, 14],
+] satisfies readonly SkyshardPin[]
+
+export const bangkorai__viridianwatch_base = [
+  [0.119, 0.333, 557, 15],
+] satisfies readonly SkyshardPin[]
+
+export const blackwood__arpeniah2_base = [
+  [0.8571971654, 0.4462825655, 2982, 16, 2],
+] satisfies readonly SkyshardPin[]
+
+export const blackwood__arpeniah_base = [
+  [0.8571971654, 0.4462825655, 2982, 16, 2],
+] satisfies readonly SkyshardPin[]
+
+export const blackwood__arpenial3_base = [
+  [0.8571971654, 0.4462825655, 2982, 16, 2],
+] satisfies readonly SkyshardPin[]
+
+export const blackwood__arpenial_base = [
+  [0.8571971654, 0.4462825655, 2982, 16, 2],
+] satisfies readonly SkyshardPin[]
+
+export const blackwood__blackwood_base = [
+  [0.2936, 0.6413, 2982, 1],
+  [0.7032, 0.9111, 2982, 2],
+  [0.1641, 0.4476, 2982, 3],
+  [0.3023, 0.2263, 2982, 4],
+  [0.7533, 0.363, 2982, 5],
+  [0.5809, 0.1822, 2982, 6],
+  [0.537, 0.4571, 2982, 7],
+  [0.8137, 0.7067, 2982, 8],
+  [0.5887, 0.7653, 2982, 9],
+  [0.4674, 0.5632, 2982, 10],
+  [0.5772, 0.6437, 2982, 11, 3],
+  [0.4584, 0.3125, 2982, 12, 3],
+  [0.5481, 0.7722, 2982, 13, 2],
+  [0.2071, 0.5011, 2982, 14, 2],
+  [0.7404, 0.5157, 2982, 15, 2],
+  [0.3696, 0.2596, 2982, 16, 2],
+  [0.6411, 0.1772, 2982, 17, 2],
+  [0.8397, 0.6944, 2982, 18, 2],
+] satisfies readonly SkyshardPin[]
+
+export const blackwood__u30_bloodruncave_base = [
+  [0.537, 0.2982, 2982, 17, 2],
+] satisfies readonly SkyshardPin[]
+
+export const blackwood__u30_silenthalls_ext02_base = [
+  [0.4526678025, 0.734939754, 2982, 11, 3],
+] satisfies readonly SkyshardPin[]
+
+export const blackwood__u30_undertowcavern_base = [
+  [0.5237, 0.4037, 2982, 14, 2],
+] satisfies readonly SkyshardPin[]

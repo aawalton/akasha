@@ -1,0 +1,166 @@
+{
+  "extends": "../../tsconfig.base.json",
+  "compilerOptions": {
+    "jsx": "react-jsx",
+    "lib": [
+      "dom",
+      "dom.iterable",
+      "esnext"
+    ],
+    "types": [
+      "@types/bun",
+      "node",
+      "vite/client"
+    ],
+    "rootDirs": [
+      ".",
+      "./.react-router/types"
+    ],
+    "paths": {
+      "@/*": [
+        "./*"
+      ],
+      "~/*": [
+        "./app/*"
+      ]
+    },
+    "composite": true,
+    "emitDeclarationOnly": true
+  },
+  "references": [
+    {
+      "path": "../awen-core"
+    },
+    {
+      "path": "../chess"
+    },
+    {
+      "path": "../health-samples-access"
+    },
+    {
+      "path": "../../collections/litrpg"
+    },
+    {
+      "path": "../sms-access"
+    },
+    {
+      "path": "../sms-core"
+    },
+    {
+      "path": "../voice-core"
+    },
+    {
+      "path": "../../infra/k8s-types"
+    },
+    {
+      "path": "../../shared/design-layout"
+    },
+    {
+      "path": "../../shared/design-patterns"
+    },
+    {
+      "path": "../../shared/design-primitives"
+    },
+    {
+      "path": "../../shared/design-system"
+    },
+    {
+      "path": "../../shared/errors-client"
+    },
+    {
+      "path": "../../shared/errors-core"
+    },
+    {
+      "path": "../../shared/open-questions"
+    },
+    {
+      "path": "../../shared/notifications"
+    },
+    {
+      "path": "../../shared/monarch-categorization-access"
+    },
+    {
+      "path": "../../shared/pages-access"
+    },
+    {
+      "path": "../../shared/pages-core"
+    },
+    {
+      "path": "../../shared/pages-ui"
+    },
+    {
+      "path": "../../shared/pages-ui-store"
+    },
+    {
+      "path": "../../shared/pages-url"
+    },
+    {
+      "path": "../../shared/person-access"
+    },
+    {
+      "path": "../../shared/person-enrolment"
+    },
+    {
+      "path": "../../shared/recurrence"
+    },
+    {
+      "path": "../../shared/status-bar-access"
+    },
+    {
+      "path": "../../shared/supabase-auth"
+    },
+    {
+      "path": "../../shared/supabase-database"
+    },
+    {
+      "path": "../../shared/supabase-rr"
+    },
+    {
+      "path": "../../shared/supabase-server"
+    },
+    {
+      "path": "../../shared/utils-narrow"
+    },
+    {
+      "path": "../../shared/utils-sync"
+    },
+    {
+      "path": "../../shared/web-security-headers"
+    },
+    {
+      "path": "../../shared/web-static-assets"
+    },
+    {
+      "path": "../../shared/utils-test"
+    },
+    {
+      "path": "../../shared/object-store"
+    },
+    {
+      "path": "../../shared/pages-query"
+    }
+  ],
+  "include": [
+    "app/**/*.ts",
+    "app/**/*.tsx",
+    "app-capacitor/**/*.ts",
+    "app-capacitor/**/*.tsx",
+    ".react-router/types/**/*.ts",
+    ".react-router/types/**/*.tsx",
+    ".react-router/types/**/+types/*.ts",
+    "server.ts",
+    "vite.config.ts",
+    "react-router.config.ts",
+    "deploy/k8s/**/*.ts",
+    "foundation.workflow.ts",
+    "apps.workflow.ts",
+    "tunnel-routes.ts"
+  ],
+  "exclude": [
+    "node_modules",
+    "dist",
+    "build",
+    "app-capacitor/build",
+    "app-capacitor/.react-router"
+  ]
+}

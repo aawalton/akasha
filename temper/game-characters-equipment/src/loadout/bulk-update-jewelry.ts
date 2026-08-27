@@ -1,0 +1,97 @@
+import type { JewelryEnchantId } from "../enchants/jewelry-enchants-data"
+import { jewelrySlots } from "../jewelry/jewelry-slots-data"
+import type { EquipmentQualityOptionId } from "../quality-data"
+import { isSetValidForSlot } from "../sets/pattern-matcher"
+import type { SetsAll, SetsAllId } from "../sets/sets-all-data"
+import type { JewelryTraitId } from "../traits/jewelry-traits-data"
+import type { Loadout } from "./loadout-types"
+
+export function bulkUpdateJewelryTrait(
+  equipment: Loadout,
+  oldValue: JewelryTraitId,
+  newValue: JewelryTraitId
+): Partial<Loadout> {
+  const newJewelry = { ...equipment.jewelry }
+  for (const slotConfig of jewelrySlots.list) {
+    const item = newJewelry[slotConfig.id]
+    if (item.itemType === "jewelry") {
+      const currentTrait = item.data.trait
+      if (currentTrait === oldValue) {
+        newJewelry[slotConfig.id] = {
+          itemType: "jewelry",
+          data: { ...item.data, trait: newValue },
+        }
+      }
+    }
+  }
+  return { jewelry: newJewelry }
+}
+
+export function bulkUpdateJewelryEnchant(
+  equipment: Loadout,
+  oldValue: JewelryEnchantId,
+  newValue: JewelryEnchantId
+): Partial<Loadout> {
+  const newJewelry = { ...equipment.jewelry }
+  for (const slotConfig of jewelrySlots.list) {
+    const item = newJewelry[slotConfig.id]
+    if (item.itemType === "jewelry") {
+      const currentEnchant = item.data.enchantment
+      if (currentEnchant === oldValue) {
+        newJewelry[slotConfig.id] = {
+          itemType: "jewelry",
+          data: { ...item.data, enchantment: newValue },
+        }
+      }
+    }
+  }
+  return { jewelry: newJewelry }
+}
+
+export function bulkUpdateJewelrySet(
+  equipment: Loadout,
+  oldValue: SetsAllId,
+  newValue: SetsAllId,
+  availableSets: readonly SetsAll[]
+): Partial<Loadout> {
+  const newJewelry = { ...equipment.jewelry }
+  const newSet = newValue !== "no-set" ? availableSets.find((s) => s.id === newValue) : null
+
+  for (const slotConfig of jewelrySlots.list) {
+    const item = newJewelry[slotConfig.id]
+    if (item.itemType === "jewelry") {
+      const currentSet = item.data.set ?? "no-set"
+      if (currentSet === oldValue) {
+        if (!newSet || isSetValidForSlot(newSet, slotConfig.id, slotConfig.typeId, null)) {
+          newJewelry[slotConfig.id] = {
+            itemType: "jewelry",
+            data: { ...item.data, set: newValue },
+          }
+        }
+      }
+    }
+  }
+  return { jewelry: newJewelry }
+}
+
+export function bulkUpdateJewelryQuality(
+  equipment: Loadout,
+  oldValue: EquipmentQualityOptionId,
+  newValue: EquipmentQualityOptionId
+): Partial<Loadout> {
+  const newJewelry = { ...equipment.jewelry }
+  for (const slotConfig of jewelrySlots.list) {
+    const item = newJewelry[slotConfig.id]
+    if (item.itemType === "jewelry") {
+      const currentQuality = item.data.quality ?? "no-quality"
+      if (currentQuality === "mythic" && oldValue !== "mythic") continue
+      if (currentQuality === oldValue) {
+        newJewelry[slotConfig.id] = {
+          itemType: "jewelry",
+          data: { ...item.data, quality: newValue },
+        }
+      }
+    }
+  }
+  return { jewelry: newJewelry }
+}

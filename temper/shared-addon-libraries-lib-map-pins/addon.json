@@ -1,0 +1,12 @@
+{
+  "name": "LibMapPins-1.0",
+  "title": "LibMapPins",
+  "description": "Library for adding custom pins to the world map (and linked filter checkboxes).",
+  "author": "AlanGaming",
+  "version": "1.0.47",
+  "addonVersion": 10047,
+  "apiVersion": ["101049", "101050"],
+  "savedVariables": [],
+  "dependsOn": [],
+  "optionalDependsOn": []
+}

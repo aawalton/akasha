@@ -1,0 +1,16 @@
+{
+  "name": "LibExtendedJournal",
+  "title": "LibExtendedJournal",
+  "description": "Common framework for addons that provide a UI similar to the in-game journal",
+  "author": "AlanGaming",
+  "version": "2.5.1.1",
+  "addonVersion": 205011,
+  "apiVersion": ["101050"],
+  "savedVariables": ["LibExtendedJournalTooltipColors"],
+  "dependsOn": [],
+  "optionalDependsOn": ["LibAddonMenu-2.0"],
+  "xmlFiles": {
+    "beforeBundle": ["Controls.xml"]
+  },
+  "assets": ["Controls.xml"]
+}

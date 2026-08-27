@@ -1,0 +1,17 @@
+{
+  "name": "TemperCrafting",
+  "title": "Temper Crafting",
+  "description": "Crafting-station interfaces (rune crafting/refining, recipe & furnishing-blueprint tracking, in-station research grid, motif/style knowledge, item marks & tooltips), sourcing crafting knowledge from LibCharacterKnowledge. A Temper-owned fork of CraftStore Fixed and Improved, with CraftStore's duplicated tracking removed.",
+  "author": "AlanGaming",
+  "version": "1.0.0",
+  "addonVersion": 100,
+  "apiVersion": ["101049", "101050", "101051"],
+  "savedVariables": ["TemperCrafting_Account", "TemperCrafting_Character", "TemperPotionMaker_SavedVariables", "WritWorthyVars", "TemperMasterWritInventoryMarker_SavedVariables"],
+  "dependsOn": ["LibCharacterKnowledge>=300040", "LibAddonMenu-2.0>=43", "LibAlchemyStation>=343", "LibAsync>=20100", "LibCustomMenu>=692", "LibMainMenu-2.0>=432", "LibPrice>=70530", "LibSets>=9020", "TemperHud"],
+  "optionalDependsOn": ["TemperCharacters", "ItemSaver", "FCOItemSaver", "MasterMerchant", "TamrielTradeCentre", "LibChatMessage", "MultiCraft", "LibSlashCommander", "LibDebugLogger"],
+  "xmlFiles": {
+    "beforeBundle": ["XML/UI/CraftStore_Font.xml"],
+    "afterBundle": ["XML/UI/CraftStore.xml", "XML/UI/CraftStore_Cook.xml", "XML/UI/CraftStore_Rune.xml", "XML/UI/CraftStore_Style.xml", "XML/UI/CraftStore_Recipe.xml", "XML/UI/CraftStore_Blueprint.xml", "XML/UI/PotionMaker.xml"]
+  },
+  "assets": ["XML/UI/CraftStore_Font.xml", "XML/UI/CraftStore.xml", "XML/UI/CraftStore_Cook.xml", "XML/UI/CraftStore_Rune.xml", "XML/UI/CraftStore_Style.xml", "XML/UI/CraftStore_Recipe.xml", "XML/UI/CraftStore_Blueprint.xml", "XML/UI/PotionMaker.xml", "DDS/cs.dds", "DDS/lmb.dds", "DDS/mmb.dds", "DDS/rmb.dds", "DDS/skyshard.dds", "art/Poison_disabled.dds", "art/Poison_down.dds", "art/Poison_over.dds", "art/Poison_up.dds", "art/griditem_outline.dds", "art/reagent.dds", "art/yes.dds", "art/no.dds"]
+}

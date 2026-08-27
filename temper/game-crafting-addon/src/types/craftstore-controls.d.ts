@@ -1,0 +1,12 @@
+declare const TemperCrafting_CharacterPanelBoxScrollChild: Control
+declare const TemperCrafting_CharacterPanel: Control
+declare const TemperCrafting_PanelButtonCharacters: ButtonControl
+declare const TemperCrafting_CharacterFrame1: Control | undefined
+declare const TemperCrafting_ButtonFrame: Control
+declare const TemperCrafting_ButtonFrameButtonBG: Control
+declare const TemperCrafting_Quest: Control
+declare const TemperCrafting_Panel: Control
+declare const TemperCrafting_PanelButtonCraftedSets: ButtonControl
+declare const TemperCrafting_SetPanel: Control
+declare const TemperCrafting_SetPanelScrollChild: Control
+declare const TemperCrafting_Style: Control

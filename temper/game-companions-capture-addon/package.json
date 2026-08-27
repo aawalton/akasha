@@ -1,0 +1,23 @@
+{
+  "name": "@temper/game-companions-capture-addon",
+  "functionalType": "addon",
+  "version": "0.1.0",
+  "type": "module",
+  "private": true,
+  "exports": {
+    "./companion-equipment": "./src/companion-equipment.ts",
+    "./companion-skills": "./src/companion-skills.ts",
+    "./*": "./src/*.ts"
+  },
+  "scripts": {
+    "typecheck": "bunx @typescript/native-preview --noEmit -p tsconfig.json"
+  },
+  "dependencies": {
+    "@temper/catalog-core": "workspace:*",
+    "@temper/game-companions-capture-core": "workspace:*",
+    "@temper/shared-capture-core": "workspace:*"
+  },
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  }
+}

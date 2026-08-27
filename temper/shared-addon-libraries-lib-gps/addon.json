@@ -1,0 +1,12 @@
+{
+  "name": "LibGPS",
+  "title": "LibGPS",
+  "description": "Provides functions to measure maps and convert between local, global (Tamriel) and world coordinates, with map navigation helpers built on top.",
+  "author": "AlanGaming",
+  "version": "3.3.3",
+  "addonVersion": 73,
+  "apiVersion": ["101045", "101046"],
+  "savedVariables": [],
+  "dependsOn": ["LibMapPing>=900", "LibDebugLogger>=196", "LibChatMessage>=100"],
+  "optionalDependsOn": []
+}

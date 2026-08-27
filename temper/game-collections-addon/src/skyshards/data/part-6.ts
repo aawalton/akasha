@@ -1,0 +1,117 @@
+import type { SkyshardPin } from "./types"
+
+export const cyrodiil__imperialsewer_daggerfall3_base = [
+  [0.4477, 0.3309, 1160, 7],
+  [0.4142, 0.4021, 1160, 8],
+  [0.9, 0.6213, 1160, 9],
+  [0.754, 0.5502, 1160, 10],
+  [0.1977, 0.631, 1160, 11],
+  [0.32, 0.5578, 1160, 12],
+  [0.5252, 0.5487, 1160, 13],
+] satisfies readonly SkyshardPin[]
+
+export const cyrodiil__imperialsewer_ebonheart3_base = [
+  [0.4477, 0.3309, 1160, 7],
+  [0.4142, 0.4021, 1160, 8],
+  [0.9, 0.6213, 1160, 9],
+  [0.754, 0.5502, 1160, 10],
+  [0.1977, 0.631, 1160, 11],
+  [0.32, 0.5578, 1160, 12],
+  [0.5252, 0.5487, 1160, 13],
+] satisfies readonly SkyshardPin[]
+
+export const cyrodiil__imperialsewers_aldmeri1_base = [
+  [0.4477, 0.3309, 1160, 7],
+  [0.4142, 0.4021, 1160, 8],
+  [0.9, 0.6213, 1160, 9],
+  [0.754, 0.5502, 1160, 10],
+  [0.1977, 0.631, 1160, 11],
+  [0.32, 0.5578, 1160, 12],
+  [0.5252, 0.5487, 1160, 13],
+] satisfies readonly SkyshardPin[]
+
+export const cyrodiil__imperialsewers_aldmeri2_base = [
+  [0.4477, 0.3309, 1160, 7],
+  [0.4142, 0.4021, 1160, 8],
+  [0.9, 0.6213, 1160, 9],
+  [0.754, 0.5502, 1160, 10],
+  [0.1977, 0.631, 1160, 11],
+  [0.32, 0.5578, 1160, 12],
+  [0.5252, 0.5487, 1160, 13],
+] satisfies readonly SkyshardPin[]
+
+export const cyrodiil__imperialsewers_aldmeri3_base = [
+  [0.4477, 0.3309, 1160, 7],
+  [0.4142, 0.4021, 1160, 8],
+  [0.9, 0.6213, 1160, 9],
+  [0.754, 0.5502, 1160, 10],
+  [0.1977, 0.631, 1160, 11],
+  [0.32, 0.5578, 1160, 12],
+  [0.5252, 0.5487, 1160, 13],
+] satisfies readonly SkyshardPin[]
+
+export const cyrodiil__imperialsewers_ebon1_base = [
+  [0.4477, 0.3309, 1160, 7],
+  [0.4142, 0.4021, 1160, 8],
+  [0.9, 0.6213, 1160, 9],
+  [0.754, 0.5502, 1160, 10],
+  [0.1977, 0.631, 1160, 11],
+  [0.32, 0.5578, 1160, 12],
+  [0.5252, 0.5487, 1160, 13],
+] satisfies readonly SkyshardPin[]
+
+export const cyrodiil__imperialsewers_ebon2_base = [
+  [0.4477, 0.3309, 1160, 7],
+  [0.4142, 0.4021, 1160, 8],
+  [0.9, 0.6213, 1160, 9],
+  [0.754, 0.5502, 1160, 10],
+  [0.1977, 0.631, 1160, 11],
+  [0.32, 0.5578, 1160, 12],
+  [0.5252, 0.5487, 1160, 13],
+] satisfies readonly SkyshardPin[]
+
+export const cyrodiil__imperialsewershub_base = [
+  [0.4477, 0.3309, 1160, 7],
+  [0.4142, 0.4021, 1160, 8],
+  [0.9, 0.6213, 1160, 9],
+  [0.754, 0.5502, 1160, 10],
+  [0.1977, 0.631, 1160, 11],
+  [0.32, 0.5578, 1160, 12],
+  [0.5252, 0.5487, 1160, 13],
+] satisfies readonly SkyshardPin[]
+
+export const cyrodiil__kingscrest_base = [[0.725, 0.453, 692, 11]] satisfies readonly SkyshardPin[]
+
+export const cyrodiil__lipsandtarn_base = [[0.733, 0.196, 693, 27]] satisfies readonly SkyshardPin[]
+
+export const cyrodiil__muckvalleycavern_base = [
+  [0.1752, 0.6967, 692, 12],
+] satisfies readonly SkyshardPin[]
+
+export const cyrodiil__newtcave_base = [[0.38, 0.324, 692, 13]] satisfies readonly SkyshardPin[]
+
+export const cyrodiil__nisincave_base = [[0.194, 0.723, 694, 43]] satisfies readonly SkyshardPin[]
+
+export const cyrodiil__potholecavern_base = [[0.6, 0.45, 694, 44]] satisfies readonly SkyshardPin[]
+
+export const cyrodiil__quickwatercave_base = [
+  [0.3965, 0.5494, 692, 14],
+] satisfies readonly SkyshardPin[]
+
+export const cyrodiil__redrubycave_base = [[0.76, 0.291, 693, 28]] satisfies readonly SkyshardPin[]
+
+export const cyrodiil__serpenthollowcave_base = [
+  [0.257, 0.637, 694, 45],
+] satisfies readonly SkyshardPin[]
+
+export const cyrodiil__toadstoolhollow_base = [
+  [0.48, 0.53, 693, 29],
+] satisfies readonly SkyshardPin[]
+
+export const cyrodiil__toadstoolhollowlower_base = [
+  [0.4, 0.64, 693, 29],
+] satisfies readonly SkyshardPin[]
+
+export const cyrodiil__underpallcave_base = [
+  [0.77, 0.441, 693, 30],
+] satisfies readonly SkyshardPin[]

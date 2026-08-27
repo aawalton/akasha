@@ -1,0 +1,20 @@
+{
+  "extends": "../../tsconfig.base.json",
+  "compilerOptions": {
+    "composite": true,
+    "noEmit": false,
+    "emitDeclarationOnly": true,
+    "declarationDir": "dist",
+    "lib": ["esnext"],
+    "types": ["@types/bun"],
+    "paths": {
+      "@/*": ["./src/*"]
+    }
+  },
+  "include": ["src/**/*.ts"],
+  "exclude": ["node_modules", "dist", "./**/*.test.ts"],
+  "references": [
+    { "path": "../supabase-auth" },
+    { "path": "../pages-query" }
+  ]
+}

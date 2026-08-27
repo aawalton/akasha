@@ -1,0 +1,52 @@
+{
+  "extends": "../../tsconfig.base.json",
+  "compilerOptions": {
+    "composite": true,
+    "noEmit": false,
+    "emitDeclarationOnly": true,
+    "declarationDir": "dist",
+    "lib": [
+      "esnext"
+    ],
+    "types": [
+      "@types/bun"
+    ],
+    "rootDir": "../..",
+    "allowImportingTsExtensions": true
+  },
+  "include": [
+    "src/**/*.ts",
+    "../../akasha/**/*.ts"
+  ],
+  "exclude": [
+    "node_modules",
+    "dist",
+    "./**/*.test.ts",
+    "../../akasha/editor-extension/**",
+    "../../akasha/native-shell/**",
+    "../../akasha/lua-compiler/**"
+  ],
+  "references": [
+    {
+      "path": "../../alanwalton/personas-core"
+    },
+    {
+      "path": "../pages-access"
+    },
+    {
+      "path": "../pages-query"
+    },
+    {
+      "path": "../supabase-auth"
+    },
+    {
+      "path": "../../alanwalton/health-samples-access"
+    },
+    {
+      "path": "../pages-core"
+    },
+    {
+      "path": "../recurrence"
+    }
+  ]
+}

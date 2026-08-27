@@ -1,0 +1,17 @@
+{
+  "name": "@temper/shared-capture-sales-addon",
+  "functionalType": "addon",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@temper/shared-capture-core": "workspace:*",
+    "@temper/shared-capture-sales-core": "workspace:*"
+  },
+  "scripts": {
+    "typecheck": "bunx @typescript/native-preview --noEmit -p tsconfig.json"
+  },
+  "devDependencies": {
+    "typescript": "^5.8.3",
+    "@temper/shared-build-deploy-lua-runner": "workspace:*"
+  }
+}

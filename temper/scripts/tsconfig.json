@@ -1,0 +1,117 @@
+{
+  "extends": "../../tsconfig.base.json",
+  "compilerOptions": {
+    "composite": true,
+    "noEmit": false,
+    "emitDeclarationOnly": true,
+    "declarationDir": "dist",
+    "jsx": "react-jsx",
+    "lib": [
+      "dom",
+      "dom.iterable",
+      "esnext"
+    ],
+    "types": [
+      "@types/bun"
+    ]
+  },
+  "references": [
+    {
+      "path": "../game-items-alchemy"
+    },
+    {
+      "path": "../game-characters-character"
+    },
+    {
+      "path": "../game-codec"
+    },
+    {
+      "path": "../game-companions-core"
+    },
+    {
+      "path": "../player-completion"
+    },
+    {
+      "path": "../game-completion"
+    },
+    {
+      "path": "../shared-foundation-misc-eso-paths"
+    },
+    {
+      "path": "../game-items-core"
+    },
+    {
+      "path": "../game-items-rules-core"
+    },
+    {
+      "path": "../shared-formula-framework"
+    },
+    {
+      "path": "../game-characters-skill-lines"
+    },
+    {
+      "path": "../game-characters-champion-points"
+    },
+    {
+      "path": "../player-build-validation"
+    },
+    {
+      "path": "../shared-engine"
+    },
+    {
+      "path": "../shared-capture-host"
+    },
+    {
+      "path": "../shared-capture-sales-core"
+    },
+    {
+      "path": "../catalog-core"
+    },
+    {
+      "path": "../shared-capture-errors-decision-core"
+    },
+    {
+      "path": "../shared-capture-datamining-core"
+    },
+    {
+      "path": "../shared-capture-datamining-reader"
+    },
+    {
+      "path": "../../shared/pages-access"
+    },
+    {
+      "path": "../../shared/pages-core"
+    },
+    {
+      "path": "../../shared/recurrence"
+    },
+    {
+      "path": "../../shared/supabase-client"
+    },
+    {
+      "path": "../../shared/supabase-server"
+    },
+    {
+      "path": "../../shared/utils-fs"
+    },
+    {
+      "path": "../../shared/utils-narrow"
+    },
+    {
+      "path": "../shared-foundation-misc-eso-paths-resolve"
+    },
+    {
+      "path": "../../shared/pages-query"
+    },
+    {
+      "path": "../shared-saved-variables"
+    }
+  ],
+  "include": [
+    "src/**/*.ts"
+  ],
+  "exclude": [
+    "node_modules",
+    "dist"
+  ]
+}

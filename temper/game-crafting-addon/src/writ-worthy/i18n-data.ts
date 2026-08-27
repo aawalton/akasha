@@ -1,0 +1,6 @@
+export { clientSi } from "./generated/i18n-data-client-si.generated"
+export { fooddrink } from "./generated/i18n-data-fooddrink.generated"
+export { gear } from "./generated/i18n-data-gear.generated"
+export { mat } from "./generated/i18n-data-mat.generated"
+export { motif } from "./generated/i18n-data-motif.generated"
+export { set } from "./generated/i18n-data-set.generated"

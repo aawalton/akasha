@@ -1,0 +1,32 @@
+{
+  "extends": "../../tsconfig.base.json",
+  "compilerOptions": {
+    "composite": true,
+    "noEmit": false,
+    "emitDeclarationOnly": true,
+    "declarationDir": "dist",
+    "types": [
+      "@types/bun"
+    ],
+    "rootDir": "../..",
+    "allowImportingTsExtensions": true
+  },
+  "include": [
+    "src/**/*.ts",
+    "../../akasha/readouts/ring/tier/tier.ts",
+    "../../akasha/readouts/ring/ladder/ladder.ts",
+    "../../akasha/alan/persona/closeness/closeness.ts"
+  ],
+  "exclude": [
+    "node_modules",
+    "dist"
+  ],
+  "references": [
+    {
+      "path": "../../shared/pages-core"
+    },
+    {
+      "path": "../../shared/utils-narrow"
+    }
+  ]
+}

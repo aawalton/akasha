@@ -1,0 +1,28 @@
+{
+  "name": "@temper/player-completion-addon",
+  "dependencies": {
+    "@shared/design-tokens": "workspace:*",
+    "@temper/game-characters-capture-addon": "workspace:*",
+    "@temper/game-characters-skills-morphs-addon": "workspace:*",
+    "@temper/game-companions-core": "workspace:*",
+    "@temper/game-completion": "workspace:*",
+    "@temper/player-completion": "workspace:*",
+    "@temper/shared-build-deploy-addon-bundle-runtime": "workspace:*",
+    "@temper/shared-capture-perf": "workspace:*",
+    "@temper/shared-foundation-misc-codec": "workspace:*",
+    "@temper/shared-foundation-misc-dungeons": "workspace:*",
+    "@temper/shared-interface-hud-window": "workspace:*",
+    "@temper/shared-interface-lam": "workspace:*",
+    "@temper/shared-narrow": "workspace:*"
+  },
+  "devDependencies": {
+    "@types/bun": "^1.3.6",
+    "typescript": "^5.8.3"
+  },
+  "functionalType": "addon",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "typecheck": "bunx @typescript/native-preview --noEmit -p tsconfig.json"
+  }
+}

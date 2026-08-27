@@ -1,0 +1,25 @@
+interface LamReferenceDropdownControl extends Control {
+  dropdown: { GetControl: () => Control }
+}
+
+declare const previewpinTextureUnknown: LamReferenceDropdownControl
+declare const previewpinTextureOther: LamReferenceDropdownControl
+declare const previewpinTextureChampion: LamReferenceDropdownControl
+declare const previewpinTextureMaiq: LamReferenceDropdownControl
+declare const previewpinTexturePeacemaker: LamReferenceDropdownControl
+declare const previewpinTextureNosediver: LamReferenceDropdownControl
+declare const previewpinTextureEarthlyPos: LamReferenceDropdownControl
+declare const previewpinTextureOnMe: LamReferenceDropdownControl
+declare const previewpinTextureBrawl: LamReferenceDropdownControl
+declare const previewpinTexturePatron: LamReferenceDropdownControl
+declare const previewpinTextureWrothgarJumper: LamReferenceDropdownControl
+declare const previewpinTextureRelicHunter: LamReferenceDropdownControl
+declare const previewpinTextureBreaking: LamReferenceDropdownControl
+declare const previewpinTextureCutpurse: LamReferenceDropdownControl
+declare const previewpinTextureAyleid: LamReferenceDropdownControl
+declare const previewpinTextureDwemer: LamReferenceDropdownControl
+declare const previewpinTextureWWVamp: LamReferenceDropdownControl
+declare const previewpinTextureVampAltar: LamReferenceDropdownControl
+declare const previewpinTextureWWShrine: LamReferenceDropdownControl
+declare const previewpinTextureCollectible: LamReferenceDropdownControl
+declare const previewpinTextureFish: LamReferenceDropdownControl

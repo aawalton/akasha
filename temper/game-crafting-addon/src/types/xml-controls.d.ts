@@ -1,0 +1,35 @@
+declare const TemperCrafting_Recipe_Window: TopLevelWindow
+declare const TemperCrafting_Recipe: BackdropControl
+declare const TemperCrafting_RecipePanelScrollChild: Control
+declare const TemperCrafting_RecipeHeadline: LabelControl
+declare const TemperCrafting_RecipeInfo: LabelControl
+declare const TemperCrafting_RecipeSearch: EditControl
+declare const TemperCrafting_RecipeHideKnownButton: ButtonControl
+declare const TemperCrafting_RecipeHideUnknownButton: ButtonControl
+
+declare const TemperCrafting_Cook: TopLevelWindow
+declare const TemperCrafting_CookFoodSectionScrollChild: Control
+declare const TemperCrafting_CookHeadline: LabelControl
+declare const TemperCrafting_CookInfo: LabelControl
+declare const TemperCrafting_CookAmount: EditControl
+declare const TemperCrafting_CookSearch: EditControl
+
+declare const TemperCrafting_RuneAmount: EditControl
+
+declare const TemperCrafting_Style_Window: TopLevelWindow
+declare const TemperCrafting_StylePanelScrollChildStyles: Control
+declare const TemperCrafting_StylePanelScrollChildSets: Control
+declare const TemperCrafting_StyleHeader: LabelControl
+declare const TemperCrafting_StyleHideButton: ButtonControl
+declare const TemperCrafting_StyleHideCrownButton: ButtonControl
+declare const TemperCrafting_StyleHidePerfectedButton: ButtonControl
+declare const TemperCrafting_StyleHideUnknownButton: ButtonControl
+
+declare const TemperCrafting_Blueprint_Window: TopLevelWindow
+declare const TemperCrafting_Blueprint: BackdropControl
+declare const TemperCrafting_BlueprintPanelScrollChild: Control
+declare const TemperCrafting_BlueprintHeadline: LabelControl
+declare const TemperCrafting_BlueprintInfo: LabelControl
+declare const TemperCrafting_BlueprintSearch: EditControl
+declare const TemperCrafting_BlueprintHideKnownButton: ButtonControl
+declare const TemperCrafting_BlueprintHideUnknownButton: ButtonControl

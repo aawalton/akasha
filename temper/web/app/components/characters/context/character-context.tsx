@@ -1,0 +1,157 @@
+"use client"
+
+import {
+  applyCharacterMetadata,
+  type CharacterBuildMetadata,
+} from "@temper/game-characters/build-metadata"
+import {
+  type CharacterState,
+  type CharacterVisibility,
+  toCharacterVisibility,
+} from "@temper/game-characters-character/build-types"
+import { useCharacter as useCharacterZero } from "@temper/game-characters-character-ui/use-characters"
+import type { SetsAll } from "@temper/game-characters-equipment/sets/sets-all-data"
+import type { Skill } from "@temper/game-characters-skills/skills-data"
+import { decodeBuild, encodeBuild } from "@temper/game-codec/character/build-codec"
+import { BuildHash, type BuildId } from "@temper/shared-formula-framework/branded"
+import { createContext, type ReactNode, useCallback, useReducer } from "react"
+import { useBuildSync } from "@/hooks/use-build-sync"
+import type { CharacterAction } from "./character-actions"
+import { CHARACTER_ACTIONS } from "./character-actions"
+import { characterReducer } from "./character-reducer"
+
+export const CharacterStateContext = createContext<CharacterState | null>(null)
+
+export const CharacterDispatchContext = createContext<React.Dispatch<CharacterAction> | null>(null)
+
+export interface CharacterMetadata {
+  buildId: BuildId
+  isOwner: boolean
+  visibility: CharacterVisibility
+  isTargetBuild: boolean
+  name: string
+  description: string
+  setVisibility: (v: Exclude<CharacterVisibility, "live" | "target">) => void
+  updateMeta: (meta: {
+    name?: string
+    description?: string
+    characterName?: string
+    targetCount?: number
+  }) => void
+  availableSkills: readonly Skill[]
+  availableSets: readonly SetsAll[]
+}
+
+export const CharacterMetadataContext = createContext<CharacterMetadata | null>(null)
+
+interface CharacterProviderProps {
+  children: ReactNode
+  initialBuild: CharacterState
+  initialBuildHash: string
+  buildId: BuildId
+  isOwner: boolean
+  initialVisibility: CharacterVisibility
+  isTargetBuild: boolean
+  availableSkills: readonly Skill[]
+  availableSets: readonly SetsAll[]
+}
+
+const noopUpdateBuild = async () => {}
+const noopSetVisibility = () => {}
+const noopUpdateMeta = () => {}
+
+export function CharacterProvider({
+  children,
+  initialBuild,
+  initialBuildHash,
+  buildId,
+  isOwner,
+  initialVisibility,
+  isTargetBuild,
+  availableSkills,
+  availableSets,
+}: CharacterProviderProps) {
+  const [build, dispatch] = useReducer(characterReducer, initialBuild)
+
+  const {
+    build: zeroRow,
+    buildHash: zeroBuildHash,
+    buildMetadata: zeroBuildMetadata,
+    updateBuild: zeroUpdateBuild,
+    updateMeta: zeroUpdateMeta,
+    setVisibility: zeroSetVisibility,
+  } = useCharacterZero(buildId)
+
+  const createResetAction = useCallback(
+    (payload: CharacterState) =>
+      ({ type: CHARACTER_ACTIONS.RESET, payload }) satisfies CharacterAction,
+    []
+  )
+
+  const decodeForSync = useCallback(
+    (hash: string, metadata: CharacterBuildMetadata): CharacterState => {
+      const decoded = decodeBuild(BuildHash(hash))
+      if (!decoded) return initialBuild
+      return applyCharacterMetadata(decoded, metadata)
+    },
+    [initialBuild]
+  )
+
+  const updateRemote = useCallback(
+    async (hash: string, metadata: CharacterBuildMetadata) => {
+      if (isOwner) {
+        await zeroUpdateBuild(hash, metadata)
+      }
+    },
+    [isOwner, zeroUpdateBuild]
+  )
+
+  const extractMetadataForSync = useCallback(
+    (build: CharacterState): CharacterBuildMetadata => ({
+      name: zeroBuildMetadata?.name ?? build.name,
+      description: zeroBuildMetadata?.description ?? build.description,
+      characterName: zeroBuildMetadata?.characterName ?? build.character.name,
+      baseRoles: zeroBuildMetadata?.baseRoles ?? build.character.roles,
+      targetCount: zeroBuildMetadata?.targetCount ?? build.target.targetCount,
+    }),
+    [zeroBuildMetadata]
+  )
+
+  useBuildSync({
+    localBuild: build,
+    zeroBuildHash,
+    zeroBuildMetadata,
+    updateRemote: isOwner ? updateRemote : noopUpdateBuild,
+    dispatch,
+    createResetAction,
+    initialBuildHash,
+    encode: encodeBuild,
+    decode: decodeForSync,
+    extractMetadata: extractMetadataForSync,
+  })
+
+  const visibility = zeroRow ? toCharacterVisibility(zeroRow.visibility) : initialVisibility
+  const name = zeroBuildMetadata?.name ?? initialBuild.name
+  const description = zeroBuildMetadata?.description ?? initialBuild.description
+
+  const metadata: CharacterMetadata = {
+    buildId,
+    isOwner,
+    visibility,
+    isTargetBuild,
+    name,
+    description,
+    setVisibility: isOwner ? zeroSetVisibility : noopSetVisibility,
+    updateMeta: isOwner ? zeroUpdateMeta : noopUpdateMeta,
+    availableSkills,
+    availableSets,
+  }
+
+  return (
+    <CharacterMetadataContext.Provider value={metadata}>
+      <CharacterDispatchContext.Provider value={dispatch}>
+        <CharacterStateContext.Provider value={build}>{children}</CharacterStateContext.Provider>
+      </CharacterDispatchContext.Provider>
+    </CharacterMetadataContext.Provider>
+  )
+}

@@ -1,0 +1,108 @@
+import type { SkyshardPin } from "./types"
+
+export const blackwood__u30_xanmeeroverlook_ext_base = [
+  [0.6831104159, 0.514709711, 2982, 13, 2],
+] satisfies readonly SkyshardPin[]
+
+export const blackwood__vaultdelve_ext02_base = [
+  [0.87927109, 0.3477600514, 2982, 15, 2],
+] satisfies readonly SkyshardPin[]
+
+export const blackwood__vunalk1_base = [
+  [0.8564519882, 0.21213454, 2982, 18, 2],
+] satisfies readonly SkyshardPin[]
+
+export const blackwood__vunalk2_base = [
+  [0.8564519882, 0.21213454, 2982, 18, 2],
+] satisfies readonly SkyshardPin[]
+
+export const blackwood__zhmain_base = [
+  [0.7774193286, 0.6221995949, 2982, 12, 3],
+] satisfies readonly SkyshardPin[]
+
+export const clockwork__brassfortress_base = [
+  [0.4576, 0.5555, 1844, 3, 4],
+  [0.3458, 0.5533, 1844, 4],
+] satisfies readonly SkyshardPin[]
+
+export const clockwork__ccunderground02_base = [
+  [0.85, 0.72, 1844, 3, 4],
+] satisfies readonly SkyshardPin[]
+
+export const clockwork__ccunderground_base = [
+  [0.85, 0.72, 1844, 3, 4],
+] satisfies readonly SkyshardPin[]
+
+export const clockwork__clockwork_base = [
+  [0.4633, 0.5042, 1844, 1],
+  [0.4958, 0.6553, 1844, 2],
+  [0.411, 0.4609, 1844, 3, 4],
+  [0.4453, 0.3591, 1844, 4],
+  [0.8407, 0.6515, 1844, 5, 2],
+  [0.2682, 0.5764, 1844, 6, 2],
+] satisfies readonly SkyshardPin[]
+
+export const clockwork__hallsofregulation_2 = [
+  [0.3698, 0.5642, 1844, 5, 3],
+] satisfies readonly SkyshardPin[]
+
+export const clockwork__hallsofregulation_base = [
+  [0.3698, 0.5642, 1844, 5, 3],
+] satisfies readonly SkyshardPin[]
+
+export const clockwork__shadowcleft_base = [
+  [0.8365, 0.5701, 1844, 6, 3],
+] satisfies readonly SkyshardPin[]
+
+export const coldharbor__aba_loria_base = [
+  [0.2696, 0.4304, 686, 10],
+] satisfies readonly SkyshardPin[]
+
+export const coldharbor__caveoftrophies_base = [
+  [0.5614, 0.7433, 686, 14],
+] satisfies readonly SkyshardPin[]
+
+export const coldharbor__coldharbour_base = [
+  [0.4147, 0.6252, 686, 1],
+  [0.455, 0.7381, 686, 2],
+  [0.2037, 0.6285, 686, 3],
+  [0.6133, 0.6482, 686, 4],
+  [0.698, 0.6462, 686, 5],
+  [0.6745, 0.7866, 686, 6],
+  [0.4796, 0.5828, 686, 7],
+  [0.4454, 0.4147, 686, 8],
+  [0.6758, 0.4035, 686, 9],
+  [0.4127, 0.5344, 686, 10, 2],
+  [0.6838, 0.7244, 686, 11, 2],
+  [0.4223, 0.7878, 686, 12, 2],
+  [0.4541, 0.5096, 686, 13, 2],
+  [0.6704, 0.5746, 686, 14, 2],
+  [0.6604, 0.3758, 686, 15, 2],
+  [0.7116, 0.6352, 686, 16, 3],
+] satisfies readonly SkyshardPin[]
+
+export const coldharbor__depravedgrotto_base = [
+  [0.282, 0.2672, 686, 12],
+] satisfies readonly SkyshardPin[]
+
+export const coldharbor__malsorrastomb_base = [
+  [0.3663, 0.4108, 686, 13],
+] satisfies readonly SkyshardPin[]
+
+export const coldharbor__vaultofhamanforgefire_base = [
+  [0.5268, 0.1484, 686, 11],
+] satisfies readonly SkyshardPin[]
+
+export const coldharbor__villageofthelost_base = [
+  [0.3271, 0.5004, 686, 16],
+] satisfies readonly SkyshardPin[]
+
+export const coldharbor__wailingmaw_base = [
+  [0.7675, 0.7018, 686, 15],
+] satisfies readonly SkyshardPin[]
+
+export const craglorn__balamath_base = [[0.643, 0.575, 727, 9]] satisfies readonly SkyshardPin[]
+
+export const craglorn__burriedsands_base = [[0.692, 0.151, 727, 7]] satisfies readonly SkyshardPin[]
+
+export const craglorn__chiselshriek_base = [[0.863, 0.224, 727, 6]] satisfies readonly SkyshardPin[]

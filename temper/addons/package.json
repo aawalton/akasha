@@ -1,0 +1,16 @@
+{
+  "name": "@temper/addons",
+  "dependencies": {
+    "@temper/player-completion": "workspace:*",
+    "@temper/shared-build-deploy-addons-resolve": "workspace:*",
+    "@temper/shared-foundation-misc-dungeons": "workspace:*",
+    "@temper/shared-foundation-misc-eso-paths": "workspace:*",
+    "@temper/shared-foundation-misc-eso-paths-resolve": "workspace:*"
+  },
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  },
+  "functionalType": "addon",
+  "version": "0.1.0",
+  "private": true
+}

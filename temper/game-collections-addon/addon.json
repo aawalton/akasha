@@ -1,0 +1,53 @@
+{
+  "name": "TemperCollections",
+  "title": "Temper Collections",
+  "description": "Collections hub — skyshard, lorebook, treasure, and dungeon-champion world-map/compass pins plus the item-set browser. Consolidates SkyShards, LoreBooks, Lost Treasure, Dungeon Champions, and Item Browser (#15143).",
+  "author": "AlanGaming",
+  "version": "1.0.0",
+  "addonVersion": 100,
+  "apiVersion": ["101049", "101050", "101051"],
+  "savedVariables": [
+    "TemperSkyShards_SavedVariables",
+    "TemperLoreBooks_SavedVariables",
+    "TemperLostTreasure_Account",
+    "TemperLostTreasure_Character",
+    "TemperDungeonChampions_SavedVariables",
+    "TemperItemBrowser_SavedVariables"
+  ],
+  "dependsOn": [
+    "LibMapPins-1.0>=10047",
+    "TemperNavigation",
+    "LibAddonMenu-2.0>=41",
+    "LibGPS>=73",
+    "LibMapData>=121",
+    "LibDebugLogger>=274",
+    "LibSavedVars>=60007",
+    "LibNotification>=15",
+    "LibTreasure>=24",
+    "LibExtendedJournal>=205011"
+  ],
+  "optionalDependsOn": ["DebugLogViewer", "LibMultiAccountSets", "LibUndauntedPledges"],
+  "xmlFiles": {
+    "afterBundle": ["LoreBooks.xml", "LostTreasure.xml", "Browser.xml"]
+  },
+  "assets": [
+    "LoreBooks.xml",
+    "Icons/book1.dds",
+    "Icons/book1-invert.dds",
+    "Icons/book2.dds",
+    "Icons/book2-invert.dds",
+    "Icons/book3.dds",
+    "Icons/book3-invert.dds",
+    "LostTreasure.xml",
+    "Icons/Skyshard-unknown.dds",
+    "Icons/Skyshard-unknown-alternative.dds",
+    "Icons/Skyshard-unknown-Esohead.dds",
+    "Icons/Skyshard-unknown-Rushmik.dds",
+    "Icons/Skyshard-unknown-Heidra.dds",
+    "Icons/Skyshard-collected.dds",
+    "Icons/Skyshard-collected-alternative.dds",
+    "Icons/Skyshard-collected-Esohead.dds",
+    "Icons/Skyshard-collected-Rushmik.dds",
+    "Icons/Skyshard-collected-Heidra.dds"
+  ]
+}

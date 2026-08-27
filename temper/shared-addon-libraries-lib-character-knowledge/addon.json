@@ -1,0 +1,12 @@
+{
+  "name": "LibCharacterKnowledge",
+  "title": "LibCharacterKnowledge",
+  "description": "Library for managing character-specific knowledge across multiple accounts",
+  "author": "AlanGaming",
+  "version": "3.0.5",
+  "addonVersion": 300050,
+  "apiVersion": ["101050"],
+  "savedVariables": ["LibCharacterKnowledgeData"],
+  "dependsOn": [],
+  "optionalDependsOn": ["LibAddonMenu-2.0"]
+}

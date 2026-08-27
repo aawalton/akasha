@@ -1,0 +1,60 @@
+{
+  "extends": "../../tsconfig.base.json",
+  "compilerOptions": {
+    "composite": true,
+    "noEmit": false,
+    "emitDeclarationOnly": true,
+    "declarationDir": "dist",
+    "types": [
+      "@types/bun"
+    ]
+  },
+  "references": [
+    {
+      "path": "../shared-capture-descriptor"
+    },
+    {
+      "path": "../game-characters-capture-core"
+    },
+    {
+      "path": "../game-collections-antiquities-capture-core"
+    },
+    {
+      "path": "../game-collections-lore-capture-core"
+    },
+    {
+      "path": "../game-collections-tribute-capture-core"
+    },
+    {
+      "path": "../game-companions-capture-core"
+    },
+    {
+      "path": "../game-completion-capture-core"
+    },
+    {
+      "path": "../game-housing-capture-core"
+    },
+    {
+      "path": "../game-items-capture-core"
+    },
+    {
+      "path": "../game-crafting-capture-core"
+    },
+    {
+      "path": "../game-collections-capture-core"
+    },
+    {
+      "path": "../game-navigation-capture-core"
+    },
+    {
+      "path": "../game-items-currency-capture-core"
+    }
+  ],
+  "include": [
+    "src/**/*.ts"
+  ],
+  "exclude": [
+    "node_modules",
+    "dist"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "@shared/pages-query",
+  "functionalType": "io",
+  "version": "0.1.0",
+  "type": "module",
+  "private": true,
+  "exports": {
+    ".": "./src/index.ts",
+    "./ask": "./src/ask.ts",
+    "./live-version": "./src/live-version.ts",
+    "./*": "./src/*.ts"
+  },
+  "dependencies": {
+    "zod": "^4.3.6"
+  },
+  "scripts": {
+    "typecheck": "bunx @typescript/native-preview -b"
+  }
+}

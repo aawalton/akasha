@@ -1,0 +1,3 @@
+export const POWER_LEVEL_BASE = 1000
+
+export const CRITICAL_RATING_BASE = 2181

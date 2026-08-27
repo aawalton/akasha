@@ -1,0 +1,124 @@
+import { createPage } from "@shared/pages-access/create"
+import { getPages } from "@shared/pages-access/get"
+import { patchPage } from "@shared/pages-access/patch"
+import type { Json } from "../../../../../../shared/supabase-database/src/generated/database"
+import { getUser } from "@shared/supabase-rr/auth/server"
+import { createServerClient } from "@shared/supabase-rr/server"
+import { requireFirst } from "../../../../../../shared/utils-narrow/src/require-first"
+import { extractCompanionMetadata } from "@temper/game-characters/build-metadata"
+import { decodeCompanion } from "@temper/game-codec/companions/companion-codec"
+import { companions } from "@temper/game-companions-core/companions-data"
+import { companionWeaponTypes } from "@temper/game-companions-core/generated/temper-companion-weapon-type.generated"
+import { type BuildHash, BuildId } from "@temper/shared-formula-framework/branded"
+
+function asJson(value: Record<string, unknown>): Json {
+  return value as Json
+}
+
+export type ImportCompanionResult =
+  | { buildId: BuildId; buildName: string }
+  | { error: "not-authenticated" }
+  | { error: "invalid-hash" }
+  | { error: "create-failed"; message: string }
+
+export async function importCompanionFromHash(
+  request: Request,
+  hash: BuildHash
+): Promise<{ result: ImportCompanionResult; headers: Headers }> {
+  const { user, headers: authHeaders } = await getUser(request)
+  if (!user) {
+    return { result: { error: "not-authenticated" }, headers: authHeaders }
+  }
+
+  const userId = user.id
+  const { headers } = createServerClient(request)
+  for (const value of authHeaders.getSetCookie()) {
+    headers.append("Set-Cookie", value)
+  }
+
+  const buildState = decodeCompanion(hash)
+  if (!buildState) {
+    return { result: { error: "invalid-hash" }, headers }
+  }
+
+  const companionId = buildState.companion.id
+
+  const companionName = requireFirst(companions.data[companionId].name.split(" "))
+  const mainHand = buildState.equipment.weapons["main-hand"]
+  const weaponName =
+    mainHand.itemType === "weapon" && mainHand.data.type !== "no-type"
+      ? companionWeaponTypes.data[mainHand.data.type].name
+      : ""
+  buildState.name = weaponName !== "" ? `${companionName} ${weaponName}` : companionName
+
+  const buildMetadata = extractCompanionMetadata(buildState)
+
+  const { rows: existingBuilds } = await getPages({
+    pageTypeSlug: "companion-build",
+    where: [
+      { key: "userId", eq: userId },
+      { key: "buildHash", eq: hash },
+    ],
+    limit: 1,
+  })
+  const firstExistingBuild = existingBuilds[0]
+  if (firstExistingBuild && typeof firstExistingBuild.id === "string") {
+    return {
+      result: { buildId: BuildId(firstExistingBuild.id), buildName: buildState.name },
+      headers,
+    }
+  }
+
+  const { rows: userCompanions } = await getPages({
+    pageTypeSlug: "temper-companion-progress",
+    where: [
+      { key: "accountPage", eq: userId },
+      { key: "companionId", eq: companionId },
+    ],
+    limit: 1,
+  })
+  const entity = userCompanions[0]
+
+  try {
+    const created = await createPage({
+      pageTypeSlug: "companion-build",
+      properties: {
+        userId,
+        accountPage: userId,
+        buildName: buildState.name,
+        buildHash: hash,
+        buildMetadata: asJson({ ...buildMetadata }),
+        visibility: "live",
+      },
+    })
+    const newBuildId = typeof created.id === "string" ? created.id : ""
+
+    if (entity) {
+      await patchPage({
+        pageTypeSlug: "temper-companion-progress",
+        where: [{ key: "companionId", eq: companionId }],
+        set: { liveBuildId: newBuildId },
+      })
+    } else {
+      await createPage({
+        pageTypeSlug: "temper-companion-progress",
+        properties: {
+          userId,
+          accountPage: userId,
+          companionId,
+          liveBuildId: newBuildId,
+        },
+      })
+    }
+
+    return {
+      result: { buildId: BuildId(newBuildId), buildName: buildState.name },
+      headers,
+    }
+  } catch (e) {
+    return {
+      result: { error: "create-failed", message: e instanceof Error ? e.message : "Unknown error" },
+      headers,
+    }
+  }
+}

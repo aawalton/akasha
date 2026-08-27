@@ -1,0 +1,18 @@
+{
+  "extends": "../../tsconfig.base.json",
+  "compilerOptions": {
+    "module": "esnext",
+    "moduleResolution": "bundler",
+    "lib": ["ESNext"],
+    "types": [],
+    "jsx": "react",
+    "noEmit": false,
+    "isolatedModules": true
+  },
+  "tstl": {
+    "luaTarget": "5.1",
+    "luaLibImport": "require-minimal",
+    "noResolvePaths": [],
+    "noImplicitSelf": true
+  }
+}

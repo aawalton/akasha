@@ -1,0 +1,81 @@
+{
+  "extends": "../../tsconfig.base.json",
+  "compilerOptions": {
+    "composite": true,
+    "noEmit": false,
+    "emitDeclarationOnly": true,
+    "declarationDir": "dist",
+    "jsx": "react-jsx",
+    "lib": [
+      "dom",
+      "dom.iterable",
+      "esnext"
+    ],
+    "types": [
+      "@types/bun"
+    ]
+  },
+  "include": [
+    "src/**/*.ts",
+    "src/**/*.tsx"
+  ],
+  "exclude": [
+    "node_modules",
+    "dist",
+    "./**/*.test.ts",
+    "./**/*.test.tsx"
+  ],
+  "references": [
+    {
+      "path": "../../alanwalton/voice-core"
+    },
+    {
+      "path": "../../automation/core"
+    },
+    {
+      "path": "../errors-client"
+    },
+    {
+      "path": "../design-badges"
+    },
+    {
+      "path": "../design-layout"
+    },
+    {
+      "path": "../design-primitives"
+    },
+    {
+      "path": "../design-patterns"
+    },
+    {
+      "path": "../design-forms"
+    },
+    {
+      "path": "../pages-core"
+    },
+    {
+      "path": "../pages-access"
+    },
+    {
+      "path": "../pages-ui-store"
+    },
+    {
+      "path": "../pages-url"
+    },
+    {
+      "path": "../recurrence"
+    },
+    {
+      "path": "../supabase-database"
+    },
+    {
+      "path": "../supabase-rr"
+    },
+    {
+      "path": "../utils-narrow"
+    },
+    {
+      "path": "../object-store"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "@temper/shared-addon-libraries-lib-gps",
+  "functionalType": "addon",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "typecheck": "bunx @typescript/native-preview --noEmit -p tsconfig.json"
+  },
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  }
+}

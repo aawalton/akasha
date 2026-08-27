@@ -1,0 +1,17 @@
+{
+  "name": "@temper/shared-interface-selector-addon",
+  "functionalType": "addon",
+  "version": "0.1.0",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "typecheck": "bunx @typescript/native-preview --noEmit -p tsconfig.json"
+  },
+  "dependencies": {
+    "@temper/shared-build-deploy-addon-bundle-runtime": "workspace:*"
+  },
+  "devDependencies": {
+    "@types/bun": "^1.3.6",
+    "typescript": "^5.8.3"
+  }
+}

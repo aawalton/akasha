@@ -1,0 +1,17 @@
+{
+  "name": "@temper/shared-build-deploy-addon-bundle-runtime",
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  },
+  "exports": {
+    "./bundle-runtime": "./src/bundle-runtime.ts",
+    "./*": "./src/*.ts"
+  },
+  "functionalType": "addon",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "typecheck": "bunx @typescript/native-preview --noEmit -p tsconfig.json"
+  }
+}

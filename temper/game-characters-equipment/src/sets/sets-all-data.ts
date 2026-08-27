@@ -1,0 +1,60 @@
+import { createDataFile, type DataFile } from "@shared/utils-narrow/create-data-file"
+import type { ClassId } from "@temper/shared-formula-framework/class-id"
+import type { Effect } from "@temper/shared-formula-framework/effects-types"
+import type { ArmorTypeId } from "../armor/armor-types-data"
+import type { StandardArmorWeightId } from "../armor/armor-weights-data"
+import type { JewelryTypeId } from "../jewelry/jewelry-types-data"
+import type { WeaponTypeId } from "../weapons/weapon-types-data"
+import { setsFromPages } from "./generated/temper-set.generated"
+import type { SetCategoryId } from "./set-categories-data"
+
+export type EquipmentPattern =
+  | WeaponTypeId
+  | JewelryTypeId
+  | "shield"
+  | `${Exclude<ArmorTypeId, "shield">}:${StandardArmorWeightId}`
+  | `${Exclude<ArmorTypeId, "shield">}:*`
+  | "armor:*"
+  | `armor:${StandardArmorWeightId}`
+  | "monster"
+  | "weapon:*"
+  | "jewelry:*"
+  | "*"
+  | `*:${StandardArmorWeightId}`
+
+type SetBonusStatus = "supported" | "partially-supported" | "unsupported"
+
+interface SetBonus {
+  count: number
+  description: string
+
+  effects: readonly Effect[]
+
+  status: SetBonusStatus
+}
+
+export interface SetsAllTemplate {
+  id: string
+  name: string
+  subcategoryId: SetCategoryId
+  valid: readonly EquipmentPattern[]
+  bonuses: readonly SetBonus[]
+  icons?: Partial<Record<EquipmentPattern, string>>
+  classId?: ClassId
+  esoSetId: number
+}
+
+const SETS_ALL_DATA = {
+  ...setsFromPages.data,
+} satisfies Record<string, SetsAllTemplate>
+
+export const setsAll: DataFile<string, SetsAllTemplate, SetCategoryId> =
+  createDataFile<SetsAllTemplate>()(SETS_ALL_DATA)
+
+export type SetsAllId = (typeof setsAll.ids)[number]
+
+export type SetsAll = SetsAllTemplate & { id: SetsAllId }
+
+export function isSetsAllId(value: string): value is SetsAllId {
+  return setsAll.has(value)
+}

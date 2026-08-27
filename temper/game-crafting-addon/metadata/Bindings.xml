@@ -1,0 +1,66 @@
+<Bindings>
+  <Layer name="SI_KEYBINDINGS_CATEGORY_GENERAL">
+    <Category name="SI_BINDING_NAME_CRAFTSTORE">
+
+      <Action name="CRAFTSTORE_WINDOW">
+        <Down>TemperCrafting.ShowMain()</Down>
+      </Action>
+
+      <Action name="CRAFTSTORE_STYLES">
+        <Down>TemperCrafting.SetAllStyles()</Down>
+      </Action>
+
+      <Action name="CRAFTSTORE_RUNES">
+        <Down>TemperCrafting.RuneView(1)</Down>
+      </Action>
+
+      <Action name="CRAFTSTORE_PROVISIONING">
+        <Down>TemperCrafting.ControlShow(TemperCrafting_Recipe_Window);TemperCrafting.RecipeShowCategory(TemperCrafting.Character.recipe)</Down>
+      </Action>
+
+      <Action name="CRAFTSTORE_FURNISHINGS">
+        <Down>TemperCrafting.ControlShow(TemperCrafting_Blueprint_Window);TemperCrafting.BlueprintShowCategory(TemperCrafting.Character.furniture)</Down>
+      </Action>
+
+    </Category>
+  </Layer>
+
+  <!-- Folded TemperPotions keybinds (#15142) — verbatim from the retired
+       TemperPotionMaker addon's Bindings.xml. POTIONMAKER toggles via its slash
+       command; the POTIONMAKER_SEARCH* actions drive the keybind strip. Their
+       SI_* label ids are registered in ./potion-maker/locale/ui-strings.ts at
+       bundle load. -->
+  <Layer name="SI_KEYBINDINGS_LAYER_GENERAL">
+    <Category name="SI_KEYBINDINGS_CATEGORY_USER_INTERFACE">
+      <Action name="POTIONMAKER">
+        <Down>SLASH_COMMANDS["/temperpotions"]()</Down>
+      </Action>
+    </Category>
+  </Layer>
+  <Layer name="SI_KEYBINDINGS_LAYER_POTIONMAKER">
+    <Category name="SI_KEYBINDINGS_CATEGORY_USER_INTERFACE">
+      <Action name="POTIONMAKER_SEARCH" rebindable="true">
+        <Down>return ZO_KeybindStrip_HandleKeybindDown(keybind)</Down>
+      </Action>
+      <Action name="POTIONMAKER_SEARCH_WRITS" rebindable="true">
+        <Down>return ZO_KeybindStrip_HandleKeybindDown(keybind)</Down>
+      </Action>
+      <Action name="POTIONMAKER_SEARCH_FAVORITS" rebindable="true">
+        <Down>return ZO_KeybindStrip_HandleKeybindDown(keybind)</Down>
+      </Action>
+    </Category>
+  </Layer>
+
+  <!-- Folded WritWorthy keybind (#15142) — verbatim from the retired WritWorthy
+       addon's Bindings.xml. WRIT_WORTHY_ACCEPT_QUESTS is a vestigial keybind-strip
+       action left from the retired craft-queue arm (#14305): the trimmed source
+       ships no descriptor or label for it, so it is inert, but it is kept for
+       behavior parity. Its category id is registered in ./writ-worthy/init.ts. -->
+  <Layer name="SI_KEYBINDINGS_LAYER_USER_INTERFACE_SHORTCUTS">
+    <Category name="SI_KEYBINDINGS_CATEGORY_WRIT_WORTHY">
+      <Action name="WRIT_WORTHY_ACCEPT_QUESTS" rebindable="true">
+        <Down>return ZO_KeybindStrip_HandleKeybindDown(keybind)</Down>
+      </Action>
+    </Category>
+  </Layer>
+</Bindings>

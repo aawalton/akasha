@@ -1,0 +1,11 @@
+{
+  "name": "TemperQuests",
+  "title": "Temper Quests",
+  "description": "Auto-quest dialog advancer — a level-triggered reconciler that DFS-traverses NPC chatter to accept/advance/complete quests, carved out of TemperCharacters into its own Quests-domain addon.",
+  "author": "AlanGaming",
+  "version": "1.0.0",
+  "addonVersion": 100,
+  "apiVersion": ["101049", "101050"],
+  "savedVariables": ["TemperQuests_SavedVariables"],
+  "dependsOn": ["TemperHud"]
+}

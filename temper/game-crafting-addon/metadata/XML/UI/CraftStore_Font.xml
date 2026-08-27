@@ -1,0 +1,4 @@
+<GuiXml>
+  <Font name="TemperCraftingFont" font="$(MEDIUM_FONT)|16|soft-shadow-thin"/>
+  <Font name="TemperCraftingInsp" font="$(BOLD_FONT)|24|soft-shadow-thin"/>
+</GuiXml>

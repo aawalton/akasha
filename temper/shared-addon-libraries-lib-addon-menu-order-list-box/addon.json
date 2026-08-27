@@ -1,0 +1,16 @@
+{
+  "name": "LibAddonMenuOrderListBox",
+  "title": "LibAddonMenu-2.0 - OrderListBox widget",
+  "description": "A listbox widget with manual order possibilities for the library LibAddonMenu-2.0",
+  "author": "AlanGaming",
+  "version": "13",
+  "addonVersion": 13,
+  "apiVersion": ["101050", "101051"],
+  "savedVariables": [],
+  "dependsOn": ["LibAddonMenu-2.0>=40"],
+  "optionalDependsOn": [],
+  "xmlFiles": {
+    "beforeBundle": ["LAM2_orderlistbox_widget.xml"]
+  },
+  "assets": ["LAM2_orderlistbox_widget.xml"]
+}

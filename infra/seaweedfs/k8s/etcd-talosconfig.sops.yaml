@@ -1,0 +1,29 @@
+apiVersion: v1
+kind: Secret
+metadata:
+    name: etcd-snapshot-talosconfig
+    namespace: seaweedfs
+    labels:
+        app.kubernetes.io/name: etcd-snapshot
+        app.kubernetes.io/instance: etcd-snapshot
+        app.kubernetes.io/component: backup
+        app.kubernetes.io/part-of: talos-dr
+        app.kubernetes.io/managed-by: bootstrap
+type: Opaque
+stringData:
+    config: ENC[AES256_GCM,data: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,iv:kKMEQ5BTqfS6Lx5uC9cmnI2otSldOirxot/1ez8lUTs=,tag:lIhzCvGh7ahozBN4fUsoMw==,type:str]
+sops:
+    age:
+        - enc: |
+            -----BEGIN AGE ENCRYPTED FILE-----
+            YWdlLWVuY3J5cHRpb24ub3JnL3YxCi0+IFgyNTUxOSBjRi93bmZYQmlSZVFVYUIv
+            S2pvNnByQlFnNE1vamgyUWxEaFJUU3lobmtjCnJTYnVjT29maXV2QnVjeUs0N2lU
+            WVFMRmdDWElLN3dGTTRqM2Z6NFkzSFkKLS0tIC9PYmVQV1E2NWlJaHV5aWdUOG5F
+            cE1abHFJM3Z4TXJrQUg3SnA2MlphVzQKZG89nlPhWjSBQB9A1EJpiTjKYOd0hmw1
+            KXBmjWG7aPbtowI7fKej7MiZA5bxyCftqJKqc5cOGUwRyuVupRveDQ==
+            -----END AGE ENCRYPTED FILE-----
+          recipient: age1g23777pz5n0hm7umfm7a8vhl8sk2e4k8zwk8ht7j86fpssky0geqeqcxh2
+    encrypted_regex: ^(data|stringData)$
+    lastmodified: "2026-07-18T05:59:23Z"
+    mac: ENC[AES256_GCM,data:jZzZJlmWJNQ3dg2hstCh+UmxA4qGk2Ull8DGOlSn4kLrZKfuX7JqYv9hrzcG19tsg/C+tv9HU+gdjBPjmmvCbRGiaIYKUeagFCzdiDb3WUpaarT7J4WzehkB9DuY8wNlEFmHU9T3yE8kmnnG1zYJPqt2JNfJDjfuwDm+u1FLs7k=,iv:2V1cc/ki084M/X/rVjKHuopfbwZJ7vjxDImDSV64Ivg=,tag:k/o0gNg13q7L8HCkyI10Ow==,type:str]
+    version: 3.13.1

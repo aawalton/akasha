@@ -1,0 +1,11 @@
+{
+  "name": "TemperSales",
+  "title": "Temper Sales",
+  "description": "Capture the player's own guild-store sales (payout + history) from the guild-history trader event stream and write them to SavedVariables for host-side ingest",
+  "author": "AlanGaming",
+  "version": "1.0.0",
+  "addonVersion": 100,
+  "apiVersion": ["101041", "101042", "101049"],
+  "savedVariables": ["TemperSales_SavedVariables"],
+  "dependsOn": ["LibHistoire"]
+}

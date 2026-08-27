@@ -1,0 +1,100 @@
+{
+  "extends": "../../tsconfig.base.json",
+  "compilerOptions": {
+    "composite": true,
+    "noEmit": false,
+    "emitDeclarationOnly": true,
+    "declarationDir": "dist",
+    "jsx": "react-jsx",
+    "lib": [
+      "dom",
+      "dom.iterable",
+      "esnext"
+    ],
+    "types": [
+      "@types/bun"
+    ]
+  },
+  "references": [
+    {
+      "path": "../../shared/auth"
+    },
+    {
+      "path": "../../shared/design-layout"
+    },
+    {
+      "path": "../../shared/design-primitives"
+    },
+    {
+      "path": "../../shared/design-system"
+    },
+    {
+      "path": "../../shared/pages-access"
+    },
+    {
+      "path": "../../shared/pages-ui"
+    },
+    {
+      "path": "../../shared/supabase-database"
+    },
+    {
+      "path": "../../shared/supabase-rr"
+    },
+    {
+      "path": "../../shared/utils-narrow"
+    },
+    {
+      "path": "../../shared/utils-test"
+    },
+    {
+      "path": "../game-characters-character-ui"
+    },
+    {
+      "path": "../game-companions-ui"
+    },
+    {
+      "path": "../player-completion-ui"
+    },
+    {
+      "path": "../shared-engine"
+    },
+    {
+      "path": "../game-characters-equipment"
+    },
+    {
+      "path": "../game-characters-equipment-ui"
+    },
+    {
+      "path": "../player-profile"
+    },
+    {
+      "path": "../game-items-core"
+    },
+    {
+      "path": "../game-items-rules-core"
+    },
+    {
+      "path": "../game-items-rules-matcher"
+    },
+    {
+      "path": "../game-items-rules-routing"
+    },
+    {
+      "path": "../game-items-rules-routing-core"
+    },
+    {
+      "path": "../game-trading-pricing"
+    },
+    {
+      "path": "../game-characters-skill-lines"
+    }
+  ],
+  "include": [
+    "src/**/*.ts",
+    "src/**/*.tsx"
+  ],
+  "exclude": [
+    "node_modules",
+    "dist"
+  ]
+}

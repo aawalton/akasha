@@ -1,0 +1,34 @@
+import { runPagesOptimisticMutation } from "@shared/pages-ui-store/optimistic/optimistic-mutation"
+import { type PagesMutationPlan } from "@shared/pages-ui-store/optimistic/plan"
+import { getPagesStore } from "@shared/pages-ui-store/singleton"
+import {
+  type InteractionToken,
+  recordPglitePersisted,
+  recordRoundTripSettled,
+  recordVisibleUpdate,
+} from "../../perf/page-card-perf"
+
+export async function runOptimisticMutation<Result>(args: {
+  readonly plans: readonly PagesMutationPlan[]
+  readonly mutate: () => Promise<Result>
+  readonly perfToken?: InteractionToken
+}): Promise<Result> {
+  const { plans, mutate, perfToken } = args
+  if (plans.length === 0) return mutate()
+
+  const store = await getPagesStore()
+  const resultPromise = runPagesOptimisticMutation(store.collection, plans, mutate)
+  if (perfToken !== undefined) {
+    recordPglitePersisted(perfToken)
+    requestAnimationFrame(() => {
+      recordVisibleUpdate(perfToken)
+    })
+  }
+  const result = await resultPromise
+  if (perfToken !== undefined) {
+    requestAnimationFrame(() => {
+      recordRoundTripSettled(perfToken)
+    })
+  }
+  return result
+}

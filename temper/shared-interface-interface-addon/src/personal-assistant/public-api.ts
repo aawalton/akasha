@@ -1,0 +1,7 @@
+import { ASSISTANT_COLLECTIBLES } from "./constants"
+
+declare global {
+  var PERSONNAL_ASSISTANTS: typeof ASSISTANT_COLLECTIBLES
+}
+
+globalThis.PERSONNAL_ASSISTANTS = ASSISTANT_COLLECTIBLES

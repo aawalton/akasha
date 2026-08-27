@@ -1,0 +1,49 @@
+{
+  "extends": "../../tsconfig.base.json",
+  "compilerOptions": {
+    "composite": true,
+    "noEmit": false,
+    "emitDeclarationOnly": true,
+    "declarationDir": "dist",
+    "jsx": "react-jsx",
+    "lib": [
+      "dom",
+      "dom.iterable",
+      "esnext"
+    ],
+    "types": [
+      "@types/bun"
+    ]
+  },
+  "references": [
+    {
+      "path": "../../shared/auth"
+    },
+    {
+      "path": "../../shared/pages-access"
+    },
+    {
+      "path": "../../shared/pages-ui"
+    },
+    {
+      "path": "../../shared/supabase-database"
+    },
+    {
+      "path": "../../shared/supabase-rr"
+    },
+    {
+      "path": "../game-companions-core"
+    },
+    {
+      "path": "../game-characters"
+    }
+  ],
+  "include": [
+    "src/**/*.ts",
+    "src/**/*.tsx"
+  ],
+  "exclude": [
+    "node_modules",
+    "dist"
+  ]
+}

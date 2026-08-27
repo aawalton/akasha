@@ -1,0 +1,1 @@
+TemperCatalogConfig = nil

@@ -1,0 +1,77 @@
+/**
+ * Temper Dungeons (Generated)
+ *
+ * ESO group dungeons + quest givers + rotation slots, sourced from the
+ * universal pages table (page types: temper-dungeon, temper-quest-giver).
+ *
+ * DO NOT EDIT — regenerate with: ops temper addon-data generate
+ */
+
+import type { Dungeon, QuestGiver } from "../../../../../code/packages/temper/shared/foundation-misc/dungeons/src"
+
+export const TEMPER_DUNGEONS = [
+  { key: "AC", label: "Arx Corinium", soloDifficulty: "easy", questGiverId: "019e121f-c742-7892-bd4f-b4fca9ab01b9", rotationPosition: 6 },
+  { key: "BC", label: "Blessed Crucible", soloDifficulty: "easy", questGiverId: "019e121f-c742-7892-bd4f-b4fca9ab01b9", rotationPosition: 11 },
+  { key: "BC1", label: "Banished Cells I", soloDifficulty: "easy", questGiverId: "019e121f-c73f-76be-95c9-9c6cb2ed5191", rotationPosition: 1 },
+  { key: "BC2", label: "Banished Cells II", soloDifficulty: "medium", questGiverId: "019e121f-c73f-76be-95c9-9c6cb2ed5191", rotationPosition: 8 },
+  { key: "BDV", label: "Black Drake Villa", soloDifficulty: "hard", questGiverId: "019e121f-c744-7eee-8487-370f70f4a93d", rotationPosition: 18 },
+  { key: "BF", label: "Bloodroot Forge", soloDifficulty: "hard", questGiverId: "019e121f-c744-7eee-8487-370f70f4a93d", rotationPosition: 4 },
+  { key: "BGF", label: "Black Gem Foundry", soloDifficulty: "hard", questGiverId: "019e121f-c744-7eee-8487-370f70f4a93d", rotationPosition: 33 },
+  { key: "BH", label: "Blackheart Haven", soloDifficulty: "hard", questGiverId: "019e121f-c742-7892-bd4f-b4fca9ab01b9", rotationPosition: 5 },
+  { key: "BS", label: "Bal Sunnar", soloDifficulty: "hard", questGiverId: "019e121f-c744-7eee-8487-370f70f4a93d", rotationPosition: 26 },
+  { key: "BV", label: "Bedlam Veil", soloDifficulty: "hard", questGiverId: "019e121f-c744-7eee-8487-370f70f4a93d", rotationPosition: 28 },
+  { key: "CA", label: "Coral Aerie", soloDifficulty: "hard", questGiverId: "019e121f-c744-7eee-8487-370f70f4a93d", rotationPosition: 22 },
+  { key: "CA1", label: "City of Ash I", soloDifficulty: "easy", questGiverId: "019e121f-c742-7892-bd4f-b4fca9ab01b9", rotationPosition: 3 },
+  { key: "CA2", label: "City of Ash II", soloDifficulty: "medium", questGiverId: "019e121f-c742-7892-bd4f-b4fca9ab01b9", rotationPosition: 8 },
+  { key: "CH1", label: "Crypt of Hearts I", soloDifficulty: "easy", questGiverId: "019e121f-c742-7892-bd4f-b4fca9ab01b9", rotationPosition: 9 },
+  { key: "CH2", label: "Crypt of Hearts II", soloDifficulty: "hard", questGiverId: "019e121f-c742-7892-bd4f-b4fca9ab01b9", rotationPosition: 2 },
+  { key: "CS", label: "Cradle of Shadows", soloDifficulty: "hard", questGiverId: "019e121f-c744-7eee-8487-370f70f4a93d", rotationPosition: 2 },
+  { key: "CT", label: "Castle Thorn", soloDifficulty: "hard", questGiverId: "019e121f-c744-7eee-8487-370f70f4a93d", rotationPosition: 16 },
+  { key: "DC1", label: "Darkshade Caverns I", soloDifficulty: "easy", questGiverId: "019e121f-c73f-76be-95c9-9c6cb2ed5191", rotationPosition: 9 },
+  { key: "DC2", label: "Darkshade Caverns II", soloDifficulty: "medium", questGiverId: "019e121f-c73f-76be-95c9-9c6cb2ed5191", rotationPosition: 4 },
+  { key: "DK", label: "Direfrost Keep", soloDifficulty: "easy", questGiverId: "019e121f-c742-7892-bd4f-b4fca9ab01b9", rotationPosition: 0 },
+  { key: "DoM", label: "Depths of Malatar", soloDifficulty: "hard", questGiverId: "019e121f-c744-7eee-8487-370f70f4a93d", rotationPosition: 10 },
+  { key: "EH1", label: "Elden Hollow I", soloDifficulty: "easy", questGiverId: "019e121f-c73f-76be-95c9-9c6cb2ed5191", rotationPosition: 5 },
+  { key: "EH2", label: "Elden Hollow II", soloDifficulty: "medium", questGiverId: "019e121f-c73f-76be-95c9-9c6cb2ed5191", rotationPosition: 10 },
+  { key: "ER", label: "Exiled Redoubt", soloDifficulty: "hard", questGiverId: "019e121f-c744-7eee-8487-370f70f4a93d", rotationPosition: 30 },
+  { key: "ERE", label: "Earthen Root Enclave", soloDifficulty: "hard", questGiverId: "019e121f-c744-7eee-8487-370f70f4a93d", rotationPosition: 24 },
+  { key: "FG1", label: "Fungal Grotto I", soloDifficulty: "easy", questGiverId: "019e121f-c73f-76be-95c9-9c6cb2ed5191", rotationPosition: 7 },
+  { key: "FG2", label: "Fungal Grotto II", soloDifficulty: "hard", questGiverId: "019e121f-c73f-76be-95c9-9c6cb2ed5191", rotationPosition: 2 },
+  { key: "FH", label: "Falkreath Hold", soloDifficulty: "hard", questGiverId: "019e121f-c744-7eee-8487-370f70f4a93d", rotationPosition: 5 },
+  { key: "FL", label: "Fang Lair", soloDifficulty: "hard", questGiverId: "019e121f-c744-7eee-8487-370f70f4a93d", rotationPosition: 6 },
+  { key: "FV", label: "Frostvault", soloDifficulty: "hard", questGiverId: "019e121f-c744-7eee-8487-370f70f4a93d", rotationPosition: 11 },
+  { key: "GD", label: "Graven Deep", soloDifficulty: "hard", questGiverId: "019e121f-c744-7eee-8487-370f70f4a93d", rotationPosition: 25 },
+  { key: "ICP", label: "Imperial City Prison", soloDifficulty: "hard", questGiverId: "019e121f-c744-7eee-8487-370f70f4a93d", rotationPosition: 0 },
+  { key: "IR", label: "Icereach", soloDifficulty: "hard", questGiverId: "019e121f-c744-7eee-8487-370f70f4a93d", rotationPosition: 14 },
+  { key: "LM", label: "Lair of Maarselok", soloDifficulty: "hard", questGiverId: "019e121f-c744-7eee-8487-370f70f4a93d", rotationPosition: 12 },
+  { key: "LS", label: "Lep Seclusa", soloDifficulty: "hard", questGiverId: "019e121f-c744-7eee-8487-370f70f4a93d", rotationPosition: 31 },
+  { key: "MF", label: "Moongrave Fane", soloDifficulty: "hard", questGiverId: "019e121f-c744-7eee-8487-370f70f4a93d", rotationPosition: 13 },
+  { key: "MHK", label: "Moon Hunter Keep", soloDifficulty: "hard", questGiverId: "019e121f-c744-7eee-8487-370f70f4a93d", rotationPosition: 9 },
+  { key: "MOS", label: "March of Sacrifices", soloDifficulty: "hard", questGiverId: "019e121f-c744-7eee-8487-370f70f4a93d", rotationPosition: 8 },
+  { key: "NC", label: "Naj-Caldeesh", soloDifficulty: "hard", questGiverId: "019e121f-c744-7eee-8487-370f70f4a93d", rotationPosition: 32 },
+  { key: "OP", label: "Oathsworn Pit", soloDifficulty: "hard", questGiverId: "019e121f-c744-7eee-8487-370f70f4a93d", rotationPosition: 29 },
+  { key: "RM", label: "Ruins of Mazzatun", soloDifficulty: "hard", questGiverId: "019e121f-c744-7eee-8487-370f70f4a93d", rotationPosition: 3 },
+  { key: "RPB", label: "Red Petal Bastion", soloDifficulty: "hard", questGiverId: "019e121f-c744-7eee-8487-370f70f4a93d", rotationPosition: 20 },
+  { key: "SC1", label: "Spindleclutch I", soloDifficulty: "easy", questGiverId: "019e121f-c73f-76be-95c9-9c6cb2ed5191", rotationPosition: 3 },
+  { key: "SC2", label: "Spindleclutch II", soloDifficulty: "easy", questGiverId: "019e121f-c73f-76be-95c9-9c6cb2ed5191", rotationPosition: 0 },
+  { key: "SG", label: "Stone Garden", soloDifficulty: "hard", questGiverId: "019e121f-c744-7eee-8487-370f70f4a93d", rotationPosition: 17 },
+  { key: "SH", label: "Scrivener's Hall", soloDifficulty: "hard", questGiverId: "019e121f-c744-7eee-8487-370f70f4a93d", rotationPosition: 27 },
+  { key: "SP", label: "Scalecaller Peak", soloDifficulty: "hard", questGiverId: "019e121f-c744-7eee-8487-370f70f4a93d", rotationPosition: 7 },
+  { key: "SR", label: "Shipwright's Regret", soloDifficulty: "hard", questGiverId: "019e121f-c744-7eee-8487-370f70f4a93d", rotationPosition: 23 },
+  { key: "SW", label: "Selene's Web", soloDifficulty: "easy", questGiverId: "019e121f-c742-7892-bd4f-b4fca9ab01b9", rotationPosition: 7 },
+  { key: "TC", label: "The Cauldron", soloDifficulty: "hard", questGiverId: "019e121f-c744-7eee-8487-370f70f4a93d", rotationPosition: 19 },
+  { key: "TDC", label: "The Dread Cellar", soloDifficulty: "hard", questGiverId: "019e121f-c744-7eee-8487-370f70f4a93d", rotationPosition: 21 },
+  { key: "TI", label: "Tempest Island", soloDifficulty: "easy", questGiverId: "019e121f-c742-7892-bd4f-b4fca9ab01b9", rotationPosition: 4 },
+  { key: "UG", label: "Unhallowed Grave", soloDifficulty: "hard", questGiverId: "019e121f-c744-7eee-8487-370f70f4a93d", rotationPosition: 15 },
+  { key: "VF", label: "Volenfell", soloDifficulty: "easy", questGiverId: "019e121f-c742-7892-bd4f-b4fca9ab01b9", rotationPosition: 10 },
+  { key: "VM", label: "Vaults of Madness", soloDifficulty: "easy", questGiverId: "019e121f-c742-7892-bd4f-b4fca9ab01b9", rotationPosition: 1 },
+  { key: "WGT", label: "White-Gold Tower", soloDifficulty: "hard", questGiverId: "019e121f-c744-7eee-8487-370f70f4a93d", rotationPosition: 1 },
+  { key: "WS1", label: "Wayrest Sewers I", soloDifficulty: "easy", questGiverId: "019e121f-c73f-76be-95c9-9c6cb2ed5191", rotationPosition: 11 },
+  { key: "WS2", label: "Wayrest Sewers II", soloDifficulty: "hard", questGiverId: "019e121f-c73f-76be-95c9-9c6cb2ed5191", rotationPosition: 6 },
+] as const satisfies readonly Dungeon[]
+
+export const TEMPER_QUEST_GIVERS = [
+  { id: "019e121f-c73f-76be-95c9-9c6cb2ed5191", name: "Maj al-Ragath", epoch: "2026-02-21", cycleLength: 12 },
+  { id: "019e121f-c742-7892-bd4f-b4fca9ab01b9", name: "Glirion the Redbeard", epoch: "2026-02-21", cycleLength: 12 },
+  { id: "019e121f-c744-7eee-8487-370f70f4a93d", name: "Urgarlag Chief-bane", epoch: "2026-02-18", cycleLength: 34 },
+] as const satisfies readonly QuestGiver[]

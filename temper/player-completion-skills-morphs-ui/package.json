@@ -1,0 +1,36 @@
+{
+  "name": "@temper/player-completion-skills-morphs-ui",
+  "dependencies": {
+    "@shared/design-system": "workspace:*",
+    "@shared/utils-narrow": "workspace:*",
+    "@temper/game-characters-classes": "workspace:*",
+    "@temper/player-completion": "workspace:*",
+    "@temper/player-completion-ui": "workspace:*",
+    "@temper/game-characters-skill-lines": "workspace:*",
+    "@temper/game-characters-skills-morphs-core": "workspace:*"
+  },
+  "devDependencies": {
+    "@types/bun": "^1.3.9",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "typescript": "^5.8.3"
+  },
+  "peerDependencies": {
+    "react": "^18 || ^19",
+    "react-dom": "^18 || ^19"
+  },
+  "functionalType": "next-ui",
+  "version": "0.1.0",
+  "type": "module",
+  "private": true,
+  "exports": {
+    "./*": "./src/*.ts"
+  },
+  "scripts": {
+    "typecheck": "bunx @typescript/native-preview -b",
+    "lint": "biome check .",
+    "lint:fix": "biome check --write ."
+  }
+}

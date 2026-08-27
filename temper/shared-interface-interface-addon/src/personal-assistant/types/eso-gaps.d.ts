@@ -1,0 +1,1 @@
+declare const SI_COLLECTIBLE_NAME_FORMATTER: number

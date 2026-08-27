@@ -1,0 +1,73 @@
+{
+  "extends": "../../tsconfig.base.json",
+  "compilerOptions": {
+    "composite": true,
+    "noEmit": false,
+    "emitDeclarationOnly": true,
+    "declarationDir": "dist",
+    "jsx": "react-jsx",
+    "lib": [
+      "dom",
+      "dom.iterable",
+      "esnext"
+    ],
+    "types": [
+      "@types/bun"
+    ]
+  },
+  "references": [
+    {
+      "path": "../../shared/design-layout"
+    },
+    {
+      "path": "../../shared/design-primitives"
+    },
+    {
+      "path": "../../shared/design-system"
+    },
+    {
+      "path": "../../shared/utils-narrow"
+    },
+    {
+      "path": "../game-codec"
+    },
+    {
+      "path": "../game-companions-core"
+    },
+    {
+      "path": "../game-companions-ui"
+    },
+    {
+      "path": "../player-completion-ui"
+    },
+    {
+      "path": "../game-characters"
+    },
+    {
+      "path": "../shared-formula-framework"
+    },
+    {
+      "path": "../game-items-core"
+    },
+    {
+      "path": "../player-economics-core"
+    },
+    {
+      "path": "../player-inventory-management-ui"
+    },
+    {
+      "path": "../player-profile"
+    },
+    {
+      "path": "../game-trading-pricing"
+    }
+  ],
+  "include": [
+    "src/**/*.ts",
+    "src/**/*.tsx"
+  ],
+  "exclude": [
+    "node_modules",
+    "dist"
+  ]
+}

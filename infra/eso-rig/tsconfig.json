@@ -1,0 +1,28 @@
+{
+  "extends": "../../tsconfig.base.json",
+  "compilerOptions": {
+    "composite": true,
+    "noEmit": false,
+    "emitDeclarationOnly": true,
+    "declarationDir": "dist",
+    "lib": [
+      "esnext"
+    ],
+    "types": [
+      "@types/bun"
+    ]
+  },
+  "include": [
+    "k8s/**/*.ts"
+  ],
+  "exclude": [
+    "node_modules",
+    "dist",
+    "./**/*.test.ts"
+  ],
+  "references": [
+    {
+      "path": "../k8s-types"
+    }
+  ]
+}

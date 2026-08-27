@@ -1,0 +1,107 @@
+@layer base {
+  body {
+    @apply bg-surface-0 text-primary;
+  }
+
+  @media (min-width: 584px) {
+    html[data-sidebar] main {
+      margin-left: var(--sidebar-width-collapsed);
+    }
+    html[data-sidebar] aside[data-slot="app-shell-sidebar"] {
+      width: var(--sidebar-width-collapsed);
+    }
+  }
+  @media (min-width: 776px) {
+    html[data-sidebar="expanded"] main {
+      margin-left: var(--sidebar-width-expanded);
+    }
+    html[data-sidebar="expanded"] aside[data-slot="app-shell-sidebar"] {
+      width: var(--sidebar-width-expanded);
+    }
+  }
+  html[data-sidebar-ready] main {
+    transition: margin 200ms;
+  }
+  html[data-sidebar-ready] aside[data-slot="app-shell-sidebar"] {
+    transition: width 200ms;
+  }
+
+  nav[data-slot="app-shell-bottom-nav"] {
+    transition: translate 200ms;
+  }
+  html[data-chrome-hidden] nav[data-slot="app-shell-bottom-nav"] {
+    translate: 0 100%;
+  }
+
+  [data-slot="frame-sticky-header"],
+  [data-slot="frame-sticky-footer"] {
+    transition: translate 200ms, visibility 200ms;
+  }
+  html[data-chrome-hidden] [data-slot="frame-sticky-header"] {
+    translate: 0 calc(-100% - var(--safe-area-top));
+    visibility: hidden;
+  }
+  html[data-chrome-hidden] [data-slot="frame-sticky-footer"] {
+    translate: 0 100%;
+    visibility: hidden;
+  }
+  html[data-frame-footer] nav[data-slot="app-shell-bottom-nav"] {
+    display: none;
+  }
+  html[data-chrome-hidden] [data-slot="reader-reading-progress"] {
+    display: none;
+  }
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--surface-4);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--tertiary);
+}
+
+.scrollbar-none {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+.scrollbar-none::-webkit-scrollbar {
+  display: none;
+}
+
+input:-webkit-autofill,
+input:-webkit-autofill:hover,
+input:-webkit-autofill:focus {
+  -webkit-text-fill-color: var(--primary);
+  -webkit-box-shadow: 0 0 0px 1000px var(--surface-2) inset;
+  transition: background-color 5000s ease-in-out 0s;
+}
+
+[data-view-only] :disabled,
+[data-view-only] [data-disabled] {
+  opacity: 1;
+  cursor: default;
+  pointer-events: auto;
+}
+
+.date-input-accent::-webkit-datetime-edit-year-field:focus,
+.date-input-accent::-webkit-datetime-edit-month-field:focus,
+.date-input-accent::-webkit-datetime-edit-day-field:focus,
+.date-input-accent::-webkit-datetime-edit-hour-field:focus,
+.date-input-accent::-webkit-datetime-edit-minute-field:focus,
+.date-input-accent::-webkit-datetime-edit-ampm-field:focus {
+  background-color: color-mix(in srgb, var(--color-accent) 15%, transparent);
+  color: var(--color-accent);
+  outline: none;
+}

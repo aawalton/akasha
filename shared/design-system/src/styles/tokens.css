@@ -1,0 +1,51 @@
+:root {
+  color-scheme: dark;
+  --surface-0: oklch(0.07 0 0);
+  --surface-1: oklch(0.19 0 0);
+  --surface-2: oklch(0.25 0 0);
+  --surface-3: oklch(0.30 0 0);
+  --surface-4: oklch(0.35 0 0);
+
+  --state-hover: 0.08;
+  --state-focus: 0.12;
+  --state-pressed: 0.12;
+  --state-pressed-high: 0.16;
+  --state-dragged: 0.16;
+  --state-disabled-content: 0.38;
+  --state-disabled-container: 0.12;
+
+  --primary: oklch(0.88 0 0);
+  --secondary: oklch(0.72 0 0);
+  --tertiary: oklch(0.56 0 0);
+
+  --green: oklch(0.57 0.12 155);
+  --blue: oklch(0.47 0.12 258);
+  --purple: oklch(0.51 0.14 308);
+  --yellow: oklch(0.63 0.13 73);
+  --orange: oklch(0.58 0.15 50);
+  --red: oklch(0.47 0.17 19);
+
+  --radius: 0.5rem;
+
+  --spacing-0-5: 0.125rem;
+  --spacing-1: 0.25rem;
+  --spacing-1-5: 0.375rem;
+  --spacing-2: 0.5rem;
+  --spacing-3: 0.75rem;
+  --spacing-4: 1rem;
+  --spacing-6: 1.5rem;
+
+  --safe-area-top: env(safe-area-inset-top, 0px);
+  --safe-area-right: env(safe-area-inset-right, 0px);
+  --safe-area-bottom: env(safe-area-inset-bottom, 0px);
+  --safe-area-left: env(safe-area-inset-left, 0px);
+
+  --bottom-nav-height: 3rem;
+  --tab-bar-height: 2.25rem;
+  --sidebar-width-collapsed: 4rem;
+  --sidebar-width-expanded: 16rem;
+  --popover-collision-padding: 8px;
+
+  --content-clearance-bottom-nav: calc(var(--bottom-nav-height) + var(--safe-area-bottom) + 1rem);
+  --content-clearance-tabs: calc(var(--tab-bar-height) + var(--safe-area-bottom) + 1rem);
+}

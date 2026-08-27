@@ -1,0 +1,39 @@
+{
+  "extends": "../../tsconfig.base.json",
+  "references": [
+    {
+      "path": "../player-completion-addon"
+    },
+    {
+      "path": "../shared-addon-libraries-lib-addon-keybinds"
+    },
+    {
+      "path": "../shared-addon-libraries-lib-alchemy-station"
+    },
+    {
+      "path": "../shared-addon-libraries-lib-chat-message"
+    },
+    {
+      "path": "../shared-addon-libraries-lib-debug-logger"
+    },
+    {
+      "path": "../shared-addon-libraries-lib-histoire"
+    },
+    {
+      "path": "../shared-addon-libraries-lib-notification"
+    },
+    {
+      "path": "../shared-addon-libraries-lib-saved-vars"
+    },
+    {
+      "path": "../shared-addon-libraries-lib-table-functions"
+    },
+    {
+      "path": "../shared-addon-libraries-lib-treasure"
+    },
+    {
+      "path": "../shared-foundation-misc-eso-paths-resolve"
+    }
+  ],
+  "files": []
+}

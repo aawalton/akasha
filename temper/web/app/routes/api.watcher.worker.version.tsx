@@ -1,0 +1,19 @@
+import { existsSync, readFileSync } from "node:fs"
+import { join } from "node:path"
+import { WATCHER_DIR } from "~/lib/watcher-dir"
+import type { Route } from "./+types/api.watcher.worker.version"
+
+const VERSION_FILE = join(WATCHER_DIR, "version.txt")
+
+export function loader(_: Route.LoaderArgs): Response {
+  if (!existsSync(VERSION_FILE)) {
+    return Response.json({ error: "Version not available" }, { status: 404 })
+  }
+
+  const version = readFileSync(VERSION_FILE, "utf-8").trim()
+
+  return Response.json({
+    version,
+    downloadUrl: "/api/watcher/worker/download",
+  })
+}

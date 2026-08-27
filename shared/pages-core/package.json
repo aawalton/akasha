@@ -1,0 +1,33 @@
+{
+  "name": "@shared/pages-core",
+  "functionalType": "pure",
+  "version": "0.1.0",
+  "type": "module",
+  "private": true,
+  "exports": {
+    ".": "./src/index.ts",
+    "./schema/action-button-config": "./src/schema/action-button-config.ts",
+    "./schema/color-rule": "./src/schema/color-rule.ts",
+    "./schema/pages": "./src/schema/pages.ts",
+    "./schema/schema-profile": "./src/schema/schema-profile.ts",
+    "./user-sentinels": "./src/user-sentinels.ts",
+    "./view-state": "./src/view-state/index.ts",
+    "./*": "./src/*.ts"
+  },
+  "dependencies": {
+    "@shared/pages-url": "workspace:*",
+    "@shared/recurrence": "workspace:*",
+    "@shared/supabase-database": "workspace:*",
+    "@shared/utils-narrow": "workspace:*",
+    "zod": "^4.3.6"
+  },
+  "scripts": {
+    "typecheck": "bunx @typescript/native-preview -b",
+    "lint": "biome check .",
+    "lint:fix": "biome check --write ."
+  },
+  "devDependencies": {
+    "@types/bun": "^1.3.9",
+    "typescript": "^5.8.3"
+  }
+}

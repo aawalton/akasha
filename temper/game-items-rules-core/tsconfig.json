@@ -1,0 +1,39 @@
+{
+  "extends": "../../tsconfig.base.json",
+  "compilerOptions": {
+    "composite": true,
+    "noEmit": false,
+    "emitDeclarationOnly": true,
+    "declarationDir": "dist",
+    "types": [
+      "@types/bun"
+    ]
+  },
+  "references": [
+    {
+      "path": "../game-characters-character"
+    },
+    {
+      "path": "../game-companions-core"
+    },
+    {
+      "path": "../game-characters-equipment"
+    },
+    {
+      "path": "../game-items-core"
+    },
+    {
+      "path": "../shared-engine"
+    },
+    {
+      "path": "../../shared/utils-narrow"
+    }
+  ],
+  "include": [
+    "src/**/*.ts"
+  ],
+  "exclude": [
+    "node_modules",
+    "dist"
+  ]
+}

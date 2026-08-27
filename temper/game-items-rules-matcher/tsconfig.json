@@ -1,0 +1,57 @@
+{
+  "extends": "../../tsconfig.base.json",
+  "compilerOptions": {
+    "composite": true,
+    "noEmit": false,
+    "emitDeclarationOnly": true,
+    "declarationDir": "dist",
+    "types": [
+      "@types/bun"
+    ]
+  },
+  "references": [
+    {
+      "path": "../game-items-alchemy"
+    },
+    {
+      "path": "../game-characters-character"
+    },
+    {
+      "path": "../game-codec"
+    },
+    {
+      "path": "../game-companions-core"
+    },
+    {
+      "path": "../shared-engine"
+    },
+    {
+      "path": "../shared-formula-framework"
+    },
+    {
+      "path": "../game-items-core"
+    },
+    {
+      "path": "../game-items-rules-core"
+    },
+    {
+      "path": "../game-items-rules-eval"
+    },
+    {
+      "path": "../game-characters-skill-lines"
+    },
+    {
+      "path": "../game-characters-skills-morphs-access"
+    },
+    {
+      "path": "../../shared/utils-narrow"
+    }
+  ],
+  "include": [
+    "src/**/*.ts"
+  ],
+  "exclude": [
+    "node_modules",
+    "dist"
+  ]
+}

@@ -1,0 +1,180 @@
+"use client"
+
+import type { CharacterState } from "@temper/game-characters-character/build-types"
+import type { ClassId } from "@temper/game-characters-classes/classes-data"
+import { armorSlots } from "@temper/game-characters-equipment/armor/armor-slots-data"
+import { jewelrySlots } from "@temper/game-characters-equipment/jewelry/jewelry-slots-data"
+import {
+  bulkUpdateAllQuality,
+  bulkUpdateAllSets,
+} from "@temper/game-characters-equipment/loadout/bulk-update-functions"
+import type { WeaponBars } from "@temper/game-characters-equipment/loadout/loadout-types"
+import {
+  getMythicSlots,
+  getWeaponMythicSlots,
+} from "@temper/game-characters-equipment/loadout/mythic-set-rules"
+import {
+  getWeaponItem,
+  isShieldSlot,
+  isWeaponSlot,
+  shouldHideWeaponSlot,
+} from "@temper/game-characters-equipment/loadout/weapon-slot-access"
+import type { EquipmentQualityOptionId } from "@temper/game-characters-equipment/quality-data"
+import type { SetsAll, SetsAllId } from "@temper/game-characters-equipment/sets/sets-all-data"
+import { weaponBars } from "@temper/game-characters-equipment/weapons/weapon-bars-data"
+import { weaponSlots } from "@temper/game-characters-equipment/weapons/weapon-slots-data"
+import { weaponTypes } from "@temper/game-characters-equipment/weapons/weapon-types-data"
+import { AVAILABLE_QUALITY_OPTIONS, getQualityVariant } from "@temper/game-characters-equipment-ui/equipment-quality-helpers"
+import { groupByCount } from "@temper/shared-engine/utils"
+import { useMemo } from "react"
+import { BulkEditTag } from "@/components/equipment/bulk-edit-tag"
+import { BulkSetEditTag } from "@/components/equipment/bulk-set-edit-tag"
+
+interface GlobalSetBulkEditTagsProps {
+  equipment: CharacterState["equipment"]
+  onUpdate: (updates: Partial<CharacterState["equipment"]>) => void
+  availableSets: readonly SetsAll[]
+  playerClass?: ClassId | null
+}
+
+export function GlobalSetBulkEditTags({
+  equipment,
+  onUpdate,
+  availableSets,
+  playerClass,
+}: GlobalSetBulkEditTagsProps) {
+  const allSetIds = useMemo(() => {
+    const setIds: SetsAllId[] = []
+
+    for (const slot of armorSlots.list) {
+      const item = equipment.armor[slot.id]
+      setIds.push(item.itemType === "armor" ? (item.data.set ?? "no-set") : "no-set")
+    }
+
+    for (const slot of jewelrySlots.list) {
+      const item = equipment.jewelry[slot.id]
+      setIds.push(item.itemType === "jewelry" ? (item.data.set ?? "no-set") : "no-set")
+    }
+
+    const weaponEquipment: WeaponBars = {
+      "primary-weapon-bar": equipment["primary-weapon-bar"],
+      "backup-weapon-bar": equipment["backup-weapon-bar"],
+    }
+    for (const slotConfig of weaponSlots.list) {
+      if (slotConfig.id === "poison") continue
+      for (const barConfig of weaponBars.list) {
+        const slot = getWeaponItem(weaponEquipment, slotConfig.id, barConfig.id)
+        const isHidden = shouldHideWeaponSlot(weaponEquipment, slotConfig.id, barConfig.id)
+        if (isHidden) continue
+        if (isWeaponSlot(slot)) {
+          setIds.push(slot.data.set ?? "no-set")
+          if (slotConfig.id === "main-hand" && weaponTypes.data[slot.data.type].isTwoHanded) {
+            setIds.push(slot.data.set ?? "no-set")
+          }
+        } else if (isShieldSlot(slot)) {
+          setIds.push(slot.data.set ?? "no-set")
+        } else {
+          setIds.push("no-set")
+        }
+      }
+    }
+
+    return setIds
+  }, [equipment])
+
+  const setCounts = useMemo(() => groupByCount(allSetIds, (id) => id), [allSetIds])
+
+  const allQualityIds = useMemo(() => {
+    const qualityIds: EquipmentQualityOptionId[] = []
+
+    for (const slot of armorSlots.list) {
+      const item = equipment.armor[slot.id]
+      qualityIds.push(
+        item.itemType === "armor" ? (item.data.quality ?? "no-quality") : "no-quality"
+      )
+    }
+
+    for (const slot of jewelrySlots.list) {
+      const item = equipment.jewelry[slot.id]
+      qualityIds.push(
+        item.itemType === "jewelry" ? (item.data.quality ?? "no-quality") : "no-quality"
+      )
+    }
+
+    const weaponEquipment: WeaponBars = {
+      "primary-weapon-bar": equipment["primary-weapon-bar"],
+      "backup-weapon-bar": equipment["backup-weapon-bar"],
+    }
+    for (const slotConfig of weaponSlots.list) {
+      if (slotConfig.id === "poison") continue
+      for (const barConfig of weaponBars.list) {
+        const slot = getWeaponItem(weaponEquipment, slotConfig.id, barConfig.id)
+        const isHidden = shouldHideWeaponSlot(weaponEquipment, slotConfig.id, barConfig.id)
+        if (isHidden) continue
+        if (isWeaponSlot(slot)) {
+          qualityIds.push(slot.data.quality ?? "no-quality")
+          if (slotConfig.id === "main-hand" && weaponTypes.data[slot.data.type].isTwoHanded) {
+            qualityIds.push(slot.data.quality ?? "no-quality")
+          }
+        } else if (isShieldSlot(slot)) {
+          qualityIds.push(slot.data.quality ?? "no-quality")
+        } else {
+          qualityIds.push("no-quality")
+        }
+      }
+    }
+
+    return qualityIds
+  }, [equipment])
+
+  const qualityCounts = useMemo(() => groupByCount(allQualityIds, (id) => id), [allQualityIds])
+
+  const combinedMythicSlots = useMemo(() => {
+    const armorMythicSlots = getMythicSlots(equipment.armor, availableSets, armorSlots.list)
+    const jewelryMythicSlots = getMythicSlots(equipment.jewelry, availableSets, jewelrySlots.list)
+    const weaponMythicSlots = getWeaponMythicSlots(
+      equipment["primary-weapon-bar"],
+      equipment["backup-weapon-bar"],
+      availableSets
+    )
+    return { ...armorMythicSlots, ...jewelryMythicSlots, ...weaponMythicSlots }
+  }, [equipment, availableSets])
+
+  const handleBulkUpdateSet = (oldValue: SetsAllId, newValue: SetsAllId) => {
+    onUpdate(bulkUpdateAllSets(equipment, oldValue, newValue, availableSets))
+  }
+
+  const handleBulkUpdateQuality = (
+    oldValue: EquipmentQualityOptionId,
+    newValue: EquipmentQualityOptionId
+  ) => {
+    onUpdate(bulkUpdateAllQuality(equipment, oldValue, newValue))
+  }
+
+  return (
+    <div className="flex flex-wrap gap-1">
+      {qualityCounts.map(([quality, count]) => (
+        <BulkEditTag<EquipmentQualityOptionId>
+          key={`quality-${quality}`}
+          currentValue={quality}
+          options={AVAILABLE_QUALITY_OPTIONS}
+          onSelect={handleBulkUpdateQuality}
+          count={count}
+          getVariant={(q) => getQualityVariant(q, "elevation-muted")}
+        />
+      ))}
+      {setCounts.map(([setId, count]) => (
+        <BulkSetEditTag
+          key={`set-${setId}`}
+          currentValue={setId}
+          availableSets={availableSets}
+          onSelect={handleBulkUpdateSet}
+          count={count}
+          slotType="armor"
+          mythicSlot={setId !== "no-set" ? combinedMythicSlots[setId] : undefined}
+          playerClass={playerClass}
+        />
+      ))}
+    </div>
+  )
+}

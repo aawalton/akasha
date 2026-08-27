@@ -1,0 +1,29 @@
+{
+  "name": "TemperInterface",
+  "title": "Temper Interface",
+  "description": "Interface-domain residual hub — assistant-summon keybinds, unwanted-message/alert/dialog suppression, and standard-UI tweaks. Consolidates TemperPersonalAssistant, TemperNoThankYou, and TemperFCOChangeStuff (#15148).",
+  "author": "AlanGaming",
+  "version": "1.0.0",
+  "addonVersion": 100,
+  "apiVersion": ["101049", "101050", "101051"],
+  "savedVariables": ["TemperNoThankYou_SavedVariables", "TemperFCOChangeStuff_SavedVariables"],
+  "additionalLuaFiles": [],
+  "dependsOn": [
+    "TemperHud",
+    "LibAddonMenu-2.0>=41",
+    "LibNotification",
+    "LibScrollableMenu>=020400",
+    "LibShifterBox>=000700"
+  ],
+  "optionalDependsOn": [
+    "LibMainMenu-2.0",
+    "LibAddonMenuOrderListBox",
+    "FCOChatTabBrain",
+    "pChat",
+    "PerfectPixel",
+    "MasterMerchant"
+  ],
+  "xmlFiles": {
+    "afterBundle": ["XML/FCOCS_virtuals.xml"]
+  }
+}

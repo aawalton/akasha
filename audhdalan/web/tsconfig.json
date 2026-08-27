@@ -1,0 +1,78 @@
+{
+  "extends": "../../tsconfig.base.json",
+  "compilerOptions": {
+    "jsx": "react-jsx",
+    "lib": [
+      "dom",
+      "dom.iterable",
+      "esnext"
+    ],
+    "types": [
+      "@types/bun",
+      "node",
+      "vite/client"
+    ],
+    "rootDirs": [
+      ".",
+      "./.react-router/types"
+    ],
+    "paths": {
+      "@/*": [
+        "./*"
+      ],
+      "~/*": [
+        "./app/*"
+      ]
+    },
+    "composite": true,
+    "emitDeclarationOnly": true
+  },
+  "references": [
+    {
+      "path": "../../infra/k8s-types"
+    },
+    {
+      "path": "../../shared/design-layout"
+    },
+    {
+      "path": "../../shared/design-primitives"
+    },
+    {
+      "path": "../../shared/errors-client"
+    },
+    {
+      "path": "../../shared/errors-core"
+    },
+    {
+      "path": "../../shared/pages-access"
+    },
+    {
+      "path": "../../shared/pages-query"
+    },
+    {
+      "path": "../../shared/web-security-headers"
+    },
+    {
+      "path": "../../shared/web-static-assets"
+    }
+  ],
+  "include": [
+    "app/**/*.ts",
+    "app/**/*.tsx",
+    ".react-router/types/**/*.ts",
+    ".react-router/types/**/*.tsx",
+    ".react-router/types/**/+types/*.ts",
+    "server.ts",
+    "vite.config.ts",
+    "react-router.config.ts",
+    "deploy/k8s/**/*.ts",
+    "foundation.workflow.ts",
+    "apps.workflow.ts",
+    "tunnel-routes.ts"
+  ],
+  "exclude": [
+    "node_modules",
+    "dist",
+    "build"
+  ]
+}

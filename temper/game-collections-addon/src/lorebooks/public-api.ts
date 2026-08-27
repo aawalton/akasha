@@ -1,0 +1,28 @@
+import * as DataAccessors from "./data-accessors"
+
+declare global {
+  var LoreBooks_GetBookData: typeof DataAccessors.LoreBooks_GetBookData
+  var LoreBooks_GetNewEideticDataFromBookId: typeof DataAccessors.LoreBooks_GetNewEideticDataFromBookId
+  var LoreBooks_GetNewEideticData: typeof DataAccessors.LoreBooks_GetNewEideticData
+  var LoreBooks_GetEideticData: typeof DataAccessors.LoreBooks_GetEideticData
+  var LoreBooks_GetNewLoreBookInfo: typeof DataAccessors.LoreBooks_GetNewLoreBookInfo
+  var LoreBooks_GetNewLoreCollectionInfo: typeof DataAccessors.LoreBooks_GetNewLoreCollectionInfo
+  var LoreBooks_GetImmersiveModeCondition: typeof DataAccessors.LoreBooks_GetImmersiveModeCondition
+  var LoreBooks_GetLocalData: typeof DataAccessors.LoreBooks_GetLocalData
+  var LoreBooks_GetDataOfBook: typeof DataAccessors.LoreBooks_GetDataOfBook
+  var LoreBooks_GetAllData: typeof DataAccessors.LoreBooks_GetAllData
+  var LoreBooks_GetNewShalidorBookInfo: typeof DataAccessors.LoreBooks_GetNewShalidorBookInfo
+}
+
+globalThis.LoreBooks_GetBookData = DataAccessors.LoreBooks_GetBookData
+globalThis.LoreBooks_GetNewEideticDataFromBookId =
+  DataAccessors.LoreBooks_GetNewEideticDataFromBookId
+globalThis.LoreBooks_GetNewEideticData = DataAccessors.LoreBooks_GetNewEideticData
+globalThis.LoreBooks_GetEideticData = DataAccessors.LoreBooks_GetEideticData
+globalThis.LoreBooks_GetNewLoreBookInfo = DataAccessors.LoreBooks_GetNewLoreBookInfo
+globalThis.LoreBooks_GetNewLoreCollectionInfo = DataAccessors.LoreBooks_GetNewLoreCollectionInfo
+globalThis.LoreBooks_GetImmersiveModeCondition = DataAccessors.LoreBooks_GetImmersiveModeCondition
+globalThis.LoreBooks_GetLocalData = DataAccessors.LoreBooks_GetLocalData
+globalThis.LoreBooks_GetDataOfBook = DataAccessors.LoreBooks_GetDataOfBook
+globalThis.LoreBooks_GetAllData = DataAccessors.LoreBooks_GetAllData
+globalThis.LoreBooks_GetNewShalidorBookInfo = DataAccessors.LoreBooks_GetNewShalidorBookInfo

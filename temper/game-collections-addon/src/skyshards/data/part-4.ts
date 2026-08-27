@@ -1,0 +1,66 @@
+import type { SkyshardPin } from "./types"
+
+export const craglorn__craglorn_base = [
+  [0.7478, 0.725, 727, 1, 2],
+  [0.6853, 0.5995, 727, 2, 5],
+  [0.2847, 0.4599, 727, 3, 5],
+  [0.4415, 0.4684, 727, 4, 5],
+  [0.6674, 0.6733, 727, 5, 2],
+  [0.7198, 0.4387, 727, 6, 5],
+  [0.1468, 0.4594, 727, 7, 2],
+  [0.2149, 0.575, 727, 8, 5],
+  [0.8132, 0.5757, 727, 9, 2],
+  [0.4686, 0.6635, 727, 10, 5],
+  [0.3219, 0.6543, 727, 11, 2],
+  [0.5375, 0.5407, 727, 12, 5],
+  [0.2825, 0.264, 912, 13, 2],
+  [0.5827, 0.4257, 912, 14, 2],
+  [0.4002, 0.3094, 912, 15, 2],
+  [0.6622, 0.3317, 912, 16, 2],
+  [0.0868, 0.3064, 912, 17, 2],
+  [0.5478, 0.2512, 912, 18, 2],
+] satisfies readonly SkyshardPin[]
+
+export const craglorn__cryptoftarishzizone_base = [
+  [0.83, 0.446, 727, 11],
+] satisfies readonly SkyshardPin[]
+
+export const craglorn__exarchsstronghold_base = [
+  [0.626, 0.558, 912, 18],
+] satisfies readonly SkyshardPin[]
+
+export const craglorn__fearfang_base = [[0.572, 0.51, 912, 17]] satisfies readonly SkyshardPin[]
+
+export const craglorn__haddock_base = [[0.656, 0.233, 727, 5]] satisfies readonly SkyshardPin[]
+
+export const craglorn__hircineshaunt_base = [
+  [0.329, 0.661, 727, 12],
+] satisfies readonly SkyshardPin[]
+
+export const craglorn__howlingsepulchersoverland_base = [
+  [0.528, 0.534, 912, 16],
+] satisfies readonly SkyshardPin[]
+
+export const craglorn__ilthagsundertower_base = [
+  [0.379, 0.163, 912, 14],
+] satisfies readonly SkyshardPin[]
+
+export const craglorn__kardala_base = [[0.612, 0.455, 727, 3]] satisfies readonly SkyshardPin[]
+
+export const craglorn__lothna_base = [[0.416, 0.425, 912, 15]] satisfies readonly SkyshardPin[]
+
+export const craglorn__molavar_base = [[0.747, 0.352, 727, 1]] satisfies readonly SkyshardPin[]
+
+export const craglorn__mtharnaz_base = [[0.884, 0.625, 727, 8]] satisfies readonly SkyshardPin[]
+
+export const craglorn__rkhardahrk = [[0.463, 0.381, 727, 4]] satisfies readonly SkyshardPin[]
+
+export const craglorn__rkundzelft_base = [[0.715, 0.382, 727, 2]] satisfies readonly SkyshardPin[]
+
+export const craglorn__serpentsnest_base = [
+  [0.632, 0.507, 912, 13],
+] satisfies readonly SkyshardPin[]
+
+export const craglorn__thaliasretreat_base = [
+  [0.463, 0.292, 727, 10],
+] satisfies readonly SkyshardPin[]

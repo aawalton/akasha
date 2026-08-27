@@ -1,0 +1,229 @@
+{
+  "extends": "../../tsconfig.base.json",
+  "compilerOptions": {
+    "paths": {
+      "@/components/*": [
+        "./app/components/*"
+      ],
+      "@/hooks/*": [
+        "./app/hooks/*"
+      ],
+      "@/lib/next-seam-adapters": [
+        "./app/bridge/lib/next-seam-adapters.tsx"
+      ],
+      "@/lib/*": [
+        "./app/lib/*"
+      ],
+      "@/app/characters/import-actions": [
+        "./app/bridge/app/characters/import-actions.ts"
+      ],
+      "@/app/companions/import-actions": [
+        "./app/bridge/app/companions/import-actions.ts"
+      ],
+      "@/app/*": [
+        "./app/bridge/app/*"
+      ],
+      "@/*": [
+        "./*"
+      ],
+      "~/*": [
+        "./app/*"
+      ]
+    },
+    "jsx": "react-jsx",
+    "lib": [
+      "dom",
+      "dom.iterable",
+      "esnext"
+    ],
+    "types": [
+      "@types/bun",
+      "node",
+      "vite/client"
+    ],
+    "rootDirs": [
+      ".",
+      "./.react-router/types"
+    ],
+    "composite": true,
+    "emitDeclarationOnly": true
+  },
+  "references": [
+    {
+      "path": "../../infra/k8s-types"
+    },
+    {
+      "path": "../../shared/auth"
+    },
+    {
+      "path": "../../shared/design-layout"
+    },
+    {
+      "path": "../../shared/design-primitives"
+    },
+    {
+      "path": "../../shared/design-system"
+    },
+    {
+      "path": "../../shared/errors-client"
+    },
+    {
+      "path": "../../shared/errors-core"
+    },
+    {
+      "path": "../../shared/pages-access"
+    },
+    {
+      "path": "../../shared/pages-core"
+    },
+    {
+      "path": "../../shared/pages-query"
+    },
+    {
+      "path": "../../shared/pages-ui"
+    },
+    {
+      "path": "../../shared/pages-ui-store"
+    },
+    {
+      "path": "../../shared/pages-url"
+    },
+    {
+      "path": "../../shared/supabase-database"
+    },
+    {
+      "path": "../../shared/supabase-rr"
+    },
+    {
+      "path": "../../shared/supabase-server"
+    },
+    {
+      "path": "../../shared/utils-narrow"
+    },
+    {
+      "path": "../../shared/utils-test"
+    },
+    {
+      "path": "../../shared/web-security-headers"
+    },
+    {
+      "path": "../../shared/web-static-assets"
+    },
+    {
+      "path": "../game-characters"
+    },
+    {
+      "path": "../game-characters-champion-points"
+    },
+    {
+      "path": "../game-characters-character"
+    },
+    {
+      "path": "../game-characters-character-ui"
+    },
+    {
+      "path": "../game-characters-classes"
+    },
+    {
+      "path": "../game-characters-equipment"
+    },
+    {
+      "path": "../game-characters-equipment-ui"
+    },
+    {
+      "path": "../game-characters-races"
+    },
+    {
+      "path": "../game-characters-skill-lines"
+    },
+    {
+      "path": "../game-characters-skills"
+    },
+    {
+      "path": "../game-characters-skills-morphs-access"
+    },
+    {
+      "path": "../game-characters-skills-morphs-core"
+    },
+    {
+      "path": "../game-characters-stats"
+    },
+    {
+      "path": "../game-codec"
+    },
+    {
+      "path": "../game-companions-core"
+    },
+    {
+      "path": "../game-companions-ui"
+    },
+    {
+      "path": "../game-completion"
+    },
+    {
+      "path": "../game-items-alchemy"
+    },
+    {
+      "path": "../game-items-core"
+    },
+    {
+      "path": "../game-trading-pricing"
+    },
+    {
+      "path": "../game-trading-pricing-client"
+    },
+    {
+      "path": "../player-build-validation"
+    },
+    {
+      "path": "../player-completion"
+    },
+    {
+      "path": "../player-completion-skills-morphs-ui"
+    },
+    {
+      "path": "../player-completion-ui"
+    },
+    {
+      "path": "../player-economics-core"
+    },
+    {
+      "path": "../player-economics-ui"
+    },
+    {
+      "path": "../player-inventory-management-ui"
+    },
+    {
+      "path": "../player-profile"
+    },
+    {
+      "path": "../shared-engine"
+    },
+    {
+      "path": "../shared-formula-framework"
+    },
+    {
+      "path": "../shared-foundation-misc-dungeons"
+    }
+  ],
+  "include": [
+    "app/**/*.ts",
+    "app/**/*.tsx",
+    ".react-router/types/**/*.ts",
+    ".react-router/types/**/*.tsx",
+    ".react-router/types/**/+types/*.ts",
+    "server.ts",
+    "vite.config.ts",
+    "react-router.config.ts",
+    "tunnel-routes.ts",
+    "foundation.workflow.ts",
+    "apps.workflow.ts",
+    "deploy/k8s/addon-bundle-image.ts",
+    "deploy/k8s/synth.ts"
+  ],
+  "exclude": [
+    "node_modules",
+    "dist",
+    "build"
+  ]
+}

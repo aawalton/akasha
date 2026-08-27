@@ -1,0 +1,46 @@
+{
+  "extends": "../../tsconfig.base.json",
+  "compilerOptions": {
+    "composite": true,
+    "noEmit": false,
+    "emitDeclarationOnly": true,
+    "declarationDir": "dist",
+    "lib": [
+      "esnext"
+    ],
+    "types": [
+      "@types/bun"
+    ],
+    "rootDir": "../..",
+    "allowImportingTsExtensions": true
+  },
+  "include": [
+    "src/**/*.ts",
+    "../../akasha/page/page-seq.ts"
+  ],
+  "exclude": [
+    "node_modules",
+    "dist",
+    "./**/*.test.ts"
+  ],
+  "references": [
+    {
+      "path": "../pages-core"
+    },
+    {
+      "path": "../pages-query"
+    },
+    {
+      "path": "../pages-url"
+    },
+    {
+      "path": "../supabase-auth"
+    },
+    {
+      "path": "../supabase-database"
+    },
+    {
+      "path": "../utils-narrow"
+    }
+  ]
+}

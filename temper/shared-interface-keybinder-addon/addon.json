@@ -1,0 +1,12 @@
+{
+  "name": "TemperKeybinder",
+  "title": "Temper Keybinder",
+  "description": "Adds checkboxes to the key-bind dialog for user-account-wide key-bindings — direct port of Votan's Keybinder v1.4.6",
+  "author": "votan",
+  "version": "1.4.6",
+  "addonVersion": 10406,
+  "apiVersion": ["101050", "101051"],
+  "savedVariables": ["TemperKeybinder_SavedVariables"],
+  "dependsOn": [],
+  "optionalDependsOn": ["libAddonKeybinds>=6"]
+}

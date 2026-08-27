@@ -1,0 +1,51 @@
+{
+  "extends": "../../tsconfig.base.json",
+  "compilerOptions": {
+    "composite": true,
+    "noEmit": false,
+    "emitDeclarationOnly": true,
+    "declarationDir": "dist",
+    "jsx": "react-jsx",
+    "lib": [
+      "dom",
+      "dom.iterable",
+      "esnext"
+    ],
+    "types": [
+      "@types/bun"
+    ]
+  },
+  "references": [
+    {
+      "path": "../../shared/design-system"
+    },
+    {
+      "path": "../../shared/utils-narrow"
+    },
+    {
+      "path": "../game-characters-classes"
+    },
+    {
+      "path": "../player-completion"
+    },
+    {
+      "path": "../player-completion-ui"
+    },
+    {
+      "path": "../game-characters-skill-lines"
+    },
+    {
+      "path": "../game-characters-skills-morphs-core"
+    }
+  ],
+  "include": [
+    "src/**/*.ts",
+    "src/**/*.tsx"
+  ],
+  "exclude": [
+    "node_modules",
+    "dist",
+    "./**/*.test.ts",
+    "./**/*.test.tsx"
+  ]
+}

@@ -1,0 +1,190 @@
+import { LayoutLinkProvider, type LayoutRouter, LayoutRouterProvider } from "@shared/design-layout/router-context"
+import { AppShell as SharedAppShell } from "@shared/design-system"
+import { useSidebarState } from "@shared/design-layout/hooks/use-sidebar-state"
+import { type AppNavConfig } from "@shared/design-layout/types/nav-types"
+import { SortableNavs, useAppNavItems } from "@shared/pages-ui"
+import { PagesUILinkProvider, PagesUIRouterProvider } from "@shared/pages-ui/router-context"
+import { LogIn, LogOut } from "lucide-react"
+import { type ReactNode, useMemo } from "react"
+import { Link, useLocation, useNavigate, useSearchParams } from "react-router"
+import { primaryNavItems } from "~/components/nav-items"
+import { ARCHIVE_OF_WORLDS_APP_ID, ARCHIVE_OF_WORLDS_APP_SLUG } from "~/lib/app-id"
+
+interface AppShellProps {
+  children: React.ReactNode
+  user: { id: string; email?: string } | null
+  ssrNavItems: ReadonlyArray<Record<string, unknown>> | null
+}
+
+function AuthFooter({ user }: { user: { id: string } | null }) {
+  const { effectiveIsCollapsed } = useSidebarState()
+
+  if (user) {
+    return (
+      <form method="POST" action="/sign-out">
+        <button
+          type="submit"
+          className="flex w-full cursor-pointer items-center gap-3 rounded-md px-3 py-2 text-secondary text-sm transition-colors hover:bg-surface-2 hover:text-primary"
+        >
+          <LogOut className="h-5 w-5 shrink-0" />
+          {!effectiveIsCollapsed && <span>Sign Out</span>}
+        </button>
+      </form>
+    )
+  }
+
+  return (
+    <Link
+      to="/sign-in"
+      className="flex cursor-pointer items-center gap-3 rounded-md px-3 py-2 text-secondary text-sm transition-colors hover:bg-surface-2 hover:text-primary"
+    >
+      <LogIn className="h-5 w-5 shrink-0" />
+      {!effectiveIsCollapsed && <span>Sign In</span>}
+    </Link>
+  )
+}
+
+function PagesUIRRAdapter({ children }: { children: ReactNode }) {
+  const { pathname } = useLocation()
+  const navigate = useNavigate()
+  const value = useMemo(
+    () => ({
+      pathname,
+      push: (href: string) => navigate(href),
+      replace: (href: string) => navigate(href, { replace: true }),
+    }),
+    [pathname, navigate]
+  )
+  return (
+    <PagesUIRouterProvider value={value}>
+      <PagesUILinkProvider component={PagesUILinkAdapter}>{children}</PagesUILinkProvider>
+    </PagesUIRouterProvider>
+  )
+}
+
+function PagesUILinkAdapter({
+  href,
+  className,
+  children,
+  ...rest
+}: {
+  href: string
+  className?: string
+  children: ReactNode
+}) {
+  return (
+    <Link to={href} className={className} {...rest}>
+      {children}
+    </Link>
+  )
+}
+
+function LayoutRRAdapter({ children }: { children: ReactNode }) {
+  const { pathname } = useLocation()
+  const [searchParams] = useSearchParams()
+  const value = useMemo<LayoutRouter>(
+    () => ({
+      pathname,
+      searchParams: {
+        get: (name: string) => searchParams.get(name),
+        toString: () => searchParams.toString(),
+      },
+    }),
+    [pathname, searchParams]
+  )
+  return (
+    <LayoutRouterProvider value={value}>
+      <LayoutLinkProvider component={LayoutLinkAdapter}>{children}</LayoutLinkProvider>
+    </LayoutRouterProvider>
+  )
+}
+
+function LayoutLinkAdapter({
+  href,
+  className,
+  children,
+  title,
+  onClick,
+  "aria-current": ariaCurrent,
+}: {
+  href: string
+  className?: string
+  children: ReactNode
+  title?: string
+  onClick?: () => void
+  "aria-current"?: boolean | "false" | "true" | "page" | "step" | "location" | "date" | "time"
+}) {
+  return (
+    <Link
+      to={href}
+      className={className}
+      title={title}
+      onClick={onClick}
+      aria-current={ariaCurrent}
+    >
+      {children}
+    </Link>
+  )
+}
+
+function AppShellInner({ children, user, ssrNavItems }: AppShellProps) {
+  const {
+    items: dynamicPrimaryItems,
+    onReorder,
+    onSetParent,
+    dynamicItemIds,
+    rootItemIds,
+    childItemIds,
+    childrenByParentId,
+  } = useAppNavItems({
+    appId: ARCHIVE_OF_WORLDS_APP_ID,
+    appSlug: ARCHIVE_OF_WORLDS_APP_SLUG,
+    primaryItems: primaryNavItems,
+    initialRows: ssrNavItems ?? undefined,
+  })
+
+  const config = useMemo<AppNavConfig>(
+    () => ({
+      primaryItems: dynamicPrimaryItems,
+      bottomSections: [],
+      brandLabel: "ARCHIVE OF WORLDS",
+      bottomNavMaxItems: 5,
+      footerSlot: <AuthFooter user={user} />,
+      skipRoutes: (p) => p === "/sign-in" || p === "/sign-up",
+      renderPrimaryItems: (items, renderItem) => (
+        <SortableNavs
+          items={items}
+          dynamicItemIds={dynamicItemIds}
+          onReorder={onReorder}
+          onSetParent={onSetParent}
+          rootItemIds={rootItemIds}
+          childItemIds={childItemIds}
+          childrenByParentId={childrenByParentId}
+          renderItem={renderItem}
+        />
+      ),
+    }),
+    [
+      user,
+      dynamicPrimaryItems,
+      dynamicItemIds,
+      onReorder,
+      onSetParent,
+      rootItemIds,
+      childItemIds,
+      childrenByParentId,
+    ]
+  )
+
+  return <SharedAppShell config={config}>{children}</SharedAppShell>
+}
+
+export function AppShell(props: AppShellProps) {
+  return (
+    <LayoutRRAdapter>
+      <PagesUIRRAdapter>
+        <AppShellInner {...props} />
+      </PagesUIRRAdapter>
+    </LayoutRRAdapter>
+  )
+}

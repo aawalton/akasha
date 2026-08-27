@@ -1,0 +1,22 @@
+{
+  "name": "@temper/game-characters-skills-morphs-addon",
+  "dependencies": {
+    "@temper/game-characters-capture-addon": "workspace:*",
+    "@temper/game-characters-skills-morphs-core": "workspace:*",
+    "@temper/game-completion": "workspace:*",
+    "@temper/shared-narrow": "workspace:*"
+  },
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  },
+  "functionalType": "addon",
+  "version": "0.1.0",
+  "type": "module",
+  "private": true,
+  "exports": {
+    "./*": "./src/*.ts"
+  },
+  "scripts": {
+    "typecheck": "bunx @typescript/native-preview --noEmit -p tsconfig.json"
+  }
+}

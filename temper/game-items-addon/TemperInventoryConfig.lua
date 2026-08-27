@@ -1,0 +1,1 @@
+TemperInventoryConfig = nil

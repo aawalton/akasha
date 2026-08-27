@@ -1,0 +1,20 @@
+{
+  "name": "@temper/game-crafting-capture-addon",
+  "functionalType": "addon",
+  "version": "0.1.0",
+  "type": "module",
+  "private": true,
+  "exports": {
+    "./*": "./src/*.ts"
+  },
+  "dependencies": {
+    "@temper/catalog-core": "workspace:*",
+    "@temper/game-crafting-capture-core": "workspace:*"
+  },
+  "scripts": {
+    "typecheck": "bunx @typescript/native-preview --noEmit -p tsconfig.json"
+  },
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  }
+}

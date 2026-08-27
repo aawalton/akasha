@@ -1,0 +1,13 @@
+<!-- synthetic fixture — project #14325, extended #18372 -->
+<!-- A retired legacy addon-name token (CraftStore) survives in a name= attr.
+     This comment also names CraftStore in prose — the XML-comment strip must
+     not flag it; only the live sites below are residue. -->
+<GuiXml>
+  <Controls>
+    <TopLevelControl name="CraftStore" />
+    <!-- The compound a PARTIAL rename leaves: the retired brand welded to a
+         section word, rendered to the player as a window header. The whole-word
+         boundary this rule used to carry could not see it. -->
+    <Label name="$(parent)Head" text="CraftStoreQuest" />
+  </Controls>
+</GuiXml>

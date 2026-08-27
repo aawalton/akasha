@@ -1,0 +1,43 @@
+@import "katex/dist/katex.min.css";
+@import "tailwindcss";
+@import "@shared/design-system/styles.css";
+@import "tw-animate-css";
+
+@source "../../../shared/design/system/src/**/*.{ts,tsx}";
+@source "../../../shared/design/badges/src/**/*.{ts,tsx}";
+@source "../../../shared/design/layout/src/**/*.{ts,tsx}";
+@source "../../../shared/design/forms/src/**/*.{ts,tsx}";
+@source "../../../shared/design/patterns/src/**/*.{ts,tsx}";
+@source "../../../shared/design/primitives/src/**/*.{ts,tsx}";
+@source "../../../shared/pages/ui/src/**/*.{ts,tsx}";
+@source "../../game/characters/equipment/ui/src/**/*.{ts,tsx}";
+@source "../../player/completion/ui/src/**/*.{ts,tsx}";
+@source "../../player/economics/ui/src/**/*.{ts,tsx}";
+@source "../../player/inventory-management/ui/src/**/*.{ts,tsx}";
+
+[data-label].enclosing {
+  cursor: pointer;
+  border-bottom: 1px dotted currentColor;
+}
+
+@source inline("lg:columns-2 2xl:columns-3 @[1016px]:max-w-[1016px] @[1512px]:max-w-[1512px] @[1016px]:flex @[1016px]:flex-row @[1016px]:grid-cols-[1fr_auto] @[1016px]:block @[1016px]:hidden @[1016px]:flex-1 @[1512px]:flex @[1512px]:hidden @[1512px]:flex-1 min-[584px]:flex min-[584px]:hidden min-[584px]:inline min-[584px]:block min-[584px]:ml-16 min-[584px]:grid-cols-5 min-[584px]:grid-cols-3 min-[584px]:grid-cols-[1fr_auto] min-[776px]:ml-64 @[584px]:relative @[584px]:mx-auto @[584px]:bg-transparent @[584px]:pb-8 @[584px]:hidden @[584px]:px-6 text-normal text-fine text-superior text-epic text-legendary text-mythic");
+
+@theme inline {
+  --color-normal: var(--primary);
+  --color-fine: var(--green);
+  --color-superior: var(--blue);
+  --color-epic: var(--purple);
+  --color-legendary: var(--yellow);
+  --color-mythic: var(--orange);
+  --color-radiant: var(--red);
+}
+
+::selection {
+  color: var(--color-accent);
+  background-color: oklch(from var(--color-accent) l c h / 0.15);
+}
+
+::view-transition-group(*) {
+  animation-duration: 300ms;
+  animation-timing-function: ease;
+}

@@ -1,0 +1,53 @@
+import { registerCatalogDomain } from "@temper/catalog-core/registry"
+import { getSavedVariables } from "@temper/catalog-core/saved-variables-accessor"
+import type {
+  TributePatronCatalogCard,
+  TributePatronCatalogEntry,
+} from "@temper/game-collections-tribute-capture-core/tribute-catalog"
+export function collectTributeCatalog(this: void, onComplete: (this: void) => void): undefined {
+  const savedVars = getSavedVariables()
+  const catalog: Record<number, TributePatronCatalogEntry> = {}
+
+  const numPatrons = GetNumTributePatrons()
+  for (let i = 1; i <= numPatrons; i++) {
+    const patronId = GetTributePatronIdAtIndex(i)
+    if (patronId === 0) continue
+
+    const collectibleId = GetTributePatronCollectibleId(patronId)
+    if (
+      collectibleId === 0 ||
+      GetCollectibleCategoryType(collectibleId) !== COLLECTIBLE_CATEGORY_TYPE_TRIBUTE_PATRON
+    )
+      continue
+
+    const name = zo_strformat("<<1>>", GetTributePatronName(patronId))
+    if (name === "") continue
+
+    const categoryId = GetTributePatronCategoryId(patronId)
+    const categoryName = zo_strformat("<<1>>", GetTributePatronCategoryName(categoryId))
+
+    const cards: Record<number, TributePatronCatalogCard> = {}
+    const numDockCards = GetTributePatronNumDockCards(patronId)
+
+    for (let cardIndex = 1; cardIndex <= numDockCards; cardIndex++) {
+      const [baseCardId, upgradeCardId] = GetTributePatronDockCardInfoByIndex(patronId, cardIndex)
+      if (upgradeCardId === 0) continue
+
+      const baseCardName = zo_strformat("<<1>>", GetTributeCardName(baseCardId))
+      const upgradeCardName = zo_strformat("<<1>>", GetTributeCardName(upgradeCardId))
+
+      cards[cardIndex] = { baseCardName, upgradeCardName }
+    }
+
+    catalog[patronId] = {
+      name,
+      categoryName,
+      collectibleId,
+      cards,
+    }
+  }
+
+  savedVars.tributeCatalog = catalog
+  onComplete()
+}
+registerCatalogDomain({ key: "tributeCatalog", collect: collectTributeCatalog })

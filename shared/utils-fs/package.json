@@ -1,0 +1,16 @@
+{
+  "name": "@shared/utils-fs",
+  "functionalType": "io",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "typecheck": "bunx @typescript/native-preview -b"
+  },
+  "exports": {
+    "./atomic-write": "./src/atomic-write.ts",
+    "./*": "./src/*.ts"
+  },
+  "devDependencies": {
+    "@types/bun": "^1.3.9"
+  }
+}

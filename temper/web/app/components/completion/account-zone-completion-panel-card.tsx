@@ -1,0 +1,53 @@
+import type { SortDirection } from "@shared/design-patterns/utils/sort-types"
+import type { ActivityCategoryId } from "@temper/player-completion/activity-category-data"
+import type { AccountZoneCompletionUnionProgress } from "@temper/player-completion/completion-account-zone-poi-union"
+import { type CompletionFilter, type CompletionNode, CompletionPanelCard, type CompletionSortMode, createNodeFilter, withActivityCategories } from "@temper/player-completion-ui/completion-panel-card"
+import type { AccountCardId } from "@temper/player-completion/completion-card-registry"
+
+interface AccountZoneCompletionPanelCardProps {
+  id?: AccountCardId
+  zoneCompletionUnion: AccountZoneCompletionUnionProgress
+  completionFilter?: CompletionFilter
+  activityCategoryFilter?: readonly ActivityCategoryId[]
+  sortMode?: CompletionSortMode
+  sortDirection?: SortDirection
+}
+
+export function AccountZoneCompletionPanelCard({
+  id,
+  zoneCompletionUnion,
+  completionFilter,
+  activityCategoryFilter,
+  sortMode,
+  sortDirection,
+}: AccountZoneCompletionPanelCardProps) {
+  const items: CompletionNode[] = zoneCompletionUnion.zones.map((zone) => ({
+    key: String(zone.zoneId),
+    label: zone.name,
+    children: zone.completionTypes.map(
+      (ct): CompletionNode => ({
+        key: `${zone.zoneId}-${ct.completionType}`,
+        label: ct.label,
+        children: ct.activities.map(
+          (activity): CompletionNode => ({
+            key: String(activity.activityIndex),
+            label: activity.name,
+            count: activity.completed ? 1 : 0,
+            total: 1,
+          })
+        ),
+      })
+    ),
+  }))
+
+  return (
+    <CompletionPanelCard
+      id={id}
+      title="Zone Completion"
+      items={withActivityCategories(items, "exploration")}
+      filterNode={createNodeFilter(completionFilter ?? [], activityCategoryFilter ?? [])}
+      sortMode={sortMode}
+      sortDirection={sortDirection}
+    />
+  )
+}

@@ -1,0 +1,11 @@
+{
+  "name": "TemperAddons",
+  "title": "Temper Addons",
+  "description": "Save & reload packs of addons (enabled/disabled state), ported from AddonSelector into the Temper addon patterns.",
+  "author": "AlanGaming",
+  "version": "1.0.0",
+  "addonVersion": 100,
+  "apiVersion": ["101049", "101050"],
+  "savedVariables": ["TemperAddons_SavedVariables"],
+  "dependsOn": ["TemperHud"]
+}

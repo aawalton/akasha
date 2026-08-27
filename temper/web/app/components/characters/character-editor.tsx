@@ -1,0 +1,50 @@
+"use client"
+
+import type {
+  CharacterState,
+  CharacterVisibility,
+} from "@temper/game-characters-character/build-types"
+import type { SetsAll } from "@temper/game-characters-equipment/sets/sets-all-data"
+import type { Skill } from "@temper/game-characters-skills/skills-data"
+import type { BuildId } from "@temper/shared-formula-framework/branded"
+import { CharacterEditorContent } from "@/components/characters/character-editor-content"
+import { CharacterProvider } from "@/components/characters/context/character-context"
+
+interface CharacterEditorProps {
+  buildId: BuildId
+  initialTab?: string
+  initialBuild: CharacterState
+  initialBuildHash: string
+  isOwner: boolean
+  initialVisibility: CharacterVisibility
+  isTargetBuild: boolean
+  availableSkills: readonly Skill[]
+  availableSets: readonly SetsAll[]
+}
+
+export function CharacterEditor({
+  buildId,
+  initialTab,
+  initialBuild,
+  initialBuildHash,
+  isOwner,
+  initialVisibility,
+  isTargetBuild,
+  availableSkills,
+  availableSets,
+}: CharacterEditorProps) {
+  return (
+    <CharacterProvider
+      initialBuild={initialBuild}
+      initialBuildHash={initialBuildHash}
+      buildId={buildId}
+      isOwner={isOwner}
+      initialVisibility={initialVisibility}
+      isTargetBuild={isTargetBuild}
+      availableSkills={availableSkills}
+      availableSets={availableSets}
+    >
+      <CharacterEditorContent initialTab={initialTab} />
+    </CharacterProvider>
+  )
+}

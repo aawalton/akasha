@@ -1,0 +1,22 @@
+{
+  "extends": "../addons/tsconfig.base.json",
+  "compilerOptions": {
+    "module": "esnext",
+    "moduleResolution": "bundler",
+    "isolatedModules": true,
+    "rootDir": "../..",
+    "outDir": "../addons/dist/LibPrice",
+    "target": "ESNext",
+    "strict": true,
+    "types": []
+  },
+  "tstl": {
+    "luaTarget": "5.1",
+    "luaBundle": "LibPrice.lua",
+    "luaBundleEntry": "./src/main.ts",
+    "luaLibImport": "require-minimal",
+    "noImplicitSelf": true
+  },
+  "include": ["src/**/*.ts", "src/**/*.d.ts", "../addons/types/eso/**/*.d.ts"],
+  "exclude": ["src/**/*.test.ts"]
+}

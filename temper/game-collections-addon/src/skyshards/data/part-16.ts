@@ -1,0 +1,126 @@
+import type { SkyshardPin } from "./types"
+
+export const therift__snaplegcave_base = [[0.801, 0.77, 689, 15]] satisfies readonly SkyshardPin[]
+
+export const therift__thelionsden_base = [[0.63, 0.399, 689, 16]] satisfies readonly SkyshardPin[]
+
+export const therift__therift_base = [
+  [0.429, 0.272, 689, 1],
+  [0.647, 0.291, 689, 2],
+  [0.319, 0.378, 689, 3],
+  [0.33, 0.513, 689, 4],
+  [0.393, 0.563, 689, 5],
+  [0.11, 0.451, 689, 6],
+  [0.837, 0.512, 689, 7],
+  [0.782, 0.621, 689, 8],
+  [0.719, 0.445, 689, 9],
+  [0.385, 0.574, 689, 10, 2],
+  [0.828, 0.588, 689, 11, 2],
+  [0.498, 0.472, 689, 12, 2],
+  [0.718, 0.404, 689, 13, 2],
+  [0.134, 0.294, 689, 14, 2],
+  [0.317, 0.234, 689, 15, 2],
+  [0.059, 0.427, 689, 16, 3],
+] satisfies readonly SkyshardPin[]
+
+export const thievesguild__abahslanding_base = [
+  [0.5524, 0.4211, 1347, 1, 1],
+] satisfies readonly SkyshardPin[]
+
+export const thievesguild__bahrahasgloom_base = [
+  [0.2563, 0.5249, 1347, 5, 2],
+] satisfies readonly SkyshardPin[]
+
+export const thievesguild__bahrahasgloom_secret1_base = [
+  [0.2563, 0.5249, 1347, 5, 2],
+] satisfies readonly SkyshardPin[]
+
+export const thievesguild__bahrahasgloom_secret2_base = [
+  [0.2563, 0.5249, 1347, 5, 2],
+] satisfies readonly SkyshardPin[]
+
+export const thievesguild__bahrahasgloom_secret3_base = [
+  [0.2563, 0.5249, 1347, 5, 2],
+] satisfies readonly SkyshardPin[]
+
+export const thievesguild__hewsbane_base = [
+  [0.6813, 0.4093, 1347, 1, 1],
+  [0.4409, 0.4846, 1347, 2],
+  [0.418, 0.7638, 1347, 3],
+  [0.4669, 0.6655, 1347, 4],
+  [0.4716, 0.4243, 1347, 5, 2],
+  [0.324, 0.7891, 1347, 6, 2],
+] satisfies readonly SkyshardPin[]
+
+export const thievesguild__sharktoothgrotto1_base = [
+  [0.6611, 0.386, 1347, 6, 2],
+] satisfies readonly SkyshardPin[]
+
+export const thievesguild__sharktoothgrotto2_base = [
+  [0.6611, 0.386, 1347, 6, 2],
+] satisfies readonly SkyshardPin[]
+
+export const vvardenfell__ashalmawia02_base = [
+  [0.3366, 0.9318, 1843, 14, 2],
+] satisfies readonly SkyshardPin[]
+
+export const vvardenfell__ashalmawia03_base = [
+  [0.3366, 0.9318, 1843, 14, 2],
+] satisfies readonly SkyshardPin[]
+
+export const vvardenfell__cavernsofkogoruhnfw03_base = [
+  [0.4009, 0.4427, 1843, 12, 3],
+] satisfies readonly SkyshardPin[]
+
+export const vvardenfell__khartagpoint_base = [
+  [0.6086, 0.4617, 1843, 13, 2],
+] satisfies readonly SkyshardPin[]
+
+export const vvardenfell__matusakin_base = [
+  [0.5316, 0.7329, 1843, 16, 2],
+] satisfies readonly SkyshardPin[]
+
+export const vvardenfell__nchuleftdepths_base = [
+  [0.6077, 0.5814, 1843, 18, 2],
+] satisfies readonly SkyshardPin[]
+
+export const vvardenfell__nchuleftingth5_base = [
+  [0.309, 0.5958, 1843, 11, 3],
+] satisfies readonly SkyshardPin[]
+
+export const vvardenfell__pulklower_base = [
+  [0.4776, 0.3667, 1843, 17, 2],
+] satisfies readonly SkyshardPin[]
+
+export const vvardenfell__pulkupper_base = [
+  [0.4776, 0.3667, 1843, 17, 2],
+] satisfies readonly SkyshardPin[]
+
+export const vvardenfell__vvardenfell_base = [
+  [0.7606, 0.6868, 1843, 1],
+  [0.819, 0.4051, 1843, 2],
+  [0.6524, 0.5556, 1843, 3],
+  [0.7793, 0.3663, 1843, 4],
+  [0.769, 0.8349, 1843, 5],
+  [0.4067, 0.8253, 1843, 6],
+  [0.4928, 0.7084, 1843, 7],
+  [0.2539, 0.6364, 1843, 8],
+  [0.4235, 0.2559, 1843, 9],
+  [0.1609, 0.2975, 1843, 10],
+  [0.6689, 0.6572, 1843, 11, 3],
+  [0.522, 0.256, 1843, 12, 3],
+  [0.2455, 0.4994, 1843, 13, 2],
+  [0.2322, 0.2715, 1843, 14, 2],
+  [0.3585, 0.7512, 1843, 15, 2],
+  [0.7981, 0.6899, 1843, 16, 2],
+  [0.6679, 0.4229, 1843, 17, 2],
+  [0.6121, 0.3294, 1843, 18, 2],
+] satisfies readonly SkyshardPin[]
+
+export const vvardenfell__zainsipilu_base = [
+  [0.7783, 0.2551, 1843, 15, 2],
+] satisfies readonly SkyshardPin[]
+
+export const westweald__u42_base_haldain = [
+  [0.511, 0.7589, 3949, 17, 2],
+] satisfies readonly SkyshardPin[]

@@ -1,0 +1,110 @@
+import type { SkyshardPin } from "./types"
+
+export const solstice__u48_overland_base = [
+  [0.5109, 0.432, 4405, 1, 3],
+  [0.4752, 0.7099, 4405, 2, 2],
+  [0.2761, 0.4573, 4405, 3, 2],
+  [0.3116, 0.5953, 4405, 4, 2],
+  [0.4233, 0.367, 4405, 5],
+  [0.2782, 0.5023, 4405, 6],
+  [0.352, 0.6935, 4405, 7],
+  [0.5698, 0.6163, 4405, 8],
+  [0.4754, 0.5615, 4405, 9],
+  [0.7546, 0.3595, 4461, 1],
+  [0.6539, 0.4196, 4461, 2],
+  [0.809, 0.5037, 4461, 3],
+  [0.8315, 0.638, 4461, 4],
+  [0.7566, 0.6853, 4461, 5],
+  [0.7332, 0.5725, 4461, 6, 3],
+  [0.6596, 0.3624, 4461, 7, 2],
+  [0.6148, 0.5053, 4461, 8, 2],
+  [0.7218, 0.6866, 4461, 9, 2],
+] satisfies readonly SkyshardPin[]
+
+export const solstice__u48_ssl_delve_base_2 = [
+  [0.205, 0.4721, 4461, 8, 2],
+] satisfies readonly SkyshardPin[]
+
+export const southernelsweyr__houseofembersinside_base = [
+  [0.401, 0.3841, 2562, 6, 2],
+] satisfies readonly SkyshardPin[]
+
+export const southernelsweyr__moonlitcove01_base = [
+  [0.7608, 0.2282, 2562, 5, 2],
+] satisfies readonly SkyshardPin[]
+
+export const southernelsweyr__moonlitcove02_base = [
+  [0.7608, 0.2282, 2562, 5, 2],
+] satisfies readonly SkyshardPin[]
+
+export const southernelsweyr__moonlitcove03_base = [
+  [0.7608, 0.2282, 2562, 5, 2],
+] satisfies readonly SkyshardPin[]
+
+export const southernelsweyr__moonlitcove04_base = [
+  [0.7608, 0.2282, 2562, 5, 2],
+] satisfies readonly SkyshardPin[]
+
+export const southernelsweyr__moonlitcove05_base = [
+  [0.7608, 0.2282, 2562, 5, 2],
+] satisfies readonly SkyshardPin[]
+
+export const southernelsweyr__senchal_base = [
+  [0.2467, 0.6866, 2562, 2, 1],
+] satisfies readonly SkyshardPin[]
+
+export const southernelsweyr__southernelsweyr_base = [
+  [0.5883, 0.2437, 2562, 1],
+  [0.4481, 0.5515, 2562, 2, 1],
+  [0.345, 0.5671, 2562, 3],
+  [0.2575, 0.3207, 2562, 4],
+  [0.1545, 0.599, 2562, 5, 2],
+  [0.5066, 0.2937, 2562, 6, 2],
+] satisfies readonly SkyshardPin[]
+
+export const stonefalls__balfoyen_base = [
+  [0.5505, 0.5609, 405, 1, 1],
+  [0.2462, 0.744, 405, 2],
+  [0.3775, 0.316, 405, 3],
+] satisfies readonly SkyshardPin[]
+
+export const stonefalls__bleakrock_base = [
+  [0.7744, 0.4388, 398, 1],
+  [0.4985, 0.2252, 398, 2],
+  [0.2780946493, 0.4022813737, 398, 3],
+] satisfies readonly SkyshardPin[]
+
+export const stonefalls__crowswood_base = [
+  [0.2447, 0.9636, 397, 16],
+] satisfies readonly SkyshardPin[]
+
+export const stonefalls__davonswatch_base = [
+  [0.0953, 0.5117, 397, 1],
+  [0.8752, 0.5854, 397, 16, 3],
+] satisfies readonly SkyshardPin[]
+
+export const stonefalls__dhalmora_base = [[0.3312, 0.4539, 405, 1]] satisfies readonly SkyshardPin[]
+
+export const stonefalls__emberflintmine_base = [
+  [0.7284, 0.5864, 397, 11],
+] satisfies readonly SkyshardPin[]
+
+export const stonefalls__hightidehollow_base = [
+  [0.6713, 0.666, 397, 13],
+] satisfies readonly SkyshardPin[]
+
+export const stonefalls__innerseaarmature_base = [
+  [0.4384, 0.2726, 397, 10],
+] satisfies readonly SkyshardPin[]
+
+export const stonefalls__mephalasnest_base = [
+  [0.5612, 0.3496, 397, 12],
+] satisfies readonly SkyshardPin[]
+
+export const stonefalls__sheogorathstongue_base = [
+  [0.5813, 0.2625, 397, 15],
+] satisfies readonly SkyshardPin[]
+
+export const stonefalls__softloamcavern_base = [
+  [0.4197, 0.7056, 397, 14],
+] satisfies readonly SkyshardPin[]

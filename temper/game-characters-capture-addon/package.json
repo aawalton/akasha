@@ -1,0 +1,28 @@
+{
+  "name": "@temper/game-characters-capture-addon",
+  "functionalType": "addon",
+  "version": "0.1.0",
+  "type": "module",
+  "private": true,
+  "exports": {
+    "./classes": "./src/classes.ts",
+    "./skills": "./src/skills.ts",
+    "./build": "./src/build/capture-character-build.ts",
+    "./skill-line-mappings": "./src/generated/skill-line-mappings.generated.ts",
+    "./potion-mappings": "./src/generated/potion-mappings.generated.ts",
+    "./*": "./src/*.ts"
+  },
+  "scripts": {
+    "typecheck": "bunx @typescript/native-preview --noEmit -p tsconfig.json"
+  },
+  "dependencies": {
+    "@temper/catalog-core": "workspace:*",
+    "@temper/game-characters-capture-core": "workspace:*",
+    "@temper/shared-capture-core": "workspace:*",
+    "@temper/shared-foundation-misc-codec": "workspace:*",
+    "@temper/shared-narrow": "workspace:*"
+  },
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  }
+}

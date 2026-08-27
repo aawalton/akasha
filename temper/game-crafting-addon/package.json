@@ -1,0 +1,17 @@
+{
+  "name": "@temper/game-crafting-addon",
+  "dependencies": {
+    "@temper/shared-build-deploy-addon-bundle-runtime": "workspace:*",
+    "@temper/shared-interface-lam": "workspace:*"
+  },
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  },
+  "functionalType": "addon",
+  "version": "0.1.0",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "typecheck": "bunx @typescript/native-preview --noEmit -p tsconfig.json"
+  }
+}

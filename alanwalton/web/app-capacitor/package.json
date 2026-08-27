@@ -1,0 +1,5 @@
+{
+  "private": true,
+  "type": "module",
+  "description": "Build-root marker ONLY (not a workspace; absent from root package.json#workspaces). react-router resolves an app root to the nearest ancestor package.json; without this file `react-router build` here climbs to web/package.json and builds web's full SSR route tree instead of this ssr:false capacitor SPA. Non-workspace by design — invisible to package-names/structure/functionalType checks, which are all workspaces-driven. See react-router.config.ts + vite.config.ts for the static ssr:false config. This is the ONE local full-app in-shell SPA served at the native shell's www root (#14797, origin collapse)."
+}

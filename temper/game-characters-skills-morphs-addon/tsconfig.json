@@ -1,0 +1,20 @@
+{
+  "extends": "../addons/tsconfig.base.json",
+  "compilerOptions": {
+    "module": "esnext",
+    "moduleResolution": "bundler",
+    "isolatedModules": true,
+    "rootDir": "../..",
+    "noEmit": true,
+    "target": "ESNext",
+    "strict": true,
+    "types": []
+  },
+  "include": [
+    "src/**/*.ts",
+    "../addons/types/eso/**/*.d.ts"
+  ],
+  "exclude": [
+    "src/**/*.test.ts"
+  ]
+}

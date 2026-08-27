@@ -1,0 +1,16 @@
+import { DEFAULT_BACKPACK_SETTINGS } from "@temper/game-items-core/backpack-settings-types"
+import { getInventoryConfig } from "./inventory-config"
+
+export const DEFAULT_BUFFER_SLOTS = DEFAULT_BACKPACK_SETTINGS.bufferSlots
+
+export function getConfiguredBufferSlots(): number {
+  return getInventoryConfig().backpack?.bufferSlots ?? DEFAULT_BUFFER_SLOTS
+}
+
+export function backpackFreeSlotsAboveBuffer(): number {
+  return GetNumBagFreeSlots(BAG_BACKPACK) - getConfiguredBufferSlots()
+}
+
+export function hasRoomAboveBuffer(slotsNeeded: number): boolean {
+  return backpackFreeSlotsAboveBuffer() >= slotsNeeded
+}

@@ -1,0 +1,37 @@
+{
+  "extends": "../../tsconfig.base.json",
+  "compilerOptions": {
+    "composite": true,
+    "noEmit": false,
+    "emitDeclarationOnly": true,
+    "declarationDir": "dist",
+    "lib": [
+      "esnext"
+    ],
+    "types": [
+      "@types/bun"
+    ]
+  },
+  "include": [
+    "src/**/*.ts"
+  ],
+  "exclude": [
+    "node_modules",
+    "dist",
+    "./**/*.test.ts"
+  ],
+  "references": [
+    {
+      "path": "../recurrence"
+    },
+    {
+      "path": "../supabase-database"
+    },
+    {
+      "path": "../utils-narrow"
+    },
+    {
+      "path": "../pages-url"
+    }
+  ]
+}

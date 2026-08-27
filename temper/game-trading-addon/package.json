@@ -1,0 +1,25 @@
+{
+  "name": "@temper/game-trading-addon",
+  "dependencies": {
+    "@temper/shared-build-deploy-addon-bundle-runtime": "workspace:*",
+    "@temper/game-items-core": "workspace:*",
+    "@temper/game-items-filters-addon": "workspace:*",
+    "@temper/game-items-filters-core": "workspace:*",
+    "@temper/game-trading-core": "workspace:*",
+    "@temper/game-trading-post-addon": "workspace:*",
+    "@temper/game-items-rules-eval": "workspace:*",
+    "@temper/shared-capture-perf": "workspace:*"
+  },
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  },
+  "functionalType": "addon",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "typecheck": "bunx @typescript/native-preview --noEmit -p tsconfig.json"
+  },
+  "exports": {
+    "./*": "./src/*.ts"
+  }
+}

@@ -1,0 +1,131 @@
+import type { SkyshardPin } from "./types"
+
+export const reach__gloomreach3_base = [
+  [0.6464774012, 0.4073275923, 2857, 6],
+] satisfies readonly SkyshardPin[]
+
+export const reach__gloomreach5_base = [
+  [0.6464774012, 0.4073275923, 2857, 6],
+] satisfies readonly SkyshardPin[]
+
+export const reach__gloomreach_base = [
+  [0.6464774012, 0.4073275923, 2857, 6],
+] satisfies readonly SkyshardPin[]
+
+export const reach__reach_base = [
+  [0.46935608983, 0.309363126754, 2857, 1],
+  [0.821157634258, 0.717262506484, 2857, 2],
+  [0.336136519908, 0.664194226264, 2857, 5, 2],
+  [0.730453908443, 0.699964821338, 2857, 6, 2],
+] satisfies readonly SkyshardPin[]
+
+export const reach__u28_blackreach_base = [
+  [0.405695199966, 0.371521294116, 2857, 3],
+  [0.914884865283, 0.73206359148, 2857, 4],
+  [0.738115906715, 0.330711334943, 2857, 6, 2],
+] satisfies readonly SkyshardPin[]
+
+export const reapersmarch__clawsstrike_base = [
+  [0.116, 0.395, 685, 13],
+] satisfies readonly SkyshardPin[]
+
+export const reapersmarch__dune_base = [[0.587, 0.3386, 685, 7]] satisfies readonly SkyshardPin[]
+
+export const reapersmarch__fardirsfolly_base = [
+  [0.332, 0.402, 685, 14],
+] satisfies readonly SkyshardPin[]
+
+export const reapersmarch__jodeslight_base = [
+  [0.1511, 0.2623, 685, 15],
+] satisfies readonly SkyshardPin[]
+
+export const reapersmarch__kunasdelve_base = [
+  [0.752, 0.434, 685, 10],
+] satisfies readonly SkyshardPin[]
+
+export const reapersmarch__reapersmarch_base = [
+  [0.378, 0.199, 685, 1],
+  [0.429, 0.334, 685, 2],
+  [0.343, 0.149, 685, 3],
+  [0.334, 0.538, 685, 4],
+  [0.281, 0.624, 685, 5],
+  [0.397, 0.644, 685, 6],
+  [0.78, 0.3495, 685, 7, 1],
+  [0.7681, 0.1668, 685, 8],
+  [0.507, 0.364, 685, 9],
+  [0.541, 0.301, 685, 10, 2],
+  [0.361, 0.409, 685, 11, 2],
+  [0.505, 0.755, 685, 12, 2],
+  [0.239, 0.607, 685, 13, 2],
+  [0.753, 0.128, 685, 14, 2],
+  [0.633, 0.395, 685, 15, 2],
+  [0.282, 0.163, 685, 16, 3],
+] satisfies readonly SkyshardPin[]
+
+export const reapersmarch__thevilemansefirstfloor_base = [
+  [0.4, 0.42, 685, 16],
+] satisfies readonly SkyshardPin[]
+
+export const reapersmarch__thevilemansesecondfloor_base = [
+  [0.65, 0.33, 685, 16],
+] satisfies readonly SkyshardPin[]
+
+export const reapersmarch__thibautscairn_base = [
+  [0.778, 0.666, 685, 11],
+] satisfies readonly SkyshardPin[]
+
+export const reapersmarch__weepingwindcave_base = [
+  [0.376, 0.8308, 685, 12],
+] satisfies readonly SkyshardPin[]
+
+export const rivenspire__crestshademine_base = [
+  [0.5223, 0.4445, 554, 10],
+] satisfies readonly SkyshardPin[]
+
+export const rivenspire__erokii_base = [[0.526, 0.879, 554, 11]] satisfies readonly SkyshardPin[]
+
+export const rivenspire__flyleafcatacombs_base = [
+  [0.611, 0.354, 554, 12],
+] satisfies readonly SkyshardPin[]
+
+export const rivenspire__hildunessecretrefuge_base = [
+  [0.578, 0.502, 554, 13],
+] satisfies readonly SkyshardPin[]
+
+export const rivenspire__northpoint_base = [[0.731, 0.201, 554, 6]] satisfies readonly SkyshardPin[]
+
+export const rivenspire__obsidianscar_base = [
+  [0.846, 0.595, 554, 16],
+] satisfies readonly SkyshardPin[]
+
+export const rivenspire__orcsfingerruins_base = [
+  [0.179, 0.348, 554, 14],
+] satisfies readonly SkyshardPin[]
+
+export const rivenspire__rivenspire_base = [
+  [0.447, 0.602, 554, 1, 1],
+  [0.155, 0.568, 554, 2],
+  [0.297, 0.507, 554, 3],
+  [0.593, 0.539, 554, 4],
+  [0.64, 0.543, 554, 5],
+  [0.831, 0.166, 554, 6, 1],
+  [0.386, 0.366, 554, 7],
+  [0.7, 0.127, 554, 8],
+  [0.579, 0.441, 554, 9],
+  [0.357, 0.49, 554, 10, 2],
+  [0.4, 0.311, 554, 11, 2],
+  [0.145, 0.592, 554, 12, 2],
+  [0.699, 0.184, 554, 13, 2],
+  [0.809, 0.351, 554, 14, 2],
+  [0.67, 0.604, 554, 15, 2],
+  [0.556, 0.456, 554, 16, 3],
+] satisfies readonly SkyshardPin[]
+
+export const rivenspire__shornhelm_base = [
+  [0.614, 0.804, 554, 1],
+  [0.036, 0.077, 554, 10, 2],
+] satisfies readonly SkyshardPin[]
+
+export const rivenspire__tribulationcrypt_base = [
+  [0.3343, 0.7741, 554, 15],
+] satisfies readonly SkyshardPin[]

@@ -1,0 +1,39 @@
+import { getEsoDayStr } from "../../../day/day"
+import type { HealthSampleRecord } from "./types"
+
+export const ANCHOR_PAGE_TYPE = "eso-daily-tracking"
+
+export const ROW_CEILING = 50000
+
+export function esoDayOfSample(startedAt: string): string {
+  return getEsoDayStr(new Date(startedAt))
+}
+
+export function textAt(values: Readonly<Record<string, unknown>>, key: string): string {
+  const held = values[key]
+  return typeof held === "string" ? held : ""
+}
+
+export function numberAt(values: Readonly<Record<string, unknown>>, key: string): number {
+  const held = values[key]
+  if (typeof held === "number") return held
+  const read = typeof held === "string" ? Number(held) : Number.NaN
+  return Number.isFinite(read) ? read : Number.NaN
+}
+
+export function recordOf(values: Readonly<Record<string, unknown>>): HealthSampleRecord | null {
+  const metric = textAt(values, "metric")
+  if (metric !== "activeEnergy" && metric !== "stepCount") return null
+  const value = numberAt(values, "value")
+  if (!Number.isFinite(value)) return null
+  return {
+    id: textAt(values, "id"),
+    metric,
+    startedAt: textAt(values, "started-at"),
+    endedAt: textAt(values, "ended-at"),
+    value,
+    unit: textAt(values, "unit"),
+    sourceName: textAt(values, "source-name"),
+    arrivedAt: textAt(values, "arrived-at"),
+  }
+}

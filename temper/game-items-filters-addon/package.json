@@ -1,0 +1,21 @@
+{
+  "name": "@temper/game-items-filters-addon",
+  "dependencies": {
+    "@temper/shared-interface-hud-window": "workspace:*",
+    "@temper/game-items-filters-core": "workspace:*",
+    "@temper/game-items-rules-eval": "workspace:*"
+  },
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  },
+  "functionalType": "addon",
+  "version": "0.1.0",
+  "type": "module",
+  "private": true,
+  "exports": {
+    "./*": "./src/*.ts"
+  },
+  "scripts": {
+    "typecheck": "bunx @typescript/native-preview --noEmit -p tsconfig.json"
+  }
+}

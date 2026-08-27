@@ -1,0 +1,1 @@
+TemperCharactersConfig = nil

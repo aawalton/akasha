@@ -1,0 +1,36 @@
+import type { AchievementCatalogData } from "@temper/game-completion-capture-core/achievement-catalog"
+import { assertSchemaMatchesPayload } from "@temper/shared-capture-host/assert-schema-matches-payload"
+import { z } from "zod"
+
+const achievementCatalogEntrySchema = z
+  .object({
+    name: z.string(),
+    points: z.number(),
+    totalSteps: z.number(),
+    isCharacterSpecific: z.boolean(),
+  })
+  .strict()
+
+const achievementCatalogSubCategorySchema = z
+  .object({
+    name: z.string(),
+    achievements: z.record(z.number(), achievementCatalogEntrySchema),
+  })
+  .strict()
+
+const achievementCatalogCategorySchema = z
+  .object({
+    name: z.string(),
+    generalSubCategory: achievementCatalogSubCategorySchema.optional(),
+    subCategories: z.record(z.number(), achievementCatalogSubCategorySchema),
+  })
+  .strict()
+
+export const achievementCatalogSchema = z
+  .object({
+    categories: z.record(z.number(), achievementCatalogCategorySchema),
+  })
+  .strict()
+
+assertSchemaMatchesPayload<typeof achievementCatalogSchema, AchievementCatalogData>()
+

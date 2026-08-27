@@ -1,0 +1,12 @@
+{
+  "name": "LibNotification",
+  "title": "LibNotification",
+  "description": "Library that lets addons add their own entries to the in-game Notifications panel (keyboard and gamepad).",
+  "author": "AlanGaming",
+  "version": "1.1.0",
+  "addonVersion": 15,
+  "apiVersion": ["101049", "101050"],
+  "savedVariables": [],
+  "dependsOn": [],
+  "optionalDependsOn": []
+}

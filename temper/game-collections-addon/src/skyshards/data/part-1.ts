@@ -1,0 +1,105 @@
+import type { SkyshardPin } from "./types"
+
+export const alikr__aldunz_base = [[0.146, 0.436, 556, 10]] satisfies readonly SkyshardPin[]
+
+export const alikr__alikr_base = [
+  [0.2462, 0.4904, 556, 1, 1],
+  [0.4077, 0.6275, 556, 2],
+  [0.2314, 0.7011, 556, 3],
+  [0.5214, 0.6649, 556, 4, 1],
+  [0.5854, 0.5002, 556, 5],
+  [0.5584, 0.3471, 556, 6],
+  [0.7738, 0.4364, 556, 7, 1],
+  [0.7516, 0.4092, 556, 8],
+  [0.8811, 0.549, 556, 9],
+  [0.6412, 0.6435, 556, 10, 2],
+  [0.6482, 0.3484, 556, 11, 2],
+  [0.4054, 0.5892, 556, 12, 2],
+  [0.8312, 0.5806, 556, 13, 2],
+  [0.2224, 0.5678, 556, 14, 2],
+  [0.9008, 0.5207, 556, 15, 2],
+  [0.705, 0.389, 556, 16, 3],
+] satisfies readonly SkyshardPin[]
+
+export const alikr__bergama_base = [[0.4265, 0.6168, 556, 4]] satisfies readonly SkyshardPin[]
+
+export const alikr__coldrockdiggings_base = [
+  [0.903, 0.262, 556, 11],
+] satisfies readonly SkyshardPin[]
+
+export const alikr__divadschagrinmine_base = [
+  [0.408, 0.533, 556, 12],
+] satisfies readonly SkyshardPin[]
+
+export const alikr__kozanset_base = [[0.6501, 0.3348, 556, 7]] satisfies readonly SkyshardPin[]
+
+export const alikr__lostcity_base = [[0.471, 0.58, 556, 16]] satisfies readonly SkyshardPin[]
+
+export const alikr__sandblownmine_base = [[0.854, 0.347, 556, 13]] satisfies readonly SkyshardPin[]
+
+export const alikr__santaki_base = [[0.917, 0.709, 556, 14]] satisfies readonly SkyshardPin[]
+
+export const alikr__sentinel_base = [[0.3814, 0.6455, 556, 1]] satisfies readonly SkyshardPin[]
+
+export const alikr__yldzuun_base = [[0.695, 0.329, 556, 15]] satisfies readonly SkyshardPin[]
+
+export const apocrypha__u38_apocrypha_base = [
+  [0.68, 0.497, 3672, 5],
+  [0.893, 0.566, 3672, 6],
+  [0.4746365547, 0.4754182696, 3672, 7, 4],
+  [0.512, 0.314, 3672, 8],
+  [0.415, 0.442, 3672, 9],
+  [0.219, 0.33, 3672, 10],
+  [0.403, 0.499, 3672, 11, 3],
+  [0.578, 0.734, 3672, 14, 2],
+  [0.9038958549, 0.6655811071, 3672, 15, 2],
+  [0.3903756141, 0.1914914846, 3672, 16, 2],
+  [0.3335747718, 0.3868216574, 3672, 18, 2],
+] satisfies readonly SkyshardPin[]
+
+export const apocrypha__u38_camonnaruhn_base = [
+  [0.5422678589, 0.5139195322, 3672, 17, 2],
+] satisfies readonly SkyshardPin[]
+
+export const apocrypha__u38_corpusclebight_02_base = [
+  [0.4232380986, 0.1226666644, 3672, 16, 2],
+] satisfies readonly SkyshardPin[]
+
+export const apocrypha__u38_disquiet_study_base = [
+  [0.4542265236, 0.299860984, 3672, 14, 2],
+] satisfies readonly SkyshardPin[]
+
+export const apocrypha__u38_quires_wind_base = [
+  [0.5638747811, 0.656314373, 3672, 15, 2],
+] satisfies readonly SkyshardPin[]
+
+export const apocrypha__u38_underweave_central_base = [
+  [0.3536794185, 0.6212207674, 3672, 11, 3],
+] satisfies readonly SkyshardPin[]
+
+export const auridon__auridon_base = [
+  [0.6005, 0.898, 695, 1, 1],
+  [0.708, 0.83, 695, 2],
+  [0.4329, 0.7758, 695, 3],
+  [0.689, 0.5158, 695, 4, 1],
+  [0.5963, 0.3976, 695, 5],
+  [0.4726, 0.5322, 695, 6],
+  [0.4182, 0.3182, 695, 7],
+  [0.4722, 0.3527, 695, 8],
+  [0.4151, 0.129, 695, 9],
+  [0.4348, 0.402, 695, 10, 2],
+  [0.5811, 0.8546, 695, 11, 2],
+  [0.5607, 0.558, 695, 12, 2],
+  [0.1957, 0.2111, 695, 13, 2],
+  [0.5434, 0.6983, 695, 14, 2],
+  [0.5773, 0.3214, 695, 15, 2],
+  [0.4195, 0.6759, 695, 16, 3],
+] satisfies readonly SkyshardPin[]
+
+export const auridon__bewan_base = [[0.8706, 0.6995, 695, 10]] satisfies readonly SkyshardPin[]
+
+export const auridon__delsclaim_base = [[0.316, 0.219, 695, 11]] satisfies readonly SkyshardPin[]
+
+export const auridon__entilasfolly_base = [
+  [0.8189, 0.7917, 695, 12],
+] satisfies readonly SkyshardPin[]

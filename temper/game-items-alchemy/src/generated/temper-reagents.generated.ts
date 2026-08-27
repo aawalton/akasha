@@ -1,0 +1,50 @@
+/**
+ * Temper Reagents (Generated)
+ *
+ * ESO alchemy reagents sourced from the universal pages table (page type:
+ * temper-reagent). Each row carries the kebab `id` (formerly the in-source
+ * map key), display `name`, ESO numeric `itemId`, addon-resource `icon`
+ * path, and the 4-tuple of poison-effect ids that drive the crafting
+ * combination logic.
+ *
+ * DO NOT EDIT — regenerate with: ops temper addon-data generate
+ */
+
+import type { Reagent } from "../reagents-data"
+
+export const REAGENTS = [
+  { id: "beetle-scuttle", name: "Beetle Scuttle", itemId: 77583, icon: "resources/reagent_scuttle.png", effects: ["breach", "increase-armor", "protection", "vitality"] },
+  { id: "blessed-thistle", name: "Blessed Thistle", itemId: 30157, icon: "resources/blessed_thistle.png", effects: ["restore-stamina", "increase-weapon-power", "ravage-health", "speed"] },
+  { id: "blue-entoloma", name: "Blue Entoloma", itemId: 30148, icon: "resources/blue_entoloma_cap_r1.png", effects: ["ravage-magicka", "cowardice", "restore-health", "invisible"] },
+  { id: "bugloss", name: "Bugloss", itemId: 30160, icon: "resources/vipers_bugloss_r1.png", effects: ["increase-spell-resist", "restore-health", "cowardice", "restore-magicka"] },
+  { id: "butterfly-wing", name: "Butterfly Wing", itemId: 77585, icon: "resources/reagent_butterfly_wing.png", effects: ["restore-health", "uncertainty", "lingering-health", "vitality"] },
+  { id: "chaurus-egg", name: "Chaurus Egg", itemId: 150669, icon: "resources/crafting_chaurus_eggs.png", effects: ["timidity", "ravage-magicka", "restore-stamina", "detection"] },
+  { id: "clam-gall", name: "Clam Gall", itemId: 139020, icon: "resources/reagent_clam_gall.png", effects: ["increase-spell-resist", "hindrance", "vulnerability", "defile"] },
+  { id: "columbine", name: "Columbine", itemId: 30164, icon: "resources/columbine_r1.png", effects: ["restore-health", "restore-magicka", "restore-stamina", "unstoppable"] },
+  { id: "corn-flower", name: "Corn Flower", itemId: 30161, icon: "resources/corn_flower_r1.png", effects: ["restore-magicka", "increase-spell-power", "ravage-health", "detection"] },
+  { id: "crimson-nirnroot", name: "Crimson Nirnroot", itemId: 150672, icon: "resources/crafting_water_plant_nirnroot_crimson.png", effects: ["timidity", "spell-critical", "gradual-ravage-health", "restore-health"] },
+  { id: "dragon-rheum", name: "Dragon Rheum", itemId: 150671, icon: "resources/dragonrheum.png", effects: ["restore-magicka", "heroism", "enervation", "speed"] },
+  { id: "dragons-bile", name: "Dragon's Bile", itemId: 150789, icon: "resources/dragonsbile.png", effects: ["heroism", "vulnerability", "invisible", "vitality"] },
+  { id: "dragons-blood", name: "Dragon's Blood", itemId: 150731, icon: "resources/dragonsblood.png", effects: ["lingering-health", "restore-stamina", "heroism", "defile"] },
+  { id: "dragonthorn", name: "Dragonthorn", itemId: 30162, icon: "resources/dragonthorn.png", effects: ["increase-weapon-power", "restore-stamina", "fracture", "increase-weapon-crit"] },
+  { id: "emetic-russula", name: "Emetic Russula", itemId: 30151, icon: "resources/emetic_russula_r1.png", effects: ["ravage-health", "ravage-magicka", "ravage-stamina", "entrapment"] },
+  { id: "fleshfly-larva", name: "Fleshfly Larva", itemId: 77587, icon: "resources/reagent_fleshfly_larva.png", effects: ["ravage-stamina", "vulnerability", "gradual-ravage-health", "vitality"] },
+  { id: "imp-stool", name: "Imp Stool", itemId: 30156, icon: "resources/imp_stool_r2.png", effects: ["maim", "ravage-stamina", "increase-armor", "enervation"] },
+  { id: "ladys-smock", name: "Lady's Smock", itemId: 30158, icon: "resources/ladysmock.png", effects: ["increase-spell-power", "restore-magicka", "breach", "spell-critical"] },
+  { id: "luminous-russula", name: "Luminous Russula", itemId: 30155, icon: "resources/luminous_russula_r1.png", effects: ["ravage-stamina", "maim", "restore-health", "hindrance"] },
+  { id: "mountain-flower", name: "Mountain Flower", itemId: 30163, icon: "resources/mountain_flower_r1.png", effects: ["increase-armor", "restore-health", "maim", "restore-stamina"] },
+  { id: "mudcrab-chitin", name: "Mudcrab Chitin", itemId: 77591, icon: "resources/reagent_mudcrab_chitin.png", effects: ["increase-spell-resist", "increase-armor", "protection", "defile"] },
+  { id: "namiras-rot", name: "Namira's Rot", itemId: 30153, icon: "resources/namiras_rot_r1.png", effects: ["spell-critical", "speed", "invisible", "unstoppable"] },
+  { id: "nightshade", name: "Nightshade", itemId: 77590, icon: "resources/nightshade_01.png", effects: ["ravage-health", "protection", "gradual-ravage-health", "defile"] },
+  { id: "nirnroot", name: "Nirnroot", itemId: 30165, icon: "resources/plant_nirnroot_r1.png", effects: ["ravage-health", "uncertainty", "enervation", "invisible"] },
+  { id: "powdered-mother-of-pearl", name: "Powdered Mother of Pearl", itemId: 139019, icon: "resources/reagent_scrib_powered_pearl.png", effects: ["lingering-health", "speed", "vitality", "protection"] },
+  { id: "scrib-jelly", name: "Scrib Jelly", itemId: 77589, icon: "resources/reagent_scrib_jelly.png", effects: ["ravage-magicka", "speed", "vulnerability", "lingering-health"] },
+  { id: "spider-egg", name: "Spider Egg", itemId: 77584, icon: "resources/reagent_spider_egg.png", effects: ["hindrance", "invisible", "lingering-health", "defile"] },
+  { id: "stinkhorn", name: "Stinkhorn", itemId: 30149, icon: "resources/stinkhorn_cap_r1.png", effects: ["fracture", "ravage-health", "increase-weapon-power", "ravage-stamina"] },
+  { id: "torchbug-thorax", name: "Torchbug Thorax", itemId: 77581, icon: "resources/reagent_torchbug_thorax.png", effects: ["fracture", "enervation", "detection", "vitality"] },
+  { id: "vile-coagulant", name: "Vile Coagulant", itemId: 150670, icon: "resources/crafting_vile_coagula.png", effects: ["timidity", "ravage-health", "restore-magicka", "protection"] },
+  { id: "violet-coprinus", name: "Violet Coprinus", itemId: 30152, icon: "resources/violet_coprinus_r1.png", effects: ["breach", "ravage-health", "increase-spell-power", "ravage-magicka"] },
+  { id: "water-hyacinth", name: "Water Hyacinth", itemId: 30166, icon: "resources/plant_water_hyacinth_r1.png", effects: ["restore-health", "spell-critical", "increase-weapon-crit", "entrapment"] },
+  { id: "white-cap", name: "White Cap", itemId: 30154, icon: "resources/white_cap_r1.png", effects: ["cowardice", "ravage-magicka", "increase-spell-resist", "detection"] },
+  { id: "wormwood", name: "Wormwood", itemId: 30159, icon: "resources/wormwood_r1.png", effects: ["increase-weapon-crit", "hindrance", "detection", "unstoppable"] },
+] as const satisfies readonly Reagent[]

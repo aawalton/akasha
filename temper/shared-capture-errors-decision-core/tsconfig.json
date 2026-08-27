@@ -1,0 +1,33 @@
+{
+  "extends": "../../tsconfig.base.json",
+  "compilerOptions": {
+    "composite": true,
+    "noEmit": false,
+    "emitDeclarationOnly": true,
+    "declarationDir": "dist",
+    "types": [
+      "@types/bun"
+    ]
+  },
+  "include": [
+    "src/**/*.ts"
+  ],
+  "exclude": [
+    "node_modules",
+    "dist"
+  ],
+  "references": [
+    {
+      "path": "../shared-capture-errors-core"
+    },
+    {
+      "path": "../shared-capture-host"
+    },
+    {
+      "path": "../shared-foundation-misc-eso-paths-resolve"
+    },
+    {
+      "path": "../shared-saved-variables"
+    }
+  ]
+}

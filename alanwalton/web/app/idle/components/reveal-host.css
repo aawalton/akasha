@@ -1,0 +1,78 @@
+.reveal-host {
+  position: fixed;
+  right: var(--spacing-4);
+  bottom: var(--spacing-4);
+  z-index: 50;
+  max-width: min(22rem, calc(100vw - 2 * var(--spacing-4)));
+}
+
+.reveal-callout {
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-3);
+  padding: var(--spacing-3);
+  border-radius: var(--radius-md);
+}
+.reveal-cover {
+  width: 72px;
+  height: 96px;
+  flex-shrink: 0;
+  border-radius: var(--radius-md);
+  overflow: hidden;
+  background: var(--surface-3);
+}
+.reveal-cover img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.reveal-body {
+  flex: 1;
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+.reveal-name {
+  font-family: var(--font-mono);
+  font-size: 15px;
+  font-weight: 600;
+  color: var(--primary);
+}
+.reveal-headline {
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--yellow);
+}
+.reveal-starup {
+  color: var(--red);
+}
+button.reveal-dismiss {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  font-weight: 600;
+  color: var(--secondary);
+  background: var(--surface-3);
+  border: none;
+  cursor: pointer;
+  padding: var(--spacing-1) var(--spacing-3);
+  border-radius: var(--radius-md);
+  align-self: flex-start;
+}
+button.reveal-dismiss:hover {
+  filter: brightness(1.12);
+}
+
+.star-row {
+  font-size: 12px;
+  letter-spacing: 1px;
+  line-height: 1;
+}
+.star-row .star-on {
+  color: var(--red);
+}
+.star-row .star-off {
+  color: var(--surface-4);
+}

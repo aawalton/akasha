@@ -1,0 +1,19 @@
+{
+  "name": "@temper/game-collections-addon",
+  "dependencies": {
+    "@temper/shared-build-deploy-addon-bundle-runtime": "workspace:*",
+    "@temper/shared-interface-lam": "workspace:*",
+    "@temper/shared-narrow": "workspace:*"
+  },
+  "devDependencies": {
+    "typescript": "^5.8.3",
+    "@temper/shared-build-deploy-lua-runner": "workspace:*"
+  },
+  "functionalType": "addon",
+  "version": "0.1.0",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "typecheck": "bunx @typescript/native-preview --noEmit -p tsconfig.json"
+  }
+}

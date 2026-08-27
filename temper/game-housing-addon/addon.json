@@ -1,0 +1,12 @@
+{
+  "name": "TemperHousing",
+  "title": "Temper Housing",
+  "description": "Housing hub — port to friends' houses, your own houses, favorites, and community library houses. Consolidates TemperPortToFriendsHouse (Port to Friend's House port by @s0rdrak) as its first member (#15146; the upstream donate-to-author arm was removed); the future home for further housing tooling.",
+  "author": "AlanGaming",
+  "version": "1.0.0",
+  "addonVersion": 100,
+  "apiVersion": ["101050", "101051"],
+  "savedVariables": ["TemperPortToFriendsHouse_SavedVariables"],
+  "dependsOn": ["LibAddonMenu-2.0", "LibCustomMenu"],
+  "optionalDependsOn": []
+}

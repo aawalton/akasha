@@ -1,0 +1,46 @@
+{
+  "extends": "../../tsconfig.base.json",
+  "compilerOptions": {
+    "composite": true,
+    "noEmit": false,
+    "emitDeclarationOnly": true,
+    "declarationDir": "dist",
+    "jsx": "react-jsx",
+    "lib": [
+      "dom",
+      "dom.iterable",
+      "esnext"
+    ],
+    "types": [
+      "@types/bun"
+    ]
+  },
+  "include": [
+    "src/**/*.ts",
+    "src/**/*.tsx"
+  ],
+  "exclude": [
+    "node_modules",
+    "dist"
+  ],
+  "references": [
+    {
+      "path": "../design-primitives"
+    },
+    {
+      "path": "../design-badges"
+    },
+    {
+      "path": "../design-forms"
+    },
+    {
+      "path": "../design-layout"
+    },
+    {
+      "path": "../design-patterns"
+    },
+    {
+      "path": "../utils-test"
+    }
+  ]
+}

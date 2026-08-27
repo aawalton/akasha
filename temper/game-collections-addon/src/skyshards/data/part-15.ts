@@ -1,0 +1,136 @@
+import type { SkyshardPin } from "./types"
+
+export const summerset__torhamekhard_01_base = [
+  [0.4683, 0.712, 1845, 16, 2, 4],
+] satisfies readonly SkyshardPin[]
+
+export const summerset__torhamekhard_02_base = [
+  [0.4683, 0.712, 1845, 16, 2, 4],
+] satisfies readonly SkyshardPin[]
+
+export const summerset__traitorsvault01_base = [
+  [0.5822, 0.4789, 1845, 18, 2, 4],
+] satisfies readonly SkyshardPin[]
+
+export const summerset__traitorsvault02_base = [
+  [0.5822, 0.4789, 1845, 18, 2, 4],
+] satisfies readonly SkyshardPin[]
+
+export const summerset__traitorsvault03_base = [
+  [0.5822, 0.4789, 1845, 18, 2, 4],
+] satisfies readonly SkyshardPin[]
+
+export const summerset__traitorsvault04_base = [
+  [0.5822, 0.4789, 1845, 18, 2, 4],
+] satisfies readonly SkyshardPin[]
+
+export const summerset__wastencoraldale_base = [
+  [0.3842, 0.4512, 1845, 17, 2],
+] satisfies readonly SkyshardPin[]
+
+export const systres__u34_breakwatercave_base = [
+  [0.5170603394, 0.1951006054, 3270, 13, 2],
+] satisfies readonly SkyshardPin[]
+
+export const systres__u34_coralcliffsext_base = [
+  [0.3621001839, 0.4224502146, 3270, 17, 2],
+  [0.2450211197, 0.4912492334, 3270, 17, 2],
+  [0.5274592638, 0.2896801531, 3270, 17, 2],
+] satisfies readonly SkyshardPin[]
+
+export const systres__u34_coralcliffsint_base = [
+  [0.316176474, 0.3466386497, 3270, 17, 2],
+] satisfies readonly SkyshardPin[]
+
+export const systres__u34_crimsoncoin_ext_base = [
+  [0.7741302847, 0.5128171443, 3270, 12, 3],
+] satisfies readonly SkyshardPin[]
+
+export const systres__u34_firepotcave_base = [
+  [0.3721571266, 0.5969663929, 3270, 15, 2],
+] satisfies readonly SkyshardPin[]
+
+export const systres__u34_ghosthaven_base = [
+  [0.6281458735, 0.5921931266, 3270, 11, 3],
+] satisfies readonly SkyshardPin[]
+
+export const systres__u34_ghosthavenext_base = [
+  [0.8324697613, 0.7328727841, 3270, 11, 3],
+] satisfies readonly SkyshardPin[]
+
+export const systres__u34_hauntedsepulcherext_base = [
+  [0.4835341274, 0.9269076585, 3270, 14, 2],
+] satisfies readonly SkyshardPin[]
+
+export const systres__u34_shipwreckshoalsext_base = [
+  [0.3591299951, 0.6580677628, 3270, 16, 2],
+] satisfies readonly SkyshardPin[]
+
+export const systres__u34_systreszone_base = [
+  [0.291, 0.7498, 3270, 1],
+  [0.515, 0.7823, 3270, 2],
+  [0.2604, 0.8524, 3270, 3],
+  [0.1439, 0.5668, 3270, 4],
+  [0.3127, 0.34, 3270, 5],
+  [0.3236, 0.62, 3270, 6],
+  [0.5008, 0.6549, 3270, 7],
+  [0.7821, 0.4516, 3270, 8],
+  [0.8003, 0.2639, 3270, 9],
+  [0.6685, 0.2069, 3270, 10],
+  [0.8649539351, 0.4046482443, 3270, 11, 3],
+  [0.6196997761, 0.6886463165, 3270, 12, 3],
+  [0.3301258087, 0.9128304123, 3270, 13, 2],
+  [0.2124494165, 0.4482330381, 3270, 14, 2],
+  [0.2757271826, 0.7063370943, 3270, 15, 2],
+  [0.4803281426, 0.4857603907, 3270, 16, 2],
+  [0.8163086175, 0.2028605937, 3270, 17, 2],
+  [0.5994069576, 0.3531643152, 3270, 18, 2],
+] satisfies readonly SkyshardPin[]
+
+export const systres__u34_whalefall_cay_base = [
+  [0.472682625, 0.5890116691, 3270, 18, 2],
+] satisfies readonly SkyshardPin[]
+
+export const telvanni__u38_apogee_wind_base = [
+  [0.480949521, 0.4708372652, 3672, 18, 2],
+] satisfies readonly SkyshardPin[]
+
+export const telvanni__u38_eggmine_base = [
+  [0.2916465997, 0.5309107303, 3672, 13, 2],
+] satisfies readonly SkyshardPin[]
+
+export const telvanni__u38_gorne_main_0 = [
+  [0.4036848545, 0.3325843811, 3672, 12, 3],
+] satisfies readonly SkyshardPin[]
+
+export const telvanni__u38_telvannipeninsula_base = [
+  [0.6989716291, 0.3625525832, 3672, 1],
+  [0.317, 0.364, 3672, 2],
+  [0.517, 0.781, 3672, 3],
+  [0.67, 0.608, 3672, 4],
+  [0.7191173434, 0.3177967369, 3672, 12, 3],
+  [0.7864651679, 0.4997152686, 3672, 13, 2],
+  [0.2419047057, 0.6903068423, 3672, 17, 2],
+] satisfies readonly SkyshardPin[]
+
+export const telvanni__u38_tunnel2_base = [
+  [0.5926405787, 0.120041646, 3672, 7, 4],
+] satisfies readonly SkyshardPin[]
+
+export const therift__avancheznel_base = [[0.11, 0.64, 689, 10]] satisfies readonly SkyshardPin[]
+
+export const therift__brokenhelm_base = [[0.872, 0.645, 689, 11]] satisfies readonly SkyshardPin[]
+
+export const therift__ebonmeretower_base = [
+  [0.398, 0.419, 689, 12],
+] satisfies readonly SkyshardPin[]
+
+export const therift__fortgreenwall_base = [
+  [0.525, 0.447, 689, 13],
+] satisfies readonly SkyshardPin[]
+
+export const therift__riften_base = [[0.798, 0.185, 689, 9]] satisfies readonly SkyshardPin[]
+
+export const therift__shorsstone_base = [[0.292, 0.446, 689, 2]] satisfies readonly SkyshardPin[]
+
+export const therift__shroudhearth_base = [[0.779, 0.612, 689, 14]] satisfies readonly SkyshardPin[]

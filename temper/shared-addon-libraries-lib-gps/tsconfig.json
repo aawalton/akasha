@@ -1,0 +1,28 @@
+{
+  "extends": "../addons/tsconfig.base.json",
+  "compilerOptions": {
+    "module": "esnext",
+    "moduleResolution": "bundler",
+    "isolatedModules": true,
+    "rootDir": "../..",
+    "outDir": "../addons/dist/LibGPS",
+    "target": "ESNext",
+    "strict": true,
+    "types": []
+  },
+  "tstl": {
+    "luaTarget": "5.1",
+    "luaBundle": "LibGPS.lua",
+    "luaBundleEntry": "./src/main.ts",
+    "luaLibImport": "require-minimal",
+    "noImplicitSelf": true
+  },
+  "include": [
+    "src/**/*.ts",
+    "../addons/types/eso/**/*.d.ts",
+    "../addons/types/libs/lib-debug-logger.d.ts",
+    "../addons/types/libs/lib-chat-message.d.ts",
+    "../addons/types/libs/lib-map-ping.d.ts"
+  ],
+  "exclude": ["src/**/*.test.ts"]
+}

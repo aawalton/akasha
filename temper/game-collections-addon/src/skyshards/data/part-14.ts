@@ -1,0 +1,116 @@
+import type { SkyshardPin } from "./types"
+
+export const stonefalls__stonefalls_base = [
+  [0.777, 0.346, 397, 1, 1],
+  [0.9437, 0.4716, 397, 2],
+  [0.6138, 0.6115, 397, 3],
+  [0.391, 0.4678, 397, 4],
+  [0.2535, 0.411, 397, 5],
+  [0.4664, 0.6038, 397, 6],
+  [0.3364, 0.6818, 397, 7],
+  [0.0868, 0.4452, 397, 8],
+  [0.1299, 0.6103, 397, 9],
+  [0.7166, 0.3932, 397, 10, 2],
+  [0.6432, 0.5915, 397, 11, 2],
+  [0.5833, 0.5944, 397, 12, 2],
+  [0.3575, 0.4488, 397, 13, 2],
+  [0.29, 0.5582, 397, 14, 2],
+  [0.211, 0.5405, 397, 15, 2],
+  [0.9334, 0.3608, 397, 16, 3],
+] satisfies readonly SkyshardPin[]
+
+export const stormhaven__bearclawmine_base = [
+  [0.178, 0.479, 515, 10],
+] satisfies readonly SkyshardPin[]
+
+export const stormhaven__bonesnapruins_base = [
+  [0.25, 0.64, 515, 16],
+] satisfies readonly SkyshardPin[]
+
+export const stormhaven__bonesnapruinssecret_base = [
+  [0.25, 0.73, 515, 16],
+] satisfies readonly SkyshardPin[]
+
+export const stormhaven__farangelsdelve_base = [
+  [0.754, 0.087, 515, 11],
+] satisfies readonly SkyshardPin[]
+
+export const stormhaven__koeglinmine_base = [[0.4, 0.12, 515, 12]] satisfies readonly SkyshardPin[]
+
+export const stormhaven__norvulkruins_base = [
+  [0.352, 0.532, 515, 13],
+] satisfies readonly SkyshardPin[]
+
+export const stormhaven__pariahcatacombs_base = [
+  [0.752, 0.319, 515, 14],
+] satisfies readonly SkyshardPin[]
+
+export const stormhaven__portdunwatch_base = [
+  [0.706, 0.446, 515, 15],
+] satisfies readonly SkyshardPin[]
+
+export const stormhaven__stormhaven_base = [
+  [0.15, 0.348, 515, 1],
+  [0.22, 0.203, 515, 2],
+  [0.222, 0.466, 515, 3],
+  [0.644, 0.383, 515, 4],
+  [0.684, 0.492, 515, 5],
+  [0.394, 0.64, 515, 6],
+  [0.776, 0.414, 515, 7],
+  [0.825, 0.423, 515, 8],
+  [0.867, 0.464, 515, 9],
+  [0.786, 0.433, 515, 10, 2],
+  [0.389, 0.653, 515, 11, 2],
+  [0.237, 0.494, 515, 12, 2],
+  [0.605, 0.367, 515, 13, 2],
+  [0.458, 0.43, 515, 14, 2],
+  [0.308, 0.323, 515, 15, 2],
+  [0.317, 0.496, 515, 16, 3],
+] satisfies readonly SkyshardPin[]
+
+export const summerset__alinor_base = [[0.4176, 0.1979, 1845, 1]] satisfies readonly SkyshardPin[]
+
+export const summerset__archonsgrove_base = [
+  [0.5428, 0.705, 1845, 15, 2],
+] satisfies readonly SkyshardPin[]
+
+export const summerset__artaeum_base = [
+  [0.3982, 0.4478, 1845, 18, 2, 4],
+] satisfies readonly SkyshardPin[]
+
+export const summerset__etonnir_01_base = [
+  [0.1481, 0.5968, 1845, 14, 2, 4],
+] satisfies readonly SkyshardPin[]
+
+export const summerset__kingshavenint1_base = [
+  [0.1975, 0.3843, 1845, 13, 2],
+] satisfies readonly SkyshardPin[]
+
+export const summerset__sum_karnwasten_base = [
+  [0.5995, 0.5956, 1845, 11, 3],
+] satisfies readonly SkyshardPin[]
+
+export const summerset__summerset_base = [
+  [0.2858, 0.5687, 1845, 1],
+  [0.3661, 0.5522, 1845, 2],
+  [0.1789, 0.2935, 1845, 3],
+  [0.2959, 0.1955, 1845, 4],
+  [0.4933, 0.1716, 1845, 5],
+  [0.5438, 0.4202, 1845, 6],
+  [0.5544, 0.5252, 1845, 7],
+  [0.7047, 0.773, 1845, 8],
+  [0.4699, 0.4966, 1845, 9],
+  [0.2337, 0.4205, 1845, 10],
+  [0.3013, 0.2087, 1845, 11, 3],
+  [0.4521, 0.7077, 1845, 12, 3],
+  [0.4892, 0.2751, 1845, 13, 2],
+  [0.3581, 0.3249, 1845, 13, 2],
+  [0.5096, 0.3272, 1845, 14, 2, 4],
+  [0.5786, 0.5836, 1845, 15, 2],
+  [0.4963, 0.5445, 1845, 16, 2, 4],
+  [0.2669, 0.5216, 1845, 17, 2],
+] satisfies readonly SkyshardPin[]
+
+export const summerset__sunhold_base = [
+  [0.3738, 0.3466, 1845, 12, 3],
+] satisfies readonly SkyshardPin[]
