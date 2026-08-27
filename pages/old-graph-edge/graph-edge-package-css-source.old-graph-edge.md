@@ -5,7 +5,6 @@ title: "Graph edge package css source"
 slug: graph-edge-package-css-source
 domain-parent-slug: domain/graph-edge-package
 code-type: css-source
-roots: true
 attributes-slugs:
   - graph-edge-attribute-raw
   - graph-edge-attribute-pattern

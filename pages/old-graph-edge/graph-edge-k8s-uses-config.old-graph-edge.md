@@ -5,7 +5,6 @@ title: "Graph edge k8s uses config"
 slug: graph-edge-k8s-uses-config
 domain-parent-slug: domain/graph-edge-k8s
 code-type: k8s-uses-config
-roots: true
 attributes-slugs:
   - graph-edge-attribute-line
   - graph-edge-attribute-mount-style

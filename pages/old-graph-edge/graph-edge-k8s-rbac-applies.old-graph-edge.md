@@ -5,7 +5,6 @@ title: "Graph edge k8s rbac applies"
 slug: graph-edge-k8s-rbac-applies
 domain-parent-slug: domain/graph-edge-k8s
 code-type: rbac-applies
-roots: true
 attributes-slugs:
   - graph-edge-attribute-via
 ---

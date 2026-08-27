@@ -5,7 +5,6 @@ title: "Graph edge dockerfile compiles entry"
 slug: graph-edge-dockerfile-compiles-entry
 domain-parent-slug: page-type/old-graph-edge
 code-type: dockerfile-compiles-entry
-roots: true
 ---
 
 # Definition

@@ -5,7 +5,6 @@ title: "Graph edge db trigger table"
 slug: graph-edge-db-trigger-table
 domain-parent-slug: domain/graph-edge-db
 code-type: db-trigger-table
-roots: false
 attributes-slugs:
   - graph-edge-attribute-table-schema
   - graph-edge-attribute-table-name

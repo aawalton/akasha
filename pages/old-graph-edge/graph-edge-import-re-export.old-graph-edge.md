@@ -5,7 +5,6 @@ title: "Graph edge import re export"
 slug: graph-edge-import-re-export
 domain-parent-slug: domain/graph-edge-import
 code-type: re-export
-roots: true
 attributes-slugs:
   - graph-edge-attribute-specifier
   - graph-edge-attribute-resolved

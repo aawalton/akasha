@@ -5,7 +5,6 @@ title: "Graph edge db function declared in"
 slug: graph-edge-db-function-declared-in
 domain-parent-slug: domain/graph-edge-db
 code-type: db-function-declared-in
-roots: true
 ---
 
 # Definition

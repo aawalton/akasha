@@ -5,7 +5,6 @@ title: "Graph edge import md"
 slug: graph-edge-import-md
 domain-parent-slug: domain/graph-edge-import
 code-type: md-imports
-roots: false
 attributes-slugs:
   - graph-edge-attribute-specifier
   - graph-edge-attribute-resolved

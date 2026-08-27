@@ -5,7 +5,6 @@ title: "Graph node pipeline workflow"
 slug: graph-node-pipeline-workflow
 domain-parent-slug: domain/graph-node-pipeline
 code-type: workflow
-deployed: true
 attributes-slugs:
   - graph-node-attribute-name
   - graph-node-attribute-kind

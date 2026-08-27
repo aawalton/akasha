@@ -5,7 +5,6 @@ title: "Graph edge pipeline step names file"
 slug: graph-edge-pipeline-step-names-file
 domain-parent-slug: domain/graph-edge-pipeline
 code-type: step-names-file
-roots: false
 ---
 
 # Definition

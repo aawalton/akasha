@@ -5,7 +5,6 @@ title: "Graph edge k8s uses service account"
 slug: graph-edge-k8s-uses-service-account
 domain-parent-slug: domain/graph-edge-k8s
 code-type: k8s-uses-service-account
-roots: true
 attributes-slugs:
   - graph-edge-attribute-line
 ---

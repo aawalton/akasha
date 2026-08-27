@@ -5,7 +5,6 @@ title: "Graph node web app"
 slug: graph-node-web-app
 domain-parent-slug: page-type/old-graph-node
 code-type: web-app
-deployed: true
 attributes-slugs:
   - graph-node-attribute-name
 ---

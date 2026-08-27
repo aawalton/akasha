@@ -5,7 +5,6 @@ title: "Graph edge k8s synth emits"
 slug: graph-edge-k8s-synth-emits
 domain-parent-slug: domain/graph-edge-k8s
 code-type: synth-emits
-roots: true
 attributes-slugs:
   - graph-edge-attribute-source-path
 ---

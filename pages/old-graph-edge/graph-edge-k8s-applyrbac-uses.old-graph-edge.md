@@ -5,7 +5,6 @@ title: "Graph edge k8s applyrbac uses"
 slug: graph-edge-k8s-applyrbac-uses
 domain-parent-slug: domain/graph-edge-k8s
 code-type: applyrbac-uses
-roots: true
 attributes-slugs:
   - graph-edge-attribute-source-path
 ---

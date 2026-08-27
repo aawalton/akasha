@@ -5,7 +5,6 @@ title: "Graph edge package web app build config"
 slug: graph-edge-package-web-app-build-config
 domain-parent-slug: domain/graph-edge-package
 code-type: web-app-build-config
-roots: true
 ---
 
 # Definition

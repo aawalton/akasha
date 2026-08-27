@@ -5,7 +5,6 @@ title: "Graph edge k8s synth names file"
 slug: graph-edge-k8s-synth-names-file
 domain-parent-slug: domain/graph-edge-k8s
 code-type: synth-names-file
-roots: true
 attributes-slugs:
   - graph-edge-attribute-path
 ---

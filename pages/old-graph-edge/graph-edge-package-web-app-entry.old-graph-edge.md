@@ -5,7 +5,6 @@ title: "Graph edge package web app entry"
 slug: graph-edge-package-web-app-entry
 domain-parent-slug: domain/graph-edge-package
 code-type: web-app-entry
-roots: true
 attributes-slugs:
   - graph-edge-attribute-kind
   - graph-edge-attribute-specifier

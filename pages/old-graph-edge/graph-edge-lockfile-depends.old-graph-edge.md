@@ -5,7 +5,6 @@ title: "Graph edge lockfile depends"
 slug: graph-edge-lockfile-depends
 domain-parent-slug: domain/graph-edge-lockfile
 code-type: lockfile-depends
-roots: true
 attributes-slugs:
   - graph-edge-attribute-kind
   - graph-edge-attribute-range

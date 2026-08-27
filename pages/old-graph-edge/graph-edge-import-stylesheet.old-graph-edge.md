@@ -5,7 +5,6 @@ title: "Graph edge import stylesheet"
 slug: graph-edge-import-stylesheet
 domain-parent-slug: domain/graph-edge-import
 code-type: import-stylesheet
-roots: true
 attributes-slugs:
   - graph-edge-attribute-specifier
   - graph-edge-attribute-resolved

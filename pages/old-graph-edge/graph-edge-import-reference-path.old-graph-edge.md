@@ -5,7 +5,6 @@ title: "Graph edge import reference path"
 slug: graph-edge-import-reference-path
 domain-parent-slug: domain/graph-edge-import
 code-type: import-reference-path
-roots: true
 attributes-slugs:
   - graph-edge-attribute-specifier
   - graph-edge-attribute-resolved

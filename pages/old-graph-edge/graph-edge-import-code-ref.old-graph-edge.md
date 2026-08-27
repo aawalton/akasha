@@ -5,7 +5,6 @@ title: "Graph edge import code ref"
 slug: graph-edge-import-code-ref
 domain-parent-slug: domain/graph-edge-import
 code-type: import-code-ref
-roots: false
 attributes-slugs:
   - graph-edge-attribute-specifier
   - graph-edge-attribute-resolved

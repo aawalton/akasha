@@ -5,7 +5,6 @@ title: "Graph edge pipeline workflow dispatches"
 slug: graph-edge-pipeline-workflow-dispatches
 domain-parent-slug: domain/graph-edge-pipeline
 code-type: workflow-dispatches
-roots: true
 ---
 
 # Definition

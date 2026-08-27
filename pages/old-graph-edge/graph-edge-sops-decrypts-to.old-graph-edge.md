@@ -5,7 +5,6 @@ title: "Graph edge sops decrypts to"
 slug: graph-edge-sops-decrypts-to
 domain-parent-slug: domain/graph-edge-sops
 code-type: sops-decrypts-to
-roots: true
 attributes-slugs:
   - graph-edge-attribute-encrypted-field
   - graph-edge-attribute-doc-index

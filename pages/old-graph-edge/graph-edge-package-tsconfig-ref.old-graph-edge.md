@@ -5,7 +5,6 @@ title: "Graph edge package tsconfig ref"
 slug: graph-edge-package-tsconfig-ref
 domain-parent-slug: domain/graph-edge-package
 code-type: tsconfig-ref
-roots: false
 ---
 
 # Definition

@@ -5,7 +5,6 @@ title: "Graph edge import css"
 slug: graph-edge-import-css
 domain-parent-slug: domain/graph-edge-import
 code-type: css-imports
-roots: true
 attributes-slugs:
   - graph-edge-attribute-specifier
   - graph-edge-attribute-resolved

@@ -5,7 +5,6 @@ title: "Graph edge package carries tooling"
 slug: graph-edge-package-carries-tooling
 domain-parent-slug: domain/graph-edge-package
 code-type: pkg-carries-tooling
-roots: true
 ---
 
 # Definition

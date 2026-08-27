@@ -5,7 +5,6 @@ title: "Graph edge lockfile resolves"
 slug: graph-edge-lockfile-resolves
 domain-parent-slug: domain/graph-edge-lockfile
 code-type: lockfile-resolves
-roots: true
 attributes-slugs:
   - graph-edge-attribute-kind
   - graph-edge-attribute-range

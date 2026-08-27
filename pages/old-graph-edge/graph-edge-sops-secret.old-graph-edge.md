@@ -5,7 +5,6 @@ title: "Graph edge sops secret"
 slug: graph-edge-sops-secret
 domain-parent-slug: domain/graph-edge-sops
 code-type: sops-secret
-roots: true
 attributes-slugs:
   - graph-edge-attribute-source-path
 ---

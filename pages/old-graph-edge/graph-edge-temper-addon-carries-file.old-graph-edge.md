@@ -5,7 +5,6 @@ title: "Graph edge temper addon carries file"
 slug: graph-edge-temper-addon-carries-file
 domain-parent-slug: page-type/old-graph-edge
 code-type: addon-carries-file
-roots: true
 attributes-slugs:
   - graph-edge-attribute-kind
   - graph-edge-attribute-path

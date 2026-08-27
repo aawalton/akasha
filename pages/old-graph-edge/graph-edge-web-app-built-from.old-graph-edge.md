@@ -5,7 +5,6 @@ title: "Graph edge web app built from"
 slug: graph-edge-web-app-built-from
 domain-parent-slug: page-type/old-graph-edge
 code-type: web-app-built-from
-roots: true
 ---
 
 # Definition

@@ -5,7 +5,6 @@ title: "Graph edge package image carries"
 slug: graph-edge-package-image-carries
 domain-parent-slug: domain/graph-edge-package
 code-type: image-carries
-roots: true
 ---
 
 # Definition

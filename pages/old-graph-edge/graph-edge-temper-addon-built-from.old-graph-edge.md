@@ -5,7 +5,6 @@ title: "Graph edge Temper addon built from"
 slug: graph-edge-temper-addon-built-from
 domain-parent-slug: page-type/old-graph-edge
 code-type: temper-addon-built-from
-roots: true
 ---
 
 # Definition

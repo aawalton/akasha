@@ -5,7 +5,6 @@ title: "Graph node Temper addon"
 slug: graph-node-temper-addon
 domain-parent-slug: page-type/old-graph-node
 code-type: temper-addon
-deployed: true
 attributes-slugs:
   - graph-node-attribute-name
   - graph-node-attribute-path

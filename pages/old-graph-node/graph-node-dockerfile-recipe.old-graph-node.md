@@ -5,7 +5,6 @@ title: "Graph node dockerfile recipe"
 slug: graph-node-dockerfile-recipe
 domain-parent-slug: page-type/old-graph-node
 code-type: dockerfile-recipe
-deployed: true
 attributes-slugs:
   - graph-node-attribute-name
   - graph-node-attribute-extensions-path

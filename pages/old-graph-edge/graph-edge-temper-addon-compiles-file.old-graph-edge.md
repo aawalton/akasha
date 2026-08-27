@@ -5,7 +5,6 @@ title: "Graph edge temper addon compiles file"
 slug: graph-edge-temper-addon-compiles-file
 domain-parent-slug: page-type/old-graph-edge
 code-type: addon-compiles-file
-roots: true
 ---
 
 # Definition

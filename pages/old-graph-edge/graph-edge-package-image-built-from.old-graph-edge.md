@@ -5,7 +5,6 @@ title: "Graph edge package image built from"
 slug: graph-edge-package-image-built-from
 domain-parent-slug: domain/graph-edge-package
 code-type: image-built-from
-roots: true
 ---
 
 # Definition

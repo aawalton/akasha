@@ -5,7 +5,6 @@ title: "Graph edge k8s rbac declares"
 slug: graph-edge-k8s-rbac-declares
 domain-parent-slug: domain/graph-edge-k8s
 code-type: rbac-declares
-roots: false
 attributes-slugs:
   - graph-edge-attribute-source-path
   - graph-edge-attribute-rules

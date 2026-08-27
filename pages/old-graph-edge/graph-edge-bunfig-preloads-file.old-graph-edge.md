@@ -5,7 +5,6 @@ title: "Graph edge bunfig preloads file"
 slug: graph-edge-bunfig-preloads-file
 domain-parent-slug: page-type/old-graph-edge
 code-type: bunfig-preloads-file
-roots: true
 attributes-slugs:
   - graph-edge-attribute-specifier
 ---

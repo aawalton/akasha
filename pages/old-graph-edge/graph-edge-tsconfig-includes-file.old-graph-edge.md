@@ -5,7 +5,6 @@ title: "Graph edge tsconfig includes file"
 slug: graph-edge-tsconfig-includes-file
 domain-parent-slug: page-type/old-graph-edge
 code-type: tsconfig-includes-file
-roots: false
 attributes-slugs:
   - graph-edge-attribute-path
 ---

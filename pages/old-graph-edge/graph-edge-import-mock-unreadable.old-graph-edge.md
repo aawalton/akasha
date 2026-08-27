@@ -5,7 +5,6 @@ title: "Graph edge import mock unreadable"
 slug: graph-edge-import-mock-unreadable
 domain-parent-slug: domain/graph-edge-import
 code-type: mock-module-unreadable-specifier
-roots: false
 attributes-slugs:
   - graph-edge-attribute-specifier-text
   - graph-edge-attribute-line

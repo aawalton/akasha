@@ -5,7 +5,6 @@ title: "Graph edge pipeline workflow depends on"
 slug: graph-edge-pipeline-workflow-depends-on
 domain-parent-slug: domain/graph-edge-pipeline
 code-type: workflow-depends-on
-roots: false
 ---
 
 # Definition

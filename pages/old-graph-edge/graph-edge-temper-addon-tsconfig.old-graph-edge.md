@@ -5,7 +5,6 @@ title: "Graph edge temper addon tsconfig"
 slug: graph-edge-temper-addon-tsconfig
 domain-parent-slug: page-type/old-graph-edge
 code-type: addon-tsconfig
-roots: true
 attributes-slugs:
   - graph-edge-attribute-path
 ---

@@ -5,7 +5,6 @@ title: "Graph edge pipeline step of workflow"
 slug: graph-edge-pipeline-step-of-workflow
 domain-parent-slug: domain/graph-edge-pipeline
 code-type: step-of-workflow
-roots: false
 ---
 
 # Definition

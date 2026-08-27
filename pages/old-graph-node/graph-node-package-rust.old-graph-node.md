@@ -5,7 +5,6 @@ title: "Graph node package rust"
 slug: graph-node-package-rust
 domain-parent-slug: domain/graph-node-package
 code-type: rust-package
-deployed: true
 attributes-slugs:
   - graph-node-attribute-name
   - graph-node-attribute-path

@@ -5,7 +5,6 @@ title: "Graph edge db trigger declared in"
 slug: graph-edge-db-trigger-declared-in
 domain-parent-slug: domain/graph-edge-db
 code-type: db-trigger-declared-in
-roots: true
 ---
 
 # Definition

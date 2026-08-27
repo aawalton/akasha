@@ -5,7 +5,6 @@ title: "Graph edge import mock"
 slug: graph-edge-import-mock
 domain-parent-slug: domain/graph-edge-import
 code-type: mock-module
-roots: false
 attributes-slugs:
   - graph-edge-attribute-specifier
   - graph-edge-attribute-resolved

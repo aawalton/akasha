@@ -5,7 +5,6 @@ title: "Graph edge k8s routes to"
 slug: graph-edge-k8s-routes-to
 domain-parent-slug: domain/graph-edge-k8s
 code-type: k8s-routes-to
-roots: false
 attributes-slugs:
   - graph-edge-attribute-line
   - graph-edge-attribute-host

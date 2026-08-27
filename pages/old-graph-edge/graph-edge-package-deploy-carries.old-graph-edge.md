@@ -5,7 +5,6 @@ title: "Graph edge package deploy carries"
 slug: graph-edge-package-deploy-carries
 domain-parent-slug: domain/graph-edge-package
 code-type: deploy-carries-package
-roots: true
 ---
 
 # Definition

@@ -5,7 +5,6 @@ title: "Graph edge md link"
 slug: graph-edge-md-link
 domain-parent-slug: page-type/old-graph-edge
 code-type: md-link
-roots: false
 attributes-slugs:
   - graph-edge-attribute-line
   - graph-edge-attribute-raw-href

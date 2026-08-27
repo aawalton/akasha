@@ -5,7 +5,6 @@ title: "Graph node iOS app"
 slug: graph-node-ios-app
 domain-parent-slug: page-type/old-graph-node
 code-type: ios-app
-deployed: true
 attributes-slugs:
   - graph-node-attribute-name
 ---

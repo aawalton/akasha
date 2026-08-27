@@ -5,7 +5,6 @@ title: "Graph node inference service"
 slug: graph-node-inference-service
 domain-parent-slug: page-type/old-graph-node
 code-type: inference-service
-deployed: true
 attributes-slugs:
   - graph-node-attribute-name
   - graph-node-attribute-hostname

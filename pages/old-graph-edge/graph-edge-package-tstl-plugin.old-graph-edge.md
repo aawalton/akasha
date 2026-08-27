@@ -5,7 +5,6 @@ title: "Graph edge package tstl plugin"
 slug: graph-edge-package-tstl-plugin
 domain-parent-slug: domain/graph-edge-package
 code-type: tstl-plugin
-roots: true
 attributes-slugs:
   - graph-edge-attribute-specifier
   - graph-edge-attribute-resolved

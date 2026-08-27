@@ -5,7 +5,6 @@ title: "Graph edge inference service source"
 slug: graph-edge-inference-service-source
 domain-parent-slug: page-type/old-graph-edge
 code-type: inference-service-source
-roots: true
 ---
 
 # Definition

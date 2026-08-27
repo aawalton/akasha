@@ -5,7 +5,6 @@ title: "Graph edge sh file sources"
 slug: graph-edge-sh-file-sources
 domain-parent-slug: page-type/old-graph-edge
 code-type: sh-sources-file
-roots: true
 attributes-slugs:
   - graph-edge-attribute-specifier
 ---

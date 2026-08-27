@@ -5,7 +5,6 @@ title: "Graph edge package contains file"
 slug: graph-edge-package-contains-file
 domain-parent-slug: domain/graph-edge-package
 code-type: pkg-contains-file
-roots: false
 ---
 
 # Definition

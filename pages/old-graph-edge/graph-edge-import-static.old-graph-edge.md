@@ -5,7 +5,6 @@ title: "Graph edge import static"
 slug: graph-edge-import-static
 domain-parent-slug: domain/graph-edge-import
 code-type: import-static
-roots: true
 attributes-slugs:
   - graph-edge-attribute-specifier
   - graph-edge-attribute-resolved

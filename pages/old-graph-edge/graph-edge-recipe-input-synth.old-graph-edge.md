@@ -5,7 +5,6 @@ title: "Graph edge recipe input synth"
 slug: graph-edge-recipe-input-synth
 domain-parent-slug: domain/graph-edge-recipe-input
 code-type: synth-recipe-input
-roots: true
 attributes-slugs:
   - graph-edge-attribute-path
 ---

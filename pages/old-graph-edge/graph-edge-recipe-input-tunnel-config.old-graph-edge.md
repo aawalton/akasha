@@ -5,7 +5,6 @@ title: "Graph edge recipe input tunnel config"
 slug: graph-edge-recipe-input-tunnel-config
 domain-parent-slug: domain/graph-edge-recipe-input
 code-type: tunnel-config-recipe-input
-roots: true
 ---
 
 # Definition

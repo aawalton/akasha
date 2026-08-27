@@ -5,7 +5,6 @@ title: "Graph edge k8s selects"
 slug: graph-edge-k8s-selects
 domain-parent-slug: domain/graph-edge-k8s
 code-type: k8s-selects
-roots: false
 attributes-slugs:
   - graph-edge-attribute-matched-label-keys
 ---

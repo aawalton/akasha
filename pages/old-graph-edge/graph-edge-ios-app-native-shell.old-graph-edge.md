@@ -5,7 +5,6 @@ title: "Graph edge iOS app native shell"
 slug: graph-edge-ios-app-native-shell
 domain-parent-slug: page-type/old-graph-edge
 code-type: ios-app-native-shell
-roots: true
 ---
 
 # Definition

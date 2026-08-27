@@ -5,7 +5,6 @@ title: "Graph edge file tested by"
 slug: graph-edge-file-tested-by
 domain-parent-slug: page-type/old-graph-edge
 code-type: tested-by
-roots: true
 ---
 
 # Definition

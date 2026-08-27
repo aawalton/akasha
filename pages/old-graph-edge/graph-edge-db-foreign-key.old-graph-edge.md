@@ -5,7 +5,6 @@ title: "Graph edge db foreign key"
 slug: graph-edge-db-foreign-key
 domain-parent-slug: domain/graph-edge-db
 code-type: foreign-key
-roots: false
 attributes-slugs:
   - graph-edge-attribute-constraint-name
   - graph-edge-attribute-from-columns

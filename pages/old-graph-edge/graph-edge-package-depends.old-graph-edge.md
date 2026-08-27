@@ -5,7 +5,6 @@ title: "Graph edge package depends"
 slug: graph-edge-package-depends
 domain-parent-slug: domain/graph-edge-package
 code-type: pkg-depends
-roots: false
 attributes-slugs:
   - graph-edge-attribute-kind
 ---

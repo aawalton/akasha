@@ -5,7 +5,6 @@ title: "Graph node package workspace root"
 slug: graph-node-package-workspace-root
 domain-parent-slug: domain/graph-node-package
 code-type: workspace-root
-deployed: true
 attributes-slugs:
   - graph-node-attribute-path
 ---

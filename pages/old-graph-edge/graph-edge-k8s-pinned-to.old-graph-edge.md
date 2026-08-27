@@ -5,7 +5,6 @@ title: "Graph edge k8s pinned to"
 slug: graph-edge-k8s-pinned-to
 domain-parent-slug: domain/graph-edge-k8s
 code-type: pinned-to
-roots: false
 attributes-slugs:
   - graph-edge-attribute-via
 ---

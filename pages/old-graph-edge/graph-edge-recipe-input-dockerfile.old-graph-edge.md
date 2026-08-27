@@ -5,7 +5,6 @@ title: "Graph edge recipe input dockerfile"
 slug: graph-edge-recipe-input-dockerfile
 domain-parent-slug: domain/graph-edge-recipe-input
 code-type: dockerfile-recipe-input
-roots: true
 attributes-slugs:
   - graph-edge-attribute-kind
 ---

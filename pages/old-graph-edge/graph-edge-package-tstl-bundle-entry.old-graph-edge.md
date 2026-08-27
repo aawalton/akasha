@@ -5,7 +5,6 @@ title: "Graph edge package tstl bundle entry"
 slug: graph-edge-package-tstl-bundle-entry
 domain-parent-slug: domain/graph-edge-package
 code-type: tstl-bundle-entry
-roots: true
 attributes-slugs:
   - graph-edge-attribute-specifier
   - graph-edge-attribute-resolved

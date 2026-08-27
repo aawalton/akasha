@@ -5,7 +5,6 @@ title: "Graph edge import dynamic"
 slug: graph-edge-import-dynamic
 domain-parent-slug: domain/graph-edge-import
 code-type: import-dynamic
-roots: true
 attributes-slugs:
   - graph-edge-attribute-specifier
   - graph-edge-attribute-resolved

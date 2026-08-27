@@ -5,7 +5,6 @@ title: "Graph edge k8s declared in"
 slug: graph-edge-k8s-declared-in
 domain-parent-slug: domain/graph-edge-k8s
 code-type: k8s-declared-in
-roots: true
 ---
 
 # Definition

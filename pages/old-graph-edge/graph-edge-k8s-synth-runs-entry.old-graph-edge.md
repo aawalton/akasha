@@ -5,7 +5,6 @@ title: "Graph edge k8s synth runs entry"
 slug: graph-edge-k8s-synth-runs-entry
 domain-parent-slug: domain/graph-edge-k8s
 code-type: synth-runs-entry
-roots: true
 attributes-slugs:
   - graph-edge-attribute-path
 ---

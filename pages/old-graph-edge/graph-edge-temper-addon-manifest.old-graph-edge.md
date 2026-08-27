@@ -5,7 +5,6 @@ title: "Graph edge temper addon manifest"
 slug: graph-edge-temper-addon-manifest
 domain-parent-slug: page-type/old-graph-edge
 code-type: addon-manifest
-roots: true
 attributes-slugs:
   - graph-edge-attribute-path
 ---

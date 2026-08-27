@@ -5,7 +5,6 @@ title: "Graph edge module opens file"
 slug: graph-edge-module-opens-file
 domain-parent-slug: page-type/old-graph-edge
 code-type: module-opens-file
-roots: true
 attributes-slugs:
   - graph-edge-attribute-specifier
 ---

@@ -5,7 +5,6 @@ title: "Graph edge dockerfile carries"
 slug: graph-edge-dockerfile-carries
 domain-parent-slug: page-type/old-graph-edge
 code-type: dockerfile-carries
-roots: true
 ---
 
 # Definition

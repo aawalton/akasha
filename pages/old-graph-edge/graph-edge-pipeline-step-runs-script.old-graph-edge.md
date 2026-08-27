@@ -5,7 +5,6 @@ title: "Graph edge pipeline step runs script"
 slug: graph-edge-pipeline-step-runs-script
 domain-parent-slug: domain/graph-edge-pipeline
 code-type: step-runs-script
-roots: true
 ---
 
 # Definition

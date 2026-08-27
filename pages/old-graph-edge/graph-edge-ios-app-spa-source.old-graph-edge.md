@@ -5,7 +5,6 @@ title: "Graph edge iOS app spa source"
 slug: graph-edge-ios-app-spa-source
 domain-parent-slug: page-type/old-graph-edge
 code-type: ios-app-spa-source
-roots: true
 ---
 
 # Definition

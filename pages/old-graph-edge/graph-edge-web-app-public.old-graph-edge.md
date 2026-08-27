@@ -5,7 +5,6 @@ title: "Graph edge web app public"
 slug: graph-edge-web-app-public
 domain-parent-slug: page-type/old-graph-edge
 code-type: web-app-public
-roots: true
 ---
 
 # Definition

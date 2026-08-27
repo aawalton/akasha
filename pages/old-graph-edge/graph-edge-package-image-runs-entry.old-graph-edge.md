@@ -5,7 +5,6 @@ title: "Graph edge package image runs entry"
 slug: graph-edge-package-image-runs-entry
 domain-parent-slug: domain/graph-edge-package
 code-type: image-runs-entry
-roots: true
 ---
 
 # Definition

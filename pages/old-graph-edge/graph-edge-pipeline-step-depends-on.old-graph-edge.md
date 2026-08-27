@@ -5,7 +5,6 @@ title: "Graph edge pipeline step depends on"
 slug: graph-edge-pipeline-step-depends-on
 domain-parent-slug: domain/graph-edge-pipeline
 code-type: step-depends-on
-roots: false
 ---
 
 # Definition

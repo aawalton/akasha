@@ -5,7 +5,6 @@ title: "Graph node k8s resource"
 slug: graph-node-k8s-resource
 domain-parent-slug: domain/graph-node-k8s
 code-type: k8s-resource
-deployed: true
 attributes-slugs:
   - graph-node-attribute-path
   - graph-node-attribute-doc-index
