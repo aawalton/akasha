@@ -15,4 +15,5 @@ scopes:
   - user:profile
   - user:sessions:claude_code
 terminal-at: 2026-08-27T13:50:40.846Z
+terminal-alerted-at: 2026-08-27T13:50:41.939Z
 ---
