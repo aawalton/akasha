@@ -1,5 +1,10 @@
 export const SUBAGENT_MARK = "--"
 
+export function seatAbove(agent: string): string | null {
+  const at = agent.indexOf(SUBAGENT_MARK)
+  return at <= 0 ? null : agent.slice(0, at)
+}
+
 function said(name: string): string {
   return (process.env[name] ?? "").trim()
 }
