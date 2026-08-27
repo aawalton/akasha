@@ -2,7 +2,7 @@
 id: edf7c686-0ea7-5f85-bfcc-f0440e59d341
 page-type-slug: old-ops-command
 title: "Ops instructions sweep-seats"
-slug: ops-instructions-sweep-seats
+slug: ops-seat-sweep
 domain-parent-slug: domain/ops-instructions
 required-reading-slugs:
   - page-type/old-ops-command
