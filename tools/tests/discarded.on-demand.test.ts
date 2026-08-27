@@ -104,7 +104,7 @@ function readThrough(pipeline: (command: string, out: string) => string): Ran {
     const ran = Bun.spawnSync(["bash", "-c", pipeline(command, out)], {
       stdout: "pipe",
       stderr: "pipe",
-      env: { ...process.env, HOME: dir, INSTRUCTIONS_ROOT: root, AGENT_ID: READER },
+      env: { ...process.env, HOME: dir, AKASHA_ROOT: root, AGENT_ID: READER },
     })
     return {
       err: ran.stderr.toString(),

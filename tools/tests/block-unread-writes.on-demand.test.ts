@@ -58,7 +58,7 @@ function fire(payload: unknown, options: { agent?: string | null } = {}): Ran {
   const run = Bun.spawnSync({
     cmd: [process.execPath, HOOK],
     stdin: Buffer.from(typeof payload === "string" ? payload : JSON.stringify(payload)),
-    env: { ...env, HOME: at.home, INSTRUCTIONS_ROOT: at.root, CODE_ROOT: code },
+    env: { ...env, HOME: at.home, AKASHA_ROOT: at.root, CODE_ROOT: code },
     stdout: "pipe",
     stderr: "pipe",
   })
@@ -124,7 +124,7 @@ describe("which repo a path is in", () => {
       const run = Bun.spawnSync({
         cmd: [process.execPath, HOOK],
         stdin: Buffer.from(JSON.stringify(write(`${repo}-wt/packages/infra/x.ts`))),
-        env: { ...process.env, AGENT_ID: AGENT, HOME: at.home, INSTRUCTIONS_ROOT: at.root, CODE_ROOT: repo },
+        env: { ...process.env, AGENT_ID: AGENT, HOME: at.home, AKASHA_ROOT: at.root, CODE_ROOT: repo },
         stdout: "pipe",
         stderr: "pipe",
       })
@@ -154,7 +154,7 @@ describe("which repo a path is in", () => {
     expect(fire(write(`${tmpdir()}/loose-file.ts`)).said).toBeNull()
   })
 
-  test("a path inside the instructions root is left to the command's gate", () => {
+  test("a path inside the akasha root is left to the command's gate", () => {
     document("tasks/aria-rule.md", `${CLAIMED}: pages/persona/aria.persona.md`)
     document("tasks/code-rules.md", `${CLAIMED}: code:pages/persona/aria.persona.md`)
     installRecorder()
@@ -173,7 +173,7 @@ describe("which repo a path is in", () => {
     const run = Bun.spawnSync({
       cmd: [process.execPath, HOOK],
       stdin: Buffer.from(JSON.stringify(write("~/packages/infra/x.ts"))),
-      env: { ...process.env, AGENT_ID: AGENT, HOME: code, INSTRUCTIONS_ROOT: at.root, CODE_ROOT: code },
+      env: { ...process.env, AGENT_ID: AGENT, HOME: code, AKASHA_ROOT: at.root, CODE_ROOT: code },
       stdout: "pipe",
       stderr: "pipe",
     })

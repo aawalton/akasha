@@ -27,7 +27,7 @@ function boot(): string {
   const out = `${at.root}/composed.txt`
   const run = Bun.spawnSync({
     cmd: [process.execPath, COMMAND, "--agent", AGENT, "--out", out],
-    env: { ...process.env, HOME: at.home, INSTRUCTIONS_ROOT: at.root, MEMORY_ROOT: at.memory, AGENT_ID: AGENT },
+    env: { ...process.env, HOME: at.home, AKASHA_ROOT: at.root, AGENT_ID: AGENT },
     stdout: "pipe",
     stderr: "pipe",
   })

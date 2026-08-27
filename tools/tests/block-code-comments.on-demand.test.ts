@@ -40,7 +40,7 @@ function fire(payload: unknown): Ran {
   const run = Bun.spawnSync({
     cmd: [process.execPath, HOOK],
     stdin: Buffer.from(typeof payload === "string" ? payload : JSON.stringify(payload)),
-    env: { ...env, HOME: at.home, INSTRUCTIONS_ROOT: at.root, CODE_ROOT: code },
+    env: { ...env, HOME: at.home, AKASHA_ROOT: at.root, CODE_ROOT: code },
     stdout: "pipe",
     stderr: "pipe",
   })
@@ -140,7 +140,7 @@ describe("what it stands aside from", () => {
     expect(refusal(ran)).toBe("")
   })
 
-  test("a path inside the instructions root is left to that repo's own gate", () => {
+  test("a path inside the akasha root is left to that repo's own gate", () => {
     const ran = fire(written(`${at.root}/tools/one.ts`, `${PROSE}\n`))
     expect(refusal(ran)).toBe("")
   })
