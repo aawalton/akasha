@@ -47,8 +47,8 @@ function sectionEntries(page: string, section: string): string[] {
   const names: string[] = []
   for (const line of lines.slice(start + 1)) {
     if (line.startsWith("# ")) break
-    const named = /^\s*-\s+\*\*(.+?)\*\*/.exec(line)
-    if (named) names.push(named[1].replace(/`/g, ""))
+    const named = /^\s*-\s+\*\*(.+?)\*\*/.exec(line)?.[1]
+    if (named !== undefined) names.push(named.replace(/`/g, ""))
   }
   return names
 }
