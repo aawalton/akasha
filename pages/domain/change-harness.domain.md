@@ -16,6 +16,7 @@ sequence-slugs:
   - page-type/patch
   - page-type/worktree
   - domain/checks-system
+  - domain/deploy-system
   - domain/change-harness-workstation
   - domain/change-harness-cluster
   - domain/change-harness-device
