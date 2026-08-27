@@ -15,6 +15,8 @@ Every folder matches a folder shape.
 
 A change that would leave a folder matching no folder shape is refused.
 
+A file holding only types is named `.d.ts`.
+
 # Notes
 
 `domain/domain-system` holds one intent line today, which this initiative would take off the
