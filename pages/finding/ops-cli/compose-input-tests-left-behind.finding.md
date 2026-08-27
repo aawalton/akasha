@@ -8,8 +8,9 @@ domain-slug: domain/ops-cli
 
 # Claim
 
-`buildComposeInput` and `parseFromFlag` now stand in the instructions repository, and the unit
-tests written for them still stand over the copy in the code repository.
+`buildComposeInput` and `parseFromFlag` stand in akasha at `tools/lib/email-code.ts`, and no test
+stands over them: the unit tests written for them guarded a second copy, and both went with the
+code repository.
 
 # Evidence
 
@@ -19,11 +20,12 @@ tests written for them still stand over the copy in the code repository.
 bodies; `loadAttachmentFile` reads the filesystem and `parseSender` is a library, so both are
 called where they stand.
 
-`packages/alanwalton/email/google/src/email/help-shared.unit.test.ts` exercises `parseFromFlag`
-against the display forms, and it now guards the copy no verb reaches. The version an agent runs
-is guarded by nothing.
+The test that exercised `parseFromFlag` against the display forms stood in the code repository and
+is gone. Nothing under `tools/tests/` names `email-code`, `buildComposeInput` or `parseFromFlag`,
+and an unrestricted search of the tree finds one `parseFromFlag`, at `tools/lib/email-code.ts:46`,
+next to `buildComposeInput` at line 60. The version an agent runs is guarded by nothing.
 
-The two were compared at commit 04f2c6e04 over fourteen invocations — comma-splitting, padding,
+The two were compared at a commit in the deleted code repository over fourteen invocations — comma-splitting, padding,
 empty `--cc` collapsing to undefined, the four `--from` display forms, lowercasing, a blank
 `--from`, a trailing-text case, and one and two attachments — agreeing on every field and on key
 order. That comparison was run once, by hand, and is not a test.
