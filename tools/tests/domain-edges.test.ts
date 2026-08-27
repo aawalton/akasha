@@ -1,13 +1,11 @@
 
-import { existsSync, mkdtempSync, readFileSync, rmSync } from "node:fs"
-import { tmpdir } from "node:os"
+import { existsSync, readFileSync } from "node:fs"
 import { afterAll, afterEach, beforeEach, describe, expect, test } from "bun:test"
 import { domainEdges } from "../audits/domain-edges.ts"
 import { type RepoView, listDocuments } from "../lib/check.ts"
 import { fromDisk, refusalText } from "../lib/refusal.ts"
 import type { Stated } from "../../page/index/identity/identity.ts"
-import { indexRoot } from "../../page/index/place/place.ts"
-import { keepPages } from "../../page/index/store/store.ts"
+import { anchorIndex } from "./index-anchor.ts"
 import { fixture, type Fixture } from "./fixture.ts"
 
 // WHAT A PAGE TYPE MUST DECLARE TO CLAIM A DOCUMENT. `files:` is what makes a suffix resolve to
@@ -36,18 +34,14 @@ const claiming = (id: string, slug: string): string =>
  * out of the fixture standing at the time — so a row cannot drift from what a case plants, and a
  * row whose page no case plants is passed over.
  *
- * THE INDEX HAS ONE PLACE FOR THE LIFE OF THE PROCESS. `page/index/place/place.ts` works it out on
- * the first ask and holds it, so it cannot follow a fixture made per case, and left alone it settles
- * on whichever root asked first — the live checkout, whose real index `keepPages` would then write
- * over. The anchor is a git repository of its own, named here before anything else can ask.
+ * THE INDEX HAS ONE PLACE FOR THE LIFE OF THE PROCESS, so this file gets its own only where it
+ * asked first. `anchorIndex` refuses the write rather than landing it on the live index where it
+ * did not — see `tools/tests/index-anchor.ts` for what that cost once.
  */
 const PAGE_TYPES: readonly string[] = ["persona", "domain", "exercise"]
 
-const anchor = mkdtempSync(`${tmpdir()}/domain-edges-index-`)
-Bun.spawnSync(["git", "init", "-q", "-b", "main", "."], { cwd: anchor })
-process.env.AKASHA_ROOT = anchor
-indexRoot()
-afterAll(() => rmSync(anchor, { recursive: true, force: true }))
+const anchor = anchorIndex("domain-edges")
+afterAll(() => anchor.discard())
 
 const indexRow = (slug: string): Stated => ({
   repo: "akasha",
@@ -67,7 +61,7 @@ let at: Fixture
 beforeEach(() => {
   // STATED AGAIN FOR EVERY CASE, because that one place is shared with every other test file in
   // this process, and one of them writing its own page types leaves none of these standing.
-  keepPages(PAGE_TYPES.map(indexRow))
+  anchor.keep(PAGE_TYPES.map(indexRow))
   at = fixture()
   at.document("pages/persona/aine.persona.md", "slug: aine\ndomain-parent-slug: persona\nchampioned-domain-slug: global")
   at.put("pages/page-type/persona.page-type.md", claiming("019ffe77-4933-7000-a73e-4c889acee68f", "persona"))
