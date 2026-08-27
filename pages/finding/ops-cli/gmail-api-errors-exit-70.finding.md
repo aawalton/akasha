@@ -16,7 +16,7 @@ carries, rather than as a classified refusal.
 `ops email messages trash`, `messages archive`, `messages modify-labels`, `attachments get` and
 `unsubscribe` all end at exit 70 with `Invalid id value` on stderr when handed a message id Gmail
 will not accept. The throw comes from the `@googleapis/gmail` SDK inside
-`packages/alanwalton/email/google/src/messages.ts`, which nothing catches, so
+`alanwalton/email-google/src/messages.ts`, which nothing catches, so
 `exitCodeForThrowable` classifies it through none of its four arms and reports a caller's mistyped
 id the way it reports a crash.
 
