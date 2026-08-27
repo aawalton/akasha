@@ -52,9 +52,9 @@ extends something is not a root and saying so would hide the fault. A property d
 slug that is neither a page type nor a property type is reported the same way.
 
 Usage:
-  ops instructions pages
-  ops instructions pages --json
-  ops instructions pages --counts
+  ops page types
+  ops page types --json
+  ops page types --counts
 
 Flags:
   --json    The two trees as one JSON object, for a caller rather than a reader. It carries the
