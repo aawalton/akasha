@@ -144,6 +144,12 @@ function rootsFor(at: Addressed): Roots {
   return { ...rootsHere(), target: at.repo }
 }
 
+function generatedFate(source: Addressed, destination: Addressed): string {
+  return source.repo === destination.repo
+    ? "; what wrote them will write the moved path itself when it next runs"
+    : "; regenerating them will not repair the paths, because what they name has left the repository"
+}
+
 export function landMoves(move: Move): void {
   const { moves, source, destination, message, dryRun } = move
   const roots = rootsFor(source)
@@ -172,7 +178,10 @@ export function landMoves(move: Move): void {
       (survey.quarantined.length === 0
         ? ""
         : `  quarantine           advisory        ${survey.quarantined.length} reference(s) under \`dirty/\` name a moved path and were left as written\n` +
-          survey.quarantined.map((one) => `      ${one}\n`).join(""))
+          survey.quarantined.map((one) => `      ${one}\n`).join("")) +
+      (survey.generated.length === 0
+        ? ""
+        : `  generated            advisory        ${survey.generated.length} generated file(s) name a moved path and were left as written${generatedFate(source, destination)}\n`)
   )
   if (anyRefused(outcomes)) {
     process.stderr.write("nothing was moved\n")
