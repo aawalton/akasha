@@ -10,18 +10,11 @@ const CLAIMED = "pages/domain/global.domain.md"
 
 const INVENTED = "not-a-property-of-anything"
 
-function rootsAt(instructions: string): RepoView["roots"] {
-  return {
-    instructions,
-    code: "/nonexistent-code",
-    memory: "/nonexistent-memory",
-    books: "/nonexistent-books",
-    stories: "/nonexistent-stories",
-    "code-editor": "/nonexistent-code-editor",
-  }
+function rootsAt(akasha: string): RepoView["roots"] {
+  return { akasha, "code-editor": "/nonexistent-code-editor" }
 }
 
-function viewOf(bend: (body: string) => string = (body) => body, name: Repo = "instructions"): RepoView {
+function viewOf(bend: (body: string) => string = (body) => body, name: Repo = "akasha"): RepoView {
   return {
     roots: rootsAt(HERE),
     name,
@@ -76,13 +69,13 @@ describe("a page missing a property its page type requires", () => {
   })
 })
 
-const unclaimed = pagesHoldProperties(viewOf((body) => body, "code"))
+const unclaimed = pagesHoldProperties(viewOf((body) => body, "code-editor"))
 
 describe("pages-hold-properties over a repo no page type claims", () => {
   test("says it does not apply and why, rather than certifying an empty sweep", () => {
     const outcome = unclaimed
     expect(outcome.verdict).toBe("not-applicable")
     expect(outcome.population.measured).toBe(0)
-    expect(outcome.detail).toContain("no page type names code")
+    expect(outcome.detail).toContain("no page type names code-editor")
   })
 })
