@@ -8,7 +8,12 @@ import { parseArgs } from "../../lib/parse-args.ts"
 import { readStdinOrFile } from "../../lib/read-stdin-or-file.ts"
 import { resumeSeat } from "../../lib/resume-seat.ts"
 import { DEFAULT_ACCOUNT } from "../../lib/default-account.ts"
-import { killSeatSession, launchSeatUnderTmux, respawnSeatUnderTmux } from "../../lib/launch-seat-tmux.ts"
+import {
+  holdSeatPaneOpen,
+  killSeatSession,
+  launchSeatUnderTmux,
+  respawnSeatUnderTmux,
+} from "../../lib/launch-seat-tmux.ts"
 import {
   SEAT_MODES,
   SEAT_MODE_HEADLESS,
@@ -203,6 +208,11 @@ export default async function seatResume(args: readonly string[]): Promise<void>
     }
     const target = await resolveTakeoverTarget(named)
     refuseWhereSubagentsWork(target, force)
+    // BEFORE THE TAKEOVER, because the takeover stops the supervisor and the supervisor is the
+    // pane's own process. Held open, the pane outlives that stop and the session, the window and
+    // every attached terminal stand for the new supervisor to start in.
+    const standing = seatRecord(target)?.name ?? null
+    if (standing !== null) await holdSeatPaneOpen(standing)
     const taken = await takeoverSeat(target)
     setTurnState(taken.agentId, "idle")
 

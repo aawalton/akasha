@@ -133,6 +133,35 @@ async function paneOf(name: string): Promise<string | null> {
 }
 
 /**
+ * Holds a seat's pane open across the stop that is about to take its supervisor, and ends the turn
+ * the supervisor is in.
+ *
+ * CALLED BEFORE THE HOLDER IS STOPPED, never after. This is the whole difference between cycling a
+ * seat and destroying it: the pane's process IS the supervisor, one window holds that pane and one
+ * session holds that window, so under `remain-on-exit off` stopping the supervisor takes the
+ * session and every client attached to it. Turning it on first leaves a dead pane where the seat
+ * was, which `respawnSeatUnderTmux` starts the new supervisor in.
+ *
+ * THE INTERRUPTS END A TURN RATHER THAN A PROCESS. A supervisor stopped mid-turn leaves a
+ * transcript whose tool call never resolved, and the next boot refuses to hydrate it — `No
+ * deferred tool marker found in the resumed session`. `C-c` reaches the client inside the proxy and
+ * not the supervisor around it; measured, the pane's pid is unchanged by them.
+ *
+ * Answers false where no session stands, which is not a fault: there is then nothing to hold open.
+ */
+export async function holdSeatPaneOpen(name: string): Promise<boolean> {
+  if (!(await sessionHolds(name))) return false
+  const pane = await paneOf(name)
+  if (pane === null) return false
+  await tmux(["set-option", "-t", `=${name}`, "remain-on-exit", "on"])
+  for (let i = 0; i < INTERRUPTS; i += 1) {
+    await tmux(["send-keys", "-t", pane, "C-c"])
+    await Bun.sleep(INTERRUPT_SETTLE_MS)
+  }
+  return true
+}
+
+/**
  * Restarts a seat's supervisor inside the session it is already in.
  *
  * WHY NOT KILL THE SESSION. The supervisor is the pane's own process, so replacing it used to mean
@@ -142,15 +171,11 @@ async function paneOf(name: string): Promise<string | null> {
  * session, the window and the pane id all stand, and an attached client sees the old supervisor
  * stop and the new one start without moving.
  *
- * INTERRUPTED BEFORE IT IS REPLACED. A supervisor killed mid-turn leaves a transcript whose tool
- * call never resolved, and the next boot refuses to hydrate it — `No deferred tool marker found in
- * the resumed session`. `C-c` reaches the client rather than the supervisor and ends the turn, which
- * is what makes the session resumable. Measured: the pane's pid is unchanged by these interrupts.
- *
- * `remain-on-exit` IS TURNED ON FIRST, AND LEFT ON UNTIL THE BOOT HOLDS. A seat session is one
- * window holding one pane, so a command that exits on boot takes the pane, the window and the
- * session with it — the seat is destroyed by the act meant to cycle it. With this on, a failed boot
- * leaves a dead pane standing to be read and respawned over.
+ * THE PANE IS ALREADY HELD OPEN AND ALREADY EMPTY when this runs. `holdSeatPaneOpen` is called
+ * before the holder is stopped, because the caller's takeover SIGTERMs the supervisor and a pane
+ * whose process exits under `remain-on-exit off` takes its window and its one-window session with
+ * it — the seat destroyed by the act meant to cycle it, which is what happened to `amy` and to
+ * `athena` before this. A dead pane can be respawned over; a dead session cannot.
  *
  * Answers false where there is no session to respawn into, which is the caller's cue to launch one.
  */
@@ -159,12 +184,6 @@ export async function respawnSeatUnderTmux(opts: LaunchSeatOpts): Promise<boolea
   if (!(await sessionHolds(name))) return false
   const pane = await paneOf(name)
   if (pane === null) return false
-
-  await tmux(["set-option", "-t", `=${name}`, "remain-on-exit", "on"])
-  for (let i = 0; i < INTERRUPTS; i += 1) {
-    await tmux(["send-keys", "-t", pane, "C-c"])
-    await Bun.sleep(INTERRUPT_SETTLE_MS)
-  }
 
   const cmd = buildSupervisorCmd(akashaRoot(), opts)
   const line = shellQuoted([...envScrubArgv(), `AGENT_ID=${opts.agentId}`, ...cmd])
