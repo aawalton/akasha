@@ -18,7 +18,9 @@ export default workflow("grafana", {
   dispatchNodes: [
     "workflow:instructions:grafana",
     "ts-file:code:packages/infra/k8s/src/grafana/synth.ts",
-    "yaml-file:code:packages/infra/k8s/src/grafana/k8s/grafana-dashboards-configmap.yaml",
+    "json-file:code:packages/infra/k8s/src/grafana/data/resources.json",
+    "json-file:code:packages/infra/k8s/src/grafana/data/pods.json",
+    "json-file:code:packages/infra/k8s/src/grafana/data/database.json",
   ],
   steps: [
     kubectlApply({
@@ -68,15 +70,8 @@ export default workflow("grafana", {
           "set -e",
           `CONTENT_HASH="${ci.inputsHash}"`,
           ...SKIP_CHECK,
-          `export NODE_01_HOST=$(jq -r '.[] | select(.id=="node-01") | .host' infra/scripts/bootstrap/nodes.json)`,
-          `export NODE_02_HOST=$(jq -r '.[] | select(.id=="node-02") | .host' infra/scripts/bootstrap/nodes.json)`,
-          `export NODE_03_HOST=$(jq -r '.[] | select(.id=="node-03") | .host' infra/scripts/bootstrap/nodes.json)`,
-          `export NODE_04_HOST=$(jq -r '.[] | select(.id=="node-04") | .host' infra/scripts/bootstrap/nodes.json)`,
-          `export NODE_05_HOST=$(jq -r '.[] | select(.id=="node-05") | .host' infra/scripts/bootstrap/nodes.json)`,
-          `export NODE_06_HOST=$(jq -r '.[] | select(.id=="node-06") | .host' infra/scripts/bootstrap/nodes.json)`,
           "kubectl apply --server-side --force-conflicts -n grafana -f infra/k8s/src/grafana/generated/datasources-configmap.generated.yaml",
-          `envsubst '\${NODE_01_HOST} \${NODE_02_HOST} \${NODE_03_HOST} \${NODE_04_HOST} \${NODE_05_HOST} \${NODE_06_HOST}' < infra/k8s/src/grafana/k8s/grafana-dashboards-configmap.yaml > /tmp/grafana-dashboards-configmap.yaml`,
-          "kubectl apply -n grafana -f /tmp/grafana-dashboards-configmap.yaml",
+          "kubectl apply -n grafana -f infra/k8s/src/grafana/generated/dashboards-configmap.generated.yaml",
         ],
         backendOptions: {
           kubernetes: { serviceAccountName: "pipeline-engine" },
@@ -97,10 +92,9 @@ export default workflow("grafana", {
           "set -e",
           `CONTENT_HASH="${ci.inputsHash}"`,
           ...SKIP_CHECK,
-          `envsubst '\${NODE_01_HOST} \${NODE_02_HOST} \${NODE_03_HOST} \${NODE_04_HOST} \${NODE_05_HOST} \${NODE_06_HOST}' < infra/k8s/src/grafana/k8s/grafana-dashboards-configmap.yaml > /tmp/grafana-dashboards-configmap.yaml 2>/dev/null || cp infra/k8s/src/grafana/k8s/grafana-dashboards-configmap.yaml /tmp/grafana-dashboards-configmap.yaml`,
           ...checksumHashCommands({
             variable: "GRAFANA_HASH",
-            read: "cat infra/k8s/src/grafana/generated/datasources-configmap.generated.yaml /tmp/grafana-dashboards-configmap.yaml",
+            read: "cat infra/k8s/src/grafana/generated/datasources-configmap.generated.yaml infra/k8s/src/grafana/generated/dashboards-configmap.generated.yaml",
             subject: "grafana datasources + dashboards configmaps",
           }),
           ...checksumHashCommands({
