@@ -13,7 +13,8 @@ import {
 } from "./identity/identity.ts"
 import { linkTargetsFrom } from "./link/link.ts"
 import { identityFile } from "./place/place.ts"
-import { type Relation, reachedFrom, relationsOver } from "./relation/relation.ts"
+import { type Holds, type Relation, reachedFrom, relationsOver } from "./relation/relation.ts"
+import { trackedIn } from "../tracked/tracked.ts"
 import {
   builtFrom,
   emptyIndex,
@@ -96,14 +97,24 @@ export function heldOf(repo: string, key: string, text: string): Held | null {
   return { repo, key, stem: named.stem, type: named.type, fm, links: linkTargetsFrom(repo, key, text) }
 }
 
+function holdsOver(roots: Roots): Holds {
+  const held = new Map<string, ReadonlySet<string>>()
+  for (const [repo, root] of Object.entries(roots)) {
+    if (root === undefined) continue
+    held.set(repo, new Set(trackedIn(root)))
+  }
+  return (repo, key) => held.get(repo)?.has(key) ?? false
+}
+
 export function buildOver(roots: Roots): Built {
   const identity = identityOver(roots)
   const relations = relationsOver(identity.pages)
+  const holds = holdsOver(roots)
   const stated = identity.pages.map(statedOf)
   const under = new Map<string, Source[]>()
   let entries = 0
   for (const at of identity.pages) {
-    for (const one of reachedFrom(at, relations, identity.at)) {
+    for (const one of reachedFrom(at, relations, identity.at, holds)) {
       const key = fileKey(one.relation, one.target)
       const held = under.get(key) ?? []
       held.push({ repo: at.repo, key: at.key })
@@ -153,11 +164,14 @@ function withSource(sources: readonly Source[], source: Source): readonly Source
 function keysOf(
   at: Held | null,
   relations: ReadonlyMap<string, readonly Relation[]>,
-  resolve: Resolve
+  resolve: Resolve,
+  holds: Holds
 ): ReadonlySet<string> {
   const found = new Set<string>()
   if (at === null) return found
-  for (const one of reachedFrom(at, relations, resolve)) found.add(fileKey(one.relation, one.target))
+  for (const one of reachedFrom(at, relations, resolve, holds)) {
+    found.add(fileKey(one.relation, one.target))
+  }
   return found
 }
 
@@ -165,10 +179,11 @@ export function updateFor(
   standing: Standing,
   source: Source,
   before: Held | null,
-  after: Held | null
+  after: Held | null,
+  holds: Holds
 ): number {
-  const was = keysOf(before, standing.relations, standing.resolve)
-  const now = keysOf(after, standing.relations, standing.resolve)
+  const was = keysOf(before, standing.relations, standing.resolve, holds)
+  const now = keysOf(after, standing.relations, standing.resolve, holds)
   let touched = 0
   for (const key of was) {
     if (now.has(key)) continue
@@ -260,7 +275,7 @@ function landedOf(landings: readonly Landing[]): readonly Landed[] {
   return found
 }
 
-export function landHere(landings: readonly Landing[]): number {
+export function landHere(landings: readonly Landing[], holds: Holds): number {
   const pages = loadPages()
   if (pages.length === 0) return 0
   const landed = landedOf(landings)
@@ -268,14 +283,25 @@ export function landHere(landings: readonly Landing[]): number {
   const stated = restatedAll(pages, landed)
   const standing: Standing = { resolve: resolveOver(stated), relations: loadRelations() }
   let touched = 0
-  for (const one of landed) touched += updateFor(standing, one.source, one.before, one.after)
+  for (const one of landed) touched += updateFor(standing, one.source, one.before, one.after, holds)
   touched += updateNamed(landed)
   keepPages(stated)
   return touched
 }
 
+/**
+ * One repository's rows marked as standing for the tree there now.
+ *
+ * A LANDING UPDATES THE RECORD OF WHAT THE INDEX WAS BUILT OVER, AND NEVER CREATES IT. `builtFrom`
+ * answering null says the index was never written, or was taken away; a landing carries a handful
+ * of pages and has walked no repository, so a record written here claims coverage no build ever
+ * gave — and claims it for the landing's own repository alone. Scans there then read an index
+ * holding no page and answer nothing, which reads exactly like a repository with no page in it and
+ * passes every check over it, while every other repository is refused for a record that never
+ * named it. Left null, the refusal stands over every repository until the index is written again.
+ */
 export function markLanded(repo: string, root: string): void {
-  const marks = { ...(builtFrom() ?? {}) }
-  marks[repo] = markFor(root)
-  keepBuiltFrom(marks)
+  const held = builtFrom()
+  if (held === null) return
+  keepBuiltFrom({ ...held, [repo]: markFor(root) })
 }
