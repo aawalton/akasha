@@ -17,5 +17,3 @@ domain-parent-slug: domain/page-property-universal
 # Design
 
 A page's name is produced by the rule its page type declares.
-
-A page's name is unique among the pages of its page type.
