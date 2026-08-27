@@ -57,10 +57,19 @@ export function initiativePlaceOf(bare: string, root: string): InitiativePlace |
   return null
 }
 
+/**
+ * What the seat states, spelled the way the files under initiatives/ spell it.
+ *
+ * A LOOKUP THAT MISSES KEEPS THE STATED SLUG rather than answering null. The seat page is composed
+ * from this on every heartbeat, so a null does not read here as "could not resolve" — it takes the
+ * assignment off the page, and the next heartbeat composes from the page it just emptied. Measured
+ * on 2026-08-27: seven seats lost their initiative that way, none of them told. A slug naming no
+ * file is a dangling relation, which the checks refuse out loud; forgetting it says nothing at all.
+ */
 export function initiativeOf(agent: string, roots: Roots = resolveRoots()): InitiativeRecord | null {
   const bare = pageTextOf(agent, INITIATIVE_SLUG_KEY)
-  const stem = bare === null ? null : initiativeStemOf(bare, rootFor(roots, AKASHA))
-  return stem === null ? null : { value: stem }
+  if (bare === null) return null
+  return { value: initiativeStemOf(bare, rootFor(roots, AKASHA)) ?? bare }
 }
 
 export function spellingOf(at: string): string | null {

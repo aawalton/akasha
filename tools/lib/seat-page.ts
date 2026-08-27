@@ -33,12 +33,18 @@ export function seatPageRelPath(seatName: string): string {
   return `${SEAT_WRITE.dir}/${seatName}.${PAGE_TYPE}${PAGE_SUFFIX}`
 }
 
-function initiativeSlugOf(stated: string, root: string): string | null {
+/**
+ * The slug the initiative file spells, or the stated value where no file answers to it.
+ *
+ * NEVER EMPTY FOR A SEAT THAT STATES ONE. The caller writes this straight into the page, so a null
+ * here dropped the line and the assignment with it, silently and on every heartbeat.
+ */
+function initiativeSlugOf(stated: string, root: string): string {
   const at = initiativesIn(root).get(stated) ?? []
   const [only] = at
-  if (at.length !== 1 || only === undefined) return null
+  if (at.length !== 1 || only === undefined) return stated
   const slug = frontmatterOf(`${root}/${only}`)?.["slug"]
-  return typeof slug === "string" && slug !== "" ? slug : null
+  return typeof slug === "string" && slug !== "" ? slug : stated
 }
 
 function domainAddress(named: string, root: string): string {
@@ -82,8 +88,7 @@ export function seatPageBody(
   const task = stated.task?.value ?? null
   if (task !== null) lines.push(`task-slug: ${task}`)
   if (stated.initiative !== null) {
-    const slug = initiativeSlugOf(stated.initiative.value, rootFor(roots, AKASHA))
-    if (slug !== null) lines.push(`initiative-slug: ${slug}`)
+    lines.push(`initiative-slug: ${initiativeSlugOf(stated.initiative.value, rootFor(roots, AKASHA))}`)
   }
   if (stated.errand !== null) {
     lines.push(`errand: ${JSON.stringify(clipErrand(stated.errand.value))}`)

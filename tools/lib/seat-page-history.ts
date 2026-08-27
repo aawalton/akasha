@@ -94,7 +94,7 @@ export function statedFromHistory(seatName: string, roots: Roots): StatedFromHis
     set,
     principal: textField(frontmatter, "person-slug") ?? textField(frontmatter, "principal-seat-name"),
     onCall: frontmatter["on-call"] === true,
-    initiative: bare === null ? null : initiativeStemOf(bare, rootFor(roots, AKASHA)),
+    initiative: bare === null ? null : (initiativeStemOf(bare, rootFor(roots, AKASHA)) ?? bare),
   }
 }
 
