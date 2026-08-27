@@ -1,10 +1,11 @@
 import { readdirSync, readFileSync } from "node:fs"
 import { parseFrontmatter, listField, textField } from "../page/frontmatter.ts"
+import { akashaRoot } from "../repo/roots/roots.ts"
 import { type GatedAct, type GatedBody, landBodies } from "../tools/lib/gated-landing.ts"
 import { fetchHtml, parseChapterProse, parseFictionPage, royalRoadUrl } from "../tools/lib/royal-road.ts"
 import type { RawChapter } from "../tools/lib/royal-road.ts"
 
-const STORIES_ROOT = process.env.STORIES_ROOT ?? `${process.env.HOME}/repos/stories`
+const ROOT = akashaRoot()
 const STORY_TYPE = "story-read-royal-road"
 const CHAPTER_TYPE = "story-chapter-royal-road"
 const STORY_DIR = `pages/${STORY_TYPE}`
@@ -47,14 +48,14 @@ interface Story {
 }
 
 function storyPages(): readonly string[] {
-  return [...new Bun.Glob(`${STORY_DIR}/**/*.md`).scanSync({ cwd: STORIES_ROOT })].sort()
+  return [...new Bun.Glob(`${STORY_DIR}/**/*.md`).scanSync({ cwd: ROOT })].sort()
 }
 
 function readStories(only: string | undefined): readonly Story[] {
   const out: Story[] = []
   for (const relPath of storyPages()) {
     const lastSlash = relPath.lastIndexOf("/")
-    const path = `${STORIES_ROOT}/${relPath}`
+    const path = `${ROOT}/${relPath}`
     const body = readFileSync(path, "utf8")
     const fm = parseFrontmatter(body)
     const slug = textField(fm, "slug")
@@ -90,7 +91,7 @@ interface Held {
 function readHeld(home: string): Held {
   const ids = new Set<string>()
   const slugs = new Set<string>()
-  const dir = `${STORIES_ROOT}/${CHAPTER_DIR}/${home}`
+  const dir = `${ROOT}/${CHAPTER_DIR}/${home}`
   let files: readonly string[]
   try {
     files = readdirSync(dir)
@@ -229,10 +230,10 @@ export function landInBatches(bodies: readonly GatedBody[], counts: Counts): voi
   for (let at = 0; at < bodies.length; at += BATCH_CEILING) {
     const batch = bodies.slice(at, at + BATCH_CEILING)
     const act: GatedAct = {
-      repo: "stories",
+      repo: "akasha",
       writer: WRITER,
-      message: `stories: royal road sync ${batch.length} file(s)`,
-      root: STORIES_ROOT,
+      message: `royal road sync ${batch.length} file(s)`,
+      root: ROOT,
     }
     const landed = landBodies(act, batch)
     if (!landed.ok) {
@@ -253,7 +254,7 @@ export async function main(argv: readonly string[]): Promise<number> {
 
   const stories = readStories(only)
   if (stories.length === 0 && only === undefined) {
-    console.log(`royal road sync: no ${STORY_TYPE} page stands under ${STORIES_ROOT}/${STORY_DIR}`)
+    console.log(`royal road sync: no ${STORY_TYPE} page stands under ${ROOT}/${STORY_DIR}`)
     return 1
   }
   console.log(`royal road sync: ${stories.length} stor${stories.length === 1 ? "y" : "ies"}`)
