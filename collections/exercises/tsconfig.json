@@ -21,16 +21,16 @@
   ],
   "references": [
     {
-      "path": "../../shared/errors-core--from-instructions"
+      "path": "../../shared/errors-core"
     },
     {
-      "path": "../../shared/pages-query--from-instructions"
+      "path": "../../shared/pages-query"
     },
     {
-      "path": "../../shared/recurrence--from-instructions"
+      "path": "../../shared/recurrence"
     },
     {
-      "path": "../../shared/utils-narrow--from-instructions"
+      "path": "../../shared/utils-narrow"
     }
   ]
 }

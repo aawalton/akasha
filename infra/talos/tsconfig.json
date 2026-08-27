@@ -18,10 +18,10 @@
   ],
   "references": [
     {
-      "path": "../../shared/errors-core--from-instructions"
+      "path": "../../shared/errors-core"
     },
     {
-      "path": "../k8s-types--from-instructions"
+      "path": "../k8s-types"
     }
   ]
 }

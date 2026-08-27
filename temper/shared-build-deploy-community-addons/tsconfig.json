@@ -14,10 +14,10 @@
   },
   "references": [
     {
-      "path": "../../shared/errors-core--from-instructions"
+      "path": "../../shared/errors-core"
     },
     {
-      "path": "../../shared/utils-narrow--from-instructions"
+      "path": "../../shared/utils-narrow"
     }
   ],
   "include": [

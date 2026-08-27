@@ -18,10 +18,10 @@
   ],
   "references": [
     {
-      "path": "../../shared/utils-narrow--from-instructions"
+      "path": "../../shared/utils-narrow"
     },
     {
-      "path": "../shared-saved-variables--from-instructions"
+      "path": "../shared-saved-variables"
     }
   ]
 }

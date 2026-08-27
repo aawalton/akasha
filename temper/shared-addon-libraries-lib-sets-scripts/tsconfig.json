@@ -14,7 +14,7 @@
       "path": "../shared-build-deploy-lua-runner--from-instructions"
     },
     {
-      "path": "../shared-foundation-misc-eso-paths--from-instructions"
+      "path": "../shared-foundation-misc-eso-paths"
     },
     {
       "path": "../../infra/git-porcelain"

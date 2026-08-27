@@ -11,13 +11,13 @@
   },
   "references": [
     {
-      "path": "../../shared/errors-core--from-instructions"
+      "path": "../../shared/errors-core"
     },
     {
-      "path": "../../shared/utils-fs--from-instructions"
+      "path": "../../shared/utils-fs"
     },
     {
-      "path": "../health-samples-access--from-instructions"
+      "path": "../health-samples-access"
     }
   ],
   "include": [

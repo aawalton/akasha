@@ -11,19 +11,19 @@
   },
   "references": [
     {
-      "path": "../../shared/errors-core--from-instructions"
+      "path": "../../shared/errors-core"
     },
     {
-      "path": "../../shared/pages-query--from-instructions"
+      "path": "../../shared/pages-query"
     },
     {
-      "path": "../../shared/supabase-auth--from-instructions"
+      "path": "../../shared/supabase-auth"
     },
     {
-      "path": "../../shared/utils-fs--from-instructions"
+      "path": "../../shared/utils-fs"
     },
     {
-      "path": "../../shared/utils-narrow--from-instructions"
+      "path": "../../shared/utils-narrow"
     },
     {
       "path": "../../shared/utils-process"

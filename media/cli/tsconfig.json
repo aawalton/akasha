@@ -18,7 +18,7 @@
   ],
   "references": [
     {
-      "path": "../../shared/errors-core--from-instructions"
+      "path": "../../shared/errors-core"
     }
   ]
 }

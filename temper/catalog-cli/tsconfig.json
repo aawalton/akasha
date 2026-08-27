@@ -18,10 +18,10 @@
   ],
   "references": [
     {
-      "path": "../shared-foundation-misc-eso-paths-resolve--from-instructions"
+      "path": "../shared-foundation-misc-eso-paths-resolve"
     },
     {
-      "path": "../shared-saved-variables--from-instructions"
+      "path": "../shared-saved-variables"
     }
   ]
 }

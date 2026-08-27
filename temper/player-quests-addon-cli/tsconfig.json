@@ -11,7 +11,7 @@
   },
   "references": [
     {
-      "path": "../shared-saved-variables--from-instructions"
+      "path": "../shared-saved-variables"
     }
   ],
   "include": [

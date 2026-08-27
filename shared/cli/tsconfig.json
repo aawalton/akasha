@@ -11,7 +11,7 @@
   },
   "references": [
     { "path": "../../infra/git-porcelain" },
-    { "path": "../supabase-server--from-instructions" }
+    { "path": "../supabase-server" }
   ],
   "include": [
     "src/**/*.ts"

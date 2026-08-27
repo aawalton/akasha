@@ -21,7 +21,7 @@
       "path": "../comfy"
     },
     {
-      "path": "../../shared/utils-narrow--from-instructions"
+      "path": "../../shared/utils-narrow"
     }
   ]
 }

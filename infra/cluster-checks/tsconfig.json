@@ -11,7 +11,7 @@
   },
   "references": [
     {
-      "path": "../../shared/errors-core--from-instructions"
+      "path": "../../shared/errors-core"
     },
     {
       "path": "../../shared/design/tokens"
@@ -23,40 +23,40 @@
       "path": "../../shared/graph/producers"
     },
     {
-      "path": "../../shared/pages-query--from-instructions"
+      "path": "../../shared/pages-query"
     },
     {
-      "path": "../../shared/utils-fs--from-instructions"
+      "path": "../../shared/utils-fs"
     },
     {
-      "path": "../../shared/utils-narrow--from-instructions"
+      "path": "../../shared/utils-narrow"
     },
     {
-      "path": "../../shared/verdict--from-instructions"
+      "path": "../../shared/verdict"
     },
     {
       "path": "../../shared/worker-runtime"
     },
     {
-      "path": "../../shared/workspace-paths--from-instructions"
+      "path": "../../shared/workspace-paths"
     },
     {
-      "path": "../../temper/shared-build-deploy-addons-resolve--from-instructions"
+      "path": "../../temper/shared-build-deploy-addons-resolve"
     },
     {
-      "path": "../../temper/shared-foundation-misc-eso-paths--from-instructions"
+      "path": "../../temper/shared-foundation-misc-eso-paths"
     },
     {
       "path": "../ci/pipeline-core"
     },
     {
-      "path": "../k8s--from-instructions"
+      "path": "../k8s"
     },
     {
-      "path": "../k8s-types--from-instructions"
+      "path": "../k8s-types"
     },
     {
-      "path": "../scripts--from-instructions"
+      "path": "../scripts"
     },
     {
       "path": "../workflow-dsl"

@@ -24,10 +24,10 @@
       "path": "../browser-launch-env"
     },
     {
-      "path": "../supabase-auth--from-instructions"
+      "path": "../supabase-auth"
     },
     {
-      "path": "../supabase-database--from-instructions"
+      "path": "../supabase-database"
     }
   ]
 }

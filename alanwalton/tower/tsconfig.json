@@ -8,8 +8,8 @@
     "types": ["@types/bun"]
   },
   "references": [
-    { "path": "../../shared/supabase-server--from-instructions" },
-    { "path": "../../shared/utils-narrow--from-instructions" },
+    { "path": "../../shared/supabase-server" },
+    { "path": "../../shared/utils-narrow" },
     { "path": "../../stories/text" },
     { "path": "../tower-core" },
     { "path": "../tower-engine" }

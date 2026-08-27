@@ -21,7 +21,7 @@
   ],
   "references": [
     {
-      "path": "../utils-narrow--from-instructions"
+      "path": "../utils-narrow"
     }
   ]
 }
