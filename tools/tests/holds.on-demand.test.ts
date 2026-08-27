@@ -1,6 +1,7 @@
 import { describe, expect, test } from "bun:test"
 import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { answer } from "../holds.ts"
+import { installRepos } from "./fixture.ts"
 
 const SCRATCH = "/var/tmp"
 
@@ -21,6 +22,12 @@ function tree(files: Readonly<Record<string, string>>): string {
     mkdirSync(at.split("/").slice(0, -1).join("/"), { recursive: true })
     writeFileSync(at, body)
   }
+  // THE REPO PAGES SAY WHICH REPOSITORIES THERE ARE, read out of the root `AKASHA_ROOT` names, so a
+  // temp tree without them makes `roots.ts` throw before `holds.ts` reads its request.
+  installRepos(root)
+  // A ROOT IS NAMED ONLY WHERE IT IS CLONED — `resolveRoots` skips a directory holding no `.git` —
+  // so an un-inited tree is answered as no akasha at all and `rootFor` throws.
+  Bun.spawnSync(["git", "init", "-q"], { cwd: root })
   return root
 }
 
@@ -35,7 +42,10 @@ function asked(request: Ask, bodies: Readonly<Record<string, string>>): unknown 
 
 async function spawned(root: string, request: Ask): Promise<{ code: number; stderr: string }> {
   const run = Bun.spawn(["bun", COMMAND], {
-    env: { ...process.env, INSTRUCTIONS_ROOT: root },
+    // `AKASHA_ROOT` IS WHAT NAMES THE TEMP TREE. This set `INSTRUCTIONS_ROOT`, which nothing reads:
+    // `holds.ts` takes its paths against `rootFor(resolveRoots(), AKASHA)`, so every case below ran
+    // against the live checkout, where `tools/commands/there.ts` does not exist.
+    env: { ...process.env, AKASHA_ROOT: root },
     stdin: new TextEncoder().encode(JSON.stringify(request)),
     stdout: "pipe",
     stderr: "pipe",
