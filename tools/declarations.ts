@@ -1,6 +1,6 @@
 export const tool = {
   summary: "Print what this repository declares about its personas, persons, roles, tasks and domains",
-  repos: ["akasha"],
+  path: "domain declarations",
 } as const
 
 import { DeadRead, isSubject, readCorpora, type Subject, SUBJECTS } from "./lib/subjects.ts"
