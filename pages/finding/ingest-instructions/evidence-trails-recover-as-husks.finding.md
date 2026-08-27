@@ -8,7 +8,7 @@ domain-slug: domain/global
 
 # Claim
 
-Findings across the memory corpus cite `dirty/` paths as their evidence, and 344 of the 401 distinct paths cited are gone. Recovering one the natural way yields a husk rather than a failure: a source is emptied block by block before removal, so `git show <removal>^:<path>` returns the lines that happened to survive last. `dirty/code/docs-symlinks.md` is 61 lines at quarantine and 5 at its removal commit's parent, 12 commits apart. Nothing marks the difference, and the count rises hourly.
+Findings cite `dirty/` paths as their evidence, and 285 of the 286 distinct paths cited are gone. Where this was first taken, recovering one the natural way yielded a husk rather than a failure: a source is emptied block by block before removal, so `git show <removal>^:<path>` returns the lines that happened to survive last, and nothing marks the difference. Here it yields nothing at all. No commit in this repository's history touches any of those paths, so the evidence behind 285 citations is reachable from no command in it. The trail is not hard to follow, it is unrecoverable, and a reader who meets one of these citations should treat the claim above it as unaudited rather than go looking.
 
 # Evidence
 
@@ -24,4 +24,4 @@ The correct recovery point is the commit that ADDED the path — `git log --form
 
 WHY THIS IS NOT THE DECIDED DANGLING-CITATION CLASS. `infra/cluster-checks/src/checks/check-repo-paths.ts` argues that a dead prose citation is "a dead link for a reader, never a path a program dereferences", and that stale prose is not what a deploy gate is for. That reasoning is about comments in shipped code. These are evidence trails in a corpus whose entire value is that a later reader can audit the claim rather than take it. And they are not dangling: they resolve, to the wrong thing.
 
-Not established: how many of the 344 transcribe enough of their source that the path is provenance only. At least one seat checked exactly that before leaving its citation alone, which is the right call per citation and does not scale to 344.
+Not established: how many of the 285 transcribe enough of their source that the path is provenance only. At least one seat checked exactly that before leaving its citation alone, which is the right call per citation and does not scale to 344.
