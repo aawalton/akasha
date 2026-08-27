@@ -26,6 +26,8 @@ const HOLDING = "worktrees"
 
 const SEAT_ENDING = ".seat.md"
 
+const GIT_DIR = ".git"
+
 export const help = {
   description:
     `${summary}.\n` +
@@ -92,25 +94,49 @@ function seatSlug(): string {
   return stem.slice(0, -SEAT_ENDING.length)
 }
 
-function linkModulesInto(tree: string, root: string): number {
-  const from = join(root, VENDOR_ROOT)
-  if (!existsSync(from)) return 0
-  const into = join(tree, VENDOR_ROOT)
+function vendorDirs(root: string): readonly string[] {
+  const found: string[] = []
+  const walk = (at: string, rel: string): void => {
+    for (const entry of readdirSync(at, { withFileTypes: true })) {
+      if (!entry.isDirectory()) continue
+      if (entry.name === GIT_DIR) continue
+      const next = rel === "" ? entry.name : `${rel}/${entry.name}`
+      if (entry.name === VENDOR_ROOT) {
+        found.push(next)
+        continue
+      }
+      walk(join(at, entry.name), next)
+    }
+  }
+  walk(root, "")
+  return found
+}
+
+function linkOne(from: string, into: string): number {
   mkdirSync(into, { recursive: true })
   let made = 0
   for (const entry of readdirSync(from)) {
     const held = join(from, entry)
+    const landing = join(into, entry)
     if (entry.startsWith("@")) {
-      mkdirSync(join(into, entry), { recursive: true })
+      mkdirSync(landing, { recursive: true })
       for (const inner of readdirSync(held)) {
-        symlinkSync(join(held, inner), join(into, entry, inner))
+        if (existsSync(join(landing, inner))) continue
+        symlinkSync(join(held, inner), join(landing, inner))
         made += 1
       }
       continue
     }
-    symlinkSync(held, join(into, entry))
+    if (existsSync(landing)) continue
+    symlinkSync(held, landing)
     made += 1
   }
+  return made
+}
+
+function linkModulesInto(tree: string, root: string): number {
+  let made = 0
+  for (const rel of vendorDirs(root)) made += linkOne(join(root, rel), join(tree, rel))
   return made
 }
 
