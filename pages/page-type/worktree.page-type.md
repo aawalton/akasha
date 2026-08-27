@@ -11,7 +11,7 @@ domain-parent-slug: domain/master-plan-worktree
 required-reading-slugs:
   - repo/memory-repo
   - domain/worktree
-next-seq: 19489
+next-seq: 19490
 mortal: true
 ---
 
