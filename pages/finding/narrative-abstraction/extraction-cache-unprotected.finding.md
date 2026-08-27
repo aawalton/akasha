@@ -1,5 +1,6 @@
 ---
 id: 81b6f223-c2c6-5b42-ad36-ddf04233fa4b
+slug: extraction-cache-unprotected
 page-type-slug: finding
 title: "Extraction cache unprotected"
 domain-slug: domain/global

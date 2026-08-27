@@ -1,5 +1,6 @@
 ---
 id: aa6e632e-f5fd-5723-b272-9645e88d90cd
+slug: batch-size-bounds-pinned-in-help
 page-type-slug: finding
 title: "Batch size bounds pinned in help"
 domain-slug: domain/global

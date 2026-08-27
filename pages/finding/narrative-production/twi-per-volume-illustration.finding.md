@@ -1,5 +1,6 @@
 ---
 id: b5708aa4-e6f4-554d-a41d-912d0ac9ad45
+slug: twi-per-volume-illustration
 page-type-slug: finding
 title: "Twi per volume illustration"
 domain-slug: domain/narrative-production

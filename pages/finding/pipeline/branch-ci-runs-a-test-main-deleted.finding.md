@@ -1,5 +1,6 @@
 ---
 id: 7942628f-3d67-5890-b358-94ba0773fa80
+slug: branch-ci-runs-a-test-main-deleted
 page-type-slug: finding
 title: "Branch CI runs a test main deleted"
 domain-slug: page-type/pipeline

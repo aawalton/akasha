@@ -1,5 +1,6 @@
 ---
 id: 2729028b-379d-524f-a45a-5187c1f0d228
+slug: unowned-unconsumed-page-type
 page-type-slug: finding
 title: "Unowned unconsumed page type"
 domain-slug: page-type/page-type

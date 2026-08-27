@@ -1,5 +1,6 @@
 ---
 id: e10adaee-c42d-5604-87a0-36057b1106fe
+slug: loki-logs-exit-code-mismatch
 page-type-slug: finding
 title: "Loki logs exit code mismatch"
 domain-slug: domain/ops-cli

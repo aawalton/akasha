@@ -1,5 +1,6 @@
 ---
 id: d230f41a-f25f-582d-b83e-85b1cfde67c6
+slug: loop-dark-carried-off-inverted
 page-type-slug: finding
 title: "Loop dark carried off inverted"
 domain-slug: barred-meaning/jargon

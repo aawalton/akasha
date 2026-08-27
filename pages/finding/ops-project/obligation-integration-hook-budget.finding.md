@@ -1,5 +1,6 @@
 ---
 id: 6831d71b-b5a9-5fc7-97cb-2954c2216616
+slug: obligation-integration-hook-budget
 page-type-slug: finding
 title: "Obligation integration hook budget"
 domain-slug: domain/global

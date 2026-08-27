@@ -1,5 +1,6 @@
 ---
 id: 9a18fc4e-b916-5544-99dd-2e225e17c854
+slug: owner-attribution-unmeasured
 page-type-slug: finding
 title: "Owner attribution unmeasured"
 domain-slug: domain/pages-system

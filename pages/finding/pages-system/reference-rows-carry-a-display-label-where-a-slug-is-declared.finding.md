@@ -1,5 +1,6 @@
 ---
 id: 01a02000-c71b-7002-820e-969bf1c83627
+slug: reference-rows-carry-a-display-label-where-a-slug-is-declared
 page-type-slug: finding
 title: "Reference rows carry a display label where a slug is declared"
 domain-slug: domain/pages-system

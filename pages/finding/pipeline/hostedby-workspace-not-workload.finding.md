@@ -1,5 +1,6 @@
 ---
 id: fa8660c6-0b73-5b02-b12c-685869eeec0f
+slug: hostedby-workspace-not-workload
 page-type-slug: finding
 title: "Hostedby workspace not workload"
 domain-slug: page-type/pipeline

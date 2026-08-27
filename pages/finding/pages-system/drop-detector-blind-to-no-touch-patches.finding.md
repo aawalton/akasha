@@ -1,5 +1,6 @@
 ---
 id: d096bc32-cbec-512d-9649-b20bf56eb9ac
+slug: drop-detector-blind-to-no-touch-patches
 page-type-slug: finding
 title: "Drop detector blind to no touch patches"
 domain-slug: domain/pages-system

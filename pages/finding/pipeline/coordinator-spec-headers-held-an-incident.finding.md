@@ -1,5 +1,6 @@
 ---
 id: 2b8f112c-feb5-5272-b425-600eed54552c
+slug: coordinator-spec-headers-held-an-incident
 page-type-slug: finding
 title: "Coordinator spec headers held an incident"
 domain-slug: page-type/pipeline

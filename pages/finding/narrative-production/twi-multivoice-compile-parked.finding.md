@@ -1,5 +1,6 @@
 ---
 id: adca37c0-78ca-5bcb-8d35-e2f755669581
+slug: twi-multivoice-compile-parked
 page-type-slug: finding
 title: "Twi multivoice compile parked"
 domain-slug: domain/narrative-production

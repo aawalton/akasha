@@ -1,5 +1,6 @@
 ---
 id: 31bac639-cccd-5f79-9aa0-54b5fa7b766d
+slug: requirements-unused-in-practice
 page-type-slug: finding
 title: "Requirements unused in practice"
 domain-slug: page-property-definition/message-to

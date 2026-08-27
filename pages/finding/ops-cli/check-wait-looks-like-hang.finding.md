@@ -1,5 +1,6 @@
 ---
 id: e803efa1-7f4a-5b1c-92c0-6f1b15ad2934
+slug: check-wait-looks-like-hang
 page-type-slug: finding
 title: "Check wait looks like hang"
 domain-slug: domain/ops-cli

@@ -1,5 +1,6 @@
 ---
 id: 51a6f002-1794-5a3d-94d0-f4761d3b5079
+slug: persona-verbs-exit-two-where-help-says-one
 page-type-slug: finding
 title: "Persona verbs exit two where help says one"
 domain-slug: domain/ops-cli

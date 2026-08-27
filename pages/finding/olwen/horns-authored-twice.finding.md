@@ -1,5 +1,6 @@
 ---
 id: bf4cb2fb-ae2c-572e-bfe9-fd86820bd58a
+slug: horns-authored-twice
 page-type-slug: finding
 title: "Horns authored twice"
 domain-slug: persona/olwen

@@ -1,5 +1,6 @@
 ---
 id: 937d994e-2407-594d-9665-8e1ba13bb27c
+slug: tree-deciders-in-both-repos
 page-type-slug: finding
 title: "Tree deciders in both repos"
 domain-slug: domain/global

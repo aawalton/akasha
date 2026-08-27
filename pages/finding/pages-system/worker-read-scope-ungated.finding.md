@@ -1,5 +1,6 @@
 ---
 id: fcadb16a-dfeb-567b-90ce-5c3abc346c18
+slug: worker-read-scope-ungated
 page-type-slug: finding
 title: "Worker read scope ungated"
 domain-slug: domain/pages-system

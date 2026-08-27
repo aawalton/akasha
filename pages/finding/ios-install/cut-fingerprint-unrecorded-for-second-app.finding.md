@@ -1,5 +1,6 @@
 ---
 id: c9134e90-c3fc-5d61-a793-32e13163446e
+slug: cut-fingerprint-unrecorded-for-second-app
 page-type-slug: finding
 title: "Cut fingerprint unrecorded for second app"
 domain-slug: domain/ios-install

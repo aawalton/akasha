@@ -1,5 +1,6 @@
 ---
 id: d7a49db2-68d8-558a-ac9b-5edbd9393d54
+slug: imperative-page-seam-mis-homed-to-code-check
 page-type-slug: finding
 title: "Imperative page seam mis homed to code check"
 domain-slug: domain/global

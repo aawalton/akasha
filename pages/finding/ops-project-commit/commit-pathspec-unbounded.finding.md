@@ -1,5 +1,6 @@
 ---
 id: 4e2dd1d2-97ee-5bd6-8d26-daadf3ce441d
+slug: commit-pathspec-unbounded
 page-type-slug: finding
 title: "Commit pathspec unbounded"
 domain-slug: domain/global

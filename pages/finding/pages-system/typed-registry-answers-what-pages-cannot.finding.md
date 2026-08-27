@@ -1,5 +1,6 @@
 ---
 id: f9d85465-07c2-599f-a589-982159c6ebc6
+slug: typed-registry-answers-what-pages-cannot
 page-type-slug: finding
 title: "Typed registry answers what pages cannot"
 domain-slug: domain/pages-system

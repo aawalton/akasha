@@ -1,5 +1,6 @@
 ---
 id: fa70d865-b897-5159-ae24-18eca1398217
+slug: select-next-defer-unmodeled
 page-type-slug: finding
 title: "Select next defer unmodeled"
 domain-slug: page-type/pipeline

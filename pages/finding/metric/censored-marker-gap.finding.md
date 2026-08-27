@@ -1,5 +1,6 @@
 ---
 id: 2ab4fdb4-5616-5aa1-994b-f60965788de8
+slug: censored-marker-gap
 page-type-slug: finding
 title: "Censored marker gap"
 domain-slug: domain/metric

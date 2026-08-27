@@ -1,5 +1,6 @@
 ---
 id: 7210a906-92b2-5506-b56b-2d70009f5b43
+slug: retired-gloss-names-one-replacement
 page-type-slug: finding
 title: "Retired gloss names one replacement"
 domain-slug: barred-meaning/jargon

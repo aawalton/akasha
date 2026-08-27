@@ -1,5 +1,6 @@
 ---
 id: 05452563-7ce5-548e-828f-c5597d95b879
+slug: triage-fanout-misattributes-file
 page-type-slug: finding
 title: "Triage fanout misattributes file"
 domain-slug: domain/ops-cli

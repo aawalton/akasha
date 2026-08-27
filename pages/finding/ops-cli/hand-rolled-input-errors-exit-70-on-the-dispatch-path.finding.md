@@ -1,5 +1,6 @@
 ---
 id: e294bffa-3d8d-5e0d-8875-83a262783cb0
+slug: hand-rolled-input-errors-exit-70-on-the-dispatch-path
 page-type-slug: finding
 title: "Hand rolled input errors exit 70 on the dispatch path"
 domain-slug: domain/ops-cli

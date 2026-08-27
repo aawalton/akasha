@@ -1,5 +1,6 @@
 ---
 id: fb6730b8-84a2-51b9-b3fc-629388430644
+slug: answer-undeclared
 page-type-slug: finding
 title: "Answer undeclared"
 domain-slug: page-type/pipeline

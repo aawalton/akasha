@@ -1,5 +1,6 @@
 ---
 id: 05bbb1c1-eb26-5423-b8f5-650c3d505edd
+slug: monarch-tests-run-by-nothing
 page-type-slug: finding
 title: "Monarch tests run by nothing"
 domain-slug: domain/monarch

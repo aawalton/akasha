@@ -1,5 +1,6 @@
 ---
 id: 9caf3365-9875-5186-9376-da87f5ee9d12
+slug: verify-live-rules-identity-only
 page-type-slug: finding
 title: "Verify live rules identity only"
 domain-slug: domain/metric

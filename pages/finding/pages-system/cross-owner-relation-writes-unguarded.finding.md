@@ -1,5 +1,6 @@
 ---
 id: cb96c76c-343b-5366-9e78-2accf03b21da
+slug: cross-owner-relation-writes-unguarded
 page-type-slug: finding
 title: "Cross owner relation writes unguarded"
 domain-slug: domain/pages-system

@@ -1,5 +1,6 @@
 ---
 id: 4d2370f4-7790-55e5-a19a-518b267ce7d1
+slug: lint-gate-no-denominator
 page-type-slug: finding
 title: "Lint gate no denominator"
 domain-slug: page-type/pipeline

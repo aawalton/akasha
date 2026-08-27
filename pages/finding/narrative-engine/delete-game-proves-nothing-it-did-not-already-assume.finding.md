@@ -1,5 +1,6 @@
 ---
 id: be763f08-2bad-55f5-9c3c-2f5763433a28
+slug: delete-game-proves-nothing-it-did-not-already-assume
 page-type-slug: finding
 title: "Delete game proves nothing it did not already assume"
 domain-slug: domain/narrative-engine

@@ -1,5 +1,6 @@
 ---
 id: 47807f47-fbd9-5b8f-aff3-d8943bf35e7b
+slug: reading-stop-anticorrelated-with-estate-quiet
 page-type-slug: finding
 title: "Reading stop anticorrelated with estate quiet"
 domain-slug: domain/litrpg-books

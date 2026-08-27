@@ -1,5 +1,6 @@
 ---
 id: 683beee4-8741-503a-b00a-ebe890c3d61c
+slug: inference-plan-apply-exit-70-outside-code-repo
 page-type-slug: finding
 title: "Inference plan apply exit 70 outside code repo"
 domain-slug: domain/ops-cli

@@ -1,5 +1,6 @@
 ---
 id: 05227404-9a0f-5ecd-8d2a-d4e8f0b2ce1b
+slug: mv-breaks-cross-repo-links
 page-type-slug: finding
 title: "Mv breaks cross repo links"
 domain-slug: domain/ops-instructions

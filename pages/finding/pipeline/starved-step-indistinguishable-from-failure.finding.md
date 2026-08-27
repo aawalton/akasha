@@ -1,5 +1,6 @@
 ---
 id: c2e64ad0-c27a-5076-92ec-feaa6735085c
+slug: starved-step-indistinguishable-from-failure
 page-type-slug: finding
 title: "Starved step indistinguishable from failure"
 domain-slug: page-type/pipeline

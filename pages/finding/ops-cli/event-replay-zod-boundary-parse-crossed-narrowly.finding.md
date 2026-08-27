@@ -1,5 +1,6 @@
 ---
 id: 6cd542d9-496b-51e7-962f-e262fb2d4d5a
+slug: event-replay-zod-boundary-parse-crossed-narrowly
 page-type-slug: finding
 title: "Event replay zod boundary parse crossed narrowly"
 domain-slug: domain/ops-cli

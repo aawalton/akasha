@@ -1,5 +1,6 @@
 ---
 id: b39c7969-3eae-5ef8-a61c-5a00c919aa22
+slug: row-charter-contradicts-live-domains
 page-type-slug: finding
 title: "Row charter contradicts live domains"
 domain-slug: domain/performance-arts

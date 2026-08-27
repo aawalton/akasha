@@ -1,5 +1,6 @@
 ---
 id: a1104003-26d9-5587-a2be-6967187d2c1c
+slug: seed-page-type-specs-moved-leaving-unused-exports
 page-type-slug: finding
 title: "Seed page type specs moved leaving unused exports"
 domain-slug: domain/ops-cli

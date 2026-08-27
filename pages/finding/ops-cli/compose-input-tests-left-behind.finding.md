@@ -1,5 +1,6 @@
 ---
 id: 990f0674-e563-5e15-9131-3d352f228183
+slug: compose-input-tests-left-behind
 page-type-slug: finding
 title: "Compose input tests left behind"
 domain-slug: domain/ops-cli

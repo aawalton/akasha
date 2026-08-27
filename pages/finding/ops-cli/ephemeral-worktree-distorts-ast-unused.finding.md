@@ -1,5 +1,6 @@
 ---
 id: 33ffef8b-7a7e-59de-947f-a5e7d8145bd0
+slug: ephemeral-worktree-distorts-ast-unused
 page-type-slug: finding
 title: "Ephemeral worktree distorts ast unused"
 domain-slug: domain/ops-cli

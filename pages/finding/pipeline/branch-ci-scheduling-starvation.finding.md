@@ -1,5 +1,6 @@
 ---
 id: aff530a1-4880-5440-9c0c-a7845cb1d632
+slug: branch-ci-scheduling-starvation
 page-type-slug: finding
 title: "Branch CI scheduling starvation"
 domain-slug: page-type/pipeline

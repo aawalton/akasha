@@ -1,5 +1,6 @@
 ---
 id: e7450491-0a3a-5834-895c-63d031f9587a
+slug: twi-full-cast-parked
 page-type-slug: finding
 title: "Twi full cast parked"
 domain-slug: domain/narrative-production

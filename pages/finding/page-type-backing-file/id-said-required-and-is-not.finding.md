@@ -1,5 +1,6 @@
 ---
 id: 12bbb138-18bc-59ba-b9bc-43f6d093c144
+slug: id-said-required-and-is-not
 page-type-slug: finding
 title: "ID said required and is not"
 domain-slug: domain/global

@@ -1,5 +1,6 @@
 ---
 id: c4d444ea-65df-53fd-aabb-1a37f7d2ec98
+slug: inode-pressure-metric-never-filed
 page-type-slug: finding
 title: "Inode pressure metric never filed"
 domain-slug: domain/metric

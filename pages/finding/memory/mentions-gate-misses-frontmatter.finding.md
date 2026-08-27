@@ -1,5 +1,6 @@
 ---
 id: 0978c9cb-0662-599f-b8d5-1d7e503c085a
+slug: mentions-gate-misses-frontmatter
 page-type-slug: finding
 title: "Mentions gate misses frontmatter"
 domain-slug: domain/global

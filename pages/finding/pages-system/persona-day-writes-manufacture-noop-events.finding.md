@@ -1,5 +1,6 @@
 ---
 id: edbcde14-2337-54eb-aa92-9b665140d19f
+slug: persona-day-writes-manufacture-noop-events
 page-type-slug: finding
 title: "Persona day writes manufacture noop events"
 domain-slug: domain/pages-system

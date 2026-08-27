@@ -1,5 +1,6 @@
 ---
 id: 37080aa5-ebd8-5109-a5ca-7e01ae59a0b3
+slug: classes-skills-pipeline-reuse
 page-type-slug: finding
 title: "Classes skills pipeline reuse"
 domain-slug: domain/global

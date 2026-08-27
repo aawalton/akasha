@@ -1,5 +1,6 @@
 ---
 id: 5be17be0-1c87-5d67-8100-4e5936caa83e
+slug: proc-subset-checker-unwired
 page-type-slug: finding
 title: "Proc subset checker unwired"
 domain-slug: domain/pages-system

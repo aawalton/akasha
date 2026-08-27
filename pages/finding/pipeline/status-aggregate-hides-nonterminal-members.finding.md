@@ -1,5 +1,6 @@
 ---
 id: 786e233e-62a5-5374-ad21-0760a528b1dc
+slug: status-aggregate-hides-nonterminal-members
 page-type-slug: finding
 title: "Status aggregate hides nonterminal members"
 domain-slug: page-type/pipeline

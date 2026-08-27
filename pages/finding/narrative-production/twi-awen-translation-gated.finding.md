@@ -1,5 +1,6 @@
 ---
 id: 1f768761-65c6-539b-8d8d-955d282178b0
+slug: twi-awen-translation-gated
 page-type-slug: finding
 title: "Twi awen translation gated"
 domain-slug: domain/narrative-production

@@ -1,5 +1,6 @@
 ---
 id: da8bf8f5-1671-5edf-8ee7-22f5a824969e
+slug: value-carries-a-points-mapping-that-no-file-states
 page-type-slug: finding
 title: "Value carries a points mapping that no file states"
 domain-slug: domain/pages-system

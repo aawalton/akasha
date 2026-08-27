@@ -1,5 +1,6 @@
 ---
 id: e360f5df-9ff5-50dd-9f53-965bc7ffb489
+slug: loremaster-nudge-unimplemented
 page-type-slug: finding
 title: "Loremaster nudge unimplemented"
 domain-slug: domain/narrative-engine

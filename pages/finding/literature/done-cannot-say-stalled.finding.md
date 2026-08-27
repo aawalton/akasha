@@ -1,5 +1,6 @@
 ---
 id: fa4e875e-42f8-55d2-96b4-28891ee910b5
+slug: done-cannot-say-stalled
 page-type-slug: finding
 title: "Done cannot say stalled"
 domain-slug: domain/literature

@@ -1,5 +1,6 @@
 ---
 id: 841c7f81-28d9-5b73-955a-61523f7b57ad
+slug: batch-size-shape-declared-twice
 page-type-slug: finding
 title: "Batch size shape declared twice"
 domain-slug: domain/global

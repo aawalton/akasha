@@ -1,5 +1,6 @@
 ---
 id: 8ba9faf2-1ced-53c7-b800-fe9286133688
+slug: search-shows-none-of-its-matches
 page-type-slug: finding
 title: "Search shows none of its matches"
 domain-slug: domain/pages-system

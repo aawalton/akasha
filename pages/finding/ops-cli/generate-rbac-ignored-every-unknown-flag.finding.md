@@ -1,5 +1,6 @@
 ---
 id: 07dd9284-513d-552a-96a3-94c0ca2ea75d
+slug: generate-rbac-ignored-every-unknown-flag
 page-type-slug: finding
 title: "Generate rbac ignored every unknown flag"
 domain-slug: domain/ops-cli

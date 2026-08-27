@@ -1,5 +1,6 @@
 ---
 id: efaa64c8-d796-5084-9469-01f976699004
+slug: draining-a-page-type-breaks-readers-outside-it
 page-type-slug: finding
 title: "Draining a page type breaks readers outside it"
 domain-slug: domain/narrative-engine

@@ -1,5 +1,6 @@
 ---
 id: 3e20a6ad-f398-5af3-a414-98d83e4557bd
+slug: workflow-name-declared-twice
 page-type-slug: finding
 title: "Workflow name declared twice"
 domain-slug: domain/pages-system

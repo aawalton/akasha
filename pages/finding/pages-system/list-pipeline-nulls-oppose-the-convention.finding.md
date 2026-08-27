@@ -1,5 +1,6 @@
 ---
 id: a779b8e4-a9f9-50e0-a109-fde676434718
+slug: list-pipeline-nulls-oppose-the-convention
 page-type-slug: finding
 title: "List pipeline nulls oppose the convention"
 domain-slug: domain/pages-system

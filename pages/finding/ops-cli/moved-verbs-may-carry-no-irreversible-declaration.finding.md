@@ -1,5 +1,6 @@
 ---
 id: 73807cab-9c25-52b2-b764-ff34f83a53a1
+slug: moved-verbs-may-carry-no-irreversible-declaration
 page-type-slug: finding
 title: "Moved verbs may carry no irreversible declaration"
 domain-slug: domain/ops-cli

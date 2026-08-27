@@ -1,5 +1,6 @@
 ---
 id: 3ee6d379-a937-5714-b8b0-d50f7957568e
+slug: move-leaves-pins-pointing-at-the-old-path
 page-type-slug: finding
 title: "Move leaves pins pointing at the old path"
 domain-slug: barred-meaning/pin

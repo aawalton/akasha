@@ -1,5 +1,6 @@
 ---
 id: e4f64a07-cbc9-54a7-bb23-e802f2944a2d
+slug: retired-verb-still-spawned-by-deploy
 page-type-slug: finding
 title: "Retired verb still spawned by deploy"
 domain-slug: domain/ops-cli

@@ -1,5 +1,6 @@
 ---
 id: 2b0d1f87-8c90-5956-859c-53f5cd130898
+slug: contact-route-doubles-as-identity-proof
 page-type-slug: finding
 title: "Contact route doubles as identity proof"
 domain-slug: domain/person-identity

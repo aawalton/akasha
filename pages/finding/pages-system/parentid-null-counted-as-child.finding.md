@@ -1,5 +1,6 @@
 ---
 id: 305a695f-254e-56a4-a0af-27ec66715bc7
+slug: parentid-null-counted-as-child
 page-type-slug: finding
 title: "Parentid null counted as child"
 domain-slug: domain/pages-system

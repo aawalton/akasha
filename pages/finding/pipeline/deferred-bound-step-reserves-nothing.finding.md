@@ -1,5 +1,6 @@
 ---
 id: ce734deb-3189-53fe-a5e0-1e27c5e5afc2
+slug: deferred-bound-step-reserves-nothing
 page-type-slug: finding
 title: "Deferred bound step reserves nothing"
 domain-slug: page-type/pipeline

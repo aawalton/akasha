@@ -1,5 +1,6 @@
 ---
 id: 01a01ffb-e92e-7000-adc7-114989cfa127
+slug: view-columns-that-can-never-render
 page-type-slug: finding
 title: "View columns that can never render"
 domain-slug: domain/global

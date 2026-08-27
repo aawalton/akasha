@@ -1,5 +1,6 @@
 ---
 id: ae807355-2be7-5757-add9-c197a0fc480a
+slug: permanent-baseline-node-capacity-ceiling
 page-type-slug: finding
 title: "Permanent baseline node capacity ceiling"
 domain-slug: page-type/pipeline

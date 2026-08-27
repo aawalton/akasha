@@ -1,5 +1,6 @@
 ---
 id: 1923e5ff-fc4b-58f0-aff4-e85f8924069a
+slug: narrator-resolved-twice
 page-type-slug: finding
 title: "Narrator resolved twice"
 domain-slug: domain/narrative-production

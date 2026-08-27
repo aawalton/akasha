@@ -1,5 +1,6 @@
 ---
 id: 9c8bd99f-c419-5fd1-b965-820c9250f0c0
+slug: dispatcher-fifo-fleet-stall
 page-type-slug: finding
 title: "Dispatcher fifo fleet stall"
 domain-slug: page-type/pipeline

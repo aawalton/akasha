@@ -1,5 +1,6 @@
 ---
 id: d885fed7-833a-5fd8-866e-312d5f8f8a48
+slug: raw-sql-upsert-bypasses-owner-guard
 page-type-slug: finding
 title: "Raw SQL upsert bypasses owner guard"
 domain-slug: domain/pages-system

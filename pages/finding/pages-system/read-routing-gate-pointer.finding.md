@@ -1,5 +1,6 @@
 ---
 id: cd2f8bc4-2740-502f-95ae-f556f3f28cff
+slug: read-routing-gate-pointer
 page-type-slug: finding
 title: "Read routing gate pointer"
 domain-slug: domain/pages-system

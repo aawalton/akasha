@@ -1,5 +1,6 @@
 ---
 id: c90c7f5a-fcda-52bb-93e8-19b26d042b36
+slug: upsert-blocks-outrun-row-growth
 page-type-slug: finding
 title: "Upsert blocks outrun row growth"
 domain-slug: domain/pages-system

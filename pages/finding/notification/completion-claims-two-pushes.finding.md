@@ -1,5 +1,6 @@
 ---
 id: 6141cd51-6a06-525d-9069-d8e7abadf0ca
+slug: completion-claims-two-pushes
 page-type-slug: finding
 title: "Completion claims two pushes"
 domain-slug: page-type/notification

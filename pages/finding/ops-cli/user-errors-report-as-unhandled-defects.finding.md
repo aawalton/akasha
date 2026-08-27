@@ -1,5 +1,6 @@
 ---
 id: 9302b0fc-b7cb-519f-b464-85163d662d9f
+slug: user-errors-report-as-unhandled-defects
 page-type-slug: finding
 title: "User errors report as unhandled defects"
 domain-slug: domain/ops-cli

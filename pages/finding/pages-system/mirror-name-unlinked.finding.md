@@ -1,5 +1,6 @@
 ---
 id: ee1eebeb-9ac1-5885-b61e-a7bb80d340f3
+slug: mirror-name-unlinked
 page-type-slug: finding
 title: "Mirror name unlinked"
 domain-slug: domain/pages-system

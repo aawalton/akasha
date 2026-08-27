@@ -1,5 +1,6 @@
 ---
 id: ab55f3b4-cce6-58af-8e03-fe3e03f3029b
+slug: one-ios-app-assumed
 page-type-slug: finding
 title: "One IOS app assumed"
 domain-slug: domain/ios-install

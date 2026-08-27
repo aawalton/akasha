@@ -1,5 +1,6 @@
 ---
 id: c1594be4-bc38-5411-8557-784641cb010e
+slug: surplus-sections-off-on-wildcard
 page-type-slug: finding
 title: "Surplus sections off on wildcard"
 domain-slug: page-type/page-body-shape

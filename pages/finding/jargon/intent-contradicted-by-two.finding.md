@@ -1,5 +1,6 @@
 ---
 id: 6f093242-8265-595a-bf38-53db6d65bcb9
+slug: intent-contradicted-by-two
 page-type-slug: finding
 title: "Intent contradicted by two"
 domain-slug: barred-meaning/jargon

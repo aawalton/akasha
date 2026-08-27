@@ -1,5 +1,6 @@
 ---
 id: 0705cd3e-5d06-59b2-a174-cdccf43a608a
+slug: score-cache-mount-misses-insightface
 page-type-slug: finding
 title: "Score cache mount misses insightface"
 domain-slug: domain/ops-cli

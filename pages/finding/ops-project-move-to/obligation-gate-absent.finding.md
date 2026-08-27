@@ -1,5 +1,6 @@
 ---
 id: 5d21b353-eb21-5608-a10c-8fdaf91bb303
+slug: obligation-gate-absent
 page-type-slug: finding
 title: "Obligation gate absent"
 domain-slug: domain/global

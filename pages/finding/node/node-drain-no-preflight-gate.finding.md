@@ -1,5 +1,6 @@
 ---
 id: 9e8cfbb9-b446-568c-821b-b09eac50155c
+slug: node-drain-no-preflight-gate
 page-type-slug: finding
 title: "Node drain no preflight gate"
 domain-slug: domain/node

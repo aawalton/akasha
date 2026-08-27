@@ -1,5 +1,6 @@
 ---
 id: 0ede7df0-b3bc-5c6f-acfe-5fb9d5e653b6
+slug: one-capability-carries-two-spellings
 page-type-slug: finding
 title: "One capability carries two spellings"
 domain-slug: domain/ops-cli

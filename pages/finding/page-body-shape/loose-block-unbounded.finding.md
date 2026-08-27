@@ -1,5 +1,6 @@
 ---
 id: d05b4e4c-6928-5e55-941d-31904608bc18
+slug: loose-block-unbounded
 page-type-slug: finding
 title: "Loose block unbounded"
 domain-slug: page-type/page-body-shape

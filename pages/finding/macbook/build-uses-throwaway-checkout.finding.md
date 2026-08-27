@@ -1,5 +1,6 @@
 ---
 id: 9ba00056-7b99-5b21-8835-3652c8290bb2
+slug: build-uses-throwaway-checkout
 page-type-slug: finding
 title: "Build uses throwaway checkout"
 domain-slug: host/macbook

@@ -1,5 +1,6 @@
 ---
 id: 69cba042-7d5b-5126-8f7d-246c19dc5c67
+slug: fanout-tail-not-verdict
 page-type-slug: finding
 title: "Fanout tail not verdict"
 domain-slug: page-type/pipeline

@@ -1,5 +1,6 @@
 ---
 id: 5d4b9936-1901-5a5c-a91f-47c735cc21ba
+slug: pending-mail-no-exit
 page-type-slug: finding
 title: "Pending mail no exit"
 domain-slug: page-type/message

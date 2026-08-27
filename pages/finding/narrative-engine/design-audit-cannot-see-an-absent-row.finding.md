@@ -1,5 +1,6 @@
 ---
 id: 20e8875d-d8be-5dee-a8e8-d2a5a15811aa
+slug: design-audit-cannot-see-an-absent-row
 page-type-slug: finding
 title: "Design audit cannot see an absent row"
 domain-slug: domain/narrative-engine

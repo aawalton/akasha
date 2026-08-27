@@ -1,5 +1,6 @@
 ---
 id: 83149dc2-759e-5a56-b92f-3d30a44578e8
+slug: promoted-column-copies-disagree
 page-type-slug: finding
 title: "Promoted column copies disagree"
 domain-slug: domain/pages-system

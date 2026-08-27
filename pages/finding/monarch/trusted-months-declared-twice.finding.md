@@ -1,5 +1,6 @@
 ---
 id: 1fbd0524-142b-5f8b-b619-8ec78edcfcc6
+slug: trusted-months-declared-twice
 page-type-slug: finding
 title: "Trusted months declared twice"
 domain-slug: domain/monarch

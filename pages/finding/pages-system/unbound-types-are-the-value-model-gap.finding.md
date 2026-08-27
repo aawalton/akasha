@@ -1,5 +1,6 @@
 ---
 id: 285adb83-a028-5936-a741-b1d15f1581ae
+slug: unbound-types-are-the-value-model-gap
 page-type-slug: finding
 title: "Unbound types are the value model gap"
 domain-slug: domain/pages-system

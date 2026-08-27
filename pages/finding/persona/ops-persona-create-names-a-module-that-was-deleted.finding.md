@@ -1,5 +1,6 @@
 ---
 id: d3e13dbd-c092-5a6f-97cd-32293293c878
+slug: ops-persona-create-names-a-module-that-was-deleted
 page-type-slug: finding
 title: "ops persona create names a module that was deleted"
 domain-slug: page-type/persona

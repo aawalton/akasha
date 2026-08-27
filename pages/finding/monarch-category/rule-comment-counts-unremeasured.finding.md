@@ -1,5 +1,6 @@
 ---
 id: 5636fbdb-6b6c-57d3-9cda-12b53c223373
+slug: rule-comment-counts-unremeasured
 page-type-slug: finding
 title: "Rule comment counts unremeasured"
 domain-slug: page-type/monarch-category

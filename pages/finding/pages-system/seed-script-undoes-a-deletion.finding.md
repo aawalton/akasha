@@ -1,5 +1,6 @@
 ---
 id: e0a0a702-2906-59f2-987b-af74d67b6d43
+slug: seed-script-undoes-a-deletion
 page-type-slug: finding
 title: "Seed script undoes a deletion"
 domain-slug: domain/pages-system

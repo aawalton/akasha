@@ -1,5 +1,6 @@
 ---
 id: 18d70669-6555-5c40-95f0-28df41807ccc
+slug: convergence-comment-denies-plain-patches
 page-type-slug: finding
 title: "Convergence comment denies plain patches"
 domain-slug: domain/pages-system

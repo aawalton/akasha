@@ -1,5 +1,6 @@
 ---
 id: f89f6f29-b82f-5828-923e-afc0fe7a2627
+slug: step-reds-invisible-to-main-failures
 page-type-slug: finding
 title: "Step reds invisible to main failures"
 domain-slug: domain/main-pipeline

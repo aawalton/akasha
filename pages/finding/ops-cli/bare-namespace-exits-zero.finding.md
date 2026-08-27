@@ -1,5 +1,6 @@
 ---
 id: 421bd872-8110-5949-9730-13a1098cb0b1
+slug: bare-namespace-exits-zero
 page-type-slug: finding
 title: "Bare namespace exits zero"
 domain-slug: domain/ops-cli

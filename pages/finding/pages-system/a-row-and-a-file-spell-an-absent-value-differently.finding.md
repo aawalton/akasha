@@ -1,5 +1,6 @@
 ---
 id: 01a02000-c71b-7000-b6b1-2e4aebc8ef36
+slug: a-row-and-a-file-spell-an-absent-value-differently
 page-type-slug: finding
 title: "A row and a file spell an absent value differently"
 domain-slug: domain/pages-system

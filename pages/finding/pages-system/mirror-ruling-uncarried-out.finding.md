@@ -1,5 +1,6 @@
 ---
 id: 4018fe1c-76df-5c83-a828-f6d061fc89af
+slug: mirror-ruling-uncarried-out
 page-type-slug: finding
 title: "Mirror ruling uncarried out"
 domain-slug: domain/pages-system

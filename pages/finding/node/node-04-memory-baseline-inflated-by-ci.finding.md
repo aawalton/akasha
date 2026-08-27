@@ -1,5 +1,6 @@
 ---
 id: 224ae82c-ddeb-5647-8ff0-c8828ca53cff
+slug: node-04-memory-baseline-inflated-by-ci
 page-type-slug: finding
 title: "Node 04 memory baseline inflated by CI"
 domain-slug: domain/node

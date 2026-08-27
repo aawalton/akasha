@@ -1,5 +1,6 @@
 ---
 id: f4bc19b8-483f-5f15-b6c1-633f2541367f
+slug: levies-retired-but-in-house-use
 page-type-slug: finding
 title: "Levies retired but in house use"
 domain-slug: barred-meaning/jargon

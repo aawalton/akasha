@@ -1,5 +1,6 @@
 ---
 id: 295197da-6a71-5a9b-ada8-752e5d2bb89f
+slug: code-input-error-is-named-where-three-refusals-are-needed
 page-type-slug: finding
 title: "Code input error is named where three refusals are needed"
 domain-slug: domain/ops-cli

@@ -1,5 +1,6 @@
 ---
 id: d6ab8fec-e75e-5072-b23b-981e7adbe810
+slug: a-retired-track-still-accrues-an-obligation
 page-type-slug: finding
 title: "A retired track still accrues an obligation"
 domain-slug: domain/global

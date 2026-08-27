@@ -1,5 +1,6 @@
 ---
 id: 29be512c-7595-5b25-85d5-8e5f05be6a3a
+slug: initiative-sense-not-in-glossary
 page-type-slug: finding
 title: "Initiative sense not in glossary"
 domain-slug: domain/global

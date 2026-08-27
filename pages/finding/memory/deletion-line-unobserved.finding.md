@@ -1,5 +1,6 @@
 ---
 id: 83305d46-bb8a-543d-be5b-4d5fda3a9b0a
+slug: deletion-line-unobserved
 page-type-slug: finding
 title: "Deletion line unobserved"
 domain-slug: domain/global

@@ -1,5 +1,6 @@
 ---
 id: d5f34b48-aedc-5f3a-afcf-899c47ac49b3
+slug: delta-differences-a-mutable-set
 page-type-slug: finding
 title: "Delta differences a mutable set"
 domain-slug: domain/litrpg-books

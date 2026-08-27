@@ -1,5 +1,6 @@
 ---
 id: 5ace361c-2f85-5ccf-b228-a095604a7154
+slug: node-03-single-pin-fleet-risk
 page-type-slug: finding
 title: "Node 03 single pin fleet risk"
 domain-slug: domain/node

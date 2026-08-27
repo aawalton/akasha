@@ -1,5 +1,6 @@
 ---
 id: 63c37aa9-f452-5ccb-b4ec-1d8ca2d01b50
+slug: gm-boot-spawns-dead-slash-prompts
 page-type-slug: finding
 title: "Gm boot spawns dead slash prompts"
 domain-slug: domain/narrative-engine

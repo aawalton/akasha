@@ -1,5 +1,6 @@
 ---
 id: 9e123fb5-2320-5ff4-b0b2-631f48cfb53b
+slug: resolved-retraction-masks-real-step-failures
 page-type-slug: finding
 title: "Resolved retraction masks real step failures"
 domain-slug: page-type/pipeline

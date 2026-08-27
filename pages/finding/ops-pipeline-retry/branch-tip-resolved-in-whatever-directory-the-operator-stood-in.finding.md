@@ -1,5 +1,6 @@
 ---
 id: 072dc6e4-f60e-5866-ab1e-04b472300d4f
+slug: branch-tip-resolved-in-whatever-directory-the-operator-stood-in
 page-type-slug: finding
 title: "Branch tip resolved in whatever directory the operator stood in"
 domain-slug: ops-command/ops-pipeline-retry

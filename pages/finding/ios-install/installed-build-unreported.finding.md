@@ -1,5 +1,6 @@
 ---
 id: 6ce6af20-1948-55bb-966b-530337b8b641
+slug: installed-build-unreported
 page-type-slug: finding
 title: "Installed build unreported"
 domain-slug: domain/ios-install

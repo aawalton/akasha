@@ -1,5 +1,6 @@
 ---
 id: db83b709-5a17-5875-94e2-696d4cc36c7b
+slug: twi-character-voice-parked
 page-type-slug: finding
 title: "Twi character voice parked"
 domain-slug: domain/narrative-production

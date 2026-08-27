@@ -1,5 +1,6 @@
 ---
 id: f361134f-0e97-5855-91e6-3c9f7a51fdb7
+slug: title-file-keeps-trailing-newline
 page-type-slug: finding
 title: "Title file keeps trailing newline"
 domain-slug: domain/ops-cli

@@ -1,5 +1,6 @@
 ---
 id: d91f6b13-18bd-5e4e-a20e-6abf6e1ee94d
+slug: owner-guard-misses-unset-writes
 page-type-slug: finding
 title: "Owner guard misses unset writes"
 domain-slug: domain/pages-system

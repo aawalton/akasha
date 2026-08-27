@@ -1,5 +1,6 @@
 ---
 id: 197e6d31-e6bd-514b-a06c-daa3cdd751dc
+slug: relation-read-unbound
 page-type-slug: finding
 title: "Relation read unbound"
 domain-slug: domain/pages-system

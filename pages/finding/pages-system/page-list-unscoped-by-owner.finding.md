@@ -1,5 +1,6 @@
 ---
 id: d8d87d64-3f1c-5d13-9b55-1b585d1f931c
+slug: page-list-unscoped-by-owner
 page-type-slug: finding
 title: "Page list unscoped by owner"
 domain-slug: domain/pages-system

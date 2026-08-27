@@ -1,5 +1,6 @@
 ---
 id: ec57301c-2b9d-5e91-a945-92a14b01ecff
+slug: four-config-blobs-called-one-shape
 page-type-slug: finding
 title: "Four config blobs called one shape"
 domain-slug: domain/pages-system

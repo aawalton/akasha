@@ -1,5 +1,6 @@
 ---
 id: 8acd839d-c56c-56ea-afcc-2fc4ee4c3d2a
+slug: pages-page-type-slug-scan-cost
 page-type-slug: finding
 title: "Pages page type slug scan cost"
 domain-slug: domain/pages-system

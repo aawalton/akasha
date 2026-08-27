@@ -1,5 +1,6 @@
 ---
 id: f8a92496-fac3-5229-9827-83e8bd8041cf
+slug: a-persona-day-is-sometimes-written-at-a-sentinel-date
 page-type-slug: finding
 title: "A persona day is sometimes written at a sentinel date"
 domain-slug: page-type/persona-day

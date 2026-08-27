@@ -1,5 +1,6 @@
 ---
 id: e63ab34e-16a6-59b3-974e-292b71393fa3
+slug: rename-drops-a-verb-unasked
 page-type-slug: finding
 title: "Rename drops a verb unasked"
 domain-slug: domain/ops-cli

@@ -1,5 +1,6 @@
 ---
 id: eb629101-047c-5e6d-bf58-24cf88c1a3c0
+slug: definition-thin-over-projects
 page-type-slug: finding
 title: "Definition thin over projects"
 domain-slug: domain/global

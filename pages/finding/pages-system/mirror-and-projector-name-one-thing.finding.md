@@ -1,5 +1,6 @@
 ---
 id: 6464db5c-3c34-52d2-b857-648d43400d2e
+slug: mirror-and-projector-name-one-thing
 page-type-slug: finding
 title: "Mirror and projector name one thing"
 domain-slug: domain/pages-system

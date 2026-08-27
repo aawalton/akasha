@@ -1,5 +1,6 @@
 ---
 id: 24197114-0bb7-5518-9133-7b33abff9ce1
+slug: ephemeral-answers-behind-ref
 page-type-slug: finding
 title: "Ephemeral answers behind ref"
 domain-slug: domain/ops-cli

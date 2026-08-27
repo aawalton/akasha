@@ -1,5 +1,6 @@
 ---
 id: 1c1e2d8e-482d-5285-a666-bf372fc51979
+slug: ancestry-absent-from-paragraphs
 page-type-slug: finding
 title: "Ancestry absent from paragraphs"
 domain-slug: page-type/persona-appearance

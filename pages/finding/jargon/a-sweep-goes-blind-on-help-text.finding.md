@@ -1,5 +1,6 @@
 ---
 id: e2acfcdd-3891-576c-b025-5fce8554c5fb
+slug: a-sweep-goes-blind-on-help-text
 page-type-slug: finding
 title: "A sweep goes blind on help text"
 domain-slug: barred-meaning/jargon

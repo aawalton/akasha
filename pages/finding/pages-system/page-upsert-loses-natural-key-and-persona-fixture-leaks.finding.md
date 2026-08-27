@@ -1,5 +1,6 @@
 ---
 id: 2424330e-076d-5b36-a977-f35d41ffea09
+slug: page-upsert-loses-natural-key-and-persona-fixture-leaks
 page-type-slug: finding
 title: "Page upsert loses natural key and persona fixture leaks"
 domain-slug: domain/pages-system

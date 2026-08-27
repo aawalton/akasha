@@ -1,5 +1,6 @@
 ---
 id: a738e1cc-3436-5990-80c0-85ecface744a
+slug: keepalive-emitter-leaks-after-cancel
 page-type-slug: finding
 title: "Keepalive emitter leaks after cancel"
 domain-slug: domain/model-gateway

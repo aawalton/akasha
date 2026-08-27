@@ -1,5 +1,6 @@
 ---
 id: 10babf06-318d-5eee-ad8a-b21f8af794a1
+slug: read-graph-outlives-its-instruction
 page-type-slug: finding
 title: "Read graph outlives its instruction"
 domain-slug: barred-meaning/jargon

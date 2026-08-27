@@ -1,5 +1,6 @@
 ---
 id: 7245289e-014c-5141-8bb2-9926c21fb198
+slug: select-options-declared-not-gated
 page-type-slug: finding
 title: "Select options declared not gated"
 domain-slug: domain/pages-system

@@ -1,5 +1,6 @@
 ---
 id: fd2e13de-57e7-591f-917d-3e45dd0c6289
+slug: door-still-stands-in-two-printed-helps
 page-type-slug: finding
 title: "Door still stands in two printed helps"
 domain-slug: barred-meaning/jargon

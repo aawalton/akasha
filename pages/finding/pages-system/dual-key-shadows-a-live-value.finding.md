@@ -1,5 +1,6 @@
 ---
 id: 0b51fd02-d673-5297-81eb-4eb3dc9d5137
+slug: dual-key-shadows-a-live-value
 page-type-slug: finding
 title: "Dual key shadows a live value"
 domain-slug: domain/pages-system

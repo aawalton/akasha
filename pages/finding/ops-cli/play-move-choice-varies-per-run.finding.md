@@ -1,5 +1,6 @@
 ---
 id: 4485a742-b122-5ba6-9384-535567733e91
+slug: play-move-choice-varies-per-run
 page-type-slug: finding
 title: "Play move choice varies per run"
 domain-slug: domain/ops-cli

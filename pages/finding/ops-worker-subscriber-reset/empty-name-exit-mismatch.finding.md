@@ -1,5 +1,6 @@
 ---
 id: e9e87afc-feb7-5d66-a1e2-9e86c9ecd904
+slug: empty-name-exit-mismatch
 page-type-slug: finding
 title: "Empty name exit mismatch"
 domain-slug: domain/global

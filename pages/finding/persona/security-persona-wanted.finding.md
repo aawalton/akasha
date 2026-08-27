@@ -1,5 +1,6 @@
 ---
 id: c3fbb310-2cc7-56c5-ad81-8f088885cc31
+slug: security-persona-wanted
 page-type-slug: finding
 title: "Security persona wanted"
 domain-slug: page-type/persona

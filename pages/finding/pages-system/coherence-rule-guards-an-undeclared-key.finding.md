@@ -1,5 +1,6 @@
 ---
 id: feee8841-c5dd-5eae-96bf-549b7dc74306
+slug: coherence-rule-guards-an-undeclared-key
 page-type-slug: finding
 title: "Coherence rule guards an undeclared key"
 domain-slug: domain/pages-system

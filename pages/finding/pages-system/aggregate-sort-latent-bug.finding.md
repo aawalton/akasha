@@ -1,5 +1,6 @@
 ---
 id: 9eebbb64-c0a7-5dd9-b4c6-be8dfc824a44
+slug: aggregate-sort-latent-bug
 page-type-slug: finding
 title: "Aggregate sort latent bug"
 domain-slug: domain/pages-system

@@ -1,5 +1,6 @@
 ---
 id: cf2b6c2f-306f-5760-8961-a129756cb58b
+slug: fizz-exits-zero-on-failure
 page-type-slug: finding
 title: "Fizz exits zero on failure"
 domain-slug: domain/global

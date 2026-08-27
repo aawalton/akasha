@@ -1,5 +1,6 @@
 ---
 id: a4dc29ca-7b5c-59e6-ade6-42e3afa17024
+slug: editor-revive-section-unread
 page-type-slug: finding
 title: "Editor revive section unread"
 domain-slug: page-type/notice

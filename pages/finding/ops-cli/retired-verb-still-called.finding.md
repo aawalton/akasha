@@ -1,5 +1,6 @@
 ---
 id: 837aec0b-748f-5c8e-afea-efd3c6b39d65
+slug: retired-verb-still-called
 page-type-slug: finding
 title: "Retired verb still called"
 domain-slug: domain/ops-cli

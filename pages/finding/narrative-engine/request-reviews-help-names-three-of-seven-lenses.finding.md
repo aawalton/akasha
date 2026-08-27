@@ -1,5 +1,6 @@
 ---
 id: ac515119-97c4-52ea-b239-219011bcba32
+slug: request-reviews-help-names-three-of-seven-lenses
 page-type-slug: finding
 title: "Request reviews help names three of seven lenses"
 domain-slug: domain/narrative-engine

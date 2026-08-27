@@ -1,5 +1,6 @@
 ---
 id: 9dcf52bf-6421-58a6-8d55-0d5b43505d85
+slug: proc-contract-citations-dangle
 page-type-slug: finding
 title: "Proc contract citations dangle"
 domain-slug: domain/pages-system

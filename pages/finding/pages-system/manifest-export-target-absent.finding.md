@@ -1,5 +1,6 @@
 ---
 id: cfa1ea54-56b4-5321-8d1a-9aedfb8f1043
+slug: manifest-export-target-absent
 page-type-slug: finding
 title: "Manifest export target absent"
 domain-slug: domain/pages-system

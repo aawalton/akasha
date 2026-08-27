@@ -1,5 +1,6 @@
 ---
 id: a6ed8fa3-5758-5efa-ab37-962fd327d65d
+slug: global-max-seq-unindexed
 page-type-slug: finding
 title: "Global max seq unindexed"
 domain-slug: domain/pages-system

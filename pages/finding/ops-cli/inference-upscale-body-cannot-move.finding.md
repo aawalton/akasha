@@ -1,5 +1,6 @@
 ---
 id: c824727f-b17c-51df-8c82-28c4276b296a
+slug: inference-upscale-body-cannot-move
 page-type-slug: finding
 title: "Inference upscale body cannot move"
 domain-slug: domain/ops-cli

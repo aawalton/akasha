@@ -1,5 +1,6 @@
 ---
 id: 9e65962d-fcc5-556e-a648-c08fd5472bb0
+slug: ritual-silent-ten-weeks-instrument-recorded-it
 page-type-slug: finding
 title: "Ritual silent ten weeks instrument recorded it"
 domain-slug: domain/performance-arts

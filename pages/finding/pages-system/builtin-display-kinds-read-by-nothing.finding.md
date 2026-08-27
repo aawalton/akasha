@@ -1,5 +1,6 @@
 ---
 id: e6fed484-248e-5a08-92c2-e5c5d258ee51
+slug: builtin-display-kinds-read-by-nothing
 page-type-slug: finding
 title: "Builtin display kinds read by nothing"
 domain-slug: domain/pages-system

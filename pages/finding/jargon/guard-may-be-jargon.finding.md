@@ -1,5 +1,6 @@
 ---
 id: cbc69855-c2a8-51db-9256-cb0336e2a246
+slug: guard-may-be-jargon
 page-type-slug: finding
 title: "Guard may be jargon"
 domain-slug: barred-meaning/jargon

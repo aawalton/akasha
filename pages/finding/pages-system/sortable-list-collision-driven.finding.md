@@ -1,5 +1,6 @@
 ---
 id: 3eebf556-ab1b-5cc2-bc0c-4134a6a43d45
+slug: sortable-list-collision-driven
 page-type-slug: finding
 title: "Sortable list collision driven"
 domain-slug: domain/pages-system

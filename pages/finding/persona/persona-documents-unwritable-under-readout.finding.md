@@ -1,5 +1,6 @@
 ---
 id: cdd2231f-fe9a-53c6-a0b1-06be685534a0
+slug: persona-documents-unwritable-under-readout
 page-type-slug: finding
 title: "Persona documents unwritable under readout"
 domain-slug: page-type/persona

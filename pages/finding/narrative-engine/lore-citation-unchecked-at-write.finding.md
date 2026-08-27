@@ -1,5 +1,6 @@
 ---
 id: 3a08cdb4-c43b-50e7-abbe-561b9031dac8
+slug: lore-citation-unchecked-at-write
 page-type-slug: finding
 title: "Lore citation unchecked at write"
 domain-slug: domain/narrative-engine

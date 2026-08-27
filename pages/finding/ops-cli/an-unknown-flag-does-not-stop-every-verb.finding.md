@@ -1,5 +1,6 @@
 ---
 id: 8417c33d-2a50-5824-b377-eb00b01e600d
+slug: an-unknown-flag-does-not-stop-every-verb
 page-type-slug: finding
 title: "An unknown flag does not stop every verb"
 domain-slug: domain/ops-cli

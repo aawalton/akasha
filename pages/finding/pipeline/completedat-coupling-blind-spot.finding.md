@@ -1,5 +1,6 @@
 ---
 id: c844ca85-b901-5661-b9ba-0efddae1a829
+slug: completedat-coupling-blind-spot
 page-type-slug: finding
 title: "Completedat coupling blind spot"
 domain-slug: page-type/pipeline

@@ -1,5 +1,6 @@
 ---
 id: ad59189a-492f-5ebc-ab95-6e5c90f80a5d
+slug: frozen-oom-metric-redundant
 page-type-slug: finding
 title: "Frozen oom metric redundant"
 domain-slug: domain/metric

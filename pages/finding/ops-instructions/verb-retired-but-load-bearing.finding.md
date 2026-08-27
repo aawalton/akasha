@@ -1,5 +1,6 @@
 ---
 id: aec6e129-2945-52d6-ac62-399a14445c48
+slug: verb-retired-but-load-bearing
 page-type-slug: finding
 title: "Verb retired but load bearing"
 domain-slug: domain/ops-instructions

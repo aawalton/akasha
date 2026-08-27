@@ -1,5 +1,6 @@
 ---
 id: b5fef2ec-8c2f-5044-8129-eeb7616623bb
+slug: doctrine-binds-and-scores-separately
 page-type-slug: finding
 title: "Doctrine binds and scores separately"
 domain-slug: domain/narrative-engine

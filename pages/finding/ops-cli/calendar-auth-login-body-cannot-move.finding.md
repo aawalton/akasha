@@ -1,5 +1,6 @@
 ---
 id: 8bd5241b-9c8b-55f4-975f-6ac951cfc696
+slug: calendar-auth-login-body-cannot-move
 page-type-slug: finding
 title: "Calendar auth login body cannot move"
 domain-slug: domain/ops-cli

@@ -1,5 +1,6 @@
 ---
 id: 746e4d84-4d73-5959-9f94-7e333826fc8b
+slug: adhoc-sql-trial-and-error
 page-type-slug: finding
 title: "Adhoc SQL trial and error"
 domain-slug: domain/global

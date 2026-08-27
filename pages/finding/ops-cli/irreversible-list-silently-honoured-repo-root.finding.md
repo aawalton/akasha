@@ -1,5 +1,6 @@
 ---
 id: 0e2d98ac-a972-5a30-ad87-c21cf0092927
+slug: irreversible-list-silently-honoured-repo-root
 page-type-slug: finding
 title: "Irreversible list silently honoured repo root"
 domain-slug: domain/ops-cli

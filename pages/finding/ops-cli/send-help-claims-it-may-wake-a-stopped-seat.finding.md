@@ -1,5 +1,6 @@
 ---
 id: 81cdfdea-5d30-58bf-81f7-2ab007a26bb7
+slug: send-help-claims-it-may-wake-a-stopped-seat
 page-type-slug: finding
 title: "Send help claims it may wake a stopped seat"
 domain-slug: domain/ops-cli

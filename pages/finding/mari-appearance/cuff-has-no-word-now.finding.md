@@ -1,5 +1,6 @@
 ---
 id: c060e2db-54e8-5526-9051-49df2ee347fa
+slug: cuff-has-no-word-now
 page-type-slug: finding
 title: "Cuff has no word now"
 domain-slug: persona-appearance/mari-appearance

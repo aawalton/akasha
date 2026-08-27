@@ -1,5 +1,6 @@
 ---
 id: 45c9f883-8cee-55ce-ab76-9601b2a485a5
+slug: summary-names-six-of-seven
 page-type-slug: finding
 title: "Summary names six of seven"
 domain-slug: domain/global

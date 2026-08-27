@@ -1,5 +1,6 @@
 ---
 id: edf6f040-a252-5ebe-aa13-393ab3938a2e
+slug: story-chapter-length-has-typed-twin
 page-type-slug: finding
 title: "Story chapter length has typed twin"
 domain-slug: domain/pages-system

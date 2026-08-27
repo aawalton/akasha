@@ -1,5 +1,6 @@
 ---
 id: 01a0201a-4f61-7000-bbca-d3b95080fea6
+slug: a-narrowing-cannot-un-compute-an-inherited-computed-key
 page-type-slug: finding
 title: "A narrowing cannot un compute an inherited computed key"
 domain-slug: domain/pages-system

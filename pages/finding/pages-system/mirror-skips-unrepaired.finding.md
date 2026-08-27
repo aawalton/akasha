@@ -1,5 +1,6 @@
 ---
 id: 1a0c9265-9484-55d1-a04c-a1c13254a342
+slug: mirror-skips-unrepaired
 page-type-slug: finding
 title: "Mirror skips unrepaired"
 domain-slug: domain/pages-system

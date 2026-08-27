@@ -1,5 +1,6 @@
 ---
 id: 5cd858d1-385a-5846-a438-0f4402c9ed2a
+slug: wake-is-retired-and-the-verbs-still-spell-it
 page-type-slug: finding
 title: "Wake is retired and the verbs still spell it"
 domain-slug: barred-meaning/jargon

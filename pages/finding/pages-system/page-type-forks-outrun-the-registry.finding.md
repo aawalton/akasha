@@ -1,5 +1,6 @@
 ---
 id: 13769518-e7de-514a-8bba-03c94ca3077b
+slug: page-type-forks-outrun-the-registry
 page-type-slug: finding
 title: "Page type forks outrun the registry"
 domain-slug: domain/pages-system

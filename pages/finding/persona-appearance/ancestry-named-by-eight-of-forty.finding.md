@@ -1,5 +1,6 @@
 ---
 id: 8cdd8a1c-75e5-5d72-90b3-562b523c8360
+slug: ancestry-named-by-eight-of-forty
 page-type-slug: finding
 title: "Ancestry named by eight of forty"
 domain-slug: page-type/persona-appearance

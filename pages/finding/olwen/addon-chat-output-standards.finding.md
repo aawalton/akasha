@@ -1,5 +1,6 @@
 ---
 id: 5cdbe9f1-b0fd-541b-be6d-16edeaedc8a3
+slug: addon-chat-output-standards
 page-type-slug: finding
 title: "Addon chat output standards"
 domain-slug: persona/olwen

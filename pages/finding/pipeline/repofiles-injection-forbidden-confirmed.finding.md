@@ -1,5 +1,6 @@
 ---
 id: 73dddf63-c25f-57f5-8a81-0343a35553d9
+slug: repofiles-injection-forbidden-confirmed
 page-type-slug: finding
 title: "Repofiles injection forbidden confirmed"
 domain-slug: page-type/pipeline

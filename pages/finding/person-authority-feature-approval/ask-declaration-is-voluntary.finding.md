@@ -1,5 +1,6 @@
 ---
 id: 533ffa5d-99ad-5d94-975f-086185e34c15
+slug: ask-declaration-is-voluntary
 page-type-slug: finding
 title: "Ask declaration is voluntary"
 domain-slug: domain/person-authority-feature-approval

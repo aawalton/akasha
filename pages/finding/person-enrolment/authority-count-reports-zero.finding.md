@@ -1,5 +1,6 @@
 ---
 id: 8a9ab06b-f56e-5403-a383-a4d8affbdfb9
+slug: authority-count-reports-zero
 page-type-slug: finding
 title: "Authority count reports zero"
 domain-slug: domain/person-enrolment

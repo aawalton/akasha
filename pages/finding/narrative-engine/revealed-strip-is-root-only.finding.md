@@ -1,5 +1,6 @@
 ---
 id: af5dea17-9b62-59a7-8c0c-74b7f1d21933
+slug: revealed-strip-is-root-only
 page-type-slug: finding
 title: "Revealed strip is root only"
 domain-slug: domain/narrative-engine

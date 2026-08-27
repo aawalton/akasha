@@ -1,5 +1,6 @@
 ---
 id: 083bb87c-eb6c-5e90-8dd4-b4586b96872c
+slug: list-bound-stated-in-schema-and-body-shape
 page-type-slug: finding
 title: "List bound stated in schema and body shape"
 domain-slug: domain/pages-system

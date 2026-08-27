@@ -1,5 +1,6 @@
 ---
 id: cc927c81-a74d-56da-8b5c-72ff5e8ee0c8
+slug: dead-framework-keys-and-a-phantom-fan-out
 page-type-slug: finding
 title: "Dead framework keys and a phantom fan out"
 domain-slug: page-type/persona

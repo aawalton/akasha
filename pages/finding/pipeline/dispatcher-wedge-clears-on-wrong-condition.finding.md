@@ -1,5 +1,6 @@
 ---
 id: 36d11e98-08d1-5264-ad19-dc6f6e2520a7
+slug: dispatcher-wedge-clears-on-wrong-condition
 page-type-slug: finding
 title: "Dispatcher wedge clears on wrong condition"
 domain-slug: page-type/pipeline

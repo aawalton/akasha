@@ -1,5 +1,6 @@
 ---
 id: fa5c6467-f630-5fea-a5e7-bcc4868ac99e
+slug: main-pipeline-creator-wedges-on-dsl-skew
 page-type-slug: finding
 title: "Main pipeline creator wedges on dsl skew"
 domain-slug: page-type/pipeline

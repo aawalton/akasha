@@ -1,5 +1,6 @@
 ---
 id: f909d0a3-5269-5723-9d53-d718af6c21ea
+slug: page-type-readers-hide-in-three-channels
 page-type-slug: finding
 title: "Page type readers hide in three channels"
 domain-slug: domain/global

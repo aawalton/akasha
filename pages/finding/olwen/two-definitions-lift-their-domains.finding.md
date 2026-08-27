@@ -1,5 +1,6 @@
 ---
 id: da70e92b-1f5e-56af-a506-55053a08f10b
+slug: two-definitions-lift-their-domains
 page-type-slug: finding
 title: "Two definitions lift their domains"
 domain-slug: persona/olwen

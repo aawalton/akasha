@@ -1,5 +1,6 @@
 ---
 id: 82b27717-ee43-506b-8c08-121971e8f91f
+slug: twi-pov-tagging-parked
 page-type-slug: finding
 title: "Twi pov tagging parked"
 domain-slug: domain/narrative-production

@@ -1,5 +1,6 @@
 ---
 id: 7de74303-5aaf-5af2-803f-a50fbea58098
+slug: voice-infer-pin-is-allocation-not-capability
 page-type-slug: finding
 title: "Voice infer pin is allocation not capability"
 domain-slug: domain/node

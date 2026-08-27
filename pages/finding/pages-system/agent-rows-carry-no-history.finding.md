@@ -1,5 +1,6 @@
 ---
 id: e4412c4c-422d-5504-90bc-ef9e7cec5e5c
+slug: agent-rows-carry-no-history
 page-type-slug: finding
 title: "Agent rows carry no history"
 domain-slug: domain/pages-system

@@ -1,5 +1,6 @@
 ---
 id: 9dfae228-eaf6-53c9-84c1-beaccd3f616f
+slug: every-game-names-a-coordinator-that-is-not-there
 page-type-slug: finding
 title: "Every game names a coordinator that is not there"
 domain-slug: domain/narrative-engine

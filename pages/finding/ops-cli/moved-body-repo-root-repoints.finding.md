@@ -1,5 +1,6 @@
 ---
 id: ea837284-b74a-58c3-bcfc-b195bed255e9
+slug: moved-body-repo-root-repoints
 page-type-slug: finding
 title: "Moved body repo root repoints"
 domain-slug: domain/ops-cli

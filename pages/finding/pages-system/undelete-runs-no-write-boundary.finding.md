@@ -1,5 +1,6 @@
 ---
 id: 98e77a47-b7c3-532e-abd3-df50a51cec85
+slug: undelete-runs-no-write-boundary
 page-type-slug: finding
 title: "Undelete runs no write boundary"
 domain-slug: domain/pages-system

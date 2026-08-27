@@ -1,5 +1,6 @@
 ---
 id: a06a4b8b-c886-5077-9dc2-ec74b1bde4dc
+slug: retirement-never-swept
 page-type-slug: finding
 title: "Retirement never swept"
 domain-slug: barred-meaning/jargon

@@ -1,5 +1,6 @@
 ---
 id: 7e99cab8-8905-5b43-9aa3-f2d4fc9f54c7
+slug: one-foreign-file-disables-test-narrowing
 page-type-slug: finding
 title: "One foreign file disables test narrowing"
 domain-slug: page-type/pipeline

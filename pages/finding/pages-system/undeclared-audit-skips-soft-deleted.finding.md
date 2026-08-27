@@ -1,5 +1,6 @@
 ---
 id: 7990ad77-b624-5cc9-bd15-5dc2611f41ae
+slug: undeclared-audit-skips-soft-deleted
 page-type-slug: finding
 title: "Undeclared audit skips soft deleted"
 domain-slug: domain/pages-system

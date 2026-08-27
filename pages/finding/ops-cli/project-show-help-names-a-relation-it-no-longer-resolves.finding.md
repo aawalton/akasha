@@ -1,5 +1,6 @@
 ---
 id: dbb2b457-862a-5bf8-9d79-b3f0275c4687
+slug: project-show-help-names-a-relation-it-no-longer-resolves
 page-type-slug: finding
 title: "Project show help names a relation it no longer resolves"
 domain-slug: domain/ops-cli

@@ -1,5 +1,6 @@
 ---
 id: 8b50482b-d3be-5180-8357-aabcd01e7610
+slug: node04-slice-overcommitted
 page-type-slug: finding
 title: "Node04 slice overcommitted"
 domain-slug: domain/node

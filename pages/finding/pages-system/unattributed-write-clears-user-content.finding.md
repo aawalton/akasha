@@ -1,5 +1,6 @@
 ---
 id: 4d658dde-26d8-5a05-9a7f-32ef57a80752
+slug: unattributed-write-clears-user-content
 page-type-slug: finding
 title: "Unattributed write clears user content"
 domain-slug: domain/pages-system

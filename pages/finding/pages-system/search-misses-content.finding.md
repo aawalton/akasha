@@ -1,5 +1,6 @@
 ---
 id: b7d00cc6-3fae-5737-b44c-e08ac1cedcae
+slug: search-misses-content
 page-type-slug: finding
 title: "Search misses content"
 domain-slug: domain/pages-system

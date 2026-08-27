@@ -1,5 +1,6 @@
 ---
 id: d734f464-a73d-56dd-87d2-b44170d381f9
+slug: schema-guard-header-names-removed-proc
 page-type-slug: finding
 title: "Schema guard header names removed proc"
 domain-slug: domain/pages-system

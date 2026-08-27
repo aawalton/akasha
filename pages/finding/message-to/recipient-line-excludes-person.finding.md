@@ -1,5 +1,6 @@
 ---
 id: c4e983a1-2ae9-52b9-a034-8fd775c3a50b
+slug: recipient-line-excludes-person
 page-type-slug: finding
 title: "Recipient line excludes person"
 domain-slug: page-property-definition/message-to

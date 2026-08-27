@@ -1,5 +1,6 @@
 ---
 id: 7b0f532b-3580-51c0-b555-ce86e872555d
+slug: prometheus-auto-apply-citation-stale
 page-type-slug: finding
 title: "Prometheus auto apply citation stale"
 domain-slug: domain/metric

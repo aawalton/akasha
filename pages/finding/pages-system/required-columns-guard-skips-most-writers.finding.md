@@ -1,5 +1,6 @@
 ---
 id: 02fba29b-20f3-5570-966e-779a091827fd
+slug: required-columns-guard-skips-most-writers
 page-type-slug: finding
 title: "Required columns guard skips most writers"
 domain-slug: domain/pages-system

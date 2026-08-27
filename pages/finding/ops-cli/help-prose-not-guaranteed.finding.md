@@ -1,5 +1,6 @@
 ---
 id: 60d60ed0-7f51-5663-bc37-37fc5f3b7030
+slug: help-prose-not-guaranteed
 page-type-slug: finding
 title: "Help prose not guaranteed"
 domain-slug: domain/ops-cli

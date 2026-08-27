@@ -1,5 +1,6 @@
 ---
 id: 4882ff1b-6c93-52f1-bbb3-0a4b6a6f2446
+slug: db-psql-truncation-notice-lost
 page-type-slug: finding
 title: "DB psql truncation notice lost"
 domain-slug: domain/ops-cli

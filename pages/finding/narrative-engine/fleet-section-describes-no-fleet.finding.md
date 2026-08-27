@@ -1,5 +1,6 @@
 ---
 id: 9b6a6cf0-b1c9-52f4-aa3e-79cc660a1caf
+slug: fleet-section-describes-no-fleet
 page-type-slug: finding
 title: "Fleet section describes no fleet"
 domain-slug: domain/narrative-engine

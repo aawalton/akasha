@@ -1,5 +1,6 @@
 ---
 id: 8d24dfe3-8d78-5c42-8d23-9cd8a41876a5
+slug: the-irreversible-inventory-omits-the-hard-deletes
 page-type-slug: finding
 title: "The irreversible inventory omits the hard deletes"
 domain-slug: domain/ops-cli

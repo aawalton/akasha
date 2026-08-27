@@ -1,5 +1,6 @@
 ---
 id: e95e43de-ecc5-5eb5-ada2-43f55c1f834b
+slug: googleapis-reach-splits-the-oauth-login-verbs
 page-type-slug: finding
 title: "Googleapis reach splits the oauth login verbs"
 domain-slug: domain/ops-cli

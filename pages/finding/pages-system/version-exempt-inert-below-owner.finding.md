@@ -1,5 +1,6 @@
 ---
 id: 1d6103b2-b5ee-5205-991e-ebfd06e53144
+slug: version-exempt-inert-below-owner
 page-type-slug: finding
 title: "Version exempt inert below owner"
 domain-slug: domain/pages-system

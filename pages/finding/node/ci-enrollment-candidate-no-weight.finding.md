@@ -1,5 +1,6 @@
 ---
 id: 78209792-ea89-57b5-a638-6ad93b5c036c
+slug: ci-enrollment-candidate-no-weight
 page-type-slug: finding
 title: "CI enrollment candidate no weight"
 domain-slug: domain/node

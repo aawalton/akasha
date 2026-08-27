@@ -1,5 +1,6 @@
 ---
 id: 818d6d60-7101-5b82-936d-b722a55b8184
+slug: three-spellings-of-one-name
 page-type-slug: finding
 title: "Three spellings of one name"
 domain-slug: person/jenny

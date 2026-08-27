@@ -1,5 +1,6 @@
 ---
 id: b80645ac-018a-59bb-86f6-97c6b875c1c6
+slug: a-snapshot-header-claims-strict-and-the-code-passes-through
 page-type-slug: finding
 title: "A snapshot header claims strict and the code passes through"
 domain-slug: domain/ops-cli

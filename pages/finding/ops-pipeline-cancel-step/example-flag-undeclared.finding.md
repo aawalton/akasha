@@ -1,5 +1,6 @@
 ---
 id: f48fe7d4-97a0-524c-9fed-7e1afca3555e
+slug: example-flag-undeclared
 page-type-slug: finding
 title: "Example flag undeclared"
 domain-slug: domain/global

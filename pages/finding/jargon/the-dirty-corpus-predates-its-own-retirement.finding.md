@@ -1,5 +1,6 @@
 ---
 id: 66740803-e633-5d9c-9415-c14c7728e4cc
+slug: the-dirty-corpus-predates-its-own-retirement
 page-type-slug: finding
 title: "The dirty corpus predates its own retirement"
 domain-slug: barred-meaning/jargon

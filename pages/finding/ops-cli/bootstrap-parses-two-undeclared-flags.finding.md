@@ -1,5 +1,6 @@
 ---
 id: 79382f70-ed13-5a46-83a2-b30b01b1cccf
+slug: bootstrap-parses-two-undeclared-flags
 page-type-slug: finding
 title: "Bootstrap parses two undeclared flags"
 domain-slug: domain/ops-cli

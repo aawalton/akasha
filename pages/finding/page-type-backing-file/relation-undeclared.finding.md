@@ -1,5 +1,6 @@
 ---
 id: b436a158-3591-55a1-8105-d4dce5e6bf9e
+slug: relation-undeclared
 page-type-slug: finding
 title: "Relation undeclared"
 domain-slug: domain/global

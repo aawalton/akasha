@@ -1,5 +1,6 @@
 ---
 id: 8c1fb1d6-9aa4-5c25-8ad4-8150b7b86635
+slug: ancestry-foreclosed-by-borrowed
 page-type-slug: finding
 title: "Ancestry foreclosed by borrowed"
 domain-slug: persona-appearance/mari-appearance

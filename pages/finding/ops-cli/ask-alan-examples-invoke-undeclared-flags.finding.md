@@ -1,5 +1,6 @@
 ---
 id: b0e09624-0a0b-590f-8e7f-2ac2f46c5bbb
+slug: ask-alan-examples-invoke-undeclared-flags
 page-type-slug: finding
 title: "Ask Alan examples invoke undeclared flags"
 domain-slug: domain/ops-cli

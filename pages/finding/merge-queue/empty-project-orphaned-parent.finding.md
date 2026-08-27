@@ -1,5 +1,6 @@
 ---
 id: 1ecf36b7-8b7b-5a94-8032-07af4adc51db
+slug: empty-project-orphaned-parent
 page-type-slug: finding
 title: "Empty project orphaned parent"
 domain-slug: domain/global

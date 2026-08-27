@@ -1,5 +1,6 @@
 ---
 id: ecfe36f3-89de-5e62-801f-4fdb0f30f610
+slug: ejection-message-lacks-triage
 page-type-slug: finding
 title: "Ejection message lacks triage"
 domain-slug: domain/global

@@ -1,5 +1,6 @@
 ---
 id: 10dbe06b-5af1-5403-99b0-cc0524b34176
+slug: oversize-refusal-never-fired
 page-type-slug: finding
 title: "Oversize refusal never fired"
 domain-slug: page-type/pipeline

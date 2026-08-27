@@ -1,5 +1,6 @@
 ---
 id: 451b33cd-4228-5917-bf57-a00138fe6fd6
+slug: page-type-slug-unconstrained
 page-type-slug: finding
 title: "Page type slug unconstrained"
 domain-slug: domain/pages-system

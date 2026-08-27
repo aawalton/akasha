@@ -1,5 +1,6 @@
 ---
 id: 3cca53ec-45e4-5366-a698-16346a4f885b
+slug: what-still-reaches-the-retired-command-registry
 page-type-slug: finding
 title: "What still reaches the retired command registry"
 domain-slug: domain/ops-cli

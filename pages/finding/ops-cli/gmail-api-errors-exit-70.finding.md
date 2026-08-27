@@ -1,5 +1,6 @@
 ---
 id: 9052d83b-22a9-5813-b7f0-d6f35909b0e2
+slug: gmail-api-errors-exit-70
 page-type-slug: finding
 title: "Gmail API errors exit 70"
 domain-slug: domain/ops-cli

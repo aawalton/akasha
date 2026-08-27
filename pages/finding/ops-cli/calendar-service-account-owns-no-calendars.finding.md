@@ -1,5 +1,6 @@
 ---
 id: 1370e303-a32c-584e-bbea-f30bc994e82e
+slug: calendar-service-account-owns-no-calendars
 page-type-slug: finding
 title: "Calendar service account owns no calendars"
 domain-slug: domain/ops-cli

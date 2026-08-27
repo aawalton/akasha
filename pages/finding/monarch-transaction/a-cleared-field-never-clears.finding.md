@@ -1,5 +1,6 @@
 ---
 id: a83867c5-13d0-59db-9ba0-b4371698029a
+slug: a-cleared-field-never-clears
 page-type-slug: finding
 title: "A cleared field never clears"
 domain-slug: page-type/monarch-transaction

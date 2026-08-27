@@ -1,5 +1,6 @@
 ---
 id: 754cfda7-714f-5d7e-a7a9-b80f54d0d459
+slug: capability-selector-hostname-pin
 page-type-slug: finding
 title: "Capability selector hostname pin"
 domain-slug: domain/node

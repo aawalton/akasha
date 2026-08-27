@@ -1,5 +1,6 @@
 ---
 id: 4669c0a8-ad42-593c-a7a5-092b470fa6f9
+slug: zod-env-identity
 page-type-slug: finding
 title: "Zod env identity"
 domain-slug: domain/global

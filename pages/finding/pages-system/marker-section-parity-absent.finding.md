@@ -1,5 +1,6 @@
 ---
 id: 05dfd165-ca53-55de-b170-0a17ca8f3822
+slug: marker-section-parity-absent
 page-type-slug: finding
 title: "Marker section parity absent"
 domain-slug: domain/pages-system

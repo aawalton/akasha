@@ -1,5 +1,6 @@
 ---
 id: ddfbc540-34eb-59d2-a0ed-7dd03b1d2458
+slug: play-game-body-needs-a-row-to-prove
 page-type-slug: finding
 title: "Play game body needs a row to prove"
 domain-slug: domain/ops-cli

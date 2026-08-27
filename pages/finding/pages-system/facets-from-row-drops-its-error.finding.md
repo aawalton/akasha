@@ -1,5 +1,6 @@
 ---
 id: 53d98f4a-9a33-58de-9e4e-00af58ca6031
+slug: facets-from-row-drops-its-error
 page-type-slug: finding
 title: "Facets from row drops its error"
 domain-slug: domain/pages-system

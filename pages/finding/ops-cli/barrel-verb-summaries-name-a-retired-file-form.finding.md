@@ -1,5 +1,6 @@
 ---
 id: ea216e63-abf6-5fba-aee1-fab9f2496f43
+slug: barrel-verb-summaries-name-a-retired-file-form
 page-type-slug: finding
 title: "Barrel verb summaries name a retired file form"
 domain-slug: domain/ops-cli

@@ -1,5 +1,6 @@
 ---
 id: 571bdadd-2e75-5624-be9e-0eaa5e3e546f
+slug: two-categories-cover-vehicle-spending
 page-type-slug: finding
 title: "Two categories cover vehicle spending"
 domain-slug: page-type/monarch-category

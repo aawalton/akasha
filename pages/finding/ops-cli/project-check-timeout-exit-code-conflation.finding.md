@@ -1,5 +1,6 @@
 ---
 id: fa7a3e03-fa6e-5a6e-8d9f-196cfc775d05
+slug: project-check-timeout-exit-code-conflation
 page-type-slug: finding
 title: "Project check timeout exit code conflation"
 domain-slug: domain/ops-cli

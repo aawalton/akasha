@@ -1,5 +1,6 @@
 ---
 id: 858643da-5750-5748-aceb-fdf3f74efa25
+slug: actor-agent-property-definition-coverage-gap
 page-type-slug: finding
 title: "Actor agent property definition coverage gap"
 domain-slug: domain/pages-system

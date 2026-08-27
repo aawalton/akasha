@@ -1,5 +1,6 @@
 ---
 id: 55719ad8-690b-58f1-af95-cf2898cb4c3c
+slug: property-types-open-but-rules-closed
 page-type-slug: finding
 title: "Property types open but rules closed"
 domain-slug: domain/pages-system

@@ -1,5 +1,6 @@
 ---
 id: bab1903b-7f3e-54ce-86a0-a8fbf035486f
+slug: eso-path-pinned-in-help
 page-type-slug: finding
 title: "Eso path pinned in help"
 domain-slug: domain/ops-cli

@@ -1,5 +1,6 @@
 ---
 id: 0f244858-7edb-5a95-8893-510ed3729f2f
+slug: parent-edge-does-no-work
 page-type-slug: finding
 title: "Parent edge does no work"
 domain-slug: domain/global

@@ -1,5 +1,6 @@
 ---
 id: e285bf27-bebf-56c4-b665-04d1fff9a36f
+slug: ci-flip-blocked-on-relocation
 page-type-slug: finding
 title: "CI flip blocked on relocation"
 domain-slug: domain/node

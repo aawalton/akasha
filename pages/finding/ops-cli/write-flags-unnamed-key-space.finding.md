@@ -1,5 +1,6 @@
 ---
 id: 142116ae-3011-5789-b677-fc563df37c5d
+slug: write-flags-unnamed-key-space
 page-type-slug: finding
 title: "Write flags unnamed key space"
 domain-slug: domain/ops-cli

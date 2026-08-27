@@ -1,5 +1,6 @@
 ---
 id: f86ff956-0049-5411-9b5b-a79903e50d17
+slug: fanout-zero-unclassified
 page-type-slug: finding
 title: "Fanout zero unclassified"
 domain-slug: domain/global

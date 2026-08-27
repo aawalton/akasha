@@ -1,5 +1,6 @@
 ---
 id: 86cd9785-cf9a-50fc-87b7-01d7e6256fbe
+slug: zod-refusals-exit-70-on-the-dispatch-path
 page-type-slug: finding
 title: "Zod refusals exit 70 on the dispatch path"
 domain-slug: domain/ops-cli

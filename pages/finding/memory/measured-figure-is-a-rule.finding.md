@@ -1,5 +1,6 @@
 ---
 id: 289c86a9-6799-5e56-a084-fc66fb536986
+slug: measured-figure-is-a-rule
 page-type-slug: finding
 title: "Measured figure is a rule"
 domain-slug: domain/global

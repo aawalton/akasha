@@ -1,5 +1,6 @@
 ---
 id: 0fc285b4-4f96-501e-9c38-f6dc5eeab17b
+slug: snapshot-gap-is-a-decision
 page-type-slug: finding
 title: "Snapshot gap is a decision"
 domain-slug: domain/mathematics

@@ -1,5 +1,6 @@
 ---
 id: 7a2e8b83-7914-5f72-b520-37086729e14d
+slug: objective-undeclared
 page-type-slug: finding
 title: "Objective undeclared"
 domain-slug: domain/global

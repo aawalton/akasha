@@ -1,5 +1,6 @@
 ---
 id: b8f4dd6a-8de4-5cee-8334-93061210db62
+slug: skipped-status-boundary
 page-type-slug: finding
 title: "Skipped status boundary"
 domain-slug: page-type/message

@@ -1,5 +1,6 @@
 ---
 id: 6681186e-a96f-58d0-b6d7-284877d90872
+slug: suppression-hook-answers-a-third-of-its-gap
 page-type-slug: finding
 title: "Suppression hook answers a third of its gap"
 domain-slug: domain/pages-system

@@ -1,5 +1,6 @@
 ---
 id: 0da27770-b6ae-594c-839f-a587a2302993
+slug: litrpg-view-projections-are-covered-by-no-test
 page-type-slug: finding
 title: "Litrpg view projections are covered by no test"
 domain-slug: domain/ops-cli

@@ -1,5 +1,6 @@
 ---
 id: 41faa7a0-4b52-51cc-a392-bbddb47ee594
+slug: count-pipeline-reached-only-from-a-test
 page-type-slug: finding
 title: "Count pipeline reached only from a test"
 domain-slug: domain/pages-system

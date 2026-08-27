@@ -1,5 +1,6 @@
 ---
 id: a68c6b43-45a4-5af2-9c9f-79c2c4b0deb7
+slug: the-irreversible-gate-reads-the-help-not-the-document
 page-type-slug: finding
 title: "The irreversible gate reads the help not the document"
 domain-slug: domain/ops-cli

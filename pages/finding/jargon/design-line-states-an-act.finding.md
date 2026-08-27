@@ -1,5 +1,6 @@
 ---
 id: 4704413e-1a3d-5f05-9e9d-37f6e635036a
+slug: design-line-states-an-act
 page-type-slug: finding
 title: "Design line states an act"
 domain-slug: barred-meaning/jargon

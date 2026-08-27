@@ -1,5 +1,6 @@
 ---
 id: 43367e07-dbe4-5508-bc53-661d02f650e4
+slug: persona-line-carries-its-reason
 page-type-slug: finding
 title: "Persona line carries its reason"
 domain-slug: page-property-definition/message-to

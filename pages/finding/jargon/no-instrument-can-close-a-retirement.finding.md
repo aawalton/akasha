@@ -1,5 +1,6 @@
 ---
 id: fd76d4d2-213f-5ee3-b533-3c4fa1d6e9c2
+slug: no-instrument-can-close-a-retirement
 page-type-slug: finding
 title: "No instrument can close a retirement"
 domain-slug: barred-meaning/jargon

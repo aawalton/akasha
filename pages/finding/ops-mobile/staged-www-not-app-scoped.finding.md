@@ -1,5 +1,6 @@
 ---
 id: 4db71d0a-5f6a-5282-92a3-96b75bfd3fa7
+slug: staged-www-not-app-scoped
 page-type-slug: finding
 title: "Staged www not app scoped"
 domain-slug: domain/ops-mobile

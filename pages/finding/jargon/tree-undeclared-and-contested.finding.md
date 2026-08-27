@@ -1,5 +1,6 @@
 ---
 id: 783c0ec7-3262-5f28-a537-a9909d85d65b
+slug: tree-undeclared-and-contested
 page-type-slug: finding
 title: "Tree undeclared and contested"
 domain-slug: barred-meaning/jargon

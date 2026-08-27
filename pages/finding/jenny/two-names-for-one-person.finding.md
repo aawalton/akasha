@@ -1,5 +1,6 @@
 ---
 id: 042fba23-1271-5302-9feb-7588ec9371c3
+slug: two-names-for-one-person
 page-type-slug: finding
 title: "Two names for one person"
 domain-slug: person/jenny

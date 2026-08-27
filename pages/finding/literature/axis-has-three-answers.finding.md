@@ -1,5 +1,6 @@
 ---
 id: 7f9c7760-8567-57bf-97b9-d9b8e5334603
+slug: axis-has-three-answers
 page-type-slug: finding
 title: "Axis has three answers"
 domain-slug: domain/literature

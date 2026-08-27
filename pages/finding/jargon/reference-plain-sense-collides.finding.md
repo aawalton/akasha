@@ -1,5 +1,6 @@
 ---
 id: 3c14e16c-d3f4-5227-9f97-c21bd583937d
+slug: reference-plain-sense-collides
 page-type-slug: finding
 title: "Reference plain sense collides"
 domain-slug: barred-meaning/jargon

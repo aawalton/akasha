@@ -1,5 +1,6 @@
 ---
 id: 5a62b8a1-0212-5f34-8ed5-938894f22085
+slug: lifecycle-verbs-exit-70-on-missing-page
 page-type-slug: finding
 title: "Lifecycle verbs exit 70 on missing page"
 domain-slug: domain/ops-cli

@@ -1,5 +1,6 @@
 ---
 id: 0f25aa89-ea95-5fe7-b5ed-f68df48bdae4
+slug: authors-notes-embedded-untagged
 page-type-slug: finding
 title: "Authors notes embedded untagged"
 domain-slug: domain/global

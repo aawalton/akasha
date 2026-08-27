@@ -1,5 +1,6 @@
 ---
 id: a9f4d9ab-51ab-543a-a087-6886c2c3a666
+slug: feed-drops-rows-silently
 page-type-slug: finding
 title: "Feed drops rows silently"
 domain-slug: page-type/monarch-transaction

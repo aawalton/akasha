@@ -1,5 +1,6 @@
 ---
 id: 01a0200f-54c2-7000-8dd1-cf05d638f3b4
+slug: a-row-type-check-is-too-costly-as-a-per-request-fault
 page-type-slug: finding
 title: "A row type check is too costly as a per request fault"
 domain-slug: domain/pages-system

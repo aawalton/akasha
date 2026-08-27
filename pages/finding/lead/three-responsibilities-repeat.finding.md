@@ -1,5 +1,6 @@
 ---
 id: 0cff8ef1-d85f-5da5-8569-00f5cc50c116
+slug: three-responsibilities-repeat
 page-type-slug: finding
 title: "Three responsibilities repeat"
 domain-slug: domain/global

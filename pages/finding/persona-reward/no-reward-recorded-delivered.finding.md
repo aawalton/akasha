@@ -1,5 +1,6 @@
 ---
 id: b3f67621-4fc8-5ab1-91d3-bf779130d90c
+slug: no-reward-recorded-delivered
 page-type-slug: finding
 title: "No reward recorded delivered"
 domain-slug: domain/global

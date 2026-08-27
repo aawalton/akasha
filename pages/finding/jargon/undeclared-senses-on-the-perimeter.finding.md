@@ -1,5 +1,6 @@
 ---
 id: 7a05f3a3-139f-5829-be19-a1ea0c375634
+slug: undeclared-senses-on-the-perimeter
 page-type-slug: finding
 title: "Undeclared senses on the perimeter"
 domain-slug: barred-meaning/jargon

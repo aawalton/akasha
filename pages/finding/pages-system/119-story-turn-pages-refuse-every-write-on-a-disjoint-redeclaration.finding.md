@@ -1,5 +1,6 @@
 ---
 id: 01a02000-c71b-7003-bfe9-b3c5acac0d80
+slug: 119-story-turn-pages-refuse-every-write-on-a-disjoint-redeclaration
 page-type-slug: finding
 title: "119 story turn pages refuse every write on a disjoint redeclaration"
 domain-slug: domain/pages-system

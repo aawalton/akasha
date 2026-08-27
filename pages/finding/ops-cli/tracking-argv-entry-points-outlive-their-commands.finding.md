@@ -1,5 +1,6 @@
 ---
 id: 0a21b254-7cb6-518e-ba31-f7f7bdcb6c8d
+slug: tracking-argv-entry-points-outlive-their-commands
 page-type-slug: finding
 title: "Tracking argv entry points outlive their commands"
 domain-slug: domain/ops-cli

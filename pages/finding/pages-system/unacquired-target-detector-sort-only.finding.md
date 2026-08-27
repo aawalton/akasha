@@ -1,5 +1,6 @@
 ---
 id: 570ea715-d8d2-53b7-ab2f-4aa5ba8183ba
+slug: unacquired-target-detector-sort-only
 page-type-slug: finding
 title: "Unacquired target detector sort only"
 domain-slug: domain/pages-system

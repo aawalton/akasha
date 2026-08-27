@@ -1,5 +1,6 @@
 ---
 id: 9ca8a731-01b6-5c5a-b362-dd544d363b16
+slug: words-read-fires-on-imperatives
 page-type-slug: finding
 title: "Words read fires on imperatives"
 domain-slug: barred-meaning/jargon

@@ -1,5 +1,6 @@
 ---
 id: 8d627018-18b8-531e-b6db-8704232eb8be
+slug: supersession-rests-on-a-suite-that-narrows
 page-type-slug: finding
 title: "Supersession rests on a suite that narrows"
 domain-slug: domain/global

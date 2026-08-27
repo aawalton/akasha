@@ -1,5 +1,6 @@
 ---
 id: aa6f017d-4a3f-59c5-98a5-9a326c491c28
+slug: books-verbs-print-a-progress-line-no-help-block-declares
 page-type-slug: finding
 title: "Books verbs print a progress line no help block declares"
 domain-slug: domain/ops-cli

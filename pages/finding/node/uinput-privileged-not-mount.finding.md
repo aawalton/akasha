@@ -1,5 +1,6 @@
 ---
 id: f84d25aa-532f-5b05-939a-5c2e41cf1d7d
+slug: uinput-privileged-not-mount
 page-type-slug: finding
 title: "Uinput privileged not mount"
 domain-slug: domain/node

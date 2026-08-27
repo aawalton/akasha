@@ -1,5 +1,6 @@
 ---
 id: 32a27c2b-9262-551e-83e8-cc7c84e0dc19
+slug: relation-slug-value-unconstrained
 page-type-slug: finding
 title: "Relation slug value unconstrained"
 domain-slug: page-type/page-property-definition

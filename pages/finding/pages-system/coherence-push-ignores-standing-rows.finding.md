@@ -1,5 +1,6 @@
 ---
 id: 8c00c7f4-bf3e-52ee-9a6a-be3011f64c71
+slug: coherence-push-ignores-standing-rows
 page-type-slug: finding
 title: "Coherence push ignores standing rows"
 domain-slug: domain/pages-system

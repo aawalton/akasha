@@ -1,5 +1,6 @@
 ---
 id: 628dc685-9f21-577f-be5c-63c2bced4c22
+slug: tick-undeclared
 page-type-slug: finding
 title: "Tick undeclared"
 domain-slug: barred-meaning/jargon

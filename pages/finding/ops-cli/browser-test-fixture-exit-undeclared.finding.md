@@ -1,5 +1,6 @@
 ---
 id: dd7a1cfa-b3e2-5a67-ac92-3a644dda7371
+slug: browser-test-fixture-exit-undeclared
 page-type-slug: finding
 title: "Browser test fixture exit undeclared"
 domain-slug: domain/ops-cli

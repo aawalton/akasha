@@ -1,5 +1,6 @@
 ---
 id: c5be8651-4e94-5fe8-8b32-91a85e849d83
+slug: portrait-reward-disabled
 page-type-slug: finding
 title: "Portrait reward disabled"
 domain-slug: domain/global

@@ -1,5 +1,6 @@
 ---
 id: 4646faf6-fc3b-5632-b5f1-01f8ad0bdba8
+slug: swearing-eval-budget-tokens-400
 page-type-slug: finding
 title: "Swearing eval budget tokens 400"
 domain-slug: page-type/persona

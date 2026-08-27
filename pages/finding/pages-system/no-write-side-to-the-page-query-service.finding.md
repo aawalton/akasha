@@ -1,5 +1,6 @@
 ---
 id: efb59522-1a4e-5f7a-9e2c-bec2d7b1aa66
+slug: no-write-side-to-the-page-query-service
 page-type-slug: finding
 title: "No write side to the page query service"
 domain-slug: domain/pages-system

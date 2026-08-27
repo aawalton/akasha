@@ -1,5 +1,6 @@
 ---
 id: 511795d3-4be9-53bb-8a18-50903c4d8acd
+slug: anthology-narrator-single-voice
 page-type-slug: finding
 title: "Anthology narrator single voice"
 domain-slug: domain/narrative-production

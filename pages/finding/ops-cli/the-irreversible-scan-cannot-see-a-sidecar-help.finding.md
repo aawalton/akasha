@@ -1,5 +1,6 @@
 ---
 id: 69de233d-d5f7-556b-af46-1ad74817eb2e
+slug: the-irreversible-scan-cannot-see-a-sidecar-help
 page-type-slug: finding
 title: "The irreversible scan cannot see a sidecar help"
 domain-slug: domain/ops-cli

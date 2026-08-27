@@ -1,5 +1,6 @@
 ---
 id: 4998afb0-2311-5cdc-9799-a79a85a3a7a0
+slug: page-list-count-not-returned
 page-type-slug: finding
 title: "Page list count not returned"
 domain-slug: domain/ops-cli

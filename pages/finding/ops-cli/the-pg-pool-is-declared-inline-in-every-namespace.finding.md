@@ -1,5 +1,6 @@
 ---
 id: 7bf4be01-b625-5c60-8ed0-22d20557f11c
+slug: the-pg-pool-is-declared-inline-in-every-namespace
 page-type-slug: finding
 title: "The pg pool is declared inline in every namespace"
 domain-slug: domain/ops-cli

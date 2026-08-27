@@ -1,5 +1,6 @@
 ---
 id: 145ba265-40a5-50ca-8b92-9d59374231e6
+slug: gpu-container-tools-repeat-one-unstated-shape
 page-type-slug: finding
 title: "GPU container tools repeat one unstated shape"
 domain-slug: domain/ops-namespace

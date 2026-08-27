@@ -1,5 +1,6 @@
 ---
 id: 2cc59527-bdc0-5c25-ba3b-2f52ea9a2aa6
+slug: natalie-register-blocks-food-lead
 page-type-slug: finding
 title: "Natalie register blocks food lead"
 domain-slug: page-type/persona

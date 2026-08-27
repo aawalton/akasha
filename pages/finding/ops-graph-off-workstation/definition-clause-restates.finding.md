@@ -1,5 +1,6 @@
 ---
 id: 4800cdaa-bded-597e-8192-c1e6234c427f
+slug: definition-clause-restates
 page-type-slug: finding
 title: "Definition clause restates"
 domain-slug: domain/global

@@ -1,5 +1,6 @@
 ---
 id: c5b0d00e-bc88-5504-b564-d9308466ba52
+slug: worktree-cli-runs-the-main-checkout
 page-type-slug: finding
 title: "Worktree CLI runs the main checkout"
 domain-slug: domain/ops-cli

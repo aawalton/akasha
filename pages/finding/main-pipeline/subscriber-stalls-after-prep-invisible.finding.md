@@ -1,5 +1,6 @@
 ---
 id: 10dd0f85-7a26-5db8-af3d-08b59de9bb2f
+slug: subscriber-stalls-after-prep-invisible
 page-type-slug: finding
 title: "Subscriber stalls after prep invisible"
 domain-slug: domain/main-pipeline

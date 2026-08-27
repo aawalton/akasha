@@ -1,5 +1,6 @@
 ---
 id: bc46b562-02d1-590a-9fee-030bcc5792e9
+slug: pin-selection-and-deferral-policy-gaps
 page-type-slug: finding
 title: "Pin selection and deferral policy gaps"
 domain-slug: page-type/pipeline

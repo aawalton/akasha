@@ -1,5 +1,6 @@
 ---
 id: 9ae05f06-cbe4-5c82-be16-77cad094e971
+slug: untracked-blocks-merge
 page-type-slug: finding
 title: "Untracked blocks merge"
 domain-slug: domain/ios-install

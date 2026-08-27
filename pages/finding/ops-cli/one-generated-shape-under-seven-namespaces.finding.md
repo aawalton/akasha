@@ -1,5 +1,6 @@
 ---
 id: 1b63d26d-5b09-56ce-be23-ce5bb49db1c7
+slug: one-generated-shape-under-seven-namespaces
 page-type-slug: finding
 title: "One generated shape under seven namespaces"
 domain-slug: domain/ops-cli

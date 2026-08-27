@@ -1,5 +1,6 @@
 ---
 id: 70efc0d9-0607-510f-8091-b4cee4162afe
+slug: seq-scope-read-as-global
 page-type-slug: finding
 title: "Seq scope read as global"
 domain-slug: domain/pages-system

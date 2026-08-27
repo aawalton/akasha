@@ -1,5 +1,6 @@
 ---
 id: 6275ed45-a869-5d9a-b5b2-653386f33977
+slug: responsibilities-without-reachable-tasks
 page-type-slug: finding
 title: "Responsibilities without reachable tasks"
 domain-slug: domain/global

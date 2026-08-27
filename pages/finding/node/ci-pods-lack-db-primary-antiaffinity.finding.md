@@ -1,5 +1,6 @@
 ---
 id: 532186ad-1b58-5c29-8257-f7b8626aee42
+slug: ci-pods-lack-db-primary-antiaffinity
 page-type-slug: finding
 title: "CI pods lack DB primary antiaffinity"
 domain-slug: domain/node

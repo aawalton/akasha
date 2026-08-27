@@ -1,5 +1,6 @@
 ---
 id: eeeebd37-6a07-59b9-b1d6-75e284980a4d
+slug: narration-verify-flag-missing
 page-type-slug: finding
 title: "Narration verify flag missing"
 domain-slug: domain/narrative-production

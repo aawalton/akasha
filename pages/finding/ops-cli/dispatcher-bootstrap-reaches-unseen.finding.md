@@ -1,5 +1,6 @@
 ---
 id: 4a0dca52-7fd9-5fd8-b722-b0a7a286c8e8
+slug: dispatcher-bootstrap-reaches-unseen
 page-type-slug: finding
 title: "Dispatcher bootstrap reaches unseen"
 domain-slug: domain/ops-cli

@@ -1,5 +1,6 @@
 ---
 id: 64cd6985-4da3-5319-8da1-6f6291329f5a
+slug: test-harness-installs-page-types-from-live
 page-type-slug: finding
 title: "Test harness installs page types from live"
 domain-slug: domain/global

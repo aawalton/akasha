@@ -1,5 +1,6 @@
 ---
 id: 32aae94e-4b82-5824-9d7e-6e910a0787df
+slug: email-help-literals-drift
 page-type-slug: finding
 title: "Email help literals drift"
 domain-slug: domain/ops-cli

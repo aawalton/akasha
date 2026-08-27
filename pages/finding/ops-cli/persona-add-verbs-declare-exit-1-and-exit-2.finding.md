@@ -1,5 +1,6 @@
 ---
 id: 2e882bce-45c7-5862-9123-5ef33d4396ce
+slug: persona-add-verbs-declare-exit-1-and-exit-2
 page-type-slug: finding
 title: "Persona add verbs declare exit 1 and exit 2"
 domain-slug: domain/ops-cli

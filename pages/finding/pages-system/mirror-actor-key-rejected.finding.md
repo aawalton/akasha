@@ -1,5 +1,6 @@
 ---
 id: 5f8015a0-93ba-5218-8fca-bb92d78c845d
+slug: mirror-actor-key-rejected
 page-type-slug: finding
 title: "Mirror actor key rejected"
 domain-slug: domain/pages-system

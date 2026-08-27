@@ -1,5 +1,6 @@
 ---
 id: 07feb27f-b3c4-5134-8754-02940ca0aed5
+slug: session-opens-by-inferring
 page-type-slug: finding
 title: "Session opens by inferring"
 domain-slug: domain/literature

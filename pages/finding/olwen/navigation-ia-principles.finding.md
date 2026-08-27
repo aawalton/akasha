@@ -1,5 +1,6 @@
 ---
 id: ea5106f9-f6f3-5330-8562-32cd1628f89a
+slug: navigation-ia-principles
 page-type-slug: finding
 title: "Navigation IA principles"
 domain-slug: persona/olwen

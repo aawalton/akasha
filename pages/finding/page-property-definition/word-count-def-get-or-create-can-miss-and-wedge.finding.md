@@ -1,5 +1,6 @@
 ---
 id: f5ee98d6-5866-555d-9791-5c1f77af9b4a
+slug: word-count-def-get-or-create-can-miss-and-wedge
 page-type-slug: finding
 title: "Word count def get or create can miss and wedge"
 domain-slug: page-type/page-property-definition

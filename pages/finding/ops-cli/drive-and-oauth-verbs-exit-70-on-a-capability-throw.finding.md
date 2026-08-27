@@ -1,5 +1,6 @@
 ---
 id: b2c5e47c-3a0a-5040-b43c-e7b28011fe30
+slug: drive-and-oauth-verbs-exit-70-on-a-capability-throw
 page-type-slug: finding
 title: "Drive and oauth verbs exit 70 on a capability throw"
 domain-slug: domain/ops-cli

@@ -1,5 +1,6 @@
 ---
 id: 0be69def-069c-5e81-970f-d171bff7abc1
+slug: lightness-prohibition-only-in-quarantine
 page-type-slug: finding
 title: "Lightness prohibition only in quarantine"
 domain-slug: domain/literature

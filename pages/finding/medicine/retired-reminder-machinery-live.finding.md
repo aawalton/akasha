@@ -1,5 +1,6 @@
 ---
 id: ea482535-a1dc-5224-958b-d02801fc720a
+slug: retired-reminder-machinery-live
 page-type-slug: finding
 title: "Retired reminder machinery live"
 domain-slug: domain/medicine

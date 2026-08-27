@@ -1,5 +1,6 @@
 ---
 id: 1a30d23d-d391-5d45-b33d-aacbcd6b1e07
+slug: owner-guard-test-unselectable
 page-type-slug: finding
 title: "Owner guard test unselectable"
 domain-slug: domain/pages-system

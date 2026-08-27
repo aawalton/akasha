@@ -1,5 +1,6 @@
 ---
 id: ec08b11e-b3cf-5282-a824-bfc52367aeb8
+slug: eval-report-under-an-instruction-glob
 page-type-slug: finding
 title: "Eval report under an instruction glob"
 domain-slug: domain/monarch

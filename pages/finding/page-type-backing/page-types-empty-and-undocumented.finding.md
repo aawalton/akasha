@@ -1,5 +1,6 @@
 ---
 id: 3ffec995-c010-5e50-9c64-34123e6d7f37
+slug: page-types-empty-and-undocumented
 page-type-slug: finding
 title: "Page types empty and undocumented"
 domain-slug: domain/global

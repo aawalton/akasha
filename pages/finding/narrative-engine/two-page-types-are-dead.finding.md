@@ -1,5 +1,6 @@
 ---
 id: d1b444f1-2555-51b9-96cf-e0ea0c0796d0
+slug: two-page-types-are-dead
 page-type-slug: finding
 title: "Two page types are dead"
 domain-slug: domain/narrative-engine

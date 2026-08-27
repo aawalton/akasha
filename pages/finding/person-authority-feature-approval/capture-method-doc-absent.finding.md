@@ -1,5 +1,6 @@
 ---
 id: 2b276496-8185-5f89-b3ce-dc32fd675f2d
+slug: capture-method-doc-absent
 page-type-slug: finding
 title: "Capture method doc absent"
 domain-slug: domain/person-authority-feature-approval

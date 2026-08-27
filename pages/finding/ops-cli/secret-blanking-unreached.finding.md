@@ -1,5 +1,6 @@
 ---
 id: 2257da91-4fea-561c-bf32-2b4743439948
+slug: secret-blanking-unreached
 page-type-slug: finding
 title: "Secret blanking unreached"
 domain-slug: domain/ops-cli

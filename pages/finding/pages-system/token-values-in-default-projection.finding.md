@@ -1,5 +1,6 @@
 ---
 id: 88fff432-c415-5737-b8ce-19dd6609bc45
+slug: token-values-in-default-projection
 page-type-slug: finding
 title: "Token values in default projection"
 domain-slug: domain/pages-system

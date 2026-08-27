@@ -1,5 +1,6 @@
 ---
 id: d624396e-86ce-5efb-8fee-03dfa3f323dd
+slug: project-list-tsv-drops-columns
 page-type-slug: finding
 title: "Project list tsv drops columns"
 domain-slug: domain/ops-cli

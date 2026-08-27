@@ -1,5 +1,6 @@
 ---
 id: 4b6eff03-2ae8-501b-be80-efebaf67bfbc
+slug: verbs-retired-without-a-record
 page-type-slug: finding
 title: "Verbs retired without a record"
 domain-slug: domain/ops-cli

@@ -1,5 +1,6 @@
 ---
 id: e53f82a0-6479-5e67-9c98-af99c6d62607
+slug: parent-edge-under-fitness
 page-type-slug: finding
 title: "Parent edge under fitness"
 domain-slug: domain/medicine

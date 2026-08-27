@@ -1,5 +1,6 @@
 ---
 id: 365df83f-3299-5dc4-97a1-bdad06e40a35
+slug: siblings-roster-token-cost
 page-type-slug: finding
 title: "Siblings roster token cost"
 domain-slug: page-type/persona

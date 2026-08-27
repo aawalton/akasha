@@ -1,5 +1,6 @@
 ---
 id: 38004e98-b686-5c08-8de1-498ec6af8e20
+slug: read-write-edit-ungoverned
 page-type-slug: finding
 title: "Read write edit ungoverned"
 domain-slug: domain/global

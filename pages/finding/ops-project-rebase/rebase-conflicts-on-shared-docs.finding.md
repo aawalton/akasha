@@ -1,5 +1,6 @@
 ---
 id: b64fae23-0038-5536-b4bd-643d420631d9
+slug: rebase-conflicts-on-shared-docs
 page-type-slug: finding
 title: "Rebase conflicts on shared docs"
 domain-slug: domain/global

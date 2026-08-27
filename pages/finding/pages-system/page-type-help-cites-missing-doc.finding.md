@@ -1,5 +1,6 @@
 ---
 id: 1a13df2c-bdbe-54f7-9dac-04d8ec3619e0
+slug: page-type-help-cites-missing-doc
 page-type-slug: finding
 title: "Page type help cites missing doc"
 domain-slug: domain/pages-system

@@ -1,5 +1,6 @@
 ---
 id: a71a10ff-0a39-5961-bcf5-57bfb1ec8a47
+slug: cross-owner-dispatch-no-signal
 page-type-slug: finding
 title: "Cross owner dispatch no signal"
 domain-slug: domain/ops-cli

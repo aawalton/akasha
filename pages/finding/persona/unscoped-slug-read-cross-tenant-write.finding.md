@@ -1,5 +1,6 @@
 ---
 id: a9b2f3b0-5271-51f7-8e55-ec1f9b670df5
+slug: unscoped-slug-read-cross-tenant-write
 page-type-slug: finding
 title: "Unscoped slug read cross tenant write"
 domain-slug: page-type/persona

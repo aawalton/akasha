@@ -1,5 +1,6 @@
 ---
 id: fe57a792-3717-5cfb-9eb1-bdda67292328
+slug: history-is-the-flattest
 page-type-slug: finding
 title: "History is the flattest"
 domain-slug: persona/olwen

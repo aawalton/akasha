@@ -1,5 +1,6 @@
 ---
 id: 290bc28f-82c7-5139-b676-40a0d2c6c8cb
+slug: deploy-expectation-cost-step-recurs
 page-type-slug: finding
 title: "Deploy expectation cost step recurs"
 domain-slug: domain/pages-system

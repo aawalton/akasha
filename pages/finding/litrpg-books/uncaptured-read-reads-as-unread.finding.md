@@ -1,5 +1,6 @@
 ---
 id: 60ba4acc-e609-522c-bd7e-9ec10dd07f85
+slug: uncaptured-read-reads-as-unread
 page-type-slug: finding
 title: "Uncaptured read reads as unread"
 domain-slug: domain/litrpg-books

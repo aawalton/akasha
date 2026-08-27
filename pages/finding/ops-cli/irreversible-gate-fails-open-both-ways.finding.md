@@ -1,5 +1,6 @@
 ---
 id: fc9e7bf3-41be-537a-935b-43464f19e3c7
+slug: irreversible-gate-fails-open-both-ways
 page-type-slug: finding
 title: "Irreversible gate fails open both ways"
 domain-slug: domain/ops-cli

@@ -1,5 +1,6 @@
 ---
 id: cc246973-0471-5777-9d89-4e466f1b952e
+slug: link-slots-compile-away
 page-type-slug: finding
 title: "Link slots compile away"
 domain-slug: domain/pages-system

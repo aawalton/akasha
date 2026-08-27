@@ -1,5 +1,6 @@
 ---
 id: 2603f3f6-041f-514a-b3a2-aa3b3e4db78c
+slug: automation-decider-duplicated-unwired
 page-type-slug: finding
 title: "Automation decider duplicated unwired"
 domain-slug: domain/pages-system

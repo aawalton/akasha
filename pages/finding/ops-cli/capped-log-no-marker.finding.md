@@ -1,5 +1,6 @@
 ---
 id: e324c20e-5aa6-529c-90b6-12cd68310bf0
+slug: capped-log-no-marker
 page-type-slug: finding
 title: "Capped log no marker"
 domain-slug: domain/ops-cli

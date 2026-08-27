@@ -1,5 +1,6 @@
 ---
 id: ccadb6f7-4cbc-5464-9712-101d11b34e4f
+slug: written-widely-two-readings
 page-type-slug: finding
 title: "Written widely two readings"
 domain-slug: barred-meaning/jargon

@@ -1,5 +1,6 @@
 ---
 id: 4505ff7e-5237-5c4c-8a9c-b4b124e6464c
+slug: nesting-unchosen
 page-type-slug: finding
 title: "Nesting unchosen"
 domain-slug: page-type/page-property-type

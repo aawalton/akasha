@@ -1,5 +1,6 @@
 ---
 id: a9443d91-6c3a-52e3-b991-a1a3029c6c21
+slug: fixture-property-type-unchecked
 page-type-slug: finding
 title: "Fixture property type unchecked"
 domain-slug: domain/pages-system

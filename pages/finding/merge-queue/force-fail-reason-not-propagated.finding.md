@@ -1,5 +1,6 @@
 ---
 id: abf13e7e-9ec1-5e19-a18f-b85d8b7f486d
+slug: force-fail-reason-not-propagated
 page-type-slug: finding
 title: "Force fail reason not propagated"
 domain-slug: domain/global

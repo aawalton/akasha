@@ -1,5 +1,6 @@
 ---
 id: c5f3f471-99d2-5331-a97e-8de6aa531a7f
+slug: eject-tail-unmodelled
 page-type-slug: finding
 title: "Eject tail unmodelled"
 domain-slug: domain/global

@@ -1,5 +1,6 @@
 ---
 id: debd1942-e768-5800-a927-b03a667687cc
+slug: subagent-pin-lands-on-the-seat
 page-type-slug: finding
 title: "Subagent pin lands on the seat"
 domain-slug: barred-meaning/pin

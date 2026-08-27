@@ -1,5 +1,6 @@
 ---
 id: 7bc6de2b-d879-5f49-9ecf-bfcd3a912385
+slug: storage-tier-union-declared-six-times
 page-type-slug: finding
 title: "Storage tier union declared six times"
 domain-slug: domain/pages-system

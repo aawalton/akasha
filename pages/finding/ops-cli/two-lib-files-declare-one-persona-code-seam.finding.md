@@ -1,5 +1,6 @@
 ---
 id: e1a41689-c39d-5045-b388-2d281cd37fa7
+slug: two-lib-files-declare-one-persona-code-seam
 page-type-slug: finding
 title: "Two lib files declare one persona code seam"
 domain-slug: domain/ops-cli

@@ -1,5 +1,6 @@
 ---
 id: e8404803-0d96-53f0-9b4e-dbf9165e0df2
+slug: automation-loader-unscoped-unverified
 page-type-slug: finding
 title: "Automation loader unscoped unverified"
 domain-slug: domain/pages-system

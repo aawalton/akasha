@@ -1,5 +1,6 @@
 ---
 id: 1be53be1-2b43-5e78-a286-246c153a4398
+slug: stale-branch-reverts-guard
 page-type-slug: finding
 title: "Stale branch reverts guard"
 domain-slug: domain/global

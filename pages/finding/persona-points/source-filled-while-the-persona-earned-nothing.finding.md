@@ -1,5 +1,6 @@
 ---
 id: 40179b22-5341-5fda-b411-d9e00243f787
+slug: source-filled-while-the-persona-earned-nothing
 page-type-slug: finding
 title: "Source filled while the persona earned nothing"
 domain-slug: domain/persona-points

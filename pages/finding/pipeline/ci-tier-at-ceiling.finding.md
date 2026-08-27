@@ -1,5 +1,6 @@
 ---
 id: e4479c91-b513-5161-be3c-b9042dcc2f56
+slug: ci-tier-at-ceiling
 page-type-slug: finding
 title: "CI tier at ceiling"
 domain-slug: page-type/pipeline

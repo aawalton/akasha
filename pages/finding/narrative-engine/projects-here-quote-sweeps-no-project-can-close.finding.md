@@ -1,5 +1,6 @@
 ---
 id: c9e2c6bc-7da8-51ce-99ab-f324b8fbbb97
+slug: projects-here-quote-sweeps-no-project-can-close
 page-type-slug: finding
 title: "Projects here quote sweeps no project can close"
 domain-slug: domain/narrative-engine

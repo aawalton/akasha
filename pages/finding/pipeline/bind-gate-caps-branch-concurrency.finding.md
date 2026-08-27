@@ -1,5 +1,6 @@
 ---
 id: facd6de3-2d5f-5786-8450-cf849b6e9ef2
+slug: bind-gate-caps-branch-concurrency
 page-type-slug: finding
 title: "Bind gate caps branch concurrency"
 domain-slug: page-type/pipeline

@@ -1,5 +1,6 @@
 ---
 id: 5941de47-dcfd-5c13-8945-7a732348a1b2
+slug: calendar-sync-dry-run-counts-every-event-created
 page-type-slug: finding
 title: "Calendar sync dry run counts every event created"
 domain-slug: domain/ops-cli

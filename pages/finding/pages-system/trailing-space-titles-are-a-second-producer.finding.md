@@ -1,5 +1,6 @@
 ---
 id: e8a5b508-e5cc-5ad2-8f29-4ffa5ab9cc99
+slug: trailing-space-titles-are-a-second-producer
 page-type-slug: finding
 title: "Trailing space titles are a second producer"
 domain-slug: domain/pages-system

@@ -1,5 +1,6 @@
 ---
 id: a40baa78-5a6a-5ff9-8cb8-b7ee0eaa9d61
+slug: bulk-exemption-framed-as-caller-discipline
 page-type-slug: finding
 title: "Bulk exemption framed as caller discipline"
 domain-slug: domain/pages-system

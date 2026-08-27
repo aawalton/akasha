@@ -1,5 +1,6 @@
 ---
 id: 7602f6e0-e9b2-5e1b-8ad8-4abed834023c
+slug: ci-step-no-timeout-node04-oversubscribed
 page-type-slug: finding
 title: "CI step no timeout node04 oversubscribed"
 domain-slug: page-type/pipeline

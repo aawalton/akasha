@@ -1,5 +1,6 @@
 ---
 id: b0c8aa20-4168-5a4f-beaf-fefaac73d9b9
+slug: emptiness-settled-twice
 page-type-slug: finding
 title: "Emptiness settled twice"
 domain-slug: page-type/page-property-definition

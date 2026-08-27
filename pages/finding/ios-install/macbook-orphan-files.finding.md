@@ -1,5 +1,6 @@
 ---
 id: de2973f7-9cce-5850-9614-0593e53e21ae
+slug: macbook-orphan-files
 page-type-slug: finding
 title: "Macbook orphan files"
 domain-slug: domain/ios-install

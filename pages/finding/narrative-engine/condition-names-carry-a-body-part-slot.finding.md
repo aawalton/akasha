@@ -1,5 +1,6 @@
 ---
 id: 77b8e38b-9353-5a84-b0f2-0631af2eb64b
+slug: condition-names-carry-a-body-part-slot
 page-type-slug: finding
 title: "Condition names carry a body-part slot"
 domain-slug: domain/narrative-engine

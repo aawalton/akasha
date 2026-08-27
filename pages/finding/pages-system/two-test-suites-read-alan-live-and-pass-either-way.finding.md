@@ -1,5 +1,6 @@
 ---
 id: 2d7ef494-7d85-549a-ace8-9796afd1cc0e
+slug: two-test-suites-read-alan-live-and-pass-either-way
 page-type-slug: finding
 title: "Two test suites read Alan live and pass either way"
 domain-slug: domain/pages-system

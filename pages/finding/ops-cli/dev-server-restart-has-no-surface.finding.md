@@ -1,5 +1,6 @@
 ---
 id: ab92251c-de1e-5f11-bb38-67c7ca9d6d96
+slug: dev-server-restart-has-no-surface
 page-type-slug: finding
 title: "Dev server restart has no surface"
 domain-slug: domain/ops-cli

@@ -1,5 +1,6 @@
 ---
 id: 1778e182-31e3-5b54-98aa-d864f6a691ab
+slug: no-instrument-holds-the-ear
 page-type-slug: finding
 title: "No instrument holds the ear"
 domain-slug: domain/narrative-production

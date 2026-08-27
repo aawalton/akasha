@@ -1,5 +1,6 @@
 ---
 id: cc3a927f-5fc2-5729-9fa0-69bee5a29c72
+slug: package-move-oom
 page-type-slug: finding
 title: "Package move oom"
 domain-slug: domain/ops-cli

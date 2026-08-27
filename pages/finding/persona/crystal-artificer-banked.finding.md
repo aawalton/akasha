@@ -1,5 +1,6 @@
 ---
 id: f75a2a2b-6e77-5e9a-9b4b-6a68125e9243
+slug: crystal-artificer-banked
 page-type-slug: finding
 title: "Crystal artificer banked"
 domain-slug: page-type/persona

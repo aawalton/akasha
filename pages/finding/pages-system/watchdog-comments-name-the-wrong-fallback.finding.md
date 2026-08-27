@@ -1,5 +1,6 @@
 ---
 id: 3480de91-ae1e-5fdc-8262-647e937ba14f
+slug: watchdog-comments-name-the-wrong-fallback
 page-type-slug: finding
 title: "Watchdog comments name the wrong fallback"
 domain-slug: domain/pages-system

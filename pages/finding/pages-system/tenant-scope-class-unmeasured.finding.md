@@ -1,5 +1,6 @@
 ---
 id: 0c024f7a-3ea6-5d86-b02e-df9c2b1c0f84
+slug: tenant-scope-class-unmeasured
 page-type-slug: finding
 title: "Tenant scope class unmeasured"
 domain-slug: domain/pages-system

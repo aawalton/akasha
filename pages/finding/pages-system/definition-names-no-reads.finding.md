@@ -1,5 +1,6 @@
 ---
 id: 925c23f9-1309-591c-a9f2-b384ad449a28
+slug: definition-names-no-reads
 page-type-slug: finding
 title: "Definition names no reads"
 domain-slug: domain/pages-system

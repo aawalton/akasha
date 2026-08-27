@@ -1,5 +1,6 @@
 ---
 id: 90a8ac9b-a127-5c7d-b918-8ffb87046128
+slug: fog-boundary-provenance-gap
 page-type-slug: finding
 title: "Fog boundary provenance gap"
 domain-slug: domain/narrative-engine

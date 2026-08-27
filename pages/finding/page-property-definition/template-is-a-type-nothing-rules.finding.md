@@ -1,5 +1,6 @@
 ---
 id: 905fb931-3385-553f-b37b-fabc7f23930a
+slug: template-is-a-type-nothing-rules
 page-type-slug: finding
 title: "Template is a type nothing rules"
 domain-slug: page-type/page-property-definition

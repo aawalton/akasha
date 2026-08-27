@@ -1,5 +1,6 @@
 ---
 id: b3683539-18a8-5f6f-9266-0859e6a96c74
+slug: verdict-follows-cwd
 page-type-slug: finding
 title: "Verdict follows cwd"
 domain-slug: domain/global

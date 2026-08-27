@@ -1,5 +1,6 @@
 ---
 id: 040e74fc-39f0-573f-81e7-9b5c5e7b2867
+slug: white-lace-sister-hunt-paused
 page-type-slug: finding
 title: "White lace sister hunt paused"
 domain-slug: page-type/persona

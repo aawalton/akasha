@@ -1,5 +1,6 @@
 ---
 id: 5006e4f5-ca17-5676-9d97-16f4af8b71ca
+slug: persona-enumeration-unscoped-by-owner
 page-type-slug: finding
 title: "Persona enumeration unscoped by owner"
 domain-slug: domain/pages-system

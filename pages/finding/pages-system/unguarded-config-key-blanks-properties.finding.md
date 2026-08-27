@@ -1,5 +1,6 @@
 ---
 id: d2f32f6b-6f63-579d-9e55-30bcb2918254
+slug: unguarded-config-key-blanks-properties
 page-type-slug: finding
 title: "Unguarded config key blanks properties"
 domain-slug: domain/pages-system

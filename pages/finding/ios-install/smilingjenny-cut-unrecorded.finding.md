@@ -1,5 +1,6 @@
 ---
 id: dc5afe26-4c3a-53d4-879c-a58bd41898a2
+slug: smilingjenny-cut-unrecorded
 page-type-slug: finding
 title: "Smilingjenny cut unrecorded"
 domain-slug: domain/ios-install

@@ -1,5 +1,6 @@
 ---
 id: fd35b05d-2997-54cc-b076-a297f6897125
+slug: agent-and-agents-split-carries-no-meaning
 page-type-slug: finding
 title: "Agent and agents split carries no meaning"
 domain-slug: domain/ops-namespace

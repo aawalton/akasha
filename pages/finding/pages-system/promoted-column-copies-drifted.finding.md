@@ -1,5 +1,6 @@
 ---
 id: eb516f59-3c6c-5607-ad68-f5e3046bb330
+slug: promoted-column-copies-drifted
 page-type-slug: finding
 title: "Promoted column copies drifted"
 domain-slug: domain/pages-system

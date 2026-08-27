@@ -1,5 +1,6 @@
 ---
 id: 34964c58-aa8b-5034-823f-58aeb3546400
+slug: superseded-sha-gets-no-main-pipeline
 page-type-slug: finding
 title: "Superseded sha gets no main pipeline"
 domain-slug: page-type/pipeline

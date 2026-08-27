@@ -1,5 +1,6 @@
 ---
 id: 5c496859-93d1-5b20-9b46-ddb7a92d0d92
+slug: check-json-stale-worktree-zero
 page-type-slug: finding
 title: "Check JSON stale worktree zero"
 domain-slug: domain/ops-cli

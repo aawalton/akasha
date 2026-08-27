@@ -1,5 +1,6 @@
 ---
 id: e2e32ab2-2082-5ce0-bb7b-44b012dce1eb
+slug: pages-upsert-over-budget-per-call
 page-type-slug: finding
 title: "Pages upsert over budget per call"
 domain-slug: domain/pages-system

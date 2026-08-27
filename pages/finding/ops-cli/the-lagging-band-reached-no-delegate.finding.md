@@ -1,5 +1,6 @@
 ---
 id: abc9ca58-1906-5324-b002-b7e3bd113b4f
+slug: the-lagging-band-reached-no-delegate
 page-type-slug: finding
 title: "The lagging band reached no delegate"
 domain-slug: domain/ops-cli

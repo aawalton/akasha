@@ -1,5 +1,6 @@
 ---
 id: 6214a60c-1e12-50cd-b80a-539da61ffccd
+slug: authors-note-window-throws-unclassified
 page-type-slug: finding
 title: "Authors note window throws unclassified"
 domain-slug: domain/ops-cli

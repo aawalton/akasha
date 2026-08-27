@@ -1,5 +1,6 @@
 ---
 id: 2284975b-dd21-5805-8106-cf5604dd2e31
+slug: running-total-doubled-with-ops-persona-totals
 page-type-slug: finding
 title: "Running total doubled with ops persona totals"
 domain-slug: domain/persona-points

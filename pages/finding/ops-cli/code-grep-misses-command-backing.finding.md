@@ -1,5 +1,6 @@
 ---
 id: 59d19f86-dd3e-51ac-a392-f3f5d3545482
+slug: code-grep-misses-command-backing
 page-type-slug: finding
 title: "Code grep misses command backing"
 domain-slug: domain/ops-cli

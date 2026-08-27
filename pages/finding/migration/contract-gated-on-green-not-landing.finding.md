@@ -1,5 +1,6 @@
 ---
 id: 33717d50-b885-54f6-95a8-a666913635b3
+slug: contract-gated-on-green-not-landing
 page-type-slug: finding
 title: "Contract gated on green not landing"
 domain-slug: domain/global

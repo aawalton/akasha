@@ -1,5 +1,6 @@
 ---
 id: 01a02000-c71b-7004-b503-7563c7a61878
+slug: a-map-can-never-satisfy-its-declared-type-on-a-row
 page-type-slug: finding
 title: "A map can never satisfy its declared type on a row"
 domain-slug: domain/pages-system

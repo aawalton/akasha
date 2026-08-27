@@ -1,5 +1,6 @@
 ---
 id: 5214cb9d-6a7f-51e5-97cf-d9317e55e713
+slug: getpages-slug-omission-shape-only
 page-type-slug: finding
 title: "Getpages slug omission shape only"
 domain-slug: domain/pages-system

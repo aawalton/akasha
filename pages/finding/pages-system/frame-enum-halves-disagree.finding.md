@@ -1,5 +1,6 @@
 ---
 id: 08a89ff6-6590-56ca-a9d0-823fa144743e
+slug: frame-enum-halves-disagree
 page-type-slug: finding
 title: "Frame enum halves disagree"
 domain-slug: domain/pages-system

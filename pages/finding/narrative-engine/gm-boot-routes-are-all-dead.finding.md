@@ -1,5 +1,6 @@
 ---
 id: 0d706a1b-d25e-52cf-a62f-f715a484b4af
+slug: gm-boot-routes-are-all-dead
 page-type-slug: finding
 title: "Gm boot routes are all dead"
 domain-slug: domain/narrative-engine

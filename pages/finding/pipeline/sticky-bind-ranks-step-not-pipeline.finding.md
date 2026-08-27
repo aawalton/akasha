@@ -1,5 +1,6 @@
 ---
 id: 4caa7f79-d71c-5c15-9581-3fa7fa1ecf76
+slug: sticky-bind-ranks-step-not-pipeline
 page-type-slug: finding
 title: "Sticky bind ranks step not pipeline"
 domain-slug: page-type/pipeline

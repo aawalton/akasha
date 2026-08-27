@@ -1,5 +1,6 @@
 ---
 id: b7f707f2-a824-51c1-ad94-5e10aed5c1d4
+slug: narrows-slug-names-two-things
 page-type-slug: finding
 title: "Narrows slug names two things"
 domain-slug: page-type/page-property-definition

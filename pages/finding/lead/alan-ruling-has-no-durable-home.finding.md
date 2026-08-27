@@ -1,5 +1,6 @@
 ---
 id: eb365a68-d9eb-5a1c-92cb-56c569533d13
+slug: alan-ruling-has-no-durable-home
 page-type-slug: finding
 title: "Alan ruling has no durable home"
 domain-slug: domain/global

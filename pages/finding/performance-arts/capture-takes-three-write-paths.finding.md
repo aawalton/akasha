@@ -1,5 +1,6 @@
 ---
 id: 075a1dad-d047-5c76-955f-3d815934eab2
+slug: capture-takes-three-write-paths
 page-type-slug: finding
 title: "Capture takes three write paths"
 domain-slug: domain/performance-arts

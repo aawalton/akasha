@@ -1,5 +1,6 @@
 ---
 id: 8d0d0dfe-ced5-5d8b-8b96-3d0e5aa5e94d
+slug: nightly-sweep-verdict-unnamed
 page-type-slug: finding
 title: "Nightly sweep verdict unnamed"
 domain-slug: page-type/pipeline

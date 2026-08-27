@@ -1,5 +1,6 @@
 ---
 id: 368cad24-d7a2-5cb0-9f3f-57df5d351185
+slug: the-key-that-nothing-asks
 page-type-slug: finding
 title: "The key that nothing asks"
 domain-slug: domain/global

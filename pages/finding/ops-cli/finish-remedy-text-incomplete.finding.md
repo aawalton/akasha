@@ -1,5 +1,6 @@
 ---
 id: 392cbe0e-a42c-53f2-944a-81b03dd3b145
+slug: finish-remedy-text-incomplete
 page-type-slug: finding
 title: "Finish remedy text incomplete"
 domain-slug: domain/ops-cli

@@ -1,5 +1,6 @@
 ---
 id: 543e2eed-dd0c-5947-a2b7-dbdb43aa4171
+slug: backtick-content-executes-shell
 page-type-slug: finding
 title: "Backtick content executes shell"
 domain-slug: page-type/message

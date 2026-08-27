@@ -1,5 +1,6 @@
 ---
 id: 00aef74c-4ca0-5fc2-a01c-aed3d48cd96e
+slug: emotions-axis-never-written
 page-type-slug: finding
 title: "Emotions axis never written"
 domain-slug: domain/performance-arts

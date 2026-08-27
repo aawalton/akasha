@@ -1,5 +1,6 @@
 ---
 id: 405c05a1-5c67-54ed-bc26-3fa673a4348d
+slug: three-buckets-at-the-floor
 page-type-slug: finding
 title: "Three buckets at the floor"
 domain-slug: domain/object-store

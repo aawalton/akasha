@@ -1,5 +1,6 @@
 ---
 id: 8a325bbe-0fbe-55c9-89e9-347b74c1f2cb
+slug: single-axis-placement-comparator
 page-type-slug: finding
 title: "Single axis placement comparator"
 domain-slug: page-type/pipeline

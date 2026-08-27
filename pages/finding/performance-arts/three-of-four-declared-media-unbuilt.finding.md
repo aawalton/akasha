@@ -1,5 +1,6 @@
 ---
 id: e655811f-a22b-595c-82d0-5f74ab548108
+slug: three-of-four-declared-media-unbuilt
 page-type-slug: finding
 title: "Three of four declared media unbuilt"
 domain-slug: domain/performance-arts

@@ -1,5 +1,6 @@
 ---
 id: f2ffa0c0-6f4e-5be4-a714-62800922ba6b
+slug: twi-game-config-pending
 page-type-slug: finding
 title: "Twi game config pending"
 domain-slug: domain/narrative-engine

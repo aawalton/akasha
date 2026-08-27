@@ -1,5 +1,6 @@
 ---
 id: 4b20fff7-d1ff-5463-8c2a-a995b124bc4e
+slug: eso-node03-unbuilt
 page-type-slug: finding
 title: "Eso node03 unbuilt"
 domain-slug: domain/node

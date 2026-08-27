@@ -1,5 +1,6 @@
 ---
 id: 1a613434-106b-50e6-9ee3-764382462253
+slug: player-entity-watch-missed-13-days
 page-type-slug: finding
 title: "Player entity watch missed 13 days"
 domain-slug: domain/narrative-engine

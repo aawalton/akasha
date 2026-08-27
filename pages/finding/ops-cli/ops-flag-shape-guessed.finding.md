@@ -1,5 +1,6 @@
 ---
 id: 8be9103e-5927-53c1-b6e9-f2843643f614
+slug: ops-flag-shape-guessed
 page-type-slug: finding
 title: "Ops flag shape guessed"
 domain-slug: domain/ops-cli

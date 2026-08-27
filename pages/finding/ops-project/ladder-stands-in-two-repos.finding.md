@@ -1,5 +1,6 @@
 ---
 id: 24363777-8163-5fe1-897d-72fd570343d0
+slug: ladder-stands-in-two-repos
 page-type-slug: finding
 title: "Ladder stands in two repos"
 domain-slug: domain/global

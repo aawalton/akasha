@@ -1,5 +1,6 @@
 ---
 id: df087033-0aca-57aa-8230-7060b2ae0ebe
+slug: db-primary-node-single-failover-destination
 page-type-slug: finding
 title: "DB primary node single failover destination"
 domain-slug: domain/node

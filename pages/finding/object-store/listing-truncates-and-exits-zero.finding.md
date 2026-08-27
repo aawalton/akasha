@@ -1,5 +1,6 @@
 ---
 id: df0775b6-7386-56ad-a089-b3711987b7a4
+slug: listing-truncates-and-exits-zero
 page-type-slug: finding
 title: "Listing truncates and exits zero"
 domain-slug: domain/object-store

@@ -1,5 +1,6 @@
 ---
 id: 58627a64-e144-59a4-8ccd-11fb80f5f0f3
+slug: boundary-test-not-typechecked
 page-type-slug: finding
 title: "Boundary test not typechecked"
 domain-slug: domain/metric

@@ -1,5 +1,6 @@
 ---
 id: 0fc4c7e2-db18-55c0-a18b-59a04a93b012
+slug: compose-and-coherence-headers-miscount
 page-type-slug: finding
 title: "Compose and coherence headers miscount"
 domain-slug: domain/pages-system

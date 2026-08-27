@@ -1,5 +1,6 @@
 ---
 id: 277d7e06-7574-5945-b5c0-e25a9a229e04
+slug: craft-gate-blocks-publish-against-stated-ruling
 page-type-slug: finding
 title: "Craft gate blocks publish against stated ruling"
 domain-slug: domain/narrative-engine

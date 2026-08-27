@@ -1,5 +1,6 @@
 ---
 id: 53bc6eeb-ec9b-56e1-a8e5-d9e221c95353
+slug: sixteen-namespaces-have-no-subject-domain
 page-type-slug: finding
 title: "Sixteen namespaces have no subject domain"
 domain-slug: domain/ops-cli

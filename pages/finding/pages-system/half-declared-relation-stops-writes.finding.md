@@ -1,5 +1,6 @@
 ---
 id: bc6b0791-0e1d-5360-a89d-1f144cdac3bd
+slug: half-declared-relation-stops-writes
 page-type-slug: finding
 title: "Half declared relation stops writes"
 domain-slug: domain/pages-system

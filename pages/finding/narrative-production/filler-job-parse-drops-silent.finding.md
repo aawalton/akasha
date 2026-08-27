@@ -1,5 +1,6 @@
 ---
 id: 8dc4757b-ded6-5e20-98cf-426363156002
+slug: filler-job-parse-drops-silent
 page-type-slug: finding
 title: "Filler job parse drops silent"
 domain-slug: domain/narrative-production

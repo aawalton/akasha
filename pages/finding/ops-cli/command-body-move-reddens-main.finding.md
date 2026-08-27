@@ -1,5 +1,6 @@
 ---
 id: 8cbc0bb2-c1d6-548e-b455-bc48ab0462d5
+slug: command-body-move-reddens-main
 page-type-slug: finding
 title: "Command body move reddens main"
 domain-slug: domain/ops-cli

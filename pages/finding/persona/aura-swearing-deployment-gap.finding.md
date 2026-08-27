@@ -1,5 +1,6 @@
 ---
 id: c237dd6c-f152-57fb-9684-7aabdac742d5
+slug: aura-swearing-deployment-gap
 page-type-slug: finding
 title: "Aura swearing deployment gap"
 domain-slug: page-type/persona

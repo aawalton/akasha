@@ -1,5 +1,6 @@
 ---
 id: 6b005b5a-5cbb-520a-8794-7acee4473186
+slug: validator-unreachable-but-cited
 page-type-slug: finding
 title: "Validator unreachable but cited"
 domain-slug: domain/pages-system

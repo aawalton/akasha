@@ -1,5 +1,6 @@
 ---
 id: df389b2b-be7a-5595-ba89-2da0fbfc24d3
+slug: core-vocabulary-undeclared
 page-type-slug: finding
 title: "Core vocabulary undeclared"
 domain-slug: domain/pages-system

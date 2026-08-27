@@ -1,5 +1,6 @@
 ---
 id: e530e9ff-8ee5-5561-9d1b-93a524834b06
+slug: sms-send-names-its-credentials-in-prose-only
 page-type-slug: finding
 title: "Sms send names its credentials in prose only"
 domain-slug: domain/ops-cli

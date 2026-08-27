@@ -1,5 +1,6 @@
 ---
 id: e1d2eb1e-3127-556e-ae08-eb45ab9afc76
+slug: a-soft-deleted-page-type-row-is-not-a-preserved-one
 page-type-slug: finding
 title: "A soft-deleted page-type row is not a preserved one"
 domain-slug: domain/pages-system

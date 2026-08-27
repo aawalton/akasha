@@ -1,5 +1,6 @@
 ---
 id: 04de42a2-9ceb-5add-b056-74077a8febf9
+slug: flags-unparsed
 page-type-slug: finding
 title: "Flags unparsed"
 domain-slug: domain/global

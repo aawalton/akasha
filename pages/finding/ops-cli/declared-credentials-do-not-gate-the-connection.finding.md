@@ -1,5 +1,6 @@
 ---
 id: a1ef7001-3dac-5208-a9fd-91fc00cfef4b
+slug: declared-credentials-do-not-gate-the-connection
 page-type-slug: finding
 title: "Declared credentials do not gate the connection"
 domain-slug: domain/ops-cli

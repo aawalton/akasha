@@ -1,5 +1,6 @@
 ---
 id: 3d55c8d3-1a0a-5c5f-8c29-0d2e379e1c92
+slug: prose-not-moved-to-files
 page-type-slug: finding
 title: "Prose not moved to files"
 domain-slug: page-type/persona

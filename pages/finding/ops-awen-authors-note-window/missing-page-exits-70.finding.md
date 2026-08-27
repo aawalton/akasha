@@ -1,5 +1,6 @@
 ---
 id: 50ebbd7c-20ba-5da3-b1b3-59ccdb55ec77
+slug: missing-page-exits-70
 page-type-slug: finding
 title: "Missing page exits 70"
 domain-slug: domain/global

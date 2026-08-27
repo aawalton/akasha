@@ -1,5 +1,6 @@
 ---
 id: 391f1ee7-6c00-5e22-aaee-11aa631d4771
+slug: vanguard-rule-cannot-be-two-sided-yet
 page-type-slug: finding
 title: "Vanguard rule cannot be two sided yet"
 domain-slug: page-type/monarch-category

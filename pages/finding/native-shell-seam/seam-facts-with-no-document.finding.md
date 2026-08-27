@@ -1,5 +1,6 @@
 ---
 id: 11e058d6-c8ea-575a-b005-aaa2945f3235
+slug: seam-facts-with-no-document
 page-type-slug: finding
 title: "Seam facts with no document"
 domain-slug: domain/native-shell-seam

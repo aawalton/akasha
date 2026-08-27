@@ -1,5 +1,6 @@
 ---
 id: 2874601f-7d5b-5a02-a0a0-9baae086673b
+slug: slow-suite-break-misattributed
 page-type-slug: finding
 title: "Slow suite break misattributed"
 domain-slug: page-type/pipeline

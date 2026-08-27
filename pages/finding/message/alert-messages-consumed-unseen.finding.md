@@ -1,5 +1,6 @@
 ---
 id: 75035ee4-5c81-5035-9fbc-41ad8b3ca7ff
+slug: alert-messages-consumed-unseen
 page-type-slug: finding
 title: "Alert messages consumed unseen"
 domain-slug: page-type/message

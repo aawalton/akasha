@@ -1,5 +1,6 @@
 ---
 id: c2f28538-0b2e-5511-97a2-7540d38274bc
+slug: declared-words-run-second-senses
 page-type-slug: finding
 title: "Declared words run second senses"
 domain-slug: barred-meaning/jargon

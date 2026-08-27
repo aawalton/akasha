@@ -1,5 +1,6 @@
 ---
 id: 5b30b1de-6861-5ed4-a861-0c8aec56e50c
+slug: dispatchable-terms-decoupled
 page-type-slug: finding
 title: "Dispatchable terms decoupled"
 domain-slug: domain/global

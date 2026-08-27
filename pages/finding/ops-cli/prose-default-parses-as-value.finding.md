@@ -1,5 +1,6 @@
 ---
 id: aa9c95fc-4646-5a58-827a-1caabf32c345
+slug: prose-default-parses-as-value
 page-type-slug: finding
 title: "Prose default parses as value"
 domain-slug: domain/ops-cli

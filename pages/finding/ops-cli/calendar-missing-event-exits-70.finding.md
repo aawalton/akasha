@@ -1,5 +1,6 @@
 ---
 id: 7e213460-d7ee-53b5-91bd-ce867275bb0c
+slug: calendar-missing-event-exits-70
 page-type-slug: finding
 title: "Calendar missing event exits 70"
 domain-slug: domain/ops-cli

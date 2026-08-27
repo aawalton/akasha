@@ -1,5 +1,6 @@
 ---
 id: 167f7980-398e-5ddb-ab2a-609c7df28048
+slug: bisection-sub-batch-permanent-wedge
 page-type-slug: finding
 title: "Bisection sub batch permanent wedge"
 domain-slug: domain/global

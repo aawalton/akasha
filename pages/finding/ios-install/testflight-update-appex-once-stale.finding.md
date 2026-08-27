@@ -1,5 +1,6 @@
 ---
 id: f84557bf-d397-5109-924d-f3e7b27d3810
+slug: testflight-update-appex-once-stale
 page-type-slug: finding
 title: "Testflight update appex once stale"
 domain-slug: domain/ios-install

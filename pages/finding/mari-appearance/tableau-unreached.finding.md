@@ -1,5 +1,6 @@
 ---
 id: f74be789-5f93-5abe-926f-0f43ebfadc36
+slug: tableau-unreached
 page-type-slug: finding
 title: "Tableau unreached"
 domain-slug: persona-appearance/mari-appearance

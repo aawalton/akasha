@@ -1,5 +1,6 @@
 ---
 id: 696e141a-f4d4-5fea-90df-f8cca81b28e9
+slug: phantom-patch-variant-comment
 page-type-slug: finding
 title: "Phantom patch variant comment"
 domain-slug: domain/pages-system

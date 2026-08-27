@@ -1,5 +1,6 @@
 ---
 id: 801c98a9-3bbf-5907-9785-6dac1ac3dcb5
+slug: points-source-timestamp-only
 page-type-slug: finding
 title: "Points source timestamp only"
 domain-slug: page-type/persona-points-source

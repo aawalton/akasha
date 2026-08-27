@@ -1,5 +1,6 @@
 ---
 id: 0cbdf8fe-2f45-5197-a8ec-a843bcd80085
+slug: tower-boot-states-brackets-both-ways
 page-type-slug: finding
 title: "Tower boot states brackets both ways"
 domain-slug: domain/narrative-engine

@@ -1,5 +1,6 @@
 ---
 id: d4ace431-9756-560a-9be3-c67a31305626
+slug: ui-store-parity-test-cited-does-not-exist
 page-type-slug: finding
 title: "UI store parity test cited does not exist"
 domain-slug: domain/pages-system

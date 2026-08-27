@@ -1,5 +1,6 @@
 ---
 id: 5899d3fc-0681-58fa-a972-73a798fd930b
+slug: jq-length-envelope-key-count
 page-type-slug: finding
 title: "Jq length envelope key count"
 domain-slug: domain/ops-cli

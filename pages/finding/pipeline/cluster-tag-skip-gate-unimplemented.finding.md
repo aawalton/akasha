@@ -1,5 +1,6 @@
 ---
 id: fa46c673-6f5a-5fe3-b092-786c1e50a559
+slug: cluster-tag-skip-gate-unimplemented
 page-type-slug: finding
 title: "Cluster tag skip gate unimplemented"
 domain-slug: page-type/pipeline

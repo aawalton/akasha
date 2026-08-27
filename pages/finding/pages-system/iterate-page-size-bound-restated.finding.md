@@ -1,5 +1,6 @@
 ---
 id: eef83375-e854-5ad8-9e7e-2bb173275127
+slug: iterate-page-size-bound-restated
 page-type-slug: finding
 title: "Iterate page size bound restated"
 domain-slug: domain/pages-system

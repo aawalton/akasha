@@ -1,5 +1,6 @@
 ---
 id: 4676efb9-0388-5e2d-af34-cfcdc48153a1
+slug: dev-server-start-names-next-js
 page-type-slug: finding
 title: "Dev server start names next js"
 domain-slug: domain/ops-cli

@@ -1,5 +1,6 @@
 ---
 id: d8498136-cd25-5cb8-bbf5-e9872b292b22
+slug: dev-server-app-list-names-two-of-five
 page-type-slug: finding
 title: "Dev server app list names two of five"
 domain-slug: domain/ops-cli

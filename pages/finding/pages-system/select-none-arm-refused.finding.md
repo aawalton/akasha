@@ -1,5 +1,6 @@
 ---
 id: 3292b37b-9bf9-5a23-aaef-d7156af092c6
+slug: select-none-arm-refused
 page-type-slug: finding
 title: "Select none arm refused"
 domain-slug: domain/pages-system

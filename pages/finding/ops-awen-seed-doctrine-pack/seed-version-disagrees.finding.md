@@ -1,5 +1,6 @@
 ---
 id: 796e2378-a46e-5508-9657-d166a775e94b
+slug: seed-version-disagrees
 page-type-slug: finding
 title: "Seed version disagrees"
 domain-slug: domain/global

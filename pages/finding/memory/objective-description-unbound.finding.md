@@ -1,5 +1,6 @@
 ---
 id: 833526fc-5865-5563-bfeb-fbd01f953263
+slug: objective-description-unbound
 page-type-slug: finding
 title: "Objective description unbound"
 domain-slug: domain/global

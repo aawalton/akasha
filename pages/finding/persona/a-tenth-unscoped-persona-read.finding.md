@@ -1,5 +1,6 @@
 ---
 id: 41954d81-4347-5996-a915-2c096ee00275
+slug: a-tenth-unscoped-persona-read
 page-type-slug: finding
 title: "A tenth unscoped persona read"
 domain-slug: page-type/persona

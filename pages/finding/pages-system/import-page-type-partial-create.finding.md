@@ -1,5 +1,6 @@
 ---
 id: e328c2aa-a052-592a-8f1f-0f4053689e57
+slug: import-page-type-partial-create
 page-type-slug: finding
 title: "Import page type partial create"
 domain-slug: domain/pages-system

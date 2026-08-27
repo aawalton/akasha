@@ -1,5 +1,6 @@
 ---
 id: d6aaa237-3b28-5c90-8547-a70362cc2daa
+slug: moved-parse-shifts-refusal-code
 page-type-slug: finding
 title: "Moved parse shifts refusal code"
 domain-slug: domain/ops-cli

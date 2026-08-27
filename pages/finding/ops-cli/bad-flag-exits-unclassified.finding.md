@@ -1,5 +1,6 @@
 ---
 id: eb229414-ffcd-5ef4-b074-dbc746001757
+slug: bad-flag-exits-unclassified
 page-type-slug: finding
 title: "Bad flag exits unclassified"
 domain-slug: domain/ops-cli

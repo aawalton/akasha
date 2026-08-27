@@ -1,5 +1,6 @@
 ---
 id: 0b1a44f4-2015-5779-94c9-4a1532132618
+slug: illustration-ships-ungated
 page-type-slug: finding
 title: "Illustration ships ungated"
 domain-slug: domain/narrative-production

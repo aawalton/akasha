@@ -1,5 +1,6 @@
 ---
 id: 2b2910a6-f020-52d9-accd-488231337def
+slug: rbac-kubectl-scripts-unregistered
 page-type-slug: finding
 title: "Rbac kubectl scripts unregistered"
 domain-slug: page-type/pipeline

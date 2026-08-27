@@ -1,5 +1,6 @@
 ---
 id: 66862b6c-db2b-5c14-93bb-a1e4aa7db97c
+slug: olwen-build-paused-voice
 page-type-slug: finding
 title: "Olwen build paused voice"
 domain-slug: page-type/persona

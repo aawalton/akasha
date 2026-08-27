@@ -1,5 +1,6 @@
 ---
 id: a1ade8f3-9814-564a-bfdf-01e18fa468e4
+slug: stamp-last-messaged-waits-forever-on-open-stdin
 page-type-slug: finding
 title: "Stamp last messaged waits forever on open stdin"
 domain-slug: domain/ops-cli

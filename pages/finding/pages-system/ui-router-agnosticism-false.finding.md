@@ -1,5 +1,6 @@
 ---
 id: a0146149-58ee-5ff4-93bb-7fe0f816c2e4
+slug: ui-router-agnosticism-false
 page-type-slug: finding
 title: "UI router agnosticism false"
 domain-slug: domain/pages-system

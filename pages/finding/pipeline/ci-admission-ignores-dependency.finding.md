@@ -1,5 +1,6 @@
 ---
 id: 11678542-5ef9-5226-b4a3-dcfaf2cd1383
+slug: ci-admission-ignores-dependency
 page-type-slug: finding
 title: "CI admission ignores dependency"
 domain-slug: page-type/pipeline

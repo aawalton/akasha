@@ -1,5 +1,6 @@
 ---
 id: b2a53734-db63-59a8-9e64-dd2058c26379
+slug: what-still-reaches-the-database-pages-system
 page-type-slug: finding
 title: "What still reaches the database pages system"
 domain-slug: domain/pages-system

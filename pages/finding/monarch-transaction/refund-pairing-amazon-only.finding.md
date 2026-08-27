@@ -1,5 +1,6 @@
 ---
 id: 2ec06270-3286-51dd-97a3-898085d6d333
+slug: refund-pairing-amazon-only
 page-type-slug: finding
 title: "Refund pairing amazon only"
 domain-slug: page-type/monarch-transaction

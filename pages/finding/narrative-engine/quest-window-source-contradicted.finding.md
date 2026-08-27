@@ -1,5 +1,6 @@
 ---
 id: 5ad76a3f-f9e7-523e-a989-3b91f30a7b98
+slug: quest-window-source-contradicted
 page-type-slug: finding
 title: "Quest window source contradicted"
 domain-slug: domain/narrative-engine

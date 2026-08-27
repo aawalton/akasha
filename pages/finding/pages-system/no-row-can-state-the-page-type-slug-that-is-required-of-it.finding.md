@@ -1,5 +1,6 @@
 ---
 id: 01a02000-c71b-7001-b2fc-fc65998a317e
+slug: no-row-can-state-the-page-type-slug-that-is-required-of-it
 page-type-slug: finding
 title: "No row can state the page type slug that is required of it"
 domain-slug: domain/pages-system

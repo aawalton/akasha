@@ -1,5 +1,6 @@
 ---
 id: d3040f23-ad4c-555e-8070-6a73bff9b22c
+slug: dispatcher-doc-names-wrong-loader
 page-type-slug: finding
 title: "Dispatcher doc names wrong loader"
 domain-slug: page-type/pipeline

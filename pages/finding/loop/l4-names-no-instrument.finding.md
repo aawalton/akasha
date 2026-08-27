@@ -1,5 +1,6 @@
 ---
 id: 64d8cad6-f5e1-5854-9687-0ba6d7b9973b
+slug: l4-names-no-instrument
 page-type-slug: finding
 title: "L4 names no instrument"
 domain-slug: domain/global

@@ -1,5 +1,6 @@
 ---
 id: 64625a32-1c6c-5521-aabe-86cd95fc0b11
+slug: git-guard-substitution-bypass
 page-type-slug: finding
 title: "Git guard substitution bypass"
 domain-slug: page-type/message

@@ -1,5 +1,6 @@
 ---
 id: 9431ddc0-a4ee-504f-8c3f-b8ce8c7b61ed
+slug: ls-tree-missing-z-quoting-drops-nodes
 page-type-slug: finding
 title: "Ls tree missing z quoting drops nodes"
 domain-slug: domain/main-pipeline

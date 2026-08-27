@@ -1,5 +1,6 @@
 ---
 id: 6a4a7f89-7c13-51dc-b304-b7bb15774fb2
+slug: tests-reach-the-live-corpus-with-no-configuration
 page-type-slug: finding
 title: "Tests reach the live corpus with no configuration"
 domain-slug: domain/pages-system

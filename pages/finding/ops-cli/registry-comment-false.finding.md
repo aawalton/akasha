@@ -1,5 +1,6 @@
 ---
 id: a8dfe5e0-3f3b-52b3-b32e-153d26dc16cb
+slug: registry-comment-false
 page-type-slug: finding
 title: "Registry comment false"
 domain-slug: domain/ops-cli

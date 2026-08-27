@@ -1,5 +1,6 @@
 ---
 id: 521bc7de-739e-5aaf-bb01-e3c9201b3236
+slug: patch-projection-precedes-compose
 page-type-slug: finding
 title: "Patch projection precedes compose"
 domain-slug: domain/pages-system

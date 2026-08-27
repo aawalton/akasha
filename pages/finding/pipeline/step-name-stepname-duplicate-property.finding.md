@@ -1,5 +1,6 @@
 ---
 id: e7072471-8f0a-5e1f-92a8-993a3dc331a6
+slug: step-name-stepname-duplicate-property
 page-type-slug: finding
 title: "Step name stepname duplicate property"
 domain-slug: page-type/pipeline

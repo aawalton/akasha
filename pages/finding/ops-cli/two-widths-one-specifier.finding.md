@@ -1,5 +1,6 @@
 ---
 id: acb49d34-424e-5f83-893c-0f5a9de560ec
+slug: two-widths-one-specifier
 page-type-slug: finding
 title: "Two widths one specifier"
 domain-slug: domain/ops-cli

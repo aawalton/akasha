@@ -1,5 +1,6 @@
 ---
 id: b8a8c633-36c8-5f24-8f51-e5b82c77d4e2
+slug: mode-refusal-unreachable
 page-type-slug: finding
 title: "Mode refusal unreachable"
 domain-slug: domain/global

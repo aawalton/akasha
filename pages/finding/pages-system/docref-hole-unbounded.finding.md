@@ -1,5 +1,6 @@
 ---
 id: 3b1bd51f-046e-572b-ace8-0302b1ccdd99
+slug: docref-hole-unbounded
 page-type-slug: finding
 title: "Docref hole unbounded"
 domain-slug: domain/pages-system

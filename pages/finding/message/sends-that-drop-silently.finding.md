@@ -1,5 +1,6 @@
 ---
 id: d9cad57e-7823-5629-bd21-4c8ebbab6665
+slug: sends-that-drop-silently
 page-type-slug: finding
 title: "Sends that drop silently"
 domain-slug: page-type/message

@@ -1,5 +1,6 @@
 ---
 id: f597c4d5-1804-5d4f-94a0-abb51ffda8e5
+slug: piped-truncation-no-tell
 page-type-slug: finding
 title: "Piped truncation no tell"
 domain-slug: domain/ops-cli

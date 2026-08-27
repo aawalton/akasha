@@ -1,5 +1,6 @@
 ---
 id: 2af6b258-460c-5a5d-ab24-676decccba59
+slug: advisory-has-no-true-positives
 page-type-slug: finding
 title: "Advisory has no true positives"
 domain-slug: barred-meaning/jargon

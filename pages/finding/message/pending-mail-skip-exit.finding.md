@@ -1,5 +1,6 @@
 ---
 id: ca4de565-0cb4-53ef-be73-17393bc2344e
+slug: pending-mail-skip-exit
 page-type-slug: finding
 title: "Pending mail skip exit"
 domain-slug: page-type/message

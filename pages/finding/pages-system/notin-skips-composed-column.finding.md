@@ -1,5 +1,6 @@
 ---
 id: 09e4699e-c645-5062-9e72-b0fe664a0c1c
+slug: notin-skips-composed-column
 page-type-slug: finding
 title: "Notin skips composed column"
 domain-slug: domain/pages-system

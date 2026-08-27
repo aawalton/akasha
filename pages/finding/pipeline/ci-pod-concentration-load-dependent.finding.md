@@ -1,5 +1,6 @@
 ---
 id: 322b9cb1-0421-58d2-95dd-ffd8f136af42
+slug: ci-pod-concentration-load-dependent
 page-type-slug: finding
 title: "CI pod concentration load dependent"
 domain-slug: page-type/pipeline

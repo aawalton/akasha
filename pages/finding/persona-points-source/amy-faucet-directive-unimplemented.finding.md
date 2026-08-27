@@ -1,5 +1,6 @@
 ---
 id: 59f46ed1-a5fe-5dd4-a781-7ab8adf753a4
+slug: amy-faucet-directive-unimplemented
 page-type-slug: finding
 title: "Amy faucet directive unimplemented"
 domain-slug: page-type/persona-points-source

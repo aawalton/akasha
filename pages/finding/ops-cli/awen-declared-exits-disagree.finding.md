@@ -1,5 +1,6 @@
 ---
 id: 74accae4-babe-54a7-8bf4-9d3003e8717e
+slug: awen-declared-exits-disagree
 page-type-slug: finding
 title: "Awen declared exits disagree"
 domain-slug: domain/ops-cli

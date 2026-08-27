@@ -1,5 +1,6 @@
 ---
 id: 931938f5-b967-51e2-8ce2-a6163cec0787
+slug: approval-not-recorded-on-the-row
 page-type-slug: finding
 title: "Approval not recorded on the row"
 domain-slug: domain/person-authority-feature-approval

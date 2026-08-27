@@ -1,5 +1,6 @@
 ---
 id: af1513e8-37f0-5651-b3c1-84cabd5f14bd
+slug: row-contradicts-alans-steer-on-who-reads-first
 page-type-slug: finding
 title: "Row contradicts alans steer on who reads first"
 domain-slug: domain/performance-arts

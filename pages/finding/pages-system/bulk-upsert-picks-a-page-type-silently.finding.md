@@ -1,5 +1,6 @@
 ---
 id: 0da8655f-2dcb-5d7b-80e8-2f108e1687d8
+slug: bulk-upsert-picks-a-page-type-silently
 page-type-slug: finding
 title: "Bulk upsert picks a page type silently"
 domain-slug: domain/pages-system

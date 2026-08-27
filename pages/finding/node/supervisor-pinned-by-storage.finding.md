@@ -1,5 +1,6 @@
 ---
 id: 851aea51-a8ef-506d-8feb-2f096490f22c
+slug: supervisor-pinned-by-storage
 page-type-slug: finding
 title: "Supervisor pinned by storage"
 domain-slug: domain/node
