@@ -1,0 +1,9 @@
+{
+  "base_image": "alpine:3.20.6",
+  "external_donors": [
+    { "name": "donor", "image": "bitnami/kubectl@sha256:6e2cdb22d6ab7264ea198c717f555e30536b54029d26c8781b9f25f78951b564" }
+  ],
+  "system_packages": ["git", "gettext"],
+  "extra_run_commands": ["COPY --from=donor /opt/bitnami/kubectl/bin/kubectl /usr/local/bin/kubectl"],
+  "output_filename": "Dockerfile.kubectl"
+}
