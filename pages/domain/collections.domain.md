@@ -3,7 +3,7 @@ id: dadc3e3b-6b32-5304-8613-b593b38cbaae
 page-type-slug: domain
 title: "Collections"
 slug: collections
-domain-parent-slug: repo/code-repo
+domain-parent-slug: domain/alan-harness
 persona-champion-slug: elin
 ---
 

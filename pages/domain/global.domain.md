@@ -14,6 +14,7 @@ sequence-slugs:
   - domain/person-harness
   - domain/agent-harness
   - domain/change-harness
+  - domain/design-system
   - domain/technology
   - domain/infrastructure
   - domain/products
