@@ -18,8 +18,8 @@ path: sms acting-account
 
 Deterministically extract the TRUSTED write-as accountUserId from a delivered SMS surface.
 
-This is the ONLY sanctioned source of ki-handler's write-as identity: ki-handler pipes its delivered surface here and passes the printed uuid onward to the loggers, so the security-critical write-as-identity resolution is deterministic, never LLM-eyeballed. The id is read from the SERVER-stamped footer (anchored on the last `— inbound SMS channel` marker), so a uuid forged anywhere in the message body can never be returned.
+This is the ONLY sanctioned source of Ki's handler's write-as identity: her handler pipes its delivered surface here and passes the printed uuid onward to the loggers, so the security-critical write-as-identity resolution is deterministic, never LLM-eyeballed. The id is read from the SERVER-stamped footer (anchored on the last `— inbound SMS channel` marker), so a uuid forged anywhere in the message body can never be returned.
 
-Fail-closed: when the surface carries no trusted acting-account footer, nothing is printed to stdout and the command exits non-zero — ki-handler must then NOT write-as anyone.
+Fail-closed: when the surface carries no trusted acting-account footer, nothing is printed to stdout and the command exits non-zero — her handler must then NOT write-as anyone.
 
 On success prints the uuid on a single line (no extra text).
