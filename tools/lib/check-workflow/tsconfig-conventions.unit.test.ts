@@ -18,7 +18,7 @@ const CANONICAL_COMPILER_OPTIONS: Record<string, unknown> = {
 }
 
 const CANONICAL_TSCONFIG: Record<string, unknown> = {
-  extends: "../../../tsconfig.base.json",
+  extends: "../../tsconfig.base.json",
   compilerOptions: CANONICAL_COMPILER_OPTIONS,
   include: ["src/**/*.ts"],
 }
@@ -37,7 +37,7 @@ function withTsconfig(overrides: TsconfigOverrides = {}): Record<string, unknown
     ...(overrides.compilerOptions ?? {}),
   }
   const result: Record<string, unknown> = {
-    extends: "extends" in overrides ? overrides.extends : "../../../tsconfig.base.json",
+    extends: "extends" in overrides ? overrides.extends : "../../tsconfig.base.json",
     compilerOptions,
     include: "include" in overrides ? overrides.include : ["src/**/*.ts"],
   }
@@ -63,7 +63,7 @@ describe("evaluateTsconfigConventions — canonical input passes for every type"
   for (const t of TYPES_FOR_CANONICAL_TEST) {
     test(`canonical tsconfig produces zero violations for ${t}`, () => {
       const out = evaluateTsconfigConventions({
-        workspace: `packages/x/${t}`,
+        workspace: `x/${t}`,
         tsconfig: CANONICAL_TSCONFIG,
         functionalType: t,
         drains: EMPTY_DRAINS,
@@ -76,7 +76,7 @@ describe("evaluateTsconfigConventions — canonical input passes for every type"
 describe("Rule 1 — extends tsconfig.base.json", () => {
   test("missing extends triggers `extends` for non-addon types", () => {
     const out = evaluateTsconfigConventions({
-      workspace: "packages/x/core",
+      workspace: "x/core",
       tsconfig: withTsconfig({ extends: undefined }),
       functionalType: "pure",
       drains: EMPTY_DRAINS,
@@ -86,8 +86,8 @@ describe("Rule 1 — extends tsconfig.base.json", () => {
 
   test("extends some-other-base.json triggers `extends`", () => {
     const out = evaluateTsconfigConventions({
-      workspace: "packages/x/core",
-      tsconfig: withTsconfig({ extends: "../../../tsconfig.weird.json" }),
+      workspace: "x/core",
+      tsconfig: withTsconfig({ extends: "../../tsconfig.weird.json" }),
       functionalType: "pure",
       drains: EMPTY_DRAINS,
     })
@@ -96,7 +96,7 @@ describe("Rule 1 — extends tsconfig.base.json", () => {
 
   test("addon is exempt from the extends rule even with no extends", () => {
     const out = evaluateTsconfigConventions({
-      workspace: "packages/x/addon",
+      workspace: "x/addon",
       tsconfig: { compilerOptions: { target: "esnext" }, include: ["src/**/*.ts"] },
       functionalType: "addon",
       drains: EMPTY_DRAINS,
@@ -106,7 +106,7 @@ describe("Rule 1 — extends tsconfig.base.json", () => {
 
   test("path ending in tsconfig.base.json passes regardless of prefix", () => {
     const out = evaluateTsconfigConventions({
-      workspace: "packages/x/core",
+      workspace: "x/core",
       tsconfig: withTsconfig({ extends: "../addons/tsconfig.base.json" }),
       functionalType: "pure",
       drains: EMPTY_DRAINS,
@@ -118,7 +118,7 @@ describe("Rule 1 — extends tsconfig.base.json", () => {
 describe("Rule 2 — composite: true", () => {
   test("missing composite triggers `composite` for library types", () => {
     const out = evaluateTsconfigConventions({
-      workspace: "packages/x/core",
+      workspace: "x/core",
       tsconfig: withTsconfig({ compilerOptions: { composite: undefined } }),
       functionalType: "pure",
       drains: EMPTY_DRAINS,
@@ -129,7 +129,7 @@ describe("Rule 2 — composite: true", () => {
   test("missing composite triggers `composite` for service / worker / program", () => {
     for (const t of ["service", "worker", "program"] as const) {
       const out = evaluateTsconfigConventions({
-        workspace: `packages/x/${t}`,
+        workspace: `x/${t}`,
         tsconfig: withTsconfig({ compilerOptions: { composite: undefined } }),
         functionalType: t,
         drains: EMPTY_DRAINS,
@@ -140,7 +140,7 @@ describe("Rule 2 — composite: true", () => {
 
   test("next-app is exempt — missing composite does not trigger", () => {
     const out = evaluateTsconfigConventions({
-      workspace: "packages/x/next",
+      workspace: "x/next",
       tsconfig: withTsconfig({ compilerOptions: { composite: undefined } }),
       functionalType: "next-app",
       drains: EMPTY_DRAINS,
@@ -150,7 +150,7 @@ describe("Rule 2 — composite: true", () => {
 
   test("addon is exempt — missing composite does not trigger", () => {
     const out = evaluateTsconfigConventions({
-      workspace: "packages/x/addon",
+      workspace: "x/addon",
       tsconfig: { compilerOptions: { target: "esnext" }, include: ["src/**/*.ts"] },
       functionalType: "addon",
       drains: EMPTY_DRAINS,
@@ -162,7 +162,7 @@ describe("Rule 2 — composite: true", () => {
 describe("Rule 3 — emitDeclarationOnly: true", () => {
   test("missing emitDeclarationOnly triggers `emitDeclarationOnly` for library types", () => {
     const out = evaluateTsconfigConventions({
-      workspace: "packages/x/core",
+      workspace: "x/core",
       tsconfig: withTsconfig({ compilerOptions: { emitDeclarationOnly: undefined } }),
       functionalType: "pure",
       drains: EMPTY_DRAINS,
@@ -174,7 +174,7 @@ describe("Rule 3 — emitDeclarationOnly: true", () => {
     const tsconfig = withTsconfig({ compilerOptions: { emitDeclarationOnly: undefined } })
     for (const t of ["next-app", "addon"] as const) {
       const out = evaluateTsconfigConventions({
-        workspace: `packages/x/${t}`,
+        workspace: `x/${t}`,
         tsconfig,
         functionalType: t,
         drains: EMPTY_DRAINS,
@@ -187,7 +187,7 @@ describe("Rule 3 — emitDeclarationOnly: true", () => {
 describe("Rule 4 — no allowImportingTsExtensions", () => {
   test("allowImportingTsExtensions: true triggers the rule", () => {
     const out = evaluateTsconfigConventions({
-      workspace: "packages/x/core",
+      workspace: "x/core",
       tsconfig: withTsconfig({ compilerOptions: { allowImportingTsExtensions: true } }),
       functionalType: "pure",
       drains: EMPTY_DRAINS,
@@ -197,12 +197,12 @@ describe("Rule 4 — no allowImportingTsExtensions", () => {
 
   test("drain allowlist suppresses the rule", () => {
     const out = evaluateTsconfigConventions({
-      workspace: "packages/x/core",
+      workspace: "x/core",
       tsconfig: withTsconfig({ compilerOptions: { allowImportingTsExtensions: true } }),
       functionalType: "pure",
       drains: {
         nonCanonicalInclude: new Set(),
-        allowImportingTsExtensions: new Set(["packages/x/core"]),
+        allowImportingTsExtensions: new Set(["x/core"]),
       },
     })
     expect(rules(out)).not.toContain("allowImportingTsExtensions")
@@ -212,7 +212,7 @@ describe("Rule 4 — no allowImportingTsExtensions", () => {
 describe("Rule 8 — no compilerOptions.outDir (library types only)", () => {
   test("outDir on a library type triggers `noOutDir`", () => {
     const out = evaluateTsconfigConventions({
-      workspace: "packages/x/core",
+      workspace: "x/core",
       tsconfig: withTsconfig({ compilerOptions: { outDir: "dist" } }),
       functionalType: "pure",
       drains: EMPTY_DRAINS,
@@ -223,7 +223,7 @@ describe("Rule 8 — no compilerOptions.outDir (library types only)", () => {
   test("outDir on a runtime type does NOT trigger (rule is library-scoped)", () => {
     for (const t of ["service", "worker", "program", "next-app", "addon"] as const) {
       const out = evaluateTsconfigConventions({
-        workspace: `packages/x/${t}`,
+        workspace: `x/${t}`,
         tsconfig: withTsconfig({ compilerOptions: { outDir: "dist" } }),
         functionalType: t,
         drains: EMPTY_DRAINS,
@@ -234,7 +234,7 @@ describe("Rule 8 — no compilerOptions.outDir (library types only)", () => {
 
   test("TSTL bundlers (top-level tstl field) are exempt from the underlying validator", () => {
     const out = evaluateTsconfigConventions({
-      workspace: "packages/x/core",
+      workspace: "x/core",
       tsconfig: withTsconfig({ compilerOptions: { outDir: "dist" }, tstl: {} }),
       functionalType: "pure",
       drains: EMPTY_DRAINS,
@@ -246,7 +246,7 @@ describe("Rule 8 — no compilerOptions.outDir (library types only)", () => {
 describe("Rule 9 — canonical include shape (library types only)", () => {
   test("non-canonical include on a library type triggers `sourceLayout`", () => {
     const out = evaluateTsconfigConventions({
-      workspace: "packages/x/core",
+      workspace: "x/core",
       tsconfig: withTsconfig({ include: ["src", "scripts"] }),
       functionalType: "pure",
       drains: EMPTY_DRAINS,
@@ -256,7 +256,7 @@ describe("Rule 9 — canonical include shape (library types only)", () => {
 
   test("canonical .ts-only include passes", () => {
     const out = evaluateTsconfigConventions({
-      workspace: "packages/x/core",
+      workspace: "x/core",
       tsconfig: withTsconfig({ include: ["src/**/*.ts"] }),
       functionalType: "pure",
       drains: EMPTY_DRAINS,
@@ -266,7 +266,7 @@ describe("Rule 9 — canonical include shape (library types only)", () => {
 
   test("canonical .ts+.tsx include passes (next-ui)", () => {
     const out = evaluateTsconfigConventions({
-      workspace: "packages/x/ui",
+      workspace: "x/ui",
       tsconfig: withTsconfig({ include: ["src/**/*.ts", "src/**/*.tsx"] }),
       functionalType: "next-ui",
       drains: EMPTY_DRAINS,
@@ -277,7 +277,7 @@ describe("Rule 9 — canonical include shape (library types only)", () => {
   test("non-canonical include on a runtime type does NOT trigger (rule is library-scoped)", () => {
     for (const t of ["service", "worker", "program", "next-app", "addon"] as const) {
       const out = evaluateTsconfigConventions({
-        workspace: `packages/x/${t}`,
+        workspace: `x/${t}`,
         tsconfig: withTsconfig({ include: ["src", "scripts"] }),
         functionalType: t,
         drains: EMPTY_DRAINS,
@@ -288,11 +288,11 @@ describe("Rule 9 — canonical include shape (library types only)", () => {
 
   test("drain allowlist suppresses the rule for a library type", () => {
     const out = evaluateTsconfigConventions({
-      workspace: "packages/x/core",
+      workspace: "x/core",
       tsconfig: withTsconfig({ include: ["weird/**/*.ts"] }),
       functionalType: "pure",
       drains: {
-        nonCanonicalInclude: new Set(["packages/x/core"]),
+        nonCanonicalInclude: new Set(["x/core"]),
         allowImportingTsExtensions: new Set(),
       },
     })
@@ -303,7 +303,7 @@ describe("Rule 9 — canonical include shape (library types only)", () => {
 describe("Rule 11 — canonical exclude shape (library types only)", () => {
   test("an exclude naming non-test source triggers `excludeShape` on a library type", () => {
     const out = evaluateTsconfigConventions({
-      workspace: "packages/x/core",
+      workspace: "x/core",
       tsconfig: withTsconfig({ exclude: ["node_modules", "dist", "src/legacy"] }),
       functionalType: "pure",
       drains: EMPTY_DRAINS,
@@ -314,7 +314,7 @@ describe("Rule 11 — canonical exclude shape (library types only)", () => {
   test("the same exclude on a runtime type does NOT trigger (rule is library-scoped)", () => {
     for (const t of ["service", "worker", "program", "next-app", "addon"] as const) {
       const out = evaluateTsconfigConventions({
-        workspace: `packages/x/${t}`,
+        workspace: `x/${t}`,
         tsconfig: withTsconfig({ exclude: ["node_modules", "dist", "src/legacy"] }),
         functionalType: t,
         drains: EMPTY_DRAINS,
@@ -329,7 +329,7 @@ describe("Rule 11 — canonical exclude shape (library types only)", () => {
       ["node_modules", "dist", "**/*.test.ts"],
     ]) {
       const out = evaluateTsconfigConventions({
-        workspace: "packages/x/core",
+        workspace: "x/core",
         tsconfig: withTsconfig({ exclude }),
         functionalType: "pure",
         drains: EMPTY_DRAINS,
@@ -340,7 +340,7 @@ describe("Rule 11 — canonical exclude shape (library types only)", () => {
 
   test("an absent exclude passes on a library type — it removes nothing", () => {
     const out = evaluateTsconfigConventions({
-      workspace: "packages/x/core",
+      workspace: "x/core",
       tsconfig: withTsconfig(),
       functionalType: "pure",
       drains: EMPTY_DRAINS,
@@ -350,12 +350,12 @@ describe("Rule 11 — canonical exclude shape (library types only)", () => {
 
   test("rule 11 carries no drain allowlist — a drained include does not suppress it", () => {
     const out = evaluateTsconfigConventions({
-      workspace: "packages/x/core",
+      workspace: "x/core",
       tsconfig: withTsconfig({ exclude: ["node_modules", "dist", "src/legacy"] }),
       functionalType: "pure",
       drains: {
-        nonCanonicalInclude: new Set(["packages/x/core"]),
-        allowImportingTsExtensions: new Set(["packages/x/core"]),
+        nonCanonicalInclude: new Set(["x/core"]),
+        allowImportingTsExtensions: new Set(["x/core"]),
       },
     })
     expect(rules(out)).toContain("excludeShape")
@@ -365,7 +365,7 @@ describe("Rule 11 — canonical exclude shape (library types only)", () => {
 describe("multiple rules can fire on a single workspace", () => {
   test("library type with no extends, no composite, outDir, weird include emits all four", () => {
     const out = evaluateTsconfigConventions({
-      workspace: "packages/x/core",
+      workspace: "x/core",
       tsconfig: {
         compilerOptions: { outDir: "dist" },
         include: ["weird/**/*.ts"],
