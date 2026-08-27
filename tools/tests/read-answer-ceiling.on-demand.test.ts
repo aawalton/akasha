@@ -60,8 +60,8 @@ function run(argv: readonly string[]): { readonly code: number; readonly out: st
   const settled: Record<string, string> = {
     ...kept,
     HOME: at.home,
-    // `AKASHA_ROOT` NAMES THE TEMP REPO. This set `INSTRUCTIONS_ROOT` and `MEMORY_ROOT`, naming
-    // repositories that are gone: nothing reads them, so the child read the live checkout instead.
+    // `AKASHA_ROOT` NAMES THE TEMP REPO, and it is the one root the child reads: left alone it
+    // would read the live checkout rather than the pages each case planted.
     AKASHA_ROOT: at.root,
     // `CODE_ROOT` IS WHERE THE PACKAGES ARE. `codeRoot()` falls back to the akasha root, which is
     // now this temp repo, and it carries no `node_modules` — so the child died resolving a package
