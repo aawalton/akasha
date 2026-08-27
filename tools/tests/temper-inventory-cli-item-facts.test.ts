@@ -1,28 +1,15 @@
 import { describe, expect, it } from "bun:test"
-import { codeModuleSync } from "../lib/code-import.ts"
-import { classifyItemToNodeIds } from "../lib/temper-inventory/game-code.ts"
-import type { InventoryItemData } from "../lib/temper-inventory/game-item-types.ts"
-import { cliItemFactsFromInventoryItem } from "../lib/temper-inventory/cli-item-facts.ts"
-
-const {
+import {
   ESO_ITEMTYPE_CONTAINER,
   ESO_ITEMTYPE_CRAFTED_ABILITY_SCRIPT,
   ESO_ITEMTYPE_RECIPE,
   ESO_SPECIALIZED_ITEMTYPE_MOTIF_CHAPTER,
-} = codeModuleSync<{
-  readonly ESO_ITEMTYPE_CONTAINER: number
-  readonly ESO_ITEMTYPE_CRAFTED_ABILITY_SCRIPT: number
-  readonly ESO_ITEMTYPE_RECIPE: number
-  readonly ESO_SPECIALIZED_ITEMTYPE_MOTIF_CHAPTER: number
-}>("@temper/game-items-core/inventory-types")
-
-const { makeItem } = codeModuleSync<{
-  readonly makeItem: (over: Partial<InventoryItemData>) => InventoryItemData
-}>("@temper/game-items-rules-core/inventory-rule-test-utils")
-
-const { ALL_CATEGORIES_ID } = codeModuleSync<{ readonly ALL_CATEGORIES_ID: string }>(
-  "@temper/game-items-rules-core/inventory-rule-types"
-)
+} from "@temper/game-items-core/inventory-types"
+import { makeItem } from "@temper/game-items-rules-core/inventory-rule-test-utils"
+import { ALL_CATEGORIES_ID } from "@temper/game-items-rules-core/inventory-rule-types"
+import { cliItemFactsFromInventoryItem } from "../lib/temper-inventory/cli-item-facts.ts"
+import { classifyItemToNodeIds } from "../lib/temper-inventory/game-code.ts"
+import type { InventoryItemData } from "../lib/temper-inventory/game-item-types.ts"
 
 const factsOf = (item: InventoryItemData, nodeIds: readonly string[]) =>
   cliItemFactsFromInventoryItem(item, nodeIds, "backpack")

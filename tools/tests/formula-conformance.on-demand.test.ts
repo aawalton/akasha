@@ -1,5 +1,5 @@
 import { describe, expect, it } from "bun:test"
-import { codeModule } from "../lib/code-import.ts"
+import { evaluateFormula, parseExpression } from "@shared/pages-core"
 import {
   type Case,
   type CodeErrorCode,
@@ -17,11 +17,6 @@ import {
 import { evaluate, ExpressionRefused } from "../lib/page-expression.ts"
 import { CONFORMANCE_CASES } from "./formula-conformance/cases.ts"
 import { DIVERGENT_CASES } from "./formula-conformance/divergent.ts"
-
-interface Reference {
-  readonly parseExpression: (input: string) => unknown
-  readonly evaluateFormula: (node: unknown, values: Record<string, unknown>) => unknown
-}
 
 const EVALUATION_CODES: ReadonlySet<string> = new Set([
   "comparison_type_mismatch",
@@ -55,10 +50,10 @@ function runOurs(one: Case): RanOurs {
   }
 }
 
-function runCode(reference: Reference, one: Case): RanCode {
+function runCode(one: Case): RanCode {
   try {
-    const ast = reference.parseExpression(one.expression)
-    return { kind: "value", json: reference.evaluateFormula(ast, pose(one).values) as Json }
+    const ast = parseExpression(one.expression)
+    return { kind: "value", json: evaluateFormula(ast, pose(one).values) as Json }
   } catch (err) {
     const code = referenceCode(err)
     if (code === null) return { kind: "threw", says: `${err instanceof Error ? err.name : "unknown"}: ${said(err)}` }
@@ -66,10 +61,8 @@ function runCode(reference: Reference, one: Case): RanCode {
   }
 }
 
-const reference = await codeModule<Reference>("@shared/pages-core")
-
 function runner(one: Case): Run {
-  return { ours: runOurs(one), code: one.code === undefined ? null : runCode(reference, one) }
+  return { ours: runOurs(one), code: one.code === undefined ? null : runCode(one) }
 }
 
 function ofKind(findings: readonly Finding[], kind: Finding["kind"]): readonly Finding[] {
