@@ -3,17 +3,19 @@ export const summary = "Play a full game vs Maia (human-like) and land it as a r
 import { createInterface } from "node:readline/promises"
 import type { CommandHelp } from "../../ops/surface.ts"
 import { parseFen, parseUciMove } from "../../lib/chess-fen.ts"
-import { codeModule } from "../../lib/code-import.ts"
 import { operationalError } from "../../lib/exit.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
-import { type Value, writePage } from "../../lib/page-write.ts"
+import { writePage } from "../../lib/page-write.ts"
 import { resolveRoots } from "../../../repo/roots/roots"
-
-const GAME = "alanwalton/chess/src/lib/game.ts"
-const LOOP = "alanwalton/chess/src/lib/loop.ts"
-const MAIA = "alanwalton/chess/src/lib/maia.ts"
-const PERSIST = "alanwalton/chess/src/lib/persist-game.ts"
-const POSITION = "alanwalton/chess/src/lib/position.ts"
+import { STANDARD_START_FEN, type PlayerColor } from "../../../alanwalton/chess/src/lib/game.ts"
+import { type AppliedMove, runGame } from "../../../alanwalton/chess/src/lib/loop.ts"
+import { clampMaiaBand, playMaiaMove } from "../../../alanwalton/chess/src/lib/maia.ts"
+import {
+  CHESS_GAME_SLUG,
+  chessGamePageName,
+  chessGameValues,
+} from "../../../alanwalton/chess/src/lib/persist-game.ts"
+import { applyMove, legalMoves } from "../../../alanwalton/chess/src/lib/position.ts"
 
 export const help: CommandHelp = {
   positionals: [
@@ -59,58 +61,6 @@ export const help: CommandHelp = {
   ],
 }
 
-type PlayerColor = "white" | "black"
-
-interface AppliedMove {
-  readonly fen: string
-  readonly status: string
-  readonly sideToMove: "w" | "b"
-}
-
-interface CompletedGame {
-  readonly externalId: string
-  readonly result: string
-  readonly winner: string
-  readonly endReason: string
-  readonly outcome: string
-  readonly plies: readonly unknown[]
-  readonly pgn: string
-}
-
-interface Game {
-  readonly STANDARD_START_FEN: string
-}
-
-interface Loop {
-  readonly runGame: (args: {
-    readonly startFen: string
-    readonly alanColor: PlayerColor
-    readonly band: number
-    readonly playedAt: string
-    readonly deps: {
-      readonly readAlanMove: (fen: string) => Promise<string | null>
-      readonly maiaMove: (fen: string) => Promise<string | null>
-      readonly applyMove: (fen: string, move: string) => Promise<AppliedMove>
-    }
-  }) => Promise<CompletedGame>
-}
-
-interface Maia {
-  readonly clampMaiaBand: (elo: number) => number
-  readonly playMaiaMove: (fen: string, band: number) => Promise<string | null>
-}
-
-interface Persist {
-  readonly CHESS_GAME_SLUG: string
-  readonly chessGamePageName: (externalId: string) => string
-  readonly chessGameValues: (game: CompletedGame) => Record<string, Value>
-}
-
-interface Position {
-  readonly applyMove: (fen: string, move: string) => Promise<AppliedMove>
-  readonly legalMoves: (fen: string) => Promise<readonly string[]>
-}
-
 interface LineReader {
   next: () => Promise<string | null>
   close: () => void
@@ -153,17 +103,10 @@ function makeStdinLineReader(): LineReader {
 export default async function chessPlayGame(args: readonly string[]): Promise<void> {
   const parsed = parseArgs(help, args)
 
-  const gameModule = await codeModule<Game>(GAME)
-  const loop = await codeModule<Loop>(LOOP)
-  const maia = await codeModule<Maia>(MAIA)
-  const persist = await codeModule<Persist>(PERSIST)
-  const position = await codeModule<Position>(POSITION)
-
   const rawFen = parsed.string("--fen")
-  const startFen =
-    rawFen === undefined ? gameModule.STANDARD_START_FEN : await parseFen(rawFen)
+  const startFen = rawFen === undefined ? STANDARD_START_FEN : await parseFen(rawFen)
   const alanColor: PlayerColor = parsed.string("--color") === "black" ? "black" : "white"
-  const band = maia.clampMaiaBand(parsed.nonNegativeInt("--elo") ?? 1500)
+  const band = clampMaiaBand(parsed.nonNegativeInt("--elo") ?? 1500)
   const json = parsed.boolean("--json")
 
   const reader = makeStdinLineReader()
@@ -200,7 +143,7 @@ export default async function chessPlayGame(args: readonly string[]): Promise<vo
         }
         continue
       }
-      const legal = await position.legalMoves(fen)
+      const legal = await legalMoves(fen)
       if (!legal.includes(move)) {
         if (!json) {
           write("  illegal in this position — try again\n")
@@ -212,7 +155,7 @@ export default async function chessPlayGame(args: readonly string[]): Promise<vo
   }
 
   const maiaMove = async (fen: string): Promise<string | null> => {
-    const move = await maia.playMaiaMove(fen, band)
+    const move = await playMaiaMove(fen, band)
     if (!json && move !== null) {
       write(`Maia ${band} plays ${move}\n`)
     }
@@ -220,14 +163,14 @@ export default async function chessPlayGame(args: readonly string[]): Promise<vo
   }
 
   const applyMoveEcho = async (fen: string, move: string): Promise<AppliedMove> => {
-    const r = await position.applyMove(fen, move)
+    const r = await applyMove(fen, move)
     if (!json) {
       write(`  -> ${r.fen} [${r.status}]\n`)
     }
     return r
   }
 
-  const game = await loop.runGame({
+  const game = await runGame({
     startFen,
     alanColor,
     band,
@@ -237,16 +180,16 @@ export default async function chessPlayGame(args: readonly string[]): Promise<vo
   reader.close()
 
   const id = Bun.randomUUIDv7()
-  const name = persist.chessGamePageName(game.externalId)
+  const name = chessGamePageName(game.externalId)
   const landed = writePage(
     resolveRoots(),
-    persist.CHESS_GAME_SLUG,
+    CHESS_GAME_SLUG,
     name,
-    { id, ...persist.chessGameValues(game) },
+    { id, ...chessGameValues(game) },
     "alan"
   )
   if (landed === null) {
-    throw operationalError(`\`${persist.CHESS_GAME_SLUG}\` names no page type whose pages are files`)
+    throw operationalError(`\`${CHESS_GAME_SLUG}\` names no page type whose pages are files`)
   }
   if (landed.commitError !== null) {
     throw operationalError(`the game landed at ${landed.relPath} but its commit did not: ${landed.commitError}`)

@@ -2,11 +2,9 @@ export const summary = "Evaluate a FEN position: score, best move, and principal
 
 import type { CommandHelp } from "../../ops/surface.ts"
 import { parseFen } from "../../lib/chess-fen.ts"
-import { codeModule } from "../../lib/code-import.ts"
 import { inputError } from "../../lib/exit.ts"
+import { evaluate, type EvaluateResult } from "../../../alanwalton/chess/src/lib/position.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
-
-const POSITION = "alanwalton/chess/src/lib/position.ts"
 
 export const help: CommandHelp = {
   positionals: [
@@ -36,20 +34,6 @@ export const help: CommandHelp = {
   ],
 }
 
-interface EvaluateResult {
-  readonly fen: string
-  readonly sideToMove: "w" | "b"
-  readonly scoreKind: string
-  readonly scoreWhitePov: number
-  readonly depth: number
-  readonly bestMove: string | null
-  readonly pv: readonly string[]
-}
-
-interface Position {
-  readonly evaluate: (fen: string, depth: number) => Promise<EvaluateResult>
-}
-
 function formatScore(result: EvaluateResult): string {
   if (result.scoreKind === "mate") {
     const n = Math.abs(result.scoreWhitePov)
@@ -76,8 +60,7 @@ export default async function chessEvaluate(args: readonly string[]): Promise<vo
     throw inputError("--depth must be a positive integer")
   }
 
-  const position = await codeModule<Position>(POSITION)
-  const result = await position.evaluate(fen, depth)
+  const result = await evaluate(fen, depth)
 
   if (parsed.boolean("--json")) {
     process.stdout.write(`${JSON.stringify(result)}\n`)

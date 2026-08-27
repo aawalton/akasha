@@ -2,11 +2,9 @@ export const summary = "Have the engine reply at a target strength (Skill Level 
 
 import type { CommandHelp } from "../../ops/surface.ts"
 import { parseFen } from "../../lib/chess-fen.ts"
-import { codeModule } from "../../lib/code-import.ts"
 import { inputError } from "../../lib/exit.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
-
-const POSITION = "alanwalton/chess/src/lib/position.ts"
+import { playMove } from "../../../alanwalton/chess/src/lib/position.ts"
 
 export const help: CommandHelp = {
   positionals: [
@@ -48,23 +46,6 @@ export const help: CommandHelp = {
   ],
 }
 
-interface PlayStrength {
-  readonly level?: number
-  readonly elo?: number
-  readonly movetimeMs?: number
-}
-
-interface PlayResult {
-  readonly move: string | null
-  readonly resultingFen: string | null
-  readonly status: string | null
-  readonly strength: { readonly mode: "level" | "elo"; readonly value: number }
-}
-
-interface Position {
-  readonly playMove: (fen: string, strength: PlayStrength) => Promise<PlayResult>
-}
-
 export default async function chessPlay(args: readonly string[]): Promise<void> {
   const parsed = parseArgs(help, args)
   const raw = parsed.positionals[0]
@@ -76,8 +57,7 @@ export default async function chessPlay(args: readonly string[]): Promise<void> 
   const elo = parsed.nonNegativeInt("--elo")
   const movetimeMs = parsed.nonNegativeInt("--movetime") ?? 1000
 
-  const position = await codeModule<Position>(POSITION)
-  const result = await position.playMove(fen, { level, elo, movetimeMs })
+  const result = await playMove(fen, { level, elo, movetimeMs })
 
   if (parsed.boolean("--json")) {
     process.stdout.write(`${JSON.stringify(result)}\n`)

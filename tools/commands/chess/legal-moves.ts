@@ -2,11 +2,9 @@ export const summary = "List every legal move in a FEN position (Stockfish-valid
 
 import type { CommandHelp } from "../../ops/surface.ts"
 import { fenSideToMove, parseFen } from "../../lib/chess-fen.ts"
-import { codeModule } from "../../lib/code-import.ts"
 import { inputError } from "../../lib/exit.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
-
-const POSITION = "alanwalton/chess/src/lib/position.ts"
+import { legalMoves } from "../../../alanwalton/chess/src/lib/position.ts"
 
 export const help: CommandHelp = {
   positionals: [
@@ -27,10 +25,6 @@ export const help: CommandHelp = {
   ],
 }
 
-interface Position {
-  readonly legalMoves: (fen: string) => Promise<readonly string[]>
-}
-
 export default async function chessLegalMoves(args: readonly string[]): Promise<void> {
   const parsed = parseArgs(help, args)
   const raw = parsed.positionals[0]
@@ -39,8 +33,7 @@ export default async function chessLegalMoves(args: readonly string[]): Promise<
   }
   const fen = await parseFen(raw)
 
-  const position = await codeModule<Position>(POSITION)
-  const moves = await position.legalMoves(fen)
+  const moves = await legalMoves(fen)
 
   if (parsed.boolean("--json")) {
     process.stdout.write(

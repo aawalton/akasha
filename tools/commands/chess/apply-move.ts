@@ -2,11 +2,9 @@ export const summary = "Apply a UCI move to a FEN and report the resulting posit
 
 import type { CommandHelp } from "../../ops/surface.ts"
 import { parseFen, parseUciMove } from "../../lib/chess-fen.ts"
-import { codeModule } from "../../lib/code-import.ts"
 import { inputError } from "../../lib/exit.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
-
-const POSITION = "alanwalton/chess/src/lib/position.ts"
+import { applyMove } from "../../../alanwalton/chess/src/lib/position.ts"
 
 export const help: CommandHelp = {
   positionals: [
@@ -33,17 +31,6 @@ export const help: CommandHelp = {
   ],
 }
 
-interface ApplyMoveResult {
-  readonly fen: string
-  readonly status: string
-  readonly sideToMove: "w" | "b"
-  readonly checkers: readonly string[]
-}
-
-interface Position {
-  readonly applyMove: (fen: string, move: string) => Promise<ApplyMoveResult>
-}
-
 export default async function chessApplyMove(args: readonly string[]): Promise<void> {
   const parsed = parseArgs(help, args)
   const rawFen = parsed.positionals[0]
@@ -57,8 +44,7 @@ export default async function chessApplyMove(args: readonly string[]): Promise<v
   const fen = await parseFen(rawFen)
   const move = await parseUciMove(rawMove)
 
-  const position = await codeModule<Position>(POSITION)
-  const result = await position.applyMove(fen, move)
+  const result = await applyMove(fen, move)
 
   if (parsed.boolean("--json")) {
     process.stdout.write(`${JSON.stringify(result)}\n`)
