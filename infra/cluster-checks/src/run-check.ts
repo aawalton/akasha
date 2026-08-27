@@ -8,7 +8,15 @@ import { EXIT_TOOL_ERROR } from "../../../tools/lib/check-workflow/violation-rep
 
 const PREFIX = "[run-check]"
 
-const OWN_ROOT = realpathSync(resolve(import.meta.dir, "../../../.."))
+/**
+ * The checkout this runner itself stands in, which is where the check bodies stand too.
+ *
+ * THREE LEVELS UP, because this file sits at `infra/cluster-checks/src/`. A fourth level lands on
+ * the directory holding the checkout rather than the checkout, and every `resolve` against it then
+ * names a path that is not there — so the runner falls through to the environment for a tree it
+ * was standing in all along, and reports the check body missing where only this constant was.
+ */
+const OWN_ROOT = realpathSync(resolve(import.meta.dir, "../../.."))
 
 function named(root: string | undefined): string {
   return root === undefined || root === "" ? "unset" : root
