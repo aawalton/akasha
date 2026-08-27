@@ -25,7 +25,7 @@ function frontmatter(body: string): Record<string, string> {
 export function commandDocuments(
   repoRoot: string = akashaRoot()
 ): readonly CommandDocument[] {
-  const dir = placeDirOf("ops-command")
+  const dir = placeDirOf("old-ops-command")
   let names: readonly string[]
   try {
     names = readdirSync(`${repoRoot}/${dir}`)

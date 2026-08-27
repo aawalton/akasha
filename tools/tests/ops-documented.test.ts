@@ -7,25 +7,25 @@ let root = ""
 
 beforeAll(() => {
   root = mkdtempSync("/var/tmp/ops-documented-")
-  mkdirSync(`${root}/pages/ops-command`, { recursive: true })
+  mkdirSync(`${root}/pages/old-ops-command`, { recursive: true })
   const put = (name: string, body: string): void => {
-    writeFileSync(`${root}/pages/ops-command/${name}`, body)
+    writeFileSync(`${root}/pages/old-ops-command/${name}`, body)
   }
   put(
     "ops-instructions-write.md",
-    "---\npage-type-slug: ops-command\nslug: ops-instructions-write\ndomain-parent-slug:\n  - ops-instructions\n  - ops-command\ncommand-path: tools/write.ts\npath: instructions write\n---\n\n# Definition\n\n- **Ops instructions write** — whole files, gated.\n"
+    "---\npage-type-slug: old-ops-command\nslug: ops-instructions-write\ndomain-parent-slug:\n  - ops-instructions\n  - ops-command\ncommand-path: tools/write.ts\npath: instructions write\n---\n\n# Definition\n\n- **Ops instructions write** — whole files, gated.\n"
   )
   put(
     "ops-memory-write.md",
-    "---\npage-type-slug: ops-command\nslug: ops-memory-write\ncommand-path: tools/write.ts\npath: memory write\n---\n\n# Definition\n\n- **Ops memory write** — whole files, gated.\n"
+    "---\npage-type-slug: old-ops-command\nslug: ops-memory-write\ncommand-path: tools/write.ts\npath: memory write\n---\n\n# Definition\n\n- **Ops memory write** — whole files, gated.\n"
   )
   put(
     "ops-instructions-turn-end-reading-cases.md",
-    "---\npage-type-slug: ops-command\nslug: ops-instructions-turn-end-reading-cases\ncommand-path: tools/commands/instructions/turn-end-reading-cases.ts\npath: instructions turn-end-reading-cases\n---\n\n# Definition\n\n- **Ops instructions turn-end-reading-cases** — the cases.\n"
+    "---\npage-type-slug: old-ops-command\nslug: ops-instructions-turn-end-reading-cases\ncommand-path: tools/commands/instructions/turn-end-reading-cases.ts\npath: instructions turn-end-reading-cases\n---\n\n# Definition\n\n- **Ops instructions turn-end-reading-cases** — the cases.\n"
   )
   put(
     "ops-nothing-stated.md",
-    "---\npage-type-slug: ops-command\nslug: ops-nothing-stated\ncommand-path: tools/commands/nothing/stated.ts\n---\n\n# Definition\n\n- **Ops nothing stated** — no path.\n"
+    "---\npage-type-slug: old-ops-command\nslug: ops-nothing-stated\ncommand-path: tools/commands/nothing/stated.ts\n---\n\n# Definition\n\n- **Ops nothing stated** — no path.\n"
   )
 })
 

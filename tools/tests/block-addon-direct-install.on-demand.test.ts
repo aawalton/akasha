@@ -41,7 +41,7 @@ const ALLOWED: string[] = [
   "ops project commit --seq 12215 --message fix --path tools/commands/temper/addon/install.ts",
   "ops project commit --seq 12215 --message fix --path tools/commands/temper/addon/build.ts",
   "ops rm --dry-run \\\n  /w/packages/temper/addons/scripts/build/install-addon.ts \\\n  /w/packages/temper/addons/scripts/build/copy-metadata.ts",
-  "cat pages/ops-command/ops-temper-addon-build.ops-command.md",
+  "cat pages/old-ops-command/ops-temper-addon-build.old-ops-command.md",
   "grep flock tools/commands/temper/addon/install.ts",
   "ls tools/commands/temper/addon/",
   "echo 'ops temper addon build TemperInventory'",
