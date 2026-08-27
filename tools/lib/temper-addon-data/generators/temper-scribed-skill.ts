@@ -145,7 +145,7 @@ ${fields.join(",\n")},
  *
  * Emitted in alphabetical \`key\` order; the codec emits scribed skills
  * in \`scribedSkills.ids\` order (see
- * \`packages/temper/game/codec/src/character/build-codec-indices.ts\`). The
+ * \`temper/game-codec/src/character/build-codec-indices.ts\`). The
  * legacy source file was already alphabetical, so existing build hashes
  * round-trip unchanged through this snapshot.
  *
