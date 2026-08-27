@@ -12,7 +12,7 @@ import {
   tsFileNodeIdToCodeRepoRel,
 } from "../../../../tools/lib/graph/producers/file/ts-file/types.ts"
 import type { Graph } from "../../../../tools/lib/graph/types.ts"
-import { CODE, resolveRoots, rootFor } from "../../../../repo/roots/roots"
+import { codeRoot } from "../../../../tools/lib/code-root.ts"
 import { parseArgs } from "../lib/cli-args.ts"
 import { errorMessage } from "../../../../tools/lib/check-workflow/error-message"
 import { examinePopulation } from "../../../../tools/lib/check-workflow/population"
@@ -184,7 +184,7 @@ async function main(): Promise<undefined> {
     exitOnToolError({ error: err, prefix: PREFIX })
   }
 
-  const repoRoot = rootFor(resolveRoots(), CODE)
+  const repoRoot = codeRoot()
 
   let graph: Graph
   try {

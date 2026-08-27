@@ -16,7 +16,8 @@ import {
 } from "../../../../tools/lib/check-workflow/addons-resolve.ts"
 import { buildFrom, readAt } from "../../../../tools/lib/graph/held-snapshot.ts"
 import type { Graph } from "../../../../tools/lib/graph/types.ts"
-import { CODE, ownRepoRoot, resolveRoots, rootFor } from "../../../../repo/roots/roots"
+import { ownRepoRoot } from "../../../../repo/roots/roots"
+import { codeRoot } from "../../../../tools/lib/code-root.ts"
 import { computeInputsHashAcrossRepos } from "../../../../tools/lib/workflow-dsl/inputs-hash.ts"
 import {
   addonBuildPopulationLine,
@@ -27,16 +28,15 @@ import { parseArgs as parseCliArgs } from "../lib/cli-args.ts"
 import { errorMessage } from "../../../../tools/lib/check-workflow/error-message"
 
 const PREFIX = "[addon-build]"
-const ADDONS_DIST_REL = "packages/temper/addons/dist"
+const ADDONS_DIST_REL = "temper/addons/dist"
 const OPS_CLI_REL = "tools/ops/cli.ts"
 const BUILD_COMMAND = ["temper", "addon", "build"] as const
 
 const DEPLOYABLE_LEAST_COUNT = 40
 
 const DEPLOYABLE_LEAST_COUNT_FROM =
-  "the addon roster `listAllAddons` reads off `packages/temper/addons` and the workspace " +
-  "catalog: every addon directory carrying an `addon.json` is deployable, and that walk " +
-  "found 48 addons when this least count was set"
+  "the addon roster `listAllAddons` reads off the workspace catalog: every workspace carrying " +
+  "an `addon.json` is deployable, and that walk found 48 addons when this least count was set"
 
 const FLAG_SPEC = {
   treeSha: { kind: "string", required: true },
@@ -153,7 +153,7 @@ async function inPool<T>(
 
 async function main(): Promise<void> {
   const args = parseArgs()
-  const repoRoot = rootFor(resolveRoots(), CODE)
+  const repoRoot = codeRoot()
   const distDir = join(repoRoot, ADDONS_DIST_REL)
 
   let cacheEnabled = true
