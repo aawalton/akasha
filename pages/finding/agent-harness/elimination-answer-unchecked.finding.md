@@ -31,8 +31,8 @@ invites a check", and "the elimination that produced *delete* was the error, and
 is worth naming because it reads as rigor".
 
 Nothing in the live corpus carries this. `rg -uuu -n -i "eliminat|option set|remaining
-option|by exhaustion|only one left"` over `domains/` exits 1 with no match, and the
+option|by exhaustion|only one left"` over `pages/domain/` exits 1 with no match, and the
 same pattern over `~/memory/findings/` exits 1. The nearest live claim is Grounding on
-`domains/global.md` — "Research done after the plan is formed reads identically and
+`pages/domain/global.domain.md` — "Research done after the plan is formed reads identically and
 confirms where it should have tested" — which is about the ORDER of research against
 a plan, not about the option set a conclusion silently rests on.
