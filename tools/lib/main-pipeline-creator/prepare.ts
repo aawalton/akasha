@@ -46,7 +46,7 @@ export async function prepareMainPipeline(
   args: PrepareArgs
 ): Promise<Prepared | null> {
   const gitDir = codeRoot()
-  const instructionsGitDir = resolveRoots().instructions
+  const instructionsGitDir = resolveRoots().akasha
   const git = (spelled: readonly string[]): Promise<GitResult> =>
     code.runGit(spelled, gitDir, { timeoutMs: GIT_TIMEOUT_MS })
 

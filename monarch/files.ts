@@ -8,7 +8,7 @@ import { stemOf as slugOf } from "../page/name/name"
 
 const roots = resolveRoots()
 
-export const INSTRUCTIONS = roots.instructions
+export const AKASHA = roots.akasha
 export const MEMORY = roots.memory
 
 export const MONTHS_FOLDER = "pages/monarch-month"
@@ -86,15 +86,15 @@ export function keyOf(page: PageFile, name: string): string | null {
 }
 
 export async function categoryPages(): Promise<readonly PageFile[]> {
-  return pagesIn(INSTRUCTIONS, CATEGORY_FOLDER)
+  return pagesIn(AKASHA, CATEGORY_FOLDER)
 }
 
 export async function accountPages(): Promise<readonly PageFile[]> {
-  return pagesIn(INSTRUCTIONS, ACCOUNT_FOLDER)
+  return pagesIn(AKASHA, ACCOUNT_FOLDER)
 }
 
 export async function tagPages(): Promise<readonly PageFile[]> {
-  return pagesIn(INSTRUCTIONS, TAG_FOLDER)
+  return pagesIn(AKASHA, TAG_FOLDER)
 }
 
 export async function holdingPages(): Promise<readonly PageFile[]> {
@@ -102,7 +102,7 @@ export async function holdingPages(): Promise<readonly PageFile[]> {
 }
 
 export async function directionPages(): Promise<readonly PageFile[]> {
-  return pagesIn(INSTRUCTIONS, DIRECTION_FOLDER)
+  return pagesIn(AKASHA, DIRECTION_FOLDER)
 }
 
 export function monthOf(date: string): string {

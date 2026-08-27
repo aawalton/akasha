@@ -51,7 +51,7 @@ let tmp = ""
 let root = ""
 
 function realPackageDir(): string {
-  return join(resolveRoots().instructions, "packages/alanwalton/imessage")
+  return join(resolveRoots().akasha, "alanwalton/imessage")
 }
 
 const STUB_MANIFEST = {

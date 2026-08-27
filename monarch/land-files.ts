@@ -7,7 +7,7 @@ import { toolArgv } from "../tools/lib/tool-argv.ts"
 import type { MonarchTransaction } from "./client.ts"
 import { accountPages, categoryPages, keyOf, monthOf, monthSlugs, sidecarOf, tagPages } from "./files.ts"
 import type { TransactionLine } from "./files.ts"
-import { INSTRUCTIONS, MEMORY, monthPagePath } from "./files.ts"
+import { AKASHA, MEMORY, monthPagePath } from "./files.ts"
 
 const MONTH_NAMES = [
   "January", "February", "March", "April", "May", "June",
@@ -237,10 +237,10 @@ function tool(
   name: string,
   args: readonly string[],
   stdin: string | null,
-  cwd: string = INSTRUCTIONS
+  cwd: string = AKASHA
 ): Promise<{ readonly code: number; readonly said: string }> {
   return new Promise((resolve, reject) => {
-    const child = spawn("bun", [...toolArgv(name, args, INSTRUCTIONS)], {
+    const child = spawn("bun", [...toolArgv(name, args, AKASHA)], {
       cwd,
       env: WRITER_ENV,
       stdio: [stdin === null ? "ignore" : "pipe", "pipe", "pipe"],
@@ -272,10 +272,10 @@ function tool(
   })
 }
 
-export type Addressed = "instructions" | "memory"
+export type Addressed = "akasha" | "memory"
 
 function rootOf(repo: Addressed): string {
-  return repo === "memory" ? MEMORY : INSTRUCTIONS
+  return repo === "memory" ? MEMORY : AKASHA
 }
 
 export async function through(

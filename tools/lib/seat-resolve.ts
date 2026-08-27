@@ -53,7 +53,7 @@ function stemsIn(
     held.add(at)
     byStem.set(stem, held)
   }
-  const roots = { ...resolveRoots(), instructions: root }
+  const roots = { ...resolveRoots(), akasha: root }
   const type = registryOf(diskFileTree(roots)).find((one) => one.slug === slot)
   if (type !== undefined) {
     for (const repo of reposOf(type)) {
@@ -92,7 +92,7 @@ const defaults = new Map<string, ReadonlyMap<string, string>>()
 function statedDefaults(root: string): ReadonlyMap<string, string> {
   const held = defaults.get(root)
   if (held !== undefined) return held
-  const tree = diskFileTree({ ...resolveRoots(), instructions: root })
+  const tree = diskFileTree({ ...resolveRoots(), akasha: root })
   const seat = registryOf(tree).find((one) => one.slug === SEAT_TYPE)
   const made = new Map<string, string>()
   for (const one of seat === undefined ? [] : (compiledPageTypeFor(seat, tree).properties ?? [])) {

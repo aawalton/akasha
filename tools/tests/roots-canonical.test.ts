@@ -1,7 +1,5 @@
 import { describe, expect, test } from "bun:test"
 import { mkdirSync, mkdtempSync, realpathSync, rmSync, symlinkSync } from "node:fs"
-import { dirname } from "node:path"
-import { canonicalize } from "../../repo/path/path"
 import { REPOS, resolveRoots, rootEnvName } from "../../repo/roots/roots"
 
 const ROOT_ENV = REPOS.map(rootEnvName)
@@ -44,6 +42,7 @@ function discard(real: string, named: string): void {
 describe("resolveRoots holds Real Path", () => {
   test("a root named through a symlink is answered as the directory it reaches", () => {
     const { real, named } = namedThrough("roots-one")
+    mkdirSync(`${real}/.git`, { recursive: true })
     try {
       withEnv({ ...noOverrides(), MEMORY_ROOT: named }, () => {
         expect(resolveRoots().memory).toBe(real)
@@ -52,29 +51,23 @@ describe("resolveRoots holds Real Path", () => {
       discard(real, named)
     }
   })
+})
 
-  test("a home named through a symlink puts that spelling on none of the roots beside it", () => {
-    const { real, named } = namedThrough("roots-home")
-    for (const repo of REPOS) mkdirSync(`${real}/${repo}`, { recursive: true })
+describe("resolveRoots names a repository only where it is cloned", () => {
+  test("a directory holding no `.git` is not named, though it is there and named through", () => {
+    const { real, named } = namedThrough("roots-bare")
     try {
-      withEnv({ ...noOverrides(), HOME: named }, () => {
-        const roots = resolveRoots()
-        const beside = REPOS.filter((repo) => repo !== "instructions")
-        expect(beside.length).toBeGreaterThan(0)
-        for (const repo of beside) {
-          expect(roots[repo].startsWith(named)).toBe(false)
-          expect(roots[repo]).toBe(canonicalize(`${dirname(roots.instructions)}/${repo}`))
-        }
+      withEnv({ ...noOverrides(), MEMORY_ROOT: named }, () => {
+        expect(resolveRoots().memory).toBeUndefined()
       })
     } finally {
       discard(real, named)
     }
   })
 
-  test("a root that is not there is answered unchanged rather than thrown over", () => {
-    const absent = "/var/tmp/no-such-root-for-real-path"
-    withEnv({ ...noOverrides(), MEMORY_ROOT: absent }, () => {
-      expect(resolveRoots().memory).toBe(absent)
+  test("a root pointing at nothing on disk is not named either", () => {
+    withEnv({ ...noOverrides(), MEMORY_ROOT: "/var/tmp/no-such-root-for-real-path" }, () => {
+      expect(resolveRoots().memory).toBeUndefined()
     })
   })
 })

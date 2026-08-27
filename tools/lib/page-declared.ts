@@ -86,7 +86,7 @@ function fallbackIn(fm: Frontmatter, key: string): Held {
 // the repository beside it once, and a reader still pointed there finds no page type
 // at all, so every query over them answers that nothing carries its pages.
 export function declaringRoot(roots: Roots): string {
-  return roots.akasha ?? roots.instructions
+  return roots.akasha
 }
 
 export function kindsIn(roots: Roots): ReadonlyMap<string, Kind> {
