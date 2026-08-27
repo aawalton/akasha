@@ -20,7 +20,9 @@ import { recordObservation, recordSweep } from '../../seat/observation-store';
 import { PROCESS_ID_TIMEOUT_MS } from '../../seat/terminal-pids';
 import { readProcess } from '../../seat/window-identity';
 import { readSeatLookup, readSeatTerminals } from '../agent-tree/columns';
-import { PAGE_QUERY_ORIGIN } from '../../../../readouts/ask-over-http.ts';
+import { arrangedResponse } from '../../../../tools/lib/editor-arrangement.ts';
+import { deferCommits } from '../../../../tools/lib/page-commit-queue.ts';
+import { rootsHere } from '../../../../repo/roots/roots.ts';
 
 /** This feature's name in the observation record, and in `extension.ts`'s list. */
 const FEATURE = 'editor-layout';
@@ -35,15 +37,6 @@ const FEATURE = 'editor-layout';
  */
 const SETTLE_MS = 250;
 
-/**
- * How long the page query service is given to land the arrangement.
- *
- * It commits in another repository and every gate runs against the corpus, so it is the
- * slowest thing this feature does. Bounded for the reason the `ps` sweep is: nothing else in
- * the chain would give up on it.
- */
-const PAGES_TIMEOUT_MS = 60_000;
-
 let output: vscode.OutputChannel;
 let timer: ReturnType<typeof setTimeout> | undefined;
 let windowProcess: string;
@@ -52,6 +45,11 @@ export async function activate(context: vscode.ExtensionContext): Promise<void> 
 	output = vscode.window.createOutputChannel('Ops Editor Layout');
 	context.subscriptions.push(output);
 	windowProcess = await readProcess(process.pid);
+	// THIS PROCESS COMMITS NOW, so it takes the same batching the page query service takes:
+	// writes land on disk at once and are committed on a timer, and on exit. Idempotent, and
+	// declared here rather than at the entry point because this is what writes. Without it an
+	// arrangement would be a commit per settled burst, and Alan rearranges constantly.
+	deferCommits();
 	output.appendLine('activated; projecting the arrangement into the pages');
 
 	// Not awaited, for the reason the rename feature's first sweep is not: this is
@@ -102,36 +100,35 @@ async function write(trigger: string): Promise<undefined> {
 }
 
 /**
- * The same arrangement again as pages in the memory repository, through the page query service.
+ * The same arrangement again as pages, landed here.
  *
- * WHY THE SERVICE RATHER THAN HERE. Those repositories admit nothing that has not been through
- * their gates, and the gates live in the instructions repository — so a write from this bundle
- * would be a write nothing judged. The service runs the same `judgedLanding` an agent's write
- * runs, and resolves where each page stands from the page type's own `files:` declaration.
+ * STILL JUDGED. This used to POST to the page query service because the gates lived in another
+ * repository and a write from this bundle would have been a write nothing judged. The gates are
+ * in akasha now and this bundle carries them: `arrangedResponse` is the very function the
+ * service's own `/editor-arrangement` route calls, so the same `judgedLanding` runs and each
+ * page is resolved from its page type's own `files:` declaration.
  *
- * WHY THE SERVICE RATHER THAN A SPAWNED VERB. The verb this used to run named the four memory
- * folders itself. The page types moved to `pages/{page-type-slug}/` and the literals did not,
- * so every arrangement landed where nothing reads and the sweep swept where nothing stood. A
- * caller that states an arrangement and never a path cannot drift from the declaration again.
+ * WHY NOT OVER HTTP ANY MORE. The service answers on one thread for every caller on the
+ * workstation. This projection measured about 1.2 seconds a call there and fired every few
+ * seconds while Alan rearranged, which was among the largest single loads on it.
+ *
+ * WHY NOT A SPAWNED VERB. The verb this used to run named the four memory folders itself. The
+ * page types moved to `pages/{page-type-slug}/` and the literals did not, so every arrangement
+ * landed where nothing reads. A caller that states an arrangement and never a path cannot drift
+ * from the declaration again.
  *
  * A FAILURE IS REPORTED AND NOT RAISED. This projection is one of several triggers, and the next
- * tab change runs it again, so a single refused commit is not worth failing the feature over.
+ * tab change runs it again, so a single refused landing is not worth failing the feature over.
  */
 async function writePages(groups: readonly LayoutGroup[], trigger: string): Promise<void> {
 	const arrangement = arrangementFrom(groups, windowProcess);
-	const url = `${PAGE_QUERY_ORIGIN}/editor-arrangement`;
 	try {
-		const response = await fetch(url, {
-			method: 'POST',
-			headers: { 'content-type': 'application/json', accept: 'application/json' },
-			body: JSON.stringify(arrangement),
-			signal: AbortSignal.timeout(PAGES_TIMEOUT_MS),
-		});
-		const said = (await response.text()).trim();
-		output.appendLine(`[${trigger}] pages: ${response.status} ${said}`);
+		const { body, status } = arrangedResponse(rootsHere(), JSON.parse(JSON.stringify(arrangement)));
+		output.appendLine(`[${trigger}] pages: ${status} ${JSON.stringify(body)}`);
 	} catch (err) {
 		output.appendLine(`[${trigger}] pages failed: ${String(err)}`);
 	}
+	return Promise.resolve();
 }
 
 /** The live arrangement, with each terminal tab's seat resolved through the process tree. */
