@@ -24,7 +24,7 @@ const SEAM_PATH = "shared/workspace-paths/src/index.ts"
 function readMainSeamSource(repoRoot: string): string {
   execFileSync(
     "git",
-    [...GIT_CREDENTIAL_ARGS, "fetch", "--force", transportUrl("alan/code.git"), "main"],
+    [...GIT_CREDENTIAL_ARGS, "fetch", "--force", transportUrl("alan/akasha.git"), "main"],
     {
       cwd: repoRoot,
       stdio: "pipe",
