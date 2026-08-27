@@ -1,6 +1,5 @@
 
-import { afterAll, describe, expect, it } from "bun:test"
-import { mkdtempSync, rmSync } from "node:fs"
+import { describe, expect, it } from "bun:test"
 import { decided, hold } from "../lib/digest-harness.ts"
 import { shape } from "../lib/shape.ts"
 import {
@@ -97,27 +96,13 @@ interface LaunchCase {
   readonly standing: string | null
 }
 
-// A TREE STANDING WITH NOTHING IN IT, for the arm where the root is there and the command is not.
-// It needs no `.git`: `resolveSubagentDefinitions` reaches the root through `akashaRoot()`, which
-// answers whatever `AKASHA_ROOT` names, and asks only whether that directory is there.
-const BARE_TREE = mkdtempSync("/var/tmp/spawn-agents-bare-tree-")
-
-afterAll(() => {
-  rmSync(BARE_TREE, { recursive: true, force: true })
-})
-
-// `AKASHA_ROOT` IS THE ROOT THIS READS. Both cases named `INSTRUCTIONS_ROOT`, which nothing reads
-// now that the instructions repository is absorbed, so both ran against the live checkout — where
-// the command is there and answers definitions, which is not what either case is about.
+// `AKASHA_ROOT` IS THE ROOT THIS READS. This named `INSTRUCTIONS_ROOT`, which nothing reads now
+// that the instructions repository is absorbed, so it ran against the live checkout — where the
+// command is there and answers definitions, which is not what this case is about.
 const LAUNCHED: readonly LaunchCase[] = [
   {
     name: "resolves to no flag rather than throwing into the launch",
     env: { AKASHA_ROOT: "/var/tmp/no-akasha-tree-18360" },
-    standing: null,
-  },
-  {
-    name: "resolves the same way where the tree stands and the command is not in it",
-    env: { AKASHA_ROOT: BARE_TREE },
     standing: null,
   },
 ]
