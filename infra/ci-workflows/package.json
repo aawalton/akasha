@@ -4,6 +4,10 @@
   "version": "0.1.0",
   "private": true,
   "type": "module",
+  "exports": {
+    "./toolchain-manifest": "./src/toolchain-manifest.ts",
+    "./*": "./src/*.ts"
+  },
   "scripts": {
     "typecheck": "bunx @typescript/native-preview -b",
     "lint": "biome check .",
