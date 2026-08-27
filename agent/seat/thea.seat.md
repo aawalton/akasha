@@ -6,4 +6,5 @@ persona-slug: thea
 domain-slug: domain/code-quality
 role-slug: definer
 person-slug: alan
+start-mode: interactive
 ---
