@@ -12,12 +12,12 @@ domain-slug: domain/ops-cli
 
 # Evidence
 
-Found 2026-08-13 by the seat moving the `dev-server` verb bodies into the instructions repository, reading `packages/agents/dev-server/cli/src/lib/dev-server-ops.ts` against the help block at `tools/commands/dev-server/start.ts`.
+Found 2026-08-13 by the seat moving the `dev-server` verb bodies into akasha, reading `tools/lib/dev-server-ops.ts` against the help for `dev-server start`. The two halves of that help now stand apart: the summary at `tools/commands/dev-server/start.ts:1`, the description in the `# Help` section of `pages/old-ops-command/ops-dev-server-start.old-ops-command.md:19`.
 
-The summary reads "Spawn a Next.js dev server, detach it, and write a state file", and the description opens "Spawn a Next.js dev server for one app inside the project worktree". Both are what a listing and a `--help` show.
+The summary reads "Spawn a Next.js dev server, detach it, and write a state file", and the description opens "Spawn a Next.js dev server for one app inside the branch's worktree". Both are what a listing and a `--help` show; `ops dev-server --help` prints the first and `ops dev-server start --help` prints both.
 
-In `APP_REGISTRY`, all five apps declare the same `devCommand`: `["bunx", "react-router", "dev", "--port", "<PORT>"]`. None spawns `next`. The field's own comment in that file says the default "Defaults to Next.js's invocation; apps on other frameworks (Vite + React Router v7, etc.) override" — so the framework name looks like a description of a default that every entry has since overridden, left standing in the help after the registry moved.
+In `APP_REGISTRY` at `tools/lib/dev-server-ops.ts:40-77`, all five apps declare the same `devCommand`: `["bunx", "react-router", "dev", "--port", "<PORT>"]`. None spawns `next`. The `devCommand` field on `DevServerApp` at line 36 carries no comment any more — the note that once called Next.js the default, overridden by apps on other frameworks, is gone from the tree, so the framework name now stands in the help with nothing behind it at all.
 
 The word survives elsewhere in the namespace where it is still accurate: `bootstrap` writes `NEXT_PUBLIC_*` keys and reasons about Next.js's dotenv loader, and those are real key names rather than a claim about what is spawned.
 
-What makes it worth filing rather than fixing in place: the help blocks under `tools/commands/dev-server/` were landed byte-identical to what the code repository declared, and the body move was required to leave the declared surface untouched so a repair could not be mistaken for the move. The summary is also the `// command:` marker line, which the command list is derived from, so changing it changes what `ops` prints for the verb.
+What makes it worth filing rather than fixing in place: the help blocks under `tools/commands/dev-server/` were landed byte-identical to what the code repository declared, and the body move was required to leave the declared surface untouched so a repair could not be mistaken for the move. The summary is also the `export const summary` line at `tools/commands/dev-server/start.ts:1`, which the command list is derived from, so changing it changes what `ops dev-server --help` prints for the verb.
