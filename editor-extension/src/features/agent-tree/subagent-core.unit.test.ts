@@ -330,4 +330,39 @@ describe('running subagents', () => {
 		};
 		expect(labels([bash])).toEqual([]);
 	});
+
+	// The sweep a seat writes when it restarts names every subagent it could not
+	// account for in ONE notification, and it is the only record that ever clears one
+	// left over from a previous session. Reading only the first id left the rest on
+	// the tree for as long as the window lived.
+	test('a notification naming several agents clears every one of them', () => {
+		const sweep = {
+			type: 'user',
+			message: { content: '<task-notification>\n<task-id>a1</task-id>\n<task-id>a2</task-id>\n<status>stopped</status>\n<summary>No completion record was found for 2 background agents from the previous session</summary>\n</task-notification>' },
+		};
+		expect(
+			labels([
+				launch('t1', 'Survey'),
+				asyncResult('t1', 'a1'),
+				launch('t2', 'Sweep'),
+				asyncResult('t2', 'a2'),
+				sweep,
+			])
+		).toEqual([]);
+	});
+
+	// A kill writes one record for the whole session and nothing against the launches
+	// it ends, so every row it killed would otherwise read as working for as long as
+	// the seat lived.
+	test('killing every background agent of a session empties the tree', () => {
+		expect(
+			labels([
+				launch('t1', 'Survey'),
+				asyncResult('t1', 'a1'),
+				launch('t2', 'Sweep'),
+				asyncResult('t2', 'a2'),
+				{ type: 'system', subtype: 'agents_killed' },
+			])
+		).toEqual([]);
+	});
 });

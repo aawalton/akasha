@@ -70,7 +70,7 @@ const AGENT_TOOL = 'Agent';
  * notification to count.
  */
 const NOTIFICATION_BLOCK = /<task-notification>[\s\S]*?<\/task-notification>/g;
-const TASK_ID = /<task-id>([^<]+)<\/task-id>/;
+const TASK_ID = /<task-id>([^<]+)<\/task-id>/g;
 
 /**
  * A STOP, WHICH IS NOT ANNOUNCED. Stopping a subagent writes nothing against the
@@ -162,6 +162,16 @@ export function applyRecord(state: SubagentState, record: Json): undefined {
 	// abandoned by the message that made it. Neither working shape is touched: an
 	// async launch is answered inside its own turn, and a synchronous one is the
 	// last thing the parent wrote until it returns.
+	// EVERY BACKGROUND SUBAGENT AT ONCE, NAMED BY NONE OF THEM. Killing a seat's
+	// background agents writes one system record for the whole session and nothing
+	// against the launches it ends, so without this every row it killed reads as
+	// working for as long as the seat lives. It names no ids, which is why this
+	// clears the map rather than a row.
+	if (record.type === 'system' && record.subtype === 'agents_killed') {
+		for (const toolUseId of state.running.keys()) { state.running.set(toolUseId, false); }
+		state.awaiting.clear();
+	}
+
 	if (record.type === 'assistant') {
 		for (const toolUseId of state.awaiting) { state.running.set(toolUseId, false); }
 		state.awaiting.clear();
@@ -256,12 +266,19 @@ export function applyRecord(state: SubagentState, record: Json): undefined {
 	const blocks = NOTIFICATION_BLOCKS.safeParse(text.match(NOTIFICATION_BLOCK));
 	if (!blocks.success) { return undefined; }
 	for (const blockText of blocks.data) {
-		const match = ID_MATCH.safeParse(TASK_ID.exec(blockText));
-		if (!match.success) { continue; }
-		const id = match.data[1];
-		if (id === undefined) { continue; }
-		const toolUseId = state.agentByTool.get(id);
-		if (toolUseId !== undefined) { state.running.set(toolUseId, false); }
+		// EVERY ID IN THE BLOCK, NOT JUST THE FIRST. The sweep a seat writes when it
+		// restarts names every subagent it could not account for in ONE notification —
+		// six of them in the widest case here — and that sweep is the only record that
+		// ever clears a subagent left over from a previous session. Reading one id left
+		// every other one running for as long as the window lived.
+		for (const found of blockText.matchAll(TASK_ID)) {
+			const match = ID_MATCH.safeParse(found);
+			if (!match.success) { continue; }
+			const id = match.data[1];
+			if (id === undefined) { continue; }
+			const toolUseId = state.agentByTool.get(id);
+			if (toolUseId !== undefined) { state.running.set(toolUseId, false); }
+		}
 	}
 	return undefined;
 }
