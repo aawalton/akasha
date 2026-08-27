@@ -12,11 +12,11 @@ function plant(at: Fixture): void {
   seatStore(at)
   at.document("pages/domain/global.domain.md", 'page-type-slug: domain\nslug: global\ntitle: "Global"\ndomain-parent-slug: global', 20)
   at.document("pages/domain/code-quality.domain.md", 'page-type-slug: domain\nslug: code-quality\ntitle: "Code quality"\ndomain-parent-slug: global', 20)
-  at.document("domains/roles/reviewer.md", 'page-type-slug: role\nslug: reviewer\ntitle: "Reviewer"\ndomain-parent-slug: global', 20)
+  at.document("pages/role/reviewer.role.md", 'page-type-slug: role\nslug: reviewer\ntitle: "Reviewer"\ndomain-parent-slug: global', 20)
   at.document("pages/role/definer.role.md", 'page-type-slug: role\nslug: definer\ntitle: "Definer"\ndomain-parent-slug: global', 20)
   at.document("pages/persona/ryn.persona.md", 'page-type-slug: persona\nslug: ryn\ntitle: "Ryn"\nchampioned-domain-slug: code-quality\ndomain-parent-slug: global', 20)
   at.document("pages/person/alan.person.md", 'page-type-slug: person\nslug: alan\ntitle: "Alan"\ndomain-parent-slug: global', 20)
-  at.document("domains/tasks/build-change.md", 'page-type-slug: task\nslug: build-change\ntitle: "Build change"\ndomain-parent-slug: global', 20)
+  at.document("pages/task/build-change.task.md", 'page-type-slug: task\nslug: build-change\ntitle: "Build change"\ndomain-parent-slug: global', 20)
 }
 
 function assigned(tokens: readonly string[], root: string, stated = {}): readonly string[] {
@@ -57,11 +57,11 @@ describe("the sort", () => {
     }
   })
 
-  test("takes a token that resolves under domains/roles/ as the role, though it declares a domain too", () => {
+  test("takes a token whose page is a role page as the role, though it declares a domain too", () => {
     const at = fixture()
     try {
       plant(at)
-      expect(scan(at.root).slugs.get("reviewer")).toBe("domains/roles/reviewer.md")
+      expect(scan(at.root).slugs.get("reviewer")).toBe("pages/role/reviewer.role.md")
       expect(assigned(["reviewer"], at.root)).toEqual(["role=reviewer"])
     } finally {
       at.dispose()
@@ -96,7 +96,7 @@ describe("the sort", () => {
     const at = fixture()
     try {
       plant(at)
-      at.document("pages/task/verify-handback.task.md", "slug: verify-handback\ndomain-parent-slug: global", 20)
+      at.document("pages/task/projects/verify-handback.task.md", "slug: verify-handback\ndomain-parent-slug: global", 20)
       expect(assigned([], at.root, { task: "verify-handback" })).toEqual(["task=verify-handback"])
     } finally {
       at.dispose()
@@ -107,10 +107,10 @@ describe("the sort", () => {
     const at = fixture()
     try {
       plant(at)
-      at.document("domains/tasks/projects/build-change.md", "slug: build-change-nested\ndomain-parent-slug: global", 20)
+      at.document("pages/task/projects/build-change.task.md", "slug: build-change-nested\ndomain-parent-slug: global", 20)
       const refused = refusalsOf([], at.root, { task: "build-change" }).join("\n")
-      expect(refused).toContain("domains/tasks/build-change.md")
-      expect(refused).toContain("domains/tasks/projects/build-change.md")
+      expect(refused).toContain("pages/task/build-change.task.md")
+      expect(refused).toContain("pages/task/projects/build-change.task.md")
     } finally {
       at.dispose()
     }
