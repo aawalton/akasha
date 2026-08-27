@@ -36,7 +36,7 @@ specimen the check is proved against rather than commentary — and gutting one 
 nothing red, since a check reading a carrier that is gone reports no violations either.
 
 Usage:
-  bun ~/repos/instructions/tools/code-comment/strip.ts [--repo instructions|code] [--under <path>] [--write]
+  bun ~/repos/akasha/tools/code-comment/strip.ts [--repo instructions|code] [--under <path>] [--write]
 
 Flags:
   --repo <name>       Which tree to strip: \`instructions\` (default) or \`code\`.
