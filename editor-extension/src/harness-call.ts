@@ -49,50 +49,25 @@ import { promisify } from 'node:util';
 
 const execFileP = promisify(execFile);
 
-/** The instructions checkout `INSTRUCTIONS_ROOT` names, or the one under `~/repos`. */
-export function instructionsRoot(): string {
-	const stated = process.env.INSTRUCTIONS_ROOT;
-	return stated === undefined || stated === ''
-		? path.join(os.homedir(), 'repos', 'instructions')
-		: stated;
-}
-
 /**
- * The memory checkout `MEMORY_ROOT` names, or the one beside the instructions checkout.
+ * The akasha checkout `AKASHA_ROOT` names, or the one under `~/repos`.
  *
- * THE SAME TWO STEPS THE HARNESS TAKES. `tools/lib/roots.ts` reads `MEMORY_ROOT` and otherwise
- * resolves `memory` as a sibling of the instructions repository, and this repeats that pair rather
- * than naming a directory of its own. A checkout moved by the environment variable moves for the
- * editor on the same line it moves for the verbs, and a second rule here would let a watcher and
- * the command it triggers read two different trees.
+ * THE ONLY ROOT THIS EXTENSION RESOLVES. `instructions` and `memory` were absorbed into akasha and
+ * their checkouts are gone, so the two helpers that named them answered directories that are not
+ * there, and this one reached akasha by stepping up out of the instructions tree to find it.
  *
- * ANSWERED THROUGH `instructionsRoot` rather than through `os.homedir` directly, so the sibling is
- * taken from wherever `INSTRUCTIONS_ROOT` puts the harness rather than from `~/repos` regardless.
- */
-export function memoryRoot(): string {
-	const stated = process.env.MEMORY_ROOT;
-	return stated === undefined || stated === ''
-		? path.join(instructionsRoot(), '..', 'memory')
-		: stated;
-}
-
-/**
- * The akasha checkout `AKASHA_ROOT` names, or the one beside the instructions checkout.
- *
- * THE SAME TWO STEPS AS `memoryRoot`, against the repository that holds seat pages. Seats moved
- * out of memory into `akasha:agent/seat`, and a watcher left pointed at the old directory goes
- * quiet rather than failing, so the tab names simply stop arriving with nothing to read.
+ * BUILT FROM `os.homedir` rather than from a sibling, because there is no longer a second checkout
+ * to be a sibling of.
  */
 export function akashaRoot(): string {
 	const stated = process.env.AKASHA_ROOT;
 	return stated === undefined || stated === ''
-		? path.join(instructionsRoot(), '..', 'akasha')
+		? path.join(os.homedir(), 'repos', 'akasha')
 		: stated;
 }
 
 /**
- * `ops` by absolute path, resolved the way `verbPath` resolves a verb: akasha first, instructions
- * after, settled by which file is there. `ops` is not on the extension host's PATH.
+ * `ops` by absolute path, in the akasha checkout. `ops` is not on the extension host's PATH.
  *
  * A FUNCTION RATHER THAN A CONSTANT. A constant is resolved once at import and cannot be resolved
  * again, so a wrapper that moved would stay wrong in a running editor until it was restarted —
@@ -100,30 +75,21 @@ export function akashaRoot(): string {
  * the Domains and Work panels without saying why.
  */
 export function opsPath(): string {
-	const named = path.join('dotfiles', 'bin', 'ops');
-	const inAkasha = path.join(akashaRoot(), named);
-	return fs.existsSync(inAkasha) ? inAkasha : path.join(instructionsRoot(), named);
+	return path.join(akashaRoot(), 'dotfiles', 'bin', 'ops');
 }
 
 /**
- * A verb's file under `tools/`, in whichever checkout the tools tree stands in.
+ * A verb's file under `tools/` in the akasha checkout.
  *
- * AKASHA FIRST AND INSTRUCTIONS AFTER, which is the pair `dotfiles/bin/ops` resolves the
- * dispatcher by. The tools tree is moving between the two, and a reader naming one checkout alone
- * stops finding its verb on the commit that moves the file: `execFile` fails with ENOENT before
- * the verb runs, which takes the colour off every tab in the strip and empties the agent rows.
- * The fallback goes when the instructions tree does, not before.
+ * ONE CHECKOUT NOW. This looked in akasha and fell back to instructions while the tools tree was
+ * moving between them. The instructions tree is gone, so the fallback could only ever build a path
+ * into a missing directory and report the ENOENT against the wrong one.
  *
- * WHICHEVER FILE IS THERE, rather than whichever root is set. Both checkouts stand throughout the
- * move and only one of them holds any given verb at a time, so the file is what settles it.
- *
- * RESOLVED AT CALL TIME rather than held in a constant, so a build shipped before the move goes on
- * finding its verbs after it without being promoted again.
+ * RESOLVED AT CALL TIME rather than held in a constant, so a build shipped before a verb is added
+ * goes on finding it afterwards without being promoted again.
  */
 export function verbPath(verb: string): string {
-	const named = `${verb}.ts`;
-	const inAkasha = path.join(akashaRoot(), 'tools', named);
-	return fs.existsSync(inAkasha) ? inAkasha : path.join(instructionsRoot(), 'tools', named);
+	return path.join(akashaRoot(), 'tools', `${verb}.ts`);
 }
 
 /**
@@ -205,15 +171,14 @@ export async function runOps(args: readonly string[], options: HarnessCallOption
  * A repository path a verb named, spelled the way the workbench spells it.
  *
  * WHY THIS IS NEEDED AT ALL, MEASURED RATHER THAN GUESSED AT. `/home` on this machine is a symlink
- * to `var/home`, and `$HOME` is `/home/walton`. The two verbs the panels call resolve their roots
- * differently and both are right: `ops instructions champions --tree --json` answers
- * `/var/home/walton/repos/instructions`, resolved from where the repository actually is, while
- * `ops memory work-tree --json` answers `/home/walton/repos/memory`, built from `$HOME`. They are one
- * directory under two spellings.
+ * to `var/home`, and `$HOME` is `/home/walton`. The verbs the panels call resolve their roots
+ * differently and both ways are right: one resolved from where the repository actually is answers
+ * `/var/home/walton/repos/akasha`, while one built from `$HOME` answers `/home/walton/repos/akasha`.
+ * They are one directory under two spellings.
  *
- * WHAT THE SECOND SPELLING COSTS. The workspace holds these repositories as `/var/home/walton/...`,
- * so a watcher asked for `/home/walton/repos/memory` is asked for a path the workbench cannot see as one
- * it already watches, and stands up a second recursive watch over the same files. Resolving here
+ * WHAT THE SECOND SPELLING COSTS. The workspace holds this repository as `/var/home/walton/...`,
+ * so a watcher asked for `/home/walton/repos/akasha` is asked for a path the workbench cannot see as
+ * one it already watches, and stands up a second recursive watch over the same files. Resolving here
  * means a watcher lands on the folder the workspace already holds.
  *
  * A PATH THAT CANNOT BE RESOLVED IS ANSWERED UNCHANGED. This is a spelling correction and never a
