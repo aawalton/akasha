@@ -4,6 +4,7 @@ import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { resolve } from "node:path"
 import { expect } from "bun:test"
 import { formatSeatProcKey, readProcStartTicks } from "../lib/seat-proc-key.ts"
+import { installRepos } from "./fixture.ts"
 
 export const SCRIPT = resolve(import.meta.dir, "..", "statusline.sh")
 
@@ -25,6 +26,11 @@ const livePids: number[] = []
 export function sandbox(): Sandbox {
   const home = mkdtempSync(resolve("/var/tmp", "statusline-"))
   mkdirSync(resolve(home, ".claude"), { recursive: true })
+  // THE REPO PAGES SAY WHICH REPOSITORIES THERE ARE, read out of the root `AKASHA_ROOT` names. The
+  // statusline runs `seat-children-live.ts` and `seat-usage-keep.ts` as children pointed here, and
+  // both load `roots.ts`, which throws at import when this tree holds none — silently, the script
+  // discarding their output, so the line reads `[0]` and nothing is kept beside the seat.
+  installRepos(akashaDir(home))
   active = { home }
   return active
 }
@@ -150,7 +156,6 @@ export function runStatusline(
   }
   env.HOME = home
   env.AKASHA_ROOT = akashaDir(home)
-  env.MEMORY_ROOT = resolve(home, "memory")
   if (agentId !== null) env.AGENT_ID = agentId
   const result = spawnSync("bash", [SCRIPT], {
     input: JSON.stringify(payload),

@@ -53,9 +53,20 @@ function seatsIn(home: string): string {
   return resolve(akashaIn(home), "agent", "seat")
 }
 
-export function fakeHome(withCode = true): string {
+/**
+ * A home the guard can find a checkout under.
+ *
+ * THE `ops` NAME RESOLVES ITS DISPATCHER AT `$AKASHA_ROOT/tools/ops/cli.ts`, and this points
+ * `AKASHA_ROOT` at a temp tree so the seat pages are the fixture's own. Plant that path and the
+ * shim runs the stubbed `bun` this harness put on PATH; leave it out and `ops` refuses before the
+ * decider is ever asked, which is what `withDispatcher: false` is for.
+ */
+export function fakeHome(withDispatcher = true): string {
   const home = scratchTree("block-headless-halt-home-")
-  if (withCode) mkdirSync(resolve(home, "repos", "code"), { recursive: true })
+  if (withDispatcher) {
+    mkdirSync(resolve(akashaIn(home), "tools", "ops"), { recursive: true })
+    writeFileSync(resolve(akashaIn(home), "tools", "ops", "cli.ts"), "// stub\n")
+  }
   return home
 }
 
@@ -90,7 +101,6 @@ export function runHook(payload: Payload | string, env: Record<string, string> =
       ...env,
       HOME: home,
       AKASHA_ROOT: akashaIn(home),
-      MEMORY_ROOT: resolve(home, "memory"),
     },
   })
   return { exitCode: ran.exitCode, stdout: ran.stdout, stderr: ran.stderr, home }
