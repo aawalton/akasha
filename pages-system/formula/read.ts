@@ -4,8 +4,8 @@
  * Reading knows nothing of what a key holds, so it refuses only what is not
  * written in the language at all. What a formula names is left to checking.
  *
- * Each form the spec leaves unspelled is read by one function, so a ruling
- * re-spells it in one edit: `takeCase`, `takeGrouping`, `takeCall`, `takeNumber`.
+ * Each form stands in one function, so a re-spelling lands in one edit. What a
+ * key and a number are made of is the part no page states.
  */
 
 import type { Refused } from "./formula.ts"
