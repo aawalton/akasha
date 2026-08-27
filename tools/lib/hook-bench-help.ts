@@ -5,14 +5,14 @@ Composes a configuration directory the fleet does not share, installs the hooks 
 and nothing else, runs one headless session against them, and leaves everything it saw on
 disk. The run directory it wrote goes to stdout, one line; the summary goes to stderr.
 
-  RUN=\$(bun ~/repos/instructions/tools/hook-bench.ts --hooks h.json --prompt 'run: echo hi')
+  RUN=\$(bun ~/repos/akasha/tools/hook-bench.ts --hooks h.json --prompt 'run: echo hi')
   jq -r '.label, .received.tool_name' \$RUN/hooks.jsonl
 
 --hooks TAKES THE \`hooks\` OBJECT IN A SETTINGS FILE'S OWN SPELLING, so a chain under test
 is pasted rather than translated:
 
   { "PreToolUse": [ { "matcher": "Bash",
-      "hooks": [ { "type": "command", "command": "\$HOME/.bun/bin/bun \$HOME/repos/instructions/tools/hooks/hold-seat.ts" } ] } ] }
+      "hooks": [ { "type": "command", "command": "\$HOME/.bun/bin/bun \$HOME/repos/akasha/tools/hooks/block-whole-suite-run.ts" } ] } ] }
 
 EACH DECLARED COMMAND IS WRAPPED, in a shim that hands it stdin and replays its stdout,
 stderr and exit code unchanged. The client's own \`--include-hook-events\` reports every
@@ -35,7 +35,7 @@ WHAT LANDS IN THE RUN DIRECTORY:
   run.json       the argv, the environment overrides, and the verdict
 
 Usage:
-  bun ~/repos/instructions/tools/hook-bench.ts --hooks <path|-> (--prompt <text> | --prompt-file <path|->)
+  bun ~/repos/akasha/tools/hook-bench.ts --hooks <path|-> (--prompt <text> | --prompt-file <path|->)
       [--agents <path|->] [--model <name>] [--timeout <seconds>] [--run-dir <path>] [--account <name>]
 
 Flags:
