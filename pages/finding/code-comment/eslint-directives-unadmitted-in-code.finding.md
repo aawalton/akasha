@@ -2,20 +2,24 @@
 id: d1d38484-bee1-5a96-8e1d-5ce5b4e91755
 slug: eslint-directives-unadmitted-in-code
 page-type-slug: finding
-title: "Eslint directives unadmitted in code"
+title: "The toolchain recognises four comment forms the list does not name, and the direction this was filed in has reversed"
 domain-slug: domain/code-comment
 ---
 
 # Claim
 
-Twenty-three tracked files in the code repository carry an `eslint-disable` comment, and `domains/lists/code-comment-forms.md` no longer admits that form. Nothing is refused today: the `comment-forms` gate reports itself not-applicable outside the instructions repository. When the code repository is swept, those twenty-three files hold text no form admits.
+This finding was filed pointing one way and the world now points the other, so it is restated rather than left to be acted on backwards. No tracked source file carries an `eslint-disable` comment. The mismatch that survives runs the opposite way: `tools/code-comment/forms.ts` carries recognisers for four forms `pages/list/code-comment-forms.list.md` does not name — `eslint suppression`, `js type`, `js satisfies` and `source map`. Nothing reports that, because the code refuses only the reverse case.
 
 # Evidence
 
-Filed by the seat dispatching the 2026-08-14 `review-instructions` reading of `domains/lists/code-comment-forms.md`, which raised it after cutting the form at `4b9c2735c`.
+Filed by the seat dispatching the 2026-08-14 `review-instructions` reading of what is now `pages/list/code-comment-forms.list.md`, which raised it after cutting the form at `4b9c2735c`. That seat counted 23 files carrying `eslint-disable` in the code repository, every occurrence in a source file.
 
-I counted the files myself: `git grep -l eslint-disable` in the code repository returns 23, and the same count over `*.ts`, `*.tsx` and `*.js` returns 23, so every occurrence sits in a source file. The gate says in its own words that the instructions tree is "the tree swept of what stands outside them".
+Re-measured 2026-08-27 in akasha, which replaced both repositories, on `main`. `git grep -n eslint-disable` outside `node_modules` returns four lines and no directive among them: two are finding pages, one of them this one, and `tools/tests/code-comment-scan.test.ts:14` is a fixture list body rather than a comment in code. Control: `git grep -l import -- '*.ts'` returns 8,664 files, so the search ran. The 23 are gone.
 
-The reading judged the outcome correct rather than a loss — an eslint directive no linter reads is inert text, and inert text is what `domains/code-comment.md` **No Code Comments** exists to remove.
+What stands instead is the reverse mismatch. `pages/list/code-comment-forms.list.md` names seven forms at lines 27-33. `tools/code-comment/forms.ts` declares eleven recognisers at lines 39-50, the four extra being `eslint suppression` (line 41), `js type` (46), `js satisfies` (47) and `source map` (49).
 
-Not measured: nothing here says whether any of the 23 was ever load-bearing, whether a sweep of the code repository is planned, or what removing them would cost to review.
+Only one direction is refused. `formsFrom` throws `FormUnrecognised` where the list names a handle no recogniser matches — "write a recogniser beside the others". The opposite case ends at `RECOGNISERS.filter((form) => handles.includes(form.handle))` on the last line of that function, which drops an unnamed recogniser and says nothing. So the four sit in the code unreachable and unreported, and a reader of either document alone sees a set that agrees with itself.
+
+What this costs is a reader rather than a file today: a seat consulting `forms.ts` to learn what shapes are admitted reads four it may not write, and `Form Approval` reserves adding any of them to Alan.
+
+Not measured: whether the four recognisers were ever reachable, or which of the two documents the repair belongs in. Not renamed: this page's slug still spells the old direction, and moving it would break what names it, so the correction stands in the body.
