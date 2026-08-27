@@ -1,5 +1,5 @@
 
-import { HANDLER, JOINER, identityHeardFrom, personPrincipals } from "./compose-seat-name.ts"
+import { HANDLER, handlerSeatName, personPrincipals } from "./compose-seat-name.ts"
 import { readStated, type Stated } from "./message-to.ts"
 
 const SEGMENT = "/"
@@ -13,16 +13,9 @@ export interface Addressed {
   readonly id: string
 }
 
-export function handlerSeatNameFor(person: string, root: string): string {
-  const identity = identityHeardFrom(root, person)
-  return [identity, person, HANDLER]
-    .filter((segment): segment is string => segment !== null && segment !== "")
-    .join(JOINER)
-}
-
 export function personBehindHandlerSeat(name: string, root: string): string | null {
   for (const person of personPrincipals(root)) {
-    if (handlerSeatNameFor(person, root) === name) return person
+    if (handlerSeatName(person, root) === name) return person
   }
   return null
 }
