@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE HealthData [<!ELEMENT HealthData (ExportDate,Me,Record*)>]>
+<HealthData locale="en_US">
+ <ExportDate value="2024-01-15 08:30:00 -0800"/>
+ <Me HKCharacteristicTypeIdentifierBiologicalSex="HKBiologicalSexMale"/>
+ <Record type="HKQuantityTypeIdentifierHeartRateVariabilitySDNN" sourceName="Alan&#8217;s Apple Watch" sourceVersion="10.2" unit="ms" creationDate="2024-01-13 07:00:30 -0800" startDate="2024-01-13 07:00:00 -0800" endDate="2024-01-13 07:01:00 -0800" value="40">
+  <HeartRateVariabilityMetadataList>
+   <InstantaneousBeatsPerMinute bpm="60" time="7:00:00.10 AM"/>
+  </HeartRateVariabilityMetadataList>
+ </Record>
+ <Record type="HKQuantityTypeIdentifierHeartRateVariabilitySDNN" sourceName="Alan&#8217;s Apple Watch" sourceVersion="10.2" unit="ms" creationDate="2024-01-14 07:00:30 -0800" startDate="2024-01-14 07:00:00 -0800" endDate="2024-01-14 07:01:00 -0800" value="50"/>
+ <Record type="HKQuantityTypeIdentifierRestingHeartRate" sourceName="Alan&#8217;s Apple Watch" unit="count/min" startDate="2024-01-13 12:00:00 -0800" endDate="2024-01-13 12:00:00 -0800" value="60"/>
+ <Record type="HKQuantityTypeIdentifierRestingHeartRate" sourceName="Alan&#8217;s Apple Watch" unit="count/min" startDate="2024-01-14 12:00:00 -0800" endDate="2024-01-14 12:00:00 -0800" value="58"/>
+ <Record type="HKQuantityTypeIdentifierOxygenSaturation" sourceName="Alan&#8217;s Apple Watch" unit="%" startDate="2024-01-13 02:00:00 -0800" endDate="2024-01-13 02:01:00 -0800" value="0.95">
+  <MetadataEntry key="HKMetadataKeyBarometricPressure" value="101.2 kPa"/>
+ </Record>
+ <Record type="HKQuantityTypeIdentifierOxygenSaturation" sourceName="Alan&#8217;s Apple Watch" unit="%" startDate="2024-01-14 02:00:00 -0800" endDate="2024-01-14 02:01:00 -0800" value="0.97"/>
+ <Record type="HKQuantityTypeIdentifierStepCount" sourceName="Alan&#8217;s iPhone" unit="count" startDate="2024-01-13 09:00:00 -0800" endDate="2024-01-13 09:10:00 -0800" value="100"/>
+ <Record type="HKQuantityTypeIdentifierStepCount" sourceName="Alan&#8217;s iPhone" unit="count" startDate="2024-01-13 10:00:00 -0800" endDate="2024-01-13 10:10:00 -0800" value="200"/>
+ <Record type="HKQuantityTypeIdentifierStepCount" sourceName="Alan&#8217;s iPhone" unit="count" startDate="2024-01-14 09:00:00 -0800" endDate="2024-01-14 09:10:00 -0800" value="400"/>
+ <Record type="HKQuantityTypeIdentifierStepCount" sourceName="Alan&#8217;s iPhone" unit="count" startDate="2024-01-14 10:00:00 -0800" endDate="2024-01-14 10:10:00 -0800" value="600"/>
+ <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Alan&#8217;s Apple Watch" startDate="2024-01-13 01:00:00 -0800" endDate="2024-01-13 02:00:00 -0800" value="HKCategoryValueSleepAnalysisAsleepCore"/>
+ <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Alan&#8217;s Apple Watch" startDate="2024-01-13 02:00:00 -0800" endDate="2024-01-13 03:00:00 -0800" value="HKCategoryValueSleepAnalysisAsleepDeep"/>
+ <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Alan&#8217;s Apple Watch" startDate="2024-01-14 01:00:00 -0800" endDate="2024-01-14 03:00:00 -0800" value="HKCategoryValueSleepAnalysisAsleepCore"/>
+ <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Alan&#8217;s Apple Watch" startDate="2024-01-14 03:00:00 -0800" endDate="2024-01-14 04:30:00 -0800" value="HKCategoryValueSleepAnalysisAsleepREM"/>
+ <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Alan&#8217;s Apple Watch" startDate="2024-01-14 00:30:00 -0800" endDate="2024-01-14 06:00:00 -0800" value="HKCategoryValueSleepAnalysisInBed"/>
+ <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Alan&#8217;s Apple Watch" startDate="2024-01-14 04:30:00 -0800" endDate="2024-01-14 04:45:00 -0800" value="HKCategoryValueSleepAnalysisAwake"/>
+</HealthData>

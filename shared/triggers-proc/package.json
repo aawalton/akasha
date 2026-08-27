@@ -1,0 +1,24 @@
+{
+  "name": "@shared/triggers-proc",
+  "functionalType": "pure",
+  "version": "0.1.0",
+  "type": "module",
+  "private": true,
+  "exports": {
+    ".": "./src/index.ts",
+    "./pg": "./src/runtime/pg.ts",
+    "./*": "./src/*.ts"
+  },
+  "dependencies": {
+    "@shared/proc-compiler": "workspace:*"
+  },
+  "scripts": {
+    "typecheck": "bunx @typescript/native-preview -b",
+    "lint": "biome check .",
+    "lint:fix": "biome check --write ."
+  },
+  "devDependencies": {
+    "@types/bun": "^1.3.9",
+    "typescript": "^5.8.3"
+  }
+}

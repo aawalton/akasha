@@ -1,0 +1,30 @@
+{
+  "extends": "../../tsconfig.base.json",
+  "compilerOptions": {
+    "composite": true,
+    "noEmit": false,
+    "emitDeclarationOnly": true,
+    "declarationDir": "dist",
+    "types": [
+      "@types/bun"
+    ]
+  },
+  "references": [
+    {
+      "path": "../../shared/errors-core--from-instructions"
+    },
+    {
+      "path": "../../shared/utils-fs--from-instructions"
+    },
+    {
+      "path": "../health-samples-access--from-instructions"
+    }
+  ],
+  "include": [
+    "src/**/*.ts"
+  ],
+  "exclude": [
+    "node_modules",
+    "dist"
+  ]
+}

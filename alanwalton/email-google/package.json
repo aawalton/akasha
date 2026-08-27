@@ -1,0 +1,28 @@
+{
+  "name": "@alanwalton/email-google",
+  "functionalType": "io",
+  "version": "0.1.0",
+  "type": "module",
+  "private": true,
+  "exports": {
+    "./*": "./src/*.ts"
+  },
+  "scripts": {
+    "test": "bun test",
+    "typecheck": "bunx @typescript/native-preview -b",
+    "lint": "biome check .",
+    "lint:fix": "biome check --write ."
+  },
+  "dependencies": {
+    "@alanwalton/email-inbound": "workspace:*",
+    "@googleapis/gmail": "^17.0.0",
+    "@shared/errors-core": "workspace:*",
+    "@shared/pages-query": "workspace:*",
+    "@shared/utils-narrow": "workspace:*",
+    "zod": "^4.3.6"
+  },
+  "devDependencies": {
+    "@types/bun": "^1.3.9",
+    "typescript": "^5.8.3"
+  }
+}

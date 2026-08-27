@@ -1,0 +1,29 @@
+{
+  "name": "@shared/utils-narrow",
+  "functionalType": "pure",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "typecheck": "bunx @typescript/native-preview -b"
+  },
+  "main": "./src/index.ts",
+  "types": "./src/index.ts",
+  "exports": {
+    ".": "./src/index.ts",
+    "./assert-never": "./src/assert-never.ts",
+    "./badge-variant": "./src/badge-variant.ts",
+    "./collapse": "./src/collapse.ts",
+    "./capitalize": "./src/capitalize.ts",
+    "./create-data-file": "./src/create-data-file.ts",
+    "./get-subcategory": "./src/get-subcategory.ts",
+    "./validate": "./src/validate.ts",
+    "./*": "./src/*.ts"
+  },
+  "dependencies": {
+    "@shared/supabase-database": "workspace:*",
+    "zod": "^4.3.6"
+  },
+  "devDependencies": {
+    "@types/bun": "^1.3.9"
+  }
+}

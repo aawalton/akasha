@@ -1,0 +1,28 @@
+{
+  "name": "@shared/utils-system",
+  "functionalType": "io",
+  "type": "module",
+  "private": true,
+  "exports": {
+    "./inode-guard": "./src/inode-guard.ts",
+    "./memory-guard": "./src/memory-guard.ts",
+    "./memory-monitor": "./src/memory-monitor.ts",
+    "./supervisor-cmdline": "./src/supervisor-cmdline.ts",
+    "./worktree-paths": "./src/worktree-paths.ts",
+    "./*": "./src/*.ts"
+  },
+  "bin": {
+    "utils-system": "./src/cli.ts"
+  },
+  "scripts": {
+    "typecheck": "bunx @typescript/native-preview -b"
+  },
+  "dependencies": {
+    "@shared/errors-core": "workspace:*",
+    "@shared/utils-narrow": "workspace:*",
+    "zod": "^4.3.6"
+  },
+  "devDependencies": {
+    "@types/bun": "^1.3.9"
+  }
+}

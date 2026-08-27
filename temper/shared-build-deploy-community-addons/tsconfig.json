@@ -1,0 +1,30 @@
+{
+  "extends": "../../tsconfig.base.json",
+  "compilerOptions": {
+    "composite": true,
+    "noEmit": false,
+    "emitDeclarationOnly": true,
+    "declarationDir": "dist",
+    "lib": [
+      "esnext"
+    ],
+    "types": [
+      "@types/bun"
+    ]
+  },
+  "references": [
+    {
+      "path": "../../shared/errors-core--from-instructions"
+    },
+    {
+      "path": "../../shared/utils-narrow--from-instructions"
+    }
+  ],
+  "include": [
+    "src/**/*.ts"
+  ],
+  "exclude": [
+    "node_modules",
+    "dist"
+  ]
+}

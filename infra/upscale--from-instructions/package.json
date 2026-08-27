@@ -1,0 +1,21 @@
+{
+  "name": "@infra/upscale",
+  "functionalType": "program",
+  "version": "0.1.0",
+  "type": "module",
+  "private": true,
+  "bin": {
+    "upscale-up": "./bin/upscale-up.sh",
+    "upscale-down": "./bin/upscale-down.sh",
+    "upscale-smoke": "./bin/upscale-smoke.sh",
+    "upscale-provision": "./bin/upscale-provision.sh",
+    "upscale-run": "./bin/upscale-run.sh",
+    "upscale-seedvr2": "./bin/upscale-seedvr2.sh",
+    "upscale-srpo": "./bin/upscale-srpo.sh",
+    "upscale-cluster-publish": "./bin/upscale-cluster-publish.sh"
+  },
+  "scripts": {
+    "lint": "biome check .",
+    "lint:fix": "biome check --write ."
+  }
+}

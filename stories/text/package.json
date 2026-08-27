@@ -1,0 +1,19 @@
+{
+  "name": "@stories/text",
+  "functionalType": "pure",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "typecheck": "bunx @typescript/native-preview -b",
+    "test": "bun test"
+  },
+  "main": "./src/index.ts",
+  "types": "./src/index.ts",
+  "exports": {
+    ".": "./src/index.ts",
+    "./*": "./src/*.ts"
+  },
+  "devDependencies": {
+    "@types/bun": "^1.3.9"
+  }
+}

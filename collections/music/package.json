@@ -1,0 +1,30 @@
+{
+  "name": "@collections/music",
+  "functionalType": "program",
+  "type": "module",
+  "private": true,
+  "exports": {
+    "./spotify-reads": "./src/spotify-reads.ts",
+    "./cli/resolve": "./src/cli/resolve.ts",
+    "./cli/track-candidate": "./src/cli/track-candidate.ts",
+    "./eppie/select": "./src/eppie/select.ts",
+    "./musicbrainz/import": "./src/musicbrainz/import.ts",
+    "./*": "./src/*.ts"
+  },
+  "scripts": {
+    "auth": "bun run src/auth-cli.ts",
+    "typecheck": "bunx @typescript/native-preview -b"
+  },
+  "dependencies": {
+    "@collections/music-spotify": "workspace:*",
+    "@shared/errors-core": "workspace:*",
+    "@shared/pages-query": "workspace:*",
+    "@shared/recurrence": "workspace:*",
+    "@shared/utils-narrow": "workspace:*",
+    "zod": "^4.3.6"
+  },
+  "devDependencies": {
+    "@types/bun": "^1.3.9",
+    "typescript": "^5.8.3"
+  }
+}

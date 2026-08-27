@@ -1,0 +1,36 @@
+import type { MobileApp } from "./apps"
+
+export function buildExportOptionsPlist(app: MobileApp): string {
+  const widgetMapping =
+    app.widgetBundleId === null
+      ? []
+      : [`    <key>${app.widgetBundleId}</key>`, "    <string>$SIGN_PROFILE_UUID_WIDGET</string>"]
+  return [
+    '<?xml version="1.0" encoding="UTF-8"?>',
+    '<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">',
+    '<plist version="1.0">',
+    "<dict>",
+    "  <key>method</key>",
+    "  <string>app-store-connect</string>",
+    "  <key>signingStyle</key>",
+    "  <string>manual</string>",
+    "  <key>teamID</key>",
+    `  <string>${app.developmentTeam}</string>`,
+    "  <key>provisioningProfiles</key>",
+    "  <dict>",
+    `    <key>${app.bundleId}</key>`,
+    "    <string>$SIGN_PROFILE_UUID</string>",
+    ...widgetMapping,
+    "  </dict>",
+    "  <key>signingCertificate</key>",
+    "  <string>$SIGN_CERT_SHA1</string>",
+    "  <key>uploadSymbols</key>",
+    "  <true/>",
+    "  <key>stripSwiftSymbols</key>",
+    "  <true/>",
+    "  <key>destination</key>",
+    "  <string>export</string>",
+    "</dict>",
+    "</plist>",
+  ].join("\n")
+}

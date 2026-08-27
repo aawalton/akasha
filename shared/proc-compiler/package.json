@@ -1,0 +1,28 @@
+{
+  "name": "@shared/proc-compiler",
+  "functionalType": "pure",
+  "version": "0.1.0",
+  "type": "module",
+  "private": true,
+  "exports": {
+    "./forbidden": "./src/forbidden.ts",
+    "./emit": "./src/emit.ts",
+    "./signature": "./src/signature.ts",
+    "./ts-helpers": "./src/ts-helpers.ts",
+    "./passthrough": "./src/passthrough.ts",
+    "./trigger-ctx": "./src/trigger-ctx.ts",
+    "./*": "./src/*.ts"
+  },
+  "dependencies": {
+    "typescript": "^5.8.3"
+  },
+  "scripts": {
+    "typecheck": "bunx @typescript/native-preview -b",
+    "lint": "biome check .",
+    "lint:fix": "biome check --write ."
+  },
+  "devDependencies": {
+    "@types/bun": "^1.3.9",
+    "typescript": "^5.8.3"
+  }
+}

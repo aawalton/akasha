@@ -1,0 +1,103 @@
+# Reproducible ComfyUI image for CUDA portrait upscaling on the workstation
+# RTX 5080 (Blackwell, sm_120, 16 GB). Two-stage skin-realism pipeline:
+#   stage 1 — SeedVR2 v2.5 (7B) one-step upscale (numz node, GGUF-capable)
+#   stage 2 — SRPO (FLUX.1-dev preference fine-tune) low-denoise skin inpaint
+#
+# Deliberately leaner than @infra/wan: no SageAttention (an optional speed layer
+# whose Triton backend can blacken frames — SeedVR2/SRPO run on native attention)
+# and no VideoHelperSuite (video-only). torch 2.9.1 cu128 carries native sm_120
+# kernels and is the exact build @infra/wan proves working on this card.
+#
+# Build:  podman build -t upscale:local -f Containerfile .
+# Run:    see bin/upscale-up.sh
+FROM nvidia/cuda:12.8.1-devel-ubuntu24.04
+
+ENV DEBIAN_FRONTEND=noninteractive
+# 12.0 = sm_120 (Blackwell). ref https://en.wikipedia.org/wiki/CUDA
+ENV TORCH_CUDA_ARCH_LIST="8.0 8.6 8.9 9.0 10.0 12.0"
+
+RUN apt-get update && apt-get install --no-install-recommends -y \
+    git \
+    curl \
+    build-essential \
+    cmake \
+    wget \
+    python3.12 \
+    python3-pip \
+    python3-dev \
+    python3-setuptools \
+    python3-wheel \
+    python3-venv \
+    ffmpeg \
+    libgl1 \
+    libglib2.0-0 \
+    && apt-get clean \
+    && rm -rf /var/lib/apt/lists/*
+
+RUN ln -s /usr/bin/python3 /usr/bin/python
+WORKDIR /app
+
+# Install torch BEFORE the clones so the multi-GB Blackwell wheel layer stays
+# cached across custom-node ref bumps. cu128 wheels carry native sm_120 kernels;
+# torchaudio is pinned alongside so a custom node's requirements.txt cannot pull
+# a default-index torchaudio that would clobber the cu128 torch.
+RUN pip install --no-cache-dir --break-system-packages \
+    torch==2.9.1 torchvision==0.24.1 torchaudio==2.9.1 \
+    --index-url https://download.pytorch.org/whl/cu128
+
+# Pinned revisions. ComfyUI + ComfyUI-GGUF reuse the @infra/wan pins (proven
+# working with torch 2.9.1 cu128 on this card, resolved 2026-06-12); the SeedVR2
+# node is pinned to tag v2.5.23 (well past the v2.5.6 "natural look" patch that
+# corrected the 7B model's overly-plastic/high-specular output); the person-mask
+# generator (SRPO stage-2 skin masking) is pinned to its 2026-07-04 HEAD.
+ARG COMFYUI_REF=28a40fb2b2b30a6fcd45ff824cc6f1093e26ee90
+ARG COMFYUI_GGUF_REF=6ea2651e7df66d7585f6ffee804b20e92fb38b8a
+ARG SEEDVR2_REF=5a4bf428f3735cc72ac760d40f372f94dec28422
+ARG PERSONMASK_REF=d2587540ff7ce7154f3fddfbf01a8628d77bf3c9
+
+RUN git clone https://github.com/comfyanonymous/ComfyUI.git && \
+    cd ComfyUI && \
+    git checkout "${COMFYUI_REF}"
+
+RUN pip install --no-cache-dir --break-system-packages -r /app/ComfyUI/requirements.txt
+
+# GGUF UNet loaders — used by both the SeedVR2 GGUF quants and the SRPO GGUF.
+RUN cd /app/ComfyUI/custom_nodes && \
+    git clone https://github.com/city96/ComfyUI-GGUF.git && \
+    cd ComfyUI-GGUF && \
+    git checkout "${COMFYUI_GGUF_REF}" && \
+    pip install --no-cache-dir --break-system-packages -r requirements.txt
+
+# SeedVR2 one-step upscaler nodes (stage 1). Strip any torch pin from the node's
+# requirements before install so pip cannot silently replace the cu128 torch
+# with a default-index build lacking sm_120 kernels (the documented Blackwell
+# footgun).
+RUN cd /app/ComfyUI/custom_nodes && \
+    git clone https://github.com/numz/ComfyUI-SeedVR2_VideoUpscaler.git && \
+    cd ComfyUI-SeedVR2_VideoUpscaler && \
+    git checkout "${SEEDVR2_REF}" && \
+    ( [ -f requirements.txt ] && sed -i -E '/^(torch|torchvision|torchaudio)([<>=!~ ]|$)/d' requirements.txt || true ) && \
+    ( [ -f requirements.txt ] && pip install --no-cache-dir --break-system-packages -r requirements.txt || true )
+
+# Person/skin mask generator for the SRPO stage-2 masked inpaint. Same torch-pin
+# strip guard.
+RUN cd /app/ComfyUI/custom_nodes && \
+    git clone https://github.com/djbielejeski/a-person-mask-generator.git && \
+    cd a-person-mask-generator && \
+    git checkout "${PERSONMASK_REF}" && \
+    ( [ -f requirements.txt ] && sed -i -E '/^(torch|torchvision|torchaudio)([<>=!~ ]|$)/d' requirements.txt || true ) && \
+    ( [ -f requirements.txt ] && pip install --no-cache-dir --break-system-packages -r requirements.txt || true )
+
+# hf_transfer speeds the ~25 GB weight pull (upscale provision).
+RUN pip install --no-cache-dir --break-system-packages \
+    "huggingface_hub[hf_transfer]"
+
+ENV HF_HUB_ENABLE_HF_TRANSFER=1
+ENV PYTORCH_ALLOC_CONF=expandable_segments:True
+
+EXPOSE 8677
+WORKDIR /app/ComfyUI
+# Inside-container listen must be 0.0.0.0 for the podman port publish; the
+# publish itself binds host 127.0.0.1 only (see bin/upscale-up.sh). Port 8677
+# is one above @infra/wan's 8676 so both daemons can be up at once.
+CMD ["python", "main.py", "--listen", "0.0.0.0", "--port", "8677"]

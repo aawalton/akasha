@@ -1,0 +1,27 @@
+import type { NodeType } from "../../../../../instructions/tools/lib/workflow-dsl/types.ts"
+
+export const CHECK_WORKFLOW_DISPATCH_NODE_TYPES: readonly NodeType[] = [
+  "package",
+  "workflow",
+  "namespace-role",
+  "ts-file",
+  "tsx-file",
+  "js-file",
+  "jsx-file",
+  "md-file",
+  "css-file",
+  "yaml-file",
+  "yml-file",
+  "lua-file",
+  "sql-file",
+  "json-file",
+  "sh-file",
+  "rust-file",
+  "toml-file",
+  "swift-file",
+  "dockerfile-file",
+  "systemd-unit-file",
+  "txt-file",
+  "lock-file",
+  "tsconfig-file",
+]

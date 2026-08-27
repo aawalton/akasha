@@ -1,0 +1,34 @@
+{
+  "name": "@alanwalton/tower",
+  "functionalType": "io",
+  "version": "0.1.0",
+  "type": "module",
+  "private": true,
+  "exports": {
+    "./tower/combat-mapping": "./src/tower/combat-mapping.ts",
+    "./tower/page-types": "./src/tower/page-types.ts",
+    "./tower/plan-archive": "./src/tower/plan-archive.ts",
+    "./tower/render-chapter": "./src/tower/render-chapter.ts",
+    "./tower/resolve-hero": "./src/tower/resolve-hero.ts",
+    "./tower/retrofit-system-cards": "./src/tower/retrofit-system-cards.ts",
+    "./tower/roll-payload": "./src/tower/roll-payload.ts",
+    "./*": "./src/*.ts"
+  },
+  "scripts": {
+    "test": "bun test",
+    "typecheck": "bunx @typescript/native-preview -b",
+    "lint": "biome check .",
+    "lint:fix": "biome check --write ."
+  },
+  "dependencies": {
+    "@alanwalton/tower-core": "workspace:*",
+    "@alanwalton/tower-engine": "workspace:*",
+    "@shared/utils-narrow": "workspace:*",
+    "@stories/text": "workspace:*",
+    "zod": "^4.3.6"
+  },
+  "devDependencies": {
+    "@types/bun": "^1.3.9",
+    "typescript": "^5.8.3"
+  }
+}

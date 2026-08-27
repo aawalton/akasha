@@ -1,0 +1,28 @@
+{
+  "name": "@shared/triggers-proc-compiler",
+  "functionalType": "program",
+  "version": "0.1.0",
+  "type": "module",
+  "private": true,
+  "exports": {
+    ".": "./src/index.ts",
+    "./*": "./src/*.ts"
+  },
+  "bin": {
+    "compile-trigger-proc": "./src/bin/compile.ts"
+  },
+  "dependencies": {
+    "@shared/proc-compiler": "workspace:*",
+    "typescript": "^5.8.3"
+  },
+  "scripts": {
+    "typecheck": "bunx @typescript/native-preview -b",
+    "lint": "biome check .",
+    "lint:fix": "biome check --write ."
+  },
+  "devDependencies": {
+    "@shared/triggers-proc": "workspace:*",
+    "@types/bun": "^1.3.9",
+    "typescript": "^5.8.3"
+  }
+}

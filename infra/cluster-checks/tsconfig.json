@@ -1,0 +1,73 @@
+{
+  "extends": "../../tsconfig.base.json",
+  "compilerOptions": {
+    "composite": true,
+    "noEmit": false,
+    "emitDeclarationOnly": true,
+    "declarationDir": "dist",
+    "types": [
+      "@types/bun"
+    ]
+  },
+  "references": [
+    {
+      "path": "../../shared/errors-core--from-instructions"
+    },
+    {
+      "path": "../../shared/design/tokens"
+    },
+    {
+      "path": "../../shared/graph/core"
+    },
+    {
+      "path": "../../shared/graph/producers"
+    },
+    {
+      "path": "../../shared/pages-query--from-instructions"
+    },
+    {
+      "path": "../../shared/utils-fs--from-instructions"
+    },
+    {
+      "path": "../../shared/utils-narrow--from-instructions"
+    },
+    {
+      "path": "../../shared/verdict--from-instructions"
+    },
+    {
+      "path": "../../shared/worker-runtime"
+    },
+    {
+      "path": "../../shared/workspace-paths--from-instructions"
+    },
+    {
+      "path": "../../temper/shared-build-deploy-addons-resolve--from-instructions"
+    },
+    {
+      "path": "../../temper/shared-foundation-misc-eso-paths--from-instructions"
+    },
+    {
+      "path": "../ci/pipeline-core"
+    },
+    {
+      "path": "../k8s--from-instructions"
+    },
+    {
+      "path": "../k8s-types--from-instructions"
+    },
+    {
+      "path": "../scripts--from-instructions"
+    },
+    {
+      "path": "../workflow-dsl"
+    }
+  ],
+  "include": [
+    "src/**/*.ts"
+  ],
+  "exclude": [
+    "node_modules",
+    "dist",
+    "./**/*.test.ts"
+  ]
+}

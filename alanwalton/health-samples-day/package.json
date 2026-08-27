@@ -1,0 +1,25 @@
+{
+  "name": "@alanwalton/health-samples-day",
+  "functionalType": "access",
+  "version": "0.1.0",
+  "type": "module",
+  "private": true,
+  "exports": {
+    "./*": "./src/*.ts"
+  },
+  "dependencies": {
+    "@alanwalton/health-samples-access": "workspace:*",
+    "@shared/pages-query": "workspace:*",
+    "@shared/recurrence": "workspace:*"
+  },
+  "scripts": {
+    "typecheck": "bunx @typescript/native-preview -b",
+    "lint": "biome check .",
+    "lint:fix": "biome check --write .",
+    "test": "bun test"
+  },
+  "devDependencies": {
+    "@types/bun": "^1.3.9",
+    "typescript": "^5.8.3"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "@temper/shared-addon-libraries-lib-sets-scripts",
+  "functionalType": "io",
+  "version": "0.1.0",
+  "type": "module",
+  "private": true,
+  "dependencies": {
+    "@infra/git-porcelain": "workspace:*",
+    "@temper/shared-build-deploy-lua-runner": "workspace:*",
+    "@temper/shared-foundation-misc-eso-paths": "workspace:*"
+  },
+  "devDependencies": {
+    "@types/bun": "^1.3.9",
+    "typescript": "^5.8.3"
+  },
+  "scripts": {
+    "typecheck": "bunx @typescript/native-preview -b",
+    "test": "bun test",
+    "lint": "biome check .",
+    "lint:fix": "biome check --write ."
+  }
+}

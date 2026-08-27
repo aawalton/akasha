@@ -1,0 +1,19 @@
+{
+  "extends": "../../tsconfig.base.json",
+  "compilerOptions": {
+    "composite": true,
+    "noEmit": false,
+    "emitDeclarationOnly": true,
+    "declarationDir": "dist",
+    "types": ["@types/bun"]
+  },
+  "references": [
+    { "path": "../../shared/supabase-server--from-instructions" },
+    { "path": "../../shared/utils-narrow--from-instructions" },
+    { "path": "../../stories/text" },
+    { "path": "../tower-core" },
+    { "path": "../tower-engine" }
+  ],
+  "include": ["src/**/*.ts"],
+  "exclude": ["node_modules", "dist"]
+}
