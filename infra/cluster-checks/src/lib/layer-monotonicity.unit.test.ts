@@ -56,12 +56,12 @@ describe("findLayerViolations", () => {
     const out = findLayerViolations(
       input({
         workspaces: [
-          { name: "@x/core", path: "packages/x/core" },
-          { name: "@x/access", path: "packages/x/access" },
+          { name: "@x/core", path: "x/core" },
+          { name: "@x/access", path: "x/access" },
         ],
         typeByPath: new Map([
-          ["packages/x/core", "pure"],
-          ["packages/x/access", "access"],
+          ["x/core", "pure"],
+          ["x/access", "access"],
         ]),
         edges: [runtimeEdge("@x/core", "@x/access")],
       })
@@ -72,13 +72,13 @@ describe("findLayerViolations", () => {
     if (finding?.kind !== "RankInversion") throw new Error("unreachable")
     expect(finding.importer).toEqual({
       name: "@x/core",
-      path: "packages/x/core",
+      path: "x/core",
       functionalType: "pure",
       rank: 1,
     })
     expect(finding.importee).toEqual({
       name: "@x/access",
-      path: "packages/x/access",
+      path: "x/access",
       functionalType: "access",
       rank: 2,
     })
@@ -88,12 +88,12 @@ describe("findLayerViolations", () => {
     const out = findLayerViolations(
       input({
         workspaces: [
-          { name: "@x/ui", path: "packages/x/ui" },
-          { name: "@x/core", path: "packages/x/core" },
+          { name: "@x/ui", path: "x/ui" },
+          { name: "@x/core", path: "x/core" },
         ],
         typeByPath: new Map([
-          ["packages/x/ui", "next-ui"],
-          ["packages/x/core", "pure"],
+          ["x/ui", "next-ui"],
+          ["x/core", "pure"],
         ]),
         edges: [runtimeEdge("@x/ui", "@x/core")],
       })
@@ -105,12 +105,12 @@ describe("findLayerViolations", () => {
     const out = findLayerViolations(
       input({
         workspaces: [
-          { name: "@x/cli", path: "packages/x/cli" },
-          { name: "@x/service", path: "packages/x/service" },
+          { name: "@x/cli", path: "x/cli" },
+          { name: "@x/service", path: "x/service" },
         ],
         typeByPath: new Map([
-          ["packages/x/cli", "program"],
-          ["packages/x/service", "service"],
+          ["x/cli", "program"],
+          ["x/service", "service"],
         ]),
         edges: [runtimeEdge("@x/cli", "@x/service")],
       })
@@ -122,12 +122,12 @@ describe("findLayerViolations", () => {
     const out = findLayerViolations(
       input({
         workspaces: [
-          { name: "@x/access", path: "packages/x/access" },
-          { name: "@x/core", path: "packages/x/core" },
+          { name: "@x/access", path: "x/access" },
+          { name: "@x/core", path: "x/core" },
         ],
         typeByPath: new Map([
-          ["packages/x/access", "access"],
-          ["packages/x/core", "pure"],
+          ["x/access", "access"],
+          ["x/core", "pure"],
         ]),
         edges: [runtimeEdge("@x/access", "@x/core")],
       })
@@ -139,12 +139,12 @@ describe("findLayerViolations", () => {
     const out = findLayerViolations(
       input({
         workspaces: [
-          { name: "@x/cli", path: "packages/x/cli" },
-          { name: "@x/access", path: "packages/x/access" },
+          { name: "@x/cli", path: "x/cli" },
+          { name: "@x/access", path: "x/access" },
         ],
         typeByPath: new Map([
-          ["packages/x/cli", "program"],
-          ["packages/x/access", "access"],
+          ["x/cli", "program"],
+          ["x/access", "access"],
         ]),
         edges: [runtimeEdge("@x/cli", "@x/access")],
       })
@@ -156,12 +156,12 @@ describe("findLayerViolations", () => {
     const out = findLayerViolations(
       input({
         workspaces: [
-          { name: "@x/access", path: "packages/x/access" },
-          { name: "@x/cli", path: "packages/x/cli" },
+          { name: "@x/access", path: "x/access" },
+          { name: "@x/cli", path: "x/cli" },
         ],
         typeByPath: new Map([
-          ["packages/x/access", "access"],
-          ["packages/x/cli", "program"],
+          ["x/access", "access"],
+          ["x/cli", "program"],
         ]),
         edges: [runtimeEdge("@x/access", "@x/cli")],
       })
@@ -173,16 +173,16 @@ describe("findLayerViolations", () => {
     const out = findLayerViolations(
       input({
         workspaces: [
-          { name: "@x/core-a", path: "packages/x/core-a" },
-          { name: "@x/core-b", path: "packages/x/core-b" },
-          { name: "@x/access", path: "packages/x/access" },
-          { name: "@x/ui", path: "packages/x/ui" },
+          { name: "@x/core-a", path: "x/core-a" },
+          { name: "@x/core-b", path: "x/core-b" },
+          { name: "@x/access", path: "x/access" },
+          { name: "@x/ui", path: "x/ui" },
         ],
         typeByPath: new Map([
-          ["packages/x/core-a", "pure"],
-          ["packages/x/core-b", "pure"],
-          ["packages/x/access", "access"],
-          ["packages/x/ui", "next-ui"],
+          ["x/core-a", "pure"],
+          ["x/core-b", "pure"],
+          ["x/access", "access"],
+          ["x/ui", "next-ui"],
         ]),
         edges: [
           runtimeEdge("@x/core-b", "@x/ui"),
@@ -201,10 +201,10 @@ describe("findLayerViolations", () => {
     const out = findLayerViolations(
       input({
         workspaces: [
-          { name: "@x/core", path: "packages/x/core" },
-          { name: "@x/missing", path: "packages/x/missing" },
+          { name: "@x/core", path: "x/core" },
+          { name: "@x/missing", path: "x/missing" },
         ],
-        typeByPath: new Map([["packages/x/core", "pure"]]),
+        typeByPath: new Map([["x/core", "pure"]]),
         edges: [runtimeEdge("@x/core", "@x/missing")],
       })
     )
@@ -215,12 +215,12 @@ describe("findLayerViolations", () => {
     const out = findLayerViolations(
       input({
         workspaces: [
-          { name: "@x/a", path: "packages/x/a" },
-          { name: "@x/b", path: "packages/x/b" },
+          { name: "@x/a", path: "x/a" },
+          { name: "@x/b", path: "x/b" },
         ],
         typeByPath: new Map([
-          ["packages/x/a", "pure"],
-          ["packages/x/b", "mystery"],
+          ["x/a", "pure"],
+          ["x/b", "mystery"],
         ]),
         edges: [runtimeEdge("@x/a", "@x/b")],
       })
@@ -231,8 +231,8 @@ describe("findLayerViolations", () => {
   test("self-loop edges are checked but rank(u) >= rank(u) always holds, so allowed", () => {
     const out = findLayerViolations(
       input({
-        workspaces: [{ name: "@x/core", path: "packages/x/core" }],
-        typeByPath: new Map([["packages/x/core", "pure"]]),
+        workspaces: [{ name: "@x/core", path: "x/core" }],
+        typeByPath: new Map([["x/core", "pure"]]),
         edges: [runtimeEdge("@x/core", "@x/core")],
       })
     )
@@ -242,8 +242,8 @@ describe("findLayerViolations", () => {
   test("edge naming an unknown workspace name is skipped (no crash)", () => {
     const out = findLayerViolations(
       input({
-        workspaces: [{ name: "@x/core", path: "packages/x/core" }],
-        typeByPath: new Map([["packages/x/core", "pure"]]),
+        workspaces: [{ name: "@x/core", path: "x/core" }],
+        typeByPath: new Map([["x/core", "pure"]]),
         edges: [runtimeEdge("@x/core", "@x/ghost")],
       })
     )
@@ -254,12 +254,12 @@ describe("findLayerViolations", () => {
     const out = findLayerViolations(
       input({
         workspaces: [
-          { name: "@x/core", path: "packages/x/core" },
-          { name: "@x/access", path: "packages/x/access" },
+          { name: "@x/core", path: "x/core" },
+          { name: "@x/access", path: "x/access" },
         ],
         typeByPath: new Map([
-          ["packages/x/core", "pure"],
-          ["packages/x/access", "access"],
+          ["x/core", "pure"],
+          ["x/access", "access"],
         ]),
         edges: [devEdge("@x/core", "@x/access")],
       })
@@ -271,12 +271,12 @@ describe("findLayerViolations", () => {
     const peerOut = findLayerViolations(
       input({
         workspaces: [
-          { name: "@x/core", path: "packages/x/core" },
-          { name: "@x/cli", path: "packages/x/cli" },
+          { name: "@x/core", path: "x/core" },
+          { name: "@x/cli", path: "x/cli" },
         ],
         typeByPath: new Map([
-          ["packages/x/core", "pure"],
-          ["packages/x/cli", "program"],
+          ["x/core", "pure"],
+          ["x/cli", "program"],
         ]),
         edges: [{ source: "@x/core", target: "@x/cli", kind: "peerDependencies" }],
       })
@@ -286,12 +286,12 @@ describe("findLayerViolations", () => {
     const optOut = findLayerViolations(
       input({
         workspaces: [
-          { name: "@x/core", path: "packages/x/core" },
-          { name: "@x/cli", path: "packages/x/cli" },
+          { name: "@x/core", path: "x/core" },
+          { name: "@x/cli", path: "x/cli" },
         ],
         typeByPath: new Map([
-          ["packages/x/core", "pure"],
-          ["packages/x/cli", "program"],
+          ["x/core", "pure"],
+          ["x/cli", "program"],
         ]),
         edges: [{ source: "@x/core", target: "@x/cli", kind: "optionalDependencies" }],
       })
@@ -303,14 +303,14 @@ describe("findLayerViolations", () => {
     const out = findLayerViolations(
       input({
         workspaces: [
-          { name: "@x/core", path: "packages/x/core" },
-          { name: "@x/cli-runtime", path: "packages/x/cli-runtime" },
-          { name: "@x/cli-test", path: "packages/x/cli-test" },
+          { name: "@x/core", path: "x/core" },
+          { name: "@x/cli-runtime", path: "x/cli-runtime" },
+          { name: "@x/cli-test", path: "x/cli-test" },
         ],
         typeByPath: new Map([
-          ["packages/x/core", "pure"],
-          ["packages/x/cli-runtime", "program"],
-          ["packages/x/cli-test", "program"],
+          ["x/core", "pure"],
+          ["x/cli-runtime", "program"],
+          ["x/cli-test", "program"],
         ]),
         edges: [runtimeEdge("@x/core", "@x/cli-runtime"), devEdge("@x/core", "@x/cli-test")],
       })
@@ -324,14 +324,14 @@ describe("findLayerViolations", () => {
 
 describe("judgeLayerMonotonicity judged edges", () => {
   const workspaces: readonly WorkspaceEntry[] = [
-    { name: "@x/core", path: "packages/x/core" },
-    { name: "@x/lib", path: "packages/x/lib" },
-    { name: "@x/cli", path: "packages/x/cli" },
+    { name: "@x/core", path: "x/core" },
+    { name: "@x/lib", path: "x/lib" },
+    { name: "@x/cli", path: "x/cli" },
   ]
   const typeByPath = new Map([
-    ["packages/x/core", "pure"],
-    ["packages/x/lib", "access"],
-    ["packages/x/cli", "program"],
+    ["x/core", "pure"],
+    ["x/lib", "access"],
+    ["x/cli", "program"],
   ])
 
   test("every runtime edge between typed, ranked workspaces is judged", () => {
@@ -362,8 +362,8 @@ describe("judgeLayerMonotonicity judged edges", () => {
       input({
         workspaces,
         typeByPath: new Map([
-          ["packages/x/core", "pure"],
-          ["packages/x/lib", "access"],
+          ["x/core", "pure"],
+          ["x/lib", "access"],
         ]),
         edges: [runtimeEdge("@x/lib", "@x/cli"), runtimeEdge("@x/lib", "@x/core")],
       })
