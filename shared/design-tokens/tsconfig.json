@@ -13,7 +13,7 @@
   },
   "include": [
     "src/**/*.ts",
-    "../../design-tokens/**/*.ts"
+    "../../design-tokens/design-tokens.ts"
   ],
   "exclude": [
     "node_modules",
