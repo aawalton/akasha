@@ -1,0 +1,15 @@
+---
+id: b68eaa73-584e-5079-a2f7-a31930029c71
+page-type-slug: persona-appearance
+title: "Elin appearance"
+slug: elin-appearance
+domain-parent-slug: persona/elin
+---
+
+# Definition
+
+- **Elin appearance** — what Elin looks like.
+
+# Appearance
+
+The horns come up out of the hair, arch over, and come down in front of the brow with the points turned back up. They are milk-white and ridged across, and the fire in them is grains rather than a wash — separate points of green and gold and a little pink, packed thick along the top of the arc and thinning away to nothing on the underside, over a white that stays cold under lamps as yellow as these. The eyes are green with yellow lying under the green and the pupils are round, and a sweep of small opal scales runs from under one eye out onto the cheekbone, with a smaller mark at the far corner of the other. The hair is green before it is black and goes past the waist without a break in it. The dress is dark green and boned, with a thin cord run up to the throat, and I am holding a gilt figure the length of my thumb up against the lampshade over a glass case, and I have not said yet what it is.

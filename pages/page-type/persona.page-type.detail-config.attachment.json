@@ -1,0 +1,8 @@
+{
+  "display": "persona",
+  "frame": {
+    "autoScroll": {
+      "loadScroll": "end"
+    }
+  }
+}

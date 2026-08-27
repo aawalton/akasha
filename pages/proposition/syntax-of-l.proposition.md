@@ -1,0 +1,31 @@
+---
+page-type-slug: proposition
+title: "Syntax of L"
+id: 019f0edc-7797-7e41-8158-12a744341f98
+kind: definition
+status: adopted
+---
+**Bedrock — *chosen, not proved.*** I give you the syntax of our language `L` whole; every non-trivial symbol is defined where it first appears. You derive none of this — it's the ground the proofs stand on.
+
+## The alphabet
+
+The raw symbols of `L`:
+
+- **Connectives** — two primitive: `¬` (read *not*) and `→` (read *implies*).
+- **Quantifier** — one primitive: `∀` (read *for all*). *(Idle for now — listed so the alphabet is whole; it does nothing until we adopt quantifier rules.)*
+- **Variables** — `v₀, v₁, v₂, …`, an endless supply (informally `x, y, z`). *(Also idle until quantifiers arrive.)*
+- **Grouping** — parentheses `(` and `)`.
+- **Atoms** — a stock of **atomic formulas** `P, Q, R, …`: the smallest formulas, indivisible for now. *(Their inner structure — predicates and terms — we define when we reach quantifiers.)*
+
+*Deferred*, to be **defined later as abbreviations** rather than taken as primitive: `∧` (and), `∨` (or), `↔` (iff), `∃` (there exists).
+
+## Formula
+
+A **formula** (well-formed formula) is any string built by these clauses — *inductive*, meaning the clauses generate every formula and nothing counts as a formula unless built by them:
+
+1. every atom `P, Q, R, …` is a formula;
+2. if `A` is a formula, so is `¬A`;
+3. if `A` and `B` are formulas, so is `(A → B)`;
+4. nothing else is a formula.
+
+Here `A, B, C` are **metavariables** — names standing for *arbitrary formulas*, not symbols inside `L` itself. (We drop outermost parentheses when no ambiguity results — convenience, not a rule.)

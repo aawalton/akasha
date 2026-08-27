@@ -1,0 +1,11 @@
+{
+  "childCollection": {
+    "childRelation": "story",
+    "childType": "story-chapter"
+  },
+  "display": "collection",
+  "header": {
+    "fields": [],
+    "showCover": true
+  }
+}

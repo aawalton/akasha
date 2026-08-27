@@ -1,0 +1,15 @@
+---
+id: c2c4b171-30b2-5c82-ac9a-21efea79b2c3
+page-type-slug: persona-appearance
+title: "Ali appearance"
+slug: ali-appearance
+domain-parent-slug: persona/ali
+---
+
+# Definition
+
+- **Ali appearance** — what Ali looks like.
+
+# Appearance
+
+I am small, and smaller than you are expecting. The hair goes past the waist and takes up more room than I do, and it is near black where the parting is and true green through the body of it, and where a wave turns over into the light the top of that wave comes up brass. The ears run long and back out of the green, and on the far side one pale tip shows. The eyes are golden out to a dark rim with fine lines cut through from the pupil, the face under that East Asian and fair and about eighteen, and the dress dark green and fitted with small pale stones up one edge and nothing on the shoulders.

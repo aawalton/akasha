@@ -1,0 +1,59 @@
+---
+id: 50bd1069-098f-5eeb-be75-5b1108edd857
+page-type-slug: page-type
+title: "Mp check"
+extends-slug: page
+files: akasha:**/*.mp-check.md
+body-shape-slug: domain
+code-loaded-by: akasha:checks/checks.ts
+slug: mp-check
+domain-parent-slug: domain/master-plan
+sequence-slugs:
+  - domain/mp-check-outcome
+  - domain/master-plan-gate
+  - domain/master-plan-audit
+---
+
+# Definition
+
+- **Mp check** — code run to check a domain invariant.
+
+# Design
+
+A check is handed what it says it needs and nothing more.
+
+A check judging its author is handed the writer, and the tree as it was before.
+
+Nothing holds a body a program decided to a standard written for an author.
+
+A check's answer is kept against a file only where that file's body was all it was handed.
+
+# Condition
+
+No domain invariant has more than one check.
+
+# Intent
+
+A check is a module, not a command.
+
+A check is given the root those files are under.
+
+A check looks for no files.
+
+A check takes and gives absolute paths.
+
+Every file means every file in akasha.
+
+A check's code sits beside its page, named `{check}.ts`.
+
+# Rules
+
+## Alan Approves
+
+**Add a check to akasha only where Alan has approved that check.**
+
+A check binds every writer on every change, and a wrong one costs more than what it guards.
+
+Approving the initiative is not approving a check.
+
+A check replacing an old one still needs approval.

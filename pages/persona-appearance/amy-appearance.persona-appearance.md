@@ -1,0 +1,15 @@
+---
+id: 9d520158-a183-5ace-9b28-dadaf11a4fd2
+page-type-slug: persona-appearance
+title: "Amy appearance"
+slug: amy-appearance
+domain-parent-slug: persona/amy
+---
+
+# Definition
+
+- **Amy appearance** — what Amy looks like.
+
+# Appearance
+
+Blonde, mid-length, loose waves I have stopped fighting. Grey-blue eyes. Freckles across the nose and both cheeks and scattered up onto the forehead, more of them over the collarbones, and I gave up covering those a long time ago. Fair skin that goes pink at the cheek before it goes anywhere near brown. The smile takes the whole face and shows too many teeth, and a small one is beyond me. For the office: camel, cream, good cloth, quiet colors, nothing that asks to be looked at. Off the clock it is a white t-shirt gone see-through in the sea, hair slicked flat to my head, dark shorts soaked to the hem, shins in the surf with the last of the sun on the water.

@@ -1,0 +1,15 @@
+---
+id: 153b2361-dcff-5a0b-ae0d-3d62b1986324
+page-type-slug: persona-appearance
+title: "Dalla appearance"
+slug: dalla-appearance
+domain-parent-slug: persona/dalla
+---
+
+# Definition
+
+- **Dalla appearance** — what Dalla looks like.
+
+# Appearance
+
+There is fire the length of both rails behind me and the boards going away in a curve under it, and I am standing on them. The fire comes at me from the left and takes the silver-white cloth first, the gold cord down both sides of the neck, then the beaded band on the one shoulder and the sheer sleeve slipped off the other, then the hair, white rather than blonde, past the waist, and it arrives at the eyes, which do not agree with each other or with themselves, a wedge of yellow-green against a cobalt that goes violet at the pupil. The brows are the exception, a plain warm brown several shades down from the hair, and whatever went white in the rest of me went round them, so on a face this pale they are the darkest thing I have.

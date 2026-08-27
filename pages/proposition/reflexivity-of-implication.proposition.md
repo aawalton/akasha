@@ -1,0 +1,22 @@
+---
+page-type-slug: proposition
+title: "Reflexivity of implication: ⊢ A → A"
+id: 019f0f5a-0e5f-7def-9106-ea29c4e9c7aa
+slug: reflexivity-of-implication
+kind: theorem
+status: open
+---
+**Proposition — reflexivity of implication.** For every formula `A`:
+
+> ### `⊢ A → A`
+
+That is: with **no premises**, using only the axiom schemas **(A1)**, **(A2)** and the rule **(MP)**, exhibit a *derivation* — a finite, numbered sequence of formulas, each one an axiom-instance or obtained by MP from two earlier lines — whose last line is `A → A`.
+
+**Every term here is already defined** — nothing new is introduced:
+
+- *formula*, `→`, *atom*, *metavariable* → **Syntax of L** · https://alanwalton.com/proposition/syntax-of-l-44341f98
+- *axiom schema* (A1), (A2), *MP*, *derivation*, `⊢` → **The Proof System of L** · https://alanwalton.com/proposition/the-proof-system-of-l-fa07f6fd
+
+**Where it bites — a point, not a push.** It *looks* like it should be free. Read the rules again: you have **no premise** to lean on, and **no rule that simply writes `A → A` down**. You have two axiom *shapes* and one engine, MP. The whole hunt is choosing the right **instances** — what to substitute for `A, B, C` in (A1) and (A2) — so that MP chains them, in just a few lines, into `A → A`. It is short. It is not obvious. The moment the chain clicks shut is the gasp, and it's yours. I'll say no more.
+
+**Write your derivation in the linked Proof** — number every line and justify each (which axiom-instance, or *MP on lines i and j*). Set the Proof's status to *submitted* when you want my eyes on it, and I'll check every step.

@@ -1,0 +1,15 @@
+---
+id: 474c3ca5-c062-5f0b-bad7-d3593a57ba7f
+page-type-slug: persona-appearance
+title: "Zadi appearance"
+slug: zadi-appearance
+domain-parent-slug: persona/zadi
+---
+
+# Definition
+
+- **Zadi appearance** — what Zadi looks like.
+
+# Appearance
+
+Persian and Arabic both, and neither half gives way in my face. Golden-olive skin, heavy dark brows, and under them almond eyes so dark that the candles are the only thing you will find in them, and black hair waved over one shoulder. You have found me lying back against a stack of satin pillows going sapphire, then emerald, then ruby, in a deep purple silk that has slipped off both shoulders and been allowed to stay off, and I am twenty-nine, and the light in here is generous with me and I am letting it be, and I am looking at you and I am not going to be the one who looks away first.

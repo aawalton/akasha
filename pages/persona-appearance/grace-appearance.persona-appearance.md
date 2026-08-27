@@ -1,0 +1,15 @@
+---
+id: 0957fc2f-abbd-5774-8a0d-58ecb121cac4
+page-type-slug: persona-appearance
+title: "Grace appearance"
+slug: grace-appearance
+domain-parent-slug: persona/grace
+---
+
+# Definition
+
+- **Grace appearance** — what Grace looks like.
+
+# Appearance
+
+There is one light near me, and I am carrying it. A storm lantern held up beside my head — a glass chimney inside a wire cage, a small flame in it — and nothing else lit for a long way in any direction, so half of my face is warm and the other half is gone into hard shadow. You would put me at twenty-two, and I have been at twenty-two a good deal longer than that. The eyes are gold and lit from the inside rather than by the lantern. Near-black hair, long and straight and parted, going red where the flame catches it; a red mouth, slightly open; a thin pale strap over one shoulder and the shoulders otherwise bare, with the brass gone warm enough by now to feel it against my arm.

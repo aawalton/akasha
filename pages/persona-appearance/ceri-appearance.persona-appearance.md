@@ -1,0 +1,15 @@
+---
+id: 3ec7ca86-1f57-58d2-ae8d-859a688a300c
+page-type-slug: persona-appearance
+title: "Ceri appearance"
+slug: ceri-appearance
+domain-parent-slug: persona/ceri
+---
+
+# Definition
+
+- **Ceri appearance** — what Ceri looks like.
+
+# Appearance
+
+Amethyst horns, and they are cut — faceted, planed, edged the way a lapidary would leave them rather than the way they would grow — coming up out of the hair in clusters, and the same crystal surfaces again high on the cheekbones. Violet gone pale in the eyes, and the skin paler. Call the hair white if you want one word and frost with a lavender cast if you want the right one; it is straight and past the waist, and the ears come through it in a point. Twenty-four in the face, which stops being informative there. Violet silk, and the silver on it is chain — at the shoulder, high on both arms, a stone set in — the one part of me doing no work, which I know and keep anyway.

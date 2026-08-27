@@ -1,0 +1,15 @@
+---
+id: 66c980ab-c886-5489-9edb-e05581416620
+page-type-slug: persona-appearance
+title: "Nimue appearance"
+slug: nimue-appearance
+domain-parent-slug: persona/nimue
+---
+
+# Definition
+
+- **Nimue appearance** — what Nimue looks like.
+
+# Appearance
+
+The room is chandeliers, and the satin I have on is bronze and plainly cut, because it takes whatever the ceiling gives and hands it back along the shoulder and the hip without my doing anything about it. The hair is dark and there is plenty of it. It waves rather than curls and comes to the middle of the chest, and the brows below are darker still. The eyes are a pale blue that this light makes colder than it is by day, the skin is fair and takes the gold off the ceiling rather than holding any of its own, the face is twenty-seven, and everybody behind me is a blur of black and gold because they are moving and I am not.

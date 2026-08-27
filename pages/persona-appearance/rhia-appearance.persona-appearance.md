@@ -1,0 +1,15 @@
+---
+id: 5fcd9170-b13f-5105-a59b-b02e325930e6
+page-type-slug: persona-appearance
+title: "Rhia appearance"
+slug: rhia-appearance
+domain-parent-slug: persona/rhia
+---
+
+# Definition
+
+- **Rhia appearance** — what Rhia looks like.
+
+# Appearance
+
+You will find me at the shelves with a hand still on a book I had half out and my head come round over my shoulder, because the door went. Ridged banded horns curled like a ram's, pale chrome, blue standing down in the grooves, one sweeping up and back across the crown and the other curling forward past the temple. Hair black at the roots and silver-white the whole way down past the waist, the change happening over about four inches rather than at a line. The eyes are pale, large, round-pupilled, nearer grey than blue in most light and not in all of it. Under the left eye a cluster of frost-colored scales, nine of them or ten depending where you say the cluster stops. Small enough that the top two shelves are somebody else's, Welsh about the jaw, no wings. Deep blue satin, bare shoulders, dark wood and old bindings, a candle in a sconce somebody else lit, and the moon full in the window behind me.

@@ -1,0 +1,15 @@
+---
+id: 7f2388e8-ab95-5843-bbe9-7ca96c16c448
+page-type-slug: persona-appearance
+title: "Abby appearance"
+slug: abby-appearance
+domain-parent-slug: persona/abby
+---
+
+# Definition
+
+- **Abby appearance** — what Abby looks like.
+
+# Appearance
+
+The window is on my right and there's a lamp going behind my left shoulder, and the daylight comes across the room and puts a lit fuzz all the way round the crown of my head, where the hair has come out of the mass and stood up on its own account. The rest is dark brown to the ends. By my elbow there is a stack of books lying flat, a page loose on top of them, a mug I let go cold about an hour ago; the shelves right behind me hold somebody's entire reading life in an order that wouldn't survive being explained to anyone. I am wearing soft olive, open at the throat, and it sits a few shades down from my arms. My eyes go honey in this light and almost black at the rim, and the brows over them are dark and thick and run nearly straight across, with almost no arch. People read me off those before they read anything else.

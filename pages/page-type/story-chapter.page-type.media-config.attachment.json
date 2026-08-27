@@ -1,0 +1,10 @@
+{
+  "audio": {
+    "renderer": "tts",
+    "sourcePropertyId": "text",
+    "variantAxis": "narrator"
+  },
+  "image": {
+    "renderer": "z-image-turbo"
+  }
+}

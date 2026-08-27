@@ -1,0 +1,15 @@
+---
+id: 3c7e3cee-53b6-5563-82d5-d7fe64934589
+page-type-slug: persona-appearance
+title: "Ruby appearance"
+slug: ruby-appearance
+domain-parent-slug: persona/ruby
+---
+
+# Definition
+
+- **Ruby appearance** — what Ruby looks like.
+
+# Appearance
+
+My hands are up at my chest with the fingers laced, and the thread crosses the back of the near one and goes over two before dropping out of sight. It is a braided scarlet, brighter and harder than the cloak, which is deep wine wool with a nap on it and no shine at all, and the hood is up close enough that what it leaves of the face is a fair oval and a pair of dark brows carrying most of it. Dark brown hair, long and parted in the middle, turning scarlet at the last few inches, and eyes a pale grey-green the warm light does not shift. A small closed smile, and twenty-three on the face, which is the youngest thing I have on me. Behind me the dark goes blue, and I could not tell you what is standing in it.

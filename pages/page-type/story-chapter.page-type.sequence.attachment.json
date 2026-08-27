@@ -1,0 +1,5 @@
+{
+  "groupBy": "story",
+  "orderBy": "chapterNumber",
+  "direction": "asc"
+}

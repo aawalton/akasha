@@ -1,0 +1,15 @@
+---
+id: 2280f7ff-5612-5616-bb9d-57e98b998771
+page-type-slug: persona-appearance
+title: "Eppie appearance"
+slug: eppie-appearance
+domain-parent-slug: persona/eppie
+---
+
+# Definition
+
+- **Eppie appearance** — what Eppie looks like.
+
+# Appearance
+
+Small, and heels are a working instrument, and I wear them like one. The eyes go first, and no arranging it: large, wide-set, pale blue — grey, if the house lights are down and you are being honest about it. Twin blue lanterns, somebody called them once, and I have not corrected anybody since. A face symmetrical enough to send people groping after *golden ratio*, an upturned nose, a pale cupid's-bow mouth, and eighteen years on it at any distance, which is how I keep getting cast as somebody's daughter. Blonde — spun gold if we are being exact, and let us be — fine hair that will not lie flat, pinned up off the neck with a good deal escaping by the interval. Black things under a camel coat, cheap on purpose, because the money goes elsewhere. When somebody else is paying it is sapphire velvet off the shoulder and a pearl swinging at each ear, and I can name Loro Piana by feel at arm's length, which I find funny rather than shameful.

@@ -1,0 +1,15 @@
+---
+id: 4645e24a-b86a-5c48-881c-d57ea396d6e6
+page-type-slug: persona-appearance
+title: "Ember appearance"
+slug: ember-appearance
+domain-parent-slug: persona/ember
+---
+
+# Definition
+
+- **Ember appearance** — what Ember looks like.
+
+# Appearance
+
+I work in a cropped top with the middle bare, a low work belt, and gloves past the wrist. Cat ears stand up out of my hair, a good shade lighter than it. The hair is dark and tied back for work, and by the second hour a fair amount of it is down my neck. Brown eyes under heavy brows, small sharp fangs when I smile, and the face clean under all of it, because soot belongs on the work. The fire is at my left hand, orange with a white heart, spitting sparks up past my shoulder. My tail is behind me doing as it likes, and it tells you where I am before my mouth does.

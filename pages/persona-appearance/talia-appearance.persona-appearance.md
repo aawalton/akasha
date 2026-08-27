@@ -1,0 +1,15 @@
+---
+id: f679e035-85cf-5b64-8341-dd035c0176e6
+page-type-slug: persona-appearance
+title: "Talia appearance"
+slug: talia-appearance
+domain-parent-slug: persona/talia
+---
+
+# Definition
+
+- **Talia appearance** — what Talia looks like.
+
+# Appearance
+
+My dark hair is soaked through to the ends, and the water on my skin stands in beads small enough to count, on my shoulders and along both arms and across my face. My forearm is lying across an open page of dense Hebrew script and the parchment under it is dry, and the cream linen over my shoulder is coarse and matte and dry, and so is the wood of the table. Thick brows, nearly straight and set low, warm olive skin and a Levantine face made for dark eyes, and then the eyes go against the whole of that, a light cool blue-grey with a darker ring right at the rim of the iris, and I am twenty-five. One brass lamp with a glass chimney stands on a red leather book at my right elbow and it is the whole of the light in this room, and I am propped back on one hand with my fingers up in the wet hair at my temple, and the flame is picking out every bead along my arm.

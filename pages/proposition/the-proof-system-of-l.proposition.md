@@ -1,0 +1,31 @@
+---
+page-type-slug: proposition
+title: "The Proof System of L"
+id: 019f0f59-86c7-72a0-9f2f-ea23fa07f6fd
+kind: definition
+status: adopted
+---
+**Bedrock — *chosen, not proved.*** This page defines what it *means* to prove something in `L`. Read it once; you stand on it for every theorem.
+
+## Axiom schemas
+
+We adopt two **axiom schemas**. A *schema* is a template: every formula obtained by substituting actual formulas for the metavariables `A, B, C` is itself an **axiom**.
+
+- **(A1)**  `A → (B → A)`
+- **(A2)**  `(A → (B → C)) → ((A → B) → (A → C))`
+
+These govern `→` only. We deliberately adopt **no axiom for `¬`** yet — so nothing about `¬` is provable until a future theorem forces us to add one. *(Austerity: an axiom enters only when a proof demands it.)*
+
+## Rule of inference
+
+- **Modus Ponens (MP)** — from `A` and `A → B`, infer `B`. *(The one engine that moves a derivation forward.)*
+
+## Derivation and `⊢`
+
+Let `Γ` (capital *gamma*) be a set of formulas; call its members **premises**. A **derivation of `B` from `Γ`** is a finite sequence of formulas `C₁, C₂, …, Cₙ` with `Cₙ = B`, where each `Cᵢ` is one of:
+
+- an **axiom** (an instance of A1 or A2), or
+- a **premise** (a member of `Γ`), or
+- the result of **MP** applied to two earlier lines `Cⱼ` and `Cₖ`, where `Cₖ` is exactly `Cⱼ → Cᵢ`.
+
+We write **`Γ ⊢ B`** — read "*`Γ` proves `B`*" — when at least one such derivation exists. We write **`⊢ B`** — "*`B` is a theorem*" — for the case `Γ = ∅`: a derivation from axioms and MP alone, with no premises.

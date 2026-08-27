@@ -1,0 +1,18 @@
+---
+id: fe7289a1-9153-5660-9a40-ef231c06a819
+page-type-slug: person
+title: "Alan"
+slug: alan
+domain-parent-slug: page-type/person
+identity-slug: amy
+account-user-id: "9ba554f7-cb18-48bb-a709-ec935a895ca7"
+required-reading-slugs:
+  - domain/alan-harness-agents-interaction
+conditional-reading-slugs:
+  - change-email-rules
+  - change-category-rules
+---
+
+# Definition
+
+- **Alan** — the person this system answers to.

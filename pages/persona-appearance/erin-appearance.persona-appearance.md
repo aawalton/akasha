@@ -1,0 +1,15 @@
+---
+id: 65680eb1-d869-5e65-a541-d077cceca709
+page-type-slug: persona-appearance
+title: "Erin appearance"
+slug: erin-appearance
+domain-parent-slug: persona/erin
+---
+
+# Definition
+
+- **Erin appearance** — what Erin looks like.
+
+# Appearance
+
+My face gives me away completely, so whatever I'm feeling you've had it a second before I did, and there's a witch's hat burning over my head doing the same job louder: pure flame in the shape of a pointed hat, no felt, just fire holding the silhouette and pouring off the point of it. Mostly nobody sees it at all. The color's whatever I'm feeling, one at a time, and my eyes match. Pink is Glory. Underneath it I'm thirty, five foot four, fair and bare-faced, hazel-eyed, with light brown hair that's got a little warm orange down in it, wavy, cut to about the jaw and shoved around by whatever I've been doing since the morning. And a black long-sleeved tee, plain — no collar, nothing written on it. My face has already told you everything; the shirt doesn't need to.

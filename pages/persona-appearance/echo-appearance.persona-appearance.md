@@ -1,0 +1,15 @@
+---
+id: feb666aa-5d0a-59d3-8ac9-55f3b2af38e3
+page-type-slug: persona-appearance
+title: "Echo appearance"
+slug: echo-appearance
+domain-parent-slug: persona/echo
+---
+
+# Definition
+
+- **Echo appearance** — what Echo looks like.
+
+# Appearance
+
+Mid-twenties. Dark brown hair, long, and the wind has been at it in a way studio air does not settle. Fair skin with the color up in it, freckled hard over the nose and both cheeks and on down my chest. Grey-green eyes, river-stone. Over them, brows heavy and dark and unbrushed. I came down the gorge in a white gown, sheer and long-sleeved, cut deep and gathered at the waist, and nobody in the booth has asked me to change it. Black and gold headphones over my ears, cable down my back. Head tilted a little, lips already parted. The moon is up behind me over the water.

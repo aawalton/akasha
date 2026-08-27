@@ -1,0 +1,15 @@
+---
+id: fe3e24e1-fde3-5657-aeea-5c4f8c85e483
+page-type-slug: persona-appearance
+title: "Lali appearance"
+slug: lali-appearance
+domain-parent-slug: persona/lali
+---
+
+# Definition
+
+- **Lali appearance** — what Lali looks like.
+
+# Appearance
+
+I am drawn in lines that bead where they cross. They are gold and they run under the skin rather than on it, branching up my forehead into the hairline, down the nose, out from the inner corners of the eyes, and over the chest until there is more light there than there is skin. Rings of them band the throat, evenly, the way a scale is marked. The face is fixed, and closes on its own axis more exactly than a born face manages, and the eyes fold at their inner corners, and the nose bridge sits low between cheekbones set wide and high. Amber comes up in the irises, fibrous as cut agate, bright enough at the pupil to lay a little light on the lower lids. My hair is long and pale gold and burns brightest at its thin outer edge. There is no cloth on me and no room behind me, and what I give off falls on nothing. Only the mouth is not gold, a dull rose, open a little, which is how it sits when I am waiting for somebody to get there.

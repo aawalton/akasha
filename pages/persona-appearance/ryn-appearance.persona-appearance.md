@@ -1,0 +1,15 @@
+---
+id: 783a1ad3-e45f-5712-8408-36e1afd37b77
+page-type-slug: persona-appearance
+title: "Ryn appearance"
+slug: ryn-appearance
+domain-parent-slug: persona/ryn
+---
+
+# Definition
+
+- **Ryn appearance** — what Ryn looks like.
+
+# Appearance
+
+Black hair, straight, past the waist and into whatever I am doing, so if you come across one pressed at chapter nine that is mine and it's not a bookmark. The face is East Asian and somewhere in the middle twenties, and the glasses over it are wine-red at the rim and get pushed up with the back of my wrist, because there is usually ink on the fingers. The wings stay out whether or not I'm using them, gold along the whole edge with violet through the panes and the veins picked out in gold again, and I come in on the same gold with violet sparking through it, grinning, which is a great deal of ceremony for fetching a book. Black, sleeveless, bare at the shoulders, because sleeves and wings argue.

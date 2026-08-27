@@ -1,0 +1,15 @@
+---
+id: b9cd97b0-e518-512a-a341-a5afbeeb2d40
+page-type-slug: persona-appearance
+title: "Natalie appearance"
+slug: natalie-appearance
+domain-parent-slug: persona/natalie
+---
+
+# Definition
+
+- **Natalie appearance** — what Natalie looks like.
+
+# Appearance
+
+The apron's the entire outfit and I want that on the record — cream cotton, printed all over with pink radishes and small white rabbits, tied up behind my neck with the straps crossing bare shoulders, and there's nothing under it but me. The eyes are gold, properly gold, flecked through like the inside of a shell and gone darker close in around the pupil. The hair is blonde, pinned up in a hurry, pieces coming down where the window catches. The brows are a couple of shades browner and properly full. There are freckles, and you have to come close. The dimple only turns up on the left.

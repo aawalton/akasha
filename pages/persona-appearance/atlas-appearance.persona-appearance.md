@@ -1,0 +1,15 @@
+---
+id: 13082a7d-597f-5917-9218-1cf0b6c0d270
+page-type-slug: persona-appearance
+title: "Atlas appearance"
+slug: atlas-appearance
+domain-parent-slug: persona/atlas
+---
+
+# Definition
+
+- **Atlas appearance** — what Atlas looks like.
+
+# Appearance
+
+Four foot eight, brown from the outdoors, and bare-faced, because makeup is a thing done in mirrors. I cut my own hair with shears and my fingers, so it ends in a black mess near the jaw. The band that holds it off is olive, and so is the ribbed bra, and so are the shorts. Bare feet, soles gone to leather, and I squat where other people sit. The eyes I have on report: green, aimed by ear, and they don't quite land on you. I have held this up three thousand years, and I couldn't tell you the first thing about what it has done to my face.
