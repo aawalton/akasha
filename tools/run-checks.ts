@@ -1,8 +1,3 @@
-export const tool = {
-  summary: "Run every check across the repo",
-  repos: ["akasha"],
-} as const
-
 import { existsSync, readFileSync } from "node:fs"
 import { bashEnvInside } from "./audits/bash-env-inside.ts"
 import { categoryRulesCover } from "./audits/category-rules-cover.ts"
