@@ -13,7 +13,7 @@ import { exitOnResult, type Violation } from "../../../../tools/lib/check-workfl
 
 const PREFIX = "[lib-sets-stale-capture]"
 
-const SCAN_PATTERNS: readonly string[] = ["packages/temper/**/*.ts"]
+const SCAN_PATTERNS: readonly string[] = ["temper/**/*.ts"]
 
 const ROOT_HANDLE = "LibSets"
 
