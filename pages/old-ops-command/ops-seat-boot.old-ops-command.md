@@ -2,7 +2,7 @@
 id: 1f767fad-3ea6-5cd9-a7c0-a76d2e0f63b0
 page-type-slug: old-ops-command
 title: "Ops instructions compose-boot"
-slug: ops-instructions-compose-boot
+slug: ops-seat-boot
 domain-parent-slug: domain/ops-instructions
 required-reading-slugs:
   - page-type/old-ops-command
