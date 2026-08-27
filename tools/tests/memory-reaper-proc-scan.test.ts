@@ -91,11 +91,11 @@ const CASES: readonly Case[] = [
       out: redactArgv([
         "/home/walton/.bun/bin/bun",
         "run",
-        "/repo/packages/agents/supervisor/src/spawn-headless.ts",
+        "/repo/tools/lib/spawn-headless.ts",
         "--",
         "/home/walton/.bun/bin/bun",
         "run",
-        "/repo/packages/agents/supervisor/src/supervisor.ts",
+        "/repo/tools/run-supervisor.ts",
         "--headless",
       ]),
     }),
@@ -103,11 +103,11 @@ const CASES: readonly Case[] = [
       out: [
         "/home/walton/.bun/bin/bun",
         "run",
-        "/repo/packages/agents/supervisor/src/spawn-headless.ts",
+        "/repo/tools/lib/spawn-headless.ts",
         "--",
         "/home/walton/.bun/bin/bun",
         "run",
-        "/repo/packages/agents/supervisor/src/supervisor.ts",
+        "/repo/tools/run-supervisor.ts",
         "--headless",
       ],
     },
@@ -133,9 +133,9 @@ const CASES: readonly Case[] = [
   {
     name: "keeps source paths — the which-file-was-in-flight datum",
     run: () => ({
-      out: redactArgv(["/usr/bin/bun", "test", "packages/agents/shared/agent-liveness.ts"]),
+      out: redactArgv(["/usr/bin/bun", "test", "tools/lib/decide-proc-liveness.ts"]),
     }),
-    standing: { out: ["/usr/bin/bun", "test", "packages/agents/shared/agent-liveness.ts"] },
+    standing: { out: ["/usr/bin/bun", "test", "tools/lib/decide-proc-liveness.ts"] },
   },
   {
     name: "a blob wearing a slash is not a path",

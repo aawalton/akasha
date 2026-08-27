@@ -10,9 +10,9 @@ import {
 
 const AGENT = "019f49c3-4834-7fbc-974b-2d781b3a827f"
 const OTHER = "019f4785-924f-7d05-a177-2d4063f90482"
-const SUPERVISOR = "bun run /code/packages/agents/supervisor/src/supervisor.ts -a aawalton"
+const SUPERVISOR = "bun run /repo/tools/run-supervisor.ts -a aawalton"
 const WRAPPER =
-  "bun run /code/packages/agents/supervisor/src/spawn-headless.ts -- bun run /code/packages/agents/supervisor/src/supervisor.ts"
+  "bun run /repo/tools/lib/spawn-headless.ts -- bun run /repo/tools/run-supervisor.ts"
 const CLAUDE = "claude --dangerously-skip-permissions --model opus"
 const PROXY = "bun /code/packages/agents/oauth-proxy/src/main.ts"
 const CLI = 999_999

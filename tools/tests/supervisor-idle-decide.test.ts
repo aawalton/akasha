@@ -65,7 +65,7 @@ describe("isIdleForPreservingRestart", () => {
 
 describe("isIgnoredMcpChildCmdline", () => {
   test.each([
-    ["stdio messages MCP server", "bun packages/agents/messages/mcp.ts"],
+    ["stdio messages MCP server", "bun tools/lib/messages-mcp.ts"],
     ["playwright MCP via cli path", "node /home/x/.bun/install/cache/playwright-mcp/cli.js"],
     ["playwright MCP via scoped package", "node @playwright/mcp --isolated"],
     ["npm exec scoped server", "npm exec @notionhq/notion-mcp-server"],
@@ -75,7 +75,7 @@ describe("isIgnoredMcpChildCmdline", () => {
 
   test.each([
     ["bash snapshot shell", "/bin/bash --noprofile --norc -c sleep 5"],
-    ["foreground tool command", "bun test packages/agents/supervisor/src/"],
+    ["foreground tool command", "bun test tools/lib/supervisor.ts"],
     ["empty cmdline", ""],
   ])("%s counts busy", (_label, cmdline) => {
     expect(isIgnoredMcpChildCmdline(cmdline)).toBe(false)
