@@ -2,7 +2,7 @@
 // Every value here refuses; the callers are waiting to be migrated onto `graph/ask.ts`.
 import { dirname, join } from "node:path"
 import { fileURLToPath } from "node:url"
-import { oldGraphGone } from "../graph-gone.ts"
+import { oldGraphGone } from "./graph-gone.ts"
 
 export const PRODUCERS_DIR = join(dirname(fileURLToPath(import.meta.url)), "producers")
 export const applyRegistrars = ((...a: readonly unknown[]) => oldGraphGone("applyRegistrars")) as never
