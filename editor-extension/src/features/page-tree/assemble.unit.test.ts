@@ -13,7 +13,7 @@
 import { describe, expect, test } from 'bun:test';
 import { type PageAnswers, type PageNode, type QueryRow, assemblePageTree } from './assemble';
 
-const at = (rel: string) => `instructions:${rel}`;
+const at = (rel: string) => `akasha:${rel}`;
 
 /** A page type row, as `page-type-all` answers one. */
 const type = (slug: string, extendsSlug: string): QueryRow => ({
@@ -46,7 +46,7 @@ const propertyType = (
 /** A domain row, as `domain-all` answers one. */
 const domain = (slug: string): QueryRow => ({ at: at(`pages/domain/${slug}.md`), values: { slug } });
 
-const REPO = '/home/walton/repos/instructions';
+const REPO = '/home/walton/repos/akasha';
 
 const answers = (given: Partial<PageAnswers>): PageAnswers => ({
 	types: [],
@@ -277,9 +277,11 @@ describe('assemblePageTree, what it reports rather than draws', () => {
 	 */
 	test('a row from another repository keeps that repository on it rather than being refused', () => {
 		const foreign = answers({
-			types: [{ at: 'akasha:readouts/readout.page-type.md', values: { slug: 'readout', 'extends-slug': 'none' } }],
+			types: [
+				{ at: 'code-editor:readouts/readout.page-type.md', values: { slug: 'readout', 'extends-slug': 'none' } },
+			],
 		});
-		expect(assemblePageTree(foreign, REPO).roots[0]?.at).toBe('akasha:readouts/readout.page-type.md');
+		expect(assemblePageTree(foreign, REPO).roots[0]?.at).toBe('code-editor:readouts/readout.page-type.md');
 	});
 
 	test('a row whose `at` carries no repository is refused rather than read as a bare path', () => {
