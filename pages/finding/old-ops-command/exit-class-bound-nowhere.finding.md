@@ -17,4 +17,6 @@ Before this pass the constraint was written out per-verb, in near-identical word
 
 Where the constraint IS stated today is `tools/lib/code-input-error.ts`'s own header — a code comment, and therefore itself due for removal under the same ruling that removed the copies. When it goes the claim is stated nowhere.
 
+It has gone. Re-measured 2026-08-27: `tools/lib/code-input-error.ts` and `tools/lib/code-errors.ts` are both absent, and the classification now lives at `shared/errors-core/src/exit.ts` — `EXIT` at line 1 giving `INPUT: 1`, `DATA: 2`, `OPERATIONAL: 3`, `UNCLASSIFIED: 70`, and `exitCodeForThrowable` at :62 returning `err.code` only where `isCliError` matched one of four `instanceof` arms at :55-58. That file opens on the constant with no header at all, and nothing across the 1163 tracked `*.domain.md`, `*.page-type.md`, `*.command.md` and `*.role.md` pages binds the constraint. So the claim is now stated nowhere, exactly as this predicted.
+
 The comparable constraint about capability modules is already bound once, at `domains/tasks/ops/move-command-bodies.md`, which is what let every namespace in this pass drop its per-verb copies without losing anything. This one has no such home.

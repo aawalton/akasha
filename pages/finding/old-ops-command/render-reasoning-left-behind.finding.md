@@ -27,4 +27,6 @@ The help blocks carry some of this but none of those three sentences, and a help
 
 Each is an argument for a line on the verb's own command document, which the domain schema admits. Landing one is Alan's under Every Changed Line, which is why this is filed.
 
+Re-measured 2026-08-27. The code repository was absorbed into akasha, so the file the three sentences stood in is gone and they now stand nowhere: `renderInodePressure` and `NOT_AUTHORITATIVE_FOR` match no tracked file but this page and its sibling under `pages/finding/ops-command/`. The bodies survive without them — `tools/lib/memory-reaper-global.ts:48` passes `perProcessKillPids: []` with nothing above it saying why that is right rather than unfinished, and the tree assessment it feeds stands at `tools/lib/memory-reaper-legs.ts:41` and `:100`.
+
 Not measured: how many verbs already in `tools/commands/` are in the same position.
